@@ -65,7 +65,7 @@
 
     (f) Service as a member of the Alaska Territorial Guard during World War II of any individual who was honorably discharged therefrom under section 8147 of the Department of Defense Appropriations Act, 2001, shall be considered active duty for purposes of all laws administered by the Secretary.
 
-([Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1110][/us/stat/72/1110]; [Pub. L. 87–102, § 1][/us/pl/87/102/s1], July 21, 1961, [75 Stat. 219][/us/stat/75/219]; [Pub. L. 88–616][/us/pl/88/616], Oct. 2, 1964, [78 Stat. 994][/us/stat/78/994]; [Pub. L. 89–311, § 5][/us/pl/89/311/s5], Oct. 31, 1965, [79 Stat. 1156][/us/stat/79/1156]; [Pub. L. 97–295, § 4(3)][/us/pl/97/295/s4/3], Oct. 12, 1982, [96 Stat. 1305][/us/stat/96/1305]; [Pub. L. 99–576, title VII, § 701(5)][/us/pl/99/576/s701/5], Oct. 28, 1986, [100 Stat. 3291][/us/stat/100/3291]; [Pub. L. 102–83, § 4(a)(1)][/us/pl/102/83/s4/a/1], (b)(1), (2)(E), Aug. 6, 1991, [105 Stat. 403–405][/us/stat/105/403-405]; [Pub. L. 106–259, title VIII, § 8147(a)][/us/pl/106/259/s8147/a], Aug. 9, 2000, [114 Stat. 705][/us/stat/114/705]; [Pub. L. 106–419, title III, § 301(b)][/us/pl/106/419/s301/b], Nov. 1, 2000, [114 Stat. 1852][/us/stat/114/1852].)
+([Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1110][/us/stat/72/1110]; [Pub. L. 87–102][/us/pl/87/102], § 1, July 21, 1961, [75 Stat. 219][/us/stat/75/219]; [Pub. L. 88–616][/us/pl/88/616], Oct. 2, 1964, [78 Stat. 994][/us/stat/78/994]; [Pub. L. 89–311][/us/pl/89/311], § 5, Oct. 31, 1965, [79 Stat. 1156][/us/stat/79/1156]; [Pub. L. 97–295][/us/pl/97/295], § 4(3), Oct. 12, 1982, [96 Stat. 1305][/us/stat/96/1305]; [Pub. L. 99–576, title VII][/us/pl/99/576/tVII], § 701(5), Oct. 28, 1986, [100 Stat. 3291][/us/stat/100/3291]; [Pub. L. 102–83][/us/pl/102/83], § 4(a)(1), (b)(1), (2)(E), Aug. 6, 1991, [105 Stat. 403–405][/us/stat/105/403-405]; [Pub. L. 106–259, title VIII][/us/pl/106/259/tVIII], § 8147(a), Aug. 9, 2000, [114 Stat. 705][/us/stat/114/705]; [Pub. L. 106–419, title III][/us/pl/106/419/tIII], § 301(b), Nov. 1, 2000, [114 Stat. 1852][/us/stat/114/1852].)
 
  __References in Text__ 
 
@@ -77,19 +77,19 @@
 
     Subsec. (f). [Pub. L. 106–259][/us/pl/106/259] added subsec. (f).
 
-    1991—Subsec. (a)(1). [Pub. L. 102–83, § 4(a)(1)][/us/pl/102/83/s4/a/1], substituted “administered by the Secretary” for “administered by the Veterans’ Administration”.
+    1991—Subsec. (a)(1). [Pub. L. 102–83][/us/pl/102/83], § 4(a)(1), substituted “administered by the Secretary” for “administered by the Veterans’ Administration”.
 
-    Subsec. (d). [Pub. L. 102–83, § 4(b)(1)][/us/pl/102/83/s4/b/1], (2)(E), substituted “Secretary” for “Administrator” in concluding provisions.
+    Subsec. (d). [Pub. L. 102–83][/us/pl/102/83], § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in concluding provisions.
 
-    1986—Subsec. (b)(2). [Pub. L. 99–576, § 701(5)(A)][/us/pl/99/576/s701/5/A], substituted “the person’s” for “his”.
+    1986—Subsec. (b)(2). [Pub. L. 99–576][/us/pl/99/576], § 701(5)(A), substituted “the person’s” for “his”.
 
-    Subsec. (c). [Pub. L. 99–576, § 701(5)(B)][/us/pl/99/576/s701/5/B], substituted “required for that individual” for “required for him”, “proceed to that individual’s home” for “proceed to his home”, and “in any event that individual” for “in any event he”.
+    Subsec. (c). [Pub. L. 99–576][/us/pl/99/576], § 701(5)(B), substituted “required for that individual” for “required for him”, “proceed to that individual’s home” for “proceed to his home”, and “in any event that individual” for “in any event he”.
 
-    Subsec. (d). [Pub. L. 99–576, § 701(5)(C)][/us/pl/99/576/s701/5/C], struck out “by him” after “injury incurred” in cl. (2), and in closing provisions, substituted “such individual was disabled” for “he was disabled”, “on which such individual began” for “on which he began”, “such individual was scheduled” for “he was scheduled”, “such individual ceased” for “he ceased”, and “the itinerary” for “his itinerary”.
+    Subsec. (d). [Pub. L. 99–576][/us/pl/99/576], § 701(5)(C), struck out “by him” after “injury incurred” in cl. (2), and in closing provisions, substituted “such individual was disabled” for “he was disabled”, “on which such individual began” for “on which he began”, “such individual was scheduled” for “he was scheduled”, “such individual ceased” for “he ceased”, and “the itinerary” for “his itinerary”.
 
-    1982—Subsec. (a)(2). [Pub. L. 97–295, § 4(3)(A)][/us/pl/97/295/s4/3/A], substituted “subchapter I of chapter 81 of title 5” for “the Federal Employees’ Compensation Act”.
+    1982—Subsec. (a)(2). [Pub. L. 97–295][/us/pl/97/295], § 4(3)(A), substituted “subchapter I of chapter 81 of title 5” for “the Federal Employees’ Compensation Act”.
 
-    Subsec. (e). [Pub. L. 97–295, § 4(3)(B)][/us/pl/97/295/s4/3/B], substituted “title 5 as a preference eligible described in [section 2108(3)(C) of title 5][/us/usc/t5/s2108/3/C]” for “the Act of June 27, 1944, ([58 Stat. 387–391][/us/stat/58/387-391]), as a person described in section 2(1) of such Act”.
+    Subsec. (e). [Pub. L. 97–295][/us/pl/97/295], § 4(3)(B), substituted “title 5 as a preference eligible described in [section 2108(3)(C) of title 5][/us/usc/t5/s2108/3/C]” for “the Act of June 27, 1944, ([58 Stat. 387–391][/us/stat/58/387-391]), as a person described in section 2(1) of such Act”.
 
     1965—Subsec. (e). [Pub. L. 89–311][/us/pl/89/311] added subsec. (e).
 
@@ -99,13 +99,13 @@
 
  __Effective Date of 1961 Amendment__ 
 
-[Pub. L. 87–102, § 2][/us/pl/87/102/s2], July 21, 1961, [75 Stat. 219][/us/stat/75/219], provided that: 
+[Pub. L. 87–102][/us/pl/87/102], § 2, July 21, 1961, [75 Stat. 219][/us/stat/75/219], provided that: 
 
 > “No monetary benefits shall accrue by reason of the amendments made by this Act \[amending this section\] for any period prior to the date of enactment \[July 21, 1961\].”
 
  __Service in Alaska Territorial Guard__ 
 
-[Pub. L. 106–259, title VIII, § 8147(b)][/us/pl/106/259/s8147/b], (c), Aug. 9, 2000, [114 Stat. 705][/us/stat/114/705], provided that:
+[Pub. L. 106–259, title VIII][/us/pl/106/259/tVIII], § 8147(b), (c), Aug. 9, 2000, [114 Stat. 705][/us/stat/114/705], provided that:
 
 >     “(b)  __Discharge__  __.—__ 
 
@@ -119,7 +119,7 @@
 
  __Women’s Air Forces Service Pilots__ 
 
-[Pub. L. 95–202, title IV, § 401][/us/pl/95/202/s401], Nov. 23, 1977, [91 Stat. 1449][/us/stat/91/1449], as amended by [Pub. L. 96–466, title VIII, § 801(m)(3)][/us/pl/96/466/s801/m/3], Oct. 17, 1980, [94 Stat. 2217][/us/stat/94/2217]; [Pub. L. 98–94, title XII, § 1263(a)][/us/pl/98/94/s1263/a], Sept. 24, 1983, [97 Stat. 703][/us/stat/97/703]; [Pub. L. 102–83, § 6(b)][/us/pl/102/83/s6/b], Aug. 6, 1991, [105 Stat. 407][/us/stat/105/407], provided that:
+[Pub. L. 95–202, title IV][/us/pl/95/202/tIV], § 401, Nov. 23, 1977, [91 Stat. 1449][/us/stat/91/1449], as amended by [Pub. L. 96–466, title VIII][/us/pl/96/466/tVIII], § 801(m)(3), Oct. 17, 1980, [94 Stat. 2217][/us/stat/94/2217]; [Pub. L. 98–94, title XII][/us/pl/98/94/tXII], § 1263(a), Sept. 24, 1983, [97 Stat. 703][/us/stat/97/703]; [Pub. L. 102–83][/us/pl/102/83], § 6(b), Aug. 6, 1991, [105 Stat. 407][/us/stat/105/407], provided that:
 
 >     “(a)
 
@@ -173,48 +173,48 @@
 [/us/usc/t5/s2108/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs2108%2F3%2FC
 [/us/pl/85/857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F857
 [/us/stat/72/1110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1110
-[/us/pl/87/102/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F102%2Fs1
+[/us/pl/87/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F102
 [/us/stat/75/219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F219
 [/us/pl/88/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F616
 [/us/stat/78/994]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F994
-[/us/pl/89/311/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F311%2Fs5
+[/us/pl/89/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F311
 [/us/stat/79/1156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1156
-[/us/pl/97/295/s4/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295%2Fs4%2F3
+[/us/pl/97/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295
 [/us/stat/96/1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1305
-[/us/pl/99/576/s701/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2Fs701%2F5
+[/us/pl/99/576/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2FtVII
 [/us/stat/100/3291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3291
-[/us/pl/102/83/s4/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fa%2F1
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/403-405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F403-405
-[/us/pl/106/259/s8147/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F259%2Fs8147%2Fa
+[/us/pl/106/259/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F259%2FtVIII
 [/us/stat/114/705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F705
-[/us/pl/106/419/s301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419%2Fs301%2Fb
+[/us/pl/106/419/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419%2FtIII
 [/us/stat/114/1852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1852
 [/us/pl/106/259/s8147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F259%2Fs8147
 [/us/pl/106/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419
 [/us/pl/106/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F259
-[/us/pl/102/83/s4/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fa%2F1
-[/us/pl/102/83/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fb%2F1
-[/us/pl/99/576/s701/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2Fs701%2F5%2FA
-[/us/pl/99/576/s701/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2Fs701%2F5%2FB
-[/us/pl/99/576/s701/5/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2Fs701%2F5%2FC
-[/us/pl/97/295/s4/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295%2Fs4%2F3%2FA
-[/us/pl/97/295/s4/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295%2Fs4%2F3%2FB
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/99/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576
+[/us/pl/99/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576
+[/us/pl/99/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576
+[/us/pl/97/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295
+[/us/pl/97/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295
 [/us/usc/t5/s2108/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs2108%2F3%2FC
 [/us/stat/58/387-391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F387-391
 [/us/pl/89/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F311
 [/us/pl/88/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F616
 [/us/pl/87/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F102
-[/us/pl/87/102/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F102%2Fs2
+[/us/pl/87/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F102
 [/us/stat/75/219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F219
-[/us/pl/106/259/s8147/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F259%2Fs8147%2Fb
+[/us/pl/106/259/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F259%2FtVIII
 [/us/stat/114/705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F705
-[/us/pl/95/202/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F202%2Fs401
+[/us/pl/95/202/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F202%2FtIV
 [/us/stat/91/1449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1449
-[/us/pl/96/466/s801/m/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F466%2Fs801%2Fm%2F3
+[/us/pl/96/466/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F466%2FtVIII
 [/us/stat/94/2217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2217
-[/us/pl/98/94/s1263/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94%2Fs1263%2Fa
+[/us/pl/98/94/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94%2FtXII
 [/us/stat/97/703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F703
-[/us/pl/102/83/s6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs6%2Fb
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F407
 [/us/usc/t38/s106/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs106%2Fa%2F2
 [/us/pl/98/94/s1263/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94%2Fs1263%2Fb

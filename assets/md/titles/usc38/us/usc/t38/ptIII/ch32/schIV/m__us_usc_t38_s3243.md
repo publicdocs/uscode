@@ -17,7 +17,7 @@
 
     Deductions made by the Department of Defense from the military pay of any participant shall be promptly transferred to the Secretary for deposit in the fund. The Secretary of Defense shall also submit to the Secretary a report each month showing the name, service number, and the amount of the deduction made from the military pay of each initial enrollee, any contribution made by the Secretary of Defense pursuant to [section 3222(c) of this title][/us/usc/t38/s3222/c], as well as any changes in each participant’s enrollment and/or contribution. The report shall also include any additional information the Secretary and the Secretary of Defense deem necessary to administer this program. The Secretary shall maintain accounts showing contributions made to the fund by individual participants and by the Secretary of Defense as well as disbursements made from the fund in the form of benefits.
 
-(Added [Pub. L. 94–502, title IV, § 404][/us/pl/94/502/s404], Oct. 15, 1976, [90 Stat. 2397][/us/stat/90/2397], § 1643; amended [Pub. L. 98–160, title VII, § 702(9)][/us/pl/98/160/s702/9], Nov. 21, 1983, [97 Stat. 1009][/us/stat/97/1009]; [Pub. L. 101–237, title IV, § 423(b)(1)(A)][/us/pl/101/237/s423/b/1/A], (4)(D), Dec. 18, 1989, [103 Stat. 2092][/us/stat/103/2092]; renumbered § 3243 and amended [Pub. L. 102–83, § 5(a)][/us/pl/102/83/s5/a], (c)(1), Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406].)
+(Added [Pub. L. 94–502, title IV][/us/pl/94/502/tIV], § 404, Oct. 15, 1976, [90 Stat. 2397][/us/stat/90/2397], § 1643; amended [Pub. L. 98–160, title VII][/us/pl/98/160/tVII], § 702(9), Nov. 21, 1983, [97 Stat. 1009][/us/stat/97/1009]; [Pub. L. 101–237, title IV][/us/pl/101/237/tIV], § 423(b)(1)(A), (4)(D), Dec. 18, 1989, [103 Stat. 2092][/us/stat/103/2092]; renumbered § 3243 and amended [Pub. L. 102–83][/us/pl/102/83], § 5(a), (c)(1), Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406].)
 
  __Prior Provisions__ 
 
@@ -41,13 +41,13 @@
 ----------
 
 [/us/usc/t38/s3222/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3222%2Fc
-[/us/pl/94/502/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F502%2Fs404
+[/us/pl/94/502/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F502%2FtIV
 [/us/stat/90/2397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2397
-[/us/pl/98/160/s702/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F160%2Fs702%2F9
+[/us/pl/98/160/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F160%2FtVII
 [/us/stat/97/1009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1009
-[/us/pl/101/237/s423/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237%2Fs423%2Fb%2F1%2FA
+[/us/pl/101/237/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237%2FtIV
 [/us/stat/103/2092]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2092
-[/us/pl/102/83/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fa
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F406
 [/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/usc/t38/s1643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1643

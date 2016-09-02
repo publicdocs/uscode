@@ -61,11 +61,11 @@
 
     The Secretary shall prescribe regulations to carry out this section. The regulations shall include the establishment of criteria for the award of payments under this section.
 
-(Added [Pub. L. 108–422, title II, § 201(a)(1)][/us/pl/108/422/s201/a/1], Nov. 30, 2004, [118 Stat. 2380][/us/stat/118/2380].)
+(Added [Pub. L. 108–422, title II][/us/pl/108/422/tII], § 201(a)(1), Nov. 30, 2004, [118 Stat. 2380][/us/stat/118/2380].)
 
  __Implementation__ 
 
-[Pub. L. 108–422, title II, § 201(b)][/us/pl/108/422/s201/b], Nov. 30, 2004, [118 Stat. 2382][/us/stat/118/2382], provided that: 
+[Pub. L. 108–422, title II][/us/pl/108/422/tII], § 201(b), Nov. 30, 2004, [118 Stat. 2382][/us/stat/118/2382], provided that: 
 
 > “The Secretary of Veterans Affairs shall implement [section 1744 of title 38][/us/usc/t38/s1744], United States Code, as added by subsection (a), as expeditiously as possible. The Secretary shall establish such interim procedures as necessary so as to ensure that payments are made to eligible States under that section commencing not later than June 1, 2005, notwithstanding that regulations under subsection (j) of that section may not have become final.”
 
@@ -78,9 +78,9 @@
 
 [/us/usc/t38/s1741]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1741
 [/us/usc/t38/s1741]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1741
-[/us/pl/108/422/s201/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F422%2Fs201%2Fa%2F1
+[/us/pl/108/422/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F422%2FtII
 [/us/stat/118/2380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2380
-[/us/pl/108/422/s201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F422%2Fs201%2Fb
+[/us/pl/108/422/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F422%2FtII
 [/us/stat/118/2382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2382
 [/us/usc/t38/s1744]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1744
 

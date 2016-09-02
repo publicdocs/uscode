@@ -19,7 +19,7 @@
 
     (b) The term “ ‘New’ Philippine Scouts” means Philippine Scouts who served under section 14 of the Armed Forces Voluntary Recruitment Act of 1945, and who were discharged or released from such service under conditions other than dishonorable.
 
-(Added [Pub. L. 89–613, § 1][/us/pl/89/613/s1], Sept. 30, 1966, [80 Stat. 861][/us/stat/80/861], § 1766; renumbered § 3566, [Pub. L. 102–83, § 5(a)][/us/pl/102/83/s5/a], Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406].)
+(Added [Pub. L. 89–613][/us/pl/89/613], § 1, Sept. 30, 1966, [80 Stat. 861][/us/stat/80/861], § 1766; renumbered § 3566, [Pub. L. 102–83][/us/pl/102/83], § 5(a), Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406].)
 
  __References in Text__ 
 
@@ -36,9 +36,9 @@
 ----------
 ----------
 
-[/us/pl/89/613/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F613%2Fs1
+[/us/pl/89/613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F613
 [/us/stat/80/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F861
-[/us/pl/102/83/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fa
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F406
 [/us/act/1945-10-06/ch393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-10-06%2Fch393
 [/us/stat/59/543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F59%2F543

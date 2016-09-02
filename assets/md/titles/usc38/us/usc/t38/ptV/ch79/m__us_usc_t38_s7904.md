@@ -27,7 +27,7 @@
 
     (5) Citizens of the United States.
 
-(Added [Pub. L. 109–461, title IX, § 903(a)(1)][/us/pl/109/461/s903/a/1], Dec. 22, 2006, [120 Stat. 3463][/us/stat/120/3463].)
+(Added [Pub. L. 109–461, title IX][/us/pl/109/461/tIX], § 903(a)(1), Dec. 22, 2006, [120 Stat. 3463][/us/stat/120/3463].)
 
 ----------
 
@@ -37,7 +37,7 @@
 ----------
 
 [/us/usc/t38/s4215/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs4215%2Fa%2F1%2FB
-[/us/pl/109/461/s903/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461%2Fs903%2Fa%2F1
+[/us/pl/109/461/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461%2FtIX
 [/us/stat/120/3463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3463
 
 

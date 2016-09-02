@@ -35,15 +35,15 @@
 
     (b) The council shall meet at least once a year, or more often at the call of the Secretary of Veterans Affairs. The council shall review the operations of the Department under this subchapter and shall advise the Secretary on matters of policy relating to the Secretary’s activities under this subchapter.
 
-(Added [Pub. L. 89–214, § 1(a)][/us/pl/89/214/s1/a], Sept. 29, 1965, [79 Stat. 885][/us/stat/79/885], § 774; amended [Pub. L. 91–291, § 6][/us/pl/91/291/s6], June 25, 1970, [84 Stat. 331][/us/stat/84/331]; [Pub. L. 93–289, § 10(3)][/us/pl/93/289/s10/3], May 24, 1974, [88 Stat. 172][/us/stat/88/172]; [Pub. L. 97–295, § 4(95)(A)][/us/pl/97/295/s4/95/A], Oct. 12, 1982, [96 Stat. 1313][/us/stat/96/1313]; [Pub. L. 99–576, title VII, § 701(41)][/us/pl/99/576/s701/41], Oct. 28, 1986, [100 Stat. 3294][/us/stat/100/3294]; [Pub. L. 102–54, § 14(b)(18)][/us/pl/102/54/s14/b/18], June 13, 1991, [105 Stat. 284][/us/stat/105/284]; renumbered § 1974, [Pub. L. 102–83, § 5(a)][/us/pl/102/83/s5/a], Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406]; [Pub. L. 104–275, title IV, § 405(b)(1)(G)][/us/pl/104/275/s405/b/1/G], (2)(B), Oct. 9, 1996, [110 Stat. 3339][/us/stat/110/3339]; [Pub. L. 108–183, title VII, § 708(a)(4)][/us/pl/108/183/s708/a/4], Dec. 16, 2003, [117 Stat. 2673][/us/stat/117/2673].)
+(Added [Pub. L. 89–214][/us/pl/89/214], § 1(a), Sept. 29, 1965, [79 Stat. 885][/us/stat/79/885], § 774; amended [Pub. L. 91–291][/us/pl/91/291], § 6, June 25, 1970, [84 Stat. 331][/us/stat/84/331]; [Pub. L. 93–289][/us/pl/93/289], § 10(3), May 24, 1974, [88 Stat. 172][/us/stat/88/172]; [Pub. L. 97–295][/us/pl/97/295], § 4(95)(A), Oct. 12, 1982, [96 Stat. 1313][/us/stat/96/1313]; [Pub. L. 99–576, title VII][/us/pl/99/576/tVII], § 701(41), Oct. 28, 1986, [100 Stat. 3294][/us/stat/100/3294]; [Pub. L. 102–54][/us/pl/102/54], § 14(b)(18), June 13, 1991, [105 Stat. 284][/us/stat/105/284]; renumbered § 1974, [Pub. L. 102–83][/us/pl/102/83], § 5(a), Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406]; [Pub. L. 104–275, title IV][/us/pl/104/275/tIV], § 405(b)(1)(G), (2)(B), Oct. 9, 1996, [110 Stat. 3339][/us/stat/110/3339]; [Pub. L. 108–183, title VII][/us/pl/108/183/tVII], § 708(a)(4), Dec. 16, 2003, [117 Stat. 2673][/us/stat/117/2673].)
 
  __Amendments__ 
 
     2003—Subsec. (a)(5). [Pub. L. 108–183][/us/pl/108/183] substituted “Secretary of Homeland Security” for “Secretary of Transportation”.
 
-    1996—[Pub. L. 104–275, § 405(b)(2)(B)][/us/pl/104/275/s405/b/2/B], substituted “Servicemembers’ Group” for “Servicemen’s Group” in section catchline.
+    1996—[Pub. L. 104–275][/us/pl/104/275], § 405(b)(2)(B), substituted “Servicemembers’ Group” for “Servicemen’s Group” in section catchline.
 
-    Subsec. (a). [Pub. L. 104–275, § 405(b)(1)(G)][/us/pl/104/275/s405/b/1/G], substituted “Servicemembers’ Group” for “Servicemen’s Group” in introductory provisions.
+    Subsec. (a). [Pub. L. 104–275][/us/pl/104/275], § 405(b)(1)(G), substituted “Servicemembers’ Group” for “Servicemen’s Group” in introductory provisions.
 
     1991—[Pub. L. 102–83][/us/pl/102/83] renumbered [section 774 of this title][/us/usc/t38/s774] as this section.
 
@@ -72,27 +72,27 @@
 ----------
 ----------
 
-[/us/pl/89/214/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F214%2Fs1%2Fa
+[/us/pl/89/214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F214
 [/us/stat/79/885]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F885
-[/us/pl/91/291/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F291%2Fs6
+[/us/pl/91/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F291
 [/us/stat/84/331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F331
-[/us/pl/93/289/s10/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F289%2Fs10%2F3
+[/us/pl/93/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F289
 [/us/stat/88/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F172
-[/us/pl/97/295/s4/95/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295%2Fs4%2F95%2FA
+[/us/pl/97/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295
 [/us/stat/96/1313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1313
-[/us/pl/99/576/s701/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2Fs701%2F41
+[/us/pl/99/576/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2FtVII
 [/us/stat/100/3294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3294
-[/us/pl/102/54/s14/b/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54%2Fs14%2Fb%2F18
+[/us/pl/102/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54
 [/us/stat/105/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F284
-[/us/pl/102/83/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fa
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F406
-[/us/pl/104/275/s405/b/1/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275%2Fs405%2Fb%2F1%2FG
+[/us/pl/104/275/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275%2FtIV
 [/us/stat/110/3339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3339
-[/us/pl/108/183/s708/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F183%2Fs708%2Fa%2F4
+[/us/pl/108/183/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F183%2FtVII
 [/us/stat/117/2673]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2673
 [/us/pl/108/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F183
-[/us/pl/104/275/s405/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275%2Fs405%2Fb%2F2%2FB
-[/us/pl/104/275/s405/b/1/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275%2Fs405%2Fb%2F1%2FG
+[/us/pl/104/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275
+[/us/pl/104/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275
 [/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/usc/t38/s774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs774
 [/us/pl/102/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54

@@ -19,7 +19,7 @@
 
     (b) In any case where the Secretary denies a benefit sought, the notice required by subsection (a) shall also include (1) a statement of the reasons for the decision, and (2) a summary of the evidence considered by the Secretary.
 
-(Added [Pub. L. 101–237, title I, § 115(a)(1)][/us/pl/101/237/s115/a/1], Dec. 18, 1989, [103 Stat. 2065][/us/stat/103/2065], § 3004; renumbered § 5104, [Pub. L. 102–40, title IV, § 402(b)(1)][/us/pl/102/40/s402/b/1], May 7, 1991, [105 Stat. 238][/us/stat/105/238]; amended [Pub. L. 102–54, § 14(d)(1)][/us/pl/102/54/s14/d/1], June 13, 1991, [105 Stat. 285][/us/stat/105/285]; [Pub. L. 103–446, title XII, § 1201(d)(15)][/us/pl/103/446/s1201/d/15], Nov. 2, 1994, [108 Stat. 4684][/us/stat/108/4684].)
+(Added [Pub. L. 101–237, title I][/us/pl/101/237/tI], § 115(a)(1), Dec. 18, 1989, [103 Stat. 2065][/us/stat/103/2065], § 3004; renumbered § 5104, [Pub. L. 102–40, title IV][/us/pl/102/40/tIV], § 402(b)(1), May 7, 1991, [105 Stat. 238][/us/stat/105/238]; amended [Pub. L. 102–54][/us/pl/102/54], § 14(d)(1), June 13, 1991, [105 Stat. 285][/us/stat/105/285]; [Pub. L. 103–446, title XII][/us/pl/103/446/tXII], § 1201(d)(15), Nov. 2, 1994, [108 Stat. 4684][/us/stat/108/4684].)
 
  __Prior Provisions__ 
 
@@ -35,7 +35,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 101–237, title I, § 115(b)][/us/pl/101/237/s115/b], Dec. 18, 1989, [103 Stat. 2066][/us/stat/103/2066], provided that: 
+[Pub. L. 101–237, title I][/us/pl/101/237/tI], § 115(b), Dec. 18, 1989, [103 Stat. 2066][/us/stat/103/2066], provided that: 
 
 > “Section 3004 \[now 5104\] of title 38, United States Code, as added by subsection (a), shall apply with respect to decisions by the Secretary of Veterans Affairs made after January 31, 1990.”
 
@@ -47,13 +47,13 @@
 ----------
 
 [/us/usc/t38/s511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs511
-[/us/pl/101/237/s115/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237%2Fs115%2Fa%2F1
+[/us/pl/101/237/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237%2FtI
 [/us/stat/103/2065]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2065
-[/us/pl/102/40/s402/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs402%2Fb%2F1
+[/us/pl/102/40/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2FtIV
 [/us/stat/105/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F238
-[/us/pl/102/54/s14/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54%2Fs14%2Fd%2F1
+[/us/pl/102/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54
 [/us/stat/105/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F285
-[/us/pl/103/446/s1201/d/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2Fs1201%2Fd%2F15
+[/us/pl/103/446/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2FtXII
 [/us/stat/108/4684]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4684
 [/us/usc/t38/s8304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs8304
 [/us/pl/103/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446
@@ -61,7 +61,7 @@
 [/us/usc/t38/s3004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3004
 [/us/pl/102/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54
 [/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40
-[/us/pl/101/237/s115/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237%2Fs115%2Fb
+[/us/pl/101/237/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237%2FtI
 [/us/stat/103/2066]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2066
 
 

@@ -27,7 +27,7 @@
 
     The Secretary shall ensure that at the commencement of the period of obligated service of a participant in the Scholarship Program, the participant is assigned to a mentor who is employed in the same facility where the participant performs such service.
 
-(Added [Pub. L. 111–163, title VI, § 603(c)(2)][/us/pl/111/163/s603/c/2], May 5, 2010, [124 Stat. 1173][/us/stat/124/1173].)
+(Added [Pub. L. 111–163, title VI][/us/pl/111/163/tVI], § 603(c)(2), May 5, 2010, [124 Stat. 1173][/us/stat/124/1173].)
 
  __References in Text__ 
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/pl/111/163/s603/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163%2Fs603%2Fc%2F2
+[/us/pl/111/163/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163%2FtVI
 [/us/stat/124/1173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1173
 [/us/pl/111/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163
 [/us/usc/t38/s7619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7619

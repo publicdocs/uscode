@@ -83,7 +83,7 @@
 
     (h) The provisions of this section shall be implemented in a manner consistent with procedures applicable under regulations prescribed by the Equal Employment Opportunity Commission.
 
-(Added [Pub. L. 105–114, title I, § 101(a)(1)][/us/pl/105/114/s101/a/1], Nov. 21, 1997, [111 Stat. 2278][/us/stat/111/2278]; amended [Pub. L. 105–368, title IV, § 403(d)(2)][/us/pl/105/368/s403/d/2], Nov. 11, 1998, [112 Stat. 3339][/us/stat/112/3339]; [Pub. L. 108–170, title IV, § 405(a)][/us/pl/108/170/s405/a], Dec. 6, 2003, [117 Stat. 2063][/us/stat/117/2063].)
+(Added [Pub. L. 105–114, title I][/us/pl/105/114/tI], § 101(a)(1), Nov. 21, 1997, [111 Stat. 2278][/us/stat/111/2278]; amended [Pub. L. 105–368, title IV][/us/pl/105/368/tIV], § 403(d)(2), Nov. 11, 1998, [112 Stat. 3339][/us/stat/112/3339]; [Pub. L. 108–170, title IV][/us/pl/108/170/tIV], § 405(a), Dec. 6, 2003, [117 Stat. 2063][/us/stat/117/2063].)
 
  __Amendments__ 
 
@@ -93,13 +93,13 @@
 
  __Effective Date__ 
 
-[Pub. L. 105–114, title I, § 101(c)][/us/pl/105/114/s101/c], Nov. 21, 1997, [111 Stat. 2280][/us/stat/111/2280], provided that: 
+[Pub. L. 105–114, title I][/us/pl/105/114/tI], § 101(c), Nov. 21, 1997, [111 Stat. 2280][/us/stat/111/2280], provided that: 
 
 > “[Section 516 of title 38][/us/usc/t38/s516], United States Code, as added by subsection (a), shall take effect 90 days after the date of enactment of this Act \[Nov. 21, 1997\]. Subsection (e) of that section shall take effect with respect to the first quarter of calendar year 1998.”
 
  __Reports on Implementation and Operation of Equal Employment Opportunity System__ 
 
-[Pub. L. 105–114, title I, § 101(b)][/us/pl/105/114/s101/b], Nov. 21, 1997, [111 Stat. 2279][/us/stat/111/2279], provided that:
+[Pub. L. 105–114, title I][/us/pl/105/114/tI], § 101(b), Nov. 21, 1997, [111 Stat. 2279][/us/stat/111/2279], provided that:
 
 >     “(1) The Secretary of Veterans Affairs shall submit to Congress reports on the implementation and operation of the equal employment opportunity system within the Department of Veterans Affairs. The first such report shall be submitted not later than April 1, 1998, and subsequent reports shall be submitted not later than January 1, 1999, and January 1, 2000.
 
@@ -127,7 +127,7 @@
 
  __Assessment and Review of Employment Discrimination Complaint Resolution System__ 
 
-[Pub. L. 105–114, title I, § 103][/us/pl/105/114/s103], Nov. 21, 1997, [111 Stat. 2281][/us/stat/111/2281], provided that:
+[Pub. L. 105–114, title I][/us/pl/105/114/tI], § 103, Nov. 21, 1997, [111 Stat. 2281][/us/stat/111/2281], provided that:
 
 >     “(a)  __Agreement for Assessment and Review__  __.—__ 
 
@@ -173,21 +173,21 @@
 ----------
 
 [/us/usc/t38/s319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs319
-[/us/pl/105/114/s101/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F114%2Fs101%2Fa%2F1
+[/us/pl/105/114/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F114%2FtI
 [/us/stat/111/2278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2278
-[/us/pl/105/368/s403/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2Fs403%2Fd%2F2
+[/us/pl/105/368/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2FtIV
 [/us/stat/112/3339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3339
-[/us/pl/108/170/s405/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F170%2Fs405%2Fa
+[/us/pl/108/170/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F170%2FtIV
 [/us/stat/117/2063]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2063
 [/us/pl/108/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F170
 [/us/pl/105/368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368
-[/us/pl/105/114/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F114%2Fs101%2Fc
+[/us/pl/105/114/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F114%2FtI
 [/us/stat/111/2280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2280
 [/us/usc/t38/s516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs516
-[/us/pl/105/114/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F114%2Fs101%2Fb
+[/us/pl/105/114/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F114%2FtI
 [/us/stat/111/2279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2279
 [/us/usc/t38/s516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs516
-[/us/pl/105/114/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F114%2Fs103
+[/us/pl/105/114/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F114%2FtI
 [/us/stat/111/2281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2281
 [/us/usc/t38/s516/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs516%2Fa
 

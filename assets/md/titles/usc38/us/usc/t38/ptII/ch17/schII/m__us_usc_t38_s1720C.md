@@ -35,29 +35,29 @@
 
     (e) The authority of the Secretary to enter into contracts under this section shall be effective for any fiscal year only to the extent that appropriations are available.
 
-(Added [Pub. L. 101–366, title II, § 201(a)(1)][/us/pl/101/366/s201/a/1], Aug. 15, 1990, [104 Stat. 437][/us/stat/104/437], § 620C; renumbered § 1720C and amended [Pub. L. 102–83, § 5(a)][/us/pl/102/83/s5/a], (c)(1), Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406]; [Pub. L. 103–452, title I, § 103(c)][/us/pl/103/452/s103/c], Nov. 2, 1994, [108 Stat. 4786][/us/stat/108/4786]; [Pub. L. 104–110, title I, § 101(c)][/us/pl/104/110/s101/c], Feb. 13, 1996, [110 Stat. 768][/us/stat/110/768]; [Pub. L. 105–114, title II, § 206(a)][/us/pl/105/114/s206/a]–(b)(2), Nov. 21, 1997, [111 Stat. 2289][/us/stat/111/2289].)
+(Added [Pub. L. 101–366, title II][/us/pl/101/366/tII], § 201(a)(1), Aug. 15, 1990, [104 Stat. 437][/us/stat/104/437], § 620C; renumbered § 1720C and amended [Pub. L. 102–83][/us/pl/102/83], § 5(a), (c)(1), Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406]; [Pub. L. 103–452, title I][/us/pl/103/452/tI], § 103(c), Nov. 2, 1994, [108 Stat. 4786][/us/stat/108/4786]; [Pub. L. 104–110, title I][/us/pl/104/110/tI], § 101(c), Feb. 13, 1996, [110 Stat. 768][/us/stat/110/768]; [Pub. L. 105–114, title II][/us/pl/105/114/tII], § 206(a)–(b)(2), Nov. 21, 1997, [111 Stat. 2289][/us/stat/111/2289].)
 
  __Amendments__ 
 
-    1997—[Pub. L. 105–114, § 206(b)(2)][/us/pl/105/114/s206/b/2], struck out “: pilot program” after “home care” in section catchline.
+    1997—[Pub. L. 105–114][/us/pl/105/114], § 206(b)(2), struck out “: pilot program” after “home care” in section catchline.
 
-    Subsec. (a). [Pub. L. 105–114, § 206(a)][/us/pl/105/114/s206/a], substituted “The Secretary may furnish” for “During the period through December 31, 1997, the Secretary may conduct a pilot program for the furnishing of”.
+    Subsec. (a). [Pub. L. 105–114][/us/pl/105/114], § 206(a), substituted “The Secretary may furnish” for “During the period through December 31, 1997, the Secretary may conduct a pilot program for the furnishing of”.
 
-    Subsec. (b)(1). [Pub. L. 105–114, § 206(b)(1)][/us/pl/105/114/s206/b/1], substituted “Under the program” for “Under the pilot program”.
+    Subsec. (b)(1). [Pub. L. 105–114][/us/pl/105/114], § 206(b)(1), substituted “Under the program” for “Under the pilot program”.
 
-    Subsec. (d). [Pub. L. 105–114, § 206(b)(1)][/us/pl/105/114/s206/b/1], substituted “under the program” for “under the pilot program”.
+    Subsec. (d). [Pub. L. 105–114][/us/pl/105/114], § 206(b)(1), substituted “under the program” for “under the pilot program”.
 
     1996—Subsec. (a). [Pub. L. 104–110][/us/pl/104/110] substituted “December 31, 1997” for “September 30, 1995” in introductory provisions.
 
     1994—Subsec. (a). [Pub. L. 103–452][/us/pl/103/452], in introductory provisions, substituted “During the period through September 30, 1995,” for “During the four-year period beginning on October 1, 1990,” and “care. The Secretary shall give priority for participation in such program to veterans who” for “care and who”.
 
-    1991—[Pub. L. 102–83, § 5(a)][/us/pl/102/83/s5/a], renumbered [section 620C of this title][/us/usc/t38/s620C] as this section.
+    1991—[Pub. L. 102–83][/us/pl/102/83], § 5(a), renumbered [section 620C of this title][/us/usc/t38/s620C] as this section.
 
-    Subsec. (d). [Pub. L. 102–83, § 5(c)(1)][/us/pl/102/83/s5/c/1], substituted “1710” for “610”.
+    Subsec. (d). [Pub. L. 102–83][/us/pl/102/83], § 5(c)(1), substituted “1710” for “610”.
 
  __Effective Date of 1994 Amendment__ 
 
-    [Pub. L. 103–452, title I, § 103(c)(1)][/us/pl/103/452/s103/c/1], Nov. 2, 1994, [108 Stat. 4786][/us/stat/108/4786], provided that the amendment made by that section is effective Oct. 1, 1994.
+    [Pub. L. 103–452, title I][/us/pl/103/452/tI], § 103(c)(1), Nov. 2, 1994, [108 Stat. 4786][/us/stat/108/4786], provided that the amendment made by that section is effective Oct. 1, 1994.
 
  __Ratification of Actions During Period of Expired Authority__ 
 
@@ -65,7 +65,7 @@
 
  __Report to Congressional Committees__ 
 
-[Pub. L. 101–366, title II, § 201(b)][/us/pl/101/366/s201/b], Aug. 15, 1990, [104 Stat. 438][/us/stat/104/438], as amended by [Pub. L. 102–83, § 5(c)(2)][/us/pl/102/83/s5/c/2], Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406]; [Pub. L. 103–452, title I, § 103(g)][/us/pl/103/452/s103/g], Nov. 2, 1994, [108 Stat. 4787][/us/stat/108/4787], provided that: 
+[Pub. L. 101–366, title II][/us/pl/101/366/tII], § 201(b), Aug. 15, 1990, [104 Stat. 438][/us/stat/104/438], as amended by [Pub. L. 102–83][/us/pl/102/83], § 5(c)(2), Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406]; [Pub. L. 103–452, title I][/us/pl/103/452/tI], § 103(g), Nov. 2, 1994, [108 Stat. 4787][/us/stat/108/4787], provided that: 
 
 > “Not later than February 1, 1995, the Secretary of Veterans Affairs shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report setting forth the Secretary’s evaluation, findings, and conclusions regarding the conduct, through September 30, 1993, of the pilot program required by section 1720C \[formerly 620C\] of title 38, United States Code (as added by subsection (a)), and the results of the furnishing of care under such pilot program for the participating veterans. The report shall include a description of the conduct of the pilot program (including a description of the veterans furnished services and of the services furnished under the pilot program), and any plans for administrative action, and any recommendations for legislation, that the Secretary considers appropriate to include in the report.”
 
@@ -77,35 +77,35 @@
 ----------
 
 [/us/usc/t38/s1710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1710
-[/us/pl/101/366/s201/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F366%2Fs201%2Fa%2F1
+[/us/pl/101/366/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F366%2FtII
 [/us/stat/104/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F437
-[/us/pl/102/83/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fa
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F406
-[/us/pl/103/452/s103/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F452%2Fs103%2Fc
+[/us/pl/103/452/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F452%2FtI
 [/us/stat/108/4786]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4786
-[/us/pl/104/110/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F110%2Fs101%2Fc
+[/us/pl/104/110/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F110%2FtI
 [/us/stat/110/768]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F768
-[/us/pl/105/114/s206/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F114%2Fs206%2Fa
+[/us/pl/105/114/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F114%2FtII
 [/us/stat/111/2289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2289
-[/us/pl/105/114/s206/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F114%2Fs206%2Fb%2F2
-[/us/pl/105/114/s206/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F114%2Fs206%2Fa
-[/us/pl/105/114/s206/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F114%2Fs206%2Fb%2F1
-[/us/pl/105/114/s206/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F114%2Fs206%2Fb%2F1
+[/us/pl/105/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F114
+[/us/pl/105/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F114
+[/us/pl/105/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F114
+[/us/pl/105/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F114
 [/us/pl/104/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F110
 [/us/pl/103/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F452
-[/us/pl/102/83/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fa
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/usc/t38/s620C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs620C
-[/us/pl/102/83/s5/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fc%2F1
-[/us/pl/103/452/s103/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F452%2Fs103%2Fc%2F1
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/103/452/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F452%2FtI
 [/us/stat/108/4786]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4786
 [/us/pl/104/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F110
 [/us/pl/104/110/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F110%2Fs103
 [/us/usc/t38/s1710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1710
-[/us/pl/101/366/s201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F366%2Fs201%2Fb
+[/us/pl/101/366/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F366%2FtII
 [/us/stat/104/438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F438
-[/us/pl/102/83/s5/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fc%2F2
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F406
-[/us/pl/103/452/s103/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F452%2Fs103%2Fg
+[/us/pl/103/452/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F452%2FtI
 [/us/stat/108/4787]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4787
 
 

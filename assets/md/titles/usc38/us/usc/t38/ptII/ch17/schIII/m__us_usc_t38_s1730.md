@@ -71,21 +71,21 @@
 
     (f) For the purpose of this section, the term “community residential-care facility” means a facility that provides room and board and such limited personal care for and supervision of residents as the Secretary determines, in accordance with regulations prescribed under this section, are necessary for the health, safety, and welfare of residents.
 
-(Added [Pub. L. 98–160, title I, § 104(a)][/us/pl/98/160/s104/a], Nov. 21, 1983, [97 Stat. 996][/us/stat/97/996], § 630; amended [Pub. L. 102–54, § 14(b)(15)][/us/pl/102/54/s14/b/15], June 13, 1991, [105 Stat. 284][/us/stat/105/284]; renumbered § 1730 and amended [Pub. L. 102–83][/us/pl/102/83], §§ 4(a)(3), (4), (b)(1), (2)(E), 5(a), Aug. 6, 1991, [105 Stat. 404–406][/us/stat/105/404-406].)
+(Added [Pub. L. 98–160, title I][/us/pl/98/160/tI], § 104(a), Nov. 21, 1983, [97 Stat. 996][/us/stat/97/996], § 630; amended [Pub. L. 102–54][/us/pl/102/54], § 14(b)(15), June 13, 1991, [105 Stat. 284][/us/stat/105/284]; renumbered § 1730 and amended [Pub. L. 102–83][/us/pl/102/83], §§ 4(a)(3), (4), (b)(1), (2)(E), 5(a), Aug. 6, 1991, [105 Stat. 404–406][/us/stat/105/404-406].)
 
  __Amendments__ 
 
-    1991—[Pub. L. 102–83, § 5(a)][/us/pl/102/83/s5/a], renumbered [section 630 of this title][/us/usc/t38/s630] as this section.
+    1991—[Pub. L. 102–83][/us/pl/102/83], § 5(a), renumbered [section 630 of this title][/us/usc/t38/s630] as this section.
 
-    Subsec. (a). [Pub. L. 102–83, § 4(b)(1)][/us/pl/102/83/s4/b/1], (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
+    Subsec. (a). [Pub. L. 102–83][/us/pl/102/83], § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
 
     [Pub. L. 102–54][/us/pl/102/54] struck out “(1)” after “(a)” and redesignated former subpar. (A) as par. (1), cls. (i) and (ii) as subpars. (A) and (B), respectively, and former subpar. (B) as par. (2).
 
-    Subsec. (b). [Pub. L. 102–83, § 4(b)(1)][/us/pl/102/83/s4/b/1], (2)(E), substituted “Secretary” for “Administrator” wherever appearing and “Secretary’s” for “Administrator’s” in two places.
+    Subsec. (b). [Pub. L. 102–83][/us/pl/102/83], § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing and “Secretary’s” for “Administrator’s” in two places.
 
-    [Pub. L. 102–83, § 4(a)(3)][/us/pl/102/83/s4/a/3], (4), substituted “Department” for “Veterans’ Administration” in par. (3).
+    [Pub. L. 102–83][/us/pl/102/83], § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration” in par. (3).
 
-    Subsecs. (c) to (f). [Pub. L. 102–83, § 4(b)(1)][/us/pl/102/83/s4/b/1], (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
+    Subsecs. (c) to (f). [Pub. L. 102–83][/us/pl/102/83], § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
 
 ----------
 
@@ -94,18 +94,18 @@
 ----------
 ----------
 
-[/us/pl/98/160/s104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F160%2Fs104%2Fa
+[/us/pl/98/160/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F160%2FtI
 [/us/stat/97/996]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F996
-[/us/pl/102/54/s14/b/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54%2Fs14%2Fb%2F15
+[/us/pl/102/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54
 [/us/stat/105/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F284
 [/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/404-406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F404-406
-[/us/pl/102/83/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fa
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/usc/t38/s630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs630
-[/us/pl/102/83/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fb%2F1
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/pl/102/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54
-[/us/pl/102/83/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fb%2F1
-[/us/pl/102/83/s4/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fa%2F3
-[/us/pl/102/83/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fb%2F1
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 
 

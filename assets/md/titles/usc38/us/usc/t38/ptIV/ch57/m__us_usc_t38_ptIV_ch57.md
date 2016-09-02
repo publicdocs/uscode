@@ -187,15 +187,15 @@ SUBCHAPTER III—INFORMATION SECURITY  </td>
 
  __Amendments__ 
 
-    2015—[Pub. L. 114–31, § 2(c)][/us/pl/114/31/s2/c], July 20, 2015, [129 Stat. 430][/us/stat/129/430], added item 5706.
+    2015—[Pub. L. 114–31][/us/pl/114/31], § 2(c), July 20, 2015, [129 Stat. 430][/us/stat/129/430], added item 5706.
 
-    2006—[Pub. L. 109–461, title IX, § 902(b)][/us/pl/109/461/s902/b], Dec. 22, 2006, [120 Stat. 3460][/us/stat/120/3460], added item for subchapter III and items 5721 to 5728.
+    2006—[Pub. L. 109–461, title IX][/us/pl/109/461/tIX], § 902(b), Dec. 22, 2006, [120 Stat. 3460][/us/stat/120/3460], added item for subchapter III and items 5721 to 5728.
 
-    1991—[Pub. L. 102–54, § 14(d)(5)(B)][/us/pl/102/54/s14/d/5/B], (6)(C), June 13, 1991, [105 Stat. 286][/us/stat/105/286], amended table of sections at beginning of chapter as in effect immediately before the enactment of [Pub. L. 102–40][/us/pl/102/40] by substituting “subpoenas” for “subpenas” in item 3311 and “subpoena” for “subpena” in item 3313.
+    1991—[Pub. L. 102–54][/us/pl/102/54], § 14(d)(5)(B), (6)(C), June 13, 1991, [105 Stat. 286][/us/stat/105/286], amended table of sections at beginning of chapter as in effect immediately before the enactment of [Pub. L. 102–40][/us/pl/102/40] by substituting “subpoenas” for “subpenas” in item 3311 and “subpoena” for “subpena” in item 3313.
 
-    [Pub. L. 102–40, title IV, § 402(c)(1)][/us/pl/102/40/s402/c/1], May 7, 1991, [105 Stat. 239][/us/stat/105/239], renumbered items 3301 to 3313 as 5701 to 5713, respectively.
+    [Pub. L. 102–40, title IV][/us/pl/102/40/tIV], § 402(c)(1), May 7, 1991, [105 Stat. 239][/us/stat/105/239], renumbered items 3301 to 3313 as 5701 to 5713, respectively.
 
-    1980—[Pub. L. 96–385, title V, § 505(b)][/us/pl/96/385/s505/b], Oct. 7, 1980, [94 Stat. 1537][/us/stat/94/1537], added item 3305.
+    1980—[Pub. L. 96–385, title V][/us/pl/96/385/tV], § 505(b), Oct. 7, 1980, [94 Stat. 1537][/us/stat/94/1537], added item 3305.
 
 ----------
 
@@ -204,16 +204,16 @@ SUBCHAPTER III—INFORMATION SECURITY  </td>
 ----------
 ----------
 
-[/us/pl/114/31/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F31%2Fs2%2Fc
+[/us/pl/114/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F31
 [/us/stat/129/430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F430
-[/us/pl/109/461/s902/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461%2Fs902%2Fb
+[/us/pl/109/461/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461%2FtIX
 [/us/stat/120/3460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3460
-[/us/pl/102/54/s14/d/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54%2Fs14%2Fd%2F5%2FB
+[/us/pl/102/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54
 [/us/stat/105/286]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F286
 [/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40
-[/us/pl/102/40/s402/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs402%2Fc%2F1
+[/us/pl/102/40/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2FtIV
 [/us/stat/105/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F239
-[/us/pl/96/385/s505/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F385%2Fs505%2Fb
+[/us/pl/96/385/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F385%2FtV
 [/us/stat/94/1537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1537
 
 

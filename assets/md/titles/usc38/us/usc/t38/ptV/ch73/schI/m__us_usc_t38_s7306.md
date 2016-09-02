@@ -89,7 +89,7 @@
 
         (2) with respect to the programs established under [section 1712A of this title][/us/usc/t38/s1712A], a clinician with appropriate expertise in those programs is responsible to the Under Secretary for the management of those programs.
 
-(Added [Pub. L. 102–40, title IV, § 401(a)(3)][/us/pl/102/40/s401/a/3], May 7, 1991, [105 Stat. 212][/us/stat/105/212]; amended [Pub. L. 102–405, title II, § 205][/us/pl/102/405/s205], title III, § 302(c)(1), Oct. 9, 1992, [106 Stat. 1983][/us/stat/106/1983], 1984; [Pub. L. 102–585, title V, § 511(b)][/us/pl/102/585/s511/b], Nov. 4, 1992, [106 Stat. 4956][/us/stat/106/4956]; [Pub. L. 103–446, title XII, § 1201(c)(3)][/us/pl/103/446/s1201/c/3], Nov. 2, 1994, [108 Stat. 4683][/us/stat/108/4683]; [Pub. L. 104–262, title III, § 344][/us/pl/104/262/s344], Oct. 9, 1996, [110 Stat. 3207][/us/stat/110/3207]; [Pub. L. 106–419, title II, § 206][/us/pl/106/419/s206], Nov. 1, 2000, [114 Stat. 1842][/us/stat/114/1842]; [Pub. L. 107–135, title I, § 131][/us/pl/107/135/s131], Jan. 23, 2002, [115 Stat. 2454][/us/stat/115/2454]; [Pub. L. 111–163, title V, § 514(a)][/us/pl/111/163/s514/a], May 5, 2010, [124 Stat. 1165][/us/stat/124/1165].)
+(Added [Pub. L. 102–40, title IV][/us/pl/102/40/tIV], § 401(a)(3), May 7, 1991, [105 Stat. 212][/us/stat/105/212]; amended [Pub. L. 102–405, title II][/us/pl/102/405/tII], § 205, title III, § 302(c)(1), Oct. 9, 1992, [106 Stat. 1983][/us/stat/106/1983], 1984; [Pub. L. 102–585, title V][/us/pl/102/585/tV], § 511(b), Nov. 4, 1992, [106 Stat. 4956][/us/stat/106/4956]; [Pub. L. 103–446, title XII][/us/pl/103/446/tXII], § 1201(c)(3), Nov. 2, 1994, [108 Stat. 4683][/us/stat/108/4683]; [Pub. L. 104–262, title III][/us/pl/104/262/tIII], § 344, Oct. 9, 1996, [110 Stat. 3207][/us/stat/110/3207]; [Pub. L. 106–419, title II][/us/pl/106/419/tII], § 206, Nov. 1, 2000, [114 Stat. 1842][/us/stat/114/1842]; [Pub. L. 107–135, title I][/us/pl/107/135/tI], § 131, Jan. 23, 2002, [115 Stat. 2454][/us/stat/115/2454]; [Pub. L. 111–163, title V][/us/pl/111/163/tV], § 514(a), May 5, 2010, [124 Stat. 1165][/us/stat/124/1165].)
 
  __Amendments__ 
 
@@ -101,35 +101,35 @@
 
     1996—Subsec. (f). [Pub. L. 104–262][/us/pl/104/262] added subsec. (f).
 
-    1994—Subsec. (a)(3). [Pub. L. 103–446, § 1201(c)(3)(A)(i)][/us/pl/103/446/s1201/c/3/A/i], substituted “Assistant Under Secretaries for Health” for “Assistant Chief Medical Directors”.
+    1994—Subsec. (a)(3). [Pub. L. 103–446][/us/pl/103/446], § 1201(c)(3)(A)(i), substituted “Assistant Under Secretaries for Health” for “Assistant Chief Medical Directors”.
 
-    Pars. (7) to (9). [Pub. L. 103–446, § 1201(c)(3)(A)(ii)][/us/pl/103/446/s1201/c/3/A/ii]–(iv), redesignated par. (8), relating to such directors, as (7), par. (7) as (8), and par. (8), relating to such other personnel, as (9), and in par. (8), as so redesignated, substituted “Under Secretary for Health” for “Chief Medical Director”.
+    Pars. (7) to (9). [Pub. L. 103–446][/us/pl/103/446], § 1201(c)(3)(A)(ii)–(iv), redesignated par. (8), relating to such directors, as (7), par. (7) as (8), and par. (8), relating to such other personnel, as (9), and in par. (8), as so redesignated, substituted “Under Secretary for Health” for “Chief Medical Director”.
 
-    Subsec. (b). [Pub. L. 103–446, § 1201(c)(3)(B)][/us/pl/103/446/s1201/c/3/B], substituted “Assistant Under Secretaries for Health” for “Assistant Chief Medical Directors”.
+    Subsec. (b). [Pub. L. 103–446][/us/pl/103/446], § 1201(c)(3)(B), substituted “Assistant Under Secretaries for Health” for “Assistant Chief Medical Directors”.
 
-    Subsec. (c). [Pub. L. 103–446, § 1201(c)(3)(C)][/us/pl/103/446/s1201/c/3/C], substituted “and (8)” for “and (7)”.
+    Subsec. (c). [Pub. L. 103–446][/us/pl/103/446], § 1201(c)(3)(C), substituted “and (8)” for “and (7)”.
 
-    1992—[Pub. L. 102–405, § 302(c)(1)][/us/pl/102/405/s302/c/1], substituted “Under Secretary for Health” for “Chief Medical Director” in section catchline.
+    1992—[Pub. L. 102–405][/us/pl/102/405], § 302(c)(1), substituted “Under Secretary for Health” for “Chief Medical Director” in section catchline.
 
-    Subsec. (a). [Pub. L. 102–405, § 302(c)(1)][/us/pl/102/405/s302/c/1], substituted “Under Secretary for Health” for “Chief Medical Director” wherever appearing.
+    Subsec. (a). [Pub. L. 102–405][/us/pl/102/405], § 302(c)(1), substituted “Under Secretary for Health” for “Chief Medical Director” wherever appearing.
 
-    Subsec. (a)(7). [Pub. L. 102–585, § 511(b)(1)(B)][/us/pl/102/585/s511/b/1/B], added par. (7). Former par. (7), relating to such directors, redesignated (8).
+    Subsec. (a)(7). [Pub. L. 102–585][/us/pl/102/585], § 511(b)(1)(B), added par. (7). Former par. (7), relating to such directors, redesignated (8).
 
-    [Pub. L. 102–405, § 205(2)][/us/pl/102/405/s205/2], added par. (7). Former par. (7), relating to such other personnel, redesignated (8).
+    [Pub. L. 102–405][/us/pl/102/405], § 205(2), added par. (7). Former par. (7), relating to such other personnel, redesignated (8).
 
-    Subsec. (a)(8). [Pub. L. 102–585, § 511(b)(1)(A)][/us/pl/102/585/s511/b/1/A], redesignated par. (7), relating to such directors, as (8).
+    Subsec. (a)(8). [Pub. L. 102–585][/us/pl/102/585], § 511(b)(1)(A), redesignated par. (7), relating to such directors, as (8).
 
-    [Pub. L. 102–405, § 205(1)][/us/pl/102/405/s205/1], redesignated par. (7), relating to such other personnel, as (8).
+    [Pub. L. 102–405][/us/pl/102/405], § 205(1), redesignated par. (7), relating to such other personnel, as (8).
 
-    Subsec. (b)(2), (3). [Pub. L. 102–405, § 302(c)(1)][/us/pl/102/405/s302/c/1], substituted “Under Secretary for Health” for “Chief Medical Director” wherever appearing.
+    Subsec. (b)(2), (3). [Pub. L. 102–405][/us/pl/102/405], § 302(c)(1), substituted “Under Secretary for Health” for “Chief Medical Director” wherever appearing.
 
-    Subsec. (c). [Pub. L. 102–585, § 511(b)(2)][/us/pl/102/585/s511/b/2], substituted “(4), and (7)” for “and (4)”.
+    Subsec. (c). [Pub. L. 102–585][/us/pl/102/585], § 511(b)(2), substituted “(4), and (7)” for “and (4)”.
 
-    [Pub. L. 102–405, § 302(c)(1)][/us/pl/102/405/s302/c/1], substituted “Under Secretary for Health” for “Chief Medical Director”.
+    [Pub. L. 102–405][/us/pl/102/405], § 302(c)(1), substituted “Under Secretary for Health” for “Chief Medical Director”.
 
  __Deadline for Implementation of 2010 Amendment__ 
 
-[Pub. L. 111–163, title V, § 514(b)][/us/pl/111/163/s514/b], May 5, 2010, [124 Stat. 1165][/us/stat/124/1165], provided that: 
+[Pub. L. 111–163, title V][/us/pl/111/163/tV], § 514(b), May 5, 2010, [124 Stat. 1165][/us/stat/124/1165], provided that: 
 
 > “The Secretary of Veterans Affairs shall ensure that an individual is serving as the Director of Physician Assistant Services under paragraph (9) of [section 7306(a) of title 38][/us/usc/t38/s7306/a], United States Code, as amended by subsection (a), by not later than 120 days after the date of the enactment of this Act \[May 5, 2010\].”
 
@@ -142,40 +142,40 @@
 
 [/us/usc/t38/s1712A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1712A
 [/us/usc/t38/s1712A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1712A
-[/us/pl/102/40/s401/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs401%2Fa%2F3
+[/us/pl/102/40/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2FtIV
 [/us/stat/105/212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F212
-[/us/pl/102/405/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405%2Fs205
+[/us/pl/102/405/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405%2FtII
 [/us/stat/106/1983]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1983
-[/us/pl/102/585/s511/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F585%2Fs511%2Fb
+[/us/pl/102/585/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F585%2FtV
 [/us/stat/106/4956]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4956
-[/us/pl/103/446/s1201/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2Fs1201%2Fc%2F3
+[/us/pl/103/446/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2FtXII
 [/us/stat/108/4683]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4683
-[/us/pl/104/262/s344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F262%2Fs344
+[/us/pl/104/262/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F262%2FtIII
 [/us/stat/110/3207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3207
-[/us/pl/106/419/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419%2Fs206
+[/us/pl/106/419/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419%2FtII
 [/us/stat/114/1842]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1842
-[/us/pl/107/135/s131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F135%2Fs131
+[/us/pl/107/135/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F135%2FtI
 [/us/stat/115/2454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2454
-[/us/pl/111/163/s514/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163%2Fs514%2Fa
+[/us/pl/111/163/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163%2FtV
 [/us/stat/124/1165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1165
 [/us/pl/111/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163
 [/us/pl/107/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F135
 [/us/pl/106/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419
 [/us/pl/104/262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F262
-[/us/pl/103/446/s1201/c/3/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2Fs1201%2Fc%2F3%2FA%2Fi
-[/us/pl/103/446/s1201/c/3/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2Fs1201%2Fc%2F3%2FA%2Fii
-[/us/pl/103/446/s1201/c/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2Fs1201%2Fc%2F3%2FB
-[/us/pl/103/446/s1201/c/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2Fs1201%2Fc%2F3%2FC
-[/us/pl/102/405/s302/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405%2Fs302%2Fc%2F1
-[/us/pl/102/405/s302/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405%2Fs302%2Fc%2F1
-[/us/pl/102/585/s511/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F585%2Fs511%2Fb%2F1%2FB
-[/us/pl/102/405/s205/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405%2Fs205%2F2
-[/us/pl/102/585/s511/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F585%2Fs511%2Fb%2F1%2FA
-[/us/pl/102/405/s205/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405%2Fs205%2F1
-[/us/pl/102/405/s302/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405%2Fs302%2Fc%2F1
-[/us/pl/102/585/s511/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F585%2Fs511%2Fb%2F2
-[/us/pl/102/405/s302/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405%2Fs302%2Fc%2F1
-[/us/pl/111/163/s514/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163%2Fs514%2Fb
+[/us/pl/103/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446
+[/us/pl/103/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446
+[/us/pl/103/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446
+[/us/pl/103/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446
+[/us/pl/102/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405
+[/us/pl/102/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405
+[/us/pl/102/585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F585
+[/us/pl/102/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405
+[/us/pl/102/585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F585
+[/us/pl/102/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405
+[/us/pl/102/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405
+[/us/pl/102/585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F585
+[/us/pl/102/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405
+[/us/pl/111/163/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163%2FtV
 [/us/stat/124/1165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1165
 [/us/usc/t38/s7306/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7306%2Fa
 

@@ -21,19 +21,19 @@
 
     (c) The monthly amount of an annuity authorized in sections 1902, 1923, and 1925 of this title, as adjusted under this section, may not be less than the monthly amount of such annuity that would otherwise be applicable without regard to this section.
 
-(Added [Pub. L. 100–322, title III, § 331(a)(1)][/us/pl/100/322/s331/a/1], May 20, 1988, [102 Stat. 536][/us/stat/102/536], § 727; renumbered § 1927 and amended [Pub. L. 102–83][/us/pl/102/83], §§ 4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, [105 Stat. 404–406][/us/stat/105/404-406].)
+(Added [Pub. L. 100–322, title III][/us/pl/100/322/tIII], § 331(a)(1), May 20, 1988, [102 Stat. 536][/us/stat/102/536], § 727; renumbered § 1927 and amended [Pub. L. 102–83][/us/pl/102/83], §§ 4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, [105 Stat. 404–406][/us/stat/105/404-406].)
 
  __Amendments__ 
 
-    1991—[Pub. L. 102–83, § 5(a)][/us/pl/102/83/s5/a], renumbered [section 727 of this title][/us/usc/t38/s727] as this section.
+    1991—[Pub. L. 102–83][/us/pl/102/83], § 5(a), renumbered [section 727 of this title][/us/usc/t38/s727] as this section.
 
-    Subsec. (a). [Pub. L. 102–83, § 5(c)(1)][/us/pl/102/83/s5/c/1], substituted “1902, 1923, and 1925” for “702, 723, and 725”.
+    Subsec. (a). [Pub. L. 102–83][/us/pl/102/83], § 5(c)(1), substituted “1902, 1923, and 1925” for “702, 723, and 725”.
 
-    [Pub. L. 102–83, § 4(b)(1)][/us/pl/102/83/s4/b/1], (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
+    [Pub. L. 102–83][/us/pl/102/83], § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
 
-    Subsec. (b). [Pub. L. 102–83, § 4(b)(1)][/us/pl/102/83/s4/b/1], (2)(E), substituted “Secretary” for “Administrator”.
+    Subsec. (b). [Pub. L. 102–83][/us/pl/102/83], § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
-    Subsec. (c). [Pub. L. 102–83, § 5(c)(1)][/us/pl/102/83/s5/c/1], substituted “1902, 1923, and 1925” for “702, 723, and 725”.
+    Subsec. (c). [Pub. L. 102–83][/us/pl/102/83], § 5(c)(1), substituted “1902, 1923, and 1925” for “702, 723, and 725”.
 
 ----------
 
@@ -42,15 +42,15 @@
 ----------
 ----------
 
-[/us/pl/100/322/s331/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F322%2Fs331%2Fa%2F1
+[/us/pl/100/322/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F322%2FtIII
 [/us/stat/102/536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F536
 [/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/404-406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F404-406
-[/us/pl/102/83/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fa
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/usc/t38/s727]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs727
-[/us/pl/102/83/s5/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fc%2F1
-[/us/pl/102/83/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fb%2F1
-[/us/pl/102/83/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fb%2F1
-[/us/pl/102/83/s5/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fc%2F1
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 
 

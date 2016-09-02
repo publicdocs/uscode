@@ -57,7 +57,7 @@
 
     (i) In this section, the term “contractor” includes subcontractors of any tier under a contract containing an indemnification provision pursuant to subsection (a).
 
-(Added [Pub. L. 102–40, title IV, § 401(a)(3)][/us/pl/102/40/s401/a/3], May 7, 1991, [105 Stat. 220][/us/stat/105/220]; amended [Pub. L. 111–350, § 5(j)(4)][/us/pl/111/350/s5/j/4], Jan. 4, 2011, [124 Stat. 3850][/us/stat/124/3850].)
+(Added [Pub. L. 102–40, title IV][/us/pl/102/40/tIV], § 401(a)(3), May 7, 1991, [105 Stat. 220][/us/stat/105/220]; amended [Pub. L. 111–350][/us/pl/111/350], § 5(j)(4), Jan. 4, 2011, [124 Stat. 3850][/us/stat/124/3850].)
 
  __Amendments__ 
 
@@ -71,9 +71,9 @@
 ----------
 
 [/us/usc/t38/s7303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7303
-[/us/pl/102/40/s401/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs401%2Fa%2F3
+[/us/pl/102/40/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2FtIV
 [/us/stat/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F220
-[/us/pl/111/350/s5/j/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs5%2Fj%2F4
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3850]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3850
 [/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/usc/t41/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs5

@@ -63,17 +63,17 @@
 
     (g) The Secretary shall prescribe regulations to carry out this section. The regulations shall include requirements, conditions, and methods for the request, issuance, delivery, certification of receipt and use, and recovery of overpayment of an accelerated payment under this section.
 
-(Added [Pub. L. 107–103, title I, § 104(a)(1)][/us/pl/107/103/s104/a/1], Dec. 27, 2001, [115 Stat. 980][/us/stat/115/980]; amended [Pub. L. 107–330, title III, § 308(b)(1)][/us/pl/107/330/s308/b/1], (2)(A), Dec. 6, 2002, [116 Stat. 2827][/us/stat/116/2827].)
+(Added [Pub. L. 107–103, title I][/us/pl/107/103/tI], § 104(a)(1), Dec. 27, 2001, [115 Stat. 980][/us/stat/115/980]; amended [Pub. L. 107–330, title III][/us/pl/107/330/tIII], § 308(b)(1), (2)(A), Dec. 6, 2002, [116 Stat. 2827][/us/stat/116/2827].)
 
  __Amendments__ 
 
-    2002—[Pub. L. 107–330, § 308(b)(2)(A)][/us/pl/107/330/s308/b/2/A], amended section catchline generally. Prior to amendment, catchline read as follows: “Accelerated payment of basic educational assistance for education leading to employment in high technology industry”.
+    2002—[Pub. L. 107–330][/us/pl/107/330], § 308(b)(2)(A), amended section catchline generally. Prior to amendment, catchline read as follows: “Accelerated payment of basic educational assistance for education leading to employment in high technology industry”.
 
-    Subsec. (b)(1). [Pub. L. 107–330, § 308(b)(1)][/us/pl/107/330/s308/b/1], substituted “employment in a high technology occupation in a high technology industry” for “employment in a high technology industry”.
+    Subsec. (b)(1). [Pub. L. 107–330][/us/pl/107/330], § 308(b)(1), substituted “employment in a high technology occupation in a high technology industry” for “employment in a high technology industry”.
 
  __Effective Date__ 
 
-[Pub. L. 107–103, title I, § 104(c)][/us/pl/107/103/s104/c], Dec. 27, 2001, [115 Stat. 982][/us/stat/115/982], provided that: 
+[Pub. L. 107–103, title I][/us/pl/107/103/tI], § 104(c), Dec. 27, 2001, [115 Stat. 982][/us/stat/115/982], provided that: 
 
 > “The amendments made by this section \[enacting this section and amending [section 3680 of this title][/us/usc/t38/s3680]\] shall take effect October 1, 2002, and shall apply with respect to enrollments in courses or programs of education or training beginning on or after that date.”
 
@@ -89,13 +89,13 @@
 [/us/usc/t38/s3015]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3015
 [/us/usc/t38/s3015]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3015
 [/us/usc/t38/s3680/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3680%2Fd
-[/us/pl/107/103/s104/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F103%2Fs104%2Fa%2F1
+[/us/pl/107/103/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F103%2FtI
 [/us/stat/115/980]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F980
-[/us/pl/107/330/s308/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F330%2Fs308%2Fb%2F1
+[/us/pl/107/330/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F330%2FtIII
 [/us/stat/116/2827]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2827
-[/us/pl/107/330/s308/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F330%2Fs308%2Fb%2F2%2FA
-[/us/pl/107/330/s308/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F330%2Fs308%2Fb%2F1
-[/us/pl/107/103/s104/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F103%2Fs104%2Fc
+[/us/pl/107/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F330
+[/us/pl/107/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F330
+[/us/pl/107/103/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F103%2FtI
 [/us/stat/115/982]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F982
 [/us/usc/t38/s3680]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3680
 

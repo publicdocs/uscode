@@ -49,11 +49,11 @@
 
     (g) The Secretary may not guarantee a loan under this chapter after September 30, 1998, on which the Secretary is obligated to make payments under this section.
 
-(Added [Pub. L. 104–106, div. B, title XXVIII, § 2822(b)(1)][/us/pl/104/106/s2822/b/1], Feb. 10, 1996, [110 Stat. 556][/us/stat/110/556].)
+(Added [Pub. L. 104–106, div. B, title XXVIII][/us/pl/104/106/dB/tXXVIII], § 2822(b)(1), Feb. 10, 1996, [110 Stat. 556][/us/stat/110/556].)
 
  __Authority of Secretary of Defense__ 
 
-[Pub. L. 104–106, div. B, title XXVIII, § 2822(c)][/us/pl/104/106/s2822/c], Feb. 10, 1996, [110 Stat. 557][/us/stat/110/557], provided that:
+[Pub. L. 104–106, div. B, title XXVIII][/us/pl/104/106/dB/tXXVIII], § 2822(c), Feb. 10, 1996, [110 Stat. 557][/us/stat/110/557], provided that:
 
 >     “(1)  __Reimbursement for buy down costs__  __.—__ 
 
@@ -84,9 +84,9 @@
 
 [/us/usc/t38/s3710/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3710%2Fa
 [/us/usc/t38/s3701/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3701%2Fb%2F4
-[/us/pl/104/106/s2822/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs2822%2Fb%2F1
+[/us/pl/104/106/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdB%2FtXXVIII
 [/us/stat/110/556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F556
-[/us/pl/104/106/s2822/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs2822%2Fc
+[/us/pl/104/106/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdB%2FtXXVIII
 [/us/stat/110/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F557
 [/us/usc/t38/s3708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3708
 [/us/usc/t38/s3708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3708

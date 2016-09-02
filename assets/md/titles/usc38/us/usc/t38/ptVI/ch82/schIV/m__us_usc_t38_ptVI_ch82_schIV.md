@@ -17,7 +17,7 @@
 
  __Amendments__ 
 
-    1991—[Pub. L. 102–83, § 4(a)(3)][/us/pl/102/83/s4/a/3], (4), Aug. 6, 1991, [105 Stat. 404][/us/stat/105/404], substituted “DEPARTMENT” for “VETERANS’ ADMINISTRATION”.
+    1991—[Pub. L. 102–83][/us/pl/102/83], § 4(a)(3), (4), Aug. 6, 1991, [105 Stat. 404][/us/stat/105/404], substituted “DEPARTMENT” for “VETERANS’ ADMINISTRATION”.
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/102/83/s4/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fa%2F3
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F404
 
 

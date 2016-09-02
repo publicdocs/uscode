@@ -35,13 +35,13 @@
 
     (e) An allowance may not be paid to a Department police officer under this section and under [section 5901 of title 5][/us/usc/t5/s5901] for the same fiscal year.
 
-(Added [Pub. L. 102–83, § 2(a)][/us/pl/102/83/s2/a], Aug. 6, 1991, [105 Stat. 398][/us/stat/105/398]; amended [Pub. L. 111–163, title X, § 1002][/us/pl/111/163/s1002], May 5, 2010, [124 Stat. 1182][/us/stat/124/1182].)
+(Added [Pub. L. 102–83][/us/pl/102/83], § 2(a), Aug. 6, 1991, [105 Stat. 398][/us/stat/105/398]; amended [Pub. L. 111–163, title X][/us/pl/111/163/tX], § 1002, May 5, 2010, [124 Stat. 1182][/us/stat/124/1182].)
 
  __Prior Provisions__ 
 
     Prior section 903 was renumbered [section 2303 of this title][/us/usc/t38/s2303].
 
-    Provisions similar to those in this section were contained in [section 218(c) of this title][/us/usc/t38/s218/c] prior to repeal by [Pub. L. 102–83, § 2(a)][/us/pl/102/83/s2/a].
+    Provisions similar to those in this section were contained in [section 218(c) of this title][/us/usc/t38/s218/c] prior to repeal by [Pub. L. 102–83][/us/pl/102/83], § 2(a).
 
  __Amendments__ 
 
@@ -65,13 +65,13 @@
 ----------
 
 [/us/usc/t5/s5901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5901
-[/us/pl/102/83/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs2%2Fa
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F398
-[/us/pl/111/163/s1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163%2Fs1002
+[/us/pl/111/163/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163%2FtX
 [/us/stat/124/1182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1182
 [/us/usc/t38/s2303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs2303
 [/us/usc/t38/s218/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs218%2Fc
-[/us/pl/102/83/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs2%2Fa
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/pl/111/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163
 
 

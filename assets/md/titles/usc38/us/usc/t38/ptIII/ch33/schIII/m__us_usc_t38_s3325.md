@@ -53,11 +53,11 @@
 
     No report shall be required under this section after January 1, 2021.
 
-(Added [Pub. L. 112–154, title IV, § 402(a)(1)][/us/pl/112/154/s402/a/1], Aug. 6, 2012, [126 Stat. 1188][/us/stat/126/1188].)
+(Added [Pub. L. 112–154, title IV][/us/pl/112/154/tIV], § 402(a)(1), Aug. 6, 2012, [126 Stat. 1188][/us/stat/126/1188].)
 
  __Deadline for Submittal of First Report__ 
 
-[Pub. L. 112–154, title IV, § 402(a)(3)][/us/pl/112/154/s402/a/3], Aug. 6, 2012, [126 Stat. 1189][/us/stat/126/1189], provided that: 
+[Pub. L. 112–154, title IV][/us/pl/112/154/tIV], § 402(a)(3), Aug. 6, 2012, [126 Stat. 1189][/us/stat/126/1189], provided that: 
 
 > “The first reports required under [section 3325 of title 38][/us/usc/t38/s3325], United States Code, as added by paragraph (1), shall be submitted by not later than November 1, 2013.”
 
@@ -69,9 +69,9 @@
 ----------
 
 [/us/usc/t38/s3323/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3323%2Fb
-[/us/pl/112/154/s402/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154%2Fs402%2Fa%2F1
+[/us/pl/112/154/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154%2FtIV
 [/us/stat/126/1188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1188
-[/us/pl/112/154/s402/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154%2Fs402%2Fa%2F3
+[/us/pl/112/154/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154%2FtIV
 [/us/stat/126/1189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1189
 [/us/usc/t38/s3325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3325
 

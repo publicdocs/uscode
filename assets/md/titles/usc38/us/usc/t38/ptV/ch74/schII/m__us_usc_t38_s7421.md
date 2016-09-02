@@ -37,7 +37,7 @@
 
         (8) Chiropractors.
 
-(Added [Pub. L. 102–40, title II, § 202][/us/pl/102/40/s202], May 7, 1991, [105 Stat. 200][/us/stat/105/200]; amended [Pub. L. 108–170, title III, § 302(g)][/us/pl/108/170/s302/g], Dec. 6, 2003, [117 Stat. 2058][/us/stat/117/2058].)
+(Added [Pub. L. 102–40, title II][/us/pl/102/40/tII], § 202, May 7, 1991, [105 Stat. 200][/us/stat/105/200]; amended [Pub. L. 108–170, title III][/us/pl/108/170/tIII], § 302(g), Dec. 6, 2003, [117 Stat. 2058][/us/stat/117/2058].)
 
  __Prior Provisions__ 
 
@@ -53,7 +53,7 @@
 
  __Preservation of Existing Collective-Bargaining Arrangements and Pending Actions__ 
 
-[Pub. L. 102–40, title II, § 205][/us/pl/102/40/s205], May 7, 1991, [105 Stat. 207][/us/stat/105/207], provided that:
+[Pub. L. 102–40, title II][/us/pl/102/40/tII], § 205, May 7, 1991, [105 Stat. 207][/us/stat/105/207], provided that:
 
 >     “(a)  __Existing Collective-Bargaining Arrangements__  __.—__ 
 
@@ -70,9 +70,9 @@
 ----------
 ----------
 
-[/us/pl/102/40/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs202
+[/us/pl/102/40/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2FtII
 [/us/stat/105/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F200
-[/us/pl/108/170/s302/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F170%2Fs302%2Fg
+[/us/pl/108/170/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F170%2FtIII
 [/us/stat/117/2058]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2058
 [/us/usc/t38/s4108/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs4108%2Fa
 [/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40
@@ -80,7 +80,7 @@
 [/us/pl/108/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F170
 [/us/pl/108/170/s302/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F170%2Fs302%2Fh
 [/us/usc/t38/s7316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7316
-[/us/pl/102/40/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs205
+[/us/pl/102/40/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2FtII
 [/us/stat/105/207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F207
 [/us/usc/t38/s7463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7463
 

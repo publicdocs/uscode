@@ -65,7 +65,7 @@
 
         (2) For purposes of [section 4312(e)(1) of this title][/us/usc/t38/s4312/e/1], an employee who takes an authorized leave of absence under paragraph (1) is deemed to have notified the employer of the employee’s intent to return to such position of employment.
 
-(Added [Pub. L. 103–353, § 2(a)][/us/pl/103/353/s2/a], Oct. 13, 1994, [108 Stat. 3160][/us/stat/108/3160]; amended [Pub. L. 104–275, title III, § 311(6)][/us/pl/104/275/s311/6], Oct. 9, 1996, [110 Stat. 3335][/us/stat/110/3335]; [Pub. L. 106–419, title III, § 323(b)][/us/pl/106/419/s323/b], Nov. 1, 2000, [114 Stat. 1855][/us/stat/114/1855].)
+(Added [Pub. L. 103–353][/us/pl/103/353], § 2(a), Oct. 13, 1994, [108 Stat. 3160][/us/stat/108/3160]; amended [Pub. L. 104–275, title III][/us/pl/104/275/tIII], § 311(6), Oct. 9, 1996, [110 Stat. 3335][/us/stat/110/3335]; [Pub. L. 106–419, title III][/us/pl/106/419/tIII], § 323(b), Nov. 1, 2000, [114 Stat. 1855][/us/stat/114/1855].)
 
  __Prior Provisions__ 
 
@@ -99,11 +99,11 @@
 [/us/usc/t10/s12503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs12503
 [/us/usc/t32/s115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft32%2Fs115
 [/us/usc/t38/s4312/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs4312%2Fe%2F1
-[/us/pl/103/353/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F353%2Fs2%2Fa
+[/us/pl/103/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F353
 [/us/stat/108/3160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3160
-[/us/pl/104/275/s311/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275%2Fs311%2F6
+[/us/pl/104/275/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275%2FtIII
 [/us/stat/110/3335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3335
-[/us/pl/106/419/s323/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419%2Fs323%2Fb
+[/us/pl/106/419/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419%2FtIII
 [/us/stat/114/1855]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1855
 [/us/usc/t38/s7616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7616
 [/us/pl/106/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419

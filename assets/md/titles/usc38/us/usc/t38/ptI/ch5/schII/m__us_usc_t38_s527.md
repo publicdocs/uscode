@@ -21,15 +21,15 @@
 
     (c) The Secretary shall make available to the public, and on a regular basis provide to the appropriate committees of the Congress, copies of all completed evaluative research studies and summaries of evaluations of program impact and effectiveness carried out, and tabulations and analyses of all data collected, under this section.
 
-(Added [Pub. L. 102–83, § 2(a)][/us/pl/102/83/s2/a], Aug. 6, 1991, [105 Stat. 391][/us/stat/105/391].)
+(Added [Pub. L. 102–83][/us/pl/102/83], § 2(a), Aug. 6, 1991, [105 Stat. 391][/us/stat/105/391].)
 
  __Prior Provisions__ 
 
-    Provisions similar to those in this section were contained in [section 219 of this title][/us/usc/t38/s219] prior to repeal by [Pub. L. 102–83, § 2(a)][/us/pl/102/83/s2/a].
+    Provisions similar to those in this section were contained in [section 219 of this title][/us/usc/t38/s219] prior to repeal by [Pub. L. 102–83][/us/pl/102/83], § 2(a).
 
  __Submittal of Information to Secretary of Veterans Affairs Relating to Exposure to Airborne Hazards and Open Burn Pits__ 
 
-[Pub. L. 114–92, div. A, title VII, § 728][/us/pl/114/92/s728], Nov. 25, 2015, [129 Stat. 873][/us/stat/129/873], provided that:
+[Pub. L. 114–92, div. A, title VII][/us/pl/114/92/dA/tVII], § 728, Nov. 25, 2015, [129 Stat. 873][/us/stat/129/873], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -45,7 +45,7 @@
 
  __Establishment of Open Burn Pit Registry__ 
 
-[Pub. L. 112–260, title II, § 201][/us/pl/112/260/s201], Jan. 10, 2013, [126 Stat. 2422][/us/stat/126/2422], provided that:
+[Pub. L. 112–260, title II][/us/pl/112/260/tII], § 201, Jan. 10, 2013, [126 Stat. 2422][/us/stat/126/2422], provided that:
 
 >     “(a) __Establishment of Registry.—__ 
 
@@ -121,7 +121,7 @@
 
  __Persian Gulf War Veterans’ Health Status__ 
 
-[Pub. L. 102–585, title VII][/us/pl/102/585], Nov. 4, 1992, [106 Stat. 4975][/us/stat/106/4975], as amended by [Pub. L. 103–446, title I, § 108][/us/pl/103/446/s108], Nov. 2, 1994, [108 Stat. 4653][/us/stat/108/4653]; [Pub. L. 105–368, title I][/us/pl/105/368], §§ 104, 106, Nov. 11, 1998, [112 Stat. 3323][/us/stat/112/3323], 3325; [Pub. L. 111–163, title V, § 502][/us/pl/111/163/s502], May 5, 2010, [124 Stat. 1157][/us/stat/124/1157], provided that:
+[Pub. L. 102–585, title VII][/us/pl/102/585/tVII], Nov. 4, 1992, [106 Stat. 4975][/us/stat/106/4975], as amended by [Pub. L. 103–446, title I][/us/pl/103/446/tI], § 108, Nov. 2, 1994, [108 Stat. 4653][/us/stat/108/4653]; [Pub. L. 105–368, title I][/us/pl/105/368/tI], §§ 104, 106, Nov. 11, 1998, [112 Stat. 3323][/us/stat/112/3323], 3325; [Pub. L. 111–163, title V][/us/pl/111/163/tV], § 502, May 5, 2010, [124 Stat. 1157][/us/stat/124/1157], provided that:
 
 > “SEC. 701. __SHORT TITLE.__ 
 
@@ -345,7 +345,7 @@
 
  __Services for Homeless Veterans__ 
 
-    [Pub. L. 102–405, title I, § 107][/us/pl/102/405/s107], Oct. 9, 1992, [106 Stat. 1976][/us/stat/106/1976], as amended by [Pub. L. 103–446, title X, § 1002][/us/pl/103/446/s1002], Nov. 2, 1994, [108 Stat. 4679][/us/stat/108/4679], required Secretary of Veterans’ Affairs and directors of each medical center or benefits office to assess needs of homeless veterans and programs which have been developed to assist homeless veterans, and to replicate programs which have successfully rehabilitated homeless veterans, prior to repeal by [Pub. L. 105–114, title II, § 202(c)(2)][/us/pl/105/114/s202/c/2], Nov. 21, 1997, [111 Stat. 2287][/us/stat/111/2287].
+    [Pub. L. 102–405, title I][/us/pl/102/405/tI], § 107, Oct. 9, 1992, [106 Stat. 1976][/us/stat/106/1976], as amended by [Pub. L. 103–446, title X][/us/pl/103/446/tX], § 1002, Nov. 2, 1994, [108 Stat. 4679][/us/stat/108/4679], required Secretary of Veterans’ Affairs and directors of each medical center or benefits office to assess needs of homeless veterans and programs which have been developed to assist homeless veterans, and to replicate programs which have successfully rehabilitated homeless veterans, prior to repeal by [Pub. L. 105–114, title II][/us/pl/105/114/tII], § 202(c)(2), Nov. 21, 1997, [111 Stat. 2287][/us/stat/111/2287].
 
 ----------
 
@@ -354,23 +354,23 @@
 ----------
 ----------
 
-[/us/pl/102/83/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs2%2Fa
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F391
 [/us/usc/t38/s219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs219
-[/us/pl/102/83/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs2%2Fa
-[/us/pl/114/92/s728]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs728
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/114/92/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtVII
 [/us/stat/129/873]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F873
 [/us/pl/112/260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F260
 [/us/usc/t38/s527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs527
-[/us/pl/112/260/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F260%2Fs201
+[/us/pl/112/260/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F260%2FtII
 [/us/stat/126/2422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2422
-[/us/pl/102/585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F585
+[/us/pl/102/585/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F585%2FtVII
 [/us/stat/106/4975]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4975
-[/us/pl/103/446/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2Fs108
+[/us/pl/103/446/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2FtI
 [/us/stat/108/4653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4653
-[/us/pl/105/368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368
+[/us/pl/105/368/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2FtI
 [/us/stat/112/3323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3323
-[/us/pl/111/163/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163%2Fs502
+[/us/pl/111/163/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163%2FtV
 [/us/stat/124/1157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1157
 [/us/pl/102/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190
 [/us/stat/105/1411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1411
@@ -383,11 +383,11 @@
 [/us/stat/105/1411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1411
 [/us/usc/t10/s1074]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1074
 [/us/usc/t38/s101/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs101%2F33
-[/us/pl/102/405/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405%2Fs107
+[/us/pl/102/405/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405%2FtI
 [/us/stat/106/1976]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1976
-[/us/pl/103/446/s1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2Fs1002
+[/us/pl/103/446/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2FtX
 [/us/stat/108/4679]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4679
-[/us/pl/105/114/s202/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F114%2Fs202%2Fc%2F2
+[/us/pl/105/114/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F114%2FtII
 [/us/stat/111/2287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2287
 
 

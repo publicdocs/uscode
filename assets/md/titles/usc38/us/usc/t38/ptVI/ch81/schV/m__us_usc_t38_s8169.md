@@ -17,7 +17,7 @@
 
     The authority of the Secretary to enter into enhanced-use leases under this subchapter expires on December 31, 2023.
 
-(Added [Pub. L. 102–86, title IV, § 401(a)][/us/pl/102/86/s401/a], Aug. 14, 1991, [105 Stat. 422][/us/stat/105/422]; amended [Pub. L. 103–452, title I, § 103(d)][/us/pl/103/452/s103/d], Nov. 2, 1994, [108 Stat. 4786][/us/stat/108/4786]; [Pub. L. 104–110, title I, § 101(k)][/us/pl/104/110/s101/k], Feb. 13, 1996, [110 Stat. 769][/us/stat/110/769]; [Pub. L. 105–114, title II, § 205(a)][/us/pl/105/114/s205/a], Nov. 21, 1997, [111 Stat. 2288][/us/stat/111/2288]; [Pub. L. 106–117, title II, § 208(e)][/us/pl/106/117/s208/e], Nov. 30, 1999, [113 Stat. 1568][/us/stat/113/1568]; Pub. L. 112—154, title II, § 211(j), Aug. 6, 2012, [126 Stat. 1182][/us/stat/126/1182].)
+(Added [Pub. L. 102–86, title IV][/us/pl/102/86/tIV], § 401(a), Aug. 14, 1991, [105 Stat. 422][/us/stat/105/422]; amended [Pub. L. 103–452, title I][/us/pl/103/452/tI], § 103(d), Nov. 2, 1994, [108 Stat. 4786][/us/stat/108/4786]; [Pub. L. 104–110, title I][/us/pl/104/110/tI], § 101(k), Feb. 13, 1996, [110 Stat. 769][/us/stat/110/769]; [Pub. L. 105–114, title II][/us/pl/105/114/tII], § 205(a), Nov. 21, 1997, [111 Stat. 2288][/us/stat/111/2288]; [Pub. L. 106–117, title II][/us/pl/106/117/tII], § 208(e), Nov. 30, 1999, [113 Stat. 1568][/us/stat/113/1568]; Pub. L. 112—154, title II, § 211(j), Aug. 6, 2012, [126 Stat. 1182][/us/stat/126/1182].)
 
  __Amendments__ 
 
@@ -42,15 +42,15 @@
 ----------
 ----------
 
-[/us/pl/102/86/s401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F86%2Fs401%2Fa
+[/us/pl/102/86/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F86%2FtIV
 [/us/stat/105/422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F422
-[/us/pl/103/452/s103/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F452%2Fs103%2Fd
+[/us/pl/103/452/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F452%2FtI
 [/us/stat/108/4786]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4786
-[/us/pl/104/110/s101/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F110%2Fs101%2Fk
+[/us/pl/104/110/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F110%2FtI
 [/us/stat/110/769]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F769
-[/us/pl/105/114/s205/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F114%2Fs205%2Fa
+[/us/pl/105/114/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F114%2FtII
 [/us/stat/111/2288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2288
-[/us/pl/106/117/s208/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117%2Fs208%2Fe
+[/us/pl/106/117/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117%2FtII
 [/us/stat/113/1568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1568
 [/us/stat/126/1182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1182
 [/us/pl/112/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154

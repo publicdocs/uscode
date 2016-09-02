@@ -31,19 +31,19 @@
 
         (2) In order to assist the Secretary in making a determination of proper service eligibility under this subsection, each applicant for the benefits thereof shall furnish an authenticated certification from the French Ministry of Defense or the British War Office as to records in either such Office which clearly indicate military service of the applicant in the Czechoslovakian or Polish armed forces and subsequent service in or with the armed forces of France or Great Britain during the period of World War I or World War II.
 
-([Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1112][/us/stat/72/1112]; [Pub. L. 94–491][/us/pl/94/491], Oct. 14, 1976, [90 Stat. 2363][/us/stat/90/2363]; [Pub. L. 99–576, title VII, § 701(8)][/us/pl/99/576/s701/8], Oct. 28, 1986, [100 Stat. 3291][/us/stat/100/3291]; [Pub. L. 102–83, § 4(a)(3)][/us/pl/102/83/s4/a/3], (4), (b)(1), (2)(E), Aug. 6, 1991, [105 Stat. 404][/us/stat/105/404], 405.)
+([Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1112][/us/stat/72/1112]; [Pub. L. 94–491][/us/pl/94/491], Oct. 14, 1976, [90 Stat. 2363][/us/stat/90/2363]; [Pub. L. 99–576, title VII][/us/pl/99/576/tVII], § 701(8), Oct. 28, 1986, [100 Stat. 3291][/us/stat/100/3291]; [Pub. L. 102–83][/us/pl/102/83], § 4(a)(3), (4), (b)(1), (2)(E), Aug. 6, 1991, [105 Stat. 404][/us/stat/105/404], 405.)
 
  __Amendments__ 
 
-    1991—Subsec. (a)(1). [Pub. L. 102–83, § 4(b)(1)][/us/pl/102/83/s4/b/1], (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
+    1991—Subsec. (a)(1). [Pub. L. 102–83][/us/pl/102/83], § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
 
-    [Pub. L. 102–83, § 4(a)(3)][/us/pl/102/83/s4/a/3], (4), substituted “Department” for “Veterans’ Administration”.
+    [Pub. L. 102–83][/us/pl/102/83], § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration”.
 
-    Subsec. (a)(2). [Pub. L. 102–83, § 4(b)(1)][/us/pl/102/83/s4/b/1], (2)(E), substituted “Secretary” for “Administrator”.
+    Subsec. (a)(2). [Pub. L. 102–83][/us/pl/102/83], § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
-    Subsec. (a)(3). [Pub. L. 102–83, § 4(a)(3)][/us/pl/102/83/s4/a/3], (4), substituted “Department” for “Veterans’ Administration” in two places.
+    Subsec. (a)(3). [Pub. L. 102–83][/us/pl/102/83], § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration” in two places.
 
-    Subsec. (c)(2). [Pub. L. 102–83, § 4(b)(1)][/us/pl/102/83/s4/b/1], (2)(E), substituted “Secretary” for “Administrator”.
+    Subsec. (c)(2). [Pub. L. 102–83][/us/pl/102/83], § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
     1986—Subsec. (b). [Pub. L. 99–576][/us/pl/99/576] substituted “such person” for “he”.
 
@@ -60,15 +60,15 @@
 [/us/stat/72/1112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1112
 [/us/pl/94/491]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F491
 [/us/stat/90/2363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2363
-[/us/pl/99/576/s701/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2Fs701%2F8
+[/us/pl/99/576/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2FtVII
 [/us/stat/100/3291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3291
-[/us/pl/102/83/s4/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fa%2F3
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F404
-[/us/pl/102/83/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fb%2F1
-[/us/pl/102/83/s4/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fa%2F3
-[/us/pl/102/83/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fb%2F1
-[/us/pl/102/83/s4/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fa%2F3
-[/us/pl/102/83/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fb%2F1
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/pl/99/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576
 [/us/pl/94/491]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F491
 

@@ -53,7 +53,7 @@
 
         (2) The aggregate period for which a child may receive assistance under this section and chapter 35 of this title may not exceed 48 months (or the part-time equivalent thereof).
 
-(Added [Pub. L. 104–204, title IV, § 421(b)(1)][/us/pl/104/204/s421/b/1], Sept. 26, 1996, [110 Stat. 2924][/us/stat/110/2924]; amended [Pub. L. 105–114, title IV, § 404(c)][/us/pl/105/114/s404/c], Nov. 21, 1997, [111 Stat. 2295][/us/stat/111/2295]; [Pub. L. 108–183, title VII, § 708(a)(3)][/us/pl/108/183/s708/a/3], Dec. 16, 2003, [117 Stat. 2673][/us/stat/117/2673].)
+(Added [Pub. L. 104–204, title IV][/us/pl/104/204/tIV], § 421(b)(1), Sept. 26, 1996, [110 Stat. 2924][/us/stat/110/2924]; amended [Pub. L. 105–114, title IV][/us/pl/105/114/tIV], § 404(c), Nov. 21, 1997, [111 Stat. 2295][/us/stat/111/2295]; [Pub. L. 108–183, title VII][/us/pl/108/183/tVII], § 708(a)(3), Dec. 16, 2003, [117 Stat. 2673][/us/stat/117/2673].)
 
  __Prior Provisions__ 
 
@@ -63,15 +63,15 @@
 
     2003—Subsec. (c)(2). [Pub. L. 108–183][/us/pl/108/183] substituted “section” for “subsection”.
 
-    1997—Subsec. (b). [Pub. L. 105–114, § 404(c)(1)][/us/pl/105/114/s404/c/1], substituted “shall—” for “shall be designed in consultation with the child in order to meet the child’s individual needs and shall be set forth in an individualized written plan of vocational rehabilitation.” and added pars. (1) to (3).
+    1997—Subsec. (b). [Pub. L. 105–114][/us/pl/105/114], § 404(c)(1), substituted “shall—” for “shall be designed in consultation with the child in order to meet the child’s individual needs and shall be set forth in an individualized written plan of vocational rehabilitation.” and added pars. (1) to (3).
 
-    Subsec. (c)(1)(B). [Pub. L. 105–114, § 404(c)(2)][/us/pl/105/114/s404/c/2], substituted “higher learning” for “higher education”.
+    Subsec. (c)(1)(B). [Pub. L. 105–114][/us/pl/105/114], § 404(c)(2), substituted “higher learning” for “higher education”.
 
-    Subsec. (d)(3). [Pub. L. 105–114, § 404(c)(3)][/us/pl/105/114/s404/c/3], added par. (3).
+    Subsec. (d)(3). [Pub. L. 105–114][/us/pl/105/114], § 404(c)(3), added par. (3).
 
  __Effective Date of 1997 Amendment__ 
 
-[Pub. L. 105–114, title IV, § 404(d)][/us/pl/105/114/s404/d], Nov. 21, 1997, [111 Stat. 2295][/us/stat/111/2295], provided that: 
+[Pub. L. 105–114, title IV][/us/pl/105/114/tIV], § 404(d), Nov. 21, 1997, [111 Stat. 2295][/us/stat/111/2295], provided that: 
 
 > “The amendments made by this section \[amending this section and sections 1801 and 1806 of this title\] shall take effect as of October 1, 1997.”
 
@@ -82,18 +82,18 @@
 ----------
 ----------
 
-[/us/pl/104/204/s421/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F204%2Fs421%2Fb%2F1
+[/us/pl/104/204/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F204%2FtIV
 [/us/stat/110/2924]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2924
-[/us/pl/105/114/s404/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F114%2Fs404%2Fc
+[/us/pl/105/114/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F114%2FtIV
 [/us/stat/111/2295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2295
-[/us/pl/108/183/s708/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F183%2Fs708%2Fa%2F3
+[/us/pl/108/183/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F183%2FtVII
 [/us/stat/117/2673]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2673
 [/us/usc/t38/s3704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3704
 [/us/pl/108/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F183
-[/us/pl/105/114/s404/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F114%2Fs404%2Fc%2F1
-[/us/pl/105/114/s404/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F114%2Fs404%2Fc%2F2
-[/us/pl/105/114/s404/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F114%2Fs404%2Fc%2F3
-[/us/pl/105/114/s404/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F114%2Fs404%2Fd
+[/us/pl/105/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F114
+[/us/pl/105/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F114
+[/us/pl/105/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F114
+[/us/pl/105/114/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F114%2FtIV
 [/us/stat/111/2295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2295
 
 

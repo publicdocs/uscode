@@ -17,7 +17,7 @@
 
  __Amendments__ 
 
-    1965—[Pub. L. 89–214, § 1(a)][/us/pl/89/214/s1/a], Sept. 29, 1965, [79 Stat. 880][/us/stat/79/880], redesignated “SUBCHAPTER III—GENERAL” as “SUBCHAPTER IV—GENERAL”.
+    1965—[Pub. L. 89–214][/us/pl/89/214], § 1(a), Sept. 29, 1965, [79 Stat. 880][/us/stat/79/880], redesignated “SUBCHAPTER III—GENERAL” as “SUBCHAPTER IV—GENERAL”.
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/89/214/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F214%2Fs1%2Fa
+[/us/pl/89/214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F214
 [/us/stat/79/880]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F880
 
 

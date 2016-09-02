@@ -17,7 +17,7 @@
 
     The Service shall prepare annually and submit a budget program as provided for wholly owned Government corporations by chapter 91 of title 31, which shall contain an estimate of the needs of the Service for the ensuing fiscal year including an estimate of the amount required to restore any impairment of the revolving fund resulting from operations of the current fiscal year.
 
-([Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1250][/us/stat/72/1250], § 4206; [Pub. L. 97–258, § 3(k)(8)][/us/pl/97/258/s3/k/8], Sept. 13, 1982, [96 Stat. 1065][/us/stat/96/1065]; [Pub. L. 100–322, title IV, § 414(a)(2)][/us/pl/100/322/s414/a/2], May 20, 1988, [102 Stat. 549][/us/stat/102/549]; renumbered § 7806 and amended [Pub. L. 102–40, title IV, § 402(a)][/us/pl/102/40/s402/a], (b)(1), May 7, 1991, [105 Stat. 238][/us/stat/105/238].)
+([Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1250][/us/stat/72/1250], § 4206; [Pub. L. 97–258][/us/pl/97/258], § 3(k)(8), Sept. 13, 1982, [96 Stat. 1065][/us/stat/96/1065]; [Pub. L. 100–322, title IV][/us/pl/100/322/tIV], § 414(a)(2), May 20, 1988, [102 Stat. 549][/us/stat/102/549]; renumbered § 7806 and amended [Pub. L. 102–40, title IV][/us/pl/102/40/tIV], § 402(a), (b)(1), May 7, 1991, [105 Stat. 238][/us/stat/105/238].)
 
  __Amendments__ 
 
@@ -36,11 +36,11 @@
 
 [/us/pl/85/857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F857
 [/us/stat/72/1250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1250
-[/us/pl/97/258/s3/k/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs3%2Fk%2F8
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1065]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1065
-[/us/pl/100/322/s414/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F322%2Fs414%2Fa%2F2
+[/us/pl/100/322/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F322%2FtIV
 [/us/stat/102/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F549
-[/us/pl/102/40/s402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs402%2Fa
+[/us/pl/102/40/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2FtIV
 [/us/stat/105/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F238
 [/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40
 [/us/usc/t38/s4206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs4206

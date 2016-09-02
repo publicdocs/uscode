@@ -65,19 +65,19 @@
 
         (2) the development, or attempted development, of a record found to be inadequate for decisional purposes.
 
-([Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1242][/us/stat/72/1242], § 4006; renumbered § 4007, [Pub. L. 87–666, § 1][/us/pl/87/666/s1], Sept. 19, 1962, [76 Stat. 553][/us/stat/76/553]; renumbered § 7107, [Pub. L. 102–40, title IV, § 402(b)(1)][/us/pl/102/40/s402/b/1], May 7, 1991, [105 Stat. 238][/us/stat/105/238]; [Pub. L. 103–271, § 7(a)(1)][/us/pl/103/271/s7/a/1], July 1, 1994, [108 Stat. 742][/us/stat/108/742]; [Pub. L. 103–446, title III, § 303][/us/pl/103/446/s303], Nov. 2, 1994, [108 Stat. 4658][/us/stat/108/4658]; [Pub. L. 105–368, title X, § 1003][/us/pl/105/368/s1003], Nov. 11, 1998, [112 Stat. 3363][/us/stat/112/3363].)
+([Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1242][/us/stat/72/1242], § 4006; renumbered § 4007, [Pub. L. 87–666][/us/pl/87/666], § 1, Sept. 19, 1962, [76 Stat. 553][/us/stat/76/553]; renumbered § 7107, [Pub. L. 102–40, title IV][/us/pl/102/40/tIV], § 402(b)(1), May 7, 1991, [105 Stat. 238][/us/stat/105/238]; [Pub. L. 103–271][/us/pl/103/271], § 7(a)(1), July 1, 1994, [108 Stat. 742][/us/stat/108/742]; [Pub. L. 103–446, title III][/us/pl/103/446/tIII], § 303, Nov. 2, 1994, [108 Stat. 4658][/us/stat/108/4658]; [Pub. L. 105–368, title X][/us/pl/105/368/tX], § 1003, Nov. 11, 1998, [112 Stat. 3363][/us/stat/112/3363].)
 
  __Amendments__ 
 
-    1998—Subsec. (a)(1). [Pub. L. 105–368, § 1003(a)(1)][/us/pl/105/368/s1003/a/1], inserted “in paragraphs (2) and (3) and” after “Except as provided”.
+    1998—Subsec. (a)(1). [Pub. L. 105–368][/us/pl/105/368], § 1003(a)(1), inserted “in paragraphs (2) and (3) and” after “Except as provided”.
 
-    Subsec. (a)(2). [Pub. L. 105–368, § 1003(a)(2)][/us/pl/105/368/s1003/a/2], added second and third sentences and struck out former second sentence which read as follows: “Any such motion shall set forth succinctly the grounds upon which it is based and may not be granted unless the case involves interpretation of law of general application affecting other claims or for other sufficient cause shown.”
+    Subsec. (a)(2). [Pub. L. 105–368][/us/pl/105/368], § 1003(a)(2), added second and third sentences and struck out former second sentence which read as follows: “Any such motion shall set forth succinctly the grounds upon which it is based and may not be granted unless the case involves interpretation of law of general application affecting other claims or for other sufficient cause shown.”
 
-    Subsec. (a)(3). [Pub. L. 105–368, § 1003(a)(3)][/us/pl/105/368/s1003/a/3], added par. (3).
+    Subsec. (a)(3). [Pub. L. 105–368][/us/pl/105/368], § 1003(a)(3), added par. (3).
 
-    Subsec. (d)(2). [Pub. L. 105–368, § 1003(b)(1)][/us/pl/105/368/s1003/b/1], substituted “in accordance with the place of the case on the docket under subsection (a) relative to other cases on the docket for which hearings are scheduled to be held within that area.” for “in the order in which requests for hearings within that area are received by the Department.”
+    Subsec. (d)(2). [Pub. L. 105–368][/us/pl/105/368], § 1003(b)(1), substituted “in accordance with the place of the case on the docket under subsection (a) relative to other cases on the docket for which hearings are scheduled to be held within that area.” for “in the order in which requests for hearings within that area are received by the Department.”
 
-    Subsec. (d)(3). [Pub. L. 105–368, § 1003(b)(2)][/us/pl/105/368/s1003/b/2], added par. (3) and struck out former par. (3) which read as follows: “In a case in which the Secretary is aware that the appellant is seriously ill or is under severe financial hardship, a hearing may be scheduled at a time earlier than would be provided for under paragraph (2).”
+    Subsec. (d)(3). [Pub. L. 105–368][/us/pl/105/368], § 1003(b)(2), added par. (3) and struck out former par. (3) which read as follows: “In a case in which the Secretary is aware that the appellant is seriously ill or is under severe financial hardship, a hearing may be scheduled at a time earlier than would be provided for under paragraph (2).”
 
     1994—[Pub. L. 103–446][/us/pl/103/446] substituted “Except as provided in subsection (f), each case” for “Each case” in subsec. (a)(1) and added subsec. (f).
 
@@ -97,21 +97,21 @@
 [/us/usc/t38/s7103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7103
 [/us/pl/85/857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F857
 [/us/stat/72/1242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1242
-[/us/pl/87/666/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F666%2Fs1
+[/us/pl/87/666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F666
 [/us/stat/76/553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F553
-[/us/pl/102/40/s402/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs402%2Fb%2F1
+[/us/pl/102/40/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2FtIV
 [/us/stat/105/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F238
-[/us/pl/103/271/s7/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F271%2Fs7%2Fa%2F1
+[/us/pl/103/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F271
 [/us/stat/108/742]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F742
-[/us/pl/103/446/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2Fs303
+[/us/pl/103/446/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2FtIII
 [/us/stat/108/4658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4658
-[/us/pl/105/368/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2Fs1003
+[/us/pl/105/368/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2FtX
 [/us/stat/112/3363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3363
-[/us/pl/105/368/s1003/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2Fs1003%2Fa%2F1
-[/us/pl/105/368/s1003/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2Fs1003%2Fa%2F2
-[/us/pl/105/368/s1003/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2Fs1003%2Fa%2F3
-[/us/pl/105/368/s1003/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2Fs1003%2Fb%2F1
-[/us/pl/105/368/s1003/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2Fs1003%2Fb%2F2
+[/us/pl/105/368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368
+[/us/pl/105/368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368
+[/us/pl/105/368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368
+[/us/pl/105/368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368
+[/us/pl/105/368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368
 [/us/pl/103/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446
 [/us/pl/103/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F271
 [/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40

@@ -31,11 +31,11 @@
 
     If a claim for entitlement to compensation or additional compensation under chapter 11 of this title or pension or additional pension under chapter 15 of this title is pending at the time of a veteran’s death and the check or other payment issued to the veteran’s surviving spouse under subsection (a) is less than the amount of the benefit the veteran would have been entitled to for the month of death pursuant to the adjudication of the pending claim, an amount equal to the difference between the amount to which the veteran would have been entitled to receive under chapter 11 or 15 of this title for the month of the veteran’s death had the veteran not died and the amount of the check or other payment issued to the surviving spouse shall be treated in the same manner as an accrued benefit under [section 5121 of this title][/us/usc/t38/s5121].
 
-(Added [Pub. L. 87–825, § 4(a)][/us/pl/87/825/s4/a], Oct. 15, 1962, [76 Stat. 950][/us/stat/76/950], § 3110; amended [Pub. L. 98–160, title VII, § 703(3)][/us/pl/98/160/s703/3], Nov. 21, 1983, [97 Stat. 1010][/us/stat/97/1010]; renumbered § 5310 and amended [Pub. L. 102–40, title IV, § 402(b)(1)][/us/pl/102/40/s402/b/1], (d)(1), May 7, 1991, [105 Stat. 238][/us/stat/105/238], 239; [Pub. L. 104–275, title V, § 506(a)][/us/pl/104/275/s506/a], Oct. 9, 1996, [110 Stat. 3343][/us/stat/110/3343]; [Pub. L. 105–114, title IV, § 401(f)][/us/pl/105/114/s401/f], Nov. 21, 1997, [111 Stat. 2294][/us/stat/111/2294]; [Pub. L. 112–154, title V, § 507(a)][/us/pl/112/154/s507/a], Aug. 6, 2012, [126 Stat. 1194][/us/stat/126/1194].)
+(Added [Pub. L. 87–825][/us/pl/87/825], § 4(a), Oct. 15, 1962, [76 Stat. 950][/us/stat/76/950], § 3110; amended [Pub. L. 98–160, title VII][/us/pl/98/160/tVII], § 703(3), Nov. 21, 1983, [97 Stat. 1010][/us/stat/97/1010]; renumbered § 5310 and amended [Pub. L. 102–40, title IV][/us/pl/102/40/tIV], § 402(b)(1), (d)(1), May 7, 1991, [105 Stat. 238][/us/stat/105/238], 239; [Pub. L. 104–275, title V][/us/pl/104/275/tV], § 506(a), Oct. 9, 1996, [110 Stat. 3343][/us/stat/110/3343]; [Pub. L. 105–114, title IV][/us/pl/105/114/tIV], § 401(f), Nov. 21, 1997, [111 Stat. 2294][/us/stat/111/2294]; [Pub. L. 112–154, title V][/us/pl/112/154/tV], § 507(a), Aug. 6, 2012, [126 Stat. 1194][/us/stat/126/1194].)
 
  __Amendments__ 
 
-    2012—[Pub. L. 112–154, § 507(a)][/us/pl/112/154/s507/a], amended section generally. Prior to amendment, text read as follows:
+    2012—[Pub. L. 112–154][/us/pl/112/154], § 507(a), amended section generally. Prior to amendment, text read as follows:
 
     “(a) If, in accordance with the provisions of [section 5110(d) of this title][/us/usc/t38/s5110/d], a surviving spouse is entitled to death benefits under chapter 11, 13, or 15 of this title for the month in which a veteran’s death occurs, the amount of such death benefits for that month shall be not less than the amount of benefits the veteran would have received under chapter 11 or 15 of this title for that month but for the death of the veteran.
 
@@ -57,7 +57,7 @@
 
  __Effective Date of 1996 Amendment__ 
 
-[Pub. L. 104–275, title V, § 506(b)][/us/pl/104/275/s506/b], Oct. 9, 1996, [110 Stat. 3343][/us/stat/110/3343], provided that: 
+[Pub. L. 104–275, title V][/us/pl/104/275/tV], § 506(b), Oct. 9, 1996, [110 Stat. 3343][/us/stat/110/3343], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall apply with respect to the death of compensation and pension recipients occurring after December 31, 1996.”
 
@@ -73,19 +73,19 @@
 ----------
 
 [/us/usc/t38/s5121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs5121
-[/us/pl/87/825/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F825%2Fs4%2Fa
+[/us/pl/87/825]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F825
 [/us/stat/76/950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F950
-[/us/pl/98/160/s703/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F160%2Fs703%2F3
+[/us/pl/98/160/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F160%2FtVII
 [/us/stat/97/1010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1010
-[/us/pl/102/40/s402/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs402%2Fb%2F1
+[/us/pl/102/40/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2FtIV
 [/us/stat/105/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F238
-[/us/pl/104/275/s506/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275%2Fs506%2Fa
+[/us/pl/104/275/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275%2FtV
 [/us/stat/110/3343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3343
-[/us/pl/105/114/s401/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F114%2Fs401%2Ff
+[/us/pl/105/114/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F114%2FtIV
 [/us/stat/111/2294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2294
-[/us/pl/112/154/s507/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154%2Fs507%2Fa
+[/us/pl/112/154/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154%2FtV
 [/us/stat/126/1194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1194
-[/us/pl/112/154/s507/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154%2Fs507%2Fa
+[/us/pl/112/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154
 [/us/usc/t38/s5110/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs5110%2Fd
 [/us/usc/t38/s5112/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs5112%2Fb%2F1
 [/us/usc/t38/s5121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs5121
@@ -97,7 +97,7 @@
 [/us/pl/112/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154
 [/us/pl/112/154/s507/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154%2Fs507%2Fc
 [/us/usc/t38/s5111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs5111
-[/us/pl/104/275/s506/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275%2Fs506%2Fb
+[/us/pl/104/275/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275%2FtV
 [/us/stat/110/3343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3343
 [/us/pl/87/825/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F825%2Fs7
 [/us/usc/t38/s110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs110

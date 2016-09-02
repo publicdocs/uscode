@@ -75,21 +75,21 @@
 
             (C) to which such individual was appointed by the President.
 
-(Added [Pub. L. 102–83, § 2(a)][/us/pl/102/83/s2/a], Aug. 6, 1991, [105 Stat. 381][/us/stat/105/381]; amended [Pub. L. 107–287, § 5(a)][/us/pl/107/287/s5/a]–(c), Nov. 7, 2002, [116 Stat. 2030][/us/stat/116/2030]; [Pub. L. 112–166, § 2(m)][/us/pl/112/166/s2/m], Aug. 10, 2012, [126 Stat. 1287][/us/stat/126/1287].)
+(Added [Pub. L. 102–83][/us/pl/102/83], § 2(a), Aug. 6, 1991, [105 Stat. 381][/us/stat/105/381]; amended [Pub. L. 107–287][/us/pl/107/287], § 5(a)–(c), Nov. 7, 2002, [116 Stat. 2030][/us/stat/116/2030]; [Pub. L. 112–166][/us/pl/112/166], § 2(m), Aug. 10, 2012, [126 Stat. 1287][/us/stat/126/1287].)
 
  __Prior Provisions__ 
 
-    Provisions similar to those in this section were contained in sections 4(a), (b), (e) and 5 of [Pub. L. 100–527][/us/pl/100/527], known as the Department of Veterans Affairs Act, prior to repeal by [Pub. L. 102–83, § 3(3)][/us/pl/102/83/s3/3].
+    Provisions similar to those in this section were contained in sections 4(a), (b), (e) and 5 of [Pub. L. 100–527][/us/pl/100/527], known as the Department of Veterans Affairs Act, prior to repeal by [Pub. L. 102–83][/us/pl/102/83], § 3(3).
 
  __Amendments__ 
 
     2012—Subsec. (a). [Pub. L. 112–166][/us/pl/112/166] designated existing provisions as par. (1), struck out at end of par. (1) “Each Assistant Secretary shall be appointed by the President, by and with the advice and consent of the Senate.”, and added pars. (2) and (3).
 
-    2002—Subsec. (a). [Pub. L. 107–287, § 5(a)][/us/pl/107/287/s5/a], substituted “seven” for “six” in first sentence.
+    2002—Subsec. (a). [Pub. L. 107–287][/us/pl/107/287], § 5(a), substituted “seven” for “six” in first sentence.
 
-    Subsec. (b)(11). [Pub. L. 107–287, § 5(b)][/us/pl/107/287/s5/b], added par. (11).
+    Subsec. (b)(11). [Pub. L. 107–287][/us/pl/107/287], § 5(b), added par. (11).
 
-    Subsec. (d)(1). [Pub. L. 107–287, § 5(c)][/us/pl/107/287/s5/c], substituted “19” for “18”.
+    Subsec. (d)(1). [Pub. L. 107–287][/us/pl/107/287], § 5(c), substituted “19” for “18”.
 
  __Effective Date of 2012 Amendment__ 
 
@@ -104,18 +104,18 @@
 
 [/us/usc/t44/s3506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3506
 [/us/usc/t5/s3132/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3132%2Fa%2F7
-[/us/pl/102/83/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs2%2Fa
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F381
-[/us/pl/107/287/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F287%2Fs5%2Fa
+[/us/pl/107/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F287
 [/us/stat/116/2030]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2030
-[/us/pl/112/166/s2/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F166%2Fs2%2Fm
+[/us/pl/112/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F166
 [/us/stat/126/1287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1287
 [/us/pl/100/527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F527
-[/us/pl/102/83/s3/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs3%2F3
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/pl/112/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F166
-[/us/pl/107/287/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F287%2Fs5%2Fa
-[/us/pl/107/287/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F287%2Fs5%2Fb
-[/us/pl/107/287/s5/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F287%2Fs5%2Fc
+[/us/pl/107/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F287
+[/us/pl/107/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F287
+[/us/pl/107/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F287
 [/us/pl/112/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F166
 [/us/pl/112/166/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F166%2Fs6%2Fa
 [/us/usc/t6/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs113

@@ -23,7 +23,7 @@
 
     The Secretary shall provide to employers the text of the notice to be provided under this section.
 
-(Added [Pub. L. 108–454, title II, § 203(a)][/us/pl/108/454/s203/a], Dec. 10, 2004, [118 Stat. 3606][/us/stat/118/3606].)
+(Added [Pub. L. 108–454, title II][/us/pl/108/454/tII], § 203(a), Dec. 10, 2004, [118 Stat. 3606][/us/stat/118/3606].)
 
  __Prior Provisions__ 
 
@@ -31,7 +31,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 108–454, title II, § 203(c)][/us/pl/108/454/s203/c], Dec. 10, 2004, [118 Stat. 3606][/us/stat/118/3606], provided that:
+[Pub. L. 108–454, title II][/us/pl/108/454/tII], § 203(c), Dec. 10, 2004, [118 Stat. 3606][/us/stat/118/3606], provided that:
 
 >     “(1) Not later than the date that is 90 days after the date of the enactment of this Act \[Dec. 10, 2004\], the Secretary of Labor shall make available to employers the notice required under [section 4334 of title 38][/us/usc/t38/s4334], United States Code, as added by subsection (a).
 
@@ -44,10 +44,10 @@
 ----------
 ----------
 
-[/us/pl/108/454/s203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F454%2Fs203%2Fa
+[/us/pl/108/454/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F454%2FtII
 [/us/stat/118/3606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3606
 [/us/usc/t38/s7634]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7634
-[/us/pl/108/454/s203/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F454%2Fs203%2Fc
+[/us/pl/108/454/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F454%2FtII
 [/us/stat/118/3606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3606
 [/us/usc/t38/s4334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs4334
 

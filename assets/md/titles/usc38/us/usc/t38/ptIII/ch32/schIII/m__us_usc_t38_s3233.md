@@ -39,7 +39,7 @@
 
     (d) For any month in which an individual fails to complete 120 hours of training, the entitlement otherwise chargeable under subsection (c) of this section shall be reduced in the same proportion as the monthly benefit payment payable is reduced under subsection (b) of this section.
 
-(Added [Pub. L. 99–576, title III, § 310(b)(2)][/us/pl/99/576/s310/b/2], Oct. 28, 1986, [100 Stat. 3271][/us/stat/100/3271], § 1633; amended [Pub. L. 101–237, title IV, § 423(a)(7)][/us/pl/101/237/s423/a/7], Dec. 18, 1989, [103 Stat. 2091][/us/stat/103/2091]; renumbered § 3233, [Pub. L. 102–83, § 5(a)][/us/pl/102/83/s5/a], Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406].)
+(Added [Pub. L. 99–576, title III][/us/pl/99/576/tIII], § 310(b)(2), Oct. 28, 1986, [100 Stat. 3271][/us/stat/100/3271], § 1633; amended [Pub. L. 101–237, title IV][/us/pl/101/237/tIV], § 423(a)(7), Dec. 18, 1989, [103 Stat. 2091][/us/stat/103/2091]; renumbered § 3233, [Pub. L. 102–83][/us/pl/102/83], § 5(a), Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406].)
 
  __Amendments__ 
 
@@ -49,7 +49,7 @@
 
  __Increase in Benefit for Individuals Pursuing Apprenticeship or On-Job Training; Post-Vietnam Era Veterans’ Educational Assistance__ 
 
-[Pub. L. 108–454, title I, § 103(b)][/us/pl/108/454/s103/b], Dec. 10, 2004, [118 Stat. 3600][/us/stat/118/3600], provided that: 
+[Pub. L. 108–454, title I][/us/pl/108/454/tI], § 103(b), Dec. 10, 2004, [118 Stat. 3600][/us/stat/118/3600], provided that: 
 
 > “For months beginning on or after October 1, 2005, and before January 1, 2008, subsection (a) of [section 3233 of title 38][/us/usc/t38/s3233], United States Code, shall be applied as if—
 
@@ -66,16 +66,16 @@
 ----------
 ----------
 
-[/us/pl/99/576/s310/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2Fs310%2Fb%2F2
+[/us/pl/99/576/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2FtIII
 [/us/stat/100/3271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3271
-[/us/pl/101/237/s423/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237%2Fs423%2Fa%2F7
+[/us/pl/101/237/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237%2FtIV
 [/us/stat/103/2091]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2091
-[/us/pl/102/83/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fa
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F406
 [/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/usc/t38/s1633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1633
 [/us/pl/101/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237
-[/us/pl/108/454/s103/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F454%2Fs103%2Fb
+[/us/pl/108/454/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F454%2FtI
 [/us/stat/118/3600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3600
 [/us/usc/t38/s3233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3233
 

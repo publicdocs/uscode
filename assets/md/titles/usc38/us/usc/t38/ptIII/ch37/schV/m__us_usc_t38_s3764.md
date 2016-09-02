@@ -31,7 +31,7 @@
 
     Nothing in subsection (b) shall be construed as precluding a tribal organization from imposing reasonable restrictions on the right of the qualified non-Native American veteran to convey, assign, or otherwise dispose of such interest in the lot or dwelling, or both, if such restrictions are designed to ensure the continuation in trust status of the lot or dwelling, or both. Such requirements may include the termination of the interest of the qualified non-Native American veteran in the lot or dwelling, or both, upon the dissolution of the marriage of the qualified non-Native American veteran to the Native American spouse.
 
-(Added [Pub. L. 109–233, title I, § 104(a)(2)][/us/pl/109/233/s104/a/2], June 15, 2006, [120 Stat. 401][/us/stat/120/401].)
+(Added [Pub. L. 109–233, title I][/us/pl/109/233/tI], § 104(a)(2), June 15, 2006, [120 Stat. 401][/us/stat/120/401].)
 
  __Prior Provisions__ 
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/pl/109/233/s104/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F233%2Fs104%2Fa%2F2
+[/us/pl/109/233/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F233%2FtI
 [/us/stat/120/401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F401
 [/us/usc/t38/s3765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3765
 

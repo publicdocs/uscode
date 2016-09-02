@@ -17,7 +17,7 @@
 
     Subject to the provision of [section 1973 of this title][/us/usc/t38/s1973], insurance coverage granted under this subchapter shall be incontestable from the date of issue, reinstatement, or conversion except for fraud or nonpayment of premium.
 
-(Added [Pub. L. 93–289, § 9(a)][/us/pl/93/289/s9/a], May 24, 1974, [88 Stat. 172][/us/stat/88/172], § 779; renumbered § 1979 and amended [Pub. L. 102–83, § 5(a)][/us/pl/102/83/s5/a], (c)(1), Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406].)
+(Added [Pub. L. 93–289][/us/pl/93/289], § 9(a), May 24, 1974, [88 Stat. 172][/us/stat/88/172], § 779; renumbered § 1979 and amended [Pub. L. 102–83][/us/pl/102/83], § 5(a), (c)(1), Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406].)
 
  __Amendments__ 
 
@@ -35,9 +35,9 @@
 ----------
 
 [/us/usc/t38/s1973]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1973
-[/us/pl/93/289/s9/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F289%2Fs9%2Fa
+[/us/pl/93/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F289
 [/us/stat/88/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F172
-[/us/pl/102/83/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fa
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F406
 [/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/usc/t38/s779]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs779

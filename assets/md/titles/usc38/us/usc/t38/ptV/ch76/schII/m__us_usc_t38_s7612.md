@@ -65,7 +65,7 @@
 
         (4) If a participant’s period of obligated service is deferred under [section 7616(b)(3)(A)(i) of this title][/us/usc/t38/s7616/b/3/A/i], the agreement terms under paragraph (1) of this subsection shall provide for the participant to serve any additional period of obligated service that is prescribed by the Secretary under [section 7616(b)(4)(B) of this title][/us/usc/t38/s7616/b/4/B].
 
-(Added [Pub. L. 100–322, title II, § 216(b)][/us/pl/100/322/s216/b], May 20, 1988, [102 Stat. 520][/us/stat/102/520], § 4312; amended [Pub. L. 101–237, title II, § 207(a)][/us/pl/101/237/s207/a], Dec. 18, 1989, [103 Stat. 2068][/us/stat/103/2068]; renumbered § 7612 and amended [Pub. L. 102–40, title IV][/us/pl/102/40], §§ 402(b)(1), (d)(1), 403(b)(4), May 7, 1991, [105 Stat. 238][/us/stat/105/238], 239; [Pub. L. 102–83, § 4(a)(3)][/us/pl/102/83/s4/a/3], (4), (b)(1), (2)(E), Aug. 6, 1991, [105 Stat. 404][/us/stat/105/404], 405; [Pub. L. 102–405, title II, § 202(a)][/us/pl/102/405/s202/a], Oct. 9, 1992, [106 Stat. 1983][/us/stat/106/1983]; [Pub. L. 103–446, title XII, § 1201(b)(1)][/us/pl/103/446/s1201/b/1], Nov. 2, 1994, [108 Stat. 4682][/us/stat/108/4682]; [Pub. L. 111–163, title VI, § 603(b)][/us/pl/111/163/s603/b], May 5, 2010, [124 Stat. 1173][/us/stat/124/1173]; [Pub. L. 113–146, title III, § 301(c)][/us/pl/113/146/s301/c], Aug. 7, 2014, [128 Stat. 1786][/us/stat/128/1786].)
+(Added [Pub. L. 100–322, title II][/us/pl/100/322/tII], § 216(b), May 20, 1988, [102 Stat. 520][/us/stat/102/520], § 4312; amended [Pub. L. 101–237, title II][/us/pl/101/237/tII], § 207(a), Dec. 18, 1989, [103 Stat. 2068][/us/stat/103/2068]; renumbered § 7612 and amended [Pub. L. 102–40, title IV][/us/pl/102/40/tIV], §§ 402(b)(1), (d)(1), 403(b)(4), May 7, 1991, [105 Stat. 238][/us/stat/105/238], 239; [Pub. L. 102–83][/us/pl/102/83], § 4(a)(3), (4), (b)(1), (2)(E), Aug. 6, 1991, [105 Stat. 404][/us/stat/105/404], 405; [Pub. L. 102–405, title II][/us/pl/102/405/tII], § 202(a), Oct. 9, 1992, [106 Stat. 1983][/us/stat/106/1983]; [Pub. L. 103–446, title XII][/us/pl/103/446/tXII], § 1201(b)(1), Nov. 2, 1994, [108 Stat. 4682][/us/stat/108/4682]; [Pub. L. 111–163, title VI][/us/pl/111/163/tVI], § 603(b), May 5, 2010, [124 Stat. 1173][/us/stat/124/1173]; [Pub. L. 113–146, title III][/us/pl/113/146/tIII], § 301(c), Aug. 7, 2014, [128 Stat. 1786][/us/stat/128/1786].)
 
  __Amendments__ 
 
@@ -81,51 +81,51 @@
 
     1992—Subsec. (c)(1)(B). [Pub. L. 102–405][/us/pl/102/405] inserted before period at end “, but for not less than two years”.
 
-    1991—[Pub. L. 102–40, § 402(b)(1)][/us/pl/102/40/s402/b/1], renumbered [section 4312 of this title][/us/usc/t38/s4312] as this section.
+    1991—[Pub. L. 102–40][/us/pl/102/40], § 402(b)(1), renumbered [section 4312 of this title][/us/usc/t38/s4312] as this section.
 
-    Subsec. (a)(1). [Pub. L. 102–40, § 402(d)(1)][/us/pl/102/40/s402/d/1], substituted “7602” for “4302”.
+    Subsec. (a)(1). [Pub. L. 102–40][/us/pl/102/40], § 402(d)(1), substituted “7602” for “4302”.
 
-    Subsec. (a)(2). [Pub. L. 102–83, § 4(a)(3)][/us/pl/102/83/s4/a/3], (4), substituted “Department” for “Veterans’ Administration”.
+    Subsec. (a)(2). [Pub. L. 102–83][/us/pl/102/83], § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration”.
 
-    [Pub. L. 102–40, § 402(d)(1)][/us/pl/102/40/s402/d/1], substituted “7602” for “4302”.
+    [Pub. L. 102–40][/us/pl/102/40], § 402(d)(1), substituted “7602” for “4302”.
 
-    Subsec. (a)(3). [Pub. L. 102–83, § 4(a)(3)][/us/pl/102/83/s4/a/3], (4), substituted “Department” for “Veterans’ Administration” wherever appearing.
+    Subsec. (a)(3). [Pub. L. 102–83][/us/pl/102/83], § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration” wherever appearing.
 
-    [Pub. L. 102–40, § 402(d)(1)][/us/pl/102/40/s402/d/1], substituted “7603” for “4303”.
+    [Pub. L. 102–40][/us/pl/102/40], § 402(d)(1), substituted “7603” for “4303”.
 
-    Subsec. (b)(2). [Pub. L. 102–40, § 403(b)(4)(A)][/us/pl/102/40/s403/b/4/A], substituted “7401” for “4104” in introductory provisions and “7401(3)” for “4104(3)” in subpar. (B).
+    Subsec. (b)(2). [Pub. L. 102–40][/us/pl/102/40], § 403(b)(4)(A), substituted “7401” for “4104” in introductory provisions and “7401(3)” for “4104(3)” in subpar. (B).
 
-    Subsec. (b)(3). [Pub. L. 102–83, § 4(b)(1)][/us/pl/102/83/s4/b/1], (2)(E), substituted “Secretary” for “Administrator”.
+    Subsec. (b)(3). [Pub. L. 102–83][/us/pl/102/83], § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
-    [Pub. L. 102–40, § 403(b)(4)(B)][/us/pl/102/40/s403/b/4/B], substituted “subsection (a)(1) of [section 7455 of this title][/us/usc/t38/s7455] for personnel described in subsection (a)(2)(B) of such section” for “[section 4107(g)(1)(B) of this title][/us/usc/t38/s4107/g/1/B]”.
+    [Pub. L. 102–40][/us/pl/102/40], § 403(b)(4)(B), substituted “subsection (a)(1) of [section 7455 of this title][/us/usc/t38/s7455] for personnel described in subsection (a)(2)(B) of such section” for “[section 4107(g)(1)(B) of this title][/us/usc/t38/s4107/g/1/B]”.
 
-    Subsec. (b)(4). [Pub. L. 102–83, § 4(b)(1)][/us/pl/102/83/s4/b/1], (2)(E), substituted “Secretary” for “Administrator” and “Secretary’s” for “Administrator’s”.
+    Subsec. (b)(4). [Pub. L. 102–83][/us/pl/102/83], § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” and “Secretary’s” for “Administrator’s”.
 
-    [Pub. L. 102–83, § 4(a)(3)][/us/pl/102/83/s4/a/3], (4), substituted “Department” for “Veterans’ Administration”.
+    [Pub. L. 102–83][/us/pl/102/83], § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration”.
 
-    Subsec. (c)(1). [Pub. L. 102–83, § 4(b)(1)][/us/pl/102/83/s4/b/1], (2)(E), substituted “Secretary” for “Administrator” in introductory provisions and “Secretary’s” for “Administrator’s” in subpar. (A).
+    Subsec. (c)(1). [Pub. L. 102–83][/us/pl/102/83], § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in introductory provisions and “Secretary’s” for “Administrator’s” in subpar. (A).
 
-    [Pub. L. 102–40, § 402(d)(1)][/us/pl/102/40/s402/d/1], substituted “7604” for “4304” in introductory provisions and “7602” for “4302” in subpar. (A).
+    [Pub. L. 102–40][/us/pl/102/40], § 402(d)(1), substituted “7604” for “4304” in introductory provisions and “7602” for “4302” in subpar. (A).
 
-    Subsec. (c)(2). [Pub. L. 102–40, § 402(d)(1)][/us/pl/102/40/s402/d/1], substituted “7614(3)” for “4314(3)”.
+    Subsec. (c)(2). [Pub. L. 102–40][/us/pl/102/40], § 402(d)(1), substituted “7614(3)” for “4314(3)”.
 
-    Subsec. (c)(3)(B). [Pub. L. 102–83, § 4(a)(3)][/us/pl/102/83/s4/a/3], (4), substituted “Department” for “Veterans’ Administration” in two places.
+    Subsec. (c)(3)(B). [Pub. L. 102–83][/us/pl/102/83], § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration” in two places.
 
-    Subsec. (c)(4). [Pub. L. 102–83, § 4(b)(1)][/us/pl/102/83/s4/b/1], (2)(E), substituted “Secretary” for “Administrator”.
+    Subsec. (c)(4). [Pub. L. 102–83][/us/pl/102/83], § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
-    [Pub. L. 102–40, § 402(d)(1)][/us/pl/102/40/s402/d/1], substituted “7616(b)(3)(A)(i)” for “4316(b)(3)(A)(i)” and “7616(b)(4)(B)” for “4316(b)(4)(B)”.
+    [Pub. L. 102–40][/us/pl/102/40], § 402(d)(1), substituted “7616(b)(3)(A)(i)” for “4316(b)(3)(A)(i)” and “7616(b)(4)(B)” for “4316(b)(4)(B)”.
 
     1989—Subsec. (b)(5). [Pub. L. 101–237][/us/pl/101/237] amended par. (5) generally. Prior to amendment, par. (5) read as follows: “In selecting applicants for the Scholarship Program, the Administrator shall give priority to the applications of individuals who will be entering their final year in a course of training.”
 
  __Effective Date of 1992 Amendment__ 
 
-[Pub. L. 102–405, title II, § 202(b)][/us/pl/102/405/s202/b], Oct. 9, 1992, [106 Stat. 1983][/us/stat/106/1983], provided that: 
+[Pub. L. 102–405, title II][/us/pl/102/405/tII], § 202(b), Oct. 9, 1992, [106 Stat. 1983][/us/stat/106/1983], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply to scholarship agreements entered into after the date of the enactment of this Act \[Oct. 9, 1992\].”
 
  __Implementation of Equitable Allocation Provisions__ 
 
-[Pub. L. 101–237, title II, § 207(a)][/us/pl/101/237/s207/a], Dec. 18, 1989, [103 Stat. 2068][/us/stat/103/2068], provided that: 
+[Pub. L. 101–237, title II][/us/pl/101/237/tII], § 207(a), Dec. 18, 1989, [103 Stat. 2068][/us/stat/103/2068], provided that: 
 
 > “The Secretary of Veterans Affairs shall provide for the implementation of the amendment made by subsection (a) \[amending this section\] beginning with scholarships awarded under section 4312 \[now 7612\] of title 38, United States Code, during 1990.”
 
@@ -147,21 +147,21 @@
 [/us/usc/t38/s7614/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7614%2F3
 [/us/usc/t38/s7616/b/3/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7616%2Fb%2F3%2FA%2Fi
 [/us/usc/t38/s7616/b/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7616%2Fb%2F4%2FB
-[/us/pl/100/322/s216/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F322%2Fs216%2Fb
+[/us/pl/100/322/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F322%2FtII
 [/us/stat/102/520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F520
-[/us/pl/101/237/s207/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237%2Fs207%2Fa
+[/us/pl/101/237/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237%2FtII
 [/us/stat/103/2068]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2068
-[/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40
+[/us/pl/102/40/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2FtIV
 [/us/stat/105/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F238
-[/us/pl/102/83/s4/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fa%2F3
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F404
-[/us/pl/102/405/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405%2Fs202%2Fa
+[/us/pl/102/405/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405%2FtII
 [/us/stat/106/1983]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1983
-[/us/pl/103/446/s1201/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2Fs1201%2Fb%2F1
+[/us/pl/103/446/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2FtXII
 [/us/stat/108/4682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4682
-[/us/pl/111/163/s603/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163%2Fs603%2Fb
+[/us/pl/111/163/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163%2FtVI
 [/us/stat/124/1173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1173
-[/us/pl/113/146/s301/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F146%2Fs301%2Fc
+[/us/pl/113/146/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F146%2FtIII
 [/us/stat/128/1786]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1786
 [/us/pl/113/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F146
 [/us/pl/111/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163
@@ -170,30 +170,30 @@
 [/us/usc/t38/s7401/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7401%2F3
 [/us/pl/103/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446
 [/us/pl/102/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405
-[/us/pl/102/40/s402/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs402%2Fb%2F1
+[/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40
 [/us/usc/t38/s4312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs4312
-[/us/pl/102/40/s402/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs402%2Fd%2F1
-[/us/pl/102/83/s4/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fa%2F3
-[/us/pl/102/40/s402/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs402%2Fd%2F1
-[/us/pl/102/83/s4/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fa%2F3
-[/us/pl/102/40/s402/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs402%2Fd%2F1
-[/us/pl/102/40/s403/b/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs403%2Fb%2F4%2FA
-[/us/pl/102/83/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fb%2F1
-[/us/pl/102/40/s403/b/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs403%2Fb%2F4%2FB
+[/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40
+[/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40
 [/us/usc/t38/s7455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7455
 [/us/usc/t38/s4107/g/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs4107%2Fg%2F1%2FB
-[/us/pl/102/83/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fb%2F1
-[/us/pl/102/83/s4/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fa%2F3
-[/us/pl/102/83/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fb%2F1
-[/us/pl/102/40/s402/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs402%2Fd%2F1
-[/us/pl/102/40/s402/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs402%2Fd%2F1
-[/us/pl/102/83/s4/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fa%2F3
-[/us/pl/102/83/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fb%2F1
-[/us/pl/102/40/s402/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs402%2Fd%2F1
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40
+[/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40
 [/us/pl/101/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237
-[/us/pl/102/405/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405%2Fs202%2Fb
+[/us/pl/102/405/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405%2FtII
 [/us/stat/106/1983]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1983
-[/us/pl/101/237/s207/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237%2Fs207%2Fa
+[/us/pl/101/237/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237%2FtII
 [/us/stat/103/2068]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2068
 
 

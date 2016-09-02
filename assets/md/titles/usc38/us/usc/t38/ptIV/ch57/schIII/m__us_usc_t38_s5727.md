@@ -129,7 +129,7 @@
 
     The term “VA sensitive data” means all Department data, on any storage media or in any form or format, which requires protection due to the risk of harm that could result from inadvertent or deliberate disclosure, alteration, or destruction of the information and includes information whose improper use or disclosure could adversely affect the ability of an agency to accomplish its mission, proprietary information, and records about individuals requiring protection under applicable confidentiality provisions.
 
-(Added [Pub. L. 109–461, title IX, § 902(a)][/us/pl/109/461/s902/a], Dec. 22, 2006, [120 Stat. 3457][/us/stat/120/3457]; amended [Pub. L. 111–275, title X, § 1001(m)(2)][/us/pl/111/275/s1001/m/2], Oct. 13, 2010, [124 Stat. 2897][/us/stat/124/2897].)
+(Added [Pub. L. 109–461, title IX][/us/pl/109/461/tIX], § 902(a), Dec. 22, 2006, [120 Stat. 3457][/us/stat/120/3457]; amended [Pub. L. 111–275, title X][/us/pl/111/275/tX], § 1001(m)(2), Oct. 13, 2010, [124 Stat. 2897][/us/stat/124/2897].)
 
  __Amendments__ 
 
@@ -144,9 +144,9 @@
 
 [/us/usc/t15/s1681a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1681a
 [/us/usc/t15/s1681a/p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1681a%2Fp
-[/us/pl/109/461/s902/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461%2Fs902%2Fa
+[/us/pl/109/461/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461%2FtIX
 [/us/stat/120/3457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3457
-[/us/pl/111/275/s1001/m/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275%2Fs1001%2Fm%2F2
+[/us/pl/111/275/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275%2FtX
 [/us/stat/124/2897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2897
 [/us/pl/111/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275
 

@@ -33,7 +33,7 @@
 
     (c) For purposes of this section, the term “matching program” has the same meaning provided in [section 552a(a)(8) of title 5][/us/usc/t5/s552a/a/8].
 
-(Added [Pub. L. 101–366, title II, § 206(a)][/us/pl/101/366/s206/a], Aug. 15, 1990, [104 Stat. 441][/us/stat/104/441], § 1784A; renumbered § 3684A, [Pub. L. 102–83, § 5(a)][/us/pl/102/83/s5/a], Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406].)
+(Added [Pub. L. 101–366, title II][/us/pl/101/366/tII], § 206(a), Aug. 15, 1990, [104 Stat. 441][/us/stat/104/441], § 1784A; renumbered § 3684A, [Pub. L. 102–83][/us/pl/102/83], § 5(a), Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406].)
 
  __Amendments__ 
 
@@ -49,9 +49,9 @@
 [/us/usc/t5/s552a/p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552a%2Fp
 [/us/usc/t5/s552a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552a
 [/us/usc/t5/s552a/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552a%2Fa%2F8
-[/us/pl/101/366/s206/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F366%2Fs206%2Fa
+[/us/pl/101/366/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F366%2FtII
 [/us/stat/104/441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F441
-[/us/pl/102/83/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fa
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F406
 [/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/usc/t38/s1784A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1784A

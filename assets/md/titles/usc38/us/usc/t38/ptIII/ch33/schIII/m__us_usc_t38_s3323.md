@@ -61,7 +61,7 @@
 
         Any regulations prescribed by the Secretary of Defense for purposes of this chapter shall apply uniformly across the Armed Forces.
 
-(Added [Pub. L. 110–252, title V, § 5003(a)(1)][/us/pl/110/252/s5003/a/1], June 30, 2008, [122 Stat. 2374][/us/stat/122/2374]; amended [Pub. L. 111–377, title I, § 112(c)][/us/pl/111/377/s112/c], Jan. 4, 2011, [124 Stat. 4122][/us/stat/124/4122].)
+(Added [Pub. L. 110–252, title V][/us/pl/110/252/tV], § 5003(a)(1), June 30, 2008, [122 Stat. 2374][/us/stat/122/2374]; amended [Pub. L. 111–377, title I][/us/pl/111/377/tI], § 112(c), Jan. 4, 2011, [124 Stat. 4122][/us/stat/124/4122].)
 
  __Amendments__ 
 
@@ -74,9 +74,9 @@
 ----------
 ----------
 
-[/us/pl/110/252/s5003/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F252%2Fs5003%2Fa%2F1
+[/us/pl/110/252/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F252%2FtV
 [/us/stat/122/2374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2374
-[/us/pl/111/377/s112/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F377%2Fs112%2Fc
+[/us/pl/111/377/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F377%2FtI
 [/us/stat/124/4122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4122
 [/us/pl/111/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F377
 

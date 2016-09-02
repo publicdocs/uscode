@@ -71,7 +71,7 @@
 
     The Secretaries concerned shall administer this section in accordance with such regulations as the Secretary of Defense shall prescribe.
 
-(Added [Pub. L. 110–252, title V, § 5003(a)(1)][/us/pl/110/252/s5003/a/1], June 30, 2008, [122 Stat. 2367][/us/stat/122/2367]; amended [Pub. L. 111–275, title X, § 1001(g)(4)][/us/pl/111/275/s1001/g/4], (5), Oct. 13, 2010, [124 Stat. 2896][/us/stat/124/2896]; [Pub. L. 111–377, title I, § 109(a)][/us/pl/111/377/s109/a]–(b)(1), Jan. 4, 2011, [124 Stat. 4119][/us/stat/124/4119], 4120.)
+(Added [Pub. L. 110–252, title V][/us/pl/110/252/tV], § 5003(a)(1), June 30, 2008, [122 Stat. 2367][/us/stat/122/2367]; amended [Pub. L. 111–275, title X][/us/pl/111/275/tX], § 1001(g)(4), (5), Oct. 13, 2010, [124 Stat. 2896][/us/stat/124/2896]; [Pub. L. 111–377, title I][/us/pl/111/377/tI], § 109(a)–(b)(1), Jan. 4, 2011, [124 Stat. 4119][/us/stat/124/4119], 4120.)
 
  __References in Text__ 
 
@@ -79,15 +79,15 @@
 
  __Amendments__ 
 
-    2011—Subsec. (c). [Pub. L. 111–377, § 109(a)(2)][/us/pl/111/377/s109/a/2], added subsec. (c). Former subsec. (c) redesignated (e).
+    2011—Subsec. (c). [Pub. L. 111–377][/us/pl/111/377], § 109(a)(2), added subsec. (c). Former subsec. (c) redesignated (e).
 
-    Subsec. (d). [Pub. L. 111–377, § 109(b)(1)][/us/pl/111/377/s109/b/1], added subsec. (d).
+    Subsec. (d). [Pub. L. 111–377][/us/pl/111/377], § 109(b)(1), added subsec. (d).
 
-    Subsec. (e). [Pub. L. 111–377, § 109(a)(1)][/us/pl/111/377/s109/a/1], redesignated subsec. (c) as (e).
+    Subsec. (e). [Pub. L. 111–377][/us/pl/111/377], § 109(a)(1), redesignated subsec. (c) as (e).
 
-    2010—Subsec. (b)(2). [Pub. L. 111–275, § 1001(g)(4)][/us/pl/111/275/s1001/g/4], substituted “supplemental” for “supplement”.
+    2010—Subsec. (b)(2). [Pub. L. 111–275][/us/pl/111/275], § 1001(g)(4), substituted “supplemental” for “supplement”.
 
-    Subsec. (b)(3). [Pub. L. 111–275, § 1001(g)(5)][/us/pl/111/275/s1001/g/5], substituted “educational assistance payable under section 3022” for “educational payable under section 3022”.
+    Subsec. (b)(3). [Pub. L. 111–275][/us/pl/111/275], § 1001(g)(5), substituted “educational assistance payable under section 3022” for “educational payable under section 3022”.
 
  __Effective Date of 2011 Amendment__ 
 
@@ -104,19 +104,19 @@
 [/us/usc/t10/s16131/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs16131%2Fi
 [/us/usc/t10/s16131/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs16131%2Fi
 [/us/usc/t10/s2006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2006
-[/us/pl/110/252/s5003/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F252%2Fs5003%2Fa%2F1
+[/us/pl/110/252/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F252%2FtV
 [/us/stat/122/2367]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2367
-[/us/pl/111/275/s1001/g/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275%2Fs1001%2Fg%2F4
+[/us/pl/111/275/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275%2FtX
 [/us/stat/124/2896]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2896
-[/us/pl/111/377/s109/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F377%2Fs109%2Fa
+[/us/pl/111/377/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F377%2FtI
 [/us/stat/124/4119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4119
 [/us/pl/110/252/s5003/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F252%2Fs5003%2Fc%2F1%2FA
 [/us/usc/t38/s3301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3301
-[/us/pl/111/377/s109/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F377%2Fs109%2Fa%2F2
-[/us/pl/111/377/s109/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F377%2Fs109%2Fb%2F1
-[/us/pl/111/377/s109/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F377%2Fs109%2Fa%2F1
-[/us/pl/111/275/s1001/g/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275%2Fs1001%2Fg%2F4
-[/us/pl/111/275/s1001/g/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275%2Fs1001%2Fg%2F5
+[/us/pl/111/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F377
+[/us/pl/111/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F377
+[/us/pl/111/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F377
+[/us/pl/111/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275
+[/us/pl/111/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275
 [/us/pl/111/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F377
 [/us/pl/111/377/s109/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F377%2Fs109%2Fc
 [/us/usc/t10/s2006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2006

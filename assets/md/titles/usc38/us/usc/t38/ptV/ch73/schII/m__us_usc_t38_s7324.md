@@ -33,11 +33,11 @@
 
         (2) The programs carried out to facilitate the use of nursing education programs by experienced nurses, including programs for flexible scheduling, scholarships, salary replacement pay, and on-site classes.
 
-(Added [Pub. L. 107–135, title I, § 125(a)(1)][/us/pl/107/135/s125/a/1], Jan. 23, 2002, [115 Stat. 2452][/us/stat/115/2452].)
+(Added [Pub. L. 107–135, title I][/us/pl/107/135/tI], § 125(a)(1), Jan. 23, 2002, [115 Stat. 2452][/us/stat/115/2452].)
 
  __Initial Report__ 
 
-    [Pub. L. 107–135, title I, § 125(b)][/us/pl/107/135/s125/b], Jan. 23, 2002, [115 Stat. 2453][/us/stat/115/2453], required that the initial report under this section be submitted to the National Commission on VA Nursing as well as to Congress.
+    [Pub. L. 107–135, title I][/us/pl/107/135/tI], § 125(b), Jan. 23, 2002, [115 Stat. 2453][/us/stat/115/2453], required that the initial report under this section be submitted to the National Commission on VA Nursing as well as to Congress.
 
 ----------
 
@@ -47,9 +47,9 @@
 ----------
 
 [/us/usc/t38/s7404/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7404%2Fb%2F1
-[/us/pl/107/135/s125/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F135%2Fs125%2Fa%2F1
+[/us/pl/107/135/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F135%2FtI
 [/us/stat/115/2452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2452
-[/us/pl/107/135/s125/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F135%2Fs125%2Fb
+[/us/pl/107/135/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F135%2FtI
 [/us/stat/115/2453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2453
 
 

@@ -45,7 +45,7 @@
 
         (2) an award that is increased because of an added dependent, increase in disability or disability rating, or reduction in income.
 
-(Added [Pub. L. 97–253, title IV, § 401(a)(1)][/us/pl/97/253/s401/a/1], Sept. 8, 1982, [96 Stat. 801][/us/stat/96/801], § 3011; amended [Pub. L. 98–223, title I, § 113][/us/pl/98/223/s113], Mar. 2, 1984, [98 Stat. 40][/us/stat/98/40]; renumbered § 5111 and amended [Pub. L. 102–40, title IV, § 402(b)(1)][/us/pl/102/40/s402/b/1], (d)(1), May 7, 1991, [105 Stat. 238][/us/stat/105/238], 239; [Pub. L. 102–83, § 4(a)(1)][/us/pl/102/83/s4/a/1], Aug. 6, 1991, [105 Stat. 403][/us/stat/105/403]; [Pub. L. 111–275, title VI, § 605(a)][/us/pl/111/275/s605/a], Oct. 13, 2010, [124 Stat. 2885][/us/stat/124/2885]; [Pub. L. 112–154, title V, § 507(b)][/us/pl/112/154/s507/b], Aug. 6, 2012, [126 Stat. 1194][/us/stat/126/1194].)
+(Added [Pub. L. 97–253, title IV][/us/pl/97/253/tIV], § 401(a)(1), Sept. 8, 1982, [96 Stat. 801][/us/stat/96/801], § 3011; amended [Pub. L. 98–223, title I][/us/pl/98/223/tI], § 113, Mar. 2, 1984, [98 Stat. 40][/us/stat/98/40]; renumbered § 5111 and amended [Pub. L. 102–40, title IV][/us/pl/102/40/tIV], § 402(b)(1), (d)(1), May 7, 1991, [105 Stat. 238][/us/stat/105/238], 239; [Pub. L. 102–83][/us/pl/102/83], § 4(a)(1), Aug. 6, 1991, [105 Stat. 403][/us/stat/105/403]; [Pub. L. 111–275, title VI][/us/pl/111/275/tVI], § 605(a), Oct. 13, 2010, [124 Stat. 2885][/us/stat/124/2885]; [Pub. L. 112–154, title V][/us/pl/112/154/tV], § 507(b), Aug. 6, 2012, [126 Stat. 1194][/us/stat/126/1194].)
 
  __Amendments__ 
 
@@ -53,29 +53,29 @@
 
     2010—Subsec. (a). [Pub. L. 111–275][/us/pl/111/275] designated existing provisions as par. (1), substituted “in paragraph (2) and subsection (c)” for “in subsection (c) of this section”, and added par. (2).
 
-    1991—[Pub. L. 102–40, § 402(b)(1)][/us/pl/102/40/s402/b/1], renumbered [section 3011 of this title][/us/usc/t38/s3011] as this section.
+    1991—[Pub. L. 102–40][/us/pl/102/40], § 402(b)(1), renumbered [section 3011 of this title][/us/usc/t38/s3011] as this section.
 
-    Subsec. (a). [Pub. L. 102–40, § 402(d)(1)][/us/pl/102/40/s402/d/1], substituted “5110” for “3010” in two places.
+    Subsec. (a). [Pub. L. 102–40][/us/pl/102/40], § 402(d)(1), substituted “5110” for “3010” in two places.
 
     Subsec. (b)(1). [Pub. L. 102–83][/us/pl/102/83] substituted “administered by the Secretary” for “administered by the Veterans’ Administration”.
 
-    [Pub. L. 102–40, § 402(d)(1)][/us/pl/102/40/s402/d/1], substituted “5110” for “3010”.
+    [Pub. L. 102–40][/us/pl/102/40], § 402(d)(1), substituted “5110” for “3010”.
 
-    Subsec. (b)(2). [Pub. L. 102–40, § 402(d)(1)][/us/pl/102/40/s402/d/1], substituted “5305” for “3105”.
+    Subsec. (b)(2). [Pub. L. 102–40][/us/pl/102/40], § 402(d)(1), substituted “5305” for “3105”.
 
-    Subsec. (c)(1). [Pub. L. 102–40, § 402(d)(1)][/us/pl/102/40/s402/d/1], substituted “5310” for “3110”.
+    Subsec. (c)(1). [Pub. L. 102–40][/us/pl/102/40], § 402(d)(1), substituted “5310” for “3110”.
 
     1984—Subsec. (c). [Pub. L. 98–223][/us/pl/98/223] designated existing provisions as par. (1) and added par. (2).
 
  __Effective Date of 2012 Amendment__ 
 
-[Pub. L. 112–154, title V, § 507(c)][/us/pl/112/154/s507/c], Aug. 6, 2012, [126 Stat. 1194][/us/stat/126/1194], provided that: 
+[Pub. L. 112–154, title V][/us/pl/112/154/tV], § 507(c), Aug. 6, 2012, [126 Stat. 1194][/us/stat/126/1194], provided that: 
 
 > “The amendments made by this section \[amending this section and [section 5310 of this title][/us/usc/t38/s5310]\] shall take effect on the date of the enactment of this Act \[Aug. 6, 2012\], and shall apply with respect to deaths that occur on or after that date.”
 
  __Effective Date of 2010 Amendment__ 
 
-[Pub. L. 111–275, title VI, § 605(b)][/us/pl/111/275/s605/b], Oct. 13, 2010, [124 Stat. 2886][/us/stat/124/2886], provided that: 
+[Pub. L. 111–275, title VI][/us/pl/111/275/tVI], § 605(b), Oct. 13, 2010, [124 Stat. 2886][/us/stat/124/2886], provided that: 
 
 > “The amendments made by subsection (a) \[amending this section\] shall take effect on October 1, 2011, and shall apply with respect to awards of compensation based on original claims that become effective on or after that date.”
 
@@ -85,7 +85,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 97–253, title IV, § 401(b)][/us/pl/97/253/s401/b], Sept. 8, 1982, [96 Stat. 802][/us/stat/96/802], provided that: 
+[Pub. L. 97–253, title IV][/us/pl/97/253/tIV], § 401(b), Sept. 8, 1982, [96 Stat. 802][/us/stat/96/802], provided that: 
 
 > “Section 3011 \[now 5111\] of title 38, United States Code, as added by subsection (a), shall apply to awards and increased awards the effective dates of which are after September 30, 1982.”
 
@@ -102,39 +102,39 @@
 [/us/usc/t38/s5110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs5110
 [/us/usc/t38/s5305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs5305
 [/us/usc/t38/s5310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs5310
-[/us/pl/97/253/s401/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F253%2Fs401%2Fa%2F1
+[/us/pl/97/253/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F253%2FtIV
 [/us/stat/96/801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F801
-[/us/pl/98/223/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F223%2Fs113
+[/us/pl/98/223/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F223%2FtI
 [/us/stat/98/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F40
-[/us/pl/102/40/s402/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs402%2Fb%2F1
+[/us/pl/102/40/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2FtIV
 [/us/stat/105/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F238
-[/us/pl/102/83/s4/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fa%2F1
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F403
-[/us/pl/111/275/s605/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275%2Fs605%2Fa
+[/us/pl/111/275/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275%2FtVI
 [/us/stat/124/2885]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2885
-[/us/pl/112/154/s507/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154%2Fs507%2Fb
+[/us/pl/112/154/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154%2FtV
 [/us/stat/126/1194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1194
 [/us/pl/112/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154
 [/us/usc/t38/s5310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs5310
 [/us/usc/t38/s5310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs5310
 [/us/pl/111/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275
-[/us/pl/102/40/s402/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs402%2Fb%2F1
+[/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40
 [/us/usc/t38/s3011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3011
-[/us/pl/102/40/s402/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs402%2Fd%2F1
+[/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40
 [/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
-[/us/pl/102/40/s402/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs402%2Fd%2F1
-[/us/pl/102/40/s402/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs402%2Fd%2F1
-[/us/pl/102/40/s402/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs402%2Fd%2F1
+[/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40
+[/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40
+[/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40
 [/us/pl/98/223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F223
-[/us/pl/112/154/s507/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154%2Fs507%2Fc
+[/us/pl/112/154/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154%2FtV
 [/us/stat/126/1194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1194
 [/us/usc/t38/s5310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs5310
-[/us/pl/111/275/s605/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275%2Fs605%2Fb
+[/us/pl/111/275/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275%2FtVI
 [/us/stat/124/2886]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2886
 [/us/pl/98/223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F223
 [/us/pl/98/223/s114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F223%2Fs114
 [/us/usc/t38/s1112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1112
-[/us/pl/97/253/s401/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F253%2Fs401%2Fb
+[/us/pl/97/253/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F253%2FtIV
 [/us/stat/96/802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F802
 
 

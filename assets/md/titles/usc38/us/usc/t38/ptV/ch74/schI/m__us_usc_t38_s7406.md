@@ -71,7 +71,7 @@
 
         (5) Leave described in paragraph (4)(C) may be pooled, and the intern or resident may be afforded leave by the facility in which such person is serving at the time the leave is to be used to the extent of such person’s total accumulated leave, whether or not earned at the facility in which such person is serving at the time the leave is to be afforded.
 
-(Added [Pub. L. 102–40, title IV, § 401(b)(2)][/us/pl/102/40/s401/b/2], May 7, 1991, [105 Stat. 227][/us/stat/105/227]; amended [Pub. L. 104–262, title III, § 345][/us/pl/104/262/s345], Oct. 9, 1996, [110 Stat. 3208][/us/stat/110/3208].)
+(Added [Pub. L. 102–40, title IV][/us/pl/102/40/tIV], § 401(b)(2), May 7, 1991, [105 Stat. 227][/us/stat/105/227]; amended [Pub. L. 104–262, title III][/us/pl/104/262/tIII], § 345, Oct. 9, 1996, [110 Stat. 3208][/us/stat/110/3208].)
 
  __References in Text__ 
 
@@ -83,17 +83,17 @@
 
  __Amendments__ 
 
-    1996—Subsec. (c)(2), (3)(B). [Pub. L. 104–262, § 345(1)][/us/pl/104/262/s345/1], substituted “Department facility furnishing hospital care or medical services” for “Department hospital” wherever appearing.
+    1996—Subsec. (c)(2), (3)(B). [Pub. L. 104–262][/us/pl/104/262], § 345(1), substituted “Department facility furnishing hospital care or medical services” for “Department hospital” wherever appearing.
 
-    Subsec. (c)(4)(C). [Pub. L. 104–262, § 345(2)][/us/pl/104/262/s345/2], substituted “participating facility” for “participating hospital”.
+    Subsec. (c)(4)(C). [Pub. L. 104–262][/us/pl/104/262], § 345(2), substituted “participating facility” for “participating hospital”.
 
-    [Pub. L. 104–262, § 345(1)][/us/pl/104/262/s345/1], substituted “Department facility furnishing hospital care or medical services” for “Department hospital”.
+    [Pub. L. 104–262][/us/pl/104/262], § 345(1), substituted “Department facility furnishing hospital care or medical services” for “Department hospital”.
 
-    Subsec. (c)(5). [Pub. L. 104–262, § 345(3)][/us/pl/104/262/s345/3], substituted “facility” for “hospital” in two places.
+    Subsec. (c)(5). [Pub. L. 104–262][/us/pl/104/262], § 345(3), substituted “facility” for “hospital” in two places.
 
  __Training in Telemedicine__ 
 
-[Pub. L. 112–154, title I, § 108(b)][/us/pl/112/154/s108/b], Aug. 6, 2012, [126 Stat. 1174][/us/stat/126/1174], provided that:
+[Pub. L. 112–154, title I][/us/pl/112/154/tI], § 108(b), Aug. 6, 2012, [126 Stat. 1174][/us/stat/126/1174], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -111,17 +111,17 @@
 ----------
 
 [/us/usc/t5/s8332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8332
-[/us/pl/102/40/s401/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs401%2Fb%2F2
+[/us/pl/102/40/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2FtIV
 [/us/stat/105/227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F227
-[/us/pl/104/262/s345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F262%2Fs345
+[/us/pl/104/262/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F262%2FtIII
 [/us/stat/110/3208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3208
 [/us/usc/t38/s4114/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs4114%2Fb
 [/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40
-[/us/pl/104/262/s345/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F262%2Fs345%2F1
-[/us/pl/104/262/s345/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F262%2Fs345%2F2
-[/us/pl/104/262/s345/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F262%2Fs345%2F1
-[/us/pl/104/262/s345/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F262%2Fs345%2F3
-[/us/pl/112/154/s108/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154%2Fs108%2Fb
+[/us/pl/104/262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F262
+[/us/pl/104/262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F262
+[/us/pl/104/262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F262
+[/us/pl/104/262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F262
+[/us/pl/112/154/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154%2FtI
 [/us/stat/126/1174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1174
 
 

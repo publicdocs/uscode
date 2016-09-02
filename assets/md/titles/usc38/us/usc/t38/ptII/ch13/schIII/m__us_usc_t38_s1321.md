@@ -17,13 +17,13 @@
 
     The Secretary concerned shall, at the request of the Secretary, certify to the Secretary the pay grade of deceased persons with respect to whose deaths applications for benefits are filed under this chapter. The certification of the Secretary concerned shall be binding upon the Secretary.
 
-([Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1132][/us/stat/72/1132], § 421; [Pub. L. 91–96, § 4][/us/pl/91/96/s4], Oct. 27, 1969, [83 Stat. 145][/us/stat/83/145]; [Pub. L. 94–433, title IV, § 405(17)][/us/pl/94/433/s405/17], Sept. 30, 1976, [90 Stat. 1380][/us/stat/90/1380]; renumbered § 1321 and amended [Pub. L. 102–83][/us/pl/102/83], §§ 4(b)(1), (2)(E), 5(a), Aug. 6, 1991, [105 Stat. 404–406][/us/stat/105/404-406].)
+([Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1132][/us/stat/72/1132], § 421; [Pub. L. 91–96][/us/pl/91/96], § 4, Oct. 27, 1969, [83 Stat. 145][/us/stat/83/145]; [Pub. L. 94–433, title IV][/us/pl/94/433/tIV], § 405(17), Sept. 30, 1976, [90 Stat. 1380][/us/stat/90/1380]; renumbered § 1321 and amended [Pub. L. 102–83][/us/pl/102/83], §§ 4(b)(1), (2)(E), 5(a), Aug. 6, 1991, [105 Stat. 404–406][/us/stat/105/404-406].)
 
  __Amendments__ 
 
-    1991—[Pub. L. 102–83, § 5(a)][/us/pl/102/83/s5/a], renumbered [section 421 of this title][/us/usc/t38/s421] as this section.
+    1991—[Pub. L. 102–83][/us/pl/102/83], § 5(a), renumbered [section 421 of this title][/us/usc/t38/s421] as this section.
 
-    [Pub. L. 102–83, § 4(b)(1)][/us/pl/102/83/s4/b/1], (2)(E), substituted “Secretary, certify to the Secretary” for “Administrator, certify to the Administrator” and “upon the Secretary” for “upon the Administrator”.
+    [Pub. L. 102–83][/us/pl/102/83], § 4(b)(1), (2)(E), substituted “Secretary, certify to the Secretary” for “Administrator, certify to the Administrator” and “upon the Secretary” for “upon the Administrator”.
 
     1976—[Pub. L. 94–433][/us/pl/94/433] substituted “to the Administrator” for “to him”.
 
@@ -46,15 +46,15 @@
 
 [/us/pl/85/857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F857
 [/us/stat/72/1132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1132
-[/us/pl/91/96/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F96%2Fs4
+[/us/pl/91/96]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F96
 [/us/stat/83/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F145
-[/us/pl/94/433/s405/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F433%2Fs405%2F17
+[/us/pl/94/433/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F433%2FtIV
 [/us/stat/90/1380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1380
 [/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/404-406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F404-406
-[/us/pl/102/83/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fa
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/usc/t38/s421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs421
-[/us/pl/102/83/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fb%2F1
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/pl/94/433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F433
 [/us/pl/91/96]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F96
 [/us/usc/t38/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs401

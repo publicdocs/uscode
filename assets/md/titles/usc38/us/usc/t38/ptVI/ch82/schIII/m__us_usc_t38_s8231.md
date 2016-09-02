@@ -17,7 +17,7 @@
 
     The purpose of this subchapter is to authorize the Secretary to carry out a program of grants to provide assistance in the establishment of cooperative arrangements among universities, colleges, junior colleges, community colleges, schools of allied health professions, State and local systems of education, hospitals, and other nonprofit health manpower institutions affiliated with the Department, designed to coordinate, improve, and expand the training of professional and technical allied health and paramedical personnel, and to assist in developing and evaluating new health careers, interdisciplinary approaches and career advancement opportunities, so as to improve and expand allied and other health manpower utilization.
 
-(Added [Pub. L. 92–541, § 2(a)][/us/pl/92/541/s2/a], Oct. 24, 1972, [86 Stat. 1105][/us/stat/86/1105], § 5091; renumbered § 8231, [Pub. L. 102–40, title IV, § 402(b)(2)(D)][/us/pl/102/40/s402/b/2/D], May 7, 1991, [105 Stat. 239][/us/stat/105/239]; amended [Pub. L. 102–83, § 4(a)(3)][/us/pl/102/83/s4/a/3], (4), (b)(1), (2)(E), Aug. 6, 1991, [105 Stat. 404][/us/stat/105/404], 405.)
+(Added [Pub. L. 92–541][/us/pl/92/541], § 2(a), Oct. 24, 1972, [86 Stat. 1105][/us/stat/86/1105], § 5091; renumbered § 8231, [Pub. L. 102–40, title IV][/us/pl/102/40/tIV], § 402(b)(2)(D), May 7, 1991, [105 Stat. 239][/us/stat/105/239]; amended [Pub. L. 102–83][/us/pl/102/83], § 4(a)(3), (4), (b)(1), (2)(E), Aug. 6, 1991, [105 Stat. 404][/us/stat/105/404], 405.)
 
  __Amendments__ 
 
@@ -32,11 +32,11 @@
 ----------
 ----------
 
-[/us/pl/92/541/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F541%2Fs2%2Fa
+[/us/pl/92/541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F541
 [/us/stat/86/1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1105
-[/us/pl/102/40/s402/b/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs402%2Fb%2F2%2FD
+[/us/pl/102/40/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2FtIV
 [/us/stat/105/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F239
-[/us/pl/102/83/s4/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fa%2F3
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F404
 [/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40
 [/us/usc/t38/s5091]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs5091

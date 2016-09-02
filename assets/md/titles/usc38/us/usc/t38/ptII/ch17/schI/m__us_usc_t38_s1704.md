@@ -55,7 +55,7 @@
 
     (3) An accounting of the expenditure of funds during that period by the National Center for Preventive Health under [section 7318 of this title][/us/usc/t38/s7318].
 
-(Added [Pub. L. 102–585, title V, § 512(a)][/us/pl/102/585/s512/a], Nov. 4, 1992, [106 Stat. 4957][/us/stat/106/4957].)
+(Added [Pub. L. 102–585, title V][/us/pl/102/585/tV], § 512(a), Nov. 4, 1992, [106 Stat. 4957][/us/stat/106/4957].)
 
 ----------
 
@@ -65,7 +65,7 @@
 ----------
 
 [/us/usc/t38/s7318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7318
-[/us/pl/102/585/s512/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F585%2Fs512%2Fa
+[/us/pl/102/585/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F585%2FtV
 [/us/stat/106/4957]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4957
 
 

@@ -35,7 +35,7 @@
 
     (b) In any case where the amount of dependency and indemnity compensation payable under this chapter to a surviving spouse who has children is less than the amount of pension which would be payable to (1) such surviving spouse, or (2) such children if the surviving spouse were not entitled, under chapter 15 of this title had the death occurred under circumstances authorizing payment of death pension, the Secretary shall pay dependency and indemnity compensation to such surviving spouse in an amount equal to such amount of pension.
 
-([Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1128][/us/stat/72/1128], § 412; [Pub. L. 87–268, § 1(a)][/us/pl/87/268/s1/a], Sept. 21, 1961, [75 Stat. 566][/us/stat/75/566]; [Pub. L. 89–466][/us/pl/89/466], June 22, 1966, [80 Stat. 217][/us/stat/80/217]; [Pub. L. 94–433, title IV, § 405(9)][/us/pl/94/433/s405/9], Sept. 30, 1976, [90 Stat. 1379][/us/stat/90/1379]; [Pub. L. 98–223, title II, § 213(2)][/us/pl/98/223/s213/2], Mar. 2, 1984, [98 Stat. 46][/us/stat/98/46]; [Pub. L. 102–54, § 14(b)(3)][/us/pl/102/54/s14/b/3], June 13, 1991, [105 Stat. 283][/us/stat/105/283]; renumbered § 1312 and amended [Pub. L. 102–83][/us/pl/102/83], §§ 4(b)(1), (2)(E), 5(a), Aug. 6, 1991, [105 Stat. 404–406][/us/stat/105/404-406].)
+([Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1128][/us/stat/72/1128], § 412; [Pub. L. 87–268][/us/pl/87/268], § 1(a), Sept. 21, 1961, [75 Stat. 566][/us/stat/75/566]; [Pub. L. 89–466][/us/pl/89/466], June 22, 1966, [80 Stat. 217][/us/stat/80/217]; [Pub. L. 94–433, title IV][/us/pl/94/433/tIV], § 405(9), Sept. 30, 1976, [90 Stat. 1379][/us/stat/90/1379]; [Pub. L. 98–223, title II][/us/pl/98/223/tII], § 213(2), Mar. 2, 1984, [98 Stat. 46][/us/stat/98/46]; [Pub. L. 102–54][/us/pl/102/54], § 14(b)(3), June 13, 1991, [105 Stat. 283][/us/stat/105/283]; renumbered § 1312 and amended [Pub. L. 102–83][/us/pl/102/83], §§ 4(b)(1), (2)(E), 5(a), Aug. 6, 1991, [105 Stat. 404–406][/us/stat/105/404-406].)
 
  __References in Text__ 
 
@@ -43,15 +43,15 @@
 
  __Amendments__ 
 
-    1991—[Pub. L. 102–83, § 5(a)][/us/pl/102/83/s5/a], renumbered [section 412 of this title][/us/usc/t38/s412] as this section.
+    1991—[Pub. L. 102–83][/us/pl/102/83], § 5(a), renumbered [section 412 of this title][/us/usc/t38/s412] as this section.
 
-    Subsec. (a). [Pub. L. 102–83, § 4(b)(1)][/us/pl/102/83/s4/b/1], (2)(E), substituted “Secretary” for “Administrator” in two places in concluding provisions.
+    Subsec. (a). [Pub. L. 102–83][/us/pl/102/83], § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in two places in concluding provisions.
 
     [Pub. L. 102–54][/us/pl/102/54] substituted “401” for “201” in concluding provisions.
 
-    Subsec. (b). [Pub. L. 102–83, § 4(b)(1)][/us/pl/102/83/s4/b/1], (2)(E), substituted “Secretary” for “Administrator”.
+    Subsec. (b). [Pub. L. 102–83][/us/pl/102/83], § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
-    1984—Subsec. (a). [Pub. L. 98–223, § 213(2)][/us/pl/98/223/s213/2], substituted “section 214 of the Social Security Act ([42 U.S.C. 414][/us/usc/t42/s414])” for “[section 414 of title 42][/us/usc/t42/s414]” in par. (1), “section 202 of the Social Security Act ([42 U.S.C. 402][/us/usc/t42/s402])” for “[section 402 of title 42][/us/usc/t42/s402]” in par. (3), and “title II of the Social Security Act ([42 U.S.C. 201][/us/usc/t42/s201] et seq.)” for “subchapter II of chapter 7 of title 42” in provision following par. (3).
+    1984—Subsec. (a). [Pub. L. 98–223][/us/pl/98/223], § 213(2), substituted “section 214 of the Social Security Act ([42 U.S.C. 414][/us/usc/t42/s414])” for “[section 414 of title 42][/us/usc/t42/s414]” in par. (1), “section 202 of the Social Security Act ([42 U.S.C. 402][/us/usc/t42/s402])” for “[section 402 of title 42][/us/usc/t42/s402]” in par. (3), and “title II of the Social Security Act ([42 U.S.C. 201][/us/usc/t42/s201] et seq.)” for “subchapter II of chapter 7 of title 42” in provision following par. (3).
 
     1976—Subsec. (a). [Pub. L. 94–433][/us/pl/94/433] substituted “such veteran’s” for “his” in cls. (1) and (3) and in text following cl. (3) and “such veteran” for “he” in cl. (3).
 
@@ -67,13 +67,13 @@
 
  __Effective Date of 1961 Amendment__ 
 
-[Pub. L. 87–268, § 3][/us/pl/87/268/s3], Sept. 21, 1961, [75 Stat. 566][/us/stat/75/566], provided that: 
+[Pub. L. 87–268][/us/pl/87/268], § 3, Sept. 21, 1961, [75 Stat. 566][/us/stat/75/566], provided that: 
 
 > “The amendments made by this Act \[amending this section and sections 107, 411 \[now 1311\], 415 \[now 1315\], 422 \[now 1322\], and 503 \[now 1503\] of this title and enacting provisions set out as notes under this section\] shall take effect as of the first day of the first calendar month which begins after the date of its enactment \[Sept. 21, 1961\].”
 
  __Filing of Application for Benefits__ 
 
-    [Pub. L. 87–268, § 2][/us/pl/87/268/s2], Sept. 21, 1961, [75 Stat. 566][/us/stat/75/566], provided that the increased pension benefits authorized by [Pub. L. 87–268][/us/pl/87/268] were to be payable from the effective date of [Pub. L. 87–268][/us/pl/87/268] to anyone receiving dependency and indemnity compensation on such date only if the application for such increased benefits were filed with the Veterans’ Administration within one year from such date and evidence of entitlement were of record or received within one year from the date of request therefor.
+    [Pub. L. 87–268][/us/pl/87/268], § 2, Sept. 21, 1961, [75 Stat. 566][/us/stat/75/566], provided that the increased pension benefits authorized by [Pub. L. 87–268][/us/pl/87/268] were to be payable from the effective date of [Pub. L. 87–268][/us/pl/87/268] to anyone receiving dependency and indemnity compensation on such date only if the application for such increased benefits were filed with the Veterans’ Administration within one year from such date and evidence of entitlement were of record or received within one year from the date of request therefor.
 
 ----------
 
@@ -87,27 +87,27 @@
 [/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
 [/us/pl/85/857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F857
 [/us/stat/72/1128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1128
-[/us/pl/87/268/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F268%2Fs1%2Fa
+[/us/pl/87/268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F268
 [/us/stat/75/566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F566
 [/us/pl/89/466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F466
 [/us/stat/80/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F217
-[/us/pl/94/433/s405/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F433%2Fs405%2F9
+[/us/pl/94/433/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F433%2FtIV
 [/us/stat/90/1379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1379
-[/us/pl/98/223/s213/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F223%2Fs213%2F2
+[/us/pl/98/223/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F223%2FtII
 [/us/stat/98/46]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F46
-[/us/pl/102/54/s14/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54%2Fs14%2Fb%2F3
+[/us/pl/102/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54
 [/us/stat/105/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F283
 [/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/404-406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F404-406
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
 [/us/usc/t42/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1305
-[/us/pl/102/83/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fa
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/usc/t38/s412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs412
-[/us/pl/102/83/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fb%2F1
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/pl/102/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54
-[/us/pl/102/83/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fb%2F1
-[/us/pl/98/223/s213/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F223%2Fs213%2F2
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/98/223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F223
 [/us/usc/t42/s414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs414
 [/us/usc/t42/s414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs414
 [/us/usc/t42/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs402
@@ -120,9 +120,9 @@
 [/us/pl/94/433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F433
 [/us/pl/94/433/s406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F433%2Fs406
 [/us/usc/t38/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1101
-[/us/pl/87/268/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F268%2Fs3
+[/us/pl/87/268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F268
 [/us/stat/75/566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F566
-[/us/pl/87/268/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F268%2Fs2
+[/us/pl/87/268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F268
 [/us/stat/75/566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F566
 [/us/pl/87/268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F268
 [/us/pl/87/268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F268

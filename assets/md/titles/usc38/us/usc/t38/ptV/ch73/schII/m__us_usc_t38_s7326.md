@@ -49,11 +49,11 @@
 
     In establishing education and training programs under this section, the Secretary shall consult with appropriate representatives of accrediting, certifying, and coordinating organizations in the field of health professions education.
 
-(Added [Pub. L. 107–287, § 3(a)(1)][/us/pl/107/287/s3/a/1], Nov. 7, 2002, [116 Stat. 2027][/us/stat/116/2027].)
+(Added [Pub. L. 107–287][/us/pl/107/287], § 3(a)(1), Nov. 7, 2002, [116 Stat. 2027][/us/stat/116/2027].)
 
  __Implementation__ 
 
-[Pub. L. 107–287, § 3(b)][/us/pl/107/287/s3/b], Nov. 7, 2002, [116 Stat. 2028][/us/stat/116/2028], provided that: 
+[Pub. L. 107–287][/us/pl/107/287], § 3(b), Nov. 7, 2002, [116 Stat. 2028][/us/stat/116/2028], provided that: 
 
 > “The Secretary of Veterans Affairs shall implement [section 7326 of title 38][/us/usc/t38/s7326], United States Code, as added by subsection (a), not later than the end of the 90-day period beginning on the date of the enactment of this Act \[Nov. 7, 2002\].”
 
@@ -64,9 +64,9 @@
 ----------
 ----------
 
-[/us/pl/107/287/s3/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F287%2Fs3%2Fa%2F1
+[/us/pl/107/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F287
 [/us/stat/116/2027]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2027
-[/us/pl/107/287/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F287%2Fs3%2Fb
+[/us/pl/107/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F287
 [/us/stat/116/2028]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2028
 [/us/usc/t38/s7326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7326
 

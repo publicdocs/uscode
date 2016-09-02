@@ -31,11 +31,11 @@
 
     The Secretary shall require appropriate employees and managers of the Veterans Benefits Administration who are responsible for processing claims for compensation and pension benefits under the laws administered by the Secretary to take the examination provided under subsection (a).
 
-(Added [Pub. L. 110–389, title II, § 225(a)(1)][/us/pl/110/389/s225/a/1], Oct. 10, 2008, [122 Stat. 4158][/us/stat/122/4158].)
+(Added [Pub. L. 110–389, title II][/us/pl/110/389/tII], § 225(a)(1), Oct. 10, 2008, [122 Stat. 4158][/us/stat/122/4158].)
 
  __Deadlines for Implementation__ 
 
-[Pub. L. 110–389, title II, § 225(a)(3)][/us/pl/110/389/s225/a/3], Oct. 10, 2008, [122 Stat. 4158][/us/stat/122/4158], provided that: 
+[Pub. L. 110–389, title II][/us/pl/110/389/tII], § 225(a)(3), Oct. 10, 2008, [122 Stat. 4158][/us/stat/122/4158], provided that: 
 
 > “The Secretary of Veterans Affairs shall—
 
@@ -51,9 +51,9 @@
 ----------
 
 [/us/usc/t38/s7731/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7731%2Fc%2F3
-[/us/pl/110/389/s225/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F389%2Fs225%2Fa%2F1
+[/us/pl/110/389/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F389%2FtII
 [/us/stat/122/4158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4158
-[/us/pl/110/389/s225/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F389%2Fs225%2Fa%2F3
+[/us/pl/110/389/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F389%2FtII
 [/us/stat/122/4158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4158
 [/us/usc/t38/s7732A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7732A
 

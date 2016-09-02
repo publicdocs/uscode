@@ -31,7 +31,7 @@
 
         (5) Routine verification of basic medical skills and, where determined necessary, remediation of any deficiency in such skills.
 
-(Added [Pub. L. 102–40, title IV, § 401(b)(5)][/us/pl/102/40/s401/b/5], May 7, 1991, [105 Stat. 237][/us/stat/105/237].)
+(Added [Pub. L. 102–40, title IV][/us/pl/102/40/tIV], § 401(b)(5), May 7, 1991, [105 Stat. 237][/us/stat/105/237].)
 
  __Prior Provisions__ 
 
@@ -45,7 +45,7 @@
 ----------
 
 [/us/usc/t38/s7302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7302
-[/us/pl/102/40/s401/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs401%2Fb%2F5
+[/us/pl/102/40/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2FtIV
 [/us/stat/105/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F237
 [/us/usc/t38/s4121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs4121
 [/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40

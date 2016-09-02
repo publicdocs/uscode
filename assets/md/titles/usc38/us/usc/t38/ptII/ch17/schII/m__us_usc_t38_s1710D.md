@@ -43,7 +43,7 @@
 
         (3) The cost of operating the program during the year preceding such report.
 
-(Added [Pub. L. 110–181, div. A, title XVII, § 1702(a)][/us/pl/110/181/s1702/a], Jan. 28, 2008, [122 Stat. 488][/us/stat/122/488]; amended [Pub. L. 112–154, title I, § 107(b)][/us/pl/112/154/s107/b], Aug. 6, 2012, [126 Stat. 1173][/us/stat/126/1173]; [Pub. L. 114–58, title VI, § 601(5)][/us/pl/114/58/s601/5], Sept. 30, 2015, [129 Stat. 538][/us/stat/129/538].)
+(Added [Pub. L. 110–181, div. A, title XVII][/us/pl/110/181/dA/tXVII], § 1702(a), Jan. 28, 2008, [122 Stat. 488][/us/stat/122/488]; amended [Pub. L. 112–154, title I][/us/pl/112/154/tI], § 107(b), Aug. 6, 2012, [126 Stat. 1173][/us/stat/126/1173]; [Pub. L. 114–58, title VI][/us/pl/114/58/tVI], § 601(5), Sept. 30, 2015, [129 Stat. 538][/us/stat/129/538].)
 
  __References in Text__ 
 
@@ -65,11 +65,11 @@
 [/us/usc/t38/s1710C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1710C
 [/us/usc/t38/s1710C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1710C
 [/us/usc/t38/s1710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1710
-[/us/pl/110/181/s1702/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1702%2Fa
+[/us/pl/110/181/dA/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtXVII
 [/us/stat/122/488]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F488
-[/us/pl/112/154/s107/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154%2Fs107%2Fb
+[/us/pl/112/154/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154%2FtI
 [/us/stat/126/1173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1173
-[/us/pl/114/58/s601/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F58%2Fs601%2F5
+[/us/pl/114/58/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F58%2FtVI
 [/us/stat/129/538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F538
 [/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
 [/us/pl/114/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F58

@@ -31,7 +31,7 @@
 
         (4) Subsection (a) and paragraphs (1), (6), (9), and (10) of subsection (b) of section 5112.
 
-(Added [Pub. L. 106–419, title IV, § 401(b)][/us/pl/106/419/s401/b], Nov. 1, 2000, [114 Stat. 1859][/us/stat/114/1859], § 1822; renumbered § 1832, [Pub. L. 108–183, title I, § 102(a)(1)][/us/pl/108/183/s102/a/1], Dec. 16, 2003, [117 Stat. 2653][/us/stat/117/2653]; amended [Pub. L. 114–58, title VI, § 601(8)][/us/pl/114/58/s601/8], Sept. 30, 2015, [129 Stat. 538][/us/stat/129/538].)
+(Added [Pub. L. 106–419, title IV][/us/pl/106/419/tIV], § 401(b), Nov. 1, 2000, [114 Stat. 1859][/us/stat/114/1859], § 1822; renumbered § 1832, [Pub. L. 108–183, title I][/us/pl/108/183/tI], § 102(a)(1), Dec. 16, 2003, [117 Stat. 2653][/us/stat/117/2653]; amended [Pub. L. 114–58, title VI][/us/pl/114/58/tVI], § 601(8), Sept. 30, 2015, [129 Stat. 538][/us/stat/129/538].)
 
  __Prior Provisions__ 
 
@@ -52,11 +52,11 @@
 ----------
 ----------
 
-[/us/pl/106/419/s401/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419%2Fs401%2Fb
+[/us/pl/106/419/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419%2FtIV
 [/us/stat/114/1859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1859
-[/us/pl/108/183/s102/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F183%2Fs102%2Fa%2F1
+[/us/pl/108/183/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F183%2FtI
 [/us/stat/117/2653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2653
-[/us/pl/114/58/s601/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F58%2Fs601%2F8
+[/us/pl/114/58/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F58%2FtVI
 [/us/stat/129/538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F538
 [/us/usc/t38/s3732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3732
 [/us/usc/t38/s3733/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3733%2Fd

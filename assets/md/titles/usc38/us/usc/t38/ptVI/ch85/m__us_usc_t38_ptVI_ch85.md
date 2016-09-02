@@ -195,9 +195,9 @@ SUBCHAPTER II—DEATH WHILE PATIENT OF DEPARTMENT FACILITY  </td>
 
  __Amendments__ 
 
-    1991—[Pub. L. 102–83, § 4(a)(3)][/us/pl/102/83/s4/a/3], (4), Aug. 6, 1991, [105 Stat. 404][/us/stat/105/404], substituted “DEPARTMENT” for “VETERANS’ ADMINISTRATION” in headings for subchapters I and II.
+    1991—[Pub. L. 102–83][/us/pl/102/83], § 4(a)(3), (4), Aug. 6, 1991, [105 Stat. 404][/us/stat/105/404], substituted “DEPARTMENT” for “VETERANS’ ADMINISTRATION” in headings for subchapters I and II.
 
-    [Pub. L. 102–40, title III, § 305(b)(2)][/us/pl/102/40/s305/b/2], title IV, § 402(c)(1), May 7, 1991, [105 Stat. 210][/us/stat/105/210], 239, renumbered items 5201 to 5228 as 8501 to 8528, respectively, and substituted “PATIENT” for “INMATE” in heading for subchapter II.
+    [Pub. L. 102–40, title III][/us/pl/102/40/tIII], § 305(b)(2), title IV, § 402(c)(1), May 7, 1991, [105 Stat. 210][/us/stat/105/210], 239, renumbered items 5201 to 5228 as 8501 to 8528, respectively, and substituted “PATIENT” for “INMATE” in heading for subchapter II.
 
 ----------
 
@@ -206,9 +206,9 @@ SUBCHAPTER II—DEATH WHILE PATIENT OF DEPARTMENT FACILITY  </td>
 ----------
 ----------
 
-[/us/pl/102/83/s4/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fa%2F3
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F404
-[/us/pl/102/40/s305/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs305%2Fb%2F2
+[/us/pl/102/40/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2FtIII
 [/us/stat/105/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F210
 
 

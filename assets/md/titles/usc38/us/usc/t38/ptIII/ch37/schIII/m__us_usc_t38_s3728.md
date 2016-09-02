@@ -17,7 +17,7 @@
 
     If, under any law of the United States, loans and mortgages insured under title I or title II of the National Housing Act are exempt from the application of the provisions of any State constitution or law (1) limiting the rate or amount of interest, discount points, or other charges which may be charged, taken, received, or reserved by lenders, (2) restricting the manner of calculating such interest (including prohibition of the charging of interest on interest), or (3) requiring a minimum amortization of principal, then loans guaranteed or insured under this chapter are also exempt from the application of such provisions.
 
-(Added [Pub. L. 96–128, title IV, § 401(a)][/us/pl/96/128/s401/a], Nov. 28, 1979, [93 Stat. 986][/us/stat/93/986], § 1828; amended [Pub. L. 97–66, title V, § 501(b)][/us/pl/97/66/s501/b], Oct. 17, 1981, [95 Stat. 1032][/us/stat/95/1032]; renumbered § 3728, [Pub. L. 102–83, § 5(a)][/us/pl/102/83/s5/a], Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406].)
+(Added [Pub. L. 96–128, title IV][/us/pl/96/128/tIV], § 401(a), Nov. 28, 1979, [93 Stat. 986][/us/stat/93/986], § 1828; amended [Pub. L. 97–66, title V][/us/pl/97/66/tV], § 501(b), Oct. 17, 1981, [95 Stat. 1032][/us/stat/95/1032]; renumbered § 3728, [Pub. L. 102–83][/us/pl/102/83], § 5(a), Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406].)
 
  __References in Text__ 
 
@@ -44,11 +44,11 @@
 ----------
 ----------
 
-[/us/pl/96/128/s401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F128%2Fs401%2Fa
+[/us/pl/96/128/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F128%2FtIV
 [/us/stat/93/986]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F986
-[/us/pl/97/66/s501/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F66%2Fs501%2Fb
+[/us/pl/97/66/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F66%2FtV
 [/us/stat/95/1032]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1032
-[/us/pl/102/83/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fa
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F406
 [/us/act/1934-06-27/ch847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-27%2Fch847
 [/us/stat/48/1246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1246

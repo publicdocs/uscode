@@ -17,7 +17,7 @@
 
     Without prejudice to any other cause of disability, the permanent loss of the use of both feet, of both hands, or of both eyes, or of one foot and one hand, or of one foot and one eye, or of one hand and one eye, or the loss of hearing of both ears, or the organic loss of speech, shall be deemed total permanent disability for insurance purposes. This section shall be deemed to be in effect on and after April 6, 1917, and shall apply only to automatic insurance, yearly renewable term insurance, and United States Government life insurance issued prior to December 15, 1936.
 
-([Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1163][/us/stat/72/1163], § 758; renumbered § 1958, [Pub. L. 102–83, § 5(a)][/us/pl/102/83/s5/a], Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406].)
+([Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1163][/us/stat/72/1163], § 758; renumbered § 1958, [Pub. L. 102–83][/us/pl/102/83], § 5(a), Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406].)
 
  __Amendments__ 
 
@@ -32,7 +32,7 @@
 
 [/us/pl/85/857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F857
 [/us/stat/72/1163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1163
-[/us/pl/102/83/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fa
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F406
 [/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/usc/t38/s758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs758

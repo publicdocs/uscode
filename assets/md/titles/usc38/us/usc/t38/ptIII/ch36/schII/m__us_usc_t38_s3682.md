@@ -17,7 +17,7 @@
 
     Except as provided in [section 3674A of this title][/us/usc/t38/s3674A], no department, agency, or officer of the United States, in carrying out this chapter, shall exercise any supervision or control, whatsoever, over any State approving agency, or State educational agency, or any educational institution. Nothing in this section shall be deemed to prevent any department, agency, or officer of the United States from exercising any supervision or control which such department, agency, or officer is authorized by law to exercise over any Federal educational institution or to prevent the furnishing of education under this chapter or chapter 34 or 35 of this title in any institution over which supervision or control is exercised by such other department, agency, or officer under authority of law.
 
-(Added [Pub. L. 89–358, § 3(b)][/us/pl/89/358/s3/b], Mar. 3, 1966, [80 Stat. 21][/us/stat/80/21], § 1782; amended [Pub. L. 92–540, title IV, § 403(9)][/us/pl/92/540/s403/9], Oct. 24, 1972, [86 Stat. 1090][/us/stat/86/1090]; [Pub. L. 100–323, § 13(b)(6)][/us/pl/100/323/s13/b/6], May 20, 1988, [102 Stat. 574][/us/stat/102/574]; renumbered § 3682 and amended [Pub. L. 102–83, § 5(a)][/us/pl/102/83/s5/a], (c)(1), Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406].)
+(Added [Pub. L. 89–358][/us/pl/89/358], § 3(b), Mar. 3, 1966, [80 Stat. 21][/us/stat/80/21], § 1782; amended [Pub. L. 92–540, title IV][/us/pl/92/540/tIV], § 403(9), Oct. 24, 1972, [86 Stat. 1090][/us/stat/86/1090]; [Pub. L. 100–323][/us/pl/100/323], § 13(b)(6), May 20, 1988, [102 Stat. 574][/us/stat/102/574]; renumbered § 3682 and amended [Pub. L. 102–83][/us/pl/102/83], § 5(a), (c)(1), Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406].)
 
  __Prior Provisions__ 
 
@@ -39,13 +39,13 @@
 ----------
 
 [/us/usc/t38/s3674A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3674A
-[/us/pl/89/358/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F358%2Fs3%2Fb
+[/us/pl/89/358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F358
 [/us/stat/80/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F21
-[/us/pl/92/540/s403/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F540%2Fs403%2F9
+[/us/pl/92/540/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F540%2FtIV
 [/us/stat/86/1090]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1090
-[/us/pl/100/323/s13/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F323%2Fs13%2Fb%2F6
+[/us/pl/100/323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F323
 [/us/stat/102/574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F574
-[/us/pl/102/83/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fa
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F406
 [/us/pl/85/857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F857
 [/us/stat/72/1190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1190

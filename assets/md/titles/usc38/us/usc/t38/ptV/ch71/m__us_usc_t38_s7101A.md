@@ -71,29 +71,29 @@
 
     (g) The Secretary shall prescribe procedures for the administration of this section, including deadlines and time schedules for different actions under this section.
 
-(Added [Pub. L. 103–446, title II, § 201(a)(1)][/us/pl/103/446/s201/a/1], Nov. 2, 1994, [108 Stat. 4655][/us/stat/108/4655]; amended [Pub. L. 105–368, title X, § 1002][/us/pl/105/368/s1002], Nov. 11, 1998, [112 Stat. 3363][/us/stat/112/3363].)
+(Added [Pub. L. 103–446, title II][/us/pl/103/446/tII], § 201(a)(1), Nov. 2, 1994, [108 Stat. 4655][/us/stat/108/4655]; amended [Pub. L. 105–368, title X][/us/pl/105/368/tX], § 1002, Nov. 11, 1998, [112 Stat. 3363][/us/stat/112/3363].)
 
  __Amendments__ 
 
-    1998—Subsec. (a). [Pub. L. 105–368, § 1002(a)][/us/pl/105/368/s1002/a], designated existing provisions as par. (1) and added par. (2).
+    1998—Subsec. (a). [Pub. L. 105–368][/us/pl/105/368], § 1002(a), designated existing provisions as par. (1) and added par. (2).
 
-    Subsec. (d)(2). [Pub. L. 105–368, § 1002(b)][/us/pl/105/368/s1002/b], amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Upon removal from the Board under paragraph (1), a member of the Board (other than the Chairman) who was a career or career-conditional employee in the civil service before commencement of service as a member of the Board shall revert to the civil service grade and series held by the member immediately before the appointment of the member to the Board.”
+    Subsec. (d)(2). [Pub. L. 105–368][/us/pl/105/368], § 1002(b), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Upon removal from the Board under paragraph (1), a member of the Board (other than the Chairman) who was a career or career-conditional employee in the civil service before commencement of service as a member of the Board shall revert to the civil service grade and series held by the member immediately before the appointment of the member to the Board.”
 
  __Effective Date__ 
 
-[Pub. L. 103–446, title II, § 201(c)][/us/pl/103/446/s201/c], Nov. 2, 1994, [108 Stat. 4657][/us/stat/108/4657], provided that: 
+[Pub. L. 103–446, title II][/us/pl/103/446/tII], § 201(c), Nov. 2, 1994, [108 Stat. 4657][/us/stat/108/4657], provided that: 
 
 > “[Section 7101A(b) of title 38][/us/usc/t38/s7101A/b], United States Code, as added by subsection (a), shall take effect on the first day of the first pay period beginning after December 31, 1994.”
 
  __Save Pay Provision__ 
 
-[Pub. L. 103–446, title II, § 201(b)][/us/pl/103/446/s201/b], Nov. 2, 1994, [108 Stat. 4656][/us/stat/108/4656], provided that: 
+[Pub. L. 103–446, title II][/us/pl/103/446/tII], § 201(b), Nov. 2, 1994, [108 Stat. 4656][/us/stat/108/4656], provided that: 
 
 > “The rate of basic pay payable to an individual who is a member of the Board of Veterans’ Appeals on the date of the enactment of this Act \[Nov. 2, 1994\] may not be reduced by reason of the amendments made by this section \[enacting this section and amending [section 7101 of this title][/us/usc/t38/s7101]\] to a rate below the rate payable to such individual on the day before such date.”
 
  __Deadline for Establishment of Performance Evaluation Criteria for Board Members__ 
 
-[Pub. L. 103–446, title II, § 202][/us/pl/103/446/s202], Nov. 2, 1994, [108 Stat. 4657][/us/stat/108/4657], provided that:
+[Pub. L. 103–446, title II][/us/pl/103/446/tII], § 202, Nov. 2, 1994, [108 Stat. 4657][/us/stat/108/4657], provided that:
 
 >     “(a)  __Deadline__  __.—__ 
 
@@ -113,19 +113,19 @@
 [/us/usc/t5/s5372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5372
 [/us/usc/t5/s7521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs7521
 [/us/usc/t5/s554/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs554%2Fa%2F2
-[/us/pl/103/446/s201/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2Fs201%2Fa%2F1
+[/us/pl/103/446/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2FtII
 [/us/stat/108/4655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4655
-[/us/pl/105/368/s1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2Fs1002
+[/us/pl/105/368/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2FtX
 [/us/stat/112/3363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3363
-[/us/pl/105/368/s1002/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2Fs1002%2Fa
-[/us/pl/105/368/s1002/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2Fs1002%2Fb
-[/us/pl/103/446/s201/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2Fs201%2Fc
+[/us/pl/105/368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368
+[/us/pl/105/368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368
+[/us/pl/103/446/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2FtII
 [/us/stat/108/4657]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4657
 [/us/usc/t38/s7101A/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7101A%2Fb
-[/us/pl/103/446/s201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2Fs201%2Fb
+[/us/pl/103/446/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2FtII
 [/us/stat/108/4656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4656
 [/us/usc/t38/s7101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7101
-[/us/pl/103/446/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2Fs202
+[/us/pl/103/446/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2FtII
 [/us/stat/108/4657]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4657
 [/us/usc/t38/s7101A/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7101A%2Ff
 

@@ -43,7 +43,7 @@
 
         (2) Funds held in an escrow account under this section shall not be considered to be public funds.
 
-(Added [Pub. L. 102–405, title I, § 103(a)(1)][/us/pl/102/405/s103/a/1], Oct. 9, 1992, [106 Stat. 1974][/us/stat/106/1974].)
+(Added [Pub. L. 102–405, title I][/us/pl/102/405/tI], § 103(a)(1), Oct. 9, 1992, [106 Stat. 1974][/us/stat/106/1974].)
 
 ----------
 
@@ -55,7 +55,7 @@
 [/us/usc/t38/s8157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs8157
 [/us/usc/t38/s8153/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs8153%2Fa
 [/us/usc/t38/s8157/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs8157%2Fb%2F4
-[/us/pl/102/405/s103/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405%2Fs103%2Fa%2F1
+[/us/pl/102/405/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405%2FtI
 [/us/stat/106/1974]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1974
 
 

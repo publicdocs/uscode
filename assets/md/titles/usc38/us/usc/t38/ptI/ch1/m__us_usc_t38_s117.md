@@ -47,27 +47,27 @@
 
     Not later than July 31 of each year, the Secretary shall submit to Congress an annual report on the sufficiency of the Department’s resources for the next fiscal year beginning after the date of the submittal of the report for the provision of medical care. Such report shall also include estimates of the workload and demand data for that fiscal year.
 
-(Added [Pub. L. 111–81, § 3(a)][/us/pl/111/81/s3/a], Oct. 22, 2009, [123 Stat. 2137][/us/stat/123/2137]; [Pub. L. 113–235, div. I, title II, § 244(a)][/us/pl/113/235/s244/a], Dec. 16, 2014, [128 Stat. 2568][/us/stat/128/2568].)
+(Added [Pub. L. 111–81][/us/pl/111/81], § 3(a), Oct. 22, 2009, [123 Stat. 2137][/us/stat/123/2137]; [Pub. L. 113–235, div. I, title II][/us/pl/113/235/dI/tII], § 244(a), Dec. 16, 2014, [128 Stat. 2568][/us/stat/128/2568].)
 
  __Amendments__ 
 
-    2014—[Pub. L. 113–235, § 244(a)(4)][/us/pl/113/235/s244/a/4], substituted “certain accounts” for “certain medical care accounts” in section catchline.
+    2014—[Pub. L. 113–235][/us/pl/113/235], § 244(a)(4), substituted “certain accounts” for “certain medical care accounts” in section catchline.
 
-    Subsec. (a). [Pub. L. 113–235, § 244(a)(2)][/us/pl/113/235/s244/a/2], struck out “beginning with fiscal year 2011,” after “each fiscal year,” in introductory provisions and “discretionary” before “new budget authority” in introductory provisions and par. (2).
+    Subsec. (a). [Pub. L. 113–235][/us/pl/113/235], § 244(a)(2), struck out “beginning with fiscal year 2011,” after “each fiscal year,” in introductory provisions and “discretionary” before “new budget authority” in introductory provisions and par. (2).
 
-    [Pub. L. 113–235, § 244(a)(1)][/us/pl/113/235/s244/a/1], substituted “covered accounts of the Department” for “medical care accounts of the Department” in introductory provisions.
+    [Pub. L. 113–235][/us/pl/113/235], § 244(a)(1), substituted “covered accounts of the Department” for “medical care accounts of the Department” in introductory provisions.
 
-    Subsec. (b). [Pub. L. 113–235, § 244(a)(1)][/us/pl/113/235/s244/a/1], substituted “covered accounts of the Department” for “medical care accounts of the Department”.
+    Subsec. (b). [Pub. L. 113–235][/us/pl/113/235], § 244(a)(1), substituted “covered accounts of the Department” for “medical care accounts of the Department”.
 
-    Subsec. (c). [Pub. L. 113–235, § 244(a)(3)(G)][/us/pl/113/235/s244/a/3/G], substituted “Covered Accounts of the Department” for “Medical Care Accounts” in heading.
+    Subsec. (c). [Pub. L. 113–235][/us/pl/113/235], § 244(a)(3)(G), substituted “Covered Accounts of the Department” for “Medical Care Accounts” in heading.
 
-    [Pub. L. 113–235, § 244(a)(1)][/us/pl/113/235/s244/a/1], (3)(A), in introductory provisions, substituted “covered accounts of the Department” for “medical care accounts of the Department” and “accounts of the Department of Veterans Affairs account” for “medical care accounts of the Veterans Health Administration, Department of Veterans Affairs account”.
+    [Pub. L. 113–235][/us/pl/113/235], § 244(a)(1), (3)(A), in introductory provisions, substituted “covered accounts of the Department” for “medical care accounts of the Department” and “accounts of the Department of Veterans Affairs account” for “medical care accounts of the Veterans Health Administration, Department of Veterans Affairs account”.
 
-    Subsec. (c)(1)–(6). [Pub. L. 113–235, § 244(a)(3)(B)][/us/pl/113/235/s244/a/3/B]–(F), inserted “Veterans Health Administration,” after enumerators for pars. (1) to (3), redesignated pars. (1) to (3) as (4) to (6), respectively, and added pars. (1) to (3).
+    Subsec. (c)(1)–(6). [Pub. L. 113–235][/us/pl/113/235], § 244(a)(3)(B)–(F), inserted “Veterans Health Administration,” after enumerators for pars. (1) to (3), redesignated pars. (1) to (3) as (4) to (6), respectively, and added pars. (1) to (3).
 
  __Effective Date of 2014Amendment__ 
 
-[Pub. L. 113–235, div. I, title II, § 244(b)][/us/pl/113/235/s244/b], Dec. 16, 2014, [128 Stat. 2569][/us/stat/128/2569], provided that: 
+[Pub. L. 113–235, div. I, title II][/us/pl/113/235/dI/tII], § 244(b), Dec. 16, 2014, [128 Stat. 2569][/us/stat/128/2569], provided that: 
 
 > “[Section 117 of title 38][/us/usc/t38/s117], United States Code, shall apply as follows:
 
@@ -77,7 +77,7 @@
 
  __Comptroller General Review of the Accuracy of VA Medical Care Budget Submission in Relation to Baseline Health Care Model Projection__ 
 
-[Pub. L. 111–81, § 4][/us/pl/111/81/s4], Oct. 22, 2009, [123 Stat. 2138][/us/stat/123/2138], provided that:
+[Pub. L. 111–81][/us/pl/111/81], § 4, Oct. 22, 2009, [123 Stat. 2138][/us/stat/123/2138], provided that:
 
 >     “(a)  __Review of Accuracy of Medical Care Budget Submission__  __.—__ 
 
@@ -111,21 +111,21 @@
 ----------
 
 [/us/usc/t31/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105
-[/us/pl/111/81/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F81%2Fs3%2Fa
+[/us/pl/111/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F81
 [/us/stat/123/2137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2137
-[/us/pl/113/235/s244/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs244%2Fa
+[/us/pl/113/235/dI/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2FdI%2FtII
 [/us/stat/128/2568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2568
-[/us/pl/113/235/s244/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs244%2Fa%2F4
-[/us/pl/113/235/s244/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs244%2Fa%2F2
-[/us/pl/113/235/s244/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs244%2Fa%2F1
-[/us/pl/113/235/s244/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs244%2Fa%2F1
-[/us/pl/113/235/s244/a/3/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs244%2Fa%2F3%2FG
-[/us/pl/113/235/s244/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs244%2Fa%2F1
-[/us/pl/113/235/s244/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs244%2Fa%2F3%2FB
-[/us/pl/113/235/s244/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs244%2Fb
+[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
+[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
+[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
+[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
+[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
+[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
+[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
+[/us/pl/113/235/dI/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2FdI%2FtII
 [/us/stat/128/2569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2569
 [/us/usc/t38/s117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs117
-[/us/pl/111/81/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F81%2Fs4
+[/us/pl/111/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F81
 [/us/stat/123/2138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2138
 [/us/usc/t31/s1105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105%2Fa
 [/us/usc/t38/s117/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs117%2Fc

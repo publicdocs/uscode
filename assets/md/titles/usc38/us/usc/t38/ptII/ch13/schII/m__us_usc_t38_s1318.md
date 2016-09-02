@@ -39,7 +39,7 @@
 
     (e) For purposes of sections 1448(d) and 1450(c) of title 10, eligibility for benefits under this chapter by virtue of this section shall be deemed eligibility for dependency and indemnity compensation under [section 1311(a) of this title][/us/usc/t38/s1311/a].
 
-(Added [Pub. L. 100–687, div. B, title XIV, § 1403(a)(1)][/us/pl/100/687/s1403/a/1], Nov. 18, 1988, [102 Stat. 4130][/us/stat/102/4130], § 418; amended [Pub. L. 101–237, title I, § 113][/us/pl/101/237/s113], Dec. 18, 1989, [103 Stat. 2065][/us/stat/103/2065]; renumbered § 1318 and amended [Pub. L. 102–83][/us/pl/102/83], §§ 4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, [105 Stat. 404–406][/us/stat/105/404-406]; [Pub. L. 106–117, title V, § 501(b)][/us/pl/106/117/s501/b], Nov. 30, 1999, [113 Stat. 1573][/us/stat/113/1573]; [Pub. L. 106–419, title IV, § 404(a)(2)][/us/pl/106/419/s404/a/2], Nov. 1, 2000, [114 Stat. 1864][/us/stat/114/1864]; [Pub. L. 111–275, title VI, § 603(a)][/us/pl/111/275/s603/a], Oct. 13, 2010, [124 Stat. 2885][/us/stat/124/2885].)
+(Added [Pub. L. 100–687, div. B, title XIV][/us/pl/100/687/dB/tXIV], § 1403(a)(1), Nov. 18, 1988, [102 Stat. 4130][/us/stat/102/4130], § 418; amended [Pub. L. 101–237, title I][/us/pl/101/237/tI], § 113, Dec. 18, 1989, [103 Stat. 2065][/us/stat/103/2065]; renumbered § 1318 and amended [Pub. L. 102–83][/us/pl/102/83], §§ 4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, [105 Stat. 404–406][/us/stat/105/404-406]; [Pub. L. 106–117, title V][/us/pl/106/117/tV], § 501(b), Nov. 30, 1999, [113 Stat. 1573][/us/stat/113/1573]; [Pub. L. 106–419, title IV][/us/pl/106/419/tIV], § 404(a)(2), Nov. 1, 2000, [114 Stat. 1864][/us/stat/114/1864]; [Pub. L. 111–275, title VI][/us/pl/111/275/tVI], § 603(a), Oct. 13, 2010, [124 Stat. 2885][/us/stat/124/2885].)
 
  __Amendments__ 
 
@@ -47,25 +47,25 @@
 
     2000—Subsec. (b)(3). [Pub. L. 106–419][/us/pl/106/419] substituted “not less than” for “not later than”.
 
-    1999—Subsec. (b). [Pub. L. 106–117, § 501(b)(1)][/us/pl/106/117/s501/b/1], substituted “rated totally disabling if—” for “that either—” in introductory provisions.
+    1999—Subsec. (b). [Pub. L. 106–117][/us/pl/106/117], § 501(b)(1), substituted “rated totally disabling if—” for “that either—” in introductory provisions.
 
-    Subsec. (b)(1). [Pub. L. 106–117, § 501(b)(2)][/us/pl/106/117/s501/b/2], inserted “the disability” after “(1)” and struck out “or” after “death;”.
+    Subsec. (b)(1). [Pub. L. 106–117][/us/pl/106/117], § 501(b)(2), inserted “the disability” after “(1)” and struck out “or” after “death;”.
 
-    Subsec. (b)(2). [Pub. L. 106–117, § 501(b)(3)][/us/pl/106/117/s501/b/3], substituted “the disability was continuously rated totally disabling” for “if so rated for a lesser period, was so rated continuously” and substituted “; or” for the period at the end.
+    Subsec. (b)(2). [Pub. L. 106–117][/us/pl/106/117], § 501(b)(3), substituted “the disability was continuously rated totally disabling” for “if so rated for a lesser period, was so rated continuously” and substituted “; or” for the period at the end.
 
-    Subsec. (b)(3). [Pub. L. 106–117, § 501(b)(4)][/us/pl/106/117/s501/b/4], added par. (3).
+    Subsec. (b)(3). [Pub. L. 106–117][/us/pl/106/117], § 501(b)(4), added par. (3).
 
-    1991—[Pub. L. 102–83, § 5(a)][/us/pl/102/83/s5/a], renumbered [section 418 of this title][/us/usc/t38/s418] as this section.
+    1991—[Pub. L. 102–83][/us/pl/102/83], § 5(a), renumbered [section 418 of this title][/us/usc/t38/s418] as this section.
 
-    Subsec. (a). [Pub. L. 102–83, § 4(b)(1)][/us/pl/102/83/s4/b/1], (2)(E), substituted “Secretary” for “Administrator”.
+    Subsec. (a). [Pub. L. 102–83][/us/pl/102/83], § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
-    Subsec. (e). [Pub. L. 102–83, § 5(c)(1)][/us/pl/102/83/s5/c/1], substituted “1311(a)” for “411(a)”.
+    Subsec. (e). [Pub. L. 102–83][/us/pl/102/83], § 5(c)(1), substituted “1311(a)” for “411(a)”.
 
     1989—Subsec. (c)(1). [Pub. L. 101–237][/us/pl/101/237] substituted “one year” for “two years”.
 
  __Effective Date of 2010 Amendment__ 
 
-[Pub. L. 111–275, title VI, § 603(b)][/us/pl/111/275/s603/b], Oct. 13, 2010, [124 Stat. 2885][/us/stat/124/2885], provided that: 
+[Pub. L. 111–275, title VI][/us/pl/111/275/tVI], § 603(b), Oct. 13, 2010, [124 Stat. 2885][/us/stat/124/2885], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall take effect on October 1, 2011.”
 
@@ -77,30 +77,30 @@
 ----------
 
 [/us/usc/t38/s1311/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1311%2Fa
-[/us/pl/100/687/s1403/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F687%2Fs1403%2Fa%2F1
+[/us/pl/100/687/dB/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F687%2FdB%2FtXIV
 [/us/stat/102/4130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4130
-[/us/pl/101/237/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237%2Fs113
+[/us/pl/101/237/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237%2FtI
 [/us/stat/103/2065]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2065
 [/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/404-406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F404-406
-[/us/pl/106/117/s501/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117%2Fs501%2Fb
+[/us/pl/106/117/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117%2FtV
 [/us/stat/113/1573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1573
-[/us/pl/106/419/s404/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419%2Fs404%2Fa%2F2
+[/us/pl/106/419/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419%2FtIV
 [/us/stat/114/1864]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1864
-[/us/pl/111/275/s603/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275%2Fs603%2Fa
+[/us/pl/111/275/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275%2FtVI
 [/us/stat/124/2885]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2885
 [/us/pl/111/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275
 [/us/pl/106/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419
-[/us/pl/106/117/s501/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117%2Fs501%2Fb%2F1
-[/us/pl/106/117/s501/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117%2Fs501%2Fb%2F2
-[/us/pl/106/117/s501/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117%2Fs501%2Fb%2F3
-[/us/pl/106/117/s501/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117%2Fs501%2Fb%2F4
-[/us/pl/102/83/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fa
+[/us/pl/106/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117
+[/us/pl/106/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117
+[/us/pl/106/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117
+[/us/pl/106/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/usc/t38/s418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs418
-[/us/pl/102/83/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fb%2F1
-[/us/pl/102/83/s5/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fc%2F1
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/pl/101/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237
-[/us/pl/111/275/s603/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275%2Fs603%2Fb
+[/us/pl/111/275/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275%2FtVI
 [/us/stat/124/2885]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2885
 
 

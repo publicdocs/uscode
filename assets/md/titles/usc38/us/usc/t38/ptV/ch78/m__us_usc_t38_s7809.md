@@ -41,31 +41,31 @@
 
     (e) For the purpose of this section, the term “parent advisory committee” means a committee comprised of, and selected by, the parents of children receiving care in a child-care center operated under this section.
 
-(Added [Pub. L. 100–322, title IV, § 412(a)][/us/pl/100/322/s412/a], May 20, 1988, [102 Stat. 547][/us/stat/102/547], § 4209; renumbered § 7809 and amended [Pub. L. 102–40, title IV, § 402(a)][/us/pl/102/40/s402/a], (b)(1), (d)(1), May 7, 1991, [105 Stat. 238][/us/stat/105/238], 239; [Pub. L. 102–54, § 14(e)(8)][/us/pl/102/54/s14/e/8], June 13, 1991, [105 Stat. 287][/us/stat/105/287]; [Pub. L. 102–83, § 4(a)(3)][/us/pl/102/83/s4/a/3], (4), (b)(1), (2)(E), Aug. 6, 1991, [105 Stat. 404][/us/stat/105/404], 405.)
+(Added [Pub. L. 100–322, title IV][/us/pl/100/322/tIV], § 412(a), May 20, 1988, [102 Stat. 547][/us/stat/102/547], § 4209; renumbered § 7809 and amended [Pub. L. 102–40, title IV][/us/pl/102/40/tIV], § 402(a), (b)(1), (d)(1), May 7, 1991, [105 Stat. 238][/us/stat/105/238], 239; [Pub. L. 102–54][/us/pl/102/54], § 14(e)(8), June 13, 1991, [105 Stat. 287][/us/stat/105/287]; [Pub. L. 102–83][/us/pl/102/83], § 4(a)(3), (4), (b)(1), (2)(E), Aug. 6, 1991, [105 Stat. 404][/us/stat/105/404], 405.)
 
  __Amendments__ 
 
-    1991—[Pub. L. 102–40, § 402(a)][/us/pl/102/40/s402/a], (b)(1), renumbered [section 4209 of this title][/us/usc/t38/s4209] as this section.
+    1991—[Pub. L. 102–40][/us/pl/102/40], § 402(a), (b)(1), renumbered [section 4209 of this title][/us/usc/t38/s4209] as this section.
 
-    Subsec. (a)(1). [Pub. L. 102–83, § 4(b)(1)][/us/pl/102/83/s4/b/1], (2)(E), substituted “Secretary” for “Administrator” in two places.
+    Subsec. (a)(1). [Pub. L. 102–83][/us/pl/102/83], § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in two places.
 
-    [Pub. L. 102–83, § 4(a)(3)][/us/pl/102/83/s4/a/3], (4), substituted “Department” for “Veterans’ Administration” wherever appearing.
+    [Pub. L. 102–83][/us/pl/102/83], § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration” wherever appearing.
 
     [Pub. L. 102–54][/us/pl/102/54] amended subsec. (a)(1) as in effect immediately before the enactment of [Pub. L. 102–40][/us/pl/102/40] by substituting “child-care” for “child care”.
 
-    [Pub. L. 102–40, § 402(d)(1)][/us/pl/102/40/s402/d/1], substituted “7361” for “4161”.
+    [Pub. L. 102–40][/us/pl/102/40], § 402(d)(1), substituted “7361” for “4161”.
 
     Subsec. (a)(2). [Pub. L. 102–54][/us/pl/102/54] amended subsec. (a)(2) as in effect immediately before the enactment of [Pub. L. 102–40][/us/pl/102/40] by substituting “child-care” for “child care”.
 
-    Subsec. (b). [Pub. L. 102–83, § 4(b)(1)][/us/pl/102/83/s4/b/1], (2)(E), substituted “Secretary” for “Administrator”.
+    Subsec. (b). [Pub. L. 102–83][/us/pl/102/83], § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
-    Subsec. (c). [Pub. L. 102–83, § 4(b)(1)][/us/pl/102/83/s4/b/1], (2)(E), substituted “Secretary” for “Administrator” in introductory provisions and in pars. (1) and (2).
+    Subsec. (c). [Pub. L. 102–83][/us/pl/102/83], § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in introductory provisions and in pars. (1) and (2).
 
-    [Pub. L. 102–83, § 4(a)(3)][/us/pl/102/83/s4/a/3], (4), substituted “Department” for “Veterans’ Administration” in par. (1).
+    [Pub. L. 102–83][/us/pl/102/83], § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration” in par. (1).
 
     [Pub. L. 102–54][/us/pl/102/54] amended subsec. (c) as in effect before the enactment of [Pub. L. 102–40][/us/pl/102/40] by substituting “child-care” for “child care” in introductory provisions and in par. (2).
 
-    Subsec. (d). [Pub. L. 102–83, § 4(b)(1)][/us/pl/102/83/s4/b/1], (2)(E), substituted “Secretary” for “Administrator”.
+    Subsec. (d). [Pub. L. 102–83][/us/pl/102/83], § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
     Subsec. (e). [Pub. L. 102–54][/us/pl/102/54] amended subsec. (e) as in effect immediately before the enactment of [Pub. L. 102–40][/us/pl/102/40] by substituting “child-care” for “child care”.
 
@@ -77,29 +77,29 @@
 ----------
 
 [/us/usc/t38/s7361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7361
-[/us/pl/100/322/s412/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F322%2Fs412%2Fa
+[/us/pl/100/322/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F322%2FtIV
 [/us/stat/102/547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F547
-[/us/pl/102/40/s402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs402%2Fa
+[/us/pl/102/40/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2FtIV
 [/us/stat/105/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F238
-[/us/pl/102/54/s14/e/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54%2Fs14%2Fe%2F8
+[/us/pl/102/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54
 [/us/stat/105/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F287
-[/us/pl/102/83/s4/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fa%2F3
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F404
-[/us/pl/102/40/s402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs402%2Fa
+[/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40
 [/us/usc/t38/s4209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs4209
-[/us/pl/102/83/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fb%2F1
-[/us/pl/102/83/s4/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fa%2F3
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/pl/102/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54
 [/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40
-[/us/pl/102/40/s402/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs402%2Fd%2F1
+[/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40
 [/us/pl/102/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54
 [/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40
-[/us/pl/102/83/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fb%2F1
-[/us/pl/102/83/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fb%2F1
-[/us/pl/102/83/s4/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fa%2F3
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/pl/102/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54
 [/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40
-[/us/pl/102/83/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fb%2F1
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/pl/102/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54
 [/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40
 

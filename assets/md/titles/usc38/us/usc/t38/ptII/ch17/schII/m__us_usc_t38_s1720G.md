@@ -267,17 +267,17 @@
 
         (3) $625,000,000 for fiscal year 2016.
 
-(Added [Pub. L. 111–163, title I, § 101(a)(1)][/us/pl/111/163/s101/a/1], May 5, 2010, [124 Stat. 1132][/us/stat/124/1132]; amended [Pub. L. 114–58, title I, § 103][/us/pl/114/58/s103], title VI, § 601(6), Sept. 30, 2015, [129 Stat. 532][/us/stat/129/532], 538.)
+(Added [Pub. L. 111–163, title I][/us/pl/111/163/tI], § 101(a)(1), May 5, 2010, [124 Stat. 1132][/us/stat/124/1132]; amended [Pub. L. 114–58, title I][/us/pl/114/58/tI], § 103, title VI, § 601(6), Sept. 30, 2015, [129 Stat. 532][/us/stat/129/532], 538.)
 
  __Amendments__ 
 
-    2015—Subsec. (a)(7)(B)(iii). [Pub. L. 114–58, § 601(6)][/us/pl/114/58/s601/6], substituted “have” for “has”.
+    2015—Subsec. (a)(7)(B)(iii). [Pub. L. 114–58][/us/pl/114/58], § 601(6), substituted “have” for “has”.
 
-    Subsec. (e)(3). [Pub. L. 114–58, § 103][/us/pl/114/58/s103], added par. (3).
+    Subsec. (e)(3). [Pub. L. 114–58][/us/pl/114/58], § 103, added par. (3).
 
  __Effective Date__ 
 
-[Pub. L. 111–163, title I, § 101(a)(3)][/us/pl/111/163/s101/a/3], May 5, 2010, [124 Stat. 1137][/us/stat/124/1137], provided that:
+[Pub. L. 111–163, title I][/us/pl/111/163/tI], § 101(a)(3), May 5, 2010, [124 Stat. 1137][/us/stat/124/1137], provided that:
 
 >     “(A)  __In general__  __.—__ 
 
@@ -289,7 +289,7 @@
 
  __Annual Evaluation Report__ 
 
-[Pub. L. 111–163, title I, § 101(c)][/us/pl/111/163/s101/c], May 5, 2010, [124 Stat. 1138][/us/stat/124/1138], provided that:
+[Pub. L. 111–163, title I][/us/pl/111/163/tI], § 101(c), May 5, 2010, [124 Stat. 1138][/us/stat/124/1138], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -346,16 +346,16 @@
 [/us/usc/t38/s1782]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1782
 [/us/usc/t38/s1720B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1720B
 [/us/usc/t38/s1701/6/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1701%2F6%2FE
-[/us/pl/111/163/s101/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163%2Fs101%2Fa%2F1
+[/us/pl/111/163/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163%2FtI
 [/us/stat/124/1132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1132
-[/us/pl/114/58/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F58%2Fs103
+[/us/pl/114/58/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F58%2FtI
 [/us/stat/129/532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F532
-[/us/pl/114/58/s601/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F58%2Fs601%2F6
-[/us/pl/114/58/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F58%2Fs103
-[/us/pl/111/163/s101/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163%2Fs101%2Fa%2F3
+[/us/pl/114/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F58
+[/us/pl/114/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F58
+[/us/pl/111/163/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163%2FtI
 [/us/stat/124/1137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1137
 [/us/usc/t38/s1720G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1720G
-[/us/pl/111/163/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163%2Fs101%2Fc
+[/us/pl/111/163/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163%2FtI
 [/us/stat/124/1138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1138
 [/us/usc/t38/s1720G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1720G
 

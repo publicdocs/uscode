@@ -49,11 +49,11 @@
 
     The Secretary shall make available on the Internet website of the Department available to the public a current list of the colleges and universities participating in the program under this section. The list shall specify, for each college or university so listed, appropriate information on the agreement between the Secretary and such college or university under subsection (c).
 
-(Added [Pub. L. 110–252, title V, § 5003(a)(1)][/us/pl/110/252/s5003/a/1], June 30, 2008, [122 Stat. 2368][/us/stat/122/2368].)
+(Added [Pub. L. 110–252, title V][/us/pl/110/252/tV], § 5003(a)(1), June 30, 2008, [122 Stat. 2368][/us/stat/122/2368].)
 
  __Pat Tillman Veterans’ Scholarship Initiative__ 
 
-[Pub. L. 111–275, title I, § 107][/us/pl/111/275/s107], Oct. 13, 2010, [124 Stat. 2872][/us/stat/124/2872], provided that:
+[Pub. L. 111–275, title I][/us/pl/111/275/tI], § 107, Oct. 13, 2010, [124 Stat. 2872][/us/stat/124/2872], provided that:
 
 >     “(a)  __Availability of Scholarship Information__  __.—__ 
 
@@ -70,9 +70,9 @@
 ----------
 ----------
 
-[/us/pl/110/252/s5003/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F252%2Fs5003%2Fa%2F1
+[/us/pl/110/252/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F252%2FtV
 [/us/stat/122/2368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2368
-[/us/pl/111/275/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275%2Fs107
+[/us/pl/111/275/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275%2FtI
 [/us/stat/124/2872]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2872
 
 

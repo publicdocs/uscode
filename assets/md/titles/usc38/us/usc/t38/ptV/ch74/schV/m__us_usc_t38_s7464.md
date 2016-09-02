@@ -37,7 +37,7 @@
 
         (3) The Secretary shall provide training in the functions and duties of Disciplinary Appeals Boards and grievance procedures under [section 7463 of this title][/us/usc/t38/s7463] for employees selected to be on the panel.
 
-(Added [Pub. L. 102–40, title II, § 203(a)][/us/pl/102/40/s203/a], May 7, 1991, [105 Stat. 206][/us/stat/105/206].)
+(Added [Pub. L. 102–40, title II][/us/pl/102/40/tII], § 203(a), May 7, 1991, [105 Stat. 206][/us/stat/105/206].)
 
  __Prior Provisions__ 
 
@@ -52,7 +52,7 @@
 
 [/us/usc/t38/s7462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7462
 [/us/usc/t38/s7463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7463
-[/us/pl/102/40/s203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs203%2Fa
+[/us/pl/102/40/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2FtII
 [/us/stat/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F206
 [/us/usc/t38/s4110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs4110
 [/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40

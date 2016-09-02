@@ -23,7 +23,7 @@
 
         (2) Interest paid under subsection (a) of this section shall be at the rate that is established by the Secretary for dividends held on credit or deposit in policyholders’ accounts under the insurance program involved.
 
-(Added [Pub. L. 100–687, div. B, title XIV, § 1401(a)(1)][/us/pl/100/687/s1401/a/1], Nov. 18, 1988, [102 Stat. 4128][/us/stat/102/4128], § 728; renumbered § 1928 and amended [Pub. L. 102–83][/us/pl/102/83], §§ 4(b)(1), (2)(E), 5(a), Aug. 6, 1991, [105 Stat. 404–406][/us/stat/105/404-406].)
+(Added [Pub. L. 100–687, div. B, title XIV][/us/pl/100/687/dB/tXIV], § 1401(a)(1), Nov. 18, 1988, [102 Stat. 4128][/us/stat/102/4128], § 728; renumbered § 1928 and amended [Pub. L. 102–83][/us/pl/102/83], §§ 4(b)(1), (2)(E), 5(a), Aug. 6, 1991, [105 Stat. 404–406][/us/stat/105/404-406].)
 
  __Amendments__ 
 
@@ -31,7 +31,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 100–687, div. B, title XIV, § 1401(a)(3)][/us/pl/100/687/s1401/a/3], Nov. 18, 1988, [102 Stat. 4129][/us/stat/102/4129], provided that: 
+[Pub. L. 100–687, div. B, title XIV][/us/pl/100/687/dB/tXIV], § 1401(a)(3), Nov. 18, 1988, [102 Stat. 4129][/us/stat/102/4129], provided that: 
 
 > “The amendments made by this subsection \[enacting this section and section 763 \[now 1963\] of this title\] shall take effect with respect to insurance policies maturing after the date of the enactment of this Act \[Nov. 18, 1988\].”
 
@@ -42,13 +42,13 @@
 ----------
 ----------
 
-[/us/pl/100/687/s1401/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F687%2Fs1401%2Fa%2F1
+[/us/pl/100/687/dB/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F687%2FdB%2FtXIV
 [/us/stat/102/4128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4128
 [/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/404-406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F404-406
 [/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/usc/t38/s728]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs728
-[/us/pl/100/687/s1401/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F687%2Fs1401%2Fa%2F3
+[/us/pl/100/687/dB/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F687%2FdB%2FtXIV
 [/us/stat/102/4129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4129
 
 

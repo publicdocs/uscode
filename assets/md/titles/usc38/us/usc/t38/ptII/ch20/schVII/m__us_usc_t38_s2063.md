@@ -17,7 +17,7 @@
 
     The Secretary may authorize homeless veterans receiving care through vocational rehabilitation programs to participate in the compensated work therapy program under [section 1718 of this title][/us/usc/t38/s1718].
 
-(Added [Pub. L. 107–95, § 5(a)(1)][/us/pl/107/95/s5/a/1], Dec. 21, 2001, [115 Stat. 914][/us/stat/115/914].)
+(Added [Pub. L. 107–95][/us/pl/107/95], § 5(a)(1), Dec. 21, 2001, [115 Stat. 914][/us/stat/115/914].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t38/s1718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1718
-[/us/pl/107/95/s5/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F95%2Fs5%2Fa%2F1
+[/us/pl/107/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F95
 [/us/stat/115/914]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F914
 
 

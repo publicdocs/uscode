@@ -93,7 +93,7 @@
 
         (2) the extent to which needs of homeless veterans are met in a community, as assessed under [section 107 of Public Law 102–405][/us/pl/102/405/s107].
 
-(Added [Pub. L. 105–368, title VI, § 601(a)][/us/pl/105/368/s601/a], Nov. 11, 1998, [112 Stat. 3343][/us/stat/112/3343], § 3773; renumbered § 2052 and amended [Pub. L. 107–95, § 5(d)(1)][/us/pl/107/95/s5/d/1], (2)(C), Dec. 21, 2001, [115 Stat. 918][/us/stat/115/918]; [Pub. L. 108–454, title IV, § 402(b)][/us/pl/108/454/s402/b], Dec. 10, 2004, [118 Stat. 3616][/us/stat/118/3616].)
+(Added [Pub. L. 105–368, title VI][/us/pl/105/368/tVI], § 601(a), Nov. 11, 1998, [112 Stat. 3343][/us/stat/112/3343], § 3773; renumbered § 2052 and amended [Pub. L. 107–95][/us/pl/107/95], § 5(d)(1), (2)(C), Dec. 21, 2001, [115 Stat. 918][/us/stat/115/918]; [Pub. L. 108–454, title IV][/us/pl/108/454/tIV], § 402(b), Dec. 10, 2004, [118 Stat. 3616][/us/stat/118/3616].)
 
  __References in Text__ 
 
@@ -103,9 +103,9 @@
 
     2004—Subsec. (c)(1). [Pub. L. 108–454][/us/pl/108/454] substituted “services, other commercial activities,” for “services”.
 
-    2001—[Pub. L. 107–95, § 5(d)(1)][/us/pl/107/95/s5/d/1], renumbered [section 3773 of this title][/us/usc/t38/s3773] as this section.
+    2001—[Pub. L. 107–95][/us/pl/107/95], § 5(d)(1), renumbered [section 3773 of this title][/us/usc/t38/s3773] as this section.
 
-    Subsec. (a). [Pub. L. 107–95, § 5(d)(2)(C)][/us/pl/107/95/s5/d/2/C], substituted “[section 2051 of this title][/us/usc/t38/s2051]” for “[section 3772 of this title][/us/usc/t38/s3772]” in introductory provisions.
+    Subsec. (a). [Pub. L. 107–95][/us/pl/107/95], § 5(d)(2)(C), substituted “[section 2051 of this title][/us/usc/t38/s2051]” for “[section 3772 of this title][/us/usc/t38/s3772]” in introductory provisions.
 
 ----------
 
@@ -117,18 +117,18 @@
 [/us/usc/t38/s2051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs2051
 [/us/usc/t42/s1437f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f
 [/us/pl/102/405/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405%2Fs107
-[/us/pl/105/368/s601/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2Fs601%2Fa
+[/us/pl/105/368/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2FtVI
 [/us/stat/112/3343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3343
-[/us/pl/107/95/s5/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F95%2Fs5%2Fd%2F1
+[/us/pl/107/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F95
 [/us/stat/115/918]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F918
-[/us/pl/108/454/s402/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F454%2Fs402%2Fb
+[/us/pl/108/454/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F454%2FtIV
 [/us/stat/118/3616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3616
 [/us/pl/102/405/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405%2Fs107
 [/us/usc/t38/s527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs527
 [/us/pl/108/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F454
-[/us/pl/107/95/s5/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F95%2Fs5%2Fd%2F1
+[/us/pl/107/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F95
 [/us/usc/t38/s3773]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3773
-[/us/pl/107/95/s5/d/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F95%2Fs5%2Fd%2F2%2FC
+[/us/pl/107/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F95
 [/us/usc/t38/s2051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs2051
 [/us/usc/t38/s3772]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3772
 

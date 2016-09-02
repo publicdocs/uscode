@@ -65,7 +65,7 @@
 
     (g) Notwithstanding subsections (e) and (f)(1), the Secretary may approve the enrollment of an eligible veteran in a course approved under this chapter if the course is offered by an educational institution under contract with the Department of Defense or the Department of Homeland Security and is given on or immediately adjacent to a military base, Coast Guard station, National Guard facility, or facility of the Selected Reserve.
 
-(Added [Pub. L. 102–568, title III, § 313(a)(2)][/us/pl/102/568/s313/a/2], Oct. 29, 1992, [106 Stat. 4331][/us/stat/106/4331]; amended [Pub. L. 104–275, title I][/us/pl/104/275], §§ 103(a)(2), (b), 104(c), Oct. 9, 1996, [110 Stat. 3326][/us/stat/110/3326], 3327; [Pub. L. 105–114, title IV, § 401(d)][/us/pl/105/114/s401/d], (e), Nov. 21, 1997, [111 Stat. 2293][/us/stat/111/2293]; [Pub. L. 105–368, title X, § 1005(b)(9)][/us/pl/105/368/s1005/b/9], Nov. 11, 1998, [112 Stat. 3365][/us/stat/112/3365]; [Pub. L. 107–103, title I, § 111(a)][/us/pl/107/103/s111/a], Dec. 27, 2001, [115 Stat. 986][/us/stat/115/986]; [Pub. L. 107–296, title XVII, § 1704(d)][/us/pl/107/296/s1704/d], Nov. 25, 2002, [116 Stat. 2315][/us/stat/116/2315].)
+(Added [Pub. L. 102–568, title III][/us/pl/102/568/tIII], § 313(a)(2), Oct. 29, 1992, [106 Stat. 4331][/us/stat/106/4331]; amended [Pub. L. 104–275, title I][/us/pl/104/275/tI], §§ 103(a)(2), (b), 104(c), Oct. 9, 1996, [110 Stat. 3326][/us/stat/110/3326], 3327; [Pub. L. 105–114, title IV][/us/pl/105/114/tIV], § 401(d), (e), Nov. 21, 1997, [111 Stat. 2293][/us/stat/111/2293]; [Pub. L. 105–368, title X][/us/pl/105/368/tX], § 1005(b)(9), Nov. 11, 1998, [112 Stat. 3365][/us/stat/112/3365]; [Pub. L. 107–103, title I][/us/pl/107/103/tI], § 111(a), Dec. 27, 2001, [115 Stat. 986][/us/stat/115/986]; [Pub. L. 107–296, title XVII][/us/pl/107/296/tXVII], § 1704(d), Nov. 25, 2002, [116 Stat. 2315][/us/stat/116/2315].)
 
  __Amendments__ 
 
@@ -75,15 +75,15 @@
 
     1998—Subsec. (d)(2)(C). [Pub. L. 105–368][/us/pl/105/368] struck out “section” before “subsection (g)”.
 
-    1997—Subsec. (a)(4). [Pub. L. 105–114, § 401(d)][/us/pl/105/114/s401/d], inserted “(including open circuit television)” before “leading to a standard”.
+    1997—Subsec. (a)(4). [Pub. L. 105–114][/us/pl/105/114], § 401(d), inserted “(including open circuit television)” before “leading to a standard”.
 
-    Subsec. (g). [Pub. L. 105–114, § 401(e)][/us/pl/105/114/s401/e], substituted “subsections (e) and (f)(1)” for “subsections (e) and (f)”.
+    Subsec. (g). [Pub. L. 105–114][/us/pl/105/114], § 401(e), substituted “subsections (e) and (f)(1)” for “subsections (e) and (f)”.
 
-    1996—Subsec. (c). [Pub. L. 104–275, § 104(c)][/us/pl/104/275/s104/c], substituted “radio.” for “radio or by open circuit television, except that the Secretary may approve the enrollment of an eligible veteran in a course, to be pursued in residence, leading to a standard college degree which includes, as an integral part thereof, subjects offered through open circuit television.”
+    1996—Subsec. (c). [Pub. L. 104–275][/us/pl/104/275], § 104(c), substituted “radio.” for “radio or by open circuit television, except that the Secretary may approve the enrollment of an eligible veteran in a course, to be pursued in residence, leading to a standard college degree which includes, as an integral part thereof, subjects offered through open circuit television.”
 
-    Subsec. (d)(2)(C). [Pub. L. 104–275, § 103(a)(2)][/us/pl/104/275/s103/a/2], substituted “subsection (g)” for “3689(b)(6) of this title”.
+    Subsec. (d)(2)(C). [Pub. L. 104–275][/us/pl/104/275], § 103(a)(2), substituted “subsection (g)” for “3689(b)(6) of this title”.
 
-    Subsecs. (e) to (g). [Pub. L. 104–275, § 103(b)][/us/pl/104/275/s103/b], added subsecs. (e) to (g).
+    Subsecs. (e) to (g). [Pub. L. 104–275][/us/pl/104/275], § 103(b), added subsecs. (e) to (g).
 
  __Effective Date of 2002 Amendment__ 
 
@@ -91,7 +91,7 @@
 
  __Effective Date of 2001 Amendment__ 
 
-[Pub. L. 107–103, title I, § 111(b)][/us/pl/107/103/s111/b], Dec. 27, 2001, [115 Stat. 987][/us/stat/115/987], provided that: 
+[Pub. L. 107–103, title I][/us/pl/107/103/tI], § 111(b), Dec. 27, 2001, [115 Stat. 987][/us/stat/115/987], provided that: 
 
 > “The amendments made by subsection (a) \[amending this section\] shall apply to enrollments in independent study courses beginning on or after the date of the enactment of this Act \[Dec. 27, 2001\].”
 
@@ -110,30 +110,30 @@
 ----------
 ----------
 
-[/us/pl/102/568/s313/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F568%2Fs313%2Fa%2F2
+[/us/pl/102/568/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F568%2FtIII
 [/us/stat/106/4331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4331
-[/us/pl/104/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275
+[/us/pl/104/275/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275%2FtI
 [/us/stat/110/3326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3326
-[/us/pl/105/114/s401/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F114%2Fs401%2Fd
+[/us/pl/105/114/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F114%2FtIV
 [/us/stat/111/2293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2293
-[/us/pl/105/368/s1005/b/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2Fs1005%2Fb%2F9
+[/us/pl/105/368/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2FtX
 [/us/stat/112/3365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3365
-[/us/pl/107/103/s111/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F103%2Fs111%2Fa
+[/us/pl/107/103/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F103%2FtI
 [/us/stat/115/986]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F986
-[/us/pl/107/296/s1704/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1704%2Fd
+[/us/pl/107/296/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXVII
 [/us/stat/116/2315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2315
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/pl/107/103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F103
 [/us/pl/105/368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368
-[/us/pl/105/114/s401/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F114%2Fs401%2Fd
-[/us/pl/105/114/s401/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F114%2Fs401%2Fe
-[/us/pl/104/275/s104/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275%2Fs104%2Fc
-[/us/pl/104/275/s103/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275%2Fs103%2Fa%2F2
-[/us/pl/104/275/s103/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275%2Fs103%2Fb
+[/us/pl/105/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F114
+[/us/pl/105/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F114
+[/us/pl/104/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275
+[/us/pl/104/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275
+[/us/pl/104/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/pl/107/296/s1704/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1704%2Fg
 [/us/usc/t10/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101
-[/us/pl/107/103/s111/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F103%2Fs111%2Fb
+[/us/pl/107/103/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F103%2FtI
 [/us/stat/115/987]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F987
 [/us/pl/102/568/s313/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F568%2Fs313%2Fb
 [/us/usc/t10/s16136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs16136

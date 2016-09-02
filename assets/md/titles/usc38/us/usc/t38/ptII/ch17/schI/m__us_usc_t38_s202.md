@@ -107,7 +107,7 @@
 
 >             “(B)
 
->              Not later than 180 days after the date of the initial meeting of the Commission, a final report on—
+>              Not later than June 30, 2016, a final report on—
 
 >                 “(i) the findings of the Commission with respect to the evaluation and assessment required by this subsection; and
 

@@ -31,7 +31,7 @@
 
             (B) objective measures to be used in selecting businesses to receive the award.
 
-(Added [Pub. L. 110–389, title VIII, § 809(a)][/us/pl/110/389/s809/a], Oct. 10, 2008, [122 Stat. 4189][/us/stat/122/4189]; amended [Pub. L. 112–154, title VII, § 709(a)][/us/pl/112/154/s709/a], (b)(1), Aug. 6, 2012, [126 Stat. 1207][/us/stat/126/1207].)
+(Added [Pub. L. 110–389, title VIII][/us/pl/110/389/tVIII], § 809(a), Oct. 10, 2008, [122 Stat. 4189][/us/stat/122/4189]; amended [Pub. L. 112–154, title VII][/us/pl/112/154/tVII], § 709(a), (b)(1), Aug. 6, 2012, [126 Stat. 1207][/us/stat/126/1207].)
 
  __Amendments__ 
 
@@ -44,9 +44,9 @@
 ----------
 ----------
 
-[/us/pl/110/389/s809/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F389%2Fs809%2Fa
+[/us/pl/110/389/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F389%2FtVIII
 [/us/stat/122/4189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4189
-[/us/pl/112/154/s709/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154%2Fs709%2Fa
+[/us/pl/112/154/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154%2FtVII
 [/us/stat/126/1207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1207
 [/us/pl/112/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154
 

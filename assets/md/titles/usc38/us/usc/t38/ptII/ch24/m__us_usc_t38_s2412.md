@@ -51,7 +51,7 @@
 
         (4) Amounts in the Fund shall remain available until expended.
 
-(Added [Pub. L. 108–454, title VI, § 602(a)][/us/pl/108/454/s602/a], Dec. 10, 2004, [118 Stat. 3623][/us/stat/118/3623].)
+(Added [Pub. L. 108–454, title VI][/us/pl/108/454/tVI], § 602(a), Dec. 10, 2004, [118 Stat. 3623][/us/stat/118/3623].)
 
  __References in Text__ 
 
@@ -66,7 +66,7 @@
 
 [/us/usc/t41/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs5
 [/us/usc/t40/s1302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs1302
-[/us/pl/108/454/s602/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F454%2Fs602%2Fa
+[/us/pl/108/454/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F454%2FtVI
 [/us/stat/118/3623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3623
 [/us/usc/t41/s6101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs6101
 [/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350

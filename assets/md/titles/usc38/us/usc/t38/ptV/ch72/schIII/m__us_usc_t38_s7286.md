@@ -17,7 +17,7 @@
 
     The Chief Judge of the Court of Appeals for Veterans Claims may summon the judges of the Court to an annual judicial conference, at a time and place that the Chief Judge designates, for the purpose of considering the business of the Court and recommending means of improving the administration of justice within the Court’s jurisdiction. The Court shall provide by its rules for representation and active participation at such conference by persons admitted to practice before the Court and by other persons active in the legal profession.
 
-(Added [Pub. L. 102–82, § 2(a)][/us/pl/102/82/s2/a], Aug. 6, 1991, [105 Stat. 375][/us/stat/105/375]; amended [Pub. L. 105–368, title V, § 512(a)(1)][/us/pl/105/368/s512/a/1], (2)(A), Nov. 11, 1998, [112 Stat. 3341][/us/stat/112/3341].)
+(Added [Pub. L. 102–82][/us/pl/102/82], § 2(a), Aug. 6, 1991, [105 Stat. 375][/us/stat/105/375]; amended [Pub. L. 105–368, title V][/us/pl/105/368/tV], § 512(a)(1), (2)(A), Nov. 11, 1998, [112 Stat. 3341][/us/stat/112/3341].)
 
  __Amendments__ 
 
@@ -34,9 +34,9 @@
 ----------
 ----------
 
-[/us/pl/102/82/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F82%2Fs2%2Fa
+[/us/pl/102/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F82
 [/us/stat/105/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F375
-[/us/pl/105/368/s512/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2Fs512%2Fa%2F1
+[/us/pl/105/368/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2FtV
 [/us/stat/112/3341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3341
 [/us/pl/105/368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368
 [/us/pl/105/368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368

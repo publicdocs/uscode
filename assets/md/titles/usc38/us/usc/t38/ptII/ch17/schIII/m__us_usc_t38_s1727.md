@@ -17,7 +17,7 @@
 
     Persons who have a status which would, under the laws in effect on December 31, 1957, entitle them to the medical services, hospital and domiciliary care, and other benefits, provided for in this chapter, but who do not meet the service requirements contained in this chapter, shall be entitled to such benefits notwithstanding failure to meet such service requirements.
 
-([Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1144][/us/stat/72/1144], § 627; [Pub. L. 94–581, title II, § 202(m)][/us/pl/94/581/s202/m], Oct. 21, 1976, [90 Stat. 2856][/us/stat/90/2856]; renumbered § 1727 [Pub. L. 102–83, § 5(a)][/us/pl/102/83/s5/a], Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406].)
+([Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1144][/us/stat/72/1144], § 627; [Pub. L. 94–581, title II][/us/pl/94/581/tII], § 202(m), Oct. 21, 1976, [90 Stat. 2856][/us/stat/90/2856]; renumbered § 1727 [Pub. L. 102–83][/us/pl/102/83], § 5(a), Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406].)
 
  __Amendments__ 
 
@@ -38,9 +38,9 @@
 
 [/us/pl/85/857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F857
 [/us/stat/72/1144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1144
-[/us/pl/94/581/s202/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F581%2Fs202%2Fm
+[/us/pl/94/581/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F581%2FtII
 [/us/stat/90/2856]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2856
-[/us/pl/102/83/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fa
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F406
 [/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/usc/t38/s627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs627

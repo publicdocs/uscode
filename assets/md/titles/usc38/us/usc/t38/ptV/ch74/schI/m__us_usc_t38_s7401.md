@@ -41,7 +41,7 @@
 
         (C) Before submitting notice under subparagraph (B), the Secretary shall solicit comments from any labor organization representing employees in such class and include such comments in such notice.
 
-(Added [Pub. L. 102–40, title IV, § 401(b)(2)][/us/pl/102/40/s401/b/2], May 7, 1991, [105 Stat. 222][/us/stat/105/222]; amended [Pub. L. 102–405, title III, § 302(c)(1)][/us/pl/102/405/s302/c/1], Oct. 9, 1992, [106 Stat. 1984][/us/stat/106/1984]; [Pub. L. 108–170, title III][/us/pl/108/170], §§ 301(a)(1), 302(a), Dec. 6, 2003, [117 Stat. 2054][/us/stat/117/2054], 2057; [Pub. L. 108–422, title V, § 502][/us/pl/108/422/s502], Nov. 30, 2004, [118 Stat. 2396][/us/stat/118/2396]; [Pub. L. 109–461, title II, § 201(a)][/us/pl/109/461/s201/a], Dec. 22, 2006, [120 Stat. 3409][/us/stat/120/3409]; [Pub. L. 111–163, title VI, § 601(a)][/us/pl/111/163/s601/a], May 5, 2010, [124 Stat. 1167][/us/stat/124/1167]; [Pub. L. 114–58, title VI, § 601(23)][/us/pl/114/58/s601/23], Sept. 30, 2015, [129 Stat. 539][/us/stat/129/539].)
+(Added [Pub. L. 102–40, title IV][/us/pl/102/40/tIV], § 401(b)(2), May 7, 1991, [105 Stat. 222][/us/stat/105/222]; amended [Pub. L. 102–405, title III][/us/pl/102/405/tIII], § 302(c)(1), Oct. 9, 1992, [106 Stat. 1984][/us/stat/106/1984]; [Pub. L. 108–170, title III][/us/pl/108/170/tIII], §§ 301(a)(1), 302(a), Dec. 6, 2003, [117 Stat. 2054][/us/stat/117/2054], 2057; [Pub. L. 108–422, title V][/us/pl/108/422/tV], § 502, Nov. 30, 2004, [118 Stat. 2396][/us/stat/118/2396]; [Pub. L. 109–461, title II][/us/pl/109/461/tII], § 201(a), Dec. 22, 2006, [120 Stat. 3409][/us/stat/120/3409]; [Pub. L. 111–163, title VI][/us/pl/111/163/tVI], § 601(a), May 5, 2010, [124 Stat. 1167][/us/stat/124/1167]; [Pub. L. 114–58, title VI][/us/pl/114/58/tVI], § 601(23), Sept. 30, 2015, [129 Stat. 539][/us/stat/129/539].)
 
  __Prior Provisions__ 
 
@@ -57,13 +57,13 @@
 
     2004—Par. (3). [Pub. L. 108–422][/us/pl/108/422] substituted “technologists, dental hygienists, dental assistants” for “and dental technologists” and “technologists, therapeutic radiologic technologists, social workers, blind rehabilitation specialists, and blind rehabilitation outpatient specialists” for “technicians, therapeutic radiologic technicians, and social workers”.
 
-    2003—[Pub. L. 108–170, § 302(a)(1)][/us/pl/108/170/s302/a/1], substituted “health” for “medical” in introductory provisions.
+    2003—[Pub. L. 108–170][/us/pl/108/170], § 302(a)(1), substituted “health” for “medical” in introductory provisions.
 
-    Par. (1). [Pub. L. 108–170, § 302(a)(2)][/us/pl/108/170/s302/a/2], inserted “chiropractors,” after “podiatrists,”.
+    Par. (1). [Pub. L. 108–170][/us/pl/108/170], § 302(a)(2), inserted “chiropractors,” after “podiatrists,”.
 
-    Par. (2). [Pub. L. 108–170, § 301(a)(1)(A)][/us/pl/108/170/s301/a/1/A], added par. (2) and struck out former par. (2) which read as follows: “Psychologists (other than those described in paragraph (3)), dietitians, and other scientific and professional personnel, such as microbiologists, chemists, biostatisticians, and medical and dental technologists.”
+    Par. (2). [Pub. L. 108–170][/us/pl/108/170], § 301(a)(1)(A), added par. (2) and struck out former par. (2) which read as follows: “Psychologists (other than those described in paragraph (3)), dietitians, and other scientific and professional personnel, such as microbiologists, chemists, biostatisticians, and medical and dental technologists.”
 
-    Par. (3). [Pub. L. 108–170, § 301(a)(1)(B)][/us/pl/108/170/s301/a/1/B], added par. (3) and struck out former par. (3) which read as follows: “Clinical or counseling psychologists who hold diplomas as diplomates in psychology from an accrediting authority approved by the Secretary, certified or registered respiratory therapists, licensed physical therapists, licensed practical or vocational nurses, pharmacists, and occupational therapists.”
+    Par. (3). [Pub. L. 108–170][/us/pl/108/170], § 301(a)(1)(B), added par. (3) and struck out former par. (3) which read as follows: “Clinical or counseling psychologists who hold diplomas as diplomates in psychology from an accrediting authority approved by the Secretary, certified or registered respiratory therapists, licensed physical therapists, licensed practical or vocational nurses, pharmacists, and occupational therapists.”
 
     1992—[Pub. L. 102–405][/us/pl/102/405] substituted “Under Secretary for Health” for “Chief Medical Director”.
 
@@ -73,7 +73,7 @@
 
  __Prior Appointments of Certain Personnel__ 
 
-[Pub. L. 108–170, title III, § 301(a)(2)][/us/pl/108/170/s301/a/2], Dec. 6, 2003, [117 Stat. 2055][/us/stat/117/2055], provided that: 
+[Pub. L. 108–170, title III][/us/pl/108/170/tIII], § 301(a)(2), Dec. 6, 2003, [117 Stat. 2055][/us/stat/117/2055], provided that: 
 
 > “Personnel appointed to the Veterans Health Administration before the date of the enactment of this Act \[Dec. 6, 2003\] who are in an occupational category of employees specified in paragraph (3) of [section 7401 of title 38][/us/usc/t38/s7401], United States Code, by reason of the amendment made by paragraph (1)(B) of this subsection \[amending this section\] shall, as of such date, be deemed to have been appointed to the Administration under such paragraph (3).”
 
@@ -86,19 +86,19 @@
 
 [/us/usc/t38/s7306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7306
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
-[/us/pl/102/40/s401/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs401%2Fb%2F2
+[/us/pl/102/40/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2FtIV
 [/us/stat/105/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F222
-[/us/pl/102/405/s302/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405%2Fs302%2Fc%2F1
+[/us/pl/102/405/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405%2FtIII
 [/us/stat/106/1984]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1984
-[/us/pl/108/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F170
+[/us/pl/108/170/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F170%2FtIII
 [/us/stat/117/2054]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2054
-[/us/pl/108/422/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F422%2Fs502
+[/us/pl/108/422/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F422%2FtV
 [/us/stat/118/2396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2396
-[/us/pl/109/461/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461%2Fs201%2Fa
+[/us/pl/109/461/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461%2FtII
 [/us/stat/120/3409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3409
-[/us/pl/111/163/s601/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163%2Fs601%2Fa
+[/us/pl/111/163/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163%2FtVI
 [/us/stat/124/1167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1167
-[/us/pl/114/58/s601/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F58%2Fs601%2F23
+[/us/pl/114/58/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F58%2FtVI
 [/us/stat/129/539]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F539
 [/us/usc/t38/s4104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs4104
 [/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40
@@ -106,15 +106,15 @@
 [/us/pl/111/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163
 [/us/pl/109/461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461
 [/us/pl/108/422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F422
-[/us/pl/108/170/s302/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F170%2Fs302%2Fa%2F1
-[/us/pl/108/170/s302/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F170%2Fs302%2Fa%2F2
-[/us/pl/108/170/s301/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F170%2Fs301%2Fa%2F1%2FA
-[/us/pl/108/170/s301/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F170%2Fs301%2Fa%2F1%2FB
+[/us/pl/108/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F170
+[/us/pl/108/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F170
+[/us/pl/108/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F170
+[/us/pl/108/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F170
 [/us/pl/102/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405
 [/us/pl/108/170/s302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F170%2Fs302%2Fa
 [/us/pl/108/170/s302/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F170%2Fs302%2Fh
 [/us/usc/t38/s7316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7316
-[/us/pl/108/170/s301/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F170%2Fs301%2Fa%2F2
+[/us/pl/108/170/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F170%2FtIII
 [/us/stat/117/2055]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2055
 [/us/usc/t38/s7401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7401
 

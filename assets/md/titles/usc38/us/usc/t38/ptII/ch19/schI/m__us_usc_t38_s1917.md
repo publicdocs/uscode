@@ -47,7 +47,7 @@
 
         (2) Payment of insurance under paragraph (1) shall be a bar to recovery by any other person.
 
-([Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1152][/us/stat/72/1152], § 717; [Pub. L. 91–291, § 10][/us/pl/91/291/s10], June 25, 1970, [84 Stat. 331][/us/stat/84/331]; [Pub. L. 97–66, title IV, § 403(a)][/us/pl/97/66/s403/a], Oct. 17, 1981, [95 Stat. 1031][/us/stat/95/1031]; renumbered § 1917 and amended [Pub. L. 102–83][/us/pl/102/83], §§ 4(b)(1), (2)(E), 5(a), Aug. 6, 1991, [105 Stat. 404–406][/us/stat/105/404-406]; [Pub. L. 108–183, title I, § 103(a)][/us/pl/108/183/s103/a], Dec. 16, 2003, [117 Stat. 2655][/us/stat/117/2655].)
+([Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1152][/us/stat/72/1152], § 717; [Pub. L. 91–291][/us/pl/91/291], § 10, June 25, 1970, [84 Stat. 331][/us/stat/84/331]; [Pub. L. 97–66, title IV][/us/pl/97/66/tIV], § 403(a), Oct. 17, 1981, [95 Stat. 1031][/us/stat/95/1031]; renumbered § 1917 and amended [Pub. L. 102–83][/us/pl/102/83], §§ 4(b)(1), (2)(E), 5(a), Aug. 6, 1991, [105 Stat. 404–406][/us/stat/105/404-406]; [Pub. L. 108–183, title I][/us/pl/108/183/tI], § 103(a), Dec. 16, 2003, [117 Stat. 2655][/us/stat/117/2655].)
 
  __Amendments__ 
 
@@ -63,7 +63,7 @@
 
  __Effective Date of 2003 Amendment__ 
 
-[Pub. L. 108–183, title I, § 103(c)][/us/pl/108/183/s103/c], Dec. 16, 2003, [117 Stat. 2655][/us/stat/117/2655], provided that: 
+[Pub. L. 108–183, title I][/us/pl/108/183/tI], § 103(c), Dec. 16, 2003, [117 Stat. 2655][/us/stat/117/2655], provided that: 
 
 > “The amendments made by subsections (a) and (b) \[amending this section and [section 1952 of this title][/us/usc/t38/s1952]\] shall take effect on October 1, 2004.”
 
@@ -77,7 +77,7 @@
 
  __Transition Provision__ 
 
-[Pub. L. 108–183, title I, § 103(d)][/us/pl/108/183/s103/d], Dec. 16, 2003, [117 Stat. 2655][/us/stat/117/2655], provided that: 
+[Pub. L. 108–183, title I][/us/pl/108/183/tI], § 103(d), Dec. 16, 2003, [117 Stat. 2655][/us/stat/117/2655], provided that: 
 
 > “In the case of a person insured under subchapter I or II of chapter 19 of title 38, United States Code, who dies before the effective date of the amendments made by subsections (a) and (b), as specified by subsection (c) \[set out as an Effective Date of 2003 Amendment note above\], the two-year and four-year periods specified in subsection (f)(1) of [section 1917 of title 38][/us/usc/t38/s1917], United States Code, as added by subsection (a), and subsection (c)(1) of section 1952 of such title, as added by subsection (b), as applicable, shall for purposes of the applicable subsection be treated as being the two-year and four-year periods, respectively, beginning on the effective date of such amendments, as so specified.”
 
@@ -90,13 +90,13 @@
 
 [/us/pl/85/857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F857
 [/us/stat/72/1152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1152
-[/us/pl/91/291/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F291%2Fs10
+[/us/pl/91/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F291
 [/us/stat/84/331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F331
-[/us/pl/97/66/s403/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F66%2Fs403%2Fa
+[/us/pl/97/66/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F66%2FtIV
 [/us/stat/95/1031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1031
 [/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/404-406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F404-406
-[/us/pl/108/183/s103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F183%2Fs103%2Fa
+[/us/pl/108/183/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F183%2FtI
 [/us/stat/117/2655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2655
 [/us/pl/108/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F183
 [/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
@@ -104,7 +104,7 @@
 [/us/pl/97/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F66
 [/us/pl/91/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F291
 [/us/pl/91/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F291
-[/us/pl/108/183/s103/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F183%2Fs103%2Fc
+[/us/pl/108/183/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F183%2FtI
 [/us/stat/117/2655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2655
 [/us/usc/t38/s1952]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1952
 [/us/pl/97/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F66
@@ -113,7 +113,7 @@
 [/us/pl/91/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F291
 [/us/pl/91/291/s14/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F291%2Fs14%2Fa
 [/us/usc/t38/s1317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1317
-[/us/pl/108/183/s103/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F183%2Fs103%2Fd
+[/us/pl/108/183/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F183%2FtI
 [/us/stat/117/2655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2655
 [/us/usc/t38/s1917]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1917
 

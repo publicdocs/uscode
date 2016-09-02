@@ -31,7 +31,7 @@
 
     (f) The Secretary and the Comptroller General of the United States, or any of their duly authorized representatives, shall have access, for the purpose of audit and examination, to any books, documents, papers, and records of the recipient of any grant under this section which are pertinent to any such grant.
 
-(Added [Pub. L. 89–785, title II, § 203][/us/pl/89/785/s203], Nov. 7, 1966, [80 Stat. 1375][/us/stat/80/1375], § 5055; amended [Pub. L. 92–69][/us/pl/92/69], Aug. 6, 1971, [85 Stat. 178][/us/stat/85/178]; [Pub. L. 94–424, § 1(2)][/us/pl/94/424/s1/2], Sept. 28, 1976, [90 Stat. 1332][/us/stat/90/1332]; [Pub. L. 94–581, title II][/us/pl/94/581], §§ 206(e), 210(e)(13), Oct. 21, 1976, [90 Stat. 2859][/us/stat/90/2859], 2865; [Pub. L. 96–151, title I, § 102(b)][/us/pl/96/151/s102/b], Dec. 20, 1979, [93 Stat. 1092][/us/stat/93/1092]; renumbered § 8155 and amended [Pub. L. 102–40, title IV, § 402(b)(1)][/us/pl/102/40/s402/b/1], (d)(1), May 7, 1991, [105 Stat. 238][/us/stat/105/238], 239; [Pub. L. 102–83, § 4(a)(3)][/us/pl/102/83/s4/a/3], (4), (b)(1), (2)(E), Aug. 6, 1991, [105 Stat. 404][/us/stat/105/404], 405; [Pub. L. 102–405, title III, § 302(c)(1)][/us/pl/102/405/s302/c/1], Oct. 9, 1992, [106 Stat. 1984][/us/stat/106/1984]; [Pub. L. 103–446, title XII, § 1201(d)(19)][/us/pl/103/446/s1201/d/19], Nov. 2, 1994, [108 Stat. 4684][/us/stat/108/4684].)
+(Added [Pub. L. 89–785, title II][/us/pl/89/785/tII], § 203, Nov. 7, 1966, [80 Stat. 1375][/us/stat/80/1375], § 5055; amended [Pub. L. 92–69][/us/pl/92/69], Aug. 6, 1971, [85 Stat. 178][/us/stat/85/178]; [Pub. L. 94–424][/us/pl/94/424], § 1(2), Sept. 28, 1976, [90 Stat. 1332][/us/stat/90/1332]; [Pub. L. 94–581, title II][/us/pl/94/581/tII], §§ 206(e), 210(e)(13), Oct. 21, 1976, [90 Stat. 2859][/us/stat/90/2859], 2865; [Pub. L. 96–151, title I][/us/pl/96/151/tI], § 102(b), Dec. 20, 1979, [93 Stat. 1092][/us/stat/93/1092]; renumbered § 8155 and amended [Pub. L. 102–40, title IV][/us/pl/102/40/tIV], § 402(b)(1), (d)(1), May 7, 1991, [105 Stat. 238][/us/stat/105/238], 239; [Pub. L. 102–83][/us/pl/102/83], § 4(a)(3), (4), (b)(1), (2)(E), Aug. 6, 1991, [105 Stat. 404][/us/stat/105/404], 405; [Pub. L. 102–405, title III][/us/pl/102/405/tIII], § 302(c)(1), Oct. 9, 1992, [106 Stat. 1984][/us/stat/106/1984]; [Pub. L. 103–446, title XII][/us/pl/103/446/tXII], § 1201(d)(19), Nov. 2, 1994, [108 Stat. 4684][/us/stat/108/4684].)
 
  __Amendments__ 
 
@@ -39,17 +39,17 @@
 
     1992—Subsec. (a). [Pub. L. 102–405][/us/pl/102/405] substituted “Under Secretary for Health” for “Chief Medical Director”.
 
-    1991—[Pub. L. 102–40, § 402(b)(1)][/us/pl/102/40/s402/b/1], renumbered [section 5055 of this title][/us/usc/t38/s5055] as this section.
+    1991—[Pub. L. 102–40][/us/pl/102/40], § 402(b)(1), renumbered [section 5055 of this title][/us/usc/t38/s5055] as this section.
 
-    Subsec. (a). [Pub. L. 102–83, § 4(b)(1)][/us/pl/102/83/s4/b/1], (2)(E), substituted “Secretary” for “Administrator” in two places.
+    Subsec. (a). [Pub. L. 102–83][/us/pl/102/83], § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in two places.
 
-    Subsec. (b). [Pub. L. 102–83, § 4(b)(1)][/us/pl/102/83/s4/b/1], (2)(E), substituted “Secretary” for “Administrator”.
+    Subsec. (b). [Pub. L. 102–83][/us/pl/102/83], § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
-    [Pub. L. 102–40, § 402(d)(1)][/us/pl/102/40/s402/d/1], substituted “8154” for “5054”.
+    [Pub. L. 102–40][/us/pl/102/40], § 402(d)(1), substituted “8154” for “5054”.
 
-    Subsec. (c)(1). [Pub. L. 102–83, § 4(a)(3)][/us/pl/102/83/s4/a/3], (4), substituted “Department” for “Veterans’ Administration”.
+    Subsec. (c)(1). [Pub. L. 102–83][/us/pl/102/83], § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration”.
 
-    Subsecs. (c)(2), (d) to (f). [Pub. L. 102–83, § 4(b)(1)][/us/pl/102/83/s4/b/1], (2)(E), substituted “Secretary” for “Administrator”.
+    Subsecs. (c)(2), (d) to (f). [Pub. L. 102–83][/us/pl/102/83], § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
     1979—Subsec. (c)(1). [Pub. L. 96–151][/us/pl/96/151] inserted authorization for the three succeeding fiscal years after fiscal year 1979.
 
@@ -82,33 +82,33 @@
 
 [/us/usc/t38/s7312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7312
 [/us/usc/t38/s8154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs8154
-[/us/pl/89/785/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F785%2Fs203
+[/us/pl/89/785/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F785%2FtII
 [/us/stat/80/1375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1375
 [/us/pl/92/69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F69
 [/us/stat/85/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F178
-[/us/pl/94/424/s1/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F424%2Fs1%2F2
+[/us/pl/94/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F424
 [/us/stat/90/1332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1332
-[/us/pl/94/581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F581
+[/us/pl/94/581/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F581%2FtII
 [/us/stat/90/2859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2859
-[/us/pl/96/151/s102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F151%2Fs102%2Fb
+[/us/pl/96/151/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F151%2FtI
 [/us/stat/93/1092]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1092
-[/us/pl/102/40/s402/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs402%2Fb%2F1
+[/us/pl/102/40/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2FtIV
 [/us/stat/105/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F238
-[/us/pl/102/83/s4/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fa%2F3
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F404
-[/us/pl/102/405/s302/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405%2Fs302%2Fc%2F1
+[/us/pl/102/405/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405%2FtIII
 [/us/stat/106/1984]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1984
-[/us/pl/103/446/s1201/d/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2Fs1201%2Fd%2F19
+[/us/pl/103/446/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2FtXII
 [/us/stat/108/4684]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4684
 [/us/pl/103/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446
 [/us/pl/102/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405
-[/us/pl/102/40/s402/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs402%2Fb%2F1
+[/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40
 [/us/usc/t38/s5055]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs5055
-[/us/pl/102/83/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fb%2F1
-[/us/pl/102/83/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fb%2F1
-[/us/pl/102/40/s402/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs402%2Fd%2F1
-[/us/pl/102/83/s4/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fa%2F3
-[/us/pl/102/83/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fb%2F1
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/pl/96/151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F151
 [/us/pl/94/581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F581
 [/us/pl/94/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F424

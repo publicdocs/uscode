@@ -65,7 +65,7 @@
 
         (2) Not later than June 1 of each year through 2012, the Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report containing information updating the reports submitted under this subsection before the submission of such report.
 
-(Added [Pub. L. 104–262, title III, § 335(a)][/us/pl/104/262/s335/a], Oct. 9, 1996, [110 Stat. 3204][/us/stat/110/3204]; amended [Pub. L. 106–419, title IV, § 402(f)][/us/pl/106/419/s402/f], Nov. 1, 2000, [114 Stat. 1863][/us/stat/114/1863]; [Pub. L. 108–170, title IV, § 405(c)][/us/pl/108/170/s405/c], Dec. 6, 2003, [117 Stat. 2063][/us/stat/117/2063]; [Pub. L. 110–387, title VIII, § 807][/us/pl/110/387/s807], Oct. 10, 2008, [122 Stat. 4141][/us/stat/122/4141].)
+(Added [Pub. L. 104–262, title III][/us/pl/104/262/tIII], § 335(a), Oct. 9, 1996, [110 Stat. 3204][/us/stat/110/3204]; amended [Pub. L. 106–419, title IV][/us/pl/106/419/tIV], § 402(f), Nov. 1, 2000, [114 Stat. 1863][/us/stat/114/1863]; [Pub. L. 108–170, title IV][/us/pl/108/170/tIV], § 405(c), Dec. 6, 2003, [117 Stat. 2063][/us/stat/117/2063]; [Pub. L. 110–387, title VIII][/us/pl/110/387/tVIII], § 807, Oct. 10, 2008, [122 Stat. 4141][/us/stat/122/4141].)
 
  __Amendments__ 
 
@@ -82,13 +82,13 @@
 ----------
 ----------
 
-[/us/pl/104/262/s335/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F262%2Fs335%2Fa
+[/us/pl/104/262/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F262%2FtIII
 [/us/stat/110/3204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3204
-[/us/pl/106/419/s402/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419%2Fs402%2Ff
+[/us/pl/106/419/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419%2FtIV
 [/us/stat/114/1863]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1863
-[/us/pl/108/170/s405/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F170%2Fs405%2Fc
+[/us/pl/108/170/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F170%2FtIV
 [/us/stat/117/2063]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2063
-[/us/pl/110/387/s807]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F387%2Fs807
+[/us/pl/110/387/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F387%2FtVIII
 [/us/stat/122/4141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4141
 [/us/pl/110/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F387
 [/us/pl/108/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F170

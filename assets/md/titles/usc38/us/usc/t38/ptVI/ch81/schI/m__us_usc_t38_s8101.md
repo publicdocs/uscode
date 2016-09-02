@@ -25,7 +25,7 @@
 
     (4) The term “committee” means the Committee on Veterans’ Affairs of the House of Representatives or the Committee on Veterans’ Affairs of the Senate, and the term “committees” means both such committees.
 
-(Added [Pub. L. 96–22, title III, § 301(a)][/us/pl/96/22/s301/a], June 13, 1979, [93 Stat. 55][/us/stat/93/55], § 5001; renumbered § 8101, [Pub. L. 102–40, title IV, § 402(b)(1)][/us/pl/102/40/s402/b/1], May 7, 1991, [105 Stat. 238][/us/stat/105/238]; amended [Pub. L. 102–83, § 4(b)(1)][/us/pl/102/83/s4/b/1], (2)(E), Aug. 6, 1991, [105 Stat. 404][/us/stat/105/404], 405; [Pub. L. 104–262, title II, § 207(a)][/us/pl/104/262/s207/a], Oct. 9, 1996, [110 Stat. 3190][/us/stat/110/3190].)
+(Added [Pub. L. 96–22, title III][/us/pl/96/22/tIII], § 301(a), June 13, 1979, [93 Stat. 55][/us/stat/93/55], § 5001; renumbered § 8101, [Pub. L. 102–40, title IV][/us/pl/102/40/tIV], § 402(b)(1), May 7, 1991, [105 Stat. 238][/us/stat/105/238]; amended [Pub. L. 102–83][/us/pl/102/83], § 4(b)(1), (2)(E), Aug. 6, 1991, [105 Stat. 404][/us/stat/105/404], 405; [Pub. L. 104–262, title II][/us/pl/104/262/tII], § 207(a), Oct. 9, 1996, [110 Stat. 3190][/us/stat/110/3190].)
 
  __Amendments__ 
 
@@ -37,7 +37,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 96–22, title III, § 302][/us/pl/96/22/s302], June 13, 1979, [93 Stat. 62][/us/stat/93/62], provided that:
+[Pub. L. 96–22, title III][/us/pl/96/22/tIII], § 302, June 13, 1979, [93 Stat. 62][/us/stat/93/62], provided that:
 
 >     “(a) Except as provided in subsection (b) of this section, the amendments made by section 301 \[enacting this subchapter, redesignating sections 5011 to 5014 of this title as sections 5021 to 5024 \[now 8121 to 8124\], respectively, and amending section 5022 \[now 8122\] of this title as so redesignated\] shall take effect on October 1, 1979.
 
@@ -54,19 +54,19 @@
 ----------
 ----------
 
-[/us/pl/96/22/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F22%2Fs301%2Fa
+[/us/pl/96/22/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F22%2FtIII
 [/us/stat/93/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F55
-[/us/pl/102/40/s402/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs402%2Fb%2F1
+[/us/pl/102/40/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2FtIV
 [/us/stat/105/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F238
-[/us/pl/102/83/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fb%2F1
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F404
-[/us/pl/104/262/s207/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F262%2Fs207%2Fa
+[/us/pl/104/262/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F262%2FtII
 [/us/stat/110/3190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3190
 [/us/pl/104/262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F262
 [/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40
 [/us/usc/t38/s5001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs5001
 [/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
-[/us/pl/96/22/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F22%2Fs302
+[/us/pl/96/22/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F22%2FtIII
 [/us/stat/93/62]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F62
 [/us/usc/t38/s5007/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs5007%2Fa
 

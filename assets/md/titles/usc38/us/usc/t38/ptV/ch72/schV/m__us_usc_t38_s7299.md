@@ -19,7 +19,7 @@
 
     (b) A recall-eligible judge shall be considered to be an officer or employee of the United States, but only during periods when the judge is serving in recall status. Any prohibition, limitation, or restriction that would otherwise apply to the activities of a recall-eligible judge shall apply only during periods when the judge is serving in recall status.
 
-(Added [Pub. L. 106–117, title X, § 1024(a)][/us/pl/106/117/s1024/a], Nov. 30, 1999, [113 Stat. 1593][/us/stat/113/1593].)
+(Added [Pub. L. 106–117, title X][/us/pl/106/117/tX], § 1024(a), Nov. 30, 1999, [113 Stat. 1593][/us/stat/113/1593].)
 
 ----------
 
@@ -30,7 +30,7 @@
 
 [/us/usc/t38/s7257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7257
 [/us/usc/t38/s7296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7296
-[/us/pl/106/117/s1024/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117%2Fs1024%2Fa
+[/us/pl/106/117/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117%2FtX
 [/us/stat/113/1593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1593
 
 

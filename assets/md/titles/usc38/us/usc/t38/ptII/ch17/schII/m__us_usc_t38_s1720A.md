@@ -37,7 +37,7 @@
 
         (2) Each plan under paragraph (1) shall make available clinically proven substance abuse treatment methods, including opioid substitution therapy, to veterans with respect to whom a qualified medical professional has determined such treatment methods to be appropriate.
 
-(Added [Pub. L. 96–22, title I, § 104(a)][/us/pl/96/22/s104/a], June 13, 1979, [93 Stat. 50][/us/stat/93/50], § 620A; amended [Pub. L. 96–128, title V, § 501(c)][/us/pl/96/128/s501/c], Nov. 28, 1979, [93 Stat. 987][/us/stat/93/987]; [Pub. L. 97–251, § 6][/us/pl/97/251/s6], Sept. 8, 1982, [96 Stat. 716][/us/stat/96/716]; [Pub. L. 97–258, § 3(k)(1)][/us/pl/97/258/s3/k/1], Sept. 13, 1982, [96 Stat. 1065][/us/stat/96/1065]; [Pub. L. 99–108, § 3][/us/pl/99/108/s3], Sept. 30, 1985, [99 Stat. 481][/us/stat/99/481]; [Pub. L. 99–166, title I, § 101(a)][/us/pl/99/166/s101/a], (b)(1), Dec. 3, 1985, [99 Stat. 942][/us/stat/99/942], 943; [Pub. L. 100–687, div. B, title XV, § 1509][/us/pl/100/687/s1509], Nov. 18, 1988, [102 Stat. 4137][/us/stat/102/4137]; [Pub. L. 100–689, title V, § 502(a)(1)][/us/pl/100/689/s502/a/1], (b), Nov. 18, 1988, [102 Stat. 4179][/us/stat/102/4179]; [Pub. L. 102–54, § 14(b)(13)][/us/pl/102/54/s14/b/13], June 13, 1991, [105 Stat. 284][/us/stat/105/284]; renumbered § 1720A and amended [Pub. L. 102–83][/us/pl/102/83], §§ 4(a)(3), (4), (b)(1), (2)(E), 5(a), Aug. 6, 1991, [105 Stat. 404–406][/us/stat/105/404-406]; [Pub. L. 102–86, title III, § 303][/us/pl/102/86/s303], Aug. 14, 1991, [105 Stat. 416][/us/stat/105/416]; [Pub. L. 103–452, title I, § 103(b)][/us/pl/103/452/s103/b], Nov. 2, 1994, [108 Stat. 4786][/us/stat/108/4786]; [Pub. L. 104–110, title I, § 101(b)][/us/pl/104/110/s101/b], Feb. 13, 1996, [110 Stat. 768][/us/stat/110/768]; [Pub. L. 105–114, title II, § 202(b)][/us/pl/105/114/s202/b], Nov. 21, 1997, [111 Stat. 2287][/us/stat/111/2287]; [Pub. L. 106–117, title I, § 114][/us/pl/106/117/s114], Nov. 30, 1999, [113 Stat. 1558][/us/stat/113/1558]; [Pub. L. 106–419, title IV, § 404(a)(4)][/us/pl/106/419/s404/a/4], Nov. 1, 2000, [114 Stat. 1864][/us/stat/114/1864]; [Pub. L. 107–95, § 8(c)][/us/pl/107/95/s8/c], Dec. 21, 2001, [115 Stat. 920][/us/stat/115/920].)
+(Added [Pub. L. 96–22, title I][/us/pl/96/22/tI], § 104(a), June 13, 1979, [93 Stat. 50][/us/stat/93/50], § 620A; amended [Pub. L. 96–128, title V][/us/pl/96/128/tV], § 501(c), Nov. 28, 1979, [93 Stat. 987][/us/stat/93/987]; [Pub. L. 97–251][/us/pl/97/251], § 6, Sept. 8, 1982, [96 Stat. 716][/us/stat/96/716]; [Pub. L. 97–258][/us/pl/97/258], § 3(k)(1), Sept. 13, 1982, [96 Stat. 1065][/us/stat/96/1065]; [Pub. L. 99–108][/us/pl/99/108], § 3, Sept. 30, 1985, [99 Stat. 481][/us/stat/99/481]; [Pub. L. 99–166, title I][/us/pl/99/166/tI], § 101(a), (b)(1), Dec. 3, 1985, [99 Stat. 942][/us/stat/99/942], 943; [Pub. L. 100–687, div. B, title XV][/us/pl/100/687/dB/tXV], § 1509, Nov. 18, 1988, [102 Stat. 4137][/us/stat/102/4137]; [Pub. L. 100–689, title V][/us/pl/100/689/tV], § 502(a)(1), (b), Nov. 18, 1988, [102 Stat. 4179][/us/stat/102/4179]; [Pub. L. 102–54][/us/pl/102/54], § 14(b)(13), June 13, 1991, [105 Stat. 284][/us/stat/105/284]; renumbered § 1720A and amended [Pub. L. 102–83][/us/pl/102/83], §§ 4(a)(3), (4), (b)(1), (2)(E), 5(a), Aug. 6, 1991, [105 Stat. 404–406][/us/stat/105/404-406]; [Pub. L. 102–86, title III][/us/pl/102/86/tIII], § 303, Aug. 14, 1991, [105 Stat. 416][/us/stat/105/416]; [Pub. L. 103–452, title I][/us/pl/103/452/tI], § 103(b), Nov. 2, 1994, [108 Stat. 4786][/us/stat/108/4786]; [Pub. L. 104–110, title I][/us/pl/104/110/tI], § 101(b), Feb. 13, 1996, [110 Stat. 768][/us/stat/110/768]; [Pub. L. 105–114, title II][/us/pl/105/114/tII], § 202(b), Nov. 21, 1997, [111 Stat. 2287][/us/stat/111/2287]; [Pub. L. 106–117, title I][/us/pl/106/117/tI], § 114, Nov. 30, 1999, [113 Stat. 1558][/us/stat/113/1558]; [Pub. L. 106–419, title IV][/us/pl/106/419/tIV], § 404(a)(4), Nov. 1, 2000, [114 Stat. 1864][/us/stat/114/1864]; [Pub. L. 107–95][/us/pl/107/95], § 8(c), Dec. 21, 2001, [115 Stat. 920][/us/stat/115/920].)
 
  __Amendments__ 
 
@@ -45,21 +45,21 @@
 
     2000—Subsec. (c)(1). [Pub. L. 106–419][/us/pl/106/419] substituted “for such disability. Care and services provided to a member so transferred” for “for such disability unless such transfer is during the last thirty days of such member’s enlistment period or tour of duty, in which case such care and services provided to such member”.
 
-    1999—Subsec. (c)(1). [Pub. L. 106–117, § 114(a)][/us/pl/106/117/s114/a], substituted “may be transferred” for “may not be transferred” in first sentence.
+    1999—Subsec. (c)(1). [Pub. L. 106–117][/us/pl/106/117], § 114(a), substituted “may be transferred” for “may not be transferred” in first sentence.
 
-    [Pub. L. 106–117, § 114(a)(2)][/us/pl/106/117/s114/a/2], which directed the amendment of first sentence of par. (1) by striking out “unless such transfer is during the last thirty days of such member’s enlistment or tour of duty”, could not be executed because that phrase did not appear.
+    [Pub. L. 106–117][/us/pl/106/117], § 114(a)(2), which directed the amendment of first sentence of par. (1) by striking out “unless such transfer is during the last thirty days of such member’s enlistment or tour of duty”, could not be executed because that phrase did not appear.
 
-    Subsec. (c)(2). [Pub. L. 106–117, § 114(b)][/us/pl/106/117/s114/b], struck out “during the last thirty days of such person’s enlistment period or tour of duty” before period at end of first sentence.
+    Subsec. (c)(2). [Pub. L. 106–117][/us/pl/106/117], § 114(b), struck out “during the last thirty days of such person’s enlistment period or tour of duty” before period at end of first sentence.
 
-    1997—[Pub. L. 105–114, § 202(b)(2)][/us/pl/105/114/s202/b/2], substituted “Treatment and rehabilitative services for persons with drug and alcohol dependency” for “Treatment and rehabilitation for alcohol or drug dependence or abuse disabilities” in section catchline.
+    1997—[Pub. L. 105–114][/us/pl/105/114], § 202(b)(2), substituted “Treatment and rehabilitative services for persons with drug and alcohol dependency” for “Treatment and rehabilitation for alcohol or drug dependence or abuse disabilities” in section catchline.
 
-    Subsecs. (a) to (d). [Pub. L. 105–114, § 202(b)(1)][/us/pl/105/114/s202/b/1], redesignated subsecs. (b) to (d) as (a) to (c), respectively, and struck out former subsec. (a) which read as follows:
+    Subsecs. (a) to (d). [Pub. L. 105–114][/us/pl/105/114], § 202(b)(1), redesignated subsecs. (b) to (d) as (a) to (c), respectively, and struck out former subsec. (a) which read as follows:
 
     “(a)(1) The Secretary, in furnishing hospital, nursing home, and domiciliary care and medical and rehabilitative services under this chapter, may contract for care and treatment and rehabilitative services in halfway houses, therapeutic communities, psychiatric residential treatment centers, and other community-based treatment facilities for eligible veterans suffering from alcohol or drug dependence or abuse disabilities.
 
     “(2) Before furnishing such care and services to any veteran through a contract facility as authorized by paragraph (1) of this subsection, the Secretary shall approve (in accordance with criteria which the Secretary shall prescribe by regulation) the quality and effectiveness of the program operated by such facility for the purpose for which such veteran is to be furnished such care and services.”
 
-    Subsecs. (e) to (g). [Pub. L. 105–114, § 202(b)(1)(B)][/us/pl/105/114/s202/b/1/B], struck out subsecs. (e) to (g) which read as follows:
+    Subsecs. (e) to (g). [Pub. L. 105–114][/us/pl/105/114], § 202(b)(1)(B), struck out subsecs. (e) to (g) which read as follows:
 
     “(e) The Secretary may not furnish care and treatment and rehabilitative services under subsection (a) of this section after December 31, 1997.
 
@@ -91,29 +91,29 @@
 
     1994—Subsec. (e). [Pub. L. 103–452][/us/pl/103/452] substituted “December 31, 1995” for “December 31, 1994”.
 
-    1991—[Pub. L. 102–83, § 5(a)][/us/pl/102/83/s5/a], renumbered [section 620A of this title][/us/usc/t38/s620A] as this section.
+    1991—[Pub. L. 102–83][/us/pl/102/83], § 5(a), renumbered [section 620A of this title][/us/usc/t38/s620A] as this section.
 
-    Subsecs. (a), (b). [Pub. L. 102–83, § 4(b)(1)][/us/pl/102/83/s4/b/1], (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
+    Subsecs. (a), (b). [Pub. L. 102–83][/us/pl/102/83], § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
 
-    Subsec. (c). [Pub. L. 102–83, § 4(b)(1)][/us/pl/102/83/s4/b/1], (2)(E), substituted “Secretary” for “Administrator” in introductory provisions.
+    Subsec. (c). [Pub. L. 102–83][/us/pl/102/83], § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in introductory provisions.
 
-    [Pub. L. 102–83, § 4(a)(3)][/us/pl/102/83/s4/a/3], (4), substituted “Department” for “Veterans’ Administration” in pars. (1) and (2).
+    [Pub. L. 102–83][/us/pl/102/83], § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration” in pars. (1) and (2).
 
-    Subsec. (d). [Pub. L. 102–83, § 4(b)(1)][/us/pl/102/83/s4/b/1], (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
+    Subsec. (d). [Pub. L. 102–83][/us/pl/102/83], § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
 
-    Subsec. (e). [Pub. L. 102–86][/us/pl/102/86] amended subsec. (e) of this section as in effect before the redesignations made by [Pub. L. 102–83, § 5][/us/pl/102/83/s5], by substituting “December 31, 1994” for “September 30, 1991”.
+    Subsec. (e). [Pub. L. 102–86][/us/pl/102/86] amended subsec. (e) of this section as in effect before the redesignations made by [Pub. L. 102–83][/us/pl/102/83], § 5, by substituting “December 31, 1994” for “September 30, 1991”.
 
-    [Pub. L. 102–83, § 4(b)(1)][/us/pl/102/83/s4/b/1], (2)(E), substituted “Secretary” for “Administrator”.
+    [Pub. L. 102–83][/us/pl/102/83], § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
-    Subsec. (f). [Pub. L. 102–83, § 4(b)(1)][/us/pl/102/83/s4/b/1], (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
+    Subsec. (f). [Pub. L. 102–83][/us/pl/102/83], § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
 
     [Pub. L. 102–54][/us/pl/102/54] struck out “during the period” before “beginning” in par. (1).
 
-    Subsec. (g). [Pub. L. 102–83, § 4(b)(1)][/us/pl/102/83/s4/b/1], (2)(E), substituted “Secretary” for “Administrator”.
+    Subsec. (g). [Pub. L. 102–83][/us/pl/102/83], § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
-    1988—Subsec. (e). [Pub. L. 100–689, § 502(a)(1)][/us/pl/100/689/s502/a/1], substituted “1991” for “1988”.
+    1988—Subsec. (e). [Pub. L. 100–689][/us/pl/100/689], § 502(a)(1), substituted “1991” for “1988”.
 
-    Subsec. (f). [Pub. L. 100–689, § 502(b)][/us/pl/100/689/s502/b], amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows:
+    Subsec. (f). [Pub. L. 100–689][/us/pl/100/689], § 502(b), amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows:
 
     “(1) The Administrator shall monitor the performance of each contract facility furnishing care and services under the program carried out under subsection (a) of this section.
 
@@ -157,23 +157,23 @@
 
     Subsec. (f)(1). [Pub. L. 100–687][/us/pl/100/687] substituted “during the period beginning on December 1, 1988, and ending on October 1, 1997” for “before October 1, 1997” in par. (1) as amended by [Pub. L. 100–689][/us/pl/100/689] above.
 
-    1985—[Pub. L. 99–166, § 101(b)(1)][/us/pl/99/166/s101/b/1], struck out “; pilot program” after “disabilities” in section catchline.
+    1985—[Pub. L. 99–166][/us/pl/99/166], § 101(b)(1), struck out “; pilot program” after “disabilities” in section catchline.
 
-    Subsec. (a)(1). [Pub. L. 99–166, § 101(a)(1)][/us/pl/99/166/s101/a/1], struck out “may conduct a pilot program under which the Administrator” before “may contract” in first sentence, and struck out second sentence relating to the planning, designing, and conducting of a pilot program by the Chief Medical Director so as to demonstrate any medical advantages and cost effectiveness that might result from furnishing care and services to disabled veterans in contract facilities as authorized by this section, rather than in facilities over which the Administrator had jurisdiction.
+    Subsec. (a)(1). [Pub. L. 99–166][/us/pl/99/166], § 101(a)(1), struck out “may conduct a pilot program under which the Administrator” before “may contract” in first sentence, and struck out second sentence relating to the planning, designing, and conducting of a pilot program by the Chief Medical Director so as to demonstrate any medical advantages and cost effectiveness that might result from furnishing care and services to disabled veterans in contract facilities as authorized by this section, rather than in facilities over which the Administrator had jurisdiction.
 
-    Subsec. (e). [Pub. L. 99–166, § 101(a)(2)][/us/pl/99/166/s101/a/2], substituted “September 30, 1988” for “October 31, 1985”.
+    Subsec. (e). [Pub. L. 99–166][/us/pl/99/166], § 101(a)(2), substituted “September 30, 1988” for “October 31, 1985”.
 
     [Pub. L. 99–108][/us/pl/99/108] substituted “October 31, 1985” for “the last day of the fifth fiscal year following the fiscal year in which the pilot program authorized by such subsection is initiated”.
 
-    Subsec. (f). [Pub. L. 99–166, § 101(a)(3)][/us/pl/99/166/s101/a/3], amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: “Not later than March 31, 1984, the Administrator shall report to the Committee on Veterans’ Affairs of the Senate and House of Representatives on the findings and recommendations of the Administrator pertaining to the operation through September 30, 1983, of the pilot program authorized by this section.”
+    Subsec. (f). [Pub. L. 99–166][/us/pl/99/166], § 101(a)(3), amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: “Not later than March 31, 1984, the Administrator shall report to the Committee on Veterans’ Affairs of the Senate and House of Representatives on the findings and recommendations of the Administrator pertaining to the operation through September 30, 1983, of the pilot program authorized by this section.”
 
     1982—Subsec. (d)(1). [Pub. L. 97–258][/us/pl/97/258] substituted “sections 1535 and 1536 of title 31” for “the Act of March 4, 1915 (31 U.S.C 686)” after “provisions of”.
 
     Subsec. (f). [Pub. L. 97–251][/us/pl/97/251] substituted “March 31, 1984” and “September 30, 1983” for “March 31, 1983” and “September 30, 1982”, respectively.
 
-    1979—Subsec. (a)(1). [Pub. L. 96–128, § 501(c)(1)][/us/pl/96/128/s501/c/1], substituted “treatment facilities for” for “treatment facilities of”.
+    1979—Subsec. (a)(1). [Pub. L. 96–128][/us/pl/96/128], § 501(c)(1), substituted “treatment facilities for” for “treatment facilities of”.
 
-    Subsec. (d)(2). [Pub. L. 96–128, § 501(c)(2)][/us/pl/96/128/s501/c/2], substituted “such request unless” for “such request, unless”.
+    Subsec. (d)(2). [Pub. L. 96–128][/us/pl/96/128], § 501(c)(2), substituted “such request unless” for “such request, unless”.
 
  __Effective Date of 1979 Amendment__ 
 
@@ -185,7 +185,7 @@
 
  __Substance Use Disorders and Mental Health Care__ 
 
-[Pub. L. 110–387, title I][/us/pl/110/387], §§ 102–105, Oct. 10, 2008, [122 Stat. 4112–4114][/us/stat/122/4112-4114], provided that:
+[Pub. L. 110–387, title I][/us/pl/110/387/tI], §§ 102–105, Oct. 10, 2008, [122 Stat. 4112–4114][/us/stat/122/4112-4114], provided that:
 
 > “SEC. 102. __FINDINGS ON SUBSTANCE USE DISORDERS AND MENTAL HEALTH.__ 
 
@@ -335,7 +335,7 @@
 
  __Report on Consolidation of Certain Programs__ 
 
-[Pub. L. 104–110, title II, § 202(a)][/us/pl/104/110/s202/a], Feb. 13, 1996, [110 Stat. 770][/us/stat/110/770], provided that: 
+[Pub. L. 104–110, title II][/us/pl/104/110/tII], § 202(a), Feb. 13, 1996, [110 Stat. 770][/us/stat/110/770], provided that: 
 
 > “The Secretary of Veterans Affairs shall submit to Congress, not later than March 1, 1997, a report on the advantages and disadvantages of consolidating into one program the following three programs:
 
@@ -347,7 +347,7 @@
 
  __Loans to Organizations Providing Transitional Housing for Substance Abusers__ 
 
-[Pub. L. 102–54, § 8][/us/pl/102/54/s8], June 13, 1991, [105 Stat. 271][/us/stat/105/271], provided that:
+[Pub. L. 102–54][/us/pl/102/54], § 8, June 13, 1991, [105 Stat. 271][/us/stat/105/271], provided that:
 
 >     “(a)  __Loan Program__  __.—__ 
 
@@ -397,11 +397,11 @@
 
  __Evaluation of Veterans’ Administration Inpatient and Outpatient Drug and Alcohol Treatment Programs__ 
 
-    [Pub. L. 100–690, title II, § 2501][/us/pl/100/690/s2501], Nov. 18, 1988, [102 Stat. 4232][/us/stat/102/4232], directed Administrator of Veterans’ Affairs to conduct an evaluation of inpatient and outpatient drug and alcohol treatment programs operated by the Veterans’ Administration, such evaluation to include a determination of medical advantages and cost-effectiveness of such programs, taking into consideration rates of readmission and the rate of successful rehabilitation, and authorized appropriations for this purpose for fiscal years 1989, 1990, and 1991.
+    [Pub. L. 100–690, title II][/us/pl/100/690/tII], § 2501, Nov. 18, 1988, [102 Stat. 4232][/us/stat/102/4232], directed Administrator of Veterans’ Affairs to conduct an evaluation of inpatient and outpatient drug and alcohol treatment programs operated by the Veterans’ Administration, such evaluation to include a determination of medical advantages and cost-effectiveness of such programs, taking into consideration rates of readmission and the rate of successful rehabilitation, and authorized appropriations for this purpose for fiscal years 1989, 1990, and 1991.
 
  __Ratification for Lapsed Period__ 
 
-    [Pub. L. 100–689, title V, § 502(a)(2)][/us/pl/100/689/s502/a/2], Nov. 18, 1988, [102 Stat. 4179][/us/stat/102/4179], ratified actions by the Administrator of Veterans’ Affairs in providing, during the period beginning Oct. 1, 1988, and ending Nov. 18, 1988, for care and treatment and rehabilitative services under this section.
+    [Pub. L. 100–689, title V][/us/pl/100/689/tV], § 502(a)(2), Nov. 18, 1988, [102 Stat. 4179][/us/stat/102/4179], ratified actions by the Administrator of Veterans’ Affairs in providing, during the period beginning Oct. 1, 1988, and ending Nov. 18, 1988, for care and treatment and rehabilitative services under this section.
 
 ----------
 
@@ -410,81 +410,81 @@
 ----------
 ----------
 
-[/us/pl/96/22/s104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F22%2Fs104%2Fa
+[/us/pl/96/22/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F22%2FtI
 [/us/stat/93/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F50
-[/us/pl/96/128/s501/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F128%2Fs501%2Fc
+[/us/pl/96/128/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F128%2FtV
 [/us/stat/93/987]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F987
-[/us/pl/97/251/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F251%2Fs6
+[/us/pl/97/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F251
 [/us/stat/96/716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F716
-[/us/pl/97/258/s3/k/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs3%2Fk%2F1
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1065]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1065
-[/us/pl/99/108/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F108%2Fs3
+[/us/pl/99/108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F108
 [/us/stat/99/481]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F481
-[/us/pl/99/166/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F166%2Fs101%2Fa
+[/us/pl/99/166/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F166%2FtI
 [/us/stat/99/942]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F942
-[/us/pl/100/687/s1509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F687%2Fs1509
+[/us/pl/100/687/dB/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F687%2FdB%2FtXV
 [/us/stat/102/4137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4137
-[/us/pl/100/689/s502/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F689%2Fs502%2Fa%2F1
+[/us/pl/100/689/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F689%2FtV
 [/us/stat/102/4179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4179
-[/us/pl/102/54/s14/b/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54%2Fs14%2Fb%2F13
+[/us/pl/102/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54
 [/us/stat/105/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F284
 [/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/404-406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F404-406
-[/us/pl/102/86/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F86%2Fs303
+[/us/pl/102/86/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F86%2FtIII
 [/us/stat/105/416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F416
-[/us/pl/103/452/s103/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F452%2Fs103%2Fb
+[/us/pl/103/452/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F452%2FtI
 [/us/stat/108/4786]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4786
-[/us/pl/104/110/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F110%2Fs101%2Fb
+[/us/pl/104/110/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F110%2FtI
 [/us/stat/110/768]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F768
-[/us/pl/105/114/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F114%2Fs202%2Fb
+[/us/pl/105/114/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F114%2FtII
 [/us/stat/111/2287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2287
-[/us/pl/106/117/s114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117%2Fs114
+[/us/pl/106/117/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117%2FtI
 [/us/stat/113/1558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1558
-[/us/pl/106/419/s404/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419%2Fs404%2Fa%2F4
+[/us/pl/106/419/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419%2FtIV
 [/us/stat/114/1864]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1864
-[/us/pl/107/95/s8/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F95%2Fs8%2Fc
+[/us/pl/107/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F95
 [/us/stat/115/920]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F920
 [/us/pl/107/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F95
 [/us/pl/106/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419
-[/us/pl/106/117/s114/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117%2Fs114%2Fa
-[/us/pl/106/117/s114/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117%2Fs114%2Fa%2F2
-[/us/pl/106/117/s114/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117%2Fs114%2Fb
-[/us/pl/105/114/s202/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F114%2Fs202%2Fb%2F2
-[/us/pl/105/114/s202/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F114%2Fs202%2Fb%2F1
-[/us/pl/105/114/s202/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F114%2Fs202%2Fb%2F1%2FB
+[/us/pl/106/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117
+[/us/pl/106/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117
+[/us/pl/106/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117
+[/us/pl/105/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F114
+[/us/pl/105/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F114
+[/us/pl/105/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F114
 [/us/pl/104/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F110
 [/us/pl/103/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F452
-[/us/pl/102/83/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fa
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/usc/t38/s620A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs620A
-[/us/pl/102/83/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fb%2F1
-[/us/pl/102/83/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fb%2F1
-[/us/pl/102/83/s4/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fa%2F3
-[/us/pl/102/83/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fb%2F1
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/pl/102/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F86
-[/us/pl/102/83/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5
-[/us/pl/102/83/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fb%2F1
-[/us/pl/102/83/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fb%2F1
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/pl/102/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54
-[/us/pl/102/83/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fb%2F1
-[/us/pl/100/689/s502/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F689%2Fs502%2Fa%2F1
-[/us/pl/100/689/s502/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F689%2Fs502%2Fb
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/100/689]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F689
+[/us/pl/100/689]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F689
 [/us/pl/100/687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F687
 [/us/pl/100/689]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F689
-[/us/pl/99/166/s101/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F166%2Fs101%2Fb%2F1
-[/us/pl/99/166/s101/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F166%2Fs101%2Fa%2F1
-[/us/pl/99/166/s101/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F166%2Fs101%2Fa%2F2
+[/us/pl/99/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F166
+[/us/pl/99/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F166
+[/us/pl/99/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F166
 [/us/pl/99/108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F108
-[/us/pl/99/166/s101/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F166%2Fs101%2Fa%2F3
+[/us/pl/99/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F166
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/pl/97/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F251
-[/us/pl/96/128/s501/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F128%2Fs501%2Fc%2F1
-[/us/pl/96/128/s501/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F128%2Fs501%2Fc%2F2
+[/us/pl/96/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F128
+[/us/pl/96/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F128
 [/us/pl/96/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F128
 [/us/pl/96/128/s601/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F128%2Fs601%2Fb
 [/us/usc/t38/s1114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1114
 [/us/pl/96/22/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F22%2Fs107
 [/us/usc/t38/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1701
-[/us/pl/110/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F387
+[/us/pl/110/387/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F387%2FtI
 [/us/stat/122/4112-4114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4112-4114
 [/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
 [/us/stat/120/2304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2304
@@ -492,18 +492,18 @@
 [/us/pl/104/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F110
 [/us/pl/104/110/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F110%2Fs103
 [/us/usc/t38/s1710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1710
-[/us/pl/104/110/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F110%2Fs202%2Fa
+[/us/pl/104/110/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F110%2FtII
 [/us/stat/110/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F770
 [/us/usc/t38/s1720A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1720A
 [/us/pl/100/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F322
 [/us/usc/t38/s1712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1712
 [/us/pl/102/54/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54%2Fs7
 [/us/usc/t38/s1718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1718
-[/us/pl/102/54/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54%2Fs8
+[/us/pl/102/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54
 [/us/stat/105/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F271
-[/us/pl/100/690/s2501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs2501
+[/us/pl/100/690/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtII
 [/us/stat/102/4232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4232
-[/us/pl/100/689/s502/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F689%2Fs502%2Fa%2F2
+[/us/pl/100/689/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F689%2FtV
 [/us/stat/102/4179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4179
 
 

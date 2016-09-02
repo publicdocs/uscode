@@ -423,7 +423,7 @@
 
     Any monthly housing stipend payable under this section during the academic year beginning on August 1 of a calendar year shall be determined utilizing rates for basic allowances for housing payable under [section 403 of title 37][/us/usc/t37/s403] in effect as of January 1 of such calendar year.
 
-(Added [Pub. L. 110–252, title V, § 5003(a)(1)][/us/pl/110/252/s5003/a/1], June 30, 2008, [122 Stat. 2363][/us/stat/122/2363]; amended [Pub. L. 111–32, title X, § 1002(b)][/us/pl/111/32/s1002/b], June 24, 2009, [123 Stat. 1889][/us/stat/123/1889]; [Pub. L. 111–275, title X, § 1001(g)(1)][/us/pl/111/275/s1001/g/1]–(3), Oct. 13, 2010, [124 Stat. 2896][/us/stat/124/2896]; [Pub. L. 111–377, title I][/us/pl/111/377], §§ 102(a), (b), 103(a), (b), 104(a), (b), 105(a)–(c), 106(a), 112(a), Jan. 4, 2011, [124 Stat. 4108–4110][/us/stat/124/4108-4110], 4112–4117, 4121; [Pub. L. 114–58, title VI, § 601(16)][/us/pl/114/58/s601/16]–(18), Sept. 30, 2015, [129 Stat. 539][/us/stat/129/539].)
+(Added [Pub. L. 110–252, title V][/us/pl/110/252/tV], § 5003(a)(1), June 30, 2008, [122 Stat. 2363][/us/stat/122/2363]; amended [Pub. L. 111–32, title X][/us/pl/111/32/tX], § 1002(b), June 24, 2009, [123 Stat. 1889][/us/stat/123/1889]; [Pub. L. 111–275, title X][/us/pl/111/275/tX], § 1001(g)(1)–(3), Oct. 13, 2010, [124 Stat. 2896][/us/stat/124/2896]; [Pub. L. 111–377, title I][/us/pl/111/377/tI], §§ 102(a), (b), 103(a), (b), 104(a), (b), 105(a)–(c), 106(a), 112(a), Jan. 4, 2011, [124 Stat. 4108–4110][/us/stat/124/4108-4110], 4112–4117, 4121; [Pub. L. 114–58, title VI][/us/pl/114/58/tVI], § 601(16)–(18), Sept. 30, 2015, [129 Stat. 539][/us/stat/129/539].)
 
  __References in Text__ 
 
@@ -431,69 +431,69 @@
 
  __Amendments__ 
 
-    2015—[Pub. L. 114–58, § 601(16)][/us/pl/114/58/s601/16], substituted “1070a(b)” for “1070a” wherever appearing.
+    2015—[Pub. L. 114–58][/us/pl/114/58], § 601(16), substituted “1070a(b)” for “1070a” wherever appearing.
 
-    Subsec. (e)(2)(A)(iii). [Pub. L. 114–58, § 601(17)][/us/pl/114/58/s601/17], struck out second period at end.
+    Subsec. (e)(2)(A)(iii). [Pub. L. 114–58][/us/pl/114/58], § 601(17), struck out second period at end.
 
-    Subsec. (g)(3)(A)(iii). [Pub. L. 114–58, § 601(18)][/us/pl/114/58/s601/18], substituted “books,” for “books”.
+    Subsec. (g)(3)(A)(iii). [Pub. L. 114–58][/us/pl/114/58], § 601(18), substituted “books,” for “books”.
 
-    2011—Subsec. (b). [Pub. L. 111–377, § 105(a)][/us/pl/111/377/s105/a], struck out “is offered by an institution of higher learning (as that term is defined in section 3452(f)) and” before “is approved”.
+    2011—Subsec. (b). [Pub. L. 111–377][/us/pl/111/377], § 105(a), struck out “is offered by an institution of higher learning (as that term is defined in section 3452(f)) and” before “is approved”.
 
-    Subsec. (c). [Pub. L. 111–377, § 102(a)(2)][/us/pl/111/377/s102/a/2], amended heading generally. Prior to amendment, heading read as follows: “Amount of Educational Assistance”.
+    Subsec. (c). [Pub. L. 111–377][/us/pl/111/377], § 102(a)(2), amended heading generally. Prior to amendment, heading read as follows: “Amount of Educational Assistance”.
 
-    [Pub. L. 111–377, § 102(a)(1)(A)][/us/pl/111/377/s102/a/1/A], inserted “leading to a degree at an institution of higher learning (as that term is defined in section 3452(f))” after “program of education” in introductory provisions.
+    [Pub. L. 111–377][/us/pl/111/377], § 102(a)(1)(A), inserted “leading to a degree at an institution of higher learning (as that term is defined in section 3452(f))” after “program of education” in introductory provisions.
 
-    Subsec. (c)(1). [Pub. L. 111–377, § 112(a)(1)][/us/pl/111/377/s112/a/1], which directed amendment identical to amendment by [Pub. L. 111–275, § 1001(g)(1)][/us/pl/111/275/s1001/g/1], could not be executed. See 2010 Amendment note below.
+    Subsec. (c)(1). [Pub. L. 111–377][/us/pl/111/377], § 112(a)(1), which directed amendment identical to amendment by [Pub. L. 111–275][/us/pl/111/275], § 1001(g)(1), could not be executed. See 2010 Amendment note below.
 
-    Subsec. (c)(1)(A). [Pub. L. 111–377, § 102(a)(1)(B)][/us/pl/111/377/s102/a/1/B], added subpar. (A) and struck out former subpar. (A) which read as follows: “An amount equal to the established charges for the program of education, except that the amount payable under this subparagraph may not exceed the maximum amount of established charges regularly charged in-State students for full-time pursuit of approved programs of education for undergraduates by the public institution of higher learning offering approved programs of education for undergraduates in the State in which the individual is enrolled that has the highest rate of regularly-charged established charges for such programs of education among all public institutions of higher learning in such State offering such programs of education.”
+    Subsec. (c)(1)(A). [Pub. L. 111–377][/us/pl/111/377], § 102(a)(1)(B), added subpar. (A) and struck out former subpar. (A) which read as follows: “An amount equal to the established charges for the program of education, except that the amount payable under this subparagraph may not exceed the maximum amount of established charges regularly charged in-State students for full-time pursuit of approved programs of education for undergraduates by the public institution of higher learning offering approved programs of education for undergraduates in the State in which the individual is enrolled that has the highest rate of regularly-charged established charges for such programs of education among all public institutions of higher learning in such State offering such programs of education.”
 
-    Subsec. (c)(1)(B). [Pub. L. 111–377, § 102(b)][/us/pl/111/377/s102/b], redesignated cl. (ii) as (iv), added cls. (i) to (iii), and struck out former cl. (i) which read as follows: “For each month the individual pursues the program of education (other than, in the case of assistance under this section only, a program of education offered through distance learning), a monthly housing stipend amount equal to the monthly amount of the basic allowance for housing payable under [section 403 of title 37][/us/usc/t37/s403] for a member with dependents in pay grade E–5 residing in the military housing area that encompasses all or the majority portion of the ZIP code area in which is located the institution of higher learning at which the individual is enrolled.”
+    Subsec. (c)(1)(B). [Pub. L. 111–377][/us/pl/111/377], § 102(b), redesignated cl. (ii) as (iv), added cls. (i) to (iii), and struck out former cl. (i) which read as follows: “For each month the individual pursues the program of education (other than, in the case of assistance under this section only, a program of education offered through distance learning), a monthly housing stipend amount equal to the monthly amount of the basic allowance for housing payable under [section 403 of title 37][/us/usc/t37/s403] for a member with dependents in pay grade E–5 residing in the military housing area that encompasses all or the majority portion of the ZIP code area in which is located the institution of higher learning at which the individual is enrolled.”
 
-    Subsec. (e). [Pub. L. 111–377, § 103(b)][/us/pl/111/377/s103/b], amended heading generally. Prior to amendment, heading read as follows: “Programs of Education Pursued on Active Duty”.
+    Subsec. (e). [Pub. L. 111–377][/us/pl/111/377], § 103(b), amended heading generally. Prior to amendment, heading read as follows: “Programs of Education Pursued on Active Duty”.
 
-    Subsec. (e)(1). [Pub. L. 111–377, § 103(a)(1)][/us/pl/111/377/s103/a/1], inserted “leading to a degree” after “approved program of education”.
+    Subsec. (e)(1). [Pub. L. 111–377][/us/pl/111/377], § 103(a)(1), inserted “leading to a degree” after “approved program of education”.
 
-    Subsec. (e)(2). [Pub. L. 111–377, § 103(a)(2)(A)][/us/pl/111/377/s103/a/2/A], (C), substituted “The amounts” for “The amount”, inserted “leading to a degree” after “program of education”, and substituted “are as follows:” for “is the lesser of—” in introductory provisions.
+    Subsec. (e)(2). [Pub. L. 111–377][/us/pl/111/377], § 103(a)(2)(A), (C), substituted “The amounts” for “The amount”, inserted “leading to a degree” after “program of education”, and substituted “are as follows:” for “is the lesser of—” in introductory provisions.
 
-    Subsec. (e)(2)(A). [Pub. L. 111–377, § 103(a)(2)(C)(ii)][/us/pl/111/377/s103/a/2/C/ii], inserted subpar. (A) designation and introductory provisions. Former subpar. (A) redesignated (A)(i).
+    Subsec. (e)(2)(A). [Pub. L. 111–377][/us/pl/111/377], § 103(a)(2)(C)(ii), inserted subpar. (A) designation and introductory provisions. Former subpar. (A) redesignated (A)(i).
 
-    Subsec. (e)(2)(A)(i). [Pub. L. 111–377, § 103(a)(2)(D)][/us/pl/111/377/s103/a/2/D], added cl. (i) and struck out former cl. (i) which read as follows: “the established charges which similarly circumstanced nonveterans enrolled in the program of education involved would be required to pay; or”.
+    Subsec. (e)(2)(A)(i). [Pub. L. 111–377][/us/pl/111/377], § 103(a)(2)(D), added cl. (i) and struck out former cl. (i) which read as follows: “the established charges which similarly circumstanced nonveterans enrolled in the program of education involved would be required to pay; or”.
 
-    [Pub. L. 111–377, § 103(a)(2)(B)][/us/pl/111/377/s103/a/2/B], redesignated subpar. (A) as cl. (i) of subpar. (A).
+    [Pub. L. 111–377][/us/pl/111/377], § 103(a)(2)(B), redesignated subpar. (A) as cl. (i) of subpar. (A).
 
-    Subsec. (e)(2)(A)(ii). [Pub. L. 111–377, § 103(a)(2)(D)][/us/pl/111/377/s103/a/2/D], added cl. (ii).
+    Subsec. (e)(2)(A)(ii). [Pub. L. 111–377][/us/pl/111/377], § 103(a)(2)(D), added cl. (ii).
 
-    Subsec. (e)(2)(A)(iii). [Pub. L. 111–377, § 112(a)(2)][/us/pl/111/377/s112/a/2], inserted period at end.
+    Subsec. (e)(2)(A)(iii). [Pub. L. 111–377][/us/pl/111/377], § 112(a)(2), inserted period at end.
 
-    [Pub. L. 111–377, § 103(a)(2)(B)][/us/pl/111/377/s103/a/2/B], redesignated subpar. (B) of par. (2) as cl. (iii) of subpar. (A).
+    [Pub. L. 111–377][/us/pl/111/377], § 103(a)(2)(B), redesignated subpar. (B) of par. (2) as cl. (iii) of subpar. (A).
 
-    Subsec. (e)(2)(B), (C). [Pub. L. 111–377, § 103(a)(2)(E)][/us/pl/111/377/s103/a/2/E], added subpars. (B) and (C). Former subpar. (B) redesignated (A)(iii).
+    Subsec. (e)(2)(B), (C). [Pub. L. 111–377][/us/pl/111/377], § 103(a)(2)(E), added subpars. (B) and (C). Former subpar. (B) redesignated (A)(iii).
 
-    Subsec. (f)(1). [Pub. L. 111–377, § 104(a)(1)][/us/pl/111/377/s104/a/1], inserted “whether a program of education pursued on active duty, a program of education leading to a degree, or a program of education other than a program of education leading to a degree” before period at end.
+    Subsec. (f)(1). [Pub. L. 111–377][/us/pl/111/377], § 104(a)(1), inserted “whether a program of education pursued on active duty, a program of education leading to a degree, or a program of education other than a program of education leading to a degree” before period at end.
 
-    Subsec. (f)(2). [Pub. L. 111–377, § 104(a)(2)][/us/pl/111/377/s104/a/2], inserted “covered by this subsection” after “program of education” in introductory provisions.
+    Subsec. (f)(2). [Pub. L. 111–377][/us/pl/111/377], § 104(a)(2), inserted “covered by this subsection” after “program of education” in introductory provisions.
 
-    Subsec. (f)(2)(A)(i). [Pub. L. 111–377, § 104(b)][/us/pl/111/377/s104/b], amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “the established charges which similarly circumstanced nonveterans enrolled in the program of education involved would be required to pay; or”.
+    Subsec. (f)(2)(A)(i). [Pub. L. 111–377][/us/pl/111/377], § 104(b), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “the established charges which similarly circumstanced nonveterans enrolled in the program of education involved would be required to pay; or”.
 
-    Subsec. (g). [Pub. L. 111–377, § 105(b)(3)][/us/pl/111/377/s105/b/3], added subsec. (g). Former subsec. (g) redesignated (h).
+    Subsec. (g). [Pub. L. 111–377][/us/pl/111/377], § 105(b)(3), added subsec. (g). Former subsec. (g) redesignated (h).
 
-    Subsec. (h). [Pub. L. 111–377, § 105(c)][/us/pl/111/377/s105/c], inserted “, and under subparagraphs (A)(i), (C), and (D) of subsection (g)(3),” after “(f)(2)(A)”.
+    Subsec. (h). [Pub. L. 111–377][/us/pl/111/377], § 105(c), inserted “, and under subparagraphs (A)(i), (C), and (D) of subsection (g)(3),” after “(f)(2)(A)”.
 
-    [Pub. L. 111–377, § 105(b)(1)][/us/pl/111/377/s105/b/1], (2), redesignated subsec. (g) as (h) and struck out former subsec. (h) which defined “established charges” for purposes of this section and provided the basis of determination of established charges.
+    [Pub. L. 111–377][/us/pl/111/377], § 105(b)(1), (2), redesignated subsec. (g) as (h) and struck out former subsec. (h) which defined “established charges” for purposes of this section and provided the basis of determination of established charges.
 
-    Subsec. (i). [Pub. L. 111–377, § 106(a)][/us/pl/111/377/s106/a], added subsec. (i).
+    Subsec. (i). [Pub. L. 111–377][/us/pl/111/377], § 106(a), added subsec. (i).
 
-    2010—Subsec. (c)(1). [Pub. L. 111–275, § 1001(g)(1)][/us/pl/111/275/s1001/g/1], substituted “higher learning” for “higher education” wherever appearing.
+    2010—Subsec. (c)(1). [Pub. L. 111–275][/us/pl/111/275], § 1001(g)(1), substituted “higher learning” for “higher education” wherever appearing.
 
-    Subsec. (d)(3). [Pub. L. 111–275, § 1001(g)(2)][/us/pl/111/275/s1001/g/2], substituted “assistance under this chapter” for “assistance this chapter”.
+    Subsec. (d)(3). [Pub. L. 111–275][/us/pl/111/275], § 1001(g)(2), substituted “assistance under this chapter” for “assistance this chapter”.
 
-    Subsec. (e)(2)(B). [Pub. L. 111–275, § 1001(g)(3)][/us/pl/111/275/s1001/g/3], inserted period at end.
+    Subsec. (e)(2)(B). [Pub. L. 111–275][/us/pl/111/275], § 1001(g)(3), inserted period at end.
 
     2009—Subsec. (c)(1). [Pub. L. 111–32][/us/pl/111/32] substituted “paragraph (1), (2), or (9) of section 3311(b)” for “section 3311(b)(1) or 3311(b)(2)”.
 
  __Effective Date of 2011 Amendment__ 
 
-[Pub. L. 111–377, title I, § 102(c)][/us/pl/111/377/s102/c], Jan. 4, 2011, [124 Stat. 4110][/us/stat/124/4110], provided that:
+[Pub. L. 111–377, title I][/us/pl/111/377/tI], § 102(c), Jan. 4, 2011, [124 Stat. 4110][/us/stat/124/4110], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -503,7 +503,7 @@
 
 >     Clause (iii) of [section 3313(c)(1)(B) of title 38][/us/usc/t38/s3313/c/1/B], United States Code (as added by subsection (b)(2) of this section), shall take effect on October 1, 2011, and shall apply with respect to amounts payable for educational assistance for pursuit of programs of education as covered by such clause on or after that date.”
 
-[Pub. L. 111–377, title I, § 103(c)][/us/pl/111/377/s103/c], Jan. 4, 2011, [124 Stat. 4112][/us/stat/124/4112], provided that:
+[Pub. L. 111–377, title I][/us/pl/111/377/tI], § 103(c), Jan. 4, 2011, [124 Stat. 4112][/us/stat/124/4112], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -513,15 +513,15 @@
 
 >     Subparagraph (B) of [section 3313(e)(2) of title 38][/us/usc/t38/s3313/e/2], United States Code (as added by subsection (a)(2)(E) of this section), shall take effect on October 1, 2011, and shall apply with respect to amounts payable for educational assistance for pursuit of programs of education on or after that date.”
 
-[Pub. L. 111–377, title I, § 104(c)][/us/pl/111/377/s104/c], Jan. 4, 2011, [124 Stat. 4112][/us/stat/124/4112], provided that: 
+[Pub. L. 111–377, title I][/us/pl/111/377/tI], § 104(c), Jan. 4, 2011, [124 Stat. 4112][/us/stat/124/4112], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall take effect on August 1, 2011, and shall apply with respect to amounts payable for educational assistance for pursuit of programs of education on or after that date.”
 
-[Pub. L. 111–377, title I, § 105(d)][/us/pl/111/377/s105/d], Jan. 4, 2011, [124 Stat. 4117][/us/stat/124/4117], provided that: 
+[Pub. L. 111–377, title I][/us/pl/111/377/tI], § 105(d), Jan. 4, 2011, [124 Stat. 4117][/us/stat/124/4117], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall take effect on October 1, 2011, and shall apply with respect to amounts payable for educational assistance for pursuit of programs of education on or after that date.”
 
-[Pub. L. 111–377, title I, § 106(b)][/us/pl/111/377/s106/b], Jan. 4, 2011, [124 Stat. 4118][/us/stat/124/4118], provided that: 
+[Pub. L. 111–377, title I][/us/pl/111/377/tI], § 106(b), Jan. 4, 2011, [124 Stat. 4118][/us/stat/124/4118], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall take effect on August 1, 2011.”
 
@@ -531,7 +531,7 @@
 
  __Preservation of Higher Rates for Tuition and Fees for Programs of Education at Non-Public Institutions of Higher Learning Pursued by Individuals Enrolled in Such Programs Prior to Change in Maximum Amount__ 
 
-[Pub. L. 112–26, § 2][/us/pl/112/26/s2], Aug. 3, 2011, [125 Stat. 268][/us/stat/125/268], provided that:
+[Pub. L. 112–26][/us/pl/112/26], § 2, Aug. 3, 2011, [125 Stat. 268][/us/stat/125/268], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -575,65 +575,65 @@
 [/us/usc/t37/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs403
 [/us/usc/t37/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs403
 [/us/usc/t37/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs403
-[/us/pl/110/252/s5003/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F252%2Fs5003%2Fa%2F1
+[/us/pl/110/252/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F252%2FtV
 [/us/stat/122/2363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2363
-[/us/pl/111/32/s1002/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F32%2Fs1002%2Fb
+[/us/pl/111/32/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F32%2FtX
 [/us/stat/123/1889]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1889
-[/us/pl/111/275/s1001/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275%2Fs1001%2Fg%2F1
+[/us/pl/111/275/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275%2FtX
 [/us/stat/124/2896]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2896
-[/us/pl/111/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F377
+[/us/pl/111/377/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F377%2FtI
 [/us/stat/124/4108-4110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4108-4110
-[/us/pl/114/58/s601/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F58%2Fs601%2F16
+[/us/pl/114/58/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F58%2FtVI
 [/us/stat/129/539]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F539
 [/us/usc/t20/s1070a/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1070a%2Fb
-[/us/pl/114/58/s601/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F58%2Fs601%2F16
-[/us/pl/114/58/s601/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F58%2Fs601%2F17
-[/us/pl/114/58/s601/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F58%2Fs601%2F18
-[/us/pl/111/377/s105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F377%2Fs105%2Fa
-[/us/pl/111/377/s102/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F377%2Fs102%2Fa%2F2
-[/us/pl/111/377/s102/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F377%2Fs102%2Fa%2F1%2FA
-[/us/pl/111/377/s112/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F377%2Fs112%2Fa%2F1
-[/us/pl/111/275/s1001/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275%2Fs1001%2Fg%2F1
-[/us/pl/111/377/s102/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F377%2Fs102%2Fa%2F1%2FB
-[/us/pl/111/377/s102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F377%2Fs102%2Fb
+[/us/pl/114/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F58
+[/us/pl/114/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F58
+[/us/pl/114/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F58
+[/us/pl/111/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F377
+[/us/pl/111/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F377
+[/us/pl/111/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F377
+[/us/pl/111/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F377
+[/us/pl/111/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275
+[/us/pl/111/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F377
+[/us/pl/111/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F377
 [/us/usc/t37/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs403
-[/us/pl/111/377/s103/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F377%2Fs103%2Fb
-[/us/pl/111/377/s103/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F377%2Fs103%2Fa%2F1
-[/us/pl/111/377/s103/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F377%2Fs103%2Fa%2F2%2FA
-[/us/pl/111/377/s103/a/2/C/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F377%2Fs103%2Fa%2F2%2FC%2Fii
-[/us/pl/111/377/s103/a/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F377%2Fs103%2Fa%2F2%2FD
-[/us/pl/111/377/s103/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F377%2Fs103%2Fa%2F2%2FB
-[/us/pl/111/377/s103/a/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F377%2Fs103%2Fa%2F2%2FD
-[/us/pl/111/377/s112/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F377%2Fs112%2Fa%2F2
-[/us/pl/111/377/s103/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F377%2Fs103%2Fa%2F2%2FB
-[/us/pl/111/377/s103/a/2/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F377%2Fs103%2Fa%2F2%2FE
-[/us/pl/111/377/s104/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F377%2Fs104%2Fa%2F1
-[/us/pl/111/377/s104/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F377%2Fs104%2Fa%2F2
-[/us/pl/111/377/s104/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F377%2Fs104%2Fb
-[/us/pl/111/377/s105/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F377%2Fs105%2Fb%2F3
-[/us/pl/111/377/s105/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F377%2Fs105%2Fc
-[/us/pl/111/377/s105/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F377%2Fs105%2Fb%2F1
-[/us/pl/111/377/s106/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F377%2Fs106%2Fa
-[/us/pl/111/275/s1001/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275%2Fs1001%2Fg%2F1
-[/us/pl/111/275/s1001/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275%2Fs1001%2Fg%2F2
-[/us/pl/111/275/s1001/g/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275%2Fs1001%2Fg%2F3
+[/us/pl/111/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F377
+[/us/pl/111/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F377
+[/us/pl/111/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F377
+[/us/pl/111/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F377
+[/us/pl/111/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F377
+[/us/pl/111/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F377
+[/us/pl/111/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F377
+[/us/pl/111/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F377
+[/us/pl/111/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F377
+[/us/pl/111/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F377
+[/us/pl/111/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F377
+[/us/pl/111/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F377
+[/us/pl/111/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F377
+[/us/pl/111/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F377
+[/us/pl/111/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F377
+[/us/pl/111/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F377
+[/us/pl/111/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F377
+[/us/pl/111/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275
+[/us/pl/111/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275
+[/us/pl/111/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275
 [/us/pl/111/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F32
-[/us/pl/111/377/s102/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F377%2Fs102%2Fc
+[/us/pl/111/377/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F377%2FtI
 [/us/stat/124/4110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4110
 [/us/usc/t38/s3313/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3313%2Fc%2F1%2FB
-[/us/pl/111/377/s103/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F377%2Fs103%2Fc
+[/us/pl/111/377/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F377%2FtI
 [/us/stat/124/4112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4112
 [/us/usc/t38/s3313/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3313%2Fe%2F2
-[/us/pl/111/377/s104/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F377%2Fs104%2Fc
+[/us/pl/111/377/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F377%2FtI
 [/us/stat/124/4112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4112
-[/us/pl/111/377/s105/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F377%2Fs105%2Fd
+[/us/pl/111/377/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F377%2FtI
 [/us/stat/124/4117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4117
-[/us/pl/111/377/s106/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F377%2Fs106%2Fb
+[/us/pl/111/377/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F377%2FtI
 [/us/stat/124/4118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4118
 [/us/pl/111/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F32
 [/us/pl/111/32/s1002/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F32%2Fs1002%2Fd%2F1
 [/us/usc/t38/s3311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3311
-[/us/pl/112/26/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F26%2Fs2
+[/us/pl/112/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F26
 [/us/stat/125/268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F268
 [/us/usc/t38/s3313/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3313%2Fc
 [/us/pl/111/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F377

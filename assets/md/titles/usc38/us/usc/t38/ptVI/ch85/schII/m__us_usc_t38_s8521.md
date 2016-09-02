@@ -17,7 +17,7 @@
 
     The fact of death of a veteran (admitted as such), or a dependent or survivor of a veteran receiving care under the penultimate sentence of [section 1781(b) of this title][/us/usc/t38/s1781/b], in a facility or hospital, while being furnished care or treatment therein by the Department, leaving no spouse, next of kin, or heirs, shall give rise to a conclusive presumption of a valid contract for the disposition in accordance with this subchapter, but subject to its conditions, of all property described in [section 8520 of this title][/us/usc/t38/s8520] owned by said decedent at death and as to which such person dies intestate.
 
-([Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1260][/us/stat/72/1260], § 5221; [Pub. L. 94–581, title II, § 208(c)][/us/pl/94/581/s208/c], Oct. 21, 1976, [90 Stat. 2860][/us/stat/90/2860]; [Pub. L. 99–576, title VII, § 701(100)][/us/pl/99/576/s701/100], Oct. 28, 1986, [100 Stat. 3300][/us/stat/100/3300]; renumbered § 8521 and amended [Pub. L. 102–40, title IV, § 402(b)(1)][/us/pl/102/40/s402/b/1], (d)(1), May 7, 1991, [105 Stat. 238][/us/stat/105/238], 239; [Pub. L. 102–83][/us/pl/102/83], §§ 4(a)(3), (4), 5(c)(1), Aug. 6, 1991, [105 Stat. 404][/us/stat/105/404], 406; [Pub. L. 107–135, title II, § 208(e)(9)][/us/pl/107/135/s208/e/9], Jan. 23, 2002, [115 Stat. 2464][/us/stat/115/2464].)
+([Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1260][/us/stat/72/1260], § 5221; [Pub. L. 94–581, title II][/us/pl/94/581/tII], § 208(c), Oct. 21, 1976, [90 Stat. 2860][/us/stat/90/2860]; [Pub. L. 99–576, title VII][/us/pl/99/576/tVII], § 701(100), Oct. 28, 1986, [100 Stat. 3300][/us/stat/100/3300]; renumbered § 8521 and amended [Pub. L. 102–40, title IV][/us/pl/102/40/tIV], § 402(b)(1), (d)(1), May 7, 1991, [105 Stat. 238][/us/stat/105/238], 239; [Pub. L. 102–83][/us/pl/102/83], §§ 4(a)(3), (4), 5(c)(1), Aug. 6, 1991, [105 Stat. 404][/us/stat/105/404], 406; [Pub. L. 107–135, title II][/us/pl/107/135/tII], § 208(e)(9), Jan. 23, 2002, [115 Stat. 2464][/us/stat/115/2464].)
 
  __Amendments__ 
 
@@ -46,15 +46,15 @@
 [/us/usc/t38/s8520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs8520
 [/us/pl/85/857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F857
 [/us/stat/72/1260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1260
-[/us/pl/94/581/s208/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F581%2Fs208%2Fc
+[/us/pl/94/581/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F581%2FtII
 [/us/stat/90/2860]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2860
-[/us/pl/99/576/s701/100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2Fs701%2F100
+[/us/pl/99/576/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2FtVII
 [/us/stat/100/3300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3300
-[/us/pl/102/40/s402/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs402%2Fb%2F1
+[/us/pl/102/40/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2FtIV
 [/us/stat/105/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F238
 [/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F404
-[/us/pl/107/135/s208/e/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F135%2Fs208%2Fe%2F9
+[/us/pl/107/135/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F135%2FtII
 [/us/stat/115/2464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2464
 [/us/pl/107/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F135
 [/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40

@@ -17,7 +17,7 @@
 
     It is the purpose of this subchapter to strengthen the medical programs at Department facilities and improve the quality of health care provided veterans under this title by authorizing the Secretary to enter into agreements with health-care providers in order to share health-care resources with, and receive health-care resources from, such providers while ensuring no diminution of services to veterans.
 
-(Added [Pub. L. 89–785, title II, § 203][/us/pl/89/785/s203], Nov. 7, 1966, [80 Stat. 1373][/us/stat/80/1373], § 5051; amended [Pub. L. 101–366, title II, § 202(a)][/us/pl/101/366/s202/a], Aug. 15, 1990, [104 Stat. 438][/us/stat/104/438]; renumbered § 8151, [Pub. L. 102–40, title IV, § 402(b)(1)][/us/pl/102/40/s402/b/1], May 7, 1991, [105 Stat. 238][/us/stat/105/238]; [Pub. L. 102–83, § 4(a)(3)][/us/pl/102/83/s4/a/3], (4), (b)(1), (2)(E), Aug. 6, 1991, [105 Stat. 404][/us/stat/105/404], 405; [Pub. L. 103–210, § 3(a)][/us/pl/103/210/s3/a], Dec. 20, 1993, [107 Stat. 2497][/us/stat/107/2497]; [Pub. L. 104–262, title III, § 301(a)][/us/pl/104/262/s301/a], Oct. 9, 1996, [110 Stat. 3191][/us/stat/110/3191].)
+(Added [Pub. L. 89–785, title II][/us/pl/89/785/tII], § 203, Nov. 7, 1966, [80 Stat. 1373][/us/stat/80/1373], § 5051; amended [Pub. L. 101–366, title II][/us/pl/101/366/tII], § 202(a), Aug. 15, 1990, [104 Stat. 438][/us/stat/104/438]; renumbered § 8151, [Pub. L. 102–40, title IV][/us/pl/102/40/tIV], § 402(b)(1), May 7, 1991, [105 Stat. 238][/us/stat/105/238]; [Pub. L. 102–83][/us/pl/102/83], § 4(a)(3), (4), (b)(1), (2)(E), Aug. 6, 1991, [105 Stat. 404][/us/stat/105/404], 405; [Pub. L. 103–210][/us/pl/103/210], § 3(a), Dec. 20, 1993, [107 Stat. 2497][/us/stat/107/2497]; [Pub. L. 104–262, title III][/us/pl/104/262/tIII], § 301(a), Oct. 9, 1996, [110 Stat. 3191][/us/stat/110/3191].)
 
  __Amendments__ 
 
@@ -38,17 +38,17 @@
 ----------
 ----------
 
-[/us/pl/89/785/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F785%2Fs203
+[/us/pl/89/785/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F785%2FtII
 [/us/stat/80/1373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1373
-[/us/pl/101/366/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F366%2Fs202%2Fa
+[/us/pl/101/366/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F366%2FtII
 [/us/stat/104/438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F438
-[/us/pl/102/40/s402/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs402%2Fb%2F1
+[/us/pl/102/40/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2FtIV
 [/us/stat/105/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F238
-[/us/pl/102/83/s4/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fa%2F3
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F404
-[/us/pl/103/210/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F210%2Fs3%2Fa
+[/us/pl/103/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F210
 [/us/stat/107/2497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2497
-[/us/pl/104/262/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F262%2Fs301%2Fa
+[/us/pl/104/262/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F262%2FtIII
 [/us/stat/110/3191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3191
 [/us/pl/104/262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F262
 [/us/pl/103/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F210

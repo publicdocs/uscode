@@ -17,7 +17,7 @@
 
  __Amendments__ 
 
-    1996—[Pub. L. 104–275, title IV, § 405(b)(2)(A)][/us/pl/104/275/s405/b/2/A], Oct. 9, 1996, [110 Stat. 3339][/us/stat/110/3339], substituted “SERVICEMEMBERS’ GROUP” for “SERVICEMEN’S GROUP”.
+    1996—[Pub. L. 104–275, title IV][/us/pl/104/275/tIV], § 405(b)(2)(A), Oct. 9, 1996, [110 Stat. 3339][/us/stat/110/3339], substituted “SERVICEMEMBERS’ GROUP” for “SERVICEMEN’S GROUP”.
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/104/275/s405/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275%2Fs405%2Fb%2F2%2FA
+[/us/pl/104/275/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275%2FtIV
 [/us/stat/110/3339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3339
 
 

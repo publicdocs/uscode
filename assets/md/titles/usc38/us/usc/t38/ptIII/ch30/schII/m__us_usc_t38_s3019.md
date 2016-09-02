@@ -25,13 +25,13 @@
 
         (2) An individual’s period of entitlement to educational assistance under this chapter shall be charged at the rate of one month for each amount of assistance paid to the individual under this section in excess of $600 that is equal to the amount of the monthly educational assistance allowance which the individual is otherwise eligible to receive for full-time pursuit of an institutional course under this chapter.
 
-(Added [Pub. L. 100–689, title I, § 107(a)(1)][/us/pl/100/689/s107/a/1], Nov. 18, 1988, [102 Stat. 4167][/us/stat/102/4167], § 1419; renumbered § 3019 and amended [Pub. L. 102–83, § 5(a)][/us/pl/102/83/s5/a], (c)(1), Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406].)
+(Added [Pub. L. 100–689, title I][/us/pl/100/689/tI], § 107(a)(1), Nov. 18, 1988, [102 Stat. 4167][/us/stat/102/4167], § 1419; renumbered § 3019 and amended [Pub. L. 102–83][/us/pl/102/83], § 5(a), (c)(1), Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406].)
 
  __Amendments__ 
 
-    1991—[Pub. L. 102–83, § 5(a)][/us/pl/102/83/s5/a], renumbered [section 1419 of this title][/us/usc/t38/s1419] as this section.
+    1991—[Pub. L. 102–83][/us/pl/102/83], § 5(a), renumbered [section 1419 of this title][/us/usc/t38/s1419] as this section.
 
-    Subsec. (a). [Pub. L. 102–83, § 5(c)(1)][/us/pl/102/83/s5/c/1], substituted “3492” for “1692”.
+    Subsec. (a). [Pub. L. 102–83][/us/pl/102/83], § 5(c)(1), substituted “3492” for “1692”.
 
 ----------
 
@@ -41,12 +41,12 @@
 ----------
 
 [/us/usc/t38/s3492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3492
-[/us/pl/100/689/s107/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F689%2Fs107%2Fa%2F1
+[/us/pl/100/689/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F689%2FtI
 [/us/stat/102/4167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4167
-[/us/pl/102/83/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fa
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F406
-[/us/pl/102/83/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fa
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/usc/t38/s1419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1419
-[/us/pl/102/83/s5/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fc%2F1
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 
 

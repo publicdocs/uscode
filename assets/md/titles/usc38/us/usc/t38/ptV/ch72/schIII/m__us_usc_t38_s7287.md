@@ -17,7 +17,7 @@
 
     Notwithstanding any other provision of law, the Court of Appeals for Veterans Claims may exercise, for purposes of management, administration, and expenditure of funds of the Court, the authorities provided for such purposes by any provision of law (including any limitation with respect to such provision of law) applicable to a court of the United States (as that term is defined in [section 451 of title 28][/us/usc/t28/s451]), except to the extent that such provision of law is inconsistent with a provision of this chapter.
 
-(Added [Pub. L. 107–103, title VI, § 605(a)][/us/pl/107/103/s605/a], Dec. 27, 2001, [115 Stat. 1000][/us/stat/115/1000].)
+(Added [Pub. L. 107–103, title VI][/us/pl/107/103/tVI], § 605(a), Dec. 27, 2001, [115 Stat. 1000][/us/stat/115/1000].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t28/s451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs451
-[/us/pl/107/103/s605/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F103%2Fs605%2Fa
+[/us/pl/107/103/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F103%2FtVI
 [/us/stat/115/1000]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1000
 
 

@@ -43,23 +43,23 @@
 
     (c) The effective date of an adjustment of benefits under any chapter referred to in subsection (a) of this section, if made on the basis of a certification made by the veteran or person and accepted by the Secretary under [section 3680(g) of this title][/us/usc/t38/s3680/g], shall be the date of the change.
 
-([Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1227][/us/stat/72/1227], § 3013; [Pub. L. 89–358, § 4(p)][/us/pl/89/358/s4/p], Mar. 3, 1966, [80 Stat. 25][/us/stat/80/25]; [Pub. L. 99–576, title III, § 321(10)][/us/pl/99/576/s321/10], Oct. 28, 1986, [100 Stat. 3278][/us/stat/100/3278]; [Pub. L. 100–322, title III, § 323][/us/pl/100/322/s323], May 20, 1988, [102 Stat. 536][/us/stat/102/536]; [Pub. L. 101–237, title IV, § 419][/us/pl/101/237/s419], Dec. 18, 1989, [103 Stat. 2087][/us/stat/103/2087]; [Pub. L. 102–16, § 10(a)(9)][/us/pl/102/16/s10/a/9], Mar. 22, 1991, [105 Stat. 56][/us/stat/105/56]; renumbered § 5113, [Pub. L. 102–40, title IV, § 402(b)(1)][/us/pl/102/40/s402/b/1], May 7, 1991, [105 Stat. 238][/us/stat/105/238]; [Pub. L. 102–83, § 5(c)(1)][/us/pl/102/83/s5/c/1], Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406]; [Pub. L. 106–419, title I, § 113(a)][/us/pl/106/419/s113/a], Nov. 1, 2000, [114 Stat. 1832][/us/stat/114/1832]; [Pub. L. 109–444, § 3(c)(2)][/us/pl/109/444/s3/c/2], Dec. 21, 2006, [120 Stat. 3307][/us/stat/120/3307]; [Pub. L. 109–461, title III, § 301(c)(2)][/us/pl/109/461/s301/c/2], title X, § 1006(b), Dec. 22, 2006, [120 Stat. 3427][/us/stat/120/3427], 3468.)
+([Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1227][/us/stat/72/1227], § 3013; [Pub. L. 89–358][/us/pl/89/358], § 4(p), Mar. 3, 1966, [80 Stat. 25][/us/stat/80/25]; [Pub. L. 99–576, title III][/us/pl/99/576/tIII], § 321(10), Oct. 28, 1986, [100 Stat. 3278][/us/stat/100/3278]; [Pub. L. 100–322, title III][/us/pl/100/322/tIII], § 323, May 20, 1988, [102 Stat. 536][/us/stat/102/536]; [Pub. L. 101–237, title IV][/us/pl/101/237/tIV], § 419, Dec. 18, 1989, [103 Stat. 2087][/us/stat/103/2087]; [Pub. L. 102–16][/us/pl/102/16], § 10(a)(9), Mar. 22, 1991, [105 Stat. 56][/us/stat/105/56]; renumbered § 5113, [Pub. L. 102–40, title IV][/us/pl/102/40/tIV], § 402(b)(1), May 7, 1991, [105 Stat. 238][/us/stat/105/238]; [Pub. L. 102–83][/us/pl/102/83], § 5(c)(1), Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406]; [Pub. L. 106–419, title I][/us/pl/106/419/tI], § 113(a), Nov. 1, 2000, [114 Stat. 1832][/us/stat/114/1832]; [Pub. L. 109–444][/us/pl/109/444], § 3(c)(2), Dec. 21, 2006, [120 Stat. 3307][/us/stat/120/3307]; [Pub. L. 109–461, title III][/us/pl/109/461/tIII], § 301(c)(2), title X, § 1006(b), Dec. 22, 2006, [120 Stat. 3427][/us/stat/120/3427], 3468.)
 
  __Amendments__ 
 
-    2006—[Pub. L. 109–461, § 1006(b)][/us/pl/109/461/s1006/b], provided that as of the enactment of [Pub. L. 109–461][/us/pl/109/461], the amendments made by [Pub. L. 109–444][/us/pl/109/444] were deemed for all purposes not to have taken effect and that [Pub. L. 109–444][/us/pl/109/444] ceased to be in effect. See Amendment notes below and [section 1006(b) of Pub. L. 109–461][/us/pl/109/461/s1006/b], set out as a Coordination of Provisions With [Pub. L. 109–444][/us/pl/109/444] note under [section 101 of this title][/us/usc/t38/s101].
+    2006—[Pub. L. 109–461][/us/pl/109/461], § 1006(b), provided that as of the enactment of [Pub. L. 109–461][/us/pl/109/461], the amendments made by [Pub. L. 109–444][/us/pl/109/444] were deemed for all purposes not to have taken effect and that [Pub. L. 109–444][/us/pl/109/444] ceased to be in effect. See Amendment notes below and [section 1006(b) of Pub. L. 109–461][/us/pl/109/461/s1006/b], set out as a Coordination of Provisions With [Pub. L. 109–444][/us/pl/109/444] note under [section 101 of this title][/us/usc/t38/s101].
 
-    Subsec. (b)(3)(B). [Pub. L. 109–461, § 301(c)(2)(A)][/us/pl/109/461/s301/c/2/A], substituted “subparagraphs (A), (B), (D), and (E) of [section 3501(a)(1) of this title][/us/usc/t38/s3501/a/1].” for “[section 3501(a)(1) of this title][/us/usc/t38/s3501/a/1] under subparagraph (A)(i), (A)(ii), (B), or (D) of such section by reason of either (i) the service-connected death or (ii) service-connected total disability permanent in nature of the veteran from whom such eligibility is derived.”
+    Subsec. (b)(3)(B). [Pub. L. 109–461][/us/pl/109/461], § 301(c)(2)(A), substituted “subparagraphs (A), (B), (D), and (E) of [section 3501(a)(1) of this title][/us/usc/t38/s3501/a/1].” for “[section 3501(a)(1) of this title][/us/usc/t38/s3501/a/1] under subparagraph (A)(i), (A)(ii), (B), or (D) of such section by reason of either (i) the service-connected death or (ii) service-connected total disability permanent in nature of the veteran from whom such eligibility is derived.”
 
-    [Pub. L. 109–444, § 3(c)(2)(A)][/us/pl/109/444/s3/c/2/A], which substituted “subparagraphs (A), (B), (D), and (E) of [section 3501(a)(1) of this title][/us/usc/t38/s3501/a/1].” for “[section 3501(a)(1) of this title][/us/usc/t38/s3501/a/1] under subparagraph (A)(i), (A)(ii), (B), or (D) of such section by reason of either (i) the service-connected death or (ii) service-connected total disability permanent in nature of the veteran from whom such eligibility is derived.”, was terminated by [Pub. L. 109–461, § 1006(b)][/us/pl/109/461/s1006/b]. See Amendment notes above.
+    [Pub. L. 109–444][/us/pl/109/444], § 3(c)(2)(A), which substituted “subparagraphs (A), (B), (D), and (E) of [section 3501(a)(1) of this title][/us/usc/t38/s3501/a/1].” for “[section 3501(a)(1) of this title][/us/usc/t38/s3501/a/1] under subparagraph (A)(i), (A)(ii), (B), or (D) of such section by reason of either (i) the service-connected death or (ii) service-connected total disability permanent in nature of the veteran from whom such eligibility is derived.”, was terminated by [Pub. L. 109–461][/us/pl/109/461], § 1006(b). See Amendment notes above.
 
-    Subsec. (b)(3)(C). [Pub. L. 109–461, § 301(c)(2)(B)][/us/pl/109/461/s301/c/2/B], substituted “the death of the person from whom such eligibility is derived” for “such veteran’s death” and “the service-connected total disability permanent in nature (or, in the case of a person made eligible under section 3501(a)(1)(E), the total disability permanent in nature incurred or aggravated in the line of duty in the active military, naval, or air service) of the person from whom such eligibility is derived” for “such veteran’s service-connected total disability permanent in nature”.
+    Subsec. (b)(3)(C). [Pub. L. 109–461][/us/pl/109/461], § 301(c)(2)(B), substituted “the death of the person from whom such eligibility is derived” for “such veteran’s death” and “the service-connected total disability permanent in nature (or, in the case of a person made eligible under section 3501(a)(1)(E), the total disability permanent in nature incurred or aggravated in the line of duty in the active military, naval, or air service) of the person from whom such eligibility is derived” for “such veteran’s service-connected total disability permanent in nature”.
 
-    [Pub. L. 109–444, § 3(c)(2)(B)][/us/pl/109/444/s3/c/2/B], which substituted “the death of the person from whom such eligibility is derived” for “such veteran’s death” and “the service-connected total disability permanent in nature (or, in the case of a person made eligible under section 3501(a)(1)(E), the total disability permanent in nature incurred or aggravated in the line of duty in the active military, naval, or air service) of the person from whom such eligibility is derived” for “such veteran’s service-connected total disability permanent in nature”, was terminated by [Pub. L. 109–461, § 1006(b)][/us/pl/109/461/s1006/b]. See Amendment notes above.
+    [Pub. L. 109–444][/us/pl/109/444], § 3(c)(2)(B), which substituted “the death of the person from whom such eligibility is derived” for “such veteran’s death” and “the service-connected total disability permanent in nature (or, in the case of a person made eligible under section 3501(a)(1)(E), the total disability permanent in nature incurred or aggravated in the line of duty in the active military, naval, or air service) of the person from whom such eligibility is derived” for “such veteran’s service-connected total disability permanent in nature”, was terminated by [Pub. L. 109–461][/us/pl/109/461], § 1006(b). See Amendment notes above.
 
-    2000—Subsec. (a). [Pub. L. 106–419, § 113(a)(2)][/us/pl/106/419/s113/a/2], substituted “subsections (b) and (c)” for “subsection (b) of this section”.
+    2000—Subsec. (a). [Pub. L. 106–419][/us/pl/106/419], § 113(a)(2), substituted “subsections (b) and (c)” for “subsection (b) of this section”.
 
-    Subsecs. (b), (c). [Pub. L. 106–419, § 113(a)(1)][/us/pl/106/419/s113/a/1], (3), added subsec. (b) and redesignated former subsec. (b) as (c).
+    Subsecs. (b), (c). [Pub. L. 106–419][/us/pl/106/419], § 113(a)(1), (3), added subsec. (b) and redesignated former subsec. (b) as (c).
 
     1991—[Pub. L. 102–40][/us/pl/102/40] renumbered [section 3013 of this title][/us/usc/t38/s3013] as this section.
 
@@ -81,7 +81,7 @@
 
  __Effective Date of 2000 Amendment__ 
 
-[Pub. L. 106–419, title I, § 113(b)][/us/pl/106/419/s113/b], Nov. 1, 2000, [114 Stat. 1832][/us/stat/114/1832], provided that: 
+[Pub. L. 106–419, title I][/us/pl/106/419/tI], § 113(b), Nov. 1, 2000, [114 Stat. 1832][/us/stat/114/1832], provided that: 
 
 > “The amendments made by subsection (a) \[amending this section\] shall apply to applications first made under [section 3513 of title 38][/us/usc/t38/s3513], United States Code, that—
 
@@ -100,45 +100,45 @@
 [/us/usc/t38/s3680/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3680%2Fg
 [/us/pl/85/857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F857
 [/us/stat/72/1227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1227
-[/us/pl/89/358/s4/p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F358%2Fs4%2Fp
+[/us/pl/89/358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F358
 [/us/stat/80/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F25
-[/us/pl/99/576/s321/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2Fs321%2F10
+[/us/pl/99/576/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2FtIII
 [/us/stat/100/3278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3278
-[/us/pl/100/322/s323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F322%2Fs323
+[/us/pl/100/322/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F322%2FtIII
 [/us/stat/102/536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F536
-[/us/pl/101/237/s419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237%2Fs419
+[/us/pl/101/237/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237%2FtIV
 [/us/stat/103/2087]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2087
-[/us/pl/102/16/s10/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F16%2Fs10%2Fa%2F9
+[/us/pl/102/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F16
 [/us/stat/105/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F56
-[/us/pl/102/40/s402/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs402%2Fb%2F1
+[/us/pl/102/40/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2FtIV
 [/us/stat/105/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F238
-[/us/pl/102/83/s5/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fc%2F1
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F406
-[/us/pl/106/419/s113/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419%2Fs113%2Fa
+[/us/pl/106/419/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419%2FtI
 [/us/stat/114/1832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1832
-[/us/pl/109/444/s3/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F444%2Fs3%2Fc%2F2
+[/us/pl/109/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F444
 [/us/stat/120/3307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3307
-[/us/pl/109/461/s301/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461%2Fs301%2Fc%2F2
+[/us/pl/109/461/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461%2FtIII
 [/us/stat/120/3427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3427
-[/us/pl/109/461/s1006/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461%2Fs1006%2Fb
+[/us/pl/109/461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461
 [/us/pl/109/461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461
 [/us/pl/109/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F444
 [/us/pl/109/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F444
 [/us/pl/109/461/s1006/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461%2Fs1006%2Fb
 [/us/pl/109/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F444
 [/us/usc/t38/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs101
-[/us/pl/109/461/s301/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461%2Fs301%2Fc%2F2%2FA
+[/us/pl/109/461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461
 [/us/usc/t38/s3501/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3501%2Fa%2F1
 [/us/usc/t38/s3501/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3501%2Fa%2F1
-[/us/pl/109/444/s3/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F444%2Fs3%2Fc%2F2%2FA
+[/us/pl/109/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F444
 [/us/usc/t38/s3501/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3501%2Fa%2F1
 [/us/usc/t38/s3501/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3501%2Fa%2F1
-[/us/pl/109/461/s1006/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461%2Fs1006%2Fb
-[/us/pl/109/461/s301/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461%2Fs301%2Fc%2F2%2FB
-[/us/pl/109/444/s3/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F444%2Fs3%2Fc%2F2%2FB
-[/us/pl/109/461/s1006/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461%2Fs1006%2Fb
-[/us/pl/106/419/s113/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419%2Fs113%2Fa%2F2
-[/us/pl/106/419/s113/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419%2Fs113%2Fa%2F1
+[/us/pl/109/461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461
+[/us/pl/109/461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461
+[/us/pl/109/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F444
+[/us/pl/109/461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461
+[/us/pl/106/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419
+[/us/pl/106/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419
 [/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40
 [/us/usc/t38/s3013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3013
 [/us/pl/102/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F16
@@ -150,7 +150,7 @@
 [/us/pl/109/461/s301/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461%2Fs301%2Fc%2F2
 [/us/pl/109/461/s301/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461%2Fs301%2Fd
 [/us/usc/t38/s3501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3501
-[/us/pl/106/419/s113/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419%2Fs113%2Fb
+[/us/pl/106/419/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419%2FtI
 [/us/stat/114/1832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1832
 [/us/usc/t38/s3513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3513
 

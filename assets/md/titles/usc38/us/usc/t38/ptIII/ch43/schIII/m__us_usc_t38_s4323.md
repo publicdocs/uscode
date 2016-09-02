@@ -93,7 +93,7 @@
 
     In this section, the term “private employer” includes a political subdivision of a State.
 
-(Added [Pub. L. 103–353, § 2(a)][/us/pl/103/353/s2/a], Oct. 13, 1994, [108 Stat. 3165][/us/stat/108/3165]; amended [Pub. L. 104–275, title III, § 311(10)][/us/pl/104/275/s311/10], Oct. 9, 1996, [110 Stat. 3335][/us/stat/110/3335]; [Pub. L. 105–368, title II, § 211(a)][/us/pl/105/368/s211/a], Nov. 11, 1998, [112 Stat. 3329][/us/stat/112/3329]; [Pub. L. 110–389, title III][/us/pl/110/389], §§ 311(d)(1), (e)(1), (f)(3), 315, Oct. 10, 2008, [122 Stat. 4162–4164][/us/stat/122/4162-4164], 4167.)
+(Added [Pub. L. 103–353][/us/pl/103/353], § 2(a), Oct. 13, 1994, [108 Stat. 3165][/us/stat/108/3165]; amended [Pub. L. 104–275, title III][/us/pl/104/275/tIII], § 311(10), Oct. 9, 1996, [110 Stat. 3335][/us/stat/110/3335]; [Pub. L. 105–368, title II][/us/pl/105/368/tII], § 211(a), Nov. 11, 1998, [112 Stat. 3329][/us/stat/112/3329]; [Pub. L. 110–389, title III][/us/pl/110/389/tIII], §§ 311(d)(1), (e)(1), (f)(3), 315, Oct. 10, 2008, [122 Stat. 4162–4164][/us/stat/122/4162-4164], 4167.)
 
  __Prior Provisions__ 
 
@@ -101,23 +101,23 @@
 
  __Amendments__ 
 
-    2008—Subsec. (a)(1). [Pub. L. 110–389, § 311(d)(1)][/us/pl/110/389/s311/d/1], inserted “Not later than 60 days after the Secretary receives such a request with respect to a complaint, the Secretary shall refer the complaint to the Attorney General.” after “to the Attorney General.”
+    2008—Subsec. (a)(1). [Pub. L. 110–389][/us/pl/110/389], § 311(d)(1), inserted “Not later than 60 days after the Secretary receives such a request with respect to a complaint, the Secretary shall refer the complaint to the Attorney General.” after “to the Attorney General.”
 
-    Subsec. (a)(2), (3). [Pub. L. 110–389, § 311(e)(1)][/us/pl/110/389/s311/e/1], added par. (2) and redesignated former par. (2) as (3).
+    Subsec. (a)(2), (3). [Pub. L. 110–389][/us/pl/110/389], § 311(e)(1), added par. (2) and redesignated former par. (2) as (3).
 
-    Subsec. (e). [Pub. L. 110–389, § 315][/us/pl/110/389/s315], substituted “shall use, in any case in which the court determines it is appropriate,” for “may use”.
+    Subsec. (e). [Pub. L. 110–389][/us/pl/110/389], § 315, substituted “shall use, in any case in which the court determines it is appropriate,” for “may use”.
 
-    Subsecs. (i), (j). [Pub. L. 110–389, § 311(f)(3)][/us/pl/110/389/s311/f/3], redesignated subsec. (j) as (i) and struck out former subsec. (i) which read as follows: “Inapplicability of State Statute of Limitations.—No State statute of limitations shall apply to any proceeding under this chapter.”
+    Subsecs. (i), (j). [Pub. L. 110–389][/us/pl/110/389], § 311(f)(3), redesignated subsec. (j) as (i) and struck out former subsec. (i) which read as follows: “Inapplicability of State Statute of Limitations.—No State statute of limitations shall apply to any proceeding under this chapter.”
 
     1998—[Pub. L. 105–368][/us/pl/105/368] amended section generally, substituting present provisions for provisions which had: in subsec. (a), authorized reference of complaint to Attorney General and commencement of action for relief on behalf of person whose complaint was referred; in subsec. (b), described appropriate venues in cases where defendant is State or private employer; and in subsec. (c), set forth provisions relating to jurisdiction, abridgement of rights, court and attorney fees, equity power of court, standing, respondents, statute of limitations, and remedies.
 
-    1996—Subsec. (a)(1). [Pub. L. 104–275, § 311(10)(A)][/us/pl/104/275/s311/10/A], struck out “of an unsuccessful effort to resolve a complaint” after “notification pursuant to section 4322(e)”.
+    1996—Subsec. (a)(1). [Pub. L. 104–275][/us/pl/104/275], § 311(10)(A), struck out “of an unsuccessful effort to resolve a complaint” after “notification pursuant to section 4322(e)”.
 
-    Subsec. (a)(2)(A). [Pub. L. 104–275, § 311(10)(B)][/us/pl/104/275/s311/10/B], substituted “under section 4322(a)” for “regarding the complaint under section 4322(c)”.
+    Subsec. (a)(2)(A). [Pub. L. 104–275][/us/pl/104/275], § 311(10)(B), substituted “under section 4322(a)” for “regarding the complaint under section 4322(c)”.
 
  __Effective Date of 1998 Amendment__ 
 
-[Pub. L. 105–368, title II, § 211(b)][/us/pl/105/368/s211/b], Nov. 11, 1998, [112 Stat. 3330][/us/stat/112/3330], provided that:
+[Pub. L. 105–368, title II][/us/pl/105/368/tII], § 211(b), Nov. 11, 1998, [112 Stat. 3330][/us/stat/112/3330], provided that:
 
 >     “(1) [Section 4323 of title 38][/us/usc/t38/s4323], United States Code, as amended by subsection (a), shall apply to actions commenced under chapter 43 of such title on or after the date of the enactment of this Act \[Nov. 11, 1998\], and shall apply to actions commenced under such chapter before the date of the enactment of this Act that are not final on the date of the enactment of this Act, without regard to when the cause of action accrued.
 
@@ -140,23 +140,23 @@
 
 [/us/usc/t38/s4322/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs4322%2Fe
 [/us/usc/t38/s4322/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs4322%2Fa
-[/us/pl/103/353/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F353%2Fs2%2Fa
+[/us/pl/103/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F353
 [/us/stat/108/3165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3165
-[/us/pl/104/275/s311/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275%2Fs311%2F10
+[/us/pl/104/275/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275%2FtIII
 [/us/stat/110/3335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3335
-[/us/pl/105/368/s211/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2Fs211%2Fa
+[/us/pl/105/368/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2FtII
 [/us/stat/112/3329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3329
-[/us/pl/110/389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F389
+[/us/pl/110/389/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F389%2FtIII
 [/us/stat/122/4162-4164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4162-4164
 [/us/usc/t38/s7623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7623
-[/us/pl/110/389/s311/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F389%2Fs311%2Fd%2F1
-[/us/pl/110/389/s311/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F389%2Fs311%2Fe%2F1
-[/us/pl/110/389/s315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F389%2Fs315
-[/us/pl/110/389/s311/f/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F389%2Fs311%2Ff%2F3
+[/us/pl/110/389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F389
+[/us/pl/110/389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F389
+[/us/pl/110/389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F389
+[/us/pl/110/389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F389
 [/us/pl/105/368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368
-[/us/pl/104/275/s311/10/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275%2Fs311%2F10%2FA
-[/us/pl/104/275/s311/10/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275%2Fs311%2F10%2FB
-[/us/pl/105/368/s211/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2Fs211%2Fb
+[/us/pl/104/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275
+[/us/pl/104/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275
+[/us/pl/105/368/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2FtII
 [/us/stat/112/3330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3330
 [/us/usc/t38/s4323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs4323
 [/us/pl/104/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275

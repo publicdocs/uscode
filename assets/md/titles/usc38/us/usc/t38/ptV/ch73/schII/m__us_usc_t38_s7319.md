@@ -29,7 +29,7 @@
 
     (e) For the purposes of this section, the term “mammogram” has the meaning given such term in paragraph (5) of section 354(a) of the Public Health Service Act.
 
-(Added [Pub. L. 104–262, title III, § 321(a)(1)][/us/pl/104/262/s321/a/1], Oct. 9, 1996, [110 Stat. 3195][/us/stat/110/3195].)
+(Added [Pub. L. 104–262, title III][/us/pl/104/262/tIII], § 321(a)(1), Oct. 9, 1996, [110 Stat. 3195][/us/stat/110/3195].)
 
  __References in Text__ 
 
@@ -37,13 +37,13 @@
 
  __Deadline for Prescribing Standards__ 
 
-[Pub. L. 104–262, title III, § 321(b)][/us/pl/104/262/s321/b], Oct. 9, 1996, [110 Stat. 3195][/us/stat/110/3195], provided that: 
+[Pub. L. 104–262, title III][/us/pl/104/262/tIII], § 321(b), Oct. 9, 1996, [110 Stat. 3195][/us/stat/110/3195], provided that: 
 
 > “The Secretary of Veterans Affairs shall prescribe standards under subsection (b) of [section 7319 of title 38][/us/usc/t38/s7319], United States Code, as added by subsection (a), not later than the end of the 120-day period beginning on the date of the enactment of this Act \[Oct. 9, 1996\].”
 
  __Implementation Report__ 
 
-[Pub. L. 104–262, title III, § 321(c)][/us/pl/104/262/s321/c], Oct. 9, 1996, [110 Stat. 3195][/us/stat/110/3195], provided that: 
+[Pub. L. 104–262, title III][/us/pl/104/262/tIII], § 321(c), Oct. 9, 1996, [110 Stat. 3195][/us/stat/110/3195], provided that: 
 
 > “The Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report on the Secretary’s implementation of [section 7319 of title 38][/us/usc/t38/s7319], United States Code, as added by subsection (a). The report shall be submitted not later than 120 days after the date of the enactment of this Act \[Oct. 9, 1996\].”
 
@@ -55,14 +55,14 @@
 ----------
 
 [/us/usc/t42/s263b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs263b
-[/us/pl/104/262/s321/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F262%2Fs321%2Fa%2F1
+[/us/pl/104/262/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F262%2FtIII
 [/us/stat/110/3195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3195
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
 [/us/usc/t42/s263b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs263b
-[/us/pl/104/262/s321/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F262%2Fs321%2Fb
+[/us/pl/104/262/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F262%2FtIII
 [/us/stat/110/3195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3195
 [/us/usc/t38/s7319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7319
-[/us/pl/104/262/s321/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F262%2Fs321%2Fc
+[/us/pl/104/262/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F262%2FtIII
 [/us/stat/110/3195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3195
 [/us/usc/t38/s7319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7319
 

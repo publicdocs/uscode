@@ -267,25 +267,25 @@ SUBCHAPTER III—ADVISORY COMMITTEES  </td>
 
  __Amendments__ 
 
-    2015—[Pub. L. 114–58, title VI, § 601(2)][/us/pl/114/58/s601/2], Sept. 30, 2015, [129 Stat. 538][/us/stat/129/538], which directed amendment of this analysis by striking item “521A” and adding item 521A, was executed by striking item 512A “Adaptive sports programs for disabled veterans and members of the Armed Forces” and adding item 521A, to reflect the probable intent of Congress.
+    2015—[Pub. L. 114–58, title VI][/us/pl/114/58/tVI], § 601(2), Sept. 30, 2015, [129 Stat. 538][/us/stat/129/538], which directed amendment of this analysis by striking item “521A” and adding item 521A, was executed by striking item 512A “Adaptive sports programs for disabled veterans and members of the Armed Forces” and adding item 521A, to reflect the probable intent of Congress.
 
-    2013—[Pub. L. 113–59, § 5(h)(2)][/us/pl/113/59/s5/h/2], Dec. 20, 2013, [127 Stat. 662][/us/stat/127/662], which directed amendment of this analysis by striking item 521A and adding item “512A”, was executed by striking item 521A “Assistance for United States Olympic Committee” and adding item 512A in the position for item 521A, to reflect the probable intent of Congress.
+    2013—[Pub. L. 113–59][/us/pl/113/59], § 5(h)(2), Dec. 20, 2013, [127 Stat. 662][/us/stat/127/662], which directed amendment of this analysis by striking item 521A and adding item “512A”, was executed by striking item 521A “Assistance for United States Olympic Committee” and adding item 512A in the position for item 521A, to reflect the probable intent of Congress.
 
-    [Pub. L. 113–37, § 2(b)(3)][/us/pl/113/37/s2/b/3], Sept. 30, 2013, [127 Stat. 524][/us/stat/127/524], added item 521A and struck out former item 521A “Assistance for United States Paralympics, Inc.”
+    [Pub. L. 113–37][/us/pl/113/37], § 2(b)(3), Sept. 30, 2013, [127 Stat. 524][/us/stat/127/524], added item 521A and struck out former item 521A “Assistance for United States Paralympics, Inc.”
 
-    2012—[Pub. L. 112–154, title VII][/us/pl/112/154], §§ 707(b), 709(b)(2), Aug. 6, 2012, [126 Stat. 1207][/us/stat/126/1207], 1208, added item 517 and substituted “Authority to advertise in national media; VetStar Award Program” for “Authority to advertise in national media” in item 532.
+    2012—[Pub. L. 112–154, title VII][/us/pl/112/154/tVII], §§ 707(b), 709(b)(2), Aug. 6, 2012, [126 Stat. 1207][/us/stat/126/1207], 1208, added item 517 and substituted “Authority to advertise in national media; VetStar Award Program” for “Authority to advertise in national media” in item 532.
 
-    2008—[Pub. L. 110–389, title II, § 214(b)][/us/pl/110/389/s214/b], title VII, § 702(b), title VIII, § 809(b), Oct. 10, 2008, [122 Stat. 4154][/us/stat/122/4154], 4183, 4190, added items 521A, 532, and 546.
+    2008—[Pub. L. 110–389, title II][/us/pl/110/389/tII], § 214(b), title VII, § 702(b), title VIII, § 809(b), Oct. 10, 2008, [122 Stat. 4154][/us/stat/122/4154], 4183, 4190, added items 521A, 532, and 546.
 
-    1998—[Pub. L. 105–368, title IX, § 906(b)][/us/pl/105/368/s906/b], title X, § 1001(a)(2), Nov. 11, 1998, [112 Stat. 3362][/us/stat/112/3362], 3363, added items 530 and 531.
+    1998—[Pub. L. 105–368, title IX][/us/pl/105/368/tIX], § 906(b), title X, § 1001(a)(2), Nov. 11, 1998, [112 Stat. 3362][/us/stat/112/3362], 3363, added items 530 and 531.
 
-    1997—[Pub. L. 105–114, title I, § 101(a)(2)][/us/pl/105/114/s101/a/2], Nov. 21, 1997, [111 Stat. 2279][/us/stat/111/2279], added item 516.
+    1997—[Pub. L. 105–114, title I][/us/pl/105/114/tI], § 101(a)(2), Nov. 21, 1997, [111 Stat. 2279][/us/stat/111/2279], added item 516.
 
-    1996—[Pub. L. 104–262, title III, § 333(a)(2)][/us/pl/104/262/s333/a/2], Oct. 9, 1996, [110 Stat. 3200][/us/stat/110/3200], added item 545.
+    1996—[Pub. L. 104–262, title III][/us/pl/104/262/tIII], § 333(a)(2), Oct. 9, 1996, [110 Stat. 3200][/us/stat/110/3200], added item 545.
 
-    1994—[Pub. L. 103–446, title V, § 510(b)][/us/pl/103/446/s510/b], Nov. 2, 1994, [108 Stat. 4670][/us/stat/108/4670], added item 544.
+    1994—[Pub. L. 103–446, title V][/us/pl/103/446/tV], § 510(b), Nov. 2, 1994, [108 Stat. 4670][/us/stat/108/4670], added item 544.
 
-    1992—[Pub. L. 102–405, title I, § 105(b)(2)][/us/pl/102/405/s105/b/2], Oct. 9, 1992, [106 Stat. 1976][/us/stat/106/1976], added item 543.
+    1992—[Pub. L. 102–405, title I][/us/pl/102/405/tI], § 105(b)(2), Oct. 9, 1992, [106 Stat. 1976][/us/stat/106/1976], added item 543.
 
 ----------
 
@@ -294,25 +294,25 @@ SUBCHAPTER III—ADVISORY COMMITTEES  </td>
 ----------
 ----------
 
-[/us/pl/114/58/s601/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F58%2Fs601%2F2
+[/us/pl/114/58/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F58%2FtVI
 [/us/stat/129/538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F538
-[/us/pl/113/59/s5/h/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F59%2Fs5%2Fh%2F2
+[/us/pl/113/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F59
 [/us/stat/127/662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F662
-[/us/pl/113/37/s2/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F37%2Fs2%2Fb%2F3
+[/us/pl/113/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F37
 [/us/stat/127/524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F524
-[/us/pl/112/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154
+[/us/pl/112/154/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154%2FtVII
 [/us/stat/126/1207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1207
-[/us/pl/110/389/s214/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F389%2Fs214%2Fb
+[/us/pl/110/389/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F389%2FtII
 [/us/stat/122/4154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4154
-[/us/pl/105/368/s906/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2Fs906%2Fb
+[/us/pl/105/368/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2FtIX
 [/us/stat/112/3362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3362
-[/us/pl/105/114/s101/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F114%2Fs101%2Fa%2F2
+[/us/pl/105/114/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F114%2FtI
 [/us/stat/111/2279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2279
-[/us/pl/104/262/s333/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F262%2Fs333%2Fa%2F2
+[/us/pl/104/262/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F262%2FtIII
 [/us/stat/110/3200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3200
-[/us/pl/103/446/s510/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2Fs510%2Fb
+[/us/pl/103/446/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2FtV
 [/us/stat/108/4670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4670
-[/us/pl/102/405/s105/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405%2Fs105%2Fb%2F2
+[/us/pl/102/405/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405%2FtI
 [/us/stat/106/1976]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1976
 
 

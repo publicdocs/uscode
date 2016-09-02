@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Prior to renumbering of sections 301 to 363 of this chapter as sections 1101 to 1163 by [Pub. L. 102–83, § 5(a)][/us/pl/102/83/s5/a], Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406], section 336 of this chapter, [Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1123][/us/stat/72/1123], which set forth the conditions under which wartime rates were payable to any veteran otherwise entitled to compensation under the provisions of this subchapter, was repealed by [Pub. L. 92–328, title I, § 108(c)][/us/pl/92/328/s108/c], title III, § 301(b), June 30, 1972, [86 Stat. 396][/us/stat/86/396], 398, effective July 1, 1973.
+    Prior to renumbering of sections 301 to 363 of this chapter as sections 1101 to 1163 by [Pub. L. 102–83][/us/pl/102/83], § 5(a), Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406], section 336 of this chapter, [Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1123][/us/stat/72/1123], which set forth the conditions under which wartime rates were payable to any veteran otherwise entitled to compensation under the provisions of this subchapter, was repealed by [Pub. L. 92–328, title I][/us/pl/92/328/tI], § 108(c), title III, § 301(b), June 30, 1972, [86 Stat. 396][/us/stat/86/396], 398, effective July 1, 1973.
 
 ----------
 
@@ -26,11 +26,11 @@
 ----------
 ----------
 
-[/us/pl/102/83/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fa
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F406
 [/us/pl/85/857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F857
 [/us/stat/72/1123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1123
-[/us/pl/92/328/s108/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F328%2Fs108%2Fc
+[/us/pl/92/328/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F328%2FtI
 [/us/stat/86/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F396
 
 

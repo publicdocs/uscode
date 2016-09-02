@@ -109,11 +109,11 @@
 
         (5) The Committee shall terminate December 31, 2006.
 
-(Added [Pub. L. 106–419, title I, § 122(c)(1)][/us/pl/106/419/s122/c/1], Nov. 1, 2000, [114 Stat. 1835][/us/stat/114/1835]; amended [Pub. L. 107–330, title III, § 308(d)][/us/pl/107/330/s308/d], Dec. 6, 2002, [116 Stat. 2828][/us/stat/116/2828]; [Pub. L. 110–252, title V, § 5003(b)(2)(A)(iii)][/us/pl/110/252/s5003/b/2/A/iii], June 30, 2008, [122 Stat. 2375][/us/stat/122/2375]; [Pub. L. 111–377, title II, § 203(a)(2)(C)][/us/pl/111/377/s203/a/2/C], Jan. 4, 2011, [124 Stat. 4125][/us/stat/124/4125].)
+(Added [Pub. L. 106–419, title I][/us/pl/106/419/tI], § 122(c)(1), Nov. 1, 2000, [114 Stat. 1835][/us/stat/114/1835]; amended [Pub. L. 107–330, title III][/us/pl/107/330/tIII], § 308(d), Dec. 6, 2002, [116 Stat. 2828][/us/stat/116/2828]; [Pub. L. 110–252, title V][/us/pl/110/252/tV], § 5003(b)(2)(A)(iii), June 30, 2008, [122 Stat. 2375][/us/stat/122/2375]; [Pub. L. 111–377, title II][/us/pl/111/377/tII], § 203(a)(2)(C), Jan. 4, 2011, [124 Stat. 4125][/us/stat/124/4125].)
 
  __Prior Provisions__ 
 
-    A prior section 3689, added [Pub. L. 92–540, title III, § 316(2)][/us/pl/92/540/s316/2], Oct. 24, 1972, [86 Stat. 1087][/us/stat/86/1087], § 1789; amended [Pub. L. 94–502, title V, § 509(b)][/us/pl/94/502/s509/b], Oct. 15, 1976, [90 Stat. 2401][/us/stat/90/2401]; [Pub. L. 95–202, title III, § 305(a)(1)][/us/pl/95/202/s305/a/1], Nov. 23, 1977, [91 Stat. 1442][/us/stat/91/1442]; [Pub. L. 96–466, title VI, § 601(g)][/us/pl/96/466/s601/g], Oct. 17, 1980, [94 Stat. 2208][/us/stat/94/2208]; [Pub. L. 101–237, title IV][/us/pl/101/237], §§ 418, 423(b)(1)(A), Dec. 18, 1989, [103 Stat. 2087][/us/stat/103/2087], 2092; renumbered § 3689, [Pub. L. 102–83, § 5(a)][/us/pl/102/83/s5/a], Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406], related to approval of enrollment in courses in operation for less than two years, prior to repeal by [Pub. L. 104–275, title I, § 103(a)(1)(A)][/us/pl/104/275/s103/a/1/A], Oct. 9, 1996, [110 Stat. 3326][/us/stat/110/3326].
+    A prior section 3689, added [Pub. L. 92–540, title III][/us/pl/92/540/tIII], § 316(2), Oct. 24, 1972, [86 Stat. 1087][/us/stat/86/1087], § 1789; amended [Pub. L. 94–502, title V][/us/pl/94/502/tV], § 509(b), Oct. 15, 1976, [90 Stat. 2401][/us/stat/90/2401]; [Pub. L. 95–202, title III][/us/pl/95/202/tIII], § 305(a)(1), Nov. 23, 1977, [91 Stat. 1442][/us/stat/91/1442]; [Pub. L. 96–466, title VI][/us/pl/96/466/tVI], § 601(g), Oct. 17, 1980, [94 Stat. 2208][/us/stat/94/2208]; [Pub. L. 101–237, title IV][/us/pl/101/237/tIV], §§ 418, 423(b)(1)(A), Dec. 18, 1989, [103 Stat. 2087][/us/stat/103/2087], 2092; renumbered § 3689, [Pub. L. 102–83][/us/pl/102/83], § 5(a), Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406], related to approval of enrollment in courses in operation for less than two years, prior to repeal by [Pub. L. 104–275, title I][/us/pl/104/275/tI], § 103(a)(1)(A), Oct. 9, 1996, [110 Stat. 3326][/us/stat/110/3326].
 
  __Amendments__ 
 
@@ -143,27 +143,27 @@
 ----------
 
 [/us/usc/t38/s3672/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3672%2Fb%2F2%2FB
-[/us/pl/106/419/s122/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419%2Fs122%2Fc%2F1
+[/us/pl/106/419/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419%2FtI
 [/us/stat/114/1835]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1835
-[/us/pl/107/330/s308/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F330%2Fs308%2Fd
+[/us/pl/107/330/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F330%2FtIII
 [/us/stat/116/2828]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2828
-[/us/pl/110/252/s5003/b/2/A/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F252%2Fs5003%2Fb%2F2%2FA%2Fiii
+[/us/pl/110/252/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F252%2FtV
 [/us/stat/122/2375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2375
-[/us/pl/111/377/s203/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F377%2Fs203%2Fa%2F2%2FC
+[/us/pl/111/377/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F377%2FtII
 [/us/stat/124/4125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4125
-[/us/pl/92/540/s316/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F540%2Fs316%2F2
+[/us/pl/92/540/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F540%2FtIII
 [/us/stat/86/1087]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1087
-[/us/pl/94/502/s509/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F502%2Fs509%2Fb
+[/us/pl/94/502/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F502%2FtV
 [/us/stat/90/2401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2401
-[/us/pl/95/202/s305/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F202%2Fs305%2Fa%2F1
+[/us/pl/95/202/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F202%2FtIII
 [/us/stat/91/1442]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1442
-[/us/pl/96/466/s601/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F466%2Fs601%2Fg
+[/us/pl/96/466/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F466%2FtVI
 [/us/stat/94/2208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2208
-[/us/pl/101/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237
+[/us/pl/101/237/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237%2FtIV
 [/us/stat/103/2087]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2087
-[/us/pl/102/83/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fa
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F406
-[/us/pl/104/275/s103/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275%2Fs103%2Fa%2F1%2FA
+[/us/pl/104/275/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275%2FtI
 [/us/stat/110/3326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3326
 [/us/pl/111/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F377
 [/us/usc/t38/s3672/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3672%2Fb%2F2%2FB

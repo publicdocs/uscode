@@ -17,7 +17,7 @@
 
  __Amendments__ 
 
-    1976—[Pub. L. 94–581, title II, § 202(c)][/us/pl/94/581/s202/c], Oct. 21, 1976, [90 Stat. 2855][/us/stat/90/2855], inserted “, NURSING HOME,” in subchapter heading.
+    1976—[Pub. L. 94–581, title II][/us/pl/94/581/tII], § 202(c), Oct. 21, 1976, [90 Stat. 2855][/us/stat/90/2855], inserted “, NURSING HOME,” in subchapter heading.
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/94/581/s202/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F581%2Fs202%2Fc
+[/us/pl/94/581/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F581%2FtII
 [/us/stat/90/2855]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2855
 
 

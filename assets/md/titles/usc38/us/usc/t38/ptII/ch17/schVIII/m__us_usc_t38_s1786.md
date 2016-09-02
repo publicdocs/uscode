@@ -27,13 +27,13 @@
 
     Health care services described in this subsection are all post-delivery care services, including routine care services, that a newborn child requires.
 
-(Added [Pub. L. 111–163, title II, § 206(a)][/us/pl/111/163/s206/a], May 5, 2010, [124 Stat. 1145][/us/stat/124/1145].)
+(Added [Pub. L. 111–163, title II][/us/pl/111/163/tII], § 206(a), May 5, 2010, [124 Stat. 1145][/us/stat/124/1145].)
 
  __Prior Provisions__ 
 
     A prior section 1786 was renumbered [section 3686 of this title][/us/usc/t38/s3686].
 
-    Another prior section 1786, added [Pub. L. 89–358, § 3(b)][/us/pl/89/358/s3/b], Mar. 3, 1966, [80 Stat. 23][/us/stat/80/23], related to the examination of records, prior to repeal by [section 316(1) of Pub. L. 92–540][/us/pl/92/540/s316/1]. See [section 3690 of this title][/us/usc/t38/s3690].
+    Another prior section 1786, added [Pub. L. 89–358][/us/pl/89/358], § 3(b), Mar. 3, 1966, [80 Stat. 23][/us/stat/80/23], related to the examination of records, prior to repeal by [section 316(1) of Pub. L. 92–540][/us/pl/92/540/s316/1]. See [section 3690 of this title][/us/usc/t38/s3690].
 
 ----------
 
@@ -42,10 +42,10 @@
 ----------
 ----------
 
-[/us/pl/111/163/s206/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163%2Fs206%2Fa
+[/us/pl/111/163/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163%2FtII
 [/us/stat/124/1145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1145
 [/us/usc/t38/s3686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3686
-[/us/pl/89/358/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F358%2Fs3%2Fb
+[/us/pl/89/358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F358
 [/us/stat/80/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F23
 [/us/pl/92/540/s316/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F540%2Fs316%2F1
 [/us/usc/t38/s3690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3690

@@ -117,7 +117,7 @@
 
         (2) the term “immediate family” means, with respect to a person, the immediate family members of such person, as such term is defined in [section 115 of title 18][/us/usc/t18/s115].
 
-(Added [Pub. L. 109–228, § 2(a)(1)][/us/pl/109/228/s2/a/1], May 29, 2006, [120 Stat. 387][/us/stat/120/387]; amended [Pub. L. 112–154, title VI, § 601(c)(1)][/us/pl/112/154/s601/c/1], Aug. 6, 2012, [126 Stat. 1197][/us/stat/126/1197].)
+(Added [Pub. L. 109–228][/us/pl/109/228], § 2(a)(1), May 29, 2006, [120 Stat. 387][/us/stat/120/387]; amended [Pub. L. 112–154, title VI][/us/pl/112/154/tVI], § 601(c)(1), Aug. 6, 2012, [126 Stat. 1197][/us/stat/126/1197].)
 
  __Amendments__ 
 
@@ -125,7 +125,7 @@
 
  __Construction__ 
 
-[Pub. L. 109–228, § 2(b)][/us/pl/109/228/s2/b], May 29, 2006, [120 Stat. 388][/us/stat/120/388], provided that: 
+[Pub. L. 109–228][/us/pl/109/228], § 2(b), May 29, 2006, [120 Stat. 388][/us/stat/120/388], provided that: 
 
 > “Nothing in [section 2413 of title 38][/us/usc/t38/s2413], United States Code (as amended by subsection (a)), shall be construed as limiting the authority of the Secretary of Veterans Affairs, with respect to property under control of the National Cemetery Administration, or the Secretary of the Army, with respect to Arlington National Cemetery, to issue or enforce regulations that prohibit or restrict conduct that is not specifically covered by section 2413 of such title (as so added).”
 
@@ -137,12 +137,12 @@
 ----------
 
 [/us/usc/t18/s115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs115
-[/us/pl/109/228/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F228%2Fs2%2Fa%2F1
+[/us/pl/109/228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F228
 [/us/stat/120/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F387
-[/us/pl/112/154/s601/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154%2Fs601%2Fc%2F1
+[/us/pl/112/154/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154%2FtVI
 [/us/stat/126/1197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1197
 [/us/pl/112/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154
-[/us/pl/109/228/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F228%2Fs2%2Fb
+[/us/pl/109/228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F228
 [/us/stat/120/388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F388
 [/us/usc/t38/s2413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs2413
 

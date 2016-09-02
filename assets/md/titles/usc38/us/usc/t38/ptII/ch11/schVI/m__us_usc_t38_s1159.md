@@ -17,13 +17,13 @@
 
     Service connection for any disability or death granted under this title which has been in force for ten or more years shall not be severed on or after January 1, 1962, except upon a showing that the original grant of service connection was based on fraud or it is clearly shown from military records that the person concerned did not have the requisite service or character of discharge. The mentioned period shall be computed from the date determined by the Secretary as the date on which the status commenced for rating purposes.
 
-(Added [Pub. L. 86–501, § 1][/us/pl/86/501/s1], June 10, 1960, [74 Stat. 195][/us/stat/74/195], § 359; amended [Pub. L. 87–825, § 6][/us/pl/87/825/s6], Oct. 15, 1962, [76 Stat. 950][/us/stat/76/950]; renumbered § 1159 and amended [Pub. L. 102–83][/us/pl/102/83], §§ 4(b)(1), (2)(E), 5(a), Aug. 6, 1991, [105 Stat. 404–406][/us/stat/105/404-406].)
+(Added [Pub. L. 86–501][/us/pl/86/501], § 1, June 10, 1960, [74 Stat. 195][/us/stat/74/195], § 359; amended [Pub. L. 87–825][/us/pl/87/825], § 6, Oct. 15, 1962, [76 Stat. 950][/us/stat/76/950]; renumbered § 1159 and amended [Pub. L. 102–83][/us/pl/102/83], §§ 4(b)(1), (2)(E), 5(a), Aug. 6, 1991, [105 Stat. 404–406][/us/stat/105/404-406].)
 
  __Amendments__ 
 
-    1991—[Pub. L. 102–83, § 5(a)][/us/pl/102/83/s5/a], renumbered [section 359 of this title][/us/usc/t38/s359] as this section.
+    1991—[Pub. L. 102–83][/us/pl/102/83], § 5(a), renumbered [section 359 of this title][/us/usc/t38/s359] as this section.
 
-    [Pub. L. 102–83, § 4(b)(1)][/us/pl/102/83/s4/b/1], (2)(E), substituted “Secretary” for “Administrator”.
+    [Pub. L. 102–83][/us/pl/102/83], § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
     1962—[Pub. L. 87–825][/us/pl/87/825] provided for computation of the period from the date the administrator determines as the date the status commenced for rating purposes.
 
@@ -38,15 +38,15 @@
 ----------
 ----------
 
-[/us/pl/86/501/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F501%2Fs1
+[/us/pl/86/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F501
 [/us/stat/74/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F195
-[/us/pl/87/825/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F825%2Fs6
+[/us/pl/87/825]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F825
 [/us/stat/76/950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F950
 [/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/404-406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F404-406
-[/us/pl/102/83/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fa
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/usc/t38/s359]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs359
-[/us/pl/102/83/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fb%2F1
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/pl/87/825]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F825
 [/us/pl/87/825]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F825
 [/us/pl/87/825/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F825%2Fs7

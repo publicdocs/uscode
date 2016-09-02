@@ -87,7 +87,7 @@
 
         (3) In this subsection, the term “super construction project” means a project for the construction, alteration, or acquisition of a medical facility involving a total expenditure of more than $100,000,000.
 
-(Added [Pub. L. 96–22, title III, § 301(a)][/us/pl/96/22/s301/a], June 13, 1979, [93 Stat. 56][/us/stat/93/56], § 5003; amended [Pub. L. 101–237, title VI, § 603(b)][/us/pl/101/237/s603/b], Dec. 18, 1989, [103 Stat. 2097][/us/stat/103/2097]; renumbered § 8103 and amended [Pub. L. 102–40, title IV, § 402(b)(1)][/us/pl/102/40/s402/b/1], (d)(1), May 7, 1991, [105 Stat. 238][/us/stat/105/238], 239; [Pub. L. 102–83, § 4(b)(1)][/us/pl/102/83/s4/b/1], (2)(E), Aug. 6, 1991, [105 Stat. 404][/us/stat/105/404], 405; [Pub. L. 103–446, title XII, § 1201(d)(16)][/us/pl/103/446/s1201/d/16], Nov. 2, 1994, [108 Stat. 4684][/us/stat/108/4684]; [Pub. L. 114–58, title V, § 502(a)][/us/pl/114/58/s502/a], Sept. 30, 2015, [129 Stat. 537][/us/stat/129/537].)
+(Added [Pub. L. 96–22, title III][/us/pl/96/22/tIII], § 301(a), June 13, 1979, [93 Stat. 56][/us/stat/93/56], § 5003; amended [Pub. L. 101–237, title VI][/us/pl/101/237/tVI], § 603(b), Dec. 18, 1989, [103 Stat. 2097][/us/stat/103/2097]; renumbered § 8103 and amended [Pub. L. 102–40, title IV][/us/pl/102/40/tIV], § 402(b)(1), (d)(1), May 7, 1991, [105 Stat. 238][/us/stat/105/238], 239; [Pub. L. 102–83][/us/pl/102/83], § 4(b)(1), (2)(E), Aug. 6, 1991, [105 Stat. 404][/us/stat/105/404], 405; [Pub. L. 103–446, title XII][/us/pl/103/446/tXII], § 1201(d)(16), Nov. 2, 1994, [108 Stat. 4684][/us/stat/108/4684]; [Pub. L. 114–58, title V][/us/pl/114/58/tV], § 502(a), Sept. 30, 2015, [129 Stat. 537][/us/stat/129/537].)
 
  __Amendments__ 
 
@@ -95,11 +95,11 @@
 
     1994—Subsec. (d)(6)(A). [Pub. L. 103–446][/us/pl/103/446] substituted “section 316” for “section 230(c)”.
 
-    1991—[Pub. L. 102–40, § 402(b)(1)][/us/pl/102/40/s402/b/1], renumbered [section 5003 of this title][/us/usc/t38/s5003] as this section.
+    1991—[Pub. L. 102–40][/us/pl/102/40], § 402(b)(1), renumbered [section 5003 of this title][/us/usc/t38/s5003] as this section.
 
     Subsec. (a). [Pub. L. 102–83][/us/pl/102/83] substituted “Secretary” for “Administrator” wherever appearing.
 
-    [Pub. L. 102–40, § 402(d)(1)][/us/pl/102/40/s402/d/1], substituted “8104” for “5004” in introductory provisions and “8110(a)(2)” for “5010(a)(2)” in par. (3).
+    [Pub. L. 102–40][/us/pl/102/40], § 402(d)(1), substituted “8104” for “5004” in introductory provisions and “8110(a)(2)” for “5010(a)(2)” in par. (3).
 
     Subsecs. (b), (c). [Pub. L. 102–83][/us/pl/102/83] substituted “Secretary” for “Administrator” wherever appearing.
 
@@ -107,7 +107,7 @@
 
  __Effective Date of 2015 Amendment__ 
 
-[Pub. L. 114–58, title V, § 502(b)][/us/pl/114/58/s502/b], Sept. 30, 2015, [129 Stat. 538][/us/stat/129/538], provided that: 
+[Pub. L. 114–58, title V][/us/pl/114/58/tV], § 502(b), Sept. 30, 2015, [129 Stat. 538][/us/stat/129/538], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply with respect to the following:
 
@@ -117,7 +117,7 @@
 
  __Designation of Construction Agent for Certain Construction Projects by Department of Veterans Affairs__ 
 
-[Pub. L. 114–92, div. A, title X, § 1096][/us/pl/114/92/s1096], Nov. 25, 2015, [129 Stat. 1020][/us/stat/129/1020], provided that:
+[Pub. L. 114–92, div. A, title X][/us/pl/114/92/dA/tX], § 1096, Nov. 25, 2015, [129 Stat. 1020][/us/stat/129/1020], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -129,7 +129,7 @@
 
  __Development of Medical-Facility Modular Components__ 
 
-    [Pub. L. 99–166, title III, § 304][/us/pl/99/166/s304], Dec. 3, 1985, [99 Stat. 956][/us/stat/99/956], directed Administrator of Veterans’ Affairs, not later than one year after Dec. 3, 1985, to develop a modular approach to planning and design of an appropriate Veterans’ Administration medical facility for furnishing of hospital care.
+    [Pub. L. 99–166, title III][/us/pl/99/166/tIII], § 304, Dec. 3, 1985, [99 Stat. 956][/us/stat/99/956], directed Administrator of Veterans’ Affairs, not later than one year after Dec. 3, 1985, to develop a modular approach to planning and design of an appropriate Veterans’ Administration medical facility for furnishing of hospital care.
 
 ----------
 
@@ -141,35 +141,35 @@
 [/us/usc/t38/s8104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs8104
 [/us/usc/t38/s8110/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs8110%2Fa%2F2
 [/us/usc/t38/s316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs316
-[/us/pl/96/22/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F22%2Fs301%2Fa
+[/us/pl/96/22/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F22%2FtIII
 [/us/stat/93/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F56
-[/us/pl/101/237/s603/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237%2Fs603%2Fb
+[/us/pl/101/237/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237%2FtVI
 [/us/stat/103/2097]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2097
-[/us/pl/102/40/s402/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs402%2Fb%2F1
+[/us/pl/102/40/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2FtIV
 [/us/stat/105/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F238
-[/us/pl/102/83/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fb%2F1
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F404
-[/us/pl/103/446/s1201/d/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2Fs1201%2Fd%2F16
+[/us/pl/103/446/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2FtXII
 [/us/stat/108/4684]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4684
-[/us/pl/114/58/s502/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F58%2Fs502%2Fa
+[/us/pl/114/58/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F58%2FtV
 [/us/stat/129/537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F537
 [/us/pl/114/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F58
 [/us/pl/103/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446
-[/us/pl/102/40/s402/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs402%2Fb%2F1
+[/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40
 [/us/usc/t38/s5003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs5003
 [/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
-[/us/pl/102/40/s402/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs402%2Fd%2F1
+[/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40
 [/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/pl/101/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237
-[/us/pl/114/58/s502/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F58%2Fs502%2Fb
+[/us/pl/114/58/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F58%2FtV
 [/us/stat/129/538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F538
 [/us/pl/114/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F19
 [/us/stat/129/215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F215
 [/us/usc/t38/s8103/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs8103%2Fe%2F3
-[/us/pl/114/92/s1096]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1096
+[/us/pl/114/92/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtX
 [/us/stat/129/1020]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1020
 [/us/usc/t31/s1535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1535
-[/us/pl/99/166/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F166%2Fs304
+[/us/pl/99/166/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F166%2FtIII
 [/us/stat/99/956]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F956
 
 

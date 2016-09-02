@@ -63,51 +63,51 @@
 
         the retired or retirement pay of such person shall be exempt from taxation, as provided in subsection (a) of this section, in an amount equal to the amount of pension or compensation which would have been paid to such person but for the receipt by such person of such pay.
 
-([Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1229][/us/stat/72/1229], § 3101; [Pub. L. 94–502, title VII, § 701][/us/pl/94/502/s701], Oct. 15, 1976, [90 Stat. 2405][/us/stat/90/2405]; [Pub. L. 95–479, title III, § 301][/us/pl/95/479/s301], Oct. 18, 1978, [92 Stat. 1564][/us/stat/92/1564]; [Pub. L. 97–295, § 4(74)][/us/pl/97/295/s4/74], Oct. 12, 1982, [96 Stat. 1310][/us/stat/96/1310]; [Pub. L. 99–576, title V, § 504][/us/pl/99/576/s504], title VII, § 701(68), Oct. 28, 1986, [100 Stat. 3286][/us/stat/100/3286], 3296; [Pub. L. 101–189, div. A, title XIV, § 1404(b)(2)][/us/pl/101/189/s1404/b/2], Nov. 29, 1989, [103 Stat. 1586][/us/stat/103/1586]; [Pub. L. 102–25, title VII, § 705(c)(2)][/us/pl/102/25/s705/c/2], Apr. 6, 1991, [105 Stat. 120][/us/stat/105/120]; renumbered § 5301 and amended [Pub. L. 102–40, title IV, § 402(b)(1)][/us/pl/102/40/s402/b/1], (d)(1), May 7, 1991, [105 Stat. 238][/us/stat/105/238], 239; [Pub. L. 102–54, § 14(d)(2)][/us/pl/102/54/s14/d/2], June 13, 1991, [105 Stat. 285][/us/stat/105/285]; [Pub. L. 102–83, § 4(a)(1)][/us/pl/102/83/s4/a/1], (2)(A)(vii), (b)(1), (2)(E), (4)(C), Aug. 6, 1991, [105 Stat. 403–405][/us/stat/105/403-405]; [Pub. L. 102–86, title V, § 505(a)][/us/pl/102/86/s505/a], Aug. 14, 1991, [105 Stat. 426][/us/stat/105/426]; [Pub. L. 108–183, title VII, § 702][/us/pl/108/183/s702], Dec. 16, 2003, [117 Stat. 2671][/us/stat/117/2671].)
+([Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1229][/us/stat/72/1229], § 3101; [Pub. L. 94–502, title VII][/us/pl/94/502/tVII], § 701, Oct. 15, 1976, [90 Stat. 2405][/us/stat/90/2405]; [Pub. L. 95–479, title III][/us/pl/95/479/tIII], § 301, Oct. 18, 1978, [92 Stat. 1564][/us/stat/92/1564]; [Pub. L. 97–295][/us/pl/97/295], § 4(74), Oct. 12, 1982, [96 Stat. 1310][/us/stat/96/1310]; [Pub. L. 99–576, title V][/us/pl/99/576/tV], § 504, title VII, § 701(68), Oct. 28, 1986, [100 Stat. 3286][/us/stat/100/3286], 3296; [Pub. L. 101–189, div. A, title XIV][/us/pl/101/189/dA/tXIV], § 1404(b)(2), Nov. 29, 1989, [103 Stat. 1586][/us/stat/103/1586]; [Pub. L. 102–25, title VII][/us/pl/102/25/tVII], § 705(c)(2), Apr. 6, 1991, [105 Stat. 120][/us/stat/105/120]; renumbered § 5301 and amended [Pub. L. 102–40, title IV][/us/pl/102/40/tIV], § 402(b)(1), (d)(1), May 7, 1991, [105 Stat. 238][/us/stat/105/238], 239; [Pub. L. 102–54][/us/pl/102/54], § 14(d)(2), June 13, 1991, [105 Stat. 285][/us/stat/105/285]; [Pub. L. 102–83][/us/pl/102/83], § 4(a)(1), (2)(A)(vii), (b)(1), (2)(E), (4)(C), Aug. 6, 1991, [105 Stat. 403–405][/us/stat/105/403-405]; [Pub. L. 102–86, title V][/us/pl/102/86/tV], § 505(a), Aug. 14, 1991, [105 Stat. 426][/us/stat/105/426]; [Pub. L. 108–183, title VII][/us/pl/108/183/tVII], § 702, Dec. 16, 2003, [117 Stat. 2671][/us/stat/117/2671].)
 
  __References in Text__ 
 
-    The Electronic Funds Transfers Act, referred to in subsec. (a)(3)(B), probably means the Electronic Funds Transfer Act, title IX of [Pub. L. 90–321][/us/pl/90/321], as added by [Pub. L. 95–630, title XX, § 2001][/us/pl/95/630/s2001], Nov. 10, 1978, [92 Stat. 3728][/us/stat/92/3728], as amended, which is classified generally to subchapter VI (§ 1693 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 15][/us/usc/t15/s1601] and Tables.
+    The Electronic Funds Transfers Act, referred to in subsec. (a)(3)(B), probably means the Electronic Funds Transfer Act, title IX of [Pub. L. 90–321][/us/pl/90/321], as added by [Pub. L. 95–630, title XX][/us/pl/95/630/tXX], § 2001, Nov. 10, 1978, [92 Stat. 3728][/us/stat/92/3728], as amended, which is classified generally to subchapter VI (§ 1693 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 15][/us/usc/t15/s1601] and Tables.
 
  __Amendments__ 
 
     2003—Subsec. (a). [Pub. L. 108–183][/us/pl/108/183] inserted “(1)” after “(a)”, designated last sentence as par. (2), and added par. (3).
 
-    1991—[Pub. L. 102–40, § 402(b)(1)][/us/pl/102/40/s402/b/1], renumbered [section 3101 of this title][/us/usc/t38/s3101] as this section.
+    1991—[Pub. L. 102–40][/us/pl/102/40], § 402(b)(1), renumbered [section 3101 of this title][/us/usc/t38/s3101] as this section.
 
-    Subsecs. (a), (b). [Pub. L. 102–83, § 4(a)(1)][/us/pl/102/83/s4/a/1], substituted “administered by the Secretary” for “administered by the Veterans’ Administration”.
+    Subsecs. (a), (b). [Pub. L. 102–83][/us/pl/102/83], § 4(a)(1), substituted “administered by the Secretary” for “administered by the Veterans’ Administration”.
 
-    Subsec. (c)(1). [Pub. L. 102–83, § 4(b)(1)][/us/pl/102/83/s4/b/1], (2)(E), substituted “Secretary” for “Administrator”.
+    Subsec. (c)(1). [Pub. L. 102–83][/us/pl/102/83], § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
-    [Pub. L. 102–83, § 4(a)(1)][/us/pl/102/83/s4/a/1], substituted “administered by the Secretary” for “administered by the Veterans’ Administration”.
+    [Pub. L. 102–83][/us/pl/102/83], § 4(a)(1), substituted “administered by the Secretary” for “administered by the Veterans’ Administration”.
 
     [Pub. L. 102–25][/us/pl/102/25] made a technical correction to [Pub. L. 101–189][/us/pl/101/189]. See 1989 Amendment note below.
 
-    Subsec. (c)(2). [Pub. L. 102–83, § 4(b)(4)(C)][/us/pl/102/83/s4/b/4/C], substituted “that Secretary” for second, third, and fourth references to “the Secretary”.
+    Subsec. (c)(2). [Pub. L. 102–83][/us/pl/102/83], § 4(b)(4)(C), substituted “that Secretary” for second, third, and fourth references to “the Secretary”.
 
-    [Pub. L. 102–83, § 4(b)(1)][/us/pl/102/83/s4/b/1], (2)(E), substituted “Secretary” for “Administrator” before “to make”.
+    [Pub. L. 102–83][/us/pl/102/83], § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” before “to make”.
 
     Subsec. (c)(4). [Pub. L. 102–86][/us/pl/102/86] inserted before period at end “or to the Retired Pay Account of the Coast Guard, as appropriate”.
 
-    Subsec. (d). [Pub. L. 102–83, § 4(a)(1)][/us/pl/102/83/s4/a/1], substituted “administered by the Secretary” for “administered by the Veterans’ Administration”.
+    Subsec. (d). [Pub. L. 102–83][/us/pl/102/83], § 4(a)(1), substituted “administered by the Secretary” for “administered by the Veterans’ Administration”.
 
     [Pub. L. 102–54][/us/pl/102/54] amended subsec. (d) as in effect immediately before enactment of [Pub. L. 102–40][/us/pl/102/40] by substituting “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 
-    Subsec. (e)(1). [Pub. L. 102–83, § 4(a)(1)][/us/pl/102/83/s4/a/1], substituted “administered by the Secretary” for “administered by the Veterans’ Administration”.
+    Subsec. (e)(1). [Pub. L. 102–83][/us/pl/102/83], § 4(a)(1), substituted “administered by the Secretary” for “administered by the Veterans’ Administration”.
 
-    Subsec. (e)(2). [Pub. L. 102–83, § 4(a)(2)(A)(vii)][/us/pl/102/83/s4/a/2/A/vii], substituted “Secretary” for “Veterans’ Administration”.
+    Subsec. (e)(2). [Pub. L. 102–83][/us/pl/102/83], § 4(a)(2)(A)(vii), substituted “Secretary” for “Veterans’ Administration”.
 
-    [Pub. L. 102–40, § 402(d)(1)][/us/pl/102/40/s402/d/1], substituted “5305” for “3105”.
+    [Pub. L. 102–40][/us/pl/102/40], § 402(d)(1), substituted “5305” for “3105”.
 
     1989—Subsec. (c)(1). [Pub. L. 101–189][/us/pl/101/189], as amended by [Pub. L. 102–25][/us/pl/102/25], struck out “subchapter I or II of” after “plan prescribed in”.
 
-    1986—Subsec. (a). [Pub. L. 99–576, § 701(68)(A)][/us/pl/99/576/s701/68/A], substituted “a” for “his or her” before “benefit check”.
+    1986—Subsec. (a). [Pub. L. 99–576][/us/pl/99/576], § 701(68)(A), substituted “a” for “his or her” before “benefit check”.
 
-    Subsec. (b). [Pub. L. 99–576, § 701(68)(B)][/us/pl/99/576/s701/68/B], substituted “the beneficiary’s” for “his” in four places in first sentence.
+    Subsec. (b). [Pub. L. 99–576][/us/pl/99/576], § 701(68)(B), substituted “the beneficiary’s” for “his” in four places in first sentence.
 
-    Subsec. (c). [Pub. L. 99–576, § 504(2)][/us/pl/99/576/s504/2], added subsec. (c). Former subsec. (c) redesignated (d).
+    Subsec. (c). [Pub. L. 99–576][/us/pl/99/576], § 504(2), added subsec. (c). Former subsec. (c) redesignated (d).
 
-    Subsecs. (d), (e). [Pub. L. 99–576, § 504(1)][/us/pl/99/576/s504/1], redesignated former subsecs. (c) and (d) as (d) and (e), respectively.
+    Subsecs. (d), (e). [Pub. L. 99–576][/us/pl/99/576], § 504(1), redesignated former subsecs. (c) and (d) as (d) and (e), respectively.
 
     1982—Subsec. (c). [Pub. L. 97–295][/us/pl/97/295] inserted “of this section” after “subsection (a)”, and substituted “([26 U.S.C. 6331][/us/usc/t26/s6331] et seq.)” for “(relating to seizure of property for collection of taxes)”.
 
@@ -117,7 +117,7 @@
 
  __Effective Date of 1991 Amendment__ 
 
-[Pub. L. 102–86, title V, § 505(b)][/us/pl/102/86/s505/b], Aug. 14, 1991, [105 Stat. 426][/us/stat/105/426], provided that: 
+[Pub. L. 102–86, title V][/us/pl/102/86/tV], § 505(b), Aug. 14, 1991, [105 Stat. 426][/us/stat/105/426], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply with respect to funds collected after September 30, 1991.”
 
@@ -139,7 +139,7 @@
 
  __Undue Hardship Cases__ 
 
-    [Pub. L. 95–202, title III, § 305(c)][/us/pl/95/202/s305/c], Nov. 23, 1977, [91 Stat. 1444][/us/stat/91/1444], provided that Administrator could provide equitable relief to educational institutions and accredited correspondence schools which were in possession of a veteran’s or eligible person’s benefit check payable to the veteran or person and mailed to the institution or school for certain courses or lessons completed by the veteran or person at the institution or school before certain dates in 1977 and which were holding a power of attorney executed by the veteran or person before Dec. 1, 1976, authorizing negotiation of the check.
+    [Pub. L. 95–202, title III][/us/pl/95/202/tIII], § 305(c), Nov. 23, 1977, [91 Stat. 1444][/us/stat/91/1444], provided that Administrator could provide equitable relief to educational institutions and accredited correspondence schools which were in possession of a veteran’s or eligible person’s benefit check payable to the veteran or person and mailed to the institution or school for certain courses or lessons completed by the veteran or person at the institution or school before certain dates in 1977 and which were holding a power of attorney executed by the veteran or person before Dec. 1, 1976, authorizing negotiation of the check.
 
 ----------
 
@@ -157,60 +157,60 @@
 [/us/usc/t38/s5305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs5305
 [/us/pl/85/857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F857
 [/us/stat/72/1229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1229
-[/us/pl/94/502/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F502%2Fs701
+[/us/pl/94/502/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F502%2FtVII
 [/us/stat/90/2405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2405
-[/us/pl/95/479/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F479%2Fs301
+[/us/pl/95/479/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F479%2FtIII
 [/us/stat/92/1564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1564
-[/us/pl/97/295/s4/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295%2Fs4%2F74
+[/us/pl/97/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295
 [/us/stat/96/1310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1310
-[/us/pl/99/576/s504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2Fs504
+[/us/pl/99/576/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2FtV
 [/us/stat/100/3286]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3286
-[/us/pl/101/189/s1404/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs1404%2Fb%2F2
+[/us/pl/101/189/dA/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdA%2FtXIV
 [/us/stat/103/1586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1586
-[/us/pl/102/25/s705/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25%2Fs705%2Fc%2F2
+[/us/pl/102/25/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25%2FtVII
 [/us/stat/105/120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F120
-[/us/pl/102/40/s402/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs402%2Fb%2F1
+[/us/pl/102/40/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2FtIV
 [/us/stat/105/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F238
-[/us/pl/102/54/s14/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54%2Fs14%2Fd%2F2
+[/us/pl/102/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54
 [/us/stat/105/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F285
-[/us/pl/102/83/s4/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fa%2F1
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/403-405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F403-405
-[/us/pl/102/86/s505/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F86%2Fs505%2Fa
+[/us/pl/102/86/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F86%2FtV
 [/us/stat/105/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F426
-[/us/pl/108/183/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F183%2Fs702
+[/us/pl/108/183/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F183%2FtVII
 [/us/stat/117/2671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2671
 [/us/pl/90/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321
-[/us/pl/95/630/s2001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2Fs2001
+[/us/pl/95/630/tXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2FtXX
 [/us/stat/92/3728]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3728
 [/us/usc/t15/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1601
 [/us/pl/108/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F183
-[/us/pl/102/40/s402/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs402%2Fb%2F1
+[/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40
 [/us/usc/t38/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3101
-[/us/pl/102/83/s4/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fa%2F1
-[/us/pl/102/83/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fb%2F1
-[/us/pl/102/83/s4/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fa%2F1
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/pl/102/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25
 [/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
-[/us/pl/102/83/s4/b/4/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fb%2F4%2FC
-[/us/pl/102/83/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fb%2F1
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/pl/102/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F86
-[/us/pl/102/83/s4/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fa%2F1
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/pl/102/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54
 [/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40
-[/us/pl/102/83/s4/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fa%2F1
-[/us/pl/102/83/s4/a/2/A/vii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fa%2F2%2FA%2Fvii
-[/us/pl/102/40/s402/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs402%2Fd%2F1
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40
 [/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
 [/us/pl/102/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25
-[/us/pl/99/576/s701/68/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2Fs701%2F68%2FA
-[/us/pl/99/576/s701/68/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2Fs701%2F68%2FB
-[/us/pl/99/576/s504/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2Fs504%2F2
-[/us/pl/99/576/s504/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2Fs504%2F1
+[/us/pl/99/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576
+[/us/pl/99/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576
+[/us/pl/99/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576
+[/us/pl/99/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576
 [/us/pl/97/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295
 [/us/usc/t26/s6331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6331
 [/us/pl/95/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F479
 [/us/pl/94/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F502
-[/us/pl/102/86/s505/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F86%2Fs505%2Fb
+[/us/pl/102/86/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F86%2FtV
 [/us/stat/105/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F426
 [/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
 [/us/pl/101/189/s1404/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs1404%2Fb%2F3
@@ -222,7 +222,7 @@
 [/us/pl/94/502/s703/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F502%2Fs703%2Fc
 [/us/usc/t38/s3693]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3693
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
-[/us/pl/95/202/s305/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F202%2Fs305%2Fc
+[/us/pl/95/202/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F202%2FtIII
 [/us/stat/91/1444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1444
 
 

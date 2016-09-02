@@ -17,7 +17,7 @@
 
     The Secretary shall take such actions as may be necessary to provide for the expeditious treatment by the appropriate regional office of the Veterans Benefits Administration of any claim that is remanded to a regional office of the Veterans Benefits Administration by the Board of Veterans’ Appeals.
 
-(Added [Pub. L. 108–183, title VII, § 707(a)(1)][/us/pl/108/183/s707/a/1], Dec. 16, 2003, [117 Stat. 2672][/us/stat/117/2672].)
+(Added [Pub. L. 108–183, title VII][/us/pl/108/183/tVII], § 707(a)(1), Dec. 16, 2003, [117 Stat. 2672][/us/stat/117/2672].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/108/183/s707/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F183%2Fs707%2Fa%2F1
+[/us/pl/108/183/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F183%2FtVII
 [/us/stat/117/2672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2672
 
 

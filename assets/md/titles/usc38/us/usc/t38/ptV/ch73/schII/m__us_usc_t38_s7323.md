@@ -21,7 +21,7 @@
 
     (2) the director of a medical center shall include a registered nurse as a member of any committee used at that medical center to provide recommendations or decisions on medical center operations or policy affecting clinical services, clinical outcomes, budget, or resources.
 
-(Added [Pub. L. 106–419, title II, § 201(b)(1)][/us/pl/106/419/s201/b/1], Nov. 1, 2000, [114 Stat. 1840][/us/stat/114/1840].)
+(Added [Pub. L. 106–419, title II][/us/pl/106/419/tII], § 201(b)(1), Nov. 1, 2000, [114 Stat. 1840][/us/stat/114/1840].)
 
 ----------
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/106/419/s201/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419%2Fs201%2Fb%2F1
+[/us/pl/106/419/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419%2FtII
 [/us/stat/114/1840]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1840
 
 

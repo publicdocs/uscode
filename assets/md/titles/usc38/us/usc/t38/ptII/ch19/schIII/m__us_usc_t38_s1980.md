@@ -47,7 +47,7 @@
 
     (h) Notwithstanding any other provision of law, the amount of the accelerated death benefit received by a person under this section shall not be considered income or resources for purposes of determining eligibility for or the amount of benefits under any Federal or federally-assisted program or for any other purpose.
 
-(Added [Pub. L. 105–368, title III, § 302(a)(1)][/us/pl/105/368/s302/a/1], Nov. 11, 1998, [112 Stat. 3332][/us/stat/112/3332]; amended [Pub. L. 111–275, title IV, § 405(a)][/us/pl/111/275/s405/a], Oct. 13, 2010, [124 Stat. 2880][/us/stat/124/2880].)
+(Added [Pub. L. 105–368, title III][/us/pl/105/368/tIII], § 302(a)(1), Nov. 11, 1998, [112 Stat. 3332][/us/stat/112/3332]; amended [Pub. L. 111–275, title IV][/us/pl/111/275/tIV], § 405(a), Oct. 13, 2010, [124 Stat. 2880][/us/stat/124/2880].)
 
  __Amendments__ 
 
@@ -55,7 +55,7 @@
 
  __Effective Date of 2010 Amendment__ 
 
-[Pub. L. 111–275, title IV, § 405(b)][/us/pl/111/275/s405/b], Oct. 13, 2010, [124 Stat. 2880][/us/stat/124/2880], provided that: 
+[Pub. L. 111–275, title IV][/us/pl/111/275/tIV], § 405(b), Oct. 13, 2010, [124 Stat. 2880][/us/stat/124/2880], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply with respect to a payment of an accelerated death benefit under [section 1980 of title 38][/us/usc/t38/s1980], United States Code, made on or after the date of the enactment of this Act \[Oct. 13, 2010\].”
 
@@ -74,12 +74,12 @@
 [/us/usc/t38/s1977/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1977%2Fc
 [/us/usc/t38/s1968/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1968%2Fb
 [/us/usc/t38/s1977/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1977%2Fa
-[/us/pl/105/368/s302/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2Fs302%2Fa%2F1
+[/us/pl/105/368/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2FtIII
 [/us/stat/112/3332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3332
-[/us/pl/111/275/s405/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275%2Fs405%2Fa
+[/us/pl/111/275/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275%2FtIV
 [/us/stat/124/2880]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2880
 [/us/pl/111/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275
-[/us/pl/111/275/s405/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275%2Fs405%2Fb
+[/us/pl/111/275/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275%2FtIV
 [/us/stat/124/2880]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2880
 [/us/usc/t38/s1980]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1980
 [/us/pl/105/368/s302/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2Fs302%2Fc

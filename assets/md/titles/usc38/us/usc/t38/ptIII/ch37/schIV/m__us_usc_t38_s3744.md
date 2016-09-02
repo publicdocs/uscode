@@ -21,13 +21,13 @@
 
     (c) The Secretary may at any time upon thirty days’ notice require loans to be made by any lender or class of lenders under this subchapter to be submitted to the Secretary for prior approval. No guaranty shall exist with respect to any such loan unless evidence of the guaranty is issued by the Secretary.
 
-(Added [Pub. L. 97–72, title III, § 302(a)][/us/pl/97/72/s302/a], Nov. 3, 1981, [95 Stat. 1057][/us/stat/95/1057], § 1844; amended [Pub. L. 101–237, title III, § 313(b)(1)][/us/pl/101/237/s313/b/1], Dec. 18, 1989, [103 Stat. 2077][/us/stat/103/2077]; renumbered § 3744 and amended [Pub. L. 102–83, § 5(a)][/us/pl/102/83/s5/a], (c)(1), Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406].)
+(Added [Pub. L. 97–72, title III][/us/pl/97/72/tIII], § 302(a), Nov. 3, 1981, [95 Stat. 1057][/us/stat/95/1057], § 1844; amended [Pub. L. 101–237, title III][/us/pl/101/237/tIII], § 313(b)(1), Dec. 18, 1989, [103 Stat. 2077][/us/stat/103/2077]; renumbered § 3744 and amended [Pub. L. 102–83][/us/pl/102/83], § 5(a), (c)(1), Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406].)
 
  __Amendments__ 
 
-    1991—[Pub. L. 102–83, § 5(a)][/us/pl/102/83/s5/a], renumbered [section 1844 of this title][/us/usc/t38/s1844] as this section.
+    1991—[Pub. L. 102–83][/us/pl/102/83], § 5(a), renumbered [section 1844 of this title][/us/usc/t38/s1844] as this section.
 
-    Subsec. (b). [Pub. L. 102–83, § 5(c)(1)][/us/pl/102/83/s5/c/1], substituted “3702(d)” for “1802(d)”.
+    Subsec. (b). [Pub. L. 102–83][/us/pl/102/83], § 5(c)(1), substituted “3702(d)” for “1802(d)”.
 
     1989—[Pub. L. 101–237][/us/pl/101/237] substituted “Secretary” for “Administrator” in section catchline and wherever appearing in text.
 
@@ -39,15 +39,15 @@
 ----------
 
 [/us/usc/t38/s3702/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3702%2Fd
-[/us/pl/97/72/s302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F72%2Fs302%2Fa
+[/us/pl/97/72/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F72%2FtIII
 [/us/stat/95/1057]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1057
-[/us/pl/101/237/s313/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237%2Fs313%2Fb%2F1
+[/us/pl/101/237/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237%2FtIII
 [/us/stat/103/2077]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2077
-[/us/pl/102/83/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fa
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F406
-[/us/pl/102/83/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fa
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/usc/t38/s1844]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1844
-[/us/pl/102/83/s5/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fc%2F1
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/pl/101/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237
 
 

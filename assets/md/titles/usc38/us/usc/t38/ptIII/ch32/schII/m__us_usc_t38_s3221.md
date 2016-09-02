@@ -27,19 +27,19 @@
 
     (f) An individual who serves in the Selected Reserve may not receive credit for such service under both the program established by this chapter and the program established by chapter 106 of title 10 but shall elect (in such form and manner as the Secretary of Veterans Affairs may prescribe) the program to which such service is to be credited.
 
-(Added [Pub. L. 94–502, title IV, § 404][/us/pl/94/502/s404], Oct. 15, 1976, [90 Stat. 2394][/us/stat/90/2394], § 1621; amended [Pub. L. 99–576, title III, § 309(a)(3)][/us/pl/99/576/s309/a/3], Oct. 28, 1986, [100 Stat. 3270][/us/stat/100/3270]; [Pub. L. 101–237, title IV][/us/pl/101/237], §§ 410, 423(b)(1)(A), (4)(A), (6), Dec. 18, 1989, [103 Stat. 2084][/us/stat/103/2084], 2092, 2093; renumbered § 3221 and amended [Pub. L. 102–83, § 5(a)][/us/pl/102/83/s5/a], (c)(1), Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406].)
+(Added [Pub. L. 94–502, title IV][/us/pl/94/502/tIV], § 404, Oct. 15, 1976, [90 Stat. 2394][/us/stat/90/2394], § 1621; amended [Pub. L. 99–576, title III][/us/pl/99/576/tIII], § 309(a)(3), Oct. 28, 1986, [100 Stat. 3270][/us/stat/100/3270]; [Pub. L. 101–237, title IV][/us/pl/101/237/tIV], §§ 410, 423(b)(1)(A), (4)(A), (6), Dec. 18, 1989, [103 Stat. 2084][/us/stat/103/2084], 2092, 2093; renumbered § 3221 and amended [Pub. L. 102–83][/us/pl/102/83], § 5(a), (c)(1), Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406].)
 
  __Amendments__ 
 
-    1991—[Pub. L. 102–83, § 5(a)][/us/pl/102/83/s5/a], renumbered [section 1621 of this title][/us/usc/t38/s1621] as this section.
+    1991—[Pub. L. 102–83][/us/pl/102/83], § 5(a), renumbered [section 1621 of this title][/us/usc/t38/s1621] as this section.
 
-    Subsec. (d). [Pub. L. 102–83, § 5(c)(1)][/us/pl/102/83/s5/c/1], substituted “3223” for “1623”.
+    Subsec. (d). [Pub. L. 102–83][/us/pl/102/83], § 5(c)(1), substituted “3223” for “1623”.
 
-    1989—Subsec. (b)(1). [Pub. L. 101–237, § 423(b)(1)(A)][/us/pl/101/237/s423/b/1/A], (4)(A), substituted “Secretary” for “Administrator” after “jointly by the” and struck out “(hereinafter in this chapter referred to as the ‘Secretary’)” after “Secretary of Defense”.
+    1989—Subsec. (b)(1). [Pub. L. 101–237][/us/pl/101/237], § 423(b)(1)(A), (4)(A), substituted “Secretary” for “Administrator” after “jointly by the” and struck out “(hereinafter in this chapter referred to as the ‘Secretary’)” after “Secretary of Defense”.
 
-    Subsecs. (c), (e). [Pub. L. 101–237, § 423(b)(1)(A)][/us/pl/101/237/s423/b/1/A], (4)(A), substituted “Secretary” for “Administrator” after “jointly by the” and inserted “of Defense” after “Secretary” at end.
+    Subsecs. (c), (e). [Pub. L. 101–237][/us/pl/101/237], § 423(b)(1)(A), (4)(A), substituted “Secretary” for “Administrator” after “jointly by the” and inserted “of Defense” after “Secretary” at end.
 
-    Subsec. (f). [Pub. L. 101–237, § 410][/us/pl/101/237/s410], added subsec. (f).
+    Subsec. (f). [Pub. L. 101–237][/us/pl/101/237], § 410, added subsec. (f).
 
     1986—Subsec. (a). [Pub. L. 99–576][/us/pl/99/576] inserted “and before July 1, 1985,” and “before July 1, 1985” in first sentence.
 
@@ -49,11 +49,11 @@
 
  __Suspension of Right To Enroll in Post-Vietnam Era Program__ 
 
-    [Pub. L. 98–525, title VII, § 704][/us/pl/98/525/s704], Oct. 19, 1984, [98 Stat. 2564][/us/stat/98/2564], which provided that no individual on active duty in the Armed Forces could initially enroll in the educational assistance program provided for in this chapter during the period beginning on July 1, 1985, and ending on June 30, 1988, was repealed by [Pub. L. 99–576, title III, § 309(b)][/us/pl/99/576/s309/b], Oct. 28, 1986, [100 Stat. 3270][/us/stat/100/3270].
+    [Pub. L. 98–525, title VII][/us/pl/98/525/tVII], § 704, Oct. 19, 1984, [98 Stat. 2564][/us/stat/98/2564], which provided that no individual on active duty in the Armed Forces could initially enroll in the educational assistance program provided for in this chapter during the period beginning on July 1, 1985, and ending on June 30, 1988, was repealed by [Pub. L. 99–576, title III][/us/pl/99/576/tIII], § 309(b), Oct. 28, 1986, [100 Stat. 3270][/us/stat/100/3270].
 
  __New Enrollments in Educational Assistance Program After__  __December 31, 1981__  __, Presidential Recommendation to Congress__ 
 
-[Pub. L. 94–502, title IV, § 408][/us/pl/94/502/s408], Oct. 15, 1976, [90 Stat. 2397][/us/stat/90/2397], provided that:
+[Pub. L. 94–502, title IV][/us/pl/94/502/tIV], § 408, Oct. 15, 1976, [90 Stat. 2397][/us/stat/90/2397], provided that:
 
 >     “(a)
 
@@ -85,28 +85,28 @@
 ----------
 
 [/us/usc/t38/s3223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3223
-[/us/pl/94/502/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F502%2Fs404
+[/us/pl/94/502/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F502%2FtIV
 [/us/stat/90/2394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2394
-[/us/pl/99/576/s309/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2Fs309%2Fa%2F3
+[/us/pl/99/576/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2FtIII
 [/us/stat/100/3270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3270
-[/us/pl/101/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237
+[/us/pl/101/237/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237%2FtIV
 [/us/stat/103/2084]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2084
-[/us/pl/102/83/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fa
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F406
-[/us/pl/102/83/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fa
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/usc/t38/s1621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1621
-[/us/pl/102/83/s5/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fc%2F1
-[/us/pl/101/237/s423/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237%2Fs423%2Fb%2F1%2FA
-[/us/pl/101/237/s423/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237%2Fs423%2Fb%2F1%2FA
-[/us/pl/101/237/s410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237%2Fs410
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/101/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237
+[/us/pl/101/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237
+[/us/pl/101/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237
 [/us/pl/99/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576
 [/us/pl/99/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576
 [/us/usc/t38/s3201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3201
-[/us/pl/98/525/s704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs704
+[/us/pl/98/525/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2FtVII
 [/us/stat/98/2564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2564
-[/us/pl/99/576/s309/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2Fs309%2Fb
+[/us/pl/99/576/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2FtIII
 [/us/stat/100/3270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3270
-[/us/pl/94/502/s408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F502%2Fs408
+[/us/pl/94/502/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F502%2FtIV
 [/us/stat/90/2397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2397
 
 

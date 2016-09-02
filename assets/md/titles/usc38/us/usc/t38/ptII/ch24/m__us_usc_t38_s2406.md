@@ -17,7 +17,7 @@
 
     As additional lands are needed for national cemeteries, they may be acquired by the Secretary by purchase, gift (including donations from States or political subdivisions thereof), condemnation, transfer from other Federal agencies, exchange, or otherwise, as the Secretary determines to be in the best interest of the United States.
 
-(Added [Pub. L. 93–43, § 2(a)][/us/pl/93/43/s2/a], June 18, 1973, [87 Stat. 78][/us/stat/87/78], § 1006; amended [Pub. L. 99–576, title VII, § 701(57)][/us/pl/99/576/s701/57], Oct. 28, 1986, [100 Stat. 3295][/us/stat/100/3295]; [Pub. L. 101–237, title III, § 313(b)(1)][/us/pl/101/237/s313/b/1], Dec. 18, 1989, [103 Stat. 2077][/us/stat/103/2077]; renumbered § 2406, [Pub. L. 102–83, § 5(a)][/us/pl/102/83/s5/a], Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406]; [Pub. L. 108–454, title VI, § 603][/us/pl/108/454/s603], Dec. 10, 2004, [118 Stat. 3624][/us/stat/118/3624].)
+(Added [Pub. L. 93–43][/us/pl/93/43], § 2(a), June 18, 1973, [87 Stat. 78][/us/stat/87/78], § 1006; amended [Pub. L. 99–576, title VII][/us/pl/99/576/tVII], § 701(57), Oct. 28, 1986, [100 Stat. 3295][/us/stat/100/3295]; [Pub. L. 101–237, title III][/us/pl/101/237/tIII], § 313(b)(1), Dec. 18, 1989, [103 Stat. 2077][/us/stat/103/2077]; renumbered § 2406, [Pub. L. 102–83][/us/pl/102/83], § 5(a), Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406]; [Pub. L. 108–454, title VI][/us/pl/108/454/tVI], § 603, Dec. 10, 2004, [118 Stat. 3624][/us/stat/118/3624].)
 
  __Amendments__ 
 
@@ -36,15 +36,15 @@
 ----------
 ----------
 
-[/us/pl/93/43/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F43%2Fs2%2Fa
+[/us/pl/93/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F43
 [/us/stat/87/78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F78
-[/us/pl/99/576/s701/57]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2Fs701%2F57
+[/us/pl/99/576/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2FtVII
 [/us/stat/100/3295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3295
-[/us/pl/101/237/s313/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237%2Fs313%2Fb%2F1
+[/us/pl/101/237/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237%2FtIII
 [/us/stat/103/2077]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2077
-[/us/pl/102/83/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fa
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F406
-[/us/pl/108/454/s603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F454%2Fs603
+[/us/pl/108/454/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F454%2FtVI
 [/us/stat/118/3624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3624
 [/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/usc/t38/s1006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1006

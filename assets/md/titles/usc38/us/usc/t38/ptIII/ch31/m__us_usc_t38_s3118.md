@@ -21,7 +21,7 @@
 
     (c) Notwithstanding any other provision of law, the Secretary shall establish such qualifications for personnel providing evaluation and rehabilitation services to veterans under this chapter and for employees performing the functions described in [section 3106(f) of this title][/us/usc/t38/s3106/f] as the Secretary determines are necessary and appropriate to insure the quality of rehabilitation programs under this chapter. In establishing such qualifications, the Secretary shall take into account the qualifications established for comparable personnel under the Rehabilitation Act of 1973 (29 U.S.C. ch. 16).
 
-(Added [Pub. L. 96–466, title I, § 101(a)][/us/pl/96/466/s101/a], Oct. 17, 1980, [94 Stat. 2184][/us/stat/94/2184], § 1518; amended [Pub. L. 101–237, title IV, § 423(b)(1)][/us/pl/101/237/s423/b/1], Dec. 18, 1989, [103 Stat. 2092][/us/stat/103/2092]; renumbered § 3118 and amended [Pub. L. 102–83, § 5(a)][/us/pl/102/83/s5/a], (c)(1), Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406]; [Pub. L. 104–275, title I, § 101(f)(2)(C)][/us/pl/104/275/s101/f/2/C], Oct. 9, 1996, [110 Stat. 3325][/us/stat/110/3325].)
+(Added [Pub. L. 96–466, title I][/us/pl/96/466/tI], § 101(a), Oct. 17, 1980, [94 Stat. 2184][/us/stat/94/2184], § 1518; amended [Pub. L. 101–237, title IV][/us/pl/101/237/tIV], § 423(b)(1), Dec. 18, 1989, [103 Stat. 2092][/us/stat/103/2092]; renumbered § 3118 and amended [Pub. L. 102–83][/us/pl/102/83], § 5(a), (c)(1), Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406]; [Pub. L. 104–275, title I][/us/pl/104/275/tI], § 101(f)(2)(C), Oct. 9, 1996, [110 Stat. 3325][/us/stat/110/3325].)
 
  __References in Text__ 
 
@@ -35,9 +35,9 @@
 
     1996—Subsec. (c). [Pub. L. 104–275][/us/pl/104/275] substituted “3106(f)” for “3106(e)”.
 
-    1991—[Pub. L. 102–83, § 5(a)][/us/pl/102/83/s5/a], renumbered [section 1518 of this title][/us/usc/t38/s1518] as this section.
+    1991—[Pub. L. 102–83][/us/pl/102/83], § 5(a), renumbered [section 1518 of this title][/us/usc/t38/s1518] as this section.
 
-    Subsec. (c). [Pub. L. 102–83, § 5(c)(1)][/us/pl/102/83/s5/c/1], substituted “3106(e)” for “1506(e)”.
+    Subsec. (c). [Pub. L. 102–83][/us/pl/102/83], § 5(c)(1), substituted “3106(e)” for “1506(e)”.
 
     1989—[Pub. L. 101–237][/us/pl/101/237] substituted “Secretary” and “Department of Veterans Affairs” for “Administrator” and “Veterans’ Administration”, respectively, wherever appearing.
 
@@ -53,22 +53,22 @@
 ----------
 
 [/us/usc/t38/s3106/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3106%2Ff
-[/us/pl/96/466/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F466%2Fs101%2Fa
+[/us/pl/96/466/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F466%2FtI
 [/us/stat/94/2184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2184
-[/us/pl/101/237/s423/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237%2Fs423%2Fb%2F1
+[/us/pl/101/237/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237%2FtIV
 [/us/stat/103/2092]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2092
-[/us/pl/102/83/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fa
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F406
-[/us/pl/104/275/s101/f/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275%2Fs101%2Ff%2F2%2FC
+[/us/pl/104/275/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275%2FtI
 [/us/stat/110/3325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3325
 [/us/pl/93/112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112
 [/us/stat/87/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F355
 [/us/usc/t29/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs701
 [/us/usc/t38/s5318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs5318
 [/us/pl/104/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275
-[/us/pl/102/83/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fa
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/usc/t38/s1518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1518
-[/us/pl/102/83/s5/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fc%2F1
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/pl/101/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237
 [/us/pl/96/466/s802/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F466%2Fs802%2Fa%2F2
 [/us/usc/t38/s3100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3100

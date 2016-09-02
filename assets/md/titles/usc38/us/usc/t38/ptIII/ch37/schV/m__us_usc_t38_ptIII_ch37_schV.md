@@ -17,7 +17,7 @@
 
  __Amendments__ 
 
-    2006—[Pub. L. 109–233, title I, § 103(f)(1)][/us/pl/109/233/s103/f/1], June 15, 2006, [120 Stat. 400][/us/stat/120/400], substituted “DIRECT HOUSING LOANS FOR NATIVE AMERICAN VETERANS” for “NATIVE AMERICAN VETERAN HOUSING LOAN PILOT PROGRAM” in subchapter heading.
+    2006—[Pub. L. 109–233, title I][/us/pl/109/233/tI], § 103(f)(1), June 15, 2006, [120 Stat. 400][/us/stat/120/400], substituted “DIRECT HOUSING LOANS FOR NATIVE AMERICAN VETERANS” for “NATIVE AMERICAN VETERAN HOUSING LOAN PILOT PROGRAM” in subchapter heading.
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/109/233/s103/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F233%2Fs103%2Ff%2F1
+[/us/pl/109/233/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F233%2FtI
 [/us/stat/120/400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F400
 
 

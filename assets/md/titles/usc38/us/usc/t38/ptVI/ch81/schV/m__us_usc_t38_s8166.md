@@ -17,7 +17,7 @@
 
     The construction, alteration, repair, remodeling, or improvement of a property that is the subject of an enhanced-use lease shall be carried out so as to comply with all applicable provisions of Federal, State, and local law relating to land use, building standards, permits, and inspections.
 
-(Added [Pub. L. 102–86, title IV, § 401(a)][/us/pl/102/86/s401/a], Aug. 14, 1991, [105 Stat. 421][/us/stat/105/421]; amended [Pub. L. 108–422, title IV, § 417][/us/pl/108/422/s417], Nov. 30, 2004, [118 Stat. 2393][/us/stat/118/2393]; Pub. L. 112—154, title II, § 211(g), Aug. 6, 2012, [126 Stat. 1181][/us/stat/126/1181].)
+(Added [Pub. L. 102–86, title IV][/us/pl/102/86/tIV], § 401(a), Aug. 14, 1991, [105 Stat. 421][/us/stat/105/421]; amended [Pub. L. 108–422, title IV][/us/pl/108/422/tIV], § 417, Nov. 30, 2004, [118 Stat. 2393][/us/stat/118/2393]; Pub. L. 112—154, title II, § 211(g), Aug. 6, 2012, [126 Stat. 1181][/us/stat/126/1181].)
 
  __Amendments__ 
 
@@ -36,9 +36,9 @@
 ----------
 ----------
 
-[/us/pl/102/86/s401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F86%2Fs401%2Fa
+[/us/pl/102/86/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F86%2FtIV
 [/us/stat/105/421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F421
-[/us/pl/108/422/s417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F422%2Fs417
+[/us/pl/108/422/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F422%2FtIV
 [/us/stat/118/2393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2393
 [/us/stat/126/1181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1181
 [/us/pl/112/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154

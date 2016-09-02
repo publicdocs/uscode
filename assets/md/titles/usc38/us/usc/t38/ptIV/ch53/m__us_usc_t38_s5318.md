@@ -27,15 +27,15 @@
 
     (b) The Social Security Administration death information referred to in subsection (a) of this section is death information available to the Secretary from or through the Commissioner of Social Security, including death information available to the Commissioner from a State, pursuant to a memorandum of understanding entered into by the Secretary and the Commissioner. Any such memorandum of understanding shall include safeguards to assure that information made available under it is not used for unauthorized purposes or improperly disclosed.
 
-(Added [Pub. L. 101–508, title VIII, § 8053(b)(1)][/us/pl/101/508/s8053/b/1], Nov. 5, 1990, [104 Stat. 1388–352][/us/stat/104/1388-352], § 3118; renumbered § 5318, [Pub. L. 102–40, title IV, § 402(b)(1)][/us/pl/102/40/s402/b/1], May 7, 1991, [105 Stat. 238][/us/stat/105/238]; [Pub. L. 108–183, title VII, § 708(c)(4)(A)][/us/pl/108/183/s708/c/4/A], (B)(i), Dec. 16, 2003, [117 Stat. 2674][/us/stat/117/2674].)
+(Added [Pub. L. 101–508, title VIII][/us/pl/101/508/tVIII], § 8053(b)(1), Nov. 5, 1990, [104 Stat. 1388–352][/us/stat/104/1388-352], § 3118; renumbered § 5318, [Pub. L. 102–40, title IV][/us/pl/102/40/tIV], § 402(b)(1), May 7, 1991, [105 Stat. 238][/us/stat/105/238]; [Pub. L. 108–183, title VII][/us/pl/108/183/tVII], § 708(c)(4)(A), (B)(i), Dec. 16, 2003, [117 Stat. 2674][/us/stat/117/2674].)
 
  __Amendments__ 
 
-    2003—[Pub. L. 108–183, § 708(c)(4)(B)(i)][/us/pl/108/183/s708/c/4/B/i], substituted “Social Security Administration” for “Department of Health and Human Services” in section catchline.
+    2003—[Pub. L. 108–183][/us/pl/108/183], § 708(c)(4)(B)(i), substituted “Social Security Administration” for “Department of Health and Human Services” in section catchline.
 
-    Subsec. (a). [Pub. L. 108–183, § 708(c)(4)(A)(i)][/us/pl/108/183/s708/c/4/A/i], substituted “Social Security Administration” for “Department of Health and Human Services” in introductory provisions.
+    Subsec. (a). [Pub. L. 108–183][/us/pl/108/183], § 708(c)(4)(A)(i), substituted “Social Security Administration” for “Department of Health and Human Services” in introductory provisions.
 
-    Subsec. (b). [Pub. L. 108–183, § 708(c)(4)(A)(ii)][/us/pl/108/183/s708/c/4/A/ii], substituted “Social Security Administration” for “Department of Health and Human Services”, “Commissioner of Social Security” for “Secretary of Health and Human Services” after “through the”, “Commissioner” for “Secretary of Health and Human Services” after “available to the”, and “the Secretary and the Commissioner” for “such Secretaries”.
+    Subsec. (b). [Pub. L. 108–183][/us/pl/108/183], § 708(c)(4)(A)(ii), substituted “Social Security Administration” for “Department of Health and Human Services”, “Commissioner of Social Security” for “Secretary of Health and Human Services” after “through the”, “Commissioner” for “Secretary of Health and Human Services” after “available to the”, and “the Secretary and the Commissioner” for “such Secretaries”.
 
     1991—[Pub. L. 102–40][/us/pl/102/40] renumbered [section 3118 of this title][/us/usc/t38/s3118] as this section.
 
@@ -46,15 +46,15 @@
 ----------
 ----------
 
-[/us/pl/101/508/s8053/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs8053%2Fb%2F1
+[/us/pl/101/508/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtVIII
 [/us/stat/104/1388-352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-352
-[/us/pl/102/40/s402/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs402%2Fb%2F1
+[/us/pl/102/40/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2FtIV
 [/us/stat/105/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F238
-[/us/pl/108/183/s708/c/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F183%2Fs708%2Fc%2F4%2FA
+[/us/pl/108/183/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F183%2FtVII
 [/us/stat/117/2674]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2674
-[/us/pl/108/183/s708/c/4/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F183%2Fs708%2Fc%2F4%2FB%2Fi
-[/us/pl/108/183/s708/c/4/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F183%2Fs708%2Fc%2F4%2FA%2Fi
-[/us/pl/108/183/s708/c/4/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F183%2Fs708%2Fc%2F4%2FA%2Fii
+[/us/pl/108/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F183
+[/us/pl/108/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F183
+[/us/pl/108/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F183
 [/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40
 [/us/usc/t38/s3118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3118
 

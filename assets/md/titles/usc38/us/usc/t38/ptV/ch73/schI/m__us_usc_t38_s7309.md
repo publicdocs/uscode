@@ -77,7 +77,7 @@
 
     In this section, the term “Vet Center” has the meaning given the term in [section 1712A(h)(1) of this title][/us/usc/t38/s1712A/h/1].
 
-(Added [Pub. L. 112–239, div. A, title VII, § 728(a)][/us/pl/112/239/s728/a], Jan. 2, 2013, [126 Stat. 1812][/us/stat/126/1812]; amended [Pub. L. 114–58, title VI, § 601(22)][/us/pl/114/58/s601/22], Sept. 30, 2015, [129 Stat. 539][/us/stat/129/539].)
+(Added [Pub. L. 112–239, div. A, title VII][/us/pl/112/239/dA/tVII], § 728(a), Jan. 2, 2013, [126 Stat. 1812][/us/stat/126/1812]; amended [Pub. L. 114–58, title VI][/us/pl/114/58/tVI], § 601(22), Sept. 30, 2015, [129 Stat. 539][/us/stat/129/539].)
 
  __Amendments__ 
 
@@ -93,9 +93,9 @@
 [/us/usc/t38/s1712A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1712A
 [/us/usc/t31/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105
 [/us/usc/t38/s1712A/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1712A%2Fh%2F1
-[/us/pl/112/239/s728/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs728%2Fa
+[/us/pl/112/239/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtVII
 [/us/stat/126/1812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1812
-[/us/pl/114/58/s601/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F58%2Fs601%2F22
+[/us/pl/114/58/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F58%2FtVI
 [/us/stat/129/539]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F539
 [/us/pl/114/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F58
 

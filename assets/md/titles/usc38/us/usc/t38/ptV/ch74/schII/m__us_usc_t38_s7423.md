@@ -71,7 +71,7 @@
 
     (f) The Secretary may purchase promotional items of nominal value for use in the recruitment of individuals for employment under this chapter. The Secretary shall prescribe guidelines for the administration of the preceding sentence.
 
-(Added and amended [Pub. L. 102–40, title II, § 202][/us/pl/102/40/s202], title IV, § 401(b)(3)(A), May 7, 1991, [105 Stat. 201][/us/stat/105/201], 230; [Pub. L. 102–405, title II, § 203][/us/pl/102/405/s203], title III, § 302(c)(1), Oct. 9, 1992, [106 Stat. 1983][/us/stat/106/1983], 1984; [Pub. L. 104–262, title III, § 347][/us/pl/104/262/s347], Oct. 9, 1996, [110 Stat. 3208][/us/stat/110/3208].)
+(Added and amended [Pub. L. 102–40, title II][/us/pl/102/40/tII], § 202, title IV, § 401(b)(3)(A), May 7, 1991, [105 Stat. 201][/us/stat/105/201], 230; [Pub. L. 102–405, title II][/us/pl/102/405/tII], § 203, title III, § 302(c)(1), Oct. 9, 1992, [106 Stat. 1983][/us/stat/106/1983], 1984; [Pub. L. 104–262, title III][/us/pl/104/262/tIII], § 347, Oct. 9, 1996, [110 Stat. 3208][/us/stat/110/3208].)
 
  __References in Text__ 
 
@@ -83,15 +83,15 @@
 
  __Amendments__ 
 
-    1996—Subsec. (b). [Pub. L. 104–262, § 347(a)][/us/pl/104/262/s347/a], redesignated pars. (2) to (6) as (1) to (5), respectively, and struck out former par. (1) which read as follows: “Assume responsibility for the medical care of any patient other than a patient admitted for treatment at a Department facility, except in those cases where the person, upon request and with the approval of the Under Secretary for Health, assumes such responsibilities to assist communities or medical practice groups to meet medical needs which would not otherwise be available for a period not to exceed 180 calendar days, which may be extended by the Under Secretary for Health for additional periods not to exceed 180 calendar days each.”
+    1996—Subsec. (b). [Pub. L. 104–262][/us/pl/104/262], § 347(a), redesignated pars. (2) to (6) as (1) to (5), respectively, and struck out former par. (1) which read as follows: “Assume responsibility for the medical care of any patient other than a patient admitted for treatment at a Department facility, except in those cases where the person, upon request and with the approval of the Under Secretary for Health, assumes such responsibilities to assist communities or medical practice groups to meet medical needs which would not otherwise be available for a period not to exceed 180 calendar days, which may be extended by the Under Secretary for Health for additional periods not to exceed 180 calendar days each.”
 
-    Subsec. (c). [Pub. L. 104–262, § 347(b)][/us/pl/104/262/s347/b], substituted “subsection (b)(5)” for “subsection (b)(6)” in introductory provisions.
+    Subsec. (c). [Pub. L. 104–262][/us/pl/104/262], § 347(b), substituted “subsection (b)(5)” for “subsection (b)(6)” in introductory provisions.
 
-    1992—Subsec. (b)(1). [Pub. L. 102–405, § 302(c)(1)][/us/pl/102/405/s302/c/1], substituted “Under Secretary for Health” for “Chief Medical Director” in two places.
+    1992—Subsec. (b)(1). [Pub. L. 102–405][/us/pl/102/405], § 302(c)(1), substituted “Under Secretary for Health” for “Chief Medical Director” in two places.
 
-    Subsec. (f). [Pub. L. 102–405, § 203][/us/pl/102/405/s203], added subsec. (f).
+    Subsec. (f). [Pub. L. 102–405][/us/pl/102/405], § 203, added subsec. (f).
 
-    1991—Subsec. (e). [Pub. L. 102–40, § 401(b)(3)(A)][/us/pl/102/40/s401/b/3/A], added subsec. (e).
+    1991—Subsec. (e). [Pub. L. 102–40][/us/pl/102/40], § 401(b)(3)(A), added subsec. (e).
 
  __Establishment of Leave Bank Program__ 
 
@@ -110,21 +110,21 @@
 [/us/usc/t5/s4111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs4111
 [/us/usc/t38/s7313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7313
 [/us/usc/t38/s7401/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7401%2F1
-[/us/pl/102/40/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs202
+[/us/pl/102/40/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2FtII
 [/us/stat/105/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F201
-[/us/pl/102/405/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405%2Fs203
+[/us/pl/102/405/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405%2FtII
 [/us/stat/106/1983]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1983
-[/us/pl/104/262/s347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F262%2Fs347
+[/us/pl/104/262/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F262%2FtIII
 [/us/stat/110/3208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3208
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
 [/us/usc/t42/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1305
 [/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40
-[/us/pl/104/262/s347/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F262%2Fs347%2Fa
-[/us/pl/104/262/s347/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F262%2Fs347%2Fb
-[/us/pl/102/405/s302/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405%2Fs302%2Fc%2F1
-[/us/pl/102/405/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405%2Fs203
-[/us/pl/102/40/s401/b/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs401%2Fb%2F3%2FA
+[/us/pl/104/262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F262
+[/us/pl/104/262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F262
+[/us/pl/102/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405
+[/us/pl/102/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405
+[/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40
 [/us/usc/t38/s4108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs4108
 [/us/pl/102/25/s361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25%2Fs361
 [/us/usc/t5/s6361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs6361

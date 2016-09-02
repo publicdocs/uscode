@@ -31,11 +31,11 @@
 
     The Secretary shall publicize the scholarship program to educational institutions throughout the United States, with an emphasis on disseminating information to such institutions with high numbers of Hispanic students and to Historically Black Colleges and Universities.
 
-(Added [Pub. L. 111–163, title III, § 302(a)][/us/pl/111/163/s302/a], May 5, 2010, [124 Stat. 1146][/us/stat/124/1146].)
+(Added [Pub. L. 111–163, title III][/us/pl/111/163/tIII], § 302(a), May 5, 2010, [124 Stat. 1146][/us/stat/124/1146].)
 
  __Implementation__ 
 
-[Pub. L. 111–163, title III, § 302(c)][/us/pl/111/163/s302/c], May 5, 2010, [124 Stat. 1149][/us/stat/124/1149], provided that: 
+[Pub. L. 111–163, title III][/us/pl/111/163/tIII], § 302(c), May 5, 2010, [124 Stat. 1149][/us/stat/124/1149], provided that: 
 
 > “The Secretary of Veterans Affairs shall implement chapter 75 of title 38, United States Code, as added by subsection (a), not later than 6 months after the date of the enactment of this Act \[May 5, 2010\].”
 
@@ -47,9 +47,9 @@
 ----------
 
 [/us/usc/t38/s7504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7504
-[/us/pl/111/163/s302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163%2Fs302%2Fa
+[/us/pl/111/163/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163%2FtIII
 [/us/stat/124/1146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1146
-[/us/pl/111/163/s302/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163%2Fs302%2Fc
+[/us/pl/111/163/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163%2FtIII
 [/us/stat/124/1149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1149
 
 

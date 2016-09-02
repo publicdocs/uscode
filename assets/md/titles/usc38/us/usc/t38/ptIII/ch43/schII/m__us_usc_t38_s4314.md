@@ -39,7 +39,7 @@
 
     (d) If the adjutant general of a State determines that it is impossible or unreasonable to reemploy a person who was a National Guard technician employed under [section 709 of title 32][/us/usc/t32/s709], such person shall, upon application to the Director of the Office of Personnel Management, be ensured an offer of employment in an alternative position in a Federal executive agency on the basis described in subsection (b).
 
-(Added [Pub. L. 103–353, § 2(a)][/us/pl/103/353/s2/a], Oct. 13, 1994, [108 Stat. 3158][/us/stat/108/3158].)
+(Added [Pub. L. 103–353][/us/pl/103/353], § 2(a), Oct. 13, 1994, [108 Stat. 3158][/us/stat/108/3158].)
 
  __Prior Provisions__ 
 
@@ -57,7 +57,7 @@
 ----------
 
 [/us/usc/t32/s709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft32%2Fs709
-[/us/pl/103/353/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F353%2Fs2%2Fa
+[/us/pl/103/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F353
 [/us/stat/108/3158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3158
 [/us/usc/t38/s7614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7614
 [/us/pl/103/353/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F353%2Fs8

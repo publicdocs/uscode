@@ -77,7 +77,7 @@
 
         (3) If, before that effective date, the President approves such increase, the Secretary may advance the effective date to any date not earlier than the date of the President’s approval.
 
-(Added [Pub. L. 102–40, title IV, § 401(b)(4)][/us/pl/102/40/s401/b/4], May 7, 1991, [105 Stat. 234][/us/stat/105/234]; amended [Pub. L. 102–83, § 2(c)(7)][/us/pl/102/83/s2/c/7], Aug. 6, 1991, [105 Stat. 402][/us/stat/105/402]; [Pub. L. 102–405, title II, § 201][/us/pl/102/405/s201], title III, § 302(c)(1), Oct. 9, 1992, [106 Stat. 1983][/us/stat/106/1983], 1984; [Pub. L. 106–419, title II, § 203][/us/pl/106/419/s203], Nov. 1, 2000, [114 Stat. 1841][/us/stat/114/1841]; [Pub. L. 111–163, title VI, § 601][/us/pl/111/163/s601](l), May 5, 2010, [124 Stat. 1172][/us/stat/124/1172].)
+(Added [Pub. L. 102–40, title IV][/us/pl/102/40/tIV], § 401(b)(4), May 7, 1991, [105 Stat. 234][/us/stat/105/234]; amended [Pub. L. 102–83][/us/pl/102/83], § 2(c)(7), Aug. 6, 1991, [105 Stat. 402][/us/stat/105/402]; [Pub. L. 102–405, title II][/us/pl/102/405/tII], § 201, title III, § 302(c)(1), Oct. 9, 1992, [106 Stat. 1983][/us/stat/106/1983], 1984; [Pub. L. 106–419, title II][/us/pl/106/419/tII], § 203, Nov. 1, 2000, [114 Stat. 1841][/us/stat/114/1841]; [Pub. L. 111–163, title VI][/us/pl/111/163/tVI], § 601(l), May 5, 2010, [124 Stat. 1172][/us/stat/124/1172].)
 
  __References in Text__ 
 
@@ -97,9 +97,9 @@
 
     2000—Subsec. (c)(1). [Pub. L. 106–419][/us/pl/106/419] inserted “, pharmacists,” after “anesthetists”.
 
-    1992—Subsec. (c). [Pub. L. 102–405, § 302(c)(1)][/us/pl/102/405/s302/c/1], substituted “Under Secretary for Health” for “Chief Medical Director” in par. (1).
+    1992—Subsec. (c). [Pub. L. 102–405][/us/pl/102/405], § 302(c)(1), substituted “Under Secretary for Health” for “Chief Medical Director” in par. (1).
 
-    [Pub. L. 102–405, § 201][/us/pl/102/405/s201], designated existing provisions as par. (1), inserted “by two times” after first reference to “exceed”, and added par. (2).
+    [Pub. L. 102–405][/us/pl/102/405], § 201, designated existing provisions as par. (1), inserted “by two times” after first reference to “exceed”, and added par. (2).
 
     1991—Subsec. (a)(2)(C). [Pub. L. 102–83][/us/pl/102/83] substituted “902” for “218”.
 
@@ -144,23 +144,23 @@
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
 [/us/usc/t38/s902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs902
 [/us/usc/t5/s5304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5304
-[/us/pl/102/40/s401/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs401%2Fb%2F4
+[/us/pl/102/40/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2FtIV
 [/us/stat/105/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F234
-[/us/pl/102/83/s2/c/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs2%2Fc%2F7
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F402
-[/us/pl/102/405/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405%2Fs201
+[/us/pl/102/405/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405%2FtII
 [/us/stat/106/1983]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1983
-[/us/pl/106/419/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419%2Fs203
+[/us/pl/106/419/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419%2FtII
 [/us/stat/114/1841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1841
-[/us/pl/111/163/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163%2Fs601
+[/us/pl/111/163/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163%2FtVI
 [/us/stat/124/1172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1172
 [/us/usc/t5/s5315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5315
 [/us/usc/t38/s4107/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs4107%2Fg
 [/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40
 [/us/pl/111/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163
 [/us/pl/106/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419
-[/us/pl/102/405/s302/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405%2Fs302%2Fc%2F1
-[/us/pl/102/405/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405%2Fs201
+[/us/pl/102/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405
+[/us/pl/102/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405
 [/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/usc/t38/s7455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7455
 

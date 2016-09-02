@@ -27,7 +27,7 @@
 
     If there is no such person living, such amount shall be paid to such participant’s estate.
 
-(Added [Pub. L. 94–502, title IV, § 404][/us/pl/94/502/s404], Oct. 15, 1976, [90 Stat. 2395][/us/stat/90/2395], § 1624; amended [Pub. L. 96–466, title IV, § 402][/us/pl/96/466/s402], Oct. 17, 1980, [94 Stat. 2201][/us/stat/94/2201]; renumbered § 3224, [Pub. L. 102–83, § 5(a)][/us/pl/102/83/s5/a], Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406]; [Pub. L. 104–275, title IV, § 405(c)(2)][/us/pl/104/275/s405/c/2], Oct. 9, 1996, [110 Stat. 3340][/us/stat/110/3340].)
+(Added [Pub. L. 94–502, title IV][/us/pl/94/502/tIV], § 404, Oct. 15, 1976, [90 Stat. 2395][/us/stat/90/2395], § 1624; amended [Pub. L. 96–466, title IV][/us/pl/96/466/tIV], § 402, Oct. 17, 1980, [94 Stat. 2201][/us/stat/94/2201]; renumbered § 3224, [Pub. L. 102–83][/us/pl/102/83], § 5(a), Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406]; [Pub. L. 104–275, title IV][/us/pl/104/275/tIV], § 405(c)(2), Oct. 9, 1996, [110 Stat. 3340][/us/stat/110/3340].)
 
  __Amendments__ 
 
@@ -39,7 +39,7 @@
 
  __Effective Date of 1980 Amendment__ 
 
-[Pub. L. 96–466, title VIII, § 802(d)(2)][/us/pl/96/466/s802/d/2], Oct. 17, 1980, [94 Stat. 2218][/us/stat/94/2218], provided that: 
+[Pub. L. 96–466, title VIII][/us/pl/96/466/tVIII], § 802(d)(2), Oct. 17, 1980, [94 Stat. 2218][/us/stat/94/2218], provided that: 
 
 > “The amendments made by sections 402 through 406 \[amending this section and sections 1622, 1631, and 1641 \[now 3222, 3231, and 3241\] of this title\] shall become effective on October 1, 1980.”
 
@@ -50,19 +50,19 @@
 ----------
 ----------
 
-[/us/pl/94/502/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F502%2Fs404
+[/us/pl/94/502/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F502%2FtIV
 [/us/stat/90/2395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2395
-[/us/pl/96/466/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F466%2Fs402
+[/us/pl/96/466/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F466%2FtIV
 [/us/stat/94/2201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2201
-[/us/pl/102/83/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fa
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F406
-[/us/pl/104/275/s405/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275%2Fs405%2Fc%2F2
+[/us/pl/104/275/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275%2FtIV
 [/us/stat/110/3340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3340
 [/us/pl/104/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275
 [/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/usc/t38/s1624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1624
 [/us/pl/96/466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F466
-[/us/pl/96/466/s802/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F466%2Fs802%2Fd%2F2
+[/us/pl/96/466/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F466%2FtVIII
 [/us/stat/94/2218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2218
 
 

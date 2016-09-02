@@ -25,33 +25,33 @@
 
     (e) Any amount transferred to the Secretary from the Secretary of a military department under an interagency agreement for the administration by the Department of Veterans Affairs of an educational assistance program established by the Secretary of Defense under chapter 107 of title 10 may be deposited into and disbursed from the fund for the purposes of such program.
 
-(Added [Pub. L. 94–502, title IV, § 404][/us/pl/94/502/s404], Oct. 15, 1976, [90 Stat. 2395][/us/stat/90/2395], § 1622; amended [Pub. L. 94–502, title IV, § 408(b)][/us/pl/94/502/s408/b], Oct. 15, 1976, [90 Stat. 2398][/us/stat/90/2398]; [Pub. L. 96–466, title IV, § 406][/us/pl/96/466/s406], Oct. 17, 1980, [94 Stat. 2202][/us/stat/94/2202]; [Pub. L. 97–306, title II][/us/pl/97/306], §§ 209, 210, Oct. 14, 1982, [96 Stat. 1436][/us/stat/96/1436]; [Pub. L. 98–160, title VII, § 702(6)][/us/pl/98/160/s702/6], Nov. 21, 1983, [97 Stat. 1009][/us/stat/97/1009]; [Pub. L. 101–237, title IV, § 423(b)(1)][/us/pl/101/237/s423/b/1], (4)(A), (B), (D), Dec. 18, 1989, [103 Stat. 2092][/us/stat/103/2092]; renumbered § 3222 and amended [Pub. L. 102–83, § 5(a)][/us/pl/102/83/s5/a], (c)(1), Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406].)
+(Added [Pub. L. 94–502, title IV][/us/pl/94/502/tIV], § 404, Oct. 15, 1976, [90 Stat. 2395][/us/stat/90/2395], § 1622; amended [Pub. L. 94–502, title IV][/us/pl/94/502/tIV], § 408(b), Oct. 15, 1976, [90 Stat. 2398][/us/stat/90/2398]; [Pub. L. 96–466, title IV][/us/pl/96/466/tIV], § 406, Oct. 17, 1980, [94 Stat. 2202][/us/stat/94/2202]; [Pub. L. 97–306, title II][/us/pl/97/306/tII], §§ 209, 210, Oct. 14, 1982, [96 Stat. 1436][/us/stat/96/1436]; [Pub. L. 98–160, title VII][/us/pl/98/160/tVII], § 702(6), Nov. 21, 1983, [97 Stat. 1009][/us/stat/97/1009]; [Pub. L. 101–237, title IV][/us/pl/101/237/tIV], § 423(b)(1), (4)(A), (B), (D), Dec. 18, 1989, [103 Stat. 2092][/us/stat/103/2092]; renumbered § 3222 and amended [Pub. L. 102–83][/us/pl/102/83], § 5(a), (c)(1), Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406].)
 
  __Amendments__ 
 
-    1991—[Pub. L. 102–83, § 5(a)][/us/pl/102/83/s5/a], renumbered [section 1622 of this title][/us/usc/t38/s1622] as this section.
+    1991—[Pub. L. 102–83][/us/pl/102/83], § 5(a), renumbered [section 1622 of this title][/us/usc/t38/s1622] as this section.
 
-    Subsec. (d). [Pub. L. 102–83, § 5(c)(1)][/us/pl/102/83/s5/c/1], substituted “3231(a)” for “1631(a)”.
+    Subsec. (d). [Pub. L. 102–83][/us/pl/102/83], § 5(c)(1), substituted “3231(a)” for “1631(a)”.
 
-    1989—Subsec. (a). [Pub. L. 101–237, § 423(b)(4)(A)][/us/pl/101/237/s423/b/4/A], inserted “of Defense” after “Secretary”.
+    1989—Subsec. (a). [Pub. L. 101–237][/us/pl/101/237], § 423(b)(4)(A), inserted “of Defense” after “Secretary”.
 
-    Subsec. (c). [Pub. L. 101–237, § 423(b)(4)(D)][/us/pl/101/237/s423/b/4/D], inserted “of Defense” after “Secretary” wherever appearing.
+    Subsec. (c). [Pub. L. 101–237][/us/pl/101/237], § 423(b)(4)(D), inserted “of Defense” after “Secretary” wherever appearing.
 
-    Subsec. (d). [Pub. L. 101–237, § 423(b)(1)(A)][/us/pl/101/237/s423/b/1/A], (4)(A), substituted “Secretary” for “Administrator” at end and inserted “of Defense” after “jointly by the Secretary”.
+    Subsec. (d). [Pub. L. 101–237][/us/pl/101/237], § 423(b)(1)(A), (4)(A), substituted “Secretary” for “Administrator” at end and inserted “of Defense” after “jointly by the Secretary”.
 
-    Subsec. (e). [Pub. L. 101–237, § 423(b)(1)][/us/pl/101/237/s423/b/1], (4)(B), substituted “Secretary” and “Department of Veterans Affairs” for “Administrator” and “Veterans’ Administration”, respectively, and inserted “of Defense” after “established by the Secretary”.
+    Subsec. (e). [Pub. L. 101–237][/us/pl/101/237], § 423(b)(1), (4)(B), substituted “Secretary” and “Department of Veterans Affairs” for “Administrator” and “Veterans’ Administration”, respectively, and inserted “of Defense” after “established by the Secretary”.
 
     1983—Subsec. (d). [Pub. L. 98–160][/us/pl/98/160] inserted “of this title” after “section 1631(a)”.
 
-    1982—Subsec. (d). [Pub. L. 97–306, § 210][/us/pl/97/306/s210], substituted “$100” for “$75”.
+    1982—Subsec. (d). [Pub. L. 97–306][/us/pl/97/306], § 210, substituted “$100” for “$75”.
 
-    Subsec. (e). [Pub. L. 97–306, § 209][/us/pl/97/306/s209], added subsec. (e).
+    Subsec. (e). [Pub. L. 97–306][/us/pl/97/306], § 209, added subsec. (e).
 
-    1980—Subsec. (a). [Pub. L. 96–466, § 406(a)][/us/pl/96/466/s406/a], substituted “Except as provided in subsections (c) and (d) of this section, each” for “Each”, “$25” for “$50”, and “$100” for “$75”.
+    1980—Subsec. (a). [Pub. L. 96–466][/us/pl/96/466], § 406(a), substituted “Except as provided in subsections (c) and (d) of this section, each” for “Each”, “$25” for “$50”, and “$100” for “$75”.
 
-    Subsec. (c). [Pub. L. 96–466, § 406(b)][/us/pl/96/466/s406/b], inserted “, including contributions in lieu of, or to reduce the amount of, monthly deductions under subsection (a) of this section” after “Armed Forces”.
+    Subsec. (c). [Pub. L. 96–466][/us/pl/96/466], § 406(b), inserted “, including contributions in lieu of, or to reduce the amount of, monthly deductions under subsection (a) of this section” after “Armed Forces”.
 
-    Subsec. (d). [Pub. L. 96–466, § 406(c)][/us/pl/96/466/s406/c], added subsec. (d).
+    Subsec. (d). [Pub. L. 96–466][/us/pl/96/466], § 406(c), added subsec. (d).
 
     1976—Subsec. (b). [Pub. L. 94–502][/us/pl/94/502] substituted “Department of Defense” for “Veterans’ Administration”.
 
@@ -65,7 +65,7 @@
 
  __Refunds for Certain Service Academy Graduates__ 
 
-    [Pub. L. 101–366, title II, § 207][/us/pl/101/366/s207], Aug. 15, 1990, [104 Stat. 442][/us/stat/104/442], as amended by [Pub. L. 102–83, § 5(c)(2)][/us/pl/102/83/s5/c/2], Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406], directed Secretary of Veterans Affairs to refund, on receipt before Jan. 1, 1992, of an application from an individual, not later than 60 days after receiving such application, the amount, if any, of the individual’s unused contributions to the VEAP Account; if the individual has received educational assistance under this chapter, to pay to the individual (out of funds appropriated to the readjustment benefits account) a sum equal to the amount by which the amount of the educational assistance that the individual would have received under chapter 34 of this title for the pursuit of such program exceeds the amount of the educational assistance that the individual did receive under this chapter for the pursuit of such program; or if the individual has not received educational assistance under this chapter, to pay to the individual (out of funds appropriated to the Department of Veterans Affairs Readjustment Benefits account) a sum equal to the amount of educational assistance that the individual would have received under chapter 34 of this title for the pursuit of a program of education if the individual had been entitled to assistance under such program during the period ending on Dec. 31, 1989; and to refund to the Secretary of Defense the unused contributions by such Secretary to the VEAP Account on behalf of such individual.
+    [Pub. L. 101–366, title II][/us/pl/101/366/tII], § 207, Aug. 15, 1990, [104 Stat. 442][/us/stat/104/442], as amended by [Pub. L. 102–83][/us/pl/102/83], § 5(c)(2), Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406], directed Secretary of Veterans Affairs to refund, on receipt before Jan. 1, 1992, of an application from an individual, not later than 60 days after receiving such application, the amount, if any, of the individual’s unused contributions to the VEAP Account; if the individual has received educational assistance under this chapter, to pay to the individual (out of funds appropriated to the readjustment benefits account) a sum equal to the amount by which the amount of the educational assistance that the individual would have received under chapter 34 of this title for the pursuit of such program exceeds the amount of the educational assistance that the individual did receive under this chapter for the pursuit of such program; or if the individual has not received educational assistance under this chapter, to pay to the individual (out of funds appropriated to the Department of Veterans Affairs Readjustment Benefits account) a sum equal to the amount of educational assistance that the individual would have received under chapter 34 of this title for the pursuit of a program of education if the individual had been entitled to assistance under such program during the period ending on Dec. 31, 1989; and to refund to the Secretary of Defense the unused contributions by such Secretary to the VEAP Account on behalf of such individual.
 
  __Educational Assistance Pilot Program; Payment of Monthly Contribution by Secretary; Manner, Scope, Etc., of Payments__ 
 
@@ -83,33 +83,33 @@
 ----------
 
 [/us/usc/t38/s3231/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3231%2Fa
-[/us/pl/94/502/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F502%2Fs404
+[/us/pl/94/502/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F502%2FtIV
 [/us/stat/90/2395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2395
-[/us/pl/94/502/s408/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F502%2Fs408%2Fb
+[/us/pl/94/502/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F502%2FtIV
 [/us/stat/90/2398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2398
-[/us/pl/96/466/s406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F466%2Fs406
+[/us/pl/96/466/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F466%2FtIV
 [/us/stat/94/2202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2202
-[/us/pl/97/306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F306
+[/us/pl/97/306/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F306%2FtII
 [/us/stat/96/1436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1436
-[/us/pl/98/160/s702/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F160%2Fs702%2F6
+[/us/pl/98/160/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F160%2FtVII
 [/us/stat/97/1009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1009
-[/us/pl/101/237/s423/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237%2Fs423%2Fb%2F1
+[/us/pl/101/237/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237%2FtIV
 [/us/stat/103/2092]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2092
-[/us/pl/102/83/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fa
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F406
-[/us/pl/102/83/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fa
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/usc/t38/s1622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1622
-[/us/pl/102/83/s5/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fc%2F1
-[/us/pl/101/237/s423/b/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237%2Fs423%2Fb%2F4%2FA
-[/us/pl/101/237/s423/b/4/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237%2Fs423%2Fb%2F4%2FD
-[/us/pl/101/237/s423/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237%2Fs423%2Fb%2F1%2FA
-[/us/pl/101/237/s423/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237%2Fs423%2Fb%2F1
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/101/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237
+[/us/pl/101/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237
+[/us/pl/101/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237
+[/us/pl/101/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237
 [/us/pl/98/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F160
-[/us/pl/97/306/s210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F306%2Fs210
-[/us/pl/97/306/s209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F306%2Fs209
-[/us/pl/96/466/s406/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F466%2Fs406%2Fa
-[/us/pl/96/466/s406/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F466%2Fs406%2Fb
-[/us/pl/96/466/s406/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F466%2Fs406%2Fc
+[/us/pl/97/306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F306
+[/us/pl/97/306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F306
+[/us/pl/96/466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F466
+[/us/pl/96/466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F466
+[/us/pl/96/466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F466
 [/us/pl/94/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F502
 [/us/pl/96/466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F466
 [/us/pl/96/466/s802/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F466%2Fs802%2Fd%2F2
@@ -118,9 +118,9 @@
 [/us/pl/94/502/s408/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F502%2Fs408%2Fa
 [/us/pl/94/502/s408/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F502%2Fs408%2Fb
 [/us/usc/t38/s3221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3221
-[/us/pl/101/366/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F366%2Fs207
+[/us/pl/101/366/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F366%2FtII
 [/us/stat/104/442]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F442
-[/us/pl/102/83/s5/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fc%2F2
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F406
 [/us/pl/96/342/s903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F342%2Fs903
 [/us/usc/t10/s2141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2141

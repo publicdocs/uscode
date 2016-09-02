@@ -27,21 +27,21 @@
 
         (2) For the purpose of [section 8104(a)(2) of this title][/us/usc/t38/s8104/a/2], a bill, resolution, or amendment which provides that funds in the revolving fund may be expended for a project involving a total expenditure of more than $2,000,000 for the construction, alteration, or acquisition (including site acquisition) of a nursing home facility shall be considered to be a bill, resolution, or amendment making an appropriation which may be expended for a major medical facility project.
 
-(Added [Pub. L. 100–322, title II, § 205(a)][/us/pl/100/322/s205/a], May 20, 1988, [102 Stat. 512][/us/stat/102/512], § 5016; renumbered § 8116 and amended [Pub. L. 102–40, title IV, § 402(b)(1)][/us/pl/102/40/s402/b/1], (d)(1), May 7, 1991, [105 Stat. 238][/us/stat/105/238], 239.)
+(Added [Pub. L. 100–322, title II][/us/pl/100/322/tII], § 205(a), May 20, 1988, [102 Stat. 512][/us/stat/102/512], § 5016; renumbered § 8116 and amended [Pub. L. 102–40, title IV][/us/pl/102/40/tIV], § 402(b)(1), (d)(1), May 7, 1991, [105 Stat. 238][/us/stat/105/238], 239.)
 
  __Repeal of Section__ 
 
-    [Pub. L. 108–422, title IV, § 411(c)(1)][/us/pl/108/422/s411/c/1],(f), Nov. 30, 2004, [118 Stat. 2389][/us/stat/118/2389], 2390, provided that this section is repealed effective at the end of the 30-day period beginning on the date on which the Secretary of Veterans Affairs certifies to Congress that the Secretary is in compliance with [section 1710B(b) of this title][/us/usc/t38/s1710B/b].
+    [Pub. L. 108–422, title IV][/us/pl/108/422/tIV], § 411(c)(1),(f), Nov. 30, 2004, [118 Stat. 2389][/us/stat/118/2389], 2390, provided that this section is repealed effective at the end of the 30-day period beginning on the date on which the Secretary of Veterans Affairs certifies to Congress that the Secretary is in compliance with [section 1710B(b) of this title][/us/usc/t38/s1710B/b].
 
  __References in Text__ 
 
-    [Section 8122(a)(2) of this title][/us/usc/t38/s8122/a/2], referred to in subsec. (a)(1), was amended generally by [Pub. L. 108–422, title IV, § 411(e)(1)][/us/pl/108/422/s411/e/1], Nov. 30, 2004, [118 Stat. 2389][/us/stat/118/2389], and, as so amended, no longer contains a subpar. (C).
+    [Section 8122(a)(2) of this title][/us/usc/t38/s8122/a/2], referred to in subsec. (a)(1), was amended generally by [Pub. L. 108–422, title IV][/us/pl/108/422/tIV], § 411(e)(1), Nov. 30, 2004, [118 Stat. 2389][/us/stat/118/2389], and, as so amended, no longer contains a subpar. (C).
 
  __Amendments__ 
 
-    1991—[Pub. L. 102–40, § 402(b)(1)][/us/pl/102/40/s402/b/1], renumbered [section 5016 of this title][/us/usc/t38/s5016] as this section.
+    1991—[Pub. L. 102–40][/us/pl/102/40], § 402(b)(1), renumbered [section 5016 of this title][/us/usc/t38/s5016] as this section.
 
-    [Pub. L. 102–40, § 402(d)(1)][/us/pl/102/40/s402/d/1], substituted “8122(a)(2)(C)” for “5022(a)(2)(C)” in subsec. (a)(1) and “8104(a)(2)” for “5004(a)(2)” in subsec. (b)(2).
+    [Pub. L. 102–40][/us/pl/102/40], § 402(d)(1), substituted “8122(a)(2)(C)” for “5022(a)(2)(C)” in subsec. (a)(1) and “8104(a)(2)” for “5004(a)(2)” in subsec. (b)(2).
 
  __Effective Date of Repeal__ 
 
@@ -59,19 +59,19 @@
 ----------
 
 [/us/usc/t38/s8104/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs8104%2Fa%2F2
-[/us/pl/100/322/s205/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F322%2Fs205%2Fa
+[/us/pl/100/322/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F322%2FtII
 [/us/stat/102/512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F512
-[/us/pl/102/40/s402/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs402%2Fb%2F1
+[/us/pl/102/40/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2FtIV
 [/us/stat/105/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F238
-[/us/pl/108/422/s411/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F422%2Fs411%2Fc%2F1
+[/us/pl/108/422/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F422%2FtIV
 [/us/stat/118/2389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2389
 [/us/usc/t38/s1710B/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1710B%2Fb
 [/us/usc/t38/s8122/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs8122%2Fa%2F2
-[/us/pl/108/422/s411/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F422%2Fs411%2Fe%2F1
+[/us/pl/108/422/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F422%2FtIV
 [/us/stat/118/2389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2389
-[/us/pl/102/40/s402/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs402%2Fb%2F1
+[/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40
 [/us/usc/t38/s5016]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs5016
-[/us/pl/102/40/s402/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs402%2Fd%2F1
+[/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40
 [/us/usc/t38/s1710B/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1710B%2Fb
 [/us/pl/108/422/s411/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F422%2Fs411%2Ff
 [/us/usc/t38/s1710B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1710B

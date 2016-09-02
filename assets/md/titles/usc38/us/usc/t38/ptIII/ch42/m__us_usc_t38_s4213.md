@@ -43,11 +43,11 @@
 
         (5) Any amount received by an eligible member under chapter 106 of title 10.
 
-(Added [Pub. L. 92–540, title V, § 503(a)][/us/pl/92/540/s503/a], Oct. 24, 1972, [86 Stat. 1098][/us/stat/86/1098], § 2013; amended [Pub. L. 96–466, title VIII, § 801(k)(1)][/us/pl/96/466/s801/k/1], (2)(A), Oct. 17, 1980, [94 Stat. 2217][/us/stat/94/2217]; [Pub. L. 102–54, § 14(c)(10)][/us/pl/102/54/s14/c/10], June 13, 1991, [105 Stat. 285][/us/stat/105/285]; renumbered § 4213, [Pub. L. 102–83, § 5(a)][/us/pl/102/83/s5/a], Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406]; [Pub. L. 103–446, title VII, § 702(b)][/us/pl/103/446/s702/b], Nov. 2, 1994, [108 Stat. 4675][/us/stat/108/4675]; [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 405(d)(29)(C), (f)(21)(C)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–424, 2681–432; [Pub. L. 106–419, title IV, § 404(a)(9)][/us/pl/106/419/s404/a/9], Nov. 1, 2000, [114 Stat. 1865][/us/stat/114/1865]; [Pub. L. 113–128, title V, § 512(gg)(5)][/us/pl/113/128/s512/gg/5], July 22, 2014, [128 Stat. 1720][/us/stat/128/1720].)
+(Added [Pub. L. 92–540, title V][/us/pl/92/540/tV], § 503(a), Oct. 24, 1972, [86 Stat. 1098][/us/stat/86/1098], § 2013; amended [Pub. L. 96–466, title VIII][/us/pl/96/466/tVIII], § 801(k)(1), (2)(A), Oct. 17, 1980, [94 Stat. 2217][/us/stat/94/2217]; [Pub. L. 102–54][/us/pl/102/54], § 14(c)(10), June 13, 1991, [105 Stat. 285][/us/stat/105/285]; renumbered § 4213, [Pub. L. 102–83][/us/pl/102/83], § 5(a), Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406]; [Pub. L. 103–446, title VII][/us/pl/103/446/tVII], § 702(b), Nov. 2, 1994, [108 Stat. 4675][/us/stat/108/4675]; [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(f) \[title VIII, § 405(d)(29)(C), (f)(21)(C)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–424, 2681–432; [Pub. L. 106–419, title IV][/us/pl/106/419/tIV], § 404(a)(9), Nov. 1, 2000, [114 Stat. 1865][/us/stat/114/1865]; [Pub. L. 113–128, title V][/us/pl/113/128/tV], § 512(gg)(5), July 22, 2014, [128 Stat. 1720][/us/stat/128/1720].)
 
  __References in Text__ 
 
-    The Economic Opportunity Act of 1964, referred to in subsec. (a)(3), is [Pub. L. 88–452][/us/pl/88/452], Aug. 20, 1964, [78 Stat. 508][/us/stat/78/508], as amended, which was classified generally to chapter 34 (§ 2701 et seq.) of Title 42, The Public Health and Welfare, prior to repeal, except for titles VIII and X, by [Pub. L. 97–35, title VI, § 683(a)][/us/pl/97/35/s683/a], Aug. 13, 1981, [95 Stat. 519][/us/stat/95/519]. Titles VIII and X of the Act are classified generally to subchapters VIII (§ 2991 et seq.) and X (§ 2996 et seq.) of chapter 34 of Title 42. For complete classification of this Act to the Code, see Tables.
+    The Economic Opportunity Act of 1964, referred to in subsec. (a)(3), is [Pub. L. 88–452][/us/pl/88/452], Aug. 20, 1964, [78 Stat. 508][/us/stat/78/508], as amended, which was classified generally to chapter 34 (§ 2701 et seq.) of Title 42, The Public Health and Welfare, prior to repeal, except for titles VIII and X, by [Pub. L. 97–35, title VI][/us/pl/97/35/tVI], § 683(a), Aug. 13, 1981, [95 Stat. 519][/us/stat/95/519]. Titles VIII and X of the Act are classified generally to subchapters VIII (§ 2991 et seq.) and X (§ 2996 et seq.) of chapter 34 of Title 42. For complete classification of this Act to the Code, see Tables.
 
     The Workforce Innovation and Opportunity Act, referred to in subsec. (a)(4), is [Pub. L. 113–128][/us/pl/113/128], July 22, 2014, [128 Stat. 1425][/us/stat/128/1425]. Title I of the Act is classified generally to subchapter I (§ 3111 et seq.) of chapter 32 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of Title 29][/us/usc/t29/s3101] and Tables.
 
@@ -57,15 +57,15 @@
 
     2000—[Pub. L. 106–419][/us/pl/106/419] amended text generally. Prior to amendment, text read as follows: “Any (1) amounts received as pay or allowances by any person while serving on active duty, (2) period of time during which such person served on such active duty, and (3) amounts received under chapters 11, 13, 30, 31, 35, and 36 of this title by an eligible veteran, any amounts received by an eligible person under chapters 13 and 35 of such title, and any amounts received by an eligible person under chapter 106 of title 10, shall be disregarded in determining eligibility under any public service employment program, any emergency employment program, any job training program assisted under the Economic Opportunity Act of 1964, any employment or training program carried out under title I of the Workforce Investment Act of 1998, or any other employment or training (or related) program financed in whole or in part with Federal funds.”
 
-    1998—[Pub. L. 105–277, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 405(f)(21)(C)\], struck out “the Job Training Partnership Act or” after “program carried out under”.
+    1998—[Pub. L. 105–277][/us/pl/105/277], § 101(f) \[title VIII, § 405(f)(21)(C)\], struck out “the Job Training Partnership Act or” after “program carried out under”.
 
-    [Pub. L. 105–277, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 405(d)(29)(C)\], substituted “program carried out under the Job Training Partnership Act or title I of the Workforce Investment Act of 1998,” for “program assisted under the Job Training Partnership Act ([29 U.S.C. 1501][/us/usc/t29/s1501] et seq.),”.
+    [Pub. L. 105–277][/us/pl/105/277], § 101(f) \[title VIII, § 405(d)(29)(C)\], substituted “program carried out under the Job Training Partnership Act or title I of the Workforce Investment Act of 1998,” for “program assisted under the Job Training Partnership Act ([29 U.S.C. 1501][/us/usc/t29/s1501] et seq.),”.
 
-    1994—[Pub. L. 103–446, § 702(b)(3)][/us/pl/103/446/s702/b/3], substituted “eligibility under” for “the needs or qualifications of participants in”.
+    1994—[Pub. L. 103–446][/us/pl/103/446], § 702(b)(3), substituted “eligibility under” for “the needs or qualifications of participants in”.
 
-    [Pub. L. 103–446, § 702(b)(2)][/us/pl/103/446/s702/b/2], which directed insertion of “and any amounts received by an eligible person under chapter 106 of title 10,” after “chapters 13 and 35 of such title, and”, was executed by making the insertion after “chapters 13 and 35 of such title,” to reflect the probable intent of Congress.
+    [Pub. L. 103–446][/us/pl/103/446], § 702(b)(2), which directed insertion of “and any amounts received by an eligible person under chapter 106 of title 10,” after “chapters 13 and 35 of such title, and”, was executed by making the insertion after “chapters 13 and 35 of such title,” to reflect the probable intent of Congress.
 
-    [Pub. L. 103–446, § 702(b)(1)][/us/pl/103/446/s702/b/1], which directed substitution of “chapters 11, 13, 30, 31, 35, and 36 of this title by an eligible veteran,” for “chapters 11, 13, 31, 34, 35, and 36 of this title by an eligible veteran and”, was executed by making the substitution for “chapters 11, 13, 31, 34, 35, and 36 of this title by an eligible veteran, and” to reflect the probable intent of Congress.
+    [Pub. L. 103–446][/us/pl/103/446], § 702(b)(1), which directed substitution of “chapters 11, 13, 30, 31, 35, and 36 of this title by an eligible veteran,” for “chapters 11, 13, 31, 34, 35, and 36 of this title by an eligible veteran and”, was executed by making the substitution for “chapters 11, 13, 31, 34, 35, and 36 of this title by an eligible veteran, and” to reflect the probable intent of Congress.
 
     1991—[Pub. L. 102–83][/us/pl/102/83] renumbered [section 2013 of this title][/us/usc/t38/s2013] as this section.
 
@@ -96,25 +96,25 @@
 ----------
 ----------
 
-[/us/pl/92/540/s503/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F540%2Fs503%2Fa
+[/us/pl/92/540/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F540%2FtV
 [/us/stat/86/1098]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1098
-[/us/pl/96/466/s801/k/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F466%2Fs801%2Fk%2F1
+[/us/pl/96/466/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F466%2FtVIII
 [/us/stat/94/2217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2217
-[/us/pl/102/54/s14/c/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54%2Fs14%2Fc%2F10
+[/us/pl/102/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54
 [/us/stat/105/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F285
-[/us/pl/102/83/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fa
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F406
-[/us/pl/103/446/s702/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2Fs702%2Fb
+[/us/pl/103/446/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2FtVII
 [/us/stat/108/4675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4675
-[/us/pl/105/277/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Ff
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-337
-[/us/pl/106/419/s404/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419%2Fs404%2Fa%2F9
+[/us/pl/106/419/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419%2FtIV
 [/us/stat/114/1865]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1865
-[/us/pl/113/128/s512/gg/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fgg%2F5
+[/us/pl/113/128/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2FtV
 [/us/stat/128/1720]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1720
 [/us/pl/88/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F452
 [/us/stat/78/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F508
-[/us/pl/97/35/s683/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs683%2Fa
+[/us/pl/97/35/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtVI
 [/us/stat/95/519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F519
 [/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/stat/128/1425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1425
@@ -122,12 +122,12 @@
 [/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/usc/t29/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2801
 [/us/pl/106/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419
-[/us/pl/105/277/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Ff
-[/us/pl/105/277/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Ff
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/usc/t29/s1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1501
-[/us/pl/103/446/s702/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2Fs702%2Fb%2F3
-[/us/pl/103/446/s702/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2Fs702%2Fb%2F2
-[/us/pl/103/446/s702/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2Fs702%2Fb%2F1
+[/us/pl/103/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446
+[/us/pl/103/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446
+[/us/pl/103/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446
 [/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/usc/t38/s2013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs2013
 [/us/pl/102/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54

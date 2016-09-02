@@ -55,13 +55,13 @@
 
         (4) The Secretary shall submit with each annual report submitted to the Congress pursuant to [section 529 of this title][/us/usc/t38/s529] a summary of all reports and recommendations of the Committee submitted to the Secretary since the previous annual report of the Secretary submitted to the Congress pursuant to that section.
 
-(Added [Pub. L. 102–83, § 2(a)][/us/pl/102/83/s2/a], Aug. 6, 1991, [105 Stat. 392][/us/stat/105/392]; amended [Pub. L. 102–405, title III, § 302(c)(1)][/us/pl/102/405/s302/c/1], Oct. 9, 1992, [106 Stat. 1984][/us/stat/106/1984]; [Pub. L. 106–419, title IV, § 403(c)(2)][/us/pl/106/419/s403/c/2], Nov. 1, 2000, [114 Stat. 1864][/us/stat/114/1864]; [Pub. L. 108–454, title VIII, § 803][/us/pl/108/454/s803], Dec. 10, 2004, [118 Stat. 3626][/us/stat/118/3626].)
+(Added [Pub. L. 102–83][/us/pl/102/83], § 2(a), Aug. 6, 1991, [105 Stat. 392][/us/stat/105/392]; amended [Pub. L. 102–405, title III][/us/pl/102/405/tIII], § 302(c)(1), Oct. 9, 1992, [106 Stat. 1984][/us/stat/106/1984]; [Pub. L. 106–419, title IV][/us/pl/106/419/tIV], § 403(c)(2), Nov. 1, 2000, [114 Stat. 1864][/us/stat/114/1864]; [Pub. L. 108–454, title VIII][/us/pl/108/454/tVIII], § 803, Dec. 10, 2004, [118 Stat. 3626][/us/stat/118/3626].)
 
  __Prior Provisions__ 
 
     Prior section 541 was renumbered [section 1541 of this title][/us/usc/t38/s1541].
 
-    Provisions similar to those in this section were contained in [section 221 of this title][/us/usc/t38/s221] prior to repeal by [Pub. L. 102–83, § 2(a)][/us/pl/102/83/s2/a].
+    Provisions similar to those in this section were contained in [section 221 of this title][/us/usc/t38/s221] prior to repeal by [Pub. L. 102–83][/us/pl/102/83], § 2(a).
 
  __Amendments__ 
 
@@ -83,17 +83,17 @@
 ----------
 
 [/us/usc/t38/s529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs529
-[/us/pl/102/83/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs2%2Fa
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F392
-[/us/pl/102/405/s302/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405%2Fs302%2Fc%2F1
+[/us/pl/102/405/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405%2FtIII
 [/us/stat/106/1984]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1984
-[/us/pl/106/419/s403/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419%2Fs403%2Fc%2F2
+[/us/pl/106/419/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419%2FtIV
 [/us/stat/114/1864]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1864
-[/us/pl/108/454/s803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F454%2Fs803
+[/us/pl/108/454/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F454%2FtVIII
 [/us/stat/118/3626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3626
 [/us/usc/t38/s1541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1541
 [/us/usc/t38/s221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs221
-[/us/pl/102/83/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs2%2Fa
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/pl/108/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F454
 [/us/pl/106/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419
 [/us/pl/102/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405

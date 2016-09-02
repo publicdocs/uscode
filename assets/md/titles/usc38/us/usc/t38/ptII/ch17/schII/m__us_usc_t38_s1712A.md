@@ -131,7 +131,7 @@
 
             (B) lives with the veteran or member but is not a member of the family of the veteran or member.
 
-(Added [Pub. L. 96–22, title I, § 103(a)(1)][/us/pl/96/22/s103/a/1], June 13, 1979, [93 Stat. 48][/us/stat/93/48], § 612A; amended [Pub. L. 96–128, title V, § 501(b)][/us/pl/96/128/s501/b], Nov. 28, 1979, [93 Stat. 987][/us/stat/93/987]; [Pub. L. 97–72, title I, § 104(a)(1)][/us/pl/97/72/s104/a/1], (b), Nov. 3, 1981, [95 Stat. 1049][/us/stat/95/1049]; [Pub. L. 98–160, title I, § 101][/us/pl/98/160/s101], Nov. 21, 1983, [97 Stat. 993][/us/stat/97/993]; [Pub. L. 99–166, title I][/us/pl/99/166], §§ 105, 106, Dec. 3, 1985, [99 Stat. 944][/us/stat/99/944], 945; [Pub. L. 99–272, title XIX][/us/pl/99/272], §§ 19011(d)(4), 19012(c)(3), Apr. 7, 1986, [100 Stat. 379][/us/stat/100/379], 382; [Pub. L. 99–576, title II, § 204][/us/pl/99/576/s204], title VII, § 702(6), Oct. 28, 1986, [100 Stat. 3255][/us/stat/100/3255], 3302; [Pub. L. 100–322, title I, § 107(a)][/us/pl/100/322/s107/a]–(e), May 20, 1988, [102 Stat. 494–496][/us/stat/102/494-496]; [Pub. L. 100–687, div. B, title XV, § 1501(a)][/us/pl/100/687/s1501/a], Nov. 18, 1988, [102 Stat. 4132][/us/stat/102/4132]; [Pub. L. 102–25, title III, § 334(d)][/us/pl/102/25/s334/d], Apr. 6, 1991, [105 Stat. 89][/us/stat/105/89]; [Pub. L. 102–54, § 14(b)(11)][/us/pl/102/54/s14/b/11], June 13, 1991, [105 Stat. 283][/us/stat/105/283]; renumbered § 1712A and amended [Pub. L. 102–83][/us/pl/102/83], §§ 4(a)(3), (4), (b)(1), (2)(E), (6), 5(a), (c)(1), Aug. 6, 1991, [105 Stat. 404–406][/us/stat/105/404-406]; [Pub. L. 102–405, title III, § 302(c)(1)][/us/pl/102/405/s302/c/1], Oct. 9, 1992, [106 Stat. 1984][/us/stat/106/1984]; [Pub. L. 104–262, title I, § 101(d)(5)][/us/pl/104/262/s101/d/5], title III, § 331, Oct. 9, 1996, [110 Stat. 3180][/us/stat/110/3180], 3197; [Pub. L. 106–117, title II, § 205(a)][/us/pl/106/117/s205/a], Nov. 30, 1999, [113 Stat. 1563][/us/stat/113/1563]; [Pub. L. 107–135, title II, § 208(e)(3)(A)][/us/pl/107/135/s208/e/3/A], Jan. 23, 2002, [115 Stat. 2463][/us/stat/115/2463]; [Pub. L. 110–181, div. A, title XVII, § 1708(b)][/us/pl/110/181/s1708/b], Jan. 28, 2008, [122 Stat. 494][/us/stat/122/494]; [Pub. L. 110–387, title IX, § 901(a)(1)][/us/pl/110/387/s901/a/1], Oct. 10, 2008, [122 Stat. 4142][/us/stat/122/4142]; [Pub. L. 111–163, title IV, § 402][/us/pl/111/163/s402], May 5, 2010, [124 Stat. 1156][/us/stat/124/1156]; [Pub. L. 112–239, div. A, title VII, § 727][/us/pl/112/239/s727], Jan. 2, 2013, [126 Stat. 1809][/us/stat/126/1809].)
+(Added [Pub. L. 96–22, title I][/us/pl/96/22/tI], § 103(a)(1), June 13, 1979, [93 Stat. 48][/us/stat/93/48], § 612A; amended [Pub. L. 96–128, title V][/us/pl/96/128/tV], § 501(b), Nov. 28, 1979, [93 Stat. 987][/us/stat/93/987]; [Pub. L. 97–72, title I][/us/pl/97/72/tI], § 104(a)(1), (b), Nov. 3, 1981, [95 Stat. 1049][/us/stat/95/1049]; [Pub. L. 98–160, title I][/us/pl/98/160/tI], § 101, Nov. 21, 1983, [97 Stat. 993][/us/stat/97/993]; [Pub. L. 99–166, title I][/us/pl/99/166/tI], §§ 105, 106, Dec. 3, 1985, [99 Stat. 944][/us/stat/99/944], 945; [Pub. L. 99–272, title XIX][/us/pl/99/272/tXIX], §§ 19011(d)(4), 19012(c)(3), Apr. 7, 1986, [100 Stat. 379][/us/stat/100/379], 382; [Pub. L. 99–576, title II][/us/pl/99/576/tII], § 204, title VII, § 702(6), Oct. 28, 1986, [100 Stat. 3255][/us/stat/100/3255], 3302; [Pub. L. 100–322, title I][/us/pl/100/322/tI], § 107(a)–(e), May 20, 1988, [102 Stat. 494–496][/us/stat/102/494-496]; [Pub. L. 100–687, div. B, title XV][/us/pl/100/687/dB/tXV], § 1501(a), Nov. 18, 1988, [102 Stat. 4132][/us/stat/102/4132]; [Pub. L. 102–25, title III][/us/pl/102/25/tIII], § 334(d), Apr. 6, 1991, [105 Stat. 89][/us/stat/105/89]; [Pub. L. 102–54][/us/pl/102/54], § 14(b)(11), June 13, 1991, [105 Stat. 283][/us/stat/105/283]; renumbered § 1712A and amended [Pub. L. 102–83][/us/pl/102/83], §§ 4(a)(3), (4), (b)(1), (2)(E), (6), 5(a), (c)(1), Aug. 6, 1991, [105 Stat. 404–406][/us/stat/105/404-406]; [Pub. L. 102–405, title III][/us/pl/102/405/tIII], § 302(c)(1), Oct. 9, 1992, [106 Stat. 1984][/us/stat/106/1984]; [Pub. L. 104–262, title I][/us/pl/104/262/tI], § 101(d)(5), title III, § 331, Oct. 9, 1996, [110 Stat. 3180][/us/stat/110/3180], 3197; [Pub. L. 106–117, title II][/us/pl/106/117/tII], § 205(a), Nov. 30, 1999, [113 Stat. 1563][/us/stat/113/1563]; [Pub. L. 107–135, title II][/us/pl/107/135/tII], § 208(e)(3)(A), Jan. 23, 2002, [115 Stat. 2463][/us/stat/115/2463]; [Pub. L. 110–181, div. A, title XVII][/us/pl/110/181/dA/tXVII], § 1708(b), Jan. 28, 2008, [122 Stat. 494][/us/stat/122/494]; [Pub. L. 110–387, title IX][/us/pl/110/387/tIX], § 901(a)(1), Oct. 10, 2008, [122 Stat. 4142][/us/stat/122/4142]; [Pub. L. 111–163, title IV][/us/pl/111/163/tIV], § 402, May 5, 2010, [124 Stat. 1156][/us/stat/124/1156]; [Pub. L. 112–239, div. A, title VII][/us/pl/112/239/dA/tVII], § 727, Jan. 2, 2013, [126 Stat. 1809][/us/stat/126/1809].)
 
  __References in Text__ 
 
@@ -139,41 +139,41 @@
 
  __Amendments__ 
 
-    2013—Subsec. (a)(1)(A). [Pub. L. 112–239, § 727(1)(A)(i)][/us/pl/112/239/s727/1/A/i], substituted “Upon the request of any individual referred to in subparagraph (C), the Secretary shall furnish counseling, including by furnishing counseling through a Vet Center, to the individual—” for “Upon the request of any veteran referred to in subparagraph (B), the Secretary shall furnish counseling to the veteran to assist the veteran in readjusting to civilian life. Such counseling may include a general mental and psychological assessment of the veteran to ascertain whether such veteran has mental or psychological problems associated with readjustment to civilian life.” and added cls. (i) and (ii).
+    2013—Subsec. (a)(1)(A). [Pub. L. 112–239][/us/pl/112/239], § 727(1)(A)(i), substituted “Upon the request of any individual referred to in subparagraph (C), the Secretary shall furnish counseling, including by furnishing counseling through a Vet Center, to the individual—” for “Upon the request of any veteran referred to in subparagraph (B), the Secretary shall furnish counseling to the veteran to assist the veteran in readjusting to civilian life. Such counseling may include a general mental and psychological assessment of the veteran to ascertain whether such veteran has mental or psychological problems associated with readjustment to civilian life.” and added cls. (i) and (ii).
 
-    Subsec. (a)(1)(B), (C). [Pub. L. 112–239, § 727(1)(A)(ii)][/us/pl/112/239/s727/1/A/ii], added subpars. (B) and (C) and struck out former subpar. (B) which described veterans to whom subpar. (A) applied.
+    Subsec. (a)(1)(B), (C). [Pub. L. 112–239][/us/pl/112/239], § 727(1)(A)(ii), added subpars. (B) and (C) and struck out former subpar. (B) which described veterans to whom subpar. (A) applied.
 
-    Subsec. (a)(2), (3). [Pub. L. 112–239, § 727(1)(B)][/us/pl/112/239/s727/1/B]–(D), redesignated par. (3) as (2), substituted “an individual described in paragraph (1)(C)” for “a veteran described in paragraph (1)(B)(iii)” and “the individual a comprehensive individual assessment as described in paragraph (1)(B)” for “the veteran a preliminary general mental health assessment”, and struck out former par. (2) which provided for counseling to certain veterans who had been in combat situations.
+    Subsec. (a)(2), (3). [Pub. L. 112–239][/us/pl/112/239], § 727(1)(B)–(D), redesignated par. (3) as (2), substituted “an individual described in paragraph (1)(C)” for “a veteran described in paragraph (1)(B)(iii)” and “the individual a comprehensive individual assessment as described in paragraph (1)(B)” for “the veteran a preliminary general mental health assessment”, and struck out former par. (2) which provided for counseling to certain veterans who had been in combat situations.
 
-    Subsec. (b)(1). [Pub. L. 112–239, § 727(2)][/us/pl/112/239/s727/2], substituted “licensed or certified mental health care provider” for “physician or psychologist” wherever appearing.
+    Subsec. (b)(1). [Pub. L. 112–239][/us/pl/112/239], § 727(2), substituted “licensed or certified mental health care provider” for “physician or psychologist” wherever appearing.
 
-    Subsec. (g). [Pub. L. 112–239, § 727(4)][/us/pl/112/239/s727/4], added subsec. (g). Former subsec. (g) redesignated (h).
+    Subsec. (g). [Pub. L. 112–239][/us/pl/112/239], § 727(4), added subsec. (g). Former subsec. (g) redesignated (h).
 
-    Subsec. (g)(1). [Pub. L. 112–239, § 727(3)(A)][/us/pl/112/239/s727/3/A], amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The term ‘center’ means a facility which is operated by the Department for the provision of services under this section and which (A) is situated apart from Department general health-care facilities, or (B) was so situated but has been relocated to a Department general health-care facility.”
+    Subsec. (g)(1). [Pub. L. 112–239][/us/pl/112/239], § 727(3)(A), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The term ‘center’ means a facility which is operated by the Department for the provision of services under this section and which (A) is situated apart from Department general health-care facilities, or (B) was so situated but has been relocated to a Department general health-care facility.”
 
-    Subsec. (g)(3). [Pub. L. 112–239, § 727(3)(B)][/us/pl/112/239/s727/3/B], added par. (3).
+    Subsec. (g)(3). [Pub. L. 112–239][/us/pl/112/239], § 727(3)(B), added par. (3).
 
-    Subsec. (h). [Pub. L. 112–239, § 727(4)][/us/pl/112/239/s727/4], redesignated subsec. (g) as (h).
+    Subsec. (h). [Pub. L. 112–239][/us/pl/112/239], § 727(4), redesignated subsec. (g) as (h).
 
     2010—Subsecs. (c) to (g). [Pub. L. 111–163][/us/pl/111/163] added subsec. (c) and redesignated former subsecs. (c) to (f) as (d) to (g), respectively.
 
-    2008—Subsec. (a)(1)(B)(iii). [Pub. L. 110–181, § 1708(b)(1)][/us/pl/110/181/s1708/b/1], added cl. (iii).
+    2008—Subsec. (a)(1)(B)(iii). [Pub. L. 110–181][/us/pl/110/181], § 1708(b)(1), added cl. (iii).
 
-    Subsec. (a)(3). [Pub. L. 110–181, § 1708(b)(2)][/us/pl/110/181/s1708/b/2], added par. (3).
+    Subsec. (a)(3). [Pub. L. 110–181][/us/pl/110/181], § 1708(b)(2), added par. (3).
 
-    Subsecs. (c) to (e). [Pub. L. 110–387, § 901(a)(1)(B)][/us/pl/110/387/s901/a/1/B], redesignated subsecs. (d) to (f) as (c) to (e), respectively.
+    Subsecs. (c) to (e). [Pub. L. 110–387][/us/pl/110/387], § 901(a)(1)(B), redesignated subsecs. (d) to (f) as (c) to (e), respectively.
 
-    Subsec. (f). [Pub. L. 110–387, § 901(a)(1)(B)][/us/pl/110/387/s901/a/1/B], (C), redesignated subsec. (i) as (f) and struck out “(including a Resource Center designated under subsection (h)(3)(A) of this section)” after “means a facility” in par. (1). Former subsec. (f) redesignated (e).
+    Subsec. (f). [Pub. L. 110–387][/us/pl/110/387], § 901(a)(1)(B), (C), redesignated subsec. (i) as (f) and struck out “(including a Resource Center designated under subsection (h)(3)(A) of this section)” after “means a facility” in par. (1). Former subsec. (f) redesignated (e).
 
-    Subsec. (g). [Pub. L. 110–387, § 901(a)(1)(A)][/us/pl/110/387/s901/a/1/A], struck out subsec. (g) which related to criteria for the closure or relocation of a center for readjustment counseling and related mental health services in existence on Jan. 1, 1988, and the submission of reports by the Secretary on the effectiveness of such services provided to Vietnam veterans and on a national plan for all centers in existence on Jan. 1, 1988.
+    Subsec. (g). [Pub. L. 110–387][/us/pl/110/387], § 901(a)(1)(A), struck out subsec. (g) which related to criteria for the closure or relocation of a center for readjustment counseling and related mental health services in existence on Jan. 1, 1988, and the submission of reports by the Secretary on the effectiveness of such services provided to Vietnam veterans and on a national plan for all centers in existence on Jan. 1, 1988.
 
-    Subsec. (i). [Pub. L. 110–387, § 901(a)(1)(B)][/us/pl/110/387/s901/a/1/B], redesignated subsec. (i) as (f).
+    Subsec. (i). [Pub. L. 110–387][/us/pl/110/387], § 901(a)(1)(B), redesignated subsec. (i) as (f).
 
     2002—Subsec. (b). [Pub. L. 107–135][/us/pl/107/135] substituted “section 1784” for “section 1711(b)” in par. (1) and “sections 1782 and 1783” for “section 1701(6)(B)” in par. (2).
 
     1999—Subsec. (a)(1)(B)(ii). [Pub. L. 106–117][/us/pl/106/117] substituted “January 1, 2004” for “January 1, 2000”.
 
-    1996—Subsec. (a). [Pub. L. 104–262, § 331(a)][/us/pl/104/262/s331/a], amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows:
+    1996—Subsec. (a). [Pub. L. 104–262][/us/pl/104/262], § 331(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows:
 
     “(a)(1) Upon the request of any veteran who served on active duty during the Vietnam era, the Secretary shall, within the limits of Department facilities, furnish counseling to such veteran to assist such veteran in readjusting to civilian life. Such counseling shall include a general mental and psychological assessment to ascertain whether such veteran has mental or psychological problems associated with readjustment to civilian life.
 
@@ -181,117 +181,117 @@
 
     “(B) For the purposes of subparagraph (A) of this paragraph, the term ‘hostilities’ means an armed conflict in which members of the Armed Forces are subjected to danger comparable to the danger to which members of the Armed Forces have been subjected in combat with enemy armed forces during a period of war, as determined by the Secretary in consultation with the Secretary of Defense.”
 
-    Subsec. (b)(1). [Pub. L. 104–262, § 101(d)(5)(A)][/us/pl/104/262/s101/d/5/A], struck out “under the conditions specified in [section 1712(a)(5)(B) of this title][/us/usc/t38/s1712/a/5/B]” after “furnished such services on an outpatient basis”.
+    Subsec. (b)(1). [Pub. L. 104–262][/us/pl/104/262], § 101(d)(5)(A), struck out “under the conditions specified in [section 1712(a)(5)(B) of this title][/us/usc/t38/s1712/a/5/B]” after “furnished such services on an outpatient basis”.
 
-    Subsec. (c). [Pub. L. 104–262, § 331(b)][/us/pl/104/262/s331/b], struck out subsec. (c) which read as follows: “Upon receipt of a request for counseling under this section from any individual who has been discharged or released from active military, naval, or air service but who is not eligible for such counseling, the Secretary shall—
+    Subsec. (c). [Pub. L. 104–262][/us/pl/104/262], § 331(b), struck out subsec. (c) which read as follows: “Upon receipt of a request for counseling under this section from any individual who has been discharged or released from active military, naval, or air service but who is not eligible for such counseling, the Secretary shall—
 
     “(1) provide referral services to assist such individual, to the maximum extent practicable, in obtaining mental health care and services from sources outside the Department; and
 
     “(2) if pertinent, advise such individual of such individual’s rights to apply to the appropriate military, naval, or air service and the Department for review of such individual’s discharge or release from such service.”
 
-    Subsec. (e)(1). [Pub. L. 104–262, § 101(d)(5)(B)][/us/pl/104/262/s101/d/5/B], substituted “sections 1703(a)(2) and 1710(a)(1)(B)” for “sections 1712(a)(1)(B) and 1703(a)(2)”.
+    Subsec. (e)(1). [Pub. L. 104–262][/us/pl/104/262], § 101(d)(5)(B), substituted “sections 1703(a)(2) and 1710(a)(1)(B)” for “sections 1712(a)(1)(B) and 1703(a)(2)”.
 
     1992—Subsecs. (d), (g)(3)(A). [Pub. L. 102–405][/us/pl/102/405] substituted “Under Secretary for Health” for “Chief Medical Director”.
 
-    1991—[Pub. L. 102–83, § 5(a)][/us/pl/102/83/s5/a], renumbered [section 612A of this title][/us/usc/t38/s612A] as this section.
+    1991—[Pub. L. 102–83][/us/pl/102/83], § 5(a), renumbered [section 612A of this title][/us/usc/t38/s612A] as this section.
 
-    Subsec. (a). [Pub. L. 102–83, § 4(b)(1)][/us/pl/102/83/s4/b/1], (2)(E), substituted “Secretary” for “Administrator” in par. (1).
+    Subsec. (a). [Pub. L. 102–83][/us/pl/102/83], § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in par. (1).
 
-    [Pub. L. 102–83, § 4(a)(3)][/us/pl/102/83/s4/a/3], (4), substituted “Department” for “Veterans’ Administration” in par. (1).
+    [Pub. L. 102–83][/us/pl/102/83], § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration” in par. (1).
 
     [Pub. L. 102–25][/us/pl/102/25] designated existing provisions as par. (1) and added par. (2).
 
-    Subsec. (b)(1). [Pub. L. 102–83, § 5(c)(1)][/us/pl/102/83/s5/c/1], substituted “1712(a)(5)(B)” for “612(a)(5)(B)” and “1711(b)” for “611(b)”.
+    Subsec. (b)(1). [Pub. L. 102–83][/us/pl/102/83], § 5(c)(1), substituted “1712(a)(5)(B)” for “612(a)(5)(B)” and “1711(b)” for “611(b)”.
 
-    [Pub. L. 102–83, § 4(b)(1)][/us/pl/102/83/s4/b/1], (2)(E), substituted “Secretary” for “Administrator”.
+    [Pub. L. 102–83][/us/pl/102/83], § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
-    [Pub. L. 102–83, § 4(a)(3)][/us/pl/102/83/s4/a/3], (4), substituted “Department” for “Veterans’ Administration” wherever appearing.
+    [Pub. L. 102–83][/us/pl/102/83], § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration” wherever appearing.
 
     [Pub. L. 102–54][/us/pl/102/54] substituted “section 612(a)(5)(B)” for “paragraph (1)(A)(ii) of section 612(f)”.
 
-    Subsec. (b)(2). [Pub. L. 102–83, § 5(c)(1)][/us/pl/102/83/s5/c/1], substituted “1701(6)(B)” for “601(6)(B)”.
+    Subsec. (b)(2). [Pub. L. 102–83][/us/pl/102/83], § 5(c)(1), substituted “1701(6)(B)” for “601(6)(B)”.
 
-    Subsec. (c). [Pub. L. 102–83, § 4(b)(1)][/us/pl/102/83/s4/b/1], (2)(E), substituted “Secretary” for “Administrator” in introductory provisions.
+    Subsec. (c). [Pub. L. 102–83][/us/pl/102/83], § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in introductory provisions.
 
-    [Pub. L. 102–83, § 4(a)(3)][/us/pl/102/83/s4/a/3], (4), substituted “Department” for “Veterans’ Administration” in pars. (1) and (2).
+    [Pub. L. 102–83][/us/pl/102/83], § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration” in pars. (1) and (2).
 
-    Subsec. (d). [Pub. L. 102–83, § 5(c)(1)][/us/pl/102/83/s5/c/1], substituted “3485” for “1685”.
+    Subsec. (d). [Pub. L. 102–83][/us/pl/102/83], § 5(c)(1), substituted “3485” for “1685”.
 
-    Subsec. (e). [Pub. L. 102–83, § 5(c)(1)][/us/pl/102/83/s5/c/1], substituted “1712(a)(1)(B) and 1703(a)(2)” for “612(a)(1)(B) and 603(a)(2)” in par. (1).
+    Subsec. (e). [Pub. L. 102–83][/us/pl/102/83], § 5(c)(1), substituted “1712(a)(1)(B) and 1703(a)(2)” for “612(a)(1)(B) and 603(a)(2)” in par. (1).
 
-    [Pub. L. 102–83, § 4(b)(1)][/us/pl/102/83/s4/b/1], (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
+    [Pub. L. 102–83][/us/pl/102/83], § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
 
-    Subsec. (f). [Pub. L. 102–83, § 4(b)(1)][/us/pl/102/83/s4/b/1], (2)(E), substituted “Secretary” for “Administrator” in two places.
+    Subsec. (f). [Pub. L. 102–83][/us/pl/102/83], § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in two places.
 
-    Subsec. (g). [Pub. L. 102–83, § 4(b)(1)][/us/pl/102/83/s4/b/1], (2)(E), substituted “Secretary” for “Administrator” and “Secretary’s” for “Administrator’s” wherever appearing.
+    Subsec. (g). [Pub. L. 102–83][/us/pl/102/83], § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” and “Secretary’s” for “Administrator’s” wherever appearing.
 
-    [Pub. L. 102–83, § 4(a)(3)][/us/pl/102/83/s4/a/3], (4), substituted “Department” for “Veterans’ Administration” wherever appearing.
+    [Pub. L. 102–83][/us/pl/102/83], § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration” wherever appearing.
 
-    Subsec. (h). [Pub. L. 102–83, § 4(b)(6)][/us/pl/102/83/s4/b/6], struck out subsec. (h) which related to carrying out a pilot program to provide and coordinate services to meet the readjustment needs of veterans on active duty during the Vietnam era.
+    Subsec. (h). [Pub. L. 102–83][/us/pl/102/83], § 4(b)(6), struck out subsec. (h) which related to carrying out a pilot program to provide and coordinate services to meet the readjustment needs of veterans on active duty during the Vietnam era.
 
-    Subsec. (i). [Pub. L. 102–83, § 4(a)(3)][/us/pl/102/83/s4/a/3], (4), substituted “Department” for “Veterans’ Administration” wherever appearing.
+    Subsec. (i). [Pub. L. 102–83][/us/pl/102/83], § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration” wherever appearing.
 
-    1988—Subsec. (g)(1). [Pub. L. 100–322, § 107(a)][/us/pl/100/322/s107/a], amended par. (1) generally. Prior to amendment, par. (1) read as follows: “During the 24-month period ending on September 30, 1989, the Administrator shall take appropriate steps to ensure—
+    1988—Subsec. (g)(1). [Pub. L. 100–322][/us/pl/100/322], § 107(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “During the 24-month period ending on September 30, 1989, the Administrator shall take appropriate steps to ensure—
 
     “(A) the orderly, gradual transition, by October 1, 1989, of that part of the program established under this section for the provision of readjustment counseling services by Veterans’ Administration personnel from a program providing such services primarily through centers located in facilities situated apart from the health-care facilities operated by the Veterans’ Administration for the provision of other health-care services under other provisions of this chapter to a program providing readjustment counseling services primarily through such health-care facilities; and
 
     “(B) the continued availability after such date of readjustment counseling and related mental health services under this section to veterans eligible for the provision of such counseling and services who request such counseling.”
 
-    Subsec. (g)(1)(A). [Pub. L. 100–687, § 1501(a)(1)][/us/pl/100/687/s1501/a/1], substituted “Except as provided in subparagraph (C) of this paragraph, the” for “The”.
+    Subsec. (g)(1)(A). [Pub. L. 100–687][/us/pl/100/687], § 1501(a)(1), substituted “Except as provided in subparagraph (C) of this paragraph, the” for “The”.
 
-    Subsec. (g)(1)(C). [Pub. L. 100–687, § 1501(a)(2)][/us/pl/100/687/s1501/a/2], added subpar. (C).
+    Subsec. (g)(1)(C). [Pub. L. 100–687][/us/pl/100/687], § 1501(a)(2), added subpar. (C).
 
-    Subsec. (g)(2)(A). [Pub. L. 100–322, § 107(b)][/us/pl/100/322/s107/b], substituted “April 1, 1988” for “April 1, 1987” and struck out “(or, if the study is not then completed, whatever information from it is then available)” after “([Public Law 98–160][/us/pl/98/160])”.
+    Subsec. (g)(2)(A). [Pub. L. 100–322][/us/pl/100/322], § 107(b), substituted “April 1, 1988” for “April 1, 1987” and struck out “(or, if the study is not then completed, whatever information from it is then available)” after “([Public Law 98–160][/us/pl/98/160])”.
 
-    Subsec. (g)(2)(B)(i). [Pub. L. 100–322, § 107(e)(1)(A)][/us/pl/100/322/s107/e/1/A], substituted “in centers is needed” for “in a program providing such services through facilities situated apart from Veterans’ Administration health-care facilities is needed”.
+    Subsec. (g)(2)(B)(i). [Pub. L. 100–322][/us/pl/100/322], § 107(e)(1)(A), substituted “in centers is needed” for “in a program providing such services through facilities situated apart from Veterans’ Administration health-care facilities is needed”.
 
-    Subsec. (g)(2)(B)(ii). [Pub. L. 100–322, § 107(e)(1)(B)][/us/pl/100/322/s107/e/1/B], substituted “this subsection” for “paragraph (1) of this subsection”.
+    Subsec. (g)(2)(B)(ii). [Pub. L. 100–322][/us/pl/100/322], § 107(e)(1)(B), substituted “this subsection” for “paragraph (1) of this subsection”.
 
-    Subsec. (g)(3) to (5). [Pub. L. 100–322, § 107(c)][/us/pl/100/322/s107/c], added pars. (3) to (5) and struck out former pars. (3) and (4) which read as follows:
+    Subsec. (g)(3) to (5). [Pub. L. 100–322][/us/pl/100/322], § 107(c), added pars. (3) to (5) and struck out former pars. (3) and (4) which read as follows:
 
     “(3) Not later than July 1, 1987, the Administrator shall submit to such committees a report containing a description of the plans made and timetable for carrying out paragraph (1) of this subsection. Such report shall be prepared taking into consideration the results of the study referred to in paragraph (2)(A) of this subsection (or, if the study is not then completed, whatever information from it is then available).
 
     “(4) Not later than February 1, 1989, the Administrator shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report on the experience under as much of the transition as was carried out pursuant to paragraph (1) of this subsection before September 30, 1988, including such recommendations for legislative and administrative action as the Administrator considers appropriate in light of such experience.”
 
-    Subsec. (h)(3)(B). [Pub. L. 100–322, § 107(e)(2)(A)][/us/pl/100/322/s107/e/2/A], substituted “referred to as ‘Resource Centers’)” for “referred to as ‘Centers’)”.
+    Subsec. (h)(3)(B). [Pub. L. 100–322][/us/pl/100/322], § 107(e)(2)(A), substituted “referred to as ‘Resource Centers’)” for “referred to as ‘Centers’)”.
 
-    Subsec. (h)(4), (5). [Pub. L. 100–322, § 107(e)(2)(B)][/us/pl/100/322/s107/e/2/B], substituted “Resource Center” for “Center” wherever appearing.
+    Subsec. (h)(4), (5). [Pub. L. 100–322][/us/pl/100/322], § 107(e)(2)(B), substituted “Resource Center” for “Center” wherever appearing.
 
-    Subsec. (i). [Pub. L. 100–322, § 107(d)][/us/pl/100/322/s107/d], added subsec. (i).
+    Subsec. (i). [Pub. L. 100–322][/us/pl/100/322], § 107(d), added subsec. (i).
 
-    1986—Subsec. (b)(1). [Pub. L. 99–272, § 19011(d)(4)(A)][/us/pl/99/272/s19011/d/4/A], substituted “paragraph (1)(A)(ii)” for “clause (1)(B)”.
+    1986—Subsec. (b)(1). [Pub. L. 99–272][/us/pl/99/272], § 19011(d)(4)(A), substituted “paragraph (1)(A)(ii)” for “clause (1)(B)”.
 
-    Subsec. (e)(1). [Pub. L. 99–272, § 19012(c)(3)][/us/pl/99/272/s19012/c/3], substituted “603(a)(2)” for “601(4)(C)(ii)”.
+    Subsec. (e)(1). [Pub. L. 99–272][/us/pl/99/272], § 19012(c)(3), substituted “603(a)(2)” for “601(4)(C)(ii)”.
 
-    [Pub. L. 99–272, § 19011(d)(4)(B)][/us/pl/99/272/s19011/d/4/B], substituted “612(a)(1)(B)” for “612(f)(2)”.
+    [Pub. L. 99–272][/us/pl/99/272], § 19011(d)(4)(B), substituted “612(a)(1)(B)” for “612(f)(2)”.
 
-    Subsec. (g)(1). [Pub. L. 99–576, § 204(a)][/us/pl/99/576/s204/a], substituted “the 24-month period ending on September 30, 1989” for “the twelve-month period ending on September 30, 1988” in introductory provision, and substituted “orderly, gradual transition by October 1, 1989” for “orderly transition, by October 1, 1988” in subpar. (A).
+    Subsec. (g)(1). [Pub. L. 99–576][/us/pl/99/576], § 204(a), substituted “the 24-month period ending on September 30, 1989” for “the twelve-month period ending on September 30, 1988” in introductory provision, and substituted “orderly, gradual transition by October 1, 1989” for “orderly transition, by October 1, 1988” in subpar. (A).
 
-    Subsec. (g)(2)(A). [Pub. L. 99–576, § 204(b)(1)][/us/pl/99/576/s204/b/1], inserted “([Pub. L. 98–160][/us/pl/98/160]) (or, if the study is not then completed, whatever information from it is then available)” after “the Veterans’ Health Care Amendments of 1983”.
+    Subsec. (g)(2)(A). [Pub. L. 99–576][/us/pl/99/576], § 204(b)(1), inserted “([Pub. L. 98–160][/us/pl/98/160]) (or, if the study is not then completed, whatever information from it is then available)” after “the Veterans’ Health Care Amendments of 1983”.
 
-    Subsec. (g)(3). [Pub. L. 99–576, § 204(b)(2)][/us/pl/99/576/s204/b/2], inserted at end “Such report shall be prepared taking into consideration the results of the study referred to in paragraph (2)(A) of this subsection (or, if the study is not then completed, whatever information from it is then available).”
+    Subsec. (g)(3). [Pub. L. 99–576][/us/pl/99/576], § 204(b)(2), inserted at end “Such report shall be prepared taking into consideration the results of the study referred to in paragraph (2)(A) of this subsection (or, if the study is not then completed, whatever information from it is then available).”
 
-    Subsec. (g)(4). [Pub. L. 99–576, § 204(c)][/us/pl/99/576/s204/c], added par. (4).
+    Subsec. (g)(4). [Pub. L. 99–576][/us/pl/99/576], § 204(c), added par. (4).
 
-    Subsec. (h)(3)(A)(i). [Pub. L. 99–576, § 702(6)][/us/pl/99/576/s702/6], substituted “December 3, 1985,” for “the date of the enactment of this section”.
+    Subsec. (h)(3)(A)(i). [Pub. L. 99–576][/us/pl/99/576], § 702(6), substituted “December 3, 1985,” for “the date of the enactment of this section”.
 
-    1985—Subsec. (g)(1)(B). [Pub. L. 99–166, § 106][/us/pl/99/166/s106], which directed the substitution of “who request such counseling” for “who requested counseling before such date”, was executed by making the substitution for the phrase “who requested such counseling before such date” to reflect the probable intent of Congress.
+    1985—Subsec. (g)(1)(B). [Pub. L. 99–166][/us/pl/99/166], § 106, which directed the substitution of “who request such counseling” for “who requested counseling before such date”, was executed by making the substitution for the phrase “who requested such counseling before such date” to reflect the probable intent of Congress.
 
-    Subsec. (h). [Pub. L. 99–166, § 105][/us/pl/99/166/s105], added subsec. (h).
+    Subsec. (h). [Pub. L. 99–166][/us/pl/99/166], § 105, added subsec. (h).
 
-    1983—Subsec. (a). [Pub. L. 98–160, § 101(a)][/us/pl/98/160/s101/a], struck out “if such veteran requests such counseling within two years after the date of such veteran’s discharge or release from active duty, or by September 30, 1984, whichever is later” after “to assist such veteran in readjusting to civilian life”.
+    1983—Subsec. (a). [Pub. L. 98–160][/us/pl/98/160], § 101(a), struck out “if such veteran requests such counseling within two years after the date of such veteran’s discharge or release from active duty, or by September 30, 1984, whichever is later” after “to assist such veteran in readjusting to civilian life”.
 
-    Subsec. (g)(1). [Pub. L. 98–160, § 101(b)(1)][/us/pl/98/160/s101/b/1], substituted “September 30, 1988” for “September 30, 1984” in provisions preceding subpar. (A).
+    Subsec. (g)(1). [Pub. L. 98–160][/us/pl/98/160], § 101(b)(1), substituted “September 30, 1988” for “September 30, 1984” in provisions preceding subpar. (A).
 
-    Subsec. (g)(1)(A). [Pub. L. 98–160, § 101(b)(1)][/us/pl/98/160/s101/b/1], substituted “October 1, 1988” for “October 1, 1984”.
+    Subsec. (g)(1)(A). [Pub. L. 98–160][/us/pl/98/160], § 101(b)(1), substituted “October 1, 1988” for “October 1, 1984”.
 
-    Subsec. (g)(2). [Pub. L. 98–160, § 101(b)(2)][/us/pl/98/160/s101/b/2], amended par. (2) generally, designating existing provisions as subpar. (A), substituting “Not later than April 1, 1987, the Administrator shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report on the Administrator’s evaluation of the effectiveness in helping to meet the readjustment needs of veterans who served on active duty during the Vietnam era of the readjustment counseling and mental health services provided pursuant to this section (and of outreach efforts with respect to such counseling and services). Such report shall give particular attention, in light of the results of the study required by section 102 of the Veterans’ Health Care Amendments of 1983, to the provision of such counseling and services to veterans with post-traumatic stress disorder and to the diagnosis and treatment of such disorder” for “Not later than April 1, 1984, the Administrator shall submit to the Committees on Veterans’ Affairs of the Senate and the House of Representatives a report on the plans made and actions taken to carry out this subsection”, and adding subpar. (B).
+    Subsec. (g)(2). [Pub. L. 98–160][/us/pl/98/160], § 101(b)(2), amended par. (2) generally, designating existing provisions as subpar. (A), substituting “Not later than April 1, 1987, the Administrator shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report on the Administrator’s evaluation of the effectiveness in helping to meet the readjustment needs of veterans who served on active duty during the Vietnam era of the readjustment counseling and mental health services provided pursuant to this section (and of outreach efforts with respect to such counseling and services). Such report shall give particular attention, in light of the results of the study required by section 102 of the Veterans’ Health Care Amendments of 1983, to the provision of such counseling and services to veterans with post-traumatic stress disorder and to the diagnosis and treatment of such disorder” for “Not later than April 1, 1984, the Administrator shall submit to the Committees on Veterans’ Affairs of the Senate and the House of Representatives a report on the plans made and actions taken to carry out this subsection”, and adding subpar. (B).
 
-    Subsec. (g)(3). [Pub. L. 98–160, § 101(b)(2)][/us/pl/98/160/s101/b/2], added par. (3).
+    Subsec. (g)(3). [Pub. L. 98–160][/us/pl/98/160], § 101(b)(2), added par. (3).
 
-    1981—Subsec. (a). [Pub. L. 97–72, § 104(a)(1)][/us/pl/97/72/s104/a/1], substituted “or by September 30, 1984” for “or two years after the effective date of this section”.
+    1981—Subsec. (a). [Pub. L. 97–72][/us/pl/97/72], § 104(a)(1), substituted “or by September 30, 1984” for “or two years after the effective date of this section”.
 
-    Subsec. (g). [Pub. L. 97–72, § 104(b)][/us/pl/97/72/s104/b], added subsec. (g).
+    Subsec. (g). [Pub. L. 97–72][/us/pl/97/72], § 104(b), added subsec. (g).
 
     1979—Subsec. (d). [Pub. L. 96–128][/us/pl/96/128] substituted “title)” for “title),”.
 
@@ -301,7 +301,7 @@
 
  __Effective Date of 1981 Amendment__ 
 
-[Pub. L. 97–72, title I, § 104(a)(2)][/us/pl/97/72/s104/a/2], Nov. 3, 1981, [95 Stat. 1049][/us/stat/95/1049], provided that: 
+[Pub. L. 97–72, title I][/us/pl/97/72/tI], § 104(a)(2), Nov. 3, 1981, [95 Stat. 1049][/us/stat/95/1049], provided that: 
 
 > “The amendment made by paragraph (1) \[amending this section\] shall take effect as of October 1, 1981.”
 
@@ -315,7 +315,7 @@
 
  __Publication of Internet Website To Provide Information Regarding Mental Health Care Services__ 
 
-[Pub. L. 114–2, § 3][/us/pl/114/2/s3], Feb. 12, 2015, [129 Stat. 31][/us/stat/129/31], provided that:
+[Pub. L. 114–2][/us/pl/114/2], § 3, Feb. 12, 2015, [129 Stat. 31][/us/stat/129/31], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -343,7 +343,7 @@
 
  __Pilot Program on Community Outreach__ 
 
-[Pub. L. 114–2, § 5][/us/pl/114/2/s5], Feb. 12, 2015, [129 Stat. 34][/us/stat/129/34], as amended by [Pub. L. 114–92, div. A, title V, § 563(a)][/us/pl/114/92/s563/a], Nov. 25, 2015, [129 Stat. 829][/us/stat/129/829], provided that:
+[Pub. L. 114–2][/us/pl/114/2], § 5, Feb. 12, 2015, [129 Stat. 34][/us/stat/129/34], as amended by [Pub. L. 114–92, div. A, title V][/us/pl/114/92/dA/tV], § 563(a), Nov. 25, 2015, [129 Stat. 829][/us/stat/129/829], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -429,11 +429,11 @@
 
 >     The authority of the Secretary to carry out the pilot program under subsection (a) shall terminate on the date that is 3 years after the date on which the pilot program commences.”
 
-    \[[Pub. L. 114–92, div. A, title V, § 563(a)][/us/pl/114/92/s563/a], Nov. 25, 2015, [129 Stat. 829][/us/stat/129/829], which directed amendment of section “5(c)(5)” of [Pub. L. 114–2][/us/pl/114/2], was executed to section (5)(c)(2) of [Pub. L. 114–2][/us/pl/114/2], set out above, to reflect the probable intent of Congress.\]
+    \[[Pub. L. 114–92, div. A, title V][/us/pl/114/92/dA/tV], § 563(a), Nov. 25, 2015, [129 Stat. 829][/us/stat/129/829], which directed amendment of section “5(c)(5)” of [Pub. L. 114–2][/us/pl/114/2], was executed to section (5)(c)(2) of [Pub. L. 114–2][/us/pl/114/2], set out above, to reflect the probable intent of Congress.\]
 
  __Participation of Members of the Armed Forces in Peer Support Counseling Programs of the Department of Veterans Affairs__ 
 
-[Pub. L. 112–239, div. A, title VII, § 724][/us/pl/112/239/s724], Jan. 2, 2013, [126 Stat. 1805][/us/stat/126/1805], provided that:
+[Pub. L. 112–239, div. A, title VII][/us/pl/112/239/dA/tVII], § 724, Jan. 2, 2013, [126 Stat. 1805][/us/stat/126/1805], provided that:
 
 >     “(a) __Participation.—__ 
 
@@ -459,7 +459,7 @@
 
  __Transparency in Mental Health Care Services Provided by the Department of Veterans Affairs__ 
 
-[Pub. L. 112–239, div. A, title VII, § 726][/us/pl/112/239/s726], Jan. 2, 2013, [126 Stat. 1806][/us/stat/126/1806], provided that:
+[Pub. L. 112–239, div. A, title VII][/us/pl/112/239/dA/tVII], § 726, Jan. 2, 2013, [126 Stat. 1806][/us/stat/126/1806], provided that:
 
 >     “(a) __Measurement of Mental Health Care Services.—__ 
 
@@ -589,7 +589,7 @@
 
  __Pilot Program on Counseling in Retreat Settings for Women Veterans Newly Separated From Service__ 
 
-[Pub. L. 111–163, title II, § 203][/us/pl/111/163/s203], May 5, 2010, [124 Stat. 1143][/us/stat/124/1143], as amended by [Pub. L. 113–175, title I, § 102][/us/pl/113/175/s102], Sept. 26, 2014, [128 Stat. 1902][/us/stat/128/1902]; [Pub. L. 114–58, title I, § 109][/us/pl/114/58/s109], Sept. 30, 2015, [129 Stat. 533][/us/stat/129/533], provided that:
+[Pub. L. 111–163, title II][/us/pl/111/163/tII], § 203, May 5, 2010, [124 Stat. 1143][/us/stat/124/1143], as amended by [Pub. L. 113–175, title I][/us/pl/113/175/tI], § 102, Sept. 26, 2014, [128 Stat. 1902][/us/stat/128/1902]; [Pub. L. 114–58, title I][/us/pl/114/58/tI], § 109, Sept. 30, 2015, [129 Stat. 533][/us/stat/129/533], provided that:
 
 >     “(a) __Pilot Program Required.—__ 
 
@@ -635,7 +635,7 @@
 
  __Program on Readjustment and Mental Health Care Services for Veterans Who Served in Operation Enduring Freedom and Operation Iraqi Freedom__ 
 
-[Pub. L. 111–163, title III, § 304][/us/pl/111/163/s304], May 5, 2010, [124 Stat. 1150][/us/stat/124/1150], as amended by [Pub. L. 112–239, div. A, title VII, § 730(b)(1)][/us/pl/112/239/s730/b/1], Jan. 2, 2013, [126 Stat. 1814][/us/stat/126/1814], provided that:
+[Pub. L. 111–163, title III][/us/pl/111/163/tIII], § 304, May 5, 2010, [124 Stat. 1150][/us/stat/124/1150], as amended by [Pub. L. 112–239, div. A, title VII][/us/pl/112/239/dA/tVII], § 730(b)(1), Jan. 2, 2013, [126 Stat. 1814][/us/stat/126/1814], provided that:
 
 >     “(a)  __Program Required__  __.—__ 
 
@@ -707,7 +707,7 @@
 
 >     In this section, the term ‘vet center’ means a center for readjustment counseling and related mental health services for veterans under [section 1712A of title 38][/us/usc/t38/s1712A], United States Code.”
 
-\[[Pub. L. 112–239, div. A, title VII, § 730(b)(2)][/us/pl/112/239/s730/b/2], Jan. 2, 2013, [126 Stat. 1814][/us/stat/126/1814], provided that: 
+\[[Pub. L. 112–239, div. A, title VII][/us/pl/112/239/dA/tVII], § 730(b)(2), Jan. 2, 2013, [126 Stat. 1814][/us/stat/126/1814], provided that: 
 
 > “The Secretary of Veterans Affairs shall commence carrying out the services required by subparagraphs (A) and (B) of subsection (a)(1) of such section \[[section 304 of Pub. L. 111–163][/us/pl/111/163/s304], set out above\] at each Department of Veterans Affairs medical center, as required by subsection (e) of such section (as added by paragraph (1)), not later than 270 days after the date of the enactment of this Act \[Jan. 2, 2013\].”
 
@@ -715,7 +715,7 @@
 
  __Eligibility of Members of the Armed Forces Who Serve in Operation Enduring Freedom or Operation Iraqi Freedom for Counseling and Services Through Readjustment Counseling Service__ 
 
-[Pub. L. 111–163, title IV, § 401][/us/pl/111/163/s401], May 5, 2010, [124 Stat. 1156][/us/stat/124/1156], provided that:
+[Pub. L. 111–163, title IV][/us/pl/111/163/tIV], § 401, May 5, 2010, [124 Stat. 1156][/us/stat/124/1156], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -735,7 +735,7 @@
 
  __Pilot Program on Peer Outreach and Support for Veterans and Use of Community Mental Health Centers and Indian Health Service Facilities__ 
 
-[Pub. L. 110–387, title I, § 107][/us/pl/110/387/s107], Oct. 10, 2008, [122 Stat. 4116][/us/stat/122/4116], provided that:
+[Pub. L. 110–387, title I][/us/pl/110/387/tI], § 107, Oct. 10, 2008, [122 Stat. 4116][/us/stat/122/4116], provided that:
 
 >     “(a)  __Pilot Program Required__  __.—__ 
 
@@ -869,7 +869,7 @@
 
  __Research Program on Comorbid Post-Traumatic Stress Disorder and Substance Use Disorders__ 
 
-[Pub. L. 110–387, title II, § 201][/us/pl/110/387/s201], Oct. 10, 2008, [122 Stat. 4119][/us/stat/122/4119], provided that:
+[Pub. L. 110–387, title II][/us/pl/110/387/tII], § 201, Oct. 10, 2008, [122 Stat. 4119][/us/stat/122/4119], provided that:
 
 >     “(a)  __Program Required__  __.—__ 
 
@@ -909,7 +909,7 @@
 
  __Pilot Program on Provision of Readjustment and Transition Assistance to Veterans and Their Families in Cooperation With Vet Centers__ 
 
-[Pub. L. 110–387, title III, § 302][/us/pl/110/387/s302], Oct. 10, 2008, [122 Stat. 4120][/us/stat/122/4120], provided that:
+[Pub. L. 110–387, title III][/us/pl/110/387/tIII], § 302, Oct. 10, 2008, [122 Stat. 4120][/us/stat/122/4120], provided that:
 
 >     “(a)  __Pilot Program__  __.—__ 
 
@@ -1001,7 +1001,7 @@
 
  __Improvement and Expansion of Mental Health Services__ 
 
-[Pub. L. 109–461, title II, § 203][/us/pl/109/461/s203], Dec. 22, 2006, [120 Stat. 3410][/us/stat/120/3410], provided that:
+[Pub. L. 109–461, title II][/us/pl/109/461/tII], § 203, Dec. 22, 2006, [120 Stat. 3410][/us/stat/120/3410], provided that:
 
 >     “(a) __Required Capacity for Community-Based Outpatient Clinics.—__ 
 
@@ -1055,7 +1055,7 @@
 
  __Expansion of Telehealth Services__ 
 
-[Pub. L. 109–461, title II, § 205][/us/pl/109/461/s205], Dec. 22, 2006, [120 Stat. 3411][/us/stat/120/3411], provided that:
+[Pub. L. 109–461, title II][/us/pl/109/461/tII], § 205, Dec. 22, 2006, [120 Stat. 3411][/us/stat/120/3411], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -1067,7 +1067,7 @@
 
  __Expansion of Outreach Activities of Vet Centers__ 
 
-[Pub. L. 109–461, title II, § 215][/us/pl/109/461/s215], Dec. 22, 2006, [120 Stat. 3424][/us/stat/120/3424], provided that:
+[Pub. L. 109–461, title II][/us/pl/109/461/tII], § 215, Dec. 22, 2006, [120 Stat. 3424][/us/stat/120/3424], provided that:
 
 >     “(a)  __Additional Outreach Workers__  __.—__ 
 
@@ -1091,7 +1091,7 @@
 
  __Study of Post-Traumatic Stress Disorder in Vietnam Veterans__ 
 
-[Pub. L. 106–419, title II, § 212][/us/pl/106/419/s212], Nov. 1, 2000, [114 Stat. 1843][/us/stat/114/1843], provided that:
+[Pub. L. 106–419, title II][/us/pl/106/419/tII], § 212, Nov. 1, 2000, [114 Stat. 1843][/us/stat/114/1843], provided that:
 
 >     “(a)  __Study on Post-Traumatic Stress Disorder__  __.—__ 
 
@@ -1119,7 +1119,7 @@
 
  __Specialized Mental Health Services__ 
 
-[Pub. L. 106–117, title I, § 116][/us/pl/106/117/s116], Nov. 30, 1999, [113 Stat. 1559][/us/stat/113/1559], as amended by [Pub. L. 108–170, title I, § 108][/us/pl/108/170/s108], Dec. 6, 2003, [117 Stat. 2046][/us/stat/117/2046], provided that:
+[Pub. L. 106–117, title I][/us/pl/106/117/tI], § 116, Nov. 30, 1999, [113 Stat. 1559][/us/stat/113/1559], as amended by [Pub. L. 108–170, title I][/us/pl/108/170/tI], § 108, Dec. 6, 2003, [117 Stat. 2046][/us/stat/117/2046], provided that:
 
 >     “(a)  __Improvement to Specialized Mental Health Services__  __.—__ 
 
@@ -1167,7 +1167,7 @@
 
  __Marriage and Family Counseling for Persian Gulf War Veterans__ 
 
-[Pub. L. 102–405, title I, § 121][/us/pl/102/405/s121], Oct. 9, 1992, [106 Stat. 1978][/us/stat/106/1978], provided that:
+[Pub. L. 102–405, title I][/us/pl/102/405/tI], § 121, Oct. 9, 1992, [106 Stat. 1978][/us/stat/106/1978], provided that:
 
 >     “(a)  __Requirement__  __.—__ 
 
@@ -1273,7 +1273,7 @@
 
  __Post-Traumatic Stress Disorder Program Planning__ 
 
-[Pub. L. 102–405, title I, § 123][/us/pl/102/405/s123], Oct. 9, 1992, [106 Stat. 1981][/us/stat/106/1981], provided that:
+[Pub. L. 102–405, title I][/us/pl/102/405/tI], § 123, Oct. 9, 1992, [106 Stat. 1981][/us/stat/106/1981], provided that:
 
 >     “(a)  __Plan__  __.—__ 
 
@@ -1323,21 +1323,21 @@
 
  __Updates of Reports on Post-Traumatic Stress Disorder__ 
 
-    [Pub. L. 102–405, title I, § 122(b)][/us/pl/102/405/s122/b], Oct. 9, 1992, [106 Stat. 1981][/us/stat/106/1981], directed Special Committee on Post-Traumatic-Stress Disorder, not later than Oct. 1, 1992, and Oct. 1, 1993, to concurrently submit to Secretary and Committees on Veterans’ Affairs of Senate and House of Representatives a report containing information updating the reports submitted to the Secretary under section 110(e) of the Veterans’ Health Care Act of 1984, together with any additional information the Special Committee considers appropriate regarding the overall efforts of the Department of Veterans Affairs to meet the needs of veterans with post-traumatic stress disorder and other psychological problems in readjusting to civilian life, and directed Secretary, not later than 90 days after receiving each of the reports to submit to the committees any comments concerning the report that the Secretary considered appropriate. Similar provisions were contained in [Pub. L. 101–237, title II, § 201(e)][/us/pl/101/237/s201/e], Dec. 18, 1989, [103 Stat. 2066][/us/stat/103/2066], as amended by [Pub. L. 101–366, title II, § 204][/us/pl/101/366/s204], Aug. 15, 1990, [104 Stat. 439][/us/stat/104/439].
+    [Pub. L. 102–405, title I][/us/pl/102/405/tI], § 122(b), Oct. 9, 1992, [106 Stat. 1981][/us/stat/106/1981], directed Special Committee on Post-Traumatic-Stress Disorder, not later than Oct. 1, 1992, and Oct. 1, 1993, to concurrently submit to Secretary and Committees on Veterans’ Affairs of Senate and House of Representatives a report containing information updating the reports submitted to the Secretary under section 110(e) of the Veterans’ Health Care Act of 1984, together with any additional information the Special Committee considers appropriate regarding the overall efforts of the Department of Veterans Affairs to meet the needs of veterans with post-traumatic stress disorder and other psychological problems in readjusting to civilian life, and directed Secretary, not later than 90 days after receiving each of the reports to submit to the committees any comments concerning the report that the Secretary considered appropriate. Similar provisions were contained in [Pub. L. 101–237, title II][/us/pl/101/237/tII], § 201(e), Dec. 18, 1989, [103 Stat. 2066][/us/stat/103/2066], as amended by [Pub. L. 101–366, title II][/us/pl/101/366/tII], § 204, Aug. 15, 1990, [104 Stat. 439][/us/stat/104/439].
 
  __Authorization for Relocation of Certain Facilities__ 
 
-    [Pub. L. 100–687, div. B, title XV, § 1501(b)][/us/pl/100/687/s1501/b], Nov. 18, 1988, [102 Stat. 4132][/us/stat/102/4132], related to relocation of 17 Veterans’ Administration Readjustment Counseling Service Vet Centers from their locations away from general Veterans’ Administration health-care facilities to other such locations.
+    [Pub. L. 100–687, div. B, title XV][/us/pl/100/687/dB/tXV], § 1501(b), Nov. 18, 1988, [102 Stat. 4132][/us/stat/102/4132], related to relocation of 17 Veterans’ Administration Readjustment Counseling Service Vet Centers from their locations away from general Veterans’ Administration health-care facilities to other such locations.
 
  __Prohibition of Delegation of Duties__ 
 
-[Pub. L. 100–322, title I, § 107(f)][/us/pl/100/322/s107/f], May 20, 1988, [102 Stat. 496][/us/stat/102/496], as amended by [Pub. L. 100–527, § 10(4)][/us/pl/100/527/s10/4], Oct. 25, 1988, [102 Stat. 2641][/us/stat/102/2641]; [Pub. L. 102–40, § 2(b)][/us/pl/102/40/s2/b], May 7, 1991, [105 Stat. 187][/us/stat/105/187]; [Pub. L. 102–83, § 5(c)(2)][/us/pl/102/83/s5/c/2], Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406], provided that: 
+[Pub. L. 100–322, title I][/us/pl/100/322/tI], § 107(f), May 20, 1988, [102 Stat. 496][/us/stat/102/496], as amended by [Pub. L. 100–527][/us/pl/100/527], § 10(4), Oct. 25, 1988, [102 Stat. 2641][/us/stat/102/2641]; [Pub. L. 102–40][/us/pl/102/40], § 2(b), May 7, 1991, [105 Stat. 187][/us/stat/105/187]; [Pub. L. 102–83][/us/pl/102/83], § 5(c)(2), Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406], provided that: 
 
 > “The Chief Medical Director \[now Under Secretary for Health\] of the Department of Veterans Affairs may not delegate the function of making recommendations under \[former\] [section 1712A(g)(3)(A) of title 38][/us/usc/t38/s1712A/g/3/A], United States Code, as amended by subsection (c).”
 
  __Post-Traumatic-Stress Disorder; Diagnosis and Treatment; Education and Training of Health-Care Personnel; Coordination With Readjustment Counseling; Special Committee; National Center; Compilation and Publication of Research Results; Reports to Congressional Committees__ 
 
-[Pub. L. 98–528, title I, § 110][/us/pl/98/528/s110], Oct. 19, 1984, [98 Stat. 2691][/us/stat/98/2691], as amended by [Pub. L. 106–117, title II, § 206][/us/pl/106/117/s206], Nov. 30, 1999, [113 Stat. 1563][/us/stat/113/1563]; [Pub. L. 108–170, title IV, § 405(e)][/us/pl/108/170/s405/e], Dec. 6, 2003, [117 Stat. 2063][/us/stat/117/2063]; [Pub. L. 110–387, § 202][/us/pl/110/387/s202], Oct. 10, 2008, [122 Stat. 4120][/us/stat/122/4120]; [Pub. L. 112–260, title II, § 204][/us/pl/112/260/s204], Jan. 10, 2013, [126 Stat. 2424][/us/stat/126/2424], provided that:
+[Pub. L. 98–528, title I][/us/pl/98/528/tI], § 110, Oct. 19, 1984, [98 Stat. 2691][/us/stat/98/2691], as amended by [Pub. L. 106–117, title II][/us/pl/106/117/tII], § 206, Nov. 30, 1999, [113 Stat. 1563][/us/stat/113/1563]; [Pub. L. 108–170, title IV][/us/pl/108/170/tIV], § 405(e), Dec. 6, 2003, [117 Stat. 2063][/us/stat/117/2063]; [Pub. L. 110–387][/us/pl/110/387], § 202, Oct. 10, 2008, [122 Stat. 4120][/us/stat/122/4120]; [Pub. L. 112–260, title II][/us/pl/112/260/tII], § 204, Jan. 10, 2013, [126 Stat. 2424][/us/stat/126/2424], provided that:
 
 >     “(a)
 
@@ -1401,11 +1401,11 @@
 
  __Study of Post-Traumatic Stress Disorder and Other Post-War Psychological Problems__ 
 
-    [Pub. L. 98–160, title I, § 102][/us/pl/98/160/s102], Nov. 21, 1983, [97 Stat. 994][/us/stat/97/994], as amended by [Pub. L. 99–576, title II, § 216][/us/pl/99/576/s216], Oct. 28, 1986, [100 Stat. 3259][/us/stat/100/3259], directed Administrator of Veterans’ Affairs to provide for the conducting of a comprehensive study of prevalence and incidence in population of Vietnam veterans of post-traumatic stress disorder and other psychological problems of readjusting to civilian life and effects of such problems on such veterans and directed Administrator to submit to Committees on Veterans’ Affairs of Senate and House of Representatives not later than Oct. 1, 1986, a report on results of study.
+    [Pub. L. 98–160, title I][/us/pl/98/160/tI], § 102, Nov. 21, 1983, [97 Stat. 994][/us/stat/97/994], as amended by [Pub. L. 99–576, title II][/us/pl/99/576/tII], § 216, Oct. 28, 1986, [100 Stat. 3259][/us/stat/100/3259], directed Administrator of Veterans’ Affairs to provide for the conducting of a comprehensive study of prevalence and incidence in population of Vietnam veterans of post-traumatic stress disorder and other psychological problems of readjusting to civilian life and effects of such problems on such veterans and directed Administrator to submit to Committees on Veterans’ Affairs of Senate and House of Representatives not later than Oct. 1, 1986, a report on results of study.
 
  __Readjustment Counseling and Related Mental Health Services for Veterans of War Declared After__  __June 13, 1979__ 
 
-[Pub. L. 96–22, title I, § 103(b)][/us/pl/96/22/s103/b], June 13, 1979, [93 Stat. 50][/us/stat/93/50], as amended by [Pub. L. 102–83][/us/pl/102/83], §§ 5(c)(2), 6(d), Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406], 407, provided that: 
+[Pub. L. 96–22, title I][/us/pl/96/22/tI], § 103(b), June 13, 1979, [93 Stat. 50][/us/stat/93/50], as amended by [Pub. L. 102–83][/us/pl/102/83], §§ 5(c)(2), 6(d), Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406], 407, provided that: 
 
 > “In the event of a declaration of war by the Congress after June 13, 1979, the Secretary of Veterans Affairs, not later than six months after the date of such declaration, shall determine and recommend to the Congress whether eligibility for the readjustment counseling and related mental health services provided for in section 1712A \[formerly 612A\] of title 38, United States Code (as added by subsection (a) of this section) should be extended to the veterans of such war.”
 
@@ -1419,236 +1419,236 @@
 [/us/usc/t38/s1784]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1784
 [/us/usc/t38/s3485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3485
 [/us/usc/t38/s5902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs5902
-[/us/pl/96/22/s103/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F22%2Fs103%2Fa%2F1
+[/us/pl/96/22/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F22%2FtI
 [/us/stat/93/48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F48
-[/us/pl/96/128/s501/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F128%2Fs501%2Fb
+[/us/pl/96/128/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F128%2FtV
 [/us/stat/93/987]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F987
-[/us/pl/97/72/s104/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F72%2Fs104%2Fa%2F1
+[/us/pl/97/72/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F72%2FtI
 [/us/stat/95/1049]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1049
-[/us/pl/98/160/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F160%2Fs101
+[/us/pl/98/160/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F160%2FtI
 [/us/stat/97/993]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F993
-[/us/pl/99/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F166
+[/us/pl/99/166/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F166%2FtI
 [/us/stat/99/944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F944
-[/us/pl/99/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272
+[/us/pl/99/272/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2FtXIX
 [/us/stat/100/379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F379
-[/us/pl/99/576/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2Fs204
+[/us/pl/99/576/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2FtII
 [/us/stat/100/3255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3255
-[/us/pl/100/322/s107/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F322%2Fs107%2Fa
+[/us/pl/100/322/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F322%2FtI
 [/us/stat/102/494-496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F494-496
-[/us/pl/100/687/s1501/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F687%2Fs1501%2Fa
+[/us/pl/100/687/dB/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F687%2FdB%2FtXV
 [/us/stat/102/4132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4132
-[/us/pl/102/25/s334/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25%2Fs334%2Fd
+[/us/pl/102/25/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25%2FtIII
 [/us/stat/105/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F89
-[/us/pl/102/54/s14/b/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54%2Fs14%2Fb%2F11
+[/us/pl/102/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54
 [/us/stat/105/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F283
 [/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/404-406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F404-406
-[/us/pl/102/405/s302/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405%2Fs302%2Fc%2F1
+[/us/pl/102/405/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405%2FtIII
 [/us/stat/106/1984]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1984
-[/us/pl/104/262/s101/d/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F262%2Fs101%2Fd%2F5
+[/us/pl/104/262/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F262%2FtI
 [/us/stat/110/3180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3180
-[/us/pl/106/117/s205/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117%2Fs205%2Fa
+[/us/pl/106/117/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117%2FtII
 [/us/stat/113/1563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1563
-[/us/pl/107/135/s208/e/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F135%2Fs208%2Fe%2F3%2FA
+[/us/pl/107/135/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F135%2FtII
 [/us/stat/115/2463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2463
-[/us/pl/110/181/s1708/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1708%2Fb
+[/us/pl/110/181/dA/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtXVII
 [/us/stat/122/494]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F494
-[/us/pl/110/387/s901/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F387%2Fs901%2Fa%2F1
+[/us/pl/110/387/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F387%2FtIX
 [/us/stat/122/4142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4142
-[/us/pl/111/163/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163%2Fs402
+[/us/pl/111/163/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163%2FtIV
 [/us/stat/124/1156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1156
-[/us/pl/112/239/s727]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs727
+[/us/pl/112/239/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtVII
 [/us/stat/126/1809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1809
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
-[/us/pl/112/239/s727/1/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs727%2F1%2FA%2Fi
-[/us/pl/112/239/s727/1/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs727%2F1%2FA%2Fii
-[/us/pl/112/239/s727/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs727%2F1%2FB
-[/us/pl/112/239/s727/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs727%2F2
-[/us/pl/112/239/s727/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs727%2F4
-[/us/pl/112/239/s727/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs727%2F3%2FA
-[/us/pl/112/239/s727/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs727%2F3%2FB
-[/us/pl/112/239/s727/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs727%2F4
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/pl/111/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163
-[/us/pl/110/181/s1708/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1708%2Fb%2F1
-[/us/pl/110/181/s1708/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1708%2Fb%2F2
-[/us/pl/110/387/s901/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F387%2Fs901%2Fa%2F1%2FB
-[/us/pl/110/387/s901/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F387%2Fs901%2Fa%2F1%2FB
-[/us/pl/110/387/s901/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F387%2Fs901%2Fa%2F1%2FA
-[/us/pl/110/387/s901/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F387%2Fs901%2Fa%2F1%2FB
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/110/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F387
+[/us/pl/110/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F387
+[/us/pl/110/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F387
+[/us/pl/110/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F387
 [/us/pl/107/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F135
 [/us/pl/106/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117
-[/us/pl/104/262/s331/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F262%2Fs331%2Fa
-[/us/pl/104/262/s101/d/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F262%2Fs101%2Fd%2F5%2FA
+[/us/pl/104/262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F262
+[/us/pl/104/262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F262
 [/us/usc/t38/s1712/a/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1712%2Fa%2F5%2FB
-[/us/pl/104/262/s331/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F262%2Fs331%2Fb
-[/us/pl/104/262/s101/d/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F262%2Fs101%2Fd%2F5%2FB
+[/us/pl/104/262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F262
+[/us/pl/104/262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F262
 [/us/pl/102/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405
-[/us/pl/102/83/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fa
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/usc/t38/s612A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs612A
-[/us/pl/102/83/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fb%2F1
-[/us/pl/102/83/s4/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fa%2F3
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/pl/102/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25
-[/us/pl/102/83/s5/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fc%2F1
-[/us/pl/102/83/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fb%2F1
-[/us/pl/102/83/s4/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fa%2F3
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/pl/102/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54
-[/us/pl/102/83/s5/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fc%2F1
-[/us/pl/102/83/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fb%2F1
-[/us/pl/102/83/s4/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fa%2F3
-[/us/pl/102/83/s5/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fc%2F1
-[/us/pl/102/83/s5/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fc%2F1
-[/us/pl/102/83/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fb%2F1
-[/us/pl/102/83/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fb%2F1
-[/us/pl/102/83/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fb%2F1
-[/us/pl/102/83/s4/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fa%2F3
-[/us/pl/102/83/s4/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fb%2F6
-[/us/pl/102/83/s4/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fa%2F3
-[/us/pl/100/322/s107/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F322%2Fs107%2Fa
-[/us/pl/100/687/s1501/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F687%2Fs1501%2Fa%2F1
-[/us/pl/100/687/s1501/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F687%2Fs1501%2Fa%2F2
-[/us/pl/100/322/s107/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F322%2Fs107%2Fb
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/100/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F322
+[/us/pl/100/687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F687
+[/us/pl/100/687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F687
+[/us/pl/100/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F322
 [/us/pl/98/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F160
-[/us/pl/100/322/s107/e/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F322%2Fs107%2Fe%2F1%2FA
-[/us/pl/100/322/s107/e/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F322%2Fs107%2Fe%2F1%2FB
-[/us/pl/100/322/s107/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F322%2Fs107%2Fc
-[/us/pl/100/322/s107/e/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F322%2Fs107%2Fe%2F2%2FA
-[/us/pl/100/322/s107/e/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F322%2Fs107%2Fe%2F2%2FB
-[/us/pl/100/322/s107/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F322%2Fs107%2Fd
-[/us/pl/99/272/s19011/d/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs19011%2Fd%2F4%2FA
-[/us/pl/99/272/s19012/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs19012%2Fc%2F3
-[/us/pl/99/272/s19011/d/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs19011%2Fd%2F4%2FB
-[/us/pl/99/576/s204/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2Fs204%2Fa
-[/us/pl/99/576/s204/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2Fs204%2Fb%2F1
+[/us/pl/100/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F322
+[/us/pl/100/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F322
+[/us/pl/100/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F322
+[/us/pl/100/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F322
+[/us/pl/100/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F322
+[/us/pl/100/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F322
+[/us/pl/99/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272
+[/us/pl/99/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272
+[/us/pl/99/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272
+[/us/pl/99/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576
+[/us/pl/99/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576
 [/us/pl/98/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F160
-[/us/pl/99/576/s204/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2Fs204%2Fb%2F2
-[/us/pl/99/576/s204/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2Fs204%2Fc
-[/us/pl/99/576/s702/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2Fs702%2F6
-[/us/pl/99/166/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F166%2Fs106
-[/us/pl/99/166/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F166%2Fs105
-[/us/pl/98/160/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F160%2Fs101%2Fa
-[/us/pl/98/160/s101/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F160%2Fs101%2Fb%2F1
-[/us/pl/98/160/s101/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F160%2Fs101%2Fb%2F1
-[/us/pl/98/160/s101/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F160%2Fs101%2Fb%2F2
-[/us/pl/98/160/s101/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F160%2Fs101%2Fb%2F2
-[/us/pl/97/72/s104/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F72%2Fs104%2Fa%2F1
-[/us/pl/97/72/s104/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F72%2Fs104%2Fb
+[/us/pl/99/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576
+[/us/pl/99/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576
+[/us/pl/99/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576
+[/us/pl/99/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F166
+[/us/pl/99/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F166
+[/us/pl/98/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F160
+[/us/pl/98/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F160
+[/us/pl/98/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F160
+[/us/pl/98/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F160
+[/us/pl/98/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F160
+[/us/pl/97/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F72
+[/us/pl/97/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F72
 [/us/pl/96/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F128
 [/us/pl/99/272/s19011/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs19011%2Fd%2F4
 [/us/pl/99/272/s19011/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs19011%2Ff
 [/us/usc/t38/s1710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1710
-[/us/pl/97/72/s104/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F72%2Fs104%2Fa%2F2
+[/us/pl/97/72/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F72%2FtI
 [/us/stat/95/1049]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1049
 [/us/pl/96/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F128
 [/us/pl/96/128/s601/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F128%2Fs601%2Fb
 [/us/usc/t38/s1114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1114
 [/us/pl/96/22/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F22%2Fs107
 [/us/usc/t38/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1701
-[/us/pl/114/2/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F2%2Fs3
+[/us/pl/114/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F2
 [/us/stat/129/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F31
 [/us/usc/t38/s1712A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1712A
 [/us/usc/t38/s1720F/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1720F%2Fi
-[/us/pl/114/2/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F2%2Fs5
+[/us/pl/114/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F2
 [/us/stat/129/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F34
-[/us/pl/114/92/s563/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs563%2Fa
+[/us/pl/114/92/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtV
 [/us/stat/129/829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F829
-[/us/pl/114/92/s563/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs563%2Fa
+[/us/pl/114/92/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtV
 [/us/stat/129/829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F829
 [/us/pl/114/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F2
 [/us/pl/114/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F2
-[/us/pl/112/239/s724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs724
+[/us/pl/112/239/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtVII
 [/us/stat/126/1805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1805
 [/us/usc/t38/s1720F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1720F
 [/us/pl/111/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163
 [/us/stat/124/1150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1150
 [/us/usc/t38/s1712A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1712A
 [/us/usc/t38/s1720F/j/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1720F%2Fj%2F2
-[/us/pl/112/239/s726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs726
+[/us/pl/112/239/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtVII
 [/us/stat/126/1806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1806
-[/us/pl/111/163/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163%2Fs203
+[/us/pl/111/163/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163%2FtII
 [/us/stat/124/1143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1143
-[/us/pl/113/175/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F175%2Fs102
+[/us/pl/113/175/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F175%2FtI
 [/us/stat/128/1902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1902
-[/us/pl/114/58/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F58%2Fs109
+[/us/pl/114/58/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F58%2FtI
 [/us/stat/129/533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F533
-[/us/pl/111/163/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163%2Fs304
+[/us/pl/111/163/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163%2FtIII
 [/us/stat/124/1150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1150
-[/us/pl/112/239/s730/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs730%2Fb%2F1
+[/us/pl/112/239/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtVII
 [/us/stat/126/1814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1814
 [/us/usc/t38/s1712A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1712A
 [/us/usc/t38/s1712A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1712A
-[/us/pl/112/239/s730/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs730%2Fb%2F2
+[/us/pl/112/239/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtVII
 [/us/stat/126/1814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1814
 [/us/pl/111/163/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163%2Fs304
-[/us/pl/111/163/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163%2Fs401
+[/us/pl/111/163/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163%2FtIV
 [/us/stat/124/1156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1156
 [/us/usc/t38/s1712A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1712A
-[/us/pl/110/387/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F387%2Fs107
+[/us/pl/110/387/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F387%2FtI
 [/us/stat/122/4116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4116
 [/us/usc/t38/s1712A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1712A
 [/us/usc/t25/s450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450
 [/us/usc/t25/s1661/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1661%2Fa
-[/us/pl/110/387/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F387%2Fs201
+[/us/pl/110/387/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F387%2FtII
 [/us/stat/122/4119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4119
-[/us/pl/110/387/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F387%2Fs302
+[/us/pl/110/387/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F387%2FtIII
 [/us/stat/122/4120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4120
 [/us/usc/t38/s1712A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1712A
-[/us/pl/109/461/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461%2Fs203
+[/us/pl/109/461/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461%2FtII
 [/us/stat/120/3410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3410
-[/us/pl/109/461/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461%2Fs205
+[/us/pl/109/461/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461%2FtII
 [/us/stat/120/3411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3411
-[/us/pl/109/461/s215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461%2Fs215
+[/us/pl/109/461/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461%2FtII
 [/us/stat/120/3424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3424
 [/us/usc/t38/s1712A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1712A
 [/us/usc/t38/s1712A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1712A
-[/us/pl/106/419/s212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419%2Fs212
+[/us/pl/106/419/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419%2FtII
 [/us/stat/114/1843]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1843
 [/us/pl/98/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F160
-[/us/pl/106/117/s116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117%2Fs116
+[/us/pl/106/117/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117%2FtI
 [/us/stat/113/1559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1559
-[/us/pl/108/170/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F170%2Fs108
+[/us/pl/108/170/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F170%2FtI
 [/us/stat/117/2046]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2046
 [/us/usc/t38/s1706/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1706%2Fb
 [/us/usc/t38/s7321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7321
-[/us/pl/102/405/s121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405%2Fs121
+[/us/pl/102/405/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405%2FtI
 [/us/stat/106/1978]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1978
 [/us/usc/t38/s1729]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1729
 [/us/usc/t38/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs101
-[/us/pl/102/405/s123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405%2Fs123
+[/us/pl/102/405/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405%2FtI
 [/us/stat/106/1981]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1981
 [/us/usc/t38/s101/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs101%2F21
-[/us/pl/102/405/s122/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405%2Fs122%2Fb
+[/us/pl/102/405/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405%2FtI
 [/us/stat/106/1981]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1981
-[/us/pl/101/237/s201/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237%2Fs201%2Fe
+[/us/pl/101/237/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237%2FtII
 [/us/stat/103/2066]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2066
-[/us/pl/101/366/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F366%2Fs204
+[/us/pl/101/366/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F366%2FtII
 [/us/stat/104/439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F439
-[/us/pl/100/687/s1501/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F687%2Fs1501%2Fb
+[/us/pl/100/687/dB/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F687%2FdB%2FtXV
 [/us/stat/102/4132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4132
-[/us/pl/100/322/s107/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F322%2Fs107%2Ff
+[/us/pl/100/322/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F322%2FtI
 [/us/stat/102/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F496
-[/us/pl/100/527/s10/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F527%2Fs10%2F4
+[/us/pl/100/527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F527
 [/us/stat/102/2641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2641
-[/us/pl/102/40/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs2%2Fb
+[/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40
 [/us/stat/105/187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F187
-[/us/pl/102/83/s5/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fc%2F2
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F406
 [/us/usc/t38/s1712A/g/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1712A%2Fg%2F3%2FA
-[/us/pl/98/528/s110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F528%2Fs110
+[/us/pl/98/528/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F528%2FtI
 [/us/stat/98/2691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2691
-[/us/pl/106/117/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117%2Fs206
+[/us/pl/106/117/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117%2FtII
 [/us/stat/113/1563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1563
-[/us/pl/108/170/s405/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F170%2Fs405%2Fe
+[/us/pl/108/170/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F170%2FtIV
 [/us/stat/117/2063]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2063
-[/us/pl/110/387/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F387%2Fs202
+[/us/pl/110/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F387
 [/us/stat/122/4120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4120
-[/us/pl/112/260/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F260%2Fs204
+[/us/pl/112/260/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F260%2FtII
 [/us/stat/126/2424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2424
 [/us/usc/t38/s1712A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1712A
-[/us/pl/98/160/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F160%2Fs102
+[/us/pl/98/160/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F160%2FtI
 [/us/stat/97/994]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F994
-[/us/pl/99/576/s216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2Fs216
+[/us/pl/99/576/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2FtII
 [/us/stat/100/3259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3259
-[/us/pl/96/22/s103/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F22%2Fs103%2Fb
+[/us/pl/96/22/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F22%2FtI
 [/us/stat/93/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F50
 [/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F406

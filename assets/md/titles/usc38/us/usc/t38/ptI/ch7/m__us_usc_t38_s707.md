@@ -35,7 +35,7 @@
 
     (b) The authority in subsection (a) supplements, but is not in lieu of, other allowances and benefits for overseas employees of the Department provided by title 5 and the Foreign Service Act of 1980 ([22 U.S.C. 3901][/us/usc/t22/s3901] et seq.).
 
-(Added [Pub. L. 102–83, § 2(a)][/us/pl/102/83/s2/a], Aug. 6, 1991, [105 Stat. 395][/us/stat/105/395]; amended [Pub. L. 104–201, div. A, title XVII, § 1723(a)(2)][/us/pl/104/201/s1723/a/2], Sept. 23, 1996, [110 Stat. 2759][/us/stat/110/2759].)
+(Added [Pub. L. 102–83][/us/pl/102/83], § 2(a), Aug. 6, 1991, [105 Stat. 395][/us/stat/105/395]; amended [Pub. L. 104–201, div. A, title XVII][/us/pl/104/201/dA/tXVII], § 1723(a)(2), Sept. 23, 1996, [110 Stat. 2759][/us/stat/110/2759].)
 
  __References in Text__ 
 
@@ -45,13 +45,13 @@
 
     Prior sections 707 and 708 were renumbered sections 1907 and 1908 of this title, respectively.
 
-    Provisions similar to those in this section were contained in [section 235 of this title][/us/usc/t38/s235] prior to repeal by [Pub. L. 102–83, § 2(a)][/us/pl/102/83/s2/a].
+    Provisions similar to those in this section were contained in [section 235 of this title][/us/usc/t38/s235] prior to repeal by [Pub. L. 102–83][/us/pl/102/83], § 2(a).
 
  __Amendments__ 
 
-    1996—Subsec. (a)(6). [Pub. L. 104–201, § 1723(a)(2)(A)][/us/pl/104/201/s1723/a/2/A], substituted “Section 5724a(c)” for “Section 5724a(a)(3)”.
+    1996—Subsec. (a)(6). [Pub. L. 104–201][/us/pl/104/201], § 1723(a)(2)(A), substituted “Section 5724a(c)” for “Section 5724a(a)(3)”.
 
-    Subsec. (a)(7). [Pub. L. 104–201, § 1723(a)(2)(B)][/us/pl/104/201/s1723/a/2/B], substituted “Section 5724a(d)” for “Section 5724a(a)(4)”.
+    Subsec. (a)(7). [Pub. L. 104–201][/us/pl/104/201], § 1723(a)(2)(B), substituted “Section 5724a(d)” for “Section 5724a(a)(4)”.
 
  __Effective Date of 1996 Amendment__ 
 
@@ -97,17 +97,17 @@
 [/us/usc/t5/s5724a/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5724a%2Fc
 [/us/usc/t5/s5724a/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5724a%2Fd
 [/us/usc/t22/s3901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3901
-[/us/pl/102/83/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs2%2Fa
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F395
-[/us/pl/104/201/s1723/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1723%2Fa%2F2
+[/us/pl/104/201/dA/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtXVII
 [/us/stat/110/2759]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2759
 [/us/pl/96/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465
 [/us/stat/94/2071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2071
 [/us/usc/t22/s3901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3901
 [/us/usc/t38/s235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs235
-[/us/pl/102/83/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs2%2Fa
-[/us/pl/104/201/s1723/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1723%2Fa%2F2%2FA
-[/us/pl/104/201/s1723/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1723%2Fa%2F2%2FB
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
+[/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
 [/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
 [/us/pl/104/201/s1725/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1725%2Fa
 [/us/usc/t5/s5722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5722

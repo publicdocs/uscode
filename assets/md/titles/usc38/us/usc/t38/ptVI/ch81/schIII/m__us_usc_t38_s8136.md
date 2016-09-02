@@ -19,7 +19,7 @@
 
     (b) The establishment and operation by the Secretary of an outpatient clinic in facilities described in subsection (a) shall not constitute grounds entitling the United States to any recovery under that subsection.
 
-(Added [Pub. L. 88–450, § 4(a)][/us/pl/88/450/s4/a], Aug. 19, 1964, [78 Stat. 503][/us/stat/78/503], § 5036; amended [Pub. L. 93–82, title IV, § 403(f)][/us/pl/93/82/s403/f], Aug. 2, 1973, [87 Stat. 196][/us/stat/87/196]; [Pub. L. 94–581, title II, § 206(b)][/us/pl/94/581/s206/b], Oct. 21, 1976, [90 Stat. 2859][/us/stat/90/2859]; [Pub. L. 95–62, § 3(13)][/us/pl/95/62/s3/13], July 5, 1977, [91 Stat. 263][/us/stat/91/263]; [Pub. L. 97–295, § 4(92)][/us/pl/97/295/s4/92], Oct. 12, 1982, [96 Stat. 1313][/us/stat/96/1313]; [Pub. L. 98–528, title I, § 105(4)][/us/pl/98/528/s105/4], Oct. 19, 1984, [98 Stat. 2690][/us/stat/98/2690]; renumbered § 8136, [Pub. L. 102–40, title IV, § 402(b)(1)][/us/pl/102/40/s402/b/1], May 7, 1991, [105 Stat. 238][/us/stat/105/238]; [Pub. L. 102–83, § 4(b)(1)][/us/pl/102/83/s4/b/1], (2)(E), Aug. 6, 1991, [105 Stat. 404][/us/stat/105/404], 405; [Pub. L. 102–585, title IV, § 405][/us/pl/102/585/s405], Nov. 4, 1992, [106 Stat. 4954][/us/stat/106/4954]; [Pub. L. 106–419, title II, § 222][/us/pl/106/419/s222], Nov. 1, 2000, [114 Stat. 1845][/us/stat/114/1845].)
+(Added [Pub. L. 88–450][/us/pl/88/450], § 4(a), Aug. 19, 1964, [78 Stat. 503][/us/stat/78/503], § 5036; amended [Pub. L. 93–82, title IV][/us/pl/93/82/tIV], § 403(f), Aug. 2, 1973, [87 Stat. 196][/us/stat/87/196]; [Pub. L. 94–581, title II][/us/pl/94/581/tII], § 206(b), Oct. 21, 1976, [90 Stat. 2859][/us/stat/90/2859]; [Pub. L. 95–62][/us/pl/95/62], § 3(13), July 5, 1977, [91 Stat. 263][/us/stat/91/263]; [Pub. L. 97–295][/us/pl/97/295], § 4(92), Oct. 12, 1982, [96 Stat. 1313][/us/stat/96/1313]; [Pub. L. 98–528, title I][/us/pl/98/528/tI], § 105(4), Oct. 19, 1984, [98 Stat. 2690][/us/stat/98/2690]; renumbered § 8136, [Pub. L. 102–40, title IV][/us/pl/102/40/tIV], § 402(b)(1), May 7, 1991, [105 Stat. 238][/us/stat/105/238]; [Pub. L. 102–83][/us/pl/102/83], § 4(b)(1), (2)(E), Aug. 6, 1991, [105 Stat. 404][/us/stat/105/404], 405; [Pub. L. 102–585, title IV][/us/pl/102/585/tIV], § 405, Nov. 4, 1992, [106 Stat. 4954][/us/stat/106/4954]; [Pub. L. 106–419, title II][/us/pl/106/419/tII], § 222, Nov. 1, 2000, [114 Stat. 1845][/us/stat/114/1845].)
 
  __Amendments__ 
 
@@ -60,25 +60,25 @@
 ----------
 ----------
 
-[/us/pl/88/450/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F450%2Fs4%2Fa
+[/us/pl/88/450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F450
 [/us/stat/78/503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F503
-[/us/pl/93/82/s403/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F82%2Fs403%2Ff
+[/us/pl/93/82/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F82%2FtIV
 [/us/stat/87/196]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F196
-[/us/pl/94/581/s206/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F581%2Fs206%2Fb
+[/us/pl/94/581/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F581%2FtII
 [/us/stat/90/2859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2859
-[/us/pl/95/62/s3/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F62%2Fs3%2F13
+[/us/pl/95/62]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F62
 [/us/stat/91/263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F263
-[/us/pl/97/295/s4/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295%2Fs4%2F92
+[/us/pl/97/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295
 [/us/stat/96/1313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1313
-[/us/pl/98/528/s105/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F528%2Fs105%2F4
+[/us/pl/98/528/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F528%2FtI
 [/us/stat/98/2690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2690
-[/us/pl/102/40/s402/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs402%2Fb%2F1
+[/us/pl/102/40/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2FtIV
 [/us/stat/105/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F238
-[/us/pl/102/83/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fb%2F1
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F404
-[/us/pl/102/585/s405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F585%2Fs405
+[/us/pl/102/585/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F585%2FtIV
 [/us/stat/106/4954]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4954
-[/us/pl/106/419/s222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419%2Fs222
+[/us/pl/106/419/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419%2FtII
 [/us/stat/114/1845]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1845
 [/us/pl/106/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419
 [/us/pl/102/585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F585

@@ -79,7 +79,7 @@
 
     (f) For purposes of establishing service connection for a disability or death resulting from exposure to a herbicide agent, including a presumption of service-connection under this section, a veteran who, during active military, naval, or air service, served in the Republic of Vietnam during the period beginning on January 9, 1962, and ending on May 7, 1975, shall be presumed to have been exposed during such service to an herbicide agent containing dioxin or 2,4-dichlorophenoxyacetic acid, and may be presumed to have been exposed during such service to any other chemical compound in an herbicide agent, unless there is affirmative evidence to establish that the veteran was not exposed to any such agent during that service.
 
-(Added [Pub. L. 102–4, § 2(a)(1)][/us/pl/102/4/s2/a/1], Feb. 6, 1991, [105 Stat. 11][/us/stat/105/11], § 316; renumbered § 1116 and amended [Pub. L. 102–83, § 5(a)][/us/pl/102/83/s5/a], (c)(1), Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406]; [Pub. L. 103–446, title V, § 505][/us/pl/103/446/s505], title XII, § 1201(e)(6), Nov. 2, 1994, [108 Stat. 4664][/us/stat/108/4664], 4685; [Pub. L. 104–275, title V, § 505(b)][/us/pl/104/275/s505/b], Oct. 9, 1996, [110 Stat. 3342][/us/stat/110/3342]; [Pub. L. 106–419, title IV, § 404(a)(1)][/us/pl/106/419/s404/a/1], Nov. 1, 2000, [114 Stat. 1864][/us/stat/114/1864]; [Pub. L. 107–103, title II, § 201(a)(1)(A)][/us/pl/107/103/s201/a/1/A], (b)–(c)(2)(A), (d)(1), Dec. 27, 2001, [115 Stat. 987][/us/stat/115/987], 988.)
+(Added [Pub. L. 102–4][/us/pl/102/4], § 2(a)(1), Feb. 6, 1991, [105 Stat. 11][/us/stat/105/11], § 316; renumbered § 1116 and amended [Pub. L. 102–83][/us/pl/102/83], § 5(a), (c)(1), Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406]; [Pub. L. 103–446, title V][/us/pl/103/446/tV], § 505, title XII, § 1201(e)(6), Nov. 2, 1994, [108 Stat. 4664][/us/stat/108/4664], 4685; [Pub. L. 104–275, title V][/us/pl/104/275/tV], § 505(b), Oct. 9, 1996, [110 Stat. 3342][/us/stat/110/3342]; [Pub. L. 106–419, title IV][/us/pl/106/419/tIV], § 404(a)(1), Nov. 1, 2000, [114 Stat. 1864][/us/stat/114/1864]; [Pub. L. 107–103, title II][/us/pl/107/103/tII], § 201(a)(1)(A), (b)–(c)(2)(A), (d)(1), Dec. 27, 2001, [115 Stat. 987][/us/stat/115/987], 988.)
 
  __References in Text__ 
 
@@ -87,41 +87,41 @@
 
  __Amendments__ 
 
-    2001—[Pub. L. 107–103, § 201(c)(2)(A)][/us/pl/107/103/s201/c/2/A], amended section catchline generally. Prior to amendment, catchline read as follows: “Presumptions of service connection for diseases associated with exposure to certain herbicide agents”.
+    2001—[Pub. L. 107–103][/us/pl/107/103], § 201(c)(2)(A), amended section catchline generally. Prior to amendment, catchline read as follows: “Presumptions of service connection for diseases associated with exposure to certain herbicide agents”.
 
-    Subsec. (a)(2)(F). [Pub. L. 107–103, § 201(a)(1)(A)][/us/pl/107/103/s201/a/1/A], struck out “within 30 years after the last date on which the veteran performed active military, naval, or air service in the Republic of Vietnam during the period beginning on January 9, 1962, and ending on May 7, 1975” before period at end.
+    Subsec. (a)(2)(F). [Pub. L. 107–103][/us/pl/107/103], § 201(a)(1)(A), struck out “within 30 years after the last date on which the veteran performed active military, naval, or air service in the Republic of Vietnam during the period beginning on January 9, 1962, and ending on May 7, 1975” before period at end.
 
-    Subsec. (a)(2)(H). [Pub. L. 107–103, § 201(b)][/us/pl/107/103/s201/b], added subpar. (H).
+    Subsec. (a)(2)(H). [Pub. L. 107–103][/us/pl/107/103], § 201(b), added subpar. (H).
 
-    Subsec. (a)(3), (4). [Pub. L. 107–103, § 201(c)(1)(B)][/us/pl/107/103/s201/c/1/B], redesignated par. (4) as (3). Former par. (3) redesignated as subsec. (f).
+    Subsec. (a)(3), (4). [Pub. L. 107–103][/us/pl/107/103], § 201(c)(1)(B), redesignated par. (4) as (3). Former par. (3) redesignated as subsec. (f).
 
-    Subsec. (e). [Pub. L. 107–103, § 201(d)(1)][/us/pl/107/103/s201/d/1], substituted “on September 30, 2015” for “10 years after the first day of the fiscal year in which the National Academy of Sciences transmits to the Secretary the first report under section 3 of the Agent Orange Act of 1991”.
+    Subsec. (e). [Pub. L. 107–103][/us/pl/107/103], § 201(d)(1), substituted “on September 30, 2015” for “10 years after the first day of the fiscal year in which the National Academy of Sciences transmits to the Secretary the first report under section 3 of the Agent Orange Act of 1991”.
 
-    Subsec. (f). [Pub. L. 107–103, § 201(c)(1)(A)][/us/pl/107/103/s201/c/1/A], (C), redesignated subsec. (a)(3) as (f), substituted “For purposes of establishing service connection for a disability or death resulting from exposure to a herbicide agent, including a presumption of service-connection under this section, a veteran” for “For the purposes of this subsection, a veteran”, and struck out “and has a disease referred to in paragraph (1)(B) of this subsection” after “May 7, 1975,”.
+    Subsec. (f). [Pub. L. 107–103][/us/pl/107/103], § 201(c)(1)(A), (C), redesignated subsec. (a)(3) as (f), substituted “For purposes of establishing service connection for a disability or death resulting from exposure to a herbicide agent, including a presumption of service-connection under this section, a veteran” for “For the purposes of this subsection, a veteran”, and struck out “and has a disease referred to in paragraph (1)(B) of this subsection” after “May 7, 1975,”.
 
     2000—Subsec. (a)(2)(F). [Pub. L. 106–419][/us/pl/106/419] inserted “of disability” after “to a degree”.
 
-    1996—Subsec. (a)(1)(A). [Pub. L. 104–275, § 505(b)(2)][/us/pl/104/275/s505/b/2], substituted “during the period beginning on January 9, 1962, and ending on May 7, 1975” for “during the Vietnam era”.
+    1996—Subsec. (a)(1)(A). [Pub. L. 104–275][/us/pl/104/275], § 505(b)(2), substituted “during the period beginning on January 9, 1962, and ending on May 7, 1975” for “during the Vietnam era”.
 
-    Subsec. (a)(1)(B). [Pub. L. 104–275, § 505(b)(1)][/us/pl/104/275/s505/b/1], substituted “during the period beginning on January 9, 1962, and ending on May 7, 1975,” for “during the Vietnam era”.
+    Subsec. (a)(1)(B). [Pub. L. 104–275][/us/pl/104/275], § 505(b)(1), substituted “during the period beginning on January 9, 1962, and ending on May 7, 1975,” for “during the Vietnam era”.
 
-    Subsec. (a)(2)(C), (E), (F). [Pub. L. 104–275, § 505(b)(2)][/us/pl/104/275/s505/b/2], substituted “during the period beginning on January 9, 1962, and ending on May 7, 1975” for “during the Vietnam era”.
+    Subsec. (a)(2)(C), (E), (F). [Pub. L. 104–275][/us/pl/104/275], § 505(b)(2), substituted “during the period beginning on January 9, 1962, and ending on May 7, 1975” for “during the Vietnam era”.
 
-    Subsec. (a)(3). [Pub. L. 104–275, § 505(b)(1)][/us/pl/104/275/s505/b/1], substituted “during the period beginning on January 9, 1962, and ending on May 7, 1975,” for “during the Vietnam era”.
+    Subsec. (a)(3). [Pub. L. 104–275][/us/pl/104/275], § 505(b)(1), substituted “during the period beginning on January 9, 1962, and ending on May 7, 1975,” for “during the Vietnam era”.
 
-    Subsec. (a)(4). [Pub. L. 104–275, § 505(b)(2)][/us/pl/104/275/s505/b/2], substituted “during the period beginning on January 9, 1962, and ending on May 7, 1975” for “during the Vietnam era”.
+    Subsec. (a)(4). [Pub. L. 104–275][/us/pl/104/275], § 505(b)(2), substituted “during the period beginning on January 9, 1962, and ending on May 7, 1975” for “during the Vietnam era”.
 
-    1994—Subsec. (a)(1)(B). [Pub. L. 103–446, § 1201(e)(6)][/us/pl/103/446/s1201/e/6], substituted “(i)” for “(1)” and “(ii)” for “(2)”.
+    1994—Subsec. (a)(1)(B). [Pub. L. 103–446][/us/pl/103/446], § 1201(e)(6), substituted “(i)” for “(1)” and “(ii)” for “(2)”.
 
-    Subsec. (a)(2)(D) to (G). [Pub. L. 103–446, § 505][/us/pl/103/446/s505], added subpars. (D) to (G).
+    Subsec. (a)(2)(D) to (G). [Pub. L. 103–446][/us/pl/103/446], § 505, added subpars. (D) to (G).
 
-    1991—[Pub. L. 102–83, § 5(a)][/us/pl/102/83/s5/a], renumbered [section 316 of this title][/us/usc/t38/s316] as this section.
+    1991—[Pub. L. 102–83][/us/pl/102/83], § 5(a), renumbered [section 316 of this title][/us/usc/t38/s316] as this section.
 
-    Subsec. (a)(1). [Pub. L. 102–83, § 5(c)(1)][/us/pl/102/83/s5/c/1], substituted “1110” for “310” and “1113” for “313” in introductory provisions.
+    Subsec. (a)(1). [Pub. L. 102–83][/us/pl/102/83], § 5(c)(1), substituted “1110” for “310” and “1113” for “313” in introductory provisions.
 
  __Effective Date of 2001 Amendment__ 
 
-[Pub. L. 107–103, title II, § 201(a)(1)(B)][/us/pl/107/103/s201/a/1/B], Dec. 27, 2001, [115 Stat. 987][/us/stat/115/987], provided that: 
+[Pub. L. 107–103, title II][/us/pl/107/103/tII], § 201(a)(1)(B), Dec. 27, 2001, [115 Stat. 987][/us/stat/115/987], provided that: 
 
 > “The amendment made by subparagraph (A) \[amending this section\] shall take effect January 1, 2002.”
 
@@ -131,7 +131,7 @@
 
  __Report on Time Limit for Presumption of Cancer Caused by Herbicide Agent__ 
 
-[Pub. L. 107–103, title II, § 201(a)(2)][/us/pl/107/103/s201/a/2]–(4), Dec. 27, 2001, [115 Stat. 987][/us/stat/115/987], provided that:
+[Pub. L. 107–103, title II][/us/pl/107/103/tII], § 201(a)(2)–(4), Dec. 27, 2001, [115 Stat. 987][/us/stat/115/987], provided that:
 
 >     “(2) The Secretary of Veterans Affairs shall enter into a contract with the National Academy of Sciences, not later than six months after the date of the enactment of this Act \[Dec. 27, 2001\], for the performance of a study to include a review of all available scientific literature on the effects of exposure to an herbicide agent containing dioxin on the development of respiratory cancers in humans and whether it is possible to identify a period of time after exposure to herbicides after which a presumption of service-connection for such exposure would not be warranted. Under the contract, the National Academy of Sciences shall submit a report to the Secretary setting forth its conclusions. The report shall be submitted not later than 18 months after the contract is entered into.
 
@@ -153,7 +153,7 @@
 
  __Agreement With National Academy of Sciences__ 
 
-[Pub. L. 102–4, § 3][/us/pl/102/4/s3], Feb. 6, 1991, [105 Stat. 13][/us/stat/105/13], as amended by [Pub. L. 102–83, § 5(c)(2)][/us/pl/102/83/s5/c/2], Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406]; [Pub. L. 102–86, title V, § 503(a)][/us/pl/102/86/s503/a], (b)(1), Aug. 14, 1991, [105 Stat. 424][/us/stat/105/424], 425; [Pub. L. 107–103, title II, § 201(d)(2)][/us/pl/107/103/s201/d/2], Dec. 27, 2001, [115 Stat. 988][/us/stat/115/988]; [Pub. L. 113–175, title IV, § 407][/us/pl/113/175/s407], Sept. 26, 2014, [128 Stat. 1905][/us/stat/128/1905]; [Pub. L. 114–58, title IV, § 408][/us/pl/114/58/s408], Sept. 30, 2015, [129 Stat. 535][/us/stat/129/535], provided that:
+[Pub. L. 102–4][/us/pl/102/4], § 3, Feb. 6, 1991, [105 Stat. 13][/us/stat/105/13], as amended by [Pub. L. 102–83][/us/pl/102/83], § 5(c)(2), Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406]; [Pub. L. 102–86, title V][/us/pl/102/86/tV], § 503(a), (b)(1), Aug. 14, 1991, [105 Stat. 424][/us/stat/105/424], 425; [Pub. L. 107–103, title II][/us/pl/107/103/tII], § 201(d)(2), Dec. 27, 2001, [115 Stat. 988][/us/stat/115/988]; [Pub. L. 113–175, title IV][/us/pl/113/175/tIV], § 407, Sept. 26, 2014, [128 Stat. 1905][/us/stat/128/1905]; [Pub. L. 114–58, title IV][/us/pl/114/58/tIV], § 408, Sept. 30, 2015, [129 Stat. 535][/us/stat/129/535], provided that:
 
 >     “(a)  __Purpose__  __.—__ 
 
@@ -241,7 +241,7 @@
 
  __Results of Examinations and Treatment of Veterans for Disabilities Related to Exposure to Certain Herbicides or to Service in Vietnam__ 
 
-[Pub. L. 102–4, § 6][/us/pl/102/4/s6], Feb. 6, 1991, [105 Stat. 15][/us/stat/105/15], as amended by [Pub. L. 102–83, § 5(c)(2)][/us/pl/102/83/s5/c/2], Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406], provided that:
+[Pub. L. 102–4][/us/pl/102/4], § 6, Feb. 6, 1991, [105 Stat. 15][/us/stat/105/15], as amended by [Pub. L. 102–83][/us/pl/102/83], § 5(c)(2), Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -285,7 +285,7 @@
 
  __Tissue Archiving System__ 
 
-[Pub. L. 102–4, § 7][/us/pl/102/4/s7], Feb. 6, 1991, [105 Stat. 16][/us/stat/105/16], provided that:
+[Pub. L. 102–4][/us/pl/102/4], § 7, Feb. 6, 1991, [105 Stat. 16][/us/stat/105/16], provided that:
 
 >     “(a)  __Establishment of System__  __.—__ 
 
@@ -321,7 +321,7 @@
 
  __Scientific Research Feasibility Studies Program__ 
 
-[Pub. L. 102–4, § 8][/us/pl/102/4/s8], Feb. 6, 1991, [105 Stat. 17][/us/stat/105/17], provided that:
+[Pub. L. 102–4][/us/pl/102/4], § 8, Feb. 6, 1991, [105 Stat. 17][/us/stat/105/17], provided that:
 
 >     “(a)  __Establishment of Program__  __.—__ 
 
@@ -373,7 +373,7 @@
 
  __Blood Testing of Certain Vietnam-Era Veterans__ 
 
-[Pub. L. 102–4, § 9][/us/pl/102/4/s9], Feb. 6, 1991, [105 Stat. 18][/us/stat/105/18], as amended by [Pub. L. 102–83, § 5(c)(2)][/us/pl/102/83/s5/c/2], Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406], provided that:
+[Pub. L. 102–4][/us/pl/102/4], § 9, Feb. 6, 1991, [105 Stat. 18][/us/stat/105/18], as amended by [Pub. L. 102–83][/us/pl/102/83], § 5(c)(2), Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406], provided that:
 
 >     “(a)  __Blood Testing__  __.—__ 
 
@@ -411,7 +411,7 @@
 
  __Study of Effect of Vietnam Experience on Health Status of Women Vietnam Veterans__ 
 
-[Pub. L. 99–272, title XIX, § 19031][/us/pl/99/272/s19031], Apr. 7, 1986, [100 Stat. 385][/us/stat/100/385], provided that:
+[Pub. L. 99–272, title XIX][/us/pl/99/272/tXIX], § 19031, Apr. 7, 1986, [100 Stat. 385][/us/stat/100/385], provided that:
 
 >     “(a)  __Requirement for Epidemiological Study__  __.—__ 
 
@@ -533,7 +533,7 @@
 
  __Agent Orange Study; Report to Congressional Committees__ 
 
-    [Pub. L. 96–151, title III, § 307][/us/pl/96/151/s307], Dec. 20, 1979, [93 Stat. 1097][/us/stat/93/1097], as amended by [Pub. L. 97–72, title IV, § 401][/us/pl/97/72/s401], Nov. 3, 1981, [95 Stat. 1061][/us/stat/95/1061]; [Pub. L. 98–542, § 8(a)][/us/pl/98/542/s8/a], Oct. 24, 1984, [98 Stat. 2731][/us/stat/98/2731], directed that a protocol be designed for an epidemiological study of the long-term health effects of Agent Orange on Armed Forces personnel who served in Vietnam, and that reports be submitted to Congress describing results with comments and recommendations.
+    [Pub. L. 96–151, title III][/us/pl/96/151/tIII], § 307, Dec. 20, 1979, [93 Stat. 1097][/us/stat/93/1097], as amended by [Pub. L. 97–72, title IV][/us/pl/97/72/tIV], § 401, Nov. 3, 1981, [95 Stat. 1061][/us/stat/95/1061]; [Pub. L. 98–542][/us/pl/98/542], § 8(a), Oct. 24, 1984, [98 Stat. 2731][/us/stat/98/2731], directed that a protocol be designed for an epidemiological study of the long-term health effects of Agent Orange on Armed Forces personnel who served in Vietnam, and that reports be submitted to Congress describing results with comments and recommendations.
 
 ----------
 
@@ -544,84 +544,84 @@
 
 [/us/usc/t38/s1110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1110
 [/us/usc/t38/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1113
-[/us/pl/102/4/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F4%2Fs2%2Fa%2F1
+[/us/pl/102/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F4
 [/us/stat/105/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F11
-[/us/pl/102/83/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fa
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F406
-[/us/pl/103/446/s505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2Fs505
+[/us/pl/103/446/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2FtV
 [/us/stat/108/4664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4664
-[/us/pl/104/275/s505/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275%2Fs505%2Fb
+[/us/pl/104/275/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275%2FtV
 [/us/stat/110/3342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3342
-[/us/pl/106/419/s404/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419%2Fs404%2Fa%2F1
+[/us/pl/106/419/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419%2FtIV
 [/us/stat/114/1864]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1864
-[/us/pl/107/103/s201/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F103%2Fs201%2Fa%2F1%2FA
+[/us/pl/107/103/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F103%2FtII
 [/us/stat/115/987]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F987
 [/us/pl/102/4/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F4%2Fs3
-[/us/pl/107/103/s201/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F103%2Fs201%2Fc%2F2%2FA
-[/us/pl/107/103/s201/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F103%2Fs201%2Fa%2F1%2FA
-[/us/pl/107/103/s201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F103%2Fs201%2Fb
-[/us/pl/107/103/s201/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F103%2Fs201%2Fc%2F1%2FB
-[/us/pl/107/103/s201/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F103%2Fs201%2Fd%2F1
-[/us/pl/107/103/s201/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F103%2Fs201%2Fc%2F1%2FA
+[/us/pl/107/103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F103
+[/us/pl/107/103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F103
+[/us/pl/107/103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F103
+[/us/pl/107/103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F103
+[/us/pl/107/103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F103
+[/us/pl/107/103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F103
 [/us/pl/106/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419
-[/us/pl/104/275/s505/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275%2Fs505%2Fb%2F2
-[/us/pl/104/275/s505/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275%2Fs505%2Fb%2F1
-[/us/pl/104/275/s505/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275%2Fs505%2Fb%2F2
-[/us/pl/104/275/s505/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275%2Fs505%2Fb%2F1
-[/us/pl/104/275/s505/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275%2Fs505%2Fb%2F2
-[/us/pl/103/446/s1201/e/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2Fs1201%2Fe%2F6
-[/us/pl/103/446/s505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2Fs505
-[/us/pl/102/83/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fa
+[/us/pl/104/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275
+[/us/pl/104/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275
+[/us/pl/104/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275
+[/us/pl/104/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275
+[/us/pl/104/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275
+[/us/pl/103/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446
+[/us/pl/103/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/usc/t38/s316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs316
-[/us/pl/102/83/s5/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fc%2F1
-[/us/pl/107/103/s201/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F103%2Fs201%2Fa%2F1%2FB
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/107/103/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F103%2FtII
 [/us/stat/115/987]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F987
 [/us/pl/104/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275
 [/us/pl/104/275/s505/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275%2Fs505%2Fd
 [/us/usc/t38/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs101
-[/us/pl/107/103/s201/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F103%2Fs201%2Fa%2F2
+[/us/pl/107/103/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F103%2FtII
 [/us/stat/115/987]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F987
 [/us/usc/t38/s1116/a/2/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1116%2Fa%2F2%2FF
-[/us/pl/102/4/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F4%2Fs3
+[/us/pl/102/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F4
 [/us/stat/105/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F13
-[/us/pl/102/83/s5/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fc%2F2
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F406
-[/us/pl/102/86/s503/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F86%2Fs503%2Fa
+[/us/pl/102/86/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F86%2FtV
 [/us/stat/105/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F424
-[/us/pl/107/103/s201/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F103%2Fs201%2Fd%2F2
+[/us/pl/107/103/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F103%2FtII
 [/us/stat/115/988]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F988
-[/us/pl/113/175/s407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F175%2Fs407
+[/us/pl/113/175/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F175%2FtIV
 [/us/stat/128/1905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1905
-[/us/pl/114/58/s408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F58%2Fs408
+[/us/pl/114/58/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F58%2FtIV
 [/us/stat/129/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F535
 [/us/usc/t31/s1304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1304
-[/us/pl/102/4/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F4%2Fs6
+[/us/pl/102/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F4
 [/us/stat/105/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F15
-[/us/pl/102/83/s5/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fc%2F2
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F406
 [/us/usc/t38/s1710/e/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1710%2Fe%2F1%2FA
 [/us/usc/t38/s1710/e/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1710%2Fe%2F1%2FA
-[/us/pl/102/4/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F4%2Fs7
+[/us/pl/102/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F4
 [/us/stat/105/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F16
-[/us/pl/102/4/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F4%2Fs8
+[/us/pl/102/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F4
 [/us/stat/105/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F17
 [/us/pl/102/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F4
 [/us/usc/t38/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs101
-[/us/pl/102/4/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F4%2Fs9
+[/us/pl/102/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F4
 [/us/stat/105/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F18
-[/us/pl/102/83/s5/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fc%2F2
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F406
 [/us/usc/t38/s1710/e/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1710%2Fe%2F1%2FA
-[/us/pl/99/272/s19031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs19031
+[/us/pl/99/272/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2FtXIX
 [/us/stat/100/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F385
 [/us/pl/96/151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F151
 [/us/usc/t38/s219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs219
 [/us/usc/t38/s101/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs101%2F29
-[/us/pl/96/151/s307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F151%2Fs307
+[/us/pl/96/151/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F151%2FtIII
 [/us/stat/93/1097]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1097
-[/us/pl/97/72/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F72%2Fs401
+[/us/pl/97/72/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F72%2FtIV
 [/us/stat/95/1061]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1061
-[/us/pl/98/542/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F542%2Fs8%2Fa
+[/us/pl/98/542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F542
 [/us/stat/98/2731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2731
 
 

@@ -93,13 +93,13 @@
 
     (e) The Committee shall cease to exist December 31, 2016.
 
-(Added [Pub. L. 103–446, title V, § 510(a)][/us/pl/103/446/s510/a], Nov. 2, 1994, [108 Stat. 4668][/us/stat/108/4668]; amended [Pub. L. 104–275, title V, § 501(e)(2)][/us/pl/104/275/s501/e/2], (f), Oct. 9, 1996, [110 Stat. 3341][/us/stat/110/3341]; [Pub. L. 106–117, title VIII, § 803][/us/pl/106/117/s803], Nov. 30, 1999, [113 Stat. 1586][/us/stat/113/1586]; [Pub. L. 108–183, title VII, § 703][/us/pl/108/183/s703], Dec. 16, 2003, [117 Stat. 2671][/us/stat/117/2671]; [Pub. L. 110–389, title VIII, § 808][/us/pl/110/389/s808], Oct. 10, 2008, [122 Stat. 4189][/us/stat/122/4189]; [Pub. L. 111–163, title II, § 204(b)][/us/pl/111/163/s204/b], May 5, 2010, [124 Stat. 1144][/us/stat/124/1144]; [Pub. L. 113–175, title IV, § 404][/us/pl/113/175/s404], Sept. 26, 2014, [128 Stat. 1905][/us/stat/128/1905]; [Pub. L. 114–58, title IV, § 406][/us/pl/114/58/s406], Sept. 30, 2015, [129 Stat. 535][/us/stat/129/535].)
+(Added [Pub. L. 103–446, title V][/us/pl/103/446/tV], § 510(a), Nov. 2, 1994, [108 Stat. 4668][/us/stat/108/4668]; amended [Pub. L. 104–275, title V][/us/pl/104/275/tV], § 501(e)(2), (f), Oct. 9, 1996, [110 Stat. 3341][/us/stat/110/3341]; [Pub. L. 106–117, title VIII][/us/pl/106/117/tVIII], § 803, Nov. 30, 1999, [113 Stat. 1586][/us/stat/113/1586]; [Pub. L. 108–183, title VII][/us/pl/108/183/tVII], § 703, Dec. 16, 2003, [117 Stat. 2671][/us/stat/117/2671]; [Pub. L. 110–389, title VIII][/us/pl/110/389/tVIII], § 808, Oct. 10, 2008, [122 Stat. 4189][/us/stat/122/4189]; [Pub. L. 111–163, title II][/us/pl/111/163/tII], § 204(b), May 5, 2010, [124 Stat. 1144][/us/stat/124/1144]; [Pub. L. 113–175, title IV][/us/pl/113/175/tIV], § 404, Sept. 26, 2014, [128 Stat. 1905][/us/stat/128/1905]; [Pub. L. 114–58, title IV][/us/pl/114/58/tIV], § 406, Sept. 30, 2015, [129 Stat. 535][/us/stat/129/535].)
 
  __Prior Provisions__ 
 
-    Prior section 544, added [Pub. L. 90–77, title I, § 108(a)][/us/pl/90/77/s108/a], Aug. 31, 1967, [81 Stat. 180][/us/stat/81/180]; amended [Pub. L. 91–588, § 3(a)][/us/pl/91/588/s3/a], Dec. 24, 1970, [84 Stat. 1583][/us/stat/84/1583]; [Pub. L. 93–527, § 5][/us/pl/93/527/s5], Dec. 21, 1974, [88 Stat. 1704][/us/stat/88/1704]; [Pub. L. 94–169, title I, § 105][/us/pl/94/169/s105], Dec. 23, 1975, [89 Stat. 1017][/us/stat/89/1017]; [Pub. L. 94–432, title II, § 205][/us/pl/94/432/s205], Sept. 30, 1976, [90 Stat. 1371][/us/stat/90/1371]; [Pub. L. 95–204, title I, § 104][/us/pl/95/204/s104], Dec. 2, 1977, [91 Stat. 1457][/us/stat/91/1457], authorized an increase by $79 of the monthly rate of pension payable to the surviving spouse if the surviving spouse was entitled to pension under subchapter III of chapter 15 of this title and was in need of regular aid and attendance, prior to repeal by [Pub. L. 95–588, title I, § 112(a)(1)][/us/pl/95/588/s112/a/1], title IV, § 401, Nov. 4, 1978, [92 Stat. 2505][/us/stat/92/2505], 2511, effective Jan. 1, 1979.
+    Prior section 544, added [Pub. L. 90–77, title I][/us/pl/90/77/tI], § 108(a), Aug. 31, 1967, [81 Stat. 180][/us/stat/81/180]; amended [Pub. L. 91–588][/us/pl/91/588], § 3(a), Dec. 24, 1970, [84 Stat. 1583][/us/stat/84/1583]; [Pub. L. 93–527][/us/pl/93/527], § 5, Dec. 21, 1974, [88 Stat. 1704][/us/stat/88/1704]; [Pub. L. 94–169, title I][/us/pl/94/169/tI], § 105, Dec. 23, 1975, [89 Stat. 1017][/us/stat/89/1017]; [Pub. L. 94–432, title II][/us/pl/94/432/tII], § 205, Sept. 30, 1976, [90 Stat. 1371][/us/stat/90/1371]; [Pub. L. 95–204, title I][/us/pl/95/204/tI], § 104, Dec. 2, 1977, [91 Stat. 1457][/us/stat/91/1457], authorized an increase by $79 of the monthly rate of pension payable to the surviving spouse if the surviving spouse was entitled to pension under subchapter III of chapter 15 of this title and was in need of regular aid and attendance, prior to repeal by [Pub. L. 95–588, title I][/us/pl/95/588/tI], § 112(a)(1), title IV, § 401, Nov. 4, 1978, [92 Stat. 2505][/us/stat/92/2505], 2511, effective Jan. 1, 1979.
 
-    Another prior section 544, [Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1139][/us/stat/72/1139], authorized the payment of a pension to children of World War II or Korean conflict veterans, prior to the general amendment of subchapter III of chapter 15 of this title by [Pub. L. 86–211, § 4][/us/pl/86/211/s4], Aug. 29, 1950, [73 Stat. 434][/us/stat/73/434]. See sections 1542 and 1543 of this title.
+    Another prior section 544, [Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1139][/us/stat/72/1139], authorized the payment of a pension to children of World War II or Korean conflict veterans, prior to the general amendment of subchapter III of chapter 15 of this title by [Pub. L. 86–211][/us/pl/86/211], § 4, Aug. 29, 1950, [73 Stat. 434][/us/stat/73/434]. See sections 1542 and 1543 of this title.
 
  __Amendments__ 
 
@@ -115,9 +115,9 @@
 
     1999—Subsec. (e). [Pub. L. 106–117][/us/pl/106/117] substituted “December 31, 2003” for “December 31, 1999”.
 
-    1996—Subsec. (b). [Pub. L. 104–275, § 501(e)(2)][/us/pl/104/275/s501/e/2], inserted “, including the Center for Minority Veterans” before period at end.
+    1996—Subsec. (b). [Pub. L. 104–275][/us/pl/104/275], § 501(e)(2), inserted “, including the Center for Minority Veterans” before period at end.
 
-    Subsec. (e). [Pub. L. 104–275, § 501(f)][/us/pl/104/275/s501/f], substituted “December 31, 1999” for “December 31, 1997”.
+    Subsec. (e). [Pub. L. 104–275][/us/pl/104/275], § 501(f), substituted “December 31, 1999” for “December 31, 1997”.
 
  __Effective Date of 2010 Amendment__ 
 
@@ -131,39 +131,39 @@
 ----------
 
 [/us/usc/t38/s529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs529
-[/us/pl/103/446/s510/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2Fs510%2Fa
+[/us/pl/103/446/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2FtV
 [/us/stat/108/4668]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4668
-[/us/pl/104/275/s501/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275%2Fs501%2Fe%2F2
+[/us/pl/104/275/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275%2FtV
 [/us/stat/110/3341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3341
-[/us/pl/106/117/s803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117%2Fs803
+[/us/pl/106/117/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117%2FtVIII
 [/us/stat/113/1586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1586
-[/us/pl/108/183/s703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F183%2Fs703
+[/us/pl/108/183/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F183%2FtVII
 [/us/stat/117/2671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2671
-[/us/pl/110/389/s808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F389%2Fs808
+[/us/pl/110/389/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F389%2FtVIII
 [/us/stat/122/4189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4189
-[/us/pl/111/163/s204/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163%2Fs204%2Fb
+[/us/pl/111/163/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163%2FtII
 [/us/stat/124/1144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1144
-[/us/pl/113/175/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F175%2Fs404
+[/us/pl/113/175/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F175%2FtIV
 [/us/stat/128/1905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1905
-[/us/pl/114/58/s406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F58%2Fs406
+[/us/pl/114/58/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F58%2FtIV
 [/us/stat/129/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F535
-[/us/pl/90/77/s108/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F77%2Fs108%2Fa
+[/us/pl/90/77/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F77%2FtI
 [/us/stat/81/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F180
-[/us/pl/91/588/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F588%2Fs3%2Fa
+[/us/pl/91/588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F588
 [/us/stat/84/1583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1583
-[/us/pl/93/527/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F527%2Fs5
+[/us/pl/93/527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F527
 [/us/stat/88/1704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1704
-[/us/pl/94/169/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F169%2Fs105
+[/us/pl/94/169/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F169%2FtI
 [/us/stat/89/1017]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F1017
-[/us/pl/94/432/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F432%2Fs205
+[/us/pl/94/432/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F432%2FtII
 [/us/stat/90/1371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1371
-[/us/pl/95/204/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F204%2Fs104
+[/us/pl/95/204/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F204%2FtI
 [/us/stat/91/1457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1457
-[/us/pl/95/588/s112/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F588%2Fs112%2Fa%2F1
+[/us/pl/95/588/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F588%2FtI
 [/us/stat/92/2505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2505
 [/us/pl/85/857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F857
 [/us/stat/72/1139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1139
-[/us/pl/86/211/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F211%2Fs4
+[/us/pl/86/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F211
 [/us/stat/73/434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F434
 [/us/pl/114/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F58
 [/us/pl/113/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F175
@@ -171,8 +171,8 @@
 [/us/pl/110/389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F389
 [/us/pl/108/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F183
 [/us/pl/106/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117
-[/us/pl/104/275/s501/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275%2Fs501%2Fe%2F2
-[/us/pl/104/275/s501/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275%2Fs501%2Ff
+[/us/pl/104/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275
+[/us/pl/104/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275
 [/us/pl/111/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163
 [/us/pl/111/163/s204/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163%2Fs204%2Fc
 [/us/usc/t38/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs542

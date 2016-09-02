@@ -25,31 +25,31 @@
 
     (e) Each such policy shall provide for an accounting to the Secretary not later than ninety days after the end of each policy year, which shall set forth, in a form approved by the Secretary, (1) the amounts of premiums actually accrued under the policy from its date of issue to the end of such policy year, (2) the total of all mortality and other claim charges incurred for that period, and (3) the amounts of the insurers’ expense and risk charge for that period. Any excess of the total of item (1) over the sum of items (2) and (3) shall be held by the insurance company or companies issuing the policy as a special contingency reserve to be used by such insurance company or companies for charges under such policy only, such reserve to bear interest at a rate to be determined in advance of each policy year by the insurance company or companies issuing the policy, which rate shall be approved by the Secretary as being consistent with the rates generally used by such company or companies for similar funds held under other group life insurance policies. If and when the Secretary determines that such special contingency reserve has attained an amount estimated by the Secretary to make satisfactory provision for adverse fluctuations in future charges under the policy, any further excess shall be deposited to the credit of the revolving fund established under [section 1969(d)(1) of this title][/us/usc/t38/s1969/d/1]. If and when such policy is discontinued, and if after all charges have been made, there is any positive balance remaining in such special contingency reserve, such balance shall be deposited to the credit of the revolving fund, subject to the right of the insurance company or companies issuing the policy to make such deposit in equal monthly installments over a period of not more than two years.
 
-(Added [Pub. L. 89–214, § 1(a)][/us/pl/89/214/s1/a], Sept. 29, 1965, [79 Stat. 884][/us/stat/79/884], § 771; amended [Pub. L. 93–289, § 8][/us/pl/93/289/s8], May 24, 1974, [88 Stat. 169][/us/stat/88/169]; renumbered § 1971 and amended [Pub. L. 102–83][/us/pl/102/83], §§ 4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, [105 Stat. 404–406][/us/stat/105/404-406]; [Pub. L. 104–275, title IV, § 405(b)(1)(E)][/us/pl/104/275/s405/b/1/E], Oct. 9, 1996, [110 Stat. 3339][/us/stat/110/3339].)
+(Added [Pub. L. 89–214][/us/pl/89/214], § 1(a), Sept. 29, 1965, [79 Stat. 884][/us/stat/79/884], § 771; amended [Pub. L. 93–289][/us/pl/93/289], § 8, May 24, 1974, [88 Stat. 169][/us/stat/88/169]; renumbered § 1971 and amended [Pub. L. 102–83][/us/pl/102/83], §§ 4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, [105 Stat. 404–406][/us/stat/105/404-406]; [Pub. L. 104–275, title IV][/us/pl/104/275/tIV], § 405(b)(1)(E), Oct. 9, 1996, [110 Stat. 3339][/us/stat/110/3339].)
 
  __Amendments__ 
 
     1996—Subsec. (b). [Pub. L. 104–275][/us/pl/104/275] substituted “Servicemembers’ Group” for “Servicemen’s Group”.
 
-    1991—[Pub. L. 102–83, § 5(a)][/us/pl/102/83/s5/a], renumbered [section 771 of this title][/us/usc/t38/s771] as this section.
+    1991—[Pub. L. 102–83][/us/pl/102/83], § 5(a), renumbered [section 771 of this title][/us/usc/t38/s771] as this section.
 
-    Subsec. (a). [Pub. L. 102–83, § 5(c)(1)][/us/pl/102/83/s5/c/1], substituted “1966” for “766”.
+    Subsec. (a). [Pub. L. 102–83][/us/pl/102/83], § 5(c)(1), substituted “1966” for “766”.
 
-    [Pub. L. 102–83, § 4(b)(1)][/us/pl/102/83/s4/b/1], (2)(E), substituted “Secretary” for “Administrator” in two places.
+    [Pub. L. 102–83][/us/pl/102/83], § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in two places.
 
-    Subsec. (b). [Pub. L. 102–83, § 5(c)(1)][/us/pl/102/83/s5/c/1], substituted “1969(b)” for “769(b)”.
+    Subsec. (b). [Pub. L. 102–83][/us/pl/102/83], § 5(c)(1), substituted “1969(b)” for “769(b)”.
 
-    [Pub. L. 102–83, § 4(b)(1)][/us/pl/102/83/s4/b/1], (2)(E), substituted “Secretary” for “Administrator”.
+    [Pub. L. 102–83][/us/pl/102/83], § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
-    Subsecs. (c), (d). [Pub. L. 102–83, § 4(b)(1)][/us/pl/102/83/s4/b/1], (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
+    Subsecs. (c), (d). [Pub. L. 102–83][/us/pl/102/83], § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
 
-    Subsec. (e). [Pub. L. 102–83, § 5(c)(1)][/us/pl/102/83/s5/c/1], substituted “1969(d)(1)” for “769(d)(1)”.
+    Subsec. (e). [Pub. L. 102–83][/us/pl/102/83], § 5(c)(1), substituted “1969(d)(1)” for “769(d)(1)”.
 
-    [Pub. L. 102–83, § 4(b)(1)][/us/pl/102/83/s4/b/1], (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
+    [Pub. L. 102–83][/us/pl/102/83], § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
 
-    1974—Subsec. (b). [Pub. L. 93–289, § 8(1)][/us/pl/93/289/s8/1], substituted “premiums for Servicemen’s Group Life Insurance” for “premiums for the policy or policies”.
+    1974—Subsec. (b). [Pub. L. 93–289][/us/pl/93/289], § 8(1), substituted “premiums for Servicemen’s Group Life Insurance” for “premiums for the policy or policies”.
 
-    Subsec. (e). [Pub. L. 93–289, § 8(2)][/us/pl/93/289/s8/2], substituted “[section 769(d)(1) of this title][/us/usc/t38/s769/d/1]” for “[section 766 of this title][/us/usc/t38/s766]”.
+    Subsec. (e). [Pub. L. 93–289][/us/pl/93/289], § 8(2), substituted “[section 769(d)(1) of this title][/us/usc/t38/s769/d/1]” for “[section 766 of this title][/us/usc/t38/s766]”.
 
 ----------
 
@@ -60,26 +60,26 @@
 
 [/us/usc/t38/s1966]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1966
 [/us/usc/t38/s1969/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1969%2Fd%2F1
-[/us/pl/89/214/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F214%2Fs1%2Fa
+[/us/pl/89/214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F214
 [/us/stat/79/884]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F884
-[/us/pl/93/289/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F289%2Fs8
+[/us/pl/93/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F289
 [/us/stat/88/169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F169
 [/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/404-406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F404-406
-[/us/pl/104/275/s405/b/1/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275%2Fs405%2Fb%2F1%2FE
+[/us/pl/104/275/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275%2FtIV
 [/us/stat/110/3339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3339
 [/us/pl/104/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275
-[/us/pl/102/83/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fa
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/usc/t38/s771]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs771
-[/us/pl/102/83/s5/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fc%2F1
-[/us/pl/102/83/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fb%2F1
-[/us/pl/102/83/s5/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fc%2F1
-[/us/pl/102/83/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fb%2F1
-[/us/pl/102/83/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fb%2F1
-[/us/pl/102/83/s5/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fc%2F1
-[/us/pl/102/83/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fb%2F1
-[/us/pl/93/289/s8/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F289%2Fs8%2F1
-[/us/pl/93/289/s8/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F289%2Fs8%2F2
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/93/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F289
+[/us/pl/93/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F289
 [/us/usc/t38/s769/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs769%2Fd%2F1
 [/us/usc/t38/s766]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs766
 

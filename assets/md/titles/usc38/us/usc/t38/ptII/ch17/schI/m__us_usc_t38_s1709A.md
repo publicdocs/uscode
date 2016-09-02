@@ -39,7 +39,7 @@
 
     In this section, the term “teleconsultation” means the use by a health care specialist of telecommunications to assist another health care provider in rendering a diagnosis or treatment.
 
-(Added [Pub. L. 112–154, title I, § 108(a)(1)][/us/pl/112/154/s108/a/1], Aug. 6, 2012, [126 Stat. 1174][/us/stat/126/1174].)
+(Added [Pub. L. 112–154, title I][/us/pl/112/154/tI], § 108(a)(1), Aug. 6, 2012, [126 Stat. 1174][/us/stat/126/1174].)
 
 ----------
 
@@ -48,7 +48,7 @@
 ----------
 ----------
 
-[/us/pl/112/154/s108/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154%2Fs108%2Fa%2F1
+[/us/pl/112/154/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154%2FtI
 [/us/stat/126/1174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1174
 
 

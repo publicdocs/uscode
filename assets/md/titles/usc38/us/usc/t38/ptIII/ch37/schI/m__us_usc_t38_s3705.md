@@ -19,17 +19,17 @@
 
     (b) The Secretary shall permit copies of the plans and specifications (including written approvals of any amendments thereof, or changes or variations therein, as provided in this section) for dwellings in connection with which warranties are required by subsection (a) of this section to be made available in their appropriate local offices for inspection or for copying by any purchaser, home owner, or warrantor during such hours or periods of time as the Secretary may determine to be reasonable.
 
-([Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1206][/us/stat/72/1206], § 1805; [Pub. L. 94–324, § 7(9)][/us/pl/94/324/s7/9], June 30, 1976, [90 Stat. 721][/us/stat/90/721]; [Pub. L. 101–237, title III, § 313(b)(1)][/us/pl/101/237/s313/b/1], Dec. 18, 1989, [103 Stat. 2077][/us/stat/103/2077]; [Pub. L. 102–54, § 15(a)(1)][/us/pl/102/54/s15/a/1], June 13, 1991, [105 Stat. 288][/us/stat/105/288]; renumbered § 3705, [Pub. L. 102–83, § 5(a)][/us/pl/102/83/s5/a], Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406]; [Pub. L. 103–446, title XII, § 1202(a)(2)][/us/pl/103/446/s1202/a/2], Nov. 2, 1994, [108 Stat. 4689][/us/stat/108/4689].)
+([Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1206][/us/stat/72/1206], § 1805; [Pub. L. 94–324][/us/pl/94/324], § 7(9), June 30, 1976, [90 Stat. 721][/us/stat/90/721]; [Pub. L. 101–237, title III][/us/pl/101/237/tIII], § 313(b)(1), Dec. 18, 1989, [103 Stat. 2077][/us/stat/103/2077]; [Pub. L. 102–54][/us/pl/102/54], § 15(a)(1), June 13, 1991, [105 Stat. 288][/us/stat/105/288]; renumbered § 3705, [Pub. L. 102–83][/us/pl/102/83], § 5(a), Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406]; [Pub. L. 103–446, title XII][/us/pl/103/446/tXII], § 1202(a)(2), Nov. 2, 1994, [108 Stat. 4689][/us/stat/108/4689].)
 
  __Amendments__ 
 
-    1994—Subsec. (a). [Pub. L. 103–446][/us/pl/103/446] made technical correction to directory language of [Pub. L. 102–54, § 15(a)(1)(A)][/us/pl/102/54/s15/a/1/A]. See 1991 Amendment note below.
+    1994—Subsec. (a). [Pub. L. 103–446][/us/pl/103/446] made technical correction to directory language of [Pub. L. 102–54][/us/pl/102/54], § 15(a)(1)(A). See 1991 Amendment note below.
 
-    1991—[Pub. L. 102–83, § 5(a)][/us/pl/102/83/s5/a], renumbered [section 1805 of this title][/us/usc/t38/s1805] as this section.
+    1991—[Pub. L. 102–83][/us/pl/102/83], § 5(a), renumbered [section 1805 of this title][/us/usc/t38/s1805] as this section.
 
-    Subsec. (a). [Pub. L. 102–54, § 15(a)(1)(B)][/us/pl/102/54/s15/a/1/B], substituted “appraisal)” for “approval)” in second sentence.
+    Subsec. (a). [Pub. L. 102–54][/us/pl/102/54], § 15(a)(1)(B), substituted “appraisal)” for “approval)” in second sentence.
 
-    [Pub. L. 102–54, § 15(a)(1)(A)][/us/pl/102/54/s15/a/1/A], as amended by [Pub. L. 103–446][/us/pl/103/446], substituted “appraised” for “approved” before “for guaranty” in first sentence.
+    [Pub. L. 102–54][/us/pl/102/54], § 15(a)(1)(A), as amended by [Pub. L. 103–446][/us/pl/103/446], substituted “appraised” for “approved” before “for guaranty” in first sentence.
 
     1989—[Pub. L. 101–237][/us/pl/101/237] substituted “Secretary” and “Secretary’s” for “Administrator” and “Administrator’s”, respectively, wherever appearing.
 
@@ -37,7 +37,7 @@
 
  __Effective Date of 1994 Amendment__ 
 
-    [Pub. L. 103–446, title XII, § 1202(a)][/us/pl/103/446/s1202/a], Nov. 2, 1994, [108 Stat. 4689][/us/stat/108/4689], provided that the amendment made by that section is effective June 13, 1991, and as if included in the enactment of [Pub. L. 102–54][/us/pl/102/54].
+    [Pub. L. 103–446, title XII][/us/pl/103/446/tXII], § 1202(a), Nov. 2, 1994, [108 Stat. 4689][/us/stat/108/4689], provided that the amendment made by that section is effective June 13, 1991, and as if included in the enactment of [Pub. L. 102–54][/us/pl/102/54].
 
  __Effective Date of 1976 Amendment__ 
 
@@ -52,26 +52,26 @@
 
 [/us/pl/85/857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F857
 [/us/stat/72/1206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1206
-[/us/pl/94/324/s7/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F324%2Fs7%2F9
+[/us/pl/94/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F324
 [/us/stat/90/721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F721
-[/us/pl/101/237/s313/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237%2Fs313%2Fb%2F1
+[/us/pl/101/237/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237%2FtIII
 [/us/stat/103/2077]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2077
-[/us/pl/102/54/s15/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54%2Fs15%2Fa%2F1
+[/us/pl/102/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54
 [/us/stat/105/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F288
-[/us/pl/102/83/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fa
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F406
-[/us/pl/103/446/s1202/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2Fs1202%2Fa%2F2
+[/us/pl/103/446/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2FtXII
 [/us/stat/108/4689]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4689
 [/us/pl/103/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446
-[/us/pl/102/54/s15/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54%2Fs15%2Fa%2F1%2FA
-[/us/pl/102/83/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fa
+[/us/pl/102/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/usc/t38/s1805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1805
-[/us/pl/102/54/s15/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54%2Fs15%2Fa%2F1%2FB
-[/us/pl/102/54/s15/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54%2Fs15%2Fa%2F1%2FA
+[/us/pl/102/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54
+[/us/pl/102/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54
 [/us/pl/103/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446
 [/us/pl/101/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237
 [/us/pl/94/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F324
-[/us/pl/103/446/s1202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2Fs1202%2Fa
+[/us/pl/103/446/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2FtXII
 [/us/stat/108/4689]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4689
 [/us/pl/102/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54
 [/us/pl/94/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F324

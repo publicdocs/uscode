@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t38/ptIII/ch37/schVI/m__us_usc_t38_s3771.md) | [Next](./../../../../..//us/usc/t38/ptIII/ch39/m__us_usc_t38_s3901.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2FptIII%2Fch39)
+[Previous](./../../../../..//us/usc/t38/ptIII/ch37/schVI/m__us_usc_t38_s3772...3775.md) | [Next](./../../../../..//us/usc/t38/ptIII/ch39/m__us_usc_t38_s3901.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2FptIII%2Fch39)
 
 ### CHAPTER 39—AUTOMOBILES AND ADAPTIVE EQUIPMENT FOR CERTAIN DISABLED VETERANS AND MEMBERS OF THE ARMED FORCES
 
@@ -59,7 +59,7 @@
 
  __Codification__ 
 
-This chapter as added by [Pub. L. 91–666, § 2(a)][/us/pl/91/666/s2/a], Jan. 11, 1971, [84 Stat. 1998][/us/stat/84/1998], constitutes a general revision of the provisions of a prior chapter 39, as enacted by [Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1215][/us/stat/72/1215], and amended thereafter. The analysis in the original consisted of the following provisions:
+This chapter as added by [Pub. L. 91–666][/us/pl/91/666], § 2(a), Jan. 11, 1971, [84 Stat. 1998][/us/stat/84/1998], constitutes a general revision of the provisions of a prior chapter 39, as enacted by [Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1215][/us/stat/72/1215], and amended thereafter. The analysis in the original consisted of the following provisions:
 
 >     “Automobiles For Disabled Veterans”
 
@@ -77,26 +77,26 @@ This chapter as added by [Pub. L. 91–666, § 2(a)][/us/pl/91/666/s2/a], Jan.
 
  __Amendments__ 
 
-    1991—[Pub. L. 102–83, § 5(b)(1)][/us/pl/102/83/s5/b/1], Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406], renumbered items 1901 to 1904 as 3901 to 3904, respectively.
+    1991—[Pub. L. 102–83][/us/pl/102/83], § 5(b)(1), Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406], renumbered items 1901 to 1904 as 3901 to 3904, respectively.
 
-    1976—[Pub. L. 94–581, title II, § 205(b)(1)][/us/pl/94/581/s205/b/1], Oct. 21, 1976, [90 Stat. 2858][/us/stat/90/2858], struck out “; coordination with other Federal programs” in item 1904.
+    1976—[Pub. L. 94–581, title II][/us/pl/94/581/tII], § 205(b)(1), Oct. 21, 1976, [90 Stat. 2858][/us/stat/90/2858], struck out “; coordination with other Federal programs” in item 1904.
 
     1974—[Pub. L. 93–538][/us/pl/93/538], §§ 4(c), 5(b), Dec. 22, 1974, [88 Stat. 1737][/us/stat/88/1737], inserted “; special training courses” in item 1903, and added item 1904.
 
 ----------
 
-[Previous](./../../../../..//us/usc/t38/ptIII/ch37/schVI/m__us_usc_t38_s3771.md) | [Next](./../../../../..//us/usc/t38/ptIII/ch39/m__us_usc_t38_s3901.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2FptIII%2Fch39)
+[Previous](./../../../../..//us/usc/t38/ptIII/ch37/schVI/m__us_usc_t38_s3772...3775.md) | [Next](./../../../../..//us/usc/t38/ptIII/ch39/m__us_usc_t38_s3901.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2FptIII%2Fch39)
 
 ----------
 ----------
 
-[/us/pl/91/666/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F666%2Fs2%2Fa
+[/us/pl/91/666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F666
 [/us/stat/84/1998]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1998
 [/us/pl/85/857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F857
 [/us/stat/72/1215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1215
-[/us/pl/102/83/s5/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fb%2F1
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F406
-[/us/pl/94/581/s205/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F581%2Fs205%2Fb%2F1
+[/us/pl/94/581/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F581%2FtII
 [/us/stat/90/2858]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2858
 [/us/pl/93/538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F538
 [/us/stat/88/1737]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1737

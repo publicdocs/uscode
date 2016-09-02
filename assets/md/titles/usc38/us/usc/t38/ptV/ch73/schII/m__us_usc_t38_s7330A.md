@@ -101,7 +101,7 @@
 
         (5) In addition to amounts authorized to be appropriated under paragraphs (1) and (2) for a fiscal year, there are authorized to be appropriated such sums as may be necessary to fund the national coordinator established by subsection (e).
 
-(Added [Pub. L. 110–387, title IV, § 404(a)][/us/pl/110/387/s404/a], Oct. 10, 2008, [122 Stat. 4126][/us/stat/122/4126].)
+(Added [Pub. L. 110–387, title IV][/us/pl/110/387/tIV], § 404(a), Oct. 10, 2008, [122 Stat. 4126][/us/stat/122/4126].)
 
  __References in Text__ 
 
@@ -119,7 +119,7 @@
 [/us/usc/t38/s7327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7327
 [/us/usc/t38/s7327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7327
 [/us/usc/t38/s7327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7327
-[/us/pl/110/387/s404/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F387%2Fs404%2Fa
+[/us/pl/110/387/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F387%2FtIV
 [/us/stat/122/4126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4126
 [/us/pl/110/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F387
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463

@@ -21,7 +21,7 @@
 
     (c) A person who receives a payment under the provisions of the Radiation Exposure Compensation Act of 1990 ([42 U.S.C. 2210][/us/usc/t42/s2210] note) shall not be deprived, by reason of the receipt of that payment, of receipt of dependency and indemnity compensation to which that person is otherwise entitled, but there shall be deducted from payment of such dependency and indemnity compensation the amount of the payment under that Act.
 
-([Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1127][/us/stat/72/1127], § 410; [Pub. L. 94–433, title IV, § 405(7)][/us/pl/94/433/s405/7], Sept. 30, 1976, [90 Stat. 1379][/us/stat/90/1379]; [Pub. L. 95–479, title II, § 204][/us/pl/95/479/s204], Oct. 18, 1978, [92 Stat. 1564][/us/stat/92/1564]; [Pub. L. 97–306, title I, § 112(a)][/us/pl/97/306/s112/a], Oct. 14, 1982, [96 Stat. 1432][/us/stat/96/1432]; [Pub. L. 100–687, div. B, title XIV, § 1403(b)][/us/pl/100/687/s1403/b], Nov. 18, 1988, [102 Stat. 4131][/us/stat/102/4131]; renumbered § 1310 and amended [Pub. L. 102–83][/us/pl/102/83], §§ 4(b)(1), (2)(E), 5(a), Aug. 6, 1991, [105 Stat. 404–406][/us/stat/105/404-406]; [Pub. L. 108–454, title III, § 302(b)][/us/pl/108/454/s302/b], Dec. 10, 2004, [118 Stat. 3610][/us/stat/118/3610].)
+([Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1127][/us/stat/72/1127], § 410; [Pub. L. 94–433, title IV][/us/pl/94/433/tIV], § 405(7), Sept. 30, 1976, [90 Stat. 1379][/us/stat/90/1379]; [Pub. L. 95–479, title II][/us/pl/95/479/tII], § 204, Oct. 18, 1978, [92 Stat. 1564][/us/stat/92/1564]; [Pub. L. 97–306, title I][/us/pl/97/306/tI], § 112(a), Oct. 14, 1982, [96 Stat. 1432][/us/stat/96/1432]; [Pub. L. 100–687, div. B, title XIV][/us/pl/100/687/dB/tXIV], § 1403(b), Nov. 18, 1988, [102 Stat. 4131][/us/stat/102/4131]; renumbered § 1310 and amended [Pub. L. 102–83][/us/pl/102/83], §§ 4(b)(1), (2)(E), 5(a), Aug. 6, 1991, [105 Stat. 404–406][/us/stat/105/404-406]; [Pub. L. 108–454, title III][/us/pl/108/454/tIII], § 302(b), Dec. 10, 2004, [118 Stat. 3610][/us/stat/118/3610].)
 
  __References in Text__ 
 
@@ -31,9 +31,9 @@
 
     2004—Subsec. (c). [Pub. L. 108–454][/us/pl/108/454] added subsec. (c).
 
-    1991—[Pub. L. 102–83, § 5(a)][/us/pl/102/83/s5/a], renumbered [section 410 of this title][/us/usc/t38/s410] as this section.
+    1991—[Pub. L. 102–83][/us/pl/102/83], § 5(a), renumbered [section 410 of this title][/us/usc/t38/s410] as this section.
 
-    Subsec. (a). [Pub. L. 102–83, § 4(b)(1)][/us/pl/102/83/s4/b/1], (2)(E), substituted “Secretary” for “Administrator”.
+    Subsec. (a). [Pub. L. 102–83][/us/pl/102/83], § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
     1988—Subsecs. (b), (c). [Pub. L. 100–687][/us/pl/100/687] redesignated subsec. (c) as (b) and struck out former subsec. (b) which read as follows:
 
@@ -57,7 +57,7 @@
 
  __Effective Date of 1982 Amendment; Retrospective Payments__ 
 
-[Pub. L. 97–306, title I, § 112(b)][/us/pl/97/306/s112/b], Oct. 14, 1982, [96 Stat. 1432][/us/stat/96/1432], provided that:
+[Pub. L. 97–306, title I][/us/pl/97/306/tI], § 112(b), Oct. 14, 1982, [96 Stat. 1432][/us/stat/96/1432], provided that:
 
 >     “(1) The amendment made by subsection (a) \[amending this section\] shall take effect on October 1, 1982.
 
@@ -77,7 +77,7 @@
 
  __GAO Report Relating to Benefits for Survivors of Veterans and Members of Armed Forces__ 
 
-[Pub. L. 102–568, title I, § 104][/us/pl/102/568/s104], Oct. 29, 1992, [106 Stat. 4322][/us/stat/106/4322], provided that:
+[Pub. L. 102–568, title I][/us/pl/102/568/tI], § 104, Oct. 29, 1992, [106 Stat. 4322][/us/stat/106/4322], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -159,13 +159,13 @@
 
  __Dependency and Indemnity Compensation Program__ 
 
-    [Pub. L. 94–433, title II, § 204][/us/pl/94/433/s204], Sept. 30, 1976, [90 Stat. 1376][/us/stat/90/1376], directed Administrator of Veterans’ Affairs to study dependency and indemnity compensation program authorized by this chapter in order to evaluate benefits provided by program and to determine whether, or to what extent, benefits should be based on military pay grade of person upon whose death entitlement is predicated, and directed Administrator to submit to Congress and President not later than Oct. 1, 1977, a report containing results of study together with Administrator’s recommendations for improvement of program.
+    [Pub. L. 94–433, title II][/us/pl/94/433/tII], § 204, Sept. 30, 1976, [90 Stat. 1376][/us/stat/90/1376], directed Administrator of Veterans’ Affairs to study dependency and indemnity compensation program authorized by this chapter in order to evaluate benefits provided by program and to determine whether, or to what extent, benefits should be based on military pay grade of person upon whose death entitlement is predicated, and directed Administrator to submit to Congress and President not later than Oct. 1, 1977, a report containing results of study together with Administrator’s recommendations for improvement of program.
 
  __Study by Administrator of Dependency and Indemnity Compensation Claims__ 
 
-    [Pub. L. 94–71, § 204][/us/pl/94/71/s204], Aug. 5, 1975, [89 Stat. 397][/us/stat/89/397], directed Administrator of Veterans’ Affairs to make a study of claims for dependency and indemnity compensation relating to veterans who at time of death during period Sept. 1, 1975 to Mar. 1, 1976, were receiving disability compensation based upon a total and permanent disability and required report to be submitted to Speaker of House and President of Senate no later than Oct. 1, 1976.
+    [Pub. L. 94–71][/us/pl/94/71], § 204, Aug. 5, 1975, [89 Stat. 397][/us/stat/89/397], directed Administrator of Veterans’ Affairs to make a study of claims for dependency and indemnity compensation relating to veterans who at time of death during period Sept. 1, 1975 to Mar. 1, 1976, were receiving disability compensation based upon a total and permanent disability and required report to be submitted to Speaker of House and President of Senate no later than Oct. 1, 1976.
 
-    [Pub. L. 93–295, title II, § 207][/us/pl/93/295/s207], May 31, 1974, [88 Stat. 183][/us/stat/88/183], directed Administrator to make a study of claims for dependency and indemnity compensation relating to veterans who, at time of death within six months of May 31, 1974, were receiving disability compensation, and to report to Speaker of House and President of Senate no more than 30 days after beginning of 94th Congress.
+    [Pub. L. 93–295, title II][/us/pl/93/295/tII], § 207, May 31, 1974, [88 Stat. 183][/us/stat/88/183], directed Administrator to make a study of claims for dependency and indemnity compensation relating to veterans who, at time of death within six months of May 31, 1974, were receiving disability compensation, and to report to Speaker of House and President of Senate no more than 30 days after beginning of 94th Congress.
 
 ----------
 
@@ -177,25 +177,25 @@
 [/us/usc/t42/s2210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2210
 [/us/pl/85/857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F857
 [/us/stat/72/1127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1127
-[/us/pl/94/433/s405/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F433%2Fs405%2F7
+[/us/pl/94/433/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F433%2FtIV
 [/us/stat/90/1379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1379
-[/us/pl/95/479/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F479%2Fs204
+[/us/pl/95/479/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F479%2FtII
 [/us/stat/92/1564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1564
-[/us/pl/97/306/s112/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F306%2Fs112%2Fa
+[/us/pl/97/306/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F306%2FtI
 [/us/stat/96/1432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1432
-[/us/pl/100/687/s1403/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F687%2Fs1403%2Fb
+[/us/pl/100/687/dB/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F687%2FdB%2FtXIV
 [/us/stat/102/4131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4131
 [/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/404-406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F404-406
-[/us/pl/108/454/s302/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F454%2Fs302%2Fb
+[/us/pl/108/454/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F454%2FtIII
 [/us/stat/118/3610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3610
 [/us/pl/101/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F426
 [/us/stat/104/920]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F920
 [/us/usc/t42/s2210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2210
 [/us/pl/108/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F454
-[/us/pl/102/83/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fa
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/usc/t38/s410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs410
-[/us/pl/102/83/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fb%2F1
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/pl/100/687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F687
 [/us/usc/t38/s411/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs411%2Fa
 [/us/pl/97/306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F306
@@ -204,7 +204,7 @@
 [/us/pl/94/433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F433
 [/us/pl/108/454/s302/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F454%2Fs302%2Fc
 [/us/usc/t38/s1112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1112
-[/us/pl/97/306/s112/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F306%2Fs112%2Fb
+[/us/pl/97/306/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F306%2FtI
 [/us/stat/96/1432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1432
 [/us/pl/95/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F479
 [/us/pl/95/479/s401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F479%2Fs401%2Fa
@@ -212,16 +212,16 @@
 [/us/pl/94/433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F433
 [/us/pl/94/433/s406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F433%2Fs406
 [/us/usc/t38/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1101
-[/us/pl/102/568/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F568%2Fs104
+[/us/pl/102/568/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F568%2FtI
 [/us/stat/106/4322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4322
 [/us/usc/t38/s5902/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs5902%2Fa%2F1
 [/us/usc/t42/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs301
 [/us/usc/t38/s101/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs101%2F2
-[/us/pl/94/433/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F433%2Fs204
+[/us/pl/94/433/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F433%2FtII
 [/us/stat/90/1376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1376
-[/us/pl/94/71/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F71%2Fs204
+[/us/pl/94/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F71
 [/us/stat/89/397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F397
-[/us/pl/93/295/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F295%2Fs207
+[/us/pl/93/295/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F295%2FtII
 [/us/stat/88/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F183
 
 

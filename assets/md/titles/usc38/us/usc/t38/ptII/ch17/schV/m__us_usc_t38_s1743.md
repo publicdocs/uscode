@@ -17,7 +17,7 @@
 
     Payments on account of any veteran cared for in a State home shall be made under this subchapter only from the date the Secretary receives a request for determination of such veteran’s eligibility; however, if such request is received by the Secretary within ten days after care of such veteran begins, payments shall be made on account of such veteran from the date care began.
 
-([Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1147][/us/stat/72/1147], § 643; [Pub. L. 97–251, § 7][/us/pl/97/251/s7], Sept. 8, 1982, [96 Stat. 716][/us/stat/96/716]; renumbered § 1743 and amended [Pub. L. 102–83][/us/pl/102/83], §§ 4(b)(1), (2)(E), 5(a), Aug. 6, 1991, [105 Stat. 404–406][/us/stat/105/404-406].)
+([Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1147][/us/stat/72/1147], § 643; [Pub. L. 97–251][/us/pl/97/251], § 7, Sept. 8, 1982, [96 Stat. 716][/us/stat/96/716]; renumbered § 1743 and amended [Pub. L. 102–83][/us/pl/102/83], §§ 4(b)(1), (2)(E), 5(a), Aug. 6, 1991, [105 Stat. 404–406][/us/stat/105/404-406].)
 
  __Prior Provisions__ 
 
@@ -38,7 +38,7 @@
 
 [/us/pl/85/857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F857
 [/us/stat/72/1147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1147
-[/us/pl/97/251/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F251%2Fs7
+[/us/pl/97/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F251
 [/us/stat/96/716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F716
 [/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/404-406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F404-406

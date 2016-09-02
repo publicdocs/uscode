@@ -59,7 +59,7 @@
 
         (2) Such person may be represented in the Federal Circuit proceeding by the Special Counsel unless the person was not represented by the Special Counsel before the Merit Systems Protection Board regarding such order or decision.
 
-(Added [Pub. L. 103–353, § 2(a)][/us/pl/103/353/s2/a], Oct. 13, 1994, [108 Stat. 3166][/us/stat/108/3166]; amended [Pub. L. 104–275, title III, § 311(11)][/us/pl/104/275/s311/11], Oct. 9, 1996, [110 Stat. 3336][/us/stat/110/3336]; [Pub. L. 105–368, title II, § 213(a)][/us/pl/105/368/s213/a], Nov. 11, 1998, [112 Stat. 3331][/us/stat/112/3331]; [Pub. L. 110–389, title III, § 311(d)(2)][/us/pl/110/389/s311/d/2], (e)(2), Oct. 10, 2008, [122 Stat. 4163][/us/stat/122/4163]; [Pub. L. 111–275, title VII, § 703(a)][/us/pl/111/275/s703/a], Oct. 13, 2010, [124 Stat. 2888][/us/stat/124/2888].)
+(Added [Pub. L. 103–353][/us/pl/103/353], § 2(a), Oct. 13, 1994, [108 Stat. 3166][/us/stat/108/3166]; amended [Pub. L. 104–275, title III][/us/pl/104/275/tIII], § 311(11), Oct. 9, 1996, [110 Stat. 3336][/us/stat/110/3336]; [Pub. L. 105–368, title II][/us/pl/105/368/tII], § 213(a), Nov. 11, 1998, [112 Stat. 3331][/us/stat/112/3331]; [Pub. L. 110–389, title III][/us/pl/110/389/tIII], § 311(d)(2), (e)(2), Oct. 10, 2008, [122 Stat. 4163][/us/stat/122/4163]; [Pub. L. 111–275, title VII][/us/pl/111/275/tVII], § 703(a), Oct. 13, 2010, [124 Stat. 2888][/us/stat/124/2888].)
 
  __Prior Provisions__ 
 
@@ -69,23 +69,23 @@
 
     2010—Subsec. (b)(4). [Pub. L. 111–275][/us/pl/111/275] inserted before period at end “declining to initiate an action and represent the person before the Merit Systems Protection Board”.
 
-    2008—Subsec. (a)(1). [Pub. L. 110–389, § 311(d)(2)][/us/pl/110/389/s311/d/2], substituted “Not later than 60 days after the date the Secretary receives such a request, the Secretary shall refer” for “The Secretary shall refer”.
+    2008—Subsec. (a)(1). [Pub. L. 110–389][/us/pl/110/389], § 311(d)(2), substituted “Not later than 60 days after the date the Secretary receives such a request, the Secretary shall refer” for “The Secretary shall refer”.
 
-    Subsec. (a)(2)(B). [Pub. L. 110–389, § 311(e)(2)][/us/pl/110/389/s311/e/2], amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “If the Special Counsel declines to initiate an action and represent a person before the Merit Systems Protection Board under subparagraph (A), the Special Counsel shall notify such person of that decision.”
+    Subsec. (a)(2)(B). [Pub. L. 110–389][/us/pl/110/389], § 311(e)(2), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “If the Special Counsel declines to initiate an action and represent a person before the Merit Systems Protection Board under subparagraph (A), the Special Counsel shall notify such person of that decision.”
 
     1998—Subsec. (c)(1). [Pub. L. 105–368][/us/pl/105/368] inserted “, without regard as to whether the complaint accrued before, on, or after October 13, 1994” before period at end of first sentence.
 
-    1996—Subsec. (a)(1). [Pub. L. 104–275, § 311(11)(A)][/us/pl/104/275/s311/11/A], struck out “of an unsuccessful effort to resolve a complaint relating to a Federal executive agency” after “notification pursuant to section 4322(e)”.
+    1996—Subsec. (a)(1). [Pub. L. 104–275][/us/pl/104/275], § 311(11)(A), struck out “of an unsuccessful effort to resolve a complaint relating to a Federal executive agency” after “notification pursuant to section 4322(e)”.
 
-    Subsec. (b). [Pub. L. 104–275, § 311(11)(B)(i)][/us/pl/104/275/s311/11/B/i], inserted “or the Office of Personnel Management” after “Federal executive agency” in introductory provisions.
+    Subsec. (b). [Pub. L. 104–275][/us/pl/104/275], § 311(11)(B)(i), inserted “or the Office of Personnel Management” after “Federal executive agency” in introductory provisions.
 
-    Subsec. (b)(1). [Pub. L. 104–275, § 311(11)(B)(ii)][/us/pl/104/275/s311/11/B/ii], substituted “under section 4322(a)” for “regarding a complaint under section 4322(c)”.
+    Subsec. (b)(1). [Pub. L. 104–275][/us/pl/104/275], § 311(11)(B)(ii), substituted “under section 4322(a)” for “regarding a complaint under section 4322(c)”.
 
-    Subsec. (c)(2). [Pub. L. 104–275, § 311(11)(C)][/us/pl/104/275/s311/11/C], inserted “or the Office of Personnel Management” after “Federal executive agency” and substituted “Office to comply” for “employee to comply”.
+    Subsec. (c)(2). [Pub. L. 104–275][/us/pl/104/275], § 311(11)(C), inserted “or the Office of Personnel Management” after “Federal executive agency” and substituted “Office to comply” for “employee to comply”.
 
  __Effective Date of 1998 Amendment__ 
 
-[Pub. L. 105–368, title II, § 213(b)][/us/pl/105/368/s213/b], Nov. 11, 1998, [112 Stat. 3332][/us/stat/112/3332], provided that: 
+[Pub. L. 105–368, title II][/us/pl/105/368/tII], § 213(b), Nov. 11, 1998, [112 Stat. 3332][/us/stat/112/3332], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply to complaints filed with the Merit Systems Protection Board on or after October 13, 1994.”
 
@@ -106,26 +106,26 @@
 
 [/us/usc/t5/s1211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs1211
 [/us/usc/t5/s7703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs7703
-[/us/pl/103/353/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F353%2Fs2%2Fa
+[/us/pl/103/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F353
 [/us/stat/108/3166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3166
-[/us/pl/104/275/s311/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275%2Fs311%2F11
+[/us/pl/104/275/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275%2FtIII
 [/us/stat/110/3336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3336
-[/us/pl/105/368/s213/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2Fs213%2Fa
+[/us/pl/105/368/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2FtII
 [/us/stat/112/3331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3331
-[/us/pl/110/389/s311/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F389%2Fs311%2Fd%2F2
+[/us/pl/110/389/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F389%2FtIII
 [/us/stat/122/4163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4163
-[/us/pl/111/275/s703/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275%2Fs703%2Fa
+[/us/pl/111/275/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275%2FtVII
 [/us/stat/124/2888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2888
 [/us/usc/t38/s7624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7624
 [/us/pl/111/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275
-[/us/pl/110/389/s311/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F389%2Fs311%2Fd%2F2
-[/us/pl/110/389/s311/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F389%2Fs311%2Fe%2F2
+[/us/pl/110/389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F389
+[/us/pl/110/389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F389
 [/us/pl/105/368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368
-[/us/pl/104/275/s311/11/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275%2Fs311%2F11%2FA
-[/us/pl/104/275/s311/11/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275%2Fs311%2F11%2FB%2Fi
-[/us/pl/104/275/s311/11/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275%2Fs311%2F11%2FB%2Fii
-[/us/pl/104/275/s311/11/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275%2Fs311%2F11%2FC
-[/us/pl/105/368/s213/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2Fs213%2Fb
+[/us/pl/104/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275
+[/us/pl/104/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275
+[/us/pl/104/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275
+[/us/pl/104/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275
+[/us/pl/105/368/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2FtII
 [/us/stat/112/3332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3332
 [/us/pl/104/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275
 [/us/pl/104/275/s313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275%2Fs313

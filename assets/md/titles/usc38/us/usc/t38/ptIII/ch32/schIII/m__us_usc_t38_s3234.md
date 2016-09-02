@@ -29,13 +29,13 @@
 
         (2) in the case of payments to an individual for such benefits in excess of $600, from the fund from contributions made to the fund by the veteran and by the Secretary of Defense in the same proportion as these contributions are used to pay other educational assistance to the individual under this chapter.
 
-(Added [Pub. L. 100–689, title I, § 107(b)(1)][/us/pl/100/689/s107/b/1], Nov. 18, 1988, [102 Stat. 4168][/us/stat/102/4168], § 1634; amended [Pub. L. 101–237, title IV, § 423(b)(1)(B)][/us/pl/101/237/s423/b/1/B], Dec. 18, 1989, [103 Stat. 2092][/us/stat/103/2092]; renumbered § 3234 and amended [Pub. L. 102–83, § 5(a)][/us/pl/102/83/s5/a], (c)(1), Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406].)
+(Added [Pub. L. 100–689, title I][/us/pl/100/689/tI], § 107(b)(1), Nov. 18, 1988, [102 Stat. 4168][/us/stat/102/4168], § 1634; amended [Pub. L. 101–237, title IV][/us/pl/101/237/tIV], § 423(b)(1)(B), Dec. 18, 1989, [103 Stat. 2092][/us/stat/103/2092]; renumbered § 3234 and amended [Pub. L. 102–83][/us/pl/102/83], § 5(a), (c)(1), Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406].)
 
  __Amendments__ 
 
-    1991—[Pub. L. 102–83, § 5(a)][/us/pl/102/83/s5/a], renumbered [section 1634 of this title][/us/usc/t38/s1634] as this section.
+    1991—[Pub. L. 102–83][/us/pl/102/83], § 5(a), renumbered [section 1634 of this title][/us/usc/t38/s1634] as this section.
 
-    Subsec. (a). [Pub. L. 102–83, § 5(c)(1)][/us/pl/102/83/s5/c/1], substituted “3492” for “1692”.
+    Subsec. (a). [Pub. L. 102–83][/us/pl/102/83], § 5(c)(1), substituted “3492” for “1692”.
 
     1989—Subsec. (d)(1). [Pub. L. 101–237][/us/pl/101/237] substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
 
@@ -47,15 +47,15 @@
 ----------
 
 [/us/usc/t38/s3492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3492
-[/us/pl/100/689/s107/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F689%2Fs107%2Fb%2F1
+[/us/pl/100/689/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F689%2FtI
 [/us/stat/102/4168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4168
-[/us/pl/101/237/s423/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237%2Fs423%2Fb%2F1%2FB
+[/us/pl/101/237/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237%2FtIV
 [/us/stat/103/2092]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2092
-[/us/pl/102/83/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fa
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F406
-[/us/pl/102/83/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fa
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/usc/t38/s1634]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1634
-[/us/pl/102/83/s5/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fc%2F1
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/pl/101/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237
 
 

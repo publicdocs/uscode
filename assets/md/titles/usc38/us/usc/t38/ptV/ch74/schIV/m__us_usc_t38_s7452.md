@@ -69,11 +69,11 @@
 
         (4) Special pay paid to a nurse executive under paragraph (1) shall be in addition to any other pay (including basic pay) and allowances to which the nurse executive is entitled, and shall be considered pay for all purposes, including retirement benefits under chapters 83 and 84 of title 5, and other benefits, but shall not be considered basic pay for purposes of adverse actions under subchapter V of this chapter.
 
-(Added [Pub. L. 101–366, title I, § 102(b)][/us/pl/101/366/s102/b], Aug. 15, 1990, [104 Stat. 435][/us/stat/104/435], § 4142; renumbered § 7452 and amended [Pub. L. 102–40, title III, § 301(d)][/us/pl/102/40/s301/d], title IV, § 401(c)(1)(A), (3), May 7, 1991, [105 Stat. 208][/us/stat/105/208], 238; [Pub. L. 102–585, title III, § 304(a)][/us/pl/102/585/s304/a], Nov. 4, 1992, [106 Stat. 4952][/us/stat/106/4952]; [Pub. L. 108–445, § 5][/us/pl/108/445/s5], Dec. 3, 2004, [118 Stat. 2645][/us/stat/118/2645]; [Pub. L. 111–163, title VI, § 601(i)][/us/pl/111/163/s601/i], May 5, 2010, [124 Stat. 1170][/us/stat/124/1170].)
+(Added [Pub. L. 101–366, title I][/us/pl/101/366/tI], § 102(b), Aug. 15, 1990, [104 Stat. 435][/us/stat/104/435], § 4142; renumbered § 7452 and amended [Pub. L. 102–40, title III][/us/pl/102/40/tIII], § 301(d), title IV, § 401(c)(1)(A), (3), May 7, 1991, [105 Stat. 208][/us/stat/105/208], 238; [Pub. L. 102–585, title III][/us/pl/102/585/tIII], § 304(a), Nov. 4, 1992, [106 Stat. 4952][/us/stat/106/4952]; [Pub. L. 108–445][/us/pl/108/445], § 5, Dec. 3, 2004, [118 Stat. 2645][/us/stat/118/2645]; [Pub. L. 111–163, title VI][/us/pl/111/163/tVI], § 601(i), May 5, 2010, [124 Stat. 1170][/us/stat/124/1170].)
 
  __References in Text__ 
 
-    [Section 7451(g) of this title][/us/usc/t38/s7451/g], referred to in subsecs. (b)(2) and (e), was repealed and subsec. (h) of section 7451 was redesignated (g) by [Pub. L. 106–419, title II, § 201(a)(4)][/us/pl/106/419/s201/a/4], Nov. 1, 2000, [114 Stat. 1840][/us/stat/114/1840].
+    [Section 7451(g) of this title][/us/usc/t38/s7451/g], referred to in subsecs. (b)(2) and (e), was repealed and subsec. (h) of section 7451 was redesignated (g) by [Pub. L. 106–419, title II][/us/pl/106/419/tII], § 201(a)(4), Nov. 1, 2000, [114 Stat. 1840][/us/stat/114/1840].
 
  __Amendments__ 
 
@@ -83,21 +83,21 @@
 
     1992—Subsec. (e). [Pub. L. 102–585][/us/pl/102/585] inserted before period at end “, except that in the case of an employee whose transfer (other than pursuant to a disciplinary action otherwise authorized by law) to another health-care facility is at the request of the Secretary, the Secretary may provide that for at least the first year following such transfer the employee shall be paid at a rate of basic pay up to the rate applicable to such employee before the transfer, if the Secretary determines that such rate of pay is necessary to fill the position. Whenever the Secretary exercises the authority under the preceding sentence relating to the rate of basic pay of a transferred employee, the Secretary shall, in the next annual report required under [section 7451(g) of this title][/us/usc/t38/s7451/g], provide justification for doing so”.
 
-    1991—[Pub. L. 102–40, § 401(c)(1)(A)][/us/pl/102/40/s401/c/1/A], renumbered [section 4142 of this title][/us/usc/t38/s4142] as this section.
+    1991—[Pub. L. 102–40][/us/pl/102/40], § 401(c)(1)(A), renumbered [section 4142 of this title][/us/usc/t38/s4142] as this section.
 
-    Subsec. (a)(1). [Pub. L. 102–40, § 401(c)(3)(A)(i)][/us/pl/102/40/s401/c/3/A/i], substituted “7451(a)” for “4141(a)”.
+    Subsec. (a)(1). [Pub. L. 102–40][/us/pl/102/40], § 401(c)(3)(A)(i), substituted “7451(a)” for “4141(a)”.
 
-    Subsec. (a)(2). [Pub. L. 102–40, § 401(c)(3)(A)(ii)][/us/pl/102/40/s401/c/3/A/ii], substituted “7451(c)(1)” for “4141(c)(1)”.
+    Subsec. (a)(2). [Pub. L. 102–40][/us/pl/102/40], § 401(c)(3)(A)(ii), substituted “7451(c)(1)” for “4141(c)(1)”.
 
-    Subsec. (a)(3). [Pub. L. 102–40, § 301(d)][/us/pl/102/40/s301/d], substituted “paid” for “appointed”.
+    Subsec. (a)(3). [Pub. L. 102–40][/us/pl/102/40], § 301(d), substituted “paid” for “appointed”.
 
-    Subsec. (b)(2). [Pub. L. 102–40, § 401(c)(3)(B)][/us/pl/102/40/s401/c/3/B], substituted “7451(g)” for “4141(g)”.
+    Subsec. (b)(2). [Pub. L. 102–40][/us/pl/102/40], § 401(c)(3)(B), substituted “7451(g)” for “4141(g)”.
 
-    Subsec. (c)(1). [Pub. L. 102–40, § 401(c)(3)(C)][/us/pl/102/40/s401/c/3/C], substituted “7401(1)” for “4104(1)”.
+    Subsec. (c)(1). [Pub. L. 102–40][/us/pl/102/40], § 401(c)(3)(C), substituted “7401(1)” for “4104(1)”.
 
-    Subsec. (e). [Pub. L. 102–40, § 401(c)(3)(C)][/us/pl/102/40/s401/c/3/C], substituted “7401(1)” for “4104(1)”.
+    Subsec. (e). [Pub. L. 102–40][/us/pl/102/40], § 401(c)(3)(C), substituted “7401(1)” for “4104(1)”.
 
-    Subsec. (f). [Pub. L. 102–40, § 401(c)(3)(D)][/us/pl/102/40/s401/c/3/D], substituted “7451” for “4141”.
+    Subsec. (f). [Pub. L. 102–40][/us/pl/102/40], § 401(c)(3)(D), substituted “7451” for “4141”.
 
  __Effective Date of 1992 Amendment__ 
 
@@ -115,32 +115,32 @@
 [/us/usc/t38/s7401/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7401%2F1
 [/us/usc/t38/s7401/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7401%2F1
 [/us/usc/t38/s7451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7451
-[/us/pl/101/366/s102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F366%2Fs102%2Fb
+[/us/pl/101/366/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F366%2FtI
 [/us/stat/104/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F435
-[/us/pl/102/40/s301/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs301%2Fd
+[/us/pl/102/40/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2FtIII
 [/us/stat/105/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F208
-[/us/pl/102/585/s304/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F585%2Fs304%2Fa
+[/us/pl/102/585/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F585%2FtIII
 [/us/stat/106/4952]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4952
-[/us/pl/108/445/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F445%2Fs5
+[/us/pl/108/445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F445
 [/us/stat/118/2645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2645
-[/us/pl/111/163/s601/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163%2Fs601%2Fi
+[/us/pl/111/163/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163%2FtVI
 [/us/stat/124/1170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1170
 [/us/usc/t38/s7451/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7451%2Fg
-[/us/pl/106/419/s201/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419%2Fs201%2Fa%2F4
+[/us/pl/106/419/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419%2FtII
 [/us/stat/114/1840]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1840
 [/us/pl/111/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163
 [/us/pl/108/445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F445
 [/us/pl/102/585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F585
 [/us/usc/t38/s7451/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7451%2Fg
-[/us/pl/102/40/s401/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs401%2Fc%2F1%2FA
+[/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40
 [/us/usc/t38/s4142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs4142
-[/us/pl/102/40/s401/c/3/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs401%2Fc%2F3%2FA%2Fi
-[/us/pl/102/40/s401/c/3/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs401%2Fc%2F3%2FA%2Fii
-[/us/pl/102/40/s301/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs301%2Fd
-[/us/pl/102/40/s401/c/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs401%2Fc%2F3%2FB
-[/us/pl/102/40/s401/c/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs401%2Fc%2F3%2FC
-[/us/pl/102/40/s401/c/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs401%2Fc%2F3%2FC
-[/us/pl/102/40/s401/c/3/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs401%2Fc%2F3%2FD
+[/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40
+[/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40
+[/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40
+[/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40
+[/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40
+[/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40
+[/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40
 [/us/pl/102/585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F585
 [/us/pl/102/585/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F585%2Fs308
 [/us/usc/t38/s7404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7404

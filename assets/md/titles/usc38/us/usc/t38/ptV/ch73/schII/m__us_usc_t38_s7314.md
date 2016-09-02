@@ -55,7 +55,7 @@
 
     (g) Activities of clinical and scientific investigation at each center established under subsection (a) shall be eligible to compete for the award of funding from funds appropriated for the Department medical and prosthetics research account and shall receive priority in the award of funding from such account insofar as funds are awarded to projects for research in geriatrics and gerontology.
 
-(Added [Pub. L. 102–40, title IV, § 401(a)(3)][/us/pl/102/40/s401/a/3], May 7, 1991, [105 Stat. 216][/us/stat/105/216]; amended [Pub. L. 102–83, § 4(a)(3)][/us/pl/102/83/s4/a/3], (4), Aug. 6, 1991, [105 Stat. 404][/us/stat/105/404]; [Pub. L. 102–405, title III, § 302(c)(1)][/us/pl/102/405/s302/c/1], Oct. 9, 1992, [106 Stat. 1984][/us/stat/106/1984]; [Pub. L. 102–585, title V, § 521][/us/pl/102/585/s521], Nov. 4, 1992, [106 Stat. 4958][/us/stat/106/4958]; [Pub. L. 103–446, title XII][/us/pl/103/446], §§ 1201(c)(4), 1202(b)(2), Nov. 2, 1994, [108 Stat. 4683][/us/stat/108/4683], 4689; [Pub. L. 110–387, title IX, § 901(a)(8)][/us/pl/110/387/s901/a/8], Oct. 10, 2008, [122 Stat. 4142][/us/stat/122/4142].)
+(Added [Pub. L. 102–40, title IV][/us/pl/102/40/tIV], § 401(a)(3), May 7, 1991, [105 Stat. 216][/us/stat/105/216]; amended [Pub. L. 102–83][/us/pl/102/83], § 4(a)(3), (4), Aug. 6, 1991, [105 Stat. 404][/us/stat/105/404]; [Pub. L. 102–405, title III][/us/pl/102/405/tIII], § 302(c)(1), Oct. 9, 1992, [106 Stat. 1984][/us/stat/106/1984]; [Pub. L. 102–585, title V][/us/pl/102/585/tV], § 521, Nov. 4, 1992, [106 Stat. 4958][/us/stat/106/4958]; [Pub. L. 103–446, title XII][/us/pl/103/446/tXII], §§ 1201(c)(4), 1202(b)(2), Nov. 2, 1994, [108 Stat. 4683][/us/stat/108/4683], 4689; [Pub. L. 110–387, title IX][/us/pl/110/387/tIX], § 901(a)(8), Oct. 10, 2008, [122 Stat. 4142][/us/stat/122/4142].)
 
  __References in Text__ 
 
@@ -67,35 +67,35 @@
 
     2008—Subsec. (f). [Pub. L. 110–387][/us/pl/110/387] substituted “medical services account” for “medical care account”.
 
-    1994—Subsec. (b)(1). [Pub. L. 103–446, § 1202(b)(2)][/us/pl/103/446/s1202/b/2], amended [Pub. L. 102–83, § 4(a)(3)][/us/pl/102/83/s4/a/3], (4), to make it inapplicable to this section. See 1991 Amendment note below.
+    1994—Subsec. (b)(1). [Pub. L. 103–446][/us/pl/103/446], § 1202(b)(2), amended [Pub. L. 102–83][/us/pl/102/83], § 4(a)(3), (4), to make it inapplicable to this section. See 1991 Amendment note below.
 
-    Subsec. (d)(1). [Pub. L. 103–446, § 1201(c)(4)(A)][/us/pl/103/446/s1201/c/4/A], substituted “the Secretary and the Under Secretary for Health in carrying out” for “the Chief Medical Director and the Secretary to carry out” and “the Assistant Under Secretary for Health described in section 7306(b)(3)” for “the Assistant Chief Medical Director described in section 7306(b)(3)”.
+    Subsec. (d)(1). [Pub. L. 103–446][/us/pl/103/446], § 1201(c)(4)(A), substituted “the Secretary and the Under Secretary for Health in carrying out” for “the Chief Medical Director and the Secretary to carry out” and “the Assistant Under Secretary for Health described in section 7306(b)(3)” for “the Assistant Chief Medical Director described in section 7306(b)(3)”.
 
-    Subsec. (d)(3). [Pub. L. 103–446, § 1201(c)(4)(B)][/us/pl/103/446/s1201/c/4/B], substituted “Assistant Under Secretary” for “Assistant Chief Medical Director” in two places.
+    Subsec. (d)(3). [Pub. L. 103–446][/us/pl/103/446], § 1201(c)(4)(B), substituted “Assistant Under Secretary” for “Assistant Chief Medical Director” in two places.
 
     1992—Subsecs. (a), (b). [Pub. L. 102–405][/us/pl/102/405] substituted “Under Secretary for Health” for “Chief Medical Director” wherever appearing.
 
-    Subsec. (c). [Pub. L. 102–585, § 521(1)][/us/pl/102/585/s521/1], inserted “the peer review panel established under subsection (d) has determined under that subsection that the proposal submitted by such facility as a location for a new center under subsection (a) is among those proposals which have met the highest competitive standards of scientific and clinical merit, and” after “unless” in introductory provisions.
+    Subsec. (c). [Pub. L. 102–585][/us/pl/102/585], § 521(1), inserted “the peer review panel established under subsection (d) has determined under that subsection that the proposal submitted by such facility as a location for a new center under subsection (a) is among those proposals which have met the highest competitive standards of scientific and clinical merit, and” after “unless” in introductory provisions.
 
     [Pub. L. 102–405][/us/pl/102/405] substituted “Under Secretary for Health” for “Chief Medical Director” in introductory provisions.
 
-    Subsec. (d). [Pub. L. 102–585, § 521(3)][/us/pl/102/585/s521/3], added subsec. (d). Former subsec. (d) redesignated (e).
+    Subsec. (d). [Pub. L. 102–585][/us/pl/102/585], § 521(3), added subsec. (d). Former subsec. (d) redesignated (e).
 
-    Subsec. (e). [Pub. L. 102–585, § 521(2)][/us/pl/102/585/s521/2], redesignated subsec. (d) as (e). Former subsec. (e) redesignated (f).
+    Subsec. (e). [Pub. L. 102–585][/us/pl/102/585], § 521(2), redesignated subsec. (d) as (e). Former subsec. (e) redesignated (f).
 
     [Pub. L. 102–405][/us/pl/102/405] substituted “Under Secretary for Health” for “Chief Medical Director” in two places.
 
-    Subsecs. (f), (g). [Pub. L. 102–585, § 521(2)][/us/pl/102/585/s521/2], redesignated subsecs. (e) and (f) as (f) and (g), respectively.
+    Subsecs. (f), (g). [Pub. L. 102–585][/us/pl/102/585], § 521(2), redesignated subsecs. (e) and (f) as (f) and (g), respectively.
 
-    1991—Subsec. (b)(1). [Pub. L. 102–83, § 4(a)(3)][/us/pl/102/83/s4/a/3], (4), which directed substitution of “Department” for “Veterans’ Administration”, was amended by [Pub. L. 103–446, § 1202(b)(2)][/us/pl/103/446/s1202/b/2], to make it inapplicable to this section.
+    1991—Subsec. (b)(1). [Pub. L. 102–83][/us/pl/102/83], § 4(a)(3), (4), which directed substitution of “Department” for “Veterans’ Administration”, was amended by [Pub. L. 103–446][/us/pl/103/446], § 1202(b)(2), to make it inapplicable to this section.
 
  __Effective Date of 1994 Amendment__ 
 
-    [Pub. L. 103–446, title XII, § 1202(b)][/us/pl/103/446/s1202/b], Nov. 2, 1994, [108 Stat. 4689][/us/stat/108/4689], provided that the amendment made by that section is effective Aug. 6, 1991, and as if included in the enactment of [Pub. L. 102–83][/us/pl/102/83].
+    [Pub. L. 103–446, title XII][/us/pl/103/446/tXII], § 1202(b), Nov. 2, 1994, [108 Stat. 4689][/us/stat/108/4689], provided that the amendment made by that section is effective Aug. 6, 1991, and as if included in the enactment of [Pub. L. 102–83][/us/pl/102/83].
 
  __Congressional Declaration of Purpose in Creating Centers of Geriatric Research, Education, and Clinical Activities__ 
 
-[Pub. L. 96–330, title III, § 301][/us/pl/96/330/s301], Aug. 26, 1980, [94 Stat. 1048][/us/stat/94/1048], provided that: 
+[Pub. L. 96–330, title III][/us/pl/96/330/tIII], § 301, Aug. 26, 1980, [94 Stat. 1048][/us/stat/94/1048], provided that: 
 
 > “The purposes of this title \[see Tables for classification\] are (1) to improve and expand the capability of Veterans’ Administration \[now Department of Veterans Affairs\] health-care facilities to respond with the most effective and appropriate services possible to the medical, psychological and social needs of the increasing number of older veterans, and (2) to advance scientific knowledge regarding such needs and the methods of meeting them by facilitating higher quality geriatric care for eligible older veterans through geriatric and gerontological research, the training of health personnel in the provision of health care to older individuals, and the development of improved models of clinical services for eligible older veterans.”
 
@@ -109,17 +109,17 @@
 [/us/pl/96/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F330
 [/us/stat/94/1048]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1048
 [/us/usc/t38/s7306/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7306%2Fb%2F3
-[/us/pl/102/40/s401/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs401%2Fa%2F3
+[/us/pl/102/40/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2FtIV
 [/us/stat/105/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F216
-[/us/pl/102/83/s4/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fa%2F3
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F404
-[/us/pl/102/405/s302/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405%2Fs302%2Fc%2F1
+[/us/pl/102/405/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405%2FtIII
 [/us/stat/106/1984]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1984
-[/us/pl/102/585/s521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F585%2Fs521
+[/us/pl/102/585/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F585%2FtV
 [/us/stat/106/4958]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4958
-[/us/pl/103/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446
+[/us/pl/103/446/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2FtXII
 [/us/stat/108/4683]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4683
-[/us/pl/110/387/s901/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F387%2Fs901%2Fa%2F8
+[/us/pl/110/387/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F387%2FtIX
 [/us/stat/122/4142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4142
 [/us/pl/96/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F330
 [/us/stat/94/1030]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1030
@@ -129,23 +129,23 @@
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770
 [/us/pl/110/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F387
-[/us/pl/103/446/s1202/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2Fs1202%2Fb%2F2
-[/us/pl/102/83/s4/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fa%2F3
-[/us/pl/103/446/s1201/c/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2Fs1201%2Fc%2F4%2FA
-[/us/pl/103/446/s1201/c/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2Fs1201%2Fc%2F4%2FB
+[/us/pl/103/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/103/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446
+[/us/pl/103/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446
 [/us/pl/102/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405
-[/us/pl/102/585/s521/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F585%2Fs521%2F1
+[/us/pl/102/585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F585
 [/us/pl/102/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405
-[/us/pl/102/585/s521/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F585%2Fs521%2F3
-[/us/pl/102/585/s521/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F585%2Fs521%2F2
+[/us/pl/102/585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F585
+[/us/pl/102/585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F585
 [/us/pl/102/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405
-[/us/pl/102/585/s521/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F585%2Fs521%2F2
-[/us/pl/102/83/s4/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fa%2F3
-[/us/pl/103/446/s1202/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2Fs1202%2Fb%2F2
-[/us/pl/103/446/s1202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2Fs1202%2Fb
+[/us/pl/102/585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F585
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/103/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446
+[/us/pl/103/446/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2FtXII
 [/us/stat/108/4689]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4689
 [/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
-[/us/pl/96/330/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F330%2Fs301
+[/us/pl/96/330/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F330%2FtIII
 [/us/stat/94/1048]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1048
 
 

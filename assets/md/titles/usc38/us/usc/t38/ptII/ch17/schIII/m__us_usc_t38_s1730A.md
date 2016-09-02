@@ -17,7 +17,7 @@
 
     Notwithstanding subsections (f) and (g) of section 1710 and [section 1722A(a) of this title][/us/usc/t38/s1722A/a] or any other provision of law, the Secretary may not require a veteran who is catastrophically disabled, as defined by the Secretary, to make any copayment for the receipt of hospital care or medical services under the laws administered by the Secretary.
 
-(Added [Pub. L. 111–163, title V, § 511(a)][/us/pl/111/163/s511/a], May 5, 2010, [124 Stat. 1164][/us/stat/124/1164].)
+(Added [Pub. L. 111–163, title V][/us/pl/111/163/tV], § 511(a), May 5, 2010, [124 Stat. 1164][/us/stat/124/1164].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t38/s1722A/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1722A%2Fa
-[/us/pl/111/163/s511/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163%2Fs511%2Fa
+[/us/pl/111/163/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163%2FtV
 [/us/stat/124/1164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1164
 
 

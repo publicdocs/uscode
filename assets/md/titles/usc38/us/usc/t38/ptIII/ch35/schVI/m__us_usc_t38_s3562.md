@@ -17,7 +17,7 @@
 
     The commencement of a program of education or special restorative training under this chapter shall be a bar (1) to subsequent payments of compensation, dependency and indemnity compensation, or pension based on the death of a parent to an eligible person over the age of eighteen by reason of pursuing a course in an educational institution, or (2) to increased rates, or additional amounts, of compensation, dependency and indemnity compensation, or pension because of such a person whether eligibility is based upon the death or upon the total permanent disability of the parent.
 
-([Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1201][/us/stat/72/1201], § 1762; [Pub. L. 88–361, § 4][/us/pl/88/361/s4], July 7, 1964, [78 Stat. 298][/us/stat/78/298]; [Pub. L. 89–358, § 3(a)(2)][/us/pl/89/358/s3/a/2], Mar. 3, 1966, [80 Stat. 20][/us/stat/80/20]; renumbered § 3562, [Pub. L. 102–83, § 5(a)][/us/pl/102/83/s5/a], Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406].)
+([Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1201][/us/stat/72/1201], § 1762; [Pub. L. 88–361][/us/pl/88/361], § 4, July 7, 1964, [78 Stat. 298][/us/stat/78/298]; [Pub. L. 89–358][/us/pl/89/358], § 3(a)(2), Mar. 3, 1966, [80 Stat. 20][/us/stat/80/20]; renumbered § 3562, [Pub. L. 102–83][/us/pl/102/83], § 5(a), Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406].)
 
  __Amendments__ 
 
@@ -36,11 +36,11 @@
 
 [/us/pl/85/857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F857
 [/us/stat/72/1201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1201
-[/us/pl/88/361/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F361%2Fs4
+[/us/pl/88/361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F361
 [/us/stat/78/298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F298
-[/us/pl/89/358/s3/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F358%2Fs3%2Fa%2F2
+[/us/pl/89/358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F358
 [/us/stat/80/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F20
-[/us/pl/102/83/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fa
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F406
 [/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/usc/t38/s1762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1762

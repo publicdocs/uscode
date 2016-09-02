@@ -49,7 +49,7 @@
 
         (2) The term “TIN” has the meaning given the term in section 7701(a)(41) of the Internal Revenue Code of 1986.
 
-([Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1225][/us/stat/72/1225], § 3001; [Pub. L. 97–295, § 4(95)(A)][/us/pl/97/295/s4/95/A], Oct. 12, 1982, [96 Stat. 1313][/us/stat/96/1313]; [Pub. L. 99–576, title VII, § 701(61)][/us/pl/99/576/s701/61], Oct. 28, 1986, [100 Stat. 3296][/us/stat/100/3296]; [Pub. L. 101–508, title VIII, § 8053(a)][/us/pl/101/508/s8053/a], Nov. 5, 1990, [104 Stat. 1388–352][/us/stat/104/1388-352]; renumbered § 5101 and amended [Pub. L. 102–40, title IV, § 402(b)(1)][/us/pl/102/40/s402/b/1], (d)(1), May 7, 1991, [105 Stat. 238][/us/stat/105/238], 239; [Pub. L. 102–83, § 4(a)(1)][/us/pl/102/83/s4/a/1], (b)(1), (2)(E), Aug. 6, 1991, [105 Stat. 403–405][/us/stat/105/403-405]; [Pub. L. 108–183, title VII, § 708(c)(2)][/us/pl/108/183/s708/c/2], Dec. 16, 2003, [117 Stat. 2674][/us/stat/117/2674]; [Pub. L. 112–154, title V, § 502(a)][/us/pl/112/154/s502/a], Aug. 6, 2012, [126 Stat. 1190][/us/stat/126/1190].)
+([Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1225][/us/stat/72/1225], § 3001; [Pub. L. 97–295][/us/pl/97/295], § 4(95)(A), Oct. 12, 1982, [96 Stat. 1313][/us/stat/96/1313]; [Pub. L. 99–576, title VII][/us/pl/99/576/tVII], § 701(61), Oct. 28, 1986, [100 Stat. 3296][/us/stat/100/3296]; [Pub. L. 101–508, title VIII][/us/pl/101/508/tVIII], § 8053(a), Nov. 5, 1990, [104 Stat. 1388–352][/us/stat/104/1388-352]; renumbered § 5101 and amended [Pub. L. 102–40, title IV][/us/pl/102/40/tIV], § 402(b)(1), (d)(1), May 7, 1991, [105 Stat. 238][/us/stat/105/238], 239; [Pub. L. 102–83][/us/pl/102/83], § 4(a)(1), (b)(1), (2)(E), Aug. 6, 1991, [105 Stat. 403–405][/us/stat/105/403-405]; [Pub. L. 108–183, title VII][/us/pl/108/183/tVII], § 708(c)(2), Dec. 16, 2003, [117 Stat. 2674][/us/stat/117/2674]; [Pub. L. 112–154, title V][/us/pl/112/154/tV], § 502(a), Aug. 6, 2012, [126 Stat. 1190][/us/stat/126/1190].)
 
  __References in Text__ 
 
@@ -61,23 +61,23 @@
 
  __Amendments__ 
 
-    2012—Subsec. (a). [Pub. L. 112–154, § 502(a)(1)][/us/pl/112/154/s502/a/1], designated existing provisions as par. (1) and added par. (2).
+    2012—Subsec. (a). [Pub. L. 112–154][/us/pl/112/154], § 502(a)(1), designated existing provisions as par. (1) and added par. (2).
 
-    Subsec. (c)(1). [Pub. L. 112–154, § 502(a)(2)(A)][/us/pl/112/154/s502/a/2/A], inserted “, signs a form on behalf of an individual to apply for,” after “who applies for” and “, or TIN in the case that the person is not an individual,” after “of such person” and substituted “claimant, dependent,” for “dependent”.
+    Subsec. (c)(1). [Pub. L. 112–154][/us/pl/112/154], § 502(a)(2)(A), inserted “, signs a form on behalf of an individual to apply for,” after “who applies for” and “, or TIN in the case that the person is not an individual,” after “of such person” and substituted “claimant, dependent,” for “dependent”.
 
-    Subsec. (c)(2). [Pub. L. 112–154, § 502(a)(2)(B)][/us/pl/112/154/s502/a/2/B], inserted “or TIN” after “social security number” in two places.
+    Subsec. (c)(2). [Pub. L. 112–154][/us/pl/112/154], § 502(a)(2)(B), inserted “or TIN” after “social security number” in two places.
 
-    Subsec. (d). [Pub. L. 112–154, § 502(a)(3)][/us/pl/112/154/s502/a/3], added subsec. (d).
+    Subsec. (d). [Pub. L. 112–154][/us/pl/112/154], § 502(a)(3), added subsec. (d).
 
     2003—Subsec. (a). [Pub. L. 108–183][/us/pl/108/183] substituted “Commissioner of Social Security” for “Secretary of Health and Human Services”.
 
-    1991—[Pub. L. 102–40, § 402(b)(1)][/us/pl/102/40/s402/b/1], renumbered [section 3001 of this title][/us/usc/t38/s3001] as this section.
+    1991—[Pub. L. 102–40][/us/pl/102/40], § 402(b)(1), renumbered [section 3001 of this title][/us/usc/t38/s3001] as this section.
 
-    Subsec. (a). [Pub. L. 102–83, § 4(b)(1)][/us/pl/102/83/s4/b/1], (2)(E), substituted “Secretary” for “Administrator” after “prescribed by the”.
+    Subsec. (a). [Pub. L. 102–83][/us/pl/102/83], § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” after “prescribed by the”.
 
-    [Pub. L. 102–83, § 4(a)(1)][/us/pl/102/83/s4/a/1], substituted “administered by the Secretary” for “administered by the Veterans’ Administration”.
+    [Pub. L. 102–83][/us/pl/102/83], § 4(a)(1), substituted “administered by the Secretary” for “administered by the Veterans’ Administration”.
 
-    [Pub. L. 102–40, § 402(d)(1)][/us/pl/102/40/s402/d/1], substituted “5105” for “3005”.
+    [Pub. L. 102–40][/us/pl/102/40], § 402(d)(1), substituted “5105” for “3005”.
 
     1990—Subsec. (c). [Pub. L. 101–508][/us/pl/101/508] added subsec. (c).
 
@@ -87,13 +87,13 @@
 
  __Effective Date of 2012 Amendment__ 
 
-[Pub. L. 112–154, title V, § 502(b)][/us/pl/112/154/s502/b], Aug. 6, 2012, [126 Stat. 1191][/us/stat/126/1191], provided that: 
+[Pub. L. 112–154, title V][/us/pl/112/154/tV], § 502(b), Aug. 6, 2012, [126 Stat. 1191][/us/stat/126/1191], provided that: 
 
 > “The amendments made by subsection (a) \[amending this section\] shall apply with respect to claims filed on or after the date of the enactment of this Act \[Aug. 6, 2012\].”
 
  __Pilot Programs on Expedited Treatment of Fully Developed Claims and Provision of Checklists to Individuals Submitting Claims__ 
 
-[Pub. L. 110–389, title II, § 221][/us/pl/110/389/s221], Oct. 10, 2008, [122 Stat. 4154][/us/stat/122/4154], provided that:
+[Pub. L. 110–389, title II][/us/pl/110/389/tII], § 221, Oct. 10, 2008, [122 Stat. 4154][/us/stat/122/4154], provided that:
 
 >     “(a) __Pilot Program on Expedited Treatment of Fully Developed Claims.—__ 
 
@@ -183,7 +183,7 @@
 
  __Study of Performance Measures for Claims Adjudications of the Veterans Benefits Administration__ 
 
-[Pub. L. 110–389, title II, § 226][/us/pl/110/389/s226], Oct. 10, 2008, [122 Stat. 4159][/us/stat/122/4159], provided that:
+[Pub. L. 110–389, title II][/us/pl/110/389/tII], § 226, Oct. 10, 2008, [122 Stat. 4159][/us/stat/122/4159], provided that:
 
 >     “(a)  __Study of Work Credit System and Work Management System Required__  __.—__ 
 
@@ -243,7 +243,7 @@
 
  __Review and Enhancement of Use of Information Technology in Veterans Benefits Administration__ 
 
-[Pub. L. 110–389, title II, § 227][/us/pl/110/389/s227], Oct. 10, 2008, [122 Stat. 4160][/us/stat/122/4160], provided that:
+[Pub. L. 110–389, title II][/us/pl/110/389/tII], § 227, Oct. 10, 2008, [122 Stat. 4160][/us/stat/122/4160], provided that:
 
 >     “(a)  __Review and Comprehensive Plan__  __.—__ 
 
@@ -321,7 +321,7 @@
 
  __Temporary Authority for Performance of Medical Disabilities Examinations by Contract Physicians__ 
 
-[Pub. L. 108–183, title VII, § 704][/us/pl/108/183/s704], Dec. 16, 2003, [117 Stat. 2672][/us/stat/117/2672], as amended by [Pub. L. 110–389, § 105][/us/pl/110/389/s105], Oct. 10, 2008, [122 Stat. 4149][/us/stat/122/4149]; [Pub. L. 111–275, title VIII, § 809][/us/pl/111/275/s809], Oct. 13, 2010, [124 Stat. 2894][/us/stat/124/2894]; [Pub. L. 112–191, title II, § 207][/us/pl/112/191/s207], Oct. 5, 2012, [126 Stat. 1440][/us/stat/126/1440]; [Pub. L. 113–59, § 14][/us/pl/113/59/s14], Dec. 20, 2013, [127 Stat. 663][/us/stat/127/663]; [Pub. L. 113–175, title I, § 106][/us/pl/113/175/s106], Sept. 26, 2014, [128 Stat. 1903][/us/stat/128/1903]; [Pub. L. 114–58, title IV, § 409][/us/pl/114/58/s409], Sept. 30, 2015, [129 Stat. 535][/us/stat/129/535], provided that:
+[Pub. L. 108–183, title VII][/us/pl/108/183/tVII], § 704, Dec. 16, 2003, [117 Stat. 2672][/us/stat/117/2672], as amended by [Pub. L. 110–389][/us/pl/110/389], § 105, Oct. 10, 2008, [122 Stat. 4149][/us/stat/122/4149]; [Pub. L. 111–275, title VIII][/us/pl/111/275/tVIII], § 809, Oct. 13, 2010, [124 Stat. 2894][/us/stat/124/2894]; [Pub. L. 112–191, title II][/us/pl/112/191/tII], § 207, Oct. 5, 2012, [126 Stat. 1440][/us/stat/126/1440]; [Pub. L. 113–59][/us/pl/113/59], § 14, Dec. 20, 2013, [127 Stat. 663][/us/stat/127/663]; [Pub. L. 113–175, title I][/us/pl/113/175/tI], § 106, Sept. 26, 2014, [128 Stat. 1903][/us/stat/128/1903]; [Pub. L. 114–58, title IV][/us/pl/114/58/tIV], § 409, Sept. 30, 2015, [129 Stat. 535][/us/stat/129/535], provided that:
 
 >     “(a)  __Authority__  __.—__ 
 
@@ -341,7 +341,7 @@
 
  __Pilot Program for Use of Contract Physicians for Disability Examinations__ 
 
-[Pub. L. 104–275, title V, § 504][/us/pl/104/275/s504], Oct. 9, 1996, [110 Stat. 3341][/us/stat/110/3341], as amended by [Pub. L. 113–235, div. I, title II, § 241][/us/pl/113/235/s241], Dec. 16, 2014, [128 Stat. 2568][/us/stat/128/2568], provided that:
+[Pub. L. 104–275, title V][/us/pl/104/275/tV], § 504, Oct. 9, 1996, [110 Stat. 3341][/us/stat/110/3341], as amended by [Pub. L. 113–235, div. I, title II][/us/pl/113/235/dI/tII], § 241, Dec. 16, 2014, [128 Stat. 2568][/us/stat/128/2568], provided that:
 
 >     “(a)  __Authority__  __.—__ 
 
@@ -365,11 +365,11 @@
 
  __Expedited Treatment of Remanded Claims__ 
 
-    [Pub. L. 103–446, title III, § 302][/us/pl/103/446/s302], Nov. 2, 1994, [108 Stat. 4658][/us/stat/108/4658], as amended by [Pub. L. 105–368, title V, § 512(c)][/us/pl/105/368/s512/c], Nov. 11, 1998, [112 Stat. 3342][/us/stat/112/3342], provided that Secretary of Veterans Affairs was to take necessary actions to provide for expeditious treatment, by the Board of Veterans’ Appeals and by regional offices of the Veterans Benefits Administration, of any claim that had been remanded by the Board of Veterans’ Appeals or by the United States Court of Appeals for Veterans Claims for additional development or other appropriate action, prior to repeal by [Pub. L. 108–183, title VII, § 707(c)][/us/pl/108/183/s707/c], Dec. 16, 2003, [117 Stat. 2673][/us/stat/117/2673].
+    [Pub. L. 103–446, title III][/us/pl/103/446/tIII], § 302, Nov. 2, 1994, [108 Stat. 4658][/us/stat/108/4658], as amended by [Pub. L. 105–368, title V][/us/pl/105/368/tV], § 512(c), Nov. 11, 1998, [112 Stat. 3342][/us/stat/112/3342], provided that Secretary of Veterans Affairs was to take necessary actions to provide for expeditious treatment, by the Board of Veterans’ Appeals and by regional offices of the Veterans Benefits Administration, of any claim that had been remanded by the Board of Veterans’ Appeals or by the United States Court of Appeals for Veterans Claims for additional development or other appropriate action, prior to repeal by [Pub. L. 108–183, title VII][/us/pl/108/183/tVII], § 707(c), Dec. 16, 2003, [117 Stat. 2673][/us/stat/117/2673].
 
  __Veterans’ Claims Adjudication Commission__ 
 
-    [Pub. L. 103–446, title IV][/us/pl/103/446], Nov. 2, 1994, [108 Stat. 4659][/us/stat/108/4659], as amended by [Pub. L. 104–275, title V, § 503(a)][/us/pl/104/275/s503/a], Oct. 9, 1996, [110 Stat. 3341][/us/stat/110/3341], established Veterans’ Claims Adjudication Commission which was directed to conduct comprehensive evaluation and assessment of Department of Veterans Affairs system for disposition of claims for veterans benefits and of system for delivery of such benefits, together with any related issues determined to be relevant to study, for purpose of determining means of increasing efficiency of system, means of reducing number of claims under system for which final disposition is pending, and means of enhancing ability of Department of Veterans Affairs to achieve final determination regarding claims under system in prompt and appropriate manner, and further provided for membership and powers of Commission, personnel matters, definitions and funding, and for submission of preliminary report to Secretary of Veterans Affairs and Congress not later than one year after Nov. 2, 1994, submission of final report not later than Dec. 31, 1996, and for termination of Commission 90 days after submission of final report.
+    [Pub. L. 103–446, title IV][/us/pl/103/446/tIV], Nov. 2, 1994, [108 Stat. 4659][/us/stat/108/4659], as amended by [Pub. L. 104–275, title V][/us/pl/104/275/tV], § 503(a), Oct. 9, 1996, [110 Stat. 3341][/us/stat/110/3341], established Veterans’ Claims Adjudication Commission which was directed to conduct comprehensive evaluation and assessment of Department of Veterans Affairs system for disposition of claims for veterans benefits and of system for delivery of such benefits, together with any related issues determined to be relevant to study, for purpose of determining means of increasing efficiency of system, means of reducing number of claims under system for which final disposition is pending, and means of enhancing ability of Department of Veterans Affairs to achieve final determination regarding claims under system in prompt and appropriate manner, and further provided for membership and powers of Commission, personnel matters, definitions and funding, and for submission of preliminary report to Secretary of Veterans Affairs and Congress not later than one year after Nov. 2, 1994, submission of final report not later than Dec. 31, 1996, and for termination of Commission 90 days after submission of final report.
 
 ----------
 
@@ -381,76 +381,76 @@
 [/us/usc/t38/s5105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs5105
 [/us/pl/85/857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F857
 [/us/stat/72/1225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1225
-[/us/pl/97/295/s4/95/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295%2Fs4%2F95%2FA
+[/us/pl/97/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295
 [/us/stat/96/1313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1313
-[/us/pl/99/576/s701/61]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2Fs701%2F61
+[/us/pl/99/576/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2FtVII
 [/us/stat/100/3296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3296
-[/us/pl/101/508/s8053/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs8053%2Fa
+[/us/pl/101/508/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtVIII
 [/us/stat/104/1388-352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-352
-[/us/pl/102/40/s402/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs402%2Fb%2F1
+[/us/pl/102/40/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2FtIV
 [/us/stat/105/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F238
-[/us/pl/102/83/s4/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fa%2F1
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/403-405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F403-405
-[/us/pl/108/183/s708/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F183%2Fs708%2Fc%2F2
+[/us/pl/108/183/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F183%2FtVII
 [/us/stat/117/2674]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2674
-[/us/pl/112/154/s502/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154%2Fs502%2Fa
+[/us/pl/112/154/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154%2FtV
 [/us/stat/126/1190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1190
 [/us/usc/t26/s7701/a/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs7701%2Fa%2F41
 [/us/usc/t38/s8301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs8301
-[/us/pl/112/154/s502/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154%2Fs502%2Fa%2F1
-[/us/pl/112/154/s502/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154%2Fs502%2Fa%2F2%2FA
-[/us/pl/112/154/s502/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154%2Fs502%2Fa%2F2%2FB
-[/us/pl/112/154/s502/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154%2Fs502%2Fa%2F3
+[/us/pl/112/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154
+[/us/pl/112/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154
+[/us/pl/112/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154
+[/us/pl/112/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154
 [/us/pl/108/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F183
-[/us/pl/102/40/s402/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs402%2Fb%2F1
+[/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40
 [/us/usc/t38/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3001
-[/us/pl/102/83/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fb%2F1
-[/us/pl/102/83/s4/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fa%2F1
-[/us/pl/102/40/s402/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs402%2Fd%2F1
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/pl/99/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576
 [/us/pl/97/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295
-[/us/pl/112/154/s502/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154%2Fs502%2Fb
+[/us/pl/112/154/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154%2FtV
 [/us/stat/126/1191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1191
-[/us/pl/110/389/s221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F389%2Fs221
+[/us/pl/110/389/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F389%2FtII
 [/us/stat/122/4154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4154
 [/us/usc/t38/s5103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs5103%2Fa
 [/us/usc/t38/s5103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs5103%2Fa
-[/us/pl/110/389/s226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F389%2Fs226
+[/us/pl/110/389/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F389%2FtII
 [/us/stat/122/4159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4159
-[/us/pl/110/389/s227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F389%2Fs227
+[/us/pl/110/389/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F389%2FtII
 [/us/stat/122/4160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4160
 [/us/usc/t5/s552a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552a
 [/us/usc/t38/s1155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1155
-[/us/pl/108/183/s704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F183%2Fs704
+[/us/pl/108/183/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F183%2FtVII
 [/us/stat/117/2672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2672
-[/us/pl/110/389/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F389%2Fs105
+[/us/pl/110/389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F389
 [/us/stat/122/4149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4149
-[/us/pl/111/275/s809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275%2Fs809
+[/us/pl/111/275/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275%2FtVIII
 [/us/stat/124/2894]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2894
-[/us/pl/112/191/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F191%2Fs207
+[/us/pl/112/191/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F191%2FtII
 [/us/stat/126/1440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1440
-[/us/pl/113/59/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F59%2Fs14
+[/us/pl/113/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F59
 [/us/stat/127/663]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F663
-[/us/pl/113/175/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F175%2Fs106
+[/us/pl/113/175/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F175%2FtI
 [/us/stat/128/1903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1903
-[/us/pl/114/58/s409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F58%2Fs409
+[/us/pl/114/58/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F58%2FtIV
 [/us/stat/129/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F535
 [/us/pl/104/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275
 [/us/usc/t38/s5101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs5101
-[/us/pl/104/275/s504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275%2Fs504
+[/us/pl/104/275/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275%2FtV
 [/us/stat/110/3341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3341
-[/us/pl/113/235/s241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs241
+[/us/pl/113/235/dI/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2FdI%2FtII
 [/us/stat/128/2568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2568
-[/us/pl/103/446/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2Fs302
+[/us/pl/103/446/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2FtIII
 [/us/stat/108/4658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4658
-[/us/pl/105/368/s512/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2Fs512%2Fc
+[/us/pl/105/368/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2FtV
 [/us/stat/112/3342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3342
-[/us/pl/108/183/s707/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F183%2Fs707%2Fc
+[/us/pl/108/183/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F183%2FtVII
 [/us/stat/117/2673]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2673
-[/us/pl/103/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446
+[/us/pl/103/446/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2FtIV
 [/us/stat/108/4659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4659
-[/us/pl/104/275/s503/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275%2Fs503%2Fa
+[/us/pl/104/275/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275%2FtV
 [/us/stat/110/3341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3341
 
 

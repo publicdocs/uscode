@@ -21,15 +21,15 @@
 
     (c) The Secretary is authorized to enter into agreements with public and nonprofit private institutions, organizations, corporations, and other entities in order to participate in cooperative health-care personnel education programs within the geographical area of any Department health-care facility located in an area remote from major academic health centers.
 
-(Added [Pub. L. 89–785, title II, § 203][/us/pl/89/785/s203], Nov. 7, 1966, [80 Stat. 1374][/us/stat/80/1374], § 5054; amended [Pub. L. 94–424, § 1(1)][/us/pl/94/424/s1/1], Sept. 28, 1976, [90 Stat. 1332][/us/stat/90/1332]; [Pub. L. 94–581, title II][/us/pl/94/581], §§ 206(d), 210(e)(12), Oct. 21, 1976, [90 Stat. 2859][/us/stat/90/2859], 2865; [Pub. L. 96–151, title I, § 102(a)][/us/pl/96/151/s102/a], Dec. 20, 1979, [93 Stat. 1092][/us/stat/93/1092]; [Pub. L. 97–251, § 9][/us/pl/97/251/s9], Sept. 8, 1982, [96 Stat. 716][/us/stat/96/716]; renumbered § 8154, [Pub. L. 102–40, title IV, § 402(b)(1)][/us/pl/102/40/s402/b/1], May 7, 1991, [105 Stat. 238][/us/stat/105/238]; [Pub. L. 102–83, § 4(a)(3)][/us/pl/102/83/s4/a/3], (4), (b)(1), (2)(E), Aug. 6, 1991, [105 Stat. 404][/us/stat/105/404], 405.)
+(Added [Pub. L. 89–785, title II][/us/pl/89/785/tII], § 203, Nov. 7, 1966, [80 Stat. 1374][/us/stat/80/1374], § 5054; amended [Pub. L. 94–424][/us/pl/94/424], § 1(1), Sept. 28, 1976, [90 Stat. 1332][/us/stat/90/1332]; [Pub. L. 94–581, title II][/us/pl/94/581/tII], §§ 206(d), 210(e)(12), Oct. 21, 1976, [90 Stat. 2859][/us/stat/90/2859], 2865; [Pub. L. 96–151, title I][/us/pl/96/151/tI], § 102(a), Dec. 20, 1979, [93 Stat. 1092][/us/stat/93/1092]; [Pub. L. 97–251][/us/pl/97/251], § 9, Sept. 8, 1982, [96 Stat. 716][/us/stat/96/716]; renumbered § 8154, [Pub. L. 102–40, title IV][/us/pl/102/40/tIV], § 402(b)(1), May 7, 1991, [105 Stat. 238][/us/stat/105/238]; [Pub. L. 102–83][/us/pl/102/83], § 4(a)(3), (4), (b)(1), (2)(E), Aug. 6, 1991, [105 Stat. 404][/us/stat/105/404], 405.)
 
  __Amendments__ 
 
     1991—[Pub. L. 102–40][/us/pl/102/40] renumbered [section 5054 of this title][/us/usc/t38/s5054] as this section.
 
-    [Pub. L. 102–83, § 4(b)(1)][/us/pl/102/83/s4/b/1], (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
+    [Pub. L. 102–83][/us/pl/102/83], § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
 
-    [Pub. L. 102–83, § 4(a)(3)][/us/pl/102/83/s4/a/3], (4), substituted “Department” for “Veterans’ Administration” wherever appearing.
+    [Pub. L. 102–83][/us/pl/102/83], § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration” wherever appearing.
 
     1982—Subsec. (b). [Pub. L. 97–251][/us/pl/97/251] inserted “(including State home facilities furnishing domiciliary, nursing home, or hospital care to veterans)” after “by the surrounding medical community”.
 
@@ -50,24 +50,24 @@
 ----------
 ----------
 
-[/us/pl/89/785/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F785%2Fs203
+[/us/pl/89/785/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F785%2FtII
 [/us/stat/80/1374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1374
-[/us/pl/94/424/s1/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F424%2Fs1%2F1
+[/us/pl/94/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F424
 [/us/stat/90/1332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1332
-[/us/pl/94/581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F581
+[/us/pl/94/581/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F581%2FtII
 [/us/stat/90/2859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2859
-[/us/pl/96/151/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F151%2Fs102%2Fa
+[/us/pl/96/151/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F151%2FtI
 [/us/stat/93/1092]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1092
-[/us/pl/97/251/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F251%2Fs9
+[/us/pl/97/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F251
 [/us/stat/96/716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F716
-[/us/pl/102/40/s402/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs402%2Fb%2F1
+[/us/pl/102/40/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2FtIV
 [/us/stat/105/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F238
-[/us/pl/102/83/s4/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fa%2F3
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F404
 [/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40
 [/us/usc/t38/s5054]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs5054
-[/us/pl/102/83/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fb%2F1
-[/us/pl/102/83/s4/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fa%2F3
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/pl/97/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F251
 [/us/pl/96/151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F151
 [/us/pl/94/581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F581

@@ -69,7 +69,7 @@
 
         (5) Nothing in this subsection shall be construed to require the Secretary to replace the quality assurance program under subsection (a) that was in effect on the day before the date of the enactment of this subsection.
 
-(Added [Pub. L. 106–117, § 801(a)(1)][/us/pl/106/117/s801/a/1], Nov. 30, 1999, [113 Stat. 1585][/us/stat/113/1585]; amended [Pub. L. 110–389, title II, § 224(a)][/us/pl/110/389/s224/a], Oct. 10, 2008, [122 Stat. 4157][/us/stat/122/4157].)
+(Added [Pub. L. 106–117][/us/pl/106/117], § 801(a)(1), Nov. 30, 1999, [113 Stat. 1585][/us/stat/113/1585]; amended [Pub. L. 110–389, title II][/us/pl/110/389/tII], § 224(a), Oct. 10, 2008, [122 Stat. 4157][/us/stat/122/4157].)
 
  __References in Text__ 
 
@@ -81,7 +81,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 106–117, title VIII, § 801(b)][/us/pl/106/117/s801/b], Nov. 30, 1999, [113 Stat. 1586][/us/stat/113/1586], provided that: 
+[Pub. L. 106–117, title VIII][/us/pl/106/117/tVIII], § 801(b), Nov. 30, 1999, [113 Stat. 1586][/us/stat/113/1586], provided that: 
 
 > “Subchapter III \[now Subchapter II\] of chapter 77 of title 38, United States Code, as added by subsection (a), shall take effect at the end of the 60-day period beginning on the date of the enactment of this Act \[Nov. 30, 1999\].”
 
@@ -93,13 +93,13 @@
 ----------
 
 [/us/usc/t38/s1155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1155
-[/us/pl/106/117/s801/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117%2Fs801%2Fa%2F1
+[/us/pl/106/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117
 [/us/stat/113/1585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1585
-[/us/pl/110/389/s224/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F389%2Fs224%2Fa
+[/us/pl/110/389/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F389%2FtII
 [/us/stat/122/4157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4157
 [/us/pl/110/389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F389
 [/us/pl/110/389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F389
-[/us/pl/106/117/s801/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117%2Fs801%2Fb
+[/us/pl/106/117/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117%2FtVIII
 [/us/stat/113/1586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1586
 
 

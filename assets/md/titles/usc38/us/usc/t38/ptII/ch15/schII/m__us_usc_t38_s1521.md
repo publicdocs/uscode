@@ -65,7 +65,7 @@
 
         (4) for an aggregate of ninety days or more in two or more separate periods of service during more than one period of war.
 
-([Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1136][/us/stat/72/1136], § 521; [Pub. L. 86–211, § 3(a)][/us/pl/86/211/s3/a], Aug. 29, 1959, [73 Stat. 433][/us/stat/73/433]; [Pub. L. 87–101, § 1][/us/pl/87/101/s1], July 21, 1961, [75 Stat. 218][/us/stat/75/218]; [Pub. L. 88–664][/us/pl/88/664], §§ 3(a), (b), 5, 6(a), 7, Oct. 13, 1964, [78 Stat. 1094][/us/stat/78/1094], 1095; [Pub. L. 90–77, title I, § 104][/us/pl/90/77/s104], title II, § 202(a)–(c), Aug. 31, 1967, [81 Stat. 179][/us/stat/81/179], 182; [Pub. L. 90–275, § 1(a)][/us/pl/90/275/s1/a], (b), Mar. 28, 1968, [82 Stat. 64][/us/stat/82/64], 65; [Pub. L. 91–588][/us/pl/91/588], §§ 1(a), (b), 3(b), 9(c), Dec. 24, 1970, [84 Stat. 1580][/us/stat/84/1580], 1583, 1584; [Pub. L. 92–198][/us/pl/92/198], §§ 1(a), (b), 5(b), Dec. 15, 1971, [85 Stat. 663][/us/stat/85/663], 664; [Pub. L. 93–177, § 1(a)][/us/pl/93/177/s1/a], (b), Dec. 6, 1973, [87 Stat. 694][/us/stat/87/694]; [Pub. L. 93–527, § 2][/us/pl/93/527/s2], Dec. 21, 1974, [88 Stat. 1702][/us/stat/88/1702]; [Pub. L. 94–169, title I][/us/pl/94/169], §§ 102, 106(18), Dec. 23, 1975, [89 Stat. 1014][/us/stat/89/1014], 1018; [Pub. L. 94–432, title II, § 202][/us/pl/94/432/s202], Sept. 30, 1976, [90 Stat. 1369][/us/stat/90/1369]; [Pub. L. 95–204, title I, § 101][/us/pl/95/204/s101], Dec. 2, 1977, [91 Stat. 1455][/us/stat/91/1455]; [Pub. L. 95–588, title I, § 106(a)][/us/pl/95/588/s106/a], Nov. 4, 1978, [92 Stat. 2500][/us/stat/92/2500]; [Pub. L. 102–40, title IV, § 402(d)(1)][/us/pl/102/40/s402/d/1], May 7, 1991, [105 Stat. 239][/us/stat/105/239]; renumbered § 1521 and amended [Pub. L. 102–83][/us/pl/102/83], §§ 4(b)(1), (2)(E), 5(a), Aug. 6, 1991, [105 Stat. 404–406][/us/stat/105/404-406]; [Pub. L. 107–103, title II, § 207(b)(1)][/us/pl/107/103/s207/b/1], Dec. 27, 2001, [115 Stat. 991][/us/stat/115/991]; [Pub. L. 111–275, title VI, § 608(a)][/us/pl/111/275/s608/a], Oct. 13, 2010, [124 Stat. 2886][/us/stat/124/2886]; [Pub. L. 112–154, title V, § 508(a)][/us/pl/112/154/s508/a], Aug. 6, 2012, [126 Stat. 1194][/us/stat/126/1194].)
+([Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1136][/us/stat/72/1136], § 521; [Pub. L. 86–211][/us/pl/86/211], § 3(a), Aug. 29, 1959, [73 Stat. 433][/us/stat/73/433]; [Pub. L. 87–101][/us/pl/87/101], § 1, July 21, 1961, [75 Stat. 218][/us/stat/75/218]; [Pub. L. 88–664][/us/pl/88/664], §§ 3(a), (b), 5, 6(a), 7, Oct. 13, 1964, [78 Stat. 1094][/us/stat/78/1094], 1095; [Pub. L. 90–77, title I][/us/pl/90/77/tI], § 104, title II, § 202(a)–(c), Aug. 31, 1967, [81 Stat. 179][/us/stat/81/179], 182; [Pub. L. 90–275][/us/pl/90/275], § 1(a), (b), Mar. 28, 1968, [82 Stat. 64][/us/stat/82/64], 65; [Pub. L. 91–588][/us/pl/91/588], §§ 1(a), (b), 3(b), 9(c), Dec. 24, 1970, [84 Stat. 1580][/us/stat/84/1580], 1583, 1584; [Pub. L. 92–198][/us/pl/92/198], §§ 1(a), (b), 5(b), Dec. 15, 1971, [85 Stat. 663][/us/stat/85/663], 664; [Pub. L. 93–177][/us/pl/93/177], § 1(a), (b), Dec. 6, 1973, [87 Stat. 694][/us/stat/87/694]; [Pub. L. 93–527][/us/pl/93/527], § 2, Dec. 21, 1974, [88 Stat. 1702][/us/stat/88/1702]; [Pub. L. 94–169, title I][/us/pl/94/169/tI], §§ 102, 106(18), Dec. 23, 1975, [89 Stat. 1014][/us/stat/89/1014], 1018; [Pub. L. 94–432, title II][/us/pl/94/432/tII], § 202, Sept. 30, 1976, [90 Stat. 1369][/us/stat/90/1369]; [Pub. L. 95–204, title I][/us/pl/95/204/tI], § 101, Dec. 2, 1977, [91 Stat. 1455][/us/stat/91/1455]; [Pub. L. 95–588, title I][/us/pl/95/588/tI], § 106(a), Nov. 4, 1978, [92 Stat. 2500][/us/stat/92/2500]; [Pub. L. 102–40, title IV][/us/pl/102/40/tIV], § 402(d)(1), May 7, 1991, [105 Stat. 239][/us/stat/105/239]; renumbered § 1521 and amended [Pub. L. 102–83][/us/pl/102/83], §§ 4(b)(1), (2)(E), 5(a), Aug. 6, 1991, [105 Stat. 404–406][/us/stat/105/404-406]; [Pub. L. 107–103, title II][/us/pl/107/103/tII], § 207(b)(1), Dec. 27, 2001, [115 Stat. 991][/us/stat/115/991]; [Pub. L. 111–275, title VI][/us/pl/111/275/tVI], § 608(a), Oct. 13, 2010, [124 Stat. 2886][/us/stat/124/2886]; [Pub. L. 112–154, title V][/us/pl/112/154/tV], § 508(a), Aug. 6, 2012, [126 Stat. 1194][/us/stat/126/1194].)
 
  __Prior Provisions__ 
 
@@ -75,37 +75,37 @@
 
     2012—Subsec. (f)(2). [Pub. L. 112–154][/us/pl/112/154] substituted “$32,433” for “$30,480”.
 
-    2010—Subsec. (b). [Pub. L. 111–275, § 608(a)(1)][/us/pl/111/275/s608/a/1], substituted “$11,830” for “$3,550”.
+    2010—Subsec. (b). [Pub. L. 111–275][/us/pl/111/275], § 608(a)(1), substituted “$11,830” for “$3,550”.
 
-    Subsec. (c). [Pub. L. 111–275, § 608(a)(2)][/us/pl/111/275/s608/a/2], substituted “$15,493” for “$4,651” and “$2,020” for “$600”.
+    Subsec. (c). [Pub. L. 111–275][/us/pl/111/275], § 608(a)(2), substituted “$15,493” for “$4,651” and “$2,020” for “$600”.
 
-    Subsec. (d)(1). [Pub. L. 111–275, § 608(a)(3)(A)][/us/pl/111/275/s608/a/3/A], substituted “$19,736” for “$5,680”.
+    Subsec. (d)(1). [Pub. L. 111–275][/us/pl/111/275], § 608(a)(3)(A), substituted “$19,736” for “$5,680”.
 
-    Subsec. (d)(2). [Pub. L. 111–275, § 608(a)(3)(B)][/us/pl/111/275/s608/a/3/B], substituted “$23,396” for “$6,781” and “$2,020” for “$600”.
+    Subsec. (d)(2). [Pub. L. 111–275][/us/pl/111/275], § 608(a)(3)(B), substituted “$23,396” for “$6,781” and “$2,020” for “$600”.
 
-    Subsec. (e). [Pub. L. 111–275, § 608(a)(4)][/us/pl/111/275/s608/a/4], substituted “$14,457” for “$4,340”, “$18,120” for “$5,441”, and “$2,020” for “$600”.
+    Subsec. (e). [Pub. L. 111–275][/us/pl/111/275], § 608(a)(4), substituted “$14,457” for “$4,340”, “$18,120” for “$5,441”, and “$2,020” for “$600”.
 
-    Subsec. (f)(1). [Pub. L. 111–275, § 608(a)(5)(A)][/us/pl/111/275/s608/a/5/A], substituted “$15,493” for “$4,651”.
+    Subsec. (f)(1). [Pub. L. 111–275][/us/pl/111/275], § 608(a)(5)(A), substituted “$15,493” for “$4,651”.
 
-    Subsec. (f)(2). [Pub. L. 111–275, § 608(a)(5)(B)][/us/pl/111/275/s608/a/5/B], substituted “$23,396” for “$6,781” and “$30,480” for “$8,911”.
+    Subsec. (f)(2). [Pub. L. 111–275][/us/pl/111/275], § 608(a)(5)(B), substituted “$23,396” for “$6,781” and “$30,480” for “$8,911”.
 
-    Subsec. (f)(3). [Pub. L. 111–275, § 608(a)(5)(C)][/us/pl/111/275/s608/a/5/C], substituted “$18,120” for “$5,441” and “$20,747” for “$6,231”.
+    Subsec. (f)(3). [Pub. L. 111–275][/us/pl/111/275], § 608(a)(5)(C), substituted “$18,120” for “$5,441” and “$20,747” for “$6,231”.
 
-    Subsec. (f)(4). [Pub. L. 111–275, § 608(a)(5)(D)][/us/pl/111/275/s608/a/5/D], substituted “$26,018” for “$7,571”.
+    Subsec. (f)(4). [Pub. L. 111–275][/us/pl/111/275], § 608(a)(5)(D), substituted “$26,018” for “$7,571”.
 
-    Subsec. (f)(5). [Pub. L. 111–275, § 608(a)(5)(E)][/us/pl/111/275/s608/a/5/E], substituted “$2,020” for “$600”.
+    Subsec. (f)(5). [Pub. L. 111–275][/us/pl/111/275], § 608(a)(5)(E), substituted “$2,020” for “$600”.
 
-    Subsec. (g). [Pub. L. 111–275, § 608(a)(6)][/us/pl/111/275/s608/a/6], substituted “$2,686” for “$800”.
+    Subsec. (g). [Pub. L. 111–275][/us/pl/111/275], § 608(a)(6), substituted “$2,686” for “$800”.
 
     2001—Subsec. (f)(1). [Pub. L. 107–103][/us/pl/107/103] inserted “or the age and service requirements prescribed in [section 1513 of this title][/us/usc/t38/s1513],” after “of this section,”.
 
-    1991—[Pub. L. 102–83, § 5(a)][/us/pl/102/83/s5/a], renumbered [section 521 of this title][/us/usc/t38/s521] as this section.
+    1991—[Pub. L. 102–83][/us/pl/102/83], § 5(a), renumbered [section 521 of this title][/us/usc/t38/s521] as this section.
 
-    Subsec. (a). [Pub. L. 102–83, § 4(b)(1)][/us/pl/102/83/s4/b/1], (2)(E), substituted “Secretary” for “Administrator”.
+    Subsec. (a). [Pub. L. 102–83][/us/pl/102/83], § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
     [Pub. L. 102–40][/us/pl/102/40] substituted “5312” for “3112”.
 
-    Subsecs. (h)(1), (i). [Pub. L. 102–83, § 4(b)(1)][/us/pl/102/83/s4/b/1], (2)(E), substituted “Secretary” for “Administrator”.
+    Subsecs. (h)(1), (i). [Pub. L. 102–83][/us/pl/102/83], § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
     1978—Subsec. (a). [Pub. L. 95–588][/us/pl/95/588] revised pension eligibility requirements to speak in terms of a veteran of any period of war rather than veterans of specifically named wars and inserted reference to periodic pension increases pursuant to [section 3112 of this title][/us/usc/t38/s3112].
 
@@ -125,117 +125,117 @@
 
     Subsecs. (i), (j). [Pub. L. 95–588][/us/pl/95/588] added subsecs. (i) and (j).
 
-    1977—Subsec. (b)(1). [Pub. L. 95–204, § 101(1)][/us/pl/95/204/s101/1], increased monthly rate of pension from $185 to $197, and substituted “1,100” for “1,500” in two places, “1,700” for “1,800” in two places, and “3,770” for “3,540”.
+    1977—Subsec. (b)(1). [Pub. L. 95–204][/us/pl/95/204], § 101(1), increased monthly rate of pension from $185 to $197, and substituted “1,100” for “1,500” in two places, “1,700” for “1,800” in two places, and “3,770” for “3,540”.
 
-    Subsec. (b)(3). [Pub. L. 95–204, § 101(2)][/us/pl/95/204/s101/2], substituted “$3,770” for “$3,540”.
+    Subsec. (b)(3). [Pub. L. 95–204][/us/pl/95/204], § 101(2), substituted “$3,770” for “$3,540”.
 
-    Subsec. (c)(1). [Pub. L. 95–204, § 101(3)][/us/pl/95/204/s101/3], increased monthly rates of pension from $199 to $212, $204 to $217, and $209 to $222, and substituted “1,000” for “1,100” in two places, “2,000” for “2,400” in two places, “3,000” for “3,100” in two places, “3,200” for “3,500” in two places, “3,600” for “3,700” in two places and “5,070” for “4,760”.
+    Subsec. (c)(1). [Pub. L. 95–204][/us/pl/95/204], § 101(3), increased monthly rates of pension from $199 to $212, $204 to $217, and $209 to $222, and substituted “1,000” for “1,100” in two places, “2,000” for “2,400” in two places, “3,000” for “3,100” in two places, “3,200” for “3,500” in two places, “3,600” for “3,700” in two places and “5,070” for “4,760”.
 
-    Subsec. (c)(3). [Pub. L. 95–204, § 101(4)][/us/pl/95/204/s101/4], substituted “$5,070” for “$4,760”.
+    Subsec. (c)(3). [Pub. L. 95–204][/us/pl/95/204], § 101(4), substituted “$5,070” for “$4,760”.
 
-    Subsec. (d). [Pub. L. 95–204, § 101(5)][/us/pl/95/204/s101/5], substituted “$165” for “$155” in pars. (1) and (2).
+    Subsec. (d). [Pub. L. 95–204][/us/pl/95/204], § 101(5), substituted “$165” for “$155” in pars. (1) and (2).
 
-    Subsec. (e). [Pub. L. 95–204, § 101(6)][/us/pl/95/204/s101/6], substituted “$61” for “$57”.
+    Subsec. (e). [Pub. L. 95–204][/us/pl/95/204], § 101(6), substituted “$61” for “$57”.
 
-    1976—Subsec. (b)(1). [Pub. L. 94–432, § 202(1)][/us/pl/94/432/s202/1], increased monthly rate of pension from $173 to $185 and substituted $700 to $900 for $700 to $1,200, $900 to $1,500 for $1,200 to $1,700, $1,500 to $1,800 for $1,700 to $2,000, and $1,800 to $3,540 for $2,000 to $3,300.
+    1976—Subsec. (b)(1). [Pub. L. 94–432][/us/pl/94/432], § 202(1), increased monthly rate of pension from $173 to $185 and substituted $700 to $900 for $700 to $1,200, $900 to $1,500 for $1,200 to $1,700, $1,500 to $1,800 for $1,700 to $2,000, and $1,800 to $3,540 for $2,000 to $3,300.
 
-    Subsec. (b)(3). [Pub. L. 94–432, § 202(2)][/us/pl/94/432/s202/2], substituted “$3,540” for “$3,300”.
+    Subsec. (b)(3). [Pub. L. 94–432][/us/pl/94/432], § 202(2), substituted “$3,540” for “$3,300”.
 
-    Subsec. (c)(1). [Pub. L. 94–432, § 202(3)][/us/pl/94/432/s202/3], increased monthly rate of pension by $13 from $186 to $199, from $191 to $204, and from $196 to $209, of a veteran with 1, 2, and 3 dependents, substituting “he or she” for “such veteran” in three places, substituted $700 to $1100 for $700 to $1,300, $1,100 to $2,400 for $1,300 to $2,800, $2,400 to $3,100 for $2,800 to $3,200, $3,100 to $3,500 for $3,200 to $3,800, and $3,700 to $4,760 for $3,800 to $4,500, and inserted “.07” ranging from $3,500 to $3,700.
+    Subsec. (c)(1). [Pub. L. 94–432][/us/pl/94/432], § 202(3), increased monthly rate of pension by $13 from $186 to $199, from $191 to $204, and from $196 to $209, of a veteran with 1, 2, and 3 dependents, substituting “he or she” for “such veteran” in three places, substituted $700 to $1100 for $700 to $1,300, $1,100 to $2,400 for $1,300 to $2,800, $2,400 to $3,100 for $2,800 to $3,200, $3,100 to $3,500 for $3,200 to $3,800, and $3,700 to $4,760 for $3,800 to $4,500, and inserted “.07” ranging from $3,500 to $3,700.
 
-    Subsec. (c)(3). [Pub. L. 94–432, § 202(4)][/us/pl/94/432/s202/4], substituted “$4,760” for “$4,500”.
+    Subsec. (c)(3). [Pub. L. 94–432][/us/pl/94/432], § 202(4), substituted “$4,760” for “$4,500”.
 
-    Subsec. (d). [Pub. L. 94–432, § 202(5)][/us/pl/94/432/s202/5], designated existing provisions as par. (1), substituted “$155” for “$133” and added par. (2).
+    Subsec. (d). [Pub. L. 94–432][/us/pl/94/432], § 202(5), designated existing provisions as par. (1), substituted “$155” for “$133” and added par. (2).
 
-    Subsec. (e). [Pub. L. 94–432, § 202(6)][/us/pl/94/432/s202/6], substituted “$57” for “$53”.
+    Subsec. (e). [Pub. L. 94–432][/us/pl/94/432], § 202(6), substituted “$57” for “$53”.
 
-    Subsec. (h). [Pub. L. 94–432, § 202(7)][/us/pl/94/432/s202/7], added subsec. (h).
+    Subsec. (h). [Pub. L. 94–432][/us/pl/94/432], § 202(7), added subsec. (h).
 
-    1975—Subsec. (b). [Pub. L. 94–169, § 102(1)][/us/pl/94/169/s102/1], increased, effective for period beginning Jan. 1, 1976, and ending Sept. 30, 1976, monthly rate of pension from $160 to $173, substituted $500 to $700 for $500 to $900, $700 to $1200 for $900 to $1500, $1200 to $1700 for $1500 to $1900, $1700 to $2000 for $1900 to $2300, $2000 to $3300 for $2300 to $3000 the minimum and maximum income ranges for which the pension rate will be reduced by 4, 5, 6, 7 and 8 cents per dollar, respectively, and increased from $3000 to $3300 the maximum income in excess of which no pension shall be paid.
+    1975—Subsec. (b). [Pub. L. 94–169][/us/pl/94/169], § 102(1), increased, effective for period beginning Jan. 1, 1976, and ending Sept. 30, 1976, monthly rate of pension from $160 to $173, substituted $500 to $700 for $500 to $900, $700 to $1200 for $900 to $1500, $1200 to $1700 for $1500 to $1900, $1700 to $2000 for $1900 to $2300, $2000 to $3300 for $2300 to $3000 the minimum and maximum income ranges for which the pension rate will be reduced by 4, 5, 6, 7 and 8 cents per dollar, respectively, and increased from $3000 to $3300 the maximum income in excess of which no pension shall be paid.
 
-    Subsec. (c). [Pub. L. 94–169, § 102(1)][/us/pl/94/169/s102/1], increased, effective for period beginning Jan. 1, 1976, and ending Sept. 30, 1976, from $172 to $186, from $177 to $191 and from $182 to $196 the rate of pension of a veteran with 1, 2 and 3 dependents, respectively, substituted $700 to $1300 for $700 to $1800, $1300 to $2800 for $1800 to $3000, $2800 to $3200 for $3000 to $3500, $3200 to $3800 for $3500 to $3800, and $3800 to $4500 for $4000 to $4200 the minimum and maximum income ranges for which the pension rate will be reduced by 3, 4, 5, 6 and 8 cents per dollar, respectively, struck out the income range of $3800 to $4000 for which the reduction rate is 7 cents per dollar, increased from $4200 to $4500 the income in excess of which no pension shall be paid, and inserted provision that in no case may the amount of pension be less than $5 monthly.
+    Subsec. (c). [Pub. L. 94–169][/us/pl/94/169], § 102(1), increased, effective for period beginning Jan. 1, 1976, and ending Sept. 30, 1976, from $172 to $186, from $177 to $191 and from $182 to $196 the rate of pension of a veteran with 1, 2 and 3 dependents, respectively, substituted $700 to $1300 for $700 to $1800, $1300 to $2800 for $1800 to $3000, $2800 to $3200 for $3000 to $3500, $3200 to $3800 for $3500 to $3800, and $3800 to $4500 for $4000 to $4200 the minimum and maximum income ranges for which the pension rate will be reduced by 3, 4, 5, 6 and 8 cents per dollar, respectively, struck out the income range of $3800 to $4000 for which the reduction rate is 7 cents per dollar, increased from $4200 to $4500 the income in excess of which no pension shall be paid, and inserted provision that in no case may the amount of pension be less than $5 monthly.
 
-    Subsec. (d). [Pub. L. 94–169, § 102(2)][/us/pl/94/169/s102/2], substituted, effective for period beginning Jan. 1, 1976, and ending Sept. 30, 1976, “such veteran” for “him” and “$133” for “$123”.
+    Subsec. (d). [Pub. L. 94–169][/us/pl/94/169], § 102(2), substituted, effective for period beginning Jan. 1, 1976, and ending Sept. 30, 1976, “such veteran” for “him” and “$133” for “$123”.
 
-    Subsec. (e). [Pub. L. 94–169, § 102(3)][/us/pl/94/169/s102/3], substituted, effective for period beginning Jan. 1, 1976, and ending Sept. 30, 1976, “such veteran’s” for “his”, “such veteran” for “him” and “$53” for “$49”.
+    Subsec. (e). [Pub. L. 94–169][/us/pl/94/169], § 102(3), substituted, effective for period beginning Jan. 1, 1976, and ending Sept. 30, 1976, “such veteran’s” for “his”, “such veteran” for “him” and “$53” for “$49”.
 
-    Subsec. (g). [Pub. L. 94–169, § 106(18)][/us/pl/94/169/s106/18], substituted “such veteran” for “he”.
+    Subsec. (g). [Pub. L. 94–169][/us/pl/94/169], § 106(18), substituted “such veteran” for “he”.
 
-    1974—Subsec. (b). [Pub. L. 93–527, § 2(1)][/us/pl/93/527/s2/1], substituted “$160” for “$143”, “$500” for “$800” wherever appearing, “$900” for “$1300” wherever appearing, “$1500” for “$1600” wherever appearing, “$1900” for “$2200” wherever appearing, “$2300” for “$2500” wherever appearing, and “$3000” for “$2600” wherever appearing, and inserted provision that in no event should monthly rate of pension be less than $5.00.
+    1974—Subsec. (b). [Pub. L. 93–527][/us/pl/93/527], § 2(1), substituted “$160” for “$143”, “$500” for “$800” wherever appearing, “$900” for “$1300” wherever appearing, “$1500” for “$1600” wherever appearing, “$1900” for “$2200” wherever appearing, “$2300” for “$2500” wherever appearing, and “$3000” for “$2600” wherever appearing, and inserted provision that in no event should monthly rate of pension be less than $5.00.
 
-    Subsec. (c). [Pub. L. 93–527, § 2(2)][/us/pl/93/527/s2/2], substituted “$172” for “$154”, “$177” for “$159”, “$182” for “$164”, “$700” for “$800” wherever appearing, “$1800” for “$2600” wherever appearing, “$3000” for “$3200” wherever appearing, “$3500” for “$3700” wherever appearing, and inserted provisions for the reduction by 7 cents for each dollar of annual income in excess of $3800 up to and including $4000, and reduction by 8 cents for each dollar of annual income in excess of $4000 up to and including $4200, and raised maximum income from $3800 to $4200.
+    Subsec. (c). [Pub. L. 93–527][/us/pl/93/527], § 2(2), substituted “$172” for “$154”, “$177” for “$159”, “$182” for “$164”, “$700” for “$800” wherever appearing, “$1800” for “$2600” wherever appearing, “$3000” for “$3200” wherever appearing, “$3500” for “$3700” wherever appearing, and inserted provisions for the reduction by 7 cents for each dollar of annual income in excess of $3800 up to and including $4000, and reduction by 8 cents for each dollar of annual income in excess of $4000 up to and including $4200, and raised maximum income from $3800 to $4200.
 
-    Subsec. (d). [Pub. L. 93–527, § 2(3)][/us/pl/93/527/s2/3], substituted “$123” for “$110”.
+    Subsec. (d). [Pub. L. 93–527][/us/pl/93/527], § 2(3), substituted “$123” for “$110”.
 
-    Subsec. (e). [Pub. L. 93–527, § 2(4)][/us/pl/93/527/s2/4], substituted “$49” for “$44”.
+    Subsec. (e). [Pub. L. 93–527][/us/pl/93/527], § 2(4), substituted “$49” for “$44”.
 
-    1973—Subsec. (b). [Pub. L. 93–177, § 1(a)][/us/pl/93/177/s1/a], substituted “$143” for “$130”, “$800” for “$1,000”, “$1,300” for “$1,500”, “$1,600” for “$1,800”, and “$2,500” for “$2,600” in existing provisions and inserted provision for a reduction of 8 cents in monthly rate for each $1 of annual income in excess of $2,500 up to and including $2,600.
+    1973—Subsec. (b). [Pub. L. 93–177][/us/pl/93/177], § 1(a), substituted “$143” for “$130”, “$800” for “$1,000”, “$1,300” for “$1,500”, “$1,600” for “$1,800”, and “$2,500” for “$2,600” in existing provisions and inserted provision for a reduction of 8 cents in monthly rate for each $1 of annual income in excess of $2,500 up to and including $2,600.
 
-    Subsec. (c). [Pub. L. 93–177, § 1(b)][/us/pl/93/177/s1/b], substituted “$154” for “$140”, “$159” for “$145”, “$164” for “$150”, “$800” for “$900”, “$2,600” for “$3,200”, and “$3,700” for “$3,800” in existing provisions and inserted provisions for a reduction of 4 cents in monthly rate for each $1 of annual income in excess of $2,600 up to and including $3,200 and for a reduction of 6 cents in monthly rate for each $1 of annual income in excess of $3,700 up to and including $3,800.
+    Subsec. (c). [Pub. L. 93–177][/us/pl/93/177], § 1(b), substituted “$154” for “$140”, “$159” for “$145”, “$164” for “$150”, “$800” for “$900”, “$2,600” for “$3,200”, and “$3,700” for “$3,800” in existing provisions and inserted provisions for a reduction of 4 cents in monthly rate for each $1 of annual income in excess of $2,600 up to and including $3,200 and for a reduction of 6 cents in monthly rate for each $1 of annual income in excess of $3,700 up to and including $3,800.
 
-    1971—Subsec. (b). [Pub. L. 92–198, § 1(a)][/us/pl/92/198/s1/a], substituted formula for computing monthly pension rates of single veteran providing for a maximum monthly pension for each group within designated income category and for computing each individual’s monthly benefit rate by reducing the maximum rate by a specified number of cents for each dollar by which the minimum income limitation for that group is exceeded, for table setting out the income and pension rates, and raised the maximum income from $2300 to $2600.
+    1971—Subsec. (b). [Pub. L. 92–198][/us/pl/92/198], § 1(a), substituted formula for computing monthly pension rates of single veteran providing for a maximum monthly pension for each group within designated income category and for computing each individual’s monthly benefit rate by reducing the maximum rate by a specified number of cents for each dollar by which the minimum income limitation for that group is exceeded, for table setting out the income and pension rates, and raised the maximum income from $2300 to $2600.
 
-    Subsec. (c). [Pub. L. 92–198, § 1(b)][/us/pl/92/198/s1/b], substituted formula for computing monthly pension rates of veteran with dependents by providing for maximum monthly pension for each group within designated income category depending on the number of dependents and for computing each individual’s monthly benefit rate by reducing the maximum rate by a specified number of cents for each dollar by which the minimum income limitation for that group is exceeded, for table setting out the income and pension rates, and raised the maximum income limit from $3500 to $3800.
+    Subsec. (c). [Pub. L. 92–198][/us/pl/92/198], § 1(b), substituted formula for computing monthly pension rates of veteran with dependents by providing for maximum monthly pension for each group within designated income category depending on the number of dependents and for computing each individual’s monthly benefit rate by reducing the maximum rate by a specified number of cents for each dollar by which the minimum income limitation for that group is exceeded, for table setting out the income and pension rates, and raised the maximum income limit from $3500 to $3800.
 
-    Subsec. (g)(3). [Pub. L. 92–198, § 5(b)][/us/pl/92/198/s5/b], inserted reference to Mexican border period.
+    Subsec. (g)(3). [Pub. L. 92–198][/us/pl/92/198], § 5(b), inserted reference to Mexican border period.
 
-    1970—[Pub. L. 91–588, § 9(c)(3)][/us/pl/91/588/s9/c/3], inserted reference to Mexican border period in section catchline.
+    1970—[Pub. L. 91–588][/us/pl/91/588], § 9(c)(3), inserted reference to Mexican border period in section catchline.
 
-    Subsec. (a). [Pub. L. 91–588, § 9(c)(1)][/us/pl/91/588/s9/c/1], inserted reference to Mexican border period.
+    Subsec. (a). [Pub. L. 91–588][/us/pl/91/588], § 9(c)(1), inserted reference to Mexican border period.
 
-    Subsec. (b). [Pub. L. 91–588, § 1(a)][/us/pl/91/588/s1/a], provided new annual income limits to measure monthly pension rates of single veteran by adding minimum income limits of $2,000, $2,100 and $2,200 with maximum limits of $2,100, $2,200 and $2,300 for monthly benefits of $45, $37 and $29, respectively, and within existing annual income limits from a maximum of $300 to a maximum of $2,000, as well as the in-between limits set out in one-hundred dollar increments, the applicable monthly benefit for each limit was amended, respectively by substituting in column II “121” for “$110”, “119” for “108”, “117” for “106”, “115” for “104”, “112” for “100”, “108” for “96”, “104” for “92”, “100” for “88”, “96” for “84”, “92” for “79”, “88” for “75”, “84” for “69” “79” for “63” “75” for “57”, “69” for “51”, “63” for “45”, “57” for “37”, and “51” for “29”.
+    Subsec. (b). [Pub. L. 91–588][/us/pl/91/588], § 1(a), provided new annual income limits to measure monthly pension rates of single veteran by adding minimum income limits of $2,000, $2,100 and $2,200 with maximum limits of $2,100, $2,200 and $2,300 for monthly benefits of $45, $37 and $29, respectively, and within existing annual income limits from a maximum of $300 to a maximum of $2,000, as well as the in-between limits set out in one-hundred dollar increments, the applicable monthly benefit for each limit was amended, respectively by substituting in column II “121” for “$110”, “119” for “108”, “117” for “106”, “115” for “104”, “112” for “100”, “108” for “96”, “104” for “92”, “100” for “88”, “96” for “84”, “92” for “79”, “88” for “75”, “84” for “69” “79” for “63” “75” for “57”, “69” for “51”, “63” for “45”, “57” for “37”, and “51” for “29”.
 
-    Subsec. (c). [Pub. L. 91–588, § 1(b)][/us/pl/91/588/s1/b], provided new annual income limits to measure monthly pension rates of veteran with dependents by adding minimum income limits of $3,200, $3,300, and $3,400 with maximum limits of $3,300, $3,400, and $3,500 for monthly benefits of $50, and within existing annual income limits from a maximum of $500 to a maximum of $3,200, as well as in-between limits set out in one-hundred dollar increments, the applicable monthly benefits for each limit was amended, respectively, by substituting in column II (one dependent) “$132” for “$120”, “130” for “118”, “128” for “116”, “126” for “114”, “124” for “112”, “122” for “109”, in column III (two dependents) “$137” for “$125”, “135” for “123, “133” for “121”, “131” for “119”, “129” for “117”, “127” for “114”, in column IV (three or more dependents) “$142” for “$130”, “140” for “128”, “138” for “126”, “136” for “124”, “134” for “122”, “132” for “119”, and in columns II, III, and IV (for any number of dependents) “119” for “107”, “116” for “105”, “113” for “103”, “110” for “101”, “107” for “99”, “104” for “96”, “101” for “93” “99” for “90”, “96” for “87”, “93” for “84”, “90” for “81”, “87” for “78”, “84” for “75”, “81” for “72”, “78” for “69”, “75” for “66”, “72” for “62”, “69” for “58”, “66” for “54”, “62” for “50”, “58” for “42”, and “54” for “34”.
+    Subsec. (c). [Pub. L. 91–588][/us/pl/91/588], § 1(b), provided new annual income limits to measure monthly pension rates of veteran with dependents by adding minimum income limits of $3,200, $3,300, and $3,400 with maximum limits of $3,300, $3,400, and $3,500 for monthly benefits of $50, and within existing annual income limits from a maximum of $500 to a maximum of $3,200, as well as in-between limits set out in one-hundred dollar increments, the applicable monthly benefits for each limit was amended, respectively, by substituting in column II (one dependent) “$132” for “$120”, “130” for “118”, “128” for “116”, “126” for “114”, “124” for “112”, “122” for “109”, in column III (two dependents) “$137” for “$125”, “135” for “123, “133” for “121”, “131” for “119”, “129” for “117”, “127” for “114”, in column IV (three or more dependents) “$142” for “$130”, “140” for “128”, “138” for “126”, “136” for “124”, “134” for “122”, “132” for “119”, and in columns II, III, and IV (for any number of dependents) “119” for “107”, “116” for “105”, “113” for “103”, “110” for “101”, “107” for “99”, “104” for “96”, “101” for “93” “99” for “90”, “96” for “87”, “93” for “84”, “90” for “81”, “87” for “78”, “84” for “75”, “81” for “72”, “78” for “69”, “75” for “66”, “72” for “62”, “69” for “58”, “66” for “54”, “62” for “50”, “58” for “42”, and “54” for “34”.
 
-    Subsec. (d). [Pub. L. 91–588, § 3(b)(1)][/us/pl/91/588/s3/b/1], substituted “$110” for “$100”.
+    Subsec. (d). [Pub. L. 91–588][/us/pl/91/588], § 3(b)(1), substituted “$110” for “$100”.
 
-    Subsec. (e). [Pub. L. 91–588, § 3(b)(2)][/us/pl/91/588/s3/b/2], substituted “44” for “$40”.
+    Subsec. (e). [Pub. L. 91–588][/us/pl/91/588], § 3(b)(2), substituted “44” for “$40”.
 
-    Subsec. (g)(1), (2). [Pub. L. 91–588, § 9(c)(2)][/us/pl/91/588/s9/c/2], inserted reference to Mexican border period.
+    Subsec. (g)(1), (2). [Pub. L. 91–588][/us/pl/91/588], § 9(c)(2), inserted reference to Mexican border period.
 
-    1968—Subsec. (b). [Pub. L. 90–275, § 1(a)][/us/pl/90/275/s1/a], in providing new annual income limits to measure monthly pension rates of single veteran, substituted minimum income limit of $300 for monthly benefit of $110 for former $600 limit for monthly benefit of $104, maximum income limit of $2,000 for monthly benefit of $29 for former $1,800 limit for monthly benefit of $45, and sixteen other in-between limits in one hundred dollar increments from more than $300 to less than $1,900 for monthly benefits of $108–37 for former in-between limit of more than $600 but less than $1,200 for monthly benefit of $79.
+    1968—Subsec. (b). [Pub. L. 90–275][/us/pl/90/275], § 1(a), in providing new annual income limits to measure monthly pension rates of single veteran, substituted minimum income limit of $300 for monthly benefit of $110 for former $600 limit for monthly benefit of $104, maximum income limit of $2,000 for monthly benefit of $29 for former $1,800 limit for monthly benefit of $45, and sixteen other in-between limits in one hundred dollar increments from more than $300 to less than $1,900 for monthly benefits of $108–37 for former in-between limit of more than $600 but less than $1,200 for monthly benefit of $79.
 
-    Subsec. (c). [Pub. L. 90–275, § 1(b)][/us/pl/90/275/s1/b], in providing new annual income limits to measure monthly pension rates of veteran with dependents, substituted minimum income limit of $500 for monthly benefit of $120 (one dependent), $125 (two dependents), and $130 (three or more dependents) for former $1,000 limit for monthly benefit of $109 (one dependent), $114 (two dependents), and $119 (three or more dependents), maximum income limit of $3,200 for monthly benefit of $34 (for any number of dependents) for former $3,000 limit for monthly benefit of $50 (for any number of dependents), and twenty-six other in-between limits in one hundred dollar increments from more than $500 to less than $3,100 for monthly benefits of $118 to 42 (one dependent), $123 to 42 (two dependents), and $128 to 42 (three or more dependents) for former in-between limit of more than $1,000 but less than $2,000 for monthly benefit of $84 (for any number of dependents).
+    Subsec. (c). [Pub. L. 90–275][/us/pl/90/275], § 1(b), in providing new annual income limits to measure monthly pension rates of veteran with dependents, substituted minimum income limit of $500 for monthly benefit of $120 (one dependent), $125 (two dependents), and $130 (three or more dependents) for former $1,000 limit for monthly benefit of $109 (one dependent), $114 (two dependents), and $119 (three or more dependents), maximum income limit of $3,200 for monthly benefit of $34 (for any number of dependents) for former $3,000 limit for monthly benefit of $50 (for any number of dependents), and twenty-six other in-between limits in one hundred dollar increments from more than $500 to less than $3,100 for monthly benefits of $118 to 42 (one dependent), $123 to 42 (two dependents), and $128 to 42 (three or more dependents) for former in-between limit of more than $1,000 but less than $2,000 for monthly benefit of $84 (for any number of dependents).
 
-    1967—[Pub. L. 90–77, § 202(c)][/us/pl/90/77/s202/c], inserted reference to Vietnam era in section catchline.
+    1967—[Pub. L. 90–77][/us/pl/90/77], § 202(c), inserted reference to Vietnam era in section catchline.
 
-    Subsec. (a). [Pub. L. 90–77, § 202(a)][/us/pl/90/77/s202/a], inserted reference to Vietnam era.
+    Subsec. (a). [Pub. L. 90–77][/us/pl/90/77], § 202(a), inserted reference to Vietnam era.
 
-    Subsec. (b). [Pub. L. 90–77, § 104(a)][/us/pl/90/77/s104/a], increased monthly pension rate in column II from $100, $75, and $43 to $104, $79,and $45 respectively.
+    Subsec. (b). [Pub. L. 90–77][/us/pl/90/77], § 104(a), increased monthly pension rate in column II from $100, $75, and $43 to $104, $79,and $45 respectively.
 
-    Subsec. (c). [Pub. L. 90–77, § 104(b)][/us/pl/90/77/s104/b], increased monthly pension rate in column II from $105, $80, and $48 to $109, $84, and $50; column III from $110, $80, and $48 to $114, $84, and $50; and column IV from $115, $80, and $48 to $119, $84, and $50, respectively.
+    Subsec. (c). [Pub. L. 90–77][/us/pl/90/77], § 104(b), increased monthly pension rate in column II from $105, $80, and $48 to $109, $84, and $50; column III from $110, $80, and $48 to $114, $84, and $50; and column IV from $115, $80, and $48 to $119, $84, and $50, respectively.
 
-    Subsec. (e). [Pub. L. 90–77, § 104(c)][/us/pl/90/77/s104/c], substituted “$40” for “$35”.
+    Subsec. (e). [Pub. L. 90–77][/us/pl/90/77], § 104(c), substituted “$40” for “$35”.
 
-    Subsec. (g). [Pub. L. 90–77, § 202(b)][/us/pl/90/77/s202/b], inserted references to Vietnam era in pars. (1) to (3).
+    Subsec. (g). [Pub. L. 90–77][/us/pl/90/77], § 202(b), inserted references to Vietnam era in pars. (1) to (3).
 
-    1964—Subsec. (b). [Pub. L. 88–664, § 3(a)][/us/pl/88/664/s3/a], increased monthly pension rate in column II from $85, $70, and $40 to $100, $75, and $43, respectively.
+    1964—Subsec. (b). [Pub. L. 88–664][/us/pl/88/664], § 3(a), increased monthly pension rate in column II from $85, $70, and $40 to $100, $75, and $43, respectively.
 
-    Subsec. (c). [Pub. L. 88–664, § 3(b)][/us/pl/88/664/s3/b], increased monthly pension rate in column II from $90, $75, and $45 to $105, $80, and $48; column III from $95, $75, and $45 to $110, $80, and $48; and column IV from $100, $75, and $45 to $115, $80, and $48, respectively.
+    Subsec. (c). [Pub. L. 88–664][/us/pl/88/664], § 3(b), increased monthly pension rate in column II from $90, $75, and $45 to $105, $80, and $48; column III from $95, $75, and $45 to $110, $80, and $48; and column IV from $100, $75, and $45 to $115, $80, and $48, respectively.
 
-    Subsec. (d). [Pub. L. 88–664, § 5][/us/pl/88/664/s5], increased additional monthly rate of veterans in need of aid and attendance from $70 to $100.
+    Subsec. (d). [Pub. L. 88–664][/us/pl/88/664], § 5, increased additional monthly rate of veterans in need of aid and attendance from $70 to $100.
 
     Subsecs. (e), (f). [Pub. L. 88–664][/us/pl/88/664], §§ 6(a), 7, added subsec. (e), redesignated former subsec. (e) as (f) and substituted “in excess of whichever is the greater, $1,200 or the total earned income of the spouse,” for “except $1,200 of such income” in par. (1). Former subsec. (f) redesignated (g).
 
-    Subsec. (g). [Pub. L. 88–664, § 6(a)][/us/pl/88/664/s6/a], redesignated former subsec. (f) as (g).
+    Subsec. (g). [Pub. L. 88–664][/us/pl/88/664], § 6(a), redesignated former subsec. (f) as (g).
 
     1961—Subsec. (f)(4). [Pub. L. 87–101][/us/pl/87/101] added par. (4).
 
-    1959—Subsec. (a). [Pub. L. 86–211, § 3(a)(2)][/us/pl/86/211/s3/a/2], struck out provisions that prescribed amount of monthly pension payable. See subsecs. (b) to (d) of this section.
+    1959—Subsec. (a). [Pub. L. 86–211][/us/pl/86/211], § 3(a)(2), struck out provisions that prescribed amount of monthly pension payable. See subsecs. (b) to (d) of this section.
 
-    Subsecs. (b) to (e). [Pub. L. 86–211, § 3(a)(3)][/us/pl/86/211/s3/a/3], added subsecs. (b) to (e). Former subsec. (b) redesignated (f).
+    Subsecs. (b) to (e). [Pub. L. 86–211][/us/pl/86/211], § 3(a)(3), added subsecs. (b) to (e). Former subsec. (b) redesignated (f).
 
-    Subsec. (f). [Pub. L. 86–211, § 3(a)(1)][/us/pl/86/211/s3/a/1], redesignated former subsec. (b) as (f).
+    Subsec. (f). [Pub. L. 86–211][/us/pl/86/211], § 3(a)(1), redesignated former subsec. (b) as (f).
 
  __Effective Date of 2012 Amendment__ 
 
-[Pub. L. 112–154, title V, § 508(b)][/us/pl/112/154/s508/b], Aug. 6, 2012, [126 Stat. 1195][/us/stat/126/1195], provided that: 
+[Pub. L. 112–154, title V][/us/pl/112/154/tV], § 508(b), Aug. 6, 2012, [126 Stat. 1195][/us/stat/126/1195], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[Aug. 6, 2012\].”
 
  __Effective Date of 2010 Amendment__ 
 
-[Pub. L. 111–275, title VI, § 608(d)][/us/pl/111/275/s608/d], Oct. 13, 2010, [124 Stat. 2887][/us/stat/124/2887], provided that: 
+[Pub. L. 111–275, title VI][/us/pl/111/275/tVI], § 608(d), Oct. 13, 2010, [124 Stat. 2887][/us/stat/124/2887], provided that: 
 
 > “The amendments made by subsections (a), (b), and (c) \[amending this section and sections 1541 and 1542 of this title\] shall apply with respect to pensions paid on or after December 1, 2009.”
 
@@ -253,7 +253,7 @@
 
  __Effective Date of 1976 Amendment__ 
 
-[Pub. L. 94–432, title IV, § 405][/us/pl/94/432/s405], Sept. 30, 1976, [90 Stat. 1373][/us/stat/90/1373], provided that:
+[Pub. L. 94–432, title IV][/us/pl/94/432/tIV], § 405, Sept. 30, 1976, [90 Stat. 1373][/us/stat/90/1373], provided that:
 
 >     “(a) The provisions of this Act \[see Tables for classification\], other than titles II and III and section 401, shall take effect on the date of the enactment of this Act \[Sept. 30, 1976\].
 
@@ -261,31 +261,31 @@
 
  __Effective Date of 1975 Amendment__ 
 
-    [Pub. L. 94–169, title I, § 102][/us/pl/94/169/s102], Dec. 23, 1975, [89 Stat. 1014][/us/stat/89/1014], as amended by [Pub. L. 94–432, title I, § 101][/us/pl/94/432/s101], Sept. 30, 1976, [90 Stat. 1369][/us/stat/90/1369], effective Sept. 30, 1976, provided that the amendment made by that section is effective Jan. 1, 1976.
+    [Pub. L. 94–169, title I][/us/pl/94/169/tI], § 102, Dec. 23, 1975, [89 Stat. 1014][/us/stat/89/1014], as amended by [Pub. L. 94–432, title I][/us/pl/94/432/tI], § 101, Sept. 30, 1976, [90 Stat. 1369][/us/stat/90/1369], effective Sept. 30, 1976, provided that the amendment made by that section is effective Jan. 1, 1976.
 
-    [Pub. L. 94–169, title I, § 106][/us/pl/94/169/s106], Dec. 23, 1975, [89 Stat. 1017][/us/stat/89/1017], provided that the amendment made by that section is effective Jan. 1, 1976.
+    [Pub. L. 94–169, title I][/us/pl/94/169/tI], § 106, Dec. 23, 1975, [89 Stat. 1017][/us/stat/89/1017], provided that the amendment made by that section is effective Jan. 1, 1976.
 
  __Effective Date of 1974 Amendment__ 
 
-[Pub. L. 93–527, § 10][/us/pl/93/527/s10], Dec. 21, 1974, [88 Stat. 1705][/us/stat/88/1705], provided that: 
+[Pub. L. 93–527][/us/pl/93/527], § 10, Dec. 21, 1974, [88 Stat. 1705][/us/stat/88/1705], provided that: 
 
 > “This Act \[see Tables for classification\] shall take effect on January 1, 1975.”
 
  __Effective Date of 1973 Amendment__ 
 
-[Pub. L. 93–177, § 8][/us/pl/93/177/s8], Dec. 6, 1973, [87 Stat. 697][/us/stat/87/697], provided that: 
+[Pub. L. 93–177][/us/pl/93/177], § 8, Dec. 6, 1973, [87 Stat. 697][/us/stat/87/697], provided that: 
 
 > “This Act \[see Tables for classification\] shall take effect on January 1, 1974.”
 
  __Effective Date of 1971 Amendment__ 
 
-[Pub. L. 92–198, § 6][/us/pl/92/198/s6], Dec. 15, 1971, [85 Stat. 664][/us/stat/85/664], provided that: 
+[Pub. L. 92–198][/us/pl/92/198], § 6, Dec. 15, 1971, [85 Stat. 664][/us/stat/85/664], provided that: 
 
 > “This Act \[see Tables for classification\] shall take effect on January 1, 1972.”
 
  __Effective Date of 1970 Amendment__ 
 
-[Pub. L. 91–588, § 10][/us/pl/91/588/s10], Dec. 24, 1970, [84 Stat. 1585][/us/stat/84/1585], provided that:
+[Pub. L. 91–588][/us/pl/91/588], § 10, Dec. 24, 1970, [84 Stat. 1585][/us/stat/84/1585], provided that:
 
 >     “(a) Sections 1, 2(a), (b), and (c), 3, 4, 5, 6, 7, 8, and 9 \[see Tables for classification\] shall take effect on January 1, 1971.
 
@@ -295,7 +295,7 @@
 
  __Effective Date of 1968 Amendment__ 
 
-[Pub. L. 90–275, § 6][/us/pl/90/275/s6], Mar. 28, 1968, [82 Stat. 68][/us/stat/82/68], provided that:
+[Pub. L. 90–275][/us/pl/90/275], § 6, Mar. 28, 1968, [82 Stat. 68][/us/stat/82/68], provided that:
 
 >     “(a) The first section and sections 2 and 4 of this Act \[amending this section and sections 415 and 541 \[now 1315 and 1541\] of this title and enacting provisions set out below\] shall take effect on January 1, 1969.
 
@@ -311,7 +311,7 @@
 
  __Effective Date of 1961 Amendment__ 
 
-[Pub. L. 87–101, § 2][/us/pl/87/101/s2], July 21, 1961, [75 Stat. 219][/us/stat/75/219], provided that: 
+[Pub. L. 87–101][/us/pl/87/101], § 2, July 21, 1961, [75 Stat. 219][/us/stat/75/219], provided that: 
 
 > “Pension shall not be paid for any period prior to the effective date of this Act \[July 21, 1961\] to any person whose eligibility for pension is established solely by virtue of this Act \[amending this section\].”
 
@@ -321,7 +321,7 @@
 
  __Savings Provision for Persons Entitled to Pension as of__  __December 31, 1978__  __; Other Provisions__ 
 
-[Pub. L. 95–588, title III, § 306][/us/pl/95/588/s306], Nov. 4, 1978, [92 Stat. 2508][/us/stat/92/2508], as amended by [Pub. L. 102–40, title IV, § 402(d)(2)][/us/pl/102/40/s402/d/2], May 7, 1991, [105 Stat. 239][/us/stat/105/239]; [Pub. L. 102–83][/us/pl/102/83], §§ 5(c)(2), 6(c), Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406], 407, provided that:
+[Pub. L. 95–588, title III][/us/pl/95/588/tIII], § 306, Nov. 4, 1978, [92 Stat. 2508][/us/stat/92/2508], as amended by [Pub. L. 102–40, title IV][/us/pl/102/40/tIV], § 402(d)(2), May 7, 1991, [105 Stat. 239][/us/stat/105/239]; [Pub. L. 102–83][/us/pl/102/83], §§ 5(c)(2), 6(c), Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406], 407, provided that:
 
 >     “(a)
 
@@ -353,15 +353,15 @@
 
 >     “(b)
 
->         (1) __\[Subsec. (b)(1) which provided for the repeal, effective__  __Jan. 1, 1979__  __, of section 9 of the Veterans’ Pension Act of 1959,__  __[__  __Pub. L. 86–211, § 9__  __][/us/pl/86/211/s9]__  __,__  __Aug. 29, 1959__  __,__  __[__  __73 Stat. 436__  __][/us/stat/73/436]__  __, has been executed to note set out under this section.\]__ 
+>         (1) __\[Subsec. (b)(1) which provided for the repeal, effective__  __Jan. 1, 1979__  __, of section 9 of the Veterans’ Pension Act of 1959,__  __[__  __Pub. L. 86–211__  __][/us/pl/86/211]__  __, § 9,__  __Aug. 29, 1959__  __,__  __[__  __73 Stat. 436__  __][/us/stat/73/436]__  __, has been executed to note set out under this section.\]__ 
 
 >         “(2)
 
->             (A) Except as provided in subparagraph (B), any person who as of December 31, 1978, is entitled to receive pension under section 9(b) of the Veterans’ Pension Act of 1959 [Pub. L. 86–211, § 9][/us/pl/86/211/s9], Aug. 29, 1959, [73 Stat. 436][/us/stat/73/436] \[formerly set out as a note under this section\] may elect to receive pension under section 1521, 1541, or 1542 \[formerly 521, 541, or 542\] of title 38, United States Code, as in effect after such date, subject to the terms and conditions in effect with respect to the receipt of such pension. Any such election shall be made in such form and manner as the Secretary may prescribe. If pension is paid pursuant to such an election, the election shall be irrevocable.
+>             (A) Except as provided in subparagraph (B), any person who as of December 31, 1978, is entitled to receive pension under section 9(b) of the Veterans’ Pension Act of 1959 [Pub. L. 86–211][/us/pl/86/211], § 9, Aug. 29, 1959, [73 Stat. 436][/us/stat/73/436] \[formerly set out as a note under this section\] may elect to receive pension under section 1521, 1541, or 1542 \[formerly 521, 541, or 542\] of title 38, United States Code, as in effect after such date, subject to the terms and conditions in effect with respect to the receipt of such pension. Any such election shall be made in such form and manner as the Secretary may prescribe. If pension is paid pursuant to such an election, the election shall be irrevocable.
 
 >             “(B) Any veteran eligible to make an election under subparagraph (A) who is married to another veteran who is also eligible to make such an election may not make such an election unless both such veterans make such an election.
 
->         “(3) Any person eligible to make an election under paragraph (2) who does not make such an election shall continue to receive pension at the monthly rate being paid to such person on December 31, 1978, subject to all provisions of law applicable to basic eligibility for and payment of pension under section 9(b) of the Veterans’ Pension Act of 1959 [Pub. L. 86–211, § 9(b)][/us/pl/86/211/s9/b], Aug. 29, 1959, [73 Stat. 436][/us/stat/73/436] \[formerly set out below\], as in effect on December 31, 1978, except that pension may not be paid to such person if such person’s annual income (determined in accordance with the applicable provisions of law, as in effect on December 31, 1978) exceeds $3,534, in the case of a veteran or surviving spouse without dependents or in the case of a child, or $5,098, in the case of a veteran or surviving spouse with one or more dependents, as each such amount is increased from time to time under paragraph (4).
+>         “(3) Any person eligible to make an election under paragraph (2) who does not make such an election shall continue to receive pension at the monthly rate being paid to such person on December 31, 1978, subject to all provisions of law applicable to basic eligibility for and payment of pension under section 9(b) of the Veterans’ Pension Act of 1959 [Pub. L. 86–211][/us/pl/86/211], § 9(b), Aug. 29, 1959, [73 Stat. 436][/us/stat/73/436] \[formerly set out below\], as in effect on December 31, 1978, except that pension may not be paid to such person if such person’s annual income (determined in accordance with the applicable provisions of law, as in effect on December 31, 1978) exceeds $3,534, in the case of a veteran or surviving spouse without dependents or in the case of a child, or $5,098, in the case of a veteran or surviving spouse with one or more dependents, as each such amount is increased from time to time under paragraph (4).
 
 >         “(4) Whenever there is an increase under section 5312 \[formerly 3112\] of title 38, United States Code (as added by section 304 of this Act), in the maximum annual rates of pension under sections 1521, 1541, and 1542 \[formerly 521, 541, and 542\] of such title, as in effect after December 31, 1978, the Secretary shall, effective on the date of such increase under such section 5312 \[formerly 3112\], increase the annual income limitations in effect under paragraph (3) by the same percentage as the percentage by which the maximum annual rates under such sections 1521, 1542, and 1543 \[formerly 521, 542, and 543\] are increased.
 
@@ -383,11 +383,11 @@
 
  __Savings Provision__ 
 
-    [Pub. L. 86–211, § 9][/us/pl/86/211/s9], Aug. 29, 1959, [73 Stat. 436][/us/stat/73/436], which provided (1) that any claim for pension which was pending on June 30, 1960, or any claim for death pension filed thereafter within one year from the date of death of a veteran which occurred prior to July 1, 1960, would be adjudicated under this title in effect on June 30, 1960, with respect to the period before July 1, 1960, and, except as provided below, under this title, as amended by [Pub. L. 86–211][/us/pl/86/211], thereafter; (2) that nothing in [Pub. L. 86–211][/us/pl/86/211] would affect the eligibility of any person receiving pension under this title on June 30, 1960, for pension under all applicable provisions of this title in effect on that date for such period or periods thereafter with respect to which he could qualify under such provisions and that this provision would not apply in any case for any period after pension was granted, pursuant to application, under this title as amended by [Pub. L. 86–211][/us/pl/86/211]; and (3) that provision (2) would not apply to those claims within the purview of provision (1) in which it was determined that pension was payable for June 30, 1960, was repealed, effective Jan. 1, 1979, by [section 306(b)(1) of Pub. L. 95–588][/us/pl/95/588/s306/b/1], set out as a note above.
+    [Pub. L. 86–211][/us/pl/86/211], § 9, Aug. 29, 1959, [73 Stat. 436][/us/stat/73/436], which provided (1) that any claim for pension which was pending on June 30, 1960, or any claim for death pension filed thereafter within one year from the date of death of a veteran which occurred prior to July 1, 1960, would be adjudicated under this title in effect on June 30, 1960, with respect to the period before July 1, 1960, and, except as provided below, under this title, as amended by [Pub. L. 86–211][/us/pl/86/211], thereafter; (2) that nothing in [Pub. L. 86–211][/us/pl/86/211] would affect the eligibility of any person receiving pension under this title on June 30, 1960, for pension under all applicable provisions of this title in effect on that date for such period or periods thereafter with respect to which he could qualify under such provisions and that this provision would not apply in any case for any period after pension was granted, pursuant to application, under this title as amended by [Pub. L. 86–211][/us/pl/86/211]; and (3) that provision (2) would not apply to those claims within the purview of provision (1) in which it was determined that pension was payable for June 30, 1960, was repealed, effective Jan. 1, 1979, by [section 306(b)(1) of Pub. L. 95–588][/us/pl/95/588/s306/b/1], set out as a note above.
 
  __Increase in Aid and Attendance Rates for Veterans Eligible for Pension__ 
 
-[Pub. L. 105–178, title VIII, § 8206][/us/pl/105/178/s8206], June 9, 1998, [112 Stat. 494][/us/stat/112/494], provided that: 
+[Pub. L. 105–178, title VIII][/us/pl/105/178/tVIII], § 8206, June 9, 1998, [112 Stat. 494][/us/stat/112/494], provided that: 
 
 > “Effective October 1, 1998, the maximum annual rates of pension in effect as of September 30, 1998, under the following provisions of chapter 15 of title 38, United States Code, are increased by $600:
 
@@ -397,15 +397,15 @@
 
  __Report to Congressional Committees; Medical Examinations of Certain Pension Recipients__ 
 
-    [Pub. L. 98–543, title III, § 302][/us/pl/98/543/s302], Oct. 24, 1984, [98 Stat. 2747][/us/stat/98/2747], directed Administrator of Veterans’ Affairs to report to Committees on Veterans’ Affairs of House of Representatives and Senate not later than 28 months after Oct. 24, 1984, on results of medical examinations conducted on certain individuals awarded pensions under this section as permanently and totally disabled by reason of being 65 years of age or older or becoming unemployable after age 65.
+    [Pub. L. 98–543, title III][/us/pl/98/543/tIII], § 302, Oct. 24, 1984, [98 Stat. 2747][/us/stat/98/2747], directed Administrator of Veterans’ Affairs to report to Committees on Veterans’ Affairs of House of Representatives and Senate not later than 28 months after Oct. 24, 1984, on results of medical examinations conducted on certain individuals awarded pensions under this section as permanently and totally disabled by reason of being 65 years of age or older or becoming unemployable after age 65.
 
  __Study of Pension Benefits Paid to Persons Residing Outside United States; Transmittal of Report and Recommendations to President and Congress__ 
 
-    [Pub. L. 95–588, title III, § 308][/us/pl/95/588/s308], Nov. 4, 1978, [92 Stat. 2510][/us/stat/92/2510], directed Administrator of Veterans’ Affairs, in consultation with Secretary of State, to carry out a comprehensive study of income characteristics of veterans of a period of war, as defined in [section 101(11) of this title][/us/usc/t38/s101/11], and their survivors residing outside the fifty States and the District of Columbia, required submission of a report to Congress and President on results of such study not later than Feb. 1, 1980.
+    [Pub. L. 95–588, title III][/us/pl/95/588/tIII], § 308, Nov. 4, 1978, [92 Stat. 2510][/us/stat/92/2510], directed Administrator of Veterans’ Affairs, in consultation with Secretary of State, to carry out a comprehensive study of income characteristics of veterans of a period of war, as defined in [section 101(11) of this title][/us/usc/t38/s101/11], and their survivors residing outside the fifty States and the District of Columbia, required submission of a report to Congress and President on results of such study not later than Feb. 1, 1980.
 
  __Pension, Dependency, and Indemnity Compensation; Relation to Social Security Amendments of 1967__ 
 
-[Pub. L. 90–275, § 3][/us/pl/90/275/s3], Mar. 28, 1968, [82 Stat. 67][/us/stat/82/67], provided that:
+[Pub. L. 90–275][/us/pl/90/275], § 3, Mar. 28, 1968, [82 Stat. 67][/us/stat/82/67], provided that:
 
 >     “(a)
 
@@ -423,21 +423,21 @@
 
  __Income Restrictions on Pensions; Effective Dates__ 
 
-[Pub. L. 90–275, § 4][/us/pl/90/275/s4], Mar. 28, 1968, [82 Stat. 68][/us/stat/82/68], as amended by [Pub. L. 91–588, § 5][/us/pl/91/588/s5]; [Pub. L. 92–198, § 4][/us/pl/92/198/s4]; [Pub. L. 93–527, § 6][/us/pl/93/527/s6]; [Pub. L. 94–169, § 107][/us/pl/94/169/s107]; [Pub. L. 94–432, § 206][/us/pl/94/432/s206]; [Pub. L. 95–204, § 105][/us/pl/95/204/s105], provided that: 
+[Pub. L. 90–275][/us/pl/90/275], § 4, Mar. 28, 1968, [82 Stat. 68][/us/stat/82/68], as amended by [Pub. L. 91–588][/us/pl/91/588], § 5; [Pub. L. 92–198][/us/pl/92/198], § 4; [Pub. L. 93–527][/us/pl/93/527], § 6; [Pub. L. 94–169][/us/pl/94/169], § 107; [Pub. L. 94–432][/us/pl/94/432], § 206; [Pub. L. 95–204][/us/pl/95/204], § 105, provided that: 
 
 > “The income limitations governing payment of pension under the first sentence of section 9(b) of the Veterans’ Pension Act of 1959 \[formerly set out in a Savings Provision note above\] hereafter shall be $3,300 and $4,760 instead of $3,100 and $4,460, respectively.”
 
-    [Pub. L. 90–275, § 4][/us/pl/90/275/s4], Mar. 28, 1968, [82 Stat. 68][/us/stat/82/68], as originally enacted, was eff. Jan. 1, 1969, pursuant to [Pub. L. 90–275, § 6(a)][/us/pl/90/275/s6/a]. Subsequent amendments to said section 4 by [Pub. L. 91–588][/us/pl/91/588], [Pub. L. 92–198][/us/pl/92/198], and [Pub. L. 94–169][/us/pl/94/169] were effective Jan. 1, 1971, Jan. 1, 1972, and for a period beginning Jan. 1, 1976 and ending Sept. 30, 1976, respectively. [Pub. L. 94–432][/us/pl/94/432], §§ 101, 405(b) amended said [section 4 of Pub. L. 90–275][/us/pl/90/275/s4] and [section 107 of Pub. L. 94–169][/us/pl/94/169/s107] to be effective Jan. 1, 1976 and Jan. 1, 1977, respectively. [Pub. L. 95–204, § 302][/us/pl/95/204/s302] amended said [section 4 of Pub. L. 90–275][/us/pl/90/275/s4] to be effective Jan. 1, 1978.
+    [Pub. L. 90–275][/us/pl/90/275], § 4, Mar. 28, 1968, [82 Stat. 68][/us/stat/82/68], as originally enacted, was eff. Jan. 1, 1969, pursuant to [Pub. L. 90–275][/us/pl/90/275], § 6(a). Subsequent amendments to said section 4 by [Pub. L. 91–588][/us/pl/91/588], [Pub. L. 92–198][/us/pl/92/198], and [Pub. L. 94–169][/us/pl/94/169] were effective Jan. 1, 1971, Jan. 1, 1972, and for a period beginning Jan. 1, 1976 and ending Sept. 30, 1976, respectively. [Pub. L. 94–432][/us/pl/94/432], §§ 101, 405(b) amended said [section 4 of Pub. L. 90–275][/us/pl/90/275/s4] and [section 107 of Pub. L. 94–169][/us/pl/94/169/s107] to be effective Jan. 1, 1976 and Jan. 1, 1977, respectively. [Pub. L. 95–204][/us/pl/95/204], § 302 amended said [section 4 of Pub. L. 90–275][/us/pl/90/275/s4] to be effective Jan. 1, 1978.
 
  __Aid and Attendance Allowance for Widows of Veterans of All Periods of War__ 
 
-[Pub. L. 90–77, title I, § 108(c)][/us/pl/90/77/s108/c], Aug. 31, 1967, [81 Stat. 180][/us/stat/81/180], provided that: 
+[Pub. L. 90–77, title I][/us/pl/90/77/tI], § 108(c), Aug. 31, 1967, [81 Stat. 180][/us/stat/81/180], provided that: 
 
 > “If any widow is entitled to pension under the first sentence of section 9(b) of the Veterans’ Pension Act of 1959 \[formerly set out in a Savings Provision note above\] and is in need of regular aid and attendance, the monthly rate of pension payable to her shall be increased by $50.”
 
  __Pension for Housebound Veterans__ 
 
-[Pub. L. 90–77, title I, § 110][/us/pl/90/77/s110], Aug. 31, 1967, [81 Stat. 180][/us/stat/81/180], provided that: 
+[Pub. L. 90–77, title I][/us/pl/90/77/tI], § 110, Aug. 31, 1967, [81 Stat. 180][/us/stat/81/180], provided that: 
 
 > “The Administrator of Veterans’ Affairs shall pay to a veteran who is entitled to pension under the first sentence of section 9(b) of the Veterans’ Pension Act of 1959 \[formerly set out in a Savings Provision note above\] and who—
 
@@ -449,7 +449,7 @@
 
  __Retirement Income Exclusion__ 
 
-[Pub. L. 88–664, § 10][/us/pl/88/664/s10], Oct. 13, 1964, [78 Stat. 1096][/us/stat/78/1096], provided that: 
+[Pub. L. 88–664][/us/pl/88/664], § 10, Oct. 13, 1964, [78 Stat. 1096][/us/stat/78/1096], provided that: 
 
 > “In computing the income of persons whose pension eligibility is subject to the first sentence of section 9(b) of the Veterans’ Pension Act of 1959 \[formerly set out in a Savings Provision note above\] there shall be excluded 10 per centum of the amount of payments received under public or private retirement, annuity, endowment or similar plans or programs.”
 
@@ -464,62 +464,62 @@
 [/us/usc/t38/s1513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1513
 [/us/pl/85/857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F857
 [/us/stat/72/1136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1136
-[/us/pl/86/211/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F211%2Fs3%2Fa
+[/us/pl/86/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F211
 [/us/stat/73/433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F433
-[/us/pl/87/101/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F101%2Fs1
+[/us/pl/87/101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F101
 [/us/stat/75/218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F218
 [/us/pl/88/664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F664
 [/us/stat/78/1094]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F1094
-[/us/pl/90/77/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F77%2Fs104
+[/us/pl/90/77/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F77%2FtI
 [/us/stat/81/179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F179
-[/us/pl/90/275/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F275%2Fs1%2Fa
+[/us/pl/90/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F275
 [/us/stat/82/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F64
 [/us/pl/91/588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F588
 [/us/stat/84/1580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1580
 [/us/pl/92/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F198
 [/us/stat/85/663]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F663
-[/us/pl/93/177/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F177%2Fs1%2Fa
+[/us/pl/93/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F177
 [/us/stat/87/694]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F694
-[/us/pl/93/527/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F527%2Fs2
+[/us/pl/93/527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F527
 [/us/stat/88/1702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1702
-[/us/pl/94/169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F169
+[/us/pl/94/169/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F169%2FtI
 [/us/stat/89/1014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F1014
-[/us/pl/94/432/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F432%2Fs202
+[/us/pl/94/432/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F432%2FtII
 [/us/stat/90/1369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1369
-[/us/pl/95/204/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F204%2Fs101
+[/us/pl/95/204/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F204%2FtI
 [/us/stat/91/1455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1455
-[/us/pl/95/588/s106/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F588%2Fs106%2Fa
+[/us/pl/95/588/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F588%2FtI
 [/us/stat/92/2500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2500
-[/us/pl/102/40/s402/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs402%2Fd%2F1
+[/us/pl/102/40/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2FtIV
 [/us/stat/105/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F239
 [/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/404-406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F404-406
-[/us/pl/107/103/s207/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F103%2Fs207%2Fb%2F1
+[/us/pl/107/103/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F103%2FtII
 [/us/stat/115/991]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F991
-[/us/pl/111/275/s608/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275%2Fs608%2Fa
+[/us/pl/111/275/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275%2FtVI
 [/us/stat/124/2886]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2886
-[/us/pl/112/154/s508/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154%2Fs508%2Fa
+[/us/pl/112/154/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154%2FtV
 [/us/stat/126/1194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1194
 [/us/usc/t38/s3121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3121
 [/us/pl/112/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154
-[/us/pl/111/275/s608/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275%2Fs608%2Fa%2F1
-[/us/pl/111/275/s608/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275%2Fs608%2Fa%2F2
-[/us/pl/111/275/s608/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275%2Fs608%2Fa%2F3%2FA
-[/us/pl/111/275/s608/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275%2Fs608%2Fa%2F3%2FB
-[/us/pl/111/275/s608/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275%2Fs608%2Fa%2F4
-[/us/pl/111/275/s608/a/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275%2Fs608%2Fa%2F5%2FA
-[/us/pl/111/275/s608/a/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275%2Fs608%2Fa%2F5%2FB
-[/us/pl/111/275/s608/a/5/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275%2Fs608%2Fa%2F5%2FC
-[/us/pl/111/275/s608/a/5/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275%2Fs608%2Fa%2F5%2FD
-[/us/pl/111/275/s608/a/5/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275%2Fs608%2Fa%2F5%2FE
-[/us/pl/111/275/s608/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275%2Fs608%2Fa%2F6
+[/us/pl/111/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275
+[/us/pl/111/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275
+[/us/pl/111/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275
+[/us/pl/111/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275
+[/us/pl/111/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275
+[/us/pl/111/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275
+[/us/pl/111/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275
+[/us/pl/111/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275
+[/us/pl/111/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275
+[/us/pl/111/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275
+[/us/pl/111/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275
 [/us/pl/107/103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F103
 [/us/usc/t38/s1513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1513
-[/us/pl/102/83/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fa
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/usc/t38/s521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs521
-[/us/pl/102/83/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fb%2F1
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40
-[/us/pl/102/83/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fb%2F1
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/pl/95/588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F588
 [/us/usc/t38/s3112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3112
 [/us/pl/95/588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F588
@@ -530,60 +530,60 @@
 [/us/pl/95/588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F588
 [/us/pl/95/588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F588
 [/us/pl/95/588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F588
-[/us/pl/95/204/s101/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F204%2Fs101%2F1
-[/us/pl/95/204/s101/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F204%2Fs101%2F2
-[/us/pl/95/204/s101/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F204%2Fs101%2F3
-[/us/pl/95/204/s101/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F204%2Fs101%2F4
-[/us/pl/95/204/s101/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F204%2Fs101%2F5
-[/us/pl/95/204/s101/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F204%2Fs101%2F6
-[/us/pl/94/432/s202/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F432%2Fs202%2F1
-[/us/pl/94/432/s202/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F432%2Fs202%2F2
-[/us/pl/94/432/s202/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F432%2Fs202%2F3
-[/us/pl/94/432/s202/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F432%2Fs202%2F4
-[/us/pl/94/432/s202/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F432%2Fs202%2F5
-[/us/pl/94/432/s202/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F432%2Fs202%2F6
-[/us/pl/94/432/s202/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F432%2Fs202%2F7
-[/us/pl/94/169/s102/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F169%2Fs102%2F1
-[/us/pl/94/169/s102/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F169%2Fs102%2F1
-[/us/pl/94/169/s102/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F169%2Fs102%2F2
-[/us/pl/94/169/s102/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F169%2Fs102%2F3
-[/us/pl/94/169/s106/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F169%2Fs106%2F18
-[/us/pl/93/527/s2/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F527%2Fs2%2F1
-[/us/pl/93/527/s2/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F527%2Fs2%2F2
-[/us/pl/93/527/s2/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F527%2Fs2%2F3
-[/us/pl/93/527/s2/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F527%2Fs2%2F4
-[/us/pl/93/177/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F177%2Fs1%2Fa
-[/us/pl/93/177/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F177%2Fs1%2Fb
-[/us/pl/92/198/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F198%2Fs1%2Fa
-[/us/pl/92/198/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F198%2Fs1%2Fb
-[/us/pl/92/198/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F198%2Fs5%2Fb
-[/us/pl/91/588/s9/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F588%2Fs9%2Fc%2F3
-[/us/pl/91/588/s9/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F588%2Fs9%2Fc%2F1
-[/us/pl/91/588/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F588%2Fs1%2Fa
-[/us/pl/91/588/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F588%2Fs1%2Fb
-[/us/pl/91/588/s3/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F588%2Fs3%2Fb%2F1
-[/us/pl/91/588/s3/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F588%2Fs3%2Fb%2F2
-[/us/pl/91/588/s9/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F588%2Fs9%2Fc%2F2
-[/us/pl/90/275/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F275%2Fs1%2Fa
-[/us/pl/90/275/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F275%2Fs1%2Fb
-[/us/pl/90/77/s202/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F77%2Fs202%2Fc
-[/us/pl/90/77/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F77%2Fs202%2Fa
-[/us/pl/90/77/s104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F77%2Fs104%2Fa
-[/us/pl/90/77/s104/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F77%2Fs104%2Fb
-[/us/pl/90/77/s104/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F77%2Fs104%2Fc
-[/us/pl/90/77/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F77%2Fs202%2Fb
-[/us/pl/88/664/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F664%2Fs3%2Fa
-[/us/pl/88/664/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F664%2Fs3%2Fb
-[/us/pl/88/664/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F664%2Fs5
+[/us/pl/95/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F204
+[/us/pl/95/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F204
+[/us/pl/95/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F204
+[/us/pl/95/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F204
+[/us/pl/95/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F204
+[/us/pl/95/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F204
+[/us/pl/94/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F432
+[/us/pl/94/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F432
+[/us/pl/94/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F432
+[/us/pl/94/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F432
+[/us/pl/94/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F432
+[/us/pl/94/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F432
+[/us/pl/94/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F432
+[/us/pl/94/169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F169
+[/us/pl/94/169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F169
+[/us/pl/94/169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F169
+[/us/pl/94/169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F169
+[/us/pl/94/169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F169
+[/us/pl/93/527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F527
+[/us/pl/93/527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F527
+[/us/pl/93/527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F527
+[/us/pl/93/527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F527
+[/us/pl/93/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F177
+[/us/pl/93/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F177
+[/us/pl/92/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F198
+[/us/pl/92/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F198
+[/us/pl/92/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F198
+[/us/pl/91/588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F588
+[/us/pl/91/588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F588
+[/us/pl/91/588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F588
+[/us/pl/91/588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F588
+[/us/pl/91/588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F588
+[/us/pl/91/588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F588
+[/us/pl/91/588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F588
+[/us/pl/90/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F275
+[/us/pl/90/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F275
+[/us/pl/90/77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F77
+[/us/pl/90/77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F77
+[/us/pl/90/77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F77
+[/us/pl/90/77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F77
+[/us/pl/90/77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F77
+[/us/pl/90/77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F77
 [/us/pl/88/664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F664
-[/us/pl/88/664/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F664%2Fs6%2Fa
+[/us/pl/88/664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F664
+[/us/pl/88/664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F664
+[/us/pl/88/664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F664
+[/us/pl/88/664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F664
 [/us/pl/87/101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F101
-[/us/pl/86/211/s3/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F211%2Fs3%2Fa%2F2
-[/us/pl/86/211/s3/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F211%2Fs3%2Fa%2F3
-[/us/pl/86/211/s3/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F211%2Fs3%2Fa%2F1
-[/us/pl/112/154/s508/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154%2Fs508%2Fb
+[/us/pl/86/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F211
+[/us/pl/86/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F211
+[/us/pl/86/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F211
+[/us/pl/112/154/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154%2FtV
 [/us/stat/126/1195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1195
-[/us/pl/111/275/s608/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275%2Fs608%2Fd
+[/us/pl/111/275/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275%2FtVI
 [/us/stat/124/2887]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2887
 [/us/pl/107/103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F103
 [/us/pl/107/103/s207/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F103%2Fs207%2Fc
@@ -594,25 +594,25 @@
 [/us/pl/95/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F204
 [/us/pl/95/204/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F204%2Fs302
 [/us/usc/t38/s1122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1122
-[/us/pl/94/432/s405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F432%2Fs405
+[/us/pl/94/432/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F432%2FtIV
 [/us/stat/90/1373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1373
-[/us/pl/94/169/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F169%2Fs102
+[/us/pl/94/169/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F169%2FtI
 [/us/stat/89/1014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F1014
-[/us/pl/94/432/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F432%2Fs101
+[/us/pl/94/432/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F432%2FtI
 [/us/stat/90/1369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1369
-[/us/pl/94/169/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F169%2Fs106
+[/us/pl/94/169/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F169%2FtI
 [/us/stat/89/1017]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F1017
-[/us/pl/93/527/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F527%2Fs10
+[/us/pl/93/527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F527
 [/us/stat/88/1705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1705
-[/us/pl/93/177/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F177%2Fs8
+[/us/pl/93/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F177
 [/us/stat/87/697]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F697
-[/us/pl/92/198/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F198%2Fs6
+[/us/pl/92/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F198
 [/us/stat/85/664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F664
-[/us/pl/91/588/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F588%2Fs10
+[/us/pl/91/588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F588
 [/us/stat/84/1585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1585
 [/us/pl/91/588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F588
 [/us/pl/91/588/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F588%2Fs10
-[/us/pl/90/275/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F275%2Fs6
+[/us/pl/90/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F275
 [/us/stat/82/68]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F68
 [/us/usc/t42/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs302
 [/us/pl/90/77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F77
@@ -622,70 +622,70 @@
 [/us/pl/88/664/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F664%2Fs10
 [/us/pl/88/664/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F664%2Fs11
 [/us/usc/t38/s1503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1503
-[/us/pl/87/101/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F101%2Fs2
+[/us/pl/87/101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F101
 [/us/stat/75/219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F219
 [/us/pl/86/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F211
 [/us/pl/86/211/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F211%2Fs10
 [/us/usc/t38/s1506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1506
-[/us/pl/95/588/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F588%2Fs306
+[/us/pl/95/588/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F588%2FtIII
 [/us/stat/92/2508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2508
-[/us/pl/102/40/s402/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs402%2Fd%2F2
+[/us/pl/102/40/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2FtIV
 [/us/stat/105/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F239
 [/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F406
-[/us/pl/86/211/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F211%2Fs9
+[/us/pl/86/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F211
 [/us/stat/73/436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F436
-[/us/pl/86/211/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F211%2Fs9
+[/us/pl/86/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F211
 [/us/stat/73/436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F436
-[/us/pl/86/211/s9/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F211%2Fs9%2Fb
+[/us/pl/86/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F211
 [/us/stat/73/436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F436
 [/us/pl/86/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F211
 [/us/stat/73/436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F436
 [/us/usc/t42/s415/i/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs415%2Fi%2F2%2FD
-[/us/pl/86/211/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F211%2Fs9
+[/us/pl/86/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F211
 [/us/stat/73/436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F436
 [/us/pl/86/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F211
 [/us/pl/86/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F211
 [/us/pl/86/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F211
 [/us/pl/95/588/s306/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F588%2Fs306%2Fb%2F1
-[/us/pl/105/178/s8206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs8206
+[/us/pl/105/178/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtVIII
 [/us/stat/112/494]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F494
-[/us/pl/98/543/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F543%2Fs302
+[/us/pl/98/543/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F543%2FtIII
 [/us/stat/98/2747]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2747
-[/us/pl/95/588/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F588%2Fs308
+[/us/pl/95/588/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F588%2FtIII
 [/us/stat/92/2510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2510
 [/us/usc/t38/s101/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs101%2F11
-[/us/pl/90/275/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F275%2Fs3
+[/us/pl/90/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F275
 [/us/stat/82/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F67
 [/us/usc/t42/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs302
 [/us/usc/t42/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs302
 [/us/pl/90/275/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F275%2Fs3
 [/us/usc/t42/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs302
 [/us/pl/90/275/s6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F275%2Fs6%2Fb
-[/us/pl/90/275/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F275%2Fs4
+[/us/pl/90/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F275
 [/us/stat/82/68]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F68
-[/us/pl/91/588/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F588%2Fs5
-[/us/pl/92/198/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F198%2Fs4
-[/us/pl/93/527/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F527%2Fs6
-[/us/pl/94/169/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F169%2Fs107
-[/us/pl/94/432/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F432%2Fs206
-[/us/pl/95/204/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F204%2Fs105
-[/us/pl/90/275/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F275%2Fs4
+[/us/pl/91/588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F588
+[/us/pl/92/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F198
+[/us/pl/93/527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F527
+[/us/pl/94/169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F169
+[/us/pl/94/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F432
+[/us/pl/95/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F204
+[/us/pl/90/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F275
 [/us/stat/82/68]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F68
-[/us/pl/90/275/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F275%2Fs6%2Fa
+[/us/pl/90/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F275
 [/us/pl/91/588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F588
 [/us/pl/92/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F198
 [/us/pl/94/169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F169
 [/us/pl/94/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F432
 [/us/pl/90/275/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F275%2Fs4
 [/us/pl/94/169/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F169%2Fs107
-[/us/pl/95/204/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F204%2Fs302
+[/us/pl/95/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F204
 [/us/pl/90/275/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F275%2Fs4
-[/us/pl/90/77/s108/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F77%2Fs108%2Fc
+[/us/pl/90/77/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F77%2FtI
 [/us/stat/81/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F180
-[/us/pl/90/77/s110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F77%2Fs110
+[/us/pl/90/77/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F77%2FtI
 [/us/stat/81/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F180
-[/us/pl/88/664/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F664%2Fs10
+[/us/pl/88/664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F664
 [/us/stat/78/1096]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F1096
 
 

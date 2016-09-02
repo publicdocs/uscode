@@ -17,7 +17,7 @@
 
  __Amendments__ 
 
-    1981—[Pub. L. 97–72, title I, § 107(d)(1)][/us/pl/97/72/s107/d/1], Nov. 3, 1981, [95 Stat. 1053][/us/stat/95/1053], substituted “HOSPITAL CARE AND MEDICAL TREATMENT FOR VETERANS IN THE REPUBLIC OF THE PHILIPPINES” for “HOSPITAL AND MEDICAL CARE FOR COMMONWEALTH OF THE PHILIPPINES ARMY VETERANS” in subchapter heading.
+    1981—[Pub. L. 97–72, title I][/us/pl/97/72/tI], § 107(d)(1), Nov. 3, 1981, [95 Stat. 1053][/us/stat/95/1053], substituted “HOSPITAL CARE AND MEDICAL TREATMENT FOR VETERANS IN THE REPUBLIC OF THE PHILIPPINES” for “HOSPITAL AND MEDICAL CARE FOR COMMONWEALTH OF THE PHILIPPINES ARMY VETERANS” in subchapter heading.
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/97/72/s107/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F72%2Fs107%2Fd%2F1
+[/us/pl/97/72/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F72%2FtI
 [/us/stat/95/1053]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1053
 
 

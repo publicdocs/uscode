@@ -71,17 +71,17 @@
 
     The Secretary shall prescribe regulations to carry out this section.
 
-(Added [Pub. L. 108–445, § 4(a)(1)][/us/pl/108/445/s4/a/1], Dec. 3, 2004, [118 Stat. 2643][/us/stat/118/2643]; amended [Pub. L. 111–163, title VI, § 602(c)][/us/pl/111/163/s602/c], May 5, 2010, [124 Stat. 1173][/us/stat/124/1173].)
+(Added [Pub. L. 108–445][/us/pl/108/445], § 4(a)(1), Dec. 3, 2004, [118 Stat. 2643][/us/stat/118/2643]; amended [Pub. L. 111–163, title VI][/us/pl/111/163/tVI], § 602(c), May 5, 2010, [124 Stat. 1173][/us/stat/124/1173].)
 
  __Amendments__ 
 
-    2010—Subsec. (b). [Pub. L. 111–163, § 602(c)(2)(A)][/us/pl/111/163/s602/c/2/A], substituted “72/80” for “36/40” in heading.
+    2010—Subsec. (b). [Pub. L. 111–163][/us/pl/111/163], § 602(c)(2)(A), substituted “72/80” for “36/40” in heading.
 
-    Subsec. (b)(1)(A). [Pub. L. 111–163, § 602(c)(1)][/us/pl/111/163/s602/c/1], substituted “six regularly scheduled 12-hour tours of duty within a 14-day period shall be considered for all purposes to have worked a full 80-hour pay period.” for “three regularly scheduled 12-hour tours of duty within a work week shall be considered for all purposes to have worked a full 40-hour basic work week.”
+    Subsec. (b)(1)(A). [Pub. L. 111–163][/us/pl/111/163], § 602(c)(1), substituted “six regularly scheduled 12-hour tours of duty within a 14-day period shall be considered for all purposes to have worked a full 80-hour pay period.” for “three regularly scheduled 12-hour tours of duty within a work week shall be considered for all purposes to have worked a full 40-hour basic work week.”
 
-    Subsec. (b)(2)(A). [Pub. L. 111–163, § 602(c)(2)(B)][/us/pl/111/163/s602/c/2/B], substituted “80-hour pay period” for “40-hour basic work week”.
+    Subsec. (b)(2)(A). [Pub. L. 111–163][/us/pl/111/163], § 602(c)(2)(B), substituted “80-hour pay period” for “40-hour basic work week”.
 
-    Subsec. (b)(3). [Pub. L. 111–163, § 602(c)(2)(C)][/us/pl/111/163/s602/c/2/C], struck out “regularly” before “scheduled 12-hour tour”.
+    Subsec. (b)(3). [Pub. L. 111–163][/us/pl/111/163], § 602(c)(2)(C), struck out “regularly” before “scheduled 12-hour tour”.
 
 ----------
 
@@ -93,13 +93,13 @@
 [/us/usc/t38/s7453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7453
 [/us/usc/t38/s7453/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7453%2Fd
 [/us/usc/t38/s7405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7405
-[/us/pl/108/445/s4/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F445%2Fs4%2Fa%2F1
+[/us/pl/108/445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F445
 [/us/stat/118/2643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2643
-[/us/pl/111/163/s602/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163%2Fs602%2Fc
+[/us/pl/111/163/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163%2FtVI
 [/us/stat/124/1173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1173
-[/us/pl/111/163/s602/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163%2Fs602%2Fc%2F2%2FA
-[/us/pl/111/163/s602/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163%2Fs602%2Fc%2F1
-[/us/pl/111/163/s602/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163%2Fs602%2Fc%2F2%2FB
-[/us/pl/111/163/s602/c/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163%2Fs602%2Fc%2F2%2FC
+[/us/pl/111/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163
+[/us/pl/111/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163
+[/us/pl/111/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163
+[/us/pl/111/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163
 
 

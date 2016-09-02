@@ -19,7 +19,7 @@
 
     (b) The Secretary may waive the requirement in subsection (a) of this section for an annual compliance survey with respect to an institution if the Secretary determines, based on the institution’s demonstrated record of compliance with all the applicable provisions of chapters 30 through 36 of this title, that the waiver would be appropriate and in the best interest of the United States Government.
 
-(Added [Pub. L. 94–502, title V, § 511(1)][/us/pl/94/502/s511/1], Oct. 15, 1976, [90 Stat. 2401][/us/stat/90/2401], § 1793; amended [Pub. L. 100–322, title III, § 322][/us/pl/100/322/s322], May 20, 1988, [102 Stat. 535][/us/stat/102/535]; [Pub. L. 101–237, title IV, § 423(b)(1)(A)][/us/pl/101/237/s423/b/1/A], Dec. 18, 1989, [103 Stat. 2092][/us/stat/103/2092]; renumbered § 3693, [Pub. L. 102–83, § 5(a)][/us/pl/102/83/s5/a], Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406].)
+(Added [Pub. L. 94–502, title V][/us/pl/94/502/tV], § 511(1), Oct. 15, 1976, [90 Stat. 2401][/us/stat/90/2401], § 1793; amended [Pub. L. 100–322, title III][/us/pl/100/322/tIII], § 322, May 20, 1988, [102 Stat. 535][/us/stat/102/535]; [Pub. L. 101–237, title IV][/us/pl/101/237/tIV], § 423(b)(1)(A), Dec. 18, 1989, [103 Stat. 2092][/us/stat/103/2092]; renumbered § 3693, [Pub. L. 102–83][/us/pl/102/83], § 5(a), Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406].)
 
  __Amendments__ 
 
@@ -31,7 +31,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 94–502, title VII, § 703][/us/pl/94/502/s703], Oct. 15, 1976, [90 Stat. 2406][/us/stat/90/2406], provided that:
+[Pub. L. 94–502, title VII][/us/pl/94/502/tVII], § 703, Oct. 15, 1976, [90 Stat. 2406][/us/stat/90/2406], provided that:
 
 >     “(a) Sections 101, 201, 203, 207, 209, 301, 303, 304, 308, 501, 502, 503, and 508 \[see Tables for classification\] of this Act shall become effective on October 1, 1976.
 
@@ -46,19 +46,19 @@
 ----------
 ----------
 
-[/us/pl/94/502/s511/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F502%2Fs511%2F1
+[/us/pl/94/502/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F502%2FtV
 [/us/stat/90/2401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2401
-[/us/pl/100/322/s322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F322%2Fs322
+[/us/pl/100/322/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F322%2FtIII
 [/us/stat/102/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F535
-[/us/pl/101/237/s423/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237%2Fs423%2Fb%2F1%2FA
+[/us/pl/101/237/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237%2FtIV
 [/us/stat/103/2092]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2092
-[/us/pl/102/83/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fa
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F406
 [/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/usc/t38/s1793]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1793
 [/us/pl/101/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237
 [/us/pl/100/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F322
-[/us/pl/94/502/s703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F502%2Fs703
+[/us/pl/94/502/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F502%2FtVII
 [/us/stat/90/2406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2406
 
 

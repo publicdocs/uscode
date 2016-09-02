@@ -97,7 +97,7 @@
 
     (f) No law of any State or of any political subdivision of a State, and no provision of any contract or other agreement, shall operate to prevent recovery or collection by the United States under this section or with respect to care or services furnished under [section 1784 of this title][/us/usc/t38/s1784].
 
-    \[(g) Repealed. [Pub. L. 105–33, title VIII, § 8023(b)(4)][/us/pl/105/33/s8023/b/4], Aug. 5, 1997, [111 Stat. 667][/us/stat/111/667].\]
+    \[(g) Repealed. [Pub. L. 105–33, title VIII][/us/pl/105/33/tVIII], § 8023(b)(4), Aug. 5, 1997, [111 Stat. 667][/us/stat/111/667].\]
 
     (h)
 
@@ -147,7 +147,7 @@
 
             (D) a person obligated to provide, or to pay the expenses of, health services under a health-plan contract.
 
-(Added [Pub. L. 97–72, title I, § 106(a)(1)][/us/pl/97/72/s106/a/1], Nov. 3, 1981, [95 Stat. 1050][/us/stat/95/1050], § 629; amended [Pub. L. 99–272, title XIX, § 19013(a)][/us/pl/99/272/s19013/a], Apr. 7, 1986, [100 Stat. 382][/us/stat/100/382]; [Pub. L. 100–322, title II, § 202][/us/pl/100/322/s202], May 20, 1988, [102 Stat. 509][/us/stat/102/509]; [Pub. L. 101–508, title VIII, § 8011(a)][/us/pl/101/508/s8011/a]–(c), Nov. 5, 1990, [104 Stat. 1388–344][/us/stat/104/1388-344]; [Pub. L. 102–40, title IV, § 402(d)(1)][/us/pl/102/40/s402/d/1], May 7, 1991, [105 Stat. 239][/us/stat/105/239]; renumbered § 1729 and amended [Pub. L. 102–83][/us/pl/102/83], §§ 4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, [105 Stat. 404–406][/us/stat/105/404-406]; [Pub. L. 102–568, title VI, § 604][/us/pl/102/568/s604], Oct. 29, 1992, [106 Stat. 4343][/us/stat/106/4343]; [Pub. L. 103–66, title XII, § 12003][/us/pl/103/66/s12003], Aug. 10, 1993, [107 Stat. 414][/us/stat/107/414]; [Pub. L. 104–262, title I, § 101(d)(10)][/us/pl/104/262/s101/d/10], Oct. 9, 1996, [110 Stat. 3180][/us/stat/110/3180]; [Pub. L. 105–33, title VIII][/us/pl/105/33], §§ 8022, 8023(b)(4), (d), Aug. 5, 1997, [111 Stat. 665][/us/stat/111/665], 667; [Pub. L. 107–135, title II][/us/pl/107/135], §§ 208(e)(4), 209(b), Jan. 23, 2002, [115 Stat. 2463][/us/stat/115/2463], 2464; [Pub. L. 110–161, div. I, title II, § 232][/us/pl/110/161/s232], Dec. 26, 2007, [121 Stat. 2273][/us/stat/121/2273]; [Pub. L. 110–329, div. E, title II, § 225][/us/pl/110/329/s225], Sept. 30, 2008, [122 Stat. 3713][/us/stat/122/3713]; [Pub. L. 110–387, title VIII, § 804(b)][/us/pl/110/387/s804/b], Oct. 10, 2008, [122 Stat. 4141][/us/stat/122/4141]; [Pub. L. 111–163, title V, § 518][/us/pl/111/163/s518], May 5, 2010, [124 Stat. 1167][/us/stat/124/1167]; [Pub. L. 112–154, title I, § 113][/us/pl/112/154/s113], Aug. 6, 2012, [126 Stat. 1176][/us/stat/126/1176]; [Pub. L. 113–37, § 2(d)][/us/pl/113/37/s2/d], Sept. 30, 2013, [127 Stat. 524][/us/stat/127/524]; [Pub. L. 113–175, title I, § 108][/us/pl/113/175/s108], Sept. 26, 2014, [128 Stat. 1903][/us/stat/128/1903]; [Pub. L. 114–58, title I, § 104][/us/pl/114/58/s104], Sept. 30, 2015, [129 Stat. 532][/us/stat/129/532].)
+(Added [Pub. L. 97–72, title I][/us/pl/97/72/tI], § 106(a)(1), Nov. 3, 1981, [95 Stat. 1050][/us/stat/95/1050], § 629; amended [Pub. L. 99–272, title XIX][/us/pl/99/272/tXIX], § 19013(a), Apr. 7, 1986, [100 Stat. 382][/us/stat/100/382]; [Pub. L. 100–322, title II][/us/pl/100/322/tII], § 202, May 20, 1988, [102 Stat. 509][/us/stat/102/509]; [Pub. L. 101–508, title VIII][/us/pl/101/508/tVIII], § 8011(a)–(c), Nov. 5, 1990, [104 Stat. 1388–344][/us/stat/104/1388-344]; [Pub. L. 102–40, title IV][/us/pl/102/40/tIV], § 402(d)(1), May 7, 1991, [105 Stat. 239][/us/stat/105/239]; renumbered § 1729 and amended [Pub. L. 102–83][/us/pl/102/83], §§ 4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, [105 Stat. 404–406][/us/stat/105/404-406]; [Pub. L. 102–568, title VI][/us/pl/102/568/tVI], § 604, Oct. 29, 1992, [106 Stat. 4343][/us/stat/106/4343]; [Pub. L. 103–66, title XII][/us/pl/103/66/tXII], § 12003, Aug. 10, 1993, [107 Stat. 414][/us/stat/107/414]; [Pub. L. 104–262, title I][/us/pl/104/262/tI], § 101(d)(10), Oct. 9, 1996, [110 Stat. 3180][/us/stat/110/3180]; [Pub. L. 105–33, title VIII][/us/pl/105/33/tVIII], §§ 8022, 8023(b)(4), (d), Aug. 5, 1997, [111 Stat. 665][/us/stat/111/665], 667; [Pub. L. 107–135, title II][/us/pl/107/135/tII], §§ 208(e)(4), 209(b), Jan. 23, 2002, [115 Stat. 2463][/us/stat/115/2463], 2464; [Pub. L. 110–161, div. I, title II][/us/pl/110/161/dI/tII], § 232, Dec. 26, 2007, [121 Stat. 2273][/us/stat/121/2273]; [Pub. L. 110–329, div. E, title II][/us/pl/110/329/dE/tII], § 225, Sept. 30, 2008, [122 Stat. 3713][/us/stat/122/3713]; [Pub. L. 110–387, title VIII][/us/pl/110/387/tVIII], § 804(b), Oct. 10, 2008, [122 Stat. 4141][/us/stat/122/4141]; [Pub. L. 111–163, title V][/us/pl/111/163/tV], § 518, May 5, 2010, [124 Stat. 1167][/us/stat/124/1167]; [Pub. L. 112–154, title I][/us/pl/112/154/tI], § 113, Aug. 6, 2012, [126 Stat. 1176][/us/stat/126/1176]; [Pub. L. 113–37][/us/pl/113/37], § 2(d), Sept. 30, 2013, [127 Stat. 524][/us/stat/127/524]; [Pub. L. 113–175, title I][/us/pl/113/175/tI], § 108, Sept. 26, 2014, [128 Stat. 1903][/us/stat/128/1903]; [Pub. L. 114–58, title I][/us/pl/114/58/tI], § 104, Sept. 30, 2015, [129 Stat. 532][/us/stat/129/532].)
 
  __References in Text__ 
 
@@ -175,19 +175,19 @@
 
     2007—Subsec. (a)(2)(E). [Pub. L. 110–161][/us/pl/110/161] substituted “October 1, 2008” for “October 1, 2007”.
 
-    2002—Subsec. (a)(2)(E). [Pub. L. 107–135, § 209(b)][/us/pl/107/135/s209/b], substituted “October 1, 2007” for “October 1, 2002”.
+    2002—Subsec. (a)(2)(E). [Pub. L. 107–135][/us/pl/107/135], § 209(b), substituted “October 1, 2007” for “October 1, 2002”.
 
-    Subsec. (f). [Pub. L. 107–135, § 208(e)(4)][/us/pl/107/135/s208/e/4], substituted “section 1784” for “section 1711(b)”.
+    Subsec. (f). [Pub. L. 107–135][/us/pl/107/135], § 208(e)(4), substituted “section 1784” for “section 1711(b)”.
 
-    1997—Subsec. (a)(1). [Pub. L. 105–33, § 8023(d)(1)][/us/pl/105/33/s8023/d/1], substituted “reasonable charges for” for “the reasonable cost of”.
+    1997—Subsec. (a)(1). [Pub. L. 105–33][/us/pl/105/33], § 8023(d)(1), substituted “reasonable charges for” for “the reasonable cost of”.
 
-    Subsec. (a)(2)(E). [Pub. L. 105–33, § 8022][/us/pl/105/33/s8022], substituted “October 1, 2002” for “October 1, 1998”.
+    Subsec. (a)(2)(E). [Pub. L. 105–33][/us/pl/105/33], § 8022, substituted “October 1, 2002” for “October 1, 1998”.
 
-    Subsec. (c)(2)(A). [Pub. L. 105–33, § 8023(d)(2)][/us/pl/105/33/s8023/d/2], substituted “reasonable charges for” for “the reasonable cost of” and “such charges” for “such cost”.
+    Subsec. (c)(2)(A). [Pub. L. 105–33][/us/pl/105/33], § 8023(d)(2), substituted “reasonable charges for” for “the reasonable cost of” and “such charges” for “such cost”.
 
-    Subsec. (c)(2)(B). [Pub. L. 105–33, § 8023(d)(2)(A)][/us/pl/105/33/s8023/d/2/A], substituted “reasonable charges for” for “the reasonable cost of”.
+    Subsec. (c)(2)(B). [Pub. L. 105–33][/us/pl/105/33], § 8023(d)(2)(A), substituted “reasonable charges for” for “the reasonable cost of”.
 
-    Subsec. (g). [Pub. L. 105–33, § 8023(b)(4)][/us/pl/105/33/s8023/b/4], struck out subsec. (g) which established in the Treasury a fund known as the Department of Veterans Affairs Medical-Care Cost Recovery Fund and provided for deposits to and payments from the Fund.
+    Subsec. (g). [Pub. L. 105–33][/us/pl/105/33], § 8023(b)(4), struck out subsec. (g) which established in the Treasury a fund known as the Department of Veterans Affairs Medical-Care Cost Recovery Fund and provided for deposits to and payments from the Fund.
 
     1996—Subsec. (g)(3)(A). [Pub. L. 104–262][/us/pl/104/262] substituted “under subsection (f) or (g) of [section 1710 of this title][/us/usc/t38/s1710] for hospital care, medical services, or nursing home care” for “under [section 1710(f) of this title][/us/usc/t38/s1710/f] for hospital care or nursing home care, under [section 1712(f) of this title][/us/usc/t38/s1712/f] for medical services,”.
 
@@ -195,25 +195,25 @@
 
     1992—Subsec. (a)(2)(E). [Pub. L. 102–568][/us/pl/102/568] substituted “August 1, 1994” for “October 1, 1993”.
 
-    1991—[Pub. L. 102–83, § 5(a)][/us/pl/102/83/s5/a], renumbered [section 629 of this title][/us/usc/t38/s629] as this section.
+    1991—[Pub. L. 102–83][/us/pl/102/83], § 5(a), renumbered [section 629 of this title][/us/usc/t38/s629] as this section.
 
-    Subsecs. (a) to (c). [Pub. L. 102–83, § 4(b)(1)][/us/pl/102/83/s4/b/1], (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
+    Subsecs. (a) to (c). [Pub. L. 102–83][/us/pl/102/83], § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
 
-    Subsec. (d). [Pub. L. 102–83, § 4(b)(1)][/us/pl/102/83/s4/b/1], (2)(E), substituted “Secretary” for “Administrator”.
+    Subsec. (d). [Pub. L. 102–83][/us/pl/102/83], § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
     [Pub. L. 102–40][/us/pl/102/40] substituted “5701” for “3301” and “7332” for “4132”.
 
-    Subsec. (f). [Pub. L. 102–83, § 5(c)(1)][/us/pl/102/83/s5/c/1], substituted “1711(b)” for “611(b)”.
+    Subsec. (f). [Pub. L. 102–83][/us/pl/102/83], § 5(c)(1), substituted “1711(b)” for “611(b)”.
 
-    Subsec. (g)(3)(A). [Pub. L. 102–83, § 5(c)(1)][/us/pl/102/83/s5/c/1], substituted “1710(f)” for “610(f)”, “1712(f)” for “612(f)”, and “1722A” for “622A” in introductory provisions.
+    Subsec. (g)(3)(A). [Pub. L. 102–83][/us/pl/102/83], § 5(c)(1), substituted “1710(f)” for “610(f)”, “1712(f)” for “612(f)”, and “1722A” for “622A” in introductory provisions.
 
-    Subsec. (h)(1), (3). [Pub. L. 102–83, § 4(b)(1)][/us/pl/102/83/s4/b/1], (2)(E), substituted “Secretary” for “Administrator”.
+    Subsec. (h)(1), (3). [Pub. L. 102–83][/us/pl/102/83], § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
-    1990—Subsec. (a)(2)(E). [Pub. L. 101–508, § 8011(a)][/us/pl/101/508/s8011/a], added subpar. (E).
+    1990—Subsec. (a)(2)(E). [Pub. L. 101–508][/us/pl/101/508], § 8011(a), added subpar. (E).
 
-    Subsec. (c)(2)(B). [Pub. L. 101–508, § 8011(b)][/us/pl/101/508/s8011/b], substituted “if provided by” for “in accordance with the prevailing rates at which the third party makes payments under comparable health-plan contracts with”.
+    Subsec. (c)(2)(B). [Pub. L. 101–508][/us/pl/101/508], § 8011(b), substituted “if provided by” for “in accordance with the prevailing rates at which the third party makes payments under comparable health-plan contracts with”.
 
-    Subsec. (g). [Pub. L. 101–508, § 8011(c)][/us/pl/101/508/s8011/c], amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: “Amounts collected or recovered on behalf of the United States under this section shall be deposited into the Treasury as miscellaneous receipts.”
+    Subsec. (g). [Pub. L. 101–508][/us/pl/101/508], § 8011(c), amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: “Amounts collected or recovered on behalf of the United States under this section shall be deposited into the Treasury as miscellaneous receipts.”
 
     1988—Subsec. (b)(2)(C). [Pub. L. 100–322][/us/pl/100/322] added subpar. (C).
 
@@ -229,13 +229,13 @@
 
  __Effective Date of 1990 Amendment__ 
 
-[Pub. L. 101–508, title VIII, § 8011(e)][/us/pl/101/508/s8011/e], Nov. 5, 1990, [104 Stat. 1388–345][/us/stat/104/1388-345], provided that: 
+[Pub. L. 101–508, title VIII][/us/pl/101/508/tVIII], § 8011(e), Nov. 5, 1990, [104 Stat. 1388–345][/us/stat/104/1388-345], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall take effect as of October 1, 1990.”
 
  __Effective Date of 1986 Amendment__ 
 
-[Pub. L. 99–272, title XIX, § 19013(b)][/us/pl/99/272/s19013/b], Apr. 7, 1986, [100 Stat. 385][/us/stat/100/385], provided that:
+[Pub. L. 99–272, title XIX][/us/pl/99/272/tXIX], § 19013(b), Apr. 7, 1986, [100 Stat. 385][/us/stat/100/385], provided that:
 
 >     “(1) Except as provided in paragraph (2), section 629 \[now 1729\] of title 38, United States Code, as amended by subsection (a), shall apply to care and services provided on or after the date of the enactment of this Act \[Apr. 7, 1986\].
 
@@ -261,29 +261,29 @@
 
  __Effective Date__ 
 
-[Pub. L. 97–72, title I, § 106(b)][/us/pl/97/72/s106/b], Nov. 3, 1981, [95 Stat. 1051][/us/stat/95/1051], provided that: 
+[Pub. L. 97–72, title I][/us/pl/97/72/tI], § 106(b), Nov. 3, 1981, [95 Stat. 1051][/us/stat/95/1051], provided that: 
 
 > “Section 629 \[now 1729\] of title 38, United States Code, as added by subsection (a), shall apply with respect to care and services furnished under chapter 17 of title 38, United States Code, on or after the date of the enactment of this Act \[Nov. 3, 1981\].”
 
  __Healthcare Facilities Certified as Medicare and Medicaid Providers for Collection Purposes__ 
 
-[Pub. L. 107–206, title I][/us/pl/107/206], Aug. 2, 2002, [116 Stat. 888][/us/stat/116/888], provided in part: 
+[Pub. L. 107–206, title I][/us/pl/107/206/tI], Aug. 2, 2002, [116 Stat. 888][/us/stat/116/888], provided in part: 
 
 > “That for the purposes of enabling the collection from third-party insurance carriers for non-service related medical care of veterans, all Department of Veterans Affairs healthcare facilities are hereby certified as Medicare and Medicaid providers and the Centers for Medicare and Medicaid Services within the Department of Health and Human Services shall issue each Department of Veterans Affairs healthcare facility a provider number as soon as practicable after the date of enactment of this Act \[Aug. 2, 2002\]: Provided further, That nothing in the preceding proviso shall be construed to enable the Department of Veterans Affairs to bill Medicare or Medicaid for any medical services provided by the Veterans Health Administration or to require the Centers for Medicare and Medicaid Services to pay for any medical services provided by the Department of Veterans Affairs”.
 
  __Disposition of Funds in and Termination of Department of Veterans Affairs Medical-Care Cost Recovery Fund__ 
 
-[Pub. L. 105–33, title VIII, § 8023(c)][/us/pl/105/33/s8023/c], Aug. 5, 1997, [111 Stat. 667][/us/stat/111/667], provided that: 
+[Pub. L. 105–33, title VIII][/us/pl/105/33/tVIII], § 8023(c), Aug. 5, 1997, [111 Stat. 667][/us/stat/111/667], provided that: 
 
 > “The amount of the unobligated balance remaining in the Department of Veterans Affairs Medical-Care Cost Recovery Fund (established pursuant to [section 1729(g)(1) of title 38][/us/usc/t38/s1729/g/1], United States Code) at the close of June 30, 1997, shall be deposited, not later than December 31, 1997, in the Treasury as miscellaneous receipts, and the Department of Veterans Affairs Medical-Care Cost Recovery Fund shall be terminated when the deposit is made.”
 
  __Transfers to Medical-Care Cost Recovery Fund__ 
 
-    [Pub. L. 101–508, title VIII, § 8011(d)][/us/pl/101/508/s8011/d], Nov. 5, 1990, [104 Stat. 1388–345][/us/stat/104/1388-345], as amended by [Pub. L. 102–83, § 5(c)(2)][/us/pl/102/83/s5/c/2], Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406], provided that the Secretary of the Treasury was to transfer $25,000,000 from the Department of Veterans Affairs Loan Guaranty Revolving Fund to the Department of Veterans Affairs Medical-Care Cost Recovery Fund and that the amount so transferred was to be available until the end of Sept. 30, 1991, for the support of the equivalent of 800 full-time employees and other expenses described in former subsec. (g)(3) of this section, and provided that the first $25,000,000 recovered or collected by the Department of Veterans Affairs during fiscal year 1991 as a result of third-party medical recovery activities was to be credited to the Department of Veterans Affairs Loan Guaranty Revolving Fund.
+    [Pub. L. 101–508, title VIII][/us/pl/101/508/tVIII], § 8011(d), Nov. 5, 1990, [104 Stat. 1388–345][/us/stat/104/1388-345], as amended by [Pub. L. 102–83][/us/pl/102/83], § 5(c)(2), Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406], provided that the Secretary of the Treasury was to transfer $25,000,000 from the Department of Veterans Affairs Loan Guaranty Revolving Fund to the Department of Veterans Affairs Medical-Care Cost Recovery Fund and that the amount so transferred was to be available until the end of Sept. 30, 1991, for the support of the equivalent of 800 full-time employees and other expenses described in former subsec. (g)(3) of this section, and provided that the first $25,000,000 recovered or collected by the Department of Veterans Affairs during fiscal year 1991 as a result of third-party medical recovery activities was to be credited to the Department of Veterans Affairs Loan Guaranty Revolving Fund.
 
  __Reports on Implementation of 1986 Amendment__ 
 
-    [Pub. L. 99–272, title XIX, § 19013(c)][/us/pl/99/272/s19013/c], Apr. 7, 1986, [100 Stat. 385][/us/stat/100/385], directed Administrator of Veterans’ Affairs, not later than six months after Apr. 7, 1986, to submit to Committees on Veterans’ Affairs of Senate and House of Representatives a report on the process for and results of implementation of this section, as amended by subsection (a), such report to show costs of administration (and a detailed breakdown of such costs) and the amount of receipts and collections under this section, and not later than Feb. 1, 1988, to submit to such Committees a report updating the information in the report previously submitted and providing information on the process and results of such implementation through at least the end of fiscal year 1987.
+    [Pub. L. 99–272, title XIX][/us/pl/99/272/tXIX], § 19013(c), Apr. 7, 1986, [100 Stat. 385][/us/stat/100/385], directed Administrator of Veterans’ Affairs, not later than six months after Apr. 7, 1986, to submit to Committees on Veterans’ Affairs of Senate and House of Representatives a report on the process for and results of implementation of this section, as amended by subsection (a), such report to show costs of administration (and a detailed breakdown of such costs) and the amount of receipts and collections under this section, and not later than Feb. 1, 1988, to submit to such Committees a report updating the information in the report previously submitted and providing information on the process and results of such implementation through at least the end of fiscal year 1987.
 
 ----------
 
@@ -294,48 +294,48 @@
 
 [/us/usc/t31/s3718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3718
 [/us/usc/t38/s1784]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1784
-[/us/pl/105/33/s8023/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs8023%2Fb%2F4
+[/us/pl/105/33/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2FtVIII
 [/us/stat/111/667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F667
 [/us/usc/t42/s1395c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395c
 [/us/usc/t42/s1395j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395j
 [/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
-[/us/pl/97/72/s106/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F72%2Fs106%2Fa%2F1
+[/us/pl/97/72/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F72%2FtI
 [/us/stat/95/1050]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1050
-[/us/pl/99/272/s19013/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs19013%2Fa
+[/us/pl/99/272/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2FtXIX
 [/us/stat/100/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F382
-[/us/pl/100/322/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F322%2Fs202
+[/us/pl/100/322/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F322%2FtII
 [/us/stat/102/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F509
-[/us/pl/101/508/s8011/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs8011%2Fa
+[/us/pl/101/508/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtVIII
 [/us/stat/104/1388-344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-344
-[/us/pl/102/40/s402/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs402%2Fd%2F1
+[/us/pl/102/40/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2FtIV
 [/us/stat/105/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F239
 [/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/404-406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F404-406
-[/us/pl/102/568/s604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F568%2Fs604
+[/us/pl/102/568/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F568%2FtVI
 [/us/stat/106/4343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4343
-[/us/pl/103/66/s12003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs12003
+[/us/pl/103/66/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2FtXII
 [/us/stat/107/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F414
-[/us/pl/104/262/s101/d/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F262%2Fs101%2Fd%2F10
+[/us/pl/104/262/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F262%2FtI
 [/us/stat/110/3180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3180
-[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2FtVIII
 [/us/stat/111/665]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F665
-[/us/pl/107/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F135
+[/us/pl/107/135/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F135%2FtII
 [/us/stat/115/2463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2463
-[/us/pl/110/161/s232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs232
+[/us/pl/110/161/dI/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2FdI%2FtII
 [/us/stat/121/2273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2273
-[/us/pl/110/329/s225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F329%2Fs225
+[/us/pl/110/329/dE/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F329%2FdE%2FtII
 [/us/stat/122/3713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3713
-[/us/pl/110/387/s804/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F387%2Fs804%2Fb
+[/us/pl/110/387/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F387%2FtVIII
 [/us/stat/122/4141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4141
-[/us/pl/111/163/s518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163%2Fs518
+[/us/pl/111/163/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163%2FtV
 [/us/stat/124/1167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1167
-[/us/pl/112/154/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154%2Fs113
+[/us/pl/112/154/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154%2FtI
 [/us/stat/126/1176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1176
-[/us/pl/113/37/s2/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F37%2Fs2%2Fd
+[/us/pl/113/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F37
 [/us/stat/127/524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F524
-[/us/pl/113/175/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F175%2Fs108
+[/us/pl/113/175/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F175%2FtI
 [/us/stat/128/1903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1903
-[/us/pl/114/58/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F58%2Fs104
+[/us/pl/114/58/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F58%2FtI
 [/us/stat/129/532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F532
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
@@ -349,30 +349,30 @@
 [/us/pl/110/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F329
 [/us/pl/110/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F329
 [/us/pl/110/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161
-[/us/pl/107/135/s209/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F135%2Fs209%2Fb
-[/us/pl/107/135/s208/e/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F135%2Fs208%2Fe%2F4
-[/us/pl/105/33/s8023/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs8023%2Fd%2F1
-[/us/pl/105/33/s8022]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs8022
-[/us/pl/105/33/s8023/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs8023%2Fd%2F2
-[/us/pl/105/33/s8023/d/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs8023%2Fd%2F2%2FA
-[/us/pl/105/33/s8023/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs8023%2Fb%2F4
+[/us/pl/107/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F135
+[/us/pl/107/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F135
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
 [/us/pl/104/262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F262
 [/us/usc/t38/s1710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1710
 [/us/usc/t38/s1710/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1710%2Ff
 [/us/usc/t38/s1712/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1712%2Ff
 [/us/pl/103/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66
 [/us/pl/102/568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F568
-[/us/pl/102/83/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fa
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/usc/t38/s629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs629
-[/us/pl/102/83/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fb%2F1
-[/us/pl/102/83/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fb%2F1
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40
-[/us/pl/102/83/s5/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fc%2F1
-[/us/pl/102/83/s5/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fc%2F1
-[/us/pl/102/83/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fb%2F1
-[/us/pl/101/508/s8011/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs8011%2Fa
-[/us/pl/101/508/s8011/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs8011%2Fb
-[/us/pl/101/508/s8011/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs8011%2Fc
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/pl/100/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F322
 [/us/pl/99/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272
 [/us/pl/113/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F37
@@ -382,22 +382,22 @@
 [/us/pl/105/33/s8023/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs8023%2Fd
 [/us/pl/105/33/s8023/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs8023%2Fg
 [/us/usc/t38/s1710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1710
-[/us/pl/101/508/s8011/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs8011%2Fe
+[/us/pl/101/508/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtVIII
 [/us/stat/104/1388-345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-345
-[/us/pl/99/272/s19013/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs19013%2Fb
+[/us/pl/99/272/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2FtXIX
 [/us/stat/100/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F385
-[/us/pl/97/72/s106/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F72%2Fs106%2Fb
+[/us/pl/97/72/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F72%2FtI
 [/us/stat/95/1051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1051
-[/us/pl/107/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F206
+[/us/pl/107/206/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F206%2FtI
 [/us/stat/116/888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F888
-[/us/pl/105/33/s8023/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs8023%2Fc
+[/us/pl/105/33/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2FtVIII
 [/us/stat/111/667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F667
 [/us/usc/t38/s1729/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1729%2Fg%2F1
-[/us/pl/101/508/s8011/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs8011%2Fd
+[/us/pl/101/508/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtVIII
 [/us/stat/104/1388-345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-345
-[/us/pl/102/83/s5/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fc%2F2
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F406
-[/us/pl/99/272/s19013/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs19013%2Fc
+[/us/pl/99/272/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2FtXIX
 [/us/stat/100/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F385
 
 

@@ -67,13 +67,13 @@
 
         (4) The Secretary shall submit with each annual report submitted to the Congress pursuant to [section 529 of this title][/us/usc/t38/s529] a summary of all reports and recommendations of the Committee submitted to the Secretary since the previous annual report of the Secretary submitted pursuant to such section.
 
-(Added [Pub. L. 102–83, § 2(a)][/us/pl/102/83/s2/a], Aug. 6, 1991, [105 Stat. 393][/us/stat/105/393]; amended [Pub. L. 102–405, title III, § 302(c)(1)][/us/pl/102/405/s302/c/1], Oct. 9, 1992, [106 Stat. 1984][/us/stat/106/1984]; [Pub. L. 104–275, title V, § 501(e)(1)][/us/pl/104/275/s501/e/1], Oct. 9, 1996, [110 Stat. 3341][/us/stat/110/3341]; [Pub. L. 106–419, title IV, § 403(c)(3)][/us/pl/106/419/s403/c/3], Nov. 1, 2000, [114 Stat. 1864][/us/stat/114/1864]; [Pub. L. 109–444, § 5][/us/pl/109/444/s5], Dec. 21, 2006, [120 Stat. 3308][/us/stat/120/3308]; [Pub. L. 109–461, title II, § 208(b)][/us/pl/109/461/s208/b], title X, § 1006(b), Dec. 22, 2006, [120 Stat. 3413][/us/stat/120/3413], 3468; [Pub. L. 110–387, title VIII, § 808][/us/pl/110/387/s808], Oct. 10, 2008, [122 Stat. 4141][/us/stat/122/4141]; [Pub. L. 111–163, title II, § 204(a)][/us/pl/111/163/s204/a], May 5, 2010, [124 Stat. 1144][/us/stat/124/1144].)
+(Added [Pub. L. 102–83][/us/pl/102/83], § 2(a), Aug. 6, 1991, [105 Stat. 393][/us/stat/105/393]; amended [Pub. L. 102–405, title III][/us/pl/102/405/tIII], § 302(c)(1), Oct. 9, 1992, [106 Stat. 1984][/us/stat/106/1984]; [Pub. L. 104–275, title V][/us/pl/104/275/tV], § 501(e)(1), Oct. 9, 1996, [110 Stat. 3341][/us/stat/110/3341]; [Pub. L. 106–419, title IV][/us/pl/106/419/tIV], § 403(c)(3), Nov. 1, 2000, [114 Stat. 1864][/us/stat/114/1864]; [Pub. L. 109–444][/us/pl/109/444], § 5, Dec. 21, 2006, [120 Stat. 3308][/us/stat/120/3308]; [Pub. L. 109–461, title II][/us/pl/109/461/tII], § 208(b), title X, § 1006(b), Dec. 22, 2006, [120 Stat. 3413][/us/stat/120/3413], 3468; [Pub. L. 110–387, title VIII][/us/pl/110/387/tVIII], § 808, Oct. 10, 2008, [122 Stat. 4141][/us/stat/122/4141]; [Pub. L. 111–163, title II][/us/pl/111/163/tII], § 204(a), May 5, 2010, [124 Stat. 1144][/us/stat/124/1144].)
 
  __Prior Provisions__ 
 
     Prior section 542 was renumbered [section 1542 of this title][/us/usc/t38/s1542].
 
-    Provisions similar to those in this section were contained in [section 222 of this title][/us/usc/t38/s222] prior to repeal by [Pub. L. 102–83, § 2(a)][/us/pl/102/83/s2/a].
+    Provisions similar to those in this section were contained in [section 222 of this title][/us/usc/t38/s222] prior to repeal by [Pub. L. 102–83][/us/pl/102/83], § 2(a).
 
  __Amendments__ 
 
@@ -81,11 +81,11 @@
 
     2008—Subsec. (c)(1). [Pub. L. 110–387][/us/pl/110/387] struck out “through 2008” after “year” in introductory provisions.
 
-    2006—Subsec. (c)(1). [Pub. L. 109–461, § 1006(b)][/us/pl/109/461/s1006/b], provided that as of the enactment of [Pub. L. 109–461][/us/pl/109/461], the amendments made by [Pub. L. 109–444][/us/pl/109/444] were deemed for all purposes not to have taken effect and that [Pub. L. 109–444][/us/pl/109/444] ceased to be in effect. See Amendment notes below and [section 1006(b) of Pub. L. 109–461][/us/pl/109/461/s1006/b], set out as a Coordination of Provisions With [Pub. L. 109–444][/us/pl/109/444] note under [section 101 of this title][/us/usc/t38/s101].
+    2006—Subsec. (c)(1). [Pub. L. 109–461][/us/pl/109/461], § 1006(b), provided that as of the enactment of [Pub. L. 109–461][/us/pl/109/461], the amendments made by [Pub. L. 109–444][/us/pl/109/444] were deemed for all purposes not to have taken effect and that [Pub. L. 109–444][/us/pl/109/444] ceased to be in effect. See Amendment notes below and [section 1006(b) of Pub. L. 109–461][/us/pl/109/461/s1006/b], set out as a Coordination of Provisions With [Pub. L. 109–444][/us/pl/109/444] note under [section 101 of this title][/us/usc/t38/s101].
 
-    [Pub. L. 109–461, § 208(b)][/us/pl/109/461/s208/b], substituted “2008” for “2004” in introductory provisions.
+    [Pub. L. 109–461][/us/pl/109/461], § 208(b), substituted “2008” for “2004” in introductory provisions.
 
-    [Pub. L. 109–444][/us/pl/109/444], which substituted “2008” for “2004” in introductory provisions, was terminated by [Pub. L. 109–461, § 1006(b)][/us/pl/109/461/s1006/b]. See Amendment notes above.
+    [Pub. L. 109–444][/us/pl/109/444], which substituted “2008” for “2004” in introductory provisions, was terminated by [Pub. L. 109–461][/us/pl/109/461], § 1006(b). See Amendment notes above.
 
     2000—Subsec. (c)(1). [Pub. L. 106–419][/us/pl/106/419] inserted “through 2004” after “each even-numbered year” in introductory provisions.
 
@@ -99,7 +99,7 @@
 
  __Effective Date of 2010 Amendment__ 
 
-[Pub. L. 111–163, title II, § 204(c)][/us/pl/111/163/s204/c], May 5, 2010, [124 Stat. 1144][/us/stat/124/1144], provided that: 
+[Pub. L. 111–163, title II][/us/pl/111/163/tII], § 204(c), May 5, 2010, [124 Stat. 1144][/us/stat/124/1144], provided that: 
 
 > “The amendments made by this section \[amending this section and [section 544 of this title][/us/usc/t38/s544]\] shall apply to appointments made on or after the date of the enactment of this Act \[May 5, 2010\].”
 
@@ -115,43 +115,43 @@
 ----------
 
 [/us/usc/t38/s529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs529
-[/us/pl/102/83/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs2%2Fa
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F393
-[/us/pl/102/405/s302/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405%2Fs302%2Fc%2F1
+[/us/pl/102/405/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405%2FtIII
 [/us/stat/106/1984]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1984
-[/us/pl/104/275/s501/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275%2Fs501%2Fe%2F1
+[/us/pl/104/275/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275%2FtV
 [/us/stat/110/3341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3341
-[/us/pl/106/419/s403/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419%2Fs403%2Fc%2F3
+[/us/pl/106/419/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419%2FtIV
 [/us/stat/114/1864]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1864
-[/us/pl/109/444/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F444%2Fs5
+[/us/pl/109/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F444
 [/us/stat/120/3308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3308
-[/us/pl/109/461/s208/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461%2Fs208%2Fb
+[/us/pl/109/461/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461%2FtII
 [/us/stat/120/3413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3413
-[/us/pl/110/387/s808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F387%2Fs808
+[/us/pl/110/387/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F387%2FtVIII
 [/us/stat/122/4141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4141
-[/us/pl/111/163/s204/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163%2Fs204%2Fa
+[/us/pl/111/163/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163%2FtII
 [/us/stat/124/1144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1144
 [/us/usc/t38/s1542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1542
 [/us/usc/t38/s222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs222
-[/us/pl/102/83/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs2%2Fa
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/pl/111/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163
 [/us/pl/110/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F387
-[/us/pl/109/461/s1006/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461%2Fs1006%2Fb
+[/us/pl/109/461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461
 [/us/pl/109/461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461
 [/us/pl/109/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F444
 [/us/pl/109/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F444
 [/us/pl/109/461/s1006/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461%2Fs1006%2Fb
 [/us/pl/109/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F444
 [/us/usc/t38/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs101
-[/us/pl/109/461/s208/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461%2Fs208%2Fb
+[/us/pl/109/461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461
 [/us/pl/109/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F444
-[/us/pl/109/461/s1006/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461%2Fs1006%2Fb
+[/us/pl/109/461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461
 [/us/pl/106/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419
 [/us/pl/104/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275
 [/us/pl/102/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405
 [/us/pl/99/619/s2/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F619%2Fs2%2Fb%2F3
 [/us/usc/t29/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs553
-[/us/pl/111/163/s204/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163%2Fs204%2Fc
+[/us/pl/111/163/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163%2FtII
 [/us/stat/124/1144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1144
 [/us/usc/t38/s544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs544
 [/us/pl/92/463/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463%2Fs14

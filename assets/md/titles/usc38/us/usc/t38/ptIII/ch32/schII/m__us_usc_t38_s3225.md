@@ -17,7 +17,7 @@
 
     If a participant in the program is discharged or released from active duty under dishonorable conditions, such participant is automatically disenrolled and any contributions made by such participant shall be refunded to such participant on the date of such participant’s discharge or release from active duty or within 60 days from receipt of notice by the Secretary of such discharge or release, whichever is later.
 
-(Added [Pub. L. 94–502, title IV, § 404][/us/pl/94/502/s404], Oct. 15, 1976, [90 Stat. 2396][/us/stat/90/2396], § 1625; amended [Pub. L. 101–237, title IV, § 423(b)(1)(A)][/us/pl/101/237/s423/b/1/A], Dec. 18, 1989, [103 Stat. 2092][/us/stat/103/2092]; renumbered § 3225, [Pub. L. 102–83, § 5(a)][/us/pl/102/83/s5/a], Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406].)
+(Added [Pub. L. 94–502, title IV][/us/pl/94/502/tIV], § 404, Oct. 15, 1976, [90 Stat. 2396][/us/stat/90/2396], § 1625; amended [Pub. L. 101–237, title IV][/us/pl/101/237/tIV], § 423(b)(1)(A), Dec. 18, 1989, [103 Stat. 2092][/us/stat/103/2092]; renumbered § 3225, [Pub. L. 102–83][/us/pl/102/83], § 5(a), Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406].)
 
  __Amendments__ 
 
@@ -32,11 +32,11 @@
 ----------
 ----------
 
-[/us/pl/94/502/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F502%2Fs404
+[/us/pl/94/502/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F502%2FtIV
 [/us/stat/90/2396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2396
-[/us/pl/101/237/s423/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237%2Fs423%2Fb%2F1%2FA
+[/us/pl/101/237/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237%2FtIV
 [/us/stat/103/2092]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2092
-[/us/pl/102/83/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fa
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F406
 [/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/usc/t38/s1625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1625

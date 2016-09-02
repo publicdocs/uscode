@@ -47,7 +47,7 @@
 
     Any benefits provided an individual under subsection (a) are in addition to any other educational assistance benefits provided the individual under this chapter.
 
-(Added [Pub. L. 110–252, title V, § 5003(a)(1)][/us/pl/110/252/s5003/a/1], June 30, 2008, [122 Stat. 2366][/us/stat/122/2366].)
+(Added [Pub. L. 110–252, title V][/us/pl/110/252/tV], § 5003(a)(1), June 30, 2008, [122 Stat. 2366][/us/stat/122/2366].)
 
 ----------
 
@@ -56,7 +56,7 @@
 ----------
 ----------
 
-[/us/pl/110/252/s5003/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F252%2Fs5003%2Fa%2F1
+[/us/pl/110/252/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F252%2FtV
 [/us/stat/122/2366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2366
 
 

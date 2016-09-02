@@ -33,7 +33,7 @@
 
     (i) The Court may accept and utilize voluntary services and uncompensated (gratuitous) services, including services as authorized by [section 3102(b) of title 5][/us/usc/t5/s3102/b] and may accept, hold, administer, and utilize gifts and bequests of personal property for the purposes of aiding or facilitating the work of the Court. Gifts or bequests of money to the Court shall be covered into the Treasury.
 
-(Added [Pub. L. 100–687, div. A, title III, § 301(a)][/us/pl/100/687/s301/a], Nov. 18, 1988, [102 Stat. 4118][/us/stat/102/4118], § 4081; amended [Pub. L. 101–94, title II, § 204(a)][/us/pl/101/94/s204/a], Aug. 16, 1989, [103 Stat. 627][/us/stat/103/627]; renumbered § 7281, [Pub. L. 102–40, title IV, § 402(b)(1)][/us/pl/102/40/s402/b/1], May 7, 1991, [105 Stat. 238][/us/stat/105/238]; [Pub. L. 102–82, § 7][/us/pl/102/82/s7], Aug. 6, 1991, [105 Stat. 377][/us/stat/105/377]; [Pub. L. 105–368, title V, § 512(a)(1)][/us/pl/105/368/s512/a/1], Nov. 11, 1998, [112 Stat. 3341][/us/stat/112/3341]; [Pub. L. 106–117, title X, § 1035(1)][/us/pl/106/117/s1035/1], Nov. 30, 1999, [113 Stat. 1595][/us/stat/113/1595].)
+(Added [Pub. L. 100–687, div. A, title III][/us/pl/100/687/dA/tIII], § 301(a), Nov. 18, 1988, [102 Stat. 4118][/us/stat/102/4118], § 4081; amended [Pub. L. 101–94, title II][/us/pl/101/94/tII], § 204(a), Aug. 16, 1989, [103 Stat. 627][/us/stat/103/627]; renumbered § 7281, [Pub. L. 102–40, title IV][/us/pl/102/40/tIV], § 402(b)(1), May 7, 1991, [105 Stat. 238][/us/stat/105/238]; [Pub. L. 102–82][/us/pl/102/82], § 7, Aug. 6, 1991, [105 Stat. 377][/us/stat/105/377]; [Pub. L. 105–368, title V][/us/pl/105/368/tV], § 512(a)(1), Nov. 11, 1998, [112 Stat. 3341][/us/stat/112/3341]; [Pub. L. 106–117, title X][/us/pl/106/117/tX], § 1035(1), Nov. 30, 1999, [113 Stat. 1595][/us/stat/113/1595].)
 
  __References in Text__ 
 
@@ -61,19 +61,19 @@
 
  __Effective Date of 1989 Amendment__ 
 
-[Pub. L. 101–94, title II, § 204(c)][/us/pl/101/94/s204/c], Aug. 16, 1989, [103 Stat. 627][/us/stat/103/627], provided that: 
+[Pub. L. 101–94, title II][/us/pl/101/94/tII], § 204(c), Aug. 16, 1989, [103 Stat. 627][/us/stat/103/627], provided that: 
 
 > “Notwithstanding section 401 of the Veterans’ Judicial Review Act \[[Pub. L. 100–687][/us/pl/100/687], set out as an Effective Date note under [section 7251 of this title][/us/usc/t38/s7251]\], the authority provided by section 4081 \[now 7281\] of title 38, United States Code, as amended by subsection (a), shall take effect on the date of the enactment of this Act \[Aug. 16, 1989\].”
 
  __Limitation on Conversion of Employees to Competitive Service__ 
 
-[Pub. L. 101–94, title II, § 204(b)][/us/pl/101/94/s204/b], Aug. 16, 1989, [103 Stat. 627][/us/stat/103/627], as amended by [Pub. L. 105–368, title V, § 512(c)][/us/pl/105/368/s512/c], Nov. 11, 1998, [112 Stat. 3342][/us/stat/112/3342], provided that: 
+[Pub. L. 101–94, title II][/us/pl/101/94/tII], § 204(b), Aug. 16, 1989, [103 Stat. 627][/us/stat/103/627], as amended by [Pub. L. 105–368, title V][/us/pl/105/368/tV], § 512(c), Nov. 11, 1998, [112 Stat. 3342][/us/stat/112/3342], provided that: 
 
 > “Notwithstanding clause (1)(A) of the proviso under the heading ‘Court of Veterans Appeals’ in chapter XI of \[title I of\] [Public Law 101–45][/us/pl/101/45] \[formerly set out below\], no employee of the United States Court of Appeals for Veterans Claims may be converted to the competitive service without the approval of the Court.”
 
  __Appointment of Employees Eligible for Noncompetitive Conversion to Position in Competitive Service; Procurement of Experts and Consultants__ 
 
-    [Pub. L. 101–45, title I][/us/pl/101/45], June 30, 1989, [103 Stat. 113][/us/stat/103/113], authorized United States Court of Veterans Appeals, during fiscal year 1989, to appoint not to exceed 35 employees to positions in competitive service if certain requirements were met and to procure services of experts and consultants.
+    [Pub. L. 101–45, title I][/us/pl/101/45/tI], June 30, 1989, [103 Stat. 113][/us/stat/103/113], authorized United States Court of Veterans Appeals, during fiscal year 1989, to appoint not to exceed 35 employees to positions in competitive service if certain requirements were met and to procure services of experts and consultants.
 
 ----------
 
@@ -87,17 +87,17 @@
 [/us/usc/t5/s3109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3109
 [/us/usc/t5/s3132/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3132%2Fa%2F1
 [/us/usc/t5/s3102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3102%2Fb
-[/us/pl/100/687/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F687%2Fs301%2Fa
+[/us/pl/100/687/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F687%2FdA%2FtIII
 [/us/stat/102/4118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4118
-[/us/pl/101/94/s204/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F94%2Fs204%2Fa
+[/us/pl/101/94/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F94%2FtII
 [/us/stat/103/627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F627
-[/us/pl/102/40/s402/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs402%2Fb%2F1
+[/us/pl/102/40/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2FtIV
 [/us/stat/105/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F238
-[/us/pl/102/82/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F82%2Fs7
+[/us/pl/102/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F82
 [/us/stat/105/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F377
-[/us/pl/105/368/s512/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2Fs512%2Fa%2F1
+[/us/pl/105/368/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2FtV
 [/us/stat/112/3341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3341
-[/us/pl/106/117/s1035/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117%2Fs1035%2F1
+[/us/pl/106/117/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117%2FtX
 [/us/stat/113/1595]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1595
 [/us/pl/106/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117
 [/us/pl/105/368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368
@@ -111,16 +111,16 @@
 [/us/pl/105/368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368
 [/us/pl/105/368/s513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2Fs513
 [/us/usc/t38/s7251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7251
-[/us/pl/101/94/s204/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F94%2Fs204%2Fc
+[/us/pl/101/94/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F94%2FtII
 [/us/stat/103/627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F627
 [/us/pl/100/687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F687
 [/us/usc/t38/s7251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7251
-[/us/pl/101/94/s204/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F94%2Fs204%2Fb
+[/us/pl/101/94/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F94%2FtII
 [/us/stat/103/627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F627
-[/us/pl/105/368/s512/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2Fs512%2Fc
+[/us/pl/105/368/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2FtV
 [/us/stat/112/3342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3342
 [/us/pl/101/45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F45
-[/us/pl/101/45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F45
+[/us/pl/101/45/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F45%2FtI
 [/us/stat/103/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F113
 
 

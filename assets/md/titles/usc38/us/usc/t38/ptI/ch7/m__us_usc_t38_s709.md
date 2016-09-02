@@ -35,13 +35,13 @@
 
             (B) to the appointment of any person to (i) a Senior Executive Service position as a noncareer appointee, or (ii) a position that is excepted from the competitive service, on a temporary or permanent basis, because of the confidential or policy-determining character of the position.
 
-(Added [Pub. L. 102–83, § 2(a)][/us/pl/102/83/s2/a], Aug. 6, 1991, [105 Stat. 395][/us/stat/105/395]; amended [Pub. L. 102–405, title III, § 302(c)(1)][/us/pl/102/405/s302/c/1], Oct. 9, 1992, [106 Stat. 1984][/us/stat/106/1984].)
+(Added [Pub. L. 102–83][/us/pl/102/83], § 2(a), Aug. 6, 1991, [105 Stat. 395][/us/stat/105/395]; amended [Pub. L. 102–405, title III][/us/pl/102/405/tIII], § 302(c)(1), Oct. 9, 1992, [106 Stat. 1984][/us/stat/106/1984].)
 
  __Prior Provisions__ 
 
     Prior sections 709 and 710 were renumbered sections 1909 and 1910 of this title, respectively.
 
-    Provisions similar to those in this section were contained in [section 12 of Pub. L. 100–527][/us/pl/100/527/s12], known as the Department of Veterans Affairs Act, prior to repeal by [Pub. L. 102–83, § 3(3)][/us/pl/102/83/s3/3].
+    Provisions similar to those in this section were contained in [section 12 of Pub. L. 100–527][/us/pl/100/527/s12], known as the Department of Veterans Affairs Act, prior to repeal by [Pub. L. 102–83][/us/pl/102/83], § 3(3).
 
  __Amendments__ 
 
@@ -55,12 +55,12 @@
 ----------
 
 [/us/usc/t5/s3134/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3134%2Fd
-[/us/pl/102/83/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs2%2Fa
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F395
-[/us/pl/102/405/s302/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405%2Fs302%2Fc%2F1
+[/us/pl/102/405/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405%2FtIII
 [/us/stat/106/1984]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1984
 [/us/pl/100/527/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F527%2Fs12
-[/us/pl/102/83/s3/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs3%2F3
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/pl/102/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405
 
 

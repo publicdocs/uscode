@@ -63,7 +63,7 @@
 
         (4) Any other nurse position designated by the Secretary for purposes of this section.
 
-(Added [Pub. L. 111–163, title VI, § 602(a)(1)][/us/pl/111/163/s602/a/1], May 5, 2010, [124 Stat. 1172][/us/stat/124/1172].)
+(Added [Pub. L. 111–163, title VI][/us/pl/111/163/tVI], § 602(a)(1), May 5, 2010, [124 Stat. 1172][/us/stat/124/1172].)
 
 ----------
 
@@ -74,7 +74,7 @@
 
 [/us/usc/t38/s7456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7456
 [/us/usc/t42/s2000e–3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2000e%E2%80%933%2Fa
-[/us/pl/111/163/s602/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163%2Fs602%2Fa%2F1
+[/us/pl/111/163/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163%2FtVI
 [/us/stat/124/1172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1172
 
 

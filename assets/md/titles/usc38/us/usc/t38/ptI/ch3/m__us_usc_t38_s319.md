@@ -39,17 +39,17 @@
 
         (3) The Secretary shall ensure that any performance appraisal of the Director of the Office of Employment Discrimination Complaint Adjudication or of any employee of the Office does not take into consideration the record of the Director or employee in deciding cases for or against the Department.
 
-(Added [Pub. L. 105–114, title I, § 102(a)(1)][/us/pl/105/114/s102/a/1], Nov. 21, 1997, [111 Stat. 2280][/us/stat/111/2280].)
+(Added [Pub. L. 105–114, title I][/us/pl/105/114/tI], § 102(a)(1), Nov. 21, 1997, [111 Stat. 2280][/us/stat/111/2280].)
 
  __Effective Date__ 
 
-[Pub. L. 105–114, title I, § 102(c)][/us/pl/105/114/s102/c], Nov. 21, 1997, [111 Stat. 2281][/us/stat/111/2281], provided that: 
+[Pub. L. 105–114, title I][/us/pl/105/114/tI], § 102(c), Nov. 21, 1997, [111 Stat. 2281][/us/stat/111/2281], provided that: 
 
 > “[Section 319 of title 38][/us/usc/t38/s319], United States Code, as added by subsection (a), shall take effect 90 days after the date of enactment of this Act \[Nov. 21, 1997\].”
 
  __Reports on Implementation__ 
 
-[Pub. L. 105–114, title I, § 102(b)][/us/pl/105/114/s102/b], Nov. 21, 1997, [111 Stat. 2281][/us/stat/111/2281], provided that: 
+[Pub. L. 105–114, title I][/us/pl/105/114/tI], § 102(b), Nov. 21, 1997, [111 Stat. 2281][/us/stat/111/2281], provided that: 
 
 > “The Director of the Office of Employment Discrimination Complaint Adjudication of the Department of Veterans Affairs (established by [section 319 of title 38][/us/usc/t38/s319], United States Code, as added by subsection (a)) shall submit to the Secretary of Veterans Affairs and to Congress reports on the implementation and the operation of that office. The first such report shall be submitted not later than April 1, 1998, and subsequent reports shall be submitted not later than January 1, 1999, and January 1, 2000.”
 
@@ -60,12 +60,12 @@
 ----------
 ----------
 
-[/us/pl/105/114/s102/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F114%2Fs102%2Fa%2F1
+[/us/pl/105/114/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F114%2FtI
 [/us/stat/111/2280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2280
-[/us/pl/105/114/s102/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F114%2Fs102%2Fc
+[/us/pl/105/114/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F114%2FtI
 [/us/stat/111/2281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2281
 [/us/usc/t38/s319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs319
-[/us/pl/105/114/s102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F114%2Fs102%2Fb
+[/us/pl/105/114/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F114%2FtI
 [/us/stat/111/2281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2281
 [/us/usc/t38/s319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs319
 

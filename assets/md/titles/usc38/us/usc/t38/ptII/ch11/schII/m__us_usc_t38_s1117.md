@@ -111,49 +111,49 @@
 
         (3) The Secretary shall publish in the Federal Register a list of medical research projects sponsored by the Department for which service connection granted under this section or [section 1118 of this title][/us/usc/t38/s1118] may not be terminated pursuant to paragraph (1).
 
-(Added [Pub. L. 103–446, title I, § 106(a)(1)][/us/pl/103/446/s106/a/1], Nov. 2, 1994, [108 Stat. 4650][/us/stat/108/4650]; amended [Pub. L. 105–277, div. C, title XVI, § 1602(c)][/us/pl/105/277/s1602/c], Oct. 21, 1998, [112 Stat. 2681–744][/us/stat/112/2681-744]; [Pub. L. 107–103, title II][/us/pl/107/103], §§ 202(a), (b)(1), (d)(1), 203(a), Dec. 27, 2001, [115 Stat. 988][/us/stat/115/988], 989; [Pub. L. 109–233, title V, § 503(1)][/us/pl/109/233/s503/1], June 15, 2006, [120 Stat. 415][/us/stat/120/415].)
+(Added [Pub. L. 103–446, title I][/us/pl/103/446/tI], § 106(a)(1), Nov. 2, 1994, [108 Stat. 4650][/us/stat/108/4650]; amended [Pub. L. 105–277, div. C, title XVI][/us/pl/105/277/dC/tXVI], § 1602(c), Oct. 21, 1998, [112 Stat. 2681–744][/us/stat/112/2681-744]; [Pub. L. 107–103, title II][/us/pl/107/103/tII], §§ 202(a), (b)(1), (d)(1), 203(a), Dec. 27, 2001, [115 Stat. 988][/us/stat/115/988], 989; [Pub. L. 109–233, title V][/us/pl/109/233/tV], § 503(1), June 15, 2006, [120 Stat. 415][/us/stat/120/415].)
 
  __Amendments__ 
 
     2006—Subsec. (h)(1). [Pub. L. 109–233][/us/pl/109/233] substituted “notwithstanding” for “nothwithstanding”.
 
-    2001—Subsec. (a). [Pub. L. 107–103, § 202(a)(1)][/us/pl/107/103/s202/a/1], amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The Secretary may pay compensation under this subchapter to any Persian Gulf veteran suffering from a chronic disability resulting from an undiagnosed illness (or combination of undiagnosed illnesses) that—
+    2001—Subsec. (a). [Pub. L. 107–103][/us/pl/107/103], § 202(a)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The Secretary may pay compensation under this subchapter to any Persian Gulf veteran suffering from a chronic disability resulting from an undiagnosed illness (or combination of undiagnosed illnesses) that—
 
     “(1) became manifest during service on active duty in the Armed Forces in the Southwest Asia theater of operations during the Persian Gulf War; or
 
     “(2) became manifest to a degree of 10 percent or more within the presumptive period prescribed under subsection (b).”
 
-    Subsec. (c)(1). [Pub. L. 107–103, § 202(a)(2)(A)][/us/pl/107/103/s202/a/2/A], struck out “for an undiagnosed illness (or combination of undiagnosed illnesses)” after “service connection” in introductory provisions.
+    Subsec. (c)(1). [Pub. L. 107–103][/us/pl/107/103], § 202(a)(2)(A), struck out “for an undiagnosed illness (or combination of undiagnosed illnesses)” after “service connection” in introductory provisions.
 
-    Subsec. (c)(1)(A). [Pub. L. 107–103, § 202(a)(2)(B)][/us/pl/107/103/s202/a/2/B], struck out “for such illness (or combination of illnesses)” after “awarded compensation under this section”.
+    Subsec. (c)(1)(A). [Pub. L. 107–103][/us/pl/107/103], § 202(a)(2)(B), struck out “for such illness (or combination of illnesses)” after “awarded compensation under this section”.
 
-    Subsec. (c)(2). [Pub. L. 107–103, § 202(d)(1)][/us/pl/107/103/s202/d/1], substituted “on September 30, 2011” for “10 years after the first day of the fiscal year in which the National Academy of Sciences submits to the Secretary the first report under section 1603 of the Persian Gulf War Veterans Act of 1998”.
+    Subsec. (c)(2). [Pub. L. 107–103][/us/pl/107/103], § 202(d)(1), substituted “on September 30, 2011” for “10 years after the first day of the fiscal year in which the National Academy of Sciences submits to the Secretary the first report under section 1603 of the Persian Gulf War Veterans Act of 1998”.
 
-    Subsec. (g). [Pub. L. 107–103, § 202(b)(1)][/us/pl/107/103/s202/b/1], added subsec. (g).
+    Subsec. (g). [Pub. L. 107–103][/us/pl/107/103], § 202(b)(1), added subsec. (g).
 
-    Subsec. (h). [Pub. L. 107–103, § 203(a)][/us/pl/107/103/s203/a], added subsec. (h).
+    Subsec. (h). [Pub. L. 107–103][/us/pl/107/103], § 203(a), added subsec. (h).
 
     1998—Subsecs. (c) to (f). [Pub. L. 105–277][/us/pl/105/277] added subsec. (c) and redesignated former subsecs. (c) to (e) as (d) to (f), respectively.
 
  __Effective Date of 2001 Amendment__ 
 
-[Pub. L. 107–103, title II, § 202(c)][/us/pl/107/103/s202/c], Dec. 27, 2001, [115 Stat. 989][/us/stat/115/989], provided that: 
+[Pub. L. 107–103, title II][/us/pl/107/103/tII], § 202(c), Dec. 27, 2001, [115 Stat. 989][/us/stat/115/989], provided that: 
 
 > “The amendments made by subsections (a) and (b) \[amending this section and [section 1118 of this title][/us/usc/t38/s1118]\] shall take effect on March 1, 2002.”
 
-[Pub. L. 107–103, title II, § 203(b)][/us/pl/107/103/s203/b], Dec. 27, 2001, [115 Stat. 990][/us/stat/115/990], provided that: 
+[Pub. L. 107–103, title II][/us/pl/107/103/tII], § 203(b), Dec. 27, 2001, [115 Stat. 990][/us/stat/115/990], provided that: 
 
 > “The authority provided by subsection (h) of [section 1117 of title 38][/us/usc/t38/s1117], United States Code, as added by subsection (a), may be used by the Secretary of Veterans Affairs with respect to any medical research project of the Department of Veterans Affairs, whether commenced before, on, or after the date of the enactment of this Act \[Dec. 27, 2001\].”
 
  __Regulations__ 
 
-[Pub. L. 103–446, title I, § 106(d)][/us/pl/103/446/s106/d], Nov. 2, 1994, [108 Stat. 4651][/us/stat/108/4651], provided that: 
+[Pub. L. 103–446, title I][/us/pl/103/446/tI], § 106(d), Nov. 2, 1994, [108 Stat. 4651][/us/stat/108/4651], provided that: 
 
 > “If the Secretary states in the report under subsection (c) \[set out below\] that the Secretary intends to pay compensation as provided in [section 1117 of title 38][/us/usc/t38/s1117], United States Code, as added by subsection (a), the Secretary shall, not later than 30 days after the date on which such report is submitted, publish in the Federal Register proposed regulations under subsections (b) and (c) of that section.”
 
  __Agreement With National Academy of Sciences Regarding Evaluation of Health Consequences of Service in Southwest Asia During the Persian Gulf War__ 
 
-[Pub. L. 105–368, title I, § 101][/us/pl/105/368/s101], Nov. 11, 1998, [112 Stat. 3317][/us/stat/112/3317], as amended by [Pub. L. 111–275, title VIII, § 806(b)(1)][/us/pl/111/275/s806/b/1], (2), Oct. 13, 2010, [124 Stat. 2891][/us/stat/124/2891], provided that:
+[Pub. L. 105–368, title I][/us/pl/105/368/tI], § 101, Nov. 11, 1998, [112 Stat. 3317][/us/stat/112/3317], as amended by [Pub. L. 111–275, title VIII][/us/pl/111/275/tVIII], § 806(b)(1), (2), Oct. 13, 2010, [124 Stat. 2891][/us/stat/124/2891], provided that:
 
 >     “(a)  __Purpose__  __.—__ 
 
@@ -385,7 +385,7 @@
 
  __Improving Effectiveness of Care of Persian Gulf War Veterans__ 
 
-[Pub. L. 105–368, title I, § 105][/us/pl/105/368/s105], Nov. 11, 1998, [112 Stat. 3324][/us/stat/112/3324], provided that:
+[Pub. L. 105–368, title I][/us/pl/105/368/tI], § 105, Nov. 11, 1998, [112 Stat. 3324][/us/stat/112/3324], provided that:
 
 >     “(a)  __Assessment by National Academy of Sciences__  __.—__ 
 
@@ -405,7 +405,7 @@
 
  __Agreement With National Academy of Sciences Regarding Toxic Drugs and Illnesses Associated With Gulf War__ 
 
-[Pub. L. 105–277, div. C, title XVI][/us/pl/105/277], §§ 1603–1605, Oct. 21, 1998, [112 Stat. 2681–745][/us/stat/112/2681-745] to 2681–748, as amended by [Pub. L. 107–103, title II, § 202(d)(2)][/us/pl/107/103/s202/d/2], Dec. 27, 2001, [115 Stat. 989][/us/stat/115/989]; [Pub. L. 111–275, title VIII, § 806(a)][/us/pl/111/275/s806/a], (b)(3), Oct. 13, 2010, [124 Stat. 2890][/us/stat/124/2890], 2893, provided that:
+[Pub. L. 105–277, div. C, title XVI][/us/pl/105/277/dC/tXVI], §§ 1603–1605, Oct. 21, 1998, [112 Stat. 2681–745][/us/stat/112/2681-745] to 2681–748, as amended by [Pub. L. 107–103, title II][/us/pl/107/103/tII], § 202(d)(2), Dec. 27, 2001, [115 Stat. 989][/us/stat/115/989]; [Pub. L. 111–275, title VIII][/us/pl/111/275/tVIII], § 806(a), (b)(3), Oct. 13, 2010, [124 Stat. 2890][/us/stat/124/2890], 2893, provided that:
 
 > “SEC. 1603. __AGREEMENT WITH NATIONAL ACADEMY OF SCIENCES.__ 
 
@@ -627,7 +627,7 @@
 
 >         “(2) The term ‘Post-9/11 Global Theater of Operations’ means Afghanistan, Iraq, and any other theater of operations for which the Global War on Terrorism Expeditionary Medal is awarded for service.
 
-> “\[SEC. 1604. Repealed. [Pub. L. 111–275, title VIII, § 806(b)(3)][/us/pl/111/275/s806/b/3], Oct. 13, 2010, [124 Stat. 2893][/us/stat/124/2893].\]
+> “\[SEC. 1604. Repealed. [Pub. L. 111–275, title VIII][/us/pl/111/275/tVIII], § 806(b)(3), Oct. 13, 2010, [124 Stat. 2893][/us/stat/124/2893].\]
 
 > “SEC. 1605. __DEFINITIONS.__ 
 
@@ -647,7 +647,7 @@
 
  __Persian Gulf War Veterans’ Benefits__ 
 
-Sections 102 to 105, 107, 109, and 110 of title I of [Pub. L. 103–446][/us/pl/103/446], as amended by [Pub. L. 104–262, title III, § 352(a)][/us/pl/104/262/s352/a], Oct. 9, 1996, [110 Stat. 3210][/us/stat/110/3210]; [Pub. L. 105–368, title I, § 107][/us/pl/105/368/s107], Nov. 11, 1998, [112 Stat. 3325][/us/stat/112/3325]; [Pub. L. 106–117, title II, § 205(b)][/us/pl/106/117/s205/b], (c), Nov. 30, 1999, [113 Stat. 1563][/us/stat/113/1563], provided that:
+Sections 102 to 105, 107, 109, and 110 of title I of [Pub. L. 103–446][/us/pl/103/446], as amended by [Pub. L. 104–262, title III][/us/pl/104/262/tIII], § 352(a), Oct. 9, 1996, [110 Stat. 3210][/us/stat/110/3210]; [Pub. L. 105–368, title I][/us/pl/105/368/tI], § 107, Nov. 11, 1998, [112 Stat. 3325][/us/stat/112/3325]; [Pub. L. 106–117, title II][/us/pl/106/117/tII], § 205(b), (c), Nov. 30, 1999, [113 Stat. 1563][/us/stat/113/1563], provided that:
 
 > “SEC. 102. __FINDINGS.__ 
 
@@ -819,7 +819,7 @@ Sections 102 to 105, 107, 109, and 110 of title I of [Pub. L. 103–446][/us/pl/
 
 >     There are authorized to be appropriated to the Department such sums as are necessary for the conduct of studies described in subsection (a).”
 
-\[[Pub. L. 104–262, title III, § 352(b)][/us/pl/104/262/s352/b], Oct. 9, 1996, [110 Stat. 3211][/us/stat/110/3211], provided that: 
+\[[Pub. L. 104–262, title III][/us/pl/104/262/tIII], § 352(b), Oct. 9, 1996, [110 Stat. 3211][/us/stat/110/3211], provided that: 
 
 > “Any diagnostic testing and medical examinations undertaken by the Secretary of Veterans Affairs for the purpose of the study required by subsection (a) of such section \[[section 107(a) of Pub. L. 103–446][/us/pl/103/446/s107/a], set out above\] during the period beginning on October 1, 1996, and ending on the date of the enactment of this Act \[Oct. 9, 1996\] is hereby ratified.”
 
@@ -871,58 +871,58 @@ Sections 102 to 105, 107, 109, and 110 of title I of [Pub. L. 103–446][/us/pl/
 [/us/usc/t38/s1118/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1118%2Fc
 [/us/usc/t38/s1118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1118
 [/us/usc/t38/s1118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1118
-[/us/pl/103/446/s106/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2Fs106%2Fa%2F1
+[/us/pl/103/446/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2FtI
 [/us/stat/108/4650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4650
-[/us/pl/105/277/s1602/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1602%2Fc
+[/us/pl/105/277/dC/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdC%2FtXVI
 [/us/stat/112/2681-744]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-744
-[/us/pl/107/103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F103
+[/us/pl/107/103/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F103%2FtII
 [/us/stat/115/988]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F988
-[/us/pl/109/233/s503/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F233%2Fs503%2F1
+[/us/pl/109/233/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F233%2FtV
 [/us/stat/120/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F415
 [/us/pl/109/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F233
-[/us/pl/107/103/s202/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F103%2Fs202%2Fa%2F1
-[/us/pl/107/103/s202/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F103%2Fs202%2Fa%2F2%2FA
-[/us/pl/107/103/s202/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F103%2Fs202%2Fa%2F2%2FB
-[/us/pl/107/103/s202/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F103%2Fs202%2Fd%2F1
-[/us/pl/107/103/s202/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F103%2Fs202%2Fb%2F1
-[/us/pl/107/103/s203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F103%2Fs203%2Fa
+[/us/pl/107/103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F103
+[/us/pl/107/103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F103
+[/us/pl/107/103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F103
+[/us/pl/107/103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F103
+[/us/pl/107/103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F103
+[/us/pl/107/103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F103
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
-[/us/pl/107/103/s202/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F103%2Fs202%2Fc
+[/us/pl/107/103/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F103%2FtII
 [/us/stat/115/989]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F989
 [/us/usc/t38/s1118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1118
-[/us/pl/107/103/s203/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F103%2Fs203%2Fb
+[/us/pl/107/103/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F103%2FtII
 [/us/stat/115/990]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F990
 [/us/usc/t38/s1117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1117
-[/us/pl/103/446/s106/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2Fs106%2Fd
+[/us/pl/103/446/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2FtI
 [/us/stat/108/4651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4651
 [/us/usc/t38/s1117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1117
-[/us/pl/105/368/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2Fs101
+[/us/pl/105/368/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2FtI
 [/us/stat/112/3317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3317
-[/us/pl/111/275/s806/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275%2Fs806%2Fb%2F1
+[/us/pl/111/275/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275%2FtVIII
 [/us/stat/124/2891]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2891
 [/us/usc/t38/s101/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs101%2F33
-[/us/pl/105/368/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2Fs105
+[/us/pl/105/368/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2FtI
 [/us/stat/112/3324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3324
-[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277/dC/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdC%2FtXVI
 [/us/stat/112/2681-745]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-745
-[/us/pl/107/103/s202/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F103%2Fs202%2Fd%2F2
+[/us/pl/107/103/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F103%2FtII
 [/us/stat/115/989]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F989
-[/us/pl/111/275/s806/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275%2Fs806%2Fa
+[/us/pl/111/275/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275%2FtVIII
 [/us/stat/124/2890]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2890
 [/us/usc/t38/s1118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1118
 [/us/usc/t38/s101/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs101%2F33
-[/us/pl/111/275/s806/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275%2Fs806%2Fb%2F3
+[/us/pl/111/275/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275%2FtVIII
 [/us/stat/124/2893]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2893
 [/us/usc/t38/s1118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1118
 [/us/usc/t38/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1113
 [/us/usc/t38/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs101
 [/us/usc/t38/s101/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs101%2F33
 [/us/pl/103/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446
-[/us/pl/104/262/s352/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F262%2Fs352%2Fa
+[/us/pl/104/262/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F262%2FtIII
 [/us/stat/110/3210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3210
-[/us/pl/105/368/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2Fs107
+[/us/pl/105/368/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2FtI
 [/us/stat/112/3325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3325
-[/us/pl/106/117/s205/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117%2Fs205%2Fb
+[/us/pl/106/117/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117%2FtII
 [/us/stat/113/1563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1563
 [/us/pl/102/585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F585
 [/us/usc/t38/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs101
@@ -940,7 +940,7 @@ Sections 102 to 105, 107, 109, and 110 of title I of [Pub. L. 103–446][/us/pl/
 [/us/usc/t38/s101/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs101%2F33
 [/us/pl/102/585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F585
 [/us/usc/t38/s527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs527
-[/us/pl/104/262/s352/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F262%2Fs352%2Fb
+[/us/pl/104/262/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F262%2FtIII
 [/us/stat/110/3211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3211
 [/us/pl/103/446/s107/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2Fs107%2Fa
 [/us/pl/103/446/s106/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2Fs106%2Fc

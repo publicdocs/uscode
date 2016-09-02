@@ -55,7 +55,7 @@
 
         (3) The deposits into, and expenditures from, the Fund that are incurred or projected for each of the preceding fiscal year, the current fiscal year, and the fiscal year covered by the budget.
 
-(Added [Pub. L. 108–422, title IV, § 411(a)(1)][/us/pl/108/422/s411/a/1], Nov. 30, 2004, [118 Stat. 2388][/us/stat/118/2388]; amended [Pub. L. 112–37, § 10(g)][/us/pl/112/37/s10/g], Oct. 5, 2011, [125 Stat. 397][/us/stat/125/397].)
+(Added [Pub. L. 108–422, title IV][/us/pl/108/422/tIV], § 411(a)(1), Nov. 30, 2004, [118 Stat. 2388][/us/stat/118/2388]; amended [Pub. L. 112–37][/us/pl/112/37], § 10(g), Oct. 5, 2011, [125 Stat. 397][/us/stat/125/397].)
 
  __Amendments__ 
 
@@ -63,7 +63,7 @@
 
  __Transfer of Unobligated Balances to Capital Asset Fund__ 
 
-[Pub. L. 108–422, title IV, § 411(d)][/us/pl/108/422/s411/d], Nov. 30, 2004, [118 Stat. 2389][/us/stat/118/2389], provided that: 
+[Pub. L. 108–422, title IV][/us/pl/108/422/tIV], § 411(d), Nov. 30, 2004, [118 Stat. 2389][/us/stat/118/2389], provided that: 
 
 > “Any unobligated balances in the nursing home revolving fund under [section 8116 of title 38][/us/usc/t38/s8116], United States Code, as of the date of the enactment of this Act \[Nov. 30, 2004\] shall be deposited in the Department of Veterans Affairs Capital Asset Fund established under [section 8118 of title 38][/us/usc/t38/s8118], United States Code (as added by subsection (a)).”
 
@@ -79,12 +79,12 @@
 [/us/usc/t38/s2002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs2002
 [/us/usc/t38/s8122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs8122
 [/us/usc/t38/s8164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs8164
-[/us/pl/108/422/s411/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F422%2Fs411%2Fa%2F1
+[/us/pl/108/422/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F422%2FtIV
 [/us/stat/118/2388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2388
-[/us/pl/112/37/s10/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F37%2Fs10%2Fg
+[/us/pl/112/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F37
 [/us/stat/125/397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F397
 [/us/pl/112/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F37
-[/us/pl/108/422/s411/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F422%2Fs411%2Fd
+[/us/pl/108/422/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F422%2FtIV
 [/us/stat/118/2389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2389
 [/us/usc/t38/s8116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs8116
 [/us/usc/t38/s8118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs8118

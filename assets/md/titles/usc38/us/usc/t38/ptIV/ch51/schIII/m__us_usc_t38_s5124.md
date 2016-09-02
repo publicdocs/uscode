@@ -41,7 +41,7 @@
 
         (4) there is reasonable indication, in the statement or otherwise, of fraud or misrepresentation.
 
-(Added [Pub. L. 103–446, title III, § 301(a)][/us/pl/103/446/s301/a], Nov. 2, 1994, [108 Stat. 4657][/us/stat/108/4657].)
+(Added [Pub. L. 103–446, title III][/us/pl/103/446/tIII], § 301(a), Nov. 2, 1994, [108 Stat. 4657][/us/stat/108/4657].)
 
 ----------
 
@@ -50,7 +50,7 @@
 ----------
 ----------
 
-[/us/pl/103/446/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2Fs301%2Fa
+[/us/pl/103/446/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2FtIII
 [/us/stat/108/4657]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4657
 
 

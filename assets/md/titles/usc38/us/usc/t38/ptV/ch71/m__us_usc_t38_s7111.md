@@ -27,7 +27,7 @@
 
     (f) A claim filed with the Secretary that requests reversal or revision of a previous Board decision due to clear and unmistakable error shall be considered to be a request to the Board under this section, and the Secretary shall promptly transmit any such request to the Board for its consideration under this section.
 
-(Added [Pub. L. 105–111, § 1(b)(1)][/us/pl/105/111/s1/b/1], Nov. 21, 1997, [111 Stat. 2271][/us/stat/111/2271].)
+(Added [Pub. L. 105–111][/us/pl/105/111], § 1(b)(1), Nov. 21, 1997, [111 Stat. 2271][/us/stat/111/2271].)
 
  __Effective Date__ 
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/105/111/s1/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F111%2Fs1%2Fb%2F1
+[/us/pl/105/111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F111
 [/us/stat/111/2271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2271
 [/us/pl/105/111/s1/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F111%2Fs1%2Fc%2F1
 [/us/usc/t38/s5109A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs5109A

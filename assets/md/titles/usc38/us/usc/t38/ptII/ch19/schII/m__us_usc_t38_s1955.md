@@ -27,7 +27,7 @@
 
         (3) This subsection shall be in effect only with respect to fiscal year 1996.
 
-([Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1161][/us/stat/72/1161], § 755; renumbered § 1955 and amended [Pub. L. 102–83][/us/pl/102/83], §§ 4(b)(1), (2)(E), 5(a), Aug. 6, 1991, [105 Stat. 404–406][/us/stat/105/404-406]; [Pub. L. 104–99, title II, § 201(b)][/us/pl/104/99/s201/b], Jan. 26, 1996, [110 Stat. 36][/us/stat/110/36].)
+([Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1161][/us/stat/72/1161], § 755; renumbered § 1955 and amended [Pub. L. 102–83][/us/pl/102/83], §§ 4(b)(1), (2)(E), 5(a), Aug. 6, 1991, [105 Stat. 404–406][/us/stat/105/404-406]; [Pub. L. 104–99, title II][/us/pl/104/99/tII], § 201(b), Jan. 26, 1996, [110 Stat. 36][/us/stat/110/36].)
 
  __Codification__ 
 
@@ -52,7 +52,7 @@
 [/us/stat/72/1161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1161
 [/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/404-406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F404-406
-[/us/pl/104/99/s201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F99%2Fs201%2Fb
+[/us/pl/104/99/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F99%2FtII
 [/us/stat/110/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F36
 [/us/pl/104/99]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F99
 [/us/pl/104/99]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F99

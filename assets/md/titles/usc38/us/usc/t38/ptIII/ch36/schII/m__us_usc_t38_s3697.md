@@ -19,7 +19,7 @@
 
     (b) Payments under this section shall not exceed $6,000,000 in any fiscal year.
 
-(Added [Pub. L. 100–687, div. B, title XIII, § 1302(a)][/us/pl/100/687/s1302/a], Nov. 18, 1988, [102 Stat. 4127][/us/stat/102/4127], § 1797; amended [Pub. L. 101–237, title IV, § 423(b)(1)(B)][/us/pl/101/237/s423/b/1/B], Dec. 18, 1989, [103 Stat. 2092][/us/stat/103/2092]; [Pub. L. 102–16, § 2(b)(3)][/us/pl/102/16/s2/b/3], Mar. 22, 1991, [105 Stat. 49][/us/stat/105/49]; renumbered § 3697 and amended [Pub. L. 102–83, § 5(a)][/us/pl/102/83/s5/a], (c)(1), Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406]; [Pub. L. 103–446, title VI, § 609(a)][/us/pl/103/446/s609/a], Nov. 2, 1994, [108 Stat. 4673][/us/stat/108/4673]; [Pub. L. 110–252, title V, § 5003(b)(2)(A)(vi)][/us/pl/110/252/s5003/b/2/A/vi], June 30, 2008, [122 Stat. 2375][/us/stat/122/2375].)
+(Added [Pub. L. 100–687, div. B, title XIII][/us/pl/100/687/dB/tXIII], § 1302(a), Nov. 18, 1988, [102 Stat. 4127][/us/stat/102/4127], § 1797; amended [Pub. L. 101–237, title IV][/us/pl/101/237/tIV], § 423(b)(1)(B), Dec. 18, 1989, [103 Stat. 2092][/us/stat/103/2092]; [Pub. L. 102–16][/us/pl/102/16], § 2(b)(3), Mar. 22, 1991, [105 Stat. 49][/us/stat/105/49]; renumbered § 3697 and amended [Pub. L. 102–83][/us/pl/102/83], § 5(a), (c)(1), Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406]; [Pub. L. 103–446, title VI][/us/pl/103/446/tVI], § 609(a), Nov. 2, 1994, [108 Stat. 4673][/us/stat/108/4673]; [Pub. L. 110–252, title V][/us/pl/110/252/tV], § 5003(b)(2)(A)(vi), June 30, 2008, [122 Stat. 2375][/us/stat/122/2375].)
 
  __Amendments__ 
 
@@ -27,9 +27,9 @@
 
     1994—Subsec. (b). [Pub. L. 103–446][/us/pl/103/446] substituted “$6,000,000” for “$5,000,000”.
 
-    1991—[Pub. L. 102–83, § 5(a)][/us/pl/102/83/s5/a], renumbered [section 1797 of this title][/us/usc/t38/s1797] as this section.
+    1991—[Pub. L. 102–83][/us/pl/102/83], § 5(a), renumbered [section 1797 of this title][/us/usc/t38/s1797] as this section.
 
-    Subsec. (a). [Pub. L. 102–83, § 5(c)(1)][/us/pl/102/83/s5/c/1], substituted “3697A” for “1797A” and “1524” for “524”.
+    Subsec. (a). [Pub. L. 102–83][/us/pl/102/83], § 5(c)(1), substituted “3697A” for “1797A” and “1524” for “524”.
 
     [Pub. L. 102–16][/us/pl/102/16] inserted “under [section 1797A of this title][/us/usc/t38/s1797A] or to an individual” after “individual”.
 
@@ -41,7 +41,7 @@
 
  __Effective Date of 1994 Amendment__ 
 
-[Pub. L. 103–446, title VI, § 609(b)][/us/pl/103/446/s609/b], Nov. 2, 1994, [108 Stat. 4673][/us/stat/108/4673], provided that: 
+[Pub. L. 103–446, title VI][/us/pl/103/446/tVI], § 609(b), Nov. 2, 1994, [108 Stat. 4673][/us/stat/108/4673], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall take effect on October 1, 1994.”
 
@@ -53,30 +53,30 @@
 ----------
 
 [/us/usc/t38/s3697A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3697A
-[/us/pl/100/687/s1302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F687%2Fs1302%2Fa
+[/us/pl/100/687/dB/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F687%2FdB%2FtXIII
 [/us/stat/102/4127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4127
-[/us/pl/101/237/s423/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237%2Fs423%2Fb%2F1%2FB
+[/us/pl/101/237/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237%2FtIV
 [/us/stat/103/2092]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2092
-[/us/pl/102/16/s2/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F16%2Fs2%2Fb%2F3
+[/us/pl/102/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F16
 [/us/stat/105/49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F49
-[/us/pl/102/83/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fa
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F406
-[/us/pl/103/446/s609/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2Fs609%2Fa
+[/us/pl/103/446/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2FtVI
 [/us/stat/108/4673]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4673
-[/us/pl/110/252/s5003/b/2/A/vi]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F252%2Fs5003%2Fb%2F2%2FA%2Fvi
+[/us/pl/110/252/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F252%2FtV
 [/us/stat/122/2375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2375
 [/us/pl/110/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F252
 [/us/pl/103/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446
-[/us/pl/102/83/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fa
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/usc/t38/s1797]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1797
-[/us/pl/102/83/s5/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fc%2F1
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/pl/102/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F16
 [/us/usc/t38/s1797A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1797A
 [/us/pl/101/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237
 [/us/pl/110/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F252
 [/us/pl/110/252/s5003/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F252%2Fs5003%2Fd
 [/us/usc/t10/s16163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs16163
-[/us/pl/103/446/s609/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2Fs609%2Fb
+[/us/pl/103/446/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2FtVI
 [/us/stat/108/4673]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4673
 
 

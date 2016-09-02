@@ -41,33 +41,33 @@
 
         (4) Notwithstanding paragraph (2), where a child receives dependency and indemnity compensation under this chapter, and thereafter dies, the portion of servicemen’s indemnity in which such child had an interest may be paid (subject to paragraph (3)) to another child of the person by reason of whose death such servicemen’s indemnity was payable.
 
-([Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1130][/us/stat/72/1130], § 416; [Pub. L. 94–433, title IV, § 405(11)][/us/pl/94/433/s405/11]–(16), Sept. 30, 1976, [90 Stat. 1380][/us/stat/90/1380]; [Pub. L. 97–295, § 4(11)][/us/pl/97/295/s4/11], Oct. 12, 1982, [96 Stat. 1305][/us/stat/96/1305]; renumbered § 1316 and amended [Pub. L. 102–83][/us/pl/102/83], §§ 4(a)(1), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, [105 Stat. 403–406][/us/stat/105/403-406].)
+([Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1130][/us/stat/72/1130], § 416; [Pub. L. 94–433, title IV][/us/pl/94/433/tIV], § 405(11)–(16), Sept. 30, 1976, [90 Stat. 1380][/us/stat/90/1380]; [Pub. L. 97–295][/us/pl/97/295], § 4(11), Oct. 12, 1982, [96 Stat. 1305][/us/stat/96/1305]; renumbered § 1316 and amended [Pub. L. 102–83][/us/pl/102/83], §§ 4(a)(1), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, [105 Stat. 403–406][/us/stat/105/403-406].)
 
  __References in Text__ 
 
-    The Servicemen’s Indemnity Act of 1951, referred to in subsec. (e), is [act Apr. 25, 1951, ch. 39][/us/act/1951-04-25/ch39], pt. I, [65 Stat. 33][/us/stat/65/33], as amended, which was classified generally to subchapter II (§ 851 et seq.) of chapter 13 of former Title 38, Pensions, Bonuses, and Veterans’ Relief, and was repealed by [act Aug. 1, 1956, ch. 837][/us/act/1956-08-01/ch837], title V, § 502(9), [70 Stat. 886][/us/stat/70/886].
+    The Servicemen’s Indemnity Act of 1951, referred to in subsec. (e), is [act Apr. 25, 1951, ch. 39][/us/act/1951-04-25/ch39], pt. I, [65 Stat. 33][/us/stat/65/33], as amended, which was classified generally to subchapter II (§ 851 et seq.) of chapter 13 of former Title 38, Pensions, Bonuses, and Veterans’ Relief, and was repealed by [act Aug. 1, 1956, ch. 837, title V][/us/act/1956-08-01/ch837/tV], § 502(9), [70 Stat. 886][/us/stat/70/886].
 
  __Amendments__ 
 
-    1991—[Pub. L. 102–83, § 5(a)][/us/pl/102/83/s5/a], renumbered [section 416 of this title][/us/usc/t38/s416] as this section.
+    1991—[Pub. L. 102–83][/us/pl/102/83], § 5(a), renumbered [section 416 of this title][/us/usc/t38/s416] as this section.
 
-    Subsec. (a)(2). [Pub. L. 102–83, § 5(c)(1)][/us/pl/102/83/s5/c/1], substituted “1315” for “415”.
+    Subsec. (a)(2). [Pub. L. 102–83][/us/pl/102/83], § 5(c)(1), substituted “1315” for “415”.
 
-    Subsecs. (b) to (d). [Pub. L. 102–83, § 4(a)(1)][/us/pl/102/83/s4/a/1], substituted “administered by the Secretary” for “administered by the Veterans’ Administration” wherever appearing.
+    Subsecs. (b) to (d). [Pub. L. 102–83][/us/pl/102/83], § 4(a)(1), substituted “administered by the Secretary” for “administered by the Veterans’ Administration” wherever appearing.
 
-    Subsec. (e)(3). [Pub. L. 102–83, § 4(b)(1)][/us/pl/102/83/s4/b/1], (2)(E), substituted “Secretary” for “Administrator” in two places.
+    Subsec. (e)(3). [Pub. L. 102–83][/us/pl/102/83], § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in two places.
 
     1982—Subsecs. (b)(1)(B), (2)(B), (c)(2), (d)(2). [Pub. L. 97–295][/us/pl/97/295] substituted “subchapter I of chapter 81 of title 5” for “the Federal Employees’ Compensation Act” wherever appearing.
 
-    1976—Subsec. (a). [Pub. L. 94–433, § 405(11)][/us/pl/94/433/s405/11], substituted “surviving spouse” for “widow” in par. (1) and “such person’s” for “his” in par. (2).
+    1976—Subsec. (a). [Pub. L. 94–433][/us/pl/94/433], § 405(11), substituted “surviving spouse” for “widow” in par. (1) and “such person’s” for “his” in par. (2).
 
-    Subsec. (b)(1). [Pub. L. 94–433, § 405(12)][/us/pl/94/433/s405/12], substituted “surviving spouse” and “such surviving spouse” for “widow” and “her”, respectively.
+    Subsec. (b)(1). [Pub. L. 94–433][/us/pl/94/433], § 405(12), substituted “surviving spouse” and “such surviving spouse” for “widow” and “her”, respectively.
 
-    Subsec. (c). [Pub. L. 94–433, § 405(13)][/us/pl/94/433/s405/13], substituted “paid to such child” for “paid to him”.
+    Subsec. (c). [Pub. L. 94–433][/us/pl/94/433], § 405(13), substituted “paid to such child” for “paid to him”.
 
-    Subsec. (d). [Pub. L. 94–433, § 405(14)][/us/pl/94/433/s405/14], substituted “such parent” for “him” in cls. (1) and (2).
+    Subsec. (d). [Pub. L. 94–433][/us/pl/94/433], § 405(14), substituted “such parent” for “him” in cls. (1) and (2).
 
-    Subsec. (e). [Pub. L. 94–433, § 405(15)][/us/pl/94/433/s405/15], (16), substituted “such person” and “such beneficiary’s” for “he” and “his”, respectively, in par. (1) and “such child’s” and “the Administrator” for “his” and “he”, respectively, in par. (3).
+    Subsec. (e). [Pub. L. 94–433][/us/pl/94/433], § 405(15), (16), substituted “such person” and “such beneficiary’s” for “he” and “his”, respectively, in par. (1) and “such child’s” and “the Administrator” for “his” and “he”, respectively, in par. (3).
 
  __Effective Date of 1976 Amendment__ 
 
@@ -83,27 +83,27 @@
 [/us/usc/t38/s1315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1315
 [/us/pl/85/857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F857
 [/us/stat/72/1130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1130
-[/us/pl/94/433/s405/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F433%2Fs405%2F11
+[/us/pl/94/433/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F433%2FtIV
 [/us/stat/90/1380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1380
-[/us/pl/97/295/s4/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295%2Fs4%2F11
+[/us/pl/97/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295
 [/us/stat/96/1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1305
 [/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/403-406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F403-406
 [/us/act/1951-04-25/ch39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-04-25%2Fch39
 [/us/stat/65/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F33
-[/us/act/1956-08-01/ch837]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-01%2Fch837
+[/us/act/1956-08-01/ch837/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-01%2Fch837%2FtV
 [/us/stat/70/886]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F886
-[/us/pl/102/83/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fa
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/usc/t38/s416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs416
-[/us/pl/102/83/s5/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fc%2F1
-[/us/pl/102/83/s4/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fa%2F1
-[/us/pl/102/83/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fb%2F1
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/pl/97/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295
-[/us/pl/94/433/s405/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F433%2Fs405%2F11
-[/us/pl/94/433/s405/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F433%2Fs405%2F12
-[/us/pl/94/433/s405/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F433%2Fs405%2F13
-[/us/pl/94/433/s405/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F433%2Fs405%2F14
-[/us/pl/94/433/s405/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F433%2Fs405%2F15
+[/us/pl/94/433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F433
+[/us/pl/94/433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F433
+[/us/pl/94/433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F433
+[/us/pl/94/433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F433
+[/us/pl/94/433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F433
 [/us/pl/94/433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F433
 [/us/pl/94/433/s406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F433%2Fs406
 [/us/usc/t38/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1101

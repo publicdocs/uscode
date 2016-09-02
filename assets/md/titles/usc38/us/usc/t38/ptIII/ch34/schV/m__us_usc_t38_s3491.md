@@ -33,35 +33,35 @@
 
     (c) The provisions of section 3473(d)(1)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title, relating to the disapproval of enrollment in certain courses, shall be applicable to the enrollment of an eligible veteran who, while serving on active duty, enrolls in one or more courses under this subchapter for the purpose of attaining a secondary school diploma (or an equivalency certificate).
 
-(Added [Pub. L. 91–219, title II, § 204(a)(4)][/us/pl/91/219/s204/a/4], Mar. 26, 1970, [84 Stat. 79][/us/stat/84/79], § 1691; amended [Pub. L. 92–540, title III, § 305][/us/pl/92/540/s305], Oct. 24, 1972, [86 Stat. 1081][/us/stat/86/1081]; [Pub. L. 94–502, title II, § 211(12)][/us/pl/94/502/s211/12], Oct. 15, 1976, [90 Stat. 2389][/us/stat/90/2389]; [Pub. L. 96–466, title III, § 311][/us/pl/96/466/s311], Oct. 17, 1980, [94 Stat. 2194][/us/stat/94/2194]; [Pub. L. 97–295, § 4(43)][/us/pl/97/295/s4/43], Oct. 12, 1982, [96 Stat. 1308][/us/stat/96/1308]; [Pub. L. 97–306, title II, § 203(b)][/us/pl/97/306/s203/b], Oct. 14, 1982, [96 Stat. 1434][/us/stat/96/1434]; [Pub. L. 101–237, title IV, § 423(b)(1)(A)][/us/pl/101/237/s423/b/1/A], Dec. 18, 1989, [103 Stat. 2092][/us/stat/103/2092]; renumbered § 3491 and amended [Pub. L. 102–83, § 5(a)][/us/pl/102/83/s5/a], (c)(1), Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406].)
+(Added [Pub. L. 91–219, title II][/us/pl/91/219/tII], § 204(a)(4), Mar. 26, 1970, [84 Stat. 79][/us/stat/84/79], § 1691; amended [Pub. L. 92–540, title III][/us/pl/92/540/tIII], § 305, Oct. 24, 1972, [86 Stat. 1081][/us/stat/86/1081]; [Pub. L. 94–502, title II][/us/pl/94/502/tII], § 211(12), Oct. 15, 1976, [90 Stat. 2389][/us/stat/90/2389]; [Pub. L. 96–466, title III][/us/pl/96/466/tIII], § 311, Oct. 17, 1980, [94 Stat. 2194][/us/stat/94/2194]; [Pub. L. 97–295][/us/pl/97/295], § 4(43), Oct. 12, 1982, [96 Stat. 1308][/us/stat/96/1308]; [Pub. L. 97–306, title II][/us/pl/97/306/tII], § 203(b), Oct. 14, 1982, [96 Stat. 1434][/us/stat/96/1434]; [Pub. L. 101–237, title IV][/us/pl/101/237/tIV], § 423(b)(1)(A), Dec. 18, 1989, [103 Stat. 2092][/us/stat/103/2092]; renumbered § 3491 and amended [Pub. L. 102–83][/us/pl/102/83], § 5(a), (c)(1), Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406].)
 
  __References in Text__ 
 
-    [Section 3473(d)(1) of this title][/us/usc/t38/s3473/d/1], referred to in subsec. (c), was repealed by [Pub. L. 102–568, title III, § 313(a)(3)(A)][/us/pl/102/568/s313/a/3/A], Oct. 29, 1992, [106 Stat. 4332][/us/stat/106/4332].
+    [Section 3473(d)(1) of this title][/us/usc/t38/s3473/d/1], referred to in subsec. (c), was repealed by [Pub. L. 102–568, title III][/us/pl/102/568/tIII], § 313(a)(3)(A), Oct. 29, 1992, [106 Stat. 4332][/us/stat/106/4332].
 
  __Amendments__ 
 
-    1991—[Pub. L. 102–83, § 5(a)][/us/pl/102/83/s5/a], renumbered [section 1691 of this title][/us/usc/t38/s1691] as this section.
+    1991—[Pub. L. 102–83][/us/pl/102/83], § 5(a), renumbered [section 1691 of this title][/us/usc/t38/s1691] as this section.
 
-    Subsec. (a). [Pub. L. 102–83, § 5(c)(1)][/us/pl/102/83/s5/c/1], substituted “3471” for “1671” in concluding provisions.
+    Subsec. (a). [Pub. L. 102–83][/us/pl/102/83], § 5(c)(1), substituted “3471” for “1671” in concluding provisions.
 
-    Subsec. (b). [Pub. L. 102–83, § 5(c)(1)][/us/pl/102/83/s5/c/1], substituted “3481 and 3482(a)” for “1681 and 1682(a)” in par. (1) and “3482(a)” for “1682(a)” in par. (2).
+    Subsec. (b). [Pub. L. 102–83][/us/pl/102/83], § 5(c)(1), substituted “3481 and 3482(a)” for “1681 and 1682(a)” in par. (1) and “3482(a)” for “1682(a)” in par. (2).
 
-    Subsec. (c). [Pub. L. 102–83, § 5(c)(1)][/us/pl/102/83/s5/c/1], substituted “3473(d)(1)” for “1673(d)(1)”.
+    Subsec. (c). [Pub. L. 102–83][/us/pl/102/83], § 5(c)(1), substituted “3473(d)(1)” for “1673(d)(1)”.
 
     1989—Subsecs. (a), (b). [Pub. L. 101–237][/us/pl/101/237] substituted “Secretary” for “Administrator” wherever appearing.
 
-    1982—Subsec. (a). [Pub. L. 97–295, § 4(43)(A)][/us/pl/97/295/s4/43/A], inserted “of this title” after “section 1671”.
+    1982—Subsec. (a). [Pub. L. 97–295][/us/pl/97/295], § 4(43)(A), inserted “of this title” after “section 1671”.
 
-    Subsec. (b)(2). [Pub. L. 97–295, § 4(43)(B)][/us/pl/97/295/s4/43/B], inserted “of this title” after “section 1682(a)”.
+    Subsec. (b)(2). [Pub. L. 97–295][/us/pl/97/295], § 4(43)(B), inserted “of this title” after “section 1682(a)”.
 
     Subsec. (c). [Pub. L. 97–306][/us/pl/97/306] substituted “section 1673(d)(1)” for “section 1673(d)”.
 
-    1980—Subsec. (a). [Pub. L. 96–466, § 311(1)][/us/pl/96/466/s311/1], in provisions preceding par. (1) struck out “not on active duty” after “eligible veteran”, in par. (1) struck out “at the time of the veteran’s discharge or release from active duty” after “(or an equivalency certificate)”, and in par. (2) inserted “is not on active duty and who,” before “in order to pursue”.
+    1980—Subsec. (a). [Pub. L. 96–466][/us/pl/96/466], § 311(1), in provisions preceding par. (1) struck out “not on active duty” after “eligible veteran”, in par. (1) struck out “at the time of the veteran’s discharge or release from active duty” after “(or an equivalency certificate)”, and in par. (2) inserted “is not on active duty and who,” before “in order to pursue”.
 
-    Subsec. (b). [Pub. L. 96–466, § 311(2)][/us/pl/96/466/s311/2], designated existing provisions as par. (1), substituted reference to subsec. (a)(2) of this section for reference to subsec. (a) of this section, and added par. (2).
+    Subsec. (b). [Pub. L. 96–466][/us/pl/96/466], § 311(2), designated existing provisions as par. (1), substituted reference to subsec. (a)(2) of this section for reference to subsec. (a) of this section, and added par. (2).
 
-    Subsec. (c). [Pub. L. 96–466, § 311(3)][/us/pl/96/466/s311/3], added subsec. (c).
+    Subsec. (c). [Pub. L. 96–466][/us/pl/96/466], § 311(3), added subsec. (c).
 
     1976—Subsec. (a). [Pub. L. 94–502][/us/pl/94/502] substituted “the veteran’s” for “his” and “the veteran” for “he” wherever appearing.
 
@@ -84,37 +84,37 @@
 
 [/us/usc/t38/s3471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3471
 [/us/usc/t38/s3482/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3482%2Fa
-[/us/pl/91/219/s204/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F219%2Fs204%2Fa%2F4
+[/us/pl/91/219/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F219%2FtII
 [/us/stat/84/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F79
-[/us/pl/92/540/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F540%2Fs305
+[/us/pl/92/540/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F540%2FtIII
 [/us/stat/86/1081]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1081
-[/us/pl/94/502/s211/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F502%2Fs211%2F12
+[/us/pl/94/502/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F502%2FtII
 [/us/stat/90/2389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2389
-[/us/pl/96/466/s311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F466%2Fs311
+[/us/pl/96/466/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F466%2FtIII
 [/us/stat/94/2194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2194
-[/us/pl/97/295/s4/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295%2Fs4%2F43
+[/us/pl/97/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295
 [/us/stat/96/1308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1308
-[/us/pl/97/306/s203/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F306%2Fs203%2Fb
+[/us/pl/97/306/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F306%2FtII
 [/us/stat/96/1434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1434
-[/us/pl/101/237/s423/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237%2Fs423%2Fb%2F1%2FA
+[/us/pl/101/237/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237%2FtIV
 [/us/stat/103/2092]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2092
-[/us/pl/102/83/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fa
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F406
 [/us/usc/t38/s3473/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3473%2Fd%2F1
-[/us/pl/102/568/s313/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F568%2Fs313%2Fa%2F3%2FA
+[/us/pl/102/568/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F568%2FtIII
 [/us/stat/106/4332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4332
-[/us/pl/102/83/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fa
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/usc/t38/s1691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1691
-[/us/pl/102/83/s5/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fc%2F1
-[/us/pl/102/83/s5/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fc%2F1
-[/us/pl/102/83/s5/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fc%2F1
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/pl/101/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237
-[/us/pl/97/295/s4/43/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295%2Fs4%2F43%2FA
-[/us/pl/97/295/s4/43/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295%2Fs4%2F43%2FB
+[/us/pl/97/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295
+[/us/pl/97/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295
 [/us/pl/97/306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F306
-[/us/pl/96/466/s311/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F466%2Fs311%2F1
-[/us/pl/96/466/s311/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F466%2Fs311%2F2
-[/us/pl/96/466/s311/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F466%2Fs311%2F3
+[/us/pl/96/466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F466
+[/us/pl/96/466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F466
+[/us/pl/96/466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F466
 [/us/pl/94/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F502
 [/us/pl/92/540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F540
 [/us/usc/t38/s1684]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1684

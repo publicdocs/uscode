@@ -17,7 +17,7 @@
 
     The Secretary shall, by regulations, prescribe the time and method of payment of the premiums on insurance, but payments of premiums in advance shall not be required for periods of more than one month each, and may at the election of the insured be deducted from the insured’s active-service pay or be otherwise made. An amount equal to the first premium due under a National Service Life Insurance policy may be advanced from current appropriations for active-service pay to any person in the active service in the Army, Navy, Air Force, Marine Corps, or Coast Guard, which amount shall constitute a lien upon any service or other pay accruing to the person for whom such advance was made and shall be collected therefrom if not otherwise paid. No disbursing or certifying officer shall be responsible for any loss incurred by reason of such advance. Any amount so advanced in excess of available service or other pay shall constitute a lien on the policy within the provisions of [section 5301(b) of this title][/us/usc/t38/s5301/b].
 
-([Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1149][/us/stat/72/1149], § 708; [Pub. L. 99–576, title VII, § 701(24)][/us/pl/99/576/s701/24], Oct. 28, 1986, [100 Stat. 3292][/us/stat/100/3292]; [Pub. L. 102–40, title IV, § 402(d)(1)][/us/pl/102/40/s402/d/1], May 7, 1991, [105 Stat. 239][/us/stat/105/239]; renumbered § 1908 and amended [Pub. L. 102–83][/us/pl/102/83], §§ 4(b)(1), (2)(E), 5(a), Aug. 6, 1991, [105 Stat. 404–406][/us/stat/105/404-406].)
+([Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1149][/us/stat/72/1149], § 708; [Pub. L. 99–576, title VII][/us/pl/99/576/tVII], § 701(24), Oct. 28, 1986, [100 Stat. 3292][/us/stat/100/3292]; [Pub. L. 102–40, title IV][/us/pl/102/40/tIV], § 402(d)(1), May 7, 1991, [105 Stat. 239][/us/stat/105/239]; renumbered § 1908 and amended [Pub. L. 102–83][/us/pl/102/83], §§ 4(b)(1), (2)(E), 5(a), Aug. 6, 1991, [105 Stat. 404–406][/us/stat/105/404-406].)
 
  __Amendments__ 
 
@@ -41,9 +41,9 @@
 [/us/usc/t38/s5301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs5301%2Fb
 [/us/pl/85/857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F857
 [/us/stat/72/1149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1149
-[/us/pl/99/576/s701/24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2Fs701%2F24
+[/us/pl/99/576/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2FtVII
 [/us/stat/100/3292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3292
-[/us/pl/102/40/s402/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs402%2Fd%2F1
+[/us/pl/102/40/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2FtIV
 [/us/stat/105/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F239
 [/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/404-406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F404-406

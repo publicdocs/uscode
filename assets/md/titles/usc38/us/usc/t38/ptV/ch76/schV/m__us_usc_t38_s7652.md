@@ -21,7 +21,7 @@
 
     (2) the score of the individual on the Armed Forces Qualification Test was above the 50th percentile.
 
-(Added [Pub. L. 101–366, title II, § 205(a)(1)][/us/pl/101/366/s205/a/1], Aug. 15, 1990, [104 Stat. 440][/us/stat/104/440], § 4352; renumbered § 7652 and amended [Pub. L. 102–40, title IV, § 402(b)(1)][/us/pl/102/40/s402/b/1], (d)(1), May 7, 1991, [105 Stat. 238][/us/stat/105/238], 239.)
+(Added [Pub. L. 101–366, title II][/us/pl/101/366/tII], § 205(a)(1), Aug. 15, 1990, [104 Stat. 440][/us/stat/104/440], § 4352; renumbered § 7652 and amended [Pub. L. 102–40, title IV][/us/pl/102/40/tIV], § 402(b)(1), (d)(1), May 7, 1991, [105 Stat. 238][/us/stat/105/238], 239.)
 
  __Amendments__ 
 
@@ -35,9 +35,9 @@
 ----------
 
 [/us/usc/t38/s7603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7603
-[/us/pl/101/366/s205/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F366%2Fs205%2Fa%2F1
+[/us/pl/101/366/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F366%2FtII
 [/us/stat/104/440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F440
-[/us/pl/102/40/s402/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs402%2Fb%2F1
+[/us/pl/102/40/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2FtIV
 [/us/stat/105/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F238
 [/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40
 [/us/usc/t38/s4352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs4352

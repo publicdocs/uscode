@@ -17,7 +17,7 @@
 
     As part of the Educational Assistance Program, the Secretary may carry out a scholarship program under this subchapter. The program shall be known as the Department of Veterans Affairs Employee Incentive Scholarship Program (hereinafter in this subchapter referred to as the “Program”). The purpose of the Program is to assist, through the establishment of an incentive program for individuals employed in the Veterans Health Administration, in meeting the staffing needs of the Veterans Health Administration for health professional occupations for which recruitment or retention of qualified personnel is difficult.
 
-(Added [Pub. L. 105–368, title VIII, § 802(a)][/us/pl/105/368/s802/a], Nov. 11, 1998, [112 Stat. 3352][/us/stat/112/3352]; amended [Pub. L. 107–14, § 8(a)(16)][/us/pl/107/14/s8/a/16], June 5, 2001, [115 Stat. 35][/us/stat/115/35].)
+(Added [Pub. L. 105–368, title VIII][/us/pl/105/368/tVIII], § 802(a), Nov. 11, 1998, [112 Stat. 3352][/us/stat/112/3352]; amended [Pub. L. 107–14][/us/pl/107/14], § 8(a)(16), June 5, 2001, [115 Stat. 35][/us/stat/115/35].)
 
  __Amendments__ 
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/pl/105/368/s802/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2Fs802%2Fa
+[/us/pl/105/368/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2FtVIII
 [/us/stat/112/3352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3352
-[/us/pl/107/14/s8/a/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F14%2Fs8%2Fa%2F16
+[/us/pl/107/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F14
 [/us/stat/115/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F35
 [/us/pl/107/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F14
 

@@ -49,7 +49,7 @@
 
         (2) the Secretary approves the resolution of the corporation under paragraph (1).
 
-(Added [Pub. L. 100–322, title II, § 204(a)][/us/pl/100/322/s204/a], May 20, 1988, [102 Stat. 510][/us/stat/102/510], § 4161; renumbered § 7361 and amended [Pub. L. 102–40, title IV][/us/pl/102/40], §§ 401(a)(4)(B), 403(a)(1), (2), May 7, 1991, [105 Stat. 221][/us/stat/105/221], 239; [Pub. L. 102–291, § 3(a)][/us/pl/102/291/s3/a], May 20, 1992, [106 Stat. 179][/us/stat/106/179]; [Pub. L. 104–262, title III, § 343(b)][/us/pl/104/262/s343/b], Oct. 9, 1996, [110 Stat. 3207][/us/stat/110/3207]; [Pub. L. 106–117, title II, § 204(a)][/us/pl/106/117/s204/a], Nov. 30, 1999, [113 Stat. 1562][/us/stat/113/1562]; [Pub. L. 111–163, title VIII, § 801(a)][/us/pl/111/163/s801/a], (b)(1), (c), (d), May 5, 2010, [124 Stat. 1175][/us/stat/124/1175], 1176.)
+(Added [Pub. L. 100–322, title II][/us/pl/100/322/tII], § 204(a), May 20, 1988, [102 Stat. 510][/us/stat/102/510], § 4161; renumbered § 7361 and amended [Pub. L. 102–40, title IV][/us/pl/102/40/tIV], §§ 401(a)(4)(B), 403(a)(1), (2), May 7, 1991, [105 Stat. 221][/us/stat/105/221], 239; [Pub. L. 102–291][/us/pl/102/291], § 3(a), May 20, 1992, [106 Stat. 179][/us/stat/106/179]; [Pub. L. 104–262, title III][/us/pl/104/262/tIII], § 343(b), Oct. 9, 1996, [110 Stat. 3207][/us/stat/110/3207]; [Pub. L. 106–117, title II][/us/pl/106/117/tII], § 204(a), Nov. 30, 1999, [113 Stat. 1562][/us/stat/113/1562]; [Pub. L. 111–163, title VIII][/us/pl/111/163/tVIII], § 801(a), (b)(1), (c), (d), May 5, 2010, [124 Stat. 1175][/us/stat/124/1175], 1176.)
 
  __References in Text__ 
 
@@ -57,15 +57,15 @@
 
  __Amendments__ 
 
-    2010—Subsec. (a). [Pub. L. 111–163, § 801(c)(1)][/us/pl/111/163/s801/c/1], struck out “Except as otherwise required in this subchapter or under regulations prescribed by the Secretary, any such corporation, and its directors and employees, shall be required to comply only with those Federal laws, regulations, and executive orders and directives which apply generally to private nonprofit corporations.” after “the medical center.”
+    2010—Subsec. (a). [Pub. L. 111–163][/us/pl/111/163], § 801(c)(1), struck out “Except as otherwise required in this subchapter or under regulations prescribed by the Secretary, any such corporation, and its directors and employees, shall be required to comply only with those Federal laws, regulations, and executive orders and directives which apply generally to private nonprofit corporations.” after “the medical center.”
 
-    Subsecs. (b) to (d). [Pub. L. 111–163, § 801(a)(1)(B)][/us/pl/111/163/s801/a/1/B], (b)(1), (c)(2), added subsecs. (b) to (d). Former subsec. (b) redesignated (e).
+    Subsecs. (b) to (d). [Pub. L. 111–163][/us/pl/111/163], § 801(a)(1)(B), (b)(1), (c)(2), added subsecs. (b) to (d). Former subsec. (b) redesignated (e).
 
-    Subsec. (e). [Pub. L. 111–163, § 801(d)][/us/pl/111/163/s801/d], inserted “section 501(c)(3) of” after “exempt from taxation under”.
+    Subsec. (e). [Pub. L. 111–163][/us/pl/111/163], § 801(d), inserted “section 501(c)(3) of” after “exempt from taxation under”.
 
-    [Pub. L. 111–163, § 801(a)(1)(A)][/us/pl/111/163/s801/a/1/A], redesignated subsec. (b) as (e).
+    [Pub. L. 111–163][/us/pl/111/163], § 801(a)(1)(A), redesignated subsec. (b) as (e).
 
-    Subsec. (f). [Pub. L. 111–163, § 801(a)(2)][/us/pl/111/163/s801/a/2], added subsec. (f).
+    Subsec. (f). [Pub. L. 111–163][/us/pl/111/163], § 801(a)(2), added subsec. (f).
 
     1999—Subsec. (a). [Pub. L. 106–117][/us/pl/106/117] inserted “and education” after “research” and inserted at end “Such a corporation may be established to facilitate either research or education or both research and education.”
 
@@ -73,23 +73,23 @@
 
     1992—Subsec. (b). [Pub. L. 102–291][/us/pl/102/291] substituted “four-year period” for “three-year period”.
 
-    1991—[Pub. L. 102–40, § 401(a)(4)(B)][/us/pl/102/40/s401/a/4/B], renumbered [section 4161 of this title][/us/usc/t38/s4161] as this section.
+    1991—[Pub. L. 102–40][/us/pl/102/40], § 401(a)(4)(B), renumbered [section 4161 of this title][/us/usc/t38/s4161] as this section.
 
-    Subsec. (a). [Pub. L. 102–40, § 403(a)(2)][/us/pl/102/40/s403/a/2], substituted “Department” for “Veterans’ Administration”.
+    Subsec. (a). [Pub. L. 102–40][/us/pl/102/40], § 403(a)(2), substituted “Department” for “Veterans’ Administration”.
 
-    [Pub. L. 102–40, § 403(a)(1)][/us/pl/102/40/s403/a/1], substituted “Secretary” for “Administrator” in two places.
+    [Pub. L. 102–40][/us/pl/102/40], § 403(a)(1), substituted “Secretary” for “Administrator” in two places.
 
-    Subsec. (b). [Pub. L. 102–40, § 403(a)(1)][/us/pl/102/40/s403/a/1], substituted “Secretary” for “Administrator”.
+    Subsec. (b). [Pub. L. 102–40][/us/pl/102/40], § 403(a)(1), substituted “Secretary” for “Administrator”.
 
  __Effective Date of 1992 Amendment__ 
 
-[Pub. L. 102–291, § 3(c)][/us/pl/102/291/s3/c], May 20, 1992, [106 Stat. 179][/us/stat/106/179], provided that: 
+[Pub. L. 102–291][/us/pl/102/291], § 3(c), May 20, 1992, [106 Stat. 179][/us/stat/106/179], provided that: 
 
 > “The amendments made by subsections (a) and (b) \[amending this section and [section 7368 of this title][/us/usc/t38/s7368]\] shall take effect as of October 1, 1991.”
 
  __Ratification of Actions of Secretary of Veterans Affairs During Lapsed Period__ 
 
-[Pub. L. 102–291, § 3(d)][/us/pl/102/291/s3/d], May 20, 1992, [106 Stat. 179][/us/stat/106/179], provided that: 
+[Pub. L. 102–291][/us/pl/102/291], § 3(d), May 20, 1992, [106 Stat. 179][/us/stat/106/179], provided that: 
 
 > “The following actions of the Secretary of Veterans Affairs during the period beginning on October 1, 1991, and ending on the date of the enactment of this Act \[May 20, 1992\] are hereby ratified:
 
@@ -105,36 +105,36 @@
 ----------
 
 [/us/usc/t38/s7363/a/1/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7363%2Fa%2F1%2FA%2Fi
-[/us/pl/100/322/s204/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F322%2Fs204%2Fa
+[/us/pl/100/322/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F322%2FtII
 [/us/stat/102/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F510
-[/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40
+[/us/pl/102/40/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2FtIV
 [/us/stat/105/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F221
-[/us/pl/102/291/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F291%2Fs3%2Fa
+[/us/pl/102/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F291
 [/us/stat/106/179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F179
-[/us/pl/104/262/s343/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F262%2Fs343%2Fb
+[/us/pl/104/262/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F262%2FtIII
 [/us/stat/110/3207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3207
-[/us/pl/106/117/s204/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117%2Fs204%2Fa
+[/us/pl/106/117/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117%2FtII
 [/us/stat/113/1562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1562
-[/us/pl/111/163/s801/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163%2Fs801%2Fa
+[/us/pl/111/163/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163%2FtVIII
 [/us/stat/124/1175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1175
 [/us/usc/t26/s501/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs501%2Fc%2F3
-[/us/pl/111/163/s801/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163%2Fs801%2Fc%2F1
-[/us/pl/111/163/s801/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163%2Fs801%2Fa%2F1%2FB
-[/us/pl/111/163/s801/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163%2Fs801%2Fd
-[/us/pl/111/163/s801/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163%2Fs801%2Fa%2F1%2FA
-[/us/pl/111/163/s801/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163%2Fs801%2Fa%2F2
+[/us/pl/111/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163
+[/us/pl/111/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163
+[/us/pl/111/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163
+[/us/pl/111/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163
+[/us/pl/111/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163
 [/us/pl/106/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117
 [/us/pl/104/262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F262
 [/us/pl/102/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F291
-[/us/pl/102/40/s401/a/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs401%2Fa%2F4%2FB
+[/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40
 [/us/usc/t38/s4161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs4161
-[/us/pl/102/40/s403/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs403%2Fa%2F2
-[/us/pl/102/40/s403/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs403%2Fa%2F1
-[/us/pl/102/40/s403/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs403%2Fa%2F1
-[/us/pl/102/291/s3/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F291%2Fs3%2Fc
+[/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40
+[/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40
+[/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40
+[/us/pl/102/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F291
 [/us/stat/106/179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F179
 [/us/usc/t38/s7368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7368
-[/us/pl/102/291/s3/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F291%2Fs3%2Fd
+[/us/pl/102/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F291
 [/us/stat/106/179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F179
 [/us/usc/t38/s7361/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7361%2Fa
 [/us/usc/t26/s501/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs501%2Fc%2F3

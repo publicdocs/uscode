@@ -95,11 +95,11 @@
 
     Nothing in this section shall be construed as precluding the Secretary from providing such other assistance under subsection (a) to a claimant in substantiating a claim as the Secretary considers appropriate.
 
-(Added [Pub. L. 106–475, § 3(a)][/us/pl/106/475/s3/a], Nov. 9, 2000, [114 Stat. 2097][/us/stat/114/2097]; amended [Pub. L. 112–154, title V, § 505(a)][/us/pl/112/154/s505/a], (b), Aug. 6, 2012, [126 Stat. 1192][/us/stat/126/1192].)
+(Added [Pub. L. 106–475][/us/pl/106/475], § 3(a), Nov. 9, 2000, [114 Stat. 2097][/us/stat/114/2097]; amended [Pub. L. 112–154, title V][/us/pl/112/154/tV], § 505(a), (b), Aug. 6, 2012, [126 Stat. 1192][/us/stat/126/1192].)
 
  __Amendments__ 
 
-    2012—Subsec. (b). [Pub. L. 112–154, § 505(a)][/us/pl/112/154/s505/a], amended subsec. (b) generally. Prior to amendment, text read as follows:
+    2012—Subsec. (b). [Pub. L. 112–154][/us/pl/112/154], § 505(a), amended subsec. (b) generally. Prior to amendment, text read as follows:
 
     “(1) As part of the assistance provided under subsection (a), the Secretary shall make reasonable efforts to obtain relevant records (including private records) that the claimant adequately identifies to the Secretary and authorizes the Secretary to obtain.
 
@@ -113,7 +113,7 @@
 
     “(3) Whenever the Secretary attempts to obtain records from a Federal department or agency under this subsection or subsection (c), the efforts to obtain those records shall continue until the records are obtained unless it is reasonably certain that such records do not exist or that further efforts to obtain those records would be futile.”
 
-    Subsec. (c). [Pub. L. 112–154, § 505(b)][/us/pl/112/154/s505/b], amended subsec. (c) generally. Prior to amendment, text read as follows: “In the case of a claim for disability compensation, the assistance provided by the Secretary under subsection (b) shall include obtaining the following records if relevant to the claim:
+    Subsec. (c). [Pub. L. 112–154][/us/pl/112/154], § 505(b), amended subsec. (c) generally. Prior to amendment, text read as follows: “In the case of a claim for disability compensation, the assistance provided by the Secretary under subsection (b) shall include obtaining the following records if relevant to the claim:
 
     “(1) The claimant’s service medical records and, if the claimant has furnished the Secretary information sufficient to locate such records, other relevant records pertaining to the claimant’s active military, naval, or air service that are held or maintained by a governmental entity.
 
@@ -123,7 +123,7 @@
 
  __Effective Date of 2012 Amendment__ 
 
-[Pub. L. 112–154, title V, § 505(c)][/us/pl/112/154/s505/c], Aug. 6, 2012, [126 Stat. 1193][/us/stat/126/1193], provided that:
+[Pub. L. 112–154, title V][/us/pl/112/154/tV], § 505(c), Aug. 6, 2012, [126 Stat. 1193][/us/stat/126/1193], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -142,13 +142,13 @@
 
 [/us/usc/t38/s5110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs5110
 [/us/usc/t38/s5108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs5108
-[/us/pl/106/475/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F475%2Fs3%2Fa
+[/us/pl/106/475]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F475
 [/us/stat/114/2097]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2097
-[/us/pl/112/154/s505/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154%2Fs505%2Fa
+[/us/pl/112/154/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154%2FtV
 [/us/stat/126/1192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1192
-[/us/pl/112/154/s505/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154%2Fs505%2Fa
-[/us/pl/112/154/s505/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154%2Fs505%2Fb
-[/us/pl/112/154/s505/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154%2Fs505%2Fc
+[/us/pl/112/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154
+[/us/pl/112/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154
+[/us/pl/112/154/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154%2FtV
 [/us/stat/126/1193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1193
 [/us/usc/t38/s5103A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs5103A
 

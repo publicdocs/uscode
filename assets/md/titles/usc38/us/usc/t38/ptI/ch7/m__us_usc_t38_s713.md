@@ -97,7 +97,7 @@
 
             (B) with respect to an individual appointed under section 7306(a) or [section 7401(1) of this title][/us/usc/t38/s7401/1], an administrative or executive position.
 
-(Added [Pub. L. 113–146, title VII, § 707(a)(1)][/us/pl/113/146/s707/a/1], Aug. 7, 2014, [128 Stat. 1798][/us/stat/128/1798].)
+(Added [Pub. L. 113–146, title VII][/us/pl/113/146/tVII], § 707(a)(1), Aug. 7, 2014, [128 Stat. 1798][/us/stat/128/1798].)
 
  __Prior Provisions__ 
 
@@ -105,7 +105,7 @@
 
  __Construction__ 
 
-[Pub. L. 113–146, title VII, § 707(d)][/us/pl/113/146/s707/d], Aug. 7, 2014, [128 Stat. 1801][/us/stat/128/1801], provided that:
+[Pub. L. 113–146, title VII][/us/pl/113/146/tVII], § 707(d), Aug. 7, 2014, [128 Stat. 1801][/us/stat/128/1801], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -117,7 +117,7 @@
 
  __Establishment of Expedited Review Process__ 
 
-[Pub. L. 113–146, title VII, § 707(b)][/us/pl/113/146/s707/b], Aug. 7, 2014, [128 Stat. 1800][/us/stat/128/1800], provided that:
+[Pub. L. 113–146, title VII][/us/pl/113/146/tVII], § 707(b), Aug. 7, 2014, [128 Stat. 1800][/us/stat/128/1800], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -137,7 +137,7 @@
 
  __Temporary Exemption From Certain Limitation on Initiation of Removal From Senior Executive Service__ 
 
-[Pub. L. 113–146, title VII, § 707(c)][/us/pl/113/146/s707/c], Aug. 7, 2014, [128 Stat. 1800][/us/stat/128/1800], provided that: 
+[Pub. L. 113–146, title VII][/us/pl/113/146/tVII], § 707(c), Aug. 7, 2014, [128 Stat. 1800][/us/stat/128/1800], provided that: 
 
 > “During the 120-day period beginning on the date of the enactment of this Act \[Aug. 7, 2014\], an action to remove an individual from the Senior Executive Service at the Department of Veterans Affairs pursuant to [section 7543 of title 5][/us/usc/t5/s7543], United States Code, may be initiated, notwithstanding section 3592(b) of such title, or any other provision of law.”
 
@@ -162,18 +162,18 @@
 [/us/usc/t5/s3132/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3132%2Fa%2F4
 [/us/usc/t5/s3132/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3132%2Fa%2F2
 [/us/usc/t38/s7401/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7401%2F1
-[/us/pl/113/146/s707/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F146%2Fs707%2Fa%2F1
+[/us/pl/113/146/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F146%2FtVII
 [/us/stat/128/1798]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1798
-[/us/pl/113/146/s707/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F146%2Fs707%2Fd
+[/us/pl/113/146/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F146%2FtVII
 [/us/stat/128/1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1801
 [/us/usc/t38/s713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs713
-[/us/pl/113/146/s707/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F146%2Fs707%2Fb
+[/us/pl/113/146/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F146%2FtVII
 [/us/stat/128/1800]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1800
 [/us/usc/t38/s713/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs713%2Fd
 [/us/usc/t38/s713/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs713%2Fd
 [/us/usc/t38/s713/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs713%2Fd
 [/us/usc/t38/s713/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs713%2Fd
-[/us/pl/113/146/s707/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F146%2Fs707%2Fc
+[/us/pl/113/146/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F146%2FtVII
 [/us/stat/128/1800]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1800
 [/us/usc/t5/s7543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs7543
 

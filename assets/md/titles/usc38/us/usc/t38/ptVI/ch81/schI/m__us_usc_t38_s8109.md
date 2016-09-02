@@ -95,7 +95,7 @@
 
     (j) Funds in a construction account or capital account that are available for a construction project or a nonrecurring maintenance project may be used for the construction or relocation of a surface parking lot incidental to that project.
 
-(Added [Pub. L. 96–22, title III, § 301(a)][/us/pl/96/22/s301/a], June 13, 1979, [93 Stat. 59][/us/stat/93/59], § 5009; amended [Pub. L. 99–576, title II, § 223(a)(1)][/us/pl/99/576/s223/a/1], Oct. 28, 1986, [100 Stat. 3259][/us/stat/100/3259]; renumbered § 8109 and amended [Pub. L. 102–40, title IV, § 402(b)(1)][/us/pl/102/40/s402/b/1], (d)(1), May 7, 1991, [105 Stat. 238][/us/stat/105/238], 239; [Pub. L. 102–83, § 4(a)(3)][/us/pl/102/83/s4/a/3], (4), (b)(1), (2)(E), Aug. 6, 1991, [105 Stat. 404][/us/stat/105/404], 405; [Pub. L. 103–79, § 3(b)][/us/pl/103/79/s3/b], Aug. 13, 1993, [107 Stat. 771][/us/stat/107/771]; [Pub. L. 104–262, title II, § 207(b)][/us/pl/104/262/s207/b], Oct. 9, 1996, [110 Stat. 3190][/us/stat/110/3190]; [Pub. L. 105–368, title VII, § 705][/us/pl/105/368/s705], Nov. 11, 1998, [112 Stat. 3350][/us/stat/112/3350]; [Pub. L. 108–422, title IV, § 415][/us/pl/108/422/s415], Nov. 30, 2004, [118 Stat. 2393][/us/stat/118/2393].)
+(Added [Pub. L. 96–22, title III][/us/pl/96/22/tIII], § 301(a), June 13, 1979, [93 Stat. 59][/us/stat/93/59], § 5009; amended [Pub. L. 99–576, title II][/us/pl/99/576/tII], § 223(a)(1), Oct. 28, 1986, [100 Stat. 3259][/us/stat/100/3259]; renumbered § 8109 and amended [Pub. L. 102–40, title IV][/us/pl/102/40/tIV], § 402(b)(1), (d)(1), May 7, 1991, [105 Stat. 238][/us/stat/105/238], 239; [Pub. L. 102–83][/us/pl/102/83], § 4(a)(3), (4), (b)(1), (2)(E), Aug. 6, 1991, [105 Stat. 404][/us/stat/105/404], 405; [Pub. L. 103–79][/us/pl/103/79], § 3(b), Aug. 13, 1993, [107 Stat. 771][/us/stat/107/771]; [Pub. L. 104–262, title II][/us/pl/104/262/tII], § 207(b), Oct. 9, 1996, [110 Stat. 3190][/us/stat/110/3190]; [Pub. L. 105–368, title VII][/us/pl/105/368/tVII], § 705, Nov. 11, 1998, [112 Stat. 3350][/us/stat/112/3350]; [Pub. L. 108–422, title IV][/us/pl/108/422/tIV], § 415, Nov. 30, 2004, [118 Stat. 2393][/us/stat/118/2393].)
 
  __Prior Provisions__ 
 
@@ -111,23 +111,23 @@
 
     1993—Subsec. (i)(2). [Pub. L. 103–79][/us/pl/103/79] substituted “$3,000,000” for “$2,000,000”.
 
-    1991—[Pub. L. 102–40, § 402(b)(1)][/us/pl/102/40/s402/b/1], renumbered [section 5009 of this title][/us/usc/t38/s5009] as this section.
+    1991—[Pub. L. 102–40][/us/pl/102/40], § 402(b)(1), renumbered [section 5009 of this title][/us/usc/t38/s5009] as this section.
 
-    Subsecs. (a) to (c). [Pub. L. 102–83, § 4(b)(1)][/us/pl/102/83/s4/b/1], (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
+    Subsecs. (a) to (c). [Pub. L. 102–83][/us/pl/102/83], § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
 
-    Subsec. (d)(1). [Pub. L. 102–83, § 4(b)(1)][/us/pl/102/83/s4/b/1], (2)(E), substituted “Secretary” for “Administrator” in concluding provisions.
+    Subsec. (d)(1). [Pub. L. 102–83][/us/pl/102/83], § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in concluding provisions.
 
-    [Pub. L. 102–83, § 4(a)(3)][/us/pl/102/83/s4/a/3], (4), substituted “Department” for “Veterans’ Administration” in subpar. (A).
+    [Pub. L. 102–83][/us/pl/102/83], § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration” in subpar. (A).
 
-    Subsecs. (d)(2), (e), (f). [Pub. L. 102–83, § 4(b)(1)][/us/pl/102/83/s4/b/1], (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
+    Subsecs. (d)(2), (e), (f). [Pub. L. 102–83][/us/pl/102/83], § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
 
-    Subsec. (i)(2). [Pub. L. 102–40, § 402(d)(1)][/us/pl/102/40/s402/d/1], substituted “8104(a)(2)” for “5004(a)(2)”.
+    Subsec. (i)(2). [Pub. L. 102–40][/us/pl/102/40], § 402(d)(1), substituted “8104(a)(2)” for “5004(a)(2)”.
 
     1986—[Pub. L. 99–576][/us/pl/99/576] amended section generally, substituting “Parking facilities” for “Garages and parking facilities” in section catchline and substituting present provisions consisting of subsecs. (a) to (i) for former provisions consisting of subsecs. (a) to (c), and generally revising and expanding section to require VA to establish and collect reasonable parking fees at all facilities where a garage is constructed or acquired or altered at a cost of more than $500,000 (or leased for more than $100,000 per year), and allowing discretionary paid parking at all other facilities.
 
  __Effective Date of 1986 Amendment__ 
 
-[Pub. L. 99–576, title II, § 223(b)][/us/pl/99/576/s223/b], Oct. 28, 1986, [100 Stat. 3261][/us/stat/100/3261], provided that:
+[Pub. L. 99–576, title II][/us/pl/99/576/tII], § 223(b), Oct. 28, 1986, [100 Stat. 3261][/us/stat/100/3261], provided that:
 
 >     “(1) Except as provided in paragraphs (2) and (3), the amendments made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[Oct. 28, 1986\].
 
@@ -149,21 +149,21 @@
 ----------
 
 [/us/usc/t38/s8104/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs8104%2Fa%2F2
-[/us/pl/96/22/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F22%2Fs301%2Fa
+[/us/pl/96/22/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F22%2FtIII
 [/us/stat/93/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F59
-[/us/pl/99/576/s223/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2Fs223%2Fa%2F1
+[/us/pl/99/576/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2FtII
 [/us/stat/100/3259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3259
-[/us/pl/102/40/s402/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs402%2Fb%2F1
+[/us/pl/102/40/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2FtIV
 [/us/stat/105/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F238
-[/us/pl/102/83/s4/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fa%2F3
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F404
-[/us/pl/103/79/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F79%2Fs3%2Fb
+[/us/pl/103/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F79
 [/us/stat/107/771]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F771
-[/us/pl/104/262/s207/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F262%2Fs207%2Fb
+[/us/pl/104/262/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F262%2FtII
 [/us/stat/110/3190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3190
-[/us/pl/105/368/s705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2Fs705
+[/us/pl/105/368/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2FtVII
 [/us/stat/112/3350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3350
-[/us/pl/108/422/s415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F422%2Fs415
+[/us/pl/108/422/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F422%2FtIV
 [/us/stat/118/2393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2393
 [/us/usc/t38/s5004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs5004
 [/us/pl/96/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F22
@@ -171,15 +171,15 @@
 [/us/pl/105/368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368
 [/us/pl/104/262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F262
 [/us/pl/103/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F79
-[/us/pl/102/40/s402/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs402%2Fb%2F1
+[/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40
 [/us/usc/t38/s5009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs5009
-[/us/pl/102/83/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fb%2F1
-[/us/pl/102/83/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fb%2F1
-[/us/pl/102/83/s4/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fa%2F3
-[/us/pl/102/83/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fb%2F1
-[/us/pl/102/40/s402/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs402%2Fd%2F1
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40
 [/us/pl/99/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576
-[/us/pl/99/576/s223/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2Fs223%2Fb
+[/us/pl/99/576/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2FtII
 [/us/stat/100/3261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3261
 
 

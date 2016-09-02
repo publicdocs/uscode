@@ -31,7 +31,7 @@
 
     Notwithstanding any other provision of this subchapter, an employer, or an entity controlled by an employer, shall be exempt from compliance with any of sections 4311 through 4318 of this title with respect to an employee in a workplace in a foreign country, if compliance with that section would cause such employer, or such entity controlled by an employer, to violate the law of the foreign country in which the workplace is located.
 
-(Added [Pub. L. 105–368, title II, § 212(b)(1)][/us/pl/105/368/s212/b/1], Nov. 11, 1998, [112 Stat. 3331][/us/stat/112/3331].)
+(Added [Pub. L. 105–368, title II][/us/pl/105/368/tII], § 212(b)(1), Nov. 11, 1998, [112 Stat. 3331][/us/stat/112/3331].)
 
  __Effective Date__ 
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/pl/105/368/s212/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2Fs212%2Fb%2F1
+[/us/pl/105/368/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2FtII
 [/us/stat/112/3331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3331
 [/us/pl/105/368/s212/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2Fs212%2Fc
 [/us/usc/t38/s4303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs4303

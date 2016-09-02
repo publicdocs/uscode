@@ -17,7 +17,7 @@
 
     The President is authorized to assist the Republic of the Philippines in fulfilling its responsibility in providing medical care and treatment for Commonwealth Army veterans and new Philippine Scouts in need of such care and treatment for service-connected disabilities and non-service-connected disabilities under certain conditions.
 
-(Added [Pub. L. 93–82, title I, § 107(a)][/us/pl/93/82/s107/a], Aug. 2, 1973, [87 Stat. 184][/us/stat/87/184], § 631; amended [Pub. L. 97–72, title I, § 107(b)][/us/pl/97/72/s107/b], Nov. 3, 1981, [95 Stat. 1052][/us/stat/95/1052]; renumbered § 1731, [Pub. L. 102–83, § 5(a)][/us/pl/102/83/s5/a], Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406].)
+(Added [Pub. L. 93–82, title I][/us/pl/93/82/tI], § 107(a), Aug. 2, 1973, [87 Stat. 184][/us/stat/87/184], § 631; amended [Pub. L. 97–72, title I][/us/pl/97/72/tI], § 107(b), Nov. 3, 1981, [95 Stat. 1052][/us/stat/95/1052]; renumbered § 1731, [Pub. L. 102–83][/us/pl/102/83], § 5(a), Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406].)
 
  __Prior Provisions__ 
 
@@ -40,11 +40,11 @@
 ----------
 ----------
 
-[/us/pl/93/82/s107/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F82%2Fs107%2Fa
+[/us/pl/93/82/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F82%2FtI
 [/us/stat/87/184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F184
-[/us/pl/97/72/s107/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F72%2Fs107%2Fb
+[/us/pl/97/72/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F72%2FtI
 [/us/stat/95/1052]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1052
-[/us/pl/102/83/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fa
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F406
 [/us/usc/t38/s3531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3531
 [/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83

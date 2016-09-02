@@ -21,11 +21,11 @@
 
     (2) a brief explanation of the methodology used in preparing that cost statement.
 
-(Added [Pub. L. 106–419, title IV, § 403(d)(1)(A)][/us/pl/106/419/s403/d/1/A], Nov. 1, 2000, [114 Stat. 1864][/us/stat/114/1864].)
+(Added [Pub. L. 106–419, title IV][/us/pl/106/419/tIV], § 403(d)(1)(A), Nov. 1, 2000, [114 Stat. 1864][/us/stat/114/1864].)
 
  __Effective Date__ 
 
-[Pub. L. 106–419, title IV, § 403(d)(2)][/us/pl/106/419/s403/d/2], Nov. 1, 2000, [114 Stat. 1864][/us/stat/114/1864], provided that: 
+[Pub. L. 106–419, title IV][/us/pl/106/419/tIV], § 403(d)(2), Nov. 1, 2000, [114 Stat. 1864][/us/stat/114/1864], provided that: 
 
 > “[Section 116 of title 38][/us/usc/t38/s116], United States Code, as added by paragraph (1) of this subsection, shall apply with respect to any report submitted by the Secretary of Veterans Affairs after the end of the 90-day period beginning on the date of the enactment of this Act \[Nov. 1, 2000\].”
 
@@ -36,9 +36,9 @@
 ----------
 ----------
 
-[/us/pl/106/419/s403/d/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419%2Fs403%2Fd%2F1%2FA
+[/us/pl/106/419/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419%2FtIV
 [/us/stat/114/1864]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1864
-[/us/pl/106/419/s403/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419%2Fs403%2Fd%2F2
+[/us/pl/106/419/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419%2FtIV
 [/us/stat/114/1864]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1864
 [/us/usc/t38/s116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs116
 

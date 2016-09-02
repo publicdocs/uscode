@@ -183,17 +183,17 @@
 
         (7) The term “veteran family” includes a veteran who is a single person and a family in which the head of household or the spouse of the head of household is a veteran.
 
-(Added [Pub. L. 110–387, title VI, § 604(b)(1)][/us/pl/110/387/s604/b/1], Oct. 10, 2008, [122 Stat. 4132][/us/stat/122/4132]; amended [Pub. L. 111–275, title X, § 1001(e)][/us/pl/111/275/s1001/e], Oct. 13, 2010, [124 Stat. 2896][/us/stat/124/2896]; [Pub. L. 112–37, § 12][/us/pl/112/37/s12], Oct. 5, 2011, [125 Stat. 397][/us/stat/125/397]; [Pub. L. 112–154, title III, § 305(c)][/us/pl/112/154/s305/c], Aug. 6, 2012, [126 Stat. 1187][/us/stat/126/1187]; [Pub. L. 113–37, § 2(f)(2)][/us/pl/113/37/s2/f/2], Sept. 30, 2013, [127 Stat. 524][/us/stat/127/524]; [Pub. L. 113–175, title II, § 206][/us/pl/113/175/s206], Sept. 26, 2014, [128 Stat. 1904][/us/stat/128/1904]; [Pub. L. 114–58, title III, § 304][/us/pl/114/58/s304], title VI, § 601(9), Sept. 30, 2015, [129 Stat. 534][/us/stat/129/534], 538.)
+(Added [Pub. L. 110–387, title VI][/us/pl/110/387/tVI], § 604(b)(1), Oct. 10, 2008, [122 Stat. 4132][/us/stat/122/4132]; amended [Pub. L. 111–275, title X][/us/pl/111/275/tX], § 1001(e), Oct. 13, 2010, [124 Stat. 2896][/us/stat/124/2896]; [Pub. L. 112–37][/us/pl/112/37], § 12, Oct. 5, 2011, [125 Stat. 397][/us/stat/125/397]; [Pub. L. 112–154, title III][/us/pl/112/154/tIII], § 305(c), Aug. 6, 2012, [126 Stat. 1187][/us/stat/126/1187]; [Pub. L. 113–37][/us/pl/113/37], § 2(f)(2), Sept. 30, 2013, [127 Stat. 524][/us/stat/127/524]; [Pub. L. 113–175, title II][/us/pl/113/175/tII], § 206, Sept. 26, 2014, [128 Stat. 1904][/us/stat/128/1904]; [Pub. L. 114–58, title III][/us/pl/114/58/tIII], § 304, title VI, § 601(9), Sept. 30, 2015, [129 Stat. 534][/us/stat/129/534], 538.)
 
  __Codification__ 
 
-    [Pub. L. 112–37, § 12][/us/pl/112/37/s12], Oct. 5, 2011, [125 Stat. 397][/us/stat/125/397], which directed amendment of “section 2044” without specifying the Code title to be amended, was executed to this section, which is [section 2044 of Title 38][/us/usc/t38/s2044], Veterans’ Benefits, to reflect the probable intent of Congress. See 2011 Amendment notes below.
+    [Pub. L. 112–37][/us/pl/112/37], § 12, Oct. 5, 2011, [125 Stat. 397][/us/stat/125/397], which directed amendment of “section 2044” without specifying the Code title to be amended, was executed to this section, which is [section 2044 of Title 38][/us/usc/t38/s2044], Veterans’ Benefits, to reflect the probable intent of Congress. See 2011 Amendment notes below.
 
  __Amendments__ 
 
-    2015—Subsec. (b)(1)(D). [Pub. L. 114–58, § 601(9)][/us/pl/114/58/s601/9], substituted “Federal” for “federal” in introductory provisions.
+    2015—Subsec. (b)(1)(D). [Pub. L. 114–58][/us/pl/114/58], § 601(9), substituted “Federal” for “federal” in introductory provisions.
 
-    Subsec. (e)(1)(E). [Pub. L. 114–58, § 304][/us/pl/114/58/s304], substituted “fiscal years 2015 through 2016” for “fiscal years 2013 through 2015”.
+    Subsec. (e)(1)(E). [Pub. L. 114–58][/us/pl/114/58], § 304, substituted “fiscal years 2015 through 2016” for “fiscal years 2013 through 2015”.
 
     2014—Subsec. (e)(1)(E). [Pub. L. 113–175][/us/pl/113/175] substituted “fiscal years 2013 through 2015” for “fiscal years 2013 and 2014”.
 
@@ -201,11 +201,11 @@
 
     2012—Subsec. (e)(1)(E). [Pub. L. 112–154][/us/pl/112/154] added subpar. (E).
 
-    2011—Subsec. (e)(1). [Pub. L. 112–37, § 12(b)][/us/pl/112/37/s12/b], substituted “subsections” for “subsection” in introductory provisions. See Codification note above.
+    2011—Subsec. (e)(1). [Pub. L. 112–37][/us/pl/112/37], § 12(b), substituted “subsections” for “subsection” in introductory provisions. See Codification note above.
 
-    Subsec. (e)(1)(D). [Pub. L. 112–37, § 12(a)(1)][/us/pl/112/37/s12/a/1], added subpar. (D). See Codification note above.
+    Subsec. (e)(1)(D). [Pub. L. 112–37][/us/pl/112/37], § 12(a)(1), added subpar. (D). See Codification note above.
 
-    Subsec. (e)(3). [Pub. L. 112–37, § 12(a)(2)][/us/pl/112/37/s12/a/2], substituted “2012” for “2011”. See Codification note above.
+    Subsec. (e)(3). [Pub. L. 112–37][/us/pl/112/37], § 12(a)(2), substituted “2012” for “2011”. See Codification note above.
 
     2010—Subsec. (e)(3). [Pub. L. 111–275][/us/pl/111/275] substituted “fiscal years” for “fiscal year”.
 
@@ -215,7 +215,7 @@
 
  __Purpose__ 
 
-[Pub. L. 110–387, title VI, § 604(a)][/us/pl/110/387/s604/a], Oct. 10, 2008, [122 Stat. 4132][/us/stat/122/4132], provided that: 
+[Pub. L. 110–387, title VI][/us/pl/110/387/tVI], § 604(a), Oct. 10, 2008, [122 Stat. 4132][/us/stat/122/4132], provided that: 
 
 > “The purpose of this section \[enacting this section\] is to facilitate the provision of supportive services for very low-income veteran families in permanent housing.”
 
@@ -231,36 +231,36 @@
 [/us/usc/t42/s11302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11302
 [/us/usc/t25/s4103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs4103
 [/us/usc/t42/s1437f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f
-[/us/pl/110/387/s604/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F387%2Fs604%2Fb%2F1
+[/us/pl/110/387/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F387%2FtVI
 [/us/stat/122/4132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4132
-[/us/pl/111/275/s1001/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275%2Fs1001%2Fe
+[/us/pl/111/275/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275%2FtX
 [/us/stat/124/2896]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2896
-[/us/pl/112/37/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F37%2Fs12
+[/us/pl/112/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F37
 [/us/stat/125/397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F397
-[/us/pl/112/154/s305/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154%2Fs305%2Fc
+[/us/pl/112/154/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154%2FtIII
 [/us/stat/126/1187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1187
-[/us/pl/113/37/s2/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F37%2Fs2%2Ff%2F2
+[/us/pl/113/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F37
 [/us/stat/127/524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F524
-[/us/pl/113/175/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F175%2Fs206
+[/us/pl/113/175/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F175%2FtII
 [/us/stat/128/1904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1904
-[/us/pl/114/58/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F58%2Fs304
+[/us/pl/114/58/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F58%2FtIII
 [/us/stat/129/534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F534
-[/us/pl/112/37/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F37%2Fs12
+[/us/pl/112/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F37
 [/us/stat/125/397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F397
 [/us/usc/t38/s2044]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs2044
-[/us/pl/114/58/s601/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F58%2Fs601%2F9
-[/us/pl/114/58/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F58%2Fs304
+[/us/pl/114/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F58
+[/us/pl/114/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F58
 [/us/pl/113/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F175
 [/us/pl/113/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F37
 [/us/pl/112/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154
-[/us/pl/112/37/s12/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F37%2Fs12%2Fb
-[/us/pl/112/37/s12/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F37%2Fs12%2Fa%2F1
-[/us/pl/112/37/s12/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F37%2Fs12%2Fa%2F2
+[/us/pl/112/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F37
+[/us/pl/112/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F37
+[/us/pl/112/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F37
 [/us/pl/111/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275
 [/us/pl/113/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F37
 [/us/pl/113/37/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F37%2Fs4%2Fa
 [/us/usc/t38/s322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs322
-[/us/pl/110/387/s604/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F387%2Fs604%2Fa
+[/us/pl/110/387/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F387%2FtVI
 [/us/stat/122/4132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4132
 
 

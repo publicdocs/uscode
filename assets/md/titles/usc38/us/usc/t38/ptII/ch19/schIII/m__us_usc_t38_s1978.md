@@ -17,7 +17,7 @@
 
     Reinstatement of insurance coverage granted under this subchapter but lapsed for nonpayment of premiums shall be under terms and conditions prescribed by the Secretary.
 
-(Added [Pub. L. 93–289, § 9(a)][/us/pl/93/289/s9/a], May 24, 1974, [88 Stat. 172][/us/stat/88/172], § 778; renumbered § 1978 and amended [Pub. L. 102–83][/us/pl/102/83], §§ 4(b)(1), (2)(E), 5(a), Aug. 6, 1991, [105 Stat. 404–406][/us/stat/105/404-406].)
+(Added [Pub. L. 93–289][/us/pl/93/289], § 9(a), May 24, 1974, [88 Stat. 172][/us/stat/88/172], § 778; renumbered § 1978 and amended [Pub. L. 102–83][/us/pl/102/83], §§ 4(b)(1), (2)(E), 5(a), Aug. 6, 1991, [105 Stat. 404–406][/us/stat/105/404-406].)
 
  __Amendments__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/93/289/s9/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F289%2Fs9%2Fa
+[/us/pl/93/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F289
 [/us/stat/88/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F172
 [/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/404-406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F404-406

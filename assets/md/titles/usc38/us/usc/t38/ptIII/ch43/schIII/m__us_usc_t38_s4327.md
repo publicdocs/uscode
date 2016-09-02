@@ -43,7 +43,7 @@
 
     If any person seeks to file a complaint or claim with the Secretary, the Merit Systems Protection Board, or a Federal or State court under this chapter alleging a violation of this chapter, there shall be no limit on the period for filing the complaint or claim.
 
-(Added [Pub. L. 110–389, title III, § 311(f)(1)][/us/pl/110/389/s311/f/1], Oct. 10, 2008, [122 Stat. 4163][/us/stat/122/4163].)
+(Added [Pub. L. 110–389, title III][/us/pl/110/389/tIII], § 311(f)(1), Oct. 10, 2008, [122 Stat. 4163][/us/stat/122/4163].)
 
 ----------
 
@@ -54,7 +54,7 @@
 
 [/us/usc/t38/s4323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs4323
 [/us/usc/t38/s4324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs4324
-[/us/pl/110/389/s311/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F389%2Fs311%2Ff%2F1
+[/us/pl/110/389/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F389%2FtIII
 [/us/stat/122/4163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4163
 
 

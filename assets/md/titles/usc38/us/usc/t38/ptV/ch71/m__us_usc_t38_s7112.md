@@ -17,7 +17,7 @@
 
     The Secretary shall take such actions as may be necessary to provide for the expeditious treatment by the Board of any claim that is remanded to the Secretary by the Court of Appeals for Veterans Claims.
 
-(Added [Pub. L. 108–183, title VII, § 707(b)(1)][/us/pl/108/183/s707/b/1], Dec. 16, 2003, [117 Stat. 2673][/us/stat/117/2673].)
+(Added [Pub. L. 108–183, title VII][/us/pl/108/183/tVII], § 707(b)(1), Dec. 16, 2003, [117 Stat. 2673][/us/stat/117/2673].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/108/183/s707/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F183%2Fs707%2Fb%2F1
+[/us/pl/108/183/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F183%2FtVII
 [/us/stat/117/2673]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2673
 
 

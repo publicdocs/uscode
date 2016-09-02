@@ -17,7 +17,7 @@
 
     Whoever wrongfully withholds from any claimant or beneficiary any part of a benefit or claim allowed and due to the claimant or beneficiary, shall be fined as provided in title 18, or imprisoned not more than one year, or both.
 
-([Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1239][/us/stat/72/1239], § 3405; [Pub. L. 99–576, title VII, § 701(81)][/us/pl/99/576/s701/81], Oct. 28, 1986, [100 Stat. 3298][/us/stat/100/3298]; [Pub. L. 100–687, div. A, title I, § 104(b)][/us/pl/100/687/s104/b], Nov. 18, 1988, [102 Stat. 4109][/us/stat/102/4109]; renumbered § 5905 and amended [Pub. L. 102–40, title IV, § 402(b)(1)][/us/pl/102/40/s402/b/1], (d)(1), May 7, 1991, [105 Stat. 238][/us/stat/105/238], 239; [Pub. L. 102–83, § 5(c)(1)][/us/pl/102/83/s5/c/1], Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406]; [Pub. L. 109–461, title I, § 101(g)][/us/pl/109/461/s101/g], Dec. 22, 2006, [120 Stat. 3408][/us/stat/120/3408].)
+([Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1239][/us/stat/72/1239], § 3405; [Pub. L. 99–576, title VII][/us/pl/99/576/tVII], § 701(81), Oct. 28, 1986, [100 Stat. 3298][/us/stat/100/3298]; [Pub. L. 100–687, div. A, title I][/us/pl/100/687/dA/tI], § 104(b), Nov. 18, 1988, [102 Stat. 4109][/us/stat/102/4109]; renumbered § 5905 and amended [Pub. L. 102–40, title IV][/us/pl/102/40/tIV], § 402(b)(1), (d)(1), May 7, 1991, [105 Stat. 238][/us/stat/105/238], 239; [Pub. L. 102–83][/us/pl/102/83], § 5(c)(1), Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406]; [Pub. L. 109–461, title I][/us/pl/109/461/tI], § 101(g), Dec. 22, 2006, [120 Stat. 3408][/us/stat/120/3408].)
 
  __Amendments__ 
 
@@ -44,15 +44,15 @@
 
 [/us/pl/85/857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F857
 [/us/stat/72/1239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1239
-[/us/pl/99/576/s701/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2Fs701%2F81
+[/us/pl/99/576/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2FtVII
 [/us/stat/100/3298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3298
-[/us/pl/100/687/s104/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F687%2Fs104%2Fb
+[/us/pl/100/687/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F687%2FdA%2FtI
 [/us/stat/102/4109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4109
-[/us/pl/102/40/s402/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs402%2Fb%2F1
+[/us/pl/102/40/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2FtIV
 [/us/stat/105/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F238
-[/us/pl/102/83/s5/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fc%2F1
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F406
-[/us/pl/109/461/s101/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461%2Fs101%2Fg
+[/us/pl/109/461/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461%2FtI
 [/us/stat/120/3408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3408
 [/us/pl/109/461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461
 [/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40

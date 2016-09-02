@@ -57,7 +57,7 @@
 
             (B) In the case of a person who has a disability incurred in, or aggravated during, a period of service in the uniformed services that requires reasonable efforts by the employer for the person to be able to perform the duties of the position of employment, in any other position referred to in subsection (a)(3) (in the order of priority set out in that subsection) that provides a similar status and pay to a position referred to in paragraph (1) of this subsection, consistent with circumstances of such person’s case, with full seniority.
 
-(Added [Pub. L. 103–353, § 2(a)][/us/pl/103/353/s2/a], Oct. 13, 1994, [108 Stat. 3157][/us/stat/108/3157]; amended [Pub. L. 104–275, title III, § 311(5)][/us/pl/104/275/s311/5], Oct. 9, 1996, [110 Stat. 3335][/us/stat/110/3335].)
+(Added [Pub. L. 103–353][/us/pl/103/353], § 2(a), Oct. 13, 1994, [108 Stat. 3157][/us/stat/108/3157]; amended [Pub. L. 104–275, title III][/us/pl/104/275/tIII], § 311(5), Oct. 9, 1996, [110 Stat. 3335][/us/stat/110/3335].)
 
  __Prior Provisions__ 
 
@@ -82,9 +82,9 @@
 ----------
 ----------
 
-[/us/pl/103/353/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F353%2Fs2%2Fa
+[/us/pl/103/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F353
 [/us/stat/108/3157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3157
-[/us/pl/104/275/s311/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275%2Fs311%2F5
+[/us/pl/104/275/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275%2FtIII
 [/us/stat/110/3335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3335
 [/us/usc/t38/s7613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7613
 [/us/pl/104/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275

@@ -47,7 +47,7 @@
 
         (B) the assistance authorized by this chapter for a veteran receiving any of the services described in clause (A) of this paragraph.
 
-(Added [Pub. L. 96–466, title I, § 101(a)][/us/pl/96/466/s101/a], Oct. 17, 1980, [94 Stat. 2172][/us/stat/94/2172], § 1501; amended [Pub. L. 99–576, title III, § 333(b)(1)][/us/pl/99/576/s333/b/1], Oct. 28, 1986, [100 Stat. 3279][/us/stat/100/3279]; [Pub. L. 101–237, title IV, § 423(b)(1)(A)][/us/pl/101/237/s423/b/1/A], Dec. 18, 1989, [103 Stat. 2092][/us/stat/103/2092]; renumbered § 3101 and amended [Pub. L. 102–83, § 5(a)][/us/pl/102/83/s5/a], (c)(1), Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406]; [Pub. L. 104–275, title I, § 101(a)][/us/pl/104/275/s101/a], Oct. 9, 1996, [110 Stat. 3323][/us/stat/110/3323].)
+(Added [Pub. L. 96–466, title I][/us/pl/96/466/tI], § 101(a), Oct. 17, 1980, [94 Stat. 2172][/us/stat/94/2172], § 1501; amended [Pub. L. 99–576, title III][/us/pl/99/576/tIII], § 333(b)(1), Oct. 28, 1986, [100 Stat. 3279][/us/stat/100/3279]; [Pub. L. 101–237, title IV][/us/pl/101/237/tIV], § 423(b)(1)(A), Dec. 18, 1989, [103 Stat. 2092][/us/stat/103/2092]; renumbered § 3101 and amended [Pub. L. 102–83][/us/pl/102/83], § 5(a), (c)(1), Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406]; [Pub. L. 104–275, title I][/us/pl/104/275/tI], § 101(a), Oct. 9, 1996, [110 Stat. 3323][/us/stat/110/3323].)
 
  __Prior Provisions__ 
 
@@ -55,15 +55,15 @@
 
  __Amendments__ 
 
-    1996—Par. (1). [Pub. L. 104–275, § 101(a)(1)][/us/pl/104/275/s101/a/1], inserted “, resulting in substantial part from a disability described in [section 3102(1)(A) of this title][/us/usc/t38/s3102/1/A],” after “impairment”.
+    1996—Par. (1). [Pub. L. 104–275][/us/pl/104/275], § 101(a)(1), inserted “, resulting in substantial part from a disability described in [section 3102(1)(A) of this title][/us/usc/t38/s3102/1/A],” after “impairment”.
 
-    Par. (6). [Pub. L. 104–275, § 101(a)(2)][/us/pl/104/275/s101/a/2], inserted “authorized under [section 3120 of this title][/us/usc/t38/s3120]” after “assistance”.
+    Par. (6). [Pub. L. 104–275][/us/pl/104/275], § 101(a)(2), inserted “authorized under [section 3120 of this title][/us/usc/t38/s3120]” after “assistance”.
 
-    Par. (7). [Pub. L. 104–275, § 101(a)(3)][/us/pl/104/275/s101/a/3], inserted “, resulting in substantial part from a service-connected disability rated at 10 percent or more,” after “impairment”.
+    Par. (7). [Pub. L. 104–275][/us/pl/104/275], § 101(a)(3), inserted “, resulting in substantial part from a service-connected disability rated at 10 percent or more,” after “impairment”.
 
-    1991—[Pub. L. 102–83, § 5(a)][/us/pl/102/83/s5/a], renumbered [section 1501 of this title][/us/usc/t38/s1501] as this section.
+    1991—[Pub. L. 102–83][/us/pl/102/83], § 5(a), renumbered [section 1501 of this title][/us/usc/t38/s1501] as this section.
 
-    Par. (3). [Pub. L. 102–83, § 5(c)(1)][/us/pl/102/83/s5/c/1], substituted “3452(b)” for “1652(b)”.
+    Par. (3). [Pub. L. 102–83][/us/pl/102/83], § 5(c)(1), substituted “3452(b)” for “1652(b)”.
 
     1989—Pars. (4), (9)(A). [Pub. L. 101–237][/us/pl/101/237] substituted “Secretary” for “Administrator”.
 
@@ -71,7 +71,7 @@
 
  __Effective Date of 1996 Amendment__ 
 
-[Pub. L. 104–275, title I, § 101(j)][/us/pl/104/275/s101/j], Oct. 9, 1996, [110 Stat. 3325][/us/stat/110/3325], provided that:
+[Pub. L. 104–275, title I][/us/pl/104/275/tI], § 101(j), Oct. 9, 1996, [110 Stat. 3325][/us/stat/110/3325], provided that:
 
 >     “(1) Except as provided in paragraph (2), the amendments made by this section \[amending this section and sections 3102 to 3109, 3117, 3118, and 3120 of this title\] shall take effect on the date of the enactment of this Act \[Oct. 9, 1996\].
 
@@ -91,28 +91,28 @@
 [/us/usc/t38/s3102/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3102%2F1%2FA
 [/us/usc/t38/s3452/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3452%2Fb
 [/us/usc/t38/s3120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3120
-[/us/pl/96/466/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F466%2Fs101%2Fa
+[/us/pl/96/466/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F466%2FtI
 [/us/stat/94/2172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2172
-[/us/pl/99/576/s333/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2Fs333%2Fb%2F1
+[/us/pl/99/576/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2FtIII
 [/us/stat/100/3279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3279
-[/us/pl/101/237/s423/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237%2Fs423%2Fb%2F1%2FA
+[/us/pl/101/237/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237%2FtIV
 [/us/stat/103/2092]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2092
-[/us/pl/102/83/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fa
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F406
-[/us/pl/104/275/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275%2Fs101%2Fa
+[/us/pl/104/275/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275%2FtI
 [/us/stat/110/3323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3323
 [/us/usc/t38/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs5301
-[/us/pl/104/275/s101/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275%2Fs101%2Fa%2F1
+[/us/pl/104/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275
 [/us/usc/t38/s3102/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3102%2F1%2FA
-[/us/pl/104/275/s101/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275%2Fs101%2Fa%2F2
+[/us/pl/104/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275
 [/us/usc/t38/s3120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3120
-[/us/pl/104/275/s101/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275%2Fs101%2Fa%2F3
-[/us/pl/102/83/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fa
+[/us/pl/104/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/usc/t38/s1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1501
-[/us/pl/102/83/s5/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fc%2F1
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/pl/101/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237
 [/us/pl/99/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576
-[/us/pl/104/275/s101/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275%2Fs101%2Fj
+[/us/pl/104/275/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275%2FtI
 [/us/stat/110/3325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3325
 [/us/usc/t38/s3104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3104
 [/us/usc/t38/s3120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3120

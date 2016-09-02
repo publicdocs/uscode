@@ -103,77 +103,77 @@
 
     (f) In this section, the term “sexual harassment” means repeated, unsolicited verbal or physical contact of a sexual nature which is threatening in character.
 
-(Added [Pub. L. 102–585, title I, § 102(a)(1)][/us/pl/102/585/s102/a/1], Nov. 4, 1992, [106 Stat. 4945][/us/stat/106/4945]; amended [Pub. L. 103–452, title I, § 101(a)][/us/pl/103/452/s101/a]–(d), (f)(1), (2)(A), (g)(1), Nov. 2, 1994, [108 Stat. 4783][/us/stat/108/4783], 4784; [Pub. L. 105–368, title IX, § 902][/us/pl/105/368/s902], Nov. 11, 1998, [112 Stat. 3360][/us/stat/112/3360]; [Pub. L. 106–117, title I, § 115(a)][/us/pl/106/117/s115/a]–(c), Nov. 30, 1999, [113 Stat. 1558][/us/stat/113/1558]; [Pub. L. 108–422, title III, § 301][/us/pl/108/422/s301], Nov. 30, 2004, [118 Stat. 2382][/us/stat/118/2382]; [Pub. L. 111–163, title II, § 202][/us/pl/111/163/s202], May 5, 2010, [124 Stat. 1142][/us/stat/124/1142]; [Pub. L. 113–146, title IV][/us/pl/113/146], §§ 401–402(c), Aug. 7, 2014, [128 Stat. 1789][/us/stat/128/1789], 1790.)
+(Added [Pub. L. 102–585, title I][/us/pl/102/585/tI], § 102(a)(1), Nov. 4, 1992, [106 Stat. 4945][/us/stat/106/4945]; amended [Pub. L. 103–452, title I][/us/pl/103/452/tI], § 101(a)–(d), (f)(1), (2)(A), (g)(1), Nov. 2, 1994, [108 Stat. 4783][/us/stat/108/4783], 4784; [Pub. L. 105–368, title IX][/us/pl/105/368/tIX], § 902, Nov. 11, 1998, [112 Stat. 3360][/us/stat/112/3360]; [Pub. L. 106–117, title I][/us/pl/106/117/tI], § 115(a)–(c), Nov. 30, 1999, [113 Stat. 1558][/us/stat/113/1558]; [Pub. L. 108–422, title III][/us/pl/108/422/tIII], § 301, Nov. 30, 2004, [118 Stat. 2382][/us/stat/118/2382]; [Pub. L. 111–163, title II][/us/pl/111/163/tII], § 202, May 5, 2010, [124 Stat. 1142][/us/stat/124/1142]; [Pub. L. 113–146, title IV][/us/pl/113/146/tIV], §§ 401–402(c), Aug. 7, 2014, [128 Stat. 1789][/us/stat/128/1789], 1790.)
 
  __Amendments__ 
 
-    2014—Subsec. (a)(1). [Pub. L. 113–146, § 401][/us/pl/113/146/s401], substituted “, active duty for training, or inactive duty training” for “or active duty for training”.
+    2014—Subsec. (a)(1). [Pub. L. 113–146][/us/pl/113/146], § 401, substituted “, active duty for training, or inactive duty training” for “or active duty for training”.
 
-    Subsec. (a)(2). [Pub. L. 113–146, § 402(a)(2)][/us/pl/113/146/s402/a/2], added par. (2). Former par. (2) redesignated (3).
+    Subsec. (a)(2). [Pub. L. 113–146][/us/pl/113/146], § 402(a)(2), added par. (2). Former par. (2) redesignated (3).
 
-    Subsec. (a)(3). [Pub. L. 113–146, § 402(a)(1)][/us/pl/113/146/s402/a/1], (3), redesignated par. (2) as (3), substituted “an individual” for “a veteran”, and substituted “that individual” for “that veteran” in two places.
+    Subsec. (a)(3). [Pub. L. 113–146][/us/pl/113/146], § 402(a)(1), (3), redesignated par. (2) as (3), substituted “an individual” for “a veteran”, and substituted “that individual” for “that veteran” in two places.
 
-    Subsec. (c). [Pub. L. 113–146, § 402(b)(1)][/us/pl/113/146/s402/b/1], struck out “to veterans” after “treatment available” in introductory provisions and par. (2).
+    Subsec. (c). [Pub. L. 113–146][/us/pl/113/146], § 402(b)(1), struck out “to veterans” after “treatment available” in introductory provisions and par. (2).
 
-    Subsec. (c)(3). [Pub. L. 113–146, § 402(b)(2)][/us/pl/113/146/s402/b/2], inserted “members of the Armed Forces and” before “individuals”.
+    Subsec. (c)(3). [Pub. L. 113–146][/us/pl/113/146], § 402(b)(2), inserted “members of the Armed Forces and” before “individuals”.
 
-    Subsec. (e). [Pub. L. 113–146, § 402(c)(1)][/us/pl/113/146/s402/c/1], struck out “to veterans” after “services provided” in introductory provisions.
+    Subsec. (e). [Pub. L. 113–146][/us/pl/113/146], § 402(c)(1), struck out “to veterans” after “services provided” in introductory provisions.
 
-    Subsec. (e)(2). [Pub. L. 113–146, § 402(c)(2)(A)][/us/pl/113/146/s402/c/2/A], (B), substituted “individuals” for “women veterans” and “training under subsection (d), disaggregated by—” for “training under subsection (d).” and added subpars. (A) to (C).
+    Subsec. (e)(2). [Pub. L. 113–146][/us/pl/113/146], § 402(c)(2)(A), (B), substituted “individuals” for “women veterans” and “training under subsection (d), disaggregated by—” for “training under subsection (d).” and added subpars. (A) to (C).
 
-    Subsec. (e)(4). [Pub. L. 113–146, § 402(c)(3)][/us/pl/113/146/s402/c/3], substituted “individuals” for “veterans”.
+    Subsec. (e)(4). [Pub. L. 113–146][/us/pl/113/146], § 402(c)(3), substituted “individuals” for “veterans”.
 
-    Subsec. (e)(5). [Pub. L. 113–146, § 402(c)(4)][/us/pl/113/146/s402/c/4], substituted “individuals” for “women veterans” and inserted “, including specific recommendations for individuals specified in subparagraphs (A), (B), and (C) of paragraph (2)” before period at end.
+    Subsec. (e)(5). [Pub. L. 113–146][/us/pl/113/146], § 402(c)(4), substituted “individuals” for “women veterans” and inserted “, including specific recommendations for individuals specified in subparagraphs (A), (B), and (C) of paragraph (2)” before period at end.
 
     2010—Subsecs. (d) to (f). [Pub. L. 111–163][/us/pl/111/163] added subsecs. (d) and (e) and redesignated former subsec. (d) as (f).
 
-    2004—Subsec. (a)(1). [Pub. L. 108–422, § 301(a)(1)][/us/pl/108/422/s301/a/1], (b), substituted “The” for “During the period through December 31, 2004, the” and inserted “or active duty for training” before period at end.
+    2004—Subsec. (a)(1). [Pub. L. 108–422][/us/pl/108/422], § 301(a)(1), (b), substituted “The” for “During the period through December 31, 2004, the” and inserted “or active duty for training” before period at end.
 
-    Subsec. (a)(2). [Pub. L. 108–422, § 301(a)(2)][/us/pl/108/422/s301/a/2], struck out “, during the period through December 31, 2004,” after “the Secretary may”.
+    Subsec. (a)(2). [Pub. L. 108–422][/us/pl/108/422], § 301(a)(2), struck out “, during the period through December 31, 2004,” after “the Secretary may”.
 
-    1999—Subsec. (a)(1). [Pub. L. 106–117, § 115(a)(1)][/us/pl/106/117/s115/a/1], (b)(1), substituted “December 31, 2004” for “December 31, 2001” and “shall operate a program under which the Secretary provides counseling and appropriate care and services to veterans who the Secretary determines require such counseling and care and services” for “may provide counseling to a veteran who the Secretary determines requires such counseling”.
+    1999—Subsec. (a)(1). [Pub. L. 106–117][/us/pl/106/117], § 115(a)(1), (b)(1), substituted “December 31, 2004” for “December 31, 2001” and “shall operate a program under which the Secretary provides counseling and appropriate care and services to veterans who the Secretary determines require such counseling and care and services” for “may provide counseling to a veteran who the Secretary determines requires such counseling”.
 
-    Subsec. (a)(2), (3). [Pub. L. 106–117, § 115(a)(2)][/us/pl/106/117/s115/a/2], (b)(2), redesignated par. (3) as (2), substituted “December 31, 2004” for “December 31, 2001”, and struck out former par. (2) which read as follows: “During the period referred to in paragraph (1), the Secretary may provide appropriate care and services to a veteran for an injury, illness, or other psychological condition that the Secretary determines to be the result of a physical assault, battery, or harassment referred to in that paragraph.”
+    Subsec. (a)(2), (3). [Pub. L. 106–117][/us/pl/106/117], § 115(a)(2), (b)(2), redesignated par. (3) as (2), substituted “December 31, 2004” for “December 31, 2001”, and struck out former par. (2) which read as follows: “During the period referred to in paragraph (1), the Secretary may provide appropriate care and services to a veteran for an injury, illness, or other psychological condition that the Secretary determines to be the result of a physical assault, battery, or harassment referred to in that paragraph.”
 
-    Subsec. (c). [Pub. L. 106–117, § 115(c)(1)][/us/pl/106/117/s115/c/1], inserted “and treatment” after “counseling” in first sentence.
+    Subsec. (c). [Pub. L. 106–117][/us/pl/106/117], § 115(c)(1), inserted “and treatment” after “counseling” in first sentence.
 
-    Subsec. (c)(2), (3). [Pub. L. 106–117, § 115(c)][/us/pl/106/117/s115/c], added par. (2), redesignated former par. (2) as (3), and inserted “and treatment” after “counseling”.
+    Subsec. (c)(2), (3). [Pub. L. 106–117][/us/pl/106/117], § 115(c), added par. (2), redesignated former par. (2) as (3), and inserted “and treatment” after “counseling”.
 
     1998—Subsec. (a)(1), (3). [Pub. L. 105–368][/us/pl/105/368] substituted “December 31, 2001” for “December 31, 1998”.
 
-    1994—[Pub. L. 103–452, § 101(f)(2)(A)][/us/pl/103/452/s101/f/2/A], substituted “and treatment” for “to women veterans” in section catchline.
+    1994—[Pub. L. 103–452][/us/pl/103/452], § 101(f)(2)(A), substituted “and treatment” for “to women veterans” in section catchline.
 
-    Subsec. (a)(1). [Pub. L. 103–452, § 101(b)(1)][/us/pl/103/452/s101/b/1], (f)(1)(A), substituted “December 31, 1998,” for “December 31, 1995,” and struck out “woman” after “counseling to a”.
+    Subsec. (a)(1). [Pub. L. 103–452][/us/pl/103/452], § 101(b)(1), (f)(1)(A), substituted “December 31, 1998,” for “December 31, 1995,” and struck out “woman” after “counseling to a”.
 
-    Subsec. (a)(2). [Pub. L. 103–452, § 101(a)][/us/pl/103/452/s101/a], added par. (2) and struck out former par. (2) which read as follows: “To be eligible to receive counseling under this subsection, a veteran must seek such counseling from the Secretary within two years after the date of the veteran’s discharge or release from active military, naval, or air service.”
+    Subsec. (a)(2). [Pub. L. 103–452][/us/pl/103/452], § 101(a), added par. (2) and struck out former par. (2) which read as follows: “To be eligible to receive counseling under this subsection, a veteran must seek such counseling from the Secretary within two years after the date of the veteran’s discharge or release from active military, naval, or air service.”
 
-    Subsec. (a)(3). [Pub. L. 103–452, § 101(b)(2)][/us/pl/103/452/s101/b/2], substituted “December 31, 1998,” for “December 31, 1994,”.
+    Subsec. (a)(3). [Pub. L. 103–452][/us/pl/103/452], § 101(b)(2), substituted “December 31, 1998,” for “December 31, 1994,”.
 
-    Subsec. (b). [Pub. L. 103–452, § 101(c)][/us/pl/103/452/s101/c], redesignated subsec. (c) as (b) and struck out former subsec. (b) which read as follows: “In providing services to a veteran under subsection (a), the period for which counseling is provided may not exceed one year from the date of the commencement of the furnishing of such counseling to the veteran. However, the Secretary may authorize a longer period in any case if, in the judgment of the Secretary, a longer period of counseling is required.”
+    Subsec. (b). [Pub. L. 103–452][/us/pl/103/452], § 101(c), redesignated subsec. (c) as (b) and struck out former subsec. (b) which read as follows: “In providing services to a veteran under subsection (a), the period for which counseling is provided may not exceed one year from the date of the commencement of the furnishing of such counseling to the veteran. However, the Secretary may authorize a longer period in any case if, in the judgment of the Secretary, a longer period of counseling is required.”
 
-    Subsec. (b)(1). [Pub. L. 103–452, § 101(d)][/us/pl/103/452/s101/d], amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The Secretary shall give priority to the establishment and operation of the program to provide counseling under subsection (a). In the case of a veteran eligible for such counseling who requires other care or services under this chapter for trauma described in subsection (a)(1), the Secretary shall ensure that the veteran is furnished counseling under this section in a way that is coordinated with the furnishing of such other care and services under this chapter.”
+    Subsec. (b)(1). [Pub. L. 103–452][/us/pl/103/452], § 101(d), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The Secretary shall give priority to the establishment and operation of the program to provide counseling under subsection (a). In the case of a veteran eligible for such counseling who requires other care or services under this chapter for trauma described in subsection (a)(1), the Secretary shall ensure that the veteran is furnished counseling under this section in a way that is coordinated with the furnishing of such other care and services under this chapter.”
 
-    Subsec. (b)(2)(C). [Pub. L. 103–452, § 101(f)(1)(B)][/us/pl/103/452/s101/f/1/B], struck out “women” after “assist”.
+    Subsec. (b)(2)(C). [Pub. L. 103–452][/us/pl/103/452], § 101(f)(1)(B), struck out “women” after “assist”.
 
-    Subsec. (c). [Pub. L. 103–452, § 101(f)(1)(B)][/us/pl/103/452/s101/f/1/B], struck out “women” after “available to” in introductory provisions.
+    Subsec. (c). [Pub. L. 103–452][/us/pl/103/452], § 101(f)(1)(B), struck out “women” after “available to” in introductory provisions.
 
-    [Pub. L. 103–452, § 101(c)(2)][/us/pl/103/452/s101/c/2], redesignated subsec. (d) as (c). Former subsec. (c) redesignated (b).
+    [Pub. L. 103–452][/us/pl/103/452], § 101(c)(2), redesignated subsec. (d) as (c). Former subsec. (c) redesignated (b).
 
-    Subsec. (c)(1). [Pub. L. 103–452, § 101(g)(1)][/us/pl/103/452/s101/g/1], amended par. (1) generally. Prior to amendment, par. (1) read as follows: “may include establishment of an information system involving the use of a toll-free telephone number (commonly referred to as an 800 number), and”.
+    Subsec. (c)(1). [Pub. L. 103–452][/us/pl/103/452], § 101(g)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “may include establishment of an information system involving the use of a toll-free telephone number (commonly referred to as an 800 number), and”.
 
-    Subsec. (c)(2). [Pub. L. 103–452, § 101(f)(1)(C)][/us/pl/103/452/s101/f/1/C], substituted “individuals” for “women”.
+    Subsec. (c)(2). [Pub. L. 103–452][/us/pl/103/452], § 101(f)(1)(C), substituted “individuals” for “women”.
 
-    Subsecs. (d), (e). [Pub. L. 103–452, § 101(c)(2)][/us/pl/103/452/s101/c/2], redesignated subsec. (e) as (d). Former subsec. (d) redesignated (c).
+    Subsecs. (d), (e). [Pub. L. 103–452][/us/pl/103/452], § 101(c)(2), redesignated subsec. (e) as (d). Former subsec. (d) redesignated (c).
 
  __Effective Date of 2014 Amendment__ 
 
-[Pub. L. 113–146, title IV, § 402(d)][/us/pl/113/146/s402/d], Aug. 7, 2014, [128 Stat. 1790][/us/stat/128/1790], provided that: 
+[Pub. L. 113–146, title IV][/us/pl/113/146/tIV], § 402(d), Aug. 7, 2014, [128 Stat. 1790][/us/stat/128/1790], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall take effect on the date that is 1 year after the date of the enactment of this Act \[Aug. 7, 2014\].”
 
  __Information on Telephone Counseling Availability; Personnel Training; Client Confidentiality; Publicity; Report__ 
 
-[Pub. L. 103–452, title I, § 101(g)(2)][/us/pl/103/452/s101/g/2]–(5), Nov. 2, 1994, [108 Stat. 4785][/us/stat/108/4785], provided that:
+[Pub. L. 103–452, title I][/us/pl/103/452/tI], § 101(g)(2)–(5), Nov. 2, 1994, [108 Stat. 4785][/us/stat/108/4785], provided that:
 
 >     “(2) In providing information on counseling available to veterans as required under [section 1720D(c)(1) of title 38][/us/usc/t38/s1720D/c/1], United States Code (as amended by paragraph (1)), the Secretary of Veterans Affairs shall ensure that the Department of Veterans Affairs personnel who provide assistance under such section are trained in the provision to persons who have experienced sexual trauma of information about the care and services relating to sexual trauma that are available to veterans in the communities in which such veterans reside, including care and services available under programs of the Department (including the care and services available under section 1720D of such title) and from non-Department agencies or organizations.
 
@@ -193,15 +193,15 @@
 
  __Transition Period for Eligibility for Counseling__ 
 
-    [Pub. L. 102–585, title I, § 102(b)][/us/pl/102/585/s102/b], Nov. 4, 1992, [106 Stat. 4946][/us/stat/106/4946], as amended by [Pub. L. 103–210, § 2(b)][/us/pl/103/210/s2/b], Dec. 20, 1993, [107 Stat. 2497][/us/stat/107/2497], provided that in the case of a veteran who was discharged or released from active military, naval, or air service before Dec. 31, 1992, the two-year period specified in [38 U.S.C. 1720D(a)(2)][/us/usc/t38/s1720D/a/2] was to be treated as ending on Dec. 31, 1994, prior to repeal by [Pub. L. 103–452, title I, § 101(h)][/us/pl/103/452/s101/h], Nov. 2, 1994, [108 Stat. 4785][/us/stat/108/4785].
+    [Pub. L. 102–585, title I][/us/pl/102/585/tI], § 102(b), Nov. 4, 1992, [106 Stat. 4946][/us/stat/106/4946], as amended by [Pub. L. 103–210][/us/pl/103/210], § 2(b), Dec. 20, 1993, [107 Stat. 2497][/us/stat/107/2497], provided that in the case of a veteran who was discharged or released from active military, naval, or air service before Dec. 31, 1992, the two-year period specified in [38 U.S.C. 1720D(a)(2)][/us/usc/t38/s1720D/a/2] was to be treated as ending on Dec. 31, 1994, prior to repeal by [Pub. L. 103–452, title I][/us/pl/103/452/tI], § 101(h), Nov. 2, 1994, [108 Stat. 4785][/us/stat/108/4785].
 
  __Commencement of Provision of Information on Services__ 
 
-    [Pub. L. 102–585, title I, § 104][/us/pl/102/585/s104], Nov. 4, 1992, [106 Stat. 4946][/us/stat/106/4946], directed Secretary of Veterans Affairs, not later than 90 days after Nov. 4, 1992, to commence the provision of information on the counseling relating to sexual trauma that is available to women veterans under [38 U.S.C. 1720D][/us/usc/t38/s1720D].
+    [Pub. L. 102–585, title I][/us/pl/102/585/tI], § 104, Nov. 4, 1992, [106 Stat. 4946][/us/stat/106/4946], directed Secretary of Veterans Affairs, not later than 90 days after Nov. 4, 1992, to commence the provision of information on the counseling relating to sexual trauma that is available to women veterans under [38 U.S.C. 1720D][/us/usc/t38/s1720D].
 
  __Report on Implementation of Sexual Trauma Counseling Program__ 
 
-    [Pub. L. 102–585, title I, § 105][/us/pl/102/585/s105], Nov. 4, 1992, [106 Stat. 4946][/us/stat/106/4946], directed Secretary of Veterans Affairs, not later than Mar. 31, 1994, to submit to Congress a comprehensive report on the Secretary’s actions under [38 U.S.C. 1720D][/us/usc/t38/s1720D].
+    [Pub. L. 102–585, title I][/us/pl/102/585/tI], § 105, Nov. 4, 1992, [106 Stat. 4946][/us/stat/106/4946], directed Secretary of Veterans Affairs, not later than Mar. 31, 1994, to submit to Congress a comprehensive report on the Secretary’s actions under [38 U.S.C. 1720D][/us/usc/t38/s1720D].
 
 ----------
 
@@ -210,67 +210,67 @@
 ----------
 ----------
 
-[/us/pl/102/585/s102/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F585%2Fs102%2Fa%2F1
+[/us/pl/102/585/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F585%2FtI
 [/us/stat/106/4945]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4945
-[/us/pl/103/452/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F452%2Fs101%2Fa
+[/us/pl/103/452/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F452%2FtI
 [/us/stat/108/4783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4783
-[/us/pl/105/368/s902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2Fs902
+[/us/pl/105/368/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2FtIX
 [/us/stat/112/3360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3360
-[/us/pl/106/117/s115/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117%2Fs115%2Fa
+[/us/pl/106/117/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117%2FtI
 [/us/stat/113/1558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1558
-[/us/pl/108/422/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F422%2Fs301
+[/us/pl/108/422/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F422%2FtIII
 [/us/stat/118/2382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2382
-[/us/pl/111/163/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163%2Fs202
+[/us/pl/111/163/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163%2FtII
 [/us/stat/124/1142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1142
-[/us/pl/113/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F146
+[/us/pl/113/146/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F146%2FtIV
 [/us/stat/128/1789]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1789
-[/us/pl/113/146/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F146%2Fs401
-[/us/pl/113/146/s402/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F146%2Fs402%2Fa%2F2
-[/us/pl/113/146/s402/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F146%2Fs402%2Fa%2F1
-[/us/pl/113/146/s402/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F146%2Fs402%2Fb%2F1
-[/us/pl/113/146/s402/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F146%2Fs402%2Fb%2F2
-[/us/pl/113/146/s402/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F146%2Fs402%2Fc%2F1
-[/us/pl/113/146/s402/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F146%2Fs402%2Fc%2F2%2FA
-[/us/pl/113/146/s402/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F146%2Fs402%2Fc%2F3
-[/us/pl/113/146/s402/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F146%2Fs402%2Fc%2F4
+[/us/pl/113/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F146
+[/us/pl/113/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F146
+[/us/pl/113/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F146
+[/us/pl/113/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F146
+[/us/pl/113/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F146
+[/us/pl/113/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F146
+[/us/pl/113/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F146
+[/us/pl/113/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F146
+[/us/pl/113/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F146
 [/us/pl/111/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163
-[/us/pl/108/422/s301/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F422%2Fs301%2Fa%2F1
-[/us/pl/108/422/s301/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F422%2Fs301%2Fa%2F2
-[/us/pl/106/117/s115/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117%2Fs115%2Fa%2F1
-[/us/pl/106/117/s115/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117%2Fs115%2Fa%2F2
-[/us/pl/106/117/s115/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117%2Fs115%2Fc%2F1
-[/us/pl/106/117/s115/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117%2Fs115%2Fc
+[/us/pl/108/422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F422
+[/us/pl/108/422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F422
+[/us/pl/106/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117
+[/us/pl/106/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117
+[/us/pl/106/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117
+[/us/pl/106/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117
 [/us/pl/105/368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368
-[/us/pl/103/452/s101/f/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F452%2Fs101%2Ff%2F2%2FA
-[/us/pl/103/452/s101/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F452%2Fs101%2Fb%2F1
-[/us/pl/103/452/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F452%2Fs101%2Fa
-[/us/pl/103/452/s101/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F452%2Fs101%2Fb%2F2
-[/us/pl/103/452/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F452%2Fs101%2Fc
-[/us/pl/103/452/s101/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F452%2Fs101%2Fd
-[/us/pl/103/452/s101/f/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F452%2Fs101%2Ff%2F1%2FB
-[/us/pl/103/452/s101/f/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F452%2Fs101%2Ff%2F1%2FB
-[/us/pl/103/452/s101/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F452%2Fs101%2Fc%2F2
-[/us/pl/103/452/s101/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F452%2Fs101%2Fg%2F1
-[/us/pl/103/452/s101/f/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F452%2Fs101%2Ff%2F1%2FC
-[/us/pl/103/452/s101/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F452%2Fs101%2Fc%2F2
-[/us/pl/113/146/s402/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F146%2Fs402%2Fd
+[/us/pl/103/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F452
+[/us/pl/103/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F452
+[/us/pl/103/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F452
+[/us/pl/103/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F452
+[/us/pl/103/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F452
+[/us/pl/103/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F452
+[/us/pl/103/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F452
+[/us/pl/103/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F452
+[/us/pl/103/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F452
+[/us/pl/103/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F452
+[/us/pl/103/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F452
+[/us/pl/103/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F452
+[/us/pl/113/146/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F146%2FtIV
 [/us/stat/128/1790]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1790
-[/us/pl/103/452/s101/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F452%2Fs101%2Fg%2F2
+[/us/pl/103/452/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F452%2FtI
 [/us/stat/108/4785]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4785
 [/us/usc/t38/s1720D/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1720D%2Fc%2F1
 [/us/usc/t38/s1720D/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1720D%2Fc%2F1
 [/us/usc/t38/s101/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs101%2F20
-[/us/pl/102/585/s102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F585%2Fs102%2Fb
+[/us/pl/102/585/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F585%2FtI
 [/us/stat/106/4946]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4946
-[/us/pl/103/210/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F210%2Fs2%2Fb
+[/us/pl/103/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F210
 [/us/stat/107/2497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2497
 [/us/usc/t38/s1720D/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1720D%2Fa%2F2
-[/us/pl/103/452/s101/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F452%2Fs101%2Fh
+[/us/pl/103/452/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F452%2FtI
 [/us/stat/108/4785]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4785
-[/us/pl/102/585/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F585%2Fs104
+[/us/pl/102/585/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F585%2FtI
 [/us/stat/106/4946]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4946
 [/us/usc/t38/s1720D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1720D
-[/us/pl/102/585/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F585%2Fs105
+[/us/pl/102/585/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F585%2FtI
 [/us/stat/106/4946]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4946
 [/us/usc/t38/s1720D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1720D
 

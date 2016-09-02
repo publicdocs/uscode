@@ -27,7 +27,7 @@
 
         (3) any other cemetery, memorial, or monument transferred to the Veterans’ Administration by the National Cemeteries Act of 1973, or later acquired or developed by the Secretary.
 
-(Added [Pub. L. 93–43, § 2(a)][/us/pl/93/43/s2/a], June 18, 1973, [87 Stat. 75][/us/stat/87/75], § 1000; amended [Pub. L. 99–576, title VII, § 701(52)][/us/pl/99/576/s701/52], Oct. 28, 1986, [100 Stat. 3295][/us/stat/100/3295]; [Pub. L. 100–527, § 13(i)][/us/pl/100/527/s13/i], Oct. 25, 1988, [102 Stat. 2644][/us/stat/102/2644]; [Pub. L. 101–237, title III, § 313(b)(1)][/us/pl/101/237/s313/b/1], Dec. 18, 1989, [103 Stat. 2077][/us/stat/103/2077]; renumbered § 2400 and amended [Pub. L. 102–83][/us/pl/102/83], §§ 4(a)(3), (4), 5(a), Aug. 6, 1991, [105 Stat. 404][/us/stat/105/404], 406; [Pub. L. 105–368, title IV, § 403(c)(3)][/us/pl/105/368/s403/c/3], Nov. 11, 1998, [112 Stat. 3338][/us/stat/112/3338].)
+(Added [Pub. L. 93–43][/us/pl/93/43], § 2(a), June 18, 1973, [87 Stat. 75][/us/stat/87/75], § 1000; amended [Pub. L. 99–576, title VII][/us/pl/99/576/tVII], § 701(52), Oct. 28, 1986, [100 Stat. 3295][/us/stat/100/3295]; [Pub. L. 100–527][/us/pl/100/527], § 13(i), Oct. 25, 1988, [102 Stat. 2644][/us/stat/102/2644]; [Pub. L. 101–237, title III][/us/pl/101/237/tIII], § 313(b)(1), Dec. 18, 1989, [103 Stat. 2077][/us/stat/103/2077]; renumbered § 2400 and amended [Pub. L. 102–83][/us/pl/102/83], §§ 4(a)(3), (4), 5(a), Aug. 6, 1991, [105 Stat. 404][/us/stat/105/404], 406; [Pub. L. 105–368, title IV][/us/pl/105/368/tIV], § 403(c)(3), Nov. 11, 1998, [112 Stat. 3338][/us/stat/112/3338].)
 
  __References in Text__ 
 
@@ -39,15 +39,15 @@
 
  __Amendments__ 
 
-    1998—[Pub. L. 105–368, § 403(c)(3)(C)][/us/pl/105/368/s403/c/3/C], substituted “Administration; composition of Administration” for “System; composition of such system; appointment of director” in section catchline.
+    1998—[Pub. L. 105–368][/us/pl/105/368], § 403(c)(3)(C), substituted “Administration; composition of Administration” for “System; composition of such system; appointment of director” in section catchline.
 
-    Subsec. (a). [Pub. L. 105–368, § 403(c)(3)(A)][/us/pl/105/368/s403/c/3/A], in first sentence, substituted “Administration responsible” for “System” and, in second sentence, substituted “The National Cemetery Administration shall be headed by the Under Secretary for Memorial Affairs” for “Such system shall be headed by the Director of the National Cemetery System”.
+    Subsec. (a). [Pub. L. 105–368][/us/pl/105/368], § 403(c)(3)(A), in first sentence, substituted “Administration responsible” for “System” and, in second sentence, substituted “The National Cemetery Administration shall be headed by the Under Secretary for Memorial Affairs” for “Such system shall be headed by the Director of the National Cemetery System”.
 
-    Subsec. (b). [Pub. L. 105–368, § 403(c)(3)(B)][/us/pl/105/368/s403/c/3/B], substituted “national cemeteries and other facilities under the control of the National Cemetery Administration” for “National Cemetery System” in introductory provisions.
+    Subsec. (b). [Pub. L. 105–368][/us/pl/105/368], § 403(c)(3)(B), substituted “national cemeteries and other facilities under the control of the National Cemetery Administration” for “National Cemetery System” in introductory provisions.
 
-    1991—[Pub. L. 102–83, § 5(a)][/us/pl/102/83/s5/a], renumbered [section 1000 of this title][/us/usc/t38/s1000] as this section.
+    1991—[Pub. L. 102–83][/us/pl/102/83], § 5(a), renumbered [section 1000 of this title][/us/usc/t38/s1000] as this section.
 
-    Subsec. (a). [Pub. L. 102–83, § 4(a)(3)][/us/pl/102/83/s4/a/3], (4), substituted “Department” for “Veterans’ Administration”.
+    Subsec. (a). [Pub. L. 102–83][/us/pl/102/83], § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration”.
 
     1989—Subsec. (b)(3). [Pub. L. 101–237][/us/pl/101/237] substituted “Secretary” for “Administrator”.
 
@@ -57,11 +57,11 @@
 
  __Change of Name__ 
 
-[Pub. L. 105–368, title IV, § 403(a)(1)][/us/pl/105/368/s403/a/1], Nov. 11, 1998, [112 Stat. 3337][/us/stat/112/3337], provided that: 
+[Pub. L. 105–368, title IV][/us/pl/105/368/tIV], § 403(a)(1), Nov. 11, 1998, [112 Stat. 3337][/us/stat/112/3337], provided that: 
 
 > “The National Cemetery System of the Department of Veterans Affairs shall hereafter be known and designated as the National Cemetery Administration. The position of Director of the National Cemetery System is hereby redesignated as Under Secretary of Veterans Affairs for Memorial Affairs.”
 
-[Pub. L. 105–368, title IV, § 403(d)][/us/pl/105/368/s403/d], Nov. 11, 1998, [112 Stat. 3339][/us/stat/112/3339], provided that:
+[Pub. L. 105–368, title IV][/us/pl/105/368/tIV], § 403(d), Nov. 11, 1998, [112 Stat. 3339][/us/stat/112/3339], provided that:
 
 >     “(1) Any reference in a law, map, regulation, document, paper, or other record of the United States to the National Cemetery System shall be deemed to be a reference to the National Cemetery Administration.
 
@@ -73,7 +73,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 93–43, § 10(a)][/us/pl/93/43/s10/a], June 18, 1973, [87 Stat. 88][/us/stat/87/88], provided that: 
+[Pub. L. 93–43][/us/pl/93/43], § 10(a), June 18, 1973, [87 Stat. 88][/us/stat/87/88], provided that: 
 
 > “The first section \[set out as a Short Title of 1973 Amendment note under [section 101 of this title][/us/usc/t38/s101]\] and sections 2 \[enacting this chapter and amending [section 5316 of Title 5][/us/usc/t5/s5316], Government Organization and Employees\], 3 \[set out as a note under [section 2404 of this title][/us/usc/t38/s2404]\], 4 \[enacting section 218 and repealing [section 625 of this title][/us/usc/t38/s625]\], and 8 \[amending section 3505 \[now 6105\] of this title\] of this Act shall take effect on the date of enactment of this Act \[June 18, 1973\].”
 
@@ -83,7 +83,7 @@
 
  __Reports on Selection of New National Cemeteries__ 
 
-[Pub. L. 111–275, title V, § 503][/us/pl/111/275/s503], Oct. 13, 2010, [124 Stat. 2883][/us/stat/124/2883], provided that:
+[Pub. L. 111–275, title V][/us/pl/111/275/tV], § 503, Oct. 13, 2010, [124 Stat. 2883][/us/stat/124/2883], provided that:
 
 >     “(a) __Initial Report.—__ 
 
@@ -173,7 +173,7 @@
 
  __Establishment of Additional National Cemeteries__ 
 
-[Pub. L. 106–117, title VI, § 611][/us/pl/106/117/s611], Nov. 30, 1999, [113 Stat. 1580][/us/stat/113/1580], provided that:
+[Pub. L. 106–117, title VI][/us/pl/106/117/tVI], § 611, Nov. 30, 1999, [113 Stat. 1580][/us/stat/113/1580], provided that:
 
 >     “(a)  __Establishment__  __.—__ 
 
@@ -201,13 +201,13 @@
 
  __Reimbursement of Account__ 
 
-[Pub. L. 105–276, title I][/us/pl/105/276], Oct. 21, 1998, [112 Stat. 2466][/us/stat/112/2466], provided in part: 
+[Pub. L. 105–276, title I][/us/pl/105/276/tI], Oct. 21, 1998, [112 Stat. 2466][/us/stat/112/2466], provided in part: 
 
 > “That during fiscal year 1999, or in subsequent fiscal years, the ‘Construction, major projects’ account shall be reimbursed, in the amount transferred, from other funds as they become part of the Pershing Hall Revolving Fund.”
 
  __Transfer of Pershing Hall to Department of Veterans Affairs__ 
 
-[Pub. L. 102–86, title IV, § 403][/us/pl/102/86/s403], Aug. 14, 1991, [105 Stat. 422][/us/stat/105/422], as amended by [Pub. L. 103–79, § 4][/us/pl/103/79/s4], Aug. 13, 1993, [107 Stat. 772][/us/stat/107/772]; [Pub. L. 103–446, title XII, § 1202(c)][/us/pl/103/446/s1202/c], Nov. 2, 1994, [108 Stat. 4689][/us/stat/108/4689]; [Pub. L. 107–217, § 3][/us/pl/107/217/s3](o), Aug. 21, 2002, [116 Stat. 1303][/us/stat/116/1303]; [Pub. L. 107–330, title III, § 308(i)][/us/pl/107/330/s308/i], Dec. 6, 2002, [116 Stat. 2829][/us/stat/116/2829], provided that:
+[Pub. L. 102–86, title IV][/us/pl/102/86/tIV], § 403, Aug. 14, 1991, [105 Stat. 422][/us/stat/105/422], as amended by [Pub. L. 103–79][/us/pl/103/79], § 4, Aug. 13, 1993, [107 Stat. 772][/us/stat/107/772]; [Pub. L. 103–446, title XII][/us/pl/103/446/tXII], § 1202(c), Nov. 2, 1994, [108 Stat. 4689][/us/stat/108/4689]; [Pub. L. 107–217][/us/pl/107/217], § 3(o), Aug. 21, 2002, [116 Stat. 1303][/us/stat/116/1303]; [Pub. L. 107–330, title III][/us/pl/107/330/tIII], § 308(i), Dec. 6, 2002, [116 Stat. 2829][/us/stat/116/2829], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -263,11 +263,11 @@
 
     \[Section 3(o) of [Pub. L. 107–217][/us/pl/107/217], which directed amendment of [section 403(e) of Pub. L. 102–86][/us/pl/102/86/s403/e], set out above, by substituting “subchapter II of chapter 5 of title 40, sections 541–555 and 1302 of title 40” for “[section 303b of title 40][/us/usc/t40/s303b], sections 483 and 484 of title 40”, could not be executed.\]
 
-    \[[Section 403 of Pub. L. 102–86][/us/pl/102/86/s403], set out above, was classified to section 493 of former Title 36 prior to the general revision and enactment of Title 36, Patriotic and National Observances, Ceremonies, and Organizations, by [Pub. L. 105–225, § 1][/us/pl/105/225/s1], Aug. 12, 1998, [112 Stat. 1253][/us/stat/112/1253].\]
+    \[[Section 403 of Pub. L. 102–86][/us/pl/102/86/s403], set out above, was classified to section 493 of former Title 36 prior to the general revision and enactment of Title 36, Patriotic and National Observances, Ceremonies, and Organizations, by [Pub. L. 105–225][/us/pl/105/225], § 1, Aug. 12, 1998, [112 Stat. 1253][/us/stat/112/1253].\]
 
  __Authority To Establish National Cemeteries__ 
 
-[Pub. L. 99–576, title IV, § 414][/us/pl/99/576/s414], Oct. 28, 1986, [100 Stat. 3284][/us/stat/100/3284], provided that:
+[Pub. L. 99–576, title IV][/us/pl/99/576/tIV], § 414, Oct. 28, 1986, [100 Stat. 3284][/us/stat/100/3284], provided that:
 
 >     “(a)  __Authority__  __.—__ 
 
@@ -306,17 +306,17 @@
 ----------
 ----------
 
-[/us/pl/93/43/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F43%2Fs2%2Fa
+[/us/pl/93/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F43
 [/us/stat/87/75]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F75
-[/us/pl/99/576/s701/52]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2Fs701%2F52
+[/us/pl/99/576/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2FtVII
 [/us/stat/100/3295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3295
-[/us/pl/100/527/s13/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F527%2Fs13%2Fi
+[/us/pl/100/527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F527
 [/us/stat/102/2644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2644
-[/us/pl/101/237/s313/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237%2Fs313%2Fb%2F1
+[/us/pl/101/237/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237%2FtIII
 [/us/stat/103/2077]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2077
 [/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F404
-[/us/pl/105/368/s403/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2Fs403%2Fc%2F3
+[/us/pl/105/368/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2FtIV
 [/us/stat/112/3338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3338
 [/us/pl/93/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F43
 [/us/stat/87/75]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F75
@@ -324,23 +324,23 @@
 [/us/usc/t38/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs101
 [/us/usc/t38/s2404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs2404
 [/us/pl/93/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F43
-[/us/pl/105/368/s403/c/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2Fs403%2Fc%2F3%2FC
-[/us/pl/105/368/s403/c/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2Fs403%2Fc%2F3%2FA
-[/us/pl/105/368/s403/c/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2Fs403%2Fc%2F3%2FB
-[/us/pl/102/83/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fa
+[/us/pl/105/368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368
+[/us/pl/105/368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368
+[/us/pl/105/368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/usc/t38/s1000]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1000
-[/us/pl/102/83/s4/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fa%2F3
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/pl/101/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237
 [/us/pl/100/527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F527
 [/us/pl/99/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576
-[/us/pl/105/368/s403/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2Fs403%2Fa%2F1
+[/us/pl/105/368/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2FtIV
 [/us/stat/112/3337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3337
-[/us/pl/105/368/s403/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2Fs403%2Fd
+[/us/pl/105/368/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2FtIV
 [/us/stat/112/3339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3339
 [/us/pl/100/527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F527
 [/us/pl/100/527/s18/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F527%2Fs18%2Fa
 [/us/usc/t38/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs301
-[/us/pl/93/43/s10/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F43%2Fs10%2Fa
+[/us/pl/93/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F43
 [/us/stat/87/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F88
 [/us/usc/t38/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs101
 [/us/usc/t5/s5316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5316
@@ -350,23 +350,23 @@
 [/us/stat/87/75]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F75
 [/us/pl/93/43/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F43%2Fs1
 [/us/usc/t38/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs101
-[/us/pl/111/275/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275%2Fs503
+[/us/pl/111/275/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275%2FtV
 [/us/stat/124/2883]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2883
 [/us/pl/108/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F109
 [/us/stat/117/1322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1322
-[/us/pl/106/117/s611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117%2Fs611
+[/us/pl/106/117/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117%2FtVI
 [/us/stat/113/1580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1580
-[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
+[/us/pl/105/276/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2FtI
 [/us/stat/112/2466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2466
-[/us/pl/102/86/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F86%2Fs403
+[/us/pl/102/86/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F86%2FtIV
 [/us/stat/105/422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F422
-[/us/pl/103/79/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F79%2Fs4
+[/us/pl/103/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F79
 [/us/stat/107/772]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F772
-[/us/pl/103/446/s1202/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2Fs1202%2Fc
+[/us/pl/103/446/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2FtXII
 [/us/stat/108/4689]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4689
-[/us/pl/107/217/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs3
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1303
-[/us/pl/107/330/s308/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F330%2Fs308%2Fi
+[/us/pl/107/330/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F330%2FtIII
 [/us/stat/116/2829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2829
 [/us/usc/t38/s707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs707
 [/us/act/1935-06-28/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-06-28%2Fs2
@@ -378,9 +378,9 @@
 [/us/pl/102/86/s403/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F86%2Fs403%2Fe
 [/us/usc/t40/s303b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs303b
 [/us/pl/102/86/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F86%2Fs403
-[/us/pl/105/225/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F225%2Fs1
+[/us/pl/105/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F225
 [/us/stat/112/1253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1253
-[/us/pl/99/576/s414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2Fs414
+[/us/pl/99/576/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2FtIV
 [/us/stat/100/3284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3284
 
 

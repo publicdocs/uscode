@@ -67,7 +67,7 @@
 
     Nothing in this section shall be construed as a limitation on disabled sports and special events supported by the Department as of the date of the enactment of this section.
 
-(Added [Pub. L. 110–389, title VII, § 703(a)][/us/pl/110/389/s703/a], Oct. 10, 2008, [122 Stat. 4183][/us/stat/122/4183]; amended [Pub. L. 113–37, § 2(a)][/us/pl/113/37/s2/a], Sept. 30, 2013, [127 Stat. 523][/us/stat/127/523]; [Pub. L. 113–59, § 4][/us/pl/113/59/s4], Dec. 20, 2013, [127 Stat. 659][/us/stat/127/659]; [Pub. L. 114–58, title IV, § 402][/us/pl/114/58/s402], Sept. 30, 2015, [129 Stat. 534][/us/stat/129/534].)
+(Added [Pub. L. 110–389, title VII][/us/pl/110/389/tVII], § 703(a), Oct. 10, 2008, [122 Stat. 4183][/us/stat/122/4183]; amended [Pub. L. 113–37][/us/pl/113/37], § 2(a), Sept. 30, 2013, [127 Stat. 523][/us/stat/127/523]; [Pub. L. 113–59][/us/pl/113/59], § 4, Dec. 20, 2013, [127 Stat. 659][/us/stat/127/659]; [Pub. L. 114–58, title IV][/us/pl/114/58/tIV], § 402, Sept. 30, 2015, [129 Stat. 534][/us/stat/129/534].)
 
  __References in Text__ 
 
@@ -77,21 +77,21 @@
 
     2015—Subsec. (d)(4). [Pub. L. 114–58][/us/pl/114/58] substituted “2016” for “2015”.
 
-    2013—Subsec. (b)(4). [Pub. L. 113–59, § 4(b)][/us/pl/113/59/s4/b], substituted “cooperate with entities with significant experience in managing large-scale adaptive sports programs;” for “cooperate with the United States Olympic Committee and its partners to promote the participation of disabled veterans and disabled members of the Armed Forces in sporting events sponsored by the United States Olympic Committee and its partners;”.
+    2013—Subsec. (b)(4). [Pub. L. 113–59][/us/pl/113/59], § 4(b), substituted “cooperate with entities with significant experience in managing large-scale adaptive sports programs;” for “cooperate with the United States Olympic Committee and its partners to promote the participation of disabled veterans and disabled members of the Armed Forces in sporting events sponsored by the United States Olympic Committee and its partners;”.
 
-    [Pub. L. 113–37, § 2(a)(2)][/us/pl/113/37/s2/a/2], substituted “United States Olympic Committee” for “United States Paralympics, Inc.,” in two places.
+    [Pub. L. 113–37][/us/pl/113/37], § 2(a)(2), substituted “United States Olympic Committee” for “United States Paralympics, Inc.,” in two places.
 
-    Subsec. (d)(1). [Pub. L. 113–37, § 2(a)(2)][/us/pl/113/37/s2/a/2], substituted “United States Olympic Committee” for “United States Paralympics, Inc.,” wherever appearing.
+    Subsec. (d)(1). [Pub. L. 113–37][/us/pl/113/37], § 2(a)(2), substituted “United States Olympic Committee” for “United States Paralympics, Inc.,” wherever appearing.
 
-    Subsec. (d)(4). [Pub. L. 113–59, § 4(a)][/us/pl/113/59/s4/a], substituted “through 2015.” for “through 2013 and $500,000 for the period beginning October 1, 2013, and ending December 31, 2013.”
+    Subsec. (d)(4). [Pub. L. 113–59][/us/pl/113/59], § 4(a), substituted “through 2015.” for “through 2013 and $500,000 for the period beginning October 1, 2013, and ending December 31, 2013.”
 
-    [Pub. L. 113–37, § 2(a)(1)][/us/pl/113/37/s2/a/1], inserted “and $500,000 for the period beginning October 1, 2013, and ending December 31, 2013” before period at end.
+    [Pub. L. 113–37][/us/pl/113/37], § 2(a)(1), inserted “and $500,000 for the period beginning October 1, 2013, and ending December 31, 2013” before period at end.
 
-    Subsecs. (e), (f). [Pub. L. 113–59, § 4(c)][/us/pl/113/59/s4/c], added subsec. (e) and redesignated former subsec. (e) as (f).
+    Subsecs. (e), (f). [Pub. L. 113–59][/us/pl/113/59], § 4(c), added subsec. (e) and redesignated former subsec. (e) as (f).
 
  __Effective Date of 2013 Amendment__ 
 
-[Pub. L. 113–37, § 4][/us/pl/113/37/s4], Sept. 30, 2013, [127 Stat. 525][/us/stat/127/525], provided that:
+[Pub. L. 113–37][/us/pl/113/37], § 4, Sept. 30, 2013, [127 Stat. 525][/us/stat/127/525], provided that:
 
 >     “(a)  __Effective Date__  __.—__ 
 
@@ -103,7 +103,7 @@
 
  __Findings and Purpose__ 
 
-[Pub. L. 110–389, title VII, § 701][/us/pl/110/389/s701], Oct. 10, 2008, [122 Stat. 4180][/us/stat/122/4180], provided that:
+[Pub. L. 110–389, title VII][/us/pl/110/389/tVII], § 701, Oct. 10, 2008, [122 Stat. 4180][/us/stat/122/4180], provided that:
 
 >     “(a)  __Findings__  __.—__ 
 
@@ -140,26 +140,26 @@
 ----------
 ----------
 
-[/us/pl/110/389/s703/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F389%2Fs703%2Fa
+[/us/pl/110/389/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F389%2FtVII
 [/us/stat/122/4183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4183
-[/us/pl/113/37/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F37%2Fs2%2Fa
+[/us/pl/113/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F37
 [/us/stat/127/523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F523
-[/us/pl/113/59/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F59%2Fs4
+[/us/pl/113/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F59
 [/us/stat/127/659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F659
-[/us/pl/114/58/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F58%2Fs402
+[/us/pl/114/58/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F58%2FtIV
 [/us/stat/129/534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F534
 [/us/pl/110/389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F389
 [/us/pl/114/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F58
-[/us/pl/113/59/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F59%2Fs4%2Fb
-[/us/pl/113/37/s2/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F37%2Fs2%2Fa%2F2
-[/us/pl/113/37/s2/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F37%2Fs2%2Fa%2F2
-[/us/pl/113/59/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F59%2Fs4%2Fa
-[/us/pl/113/37/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F37%2Fs2%2Fa%2F1
-[/us/pl/113/59/s4/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F59%2Fs4%2Fc
-[/us/pl/113/37/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F37%2Fs4
+[/us/pl/113/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F59
+[/us/pl/113/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F37
+[/us/pl/113/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F37
+[/us/pl/113/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F59
+[/us/pl/113/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F37
+[/us/pl/113/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F59
+[/us/pl/113/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F37
 [/us/stat/127/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F525
 [/us/usc/t38/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs101
-[/us/pl/110/389/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F389%2Fs701
+[/us/pl/110/389/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F389%2FtVII
 [/us/stat/122/4180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4180
 [/us/usc/t36/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft36%2Fs101
 [/us/usc/t38/s521A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs521A

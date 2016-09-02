@@ -17,7 +17,7 @@
 
     The Secretary may furnish hospital care or medical services as a humanitarian service in emergency cases, but the Secretary shall charge for such care and services at rates prescribed by the Secretary.
 
-(Added [Pub. L. 107–135, title II, § 208(b)][/us/pl/107/135/s208/b], Jan. 23, 2002, [115 Stat. 2463][/us/stat/115/2463].)
+(Added [Pub. L. 107–135, title II][/us/pl/107/135/tII], § 208(b), Jan. 23, 2002, [115 Stat. 2463][/us/stat/115/2463].)
 
  __Prior Provisions__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/107/135/s208/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F135%2Fs208%2Fb
+[/us/pl/107/135/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F135%2FtII
 [/us/stat/115/2463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2463
 [/us/usc/t38/s3684]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3684
 

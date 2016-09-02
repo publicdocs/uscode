@@ -127,7 +127,7 @@
 
     The Committee shall cease to exist December 31, 2016.
 
-(Added [Pub. L. 107–95, § 5(a)(1)][/us/pl/107/95/s5/a/1], Dec. 21, 2001, [115 Stat. 916][/us/stat/115/916]; amended [Pub. L. 109–444, § 2(e)][/us/pl/109/444/s2/e], Dec. 21, 2006, [120 Stat. 3304][/us/stat/120/3304]; [Pub. L. 109–461, title VII, § 709][/us/pl/109/461/s709], title X, § 1006(b), Dec. 22, 2006, [120 Stat. 3441][/us/stat/120/3441], 3468; [Pub. L. 112–37, § 10(f)][/us/pl/112/37/s10/f], Oct. 5, 2011, [125 Stat. 397][/us/stat/125/397]; [Pub. L. 112–191, title II, § 206][/us/pl/112/191/s206], Oct. 5, 2012, [126 Stat. 1439][/us/stat/126/1439]; [Pub. L. 113–59, § 11][/us/pl/113/59/s11], Dec. 20, 2013, [127 Stat. 663][/us/stat/127/663]; [Pub. L. 113–175, title II, § 208][/us/pl/113/175/s208], Sept. 26, 2014, [128 Stat. 1904][/us/stat/128/1904]; [Pub. L. 114–58, title III, § 306][/us/pl/114/58/s306], Sept. 30, 2015, [129 Stat. 534][/us/stat/129/534].)
+(Added [Pub. L. 107–95][/us/pl/107/95], § 5(a)(1), Dec. 21, 2001, [115 Stat. 916][/us/stat/115/916]; amended [Pub. L. 109–444][/us/pl/109/444], § 2(e), Dec. 21, 2006, [120 Stat. 3304][/us/stat/120/3304]; [Pub. L. 109–461, title VII][/us/pl/109/461/tVII], § 709, title X, § 1006(b), Dec. 22, 2006, [120 Stat. 3441][/us/stat/120/3441], 3468; [Pub. L. 112–37][/us/pl/112/37], § 10(f), Oct. 5, 2011, [125 Stat. 397][/us/stat/125/397]; [Pub. L. 112–191, title II][/us/pl/112/191/tII], § 206, Oct. 5, 2012, [126 Stat. 1439][/us/stat/126/1439]; [Pub. L. 113–59][/us/pl/113/59], § 11, Dec. 20, 2013, [127 Stat. 663][/us/stat/127/663]; [Pub. L. 113–175, title II][/us/pl/113/175/tII], § 208, Sept. 26, 2014, [128 Stat. 1904][/us/stat/128/1904]; [Pub. L. 114–58, title III][/us/pl/114/58/tIII], § 306, Sept. 30, 2015, [129 Stat. 534][/us/stat/129/534].)
 
  __References in Text__ 
 
@@ -145,17 +145,17 @@
 
     2011—Subsec. (d). [Pub. L. 112–37][/us/pl/112/37] substituted “December 31, 2012” for “December 30, 2011”.
 
-    2006—Subsec. (a)(3)(E) to (G). [Pub. L. 109–461, § 709(a)][/us/pl/109/461/s709/a], added subpars. (E) to (G).
+    2006—Subsec. (a)(3)(E) to (G). [Pub. L. 109–461][/us/pl/109/461], § 709(a), added subpars. (E) to (G).
 
-    Subsec. (d). [Pub. L. 109–461, § 1006(b)][/us/pl/109/461/s1006/b], provided that as of the enactment of [Pub. L. 109–461][/us/pl/109/461], the amendments made by [Pub. L. 109–444][/us/pl/109/444] were deemed for all purposes not to have taken effect and that [Pub. L. 109–444][/us/pl/109/444] ceased to be in effect. See Amendment notes below and [section 1006(b) of Pub. L. 109–461][/us/pl/109/461/s1006/b], set out as a Coordination of Provisions With [Pub. L. 109–444][/us/pl/109/444] note under [section 101 of this title][/us/usc/t38/s101].
+    Subsec. (d). [Pub. L. 109–461][/us/pl/109/461], § 1006(b), provided that as of the enactment of [Pub. L. 109–461][/us/pl/109/461], the amendments made by [Pub. L. 109–444][/us/pl/109/444] were deemed for all purposes not to have taken effect and that [Pub. L. 109–444][/us/pl/109/444] ceased to be in effect. See Amendment notes below and [section 1006(b) of Pub. L. 109–461][/us/pl/109/461/s1006/b], set out as a Coordination of Provisions With [Pub. L. 109–444][/us/pl/109/444] note under [section 101 of this title][/us/usc/t38/s101].
 
-    [Pub. L. 109–461, § 709(b)][/us/pl/109/461/s709/b], substituted “December 30, 2011” for “December 31, 2006”.
+    [Pub. L. 109–461][/us/pl/109/461], § 709(b), substituted “December 30, 2011” for “December 31, 2006”.
 
-    [Pub. L. 109–444][/us/pl/109/444], which substituted “December 31, 2007” for “December 31, 2006”, was terminated by [Pub. L. 109–461, § 1006(b)][/us/pl/109/461/s1006/b]. See Amendment notes above.
+    [Pub. L. 109–444][/us/pl/109/444], which substituted “December 31, 2007” for “December 31, 2006”, was terminated by [Pub. L. 109–461][/us/pl/109/461], § 1006(b). See Amendment notes above.
 
  __Change of Name__ 
 
-    Interagency Council on the Homeless changed to United States Interagency Council on Homelessness by [Pub. L. 108–199, div. G, title II, § 216][/us/pl/108/199/s216], Jan. 23, 2004, [118 Stat. 394][/us/stat/118/394].
+    Interagency Council on the Homeless changed to United States Interagency Council on Homelessness by [Pub. L. 108–199, div. G, title II][/us/pl/108/199/dG/tII], § 216, Jan. 23, 2004, [118 Stat. 394][/us/stat/118/394].
 
 ----------
 
@@ -167,21 +167,21 @@
 [/us/usc/t38/s2034]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs2034
 [/us/usc/t42/s11311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11311
 [/us/usc/t38/s529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs529
-[/us/pl/107/95/s5/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F95%2Fs5%2Fa%2F1
+[/us/pl/107/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F95
 [/us/stat/115/916]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F916
-[/us/pl/109/444/s2/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F444%2Fs2%2Fe
+[/us/pl/109/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F444
 [/us/stat/120/3304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3304
-[/us/pl/109/461/s709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461%2Fs709
+[/us/pl/109/461/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461%2FtVII
 [/us/stat/120/3441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3441
-[/us/pl/112/37/s10/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F37%2Fs10%2Ff
+[/us/pl/112/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F37
 [/us/stat/125/397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F397
-[/us/pl/112/191/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F191%2Fs206
+[/us/pl/112/191/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F191%2FtII
 [/us/stat/126/1439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1439
-[/us/pl/113/59/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F59%2Fs11
+[/us/pl/113/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F59
 [/us/stat/127/663]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F663
-[/us/pl/113/175/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F175%2Fs208
+[/us/pl/113/175/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F175%2FtII
 [/us/stat/128/1904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1904
-[/us/pl/114/58/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F58%2Fs306
+[/us/pl/114/58/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F58%2FtIII
 [/us/stat/129/534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F534
 [/us/pl/100/77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77
 [/us/stat/101/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F482
@@ -191,18 +191,18 @@
 [/us/pl/113/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F59
 [/us/pl/112/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F191
 [/us/pl/112/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F37
-[/us/pl/109/461/s709/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461%2Fs709%2Fa
-[/us/pl/109/461/s1006/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461%2Fs1006%2Fb
+[/us/pl/109/461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461
+[/us/pl/109/461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461
 [/us/pl/109/461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461
 [/us/pl/109/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F444
 [/us/pl/109/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F444
 [/us/pl/109/461/s1006/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461%2Fs1006%2Fb
 [/us/pl/109/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F444
 [/us/usc/t38/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs101
-[/us/pl/109/461/s709/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461%2Fs709%2Fb
+[/us/pl/109/461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461
 [/us/pl/109/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F444
-[/us/pl/109/461/s1006/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461%2Fs1006%2Fb
-[/us/pl/108/199/s216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2Fs216
+[/us/pl/109/461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461
+[/us/pl/108/199/dG/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2FdG%2FtII
 [/us/stat/118/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F394
 
 

@@ -43,7 +43,7 @@
 
         (2) Funds appropriated to carry out this section shall remain available until expended. Funds obligated in any fiscal year to carry out this section may be expended in that fiscal year and the succeeding fiscal year.
 
-(Added [Pub. L. 111–275, title II, § 202(a)][/us/pl/111/275/s202/a], Oct. 13, 2010, [124 Stat. 2873][/us/stat/124/2873]; amended [Pub. L. 114–58, title III, § 302][/us/pl/114/58/s302], Sept. 30, 2015, [129 Stat. 534][/us/stat/129/534].)
+(Added [Pub. L. 111–275, title II][/us/pl/111/275/tII], § 202(a), Oct. 13, 2010, [124 Stat. 2873][/us/stat/124/2873]; amended [Pub. L. 114–58, title III][/us/pl/114/58/tIII], § 302, Sept. 30, 2015, [129 Stat. 534][/us/stat/129/534].)
 
  __Amendments__ 
 
@@ -58,9 +58,9 @@
 
 [/us/usc/t38/s2021/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs2021%2Fd
 [/us/usc/t38/s2021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs2021
-[/us/pl/111/275/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275%2Fs202%2Fa
+[/us/pl/111/275/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275%2FtII
 [/us/stat/124/2873]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2873
-[/us/pl/114/58/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F58%2Fs302
+[/us/pl/114/58/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F58%2FtIII
 [/us/stat/129/534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F534
 [/us/pl/114/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F58
 

@@ -21,13 +21,13 @@
 
     (c) In any case in which insurance continued in force under this section matures on or after January 1, 1972, an amount equal to the amount of premiums, less dividends, waived on and after that date shall be placed as an indebtedness against the insurance and, unless otherwise paid, shall be deducted from the proceeds. In such case, the liability of the Government under subsection (b) of this section shall be reduced by the amount so deducted from the proceeds.
 
-([Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1157][/us/stat/72/1157], § 724; [Pub. L. 92–197, § 7][/us/pl/92/197/s7], Dec. 15, 1971, [85 Stat. 662][/us/stat/85/662]; renumbered § 1924 and amended [Pub. L. 102–83][/us/pl/102/83], §§ 4(b)(1), (2)(E), 5(a), Aug. 6, 1991, [105 Stat. 404–406][/us/stat/105/404-406].)
+([Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1157][/us/stat/72/1157], § 724; [Pub. L. 92–197][/us/pl/92/197], § 7, Dec. 15, 1971, [85 Stat. 662][/us/stat/85/662]; renumbered § 1924 and amended [Pub. L. 102–83][/us/pl/102/83], §§ 4(b)(1), (2)(E), 5(a), Aug. 6, 1991, [105 Stat. 404–406][/us/stat/105/404-406].)
 
  __References in Text__ 
 
-    Section 622 of the National Service Life Insurance Act of 1940, referred to in subsec. (a), is section 622 of [act Oct. 8, 1940, ch. 757][/us/act/1940-10-08/ch757], title VI, pt. I, as added [Apr. 25, 1951, ch. 39][/us/act/1951-04-25/ch39], pt. II, § 10, [65 Stat. 36][/us/stat/65/36], which enacted section 823 of former Title 38, Pensions, Bonuses, and Veterans’ Relief, and which was repealed and the provisions thereof reenacted as this section by [Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1105][/us/stat/72/1105].
+    Section 622 of the National Service Life Insurance Act of 1940, referred to in subsec. (a), is section 622 of [act Oct. 8, 1940, ch. 757, title VI][/us/act/1940-10-08/ch757/tVI], pt. I, as added [Apr. 25, 1951, ch. 39][/us/act/1951-04-25/ch39], pt. II, § 10, [65 Stat. 36][/us/stat/65/36], which enacted section 823 of former Title 38, Pensions, Bonuses, and Veterans’ Relief, and which was repealed and the provisions thereof reenacted as this section by [Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1105][/us/stat/72/1105].
 
-    Sections 620 and 621 of the National Service Life Insurance Act of 1940, referred to in subsec. (b), are sections 620 and 621 of [act Oct. 8, 1940, ch. 757][/us/act/1940-10-08/ch757], title VI, pt. I, as added [Apr. 25, 1951, ch. 39][/us/act/1951-04-25/ch39], pt. II, § 10, [65 Stat. 36][/us/stat/65/36], which enacted sections 821 and 822 of former Title 38, Pensions, Bonuses, and Veterans’ Relief, and which were repealed and reenacted as sections 722 and 723 \[now 1922 and 1923\], respectively, of this title by [Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1105][/us/stat/72/1105].
+    Sections 620 and 621 of the National Service Life Insurance Act of 1940, referred to in subsec. (b), are sections 620 and 621 of [act Oct. 8, 1940, ch. 757, title VI][/us/act/1940-10-08/ch757/tVI], pt. I, as added [Apr. 25, 1951, ch. 39][/us/act/1951-04-25/ch39], pt. II, § 10, [65 Stat. 36][/us/stat/65/36], which enacted sections 821 and 822 of former Title 38, Pensions, Bonuses, and Veterans’ Relief, and which were repealed and reenacted as sections 722 and 723 \[now 1922 and 1923\], respectively, of this title by [Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1105][/us/stat/72/1105].
 
  __Amendments__ 
 
@@ -48,16 +48,16 @@
 
 [/us/pl/85/857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F857
 [/us/stat/72/1157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1157
-[/us/pl/92/197/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F197%2Fs7
+[/us/pl/92/197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F197
 [/us/stat/85/662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F662
 [/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/404-406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F404-406
-[/us/act/1940-10-08/ch757]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-08%2Fch757
+[/us/act/1940-10-08/ch757/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-08%2Fch757%2FtVI
 [/us/act/1951-04-25/ch39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-04-25%2Fch39
 [/us/stat/65/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F36
 [/us/pl/85/857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F857
 [/us/stat/72/1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1105
-[/us/act/1940-10-08/ch757]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-08%2Fch757
+[/us/act/1940-10-08/ch757/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-08%2Fch757%2FtVI
 [/us/act/1951-04-25/ch39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-04-25%2Fch39
 [/us/stat/65/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F36
 [/us/pl/85/857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F857

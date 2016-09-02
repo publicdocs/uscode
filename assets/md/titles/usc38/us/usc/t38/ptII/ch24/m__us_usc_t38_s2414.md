@@ -31,11 +31,11 @@
 
         (2) who does not have sufficient resources for the furnishing of a casket or urn for the burial of the deceased veteran in a national cemetery, as determined by the Secretary.
 
-(Added [Pub. L. 112–260, title I, § 103(a)][/us/pl/112/260/s103/a], Jan. 10, 2013, [126 Stat. 2419][/us/stat/126/2419].)
+(Added [Pub. L. 112–260, title I][/us/pl/112/260/tI], § 103(a), Jan. 10, 2013, [126 Stat. 2419][/us/stat/126/2419].)
 
  __Effective Date__ 
 
-[Pub. L. 112–260, title I, § 103(c)][/us/pl/112/260/s103/c], Jan. 10, 2013, [126 Stat. 2420][/us/stat/126/2420], provided that: 
+[Pub. L. 112–260, title I][/us/pl/112/260/tI], § 103(c), Jan. 10, 2013, [126 Stat. 2420][/us/stat/126/2420], provided that: 
 
 > “[Section 2414 of title 38][/us/usc/t38/s2414], United States Code, as added by subsection (a), shall take effect on the date of the enactment of this Act \[Jan. 10, 2013\] and shall apply with respect to deaths occurring on or after the date that is 180 days after the date of the enactment of this Act.”
 
@@ -46,9 +46,9 @@
 ----------
 ----------
 
-[/us/pl/112/260/s103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F260%2Fs103%2Fa
+[/us/pl/112/260/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F260%2FtI
 [/us/stat/126/2419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2419
-[/us/pl/112/260/s103/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F260%2Fs103%2Fc
+[/us/pl/112/260/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F260%2FtI
 [/us/stat/126/2420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2420
 [/us/usc/t38/s2414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs2414
 

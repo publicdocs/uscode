@@ -31,7 +31,7 @@
 
         (2) Paragraph (1) shall not apply to recall-eligible retired judges of the Court of Appeals for Veterans Claims.
 
-(Added [Pub. L. 100–687, div. A, title III, § 301(a)][/us/pl/100/687/s301/a], Nov. 18, 1988, [102 Stat. 4114][/us/stat/102/4114], § 4055; renumbered § 7255, [Pub. L. 102–40, title IV, § 402(b)(1)][/us/pl/102/40/s402/b/1], May 7, 1991, [105 Stat. 238][/us/stat/105/238]; amended [Pub. L. 105–368, title V, § 512(a)(1)][/us/pl/105/368/s512/a/1], Nov. 11, 1998, [112 Stat. 3341][/us/stat/112/3341]; [Pub. L. 108–454, title VIII, § 801][/us/pl/108/454/s801], Dec. 10, 2004, [118 Stat. 3625][/us/stat/118/3625]; [Pub. L. 112–260, title III, § 302(a)(1)][/us/pl/112/260/s302/a/1], Jan. 10, 2013, [126 Stat. 2425][/us/stat/126/2425].)
+(Added [Pub. L. 100–687, div. A, title III][/us/pl/100/687/dA/tIII], § 301(a), Nov. 18, 1988, [102 Stat. 4114][/us/stat/102/4114], § 4055; renumbered § 7255, [Pub. L. 102–40, title IV][/us/pl/102/40/tIV], § 402(b)(1), May 7, 1991, [105 Stat. 238][/us/stat/105/238]; amended [Pub. L. 105–368, title V][/us/pl/105/368/tV], § 512(a)(1), Nov. 11, 1998, [112 Stat. 3341][/us/stat/112/3341]; [Pub. L. 108–454, title VIII][/us/pl/108/454/tVIII], § 801, Dec. 10, 2004, [118 Stat. 3625][/us/stat/118/3625]; [Pub. L. 112–260, title III][/us/pl/112/260/tIII], § 302(a)(1), Jan. 10, 2013, [126 Stat. 2425][/us/stat/126/2425].)
 
  __Amendments__ 
 
@@ -45,7 +45,7 @@
 
  __Effective Date of 2013 Amendment__ 
 
-[Pub. L. 112–260, title III, § 302(c)(1)][/us/pl/112/260/s302/c/1], Jan. 10, 2013, [126 Stat. 2425][/us/stat/126/2425], provided that: 
+[Pub. L. 112–260, title III][/us/pl/112/260/tIII], § 302(c)(1), Jan. 10, 2013, [126 Stat. 2425][/us/stat/126/2425], provided that: 
 
 > “Subsection (c) of section 7255 \[probably means [38 U.S.C. 7255(c)][/us/usc/t38/s7255/c]\], as added by subsection (a), and the amendment made by subsection (b) \[amending [section 7253 of this title][/us/usc/t38/s7253]\] shall take effect on the date that is 180 days after the date of the enactment of this Act \[Jan. 10, 2013\].”
 
@@ -55,7 +55,7 @@
 
  __Facilities for Court of Appeals for Veterans Claims__ 
 
-[Pub. L. 101–94, title II, § 201][/us/pl/101/94/s201], Aug. 16, 1989, [103 Stat. 626][/us/stat/103/626], as amended by [Pub. L. 105–368, title V, § 512(c)][/us/pl/105/368/s512/c], Nov. 11, 1998, [112 Stat. 3342][/us/stat/112/3342], provided that:
+[Pub. L. 101–94, title II][/us/pl/101/94/tII], § 201, Aug. 16, 1989, [103 Stat. 626][/us/stat/103/626], as amended by [Pub. L. 105–368, title V][/us/pl/105/368/tV], § 512(c), Nov. 11, 1998, [112 Stat. 3342][/us/stat/112/3342], provided that:
 
 >     “(a)  __Space in the District of Columbia__  __.—__ 
 
@@ -69,7 +69,7 @@
 
 >     Any building space provided to the Court under subsection (a) shall be adjacent to additional building space (in an amount acceptable to the Court) that can be made available to the Court in the future if needed for expansion of the facilities of the Court.”
 
-    [Pub. L. 100–687, div. A, title III, § 303][/us/pl/100/687/s303], Nov. 18, 1988, [102 Stat. 4121][/us/stat/102/4121], provided for the initial location of the principal office of the Court of Veterans Appeals.
+    [Pub. L. 100–687, div. A, title III][/us/pl/100/687/dA/tIII], § 303, Nov. 18, 1988, [102 Stat. 4121][/us/stat/102/4121], provided for the initial location of the principal office of the Court of Veterans Appeals.
 
 ----------
 
@@ -78,33 +78,33 @@
 ----------
 ----------
 
-[/us/pl/100/687/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F687%2Fs301%2Fa
+[/us/pl/100/687/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F687%2FdA%2FtIII
 [/us/stat/102/4114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4114
-[/us/pl/102/40/s402/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs402%2Fb%2F1
+[/us/pl/102/40/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2FtIV
 [/us/stat/105/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F238
-[/us/pl/105/368/s512/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2Fs512%2Fa%2F1
+[/us/pl/105/368/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2FtV
 [/us/stat/112/3341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3341
-[/us/pl/108/454/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F454%2Fs801
+[/us/pl/108/454/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F454%2FtVIII
 [/us/stat/118/3625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3625
-[/us/pl/112/260/s302/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F260%2Fs302%2Fa%2F1
+[/us/pl/112/260/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F260%2FtIII
 [/us/stat/126/2425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2425
 [/us/pl/112/260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F260
 [/us/pl/108/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F454
 [/us/pl/105/368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368
 [/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40
 [/us/usc/t38/s4055]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs4055
-[/us/pl/112/260/s302/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F260%2Fs302%2Fc%2F1
+[/us/pl/112/260/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F260%2FtIII
 [/us/stat/126/2425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2425
 [/us/usc/t38/s7255/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7255%2Fc
 [/us/usc/t38/s7253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7253
 [/us/pl/105/368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368
 [/us/pl/105/368/s513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2Fs513
 [/us/usc/t38/s7251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7251
-[/us/pl/101/94/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F94%2Fs201
+[/us/pl/101/94/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F94%2FtII
 [/us/stat/103/626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F626
-[/us/pl/105/368/s512/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2Fs512%2Fc
+[/us/pl/105/368/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2FtV
 [/us/stat/112/3342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3342
-[/us/pl/100/687/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F687%2Fs303
+[/us/pl/100/687/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F687%2FdA%2FtIII
 [/us/stat/102/4121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4121
 
 

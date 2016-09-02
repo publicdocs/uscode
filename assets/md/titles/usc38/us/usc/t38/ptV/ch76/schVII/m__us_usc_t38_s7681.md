@@ -25,7 +25,7 @@
 
     Education debt reduction payments under the Education Debt Reduction Program may be in addition to other assistance available to individuals under the Educational Assistance Program.
 
-(Added [Pub. L. 105–368, title VIII, § 803(a)][/us/pl/105/368/s803/a], Nov. 11, 1998, [112 Stat. 3357][/us/stat/112/3357]; amended [Pub. L. 107–14, § 8(a)(16)][/us/pl/107/14/s8/a/16], June 5, 2001, [115 Stat. 35][/us/stat/115/35]; [Pub. L. 111–163, title III, § 301(a)][/us/pl/111/163/s301/a], May 5, 2010, [124 Stat. 1146][/us/stat/124/1146].)
+(Added [Pub. L. 105–368, title VIII][/us/pl/105/368/tVIII], § 803(a), Nov. 11, 1998, [112 Stat. 3357][/us/stat/112/3357]; amended [Pub. L. 107–14][/us/pl/107/14], § 8(a)(16), June 5, 2001, [115 Stat. 35][/us/stat/115/35]; [Pub. L. 111–163, title III][/us/pl/111/163/tIII], § 301(a), May 5, 2010, [124 Stat. 1146][/us/stat/124/1146].)
 
  __Amendments__ 
 
@@ -35,7 +35,7 @@
 
  __Pilot Program for Repayment of Educational Loans for Certain Psychiatrists of Veterans Health Administration__ 
 
-[Pub. L. 114–2, § 4][/us/pl/114/2/s4], Feb. 12, 2015, [129 Stat. 32][/us/stat/129/32], provided that:
+[Pub. L. 114–2][/us/pl/114/2], § 4, Feb. 12, 2015, [129 Stat. 32][/us/stat/129/32], provided that:
 
 >     “(a)  __Establishment__  __.—__ 
 
@@ -141,7 +141,7 @@
 
  __Loan Repayment Program for Clinical Researchers From Disadvantaged Backgrounds__ 
 
-[Pub. L. 111–163, title VI, § 604][/us/pl/111/163/s604], May 5, 2010, [124 Stat. 1174][/us/stat/124/1174], provided that:
+[Pub. L. 111–163, title VI][/us/pl/111/163/tVI], § 604, May 5, 2010, [124 Stat. 1174][/us/stat/124/1174], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -162,17 +162,17 @@
 ----------
 ----------
 
-[/us/pl/105/368/s803/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2Fs803%2Fa
+[/us/pl/105/368/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2FtVIII
 [/us/stat/112/3357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3357
-[/us/pl/107/14/s8/a/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F14%2Fs8%2Fa%2F16
+[/us/pl/107/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F14
 [/us/stat/115/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F35
-[/us/pl/111/163/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163%2Fs301%2Fa
+[/us/pl/111/163/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163%2FtIII
 [/us/stat/124/1146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1146
 [/us/pl/111/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163
 [/us/pl/107/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F14
-[/us/pl/114/2/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F2%2Fs4
+[/us/pl/114/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F2
 [/us/stat/129/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F32
-[/us/pl/111/163/s604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163%2Fs604
+[/us/pl/111/163/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163%2FtVI
 [/us/stat/124/1174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1174
 [/us/usc/t42/s288–5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs288%E2%80%935
 [/us/usc/t42/s288–5/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs288%E2%80%935%2Fa%2F2

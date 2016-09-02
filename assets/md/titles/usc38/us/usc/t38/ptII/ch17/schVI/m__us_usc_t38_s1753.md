@@ -19,7 +19,7 @@
 
     (b) Patient records prepared or obtained under this subchapter shall be held confidential in the same manner and under the same conditions prescribed in [section 7332 of this title][/us/usc/t38/s7332].
 
-(Added [Pub. L. 93–82, title I, § 109(a)][/us/pl/93/82/s109/a], Aug. 2, 1973, [87 Stat. 187][/us/stat/87/187], § 653; amended [Pub. L. 94–581, title I, § 111(b)][/us/pl/94/581/s111/b], Oct. 21, 1976, [90 Stat. 2852][/us/stat/90/2852]; [Pub. L. 102–40, title IV, § 402(d)(1)][/us/pl/102/40/s402/d/1], May 7, 1991, [105 Stat. 239][/us/stat/105/239]; renumbered § 1753, [Pub. L. 102–83, § 5(a)][/us/pl/102/83/s5/a], Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406].)
+(Added [Pub. L. 93–82, title I][/us/pl/93/82/tI], § 109(a), Aug. 2, 1973, [87 Stat. 187][/us/stat/87/187], § 653; amended [Pub. L. 94–581, title I][/us/pl/94/581/tI], § 111(b), Oct. 21, 1976, [90 Stat. 2852][/us/stat/90/2852]; [Pub. L. 102–40, title IV][/us/pl/102/40/tIV], § 402(d)(1), May 7, 1991, [105 Stat. 239][/us/stat/105/239]; renumbered § 1753, [Pub. L. 102–83][/us/pl/102/83], § 5(a), Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406].)
 
  __Amendments__ 
 
@@ -41,13 +41,13 @@
 ----------
 
 [/us/usc/t38/s7332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7332
-[/us/pl/93/82/s109/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F82%2Fs109%2Fa
+[/us/pl/93/82/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F82%2FtI
 [/us/stat/87/187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F187
-[/us/pl/94/581/s111/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F581%2Fs111%2Fb
+[/us/pl/94/581/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F581%2FtI
 [/us/stat/90/2852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2852
-[/us/pl/102/40/s402/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs402%2Fd%2F1
+[/us/pl/102/40/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2FtIV
 [/us/stat/105/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F239
-[/us/pl/102/83/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fa
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F406
 [/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/usc/t38/s653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs653

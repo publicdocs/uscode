@@ -51,7 +51,7 @@
 
     (e) In any review of an adverse action under the grievance procedures prescribed under subsection (a), the employee is entitled to be represented by an attorney or other representative of the employee’s choice at all stages of the case.
 
-(Added [Pub. L. 102–40, title II, § 203(a)][/us/pl/102/40/s203/a], May 7, 1991, [105 Stat. 205][/us/stat/105/205].)
+(Added [Pub. L. 102–40, title II][/us/pl/102/40/tII], § 203(a), May 7, 1991, [105 Stat. 205][/us/stat/105/205].)
 
  __Prior Provisions__ 
 
@@ -67,7 +67,7 @@
 [/us/usc/t38/s7462/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7462%2Fa%2F3
 [/us/usc/t38/s7462/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7462%2Fb%2F1
 [/us/usc/t38/s7464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7464
-[/us/pl/102/40/s203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs203%2Fa
+[/us/pl/102/40/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2FtII
 [/us/stat/105/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F205
 [/us/usc/t38/s4110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs4110
 [/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40

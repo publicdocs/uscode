@@ -17,7 +17,7 @@
 
     In addition to such other reviews of fiduciaries as the Secretary may otherwise conduct, the Secretary shall provide for the periodic onsite review of any person or agency located in the United States that receives the benefits payable under laws administered by the Secretary to another individual pursuant to the appointment of such person or agency as a fiduciary under [section 5502(a)(1) of this title][/us/usc/t38/s5502/a/1] in any case in which the fiduciary is serving in that capacity with respect to more than 20 beneficiaries and the total annual amount of such benefits exceeds $50,000, as adjusted pursuant to [section 5312 of this title][/us/usc/t38/s5312].
 
-(Added [Pub. L. 108–454, title V, § 504(a)(1)][/us/pl/108/454/s504/a/1], Dec. 10, 2004, [118 Stat. 3620][/us/stat/118/3620].)
+(Added [Pub. L. 108–454, title V][/us/pl/108/454/tV], § 504(a)(1), Dec. 10, 2004, [118 Stat. 3620][/us/stat/118/3620].)
 
  __Effective Date__ 
 
@@ -32,7 +32,7 @@
 
 [/us/usc/t38/s5502/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs5502%2Fa%2F1
 [/us/usc/t38/s5312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs5312
-[/us/pl/108/454/s504/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F454%2Fs504%2Fa%2F1
+[/us/pl/108/454/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F454%2FtV
 [/us/stat/118/3620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3620
 [/us/pl/108/454/s507/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F454%2Fs507%2Fa
 [/us/usc/t38/s5312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs5312

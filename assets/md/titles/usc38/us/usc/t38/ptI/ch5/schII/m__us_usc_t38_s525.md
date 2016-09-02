@@ -21,13 +21,13 @@
 
     (c) The distribution of the compilation to the representatives of the several service organizations shall be as determined by the Secretary.
 
-(Added [Pub. L. 102–83, § 2(a)][/us/pl/102/83/s2/a], Aug. 6, 1991, [105 Stat. 391][/us/stat/105/391].)
+(Added [Pub. L. 102–83][/us/pl/102/83], § 2(a), Aug. 6, 1991, [105 Stat. 391][/us/stat/105/391].)
 
  __Prior Provisions__ 
 
     Prior section 525 was renumbered [section 1525 of this title][/us/usc/t38/s1525].
 
-    Provisions similar to those in this section were contained in [section 215 of this title][/us/usc/t38/s215] prior to repeal by [Pub. L. 102–83, § 2(a)][/us/pl/102/83/s2/a].
+    Provisions similar to those in this section were contained in [section 215 of this title][/us/usc/t38/s215] prior to repeal by [Pub. L. 102–83][/us/pl/102/83], § 2(a).
 
 ----------
 
@@ -36,10 +36,10 @@
 ----------
 ----------
 
-[/us/pl/102/83/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs2%2Fa
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F391
 [/us/usc/t38/s1525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1525
 [/us/usc/t38/s215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs215
-[/us/pl/102/83/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs2%2Fa
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 
 

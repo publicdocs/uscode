@@ -133,7 +133,7 @@
 
             (B) the Secretary of the Army, in the case of Arlington National Cemetery.
 
-(Added [Pub. L. 105–116, § 1(a)][/us/pl/105/116/s1/a], Nov. 21, 1997, [111 Stat. 2381][/us/stat/111/2381]; amended [Pub. L. 105–368, title IV, § 403(d)(1)][/us/pl/105/368/s403/d/1], Nov. 11, 1998, [112 Stat. 3339][/us/stat/112/3339]; [Pub. L. 107–330, title II, § 202][/us/pl/107/330/s202], Dec. 6, 2002, [116 Stat. 2824][/us/stat/116/2824]; [Pub. L. 109–163, div. A, title VI, § 662(a)][/us/pl/109/163/s662/a], Jan. 6, 2006, [119 Stat. 3314][/us/stat/119/3314]; [Pub. L. 112–260, title I, § 105(a)][/us/pl/112/260/s105/a], (b), Jan. 10, 2013, [126 Stat. 2421][/us/stat/126/2421]; [Pub. L. 113–65, § 2(a)][/us/pl/113/65/s2/a], (b), Dec. 20, 2013, [127 Stat. 669][/us/stat/127/669], 671; [Pub. L. 114–58, title VI, § 601(14)][/us/pl/114/58/s601/14], Sept. 30, 2015, [129 Stat. 539][/us/stat/129/539].)
+(Added [Pub. L. 105–116][/us/pl/105/116], § 1(a), Nov. 21, 1997, [111 Stat. 2381][/us/stat/111/2381]; amended [Pub. L. 105–368, title IV][/us/pl/105/368/tIV], § 403(d)(1), Nov. 11, 1998, [112 Stat. 3339][/us/stat/112/3339]; [Pub. L. 107–330, title II][/us/pl/107/330/tII], § 202, Dec. 6, 2002, [116 Stat. 2824][/us/stat/116/2824]; [Pub. L. 109–163, div. A, title VI][/us/pl/109/163/dA/tVI], § 662(a), Jan. 6, 2006, [119 Stat. 3314][/us/stat/119/3314]; [Pub. L. 112–260, title I][/us/pl/112/260/tI], § 105(a), (b), Jan. 10, 2013, [126 Stat. 2421][/us/stat/126/2421]; [Pub. L. 113–65][/us/pl/113/65], § 2(a), (b), Dec. 20, 2013, [127 Stat. 669][/us/stat/127/669], 671; [Pub. L. 114–58, title VI][/us/pl/114/58/tVI], § 601(14), Sept. 30, 2015, [129 Stat. 539][/us/stat/129/539].)
 
  __References in Text__ 
 
@@ -143,35 +143,35 @@
 
     2015—Subsec. (e)(1). [Pub. L. 114–58][/us/pl/114/58] substituted “Federal official” for “federal official” in introductory provisions.
 
-    2013—Subsec. (a)(2). [Pub. L. 113–65, § 2(b)][/us/pl/113/65/s2/b], struck out “such official approves an application for” after “received by the appropriate Federal official before”.
+    2013—Subsec. (a)(2). [Pub. L. 113–65][/us/pl/113/65], § 2(b), struck out “such official approves an application for” after “received by the appropriate Federal official before”.
 
-    [Pub. L. 112–260, § 105(b)][/us/pl/112/260/s105/b], substituted “, (b)(2), or (b)(4)” for “or (b)(2)” in two places and struck out “capital” before “crime” in two places.
+    [Pub. L. 112–260][/us/pl/112/260], § 105(b), substituted “, (b)(2), or (b)(4)” for “or (b)(2)” in two places and struck out “capital” before “crime” in two places.
 
-    Subsec. (b)(4). [Pub. L. 112–260, § 105(a)][/us/pl/112/260/s105/a], added par. (4).
+    Subsec. (b)(4). [Pub. L. 112–260][/us/pl/112/260], § 105(a), added par. (4).
 
-    Subsecs. (d) to (f). [Pub. L. 113–65, § 2(a)][/us/pl/113/65/s2/a], added subsecs. (d) and (e) and redesignated former subsec. (d) as (f).
+    Subsecs. (d) to (f). [Pub. L. 113–65][/us/pl/113/65], § 2(a), added subsecs. (d) and (e) and redesignated former subsec. (d) as (f).
 
-    2006—Subsec. (b)(1). [Pub. L. 109–163, § 662(a)(1)(A)][/us/pl/109/163/s662/a/1/A], substituted “and whose conviction is final (other than a person whose sentence was commuted by the President)” for “for which the person was sentenced to death or life imprisonment”.
+    2006—Subsec. (b)(1). [Pub. L. 109–163][/us/pl/109/163], § 662(a)(1)(A), substituted “and whose conviction is final (other than a person whose sentence was commuted by the President)” for “for which the person was sentenced to death or life imprisonment”.
 
-    Subsec. (b)(2). [Pub. L. 109–163, § 662(a)(1)(B)][/us/pl/109/163/s662/a/1/B], substituted “and whose conviction is final (other than a person whose sentence was commuted by the Governor of a State)” for “for which the person was sentenced to death or life imprisonment without parole”.
+    Subsec. (b)(2). [Pub. L. 109–163][/us/pl/109/163], § 662(a)(1)(B), substituted “and whose conviction is final (other than a person whose sentence was commuted by the Governor of a State)” for “for which the person was sentenced to death or life imprisonment without parole”.
 
-    Subsec. (d)(1). [Pub. L. 109–163, § 662(a)(2)(A)][/us/pl/109/163/s662/a/2/A], substituted “a sentence of imprisonment for life or the death penalty may be imposed” for “the death penalty or life imprisonment may be imposed”.
+    Subsec. (d)(1). [Pub. L. 109–163][/us/pl/109/163], § 662(a)(2)(A), substituted “a sentence of imprisonment for life or the death penalty may be imposed” for “the death penalty or life imprisonment may be imposed”.
 
-    Subsec. (d)(2). [Pub. L. 109–163, § 662(a)(2)(B)][/us/pl/109/163/s662/a/2/B], substituted “a sentence of imprisonment for life or the death penalty may be imposed” for “the death penalty or life imprisonment without parole may be imposed”.
+    Subsec. (d)(2). [Pub. L. 109–163][/us/pl/109/163], § 662(a)(2)(B), substituted “a sentence of imprisonment for life or the death penalty may be imposed” for “the death penalty or life imprisonment without parole may be imposed”.
 
     2002—Subsec. (a)(2). [Pub. L. 107–330][/us/pl/107/330] substituted “In the case of a person described in subsection (b)(1) or (b)(2), the prohibition” for “The prohibition” and “referred to in subsection (b)(1) or (b)(2), as the case may be,” for “or finding under subsection (b)”.
 
-    1998—[Pub. L. 105–368, § 403(d)(1)][/us/pl/105/368/s403/d/1], substituted “Administration” for “System” in section catchline.
+    1998—[Pub. L. 105–368][/us/pl/105/368], § 403(d)(1), substituted “Administration” for “System” in section catchline.
 
-    Subsecs. (a)(1)(A), (B), (d)(3)(A). [Pub. L. 105–368, § 403(d)(1)][/us/pl/105/368/s403/d/1], substituted “Administration” for “System”.
+    Subsecs. (a)(1)(A), (B), (d)(3)(A). [Pub. L. 105–368][/us/pl/105/368], § 403(d)(1), substituted “Administration” for “System”.
 
  __Effective Date of 2013 Amendment__ 
 
-[Pub. L. 113–65, § 2(c)][/us/pl/113/65/s2/c], Dec. 20, 2013, [127 Stat. 671][/us/stat/127/671], provided that: 
+[Pub. L. 113–65][/us/pl/113/65], § 2(c), Dec. 20, 2013, [127 Stat. 671][/us/stat/127/671], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall apply with respect to any interment or memorialization conducted by the Secretary of Veterans Affairs or the Secretary of the Army in a cemetery in the National Cemetery Administration or in Arlington National Cemetery after the date of the enactment of this Act \[Dec. 20, 2013\].”
 
-[Pub. L. 112–260, title I, § 105(c)][/us/pl/112/260/s105/c], Jan. 10, 2013, [126 Stat. 2421][/us/stat/126/2421], provided that: 
+[Pub. L. 112–260, title I][/us/pl/112/260/tI], § 105(c), Jan. 10, 2013, [126 Stat. 2421][/us/stat/126/2421], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall apply with respect to interments and memorializations that occur on or after the date of the enactment of this Act \[Jan. 10, 2013\].”
 
@@ -181,13 +181,13 @@
 
  __Effective Date__ 
 
-[Pub. L. 105–116, § 1(c)][/us/pl/105/116/s1/c], Nov. 21, 1997, [111 Stat. 2382][/us/stat/111/2382], provided that: 
+[Pub. L. 105–116][/us/pl/105/116], § 1(c), Nov. 21, 1997, [111 Stat. 2382][/us/stat/111/2382], provided that: 
 
 > “[Section 2411 of title 38][/us/usc/t38/s2411], United States Code, as added by subsection (a), shall apply with respect to applications for interment or memorialization made on or after the date of the enactment of this Act \[Nov. 21, 1997\].”
 
  __Regulations__ 
 
-[Pub. L. 109–163, div. A, title VI, § 662(d)(1)][/us/pl/109/163/s662/d/1], Jan. 6, 2006, [119 Stat. 3315][/us/stat/119/3315], provided that: 
+[Pub. L. 109–163, div. A, title VI][/us/pl/109/163/dA/tVI], § 662(d)(1), Jan. 6, 2006, [119 Stat. 3315][/us/stat/119/3315], provided that: 
 
 > “The Secretary of Veterans Affairs shall prescribe regulations to ensure that a person is not interred in any cemetery in the National Cemetery System unless a good faith effort has been made to determine whether such person is ineligible for such interment or honors by reason of being a person described in [section 2411(b) of title 38][/us/usc/t38/s2411/b], United States Code, or is otherwise ineligible for such interment under Federal law.”
 
@@ -205,46 +205,46 @@
 [/us/usc/t38/s2409/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs2409%2Fa
 [/us/usc/t38/s5104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs5104
 [/us/usc/t38/s7105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7105
-[/us/pl/105/116/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F116%2Fs1%2Fa
+[/us/pl/105/116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F116
 [/us/stat/111/2381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2381
-[/us/pl/105/368/s403/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2Fs403%2Fd%2F1
+[/us/pl/105/368/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2FtIV
 [/us/stat/112/3339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3339
-[/us/pl/107/330/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F330%2Fs202
+[/us/pl/107/330/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F330%2FtII
 [/us/stat/116/2824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2824
-[/us/pl/109/163/s662/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs662%2Fa
+[/us/pl/109/163/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtVI
 [/us/stat/119/3314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3314
-[/us/pl/112/260/s105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F260%2Fs105%2Fa
+[/us/pl/112/260/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F260%2FtI
 [/us/stat/126/2421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2421
-[/us/pl/113/65/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F65%2Fs2%2Fa
+[/us/pl/113/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F65
 [/us/stat/127/669]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F669
-[/us/pl/114/58/s601/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F58%2Fs601%2F14
+[/us/pl/114/58/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F58%2FtVI
 [/us/stat/129/539]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F539
 [/us/pl/109/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248
 [/us/stat/120/590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F590
 [/us/usc/t42/s16901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs16901
 [/us/pl/114/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F58
-[/us/pl/113/65/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F65%2Fs2%2Fb
-[/us/pl/112/260/s105/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F260%2Fs105%2Fb
-[/us/pl/112/260/s105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F260%2Fs105%2Fa
-[/us/pl/113/65/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F65%2Fs2%2Fa
-[/us/pl/109/163/s662/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs662%2Fa%2F1%2FA
-[/us/pl/109/163/s662/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs662%2Fa%2F1%2FB
-[/us/pl/109/163/s662/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs662%2Fa%2F2%2FA
-[/us/pl/109/163/s662/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs662%2Fa%2F2%2FB
+[/us/pl/113/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F65
+[/us/pl/112/260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F260
+[/us/pl/112/260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F260
+[/us/pl/113/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F65
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
 [/us/pl/107/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F330
-[/us/pl/105/368/s403/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2Fs403%2Fd%2F1
-[/us/pl/105/368/s403/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2Fs403%2Fd%2F1
-[/us/pl/113/65/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F65%2Fs2%2Fc
+[/us/pl/105/368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368
+[/us/pl/105/368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368
+[/us/pl/113/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F65
 [/us/stat/127/671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F671
-[/us/pl/112/260/s105/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F260%2Fs105%2Fc
+[/us/pl/112/260/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F260%2FtI
 [/us/stat/126/2421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2421
 [/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
 [/us/pl/109/163/s662/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs662%2Fe
 [/us/usc/t10/s985]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs985
-[/us/pl/105/116/s1/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F116%2Fs1%2Fc
+[/us/pl/105/116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F116
 [/us/stat/111/2382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2382
 [/us/usc/t38/s2411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs2411
-[/us/pl/109/163/s662/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs662%2Fd%2F1
+[/us/pl/109/163/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtVI
 [/us/stat/119/3315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3315
 [/us/usc/t38/s2411/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs2411%2Fb
 

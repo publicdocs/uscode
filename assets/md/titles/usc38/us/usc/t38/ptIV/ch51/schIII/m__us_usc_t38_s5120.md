@@ -31,53 +31,53 @@
 
         (2) The Secretary shall prescribe an appropriate method or methods for the delivery of payments of monetary benefits under laws administered by the Secretary in cases described in paragraph (1) of this subsection. To the maximum extent practicable, such method or methods shall be designed to ensure the delivery of payments in such cases.
 
-([Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1227][/us/stat/72/1227], § 3020; [Pub. L. 95–117, title IV, § 402(a)][/us/pl/95/117/s402/a], (b)(1), Oct. 3, 1977, [91 Stat. 1065][/us/stat/91/1065], 1066; [Pub. L. 97–295, § 4(73)][/us/pl/97/295/s4/73], Oct. 12, 1982, [96 Stat. 1310][/us/stat/96/1310]; [Pub. L. 99–570, title XI, § 11007(a)(2)][/us/pl/99/570/s11007/a/2], Oct. 27, 1986, [100 Stat. 3207–170][/us/stat/100/3207-170]; [Pub. L. 99–576, title VII, § 701(65)][/us/pl/99/576/s701/65], Oct. 28, 1986, [100 Stat. 3296][/us/stat/100/3296]; renumbered § 5120, [Pub. L. 102–40, title IV, § 402(b)(1)][/us/pl/102/40/s402/b/1], May 7, 1991, [105 Stat. 238][/us/stat/105/238]; [Pub. L. 102–83, § 4(a)(1)][/us/pl/102/83/s4/a/1], (3), (4), (b)(1), (2)(E), Aug. 6, 1991, [105 Stat. 403–405][/us/stat/105/403-405].)
+([Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1227][/us/stat/72/1227], § 3020; [Pub. L. 95–117, title IV][/us/pl/95/117/tIV], § 402(a), (b)(1), Oct. 3, 1977, [91 Stat. 1065][/us/stat/91/1065], 1066; [Pub. L. 97–295][/us/pl/97/295], § 4(73), Oct. 12, 1982, [96 Stat. 1310][/us/stat/96/1310]; [Pub. L. 99–570, title XI][/us/pl/99/570/tXI], § 11007(a)(2), Oct. 27, 1986, [100 Stat. 3207–170][/us/stat/100/3207-170]; [Pub. L. 99–576, title VII][/us/pl/99/576/tVII], § 701(65), Oct. 28, 1986, [100 Stat. 3296][/us/stat/100/3296]; renumbered § 5120, [Pub. L. 102–40, title IV][/us/pl/102/40/tIV], § 402(b)(1), May 7, 1991, [105 Stat. 238][/us/stat/105/238]; [Pub. L. 102–83][/us/pl/102/83], § 4(a)(1), (3), (4), (b)(1), (2)(E), Aug. 6, 1991, [105 Stat. 403–405][/us/stat/105/403-405].)
 
  __Amendments__ 
 
     1991—[Pub. L. 102–40][/us/pl/102/40] renumbered [section 3020 of this title][/us/usc/t38/s3020] as this section.
 
-    Subsec. (a). [Pub. L. 102–83, § 4(b)(1)][/us/pl/102/83/s4/b/1], (2)(E), substituted “Secretary” for “Administrator” in two places.
+    Subsec. (a). [Pub. L. 102–83][/us/pl/102/83], § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in two places.
 
-    [Pub. L. 102–83, § 4(a)(1)][/us/pl/102/83/s4/a/1], substituted “administered by the Secretary” for “administered by the Veterans’ Administration”.
+    [Pub. L. 102–83][/us/pl/102/83], § 4(a)(1), substituted “administered by the Secretary” for “administered by the Veterans’ Administration”.
 
-    Subsec. (b). [Pub. L. 102–83, § 4(b)(1)][/us/pl/102/83/s4/b/1], (2)(E), substituted “Secretary” for “Administrator”.
+    Subsec. (b). [Pub. L. 102–83][/us/pl/102/83], § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
-    Subsec. (d). [Pub. L. 102–83, § 4(b)(1)][/us/pl/102/83/s4/b/1], (2)(E), substituted “Secretary” for “Administrator” in two places.
+    Subsec. (d). [Pub. L. 102–83][/us/pl/102/83], § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in two places.
 
-    [Pub. L. 102–83, § 4(a)(3)][/us/pl/102/83/s4/a/3], (4), substituted “Department” for “Veterans’ Administration” before period at end.
+    [Pub. L. 102–83][/us/pl/102/83], § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration” before period at end.
 
-    [Pub. L. 102–83, § 4(a)(1)][/us/pl/102/83/s4/a/1], substituted “administered by the Secretary” for “administered by the Veterans’ Administration”.
+    [Pub. L. 102–83][/us/pl/102/83], § 4(a)(1), substituted “administered by the Secretary” for “administered by the Veterans’ Administration”.
 
-    Subsec. (e). [Pub. L. 102–83, § 4(b)(1)][/us/pl/102/83/s4/b/1], (2)(E), substituted “Secretary” for “Administrator”.
+    Subsec. (e). [Pub. L. 102–83][/us/pl/102/83], § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
-    Subsec. (f)(1). [Pub. L. 102–83, § 4(a)(1)][/us/pl/102/83/s4/a/1], substituted “administered by the Secretary” for “administered by the Veterans’ Administration”.
+    Subsec. (f)(1). [Pub. L. 102–83][/us/pl/102/83], § 4(a)(1), substituted “administered by the Secretary” for “administered by the Veterans’ Administration”.
 
-    Subsec. (f)(2). [Pub. L. 102–83, § 4(b)(1)][/us/pl/102/83/s4/b/1], (2)(E), substituted “Secretary” for “Administrator”.
+    Subsec. (f)(2). [Pub. L. 102–83][/us/pl/102/83], § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
-    [Pub. L. 102–83, § 4(a)(1)][/us/pl/102/83/s4/a/1], substituted “administered by the Secretary” for “administered by the Veterans’ Administration”.
+    [Pub. L. 102–83][/us/pl/102/83], § 4(a)(1), substituted “administered by the Secretary” for “administered by the Veterans’ Administration”.
 
-    1986—Subsec. (a). [Pub. L. 99–576, § 701(65)(A)][/us/pl/99/576/s701/65/A], substituted “the payee’s” for “his”, and “the payee” for “he” and “him” in third sentence.
+    1986—Subsec. (a). [Pub. L. 99–576][/us/pl/99/576], § 701(65)(A), substituted “the payee’s” for “his”, and “the payee” for “he” and “him” in third sentence.
 
-    Subsec. (b). [Pub. L. 99–576, § 701(65)(B)][/us/pl/99/576/s701/65/B], substituted “such person” for “he”, “surviving spouse” for “widow”, “the surviving spouse” for “she” in two places, “to the surviving spouse” for “to her”, and “by the” for “by her” in first sentence.
+    Subsec. (b). [Pub. L. 99–576][/us/pl/99/576], § 701(65)(B), substituted “such person” for “he”, “surviving spouse” for “widow”, “the surviving spouse” for “she” in two places, “to the surviving spouse” for “to her”, and “by the” for “by her” in first sentence.
 
     Subsec. (f). [Pub. L. 99–570][/us/pl/99/570] added subsec. (f).
 
     1982—Subsec. (a). [Pub. L. 97–295][/us/pl/97/295] substituted “United States Postal Service” for “Post Office Department”.
 
-    1977—[Pub. L. 95–117, § 402(b)(1)][/us/pl/95/117/s402/b/1], struck out “by check” after “benefits” in section catchline.
+    1977—[Pub. L. 95–117][/us/pl/95/117], § 402(b)(1), struck out “by check” after “benefits” in section catchline.
 
-    Subsecs. (d), (e). [Pub. L. 95–117, § 402(a)][/us/pl/95/117/s402/a], added subsecs. (d) and (e).
+    Subsecs. (d), (e). [Pub. L. 95–117][/us/pl/95/117], § 402(a), added subsecs. (d) and (e).
 
  __Effective Date of 1986 Amendment__ 
 
-[Pub. L. 99–570, title XI, § 11007(b)(2)][/us/pl/99/570/s11007/b/2], Oct. 27, 1986, [100 Stat. 3207–170][/us/stat/100/3207-170], provided that: 
+[Pub. L. 99–570, title XI][/us/pl/99/570/tXI], § 11007(b)(2), Oct. 27, 1986, [100 Stat. 3207–170][/us/stat/100/3207-170], provided that: 
 
 > “The amendment made by subsection (a)(2) \[amending this section\] shall take effect with respect to payments made on or after October 1, 1986.”
 
  __Effective Date of 1977 Amendment__ 
 
-[Pub. L. 95–117, title IV, § 402(c)][/us/pl/95/117/s402/c], Oct. 3, 1977, [91 Stat. 1066][/us/stat/91/1066], provided that: 
+[Pub. L. 95–117, title IV][/us/pl/95/117/tIV], § 402(c), Oct. 3, 1977, [91 Stat. 1066][/us/stat/91/1066], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall be effective on the date of enactment of this Act \[Oct. 3, 1977\].”
 
@@ -91,39 +91,39 @@
 [/us/usc/t5/s6103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs6103
 [/us/pl/85/857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F857
 [/us/stat/72/1227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1227
-[/us/pl/95/117/s402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F117%2Fs402%2Fa
+[/us/pl/95/117/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F117%2FtIV
 [/us/stat/91/1065]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1065
-[/us/pl/97/295/s4/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295%2Fs4%2F73
+[/us/pl/97/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295
 [/us/stat/96/1310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1310
-[/us/pl/99/570/s11007/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs11007%2Fa%2F2
+[/us/pl/99/570/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2FtXI
 [/us/stat/100/3207-170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3207-170
-[/us/pl/99/576/s701/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2Fs701%2F65
+[/us/pl/99/576/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2FtVII
 [/us/stat/100/3296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3296
-[/us/pl/102/40/s402/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs402%2Fb%2F1
+[/us/pl/102/40/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2FtIV
 [/us/stat/105/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F238
-[/us/pl/102/83/s4/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fa%2F1
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/403-405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F403-405
 [/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40
 [/us/usc/t38/s3020]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3020
-[/us/pl/102/83/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fb%2F1
-[/us/pl/102/83/s4/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fa%2F1
-[/us/pl/102/83/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fb%2F1
-[/us/pl/102/83/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fb%2F1
-[/us/pl/102/83/s4/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fa%2F3
-[/us/pl/102/83/s4/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fa%2F1
-[/us/pl/102/83/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fb%2F1
-[/us/pl/102/83/s4/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fa%2F1
-[/us/pl/102/83/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fb%2F1
-[/us/pl/102/83/s4/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fa%2F1
-[/us/pl/99/576/s701/65/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2Fs701%2F65%2FA
-[/us/pl/99/576/s701/65/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2Fs701%2F65%2FB
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/99/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576
+[/us/pl/99/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576
 [/us/pl/99/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570
 [/us/pl/97/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295
-[/us/pl/95/117/s402/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F117%2Fs402%2Fb%2F1
-[/us/pl/95/117/s402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F117%2Fs402%2Fa
-[/us/pl/99/570/s11007/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs11007%2Fb%2F2
+[/us/pl/95/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F117
+[/us/pl/95/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F117
+[/us/pl/99/570/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2FtXI
 [/us/stat/100/3207-170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3207-170
-[/us/pl/95/117/s402/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F117%2Fs402%2Fc
+[/us/pl/95/117/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F117%2FtIV
 [/us/stat/91/1066]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1066
 
 

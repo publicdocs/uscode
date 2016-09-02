@@ -147,33 +147,33 @@
 
         and such other tropical diseases as the Secretary may add to this list.
 
-([Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1118][/us/stat/72/1118], § 301; [Pub. L. 94–433, title IV][/us/pl/94/433], §§ 401(2), (3), 404(1), Sept. 30, 1976, [90 Stat. 1377][/us/stat/90/1377], 1378; [Pub. L. 98–160, title VII, § 702(2)][/us/pl/98/160/s702/2], Nov. 21, 1983, [97 Stat. 1009][/us/stat/97/1009]; [Pub. L. 100–322, title III, § 313][/us/pl/100/322/s313], May 20, 1988, [102 Stat. 535][/us/stat/102/535]; renumbered § 1101 and amended [Pub. L. 102–83][/us/pl/102/83], §§ 4(b)(1), (2)(E), 5(a), Aug. 6, 1991, [105 Stat. 404–406][/us/stat/105/404-406].)
+([Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1118][/us/stat/72/1118], § 301; [Pub. L. 94–433, title IV][/us/pl/94/433/tIV], §§ 401(2), (3), 404(1), Sept. 30, 1976, [90 Stat. 1377][/us/stat/90/1377], 1378; [Pub. L. 98–160, title VII][/us/pl/98/160/tVII], § 702(2), Nov. 21, 1983, [97 Stat. 1009][/us/stat/97/1009]; [Pub. L. 100–322, title III][/us/pl/100/322/tIII], § 313, May 20, 1988, [102 Stat. 535][/us/stat/102/535]; renumbered § 1101 and amended [Pub. L. 102–83][/us/pl/102/83], §§ 4(b)(1), (2)(E), 5(a), Aug. 6, 1991, [105 Stat. 404–406][/us/stat/105/404-406].)
 
  __Amendments__ 
 
-    1991—[Pub. L. 102–83, § 5(a)][/us/pl/102/83/s5/a], renumbered [section 301 of this title][/us/usc/t38/s301] as this section.
+    1991—[Pub. L. 102–83][/us/pl/102/83], § 5(a), renumbered [section 301 of this title][/us/usc/t38/s301] as this section.
 
-    Pars. (3), (4). [Pub. L. 102–83, § 4(b)(1)][/us/pl/102/83/s4/b/1], (2)(E), substituted “Secretary” for “Administrator”.
+    Pars. (3), (4). [Pub. L. 102–83][/us/pl/102/83], § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
     1988—Par. (3). [Pub. L. 100–322][/us/pl/100/322] inserted “Lupus erythematosus, systemic” after “Leukemia”.
 
     1983—Par. (3). [Pub. L. 98–160][/us/pl/98/160] substituted a period for the semicolon at end of paragraph following “may add to this list”.
 
-    1976—Par. (2)(A), (B). [Pub. L. 94–433, § 404(1)][/us/pl/94/433/s404/1], substituted “such veteran” for “him” in subpars. (A) and (B).
+    1976—Par. (2)(A), (B). [Pub. L. 94–433][/us/pl/94/433], § 404(1), substituted “such veteran” for “him” in subpars. (A) and (B).
 
-    Par. (3). [Pub. L. 94–433, § 401(2)][/us/pl/94/433/s401/2], substituted “Hansen’s disease” for “Leprosy”.
+    Par. (3). [Pub. L. 94–433][/us/pl/94/433], § 401(2), substituted “Hansen’s disease” for “Leprosy”.
 
-    Par. (4). [Pub. L. 94–433, § 401(3)][/us/pl/94/433/s401/3], inserted “Hansen’s disease” after “Filiariasis” and struck out “Leprosy” before “Loiasis”.
+    Par. (4). [Pub. L. 94–433][/us/pl/94/433], § 401(3), inserted “Hansen’s disease” after “Filiariasis” and struck out “Leprosy” before “Loiasis”.
 
  __Effective Date of 1976 Amendment__ 
 
-[Pub. L. 94–433, title IV, § 406][/us/pl/94/433/s406], Sept. 30, 1976, [90 Stat. 1380][/us/stat/90/1380], provided that: 
+[Pub. L. 94–433, title IV][/us/pl/94/433/tIV], § 406, Sept. 30, 1976, [90 Stat. 1380][/us/stat/90/1380], provided that: 
 
 > “The provisions of this Act \[see Tables for classification\] shall become effective on October 1, 1976.”
 
  __Effective Date of Future Increases__ 
 
-[Pub. L. 98–223, title I, § 108][/us/pl/98/223/s108], Mar. 2, 1984, [98 Stat. 40][/us/stat/98/40], provided that: 
+[Pub. L. 98–223, title I][/us/pl/98/223/tI], § 108, Mar. 2, 1984, [98 Stat. 40][/us/stat/98/40], provided that: 
 
 > “It is the sense of the Congress that any increase provided by law to take effect after fiscal year 1984 in the rates of disability compensation and dependency and indemnity compensation payable under chapters 11 and 13, respectively, of title 38, United States Code, shall take effect on December 1 of the fiscal year involved and that the budgets for any such fiscal year include amounts to achieve such purpose.”
 
@@ -181,7 +181,7 @@
 
  __Veterans’ Disability Benefits Commission__ 
 
-[Pub. L. 108–136, div. A, title XV][/us/pl/108/136], Nov. 24, 2003, [117 Stat. 1676][/us/stat/117/1676], as amended by [Pub. L. 109–163, div. A, title V, § 590][/us/pl/109/163/s590], Jan. 6, 2006, [119 Stat. 3279][/us/stat/119/3279], provided that:
+[Pub. L. 108–136, div. A, title XV][/us/pl/108/136/dA/tXV], Nov. 24, 2003, [117 Stat. 1676][/us/stat/117/1676], as amended by [Pub. L. 109–163, div. A, title V][/us/pl/109/163/dA/tV], § 590, Jan. 6, 2006, [119 Stat. 3279][/us/stat/119/3279], provided that:
 
 > “SEC. 1501. __ESTABLISHMENT OF COMMISSION.__ 
 
@@ -337,17 +337,17 @@
 
  __Treatment of Certain Income of Alaska Natives for Purposes of Need-Based Benefits__ 
 
-[Pub. L. 103–446, title V, § 506][/us/pl/103/446/s506], Nov. 2, 1994, [108 Stat. 4664][/us/stat/108/4664], provided that: 
+[Pub. L. 103–446, title V][/us/pl/103/446/tV], § 506, Nov. 2, 1994, [108 Stat. 4664][/us/stat/108/4664], provided that: 
 
 > “Any receipt by an individual from a Native Corporation under the Alaska Native Claims Settlement Act ([43 U.S.C. 1601][/us/usc/t43/s1601] et seq.) of cash, stock, land, or other interests referred to in subparagraphs (A) through (E) of section 29(c) of that Act ([43 U.S.C. 1626(c)][/us/usc/t43/s1626/c]) (whether such receipt is attributable to the disposition of real property, profits from the operation of real property, or otherwise) shall not be countable as income for purposes of any law administered by the Secretary of Veterans Affairs.”
 
  __Cost-of-Living Increases in Compensation Rates__ 
 
-[Pub. L. 103–446, title I, § 111(b)][/us/pl/103/446/s111/b], Nov. 2, 1994, [108 Stat. 4654][/us/stat/108/4654], provided that: 
+[Pub. L. 103–446, title I][/us/pl/103/446/tI], § 111(b), Nov. 2, 1994, [108 Stat. 4654][/us/stat/108/4654], provided that: 
 
 > “The fiscal year 1995 cost-of-living adjustments in the rates of and limitations for compensation payable under chapter 11 of title 38, United States Code, and of dependency and indemnity compensation payable under chapter 13 of such title will be no more than a percentage equal to the percentage by which benefit amounts payable under title II of the Social Security Act ([42 U.S.C. 401][/us/usc/t42/s401] et seq.) are increased effective December 1, 1994, as a result of a determination under section 215(i) of such Act ([42 U.S.C. 415(i)][/us/usc/t42/s415/i]), with all increased monthly rates and limitations (other than increased rates or limitations equal to a whole dollar amount) rounded down to the next lower dollar.”
 
-[Pub. L. 103–66, title XII, § 12008][/us/pl/103/66/s12008], Aug. 10, 1993, [107 Stat. 415][/us/stat/107/415], provided that:
+[Pub. L. 103–66, title XII][/us/pl/103/66/tXII], § 12008, Aug. 10, 1993, [107 Stat. 415][/us/stat/107/415], provided that:
 
 >     “(a)  __Policy__  __.—__ 
 
@@ -359,7 +359,7 @@
 
 >         “(2) For purposes of paragraph (1), the new law increase is the amount by which the rate of dependency and indemnity compensation provided for recipients under section 1311(a)(1) of such title is increased for fiscal year 1994.”
 
-[Pub. L. 101–508, title VIII, § 8005][/us/pl/101/508/s8005], Nov. 5, 1990, [104 Stat. 1388–343][/us/stat/104/1388-343], provided that:
+[Pub. L. 101–508, title VIII][/us/pl/101/508/tVIII], § 8005, Nov. 5, 1990, [104 Stat. 1388–343][/us/stat/104/1388-343], provided that:
 
 >     “(a)  __Policy Regarding Fiscal Year__  __1991.—__ 
 
@@ -371,7 +371,7 @@
 
  __Benefits and Services for Former Prisoners of War; Implementation of Programs; Records for Disposition of Claims; Definition__ 
 
-[Pub. L. 97–37, § 6][/us/pl/97/37/s6], Aug. 14, 1981, [95 Stat. 937][/us/stat/95/937], provided that:
+[Pub. L. 97–37][/us/pl/97/37], § 6, Aug. 14, 1981, [95 Stat. 937][/us/stat/95/937], provided that:
 
 >     “(a) Not later than ninety days after the date of the enactment of this Act \[Aug. 14, 1981\] and at appropriate times thereafter, the Administrator shall, to the maximum extent feasible and in order to carry out the requirements of the veterans outreach services program under subchapter IV of \[former\] chapter 3 of title 38, United States Code, seek out former prisoners of war and provide them with information regarding applicable changes in law, regulations, policies, guidelines, or other directives affecting the benefits and services to which former prisoners of war are entitled under such title by virtue of the amendments made by this Act \[see Tables for classification\].
 
@@ -385,15 +385,15 @@
 
  __Study on Disability Compensation and Health-Care Needs of Former Prisoners of War; Report to President and Congress__ 
 
-    [Pub. L. 95–479, title III, § 305][/us/pl/95/479/s305], Oct. 18, 1978, [92 Stat. 1565][/us/stat/92/1565], directed Administrator of Veterans’ Affairs, in consultation with Secretary of Defense, to carry out a comprehensive study of disability compensation awarded to, and health care needs of veterans who are former prisoners of war and to submit a report on results of such study to Congress and President not later than Feb. 1, 1980.
+    [Pub. L. 95–479, title III][/us/pl/95/479/tIII], § 305, Oct. 18, 1978, [92 Stat. 1565][/us/stat/92/1565], directed Administrator of Veterans’ Affairs, in consultation with Secretary of Defense, to carry out a comprehensive study of disability compensation awarded to, and health care needs of veterans who are former prisoners of war and to submit a report on results of such study to Congress and President not later than Feb. 1, 1980.
 
  __Amputees, Cardiovascular Disorders; Study__ 
 
-    [Pub. L. 94–433, title IV, § 403][/us/pl/94/433/s403], Sept. 30, 1976, [90 Stat. 1378][/us/stat/90/1378], directed Administrator to conduct a scientific study to determine if there is causal relationship between amputation of an extremity and subsequent development of cardiovascular disorders and to report to Speaker and President of Senate not later than June 30, 1977.
+    [Pub. L. 94–433, title IV][/us/pl/94/433/tIV], § 403, Sept. 30, 1976, [90 Stat. 1378][/us/stat/90/1378], directed Administrator to conduct a scientific study to determine if there is causal relationship between amputation of an extremity and subsequent development of cardiovascular disorders and to report to Speaker and President of Senate not later than June 30, 1977.
 
  __Study of Claims for Dependency and Indemnity Compensation__ 
 
-    [Pub. L. 93–295, title II, § 207][/us/pl/93/295/s207], May 31, 1974, [88 Stat. 183][/us/stat/88/183], directed Administrator of Veterans’ Affairs to make a detailed study of claims for dependency and indemnity compensation relating to veterans, as defined in [section 101(2) of this title][/us/usc/t38/s101/2], who at time of death within six months prior to May 31, 1974, were receiving disability compensation from Veterans’ Administration based upon a rating total and permanent in nature, and submit a report together with such comments and recommendations as Administrator deemed appropriate to Speaker of the House and President of the Senate not more than thirty days after Jan. 14, 1975.
+    [Pub. L. 93–295, title II][/us/pl/93/295/tII], § 207, May 31, 1974, [88 Stat. 183][/us/stat/88/183], directed Administrator of Veterans’ Affairs to make a detailed study of claims for dependency and indemnity compensation relating to veterans, as defined in [section 101(2) of this title][/us/usc/t38/s101/2], who at time of death within six months prior to May 31, 1974, were receiving disability compensation from Veterans’ Administration based upon a rating total and permanent in nature, and submit a report together with such comments and recommendations as Administrator deemed appropriate to Speaker of the House and President of the Senate not more than thirty days after Jan. 14, 1975.
 
 ----------
 
@@ -404,58 +404,58 @@
 
 [/us/pl/85/857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F857
 [/us/stat/72/1118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1118
-[/us/pl/94/433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F433
+[/us/pl/94/433/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F433%2FtIV
 [/us/stat/90/1377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1377
-[/us/pl/98/160/s702/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F160%2Fs702%2F2
+[/us/pl/98/160/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F160%2FtVII
 [/us/stat/97/1009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1009
-[/us/pl/100/322/s313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F322%2Fs313
+[/us/pl/100/322/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F322%2FtIII
 [/us/stat/102/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F535
 [/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/404-406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F404-406
-[/us/pl/102/83/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fa
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/usc/t38/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs301
-[/us/pl/102/83/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fb%2F1
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/pl/100/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F322
 [/us/pl/98/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F160
-[/us/pl/94/433/s404/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F433%2Fs404%2F1
-[/us/pl/94/433/s401/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F433%2Fs401%2F2
-[/us/pl/94/433/s401/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F433%2Fs401%2F3
-[/us/pl/94/433/s406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F433%2Fs406
+[/us/pl/94/433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F433
+[/us/pl/94/433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F433
+[/us/pl/94/433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F433
+[/us/pl/94/433/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F433%2FtIV
 [/us/stat/90/1380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1380
-[/us/pl/98/223/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F223%2Fs108
+[/us/pl/98/223/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F223%2FtI
 [/us/stat/98/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F40
 [/us/pl/98/223/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F223%2Fs108
 [/us/pl/98/223/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F223%2Fs107
 [/us/usc/t38/s1114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1114
-[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
+[/us/pl/108/136/dA/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtXV
 [/us/stat/117/1676]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1676
-[/us/pl/109/163/s590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs590
+[/us/pl/109/163/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtV
 [/us/stat/119/3279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3279
 [/us/usc/t5/s5315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5315
 [/us/usc/t5/s3109/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3109%2Fb
-[/us/pl/103/446/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2Fs506
+[/us/pl/103/446/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2FtV
 [/us/stat/108/4664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4664
 [/us/usc/t43/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1601
 [/us/usc/t43/s1626/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1626%2Fc
-[/us/pl/103/446/s111/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2Fs111%2Fb
+[/us/pl/103/446/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2FtI
 [/us/stat/108/4654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4654
 [/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
 [/us/usc/t42/s415/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs415%2Fi
-[/us/pl/103/66/s12008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs12008
+[/us/pl/103/66/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2FtXII
 [/us/stat/107/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F415
 [/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
 [/us/usc/t42/s415/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs415%2Fi
 [/us/usc/t38/s1311/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1311%2Fa%2F3
-[/us/pl/101/508/s8005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs8005
+[/us/pl/101/508/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtVIII
 [/us/stat/104/1388-343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-343
-[/us/pl/97/37/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F37%2Fs6
+[/us/pl/97/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F37
 [/us/stat/95/937]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F937
 [/us/usc/t38/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs101
-[/us/pl/95/479/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F479%2Fs305
+[/us/pl/95/479/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F479%2FtIII
 [/us/stat/92/1565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1565
-[/us/pl/94/433/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F433%2Fs403
+[/us/pl/94/433/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F433%2FtIV
 [/us/stat/90/1378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1378
-[/us/pl/93/295/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F295%2Fs207
+[/us/pl/93/295/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F295%2FtII
 [/us/stat/88/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F183
 [/us/usc/t38/s101/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs101%2F2
 

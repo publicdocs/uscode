@@ -23,7 +23,7 @@
 
     An individual may only be provided one program of vocational training under this chapter.
 
-(Added [Pub. L. 106–419, title IV, § 401(b)][/us/pl/106/419/s401/b], Nov. 1, 2000, [114 Stat. 1860][/us/stat/114/1860], § 1824; renumbered § 1834 and amended, [Pub. L. 108–183, title I, § 102(a)(1)][/us/pl/108/183/s102/a/1], (c), Dec. 16, 2003, [117 Stat. 2653][/us/stat/117/2653], 2654.)
+(Added [Pub. L. 106–419, title IV][/us/pl/106/419/tIV], § 401(b), Nov. 1, 2000, [114 Stat. 1860][/us/stat/114/1860], § 1824; renumbered § 1834 and amended, [Pub. L. 108–183, title I][/us/pl/108/183/tI], § 102(a)(1), (c), Dec. 16, 2003, [117 Stat. 2653][/us/stat/117/2653], 2654.)
 
  __Prior Provisions__ 
 
@@ -31,9 +31,9 @@
 
  __Amendments__ 
 
-    2003—[Pub. L. 108–183, § 102(a)(1)][/us/pl/108/183/s102/a/1], renumbered [section 1824 of this title][/us/usc/t38/s1824] as this section.
+    2003—[Pub. L. 108–183][/us/pl/108/183], § 102(a)(1), renumbered [section 1824 of this title][/us/usc/t38/s1824] as this section.
 
-    Subsec. (a). [Pub. L. 108–183, § 102(c)][/us/pl/108/183/s102/c], inserted at end: “In the case of a child eligible for benefits under subchapter I or II of this chapter who is also eligible for benefits under subchapter III of this chapter, a monetary allowance shall be paid under the subchapter of this chapter elected by the child.”
+    Subsec. (a). [Pub. L. 108–183][/us/pl/108/183], § 102(c), inserted at end: “In the case of a child eligible for benefits under subchapter I or II of this chapter who is also eligible for benefits under subchapter III of this chapter, a monetary allowance shall be paid under the subchapter of this chapter elected by the child.”
 
 ----------
 
@@ -42,12 +42,12 @@
 ----------
 ----------
 
-[/us/pl/106/419/s401/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419%2Fs401%2Fb
+[/us/pl/106/419/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419%2FtIV
 [/us/stat/114/1860]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1860
-[/us/pl/108/183/s102/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F183%2Fs102%2Fa%2F1
+[/us/pl/108/183/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F183%2FtI
 [/us/stat/117/2653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2653
-[/us/pl/108/183/s102/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F183%2Fs102%2Fa%2F1
+[/us/pl/108/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F183
 [/us/usc/t38/s1824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1824
-[/us/pl/108/183/s102/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F183%2Fs102%2Fc
+[/us/pl/108/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F183
 
 

@@ -91,7 +91,7 @@
 
         (4) Other information that the Secretary considers relevant in assessing the programs and activities.
 
-(Added [Pub. L. 107–95, § 5(a)(1)][/us/pl/107/95/s5/a/1], Dec. 21, 2001, [115 Stat. 914][/us/stat/115/914]; amended [Pub. L. 108–170, title IV, § 405(b)][/us/pl/108/170/s405/b], Dec. 6, 2003, [117 Stat. 2063][/us/stat/117/2063]; [Pub. L. 109–461, title VII, § 708][/us/pl/109/461/s708], Dec. 22, 2006, [120 Stat. 3440][/us/stat/120/3440]; [Pub. L. 110–387, title IX, § 901(a)(2)][/us/pl/110/387/s901/a/2], Oct. 10, 2008, [122 Stat. 4142][/us/stat/122/4142].)
+(Added [Pub. L. 107–95][/us/pl/107/95], § 5(a)(1), Dec. 21, 2001, [115 Stat. 914][/us/stat/115/914]; amended [Pub. L. 108–170, title IV][/us/pl/108/170/tIV], § 405(b), Dec. 6, 2003, [117 Stat. 2063][/us/stat/117/2063]; [Pub. L. 109–461, title VII][/us/pl/109/461/tVII], § 708, Dec. 22, 2006, [120 Stat. 3440][/us/stat/120/3440]; [Pub. L. 110–387, title IX][/us/pl/110/387/tIX], § 901(a)(2), Oct. 10, 2008, [122 Stat. 4142][/us/stat/122/4142].)
 
  __Amendments__ 
 
@@ -110,13 +110,13 @@
 
 [/us/usc/t38/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs2011
 [/us/usc/t38/s2034/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs2034%2Fb
-[/us/pl/107/95/s5/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F95%2Fs5%2Fa%2F1
+[/us/pl/107/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F95
 [/us/stat/115/914]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F914
-[/us/pl/108/170/s405/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F170%2Fs405%2Fb
+[/us/pl/108/170/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F170%2FtIV
 [/us/stat/117/2063]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2063
-[/us/pl/109/461/s708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461%2Fs708
+[/us/pl/109/461/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461%2FtVII
 [/us/stat/120/3440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3440
-[/us/pl/110/387/s901/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F387%2Fs901%2Fa%2F2
+[/us/pl/110/387/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F387%2FtIX
 [/us/stat/122/4142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4142
 [/us/pl/110/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F387
 [/us/pl/109/461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461

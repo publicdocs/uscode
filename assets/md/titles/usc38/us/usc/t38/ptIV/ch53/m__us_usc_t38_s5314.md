@@ -31,31 +31,31 @@
 
     (d) The Secretary shall prescribe regulations for the administration of this section.
 
-(Added [Pub. L. 96–466, title VI, § 605(a)(1)][/us/pl/96/466/s605/a/1], Oct. 17, 1980, [94 Stat. 2209][/us/stat/94/2209], § 3114; amended [Pub. L. 102–16, § 6(b)(3)][/us/pl/102/16/s6/b/3], Mar. 22, 1991, [105 Stat. 51][/us/stat/105/51]; renumbered § 5314 and amended [Pub. L. 102–40, title IV, § 402(b)(1)][/us/pl/102/40/s402/b/1], (d)(1), May 7, 1991, [105 Stat. 238][/us/stat/105/238], 239; [Pub. L. 102–83][/us/pl/102/83], §§ 4(a)(1), (b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, [105 Stat. 403–406][/us/stat/105/403-406].)
+(Added [Pub. L. 96–466, title VI][/us/pl/96/466/tVI], § 605(a)(1), Oct. 17, 1980, [94 Stat. 2209][/us/stat/94/2209], § 3114; amended [Pub. L. 102–16][/us/pl/102/16], § 6(b)(3), Mar. 22, 1991, [105 Stat. 51][/us/stat/105/51]; renumbered § 5314 and amended [Pub. L. 102–40, title IV][/us/pl/102/40/tIV], § 402(b)(1), (d)(1), May 7, 1991, [105 Stat. 238][/us/stat/105/238], 239; [Pub. L. 102–83][/us/pl/102/83], §§ 4(a)(1), (b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, [105 Stat. 403–406][/us/stat/105/403-406].)
 
  __Amendments__ 
 
-    1991—[Pub. L. 102–40, § 402(b)(1)][/us/pl/102/40/s402/b/1], renumbered [section 3114 of this title][/us/usc/t38/s3114] as this section.
+    1991—[Pub. L. 102–40][/us/pl/102/40], § 402(b)(1), renumbered [section 3114 of this title][/us/usc/t38/s3114] as this section.
 
-    Subsec. (a). [Pub. L. 102–83, § 5(c)(1)][/us/pl/102/83/s5/c/1], substituted “3485(e)” for “1685(e)”.
+    Subsec. (a). [Pub. L. 102–83][/us/pl/102/83], § 5(c)(1), substituted “3485(e)” for “1685(e)”.
 
-    [Pub. L. 102–83, § 4(b)(1)][/us/pl/102/83/s4/b/1], (2)(E), substituted “Secretary” for “Administrator” in two places.
+    [Pub. L. 102–83][/us/pl/102/83], § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in two places.
 
-    [Pub. L. 102–83, § 4(a)(1)][/us/pl/102/83/s4/a/1], substituted “administered by the Secretary” for “administered by the Veterans’ Administration” in two places.
+    [Pub. L. 102–83][/us/pl/102/83], § 4(a)(1), substituted “administered by the Secretary” for “administered by the Veterans’ Administration” in two places.
 
-    [Pub. L. 102–40, § 402(d)(1)][/us/pl/102/40/s402/d/1], substituted “5302” for “3102”.
+    [Pub. L. 102–40][/us/pl/102/40], § 402(d)(1), substituted “5302” for “3102”.
 
     [Pub. L. 102–16][/us/pl/102/16] inserted “and [section 1685(e) of this title][/us/usc/t38/s1685/e]” after “Subject to subsections (b) and (d) of this section”.
 
-    Subsec. (b). [Pub. L. 102–83, § 4(b)(1)][/us/pl/102/83/s4/b/1], (2)(E), substituted “Secretary” for “Administrator” in introductory provisions and “Secretary’s” for “Administrator’s” in par. (2).
+    Subsec. (b). [Pub. L. 102–83][/us/pl/102/83], § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in introductory provisions and “Secretary’s” for “Administrator’s” in par. (2).
 
-    [Pub. L. 102–40, § 402(d)(1)][/us/pl/102/40/s402/d/1], substituted “5302” for “3102” in par. (1).
+    [Pub. L. 102–40][/us/pl/102/40], § 402(d)(1), substituted “5302” for “3102” in par. (1).
 
-    Subsecs. (c), (d). [Pub. L. 102–83, § 4(b)(1)][/us/pl/102/83/s4/b/1], (2)(E), substituted “Secretary” for “Administrator”.
+    Subsecs. (c), (d). [Pub. L. 102–83][/us/pl/102/83], § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
  __Effective Date__ 
 
-[Pub. L. 96–466, title VIII, § 802(f)][/us/pl/96/466/s802/f], Oct. 17, 1980, [94 Stat. 2218][/us/stat/94/2218], provided that:
+[Pub. L. 96–466, title VIII][/us/pl/96/466/tVIII], § 802(f), Oct. 17, 1980, [94 Stat. 2218][/us/stat/94/2218], provided that:
 
 >     “(1) Except as provided in paragraph (2), the amendments made by title VI \[see Tables for classification\] shall become effective on October 1, 1980.
 
@@ -63,7 +63,7 @@
 
  __Rules and Regulations__ 
 
-[Pub. L. 96–466, title VI, § 605(b)][/us/pl/96/466/s605/b], Oct. 17, 1980, [94 Stat. 2211][/us/stat/94/2211], provided that: 
+[Pub. L. 96–466, title VI][/us/pl/96/466/tVI], § 605(b), Oct. 17, 1980, [94 Stat. 2211][/us/stat/94/2211], provided that: 
 
 > “The Administrator of Veterans’ Affairs \[now Secretary of Veterans Affairs\] shall, not later than January 1, 1981, prescribe the regulations required to be prescribed under sections 3114 and 3115 \[now 5314 and 5315\] of title 38, United States Code, as added by subsection (a).”
 
@@ -77,28 +77,28 @@
 [/us/usc/t38/s3485/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3485%2Fe
 [/us/usc/t38/s5302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs5302
 [/us/usc/t38/s5302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs5302
-[/us/pl/96/466/s605/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F466%2Fs605%2Fa%2F1
+[/us/pl/96/466/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F466%2FtVI
 [/us/stat/94/2209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2209
-[/us/pl/102/16/s6/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F16%2Fs6%2Fb%2F3
+[/us/pl/102/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F16
 [/us/stat/105/51]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F51
-[/us/pl/102/40/s402/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs402%2Fb%2F1
+[/us/pl/102/40/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2FtIV
 [/us/stat/105/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F238
 [/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/403-406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F403-406
-[/us/pl/102/40/s402/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs402%2Fb%2F1
+[/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40
 [/us/usc/t38/s3114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3114
-[/us/pl/102/83/s5/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fc%2F1
-[/us/pl/102/83/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fb%2F1
-[/us/pl/102/83/s4/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fa%2F1
-[/us/pl/102/40/s402/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs402%2Fd%2F1
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40
 [/us/pl/102/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F16
 [/us/usc/t38/s1685/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1685%2Fe
-[/us/pl/102/83/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fb%2F1
-[/us/pl/102/40/s402/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs402%2Fd%2F1
-[/us/pl/102/83/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fb%2F1
-[/us/pl/96/466/s802/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F466%2Fs802%2Ff
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/96/466/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F466%2FtVIII
 [/us/stat/94/2218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2218
-[/us/pl/96/466/s605/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F466%2Fs605%2Fb
+[/us/pl/96/466/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F466%2FtVI
 [/us/stat/94/2211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2211
 
 

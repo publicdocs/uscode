@@ -51,7 +51,7 @@
 
     The authority to make a grant under this section shall begin on October 1, 2011, and shall terminate on September 30, 2016.
 
-(Added [Pub. L. 111–275, title II, § 203(a)][/us/pl/111/275/s203/a], Oct. 13, 2010, [124 Stat. 2874][/us/stat/124/2874].)
+(Added [Pub. L. 111–275, title II][/us/pl/111/275/tII], § 203(a), Oct. 13, 2010, [124 Stat. 2874][/us/stat/124/2874].)
 
 ----------
 
@@ -60,7 +60,7 @@
 ----------
 ----------
 
-[/us/pl/111/275/s203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275%2Fs203%2Fa
+[/us/pl/111/275/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275%2FtII
 [/us/stat/124/2874]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2874
 
 

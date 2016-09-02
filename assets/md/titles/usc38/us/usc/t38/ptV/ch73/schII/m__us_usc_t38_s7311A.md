@@ -71,7 +71,7 @@
 
         (2) There is authorized to be appropriated to carry out the provisions of subparagraphs (B), (C), and (D) of subsection (a)(3), $25,000,000 for the two-year period of fiscal years beginning after the date of the enactment of this section.
 
-(Added [Pub. L. 111–163, title V, § 505(a)(1)][/us/pl/111/163/s505/a/1], May 5, 2010, [124 Stat. 1158][/us/stat/124/1158].)
+(Added [Pub. L. 111–163, title V][/us/pl/111/163/tV], § 505(a)(1), May 5, 2010, [124 Stat. 1158][/us/stat/124/1158].)
 
  __References in Text__ 
 
@@ -85,7 +85,7 @@
 ----------
 
 [/us/usc/t38/s7311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7311
-[/us/pl/111/163/s505/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163%2Fs505%2Fa%2F1
+[/us/pl/111/163/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163%2FtV
 [/us/stat/124/1158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1158
 [/us/pl/111/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163
 

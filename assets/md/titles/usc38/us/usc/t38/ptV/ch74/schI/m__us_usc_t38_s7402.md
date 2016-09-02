@@ -161,7 +161,7 @@
 
         (2) certification for veterans under subsection (b)(13)(B)(i).
 
-(Added [Pub. L. 102–40, title IV, § 401(b)(2)][/us/pl/102/40/s401/b/2], May 7, 1991, [105 Stat. 222][/us/stat/105/222]; amended [Pub. L. 102–86, title III, § 305(a)][/us/pl/102/86/s305/a], Aug. 14, 1991, [105 Stat. 417][/us/stat/105/417]; [Pub. L. 102–405, title III, § 302(c)(1)][/us/pl/102/405/s302/c/1], Oct. 9, 1992, [106 Stat. 1984][/us/stat/106/1984]; [Pub. L. 106–117, title II, § 209][/us/pl/106/117/s209], Nov. 30, 1999, [113 Stat. 1569][/us/stat/113/1569]; [Pub. L. 106–419, title II, § 205][/us/pl/106/419/s205], Nov. 1, 2000, [114 Stat. 1842][/us/stat/114/1842]; [Pub. L. 108–170, title III, § 302(b)][/us/pl/108/170/s302/b], Dec. 6, 2003, [117 Stat. 2058][/us/stat/117/2058]; [Pub. L. 109–461, title II, § 201(b)][/us/pl/109/461/s201/b], Dec. 22, 2006, [120 Stat. 3409][/us/stat/120/3409]; [Pub. L. 110–387, title IV, § 405][/us/pl/110/387/s405], Oct. 10, 2008, [122 Stat. 4129][/us/stat/122/4129].)
+(Added [Pub. L. 102–40, title IV][/us/pl/102/40/tIV], § 401(b)(2), May 7, 1991, [105 Stat. 222][/us/stat/105/222]; amended [Pub. L. 102–86, title III][/us/pl/102/86/tIII], § 305(a), Aug. 14, 1991, [105 Stat. 417][/us/stat/105/417]; [Pub. L. 102–405, title III][/us/pl/102/405/tIII], § 302(c)(1), Oct. 9, 1992, [106 Stat. 1984][/us/stat/106/1984]; [Pub. L. 106–117, title II][/us/pl/106/117/tII], § 209, Nov. 30, 1999, [113 Stat. 1569][/us/stat/113/1569]; [Pub. L. 106–419, title II][/us/pl/106/419/tII], § 205, Nov. 1, 2000, [114 Stat. 1842][/us/stat/114/1842]; [Pub. L. 108–170, title III][/us/pl/108/170/tIII], § 302(b), Dec. 6, 2003, [117 Stat. 2058][/us/stat/117/2058]; [Pub. L. 109–461, title II][/us/pl/109/461/tII], § 201(b), Dec. 22, 2006, [120 Stat. 3409][/us/stat/120/3409]; [Pub. L. 110–387, title IV][/us/pl/110/387/tIV], § 405, Oct. 10, 2008, [122 Stat. 4129][/us/stat/122/4129].)
 
  __Prior Provisions__ 
 
@@ -169,13 +169,13 @@
 
  __Amendments__ 
 
-    2008—Subsec. (b)(11). [Pub. L. 110–387, § 405(a)(1)][/us/pl/110/387/s405/a/1], redesignated par. (11) relating to other health care positions as (14).
+    2008—Subsec. (b)(11). [Pub. L. 110–387][/us/pl/110/387], § 405(a)(1), redesignated par. (11) relating to other health care positions as (14).
 
-    Subsec. (b)(13). [Pub. L. 110–387, § 405(a)(2)][/us/pl/110/387/s405/a/2], added par. (13).
+    Subsec. (b)(13). [Pub. L. 110–387][/us/pl/110/387], § 405(a)(2), added par. (13).
 
-    Subsec. (b)(14). [Pub. L. 110–387, § 405(a)(1)][/us/pl/110/387/s405/a/1], redesignated par. (11) relating to other health care positions as (14).
+    Subsec. (b)(14). [Pub. L. 110–387][/us/pl/110/387], § 405(a)(1), redesignated par. (11) relating to other health care positions as (14).
 
-    Subsec. (g). [Pub. L. 110–387, § 405(b)][/us/pl/110/387/s405/b], added subsec. (g).
+    Subsec. (g). [Pub. L. 110–387][/us/pl/110/387], § 405(b), added subsec. (g).
 
     2006—Subsec. (b)(10) to (12). [Pub. L. 109–461][/us/pl/109/461] added par. (10) and the par. (11) relating to licensed professional health counselor and redesignated former par. (10) as (12).
 
@@ -195,13 +195,13 @@
 
  __Effective Date of 1991 Amendment__ 
 
-[Pub. L. 102–86, title III, § 305(b)][/us/pl/102/86/s305/b], Aug. 14, 1991, [105 Stat. 417][/us/stat/105/417], provided that: 
+[Pub. L. 102–86, title III][/us/pl/102/86/tIII], § 305(b), Aug. 14, 1991, [105 Stat. 417][/us/stat/105/417], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] does not apply to any person employed as a social worker by the Department of Veterans Affairs on or before the date of the enactment of this Act \[Aug. 14, 1991\].”
 
  __Requirements Respecting Basic Proficiency in Spoken and Written English of Appointees After__  __November 23, 1977__ 
 
-[Pub. L. 95–201, § 4(a)(3)][/us/pl/95/201/s4/a/3], Nov. 23, 1977, [91 Stat. 1430][/us/stat/91/1430], provided that: 
+[Pub. L. 95–201][/us/pl/95/201], § 4(a)(3), Nov. 23, 1977, [91 Stat. 1430][/us/stat/91/1430], provided that: 
 
 > “Notwithstanding any other provision of law, with respect to persons other than those described in subsection (c) of section 4105 and subsection (f) of [section 4114 of title 38][/us/usc/t38/s4114], United States Code \[former sections 4105(c) and 4114(f) of this title, see subsec. (d) of this section and [section 7407(d) of this title][/us/usc/t38/s7407/d]\] (as added by paragraphs (1) and (2) of this subsection), who are appointed after the date of enactment of this Act \[Nov. 23, 1977\] in the Department of Medicine and Surgery in the Veterans’ Administration \[now Veterans Health Administration of the Department of Veterans Affairs\] in any direct patient-care capacity, and with respect to persons described in such subsections who are appointed after such enactment date and prior to January 1, 1978, the Administrator of Veterans’ Affairs \[now Secretary of Veterans Affairs\], upon the recommendation of the Chief Medical Director \[now Under Secretary for Health\], shall take appropriate steps to provide reasonable assurance that such persons possess such basic proficiency in spoken and written English as will permit such degree of communication with patients and other health-care personnel as will enable such persons to carry out their health-care responsibilities satisfactorily.”
 
@@ -215,27 +215,27 @@
 [/us/usc/t38/s7407/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7407%2Fa
 [/us/usc/t38/s7401/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7401%2F1
 [/us/usc/t38/s7401/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7401%2F1
-[/us/pl/102/40/s401/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs401%2Fb%2F2
+[/us/pl/102/40/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2FtIV
 [/us/stat/105/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F222
-[/us/pl/102/86/s305/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F86%2Fs305%2Fa
+[/us/pl/102/86/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F86%2FtIII
 [/us/stat/105/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F417
-[/us/pl/102/405/s302/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405%2Fs302%2Fc%2F1
+[/us/pl/102/405/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405%2FtIII
 [/us/stat/106/1984]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1984
-[/us/pl/106/117/s209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117%2Fs209
+[/us/pl/106/117/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117%2FtII
 [/us/stat/113/1569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1569
-[/us/pl/106/419/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419%2Fs205
+[/us/pl/106/419/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419%2FtII
 [/us/stat/114/1842]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1842
-[/us/pl/108/170/s302/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F170%2Fs302%2Fb
+[/us/pl/108/170/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F170%2FtIII
 [/us/stat/117/2058]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2058
-[/us/pl/109/461/s201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461%2Fs201%2Fb
+[/us/pl/109/461/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461%2FtII
 [/us/stat/120/3409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3409
-[/us/pl/110/387/s405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F387%2Fs405
+[/us/pl/110/387/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F387%2FtIV
 [/us/stat/122/4129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4129
 [/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40
-[/us/pl/110/387/s405/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F387%2Fs405%2Fa%2F1
-[/us/pl/110/387/s405/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F387%2Fs405%2Fa%2F2
-[/us/pl/110/387/s405/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F387%2Fs405%2Fa%2F1
-[/us/pl/110/387/s405/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F387%2Fs405%2Fb
+[/us/pl/110/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F387
+[/us/pl/110/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F387
+[/us/pl/110/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F387
+[/us/pl/110/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F387
 [/us/pl/109/461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461
 [/us/pl/108/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F170
 [/us/pl/106/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419
@@ -245,9 +245,9 @@
 [/us/pl/108/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F170
 [/us/pl/108/170/s302/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F170%2Fs302%2Fh
 [/us/usc/t38/s7316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7316
-[/us/pl/102/86/s305/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F86%2Fs305%2Fb
+[/us/pl/102/86/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F86%2FtIII
 [/us/stat/105/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F417
-[/us/pl/95/201/s4/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F201%2Fs4%2Fa%2F3
+[/us/pl/95/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F201
 [/us/stat/91/1430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1430
 [/us/usc/t38/s4114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs4114
 [/us/usc/t38/s7407/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7407%2Fd

@@ -131,11 +131,11 @@
 
         (2) In addition to amounts authorized to be appropriated by paragraph (1) for a fiscal year, the Under Secretary for Health may allocate to each center designated under this section, from other funds authorized to be appropriated for such fiscal year for the Department generally for medical and for medical and prosthetic research, such amounts as the Under Secretary for Health determines appropriate to carry out the purposes of this section.
 
-(Added [Pub. L. 108–422, title III, § 302(a)(1)][/us/pl/108/422/s302/a/1], Nov. 30, 2004, [118 Stat. 2383][/us/stat/118/2383].)
+(Added [Pub. L. 108–422, title III][/us/pl/108/422/tIII], § 302(a)(1), Nov. 30, 2004, [118 Stat. 2383][/us/stat/118/2383].)
 
  __Center of Excellence in the Mitigation, Treatment, and Rehabilitation of Traumatic Extremity Injuries and Amputations__ 
 
-[Pub. L. 110–417][/us/pl/110/417], \[div. A\], title VII, § 723, Oct. 14, 2008, [122 Stat. 4508][/us/stat/122/4508], as amended by [Pub. L. 114–92, div. A, title X, § 1079(d)(2)][/us/pl/114/92/s1079/d/2], Nov. 25, 2015, [129 Stat. 999][/us/stat/129/999], provided that:
+[Pub. L. 110–417][/us/pl/110/417], \[div. A\], title VII, § 723, Oct. 14, 2008, [122 Stat. 4508][/us/stat/122/4508], as amended by [Pub. L. 114–92, div. A, title X][/us/pl/114/92/dA/tX], § 1079(d)(2), Nov. 25, 2015, [129 Stat. 999][/us/stat/129/999], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -157,7 +157,7 @@
 
  __Designation of Centers__ 
 
-[Pub. L. 108–422, title III, § 302(b)][/us/pl/108/422/s302/b], Nov. 30, 2004, [118 Stat. 2385][/us/stat/118/2385], provided that: 
+[Pub. L. 108–422, title III][/us/pl/108/422/tIII], § 302(b), Nov. 30, 2004, [118 Stat. 2385][/us/stat/118/2385], provided that: 
 
 > “The Secretary of Veterans Affairs shall designate the centers for research, education, and clinical activities on complex multi-trauma associated with combat injuries required by [section 7327 of title 38][/us/usc/t38/s7327], United States Code (as added by subsection (a)), not later than 120 days after the date of the enactment of this Act \[Nov. 30, 2004\].”
 
@@ -169,13 +169,13 @@
 ----------
 
 [/us/usc/t38/s8111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs8111
-[/us/pl/108/422/s302/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F422%2Fs302%2Fa%2F1
+[/us/pl/108/422/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F422%2FtIII
 [/us/stat/118/2383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2383
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4508
-[/us/pl/114/92/s1079/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1079%2Fd%2F2
+[/us/pl/114/92/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtX
 [/us/stat/129/999]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F999
-[/us/pl/108/422/s302/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F422%2Fs302%2Fb
+[/us/pl/108/422/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F422%2FtIII
 [/us/stat/118/2385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2385
 [/us/usc/t38/s7327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7327
 

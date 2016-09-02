@@ -17,7 +17,7 @@
 
     It is the purpose of this chapter (1) to provide educational assistance to those men and women who enter the Armed Forces after December 31, 1976, and before July 1, 1985, (2) to assist young men and women in obtaining an education they might not otherwise be able to afford, and (3) to promote and assist the all volunteer military program of the United States by attracting qualified men and women to serve in the Armed Forces.
 
-(Added [Pub. L. 94–502, title IV, § 404][/us/pl/94/502/s404], Oct. 15, 1976, [90 Stat. 2393][/us/stat/90/2393], § 1601; amended [Pub. L. 99–576, title III, § 309(a)(1)][/us/pl/99/576/s309/a/1], Oct. 28, 1986, [100 Stat. 3270][/us/stat/100/3270]; renumbered § 3201, [Pub. L. 102–83, § 5(a)][/us/pl/102/83/s5/a], Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406].)
+(Added [Pub. L. 94–502, title IV][/us/pl/94/502/tIV], § 404, Oct. 15, 1976, [90 Stat. 2393][/us/stat/90/2393], § 1601; amended [Pub. L. 99–576, title III][/us/pl/99/576/tIII], § 309(a)(1), Oct. 28, 1986, [100 Stat. 3270][/us/stat/100/3270]; renumbered § 3201, [Pub. L. 102–83][/us/pl/102/83], § 5(a), Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406].)
 
  __Prior Provisions__ 
 
@@ -31,7 +31,7 @@
 
  __Effective Date__ 
 
-[Section 406 of title IV of Pub. L. 94–502][/us/pl/94/502/s406] provided that: 
+[Section 406 of title IV of Pub. L. 94–502][/us/pl/94/502/tIV/s406] provided that: 
 
 > “The provisions of this title \[enacting this chapter, amending sections 1652, 1661, and 1662 \[now 3452, 3461, and 3462\] of this title and section 725s of former Title 31, Money and Finance, and enacting provisions set out as a note under [section 3221 of this title][/us/usc/t38/s3221]\] shall become effective on January 1, 1977.”
 
@@ -41,7 +41,7 @@
 
  __Enrollment in Program Before__  __April 1, 1987__ 
 
-[Pub. L. 99–576, title III, § 309(c)][/us/pl/99/576/s309/c], (d), Oct. 28, 1986, [100 Stat. 3270][/us/stat/100/3270], provided that:
+[Pub. L. 99–576, title III][/us/pl/99/576/tIII], § 309(c), (d), Oct. 28, 1986, [100 Stat. 3270][/us/stat/100/3270], provided that:
 
 >     “(c)  __Exception__  __.—__ 
 
@@ -58,22 +58,22 @@
 ----------
 ----------
 
-[/us/pl/94/502/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F502%2Fs404
+[/us/pl/94/502/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F502%2FtIV
 [/us/stat/90/2393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2393
-[/us/pl/99/576/s309/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2Fs309%2Fa%2F1
+[/us/pl/99/576/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2FtIII
 [/us/stat/100/3270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3270
-[/us/pl/102/83/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fa
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F406
 [/us/usc/t38/s5501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs5501
 [/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/usc/t38/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1601
 [/us/pl/99/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576
-[/us/pl/94/502/s406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F502%2Fs406
+[/us/pl/94/502/tIV/s406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F502%2FtIV%2Fs406
 [/us/usc/t38/s3221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3221
 [/us/pl/94/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F502
 [/us/pl/94/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F502
 [/us/usc/t38/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs101
-[/us/pl/99/576/s309/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2Fs309%2Fc
+[/us/pl/99/576/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2FtIII
 [/us/stat/100/3270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3270
 
 

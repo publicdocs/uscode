@@ -17,13 +17,13 @@
 
     The Secretary shall furnish Department police officers with such weapons and related equipment as the Secretary determines to be necessary and appropriate.
 
-(Added [Pub. L. 102–83, § 2(a)][/us/pl/102/83/s2/a], Aug. 6, 1991, [105 Stat. 399][/us/stat/105/399].)
+(Added [Pub. L. 102–83][/us/pl/102/83], § 2(a), Aug. 6, 1991, [105 Stat. 399][/us/stat/105/399].)
 
  __Prior Provisions__ 
 
     Prior section 904 was renumbered [section 2304 of this title][/us/usc/t38/s2304].
 
-    Provisions similar to those in this section were contained in [section 218(d) of this title][/us/usc/t38/s218/d] prior to repeal by [Pub. L. 102–83, § 2(a)][/us/pl/102/83/s2/a].
+    Provisions similar to those in this section were contained in [section 218(d) of this title][/us/usc/t38/s218/d] prior to repeal by [Pub. L. 102–83][/us/pl/102/83], § 2(a).
 
 ----------
 
@@ -32,10 +32,10 @@
 ----------
 ----------
 
-[/us/pl/102/83/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs2%2Fa
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F399
 [/us/usc/t38/s2304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs2304
 [/us/usc/t38/s218/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs218%2Fd
-[/us/pl/102/83/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs2%2Fa
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 
 

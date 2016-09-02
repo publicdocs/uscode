@@ -51,7 +51,7 @@
 
         (2) The Secretary shall provide hospital care and medical services under [section 1710(a)(1) of this title][/us/usc/t38/s1710/a/1], and under subparagraph (B) of [section 1710(a)(2) of this title][/us/usc/t38/s1710/a/2], for the 12-month period following such veteran’s discharge or release from service, to any veteran referred to in such sections for a disability specified in the applicable subparagraph of such section, notwithstanding the failure of the veteran to enroll in the system of patient enrollment referred to in subsection (a) of this section.
 
-(Added [Pub. L. 104–262, title I, § 104(a)(1)][/us/pl/104/262/s104/a/1], Oct. 9, 1996, [110 Stat. 3182][/us/stat/110/3182]; amended [Pub. L. 106–117, title I, § 112(2)][/us/pl/106/117/s112/2], Nov. 30, 1999, [113 Stat. 1556][/us/stat/113/1556]; [Pub. L. 107–135, title II, § 202(a)][/us/pl/107/135/s202/a], Jan. 23, 2002, [115 Stat. 2457][/us/stat/115/2457]; [Pub. L. 107–330, title III, § 308(g)(4)][/us/pl/107/330/s308/g/4], Dec. 6, 2002, [116 Stat. 2828][/us/stat/116/2828]; [Pub. L. 111–163, title V, § 512][/us/pl/111/163/s512], May 5, 2010, [124 Stat. 1164][/us/stat/124/1164].)
+(Added [Pub. L. 104–262, title I][/us/pl/104/262/tI], § 104(a)(1), Oct. 9, 1996, [110 Stat. 3182][/us/stat/110/3182]; amended [Pub. L. 106–117, title I][/us/pl/106/117/tI], § 112(2), Nov. 30, 1999, [113 Stat. 1556][/us/stat/113/1556]; [Pub. L. 107–135, title II][/us/pl/107/135/tII], § 202(a), Jan. 23, 2002, [115 Stat. 2457][/us/stat/115/2457]; [Pub. L. 107–330, title III][/us/pl/107/330/tIII], § 308(g)(4), Dec. 6, 2002, [116 Stat. 2828][/us/stat/116/2828]; [Pub. L. 111–163, title V][/us/pl/111/163/tV], § 512, May 5, 2010, [124 Stat. 1164][/us/stat/124/1164].)
 
  __Amendments__ 
 
@@ -65,13 +65,13 @@
 
  __Effective Date of 2002 Amendment__ 
 
-[Pub. L. 107–135, title II, § 202(c)][/us/pl/107/135/s202/c], Jan. 23, 2002, [115 Stat. 2457][/us/stat/115/2457], provided that: 
+[Pub. L. 107–135, title II][/us/pl/107/135/tII], § 202(c), Jan. 23, 2002, [115 Stat. 2457][/us/stat/115/2457], provided that: 
 
 > “The amendments made by this section \[amending this section and [section 1710 of this title][/us/usc/t38/s1710]\] shall take effect on October 1, 2002.”
 
  __Assessment of Implementation and Operation of Amendments by__  __[__  __Pub. L. 104–262__  __][/us/pl/104/262]__ 
 
-[Pub. L. 104–262, title I, § 106][/us/pl/104/262/s106], Oct. 9, 1996, [110 Stat. 3184][/us/stat/110/3184], provided that:
+[Pub. L. 104–262, title I][/us/pl/104/262/tI], § 106, Oct. 9, 1996, [110 Stat. 3184][/us/stat/110/3184], provided that:
 
 >     “(a)  __Assessment Systems__  __.—__ 
 
@@ -131,15 +131,15 @@
 [/us/usc/t38/s1710/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1710%2Fa
 [/us/usc/t38/s1710/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1710%2Fa%2F1
 [/us/usc/t38/s1710/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1710%2Fa%2F2
-[/us/pl/104/262/s104/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F262%2Fs104%2Fa%2F1
+[/us/pl/104/262/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F262%2FtI
 [/us/stat/110/3182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3182
-[/us/pl/106/117/s112/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117%2Fs112%2F2
+[/us/pl/106/117/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117%2FtI
 [/us/stat/113/1556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1556
-[/us/pl/107/135/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F135%2Fs202%2Fa
+[/us/pl/107/135/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F135%2FtII
 [/us/stat/115/2457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2457
-[/us/pl/107/330/s308/g/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F330%2Fs308%2Fg%2F4
+[/us/pl/107/330/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F330%2FtIII
 [/us/stat/116/2828]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2828
-[/us/pl/111/163/s512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163%2Fs512
+[/us/pl/111/163/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163%2FtV
 [/us/stat/124/1164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1164
 [/us/pl/111/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163
 [/us/usc/t14/s491]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs491
@@ -147,11 +147,11 @@
 [/us/usc/t38/s1710/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1710%2Fa%2F3
 [/us/pl/107/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F330
 [/us/pl/106/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117
-[/us/pl/107/135/s202/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F135%2Fs202%2Fc
+[/us/pl/107/135/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F135%2FtII
 [/us/stat/115/2457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2457
 [/us/usc/t38/s1710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1710
 [/us/pl/104/262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F262
-[/us/pl/104/262/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F262%2Fs106
+[/us/pl/104/262/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F262%2FtI
 [/us/stat/110/3184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3184
 [/us/usc/t38/s1706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1706
 [/us/usc/t38/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1701

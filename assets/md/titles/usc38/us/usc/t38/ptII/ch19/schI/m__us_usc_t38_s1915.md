@@ -21,17 +21,17 @@
 
  __References in Text__ 
 
-    Section 620 of the National Service Life Insurance Act of 1940, referred to in text, is section 620 of [act Oct. 8, 1940, ch. 757][/us/act/1940-10-08/ch757], title VI, pt. I, as added [Apr. 25, 1951, ch. 39][/us/act/1951-04-25/ch39], pt. II, § 10, [65 Stat. 36][/us/stat/65/36], which enacted section 821 of former Title 38, Pensions, Bonuses, and Veterans’ Relief, and which was repealed and the provisions thereof reenacted as section 722 \[now 1922\] of this title by [Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1105][/us/stat/72/1105].
+    Section 620 of the National Service Life Insurance Act of 1940, referred to in text, is section 620 of [act Oct. 8, 1940, ch. 757, title VI][/us/act/1940-10-08/ch757/tVI], pt. I, as added [Apr. 25, 1951, ch. 39][/us/act/1951-04-25/ch39], pt. II, § 10, [65 Stat. 36][/us/stat/65/36], which enacted section 821 of former Title 38, Pensions, Bonuses, and Veterans’ Relief, and which was repealed and the provisions thereof reenacted as section 722 \[now 1922\] of this title by [Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1105][/us/stat/72/1105].
 
-    Section 602(v) of the National Service Life Insurance Act of 1940, referred to in text, is section 602(v) of [act Oct. 8, 1940, ch. 757][/us/act/1940-10-08/ch757], title VI, pt. I, [54 Stat. 1009][/us/stat/54/1009], which enacted section 802(v) of former Title 38, Pensions, Bonuses, and Veterans’ Relief, and which was repealed and the provisions thereof reenacted as this section and section 721 \[now 1921\] of this title by [Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1105][/us/stat/72/1105].
+    Section 602(v) of the National Service Life Insurance Act of 1940, referred to in text, is section 602(v) of [act Oct. 8, 1940, ch. 757, title VI][/us/act/1940-10-08/ch757/tVI], pt. I, [54 Stat. 1009][/us/stat/54/1009], which enacted section 802(v) of former Title 38, Pensions, Bonuses, and Veterans’ Relief, and which was repealed and the provisions thereof reenacted as this section and section 721 \[now 1921\] of this title by [Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1105][/us/stat/72/1105].
 
  __Amendments__ 
 
-    1991—[Pub. L. 102–83, § 5(a)][/us/pl/102/83/s5/a], renumbered [section 715 of this title][/us/usc/t38/s715] as this section.
+    1991—[Pub. L. 102–83][/us/pl/102/83], § 5(a), renumbered [section 715 of this title][/us/usc/t38/s715] as this section.
 
-    [Pub. L. 102–83, § 5(c)(1)][/us/pl/102/83/s5/c/1], substituted “1922” for “722”.
+    [Pub. L. 102–83][/us/pl/102/83], § 5(c)(1), substituted “1922” for “722”.
 
-    [Pub. L. 102–83, § 4(b)(1)][/us/pl/102/83/s4/b/1], (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
+    [Pub. L. 102–83][/us/pl/102/83], § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
 
     1964—[Pub. L. 88–355][/us/pl/88/355] authorized issuance of total disability income provisions to provide coverage to age 65 instead of to age 60, provided that said provisions shall not be issued unless application therefor is made either prior to the insured’s 55th birthday, or before the insured’s 60th birthday and prior to Jan. 1, 1966, and inserted “or the provisions of this section as in effect before January 1, 1965” before “except upon surrender”, and “if required” after “proof of good health.”
 
@@ -53,19 +53,19 @@
 [/us/stat/78/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F272
 [/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/404-406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F404-406
-[/us/act/1940-10-08/ch757]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-08%2Fch757
+[/us/act/1940-10-08/ch757/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-08%2Fch757%2FtVI
 [/us/act/1951-04-25/ch39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-04-25%2Fch39
 [/us/stat/65/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F36
 [/us/pl/85/857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F857
 [/us/stat/72/1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1105
-[/us/act/1940-10-08/ch757]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-08%2Fch757
+[/us/act/1940-10-08/ch757/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-08%2Fch757%2FtVI
 [/us/stat/54/1009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F1009
 [/us/pl/85/857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F857
 [/us/stat/72/1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1105
-[/us/pl/102/83/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fa
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/usc/t38/s715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs715
-[/us/pl/102/83/s5/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fc%2F1
-[/us/pl/102/83/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fb%2F1
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/pl/88/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F355
 [/us/pl/88/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F355
 [/us/pl/88/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F355

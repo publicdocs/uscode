@@ -33,7 +33,7 @@
 
     (c) The provisions of subsection (b) shall not apply to the part-time service before April 7, 1986, of a registered nurse, physician assistant, or expanded-function dental auxiliary. In computing the annuity under the applicable provision of law specified in that subsection of an individual covered by the preceding sentence, the service described in that sentence shall be credited as full-time service.
 
-(Added [Pub. L. 102–40, title IV, § 401(b)(3)(B)][/us/pl/102/40/s401/b/3/B], May 7, 1991, [105 Stat. 231][/us/stat/105/231]; amended [Pub. L. 102–585, title V, § 522][/us/pl/102/585/s522], Nov. 4, 1992, [106 Stat. 4959][/us/stat/106/4959]; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title X, § 1087(g)(5)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–294; [Pub. L. 107–135, title I, § 132][/us/pl/107/135/s132], Jan. 23, 2002, [115 Stat. 2454][/us/stat/115/2454].)
+(Added [Pub. L. 102–40, title IV][/us/pl/102/40/tIV], § 401(b)(3)(B), May 7, 1991, [105 Stat. 231][/us/stat/105/231]; amended [Pub. L. 102–585, title V][/us/pl/102/585/tV], § 522, Nov. 4, 1992, [106 Stat. 4959][/us/stat/106/4959]; [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title X, § 1087(g)(5)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–294; [Pub. L. 107–135, title I][/us/pl/107/135/tI], § 132, Jan. 23, 2002, [115 Stat. 2454][/us/stat/115/2454].)
 
  __Prior Provisions__ 
 
@@ -54,13 +54,13 @@
 ----------
 ----------
 
-[/us/pl/102/40/s401/b/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs401%2Fb%2F3%2FB
+[/us/pl/102/40/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2FtIV
 [/us/stat/105/231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F231
-[/us/pl/102/585/s522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F585%2Fs522
+[/us/pl/102/585/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F585%2FtV
 [/us/stat/106/4959]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4959
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/107/135/s132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F135%2Fs132
+[/us/pl/107/135/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F135%2FtI
 [/us/stat/115/2454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2454
 [/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40
 [/us/pl/107/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F135

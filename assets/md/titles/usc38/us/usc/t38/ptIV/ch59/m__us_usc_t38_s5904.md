@@ -103,67 +103,67 @@
 
         (3) To the extent that past-due benefits are awarded in any proceeding before the Secretary, the Board of Veterans’ Appeals, or the United States Court of Appeals for Veterans Claims, the Secretary may direct that payment of any fee to an agent or attorney under a fee arrangement described in paragraph (1) be made out of such past-due benefits. In no event may the Secretary withhold for the purpose of such payment any portion of benefits payable for a period after the date of the final decision of the Secretary, the Board of Veterans’ Appeals, or Court of Appeals for Veterans Claims making (or ordering the making of) the award.
 
-([Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1238][/us/stat/72/1238], § 3404; [Pub. L. 99–576, title VII, § 701(80)][/us/pl/99/576/s701/80], Oct. 28, 1986, [100 Stat. 3298][/us/stat/100/3298]; [Pub. L. 100–687, div. A, title I, § 104(a)][/us/pl/100/687/s104/a], Nov. 18, 1988, [102 Stat. 4108][/us/stat/102/4108]; renumbered § 5904 and amended [Pub. L. 102–40, title IV, § 402(b)(1)][/us/pl/102/40/s402/b/1], (d)(1), May 7, 1991, [105 Stat. 238][/us/stat/105/238], 239; [Pub. L. 102–83, § 4(a)(1)][/us/pl/102/83/s4/a/1], (3), (4), (b)(1), (2)(E), Aug. 6, 1991, [105 Stat. 403–405][/us/stat/105/403-405]; [Pub. L. 102–405, title III, § 303(a)][/us/pl/102/405/s303/a], Oct. 9, 1992, [106 Stat. 1985][/us/stat/106/1985]; [Pub. L. 103–446, title V, § 504(a)][/us/pl/103/446/s504/a], Nov. 2, 1994, [108 Stat. 4663][/us/stat/108/4663]; [Pub. L. 105–368, title V, § 512(a)(1)][/us/pl/105/368/s512/a/1], Nov. 11, 1998, [112 Stat. 3341][/us/stat/112/3341]; [Pub. L. 109–461, title I, § 101(a)(1)][/us/pl/109/461/s101/a/1], (b), (c)(1), (d)–(f), Dec. 22, 2006, [120 Stat. 3405][/us/stat/120/3405], 3407, 3408.)
+([Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1238][/us/stat/72/1238], § 3404; [Pub. L. 99–576, title VII][/us/pl/99/576/tVII], § 701(80), Oct. 28, 1986, [100 Stat. 3298][/us/stat/100/3298]; [Pub. L. 100–687, div. A, title I][/us/pl/100/687/dA/tI], § 104(a), Nov. 18, 1988, [102 Stat. 4108][/us/stat/102/4108]; renumbered § 5904 and amended [Pub. L. 102–40, title IV][/us/pl/102/40/tIV], § 402(b)(1), (d)(1), May 7, 1991, [105 Stat. 238][/us/stat/105/238], 239; [Pub. L. 102–83][/us/pl/102/83], § 4(a)(1), (3), (4), (b)(1), (2)(E), Aug. 6, 1991, [105 Stat. 403–405][/us/stat/105/403-405]; [Pub. L. 102–405, title III][/us/pl/102/405/tIII], § 303(a), Oct. 9, 1992, [106 Stat. 1985][/us/stat/106/1985]; [Pub. L. 103–446, title V][/us/pl/103/446/tV], § 504(a), Nov. 2, 1994, [108 Stat. 4663][/us/stat/108/4663]; [Pub. L. 105–368, title V][/us/pl/105/368/tV], § 512(a)(1), Nov. 11, 1998, [112 Stat. 3341][/us/stat/112/3341]; [Pub. L. 109–461, title I][/us/pl/109/461/tI], § 101(a)(1), (b), (c)(1), (d)–(f), Dec. 22, 2006, [120 Stat. 3405][/us/stat/120/3405], 3407, 3408.)
 
  __Amendments__ 
 
-    2006—Subsec. (a). [Pub. L. 109–461, § 101(a)(1)(A)][/us/pl/109/461/s101/a/1/A], inserted heading.
+    2006—Subsec. (a). [Pub. L. 109–461][/us/pl/109/461], § 101(a)(1)(A), inserted heading.
 
-    Subsec. (a)(1). [Pub. L. 109–461, § 101(a)(1)(A)][/us/pl/109/461/s101/a/1/A]–(C), designated existing provisions as par. (1), substituted “Except as provided in paragraph (4), the Secretary may recognize” for “The Secretary may recognize”, and struck out last sentence which read as follows: “The Secretary may require that individuals, before being recognized under this section, show that they are of good moral character and in good repute, are qualified to render claimants valuable service, and otherwise are competent to assist claimants in presenting claims.”
+    Subsec. (a)(1). [Pub. L. 109–461][/us/pl/109/461], § 101(a)(1)(A)–(C), designated existing provisions as par. (1), substituted “Except as provided in paragraph (4), the Secretary may recognize” for “The Secretary may recognize”, and struck out last sentence which read as follows: “The Secretary may require that individuals, before being recognized under this section, show that they are of good moral character and in good repute, are qualified to render claimants valuable service, and otherwise are competent to assist claimants in presenting claims.”
 
-    Subsec. (a)(2) to (6). [Pub. L. 109–461, § 101(a)(1)(D)][/us/pl/109/461/s101/a/1/D], added pars. (2) to (6).
+    Subsec. (a)(2) to (6). [Pub. L. 109–461][/us/pl/109/461], § 101(a)(1)(D), added pars. (2) to (6).
 
-    Subsec. (b). [Pub. L. 109–461, § 101(b)(1)][/us/pl/109/461/s101/b/1], inserted heading.
+    Subsec. (b). [Pub. L. 109–461][/us/pl/109/461], § 101(b)(1), inserted heading.
 
-    Subsec. (b)(6) to (9). [Pub. L. 109–461, § 101(b)(2)][/us/pl/109/461/s101/b/2]–(4), added pars. (6) to (9).
+    Subsec. (b)(6) to (9). [Pub. L. 109–461][/us/pl/109/461], § 101(b)(2)–(4), added pars. (6) to (9).
 
-    Subsec. (c)(1). [Pub. L. 109–461, § 101(e)(1)][/us/pl/109/461/s101/e/1], substituted “paragraph (4)” for “paragraph (3)”.
+    Subsec. (c)(1). [Pub. L. 109–461][/us/pl/109/461], § 101(e)(1), substituted “paragraph (4)” for “paragraph (3)”.
 
-    [Pub. L. 109–461, § 101(c)(1)][/us/pl/109/461/s101/c/1], substituted “a notice of disagreement is filed with respect to” for “the Board of Veterans’ Appeals first makes a final decision in”, struck out “Such a fee may be charged, allowed, or paid in the case of services provided after such date only if an agent or attorney is retained with respect to such case before the end of the one-year period beginning on that date.” before “The limitation”, and inserted “fees charged, allowed, or paid for” after “does not apply to”.
+    [Pub. L. 109–461][/us/pl/109/461], § 101(c)(1), substituted “a notice of disagreement is filed with respect to” for “the Board of Veterans’ Appeals first makes a final decision in”, struck out “Such a fee may be charged, allowed, or paid in the case of services provided after such date only if an agent or attorney is retained with respect to such case before the end of the one-year period beginning on that date.” before “The limitation”, and inserted “fees charged, allowed, or paid for” after “does not apply to”.
 
-    Subsec. (c)(2). [Pub. L. 109–461, § 101(d)][/us/pl/109/461/s101/d], substituted “after a notice of disagreement is filed with respect to the case” for “after the Board first makes a final decision in the case” and “with the Secretary pursuant to regulations prescribed by the Secretary” for “with the Board at such time as may be specified by the Board” and struck out at end: “The Board, upon its own motion or the request of either party, may review such a fee agreement and may order a reduction in the fee called for in the agreement if the Board finds that the fee is excessive or unreasonable. A finding or order of the Board under the preceding sentence may be reviewed by the United States Court of Appeals for Veterans Claims under [section 7263(d) of this title][/us/usc/t38/s7263/d].”
+    Subsec. (c)(2). [Pub. L. 109–461][/us/pl/109/461], § 101(d), substituted “after a notice of disagreement is filed with respect to the case” for “after the Board first makes a final decision in the case” and “with the Secretary pursuant to regulations prescribed by the Secretary” for “with the Board at such time as may be specified by the Board” and struck out at end: “The Board, upon its own motion or the request of either party, may review such a fee agreement and may order a reduction in the fee called for in the agreement if the Board finds that the fee is excessive or unreasonable. A finding or order of the Board under the preceding sentence may be reviewed by the United States Court of Appeals for Veterans Claims under [section 7263(d) of this title][/us/usc/t38/s7263/d].”
 
-    Subsec. (c)(3), (4). [Pub. L. 109–461, § 101(e)(2)][/us/pl/109/461/s101/e/2], (3), added par. (3) and redesignated former par. (3) as (4).
+    Subsec. (c)(3), (4). [Pub. L. 109–461][/us/pl/109/461], § 101(e)(2), (3), added par. (3) and redesignated former par. (3) as (4).
 
-    Subsec. (d). [Pub. L. 109–461, § 101(f)(1)][/us/pl/109/461/s101/f/1], inserted heading.
+    Subsec. (d). [Pub. L. 109–461][/us/pl/109/461], § 101(f)(1), inserted heading.
 
-    Subsec. (d)(1). [Pub. L. 109–461, § 101(f)(2)][/us/pl/109/461/s101/f/2], (3), inserted “agent or” before “attorney” in two places and struck out “of this subsection” after “paragraph (2)”.
+    Subsec. (d)(1). [Pub. L. 109–461][/us/pl/109/461], § 101(f)(2), (3), inserted “agent or” before “attorney” in two places and struck out “of this subsection” after “paragraph (2)”.
 
-    Subsec. (d)(2)(A). [Pub. L. 109–461, § 101(f)(2)][/us/pl/109/461/s101/f/2], inserted “agent or” before “attorney” in introductory provisions and in cl. (i).
+    Subsec. (d)(2)(A). [Pub. L. 109–461][/us/pl/109/461], § 101(f)(2), inserted “agent or” before “attorney” in introductory provisions and in cl. (i).
 
-    Subsec. (d)(2)(B). [Pub. L. 109–461, § 101(f)(4)][/us/pl/109/461/s101/f/4], struck out “of this paragraph” after “subparagraph (A)”.
+    Subsec. (d)(2)(B). [Pub. L. 109–461][/us/pl/109/461], § 101(f)(4), struck out “of this paragraph” after “subparagraph (A)”.
 
-    Subsec. (d)(3). [Pub. L. 109–461, § 101(f)(5)][/us/pl/109/461/s101/f/5], substituted “fee to an agent or attorney” for “attorneys’ fee” and struck out “of this subsection” after “paragraph (1)”.
+    Subsec. (d)(3). [Pub. L. 109–461][/us/pl/109/461], § 101(f)(5), substituted “fee to an agent or attorney” for “attorneys’ fee” and struck out “of this subsection” after “paragraph (1)”.
 
     1998—Subsecs. (c)(2), (d)(3). [Pub. L. 105–368][/us/pl/105/368] substituted “Court of Appeals for Veterans Claims” for “Court of Veterans Appeals” wherever appearing.
 
     1994—Subsec. (d)(2)(A). [Pub. L. 103–446][/us/pl/103/446] amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “A fee agreement referred to in paragraph (1) of this subsection is one under which (i) the amount of the fee payable to the attorney is to be paid to the attorney by the Secretary directly from any past-due benefits awarded on the basis of the claim, and (ii) the amount of the fee is contingent on whether or not the matter is resolved in a manner favorable to the claimant.”
 
-    1992—Subsec. (c)(1). [Pub. L. 102–405, § 303(a)(1)][/us/pl/102/405/s303/a/1], substituted “Except as provided in paragraph (3), in” for “In”.
+    1992—Subsec. (c)(1). [Pub. L. 102–405][/us/pl/102/405], § 303(a)(1), substituted “Except as provided in paragraph (3), in” for “In”.
 
-    Subsec. (c)(3). [Pub. L. 102–405, § 303(a)(2)][/us/pl/102/405/s303/a/2], added par. (3).
+    Subsec. (c)(3). [Pub. L. 102–405][/us/pl/102/405], § 303(a)(2), added par. (3).
 
-    1991—[Pub. L. 102–40, § 402(b)(1)][/us/pl/102/40/s402/b/1], renumbered [section 3404 of this title][/us/usc/t38/s3404] as this section.
+    1991—[Pub. L. 102–40][/us/pl/102/40], § 402(b)(1), renumbered [section 3404 of this title][/us/usc/t38/s3404] as this section.
 
-    Subsec. (a). [Pub. L. 102–83, § 4(b)(1)][/us/pl/102/83/s4/b/1], (2)(E), substituted “Secretary” for “Administrator” in two places.
+    Subsec. (a). [Pub. L. 102–83][/us/pl/102/83], § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in two places.
 
-    [Pub. L. 102–83, § 4(a)(1)][/us/pl/102/83/s4/a/1], substituted “administered by the Secretary” for “administered by the Veterans’ Administration”.
+    [Pub. L. 102–83][/us/pl/102/83], § 4(a)(1), substituted “administered by the Secretary” for “administered by the Veterans’ Administration”.
 
-    Subsec. (b). [Pub. L. 102–83, § 4(b)(1)][/us/pl/102/83/s4/b/1], (2)(E), substituted “Secretary” for “Administrator” in two places in introductory provisions.
+    Subsec. (b). [Pub. L. 102–83][/us/pl/102/83], § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in two places in introductory provisions.
 
-    [Pub. L. 102–83, § 4(a)(3)][/us/pl/102/83/s4/a/3], (4), substituted “Department” for “Veterans’ Administration” in introductory provisions and in par. (4).
+    [Pub. L. 102–83][/us/pl/102/83], § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration” in introductory provisions and in par. (4).
 
-    [Pub. L. 102–83, § 4(a)(1)][/us/pl/102/83/s4/a/1], substituted “administered by the Secretary” for “administered by the Veterans’ Administration” in par. (4).
+    [Pub. L. 102–83][/us/pl/102/83], § 4(a)(1), substituted “administered by the Secretary” for “administered by the Veterans’ Administration” in par. (4).
 
-    Subsec. (c)(1). [Pub. L. 102–83, § 4(a)(3)][/us/pl/102/83/s4/a/3], (4), substituted “Department” for “Veterans’ Administration”.
+    Subsec. (c)(1). [Pub. L. 102–83][/us/pl/102/83], § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration”.
 
-    [Pub. L. 102–83, § 4(a)(1)][/us/pl/102/83/s4/a/1], substituted “administered by the Secretary” for “administered by the Veterans’ Administration”.
+    [Pub. L. 102–83][/us/pl/102/83], § 4(a)(1), substituted “administered by the Secretary” for “administered by the Veterans’ Administration”.
 
-    Subsec. (c)(2). [Pub. L. 102–83, § 4(a)(3)][/us/pl/102/83/s4/a/3], (4), substituted “Department” for “Veterans’ Administration”.
+    Subsec. (c)(2). [Pub. L. 102–83][/us/pl/102/83], § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration”.
 
-    [Pub. L. 102–40, § 402(d)(1)][/us/pl/102/40/s402/d/1], substituted “7263(d)” for “4063(d)”.
+    [Pub. L. 102–40][/us/pl/102/40], § 402(d)(1), substituted “7263(d)” for “4063(d)”.
 
-    Subsec. (d)(2)(A), (3). [Pub. L. 102–83, § 4(b)(1)][/us/pl/102/83/s4/b/1], (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
+    Subsec. (d)(2)(A), (3). [Pub. L. 102–83][/us/pl/102/83], § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
 
     1988—Subsecs. (c), (d). [Pub. L. 100–687][/us/pl/100/687] added subsecs. (c) and (d) and struck out former subsec. (c) which read as follows: “The Administrator shall determine and pay fees to agents or attorneys recognized under this section in allowed claims for monetary benefits under laws administered by the Veterans’ Administration. Such fees—
 
@@ -177,11 +177,11 @@
 
  __Effective Date of 2006 Amendment__ 
 
-[Pub. L. 109–461, title I, § 101(h)][/us/pl/109/461/s101/h], Dec. 22, 2006, [120 Stat. 3408][/us/stat/120/3408], provided that: 
+[Pub. L. 109–461, title I][/us/pl/109/461/tI], § 101(h), Dec. 22, 2006, [120 Stat. 3408][/us/stat/120/3408], provided that: 
 
 > “The amendments made by subsections (c)(1) and (d) \[amending this section\] shall take effect on the date that is 180 days after the date of the enactment of this Act \[Dec. 22, 2006\] and shall apply with respect to services of agents and attorneys that are provided with respect to cases in which notices of disagreement are filed on or after that date.”
 
-[Pub. L. 109–461, title I, § 101(i)][/us/pl/109/461/s101/i], Dec. 22, 2006, [120 Stat. 3408][/us/stat/120/3408], provided that: 
+[Pub. L. 109–461, title I][/us/pl/109/461/tI], § 101(i), Dec. 22, 2006, [120 Stat. 3408][/us/stat/120/3408], provided that: 
 
 > “No assessments on fees may be collected under paragraph (6) of [section 5904(a) of title 38][/us/usc/t38/s5904/a], United States Code (as added by subsection (a)(1)(D) of this section), until the date on which the Secretary of Veterans Affairs prescribes the regulations \[regulations prescribed effective June 23, 2008, see 73 F.R. 29851\] required by the amendments made by this section \[amending this section and sections 5902, 5903, and 5905 of this title\].”
 
@@ -191,13 +191,13 @@
 
  __Effective Date of 1994 Amendment__ 
 
-[Pub. L. 103–446, title V, § 504(b)][/us/pl/103/446/s504/b], Nov. 2, 1994, [108 Stat. 4664][/us/stat/108/4664], provided that: 
+[Pub. L. 103–446, title V][/us/pl/103/446/tV], § 504(b), Nov. 2, 1994, [108 Stat. 4664][/us/stat/108/4664], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply with respect to fee agreements entered into on or after the date of the enactment of this Act \[Nov. 2, 1994\].”
 
  __Effective Date of 1992 Amendment__ 
 
-[Pub. L. 102–405, title III, § 303(b)][/us/pl/102/405/s303/b], Oct. 9, 1992, [106 Stat. 1985][/us/stat/106/1985], provided that: 
+[Pub. L. 102–405, title III][/us/pl/102/405/tIII], § 303(b), Oct. 9, 1992, [106 Stat. 1985][/us/stat/106/1985], provided that: 
 
 > “Paragraph (3) \[now (4)\] of [section 5904(c) of title 38][/us/usc/t38/s5904/c], United States Code, as added by subsection (a), shall apply with respect to services of agents and attorneys provided after the date of the enactment of this Act \[Oct. 9, 1992\].”
 
@@ -211,7 +211,7 @@
 
  __Applicability to Attorneys’ Fees__ 
 
-    [Pub. L. 100–687, title IV, § 403][/us/pl/100/687/s403], Nov. 18, 1988, [102 Stat. 4122][/us/stat/102/4122], which provided that the amendment to subsec. (c) of this section by [section 104(a) of Pub. L. 100–687][/us/pl/100/687/s104/a] applied only to services of agents and attorneys in cases in which a notice of disagreement was filed with the Department of Veterans Affairs on or after Nov. 18, 1988, was repealed by [Pub. L. 107–103, title VI, § 603(b)][/us/pl/107/103/s603/b], Dec. 27, 2001, [115 Stat. 999][/us/stat/115/999].
+    [Pub. L. 100–687, title IV][/us/pl/100/687/tIV], § 403, Nov. 18, 1988, [102 Stat. 4122][/us/stat/102/4122], which provided that the amendment to subsec. (c) of this section by [section 104(a) of Pub. L. 100–687][/us/pl/100/687/s104/a] applied only to services of agents and attorneys in cases in which a notice of disagreement was filed with the Department of Veterans Affairs on or after Nov. 18, 1988, was repealed by [Pub. L. 107–103, title VI][/us/pl/107/103/tVI], § 603(b), Dec. 27, 2001, [115 Stat. 999][/us/stat/115/999].
 
     \[Repeal of [section 403 of Pub. L. 100–687][/us/pl/100/687/s403], formerly set out above, applicable to any appeal filed with the United States Court of Appeals for Veterans Claims on or after Dec. 27, 2001, or before that date but in which a final decision has not been made under [section 7291 of this title][/us/usc/t38/s7291] as of that date, see [section 603(d) of Pub. L. 107–103][/us/pl/107/103/s603/d], set out as a note under [section 7251 of this title][/us/usc/t38/s7251].\]
 
@@ -225,66 +225,66 @@
 [/us/usc/t38/s7104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7104
 [/us/pl/85/857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F857
 [/us/stat/72/1238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1238
-[/us/pl/99/576/s701/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2Fs701%2F80
+[/us/pl/99/576/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2FtVII
 [/us/stat/100/3298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3298
-[/us/pl/100/687/s104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F687%2Fs104%2Fa
+[/us/pl/100/687/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F687%2FdA%2FtI
 [/us/stat/102/4108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4108
-[/us/pl/102/40/s402/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs402%2Fb%2F1
+[/us/pl/102/40/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2FtIV
 [/us/stat/105/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F238
-[/us/pl/102/83/s4/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fa%2F1
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/403-405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F403-405
-[/us/pl/102/405/s303/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405%2Fs303%2Fa
+[/us/pl/102/405/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405%2FtIII
 [/us/stat/106/1985]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1985
-[/us/pl/103/446/s504/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2Fs504%2Fa
+[/us/pl/103/446/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2FtV
 [/us/stat/108/4663]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4663
-[/us/pl/105/368/s512/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2Fs512%2Fa%2F1
+[/us/pl/105/368/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2FtV
 [/us/stat/112/3341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3341
-[/us/pl/109/461/s101/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461%2Fs101%2Fa%2F1
+[/us/pl/109/461/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461%2FtI
 [/us/stat/120/3405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3405
-[/us/pl/109/461/s101/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461%2Fs101%2Fa%2F1%2FA
-[/us/pl/109/461/s101/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461%2Fs101%2Fa%2F1%2FA
-[/us/pl/109/461/s101/a/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461%2Fs101%2Fa%2F1%2FD
-[/us/pl/109/461/s101/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461%2Fs101%2Fb%2F1
-[/us/pl/109/461/s101/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461%2Fs101%2Fb%2F2
-[/us/pl/109/461/s101/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461%2Fs101%2Fe%2F1
-[/us/pl/109/461/s101/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461%2Fs101%2Fc%2F1
-[/us/pl/109/461/s101/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461%2Fs101%2Fd
+[/us/pl/109/461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461
+[/us/pl/109/461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461
+[/us/pl/109/461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461
+[/us/pl/109/461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461
+[/us/pl/109/461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461
+[/us/pl/109/461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461
+[/us/pl/109/461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461
+[/us/pl/109/461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461
 [/us/usc/t38/s7263/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7263%2Fd
-[/us/pl/109/461/s101/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461%2Fs101%2Fe%2F2
-[/us/pl/109/461/s101/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461%2Fs101%2Ff%2F1
-[/us/pl/109/461/s101/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461%2Fs101%2Ff%2F2
-[/us/pl/109/461/s101/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461%2Fs101%2Ff%2F2
-[/us/pl/109/461/s101/f/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461%2Fs101%2Ff%2F4
-[/us/pl/109/461/s101/f/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461%2Fs101%2Ff%2F5
+[/us/pl/109/461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461
+[/us/pl/109/461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461
+[/us/pl/109/461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461
+[/us/pl/109/461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461
+[/us/pl/109/461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461
+[/us/pl/109/461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461
 [/us/pl/105/368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368
 [/us/pl/103/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446
-[/us/pl/102/405/s303/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405%2Fs303%2Fa%2F1
-[/us/pl/102/405/s303/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405%2Fs303%2Fa%2F2
-[/us/pl/102/40/s402/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs402%2Fb%2F1
+[/us/pl/102/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405
+[/us/pl/102/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405
+[/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40
 [/us/usc/t38/s3404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3404
-[/us/pl/102/83/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fb%2F1
-[/us/pl/102/83/s4/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fa%2F1
-[/us/pl/102/83/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fb%2F1
-[/us/pl/102/83/s4/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fa%2F3
-[/us/pl/102/83/s4/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fa%2F1
-[/us/pl/102/83/s4/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fa%2F3
-[/us/pl/102/83/s4/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fa%2F1
-[/us/pl/102/83/s4/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fa%2F3
-[/us/pl/102/40/s402/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs402%2Fd%2F1
-[/us/pl/102/83/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fb%2F1
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/pl/100/687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F687
 [/us/pl/99/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576
-[/us/pl/109/461/s101/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461%2Fs101%2Fh
+[/us/pl/109/461/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461%2FtI
 [/us/stat/120/3408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3408
-[/us/pl/109/461/s101/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461%2Fs101%2Fi
+[/us/pl/109/461/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461%2FtI
 [/us/stat/120/3408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3408
 [/us/usc/t38/s5904/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs5904%2Fa
 [/us/pl/105/368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368
 [/us/pl/105/368/s513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2Fs513
 [/us/usc/t38/s7251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7251
-[/us/pl/103/446/s504/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2Fs504%2Fb
+[/us/pl/103/446/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2FtV
 [/us/stat/108/4664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4664
-[/us/pl/102/405/s303/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405%2Fs303%2Fb
+[/us/pl/102/405/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405%2FtIII
 [/us/stat/106/1985]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1985
 [/us/usc/t38/s5904/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs5904%2Fc
 [/us/pl/100/687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F687
@@ -293,10 +293,10 @@
 [/us/usc/t28/s2412/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2412%2Fd
 [/us/pl/102/572/s506/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2Fs506%2Fc
 [/us/usc/t28/s2412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2412
-[/us/pl/100/687/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F687%2Fs403
+[/us/pl/100/687/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F687%2FtIV
 [/us/stat/102/4122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4122
 [/us/pl/100/687/s104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F687%2Fs104%2Fa
-[/us/pl/107/103/s603/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F103%2Fs603%2Fb
+[/us/pl/107/103/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F103%2FtVI
 [/us/stat/115/999]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F999
 [/us/pl/100/687/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F687%2Fs403
 [/us/usc/t38/s7291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7291

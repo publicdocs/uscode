@@ -37,7 +37,7 @@
 
     Benefits and assistance under this chapter by reason of this section shall be provided in accordance with such regulations as the Secretary may prescribe.
 
-(Added [Pub. L. 110–289, div. B, title VI, § 2602(a)][/us/pl/110/289/s2602/a], July 30, 2008, [122 Stat. 2858][/us/stat/122/2858].)
+(Added [Pub. L. 110–289, div. B, title VI][/us/pl/110/289/dB/tVI], § 2602(a), July 30, 2008, [122 Stat. 2858][/us/stat/122/2858].)
 
 ----------
 
@@ -47,7 +47,7 @@
 ----------
 
 [/us/usc/t38/s2106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs2106
-[/us/pl/110/289/s2602/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs2602%2Fa
+[/us/pl/110/289/dB/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2FdB%2FtVI
 [/us/stat/122/2858]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2858
 
 

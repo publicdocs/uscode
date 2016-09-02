@@ -45,7 +45,7 @@
 
         (6) Special incentive pay under paragraph (1) may not be awarded to an individual in an amount that would result in an aggregate amount of pay (including bonuses and awards) received by such individual in a year under this title that is greater than the annual pay of the President.
 
-(Added [Pub. L. 102–40, title I, § 103(a)][/us/pl/102/40/s103/a]\[(1)\], May 7, 1991, [105 Stat. 198][/us/stat/105/198]; amended [Pub. L. 102–405, title III, § 302(c)(1)][/us/pl/102/405/s302/c/1], Oct. 9, 1992, [106 Stat. 1984][/us/stat/106/1984]; [Pub. L. 111–163, title VI, § 601(e)][/us/pl/111/163/s601/e], May 5, 2010, [124 Stat. 1169][/us/stat/124/1169].)
+(Added [Pub. L. 102–40, title I][/us/pl/102/40/tI], § 103(a)\[(1)\], May 7, 1991, [105 Stat. 198][/us/stat/105/198]; amended [Pub. L. 102–405, title III][/us/pl/102/405/tIII], § 302(c)(1), Oct. 9, 1992, [106 Stat. 1984][/us/stat/106/1984]; [Pub. L. 111–163, title VI][/us/pl/111/163/tVI], § 601(e), May 5, 2010, [124 Stat. 1169][/us/stat/124/1169].)
 
  __Amendments__ 
 
@@ -61,11 +61,11 @@
 ----------
 
 [/us/usc/t38/s7401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7401
-[/us/pl/102/40/s103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs103%2Fa
+[/us/pl/102/40/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2FtI
 [/us/stat/105/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F198
-[/us/pl/102/405/s302/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405%2Fs302%2Fc%2F1
+[/us/pl/102/405/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405%2FtIII
 [/us/stat/106/1984]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1984
-[/us/pl/111/163/s601/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163%2Fs601%2Fe
+[/us/pl/111/163/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163%2FtVI
 [/us/stat/124/1169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1169
 [/us/pl/111/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163
 [/us/pl/102/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405

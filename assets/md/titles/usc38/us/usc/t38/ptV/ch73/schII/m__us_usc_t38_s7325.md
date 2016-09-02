@@ -91,7 +91,7 @@
 
         (3) There are authorized to be appropriated for the centers under this section $20,000,000 for each of fiscal years 2003 through 2007.
 
-(Added [Pub. L. 107–287, § 2(a)(1)][/us/pl/107/287/s2/a/1], Nov. 7, 2002, [116 Stat. 2024][/us/stat/116/2024]; amended [Pub. L. 110–387, title IX, § 901(a)(8)][/us/pl/110/387/s901/a/8], Oct. 10, 2008, [122 Stat. 4142][/us/stat/122/4142]; [Pub. L. 111–275, title X, § 1001(n)(2)][/us/pl/111/275/s1001/n/2], Oct. 13, 2010, [124 Stat. 2897][/us/stat/124/2897].)
+(Added [Pub. L. 107–287][/us/pl/107/287], § 2(a)(1), Nov. 7, 2002, [116 Stat. 2024][/us/stat/116/2024]; amended [Pub. L. 110–387, title IX][/us/pl/110/387/tIX], § 901(a)(8), Oct. 10, 2008, [122 Stat. 4142][/us/stat/122/4142]; [Pub. L. 111–275, title X][/us/pl/111/275/tX], § 1001(n)(2), Oct. 13, 2010, [124 Stat. 2897][/us/stat/124/2897].)
 
  __Amendments__ 
 
@@ -107,7 +107,7 @@
 
  __Peer Review for Designation of Centers__ 
 
-[Pub. L. 107–287, § 2(b)][/us/pl/107/287/s2/b], Nov. 7, 2002, [116 Stat. 2027][/us/stat/116/2027], provided that:
+[Pub. L. 107–287][/us/pl/107/287], § 2(b), Nov. 7, 2002, [116 Stat. 2027][/us/stat/116/2027], provided that:
 
 >     “(1) In order to assist the Secretary of Veterans Affairs and the Under Secretary of Veterans Affairs for Health in selecting sites for centers under [section 7325 of title 38][/us/usc/t38/s7325], United States Code, as added by subsection (a), the Under Secretary shall establish a peer review panel to assess the scientific and clinical merit of proposals that are submitted to the Secretary for the designation of such centers. The peer review panel shall be established in consultation with the Assistant Secretary of Veterans Affairs with responsibility for operations, preparedness, security, and law enforcement functions.
 
@@ -127,11 +127,11 @@
 [/us/usc/t42/s300hh–11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300hh%E2%80%9311
 [/us/usc/t38/s1785/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1785%2Fb
 [/us/usc/t42/s247d–6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs247d%E2%80%936%2Fa
-[/us/pl/107/287/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F287%2Fs2%2Fa%2F1
+[/us/pl/107/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F287
 [/us/stat/116/2024]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2024
-[/us/pl/110/387/s901/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F387%2Fs901%2Fa%2F8
+[/us/pl/110/387/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F387%2FtIX
 [/us/stat/122/4142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4142
-[/us/pl/111/275/s1001/n/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275%2Fs1001%2Fn%2F2
+[/us/pl/111/275/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275%2FtX
 [/us/stat/124/2897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2897
 [/us/pl/111/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275
 [/us/usc/t42/s300hh–11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300hh%E2%80%9311
@@ -142,7 +142,7 @@
 [/us/pl/109/417/s301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417%2Fs301%2Fb
 [/us/usc/t42/s300hh–11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300hh%E2%80%9311
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
-[/us/pl/107/287/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F287%2Fs2%2Fb
+[/us/pl/107/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F287
 [/us/stat/116/2027]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2027
 [/us/usc/t38/s7325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7325
 

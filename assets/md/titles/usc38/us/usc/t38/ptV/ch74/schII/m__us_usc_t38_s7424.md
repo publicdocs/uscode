@@ -29,7 +29,7 @@
 
         (2) Any such payment may be retained by such officers and employees to cover the cost of such expenses or shall be deposited to the credit of the appropriation from which the cost of such expenses is paid, as may be provided in such regulations.
 
-(Added [Pub. L. 102–40, title IV, § 401(b)(3)(B)][/us/pl/102/40/s401/b/3/B], May 7, 1991, [105 Stat. 230][/us/stat/105/230]; amended [Pub. L. 102–405, title III, § 302(c)(1)][/us/pl/102/405/s302/c/1], Oct. 9, 1992, [106 Stat. 1984][/us/stat/106/1984].)
+(Added [Pub. L. 102–40, title IV][/us/pl/102/40/tIV], § 401(b)(3)(B), May 7, 1991, [105 Stat. 230][/us/stat/105/230]; amended [Pub. L. 102–405, title III][/us/pl/102/405/tIII], § 302(c)(1), Oct. 9, 1992, [106 Stat. 1984][/us/stat/106/1984].)
 
  __Prior Provisions__ 
 
@@ -48,9 +48,9 @@
 
 [/us/usc/t38/s7401/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7401%2F1
 [/us/usc/t38/s7405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7405
-[/us/pl/102/40/s401/b/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs401%2Fb%2F3%2FB
+[/us/pl/102/40/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2FtIV
 [/us/stat/105/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F230
-[/us/pl/102/405/s302/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405%2Fs302%2Fc%2F1
+[/us/pl/102/405/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405%2FtIII
 [/us/stat/106/1984]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1984
 [/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40
 [/us/pl/102/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405

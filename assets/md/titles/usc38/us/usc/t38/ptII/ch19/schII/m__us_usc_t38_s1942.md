@@ -33,21 +33,21 @@
 
     (c) The Secretary shall, upon application made by the insured at the same time as the insured exchanges the term policy for an endowment policy issued under the provisions of subsection (b) of this section, and upon payment of such extra premium as the Secretary shall prescribe, include in such endowment policy a provision for waiver of premiums on the policy and on the provision during the total permanent disability of the insured, if such disability began after the date of such application and while the policy and the provision are in force by payment of premiums. The Secretary shall not grant waiver of any premium becoming due more than one year before receipt by the Secretary of claim for the same, except as provided in this subsection. Any premiums paid for months during which waiver is effective shall be refunded. The Secretary shall provide by regulations for examination or reexamination of an insured claiming waiver of premiums under this subsection, and may deny waiver for failure to cooperate. If it is found that an insured is no longer totally and permanently disabled, the waiver of premiums shall cease as of the date of such finding and the policy and provision may be continued by payment of premiums as provided therein. In any case in which the Secretary finds that the insured’s failure to make timely claim for waiver of premiums, or to submit satisfactory evidence of the existence or continuance of total permanent disability was due to circumstances beyond the insured’s control, the Secretary may grant waiver or continuance of waiver of premiums. If the insured dies without filing claim for waiver, the beneficiary, within one year after the death of the insured, or, if the beneficiary is insane or a minor, within one year after removal of such legal disability, may file claim for waiver with evidence of the insured’s right to waiver under this subsection. Policies containing a provision for waiver of premiums issued under this subsection may be separately classified for the purpose of dividend distribution from otherwise similar policies not containing such provision.
 
-([Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1158][/us/stat/72/1158], § 742; [Pub. L. 87–549][/us/pl/87/549], July 25, 1962, [76 Stat. 219][/us/stat/76/219]; [Pub. L. 99–576, title VII, § 701(29)][/us/pl/99/576/s701/29], Oct. 28, 1986, [100 Stat. 3292][/us/stat/100/3292]; renumbered § 1942 and amended [Pub. L. 102–83][/us/pl/102/83], §§ 4(a)(2)(C)(iii), (b)(1), (2)(E), 5(a), Aug. 6, 1991, [105 Stat. 404–406][/us/stat/105/404-406].)
+([Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1158][/us/stat/72/1158], § 742; [Pub. L. 87–549][/us/pl/87/549], July 25, 1962, [76 Stat. 219][/us/stat/76/219]; [Pub. L. 99–576, title VII][/us/pl/99/576/tVII], § 701(29), Oct. 28, 1986, [100 Stat. 3292][/us/stat/100/3292]; renumbered § 1942 and amended [Pub. L. 102–83][/us/pl/102/83], §§ 4(a)(2)(C)(iii), (b)(1), (2)(E), 5(a), Aug. 6, 1991, [105 Stat. 404–406][/us/stat/105/404-406].)
 
  __Amendments__ 
 
-    1991—[Pub. L. 102–83, § 5(a)][/us/pl/102/83/s5/a], renumbered [section 742 of this title][/us/usc/t38/s742] as this section.
+    1991—[Pub. L. 102–83][/us/pl/102/83], § 5(a), renumbered [section 742 of this title][/us/usc/t38/s742] as this section.
 
-    Subsecs. (a), (b). [Pub. L. 102–83, § 4(b)(1)][/us/pl/102/83/s4/b/1], (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
+    Subsecs. (a), (b). [Pub. L. 102–83][/us/pl/102/83], § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
 
-    Subsec. (c). [Pub. L. 102–83, § 4(b)(1)][/us/pl/102/83/s4/b/1], (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
+    Subsec. (c). [Pub. L. 102–83][/us/pl/102/83], § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
 
-    [Pub. L. 102–83, § 4(a)(2)(C)(iii)][/us/pl/102/83/s4/a/2/C/iii], substituted “by the Secretary” for “in the Veterans’ Administration”.
+    [Pub. L. 102–83][/us/pl/102/83], § 4(a)(2)(C)(iii), substituted “by the Secretary” for “in the Veterans’ Administration”.
 
-    1986—Subsec. (b). [Pub. L. 99–576, § 701(29)(A)][/us/pl/99/576/s701/29/A], substituted “the insured’s” for “his” and “the insured” for “he”.
+    1986—Subsec. (b). [Pub. L. 99–576][/us/pl/99/576], § 701(29)(A), substituted “the insured’s” for “his” and “the insured” for “he”.
 
-    Subsec. (c). [Pub. L. 99–576, § 701(29)(B)][/us/pl/99/576/s701/29/B], substituted “the insured” for “he”, “the term” for “his term”, and “the insured’s control” for “his control”, and struck out “his failure” before “to submit”.
+    Subsec. (c). [Pub. L. 99–576][/us/pl/99/576], § 701(29)(B), substituted “the insured” for “he”, “the term” for “his term”, and “the insured’s control” for “his control”, and struck out “his failure” before “to submit”.
 
     1962—[Pub. L. 87–549][/us/pl/87/549] designated existing provisions as subsec. (a) and added subsecs. (b) and (c).
 
@@ -62,17 +62,17 @@
 [/us/stat/72/1158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1158
 [/us/pl/87/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F549
 [/us/stat/76/219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F219
-[/us/pl/99/576/s701/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2Fs701%2F29
+[/us/pl/99/576/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2FtVII
 [/us/stat/100/3292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3292
 [/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/404-406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F404-406
-[/us/pl/102/83/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fa
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/usc/t38/s742]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs742
-[/us/pl/102/83/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fb%2F1
-[/us/pl/102/83/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fb%2F1
-[/us/pl/102/83/s4/a/2/C/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fa%2F2%2FC%2Fiii
-[/us/pl/99/576/s701/29/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2Fs701%2F29%2FA
-[/us/pl/99/576/s701/29/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2Fs701%2F29%2FB
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/99/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576
+[/us/pl/99/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576
 [/us/pl/87/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F549
 
 

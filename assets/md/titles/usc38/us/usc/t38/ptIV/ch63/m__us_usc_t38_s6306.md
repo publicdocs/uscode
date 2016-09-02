@@ -27,7 +27,7 @@
 
     (f) In carrying out this chapter, the Secretary shall conduct and provide for studies, in consultation with appropriate Federal departments and agencies, to determine the most effective program design to carry out the purposes of this chapter.
 
-(Added [Pub. L. 109–233, title IV, § 402(a)][/us/pl/109/233/s402/a], June 15, 2006, [120 Stat. 409][/us/stat/120/409].)
+(Added [Pub. L. 109–233, title IV][/us/pl/109/233/tIV], § 402(a), June 15, 2006, [120 Stat. 409][/us/stat/120/409].)
 
  __Prior Provisions__ 
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/109/233/s402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F233%2Fs402%2Fa
+[/us/pl/109/233/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F233%2FtIV
 [/us/stat/120/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F409
 [/us/usc/t38/s7725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7725
 [/us/pl/109/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F233

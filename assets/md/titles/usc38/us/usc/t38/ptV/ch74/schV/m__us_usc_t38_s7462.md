@@ -103,7 +103,7 @@
 
             (C) unsupported by substantial evidence.
 
-(Added [Pub. L. 102–40, title II, § 203(a)][/us/pl/102/40/s203/a], May 7, 1991, [105 Stat. 203][/us/stat/105/203]; amended [Pub. L. 102–405, title III, § 302(c)(1)][/us/pl/102/405/s302/c/1], Oct. 9, 1992, [106 Stat. 1984][/us/stat/106/1984].)
+(Added [Pub. L. 102–40, title II][/us/pl/102/40/tII], § 203(a), May 7, 1991, [105 Stat. 203][/us/stat/105/203]; amended [Pub. L. 102–405, title III][/us/pl/102/405/tIII], § 302(c)(1), Oct. 9, 1992, [106 Stat. 1984][/us/stat/106/1984].)
 
  __References in Text__ 
 
@@ -125,9 +125,9 @@
 ----------
 
 [/us/usc/t38/s7464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7464
-[/us/pl/102/40/s203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs203%2Fa
+[/us/pl/102/40/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2FtII
 [/us/stat/105/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F203
-[/us/pl/102/405/s302/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405%2Fs302%2Fc%2F1
+[/us/pl/102/405/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405%2FtIII
 [/us/stat/106/1984]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1984
 [/us/pl/93/112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112
 [/us/stat/87/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F355

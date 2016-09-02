@@ -39,11 +39,11 @@
 
         (2) for an academic year beginning on any subsequent August 1, the amount for the previous academic year beginning on August 1 under this subsection, as increased by the percentage increase equal to the most recent percentage increase determined under section 3015(h).
 
-(Added [Pub. L. 111–377, title I, § 108(a)(1)][/us/pl/111/377/s108/a/1], Jan. 4, 2011, [124 Stat. 4118][/us/stat/124/4118].)
+(Added [Pub. L. 111–377, title I][/us/pl/111/377/tI], § 108(a)(1), Jan. 4, 2011, [124 Stat. 4118][/us/stat/124/4118].)
 
  __Effective Date__ 
 
-[Pub. L. 111–377, title I, § 108(b)][/us/pl/111/377/s108/b], Jan. 4, 2011, [124 Stat. 4119][/us/stat/124/4119], provided that: 
+[Pub. L. 111–377, title I][/us/pl/111/377/tI], § 108(b), Jan. 4, 2011, [124 Stat. 4119][/us/stat/124/4119], provided that: 
 
 > “The amendments made by this section \[enacting this section\] shall take effect on August 1, 2011, and shall apply with respect to national tests taken on or after that date.”
 
@@ -54,9 +54,9 @@
 ----------
 ----------
 
-[/us/pl/111/377/s108/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F377%2Fs108%2Fa%2F1
+[/us/pl/111/377/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F377%2FtI
 [/us/stat/124/4118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4118
-[/us/pl/111/377/s108/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F377%2Fs108%2Fb
+[/us/pl/111/377/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F377%2FtI
 [/us/stat/124/4119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4119
 
 

@@ -131,7 +131,7 @@
 
     (h) In any determination of a person’s entitlement to protection under this chapter, the timing, frequency, and duration of the person’s training or service, or the nature of such training or service (including voluntary service) in the uniformed services, shall not be a basis for denying protection of this chapter if the service does not exceed the limitations set forth in subsection (c) and the notice requirements established in subsection (a)(1) and the notification requirements established in subsection (e) are met.
 
-(Added [Pub. L. 103–353, § 2(a)][/us/pl/103/353/s2/a], Oct. 13, 1994, [108 Stat. 3153][/us/stat/108/3153]; amended [Pub. L. 104–275, title III, § 311(4)][/us/pl/104/275/s311/4], Oct. 9, 1996, [110 Stat. 3334][/us/stat/110/3334]; [Pub. L. 112–81, div. A, title V, § 575][/us/pl/112/81/s575], Dec. 31, 2011, [125 Stat. 1428][/us/stat/125/1428]; [Pub. L. 114–92, div. A, title V, § 562][/us/pl/114/92/s562], Nov. 25, 2015, [129 Stat. 829][/us/stat/129/829].)
+(Added [Pub. L. 103–353][/us/pl/103/353], § 2(a), Oct. 13, 1994, [108 Stat. 3153][/us/stat/108/3153]; amended [Pub. L. 104–275, title III][/us/pl/104/275/tIII], § 311(4), Oct. 9, 1996, [110 Stat. 3334][/us/stat/110/3334]; [Pub. L. 112–81, div. A, title V][/us/pl/112/81/dA/tV], § 575, Dec. 31, 2011, [125 Stat. 1428][/us/stat/125/1428]; [Pub. L. 114–92, div. A, title V][/us/pl/114/92/dA/tV], § 562, Nov. 25, 2015, [129 Stat. 829][/us/stat/129/829].)
 
  __Prior Provisions__ 
 
@@ -143,19 +143,19 @@
 
     2011—Subsec. (c)(4)(F). [Pub. L. 112–81][/us/pl/112/81] added subpar. (F).
 
-    1996—Subsec. (a). [Pub. L. 104–275, § 311(4)(A)][/us/pl/104/275/s311/4/A], substituted “whose absence from a position of employment is necessitated” for “who is absent from a position of employment”.
+    1996—Subsec. (a). [Pub. L. 104–275][/us/pl/104/275], § 311(4)(A), substituted “whose absence from a position of employment is necessitated” for “who is absent from a position of employment”.
 
-    Subsec. (c)(3). [Pub. L. 104–275, § 311(4)(B)(i)][/us/pl/104/275/s311/4/B/i], substituted “section 10147” for “section 270”.
+    Subsec. (c)(3). [Pub. L. 104–275][/us/pl/104/275], § 311(4)(B)(i), substituted “section 10147” for “section 270”.
 
-    Subsec. (c)(4)(A). [Pub. L. 104–275, § 311(4)(B)(ii)(I)][/us/pl/104/275/s311/4/B/ii/I], substituted “section 688, 12301(a), 12301(g), 12302, 12304, or 12305” for “section 672(a), 672(g), 673, 673b, 673c, or 688”.
+    Subsec. (c)(4)(A). [Pub. L. 104–275][/us/pl/104/275], § 311(4)(B)(ii)(I), substituted “section 688, 12301(a), 12301(g), 12302, 12304, or 12305” for “section 672(a), 672(g), 673, 673b, 673c, or 688”.
 
-    Subsec. (c)(4)(B). [Pub. L. 104–275, § 311(4)(B)(ii)(II)][/us/pl/104/275/s311/4/B/ii/II], amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “ordered to or retained on active duty (other than for training) under any provision of law during a war or during a national emergency declared by the President or the Congress;”.
+    Subsec. (c)(4)(B). [Pub. L. 104–275][/us/pl/104/275], § 311(4)(B)(ii)(II), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “ordered to or retained on active duty (other than for training) under any provision of law during a war or during a national emergency declared by the President or the Congress;”.
 
-    Subsec. (c)(4)(C). [Pub. L. 104–275, § 311(4)(B)(ii)(III)][/us/pl/104/275/s311/4/B/ii/III], substituted “section 12304” for “section 673b”.
+    Subsec. (c)(4)(C). [Pub. L. 104–275][/us/pl/104/275], § 311(4)(B)(ii)(III), substituted “section 12304” for “section 673b”.
 
-    Subsec. (c)(4)(E). [Pub. L. 104–275, § 311(4)(B)(ii)(IV)][/us/pl/104/275/s311/4/B/ii/IV], substituted “section 12406” for “section 3500 or 8500”.
+    Subsec. (c)(4)(E). [Pub. L. 104–275][/us/pl/104/275], § 311(4)(B)(ii)(IV), substituted “section 12406” for “section 3500 or 8500”.
 
-    Subsec. (d)(2)(C). [Pub. L. 104–275, § 311(4)(C)][/us/pl/104/275/s311/4/C], substituted “is for a brief, nonrecurrent period and there is no reasonable expectation” for “is brief or for a nonrecurrent period and without a reasonable expectation”.
+    Subsec. (d)(2)(C). [Pub. L. 104–275][/us/pl/104/275], § 311(4)(C), substituted “is for a brief, nonrecurrent period and there is no reasonable expectation” for “is brief or for a nonrecurrent period and without a reasonable expectation”.
 
  __Effective Date of 1996 Amendment__ 
 
@@ -176,24 +176,24 @@
 [/us/usc/t10/s12304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs12304
 [/us/usc/t10/s12406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs12406
 [/us/usc/t32/s502/f/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft32%2Fs502%2Ff%2F2%2FA
-[/us/pl/103/353/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F353%2Fs2%2Fa
+[/us/pl/103/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F353
 [/us/stat/108/3153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3153
-[/us/pl/104/275/s311/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275%2Fs311%2F4
+[/us/pl/104/275/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275%2FtIII
 [/us/stat/110/3334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3334
-[/us/pl/112/81/s575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs575
+[/us/pl/112/81/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtV
 [/us/stat/125/1428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1428
-[/us/pl/114/92/s562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs562
+[/us/pl/114/92/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtV
 [/us/stat/129/829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F829
 [/us/usc/t38/s7612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7612
 [/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
 [/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
-[/us/pl/104/275/s311/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275%2Fs311%2F4%2FA
-[/us/pl/104/275/s311/4/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275%2Fs311%2F4%2FB%2Fi
-[/us/pl/104/275/s311/4/B/ii/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275%2Fs311%2F4%2FB%2Fii%2FI
-[/us/pl/104/275/s311/4/B/ii/II]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275%2Fs311%2F4%2FB%2Fii%2FII
-[/us/pl/104/275/s311/4/B/ii/III]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275%2Fs311%2F4%2FB%2Fii%2FIII
-[/us/pl/104/275/s311/4/B/ii/IV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275%2Fs311%2F4%2FB%2Fii%2FIV
-[/us/pl/104/275/s311/4/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275%2Fs311%2F4%2FC
+[/us/pl/104/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275
+[/us/pl/104/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275
+[/us/pl/104/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275
+[/us/pl/104/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275
+[/us/pl/104/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275
+[/us/pl/104/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275
+[/us/pl/104/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275
 [/us/pl/104/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275
 [/us/pl/104/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275
 [/us/pl/104/275/s313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275%2Fs313

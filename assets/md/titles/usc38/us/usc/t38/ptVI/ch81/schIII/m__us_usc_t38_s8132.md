@@ -17,7 +17,7 @@
 
     The purpose of this subchapter is to assist the several States to construct State home facilities (or to acquire facilities to be used as State home facilities) for furnishing domiciliary or nursing home care to veterans, and to expand, remodel, or alter existing buildings for furnishing domiciliary, nursing home, adult day health, or hospital care to veterans in State homes.
 
-(Added [Pub. L. 88–450, § 4(a)][/us/pl/88/450/s4/a], Aug. 19, 1964, [78 Stat. 501][/us/stat/78/501], § 5032; amended [Pub. L. 94–581, title II, § 206(b)][/us/pl/94/581/s206/b], Oct. 21, 1976, [90 Stat. 2859][/us/stat/90/2859]; [Pub. L. 95–62, § 3(3)][/us/pl/95/62/s3/3], July 5, 1977, [91 Stat. 262][/us/stat/91/262]; [Pub. L. 98–528, title I, § 105(1)][/us/pl/98/528/s105/1], Oct. 19, 1984, [98 Stat. 2689][/us/stat/98/2689]; renumbered § 8132, [Pub. L. 102–40, title IV, § 402(b)(1)][/us/pl/102/40/s402/b/1], May 7, 1991, [105 Stat. 238][/us/stat/105/238]; [Pub. L. 104–262, title III, § 342(b)(2)][/us/pl/104/262/s342/b/2], Oct. 9, 1996, [110 Stat. 3206][/us/stat/110/3206].)
+(Added [Pub. L. 88–450][/us/pl/88/450], § 4(a), Aug. 19, 1964, [78 Stat. 501][/us/stat/78/501], § 5032; amended [Pub. L. 94–581, title II][/us/pl/94/581/tII], § 206(b), Oct. 21, 1976, [90 Stat. 2859][/us/stat/90/2859]; [Pub. L. 95–62][/us/pl/95/62], § 3(3), July 5, 1977, [91 Stat. 262][/us/stat/91/262]; [Pub. L. 98–528, title I][/us/pl/98/528/tI], § 105(1), Oct. 19, 1984, [98 Stat. 2689][/us/stat/98/2689]; renumbered § 8132, [Pub. L. 102–40, title IV][/us/pl/102/40/tIV], § 402(b)(1), May 7, 1991, [105 Stat. 238][/us/stat/105/238]; [Pub. L. 104–262, title III][/us/pl/104/262/tIII], § 342(b)(2), Oct. 9, 1996, [110 Stat. 3206][/us/stat/110/3206].)
 
  __Amendments__ 
 
@@ -46,17 +46,17 @@
 ----------
 ----------
 
-[/us/pl/88/450/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F450%2Fs4%2Fa
+[/us/pl/88/450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F450
 [/us/stat/78/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F501
-[/us/pl/94/581/s206/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F581%2Fs206%2Fb
+[/us/pl/94/581/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F581%2FtII
 [/us/stat/90/2859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2859
-[/us/pl/95/62/s3/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F62%2Fs3%2F3
+[/us/pl/95/62]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F62
 [/us/stat/91/262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F262
-[/us/pl/98/528/s105/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F528%2Fs105%2F1
+[/us/pl/98/528/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F528%2FtI
 [/us/stat/98/2689]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2689
-[/us/pl/102/40/s402/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs402%2Fb%2F1
+[/us/pl/102/40/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2FtIV
 [/us/stat/105/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F238
-[/us/pl/104/262/s342/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F262%2Fs342%2Fb%2F2
+[/us/pl/104/262/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F262%2FtIII
 [/us/stat/110/3206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3206
 [/us/pl/104/262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F262
 [/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40

@@ -45,7 +45,7 @@
 
     The Secretary shall prescribe regulations governing the exercise of the authority of the Secretary under this section.
 
-(Added [Pub. L. 107–287, § 4(a)(1)][/us/pl/107/287/s4/a/1], Nov. 7, 2002, [116 Stat. 2028][/us/stat/116/2028]; amended [Pub. L. 109–444, § 8(a)(2)][/us/pl/109/444/s8/a/2], Dec. 21, 2006, [120 Stat. 3313][/us/stat/120/3313]; [Pub. L. 109–461, title X][/us/pl/109/461], §§ 1004(a)(2), 1006(b), Dec. 22, 2006, [120 Stat. 3465][/us/stat/120/3465], 3468; [Pub. L. 111–275, title X, § 1001(c)(2)][/us/pl/111/275/s1001/c/2], Oct. 13, 2010, [124 Stat. 2896][/us/stat/124/2896].)
+(Added [Pub. L. 107–287][/us/pl/107/287], § 4(a)(1), Nov. 7, 2002, [116 Stat. 2028][/us/stat/116/2028]; amended [Pub. L. 109–444][/us/pl/109/444], § 8(a)(2), Dec. 21, 2006, [120 Stat. 3313][/us/stat/120/3313]; [Pub. L. 109–461, title X][/us/pl/109/461/tX], §§ 1004(a)(2), 1006(b), Dec. 22, 2006, [120 Stat. 3465][/us/stat/120/3465], 3468; [Pub. L. 111–275, title X][/us/pl/111/275/tX], § 1001(c)(2), Oct. 13, 2010, [124 Stat. 2896][/us/stat/124/2896].)
 
  __References in Text__ 
 
@@ -61,11 +61,11 @@
 
     2010—Subsec. (b)(2). [Pub. L. 111–275][/us/pl/111/275] substituted “section 2812 of the Public Health Service Act ([42 U.S.C. 300hh][/us/usc/t42/s300hh])” for “section 2811(b) of the Public Health Service Act ([42 U.S.C. 300hh–11(b)][/us/usc/t42/s300hh–11/b])” and struck out “paragraph (3)(A) of” before “that section”.
 
-    2006—Subsec. (b)(1). [Pub. L. 109–461, § 1006(b)][/us/pl/109/461/s1006/b], provided that as of the enactment of [Pub. L. 109–461][/us/pl/109/461], the amendments made by [Pub. L. 109–444][/us/pl/109/444] were deemed for all purposes not to have taken effect and that [Pub. L. 109–444][/us/pl/109/444] ceased to be in effect. See Amendment notes below and [section 1006(b) of Pub. L. 109–461][/us/pl/109/461/s1006/b], set out as a Coordination of Provisions With [Pub. L. 109–444][/us/pl/109/444] note under [section 101 of this title][/us/usc/t38/s101].
+    2006—Subsec. (b)(1). [Pub. L. 109–461][/us/pl/109/461], § 1006(b), provided that as of the enactment of [Pub. L. 109–461][/us/pl/109/461], the amendments made by [Pub. L. 109–444][/us/pl/109/444] were deemed for all purposes not to have taken effect and that [Pub. L. 109–444][/us/pl/109/444] ceased to be in effect. See Amendment notes below and [section 1006(b) of Pub. L. 109–461][/us/pl/109/461/s1006/b], set out as a Coordination of Provisions With [Pub. L. 109–444][/us/pl/109/444] note under [section 101 of this title][/us/usc/t38/s101].
 
-    [Pub. L. 109–461, § 1004(a)(2)][/us/pl/109/461/s1004/a/2], substituted “Robert T.” for “Robert B.”.
+    [Pub. L. 109–461][/us/pl/109/461], § 1004(a)(2), substituted “Robert T.” for “Robert B.”.
 
-    [Pub. L. 109–444][/us/pl/109/444], which substituted “Robert T.” for “Robert B.”, was terminated by [Pub. L. 109–461, § 1006(b)][/us/pl/109/461/s1006/b]. See Amendment notes above.
+    [Pub. L. 109–444][/us/pl/109/444], which substituted “Robert T.” for “Robert B.”, was terminated by [Pub. L. 109–461][/us/pl/109/461], § 1006(b). See Amendment notes above.
 
  __Transfer of Functions__ 
 
@@ -84,13 +84,13 @@
 [/us/usc/t42/s300hh]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300hh
 [/us/usc/t38/s1705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1705
 [/us/usc/t38/s1729A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1729A
-[/us/pl/107/287/s4/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F287%2Fs4%2Fa%2F1
+[/us/pl/107/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F287
 [/us/stat/116/2028]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2028
-[/us/pl/109/444/s8/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F444%2Fs8%2Fa%2F2
+[/us/pl/109/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F444
 [/us/stat/120/3313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3313
-[/us/pl/109/461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461
+[/us/pl/109/461/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461%2FtX
 [/us/stat/120/3465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3465
-[/us/pl/111/275/s1001/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275%2Fs1001%2Fc%2F2
+[/us/pl/111/275/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275%2FtX
 [/us/stat/124/2896]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2896
 [/us/pl/93/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288
 [/us/stat/88/143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F143
@@ -100,16 +100,16 @@
 [/us/pl/111/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275
 [/us/usc/t42/s300hh]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300hh
 [/us/usc/t42/s300hh–11/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300hh%E2%80%9311%2Fb
-[/us/pl/109/461/s1006/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461%2Fs1006%2Fb
+[/us/pl/109/461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461
 [/us/pl/109/461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461
 [/us/pl/109/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F444
 [/us/pl/109/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F444
 [/us/pl/109/461/s1006/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461%2Fs1006%2Fb
 [/us/pl/109/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F444
 [/us/usc/t38/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs101
-[/us/pl/109/461/s1004/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461%2Fs1004%2Fa%2F2
+[/us/pl/109/461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461
 [/us/pl/109/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F444
-[/us/pl/109/461/s1006/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461%2Fs1006%2Fb
+[/us/pl/109/461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461
 [/us/pl/109/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295
 [/us/usc/t42/s300hh–11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300hh%E2%80%9311
 [/us/pl/109/417/s301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417%2Fs301%2Fb

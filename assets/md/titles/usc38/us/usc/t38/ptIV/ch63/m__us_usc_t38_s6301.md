@@ -33,7 +33,7 @@
 
         (3) the term “eligible dependent” means a spouse, surviving spouse, child, or dependent parent of a person who served in the active military, naval, or air service.
 
-(Added [Pub. L. 109–233, title IV, § 402(a)][/us/pl/109/233/s402/a], June 15, 2006, [120 Stat. 407][/us/stat/120/407]; amended [Pub. L. 110–181, div. A, title XVII, § 1710][/us/pl/110/181/s1710], Jan. 28, 2008, [122 Stat. 494][/us/stat/122/494].)
+(Added [Pub. L. 109–233, title IV][/us/pl/109/233/tIV], § 402(a), June 15, 2006, [120 Stat. 407][/us/stat/120/407]; amended [Pub. L. 110–181, div. A, title XVII][/us/pl/110/181/dA/tXVII], § 1710, Jan. 28, 2008, [122 Stat. 494][/us/stat/122/494].)
 
  __Prior Provisions__ 
 
@@ -41,9 +41,9 @@
 
  __Amendments__ 
 
-    2008—Subsec. (a)(1). [Pub. L. 110–181, § 1710(a)][/us/pl/110/181/s1710/a], inserted “, or from a reserve component,” after ”active military, naval, or air service”.
+    2008—Subsec. (a)(1). [Pub. L. 110–181][/us/pl/110/181], § 1710(a), inserted “, or from a reserve component,” after ”active military, naval, or air service”.
 
-    Subsec. (b). [Pub. L. 110–181, § 1710(b)][/us/pl/110/181/s1710/b], added par. (1) and redesignated former pars. (1) and (2) as (2) and (3), respectively.
+    Subsec. (b). [Pub. L. 110–181][/us/pl/110/181], § 1710(b), added par. (1) and redesignated former pars. (1) and (2) as (2) and (3), respectively.
 
 ----------
 
@@ -52,13 +52,13 @@
 ----------
 ----------
 
-[/us/pl/109/233/s402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F233%2Fs402%2Fa
+[/us/pl/109/233/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F233%2FtIV
 [/us/stat/120/407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F407
-[/us/pl/110/181/s1710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1710
+[/us/pl/110/181/dA/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtXVII
 [/us/stat/122/494]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F494
 [/us/usc/t38/s7721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7721
 [/us/pl/109/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F233
-[/us/pl/110/181/s1710/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1710%2Fa
-[/us/pl/110/181/s1710/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1710%2Fb
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
 
 

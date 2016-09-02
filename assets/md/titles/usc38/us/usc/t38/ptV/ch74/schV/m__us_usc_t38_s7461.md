@@ -61,7 +61,7 @@
 
     (e) Whenever the Secretary proposes to prescribe regulations under this subchapter, the Secretary shall publish the proposed regulations in the Federal Register for notice-and-comment not less than 30 days before the day on which they take effect.
 
-(Added [Pub. L. 102–40, title II, § 203(a)][/us/pl/102/40/s203/a], May 7, 1991, [105 Stat. 202][/us/stat/105/202]; amended [Pub. L. 102–405, title III, § 302(c)(1)][/us/pl/102/405/s302/c/1], Oct. 9, 1992, [106 Stat. 1984][/us/stat/106/1984].)
+(Added [Pub. L. 102–40, title II][/us/pl/102/40/tII], § 203(a), May 7, 1991, [105 Stat. 202][/us/stat/105/202]; amended [Pub. L. 102–405, title III][/us/pl/102/405/tIII], § 302(c)(1), Oct. 9, 1992, [106 Stat. 1984][/us/stat/106/1984].)
 
  __Prior Provisions__ 
 
@@ -73,7 +73,7 @@
 
  __Regulations__ 
 
-[Pub. L. 102–40, title II, § 204][/us/pl/102/40/s204], May 7, 1991, [105 Stat. 207][/us/stat/105/207], provided that: 
+[Pub. L. 102–40, title II][/us/pl/102/40/tII], § 204, May 7, 1991, [105 Stat. 207][/us/stat/105/207], provided that: 
 
 > “The Secretary of Veterans Affairs shall prescribe regulations under subchapter V of chapter 74 of title 38, United States Code (as added by section 203), not later than 180 days after the date of the enactment of this Act \[May 7, 1991\]. Such regulations shall be published in the Federal Register for notice-and-comment not less than 30 days before the day on which they take effect.”
 
@@ -89,14 +89,14 @@
 [/us/usc/t38/s7463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7463
 [/us/usc/t38/s7401/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7401%2F1
 [/us/usc/t38/s7406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7406
-[/us/pl/102/40/s203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs203%2Fa
+[/us/pl/102/40/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2FtII
 [/us/stat/105/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F202
-[/us/pl/102/405/s302/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405%2Fs302%2Fc%2F1
+[/us/pl/102/405/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405%2FtIII
 [/us/stat/106/1984]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1984
 [/us/usc/t38/s4110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs4110
 [/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40
 [/us/pl/102/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405
-[/us/pl/102/40/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs204
+[/us/pl/102/40/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2FtII
 [/us/stat/105/207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F207
 
 

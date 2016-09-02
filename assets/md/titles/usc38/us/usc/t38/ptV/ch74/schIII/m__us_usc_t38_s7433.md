@@ -39,27 +39,27 @@
 
         (3) The first two annual reports under this subsection shall also include a comparison of staffing levels, contract expenditures, and average salaries of physicians and dentists in the Veterans Health Administration for the current fiscal year and for the fiscal year preceding the current fiscal year, set forth by facility and by specialty.
 
-(Added [Pub. L. 108–445, § 3(b)][/us/pl/108/445/s3/b], Dec. 3, 2004, [118 Stat. 2640][/us/stat/118/2640].)
+(Added [Pub. L. 108–445][/us/pl/108/445], § 3(b), Dec. 3, 2004, [118 Stat. 2640][/us/stat/118/2640].)
 
  __Prior Provisions__ 
 
     Prior sections 7433 to 7440 were omitted in the general amendment of this subchapter by [Pub. L. 108–445][/us/pl/108/445].
 
-    Section 7433, added [Pub. L. 102–40, title I, § 102][/us/pl/102/40/s102], May 7, 1991, [105 Stat. 191][/us/stat/105/191]; amended [Pub. L. 102–405, title III, § 302(c)(1)][/us/pl/102/405/s302/c/1], Oct. 9, 1992, [106 Stat. 1984][/us/stat/106/1984]; [Pub. L. 103–446, title XII, § 1201(e)(22)][/us/pl/103/446/s1201/e/22], Nov. 2, 1994, [108 Stat. 4686][/us/stat/108/4686], related to special pay for full-time physicians.
+    Section 7433, added [Pub. L. 102–40, title I][/us/pl/102/40/tI], § 102, May 7, 1991, [105 Stat. 191][/us/stat/105/191]; amended [Pub. L. 102–405, title III][/us/pl/102/405/tIII], § 302(c)(1), Oct. 9, 1992, [106 Stat. 1984][/us/stat/106/1984]; [Pub. L. 103–446, title XII][/us/pl/103/446/tXII], § 1201(e)(22), Nov. 2, 1994, [108 Stat. 4686][/us/stat/108/4686], related to special pay for full-time physicians.
 
-    Section 7434, added [Pub. L. 102–40, title I, § 102][/us/pl/102/40/s102], May 7, 1991, [105 Stat. 192][/us/stat/105/192], related to special pay of part-time physicians.
+    Section 7434, added [Pub. L. 102–40, title I][/us/pl/102/40/tI], § 102, May 7, 1991, [105 Stat. 192][/us/stat/105/192], related to special pay of part-time physicians.
 
-    Section 7435, added [Pub. L. 102–40, title I, § 102][/us/pl/102/40/s102], May 7, 1991, [105 Stat. 193][/us/stat/105/193]; amended [Pub. L. 102–405, title III, § 302(c)(1)][/us/pl/102/405/s302/c/1], Oct. 9, 1992, [106 Stat. 1984][/us/stat/106/1984]; [Pub. L. 103–446, title XII, § 1201(e)(22)][/us/pl/103/446/s1201/e/22], Nov. 2, 1994, [108 Stat. 4686][/us/stat/108/4686]; [Pub. L. 106–419, title II, § 202(a)][/us/pl/106/419/s202/a]–(f), Nov. 1, 2000, [114 Stat. 1840][/us/stat/114/1840], 1841, related to special pay of full-time dentists.
+    Section 7435, added [Pub. L. 102–40, title I][/us/pl/102/40/tI], § 102, May 7, 1991, [105 Stat. 193][/us/stat/105/193]; amended [Pub. L. 102–405, title III][/us/pl/102/405/tIII], § 302(c)(1), Oct. 9, 1992, [106 Stat. 1984][/us/stat/106/1984]; [Pub. L. 103–446, title XII][/us/pl/103/446/tXII], § 1201(e)(22), Nov. 2, 1994, [108 Stat. 4686][/us/stat/108/4686]; [Pub. L. 106–419, title II][/us/pl/106/419/tII], § 202(a)–(f), Nov. 1, 2000, [114 Stat. 1840][/us/stat/114/1840], 1841, related to special pay of full-time dentists.
 
-    Section 7436, added [Pub. L. 102–40, title I, § 102][/us/pl/102/40/s102], May 7, 1991, [105 Stat. 194][/us/stat/105/194], related to special pay of part-time dentists.
+    Section 7436, added [Pub. L. 102–40, title I][/us/pl/102/40/tI], § 102, May 7, 1991, [105 Stat. 194][/us/stat/105/194], related to special pay of part-time dentists.
 
-    Section 7437, added [Pub. L. 102–40, title I, § 102][/us/pl/102/40/s102], May 7, 1991, [105 Stat. 194][/us/stat/105/194]; amended [Pub. L. 102–405, title II, § 204(a)][/us/pl/102/405/s204/a], title III, § 302(c)(1), Oct. 9, 1992, [106 Stat. 1983][/us/stat/106/1983], 1984, related to general provisions concerning special pay of physicians and dentists.
+    Section 7437, added [Pub. L. 102–40, title I][/us/pl/102/40/tI], § 102, May 7, 1991, [105 Stat. 194][/us/stat/105/194]; amended [Pub. L. 102–405, title II][/us/pl/102/405/tII], § 204(a), title III, § 302(c)(1), Oct. 9, 1992, [106 Stat. 1983][/us/stat/106/1983], 1984, related to general provisions concerning special pay of physicians and dentists.
 
-    Section 7438, added [Pub. L. 102–40, title I, § 102][/us/pl/102/40/s102], May 7, 1991, [105 Stat. 196][/us/stat/105/196]; amended [Pub. L. 106–419, title II, § 202(g)][/us/pl/106/419/s202/g], Nov. 1, 2000, [114 Stat. 1841][/us/stat/114/1841], related to coordination of special pay with other benefits laws.
+    Section 7438, added [Pub. L. 102–40, title I][/us/pl/102/40/tI], § 102, May 7, 1991, [105 Stat. 196][/us/stat/105/196]; amended [Pub. L. 106–419, title II][/us/pl/106/419/tII], § 202(g), Nov. 1, 2000, [114 Stat. 1841][/us/stat/114/1841], related to coordination of special pay with other benefits laws.
 
-    Section 7439, added [Pub. L. 102–40, title I, § 102][/us/pl/102/40/s102], May 7, 1991, [105 Stat. 197][/us/stat/105/197], related to periodic review and quadrennial reports regarding pay of physicians and dentists.
+    Section 7439, added [Pub. L. 102–40, title I][/us/pl/102/40/tI], § 102, May 7, 1991, [105 Stat. 197][/us/stat/105/197], related to periodic review and quadrennial reports regarding pay of physicians and dentists.
 
-    Section 7440, added [Pub. L. 102–40, title I, § 102][/us/pl/102/40/s102], May 7, 1991, [105 Stat. 198][/us/stat/105/198]; amended [Pub. L. 103–446, title XII, § 1201(c)(6)][/us/pl/103/446/s1201/c/6], Nov. 2, 1994, [108 Stat. 4684][/us/stat/108/4684], related to annual reports of the use of authorities provided in this subchapter.
+    Section 7440, added [Pub. L. 102–40, title I][/us/pl/102/40/tI], § 102, May 7, 1991, [105 Stat. 198][/us/stat/105/198]; amended [Pub. L. 103–446, title XII][/us/pl/103/446/tXII], § 1201(c)(6), Nov. 2, 1994, [108 Stat. 4684][/us/stat/108/4684], related to annual reports of the use of authorities provided in this subchapter.
 
 ----------
 
@@ -68,40 +68,40 @@
 ----------
 ----------
 
-[/us/pl/108/445/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F445%2Fs3%2Fb
+[/us/pl/108/445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F445
 [/us/stat/118/2640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2640
 [/us/pl/108/445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F445
-[/us/pl/102/40/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs102
+[/us/pl/102/40/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2FtI
 [/us/stat/105/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F191
-[/us/pl/102/405/s302/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405%2Fs302%2Fc%2F1
+[/us/pl/102/405/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405%2FtIII
 [/us/stat/106/1984]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1984
-[/us/pl/103/446/s1201/e/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2Fs1201%2Fe%2F22
+[/us/pl/103/446/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2FtXII
 [/us/stat/108/4686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4686
-[/us/pl/102/40/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs102
+[/us/pl/102/40/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2FtI
 [/us/stat/105/192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F192
-[/us/pl/102/40/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs102
+[/us/pl/102/40/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2FtI
 [/us/stat/105/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F193
-[/us/pl/102/405/s302/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405%2Fs302%2Fc%2F1
+[/us/pl/102/405/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405%2FtIII
 [/us/stat/106/1984]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1984
-[/us/pl/103/446/s1201/e/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2Fs1201%2Fe%2F22
+[/us/pl/103/446/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2FtXII
 [/us/stat/108/4686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4686
-[/us/pl/106/419/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419%2Fs202%2Fa
+[/us/pl/106/419/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419%2FtII
 [/us/stat/114/1840]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1840
-[/us/pl/102/40/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs102
+[/us/pl/102/40/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2FtI
 [/us/stat/105/194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F194
-[/us/pl/102/40/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs102
+[/us/pl/102/40/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2FtI
 [/us/stat/105/194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F194
-[/us/pl/102/405/s204/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405%2Fs204%2Fa
+[/us/pl/102/405/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405%2FtII
 [/us/stat/106/1983]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1983
-[/us/pl/102/40/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs102
+[/us/pl/102/40/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2FtI
 [/us/stat/105/196]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F196
-[/us/pl/106/419/s202/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419%2Fs202%2Fg
+[/us/pl/106/419/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419%2FtII
 [/us/stat/114/1841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1841
-[/us/pl/102/40/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs102
+[/us/pl/102/40/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2FtI
 [/us/stat/105/197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F197
-[/us/pl/102/40/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs102
+[/us/pl/102/40/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2FtI
 [/us/stat/105/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F198
-[/us/pl/103/446/s1201/c/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2Fs1201%2Fc%2F6
+[/us/pl/103/446/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2FtXII
 [/us/stat/108/4684]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4684
 
 

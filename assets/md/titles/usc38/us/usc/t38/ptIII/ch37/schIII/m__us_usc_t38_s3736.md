@@ -27,7 +27,7 @@
 
     (5) Direct loans to Native American veterans made pursuant to subchapter V of this chapter.
 
-(Added [Pub. L. 104–110, title II, § 201(a)(1)][/us/pl/104/110/s201/a/1], Feb. 13, 1996, [110 Stat. 770][/us/stat/110/770].)
+(Added [Pub. L. 104–110, title II][/us/pl/104/110/tII], § 201(a)(1), Feb. 13, 1996, [110 Stat. 770][/us/stat/110/770].)
 
 ----------
 
@@ -40,7 +40,7 @@
 [/us/usc/t38/s3703/c/4/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3703%2Fc%2F4%2FA%2Fi
 [/us/usc/t38/s3731/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3731%2Ff
 [/us/usc/t38/s3710/a/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3710%2Fa%2F10
-[/us/pl/104/110/s201/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F110%2Fs201%2Fa%2F1
+[/us/pl/104/110/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F110%2FtII
 [/us/stat/110/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F770
 
 

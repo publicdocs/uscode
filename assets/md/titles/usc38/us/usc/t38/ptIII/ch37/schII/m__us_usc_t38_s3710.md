@@ -91,7 +91,7 @@
 
         (8) in the case of a loan to refinance a loan (other than a loan or installment sales contract described in clause (7) of this subsection or a loan made for a purpose specified in subsection (a)(8) of this section), the amount of the loan to be guaranteed or made does not exceed 100 percent of the reasonable value of the dwelling or farm residence securing the loan, as determined pursuant to [section 3731 of this title][/us/usc/t38/s3731].
 
-    \[(c) Repealed. [Pub. L. 100–198, § 3(a)(2)][/us/pl/100/198/s3/a/2], Dec. 21, 1987, [101 Stat. 1315][/us/stat/101/1315].\]
+    \[(c) Repealed. [Pub. L. 100–198][/us/pl/100/198], § 3(a)(2), Dec. 21, 1987, [101 Stat. 1315][/us/stat/101/1315].\]
 
     (d)
 
@@ -245,7 +245,7 @@
 
         (3) When applying the term “value of the property” to a loan guaranteed under subsection (a)(12), such term means the appraised value of the stock or membership entitling the purchaser to the permanent occupancy of the dwelling unit in the development, project, or structure of the cooperative housing corporation.
 
-([Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1207][/us/stat/72/1207], § 1810; [Pub. L. 90–301][/us/pl/90/301], §§ 1(a), 2(a), May 7, 1968, [82 Stat. 113][/us/stat/82/113]; [Pub. L. 91–506, § 3][/us/pl/91/506/s3], Oct. 23, 1970, [84 Stat. 1108][/us/stat/84/1108]; [Pub. L. 93–569, § 3][/us/pl/93/569/s3], Dec. 31, 1974, [88 Stat. 1864][/us/stat/88/1864]; [Pub. L. 94–324, § 7(11)][/us/pl/94/324/s7/11], June 30, 1976, [90 Stat. 721][/us/stat/90/721]; [Pub. L. 95–476, title I][/us/pl/95/476], §§ 104, 105(a), Oct. 18, 1978, [92 Stat. 1498][/us/stat/92/1498], 1499; [Pub. L. 96–385, title IV][/us/pl/96/385], §§ 401(a), 402(a), Oct. 7, 1980, [94 Stat. 1532][/us/stat/94/1532], 1533; [Pub. L. 98–223, title II, § 205(a)][/us/pl/98/223/s205/a], Mar. 2, 1984, [98 Stat. 42][/us/stat/98/42]; [Pub. L. 99–576, title IV, § 402(a)][/us/pl/99/576/s402/a], (b), Oct. 28, 1986, [100 Stat. 3280][/us/stat/100/3280]; [Pub. L. 100–198][/us/pl/100/198], §§ 3(a)(2), 7(a), (c), 8(a)(2), 11(b), 13, Dec. 21, 1987, [101 Stat. 1315][/us/stat/101/1315], 1318–1320, 1325; [Pub. L. 100–322, title IV, § 415(c)(4)][/us/pl/100/322/s415/c/4], May 20, 1988, [102 Stat. 551][/us/stat/102/551]; [Pub. L. 101–237, title III][/us/pl/101/237], §§ 309, 313(b)(1), Dec. 18, 1989, [103 Stat. 2075][/us/stat/103/2075], 2077; renumbered § 3710 and amended [Pub. L. 102–83][/us/pl/102/83], §§ 4(a)(2)(A)(iv), 5(a), (c)(1), Aug. 6, 1991, [105 Stat. 403][/us/stat/105/403], 406; [Pub. L. 102–547][/us/pl/102/547], §§ 6(1), 9(a), (b), Oct. 28, 1992, [106 Stat. 3636][/us/stat/106/3636], 3641, 3642; [Pub. L. 103–446, title IX][/us/pl/103/446], §§ 904(a), (b), 905, Nov. 2, 1994, [108 Stat. 4676][/us/stat/108/4676], 4677; [Pub. L. 104–110, title I, § 101(e)][/us/pl/104/110/s101/e], Feb. 13, 1996, [110 Stat. 768][/us/stat/110/768]; [Pub. L. 109–461, title V, § 501][/us/pl/109/461/s501], Dec. 22, 2006, [120 Stat. 3431][/us/stat/120/3431]; [Pub. L. 110–389, title V, § 504(b)][/us/pl/110/389/s504/b], Oct. 10, 2008, [122 Stat. 4176][/us/stat/122/4176].)
+([Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1207][/us/stat/72/1207], § 1810; [Pub. L. 90–301][/us/pl/90/301], §§ 1(a), 2(a), May 7, 1968, [82 Stat. 113][/us/stat/82/113]; [Pub. L. 91–506][/us/pl/91/506], § 3, Oct. 23, 1970, [84 Stat. 1108][/us/stat/84/1108]; [Pub. L. 93–569][/us/pl/93/569], § 3, Dec. 31, 1974, [88 Stat. 1864][/us/stat/88/1864]; [Pub. L. 94–324][/us/pl/94/324], § 7(11), June 30, 1976, [90 Stat. 721][/us/stat/90/721]; [Pub. L. 95–476, title I][/us/pl/95/476/tI], §§ 104, 105(a), Oct. 18, 1978, [92 Stat. 1498][/us/stat/92/1498], 1499; [Pub. L. 96–385, title IV][/us/pl/96/385/tIV], §§ 401(a), 402(a), Oct. 7, 1980, [94 Stat. 1532][/us/stat/94/1532], 1533; [Pub. L. 98–223, title II][/us/pl/98/223/tII], § 205(a), Mar. 2, 1984, [98 Stat. 42][/us/stat/98/42]; [Pub. L. 99–576, title IV][/us/pl/99/576/tIV], § 402(a), (b), Oct. 28, 1986, [100 Stat. 3280][/us/stat/100/3280]; [Pub. L. 100–198][/us/pl/100/198], §§ 3(a)(2), 7(a), (c), 8(a)(2), 11(b), 13, Dec. 21, 1987, [101 Stat. 1315][/us/stat/101/1315], 1318–1320, 1325; [Pub. L. 100–322, title IV][/us/pl/100/322/tIV], § 415(c)(4), May 20, 1988, [102 Stat. 551][/us/stat/102/551]; [Pub. L. 101–237, title III][/us/pl/101/237/tIII], §§ 309, 313(b)(1), Dec. 18, 1989, [103 Stat. 2075][/us/stat/103/2075], 2077; renumbered § 3710 and amended [Pub. L. 102–83][/us/pl/102/83], §§ 4(a)(2)(A)(iv), 5(a), (c)(1), Aug. 6, 1991, [105 Stat. 403][/us/stat/105/403], 406; [Pub. L. 102–547][/us/pl/102/547], §§ 6(1), 9(a), (b), Oct. 28, 1992, [106 Stat. 3636][/us/stat/106/3636], 3641, 3642; [Pub. L. 103–446, title IX][/us/pl/103/446/tIX], §§ 904(a), (b), 905, Nov. 2, 1994, [108 Stat. 4676][/us/stat/108/4676], 4677; [Pub. L. 104–110, title I][/us/pl/104/110/tI], § 101(e), Feb. 13, 1996, [110 Stat. 768][/us/stat/110/768]; [Pub. L. 109–461, title V][/us/pl/109/461/tV], § 501, Dec. 22, 2006, [120 Stat. 3431][/us/stat/120/3431]; [Pub. L. 110–389, title V][/us/pl/110/389/tV], § 504(b), Oct. 10, 2008, [122 Stat. 4176][/us/stat/122/4176].)
 
  __References in Text__ 
 
@@ -261,111 +261,111 @@
 
     2008—Subsec. (b)(8). [Pub. L. 110–389][/us/pl/110/389] substituted “100 percent” for “90 percent”.
 
-    2006—Subsec. (a)(12). [Pub. L. 109–461, § 501(a)][/us/pl/109/461/s501/a], added par. (12).
+    2006—Subsec. (a)(12). [Pub. L. 109–461][/us/pl/109/461], § 501(a), added par. (12).
 
-    Subsec. (h). [Pub. L. 109–461, § 501(b)][/us/pl/109/461/s501/b], added subsec. (h).
+    Subsec. (h). [Pub. L. 109–461][/us/pl/109/461], § 501(b), added subsec. (h).
 
     1996—Subsec. (d)(7). [Pub. L. 104–110][/us/pl/104/110] struck out par. (7) which read as follows: “A loan may not be guaranteed under this subsection after December 31, 1995.”
 
-    1994—Subsec. (a)(11). [Pub. L. 103–446, § 904(a)][/us/pl/103/446/s904/a], added par. (11).
+    1994—Subsec. (a)(11). [Pub. L. 103–446][/us/pl/103/446], § 904(a), added par. (11).
 
-    Subsec. (e)(1). [Pub. L. 103–446, § 904(b)(1)][/us/pl/103/446/s904/b/1], inserted “or for the purpose specified in subsection (a)(11)” after “subsection (a)(8)” in introductory provisions.
+    Subsec. (e)(1). [Pub. L. 103–446][/us/pl/103/446], § 904(b)(1), inserted “or for the purpose specified in subsection (a)(11)” after “subsection (a)(8)” in introductory provisions.
 
-    Subsec. (e)(1)(A). [Pub. L. 103–446, § 905][/us/pl/103/446/s905], inserted before semicolon at end “or, in a case in which the loan is a fixed rate loan and the loan being refinanced is an adjustable rate loan, the loan bears interest at a rate that is agreed upon by the veteran and the mortgagee”.
+    Subsec. (e)(1)(A). [Pub. L. 103–446][/us/pl/103/446], § 905, inserted before semicolon at end “or, in a case in which the loan is a fixed rate loan and the loan being refinanced is an adjustable rate loan, the loan bears interest at a rate that is agreed upon by the veteran and the mortgagee”.
 
-    Subsec. (e)(1)(C). [Pub. L. 103–446, § 904(b)(2)][/us/pl/103/446/s904/b/2], substituted “may not exceed—” and cls. (i) and (ii) for “may not exceed an amount equal to the sum of the balance of the loan being refinanced and such closing costs (including any discount permitted pursuant to [section 3703(c)(3)(A) of this title][/us/usc/t38/s3703/c/3/A]) as may be authorized by the Secretary, under regulations which the Secretary shall prescribe, to be included in such loan;”.
+    Subsec. (e)(1)(C). [Pub. L. 103–446][/us/pl/103/446], § 904(b)(2), substituted “may not exceed—” and cls. (i) and (ii) for “may not exceed an amount equal to the sum of the balance of the loan being refinanced and such closing costs (including any discount permitted pursuant to [section 3703(c)(3)(A) of this title][/us/usc/t38/s3703/c/3/A]) as may be authorized by the Secretary, under regulations which the Secretary shall prescribe, to be included in such loan;”.
 
-    1992—Subsec. (a)(7). [Pub. L. 102–547, § 9(b)(1)][/us/pl/102/547/s9/b/1], amended par. (7) generally. Prior to amendment, par. (7) read as follows: “To improve a dwelling or farm residence owned by the veteran and occupied by the veteran as the veteran’s home through the installation of a solar heating system, a solar heating and cooling system, or a combined solar heating and cooling system or through the application of a residential energy conservation measure.”
+    1992—Subsec. (a)(7). [Pub. L. 102–547][/us/pl/102/547], § 9(b)(1), amended par. (7) generally. Prior to amendment, par. (7) read as follows: “To improve a dwelling or farm residence owned by the veteran and occupied by the veteran as the veteran’s home through the installation of a solar heating system, a solar heating and cooling system, or a combined solar heating and cooling system or through the application of a residential energy conservation measure.”
 
-    Subsec. (a)(10). [Pub. L. 102–547, § 9(b)(2)][/us/pl/102/547/s9/b/2], added par. (10).
+    Subsec. (a)(10). [Pub. L. 102–547][/us/pl/102/547], § 9(b)(2), added par. (10).
 
-    Subsec. (d). [Pub. L. 102–547, § 9(a)][/us/pl/102/547/s9/a], amended subsec. (d) generally. Prior to amendment, subsec. (d) defined terms “solar heating”, “solar heating and cooling”, “combined solar heating and cooling”, “passive system”, and “residential energy conservation measure” for purposes of subsec. (a)(7).
+    Subsec. (d). [Pub. L. 102–547][/us/pl/102/547], § 9(a), amended subsec. (d) generally. Prior to amendment, subsec. (d) defined terms “solar heating”, “solar heating and cooling”, “combined solar heating and cooling”, “passive system”, and “residential energy conservation measure” for purposes of subsec. (a)(7).
 
-    Subsec. (e)(1)(D). [Pub. L. 102–547, § 6(1)][/us/pl/102/547/s6/1], amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: “the amount of the guaranty of the loan may not exceed the original guaranty amount of the loan being refinanced;”.
+    Subsec. (e)(1)(D). [Pub. L. 102–547][/us/pl/102/547], § 6(1), amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: “the amount of the guaranty of the loan may not exceed the original guaranty amount of the loan being refinanced;”.
 
-    1991—[Pub. L. 102–83, § 5(a)][/us/pl/102/83/s5/a], renumbered [section 1810 of this title][/us/usc/t38/s1810] as this section.
+    1991—[Pub. L. 102–83][/us/pl/102/83], § 5(a), renumbered [section 1810 of this title][/us/usc/t38/s1810] as this section.
 
-    Subsec. (a). [Pub. L. 102–83, § 5(c)(1)][/us/pl/102/83/s5/c/1], substituted “3704(c)(2)” for “1804(c)(2)” in introductory provisions, “3712(a)(5)” for “1812(a)(5)” in par. (9)(B)(ii), and “3711” for “1811” in concluding provisions.
+    Subsec. (a). [Pub. L. 102–83][/us/pl/102/83], § 5(c)(1), substituted “3704(c)(2)” for “1804(c)(2)” in introductory provisions, “3712(a)(5)” for “1812(a)(5)” in par. (9)(B)(ii), and “3711” for “1811” in concluding provisions.
 
-    Subsec. (b). [Pub. L. 102–83, § 5(c)(1)][/us/pl/102/83/s5/c/1], substituted “3711” for “1811” in introductory provisions and “3731” for “1831” in pars. (5), (7)(i), and (8).
+    Subsec. (b). [Pub. L. 102–83][/us/pl/102/83], § 5(c)(1), substituted “3711” for “1811” in introductory provisions and “3731” for “1831” in pars. (5), (7)(i), and (8).
 
-    Subsec. (e)(1)(C). [Pub. L. 102–83, § 5(c)(1)][/us/pl/102/83/s5/c/1], substituted “3703(c)(3)(A)” for “1803(c)(3)(A)”.
+    Subsec. (e)(1)(C). [Pub. L. 102–83][/us/pl/102/83], § 5(c)(1), substituted “3703(c)(3)(A)” for “1803(c)(3)(A)”.
 
-    Subsec. (e)(2). [Pub. L. 102–83, § 5(c)(1)][/us/pl/102/83/s5/c/1], substituted “3702(b)” for “1802(b)”.
+    Subsec. (e)(2). [Pub. L. 102–83][/us/pl/102/83], § 5(c)(1), substituted “3702(b)” for “1802(b)”.
 
-    [Pub. L. 102–83, § 4(a)(2)(A)(iv)][/us/pl/102/83/s4/a/2/A/iv], substituted “Secretary” for “Veterans’ Administration”.
+    [Pub. L. 102–83][/us/pl/102/83], § 4(a)(2)(A)(iv), substituted “Secretary” for “Veterans’ Administration”.
 
-    Subsec. (g)(2). [Pub. L. 102–83, § 5(c)(1)][/us/pl/102/83/s5/c/1], substituted “3712(e)(2)” for “1812(e)(2)”.
+    Subsec. (g)(2). [Pub. L. 102–83][/us/pl/102/83], § 5(c)(1), substituted “3712(e)(2)” for “1812(e)(2)”.
 
-    1989—Subsec. (a)(6). [Pub. L. 101–237, § 313(b)(1)][/us/pl/101/237/s313/b/1], substituted “Secretary” for “Administrator” wherever appearing.
+    1989—Subsec. (a)(6). [Pub. L. 101–237][/us/pl/101/237], § 313(b)(1), substituted “Secretary” for “Administrator” wherever appearing.
 
-    Subsec. (b)(5) to (8). [Pub. L. 101–237, § 309(b)][/us/pl/101/237/s309/b], inserted “except in the case of a loan described in clause (7) or (8) of this subsection,” before “the loan to be paid” in cl. (5), struck out “and,” at end of cl. (5), substituted semicolon for period at end of cl. (6), and added cls. (7) and (8).
+    Subsec. (b)(5) to (8). [Pub. L. 101–237][/us/pl/101/237], § 309(b), inserted “except in the case of a loan described in clause (7) or (8) of this subsection,” before “the loan to be paid” in cl. (5), struck out “and,” at end of cl. (5), substituted semicolon for period at end of cl. (6), and added cls. (7) and (8).
 
-    Subsecs. (d) to (g). [Pub. L. 101–237, § 313(b)(1)][/us/pl/101/237/s313/b/1], substituted “Secretary” and “Secretary’s” for “Administrator” and “Administrator’s”, respectively, wherever appearing.
+    Subsecs. (d) to (g). [Pub. L. 101–237][/us/pl/101/237], § 313(b)(1), substituted “Secretary” and “Secretary’s” for “Administrator” and “Administrator’s”, respectively, wherever appearing.
 
-    Subsec. (h). [Pub. L. 101–237, § 309(a)][/us/pl/101/237/s309/a], struck out subsec. (h) which read as follows: “The amount of a loan guaranteed for the purpose specified in subsection (a)(5) of this section may not exceed the amount equal to 90 percent of the appraised value of the dwelling or farm residence which will secure the loan, as determined by the Administrator.”
+    Subsec. (h). [Pub. L. 101–237][/us/pl/101/237], § 309(a), struck out subsec. (h) which read as follows: “The amount of a loan guaranteed for the purpose specified in subsection (a)(5) of this section may not exceed the amount equal to 90 percent of the appraised value of the dwelling or farm residence which will secure the loan, as determined by the Administrator.”
 
-    1988—Subsec. (a)(9)(B)(ii). [Pub. L. 100–322, § 415(c)(4)(A)][/us/pl/100/322/s415/c/4/A], substituted “section 1812(a)(5)” for “section 1819(a)(5)”.
+    1988—Subsec. (a)(9)(B)(ii). [Pub. L. 100–322][/us/pl/100/322], § 415(c)(4)(A), substituted “section 1812(a)(5)” for “section 1819(a)(5)”.
 
-    Subsec. (g)(2). [Pub. L. 100–322, § 415(c)(4)(B)][/us/pl/100/322/s415/c/4/B], substituted “section 1812(e)(2)” for “section 1819(e)(2)”.
+    Subsec. (g)(2). [Pub. L. 100–322][/us/pl/100/322], § 415(c)(4)(B), substituted “section 1812(e)(2)” for “section 1819(e)(2)”.
 
-    1987—Subsec. (a). [Pub. L. 100–198, § 8(a)(2)][/us/pl/100/198/s8/a/2], substituted “Except as provided in [section 1804(c)(2) of this title][/us/usc/t38/s1804/c/2], any” for “Any”.
+    1987—Subsec. (a). [Pub. L. 100–198][/us/pl/100/198], § 8(a)(2), substituted “Except as provided in [section 1804(c)(2) of this title][/us/usc/t38/s1804/c/2], any” for “Any”.
 
-    Subsec. (b). [Pub. L. 100–198, § 11(b)][/us/pl/100/198/s11/b], substituted “pursuant to [section 1831 of this title][/us/usc/t38/s1831]” for “by the Administrator” in cl. (5) and struck out last sentence which read as follows: “After the reasonable value of any property, construction, repairs, or alterations is determined under paragraph (5), the Administrator shall, as soon as possible thereafter, notify the veteran concerned of such determination.”
+    Subsec. (b). [Pub. L. 100–198][/us/pl/100/198], § 11(b), substituted “pursuant to [section 1831 of this title][/us/usc/t38/s1831]” for “by the Administrator” in cl. (5) and struck out last sentence which read as follows: “After the reasonable value of any property, construction, repairs, or alterations is determined under paragraph (5), the Administrator shall, as soon as possible thereafter, notify the veteran concerned of such determination.”
 
-    Subsec. (c). [Pub. L. 100–198, § 3(a)(2)][/us/pl/100/198/s3/a/2], struck out subsec. (c) which read as follows: “The amount of guaranty entitlement available to a veteran under this section shall not be more than $27,500 less such entitlement as may have been used previously under this section and other sections of this chapter.”
+    Subsec. (c). [Pub. L. 100–198][/us/pl/100/198], § 3(a)(2), struck out subsec. (c) which read as follows: “The amount of guaranty entitlement available to a veteran under this section shall not be more than $27,500 less such entitlement as may have been used previously under this section and other sections of this chapter.”
 
-    Subsec. (e)(1)(B). [Pub. L. 100–198, § 7(a)(1)][/us/pl/100/198/s7/a/1], struck out “and such dwelling or residence must be owned and occupied by the veteran as such veteran’s home” after “refinanced”.
+    Subsec. (e)(1)(B). [Pub. L. 100–198][/us/pl/100/198], § 7(a)(1), struck out “and such dwelling or residence must be owned and occupied by the veteran as such veteran’s home” after “refinanced”.
 
-    Subsec. (e)(1)(D). [Pub. L. 100–198, § 7(a)(2)][/us/pl/100/198/s7/a/2], struck out “and” at end.
+    Subsec. (e)(1)(D). [Pub. L. 100–198][/us/pl/100/198], § 7(a)(2), struck out “and” at end.
 
-    Subsec. (e)(1)(E). [Pub. L. 100–198, § 7(a)(3)][/us/pl/100/198/s7/a/3], substituted “by more than 10 years; and” for period at end.
+    Subsec. (e)(1)(E). [Pub. L. 100–198][/us/pl/100/198], § 7(a)(3), substituted “by more than 10 years; and” for period at end.
 
-    Subsec. (e)(1)(F). [Pub. L. 100–198, § 7(a)(4)][/us/pl/100/198/s7/a/4], added cl. (F).
+    Subsec. (e)(1)(F). [Pub. L. 100–198][/us/pl/100/198], § 7(a)(4), added cl. (F).
 
-    Subsec. (g)(3). [Pub. L. 100–198, § 13][/us/pl/100/198/s13], inserted at end “If the procedures described in clause (C) of this paragraph include standards for evaluating residual income, the Administrator shall, in establishing such standards, give appropriate consideration to State statistics (in States as to which the Administrator determines that such statistics are reliable) pertinent to residual income and the cost of living in the State in question rather than in a larger region.”
+    Subsec. (g)(3). [Pub. L. 100–198][/us/pl/100/198], § 13, inserted at end “If the procedures described in clause (C) of this paragraph include standards for evaluating residual income, the Administrator shall, in establishing such standards, give appropriate consideration to State statistics (in States as to which the Administrator determines that such statistics are reliable) pertinent to residual income and the cost of living in the State in question rather than in a larger region.”
 
-    Subsec. (h). [Pub. L. 100–198, § 7(c)][/us/pl/100/198/s7/c], added subsec. (h).
+    Subsec. (h). [Pub. L. 100–198][/us/pl/100/198], § 7(c), added subsec. (h).
 
-    1986—Subsec. (b)(3). [Pub. L. 99–576, § 402(a)][/us/pl/99/576/s402/a], inserted “, as determined in accordance with the credit underwriting standards established pursuant to subsection (g) of this section”.
+    1986—Subsec. (b)(3). [Pub. L. 99–576][/us/pl/99/576], § 402(a), inserted “, as determined in accordance with the credit underwriting standards established pursuant to subsection (g) of this section”.
 
-    Subsec. (g). [Pub. L. 99–576, § 402(b)][/us/pl/99/576/s402/b], added subsec. (g).
+    Subsec. (g). [Pub. L. 99–576][/us/pl/99/576], § 402(b), added subsec. (g).
 
-    1984—Subsec. (a)(9). [Pub. L. 98–223, § 205(a)(1)][/us/pl/98/223/s205/a/1], added par. (9).
+    1984—Subsec. (a)(9). [Pub. L. 98–223][/us/pl/98/223], § 205(a)(1), added par. (9).
 
-    Subsec. (f). [Pub. L. 98–223, § 205(a)(2)][/us/pl/98/223/s205/a/2], added subsec. (f).
+    Subsec. (f). [Pub. L. 98–223][/us/pl/98/223], § 205(a)(2), added subsec. (f).
 
-    1980—Subsec. (a)(8). [Pub. L. 96–385, § 401(a)(1)][/us/pl/96/385/s401/a/1], added par. (8).
+    1980—Subsec. (a)(8). [Pub. L. 96–385][/us/pl/96/385], § 401(a)(1), added par. (8).
 
-    Subsec. (c). [Pub. L. 96–385, § 402(a)][/us/pl/96/385/s402/a], substituted “$27,500” for “$25,000”.
+    Subsec. (c). [Pub. L. 96–385][/us/pl/96/385], § 402(a), substituted “$27,500” for “$25,000”.
 
-    Subsec. (e). [Pub. L. 96–385, § 401(a)(2)][/us/pl/96/385/s401/a/2], added subsec. (e).
+    Subsec. (e). [Pub. L. 96–385][/us/pl/96/385], § 401(a)(2), added subsec. (e).
 
-    1978—Subsec. (a)(6). [Pub. L. 95–476, § 104(1)][/us/pl/95/476/s104/1], struck out requirement that the purchased residential unit be in a new condominium development, struck out provision that such unit could be in a structure built and sold as a condominium, and inserted provision that the criteria prescribed by the Administrator be prescribed through regulations.
+    1978—Subsec. (a)(6). [Pub. L. 95–476][/us/pl/95/476], § 104(1), struck out requirement that the purchased residential unit be in a new condominium development, struck out provision that such unit could be in a structure built and sold as a condominium, and inserted provision that the criteria prescribed by the Administrator be prescribed through regulations.
 
-    Subsec. (a)(7). [Pub. L. 95–476, § 104(2)][/us/pl/95/476/s104/2], added par. (7).
+    Subsec. (a)(7). [Pub. L. 95–476][/us/pl/95/476], § 104(2), added par. (7).
 
-    Subsec. (c). [Pub. L. 95–476, § 105(a)][/us/pl/95/476/s105/a], substituted “$25,000” for “$17,500”.
+    Subsec. (c). [Pub. L. 95–476][/us/pl/95/476], § 105(a), substituted “$25,000” for “$17,500”.
 
-    Subsec. (d). [Pub. L. 95–476, § 104(3)][/us/pl/95/476/s104/3], added subsec. (d).
+    Subsec. (d). [Pub. L. 95–476][/us/pl/95/476], § 104(3), added subsec. (d).
 
     1976—Subsec. (a). [Pub. L. 94–324][/us/pl/94/324] substituted “the veteran”, “the veteran’s” and “the Administrator” for “him”, “his” and “he”, respectively, wherever appearing.
 
-    1974—Subsec. (a)(5). [Pub. L. 93–569, § 3(1)][/us/pl/93/569/s3/1], struck out “Nothing in this chapter shall preclude a veteran from paying to a lender any discount required by such lender in connection with such refinancing.”
+    1974—Subsec. (a)(5). [Pub. L. 93–569][/us/pl/93/569], § 3(1), struck out “Nothing in this chapter shall preclude a veteran from paying to a lender any discount required by such lender in connection with such refinancing.”
 
-    Subsec. (a)(6). [Pub. L. 93–569, § 3(2)][/us/pl/93/569/s3/2], added par. (6).
+    Subsec. (a)(6). [Pub. L. 93–569][/us/pl/93/569], § 3(2), added par. (6).
 
-    Subsec. (c). [Pub. L. 93–569, § 3(3)][/us/pl/93/569/s3/3], substituted “$17,500” for “$12,500”.
+    Subsec. (c). [Pub. L. 93–569][/us/pl/93/569], § 3(3), substituted “$17,500” for “$12,500”.
 
-    Subsec. (d). [Pub. L. 93–569, § 3(4)][/us/pl/93/569/s3/4], struck out subsec. (d) relating to guaranty of loans for purchase of a one-family residential unit in a condominium housing project or development as to which Secretary of Housing and Urban Development has issued, under section 234 of the National Housing Act, evidence of insurance.
+    Subsec. (d). [Pub. L. 93–569][/us/pl/93/569], § 3(4), struck out subsec. (d) relating to guaranty of loans for purchase of a one-family residential unit in a condominium housing project or development as to which Secretary of Housing and Urban Development has issued, under section 234 of the National Housing Act, evidence of insurance.
 
-    1970—Subsec. (a). [Pub. L. 91–506, § 3(1)][/us/pl/91/506/s3/1], added par. (5) permitting a veteran to use his loan guaranty eligibility to refinance existing mortgage loans or other liens on dwellings on farm residences he occupies and provided that veterans using loan guarantees for such refinancing may pay points demanded by a lender.
+    1970—Subsec. (a). [Pub. L. 91–506][/us/pl/91/506], § 3(1), added par. (5) permitting a veteran to use his loan guaranty eligibility to refinance existing mortgage loans or other liens on dwellings on farm residences he occupies and provided that veterans using loan guarantees for such refinancing may pay points demanded by a lender.
 
-    Subsec. (d). [Pub. L. 91–506, § 3(2)][/us/pl/91/506/s3/2], added subsec. (d).
+    Subsec. (d). [Pub. L. 91–506][/us/pl/91/506], § 3(2), added subsec. (d).
 
-    1968—Subsec. (b). [Pub. L. 90–301, § 2(a)][/us/pl/90/301/s2/a], substituted “loan to be paid” for “price paid or to be paid” in par. (5) of first sentence and inserted sentence at end relating to notification of veteran concerned of determination of reasonable value of any property, construction, repairs, or alterations.
+    1968—Subsec. (b). [Pub. L. 90–301][/us/pl/90/301], § 2(a), substituted “loan to be paid” for “price paid or to be paid” in par. (5) of first sentence and inserted sentence at end relating to notification of veteran concerned of determination of reasonable value of any property, construction, repairs, or alterations.
 
-    Subsec. (c). [Pub. L. 90–301, § 1(a)][/us/pl/90/301/s1/a], increased limitation on amount of guaranty entitlement from $7,500 to $12,500.
+    Subsec. (c). [Pub. L. 90–301][/us/pl/90/301], § 1(a), increased limitation on amount of guaranty entitlement from $7,500 to $12,500.
 
  __Effective Date of 1987 Amendment__ 
 
@@ -401,7 +401,7 @@
 
  __Reports on Energy Efficient Mortgages Guaranteed Under This Section__ 
 
-    [Pub. L. 102–547, § 9(c)][/us/pl/102/547/s9/c], Oct. 28, 1992, [106 Stat. 3642][/us/stat/106/3642], directed Secretary of Veterans Affairs to transmit report on energy efficient mortgages to Committees on Veterans’ Affairs of Senate and House of Representatives not later than 1 year after date on which Secretary first exercises authority to guarantee loans under [section 3710(d) of this title][/us/usc/t38/s3710/d] and for each of the 3 years thereafter, prior to repeal by [Pub. L. 104–110, title II, § 201(b)][/us/pl/104/110/s201/b], Feb. 13, 1996, [110 Stat. 770][/us/stat/110/770].
+    [Pub. L. 102–547][/us/pl/102/547], § 9(c), Oct. 28, 1992, [106 Stat. 3642][/us/stat/106/3642], directed Secretary of Veterans Affairs to transmit report on energy efficient mortgages to Committees on Veterans’ Affairs of Senate and House of Representatives not later than 1 year after date on which Secretary first exercises authority to guarantee loans under [section 3710(d) of this title][/us/usc/t38/s3710/d] and for each of the 3 years thereafter, prior to repeal by [Pub. L. 104–110, title II][/us/pl/104/110/tII], § 201(b), Feb. 13, 1996, [110 Stat. 770][/us/stat/110/770].
 
 ----------
 
@@ -417,7 +417,7 @@
 [/us/usc/t38/s3731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3731
 [/us/usc/t38/s3731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3731
 [/us/usc/t38/s3731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3731
-[/us/pl/100/198/s3/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F198%2Fs3%2Fa%2F2
+[/us/pl/100/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F198
 [/us/stat/101/1315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1315
 [/us/usc/t38/s3703/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3703%2Fa%2F1%2FA
 [/us/usc/t38/s3703/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3703%2Fa%2F1%2FB
@@ -431,99 +431,99 @@
 [/us/stat/72/1207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1207
 [/us/pl/90/301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F301
 [/us/stat/82/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F113
-[/us/pl/91/506/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F506%2Fs3
+[/us/pl/91/506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F506
 [/us/stat/84/1108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1108
-[/us/pl/93/569/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F569%2Fs3
+[/us/pl/93/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F569
 [/us/stat/88/1864]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1864
-[/us/pl/94/324/s7/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F324%2Fs7%2F11
+[/us/pl/94/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F324
 [/us/stat/90/721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F721
-[/us/pl/95/476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F476
+[/us/pl/95/476/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F476%2FtI
 [/us/stat/92/1498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1498
-[/us/pl/96/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F385
+[/us/pl/96/385/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F385%2FtIV
 [/us/stat/94/1532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1532
-[/us/pl/98/223/s205/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F223%2Fs205%2Fa
+[/us/pl/98/223/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F223%2FtII
 [/us/stat/98/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F42
-[/us/pl/99/576/s402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2Fs402%2Fa
+[/us/pl/99/576/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2FtIV
 [/us/stat/100/3280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3280
 [/us/pl/100/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F198
 [/us/stat/101/1315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1315
-[/us/pl/100/322/s415/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F322%2Fs415%2Fc%2F4
+[/us/pl/100/322/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F322%2FtIV
 [/us/stat/102/551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F551
-[/us/pl/101/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237
+[/us/pl/101/237/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237%2FtIII
 [/us/stat/103/2075]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2075
 [/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F403
 [/us/pl/102/547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F547
 [/us/stat/106/3636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3636
-[/us/pl/103/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446
+[/us/pl/103/446/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2FtIX
 [/us/stat/108/4676]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4676
-[/us/pl/104/110/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F110%2Fs101%2Fe
+[/us/pl/104/110/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F110%2FtI
 [/us/stat/110/768]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F768
-[/us/pl/109/461/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461%2Fs501
+[/us/pl/109/461/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461%2FtV
 [/us/stat/120/3431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3431
-[/us/pl/110/389/s504/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F389%2Fs504%2Fb
+[/us/pl/110/389/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F389%2FtV
 [/us/stat/122/4176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4176
 [/us/pl/109/461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461
 [/us/usc/t26/s216/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs216%2Fb%2F1
 [/us/pl/100/198/s11/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F198%2Fs11%2Fb
 [/us/pl/110/389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F389
-[/us/pl/109/461/s501/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461%2Fs501%2Fa
-[/us/pl/109/461/s501/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461%2Fs501%2Fb
+[/us/pl/109/461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461
+[/us/pl/109/461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461
 [/us/pl/104/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F110
-[/us/pl/103/446/s904/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2Fs904%2Fa
-[/us/pl/103/446/s904/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2Fs904%2Fb%2F1
-[/us/pl/103/446/s905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2Fs905
-[/us/pl/103/446/s904/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2Fs904%2Fb%2F2
+[/us/pl/103/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446
+[/us/pl/103/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446
+[/us/pl/103/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446
+[/us/pl/103/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446
 [/us/usc/t38/s3703/c/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3703%2Fc%2F3%2FA
-[/us/pl/102/547/s9/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F547%2Fs9%2Fb%2F1
-[/us/pl/102/547/s9/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F547%2Fs9%2Fb%2F2
-[/us/pl/102/547/s9/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F547%2Fs9%2Fa
-[/us/pl/102/547/s6/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F547%2Fs6%2F1
-[/us/pl/102/83/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fa
+[/us/pl/102/547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F547
+[/us/pl/102/547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F547
+[/us/pl/102/547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F547
+[/us/pl/102/547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F547
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/usc/t38/s1810]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1810
-[/us/pl/102/83/s5/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fc%2F1
-[/us/pl/102/83/s5/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fc%2F1
-[/us/pl/102/83/s5/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fc%2F1
-[/us/pl/102/83/s5/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fc%2F1
-[/us/pl/102/83/s4/a/2/A/iv]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fa%2F2%2FA%2Fiv
-[/us/pl/102/83/s5/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fc%2F1
-[/us/pl/101/237/s313/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237%2Fs313%2Fb%2F1
-[/us/pl/101/237/s309/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237%2Fs309%2Fb
-[/us/pl/101/237/s313/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237%2Fs313%2Fb%2F1
-[/us/pl/101/237/s309/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237%2Fs309%2Fa
-[/us/pl/100/322/s415/c/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F322%2Fs415%2Fc%2F4%2FA
-[/us/pl/100/322/s415/c/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F322%2Fs415%2Fc%2F4%2FB
-[/us/pl/100/198/s8/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F198%2Fs8%2Fa%2F2
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/101/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237
+[/us/pl/101/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237
+[/us/pl/101/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237
+[/us/pl/101/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237
+[/us/pl/100/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F322
+[/us/pl/100/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F322
+[/us/pl/100/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F198
 [/us/usc/t38/s1804/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1804%2Fc%2F2
-[/us/pl/100/198/s11/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F198%2Fs11%2Fb
+[/us/pl/100/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F198
 [/us/usc/t38/s1831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1831
-[/us/pl/100/198/s3/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F198%2Fs3%2Fa%2F2
-[/us/pl/100/198/s7/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F198%2Fs7%2Fa%2F1
-[/us/pl/100/198/s7/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F198%2Fs7%2Fa%2F2
-[/us/pl/100/198/s7/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F198%2Fs7%2Fa%2F3
-[/us/pl/100/198/s7/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F198%2Fs7%2Fa%2F4
-[/us/pl/100/198/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F198%2Fs13
-[/us/pl/100/198/s7/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F198%2Fs7%2Fc
-[/us/pl/99/576/s402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2Fs402%2Fa
-[/us/pl/99/576/s402/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2Fs402%2Fb
-[/us/pl/98/223/s205/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F223%2Fs205%2Fa%2F1
-[/us/pl/98/223/s205/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F223%2Fs205%2Fa%2F2
-[/us/pl/96/385/s401/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F385%2Fs401%2Fa%2F1
-[/us/pl/96/385/s402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F385%2Fs402%2Fa
-[/us/pl/96/385/s401/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F385%2Fs401%2Fa%2F2
-[/us/pl/95/476/s104/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F476%2Fs104%2F1
-[/us/pl/95/476/s104/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F476%2Fs104%2F2
-[/us/pl/95/476/s105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F476%2Fs105%2Fa
-[/us/pl/95/476/s104/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F476%2Fs104%2F3
+[/us/pl/100/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F198
+[/us/pl/100/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F198
+[/us/pl/100/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F198
+[/us/pl/100/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F198
+[/us/pl/100/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F198
+[/us/pl/100/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F198
+[/us/pl/100/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F198
+[/us/pl/99/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576
+[/us/pl/99/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576
+[/us/pl/98/223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F223
+[/us/pl/98/223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F223
+[/us/pl/96/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F385
+[/us/pl/96/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F385
+[/us/pl/96/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F385
+[/us/pl/95/476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F476
+[/us/pl/95/476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F476
+[/us/pl/95/476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F476
+[/us/pl/95/476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F476
 [/us/pl/94/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F324
-[/us/pl/93/569/s3/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F569%2Fs3%2F1
-[/us/pl/93/569/s3/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F569%2Fs3%2F2
-[/us/pl/93/569/s3/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F569%2Fs3%2F3
-[/us/pl/93/569/s3/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F569%2Fs3%2F4
-[/us/pl/91/506/s3/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F506%2Fs3%2F1
-[/us/pl/91/506/s3/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F506%2Fs3%2F2
-[/us/pl/90/301/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F301%2Fs2%2Fa
-[/us/pl/90/301/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F301%2Fs1%2Fa
+[/us/pl/93/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F569
+[/us/pl/93/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F569
+[/us/pl/93/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F569
+[/us/pl/93/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F569
+[/us/pl/91/506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F506
+[/us/pl/91/506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F506
+[/us/pl/90/301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F301
+[/us/pl/90/301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F301
 [/us/pl/100/198/s3/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F198%2Fs3%2Fa%2F2
 [/us/pl/100/198/s3/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F198%2Fs3%2Fd
 [/us/usc/t38/s3703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3703
@@ -548,10 +548,10 @@
 [/us/pl/104/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F110
 [/us/pl/104/110/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F110%2Fs103
 [/us/usc/t38/s1710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1710
-[/us/pl/102/547/s9/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F547%2Fs9%2Fc
+[/us/pl/102/547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F547
 [/us/stat/106/3642]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3642
 [/us/usc/t38/s3710/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3710%2Fd
-[/us/pl/104/110/s201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F110%2Fs201%2Fb
+[/us/pl/104/110/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F110%2FtII
 [/us/stat/110/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F770
 
 

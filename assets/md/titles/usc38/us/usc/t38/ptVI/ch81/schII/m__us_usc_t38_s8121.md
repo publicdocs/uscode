@@ -33,7 +33,7 @@
 
     (e) The Secretary is authorized to capitalize, at fair and reasonable values as determined by the Secretary, all supplies and materials and depot stocks of equipment on hand or on order.
 
-([Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1253][/us/stat/72/1253], § 5011; amended [Pub. L. 87–314][/us/pl/87/314], Sept. 26, 1961, [75 Stat. 675][/us/stat/75/675]; [Pub. L. 94–581, title II, § 210(e)(6)][/us/pl/94/581/s210/e/6], Oct. 21, 1976, [90 Stat. 2865][/us/stat/90/2865]; renumbered § 5021, [Pub. L. 96–22, title III, § 301(b)(1)][/us/pl/96/22/s301/b/1], June 13, 1979, [93 Stat. 61][/us/stat/93/61]; [Pub. L. 96–330, title IV, § 402(a)][/us/pl/96/330/s402/a], Aug. 26, 1980, [94 Stat. 1051][/us/stat/94/1051]; renumbered § 8121, [Pub. L. 102–40, title IV, § 402(b)(1)][/us/pl/102/40/s402/b/1], May 7, 1991, [105 Stat. 238][/us/stat/105/238]; [Pub. L. 102–83, § 4(a)(3)][/us/pl/102/83/s4/a/3], (4), (b)(1), (2)(E), Aug. 6, 1991, [105 Stat. 404][/us/stat/105/404], 405; [Pub. L. 108–170, title IV, § 403(a)][/us/pl/108/170/s403/a], Dec. 6, 2003, [117 Stat. 2062][/us/stat/117/2062].)
+([Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1253][/us/stat/72/1253], § 5011; amended [Pub. L. 87–314][/us/pl/87/314], Sept. 26, 1961, [75 Stat. 675][/us/stat/75/675]; [Pub. L. 94–581, title II][/us/pl/94/581/tII], § 210(e)(6), Oct. 21, 1976, [90 Stat. 2865][/us/stat/90/2865]; renumbered § 5021, [Pub. L. 96–22, title III][/us/pl/96/22/tIII], § 301(b)(1), June 13, 1979, [93 Stat. 61][/us/stat/93/61]; [Pub. L. 96–330, title IV][/us/pl/96/330/tIV], § 402(a), Aug. 26, 1980, [94 Stat. 1051][/us/stat/94/1051]; renumbered § 8121, [Pub. L. 102–40, title IV][/us/pl/102/40/tIV], § 402(b)(1), May 7, 1991, [105 Stat. 238][/us/stat/105/238]; [Pub. L. 102–83][/us/pl/102/83], § 4(a)(3), (4), (b)(1), (2)(E), Aug. 6, 1991, [105 Stat. 404][/us/stat/105/404], 405; [Pub. L. 108–170, title IV][/us/pl/108/170/tIV], § 403(a), Dec. 6, 2003, [117 Stat. 2062][/us/stat/117/2062].)
 
  __Amendments__ 
 
@@ -41,11 +41,11 @@
 
     1991—[Pub. L. 102–40][/us/pl/102/40] renumbered [section 5021 of this title][/us/usc/t38/s5021] as this section.
 
-    Subsec. (a). [Pub. L. 102–83, § 4(b)(1)][/us/pl/102/83/s4/b/1], (2)(E), substituted “Secretary” for “Administrator” in par. (2) and in last sentence.
+    Subsec. (a). [Pub. L. 102–83][/us/pl/102/83], § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in par. (2) and in last sentence.
 
-    [Pub. L. 102–83, § 4(a)(3)][/us/pl/102/83/s4/a/3], (4), substituted “Department” for “Veterans’ Administration” in introductory provisions.
+    [Pub. L. 102–83][/us/pl/102/83], § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration” in introductory provisions.
 
-    Subsec. (c). [Pub. L. 102–83, § 4(b)(1)][/us/pl/102/83/s4/b/1], (2)(E), substituted “Secretary” for “Administrator” in two places.
+    Subsec. (c). [Pub. L. 102–83][/us/pl/102/83], § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in two places.
 
     1980—Subsec. (a). [Pub. L. 96–330][/us/pl/96/330] substituted “actual direct cost (which may be based on the cost of recent significant purchases of the equipment or supply item involved)” for “actual direct” in par. (2), and, in provisions following par. (3), substituted “At the end of each fiscal year, there shall be covered into the Treasury of the United States as miscellaneous receipts such amounts as the Administrator determines to be in excess of the requirements necessary for the maintenance of adequate inventory levels and for the effective financial management of the revolving supply fund” for “At the end of each fiscal year, any net income of the fund, after making provision for prior losses, shall be covered into the Treasury of the United States as miscellaneous receipts”.
 
@@ -55,13 +55,13 @@
 
  __Effective Date of 2003 Amendment__ 
 
-[Pub. L. 108–170, title IV, § 403(b)][/us/pl/108/170/s403/b], Dec. 6, 2003, [117 Stat. 2062][/us/stat/117/2062], provided that: 
+[Pub. L. 108–170, title IV][/us/pl/108/170/tIV], § 403(b), Dec. 6, 2003, [117 Stat. 2062][/us/stat/117/2062], provided that: 
 
 > “The amendments made by subsection (a) \[amending this section\] shall apply only with respect to funds appropriated for a fiscal year after fiscal year 2003.”
 
  __Effective Date of 1980 Amendment__ 
 
-[Pub. L. 96–330, title IV, § 402(b)][/us/pl/96/330/s402/b], Aug. 26, 1980, [94 Stat. 1051][/us/stat/94/1051], provided that: 
+[Pub. L. 96–330, title IV][/us/pl/96/330/tIV], § 402(b), Aug. 26, 1980, [94 Stat. 1051][/us/stat/94/1051], provided that: 
 
 > “The amendments made by subsection (a) \[amending this section\] shall take effect as of October 1, 1979.”
 
@@ -80,30 +80,30 @@
 [/us/stat/72/1253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1253
 [/us/pl/87/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F314
 [/us/stat/75/675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F675
-[/us/pl/94/581/s210/e/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F581%2Fs210%2Fe%2F6
+[/us/pl/94/581/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F581%2FtII
 [/us/stat/90/2865]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2865
-[/us/pl/96/22/s301/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F22%2Fs301%2Fb%2F1
+[/us/pl/96/22/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F22%2FtIII
 [/us/stat/93/61]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F61
-[/us/pl/96/330/s402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F330%2Fs402%2Fa
+[/us/pl/96/330/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F330%2FtIV
 [/us/stat/94/1051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1051
-[/us/pl/102/40/s402/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs402%2Fb%2F1
+[/us/pl/102/40/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2FtIV
 [/us/stat/105/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F238
-[/us/pl/102/83/s4/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fa%2F3
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F404
-[/us/pl/108/170/s403/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F170%2Fs403%2Fa
+[/us/pl/108/170/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F170%2FtIV
 [/us/stat/117/2062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2062
 [/us/pl/108/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F170
 [/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40
 [/us/usc/t38/s5021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs5021
-[/us/pl/102/83/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fb%2F1
-[/us/pl/102/83/s4/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fa%2F3
-[/us/pl/102/83/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fb%2F1
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/pl/96/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F330
 [/us/pl/94/581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F581
 [/us/pl/87/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F314
-[/us/pl/108/170/s403/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F170%2Fs403%2Fb
+[/us/pl/108/170/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F170%2FtIV
 [/us/stat/117/2062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2062
-[/us/pl/96/330/s402/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F330%2Fs402%2Fb
+[/us/pl/96/330/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F330%2FtIV
 [/us/stat/94/1051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1051
 [/us/pl/94/581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F581
 [/us/pl/94/581/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F581%2Fs211

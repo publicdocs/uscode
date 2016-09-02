@@ -17,7 +17,7 @@
 
     For disability resulting from personal injury suffered or disease contracted in line of duty, or for aggravation of a preexisting injury suffered or disease contracted in line of duty, in the active military, naval, or air service, during other than a period of war, the United States will pay to any veteran thus disabled and who was discharged or released under conditions other than dishonorable from the period of service in which said injury or disease was incurred, or preexisting injury or disease was aggravated, compensation as provided in this subchapter, but no compensation shall be paid if the disability is a result of the veteran’s own willful misconduct or abuse of alcohol or drugs.
 
-([Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1122][/us/stat/72/1122], § 331; [Pub. L. 101–508, title VIII, § 8052(a)(3)][/us/pl/101/508/s8052/a/3], Nov. 5, 1990, [104 Stat. 1388–351][/us/stat/104/1388-351]; renumbered § 1131, [Pub. L. 102–83, § 5(a)][/us/pl/102/83/s5/a], Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406]; [Pub. L. 105–178, title VIII, § 8202(b)][/us/pl/105/178/s8202/b], June 9, 1998, [112 Stat. 492][/us/stat/112/492]; [Pub. L. 105–206, title IX, § 9014(a)][/us/pl/105/206/s9014/a], July 22, 1998, [112 Stat. 865][/us/stat/112/865].)
+([Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1122][/us/stat/72/1122], § 331; [Pub. L. 101–508, title VIII][/us/pl/101/508/tVIII], § 8052(a)(3), Nov. 5, 1990, [104 Stat. 1388–351][/us/stat/104/1388-351]; renumbered § 1131, [Pub. L. 102–83][/us/pl/102/83], § 5(a), Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406]; [Pub. L. 105–178, title VIII][/us/pl/105/178/tVIII], § 8202(b), June 9, 1998, [112 Stat. 492][/us/stat/112/492]; [Pub. L. 105–206, title IX][/us/pl/105/206/tIX], § 9014(a), July 22, 1998, [112 Stat. 865][/us/stat/112/865].)
 
  __Amendments__ 
 
@@ -37,7 +37,7 @@
 
  __Construction of 1998 Amendment__ 
 
-    [Pub. L. 105–206, title IX, § 9014(a)][/us/pl/105/206/s9014/a], July 22, 1998, [112 Stat. 865][/us/stat/112/865], provided that [section 8202 of Pub. L. 105–178][/us/pl/105/178/s8202] is amended generally and that the amendments made by that section as originally enacted shall be treated for all purposes as not having been made.
+    [Pub. L. 105–206, title IX][/us/pl/105/206/tIX], § 9014(a), July 22, 1998, [112 Stat. 865][/us/stat/112/865], provided that [section 8202 of Pub. L. 105–178][/us/pl/105/178/s8202] is amended generally and that the amendments made by that section as originally enacted shall be treated for all purposes as not having been made.
 
 ----------
 
@@ -48,13 +48,13 @@
 
 [/us/pl/85/857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F857
 [/us/stat/72/1122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1122
-[/us/pl/101/508/s8052/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs8052%2Fa%2F3
+[/us/pl/101/508/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtVIII
 [/us/stat/104/1388-351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-351
-[/us/pl/102/83/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fa
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F406
-[/us/pl/105/178/s8202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs8202%2Fb
+[/us/pl/105/178/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtVIII
 [/us/stat/112/492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F492
-[/us/pl/105/206/s9014/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs9014%2Fa
+[/us/pl/105/206/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtIX
 [/us/stat/112/865]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F865
 [/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
 [/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
@@ -71,7 +71,7 @@
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/pl/101/508/s8052/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs8052%2Fb
 [/us/usc/t38/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs105
-[/us/pl/105/206/s9014/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs9014%2Fa
+[/us/pl/105/206/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtIX
 [/us/stat/112/865]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F865
 [/us/pl/105/178/s8202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs8202
 

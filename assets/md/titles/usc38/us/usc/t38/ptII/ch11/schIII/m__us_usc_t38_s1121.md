@@ -17,13 +17,13 @@
 
     The surviving spouse, child or children, and dependent parent or parents of any veteran who died before January 1, 1957 as the result of injury or disease incurred in or aggravated by active military, naval, or air service, in line of duty, during a period of war, shall be entitled to receive compensation at the monthly rates specified in [section 1122 of this title][/us/usc/t38/s1122].
 
-([Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1122][/us/stat/72/1122], § 321; [Pub. L. 92–197, § 6][/us/pl/92/197/s6], Dec. 15, 1971, [85 Stat. 662][/us/stat/85/662]; [Pub. L. 94–433, title IV, § 404(12)][/us/pl/94/433/s404/12], Sept. 30, 1976, [90 Stat. 1378][/us/stat/90/1378]; renumbered § 1121 and amended [Pub. L. 102–83, § 5(a)][/us/pl/102/83/s5/a], (c)(1), Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406].)
+([Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1122][/us/stat/72/1122], § 321; [Pub. L. 92–197][/us/pl/92/197], § 6, Dec. 15, 1971, [85 Stat. 662][/us/stat/85/662]; [Pub. L. 94–433, title IV][/us/pl/94/433/tIV], § 404(12), Sept. 30, 1976, [90 Stat. 1378][/us/stat/90/1378]; renumbered § 1121 and amended [Pub. L. 102–83][/us/pl/102/83], § 5(a), (c)(1), Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406].)
 
  __Amendments__ 
 
-    1991—[Pub. L. 102–83, § 5(a)][/us/pl/102/83/s5/a], renumbered [section 321 of this title][/us/usc/t38/s321] as this section.
+    1991—[Pub. L. 102–83][/us/pl/102/83], § 5(a), renumbered [section 321 of this title][/us/usc/t38/s321] as this section.
 
-    [Pub. L. 102–83, § 5(c)(1)][/us/pl/102/83/s5/c/1], substituted “1122” for “322”.
+    [Pub. L. 102–83][/us/pl/102/83], § 5(c)(1), substituted “1122” for “322”.
 
     1976—[Pub. L. 94–433][/us/pl/94/433] substituted “spouse” for “widow”.
 
@@ -47,15 +47,15 @@
 [/us/usc/t38/s1122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1122
 [/us/pl/85/857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F857
 [/us/stat/72/1122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1122
-[/us/pl/92/197/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F197%2Fs6
+[/us/pl/92/197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F197
 [/us/stat/85/662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F662
-[/us/pl/94/433/s404/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F433%2Fs404%2F12
+[/us/pl/94/433/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F433%2FtIV
 [/us/stat/90/1378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1378
-[/us/pl/102/83/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fa
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F406
-[/us/pl/102/83/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fa
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/usc/t38/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs321
-[/us/pl/102/83/s5/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fc%2F1
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/pl/94/433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F433
 [/us/pl/92/197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F197
 [/us/usc/t38/s417/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs417%2Fa

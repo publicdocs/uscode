@@ -51,17 +51,17 @@
 
     (4) The term “Secretary of Defense” means the Secretary of Defense, except that the term means the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy.
 
-(Added [Pub. L. 110–252, title V, § 5003(a)(1)][/us/pl/110/252/s5003/a/1], June 30, 2008, [122 Stat. 2359][/us/stat/122/2359]; amended [Pub. L. 111–377, title I, § 101(a)][/us/pl/111/377/s101/a], Jan. 4, 2011, [124 Stat. 4107][/us/stat/124/4107]; [Pub. L. 112–239, div. A, title VI, § 681(c)][/us/pl/112/239/s681/c], Jan. 2, 2013, [126 Stat. 1795][/us/stat/126/1795].)
+(Added [Pub. L. 110–252, title V][/us/pl/110/252/tV], § 5003(a)(1), June 30, 2008, [122 Stat. 2359][/us/stat/122/2359]; amended [Pub. L. 111–377, title I][/us/pl/111/377/tI], § 101(a), Jan. 4, 2011, [124 Stat. 4107][/us/stat/124/4107]; [Pub. L. 112–239, div. A, title VI][/us/pl/112/239/dA/tVI], § 681(c), Jan. 2, 2013, [126 Stat. 1795][/us/stat/126/1795].)
 
  __Amendments__ 
 
     2013—Par. (1)(B). [Pub. L. 112–239][/us/pl/112/239] inserted “or [section 712 of title 14][/us/usc/t14/s712]” after “title 10”.
 
-    2011—Par. (1)(C). [Pub. L. 111–377, § 101(a)(1)][/us/pl/111/377/s101/a/1], added subpar. (C).
+    2011—Par. (1)(C). [Pub. L. 111–377][/us/pl/111/377], § 101(a)(1), added subpar. (C).
 
-    Par. (2)(A). [Pub. L. 111–377, § 101(a)(2)][/us/pl/111/377/s101/a/2], inserted “or One Station Unit Training” before period at end.
+    Par. (2)(A). [Pub. L. 111–377][/us/pl/111/377], § 101(a)(2), inserted “or One Station Unit Training” before period at end.
 
-    Par. (2)(E). [Pub. L. 111–377, § 101(a)(3)][/us/pl/111/377/s101/a/3], inserted “and Skill Training (or so-called ‘A’ School)” before period at end.
+    Par. (2)(E). [Pub. L. 111–377][/us/pl/111/377], § 101(a)(3), inserted “and Skill Training (or so-called ‘A’ School)” before period at end.
 
  __Effective Date of 2013 Amendment__ 
 
@@ -69,7 +69,7 @@
 
  __Effective Date of 2011 Amendment__ 
 
-[Pub. L. 111–377, title I, § 101(d)(1)][/us/pl/111/377/s101/d/1]–(3), Jan. 4, 2011, [124 Stat. 4108][/us/stat/124/4108], provided that:
+[Pub. L. 111–377, title I][/us/pl/111/377/tI], § 101(d)(1)–(3), Jan. 4, 2011, [124 Stat. 4108][/us/stat/124/4108], provided that:
 
 >     “(1)  __Service in national guard as active duty__  __.—__ 
 
@@ -89,7 +89,7 @@
 
  __Findings__ 
 
-[Pub. L. 110–252, title V, § 5002][/us/pl/110/252/s5002], June 30, 2008, [122 Stat. 2357][/us/stat/122/2357], provided that: 
+[Pub. L. 110–252, title V][/us/pl/110/252/tV], § 5002, June 30, 2008, [122 Stat. 2357][/us/stat/122/2357], provided that: 
 
 > “Congress makes the following findings:
 
@@ -107,7 +107,7 @@
 
  __Applicability to Individuals Under Montgomery GI Bill Program__ 
 
-[Pub. L. 110–252, title V, § 5003(c)][/us/pl/110/252/s5003/c], June 30, 2008, [122 Stat. 2375][/us/stat/122/2375], provided that:
+[Pub. L. 110–252, title V][/us/pl/110/252/tV], § 5003(c), June 30, 2008, [122 Stat. 2375][/us/stat/122/2375], provided that:
 
 >     “(1)  __Individuals Eligible to Elect Participation in Post-9/11 Educational Assistance__  __.—__ 
 
@@ -288,31 +288,31 @@ Section 1. Policy. The original GI Bill, approved just weeks after D-Day, educat
 
 [/us/usc/t14/s712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs712
 [/us/usc/t32/s502/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft32%2Fs502%2Ff
-[/us/pl/110/252/s5003/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F252%2Fs5003%2Fa%2F1
+[/us/pl/110/252/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F252%2FtV
 [/us/stat/122/2359]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2359
-[/us/pl/111/377/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F377%2Fs101%2Fa
+[/us/pl/111/377/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F377%2FtI
 [/us/stat/124/4107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4107
-[/us/pl/112/239/s681/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs681%2Fc
+[/us/pl/112/239/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtVI
 [/us/stat/126/1795]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1795
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/usc/t14/s712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs712
-[/us/pl/111/377/s101/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F377%2Fs101%2Fa%2F1
-[/us/pl/111/377/s101/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F377%2Fs101%2Fa%2F2
-[/us/pl/111/377/s101/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F377%2Fs101%2Fa%2F3
+[/us/pl/111/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F377
+[/us/pl/111/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F377
+[/us/pl/111/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F377
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/usc/t14/s712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs712
 [/us/usc/t5/s5538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5538
 [/us/pl/112/239/s681/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs681%2Fd
 [/us/usc/t10/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101
-[/us/pl/111/377/s101/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F377%2Fs101%2Fd%2F1
+[/us/pl/111/377/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F377%2FtI
 [/us/stat/124/4108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4108
 [/us/pl/110/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F252
 [/us/usc/t38/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs101
 [/us/pl/110/252/s5003/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F252%2Fs5003%2Fd
 [/us/usc/t10/s16163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs16163
-[/us/pl/110/252/s5002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F252%2Fs5002
+[/us/pl/110/252/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F252%2FtV
 [/us/stat/122/2357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2357
-[/us/pl/110/252/s5003/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F252%2Fs5003%2Fc
+[/us/pl/110/252/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F252%2FtV
 [/us/stat/122/2375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2375
 [/us/usc/t38/s3020]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3020
 [/us/usc/t38/s3020]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3020

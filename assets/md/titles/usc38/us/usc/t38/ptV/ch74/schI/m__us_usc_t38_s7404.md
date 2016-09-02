@@ -73,7 +73,7 @@ clinical podiatrist, chiropractor, and optometrist schedule
 
     (e) The position of Chief Nursing Officer, Office of Nursing Services, shall be exempt from the provisions of [section 7451 of this title][/us/usc/t38/s7451] and shall be paid at a rate determined by the Secretary, not to exceed the maximum rate established for the Senior Executive Service under [section 5382 of title 5][/us/usc/t5/s5382].
 
-(Added [Pub. L. 102–40, title IV, § 401(b)(2)][/us/pl/102/40/s401/b/2], May 7, 1991, [105 Stat. 225][/us/stat/105/225]; amended [Pub. L. 102–405, title II, § 206][/us/pl/102/405/s206], title III, § 302(c)(1), Oct. 9, 1992, [106 Stat. 1984][/us/stat/106/1984]; [Pub. L. 102–585, title III, § 301(a)][/us/pl/102/585/s301/a], Nov. 4, 1992, [106 Stat. 4951][/us/stat/106/4951]; [Pub. L. 108–170, title III, § 302(d)][/us/pl/108/170/s302/d], Dec. 6, 2003, [117 Stat. 2058][/us/stat/117/2058]; [Pub. L. 108–445, § 3(a)][/us/pl/108/445/s3/a], (f), Dec. 3, 2004, [118 Stat. 2636][/us/stat/118/2636], 2643; [Pub. L. 109–461, title II, § 202][/us/pl/109/461/s202], Dec. 22, 2006, [120 Stat. 3410][/us/stat/120/3410]; [Pub. L. 111–163, title VI, § 601(d)(1)][/us/pl/111/163/s601/d/1], May 5, 2010, [124 Stat. 1169][/us/stat/124/1169].)
+(Added [Pub. L. 102–40, title IV][/us/pl/102/40/tIV], § 401(b)(2), May 7, 1991, [105 Stat. 225][/us/stat/105/225]; amended [Pub. L. 102–405, title II][/us/pl/102/405/tII], § 206, title III, § 302(c)(1), Oct. 9, 1992, [106 Stat. 1984][/us/stat/106/1984]; [Pub. L. 102–585, title III][/us/pl/102/585/tIII], § 301(a), Nov. 4, 1992, [106 Stat. 4951][/us/stat/106/4951]; [Pub. L. 108–170, title III][/us/pl/108/170/tIII], § 302(d), Dec. 6, 2003, [117 Stat. 2058][/us/stat/117/2058]; [Pub. L. 108–445][/us/pl/108/445], § 3(a), (f), Dec. 3, 2004, [118 Stat. 2636][/us/stat/118/2636], 2643; [Pub. L. 109–461, title II][/us/pl/109/461/tII], § 202, Dec. 22, 2006, [120 Stat. 3410][/us/stat/120/3410]; [Pub. L. 111–163, title VI][/us/pl/111/163/tVI], § 601(d)(1), May 5, 2010, [124 Stat. 1169][/us/stat/124/1169].)
 
  __References in Text__ 
 
@@ -89,17 +89,17 @@ clinical podiatrist, chiropractor, and optometrist schedule
 
     2010—Subsec. (a). [Pub. L. 111–163][/us/pl/111/163] designated first sentence as par. (1) and second sentence as par. (2), substituted “under paragraph (1)” for “under the preceding sentence” in par. (2), and added par. (3).
 
-    2006—Subsec. (d). [Pub. L. 109–461, § 202(1)][/us/pl/109/461/s202/1], substituted “subsection (e), subchapter III, and” for “subchapter III and in”.
+    2006—Subsec. (d). [Pub. L. 109–461][/us/pl/109/461], § 202(1), substituted “subsection (e), subchapter III, and” for “subchapter III and in”.
 
-    Subsec. (e). [Pub. L. 109–461, § 202(2)][/us/pl/109/461/s202/2], added subsec. (e).
+    Subsec. (e). [Pub. L. 109–461][/us/pl/109/461], § 202(2), added subsec. (e).
 
-    2004—Subsec. (a). [Pub. L. 108–445, § 3(a)(2)][/us/pl/108/445/s3/a/2], inserted at end “The pay of physicians and dentists serving in positions to which an Executive order applies under the preceding sentence shall be determined under subchapter III of this chapter instead of such Executive order.”
+    2004—Subsec. (a). [Pub. L. 108–445][/us/pl/108/445], § 3(a)(2), inserted at end “The pay of physicians and dentists serving in positions to which an Executive order applies under the preceding sentence shall be determined under subchapter III of this chapter instead of such Executive order.”
 
-    Subsec. (b). [Pub. L. 108–445, § 3(a)(1)][/us/pl/108/445/s3/a/1], struck out “(1)” after “(b)”, inserted items relating to Physician grade and Dentist grade under heading “physician and dentist schedule” and struck out former items under that heading, which read “Director grade”, “Executive grade”, “Chief grade”, “Senior grade”, “Intermediate grade”, “Full grade”, and “Associate grade”, and struck out par. (2). Prior to amendment, par. (2) read as follows: “A person may not hold the director grade in the Physician and Dentist Schedule unless the person is serving as a director of a hospital, domiciliary, center, or outpatient clinic (independent), or comparable position. A person may not hold the executive grade in that Schedule unless the person holds the position of chief of staff at a hospital, center, or outpatient clinic (independent), or comparable position.”
+    Subsec. (b). [Pub. L. 108–445][/us/pl/108/445], § 3(a)(1), struck out “(1)” after “(b)”, inserted items relating to Physician grade and Dentist grade under heading “physician and dentist schedule” and struck out former items under that heading, which read “Director grade”, “Executive grade”, “Chief grade”, “Senior grade”, “Intermediate grade”, “Full grade”, and “Associate grade”, and struck out par. (2). Prior to amendment, par. (2) read as follows: “A person may not hold the director grade in the Physician and Dentist Schedule unless the person is serving as a director of a hospital, domiciliary, center, or outpatient clinic (independent), or comparable position. A person may not hold the executive grade in that Schedule unless the person holds the position of chief of staff at a hospital, center, or outpatient clinic (independent), or comparable position.”
 
-    Subsec. (c). [Pub. L. 108–445, § 3(f)(1)][/us/pl/108/445/s3/f/1], substituted “pay” for “special pay”.
+    Subsec. (c). [Pub. L. 108–445][/us/pl/108/445], § 3(f)(1), substituted “pay” for “special pay”.
 
-    Subsec. (d). [Pub. L. 108–445, § 3(f)(2)][/us/pl/108/445/s3/f/2], substituted “pay for positions for which basic pay is paid under this section may not be paid at a rate in excess of the rate of basic pay authorized by [section 5316 of title 5][/us/usc/t5/s5316] for positions in Level V of the Executive Schedule.” for “pay may not be paid at a rate in excess of the rate of basic pay for an appropriate level authorized by section 5315 or 5316 of title 5 for positions in the Executive Schedule, as follows:
+    Subsec. (d). [Pub. L. 108–445][/us/pl/108/445], § 3(f)(2), substituted “pay for positions for which basic pay is paid under this section may not be paid at a rate in excess of the rate of basic pay authorized by [section 5316 of title 5][/us/usc/t5/s5316] for positions in Level V of the Executive Schedule.” for “pay may not be paid at a rate in excess of the rate of basic pay for an appropriate level authorized by section 5315 or 5316 of title 5 for positions in the Executive Schedule, as follows:
 
     “(1) Level IV for the Deputy Under Secretary for Health.
 
@@ -109,13 +109,13 @@ clinical podiatrist, chiropractor, and optometrist schedule
 
     1992—Subsec. (b)(1). [Pub. L. 102–585][/us/pl/102/585] inserted items relating to Nurse V through I under heading “nurse schedule” and struck out former items under that heading, “Director grade”, “Senior grade”, “Intermediate grade”, and “Entry grade”.
 
-    Subsec. (b)(2). [Pub. L. 102–405, § 206][/us/pl/102/405/s206], inserted “, or comparable position” before period at end of first sentence.
+    Subsec. (b)(2). [Pub. L. 102–405][/us/pl/102/405], § 206, inserted “, or comparable position” before period at end of first sentence.
 
-    Subsec. (d)(1). [Pub. L. 102–405, § 302(c)(1)][/us/pl/102/405/s302/c/1], substituted “Under Secretary for Health” for “Chief Medical Director”.
+    Subsec. (d)(1). [Pub. L. 102–405][/us/pl/102/405], § 302(c)(1), substituted “Under Secretary for Health” for “Chief Medical Director”.
 
  __Effective Date of 2010 Amendment__ 
 
-[Pub. L. 111–163, title VI, § 601(d)(2)][/us/pl/111/163/s601/d/2], May 5, 2010, [124 Stat. 1169][/us/stat/124/1169], provided that: 
+[Pub. L. 111–163, title VI][/us/pl/111/163/tVI], § 601(d)(2), May 5, 2010, [124 Stat. 1169][/us/stat/124/1169], provided that: 
 
 > “The amendments made by paragraph (1) \[amending this section\] shall take effect on the first day of the first pay period beginning after the day that is 180 days after the date of the enactment of this Act \[May 5, 2010\].”
 
@@ -125,7 +125,7 @@ clinical podiatrist, chiropractor, and optometrist schedule
 
  __Effective Date of 1992 Amendment__ 
 
-[Pub. L. 102–585, title III, § 308][/us/pl/102/585/s308], Nov. 4, 1992, [106 Stat. 4953][/us/stat/106/4953], provided that: 
+[Pub. L. 102–585, title III][/us/pl/102/585/tIII], § 308, Nov. 4, 1992, [106 Stat. 4953][/us/stat/106/4953], provided that: 
 
 > “The amendments made by sections 301, 302, 303, and 304 \[amending this section and sections 7451 and 7452 of this title\] shall take effect with respect to the first pay period beginning on or after the end of the six-month period beginning on the date of the enactment of this Act \[Nov. 4, 1992\].”
 
@@ -156,41 +156,41 @@ clinical podiatrist, chiropractor, and optometrist schedule
 [/us/usc/t5/s5316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5316
 [/us/usc/t38/s7451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7451
 [/us/usc/t5/s5382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5382
-[/us/pl/102/40/s401/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs401%2Fb%2F2
+[/us/pl/102/40/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2FtIV
 [/us/stat/105/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F225
-[/us/pl/102/405/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405%2Fs206
+[/us/pl/102/405/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405%2FtII
 [/us/stat/106/1984]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1984
-[/us/pl/102/585/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F585%2Fs301%2Fa
+[/us/pl/102/585/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F585%2FtIII
 [/us/stat/106/4951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4951
-[/us/pl/108/170/s302/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F170%2Fs302%2Fd
+[/us/pl/108/170/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F170%2FtIII
 [/us/stat/117/2058]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2058
-[/us/pl/108/445/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F445%2Fs3%2Fa
+[/us/pl/108/445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F445
 [/us/stat/118/2636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2636
-[/us/pl/109/461/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461%2Fs202
+[/us/pl/109/461/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461%2FtII
 [/us/stat/120/3410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3410
-[/us/pl/111/163/s601/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163%2Fs601%2Fd%2F1
+[/us/pl/111/163/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163%2FtVI
 [/us/stat/124/1169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1169
 [/us/usc/t5/s5314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5314
 [/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
 [/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40
 [/us/pl/111/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163
-[/us/pl/109/461/s202/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461%2Fs202%2F1
-[/us/pl/109/461/s202/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461%2Fs202%2F2
-[/us/pl/108/445/s3/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F445%2Fs3%2Fa%2F2
-[/us/pl/108/445/s3/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F445%2Fs3%2Fa%2F1
-[/us/pl/108/445/s3/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F445%2Fs3%2Ff%2F1
-[/us/pl/108/445/s3/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F445%2Fs3%2Ff%2F2
+[/us/pl/109/461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461
+[/us/pl/109/461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461
+[/us/pl/108/445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F445
+[/us/pl/108/445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F445
+[/us/pl/108/445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F445
+[/us/pl/108/445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F445
 [/us/usc/t5/s5316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5316
 [/us/pl/108/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F170
 [/us/pl/102/585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F585
-[/us/pl/102/405/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405%2Fs206
-[/us/pl/102/405/s302/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405%2Fs302%2Fc%2F1
-[/us/pl/111/163/s601/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163%2Fs601%2Fd%2F2
+[/us/pl/102/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405
+[/us/pl/102/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405
+[/us/pl/111/163/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163%2FtVI
 [/us/stat/124/1169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1169
 [/us/pl/108/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F170
 [/us/pl/108/170/s302/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F170%2Fs302%2Fh
 [/us/usc/t38/s7316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7316
-[/us/pl/102/585/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F585%2Fs308
+[/us/pl/102/585/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F585%2FtIII
 [/us/stat/106/4953]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4953
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
 [/us/usc/t38/s7455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7455

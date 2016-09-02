@@ -65,7 +65,7 @@
 
     (b) A rehabilitation program (including individual courses) to be pursued by a veteran shall be subject to the approval of the Secretary.
 
-(Added [Pub. L. 96–466, title I, § 101(a)][/us/pl/96/466/s101/a], Oct. 17, 1980, [94 Stat. 2174][/us/stat/94/2174], § 1504; amended [Pub. L. 100–323, § 11(a)(3)(A)][/us/pl/100/323/s11/a/3/A], May 20, 1988, [102 Stat. 568][/us/stat/102/568]; [Pub. L. 101–237, title IV, § 423(b)(1)(A)][/us/pl/101/237/s423/b/1/A], Dec. 18, 1989, [103 Stat. 2092][/us/stat/103/2092]; [Pub. L. 102–16, § 3(b)(1)][/us/pl/102/16/s3/b/1], Mar. 22, 1991, [105 Stat. 49][/us/stat/105/49]; [Pub. L. 102–54, § 14(c)(3)][/us/pl/102/54/s14/c/3], June 13, 1991, [105 Stat. 285][/us/stat/105/285]; renumbered § 3104 and amended [Pub. L. 102–83, § 5(a)][/us/pl/102/83/s5/a], (c)(1), Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406]; [Pub. L. 104–275, title I, § 101(d)][/us/pl/104/275/s101/d], Oct. 9, 1996, [110 Stat. 3324][/us/stat/110/3324].)
+(Added [Pub. L. 96–466, title I][/us/pl/96/466/tI], § 101(a), Oct. 17, 1980, [94 Stat. 2174][/us/stat/94/2174], § 1504; amended [Pub. L. 100–323][/us/pl/100/323], § 11(a)(3)(A), May 20, 1988, [102 Stat. 568][/us/stat/102/568]; [Pub. L. 101–237, title IV][/us/pl/101/237/tIV], § 423(b)(1)(A), Dec. 18, 1989, [103 Stat. 2092][/us/stat/103/2092]; [Pub. L. 102–16][/us/pl/102/16], § 3(b)(1), Mar. 22, 1991, [105 Stat. 49][/us/stat/105/49]; [Pub. L. 102–54][/us/pl/102/54], § 14(c)(3), June 13, 1991, [105 Stat. 285][/us/stat/105/285]; renumbered § 3104 and amended [Pub. L. 102–83][/us/pl/102/83], § 5(a), (c)(1), Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406]; [Pub. L. 104–275, title I][/us/pl/104/275/tI], § 101(d), Oct. 9, 1996, [110 Stat. 3324][/us/stat/110/3324].)
 
  __Prior Provisions__ 
 
@@ -73,23 +73,23 @@
 
  __Amendments__ 
 
-    1996—Subsec. (a)(1). [Pub. L. 104–275, § 101(d)(1)(A)][/us/pl/104/275/s101/d/1/A], substituted “the veteran has an employment handicap or” for “such veteran’s disability or disabilities cause” and inserted “reasonably” after “goal is”.
+    1996—Subsec. (a)(1). [Pub. L. 104–275][/us/pl/104/275], § 101(d)(1)(A), substituted “the veteran has an employment handicap or” for “such veteran’s disability or disabilities cause” and inserted “reasonably” after “goal is”.
 
-    Subsec. (a)(7)(A). [Pub. L. 104–275, § 101(d)(1)(B)][/us/pl/104/275/s101/d/1/B], struck out “(i)” after “assistance, including” and “, and (ii) job-readiness skills development and counseling under section 14(a)(2) of the Veterans’ Job Training Act ([29 U.S.C. 1721][/us/usc/t29/s1721] note) for a participant in a program of training under such Act” after “individual case”.
+    Subsec. (a)(7)(A). [Pub. L. 104–275][/us/pl/104/275], § 101(d)(1)(B), struck out “(i)” after “assistance, including” and “, and (ii) job-readiness skills development and counseling under section 14(a)(2) of the Veterans’ Job Training Act ([29 U.S.C. 1721][/us/usc/t29/s1721] note) for a participant in a program of training under such Act” after “individual case”.
 
-    Subsec. (a)(12). [Pub. L. 104–275, § 101(d)(1)(C)][/us/pl/104/275/s101/d/1/C], substituted “For veterans with the most severe service-connected disabilities who require” for “For the most severely disabled veterans requiring”.
+    Subsec. (a)(12). [Pub. L. 104–275][/us/pl/104/275], § 101(d)(1)(C), substituted “For veterans with the most severe service-connected disabilities who require” for “For the most severely disabled veterans requiring”.
 
-    Subsecs. (b), (c). [Pub. L. 104–275, § 101(d)(2)][/us/pl/104/275/s101/d/2], redesignated subsec. (c) as (b) and struck out former subsec. (b) which read as follows: “A program of independent living services and assistance may include the types of services and assistance described in section 702 of the Rehabilitation Act of 1973 ([29 U.S.C. 796a][/us/usc/t29/s796a]).”
+    Subsecs. (b), (c). [Pub. L. 104–275][/us/pl/104/275], § 101(d)(2), redesignated subsec. (c) as (b) and struck out former subsec. (b) which read as follows: “A program of independent living services and assistance may include the types of services and assistance described in section 702 of the Rehabilitation Act of 1973 ([29 U.S.C. 796a][/us/usc/t29/s796a]).”
 
-    1991—[Pub. L. 102–83, § 5(a)][/us/pl/102/83/s5/a], renumbered [section 1504 of this title][/us/usc/t38/s1504] as this section.
+    1991—[Pub. L. 102–83][/us/pl/102/83], § 5(a), renumbered [section 1504 of this title][/us/usc/t38/s1504] as this section.
 
-    Subsec. (a)(3). [Pub. L. 102–83, § 5(c)(1)][/us/pl/102/83/s5/c/1], substituted “3108” for “1508”.
+    Subsec. (a)(3). [Pub. L. 102–83][/us/pl/102/83], § 5(c)(1), substituted “3108” for “1508”.
 
-    Subsec. (a)(4). [Pub. L. 102–83, § 5(c)(1)][/us/pl/102/83/s5/c/1], substituted “3485” for “1685”.
+    Subsec. (a)(4). [Pub. L. 102–83][/us/pl/102/83], § 5(c)(1), substituted “3485” for “1685”.
 
     Subsec. (a)(7). [Pub. L. 102–16][/us/pl/102/16] designated existing provisions as subpar. (A), redesignated former cls. (A) and (B) as cls. (i) and (ii), respectively, substituted “handling charges, licensing” for “and licensing”, and added subpar. (B).
 
-    Subsec. (a)(8). [Pub. L. 102–83, § 5(c)(1)][/us/pl/102/83/s5/c/1], substituted “3112” for “1512”.
+    Subsec. (a)(8). [Pub. L. 102–83][/us/pl/102/83], § 5(c)(1), substituted “3112” for “1512”.
 
     Subsec. (b). [Pub. L. 102–54][/us/pl/102/54] substituted “([29 U.S.C. 796a][/us/usc/t29/s796a])” for “([29 U.S.C. 796][/us/usc/t29/s796])”.
 
@@ -103,13 +103,13 @@
 
  __Effective Date of 1991 Amendment__ 
 
-[Pub. L. 102–16, § 3(b)(2)][/us/pl/102/16/s3/b/2], Mar. 22, 1991, [105 Stat. 49][/us/stat/105/49], provided that: 
+[Pub. L. 102–16][/us/pl/102/16], § 3(b)(2), Mar. 22, 1991, [105 Stat. 49][/us/stat/105/49], provided that: 
 
 > “The amendments made by this subsection \[amending this section\] shall apply only to payments made on or after the date of the enactment of this Act \[Mar. 22, 1991\].”
 
  __Effective Date of 1988 Amendment__ 
 
-[Pub. L. 100–323, § 16][/us/pl/100/323/s16], May 20, 1988, [102 Stat. 575][/us/stat/102/575], provided that:
+[Pub. L. 100–323][/us/pl/100/323], § 16, May 20, 1988, [102 Stat. 575][/us/stat/102/575], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -137,7 +137,7 @@
 
  __Blind Rehabilitation Outpatient Specialists__ 
 
-[Pub. L. 109–461, title II, § 207][/us/pl/109/461/s207], Dec. 22, 2006, [120 Stat. 3412][/us/stat/120/3412], provided that:
+[Pub. L. 109–461, title II][/us/pl/109/461/tII], § 207, Dec. 22, 2006, [120 Stat. 3412][/us/stat/120/3412], provided that:
 
 >     “(a)  __Findings__  __.—__ 
 
@@ -185,7 +185,7 @@
 
  __Veterans Pursuing Program of Vocational Rehabilitation Under Former Section 1504 of This Title__ 
 
-    During the period beginning on Oct. 1, 1980, and ending on Mar. 31, 1981, the provisions of section 3108 \[formerly 1508\] of this title, as added by [Pub. L. 96–466, title I, § 101(a)][/us/pl/96/466/s101/a], Oct. 17, 1980, [94 Stat. 2178][/us/stat/94/2178], shall apply to veterans pursuing a program of vocational rehabilitation training under this chapter in the same manner as former [section 1504 of this title][/us/usc/t38/s1504] applied to veterans pursuing such a program under this chapter on Sept. 30, 1980. See [section 802(a)(4) of Pub. L. 96–466][/us/pl/96/466/s802/a/4], set out as an Effective Date note under [section 3100 of this title][/us/usc/t38/s3100].
+    During the period beginning on Oct. 1, 1980, and ending on Mar. 31, 1981, the provisions of section 3108 \[formerly 1508\] of this title, as added by [Pub. L. 96–466, title I][/us/pl/96/466/tI], § 101(a), Oct. 17, 1980, [94 Stat. 2178][/us/stat/94/2178], shall apply to veterans pursuing a program of vocational rehabilitation training under this chapter in the same manner as former [section 1504 of this title][/us/usc/t38/s1504] applied to veterans pursuing such a program under this chapter on Sept. 30, 1980. See [section 802(a)(4) of Pub. L. 96–466][/us/pl/96/466/s802/a/4], set out as an Effective Date note under [section 3100 of this title][/us/usc/t38/s3100].
 
 ----------
 
@@ -198,33 +198,33 @@
 [/us/usc/t38/s3485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3485
 [/us/usc/t38/s3112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3112
 [/us/usc/t38/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs111
-[/us/pl/96/466/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F466%2Fs101%2Fa
+[/us/pl/96/466/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F466%2FtI
 [/us/stat/94/2174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2174
-[/us/pl/100/323/s11/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F323%2Fs11%2Fa%2F3%2FA
+[/us/pl/100/323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F323
 [/us/stat/102/568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F568
-[/us/pl/101/237/s423/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237%2Fs423%2Fb%2F1%2FA
+[/us/pl/101/237/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237%2FtIV
 [/us/stat/103/2092]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2092
-[/us/pl/102/16/s3/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F16%2Fs3%2Fb%2F1
+[/us/pl/102/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F16
 [/us/stat/105/49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F49
-[/us/pl/102/54/s14/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54%2Fs14%2Fc%2F3
+[/us/pl/102/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54
 [/us/stat/105/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F285
-[/us/pl/102/83/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fa
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F406
-[/us/pl/104/275/s101/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275%2Fs101%2Fd
+[/us/pl/104/275/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275%2FtI
 [/us/stat/110/3324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3324
 [/us/usc/t38/s5304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs5304
-[/us/pl/104/275/s101/d/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275%2Fs101%2Fd%2F1%2FA
-[/us/pl/104/275/s101/d/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275%2Fs101%2Fd%2F1%2FB
+[/us/pl/104/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275
+[/us/pl/104/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275
 [/us/usc/t29/s1721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1721
-[/us/pl/104/275/s101/d/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275%2Fs101%2Fd%2F1%2FC
-[/us/pl/104/275/s101/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275%2Fs101%2Fd%2F2
+[/us/pl/104/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275
+[/us/pl/104/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275
 [/us/usc/t29/s796a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs796a
-[/us/pl/102/83/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fa
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/usc/t38/s1504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1504
-[/us/pl/102/83/s5/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fc%2F1
-[/us/pl/102/83/s5/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fc%2F1
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/pl/102/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F16
-[/us/pl/102/83/s5/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fc%2F1
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/pl/102/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54
 [/us/usc/t29/s796a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs796a
 [/us/usc/t29/s796]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs796
@@ -234,15 +234,15 @@
 [/us/pl/104/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275
 [/us/pl/104/275/s101/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275%2Fs101%2Fj
 [/us/usc/t38/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3101
-[/us/pl/102/16/s3/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F16%2Fs3%2Fb%2F2
+[/us/pl/102/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F16
 [/us/stat/105/49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F49
-[/us/pl/100/323/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F323%2Fs16
+[/us/pl/100/323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F323
 [/us/stat/102/575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F575
 [/us/pl/96/466/s802/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F466%2Fs802%2Fa%2F1
 [/us/usc/t38/s3100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3100
-[/us/pl/109/461/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461%2Fs207
+[/us/pl/109/461/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461%2FtII
 [/us/stat/120/3412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3412
-[/us/pl/96/466/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F466%2Fs101%2Fa
+[/us/pl/96/466/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F466%2FtI
 [/us/stat/94/2178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2178
 [/us/usc/t38/s1504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1504
 [/us/pl/96/466/s802/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F466%2Fs802%2Fa%2F4

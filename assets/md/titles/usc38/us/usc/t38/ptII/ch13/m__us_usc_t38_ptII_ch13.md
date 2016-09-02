@@ -179,17 +179,17 @@ SUBCHAPTER III—CERTIFICATIONS  </td>
 
  __Amendments__ 
 
-    1997—[Pub. L. 105–33, title VIII, § 8031(b)(2)][/us/pl/105/33/s8031/b/2], Aug. 5, 1997, [111 Stat. 669][/us/stat/111/669], added item 1303.
+    1997—[Pub. L. 105–33, title VIII][/us/pl/105/33/tVIII], § 8031(b)(2), Aug. 5, 1997, [111 Stat. 669][/us/stat/111/669], added item 1303.
 
     1991—[Pub. L. 102–83][/us/pl/102/83], §§ 4(b)(3)(B), 5(b)(1), Aug. 6, 1991, [105 Stat. 405][/us/stat/105/405], 406, renumbered items 401 to 423 as 1301 to 1323, respectively, and in item 1323 substituted “with respect to circumstances of death” for “by Administrator”.
 
-    1988—[Pub. L. 100–687, div. B, title XIV, § 1403(a)(2)][/us/pl/100/687/s1403/a/2], Nov. 18, 1988, [102 Stat. 4130][/us/stat/102/4130], added item 418.
+    1988—[Pub. L. 100–687, div. B, title XIV][/us/pl/100/687/dB/tXIV], § 1403(a)(2), Nov. 18, 1988, [102 Stat. 4130][/us/stat/102/4130], added item 418.
 
-    1982—[Pub. L. 97–306, title I, § 113(b)(2)][/us/pl/97/306/s113/b/2], Oct. 14, 1982, [96 Stat. 1432][/us/stat/96/1432], struck out item 403 “Coverage of members of Reserve Officers’ Training Corps”.
+    1982—[Pub. L. 97–306, title I][/us/pl/97/306/tI], § 113(b)(2), Oct. 14, 1982, [96 Stat. 1432][/us/stat/96/1432], struck out item 403 “Coverage of members of Reserve Officers’ Training Corps”.
 
-    1976—[Pub. L. 94–433, § 405(6)][/us/pl/94/433/s405/6], (8), Sept. 30, 1976, [90 Stat. 1379][/us/stat/90/1379], substituted “surviving spouses” for “widows” in item 404 and “surviving spouse” for “widow” in item 411.
+    1976—[Pub. L. 94–433][/us/pl/94/433], § 405(6), (8), Sept. 30, 1976, [90 Stat. 1379][/us/stat/90/1379], substituted “surviving spouses” for “widows” in item 404 and “surviving spouse” for “widow” in item 411.
 
-    1969—[Pub. L. 91–96, § 6][/us/pl/91/96/s6], Oct. 27, 1969, [83 Stat. 145][/us/stat/83/145], substituted “Determination of pay grade” for “Computation of basic pay” in item 402 and “Certifications with respect to pay grade” for “Certifications with respect to basic pay” in item 421.
+    1969—[Pub. L. 91–96][/us/pl/91/96], § 6, Oct. 27, 1969, [83 Stat. 145][/us/stat/83/145], substituted “Determination of pay grade” for “Computation of basic pay” in item 402 and “Certifications with respect to pay grade” for “Certifications with respect to basic pay” in item 421.
 
  __Uniformed Services, Promotion of Members in Missing Status; Effective Date__ 
 
@@ -202,17 +202,17 @@ SUBCHAPTER III—CERTIFICATIONS  </td>
 ----------
 ----------
 
-[/us/pl/105/33/s8031/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs8031%2Fb%2F2
+[/us/pl/105/33/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2FtVIII
 [/us/stat/111/669]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F669
 [/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F405
-[/us/pl/100/687/s1403/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F687%2Fs1403%2Fa%2F2
+[/us/pl/100/687/dB/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F687%2FdB%2FtXIV
 [/us/stat/102/4130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4130
-[/us/pl/97/306/s113/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F306%2Fs113%2Fb%2F2
+[/us/pl/97/306/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F306%2FtI
 [/us/stat/96/1432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1432
-[/us/pl/94/433/s405/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F433%2Fs405%2F6
+[/us/pl/94/433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F433
 [/us/stat/90/1379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1379
-[/us/pl/91/96/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F96%2Fs6
+[/us/pl/91/96]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F96
 [/us/stat/83/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F145
 [/us/usc/t37/s552/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs552%2Fa
 [/us/pl/93/26/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F26%2Fs2

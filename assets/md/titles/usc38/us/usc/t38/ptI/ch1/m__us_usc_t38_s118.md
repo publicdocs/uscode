@@ -27,7 +27,7 @@
 
     For purposes of this section, the term “report” includes any certification, notification, or other communication in writing.
 
-(Added [Pub. L. 111–163, title X, § 1003(a)][/us/pl/111/163/s1003/a], May 5, 2010, [124 Stat. 1182][/us/stat/124/1182].)
+(Added [Pub. L. 111–163, title X][/us/pl/111/163/tX], § 1003(a), May 5, 2010, [124 Stat. 1182][/us/stat/124/1182].)
 
 ----------
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/111/163/s1003/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163%2Fs1003%2Fa
+[/us/pl/111/163/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163%2FtX
 [/us/stat/124/1182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1182
 
 

@@ -19,7 +19,7 @@
 
     (b) Upon the filing of a notice of disagreement, all parties in interest will be furnished with a statement of the case in the same manner as is prescribed in section 7105. The party in interest who filed a notice of disagreement will be allowed thirty days from the date of mailing of such statement of the case in which to file a formal appeal. Extension of time may be granted for good cause shown but with consideration to the interests of the other parties involved. The substance of the appeal will be communicated to the other party or parties in interest and a period of thirty days will be allowed for filing a brief or argument in answer thereto. Such notice shall be forwarded to the last known address of record of the parties concerned, and such action shall constitute sufficient evidence of notice.
 
-(Added [Pub. L. 87–666, § 1][/us/pl/87/666/s1], Sept. 19, 1962, [76 Stat. 554][/us/stat/76/554], § 4005A; renumbered § 7105A and amended [Pub. L. 102–40, title IV, § 402(b)(1)][/us/pl/102/40/s402/b/1], (d)(1), May 7, 1991, [105 Stat. 238][/us/stat/105/238], 239.)
+(Added [Pub. L. 87–666][/us/pl/87/666], § 1, Sept. 19, 1962, [76 Stat. 554][/us/stat/76/554], § 4005A; renumbered § 7105A and amended [Pub. L. 102–40, title IV][/us/pl/102/40/tIV], § 402(b)(1), (d)(1), May 7, 1991, [105 Stat. 238][/us/stat/105/238], 239.)
 
  __Prior Provisions__ 
 
@@ -40,9 +40,9 @@
 ----------
 ----------
 
-[/us/pl/87/666/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F666%2Fs1
+[/us/pl/87/666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F666
 [/us/stat/76/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F554
-[/us/pl/102/40/s402/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs402%2Fb%2F1
+[/us/pl/102/40/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2FtIV
 [/us/stat/105/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F238
 [/us/usc/t38/s4007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs4007
 [/us/pl/87/666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F666

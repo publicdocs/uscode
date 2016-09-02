@@ -39,7 +39,7 @@
 
         (6) Disapproval under paragraph (1) shall apply only with respect to educational assistance under chapters 30 and 33 of this title.
 
-(Added [Pub. L. 88–126, § 1][/us/pl/88/126/s1], Sept. 23, 1963, [77 Stat. 162][/us/stat/77/162], § 1778; renumbered § 1779, [Pub. L. 90–77, title III, § 304(d)][/us/pl/90/77/s304/d], Aug. 31, 1967, [81 Stat. 186][/us/stat/81/186]; amended [Pub. L. 94–502, title V, § 513(a)(4)][/us/pl/94/502/s513/a/4], Oct. 15, 1976, [90 Stat. 2402][/us/stat/90/2402]; [Pub. L. 101–237, title IV, § 423(b)(1)(A)][/us/pl/101/237/s423/b/1/A], (2), Dec. 18, 1989, [103 Stat. 2092][/us/stat/103/2092]; renumbered § 3679, [Pub. L. 102–83, § 5(a)][/us/pl/102/83/s5/a], Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406]; [Pub. L. 111–377, title II, § 203(d)][/us/pl/111/377/s203/d], Jan. 4, 2011, [124 Stat. 4126][/us/stat/124/4126]; [Pub. L. 113–146, title VII, § 702(a)][/us/pl/113/146/s702/a], Aug. 7, 2014, [128 Stat. 1796][/us/stat/128/1796]; [Pub. L. 113–175, title IV, § 409(i)][/us/pl/113/175/s409/i], Sept. 26, 2014, [128 Stat. 1908][/us/stat/128/1908].)
+(Added [Pub. L. 88–126][/us/pl/88/126], § 1, Sept. 23, 1963, [77 Stat. 162][/us/stat/77/162], § 1778; renumbered § 1779, [Pub. L. 90–77, title III][/us/pl/90/77/tIII], § 304(d), Aug. 31, 1967, [81 Stat. 186][/us/stat/81/186]; amended [Pub. L. 94–502, title V][/us/pl/94/502/tV], § 513(a)(4), Oct. 15, 1976, [90 Stat. 2402][/us/stat/90/2402]; [Pub. L. 101–237, title IV][/us/pl/101/237/tIV], § 423(b)(1)(A), (2), Dec. 18, 1989, [103 Stat. 2092][/us/stat/103/2092]; renumbered § 3679, [Pub. L. 102–83][/us/pl/102/83], § 5(a), Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406]; [Pub. L. 111–377, title II][/us/pl/111/377/tII], § 203(d), Jan. 4, 2011, [124 Stat. 4126][/us/stat/124/4126]; [Pub. L. 113–146, title VII][/us/pl/113/146/tVII], § 702(a), Aug. 7, 2014, [128 Stat. 1796][/us/stat/128/1796]; [Pub. L. 113–175, title IV][/us/pl/113/175/tIV], § 409(i), Sept. 26, 2014, [128 Stat. 1908][/us/stat/128/1908].)
 
  __Amendments__ 
 
@@ -57,7 +57,7 @@
 
  __Effective Date of 2014 Amendment__ 
 
-[Pub. L. 113–146, title VII, § 702(b)][/us/pl/113/146/s702/b], Aug. 7, 2014, [128 Stat. 1797][/us/stat/128/1797], provided that: 
+[Pub. L. 113–146, title VII][/us/pl/113/146/tVII], § 702(b), Aug. 7, 2014, [128 Stat. 1797][/us/stat/128/1797], provided that: 
 
 > “Subsection (c) of [section 3679 of title 38][/us/usc/t38/s3679], United States Code (as added by subsection (a) of this section), shall apply with respect to educational assistance provided for pursuit of a program of education during a quarter, semester, or term, as applicable, that begins after July 1, 2015.”
 
@@ -76,21 +76,21 @@
 ----------
 ----------
 
-[/us/pl/88/126/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F126%2Fs1
+[/us/pl/88/126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F126
 [/us/stat/77/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F162
-[/us/pl/90/77/s304/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F77%2Fs304%2Fd
+[/us/pl/90/77/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F77%2FtIII
 [/us/stat/81/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F186
-[/us/pl/94/502/s513/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F502%2Fs513%2Fa%2F4
+[/us/pl/94/502/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F502%2FtV
 [/us/stat/90/2402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2402
-[/us/pl/101/237/s423/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237%2Fs423%2Fb%2F1%2FA
+[/us/pl/101/237/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237%2FtIV
 [/us/stat/103/2092]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2092
-[/us/pl/102/83/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fa
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F406
-[/us/pl/111/377/s203/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F377%2Fs203%2Fd
+[/us/pl/111/377/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F377%2FtII
 [/us/stat/124/4126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4126
-[/us/pl/113/146/s702/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F146%2Fs702%2Fa
+[/us/pl/113/146/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F146%2FtVII
 [/us/stat/128/1796]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1796
-[/us/pl/113/175/s409/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F175%2Fs409%2Fi
+[/us/pl/113/175/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F175%2FtIV
 [/us/stat/128/1908]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1908
 [/us/pl/113/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F146
 [/us/pl/113/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F175
@@ -100,7 +100,7 @@
 [/us/usc/t38/s1779]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1779
 [/us/pl/101/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237
 [/us/pl/94/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F502
-[/us/pl/113/146/s702/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F146%2Fs702%2Fb
+[/us/pl/113/146/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F146%2FtVII
 [/us/stat/128/1797]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1797
 [/us/usc/t38/s3679]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3679
 [/us/pl/111/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F377

@@ -23,7 +23,7 @@
 
     The underlying fee title interest of the United States in any land subject to an enhanced-use lease shall not be subject, directly or indirectly, to any provision of State or local law relating to taxation, fees, or assessments.
 
-(Added [Pub. L. 102–86, title IV, § 401(a)][/us/pl/102/86/s401/a], Aug. 14, 1991, [105 Stat. 421][/us/stat/105/421]; amended Pub. L. 112—154, title II, § 211(h), Aug. 6, 2012, [126 Stat. 1181][/us/stat/126/1181].)
+(Added [Pub. L. 102–86, title IV][/us/pl/102/86/tIV], § 401(a), Aug. 14, 1991, [105 Stat. 421][/us/stat/105/421]; amended Pub. L. 112—154, title II, § 211(h), Aug. 6, 2012, [126 Stat. 1181][/us/stat/126/1181].)
 
  __Amendments__ 
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/102/86/s401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F86%2Fs401%2Fa
+[/us/pl/102/86/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F86%2FtIV
 [/us/stat/105/421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F421
 [/us/stat/126/1181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1181
 [/us/pl/112/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154

@@ -55,7 +55,7 @@
 
     The Under Secretary for Health may prescribe policies and procedures to guide the spending of funds by corporations established under this subchapter that are consistent with the purpose of such corporations as flexible funding mechanisms and with Federal and State laws and regulations, and executive orders, circulars, and directives that apply generally to the receipt and expenditure of funds by nonprofit organizations exempt from taxation under section 501(c)(3) of the Internal Revenue Code of 1986.
 
-(Added [Pub. L. 100–322, title II, § 204(a)][/us/pl/100/322/s204/a], May 20, 1988, [102 Stat. 511][/us/stat/102/511], § 4164; renumbered § 7364 and amended [Pub. L. 102–40, title IV][/us/pl/102/40], §§ 401(a)(4)(B), 403(a)(2), May 7, 1991, [105 Stat. 221][/us/stat/105/221], 239; [Pub. L. 102–405, title III, § 302(c)(1)][/us/pl/102/405/s302/c/1], Oct. 9, 1992, [106 Stat. 1984][/us/stat/106/1984]; [Pub. L. 106–117, title II, § 204(d)][/us/pl/106/117/s204/d], Nov. 30, 1999, [113 Stat. 1562][/us/stat/113/1562]; [Pub. L. 111–163, title VIII, § 804(a)][/us/pl/111/163/s804/a], May 5, 2010, [124 Stat. 1177][/us/stat/124/1177].)
+(Added [Pub. L. 100–322, title II][/us/pl/100/322/tII], § 204(a), May 20, 1988, [102 Stat. 511][/us/stat/102/511], § 4164; renumbered § 7364 and amended [Pub. L. 102–40, title IV][/us/pl/102/40/tIV], §§ 401(a)(4)(B), 403(a)(2), May 7, 1991, [105 Stat. 221][/us/stat/105/221], 239; [Pub. L. 102–405, title III][/us/pl/102/405/tIII], § 302(c)(1), Oct. 9, 1992, [106 Stat. 1984][/us/stat/106/1984]; [Pub. L. 106–117, title II][/us/pl/106/117/tII], § 204(d), Nov. 30, 1999, [113 Stat. 1562][/us/stat/113/1562]; [Pub. L. 111–163, title VIII][/us/pl/111/163/tVIII], § 804(a), May 5, 2010, [124 Stat. 1177][/us/stat/124/1177].)
 
  __References in Text__ 
 
@@ -69,9 +69,9 @@
 
     1992—Subsec. (b). [Pub. L. 102–405][/us/pl/102/405] substituted “Under Secretary for Health” for “Chief Medical Director”.
 
-    1991—[Pub. L. 102–40, § 401(a)(4)(B)][/us/pl/102/40/s401/a/4/B], renumbered [section 4164 of this title][/us/usc/t38/s4164] as this section.
+    1991—[Pub. L. 102–40][/us/pl/102/40], § 401(a)(4)(B), renumbered [section 4164 of this title][/us/usc/t38/s4164] as this section.
 
-    Subsec. (b). [Pub. L. 102–40, § 403(a)(2)][/us/pl/102/40/s403/a/2], substituted “Department” for “Veterans’ Administration”.
+    Subsec. (b). [Pub. L. 102–40][/us/pl/102/40], § 403(a)(2), substituted “Department” for “Veterans’ Administration”.
 
 ----------
 
@@ -81,22 +81,22 @@
 ----------
 
 [/us/usc/t38/s7362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7362
-[/us/pl/100/322/s204/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F322%2Fs204%2Fa
+[/us/pl/100/322/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F322%2FtII
 [/us/stat/102/511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F511
-[/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40
+[/us/pl/102/40/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2FtIV
 [/us/stat/105/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F221
-[/us/pl/102/405/s302/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405%2Fs302%2Fc%2F1
+[/us/pl/102/405/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405%2FtIII
 [/us/stat/106/1984]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1984
-[/us/pl/106/117/s204/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117%2Fs204%2Fd
+[/us/pl/106/117/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117%2FtII
 [/us/stat/113/1562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1562
-[/us/pl/111/163/s804/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163%2Fs804%2Fa
+[/us/pl/111/163/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163%2FtVIII
 [/us/stat/124/1177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1177
 [/us/usc/t26/s501/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs501%2Fc%2F3
 [/us/pl/111/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163
 [/us/pl/106/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117
 [/us/pl/102/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405
-[/us/pl/102/40/s401/a/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs401%2Fa%2F4%2FB
+[/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40
 [/us/usc/t38/s4164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs4164
-[/us/pl/102/40/s403/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs403%2Fa%2F2
+[/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40
 
 

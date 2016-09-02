@@ -19,7 +19,7 @@
 
     (b) The Secretary may furnish sensori-neural aids only in accordance with guidelines prescribed by the Secretary.
 
-(Added [Pub. L. 105–12, § 9(i)(1)][/us/pl/105/12/s9/i/1], Apr. 30, 1997, [111 Stat. 27][/us/stat/111/27]; amended [Pub. L. 107–135, title II, § 208(a)(2)][/us/pl/107/135/s208/a/2], (f)(2), Jan. 23, 2002, [115 Stat. 2462][/us/stat/115/2462], 2464; [Pub. L. 107–330, title III, § 308(g)(5)][/us/pl/107/330/s308/g/5], Dec. 6, 2002, [116 Stat. 2829][/us/stat/116/2829].)
+(Added [Pub. L. 105–12][/us/pl/105/12], § 9(i)(1), Apr. 30, 1997, [111 Stat. 27][/us/stat/111/27]; amended [Pub. L. 107–135, title II][/us/pl/107/135/tII], § 208(a)(2), (f)(2), Jan. 23, 2002, [115 Stat. 2462][/us/stat/115/2462], 2464; [Pub. L. 107–330, title III][/us/pl/107/330/tIII], § 308(g)(5), Dec. 6, 2002, [116 Stat. 2829][/us/stat/116/2829].)
 
  __References in Text__ 
 
@@ -27,9 +27,9 @@
 
  __Amendments__ 
 
-    2002—[Pub. L. 107–135, § 208(f)(2)][/us/pl/107/135/s208/f/2], substituted “Limitations” for “Restriction on use of funds for assisted suicide, euthanasia, or mercy killing” as section catchline.
+    2002—[Pub. L. 107–135][/us/pl/107/135], § 208(f)(2), substituted “Limitations” for “Restriction on use of funds for assisted suicide, euthanasia, or mercy killing” as section catchline.
 
-    [Pub. L. 107–135, § 208(a)(2)][/us/pl/107/135/s208/a/2], designated existing provisions as subsec. (a) and added subsec. (b).
+    [Pub. L. 107–135][/us/pl/107/135], § 208(a)(2), designated existing provisions as subsec. (a) and added subsec. (b).
 
     Subsec. (a). [Pub. L. 107–330][/us/pl/107/330] inserted “([42 U.S.C. 14401][/us/usc/t42/s14401] et seq.)” before period at end.
 
@@ -45,17 +45,17 @@
 ----------
 
 [/us/usc/t42/s14401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs14401
-[/us/pl/105/12/s9/i/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F12%2Fs9%2Fi%2F1
+[/us/pl/105/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F12
 [/us/stat/111/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F27
-[/us/pl/107/135/s208/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F135%2Fs208%2Fa%2F2
+[/us/pl/107/135/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F135%2FtII
 [/us/stat/115/2462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2462
-[/us/pl/107/330/s308/g/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F330%2Fs308%2Fg%2F5
+[/us/pl/107/330/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F330%2FtIII
 [/us/stat/116/2829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2829
 [/us/pl/105/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F12
 [/us/stat/111/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F23
 [/us/usc/t42/s14401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs14401
-[/us/pl/107/135/s208/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F135%2Fs208%2Ff%2F2
-[/us/pl/107/135/s208/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F135%2Fs208%2Fa%2F2
+[/us/pl/107/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F135
+[/us/pl/107/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F135
 [/us/pl/107/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F330
 [/us/usc/t42/s14401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs14401
 [/us/pl/105/12/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F12%2Fs11

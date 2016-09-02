@@ -125,7 +125,7 @@
 
     (g) The Secretary may contract with appropriate entities to provide specialized residential care and rehabilitation services to a veteran of Operation Enduring Freedom or Operation Iraqi Freedom who the Secretary determines suffers from a traumatic brain injury, has an accumulation of deficits in activities of daily living and instrumental activities of daily living, and because of these deficits, would otherwise require admission to a nursing home even though such care would generally exceed the veteran’s nursing needs.
 
-(Added [Pub. L. 88–450, § 2(a)][/us/pl/88/450/s2/a], Aug. 19, 1964, [78 Stat. 500][/us/stat/78/500], § 620; amended [Pub. L. 90–429][/us/pl/90/429], July 26, 1968, [82 Stat. 446][/us/stat/82/446]; [Pub. L. 90–612][/us/pl/90/612], §§ 1, 3, Oct. 21, 1968, [82 Stat. 1202][/us/stat/82/1202]; [Pub. L. 91–101][/us/pl/91/101], Oct. 30, 1969, [83 Stat. 167][/us/stat/83/167]; [Pub. L. 93–82, title I, § 104][/us/pl/93/82/s104], Aug. 2, 1973, [87 Stat. 182][/us/stat/87/182]; [Pub. L. 94–581, title I, § 106][/us/pl/94/581/s106], title II, §§ 202(h), 210(a)(7), Oct. 21, 1976, [90 Stat. 2847][/us/stat/90/2847], 2856, 2863; [Pub. L. 97–295, § 4(19)][/us/pl/97/295/s4/19], Oct. 12, 1982, [96 Stat. 1306][/us/stat/96/1306]; [Pub. L. 98–160, title I, § 103(a)(1)][/us/pl/98/160/s103/a/1], (2), Nov. 21, 1983, [97 Stat. 995][/us/stat/97/995]; [Pub. L. 99–166, title I, § 108(a)][/us/pl/99/166/s108/a]–(c), Dec. 3, 1985, [99 Stat. 946][/us/stat/99/946], 947; [Pub. L. 99–272, title XIX, § 19011(d)(5)][/us/pl/99/272/s19011/d/5], Apr. 7, 1986, [100 Stat. 379][/us/stat/100/379]; [Pub. L. 100–322, title I][/us/pl/100/322], §§ 103(b), 111(a), May 20, 1988, [102 Stat. 493][/us/stat/102/493], 499; renumbered § 1720 and amended [Pub. L. 102–83][/us/pl/102/83], §§ 4(a)(2)(A)(ii), (3)–(5), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, [105 Stat. 403–406][/us/stat/105/403-406]; [Pub. L. 102–405, title III, § 302(c)(1)][/us/pl/102/405/s302/c/1], Oct. 9, 1992, [106 Stat. 1984][/us/stat/106/1984]; [Pub. L. 104–262, title I, § 101(d)(8)][/us/pl/104/262/s101/d/8], Oct. 9, 1996, [110 Stat. 3180][/us/stat/110/3180]; [Pub. L. 105–114, title IV, § 402(c)][/us/pl/105/114/s402/c], Nov. 21, 1997, [111 Stat. 2294][/us/stat/111/2294]; [Pub. L. 106–117, title I, § 101(d)][/us/pl/106/117/s101/d], Nov. 30, 1999, [113 Stat. 1549][/us/stat/113/1549]; [Pub. L. 108–170, title I, § 105][/us/pl/108/170/s105], Dec. 6, 2003, [117 Stat. 2045][/us/stat/117/2045]; [Pub. L. 111–163, title V, § 507][/us/pl/111/163/s507], May 5, 2010, [124 Stat. 1161][/us/stat/124/1161]; [Pub. L. 111–350, § 5(j)(1)][/us/pl/111/350/s5/j/1], Jan. 4, 2011, [124 Stat. 3850][/us/stat/124/3850]; [Pub. L. 112–154, title I, § 105(b)][/us/pl/112/154/s105/b], Aug. 6, 2012, [126 Stat. 1170][/us/stat/126/1170].)
+(Added [Pub. L. 88–450][/us/pl/88/450], § 2(a), Aug. 19, 1964, [78 Stat. 500][/us/stat/78/500], § 620; amended [Pub. L. 90–429][/us/pl/90/429], July 26, 1968, [82 Stat. 446][/us/stat/82/446]; [Pub. L. 90–612][/us/pl/90/612], §§ 1, 3, Oct. 21, 1968, [82 Stat. 1202][/us/stat/82/1202]; [Pub. L. 91–101][/us/pl/91/101], Oct. 30, 1969, [83 Stat. 167][/us/stat/83/167]; [Pub. L. 93–82, title I][/us/pl/93/82/tI], § 104, Aug. 2, 1973, [87 Stat. 182][/us/stat/87/182]; [Pub. L. 94–581, title I][/us/pl/94/581/tI], § 106, title II, §§ 202(h), 210(a)(7), Oct. 21, 1976, [90 Stat. 2847][/us/stat/90/2847], 2856, 2863; [Pub. L. 97–295][/us/pl/97/295], § 4(19), Oct. 12, 1982, [96 Stat. 1306][/us/stat/96/1306]; [Pub. L. 98–160, title I][/us/pl/98/160/tI], § 103(a)(1), (2), Nov. 21, 1983, [97 Stat. 995][/us/stat/97/995]; [Pub. L. 99–166, title I][/us/pl/99/166/tI], § 108(a)–(c), Dec. 3, 1985, [99 Stat. 946][/us/stat/99/946], 947; [Pub. L. 99–272, title XIX][/us/pl/99/272/tXIX], § 19011(d)(5), Apr. 7, 1986, [100 Stat. 379][/us/stat/100/379]; [Pub. L. 100–322, title I][/us/pl/100/322/tI], §§ 103(b), 111(a), May 20, 1988, [102 Stat. 493][/us/stat/102/493], 499; renumbered § 1720 and amended [Pub. L. 102–83][/us/pl/102/83], §§ 4(a)(2)(A)(ii), (3)–(5), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, [105 Stat. 403–406][/us/stat/105/403-406]; [Pub. L. 102–405, title III][/us/pl/102/405/tIII], § 302(c)(1), Oct. 9, 1992, [106 Stat. 1984][/us/stat/106/1984]; [Pub. L. 104–262, title I][/us/pl/104/262/tI], § 101(d)(8), Oct. 9, 1996, [110 Stat. 3180][/us/stat/110/3180]; [Pub. L. 105–114, title IV][/us/pl/105/114/tIV], § 402(c), Nov. 21, 1997, [111 Stat. 2294][/us/stat/111/2294]; [Pub. L. 106–117, title I][/us/pl/106/117/tI], § 101(d), Nov. 30, 1999, [113 Stat. 1549][/us/stat/113/1549]; [Pub. L. 108–170, title I][/us/pl/108/170/tI], § 105, Dec. 6, 2003, [117 Stat. 2045][/us/stat/117/2045]; [Pub. L. 111–163, title V][/us/pl/111/163/tV], § 507, May 5, 2010, [124 Stat. 1161][/us/stat/124/1161]; [Pub. L. 111–350][/us/pl/111/350], § 5(j)(1), Jan. 4, 2011, [124 Stat. 3850][/us/stat/124/3850]; [Pub. L. 112–154, title I][/us/pl/112/154/tI], § 105(b), Aug. 6, 2012, [126 Stat. 1170][/us/stat/126/1170].)
 
  __References in Text__ 
 
@@ -143,9 +143,9 @@
 
     2010—Subsec. (g). [Pub. L. 111–163][/us/pl/111/163] added subsec. (g).
 
-    2003—Subsec. (c). [Pub. L. 108–170, § 105(a)][/us/pl/108/170/s105/a], designated existing provisions as par. (2) and added par. (1).
+    2003—Subsec. (c). [Pub. L. 108–170][/us/pl/108/170], § 105(a), designated existing provisions as par. (2) and added par. (1).
 
-    Subsec. (f)(1)(B). [Pub. L. 108–170, § 105(b)][/us/pl/108/170/s105/b], inserted “or agreement” after “contract” in two places.
+    Subsec. (f)(1)(B). [Pub. L. 108–170][/us/pl/108/170], § 105(b), inserted “or agreement” after “contract” in two places.
 
     1999—Subsec. (f)(1)(A). [Pub. L. 106–117][/us/pl/106/117] amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “The Secretary is authorized to furnish adult day health care as provided for in this subsection. For the purpose only of authorizing the furnishing of such care and specifying the terms and conditions under which it may be furnished to veterans needing such care—
 
@@ -155,53 +155,53 @@
 
     1997—Subsec. (a)(1)(A)(i). [Pub. L. 105–114][/us/pl/105/114] substituted “care” for “hospital care, nursing home care, or domiciliary care”.
 
-    1996—Subsec. (f)(1)(A)(ii). [Pub. L. 104–262, § 101(d)(8)(A)][/us/pl/104/262/s101/d/8/A], substituted “paragraph (1), (2), or (3) of section 1710(a)” for “section 1712(a)(1)(B)”.
+    1996—Subsec. (f)(1)(A)(ii). [Pub. L. 104–262][/us/pl/104/262], § 101(d)(8)(A), substituted “paragraph (1), (2), or (3) of section 1710(a)” for “section 1712(a)(1)(B)”.
 
-    Subsec. (f)(3). [Pub. L. 104–262, § 101(d)(8)(B)][/us/pl/104/262/s101/d/8/B], struck out par. (3) which read as follows: “Adult day health care may not be furnished under this section after September 30, 1991.”
+    Subsec. (f)(3). [Pub. L. 104–262][/us/pl/104/262], § 101(d)(8)(B), struck out par. (3) which read as follows: “Adult day health care may not be furnished under this section after September 30, 1991.”
 
     1992—Subsec. (a)(2)(B). [Pub. L. 102–405][/us/pl/102/405] substituted “Under Secretary for Health” for “Chief Medical Director”.
 
-    1991—[Pub. L. 102–83, § 5(a)][/us/pl/102/83/s5/a], renumbered [section 620 of this title][/us/usc/t38/s620] as this section.
+    1991—[Pub. L. 102–83][/us/pl/102/83], § 5(a), renumbered [section 620 of this title][/us/usc/t38/s620] as this section.
 
-    Subsec. (a). [Pub. L. 102–83, § 4(b)(1)][/us/pl/102/83/s4/b/1], (2)(E), substituted “Secretary” for “Administrator” wherever appearing in par. (1) introductory provisions and subpar. (A) and pars. (2) to (4).
+    Subsec. (a). [Pub. L. 102–83][/us/pl/102/83], § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing in par. (1) introductory provisions and subpar. (A) and pars. (2) to (4).
 
-    [Pub. L. 102–83, § 4(a)(5)][/us/pl/102/83/s4/a/5], substituted “non-Department” for “non-Veterans’ Administration” wherever appearing in pars. (1) and (3)(A)(i).
+    [Pub. L. 102–83][/us/pl/102/83], § 4(a)(5), substituted “non-Department” for “non-Veterans’ Administration” wherever appearing in pars. (1) and (3)(A)(i).
 
-    [Pub. L. 102–83, § 4(a)(3)][/us/pl/102/83/s4/a/3], (4), substituted “Department” for “Veterans’ Administration” in par. (2)(A).
+    [Pub. L. 102–83][/us/pl/102/83], § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration” in par. (2)(A).
 
-    Subsec. (b). [Pub. L. 102–83, § 4(b)(1)][/us/pl/102/83/s4/b/1], (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
+    Subsec. (b). [Pub. L. 102–83][/us/pl/102/83], § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
 
-    Subsec. (d)(1). [Pub. L. 102–83, § 4(b)(1)][/us/pl/102/83/s4/b/1], (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
+    Subsec. (d)(1). [Pub. L. 102–83][/us/pl/102/83], § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
 
-    [Pub. L. 102–83, § 4(a)(5)][/us/pl/102/83/s4/a/5], substituted “non-Department” for “non-Veterans’ Administration”.
+    [Pub. L. 102–83][/us/pl/102/83], § 4(a)(5), substituted “non-Department” for “non-Veterans’ Administration”.
 
-    [Pub. L. 102–83, § 4(a)(3)][/us/pl/102/83/s4/a/3], (4), substituted “Department” for “Veterans’ Administration”.
+    [Pub. L. 102–83][/us/pl/102/83], § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration”.
 
-    Subsec. (d)(2)(A). [Pub. L. 102–83, § 4(a)(3)][/us/pl/102/83/s4/a/3], (4), substituted “Department” for “Veterans’ Administration”.
+    Subsec. (d)(2)(A). [Pub. L. 102–83][/us/pl/102/83], § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration”.
 
-    Subsec. (e). [Pub. L. 102–83, § 4(b)(1)][/us/pl/102/83/s4/b/1], (2)(E), substituted “Secretary” for “Administrator” in pars. (1) and (2).
+    Subsec. (e). [Pub. L. 102–83][/us/pl/102/83], § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in pars. (1) and (2).
 
-    [Pub. L. 102–83, § 4(a)(5)][/us/pl/102/83/s4/a/5], substituted “non-Department” for “non-Veterans’ Administration” in par. (2).
+    [Pub. L. 102–83][/us/pl/102/83], § 4(a)(5), substituted “non-Department” for “non-Veterans’ Administration” in par. (2).
 
-    Subsec. (f)(1)(A). [Pub. L. 102–83, § 4(b)(1)][/us/pl/102/83/s4/b/1], (2)(E), substituted “Secretary” for “Administrator” in introductory provisions.
+    Subsec. (f)(1)(A). [Pub. L. 102–83][/us/pl/102/83], § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in introductory provisions.
 
-    Subsec. (f)(1)(A)(ii). [Pub. L. 102–83, § 5(c)(1)][/us/pl/102/83/s5/c/1], substituted “1712(a)(1)(B)” for “612(a)(1)(B)”.
+    Subsec. (f)(1)(A)(ii). [Pub. L. 102–83][/us/pl/102/83], § 5(c)(1), substituted “1712(a)(1)(B)” for “612(a)(1)(B)”.
 
-    Subsec. (f)(1)(B). [Pub. L. 102–83, § 4(b)(1)][/us/pl/102/83/s4/b/1], (2)(E), substituted “Secretary” for “Administrator” before “may” in two places.
+    Subsec. (f)(1)(B). [Pub. L. 102–83][/us/pl/102/83], § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” before “may” in two places.
 
-    [Pub. L. 102–83, § 4(a)(3)][/us/pl/102/83/s4/a/3], (4), substituted “Department” for “Veterans’ Administration” wherever appearing.
+    [Pub. L. 102–83][/us/pl/102/83], § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration” wherever appearing.
 
-    [Pub. L. 102–83, § 4(a)(2)(A)(ii)][/us/pl/102/83/s4/a/2/A/ii], substituted “Secretary” for “Veterans’ Administration” in second sentence.
+    [Pub. L. 102–83][/us/pl/102/83], § 4(a)(2)(A)(ii), substituted “Secretary” for “Veterans’ Administration” in second sentence.
 
-    Subsec. (f)(2). [Pub. L. 102–83, § 4(b)(1)][/us/pl/102/83/s4/b/1], (2)(E), substituted “Secretary” for “Administrator” in two places.
+    Subsec. (f)(2). [Pub. L. 102–83][/us/pl/102/83], § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in two places.
 
-    1988—Subsec. (e)(1). [Pub. L. 100–322, § 103(b)][/us/pl/100/322/s103/b], struck out “For the purposes of this section, the term ‘nursing home care’ includes intermediate care, as determined by the Administrator in accordance with regulations which the Administrator shall prescribe.” at beginning and struck out “(as defined in [section 101(28) of this title][/us/usc/t38/s101/28])” after “provided for nursing home care”.
+    1988—Subsec. (e)(1). [Pub. L. 100–322][/us/pl/100/322], § 103(b), struck out “For the purposes of this section, the term ‘nursing home care’ includes intermediate care, as determined by the Administrator in accordance with regulations which the Administrator shall prescribe.” at beginning and struck out “(as defined in [section 101(28) of this title][/us/usc/t38/s101/28])” after “provided for nursing home care”.
 
-    Subsec. (f)(3). [Pub. L. 100–322, § 111(a)][/us/pl/100/322/s111/a], substituted “September 30, 1991” for “September 30, 1988”.
+    Subsec. (f)(3). [Pub. L. 100–322][/us/pl/100/322], § 111(a), substituted “September 30, 1991” for “September 30, 1988”.
 
     1986—Subsec. (f)(1)(A)(ii). [Pub. L. 99–272][/us/pl/99/272] substituted “612(a)(1)(B)” for “612(f)(2)”.
 
-    1985—Subsec. (a). [Pub. L. 99–166, § 108(a)][/us/pl/99/166/s108/a], amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Subject to subsection (b) and except as provided in subsection (e) of this section, the Administrator may transfer—
+    1985—Subsec. (a). [Pub. L. 99–166][/us/pl/99/166], § 108(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Subject to subsection (b) and except as provided in subsection (e) of this section, the Administrator may transfer—
 
     “(1) Any veteran who has been furnished care by the Administrator in a hospital under the direct jurisdiction of the Administrator, and
 
@@ -215,41 +215,41 @@
 
     Nursing home care may not be furnished pursuant to this section at the expense of the United States for more than six months in the aggregate in connection with any one transfer, except (I) in the case of the veteran whose hospitalization was primarily for a service-connected disability, or (II) where in the judgment of the Administrator a longer period is warranted in the case of any other veteran. Any veteran who is furnished care by the Administrator in a hospital in Alaska or Hawaii may be furnished nursing home care under the provisions of this section even if such hospital is not under the direct jurisdiction of the Administrator.”
 
-    Subsec. (d). [Pub. L. 99–166, § 108(b)][/us/pl/99/166/s108/b], designated existing first sentence as par. (1), substituted “to any non-Veterans’ Administration nursing home” for “to any public or private institution not under the jurisdiction of the Administrator which furnishes nursing home care”, inserted “The Administrator may also authorize a direct admission to such a nursing home for nursing home care for any veteran who has been discharged from a hospital under the direct jurisdiction of the Administrator and who is currently receiving medical services as part of home health services from the Veterans’ Administration.”, substituted par. (2) for “Such admission may be authorized upon determination of need therefor by a physician employed by the Veterans’ Administration or, in areas where no such physician is available, carrying out such function under contract or fee arrangement based on an examination by such physician.”, and designated existing last sentence as par. (3).
+    Subsec. (d). [Pub. L. 99–166][/us/pl/99/166], § 108(b), designated existing first sentence as par. (1), substituted “to any non-Veterans’ Administration nursing home” for “to any public or private institution not under the jurisdiction of the Administrator which furnishes nursing home care”, inserted “The Administrator may also authorize a direct admission to such a nursing home for nursing home care for any veteran who has been discharged from a hospital under the direct jurisdiction of the Administrator and who is currently receiving medical services as part of home health services from the Veterans’ Administration.”, substituted par. (2) for “Such admission may be authorized upon determination of need therefor by a physician employed by the Veterans’ Administration or, in areas where no such physician is available, carrying out such function under contract or fee arrangement based on an examination by such physician.”, and designated existing last sentence as par. (3).
 
-    Subsec. (e). [Pub. L. 99–166, § 108(c)][/us/pl/99/166/s108/c], designated existing provisions as par. (1), substituted “subsection (a)(2)(B)” for “subsection (a)(ii)” in second sentence, and added par. (2).
+    Subsec. (e). [Pub. L. 99–166][/us/pl/99/166], § 108(c), designated existing provisions as par. (1), substituted “subsection (a)(2)(B)” for “subsection (a)(ii)” in second sentence, and added par. (2).
 
-    1983—[Pub. L. 98–160, § 103(a)(2)][/us/pl/98/160/s103/a/2], inserted “; adult day health care” in section catchline.
+    1983—[Pub. L. 98–160][/us/pl/98/160], § 103(a)(2), inserted “; adult day health care” in section catchline.
 
-    Subsec. (f). [Pub. L. 98–160, § 103(a)(1)][/us/pl/98/160/s103/a/1], added subsec. (f).
+    Subsec. (f). [Pub. L. 98–160][/us/pl/98/160], § 103(a)(1), added subsec. (f).
 
-    1982—Subsec. (a)(ii) [Pub. L. 97–295, § 4(19)(A)][/us/pl/97/295/s4/19/A], substituted “percent” for “per centum” wherever appearing.
+    1982—Subsec. (a)(ii) [Pub. L. 97–295][/us/pl/97/295], § 4(19)(A), substituted “percent” for “per centum” wherever appearing.
 
-    Subsec. (c). [Pub. L. 97–295, § 4(19)(B)][/us/pl/97/295/s4/19/B], inserted “([41 U.S.C. 351(b)(1)][/us/usc/t41/s351/b/1])” after “the Service Contract Act of 1965” and substituted “([29 U.S.C. 206(b)][/us/usc/t29/s206/b])” for “, as amended,”.
+    Subsec. (c). [Pub. L. 97–295][/us/pl/97/295], § 4(19)(B), inserted “([41 U.S.C. 351(b)(1)][/us/usc/t41/s351/b/1])” after “the Service Contract Act of 1965” and substituted “([29 U.S.C. 206(b)][/us/usc/t29/s206/b])” for “, as amended,”.
 
     1976—Subsec. (a). [Pub. L. 94–581][/us/pl/94/581], §§ 106(1)–(3), 202(h), inserted “and except as provided in subsection (e)” after “subsection (b)” in provisions preceding par. (1), substituted “direct jurisdiction” for “direct and exclusive jurisdiction” in par. (1), substituted “45 per centum” for “40 per centum” and “annually” for “from time to time” in cl. (ii) and inserted “, or not to exceed 50 per centum of such cost where determined necessary by the Administrator, upon recommendation of the Chief Medical Director, to provide adequate care” at the end thereof, and substituted “direct jurisdiction” for “direct and exclusive jurisdiction” in provisions following cl. (ii).
 
-    Subsec. (b). [Pub. L. 94–581, § 210(a)(7)][/us/pl/94/581/s210/a/7], substituted “such standards as the Administrator may prescribe” for “such standards as he may prescribe”.
+    Subsec. (b). [Pub. L. 94–581][/us/pl/94/581], § 210(a)(7), substituted “such standards as the Administrator may prescribe” for “such standards as he may prescribe”.
 
-    Subsec. (e). [Pub. L. 94–581, § 106(4)][/us/pl/94/581/s106/4], added subsec. (e).
+    Subsec. (e). [Pub. L. 94–581][/us/pl/94/581], § 106(4), added subsec. (e).
 
-    1973—Subsec. (a). [Pub. L. 93–82, § 104(a)][/us/pl/93/82/s104/a], (b), designated cls. (1) and (2) as (i) and (ii), respectively, and in provisions preceding cl. (i) as so designated, substituted authority of the Administrator to transfer veterans and other persons under pars. (1) and (2), for authority of the Administrator to transfer veterans who have been furnished care by the Administrator in a hospital under the direct and exclusive jurisdiction of the Administrator, to any public or private institution not under the jurisdiction of the Administrator which furnishes nursing home care for care at the expense of the United States, and in the provisions following cl. (ii) as so designated, substituted designations (I) and (II) for designations (A) and (B).
+    1973—Subsec. (a). [Pub. L. 93–82][/us/pl/93/82], § 104(a), (b), designated cls. (1) and (2) as (i) and (ii), respectively, and in provisions preceding cl. (i) as so designated, substituted authority of the Administrator to transfer veterans and other persons under pars. (1) and (2), for authority of the Administrator to transfer veterans who have been furnished care by the Administrator in a hospital under the direct and exclusive jurisdiction of the Administrator, to any public or private institution not under the jurisdiction of the Administrator which furnishes nursing home care for care at the expense of the United States, and in the provisions following cl. (ii) as so designated, substituted designations (I) and (II) for designations (A) and (B).
 
-    Subsec. (b). [Pub. L. 93–82, § 104(c)][/us/pl/93/82/s104/c], inserted provisions relating to the admissions of veterans to institutions for nursing home care and for the furnishing of standards and reports to Federal, State and local agencies charged with the responsibility of licensing or otherwise regulating or inspecting such institutions.
+    Subsec. (b). [Pub. L. 93–82][/us/pl/93/82], § 104(c), inserted provisions relating to the admissions of veterans to institutions for nursing home care and for the furnishing of standards and reports to Federal, State and local agencies charged with the responsibility of licensing or otherwise regulating or inspecting such institutions.
 
-    Subsec. (d). [Pub. L. 93–82, § 104(d)][/us/pl/93/82/s104/d], added subsec. (d).
+    Subsec. (d). [Pub. L. 93–82][/us/pl/93/82], § 104(d), added subsec. (d).
 
     1969—Subsec. (a). [Pub. L. 91–101][/us/pl/91/101] inserted provision authorizing the furnishing of nursing home care for more than six months in the aggregate in connection with any one transfer in the case of a veteran whose hospitalization was primarily for a service-connected disability.
 
-    1968—Subsec. (a). [Pub. L. 90–612, § 1][/us/pl/90/612/s1], authorized furnishing of nursing home care to veterans who are being furnished care by the Administrator in hospitals in Alaska or Hawaii even if the hospitals involved are not under the direct and exclusive jurisdiction of the Administrator.
+    1968—Subsec. (a). [Pub. L. 90–612][/us/pl/90/612], § 1, authorized furnishing of nursing home care to veterans who are being furnished care by the Administrator in hospitals in Alaska or Hawaii even if the hospitals involved are not under the direct and exclusive jurisdiction of the Administrator.
 
     Subsec. (a)(2). [Pub. L. 90–429][/us/pl/90/429] substituted “40 per centum” for “one-third”.
 
-    Subsec. (c). [Pub. L. 90–612, § 3][/us/pl/90/612/s3], added subsec. (c).
+    Subsec. (c). [Pub. L. 90–612][/us/pl/90/612], § 3, added subsec. (c).
 
  __Effective Date of 2012 Amendment__ 
 
-[Pub. L. 112–154, title I, § 105(c)][/us/pl/112/154/s105/c], Aug. 6, 2012, [126 Stat. 1170][/us/stat/126/1170], provided that:
+[Pub. L. 112–154, title I][/us/pl/112/154/tI], § 105(c), Aug. 6, 2012, [126 Stat. 1170][/us/stat/126/1170], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -273,9 +273,9 @@
 
  __Comparison Study Between Adult Day Health Care and Nursing Home Care__ 
 
-    [Pub. L. 100–322, title I][/us/pl/100/322], §111(b), (c), May 20, 1988, [102 Stat. 499][/us/stat/102/499], directed Administrator to conduct a study of medical efficacy and cost-effectiveness of furnishing adult day health care under subsec. (f) of this section as an alternative to nursing home care and the comparative advantages and disadvantages of providing such care through facilities that are not under direct jurisdiction of Administrator and through facilities that are under direct jurisdiction of Administrator, with Administrator to submit to Committees on Veterans’ Affairs of Senate and House of Representatives an interim report on the study not later than Feb. 1, 1988, a final report on such study not later than Feb. 1, 1991.
+    [Pub. L. 100–322, title I][/us/pl/100/322/tI], §111(b), (c), May 20, 1988, [102 Stat. 499][/us/stat/102/499], directed Administrator to conduct a study of medical efficacy and cost-effectiveness of furnishing adult day health care under subsec. (f) of this section as an alternative to nursing home care and the comparative advantages and disadvantages of providing such care through facilities that are not under direct jurisdiction of Administrator and through facilities that are under direct jurisdiction of Administrator, with Administrator to submit to Committees on Veterans’ Affairs of Senate and House of Representatives an interim report on the study not later than Feb. 1, 1988, a final report on such study not later than Feb. 1, 1991.
 
-    [Pub. L. 98–160, title I, § 103(b)][/us/pl/98/160/s103/b], (c), Nov. 21, 1983, [97 Stat. 996][/us/stat/97/996], which provided for a study and report, not later than Feb. 1, 1988, of the medical efficacy and cost-effectiveness of furnishing adult day health care as an alternative for nursing home care and of the comparative advantages and disadvantages of providing such care in Veterans’ Administration or in other facilities, was repealed by [Pub. L. 100–322, title I, § 111(d)][/us/pl/100/322/s111/d], May 20, 1988, [102 Stat. 499][/us/stat/102/499].
+    [Pub. L. 98–160, title I][/us/pl/98/160/tI], § 103(b), (c), Nov. 21, 1983, [97 Stat. 996][/us/stat/97/996], which provided for a study and report, not later than Feb. 1, 1988, of the medical efficacy and cost-effectiveness of furnishing adult day health care as an alternative for nursing home care and of the comparative advantages and disadvantages of providing such care in Veterans’ Administration or in other facilities, was repealed by [Pub. L. 100–322, title I][/us/pl/100/322/tI], § 111(d), May 20, 1988, [102 Stat. 499][/us/stat/102/499].
 
 ----------
 
@@ -291,7 +291,7 @@
 [/us/usc/t29/s206/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs206%2Fb
 [/us/usc/t38/s1705/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1705%2Fa
 [/us/usc/t38/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs111
-[/us/pl/88/450/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F450%2Fs2%2Fa
+[/us/pl/88/450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F450
 [/us/stat/78/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F500
 [/us/pl/90/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F429
 [/us/stat/82/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F446
@@ -299,37 +299,37 @@
 [/us/stat/82/1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1202
 [/us/pl/91/101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F101
 [/us/stat/83/167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F167
-[/us/pl/93/82/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F82%2Fs104
+[/us/pl/93/82/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F82%2FtI
 [/us/stat/87/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F182
-[/us/pl/94/581/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F581%2Fs106
+[/us/pl/94/581/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F581%2FtI
 [/us/stat/90/2847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2847
-[/us/pl/97/295/s4/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295%2Fs4%2F19
+[/us/pl/97/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295
 [/us/stat/96/1306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1306
-[/us/pl/98/160/s103/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F160%2Fs103%2Fa%2F1
+[/us/pl/98/160/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F160%2FtI
 [/us/stat/97/995]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F995
-[/us/pl/99/166/s108/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F166%2Fs108%2Fa
+[/us/pl/99/166/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F166%2FtI
 [/us/stat/99/946]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F946
-[/us/pl/99/272/s19011/d/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs19011%2Fd%2F5
+[/us/pl/99/272/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2FtXIX
 [/us/stat/100/379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F379
-[/us/pl/100/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F322
+[/us/pl/100/322/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F322%2FtI
 [/us/stat/102/493]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F493
 [/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/403-406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F403-406
-[/us/pl/102/405/s302/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405%2Fs302%2Fc%2F1
+[/us/pl/102/405/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405%2FtIII
 [/us/stat/106/1984]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1984
-[/us/pl/104/262/s101/d/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F262%2Fs101%2Fd%2F8
+[/us/pl/104/262/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F262%2FtI
 [/us/stat/110/3180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3180
-[/us/pl/105/114/s402/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F114%2Fs402%2Fc
+[/us/pl/105/114/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F114%2FtIV
 [/us/stat/111/2294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2294
-[/us/pl/106/117/s101/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117%2Fs101%2Fd
+[/us/pl/106/117/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117%2FtI
 [/us/stat/113/1549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1549
-[/us/pl/108/170/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F170%2Fs105
+[/us/pl/108/170/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F170%2FtI
 [/us/stat/117/2045]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2045
-[/us/pl/111/163/s507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163%2Fs507
+[/us/pl/111/163/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163%2FtV
 [/us/stat/124/1161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1161
-[/us/pl/111/350/s5/j/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs5%2Fj%2F1
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3850]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3850
-[/us/pl/112/154/s105/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154%2Fs105%2Fb
+[/us/pl/112/154/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154%2FtI
 [/us/stat/126/1170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1170
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
@@ -340,56 +340,56 @@
 [/us/usc/t41/s6704/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs6704%2Fa
 [/us/usc/t41/s351/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs351%2Fb%2F1
 [/us/pl/111/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163
-[/us/pl/108/170/s105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F170%2Fs105%2Fa
-[/us/pl/108/170/s105/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F170%2Fs105%2Fb
+[/us/pl/108/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F170
+[/us/pl/108/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F170
 [/us/pl/106/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117
 [/us/usc/t38/s1710/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1710%2Fa
 [/us/pl/105/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F114
-[/us/pl/104/262/s101/d/8/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F262%2Fs101%2Fd%2F8%2FA
-[/us/pl/104/262/s101/d/8/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F262%2Fs101%2Fd%2F8%2FB
+[/us/pl/104/262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F262
+[/us/pl/104/262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F262
 [/us/pl/102/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405
-[/us/pl/102/83/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fa
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/usc/t38/s620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs620
-[/us/pl/102/83/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fb%2F1
-[/us/pl/102/83/s4/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fa%2F5
-[/us/pl/102/83/s4/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fa%2F3
-[/us/pl/102/83/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fb%2F1
-[/us/pl/102/83/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fb%2F1
-[/us/pl/102/83/s4/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fa%2F5
-[/us/pl/102/83/s4/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fa%2F3
-[/us/pl/102/83/s4/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fa%2F3
-[/us/pl/102/83/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fb%2F1
-[/us/pl/102/83/s4/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fa%2F5
-[/us/pl/102/83/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fb%2F1
-[/us/pl/102/83/s5/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fc%2F1
-[/us/pl/102/83/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fb%2F1
-[/us/pl/102/83/s4/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fa%2F3
-[/us/pl/102/83/s4/a/2/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fa%2F2%2FA%2Fii
-[/us/pl/102/83/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fb%2F1
-[/us/pl/100/322/s103/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F322%2Fs103%2Fb
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/100/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F322
 [/us/usc/t38/s101/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs101%2F28
-[/us/pl/100/322/s111/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F322%2Fs111%2Fa
+[/us/pl/100/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F322
 [/us/pl/99/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272
-[/us/pl/99/166/s108/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F166%2Fs108%2Fa
-[/us/pl/99/166/s108/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F166%2Fs108%2Fb
-[/us/pl/99/166/s108/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F166%2Fs108%2Fc
-[/us/pl/98/160/s103/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F160%2Fs103%2Fa%2F2
-[/us/pl/98/160/s103/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F160%2Fs103%2Fa%2F1
-[/us/pl/97/295/s4/19/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295%2Fs4%2F19%2FA
-[/us/pl/97/295/s4/19/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295%2Fs4%2F19%2FB
+[/us/pl/99/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F166
+[/us/pl/99/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F166
+[/us/pl/99/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F166
+[/us/pl/98/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F160
+[/us/pl/98/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F160
+[/us/pl/97/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295
+[/us/pl/97/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295
 [/us/usc/t41/s351/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs351%2Fb%2F1
 [/us/usc/t29/s206/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs206%2Fb
 [/us/pl/94/581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F581
-[/us/pl/94/581/s210/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F581%2Fs210%2Fa%2F7
-[/us/pl/94/581/s106/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F581%2Fs106%2F4
-[/us/pl/93/82/s104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F82%2Fs104%2Fa
-[/us/pl/93/82/s104/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F82%2Fs104%2Fc
-[/us/pl/93/82/s104/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F82%2Fs104%2Fd
+[/us/pl/94/581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F581
+[/us/pl/94/581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F581
+[/us/pl/93/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F82
+[/us/pl/93/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F82
+[/us/pl/93/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F82
 [/us/pl/91/101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F101
-[/us/pl/90/612/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F612%2Fs1
+[/us/pl/90/612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F612
 [/us/pl/90/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F429
-[/us/pl/90/612/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F612%2Fs3
-[/us/pl/112/154/s105/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154%2Fs105%2Fc
+[/us/pl/90/612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F612
+[/us/pl/112/154/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154%2FtI
 [/us/stat/126/1170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1170
 [/us/usc/t38/s1745]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1745
 [/us/usc/t38/s1745/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1745%2Fa%2F1
@@ -402,11 +402,11 @@
 [/us/pl/93/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F82
 [/us/pl/93/82/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F82%2Fs501
 [/us/usc/t38/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1701
-[/us/pl/100/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F322
+[/us/pl/100/322/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F322%2FtI
 [/us/stat/102/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F499
-[/us/pl/98/160/s103/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F160%2Fs103%2Fb
+[/us/pl/98/160/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F160%2FtI
 [/us/stat/97/996]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F996
-[/us/pl/100/322/s111/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F322%2Fs111%2Fd
+[/us/pl/100/322/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F322%2FtI
 [/us/stat/102/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F499
 
 

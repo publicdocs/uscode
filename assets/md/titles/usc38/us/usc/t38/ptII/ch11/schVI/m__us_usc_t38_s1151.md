@@ -49,7 +49,7 @@
 
         (2) Chapter 39, relating to automobiles and adaptive equipment.
 
-([Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1124][/us/stat/72/1124], § 351; [Pub. L. 87–825, § 3][/us/pl/87/825/s3], Oct. 15, 1962, [76 Stat. 950][/us/stat/76/950]; [Pub. L. 91–24, § 3][/us/pl/91/24/s3], June 11, 1969, [83 Stat. 33][/us/stat/83/33]; [Pub. L. 94–433, title IV, § 404(19)][/us/pl/94/433/s404/19], Sept. 30, 1976, [90 Stat. 1379][/us/stat/90/1379]; [Pub. L. 98–223, title II, § 213(1)][/us/pl/98/223/s213/1], Mar. 2, 1984, [98 Stat. 46][/us/stat/98/46]; renumbered § 1151 and amended [Pub. L. 102–83][/us/pl/102/83], §§ 4(a)(1), 5(a), Aug. 6, 1991, [105 Stat. 403][/us/stat/105/403], 406; [Pub. L. 104–204, title IV, § 422(a)][/us/pl/104/204/s422/a], Sept. 26, 1996, [110 Stat. 2926][/us/stat/110/2926]; [Pub. L. 106–419, title III, § 303][/us/pl/106/419/s303], Nov. 1, 2000, [114 Stat. 1853][/us/stat/114/1853]; [Pub. L. 108–454, title III, § 304(a)][/us/pl/108/454/s304/a],(c), Dec. 10, 2004, [118 Stat. 3611][/us/stat/118/3611].)
+([Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1124][/us/stat/72/1124], § 351; [Pub. L. 87–825][/us/pl/87/825], § 3, Oct. 15, 1962, [76 Stat. 950][/us/stat/76/950]; [Pub. L. 91–24][/us/pl/91/24], § 3, June 11, 1969, [83 Stat. 33][/us/stat/83/33]; [Pub. L. 94–433, title IV][/us/pl/94/433/tIV], § 404(19), Sept. 30, 1976, [90 Stat. 1379][/us/stat/90/1379]; [Pub. L. 98–223, title II][/us/pl/98/223/tII], § 213(1), Mar. 2, 1984, [98 Stat. 46][/us/stat/98/46]; renumbered § 1151 and amended [Pub. L. 102–83][/us/pl/102/83], §§ 4(a)(1), 5(a), Aug. 6, 1991, [105 Stat. 403][/us/stat/105/403], 406; [Pub. L. 104–204, title IV][/us/pl/104/204/tIV], § 422(a), Sept. 26, 1996, [110 Stat. 2926][/us/stat/110/2926]; [Pub. L. 106–419, title III][/us/pl/106/419/tIII], § 303, Nov. 1, 2000, [114 Stat. 1853][/us/stat/114/1853]; [Pub. L. 108–454, title III][/us/pl/108/454/tIII], § 304(a),(c), Dec. 10, 2004, [118 Stat. 3611][/us/stat/118/3611].)
 
  __References in Text__ 
 
@@ -57,19 +57,19 @@
 
  __Amendments__ 
 
-    2004—Subsec. (b). [Pub. L. 108–454, § 304(c)][/us/pl/108/454/s304/c], designated existing provision as par. (1), inserted “(except as otherwise provided in paragraph (2))” after “service-connected, then”, and added par. (2).
+    2004—Subsec. (b). [Pub. L. 108–454][/us/pl/108/454], § 304(c), designated existing provision as par. (1), inserted “(except as otherwise provided in paragraph (2))” after “service-connected, then”, and added par. (2).
 
-    Subsec. (c). [Pub. L. 108–454, § 304(a)][/us/pl/108/454/s304/a], added subsec. (c).
+    Subsec. (c). [Pub. L. 108–454][/us/pl/108/454], § 304(a), added subsec. (c).
 
     2000—Subsec. (a)(2). [Pub. L. 106–419][/us/pl/106/419] inserted “(A)” after “proximately caused” and added cl. (B).
 
-    1996—Subsec. (a). [Pub. L. 104–204, § 422(a)(1)][/us/pl/104/204/s422/a/1], added subsec. (a) and struck out former first sentence of section which read as follows: “Where any veteran shall have suffered an injury, or an aggravation of an injury, as the result of hospitalization, medical or surgical treatment, or the pursuit of a course of vocational rehabilitation under chapter 31 of this title, awarded under any of the laws administered by the Secretary, or as a result of having submitted to an examination under any such law, and not the result of such veteran’s own willful misconduct, and such injury or aggravation results in additional disability to or the death of such veteran, disability or death compensation under this chapter and dependency and indemnity compensation under chapter 13 of this title shall be awarded in the same manner as if such disability, aggravation, or death were service-connected.”
+    1996—Subsec. (a). [Pub. L. 104–204][/us/pl/104/204], § 422(a)(1), added subsec. (a) and struck out former first sentence of section which read as follows: “Where any veteran shall have suffered an injury, or an aggravation of an injury, as the result of hospitalization, medical or surgical treatment, or the pursuit of a course of vocational rehabilitation under chapter 31 of this title, awarded under any of the laws administered by the Secretary, or as a result of having submitted to an examination under any such law, and not the result of such veteran’s own willful misconduct, and such injury or aggravation results in additional disability to or the death of such veteran, disability or death compensation under this chapter and dependency and indemnity compensation under chapter 13 of this title shall be awarded in the same manner as if such disability, aggravation, or death were service-connected.”
 
-    Subsec. (b). [Pub. L. 104–204, § 422(a)(2)][/us/pl/104/204/s422/a/2], designated second sentence of section as subsec. (b), struck out “, aggravation,” after “disability” in two places, and substituted “this subsection equals the total amount” for “this sentence equals the total amount”.
+    Subsec. (b). [Pub. L. 104–204][/us/pl/104/204], § 422(a)(2), designated second sentence of section as subsec. (b), struck out “, aggravation,” after “disability” in two places, and substituted “this subsection equals the total amount” for “this sentence equals the total amount”.
 
-    1991—[Pub. L. 102–83, § 5(a)][/us/pl/102/83/s5/a], renumbered [section 351 of this title][/us/usc/t38/s351] as this section.
+    1991—[Pub. L. 102–83][/us/pl/102/83], § 5(a), renumbered [section 351 of this title][/us/usc/t38/s351] as this section.
 
-    [Pub. L. 102–83, § 4(a)(1)][/us/pl/102/83/s4/a/1], substituted “administered by the Secretary” for “administered by the Veterans’ Administration”.
+    [Pub. L. 102–83][/us/pl/102/83], § 4(a)(1), substituted “administered by the Secretary” for “administered by the Veterans’ Administration”.
 
     1984—[Pub. L. 98–223][/us/pl/98/223] substituted “title 28” for “title 28, United States Code,” in two places.
 
@@ -81,13 +81,13 @@
 
  __Effective Date of 2004 Amendment__ 
 
-[Pub. L. 108–454, title III, § 304(b)][/us/pl/108/454/s304/b], Dec. 10, 2004, [118 Stat. 3611][/us/stat/118/3611], provided that: 
+[Pub. L. 108–454, title III][/us/pl/108/454/tIII], § 304(b), Dec. 10, 2004, [118 Stat. 3611][/us/stat/118/3611], provided that: 
 
 > “Subsection (c) of [section 1151 of title 38][/us/usc/t38/s1151], United States Code, as added by subsection (a), shall apply with respect to eligibility for benefits and services provided by the Secretary of Veterans Affairs on or after the date of the enactment of this Act \[Dec. 10, 2004\].”
 
  __Effective Date of 1996 Amendment__ 
 
-[Pub. L. 104–204, title IV, § 422(b)][/us/pl/104/204/s422/b], (c), Sept. 26, 1996, [110 Stat. 2927][/us/stat/110/2927], provided that:
+[Pub. L. 104–204, title IV][/us/pl/104/204/tIV], § 422(b), (c), Sept. 26, 1996, [110 Stat. 2927][/us/stat/110/2927], provided that:
 
 >     “(b)
 
@@ -118,40 +118,40 @@
 [/us/usc/t28/s1346/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1346%2Fb
 [/us/pl/85/857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F857
 [/us/stat/72/1124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1124
-[/us/pl/87/825/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F825%2Fs3
+[/us/pl/87/825]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F825
 [/us/stat/76/950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F950
-[/us/pl/91/24/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F24%2Fs3
+[/us/pl/91/24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F24
 [/us/stat/83/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F33
-[/us/pl/94/433/s404/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F433%2Fs404%2F19
+[/us/pl/94/433/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F433%2FtIV
 [/us/stat/90/1379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1379
-[/us/pl/98/223/s213/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F223%2Fs213%2F1
+[/us/pl/98/223/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F223%2FtII
 [/us/stat/98/46]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F46
 [/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F403
-[/us/pl/104/204/s422/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F204%2Fs422%2Fa
+[/us/pl/104/204/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F204%2FtIV
 [/us/stat/110/2926]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2926
-[/us/pl/106/419/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419%2Fs303
+[/us/pl/106/419/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419%2FtIII
 [/us/stat/114/1853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1853
-[/us/pl/108/454/s304/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F454%2Fs304%2Fa
+[/us/pl/108/454/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F454%2FtIII
 [/us/stat/118/3611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3611
 [/us/pl/108/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F454
-[/us/pl/108/454/s304/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F454%2Fs304%2Fc
-[/us/pl/108/454/s304/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F454%2Fs304%2Fa
+[/us/pl/108/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F454
+[/us/pl/108/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F454
 [/us/pl/106/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419
-[/us/pl/104/204/s422/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F204%2Fs422%2Fa%2F1
-[/us/pl/104/204/s422/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F204%2Fs422%2Fa%2F2
-[/us/pl/102/83/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fa
+[/us/pl/104/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F204
+[/us/pl/104/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F204
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/usc/t38/s351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs351
-[/us/pl/102/83/s4/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fa%2F1
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/pl/98/223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F223
 [/us/pl/94/433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F433
 [/us/pl/91/24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F24
 [/us/pl/87/825]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F825
 [/us/usc/t28/s1346/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1346%2Fb
-[/us/pl/108/454/s304/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F454%2Fs304%2Fb
+[/us/pl/108/454/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F454%2FtIII
 [/us/stat/118/3611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3611
 [/us/usc/t38/s1151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1151
-[/us/pl/104/204/s422/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F204%2Fs422%2Fb
+[/us/pl/104/204/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F204%2FtIV
 [/us/stat/110/2927]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2927
 [/us/usc/t38/s1151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1151
 [/us/usc/t38/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1801

@@ -33,39 +33,39 @@
 
     (i) The Attorney General of the United States is authorized to agree to a judgment to be rendered by the chief judge of the United States court having jurisdiction of the case, pursuant to compromise approved by the Attorney General upon the recommendation of the United States attorney charged with the defense, upon such terms and for sums within the amount claimed to be payable, in any suit brought under the provisions of this section, on a contract of yearly renewable term insurance, and the Secretary shall make payments in accordance with any such judgment. The Comptroller General of the United States shall allow credit in the accounts of disbursing officers for all payments of insurance made in accordance with any such judgment. All such judgments shall constitute final settlement of the claim and no appeal therefrom shall be authorized.
 
-([Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1165][/us/stat/72/1165], § 784; [Pub. L. 86–507, § 1(32)][/us/pl/86/507/s1/32], June 11, 1960, [74 Stat. 202][/us/stat/74/202]; [Pub. L. 97–295, § 4(32)][/us/pl/97/295/s4/32], Oct. 12, 1982, [96 Stat. 1307][/us/stat/96/1307]; [Pub. L. 99–576, title VII, § 701(46)][/us/pl/99/576/s701/46], Oct. 28, 1986, [100 Stat. 3294][/us/stat/100/3294]; renumbered § 1984 and amended [Pub. L. 102–83][/us/pl/102/83], §§ 4(a)(2)(A)(iii)(VII), (VIII), (D)(ii), (3), (4), (b)(1), (2)(E), 5(a), Aug. 6, 1991, [105 Stat. 403–406][/us/stat/105/403-406].)
+([Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1165][/us/stat/72/1165], § 784; [Pub. L. 86–507][/us/pl/86/507], § 1(32), June 11, 1960, [74 Stat. 202][/us/stat/74/202]; [Pub. L. 97–295][/us/pl/97/295], § 4(32), Oct. 12, 1982, [96 Stat. 1307][/us/stat/96/1307]; [Pub. L. 99–576, title VII][/us/pl/99/576/tVII], § 701(46), Oct. 28, 1986, [100 Stat. 3294][/us/stat/100/3294]; renumbered § 1984 and amended [Pub. L. 102–83][/us/pl/102/83], §§ 4(a)(2)(A)(iii)(VII), (VIII), (D)(ii), (3), (4), (b)(1), (2)(E), 5(a), Aug. 6, 1991, [105 Stat. 403–406][/us/stat/105/403-406].)
 
  __Amendments__ 
 
-    1991—[Pub. L. 102–83, § 5(a)][/us/pl/102/83/s5/a], renumbered [section 784 of this title][/us/usc/t38/s784] as this section.
+    1991—[Pub. L. 102–83][/us/pl/102/83], § 5(a), renumbered [section 784 of this title][/us/usc/t38/s784] as this section.
 
-    Subsec. (a). [Pub. L. 102–83, § 4(a)(2)(A)(iii)(VII)][/us/pl/102/83/s4/a/2/A/iii/VII], substituted “Secretary” for “Veterans’ Administration” wherever appearing.
+    Subsec. (a). [Pub. L. 102–83][/us/pl/102/83], § 4(a)(2)(A)(iii)(VII), substituted “Secretary” for “Veterans’ Administration” wherever appearing.
 
-    Subsec. (b). [Pub. L. 102–83, § 4(a)(2)(D)(ii)][/us/pl/102/83/s4/a/2/D/ii], substituted “with the Secretary” for “in the Veterans’ Administration”.
+    Subsec. (b). [Pub. L. 102–83][/us/pl/102/83], § 4(a)(2)(D)(ii), substituted “with the Secretary” for “in the Veterans’ Administration”.
 
-    [Pub. L. 102–83, § 4(a)(2)(A)(iii)(VIII)][/us/pl/102/83/s4/a/2/A/iii/VIII], substituted “Secretary” for “Veterans’ Administration” before “shall”.
+    [Pub. L. 102–83][/us/pl/102/83], § 4(a)(2)(A)(iii)(VIII), substituted “Secretary” for “Veterans’ Administration” before “shall”.
 
-    Subsec. (d). [Pub. L. 102–83, § 4(b)(1)][/us/pl/102/83/s4/b/1], (2)(E), substituted “Secretary” for “Administrator”.
+    Subsec. (d). [Pub. L. 102–83][/us/pl/102/83], § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
-    [Pub. L. 102–83, § 4(a)(3)][/us/pl/102/83/s4/a/3], (4), substituted “Department” for “Veterans’ Administration” in two places.
+    [Pub. L. 102–83][/us/pl/102/83], § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration” in two places.
 
-    Subsec. (e). [Pub. L. 102–83, § 4(b)(1)][/us/pl/102/83/s4/b/1], (2)(E), substituted “Secretary” for “Administrator” in two places.
+    Subsec. (e). [Pub. L. 102–83][/us/pl/102/83], § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in two places.
 
-    [Pub. L. 102–83, § 4(a)(3)][/us/pl/102/83/s4/a/3], (4), substituted “Department” for “Veterans’ Administration”.
+    [Pub. L. 102–83][/us/pl/102/83], § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration”.
 
-    Subsecs. (f), (g). [Pub. L. 102–83, § 4(a)(3)][/us/pl/102/83/s4/a/3], (4), substituted “Department” for “Veterans’ Administration” wherever appearing.
+    Subsecs. (f), (g). [Pub. L. 102–83][/us/pl/102/83], § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration” wherever appearing.
 
-    Subsec. (h). [Pub. L. 102–83, § 4(b)(1)][/us/pl/102/83/s4/b/1], (2)(E), substituted “Secretary” for “Administrator” in two places.
+    Subsec. (h). [Pub. L. 102–83][/us/pl/102/83], § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in two places.
 
-    [Pub. L. 102–83, § 4(a)(3)][/us/pl/102/83/s4/a/3], (4), substituted “Department” for “Veterans’ Administration”.
+    [Pub. L. 102–83][/us/pl/102/83], § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration”.
 
-    Subsec. (i). [Pub. L. 102–83, § 4(b)(1)][/us/pl/102/83/s4/b/1], (2)(E), substituted “Secretary” for “Administrator”.
+    Subsec. (i). [Pub. L. 102–83][/us/pl/102/83], § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
     1986—Subsec. (g). [Pub. L. 99–576][/us/pl/99/576] substituted “the insured’s” for “his” in two places.
 
-    1982—Subsec. (b). [Pub. L. 97–295, § 4(32)(A)][/us/pl/97/295/s4/32/A], substituted “the claim. However, if” for “said claim: Provided, That in any case in which”.
+    1982—Subsec. (b). [Pub. L. 97–295][/us/pl/97/295], § 4(32)(A), substituted “the claim. However, if” for “said claim: Provided, That in any case in which”.
 
-    Subsec. (c). [Pub. L. 97–295, § 4(32)(B)][/us/pl/97/295/s4/32/B], substituted “district. However,” for “district: Provided, That”, and substituted “in this section” for “herein” after “as used”.
+    Subsec. (c). [Pub. L. 97–295][/us/pl/97/295], § 4(32)(B), substituted “district. However,” for “district: Provided, That”, and substituted “in this section” for “herein” after “as used”.
 
     1960—Subsec. (b). [Pub. L. 86–507][/us/pl/86/507] inserted “or by certified mail” after “registered mail”.
 
@@ -79,30 +79,30 @@
 [/us/usc/t28/s1254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1254
 [/us/pl/85/857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F857
 [/us/stat/72/1165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1165
-[/us/pl/86/507/s1/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F507%2Fs1%2F32
+[/us/pl/86/507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F507
 [/us/stat/74/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F202
-[/us/pl/97/295/s4/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295%2Fs4%2F32
+[/us/pl/97/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295
 [/us/stat/96/1307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1307
-[/us/pl/99/576/s701/46]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2Fs701%2F46
+[/us/pl/99/576/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2FtVII
 [/us/stat/100/3294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3294
 [/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/403-406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F403-406
-[/us/pl/102/83/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fa
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/usc/t38/s784]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs784
-[/us/pl/102/83/s4/a/2/A/iii/VII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fa%2F2%2FA%2Fiii%2FVII
-[/us/pl/102/83/s4/a/2/D/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fa%2F2%2FD%2Fii
-[/us/pl/102/83/s4/a/2/A/iii/VIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fa%2F2%2FA%2Fiii%2FVIII
-[/us/pl/102/83/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fb%2F1
-[/us/pl/102/83/s4/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fa%2F3
-[/us/pl/102/83/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fb%2F1
-[/us/pl/102/83/s4/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fa%2F3
-[/us/pl/102/83/s4/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fa%2F3
-[/us/pl/102/83/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fb%2F1
-[/us/pl/102/83/s4/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fa%2F3
-[/us/pl/102/83/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fb%2F1
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/pl/99/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576
-[/us/pl/97/295/s4/32/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295%2Fs4%2F32%2FA
-[/us/pl/97/295/s4/32/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295%2Fs4%2F32%2FB
+[/us/pl/97/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295
+[/us/pl/97/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295
 [/us/pl/86/507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F507
 
 

@@ -57,31 +57,31 @@
 
             (B) For purposes of this paragraph, the term “maximum benefit” means the highest evaluation assignable in accordance with the evidence of record, as long as such evidence is adequate for rating purposes and sufficient to grant the earliest possible effective date in accordance with [section 5110 of this title][/us/usc/t38/s5110].
 
-(Added [Pub. L. 106–475, § 3(a)][/us/pl/106/475/s3/a], Nov. 9, 2000, [114 Stat. 2096][/us/stat/114/2096]; amended [Pub. L. 107–14, § 8(a)(12)][/us/pl/107/14/s8/a/12], June 5, 2001, [115 Stat. 35][/us/stat/115/35]; [Pub. L. 108–183, title VII, § 701(b)][/us/pl/108/183/s701/b], Dec. 16, 2003, [117 Stat. 2670][/us/stat/117/2670]; [Pub. L. 110–389, title I, § 101(a)][/us/pl/110/389/s101/a], Oct. 10, 2008, [122 Stat. 4147][/us/stat/122/4147]; [Pub. L. 112–154, title V, § 504(a)][/us/pl/112/154/s504/a], Aug. 6, 2012, [126 Stat. 1191][/us/stat/126/1191].)
+(Added [Pub. L. 106–475][/us/pl/106/475], § 3(a), Nov. 9, 2000, [114 Stat. 2096][/us/stat/114/2096]; amended [Pub. L. 107–14][/us/pl/107/14], § 8(a)(12), June 5, 2001, [115 Stat. 35][/us/stat/115/35]; [Pub. L. 108–183, title VII][/us/pl/108/183/tVII], § 701(b), Dec. 16, 2003, [117 Stat. 2670][/us/stat/117/2670]; [Pub. L. 110–389, title I][/us/pl/110/389/tI], § 101(a), Oct. 10, 2008, [122 Stat. 4147][/us/stat/122/4147]; [Pub. L. 112–154, title V][/us/pl/112/154/tV], § 504(a), Aug. 6, 2012, [126 Stat. 1191][/us/stat/126/1191].)
 
  __Prior Provisions__ 
 
-    A prior section 5103, [Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1225][/us/stat/72/1225], § 3003; [Pub. L. 99–570, title XI, § 11007(a)(1)][/us/pl/99/570/s11007/a/1], Oct. 27, 1986, [100 Stat. 3207–170][/us/stat/100/3207-170]; renumbered § 5103, [Pub. L. 102–40, title IV, § 402(b)(1)][/us/pl/102/40/s402/b/1], May 7, 1991, [105 Stat. 238][/us/stat/105/238]; [Pub. L. 102–83, § 4(a)(1)][/us/pl/102/83/s4/a/1], (b)(1), (2)(E), Aug. 6, 1991, [105 Stat. 403–405][/us/stat/105/403-405], related to incomplete applications, prior to repeal by [Pub. L. 106–475, § 3(a)][/us/pl/106/475/s3/a], Nov. 9, 2000, [114 Stat. 2096][/us/stat/114/2096].
+    A prior section 5103, [Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1225][/us/stat/72/1225], § 3003; [Pub. L. 99–570, title XI][/us/pl/99/570/tXI], § 11007(a)(1), Oct. 27, 1986, [100 Stat. 3207–170][/us/stat/100/3207-170]; renumbered § 5103, [Pub. L. 102–40, title IV][/us/pl/102/40/tIV], § 402(b)(1), May 7, 1991, [105 Stat. 238][/us/stat/105/238]; [Pub. L. 102–83][/us/pl/102/83], § 4(a)(1), (b)(1), (2)(E), Aug. 6, 1991, [105 Stat. 403–405][/us/stat/105/403-405], related to incomplete applications, prior to repeal by [Pub. L. 106–475][/us/pl/106/475], § 3(a), Nov. 9, 2000, [114 Stat. 2096][/us/stat/114/2096].
 
     Another prior section 5103 was renumbered [section 8303 of this title][/us/usc/t38/s8303].
 
  __Amendments__ 
 
-    2012—Subsec. (a)(1). [Pub. L. 112–154, § 504(a)(1)][/us/pl/112/154/s504/a/1], substituted “The” for “Upon receipt of a complete or substantially complete application, the” and “provide to” for “notify” and inserted “by the most effective means available, including electronic communication or notification in writing, notice” before “of any information”.
+    2012—Subsec. (a)(1). [Pub. L. 112–154][/us/pl/112/154], § 504(a)(1), substituted “The” for “Upon receipt of a complete or substantially complete application, the” and “provide to” for “notify” and inserted “by the most effective means available, including electronic communication or notification in writing, notice” before “of any information”.
 
-    Subsec. (b)(4), (5). [Pub. L. 112–154, § 504(a)(2)][/us/pl/112/154/s504/a/2], added pars. (4) and (5).
+    Subsec. (b)(4), (5). [Pub. L. 112–154][/us/pl/112/154], § 504(a)(2), added pars. (4) and (5).
 
     2008—Subsec. (a). [Pub. L. 110–389][/us/pl/110/389] designated existing provisions as par. (1) and added par. (2).
 
-    2003—Subsec. (b)(1). [Pub. L. 108–183, § 701(b)(1)][/us/pl/108/183/s701/b/1], substituted “such information or evidence must be received by the Secretary within one year from the date such notice is sent” for “if such information or evidence is not received by the Secretary within one year from the date of such notification, no benefit may be paid or furnished by reason of the claimant’s application”.
+    2003—Subsec. (b)(1). [Pub. L. 108–183][/us/pl/108/183], § 701(b)(1), substituted “such information or evidence must be received by the Secretary within one year from the date such notice is sent” for “if such information or evidence is not received by the Secretary within one year from the date of such notification, no benefit may be paid or furnished by reason of the claimant’s application”.
 
-    Subsec. (b)(3). [Pub. L. 108–183, § 701(b)(2)][/us/pl/108/183/s701/b/2], added par. (3).
+    Subsec. (b)(3). [Pub. L. 108–183][/us/pl/108/183], § 701(b)(2), added par. (3).
 
     2001—Subsec. (b)(1). [Pub. L. 107–14][/us/pl/107/14] substituted “one year” for “1 year”.
 
  __Effective Date of 2012 Amendment__ 
 
-[Pub. L. 112–154, title V, § 504(c)][/us/pl/112/154/s504/c], Aug. 6, 2012, [126 Stat. 1192][/us/stat/126/1192], provided that:
+[Pub. L. 112–154, title V][/us/pl/112/154/tV], § 504(c), Aug. 6, 2012, [126 Stat. 1192][/us/stat/126/1192], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -97,19 +97,19 @@
 
  __Construction__ 
 
-[Pub. L. 112–154, title V, § 504(b)][/us/pl/112/154/s504/b], Aug. 6, 2012, [126 Stat. 1192][/us/stat/126/1192], provided that: 
+[Pub. L. 112–154, title V][/us/pl/112/154/tV], § 504(b), Aug. 6, 2012, [126 Stat. 1192][/us/stat/126/1192], provided that: 
 
 > “Nothing in the amendments made by subsection (a) \[amending this section\] shall be construed as eliminating any requirement with respect to the contents of a notice under [section 5103 of title 38][/us/usc/t38/s5103], United States Code, that is required under regulations prescribed pursuant to subsection (a)(2) of such section as of the date of the enactment of this Act \[Aug. 6, 2012\].”
 
  __Applicability of Regulations__ 
 
-[Pub. L. 110–389, title I, § 101(b)][/us/pl/110/389/s101/b], Oct. 10, 2008, [122 Stat. 4148][/us/stat/122/4148], provided that: 
+[Pub. L. 110–389, title I][/us/pl/110/389/tI], § 101(b), Oct. 10, 2008, [122 Stat. 4148][/us/stat/122/4148], provided that: 
 
 > “The regulations required by paragraph (2) of [section 5103(a) of title 38][/us/usc/t38/s5103/a], United States Code (as amended by subsection (a) of this section), shall apply with respect to notices provided to claimants on or after the effective date of such regulations.”
 
  __Readjudication of Certain Claims; Notice__ 
 
-[Pub. L. 108–183, title VII, § 701(d)][/us/pl/108/183/s701/d], (e), Dec. 16, 2003, [117 Stat. 2670][/us/stat/117/2670], 2671, provided that:
+[Pub. L. 108–183, title VII][/us/pl/108/183/tVII], § 701(d), (e), Dec. 16, 2003, [117 Stat. 2670][/us/stat/117/2670], 2671, provided that:
 
 >     “(d)  __Procedures for Readjudication of Certain Claims__  __.—__ 
 
@@ -154,46 +154,46 @@
 
 [/us/usc/t38/s5103A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs5103A
 [/us/usc/t38/s5110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs5110
-[/us/pl/106/475/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F475%2Fs3%2Fa
+[/us/pl/106/475]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F475
 [/us/stat/114/2096]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2096
-[/us/pl/107/14/s8/a/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F14%2Fs8%2Fa%2F12
+[/us/pl/107/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F14
 [/us/stat/115/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F35
-[/us/pl/108/183/s701/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F183%2Fs701%2Fb
+[/us/pl/108/183/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F183%2FtVII
 [/us/stat/117/2670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2670
-[/us/pl/110/389/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F389%2Fs101%2Fa
+[/us/pl/110/389/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F389%2FtI
 [/us/stat/122/4147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4147
-[/us/pl/112/154/s504/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154%2Fs504%2Fa
+[/us/pl/112/154/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154%2FtV
 [/us/stat/126/1191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1191
 [/us/pl/85/857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F857
 [/us/stat/72/1225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1225
-[/us/pl/99/570/s11007/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs11007%2Fa%2F1
+[/us/pl/99/570/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2FtXI
 [/us/stat/100/3207-170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3207-170
-[/us/pl/102/40/s402/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs402%2Fb%2F1
+[/us/pl/102/40/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2FtIV
 [/us/stat/105/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F238
-[/us/pl/102/83/s4/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fa%2F1
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/403-405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F403-405
-[/us/pl/106/475/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F475%2Fs3%2Fa
+[/us/pl/106/475]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F475
 [/us/stat/114/2096]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2096
 [/us/usc/t38/s8303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs8303
-[/us/pl/112/154/s504/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154%2Fs504%2Fa%2F1
-[/us/pl/112/154/s504/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154%2Fs504%2Fa%2F2
+[/us/pl/112/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154
+[/us/pl/112/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154
 [/us/pl/110/389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F389
-[/us/pl/108/183/s701/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F183%2Fs701%2Fb%2F1
-[/us/pl/108/183/s701/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F183%2Fs701%2Fb%2F2
+[/us/pl/108/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F183
+[/us/pl/108/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F183
 [/us/pl/107/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F14
-[/us/pl/112/154/s504/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154%2Fs504%2Fc
+[/us/pl/112/154/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154%2FtV
 [/us/stat/126/1192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1192
 [/us/usc/t38/s5103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs5103
 [/us/pl/106/475]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F475
 [/us/pl/108/183/s701/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F183%2Fs701%2Fc
 [/us/usc/t38/s5102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs5102
-[/us/pl/112/154/s504/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154%2Fs504%2Fb
+[/us/pl/112/154/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154%2FtV
 [/us/stat/126/1192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1192
 [/us/usc/t38/s5103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs5103
-[/us/pl/110/389/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F389%2Fs101%2Fb
+[/us/pl/110/389/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F389%2FtI
 [/us/stat/122/4148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4148
 [/us/usc/t38/s5103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs5103%2Fa
-[/us/pl/108/183/s701/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F183%2Fs701%2Fd
+[/us/pl/108/183/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F183%2FtVII
 [/us/stat/117/2670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2670
 [/us/usc/t38/s5103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs5103%2Fa
 [/us/usc/t38/s5102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs5102

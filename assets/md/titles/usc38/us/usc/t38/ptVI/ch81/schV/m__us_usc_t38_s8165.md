@@ -23,7 +23,7 @@
 
     (b) An amount sufficient to pay for any expenses incurred by the Secretary in any fiscal year in connection with an enhanced-use lease shall be deducted from the proceeds of the lease for that fiscal year and may be used by the Secretary to reimburse the account from which the funds were used to pay such expenses. The Secretary may use the proceeds from any enhanced-use lease to reimburse applicable appropriations of the Department for any expenses incurred in the development of additional enhanced-use leases.
 
-(Added [Pub. L. 102–86, title IV, § 401(a)][/us/pl/102/86/s401/a], Aug. 14, 1991, [105 Stat. 421][/us/stat/105/421]; amended [Pub. L. 106–117, title II, § 208(d)][/us/pl/106/117/s208/d], Nov. 30, 1999, [113 Stat. 1568][/us/stat/113/1568]; [Pub. L. 107–217, § 3(j)(6)][/us/pl/107/217/s3/j/6], Aug. 21, 2002, [116 Stat. 1301][/us/stat/116/1301]; [Pub. L. 108–7, div. K, title I, § 113(d)(1)][/us/pl/108/7/s113/d/1], Feb. 20, 2003, [117 Stat. 483][/us/stat/117/483]; [Pub. L. 108–170, title II, § 202(c)][/us/pl/108/170/s202/c], Dec. 6, 2003, [117 Stat. 2048][/us/stat/117/2048]; [Pub. L. 108–178, § 4(i)(2)][/us/pl/108/178/s4/i/2], Dec. 15, 2003, [117 Stat. 2642][/us/stat/117/2642]; [Pub. L. 108–422, title IV, § 411(e)(4)][/us/pl/108/422/s411/e/4], Nov. 30, 2004, [118 Stat. 2390][/us/stat/118/2390]; Pub. L. 112—154, title II, § 211(f), Aug. 6, 2012, [126 Stat. 1181][/us/stat/126/1181].)
+(Added [Pub. L. 102–86, title IV][/us/pl/102/86/tIV], § 401(a), Aug. 14, 1991, [105 Stat. 421][/us/stat/105/421]; amended [Pub. L. 106–117, title II][/us/pl/106/117/tII], § 208(d), Nov. 30, 1999, [113 Stat. 1568][/us/stat/113/1568]; [Pub. L. 107–217][/us/pl/107/217], § 3(j)(6), Aug. 21, 2002, [116 Stat. 1301][/us/stat/116/1301]; [Pub. L. 108–7, div. K, title I][/us/pl/108/7/dK/tI], § 113(d)(1), Feb. 20, 2003, [117 Stat. 483][/us/stat/117/483]; [Pub. L. 108–170, title II][/us/pl/108/170/tII], § 202(c), Dec. 6, 2003, [117 Stat. 2048][/us/stat/117/2048]; [Pub. L. 108–178][/us/pl/108/178], § 4(i)(2), Dec. 15, 2003, [117 Stat. 2642][/us/stat/117/2642]; [Pub. L. 108–422, title IV][/us/pl/108/422/tIV], § 411(e)(4), Nov. 30, 2004, [118 Stat. 2390][/us/stat/118/2390]; Pub. L. 112—154, title II, § 211(f), Aug. 6, 2012, [126 Stat. 1181][/us/stat/126/1181].)
 
  __Amendments__ 
 
@@ -33,13 +33,13 @@
 
     2003—Subsec. (a)(1). [Pub. L. 108–7][/us/pl/108/7] substituted “Department of Veterans Affairs Medical Care Collections Fund established under [section 1729A of this title][/us/usc/t38/s1729A]” for “Department of Veterans Affairs Health Services Improvement Fund established under [section 1729B of this title][/us/usc/t38/s1729B]”.
 
-    Subsec. (a)(2). [Pub. L. 108–170, § 202(c)(1)][/us/pl/108/170/s202/c/1], struck out “and remaining after any deduction from such funds under the laws referred to in subsection (c)” after “title”.
+    Subsec. (a)(2). [Pub. L. 108–170][/us/pl/108/170], § 202(c)(1), struck out “and remaining after any deduction from such funds under the laws referred to in subsection (c)” after “title”.
 
-    Subsec. (b). [Pub. L. 108–170, § 202(c)(2)][/us/pl/108/170/s202/c/2], inserted at end “The Secretary may use the proceeds from any enhanced-use lease to reimburse applicable appropriations of the Department for any expenses incurred in the development of additional enhanced-use leases.”
+    Subsec. (b). [Pub. L. 108–170][/us/pl/108/170], § 202(c)(2), inserted at end “The Secretary may use the proceeds from any enhanced-use lease to reimburse applicable appropriations of the Department for any expenses incurred in the development of additional enhanced-use leases.”
 
     Subsec. (c). [Pub. L. 108–178][/us/pl/108/178] struck out comma after “of title 40”.
 
-    [Pub. L. 108–170, § 202(c)(3)][/us/pl/108/170/s202/c/3], struck out subsec. (c) which read as follows: “Subsection (a) does not affect the applicability of subchapter IV of chapter 5 of title 40 with respect to reimbursement of the Administrator of General Services for expenses arising from any disposal of property under [section 8164 of this title][/us/usc/t38/s8164].”
+    [Pub. L. 108–170][/us/pl/108/170], § 202(c)(3), struck out subsec. (c) which read as follows: “Subsection (a) does not affect the applicability of subchapter IV of chapter 5 of title 40 with respect to reimbursement of the Administrator of General Services for expenses arising from any disposal of property under [section 8164 of this title][/us/usc/t38/s8164].”
 
     2002—Subsec. (c). [Pub. L. 107–217][/us/pl/107/217] substituted “subchapter IV of chapter 5 of title 40” for “section 204 of the Federal Property and Administrative Services Act of 1949 ([40 U.S.C. 485][/us/usc/t40/s485]) or the Act of June 8, 1896 ([40 U.S.C. 485a][/us/usc/t40/s485a])”.
 
@@ -58,19 +58,19 @@
 
 [/us/usc/t38/s1729A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1729A
 [/us/usc/t38/s8164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs8164
-[/us/pl/102/86/s401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F86%2Fs401%2Fa
+[/us/pl/102/86/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F86%2FtIV
 [/us/stat/105/421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F421
-[/us/pl/106/117/s208/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117%2Fs208%2Fd
+[/us/pl/106/117/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117%2FtII
 [/us/stat/113/1568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1568
-[/us/pl/107/217/s3/j/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs3%2Fj%2F6
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1301
-[/us/pl/108/7/s113/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs113%2Fd%2F1
+[/us/pl/108/7/dK/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2FdK%2FtI
 [/us/stat/117/483]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F483
-[/us/pl/108/170/s202/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F170%2Fs202%2Fc
+[/us/pl/108/170/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F170%2FtII
 [/us/stat/117/2048]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2048
-[/us/pl/108/178/s4/i/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F178%2Fs4%2Fi%2F2
+[/us/pl/108/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F178
 [/us/stat/117/2642]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2642
-[/us/pl/108/422/s411/e/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F422%2Fs411%2Fe%2F4
+[/us/pl/108/422/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F422%2FtIV
 [/us/stat/118/2390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2390
 [/us/stat/126/1181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1181
 [/us/pl/112/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154
@@ -80,10 +80,10 @@
 [/us/pl/108/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7
 [/us/usc/t38/s1729A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1729A
 [/us/usc/t38/s1729B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1729B
-[/us/pl/108/170/s202/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F170%2Fs202%2Fc%2F1
-[/us/pl/108/170/s202/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F170%2Fs202%2Fc%2F2
+[/us/pl/108/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F170
+[/us/pl/108/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F170
 [/us/pl/108/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F178
-[/us/pl/108/170/s202/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F170%2Fs202%2Fc%2F3
+[/us/pl/108/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F170
 [/us/usc/t38/s8164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs8164
 [/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/usc/t40/s485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs485

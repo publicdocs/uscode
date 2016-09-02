@@ -47,7 +47,7 @@
 
     (c) Benefits shall not be afforded under this chapter to any individual on account of service as a commissioned officer of the National Oceanic and Atmospheric Administration (or predecessor entity), or of the Regular or Reserve Corps of the Public Health Service, unless such service would have qualified such individual for benefits under title III of the Servicemen’s Readjustment Act of 1944.
 
-([Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1203][/us/stat/72/1203], § 1801; [Pub. L. 91–584, § 5(a)][/us/pl/91/584/s5/a], Dec. 24, 1970, [84 Stat. 1576][/us/stat/84/1576]; [Pub. L. 94–324, § 7(1)][/us/pl/94/324/s7/1], (2), June 30, 1976, [90 Stat. 721][/us/stat/90/721]; [Pub. L. 97–72, title III, § 303(a)][/us/pl/97/72/s303/a], Nov. 3, 1981, [95 Stat. 1059][/us/stat/95/1059]; [Pub. L. 97–295, § 4(62)][/us/pl/97/295/s4/62], Oct. 12, 1982, [96 Stat. 1309][/us/stat/96/1309]; [Pub. L. 100–322, title IV, § 415(c)(1)][/us/pl/100/322/s415/c/1], May 20, 1988, [102 Stat. 551][/us/stat/102/551]; [Pub. L. 101–237, title III, § 313(a)][/us/pl/101/237/s313/a], Dec. 18, 1989, [103 Stat. 2077][/us/stat/103/2077]; renumbered § 3701 and amended [Pub. L. 102–83, § 5(a)][/us/pl/102/83/s5/a], (c)(1), Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406]; [Pub. L. 102–547, § 2(a)(1)][/us/pl/102/547/s2/a/1], Oct. 28, 1992, [106 Stat. 3633][/us/stat/106/3633]; [Pub. L. 103–446, title IX, § 901][/us/pl/103/446/s901], Nov. 2, 1994, [108 Stat. 4675][/us/stat/108/4675]; [Pub. L. 104–106, div. A, title XV, § 1501(e)(2)(B)][/us/pl/104/106/s1501/e/2/B], Feb. 10, 1996, [110 Stat. 501][/us/stat/110/501]; [Pub. L. 112–154, title II, § 206(a)][/us/pl/112/154/s206/a], Aug. 6, 2012, [126 Stat. 1178][/us/stat/126/1178].)
+([Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1203][/us/stat/72/1203], § 1801; [Pub. L. 91–584][/us/pl/91/584], § 5(a), Dec. 24, 1970, [84 Stat. 1576][/us/stat/84/1576]; [Pub. L. 94–324][/us/pl/94/324], § 7(1), (2), June 30, 1976, [90 Stat. 721][/us/stat/90/721]; [Pub. L. 97–72, title III][/us/pl/97/72/tIII], § 303(a), Nov. 3, 1981, [95 Stat. 1059][/us/stat/95/1059]; [Pub. L. 97–295][/us/pl/97/295], § 4(62), Oct. 12, 1982, [96 Stat. 1309][/us/stat/96/1309]; [Pub. L. 100–322, title IV][/us/pl/100/322/tIV], § 415(c)(1), May 20, 1988, [102 Stat. 551][/us/stat/102/551]; [Pub. L. 101–237, title III][/us/pl/101/237/tIII], § 313(a), Dec. 18, 1989, [103 Stat. 2077][/us/stat/103/2077]; renumbered § 3701 and amended [Pub. L. 102–83][/us/pl/102/83], § 5(a), (c)(1), Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406]; [Pub. L. 102–547][/us/pl/102/547], § 2(a)(1), Oct. 28, 1992, [106 Stat. 3633][/us/stat/106/3633]; [Pub. L. 103–446, title IX][/us/pl/103/446/tIX], § 901, Nov. 2, 1994, [108 Stat. 4675][/us/stat/108/4675]; [Pub. L. 104–106, div. A, title XV][/us/pl/104/106/dA/tXV], § 1501(e)(2)(B), Feb. 10, 1996, [110 Stat. 501][/us/stat/110/501]; [Pub. L. 112–154, title II][/us/pl/112/154/tII], § 206(a), Aug. 6, 2012, [126 Stat. 1178][/us/stat/126/1178].)
 
  __References in Text__ 
 
@@ -59,15 +59,15 @@
 
     1996—Subsec. (b)(5)(B). [Pub. L. 104–106][/us/pl/104/106] substituted “[section 10143(a) of title 10][/us/usc/t10/s10143/a]” for “[section 268(b) of title 10][/us/usc/t10/s268/b]”.
 
-    1994—Subsec. (b)(2). [Pub. L. 103–446, § 901(b)][/us/pl/103/446/s901/b], inserted “or service in the Selected Reserve” after “duty” in two places and substituted “deceased spouse shall” for “spouse shall”.
+    1994—Subsec. (b)(2). [Pub. L. 103–446][/us/pl/103/446], § 901(b), inserted “or service in the Selected Reserve” after “duty” in two places and substituted “deceased spouse shall” for “spouse shall”.
 
-    Subsec. (b)(5)(A). [Pub. L. 103–446, § 901(a)][/us/pl/103/446/s901/a], inserted “(i)” before “who has” and substituted “, or” and cl. (ii) for the period at end.
+    Subsec. (b)(5)(A). [Pub. L. 103–446][/us/pl/103/446], § 901(a), inserted “(i)” before “who has” and substituted “, or” and cl. (ii) for the period at end.
 
     1992—Subsec. (b)(5). [Pub. L. 102–547][/us/pl/102/547] added par. (5).
 
-    1991—[Pub. L. 102–83, § 5(a)][/us/pl/102/83/s5/a], renumbered [section 1801 of this title][/us/usc/t38/s1801] as this section.
+    1991—[Pub. L. 102–83][/us/pl/102/83], § 5(a), renumbered [section 1801 of this title][/us/usc/t38/s1801] as this section.
 
-    Subsec. (a). [Pub. L. 102–83, § 5(c)(1)][/us/pl/102/83/s5/c/1], substituted “3710(a) and 3712(a)(1)” for “1810(a) and 1812(a)(1)”.
+    Subsec. (a). [Pub. L. 102–83][/us/pl/102/83], § 5(c)(1), substituted “3710(a) and 3712(a)(1)” for “1810(a) and 1812(a)(1)”.
 
     1989—Subsec. (b)(4). [Pub. L. 101–237][/us/pl/101/237] added par. (4).
 
@@ -75,21 +75,21 @@
 
     1982—Subsec. (b)(3). [Pub. L. 97–295][/us/pl/97/295] substituted “member shall be deemed” for “spouse shall be deemed”, and “member is no longer listed” for “spouse is no longer listed”.
 
-    1981—Subsec. (a). [Pub. L. 97–72, § 303(a)(2)][/us/pl/97/72/s303/a/2], added subsec. (a). Former subsec. (a) redesignated (b).
+    1981—Subsec. (a). [Pub. L. 97–72][/us/pl/97/72], § 303(a)(2), added subsec. (a). Former subsec. (a) redesignated (b).
 
-    Subsec. (b). [Pub. L. 97–72, § 303(a)(1)][/us/pl/97/72/s303/a/1], (3), redesignated subsec. (a) as (b) and substituted “For the purposes of housing loans under this chapter” for “For the purposes of this chapter”. Former subsec. (b) redesignated (c).
+    Subsec. (b). [Pub. L. 97–72][/us/pl/97/72], § 303(a)(1), (3), redesignated subsec. (a) as (b) and substituted “For the purposes of housing loans under this chapter” for “For the purposes of this chapter”. Former subsec. (b) redesignated (c).
 
-    Subsec. (c). [Pub. L. 97–72, § 303(a)(1)][/us/pl/97/72/s303/a/1], (4), redesignated subsec. (b) as (c) and substituted “National Oceanic and Atmospheric Administration (or predecessor entity)” for “Coast and Geodetic Survey”.
+    Subsec. (c). [Pub. L. 97–72][/us/pl/97/72], § 303(a)(1), (4), redesignated subsec. (b) as (c) and substituted “National Oceanic and Atmospheric Administration (or predecessor entity)” for “Coast and Geodetic Survey”.
 
-    1976—Subsec. (a)(2). [Pub. L. 94–324, § 7(1)][/us/pl/94/324/s7/1], substituted “surviving spouse”, “the spouse’s own”, and “the spouse” for “widow”, “her own”, and “her husband”, respectively, wherever appearing.
+    1976—Subsec. (a)(2). [Pub. L. 94–324][/us/pl/94/324], § 7(1), substituted “surviving spouse”, “the spouse’s own”, and “the spouse” for “widow”, “her own”, and “her husband”, respectively, wherever appearing.
 
-    Subsec. (a)(3). [Pub. L. 94–324, § 7(2)][/us/pl/94/324/s7/2], substituted “spouse” and “the spouse” for “wife” and “her husband”, respectively, wherever appearing.
+    Subsec. (a)(3). [Pub. L. 94–324][/us/pl/94/324], § 7(2), substituted “spouse” and “the spouse” for “wife” and “her husband”, respectively, wherever appearing.
 
     1970—Subsec. (a)(3). [Pub. L. 91–584][/us/pl/91/584] added par. (3).
 
  __Effective Date of 2012 Amendment__ 
 
-[Pub. L. 112–154, title II, § 206(b)][/us/pl/112/154/s206/b], Aug. 6, 2012, [126 Stat. 1178][/us/stat/126/1178], provided that: 
+[Pub. L. 112–154, title II][/us/pl/112/154/tII], § 206(b), Aug. 6, 2012, [126 Stat. 1178][/us/stat/126/1178], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply with respect to a loan guaranteed after the date of the enactment of this Act \[Aug. 6, 2012\].”
 
@@ -103,7 +103,7 @@
 
  __Effective Date of 1976 Amendment__ 
 
-[Pub. L. 94–324, § 9][/us/pl/94/324/s9], June 30, 1976, [90 Stat. 723][/us/stat/90/723], provided that:
+[Pub. L. 94–324][/us/pl/94/324], § 9, June 30, 1976, [90 Stat. 723][/us/stat/90/723], provided that:
 
 >     “(a) Except as provided in subsection (b), the provisions of this Act \[see Tables for classification\] shall become effective on the date of enactment \[June 30, 1976\].
 
@@ -111,7 +111,7 @@
 
  __Clarification With Respect to Certain Fees__ 
 
-[Pub. L. 112–154, title II, § 206(c)][/us/pl/112/154/s206/c], Aug. 6, 2012, [126 Stat. 1179][/us/stat/126/1179], provided that: 
+[Pub. L. 112–154, title II][/us/pl/112/154/tII], § 206(c), Aug. 6, 2012, [126 Stat. 1179][/us/stat/126/1179], provided that: 
 
 > “Fees shall be collected under [section 3729 of title 38][/us/usc/t38/s3729], United States Code, from a person described in paragraph (6) of section 3701(b) of such title, as added by subsection (a) of this section, in the same manner as such fees are collected from a person described in paragraph (2) of section 3701(b) of such title.”
 
@@ -126,27 +126,27 @@
 [/us/usc/t10/s10143/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs10143%2Fa
 [/us/pl/85/857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F857
 [/us/stat/72/1203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1203
-[/us/pl/91/584/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F584%2Fs5%2Fa
+[/us/pl/91/584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F584
 [/us/stat/84/1576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1576
-[/us/pl/94/324/s7/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F324%2Fs7%2F1
+[/us/pl/94/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F324
 [/us/stat/90/721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F721
-[/us/pl/97/72/s303/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F72%2Fs303%2Fa
+[/us/pl/97/72/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F72%2FtIII
 [/us/stat/95/1059]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1059
-[/us/pl/97/295/s4/62]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295%2Fs4%2F62
+[/us/pl/97/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295
 [/us/stat/96/1309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1309
-[/us/pl/100/322/s415/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F322%2Fs415%2Fc%2F1
+[/us/pl/100/322/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F322%2FtIV
 [/us/stat/102/551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F551
-[/us/pl/101/237/s313/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237%2Fs313%2Fa
+[/us/pl/101/237/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237%2FtIII
 [/us/stat/103/2077]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2077
-[/us/pl/102/83/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fa
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F406
-[/us/pl/102/547/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F547%2Fs2%2Fa%2F1
+[/us/pl/102/547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F547
 [/us/stat/106/3633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3633
-[/us/pl/103/446/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2Fs901
+[/us/pl/103/446/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2FtIX
 [/us/stat/108/4675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4675
-[/us/pl/104/106/s1501/e/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1501%2Fe%2F2%2FB
+[/us/pl/104/106/dA/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtXV
 [/us/stat/110/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F501
-[/us/pl/112/154/s206/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154%2Fs206%2Fa
+[/us/pl/112/154/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154%2FtII
 [/us/stat/126/1178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1178
 [/us/act/1944-06-22/ch268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-06-22%2Fch268
 [/us/stat/58/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F284
@@ -156,22 +156,22 @@
 [/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
 [/us/usc/t10/s10143/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs10143%2Fa
 [/us/usc/t10/s268/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs268%2Fb
-[/us/pl/103/446/s901/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2Fs901%2Fb
-[/us/pl/103/446/s901/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2Fs901%2Fa
+[/us/pl/103/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446
+[/us/pl/103/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446
 [/us/pl/102/547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F547
-[/us/pl/102/83/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fa
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/usc/t38/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1801
-[/us/pl/102/83/s5/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fc%2F1
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/pl/101/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237
 [/us/pl/100/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F322
 [/us/pl/97/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295
-[/us/pl/97/72/s303/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F72%2Fs303%2Fa%2F2
-[/us/pl/97/72/s303/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F72%2Fs303%2Fa%2F1
-[/us/pl/97/72/s303/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F72%2Fs303%2Fa%2F1
-[/us/pl/94/324/s7/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F324%2Fs7%2F1
-[/us/pl/94/324/s7/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F324%2Fs7%2F2
+[/us/pl/97/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F72
+[/us/pl/97/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F72
+[/us/pl/97/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F72
+[/us/pl/94/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F324
+[/us/pl/94/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F324
 [/us/pl/91/584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F584
-[/us/pl/112/154/s206/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154%2Fs206%2Fb
+[/us/pl/112/154/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154%2FtII
 [/us/stat/126/1178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1178
 [/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
 [/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
@@ -180,10 +180,10 @@
 [/us/pl/97/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F72
 [/us/pl/97/72/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F72%2Fs305
 [/us/usc/t38/s3741]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3741
-[/us/pl/94/324/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F324%2Fs9
+[/us/pl/94/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F324
 [/us/stat/90/723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F723
 [/us/usc/t38/s1807]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1807
-[/us/pl/112/154/s206/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154%2Fs206%2Fc
+[/us/pl/112/154/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154%2FtII
 [/us/stat/126/1179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1179
 [/us/usc/t38/s3729]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3729
 

@@ -21,7 +21,7 @@
 
     (c) On and after July 19, 1939, the rate of interest charged on any loan secured by a lien on insurance shall not exceed 5 percent per annum.
 
-([Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1158][/us/stat/72/1158], § 744; [Pub. L. 97–295, § 4(26)][/us/pl/97/295/s4/26], Oct. 12, 1982, [96 Stat. 1307][/us/stat/96/1307]; [Pub. L. 99–576, title VII, § 701(30)][/us/pl/99/576/s701/30], Oct. 28, 1986, [100 Stat. 3293][/us/stat/100/3293]; renumbered § 1944, [Pub. L. 102–83, § 5(a)][/us/pl/102/83/s5/a], Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406].)
+([Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1158][/us/stat/72/1158], § 744; [Pub. L. 97–295][/us/pl/97/295], § 4(26), Oct. 12, 1982, [96 Stat. 1307][/us/stat/96/1307]; [Pub. L. 99–576, title VII][/us/pl/99/576/tVII], § 701(30), Oct. 28, 1986, [100 Stat. 3293][/us/stat/100/3293]; renumbered § 1944, [Pub. L. 102–83][/us/pl/102/83], § 5(a), Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406].)
 
  __Amendments__ 
 
@@ -40,11 +40,11 @@
 
 [/us/pl/85/857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F857
 [/us/stat/72/1158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1158
-[/us/pl/97/295/s4/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295%2Fs4%2F26
+[/us/pl/97/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295
 [/us/stat/96/1307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1307
-[/us/pl/99/576/s701/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2Fs701%2F30
+[/us/pl/99/576/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2FtVII
 [/us/stat/100/3293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3293
-[/us/pl/102/83/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fa
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F406
 [/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/usc/t38/s744]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs744

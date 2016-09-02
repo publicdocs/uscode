@@ -71,11 +71,11 @@
 
  __Amendments__ 
 
-    1991—[Pub. L. 102–86, title IV, § 401(b)(2)][/us/pl/102/86/s401/b/2], Aug. 14, 1991, [105 Stat. 422][/us/stat/105/422], inserted “; Enhanced-Use Leases of Real Property” in item for chapter 81.
+    1991—[Pub. L. 102–86, title IV][/us/pl/102/86/tIV], § 401(b)(2), Aug. 14, 1991, [105 Stat. 422][/us/stat/105/422], inserted “; Enhanced-Use Leases of Real Property” in item for chapter 81.
 
-    [Pub. L. 102–40, title IV, § 402(c)(2)][/us/pl/102/40/s402/c/2], May 7, 1991, [105 Stat. 239][/us/stat/105/239], substituted “8101” for “5001” in item for chapter 81, “8201” for “5070” in item for chapter 82, “8301” for “5101” in item for chapter 83, and “8501” for “5201” in item for chapter 85.
+    [Pub. L. 102–40, title IV][/us/pl/102/40/tIV], § 402(c)(2), May 7, 1991, [105 Stat. 239][/us/stat/105/239], substituted “8101” for “5001” in item for chapter 81, “8201” for “5070” in item for chapter 82, “8301” for “5101” in item for chapter 83, and “8501” for “5201” in item for chapter 85.
 
-    1972—[Pub. L. 92–541, § 2(b)][/us/pl/92/541/s2/b], Oct. 24, 1972, [86 Stat. 1107][/us/stat/86/1107], added item for chapter 82.
+    1972—[Pub. L. 92–541][/us/pl/92/541], § 2(b), Oct. 24, 1972, [86 Stat. 1107][/us/stat/86/1107], added item for chapter 82.
 
 ----------
 
@@ -84,11 +84,11 @@
 ----------
 ----------
 
-[/us/pl/102/86/s401/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F86%2Fs401%2Fb%2F2
+[/us/pl/102/86/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F86%2FtIV
 [/us/stat/105/422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F422
-[/us/pl/102/40/s402/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs402%2Fc%2F2
+[/us/pl/102/40/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2FtIV
 [/us/stat/105/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F239
-[/us/pl/92/541/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F541%2Fs2%2Fb
+[/us/pl/92/541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F541
 [/us/stat/86/1107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1107
 
 

@@ -27,7 +27,7 @@
 
     (2) The term “covered birth defect” means a birth defect identified by the Secretary under [section 1812 of this title][/us/usc/t38/s1812].
 
-(Added [Pub. L. 106–419, title IV, § 401(a)][/us/pl/106/419/s401/a], Nov. 1, 2000, [114 Stat. 1857][/us/stat/114/1857]; amended [Pub. L. 108–183, title I, § 102(d)(1)][/us/pl/108/183/s102/d/1], Dec. 16, 2003, [117 Stat. 2654][/us/stat/117/2654].)
+(Added [Pub. L. 106–419, title IV][/us/pl/106/419/tIV], § 401(a), Nov. 1, 2000, [114 Stat. 1857][/us/stat/114/1857]; amended [Pub. L. 108–183, title I][/us/pl/108/183/tI], § 102(d)(1), Dec. 16, 2003, [117 Stat. 2654][/us/stat/117/2654].)
 
  __Prior Provisions__ 
 
@@ -39,7 +39,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 106–419, title IV, § 401(g)][/us/pl/106/419/s401/g], Nov. 1, 2000, [114 Stat. 1861][/us/stat/114/1861], provided that:
+[Pub. L. 106–419, title IV][/us/pl/106/419/tIV], § 401(g), Nov. 1, 2000, [114 Stat. 1861][/us/stat/114/1861], provided that:
 
 >     “(1) Except as provided in paragraph (2), the amendments made by this section \[enacting this subchapter and subchapter III of this chapter, amending sections 1802 and 1805 of this title, and repealing sections 1801 and 1806 of this title\] shall take effect on the first day of the first month beginning more than one year after the date of the enactment of this Act \[Nov. 1, 2000\].
 
@@ -54,13 +54,13 @@
 
 [/us/usc/t38/s1831/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1831%2F1
 [/us/usc/t38/s1812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1812
-[/us/pl/106/419/s401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419%2Fs401%2Fa
+[/us/pl/106/419/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419%2FtIV
 [/us/stat/114/1857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1857
-[/us/pl/108/183/s102/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F183%2Fs102%2Fd%2F1
+[/us/pl/108/183/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F183%2FtI
 [/us/stat/117/2654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2654
 [/us/usc/t38/s3711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3711
 [/us/pl/108/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F183
-[/us/pl/106/419/s401/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419%2Fs401%2Fg
+[/us/pl/106/419/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419%2FtIV
 [/us/stat/114/1861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1861
 [/us/usc/t38/s1812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1812
 

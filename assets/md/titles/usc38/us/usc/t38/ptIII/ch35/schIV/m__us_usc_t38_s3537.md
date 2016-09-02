@@ -19,21 +19,21 @@
 
     (b) The Secretary’s utilization of, and payment of a work-study allowance for, the services of an eligible person pursuant to subsection (a) of this section shall be subject to the same requirements, terms, and conditions as are set out in [section 3485 of this title][/us/usc/t38/s3485] with regard to individuals pursuing at least three-quarter-time programs of education referred to in subsection (b) of such section.
 
-(Added [Pub. L. 101–237, title IV, § 406(a)(1)][/us/pl/101/237/s406/a/1], Dec. 18, 1989, [103 Stat. 2082][/us/stat/103/2082], § 1737; renumbered § 3537 and amended [Pub. L. 102–83, § 5(a)][/us/pl/102/83/s5/a], (c)(1), Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406]; [Pub. L. 107–14, § 8(a)(16)][/us/pl/107/14/s8/a/16], June 5, 2001, [115 Stat. 35][/us/stat/115/35].)
+(Added [Pub. L. 101–237, title IV][/us/pl/101/237/tIV], § 406(a)(1), Dec. 18, 1989, [103 Stat. 2082][/us/stat/103/2082], § 1737; renumbered § 3537 and amended [Pub. L. 102–83][/us/pl/102/83], § 5(a), (c)(1), Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406]; [Pub. L. 107–14][/us/pl/107/14], § 8(a)(16), June 5, 2001, [115 Stat. 35][/us/stat/115/35].)
 
  __Amendments__ 
 
     2001—Subsec. (a). [Pub. L. 107–14][/us/pl/107/14] substituted “hereinafter” for “hereafter”.
 
-    1991—[Pub. L. 102–83, § 5(a)][/us/pl/102/83/s5/a], renumbered [section 1737 of this title][/us/usc/t38/s1737] as this section.
+    1991—[Pub. L. 102–83][/us/pl/102/83], § 5(a), renumbered [section 1737 of this title][/us/usc/t38/s1737] as this section.
 
-    Subsec. (a). [Pub. L. 102–83, § 5(c)(1)][/us/pl/102/83/s5/c/1], substituted “3485(a)” for “1685(a)” in two places.
+    Subsec. (a). [Pub. L. 102–83][/us/pl/102/83], § 5(c)(1), substituted “3485(a)” for “1685(a)” in two places.
 
-    Subsec. (b). [Pub. L. 102–83, § 5(c)(1)][/us/pl/102/83/s5/c/1], substituted “3485” for “1685”.
+    Subsec. (b). [Pub. L. 102–83][/us/pl/102/83], § 5(c)(1), substituted “3485” for “1685”.
 
  __Effective Date__ 
 
-[Pub. L. 101–237, title IV, § 406(b)][/us/pl/101/237/s406/b], Dec. 18, 1989, [103 Stat. 2082][/us/stat/103/2082], provided that: 
+[Pub. L. 101–237, title IV][/us/pl/101/237/tIV], § 406(b), Dec. 18, 1989, [103 Stat. 2082][/us/stat/103/2082], provided that: 
 
 > “The amendments made by this section \[enacting this section\] shall take effect on May 1, 1990.”
 
@@ -47,18 +47,18 @@
 [/us/usc/t38/s3485/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3485%2Fa
 [/us/usc/t38/s3485/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3485%2Fa
 [/us/usc/t38/s3485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3485
-[/us/pl/101/237/s406/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237%2Fs406%2Fa%2F1
+[/us/pl/101/237/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237%2FtIV
 [/us/stat/103/2082]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2082
-[/us/pl/102/83/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fa
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F406
-[/us/pl/107/14/s8/a/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F14%2Fs8%2Fa%2F16
+[/us/pl/107/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F14
 [/us/stat/115/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F35
 [/us/pl/107/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F14
-[/us/pl/102/83/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fa
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/usc/t38/s1737]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1737
-[/us/pl/102/83/s5/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fc%2F1
-[/us/pl/102/83/s5/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fc%2F1
-[/us/pl/101/237/s406/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237%2Fs406%2Fb
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/101/237/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237%2FtIV
 [/us/stat/103/2082]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2082
 
 

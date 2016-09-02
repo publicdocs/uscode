@@ -29,7 +29,7 @@
 
     (6) to enhance our Nation’s competitiveness through the development of a more highly educated and productive work force.
 
-(Added [Pub. L. 98–525, title VII, § 702(a)(1)][/us/pl/98/525/s702/a/1], Oct. 19, 1984, [98 Stat. 2553][/us/stat/98/2553], § 1401; amended [Pub. L. 100–48, § 5][/us/pl/100/48/s5], June 1, 1987, [101 Stat. 331][/us/stat/101/331]; renumbered § 3001, [Pub. L. 102–83, § 5(a)][/us/pl/102/83/s5/a], Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406].)
+(Added [Pub. L. 98–525, title VII][/us/pl/98/525/tVII], § 702(a)(1), Oct. 19, 1984, [98 Stat. 2553][/us/stat/98/2553], § 1401; amended [Pub. L. 100–48][/us/pl/100/48], § 5, June 1, 1987, [101 Stat. 331][/us/stat/101/331]; renumbered § 3001, [Pub. L. 102–83][/us/pl/102/83], § 5(a), Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406].)
 
  __Prior Provisions__ 
 
@@ -48,11 +48,11 @@
 ----------
 ----------
 
-[/us/pl/98/525/s702/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs702%2Fa%2F1
+[/us/pl/98/525/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2FtVII
 [/us/stat/98/2553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2553
-[/us/pl/100/48/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F48%2Fs5
+[/us/pl/100/48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F48
 [/us/stat/101/331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F331
-[/us/pl/102/83/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fa
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F406
 [/us/usc/t38/s5101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs5101
 [/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83

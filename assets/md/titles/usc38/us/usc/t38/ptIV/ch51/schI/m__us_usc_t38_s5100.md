@@ -17,7 +17,7 @@
 
     For purposes of this chapter, the term “claimant” means any individual applying for, or submitting a claim for, any benefit under the laws administered by the Secretary.
 
-(Added [Pub. L. 106–475, § 2][/us/pl/106/475/s2], Nov. 9, 2000, [114 Stat. 2096][/us/stat/114/2096].)
+(Added [Pub. L. 106–475][/us/pl/106/475], § 2, Nov. 9, 2000, [114 Stat. 2096][/us/stat/114/2096].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/106/475/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F475%2Fs2
+[/us/pl/106/475]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F475
 [/us/stat/114/2096]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2096
 
 

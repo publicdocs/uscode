@@ -259,17 +259,17 @@ SUBCHAPTER IV—MISCELLANEOUS PROVISIONS  </td>
 
  __Codification__ 
 
-    This chapter was originally added by [Pub. L. 93–508, title IV, § 404(a)][/us/pl/93/508/s404/a], Dec. 3, 1974, [88 Stat. 1594][/us/stat/88/1594], and amended by [Pub. L. 94–286][/us/pl/94/286], May 14, 1976, [90 Stat. 517][/us/stat/90/517]; [Pub. L. 94–502][/us/pl/94/502], Oct. 15, 1976, [90 Stat. 2383][/us/stat/90/2383]; [Pub. L. 96–466][/us/pl/96/466], Oct. 17, 1980, [94 Stat. 2171][/us/stat/94/2171]; [Pub. L. 97–295][/us/pl/97/295], Oct. 12, 1982, [96 Stat. 1287][/us/stat/96/1287]; [Pub. L. 98–620][/us/pl/98/620], Nov. 8, 1984, [98 Stat. 3335][/us/stat/98/3335]; [Pub. L. 99–576][/us/pl/99/576], Oct. 28, 1986, [100 Stat. 3248][/us/stat/100/3248]; [Pub. L. 102–12][/us/pl/102/12], Mar. 18, 1991, [105 Stat. 34][/us/stat/105/34]; [Pub. L. 102–25][/us/pl/102/25], Apr. 6, 1991, [105 Stat. 75][/us/stat/105/75]; [Pub. L. 102–568][/us/pl/102/568], Oct. 29, 1992, [106 Stat. 4320][/us/stat/106/4320]. This chapter is shown here, however, as having been added by [Pub. L. 103–353, § 2(a)][/us/pl/103/353/s2/a], Oct. 13, 1994, [108 Stat. 3150][/us/stat/108/3150], without reference to those intervening amendments because of the general amendment of this chapter by [Pub. L. 103–353][/us/pl/103/353].
+    This chapter was originally added by [Pub. L. 93–508, title IV][/us/pl/93/508/tIV], § 404(a), Dec. 3, 1974, [88 Stat. 1594][/us/stat/88/1594], and amended by [Pub. L. 94–286][/us/pl/94/286], May 14, 1976, [90 Stat. 517][/us/stat/90/517]; [Pub. L. 94–502][/us/pl/94/502], Oct. 15, 1976, [90 Stat. 2383][/us/stat/90/2383]; [Pub. L. 96–466][/us/pl/96/466], Oct. 17, 1980, [94 Stat. 2171][/us/stat/94/2171]; [Pub. L. 97–295][/us/pl/97/295], Oct. 12, 1982, [96 Stat. 1287][/us/stat/96/1287]; [Pub. L. 98–620][/us/pl/98/620], Nov. 8, 1984, [98 Stat. 3335][/us/stat/98/3335]; [Pub. L. 99–576][/us/pl/99/576], Oct. 28, 1986, [100 Stat. 3248][/us/stat/100/3248]; [Pub. L. 102–12][/us/pl/102/12], Mar. 18, 1991, [105 Stat. 34][/us/stat/105/34]; [Pub. L. 102–25][/us/pl/102/25], Apr. 6, 1991, [105 Stat. 75][/us/stat/105/75]; [Pub. L. 102–568][/us/pl/102/568], Oct. 29, 1992, [106 Stat. 4320][/us/stat/106/4320]. This chapter is shown here, however, as having been added by [Pub. L. 103–353][/us/pl/103/353], § 2(a), Oct. 13, 1994, [108 Stat. 3150][/us/stat/108/3150], without reference to those intervening amendments because of the general amendment of this chapter by [Pub. L. 103–353][/us/pl/103/353].
 
-    A prior chapter 43 “Mustering-Out Payments”, [Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1222][/us/stat/72/1222], 1223, consisted of sections 2101 to 2105, prior to repeal by [Pub. L. 89–50, § 1(a)][/us/pl/89/50/s1/a], June 24, 1965, [79 Stat. 173][/us/stat/79/173].
+    A prior chapter 43 “Mustering-Out Payments”, [Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1222][/us/stat/72/1222], 1223, consisted of sections 2101 to 2105, prior to repeal by [Pub. L. 89–50][/us/pl/89/50], § 1(a), June 24, 1965, [79 Stat. 173][/us/stat/79/173].
 
  __Amendments__ 
 
-    2008—[Pub. L. 110–389, title III][/us/pl/110/389], §§ 311(f)(2), 313(b), Oct. 10, 2008, [122 Stat. 4164][/us/stat/122/4164], 4167, added items 4327 and 4335.
+    2008—[Pub. L. 110–389, title III][/us/pl/110/389/tIII], §§ 311(f)(2), 313(b), Oct. 10, 2008, [122 Stat. 4164][/us/stat/122/4164], 4167, added items 4327 and 4335.
 
-    2004—[Pub. L. 108–454, title II, § 203(b)][/us/pl/108/454/s203/b], Dec. 10, 2004, [118 Stat. 3606][/us/stat/118/3606], added item 4334.
+    2004—[Pub. L. 108–454, title II][/us/pl/108/454/tII], § 203(b), Dec. 10, 2004, [118 Stat. 3606][/us/stat/118/3606], added item 4334.
 
-    1998—[Pub. L. 105–368, title II, § 212(b)(2)][/us/pl/105/368/s212/b/2], Nov. 11, 1998, [112 Stat. 3331][/us/stat/112/3331], added item 4319.
+    1998—[Pub. L. 105–368, title II][/us/pl/105/368/tII], § 212(b)(2), Nov. 11, 1998, [112 Stat. 3331][/us/stat/112/3331], added item 4319.
 
 ----------
 
@@ -278,7 +278,7 @@ SUBCHAPTER IV—MISCELLANEOUS PROVISIONS  </td>
 ----------
 ----------
 
-[/us/pl/93/508/s404/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F508%2Fs404%2Fa
+[/us/pl/93/508/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F508%2FtIV
 [/us/stat/88/1594]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1594
 [/us/pl/94/286]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F286
 [/us/stat/90/517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F517
@@ -298,18 +298,18 @@ SUBCHAPTER IV—MISCELLANEOUS PROVISIONS  </td>
 [/us/stat/105/75]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F75
 [/us/pl/102/568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F568
 [/us/stat/106/4320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4320
-[/us/pl/103/353/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F353%2Fs2%2Fa
+[/us/pl/103/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F353
 [/us/stat/108/3150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3150
 [/us/pl/103/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F353
 [/us/pl/85/857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F857
 [/us/stat/72/1222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1222
-[/us/pl/89/50/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F50%2Fs1%2Fa
+[/us/pl/89/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F50
 [/us/stat/79/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F173
-[/us/pl/110/389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F389
+[/us/pl/110/389/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F389%2FtIII
 [/us/stat/122/4164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4164
-[/us/pl/108/454/s203/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F454%2Fs203%2Fb
+[/us/pl/108/454/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F454%2FtII
 [/us/stat/118/3606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3606
-[/us/pl/105/368/s212/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2Fs212%2Fb%2F2
+[/us/pl/105/368/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2FtII
 [/us/stat/112/3331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3331
 
 

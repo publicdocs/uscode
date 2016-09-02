@@ -23,7 +23,7 @@
 
     (d) Amounts received in connection with misuse by a fiduciary of funds paid as benefits under laws administered by the Secretary shall be paid to the individual whose benefits were misused. If the Secretary has previously reissued the misused benefits, the amounts shall be treated in the same manner as overpayments recouped by the Secretary and shall be deposited to the credit of the applicable revolving fund, trust fund, or appropriation.
 
-(Added [Pub. L. 108–454, title V, § 504(b)(1)][/us/pl/108/454/s504/b/1], Dec. 10, 2004, [118 Stat. 3621][/us/stat/118/3621].)
+(Added [Pub. L. 108–454, title V][/us/pl/108/454/tV], § 504(b)(1), Dec. 10, 2004, [118 Stat. 3621][/us/stat/118/3621].)
 
  __Effective Date__ 
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/108/454/s504/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F454%2Fs504%2Fb%2F1
+[/us/pl/108/454/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F454%2FtV
 [/us/stat/118/3621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3621
 [/us/pl/108/454/s507/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F454%2Fs507%2Fa
 [/us/usc/t38/s5312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs5312

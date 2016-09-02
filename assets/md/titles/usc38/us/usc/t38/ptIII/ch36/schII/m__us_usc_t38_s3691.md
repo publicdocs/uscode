@@ -45,11 +45,11 @@
 
         (2) A veteran or eligible person undergoing a change from one program of education to another program of education as described in paragraph (1)(E) shall not be required to apply to the Secretary for approval of such change.
 
-(Added [Pub. L. 92–540, title III, § 316(2)][/us/pl/92/540/s316/2], Oct. 24, 1972, [86 Stat. 1089][/us/stat/86/1089], § 1791; amended [Pub. L. 94–502, title V, § 513(a)(20)][/us/pl/94/502/s513/a/20], Oct. 15, 1976, [90 Stat. 2403][/us/stat/90/2403]; [Pub. L. 101–237, title IV, § 423(b)(1)(A)][/us/pl/101/237/s423/b/1/A], Dec. 18, 1989, [103 Stat. 2092][/us/stat/103/2092]; [Pub. L. 101–366, title II, § 208(a)][/us/pl/101/366/s208/a], Aug. 15, 1990, [104 Stat. 443][/us/stat/104/443]; renumbered § 3691, [Pub. L. 102–83, § 5(a)][/us/pl/102/83/s5/a], Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406]; [Pub. L. 102–568, title III, § 317][/us/pl/102/568/s317], Oct. 29, 1992, [106 Stat. 4334][/us/stat/106/4334]; [Pub. L. 110–389, title III, § 324][/us/pl/110/389/s324], Oct. 10, 2008, [122 Stat. 4168][/us/stat/122/4168].)
+(Added [Pub. L. 92–540, title III][/us/pl/92/540/tIII], § 316(2), Oct. 24, 1972, [86 Stat. 1089][/us/stat/86/1089], § 1791; amended [Pub. L. 94–502, title V][/us/pl/94/502/tV], § 513(a)(20), Oct. 15, 1976, [90 Stat. 2403][/us/stat/90/2403]; [Pub. L. 101–237, title IV][/us/pl/101/237/tIV], § 423(b)(1)(A), Dec. 18, 1989, [103 Stat. 2092][/us/stat/103/2092]; [Pub. L. 101–366, title II][/us/pl/101/366/tII], § 208(a), Aug. 15, 1990, [104 Stat. 443][/us/stat/104/443]; renumbered § 3691, [Pub. L. 102–83][/us/pl/102/83], § 5(a), Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406]; [Pub. L. 102–568, title III][/us/pl/102/568/tIII], § 317, Oct. 29, 1992, [106 Stat. 4334][/us/stat/106/4334]; [Pub. L. 110–389, title III][/us/pl/110/389/tIII], § 324, Oct. 10, 2008, [122 Stat. 4168][/us/stat/122/4168].)
 
  __Prior Provisions__ 
 
-    Provisions similar to those comprising this section were contained in former section 1672, as added by [Pub. L. 89–358, § 2][/us/pl/89/358/s2], Mar. 3, 1966, [80 Stat. 15][/us/stat/80/15]; and former section 1722, [Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1196][/us/stat/72/1196], prior to repeal by sections 401(6) and 402(2) of [Pub. L. 92–540][/us/pl/92/540], respectively.
+    Provisions similar to those comprising this section were contained in former section 1672, as added by [Pub. L. 89–358][/us/pl/89/358], § 2, Mar. 3, 1966, [80 Stat. 15][/us/stat/80/15]; and former section 1722, [Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1196][/us/stat/72/1196], prior to repeal by sections 401(6) and 402(2) of [Pub. L. 92–540][/us/pl/92/540], respectively.
 
  __Amendments__ 
 
@@ -71,7 +71,7 @@
 
  __Effective Date of 1990 Amendment__ 
 
-[Pub. L. 101–366, title II, § 208(b)][/us/pl/101/366/s208/b], Aug. 15, 1990, [104 Stat. 443][/us/stat/104/443], provided that: 
+[Pub. L. 101–366, title II][/us/pl/101/366/tII], § 208(b), Aug. 15, 1990, [104 Stat. 443][/us/stat/104/443], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall take effect on June 1, 1991.”
 
@@ -86,21 +86,21 @@
 ----------
 ----------
 
-[/us/pl/92/540/s316/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F540%2Fs316%2F2
+[/us/pl/92/540/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F540%2FtIII
 [/us/stat/86/1089]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1089
-[/us/pl/94/502/s513/a/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F502%2Fs513%2Fa%2F20
+[/us/pl/94/502/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F502%2FtV
 [/us/stat/90/2403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2403
-[/us/pl/101/237/s423/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237%2Fs423%2Fb%2F1%2FA
+[/us/pl/101/237/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237%2FtIV
 [/us/stat/103/2092]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2092
-[/us/pl/101/366/s208/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F366%2Fs208%2Fa
+[/us/pl/101/366/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F366%2FtII
 [/us/stat/104/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F443
-[/us/pl/102/83/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fa
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F406
-[/us/pl/102/568/s317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F568%2Fs317
+[/us/pl/102/568/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F568%2FtIII
 [/us/stat/106/4334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4334
-[/us/pl/110/389/s324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F389%2Fs324
+[/us/pl/110/389/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F389%2FtIII
 [/us/stat/122/4168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4168
-[/us/pl/89/358/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F358%2Fs2
+[/us/pl/89/358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F358
 [/us/stat/80/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F15
 [/us/pl/85/857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F857
 [/us/stat/72/1196]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1196
@@ -114,7 +114,7 @@
 [/us/pl/94/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F502
 [/us/pl/94/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F502
 [/us/pl/94/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F502
-[/us/pl/101/366/s208/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F366%2Fs208%2Fb
+[/us/pl/101/366/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F366%2FtII
 [/us/stat/104/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F443
 [/us/pl/94/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F502
 [/us/pl/94/502/s703/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F502%2Fs703%2Fb

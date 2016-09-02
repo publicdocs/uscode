@@ -27,7 +27,7 @@
 
     The Secretary may prescribe by regulation the meaning of the term “use and benefit” for purposes of this section.
 
-(Added [Pub. L. 108–454, title V, § 503(a)(1)][/us/pl/108/454/s503/a/1], Dec. 10, 2004, [118 Stat. 3619][/us/stat/118/3619].)
+(Added [Pub. L. 108–454, title V][/us/pl/108/454/tV], § 503(a)(1), Dec. 10, 2004, [118 Stat. 3619][/us/stat/118/3619].)
 
  __Effective Date__ 
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/108/454/s503/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F454%2Fs503%2Fa%2F1
+[/us/pl/108/454/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F454%2FtV
 [/us/stat/118/3619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3619
 [/us/pl/108/454/s507/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F454%2Fs507%2Fb%2F2
 [/us/usc/t38/s5312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs5312

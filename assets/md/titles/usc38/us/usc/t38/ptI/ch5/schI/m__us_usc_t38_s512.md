@@ -19,13 +19,13 @@
 
     (b) There shall be included on the technical and administrative staff of the Secretary such staff officers, experts, inspectors, and assistants (including legal assistants) as the Secretary may prescribe.
 
-(Added [Pub. L. 102–83, § 2(a)][/us/pl/102/83/s2/a], Aug. 6, 1991, [105 Stat. 389][/us/stat/105/389].)
+(Added [Pub. L. 102–83][/us/pl/102/83], § 2(a), Aug. 6, 1991, [105 Stat. 389][/us/stat/105/389].)
 
  __Prior Provisions__ 
 
     Prior section 512 was renumbered [section 1512 of this title][/us/usc/t38/s1512].
 
-    Provisions similar to those in this section were contained in [section 212 of this title][/us/usc/t38/s212] prior to repeal by [Pub. L. 102–83, § 2(a)][/us/pl/102/83/s2/a].
+    Provisions similar to those in this section were contained in [section 212 of this title][/us/usc/t38/s212] prior to repeal by [Pub. L. 102–83][/us/pl/102/83], § 2(a).
 
 ----------
 
@@ -34,10 +34,10 @@
 ----------
 ----------
 
-[/us/pl/102/83/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs2%2Fa
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F389
 [/us/usc/t38/s1512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1512
 [/us/usc/t38/s212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs212
-[/us/pl/102/83/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs2%2Fa
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 
 

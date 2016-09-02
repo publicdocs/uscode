@@ -83,7 +83,7 @@
 
     (e) Subsections (b) through (d) shall cease to be effective on September 30, 2011.
 
-(Added [Pub. L. 105–277, div. C, title XVI, § 1602(a)(1)][/us/pl/105/277/s1602/a/1], Oct. 21, 1998, [112 Stat. 2681–742][/us/stat/112/2681-742]; amended [Pub. L. 107–103, title II, § 202(b)(2)][/us/pl/107/103/s202/b/2], (d)(1), Dec. 27, 2001, [115 Stat. 989][/us/stat/115/989].)
+(Added [Pub. L. 105–277, div. C, title XVI][/us/pl/105/277/dC/tXVI], § 1602(a)(1), Oct. 21, 1998, [112 Stat. 2681–742][/us/stat/112/2681-742]; amended [Pub. L. 107–103, title II][/us/pl/107/103/tII], § 202(b)(2), (d)(1), Dec. 27, 2001, [115 Stat. 989][/us/stat/115/989].)
 
  __References in Text__ 
 
@@ -91,9 +91,9 @@
 
  __Amendments__ 
 
-    2001—Subsec. (a)(4). [Pub. L. 107–103, § 202(b)(2)][/us/pl/107/103/s202/b/2], added par. (4).
+    2001—Subsec. (a)(4). [Pub. L. 107–103][/us/pl/107/103], § 202(b)(2), added par. (4).
 
-    Subsec. (e). [Pub. L. 107–103, § 202(d)(1)][/us/pl/107/103/s202/d/1], substituted “on September 30, 2011” for “10 years after the first day of the fiscal year in which the National Academy of Sciences submits to the Secretary the first report under section 1603 of the Persian Gulf War Veterans Act of 1998”.
+    Subsec. (e). [Pub. L. 107–103][/us/pl/107/103], § 202(d)(1), substituted “on September 30, 2011” for “10 years after the first day of the fiscal year in which the National Academy of Sciences submits to the Secretary the first report under section 1603 of the Persian Gulf War Veterans Act of 1998”.
 
  __Effective Date of 2001 Amendment__ 
 
@@ -109,14 +109,14 @@
 [/us/usc/t38/s1110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1110
 [/us/usc/t38/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1113
 [/us/usc/t38/s1117/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1117%2Fg
-[/us/pl/105/277/s1602/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1602%2Fa%2F1
+[/us/pl/105/277/dC/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdC%2FtXVI
 [/us/stat/112/2681-742]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-742
-[/us/pl/107/103/s202/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F103%2Fs202%2Fb%2F2
+[/us/pl/107/103/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F103%2FtII
 [/us/stat/115/989]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F989
 [/us/pl/105/277/s1603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1603
 [/us/usc/t38/s1117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1117
-[/us/pl/107/103/s202/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F103%2Fs202%2Fb%2F2
-[/us/pl/107/103/s202/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F103%2Fs202%2Fd%2F1
+[/us/pl/107/103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F103
+[/us/pl/107/103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F103
 [/us/pl/107/103/s202/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F103%2Fs202%2Fb%2F2
 [/us/pl/107/103/s202/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F103%2Fs202%2Fc
 [/us/usc/t38/s1117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1117

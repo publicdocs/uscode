@@ -97,13 +97,13 @@
 
     There are authorized to be appropriated, $155,300,000 for each of fiscal years 2014 through 2018 to carry out this section.
 
-(Added [Pub. L. 107–287, § 6(a)(1)][/us/pl/107/287/s6/a/1], Nov. 7, 2002, [116 Stat. 2030][/us/stat/116/2030]; amended [Pub. L. 109–295, title VI, § 612(c)][/us/pl/109/295/s612/c], Oct. 4, 2006, [120 Stat. 1410][/us/stat/120/1410]; [Pub. L. 109–417, title III, § 306][/us/pl/109/417/s306], Dec. 19, 2006, [120 Stat. 2863][/us/stat/120/2863]; [Pub. L. 110–387, title IX, § 901(a)(7)][/us/pl/110/387/s901/a/7], Oct. 10, 2008, [122 Stat. 4142][/us/stat/122/4142]; [Pub. L. 111–275, title X, § 1001(p)(2)][/us/pl/111/275/s1001/p/2], Oct. 13, 2010, [124 Stat. 2897][/us/stat/124/2897]; [Pub. L. 113–5, title I, § 105][/us/pl/113/5/s105], Mar. 13, 2013, [127 Stat. 170][/us/stat/127/170].)
+(Added [Pub. L. 107–287][/us/pl/107/287], § 6(a)(1), Nov. 7, 2002, [116 Stat. 2030][/us/stat/116/2030]; amended [Pub. L. 109–295, title VI][/us/pl/109/295/tVI], § 612(c), Oct. 4, 2006, [120 Stat. 1410][/us/stat/120/1410]; [Pub. L. 109–417, title III][/us/pl/109/417/tIII], § 306, Dec. 19, 2006, [120 Stat. 2863][/us/stat/120/2863]; [Pub. L. 110–387, title IX][/us/pl/110/387/tIX], § 901(a)(7), Oct. 10, 2008, [122 Stat. 4142][/us/stat/122/4142]; [Pub. L. 111–275, title X][/us/pl/111/275/tX], § 1001(p)(2), Oct. 13, 2010, [124 Stat. 2897][/us/stat/124/2897]; [Pub. L. 113–5, title I][/us/pl/113/5/tI], § 105, Mar. 13, 2013, [127 Stat. 170][/us/stat/127/170].)
 
  __References in Text__ 
 
     Section 2801 of the Public Health Service Act, referred to in subsec. (a)(1), is classified to [section 300hh of Title 42][/us/usc/t42/s300hh], The Public Health and Welfare.
 
-    Section 502 of the Homeland Security Act of 2002, referred to in subsec. (a)(2)(C), probably means [section 502 of Pub. L. 107–296][/us/pl/107/296/s502] prior to its redesignation as section 504 by [Pub. L. 109–295, § 611(8)][/us/pl/109/295/s611/8], and reclassification as [section 314 of Title 6][/us/usc/t6/s314], Domestic Security, and not [section 506 of Pub. L. 107–296][/us/pl/107/296/s506] which was redesignated section 502 by [Pub. L. 109–295, § 611(9)][/us/pl/109/295/s611/9], and is classified to [section 312 of Title 6][/us/usc/t6/s312]. Provisions relating to the National Response Plan are contained in [section 314(a)(6) of Title 6][/us/usc/t6/s314/a/6].
+    Section 502 of the Homeland Security Act of 2002, referred to in subsec. (a)(2)(C), probably means [section 502 of Pub. L. 107–296][/us/pl/107/296/s502] prior to its redesignation as section 504 by [Pub. L. 109–295][/us/pl/109/295], § 611(8), and reclassification as [section 314 of Title 6][/us/usc/t6/s314], Domestic Security, and not [section 506 of Pub. L. 107–296][/us/pl/107/296/s506] which was redesignated section 502 by [Pub. L. 109–295][/us/pl/109/295], § 611(9), and is classified to [section 312 of Title 6][/us/usc/t6/s312]. Provisions relating to the National Response Plan are contained in [section 314(a)(6) of Title 6][/us/usc/t6/s314/a/6].
 
     Section 154(b)(1) of the Public Health Security and Bioterrorism Preparedness and Response Act of 2002, referred to in subsec. (b)(2), is [section 154(b)(1) of Pub. L. 107–188][/us/pl/107/188/s154/b/1], which is set out as a note below.
 
@@ -111,25 +111,25 @@
 
     2013—Subsec. (g). [Pub. L. 113–5][/us/pl/113/5] substituted “$155,300,000 for each of fiscal years 2014 through 2018 to carry out this section” for “such sums as may be necessary to carry out this section for each of fiscal years 2007 through 2011”.
 
-    2010—Subsec. (e)(1). [Pub. L. 111–275, § 1001(p)(2)(A)][/us/pl/111/275/s1001/p/2/A], substituted “([42 U.S.C. 300hh–11][/us/usc/t42/s300hh–11])” for “([42 U.S.C. 300hh–11(b)][/us/usc/t42/s300hh–11/b])”.
+    2010—Subsec. (e)(1). [Pub. L. 111–275][/us/pl/111/275], § 1001(p)(2)(A), substituted “([42 U.S.C. 300hh–11][/us/usc/t42/s300hh–11])” for “([42 U.S.C. 300hh–11(b)][/us/usc/t42/s300hh–11/b])”.
 
-    Subsec. (e)(2). [Pub. L. 111–275, § 1001(p)(2)(B)][/us/pl/111/275/s1001/p/2/B], substituted “([42 U.S.C. 247d–6][/us/usc/t42/s247d–6])” for “([42 U.S.C. 247d–6(a)][/us/usc/t42/s247d–6/a])”.
+    Subsec. (e)(2). [Pub. L. 111–275][/us/pl/111/275], § 1001(p)(2)(B), substituted “([42 U.S.C. 247d–6][/us/usc/t42/s247d–6])” for “([42 U.S.C. 247d–6(a)][/us/usc/t42/s247d–6/a])”.
 
     2008—Subsec. (a)(1). [Pub. L. 110–387][/us/pl/110/387] substituted “respond to such” for “respond to such such”.
 
-    2006—Subsec. (a)(1). [Pub. L. 109–417, § 306(a)(1)(A)][/us/pl/109/417/s306/a/1/A], substituted “a public health emergency (as defined in section 2801 of the Public Health Service Act)” for “chemical or biological attack”, “such an emergency” for “an attack”, and “such emergencies” for “public health emergencies”.
+    2006—Subsec. (a)(1). [Pub. L. 109–417][/us/pl/109/417], § 306(a)(1)(A), substituted “a public health emergency (as defined in section 2801 of the Public Health Service Act)” for “chemical or biological attack”, “such an emergency” for “an attack”, and “such emergencies” for “public health emergencies”.
 
-    Subsec. (a)(2)(C), (D). [Pub. L. 109–417, § 306(a)(1)(B)][/us/pl/109/417/s306/a/1/B], added subpars. (C) and (D).
+    Subsec. (a)(2)(C), (D). [Pub. L. 109–417][/us/pl/109/417], § 306(a)(1)(B), added subpars. (C) and (D).
 
-    Subsec. (c). [Pub. L. 109–417, § 306(a)(2)][/us/pl/109/417/s306/a/2], substituted “a public health emergency. The Secretary shall, through existing medical procurement contracts, and on a reimbursable basis, make available as necessary, medical supplies, equipment, and pharmaceuticals in response to a public health emergency in support of the Secretary of Health and Human Services.” for “a chemical or biological attack or other terrorist attack.”
+    Subsec. (c). [Pub. L. 109–417][/us/pl/109/417], § 306(a)(2), substituted “a public health emergency. The Secretary shall, through existing medical procurement contracts, and on a reimbursable basis, make available as necessary, medical supplies, equipment, and pharmaceuticals in response to a public health emergency in support of the Secretary of Health and Human Services.” for “a chemical or biological attack or other terrorist attack.”
 
-    Subsec. (d). [Pub. L. 109–417, § 306(a)(3)][/us/pl/109/417/s306/a/3], struck out “develop and” before “implement curricula”, substituted “public health emergencies” for “biological, chemical, or radiological attacks”, and inserted “consistent with section 319F(a) of the Public Health Service Act” before period at end.
+    Subsec. (d). [Pub. L. 109–417][/us/pl/109/417], § 306(a)(3), struck out “develop and” before “implement curricula”, substituted “public health emergencies” for “biological, chemical, or radiological attacks”, and inserted “consistent with section 319F(a) of the Public Health Service Act” before period at end.
 
-    Subsec. (e)(1). [Pub. L. 109–417, § 306(a)(4)(A)][/us/pl/109/417/s306/a/4/A], substituted “2812” for “2811(b)”.
+    Subsec. (e)(1). [Pub. L. 109–417][/us/pl/109/417], § 306(a)(4)(A), substituted “2812” for “2811(b)”.
 
-    Subsec. (e)(2). [Pub. L. 109–417, § 306(a)(4)(B)][/us/pl/109/417/s306/a/4/B], struck out “bioterrorism and other” after “response to” and substituted “319F” for “319F(a)”.
+    Subsec. (e)(2). [Pub. L. 109–417][/us/pl/109/417], § 306(a)(4)(B), struck out “bioterrorism and other” after “response to” and substituted “319F” for “319F(a)”.
 
-    Subsec. (g). [Pub. L. 109–417, § 306(b)][/us/pl/109/417/s306/b], added subsec. (g).
+    Subsec. (g). [Pub. L. 109–417][/us/pl/109/417], § 306(b), added subsec. (g).
 
  __Change of Name__ 
 
@@ -143,9 +143,9 @@
 
  __Enhancement of Emergency Preparedness of Department of Veterans Affairs__ 
 
-[Pub. L. 107–188, title I, § 154][/us/pl/107/188/s154], June 12, 2002, [116 Stat. 631][/us/stat/116/631], as amended by [Pub. L. 107–287, § 6(b)][/us/pl/107/287/s6/b], (c), Nov. 7, 2002, [116 Stat. 2032][/us/stat/116/2032], provided that:
+[Pub. L. 107–188, title I][/us/pl/107/188/tI], § 154, June 12, 2002, [116 Stat. 631][/us/stat/116/631], as amended by [Pub. L. 107–287][/us/pl/107/287], § 6(b), (c), Nov. 7, 2002, [116 Stat. 2032][/us/stat/116/2032], provided that:
 
->     “\[(a) Repealed. [Pub. L. 107–287, § 6(b)][/us/pl/107/287/s6/b], Nov. 7, 2002, [116 Stat. 2032][/us/stat/116/2032].\]
+>     “\[(a) Repealed. [Pub. L. 107–287][/us/pl/107/287], § 6(b), Nov. 7, 2002, [116 Stat. 2032][/us/stat/116/2032].\]
 
 >     “(b)  __Security at Department Medical and Research Facilities__  __.—__ 
 
@@ -161,9 +161,9 @@
 
 >             “(D) Any other needs the Secretary considers appropriate.
 
->         “\[(2) Repealed. [Pub. L. 107–287, § 6(b)][/us/pl/107/287/s6/b], Nov. 7, 2002, [116 Stat. 2032][/us/stat/116/2032].\]
+>         “\[(2) Repealed. [Pub. L. 107–287][/us/pl/107/287], § 6(b), Nov. 7, 2002, [116 Stat. 2032][/us/stat/116/2032].\]
 
->     “\[(c) to (f) Repealed. [Pub. L. 107–287, § 6(b)][/us/pl/107/287/s6/b], Nov. 7, 2002, [116 Stat. 2032][/us/stat/116/2032].\]
+>     “\[(c) to (f) Repealed. [Pub. L. 107–287][/us/pl/107/287], § 6(b), Nov. 7, 2002, [116 Stat. 2032][/us/stat/116/2032].\]
 
 >     “(g)  __Authorization of Appropriations__  __.—__ 
 
@@ -196,42 +196,42 @@
 [/us/stat/116/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F631
 [/us/usc/t42/s300hh–11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300hh%E2%80%9311
 [/us/usc/t42/s247d–6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs247d%E2%80%936
-[/us/pl/107/287/s6/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F287%2Fs6%2Fa%2F1
+[/us/pl/107/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F287
 [/us/stat/116/2030]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2030
-[/us/pl/109/295/s612/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs612%2Fc
+[/us/pl/109/295/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2FtVI
 [/us/stat/120/1410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1410
-[/us/pl/109/417/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417%2Fs306
+[/us/pl/109/417/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417%2FtIII
 [/us/stat/120/2863]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2863
-[/us/pl/110/387/s901/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F387%2Fs901%2Fa%2F7
+[/us/pl/110/387/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F387%2FtIX
 [/us/stat/122/4142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4142
-[/us/pl/111/275/s1001/p/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275%2Fs1001%2Fp%2F2
+[/us/pl/111/275/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275%2FtX
 [/us/stat/124/2897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2897
-[/us/pl/113/5/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2Fs105
+[/us/pl/113/5/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2FtI
 [/us/stat/127/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F170
 [/us/usc/t42/s300hh]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300hh
 [/us/pl/107/296/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs502
-[/us/pl/109/295/s611/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs611%2F8
+[/us/pl/109/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295
 [/us/usc/t6/s314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs314
 [/us/pl/107/296/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs506
-[/us/pl/109/295/s611/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs611%2F9
+[/us/pl/109/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295
 [/us/usc/t6/s312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs312
 [/us/usc/t6/s314/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs314%2Fa%2F6
 [/us/pl/107/188/s154/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2Fs154%2Fb%2F1
 [/us/pl/113/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5
-[/us/pl/111/275/s1001/p/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275%2Fs1001%2Fp%2F2%2FA
+[/us/pl/111/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275
 [/us/usc/t42/s300hh–11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300hh%E2%80%9311
 [/us/usc/t42/s300hh–11/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300hh%E2%80%9311%2Fb
-[/us/pl/111/275/s1001/p/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275%2Fs1001%2Fp%2F2%2FB
+[/us/pl/111/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275
 [/us/usc/t42/s247d–6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs247d%E2%80%936
 [/us/usc/t42/s247d–6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs247d%E2%80%936%2Fa
 [/us/pl/110/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F387
-[/us/pl/109/417/s306/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417%2Fs306%2Fa%2F1%2FA
-[/us/pl/109/417/s306/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417%2Fs306%2Fa%2F1%2FB
-[/us/pl/109/417/s306/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417%2Fs306%2Fa%2F2
-[/us/pl/109/417/s306/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417%2Fs306%2Fa%2F3
-[/us/pl/109/417/s306/a/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417%2Fs306%2Fa%2F4%2FA
-[/us/pl/109/417/s306/a/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417%2Fs306%2Fa%2F4%2FB
-[/us/pl/109/417/s306/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417%2Fs306%2Fb
+[/us/pl/109/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417
+[/us/pl/109/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417
+[/us/pl/109/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417
+[/us/pl/109/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417
+[/us/pl/109/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417
+[/us/pl/109/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417
+[/us/pl/109/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417
 [/us/pl/109/295/s612/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs612%2Fc
 [/us/usc/t6/s313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs313
 [/us/pl/109/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295
@@ -242,15 +242,15 @@
 [/us/pl/109/417/s301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417%2Fs301%2Fb
 [/us/usc/t42/s300hh–11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300hh%E2%80%9311
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
-[/us/pl/107/188/s154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2Fs154
+[/us/pl/107/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2FtI
 [/us/stat/116/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F631
-[/us/pl/107/287/s6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F287%2Fs6%2Fb
+[/us/pl/107/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F287
 [/us/stat/116/2032]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2032
-[/us/pl/107/287/s6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F287%2Fs6%2Fb
+[/us/pl/107/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F287
 [/us/stat/116/2032]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2032
-[/us/pl/107/287/s6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F287%2Fs6%2Fb
+[/us/pl/107/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F287
 [/us/stat/116/2032]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2032
-[/us/pl/107/287/s6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F287%2Fs6%2Fb
+[/us/pl/107/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F287
 [/us/stat/116/2032]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2032
 [/us/usc/t38/s8117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs8117
 [/us/usc/t38/s8117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs8117

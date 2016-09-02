@@ -37,19 +37,19 @@
 
         (2) for an academic year beginning on any subsequent August 1, the amount for the previous academic year beginning on August 1 under this subsection, as increased by the percentage increase equal to the most recent percentage increase determined under section 3015(h).
 
-(Added [Pub. L. 110–252, title V, § 5003(a)(1)][/us/pl/110/252/s5003/a/1], June 30, 2008, [122 Stat. 2367][/us/stat/122/2367]; amended [Pub. L. 111–377, title I, § 107(a)][/us/pl/111/377/s107/a], (b), Jan. 4, 2011, [124 Stat. 4118][/us/stat/124/4118].)
+(Added [Pub. L. 110–252, title V][/us/pl/110/252/tV], § 5003(a)(1), June 30, 2008, [122 Stat. 2367][/us/stat/122/2367]; amended [Pub. L. 111–377, title I][/us/pl/111/377/tI], § 107(a), (b), Jan. 4, 2011, [124 Stat. 4118][/us/stat/124/4118].)
 
  __Amendments__ 
 
-    2011—Subsec. (a). [Pub. L. 111–377, § 107(a)][/us/pl/111/377/s107/a], substituted “licensing or certification tests” for “one licensing or certification test”.
+    2011—Subsec. (a). [Pub. L. 111–377][/us/pl/111/377], § 107(a), substituted “licensing or certification tests” for “one licensing or certification test”.
 
-    Subsec. (b)(3). [Pub. L. 111–377, § 107(b)(2)][/us/pl/111/377/s107/b/2], added par. (3).
+    Subsec. (b)(3). [Pub. L. 111–377][/us/pl/111/377], § 107(b)(2), added par. (3).
 
-    Subsec. (c). [Pub. L. 111–377, § 107(b)(1)][/us/pl/111/377/s107/b/1], amended subsec. (c) generally. Prior to amendment, text read as follows: “Any amount paid an individual under subsection (a) is in addition to any other educational assistance benefits provided the individual under this chapter.”
+    Subsec. (c). [Pub. L. 111–377][/us/pl/111/377], § 107(b)(1), amended subsec. (c) generally. Prior to amendment, text read as follows: “Any amount paid an individual under subsection (a) is in addition to any other educational assistance benefits provided the individual under this chapter.”
 
  __Effective Date of 2011 Amendment__ 
 
-[Pub. L. 111–377, title I, § 107(c)][/us/pl/111/377/s107/c], Jan. 4, 2011, [124 Stat. 4118][/us/stat/124/4118], provided that: 
+[Pub. L. 111–377, title I][/us/pl/111/377/tI], § 107(c), Jan. 4, 2011, [124 Stat. 4118][/us/stat/124/4118], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall take effect on August 1, 2011, and shall apply with respect to licensure and certification tests taken on or after that date.”
 
@@ -60,14 +60,14 @@
 ----------
 ----------
 
-[/us/pl/110/252/s5003/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F252%2Fs5003%2Fa%2F1
+[/us/pl/110/252/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F252%2FtV
 [/us/stat/122/2367]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2367
-[/us/pl/111/377/s107/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F377%2Fs107%2Fa
+[/us/pl/111/377/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F377%2FtI
 [/us/stat/124/4118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4118
-[/us/pl/111/377/s107/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F377%2Fs107%2Fa
-[/us/pl/111/377/s107/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F377%2Fs107%2Fb%2F2
-[/us/pl/111/377/s107/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F377%2Fs107%2Fb%2F1
-[/us/pl/111/377/s107/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F377%2Fs107%2Fc
+[/us/pl/111/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F377
+[/us/pl/111/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F377
+[/us/pl/111/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F377
+[/us/pl/111/377/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F377%2FtI
 [/us/stat/124/4118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4118
 
 

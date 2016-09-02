@@ -75,7 +75,7 @@
 
         (2) Section 14 of such Act shall not apply to the Committee.
 
-(Added [Pub. L. 104–262, title III, § 333(a)(1)][/us/pl/104/262/s333/a/1], Oct. 9, 1996, [110 Stat. 3199][/us/stat/110/3199]; amended [Pub. L. 107–14, § 8(a)(16)][/us/pl/107/14/s8/a/16], June 5, 2001, [115 Stat. 35][/us/stat/115/35].)
+(Added [Pub. L. 104–262, title III][/us/pl/104/262/tIII], § 333(a)(1), Oct. 9, 1996, [110 Stat. 3199][/us/stat/110/3199]; amended [Pub. L. 107–14][/us/pl/107/14], § 8(a)(16), June 5, 2001, [115 Stat. 35][/us/stat/115/35].)
 
  __References in Text__ 
 
@@ -83,7 +83,7 @@
 
  __Prior Provisions__ 
 
-    Prior [section 545 of this title][/us/usc/t38/s545], [Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1139][/us/stat/72/1139], authorized the payment of a pension to children of World War II or Korean conflict veterans and prescribed income limitations, prior to the general amendment of subchapter III of chapter 15 of this title by [Pub. L. 86–211, § 4][/us/pl/86/211/s4], Aug. 29, 1959, [73 Stat. 434][/us/stat/73/434]. See [section 1543 of this title][/us/usc/t38/s1543].
+    Prior [section 545 of this title][/us/usc/t38/s545], [Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1139][/us/stat/72/1139], authorized the payment of a pension to children of World War II or Korean conflict veterans and prescribed income limitations, prior to the general amendment of subchapter III of chapter 15 of this title by [Pub. L. 86–211][/us/pl/86/211], § 4, Aug. 29, 1959, [73 Stat. 434][/us/stat/73/434]. See [section 1543 of this title][/us/usc/t38/s1543].
 
  __Amendments__ 
 
@@ -91,7 +91,7 @@
 
  __Commission on Servicemembers and Veterans Transition Assistance__ 
 
-[Pub. L. 104–275, title VII][/us/pl/104/275], Oct. 9, 1996, [110 Stat. 3346][/us/stat/110/3346], as amended by [Pub. L. 105–368, title X, § 1005(c)(2)][/us/pl/105/368/s1005/c/2], Nov. 11, 1998, [112 Stat. 3366][/us/stat/112/3366], provided that:
+[Pub. L. 104–275, title VII][/us/pl/104/275/tVII], Oct. 9, 1996, [110 Stat. 3346][/us/stat/110/3346], as amended by [Pub. L. 105–368, title X][/us/pl/105/368/tX], § 1005(c)(2), Nov. 11, 1998, [112 Stat. 3366][/us/stat/112/3366], provided that:
 
 > “SEC. 701. __ESTABLISHMENT OF COMMISSION.__ 
 
@@ -337,7 +337,7 @@
 
  __Original Members of Advisory Committee__ 
 
-[Pub. L. 104–262, title III, § 333(b)][/us/pl/104/262/s333/b], Oct. 9, 1996, [110 Stat. 3200][/us/stat/110/3200], provided that:
+[Pub. L. 104–262, title III][/us/pl/104/262/tIII], § 333(b), Oct. 9, 1996, [110 Stat. 3200][/us/stat/110/3200], provided that:
 
 >     “(1) Notwithstanding subsection (a)(2) of [section 545 of title 38][/us/usc/t38/s545], United States Code (as added by subsection (a)), the members of the Advisory Committee on the Readjustment of Vietnam and Other War Veterans on the date of the enactment of this Act \[Oct. 9, 1996\] shall be the original members of the advisory committee recognized under such section.
 
@@ -351,29 +351,29 @@
 ----------
 
 [/us/usc/t38/s529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs529
-[/us/pl/104/262/s333/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F262%2Fs333%2Fa%2F1
+[/us/pl/104/262/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F262%2FtIII
 [/us/stat/110/3199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3199
-[/us/pl/107/14/s8/a/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F14%2Fs8%2Fa%2F16
+[/us/pl/107/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F14
 [/us/stat/115/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F35
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770
 [/us/usc/t38/s545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs545
 [/us/pl/85/857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F857
 [/us/stat/72/1139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1139
-[/us/pl/86/211/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F211%2Fs4
+[/us/pl/86/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F211
 [/us/stat/73/434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F434
 [/us/usc/t38/s1543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1543
 [/us/pl/107/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F14
-[/us/pl/104/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275
+[/us/pl/104/275/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275%2FtVII
 [/us/stat/110/3346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3346
-[/us/pl/105/368/s1005/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2Fs1005%2Fc%2F2
+[/us/pl/105/368/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2FtX
 [/us/stat/112/3366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3366
 [/us/usc/t5/s5315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5315
 [/us/usc/t5/s3109/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3109%2Fb
 [/us/usc/t38/s101/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs101%2F10
 [/us/usc/t38/s101/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs101%2F2
 [/us/usc/t38/s5902/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs5902%2Fa
-[/us/pl/104/262/s333/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F262%2Fs333%2Fb
+[/us/pl/104/262/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F262%2FtIII
 [/us/stat/110/3200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3200
 [/us/usc/t38/s545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs545
 

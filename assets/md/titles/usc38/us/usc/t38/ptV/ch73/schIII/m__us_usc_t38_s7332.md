@@ -77,7 +77,7 @@
 
     (g) Any person who violates any provision of this section or any regulation issued pursuant to this section shall be fined, in the case of a first offense, up to the maximum amount provided under [section 5701(f) of this title][/us/usc/t38/s5701/f] for a first offense under that section and, in the case of a subsequent offense, up to the maximum amount provided under [section 5701(f) of this title][/us/usc/t38/s5701/f] for a subsequent offense under that section.
 
-(Added [Pub. L. 94–581, title I, § 111(a)(1)][/us/pl/94/581/s111/a/1], Oct. 21, 1976, [90 Stat. 2849][/us/stat/90/2849], § 4132; amended [Pub. L. 100–322, title I, § 121][/us/pl/100/322/s121], May 20, 1988, [102 Stat. 502][/us/stat/102/502]; renumbered § 7332 and amended [Pub. L. 102–40, title IV][/us/pl/102/40], §§ 401(a)(4)(A), 402(d)(1), 403(a)(1), (2), (4), (5), May 7, 1991, [105 Stat. 221][/us/stat/105/221], 239; [Pub. L. 109–461, title II, § 204(b)][/us/pl/109/461/s204/b], Dec. 22, 2006, [120 Stat. 3411][/us/stat/120/3411]; [Pub. L. 111–163, title V, § 504][/us/pl/111/163/s504], May 5, 2010, [124 Stat. 1157][/us/stat/124/1157]; [Pub. L. 112–74, div. H, title II, § 230(b)][/us/pl/112/74/s230/b], Dec. 23, 2011, [125 Stat. 1159][/us/stat/125/1159].)
+(Added [Pub. L. 94–581, title I][/us/pl/94/581/tI], § 111(a)(1), Oct. 21, 1976, [90 Stat. 2849][/us/stat/90/2849], § 4132; amended [Pub. L. 100–322, title I][/us/pl/100/322/tI], § 121, May 20, 1988, [102 Stat. 502][/us/stat/102/502]; renumbered § 7332 and amended [Pub. L. 102–40, title IV][/us/pl/102/40/tIV], §§ 401(a)(4)(A), 402(d)(1), 403(a)(1), (2), (4), (5), May 7, 1991, [105 Stat. 221][/us/stat/105/221], 239; [Pub. L. 109–461, title II][/us/pl/109/461/tII], § 204(b), Dec. 22, 2006, [120 Stat. 3411][/us/stat/120/3411]; [Pub. L. 111–163, title V][/us/pl/111/163/tV], § 504, May 5, 2010, [124 Stat. 1157][/us/stat/124/1157]; [Pub. L. 112–74, div. H, title II][/us/pl/112/74/dH/tII], § 230(b), Dec. 23, 2011, [125 Stat. 1159][/us/stat/125/1159].)
 
  __Amendments__ 
 
@@ -87,53 +87,53 @@
 
     2006—Subsec. (b)(2)(E). [Pub. L. 109–461][/us/pl/109/461] added subpar. (E).
 
-    1991—[Pub. L. 102–40, § 401(a)(4)(A)][/us/pl/102/40/s401/a/4/A], renumbered [section 4132 of this title][/us/usc/t38/s4132] as this section.
+    1991—[Pub. L. 102–40][/us/pl/102/40], § 401(a)(4)(A), renumbered [section 4132 of this title][/us/usc/t38/s4132] as this section.
 
-    Subsec. (a)(1). [Pub. L. 102–40, § 403(a)(4)][/us/pl/102/40/s403/a/4], struck out “of this section” after “subsections (e) and (f)” and after “subsection (b)”.
+    Subsec. (a)(1). [Pub. L. 102–40][/us/pl/102/40], § 403(a)(4), struck out “of this section” after “subsections (e) and (f)” and after “subsection (b)”.
 
-    [Pub. L. 102–40, § 403(a)(2)][/us/pl/102/40/s403/a/2], substituted “Department” for “Veterans’ Administration”.
+    [Pub. L. 102–40][/us/pl/102/40], § 403(a)(2), substituted “Department” for “Veterans’ Administration”.
 
-    [Pub. L. 102–40, § 402(d)(1)][/us/pl/102/40/s402/d/1], substituted “5701” for “3301”.
+    [Pub. L. 102–40][/us/pl/102/40], § 402(d)(1), substituted “5701” for “3301”.
 
-    Subsec. (a)(2). [Pub. L. 102–40, § 403(a)(4)][/us/pl/102/40/s403/a/4], struck out “of this subsection” after “Paragraph (1)”.
+    Subsec. (a)(2). [Pub. L. 102–40][/us/pl/102/40], § 403(a)(4), struck out “of this subsection” after “Paragraph (1)”.
 
-    Subsec. (b)(1). [Pub. L. 102–40, § 403(a)(4)][/us/pl/102/40/s403/a/4], struck out “of this section” after “subsection (a)”.
+    Subsec. (b)(1). [Pub. L. 102–40][/us/pl/102/40], § 403(a)(4), struck out “of this section” after “subsection (a)”.
 
-    [Pub. L. 102–40, § 403(a)(1)][/us/pl/102/40/s403/a/1], substituted “Secretary” for “Administrator” in two places.
+    [Pub. L. 102–40][/us/pl/102/40], § 403(a)(1), substituted “Secretary” for “Administrator” in two places.
 
-    Subsec. (b)(2). [Pub. L. 102–40, § 403(a)(4)][/us/pl/102/40/s403/a/4], struck out “of this section” after “subsection (a)” in introductory provisions.
+    Subsec. (b)(2). [Pub. L. 102–40][/us/pl/102/40], § 403(a)(4), struck out “of this section” after “subsection (a)” in introductory provisions.
 
-    [Pub. L. 102–40, § 403(a)(1)][/us/pl/102/40/s403/a/1], substituted “Secretary” for “Administrator” in introductory provisions.
+    [Pub. L. 102–40][/us/pl/102/40], § 403(a)(1), substituted “Secretary” for “Administrator” in introductory provisions.
 
-    Subsec. (b)(3). [Pub. L. 102–40, § 403(a)(4)][/us/pl/102/40/s403/a/4], struck out “of this section” after “subsection (a)”.
+    Subsec. (b)(3). [Pub. L. 102–40][/us/pl/102/40], § 403(a)(4), struck out “of this section” after “subsection (a)”.
 
-    [Pub. L. 102–40, § 403(a)(1)][/us/pl/102/40/s403/a/1], substituted “Secretary” for “Administrator” in two places.
+    [Pub. L. 102–40][/us/pl/102/40], § 403(a)(1), substituted “Secretary” for “Administrator” in two places.
 
-    [Pub. L. 102–40, § 402(d)(1)][/us/pl/102/40/s402/d/1], substituted “7334” for “4134”.
+    [Pub. L. 102–40][/us/pl/102/40], § 402(d)(1), substituted “7334” for “4134”.
 
-    Subsec. (c). [Pub. L. 102–40, § 403(a)(4)][/us/pl/102/40/s403/a/4], struck out “of this section” after “subsection (b)(2)(D)” and after “subsection (a)”.
+    Subsec. (c). [Pub. L. 102–40][/us/pl/102/40], § 403(a)(4), struck out “of this section” after “subsection (b)(2)(D)” and after “subsection (a)”.
 
-    Subsec. (e)(1). [Pub. L. 102–40, § 403(a)(2)][/us/pl/102/40/s403/a/2], substituted “Department” for “Veterans’ Administration”.
+    Subsec. (e)(1). [Pub. L. 102–40][/us/pl/102/40], § 403(a)(2), substituted “Department” for “Veterans’ Administration”.
 
-    Subsec. (f)(1). [Pub. L. 102–40, § 403(a)(4)][/us/pl/102/40/s403/a/4], struck out “of this section” after “subsection (a)” and “of this subsection” after “paragraph (2)”.
+    Subsec. (f)(1). [Pub. L. 102–40][/us/pl/102/40], § 403(a)(4), struck out “of this section” after “subsection (a)” and “of this subsection” after “paragraph (2)”.
 
-    Subsec. (f)(2)(A). [Pub. L. 102–40, § 403(a)(4)][/us/pl/102/40/s403/a/4], struck out “of this subsection” after “paragraph (1)”.
+    Subsec. (f)(2)(A). [Pub. L. 102–40][/us/pl/102/40], § 403(a)(4), struck out “of this subsection” after “paragraph (1)”.
 
-    Subsec. (f)(2)(B). [Pub. L. 102–40, § 403(a)(5)][/us/pl/102/40/s403/a/5], struck out “of this paragraph” after “subparagraph (A)”.
+    Subsec. (f)(2)(B). [Pub. L. 102–40][/us/pl/102/40], § 403(a)(5), struck out “of this paragraph” after “subparagraph (A)”.
 
-    Subsec. (g). [Pub. L. 102–40, § 402(d)(1)][/us/pl/102/40/s402/d/1], substituted “5701(f)” for “3301(f)” in two places.
+    Subsec. (g). [Pub. L. 102–40][/us/pl/102/40], § 402(d)(1), substituted “5701(f)” for “3301(f)” in two places.
 
-    1988—Subsec. (a). [Pub. L. 100–322, § 121(a)][/us/pl/100/322/s121/a], (e)(1), designated existing provisions as par. (1), inserted “infection with the human immunodeficiency virus,” after “alcohol abuse,”, substituted “subsections (e) and (f)” for “subsection (e)”, and added par. (2).
+    1988—Subsec. (a). [Pub. L. 100–322][/us/pl/100/322], § 121(a), (e)(1), designated existing provisions as par. (1), inserted “infection with the human immunodeficiency virus,” after “alcohol abuse,”, substituted “subsections (e) and (f)” for “subsection (e)”, and added par. (2).
 
-    Subsec. (b)(1). [Pub. L. 100–322, § 121(b)(1)][/us/pl/100/322/s121/b/1], struck out “pursuant to [section 4134 of this title][/us/usc/t38/s4134]” before period at end.
+    Subsec. (b)(1). [Pub. L. 100–322][/us/pl/100/322], § 121(b)(1), struck out “pursuant to [section 4134 of this title][/us/usc/t38/s4134]” before period at end.
 
-    Subsec. (b)(2)(C), (D). [Pub. L. 100–322, § 121(b)(2)][/us/pl/100/322/s121/b/2], added subpar. (C) and redesignated former subpar. (C) as (D).
+    Subsec. (b)(2)(C), (D). [Pub. L. 100–322][/us/pl/100/322], § 121(b)(2), added subpar. (C) and redesignated former subpar. (C) as (D).
 
-    Subsec. (c). [Pub. L. 100–322, § 121(e)(2)][/us/pl/100/322/s121/e/2], substituted “subsection (b)(2)(D)” for “subsection (b)(2)(C)”.
+    Subsec. (c). [Pub. L. 100–322][/us/pl/100/322], § 121(e)(2), substituted “subsection (b)(2)(D)” for “subsection (b)(2)(C)”.
 
-    Subsec. (f). [Pub. L. 100–322, § 121(c)(2)][/us/pl/100/322/s121/c/2], added subsec. (f). Former subsec. (f) redesignated (g).
+    Subsec. (f). [Pub. L. 100–322][/us/pl/100/322], § 121(c)(2), added subsec. (f). Former subsec. (f) redesignated (g).
 
-    Subsec. (g). [Pub. L. 100–322, § 121(c)(1)][/us/pl/100/322/s121/c/1], (d), redesignated subsec. (f) as (g) and substituted “shall be fined, in the case of a first offense, up to the maximum amount provided under [section 3301(f) of this title][/us/usc/t38/s3301/f] for a first offense under that section and, in the case of a subsequent offense, up to the maximum amount provided under [section 3301(f) of this title][/us/usc/t38/s3301/f] for a subsequent offense under that section.” for “shall be fined not more than $500 in the case of a first offense, and not more than $5,000 in the case of each subsequent offense”.
+    Subsec. (g). [Pub. L. 100–322][/us/pl/100/322], § 121(c)(1), (d), redesignated subsec. (f) as (g) and substituted “shall be fined, in the case of a first offense, up to the maximum amount provided under [section 3301(f) of this title][/us/usc/t38/s3301/f] for a first offense under that section and, in the case of a subsequent offense, up to the maximum amount provided under [section 3301(f) of this title][/us/usc/t38/s3301/f] for a subsequent offense under that section.” for “shall be fined not more than $500 in the case of a first offense, and not more than $5,000 in the case of each subsequent offense”.
 
 ----------
 
@@ -149,47 +149,47 @@
 [/us/usc/t38/s7334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7334
 [/us/usc/t38/s5701/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs5701%2Ff
 [/us/usc/t38/s5701/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs5701%2Ff
-[/us/pl/94/581/s111/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F581%2Fs111%2Fa%2F1
+[/us/pl/94/581/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F581%2FtI
 [/us/stat/90/2849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2849
-[/us/pl/100/322/s121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F322%2Fs121
+[/us/pl/100/322/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F322%2FtI
 [/us/stat/102/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F502
-[/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40
+[/us/pl/102/40/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2FtIV
 [/us/stat/105/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F221
-[/us/pl/109/461/s204/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461%2Fs204%2Fb
+[/us/pl/109/461/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461%2FtII
 [/us/stat/120/3411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3411
-[/us/pl/111/163/s504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163%2Fs504
+[/us/pl/111/163/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163%2FtV
 [/us/stat/124/1157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1157
-[/us/pl/112/74/s230/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs230%2Fb
+[/us/pl/112/74/dH/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2FdH%2FtII
 [/us/stat/125/1159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1159
 [/us/pl/112/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74
 [/us/pl/111/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163
 [/us/pl/109/461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461
-[/us/pl/102/40/s401/a/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs401%2Fa%2F4%2FA
+[/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40
 [/us/usc/t38/s4132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs4132
-[/us/pl/102/40/s403/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs403%2Fa%2F4
-[/us/pl/102/40/s403/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs403%2Fa%2F2
-[/us/pl/102/40/s402/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs402%2Fd%2F1
-[/us/pl/102/40/s403/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs403%2Fa%2F4
-[/us/pl/102/40/s403/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs403%2Fa%2F4
-[/us/pl/102/40/s403/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs403%2Fa%2F1
-[/us/pl/102/40/s403/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs403%2Fa%2F4
-[/us/pl/102/40/s403/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs403%2Fa%2F1
-[/us/pl/102/40/s403/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs403%2Fa%2F4
-[/us/pl/102/40/s403/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs403%2Fa%2F1
-[/us/pl/102/40/s402/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs402%2Fd%2F1
-[/us/pl/102/40/s403/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs403%2Fa%2F4
-[/us/pl/102/40/s403/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs403%2Fa%2F2
-[/us/pl/102/40/s403/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs403%2Fa%2F4
-[/us/pl/102/40/s403/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs403%2Fa%2F4
-[/us/pl/102/40/s403/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs403%2Fa%2F5
-[/us/pl/102/40/s402/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs402%2Fd%2F1
-[/us/pl/100/322/s121/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F322%2Fs121%2Fa
-[/us/pl/100/322/s121/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F322%2Fs121%2Fb%2F1
+[/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40
+[/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40
+[/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40
+[/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40
+[/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40
+[/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40
+[/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40
+[/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40
+[/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40
+[/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40
+[/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40
+[/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40
+[/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40
+[/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40
+[/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40
+[/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40
+[/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40
+[/us/pl/100/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F322
+[/us/pl/100/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F322
 [/us/usc/t38/s4134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs4134
-[/us/pl/100/322/s121/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F322%2Fs121%2Fb%2F2
-[/us/pl/100/322/s121/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F322%2Fs121%2Fe%2F2
-[/us/pl/100/322/s121/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F322%2Fs121%2Fc%2F2
-[/us/pl/100/322/s121/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F322%2Fs121%2Fc%2F1
+[/us/pl/100/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F322
+[/us/pl/100/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F322
+[/us/pl/100/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F322
+[/us/pl/100/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F322
 [/us/usc/t38/s3301/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3301%2Ff
 [/us/usc/t38/s3301/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3301%2Ff
 

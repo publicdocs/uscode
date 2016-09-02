@@ -89,11 +89,11 @@
 
             (D) Recommendations, if any, regarding an extension or modification of such outreach plan, such outreach program, and such demonstration program.
 
-(Added [Pub. L. 107–95, § 5(a)(1)][/us/pl/107/95/s5/a/1], Dec. 21, 2001, [115 Stat. 910][/us/stat/115/910]; amended [Pub. L. 110–387, title VI, § 602(d)(3)][/us/pl/110/387/s602/d/3], Oct. 10, 2008, [122 Stat. 4132][/us/stat/122/4132].)
+(Added [Pub. L. 107–95][/us/pl/107/95], § 5(a)(1), Dec. 21, 2001, [115 Stat. 910][/us/stat/115/910]; amended [Pub. L. 110–387, title VI][/us/pl/110/387/tVI], § 602(d)(3), Oct. 10, 2008, [122 Stat. 4132][/us/stat/122/4132].)
 
  __Prior Provisions__ 
 
-    A prior section 2022 was renumbered [section 4302 of this title][/us/usc/t38/s4302] and subsequently omitted in the general amendment of chapter 43 of this title by [Pub. L. 103–353, § 2(a)][/us/pl/103/353/s2/a], Oct. 13, 1994, [108 Stat. 3150][/us/stat/108/3150].
+    A prior section 2022 was renumbered [section 4302 of this title][/us/usc/t38/s4302] and subsequently omitted in the general amendment of chapter 43 of this title by [Pub. L. 103–353][/us/pl/103/353], § 2(a), Oct. 13, 1994, [108 Stat. 3150][/us/stat/108/3150].
 
  __Amendments__ 
 
@@ -108,12 +108,12 @@
 
 [/us/usc/t38/s2023]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs2023
 [/us/usc/t38/s2023]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs2023
-[/us/pl/107/95/s5/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F95%2Fs5%2Fa%2F1
+[/us/pl/107/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F95
 [/us/stat/115/910]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F910
-[/us/pl/110/387/s602/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F387%2Fs602%2Fd%2F3
+[/us/pl/110/387/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F387%2FtVI
 [/us/stat/122/4132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4132
 [/us/usc/t38/s4302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs4302
-[/us/pl/103/353/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F353%2Fs2%2Fa
+[/us/pl/103/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F353
 [/us/stat/108/3150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3150
 [/us/pl/110/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F387
 

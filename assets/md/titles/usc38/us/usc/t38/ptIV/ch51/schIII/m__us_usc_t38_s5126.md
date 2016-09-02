@@ -17,7 +17,7 @@
 
     Benefits under laws administered by the Secretary may not be denied a claimant on the basis that the claimant does not have a mailing address.
 
-(Added [Pub. L. 106–475, § 3(b)][/us/pl/106/475/s3/b], Nov. 9, 2000, [114 Stat. 2098][/us/stat/114/2098].)
+(Added [Pub. L. 106–475][/us/pl/106/475], § 3(b), Nov. 9, 2000, [114 Stat. 2098][/us/stat/114/2098].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/106/475/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F475%2Fs3%2Fb
+[/us/pl/106/475]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F475
 [/us/stat/114/2098]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2098
 
 

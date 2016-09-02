@@ -53,11 +53,11 @@
 
         (2) Funds appropriated to carry out this section shall remain available until expended. Funds obligated in any fiscal year to carry out this section may be expended in that fiscal year and the succeeding fiscal year.
 
-(Added [Pub. L. 107–95, § 5(a)(1)][/us/pl/107/95/s5/a/1], Dec. 21, 2001, [115 Stat. 909][/us/stat/115/909]; amended [Pub. L. 109–233, title II, § 203][/us/pl/109/233/s203], June 15, 2006, [120 Stat. 404][/us/stat/120/404]; [Pub. L. 111–275, title II, § 201][/us/pl/111/275/s201], Oct. 13, 2010, [124 Stat. 2873][/us/stat/124/2873]; [Pub. L. 112–37, § 10(b)][/us/pl/112/37/s10/b], Oct. 5, 2011, [125 Stat. 396][/us/stat/125/396]; [Pub. L. 112–154, title III, § 305(b)][/us/pl/112/154/s305/b], Aug. 6, 2012, [126 Stat. 1187][/us/stat/126/1187]; [Pub. L. 113–37, § 2(e)(1)][/us/pl/113/37/s2/e/1], Sept. 30, 2013, [127 Stat. 524][/us/stat/127/524]; [Pub. L. 113–175, title II, § 202][/us/pl/113/175/s202], Sept. 26, 2014, [128 Stat. 1904][/us/stat/128/1904]; [Pub. L. 114–58, title III, § 301][/us/pl/114/58/s301], Sept. 30, 2015, [129 Stat. 533][/us/stat/129/533].)
+(Added [Pub. L. 107–95][/us/pl/107/95], § 5(a)(1), Dec. 21, 2001, [115 Stat. 909][/us/stat/115/909]; amended [Pub. L. 109–233, title II][/us/pl/109/233/tII], § 203, June 15, 2006, [120 Stat. 404][/us/stat/120/404]; [Pub. L. 111–275, title II][/us/pl/111/275/tII], § 201, Oct. 13, 2010, [124 Stat. 2873][/us/stat/124/2873]; [Pub. L. 112–37][/us/pl/112/37], § 10(b), Oct. 5, 2011, [125 Stat. 396][/us/stat/125/396]; [Pub. L. 112–154, title III][/us/pl/112/154/tIII], § 305(b), Aug. 6, 2012, [126 Stat. 1187][/us/stat/126/1187]; [Pub. L. 113–37][/us/pl/113/37], § 2(e)(1), Sept. 30, 2013, [127 Stat. 524][/us/stat/127/524]; [Pub. L. 113–175, title II][/us/pl/113/175/tII], § 202, Sept. 26, 2014, [128 Stat. 1904][/us/stat/128/1904]; [Pub. L. 114–58, title III][/us/pl/114/58/tIII], § 301, Sept. 30, 2015, [129 Stat. 533][/us/stat/129/533].)
 
  __Prior Provisions__ 
 
-    A prior section 2021 was renumbered [section 4301 of this title][/us/usc/t38/s4301] and subsequently omitted in the general amendment of chapter 43 of this title by [Pub. L. 103–353, § 2(a)][/us/pl/103/353/s2/a], Oct. 13, 1994, [108 Stat. 3150][/us/stat/108/3150].
+    A prior section 2021 was renumbered [section 4301 of this title][/us/usc/t38/s4301] and subsequently omitted in the general amendment of chapter 43 of this title by [Pub. L. 103–353][/us/pl/103/353], § 2(a), Oct. 13, 1994, [108 Stat. 3150][/us/stat/108/3150].
 
  __Amendments__ 
 
@@ -86,24 +86,24 @@
 ----------
 ----------
 
-[/us/pl/107/95/s5/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F95%2Fs5%2Fa%2F1
+[/us/pl/107/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F95
 [/us/stat/115/909]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F909
-[/us/pl/109/233/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F233%2Fs203
+[/us/pl/109/233/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F233%2FtII
 [/us/stat/120/404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F404
-[/us/pl/111/275/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275%2Fs201
+[/us/pl/111/275/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275%2FtII
 [/us/stat/124/2873]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2873
-[/us/pl/112/37/s10/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F37%2Fs10%2Fb
+[/us/pl/112/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F37
 [/us/stat/125/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F396
-[/us/pl/112/154/s305/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154%2Fs305%2Fb
+[/us/pl/112/154/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154%2FtIII
 [/us/stat/126/1187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1187
-[/us/pl/113/37/s2/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F37%2Fs2%2Fe%2F1
+[/us/pl/113/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F37
 [/us/stat/127/524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F524
-[/us/pl/113/175/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F175%2Fs202
+[/us/pl/113/175/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F175%2FtII
 [/us/stat/128/1904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1904
-[/us/pl/114/58/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F58%2Fs301
+[/us/pl/114/58/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F58%2FtIII
 [/us/stat/129/533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F533
 [/us/usc/t38/s4301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs4301
-[/us/pl/103/353/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F353%2Fs2%2Fa
+[/us/pl/103/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F353
 [/us/stat/108/3150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3150
 [/us/pl/114/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F58
 [/us/pl/113/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F175

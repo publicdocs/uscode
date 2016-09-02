@@ -33,13 +33,13 @@
 
     (e) In the case of Department employees not described in subsection (c), the Secretary may not in any fiscal year implement a systematic reduction for the purpose of reducing the average salary cost for such Department employees that will result in a reduction in the number of such Department employees at any specific grade level at a rate greater than the rate of the reductions systematically being made in the numbers of employees at such grade level in all other agencies and departments of the Federal Government combined.
 
-(Added [Pub. L. 102–83, § 2(a)][/us/pl/102/83/s2/a], Aug. 6, 1991, [105 Stat. 396][/us/stat/105/396]; amended [Pub. L. 103–446, title XII, § 1201(e)(5)][/us/pl/103/446/s1201/e/5], Nov. 2, 1994, [108 Stat. 4685][/us/stat/108/4685]; [Pub. L. 104–316, title I, § 119][/us/pl/104/316/s119], Oct. 19, 1996, [110 Stat. 3836][/us/stat/110/3836].)
+(Added [Pub. L. 102–83][/us/pl/102/83], § 2(a), Aug. 6, 1991, [105 Stat. 396][/us/stat/105/396]; amended [Pub. L. 103–446, title XII][/us/pl/103/446/tXII], § 1201(e)(5), Nov. 2, 1994, [108 Stat. 4685][/us/stat/108/4685]; [Pub. L. 104–316, title I][/us/pl/104/316/tI], § 119, Oct. 19, 1996, [110 Stat. 3836][/us/stat/110/3836].)
 
  __Prior Provisions__ 
 
     Prior section 711 was renumbered [section 1911 of this title][/us/usc/t38/s1911].
 
-    Provisions similar to those in this section were contained in former [section 210(b)(3) of this title][/us/usc/t38/s210/b/3] prior to repeal by [Pub. L. 102–83, § 2(a)][/us/pl/102/83/s2/a].
+    Provisions similar to those in this section were contained in former [section 210(b)(3) of this title][/us/usc/t38/s210/b/3] prior to repeal by [Pub. L. 102–83][/us/pl/102/83], § 2(a).
 
  __Amendments__ 
 
@@ -55,15 +55,15 @@
 ----------
 
 [/us/usc/t5/s7103/a/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs7103%2Fa%2F15
-[/us/pl/102/83/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs2%2Fa
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F396
-[/us/pl/103/446/s1201/e/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2Fs1201%2Fe%2F5
+[/us/pl/103/446/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2FtXII
 [/us/stat/108/4685]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4685
-[/us/pl/104/316/s119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2Fs119
+[/us/pl/104/316/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2FtI
 [/us/stat/110/3836]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3836
 [/us/usc/t38/s1911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1911
 [/us/usc/t38/s210/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs210%2Fb%2F3
-[/us/pl/102/83/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs2%2Fa
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/pl/104/316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316
 [/us/pl/103/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446
 

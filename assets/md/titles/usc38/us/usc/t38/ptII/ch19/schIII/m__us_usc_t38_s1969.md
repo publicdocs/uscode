@@ -67,111 +67,111 @@
 
     (h) Any overpayment of a premium for insurance coverage for an insurable dependent of a member that is terminated under [section 1968(a)(5) of this title][/us/usc/t38/s1968/a/5] shall be refunded to the member.
 
-(Added [Pub. L. 89–214, § 1(a)][/us/pl/89/214/s1/a], Sept. 29, 1965, [79 Stat. 881][/us/stat/79/881], § 769; amended [Pub. L. 91–291, § 4][/us/pl/91/291/s4], June 25, 1970, [84 Stat. 329][/us/stat/84/329]; [Pub. L. 93–289][/us/pl/93/289], §§ 6, 10(2), May 24, 1974, [88 Stat. 168][/us/stat/88/168], 172; [Pub. L. 97–66, title IV, § 402][/us/pl/97/66/s402], Oct. 17, 1981, [95 Stat. 1031][/us/stat/95/1031]; [Pub. L. 99–576, title VII, § 701(39)][/us/pl/99/576/s701/39], Oct. 28, 1986, [100 Stat. 3293][/us/stat/100/3293]; [Pub. L. 100–322, title III, § 332(a)][/us/pl/100/322/s332/a], May 20, 1988, [102 Stat. 537][/us/stat/102/537]; renumbered § 1969 and amended [Pub. L. 102–83][/us/pl/102/83], §§ 4(a)(3), (4), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, [105 Stat. 404–406][/us/stat/105/404-406]; [Pub. L. 103–337, div. A, title VI, § 651(d)][/us/pl/103/337/s651/d], Oct. 5, 1994, [108 Stat. 2793][/us/stat/108/2793]; [Pub. L. 103–446, title XII, § 1201(e)(8)][/us/pl/103/446/s1201/e/8], (i)(3), Nov. 2, 1994, [108 Stat. 4685][/us/stat/108/4685], 4688; [Pub. L. 104–106, div. A, title VI, § 647(a)][/us/pl/104/106/s647/a], Feb. 10, 1996, [110 Stat. 370][/us/stat/110/370]; [Pub. L. 104–275, title IV][/us/pl/104/275], §§ 402(d), 405(b)(1)(C), Oct. 9, 1996, [110 Stat. 3337][/us/stat/110/3337], 3339; [Pub. L. 106–419, title III, § 313(b)][/us/pl/106/419/s313/b], Nov. 1, 2000, [114 Stat. 1855][/us/stat/114/1855]; [Pub. L. 107–14, § 4(d)][/us/pl/107/14/s4/d], June 5, 2001, [115 Stat. 29][/us/stat/115/29]; [Pub. L. 109–13, div. A, title I, § 1012(c)(2)][/us/pl/109/13/s1012/c/2], May 11, 2005, [119 Stat. 245][/us/stat/119/245]; [Pub. L. 109–80, § 2][/us/pl/109/80/s2], Sept. 30, 2005, [119 Stat. 2045][/us/stat/119/2045]; [Pub. L. 110–389, title IV, § 403(a)(2)(B)][/us/pl/110/389/s403/a/2/B], (c), Oct. 10, 2008, [122 Stat. 4174][/us/stat/122/4174].)
+(Added [Pub. L. 89–214][/us/pl/89/214], § 1(a), Sept. 29, 1965, [79 Stat. 881][/us/stat/79/881], § 769; amended [Pub. L. 91–291][/us/pl/91/291], § 4, June 25, 1970, [84 Stat. 329][/us/stat/84/329]; [Pub. L. 93–289][/us/pl/93/289], §§ 6, 10(2), May 24, 1974, [88 Stat. 168][/us/stat/88/168], 172; [Pub. L. 97–66, title IV][/us/pl/97/66/tIV], § 402, Oct. 17, 1981, [95 Stat. 1031][/us/stat/95/1031]; [Pub. L. 99–576, title VII][/us/pl/99/576/tVII], § 701(39), Oct. 28, 1986, [100 Stat. 3293][/us/stat/100/3293]; [Pub. L. 100–322, title III][/us/pl/100/322/tIII], § 332(a), May 20, 1988, [102 Stat. 537][/us/stat/102/537]; renumbered § 1969 and amended [Pub. L. 102–83][/us/pl/102/83], §§ 4(a)(3), (4), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, [105 Stat. 404–406][/us/stat/105/404-406]; [Pub. L. 103–337, div. A, title VI][/us/pl/103/337/dA/tVI], § 651(d), Oct. 5, 1994, [108 Stat. 2793][/us/stat/108/2793]; [Pub. L. 103–446, title XII][/us/pl/103/446/tXII], § 1201(e)(8), (i)(3), Nov. 2, 1994, [108 Stat. 4685][/us/stat/108/4685], 4688; [Pub. L. 104–106, div. A, title VI][/us/pl/104/106/dA/tVI], § 647(a), Feb. 10, 1996, [110 Stat. 370][/us/stat/110/370]; [Pub. L. 104–275, title IV][/us/pl/104/275/tIV], §§ 402(d), 405(b)(1)(C), Oct. 9, 1996, [110 Stat. 3337][/us/stat/110/3337], 3339; [Pub. L. 106–419, title III][/us/pl/106/419/tIII], § 313(b), Nov. 1, 2000, [114 Stat. 1855][/us/stat/114/1855]; [Pub. L. 107–14][/us/pl/107/14], § 4(d), June 5, 2001, [115 Stat. 29][/us/stat/115/29]; [Pub. L. 109–13, div. A, title I][/us/pl/109/13/dA/tI], § 1012(c)(2), May 11, 2005, [119 Stat. 245][/us/stat/119/245]; [Pub. L. 109–80][/us/pl/109/80], § 2, Sept. 30, 2005, [119 Stat. 2045][/us/stat/119/2045]; [Pub. L. 110–389, title IV][/us/pl/110/389/tIV], § 403(a)(2)(B), (c), Oct. 10, 2008, [122 Stat. 4174][/us/stat/122/4174].)
 
  __Amendments__ 
 
-    2008—Subsec. (g)(1)(B). [Pub. L. 110–389, § 403(c)][/us/pl/110/389/s403/c], struck out “(which shall be the same for all such members)” after “determined by the Secretary”.
+    2008—Subsec. (g)(1)(B). [Pub. L. 110–389][/us/pl/110/389], § 403(c), struck out “(which shall be the same for all such members)” after “determined by the Secretary”.
 
-    [Pub. L. 110–389, § 403(a)(2)(B)][/us/pl/110/389/s403/a/2/B], substituted “subparagraph (B) or (C) of [section 1965(5) of this title][/us/usc/t38/s1965/5]” for “[section 1965(5)(B) of this title][/us/usc/t38/s1965/5/B]”.
+    [Pub. L. 110–389][/us/pl/110/389], § 403(a)(2)(B), substituted “subparagraph (B) or (C) of [section 1965(5) of this title][/us/usc/t38/s1965/5]” for “[section 1965(5)(B) of this title][/us/usc/t38/s1965/5/B]”.
 
-    2005—Subsec. (b). [Pub. L. 109–13, § 1012(c)(2)][/us/pl/109/13/s1012/c/2], which directed designation of existing provisions as par. (1) and addition of par. (2), was repealed by [Pub. L. 109–80][/us/pl/109/80]. See Effective and Termination Dates of 2005 Amendments note below. Par. (2) read as follows: “For each month for which a member insured under this subchapter is serving in an operation or area designated as described by paragraph (1)(A) of [section 1967(e) of this title][/us/usc/t38/s1967/e], there may, at the election of the Secretary concerned under paragraph (4)(A) of such section, be contributed from the appropriation made for active duty pay of the uniformed service concerned an amount determined by the Secretary and certified to the Secretary concerned to be the cost of Servicemembers’ Group Life Insurance which is traceable to the cost of providing insurance for the member under [section 1967 of this title][/us/usc/t38/s1967] in the amount of $150,000.”
+    2005—Subsec. (b). [Pub. L. 109–13][/us/pl/109/13], § 1012(c)(2), which directed designation of existing provisions as par. (1) and addition of par. (2), was repealed by [Pub. L. 109–80][/us/pl/109/80]. See Effective and Termination Dates of 2005 Amendments note below. Par. (2) read as follows: “For each month for which a member insured under this subchapter is serving in an operation or area designated as described by paragraph (1)(A) of [section 1967(e) of this title][/us/usc/t38/s1967/e], there may, at the election of the Secretary concerned under paragraph (4)(A) of such section, be contributed from the appropriation made for active duty pay of the uniformed service concerned an amount determined by the Secretary and certified to the Secretary concerned to be the cost of Servicemembers’ Group Life Insurance which is traceable to the cost of providing insurance for the member under [section 1967 of this title][/us/usc/t38/s1967] in the amount of $150,000.”
 
     2001—Subsecs. (g), (h). [Pub. L. 107–14][/us/pl/107/14] added subsecs. (g) and (h).
 
     2000—Subsec. (a)(2)(A). [Pub. L. 106–419][/us/pl/106/419] substituted “subparagraph (B) or (C) of [section 1965(5) of this title][/us/usc/t38/s1965/5]” for “[section 1965(5)(B) of this title][/us/usc/t38/s1965/5/B]”.
 
-    1996—Subsec. (a)(1). [Pub. L. 104–275, § 405(b)(1)(C)][/us/pl/104/275/s405/b/1/C], substituted “Servicemembers’ Group” for “Servicemen’s Group”.
+    1996—Subsec. (a)(1). [Pub. L. 104–275][/us/pl/104/275], § 405(b)(1)(C), substituted “Servicemembers’ Group” for “Servicemen’s Group”.
 
     Subsec. (a)(2). [Pub. L. 104–106][/us/pl/104/106] designated existing provisions as subpar. (A) and added subpar. (B).
 
-    Subsec. (a)(2)(A). [Pub. L. 104–275, § 402(d)(1)][/us/pl/104/275/s402/d/1], struck out “is assigned to the Reserve (other than the Retired Reserve) and meets the qualifications of [section 1965(5)(C) of this title][/us/usc/t38/s1965/5/C], or is assigned to the Retired Reserve and meets the qualifications of [section 1965(5)(D) of this title][/us/usc/t38/s1965/5/D],” after “qualifications of [section 1965(5)(B) of this title][/us/usc/t38/s1965/5/B],”.
+    Subsec. (a)(2)(A). [Pub. L. 104–275][/us/pl/104/275], § 402(d)(1), struck out “is assigned to the Reserve (other than the Retired Reserve) and meets the qualifications of [section 1965(5)(C) of this title][/us/usc/t38/s1965/5/C], or is assigned to the Retired Reserve and meets the qualifications of [section 1965(5)(D) of this title][/us/usc/t38/s1965/5/D],” after “qualifications of [section 1965(5)(B) of this title][/us/usc/t38/s1965/5/B],”.
 
-    Subsec. (a)(3), (4). [Pub. L. 104–275, § 405(b)(1)(C)][/us/pl/104/275/s405/b/1/C], substituted “Servicemembers’ Group” for “Servicemen’s Group” wherever appearing.
+    Subsec. (a)(3), (4). [Pub. L. 104–275][/us/pl/104/275], § 405(b)(1)(C), substituted “Servicemembers’ Group” for “Servicemen’s Group” wherever appearing.
 
-    Subsecs. (b) to (d)(1). [Pub. L. 104–275, § 405(b)(1)(C)][/us/pl/104/275/s405/b/1/C], substituted “Servicemembers’ Group” for “Servicemen’s Group” wherever appearing.
+    Subsecs. (b) to (d)(1). [Pub. L. 104–275][/us/pl/104/275], § 405(b)(1)(C), substituted “Servicemembers’ Group” for “Servicemen’s Group” wherever appearing.
 
-    Subsecs. (e) to (g). [Pub. L. 104–275, § 402(d)(2)][/us/pl/104/275/s402/d/2], (3), redesignated subsecs. (f) and (g) as (e) and (f), respectively, and struck out former subsec. (e) which related to premiums for Servicemen’s Group Life Insurance for members assigned to the Retired Reserve of a uniformed service.
+    Subsecs. (e) to (g). [Pub. L. 104–275][/us/pl/104/275], § 402(d)(2), (3), redesignated subsecs. (f) and (g) as (e) and (f), respectively, and struck out former subsec. (e) which related to premiums for Servicemen’s Group Life Insurance for members assigned to the Retired Reserve of a uniformed service.
 
-    1994—Subsec. (a)(2). [Pub. L. 103–337, § 651(d)(1)][/us/pl/103/337/s651/d/1], substituted “is assigned to the Reserve” for “or is assigned to the Reserve” and inserted “or is assigned to the Retired Reserve and meets the qualifications of [section 1965(5)(D) of this title][/us/usc/t38/s1965/5/D],” after “[section 1965(5)(C) of this title][/us/usc/t38/s1965/5/C],”.
+    1994—Subsec. (a)(2). [Pub. L. 103–337][/us/pl/103/337], § 651(d)(1), substituted “is assigned to the Reserve” for “or is assigned to the Reserve” and inserted “or is assigned to the Retired Reserve and meets the qualifications of [section 1965(5)(D) of this title][/us/usc/t38/s1965/5/D],” after “[section 1965(5)(C) of this title][/us/usc/t38/s1965/5/C],”.
 
-    Subsec. (d)(3). [Pub. L. 103–446, § 1201(i)(3)][/us/pl/103/446/s1201/i/3], substituted “Department of Veterans Affairs” for “Department”.
+    Subsec. (d)(3). [Pub. L. 103–446][/us/pl/103/446], § 1201(i)(3), substituted “Department of Veterans Affairs” for “Department”.
 
-    Subsec. (e). [Pub. L. 103–446, § 1201(e)(8)][/us/pl/103/446/s1201/e/8], substituted “subsections (a) and (c) of section 1971” for “sections 1971(a) and (c)” and “subsections (d) and (e) of section 1971” for “sections 1971(d) and (e)”.
+    Subsec. (e). [Pub. L. 103–446][/us/pl/103/446], § 1201(e)(8), substituted “subsections (a) and (c) of section 1971” for “sections 1971(a) and (c)” and “subsections (d) and (e) of section 1971” for “sections 1971(d) and (e)”.
 
-    [Pub. L. 103–337, § 651(d)(2)][/us/pl/103/337/s651/d/2], substituted “subparagraph (C) or (D) of section 1965(5)” for “section 1965(5)(C)”.
+    [Pub. L. 103–337][/us/pl/103/337], § 651(d)(2), substituted “subparagraph (C) or (D) of section 1965(5)” for “section 1965(5)(C)”.
 
-    1991—[Pub. L. 102–83, § 5(a)][/us/pl/102/83/s5/a], renumbered [section 769 of this title][/us/usc/t38/s769] as this section.
+    1991—[Pub. L. 102–83][/us/pl/102/83], § 5(a), renumbered [section 769 of this title][/us/usc/t38/s769] as this section.
 
-    Subsec. (a). [Pub. L. 102–83, § 5(c)(1)][/us/pl/102/83/s5/c/1], substituted “1965(5)(B)” for “765(5)(B)”, “1965(5)(C)” for “765(5)(C)”, and “1966” for “766” in par. (2).
+    Subsec. (a). [Pub. L. 102–83][/us/pl/102/83], § 5(c)(1), substituted “1965(5)(B)” for “765(5)(B)”, “1965(5)(C)” for “765(5)(C)”, and “1966” for “766” in par. (2).
 
-    [Pub. L. 102–83, § 4(b)(1)][/us/pl/102/83/s4/b/1], (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
+    [Pub. L. 102–83][/us/pl/102/83], § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
 
-    Subsec. (b). [Pub. L. 102–83, § 4(b)(1)][/us/pl/102/83/s4/b/1], (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
+    Subsec. (b). [Pub. L. 102–83][/us/pl/102/83], § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
 
-    Subsec. (d)(1). [Pub. L. 102–83, § 4(a)(3)][/us/pl/102/83/s4/a/3], (4), substituted “Department” for “Veterans’ Administration”.
+    Subsec. (d)(1). [Pub. L. 102–83][/us/pl/102/83], § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration”.
 
-    Subsec. (d)(2). [Pub. L. 102–83, § 5(c)(1)][/us/pl/102/83/s5/c/1], substituted “1966” for “766”.
+    Subsec. (d)(2). [Pub. L. 102–83][/us/pl/102/83], § 5(c)(1), substituted “1966” for “766”.
 
-    [Pub. L. 102–83, § 4(b)(1)][/us/pl/102/83/s4/b/1], (2)(E), substituted “Secretary” for “Administrator”.
+    [Pub. L. 102–83][/us/pl/102/83], § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
-    [Pub. L. 102–83, § 4(a)(3)][/us/pl/102/83/s4/a/3], (4), substituted “Department” for “Veterans’ Administration”.
+    [Pub. L. 102–83][/us/pl/102/83], § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration”.
 
-    Subsec. (d)(3). [Pub. L. 102–83, § 5(c)(1)][/us/pl/102/83/s5/c/1], substituted “1982” for “782”.
+    Subsec. (d)(3). [Pub. L. 102–83][/us/pl/102/83], § 5(c)(1), substituted “1982” for “782”.
 
-    [Pub. L. 102–83, § 4(b)(1)][/us/pl/102/83/s4/b/1], (2)(E), substituted “Secretary” for “Administrator” and “Secretary’s” for “Administrator’s”.
+    [Pub. L. 102–83][/us/pl/102/83], § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” and “Secretary’s” for “Administrator’s”.
 
-    [Pub. L. 102–83, § 4(a)(3)][/us/pl/102/83/s4/a/3], (4), substituted “Department” for “Veterans’ Administration” in two places.
+    [Pub. L. 102–83][/us/pl/102/83], § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration” in two places.
 
-    Subsec. (e). [Pub. L. 102–83, § 5(c)(1)][/us/pl/102/83/s5/c/1], substituted “1965(5)(C)” for “765(5)(C)”, “1971(a)” for “771(a)”, “1966(b)” for “766(b)”, and “1971(d)” for “771(d)”.
+    Subsec. (e). [Pub. L. 102–83][/us/pl/102/83], § 5(c)(1), substituted “1965(5)(C)” for “765(5)(C)”, “1971(a)” for “771(a)”, “1966(b)” for “766(b)”, and “1971(d)” for “771(d)”.
 
-    [Pub. L. 102–83, § 4(b)(1)][/us/pl/102/83/s4/b/1], (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
+    [Pub. L. 102–83][/us/pl/102/83], § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
 
-    Subsec. (f). [Pub. L. 102–83, § 4(b)(1)][/us/pl/102/83/s4/b/1], (2)(E), substituted “Secretary” for “Administrator”.
+    Subsec. (f). [Pub. L. 102–83][/us/pl/102/83], § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
     1988—Subsec. (g). [Pub. L. 100–322][/us/pl/100/322] added subsec. (g).
 
-    1986—Subsec. (a)(1). [Pub. L. 99–576, § 701(39)(A)][/us/pl/99/576/s701/39/A], substituted “the member’s” for “his”.
+    1986—Subsec. (a)(1). [Pub. L. 99–576][/us/pl/99/576], § 701(39)(A), substituted “the member’s” for “his”.
 
-    Subsec. (a)(3). [Pub. L. 99–576, § 701(39)(B)][/us/pl/99/576/s701/39/B], substituted “the member” for “him”.
+    Subsec. (a)(3). [Pub. L. 99–576][/us/pl/99/576], § 701(39)(B), substituted “the member” for “him”.
 
-    Subsec. (a)(4). [Pub. L. 99–576, § 701(39)(C)][/us/pl/99/576/s701/39/C], substituted “the member” for “him” in two places and “the member’s” for “his”.
+    Subsec. (a)(4). [Pub. L. 99–576][/us/pl/99/576], § 701(39)(C), substituted “the member” for “him” in two places and “the member’s” for “his”.
 
-    Subsec. (b). [Pub. L. 99–576, § 701(39)(D)][/us/pl/99/576/s701/39/D], substituted “the Administrator” for “he” before “shall determine”.
+    Subsec. (b). [Pub. L. 99–576][/us/pl/99/576], § 701(39)(D), substituted “the Administrator” for “he” before “shall determine”.
 
-    Subsec. (d)(3). [Pub. L. 99–576, § 701(39)(E)][/us/pl/99/576/s701/39/E], substituted “the Administrator’s” for “his”.
+    Subsec. (d)(3). [Pub. L. 99–576][/us/pl/99/576], § 701(39)(E), substituted “the Administrator’s” for “his”.
 
-    Subsec. (e). [Pub. L. 99–576, § 701(39)(F)][/us/pl/99/576/s701/39/F], substituted “the Administrator” for “he” before “may determine”.
+    Subsec. (e). [Pub. L. 99–576][/us/pl/99/576], § 701(39)(F), substituted “the Administrator” for “he” before “may determine”.
 
     1981—Subsec. (f). [Pub. L. 97–66][/us/pl/97/66] added subsec. (f).
 
-    1974—Subsec. (a)(1). [Pub. L. 93–289, § 6(1)][/us/pl/93/289/s6/1], substituted “is insured under Servicemen’s Group Life Insurance” for “is insured under a policy of insurance purchased by the Administrator, under [section 766 of this title][/us/usc/t38/s766]”.
+    1974—Subsec. (a)(1). [Pub. L. 93–289][/us/pl/93/289], § 6(1), substituted “is insured under Servicemen’s Group Life Insurance” for “is insured under a policy of insurance purchased by the Administrator, under [section 766 of this title][/us/usc/t38/s766]”.
 
-    Subsec. (a)(2). [Pub. L. 93–289, § 6(2)][/us/pl/93/289/s6/2], added par. (2). Former par. (2) redesignated (3).
+    Subsec. (a)(2). [Pub. L. 93–289][/us/pl/93/289], § 6(2), added par. (2). Former par. (2) redesignated (3).
 
-    Subsec. (a)(3). [Pub. L. 93–289, § 6(1)][/us/pl/93/289/s6/1], (2), redesignated former par. (2) as (3), and substituted “is insured under Servicemen’s Group Life Insurance” for “is insured under a policy of insurance purchased by the Administrator, under [section 766 of this title][/us/usc/t38/s766].” Former par. (3) redesignated (4).
+    Subsec. (a)(3). [Pub. L. 93–289][/us/pl/93/289], § 6(1), (2), redesignated former par. (2) as (3), and substituted “is insured under Servicemen’s Group Life Insurance” for “is insured under a policy of insurance purchased by the Administrator, under [section 766 of this title][/us/usc/t38/s766].” Former par. (3) redesignated (4).
 
-    Subsec. (a)(4). [Pub. L. 93–289, § 6(2)][/us/pl/93/289/s6/2], (3), redesignated former par. (3) as (4), and substituted “paragraph (1) or (2) hereof, or fiscal year amount under paragraph (3) hereof”, for “subsection (1) hereof, or fiscal year amount under subsection (2) hereof”, and “Servicemen’s Group Life Insurance” for “this subchapter” in two places, and for “insurance under this subchapter”.
+    Subsec. (a)(4). [Pub. L. 93–289][/us/pl/93/289], § 6(2), (3), redesignated former par. (3) as (4), and substituted “paragraph (1) or (2) hereof, or fiscal year amount under paragraph (3) hereof”, for “subsection (1) hereof, or fiscal year amount under subsection (2) hereof”, and “Servicemen’s Group Life Insurance” for “this subchapter” in two places, and for “insurance under this subchapter”.
 
-    Subsec. (b). [Pub. L. 93–289, § 6(4)][/us/pl/93/289/s6/4], substituted “Servicemen’s Group Life Insurance” for “such insurance” in first sentence, and “Servicemen’s Group Life Insurance” for “this subchapter” in second sentence.
+    Subsec. (b). [Pub. L. 93–289][/us/pl/93/289], § 6(4), substituted “Servicemen’s Group Life Insurance” for “such insurance” in first sentence, and “Servicemen’s Group Life Insurance” for “this subchapter” in second sentence.
 
-    Subsec. (c). [Pub. L. 93–289, § 6(5)][/us/pl/93/289/s6/5], substituted “Servicemen’s Group Life Insurance” for “any such insurance”.
+    Subsec. (c). [Pub. L. 93–289][/us/pl/93/289], § 6(5), substituted “Servicemen’s Group Life Insurance” for “any such insurance”.
 
-    Subsec. (d)(1). [Pub. L. 93–289, § 6(6)][/us/pl/93/289/s6/6], substituted “Servicemen’s Group Life Insurance” for “any insurance policy or policies purchased under [section 766 of this title][/us/usc/t38/s766]”.
+    Subsec. (d)(1). [Pub. L. 93–289][/us/pl/93/289], § 6(6), substituted “Servicemen’s Group Life Insurance” for “any insurance policy or policies purchased under [section 766 of this title][/us/usc/t38/s766]”.
 
-    Subsec. (d)(3). [Pub. L. 93–289, § 10(2)][/us/pl/93/289/s10/2], capitalized “Operating Expenses”.
+    Subsec. (d)(3). [Pub. L. 93–289][/us/pl/93/289], § 10(2), capitalized “Operating Expenses”.
 
-    Subsec. (e). [Pub. L. 93–289, § 6(7)][/us/pl/93/289/s6/7], added subsec. (e).
+    Subsec. (e). [Pub. L. 93–289][/us/pl/93/289], § 6(7), added subsec. (e).
 
-    1970—Subsec. (a). [Pub. L. 91–291, § 4(1)][/us/pl/91/291/s4/1], separated provisions covering deduction of the cost of insurance from the pay of members into provisions covering such deduction in the case of persons on active duty or active duty for training under a call or order to such duty that does not specify a period of not less than thirty-one days and provisions covering such deduction in the case of persons on active duty or active duty for training under a call or order to such duty specifying a period of less than thirty-one days or persons authorized or required to perform inactive duty training scheduled in advance by competent authority and inserted provision for the collection of sums from individuals by the Secretary concerned.
+    1970—Subsec. (a). [Pub. L. 91–291][/us/pl/91/291], § 4(1), separated provisions covering deduction of the cost of insurance from the pay of members into provisions covering such deduction in the case of persons on active duty or active duty for training under a call or order to such duty that does not specify a period of not less than thirty-one days and provisions covering such deduction in the case of persons on active duty or active duty for training under a call or order to such duty specifying a period of less than thirty-one days or persons authorized or required to perform inactive duty training scheduled in advance by competent authority and inserted provision for the collection of sums from individuals by the Secretary concerned.
 
-    Subsec. (b). [Pub. L. 91–291, § 4(1)][/us/pl/91/291/s4/1], substituted the mortality which members and former members of the uniform services concerned would have been under peacetime conditions as determined by the Administrator for the mortality of the male civilian population of the United States of the same age as the median age of members of the uniformed services as shown by the records of the uniformed services, the primary insurer or insurers, and the Department of Health, Education, and Welfare as the standard against which the excess mortality suffered by members of the uniformed services would be measured to determine the extent to which the cost of insurance was traceable to the extra hazard of active duty in the uniformed services.
+    Subsec. (b). [Pub. L. 91–291][/us/pl/91/291], § 4(1), substituted the mortality which members and former members of the uniform services concerned would have been under peacetime conditions as determined by the Administrator for the mortality of the male civilian population of the United States of the same age as the median age of members of the uniformed services as shown by the records of the uniformed services, the primary insurer or insurers, and the Department of Health, Education, and Welfare as the standard against which the excess mortality suffered by members of the uniformed services would be measured to determine the extent to which the cost of insurance was traceable to the extra hazard of active duty in the uniformed services.
 
-    Subsec. (d)(1). [Pub. L. 91–291, § 4(2)][/us/pl/91/291/s4/2], inserted reference to collection of sums by Secretary concerned.
+    Subsec. (d)(1). [Pub. L. 91–291][/us/pl/91/291], § 4(2), inserted reference to collection of sums by Secretary concerned.
 
  __Effective Date of 2008 Amendment__ 
 
-[Pub. L. 110–389, title IV, § 403(e)(3)][/us/pl/110/389/s403/e/3], Oct. 10, 2008, [122 Stat. 4175][/us/stat/122/4175], provided that: 
+[Pub. L. 110–389, title IV][/us/pl/110/389/tIV], § 403(e)(3), Oct. 10, 2008, [122 Stat. 4175][/us/stat/122/4175], provided that: 
 
 > “The amendment made by subsection (c) \[amending this section\] shall take effect as if enacted on June 5, 2001, immediately after the enactment of the Veterans’ Survivor Benefits Improvements Act of 2001 ([Public Law 107–14][/us/pl/107/14]; [115 Stat. 25][/us/stat/115/25]).”
 
@@ -191,7 +191,7 @@
 
  __Effective Date of 1988 Amendment__ 
 
-[Pub. L. 100–322, title III, § 332(b)][/us/pl/100/322/s332/b], May 20, 1988, [102 Stat. 537][/us/stat/102/537], provided that: 
+[Pub. L. 100–322, title III][/us/pl/100/322/tIII], § 332(b), May 20, 1988, [102 Stat. 537][/us/stat/102/537], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall take effect with respect to premiums paid for periods beginning after June 30, 1988.”
 
@@ -217,43 +217,43 @@
 [/us/usc/t38/s1965/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1965%2F5
 [/us/usc/t38/s1966]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1966
 [/us/usc/t38/s1968/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1968%2Fa%2F5
-[/us/pl/89/214/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F214%2Fs1%2Fa
+[/us/pl/89/214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F214
 [/us/stat/79/881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F881
-[/us/pl/91/291/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F291%2Fs4
+[/us/pl/91/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F291
 [/us/stat/84/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F329
 [/us/pl/93/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F289
 [/us/stat/88/168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F168
-[/us/pl/97/66/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F66%2Fs402
+[/us/pl/97/66/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F66%2FtIV
 [/us/stat/95/1031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1031
-[/us/pl/99/576/s701/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2Fs701%2F39
+[/us/pl/99/576/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2FtVII
 [/us/stat/100/3293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3293
-[/us/pl/100/322/s332/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F322%2Fs332%2Fa
+[/us/pl/100/322/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F322%2FtIII
 [/us/stat/102/537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F537
 [/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/404-406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F404-406
-[/us/pl/103/337/s651/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs651%2Fd
+[/us/pl/103/337/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtVI
 [/us/stat/108/2793]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2793
-[/us/pl/103/446/s1201/e/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2Fs1201%2Fe%2F8
+[/us/pl/103/446/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2FtXII
 [/us/stat/108/4685]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4685
-[/us/pl/104/106/s647/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs647%2Fa
+[/us/pl/104/106/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtVI
 [/us/stat/110/370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F370
-[/us/pl/104/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275
+[/us/pl/104/275/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275%2FtIV
 [/us/stat/110/3337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3337
-[/us/pl/106/419/s313/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419%2Fs313%2Fb
+[/us/pl/106/419/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419%2FtIII
 [/us/stat/114/1855]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1855
-[/us/pl/107/14/s4/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F14%2Fs4%2Fd
+[/us/pl/107/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F14
 [/us/stat/115/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F29
-[/us/pl/109/13/s1012/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F13%2Fs1012%2Fc%2F2
+[/us/pl/109/13/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F13%2FdA%2FtI
 [/us/stat/119/245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F245
-[/us/pl/109/80/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F80%2Fs2
+[/us/pl/109/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F80
 [/us/stat/119/2045]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2045
-[/us/pl/110/389/s403/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F389%2Fs403%2Fa%2F2%2FB
+[/us/pl/110/389/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F389%2FtIV
 [/us/stat/122/4174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4174
-[/us/pl/110/389/s403/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F389%2Fs403%2Fc
-[/us/pl/110/389/s403/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F389%2Fs403%2Fa%2F2%2FB
+[/us/pl/110/389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F389
+[/us/pl/110/389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F389
 [/us/usc/t38/s1965/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1965%2F5
 [/us/usc/t38/s1965/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1965%2F5%2FB
-[/us/pl/109/13/s1012/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F13%2Fs1012%2Fc%2F2
+[/us/pl/109/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F13
 [/us/pl/109/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F80
 [/us/usc/t38/s1967/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1967%2Fe
 [/us/usc/t38/s1967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1967
@@ -261,60 +261,60 @@
 [/us/pl/106/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419
 [/us/usc/t38/s1965/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1965%2F5
 [/us/usc/t38/s1965/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1965%2F5%2FB
-[/us/pl/104/275/s405/b/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275%2Fs405%2Fb%2F1%2FC
+[/us/pl/104/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275
 [/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
-[/us/pl/104/275/s402/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275%2Fs402%2Fd%2F1
+[/us/pl/104/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275
 [/us/usc/t38/s1965/5/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1965%2F5%2FC
 [/us/usc/t38/s1965/5/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1965%2F5%2FD
 [/us/usc/t38/s1965/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1965%2F5%2FB
-[/us/pl/104/275/s405/b/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275%2Fs405%2Fb%2F1%2FC
-[/us/pl/104/275/s405/b/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275%2Fs405%2Fb%2F1%2FC
-[/us/pl/104/275/s402/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275%2Fs402%2Fd%2F2
-[/us/pl/103/337/s651/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs651%2Fd%2F1
+[/us/pl/104/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275
+[/us/pl/104/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275
+[/us/pl/104/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/usc/t38/s1965/5/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1965%2F5%2FD
 [/us/usc/t38/s1965/5/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1965%2F5%2FC
-[/us/pl/103/446/s1201/i/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2Fs1201%2Fi%2F3
-[/us/pl/103/446/s1201/e/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2Fs1201%2Fe%2F8
-[/us/pl/103/337/s651/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs651%2Fd%2F2
-[/us/pl/102/83/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fa
+[/us/pl/103/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446
+[/us/pl/103/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/usc/t38/s769]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs769
-[/us/pl/102/83/s5/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fc%2F1
-[/us/pl/102/83/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fb%2F1
-[/us/pl/102/83/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fb%2F1
-[/us/pl/102/83/s4/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fa%2F3
-[/us/pl/102/83/s5/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fc%2F1
-[/us/pl/102/83/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fb%2F1
-[/us/pl/102/83/s4/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fa%2F3
-[/us/pl/102/83/s5/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fc%2F1
-[/us/pl/102/83/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fb%2F1
-[/us/pl/102/83/s4/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fa%2F3
-[/us/pl/102/83/s5/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fc%2F1
-[/us/pl/102/83/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fb%2F1
-[/us/pl/102/83/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fb%2F1
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/pl/100/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F322
-[/us/pl/99/576/s701/39/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2Fs701%2F39%2FA
-[/us/pl/99/576/s701/39/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2Fs701%2F39%2FB
-[/us/pl/99/576/s701/39/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2Fs701%2F39%2FC
-[/us/pl/99/576/s701/39/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2Fs701%2F39%2FD
-[/us/pl/99/576/s701/39/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2Fs701%2F39%2FE
-[/us/pl/99/576/s701/39/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2Fs701%2F39%2FF
+[/us/pl/99/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576
+[/us/pl/99/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576
+[/us/pl/99/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576
+[/us/pl/99/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576
+[/us/pl/99/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576
+[/us/pl/99/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576
 [/us/pl/97/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F66
-[/us/pl/93/289/s6/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F289%2Fs6%2F1
+[/us/pl/93/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F289
 [/us/usc/t38/s766]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs766
-[/us/pl/93/289/s6/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F289%2Fs6%2F2
-[/us/pl/93/289/s6/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F289%2Fs6%2F1
+[/us/pl/93/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F289
+[/us/pl/93/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F289
 [/us/usc/t38/s766]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs766
-[/us/pl/93/289/s6/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F289%2Fs6%2F2
-[/us/pl/93/289/s6/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F289%2Fs6%2F4
-[/us/pl/93/289/s6/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F289%2Fs6%2F5
-[/us/pl/93/289/s6/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F289%2Fs6%2F6
+[/us/pl/93/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F289
+[/us/pl/93/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F289
+[/us/pl/93/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F289
+[/us/pl/93/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F289
 [/us/usc/t38/s766]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs766
-[/us/pl/93/289/s10/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F289%2Fs10%2F2
-[/us/pl/93/289/s6/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F289%2Fs6%2F7
-[/us/pl/91/291/s4/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F291%2Fs4%2F1
-[/us/pl/91/291/s4/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F291%2Fs4%2F1
-[/us/pl/91/291/s4/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F291%2Fs4%2F2
-[/us/pl/110/389/s403/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F389%2Fs403%2Fe%2F3
+[/us/pl/93/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F289
+[/us/pl/93/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F289
+[/us/pl/91/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F291
+[/us/pl/91/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F291
+[/us/pl/91/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F291
+[/us/pl/110/389/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F389%2FtIV
 [/us/stat/122/4175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4175
 [/us/pl/107/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F14
 [/us/stat/115/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F25
@@ -332,7 +332,7 @@
 [/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
 [/us/pl/104/106/s647/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs647%2Fc
 [/us/usc/t38/s1968]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1968
-[/us/pl/100/322/s332/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F322%2Fs332%2Fb
+[/us/pl/100/322/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F322%2FtIII
 [/us/stat/102/537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F537
 [/us/pl/97/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F66
 [/us/pl/97/66/s701/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F66%2Fs701%2Fb%2F1

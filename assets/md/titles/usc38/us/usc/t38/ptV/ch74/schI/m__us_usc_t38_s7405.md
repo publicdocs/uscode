@@ -115,7 +115,7 @@
 
             (C) nurses who are not citizens of the United States and appointed under [section 7407(a) of this title][/us/usc/t38/s7407/a].
 
-(Added [Pub. L. 102–40, title IV, § 401(b)(2)][/us/pl/102/40/s401/b/2], May 7, 1991, [105 Stat. 226][/us/stat/105/226]; amended [Pub. L. 102–405, title III, § 302(c)(1)][/us/pl/102/405/s302/c/1], Oct. 9, 1992, [106 Stat. 1984][/us/stat/106/1984]; [Pub. L. 106–419, title II, § 204][/us/pl/106/419/s204], Nov. 1, 2000, [114 Stat. 1842][/us/stat/114/1842]; [Pub. L. 108–170, title III, § 301(c)][/us/pl/108/170/s301/c], Dec. 6, 2003, [117 Stat. 2057][/us/stat/117/2057]; [Pub. L. 111–163, title VI, § 601(c)][/us/pl/111/163/s601/c], May 5, 2010, [124 Stat. 1168][/us/stat/124/1168].)
+(Added [Pub. L. 102–40, title IV][/us/pl/102/40/tIV], § 401(b)(2), May 7, 1991, [105 Stat. 226][/us/stat/105/226]; amended [Pub. L. 102–405, title III][/us/pl/102/405/tIII], § 302(c)(1), Oct. 9, 1992, [106 Stat. 1984][/us/stat/106/1984]; [Pub. L. 106–419, title II][/us/pl/106/419/tII], § 204, Nov. 1, 2000, [114 Stat. 1842][/us/stat/114/1842]; [Pub. L. 108–170, title III][/us/pl/108/170/tIII], § 301(c), Dec. 6, 2003, [117 Stat. 2057][/us/stat/117/2057]; [Pub. L. 111–163, title VI][/us/pl/111/163/tVI], § 601(c), May 5, 2010, [124 Stat. 1168][/us/stat/124/1168].)
 
  __Prior Provisions__ 
 
@@ -125,25 +125,25 @@
 
     2010—Subsec. (g). [Pub. L. 111–163][/us/pl/111/163] added subsec. (g).
 
-    2003—Subsec. (a)(1)(B), (C). [Pub. L. 108–170, § 301(c)(1)(A)][/us/pl/108/170/s301/c/1/A], added subpars. (B) and (C) and struck out former subpars. (B) and (C) which read as follows:
+    2003—Subsec. (a)(1)(B), (C). [Pub. L. 108–170][/us/pl/108/170], § 301(c)(1)(A), added subpars. (B) and (C) and struck out former subpars. (B) and (C) which read as follows:
 
     “(B) Certified or registered respiratory therapists, licensed physical therapists, licensed practical or vocational nurses, pharmacists, and occupational therapists.
 
     “(C) Dietitians, social workers, and librarians.”
 
-    Subsec. (a)(2)(B). [Pub. L. 108–170, § 301(c)(1)(B)][/us/pl/108/170/s301/c/1/B], added subpar. (B) and struck out former subpar. (B) which read as follows: “Certified or registered respiratory therapists, licensed physical therapists, licensed practical or vocational nurses, pharmacists, and occupational therapists.”
+    Subsec. (a)(2)(B). [Pub. L. 108–170][/us/pl/108/170], § 301(c)(1)(B), added subpar. (B) and struck out former subpar. (B) which read as follows: “Certified or registered respiratory therapists, licensed physical therapists, licensed practical or vocational nurses, pharmacists, and occupational therapists.”
 
-    Subsec. (c)(1). [Pub. L. 108–170, § 301(c)(2)][/us/pl/108/170/s301/c/2], substituted “paragraphs (1) and (3) of section 7401” for “section 7401(1)”.
+    Subsec. (c)(1). [Pub. L. 108–170][/us/pl/108/170], § 301(c)(2), substituted “paragraphs (1) and (3) of section 7401” for “section 7401(1)”.
 
-    2000—Subsec. (c)(2). [Pub. L. 106–419, § 204(a)][/us/pl/106/419/s204/a], amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Temporary full-time appointments of persons who have successfully completed a full course of nursing in a recognized school of nursing, approved by the Secretary, or who have successfully completed a full course of training for any category of personnel described in paragraph (3) of [section 7401 of this title][/us/usc/t38/s7401] in a recognized education or training institution approved by the Secretary, and who are pending registration or licensure in a State, or certification by a national board recognized by the Secretary, shall not exceed two years.”
+    2000—Subsec. (c)(2). [Pub. L. 106–419][/us/pl/106/419], § 204(a), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Temporary full-time appointments of persons who have successfully completed a full course of nursing in a recognized school of nursing, approved by the Secretary, or who have successfully completed a full course of training for any category of personnel described in paragraph (3) of [section 7401 of this title][/us/usc/t38/s7401] in a recognized education or training institution approved by the Secretary, and who are pending registration or licensure in a State, or certification by a national board recognized by the Secretary, shall not exceed two years.”
 
-    Subsec. (c)(3), (4). [Pub. L. 106–419, § 204(b)][/us/pl/106/419/s204/b], added par. (3) and redesignated former par. (3) as (4).
+    Subsec. (c)(3), (4). [Pub. L. 106–419][/us/pl/106/419], § 204(b), added par. (3) and redesignated former par. (3) as (4).
 
     1992—Subsecs. (a), (c)(1), (f)(1). [Pub. L. 102–405][/us/pl/102/405] substituted “Under Secretary for Health” for “Chief Medical Director”.
 
  __Recruitment of Mental Health Providers for Furnishing Mental Health Services on Behalf of the Department of Veterans Affairs Without Compensation From the Department__ 
 
-[Pub. L. 112–239, div. A, title VII, § 729][/us/pl/112/239/s729], Jan. 2, 2013, [126 Stat. 1813][/us/stat/126/1813], provided that:
+[Pub. L. 112–239, div. A, title VII][/us/pl/112/239/dA/tVII], § 729, Jan. 2, 2013, [126 Stat. 1813][/us/stat/126/1813], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -177,27 +177,27 @@
 [/us/usc/t38/s7401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7401
 [/us/usc/t38/s7403/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7403%2Fa
 [/us/usc/t38/s7407/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7407%2Fa
-[/us/pl/102/40/s401/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs401%2Fb%2F2
+[/us/pl/102/40/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2FtIV
 [/us/stat/105/226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F226
-[/us/pl/102/405/s302/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405%2Fs302%2Fc%2F1
+[/us/pl/102/405/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405%2FtIII
 [/us/stat/106/1984]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1984
-[/us/pl/106/419/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419%2Fs204
+[/us/pl/106/419/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419%2FtII
 [/us/stat/114/1842]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1842
-[/us/pl/108/170/s301/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F170%2Fs301%2Fc
+[/us/pl/108/170/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F170%2FtIII
 [/us/stat/117/2057]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2057
-[/us/pl/111/163/s601/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163%2Fs601%2Fc
+[/us/pl/111/163/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163%2FtVI
 [/us/stat/124/1168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1168
 [/us/usc/t38/s4114/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs4114%2Fa
 [/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40
 [/us/pl/111/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163
-[/us/pl/108/170/s301/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F170%2Fs301%2Fc%2F1%2FA
-[/us/pl/108/170/s301/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F170%2Fs301%2Fc%2F1%2FB
-[/us/pl/108/170/s301/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F170%2Fs301%2Fc%2F2
-[/us/pl/106/419/s204/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419%2Fs204%2Fa
+[/us/pl/108/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F170
+[/us/pl/108/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F170
+[/us/pl/108/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F170
+[/us/pl/106/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419
 [/us/usc/t38/s7401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7401
-[/us/pl/106/419/s204/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419%2Fs204%2Fb
+[/us/pl/106/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419
 [/us/pl/102/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405
-[/us/pl/112/239/s729]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs729
+[/us/pl/112/239/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtVII
 [/us/stat/126/1813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1813
 [/us/usc/t38/s7405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7405
 [/us/usc/t38/s8153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs8153

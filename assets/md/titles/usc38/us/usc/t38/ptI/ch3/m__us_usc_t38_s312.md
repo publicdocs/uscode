@@ -55,7 +55,7 @@
 
         (2) Nothing in this subsection shall be construed to authorize the public disclosure of information that is specifically prohibited from disclosure by any other provision of law.
 
-(Added [Pub. L. 102–83, § 2(a)][/us/pl/102/83/s2/a], Aug. 6, 1991, [105 Stat. 383][/us/stat/105/383]; amended [Pub. L. 103–446, title XII, § 1201(e)(3)][/us/pl/103/446/s1201/e/3], (g)(1), Nov. 2, 1994, [108 Stat. 4685][/us/stat/108/4685], 4687; [Pub. L. 114–113, div. J, title II, § 239][/us/pl/114/113/s239], Dec. 18, 2015, [129 Stat. 2700][/us/stat/129/2700].)
+(Added [Pub. L. 102–83][/us/pl/102/83], § 2(a), Aug. 6, 1991, [105 Stat. 383][/us/stat/105/383]; amended [Pub. L. 103–446, title XII][/us/pl/103/446/tXII], § 1201(e)(3), (g)(1), Nov. 2, 1994, [108 Stat. 4685][/us/stat/108/4685], 4687; [Pub. L. 114–113, div. J, title II][/us/pl/114/113/dJ/tII], § 239, Dec. 18, 2015, [129 Stat. 2700][/us/stat/129/2700].)
 
  __References in Text__ 
 
@@ -65,15 +65,15 @@
 
     Prior section 312 was renumbered [section 1112 of this title][/us/usc/t38/s1112].
 
-    Provisions similar to those in this section were contained in [section 9(b) of Pub. L. 100–527][/us/pl/100/527/s9/b], known as the Department of Veterans Affairs Act, prior to repeal by [Pub. L. 102–83, § 3(3)][/us/pl/102/83/s3/3].
+    Provisions similar to those in this section were contained in [section 9(b) of Pub. L. 100–527][/us/pl/100/527/s9/b], known as the Department of Veterans Affairs Act, prior to repeal by [Pub. L. 102–83][/us/pl/102/83], § 3(3).
 
  __Amendments__ 
 
     2015—Subsec. (c). [Pub. L. 114–113][/us/pl/114/113] added subsec. (c).
 
-    1994—Subsec. (a). [Pub. L. 103–446, § 1201(e)(3)][/us/pl/103/446/s1201/e/3], substituted “(5 U.S.C. App.)” for “(5 U.S.C. App. 3)”.
+    1994—Subsec. (a). [Pub. L. 103–446][/us/pl/103/446], § 1201(e)(3), substituted “(5 U.S.C. App.)” for “(5 U.S.C. App. 3)”.
 
-    Subsec. (b)(3). [Pub. L. 103–446, § 1201(g)(1)][/us/pl/103/446/s1201/g/1], struck out par. (3) which read as follows: “The Secretary shall provide the number of additional full-time positions in the Office of Inspector General required by paragraph (1) not later than September 30, 1991.”
+    Subsec. (b)(3). [Pub. L. 103–446][/us/pl/103/446], § 1201(g)(1), struck out par. (3) which read as follows: “The Secretary shall provide the number of additional full-time positions in the Office of Inspector General required by paragraph (1) not later than September 30, 1991.”
 
 ----------
 
@@ -83,19 +83,19 @@
 ----------
 
 [/us/usc/t31/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105
-[/us/pl/102/83/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs2%2Fa
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F383
-[/us/pl/103/446/s1201/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2Fs1201%2Fe%2F3
+[/us/pl/103/446/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2FtXII
 [/us/stat/108/4685]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4685
-[/us/pl/114/113/s239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs239
+[/us/pl/114/113/dJ/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdJ%2FtII
 [/us/stat/129/2700]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2700
 [/us/pl/95/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F452
 [/us/stat/92/1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1101
 [/us/usc/t38/s1112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1112
 [/us/pl/100/527/s9/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F527%2Fs9%2Fb
-[/us/pl/102/83/s3/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs3%2F3
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
-[/us/pl/103/446/s1201/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2Fs1201%2Fe%2F3
-[/us/pl/103/446/s1201/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2Fs1201%2Fg%2F1
+[/us/pl/103/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446
+[/us/pl/103/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446
 
 

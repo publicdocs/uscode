@@ -19,7 +19,7 @@
 
     (b) In the case of any veteran who engaged in combat with the enemy in active service with a military, naval, or air organization of the United States during a period of war, campaign, or expedition, the Secretary shall accept as sufficient proof of service-connection of any disease or injury alleged to have been incurred in or aggravated by such service satisfactory lay or other evidence of service incurrence or aggravation of such injury or disease, if consistent with the circumstances, conditions, or hardships of such service, notwithstanding the fact that there is no official record of such incurrence or aggravation in such service, and, to that end, shall resolve every reasonable doubt in favor of the veteran. Service-connection of such injury or disease may be rebutted by clear and convincing evidence to the contrary. The reasons for granting or denying service-connection in each case shall be recorded in full.
 
-([Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1124][/us/stat/72/1124], § 354; [Pub. L. 94–433, title IV, § 404(20)][/us/pl/94/433/s404/20], Sept. 30, 1976, [90 Stat. 1379][/us/stat/90/1379]; [Pub. L. 98–542, § 4][/us/pl/98/542/s4], Oct. 24, 1984, [98 Stat. 2727][/us/stat/98/2727]; [Pub. L. 102–54, § 14(b)(1)][/us/pl/102/54/s14/b/1], June 13, 1991, [105 Stat. 282][/us/stat/105/282]; renumbered § 1154 and amended [Pub. L. 102–83][/us/pl/102/83], §§ 4(b)(1), (2)(E), 5(a), Aug. 6, 1991, [105 Stat. 404–406][/us/stat/105/404-406].)
+([Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1124][/us/stat/72/1124], § 354; [Pub. L. 94–433, title IV][/us/pl/94/433/tIV], § 404(20), Sept. 30, 1976, [90 Stat. 1379][/us/stat/90/1379]; [Pub. L. 98–542][/us/pl/98/542], § 4, Oct. 24, 1984, [98 Stat. 2727][/us/stat/98/2727]; [Pub. L. 102–54][/us/pl/102/54], § 14(b)(1), June 13, 1991, [105 Stat. 282][/us/stat/105/282]; renumbered § 1154 and amended [Pub. L. 102–83][/us/pl/102/83], §§ 4(b)(1), (2)(E), 5(a), Aug. 6, 1991, [105 Stat. 404–406][/us/stat/105/404-406].)
 
  __References in Text__ 
 
@@ -27,15 +27,15 @@
 
  __Amendments__ 
 
-    1991—[Pub. L. 102–83, § 5(a)][/us/pl/102/83/s5/a], renumbered [section 354 of this title][/us/usc/t38/s354] as this section.
+    1991—[Pub. L. 102–83][/us/pl/102/83], § 5(a), renumbered [section 354 of this title][/us/usc/t38/s354] as this section.
 
-    [Pub. L. 102–54, § 14(b)(1)(A)][/us/pl/102/54/s14/b/1/A], inserted a comma after “place” in section catchline.
+    [Pub. L. 102–54][/us/pl/102/54], § 14(b)(1)(A), inserted a comma after “place” in section catchline.
 
-    Subsec. (a). [Pub. L. 102–83, § 4(b)(1)][/us/pl/102/83/s4/b/1], (2)(E), substituted “Secretary” for “Administrator”.
+    Subsec. (a). [Pub. L. 102–83][/us/pl/102/83], § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
-    [Pub. L. 102–54, § 14(b)(1)(B)][/us/pl/102/54/s14/b/1/B], inserted before period at end “([Public Law 98–542][/us/pl/98/542]; [98 Stat. 2727][/us/stat/98/2727])”.
+    [Pub. L. 102–54][/us/pl/102/54], § 14(b)(1)(B), inserted before period at end “([Public Law 98–542][/us/pl/98/542]; [98 Stat. 2727][/us/stat/98/2727])”.
 
-    Subsec. (b). [Pub. L. 102–83, § 4(b)(1)][/us/pl/102/83/s4/b/1], (2)(E), substituted “Secretary” for “Administrator”.
+    Subsec. (b). [Pub. L. 102–83][/us/pl/102/83], § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
     1984—Subsec. (a). [Pub. L. 98–542][/us/pl/98/542] designated existing provisions as cl. (1) and added cl. (2).
 
@@ -47,7 +47,7 @@
 
  __Radiation Dose Reconstruction Program of Department of Defense__ 
 
-[Pub. L. 108–183, title VI, § 601][/us/pl/108/183/s601], Dec. 16, 2003, [117 Stat. 2667][/us/stat/117/2667], provided that:
+[Pub. L. 108–183, title VI][/us/pl/108/183/tVI], § 601, Dec. 16, 2003, [117 Stat. 2667][/us/stat/117/2667], provided that:
 
 >     “(a)  __Review of Mission, Procedures, and Administration__  __.—__ 
 
@@ -109,7 +109,7 @@
 
  __Review of Dose Reconstruction Program of the Defense Threat Reduction Agency__ 
 
-[Pub. L. 106–419, title III, § 305][/us/pl/106/419/s305], Nov. 1, 2000, [114 Stat. 1853][/us/stat/114/1853], provided that:
+[Pub. L. 106–419, title III][/us/pl/106/419/tIII], § 305, Nov. 1, 2000, [114 Stat. 1853][/us/stat/114/1853], provided that:
 
 >     “(a)  __Review by National Academy of Sciences__  __.—__ 
 
@@ -145,7 +145,7 @@
 
  __Ionizing Radiation Registry__ 
 
-[Pub. L. 99–576, title II, § 232][/us/pl/99/576/s232], Oct. 28, 1986, [100 Stat. 3264][/us/stat/100/3264], as amended by [Pub. L. 102–83][/us/pl/102/83], §§ 5(c)(2), 6(h), Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406], 408, provided that:
+[Pub. L. 99–576, title II][/us/pl/99/576/tII], § 232, Oct. 28, 1986, [100 Stat. 3264][/us/stat/100/3264], as amended by [Pub. L. 102–83][/us/pl/102/83], §§ 5(c)(2), 6(h), Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406], 408, provided that:
 
 >     “(a)  __Establishment of Registry__  __.—__ 
 
@@ -209,7 +209,7 @@
 
  __Veterans’ Dioxin and Radiation Exposure Compensation Standards; Congressional Findings and Statement of Purpose__ 
 
-[Pub. L. 98–542, § 1–3][/us/pl/98/542/s1–3], Oct. 24, 1984, [98 Stat. 2725][/us/stat/98/2725], 2727, as amended by [Pub. L. 102–4, § 10(a)][/us/pl/102/4/s10/a], (b), Feb. 6, 1991, [105 Stat. 19][/us/stat/105/19], provided that:
+[Pub. L. 98–542][/us/pl/98/542], § 1–3, Oct. 24, 1984, [98 Stat. 2725][/us/stat/98/2725], 2727, as amended by [Pub. L. 102–4][/us/pl/102/4], § 10(a), (b), Feb. 6, 1991, [105 Stat. 19][/us/stat/105/19], provided that:
 
 >  __“short title__ 
 
@@ -255,7 +255,7 @@
 
  __Requirement for and Content of Regulations; Advisory Committee on Environmental Standards; Nuclear Radiation Matters Involving Other Agencies__ 
 
-[Pub. L. 98–542, § 5–7][/us/pl/98/542/s5–7], Oct. 24, 1984, [98 Stat. 2727–2730][/us/stat/98/2727-2730], as amended by [Pub. L. 100–321, § 2(c)][/us/pl/100/321/s2/c], May 20, 1988, [102 Stat. 486][/us/stat/102/486]; [Pub. L. 102–4, § 10(c)][/us/pl/102/4/s10/c], (d), Feb. 6, 1991, [105 Stat. 19][/us/stat/105/19], 20; [Pub. L. 102–83, § 5(c)(2)][/us/pl/102/83/s5/c/2], Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406], provided that:
+[Pub. L. 98–542][/us/pl/98/542], § 5–7, Oct. 24, 1984, [98 Stat. 2727–2730][/us/stat/98/2727-2730], as amended by [Pub. L. 100–321][/us/pl/100/321], § 2(c), May 20, 1988, [102 Stat. 486][/us/stat/102/486]; [Pub. L. 102–4][/us/pl/102/4], § 10(c), (d), Feb. 6, 1991, [105 Stat. 19][/us/stat/105/19], 20; [Pub. L. 102–83][/us/pl/102/83], § 5(c)(2), Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406], provided that:
 
 >  __“requirement for and content of regulations__ 
 
@@ -375,7 +375,7 @@
 
 >     “(b) The Administrator of Veterans’ Affairs \[now Secretary of Veterans Affairs\], in resolving material differences between a radiation dose estimate, from a credible source, submitted by a veteran or survivor and a radiation dose estimate prepared and transmitted by the Director of the Defense Nuclear Agency, shall provide for the preparation of a radiation dose estimate by an independent expert, who shall be selected by the Director of the National Institutes of Health and who shall not be affiliated with the Defense Nuclear Agency, and the Administrator shall provide for the consideration of such independent estimate in connection with the adjudication of the claim for Veterans’ Administration \[now Department of Veterans Affairs\] compensation.”
 
-\[[Pub. L. 102–4, § 10(e)][/us/pl/102/4/s10/e], Feb. 6, 1991, [105 Stat. 20][/us/stat/105/20], as amended by [Pub. L. 102–86, title V, § 503(b)(2)][/us/pl/102/86/s503/b/2], Aug. 14, 1991, [105 Stat. 425][/us/stat/105/425], provided that:
+\[[Pub. L. 102–4][/us/pl/102/4], § 10(e), Feb. 6, 1991, [105 Stat. 20][/us/stat/105/20], as amended by [Pub. L. 102–86, title V][/us/pl/102/86/tV], § 503(b)(2), Aug. 14, 1991, [105 Stat. 425][/us/stat/105/425], provided that:
 
     \[“(1) Except as provided in paragraph (2), the amendments made by this section \[amending sections 2 and 3 of [Pub. L. 98–542][/us/pl/98/542], set out above, and sections 5 and 6 of [Pub. L. 98–542][/us/pl/98/542], set out above\] shall take effect at the end of the two-month period beginning on the date of the enactment of the Veterans’ Benefits Programs Improvement Act of 1991 \[Aug. 14, 1991\].
 
@@ -387,7 +387,7 @@
 
  __Identification of Activities Involving Exposure to Ionizing Radiation Before__  __January 1, 1970__ 
 
-[Section 10 of Pub. L. 98–542][/us/pl/98/542/s10], as added by [Pub. L. 102–578, § 3][/us/pl/102/578/s3], Oct. 30, 1992, [106 Stat. 4774][/us/stat/106/4774], provided that:
+[Section 10 of Pub. L. 98–542][/us/pl/98/542/s10], as added by [Pub. L. 102–578][/us/pl/102/578], § 3, Oct. 30, 1992, [106 Stat. 4774][/us/stat/106/4774], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -431,7 +431,7 @@
 
  __Radiation Exposure Study and Guide__ 
 
-    [Pub. L. 98–160, title VI][/us/pl/98/160], Nov. 21, 1983, [97 Stat. 1006][/us/stat/97/1006], as amended by [Pub. L. 98–542, § 8(b)][/us/pl/98/542/s8/b], Oct. 24, 1984, [98 Stat. 2732][/us/stat/98/2732], provided for the conduct of an epidemiological study of long-term adverse health effects of exposure to ionizing radiation from detonation of nuclear devices in connection with tests of such devices or in connection with occupation of Hiroshima and Nagasaki, Japan, between Sept. 11, 1945, and July 1, 1946, and provided for reports to Congress on studies made together with recommendations as to necessary legislation.
+    [Pub. L. 98–160, title VI][/us/pl/98/160/tVI], Nov. 21, 1983, [97 Stat. 1006][/us/stat/97/1006], as amended by [Pub. L. 98–542][/us/pl/98/542], § 8(b), Oct. 24, 1984, [98 Stat. 2732][/us/stat/98/2732], provided for the conduct of an epidemiological study of long-term adverse health effects of exposure to ionizing radiation from detonation of nuclear devices in connection with tests of such devices or in connection with occupation of Hiroshima and Nagasaki, Japan, between Sept. 11, 1945, and July 1, 1946, and provided for reports to Congress on studies made together with recommendations as to necessary legislation.
 
 ----------
 
@@ -444,40 +444,40 @@
 [/us/stat/98/2727]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2727
 [/us/pl/85/857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F857
 [/us/stat/72/1124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1124
-[/us/pl/94/433/s404/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F433%2Fs404%2F20
+[/us/pl/94/433/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F433%2FtIV
 [/us/stat/90/1379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1379
-[/us/pl/98/542/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F542%2Fs4
+[/us/pl/98/542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F542
 [/us/stat/98/2727]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2727
-[/us/pl/102/54/s14/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54%2Fs14%2Fb%2F1
+[/us/pl/102/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54
 [/us/stat/105/282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F282
 [/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/404-406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F404-406
-[/us/pl/102/83/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fa
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/usc/t38/s354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs354
-[/us/pl/102/54/s14/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54%2Fs14%2Fb%2F1%2FA
-[/us/pl/102/83/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fb%2F1
-[/us/pl/102/54/s14/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54%2Fs14%2Fb%2F1%2FB
+[/us/pl/102/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54
 [/us/pl/98/542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F542
 [/us/stat/98/2727]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2727
-[/us/pl/102/83/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fb%2F1
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/pl/98/542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F542
 [/us/pl/94/433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F433
 [/us/pl/94/433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F433
 [/us/pl/94/433/s406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F433%2Fs406
 [/us/usc/t38/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1101
-[/us/pl/108/183/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F183%2Fs601
+[/us/pl/108/183/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F183%2FtVI
 [/us/stat/117/2667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2667
-[/us/pl/106/419/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419%2Fs305
+[/us/pl/106/419/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419%2FtIII
 [/us/stat/114/1853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1853
-[/us/pl/99/576/s232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2Fs232
+[/us/pl/99/576/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2FtII
 [/us/stat/100/3264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3264
 [/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F406
 [/us/usc/t38/s1710/e/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1710%2Fe%2F1%2FB
 [/us/usc/t38/s101/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs101%2F2
-[/us/pl/98/542/s1–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F542%2Fs1%E2%80%933
+[/us/pl/98/542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F542
 [/us/stat/98/2725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2725
-[/us/pl/102/4/s10/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F4%2Fs10%2Fa
+[/us/pl/102/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F4
 [/us/stat/105/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F19
 [/us/usc/t38/s1116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1116
 [/us/pl/97/22/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F22%2Fs102
@@ -489,31 +489,31 @@
 [/us/pl/98/542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F542
 [/us/pl/102/4/s10/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F4%2Fs10%2Fe
 [/us/pl/98/542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F542
-[/us/pl/98/542/s5–7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F542%2Fs5%E2%80%937
+[/us/pl/98/542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F542
 [/us/stat/98/2727-2730]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2727-2730
-[/us/pl/100/321/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F321%2Fs2%2Fc
+[/us/pl/100/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F321
 [/us/stat/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F486
-[/us/pl/102/4/s10/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F4%2Fs10%2Fc
+[/us/pl/102/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F4
 [/us/stat/105/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F19
-[/us/pl/102/83/s5/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fc%2F2
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F406
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
-[/us/pl/102/4/s10/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F4%2Fs10%2Fe
+[/us/pl/102/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F4
 [/us/stat/105/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F20
-[/us/pl/102/86/s503/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F86%2Fs503%2Fb%2F2
+[/us/pl/102/86/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F86%2FtV
 [/us/stat/105/425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F425
 [/us/pl/98/542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F542
 [/us/pl/98/542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F542
 [/us/pl/98/542/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F542%2Fs6
 [/us/usc/t38/s354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs354
 [/us/pl/98/542/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F542%2Fs10
-[/us/pl/102/578/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F578%2Fs3
+[/us/pl/102/578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F578
 [/us/stat/106/4774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4774
 [/us/pl/98/542/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F542%2Fs9
-[/us/pl/98/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F160
+[/us/pl/98/160/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F160%2FtVI
 [/us/stat/97/1006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1006
-[/us/pl/98/542/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F542%2Fs8%2Fb
+[/us/pl/98/542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F542
 [/us/stat/98/2732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2732
 
 

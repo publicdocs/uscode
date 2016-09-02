@@ -17,7 +17,7 @@
 
     There is a Secretary of Veterans Affairs, who is the head of the Department and is appointed by the President, by and with the advice and consent of the Senate. The Secretary is responsible for the proper execution and administration of all laws administered by the Department and for the control, direction, and management of the Department.
 
-(Added [Pub. L. 102–83, § 2(a)][/us/pl/102/83/s2/a], Aug. 6, 1991, [105 Stat. 379][/us/stat/105/379].)
+(Added [Pub. L. 102–83][/us/pl/102/83], § 2(a), Aug. 6, 1991, [105 Stat. 379][/us/stat/105/379].)
 
  __Prior Provisions__ 
 
@@ -25,13 +25,13 @@
 
  __Notice to Congressional Veterans Committees of Certain Transfers of Funds__ 
 
-[Pub. L. 109–461, title X, § 1001][/us/pl/109/461/s1001], Dec. 22, 2006, [120 Stat. 3464][/us/stat/120/3464], provided that: 
+[Pub. L. 109–461, title X][/us/pl/109/461/tX], § 1001, Dec. 22, 2006, [120 Stat. 3464][/us/stat/120/3464], provided that: 
 
 > “To the extent that the Secretary of Veterans Affairs is required or directed, under any provision of law, to provide written notice to any committee of Congress other than the Committee on Veterans’ Affairs of the Senate and the Committee on Veterans’ Affairs of the House of Representatives on the transfer of appropriations from one account to any other account, the Secretary shall also transmit such notice to the Committee on Veterans’ Affairs of the Senate and the Committee on Veterans’ Affairs of the House of Representatives.”
 
  __National Center on War-Related Illnesses and Post-Deployment Health Issues__ 
 
-[Pub. L. 105–368, title I, § 103][/us/pl/105/368/s103], Nov. 11, 1998, [112 Stat. 3322][/us/stat/112/3322], provided that:
+[Pub. L. 105–368, title I][/us/pl/105/368/tI], § 103, Nov. 11, 1998, [112 Stat. 3322][/us/stat/112/3322], provided that:
 
 >     “(a)  __Assessment__  __.—__ 
 
@@ -55,7 +55,7 @@
 
  __Specification in Budget Submissions of Funds for Certain Veterans Benefits__ 
 
-[Pub. L. 100–687, div. B, title XIV, § 1404][/us/pl/100/687/s1404], Nov. 18, 1988, [102 Stat. 4131][/us/stat/102/4131], as amended by [Pub. L. 102–83][/us/pl/102/83], §§ 5(c)(2), 6(k)(3), Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406], 409, provided that:
+[Pub. L. 100–687, div. B, title XIV][/us/pl/100/687/dB/tXIV], § 1404, Nov. 18, 1988, [102 Stat. 4131][/us/stat/102/4131], as amended by [Pub. L. 102–83][/us/pl/102/83], §§ 5(c)(2), 6(k)(3), Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406], 409, provided that:
 
 >     “(a)  __Budget Information__  __.—__ 
 
@@ -101,7 +101,7 @@
 
  __Information and Training Concerning AIDS Prevention__ 
 
-[Pub. L. 100–322, title I, § 123][/us/pl/100/322/s123], May 20, 1988, [102 Stat. 504][/us/stat/102/504], as amended by [Pub. L. 102–83, § 6(j)(2)][/us/pl/102/83/s6/j/2], Aug. 6, 1991, [105 Stat. 409][/us/stat/105/409]; [Pub. L. 102–531, title III, § 312(c)][/us/pl/102/531/s312/c], Oct. 27, 1992, [106 Stat. 3504][/us/stat/106/3504], provided that:
+[Pub. L. 100–322, title I][/us/pl/100/322/tI], § 123, May 20, 1988, [102 Stat. 504][/us/stat/102/504], as amended by [Pub. L. 102–83][/us/pl/102/83], § 6(j)(2), Aug. 6, 1991, [105 Stat. 409][/us/stat/105/409]; [Pub. L. 102–531, title III][/us/pl/102/531/tIII], § 312(c), Oct. 27, 1992, [106 Stat. 3504][/us/stat/106/3504], provided that:
 
 >     “(a)  __Information Program__  __.—__ 
 
@@ -134,24 +134,24 @@
 ----------
 ----------
 
-[/us/pl/102/83/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs2%2Fa
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F379
 [/us/pl/100/527/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F527%2Fs2
 [/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
-[/us/pl/109/461/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461%2Fs1001
+[/us/pl/109/461/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461%2FtX
 [/us/stat/120/3464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3464
-[/us/pl/105/368/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2Fs103
+[/us/pl/105/368/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2FtI
 [/us/stat/112/3322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3322
-[/us/pl/100/687/s1404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F687%2Fs1404
+[/us/pl/100/687/dB/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F687%2FdB%2FtXIV
 [/us/stat/102/4131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4131
 [/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F406
 [/us/usc/t31/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105
-[/us/pl/100/322/s123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F322%2Fs123
+[/us/pl/100/322/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F322%2FtI
 [/us/stat/102/504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F504
-[/us/pl/102/83/s6/j/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs6%2Fj%2F2
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F409
-[/us/pl/102/531/s312/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531%2Fs312%2Fc
+[/us/pl/102/531/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531%2FtIII
 [/us/stat/106/3504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3504
 [/us/usc/t42/s5195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5195
 

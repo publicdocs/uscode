@@ -29,7 +29,7 @@
 
     (d) The prohibitions in subsections (a) and (b) shall apply to any position of employment, including a position that is described in [section 4312(d)(1)(C) of this title][/us/usc/t38/s4312/d/1/C].
 
-(Added [Pub. L. 103–353, § 2(a)][/us/pl/103/353/s2/a], Oct. 13, 1994, [108 Stat. 3153][/us/stat/108/3153]; amended [Pub. L. 104–275, title III, § 311(3)][/us/pl/104/275/s311/3], Oct. 9, 1996, [110 Stat. 3334][/us/stat/110/3334].)
+(Added [Pub. L. 103–353][/us/pl/103/353], § 2(a), Oct. 13, 1994, [108 Stat. 3153][/us/stat/108/3153]; amended [Pub. L. 104–275, title III][/us/pl/104/275/tIII], § 311(3), Oct. 9, 1996, [110 Stat. 3334][/us/stat/110/3334].)
 
  __Prior Provisions__ 
 
@@ -61,9 +61,9 @@
 ----------
 
 [/us/usc/t38/s4312/d/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs4312%2Fd%2F1%2FC
-[/us/pl/103/353/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F353%2Fs2%2Fa
+[/us/pl/103/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F353
 [/us/stat/108/3153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3153
-[/us/pl/104/275/s311/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275%2Fs311%2F3
+[/us/pl/104/275/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275%2FtIII
 [/us/stat/110/3334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3334
 [/us/usc/t38/s7611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7611
 [/us/pl/104/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275

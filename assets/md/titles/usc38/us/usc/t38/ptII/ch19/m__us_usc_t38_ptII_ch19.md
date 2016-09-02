@@ -691,33 +691,33 @@ SUBCHAPTER IV—GENERAL  </td>
 
  __Amendments__ 
 
-    2005—[Pub. L. 109–13, div. A, title I, § 1032(b)][/us/pl/109/13/s1032/b], May 11, 2005, [119 Stat. 259][/us/stat/119/259], added item 1980A.
+    2005—[Pub. L. 109–13, div. A, title I][/us/pl/109/13/dA/tI], § 1032(b), May 11, 2005, [119 Stat. 259][/us/stat/119/259], added item 1980A.
 
-    1998—[Pub. L. 105–368, title III, § 302(a)(2)][/us/pl/105/368/s302/a/2], Nov. 11, 1998, [112 Stat. 3333][/us/stat/112/3333], added item 1980.
+    1998—[Pub. L. 105–368, title III][/us/pl/105/368/tIII], § 302(a)(2), Nov. 11, 1998, [112 Stat. 3333][/us/stat/112/3333], added item 1980.
 
-    1996—[Pub. L. 104–275, title IV, § 405(b)(3)][/us/pl/104/275/s405/b/3], Oct. 9, 1996, [110 Stat. 3339][/us/stat/110/3339], substituted “SERVICEMEMBERS’ GROUP” for “SERVICEMEN’S GROUP” in subchapter III heading and “Servicemembers’ Group” for “Servicemen’s Group” in item 1974.
+    1996—[Pub. L. 104–275, title IV][/us/pl/104/275/tIV], § 405(b)(3), Oct. 9, 1996, [110 Stat. 3339][/us/stat/110/3339], substituted “SERVICEMEMBERS’ GROUP” for “SERVICEMEN’S GROUP” in subchapter III heading and “Servicemembers’ Group” for “Servicemen’s Group” in item 1974.
 
-    1992—[Pub. L. 102–568, title II, § 203(b)][/us/pl/102/568/s203/b], Oct. 29, 1992, [106 Stat. 4325][/us/stat/106/4325], added item 1922A.
+    1992—[Pub. L. 102–568, title II][/us/pl/102/568/tII], § 203(b), Oct. 29, 1992, [106 Stat. 4325][/us/stat/106/4325], added item 1922A.
 
-    1991—[Pub. L. 102–83, § 5(b)(1)][/us/pl/102/83/s5/b/1], Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406], renumbered items 701 to 788 as 1901 to 1988, respectively.
+    1991—[Pub. L. 102–83][/us/pl/102/83], § 5(b)(1), Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406], renumbered items 701 to 788 as 1901 to 1988, respectively.
 
-    [Pub. L. 102–83, § 4(b)(1)][/us/pl/102/83/s4/b/1], (2)(E), Aug. 6, 1991, [105 Stat. 404][/us/stat/105/404], 405, substituted “Secretary” for “Administrator” in item 785.
+    [Pub. L. 102–83][/us/pl/102/83], § 4(b)(1), (2)(E), Aug. 6, 1991, [105 Stat. 404][/us/stat/105/404], 405, substituted “Secretary” for “Administrator” in item 785.
 
-    1988—[Pub. L. 100–687, div. B, title XIV, § 1401(c)][/us/pl/100/687/s1401/c], Nov. 18, 1988, [102 Stat. 4129][/us/stat/102/4129], added items 728, 729, and 763.
+    1988—[Pub. L. 100–687, div. B, title XIV][/us/pl/100/687/dB/tXIV], § 1401(c), Nov. 18, 1988, [102 Stat. 4129][/us/stat/102/4129], added items 728, 729, and 763.
 
-    [Pub. L. 100–322, title III, § 331(a)(2)][/us/pl/100/322/s331/a/2], (b)(2), May 20, 1988, [102 Stat. 536][/us/stat/102/536], 537, added items 727 and 762.
+    [Pub. L. 100–322, title III][/us/pl/100/322/tIII], § 331(a)(2), (b)(2), May 20, 1988, [102 Stat. 536][/us/stat/102/536], 537, added items 727 and 762.
 
-    1979—[Pub. L. 96–128, title III][/us/pl/96/128], §§ 302(b), 303(b), Nov. 28, 1979, [93 Stat. 986][/us/stat/93/986], added items 726 and 761.
+    1979—[Pub. L. 96–128, title III][/us/pl/96/128/tIII], §§ 302(b), 303(b), Nov. 28, 1979, [93 Stat. 986][/us/stat/93/986], added items 726 and 761.
 
     1974—[Pub. L. 93–289][/us/pl/93/289], §§ 2(b), 9(b), May 24, 1974, [88 Stat. 165][/us/stat/88/165], 172, added items 777, 778, and 779 and substituted “Veterans’ Special Life Insurance” for “Veterans’ special term insurance” in item 723.
 
-    1971—[Pub. L. 92–188, § 3][/us/pl/92/188/s3], Dec. 15, 1971, [85 Stat. 645][/us/stat/85/645], substituted “Payment or use of dividends” for “Dividends to pay premiums” in item 707.
+    1971—[Pub. L. 92–188][/us/pl/92/188], § 3, Dec. 15, 1971, [85 Stat. 645][/us/stat/85/645], substituted “Payment or use of dividends” for “Dividends to pay premiums” in item 707.
 
-    1970—[Pub. L. 91–291, § 7][/us/pl/91/291/s7], June 25, 1970, [84 Stat. 331][/us/stat/84/331], substituted “Duration and termination of coverage; conversion” for “Termination of coverage; conversion” in item 768.
+    1970—[Pub. L. 91–291][/us/pl/91/291], § 7, June 25, 1970, [84 Stat. 331][/us/stat/84/331], substituted “Duration and termination of coverage; conversion” for “Termination of coverage; conversion” in item 768.
 
-    1965—[Pub. L. 89–214, § 2][/us/pl/89/214/s2], Sept. 29, 1965, [79 Stat. 886][/us/stat/79/886], redesignated “SUBCHAPTER III—GENERAL” as “SUBCHAPTER IV—GENERAL” and inserted “SUBCHAPTER III—SERVICEMEN’S GROUP LIFE INSURANCE” comprising items 765 to 776.
+    1965—[Pub. L. 89–214][/us/pl/89/214], § 2, Sept. 29, 1965, [79 Stat. 886][/us/stat/79/886], redesignated “SUBCHAPTER III—GENERAL” as “SUBCHAPTER IV—GENERAL” and inserted “SUBCHAPTER III—SERVICEMEN’S GROUP LIFE INSURANCE” comprising items 765 to 776.
 
-    1964—[Pub. L. 88–664, § 12(c)][/us/pl/88/664/s12/c], Oct. 13, 1964, [78 Stat. 1099][/us/stat/78/1099], added item 725.
+    1964—[Pub. L. 88–664][/us/pl/88/664], § 12(c), Oct. 13, 1964, [78 Stat. 1099][/us/stat/78/1099], added item 725.
 
 ----------
 
@@ -726,33 +726,33 @@ SUBCHAPTER IV—GENERAL  </td>
 ----------
 ----------
 
-[/us/pl/109/13/s1032/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F13%2Fs1032%2Fb
+[/us/pl/109/13/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F13%2FdA%2FtI
 [/us/stat/119/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F259
-[/us/pl/105/368/s302/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2Fs302%2Fa%2F2
+[/us/pl/105/368/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2FtIII
 [/us/stat/112/3333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3333
-[/us/pl/104/275/s405/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275%2Fs405%2Fb%2F3
+[/us/pl/104/275/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275%2FtIV
 [/us/stat/110/3339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3339
-[/us/pl/102/568/s203/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F568%2Fs203%2Fb
+[/us/pl/102/568/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F568%2FtII
 [/us/stat/106/4325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4325
-[/us/pl/102/83/s5/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fb%2F1
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F406
-[/us/pl/102/83/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fb%2F1
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F404
-[/us/pl/100/687/s1401/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F687%2Fs1401%2Fc
+[/us/pl/100/687/dB/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F687%2FdB%2FtXIV
 [/us/stat/102/4129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4129
-[/us/pl/100/322/s331/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F322%2Fs331%2Fa%2F2
+[/us/pl/100/322/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F322%2FtIII
 [/us/stat/102/536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F536
-[/us/pl/96/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F128
+[/us/pl/96/128/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F128%2FtIII
 [/us/stat/93/986]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F986
 [/us/pl/93/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F289
 [/us/stat/88/165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F165
-[/us/pl/92/188/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F188%2Fs3
+[/us/pl/92/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F188
 [/us/stat/85/645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F645
-[/us/pl/91/291/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F291%2Fs7
+[/us/pl/91/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F291
 [/us/stat/84/331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F331
-[/us/pl/89/214/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F214%2Fs2
+[/us/pl/89/214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F214
 [/us/stat/79/886]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F886
-[/us/pl/88/664/s12/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F664%2Fs12%2Fc
+[/us/pl/88/664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F664
 [/us/stat/78/1099]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F1099
 
 

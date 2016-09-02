@@ -43,7 +43,7 @@
 
     (d) The Secretary shall require that the mortgagee make available to the mortgagor, at the time of loan application, a written explanation of the features of the adjustable rate mortgage, including a hypothetical payment schedule that displays the maximum potential increases in monthly payments to the mortgagor over the first five years of the mortgage term.
 
-(Added [Pub. L. 102–547, § 3(a)(1)][/us/pl/102/547/s3/a/1], Oct. 28, 1992, [106 Stat. 3634][/us/stat/106/3634]; amended [Pub. L. 103–78, § 7][/us/pl/103/78/s7], Aug. 13, 1993, [107 Stat. 769][/us/stat/107/769]; [Pub. L. 108–454, title IV, § 404][/us/pl/108/454/s404], Dec. 10, 2004, [118 Stat. 3616][/us/stat/118/3616]; [Pub. L. 110–389, title V, § 505(a)][/us/pl/110/389/s505/a], Oct. 10, 2008, [122 Stat. 4176][/us/stat/122/4176]; [Pub. L. 112–154, title II, § 208][/us/pl/112/154/s208], Aug. 6, 2012, [126 Stat. 1179][/us/stat/126/1179].)
+(Added [Pub. L. 102–547][/us/pl/102/547], § 3(a)(1), Oct. 28, 1992, [106 Stat. 3634][/us/stat/106/3634]; amended [Pub. L. 103–78][/us/pl/103/78], § 7, Aug. 13, 1993, [107 Stat. 769][/us/stat/107/769]; [Pub. L. 108–454, title IV][/us/pl/108/454/tIV], § 404, Dec. 10, 2004, [118 Stat. 3616][/us/stat/118/3616]; [Pub. L. 110–389, title V][/us/pl/110/389/tV], § 505(a), Oct. 10, 2008, [122 Stat. 4176][/us/stat/122/4176]; [Pub. L. 112–154, title II][/us/pl/112/154/tII], § 208, Aug. 6, 2012, [126 Stat. 1179][/us/stat/126/1179].)
 
  __References in Text__ 
 
@@ -61,7 +61,7 @@
 
  __Annual Reports on Adjustable Rate Mortgages Guaranteed Under This Section__ 
 
-    [Section 3(b) of Pub. L. 102–547][/us/pl/102/547/s3/b] directed Secretary of Veterans Affairs to transmit adjustable rate mortgage report to Committees on Veterans’ Affairs of Senate and House of Representatives no later than Dec. 31, 1993, containing description of project carried out under this section and thereafter to transmit annual reports to such committees with respect to default rates and other information concerning loans guaranteed under this section prior to repeal by [Pub. L. 104–110, title II, § 201(b)][/us/pl/104/110/s201/b], Feb. 13, 1996, [110 Stat. 770][/us/stat/110/770].
+    [Section 3(b) of Pub. L. 102–547][/us/pl/102/547/s3/b] directed Secretary of Veterans Affairs to transmit adjustable rate mortgage report to Committees on Veterans’ Affairs of Senate and House of Representatives no later than Dec. 31, 1993, containing description of project carried out under this section and thereafter to transmit annual reports to such committees with respect to default rates and other information concerning loans guaranteed under this section prior to repeal by [Pub. L. 104–110, title II][/us/pl/104/110/tII], § 201(b), Feb. 13, 1996, [110 Stat. 770][/us/stat/110/770].
 
 ----------
 
@@ -70,15 +70,15 @@
 ----------
 ----------
 
-[/us/pl/102/547/s3/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F547%2Fs3%2Fa%2F1
+[/us/pl/102/547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F547
 [/us/stat/106/3634]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3634
-[/us/pl/103/78/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F78%2Fs7
+[/us/pl/103/78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F78
 [/us/stat/107/769]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F769
-[/us/pl/108/454/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F454%2Fs404
+[/us/pl/108/454/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F454%2FtIV
 [/us/stat/118/3616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3616
-[/us/pl/110/389/s505/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F389%2Fs505%2Fa
+[/us/pl/110/389/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F389%2FtV
 [/us/stat/122/4176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4176
-[/us/pl/112/154/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154%2Fs208
+[/us/pl/112/154/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154%2FtII
 [/us/stat/126/1179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1179
 [/us/act/1934-06-27/ch847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-27%2Fch847
 [/us/stat/48/1246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1246
@@ -89,7 +89,7 @@
 [/us/pl/108/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F454
 [/us/pl/103/78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F78
 [/us/pl/102/547/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F547%2Fs3%2Fb
-[/us/pl/104/110/s201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F110%2Fs201%2Fb
+[/us/pl/104/110/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F110%2FtII
 [/us/stat/110/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F770
 
 

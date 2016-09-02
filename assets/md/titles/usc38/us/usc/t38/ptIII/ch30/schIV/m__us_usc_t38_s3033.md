@@ -25,7 +25,7 @@
 
     (c) An individual who serves in the Selected Reserve may not receive credit for such service under two or more of the programs established by this chapter, chapter 33 of this title, and chapters 1606 and 1607 of title 10 but shall elect (in such form and manner as the Secretary may prescribe) the program to which such service is to be credited.
 
-(Added [Pub. L. 98–525, title VII, § 702(a)(1)][/us/pl/98/525/s702/a/1], Oct. 19, 1984, [98 Stat. 2561][/us/stat/98/2561], § 1433; amended [Pub. L. 99–576, title III, § 306][/us/pl/99/576/s306], Oct. 28, 1986, [100 Stat. 3269][/us/stat/100/3269]; [Pub. L. 101–237, title IV, § 423(b)(1)(A)][/us/pl/101/237/s423/b/1/A], Dec. 18, 1989, [103 Stat. 2092][/us/stat/103/2092]; [Pub. L. 102–16, § 10(a)(4)][/us/pl/102/16/s10/a/4], Mar. 22, 1991, [105 Stat. 55][/us/stat/105/55]; renumbered § 3033, [Pub. L. 102–83, § 5(a)][/us/pl/102/83/s5/a], Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406]; [Pub. L. 110–252, title V, § 5003(b)(1)(A)][/us/pl/110/252/s5003/b/1/A], June 30, 2008, [122 Stat. 2375][/us/stat/122/2375].)
+(Added [Pub. L. 98–525, title VII][/us/pl/98/525/tVII], § 702(a)(1), Oct. 19, 1984, [98 Stat. 2561][/us/stat/98/2561], § 1433; amended [Pub. L. 99–576, title III][/us/pl/99/576/tIII], § 306, Oct. 28, 1986, [100 Stat. 3269][/us/stat/100/3269]; [Pub. L. 101–237, title IV][/us/pl/101/237/tIV], § 423(b)(1)(A), Dec. 18, 1989, [103 Stat. 2092][/us/stat/103/2092]; [Pub. L. 102–16][/us/pl/102/16], § 10(a)(4), Mar. 22, 1991, [105 Stat. 55][/us/stat/105/55]; renumbered § 3033, [Pub. L. 102–83][/us/pl/102/83], § 5(a), Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406]; [Pub. L. 110–252, title V][/us/pl/110/252/tV], § 5003(b)(1)(A), June 30, 2008, [122 Stat. 2375][/us/stat/122/2375].)
 
  __References in Text__ 
 
@@ -33,9 +33,9 @@
 
  __Amendments__ 
 
-    2008—Subsec. (a)(1). [Pub. L. 110–252, § 5003(b)(1)(A)(i)][/us/pl/110/252/s5003/b/1/A/i], inserted “33,” after “32,”.
+    2008—Subsec. (a)(1). [Pub. L. 110–252][/us/pl/110/252], § 5003(b)(1)(A)(i), inserted “33,” after “32,”.
 
-    Subsec. (c). [Pub. L. 110–252, § 5003(b)(1)(A)(ii)][/us/pl/110/252/s5003/b/1/A/ii], substituted “two or more of the programs established by this chapter, chapter 33 of this title, and chapters 1606 and 1607 of title 10” for “both the program established by this chapter and the program established by chapter 106 of title 10”.
+    Subsec. (c). [Pub. L. 110–252][/us/pl/110/252], § 5003(b)(1)(A)(ii), substituted “two or more of the programs established by this chapter, chapter 33 of this title, and chapters 1606 and 1607 of title 10” for “both the program established by this chapter and the program established by chapter 106 of title 10”.
 
     1991—[Pub. L. 102–83][/us/pl/102/83] renumbered [section 1433 of this title][/us/usc/t38/s1433] as this section.
 
@@ -43,9 +43,9 @@
 
     1989—Subsecs. (a)(1), (c). [Pub. L. 101–237][/us/pl/101/237] substituted “Secretary” for “Administrator”.
 
-    1986—Subsec. (a)(1). [Pub. L. 99–576, § 306(a)][/us/pl/99/576/s306/a], substituted “chapter 31, 32, or 35 of this title, under chapter 106 or 107 of title 10, or under the Hostage Relief Act of 1980 ([Public Law 96–449][/us/pl/96/449]; [5 U.S.C. 5561][/us/usc/t5/s5561] note) may not receive assistance under two or more of such programs” for “chapter 31, 34, or 35 of this title or under chapter 106 or 107 of title 10 may not receive assistance under both programs”.
+    1986—Subsec. (a)(1). [Pub. L. 99–576][/us/pl/99/576], § 306(a), substituted “chapter 31, 32, or 35 of this title, under chapter 106 or 107 of title 10, or under the Hostage Relief Act of 1980 ([Public Law 96–449][/us/pl/96/449]; [5 U.S.C. 5561][/us/usc/t5/s5561] note) may not receive assistance under two or more of such programs” for “chapter 31, 34, or 35 of this title or under chapter 106 or 107 of title 10 may not receive assistance under both programs”.
 
-    Subsec. (c). [Pub. L. 99–576, § 306(b)][/us/pl/99/576/s306/b], amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “An individual who is entitled to educational assistance under chapter 106 of title 10 may not also receive educational assistance under this chapter based on entitlement under [section 1412 of this title][/us/usc/t38/s1412].”
+    Subsec. (c). [Pub. L. 99–576][/us/pl/99/576], § 306(b), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “An individual who is entitled to educational assistance under chapter 106 of title 10 may not also receive educational assistance under this chapter based on entitlement under [section 1412 of this title][/us/usc/t38/s1412].”
 
  __Effective Date of 2008 Amendment__ 
 
@@ -60,32 +60,32 @@
 
 [/us/pl/96/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F449
 [/us/usc/t5/s5561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5561
-[/us/pl/98/525/s702/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs702%2Fa%2F1
+[/us/pl/98/525/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2FtVII
 [/us/stat/98/2561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2561
-[/us/pl/99/576/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2Fs306
+[/us/pl/99/576/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2FtIII
 [/us/stat/100/3269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3269
-[/us/pl/101/237/s423/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237%2Fs423%2Fb%2F1%2FA
+[/us/pl/101/237/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237%2FtIV
 [/us/stat/103/2092]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2092
-[/us/pl/102/16/s10/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F16%2Fs10%2Fa%2F4
+[/us/pl/102/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F16
 [/us/stat/105/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F55
-[/us/pl/102/83/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fa
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F406
-[/us/pl/110/252/s5003/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F252%2Fs5003%2Fb%2F1%2FA
+[/us/pl/110/252/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F252%2FtV
 [/us/stat/122/2375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2375
 [/us/pl/96/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F449
 [/us/stat/94/1967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1967
 [/us/usc/t5/s5561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5561
-[/us/pl/110/252/s5003/b/1/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F252%2Fs5003%2Fb%2F1%2FA%2Fi
-[/us/pl/110/252/s5003/b/1/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F252%2Fs5003%2Fb%2F1%2FA%2Fii
+[/us/pl/110/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F252
+[/us/pl/110/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F252
 [/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/usc/t38/s1433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1433
 [/us/pl/102/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F16
 [/us/usc/t10/s2141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2141
 [/us/pl/101/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237
-[/us/pl/99/576/s306/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2Fs306%2Fa
+[/us/pl/99/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576
 [/us/pl/96/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F449
 [/us/usc/t5/s5561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5561
-[/us/pl/99/576/s306/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2Fs306%2Fb
+[/us/pl/99/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576
 [/us/usc/t38/s1412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1412
 [/us/pl/110/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F252
 [/us/pl/110/252/s5003/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F252%2Fs5003%2Fd

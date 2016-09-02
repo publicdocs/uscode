@@ -65,7 +65,7 @@
 
         (2) all other reasonable educational expenses, including fees, books, and laboratory expenses.
 
-(Added [Pub. L. 109–461, title IX, § 903(a)(1)][/us/pl/109/461/s903/a/1], Dec. 22, 2006, [120 Stat. 3462][/us/stat/120/3462]; amended [Pub. L. 111–275, title X, § 1001][/us/pl/111/275/s1001](o), Oct. 13, 2010, [124 Stat. 2897][/us/stat/124/2897].)
+(Added [Pub. L. 109–461, title IX][/us/pl/109/461/tIX], § 903(a)(1), Dec. 22, 2006, [120 Stat. 3462][/us/stat/120/3462]; amended [Pub. L. 111–275, title X][/us/pl/111/275/tX], § 1001(o), Oct. 13, 2010, [124 Stat. 2897][/us/stat/124/2897].)
 
  __Amendments__ 
 
@@ -78,9 +78,9 @@
 ----------
 ----------
 
-[/us/pl/109/461/s903/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461%2Fs903%2Fa%2F1
+[/us/pl/109/461/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461%2FtIX
 [/us/stat/120/3462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3462
-[/us/pl/111/275/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275%2Fs1001
+[/us/pl/111/275/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275%2FtX
 [/us/stat/124/2897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2897
 [/us/pl/111/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275
 

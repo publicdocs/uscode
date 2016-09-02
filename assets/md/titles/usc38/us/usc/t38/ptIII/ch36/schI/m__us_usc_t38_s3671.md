@@ -23,15 +23,15 @@
 
         (2) Except as otherwise provided in this chapter, in the case of courses subject to approval by the Secretary under [section 3672 of this title][/us/usc/t38/s3672], the provisions of this chapter which refer to a State approving agency shall be deemed to refer to the Secretary.
 
-(Added [Pub. L. 88–126, § 1][/us/pl/88/126/s1], Sept. 23, 1963, [77 Stat. 158][/us/stat/77/158], § 1771; amended [Pub. L. 89–358, § 3(a)(6)][/us/pl/89/358/s3/a/6], Mar. 3, 1966, [80 Stat. 20][/us/stat/80/20]; [Pub. L. 92–540, title IV, § 403(2)][/us/pl/92/540/s403/2], Oct. 24, 1972, [86 Stat. 1090][/us/stat/86/1090]; [Pub. L. 94–502, title V, § 513(a)(1)][/us/pl/94/502/s513/a/1], Oct. 15, 1976, [90 Stat. 2402][/us/stat/90/2402]; [Pub. L. 100–323, § 13(b)(4)][/us/pl/100/323/s13/b/4], May 20, 1988, [102 Stat. 573][/us/stat/102/573]; [Pub. L. 101–237, title IV, § 423(b)(1)(A)][/us/pl/101/237/s423/b/1/A], Dec. 18, 1989, [103 Stat. 2092][/us/stat/103/2092]; renumbered § 3671 and amended [Pub. L. 102–83, § 5(a)][/us/pl/102/83/s5/a], (c)(1), Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406]; [Pub. L. 111–377, title II, § 203(a)(2)(B)][/us/pl/111/377/s203/a/2/B], Jan. 4, 2011, [124 Stat. 4125][/us/stat/124/4125].)
+(Added [Pub. L. 88–126][/us/pl/88/126], § 1, Sept. 23, 1963, [77 Stat. 158][/us/stat/77/158], § 1771; amended [Pub. L. 89–358][/us/pl/89/358], § 3(a)(6), Mar. 3, 1966, [80 Stat. 20][/us/stat/80/20]; [Pub. L. 92–540, title IV][/us/pl/92/540/tIV], § 403(2), Oct. 24, 1972, [86 Stat. 1090][/us/stat/86/1090]; [Pub. L. 94–502, title V][/us/pl/94/502/tV], § 513(a)(1), Oct. 15, 1976, [90 Stat. 2402][/us/stat/90/2402]; [Pub. L. 100–323][/us/pl/100/323], § 13(b)(4), May 20, 1988, [102 Stat. 573][/us/stat/102/573]; [Pub. L. 101–237, title IV][/us/pl/101/237/tIV], § 423(b)(1)(A), Dec. 18, 1989, [103 Stat. 2092][/us/stat/103/2092]; renumbered § 3671 and amended [Pub. L. 102–83][/us/pl/102/83], § 5(a), (c)(1), Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406]; [Pub. L. 111–377, title II][/us/pl/111/377/tII], § 203(a)(2)(B), Jan. 4, 2011, [124 Stat. 4125][/us/stat/124/4125].)
 
  __Amendments__ 
 
     2011—Subsec. (b)(2). [Pub. L. 111–377][/us/pl/111/377] substituted “Except as otherwise provided in this chapter, in the case” for “In the case”.
 
-    1991—[Pub. L. 102–83, § 5(a)][/us/pl/102/83/s5/a], renumbered [section 1771 of this title][/us/usc/t38/s1771] as this section.
+    1991—[Pub. L. 102–83][/us/pl/102/83], § 5(a), renumbered [section 1771 of this title][/us/usc/t38/s1771] as this section.
 
-    Subsec. (b). [Pub. L. 102–83, § 5(c)(1)][/us/pl/102/83/s5/c/1], substituted “3674(a)” for “1774(a)” in par. (1) and “3672” for “1772” in par. (2).
+    Subsec. (b). [Pub. L. 102–83][/us/pl/102/83], § 5(c)(1), substituted “3674(a)” for “1774(a)” in par. (1) and “3672” for “1772” in par. (2).
 
     1989—Subsec. (b). [Pub. L. 101–237][/us/pl/101/237] substituted “Secretary” for “Administrator” wherever appearing.
 
@@ -59,26 +59,26 @@
 ----------
 
 [/us/usc/t38/s3672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3672
-[/us/pl/88/126/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F126%2Fs1
+[/us/pl/88/126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F126
 [/us/stat/77/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F158
-[/us/pl/89/358/s3/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F358%2Fs3%2Fa%2F6
+[/us/pl/89/358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F358
 [/us/stat/80/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F20
-[/us/pl/92/540/s403/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F540%2Fs403%2F2
+[/us/pl/92/540/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F540%2FtIV
 [/us/stat/86/1090]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1090
-[/us/pl/94/502/s513/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F502%2Fs513%2Fa%2F1
+[/us/pl/94/502/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F502%2FtV
 [/us/stat/90/2402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2402
-[/us/pl/100/323/s13/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F323%2Fs13%2Fb%2F4
+[/us/pl/100/323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F323
 [/us/stat/102/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F573
-[/us/pl/101/237/s423/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237%2Fs423%2Fb%2F1%2FA
+[/us/pl/101/237/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237%2FtIV
 [/us/stat/103/2092]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2092
-[/us/pl/102/83/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fa
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F406
-[/us/pl/111/377/s203/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F377%2Fs203%2Fa%2F2%2FB
+[/us/pl/111/377/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F377%2FtII
 [/us/stat/124/4125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4125
 [/us/pl/111/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F377
-[/us/pl/102/83/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fa
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/usc/t38/s1771]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1771
-[/us/pl/102/83/s5/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fc%2F1
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/pl/101/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237
 [/us/pl/100/323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F323
 [/us/pl/94/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F502

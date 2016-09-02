@@ -31,7 +31,7 @@
 
         (4) Apply other requirements with respect to such revenue cycle improvement as the Secretary may specify.
 
-(Added [Pub. L. 110–387, title IV, § 406(a)][/us/pl/110/387/s406/a], Oct. 10, 2008, [122 Stat. 4129][/us/stat/122/4129].)
+(Added [Pub. L. 110–387, title IV][/us/pl/110/387/tIV], § 406(a), Oct. 10, 2008, [122 Stat. 4129][/us/stat/122/4129].)
 
  __References in Text__ 
 
@@ -39,11 +39,11 @@
 
  __Prior Provisions__ 
 
-    A prior section 1729B, added [Pub. L. 106–117, title II, § 202(a)][/us/pl/106/117/s202/a], Nov. 30, 1999, [113 Stat. 1561][/us/stat/113/1561]; amended [Pub. L. 107–103, title V, § 509(c)][/us/pl/107/103/s509/c], Dec. 27, 2001, [115 Stat. 997][/us/stat/115/997]; [Pub. L. 107–330, title III, § 308(g)(7)][/us/pl/107/330/s308/g/7], Dec. 6, 2002, [116 Stat. 2829][/us/stat/116/2829], related to the Department of Veterans Affairs Health Services Improvement Fund, prior to repeal by [Pub. L. 108–7, div. K, title I, § 113(a)(1)][/us/pl/108/7/s113/a/1], Feb. 20, 2003, [117 Stat. 482][/us/stat/117/482].
+    A prior section 1729B, added [Pub. L. 106–117, title II][/us/pl/106/117/tII], § 202(a), Nov. 30, 1999, [113 Stat. 1561][/us/stat/113/1561]; amended [Pub. L. 107–103, title V][/us/pl/107/103/tV], § 509(c), Dec. 27, 2001, [115 Stat. 997][/us/stat/115/997]; [Pub. L. 107–330, title III][/us/pl/107/330/tIII], § 308(g)(7), Dec. 6, 2002, [116 Stat. 2829][/us/stat/116/2829], related to the Department of Veterans Affairs Health Services Improvement Fund, prior to repeal by [Pub. L. 108–7, div. K, title I][/us/pl/108/7/dK/tI], § 113(a)(1), Feb. 20, 2003, [117 Stat. 482][/us/stat/117/482].
 
  __Transfer of Balance__ 
 
-    [Pub. L. 108–7, div. K, title I, § 113(a)(1)][/us/pl/108/7/s113/a/1], Feb. 20, 2003, [117 Stat. 482][/us/stat/117/482], repealed former [section 1729B of this title][/us/usc/t38/s1729B] and provided that any balance as of Feb. 20, 2003, in the Department of Veterans Affairs Health Services Improvement Fund established under former section 1729B was to be transferred to the Department of Veterans Affairs Medical Care Collections Fund established under [section 1729A of this title][/us/usc/t38/s1729A].
+    [Pub. L. 108–7, div. K, title I][/us/pl/108/7/dK/tI], § 113(a)(1), Feb. 20, 2003, [117 Stat. 482][/us/stat/117/482], repealed former [section 1729B of this title][/us/usc/t38/s1729B] and provided that any balance as of Feb. 20, 2003, in the Department of Veterans Affairs Health Services Improvement Fund established under former section 1729B was to be transferred to the Department of Veterans Affairs Medical Care Collections Fund established under [section 1729A of this title][/us/usc/t38/s1729A].
 
 ----------
 
@@ -52,18 +52,18 @@
 ----------
 ----------
 
-[/us/pl/110/387/s406/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F387%2Fs406%2Fa
+[/us/pl/110/387/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F387%2FtIV
 [/us/stat/122/4129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4129
 [/us/pl/110/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F387
-[/us/pl/106/117/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117%2Fs202%2Fa
+[/us/pl/106/117/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117%2FtII
 [/us/stat/113/1561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1561
-[/us/pl/107/103/s509/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F103%2Fs509%2Fc
+[/us/pl/107/103/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F103%2FtV
 [/us/stat/115/997]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F997
-[/us/pl/107/330/s308/g/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F330%2Fs308%2Fg%2F7
+[/us/pl/107/330/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F330%2FtIII
 [/us/stat/116/2829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2829
-[/us/pl/108/7/s113/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs113%2Fa%2F1
+[/us/pl/108/7/dK/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2FdK%2FtI
 [/us/stat/117/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F482
-[/us/pl/108/7/s113/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs113%2Fa%2F1
+[/us/pl/108/7/dK/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2FdK%2FtI
 [/us/stat/117/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F482
 [/us/usc/t38/s1729B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1729B
 [/us/usc/t38/s1729A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1729A

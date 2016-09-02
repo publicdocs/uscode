@@ -21,7 +21,7 @@
 
     (2) any other person having been appointed in a representative capacity to receive money paid under any of the laws administered by the Secretary for the use and benefit of a minor, incompetent, or other beneficiary.
 
-(Added [Pub. L. 108–454, title V, § 501(a)(1)][/us/pl/108/454/s501/a/1], Dec. 10, 2004, [118 Stat. 3617][/us/stat/118/3617].)
+(Added [Pub. L. 108–454, title V][/us/pl/108/454/tV], § 501(a)(1), Dec. 10, 2004, [118 Stat. 3617][/us/stat/118/3617].)
 
  __Effective Date__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/108/454/s501/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F454%2Fs501%2Fa%2F1
+[/us/pl/108/454/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F454%2FtV
 [/us/stat/118/3617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3617
 [/us/pl/108/454/s507/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F454%2Fs507%2Fa
 [/us/usc/t38/s5312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs5312

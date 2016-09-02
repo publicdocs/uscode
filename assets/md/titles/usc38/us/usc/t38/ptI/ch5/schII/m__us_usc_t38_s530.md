@@ -29,7 +29,7 @@
 
     (c) This section shall expire on January 1, 2009.
 
-(Added [Pub. L. 105–368, title IX, § 906(a)][/us/pl/105/368/s906/a], Nov. 11, 1998, [112 Stat. 3361][/us/stat/112/3361].)
+(Added [Pub. L. 105–368, title IX][/us/pl/105/368/tIX], § 906(a), Nov. 11, 1998, [112 Stat. 3361][/us/stat/112/3361].)
 
 ----------
 
@@ -39,7 +39,7 @@
 ----------
 
 [/us/usc/t31/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105
-[/us/pl/105/368/s906/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2Fs906%2Fa
+[/us/pl/105/368/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2FtIX
 [/us/stat/112/3361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3361
 
 

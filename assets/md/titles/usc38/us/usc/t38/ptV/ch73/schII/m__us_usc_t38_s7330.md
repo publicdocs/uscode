@@ -91,7 +91,7 @@
 
     Activities of clinical and scientific investigation at each center established under subsection (a) shall be eligible to compete for the award of funding from funds appropriated for the Department medical and prosthetics research account. Such activities shall receive priority in the award of funding from such account insofar as funds are awarded to projects for research in multiple sclerosis and other neurodegenerative disorders.
 
-(Added [Pub. L. 109–461, title II, § 209(a)(1)][/us/pl/109/461/s209/a/1], Dec. 22, 2006, [120 Stat. 3416][/us/stat/120/3416].)
+(Added [Pub. L. 109–461, title II][/us/pl/109/461/tII], § 209(a)(1), Dec. 22, 2006, [120 Stat. 3416][/us/stat/120/3416].)
 
  __References in Text__ 
 
@@ -99,7 +99,7 @@
 
  __Codification__ 
 
-    A substantially identical section enacted by [Pub. L. 109–444, § 6(a)(1)][/us/pl/109/444/s6/a/1], Dec. 21, 2006, [120 Stat. 3310][/us/stat/120/3310], was repealed by [Pub. L. 109–461, title X, § 1006(b)][/us/pl/109/461/s1006/b], Dec. 22, 2006, [120 Stat. 3468][/us/stat/120/3468], set out as a Coordination of Provisions With [Pub. L. 109–444][/us/pl/109/444] note under [section 101 of this title][/us/usc/t38/s101].
+    A substantially identical section enacted by [Pub. L. 109–444][/us/pl/109/444], § 6(a)(1), Dec. 21, 2006, [120 Stat. 3310][/us/stat/120/3310], was repealed by [Pub. L. 109–461, title X][/us/pl/109/461/tX], § 1006(b), Dec. 22, 2006, [120 Stat. 3468][/us/stat/120/3468], set out as a Coordination of Provisions With [Pub. L. 109–444][/us/pl/109/444] note under [section 101 of this title][/us/usc/t38/s101].
 
  __Effective Date__ 
 
@@ -112,13 +112,13 @@
 ----------
 ----------
 
-[/us/pl/109/461/s209/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461%2Fs209%2Fa%2F1
+[/us/pl/109/461/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461%2FtII
 [/us/stat/120/3416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3416
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770
-[/us/pl/109/444/s6/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F444%2Fs6%2Fa%2F1
+[/us/pl/109/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F444
 [/us/stat/120/3310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3310
-[/us/pl/109/461/s1006/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461%2Fs1006%2Fb
+[/us/pl/109/461/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461%2FtX
 [/us/stat/120/3468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3468
 [/us/pl/109/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F444
 [/us/usc/t38/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs101

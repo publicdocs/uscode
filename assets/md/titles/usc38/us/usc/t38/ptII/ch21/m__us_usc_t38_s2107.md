@@ -17,7 +17,7 @@
 
     The Secretary shall provide for the coordination of the administration of programs to provide specially adapted housing that are administered by the Under Secretary for Health and such programs that are administered by the Under Secretary for Benefits under this chapter, chapter 17, and chapter 31 of this title.
 
-(Added [Pub. L. 109–233, title I, § 101(c)][/us/pl/109/233/s101/c], June 15, 2006, [120 Stat. 399][/us/stat/120/399].)
+(Added [Pub. L. 109–233, title I][/us/pl/109/233/tI], § 101(c), June 15, 2006, [120 Stat. 399][/us/stat/120/399].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/109/233/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F233%2Fs101%2Fc
+[/us/pl/109/233/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F233%2FtI
 [/us/stat/120/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F399
 
 

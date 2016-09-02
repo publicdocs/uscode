@@ -53,7 +53,7 @@
 
         (2) The term “dependency and indemnity compensation” means death compensation payable under section 1121 or 1141 of this title, death compensation and dependency and indemnity compensation payable under [section 1151 of this title][/us/usc/t38/s1151], and any benefit payable under chapter 13 of this title.
 
-(Added [Pub. L. 96–385, title V, § 504(a)][/us/pl/96/385/s504/a], Oct. 7, 1980, [94 Stat. 1534][/us/stat/94/1534], § 3113; amended [Pub. L. 98–160, title VII, § 702(17)][/us/pl/98/160/s702/17], Nov. 21, 1983, [97 Stat. 1010][/us/stat/97/1010]; renumbered § 5313 and amended [Pub. L. 102–40, title IV, § 402(b)(1)][/us/pl/102/40/s402/b/1], (d)(1), May 7, 1991, [105 Stat. 238][/us/stat/105/238], 239; [Pub. L. 102–83][/us/pl/102/83], §§ 4(b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, [105 Stat. 404–406][/us/stat/105/404-406]; [Pub. L. 105–368, title X, § 1005(b)(16)][/us/pl/105/368/s1005/b/16], Nov. 11, 1998, [112 Stat. 3365][/us/stat/112/3365]; [Pub. L. 109–461, title X, § 1002(f)][/us/pl/109/461/s1002/f], Dec. 22, 2006, [120 Stat. 3465][/us/stat/120/3465].)
+(Added [Pub. L. 96–385, title V][/us/pl/96/385/tV], § 504(a), Oct. 7, 1980, [94 Stat. 1534][/us/stat/94/1534], § 3113; amended [Pub. L. 98–160, title VII][/us/pl/98/160/tVII], § 702(17), Nov. 21, 1983, [97 Stat. 1010][/us/stat/97/1010]; renumbered § 5313 and amended [Pub. L. 102–40, title IV][/us/pl/102/40/tIV], § 402(b)(1), (d)(1), May 7, 1991, [105 Stat. 238][/us/stat/105/238], 239; [Pub. L. 102–83][/us/pl/102/83], §§ 4(b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, [105 Stat. 404–406][/us/stat/105/404-406]; [Pub. L. 105–368, title X][/us/pl/105/368/tX], § 1005(b)(16), Nov. 11, 1998, [112 Stat. 3365][/us/stat/112/3365]; [Pub. L. 109–461, title X][/us/pl/109/461/tX], § 1002(f), Dec. 22, 2006, [120 Stat. 3465][/us/stat/120/3465].)
 
  __Amendments__ 
 
@@ -61,15 +61,15 @@
 
     1998—Subsec. (d)(1). [Pub. L. 105–368][/us/pl/105/368] substituted “October 7, 1980,” for “the date of the enactment of this section,”.
 
-    1991—[Pub. L. 102–40, § 402(b)(1)][/us/pl/102/40/s402/b/1], renumbered [section 3113 of this title][/us/usc/t38/s3113] as this section.
+    1991—[Pub. L. 102–40][/us/pl/102/40], § 402(b)(1), renumbered [section 3113 of this title][/us/usc/t38/s3113] as this section.
 
-    Subsec. (a)(1). [Pub. L. 102–83, § 5(c)(1)][/us/pl/102/83/s5/c/1], substituted “1114(a)” for “314(a)” in subpars. (A) and (B).
+    Subsec. (a)(1). [Pub. L. 102–83][/us/pl/102/83], § 5(c)(1), substituted “1114(a)” for “314(a)” in subpars. (A) and (B).
 
-    Subsec. (b)(1). [Pub. L. 102–40, § 402(d)(1)][/us/pl/102/40/s402/d/1], substituted “5307” for “3107”.
+    Subsec. (b)(1). [Pub. L. 102–40][/us/pl/102/40], § 402(d)(1), substituted “5307” for “3107”.
 
-    Subsec. (c). [Pub. L. 102–83, § 4(b)(1)][/us/pl/102/83/s4/b/1], (2)(E), substituted “Secretary” for “Administrator”.
+    Subsec. (c). [Pub. L. 102–83][/us/pl/102/83], § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
-    Subsec. (e). [Pub. L. 102–83, § 5(c)(1)][/us/pl/102/83/s5/c/1], substituted “1151” for “351” in par. (1) and “1121”, “1141”, and “1151” for “321”, “341”, and “351”, respectively, in par. (2).
+    Subsec. (e). [Pub. L. 102–83][/us/pl/102/83], § 5(c)(1), substituted “1151” for “351” in par. (1) and “1121”, “1141”, and “1151” for “321”, “341”, and “351”, respectively, in par. (2).
 
     1983—Subsec. (a)(2). [Pub. L. 98–160][/us/pl/98/160] substituted “paragraph (1) of this subsection” for “paragraph (1) of this section”.
 
@@ -79,7 +79,7 @@
 
  __Limitation on Payment of Compensation for Veterans Remaining Incarcerated Since__  __October 7, 1980__ 
 
-[Pub. L. 107–103, title V, § 506][/us/pl/107/103/s506], Dec. 27, 2001, [115 Stat. 996][/us/stat/115/996], provided that:
+[Pub. L. 107–103, title V][/us/pl/107/103/tV], § 506, Dec. 27, 2001, [115 Stat. 996][/us/stat/115/996], provided that:
 
 >     “(a)  __Limitation__  __.—__ 
 
@@ -113,30 +113,30 @@
 [/us/usc/t38/s5307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs5307
 [/us/usc/t38/s1151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1151
 [/us/usc/t38/s1151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1151
-[/us/pl/96/385/s504/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F385%2Fs504%2Fa
+[/us/pl/96/385/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F385%2FtV
 [/us/stat/94/1534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1534
-[/us/pl/98/160/s702/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F160%2Fs702%2F17
+[/us/pl/98/160/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F160%2FtVII
 [/us/stat/97/1010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1010
-[/us/pl/102/40/s402/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs402%2Fb%2F1
+[/us/pl/102/40/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2FtIV
 [/us/stat/105/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F238
 [/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/404-406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F404-406
-[/us/pl/105/368/s1005/b/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2Fs1005%2Fb%2F16
+[/us/pl/105/368/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2FtX
 [/us/stat/112/3365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3365
-[/us/pl/109/461/s1002/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461%2Fs1002%2Ff
+[/us/pl/109/461/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461%2FtX
 [/us/stat/120/3465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3465
 [/us/pl/109/461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461
 [/us/pl/105/368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368
-[/us/pl/102/40/s402/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs402%2Fb%2F1
+[/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40
 [/us/usc/t38/s3113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3113
-[/us/pl/102/83/s5/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fc%2F1
-[/us/pl/102/40/s402/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs402%2Fd%2F1
-[/us/pl/102/83/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fb%2F1
-[/us/pl/102/83/s5/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fc%2F1
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/pl/98/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F160
 [/us/pl/96/385/s601/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F385%2Fs601%2Fd
 [/us/usc/t38/s1114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1114
-[/us/pl/107/103/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F103%2Fs506
+[/us/pl/107/103/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F103%2FtV
 [/us/stat/115/996]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F996
 [/us/usc/t38/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs5313
 [/us/usc/t38/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs5313

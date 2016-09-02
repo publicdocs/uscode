@@ -35,7 +35,7 @@
 
     (b) The monthly rate of death compensation payable to a surviving spouse or dependent parent under subsection (a) of this section shall be increased by $79 if the payee is (1) a patient in a nursing home or (2) blind, or so nearly blind or significantly disabled as to need or require the regular aid and attendance of another person.
 
-([Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1122][/us/stat/72/1122], § 322; [Pub. L. 91–96, § 7][/us/pl/91/96/s7], Oct. 27, 1969, [83 Stat. 146][/us/stat/83/146]; [Pub. L. 91–588, § 3(a)][/us/pl/91/588/s3/a], Dec. 24, 1970, [84 Stat. 1583][/us/stat/84/1583]; [Pub. L. 92–197, § 9][/us/pl/92/197/s9], Dec. 15, 1971, [85 Stat. 662][/us/stat/85/662]; [Pub. L. 93–295, title II, § 204][/us/pl/93/295/s204], May 31, 1974, [88 Stat. 183][/us/stat/88/183]; [Pub. L. 94–169, title II, § 202][/us/pl/94/169/s202], Dec. 23, 1975, [89 Stat. 1021][/us/stat/89/1021]; [Pub. L. 94–432, title IV, § 401][/us/pl/94/432/s401], Sept. 30, 1976, [90 Stat. 1372][/us/stat/90/1372]; [Pub. L. 94–433, title IV, § 404(13)][/us/pl/94/433/s404/13]–(17), Sept. 30, 1976, [90 Stat. 1378][/us/stat/90/1378], 1379; [Pub. L. 95–204, title III, § 301][/us/pl/95/204/s301], Dec. 2, 1977, [91 Stat. 1459][/us/stat/91/1459]; renumbered § 1122, [Pub. L. 102–83, § 5(a)][/us/pl/102/83/s5/a], Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406]; [Pub. L. 109–233, title V, § 502(3)][/us/pl/109/233/s502/3], June 15, 2006, [120 Stat. 415][/us/stat/120/415].)
+([Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1122][/us/stat/72/1122], § 322; [Pub. L. 91–96][/us/pl/91/96], § 7, Oct. 27, 1969, [83 Stat. 146][/us/stat/83/146]; [Pub. L. 91–588][/us/pl/91/588], § 3(a), Dec. 24, 1970, [84 Stat. 1583][/us/stat/84/1583]; [Pub. L. 92–197][/us/pl/92/197], § 9, Dec. 15, 1971, [85 Stat. 662][/us/stat/85/662]; [Pub. L. 93–295, title II][/us/pl/93/295/tII], § 204, May 31, 1974, [88 Stat. 183][/us/stat/88/183]; [Pub. L. 94–169, title II][/us/pl/94/169/tII], § 202, Dec. 23, 1975, [89 Stat. 1021][/us/stat/89/1021]; [Pub. L. 94–432, title IV][/us/pl/94/432/tIV], § 401, Sept. 30, 1976, [90 Stat. 1372][/us/stat/90/1372]; [Pub. L. 94–433, title IV][/us/pl/94/433/tIV], § 404(13)–(17), Sept. 30, 1976, [90 Stat. 1378][/us/stat/90/1378], 1379; [Pub. L. 95–204, title III][/us/pl/95/204/tIII], § 301, Dec. 2, 1977, [91 Stat. 1459][/us/stat/91/1459]; renumbered § 1122, [Pub. L. 102–83][/us/pl/102/83], § 5(a), Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406]; [Pub. L. 109–233, title V][/us/pl/109/233/tV], § 502(3), June 15, 2006, [120 Stat. 415][/us/stat/120/415].)
 
  __Amendments__ 
 
@@ -45,9 +45,9 @@
 
     1977—Subsec. (b). [Pub. L. 95–204][/us/pl/95/204] substituted “$79” for “$74”.
 
-    1976—Subsec. (a). [Pub. L. 94–433, § 404(13)][/us/pl/94/433/s404/13]–(16), substituted “Surviving spouse” for “Widow” in pars. (1) and (2); “surviving spouse” for “widow” in pars. (3), (4), and (5); “parent” for “mother or father” in par. (6); and “Both dependent parents” for “Dependent mother and father” in par. (7).
+    1976—Subsec. (a). [Pub. L. 94–433][/us/pl/94/433], § 404(13)–(16), substituted “Surviving spouse” for “Widow” in pars. (1) and (2); “surviving spouse” for “widow” in pars. (3), (4), and (5); “parent” for “mother or father” in par. (6); and “Both dependent parents” for “Dependent mother and father” in par. (7).
 
-    Subsec. (b). [Pub. L. 94–433, § 404(17)][/us/pl/94/433/s404/17], substituted “surviving spouse” for “widow”.
+    Subsec. (b). [Pub. L. 94–433][/us/pl/94/433], § 404(17), substituted “surviving spouse” for “widow”.
 
     [Pub. L. 94–432][/us/pl/94/432] substituted “$74” for “$69”.
 
@@ -63,7 +63,7 @@
 
  __Effective Date of 1977 Amendment__ 
 
-[Pub. L. 95–204, title III, § 302][/us/pl/95/204/s302], Dec. 2, 1977, [91 Stat. 1459][/us/stat/91/1459], provided that: 
+[Pub. L. 95–204, title III][/us/pl/95/204/tIII], § 302, Dec. 2, 1977, [91 Stat. 1459][/us/stat/91/1459], provided that: 
 
 > “The provisions of this Act \[see Tables for classification\] shall take effect January 1, 1978.”
 
@@ -75,7 +75,7 @@
 
  __Effective Date of 1975 Amendment__ 
 
-    [Pub. L. 94–169, title II, § 202][/us/pl/94/169/s202], Dec. 23, 1975, [89 Stat. 1021][/us/stat/89/1021], as amended by [section 101 of Pub. L. 94–432][/us/pl/94/432/s101], eff. Sept. 30, 1976, provided that the amendment made by that section is effective Jan. 1, 1976.
+    [Pub. L. 94–169, title II][/us/pl/94/169/tII], § 202, Dec. 23, 1975, [89 Stat. 1021][/us/stat/89/1021], as amended by [section 101 of Pub. L. 94–432][/us/pl/94/432/s101], eff. Sept. 30, 1976, provided that the amendment made by that section is effective Jan. 1, 1976.
 
  __Effective Date of 1974 Amendment__ 
 
@@ -102,39 +102,39 @@
 
 [/us/pl/85/857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F857
 [/us/stat/72/1122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1122
-[/us/pl/91/96/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F96%2Fs7
+[/us/pl/91/96]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F96
 [/us/stat/83/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F146
-[/us/pl/91/588/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F588%2Fs3%2Fa
+[/us/pl/91/588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F588
 [/us/stat/84/1583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1583
-[/us/pl/92/197/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F197%2Fs9
+[/us/pl/92/197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F197
 [/us/stat/85/662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F662
-[/us/pl/93/295/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F295%2Fs204
+[/us/pl/93/295/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F295%2FtII
 [/us/stat/88/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F183
-[/us/pl/94/169/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F169%2Fs202
+[/us/pl/94/169/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F169%2FtII
 [/us/stat/89/1021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F1021
-[/us/pl/94/432/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F432%2Fs401
+[/us/pl/94/432/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F432%2FtIV
 [/us/stat/90/1372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1372
-[/us/pl/94/433/s404/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F433%2Fs404%2F13
+[/us/pl/94/433/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F433%2FtIV
 [/us/stat/90/1378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1378
-[/us/pl/95/204/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F204%2Fs301
+[/us/pl/95/204/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F204%2FtIII
 [/us/stat/91/1459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1459
-[/us/pl/102/83/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fa
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F406
-[/us/pl/109/233/s502/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F233%2Fs502%2F3
+[/us/pl/109/233/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F233%2FtV
 [/us/stat/120/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F415
 [/us/pl/109/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F233
 [/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/usc/t38/s322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs322
 [/us/pl/95/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F204
-[/us/pl/94/433/s404/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F433%2Fs404%2F13
-[/us/pl/94/433/s404/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F433%2Fs404%2F17
+[/us/pl/94/433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F433
+[/us/pl/94/433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F433
 [/us/pl/94/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F432
 [/us/pl/94/169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F169
 [/us/pl/93/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F295
 [/us/pl/92/197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F197
 [/us/pl/91/588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F588
 [/us/pl/91/96]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F96
-[/us/pl/95/204/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F204%2Fs302
+[/us/pl/95/204/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F204%2FtIII
 [/us/stat/91/1459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1459
 [/us/pl/94/433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F433
 [/us/pl/94/433/s406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F433%2Fs406
@@ -142,7 +142,7 @@
 [/us/pl/94/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F432
 [/us/pl/94/432/s405/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F432%2Fs405%2Fb
 [/us/usc/t38/s1521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1521
-[/us/pl/94/169/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F169%2Fs202
+[/us/pl/94/169/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F169%2FtII
 [/us/stat/89/1021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F1021
 [/us/pl/94/432/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F432%2Fs101
 [/us/pl/93/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F295

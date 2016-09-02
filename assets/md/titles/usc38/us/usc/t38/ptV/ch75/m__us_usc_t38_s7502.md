@@ -33,7 +33,7 @@
 
         (2) An individual becomes a participant in the scholarship program upon such approval by the Secretary.
 
-(Added [Pub. L. 111–163, title III, § 302(a)][/us/pl/111/163/s302/a], May 5, 2010, [124 Stat. 1147][/us/stat/124/1147].)
+(Added [Pub. L. 111–163, title III][/us/pl/111/163/tIII], § 302(a), May 5, 2010, [124 Stat. 1147][/us/stat/124/1147].)
 
 ----------
 
@@ -43,7 +43,7 @@
 ----------
 
 [/us/usc/t38/s7504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7504
-[/us/pl/111/163/s302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163%2Fs302%2Fa
+[/us/pl/111/163/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163%2FtIII
 [/us/stat/124/1147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1147
 
 

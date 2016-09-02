@@ -17,7 +17,7 @@
 
  __Amendments__ 
 
-    2001—[Pub. L. 107–95, § 5(b)(1)][/us/pl/107/95/s5/b/1], Dec. 21, 2001, [115 Stat. 918][/us/stat/115/918], redesignated subchapter VII of chapter 17 of this title as this subchapter.
+    2001—[Pub. L. 107–95][/us/pl/107/95], § 5(b)(1), Dec. 21, 2001, [115 Stat. 918][/us/stat/115/918], redesignated subchapter VII of chapter 17 of this title as this subchapter.
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/107/95/s5/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F95%2Fs5%2Fb%2F1
+[/us/pl/107/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F95
 [/us/stat/115/918]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F918
 
 

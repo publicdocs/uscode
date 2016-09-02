@@ -69,7 +69,7 @@
 
             (B) give priority to residency positions and programs in primary care, mental health, and any other specialty the Secretary determines appropriate.
 
-(Added [Pub. L. 102–40, title IV, § 401(a)(3)][/us/pl/102/40/s401/a/3], May 7, 1991, [105 Stat. 211][/us/stat/105/211]; amended [Pub. L. 113–146, title III, § 301(b)(1)][/us/pl/113/146/s301/b/1], Aug. 7, 2014, [128 Stat. 1784][/us/stat/128/1784].)
+(Added [Pub. L. 102–40, title IV][/us/pl/102/40/tIV], § 401(a)(3), May 7, 1991, [105 Stat. 211][/us/stat/105/211]; amended [Pub. L. 113–146, title III][/us/pl/113/146/tIII], § 301(b)(1), Aug. 7, 2014, [128 Stat. 1784][/us/stat/128/1784].)
 
  __Amendments__ 
 
@@ -77,7 +77,7 @@
 
  __Five-Year Increase__ 
 
-[Pub. L. 113–146, title III, § 301(b)(2)][/us/pl/113/146/s301/b/2], Aug. 7, 2014, [128 Stat. 1785][/us/stat/128/1785], provided that:
+[Pub. L. 113–146, title III][/us/pl/113/146/tIII], § 301(b)(2), Aug. 7, 2014, [128 Stat. 1785][/us/stat/128/1785], provided that:
 
 >     “(A)  __In general__  __.—__ 
 
@@ -102,12 +102,12 @@
 
 [/us/usc/t42/s254e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs254e
 [/us/usc/t38/s7412/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7412%2Fa
-[/us/pl/102/40/s401/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs401%2Fa%2F3
+[/us/pl/102/40/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2FtIV
 [/us/stat/105/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F211
-[/us/pl/113/146/s301/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F146%2Fs301%2Fb%2F1
+[/us/pl/113/146/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F146%2FtIII
 [/us/stat/128/1784]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1784
 [/us/pl/113/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F146
-[/us/pl/113/146/s301/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F146%2Fs301%2Fb%2F2
+[/us/pl/113/146/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F146%2FtIII
 [/us/stat/128/1785]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1785
 [/us/usc/t38/s7302/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7302%2Fe
 [/us/pl/113/146/s301/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F146%2Fs301%2Fb%2F2

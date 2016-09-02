@@ -13,9 +13,9 @@
 
 [Previous](./../../../../../..//us/usc/t38/ptV/ch76/schVII/m__us_usc_t38_s7683.md) | [Next](./../../../../../..//us/usc/t38/ptV/ch77/m__us_usc_t38_ptV_ch77.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7684)
 
-## \[§ 7684. Repealed. [Pub. L. 107–135, title I, § 102(a)(1)][/us/pl/107/135/s102/a/1], Jan. 23, 2002, [115 Stat. 2448][/us/stat/115/2448]\]
+## \[§ 7684. Repealed. [Pub. L. 107–135, title I][/us/pl/107/135/tI], § 102(a)(1), Jan. 23, 2002, [115 Stat. 2448][/us/stat/115/2448]\]
 
-    Section, added [Pub. L. 105–368, title VIII, § 803(a)][/us/pl/105/368/s803/a], Nov. 11, 1998, [112 Stat. 3358][/us/stat/112/3358], provided that the Secretary could not make education debt reduction payments to individuals who had not commenced participation in the Education Debt Reduction Program before Dec. 31, 2001.
+    Section, added [Pub. L. 105–368, title VIII][/us/pl/105/368/tVIII], § 803(a), Nov. 11, 1998, [112 Stat. 3358][/us/stat/112/3358], provided that the Secretary could not make education debt reduction payments to individuals who had not commenced participation in the Education Debt Reduction Program before Dec. 31, 2001.
 
 ----------
 
@@ -24,9 +24,9 @@
 ----------
 ----------
 
-[/us/pl/107/135/s102/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F135%2Fs102%2Fa%2F1
+[/us/pl/107/135/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F135%2FtI
 [/us/stat/115/2448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2448
-[/us/pl/105/368/s803/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2Fs803%2Fa
+[/us/pl/105/368/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2FtVIII
 [/us/stat/112/3358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3358
 
 

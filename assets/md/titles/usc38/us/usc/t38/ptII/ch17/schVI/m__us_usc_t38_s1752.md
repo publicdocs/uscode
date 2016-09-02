@@ -17,7 +17,7 @@
 
     The Secretary is authorized to carry out research and research training in the diagnosis, treatment, and control of sickle cell anemia based upon the screening examinations and treatment provided under this subchapter.
 
-(Added [Pub. L. 93–82, title I, § 109(a)][/us/pl/93/82/s109/a], Aug. 2, 1973, [87 Stat. 186][/us/stat/87/186], § 652; renumbered § 1752 and amended [Pub. L. 102–83][/us/pl/102/83], §§ 4(b)(1), (2)(E), 5(a), Aug. 6, 1991, [105 Stat. 404–406][/us/stat/105/404-406].)
+(Added [Pub. L. 93–82, title I][/us/pl/93/82/tI], § 109(a), Aug. 2, 1973, [87 Stat. 186][/us/stat/87/186], § 652; renumbered § 1752 and amended [Pub. L. 102–83][/us/pl/102/83], §§ 4(b)(1), (2)(E), 5(a), Aug. 6, 1991, [105 Stat. 404–406][/us/stat/105/404-406].)
 
  __Amendments__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/93/82/s109/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F82%2Fs109%2Fa
+[/us/pl/93/82/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F82%2FtI
 [/us/stat/87/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F186
 [/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/404-406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F404-406

@@ -61,39 +61,39 @@
 
         (3) a report on the activities and significant accomplishments of the Center during the preceding fiscal year.
 
-(Added [Pub. L. 103–446, title V, § 509(a)][/us/pl/103/446/s509/a], Nov. 2, 1994, [108 Stat. 4666][/us/stat/108/4666]; amended [Pub. L. 104–275, title V, § 501(a)][/us/pl/104/275/s501/a], (d), Oct. 9, 1996, [110 Stat. 3340][/us/stat/110/3340], 3341.)
+(Added [Pub. L. 103–446, title V][/us/pl/103/446/tV], § 509(a), Nov. 2, 1994, [108 Stat. 4666][/us/stat/108/4666]; amended [Pub. L. 104–275, title V][/us/pl/104/275/tV], § 501(a), (d), Oct. 9, 1996, [110 Stat. 3340][/us/stat/110/3340], 3341.)
 
  __Prior Provisions__ 
 
     Prior sections 321, 322, and 331 to 335 were renumbered sections 1121, 1122, and 1131 to 1135 of this title, respectively.
 
-    Prior section 336, [Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1123][/us/stat/72/1123], set forth the conditions under which wartime rates were payable to any veteran otherwise entitled to compensation under subchapter IV of chapter 11 of this title, prior to repeal by [Pub. L. 92–328, title I, § 108(c)][/us/pl/92/328/s108/c], title III, § 301(b), June 30, 1972, [86 Stat. 396][/us/stat/86/396], 398, effective July 1, 1973.
+    Prior section 336, [Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1123][/us/stat/72/1123], set forth the conditions under which wartime rates were payable to any veteran otherwise entitled to compensation under subchapter IV of chapter 11 of this title, prior to repeal by [Pub. L. 92–328, title I][/us/pl/92/328/tI], § 108(c), title III, § 301(b), June 30, 1972, [86 Stat. 396][/us/stat/86/396], 398, effective July 1, 1973.
 
     Prior sections 337, 341, and 342 were renumbered sections 1137, 1141, and 1142 of this title, respectively.
 
-    Prior section 343, [Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1124][/us/stat/72/1124], prescribed conditions under which wartime rates of compensation were payable, prior to repeal by [Pub. L. 93–295, title II, § 206(b)][/us/pl/93/295/s206/b], title IV, § 401, May 31, 1974, [88 Stat. 183][/us/stat/88/183], 184, effective May 1, 1974.
+    Prior section 343, [Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1124][/us/stat/72/1124], prescribed conditions under which wartime rates of compensation were payable, prior to repeal by [Pub. L. 93–295, title II][/us/pl/93/295/tII], § 206(b), title IV, § 401, May 31, 1974, [88 Stat. 183][/us/stat/88/183], 184, effective May 1, 1974.
 
     Prior sections 351 to 355 were renumbered sections 1151 to 1155 of this title, respectively.
 
-    Prior section 356, [Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1125][/us/stat/72/1125], provided for a minimum rating for veterans with arrested tuberculosis, prior to repeal by [Pub. L. 90–493, § 4][/us/pl/90/493/s4], Aug. 19, 1968, [82 Stat. 809][/us/stat/82/809], but repeal not applicable in case of veteran who on Aug. 19, 1968, was receiving or entitled to receive compensation for tuberculosis which in the judgment of the Administrator had reached a condition of complete arrest.
+    Prior section 356, [Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1125][/us/stat/72/1125], provided for a minimum rating for veterans with arrested tuberculosis, prior to repeal by [Pub. L. 90–493][/us/pl/90/493], § 4, Aug. 19, 1968, [82 Stat. 809][/us/stat/82/809], but repeal not applicable in case of veteran who on Aug. 19, 1968, was receiving or entitled to receive compensation for tuberculosis which in the judgment of the Administrator had reached a condition of complete arrest.
 
     Prior sections 357 to 363 were renumbered sections 1157 to 1163 of this title, respectively.
 
     Prior sections 401 and 402 were renumbered sections 1301 and 1302 of this title, respectively.
 
-    Prior section 403, [Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1127][/us/stat/72/1127]; [Pub. L. 91–96, § 2][/us/pl/91/96/s2], Oct. 27, 1969, [83 Stat. 144][/us/stat/83/144], defined Reserve Officer Training Corps annual training duty and authorized travel to and from such duty as active military service for the purposes of chapter 11 of this title and former [section 722 of this title][/us/usc/t38/s722], prior to repeal by [Pub. L. 97–306, title I, § 113(b)(1)][/us/pl/97/306/s113/b/1], (d), Oct. 14, 1982, [96 Stat. 1432][/us/stat/96/1432], 1433, effective Oct. 1, 1982, with respect to deaths and disabilities resulting from diseases or injuries incurred or aggravated after Sept. 30, 1982, and Oct. 1, 1983, with respect to deaths and disabilities incurred or aggravated before Oct. 1, 1982.
+    Prior section 403, [Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1127][/us/stat/72/1127]; [Pub. L. 91–96][/us/pl/91/96], § 2, Oct. 27, 1969, [83 Stat. 144][/us/stat/83/144], defined Reserve Officer Training Corps annual training duty and authorized travel to and from such duty as active military service for the purposes of chapter 11 of this title and former [section 722 of this title][/us/usc/t38/s722], prior to repeal by [Pub. L. 97–306, title I][/us/pl/97/306/tI], § 113(b)(1), (d), Oct. 14, 1982, [96 Stat. 1432][/us/stat/96/1432], 1433, effective Oct. 1, 1982, with respect to deaths and disabilities resulting from diseases or injuries incurred or aggravated after Sept. 30, 1982, and Oct. 1, 1983, with respect to deaths and disabilities incurred or aggravated before Oct. 1, 1982.
 
     Prior sections 404, 410 to 418, and 421 to 423 were renumbered sections 1304, 1310 to 1318, and 1321 to 1323 of this title, respectively.
 
  __Amendments__ 
 
-    1996—Subsec. (b). [Pub. L. 104–275, § 501(a)][/us/pl/104/275/s501/a], inserted “career or” before “noncareer”.
+    1996—Subsec. (b). [Pub. L. 104–275][/us/pl/104/275], § 501(a), inserted “career or” before “noncareer”.
 
-    Subsec. (d)(10). [Pub. L. 104–275, § 501(d)][/us/pl/104/275/s501/d], substituted “([42 U.S.C. 289a–2][/us/usc/t42/s289a–2]) with respect to the inclusion of women in clinical research and on” for “(relating to the inclusion of women and minorities in clinical research) and of”.
+    Subsec. (d)(10). [Pub. L. 104–275][/us/pl/104/275], § 501(d), substituted “([42 U.S.C. 289a–2][/us/usc/t42/s289a–2]) with respect to the inclusion of women in clinical research and on” for “(relating to the inclusion of women and minorities in clinical research) and of”.
 
  __Assessment of Use by Women Veterans of Department of Veterans Affairs Health Services__ 
 
-[Pub. L. 104–262, title III, § 323][/us/pl/104/262/s323], Oct. 9, 1996, [110 Stat. 3196][/us/stat/110/3196], provided that:
+[Pub. L. 104–262, title III][/us/pl/104/262/tIII], § 323, Oct. 9, 1996, [110 Stat. 3196][/us/stat/110/3196], provided that:
 
 >     “(a)  __Reports to Under Secretary for Health__  __.—__ 
 
@@ -122,33 +122,33 @@
 
 [/us/usc/t42/s289a–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs289a%E2%80%932
 [/us/usc/t38/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs542
-[/us/pl/103/446/s509/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2Fs509%2Fa
+[/us/pl/103/446/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2FtV
 [/us/stat/108/4666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4666
-[/us/pl/104/275/s501/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275%2Fs501%2Fa
+[/us/pl/104/275/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275%2FtV
 [/us/stat/110/3340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3340
 [/us/pl/85/857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F857
 [/us/stat/72/1123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1123
-[/us/pl/92/328/s108/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F328%2Fs108%2Fc
+[/us/pl/92/328/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F328%2FtI
 [/us/stat/86/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F396
 [/us/pl/85/857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F857
 [/us/stat/72/1124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1124
-[/us/pl/93/295/s206/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F295%2Fs206%2Fb
+[/us/pl/93/295/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F295%2FtII
 [/us/stat/88/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F183
 [/us/pl/85/857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F857
 [/us/stat/72/1125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1125
-[/us/pl/90/493/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F493%2Fs4
+[/us/pl/90/493]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F493
 [/us/stat/82/809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F809
 [/us/pl/85/857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F857
 [/us/stat/72/1127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1127
-[/us/pl/91/96/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F96%2Fs2
+[/us/pl/91/96]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F96
 [/us/stat/83/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F144
 [/us/usc/t38/s722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs722
-[/us/pl/97/306/s113/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F306%2Fs113%2Fb%2F1
+[/us/pl/97/306/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F306%2FtI
 [/us/stat/96/1432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1432
-[/us/pl/104/275/s501/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275%2Fs501%2Fa
-[/us/pl/104/275/s501/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275%2Fs501%2Fd
+[/us/pl/104/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275
+[/us/pl/104/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275
 [/us/usc/t42/s289a–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs289a%E2%80%932
-[/us/pl/104/262/s323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F262%2Fs323
+[/us/pl/104/262/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F262%2FtIII
 [/us/stat/110/3196]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3196
 [/us/pl/103/446/s509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2Fs509
 [/us/usc/t38/s317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs317

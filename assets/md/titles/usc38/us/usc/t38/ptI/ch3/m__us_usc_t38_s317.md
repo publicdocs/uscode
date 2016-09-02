@@ -69,19 +69,19 @@
 
         (2) The term “minority group member” has the meaning given such term in [section 544(d) of this title][/us/usc/t38/s544/d].
 
-(Added [Pub. L. 103–446, title V, § 509(a)][/us/pl/103/446/s509/a], Nov. 2, 1994, [108 Stat. 4665][/us/stat/108/4665]; amended [Pub. L. 104–275, title V, § 501(a)][/us/pl/104/275/s501/a]–(c), Oct. 9, 1996, [110 Stat. 3340][/us/stat/110/3340].)
+(Added [Pub. L. 103–446, title V][/us/pl/103/446/tV], § 509(a), Nov. 2, 1994, [108 Stat. 4665][/us/stat/108/4665]; amended [Pub. L. 104–275, title V][/us/pl/104/275/tV], § 501(a)–(c), Oct. 9, 1996, [110 Stat. 3340][/us/stat/110/3340].)
 
  __Prior Provisions__ 
 
-    Prior section 317, added [Pub. L. 102–218, § 1(a)][/us/pl/102/218/s1/a], Dec. 11, 1991, [105 Stat. 1671][/us/stat/105/1671]; amended [Pub. L. 103–446, title XII, § 1201(e)(4)][/us/pl/103/446/s1201/e/4], Nov. 2, 1994, [108 Stat. 4685][/us/stat/108/4685], related to Chief Minority Affairs Officer, prior to repeal by [Pub. L. 103–446, § 509(a)][/us/pl/103/446/s509/a].
+    Prior section 317, added [Pub. L. 102–218][/us/pl/102/218], § 1(a), Dec. 11, 1991, [105 Stat. 1671][/us/stat/105/1671]; amended [Pub. L. 103–446, title XII][/us/pl/103/446/tXII], § 1201(e)(4), Nov. 2, 1994, [108 Stat. 4685][/us/stat/108/4685], related to Chief Minority Affairs Officer, prior to repeal by [Pub. L. 103–446][/us/pl/103/446], § 509(a).
 
  __Amendments__ 
 
-    1996—Subsec. (b). [Pub. L. 104–275, § 501(a)][/us/pl/104/275/s501/a], inserted “career or” before “noncareer”.
+    1996—Subsec. (b). [Pub. L. 104–275][/us/pl/104/275], § 501(a), inserted “career or” before “noncareer”.
 
-    Subsec. (d)(10) to (12). [Pub. L. 104–275, § 501(b)][/us/pl/104/275/s501/b], added pars. (10) and (11) and redesignated former par. (10) as (12).
+    Subsec. (d)(10) to (12). [Pub. L. 104–275][/us/pl/104/275], § 501(b), added pars. (10) and (11) and redesignated former par. (10) as (12).
 
-    Subsec. (g). [Pub. L. 104–275, § 501(c)][/us/pl/104/275/s501/c], added subsec. (g).
+    Subsec. (g). [Pub. L. 104–275][/us/pl/104/275], § 501(c), added subsec. (g).
 
 ----------
 
@@ -93,17 +93,17 @@
 [/us/usc/t42/s289a–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs289a%E2%80%932
 [/us/usc/t38/s544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs544
 [/us/usc/t38/s544/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs544%2Fd
-[/us/pl/103/446/s509/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2Fs509%2Fa
+[/us/pl/103/446/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2FtV
 [/us/stat/108/4665]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4665
-[/us/pl/104/275/s501/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275%2Fs501%2Fa
+[/us/pl/104/275/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275%2FtV
 [/us/stat/110/3340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3340
-[/us/pl/102/218/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F218%2Fs1%2Fa
+[/us/pl/102/218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F218
 [/us/stat/105/1671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1671
-[/us/pl/103/446/s1201/e/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2Fs1201%2Fe%2F4
+[/us/pl/103/446/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2FtXII
 [/us/stat/108/4685]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4685
-[/us/pl/103/446/s509/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2Fs509%2Fa
-[/us/pl/104/275/s501/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275%2Fs501%2Fa
-[/us/pl/104/275/s501/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275%2Fs501%2Fb
-[/us/pl/104/275/s501/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275%2Fs501%2Fc
+[/us/pl/103/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446
+[/us/pl/104/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275
+[/us/pl/104/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275
+[/us/pl/104/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275
 
 

@@ -133,53 +133,53 @@
 
     The Secretary may only provide assistance under this section for adaptive sports opportunities occurring during fiscal years 2010 through 2016.
 
-(Added [Pub. L. 110–389, title VII, § 702(a)][/us/pl/110/389/s702/a], Oct. 10, 2008, [122 Stat. 4181][/us/stat/122/4181]; amended [Pub. L. 113–37, § 2(b)(1)][/us/pl/113/37/s2/b/1], (2), Sept. 30, 2013, [127 Stat. 523][/us/stat/127/523]; [Pub. L. 113–59, § 5(a)][/us/pl/113/59/s5/a]–(e), (g), (h)(1), Dec. 20, 2013, [127 Stat. 659–662][/us/stat/127/659-662]; [Pub. L. 114–58, title IV, § 405][/us/pl/114/58/s405], Sept. 30, 2015, [129 Stat. 535][/us/stat/129/535].)
+(Added [Pub. L. 110–389, title VII][/us/pl/110/389/tVII], § 702(a), Oct. 10, 2008, [122 Stat. 4181][/us/stat/122/4181]; amended [Pub. L. 113–37][/us/pl/113/37], § 2(b)(1), (2), Sept. 30, 2013, [127 Stat. 523][/us/stat/127/523]; [Pub. L. 113–59][/us/pl/113/59], § 5(a)–(e), (g), (h)(1), Dec. 20, 2013, [127 Stat. 659–662][/us/stat/127/659-662]; [Pub. L. 114–58, title IV][/us/pl/114/58/tIV], § 405, Sept. 30, 2015, [129 Stat. 535][/us/stat/129/535].)
 
  __Amendments__ 
 
     2015—Subsec. (g)(1). [Pub. L. 114–58][/us/pl/114/58] substituted “2016” for “2015”.
 
-    2013—[Pub. L. 113–59, § 5(h)(1)][/us/pl/113/59/s5/h/1], substituted “Adaptive sports programs for disabled veterans and members of the Armed Forces” for “Assistance for United States Paralympics, Inc.” in section catchline.
+    2013—[Pub. L. 113–59][/us/pl/113/59], § 5(h)(1), substituted “Adaptive sports programs for disabled veterans and members of the Armed Forces” for “Assistance for United States Paralympics, Inc.” in section catchline.
 
-    [Pub. L. 113–37, § 2(b)(2)(A)][/us/pl/113/37/s2/b/2/A], substituted “United States Olympic Committee” for “United States Paralympics, Inc.,” wherever appearing except in subsec. (d)(4).
+    [Pub. L. 113–37][/us/pl/113/37], § 2(b)(2)(A), substituted “United States Olympic Committee” for “United States Paralympics, Inc.,” wherever appearing except in subsec. (d)(4).
 
-    Subsec. (a). [Pub. L. 113–59, § 5(a)][/us/pl/113/59/s5/a], amended subsec. (a) generally. Prior to amendment, text read as follows: “The Secretary may award grants to the United States Olympic Committee to plan, develop, manage, and implement an integrated adaptive sports program for disabled veterans and disabled members of the Armed Forces.”
+    Subsec. (a). [Pub. L. 113–59][/us/pl/113/59], § 5(a), amended subsec. (a) generally. Prior to amendment, text read as follows: “The Secretary may award grants to the United States Olympic Committee to plan, develop, manage, and implement an integrated adaptive sports program for disabled veterans and disabled members of the Armed Forces.”
 
-    Subsec. (b). [Pub. L. 113–59, § 5(g)(1)][/us/pl/113/59/s5/g/1], substituted “an eligible entity” for “the United States Olympic Committee” and “An eligible entity that receives a grant under this section” for “The United States Olympic Committee”.
+    Subsec. (b). [Pub. L. 113–59][/us/pl/113/59], § 5(g)(1), substituted “an eligible entity” for “the United States Olympic Committee” and “An eligible entity that receives a grant under this section” for “The United States Olympic Committee”.
 
-    Subsec. (c)(1). [Pub. L. 113–59, § 5(g)(2)(A)][/us/pl/113/59/s5/g/2/A], substituted “to an eligible entity” for “to the United States Olympic Committee” and “the eligible entity shall submit” for “the United States Olympic Committee shall submit”.
+    Subsec. (c)(1). [Pub. L. 113–59][/us/pl/113/59], § 5(g)(2)(A), substituted “to an eligible entity” for “to the United States Olympic Committee” and “the eligible entity shall submit” for “the United States Olympic Committee shall submit”.
 
-    Subsec. (c)(2)(A). [Pub. L. 113–59, § 5(b)][/us/pl/113/59/s5/b], substituted “of—” for “of all partnerships referred to in paragraph (3) at the national and local levels that will be participating in such activities and the amount of grant funds that the United States Olympic Committee proposes to make available for each of such partnerships; and” and added cls. (i) to (v).
+    Subsec. (c)(2)(A). [Pub. L. 113–59][/us/pl/113/59], § 5(b), substituted “of—” for “of all partnerships referred to in paragraph (3) at the national and local levels that will be participating in such activities and the amount of grant funds that the United States Olympic Committee proposes to make available for each of such partnerships; and” and added cls. (i) to (v).
 
-    Subsec. (c)(2)(B), (3). [Pub. L. 113–59, § 5(g)(2)(B)][/us/pl/113/59/s5/g/2/B], substituted “the eligible entity” for “the United States Olympic Committee” wherever appearing.
+    Subsec. (c)(2)(B), (3). [Pub. L. 113–59][/us/pl/113/59], § 5(g)(2)(B), substituted “the eligible entity” for “the United States Olympic Committee” wherever appearing.
 
-    Subsec. (d)(1). [Pub. L. 113–59, § 5(g)(3)(A)][/us/pl/113/59/s5/g/3/A], substituted “An eligible entity that receives a grant under this section,” for “The United States Olympic Committee”, “shall use the grant” for “shall use a grant under this section”, and “the eligible entity” for “the United States Olympic Committee”.
+    Subsec. (d)(1). [Pub. L. 113–59][/us/pl/113/59], § 5(g)(3)(A), substituted “An eligible entity that receives a grant under this section,” for “The United States Olympic Committee”, “shall use the grant” for “shall use a grant under this section”, and “the eligible entity” for “the United States Olympic Committee”.
 
-    Subsec. (d)(4). [Pub. L. 113–59, § 5(c)][/us/pl/113/59/s5/c], amended par. (4) generally. Prior to amendment, par. (4) read as follows: “A grant made under this section may include, at the discretion of the Secretary, an amount for the administrative expenses of the United States Olympic Committee, but not to exceed five percent of the amount of the grant.”
+    Subsec. (d)(4). [Pub. L. 113–59][/us/pl/113/59], § 5(c), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “A grant made under this section may include, at the discretion of the Secretary, an amount for the administrative expenses of the United States Olympic Committee, but not to exceed five percent of the amount of the grant.”
 
-    [Pub. L. 113–37, § 2(b)(2)(B)][/us/pl/113/37/s2/b/2/B], substituted “United States Olympic Committee” for “United States Paralympics, Inc.”
+    [Pub. L. 113–37][/us/pl/113/37], § 2(b)(2)(B), substituted “United States Olympic Committee” for “United States Paralympics, Inc.”
 
-    Subsec. (d)(5). [Pub. L. 113–59, § 5(g)(3)(B)][/us/pl/113/59/s5/g/3/B], substituted “an eligible entity that receives a grant under this section” for “the United States Olympic Committee”.
+    Subsec. (d)(5). [Pub. L. 113–59][/us/pl/113/59], § 5(g)(3)(B), substituted “an eligible entity that receives a grant under this section” for “the United States Olympic Committee”.
 
-    Subsec. (e). [Pub. L. 113–59, § 5(g)(4)][/us/pl/113/59/s5/g/4], substituted “an eligible entity” for “the United States Olympic Committee” and “the adapted sports opportunities funded by the grant” for “the integrated adaptive sports program”.
+    Subsec. (e). [Pub. L. 113–59][/us/pl/113/59], § 5(g)(4), substituted “an eligible entity” for “the United States Olympic Committee” and “the adapted sports opportunities funded by the grant” for “the integrated adaptive sports program”.
 
-    Subsec. (f). [Pub. L. 113–59, § 5(g)(5)][/us/pl/113/59/s5/g/5], substituted “adapted sports opportunities funded under this section” for “the integrated adaptive sports program”.
+    Subsec. (f). [Pub. L. 113–59][/us/pl/113/59], § 5(g)(5), substituted “adapted sports opportunities funded under this section” for “the integrated adaptive sports program”.
 
-    Subsec. (g). [Pub. L. 113–59, § 5(d)][/us/pl/113/59/s5/d], designated existing provisions as par. (1), substituted “through 2015.” for “through 2013 and $2,000,000 for the period beginning October 1, 2013, and ending December 31, 2013 to carry out this section. Amounts appropriated pursuant to this subsection shall remain available without fiscal year limitation.”, and added par. (2).
+    Subsec. (g). [Pub. L. 113–59][/us/pl/113/59], § 5(d), designated existing provisions as par. (1), substituted “through 2015.” for “through 2013 and $2,000,000 for the period beginning October 1, 2013, and ending December 31, 2013 to carry out this section. Amounts appropriated pursuant to this subsection shall remain available without fiscal year limitation.”, and added par. (2).
 
-    [Pub. L. 113–37, § 2(b)(1)(A)][/us/pl/113/37/s2/b/1/A], inserted “and $2,000,000 for the period beginning October 1, 2013, and ending December 31, 2013” after “2010 through 2013”.
+    [Pub. L. 113–37][/us/pl/113/37], § 2(b)(1)(A), inserted “and $2,000,000 for the period beginning October 1, 2013, and ending December 31, 2013” after “2010 through 2013”.
 
-    Subsec. (j)(1). [Pub. L. 113–59, § 5(g)(6)(A)][/us/pl/113/59/s5/g/6/A], substituted “an eligible entity shall agree” for “the United States Olympic Committee shall agree”, “the eligible entity shall submit” for “the United States Olympic Committee shall submit”, “in the adapted sports opportunities funded by the grant,” for “in the integrated adaptive sports program,”, and “of such opportunities and programs.” for “of the integrated adaptive sports program.”
+    Subsec. (j)(1). [Pub. L. 113–59][/us/pl/113/59], § 5(g)(6)(A), substituted “an eligible entity shall agree” for “the United States Olympic Committee shall agree”, “the eligible entity shall submit” for “the United States Olympic Committee shall submit”, “in the adapted sports opportunities funded by the grant,” for “in the integrated adaptive sports program,”, and “of such opportunities and programs.” for “of the integrated adaptive sports program.”
 
-    Subsec. (j)(3). [Pub. L. 113–59, § 5(g)(6)(B)][/us/pl/113/59/s5/g/6/B], added par. (3) and struck out former par. (3) which read as follows: “For any fiscal year after fiscal year 2010, the eligibility of the United States Olympic Committee to receive a grant under this section shall be contingent upon the submission of the report under paragraph (1) for the preceding fiscal year.”
+    Subsec. (j)(3). [Pub. L. 113–59][/us/pl/113/59], § 5(g)(6)(B), added par. (3) and struck out former par. (3) which read as follows: “For any fiscal year after fiscal year 2010, the eligibility of the United States Olympic Committee to receive a grant under this section shall be contingent upon the submission of the report under paragraph (1) for the preceding fiscal year.”
 
-    Subsec. (l). [Pub. L. 113–59, § 5(e)][/us/pl/113/59/s5/e], substituted “may only provide assistance under this section for adaptive sports opportunities occurring during fiscal years 2010 through 2016” for “may not provide assistance under this section after December 31, 2013”.
+    Subsec. (l). [Pub. L. 113–59][/us/pl/113/59], § 5(e), substituted “may only provide assistance under this section for adaptive sports opportunities occurring during fiscal years 2010 through 2016” for “may not provide assistance under this section after December 31, 2013”.
 
-    [Pub. L. 113–37, § 2(b)(1)(B)][/us/pl/113/37/s2/b/1/B], substituted “The Secretary may not provide assistance under this section after December 31, 2013.” for “The Secretary may only provide assistance under this section during fiscal years 2010 through 2013.”
+    [Pub. L. 113–37][/us/pl/113/37], § 2(b)(1)(B), substituted “The Secretary may not provide assistance under this section after December 31, 2013.” for “The Secretary may only provide assistance under this section during fiscal years 2010 through 2013.”
 
-    Subsec. (m). [Pub. L. 113–59, § 5(g)(7)][/us/pl/113/59/s5/g/7], struck out subsec. (m) which provided for applicability of this section and [section 322 of this title][/us/usc/t38/s322] to commonwealths and territories of the United States.
+    Subsec. (m). [Pub. L. 113–59][/us/pl/113/59], § 5(g)(7), struck out subsec. (m) which provided for applicability of this section and [section 322 of this title][/us/usc/t38/s322] to commonwealths and territories of the United States.
 
-    Subsec. (m). [Pub. L. 113–37, § 2(b)(2)(C)][/us/pl/113/37/s2/b/2/C], added subsec. (m).
+    Subsec. (m). [Pub. L. 113–37][/us/pl/113/37], § 2(b)(2)(C), added subsec. (m).
 
  __Effective Date of 2013 Amendment__ 
 
@@ -187,19 +187,19 @@
 
  __Regulations__ 
 
-[Pub. L. 113–59, § 5(i)][/us/pl/113/59/s5/i], Dec. 20, 2013, [127 Stat. 662][/us/stat/127/662], provided that: 
+[Pub. L. 113–59][/us/pl/113/59], § 5(i), Dec. 20, 2013, [127 Stat. 662][/us/stat/127/662], provided that: 
 
 > “To ensure the uninterrupted provision of adaptive sports for disabled veterans and disabled members of the Armed Forces, any regulations that the Secretary of Veterans Affairs determines are necessary to implement the amendments made by this section \[amending this section\] may be promulgated by interim final rules to ensure the award of grants under [section 521A of title 38][/us/usc/t38/s521A], United States Code, as amended by this section, before the end of fiscal year 2014.”
 
  __Deadline for Memorandum of Understanding__ 
 
-[Pub. L. 110–389, title VII, § 702(c)][/us/pl/110/389/s702/c], Oct. 10, 2008, [122 Stat. 4183][/us/stat/122/4183], provided that: 
+[Pub. L. 110–389, title VII][/us/pl/110/389/tVII], § 702(c), Oct. 10, 2008, [122 Stat. 4183][/us/stat/122/4183], provided that: 
 
 > “The Secretary of Veterans Affairs may not award a grant under [section 521A of title 38][/us/usc/t38/s521A], United States Code, as added by subsection (a), until the United States Paralympics, Inc., and the Secretary have entered into a memorandum of understanding or cooperative agreement regarding implementation of the integrated adaptive sports program under that section. To the extent feasible, such memorandum or agreement shall be concluded not later than 240 days after the date of the enactment of this Act \[Oct. 10, 2008\].”
 
  __Assistance at Sporting Events__ 
 
-[Pub. L. 110–389, title VII, § 703(c)][/us/pl/110/389/s703/c], Oct. 10, 2008, [122 Stat. 4185][/us/stat/122/4185], provided that: 
+[Pub. L. 110–389, title VII][/us/pl/110/389/tVII], § 703(c), Oct. 10, 2008, [122 Stat. 4185][/us/stat/122/4185], provided that: 
 
 > “The Secretary of Veterans Affairs shall direct the Under Secretary for Health of the Department of Veterans Affairs—
 
@@ -214,47 +214,47 @@
 ----------
 ----------
 
-[/us/pl/110/389/s702/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F389%2Fs702%2Fa
+[/us/pl/110/389/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F389%2FtVII
 [/us/stat/122/4181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4181
-[/us/pl/113/37/s2/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F37%2Fs2%2Fb%2F1
+[/us/pl/113/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F37
 [/us/stat/127/523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F523
-[/us/pl/113/59/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F59%2Fs5%2Fa
+[/us/pl/113/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F59
 [/us/stat/127/659-662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F659-662
-[/us/pl/114/58/s405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F58%2Fs405
+[/us/pl/114/58/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F58%2FtIV
 [/us/stat/129/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F535
 [/us/pl/114/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F58
-[/us/pl/113/59/s5/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F59%2Fs5%2Fh%2F1
-[/us/pl/113/37/s2/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F37%2Fs2%2Fb%2F2%2FA
-[/us/pl/113/59/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F59%2Fs5%2Fa
-[/us/pl/113/59/s5/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F59%2Fs5%2Fg%2F1
-[/us/pl/113/59/s5/g/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F59%2Fs5%2Fg%2F2%2FA
-[/us/pl/113/59/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F59%2Fs5%2Fb
-[/us/pl/113/59/s5/g/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F59%2Fs5%2Fg%2F2%2FB
-[/us/pl/113/59/s5/g/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F59%2Fs5%2Fg%2F3%2FA
-[/us/pl/113/59/s5/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F59%2Fs5%2Fc
-[/us/pl/113/37/s2/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F37%2Fs2%2Fb%2F2%2FB
-[/us/pl/113/59/s5/g/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F59%2Fs5%2Fg%2F3%2FB
-[/us/pl/113/59/s5/g/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F59%2Fs5%2Fg%2F4
-[/us/pl/113/59/s5/g/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F59%2Fs5%2Fg%2F5
-[/us/pl/113/59/s5/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F59%2Fs5%2Fd
-[/us/pl/113/37/s2/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F37%2Fs2%2Fb%2F1%2FA
-[/us/pl/113/59/s5/g/6/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F59%2Fs5%2Fg%2F6%2FA
-[/us/pl/113/59/s5/g/6/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F59%2Fs5%2Fg%2F6%2FB
-[/us/pl/113/59/s5/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F59%2Fs5%2Fe
-[/us/pl/113/37/s2/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F37%2Fs2%2Fb%2F1%2FB
-[/us/pl/113/59/s5/g/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F59%2Fs5%2Fg%2F7
+[/us/pl/113/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F59
+[/us/pl/113/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F37
+[/us/pl/113/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F59
+[/us/pl/113/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F59
+[/us/pl/113/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F59
+[/us/pl/113/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F59
+[/us/pl/113/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F59
+[/us/pl/113/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F59
+[/us/pl/113/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F59
+[/us/pl/113/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F37
+[/us/pl/113/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F59
+[/us/pl/113/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F59
+[/us/pl/113/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F59
+[/us/pl/113/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F59
+[/us/pl/113/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F37
+[/us/pl/113/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F59
+[/us/pl/113/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F59
+[/us/pl/113/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F59
+[/us/pl/113/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F37
+[/us/pl/113/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F59
 [/us/usc/t38/s322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs322
-[/us/pl/113/37/s2/b/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F37%2Fs2%2Fb%2F2%2FC
+[/us/pl/113/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F37
 [/us/pl/113/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F37
 [/us/pl/113/37/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F37%2Fs4%2Fa
 [/us/usc/t38/s322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs322
-[/us/pl/113/59/s5/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F59%2Fs5%2Fi
+[/us/pl/113/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F59
 [/us/stat/127/662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F662
 [/us/usc/t38/s521A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs521A
-[/us/pl/110/389/s702/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F389%2Fs702%2Fc
+[/us/pl/110/389/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F389%2FtVII
 [/us/stat/122/4183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4183
 [/us/usc/t38/s521A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs521A
-[/us/pl/110/389/s703/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F389%2Fs703%2Fc
+[/us/pl/110/389/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F389%2FtVII
 [/us/stat/122/4185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4185
 
 

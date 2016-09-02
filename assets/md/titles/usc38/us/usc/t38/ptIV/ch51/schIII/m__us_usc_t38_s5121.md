@@ -43,35 +43,35 @@
 
     (c) Applications for accrued benefits must be filed within one year after the date of death. If a claimant’s application is incomplete at the time it is originally submitted, the Secretary shall notify the claimant of the evidence necessary to complete the application. If such evidence is not received within one year from the date of such notification, no accrued benefits may be paid.
 
-([Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1228][/us/stat/72/1228], § 3021; [Pub. L. 92–328, title I, § 105(b)][/us/pl/92/328/s105/b], June 30, 1972, [86 Stat. 395][/us/stat/86/395]; [Pub. L. 97–258, § 3(k)(4)][/us/pl/97/258/s3/k/4], Sept. 13, 1982, [96 Stat. 1065][/us/stat/96/1065]; [Pub. L. 98–160, title VII, § 703(1)][/us/pl/98/160/s703/1], Nov. 21, 1983, [97 Stat. 1010][/us/stat/97/1010]; [Pub. L. 99–576, title VII, § 701(66)][/us/pl/99/576/s701/66], Oct. 28, 1986, [100 Stat. 3296][/us/stat/100/3296]; renumbered § 5121 and amended [Pub. L. 102–40, title IV, § 402(b)(1)][/us/pl/102/40/s402/b/1], (d)(1), May 7, 1991, [105 Stat. 238][/us/stat/105/238], 239; [Pub. L. 102–83, § 4(a)(1)][/us/pl/102/83/s4/a/1], (b)(1), (2)(E), Aug. 6, 1991, [105 Stat. 403–405][/us/stat/105/403-405]; [Pub. L. 104–275, title V, § 507][/us/pl/104/275/s507], Oct. 9, 1996, [110 Stat. 3343][/us/stat/110/3343]; [Pub. L. 107–14, § 8(a)(16)][/us/pl/107/14/s8/a/16], June 5, 2001, [115 Stat. 35][/us/stat/115/35]; [Pub. L. 108–183, title I, § 104(a)][/us/pl/108/183/s104/a]–(c), Dec. 16, 2003, [117 Stat. 2656][/us/stat/117/2656].)
+([Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1228][/us/stat/72/1228], § 3021; [Pub. L. 92–328, title I][/us/pl/92/328/tI], § 105(b), June 30, 1972, [86 Stat. 395][/us/stat/86/395]; [Pub. L. 97–258][/us/pl/97/258], § 3(k)(4), Sept. 13, 1982, [96 Stat. 1065][/us/stat/96/1065]; [Pub. L. 98–160, title VII][/us/pl/98/160/tVII], § 703(1), Nov. 21, 1983, [97 Stat. 1010][/us/stat/97/1010]; [Pub. L. 99–576, title VII][/us/pl/99/576/tVII], § 701(66), Oct. 28, 1986, [100 Stat. 3296][/us/stat/100/3296]; renumbered § 5121 and amended [Pub. L. 102–40, title IV][/us/pl/102/40/tIV], § 402(b)(1), (d)(1), May 7, 1991, [105 Stat. 238][/us/stat/105/238], 239; [Pub. L. 102–83][/us/pl/102/83], § 4(a)(1), (b)(1), (2)(E), Aug. 6, 1991, [105 Stat. 403–405][/us/stat/105/403-405]; [Pub. L. 104–275, title V][/us/pl/104/275/tV], § 507, Oct. 9, 1996, [110 Stat. 3343][/us/stat/110/3343]; [Pub. L. 107–14][/us/pl/107/14], § 8(a)(16), June 5, 2001, [115 Stat. 35][/us/stat/115/35]; [Pub. L. 108–183, title I][/us/pl/108/183/tI], § 104(a)–(c), Dec. 16, 2003, [117 Stat. 2656][/us/stat/117/2656].)
 
  __Amendments__ 
 
-    2003—Subsec. (a). [Pub. L. 108–183, § 104(c)(1)][/us/pl/108/183/s104/c/1], struck out comma after “or decisions” in introductory provisions.
+    2003—Subsec. (a). [Pub. L. 108–183][/us/pl/108/183], § 104(c)(1), struck out comma after “or decisions” in introductory provisions.
 
-    [Pub. L. 108–183, § 104(a)][/us/pl/108/183/s104/a], struck out “for a period not to exceed two years” after “unpaid” in introductory provisions.
+    [Pub. L. 108–183][/us/pl/108/183], § 104(a), struck out “for a period not to exceed two years” after “unpaid” in introductory provisions.
 
-    Subsec. (a)(1) to (4). [Pub. L. 108–183, § 104(c)(2)][/us/pl/108/183/s104/c/2], substituted period for semicolon at end of pars. (1) to (4) and subpars. (A) and (B) of par. (2).
+    Subsec. (a)(1) to (4). [Pub. L. 108–183][/us/pl/108/183], § 104(c)(2), substituted period for semicolon at end of pars. (1) to (4) and subpars. (A) and (B) of par. (2).
 
-    Subsec. (a)(5), (6). [Pub. L. 108–183, § 104(b)][/us/pl/108/183/s104/b], added par. (5) and redesignated former par. (5) as (6).
+    Subsec. (a)(5), (6). [Pub. L. 108–183][/us/pl/108/183], § 104(b), added par. (5) and redesignated former par. (5) as (6).
 
     2001—Subsec. (a). [Pub. L. 107–14][/us/pl/107/14] substituted “hereinafter” for “hereafter” in introductory provisions.
 
     1996—Subsec. (a). [Pub. L. 104–275][/us/pl/104/275] substituted “two years” for “one year” in introductory provisions.
 
-    1991—[Pub. L. 102–40, § 402(b)(1)][/us/pl/102/40/s402/b/1], renumbered [section 3021 of this title][/us/usc/t38/s3021] as this section.
+    1991—[Pub. L. 102–40][/us/pl/102/40], § 402(b)(1), renumbered [section 3021 of this title][/us/usc/t38/s3021] as this section.
 
-    Subsec. (a). [Pub. L. 102–83, § 4(b)(1)][/us/pl/102/83/s4/b/1], (2)(E), substituted “Secretary” for “Administrator” in par. (1).
+    Subsec. (a). [Pub. L. 102–83][/us/pl/102/83], § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in par. (1).
 
-    [Pub. L. 102–83, § 4(a)(1)][/us/pl/102/83/s4/a/1], substituted “administered by the Secretary” for “administered by the Veterans’ Administration” in introductory provisions.
+    [Pub. L. 102–83][/us/pl/102/83], § 4(a)(1), substituted “administered by the Secretary” for “administered by the Veterans’ Administration” in introductory provisions.
 
-    [Pub. L. 102–40, § 402(d)(1)][/us/pl/102/40/s402/d/1], substituted “5122” for “3022” in introductory provisions.
+    [Pub. L. 102–40][/us/pl/102/40], § 402(d)(1), substituted “5122” for “3022” in introductory provisions.
 
-    Subsec. (c). [Pub. L. 102–83, § 4(b)(1)][/us/pl/102/83/s4/b/1], (2)(E), substituted “Secretary” for “Administrator”.
+    Subsec. (c). [Pub. L. 102–83][/us/pl/102/83], § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
-    1986—Subsec. (a). [Pub. L. 99–576, § 701(66)(A)][/us/pl/99/576/s701/66/A], struck out “his” after “entitled at”.
+    1986—Subsec. (a). [Pub. L. 99–576][/us/pl/99/576], § 701(66)(A), struck out “his” after “entitled at”.
 
-    Subsec. (a)(2)(A) to (C). [Pub. L. 99–576, § 701(66)(B)][/us/pl/99/576/s701/66/B], substituted “The veteran’s” for “His”.
+    Subsec. (a)(2)(A) to (C). [Pub. L. 99–576][/us/pl/99/576], § 701(66)(B), substituted “The veteran’s” for “His”.
 
     1983—Subsec. (a)(3). [Pub. L. 98–160][/us/pl/98/160] substituted “surviving spouse” for “widow” in two places.
 
@@ -81,7 +81,7 @@
 
  __Effective Date of 2003 Amendment__ 
 
-[Pub. L. 108–183, title I, § 104(d)][/us/pl/108/183/s104/d], Dec. 16, 2003, [117 Stat. 2656][/us/stat/117/2656], provided that: 
+[Pub. L. 108–183, title I][/us/pl/108/183/tI], § 104(d), Dec. 16, 2003, [117 Stat. 2656][/us/stat/117/2656], provided that: 
 
 > “The amendments made by subsections (a) and (b) \[amending this section\] shall apply with respect to deaths occurring on or after the date of the enactment of this Act \[Dec. 16, 2003\].”
 
@@ -99,43 +99,43 @@
 [/us/usc/t38/s5122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs5122
 [/us/pl/85/857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F857
 [/us/stat/72/1228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1228
-[/us/pl/92/328/s105/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F328%2Fs105%2Fb
+[/us/pl/92/328/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F328%2FtI
 [/us/stat/86/395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F395
-[/us/pl/97/258/s3/k/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs3%2Fk%2F4
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1065]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1065
-[/us/pl/98/160/s703/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F160%2Fs703%2F1
+[/us/pl/98/160/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F160%2FtVII
 [/us/stat/97/1010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1010
-[/us/pl/99/576/s701/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2Fs701%2F66
+[/us/pl/99/576/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2FtVII
 [/us/stat/100/3296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3296
-[/us/pl/102/40/s402/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs402%2Fb%2F1
+[/us/pl/102/40/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2FtIV
 [/us/stat/105/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F238
-[/us/pl/102/83/s4/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fa%2F1
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/403-405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F403-405
-[/us/pl/104/275/s507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275%2Fs507
+[/us/pl/104/275/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275%2FtV
 [/us/stat/110/3343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3343
-[/us/pl/107/14/s8/a/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F14%2Fs8%2Fa%2F16
+[/us/pl/107/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F14
 [/us/stat/115/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F35
-[/us/pl/108/183/s104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F183%2Fs104%2Fa
+[/us/pl/108/183/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F183%2FtI
 [/us/stat/117/2656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2656
-[/us/pl/108/183/s104/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F183%2Fs104%2Fc%2F1
-[/us/pl/108/183/s104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F183%2Fs104%2Fa
-[/us/pl/108/183/s104/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F183%2Fs104%2Fc%2F2
-[/us/pl/108/183/s104/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F183%2Fs104%2Fb
+[/us/pl/108/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F183
+[/us/pl/108/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F183
+[/us/pl/108/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F183
+[/us/pl/108/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F183
 [/us/pl/107/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F14
 [/us/pl/104/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275
-[/us/pl/102/40/s402/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs402%2Fb%2F1
+[/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40
 [/us/usc/t38/s3021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3021
-[/us/pl/102/83/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fb%2F1
-[/us/pl/102/83/s4/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fa%2F1
-[/us/pl/102/40/s402/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs402%2Fd%2F1
-[/us/pl/102/83/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fb%2F1
-[/us/pl/99/576/s701/66/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2Fs701%2F66%2FA
-[/us/pl/99/576/s701/66/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2Fs701%2F66%2FB
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/99/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576
+[/us/pl/99/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576
 [/us/pl/98/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F160
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/pl/92/328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F328
 [/us/usc/t38/s3203/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3203%2Fa%2F2%2FA
-[/us/pl/108/183/s104/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F183%2Fs104%2Fd
+[/us/pl/108/183/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F183%2FtI
 [/us/stat/117/2656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2656
 [/us/pl/92/328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F328
 [/us/pl/92/328/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F328%2Fs301%2Fa

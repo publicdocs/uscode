@@ -33,7 +33,7 @@
 
     (c) The Secretary shall prescribe regulations for the implementation of this section.
 
-(Added [Pub. L. 102–40, title IV, § 401(b)(4)][/us/pl/102/40/s401/b/4], May 7, 1991, [105 Stat. 235][/us/stat/105/235]; amended [Pub. L. 111–163, title VI, § 602(b)][/us/pl/111/163/s602/b], May 5, 2010, [124 Stat. 1173][/us/stat/124/1173].)
+(Added [Pub. L. 102–40, title IV][/us/pl/102/40/tIV], § 401(b)(4), May 7, 1991, [105 Stat. 235][/us/stat/105/235]; amended [Pub. L. 111–163, title VI][/us/pl/111/163/tVI], § 602(b), May 5, 2010, [124 Stat. 1173][/us/stat/124/1173].)
 
  __Prior Provisions__ 
 
@@ -53,9 +53,9 @@
 [/us/usc/t38/s7453/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7453%2Fe
 [/us/usc/t38/s7453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7453
 [/us/usc/t38/s7453/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7453%2Fe
-[/us/pl/102/40/s401/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs401%2Fb%2F4
+[/us/pl/102/40/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2FtIV
 [/us/stat/105/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F235
-[/us/pl/111/163/s602/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163%2Fs602%2Fb
+[/us/pl/111/163/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163%2FtVI
 [/us/stat/124/1173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1173
 [/us/usc/t38/s4107/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs4107%2Fh
 [/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40

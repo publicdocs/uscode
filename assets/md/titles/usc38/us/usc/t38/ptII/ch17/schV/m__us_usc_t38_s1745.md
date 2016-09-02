@@ -59,21 +59,21 @@
 
     (c) Any State home that requests payment or reimbursement for services provided to a veteran under this section shall provide to the Secretary such information as the Secretary considers necessary to identify each individual veteran eligible for payment under such section.
 
-(Added and amended [Pub. L. 109–461, title II, § 211(a)(1)][/us/pl/109/461/s211/a/1], (2), (b)(1), Dec. 22, 2006, [120 Stat. 3418][/us/stat/120/3418], 3419; [Pub. L. 112–154, title I, § 105(a)][/us/pl/112/154/s105/a], Aug. 6, 2012, [126 Stat. 1170][/us/stat/126/1170].)
+(Added and amended [Pub. L. 109–461, title II][/us/pl/109/461/tII], § 211(a)(1), (2), (b)(1), Dec. 22, 2006, [120 Stat. 3418][/us/stat/120/3418], 3419; [Pub. L. 112–154, title I][/us/pl/112/154/tI], § 105(a), Aug. 6, 2012, [126 Stat. 1170][/us/stat/126/1170].)
 
  __Amendments__ 
 
-    2012—Subsec. (a)(1). [Pub. L. 112–154, § 105(a)(1)][/us/pl/112/154/s105/a/1], substituted in introductory provisions “The Secretary shall enter into a contract (or agreement under [section 1720(c)(1) of this title][/us/usc/t38/s1720/c/1]) with each State home for payment by the Secretary for nursing home care provided in the home” for “The Secretary shall pay each State home for nursing home care at the rate determined under paragraph (2)”.
+    2012—Subsec. (a)(1). [Pub. L. 112–154][/us/pl/112/154], § 105(a)(1), substituted in introductory provisions “The Secretary shall enter into a contract (or agreement under [section 1720(c)(1) of this title][/us/usc/t38/s1720/c/1]) with each State home for payment by the Secretary for nursing home care provided in the home” for “The Secretary shall pay each State home for nursing home care at the rate determined under paragraph (2)”.
 
-    Subsec. (a)(2). [Pub. L. 112–154, § 105(a)(2)][/us/pl/112/154/s105/a/2], added par. (2) and struck out former par. (2) which read as follows: “The rate determined under this paragraph with respect to a State home is the lesser of—
+    Subsec. (a)(2). [Pub. L. 112–154][/us/pl/112/154], § 105(a)(2), added par. (2) and struck out former par. (2) which read as follows: “The rate determined under this paragraph with respect to a State home is the lesser of—
 
     “(A) the applicable or prevailing rate payable in the geographic area in which the State home is located, as determined by the Secretary, for nursing home care furnished in a non-Department nursing home (as that term is defined in [section 1720(e)(2) of this title][/us/usc/t38/s1720/e/2]); or
 
     “(B) a rate not to exceed the daily cost of care, as determined by the Secretary, following a report to the Secretary by the director of the State home.”
 
-    2006—Subsec. (b). [Pub. L. 109–461, § 211(a)(2)][/us/pl/109/461/s211/a/2], added subsec. (b).
+    2006—Subsec. (b). [Pub. L. 109–461][/us/pl/109/461], § 211(a)(2), added subsec. (b).
 
-    Subsec. (c). [Pub. L. 109–461, § 211(b)(1)][/us/pl/109/461/s211/b/1], added subsec. (c).
+    Subsec. (c). [Pub. L. 109–461][/us/pl/109/461], § 211(b)(1), added subsec. (c).
 
  __Effective Date of 2012 Amendment__ 
 
@@ -91,16 +91,16 @@
 ----------
 
 [/us/usc/t38/s1720/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1720%2Fc%2F1
-[/us/pl/109/461/s211/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461%2Fs211%2Fa%2F1
+[/us/pl/109/461/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461%2FtII
 [/us/stat/120/3418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3418
-[/us/pl/112/154/s105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154%2Fs105%2Fa
+[/us/pl/112/154/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154%2FtI
 [/us/stat/126/1170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1170
-[/us/pl/112/154/s105/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154%2Fs105%2Fa%2F1
+[/us/pl/112/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154
 [/us/usc/t38/s1720/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1720%2Fc%2F1
-[/us/pl/112/154/s105/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154%2Fs105%2Fa%2F2
+[/us/pl/112/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154
 [/us/usc/t38/s1720/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1720%2Fe%2F2
-[/us/pl/109/461/s211/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461%2Fs211%2Fa%2F2
-[/us/pl/109/461/s211/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461%2Fs211%2Fb%2F1
+[/us/pl/109/461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461
+[/us/pl/109/461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461
 [/us/pl/112/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154
 [/us/pl/112/154/s105/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154%2Fs105%2Fc
 [/us/pl/109/461/s211/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461%2Fs211%2Fa%2F2

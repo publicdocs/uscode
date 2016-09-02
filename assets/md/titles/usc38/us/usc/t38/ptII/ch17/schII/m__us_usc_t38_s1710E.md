@@ -39,7 +39,7 @@
 
     The Secretary may not provide treatment or services as described in subsection (a) at a non-Department facility under such subsection unless such facility maintains standards for the provision of such treatment or services established by an independent, peer-reviewed organization that accredits specialized rehabilitation programs for adults with traumatic brain injury.
 
-(Added [Pub. L. 110–181, div. A, title XVII, § 1703(a)][/us/pl/110/181/s1703/a], Jan. 28, 2008, [122 Stat. 489][/us/stat/122/489]; amended [Pub. L. 111–163, title V, § 509][/us/pl/111/163/s509], May 5, 2010, [124 Stat. 1162][/us/stat/124/1162]; [Pub. L. 112–154, title I, § 107(c)][/us/pl/112/154/s107/c], Aug. 6, 2012, [126 Stat. 1173][/us/stat/126/1173].)
+(Added [Pub. L. 110–181, div. A, title XVII][/us/pl/110/181/dA/tXVII], § 1703(a), Jan. 28, 2008, [122 Stat. 489][/us/stat/122/489]; amended [Pub. L. 111–163, title V][/us/pl/111/163/tV], § 509, May 5, 2010, [124 Stat. 1162][/us/stat/124/1162]; [Pub. L. 112–154, title I][/us/pl/112/154/tI], § 107(c), Aug. 6, 2012, [126 Stat. 1173][/us/stat/126/1173].)
 
  __References in Text__ 
 
@@ -47,7 +47,7 @@
 
  __Amendments__ 
 
-    2012—Subsec. (a). [Pub. L. 112–154, § 107(c)][/us/pl/112/154/s107/c], inserted “, including rehabilitative services (as defined in [section 1710C of this title][/us/usc/t38/s1710C]),” after “medical services”.
+    2012—Subsec. (a). [Pub. L. 112–154][/us/pl/112/154], § 107(c), inserted “, including rehabilitative services (as defined in [section 1710C of this title][/us/usc/t38/s1710C]),” after “medical services”.
 
     2010—Subsecs. (b) to (d). [Pub. L. 111–163][/us/pl/111/163] added subsecs. (b) and (d) and redesignated former subsec. (b) as (c).
 
@@ -63,16 +63,16 @@
 [/us/usc/t38/s1710C/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1710C%2Fa
 [/us/usc/t38/s1710C/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1710C%2Fg
 [/us/usc/t38/s1710C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1710C
-[/us/pl/110/181/s1703/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1703%2Fa
+[/us/pl/110/181/dA/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtXVII
 [/us/stat/122/489]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F489
-[/us/pl/111/163/s509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163%2Fs509
+[/us/pl/111/163/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163%2FtV
 [/us/stat/124/1162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1162
-[/us/pl/112/154/s107/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154%2Fs107%2Fc
+[/us/pl/112/154/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154%2FtI
 [/us/stat/126/1173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1173
 [/us/pl/106/402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F402
 [/us/stat/114/1677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1677
 [/us/usc/t42/s15001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15001
-[/us/pl/112/154/s107/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154%2Fs107%2Fc
+[/us/pl/112/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154
 [/us/usc/t38/s1710C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1710C
 [/us/pl/111/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163
 

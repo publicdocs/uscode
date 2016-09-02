@@ -23,7 +23,7 @@
 
     At the time of a servicemember’s discharge or release from active duty service, the Secretary of Defense shall furnish to the Secretary such pertinent information concerning each registered apprenticeship pursued by the servicemember during the period of active duty service of the servicemember. The Secretary, in conjunction with the Secretary of Labor, shall encourage and assist States and private organizations to give credit to servicemembers for the registered apprenticeship program so pursued in the case of any related apprenticeship program the servicemember may pursue as a civilian.
 
-(Added [Pub. L. 89–358, § 3(b)][/us/pl/89/358/s3/b], Mar. 3, 1966, [80 Stat. 23][/us/stat/80/23], § 1790; renumbered § 1794, [Pub. L. 92–540, title III, § 316(2)][/us/pl/92/540/s316/2], Oct. 24, 1972, [86 Stat. 1086][/us/stat/86/1086]; amended [Pub. L. 94–502, title V, § 513(a)(21)][/us/pl/94/502/s513/a/21], Oct. 15, 1976, [90 Stat. 2403][/us/stat/90/2403]; [Pub. L. 101–237, title IV, § 423(b)(1)(A)][/us/pl/101/237/s423/b/1/A], (2), Dec. 18, 1989, [103 Stat. 2092][/us/stat/103/2092]; renumbered § 3694, [Pub. L. 102–83, § 5(a)][/us/pl/102/83/s5/a], Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406]; [Pub. L. 108–454, title I, § 107][/us/pl/108/454/s107], Dec. 10, 2004, [118 Stat. 3603][/us/stat/118/3603].)
+(Added [Pub. L. 89–358][/us/pl/89/358], § 3(b), Mar. 3, 1966, [80 Stat. 23][/us/stat/80/23], § 1790; renumbered § 1794, [Pub. L. 92–540, title III][/us/pl/92/540/tIII], § 316(2), Oct. 24, 1972, [86 Stat. 1086][/us/stat/86/1086]; amended [Pub. L. 94–502, title V][/us/pl/94/502/tV], § 513(a)(21), Oct. 15, 1976, [90 Stat. 2403][/us/stat/90/2403]; [Pub. L. 101–237, title IV][/us/pl/101/237/tIV], § 423(b)(1)(A), (2), Dec. 18, 1989, [103 Stat. 2092][/us/stat/103/2092]; renumbered § 3694, [Pub. L. 102–83][/us/pl/102/83], § 5(a), Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406]; [Pub. L. 108–454, title I][/us/pl/108/454/tI], § 107, Dec. 10, 2004, [118 Stat. 3603][/us/stat/118/3603].)
 
  __Prior Provisions__ 
 
@@ -50,17 +50,17 @@
 ----------
 ----------
 
-[/us/pl/89/358/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F358%2Fs3%2Fb
+[/us/pl/89/358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F358
 [/us/stat/80/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F23
-[/us/pl/92/540/s316/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F540%2Fs316%2F2
+[/us/pl/92/540/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F540%2FtIII
 [/us/stat/86/1086]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1086
-[/us/pl/94/502/s513/a/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F502%2Fs513%2Fa%2F21
+[/us/pl/94/502/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F502%2FtV
 [/us/stat/90/2403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2403
-[/us/pl/101/237/s423/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237%2Fs423%2Fb%2F1%2FA
+[/us/pl/101/237/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237%2FtIV
 [/us/stat/103/2092]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2092
-[/us/pl/102/83/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fa
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F406
-[/us/pl/108/454/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F454%2Fs107
+[/us/pl/108/454/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F454%2FtI
 [/us/stat/118/3603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3603
 [/us/pl/85/857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F857
 [/us/stat/72/1183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1183

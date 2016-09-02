@@ -17,13 +17,13 @@
 
     The Secretary may require the opinion of the Attorney General on any question of law arising in the administration of the Department.
 
-(Added [Pub. L. 102–83, § 2(a)][/us/pl/102/83/s2/a], Aug. 6, 1991, [105 Stat. 387][/us/stat/105/387].)
+(Added [Pub. L. 102–83][/us/pl/102/83], § 2(a), Aug. 6, 1991, [105 Stat. 387][/us/stat/105/387].)
 
  __Prior Provisions__ 
 
     Prior sections 505 to 508 were renumbered sections 1505 to 1508 of this title, respectively.
 
-    Provisions similar to those in this section were contained in [section 211(b) of this title][/us/usc/t38/s211/b] prior to repeal by [Pub. L. 102–83, § 2(a)][/us/pl/102/83/s2/a].
+    Provisions similar to those in this section were contained in [section 211(b) of this title][/us/usc/t38/s211/b] prior to repeal by [Pub. L. 102–83][/us/pl/102/83], § 2(a).
 
 ----------
 
@@ -32,9 +32,9 @@
 ----------
 ----------
 
-[/us/pl/102/83/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs2%2Fa
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F387
 [/us/usc/t38/s211/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs211%2Fb
-[/us/pl/102/83/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs2%2Fa
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 
 

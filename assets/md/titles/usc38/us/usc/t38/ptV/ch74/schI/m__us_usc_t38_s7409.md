@@ -27,7 +27,7 @@
 
         (3) Any other group or individual capable of furnishing such scarce medical specialist services.
 
-(Added [Pub. L. 102–40, title IV, § 401(b)(2)][/us/pl/102/40/s401/b/2], May 7, 1991, [105 Stat. 229][/us/stat/105/229]; amended [Pub. L. 108–170, title III, § 302(f)][/us/pl/108/170/s302/f], Dec. 6, 2003, [117 Stat. 2058][/us/stat/117/2058].)
+(Added [Pub. L. 102–40, title IV][/us/pl/102/40/tIV], § 401(b)(2), May 7, 1991, [105 Stat. 229][/us/stat/105/229]; amended [Pub. L. 108–170, title III][/us/pl/108/170/tIII], § 302(f), Dec. 6, 2003, [117 Stat. 2058][/us/stat/117/2058].)
 
  __Prior Provisions__ 
 
@@ -48,9 +48,9 @@
 ----------
 ----------
 
-[/us/pl/102/40/s401/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs401%2Fb%2F2
+[/us/pl/102/40/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2FtIV
 [/us/stat/105/229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F229
-[/us/pl/108/170/s302/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F170%2Fs302%2Ff
+[/us/pl/108/170/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F170%2FtIII
 [/us/stat/117/2058]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2058
 [/us/usc/t38/s4117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs4117
 [/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40

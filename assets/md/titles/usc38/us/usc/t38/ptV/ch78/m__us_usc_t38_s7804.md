@@ -17,7 +17,7 @@
 
     To finance the establishment, maintenance, and operation of the Service there is hereby authorized to be appropriated, from time to time, such amounts as are necessary to provide for (1) the acquisition of necessary furniture, furnishings, fixtures, and equipment for the establishment, maintenance, and operation of canteens, warehouses, and storage depots; (2) stocks of merchandise and supplies for canteens and reserve stocks of same in warehouses and storage depots; (3) salaries, wages, and expenses of all employees; (4) administrative and operation expenses; and (5) adequate working capital for each canteen and for the Service as a whole. Amounts appropriated under the authority contained in this chapter and all income from canteen operations become and will be administered as a revolving fund to effectuate the provisions of this chapter.
 
-([Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1250][/us/stat/72/1250], § 4204; [Pub. L. 92–310, title II, § 209][/us/pl/92/310/s209], June 6, 1972, [86 Stat. 204][/us/stat/86/204]; [Pub. L. 99–576, title VII, § 702(14)][/us/pl/99/576/s702/14], Oct. 28, 1986, [100 Stat. 3302][/us/stat/100/3302]; renumbered § 7804 and amended [Pub. L. 102–40, title IV, § 402(a)][/us/pl/102/40/s402/a], (b)(1), May 7, 1991, [105 Stat. 238][/us/stat/105/238].)
+([Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1250][/us/stat/72/1250], § 4204; [Pub. L. 92–310, title II][/us/pl/92/310/tII], § 209, June 6, 1972, [86 Stat. 204][/us/stat/86/204]; [Pub. L. 99–576, title VII][/us/pl/99/576/tVII], § 702(14), Oct. 28, 1986, [100 Stat. 3302][/us/stat/100/3302]; renumbered § 7804 and amended [Pub. L. 102–40, title IV][/us/pl/102/40/tIV], § 402(a), (b)(1), May 7, 1991, [105 Stat. 238][/us/stat/105/238].)
 
  __Amendments__ 
 
@@ -36,11 +36,11 @@
 
 [/us/pl/85/857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F857
 [/us/stat/72/1250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1250
-[/us/pl/92/310/s209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F310%2Fs209
+[/us/pl/92/310/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F310%2FtII
 [/us/stat/86/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F204
-[/us/pl/99/576/s702/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2Fs702%2F14
+[/us/pl/99/576/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2FtVII
 [/us/stat/100/3302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3302
-[/us/pl/102/40/s402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs402%2Fa
+[/us/pl/102/40/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2FtIV
 [/us/stat/105/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F238
 [/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40
 [/us/usc/t38/s4204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs4204

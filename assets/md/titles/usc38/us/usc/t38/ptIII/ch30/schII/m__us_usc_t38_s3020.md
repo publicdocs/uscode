@@ -147,7 +147,7 @@
 
         (4) the Secretary of Defense with respect to matters concerning the Coast Guard, or the Secretary of Homeland Security when it is not operating as a service in the Navy.
 
-(Added [Pub. L. 107–107, div. A, title VI, § 654(a)(1)][/us/pl/107/107/s654/a/1], Dec. 28, 2001, [115 Stat. 1153][/us/stat/115/1153]; amended [Pub. L. 107–296, title XVII, § 1704(d)][/us/pl/107/296/s1704/d], Nov. 25, 2002, [116 Stat. 2315][/us/stat/116/2315]; [Pub. L. 107–314, div. A, title VI, § 643(a)][/us/pl/107/314/s643/a], Dec. 2, 2002, [116 Stat. 2577][/us/stat/116/2577]; [Pub. L. 110–252, title V, § 5006(a)][/us/pl/110/252/s5006/a], June 30, 2008, [122 Stat. 2380][/us/stat/122/2380]; [Pub. L. 112–81, div. A, title X, § 1063(b)][/us/pl/112/81/s1063/b], Dec. 31, 2011, [125 Stat. 1586][/us/stat/125/1586].)
+(Added [Pub. L. 107–107, div. A, title VI][/us/pl/107/107/dA/tVI], § 654(a)(1), Dec. 28, 2001, [115 Stat. 1153][/us/stat/115/1153]; amended [Pub. L. 107–296, title XVII][/us/pl/107/296/tXVII], § 1704(d), Nov. 25, 2002, [116 Stat. 2315][/us/stat/116/2315]; [Pub. L. 107–314, div. A, title VI][/us/pl/107/314/dA/tVI], § 643(a), Dec. 2, 2002, [116 Stat. 2577][/us/stat/116/2577]; [Pub. L. 110–252, title V][/us/pl/110/252/tV], § 5006(a), June 30, 2008, [122 Stat. 2380][/us/stat/122/2380]; [Pub. L. 112–81, div. A, title X][/us/pl/112/81/dA/tX], § 1063(b), Dec. 31, 2011, [125 Stat. 1586][/us/stat/125/1586].)
 
  __Prior Provisions__ 
 
@@ -157,31 +157,31 @@
 
     2011—Subsecs. (l), (m). [Pub. L. 112–81][/us/pl/112/81] redesignated subsec. (m) as (l) and struck out former subsec. (l) which required the Secretary of Defense to submit an annual report on approved transfers of entitlement to basic educational assistance.
 
-    2008—[Pub. L. 110–252, § 5006(a)(1)][/us/pl/110/252/s5006/a/1], substituted “Authority to transfer unused education benefits to family members for career service members” for “Transfer of entitlement to basic educational assistance: members of the Armed Forces with critical military skills” in section catchline.
+    2008—[Pub. L. 110–252][/us/pl/110/252], § 5006(a)(1), substituted “Authority to transfer unused education benefits to family members for career service members” for “Transfer of entitlement to basic educational assistance: members of the Armed Forces with critical military skills” in section catchline.
 
-    Subsecs. (a), (b). [Pub. L. 110–252, § 5006(a)(1)][/us/pl/110/252/s5006/a/1], added subsecs. (a) and (b) and struck out former subsecs. (a) and (b) which provided for transfers of entitlement to basic educational assistance from eligible members of the Armed Forces to certain dependents and described eligibility criteria for such members, respectively.
+    Subsecs. (a), (b). [Pub. L. 110–252][/us/pl/110/252], § 5006(a)(1), added subsecs. (a) and (b) and struck out former subsecs. (a) and (b) which provided for transfers of entitlement to basic educational assistance from eligible members of the Armed Forces to certain dependents and described eligibility criteria for such members, respectively.
 
-    Subsec. (d). [Pub. L. 110–252, § 5006(a)(2)][/us/pl/110/252/s5006/a/2], added subsec. (d) and struck out former subsec. (d). Prior to amendment, text read as follows: “The total number of months of entitlement transferred by an individual under this section may not exceed 18 months.”
+    Subsec. (d). [Pub. L. 110–252][/us/pl/110/252], § 5006(a)(2), added subsec. (d) and struck out former subsec. (d). Prior to amendment, text read as follows: “The total number of months of entitlement transferred by an individual under this section may not exceed 18 months.”
 
-    Subsec. (f)(1). [Pub. L. 110–252, § 5006(a)(3)][/us/pl/110/252/s5006/a/3], substituted “only while” for “without regard to whether”.
+    Subsec. (f)(1). [Pub. L. 110–252][/us/pl/110/252], § 5006(a)(3), substituted “only while” for “without regard to whether”.
 
-    Subsec. (f)(2)(A). [Pub. L. 110–252, § 5006(a)(4)][/us/pl/110/252/s5006/a/4], inserted “as long as the individual is serving on active duty or as a member of the Selected Reserve” after “so transferred”.
+    Subsec. (f)(2)(A). [Pub. L. 110–252][/us/pl/110/252], § 5006(a)(4), inserted “as long as the individual is serving on active duty or as a member of the Selected Reserve” after “so transferred”.
 
-    Subsec. (f)(3). [Pub. L. 110–252, § 5006(a)(5)][/us/pl/110/252/s5006/a/5], added par. (3).
+    Subsec. (f)(3). [Pub. L. 110–252][/us/pl/110/252], § 5006(a)(5), added par. (3).
 
-    Subsec. (h)(5). [Pub. L. 110–252, § 5006(a)(6)][/us/pl/110/252/s5006/a/6], inserted “may use the benefit without regard to the 10-year delimiting date, but” after “under this section”.
+    Subsec. (h)(5). [Pub. L. 110–252][/us/pl/110/252], § 5006(a)(6), inserted “may use the benefit without regard to the 10-year delimiting date, but” after “under this section”.
 
-    Subsec. (k). [Pub. L. 110–252, § 5006(a)(7)][/us/pl/110/252/s5006/a/7], added subsec. (k) and struck out former subsec. (k). Prior to amendment, text read as follows: “The Secretary of Defense shall prescribe regulations for purposes of this section. Such regulations shall specify the manner and effect of an election to modify or revoke a transfer of entitlement under subsection (f)(2) and shall specify the manner of the applicability of the administrative provisions referred to in subsection (h)(5) to a dependent to whom entitlement is transferred under this section.”
+    Subsec. (k). [Pub. L. 110–252][/us/pl/110/252], § 5006(a)(7), added subsec. (k) and struck out former subsec. (k). Prior to amendment, text read as follows: “The Secretary of Defense shall prescribe regulations for purposes of this section. Such regulations shall specify the manner and effect of an election to modify or revoke a transfer of entitlement under subsection (f)(2) and shall specify the manner of the applicability of the administrative provisions referred to in subsection (h)(5) to a dependent to whom entitlement is transferred under this section.”
 
-    2002—Subsec. (h)(2). [Pub. L. 107–314, § 643(a)(1)][/us/pl/107/314/s643/a/1], substituted “paragraphs (5) and (6)” for “paragraphs (4) and (5)” and struck out “and at the same rate” after “in the same manner”.
+    2002—Subsec. (h)(2). [Pub. L. 107–314][/us/pl/107/314], § 643(a)(1), substituted “paragraphs (5) and (6)” for “paragraphs (4) and (5)” and struck out “and at the same rate” after “in the same manner”.
 
-    Subsec. (h)(3) to (7). [Pub. L. 107–314, § 643(a)(2)][/us/pl/107/314/s643/a/2], (3), added par. (3) and redesignated former pars. (3) to (6) as (4) to (7), respectively.
+    Subsec. (h)(3) to (7). [Pub. L. 107–314][/us/pl/107/314], § 643(a)(2), (3), added par. (3) and redesignated former pars. (3) to (6) as (4) to (7), respectively.
 
     Subsec. (m)(4). [Pub. L. 107–296][/us/pl/107/296] substituted “of Homeland Security” for “of Transportation”.
 
  __Effective Date of 2002 Amendments__ 
 
-[Pub. L. 107–314, div. A, title VI, § 643(c)(1)][/us/pl/107/314/s643/c/1], Dec. 2, 2002, [116 Stat. 2578][/us/stat/116/2578], provided that: 
+[Pub. L. 107–314, div. A, title VI][/us/pl/107/314/dA/tVI], § 643(c)(1), Dec. 2, 2002, [116 Stat. 2578][/us/stat/116/2578], provided that: 
 
 > “The amendments made by subsection (a) \[amending this section\] shall take effect as if included in the enactment of [section 3020 of title 38][/us/usc/t38/s3020], United States Code, by section 654(a)(1) of the National Defense Authorization Act for Fiscal Year 2002 ([Public Law 107–107][/us/pl/107/107]; [115 Stat. 1153][/us/stat/115/1153]).”
 
@@ -189,7 +189,7 @@
 
  __Plan for Implementation__ 
 
-[Pub. L. 107–107, div. A, title VI, § 654(c)][/us/pl/107/107/s654/c], Dec. 28, 2001, [115 Stat. 1157][/us/stat/115/1157], provided that: 
+[Pub. L. 107–107, div. A, title VI][/us/pl/107/107/dA/tVI], § 654(c), Dec. 28, 2001, [115 Stat. 1157][/us/stat/115/1157], provided that: 
 
 > “Not later than June 30, 2002, the Secretary of Defense shall submit to Congress a report describing the manner in which the Secretaries of the military departments and the Secretary of Transportation propose to exercise the authority granted by [section 3020 of title 38][/us/usc/t38/s3020], United States Code, as added by subsection (a). The report shall include the regulations prescribed under subsection (k) of that section for purposes of the exercise of the authority.”
 
@@ -208,30 +208,30 @@
 [/us/usc/t38/s3011/a/1/A/ii/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3011%2Fa%2F1%2FA%2Fii%2FI
 [/us/usc/t10/s2006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2006
 [/us/usc/t38/s101/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs101%2F25
-[/us/pl/107/107/s654/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs654%2Fa%2F1
+[/us/pl/107/107/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtVI
 [/us/stat/115/1153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1153
-[/us/pl/107/296/s1704/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1704%2Fd
+[/us/pl/107/296/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXVII
 [/us/stat/116/2315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2315
-[/us/pl/107/314/s643/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs643%2Fa
+[/us/pl/107/314/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtVI
 [/us/stat/116/2577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2577
-[/us/pl/110/252/s5006/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F252%2Fs5006%2Fa
+[/us/pl/110/252/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F252%2FtV
 [/us/stat/122/2380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2380
-[/us/pl/112/81/s1063/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1063%2Fb
+[/us/pl/112/81/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtX
 [/us/stat/125/1586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1586
 [/us/usc/t38/s5120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs5120
 [/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
-[/us/pl/110/252/s5006/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F252%2Fs5006%2Fa%2F1
-[/us/pl/110/252/s5006/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F252%2Fs5006%2Fa%2F1
-[/us/pl/110/252/s5006/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F252%2Fs5006%2Fa%2F2
-[/us/pl/110/252/s5006/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F252%2Fs5006%2Fa%2F3
-[/us/pl/110/252/s5006/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F252%2Fs5006%2Fa%2F4
-[/us/pl/110/252/s5006/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F252%2Fs5006%2Fa%2F5
-[/us/pl/110/252/s5006/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F252%2Fs5006%2Fa%2F6
-[/us/pl/110/252/s5006/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F252%2Fs5006%2Fa%2F7
-[/us/pl/107/314/s643/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs643%2Fa%2F1
-[/us/pl/107/314/s643/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs643%2Fa%2F2
+[/us/pl/110/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F252
+[/us/pl/110/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F252
+[/us/pl/110/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F252
+[/us/pl/110/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F252
+[/us/pl/110/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F252
+[/us/pl/110/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F252
+[/us/pl/110/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F252
+[/us/pl/110/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F252
+[/us/pl/107/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314
+[/us/pl/107/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
-[/us/pl/107/314/s643/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs643%2Fc%2F1
+[/us/pl/107/314/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtVI
 [/us/stat/116/2578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2578
 [/us/usc/t38/s3020]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3020
 [/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
@@ -239,7 +239,7 @@
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/pl/107/296/s1704/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1704%2Fg
 [/us/usc/t10/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101
-[/us/pl/107/107/s654/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs654%2Fc
+[/us/pl/107/107/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtVI
 [/us/stat/115/1157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1157
 [/us/usc/t38/s3020]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3020
 

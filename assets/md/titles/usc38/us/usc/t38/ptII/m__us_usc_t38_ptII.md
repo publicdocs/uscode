@@ -131,19 +131,19 @@
 
  __Amendments__ 
 
-    2003—[Pub. L. 108–183, title I, § 102(e)(2)][/us/pl/108/183/s102/e/2], Dec. 16, 2003, [117 Stat. 2655][/us/stat/117/2655], substituted “Benefits for Children of Vietnam Veterans and Certain Other Veterans” for “Benefits for Children of Vietnam Veterans” in item for chapter 18.
+    2003—[Pub. L. 108–183, title I][/us/pl/108/183/tI], § 102(e)(2), Dec. 16, 2003, [117 Stat. 2655][/us/stat/117/2655], substituted “Benefits for Children of Vietnam Veterans and Certain Other Veterans” for “Benefits for Children of Vietnam Veterans” in item for chapter 18.
 
-    2001—[Pub. L. 107–95, § 5(a)(2)][/us/pl/107/95/s5/a/2], Dec. 21, 2001, [115 Stat. 918][/us/stat/115/918], added item for chapter 20.
+    2001—[Pub. L. 107–95][/us/pl/107/95], § 5(a)(2), Dec. 21, 2001, [115 Stat. 918][/us/stat/115/918], added item for chapter 20.
 
-    2000—[Pub. L. 106–419, title IV, § 401(f)(2)][/us/pl/106/419/s401/f/2], Nov. 1, 2000, [114 Stat. 1861][/us/stat/114/1861], substituted “Benefits for Children of Vietnam Veterans” and “1802” for “Benefits for Children of Vietnam Veterans Who Are Born With Spina Bifida” and “1801”, respectively, in item for chapter 18.
+    2000—[Pub. L. 106–419, title IV][/us/pl/106/419/tIV], § 401(f)(2), Nov. 1, 2000, [114 Stat. 1861][/us/stat/114/1861], substituted “Benefits for Children of Vietnam Veterans” and “1802” for “Benefits for Children of Vietnam Veterans Who Are Born With Spina Bifida” and “1801”, respectively, in item for chapter 18.
 
-    1996—[Pub. L. 104–204, title IV, § 421(b)(2)][/us/pl/104/204/s421/b/2], Sept. 26, 1996, [110 Stat. 2926][/us/stat/110/2926], added item for chapter 18.
+    1996—[Pub. L. 104–204, title IV][/us/pl/104/204/tIV], § 421(b)(2), Sept. 26, 1996, [110 Stat. 2926][/us/stat/110/2926], added item for chapter 18.
 
-    1991—[Pub. L. 102–83, § 5(b)(2)][/us/pl/102/83/s5/b/2], Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406], renumbered references to section numbers by substituting “1101” for “301” in item for chapter 11, “1301” for “401” in item for chapter 13, “1501” for “501” in item for chapter 15, “1701” for “601” in item for chapter 17, “1901” for “701” in item for chapter 19, “2101” for “801” in item for chapter 21, “2301” for “901” in item for chapter 23, and “2400” for “1000” in item for chapter 24.
+    1991—[Pub. L. 102–83][/us/pl/102/83], § 5(b)(2), Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406], renumbered references to section numbers by substituting “1101” for “301” in item for chapter 11, “1301” for “401” in item for chapter 13, “1501” for “501” in item for chapter 15, “1701” for “601” in item for chapter 17, “1901” for “701” in item for chapter 19, “2101” for “801” in item for chapter 21, “2301” for “901” in item for chapter 23, and “2400” for “1000” in item for chapter 24.
 
-    1976—[Pub. L. 94–581, title II, § 203(a)][/us/pl/94/581/s203/a], Oct. 21, 1976, [90 Stat. 2856][/us/stat/90/2856], inserted “Nursing Home,” in item for chapter 17.
+    1976—[Pub. L. 94–581, title II][/us/pl/94/581/tII], § 203(a), Oct. 21, 1976, [90 Stat. 2856][/us/stat/90/2856], inserted “Nursing Home,” in item for chapter 17.
 
-    1973—[Pub. L. 93–43, § 2(b)][/us/pl/93/43/s2/b], June 18, 1973, [87 Stat. 78][/us/stat/87/78], added item for chapter 24.
+    1973—[Pub. L. 93–43][/us/pl/93/43], § 2(b), June 18, 1973, [87 Stat. 78][/us/stat/87/78], added item for chapter 24.
 
 ----------
 
@@ -152,19 +152,19 @@
 ----------
 ----------
 
-[/us/pl/108/183/s102/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F183%2Fs102%2Fe%2F2
+[/us/pl/108/183/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F183%2FtI
 [/us/stat/117/2655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2655
-[/us/pl/107/95/s5/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F95%2Fs5%2Fa%2F2
+[/us/pl/107/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F95
 [/us/stat/115/918]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F918
-[/us/pl/106/419/s401/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419%2Fs401%2Ff%2F2
+[/us/pl/106/419/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419%2FtIV
 [/us/stat/114/1861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1861
-[/us/pl/104/204/s421/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F204%2Fs421%2Fb%2F2
+[/us/pl/104/204/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F204%2FtIV
 [/us/stat/110/2926]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2926
-[/us/pl/102/83/s5/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fb%2F2
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F406
-[/us/pl/94/581/s203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F581%2Fs203%2Fa
+[/us/pl/94/581/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F581%2FtII
 [/us/stat/90/2856]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2856
-[/us/pl/93/43/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F43%2Fs2%2Fb
+[/us/pl/93/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F43
 [/us/stat/87/78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F78
 
 

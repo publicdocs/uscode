@@ -51,7 +51,7 @@
 
     Any amount paid an individual under this section is in addition to any other educational assistance benefits provided the individual under this chapter.
 
-(Added [Pub. L. 110–252, title V, § 5003(a)(1)][/us/pl/110/252/s5003/a/1], June 30, 2008, [122 Stat. 2369][/us/stat/122/2369]; amended [Pub. L. 111–275, title X, § 1001(g)(6)][/us/pl/111/275/s1001/g/6], Oct. 13, 2010, [124 Stat. 2896][/us/stat/124/2896].)
+(Added [Pub. L. 110–252, title V][/us/pl/110/252/tV], § 5003(a)(1), June 30, 2008, [122 Stat. 2369][/us/stat/122/2369]; amended [Pub. L. 111–275, title X][/us/pl/111/275/tX], § 1001(g)(6), Oct. 13, 2010, [124 Stat. 2896][/us/stat/124/2896].)
 
  __Amendments__ 
 
@@ -64,9 +64,9 @@
 ----------
 ----------
 
-[/us/pl/110/252/s5003/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F252%2Fs5003%2Fa%2F1
+[/us/pl/110/252/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F252%2FtV
 [/us/stat/122/2369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2369
-[/us/pl/111/275/s1001/g/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275%2Fs1001%2Fg%2F6
+[/us/pl/111/275/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275%2FtX
 [/us/stat/124/2896]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2896
 [/us/pl/111/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275
 

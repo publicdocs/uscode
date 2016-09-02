@@ -25,7 +25,7 @@
 
         (3) The amounts of the allowance shall be $200 per month for the lowest level of disability prescribed, $700 per month for the intermediate level of disability prescribed, and $1,200 per month for the highest level of disability prescribed. Such amounts are subject to adjustment under [section 5312 of this title][/us/usc/t38/s5312].
 
-(Added [Pub. L. 104–204, title IV, § 421(b)(1)][/us/pl/104/204/s421/b/1], Sept. 26, 1996, [110 Stat. 2925][/us/stat/110/2925]; amended [Pub. L. 106–419, title IV, § 401(c)(2)][/us/pl/106/419/s401/c/2], (e)(2), Nov. 1, 2000, [114 Stat. 1860][/us/stat/114/1860].)
+(Added [Pub. L. 104–204, title IV][/us/pl/104/204/tIV], § 421(b)(1), Sept. 26, 1996, [110 Stat. 2925][/us/stat/110/2925]; amended [Pub. L. 106–419, title IV][/us/pl/106/419/tIV], § 401(c)(2), (e)(2), Nov. 1, 2000, [114 Stat. 1860][/us/stat/114/1860].)
 
  __Prior Provisions__ 
 
@@ -33,9 +33,9 @@
 
  __Amendments__ 
 
-    2000—Subsec. (a). [Pub. L. 106–419, § 401(e)(2)][/us/pl/106/419/s401/e/2], substituted “this section” for “this chapter”.
+    2000—Subsec. (a). [Pub. L. 106–419][/us/pl/106/419], § 401(e)(2), substituted “this section” for “this chapter”.
 
-    Subsecs. (c), (d). [Pub. L. 106–419, § 401(c)(2)][/us/pl/106/419/s401/c/2], struck out subsecs. (c) and (d) which read as follows:
+    Subsecs. (c), (d). [Pub. L. 106–419][/us/pl/106/419], § 401(c)(2), struck out subsecs. (c) and (d) which read as follows:
 
     “(c) Notwithstanding any other provision of law, receipt by a child of an allowance under this section shall not impair, infringe, or otherwise affect the right of the child to receive any other benefit to which the child may otherwise be entitled under any law administered by the Secretary, nor shall receipt of such an allowance impair, infringe, or otherwise affect the right of any individual to receive any benefit to which the individual is entitled under any law administered by the Secretary that is based on the child’s relationship to the individual.
 
@@ -53,13 +53,13 @@
 ----------
 
 [/us/usc/t38/s5312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs5312
-[/us/pl/104/204/s421/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F204%2Fs421%2Fb%2F1
+[/us/pl/104/204/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F204%2FtIV
 [/us/stat/110/2925]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2925
-[/us/pl/106/419/s401/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419%2Fs401%2Fc%2F2
+[/us/pl/106/419/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419%2FtIV
 [/us/stat/114/1860]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1860
 [/us/usc/t38/s3705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3705
-[/us/pl/106/419/s401/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419%2Fs401%2Fe%2F2
-[/us/pl/106/419/s401/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419%2Fs401%2Fc%2F2
+[/us/pl/106/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419
+[/us/pl/106/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419
 [/us/pl/106/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419
 [/us/pl/106/419/s401/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419%2Fs401%2Fg
 [/us/usc/t38/s1811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1811

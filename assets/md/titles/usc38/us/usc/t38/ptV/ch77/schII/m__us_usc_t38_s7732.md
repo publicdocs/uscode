@@ -17,7 +17,7 @@
 
     The Under Secretary for Benefits, acting through the quality assurance entities established under section 7731(a), shall on an ongoing basis perform and oversee quality reviews of the functions of each of the principal organizational elements of the Veterans Benefits Administration.
 
-(Added [Pub. L. 106–117, § 801(a)(1)][/us/pl/106/117/s801/a/1], Nov. 30, 1999, [113 Stat. 1585][/us/stat/113/1585].)
+(Added [Pub. L. 106–117][/us/pl/106/117], § 801(a)(1), Nov. 30, 1999, [113 Stat. 1585][/us/stat/113/1585].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/106/117/s801/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117%2Fs801%2Fa%2F1
+[/us/pl/106/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117
 [/us/stat/113/1585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1585
 
 

@@ -119,7 +119,7 @@
 
         (2) In addition to funds appropriated for a fiscal year pursuant to the authorization of appropriations in paragraph (1), the Under Secretary for Health shall allocate to such centers from other funds appropriated for that fiscal year generally for the Department of Veterans Affairs medical services account and the Department of Veterans Affairs medical and prosthetics research account such amounts as the Under Secretary for Health determines appropriate to carry out the purposes of this section.
 
-(Added [Pub. L. 104–262, title III, § 334(a)(1)][/us/pl/104/262/s334/a/1], Oct. 9, 1996, [110 Stat. 3200][/us/stat/110/3200]; amended [Pub. L. 110–387, title IX, § 901(a)(8)][/us/pl/110/387/s901/a/8], Oct. 10, 2008, [122 Stat. 4142][/us/stat/122/4142].)
+(Added [Pub. L. 104–262, title III][/us/pl/104/262/tIII], § 334(a)(1), Oct. 9, 1996, [110 Stat. 3200][/us/stat/110/3200]; amended [Pub. L. 110–387, title IX][/us/pl/110/387/tIX], § 901(a)(8), Oct. 10, 2008, [122 Stat. 4142][/us/stat/122/4142].)
 
  __References in Text__ 
 
@@ -131,7 +131,7 @@
 
  __Annual Reports On and Designation of Centers__ 
 
-[Pub. L. 104–262, title III, § 334(b)][/us/pl/104/262/s334/b], (c), Oct. 9, 1996, [110 Stat. 3203][/us/stat/110/3203], 3204, provided that:
+[Pub. L. 104–262, title III][/us/pl/104/262/tIII], § 334(b), (c), Oct. 9, 1996, [110 Stat. 3203][/us/stat/110/3203], 3204, provided that:
 
 >     “(b)  __Annual Reports__  __.—__ 
 
@@ -156,14 +156,14 @@
 ----------
 ----------
 
-[/us/pl/104/262/s334/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F262%2Fs334%2Fa%2F1
+[/us/pl/104/262/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F262%2FtIII
 [/us/stat/110/3200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3200
-[/us/pl/110/387/s901/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F387%2Fs901%2Fa%2F8
+[/us/pl/110/387/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F387%2FtIX
 [/us/stat/122/4142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4142
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770
 [/us/pl/110/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F387
-[/us/pl/104/262/s334/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F262%2Fs334%2Fb
+[/us/pl/104/262/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F262%2FtIII
 [/us/stat/110/3203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3203
 [/us/usc/t38/s7320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7320
 [/us/usc/t38/s7320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7320

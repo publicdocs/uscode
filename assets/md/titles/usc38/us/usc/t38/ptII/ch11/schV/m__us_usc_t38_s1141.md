@@ -17,7 +17,7 @@
 
     The surviving spouse, child or children, and dependent parent or parents of any veteran who died before January 1, 1957, as the result of injury or disease incurred in or aggravated by active military, naval, or air service, in line of duty, during other than a period of war, shall be entitled to receive compensation as hereinafter provided in this subchapter.
 
-([Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1123][/us/stat/72/1123], § 341; [Pub. L. 92–197, § 6][/us/pl/92/197/s6], Dec. 15, 1971, [85 Stat. 662][/us/stat/85/662]; [Pub. L. 94–433, title IV, § 404(18)][/us/pl/94/433/s404/18], Sept. 30, 1976, [90 Stat. 1379][/us/stat/90/1379]; renumbered § 1141, [Pub. L. 102–83, § 5(a)][/us/pl/102/83/s5/a], Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406].)
+([Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1123][/us/stat/72/1123], § 341; [Pub. L. 92–197][/us/pl/92/197], § 6, Dec. 15, 1971, [85 Stat. 662][/us/stat/85/662]; [Pub. L. 94–433, title IV][/us/pl/94/433/tIV], § 404(18), Sept. 30, 1976, [90 Stat. 1379][/us/stat/90/1379]; renumbered § 1141, [Pub. L. 102–83][/us/pl/102/83], § 5(a), Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406].)
 
  __Amendments__ 
 
@@ -44,11 +44,11 @@
 
 [/us/pl/85/857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F857
 [/us/stat/72/1123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1123
-[/us/pl/92/197/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F197%2Fs6
+[/us/pl/92/197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F197
 [/us/stat/85/662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F662
-[/us/pl/94/433/s404/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F433%2Fs404%2F18
+[/us/pl/94/433/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F433%2FtIV
 [/us/stat/90/1379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1379
-[/us/pl/102/83/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fa
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F406
 [/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/usc/t38/s341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs341

@@ -103,7 +103,7 @@
 
         (2) The term “postsecondary education and training opportunities” means any postsecondary program of education, including apprenticeships and on-job training, for which the Secretary of Veterans Affairs provides assistance to a veteran or member of the Armed Forces.
 
-(Added [Pub. L. 112–249, § 1(a)(1)][/us/pl/112/249/s1/a/1], Jan. 10, 2013, [126 Stat. 2398][/us/stat/126/2398].)
+(Added [Pub. L. 112–249][/us/pl/112/249], § 1(a)(1), Jan. 10, 2013, [126 Stat. 2398][/us/stat/126/2398].)
 
  __References in Text__ 
 
@@ -113,11 +113,11 @@
 
  __Prior Provisions__ 
 
-    A prior section 3698, added [Pub. L. 93–508, title III, § 301(a)][/us/pl/93/508/s301/a], Dec. 3, 1974, [88 Stat. 1589][/us/stat/88/1589], § 1798; amended [Pub. L. 94–502, title V][/us/pl/94/502], §§ 502(a), 513(a)(23), Oct. 15, 1976, [90 Stat. 2399][/us/stat/90/2399], 2403; [Pub. L. 95–202, title I, § 104(3)][/us/pl/95/202/s104/3], title II, § 202, Nov. 23, 1977, [91 Stat. 1435][/us/stat/91/1435], 1438; [Pub. L. 95–476, title II, § 201][/us/pl/95/476/s201], Oct. 18, 1978, [92 Stat. 1502][/us/stat/92/1502]; [Pub. L. 96–466, title II][/us/pl/96/466], §§ 203(4), 213(4), title VI, §§ 601(h), 603(b), title VIII, § 801(g), Oct. 17, 1980, [94 Stat. 2189][/us/stat/94/2189], 2191, 2208, 2209, 2216; [Pub. L. 97–35, title XX, § 2005(d)][/us/pl/97/35/s2005/d], Aug. 13, 1981, [95 Stat. 783][/us/stat/95/783]; [Pub. L. 97–295, § 4(60)][/us/pl/97/295/s4/60], Oct. 12, 1982, [96 Stat. 1309][/us/stat/96/1309]; [Pub. L. 97–306, title II, § 208][/us/pl/97/306/s208], Oct. 14, 1982, [96 Stat. 1436][/us/stat/96/1436]; [Pub. L. 98–543, title II, § 204(3)][/us/pl/98/543/s204/3], Oct. 24, 1984, [98 Stat. 2742][/us/stat/98/2742]; [Pub. L. 100–689, title I, § 124(b)][/us/pl/100/689/s124/b], Nov. 18, 1988, [102 Stat. 4174][/us/stat/102/4174]; [Pub. L. 101–237, title IV, § 423(b)(1)(A)][/us/pl/101/237/s423/b/1/A], Dec. 18, 1989, [103 Stat. 2092][/us/stat/103/2092]; [Pub. L. 102–16, § 5(a)][/us/pl/102/16/s5/a], Mar. 22, 1991, [105 Stat. 50][/us/stat/105/50]; renumbered § 3698 and amended [Pub. L. 102–83, § 5(a)][/us/pl/102/83/s5/a], (c)(1), Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406], related to eligibility for loans under former subchapter III of this chapter, prior to repeal by [Pub. L. 108–183, title III, § 306(e)][/us/pl/108/183/s306/e], (h)(2), Dec. 16, 2003, [117 Stat. 2661][/us/stat/117/2661], effective 90 days after Dec. 16, 2003.
+    A prior section 3698, added [Pub. L. 93–508, title III][/us/pl/93/508/tIII], § 301(a), Dec. 3, 1974, [88 Stat. 1589][/us/stat/88/1589], § 1798; amended [Pub. L. 94–502, title V][/us/pl/94/502/tV], §§ 502(a), 513(a)(23), Oct. 15, 1976, [90 Stat. 2399][/us/stat/90/2399], 2403; [Pub. L. 95–202, title I][/us/pl/95/202/tI], § 104(3), title II, § 202, Nov. 23, 1977, [91 Stat. 1435][/us/stat/91/1435], 1438; [Pub. L. 95–476, title II][/us/pl/95/476/tII], § 201, Oct. 18, 1978, [92 Stat. 1502][/us/stat/92/1502]; [Pub. L. 96–466, title II][/us/pl/96/466/tII], §§ 203(4), 213(4), title VI, §§ 601(h), 603(b), title VIII, § 801(g), Oct. 17, 1980, [94 Stat. 2189][/us/stat/94/2189], 2191, 2208, 2209, 2216; [Pub. L. 97–35, title XX][/us/pl/97/35/tXX], § 2005(d), Aug. 13, 1981, [95 Stat. 783][/us/stat/95/783]; [Pub. L. 97–295][/us/pl/97/295], § 4(60), Oct. 12, 1982, [96 Stat. 1309][/us/stat/96/1309]; [Pub. L. 97–306, title II][/us/pl/97/306/tII], § 208, Oct. 14, 1982, [96 Stat. 1436][/us/stat/96/1436]; [Pub. L. 98–543, title II][/us/pl/98/543/tII], § 204(3), Oct. 24, 1984, [98 Stat. 2742][/us/stat/98/2742]; [Pub. L. 100–689, title I][/us/pl/100/689/tI], § 124(b), Nov. 18, 1988, [102 Stat. 4174][/us/stat/102/4174]; [Pub. L. 101–237, title IV][/us/pl/101/237/tIV], § 423(b)(1)(A), Dec. 18, 1989, [103 Stat. 2092][/us/stat/103/2092]; [Pub. L. 102–16][/us/pl/102/16], § 5(a), Mar. 22, 1991, [105 Stat. 50][/us/stat/105/50]; renumbered § 3698 and amended [Pub. L. 102–83][/us/pl/102/83], § 5(a), (c)(1), Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406], related to eligibility for loans under former subchapter III of this chapter, prior to repeal by [Pub. L. 108–183, title III][/us/pl/108/183/tIII], § 306(e), (h)(2), Dec. 16, 2003, [117 Stat. 2661][/us/stat/117/2661], effective 90 days after Dec. 16, 2003.
 
  __Survey and Report; Definitions__ 
 
-[Pub. L. 112–249, § 1(b)][/us/pl/112/249/s1/b]–(d), Jan. 10, 2013, [126 Stat. 2400][/us/stat/126/2400], 2401, provided that:
+[Pub. L. 112–249][/us/pl/112/249], § 1(b)–(d), Jan. 10, 2013, [126 Stat. 2400][/us/stat/126/2400], 2401, provided that:
 
 >     “(b)  __Survey__  __.—__ 
 
@@ -173,41 +173,41 @@
 [/us/usc/t20/s1092/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1092%2Fh%2F1
 [/us/usc/t20/s1015a/i/1/V/iv]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1015a%2Fi%2F1%2FV%2Fiv
 [/us/usc/t38/s3452/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3452%2Ff
-[/us/pl/112/249/s1/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F249%2Fs1%2Fa%2F1
+[/us/pl/112/249]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F249
 [/us/stat/126/2398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2398
 [/us/pl/89/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329
 [/us/stat/79/1219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1219
 [/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001
 [/us/usc/t38/s3301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3301
-[/us/pl/93/508/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F508%2Fs301%2Fa
+[/us/pl/93/508/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F508%2FtIII
 [/us/stat/88/1589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1589
-[/us/pl/94/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F502
+[/us/pl/94/502/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F502%2FtV
 [/us/stat/90/2399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2399
-[/us/pl/95/202/s104/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F202%2Fs104%2F3
+[/us/pl/95/202/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F202%2FtI
 [/us/stat/91/1435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1435
-[/us/pl/95/476/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F476%2Fs201
+[/us/pl/95/476/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F476%2FtII
 [/us/stat/92/1502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1502
-[/us/pl/96/466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F466
+[/us/pl/96/466/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F466%2FtII
 [/us/stat/94/2189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2189
-[/us/pl/97/35/s2005/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2005%2Fd
+[/us/pl/97/35/tXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXX
 [/us/stat/95/783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F783
-[/us/pl/97/295/s4/60]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295%2Fs4%2F60
+[/us/pl/97/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295
 [/us/stat/96/1309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1309
-[/us/pl/97/306/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F306%2Fs208
+[/us/pl/97/306/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F306%2FtII
 [/us/stat/96/1436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1436
-[/us/pl/98/543/s204/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F543%2Fs204%2F3
+[/us/pl/98/543/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F543%2FtII
 [/us/stat/98/2742]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2742
-[/us/pl/100/689/s124/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F689%2Fs124%2Fb
+[/us/pl/100/689/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F689%2FtI
 [/us/stat/102/4174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4174
-[/us/pl/101/237/s423/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237%2Fs423%2Fb%2F1%2FA
+[/us/pl/101/237/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237%2FtIV
 [/us/stat/103/2092]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2092
-[/us/pl/102/16/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F16%2Fs5%2Fa
+[/us/pl/102/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F16
 [/us/stat/105/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F50
-[/us/pl/102/83/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fa
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F406
-[/us/pl/108/183/s306/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F183%2Fs306%2Fe
+[/us/pl/108/183/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F183%2FtIII
 [/us/stat/117/2661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2661
-[/us/pl/112/249/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F249%2Fs1%2Fb
+[/us/pl/112/249]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F249
 [/us/stat/126/2400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2400
 [/us/usc/t38/s3698/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3698%2Fa
 [/us/usc/t38/s3698/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3698%2Fa

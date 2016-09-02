@@ -35,7 +35,7 @@
 
     Financial assistance may not be provided to an individual under the scholarship program for more than six academic years.
 
-(Added [Pub. L. 111–163, title III, § 302(a)][/us/pl/111/163/s302/a], May 5, 2010, [124 Stat. 1147][/us/stat/124/1147].)
+(Added [Pub. L. 111–163, title III][/us/pl/111/163/tIII], § 302(a), May 5, 2010, [124 Stat. 1147][/us/stat/124/1147].)
 
 ----------
 
@@ -45,7 +45,7 @@
 ----------
 
 [/us/usc/t38/s7501/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7501%2Fa%2F1
-[/us/pl/111/163/s302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163%2Fs302%2Fa
+[/us/pl/111/163/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163%2FtIII
 [/us/stat/124/1147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1147
 
 

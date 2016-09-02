@@ -91,13 +91,13 @@
 
         (3) For purposes of this subsection, an eligible entity is a nonprofit entity and may be an entity that is ineligible to receive a grant under [section 2011 of this title][/us/usc/t38/s2011], but whom the Secretary determines carries out the purposes described in that section.
 
-(Added [Pub. L. 107–95, § 5(a)(1)][/us/pl/107/95/s5/a/1], Dec. 21, 2001, [115 Stat. 908][/us/stat/115/908]; amended [Pub. L. 111–163, title VII, § 701][/us/pl/111/163/s701], May 5, 2010, [124 Stat. 1174][/us/stat/124/1174].)
+(Added [Pub. L. 107–95][/us/pl/107/95], § 5(a)(1), Dec. 21, 2001, [115 Stat. 908][/us/stat/115/908]; amended [Pub. L. 111–163, title VII][/us/pl/111/163/tVII], § 701, May 5, 2010, [124 Stat. 1174][/us/stat/124/1174].)
 
  __References in Text__ 
 
     The date of the enactment of this section, referred to in subsec. (c)(2), is the date of enactment of [Pub. L. 107–95][/us/pl/107/95], which was approved Dec. 21, 2001.
 
-    Section 3 of the Homeless Veterans Comprehensive Service Programs Act of 1992, referred to in subsec. (c)(2), is [section 3 of Pub. L. 102–590][/us/pl/102/590/s3], Nov. 10, 1992, [106 Stat. 5136][/us/stat/106/5136], which was set out in a note under former [section 7721 of this title][/us/usc/t38/s7721], which note was repealed and restated in sections 2011 and 2012 of this title by [Pub. L. 107–95, § 5(a)(1)][/us/pl/107/95/s5/a/1], (e)(1), Dec. 21, 2001, [115 Stat. 906][/us/stat/115/906], 918. [Section 7721 of this title][/us/usc/t38/s7721] was repealed by [Pub. L. 109–233, title IV, § 402(c)][/us/pl/109/233/s402/c], June 15, 2006, [120 Stat. 411][/us/stat/120/411].
+    Section 3 of the Homeless Veterans Comprehensive Service Programs Act of 1992, referred to in subsec. (c)(2), is [section 3 of Pub. L. 102–590][/us/pl/102/590/s3], Nov. 10, 1992, [106 Stat. 5136][/us/stat/106/5136], which was set out in a note under former [section 7721 of this title][/us/usc/t38/s7721], which note was repealed and restated in sections 2011 and 2012 of this title by [Pub. L. 107–95][/us/pl/107/95], § 5(a)(1), (e)(1), Dec. 21, 2001, [115 Stat. 906][/us/stat/115/906], 918. [Section 7721 of this title][/us/usc/t38/s7721] was repealed by [Pub. L. 109–233, title IV][/us/pl/109/233/tIV], § 402(c), June 15, 2006, [120 Stat. 411][/us/stat/120/411].
 
  __Prior Provisions__ 
 
@@ -121,18 +121,18 @@
 [/us/pl/102/590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F590
 [/us/usc/t38/s7721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7721
 [/us/usc/t38/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs2011
-[/us/pl/107/95/s5/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F95%2Fs5%2Fa%2F1
+[/us/pl/107/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F95
 [/us/stat/115/908]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F908
-[/us/pl/111/163/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163%2Fs701
+[/us/pl/111/163/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163%2FtVII
 [/us/stat/124/1174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1174
 [/us/pl/107/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F95
 [/us/pl/102/590/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F590%2Fs3
 [/us/stat/106/5136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F5136
 [/us/usc/t38/s7721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7721
-[/us/pl/107/95/s5/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F95%2Fs5%2Fa%2F1
+[/us/pl/107/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F95
 [/us/stat/115/906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F906
 [/us/usc/t38/s7721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7721
-[/us/pl/109/233/s402/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F233%2Fs402%2Fc
+[/us/pl/109/233/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F233%2FtIV
 [/us/stat/120/411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F411
 [/us/usc/t38/s4212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs4212
 [/us/usc/t38/s4103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs4103

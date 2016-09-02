@@ -89,15 +89,15 @@
 
     Nothing in this section shall be construed to preclude the Secretary from providing a temporary disability rating under an authority other than this section.
 
-(Added [Pub. L. 110–389, title II, § 211(a)][/us/pl/110/389/s211/a], Oct. 10, 2008, [122 Stat. 4149][/us/stat/122/4149].)
+(Added [Pub. L. 110–389, title II][/us/pl/110/389/tII], § 211(a), Oct. 10, 2008, [122 Stat. 4149][/us/stat/122/4149].)
 
  __Codification__ 
 
-    Prior to renumbering of sections 301 to 363 of this chapter as sections 1101 to 1163 by [Pub. L. 102–83, § 5(a)][/us/pl/102/83/s5/a], Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406], section 356 of this chapter, [Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1125][/us/stat/72/1125], which provided for a minimum rating for veterans with arrested tuberculosis, was repealed by [Pub. L. 90–493, § 4][/us/pl/90/493/s4], Aug. 19, 1968, [82 Stat. 809][/us/stat/82/809], but repeal not applicable in case of veteran who on Aug. 19, 1968, was receiving or entitled to receive compensation for tuberculosis which in the judgment of the Administrator had reached a condition of complete arrest.
+    Prior to renumbering of sections 301 to 363 of this chapter as sections 1101 to 1163 by [Pub. L. 102–83][/us/pl/102/83], § 5(a), Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406], section 356 of this chapter, [Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1125][/us/stat/72/1125], which provided for a minimum rating for veterans with arrested tuberculosis, was repealed by [Pub. L. 90–493][/us/pl/90/493], § 4, Aug. 19, 1968, [82 Stat. 809][/us/stat/82/809], but repeal not applicable in case of veteran who on Aug. 19, 1968, was receiving or entitled to receive compensation for tuberculosis which in the judgment of the Administrator had reached a condition of complete arrest.
 
  __Effective Date__ 
 
-[Pub. L. 110–389, title II, § 211(b)][/us/pl/110/389/s211/b], Oct. 10, 2008, [122 Stat. 4151][/us/stat/122/4151], provided that: 
+[Pub. L. 110–389, title II][/us/pl/110/389/tII], § 211(b), Oct. 10, 2008, [122 Stat. 4151][/us/stat/122/4151], provided that: 
 
 > “[Section 1156(a)(1) of title 38][/us/usc/t38/s1156/a/1], United States Code, as added by subsection (a), shall apply with respect to a veteran who is discharged or released from active duty (as defined in [section 101 of title 38][/us/usc/t38/s101], United States Code) on or after the date of the enactment of this Act \[Oct. 10, 2008\].”
 
@@ -108,15 +108,15 @@
 ----------
 ----------
 
-[/us/pl/110/389/s211/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F389%2Fs211%2Fa
+[/us/pl/110/389/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F389%2FtII
 [/us/stat/122/4149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4149
-[/us/pl/102/83/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fa
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F406
 [/us/pl/85/857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F857
 [/us/stat/72/1125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1125
-[/us/pl/90/493/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F493%2Fs4
+[/us/pl/90/493]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F493
 [/us/stat/82/809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F809
-[/us/pl/110/389/s211/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F389%2Fs211%2Fb
+[/us/pl/110/389/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F389%2FtII
 [/us/stat/122/4151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4151
 [/us/usc/t38/s1156/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1156%2Fa%2F1
 [/us/usc/t38/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs101

@@ -43,7 +43,7 @@
 
     In carrying out this section, the Secretary shall assign such employees as the Secretary considers appropriate to conduct outreach programs and provide outreach services for homeless veterans. Such outreach services may include site visits through which homeless veterans can be identified and provided assistance in obtaining benefits and services that may be available to them.
 
-(Added [Pub. L. 109–233, title IV, § 402(a)][/us/pl/109/233/s402/a], June 15, 2006, [120 Stat. 408][/us/stat/120/408].)
+(Added [Pub. L. 109–233, title IV][/us/pl/109/233/tIV], § 402(a), June 15, 2006, [120 Stat. 408][/us/stat/120/408].)
 
  __Prior Provisions__ 
 
@@ -51,7 +51,7 @@
 
  __Outreach Program to Veterans in Rural Areas__ 
 
-[Pub. L. 109–461, title II, § 213][/us/pl/109/461/s213], Dec. 22, 2006, [120 Stat. 3422][/us/stat/120/3422], provided that:
+[Pub. L. 109–461, title II][/us/pl/109/461/tII], § 213, Dec. 22, 2006, [120 Stat. 3422][/us/stat/120/3422], provided that:
 
 >     “(a)  __Program__  __.—__ 
 
@@ -63,7 +63,7 @@
 
  __Information To Assist Veterans Receiving Education Benefits__ 
 
-[Pub. L. 101–237, title IV, § 421][/us/pl/101/237/s421], Dec. 18, 1989, [103 Stat. 2088][/us/stat/103/2088], provided that:
+[Pub. L. 101–237, title IV][/us/pl/101/237/tIV], § 421, Dec. 18, 1989, [103 Stat. 2088][/us/stat/103/2088], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -85,7 +85,7 @@
 
  __Outreach Services__ 
 
-[Pub. L. 100–687, div. B, title XII, § 1204][/us/pl/100/687/s1204], Nov. 18, 1988, [102 Stat. 4125][/us/stat/102/4125], as amended by [Pub. L. 102–4, § 4][/us/pl/102/4/s4], Feb. 6, 1991, [105 Stat. 15][/us/stat/105/15]; [Pub. L. 102–83, § 6(k)(2)][/us/pl/102/83/s6/k/2], Aug. 6, 1991, [105 Stat. 409][/us/stat/105/409], provided that:
+[Pub. L. 100–687, div. B, title XII][/us/pl/100/687/dB/tXII], § 1204, Nov. 18, 1988, [102 Stat. 4125][/us/stat/102/4125], as amended by [Pub. L. 102–4][/us/pl/102/4], § 4, Feb. 6, 1991, [105 Stat. 15][/us/stat/105/15]; [Pub. L. 102–83][/us/pl/102/83], § 6(k)(2), Aug. 6, 1991, [105 Stat. 409][/us/stat/105/409], provided that:
 
 >     “(a)  __Ongoing Outreach Program__  __.—__ 
 
@@ -111,19 +111,19 @@
 ----------
 
 [/us/usc/t38/s3485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3485
-[/us/pl/109/233/s402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F233%2Fs402%2Fa
+[/us/pl/109/233/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F233%2FtIV
 [/us/stat/120/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F408
 [/us/usc/t38/s7722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7722
 [/us/pl/109/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F233
-[/us/pl/109/461/s213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461%2Fs213
+[/us/pl/109/461/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461%2FtII
 [/us/stat/120/3422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3422
-[/us/pl/101/237/s421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237%2Fs421
+[/us/pl/101/237/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237%2FtIV
 [/us/stat/103/2088]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2088
-[/us/pl/100/687/s1204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F687%2Fs1204
+[/us/pl/100/687/dB/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F687%2FdB%2FtXII
 [/us/stat/102/4125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4125
-[/us/pl/102/4/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F4%2Fs4
+[/us/pl/102/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F4
 [/us/stat/105/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F15
-[/us/pl/102/83/s6/k/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs6%2Fk%2F2
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F409
 
 

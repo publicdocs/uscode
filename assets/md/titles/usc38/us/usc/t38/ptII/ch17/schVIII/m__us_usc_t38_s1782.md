@@ -41,7 +41,7 @@
 
         (2) A dependent or survivor receiving care under the last sentence of [section 1783(b) of this title][/us/usc/t38/s1783/b].
 
-(Added [Pub. L. 107–135, title II, § 208(b)][/us/pl/107/135/s208/b], Jan. 23, 2002, [115 Stat. 2462][/us/stat/115/2462]; amended [Pub. L. 110–387, title III, § 301(a)(2)][/us/pl/110/387/s301/a/2], Oct. 10, 2008, [122 Stat. 4120][/us/stat/122/4120]; [Pub. L. 111–163, title I, § 103(a)][/us/pl/111/163/s103/a], (b), May 5, 2010, [124 Stat. 1139][/us/stat/124/1139], 1140.)
+(Added [Pub. L. 107–135, title II][/us/pl/107/135/tII], § 208(b), Jan. 23, 2002, [115 Stat. 2462][/us/stat/115/2462]; amended [Pub. L. 110–387, title III][/us/pl/110/387/tIII], § 301(a)(2), Oct. 10, 2008, [122 Stat. 4120][/us/stat/122/4120]; [Pub. L. 111–163, title I][/us/pl/111/163/tI], § 103(a), (b), May 5, 2010, [124 Stat. 1139][/us/stat/124/1139], 1140.)
 
  __Prior Provisions__ 
 
@@ -49,13 +49,13 @@
 
  __Amendments__ 
 
-    2010—[Pub. L. 111–163, § 103(b)][/us/pl/111/163/s103/b], inserted “and caregivers” after “members” in section catchline.
+    2010—[Pub. L. 111–163][/us/pl/111/163], § 103(b), inserted “and caregivers” after “members” in section catchline.
 
-    Subsec. (c)(2), (3). [Pub. L. 111–163, § 103(a)][/us/pl/111/163/s103/a], added par. (2) and redesignated former par. (2) as (3).
+    Subsec. (c)(2), (3). [Pub. L. 111–163][/us/pl/111/163], § 103(a), added par. (2) and redesignated former par. (2) as (3).
 
-    2008—Subsec. (a). [Pub. L. 110–387, § 301(a)(2)(A)][/us/pl/110/387/s301/a/2/A], inserted “marriage and family counseling,” after “professional counseling,”.
+    2008—Subsec. (a). [Pub. L. 110–387][/us/pl/110/387], § 301(a)(2)(A), inserted “marriage and family counseling,” after “professional counseling,”.
 
-    Subsec. (b). [Pub. L. 110–387, § 301(a)(2)(B)][/us/pl/110/387/s301/a/2/B], inserted “marriage and family counseling,” after “professional counseling,” and substituted period at end for “if—
+    Subsec. (b). [Pub. L. 110–387][/us/pl/110/387], § 301(a)(2)(B), inserted “marriage and family counseling,” after “professional counseling,” and substituted period at end for “if—
 
     “(1) those services were initiated during the veteran’s hospitalization; and
 
@@ -73,16 +73,16 @@
 [/us/usc/t38/s1720G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1720G
 [/us/usc/t38/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs111
 [/us/usc/t38/s1783/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1783%2Fb
-[/us/pl/107/135/s208/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F135%2Fs208%2Fb
+[/us/pl/107/135/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F135%2FtII
 [/us/stat/115/2462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2462
-[/us/pl/110/387/s301/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F387%2Fs301%2Fa%2F2
+[/us/pl/110/387/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F387%2FtIII
 [/us/stat/122/4120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4120
-[/us/pl/111/163/s103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163%2Fs103%2Fa
+[/us/pl/111/163/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163%2FtI
 [/us/stat/124/1139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1139
 [/us/usc/t38/s3682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3682
-[/us/pl/111/163/s103/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163%2Fs103%2Fb
-[/us/pl/111/163/s103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163%2Fs103%2Fa
-[/us/pl/110/387/s301/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F387%2Fs301%2Fa%2F2%2FA
-[/us/pl/110/387/s301/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F387%2Fs301%2Fa%2F2%2FB
+[/us/pl/111/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163
+[/us/pl/111/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163
+[/us/pl/110/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F387
+[/us/pl/110/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F387
 
 

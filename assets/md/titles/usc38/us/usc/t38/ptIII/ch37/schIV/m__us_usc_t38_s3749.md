@@ -29,13 +29,13 @@
 
     (e) Not later than two years after the termination of the authority of the Secretary to make new commitments for financial assistance under this subchapter, the Secretary shall transfer into the general fund of the Treasury all amounts in the fund except those that the Secretary determines may be required for the liquidation of obligations under this subchapter. All amounts received thereafter derived from loan operations under this subchapter, except so much thereof as the Secretary may determine to be necessary for liquidating outstanding obligations under this subchapter, shall also be so deposited.
 
-(Added [Pub. L. 97–72, title III, § 302(a)][/us/pl/97/72/s302/a], Nov. 3, 1981, [95 Stat. 1058][/us/stat/95/1058], § 1849; amended [Pub. L. 99–576, title VII, § 702(11)][/us/pl/99/576/s702/11], Oct. 28, 1986, [100 Stat. 3302][/us/stat/100/3302]; [Pub. L. 101–237, title III, § 313(b)(1)][/us/pl/101/237/s313/b/1], Dec. 18, 1989, [103 Stat. 2077][/us/stat/103/2077]; renumbered § 3749 and amended [Pub. L. 102–83][/us/pl/102/83], §§ 4(a)(2)(B)(v), 5(a), Aug. 6, 1991, [105 Stat. 403][/us/stat/105/403], 406.)
+(Added [Pub. L. 97–72, title III][/us/pl/97/72/tIII], § 302(a), Nov. 3, 1981, [95 Stat. 1058][/us/stat/95/1058], § 1849; amended [Pub. L. 99–576, title VII][/us/pl/99/576/tVII], § 702(11), Oct. 28, 1986, [100 Stat. 3302][/us/stat/100/3302]; [Pub. L. 101–237, title III][/us/pl/101/237/tIII], § 313(b)(1), Dec. 18, 1989, [103 Stat. 2077][/us/stat/103/2077]; renumbered § 3749 and amended [Pub. L. 102–83][/us/pl/102/83], §§ 4(a)(2)(B)(v), 5(a), Aug. 6, 1991, [105 Stat. 403][/us/stat/105/403], 406.)
 
  __Amendments__ 
 
-    1991—[Pub. L. 102–83, § 5(a)][/us/pl/102/83/s5/a], renumbered [section 1849 of this title][/us/usc/t38/s1849] as this section.
+    1991—[Pub. L. 102–83][/us/pl/102/83], § 5(a), renumbered [section 1849 of this title][/us/usc/t38/s1849] as this section.
 
-    Subsec. (a). [Pub. L. 102–83, § 4(a)(2)(B)(v)][/us/pl/102/83/s4/a/2/B/v], substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
+    Subsec. (a). [Pub. L. 102–83][/us/pl/102/83], § 4(a)(2)(B)(v), substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
 
     1989—Subsecs. (b) to (e). [Pub. L. 101–237][/us/pl/101/237] substituted “Secretary” and “Secretary’s” for “Administrator” and “Administrator’s”, respectively, wherever appearing.
 
@@ -48,17 +48,17 @@
 ----------
 ----------
 
-[/us/pl/97/72/s302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F72%2Fs302%2Fa
+[/us/pl/97/72/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F72%2FtIII
 [/us/stat/95/1058]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1058
-[/us/pl/99/576/s702/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2Fs702%2F11
+[/us/pl/99/576/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2FtVII
 [/us/stat/100/3302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3302
-[/us/pl/101/237/s313/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237%2Fs313%2Fb%2F1
+[/us/pl/101/237/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237%2FtIII
 [/us/stat/103/2077]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2077
 [/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F403
-[/us/pl/102/83/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fa
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/usc/t38/s1849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1849
-[/us/pl/102/83/s4/a/2/B/v]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fa%2F2%2FB%2Fv
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/pl/101/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237
 [/us/pl/99/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576
 

@@ -31,17 +31,17 @@
 
             (B) other activities and programs of the Court that are intended to support and foster communication and relationships between the Court and persons practicing before the Court or the study, understanding, public commemoration, or improvement of veterans law or of the work of the Court.
 
-(Added [Pub. L. 100–687, div. A, title III, § 301(a)][/us/pl/100/687/s301/a], Nov. 18, 1988, [102 Stat. 4119][/us/stat/102/4119], § 4085; renumbered § 7285, [Pub. L. 102–40, title IV, § 402(b)(1)][/us/pl/102/40/s402/b/1], May 7, 1991, [105 Stat. 238][/us/stat/105/238]; amended [Pub. L. 105–368, title V, § 512(a)(1)][/us/pl/105/368/s512/a/1], Nov. 11, 1998, [112 Stat. 3341][/us/stat/112/3341]; [Pub. L. 107–103, title VI, § 604(a)][/us/pl/107/103/s604/a]–(c)(1), Dec. 27, 2001, [115 Stat. 999][/us/stat/115/999]; [Pub. L. 110–389, title VI, § 605][/us/pl/110/389/s605], Oct. 10, 2008, [122 Stat. 4179][/us/stat/122/4179].)
+(Added [Pub. L. 100–687, div. A, title III][/us/pl/100/687/dA/tIII], § 301(a), Nov. 18, 1988, [102 Stat. 4119][/us/stat/102/4119], § 4085; renumbered § 7285, [Pub. L. 102–40, title IV][/us/pl/102/40/tIV], § 402(b)(1), May 7, 1991, [105 Stat. 238][/us/stat/105/238]; amended [Pub. L. 105–368, title V][/us/pl/105/368/tV], § 512(a)(1), Nov. 11, 1998, [112 Stat. 3341][/us/stat/112/3341]; [Pub. L. 107–103, title VI][/us/pl/107/103/tVI], § 604(a)–(c)(1), Dec. 27, 2001, [115 Stat. 999][/us/stat/115/999]; [Pub. L. 110–389, title VI][/us/pl/110/389/tVI], § 605, Oct. 10, 2008, [122 Stat. 4179][/us/stat/122/4179].)
 
  __Amendments__ 
 
     2008—Subsec. (a). [Pub. L. 110–389][/us/pl/110/389] inserted “reasonable” after “impose a” in two places and struck out “, except that such amount may not exceed $30 per year” after “by the Court”.
 
-    2001—[Pub. L. 107–103, § 604(c)(1)][/us/pl/107/103/s604/c/1], substituted “Practice and registration fees” for “Practice fee” in section catchline.
+    2001—[Pub. L. 107–103][/us/pl/107/103], § 604(c)(1), substituted “Practice and registration fees” for “Practice fee” in section catchline.
 
-    Subsec. (a). [Pub. L. 107–103, § 604(a)][/us/pl/107/103/s604/a], inserted at end “The Court may also impose a registration fee on persons (other than judges of the Court) participating at judicial conferences convened pursuant to [section 7286 of this title][/us/usc/t38/s7286] or in any other court-sponsored activity.”
+    Subsec. (a). [Pub. L. 107–103][/us/pl/107/103], § 604(a), inserted at end “The Court may also impose a registration fee on persons (other than judges of the Court) participating at judicial conferences convened pursuant to [section 7286 of this title][/us/usc/t38/s7286] or in any other court-sponsored activity.”
 
-    Subsec. (b). [Pub. L. 107–103, § 604(b)][/us/pl/107/103/s604/b], substituted “for the following purposes:” and pars. (1) and (2) for “for the purposes of (1) employing independent counsel to pursue disciplinary matters, and (2) defraying administrative costs for the implementation of the standards of proficiency prescribed for practice before the Court.”
+    Subsec. (b). [Pub. L. 107–103][/us/pl/107/103], § 604(b), substituted “for the following purposes:” and pars. (1) and (2) for “for the purposes of (1) employing independent counsel to pursue disciplinary matters, and (2) defraying administrative costs for the implementation of the standards of proficiency prescribed for practice before the Court.”
 
     1998—Subsec. (a). [Pub. L. 105–368][/us/pl/105/368] substituted “Court of Appeals for Veterans Claims” for “Court of Veterans Appeals”.
 
@@ -60,21 +60,21 @@
 
 [/us/usc/t38/s7286]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7286
 [/us/usc/t38/s7286]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7286
-[/us/pl/100/687/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F687%2Fs301%2Fa
+[/us/pl/100/687/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F687%2FdA%2FtIII
 [/us/stat/102/4119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4119
-[/us/pl/102/40/s402/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs402%2Fb%2F1
+[/us/pl/102/40/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2FtIV
 [/us/stat/105/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F238
-[/us/pl/105/368/s512/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2Fs512%2Fa%2F1
+[/us/pl/105/368/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2FtV
 [/us/stat/112/3341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3341
-[/us/pl/107/103/s604/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F103%2Fs604%2Fa
+[/us/pl/107/103/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F103%2FtVI
 [/us/stat/115/999]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F999
-[/us/pl/110/389/s605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F389%2Fs605
+[/us/pl/110/389/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F389%2FtVI
 [/us/stat/122/4179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4179
 [/us/pl/110/389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F389
-[/us/pl/107/103/s604/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F103%2Fs604%2Fc%2F1
-[/us/pl/107/103/s604/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F103%2Fs604%2Fa
+[/us/pl/107/103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F103
+[/us/pl/107/103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F103
 [/us/usc/t38/s7286]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7286
-[/us/pl/107/103/s604/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F103%2Fs604%2Fb
+[/us/pl/107/103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F103
 [/us/pl/105/368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368
 [/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40
 [/us/usc/t38/s4085]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs4085

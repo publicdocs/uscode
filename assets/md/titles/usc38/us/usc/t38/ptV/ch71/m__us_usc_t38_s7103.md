@@ -33,7 +33,7 @@
 
     (c) The Board on its own motion may correct an obvious error in the record, without regard to whether there has been a motion or order for reconsideration.
 
-([Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1241][/us/stat/72/1241], § 4003; [Pub. L. 100–687, div. A, title II, § 202(a)][/us/pl/100/687/s202/a], Nov. 18, 1988, [102 Stat. 4110][/us/stat/102/4110]; renumbered § 7103, [Pub. L. 102–40, title IV, § 402(b)(1)][/us/pl/102/40/s402/b/1], May 7, 1991, [105 Stat. 238][/us/stat/105/238]; [Pub. L. 103–271, § 6(a)][/us/pl/103/271/s6/a], July 1, 1994, [108 Stat. 741][/us/stat/108/741].)
+([Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1241][/us/stat/72/1241], § 4003; [Pub. L. 100–687, div. A, title II][/us/pl/100/687/dA/tII], § 202(a), Nov. 18, 1988, [102 Stat. 4110][/us/stat/102/4110]; renumbered § 7103, [Pub. L. 102–40, title IV][/us/pl/102/40/tIV], § 402(b)(1), May 7, 1991, [105 Stat. 238][/us/stat/105/238]; [Pub. L. 103–271][/us/pl/103/271], § 6(a), July 1, 1994, [108 Stat. 741][/us/stat/108/741].)
 
  __Amendments__ 
 
@@ -63,11 +63,11 @@
 [/us/usc/t38/s7102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7102
 [/us/pl/85/857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F857
 [/us/stat/72/1241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1241
-[/us/pl/100/687/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F687%2Fs202%2Fa
+[/us/pl/100/687/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F687%2FdA%2FtII
 [/us/stat/102/4110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4110
-[/us/pl/102/40/s402/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs402%2Fb%2F1
+[/us/pl/102/40/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2FtIV
 [/us/stat/105/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F238
-[/us/pl/103/271/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F271%2Fs6%2Fa
+[/us/pl/103/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F271
 [/us/stat/108/741]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F741
 [/us/pl/103/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F271
 [/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40

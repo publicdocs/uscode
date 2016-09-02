@@ -23,11 +23,11 @@
 
     For purposes of this section, the term “small business concern owned and controlled by veterans” means a small business concern that is included in the small business database maintained by the Secretary under [section 8127(f) of this title][/us/usc/t38/s8127/f].
 
-(Added [Pub. L. 109–461, title V, § 503(a)(1)][/us/pl/109/461/s503/a/1], Dec. 22, 2006, [120 Stat. 3435][/us/stat/120/3435].)
+(Added [Pub. L. 109–461, title V][/us/pl/109/461/tV], § 503(a)(1), Dec. 22, 2006, [120 Stat. 3435][/us/stat/120/3435].)
 
  __Effective Date__ 
 
-[Pub. L. 109–461, title V, § 503(b)][/us/pl/109/461/s503/b], Dec. 22, 2006, [120 Stat. 3436][/us/stat/120/3436], provided that: 
+[Pub. L. 109–461, title V][/us/pl/109/461/tV], § 503(b), Dec. 22, 2006, [120 Stat. 3436][/us/stat/120/3436], provided that: 
 
 > “This section \[enacting this section\] and the amendments made by this section shall take effect on the date that is 180 days after the date of the enactment of this Act \[Dec. 22, 2006\].”
 
@@ -39,9 +39,9 @@
 ----------
 
 [/us/usc/t38/s8127/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs8127%2Ff
-[/us/pl/109/461/s503/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461%2Fs503%2Fa%2F1
+[/us/pl/109/461/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461%2FtV
 [/us/stat/120/3435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3435
-[/us/pl/109/461/s503/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461%2Fs503%2Fb
+[/us/pl/109/461/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461%2FtV
 [/us/stat/120/3436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3436
 
 

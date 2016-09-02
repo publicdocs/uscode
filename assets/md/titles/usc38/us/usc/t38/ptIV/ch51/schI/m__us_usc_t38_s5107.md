@@ -23,7 +23,7 @@
 
     The Secretary shall consider all information and lay and medical evidence of record in a case before the Secretary with respect to benefits under laws administered by the Secretary. When there is an approximate balance of positive and negative evidence regarding any issue material to the determination of a matter, the Secretary shall give the benefit of the doubt to the claimant.
 
-(Added [Pub. L. 100–687, div. A, title I, § 103(a)(1)][/us/pl/100/687/s103/a/1], Nov. 18, 1988, [102 Stat. 4106][/us/stat/102/4106], § 3007; renumbered § 5107 and amended [Pub. L. 102–40, title IV, § 402(b)(1)][/us/pl/102/40/s402/b/1], (d)(1), May 7, 1991, [105 Stat. 238][/us/stat/105/238], 239; [Pub. L. 102–83, § 4(a)(1)][/us/pl/102/83/s4/a/1], (3), (4), (b)(1), (2)(E), Aug. 6, 1991, [105 Stat. 403–405][/us/stat/105/403-405]; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title XVI, § 1611(a)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–359; [Pub. L. 106–419, title I, § 104(c)(2)][/us/pl/106/419/s104/c/2], Nov. 1, 2000, [114 Stat. 1828][/us/stat/114/1828]; [Pub. L. 106–475, § 4][/us/pl/106/475/s4], Nov. 9, 2000, [114 Stat. 2098][/us/stat/114/2098].)
+(Added [Pub. L. 100–687, div. A, title I][/us/pl/100/687/dA/tI], § 103(a)(1), Nov. 18, 1988, [102 Stat. 4106][/us/stat/102/4106], § 3007; renumbered § 5107 and amended [Pub. L. 102–40, title IV][/us/pl/102/40/tIV], § 402(b)(1), (d)(1), May 7, 1991, [105 Stat. 238][/us/stat/105/238], 239; [Pub. L. 102–83][/us/pl/102/83], § 4(a)(1), (3), (4), (b)(1), (2)(E), Aug. 6, 1991, [105 Stat. 403–405][/us/stat/105/403-405]; [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title XVI, § 1611(a)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–359; [Pub. L. 106–419, title I][/us/pl/106/419/tI], § 104(c)(2), Nov. 1, 2000, [114 Stat. 1828][/us/stat/114/1828]; [Pub. L. 106–475][/us/pl/106/475], § 4, Nov. 9, 2000, [114 Stat. 2098][/us/stat/114/2098].)
 
  __Amendments__ 
 
@@ -33,25 +33,25 @@
 
     “(b) When, after consideration of all evidence and material of record in a case before the Department with respect to benefits under laws administered by the Secretary, there is an approximate balance of positive and negative evidence regarding the merits of an issue material to the determination of the matter, the benefit of the doubt in resolving each such issue shall be given to the claimant. Nothing in this subsection shall be construed as shifting from the claimant to the Secretary the burden specified in subsection (a) of this section.”
 
-    [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title XVI, § 1611(a)\], directed the general amendment of the section catchline and text. [Pub. L. 106–419, § 104(c)(2)][/us/pl/106/419/s104/c/2], provided that, as of the enactment of [Pub. L. 106–419][/us/pl/106/419], the amendment made by [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title XVI, § 1611(a)\], was deemed for all purposes not to have taken effect and that [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title XVI, § 1611(a)\], ceased to be in effect.
+    [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title XVI, § 1611(a)\], directed the general amendment of the section catchline and text. [Pub. L. 106–419][/us/pl/106/419], § 104(c)(2), provided that, as of the enactment of [Pub. L. 106–419][/us/pl/106/419], the amendment made by [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title XVI, § 1611(a)\], was deemed for all purposes not to have taken effect and that [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title XVI, § 1611(a)\], ceased to be in effect.
 
-    1991—[Pub. L. 102–40, § 402(b)(1)][/us/pl/102/40/s402/b/1], renumbered [section 3007 of this title][/us/usc/t38/s3007] as this section.
+    1991—[Pub. L. 102–40][/us/pl/102/40], § 402(b)(1), renumbered [section 3007 of this title][/us/usc/t38/s3007] as this section.
 
-    Subsec. (a). [Pub. L. 102–83, § 4(b)(1)][/us/pl/102/83/s4/b/1], (2)(E), substituted “Secretary” for “Administrator” in two places.
+    Subsec. (a). [Pub. L. 102–83][/us/pl/102/83], § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in two places.
 
-    [Pub. L. 102–83, § 4(a)(1)][/us/pl/102/83/s4/a/1], substituted “administered by the Secretary” for “administered by the Veterans’ Administration”.
+    [Pub. L. 102–83][/us/pl/102/83], § 4(a)(1), substituted “administered by the Secretary” for “administered by the Veterans’ Administration”.
 
-    [Pub. L. 102–40, § 402(d)(1)][/us/pl/102/40/s402/d/1], substituted “5106” for “3006”.
+    [Pub. L. 102–40][/us/pl/102/40], § 402(d)(1), substituted “5106” for “3006”.
 
-    Subsec. (b). [Pub. L. 102–83, § 4(b)(1)][/us/pl/102/83/s4/b/1], (2)(E), substituted “Secretary” for “Administrator” before “the burden”.
+    Subsec. (b). [Pub. L. 102–83][/us/pl/102/83], § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” before “the burden”.
 
-    [Pub. L. 102–83, § 4(a)(3)][/us/pl/102/83/s4/a/3], (4), substituted “Department” for “Veterans’ Administration”.
+    [Pub. L. 102–83][/us/pl/102/83], § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration”.
 
-    [Pub. L. 102–83, § 4(a)(1)][/us/pl/102/83/s4/a/1], substituted “administered by the Secretary” for “administered by the Veterans’ Administration”.
+    [Pub. L. 102–83][/us/pl/102/83], § 4(a)(1), substituted “administered by the Secretary” for “administered by the Veterans’ Administration”.
 
  __Effective Date of 2000 Amendment__ 
 
-[Pub. L. 106–475, § 7][/us/pl/106/475/s7], Nov. 9, 2000, [114 Stat. 2099][/us/stat/114/2099], provided that:
+[Pub. L. 106–475][/us/pl/106/475], § 7, Nov. 9, 2000, [114 Stat. 2099][/us/stat/114/2099], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -88,34 +88,34 @@
 ----------
 ----------
 
-[/us/pl/100/687/s103/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F687%2Fs103%2Fa%2F1
+[/us/pl/100/687/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F687%2FdA%2FtI
 [/us/stat/102/4106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4106
-[/us/pl/102/40/s402/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs402%2Fb%2F1
+[/us/pl/102/40/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2FtIV
 [/us/stat/105/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F238
-[/us/pl/102/83/s4/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fa%2F1
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/403-405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F403-405
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/106/419/s104/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419%2Fs104%2Fc%2F2
+[/us/pl/106/419/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419%2FtI
 [/us/stat/114/1828]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1828
-[/us/pl/106/475/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F475%2Fs4
+[/us/pl/106/475]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F475
 [/us/stat/114/2098]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2098
 [/us/pl/106/475]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F475
 [/us/usc/t38/s5106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs5106
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
-[/us/pl/106/419/s104/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419%2Fs104%2Fc%2F2
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/pl/106/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
-[/us/pl/102/40/s402/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs402%2Fb%2F1
+[/us/pl/106/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
+[/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40
 [/us/usc/t38/s3007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3007
-[/us/pl/102/83/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fb%2F1
-[/us/pl/102/83/s4/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fa%2F1
-[/us/pl/102/40/s402/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs402%2Fd%2F1
-[/us/pl/102/83/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fb%2F1
-[/us/pl/102/83/s4/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fa%2F3
-[/us/pl/102/83/s4/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fa%2F1
-[/us/pl/106/475/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F475%2Fs7
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/106/475]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F475
 [/us/stat/114/2099]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2099
 [/us/usc/t38/s5107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs5107
 [/us/usc/t38/s5107/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs5107%2Fa

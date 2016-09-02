@@ -41,7 +41,7 @@
 
         (5) Other individuals and organizations that the Secretary considers appropriate.
 
-(Added [Pub. L. 109–233, title IV, § 402(a)][/us/pl/109/233/s402/a], June 15, 2006, [120 Stat. 408][/us/stat/120/408].)
+(Added [Pub. L. 109–233, title IV][/us/pl/109/233/tIV], § 402(a), June 15, 2006, [120 Stat. 408][/us/stat/120/408].)
 
 ----------
 
@@ -51,7 +51,7 @@
 ----------
 
 [/us/usc/t38/s5902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs5902
-[/us/pl/109/233/s402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F233%2Fs402%2Fa
+[/us/pl/109/233/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F233%2FtIV
 [/us/stat/120/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F408
 
 

@@ -53,19 +53,19 @@
 
         (B) is not a Native American.
 
-(Added [Pub. L. 102–547, § 8(a)][/us/pl/102/547/s8/a], Oct. 28, 1992, [106 Stat. 3639][/us/stat/106/3639], § 3764; renumbered § 3765 and amended [Pub. L. 109–233, title I, § 104(a)(1)][/us/pl/109/233/s104/a/1], (b), June 15, 2006, [120 Stat. 401][/us/stat/120/401], 402.)
+(Added [Pub. L. 102–547][/us/pl/102/547], § 8(a), Oct. 28, 1992, [106 Stat. 3639][/us/stat/106/3639], § 3764; renumbered § 3765 and amended [Pub. L. 109–233, title I][/us/pl/109/233/tI], § 104(a)(1), (b), June 15, 2006, [120 Stat. 401][/us/stat/120/401], 402.)
 
  __References in Text__ 
 
     Section 201(a)(7) of the Hawaiian Homes Commission Act, 1920, referred to in par. (3)(B), was classified to [section 692 of Title 48][/us/usc/t48/s692], Territories and Insular Possessions, and was omitted from the Code.
 
-    The Native American Programs Act of 1974, referred to in par. (3)(D), is title VIII of [Pub. L. 88–452][/us/pl/88/452], as added by [Pub. L. 93–644, § 11][/us/pl/93/644/s11], Jan. 4, 1975, [88 Stat. 2324][/us/stat/88/2324], which is classified generally to subchapter VIII (§ 2991 et seq.) of chapter 34 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 2991 of Title 42][/us/usc/t42/s2991] and Tables.
+    The Native American Programs Act of 1974, referred to in par. (3)(D), is title VIII of [Pub. L. 88–452][/us/pl/88/452], as added by [Pub. L. 93–644][/us/pl/93/644], § 11, Jan. 4, 1975, [88 Stat. 2324][/us/stat/88/2324], which is classified generally to subchapter VIII (§ 2991 et seq.) of chapter 34 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 2991 of Title 42][/us/usc/t42/s2991] and Tables.
 
  __Amendments__ 
 
-    2006—[Pub. L. 109–233, § 104(a)(1)][/us/pl/109/233/s104/a/1], renumbered [section 3764 of this title][/us/usc/t38/s3764] as this section.
+    2006—[Pub. L. 109–233][/us/pl/109/233], § 104(a)(1), renumbered [section 3764 of this title][/us/usc/t38/s3764] as this section.
 
-    Par. (5). [Pub. L. 109–233, § 104(b)][/us/pl/109/233/s104/b], added par. (5).
+    Par. (5). [Pub. L. 109–233][/us/pl/109/233], § 104(b), added par. (5).
 
 ----------
 
@@ -81,17 +81,17 @@
 [/us/usc/t43/s1602/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1602%2Fb
 [/us/usc/t42/s2991]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2991
 [/us/usc/t25/s450b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450b
-[/us/pl/102/547/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F547%2Fs8%2Fa
+[/us/pl/102/547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F547
 [/us/stat/106/3639]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3639
-[/us/pl/109/233/s104/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F233%2Fs104%2Fa%2F1
+[/us/pl/109/233/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F233%2FtI
 [/us/stat/120/401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F401
 [/us/usc/t48/s692]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs692
 [/us/pl/88/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F452
-[/us/pl/93/644/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F644%2Fs11
+[/us/pl/93/644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F644
 [/us/stat/88/2324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2324
 [/us/usc/t42/s2991]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2991
-[/us/pl/109/233/s104/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F233%2Fs104%2Fa%2F1
+[/us/pl/109/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F233
 [/us/usc/t38/s3764]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3764
-[/us/pl/109/233/s104/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F233%2Fs104%2Fb
+[/us/pl/109/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F233
 
 

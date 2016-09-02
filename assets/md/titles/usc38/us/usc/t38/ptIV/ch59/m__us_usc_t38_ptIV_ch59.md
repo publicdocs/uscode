@@ -67,7 +67,7 @@
 
  __Amendments__ 
 
-    1991—[Pub. L. 102–40, title IV, § 402(c)(1)][/us/pl/102/40/s402/c/1], May 7, 1991, [105 Stat. 239][/us/stat/105/239], renumbered items 3401 to 3405 as 5901 to 5905, respectively.
+    1991—[Pub. L. 102–40, title IV][/us/pl/102/40/tIV], § 402(c)(1), May 7, 1991, [105 Stat. 239][/us/stat/105/239], renumbered items 3401 to 3405 as 5901 to 5905, respectively.
 
 ----------
 
@@ -76,7 +76,7 @@
 ----------
 ----------
 
-[/us/pl/102/40/s402/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs402%2Fc%2F1
+[/us/pl/102/40/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2FtIV
 [/us/stat/105/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F239
 
 

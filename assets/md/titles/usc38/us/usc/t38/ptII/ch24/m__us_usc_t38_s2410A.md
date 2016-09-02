@@ -37,11 +37,11 @@
 
                 (ii) the Committee on Veterans’ Affairs and the Committee on Armed Services of the House of Representatives.
 
-(Added [Pub. L. 112–154, title VI, § 602(a)][/us/pl/112/154/s602/a], Aug. 6, 2012, [126 Stat. 1199][/us/stat/126/1199].)
+(Added [Pub. L. 112–154, title VI][/us/pl/112/154/tVI], § 602(a), Aug. 6, 2012, [126 Stat. 1199][/us/stat/126/1199].)
 
  __Effective Date__ 
 
-[Pub. L. 112–154, title VI, § 602(c)][/us/pl/112/154/s602/c], Aug. 6, 2012, [126 Stat. 1200][/us/stat/126/1200], provided that:
+[Pub. L. 112–154, title VI][/us/pl/112/154/tVI], § 602(c), Aug. 6, 2012, [126 Stat. 1200][/us/stat/126/1200], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -58,9 +58,9 @@
 ----------
 ----------
 
-[/us/pl/112/154/s602/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154%2Fs602%2Fa
+[/us/pl/112/154/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154%2FtVI
 [/us/stat/126/1199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1199
-[/us/pl/112/154/s602/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154%2Fs602%2Fc
+[/us/pl/112/154/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154%2FtVI
 [/us/stat/126/1200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1200
 [/us/usc/t38/s2410A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs2410A
 

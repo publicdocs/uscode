@@ -103,17 +103,17 @@
 
     (f) Nothing in this section shall be construed to deprive any person of any procedural rights, including any rights to assistance in applying for or claiming a benefit.
 
-(Added [Pub. L. 97–66, title VI, § 604(a)(1)][/us/pl/97/66/s604/a/1], Oct. 17, 1981, [95 Stat. 1035][/us/stat/95/1035], § 3103A; amended [Pub. L. 97–306, title IV, § 408(a)][/us/pl/97/306/s408/a], Oct. 14, 1982, [96 Stat. 1445][/us/stat/96/1445]; [Pub. L. 99–576, title III, § 321(11)][/us/pl/99/576/s321/11], Oct. 28, 1986, [100 Stat. 3278][/us/stat/100/3278]; [Pub. L. 100–689, title I, § 102(b)(3)][/us/pl/100/689/s102/b/3], Nov. 18, 1988, [102 Stat. 4163][/us/stat/102/4163]; [Pub. L. 101–510, div. A, title V, § 562(a)(4)][/us/pl/101/510/s562/a/4], Nov. 5, 1990, [104 Stat. 1574][/us/stat/104/1574]; renumbered § 5303A, [Pub. L. 102–40, title IV, § 402(b)(1)][/us/pl/102/40/s402/b/1], May 7, 1991, [105 Stat. 238][/us/stat/105/238]; [Pub. L. 102–83][/us/pl/102/83], §§ 4(a)(1), (b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, [105 Stat. 403–406][/us/stat/105/403-406]; [Pub. L. 103–353, § 3][/us/pl/103/353/s3], Oct. 13, 1994, [108 Stat. 3169][/us/stat/108/3169]; [Pub. L. 103–446, title IX, § 908][/us/pl/103/446/s908], Nov. 2, 1994, [108 Stat. 4678][/us/stat/108/4678]; [Pub. L. 105–368, title X, § 1005(b)(15)][/us/pl/105/368/s1005/b/15], Nov. 11, 1998, [112 Stat. 3365][/us/stat/112/3365].)
+(Added [Pub. L. 97–66, title VI][/us/pl/97/66/tVI], § 604(a)(1), Oct. 17, 1981, [95 Stat. 1035][/us/stat/95/1035], § 3103A; amended [Pub. L. 97–306, title IV][/us/pl/97/306/tIV], § 408(a), Oct. 14, 1982, [96 Stat. 1445][/us/stat/96/1445]; [Pub. L. 99–576, title III][/us/pl/99/576/tIII], § 321(11), Oct. 28, 1986, [100 Stat. 3278][/us/stat/100/3278]; [Pub. L. 100–689, title I][/us/pl/100/689/tI], § 102(b)(3), Nov. 18, 1988, [102 Stat. 4163][/us/stat/102/4163]; [Pub. L. 101–510, div. A, title V][/us/pl/101/510/dA/tV], § 562(a)(4), Nov. 5, 1990, [104 Stat. 1574][/us/stat/104/1574]; renumbered § 5303A, [Pub. L. 102–40, title IV][/us/pl/102/40/tIV], § 402(b)(1), May 7, 1991, [105 Stat. 238][/us/stat/105/238]; [Pub. L. 102–83][/us/pl/102/83], §§ 4(a)(1), (b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, [105 Stat. 403–406][/us/stat/105/403-406]; [Pub. L. 103–353][/us/pl/103/353], § 3, Oct. 13, 1994, [108 Stat. 3169][/us/stat/108/3169]; [Pub. L. 103–446, title IX][/us/pl/103/446/tIX], § 908, Nov. 2, 1994, [108 Stat. 4678][/us/stat/108/4678]; [Pub. L. 105–368, title X][/us/pl/105/368/tX], § 1005(b)(15), Nov. 11, 1998, [112 Stat. 3365][/us/stat/112/3365].)
 
  __References in Text__ 
 
-    The Social Security Act, referred to in subsec. (d)(3)(B)(i), is [act Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], [49 Stat. 620][/us/stat/49/620], as amended, which is classified generally to chapter 7 (§ 301 et seq.) of Title 42, The Public Health and Welfare. Section 229(a) of the Act was redesignated section 229 by [Pub. L. 108–203, title IV, § 420(b)(1)(A)][/us/pl/108/203/s420/b/1/A], Mar. 2, 2004, [118 Stat. 535][/us/stat/118/535]. For complete classification of this Act to the Code, see [section 1305 of Title 42][/us/usc/t42/s1305] and Tables.
+    The Social Security Act, referred to in subsec. (d)(3)(B)(i), is [act Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], [49 Stat. 620][/us/stat/49/620], as amended, which is classified generally to chapter 7 (§ 301 et seq.) of Title 42, The Public Health and Welfare. Section 229(a) of the Act was redesignated section 229 by [Pub. L. 108–203, title IV][/us/pl/108/203/tIV], § 420(b)(1)(A), Mar. 2, 2004, [118 Stat. 535][/us/stat/118/535]. For complete classification of this Act to the Code, see [section 1305 of Title 42][/us/usc/t42/s1305] and Tables.
 
  __Amendments__ 
 
-    1998—Subsec. (d)(2)(B). [Pub. L. 105–368, § 1005(b)(15)(A)][/us/pl/105/368/s1005/b/15/A], substituted “after October 13, 1982,” for “on or after the date of the enactment of this subsection”.
+    1998—Subsec. (d)(2)(B). [Pub. L. 105–368][/us/pl/105/368], § 1005(b)(15)(A), substituted “after October 13, 1982,” for “on or after the date of the enactment of this subsection”.
 
-    Subsec. (d)(3)(B)(i). [Pub. L. 105–368, § 1005(b)(15)(B)][/us/pl/105/368/s1005/b/15/B], substituted “after October 13, 1982,” for “on or after the date of the enactment of this subsection,”.
+    Subsec. (d)(3)(B)(i). [Pub. L. 105–368][/us/pl/105/368], § 1005(b)(15)(B), substituted “after October 13, 1982,” for “on or after the date of the enactment of this subsection,”.
 
     1994—Subsec. (b)(3)(F). [Pub. L. 103–446][/us/pl/103/446] inserted “or chapter 37” after “chapter 30” in introductory provisions.
 
@@ -121,23 +121,23 @@
 
     1991—[Pub. L. 102–40][/us/pl/102/40] renumbered [section 3103A of this title][/us/usc/t38/s3103A] as this section.
 
-    Subsec. (a). [Pub. L. 102–83, § 4(a)(1)][/us/pl/102/83/s4/a/1], substituted “administered by the Secretary” for “administered by the Veterans’ Administration”.
+    Subsec. (a). [Pub. L. 102–83][/us/pl/102/83], § 4(a)(1), substituted “administered by the Secretary” for “administered by the Veterans’ Administration”.
 
-    Subsec. (b)(1). [Pub. L. 102–83, § 4(a)(1)][/us/pl/102/83/s4/a/1], substituted “administered by the Secretary” for “administered by the Veterans’ Administration” in concluding provisions.
+    Subsec. (b)(1). [Pub. L. 102–83][/us/pl/102/83], § 4(a)(1), substituted “administered by the Secretary” for “administered by the Veterans’ Administration” in concluding provisions.
 
-    Subsec. (b)(3)(C). [Pub. L. 102–83, § 4(b)(1)][/us/pl/102/83/s4/b/1], (2)(E), substituted “Secretary” for “Administrator”.
+    Subsec. (b)(3)(C). [Pub. L. 102–83][/us/pl/102/83], § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
-    Subsec. (b)(3)(F)(i). [Pub. L. 102–83, § 5(c)(1)][/us/pl/102/83/s5/c/1], substituted “3011(a)(1)(A)(ii)(II)” and “3012(b)(1)(A)(iv)” for “1411(a)(1)(A)(ii)(II)” and “1412(b)(1)(A)(iv)”, respectively.
+    Subsec. (b)(3)(F)(i). [Pub. L. 102–83][/us/pl/102/83], § 5(c)(1), substituted “3011(a)(1)(A)(ii)(II)” and “3012(b)(1)(A)(iv)” for “1411(a)(1)(A)(ii)(II)” and “1412(b)(1)(A)(iv)”, respectively.
 
-    Subsec. (b)(3)(F)(ii). [Pub. L. 102–83, § 4(b)(1)][/us/pl/102/83/s4/b/1], (2)(E), substituted “Secretary” for “Administrator”.
+    Subsec. (b)(3)(F)(ii). [Pub. L. 102–83][/us/pl/102/83], § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
-    [Pub. L. 102–83, § 5(c)(1)][/us/pl/102/83/s5/c/1], substituted “3011(a)(1)” for “1411(a)(1)” and “3012(b)(1)(A)(ii)” for “1412(b)(1)(A)(ii)”.
+    [Pub. L. 102–83][/us/pl/102/83], § 5(c)(1), substituted “3011(a)(1)” for “1411(a)(1)” and “3012(b)(1)(A)(ii)” for “1412(b)(1)(A)(ii)”.
 
-    Subsec. (b)(3)(F)(iii). [Pub. L. 102–83, § 5(c)(1)][/us/pl/102/83/s5/c/1], substituted “3011(a)(1)” for “1411(a)(1)” and “3012(b)(1)(A)(v)” for “1412(b)(1)(A)(v)”.
+    Subsec. (b)(3)(F)(iii). [Pub. L. 102–83][/us/pl/102/83], § 5(c)(1), substituted “3011(a)(1)” for “1411(a)(1)” and “3012(b)(1)(A)(v)” for “1412(b)(1)(A)(v)”.
 
-    Subsec. (b)(3)(F)(iv). [Pub. L. 102–83, § 5(c)(1)][/us/pl/102/83/s5/c/1], substituted “3011(a)(1)(A)(ii)(I)” for “1411(a)(1)(A)(ii)(I)”.
+    Subsec. (b)(3)(F)(iv). [Pub. L. 102–83][/us/pl/102/83], § 5(c)(1), substituted “3011(a)(1)(A)(ii)(I)” for “1411(a)(1)(A)(ii)(I)”.
 
-    Subsecs. (c)(1), (d)(1). [Pub. L. 102–83, § 4(a)(1)][/us/pl/102/83/s4/a/1], substituted “administered by the Secretary” for “administered by the Veterans’ Administration”.
+    Subsecs. (c)(1), (d)(1). [Pub. L. 102–83][/us/pl/102/83], § 4(a)(1), substituted “administered by the Secretary” for “administered by the Veterans’ Administration”.
 
     1990—Subsec. (b)(3)(F)(iv). [Pub. L. 101–510][/us/pl/101/510] added cl. (iv).
 
@@ -145,11 +145,11 @@
 
     1986—Subsec. (b)(3)(F). [Pub. L. 99–576][/us/pl/99/576] added subpar. (F).
 
-    1982—Subsec. (b)(2)(B). [Pub. L. 97–306, § 408(a)(1)][/us/pl/97/306/s408/a/1], substituted “after October 16, 1981,” for “on or after the date of the enactment of the Veterans’ Disability Compensation, Housing, and Memorial Benefits Amendments of 1981”.
+    1982—Subsec. (b)(2)(B). [Pub. L. 97–306][/us/pl/97/306], § 408(a)(1), substituted “after October 16, 1981,” for “on or after the date of the enactment of the Veterans’ Disability Compensation, Housing, and Memorial Benefits Amendments of 1981”.
 
-    Subsecs. (d), (e). [Pub. L. 97–306, § 408(a)(2)][/us/pl/97/306/s408/a/2], added subsec. (d) and redesignated former subsec. (d) as (e).
+    Subsecs. (d), (e). [Pub. L. 97–306][/us/pl/97/306], § 408(a)(2), added subsec. (d) and redesignated former subsec. (d) as (e).
 
-    Subsec. (f). [Pub. L. 97–306, § 408(a)(3)][/us/pl/97/306/s408/a/3], added subsec. (f).
+    Subsec. (f). [Pub. L. 97–306][/us/pl/97/306], § 408(a)(3), added subsec. (f).
 
  __Effective Date of 1994 Amendment__ 
 
@@ -169,7 +169,7 @@
 
  __Delayed Application of Exclusion; Additional Wages Considered Benefit__ 
 
-[Pub. L. 97–306, title IV, § 408(b)][/us/pl/97/306/s408/b], Oct. 14, 1982, [96 Stat. 1446][/us/stat/96/1446], provided that:
+[Pub. L. 97–306, title IV][/us/pl/97/306/tIV], § 408(b), Oct. 14, 1982, [96 Stat. 1446][/us/stat/96/1446], provided that:
 
 >     “(1) Subsection (d) of section 3103A \[now 5303A\] of title 38, United States Code, as added by subsection (a)(2), shall not apply with respect to the receipt by any person of any benefit provided by or pursuant to law before the date of the enactment of this Act \[Oct. 14, 1982\].
 
@@ -177,13 +177,13 @@
 
  __Scope of Exclusion__ 
 
-[Pub. L. 97–306, title IV, § 408(d)][/us/pl/97/306/s408/d], Oct. 14, 1982, [96 Stat. 1446][/us/stat/96/1446], provided that: 
+[Pub. L. 97–306, title IV][/us/pl/97/306/tIV], § 408(d), Oct. 14, 1982, [96 Stat. 1446][/us/stat/96/1446], provided that: 
 
 > “Section 3103A \[now 5303A\] of title 38, United States Code, as amended by subsection (a), is the law with respect to the matters stated in such section and applies, in accordance with its terms, with respect to benefits under Federal law, regardless of the particular title of the United States Code or other law under which any such benefit is provided or the department, agency, or instrumentality which administers any such benefit.”
 
  __Applicability__ 
 
-[Pub. L. 97–66, title VI, § 604(b)][/us/pl/97/66/s604/b], Oct. 17, 1981, [95 Stat. 1036][/us/stat/95/1036], provided that: 
+[Pub. L. 97–66, title VI][/us/pl/97/66/tVI], § 604(b), Oct. 17, 1981, [95 Stat. 1036][/us/stat/95/1036], provided that: 
 
 > “Section 5303A \[formerly 3103A\] of title 38, United States Code, as added by subsection (a), shall not apply with respect to the receipt by any person of any benefit provided by or pursuant to law before the date of the enactment of this Act \[Oct. 17, 1981\]. Notwithstanding such section, a person who before such date has received a certificate of eligibility from the Administrator of Veterans’ Affairs \[now Secretary of Veterans Affairs\] for benefits under chapter 37 of title 38, United States Code, is eligible for such benefits after such date.”
 
@@ -202,53 +202,53 @@
 [/us/usc/t38/s3011/a/1/A/ii/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3011%2Fa%2F1%2FA%2Fii%2FI
 [/us/usc/t10/s1171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1171
 [/us/usc/t42/s429/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs429%2Fa
-[/us/pl/97/66/s604/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F66%2Fs604%2Fa%2F1
+[/us/pl/97/66/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F66%2FtVI
 [/us/stat/95/1035]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1035
-[/us/pl/97/306/s408/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F306%2Fs408%2Fa
+[/us/pl/97/306/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F306%2FtIV
 [/us/stat/96/1445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1445
-[/us/pl/99/576/s321/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2Fs321%2F11
+[/us/pl/99/576/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2FtIII
 [/us/stat/100/3278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3278
-[/us/pl/100/689/s102/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F689%2Fs102%2Fb%2F3
+[/us/pl/100/689/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F689%2FtI
 [/us/stat/102/4163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4163
-[/us/pl/101/510/s562/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs562%2Fa%2F4
+[/us/pl/101/510/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtV
 [/us/stat/104/1574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1574
-[/us/pl/102/40/s402/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs402%2Fb%2F1
+[/us/pl/102/40/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2FtIV
 [/us/stat/105/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F238
 [/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/403-406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F403-406
-[/us/pl/103/353/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F353%2Fs3
+[/us/pl/103/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F353
 [/us/stat/108/3169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3169
-[/us/pl/103/446/s908]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2Fs908
+[/us/pl/103/446/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2FtIX
 [/us/stat/108/4678]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4678
-[/us/pl/105/368/s1005/b/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2Fs1005%2Fb%2F15
+[/us/pl/105/368/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2FtX
 [/us/stat/112/3365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3365
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
-[/us/pl/108/203/s420/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203%2Fs420%2Fb%2F1%2FA
+[/us/pl/108/203/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203%2FtIV
 [/us/stat/118/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F535
 [/us/usc/t42/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1305
-[/us/pl/105/368/s1005/b/15/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2Fs1005%2Fb%2F15%2FA
-[/us/pl/105/368/s1005/b/15/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2Fs1005%2Fb%2F15%2FB
+[/us/pl/105/368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368
+[/us/pl/105/368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368
 [/us/pl/103/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446
 [/us/pl/103/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F353
 [/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40
 [/us/usc/t38/s3103A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3103A
-[/us/pl/102/83/s4/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fa%2F1
-[/us/pl/102/83/s4/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fa%2F1
-[/us/pl/102/83/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fb%2F1
-[/us/pl/102/83/s5/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fc%2F1
-[/us/pl/102/83/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fb%2F1
-[/us/pl/102/83/s5/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fc%2F1
-[/us/pl/102/83/s5/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fc%2F1
-[/us/pl/102/83/s5/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fc%2F1
-[/us/pl/102/83/s4/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fa%2F1
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
 [/us/pl/100/689]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F689
 [/us/usc/t38/s1411/a/1/A/ii/II]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1411%2Fa%2F1%2FA%2Fii%2FII
 [/us/pl/99/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576
-[/us/pl/97/306/s408/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F306%2Fs408%2Fa%2F1
-[/us/pl/97/306/s408/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F306%2Fs408%2Fa%2F2
-[/us/pl/97/306/s408/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F306%2Fs408%2Fa%2F3
+[/us/pl/97/306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F306
+[/us/pl/97/306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F306
+[/us/pl/97/306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F306
 [/us/pl/103/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F353
 [/us/pl/103/353/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F353%2Fs8
 [/us/usc/t38/s4301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs4301
@@ -260,13 +260,13 @@
 [/us/usc/t38/s3011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3011
 [/us/pl/97/66/s701/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F66%2Fs701%2Fb%2F1
 [/us/usc/t38/s1114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1114
-[/us/pl/97/306/s408/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F306%2Fs408%2Fb
+[/us/pl/97/306/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F306%2FtIV
 [/us/stat/96/1446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1446
 [/us/usc/t42/s429/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs429%2Fa
 [/us/usc/t38/s101/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs101%2F21
-[/us/pl/97/306/s408/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F306%2Fs408%2Fd
+[/us/pl/97/306/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F306%2FtIV
 [/us/stat/96/1446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1446
-[/us/pl/97/66/s604/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F66%2Fs604%2Fb
+[/us/pl/97/66/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F66%2FtVI
 [/us/stat/95/1036]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1036
 
 

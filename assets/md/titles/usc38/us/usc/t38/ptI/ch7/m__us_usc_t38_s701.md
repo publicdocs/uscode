@@ -17,13 +17,13 @@
 
     The Secretary may place employees of the Department in such Army, Navy, and Air Force installations as may be considered advisable for the purpose of adjudicating disability claims of, and giving aid and advice to, members of the Armed Forces who are about to be discharged or released from active military, naval, or air service.
 
-(Added [Pub. L. 102–83, § 2(a)][/us/pl/102/83/s2/a], Aug. 6, 1991, [105 Stat. 394][/us/stat/105/394].)
+(Added [Pub. L. 102–83][/us/pl/102/83], § 2(a), Aug. 6, 1991, [105 Stat. 394][/us/stat/105/394].)
 
  __Prior Provisions__ 
 
     Prior sections 701 and 702 were renumbered sections 1901 and 1902 of this title, respectively.
 
-    Provisions similar to those in this section were contained in [section 231 of this title][/us/usc/t38/s231] prior to repeal by [Pub. L. 102–83, § 2(a)][/us/pl/102/83/s2/a].
+    Provisions similar to those in this section were contained in [section 231 of this title][/us/usc/t38/s231] prior to repeal by [Pub. L. 102–83][/us/pl/102/83], § 2(a).
 
 ----------
 
@@ -32,9 +32,9 @@
 ----------
 ----------
 
-[/us/pl/102/83/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs2%2Fa
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F394
 [/us/usc/t38/s231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs231
-[/us/pl/102/83/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs2%2Fa
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 
 

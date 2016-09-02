@@ -53,7 +53,7 @@
 
     The Secretary shall comply with the provisions of subchapter III of chapter 35 of title 44 and other related information security requirements promulgated by the National Institute of Standards and Technology and the Office of Management and Budget that define Department information system mandates.
 
-(Added [Pub. L. 109–461, title IX, § 902(a)][/us/pl/109/461/s902/a], Dec. 22, 2006, [120 Stat. 3450][/us/stat/120/3450].)
+(Added [Pub. L. 109–461, title IX][/us/pl/109/461/tIX], § 902(a), Dec. 22, 2006, [120 Stat. 3450][/us/stat/120/3450].)
 
 ----------
 
@@ -62,7 +62,7 @@
 ----------
 ----------
 
-[/us/pl/109/461/s902/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461%2Fs902%2Fa
+[/us/pl/109/461/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461%2FtIX
 [/us/stat/120/3450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3450
 
 

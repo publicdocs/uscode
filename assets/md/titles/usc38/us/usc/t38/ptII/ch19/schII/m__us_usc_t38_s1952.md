@@ -31,7 +31,7 @@
 
         (2) Payment of insurance under paragraph (1) shall be a bar to recovery by any other person.
 
-([Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1161][/us/stat/72/1161], § 752; [Pub. L. 91–291, § 12][/us/pl/91/291/s12], June 25, 1970, [84 Stat. 332][/us/stat/84/332]; [Pub. L. 97–66, title IV, § 403(b)][/us/pl/97/66/s403/b], Oct. 17, 1981, [95 Stat. 1031][/us/stat/95/1031]; [Pub. L. 99–576, title VII, § 701(32)][/us/pl/99/576/s701/32], Oct. 28, 1986, [100 Stat. 3293][/us/stat/100/3293]; renumbered § 1952 and amended [Pub. L. 102–83][/us/pl/102/83], §§ 4(b)(1), (2)(E), 5(a), Aug. 6, 1991, [105 Stat. 404–406][/us/stat/105/404-406]; [Pub. L. 108–183, title I, § 103(b)][/us/pl/108/183/s103/b], Dec. 16, 2003, [117 Stat. 2655][/us/stat/117/2655].)
+([Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1161][/us/stat/72/1161], § 752; [Pub. L. 91–291][/us/pl/91/291], § 12, June 25, 1970, [84 Stat. 332][/us/stat/84/332]; [Pub. L. 97–66, title IV][/us/pl/97/66/tIV], § 403(b), Oct. 17, 1981, [95 Stat. 1031][/us/stat/95/1031]; [Pub. L. 99–576, title VII][/us/pl/99/576/tVII], § 701(32), Oct. 28, 1986, [100 Stat. 3293][/us/stat/100/3293]; renumbered § 1952 and amended [Pub. L. 102–83][/us/pl/102/83], §§ 4(b)(1), (2)(E), 5(a), Aug. 6, 1991, [105 Stat. 404–406][/us/stat/105/404-406]; [Pub. L. 108–183, title I][/us/pl/108/183/tI], § 103(b), Dec. 16, 2003, [117 Stat. 2655][/us/stat/117/2655].)
 
  __Amendments__ 
 
@@ -71,15 +71,15 @@
 [/us/usc/t38/s1950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1950
 [/us/pl/85/857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F857
 [/us/stat/72/1161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1161
-[/us/pl/91/291/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F291%2Fs12
+[/us/pl/91/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F291
 [/us/stat/84/332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F332
-[/us/pl/97/66/s403/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F66%2Fs403%2Fb
+[/us/pl/97/66/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F66%2FtIV
 [/us/stat/95/1031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1031
-[/us/pl/99/576/s701/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2Fs701%2F32
+[/us/pl/99/576/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2FtVII
 [/us/stat/100/3293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3293
 [/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/404-406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F404-406
-[/us/pl/108/183/s103/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F183%2Fs103%2Fb
+[/us/pl/108/183/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F183%2FtI
 [/us/stat/117/2655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2655
 [/us/pl/108/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F183
 [/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83

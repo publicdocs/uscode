@@ -13,9 +13,9 @@
 
 [Previous](./../../../../../..//us/usc/t38/ptV/ch73/schIV/m__us_usc_t38_s7366.md) | [Next](./../../../../../..//us/usc/t38/ptV/ch73/schIV/m__us_usc_t38_s7368.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7367)
 
-## \[§ 7367. Repealed. [Pub. L. 107–14, § 8(a)(14)(A)][/us/pl/107/14/s8/a/14/A], June 5, 2001, [115 Stat. 35][/us/stat/115/35]\]
+## \[§ 7367. Repealed. [Pub. L. 107–14][/us/pl/107/14], § 8(a)(14)(A), June 5, 2001, [115 Stat. 35][/us/stat/115/35]\]
 
-    Section, added [Pub. L. 100–322, title II, § 204(a)][/us/pl/100/322/s204/a], May 20, 1988, [102 Stat. 512][/us/stat/102/512], § 4167; renumbered § 7367 and amended [Pub. L. 102–40, title IV][/us/pl/102/40], §§ 401(a)(4)(B), 403(a)(1), May 7, 1991, [105 Stat. 221][/us/stat/105/221], 239, required a report to Congress on the experience through the end of fiscal year 1990 under this subchapter.
+    Section, added [Pub. L. 100–322, title II][/us/pl/100/322/tII], § 204(a), May 20, 1988, [102 Stat. 512][/us/stat/102/512], § 4167; renumbered § 7367 and amended [Pub. L. 102–40, title IV][/us/pl/102/40/tIV], §§ 401(a)(4)(B), 403(a)(1), May 7, 1991, [105 Stat. 221][/us/stat/105/221], 239, required a report to Congress on the experience through the end of fiscal year 1990 under this subchapter.
 
 ----------
 
@@ -24,11 +24,11 @@
 ----------
 ----------
 
-[/us/pl/107/14/s8/a/14/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F14%2Fs8%2Fa%2F14%2FA
+[/us/pl/107/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F14
 [/us/stat/115/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F35
-[/us/pl/100/322/s204/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F322%2Fs204%2Fa
+[/us/pl/100/322/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F322%2FtII
 [/us/stat/102/512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F512
-[/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40
+[/us/pl/102/40/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2FtIV
 [/us/stat/105/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F221
 
 

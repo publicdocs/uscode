@@ -37,13 +37,13 @@
 
     (10) Such other information as the Secretary considers appropriate.
 
-(Added [Pub. L. 108–454, title V, § 505(a)][/us/pl/108/454/s505/a], Dec. 10, 2004, [118 Stat. 3621][/us/stat/118/3621]; amended [Pub. L. 111–275, title X, § 1001][/us/pl/111/275/s1001](l), Oct. 13, 2010, [124 Stat. 2897][/us/stat/124/2897].)
+(Added [Pub. L. 108–454, title V][/us/pl/108/454/tV], § 505(a), Dec. 10, 2004, [118 Stat. 3621][/us/stat/118/3621]; amended [Pub. L. 111–275, title X][/us/pl/111/275/tX], § 1001(l), Oct. 13, 2010, [124 Stat. 2897][/us/stat/124/2897].)
 
  __Amendments__ 
 
-    2010—[Pub. L. 111–275, § 1001][/us/pl/111/275/s1001](l)(1), substituted “following:” for “following: —” in introductory provisions.
+    2010—[Pub. L. 111–275][/us/pl/111/275], § 1001(l)(1), substituted “following:” for “following: —” in introductory provisions.
 
-    Par. (9). [Pub. L. 111–275, § 1001][/us/pl/111/275/s1001](l)(2), substituted “Government” for “government”.
+    Par. (9). [Pub. L. 111–275][/us/pl/111/275], § 1001(l)(2), substituted “Government” for “government”.
 
  __Effective Date__ 
 
@@ -56,12 +56,12 @@
 ----------
 ----------
 
-[/us/pl/108/454/s505/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F454%2Fs505%2Fa
+[/us/pl/108/454/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F454%2FtV
 [/us/stat/118/3621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3621
-[/us/pl/111/275/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275%2Fs1001
+[/us/pl/111/275/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275%2FtX
 [/us/stat/124/2897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2897
-[/us/pl/111/275/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275%2Fs1001
-[/us/pl/111/275/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275%2Fs1001
+[/us/pl/111/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275
+[/us/pl/111/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275
 [/us/pl/108/454/s507/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F454%2Fs507%2Fb%2F1
 [/us/usc/t38/s5312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs5312
 

@@ -35,45 +35,45 @@
 
         (2) The Secretary shall pay each month to the surviving spouse of each Spanish-American War veteran who is receiving, or entitled to receive, pension based on a need of regular aid and attendance, whichever amount is greater (A) that which is payable to such surviving spouse under subsections (a) and (b) of this section as increased by section 544  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title, as in effect on December 31, 1978; or (B) that which is payable under [section 1541 of this title][/us/usc/t38/s1541], as in effect on December 31, 1978, as increased by such section 544, <sup>\[1\]</sup>  as in effect on such date, to a surviving spouse of a World War I veteran with the same annual income and corpus of estate. Each change in the amount of pension required by this paragraph shall be effective as of the first day of the month during which the facts of the particular case warrant such change, and shall be made without specific application therefor.
 
-([Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1138][/us/stat/72/1138], § 536; [Pub. L. 90–77, title I][/us/pl/90/77], §§ 101(a), 105, Aug. 31, 1967, [81 Stat. 178][/us/stat/81/178], 179; [Pub. L. 92–328, title I, § 107][/us/pl/92/328/s107], June 30, 1972, [86 Stat. 395][/us/stat/86/395]; [Pub. L. 94–169, title I, § 106(32)][/us/pl/94/169/s106/32]–(37), Dec. 23, 1975, [89 Stat. 1018][/us/stat/89/1018], 1019; [Pub. L. 95–588, title I, § 108][/us/pl/95/588/s108], Nov. 4, 1978, [92 Stat. 2502][/us/stat/92/2502]; renumbered § 1536 and amended [Pub. L. 102–83][/us/pl/102/83], §§ 4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, [105 Stat. 404–406][/us/stat/105/404-406].)
+([Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1138][/us/stat/72/1138], § 536; [Pub. L. 90–77, title I][/us/pl/90/77/tI], §§ 101(a), 105, Aug. 31, 1967, [81 Stat. 178][/us/stat/81/178], 179; [Pub. L. 92–328, title I][/us/pl/92/328/tI], § 107, June 30, 1972, [86 Stat. 395][/us/stat/86/395]; [Pub. L. 94–169, title I][/us/pl/94/169/tI], § 106(32)–(37), Dec. 23, 1975, [89 Stat. 1018][/us/stat/89/1018], 1019; [Pub. L. 95–588, title I][/us/pl/95/588/tI], § 108, Nov. 4, 1978, [92 Stat. 2502][/us/stat/92/2502]; renumbered § 1536 and amended [Pub. L. 102–83][/us/pl/102/83], §§ 4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, [105 Stat. 404–406][/us/stat/105/404-406].)
 
  __References in Text__ 
 
-    [Section 544 of this title][/us/usc/t38/s544], referred to in subsec. (d)(2), was repealed by [Pub. L. 95–588, title I, § 112(a)(1)][/us/pl/95/588/s112/a/1], Nov. 4, 1978, [92 Stat. 2505][/us/stat/92/2505], eff. Jan. 1, 1979.
+    [Section 544 of this title][/us/usc/t38/s544], referred to in subsec. (d)(2), was repealed by [Pub. L. 95–588, title I][/us/pl/95/588/tI], § 112(a)(1), Nov. 4, 1978, [92 Stat. 2505][/us/stat/92/2505], eff. Jan. 1, 1979.
 
  __Amendments__ 
 
-    1991—[Pub. L. 102–83, § 5(a)][/us/pl/102/83/s5/a], renumbered [section 536 of this title][/us/usc/t38/s536] as this section.
+    1991—[Pub. L. 102–83][/us/pl/102/83], § 5(a), renumbered [section 536 of this title][/us/usc/t38/s536] as this section.
 
-    Subsec. (a). [Pub. L. 102–83, § 5(c)(1)][/us/pl/102/83/s5/c/1], substituted “1512(a)” for “512(a)”.
+    Subsec. (a). [Pub. L. 102–83][/us/pl/102/83], § 5(c)(1), substituted “1512(a)” for “512(a)”.
 
-    [Pub. L. 102–83, § 4(b)(1)][/us/pl/102/83/s4/b/1], (2)(E), substituted “Secretary” for “Administrator”.
+    [Pub. L. 102–83][/us/pl/102/83], § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
-    Subsec. (d). [Pub. L. 102–83, § 5(c)(1)][/us/pl/102/83/s5/c/1], substituted “1541” for “541” in pars. (1) and (2).
+    Subsec. (d). [Pub. L. 102–83][/us/pl/102/83], § 5(c)(1), substituted “1541” for “541” in pars. (1) and (2).
 
-    Subsec. (d)(2). [Pub. L. 102–83, § 4(b)(1)][/us/pl/102/83/s4/b/1], (2)(E), substituted “Secretary” for “Administrator”.
+    Subsec. (d)(2). [Pub. L. 102–83][/us/pl/102/83], § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
-    1978—Subsec. (d)(1). [Pub. L. 95–588, § 108(1)][/us/pl/95/588/s108/1], substituted “a period of war” for “World War I”, and struck out “, except as provided in paragraph (2)” after “irrevocable”.
+    1978—Subsec. (d)(1). [Pub. L. 95–588][/us/pl/95/588], § 108(1), substituted “a period of war” for “World War I”, and struck out “, except as provided in paragraph (2)” after “irrevocable”.
 
-    Subsec. (d)(2). [Pub. L. 95–588, § 108(2)][/us/pl/95/588/s108/2], inserted “, as in effect on December 31, 1978” after “of this title” in two places, and “as in effect on such date” after “such section 544”.
+    Subsec. (d)(2). [Pub. L. 95–588][/us/pl/95/588], § 108(2), inserted “, as in effect on December 31, 1978” after “of this title” in two places, and “as in effect on such date” after “such section 544”.
 
-    1975—[Pub. L. 94–169, § 106(37)][/us/pl/94/169/s106/37], substituted “Surviving spouses” for “Widows” in section catchline.
+    1975—[Pub. L. 94–169][/us/pl/94/169], § 106(37), substituted “Surviving spouses” for “Widows” in section catchline.
 
-    Subsec. (a). [Pub. L. 94–169, § 106(32)][/us/pl/94/169/s106/32], substituted “pay to the surviving spouse” for “pay to the widow”, “unless such surviving spouse” for “unless she”, “the spouse” for “the wife” and “such veteran’s” for “his”.
+    Subsec. (a). [Pub. L. 94–169][/us/pl/94/169], § 106(32), substituted “pay to the surviving spouse” for “pay to the widow”, “unless such surviving spouse” for “unless she”, “the spouse” for “the wife” and “such veteran’s” for “his”.
 
-    Subsec. (b). [Pub. L. 94–169, § 106(33)][/us/pl/94/169/s106/33], substituted “surviving spouse” for “widow”.
+    Subsec. (b). [Pub. L. 94–169][/us/pl/94/169], § 106(33), substituted “surviving spouse” for “widow”.
 
-    Subsec. (c). [Pub. L. 94–169, § 106(33)][/us/pl/94/169/s106/33], substituted “paid to a surviving spouse” for “paid to a widow”, “unless such surviving spouse” for “unless she” and “such veteran” for “him”.
+    Subsec. (c). [Pub. L. 94–169][/us/pl/94/169], § 106(33), substituted “paid to a surviving spouse” for “paid to a widow”, “unless such surviving spouse” for “unless she” and “such veteran” for “him”.
 
-    Subsec. (d)(1). [Pub. L. 94–169, § 106(34)][/us/pl/94/169/s106/34], substituted “Any surviving spouse” for “Any widow”, “if such surviving spouse” for “if she” and “surviving spouses” for “widows”.
+    Subsec. (d)(1). [Pub. L. 94–169][/us/pl/94/169], § 106(34), substituted “Any surviving spouse” for “Any widow”, “if such surviving spouse” for “if she” and “surviving spouses” for “widows”.
 
-    Subsec. (d)(2). [Pub. L. 94–169, § 106(35)][/us/pl/94/169/s106/35], (36), substituted “surviving spouse” for “widow” wherever appearing, and “such surviving spouse” for “her”.
+    Subsec. (d)(2). [Pub. L. 94–169][/us/pl/94/169], § 106(35), (36), substituted “surviving spouse” for “widow” wherever appearing, and “such surviving spouse” for “her”.
 
     1972—Subsec. (d). [Pub. L. 92–328][/us/pl/92/328] added subsec. (d).
 
-    1967—Subsec. (a). [Pub. L. 90–77, § 105][/us/pl/90/77/s105], substituted “$70” for “$65”.
+    1967—Subsec. (a). [Pub. L. 90–77][/us/pl/90/77], § 105, substituted “$70” for “$65”.
 
-    Subsec. (c). [Pub. L. 90–77, § 101(a)][/us/pl/90/77/s101/a], qualified widow of a veteran for a pension by reducing in par. (2) the requisite marriage period from five years to one year and by making her eligible for benefits in par. (3) in event of antenuptial birth.
+    Subsec. (c). [Pub. L. 90–77][/us/pl/90/77], § 101(a), qualified widow of a veteran for a pension by reducing in par. (2) the requisite marriage period from five years to one year and by making her eligible for benefits in par. (3) in event of antenuptial birth.
 
  __Effective Date of 1978 Amendment__ 
 
@@ -81,7 +81,7 @@
 
  __Effective Date of 1975 Amendment__ 
 
-    [Pub. L. 94–169, title I, § 106][/us/pl/94/169/s106], Dec. 23, 1975, [89 Stat. 1017][/us/stat/89/1017], provided that the amendment made by that section is effective Jan. 1, 1976.
+    [Pub. L. 94–169, title I][/us/pl/94/169/tI], § 106, Dec. 23, 1975, [89 Stat. 1017][/us/stat/89/1017], provided that the amendment made by that section is effective Jan. 1, 1976.
 
  __Effective Date of 1972 Amendment__ 
 
@@ -107,40 +107,40 @@
 [/us/usc/t38/s1541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1541
 [/us/pl/85/857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F857
 [/us/stat/72/1138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1138
-[/us/pl/90/77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F77
+[/us/pl/90/77/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F77%2FtI
 [/us/stat/81/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F178
-[/us/pl/92/328/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F328%2Fs107
+[/us/pl/92/328/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F328%2FtI
 [/us/stat/86/395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F395
-[/us/pl/94/169/s106/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F169%2Fs106%2F32
+[/us/pl/94/169/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F169%2FtI
 [/us/stat/89/1018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F1018
-[/us/pl/95/588/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F588%2Fs108
+[/us/pl/95/588/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F588%2FtI
 [/us/stat/92/2502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2502
 [/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/404-406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F404-406
 [/us/usc/t38/s544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs544
-[/us/pl/95/588/s112/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F588%2Fs112%2Fa%2F1
+[/us/pl/95/588/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F588%2FtI
 [/us/stat/92/2505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2505
-[/us/pl/102/83/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fa
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/usc/t38/s536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs536
-[/us/pl/102/83/s5/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fc%2F1
-[/us/pl/102/83/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fb%2F1
-[/us/pl/102/83/s5/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fc%2F1
-[/us/pl/102/83/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fb%2F1
-[/us/pl/95/588/s108/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F588%2Fs108%2F1
-[/us/pl/95/588/s108/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F588%2Fs108%2F2
-[/us/pl/94/169/s106/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F169%2Fs106%2F37
-[/us/pl/94/169/s106/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F169%2Fs106%2F32
-[/us/pl/94/169/s106/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F169%2Fs106%2F33
-[/us/pl/94/169/s106/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F169%2Fs106%2F33
-[/us/pl/94/169/s106/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F169%2Fs106%2F34
-[/us/pl/94/169/s106/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F169%2Fs106%2F35
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/95/588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F588
+[/us/pl/95/588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F588
+[/us/pl/94/169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F169
+[/us/pl/94/169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F169
+[/us/pl/94/169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F169
+[/us/pl/94/169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F169
+[/us/pl/94/169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F169
+[/us/pl/94/169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F169
 [/us/pl/92/328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F328
-[/us/pl/90/77/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F77%2Fs105
-[/us/pl/90/77/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F77%2Fs101%2Fa
+[/us/pl/90/77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F77
+[/us/pl/90/77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F77
 [/us/pl/95/588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F588
 [/us/pl/95/588/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F588%2Fs401
 [/us/usc/t38/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs101
-[/us/pl/94/169/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F169%2Fs106
+[/us/pl/94/169/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F169%2FtI
 [/us/stat/89/1017]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F1017
 [/us/pl/92/328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F328
 [/us/pl/92/328/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F328%2Fs301%2Fa

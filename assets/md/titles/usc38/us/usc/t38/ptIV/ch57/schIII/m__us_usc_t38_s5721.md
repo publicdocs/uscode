@@ -17,7 +17,7 @@
 
     The purpose of the Information Security Program is to establish a program to provide security for Department information and information systems commensurate to the risk of harm, and to communicate the responsibilities of the Secretary, Under Secretaries, Assistant Secretaries, other key officials, Assistant Secretary for Information and Technology, Associate Deputy Assistant Secretary for Cyber and Information Security, and Inspector General of the Department of Veterans Affairs as outlined in the provisions of subchapter III of chapter 35 of title 44 (also known as the “Federal Information Security Management Act of 2002”, which was enacted as part of the E-Government Act of 2002 ([Public Law 107–347][/us/pl/107/347])).
 
-(Added [Pub. L. 109–461, title IX, § 902(a)][/us/pl/109/461/s902/a], Dec. 22, 2006, [120 Stat. 3450][/us/stat/120/3450].)
+(Added [Pub. L. 109–461, title IX][/us/pl/109/461/tIX], § 902(a), Dec. 22, 2006, [120 Stat. 3450][/us/stat/120/3450].)
 
  __References in Text__ 
 
@@ -27,7 +27,7 @@
 
  __Regulations__ 
 
-[Pub. L. 109–461, title IX, § 902(c)][/us/pl/109/461/s902/c], Dec. 22, 2006, [120 Stat. 3460][/us/stat/120/3460], provided that: 
+[Pub. L. 109–461, title IX][/us/pl/109/461/tIX], § 902(c), Dec. 22, 2006, [120 Stat. 3460][/us/stat/120/3460], provided that: 
 
 > “Not later than one year after the date of the enactment of this Act \[Dec. 22, 2006\], the Secretary of Veterans Affairs shall prescribe regulations to carry out subchapter III of chapter 57 of title 38, United States Code, as added by subsection (a).”
 
@@ -39,7 +39,7 @@
 ----------
 
 [/us/pl/107/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347
-[/us/pl/109/461/s902/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461%2Fs902%2Fa
+[/us/pl/109/461/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461%2FtIX
 [/us/stat/120/3450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3450
 [/us/pl/107/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347
 [/us/stat/116/2946]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2946
@@ -49,7 +49,7 @@
 [/us/usc/t6/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs101
 [/us/pl/107/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347
 [/us/stat/116/2899]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2899
-[/us/pl/109/461/s902/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461%2Fs902%2Fc
+[/us/pl/109/461/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461%2FtIX
 [/us/stat/120/3460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3460
 
 

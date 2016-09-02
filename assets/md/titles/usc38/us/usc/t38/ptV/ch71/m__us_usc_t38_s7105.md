@@ -51,7 +51,7 @@
 
         (2) A request for review of evidence under paragraph (1) shall accompany the submittal of the evidence.
 
-(Added [Pub. L. 87–666, § 1][/us/pl/87/666/s1], Sept. 19, 1962, [76 Stat. 553][/us/stat/76/553], § 4005; amended [Pub. L. 99–576, title VII, § 701(85)][/us/pl/99/576/s701/85], Oct. 28, 1986, [100 Stat. 3298][/us/stat/100/3298]; [Pub. L. 100–687, div. A, title II][/us/pl/100/687], §§ 203(b), 206, Nov. 18, 1988, [102 Stat. 4111][/us/stat/102/4111]; renumbered § 7105 and amended [Pub. L. 102–40, title IV, § 402(b)(1)][/us/pl/102/40/s402/b/1], (d)(1), May 7, 1991, [105 Stat. 238][/us/stat/105/238], 239; [Pub. L. 102–83, § 4(b)(1)][/us/pl/102/83/s4/b/1], (2)(E), Aug. 6, 1991, [105 Stat. 404][/us/stat/105/404], 405; [Pub. L. 107–14, § 8(a)(16)][/us/pl/107/14/s8/a/16], June 5, 2001, [115 Stat. 35][/us/stat/115/35]; [Pub. L. 112–154, title V, § 501(a)][/us/pl/112/154/s501/a], Aug. 6, 2012, [126 Stat. 1190][/us/stat/126/1190].)
+(Added [Pub. L. 87–666][/us/pl/87/666], § 1, Sept. 19, 1962, [76 Stat. 553][/us/stat/76/553], § 4005; amended [Pub. L. 99–576, title VII][/us/pl/99/576/tVII], § 701(85), Oct. 28, 1986, [100 Stat. 3298][/us/stat/100/3298]; [Pub. L. 100–687, div. A, title II][/us/pl/100/687/dA/tII], §§ 203(b), 206, Nov. 18, 1988, [102 Stat. 4111][/us/stat/102/4111]; renumbered § 7105 and amended [Pub. L. 102–40, title IV][/us/pl/102/40/tIV], § 402(b)(1), (d)(1), May 7, 1991, [105 Stat. 238][/us/stat/105/238], 239; [Pub. L. 102–83][/us/pl/102/83], § 4(b)(1), (2)(E), Aug. 6, 1991, [105 Stat. 404][/us/stat/105/404], 405; [Pub. L. 107–14][/us/pl/107/14], § 8(a)(16), June 5, 2001, [115 Stat. 35][/us/stat/115/35]; [Pub. L. 112–154, title V][/us/pl/112/154/tV], § 501(a), Aug. 6, 2012, [126 Stat. 1190][/us/stat/126/1190].)
 
  __Amendments__ 
 
@@ -59,13 +59,13 @@
 
     2001—Subsec. (b)(1). [Pub. L. 107–14][/us/pl/107/14] substituted “hereinafter” for “hereafter”.
 
-    1991—[Pub. L. 102–40, § 402(b)(1)][/us/pl/102/40/s402/b/1], renumbered [section 4005 of this title][/us/usc/t38/s4005] as this section.
+    1991—[Pub. L. 102–40][/us/pl/102/40], § 402(b)(1), renumbered [section 4005 of this title][/us/usc/t38/s4005] as this section.
 
     Subsec. (a). [Pub. L. 102–83][/us/pl/102/83] substituted “Secretary” for “Administrator”.
 
-    Subsec. (d)(2). [Pub. L. 102–40, § 402(d)(1)][/us/pl/102/40/s402/d/1], substituted “5701” for “3301”.
+    Subsec. (d)(2). [Pub. L. 102–40][/us/pl/102/40], § 402(d)(1), substituted “5701” for “3301”.
 
-    1988—Subsec. (d)(1). [Pub. L. 100–687, § 206(a)][/us/pl/100/687/s206/a], substituted “shall prepare a statement of the case. A statement of the case shall include the following:” for “will prepare a statement of the case consisting of—”, added subpars. (A) to (C), and struck out former subpars. (A) to (C) which read as follows:
+    1988—Subsec. (d)(1). [Pub. L. 100–687][/us/pl/100/687], § 206(a), substituted “shall prepare a statement of the case. A statement of the case shall include the following:” for “will prepare a statement of the case consisting of—”, added subpars. (A) to (C), and struck out former subpars. (A) to (C) which read as follows:
 
     “(A) A summary of the evidence in the case pertinent to the issue or issues with which disagreement has been expressed;
 
@@ -73,17 +73,17 @@
 
     “(C) The decision on such issue or issues and a summary of the reasons therefor.”
 
-    Subsec. (d)(4). [Pub. L. 100–687, § 206(b)][/us/pl/100/687/s206/b], amended par. (4) generally. Prior to amendment, par. (4) read as follows: “The appellant will be presumed to be in agreement with any statement of fact contained in the statement of the case to which no exception is taken.”
+    Subsec. (d)(4). [Pub. L. 100–687][/us/pl/100/687], § 206(b), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “The appellant will be presumed to be in agreement with any statement of fact contained in the statement of the case to which no exception is taken.”
 
-    Subsec. (d)(5). [Pub. L. 100–687, § 203(b)][/us/pl/100/687/s203/b], struck out “will base its decision on the entire record and” after “of Veterans’ Appeals”.
+    Subsec. (d)(5). [Pub. L. 100–687][/us/pl/100/687], § 203(b), struck out “will base its decision on the entire record and” after “of Veterans’ Appeals”.
 
-    1986—Subsec. (b)(2). [Pub. L. 99–576, § 701(85)][/us/pl/99/576/s701/85], substituted “the claimant’s” for “his” and “the claimant or legal guardian” for “him”.
+    1986—Subsec. (b)(2). [Pub. L. 99–576][/us/pl/99/576], § 701(85), substituted “the claimant’s” for “his” and “the claimant or legal guardian” for “him”.
 
-    Subsec. (d)(1), (3). [Pub. L. 99–576, § 701(85)(A)][/us/pl/99/576/s701/85/A], substituted “the claimant’s” for “his”.
+    Subsec. (d)(1), (3). [Pub. L. 99–576][/us/pl/99/576], § 701(85)(A), substituted “the claimant’s” for “his”.
 
  __Effective Date of 2012 Amendment__ 
 
-[Pub. L. 112–154, title V, § 501(b)][/us/pl/112/154/s501/b], Aug. 6, 2012, [126 Stat. 1190][/us/stat/126/1190], provided that: 
+[Pub. L. 112–154, title V][/us/pl/112/154/tV], § 501(b), Aug. 6, 2012, [126 Stat. 1190][/us/stat/126/1190], provided that: 
 
 > “Subsection (e) of such section \[[38 U.S.C. 7105(e)][/us/usc/t38/s7105/e]\], as added by subsection (a), shall take effect on the date that is 180 days after the date of the enactment of this Act \[Aug. 6, 2012\], and shall apply with respect to claims for which a substantive appeal is filed on or after the date that is 180 days after the date of the enactment of this Act.”
 
@@ -93,7 +93,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 87–666, § 3][/us/pl/87/666/s3], Sept. 19, 1962, [76 Stat. 554][/us/stat/76/554], provided that: 
+[Pub. L. 87–666][/us/pl/87/666], § 3, Sept. 19, 1962, [76 Stat. 554][/us/stat/76/554], provided that: 
 
 > “The amendments made by this Act \[enacting sections 4005, 4005A, and 4006 \[now 7105, 7105A, and 7106\] of this title, redesignating former section 4006 as 4007 \[now 7107\] of this title, and repealing former sections 4005 and 4007 of this title\] shall be effective January 1, 1963.”
 
@@ -105,38 +105,38 @@
 ----------
 
 [/us/usc/t38/s5701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs5701
-[/us/pl/87/666/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F666%2Fs1
+[/us/pl/87/666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F666
 [/us/stat/76/553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F553
-[/us/pl/99/576/s701/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2Fs701%2F85
+[/us/pl/99/576/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2FtVII
 [/us/stat/100/3298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3298
-[/us/pl/100/687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F687
+[/us/pl/100/687/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F687%2FdA%2FtII
 [/us/stat/102/4111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4111
-[/us/pl/102/40/s402/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs402%2Fb%2F1
+[/us/pl/102/40/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2FtIV
 [/us/stat/105/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F238
-[/us/pl/102/83/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fb%2F1
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F404
-[/us/pl/107/14/s8/a/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F14%2Fs8%2Fa%2F16
+[/us/pl/107/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F14
 [/us/stat/115/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F35
-[/us/pl/112/154/s501/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154%2Fs501%2Fa
+[/us/pl/112/154/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154%2FtV
 [/us/stat/126/1190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1190
 [/us/pl/112/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154
 [/us/pl/107/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F14
-[/us/pl/102/40/s402/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs402%2Fb%2F1
+[/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40
 [/us/usc/t38/s4005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs4005
 [/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
-[/us/pl/102/40/s402/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs402%2Fd%2F1
-[/us/pl/100/687/s206/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F687%2Fs206%2Fa
-[/us/pl/100/687/s206/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F687%2Fs206%2Fb
-[/us/pl/100/687/s203/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F687%2Fs203%2Fb
-[/us/pl/99/576/s701/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2Fs701%2F85
-[/us/pl/99/576/s701/85/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2Fs701%2F85%2FA
-[/us/pl/112/154/s501/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154%2Fs501%2Fb
+[/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40
+[/us/pl/100/687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F687
+[/us/pl/100/687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F687
+[/us/pl/100/687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F687
+[/us/pl/99/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576
+[/us/pl/99/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576
+[/us/pl/112/154/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154%2FtV
 [/us/stat/126/1190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1190
 [/us/usc/t38/s7105/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7105%2Fe
 [/us/pl/100/687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F687
 [/us/pl/100/687/s401/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F687%2Fs401%2Fd
 [/us/usc/t38/s7251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7251
-[/us/pl/87/666/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F666%2Fs3
+[/us/pl/87/666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F666
 [/us/stat/76/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F554
 
 

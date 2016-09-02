@@ -27,11 +27,11 @@
 
     (b) It is the sense of Congress that the Federal Government should be a model employer in carrying out the provisions of this chapter.
 
-(Added [Pub. L. 103–353, § 2(a)][/us/pl/103/353/s2/a], Oct. 13, 1994, [108 Stat. 3150][/us/stat/108/3150]; amended [Pub. L. 104–275, title III, § 311(1)][/us/pl/104/275/s311/1], Oct. 9, 1996, [110 Stat. 3333][/us/stat/110/3333].)
+(Added [Pub. L. 103–353][/us/pl/103/353], § 2(a), Oct. 13, 1994, [108 Stat. 3150][/us/stat/108/3150]; amended [Pub. L. 104–275, title III][/us/pl/104/275/tIII], § 311(1), Oct. 9, 1996, [110 Stat. 3333][/us/stat/110/3333].)
 
  __Prior Provisions__ 
 
-    A prior section 4301, added [Pub. L. 93–508, title IV, § 404(a)][/us/pl/93/508/s404/a], Dec. 3, 1974, [88 Stat. 1594][/us/stat/88/1594], § 2021; amended [Pub. L. 94–502, title VI, § 608(1)][/us/pl/94/502/s608/1], (2), Oct. 15, 1976, [90 Stat. 2405][/us/stat/90/2405]; [Pub. L. 99–576, title III, § 331][/us/pl/99/576/s331], Oct. 28, 1986, [100 Stat. 3279][/us/stat/100/3279]; [Pub. L. 102–12, § 5(a)][/us/pl/102/12/s5/a], Mar. 18, 1991, [105 Stat. 36][/us/stat/105/36]; [Pub. L. 102–25, title III, § 340(a)][/us/pl/102/25/s340/a], Apr. 6, 1991, [105 Stat. 92][/us/stat/105/92]; renumbered § 4301, [Pub. L. 102–568, title V, § 506(a)][/us/pl/102/568/s506/a], Oct. 29, 1992, [106 Stat. 4340][/us/stat/106/4340], related to reemployment rights of persons inducted into the Armed Forces of the United States and benefits protected, prior to the general amendment of this chapter by [Pub. L. 103–353][/us/pl/103/353]. This section, as in effect on the day before Oct. 13, 1994, continues to apply to reemployments initiated before the end of the 60-day period beginning Oct. 13, 1994, see [section 8 of Pub. L. 103–353][/us/pl/103/353/s8], as amended, set out as an Effective Date note below.
+    A prior section 4301, added [Pub. L. 93–508, title IV][/us/pl/93/508/tIV], § 404(a), Dec. 3, 1974, [88 Stat. 1594][/us/stat/88/1594], § 2021; amended [Pub. L. 94–502, title VI][/us/pl/94/502/tVI], § 608(1), (2), Oct. 15, 1976, [90 Stat. 2405][/us/stat/90/2405]; [Pub. L. 99–576, title III][/us/pl/99/576/tIII], § 331, Oct. 28, 1986, [100 Stat. 3279][/us/stat/100/3279]; [Pub. L. 102–12][/us/pl/102/12], § 5(a), Mar. 18, 1991, [105 Stat. 36][/us/stat/105/36]; [Pub. L. 102–25, title III][/us/pl/102/25/tIII], § 340(a), Apr. 6, 1991, [105 Stat. 92][/us/stat/105/92]; renumbered § 4301, [Pub. L. 102–568, title V][/us/pl/102/568/tV], § 506(a), Oct. 29, 1992, [106 Stat. 4340][/us/stat/106/4340], related to reemployment rights of persons inducted into the Armed Forces of the United States and benefits protected, prior to the general amendment of this chapter by [Pub. L. 103–353][/us/pl/103/353]. This section, as in effect on the day before Oct. 13, 1994, continues to apply to reemployments initiated before the end of the 60-day period beginning Oct. 13, 1994, see [section 8 of Pub. L. 103–353][/us/pl/103/353/s8], as amended, set out as an Effective Date note below.
 
     Another prior section 4301 was renumbered [section 7601 of this title][/us/usc/t38/s7601].
 
@@ -41,7 +41,7 @@
 
  __Effective Date of 1996 Amendment__ 
 
-[Pub. L. 104–275, title III, § 313][/us/pl/104/275/s313], Oct. 9, 1996, [110 Stat. 3336][/us/stat/110/3336], provided that:
+[Pub. L. 104–275, title III][/us/pl/104/275/tIII], § 313, Oct. 9, 1996, [110 Stat. 3336][/us/stat/110/3336], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -53,7 +53,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 103–353, § 8][/us/pl/103/353/s8], Oct. 13, 1994, [108 Stat. 3175][/us/stat/108/3175], as amended by [Pub. L. 104–275, title III, § 312][/us/pl/104/275/s312], Oct. 9, 1996, [110 Stat. 3336][/us/stat/110/3336], provided that:
+[Pub. L. 103–353][/us/pl/103/353], § 8, Oct. 13, 1994, [108 Stat. 3175][/us/stat/108/3175], as amended by [Pub. L. 104–275, title III][/us/pl/104/275/tIII], § 312, Oct. 9, 1996, [110 Stat. 3336][/us/stat/110/3336], provided that:
 
 >     “(a)  __Reemployment__  __.—__ 
 
@@ -105,7 +105,7 @@
 
  __Demonstration Project for Referral of USERRA Claims Against Federal Agencies to the Office of Special Counsel__ 
 
-[Pub. L. 111–275, title I, § 105][/us/pl/111/275/s105], Oct. 13, 2010, [124 Stat. 2868][/us/stat/124/2868], as amended by [Pub. L. 112–234, § 2(d)][/us/pl/112/234/s2/d], Dec. 28, 2012, [126 Stat. 1624][/us/stat/126/1624], provided that:
+[Pub. L. 111–275, title I][/us/pl/111/275/tI], § 105, Oct. 13, 2010, [124 Stat. 2868][/us/stat/124/2868], as amended by [Pub. L. 112–234][/us/pl/112/234], § 2(d), Dec. 28, 2012, [126 Stat. 1624][/us/stat/126/1624], provided that:
 
 >     “(a)  __Establishment of Project__  __.—__ 
 
@@ -195,7 +195,7 @@
 
 >         “(2) not later than 90 days after the conclusion of the demonstration project, submit to such committees a final report that includes the findings and conclusions of the Comptroller General regarding the relative performance of the Office and the Department under the demonstration project and such recommendations as the Comptroller General determines are appropriate.”
 
-    [Pub. L. 108–454, title II, § 204][/us/pl/108/454/s204], Dec. 10, 2004, [118 Stat. 3606][/us/stat/118/3606], required the Secretary of Labor and the Office of Special Counsel to carry out a demonstration project during the period beginning 60 days after Dec. 10, 2004, and ending on September 30, 2007, under which certain claims against Federal executive agencies under the Uniformed Services Employment and Reemployment Rights Act of 1994, [Pub. L. 103–353][/us/pl/103/353], under this chapter were referred to, or otherwise received by, the Office of Special Counsel for assistance.
+    [Pub. L. 108–454, title II][/us/pl/108/454/tII], § 204, Dec. 10, 2004, [118 Stat. 3606][/us/stat/118/3606], required the Secretary of Labor and the Office of Special Counsel to carry out a demonstration project during the period beginning 60 days after Dec. 10, 2004, and ending on September 30, 2007, under which certain claims against Federal executive agencies under the Uniformed Services Employment and Reemployment Rights Act of 1994, [Pub. L. 103–353][/us/pl/103/353], under this chapter were referred to, or otherwise received by, the Office of Special Counsel for assistance.
 
  __Ensuring the Uniformed Services Employment and Reemployment Rights Act (USERRA) Protections__ 
 
@@ -294,33 +294,33 @@ Sec. 2. Federal USERRA Guidance. (a) Within 180 days of the date of this memoran
 ----------
 ----------
 
-[/us/pl/103/353/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F353%2Fs2%2Fa
+[/us/pl/103/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F353
 [/us/stat/108/3150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3150
-[/us/pl/104/275/s311/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275%2Fs311%2F1
+[/us/pl/104/275/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275%2FtIII
 [/us/stat/110/3333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3333
-[/us/pl/93/508/s404/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F508%2Fs404%2Fa
+[/us/pl/93/508/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F508%2FtIV
 [/us/stat/88/1594]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1594
-[/us/pl/94/502/s608/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F502%2Fs608%2F1
+[/us/pl/94/502/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F502%2FtVI
 [/us/stat/90/2405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2405
-[/us/pl/99/576/s331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2Fs331
+[/us/pl/99/576/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2FtIII
 [/us/stat/100/3279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3279
-[/us/pl/102/12/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F12%2Fs5%2Fa
+[/us/pl/102/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F12
 [/us/stat/105/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F36
-[/us/pl/102/25/s340/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25%2Fs340%2Fa
+[/us/pl/102/25/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25%2FtIII
 [/us/stat/105/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F92
-[/us/pl/102/568/s506/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F568%2Fs506%2Fa
+[/us/pl/102/568/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F568%2FtV
 [/us/stat/106/4340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4340
 [/us/pl/103/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F353
 [/us/pl/103/353/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F353%2Fs8
 [/us/usc/t38/s7601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7601
 [/us/pl/104/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275
-[/us/pl/104/275/s313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275%2Fs313
+[/us/pl/104/275/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275%2FtIII
 [/us/stat/110/3336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3336
 [/us/pl/104/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275
 [/us/usc/t38/s4312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs4312
-[/us/pl/103/353/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F353%2Fs8
+[/us/pl/103/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F353
 [/us/stat/108/3175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3175
-[/us/pl/104/275/s312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275%2Fs312
+[/us/pl/104/275/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275%2FtIII
 [/us/stat/110/3336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3336
 [/us/usc/t38/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs101
 [/us/usc/t32/s502/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft32%2Fs502%2Ff
@@ -333,12 +333,12 @@ Sec. 2. Federal USERRA Guidance. (a) Within 180 days of the date of this memoran
 [/us/usc/t38/s4305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs4305
 [/us/usc/t38/s4316/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs4316%2Fb%2F2
 [/us/usc/t38/s4303/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs4303%2F13
-[/us/pl/111/275/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275%2Fs105
+[/us/pl/111/275/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275%2FtI
 [/us/stat/124/2868]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2868
-[/us/pl/112/234/s2/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F234%2Fs2%2Fd
+[/us/pl/112/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F234
 [/us/stat/126/1624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1624
 [/us/usc/t5/s1212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs1212
-[/us/pl/108/454/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F454%2Fs204
+[/us/pl/108/454/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F454%2FtII
 [/us/stat/118/3606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3606
 [/us/pl/103/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F353
 [/us/usc/t38/s4301–433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs4301%E2%80%93433

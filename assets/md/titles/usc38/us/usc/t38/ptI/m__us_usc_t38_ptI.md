@@ -81,7 +81,7 @@
 
  __Amendments__ 
 
-    1991—[Pub. L. 102–83, § 2(d)(2)][/us/pl/102/83/s2/d/2], Aug. 6, 1991, [105 Stat. 402][/us/stat/105/402], substituted “Department of Veterans Affairs . . . 301” for “Veterans’ Administration; Officers and Employees . . . 201” in item for chapter 3 and added items for chapters 5, 7, and 9.
+    1991—[Pub. L. 102–83][/us/pl/102/83], § 2(d)(2), Aug. 6, 1991, [105 Stat. 402][/us/stat/105/402], substituted “Department of Veterans Affairs . . . 301” for “Veterans’ Administration; Officers and Employees . . . 201” in item for chapter 3 and added items for chapters 5, 7, and 9.
 
 ----------
 
@@ -90,7 +90,7 @@
 ----------
 ----------
 
-[/us/pl/102/83/s2/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs2%2Fd%2F2
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F402
 
 

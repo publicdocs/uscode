@@ -37,11 +37,11 @@
 
             (B) any sites established, or able to be established, under sections 8111 and 8153 of this title.
 
-(Added [Pub. L. 110–387, title VII, § 708(a)][/us/pl/110/387/s708/a], Oct. 10, 2008, [122 Stat. 4139][/us/stat/122/4139].)
+(Added [Pub. L. 110–387, title VII][/us/pl/110/387/tVII], § 708(a), Oct. 10, 2008, [122 Stat. 4139][/us/stat/122/4139].)
 
  __Deadline for First Annual Report__ 
 
-[Pub. L. 110–387, title VII, § 708(b)][/us/pl/110/387/s708/b], Oct. 10, 2008, [122 Stat. 4140][/us/stat/122/4140], provided that: 
+[Pub. L. 110–387, title VII][/us/pl/110/387/tVII], § 708(b), Oct. 10, 2008, [122 Stat. 4140][/us/stat/122/4140], provided that: 
 
 > “The Secretary of Veterans Affairs shall submit the first report required under [section 8119(a) of title 38][/us/usc/t38/s8119/a], United States Code, as added by subsection (a), by not later than 90 days after the date of the enactment of this Act \[Oct. 10, 2008\].”
 
@@ -53,9 +53,9 @@
 ----------
 
 [/us/usc/t31/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105
-[/us/pl/110/387/s708/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F387%2Fs708%2Fa
+[/us/pl/110/387/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F387%2FtVII
 [/us/stat/122/4139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4139
-[/us/pl/110/387/s708/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F387%2Fs708%2Fb
+[/us/pl/110/387/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F387%2FtVII
 [/us/stat/122/4140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4140
 [/us/usc/t38/s8119/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs8119%2Fa
 

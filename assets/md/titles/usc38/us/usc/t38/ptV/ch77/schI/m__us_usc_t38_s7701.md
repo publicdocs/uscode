@@ -19,7 +19,7 @@
 
     (b) The Veterans Benefits Administration is under the Under Secretary for Benefits, who is directly responsible to the Secretary for the operations of the Administration. The Under Secretary for Benefits may be referred to as the Chief Benefits Director.
 
-(Added [Pub. L. 102–83, § 2(b)][/us/pl/102/83/s2/b], Aug. 6, 1991, [105 Stat. 399][/us/stat/105/399]; amended [Pub. L. 102–405, title III, § 302(c)(1)][/us/pl/102/405/s302/c/1], (3), Oct. 9, 1992, [106 Stat. 1984][/us/stat/106/1984].)
+(Added [Pub. L. 102–83][/us/pl/102/83], § 2(b), Aug. 6, 1991, [105 Stat. 399][/us/stat/105/399]; amended [Pub. L. 102–405, title III][/us/pl/102/405/tIII], § 302(c)(1), (3), Oct. 9, 1992, [106 Stat. 1984][/us/stat/106/1984].)
 
  __Amendments__ 
 
@@ -32,9 +32,9 @@
 ----------
 ----------
 
-[/us/pl/102/83/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs2%2Fb
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F399
-[/us/pl/102/405/s302/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405%2Fs302%2Fc%2F1
+[/us/pl/102/405/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405%2FtIII
 [/us/stat/106/1984]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1984
 [/us/pl/102/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405
 

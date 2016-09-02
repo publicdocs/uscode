@@ -23,7 +23,7 @@
 
     The educational assistance allowance of an eligible veteran pursuing a program of education, other than a program exclusively by correspondence, at an educational institution shall be paid as provided in chapter 36 of this title.
 
-(Added [Pub. L. 89–358, § 2][/us/pl/89/358/s2], Mar. 3, 1966, [80 Stat. 17][/us/stat/80/17], § 1681; amended [Pub. L. 91–219, title II, § 205][/us/pl/91/219/s205], Mar. 26, 1970, [84 Stat. 81][/us/stat/84/81]; [Pub. L. 91–584, § 6][/us/pl/91/584/s6], Dec. 24, 1970, [84 Stat. 1576][/us/stat/84/1576]; [Pub. L. 92–540, title II, § 202][/us/pl/92/540/s202], Oct. 24, 1972, [86 Stat. 1079][/us/stat/86/1079]; [Pub. L. 94–502, title II][/us/pl/94/502], §§ 210(2), 211(10), Oct. 15, 1976, [90 Stat. 2388][/us/stat/90/2388], 2389; [Pub. L. 97–35, title XX, § 2003(b)(4)][/us/pl/97/35/s2003/b/4], Aug. 13, 1981, [95 Stat. 782][/us/stat/95/782]; [Pub. L. 101–237, title IV, § 423(b)(1)(A)][/us/pl/101/237/s423/b/1/A], Dec. 18, 1989, [103 Stat. 2092][/us/stat/103/2092]; renumbered § 3481, [Pub. L. 102–83, § 5(a)][/us/pl/102/83/s5/a], Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406]; [Pub. L. 109–233, title V, § 503(8)(A)][/us/pl/109/233/s503/8/A], June 15, 2006, [120 Stat. 416][/us/stat/120/416].)
+(Added [Pub. L. 89–358][/us/pl/89/358], § 2, Mar. 3, 1966, [80 Stat. 17][/us/stat/80/17], § 1681; amended [Pub. L. 91–219, title II][/us/pl/91/219/tII], § 205, Mar. 26, 1970, [84 Stat. 81][/us/stat/84/81]; [Pub. L. 91–584][/us/pl/91/584], § 6, Dec. 24, 1970, [84 Stat. 1576][/us/stat/84/1576]; [Pub. L. 92–540, title II][/us/pl/92/540/tII], § 202, Oct. 24, 1972, [86 Stat. 1079][/us/stat/86/1079]; [Pub. L. 94–502, title II][/us/pl/94/502/tII], §§ 210(2), 211(10), Oct. 15, 1976, [90 Stat. 2388][/us/stat/90/2388], 2389; [Pub. L. 97–35, title XX][/us/pl/97/35/tXX], § 2003(b)(4), Aug. 13, 1981, [95 Stat. 782][/us/stat/95/782]; [Pub. L. 101–237, title IV][/us/pl/101/237/tIV], § 423(b)(1)(A), Dec. 18, 1989, [103 Stat. 2092][/us/stat/103/2092]; renumbered § 3481, [Pub. L. 102–83][/us/pl/102/83], § 5(a), Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406]; [Pub. L. 109–233, title V][/us/pl/109/233/tV], § 503(8)(A), June 15, 2006, [120 Stat. 416][/us/stat/120/416].)
 
  __Prior Provisions__ 
 
@@ -37,13 +37,13 @@
 
     1989—Subsec. (a). [Pub. L. 101–237][/us/pl/101/237] substituted “Secretary” for “Administrator”.
 
-    1981—Subsec. (b). [Pub. L. 97–35, § 2003(b)(4)(A)][/us/pl/97/35/s2003/b/4/A], struck out applicability to flight training program.
+    1981—Subsec. (b). [Pub. L. 97–35][/us/pl/97/35], § 2003(b)(4)(A), struck out applicability to flight training program.
 
-    Subsec. (c). [Pub. L. 97–35, § 2003(b)(4)(B)][/us/pl/97/35/s2003/b/4/B], struck out subsec. (c) which related to flight training.
+    Subsec. (c). [Pub. L. 97–35][/us/pl/97/35], § 2003(b)(4)(B), struck out subsec. (c) which related to flight training.
 
     1976—Subsec. (a). [Pub. L. 94–502][/us/pl/94/502], §§ 210(2), 211(10), substituted “chapter 36” for “section 1780” and “the veteran’s” for “his”.
 
-    Subsec. (b). [Pub. L. 94–502, § 210(2)][/us/pl/94/502/s210/2], substituted “chapter 36” for “section 1780”.
+    Subsec. (b). [Pub. L. 94–502][/us/pl/94/502], § 210(2), substituted “chapter 36” for “section 1780”.
 
     1972—Subsec. (a). [Pub. L. 92–540][/us/pl/92/540] inserted heading and provisions requiring allowances to be paid in accordance with the applicable provisions of this section and [section 1780 of this title][/us/usc/t38/s1780].
 
@@ -74,23 +74,23 @@
 ----------
 ----------
 
-[/us/pl/89/358/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F358%2Fs2
+[/us/pl/89/358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F358
 [/us/stat/80/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F17
-[/us/pl/91/219/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F219%2Fs205
+[/us/pl/91/219/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F219%2FtII
 [/us/stat/84/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F81
-[/us/pl/91/584/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F584%2Fs6
+[/us/pl/91/584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F584
 [/us/stat/84/1576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1576
-[/us/pl/92/540/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F540%2Fs202
+[/us/pl/92/540/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F540%2FtII
 [/us/stat/86/1079]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1079
-[/us/pl/94/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F502
+[/us/pl/94/502/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F502%2FtII
 [/us/stat/90/2388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2388
-[/us/pl/97/35/s2003/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2003%2Fb%2F4
+[/us/pl/97/35/tXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXX
 [/us/stat/95/782]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F782
-[/us/pl/101/237/s423/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237%2Fs423%2Fb%2F1%2FA
+[/us/pl/101/237/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237%2FtIV
 [/us/stat/103/2092]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2092
-[/us/pl/102/83/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fa
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F406
-[/us/pl/109/233/s503/8/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F233%2Fs503%2F8%2FA
+[/us/pl/109/233/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F233%2FtV
 [/us/stat/120/416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F416
 [/us/pl/85/857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F857
 [/us/stat/72/1179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1179
@@ -100,10 +100,10 @@
 [/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/usc/t38/s1681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1681
 [/us/pl/101/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237
-[/us/pl/97/35/s2003/b/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2003%2Fb%2F4%2FA
-[/us/pl/97/35/s2003/b/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2003%2Fb%2F4%2FB
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/pl/94/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F502
-[/us/pl/94/502/s210/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F502%2Fs210%2F2
+[/us/pl/94/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F502
 [/us/pl/92/540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F540
 [/us/usc/t38/s1780]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1780
 [/us/pl/92/540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F540

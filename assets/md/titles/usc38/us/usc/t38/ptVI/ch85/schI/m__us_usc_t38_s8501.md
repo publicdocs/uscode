@@ -25,7 +25,7 @@
 
     (b) Any officer or employee of the United States in possession of any such property may deliver same to the executor (or the administrator with will annexed) who shall have qualified in either jurisdiction as provided in subsection (a)(1); or if none such then to the domiciliary administrator or to any other qualified administrator who shall demand such property. When delivery shall have been made to any such executor or administrator in accordance with this subsection, neither the United States nor any officer or employee thereof shall be liable therefor.
 
-([Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1256][/us/stat/72/1256], § 5201; [Pub. L. 99–576, title VII, § 701(93)][/us/pl/99/576/s701/93], Oct. 28, 1986, [100 Stat. 3299][/us/stat/100/3299]; renumbered § 8501, [Pub. L. 102–40, title IV, § 402(b)(1)][/us/pl/102/40/s402/b/1], May 7, 1991, [105 Stat. 238][/us/stat/105/238]; [Pub. L. 102–83, § 4(a)(3)][/us/pl/102/83/s4/a/3], (4), Aug. 6, 1991, [105 Stat. 404][/us/stat/105/404].)
+([Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1256][/us/stat/72/1256], § 5201; [Pub. L. 99–576, title VII][/us/pl/99/576/tVII], § 701(93), Oct. 28, 1986, [100 Stat. 3299][/us/stat/100/3299]; renumbered § 8501, [Pub. L. 102–40, title IV][/us/pl/102/40/tIV], § 402(b)(1), May 7, 1991, [105 Stat. 238][/us/stat/105/238]; [Pub. L. 102–83][/us/pl/102/83], § 4(a)(3), (4), Aug. 6, 1991, [105 Stat. 404][/us/stat/105/404].)
 
  __Amendments__ 
 
@@ -44,11 +44,11 @@
 
 [/us/pl/85/857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F857
 [/us/stat/72/1256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1256
-[/us/pl/99/576/s701/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2Fs701%2F93
+[/us/pl/99/576/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2FtVII
 [/us/stat/100/3299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3299
-[/us/pl/102/40/s402/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs402%2Fb%2F1
+[/us/pl/102/40/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2FtIV
 [/us/stat/105/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F238
-[/us/pl/102/83/s4/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fa%2F3
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F404
 [/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40
 [/us/usc/t38/s5201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs5201

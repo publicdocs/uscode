@@ -27,17 +27,17 @@
 
     (c) The Committee shall submit to the Secretary an annual report on the rehabilitation programs and activities of the Department of Veterans Affairs and shall submit such other reports and recommendations to the Secretary as the Committee determines appropriate. The annual report shall include an assessment of the rehabilitation needs of veterans and a review of the programs and activities of the Department of Veterans Affairs designed to meet such needs. The Secretary shall submit with each annual report submitted to the Congress pursuant to [section 529 of this title][/us/usc/t38/s529] a copy of all reports and recommendations of the Committee submitted to the Secretary since the previous annual report of the Secretary was submitted to the Congress pursuant to such section.
 
-(Added [Pub. L. 96–466, title I, § 101(a)][/us/pl/96/466/s101/a], Oct. 17, 1980, [94 Stat. 2186][/us/stat/94/2186], § 1521; amended [Pub. L. 101–237, title IV, § 423(b)(1)][/us/pl/101/237/s423/b/1], Dec. 18, 1989, [103 Stat. 2092][/us/stat/103/2092]; [Pub. L. 102–54, § 14(c)(5)][/us/pl/102/54/s14/c/5], June 13, 1991, [105 Stat. 285][/us/stat/105/285]; renumbered § 3121 and amended [Pub. L. 102–83][/us/pl/102/83], §§ 2(c)(3), 5(a), Aug. 6, 1991, [105 Stat. 402][/us/stat/105/402], 406; [Pub. L. 103–446, title XII, § 1201(b)(1)][/us/pl/103/446/s1201/b/1], (i)(5), Nov. 2, 1994, [108 Stat. 4682][/us/stat/108/4682], 4688.)
+(Added [Pub. L. 96–466, title I][/us/pl/96/466/tI], § 101(a), Oct. 17, 1980, [94 Stat. 2186][/us/stat/94/2186], § 1521; amended [Pub. L. 101–237, title IV][/us/pl/101/237/tIV], § 423(b)(1), Dec. 18, 1989, [103 Stat. 2092][/us/stat/103/2092]; [Pub. L. 102–54][/us/pl/102/54], § 14(c)(5), June 13, 1991, [105 Stat. 285][/us/stat/105/285]; renumbered § 3121 and amended [Pub. L. 102–83][/us/pl/102/83], §§ 2(c)(3), 5(a), Aug. 6, 1991, [105 Stat. 402][/us/stat/105/402], 406; [Pub. L. 103–446, title XII][/us/pl/103/446/tXII], § 1201(b)(1), (i)(5), Nov. 2, 1994, [108 Stat. 4682][/us/stat/108/4682], 4688.)
 
  __Amendments__ 
 
     1994—Subsec. (a)(3)(A). [Pub. L. 103–446][/us/pl/103/446] substituted “Veterans Health Administration” for “Department of Medicine and Surgery” and “Veterans Benefits Administration” for “Department of Veterans’ Benefits”.
 
-    1991—[Pub. L. 102–83, § 5(a)][/us/pl/102/83/s5/a], renumbered [section 1521 of this title][/us/usc/t38/s1521] as this section.
+    1991—[Pub. L. 102–83][/us/pl/102/83], § 5(a), renumbered [section 1521 of this title][/us/usc/t38/s1521] as this section.
 
     Subsec. (a)(3). [Pub. L. 102–54][/us/pl/102/54] substituted “Veterans’ Employment and Training” for “Veterans’ Employment”.
 
-    Subsec. (c). [Pub. L. 102–83, § 2(c)(3)][/us/pl/102/83/s2/c/3], substituted “section 529” for “section 214”.
+    Subsec. (c). [Pub. L. 102–83][/us/pl/102/83], § 2(c)(3), substituted “section 529” for “section 214”.
 
     1989—Subsecs. (a)(1), (2), (b). [Pub. L. 101–237][/us/pl/101/237] substituted “Secretary” and “Department of Veterans Affairs” for “Administrator” and “Veterans’ Administration”, respectively, wherever appearing.
 
@@ -53,21 +53,21 @@
 ----------
 
 [/us/usc/t38/s529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs529
-[/us/pl/96/466/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F466%2Fs101%2Fa
+[/us/pl/96/466/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F466%2FtI
 [/us/stat/94/2186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2186
-[/us/pl/101/237/s423/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237%2Fs423%2Fb%2F1
+[/us/pl/101/237/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237%2FtIV
 [/us/stat/103/2092]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2092
-[/us/pl/102/54/s14/c/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54%2Fs14%2Fc%2F5
+[/us/pl/102/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54
 [/us/stat/105/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F285
 [/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F402
-[/us/pl/103/446/s1201/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2Fs1201%2Fb%2F1
+[/us/pl/103/446/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2FtXII
 [/us/stat/108/4682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4682
 [/us/pl/103/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446
-[/us/pl/102/83/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fa
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/usc/t38/s1521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1521
 [/us/pl/102/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54
-[/us/pl/102/83/s2/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs2%2Fc%2F3
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/pl/101/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237
 [/us/pl/96/466/s802/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F466%2Fs802%2Fa%2F2
 [/us/usc/t38/s3100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3100

@@ -175,55 +175,55 @@
 
     (o) Each survivor annuity payable from the retirement fund shall be increased at the same time as, and by the same percentage by which, annuities payable from the Judicial Survivors’ Annuities Fund are increased pursuant to [section 376(m) of title 28][/us/usc/t28/s376/m].
 
-(Added [Pub. L. 101–94, title I, § 101(a)][/us/pl/101/94/s101/a], Aug. 16, 1989, [103 Stat. 620][/us/stat/103/620], § 4097; renumbered § 7297 and amended [Pub. L. 102–40, title IV, § 402(b)(1)][/us/pl/102/40/s402/b/1], (d)(1), May 7, 1991, [105 Stat. 238][/us/stat/105/238], 239; [Pub. L. 102–54, § 14(e)(6)][/us/pl/102/54/s14/e/6], June 13, 1991, [105 Stat. 287][/us/stat/105/287]; [Pub. L. 102–82, § 5(c)(2)][/us/pl/102/82/s5/c/2], Aug. 6, 1991, [105 Stat. 376][/us/stat/105/376]; [Pub. L. 102–198, § 7(c)(4)(E)][/us/pl/102/198/s7/c/4/E], Dec. 9, 1991, [105 Stat. 1625][/us/stat/105/1625]; [Pub. L. 105–368, title V][/us/pl/105/368], §§ 503, 512(a)(1), Nov. 11, 1998, [112 Stat. 3340][/us/stat/112/3340], 3341; [Pub. L. 106–117, title X][/us/pl/106/117], §§ 1023, 1035(2), Nov. 30, 1999, [113 Stat. 1592][/us/stat/113/1592], 1595.)
+(Added [Pub. L. 101–94, title I][/us/pl/101/94/tI], § 101(a), Aug. 16, 1989, [103 Stat. 620][/us/stat/103/620], § 4097; renumbered § 7297 and amended [Pub. L. 102–40, title IV][/us/pl/102/40/tIV], § 402(b)(1), (d)(1), May 7, 1991, [105 Stat. 238][/us/stat/105/238], 239; [Pub. L. 102–54][/us/pl/102/54], § 14(e)(6), June 13, 1991, [105 Stat. 287][/us/stat/105/287]; [Pub. L. 102–82][/us/pl/102/82], § 5(c)(2), Aug. 6, 1991, [105 Stat. 376][/us/stat/105/376]; [Pub. L. 102–198][/us/pl/102/198], § 7(c)(4)(E), Dec. 9, 1991, [105 Stat. 1625][/us/stat/105/1625]; [Pub. L. 105–368, title V][/us/pl/105/368/tV], §§ 503, 512(a)(1), Nov. 11, 1998, [112 Stat. 3340][/us/stat/112/3340], 3341; [Pub. L. 106–117, title X][/us/pl/106/117/tX], §§ 1023, 1035(2), Nov. 30, 1999, [113 Stat. 1592][/us/stat/113/1592], 1595.)
 
  __Amendments__ 
 
-    1999—Subsec. (a)(2). [Pub. L. 106–117, § 1035(2)][/us/pl/106/117/s1035/2], substituted “a judge” for “the chief judge or an associate judge”.
+    1999—Subsec. (a)(2). [Pub. L. 106–117][/us/pl/106/117], § 1035(2), substituted “a judge” for “the chief judge or an associate judge”.
 
-    [Pub. L. 106–117, § 1023(e)(2)(A)][/us/pl/106/117/s1023/e/2/A], inserted “who is in active service or who has retired under [section 7296 of this title][/us/usc/t38/s7296]” after “Court”.
+    [Pub. L. 106–117][/us/pl/106/117], § 1023(e)(2)(A), inserted “who is in active service or who has retired under [section 7296 of this title][/us/usc/t38/s7296]” after “Court”.
 
-    Subsec. (a)(3). [Pub. L. 106–117, § 1023(e)(2)(B)][/us/pl/106/117/s1023/e/2/B], substituted “7296” for “7296(c)”.
+    Subsec. (a)(3). [Pub. L. 106–117][/us/pl/106/117], § 1023(e)(2)(B), substituted “7296” for “7296(c)”.
 
-    Subsec. (a)(5). [Pub. L. 106–117, § 1023(a)][/us/pl/106/117/s1023/a], substituted “one year” for “two years”.
+    Subsec. (a)(5). [Pub. L. 106–117][/us/pl/106/117], § 1023(a), substituted “one year” for “two years”.
 
-    Subsec. (a)(8). [Pub. L. 106–117, § 1023(e)(2)(C)][/us/pl/106/117/s1023/e/2/C], added par. (8).
+    Subsec. (a)(8). [Pub. L. 106–117][/us/pl/106/117], § 1023(e)(2)(C), added par. (8).
 
-    Subsec. (b). [Pub. L. 106–117, § 1023(b)][/us/pl/106/117/s1023/b], inserted “or within six months after the date on which the judge marries if the judge has retired under [section 7296 of this title][/us/usc/t38/s7296]” before the period at end of first sentence.
+    Subsec. (b). [Pub. L. 106–117][/us/pl/106/117], § 1023(b), inserted “or within six months after the date on which the judge marries if the judge has retired under [section 7296 of this title][/us/usc/t38/s7296]” before the period at end of first sentence.
 
-    Subsec. (c). [Pub. L. 106–117, § 1023(c)][/us/pl/106/117/s1023/c], substituted “that percentage of the judge’s pay that is the same as provided for the deduction from the salary or retirement salary of a judge of the United States Court of Federal Claims for the purpose of a survivor annuity under [section 376(b)(1)(B) of title 28][/us/usc/t28/s376/b/1/B]” for “3.5 percent of the judge’s pay”.
+    Subsec. (c). [Pub. L. 106–117][/us/pl/106/117], § 1023(c), substituted “that percentage of the judge’s pay that is the same as provided for the deduction from the salary or retirement salary of a judge of the United States Court of Federal Claims for the purpose of a survivor annuity under [section 376(b)(1)(B) of title 28][/us/usc/t28/s376/b/1/B]” for “3.5 percent of the judge’s pay”.
 
-    Subsec. (d). [Pub. L. 106–117, § 1023(d)][/us/pl/106/117/s1023/d], designated existing provisions as par. (1) and added par. (2).
+    Subsec. (d). [Pub. L. 106–117][/us/pl/106/117], § 1023(d), designated existing provisions as par. (1) and added par. (2).
 
-    Subsec. (f)(1). [Pub. L. 106–117, § 1023(e)(1)(A)][/us/pl/106/117/s1023/e/1/A], in introductory provisions, substituted “at least 18 months” for “at least 5 years” and “last 18 months” for “last 5 years”.
+    Subsec. (f)(1). [Pub. L. 106–117][/us/pl/106/117], § 1023(e)(1)(A), in introductory provisions, substituted “at least 18 months” for “at least 5 years” and “last 18 months” for “last 5 years”.
 
-    Subsec. (f)(1)(A). [Pub. L. 106–117, § 1023(f)][/us/pl/106/117/s1023/f], struck out “or following the surviving spouse’s attainment of the age of 50 years, whichever is the later” after “death of the judge”.
+    Subsec. (f)(1)(A). [Pub. L. 106–117][/us/pl/106/117], § 1023(f), struck out “or following the surviving spouse’s attainment of the age of 50 years, whichever is the later” after “death of the judge”.
 
-    Subsec. (f)(5). [Pub. L. 106–117, § 1023(e)(1)(B)][/us/pl/106/117/s1023/e/1/B], added par. (5).
+    Subsec. (f)(5). [Pub. L. 106–117][/us/pl/106/117], § 1023(e)(1)(B), added par. (5).
 
-    1998—Subsec. (a)(1), (4). [Pub. L. 105–368, § 512(a)(1)][/us/pl/105/368/s512/a/1], substituted “Court of Appeals for Veterans Claims” for “Court of Veterans Appeals”.
+    1998—Subsec. (a)(1), (4). [Pub. L. 105–368][/us/pl/105/368], § 512(a)(1), substituted “Court of Appeals for Veterans Claims” for “Court of Veterans Appeals”.
 
-    Subsec. (o). [Pub. L. 105–368, § 503][/us/pl/105/368/s503], amended subsec. (o) generally. Prior to amendment, subsec. (o) read as follows: “Whenever the salaries of judges paid under [section 7253(e) of this title][/us/usc/t38/s7253/e] are increased, each annuity payable from the retirement fund which is based, in whole or in part, upon a deceased judge having rendered some portion of that judge’s final 18 months of service as a judge of the Court, shall also be increased. The amount of the increase in the annuity shall be determined by multiplying the amount of the annuity on the date on which the increase in salaries becomes effective by 3 percent for each full 5 percent by which those salaries were increased.”
+    Subsec. (o). [Pub. L. 105–368][/us/pl/105/368], § 503, amended subsec. (o) generally. Prior to amendment, subsec. (o) read as follows: “Whenever the salaries of judges paid under [section 7253(e) of this title][/us/usc/t38/s7253/e] are increased, each annuity payable from the retirement fund which is based, in whole or in part, upon a deceased judge having rendered some portion of that judge’s final 18 months of service as a judge of the Court, shall also be increased. The amount of the increase in the annuity shall be determined by multiplying the amount of the annuity on the date on which the increase in salaries becomes effective by 3 percent for each full 5 percent by which those salaries were increased.”
 
-    1991—[Pub. L. 102–40, § 402(b)(1)][/us/pl/102/40/s402/b/1], renumbered [section 4097 of this title][/us/usc/t38/s4097] as this section.
+    1991—[Pub. L. 102–40][/us/pl/102/40], § 402(b)(1), renumbered [section 4097 of this title][/us/usc/t38/s4097] as this section.
 
-    Subsec. (a)(3). [Pub. L. 102–40, § 402(d)(1)][/us/pl/102/40/s402/d/1], substituted “7253(e)” for “4053(e)” and “7296(c)” for “4096(c)”.
+    Subsec. (a)(3). [Pub. L. 102–40][/us/pl/102/40], § 402(d)(1), substituted “7253(e)” for “4053(e)” and “7296(c)” for “4096(c)”.
 
-    Subsec. (a)(4). [Pub. L. 102–40, § 402(d)(1)][/us/pl/102/40/s402/d/1], substituted “7298” for “4098”.
+    Subsec. (a)(4). [Pub. L. 102–40][/us/pl/102/40], § 402(d)(1), substituted “7298” for “4098”.
 
-    Subsec. (e). [Pub. L. 102–40, § 402(d)(1)][/us/pl/102/40/s402/d/1], substituted “7296” for “4096” wherever appearing.
+    Subsec. (e). [Pub. L. 102–40][/us/pl/102/40], § 402(d)(1), substituted “7296” for “4096” wherever appearing.
 
     Subsec. (h)(1)(A)(i). [Pub. L. 102–54][/us/pl/102/54] amended subsec. (h)(1)(A)(i) as in effect immediately before the enactment of [Pub. L. 102–40][/us/pl/102/40] by substituting “subsection (l)” for “subsection (1)”.
 
-    Subsec. (k)(3). [Pub. L. 102–40, § 402(d)(1)][/us/pl/102/40/s402/d/1], substituted “7296(d)” for “4096(d)”.
+    Subsec. (k)(3). [Pub. L. 102–40][/us/pl/102/40], § 402(d)(1), substituted “7296(d)” for “4096(d)”.
 
     Subsec. (n). [Pub. L. 102–198][/us/pl/102/198] substituted “8440d” for “8440c”.
 
     [Pub. L. 102–82][/us/pl/102/82] inserted “except [section 8440c of title 5][/us/usc/t5/s8440c]” before period at end of first sentence.
 
-    [Pub. L. 102–40, § 402(d)(1)][/us/pl/102/40/s402/d/1], substituted “7296(d)” for “4096(d)”.
+    [Pub. L. 102–40][/us/pl/102/40], § 402(d)(1), substituted “7296(d)” for “4096(d)”.
 
-    Subsec. (o). [Pub. L. 102–40, § 402(d)(1)][/us/pl/102/40/s402/d/1], substituted “7253(e)” for “4053(e)”.
+    Subsec. (o). [Pub. L. 102–40][/us/pl/102/40], § 402(d)(1), substituted “7253(e)” for “4053(e)”.
 
  __Effective Date of 1999 Amendment__ 
 
@@ -260,50 +260,50 @@
 [/us/usc/t5/s8440d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8440d
 [/us/usc/t38/s7296/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7296%2Fd
 [/us/usc/t28/s376/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs376%2Fm
-[/us/pl/101/94/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F94%2Fs101%2Fa
+[/us/pl/101/94/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F94%2FtI
 [/us/stat/103/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F620
-[/us/pl/102/40/s402/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs402%2Fb%2F1
+[/us/pl/102/40/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2FtIV
 [/us/stat/105/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F238
-[/us/pl/102/54/s14/e/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54%2Fs14%2Fe%2F6
+[/us/pl/102/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54
 [/us/stat/105/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F287
-[/us/pl/102/82/s5/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F82%2Fs5%2Fc%2F2
+[/us/pl/102/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F82
 [/us/stat/105/376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F376
-[/us/pl/102/198/s7/c/4/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F198%2Fs7%2Fc%2F4%2FE
+[/us/pl/102/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F198
 [/us/stat/105/1625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1625
-[/us/pl/105/368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368
+[/us/pl/105/368/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2FtV
 [/us/stat/112/3340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3340
-[/us/pl/106/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117
+[/us/pl/106/117/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117%2FtX
 [/us/stat/113/1592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1592
-[/us/pl/106/117/s1035/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117%2Fs1035%2F2
-[/us/pl/106/117/s1023/e/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117%2Fs1023%2Fe%2F2%2FA
+[/us/pl/106/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117
+[/us/pl/106/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117
 [/us/usc/t38/s7296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7296
-[/us/pl/106/117/s1023/e/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117%2Fs1023%2Fe%2F2%2FB
-[/us/pl/106/117/s1023/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117%2Fs1023%2Fa
-[/us/pl/106/117/s1023/e/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117%2Fs1023%2Fe%2F2%2FC
-[/us/pl/106/117/s1023/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117%2Fs1023%2Fb
+[/us/pl/106/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117
+[/us/pl/106/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117
+[/us/pl/106/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117
+[/us/pl/106/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117
 [/us/usc/t38/s7296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7296
-[/us/pl/106/117/s1023/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117%2Fs1023%2Fc
+[/us/pl/106/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117
 [/us/usc/t28/s376/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs376%2Fb%2F1%2FB
-[/us/pl/106/117/s1023/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117%2Fs1023%2Fd
-[/us/pl/106/117/s1023/e/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117%2Fs1023%2Fe%2F1%2FA
-[/us/pl/106/117/s1023/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117%2Fs1023%2Ff
-[/us/pl/106/117/s1023/e/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117%2Fs1023%2Fe%2F1%2FB
-[/us/pl/105/368/s512/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2Fs512%2Fa%2F1
-[/us/pl/105/368/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2Fs503
+[/us/pl/106/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117
+[/us/pl/106/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117
+[/us/pl/106/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117
+[/us/pl/106/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117
+[/us/pl/105/368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368
+[/us/pl/105/368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368
 [/us/usc/t38/s7253/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7253%2Fe
-[/us/pl/102/40/s402/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs402%2Fb%2F1
+[/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40
 [/us/usc/t38/s4097]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs4097
-[/us/pl/102/40/s402/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs402%2Fd%2F1
-[/us/pl/102/40/s402/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs402%2Fd%2F1
-[/us/pl/102/40/s402/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs402%2Fd%2F1
+[/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40
+[/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40
+[/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40
 [/us/pl/102/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54
 [/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40
-[/us/pl/102/40/s402/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs402%2Fd%2F1
+[/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40
 [/us/pl/102/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F198
 [/us/pl/102/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F82
 [/us/usc/t5/s8440c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8440c
-[/us/pl/102/40/s402/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs402%2Fd%2F1
-[/us/pl/102/40/s402/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs402%2Fd%2F1
+[/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40
+[/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40
 [/us/pl/106/117/s1035/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117%2Fs1035%2F2
 [/us/pl/106/117/s1036]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117%2Fs1036
 [/us/usc/t38/s7253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7253

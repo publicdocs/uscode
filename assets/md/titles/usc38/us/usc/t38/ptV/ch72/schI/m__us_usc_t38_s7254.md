@@ -31,7 +31,7 @@
 
     (e) Judges of the Court shall have the authority to administer oaths.
 
-(Added [Pub. L. 100–687, div. A, title III, § 301(a)][/us/pl/100/687/s301/a], Nov. 18, 1988, [102 Stat. 4114][/us/stat/102/4114], § 4054; amended [Pub. L. 101–94, title IV, § 402][/us/pl/101/94/s402], Aug. 16, 1989, [103 Stat. 628][/us/stat/103/628]; [Pub. L. 101–237, title VI, § 602(b)][/us/pl/101/237/s602/b], Dec. 18, 1989, [103 Stat. 2095][/us/stat/103/2095]; renumbered § 7254, [Pub. L. 102–40, title IV, § 402(b)(1)][/us/pl/102/40/s402/b/1], May 7, 1991, [105 Stat. 238][/us/stat/105/238]; [Pub. L. 102–54, § 14(e)(4)][/us/pl/102/54/s14/e/4], June 13, 1991, [105 Stat. 287][/us/stat/105/287]; [Pub. L. 102–82, § 8(3)][/us/pl/102/82/s8/3], Aug. 6, 1991, [105 Stat. 377][/us/stat/105/377]; [Pub. L. 105–368, title V, § 512(a)(1)][/us/pl/105/368/s512/a/1], Nov. 11, 1998, [112 Stat. 3341][/us/stat/112/3341]; [Pub. L. 106–117, title X, § 1034][/us/pl/106/117/s1034], Nov. 30, 1999, [113 Stat. 1595][/us/stat/113/1595].)
+(Added [Pub. L. 100–687, div. A, title III][/us/pl/100/687/dA/tIII], § 301(a), Nov. 18, 1988, [102 Stat. 4114][/us/stat/102/4114], § 4054; amended [Pub. L. 101–94, title IV][/us/pl/101/94/tIV], § 402, Aug. 16, 1989, [103 Stat. 628][/us/stat/103/628]; [Pub. L. 101–237, title VI][/us/pl/101/237/tVI], § 602(b), Dec. 18, 1989, [103 Stat. 2095][/us/stat/103/2095]; renumbered § 7254, [Pub. L. 102–40, title IV][/us/pl/102/40/tIV], § 402(b)(1), May 7, 1991, [105 Stat. 238][/us/stat/105/238]; [Pub. L. 102–54][/us/pl/102/54], § 14(e)(4), June 13, 1991, [105 Stat. 287][/us/stat/105/287]; [Pub. L. 102–82][/us/pl/102/82], § 8(3), Aug. 6, 1991, [105 Stat. 377][/us/stat/105/377]; [Pub. L. 105–368, title V][/us/pl/105/368/tV], § 512(a)(1), Nov. 11, 1998, [112 Stat. 3341][/us/stat/112/3341]; [Pub. L. 106–117, title X][/us/pl/106/117/tX], § 1034, Nov. 30, 1999, [113 Stat. 1595][/us/stat/113/1595].)
 
  __Amendments__ 
 
@@ -62,21 +62,21 @@
 ----------
 ----------
 
-[/us/pl/100/687/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F687%2Fs301%2Fa
+[/us/pl/100/687/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F687%2FdA%2FtIII
 [/us/stat/102/4114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4114
-[/us/pl/101/94/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F94%2Fs402
+[/us/pl/101/94/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F94%2FtIV
 [/us/stat/103/628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F628
-[/us/pl/101/237/s602/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237%2Fs602%2Fb
+[/us/pl/101/237/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237%2FtVI
 [/us/stat/103/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2095
-[/us/pl/102/40/s402/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs402%2Fb%2F1
+[/us/pl/102/40/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2FtIV
 [/us/stat/105/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F238
-[/us/pl/102/54/s14/e/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54%2Fs14%2Fe%2F4
+[/us/pl/102/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54
 [/us/stat/105/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F287
-[/us/pl/102/82/s8/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F82%2Fs8%2F3
+[/us/pl/102/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F82
 [/us/stat/105/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F377
-[/us/pl/105/368/s512/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2Fs512%2Fa%2F1
+[/us/pl/105/368/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2FtV
 [/us/stat/112/3341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3341
-[/us/pl/106/117/s1034]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117%2Fs1034
+[/us/pl/106/117/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117%2FtX
 [/us/stat/113/1595]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1595
 [/us/pl/106/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117
 [/us/pl/105/368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368

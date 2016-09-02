@@ -19,7 +19,7 @@
 
     (b) If a veteran is eligible for pension under both this section and [section 1521 of this title][/us/usc/t38/s1521], pension shall be paid to the veteran only under [section 1521 of this title][/us/usc/t38/s1521].
 
-(Added [Pub. L. 107–103, title II, § 207(a)(1)][/us/pl/107/103/s207/a/1], Dec. 27, 2001, [115 Stat. 991][/us/stat/115/991]; amended [Pub. L. 109–233, title V, § 503(2)][/us/pl/109/233/s503/2], June 15, 2006, [120 Stat. 416][/us/stat/120/416].)
+(Added [Pub. L. 107–103, title II][/us/pl/107/103/tII], § 207(a)(1), Dec. 27, 2001, [115 Stat. 991][/us/stat/115/991]; amended [Pub. L. 109–233, title V][/us/pl/109/233/tV], § 503(2), June 15, 2006, [120 Stat. 416][/us/stat/120/416].)
 
  __Prior Provisions__ 
 
@@ -31,7 +31,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 107–103, title II, § 207(c)][/us/pl/107/103/s207/c], Dec. 27, 2001, [115 Stat. 991][/us/stat/115/991], provided that: 
+[Pub. L. 107–103, title II][/us/pl/107/103/tII], § 207(c), Dec. 27, 2001, [115 Stat. 991][/us/stat/115/991], provided that: 
 
 > “The amendments made by this section \[enacting this section and amending sections 1521 and 1522 of this title\] shall take effect as of September 17, 2001.”
 
@@ -48,12 +48,12 @@
 [/us/usc/t38/s1521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1521
 [/us/usc/t38/s1521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1521
 [/us/usc/t38/s1521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1521
-[/us/pl/107/103/s207/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F103%2Fs207%2Fa%2F1
+[/us/pl/107/103/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F103%2FtII
 [/us/stat/115/991]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F991
-[/us/pl/109/233/s503/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F233%2Fs503%2F2
+[/us/pl/109/233/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F233%2FtV
 [/us/stat/120/416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F416
 [/us/pl/109/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F233
-[/us/pl/107/103/s207/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F103%2Fs207%2Fc
+[/us/pl/107/103/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F103%2FtII
 [/us/stat/115/991]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F991
 
 

@@ -77,27 +77,27 @@
 
         (2) The Secretary may not use the proportion of representation of veterans described in subparagraph (B) of paragraph (1) as the basis for determining under such paragraph whether veterans are receiving priority of service and are being fully served by qualified job training programs.
 
-(Added [Pub. L. 107–288, § 2(a)(1)][/us/pl/107/288/s2/a/1], Nov. 7, 2002, [116 Stat. 2033][/us/stat/116/2033]; amended [Pub. L. 112–56, title II, § 239][/us/pl/112/56/s239], Nov. 21, 2011, [125 Stat. 727][/us/stat/125/727].)
+(Added [Pub. L. 107–288][/us/pl/107/288], § 2(a)(1), Nov. 7, 2002, [116 Stat. 2033][/us/stat/116/2033]; amended [Pub. L. 112–56, title II][/us/pl/112/56/tII], § 239, Nov. 21, 2011, [125 Stat. 727][/us/stat/125/727].)
 
  __References in Text__ 
 
-    The Workforce Investment Act of 1998, referred to in subsec. (a)(2)(B), is [Pub. L. 105–220][/us/pl/105/220], Aug. 7, 1998, [112 Stat. 936][/us/stat/112/936], and was repealed by [Pub. L. 113–128, title V][/us/pl/113/128], §§ 506, 511(a), July 22, 2014, [128 Stat. 1703][/us/stat/128/1703], 1705, effective July 1, 2015. For complete classification of this Act to the Code, see Tables.
+    The Workforce Investment Act of 1998, referred to in subsec. (a)(2)(B), is [Pub. L. 105–220][/us/pl/105/220], Aug. 7, 1998, [112 Stat. 936][/us/stat/112/936], and was repealed by [Pub. L. 113–128, title V][/us/pl/113/128/tV], §§ 506, 511(a), July 22, 2014, [128 Stat. 1703][/us/stat/128/1703], 1705, effective July 1, 2015. For complete classification of this Act to the Code, see Tables.
 
  __Amendments__ 
 
-    2011—Subsec. (a)(3). [Pub. L. 112–56, § 239(1)][/us/pl/112/56/s239/1], inserted at end “Such priority includes giving access to such services to a covered person before a non-covered person or, if resources are limited, giving access to such services to a covered person instead of a non-covered person.”
+    2011—Subsec. (a)(3). [Pub. L. 112–56][/us/pl/112/56], § 239(1), inserted at end “Such priority includes giving access to such services to a covered person before a non-covered person or, if resources are limited, giving access to such services to a covered person instead of a non-covered person.”
 
-    Subsec. (d). [Pub. L. 112–56, § 239(2)][/us/pl/112/56/s239/2], amended subsec. (d) generally. Prior to amendment, text read as follows: “In the annual report required under [section 4107(c) of this title][/us/usc/t38/s4107/c] for the program year beginning in 2003 and each subsequent program year, the Secretary of Labor shall evaluate whether covered persons are receiving priority of service and are being fully served by qualified job training programs, and whether the representation of veterans in such programs is in proportion to the incidence of representation of veterans in the labor market, including within groups that the Secretary may designate for priority under such programs, if any.”
+    Subsec. (d). [Pub. L. 112–56][/us/pl/112/56], § 239(2), amended subsec. (d) generally. Prior to amendment, text read as follows: “In the annual report required under [section 4107(c) of this title][/us/usc/t38/s4107/c] for the program year beginning in 2003 and each subsequent program year, the Secretary of Labor shall evaluate whether covered persons are receiving priority of service and are being fully served by qualified job training programs, and whether the representation of veterans in such programs is in proportion to the incidence of representation of veterans in the labor market, including within groups that the Secretary may designate for priority under such programs, if any.”
 
  __Department of Labor Implementation of Regulations for Priority of Service__ 
 
-[Pub. L. 109–461, title VI, § 605][/us/pl/109/461/s605], Dec. 22, 2006, [120 Stat. 3439][/us/stat/120/3439], provided that: 
+[Pub. L. 109–461, title VI][/us/pl/109/461/tVI], § 605, Dec. 22, 2006, [120 Stat. 3439][/us/stat/120/3439], provided that: 
 
 > “Not later than two years after the date of the enactment of this Act \[Dec. 22, 2006\], the Secretary of Labor shall prescribe regulations to implement [section 4215 of title 38][/us/usc/t38/s4215], United States Code.”
 
  __Requirement To Promptly Establish One-Stop Employment Services__ 
 
-[Pub. L. 107–288, § 4(c)][/us/pl/107/288/s4/c], Nov. 7, 2002, [116 Stat. 2044][/us/stat/116/2044], provided that: 
+[Pub. L. 107–288][/us/pl/107/288], § 4(c), Nov. 7, 2002, [116 Stat. 2044][/us/stat/116/2044], provided that: 
 
 > “By not later than 18 months after the date of the enactment of this Act \[Nov. 7, 2002\], the Secretary of Labor shall provide one-stop services and assistance to covered persons electronically by means of the Internet, as defined in section 231(e)(3) of the Communications Act of 1934 \[[47 U.S.C. 231(e)(3)][/us/usc/t47/s231/e/3]\], and such other electronic means to enhance the delivery of such services and assistance.”
 
@@ -110,21 +110,21 @@
 
 [/us/usc/t37/s556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs556
 [/us/usc/t38/s4107/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs4107%2Fc
-[/us/pl/107/288/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F288%2Fs2%2Fa%2F1
+[/us/pl/107/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F288
 [/us/stat/116/2033]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2033
-[/us/pl/112/56/s239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F56%2Fs239
+[/us/pl/112/56/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F56%2FtII
 [/us/stat/125/727]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F727
 [/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
 [/us/stat/112/936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F936
-[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2FtV
 [/us/stat/128/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1703
-[/us/pl/112/56/s239/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F56%2Fs239%2F1
-[/us/pl/112/56/s239/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F56%2Fs239%2F2
+[/us/pl/112/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F56
+[/us/pl/112/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F56
 [/us/usc/t38/s4107/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs4107%2Fc
-[/us/pl/109/461/s605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461%2Fs605
+[/us/pl/109/461/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461%2FtVI
 [/us/stat/120/3439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3439
 [/us/usc/t38/s4215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs4215
-[/us/pl/107/288/s4/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F288%2Fs4%2Fc
+[/us/pl/107/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F288
 [/us/stat/116/2044]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2044
 [/us/usc/t47/s231/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs231%2Fe%2F3
 

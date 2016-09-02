@@ -61,7 +61,7 @@
 
     (e) The Secretary shall require that the mortgagee make available to the mortgagor, at the time of loan application, a written explanation of the features of the adjustable rate mortgage, including a hypothetical payment schedule that displays the maximum potential increases in monthly payments to the mortgagor over the first five years of the mortgage term.
 
-(Added [Pub. L. 107–330, title III, § 303(a)][/us/pl/107/330/s303/a], Dec. 6, 2002, [116 Stat. 2825][/us/stat/116/2825]; amended [Pub. L. 108–454, title IV, § 405(a)][/us/pl/108/454/s405/a], (b), Dec. 10, 2004, [118 Stat. 3616][/us/stat/118/3616]; [Pub. L. 109–233, title I, § 102][/us/pl/109/233/s102], June 15, 2006, [120 Stat. 399][/us/stat/120/399]; [Pub. L. 110–389, title V, § 505(b)][/us/pl/110/389/s505/b], Oct. 10, 2008, [122 Stat. 4176][/us/stat/122/4176]; [Pub. L. 112–154, title II, § 209][/us/pl/112/154/s209], Aug. 6, 2012, [126 Stat. 1179][/us/stat/126/1179].)
+(Added [Pub. L. 107–330, title III][/us/pl/107/330/tIII], § 303(a), Dec. 6, 2002, [116 Stat. 2825][/us/stat/116/2825]; amended [Pub. L. 108–454, title IV][/us/pl/108/454/tIV], § 405(a), (b), Dec. 10, 2004, [118 Stat. 3616][/us/stat/118/3616]; [Pub. L. 109–233, title I][/us/pl/109/233/tI], § 102, June 15, 2006, [120 Stat. 399][/us/stat/120/399]; [Pub. L. 110–389, title V][/us/pl/110/389/tV], § 505(b), Oct. 10, 2008, [122 Stat. 4176][/us/stat/122/4176]; [Pub. L. 112–154, title II][/us/pl/112/154/tII], § 209, Aug. 6, 2012, [126 Stat. 1179][/us/stat/126/1179].)
 
  __References in Text__ 
 
@@ -75,17 +75,17 @@
 
     2006—Subsec. (c)(4). [Pub. L. 109–233][/us/pl/109/233] substituted “such percentage points as the Secretary may prescribe” for “1 percentage point”.
 
-    2004—Subsec. (a). [Pub. L. 108–454, § 405(a)][/us/pl/108/454/s405/a], substituted “during fiscal years 2004 through 2008” for “during fiscal years 2004 and 2005”.
+    2004—Subsec. (a). [Pub. L. 108–454][/us/pl/108/454], § 405(a), substituted “during fiscal years 2004 through 2008” for “during fiscal years 2004 and 2005”.
 
-    Subsec. (c)(3). [Pub. L. 108–454, § 405(b)(2)][/us/pl/108/454/s405/b/2], added par. (3) and struck out former par. (3) which read as follows: “be limited, with respect to any single annual interest rate adjustment, to a maximum increase or decrease of 1 percentage point; and”.
+    Subsec. (c)(3). [Pub. L. 108–454][/us/pl/108/454], § 405(b)(2), added par. (3) and struck out former par. (3) which read as follows: “be limited, with respect to any single annual interest rate adjustment, to a maximum increase or decrease of 1 percentage point; and”.
 
-    Subsec. (c)(4). [Pub. L. 108–454, § 405(b)(2)][/us/pl/108/454/s405/b/2], added par. (4). Former par. (4) redesignated (5).
+    Subsec. (c)(4). [Pub. L. 108–454][/us/pl/108/454], § 405(b)(2), added par. (4). Former par. (4) redesignated (5).
 
-    Subsec. (c)(5). [Pub. L. 108–454, § 405(b)(1)][/us/pl/108/454/s405/b/1], (3), redesignated par. (4) as (5) and substituted “such number of percentage points as the Secretary shall prescribe for purposes of this section” for “5 percentage points above the initial contract interest rate”.
+    Subsec. (c)(5). [Pub. L. 108–454][/us/pl/108/454], § 405(b)(1), (3), redesignated par. (4) as (5) and substituted “such number of percentage points as the Secretary shall prescribe for purposes of this section” for “5 percentage points above the initial contract interest rate”.
 
  __No Effect on Guarantee of Loans Under Hybrid Adjustable Rate Mortgage Guarantee Demonstration Project__ 
 
-[Pub. L. 108–454, title IV, § 405(c)][/us/pl/108/454/s405/c], Dec. 10, 2004, [118 Stat. 3616][/us/stat/118/3616], provided that: 
+[Pub. L. 108–454, title IV][/us/pl/108/454/tIV], § 405(c), Dec. 10, 2004, [118 Stat. 3616][/us/stat/118/3616], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall not be construed to affect the force or validity of any guarantee of a loan made by the Secretary of Veterans Affairs under the demonstration project for the guarantee of hybrid adjustable rate mortgages under [section 3707A of title 38][/us/usc/t38/s3707A], United States Code, as in effect on the day before the date of the enactment of this Act \[Dec. 10, 2004\].”
 
@@ -96,15 +96,15 @@
 ----------
 ----------
 
-[/us/pl/107/330/s303/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F330%2Fs303%2Fa
+[/us/pl/107/330/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F330%2FtIII
 [/us/stat/116/2825]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2825
-[/us/pl/108/454/s405/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F454%2Fs405%2Fa
+[/us/pl/108/454/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F454%2FtIV
 [/us/stat/118/3616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3616
-[/us/pl/109/233/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F233%2Fs102
+[/us/pl/109/233/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F233%2FtI
 [/us/stat/120/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F399
-[/us/pl/110/389/s505/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F389%2Fs505%2Fb
+[/us/pl/110/389/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F389%2FtV
 [/us/stat/122/4176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4176
-[/us/pl/112/154/s209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154%2Fs209
+[/us/pl/112/154/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154%2FtII
 [/us/stat/126/1179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1179
 [/us/act/1934-06-27/ch847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-27%2Fch847
 [/us/stat/48/1246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1246
@@ -113,11 +113,11 @@
 [/us/pl/112/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154
 [/us/pl/110/389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F389
 [/us/pl/109/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F233
-[/us/pl/108/454/s405/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F454%2Fs405%2Fa
-[/us/pl/108/454/s405/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F454%2Fs405%2Fb%2F2
-[/us/pl/108/454/s405/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F454%2Fs405%2Fb%2F2
-[/us/pl/108/454/s405/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F454%2Fs405%2Fb%2F1
-[/us/pl/108/454/s405/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F454%2Fs405%2Fc
+[/us/pl/108/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F454
+[/us/pl/108/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F454
+[/us/pl/108/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F454
+[/us/pl/108/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F454
+[/us/pl/108/454/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F454%2FtIV
 [/us/stat/118/3616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3616
 [/us/usc/t38/s3707A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3707A
 

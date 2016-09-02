@@ -19,7 +19,7 @@
 
     (b) For purposes of this section, the term “social security increase” means the percentage by which benefit amounts payable under title II of the Social Security Act ([42 U.S.C. 401][/us/usc/t42/s401] et seq.) are increased for any fiscal year as a result of a determination under section 215(i) of such Act ([42 U.S.C. 415(i)][/us/usc/t42/s415/i]).
 
-(Added [Pub. L. 105–33, title VIII, § 8031(b)(1)][/us/pl/105/33/s8031/b/1], Aug. 5, 1997, [111 Stat. 668][/us/stat/111/668]; amended [Pub. L. 107–103, title II, § 205][/us/pl/107/103/s205], Dec. 27, 2001, [115 Stat. 990][/us/stat/115/990]; [Pub. L. 108–183, title VII, § 706][/us/pl/108/183/s706], Dec. 16, 2003, [117 Stat. 2672][/us/stat/117/2672].)
+(Added [Pub. L. 105–33, title VIII][/us/pl/105/33/tVIII], § 8031(b)(1), Aug. 5, 1997, [111 Stat. 668][/us/stat/111/668]; amended [Pub. L. 107–103, title II][/us/pl/107/103/tII], § 205, Dec. 27, 2001, [115 Stat. 990][/us/stat/115/990]; [Pub. L. 108–183, title VII][/us/pl/108/183/tVII], § 706, Dec. 16, 2003, [117 Stat. 2672][/us/stat/117/2672].)
 
  __References in Text__ 
 
@@ -40,11 +40,11 @@
 
 [/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
 [/us/usc/t42/s415/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs415%2Fi
-[/us/pl/105/33/s8031/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs8031%2Fb%2F1
+[/us/pl/105/33/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2FtVIII
 [/us/stat/111/668]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F668
-[/us/pl/107/103/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F103%2Fs205
+[/us/pl/107/103/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F103%2FtII
 [/us/stat/115/990]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F990
-[/us/pl/108/183/s706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F183%2Fs706
+[/us/pl/108/183/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F183%2FtVII
 [/us/stat/117/2672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2672
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620

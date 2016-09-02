@@ -53,21 +53,21 @@
 
         may receive such assistance for enrollment in an approved program of education while continuing to perform the service described in [section 3018(b)(2) of this title][/us/usc/t38/s3018/b/2].
 
-(Added [Pub. L. 98–525, title VII, § 702(a)(1)][/us/pl/98/525/s702/a/1], Oct. 19, 1984, [98 Stat. 2558][/us/stat/98/2558], § 1416; amended [Pub. L. 99–576, title III, § 321(4)][/us/pl/99/576/s321/4], Oct. 28, 1986, [100 Stat. 3278][/us/stat/100/3278]; [Pub. L. 100–689, title I, § 103(b)(4)][/us/pl/100/689/s103/b/4], Nov. 18, 1988, [102 Stat. 4165][/us/stat/102/4165]; renumbered § 3016 and amended [Pub. L. 102–83, § 5(a)][/us/pl/102/83/s5/a], (c)(1), Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406].)
+(Added [Pub. L. 98–525, title VII][/us/pl/98/525/tVII], § 702(a)(1), Oct. 19, 1984, [98 Stat. 2558][/us/stat/98/2558], § 1416; amended [Pub. L. 99–576, title III][/us/pl/99/576/tIII], § 321(4), Oct. 28, 1986, [100 Stat. 3278][/us/stat/100/3278]; [Pub. L. 100–689, title I][/us/pl/100/689/tI], § 103(b)(4), Nov. 18, 1988, [102 Stat. 4165][/us/stat/102/4165]; renumbered § 3016 and amended [Pub. L. 102–83][/us/pl/102/83], § 5(a), (c)(1), Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406].)
 
  __References in Text__ 
 
-    Section 3011(a)(1)(A)(i), referred to in subsec. (a), was amended generally by [Pub. L. 106–419, title I, § 103(a)(1)(A)][/us/pl/106/419/s103/a/1/A], Nov. 1, 2000, [114 Stat. 1825][/us/stat/114/1825], and, as so amended, does not contain a subcl. (I).
+    Section 3011(a)(1)(A)(i), referred to in subsec. (a), was amended generally by [Pub. L. 106–419, title I][/us/pl/106/419/tI], § 103(a)(1)(A), Nov. 1, 2000, [114 Stat. 1825][/us/stat/114/1825], and, as so amended, does not contain a subcl. (I).
 
  __Amendments__ 
 
-    1991—[Pub. L. 102–83, § 5(a)][/us/pl/102/83/s5/a], renumbered [section 1416 of this title][/us/usc/t38/s1416] as this section.
+    1991—[Pub. L. 102–83][/us/pl/102/83], § 5(a), renumbered [section 1416 of this title][/us/usc/t38/s1416] as this section.
 
-    Subsec. (a). [Pub. L. 102–83, § 5(c)(1)][/us/pl/102/83/s5/c/1], substituted “3011(c)(1)” for “1411(c)(1)”, “3012(d)(1)” for “1412(d)(1)”, “3012(b)(2)” for “1412(b)(2)”, and “3011(a)(1)(A)(i)(I) or 3012(a)(1)(A)(ii)” for “1411(a)(1)(A)(i)(I) or 1412(a)(1)(A)(ii)” in two places.
+    Subsec. (a). [Pub. L. 102–83][/us/pl/102/83], § 5(c)(1), substituted “3011(c)(1)” for “1411(c)(1)”, “3012(d)(1)” for “1412(d)(1)”, “3012(b)(2)” for “1412(b)(2)”, and “3011(a)(1)(A)(i)(I) or 3012(a)(1)(A)(ii)” for “1411(a)(1)(A)(i)(I) or 1412(a)(1)(A)(ii)” in two places.
 
-    Subsec. (b). [Pub. L. 102–83, § 5(c)(1)][/us/pl/102/83/s5/c/1], substituted “3012(a)(1)(B)(i)” for “1412(a)(1)(B)(i)” and “3012(a)(1)(B)(ii)” for “1412(a)(1)(B)(ii)” in two places.
+    Subsec. (b). [Pub. L. 102–83][/us/pl/102/83], § 5(c)(1), substituted “3012(a)(1)(B)(i)” for “1412(a)(1)(B)(i)” and “3012(a)(1)(B)(ii)” for “1412(a)(1)(B)(ii)” in two places.
 
-    Subsec. (c). [Pub. L. 102–83, § 5(c)(1)][/us/pl/102/83/s5/c/1], substituted “3018(b)(3)(A)” for “1418(b)(3)(A)” and “3018(b)(2)” for “1418(b)(2)”.
+    Subsec. (c). [Pub. L. 102–83][/us/pl/102/83], § 5(c)(1), substituted “3018(b)(3)(A)” for “1418(b)(3)(A)” and “3018(b)(2)” for “1418(b)(2)”.
 
     1988—Subsec. (c). [Pub. L. 100–689][/us/pl/100/689] added subsec. (c).
 
@@ -85,21 +85,21 @@
 [/us/usc/t38/s3012/a/1/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3012%2Fa%2F1%2FB%2Fii
 [/us/usc/t38/s3018/b/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3018%2Fb%2F3%2FA
 [/us/usc/t38/s3018/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3018%2Fb%2F2
-[/us/pl/98/525/s702/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs702%2Fa%2F1
+[/us/pl/98/525/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2FtVII
 [/us/stat/98/2558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2558
-[/us/pl/99/576/s321/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2Fs321%2F4
+[/us/pl/99/576/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2FtIII
 [/us/stat/100/3278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3278
-[/us/pl/100/689/s103/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F689%2Fs103%2Fb%2F4
+[/us/pl/100/689/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F689%2FtI
 [/us/stat/102/4165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4165
-[/us/pl/102/83/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fa
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F406
-[/us/pl/106/419/s103/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419%2Fs103%2Fa%2F1%2FA
+[/us/pl/106/419/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419%2FtI
 [/us/stat/114/1825]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1825
-[/us/pl/102/83/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fa
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/usc/t38/s1416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1416
-[/us/pl/102/83/s5/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fc%2F1
-[/us/pl/102/83/s5/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fc%2F1
-[/us/pl/102/83/s5/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fc%2F1
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/pl/100/689]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F689
 [/us/pl/99/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576
 [/us/usc/t38/s1412/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1412%2Fb%2F2

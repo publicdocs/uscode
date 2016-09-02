@@ -17,7 +17,7 @@
 
     If the Secretary receives any property other than moneys as contemplated by this chapter, the Secretary is authorized in the Secretary’s discretion to sell, assign, transfer, and convey the same, or any interest therein claimed by virtue of such devise, bequest, or gift, for such price and upon such terms as the Secretary deems advantageous (including consent to partition of realty and compromise of contested claim of title) and the Secretary’s assignment, deed, or other conveyance of any such property, executed in the name and on behalf of the United States, shall be valid to pass to the purchaser thereof such title to said property as the United States, beneficially or as trustee of the General Post Fund, may have by virtue of any such devise, bequest, or gift, and the proceedings incident thereto, subject to the conditions, limitations, and provisions of the instruments so executed by the Secretary.
 
-([Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1255][/us/stat/72/1255], § 5104; [Pub. L. 99–576, title VII, § 701(92)][/us/pl/99/576/s701/92], Oct. 28, 1986, [100 Stat. 3299][/us/stat/100/3299]; renumbered § 8304, [Pub. L. 102–40, title IV, § 402(b)(1)][/us/pl/102/40/s402/b/1], May 7, 1991, [105 Stat. 238][/us/stat/105/238]; [Pub. L. 102–83, § 4(b)(1)][/us/pl/102/83/s4/b/1], (2)(E), Aug. 6, 1991, [105 Stat. 404][/us/stat/105/404], 405.)
+([Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1255][/us/stat/72/1255], § 5104; [Pub. L. 99–576, title VII][/us/pl/99/576/tVII], § 701(92), Oct. 28, 1986, [100 Stat. 3299][/us/stat/100/3299]; renumbered § 8304, [Pub. L. 102–40, title IV][/us/pl/102/40/tIV], § 402(b)(1), May 7, 1991, [105 Stat. 238][/us/stat/105/238]; [Pub. L. 102–83][/us/pl/102/83], § 4(b)(1), (2)(E), Aug. 6, 1991, [105 Stat. 404][/us/stat/105/404], 405.)
 
  __Amendments__ 
 
@@ -36,11 +36,11 @@
 
 [/us/pl/85/857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F857
 [/us/stat/72/1255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1255
-[/us/pl/99/576/s701/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2Fs701%2F92
+[/us/pl/99/576/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2FtVII
 [/us/stat/100/3299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3299
-[/us/pl/102/40/s402/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs402%2Fb%2F1
+[/us/pl/102/40/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2FtIV
 [/us/stat/105/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F238
-[/us/pl/102/83/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fb%2F1
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F404
 [/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40
 [/us/usc/t38/s5104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs5104

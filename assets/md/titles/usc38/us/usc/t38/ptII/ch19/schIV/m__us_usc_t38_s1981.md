@@ -19,11 +19,11 @@
 
     (b) Any person who had United States Government life insurance or National Service Life Insurance on the five-year level premium term plan, the term of which expired while such person was in the active service after April 25, 1951, or within one hundred and twenty days after separation from such active service, and in either case before January 1, 1957, who was entitled on December 31, 1958, to replace such insurance under section 623 of the National Service Life Insurance Act of 1940, shall, upon application made while on continuous active duty which began before January 1, 1959, or within one hundred and twenty days after separation therefrom, payment of premiums and evidence of good health satisfactory to the Secretary, be granted an equivalent amount of insurance on the five-year level premium term plan at the premium rate for such person’s then attained age.
 
-([Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1164][/us/stat/72/1164], § 781; [Pub. L. 99–576, title VII, § 701(44)][/us/pl/99/576/s701/44], Oct. 28, 1986, [100 Stat. 3294][/us/stat/100/3294]; renumbered § 1981 and amended [Pub. L. 102–83][/us/pl/102/83], §§ 4(b)(1), (2)(E), 5(a), Aug. 6, 1991, [105 Stat. 404–406][/us/stat/105/404-406].)
+([Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1164][/us/stat/72/1164], § 781; [Pub. L. 99–576, title VII][/us/pl/99/576/tVII], § 701(44), Oct. 28, 1986, [100 Stat. 3294][/us/stat/100/3294]; renumbered § 1981 and amended [Pub. L. 102–83][/us/pl/102/83], §§ 4(b)(1), (2)(E), 5(a), Aug. 6, 1991, [105 Stat. 404–406][/us/stat/105/404-406].)
 
  __References in Text__ 
 
-    Section 623 of the National Service Life Insurance Act of 1940, referred to in subsecs. (a) and (b), is section 623 of [act Oct. 8, 1940, ch. 757][/us/act/1940-10-08/ch757], title VI, pt. I, as added [Aug. 1, 1956, ch. 837][/us/act/1956-08-01/ch837], title V, § 501(a)(4), [70 Stat. 880][/us/stat/70/880], which enacted section 824 of former Title 38, Pensions, Bonuses, and Veterans’ Relief, and which was repealed and the provisions thereof reenacted as this section by [Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1105][/us/stat/72/1105].
+    Section 623 of the National Service Life Insurance Act of 1940, referred to in subsecs. (a) and (b), is section 623 of [act Oct. 8, 1940, ch. 757, title VI][/us/act/1940-10-08/ch757/tVI], pt. I, as added [Aug. 1, 1956, ch. 837][/us/act/1956-08-01/ch837], title V, § 501(a)(4), [70 Stat. 880][/us/stat/70/880], which enacted section 824 of former Title 38, Pensions, Bonuses, and Veterans’ Relief, and which was repealed and the provisions thereof reenacted as this section by [Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1105][/us/stat/72/1105].
 
  __Amendments__ 
 
@@ -40,11 +40,11 @@
 
 [/us/pl/85/857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F857
 [/us/stat/72/1164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1164
-[/us/pl/99/576/s701/44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2Fs701%2F44
+[/us/pl/99/576/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2FtVII
 [/us/stat/100/3294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3294
 [/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/404-406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F404-406
-[/us/act/1940-10-08/ch757]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-08%2Fch757
+[/us/act/1940-10-08/ch757/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-08%2Fch757%2FtVI
 [/us/act/1956-08-01/ch837]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-01%2Fch837
 [/us/stat/70/880]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F880
 [/us/pl/85/857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F857

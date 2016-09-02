@@ -29,11 +29,11 @@
 
         (2) This subsection shall not apply to any application or claim for Government life insurance benefits.
 
-(Added [Pub. L. 106–475, § 3(a)][/us/pl/106/475/s3/a], Nov. 9, 2000, [114 Stat. 2096][/us/stat/114/2096]; amended [Pub. L. 108–183, title VII, § 701(a)][/us/pl/108/183/s701/a], Dec. 16, 2003, [117 Stat. 2670][/us/stat/117/2670].)
+(Added [Pub. L. 106–475][/us/pl/106/475], § 3(a), Nov. 9, 2000, [114 Stat. 2096][/us/stat/114/2096]; amended [Pub. L. 108–183, title VII][/us/pl/108/183/tVII], § 701(a), Dec. 16, 2003, [117 Stat. 2670][/us/stat/117/2670].)
 
  __Prior Provisions__ 
 
-    A prior section 5102, [Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1225][/us/stat/72/1225], § 3002; renumbered § 5102, [Pub. L. 102–40, title IV, § 402(b)(1)][/us/pl/102/40/s402/b/1], May 7, 1991, [105 Stat. 238][/us/stat/105/238]; [Pub. L. 102–83, § 4(a)(1)][/us/pl/102/83/s4/a/1], (b)(1), (2)(E), Aug. 6, 1991, [105 Stat. 403–405][/us/stat/105/403-405], related to application forms, prior to repeal by [Pub. L. 106–475, § 3(a)][/us/pl/106/475/s3/a], Nov. 9, 2000, [114 Stat. 2096][/us/stat/114/2096].
+    A prior section 5102, [Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1225][/us/stat/72/1225], § 3002; renumbered § 5102, [Pub. L. 102–40, title IV][/us/pl/102/40/tIV], § 402(b)(1), May 7, 1991, [105 Stat. 238][/us/stat/105/238]; [Pub. L. 102–83][/us/pl/102/83], § 4(a)(1), (b)(1), (2)(E), Aug. 6, 1991, [105 Stat. 403–405][/us/stat/105/403-405], related to application forms, prior to repeal by [Pub. L. 106–475][/us/pl/106/475], § 3(a), Nov. 9, 2000, [114 Stat. 2096][/us/stat/114/2096].
 
     Another prior section 5102 was renumbered [section 8302 of this title][/us/usc/t38/s8302].
 
@@ -43,7 +43,7 @@
 
  __Effective Date of 2003 Amendment__ 
 
-[Pub. L. 108–183, title VII, § 701(c)][/us/pl/108/183/s701/c], Dec. 16, 2003, [117 Stat. 2670][/us/stat/117/2670], provided that: 
+[Pub. L. 108–183, title VII][/us/pl/108/183/tVII], § 701(c), Dec. 16, 2003, [117 Stat. 2670][/us/stat/117/2670], provided that: 
 
 > “The amendments made by this section \[amending this section and [section 5103 of this title][/us/usc/t38/s5103]\] shall take effect as if enacted on November 9, 2000, immediately after the enactment of the Veterans Claims Assistance Act of 2000 ([Public Law 106–475][/us/pl/106/475]; [114 Stat. 2096][/us/stat/114/2096]).”
 
@@ -54,21 +54,21 @@
 ----------
 ----------
 
-[/us/pl/106/475/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F475%2Fs3%2Fa
+[/us/pl/106/475]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F475
 [/us/stat/114/2096]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2096
-[/us/pl/108/183/s701/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F183%2Fs701%2Fa
+[/us/pl/108/183/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F183%2FtVII
 [/us/stat/117/2670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2670
 [/us/pl/85/857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F857
 [/us/stat/72/1225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1225
-[/us/pl/102/40/s402/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs402%2Fb%2F1
+[/us/pl/102/40/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2FtIV
 [/us/stat/105/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F238
-[/us/pl/102/83/s4/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fa%2F1
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/403-405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F403-405
-[/us/pl/106/475/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F475%2Fs3%2Fa
+[/us/pl/106/475]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F475
 [/us/stat/114/2096]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2096
 [/us/usc/t38/s8302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs8302
 [/us/pl/108/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F183
-[/us/pl/108/183/s701/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F183%2Fs701%2Fc
+[/us/pl/108/183/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F183%2FtVII
 [/us/stat/117/2670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2670
 [/us/usc/t38/s5103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs5103
 [/us/pl/106/475]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F475

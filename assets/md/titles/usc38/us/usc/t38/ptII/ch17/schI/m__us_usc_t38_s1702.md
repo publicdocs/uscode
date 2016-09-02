@@ -27,13 +27,13 @@
 
         (2) before the end of the two-year period beginning on the last day of the Persian Gulf War.
 
-([Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1141][/us/stat/72/1141], § 602; [Pub. L. 90–77, title II, § 203(a)][/us/pl/90/77/s203/a], Aug. 31, 1967, [81 Stat. 183][/us/stat/81/183]; [Pub. L. 97–295, § 4(16)][/us/pl/97/295/s4/16], Oct. 12, 1982, [96 Stat. 1306][/us/stat/96/1306]; [Pub. L. 99–576, title VII, § 701(20)][/us/pl/99/576/s701/20], Oct. 28, 1986, [100 Stat. 3292][/us/stat/100/3292]; [Pub. L. 102–25, title III, § 334(b)][/us/pl/102/25/s334/b], Apr. 6, 1991, [105 Stat. 88][/us/stat/105/88]; renumbered § 1702, [Pub. L. 102–83, § 5(a)][/us/pl/102/83/s5/a], Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406]; [Pub. L. 110–181, div. A, title XVII, § 1708(a)(1)][/us/pl/110/181/s1708/a/1], (2), Jan. 28, 2008, [122 Stat. 493][/us/stat/122/493], 494.)
+([Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1141][/us/stat/72/1141], § 602; [Pub. L. 90–77, title II][/us/pl/90/77/tII], § 203(a), Aug. 31, 1967, [81 Stat. 183][/us/stat/81/183]; [Pub. L. 97–295][/us/pl/97/295], § 4(16), Oct. 12, 1982, [96 Stat. 1306][/us/stat/96/1306]; [Pub. L. 99–576, title VII][/us/pl/99/576/tVII], § 701(20), Oct. 28, 1986, [100 Stat. 3292][/us/stat/100/3292]; [Pub. L. 102–25, title III][/us/pl/102/25/tIII], § 334(b), Apr. 6, 1991, [105 Stat. 88][/us/stat/105/88]; renumbered § 1702, [Pub. L. 102–83][/us/pl/102/83], § 5(a), Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406]; [Pub. L. 110–181, div. A, title XVII][/us/pl/110/181/dA/tXVII], § 1708(a)(1), (2), Jan. 28, 2008, [122 Stat. 493][/us/stat/122/493], 494.)
 
  __Amendments__ 
 
-    2008—[Pub. L. 110–181, § 1708(a)(2)][/us/pl/110/181/s1708/a/2], substituted “Presumptions: psychosis after service in World War II and following periods of war; mental illness after service in the Persian Gulf War” for “Presumption relating to psychosis” in section catchline.
+    2008—[Pub. L. 110–181][/us/pl/110/181], § 1708(a)(2), substituted “Presumptions: psychosis after service in World War II and following periods of war; mental illness after service in the Persian Gulf War” for “Presumption relating to psychosis” in section catchline.
 
-    Subsecs. (a), (b). [Pub. L. 110–181, § 1708(a)(1)][/us/pl/110/181/s1708/a/1], designated existing text as subsec. (a), inserted heading, and added subsec. (b).
+    Subsecs. (a), (b). [Pub. L. 110–181][/us/pl/110/181], § 1708(a)(1), designated existing text as subsec. (a), inserted heading, and added subsec. (b).
 
     1991—[Pub. L. 102–83][/us/pl/102/83] renumbered [section 602 of this title][/us/usc/t38/s602] as this section.
 
@@ -58,20 +58,20 @@
 
 [/us/pl/85/857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F857
 [/us/stat/72/1141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1141
-[/us/pl/90/77/s203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F77%2Fs203%2Fa
+[/us/pl/90/77/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F77%2FtII
 [/us/stat/81/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F183
-[/us/pl/97/295/s4/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295%2Fs4%2F16
+[/us/pl/97/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295
 [/us/stat/96/1306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1306
-[/us/pl/99/576/s701/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2Fs701%2F20
+[/us/pl/99/576/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2FtVII
 [/us/stat/100/3292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3292
-[/us/pl/102/25/s334/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25%2Fs334%2Fb
+[/us/pl/102/25/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25%2FtIII
 [/us/stat/105/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F88
-[/us/pl/102/83/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fa
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F406
-[/us/pl/110/181/s1708/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1708%2Fa%2F1
+[/us/pl/110/181/dA/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtXVII
 [/us/stat/122/493]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F493
-[/us/pl/110/181/s1708/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1708%2Fa%2F2
-[/us/pl/110/181/s1708/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1708%2Fa%2F1
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
 [/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/usc/t38/s602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs602
 [/us/pl/102/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25

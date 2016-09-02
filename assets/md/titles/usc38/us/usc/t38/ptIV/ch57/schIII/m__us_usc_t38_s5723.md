@@ -151,7 +151,7 @@
 
         (3) Conducting investigations of complaints and referrals of violations as considered appropriate by the Inspector General.
 
-(Added [Pub. L. 109–461, title IX, § 902(a)][/us/pl/109/461/s902/a], Dec. 22, 2006, [120 Stat. 3451][/us/stat/120/3451]; amended [Pub. L. 111–275, title X, § 1001(m)(1)][/us/pl/111/275/s1001/m/1], Oct. 13, 2010, [124 Stat. 2897][/us/stat/124/2897].)
+(Added [Pub. L. 109–461, title IX][/us/pl/109/461/tIX], § 902(a), Dec. 22, 2006, [120 Stat. 3451][/us/stat/120/3451]; amended [Pub. L. 111–275, title X][/us/pl/111/275/tX], § 1001(m)(1), Oct. 13, 2010, [124 Stat. 2897][/us/stat/124/2897].)
 
  __Amendments__ 
 
@@ -165,9 +165,9 @@
 ----------
 
 [/us/usc/t31/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105
-[/us/pl/109/461/s902/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461%2Fs902%2Fa
+[/us/pl/109/461/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461%2FtIX
 [/us/stat/120/3451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3451
-[/us/pl/111/275/s1001/m/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275%2Fs1001%2Fm%2F1
+[/us/pl/111/275/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275%2FtX
 [/us/stat/124/2897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2897
 [/us/pl/111/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275
 

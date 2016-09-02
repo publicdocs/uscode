@@ -213,21 +213,21 @@
 
             (C) the manner and effect of an election to modify or revoke a transfer of entitlement under subsection (f)(2).
 
-(Added [Pub. L. 110–252, title V, § 5003(a)(1)][/us/pl/110/252/s5003/a/1], June 30, 2008, [122 Stat. 2369][/us/stat/122/2369]; amended [Pub. L. 111–275, title X, § 1001(g)(7)][/us/pl/111/275/s1001/g/7], Oct. 13, 2010, [124 Stat. 2896][/us/stat/124/2896]; [Pub. L. 111–377, title I][/us/pl/111/377], §§ 110(a), (b), 112(b), title II, § 201(b), Jan. 4, 2011, [124 Stat. 4120][/us/stat/124/4120], 4122, 4123; [Pub. L. 114–58, title VI, § 601(19)][/us/pl/114/58/s601/19], Sept. 30, 2015, [129 Stat. 539][/us/stat/129/539].)
+(Added [Pub. L. 110–252, title V][/us/pl/110/252/tV], § 5003(a)(1), June 30, 2008, [122 Stat. 2369][/us/stat/122/2369]; amended [Pub. L. 111–275, title X][/us/pl/111/275/tX], § 1001(g)(7), Oct. 13, 2010, [124 Stat. 2896][/us/stat/124/2896]; [Pub. L. 111–377, title I][/us/pl/111/377/tI], §§ 110(a), (b), 112(b), title II, § 201(b), Jan. 4, 2011, [124 Stat. 4120][/us/stat/124/4120], 4122, 4123; [Pub. L. 114–58, title VI][/us/pl/114/58/tVI], § 601(19), Sept. 30, 2015, [129 Stat. 539][/us/stat/129/539].)
 
  __Amendments__ 
 
     2015—[Pub. L. 114–58][/us/pl/114/58] substituted “Armed Forces” for “armed forces” in subsecs. (b)(1), (f)(1), and (g)(1)(A), (2)(A)(i).
 
-    2011—Subsec. (a). [Pub. L. 111–377, § 110(b)][/us/pl/111/377/s110/b], designated existing provisions as par. (1), substituted “Subject to the provisions of this section, the Secretary concerned may permit” for “Subject to the provisions of this section, the Secretary of Defense may authorize the Secretary concerned, to promote recruitment and retention of members of the Armed Forces, to permit”, and added par. (2).
+    2011—Subsec. (a). [Pub. L. 111–377][/us/pl/111/377], § 110(b), designated existing provisions as par. (1), substituted “Subject to the provisions of this section, the Secretary concerned may permit” for “Subject to the provisions of this section, the Secretary of Defense may authorize the Secretary concerned, to promote recruitment and retention of members of the Armed Forces, to permit”, and added par. (2).
 
-    Subsec. (b). [Pub. L. 111–377, § 110(a)(1)][/us/pl/111/377/s110/a/1], substituted “uniformed services” for “Armed Forces” in introductory provisions and par. (1).
+    Subsec. (b). [Pub. L. 111–377][/us/pl/111/377], § 110(a)(1), substituted “uniformed services” for “Armed Forces” in introductory provisions and par. (1).
 
-    Subsec. (b)(2). [Pub. L. 111–377, § 112(b)][/us/pl/111/377/s112/b], which directed substitution of “to subsection (j)” for “to section (k)”, could not be executed because of prior amendment by [Pub. L. 111–275][/us/pl/111/275]. See 2010 Amendment note below.
+    Subsec. (b)(2). [Pub. L. 111–377][/us/pl/111/377], § 112(b), which directed substitution of “to subsection (j)” for “to section (k)”, could not be executed because of prior amendment by [Pub. L. 111–275][/us/pl/111/275]. See 2010 Amendment note below.
 
-    Subsec. (h)(5). [Pub. L. 111–377, § 201(b)][/us/pl/111/377/s201/b], amended par. (5) generally. Prior to amendment, text read as follows: “A child to whom entitlement is transferred under this section may use the benefit without regard to the 15-year delimiting date, but may not use any entitlement so transferred after attaining the age of 26 years.”
+    Subsec. (h)(5). [Pub. L. 111–377][/us/pl/111/377], § 201(b), amended par. (5) generally. Prior to amendment, text read as follows: “A child to whom entitlement is transferred under this section may use the benefit without regard to the 15-year delimiting date, but may not use any entitlement so transferred after attaining the age of 26 years.”
 
-    Subsec. (k). [Pub. L. 111–377, § 110(a)(2)][/us/pl/111/377/s110/a/2], struck out subsec. (k). Text read as follows: “Notwithstanding section 101(25), in this section, the term ‘Secretary concerned’ means—
+    Subsec. (k). [Pub. L. 111–377][/us/pl/111/377], § 110(a)(2), struck out subsec. (k). Text read as follows: “Notwithstanding section 101(25), in this section, the term ‘Secretary concerned’ means—
 
     “(1) the Secretary of the Army with respect to matters concerning the Army;
 
@@ -241,7 +241,7 @@
 
  __Effective Date of 2011 Amendment__ 
 
-[Pub. L. 111–377, title I, § 110(c)][/us/pl/111/377/s110/c], Jan. 4, 2011, [124 Stat. 4120][/us/stat/124/4120], provided that: 
+[Pub. L. 111–377, title I][/us/pl/111/377/tI], § 110(c), Jan. 4, 2011, [124 Stat. 4120][/us/stat/124/4120], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall take effect on August 1, 2011.”
 
@@ -254,23 +254,23 @@
 ----------
 ----------
 
-[/us/pl/110/252/s5003/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F252%2Fs5003%2Fa%2F1
+[/us/pl/110/252/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F252%2FtV
 [/us/stat/122/2369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2369
-[/us/pl/111/275/s1001/g/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275%2Fs1001%2Fg%2F7
+[/us/pl/111/275/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275%2FtX
 [/us/stat/124/2896]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2896
-[/us/pl/111/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F377
+[/us/pl/111/377/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F377%2FtI
 [/us/stat/124/4120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4120
-[/us/pl/114/58/s601/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F58%2Fs601%2F19
+[/us/pl/114/58/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F58%2FtVI
 [/us/stat/129/539]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F539
 [/us/pl/114/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F58
-[/us/pl/111/377/s110/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F377%2Fs110%2Fb
-[/us/pl/111/377/s110/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F377%2Fs110%2Fa%2F1
-[/us/pl/111/377/s112/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F377%2Fs112%2Fb
+[/us/pl/111/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F377
+[/us/pl/111/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F377
+[/us/pl/111/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F377
 [/us/pl/111/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275
-[/us/pl/111/377/s201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F377%2Fs201%2Fb
-[/us/pl/111/377/s110/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F377%2Fs110%2Fa%2F2
+[/us/pl/111/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F377
+[/us/pl/111/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F377
 [/us/pl/111/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275
-[/us/pl/111/377/s110/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F377%2Fs110%2Fc
+[/us/pl/111/377/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F377%2FtI
 [/us/stat/124/4120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4120
 [/us/pl/111/377/s201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F377%2Fs201%2Fb
 [/us/pl/111/377/s201/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F377%2Fs201%2Fd

@@ -49,17 +49,17 @@
 
     (d) Rates of basic pay for Department police officers may be increased by the Secretary under [section 7455 of this title][/us/usc/t38/s7455].
 
-(Added [Pub. L. 102–83, § 2(a)][/us/pl/102/83/s2/a], Aug. 6, 1991, [105 Stat. 397][/us/stat/105/397]; amended [Pub. L. 111–163, title X, § 1001][/us/pl/111/163/s1001], May 5, 2010, [124 Stat. 1181][/us/stat/124/1181].)
+(Added [Pub. L. 102–83][/us/pl/102/83], § 2(a), Aug. 6, 1991, [105 Stat. 397][/us/stat/105/397]; amended [Pub. L. 111–163, title X][/us/pl/111/163/tX], § 1001, May 5, 2010, [124 Stat. 1181][/us/stat/124/1181].)
 
  __Prior Provisions__ 
 
     Prior section 902 was renumbered [section 2302 of this title][/us/usc/t38/s2302].
 
-    Provisions similar to those in this section were contained in [section 218(b) of this title][/us/usc/t38/s218/b] prior to repeal by [Pub. L. 102–83, § 2(a)][/us/pl/102/83/s2/a].
+    Provisions similar to those in this section were contained in [section 218(b) of this title][/us/usc/t38/s218/b] prior to repeal by [Pub. L. 102–83][/us/pl/102/83], § 2(a).
 
  __Amendments__ 
 
-    2010—Subsec. (a)(1). [Pub. L. 111–163, § 1001(1)(A)][/us/pl/111/163/s1001/1/A], amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Employees of the Department who are Department police officers shall, with respect to acts occurring on Department property, enforce—
+    2010—Subsec. (a)(1). [Pub. L. 111–163][/us/pl/111/163], § 1001(1)(A), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Employees of the Department who are Department police officers shall, with respect to acts occurring on Department property, enforce—
 
     “(A) Federal laws;
 
@@ -67,9 +67,9 @@
 
     “(C) subject to paragraph (2), traffic and motor vehicle laws of a State or local government within the jurisdiction of which such Department property is located.”
 
-    Subsec. (a)(2), (3). [Pub. L. 111–163, § 1001(1)(B)][/us/pl/111/163/s1001/1/B], (C), redesignated par. (3) as (2), inserted “, and on any arrest warrant issued by competent judicial authority” before the period, and struck out former par. (2) which read as follows: “A law described in subparagraph (C) of paragraph (1) may be enforced under such subparagraph only as authorized by an express grant of authority under applicable State or local law. Any such enforcement shall be by the issuance of a citation for violation of such law.”
+    Subsec. (a)(2), (3). [Pub. L. 111–163][/us/pl/111/163], § 1001(1)(B), (C), redesignated par. (3) as (2), inserted “, and on any arrest warrant issued by competent judicial authority” before the period, and struck out former par. (2) which read as follows: “A law described in subparagraph (C) of paragraph (1) may be enforced under such subparagraph only as authorized by an express grant of authority under applicable State or local law. Any such enforcement shall be by the issuance of a citation for violation of such law.”
 
-    Subsec. (c). [Pub. L. 111–163, § 1001(2)][/us/pl/111/163/s1001/2], amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The Secretary shall consult with the Attorney General before prescribing regulations under paragraph (1) of subsection (b).”
+    Subsec. (c). [Pub. L. 111–163][/us/pl/111/163], § 1001(2), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The Secretary shall consult with the Attorney General before prescribing regulations under paragraph (1) of subsection (b).”
 
 ----------
 
@@ -81,16 +81,16 @@
 [/us/usc/t38/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs901
 [/us/usc/t38/s901/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs901%2Fa
 [/us/usc/t38/s7455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7455
-[/us/pl/102/83/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs2%2Fa
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F397
-[/us/pl/111/163/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163%2Fs1001
+[/us/pl/111/163/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163%2FtX
 [/us/stat/124/1181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1181
 [/us/usc/t38/s2302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs2302
 [/us/usc/t38/s218/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs218%2Fb
-[/us/pl/102/83/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs2%2Fa
-[/us/pl/111/163/s1001/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163%2Fs1001%2F1%2FA
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/111/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163
 [/us/usc/t38/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs901
-[/us/pl/111/163/s1001/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163%2Fs1001%2F1%2FB
-[/us/pl/111/163/s1001/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163%2Fs1001%2F2
+[/us/pl/111/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163
+[/us/pl/111/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163
 
 

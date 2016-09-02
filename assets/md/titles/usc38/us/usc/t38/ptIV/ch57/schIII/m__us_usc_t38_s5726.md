@@ -35,7 +35,7 @@
 
         (3) Notice under paragraphs (1) and (2) shall be provided promptly following the discovery of such a data breach and the implementation of any measures necessary to determine the scope of the breach, prevent any further breach or unauthorized disclosures, and reasonably restore the integrity of the data system.
 
-(Added [Pub. L. 109–461, title IX, § 902(a)][/us/pl/109/461/s902/a], Dec. 22, 2006, [120 Stat. 3457][/us/stat/120/3457].)
+(Added [Pub. L. 109–461, title IX][/us/pl/109/461/tIX], § 902(a), Dec. 22, 2006, [120 Stat. 3457][/us/stat/120/3457].)
 
 ----------
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/pl/109/461/s902/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461%2Fs902%2Fa
+[/us/pl/109/461/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461%2FtIX
 [/us/stat/120/3457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3457
 
 

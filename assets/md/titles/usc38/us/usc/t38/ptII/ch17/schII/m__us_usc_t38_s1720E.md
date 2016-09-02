@@ -25,7 +25,7 @@
 
         (2) underwent submarine training in active naval service before January 1, 1965.
 
-(Added [Pub. L. 105–368, title IX, § 901(a)][/us/pl/105/368/s901/a], Nov. 11, 1998, [112 Stat. 3360][/us/stat/112/3360].)
+(Added [Pub. L. 105–368, title IX][/us/pl/105/368/tIX], § 901(a), Nov. 11, 1998, [112 Stat. 3360][/us/stat/112/3360].)
 
 ----------
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/105/368/s901/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2Fs901%2Fa
+[/us/pl/105/368/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2FtIX
 [/us/stat/112/3360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3360
 
 

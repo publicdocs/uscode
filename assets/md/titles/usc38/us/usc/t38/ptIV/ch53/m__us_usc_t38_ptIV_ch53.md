@@ -219,35 +219,35 @@
 
  __Amendments__ 
 
-    2008—[Pub. L. 110–252, title I, § 1303(a)(2)][/us/pl/110/252/s1303/a/2], June 30, 2008, [122 Stat. 2327][/us/stat/122/2327], added item 5302A.
+    2008—[Pub. L. 110–252, title I][/us/pl/110/252/tI], § 1303(a)(2), June 30, 2008, [122 Stat. 2327][/us/stat/122/2327], added item 5302A.
 
-    2007—[Pub. L. 110–157, title III, § 301(b)(2)][/us/pl/110/157/s301/b/2], Dec. 26, 2007, [121 Stat. 1836][/us/stat/121/1836], added item 5317A.
+    2007—[Pub. L. 110–157, title III][/us/pl/110/157/tIII], § 301(b)(2), Dec. 26, 2007, [121 Stat. 1836][/us/stat/121/1836], added item 5317A.
 
-    2003—[Pub. L. 108–183, title VII, § 708(c)(4)(B)(ii)][/us/pl/108/183/s708/c/4/B/ii], Dec. 16, 2003, [117 Stat. 2675][/us/stat/117/2675], substituted “Social Security Administration” for “Department of Health and Human Services” in item 5318.
+    2003—[Pub. L. 108–183, title VII][/us/pl/108/183/tVII], § 708(c)(4)(B)(ii), Dec. 16, 2003, [117 Stat. 2675][/us/stat/117/2675], substituted “Social Security Administration” for “Department of Health and Human Services” in item 5318.
 
-    2001—[Pub. L. 107–103, title V, § 505(a)(2)][/us/pl/107/103/s505/a/2], Dec. 27, 2001, [115 Stat. 996][/us/stat/115/996], added item 5313B.
+    2001—[Pub. L. 107–103, title V][/us/pl/107/103/tV], § 505(a)(2), Dec. 27, 2001, [115 Stat. 996][/us/stat/115/996], added item 5313B.
 
-    1996—[Pub. L. 104–275, title V, § 502(b)][/us/pl/104/275/s502/b], Oct. 9, 1996, [110 Stat. 3341][/us/stat/110/3341], added item 5313A.
+    1996—[Pub. L. 104–275, title V][/us/pl/104/275/tV], § 502(b), Oct. 9, 1996, [110 Stat. 3341][/us/stat/110/3341], added item 5313A.
 
-    1992—[Pub. L. 102–568, title VI, § 603(b)(2)][/us/pl/102/568/s603/b/2], Oct. 29, 1992, [106 Stat. 4343][/us/stat/106/4343], added item 5319.
+    1992—[Pub. L. 102–568, title VI][/us/pl/102/568/tVI], § 603(b)(2), Oct. 29, 1992, [106 Stat. 4343][/us/stat/106/4343], added item 5319.
 
-    1991—[Pub. L. 102–40, title IV, § 402(c)(1)][/us/pl/102/40/s402/c/1], May 7, 1991, [105 Stat. 239][/us/stat/105/239], renumbered items 3101 to 3118 as 5301 to 5318, respectively.
+    1991—[Pub. L. 102–40, title IV][/us/pl/102/40/tIV], § 402(c)(1), May 7, 1991, [105 Stat. 239][/us/stat/105/239], renumbered items 3101 to 3118 as 5301 to 5318, respectively.
 
-    1990—[Pub. L. 101–508, title VIII][/us/pl/101/508], §§ 8051(b)(2), 8053(b)(2), Nov. 5, 1990, [104 Stat. 1388–351][/us/stat/104/1388-351], 1388–353, added items 3117 and 3118.
+    1990—[Pub. L. 101–508, title VIII][/us/pl/101/508/tVIII], §§ 8051(b)(2), 8053(b)(2), Nov. 5, 1990, [104 Stat. 1388–351][/us/stat/104/1388-351], 1388–353, added items 3117 and 3118.
 
-    1981—[Pub. L. 97–66, title VI, § 604(a)(2)][/us/pl/97/66/s604/a/2], Oct. 17, 1981, [95 Stat. 1036][/us/stat/95/1036], added item 3103A.
+    1981—[Pub. L. 97–66, title VI][/us/pl/97/66/tVI], § 604(a)(2), Oct. 17, 1981, [95 Stat. 1036][/us/stat/95/1036], added item 3103A.
 
-    1980—[Pub. L. 96–466, title VI, § 605(a)(2)][/us/pl/96/466/s605/a/2], Oct. 17, 1980, [94 Stat. 2211][/us/stat/94/2211], added items 3114, 3115, and 3116.
+    1980—[Pub. L. 96–466, title VI][/us/pl/96/466/tVI], § 605(a)(2), Oct. 17, 1980, [94 Stat. 2211][/us/stat/94/2211], added items 3114, 3115, and 3116.
 
-    [Pub. L. 96–385, title V, § 504(b)][/us/pl/96/385/s504/b], Oct. 7, 1980, [94 Stat. 1535][/us/stat/94/1535], added item 3113.
+    [Pub. L. 96–385, title V][/us/pl/96/385/tV], § 504(b), Oct. 7, 1980, [94 Stat. 1535][/us/stat/94/1535], added item 3113.
 
-    1978—[Pub. L. 95–588, title III, § 305(b)][/us/pl/95/588/s305/b], Nov. 4, 1978, [92 Stat. 2508][/us/stat/92/2508], added item 3112.
+    1978—[Pub. L. 95–588, title III][/us/pl/95/588/tIII], § 305(b), Nov. 4, 1978, [92 Stat. 2508][/us/stat/92/2508], added item 3112.
 
-    1972—[Pub. L. 92–328, title II, § 203][/us/pl/92/328/s203], June 30, 1972, [86 Stat. 397][/us/stat/86/397], substituted “claims by the United States” for “overpayments” in item 3102.
+    1972—[Pub. L. 92–328, title II][/us/pl/92/328/tII], § 203, June 30, 1972, [86 Stat. 397][/us/stat/86/397], substituted “claims by the United States” for “overpayments” in item 3102.
 
-    1970—[Pub. L. 91–376, § 8(c)][/us/pl/91/376/s8/c], Aug. 12, 1970, [84 Stat. 790][/us/stat/84/790], added item 3111.
+    1970—[Pub. L. 91–376][/us/pl/91/376], § 8(c), Aug. 12, 1970, [84 Stat. 790][/us/stat/84/790], added item 3111.
 
-    1962—[Pub. L. 87–825, § 4(b)][/us/pl/87/825/s4/b], Oct. 15, 1962, [76 Stat. 950][/us/stat/76/950], added item 3110.
+    1962—[Pub. L. 87–825][/us/pl/87/825], § 4(b), Oct. 15, 1962, [76 Stat. 950][/us/stat/76/950], added item 3110.
 
 ----------
 
@@ -256,35 +256,35 @@
 ----------
 ----------
 
-[/us/pl/110/252/s1303/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F252%2Fs1303%2Fa%2F2
+[/us/pl/110/252/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F252%2FtI
 [/us/stat/122/2327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2327
-[/us/pl/110/157/s301/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F157%2Fs301%2Fb%2F2
+[/us/pl/110/157/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F157%2FtIII
 [/us/stat/121/1836]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1836
-[/us/pl/108/183/s708/c/4/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F183%2Fs708%2Fc%2F4%2FB%2Fii
+[/us/pl/108/183/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F183%2FtVII
 [/us/stat/117/2675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2675
-[/us/pl/107/103/s505/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F103%2Fs505%2Fa%2F2
+[/us/pl/107/103/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F103%2FtV
 [/us/stat/115/996]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F996
-[/us/pl/104/275/s502/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275%2Fs502%2Fb
+[/us/pl/104/275/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275%2FtV
 [/us/stat/110/3341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3341
-[/us/pl/102/568/s603/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F568%2Fs603%2Fb%2F2
+[/us/pl/102/568/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F568%2FtVI
 [/us/stat/106/4343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4343
-[/us/pl/102/40/s402/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs402%2Fc%2F1
+[/us/pl/102/40/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2FtIV
 [/us/stat/105/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F239
-[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtVIII
 [/us/stat/104/1388-351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-351
-[/us/pl/97/66/s604/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F66%2Fs604%2Fa%2F2
+[/us/pl/97/66/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F66%2FtVI
 [/us/stat/95/1036]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1036
-[/us/pl/96/466/s605/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F466%2Fs605%2Fa%2F2
+[/us/pl/96/466/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F466%2FtVI
 [/us/stat/94/2211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2211
-[/us/pl/96/385/s504/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F385%2Fs504%2Fb
+[/us/pl/96/385/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F385%2FtV
 [/us/stat/94/1535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1535
-[/us/pl/95/588/s305/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F588%2Fs305%2Fb
+[/us/pl/95/588/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F588%2FtIII
 [/us/stat/92/2508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2508
-[/us/pl/92/328/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F328%2Fs203
+[/us/pl/92/328/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F328%2FtII
 [/us/stat/86/397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F397
-[/us/pl/91/376/s8/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F376%2Fs8%2Fc
+[/us/pl/91/376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F376
 [/us/stat/84/790]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F790
-[/us/pl/87/825/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F825%2Fs4%2Fb
+[/us/pl/87/825]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F825
 [/us/stat/76/950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F950
 
 

@@ -17,7 +17,7 @@
 
     There is in the Department a Deputy Secretary of Veterans Affairs, who is appointed by the President, by and with the advice and consent of the Senate. The Deputy Secretary shall perform such functions as the Secretary shall prescribe. Unless the President designates another officer of the Government, the Deputy Secretary shall be Acting Secretary of Veterans Affairs during the absence or disability of the Secretary or in the event of a vacancy in the office of Secretary.
 
-(Added [Pub. L. 102–83, § 2(a)][/us/pl/102/83/s2/a], Aug. 6, 1991, [105 Stat. 379][/us/stat/105/379].)
+(Added [Pub. L. 102–83][/us/pl/102/83], § 2(a), Aug. 6, 1991, [105 Stat. 379][/us/stat/105/379].)
 
  __Prior Provisions__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/102/83/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs2%2Fa
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F379
 [/us/usc/t38/s210/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs210%2Fd
 [/us/pl/100/527/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F527%2Fs3%2Fa

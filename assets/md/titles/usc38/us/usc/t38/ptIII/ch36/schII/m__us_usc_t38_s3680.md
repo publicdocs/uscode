@@ -97,7 +97,7 @@
 
         (4) In the case of an individual who has received an accelerated payment of basic educational assistance under [section 3014A of this title][/us/usc/t38/s3014A] during an enrollment period for a program of education, the Secretary may accept the individual’s certification of enrollment in and satisfactory pursuit of the program of education as sufficient proof of the certified matters if the certification is submitted after the enrollment period has ended.
 
-(Added [Pub. L. 92–540, title II, § 201][/us/pl/92/540/s201], Oct. 24, 1972, [86 Stat. 1076][/us/stat/86/1076], § 1780; amended [Pub. L. 93–208][/us/pl/93/208], Dec. 28, 1973, [87 Stat. 907][/us/stat/87/907]; [Pub. L. 93–508, title II, § 209][/us/pl/93/508/s209], Dec. 3, 1974, [88 Stat. 1584][/us/stat/88/1584]; [Pub. L. 94–502, title V][/us/pl/94/502], §§ 505, 506, 513(a)(5)–(12), Oct. 15, 1976, [90 Stat. 2400][/us/stat/90/2400], 2402, 2403; [Pub. L. 96–466, title III][/us/pl/96/466], §§ 341, 342, title VI, §§ 601(c), (d), 602(c), Oct. 17, 1980, [94 Stat. 2198][/us/stat/94/2198], 2208, 2209; [Pub. L. 97–35, title XX, § 2003(c)][/us/pl/97/35/s2003/c], Aug. 13, 1981, [95 Stat. 782][/us/stat/95/782]; [Pub. L. 97–295, § 4(52)][/us/pl/97/295/s4/52], Oct. 12, 1982, [96 Stat. 1308][/us/stat/96/1308]; [Pub. L. 97–306, title II, § 205(c)][/us/pl/97/306/s205/c], Oct. 14, 1982, [96 Stat. 1434][/us/stat/96/1434]; [Pub. L. 99–576, title III][/us/pl/99/576], §§ 315(a)(1), 316, title VII, § 701(59), Oct. 28, 1986, [100 Stat. 3274][/us/stat/100/3274], 3296; [Pub. L. 100–689, title I, § 121(a)][/us/pl/100/689/s121/a], Nov. 18, 1988, [102 Stat. 4173][/us/stat/102/4173]; [Pub. L. 101–237, title IV][/us/pl/101/237], §§ 412(a), 415(a), 423(b)(1), (2), Dec. 18, 1989, [103 Stat. 2085][/us/stat/103/2085], 2086, 2092; [Pub. L. 102–40, title IV, § 402(d)(1)][/us/pl/102/40/s402/d/1], May 7, 1991, [105 Stat. 239][/us/stat/105/239]; renumbered § 3680 and amended [Pub. L. 102–83, § 5(a)][/us/pl/102/83/s5/a], (c)(1), Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406]; [Pub. L. 102–127, § 6(a)][/us/pl/102/127/s6/a], Oct. 10, 1991, [105 Stat. 622][/us/stat/105/622]; [Pub. L. 102–568, title III, § 314][/us/pl/102/568/s314], Oct. 29, 1992, [106 Stat. 4333][/us/stat/106/4333]; [Pub. L. 103–446, title VI, § 605(a)(2)(B)][/us/pl/103/446/s605/a/2/B], title XII, § 1201(i)(6), Nov. 2, 1994, [108 Stat. 4672][/us/stat/108/4672], 4688; [Pub. L. 106–419, title I, § 121(a)][/us/pl/106/419/s121/a], Nov. 1, 2000, [114 Stat. 1833][/us/stat/114/1833]; [Pub. L. 107–103, title I, § 104(b)][/us/pl/107/103/s104/b], Dec. 27, 2001, [115 Stat. 981][/us/stat/115/981]; [Pub. L. 109–233, title V, § 503(8)(A)][/us/pl/109/233/s503/8/A], June 15, 2006, [120 Stat. 416][/us/stat/120/416]; [Pub. L. 111–377, title II, § 206(a)][/us/pl/111/377/s206/a], Jan. 4, 2011, [124 Stat. 4126][/us/stat/124/4126].)
+(Added [Pub. L. 92–540, title II][/us/pl/92/540/tII], § 201, Oct. 24, 1972, [86 Stat. 1076][/us/stat/86/1076], § 1780; amended [Pub. L. 93–208][/us/pl/93/208], Dec. 28, 1973, [87 Stat. 907][/us/stat/87/907]; [Pub. L. 93–508, title II][/us/pl/93/508/tII], § 209, Dec. 3, 1974, [88 Stat. 1584][/us/stat/88/1584]; [Pub. L. 94–502, title V][/us/pl/94/502/tV], §§ 505, 506, 513(a)(5)–(12), Oct. 15, 1976, [90 Stat. 2400][/us/stat/90/2400], 2402, 2403; [Pub. L. 96–466, title III][/us/pl/96/466/tIII], §§ 341, 342, title VI, §§ 601(c), (d), 602(c), Oct. 17, 1980, [94 Stat. 2198][/us/stat/94/2198], 2208, 2209; [Pub. L. 97–35, title XX][/us/pl/97/35/tXX], § 2003(c), Aug. 13, 1981, [95 Stat. 782][/us/stat/95/782]; [Pub. L. 97–295][/us/pl/97/295], § 4(52), Oct. 12, 1982, [96 Stat. 1308][/us/stat/96/1308]; [Pub. L. 97–306, title II][/us/pl/97/306/tII], § 205(c), Oct. 14, 1982, [96 Stat. 1434][/us/stat/96/1434]; [Pub. L. 99–576, title III][/us/pl/99/576/tIII], §§ 315(a)(1), 316, title VII, § 701(59), Oct. 28, 1986, [100 Stat. 3274][/us/stat/100/3274], 3296; [Pub. L. 100–689, title I][/us/pl/100/689/tI], § 121(a), Nov. 18, 1988, [102 Stat. 4173][/us/stat/102/4173]; [Pub. L. 101–237, title IV][/us/pl/101/237/tIV], §§ 412(a), 415(a), 423(b)(1), (2), Dec. 18, 1989, [103 Stat. 2085][/us/stat/103/2085], 2086, 2092; [Pub. L. 102–40, title IV][/us/pl/102/40/tIV], § 402(d)(1), May 7, 1991, [105 Stat. 239][/us/stat/105/239]; renumbered § 3680 and amended [Pub. L. 102–83][/us/pl/102/83], § 5(a), (c)(1), Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406]; [Pub. L. 102–127][/us/pl/102/127], § 6(a), Oct. 10, 1991, [105 Stat. 622][/us/stat/105/622]; [Pub. L. 102–568, title III][/us/pl/102/568/tIII], § 314, Oct. 29, 1992, [106 Stat. 4333][/us/stat/106/4333]; [Pub. L. 103–446, title VI][/us/pl/103/446/tVI], § 605(a)(2)(B), title XII, § 1201(i)(6), Nov. 2, 1994, [108 Stat. 4672][/us/stat/108/4672], 4688; [Pub. L. 106–419, title I][/us/pl/106/419/tI], § 121(a), Nov. 1, 2000, [114 Stat. 1833][/us/stat/114/1833]; [Pub. L. 107–103, title I][/us/pl/107/103/tI], § 104(b), Dec. 27, 2001, [115 Stat. 981][/us/stat/115/981]; [Pub. L. 109–233, title V][/us/pl/109/233/tV], § 503(8)(A), June 15, 2006, [120 Stat. 416][/us/stat/120/416]; [Pub. L. 111–377, title II][/us/pl/111/377/tII], § 206(a), Jan. 4, 2011, [124 Stat. 4126][/us/stat/124/4126].)
 
  __Amendments__ 
 
@@ -109,89 +109,89 @@
 
     2000—Subsec. (a)(C). [Pub. L. 106–419][/us/pl/106/419] amended subcl. (C) generally. Prior to amendment, subcl. (C) read as follows: “during periods between a semester, term, or quarter where the educational institution certifies the enrollment of the eligible veteran or eligible person on an individual semester, term, or quarter basis if the interval between such periods does not exceed one full calendar month.”
 
-    1994—Subsec. (a)(2) to (4). [Pub. L. 103–446, § 605(a)(2)(B)][/us/pl/103/446/s605/a/2/B], inserted “or” at end of par. (2), substituted period for “; or” at end of par. (3), and struck out par. (4) which read as follows: “to any eligible veteran or person for pursuit of a program of education exclusively by correspondence as authorized under [section 3686 of this title][/us/usc/t38/s3686] or for the pursuit of a correspondence portion of a combination correspondence-residence course leading to a vocational objective where the normal period of time required to complete such correspondence course or portion is less than 6 months. A certification as to the normal period of time required to complete the course must be made to the Secretary by the educational institution.”
+    1994—Subsec. (a)(2) to (4). [Pub. L. 103–446][/us/pl/103/446], § 605(a)(2)(B), inserted “or” at end of par. (2), substituted period for “; or” at end of par. (3), and struck out par. (4) which read as follows: “to any eligible veteran or person for pursuit of a program of education exclusively by correspondence as authorized under [section 3686 of this title][/us/usc/t38/s3686] or for the pursuit of a correspondence portion of a combination correspondence-residence course leading to a vocational objective where the normal period of time required to complete such correspondence course or portion is less than 6 months. A certification as to the normal period of time required to complete the course must be made to the Secretary by the educational institution.”
 
-    Subsec. (a)(C). [Pub. L. 103–446, § 1201(i)(6)][/us/pl/103/446/s1201/i/6], substituted “one full” for “1 full”.
+    Subsec. (a)(C). [Pub. L. 103–446][/us/pl/103/446], § 1201(i)(6), substituted “one full” for “1 full”.
 
     1992—Subsec. (e). [Pub. L. 102–568][/us/pl/102/568] designated existing provisions as par. (1), substituted “Subject to paragraph (2), if” for “If”, struck out comma after “eligible person”, and added par. (2).
 
-    1991—[Pub. L. 102–83, § 5(a)][/us/pl/102/83/s5/a], renumbered [section 1780 of this title][/us/usc/t38/s1780] as this section.
+    1991—[Pub. L. 102–83][/us/pl/102/83], § 5(a), renumbered [section 1780 of this title][/us/usc/t38/s1780] as this section.
 
-    Subsec. (a). [Pub. L. 102–83, § 5(c)(1)][/us/pl/102/83/s5/c/1], substituted “3108, 3482, 3491, or 3532” for “1508, 1682, 1691, or 1732” in introductory provisions.
+    Subsec. (a). [Pub. L. 102–83][/us/pl/102/83], § 5(c)(1), substituted “3108, 3482, 3491, or 3532” for “1508, 1682, 1691, or 1732” in introductory provisions.
 
     Subsec. (a)(3). [Pub. L. 102–127][/us/pl/102/127] amended cl. (3) generally. Prior to amendment, cl. (3) read as follows: “to any eligible veteran or person for a course for which the grade assigned is not used in computing the requirements for graduation including a course from which the student withdraws unless the Secretary finds there are mitigating circumstances, except that, in the first instance of withdrawal by an eligible veteran or person from a course or courses with respect to which such veteran or person has been paid assistance under this title, mitigating circumstances shall be considered to exist with respect to courses totaling not more than six semester hours or the equivalent thereof; or”.
 
-    Subsec. (a)(4). [Pub. L. 102–83, § 5(c)(1)][/us/pl/102/83/s5/c/1], substituted “3686” for “1786”.
+    Subsec. (a)(4). [Pub. L. 102–83][/us/pl/102/83], § 5(c)(1), substituted “3686” for “1786”.
 
     Subsec. (e). [Pub. L. 102–40][/us/pl/102/40] substituted “5302” for “3102”.
 
-    Subsec. (f). [Pub. L. 102–83, § 5(c)(1)][/us/pl/102/83/s5/c/1], substituted “3482(b) or 3532(a)(2)” for “1682(b) or 1732(a)(2)”.
+    Subsec. (f). [Pub. L. 102–83][/us/pl/102/83], § 5(c)(1), substituted “3482(b) or 3532(a)(2)” for “1682(b) or 1732(a)(2)”.
 
-    1989—Subsec. (a). [Pub. L. 101–237, § 423(b)(1)(A)][/us/pl/101/237/s423/b/1/A], substituted “Secretary” for “Administrator” wherever appearing.
+    1989—Subsec. (a). [Pub. L. 101–237][/us/pl/101/237], § 423(b)(1)(A), substituted “Secretary” for “Administrator” wherever appearing.
 
-    [Pub. L. 101–237, § 412(a)][/us/pl/101/237/s412/a], struck out “enrolled in a course which leads to a standard college degree, or a course that meets the requirements of [section 1788(a)(7) of this title][/us/usc/t38/s1788/a/7],” after “or eligible person” in cl. (1) of second sentence, redesignated cls. (3) to (5) as (2) to (4), respectively, and struck out former cl. (2) which read as follows: “to any eligible veteran or eligible person enrolled in a course which does not lead to a standard college degree (excluding courses that meet the requirements of [section 1788(a)(7) of this title][/us/usc/t38/s1788/a/7] and programs of apprenticeship and programs of other on-job training authorized by [section 1787 of this title][/us/usc/t38/s1787]) for any day of absence in excess of thirty days in a twelve-month period, not counting as absences weekends or legal holidays (or customary vacation periods connected therewith) established by Federal or State law (or in the case of the Republic of the Philippines, Philippine law) during which the institution is not regularly in session and periods (not to exceed five days in any twelve-month period) when the institution is not in session because of teacher conferences or teacher training sessions;”, substituted “set forth in clause (1)” for “set forth in clause (1) or (2)” in third sentence, struck out “, and such periods shall not be counted as absences for the purposes of clause (2) of this subsection” before semicolon at end of subcl. (A), and struck out “, but such periods shall be counted as absences for the purposes of clause (2) of this subsection” before punctuation at end of subcls. (B) and (C).
+    [Pub. L. 101–237][/us/pl/101/237], § 412(a), struck out “enrolled in a course which leads to a standard college degree, or a course that meets the requirements of [section 1788(a)(7) of this title][/us/usc/t38/s1788/a/7],” after “or eligible person” in cl. (1) of second sentence, redesignated cls. (3) to (5) as (2) to (4), respectively, and struck out former cl. (2) which read as follows: “to any eligible veteran or eligible person enrolled in a course which does not lead to a standard college degree (excluding courses that meet the requirements of [section 1788(a)(7) of this title][/us/usc/t38/s1788/a/7] and programs of apprenticeship and programs of other on-job training authorized by [section 1787 of this title][/us/usc/t38/s1787]) for any day of absence in excess of thirty days in a twelve-month period, not counting as absences weekends or legal holidays (or customary vacation periods connected therewith) established by Federal or State law (or in the case of the Republic of the Philippines, Philippine law) during which the institution is not regularly in session and periods (not to exceed five days in any twelve-month period) when the institution is not in session because of teacher conferences or teacher training sessions;”, substituted “set forth in clause (1)” for “set forth in clause (1) or (2)” in third sentence, struck out “, and such periods shall not be counted as absences for the purposes of clause (2) of this subsection” before semicolon at end of subcl. (A), and struck out “, but such periods shall be counted as absences for the purposes of clause (2) of this subsection” before punctuation at end of subcls. (B) and (C).
 
-    Subsecs. (b), (c), (d)(2). [Pub. L. 101–237, § 423(b)(1)(A)][/us/pl/101/237/s423/b/1/A], substituted “Secretary” for “Administrator” wherever appearing.
+    Subsecs. (b), (c), (d)(2). [Pub. L. 101–237][/us/pl/101/237], § 423(b)(1)(A), substituted “Secretary” for “Administrator” wherever appearing.
 
-    Subsec. (d)(3). [Pub. L. 101–237, § 423(b)(2)][/us/pl/101/237/s423/b/2], substituted “Secretary’s” for “Administrator’s”.
+    Subsec. (d)(3). [Pub. L. 101–237][/us/pl/101/237], § 423(b)(2), substituted “Secretary’s” for “Administrator’s”.
 
-    Subsec. (d)(5). [Pub. L. 101–237, § 423(b)(1)(A)][/us/pl/101/237/s423/b/1/A], substituted “Secretary” for “Administrator” wherever appearing.
+    Subsec. (d)(5). [Pub. L. 101–237][/us/pl/101/237], § 423(b)(1)(A), substituted “Secretary” for “Administrator” wherever appearing.
 
-    Subsec. (e). [Pub. L. 101–237, § 423(b)(1)(B)][/us/pl/101/237/s423/b/1/B], substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
+    Subsec. (e). [Pub. L. 101–237][/us/pl/101/237], § 423(b)(1)(B), substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
 
-    Subsec. (g). [Pub. L. 101–237, § 423(b)(1)(A)][/us/pl/101/237/s423/b/1/A], substituted “Secretary” for “Administrator” wherever appearing.
+    Subsec. (g). [Pub. L. 101–237][/us/pl/101/237], § 423(b)(1)(A), substituted “Secretary” for “Administrator” wherever appearing.
 
-    [Pub. L. 101–237, § 415(a)][/us/pl/101/237/s415/a], substituted “the Secretary may withhold payment of benefits to such eligible veteran or eligible person until the required proof is received and the amount of the payment is appropriately adjusted. The Secretary may accept such veteran’s or person’s monthly certification of enrollment in and satisfactory pursuit of such veteran’s or person’s program as sufficient proof of the certified matters.” for “the Administrator is authorized to withhold the final payment of benefits to such person until the required proof is received and the amount of the final payment is appropriately adjusted.”
+    [Pub. L. 101–237][/us/pl/101/237], § 415(a), substituted “the Secretary may withhold payment of benefits to such eligible veteran or eligible person until the required proof is received and the amount of the payment is appropriately adjusted. The Secretary may accept such veteran’s or person’s monthly certification of enrollment in and satisfactory pursuit of such veteran’s or person’s program as sufficient proof of the certified matters.” for “the Administrator is authorized to withhold the final payment of benefits to such person until the required proof is received and the amount of the final payment is appropriately adjusted.”
 
     1988—Subsec. (a)(4). [Pub. L. 100–689][/us/pl/100/689] inserted “, except that, in the first instance of withdrawal by an eligible veteran or person from a course or courses with respect to which such veteran or person has been paid assistance under this title, mitigating circumstances shall be considered to exist with respect to courses totaling not more than six semester hours or the equivalent thereof” after “circumstances”.
 
-    1986—Subsec. (a)(1). [Pub. L. 99–576, § 315(a)(1)(A)][/us/pl/99/576/s315/a/1/A], inserted “or a course that meets the requirements of [section 1788(a)(7) of this title][/us/usc/t38/s1788/a/7]” after “degree”.
+    1986—Subsec. (a)(1). [Pub. L. 99–576][/us/pl/99/576], § 315(a)(1)(A), inserted “or a course that meets the requirements of [section 1788(a)(7) of this title][/us/usc/t38/s1788/a/7]” after “degree”.
 
-    Subsec. (a)(2). [Pub. L. 99–576, § 315(a)(1)(B)][/us/pl/99/576/s315/a/1/B], inserted “courses that meet the requirements of [section 1788(a)(7) of this title][/us/usc/t38/s1788/a/7] and” after “excluding”.
+    Subsec. (a)(2). [Pub. L. 99–576][/us/pl/99/576], § 315(a)(1)(B), inserted “courses that meet the requirements of [section 1788(a)(7) of this title][/us/usc/t38/s1788/a/7] and” after “excluding”.
 
-    Subsec. (d)(2). [Pub. L. 99–576, § 701(59)][/us/pl/99/576/s701/59], substituted “person” for “serviceman” after “In the case of a”.
+    Subsec. (d)(2). [Pub. L. 99–576][/us/pl/99/576], § 701(59), substituted “person” for “serviceman” after “In the case of a”.
 
-    Subsec. (f). [Pub. L. 99–576, § 316][/us/pl/99/576/s316], substituted “not later than the last day of” for “during”.
+    Subsec. (f). [Pub. L. 99–576][/us/pl/99/576], § 316, substituted “not later than the last day of” for “during”.
 
-    1982—Subsec. (a). [Pub. L. 97–295, § 4(52)(A)][/us/pl/97/295/s4/52/A], and [Pub. L. 97–306, § 205(c)(1)][/us/pl/97/306/s205/c/1], made identical amendments by substituting “section 1508” for “section 1504”.
+    1982—Subsec. (a). [Pub. L. 97–295][/us/pl/97/295], § 4(52)(A), and [Pub. L. 97–306][/us/pl/97/306], § 205(c)(1), made identical amendments by substituting “section 1508” for “section 1504”.
 
-    Subsec. (a)(5). [Pub. L. 97–295, § 4(52)(B)][/us/pl/97/295/s4/52/B], substituted “than 6 months” for “the 6 months” after “portion is less”.
+    Subsec. (a)(5). [Pub. L. 97–295][/us/pl/97/295], § 4(52)(B), substituted “than 6 months” for “the 6 months” after “portion is less”.
 
-    Subsec. (a)(6). [Pub. L. 97–306, § 205(c)(2)][/us/pl/97/306/s205/c/2]–(4), struck out cl. (6) which provided that no amount would be paid to any eligible veteran or person incarcerated in a Federal, State, or local prison or jail for any course to the extent the tuition and fees of the veteran or person were paid under any Federal program (other than a program administered by the Administrator) or under any State or local program, or for which there were no tuition and fees.
+    Subsec. (a)(6). [Pub. L. 97–306][/us/pl/97/306], § 205(c)(2)–(4), struck out cl. (6) which provided that no amount would be paid to any eligible veteran or person incarcerated in a Federal, State, or local prison or jail for any course to the extent the tuition and fees of the veteran or person were paid under any Federal program (other than a program administered by the Administrator) or under any State or local program, or for which there were no tuition and fees.
 
-    Subsec. (a)(A) to (C). [Pub. L. 97–295, § 4(52)(C)][/us/pl/97/295/s4/52/C], inserted “of this subsection” after “clause (2)” wherever appearing.
+    Subsec. (a)(A) to (C). [Pub. L. 97–295][/us/pl/97/295], § 4(52)(C), inserted “of this subsection” after “clause (2)” wherever appearing.
 
     1981—Subsec. (a). [Pub. L. 97–35][/us/pl/97/35] struck out applicability to flight training program.
 
     1980—Subsec. (a). [Pub. L. 96–466][/us/pl/96/466], §§ 341(a), 342, 602(c), in provisions preceding cl. (1) inserted “in, and pursuit of, such program” after “enrollment”, in cl. (1) inserted reference to not pursuing a course in accordance with provisions of regulations prescribed by the Administrator pursuant to subsec. (g) of this section and reference to payment for an actual period of pursuit of one or more unit subjects pursued for a period of time shorter than the enrollment period at the educational institution, in cl. (2) inserted reference to periods when the institution is not in session because of teacher conferences or teacher training sessions, and added cl. (6).
 
-    Subsec. (d)(2). [Pub. L. 96–466, § 601(c)(1)][/us/pl/96/466/s601/c/1], struck out “(other than under subchapter VI of chapter 34)” after “who is pursuing a program of education” and substituted “paragraphs (4)(B) and (C) and (5)” for “paragraphs 5(B) and (C) and (6)”.
+    Subsec. (d)(2). [Pub. L. 96–466][/us/pl/96/466], § 601(c)(1), struck out “(other than under subchapter VI of chapter 34)” after “who is pursuing a program of education” and substituted “paragraphs (4)(B) and (C) and (5)” for “paragraphs 5(B) and (C) and (6)”.
 
-    Subsec. (d)(3). [Pub. L. 96–466, § 601(c)(2)][/us/pl/96/466/s601/c/2], (3), redesignated par. (4) as (3). Former par. (3), which related to the entitlement of a person eligible for education or training under the provisions of subchapter VI of chapter 34 of this title to a lump-sum educational assistance allowance advance payment, was struck out.
+    Subsec. (d)(3). [Pub. L. 96–466][/us/pl/96/466], § 601(c)(2), (3), redesignated par. (4) as (3). Former par. (3), which related to the entitlement of a person eligible for education or training under the provisions of subchapter VI of chapter 34 of this title to a lump-sum educational assistance allowance advance payment, was struck out.
 
-    Subsec. (d)(4). [Pub. L. 96–466, § 601(c)(3)][/us/pl/96/466/s601/c/3], (4), redesignated par. (5) as (4) and substituted “paragraph (2)” for “paragraphs (2) and (3)”. Former par. (4) redesignated (3).
+    Subsec. (d)(4). [Pub. L. 96–466][/us/pl/96/466], § 601(c)(3), (4), redesignated par. (5) as (4) and substituted “paragraph (2)” for “paragraphs (2) and (3)”. Former par. (4) redesignated (3).
 
-    Subsec. (d)(5), (6). [Pub. L. 96–466, § 601(c)(4)][/us/pl/96/466/s601/c/4], (5), redesignated par. (6) as (5) and substituted “paragraph (4)” for “paragraph (5)”. Former par. (5) redesignated (4).
+    Subsec. (d)(5), (6). [Pub. L. 96–466][/us/pl/96/466], § 601(c)(4), (5), redesignated par. (6) as (5) and substituted “paragraph (4)” for “paragraph (5)”. Former par. (5) redesignated (4).
 
-    Subsec. (e). [Pub. L. 96–466, § 601(d)(1)][/us/pl/96/466/s601/d/1], substituted “under subsection (d)(2) of this section” for “under subsection (d)(2) and (3) of this section”.
+    Subsec. (e). [Pub. L. 96–466][/us/pl/96/466], § 601(d)(1), substituted “under subsection (d)(2) of this section” for “under subsection (d)(2) and (3) of this section”.
 
-    Subsec. (f). [Pub. L. 96–466, § 601(d)(2)][/us/pl/96/466/s601/d/2], struck out “(except as provided by subsection (d)(3) of this section)” after “half-time basis”.
+    Subsec. (f). [Pub. L. 96–466][/us/pl/96/466], § 601(d)(2), struck out “(except as provided by subsection (d)(3) of this section)” after “half-time basis”.
 
-    Subsec. (g). [Pub. L. 96–466, § 341(b)][/us/pl/96/466/s341/b], inserted “and define” after “determine”.
+    Subsec. (g). [Pub. L. 96–466][/us/pl/96/466], § 341(b), inserted “and define” after “determine”.
 
     1976—Subsec. (a). [Pub. L. 94–502][/us/pl/94/502], §§ 505, 506, 513(a)(5), authorized the Administrator to continue allowances to eligible veterans and persons during periods between consecutive school terms where the veteran or person transfers from one approved school to another approved school, provided the period not exceed 30 days, and during periods between a semester, term, or quarter where the educational institution certifies the enrollment of the veteran or person on an individual semester, term, or quarter basis, provided that the period not exceed 1 full calendar month, substituted “such veteran’s or person’s” for “his”, and added cls. (3) to (5).
 
-    Subsec. (b). [Pub. L. 94–502, § 513(a)(5)][/us/pl/94/502/s513/a/5], substituted “spouse or surviving spouse” for “wife or widow” wherever appearing, and “spouse’s or surviving spouse’s” for “wife’s or widow’s”.
+    Subsec. (b). [Pub. L. 94–502][/us/pl/94/502], § 513(a)(5), substituted “spouse or surviving spouse” for “wife or widow” wherever appearing, and “spouse’s or surviving spouse’s” for “wife’s or widow’s”.
 
-    Subsec. (c). [Pub. L. 94–502, § 513(a)(6)][/us/pl/94/502/s513/a/6], substituted “such veteran’s or person’s” for “his”.
+    Subsec. (c). [Pub. L. 94–502][/us/pl/94/502], § 513(a)(6), substituted “such veteran’s or person’s” for “his”.
 
-    Subsec. (d). [Pub. L. 94–502, § 513(a)(6)][/us/pl/94/502/s513/a/6]–(8), substituted “persons may need” for “persons need” in cl. (1), “such veteran’s or person’s” for “his” in two places and inserted provision prohibiting advance payments unless the veteran request them and the Administrator finds that the educational institution has agreed to and can carry out the requirements of cls. (5) (B), (C) and (6) of this subsection in cl. (2), substituted “such veteran’s or person’s” for “his” in two places and “the veteran or person” for “he” in cl. (4), and “such veteran’s or person’s” for “his” in cl. (5).
+    Subsec. (d). [Pub. L. 94–502][/us/pl/94/502], § 513(a)(6)–(8), substituted “persons may need” for “persons need” in cl. (1), “such veteran’s or person’s” for “his” in two places and inserted provision prohibiting advance payments unless the veteran request them and the Administrator finds that the educational institution has agreed to and can carry out the requirements of cls. (5) (B), (C) and (6) of this subsection in cl. (2), substituted “such veteran’s or person’s” for “his” in two places and “the veteran or person” for “he” in cl. (4), and “such veteran’s or person’s” for “his” in cl. (5).
 
-    Subsec. (e). [Pub. L. 94–502, § 513(a)(9)][/us/pl/94/502/s513/a/9]–(11), struck out subsec. (e) which provided for prepayment of subsequent educational assistance or subsistence allowances, redesignated subsec. (f) as (e) and substituted “such veteran or person” for “him”.
+    Subsec. (e). [Pub. L. 94–502][/us/pl/94/502], § 513(a)(9)–(11), struck out subsec. (e) which provided for prepayment of subsequent educational assistance or subsistence allowances, redesignated subsec. (f) as (e) and substituted “such veteran or person” for “him”.
 
-    Subsec. (f). [Pub. L. 94–502, § 513(a)(10)][/us/pl/94/502/s513/a/10], redesignated subsec. (g) as (f). Former subsec. (f) redesignated (e).
+    Subsec. (f). [Pub. L. 94–502][/us/pl/94/502], § 513(a)(10), redesignated subsec. (g) as (f). Former subsec. (f) redesignated (e).
 
-    Subsecs. (g), (h). [Pub. L. 94–502, § 513(a)(10)][/us/pl/94/502/s513/a/10], (12), redesignated subsec. (h) as (g), substituted “which the Administrator shall” for “which he shall”, “the veteran or person” for “he”, and authorized the Administrator to withhold final payment of benefits to the veteran or person until proof of the veteran’s or person’s enrollment in and satisfactory pursuit of the educational program is received. Former subsec. (g) redesignated (f).
+    Subsecs. (g), (h). [Pub. L. 94–502][/us/pl/94/502], § 513(a)(10), (12), redesignated subsec. (h) as (g), substituted “which the Administrator shall” for “which he shall”, “the veteran or person” for “he”, and authorized the Administrator to withhold final payment of benefits to the veteran or person until proof of the veteran’s or person’s enrollment in and satisfactory pursuit of the educational program is received. Former subsec. (g) redesignated (f).
 
     1974—Subsec. (a)(2). [Pub. L. 93–508][/us/pl/93/508] substituted “legal holidays (or customary vacation periods connected therewith)” for “legal holidays”.
 
@@ -199,7 +199,7 @@
 
  __Effective Date of 2011 Amendment__ 
 
-[Pub. L. 111–377, title II, § 206(b)][/us/pl/111/377/s206/b], Jan. 4, 2011, [124 Stat. 4127][/us/stat/124/4127], provided that: 
+[Pub. L. 111–377, title II][/us/pl/111/377/tII], § 206(b), Jan. 4, 2011, [124 Stat. 4127][/us/stat/124/4127], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall take effect on August 1, 2011.”
 
@@ -209,7 +209,7 @@
 
  __Effective Date of 2000 Amendment__ 
 
-[Pub. L. 106–419, title I, § 121(b)][/us/pl/106/419/s121/b], Nov. 1, 2000, [114 Stat. 1833][/us/stat/114/1833], provided that: 
+[Pub. L. 106–419, title I][/us/pl/106/419/tI], § 121(b), Nov. 1, 2000, [114 Stat. 1833][/us/stat/114/1833], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply with respect to payments of educational assistance under title 38, United States Code, for months beginning on or after the date of the enactment of this Act \[Nov. 1, 2000\].”
 
@@ -219,13 +219,13 @@
 
  __Effective Date of 1991 Amendment__ 
 
-[Pub. L. 102–127, § 6(b)][/us/pl/102/127/s6/b], Oct. 10, 1991, [105 Stat. 623][/us/stat/105/623], provided that: 
+[Pub. L. 102–127][/us/pl/102/127], § 6(b), Oct. 10, 1991, [105 Stat. 623][/us/stat/105/623], provided that: 
 
 > “The amendments made by subsection (a) \[amending this section\] shall take effect as of August 1, 1990.”
 
  __Effective Date of 1988 Amendment__ 
 
-[Pub. L. 100–689, title I, § 121(b)][/us/pl/100/689/s121/b], Nov. 18, 1988, [102 Stat. 4174][/us/stat/102/4174], provided that: 
+[Pub. L. 100–689, title I][/us/pl/100/689/tI], § 121(b), Nov. 18, 1988, [102 Stat. 4174][/us/stat/102/4174], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply so as to require that mitigating circumstances be considered to exist only with respect to withdrawals from a course or courses being pursued with assistance under title 38, United States Code, that occur on or after June 1, 1989.”
 
@@ -243,7 +243,7 @@
 
     Amendment by [section 505 of Pub. L. 94–502][/us/pl/94/502/s505] effective Dec. 1, 1976, and amendment by sections 506 and 513(a)(5), (6), (11), (12) of [Pub. L. 94–502][/us/pl/94/502] effective Oct. 15, 1976, see section 703(b), (c) of [Pub. L. 94–502][/us/pl/94/502], set out as an Effective Date note under [section 3693 of this title][/us/usc/t38/s3693].
 
-[Pub. L. 94–502, title V, § 513(b)][/us/pl/94/502/s513/b], Oct. 15, 1976, [90 Stat. 2404][/us/stat/90/2404], provided that: 
+[Pub. L. 94–502, title V][/us/pl/94/502/tV], § 513(b), Oct. 15, 1976, [90 Stat. 2404][/us/stat/90/2404], provided that: 
 
 > “The amendments made by paragraphs (7), (8), (9), and (10) of subsection (a) \[amending this section\] shall take effect June 1, 1977, and shall apply with respect to educational assistance allowances and subsistence allowances paid under title 38, United States Code, for months after May 1977.”
 
@@ -253,7 +253,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 92–540, title VI, § 603][/us/pl/92/540/s603], Oct. 24, 1972, [86 Stat. 1099][/us/stat/86/1099], provided that:
+[Pub. L. 92–540, title VI][/us/pl/92/540/tVI], § 603, Oct. 24, 1972, [86 Stat. 1099][/us/stat/86/1099], provided that:
 
 >     “(a) The prepayment provisions of subsection (e) of section 1780 \[now 3680\] of title 38, United States Code (as added by section 201 of this Act), shall become effective on November 1, 1972.
 
@@ -261,7 +261,7 @@
 
  __Study of Tuition Assistance Allowance Program Abuses__ 
 
-    [Pub. L. 93–508, title I, § 105][/us/pl/93/508/s105], Dec. 3, 1974, [88 Stat. 1581][/us/stat/88/1581], authorized the Administrator to study the potential administrative difficulties and abuses that would arise if some form of variable tuition assistance allowance program were enacted after consideration of past difficulties and abuses which arose after the Second World War and such difficulties and abuses as were being experienced by the Veterans’ Administration in managing certain current programs, and to report to the Congress and the President his findings and recommendations for legislative and administrative action no later than one year after Dec. 3, 1974.
+    [Pub. L. 93–508, title I][/us/pl/93/508/tI], § 105, Dec. 3, 1974, [88 Stat. 1581][/us/stat/88/1581], authorized the Administrator to study the potential administrative difficulties and abuses that would arise if some form of variable tuition assistance allowance program were enacted after consideration of past difficulties and abuses which arose after the Second World War and such difficulties and abuses as were being experienced by the Veterans’ Administration in managing certain current programs, and to report to the Congress and the President his findings and recommendations for legislative and administrative action no later than one year after Dec. 3, 1974.
 
  __Ex. Ord. No. 12020. Payment of Benefits When Schools Are Temporarily Closed To Conserve Energy__ 
 
@@ -284,115 +284,115 @@
 
 [/us/usc/t38/s5302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs5302
 [/us/usc/t38/s3014A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3014A
-[/us/pl/92/540/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F540%2Fs201
+[/us/pl/92/540/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F540%2FtII
 [/us/stat/86/1076]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1076
 [/us/pl/93/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F208
 [/us/stat/87/907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F907
-[/us/pl/93/508/s209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F508%2Fs209
+[/us/pl/93/508/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F508%2FtII
 [/us/stat/88/1584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1584
-[/us/pl/94/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F502
+[/us/pl/94/502/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F502%2FtV
 [/us/stat/90/2400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2400
-[/us/pl/96/466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F466
+[/us/pl/96/466/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F466%2FtIII
 [/us/stat/94/2198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2198
-[/us/pl/97/35/s2003/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2003%2Fc
+[/us/pl/97/35/tXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXX
 [/us/stat/95/782]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F782
-[/us/pl/97/295/s4/52]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295%2Fs4%2F52
+[/us/pl/97/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295
 [/us/stat/96/1308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1308
-[/us/pl/97/306/s205/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F306%2Fs205%2Fc
+[/us/pl/97/306/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F306%2FtII
 [/us/stat/96/1434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1434
-[/us/pl/99/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576
+[/us/pl/99/576/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2FtIII
 [/us/stat/100/3274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3274
-[/us/pl/100/689/s121/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F689%2Fs121%2Fa
+[/us/pl/100/689/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F689%2FtI
 [/us/stat/102/4173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4173
-[/us/pl/101/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237
+[/us/pl/101/237/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237%2FtIV
 [/us/stat/103/2085]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2085
-[/us/pl/102/40/s402/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs402%2Fd%2F1
+[/us/pl/102/40/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2FtIV
 [/us/stat/105/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F239
-[/us/pl/102/83/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fa
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F406
-[/us/pl/102/127/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F127%2Fs6%2Fa
+[/us/pl/102/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F127
 [/us/stat/105/622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F622
-[/us/pl/102/568/s314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F568%2Fs314
+[/us/pl/102/568/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F568%2FtIII
 [/us/stat/106/4333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4333
-[/us/pl/103/446/s605/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2Fs605%2Fa%2F2%2FB
+[/us/pl/103/446/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2FtVI
 [/us/stat/108/4672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4672
-[/us/pl/106/419/s121/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419%2Fs121%2Fa
+[/us/pl/106/419/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419%2FtI
 [/us/stat/114/1833]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1833
-[/us/pl/107/103/s104/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F103%2Fs104%2Fb
+[/us/pl/107/103/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F103%2FtI
 [/us/stat/115/981]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F981
-[/us/pl/109/233/s503/8/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F233%2Fs503%2F8%2FA
+[/us/pl/109/233/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F233%2FtV
 [/us/stat/120/416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F416
-[/us/pl/111/377/s206/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F377%2Fs206%2Fa
+[/us/pl/111/377/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F377%2FtII
 [/us/stat/124/4126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4126
 [/us/pl/111/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F377
 [/us/pl/109/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F233
 [/us/pl/107/103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F103
 [/us/pl/106/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419
-[/us/pl/103/446/s605/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2Fs605%2Fa%2F2%2FB
+[/us/pl/103/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446
 [/us/usc/t38/s3686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3686
-[/us/pl/103/446/s1201/i/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2Fs1201%2Fi%2F6
+[/us/pl/103/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446
 [/us/pl/102/568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F568
-[/us/pl/102/83/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fa
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/usc/t38/s1780]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1780
-[/us/pl/102/83/s5/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fc%2F1
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/pl/102/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F127
-[/us/pl/102/83/s5/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fc%2F1
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40
-[/us/pl/102/83/s5/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fc%2F1
-[/us/pl/101/237/s423/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237%2Fs423%2Fb%2F1%2FA
-[/us/pl/101/237/s412/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237%2Fs412%2Fa
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/101/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237
+[/us/pl/101/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237
 [/us/usc/t38/s1788/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1788%2Fa%2F7
 [/us/usc/t38/s1788/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1788%2Fa%2F7
 [/us/usc/t38/s1787]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1787
-[/us/pl/101/237/s423/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237%2Fs423%2Fb%2F1%2FA
-[/us/pl/101/237/s423/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237%2Fs423%2Fb%2F2
-[/us/pl/101/237/s423/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237%2Fs423%2Fb%2F1%2FA
-[/us/pl/101/237/s423/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237%2Fs423%2Fb%2F1%2FB
-[/us/pl/101/237/s423/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237%2Fs423%2Fb%2F1%2FA
-[/us/pl/101/237/s415/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237%2Fs415%2Fa
+[/us/pl/101/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237
+[/us/pl/101/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237
+[/us/pl/101/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237
+[/us/pl/101/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237
+[/us/pl/101/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237
+[/us/pl/101/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237
 [/us/pl/100/689]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F689
-[/us/pl/99/576/s315/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2Fs315%2Fa%2F1%2FA
+[/us/pl/99/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576
 [/us/usc/t38/s1788/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1788%2Fa%2F7
-[/us/pl/99/576/s315/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2Fs315%2Fa%2F1%2FB
+[/us/pl/99/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576
 [/us/usc/t38/s1788/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1788%2Fa%2F7
-[/us/pl/99/576/s701/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2Fs701%2F59
-[/us/pl/99/576/s316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2Fs316
-[/us/pl/97/295/s4/52/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295%2Fs4%2F52%2FA
-[/us/pl/97/306/s205/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F306%2Fs205%2Fc%2F1
-[/us/pl/97/295/s4/52/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295%2Fs4%2F52%2FB
-[/us/pl/97/306/s205/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F306%2Fs205%2Fc%2F2
-[/us/pl/97/295/s4/52/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295%2Fs4%2F52%2FC
+[/us/pl/99/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576
+[/us/pl/99/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576
+[/us/pl/97/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295
+[/us/pl/97/306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F306
+[/us/pl/97/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295
+[/us/pl/97/306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F306
+[/us/pl/97/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/pl/96/466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F466
-[/us/pl/96/466/s601/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F466%2Fs601%2Fc%2F1
-[/us/pl/96/466/s601/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F466%2Fs601%2Fc%2F2
-[/us/pl/96/466/s601/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F466%2Fs601%2Fc%2F3
-[/us/pl/96/466/s601/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F466%2Fs601%2Fc%2F4
-[/us/pl/96/466/s601/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F466%2Fs601%2Fd%2F1
-[/us/pl/96/466/s601/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F466%2Fs601%2Fd%2F2
-[/us/pl/96/466/s341/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F466%2Fs341%2Fb
+[/us/pl/96/466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F466
+[/us/pl/96/466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F466
+[/us/pl/96/466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F466
+[/us/pl/96/466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F466
+[/us/pl/96/466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F466
+[/us/pl/96/466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F466
+[/us/pl/96/466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F466
 [/us/pl/94/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F502
-[/us/pl/94/502/s513/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F502%2Fs513%2Fa%2F5
-[/us/pl/94/502/s513/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F502%2Fs513%2Fa%2F6
-[/us/pl/94/502/s513/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F502%2Fs513%2Fa%2F6
-[/us/pl/94/502/s513/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F502%2Fs513%2Fa%2F9
-[/us/pl/94/502/s513/a/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F502%2Fs513%2Fa%2F10
-[/us/pl/94/502/s513/a/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F502%2Fs513%2Fa%2F10
+[/us/pl/94/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F502
+[/us/pl/94/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F502
+[/us/pl/94/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F502
+[/us/pl/94/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F502
+[/us/pl/94/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F502
+[/us/pl/94/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F502
 [/us/pl/93/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F508
 [/us/pl/93/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F208
-[/us/pl/111/377/s206/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F377%2Fs206%2Fb
+[/us/pl/111/377/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F377%2FtII
 [/us/stat/124/4127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4127
 [/us/pl/107/103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F103
 [/us/pl/107/103/s104/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F103%2Fs104%2Fc
 [/us/usc/t38/s3014A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3014A
-[/us/pl/106/419/s121/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419%2Fs121%2Fb
+[/us/pl/106/419/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419%2FtI
 [/us/stat/114/1833]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1833
 [/us/pl/103/446/s605/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2Fs605%2Fa%2F2%2FB
 [/us/pl/103/446/s605/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2Fs605%2Fb
 [/us/usc/t38/s3672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3672
-[/us/pl/102/127/s6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F127%2Fs6%2Fb
+[/us/pl/102/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F127
 [/us/stat/105/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F623
-[/us/pl/100/689/s121/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F689%2Fs121%2Fb
+[/us/pl/100/689/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F689%2FtI
 [/us/stat/102/4174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4174
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/pl/97/35/s2006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2006
@@ -407,14 +407,14 @@
 [/us/pl/94/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F502
 [/us/pl/94/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F502
 [/us/usc/t38/s3693]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3693
-[/us/pl/94/502/s513/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F502%2Fs513%2Fb
+[/us/pl/94/502/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F502%2FtV
 [/us/stat/90/2404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2404
 [/us/pl/93/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F508
 [/us/pl/93/508/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F508%2Fs503
 [/us/usc/t38/s3452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3452
-[/us/pl/92/540/s603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F540%2Fs603
+[/us/pl/92/540/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F540%2FtVI
 [/us/stat/86/1099]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1099
-[/us/pl/93/508/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F508%2Fs105
+[/us/pl/93/508/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F508%2FtI
 [/us/stat/88/1581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1581
 
 

@@ -35,7 +35,7 @@
 
         (2) During the period beginning on the date of the enactment of the Department of Veterans Affairs Expiring Authorities Act of 2013 and ending 180 days after that date.
 
-(Added [Pub. L. 110–157, title III, § 301(b)(1)][/us/pl/110/157/s301/b/1], Dec. 26, 2007, [121 Stat. 1835][/us/stat/121/1835]; amended [Pub. L. 112–37, § 17(a)][/us/pl/112/37/s17/a], Oct. 5, 2011, [125 Stat. 398][/us/stat/125/398]; [Pub. L. 113–37, § 3(b)][/us/pl/113/37/s3/b], Sept. 30, 2013, [127 Stat. 525][/us/stat/127/525].)
+(Added [Pub. L. 110–157, title III][/us/pl/110/157/tIII], § 301(b)(1), Dec. 26, 2007, [121 Stat. 1835][/us/stat/121/1835]; amended [Pub. L. 112–37][/us/pl/112/37], § 17(a), Oct. 5, 2011, [125 Stat. 398][/us/stat/125/398]; [Pub. L. 113–37][/us/pl/113/37], § 3(b), Sept. 30, 2013, [127 Stat. 525][/us/stat/127/525].)
 
  __References in Text__ 
 
@@ -60,11 +60,11 @@
 ----------
 ----------
 
-[/us/pl/110/157/s301/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F157%2Fs301%2Fb%2F1
+[/us/pl/110/157/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F157%2FtIII
 [/us/stat/121/1835]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1835
-[/us/pl/112/37/s17/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F37%2Fs17%2Fa
+[/us/pl/112/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F37
 [/us/stat/125/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F398
-[/us/pl/113/37/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F37%2Fs3%2Fb
+[/us/pl/113/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F37
 [/us/stat/127/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F525
 [/us/usc/t42/s653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs653
 [/us/pl/113/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F37

@@ -23,7 +23,7 @@
 
     (3) The term “hospital”, unless otherwise specified, includes any Federal, State, local, or other public or private hospital.
 
-(Added [Pub. L. 89–785, title II, § 203][/us/pl/89/785/s203], Nov. 7, 1966, [80 Stat. 1373][/us/stat/80/1373], § 5052; renumbered § 8152, [Pub. L. 102–40, title IV, § 402(b)(1)][/us/pl/102/40/s402/b/1], May 7, 1991, [105 Stat. 238][/us/stat/105/238]; amended [Pub. L. 102–54, § 14(f)(8)][/us/pl/102/54/s14/f/8], June 13, 1991, [105 Stat. 288][/us/stat/105/288]; [Pub. L. 103–210, § 3(b)][/us/pl/103/210/s3/b], Dec. 20, 1993, [107 Stat. 2497][/us/stat/107/2497]; [Pub. L. 104–262, title III, § 301(b)][/us/pl/104/262/s301/b], Oct. 9, 1996, [110 Stat. 3191][/us/stat/110/3191]; [Pub. L. 107–135, title II, § 208(e)(8)][/us/pl/107/135/s208/e/8], Jan. 23, 2002, [115 Stat. 2464][/us/stat/115/2464].)
+(Added [Pub. L. 89–785, title II][/us/pl/89/785/tII], § 203, Nov. 7, 1966, [80 Stat. 1373][/us/stat/80/1373], § 5052; renumbered § 8152, [Pub. L. 102–40, title IV][/us/pl/102/40/tIV], § 402(b)(1), May 7, 1991, [105 Stat. 238][/us/stat/105/238]; amended [Pub. L. 102–54][/us/pl/102/54], § 14(f)(8), June 13, 1991, [105 Stat. 288][/us/stat/105/288]; [Pub. L. 103–210][/us/pl/103/210], § 3(b), Dec. 20, 1993, [107 Stat. 2497][/us/stat/107/2497]; [Pub. L. 104–262, title III][/us/pl/104/262/tIII], § 301(b), Oct. 9, 1996, [110 Stat. 3191][/us/stat/110/3191]; [Pub. L. 107–135, title II][/us/pl/107/135/tII], § 208(e)(8), Jan. 23, 2002, [115 Stat. 2464][/us/stat/115/2464].)
 
  __Amendments__ 
 
@@ -51,17 +51,17 @@
 ----------
 
 [/us/usc/t38/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1701
-[/us/pl/89/785/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F785%2Fs203
+[/us/pl/89/785/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F785%2FtII
 [/us/stat/80/1373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1373
-[/us/pl/102/40/s402/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs402%2Fb%2F1
+[/us/pl/102/40/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2FtIV
 [/us/stat/105/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F238
-[/us/pl/102/54/s14/f/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54%2Fs14%2Ff%2F8
+[/us/pl/102/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54
 [/us/stat/105/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F288
-[/us/pl/103/210/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F210%2Fs3%2Fb
+[/us/pl/103/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F210
 [/us/stat/107/2497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2497
-[/us/pl/104/262/s301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F262%2Fs301%2Fb
+[/us/pl/104/262/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F262%2FtIII
 [/us/stat/110/3191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3191
-[/us/pl/107/135/s208/e/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F135%2Fs208%2Fe%2F8
+[/us/pl/107/135/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F135%2FtII
 [/us/stat/115/2464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2464
 [/us/pl/107/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F135
 [/us/pl/104/262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F262

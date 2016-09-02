@@ -17,15 +17,15 @@
 
  __Prior Provisions__ 
 
-    A prior subchapter IV of this chapter consisted of sections 4141 and 4142 prior to amendment by [Pub. L. 102–40, title IV, § 401(c)(1)][/us/pl/102/40/s401/c/1], May 7, 1991, [105 Stat. 238][/us/stat/105/238], which struck out the subchapter heading “PAY FOR NURSES AND OTHER HEALTH-CARE PERSONNEL”, renumbered sections 4141 and 4142 as sections 7451 and 7452 of this title, respectively, and transferred those sections to subchapter IV of chapter 74 of this title.
+    A prior subchapter IV of this chapter consisted of sections 4141 and 4142 prior to amendment by [Pub. L. 102–40, title IV][/us/pl/102/40/tIV], § 401(c)(1), May 7, 1991, [105 Stat. 238][/us/stat/105/238], which struck out the subchapter heading “PAY FOR NURSES AND OTHER HEALTH-CARE PERSONNEL”, renumbered sections 4141 and 4142 as sections 7451 and 7452 of this title, respectively, and transferred those sections to subchapter IV of chapter 74 of this title.
 
-    A prior subchapter V of this chapter consisting of sections 4151 and 4152, related to quality assurance, prior to repeal by [Pub. L. 102–40, title IV, § 401(a)(2)(A)][/us/pl/102/40/s401/a/2/A], May 7, 1991, [105 Stat. 210][/us/stat/105/210]. See Prior Provisions notes set out under [section 4114 of this title][/us/usc/t38/s4114].
+    A prior subchapter V of this chapter consisting of sections 4151 and 4152, related to quality assurance, prior to repeal by [Pub. L. 102–40, title IV][/us/pl/102/40/tIV], § 401(a)(2)(A), May 7, 1991, [105 Stat. 210][/us/stat/105/210]. See Prior Provisions notes set out under [section 4114 of this title][/us/usc/t38/s4114].
 
     A prior subchapter VI of this chapter was redesignated as this subchapter.
 
  __Amendments__ 
 
-    1991—[Pub. L. 102–40, title IV, § 401(a)(2)(B)][/us/pl/102/40/s401/a/2/B], May 7, 1991, [105 Stat. 210][/us/stat/105/210], redesignated subchapter VI of this chapter as this subchapter. For disposition of former subchapter IV of this chapter, see Prior Provisions note above.
+    1991—[Pub. L. 102–40, title IV][/us/pl/102/40/tIV], § 401(a)(2)(B), May 7, 1991, [105 Stat. 210][/us/stat/105/210], redesignated subchapter VI of this chapter as this subchapter. For disposition of former subchapter IV of this chapter, see Prior Provisions note above.
 
 ----------
 
@@ -34,12 +34,12 @@
 ----------
 ----------
 
-[/us/pl/102/40/s401/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs401%2Fc%2F1
+[/us/pl/102/40/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2FtIV
 [/us/stat/105/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F238
-[/us/pl/102/40/s401/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs401%2Fa%2F2%2FA
+[/us/pl/102/40/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2FtIV
 [/us/stat/105/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F210
 [/us/usc/t38/s4114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs4114
-[/us/pl/102/40/s401/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs401%2Fa%2F2%2FB
+[/us/pl/102/40/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2FtIV
 [/us/stat/105/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F210
 
 

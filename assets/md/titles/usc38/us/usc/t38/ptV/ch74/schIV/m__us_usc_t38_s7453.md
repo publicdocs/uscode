@@ -79,7 +79,7 @@
 
             (B) may be made on a nationwide, local, or other geographic basis if the Secretary finds that such an increase is justified on the basis of a review of the need for such increase (based upon a reasonably representative sampling of non-Federal health-care facilities in the geographic area involved).
 
-(Added [Pub. L. 102–40, title IV, § 401(b)(4)][/us/pl/102/40/s401/b/4], May 7, 1991, [105 Stat. 232][/us/stat/105/232]; amended [Pub. L. 103–446, title XII, § 1201(e)(24)][/us/pl/103/446/s1201/e/24], (g)(6), Nov. 2, 1994, [108 Stat. 4686][/us/stat/108/4686], 4687; [Pub. L. 111–163, title VI, § 601(k)(1)][/us/pl/111/163/s601/k/1], May 5, 2010, [124 Stat. 1171][/us/stat/124/1171].)
+(Added [Pub. L. 102–40, title IV][/us/pl/102/40/tIV], § 401(b)(4), May 7, 1991, [105 Stat. 232][/us/stat/105/232]; amended [Pub. L. 103–446, title XII][/us/pl/103/446/tXII], § 1201(e)(24), (g)(6), Nov. 2, 1994, [108 Stat. 4686][/us/stat/108/4686], 4687; [Pub. L. 111–163, title VI][/us/pl/111/163/tVI], § 601(k)(1), May 5, 2010, [124 Stat. 1171][/us/stat/124/1171].)
 
  __Prior Provisions__ 
 
@@ -87,19 +87,19 @@
 
  __Amendments__ 
 
-    2010—Subsec. (a). [Pub. L. 111–163, § 601(k)(1)(A)][/us/pl/111/163/s601/k/1/A], substituted “a full-time nurse or part-time nurse” for “a nurse”.
+    2010—Subsec. (a). [Pub. L. 111–163][/us/pl/111/163], § 601(k)(1)(A), substituted “a full-time nurse or part-time nurse” for “a nurse”.
 
-    Subsec. (b). [Pub. L. 111–163, § 601(k)(1)(B)][/us/pl/111/163/s601/k/1/B], struck out “on a tour of duty” after “performing service” and substituted “hour of such service” for “hour of service on such tour”, “at least four hours of such service” for “at least four hours of such tour”, and “less than four hours of such service” for “less than four hours of such tour”.
+    Subsec. (b). [Pub. L. 111–163][/us/pl/111/163], § 601(k)(1)(B), struck out “on a tour of duty” after “performing service” and substituted “hour of such service” for “hour of service on such tour”, “at least four hours of such service” for “at least four hours of such tour”, and “less than four hours of such service” for “less than four hours of such tour”.
 
-    Subsec. (c). [Pub. L. 111–163, § 601(k)(1)(C)][/us/pl/111/163/s601/k/1/C], struck out “on a tour of duty” after “performing service” and substituted “such service” for “service on such tour”.
+    Subsec. (c). [Pub. L. 111–163][/us/pl/111/163], § 601(k)(1)(C), struck out “on a tour of duty” after “performing service” and substituted “such service” for “service on such tour”.
 
-    Subsec. (e)(1). [Pub. L. 111–163, § 601(k)(1)(D)(i)][/us/pl/111/163/s601/k/1/D/i], substituted “eight consecutive hours” for “eight hours in a day”.
+    Subsec. (e)(1). [Pub. L. 111–163][/us/pl/111/163], § 601(k)(1)(D)(i), substituted “eight consecutive hours” for “eight hours in a day”.
 
-    Subsec. (e)(5)(A). [Pub. L. 111–163, § 601(k)(1)(D)(ii)][/us/pl/111/163/s601/k/1/D/ii], substituted “period of service” for “tour of duty”.
+    Subsec. (e)(5)(A). [Pub. L. 111–163][/us/pl/111/163], § 601(k)(1)(D)(ii), substituted “period of service” for “tour of duty”.
 
-    1994—Subsecs. (f), (g). [Pub. L. 103–446, § 1201(e)(24)][/us/pl/103/446/s1201/e/24], substituted “subsection (b), (c), (d), or (e)” for “subsections (b), (c), (d), or (e)”.
+    1994—Subsecs. (f), (g). [Pub. L. 103–446][/us/pl/103/446], § 1201(e)(24), substituted “subsection (b), (c), (d), or (e)” for “subsections (b), (c), (d), or (e)”.
 
-    Subsec. (i)(3). [Pub. L. 103–446, § 1201(g)(6)][/us/pl/103/446/s1201/g/6], struck out “of title 5” before period at end.
+    Subsec. (i)(3). [Pub. L. 103–446][/us/pl/103/446], § 1201(g)(6), struck out “of title 5” before period at end.
 
 ----------
 
@@ -108,20 +108,20 @@
 ----------
 ----------
 
-[/us/pl/102/40/s401/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs401%2Fb%2F4
+[/us/pl/102/40/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2FtIV
 [/us/stat/105/232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F232
-[/us/pl/103/446/s1201/e/24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2Fs1201%2Fe%2F24
+[/us/pl/103/446/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2FtXII
 [/us/stat/108/4686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4686
-[/us/pl/111/163/s601/k/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163%2Fs601%2Fk%2F1
+[/us/pl/111/163/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163%2FtVI
 [/us/stat/124/1171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1171
 [/us/usc/t38/s4107/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs4107%2Fe
 [/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40
-[/us/pl/111/163/s601/k/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163%2Fs601%2Fk%2F1%2FA
-[/us/pl/111/163/s601/k/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163%2Fs601%2Fk%2F1%2FB
-[/us/pl/111/163/s601/k/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163%2Fs601%2Fk%2F1%2FC
-[/us/pl/111/163/s601/k/1/D/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163%2Fs601%2Fk%2F1%2FD%2Fi
-[/us/pl/111/163/s601/k/1/D/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163%2Fs601%2Fk%2F1%2FD%2Fii
-[/us/pl/103/446/s1201/e/24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2Fs1201%2Fe%2F24
-[/us/pl/103/446/s1201/g/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2Fs1201%2Fg%2F6
+[/us/pl/111/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163
+[/us/pl/111/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163
+[/us/pl/111/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163
+[/us/pl/111/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163
+[/us/pl/111/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163
+[/us/pl/103/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446
+[/us/pl/103/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446
 
 

@@ -55,17 +55,17 @@
 
     (d) As used in this section, the term “mandate”, in case a mandate has been recalled before the expiration of 30 days from the date of issuance thereof, means the final mandate.
 
-(Added [Pub. L. 100–687, div. A, title III, § 301(a)][/us/pl/100/687/s301/a], Nov. 18, 1988, [102 Stat. 4119][/us/stat/102/4119], § 4091; renumbered § 7291 and amended [Pub. L. 102–40, title IV, § 402(b)(1)][/us/pl/102/40/s402/b/1], (d)(1), May 7, 1991, [105 Stat. 238][/us/stat/105/238], 239; [Pub. L. 102–83, § 4(b)(1)][/us/pl/102/83/s4/b/1], (2)(E), Aug. 6, 1991, [105 Stat. 404][/us/stat/105/404], 405; [Pub. L. 105–368, title V, § 512(a)(1)][/us/pl/105/368/s512/a/1], (2)(B), Nov. 11, 1998, [112 Stat. 3341][/us/stat/112/3341].)
+(Added [Pub. L. 100–687, div. A, title III][/us/pl/100/687/dA/tIII], § 301(a), Nov. 18, 1988, [102 Stat. 4119][/us/stat/102/4119], § 4091; renumbered § 7291 and amended [Pub. L. 102–40, title IV][/us/pl/102/40/tIV], § 402(b)(1), (d)(1), May 7, 1991, [105 Stat. 238][/us/stat/105/238], 239; [Pub. L. 102–83][/us/pl/102/83], § 4(b)(1), (2)(E), Aug. 6, 1991, [105 Stat. 404][/us/stat/105/404], 405; [Pub. L. 105–368, title V][/us/pl/105/368/tV], § 512(a)(1), (2)(B), Nov. 11, 1998, [112 Stat. 3341][/us/stat/112/3341].)
 
  __Amendments__ 
 
-    1998—[Pub. L. 105–368, § 512(a)(2)(B)][/us/pl/105/368/s512/a/2/B], substituted “Court decision” for “United States Court of Veterans Appeals decision” in section catchline.
+    1998—[Pub. L. 105–368][/us/pl/105/368], § 512(a)(2)(B), substituted “Court decision” for “United States Court of Veterans Appeals decision” in section catchline.
 
-    Subsecs. (a) to (c). [Pub. L. 105–368, § 512(a)(1)][/us/pl/105/368/s512/a/1], substituted “Court of Appeals for Veterans Claims” for “Court of Veterans Appeals” wherever appearing.
+    Subsecs. (a) to (c). [Pub. L. 105–368][/us/pl/105/368], § 512(a)(1), substituted “Court of Appeals for Veterans Claims” for “Court of Veterans Appeals” wherever appearing.
 
-    1991—[Pub. L. 102–40, § 402(b)(1)][/us/pl/102/40/s402/b/1], renumbered [section 4091 of this title][/us/usc/t38/s4091] as this section.
+    1991—[Pub. L. 102–40][/us/pl/102/40], § 402(b)(1), renumbered [section 4091 of this title][/us/usc/t38/s4091] as this section.
 
-    Subsec. (a). [Pub. L. 102–40, § 402(d)(1)][/us/pl/102/40/s402/d/1], substituted “7292” for “4092” in introductory provisions.
+    Subsec. (a). [Pub. L. 102–40][/us/pl/102/40], § 402(d)(1), substituted “7292” for “4092” in introductory provisions.
 
     Subsec. (b). [Pub. L. 102–83][/us/pl/102/83] substituted “Secretary” for “Administrator” in pars. (1) and (2).
 
@@ -81,19 +81,19 @@
 ----------
 
 [/us/usc/t38/s7292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7292
-[/us/pl/100/687/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F687%2Fs301%2Fa
+[/us/pl/100/687/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F687%2FdA%2FtIII
 [/us/stat/102/4119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4119
-[/us/pl/102/40/s402/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs402%2Fb%2F1
+[/us/pl/102/40/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2FtIV
 [/us/stat/105/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F238
-[/us/pl/102/83/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fb%2F1
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F404
-[/us/pl/105/368/s512/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2Fs512%2Fa%2F1
+[/us/pl/105/368/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2FtV
 [/us/stat/112/3341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3341
-[/us/pl/105/368/s512/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2Fs512%2Fa%2F2%2FB
-[/us/pl/105/368/s512/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2Fs512%2Fa%2F1
-[/us/pl/102/40/s402/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs402%2Fb%2F1
+[/us/pl/105/368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368
+[/us/pl/105/368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368
+[/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40
 [/us/usc/t38/s4091]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs4091
-[/us/pl/102/40/s402/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs402%2Fd%2F1
+[/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40
 [/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/pl/105/368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368
 [/us/pl/105/368/s513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2Fs513

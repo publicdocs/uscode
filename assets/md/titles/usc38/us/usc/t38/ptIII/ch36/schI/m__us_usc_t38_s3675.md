@@ -75,17 +75,17 @@
 
         (4) Notwithstanding paragraph (3), a qualified provider of entrepreneurship courses shall maintain such records as the Secretary determines to be necessary to comply with reporting requirements that apply under [section 3684(a)(1) of this title][/us/usc/t38/s3684/a/1] with respect to eligible persons and veterans enrolled in an entrepreneurship course offered by the provider.
 
-(Added [Pub. L. 88–126, § 1][/us/pl/88/126/s1], Sept. 23, 1963, [77 Stat. 159][/us/stat/77/159], § 1775; amended [Pub. L. 89–358, § 3(a)(8)][/us/pl/89/358/s3/a/8], Mar. 3, 1966, [80 Stat. 21][/us/stat/80/21]; [Pub. L. 94–502, title V][/us/pl/94/502], §§ 504, 513(a)(2), Oct. 15, 1976, [90 Stat. 2399][/us/stat/90/2399], 2402; [Pub. L. 96–466, title VIII, § 801(d)][/us/pl/96/466/s801/d], Oct. 17, 1980, [94 Stat. 2216][/us/stat/94/2216]; [Pub. L. 101–237, title IV, § 423(b)(1)(A)][/us/pl/101/237/s423/b/1/A], Dec. 18, 1989, [103 Stat. 2092][/us/stat/103/2092]; renumbered § 3675 and amended [Pub. L. 102–83, § 5(a)][/us/pl/102/83/s5/a], (c)(1), Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406]; [Pub. L. 102–568, title III, § 312][/us/pl/102/568/s312], Oct. 29, 1992, [106 Stat. 4330][/us/stat/106/4330]; [Pub. L. 103–446, title VI, § 605(a)(2)(A)][/us/pl/103/446/s605/a/2/A], Nov. 2, 1994, [108 Stat. 4672][/us/stat/108/4672]; [Pub. L. 104–275, title I, § 103(c)][/us/pl/104/275/s103/c], Oct. 9, 1996, [110 Stat. 3326][/us/stat/110/3326]; [Pub. L. 108–183, title III, § 305(a)][/us/pl/108/183/s305/a], Dec. 16, 2003, [117 Stat. 2660][/us/stat/117/2660]; [Pub. L. 108–454, title I, § 110(c)(1)][/us/pl/108/454/s110/c/1], Dec. 10, 2004, [118 Stat. 3605][/us/stat/118/3605]; [Pub. L. 111–377, title II, § 203(c)][/us/pl/111/377/s203/c], Jan. 4, 2011, [124 Stat. 4125][/us/stat/124/4125].)
+(Added [Pub. L. 88–126][/us/pl/88/126], § 1, Sept. 23, 1963, [77 Stat. 159][/us/stat/77/159], § 1775; amended [Pub. L. 89–358][/us/pl/89/358], § 3(a)(8), Mar. 3, 1966, [80 Stat. 21][/us/stat/80/21]; [Pub. L. 94–502, title V][/us/pl/94/502/tV], §§ 504, 513(a)(2), Oct. 15, 1976, [90 Stat. 2399][/us/stat/90/2399], 2402; [Pub. L. 96–466, title VIII][/us/pl/96/466/tVIII], § 801(d), Oct. 17, 1980, [94 Stat. 2216][/us/stat/94/2216]; [Pub. L. 101–237, title IV][/us/pl/101/237/tIV], § 423(b)(1)(A), Dec. 18, 1989, [103 Stat. 2092][/us/stat/103/2092]; renumbered § 3675 and amended [Pub. L. 102–83][/us/pl/102/83], § 5(a), (c)(1), Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406]; [Pub. L. 102–568, title III][/us/pl/102/568/tIII], § 312, Oct. 29, 1992, [106 Stat. 4330][/us/stat/106/4330]; [Pub. L. 103–446, title VI][/us/pl/103/446/tVI], § 605(a)(2)(A), Nov. 2, 1994, [108 Stat. 4672][/us/stat/108/4672]; [Pub. L. 104–275, title I][/us/pl/104/275/tI], § 103(c), Oct. 9, 1996, [110 Stat. 3326][/us/stat/110/3326]; [Pub. L. 108–183, title III][/us/pl/108/183/tIII], § 305(a), Dec. 16, 2003, [117 Stat. 2660][/us/stat/117/2660]; [Pub. L. 108–454, title I][/us/pl/108/454/tI], § 110(c)(1), Dec. 10, 2004, [118 Stat. 3605][/us/stat/118/3605]; [Pub. L. 111–377, title II][/us/pl/111/377/tII], § 203(c), Jan. 4, 2011, [124 Stat. 4125][/us/stat/124/4125].)
 
  __References in Text__ 
 
-    Act of February 23, 1917, referred to in subsec. (a)(1)(B), is [act Feb. 23, 1917, ch. 114][/us/act/1917-02-23/ch114], [39 Stat. 929][/us/stat/39/929], as amended, known as the Smith-Hughes Vocational Education Act, which was classified to sections 11 to 15 and 16 to 28 of Title 20, Education, prior to repeal by [Pub. L. 105–33, title VI, § 6201][/us/pl/105/33/s6201], Aug. 5, 1997, [111 Stat. 653][/us/stat/111/653]. For complete classification of this Act to the Code, see Short Title note set out under [section 11 of Title 20][/us/usc/t20/s11] and Tables.
+    Act of February 23, 1917, referred to in subsec. (a)(1)(B), is [act Feb. 23, 1917, ch. 114][/us/act/1917-02-23/ch114], [39 Stat. 929][/us/stat/39/929], as amended, known as the Smith-Hughes Vocational Education Act, which was classified to sections 11 to 15 and 16 to 28 of Title 20, Education, prior to repeal by [Pub. L. 105–33, title VI][/us/pl/105/33/tVI], § 6201, Aug. 5, 1997, [111 Stat. 653][/us/stat/111/653]. For complete classification of this Act to the Code, see Short Title note set out under [section 11 of Title 20][/us/usc/t20/s11] and Tables.
 
  __Amendments__ 
 
-    2011—Subsec. (a)(1). [Pub. L. 111–377, § 203(c)(1)][/us/pl/111/377/s203/c/1], substituted “The Secretary or a State approving agency may approve accredited programs (including non-degree accredited programs) offered by proprietary for-profit educational institutions” for “A State approving agency may approve the courses offered by an educational institution” in introductory provisions.
+    2011—Subsec. (a)(1). [Pub. L. 111–377][/us/pl/111/377], § 203(c)(1), substituted “The Secretary or a State approving agency may approve accredited programs (including non-degree accredited programs) offered by proprietary for-profit educational institutions” for “A State approving agency may approve the courses offered by an educational institution” in introductory provisions.
 
-    Subsec. (b). [Pub. L. 111–377, § 203(c)(2)][/us/pl/111/377/s203/c/2], inserted “the Secretary or” after “this section,” in introductory provisions and after “as prescribed by” in par. (1).
+    Subsec. (b). [Pub. L. 111–377][/us/pl/111/377], § 203(c)(2), inserted “the Secretary or” after “this section,” in introductory provisions and after “as prescribed by” in par. (1).
 
     2004—Subsec. (c)(4). [Pub. L. 108–454][/us/pl/108/454] added par. (4).
 
@@ -97,21 +97,21 @@
 
     1992—Subsec. (a). [Pub. L. 102–568][/us/pl/102/568] designated existing provisions as par. (1), redesignated former par. (1) as subpar. (A), redesignated former par. (2) as subpar. (B), substituted “the Act of February 23, 1917 ([20 U.S.C. 11][/us/usc/t20/s11] et seq.);” for “sections 11–28 of title 20; or”, redesignated former par. (3) as subpar. (C), added subpar. (D) and pars. (2) and (3), and struck out former concluding provisions which read as follows: “For the purposes of this chapter the Secretary of Education shall publish a list of nationally recognized accrediting agencies and associations which the Secretary determines to be reliable authority as to the quality of training offered by an educational institution and the State approving agencies may, upon concurrence, utilize the accreditation of such accrediting associations or agencies for approval of the courses specifically accredited and approved by such accrediting association or agency. In making application for approval, the institution shall transmit to the State approving agency copies of its catalog or bulletin which must be certified as true and correct in content and policy by an authorized representative of the school. The catalog or bulletin must specifically state its progress requirements for graduation and must include as a minimum the information required by sections 3676(b)(6) and (7) of this title.”
 
-    1991—[Pub. L. 102–83, § 5(a)][/us/pl/102/83/s5/a], renumbered [section 1775 of this title][/us/usc/t38/s1775] as this section.
+    1991—[Pub. L. 102–83][/us/pl/102/83], § 5(a), renumbered [section 1775 of this title][/us/usc/t38/s1775] as this section.
 
-    Subsec. (a). [Pub. L. 102–83, § 5(c)(1)][/us/pl/102/83/s5/c/1], substituted “3676(b)(6)” for “1776(b)(6)” in last sentence.
+    Subsec. (a). [Pub. L. 102–83][/us/pl/102/83], § 5(c)(1), substituted “3676(b)(6)” for “1776(b)(6)” in last sentence.
 
-    Subsec. (b). [Pub. L. 102–83, § 5(c)(1)][/us/pl/102/83/s5/c/1], substituted “3676(c)(7)” for “1776(c)(7)”.
+    Subsec. (b). [Pub. L. 102–83][/us/pl/102/83], § 5(c)(1), substituted “3676(c)(7)” for “1776(c)(7)”.
 
     1989—Subsec. (b). [Pub. L. 101–237][/us/pl/101/237] substituted “Secretary” for “Administrator”.
 
     1980—Subsec. (a). [Pub. L. 96–466][/us/pl/96/466] substituted “Secretary” for “Commissioner” in two places.
 
-    1976—Subsec. (a). [Pub. L. 94–502, § 513(a)(2)][/us/pl/94/502/s513/a/2], substituted “the Commissioner determines” for “he determines”.
+    1976—Subsec. (a). [Pub. L. 94–502][/us/pl/94/502], § 513(a)(2), substituted “the Commissioner determines” for “he determines”.
 
-    [Pub. L. 94–502, § 504(1)][/us/pl/94/502/s504/1], inserted provision requiring that copies of the school bulletin be certified by an authorized representative of the school and that the bulletin specify the progress requirements for graduation and certain other information.
+    [Pub. L. 94–502][/us/pl/94/502], § 504(1), inserted provision requiring that copies of the school bulletin be certified by an authorized representative of the school and that the bulletin specify the progress requirements for graduation and certain other information.
 
-    Subsec. (b). [Pub. L. 94–502, § 504(2)][/us/pl/94/502/s504/2], inserted provision requiring that school records contain as a minimum, except for attendance, the requirements set forth in [section 1776(c)(7) of this title][/us/usc/t38/s1776/c/7].
+    Subsec. (b). [Pub. L. 94–502][/us/pl/94/502], § 504(2), inserted provision requiring that school records contain as a minimum, except for attendance, the requirements set forth in [section 1776(c)(7) of this title][/us/usc/t38/s1776/c/7].
 
     1966—Subsec. (b). [Pub. L. 89–358][/us/pl/89/358] inserted “or veteran” after “eligible person” in three places.
 
@@ -121,7 +121,7 @@
 
  __Effective Date of 2004 Amendment__ 
 
-[Pub. L. 108–454, title I, § 110(c)(2)][/us/pl/108/454/s110/c/2], Dec. 10, 2004, [118 Stat. 3605][/us/stat/118/3605], provided that: 
+[Pub. L. 108–454, title I][/us/pl/108/454/tI], § 110(c)(2), Dec. 10, 2004, [118 Stat. 3605][/us/stat/118/3605], provided that: 
 
 > “The amendment made by paragraph (1) \[amending this section\] shall take effect as if included in the enactment of section 305(a) of the Veterans Benefits Act of 2003 ([Public Law 108–183][/us/pl/108/183]; [117 Stat. 2660][/us/stat/117/2660]).”
 
@@ -155,37 +155,37 @@
 [/us/usc/t38/s3676/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3676%2Fc
 [/us/usc/t15/s632/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs632%2Fa
 [/us/usc/t38/s3684/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3684%2Fa%2F1
-[/us/pl/88/126/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F126%2Fs1
+[/us/pl/88/126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F126
 [/us/stat/77/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F159
-[/us/pl/89/358/s3/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F358%2Fs3%2Fa%2F8
+[/us/pl/89/358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F358
 [/us/stat/80/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F21
-[/us/pl/94/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F502
+[/us/pl/94/502/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F502%2FtV
 [/us/stat/90/2399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2399
-[/us/pl/96/466/s801/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F466%2Fs801%2Fd
+[/us/pl/96/466/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F466%2FtVIII
 [/us/stat/94/2216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2216
-[/us/pl/101/237/s423/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237%2Fs423%2Fb%2F1%2FA
+[/us/pl/101/237/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237%2FtIV
 [/us/stat/103/2092]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2092
-[/us/pl/102/83/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fa
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F406
-[/us/pl/102/568/s312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F568%2Fs312
+[/us/pl/102/568/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F568%2FtIII
 [/us/stat/106/4330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4330
-[/us/pl/103/446/s605/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2Fs605%2Fa%2F2%2FA
+[/us/pl/103/446/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2FtVI
 [/us/stat/108/4672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4672
-[/us/pl/104/275/s103/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275%2Fs103%2Fc
+[/us/pl/104/275/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275%2FtI
 [/us/stat/110/3326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3326
-[/us/pl/108/183/s305/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F183%2Fs305%2Fa
+[/us/pl/108/183/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F183%2FtIII
 [/us/stat/117/2660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2660
-[/us/pl/108/454/s110/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F454%2Fs110%2Fc%2F1
+[/us/pl/108/454/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F454%2FtI
 [/us/stat/118/3605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3605
-[/us/pl/111/377/s203/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F377%2Fs203%2Fc
+[/us/pl/111/377/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F377%2FtII
 [/us/stat/124/4125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4125
 [/us/act/1917-02-23/ch114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-02-23%2Fch114
 [/us/stat/39/929]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F929
-[/us/pl/105/33/s6201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs6201
+[/us/pl/105/33/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2FtVI
 [/us/stat/111/653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F653
 [/us/usc/t20/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs11
-[/us/pl/111/377/s203/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F377%2Fs203%2Fc%2F1
-[/us/pl/111/377/s203/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F377%2Fs203%2Fc%2F2
+[/us/pl/111/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F377
+[/us/pl/111/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F377
 [/us/pl/108/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F454
 [/us/pl/108/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F183
 [/us/pl/104/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275
@@ -194,21 +194,21 @@
 [/us/usc/t38/s3672/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3672%2Fe
 [/us/pl/102/568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F568
 [/us/usc/t20/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs11
-[/us/pl/102/83/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fa
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/usc/t38/s1775]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1775
-[/us/pl/102/83/s5/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fc%2F1
-[/us/pl/102/83/s5/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fc%2F1
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/pl/101/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237
 [/us/pl/96/466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F466
-[/us/pl/94/502/s513/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F502%2Fs513%2Fa%2F2
-[/us/pl/94/502/s504/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F502%2Fs504%2F1
-[/us/pl/94/502/s504/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F502%2Fs504%2F2
+[/us/pl/94/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F502
+[/us/pl/94/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F502
+[/us/pl/94/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F502
 [/us/usc/t38/s1776/c/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1776%2Fc%2F7
 [/us/pl/89/358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F358
 [/us/pl/111/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F377
 [/us/pl/111/377/s203/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F377%2Fs203%2Fe
 [/us/usc/t38/s3034]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3034
-[/us/pl/108/454/s110/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F454%2Fs110%2Fc%2F2
+[/us/pl/108/454/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F454%2FtI
 [/us/stat/118/3605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3605
 [/us/pl/108/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F183
 [/us/stat/117/2660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2660

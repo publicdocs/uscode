@@ -49,7 +49,7 @@
 
         The period for which, by reason of this subsection, educational assistance is not charged against entitlement or counted toward the applicable aggregate period under [section 3695 of this title][/us/usc/t38/s3695] shall not exceed the portion of the period of enrollment in the course or courses from which the individual failed to receive credit or with respect to which the individual lost training time, as determined under paragraph (2)(B).
 
-(Added [Pub. L. 110–252, title V, § 5003(a)(1)][/us/pl/110/252/s5003/a/1], June 30, 2008, [122 Stat. 2362][/us/stat/122/2362].)
+(Added [Pub. L. 110–252, title V][/us/pl/110/252/tV], § 5003(a)(1), June 30, 2008, [122 Stat. 2362][/us/stat/122/2362].)
 
 ----------
 
@@ -59,7 +59,7 @@
 ----------
 
 [/us/usc/t38/s3695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3695
-[/us/pl/110/252/s5003/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F252%2Fs5003%2Fa%2F1
+[/us/pl/110/252/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F252%2FtV
 [/us/stat/122/2362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2362
 
 

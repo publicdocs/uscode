@@ -145,7 +145,7 @@
 
         (3) An amount may not be recovered under paragraph (1) as an unused grant amount before the end of the three-year period beginning on the date on which the grant is made.
 
-(Added [Pub. L. 107–95, § 5(a)(1)][/us/pl/107/95/s5/a/1], Dec. 21, 2001, [115 Stat. 906][/us/stat/115/906]; amended [Pub. L. 109–444][/us/pl/109/444], §§ 2(b), 8(a)(4), Dec. 21, 2006, [120 Stat. 3304][/us/stat/120/3304], 3313; [Pub. L. 109–461, title VII, § 703(a)][/us/pl/109/461/s703/a], title X, §§ 1004(a)(4), 1006(b), Dec. 22, 2006, [120 Stat. 3440][/us/stat/120/3440], 3465, 3468; [Pub. L. 112–154, title III, § 301(a)][/us/pl/112/154/s301/a], Aug. 6, 2012, [126 Stat. 1182][/us/stat/126/1182].)
+(Added [Pub. L. 107–95][/us/pl/107/95], § 5(a)(1), Dec. 21, 2001, [115 Stat. 906][/us/stat/115/906]; amended [Pub. L. 109–444][/us/pl/109/444], §§ 2(b), 8(a)(4), Dec. 21, 2006, [120 Stat. 3304][/us/stat/120/3304], 3313; [Pub. L. 109–461, title VII][/us/pl/109/461/tVII], § 703(a), title X, §§ 1004(a)(4), 1006(b), Dec. 22, 2006, [120 Stat. 3440][/us/stat/120/3440], 3465, 3468; [Pub. L. 112–154, title III][/us/pl/112/154/tIII], § 301(a), Aug. 6, 2012, [126 Stat. 1182][/us/stat/126/1182].)
 
  __References in Text__ 
 
@@ -159,23 +159,23 @@
 
  __Amendments__ 
 
-    2012—Subsec. (b)(1)(A). [Pub. L. 112–154, § 301(a)(1)][/us/pl/112/154/s301/a/1], substituted “new construction of facilities, expansion, remodeling, or alteration of existing facilities, or acquisition of facilities,” for “expansion, remodeling, or alteration of existing buildings, or acquisition of facilities,”.
+    2012—Subsec. (b)(1)(A). [Pub. L. 112–154][/us/pl/112/154], § 301(a)(1), substituted “new construction of facilities, expansion, remodeling, or alteration of existing facilities, or acquisition of facilities,” for “expansion, remodeling, or alteration of existing buildings, or acquisition of facilities,”.
 
-    Subsec. (c). [Pub. L. 112–154, § 301(a)(2)][/us/pl/112/154/s301/a/2], designated first sentence as par. (1) and second sentence as par. (2) and added par. (3).
+    Subsec. (c). [Pub. L. 112–154][/us/pl/112/154], § 301(a)(2), designated first sentence as par. (1) and second sentence as par. (2) and added par. (3).
 
-    2006—Subsec. (a). [Pub. L. 109–461, § 1006(b)][/us/pl/109/461/s1006/b], provided that as of the enactment of [Pub. L. 109–461][/us/pl/109/461], the amendments made by [Pub. L. 109–444][/us/pl/109/444] were deemed for all purposes not to have taken effect and that [Pub. L. 109–444][/us/pl/109/444] ceased to be in effect. See Amendment notes below and [section 1006(b) of Pub. L. 109–461][/us/pl/109/461/s1006/b], set out as a Coordination of Provisions With [Pub. L. 109–444][/us/pl/109/444] note under [section 101 of this title][/us/usc/t38/s101].
+    2006—Subsec. (a). [Pub. L. 109–461][/us/pl/109/461], § 1006(b), provided that as of the enactment of [Pub. L. 109–461][/us/pl/109/461], the amendments made by [Pub. L. 109–444][/us/pl/109/444] were deemed for all purposes not to have taken effect and that [Pub. L. 109–444][/us/pl/109/444] ceased to be in effect. See Amendment notes below and [section 1006(b) of Pub. L. 109–461][/us/pl/109/461/s1006/b], set out as a Coordination of Provisions With [Pub. L. 109–444][/us/pl/109/444] note under [section 101 of this title][/us/usc/t38/s101].
 
-    [Pub. L. 109–461, § 1004(a)(4)][/us/pl/109/461/s1004/a/4], which directed insertion of a period at end of subpar. (C) of par. (1), was executed to par. (3) to reflect the probable intent of Congress and the redesignation of par. (1)(C) as (3) by [Pub. L. 109–461, § 703(a)][/us/pl/109/461/s703/a]. See below.
+    [Pub. L. 109–461][/us/pl/109/461], § 1004(a)(4), which directed insertion of a period at end of subpar. (C) of par. (1), was executed to par. (3) to reflect the probable intent of Congress and the redesignation of par. (1)(C) as (3) by [Pub. L. 109–461][/us/pl/109/461], § 703(a). See below.
 
-    [Pub. L. 109–461, § 703(a)][/us/pl/109/461/s703/a], struck out par. (1) designation before “Subject”, redesignated subpars. (A) to (D) of former par. (1) as pars. (1) to (4), respectively, and struck out former par. (2), which read as follows: “The authority of the Secretary to make grants under this section expires on September 30, 2005.”
+    [Pub. L. 109–461][/us/pl/109/461], § 703(a), struck out par. (1) designation before “Subject”, redesignated subpars. (A) to (D) of former par. (1) as pars. (1) to (4), respectively, and struck out former par. (2), which read as follows: “The authority of the Secretary to make grants under this section expires on September 30, 2005.”
 
-    [Pub. L. 109–444, § 8(a)(4)][/us/pl/109/444/s8/a/4], which inserted period at end of subpar. (C) of par. (1), was terminated by [Pub. L. 109–461, § 1006(b)][/us/pl/109/461/s1006/b]. See Amendment notes above.
+    [Pub. L. 109–444][/us/pl/109/444], § 8(a)(4), which inserted period at end of subpar. (C) of par. (1), was terminated by [Pub. L. 109–461][/us/pl/109/461], § 1006(b). See Amendment notes above.
 
-    Subsec. (a)(2). [Pub. L. 109–444, § 2(b)][/us/pl/109/444/s2/b], which substituted “September 30, 2007” for “September 30, 2005”, was terminated by [Pub. L. 109–461, § 1006(b)][/us/pl/109/461/s1006/b]. See Amendment notes above.
+    Subsec. (a)(2). [Pub. L. 109–444][/us/pl/109/444], § 2(b), which substituted “September 30, 2007” for “September 30, 2005”, was terminated by [Pub. L. 109–461][/us/pl/109/461], § 1006(b). See Amendment notes above.
 
  __Grant and Per Diem Payments__ 
 
-[Pub. L. 112–154, title III, § 301(b)][/us/pl/112/154/s301/b], Aug. 6, 2012, [126 Stat. 1183][/us/stat/126/1183], provided that:
+[Pub. L. 112–154, title III][/us/pl/112/154/tIII], § 301(b), Aug. 6, 2012, [126 Stat. 1183][/us/stat/126/1183], provided that:
 
 >     “(1)  __Study and development of fiscal controls and payment method__  __.—__ 
 
@@ -203,7 +203,7 @@
 
  __Continuation of Authority__ 
 
-[Pub. L. 109–114, title II, § 230][/us/pl/109/114/s230], Nov. 30, 2005, [119 Stat. 2393][/us/stat/119/2393], provided that: 
+[Pub. L. 109–114, title II][/us/pl/109/114/tII], § 230, Nov. 30, 2005, [119 Stat. 2393][/us/stat/119/2393], provided that: 
 
 > “The authority provided by [section 2011 of title 38][/us/usc/t38/s2011], United States Code, shall continue in effect through September 30, 2006.”
 
@@ -215,37 +215,37 @@
 ----------
 
 [/us/usc/t38/s2012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs2012
-[/us/pl/107/95/s5/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F95%2Fs5%2Fa%2F1
+[/us/pl/107/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F95
 [/us/stat/115/906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F906
 [/us/pl/109/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F444
 [/us/stat/120/3304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3304
-[/us/pl/109/461/s703/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461%2Fs703%2Fa
+[/us/pl/109/461/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461%2FtVII
 [/us/stat/120/3440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3440
-[/us/pl/112/154/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154%2Fs301%2Fa
+[/us/pl/112/154/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154%2FtIII
 [/us/stat/126/1182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1182
 [/us/usc/t26/s501/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs501%2Fc
 [/us/usc/t38/s4211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs4211
 [/us/usc/t38/s4102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs4102
-[/us/pl/112/154/s301/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154%2Fs301%2Fa%2F1
-[/us/pl/112/154/s301/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154%2Fs301%2Fa%2F2
-[/us/pl/109/461/s1006/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461%2Fs1006%2Fb
+[/us/pl/112/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154
+[/us/pl/112/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154
+[/us/pl/109/461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461
 [/us/pl/109/461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461
 [/us/pl/109/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F444
 [/us/pl/109/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F444
 [/us/pl/109/461/s1006/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461%2Fs1006%2Fb
 [/us/pl/109/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F444
 [/us/usc/t38/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs101
-[/us/pl/109/461/s1004/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461%2Fs1004%2Fa%2F4
-[/us/pl/109/461/s703/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461%2Fs703%2Fa
-[/us/pl/109/461/s703/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461%2Fs703%2Fa
-[/us/pl/109/444/s8/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F444%2Fs8%2Fa%2F4
-[/us/pl/109/461/s1006/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461%2Fs1006%2Fb
-[/us/pl/109/444/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F444%2Fs2%2Fb
-[/us/pl/109/461/s1006/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461%2Fs1006%2Fb
-[/us/pl/112/154/s301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154%2Fs301%2Fb
+[/us/pl/109/461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461
+[/us/pl/109/461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461
+[/us/pl/109/461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461
+[/us/pl/109/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F444
+[/us/pl/109/461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461
+[/us/pl/109/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F444
+[/us/pl/109/461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461
+[/us/pl/112/154/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154%2FtIII
 [/us/stat/126/1183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1183
 [/us/usc/t38/s2012/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs2012%2Fa
-[/us/pl/109/114/s230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F114%2Fs230
+[/us/pl/109/114/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F114%2FtII
 [/us/stat/119/2393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2393
 [/us/usc/t38/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs2011
 

@@ -25,11 +25,11 @@
 
     (e) Such a request shall be submitted to the Secretary and shall be decided in the same manner as any other claim.
 
-(Added [Pub. L. 105–111, § 1(a)(1)][/us/pl/105/111/s1/a/1], Nov. 21, 1997, [111 Stat. 2271][/us/stat/111/2271].)
+(Added [Pub. L. 105–111][/us/pl/105/111], § 1(a)(1), Nov. 21, 1997, [111 Stat. 2271][/us/stat/111/2271].)
 
  __Effective Date__ 
 
-[Pub. L. 105–111, § 1(c)(1)][/us/pl/105/111/s1/c/1], Nov. 21, 1997, [111 Stat. 2272][/us/stat/111/2272], provided that: 
+[Pub. L. 105–111][/us/pl/105/111], § 1(c)(1), Nov. 21, 1997, [111 Stat. 2272][/us/stat/111/2272], provided that: 
 
 > “Sections 5109A and 7111 of title 38, United States Code, as added by this section, apply to any determination made before, on, or after the date of the enactment of this Act \[Nov. 21, 1997\].”
 
@@ -40,9 +40,9 @@
 ----------
 ----------
 
-[/us/pl/105/111/s1/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F111%2Fs1%2Fa%2F1
+[/us/pl/105/111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F111
 [/us/stat/111/2271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2271
-[/us/pl/105/111/s1/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F111%2Fs1%2Fc%2F1
+[/us/pl/105/111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F111
 [/us/stat/111/2272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2272
 
 

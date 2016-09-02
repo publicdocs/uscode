@@ -83,7 +83,7 @@
 
     For purposes of this section, the term “medical research” means medical research described in [section 7303(a)(2) of this title][/us/usc/t38/s7303/a/2].
 
-(Added [Pub. L. 108–170, title IV, § 401(a)(1)][/us/pl/108/170/s401/a/1], Dec. 6, 2003, [117 Stat. 2059][/us/stat/117/2059].)
+(Added [Pub. L. 108–170, title IV][/us/pl/108/170/tIV], § 401(a)(1), Dec. 6, 2003, [117 Stat. 2059][/us/stat/117/2059].)
 
 ----------
 
@@ -93,7 +93,7 @@
 ----------
 
 [/us/usc/t38/s7303/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7303%2Fa%2F2
-[/us/pl/108/170/s401/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F170%2Fs401%2Fa%2F1
+[/us/pl/108/170/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F170%2FtIV
 [/us/stat/117/2059]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2059
 
 

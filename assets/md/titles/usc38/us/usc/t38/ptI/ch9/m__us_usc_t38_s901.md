@@ -41,13 +41,13 @@
 
         (2) For purposes of this subsection, a covered service dog is a service dog that has been trained by an entity that is accredited by an appropriate accrediting body that evaluates and accredits organizations which train guide or service dogs.
 
-(Added [Pub. L. 102–83, § 2(a)][/us/pl/102/83/s2/a], Aug. 6, 1991, [105 Stat. 397][/us/stat/105/397]; amended [Pub. L. 112–154, title I, § 109][/us/pl/112/154/s109], Aug. 6, 2012, [126 Stat. 1174][/us/stat/126/1174].)
+(Added [Pub. L. 102–83][/us/pl/102/83], § 2(a), Aug. 6, 1991, [105 Stat. 397][/us/stat/105/397]; amended [Pub. L. 112–154, title I][/us/pl/112/154/tI], § 109, Aug. 6, 2012, [126 Stat. 1174][/us/stat/126/1174].)
 
  __Prior Provisions__ 
 
     Prior section 901 was renumbered [section 2301 of this title][/us/usc/t38/s2301].
 
-    Provisions similar to those in this section were contained in [section 218(a) of this title][/us/usc/t38/s218/a] prior to repeal by [Pub. L. 102–83, § 2(a)][/us/pl/102/83/s2/a].
+    Provisions similar to those in this section were contained in [section 218(a) of this title][/us/usc/t38/s218/a] prior to repeal by [Pub. L. 102–83][/us/pl/102/83], § 2(a).
 
  __Amendments__ 
 
@@ -60,13 +60,13 @@
 ----------
 ----------
 
-[/us/pl/102/83/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs2%2Fa
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F397
-[/us/pl/112/154/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154%2Fs109
+[/us/pl/112/154/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154%2FtI
 [/us/stat/126/1174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1174
 [/us/usc/t38/s2301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs2301
 [/us/usc/t38/s218/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs218%2Fa
-[/us/pl/102/83/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs2%2Fa
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/pl/112/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154
 
 

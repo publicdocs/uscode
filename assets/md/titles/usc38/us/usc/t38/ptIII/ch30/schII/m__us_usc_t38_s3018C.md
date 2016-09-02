@@ -107,7 +107,7 @@
 
         (5) The Secretary, in conjunction with the Secretary of Defense, shall provide for notice to participants in the educational benefits program under chapter 32 of this title of the opportunity under this subsection to elect to become entitled to basic educational assistance under this chapter.
 
-(Added [Pub. L. 104–275, title I, § 106(a)][/us/pl/104/275/s106/a], Oct. 9, 1996, [110 Stat. 3327][/us/stat/110/3327]; amended [Pub. L. 105–114, title IV, § 401(c)][/us/pl/105/114/s401/c], Nov. 21, 1997, [111 Stat. 2293][/us/stat/111/2293]; [Pub. L. 105–368, title II, § 203(a)][/us/pl/105/368/s203/a], Nov. 11, 1998, [112 Stat. 3326][/us/stat/112/3326]; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title XVI, § 1601\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–357; [Pub. L. 106–419, title I, § 104(a)][/us/pl/106/419/s104/a]–(c)(1), Nov. 1, 2000, [114 Stat. 1827][/us/stat/114/1827], 1828; [Pub. L. 107–14, § 7(e)(1)][/us/pl/107/14/s7/e/1], June 5, 2001, [115 Stat. 33][/us/stat/115/33]; [Pub. L. 107–296, title XVII, § 1704(d)][/us/pl/107/296/s1704/d], Nov. 25, 2002, [116 Stat. 2315][/us/stat/116/2315]; [Pub. L. 107–330, title III, § 308(g)(9)][/us/pl/107/330/s308/g/9], Dec. 6, 2002, [116 Stat. 2829][/us/stat/116/2829].)
+(Added [Pub. L. 104–275, title I][/us/pl/104/275/tI], § 106(a), Oct. 9, 1996, [110 Stat. 3327][/us/stat/110/3327]; amended [Pub. L. 105–114, title IV][/us/pl/105/114/tIV], § 401(c), Nov. 21, 1997, [111 Stat. 2293][/us/stat/111/2293]; [Pub. L. 105–368, title II][/us/pl/105/368/tII], § 203(a), Nov. 11, 1998, [112 Stat. 3326][/us/stat/112/3326]; [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title XVI, § 1601\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–357; [Pub. L. 106–419, title I][/us/pl/106/419/tI], § 104(a)–(c)(1), Nov. 1, 2000, [114 Stat. 1827][/us/stat/114/1827], 1828; [Pub. L. 107–14][/us/pl/107/14], § 7(e)(1), June 5, 2001, [115 Stat. 33][/us/stat/115/33]; [Pub. L. 107–296, title XVII][/us/pl/107/296/tXVII], § 1704(d), Nov. 25, 2002, [116 Stat. 2315][/us/stat/116/2315]; [Pub. L. 107–330, title III][/us/pl/107/330/tIII], § 308(g)(9), Dec. 6, 2002, [116 Stat. 2829][/us/stat/116/2829].)
 
  __References in Text__ 
 
@@ -121,23 +121,23 @@
 
     2001—Subsec. (b). [Pub. L. 107–14][/us/pl/107/14] struck out “or (e)” after “subsection (a)” in introductory provisions.
 
-    2000—[Pub. L. 106–419, § 104(c)(1)][/us/pl/106/419/s104/c/1], provided that as of the enactment of [Pub. L. 106–419][/us/pl/106/419], the amendments made by [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title XVI, § 1601\], were deemed for all purposes not to have taken effect and that [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title XVI, § 1601\], ceased to be in effect. See Amendment notes below.
+    2000—[Pub. L. 106–419][/us/pl/106/419], § 104(c)(1), provided that as of the enactment of [Pub. L. 106–419][/us/pl/106/419], the amendments made by [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title XVI, § 1601\], were deemed for all purposes not to have taken effect and that [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title XVI, § 1601\], ceased to be in effect. See Amendment notes below.
 
-    Subsec. (b). [Pub. L. 106–419, § 104(b)][/us/pl/106/419/s104/b], substituted “subsection (a) or (e)” for “subsection (a)” in introductory provisions.
+    Subsec. (b). [Pub. L. 106–419][/us/pl/106/419], § 104(b), substituted “subsection (a) or (e)” for “subsection (a)” in introductory provisions.
 
-    [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title XVI, § 1601(b)\], which substituted “subsection (a) or (e)” for “subsection (a)” in introductory provisions, was terminated by [Pub. L. 106–419, § 104(c)(1)][/us/pl/106/419/s104/c/1]. See Amendment note above.
+    [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title XVI, § 1601(b)\], which substituted “subsection (a) or (e)” for “subsection (a)” in introductory provisions, was terminated by [Pub. L. 106–419][/us/pl/106/419], § 104(c)(1). See Amendment note above.
 
-    Subsec. (e). [Pub. L. 106–419, § 104(a)][/us/pl/106/419/s104/a], added subsec. (e).
+    Subsec. (e). [Pub. L. 106–419][/us/pl/106/419], § 104(a), added subsec. (e).
 
-    [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title XVI, § 1601(a)\], which added a subsec. (e) substantially identical to the subsec. (e) added by [Pub. L. 106–419, § 104(a)][/us/pl/106/419/s104/a], was terminated by [Pub. L. 106–419, § 104(c)(1)][/us/pl/106/419/s104/c/1]. See Amendment notes above.
+    [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title XVI, § 1601(a)\], which added a subsec. (e) substantially identical to the subsec. (e) added by [Pub. L. 106–419][/us/pl/106/419], § 104(a), was terminated by [Pub. L. 106–419][/us/pl/106/419], § 104(c)(1). See Amendment notes above.
 
     1998—Subsec. (a)(3). [Pub. L. 105–368][/us/pl/105/368] substituted “successfully completed (or otherwise received academic credit for)” for “successfully completed”.
 
-    1997—Subsec. (a)(1). [Pub. L. 105–114, § 401(c)(1)][/us/pl/105/114/s401/c/1], substituted “October 9, 1996,” for “the date of the enactment of the Veterans’ Benefits Improvements Act of 1996”.
+    1997—Subsec. (a)(1). [Pub. L. 105–114][/us/pl/105/114], § 401(c)(1), substituted “October 9, 1996,” for “the date of the enactment of the Veterans’ Benefits Improvements Act of 1996”.
 
-    Subsec. (a)(4). [Pub. L. 105–114, § 401(c)(2)][/us/pl/105/114/s401/c/2], substituted “after the date on which the individual makes the election described” for “during the one-year period specified”.
+    Subsec. (a)(4). [Pub. L. 105–114][/us/pl/105/114], § 401(c)(2), substituted “after the date on which the individual makes the election described” for “during the one-year period specified”.
 
-    Subsec. (a)(5). [Pub. L. 105–114, § 401(c)(3)][/us/pl/105/114/s401/c/3], substituted “October 9, 1996” for “the date of the enactment of the Veterans’ Benefits Improvements Act of 1996”.
+    Subsec. (a)(5). [Pub. L. 105–114][/us/pl/105/114], § 401(c)(3), substituted “October 9, 1996” for “the date of the enactment of the Veterans’ Benefits Improvements Act of 1996”.
 
  __Effective Date of 2002 Amendment__ 
 
@@ -149,7 +149,7 @@
 
  __Treatment of Certain Contributions__ 
 
-[Pub. L. 107–14, § 7(e)(2)][/us/pl/107/14/s7/e/2], June 5, 2001, [115 Stat. 33][/us/stat/115/33], provided that: 
+[Pub. L. 107–14][/us/pl/107/14], § 7(e)(2), June 5, 2001, [115 Stat. 33][/us/stat/115/33], provided that: 
 
 > “Any amount collected under [section 3018C(b) of title 38][/us/usc/t38/s3018C/b], United States Code (whether by reduction in basic pay under paragraph (1) of that section, collection under paragraph (2) of that section, or both), with respect to an individual who enrolled in basic educational assistance under section 3018C(e) of that title, during the period beginning on November 1, 2000, and ending on the date of the enactment of this Act \[June 5, 2001\], shall be treated as an amount collected with respect to the individual under section 3018C(e)(3)(A) of that title (whether as a reduction in basic pay under clause (i) of that section, a collection under clause (ii) of that section, or both) for basic educational assistance under section 3018C of that title.”
 
@@ -169,48 +169,48 @@
 [/us/usc/t38/s3012/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3012%2Fa%2F3
 [/us/usc/t38/s3202/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3202%2F1%2FC
 [/us/usc/t38/s3031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3031
-[/us/pl/104/275/s106/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275%2Fs106%2Fa
+[/us/pl/104/275/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275%2FtI
 [/us/stat/110/3327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3327
-[/us/pl/105/114/s401/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F114%2Fs401%2Fc
+[/us/pl/105/114/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F114%2FtIV
 [/us/stat/111/2293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2293
-[/us/pl/105/368/s203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2Fs203%2Fa
+[/us/pl/105/368/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2FtII
 [/us/stat/112/3326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3326
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/106/419/s104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419%2Fs104%2Fa
+[/us/pl/106/419/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419%2FtI
 [/us/stat/114/1827]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1827
-[/us/pl/107/14/s7/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F14%2Fs7%2Fe%2F1
+[/us/pl/107/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F14
 [/us/stat/115/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F33
-[/us/pl/107/296/s1704/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1704%2Fd
+[/us/pl/107/296/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXVII
 [/us/stat/116/2315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2315
-[/us/pl/107/330/s308/g/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F330%2Fs308%2Fg%2F9
+[/us/pl/107/330/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F330%2FtIII
 [/us/stat/116/2829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2829
 [/us/pl/106/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/pl/107/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F330
 [/us/pl/107/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F14
-[/us/pl/106/419/s104/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419%2Fs104%2Fc%2F1
 [/us/pl/106/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
-[/us/pl/106/419/s104/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419%2Fs104%2Fb
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
-[/us/pl/106/419/s104/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419%2Fs104%2Fc%2F1
-[/us/pl/106/419/s104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419%2Fs104%2Fa
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
-[/us/pl/106/419/s104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419%2Fs104%2Fa
-[/us/pl/106/419/s104/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419%2Fs104%2Fc%2F1
+[/us/pl/106/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
+[/us/pl/106/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
+[/us/pl/106/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419
+[/us/pl/106/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
+[/us/pl/106/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419
+[/us/pl/106/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419
 [/us/pl/105/368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368
-[/us/pl/105/114/s401/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F114%2Fs401%2Fc%2F1
-[/us/pl/105/114/s401/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F114%2Fs401%2Fc%2F2
-[/us/pl/105/114/s401/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F114%2Fs401%2Fc%2F3
+[/us/pl/105/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F114
+[/us/pl/105/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F114
+[/us/pl/105/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F114
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/pl/107/296/s1704/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1704%2Fg
 [/us/usc/t10/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101
 [/us/pl/105/368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368
 [/us/pl/105/368/s203/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2Fs203%2Fb
 [/us/usc/t38/s3011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3011
-[/us/pl/107/14/s7/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F14%2Fs7%2Fe%2F2
+[/us/pl/107/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F14
 [/us/stat/115/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F33
 [/us/usc/t38/s3018C/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3018C%2Fb
 

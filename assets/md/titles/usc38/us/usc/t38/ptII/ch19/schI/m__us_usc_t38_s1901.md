@@ -25,13 +25,13 @@
 
     (4) The terms “parent”, “father”, and “mother” mean a father, mother, father through adoption, mother through adoption, persons who have stood in loco parentis to a member of the military or naval forces at any time before entry into active service for a period of not less than one year, and a step­parent, if designated as beneficiary by the insured.
 
-([Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1148][/us/stat/72/1148], § 701; renumbered § 1901, [Pub. L. 102–83, § 5(a)][/us/pl/102/83/s5/a], Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406].)
+([Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1148][/us/stat/72/1148], § 701; renumbered § 1901, [Pub. L. 102–83][/us/pl/102/83], § 5(a), Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406].)
 
  __Prior Provisions__ 
 
     Prior section 1901 was renumbered [section 3901 of this title][/us/usc/t38/s3901].
 
-    Another prior section 1901, [Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1215][/us/stat/72/1215], as amended by [Pub. L. 90–77, title II, § 204(a)][/us/pl/90/77/s204/a], Aug. 31, 1967, [81 Stat. 184][/us/stat/81/184], related to veterans eligible for assistance, prior to the general revision of chapter 39 of this title by [Pub. L. 91–666][/us/pl/91/666]. See sections 3901 and 3902 of this title.
+    Another prior section 1901, [Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1215][/us/stat/72/1215], as amended by [Pub. L. 90–77, title II][/us/pl/90/77/tII], § 204(a), Aug. 31, 1967, [81 Stat. 184][/us/stat/81/184], related to veterans eligible for assistance, prior to the general revision of chapter 39 of this title by [Pub. L. 91–666][/us/pl/91/666]. See sections 3901 and 3902 of this title.
 
  __Amendments__ 
 
@@ -46,12 +46,12 @@
 
 [/us/pl/85/857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F857
 [/us/stat/72/1148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1148
-[/us/pl/102/83/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fa
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F406
 [/us/usc/t38/s3901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3901
 [/us/pl/85/857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F857
 [/us/stat/72/1215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1215
-[/us/pl/90/77/s204/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F77%2Fs204%2Fa
+[/us/pl/90/77/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F77%2FtII
 [/us/stat/81/184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F184
 [/us/pl/91/666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F666
 [/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83

@@ -135,33 +135,33 @@
 
     (j) The Secretary shall include as part of the annual benefits report of the Veterans Benefits Administration information concerning the cost and number of loans provided under this subchapter for the fiscal year covered by the report.
 
-(Added [Pub. L. 102–547, § 8(a)][/us/pl/102/547/s8/a], Oct. 28, 1992, [106 Stat. 3637][/us/stat/106/3637]; amended [Pub. L. 104–275, title II, § 202(a)][/us/pl/104/275/s202/a], Oct. 9, 1996, [110 Stat. 3330][/us/stat/110/3330]; [Pub. L. 105–114, title II, § 201(b)][/us/pl/105/114/s201/b], (c), Nov. 21, 1997, [111 Stat. 2282][/us/stat/111/2282], 2283; [Pub. L. 107–103, title IV, § 402(b)][/us/pl/107/103/s402/b], (c), Dec. 27, 2001, [115 Stat. 993][/us/stat/115/993]; [Pub. L. 109–233, title I, § 103(b)][/us/pl/109/233/s103/b], (c)(1), (d), (e), (f)(3), June 15, 2006, [120 Stat. 400][/us/stat/120/400], 401.)
+(Added [Pub. L. 102–547][/us/pl/102/547], § 8(a), Oct. 28, 1992, [106 Stat. 3637][/us/stat/106/3637]; amended [Pub. L. 104–275, title II][/us/pl/104/275/tII], § 202(a), Oct. 9, 1996, [110 Stat. 3330][/us/stat/110/3330]; [Pub. L. 105–114, title II][/us/pl/105/114/tII], § 201(b), (c), Nov. 21, 1997, [111 Stat. 2282][/us/stat/111/2282], 2283; [Pub. L. 107–103, title IV][/us/pl/107/103/tIV], § 402(b), (c), Dec. 27, 2001, [115 Stat. 993][/us/stat/115/993]; [Pub. L. 109–233, title I][/us/pl/109/233/tI], § 103(b), (c)(1), (d), (e), (f)(3), June 15, 2006, [120 Stat. 400][/us/stat/120/400], 401.)
 
  __Amendments__ 
 
-    2006—[Pub. L. 109–233, § 103(f)(3)][/us/pl/109/233/s103/f/3], amended section catchline generally, substituting “Direct housing loans to Native American veterans; program administration” for “Direct housing loans to Native American veterans”.
+    2006—[Pub. L. 109–233][/us/pl/109/233], § 103(f)(3), amended section catchline generally, substituting “Direct housing loans to Native American veterans; program administration” for “Direct housing loans to Native American veterans”.
 
-    Subsec. (a). [Pub. L. 109–233, § 103(c)(1)(A)][/us/pl/109/233/s103/c/1/A], inserted “under this subchapter” after “to a Native American veteran” in introductory provisions.
+    Subsec. (a). [Pub. L. 109–233][/us/pl/109/233], § 103(c)(1)(A), inserted “under this subchapter” after “to a Native American veteran” in introductory provisions.
 
-    Subsec. (b)(1)(E). [Pub. L. 109–233, § 103(c)(1)(B)][/us/pl/109/233/s103/c/1/B], substituted “loans under this subchapter are made” for “the pilot program established under this subchapter is implemented”.
+    Subsec. (b)(1)(E). [Pub. L. 109–233][/us/pl/109/233], § 103(c)(1)(B), substituted “loans under this subchapter are made” for “the pilot program established under this subchapter is implemented”.
 
-    Subsec. (c)(1)(A). [Pub. L. 109–233, § 103(e)][/us/pl/109/233/s103/e], inserted “veteran” after “Native American”.
+    Subsec. (c)(1)(A). [Pub. L. 109–233][/us/pl/109/233], § 103(e), inserted “veteran” after “Native American”.
 
-    Subsec. (c)(1)(B). [Pub. L. 109–233, § 103(c)(1)(C)][/us/pl/109/233/s103/c/1/C], (d), designated existing provisions as cl. (i), substituted “Subject to clause (ii), the” for “The” after cl. (i) designation, substituted “make direct housing loans under this subchapter” for “carry out the pilot program under this subchapter in a manner that demonstrates the advisability of making direct housing loans”, and added cl. (ii).
+    Subsec. (c)(1)(B). [Pub. L. 109–233][/us/pl/109/233], § 103(c)(1)(C), (d), designated existing provisions as cl. (i), substituted “Subject to clause (ii), the” for “The” after cl. (i) designation, substituted “make direct housing loans under this subchapter” for “carry out the pilot program under this subchapter in a manner that demonstrates the advisability of making direct housing loans”, and added cl. (ii).
 
-    Subsec. (i)(1). [Pub. L. 109–233, § 103(c)(1)(D)(i)][/us/pl/109/233/s103/c/1/D/i], struck out “the pilot program provided for under this subchapter and” after “educate Native American veterans of”.
+    Subsec. (i)(1). [Pub. L. 109–233][/us/pl/109/233], § 103(c)(1)(D)(i), struck out “the pilot program provided for under this subchapter and” after “educate Native American veterans of”.
 
-    Subsec. (i)(2)(A), (E). [Pub. L. 109–233, § 103(c)(1)(D)(ii)][/us/pl/109/233/s103/c/1/D/ii], (iii), substituted “under this subchapter and in assisting such organizations and veterans with respect to such housing benefits” for “under the pilot program and in assisting such organizations and veterans in participating in the pilot program” in subpar. (A) and “with respect to such benefits” for “in participating in the pilot program” in subpar. (E).
+    Subsec. (i)(2)(A), (E). [Pub. L. 109–233][/us/pl/109/233], § 103(c)(1)(D)(ii), (iii), substituted “under this subchapter and in assisting such organizations and veterans with respect to such housing benefits” for “under the pilot program and in assisting such organizations and veterans in participating in the pilot program” in subpar. (A) and “with respect to such benefits” for “in participating in the pilot program” in subpar. (E).
 
-    Subsec. (j). [Pub. L. 109–233, § 103(b)][/us/pl/109/233/s103/b], amended subsec. (j) generally. Prior to amendment, subsec. (j) related to the Secretary’s transmittal to the Committees on Veterans’ Affairs of the Senate and House of Representatives of an annual report relating to the implementation of the Native American veteran housing loan pilot program.
+    Subsec. (j). [Pub. L. 109–233][/us/pl/109/233], § 103(b), amended subsec. (j) generally. Prior to amendment, subsec. (j) related to the Secretary’s transmittal to the Committees on Veterans’ Affairs of the Senate and House of Representatives of an annual report relating to the implementation of the Native American veteran housing loan pilot program.
 
-    2001—Subsec. (a)(1). [Pub. L. 107–103, § 402(b)][/us/pl/107/103/s402/b], designated existing provisions as subpar. (A), substituted “; or” for “; and”, and added subpar. (B).
+    2001—Subsec. (a)(1). [Pub. L. 107–103][/us/pl/107/103], § 402(b), designated existing provisions as subpar. (A), substituted “; or” for “; and”, and added subpar. (B).
 
-    Subsec. (j). [Pub. L. 107–103, § 402(c)][/us/pl/107/103/s402/c], substituted “2006” for “2002” in introductory provisions.
+    Subsec. (j). [Pub. L. 107–103][/us/pl/107/103], § 402(c), substituted “2006” for “2002” in introductory provisions.
 
-    1997—Subsec. (i). [Pub. L. 105–114, § 201(b)][/us/pl/105/114/s201/b], designated existing provisions as par. (1), inserted “, in consultation with tribal organizations (including the National Congress of American Indians and the National American Indian Housing Council),” after “the Secretary shall”, struck out “tribal organizations and” after “educate”, and added par. (2).
+    1997—Subsec. (i). [Pub. L. 105–114][/us/pl/105/114], § 201(b), designated existing provisions as par. (1), inserted “, in consultation with tribal organizations (including the National Congress of American Indians and the National American Indian Housing Council),” after “the Secretary shall”, struck out “tribal organizations and” after “educate”, and added par. (2).
 
-    Subsec. (j). [Pub. L. 105–114, § 201(c)][/us/pl/105/114/s201/c], added subsec. (j).
+    Subsec. (j). [Pub. L. 105–114][/us/pl/105/114], § 201(c), added subsec. (j).
 
     1996—Subsecs. (h), (i). [Pub. L. 104–275][/us/pl/104/275] added subsec. (h) and redesignated former subsec. (h) as (i).
 
@@ -178,28 +178,28 @@
 [/us/usc/t38/s3731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3731
 [/us/usc/t38/s3710/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3710%2Fe
 [/us/usc/t38/s3710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3710
-[/us/pl/102/547/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F547%2Fs8%2Fa
+[/us/pl/102/547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F547
 [/us/stat/106/3637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3637
-[/us/pl/104/275/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275%2Fs202%2Fa
+[/us/pl/104/275/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275%2FtII
 [/us/stat/110/3330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3330
-[/us/pl/105/114/s201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F114%2Fs201%2Fb
+[/us/pl/105/114/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F114%2FtII
 [/us/stat/111/2282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2282
-[/us/pl/107/103/s402/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F103%2Fs402%2Fb
+[/us/pl/107/103/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F103%2FtIV
 [/us/stat/115/993]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F993
-[/us/pl/109/233/s103/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F233%2Fs103%2Fb
+[/us/pl/109/233/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F233%2FtI
 [/us/stat/120/400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F400
-[/us/pl/109/233/s103/f/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F233%2Fs103%2Ff%2F3
-[/us/pl/109/233/s103/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F233%2Fs103%2Fc%2F1%2FA
-[/us/pl/109/233/s103/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F233%2Fs103%2Fc%2F1%2FB
-[/us/pl/109/233/s103/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F233%2Fs103%2Fe
-[/us/pl/109/233/s103/c/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F233%2Fs103%2Fc%2F1%2FC
-[/us/pl/109/233/s103/c/1/D/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F233%2Fs103%2Fc%2F1%2FD%2Fi
-[/us/pl/109/233/s103/c/1/D/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F233%2Fs103%2Fc%2F1%2FD%2Fii
-[/us/pl/109/233/s103/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F233%2Fs103%2Fb
-[/us/pl/107/103/s402/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F103%2Fs402%2Fb
-[/us/pl/107/103/s402/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F103%2Fs402%2Fc
-[/us/pl/105/114/s201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F114%2Fs201%2Fb
-[/us/pl/105/114/s201/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F114%2Fs201%2Fc
+[/us/pl/109/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F233
+[/us/pl/109/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F233
+[/us/pl/109/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F233
+[/us/pl/109/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F233
+[/us/pl/109/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F233
+[/us/pl/109/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F233
+[/us/pl/109/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F233
+[/us/pl/109/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F233
+[/us/pl/107/103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F103
+[/us/pl/107/103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F103
+[/us/pl/105/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F114
+[/us/pl/105/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F114
 [/us/pl/104/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275
 
 

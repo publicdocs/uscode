@@ -19,7 +19,7 @@
 
     (b) To be eligible to receive assistance under this subchapter, an individual must be accepted for enrollment or be enrolled as a full-time student at a qualifying educational institution in a course of education or training that is approved by the Secretary and that leads toward completion of a degree in a health profession involving direct patient care or care incident to direct patient care.
 
-(Added [Pub. L. 101–366, title II, § 205(a)(1)][/us/pl/101/366/s205/a/1], Aug. 15, 1990, [104 Stat. 439][/us/stat/104/439], § 4351; renumbered § 7651, [Pub. L. 102–40, title IV, § 402(b)(1)][/us/pl/102/40/s402/b/1], May 7, 1991, [105 Stat. 238][/us/stat/105/238].)
+(Added [Pub. L. 101–366, title II][/us/pl/101/366/tII], § 205(a)(1), Aug. 15, 1990, [104 Stat. 439][/us/stat/104/439], § 4351; renumbered § 7651, [Pub. L. 102–40, title IV][/us/pl/102/40/tIV], § 402(b)(1), May 7, 1991, [105 Stat. 238][/us/stat/105/238].)
 
  __Amendments__ 
 
@@ -32,9 +32,9 @@
 ----------
 ----------
 
-[/us/pl/101/366/s205/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F366%2Fs205%2Fa%2F1
+[/us/pl/101/366/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F366%2FtII
 [/us/stat/104/439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F439
-[/us/pl/102/40/s402/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs402%2Fb%2F1
+[/us/pl/102/40/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2FtIV
 [/us/stat/105/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F238
 [/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40
 [/us/usc/t38/s4351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs4351

@@ -19,7 +19,7 @@
 
     (b) The Secretary of each military department shall make available appropriate forms on which those members of the Armed Forces who so desire may indicate their desire to be buried within the area to be designated under subsection (a).
 
-(Added [Pub. L. 101–237, title V, § 502(a)][/us/pl/101/237/s502/a], Dec. 18, 1989, [103 Stat. 2093][/us/stat/103/2093], § 1010; amended [Pub. L. 102–54, § 14(b)(22)][/us/pl/102/54/s14/b/22], June 13, 1991, [105 Stat. 284][/us/stat/105/284]; renumbered § 2410, [Pub. L. 102–83, § 5(a)][/us/pl/102/83/s5/a], Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406].)
+(Added [Pub. L. 101–237, title V][/us/pl/101/237/tV], § 502(a), Dec. 18, 1989, [103 Stat. 2093][/us/stat/103/2093], § 1010; amended [Pub. L. 102–54][/us/pl/102/54], § 14(b)(22), June 13, 1991, [105 Stat. 284][/us/stat/105/284]; renumbered § 2410, [Pub. L. 102–83][/us/pl/102/83], § 5(a), Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406].)
 
  __Amendments__ 
 
@@ -34,11 +34,11 @@
 ----------
 ----------
 
-[/us/pl/101/237/s502/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237%2Fs502%2Fa
+[/us/pl/101/237/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237%2FtV
 [/us/stat/103/2093]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2093
-[/us/pl/102/54/s14/b/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54%2Fs14%2Fb%2F22
+[/us/pl/102/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54
 [/us/stat/105/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F284
-[/us/pl/102/83/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fa
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F406
 [/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/usc/t38/s1010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1010

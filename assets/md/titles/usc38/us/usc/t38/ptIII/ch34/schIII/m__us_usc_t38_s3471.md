@@ -17,7 +17,7 @@
 
     Any eligible veteran, or any person on active duty (after consultation with the appropriate service education officer), who desires to initiate a program of education under this chapter shall submit an application to the Secretary which shall be in such form, and contain such information, as the Secretary shall prescribe. The Secretary shall approve such application unless the Secretary finds that (1) such veteran or person is not eligible for or entitled to the educational assistance for which application is made, (2) the veteran’s or person’s selected educational institution or training establishment fails to meet any requirement of this chapter or chapter 36 of this title, (3) the veteran’s or person’s enrollment in, or pursuit of, the program of education selected would violate any provision of this chapter or chapter 36 of this title, or (4) the veteran or person is already qualified, by reason of previous education or training, for the educational, professional, or vocational objective for which the program of education is offered. The Secretary shall not treat a person as already qualified for the objective of a program of education offered by a qualified provider of entrepreneurship courses solely because such person is the owner or operator of a business. The Secretary shall notify the veteran or person of the approval or disapproval of the veteran’s or person’s application.
 
-(Added [Pub. L. 89–358, § 2][/us/pl/89/358/s2], Mar. 3, 1966, [80 Stat. 15][/us/stat/80/15], § 1671; amended [Pub. L. 92–540, title III, § 302][/us/pl/92/540/s302], Oct. 24, 1972, [86 Stat. 1080][/us/stat/86/1080]; [Pub. L. 94–502, title II, § 211(6)][/us/pl/94/502/s211/6], Oct. 15, 1976, [90 Stat. 2388][/us/stat/90/2388]; [Pub. L. 96–466, title III, § 302][/us/pl/96/466/s302], Oct. 17, 1980, [94 Stat. 2192][/us/stat/94/2192]; [Pub. L. 101–237, title IV, § 423(b)(1)(A)][/us/pl/101/237/s423/b/1/A], Dec. 18, 1989, [103 Stat. 2092][/us/stat/103/2092]; renumbered § 3471, [Pub. L. 102–83, § 5(a)][/us/pl/102/83/s5/a], Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406]; [Pub. L. 108–183, title III, § 305(b)][/us/pl/108/183/s305/b], Dec. 16, 2003, [117 Stat. 2660][/us/stat/117/2660].)
+(Added [Pub. L. 89–358][/us/pl/89/358], § 2, Mar. 3, 1966, [80 Stat. 15][/us/stat/80/15], § 1671; amended [Pub. L. 92–540, title III][/us/pl/92/540/tIII], § 302, Oct. 24, 1972, [86 Stat. 1080][/us/stat/86/1080]; [Pub. L. 94–502, title II][/us/pl/94/502/tII], § 211(6), Oct. 15, 1976, [90 Stat. 2388][/us/stat/90/2388]; [Pub. L. 96–466, title III][/us/pl/96/466/tIII], § 302, Oct. 17, 1980, [94 Stat. 2192][/us/stat/94/2192]; [Pub. L. 101–237, title IV][/us/pl/101/237/tIV], § 423(b)(1)(A), Dec. 18, 1989, [103 Stat. 2092][/us/stat/103/2092]; renumbered § 3471, [Pub. L. 102–83][/us/pl/102/83], § 5(a), Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406]; [Pub. L. 108–183, title III][/us/pl/108/183/tIII], § 305(b), Dec. 16, 2003, [117 Stat. 2660][/us/stat/117/2660].)
 
  __Prior Provisions__ 
 
@@ -56,19 +56,19 @@
 ----------
 ----------
 
-[/us/pl/89/358/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F358%2Fs2
+[/us/pl/89/358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F358
 [/us/stat/80/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F15
-[/us/pl/92/540/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F540%2Fs302
+[/us/pl/92/540/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F540%2FtIII
 [/us/stat/86/1080]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1080
-[/us/pl/94/502/s211/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F502%2Fs211%2F6
+[/us/pl/94/502/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F502%2FtII
 [/us/stat/90/2388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2388
-[/us/pl/96/466/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F466%2Fs302
+[/us/pl/96/466/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F466%2FtIII
 [/us/stat/94/2192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2192
-[/us/pl/101/237/s423/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237%2Fs423%2Fb%2F1%2FA
+[/us/pl/101/237/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237%2FtIV
 [/us/stat/103/2092]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2092
-[/us/pl/102/83/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fa
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F406
-[/us/pl/108/183/s305/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F183%2Fs305%2Fb
+[/us/pl/108/183/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F183%2FtIII
 [/us/stat/117/2660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2660
 [/us/pl/85/857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F857
 [/us/stat/72/1177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1177

@@ -17,7 +17,7 @@
 
     The Secretary (through the Veterans’ Employment and Training Service) shall provide assistance to any person with respect to the employment and reemployment rights and benefits to which such person is entitled under this chapter. In providing such assistance, the Secretary may request the assistance of existing Federal and State agencies engaged in similar or related activities and utilize the assistance of volunteers.
 
-(Added [Pub. L. 103–353, § 2(a)][/us/pl/103/353/s2/a], Oct. 13, 1994, [108 Stat. 3164][/us/stat/108/3164].)
+(Added [Pub. L. 103–353][/us/pl/103/353], § 2(a), Oct. 13, 1994, [108 Stat. 3164][/us/stat/108/3164].)
 
  __Prior Provisions__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/103/353/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F353%2Fs2%2Fa
+[/us/pl/103/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F353
 [/us/stat/108/3164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3164
 [/us/usc/t38/s7621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7621
 [/us/usc/t38/s4311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs4311

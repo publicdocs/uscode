@@ -45,19 +45,19 @@
 
     (f) Any payments of insurance made to a person, represented by the insured to be within the permitted class of beneficiaries, shall be deemed to have been properly made and to satisfy fully the obligation of the United States under such insurance policy to the extent of such payments.
 
-([Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1151][/us/stat/72/1151], § 716; [Pub. L. 99–576, title VII, § 701(27)][/us/pl/99/576/s701/27], Oct. 28, 1986, [100 Stat. 3292][/us/stat/100/3292]; renumbered § 1916 and amended [Pub. L. 102–83][/us/pl/102/83], §§ 4(b)(1), (2)(E), 5(a), Aug. 6, 1991, [105 Stat. 404–406][/us/stat/105/404-406]; [Pub. L. 102–86, title V, § 506(a)(2)][/us/pl/102/86/s506/a/2], Aug. 14, 1991, [105 Stat. 426][/us/stat/105/426].)
+([Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1151][/us/stat/72/1151], § 716; [Pub. L. 99–576, title VII][/us/pl/99/576/tVII], § 701(27), Oct. 28, 1986, [100 Stat. 3292][/us/stat/100/3292]; renumbered § 1916 and amended [Pub. L. 102–83][/us/pl/102/83], §§ 4(b)(1), (2)(E), 5(a), Aug. 6, 1991, [105 Stat. 404–406][/us/stat/105/404-406]; [Pub. L. 102–86, title V][/us/pl/102/86/tV], § 506(a)(2), Aug. 14, 1991, [105 Stat. 426][/us/stat/105/426].)
 
  __References in Text__ 
 
-    Section 602(d) of the National Service Life Insurance Act of 1940, referred to in subsec. (c), is section 602(d) of [act Oct. 8, 1940, ch. 757][/us/act/1940-10-08/ch757], title VI, pt. I, [54 Stat. 1009][/us/stat/54/1009], which enacted section 802(d) of former Title 38, Pensions, Bonuses, and Veterans’ Relief, and which was omitted in the general revision and reenactment of this title by [Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1105][/us/stat/72/1105].
+    Section 602(d) of the National Service Life Insurance Act of 1940, referred to in subsec. (c), is section 602(d) of [act Oct. 8, 1940, ch. 757, title VI][/us/act/1940-10-08/ch757/tVI], pt. I, [54 Stat. 1009][/us/stat/54/1009], which enacted section 802(d) of former Title 38, Pensions, Bonuses, and Veterans’ Relief, and which was omitted in the general revision and reenactment of this title by [Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1105][/us/stat/72/1105].
 
  __Amendments__ 
 
-    1991—[Pub. L. 102–83, § 5(a)][/us/pl/102/83/s5/a], renumbered [section 716 of this title][/us/usc/t38/s716] as this section.
+    1991—[Pub. L. 102–83][/us/pl/102/83], § 5(a), renumbered [section 716 of this title][/us/usc/t38/s716] as this section.
 
-    Subsec. (b). [Pub. L. 102–86][/us/pl/102/86] amended subsec. (b) of this section as in effect before the redesignations made by [Pub. L. 102–83, § 5][/us/pl/102/83/s5], by substituting “unpaid” for “upaid”.
+    Subsec. (b). [Pub. L. 102–86][/us/pl/102/86] amended subsec. (b) of this section as in effect before the redesignations made by [Pub. L. 102–83][/us/pl/102/83], § 5, by substituting “unpaid” for “upaid”.
 
-    Subsec. (e). [Pub. L. 102–83, § 4(b)(1)][/us/pl/102/83/s4/b/1], (2)(E), substituted “Secretary” for “Administrator”.
+    Subsec. (e). [Pub. L. 102–83][/us/pl/102/83], § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
     1986—Subsec. (e). [Pub. L. 99–576][/us/pl/99/576] substituted “the insured’s” for “his”.
 
@@ -70,21 +70,21 @@
 
 [/us/pl/85/857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F857
 [/us/stat/72/1151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1151
-[/us/pl/99/576/s701/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2Fs701%2F27
+[/us/pl/99/576/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2FtVII
 [/us/stat/100/3292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3292
 [/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/404-406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F404-406
-[/us/pl/102/86/s506/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F86%2Fs506%2Fa%2F2
+[/us/pl/102/86/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F86%2FtV
 [/us/stat/105/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F426
-[/us/act/1940-10-08/ch757]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-08%2Fch757
+[/us/act/1940-10-08/ch757/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-08%2Fch757%2FtVI
 [/us/stat/54/1009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F1009
 [/us/pl/85/857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F857
 [/us/stat/72/1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1105
-[/us/pl/102/83/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fa
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/usc/t38/s716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs716
 [/us/pl/102/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F86
-[/us/pl/102/83/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5
-[/us/pl/102/83/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fb%2F1
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/pl/99/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576
 
 

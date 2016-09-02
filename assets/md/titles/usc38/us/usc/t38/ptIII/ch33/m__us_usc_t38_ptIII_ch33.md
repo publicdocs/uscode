@@ -185,9 +185,9 @@ Amendments  </td>
 
 </table>
 
-    2012—[Pub. L. 112–154, title IV, § 402(a)(2)][/us/pl/112/154/s402/a/2], Aug. 6, 2012, [126 Stat. 1189][/us/stat/126/1189], added item 3325.
+    2012—[Pub. L. 112–154, title IV][/us/pl/112/154/tIV], § 402(a)(2), Aug. 6, 2012, [126 Stat. 1189][/us/stat/126/1189], added item 3325.
 
-    2011—[Pub. L. 111–377, title I, § 108(a)(2)][/us/pl/111/377/s108/a/2], Jan. 4, 2011, [124 Stat. 4119][/us/stat/124/4119], added item 3315A.
+    2011—[Pub. L. 111–377, title I][/us/pl/111/377/tI], § 108(a)(2), Jan. 4, 2011, [124 Stat. 4119][/us/stat/124/4119], added item 3315A.
 
 ----------
 
@@ -196,9 +196,9 @@ Amendments  </td>
 ----------
 ----------
 
-[/us/pl/112/154/s402/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154%2Fs402%2Fa%2F2
+[/us/pl/112/154/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154%2FtIV
 [/us/stat/126/1189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1189
-[/us/pl/111/377/s108/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F377%2Fs108%2Fa%2F2
+[/us/pl/111/377/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F377%2FtI
 [/us/stat/124/4119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4119
 
 

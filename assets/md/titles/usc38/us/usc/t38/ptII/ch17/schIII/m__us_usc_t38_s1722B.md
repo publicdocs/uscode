@@ -17,7 +17,7 @@
 
     The Secretary may waive the imposition or collection of copayments for telehealth and telemedicine visits of veterans under the laws administered by the Secretary.
 
-(Added [Pub. L. 112–154, title I, § 103(a)][/us/pl/112/154/s103/a], Aug. 6, 2012, [126 Stat. 1169][/us/stat/126/1169].)
+(Added [Pub. L. 112–154, title I][/us/pl/112/154/tI], § 103(a), Aug. 6, 2012, [126 Stat. 1169][/us/stat/126/1169].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/112/154/s103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154%2Fs103%2Fa
+[/us/pl/112/154/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154%2FtI
 [/us/stat/126/1169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1169
 
 

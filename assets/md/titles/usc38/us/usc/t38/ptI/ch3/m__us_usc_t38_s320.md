@@ -61,25 +61,25 @@
 
         (2) identify changes to such policies, procedures, and practices to improve job training and post-service placement.
 
-(Added [Pub. L. 108–136, div. A, title V, § 583(a)(1)][/us/pl/108/136/s583/a/1], Nov. 24, 2003, [117 Stat. 1490][/us/stat/117/1490]; amended [Pub. L. 114–92, div. A, title V, § 561][/us/pl/114/92/s561], Nov. 25, 2015, [129 Stat. 828][/us/stat/129/828].)
+(Added [Pub. L. 108–136, div. A, title V][/us/pl/108/136/dA/tV], § 583(a)(1), Nov. 24, 2003, [117 Stat. 1490][/us/stat/117/1490]; amended [Pub. L. 114–92, div. A, title V][/us/pl/114/92/dA/tV], § 561, Nov. 25, 2015, [129 Stat. 828][/us/stat/129/828].)
 
  __Amendments__ 
 
-    2015—Subsec. (b)(2). [Pub. L. 114–92, § 561(1)][/us/pl/114/92/s561/1], inserted “a subordinate Job Training and Post-Service Placement Executive Committee,” before “such other committees”.
+    2015—Subsec. (b)(2). [Pub. L. 114–92][/us/pl/114/92], § 561(1), inserted “a subordinate Job Training and Post-Service Placement Executive Committee,” before “such other committees”.
 
-    Subsec. (d)(2). [Pub. L. 114–92, § 561(3)][/us/pl/114/92/s561/3], inserted “, including with respect to job training and post-service placement” before period at end.
+    Subsec. (d)(2). [Pub. L. 114–92][/us/pl/114/92], § 561(3), inserted “, including with respect to job training and post-service placement” before period at end.
 
-    Subsec. (e). [Pub. L. 114–92, § 561(2)][/us/pl/114/92/s561/2], added subsec. (e).
+    Subsec. (e). [Pub. L. 114–92][/us/pl/114/92], § 561(2), added subsec. (e).
 
  __Effective Date__ 
 
-[Pub. L. 108–136, div. A, title V, § 583(d)(2)][/us/pl/108/136/s583/d/2], Nov. 24, 2003, [117 Stat. 1492][/us/stat/117/1492], provided that: 
+[Pub. L. 108–136, div. A, title V][/us/pl/108/136/dA/tV], § 583(d)(2), Nov. 24, 2003, [117 Stat. 1492][/us/stat/117/1492], provided that: 
 
 > “If this Act is enacted on or after October 1, 2003, the amendments made by this section \[enacting this section and amending [section 8111 of this title][/us/usc/t38/s8111]\] shall take effect on the date of the enactment of this Act \[Nov. 24, 2003\].”
 
  __Joint Program for Development and Evaluation of Integrated Healing Care Practices for Members of the Armed Forces and Veterans__ 
 
-[Pub. L. 108–136, div. A, title VII, § 727][/us/pl/108/136/s727], Nov. 24, 2003, [117 Stat. 1537][/us/stat/117/1537], provided that:
+[Pub. L. 108–136, div. A, title VII][/us/pl/108/136/dA/tVII], § 727, Nov. 24, 2003, [117 Stat. 1537][/us/stat/117/1537], provided that:
 
 >     “(a)  __Program__  __.—__ 
 
@@ -97,17 +97,17 @@
 ----------
 
 [/us/usc/t38/s8111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs8111
-[/us/pl/108/136/s583/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs583%2Fa%2F1
+[/us/pl/108/136/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtV
 [/us/stat/117/1490]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1490
-[/us/pl/114/92/s561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs561
+[/us/pl/114/92/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtV
 [/us/stat/129/828]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F828
-[/us/pl/114/92/s561/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs561%2F1
-[/us/pl/114/92/s561/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs561%2F3
-[/us/pl/114/92/s561/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs561%2F2
-[/us/pl/108/136/s583/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs583%2Fd%2F2
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/pl/108/136/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtV
 [/us/stat/117/1492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1492
 [/us/usc/t38/s8111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs8111
-[/us/pl/108/136/s727]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs727
+[/us/pl/108/136/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtVII
 [/us/stat/117/1537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1537
 [/us/usc/t38/s320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs320
 

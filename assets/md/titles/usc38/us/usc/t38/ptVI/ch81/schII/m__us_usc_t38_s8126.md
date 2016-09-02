@@ -167,7 +167,7 @@
 
         (2) In this subsection, the term “contract year” means any one-year period for which a multi-year contract described in subsection (d) is in effect.
 
-(Added [Pub. L. 102–585, title VI, § 603(a)(1)][/us/pl/102/585/s603/a/1], Nov. 4, 1992, [106 Stat. 4971][/us/stat/106/4971]; amended [Pub. L. 103–18, § 1(a)][/us/pl/103/18/s1/a], Apr. 12, 1993, [107 Stat. 53][/us/stat/107/53]; [Pub. L. 103–446, title XII, § 1201(e)(27)][/us/pl/103/446/s1201/e/27], (f)(6), Nov. 2, 1994, [108 Stat. 4686][/us/stat/108/4686], 4687; [Pub. L. 104–106, div. A, title VII, § 737(a)][/us/pl/104/106/s737/a], Feb. 10, 1996, [110 Stat. 383][/us/stat/110/383]; [Pub. L. 105–115, title I, § 125(b)(2)(E)][/us/pl/105/115/s125/b/2/E], Nov. 21, 1997, [111 Stat. 2325][/us/stat/111/2325].)
+(Added [Pub. L. 102–585, title VI][/us/pl/102/585/tVI], § 603(a)(1), Nov. 4, 1992, [106 Stat. 4971][/us/stat/106/4971]; amended [Pub. L. 103–18][/us/pl/103/18], § 1(a), Apr. 12, 1993, [107 Stat. 53][/us/stat/107/53]; [Pub. L. 103–446, title XII][/us/pl/103/446/tXII], § 1201(e)(27), (f)(6), Nov. 2, 1994, [108 Stat. 4686][/us/stat/108/4686], 4687; [Pub. L. 104–106, div. A, title VII][/us/pl/104/106/dA/tVII], § 737(a), Feb. 10, 1996, [110 Stat. 383][/us/stat/110/383]; [Pub. L. 105–115, title I][/us/pl/105/115/tI], § 125(b)(2)(E), Nov. 21, 1997, [111 Stat. 2325][/us/stat/111/2325].)
 
  __References in Text__ 
 
@@ -183,29 +183,29 @@
 
     1996—Subsec. (b)(4). [Pub. L. 104–106][/us/pl/104/106] added par. (4).
 
-    1994—Subsec. (e)(1)(A). [Pub. L. 103–446, § 1201(e)(27)(A)][/us/pl/103/446/s1201/e/27/A], (f)(6)(A), substituted “December 4, 1992” for “30 days after the date of the enactment of this section” and “one-year period” for “1-year period”.
+    1994—Subsec. (e)(1)(A). [Pub. L. 103–446][/us/pl/103/446], § 1201(e)(27)(A), (f)(6)(A), substituted “December 4, 1992” for “30 days after the date of the enactment of this section” and “one-year period” for “1-year period”.
 
-    Subsec. (f)(2). [Pub. L. 103–446, § 1201(e)(27)(B)][/us/pl/103/446/s1201/e/27/B], substituted a period for “, and” at end.
+    Subsec. (f)(2). [Pub. L. 103–446][/us/pl/103/446], § 1201(e)(27)(B), substituted a period for “, and” at end.
 
-    Subsec. (g)(1), (2). [Pub. L. 103–446, § 1201(f)(6)(B)][/us/pl/103/446/s1201/f/6/B], substituted “November 4, 1992” for “the date of the enactment of this section”.
+    Subsec. (g)(1), (2). [Pub. L. 103–446][/us/pl/103/446], § 1201(f)(6)(B), substituted “November 4, 1992” for “the date of the enactment of this section”.
 
-    1993—Subsec. (a)(2). [Pub. L. 103–18, § 1(a)(1)][/us/pl/103/18/s1/a/1], struck out “preceding such date” before “as the Secretary considers appropriate”.
+    1993—Subsec. (a)(2). [Pub. L. 103–18][/us/pl/103/18], § 1(a)(1), struck out “preceding such date” before “as the Secretary considers appropriate”.
 
-    Subsec. (c). [Pub. L. 103–18, § 1(a)(2)][/us/pl/103/18/s1/a/2], in introductory provisions, struck out “for calendar quarters” after “subsection (a)(2),”, and in par. (1), struck out “preceding the month during which the contract goes into effect” after “during such period” and substituted “multiplied by” for “increased by”.
+    Subsec. (c). [Pub. L. 103–18][/us/pl/103/18], § 1(a)(2), in introductory provisions, struck out “for calendar quarters” after “subsection (a)(2),”, and in par. (1), struck out “preceding the month during which the contract goes into effect” after “during such period” and substituted “multiplied by” for “increased by”.
 
-    Subsec. (d)(1). [Pub. L. 103–18, § 1(a)(3)][/us/pl/103/18/s1/a/3], amended par. (1) generally. Prior to amendment, par. (1) read as follows: “during any one-year period that follows the first year for which the contract is in effect, the price charged may not exceed the price charged during the preceding one-year period, increased by the percentage increase in the Consumer Price Index for all urban consumers (U.S. city average) between the last months of such one-year periods for which Consumer Price Index data is available; and”.
+    Subsec. (d)(1). [Pub. L. 103–18][/us/pl/103/18], § 1(a)(3), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “during any one-year period that follows the first year for which the contract is in effect, the price charged may not exceed the price charged during the preceding one-year period, increased by the percentage increase in the Consumer Price Index for all urban consumers (U.S. city average) between the last months of such one-year periods for which Consumer Price Index data is available; and”.
 
-    Subsec. (i). [Pub. L. 103–18, § 1(a)(4)][/us/pl/103/18/s1/a/4], added subsec. (i).
+    Subsec. (i). [Pub. L. 103–18][/us/pl/103/18], § 1(a)(4), added subsec. (i).
 
  __Effective Date of 1996 Amendment__ 
 
-[Pub. L. 104–106, div. A, title VII, § 737(b)][/us/pl/104/106/s737/b], Feb. 10, 1996, [110 Stat. 383][/us/stat/110/383], provided that: 
+[Pub. L. 104–106, div. A, title VII][/us/pl/104/106/dA/tVII], § 737(b), Feb. 10, 1996, [110 Stat. 383][/us/stat/110/383], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall take effect as if included in the enactment of section 603 of the Veterans Health Care Act of 1992 ([Public Law 102–585][/us/pl/102/585]; [106 Stat. 4971][/us/stat/106/4971]).”
 
  __Effective Date of 1993 Amendment__ 
 
-[Pub. L. 103–18, § 1(b)][/us/pl/103/18/s1/b], Apr. 12, 1993, [107 Stat. 54][/us/stat/107/54], provided that: 
+[Pub. L. 103–18][/us/pl/103/18], § 1(b), Apr. 12, 1993, [107 Stat. 54][/us/stat/107/54], provided that: 
 
 > “The amendments made by subsection (a) \[amending this section\] shall take effect as if included in the enactment of section 603 of the Veterans Health Care Act of 1992 \[[Pub. L. 102–585][/us/pl/102/585]\].”
 
@@ -221,15 +221,15 @@
 ----------
 
 [/us/usc/t38/s1741]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1741
-[/us/pl/102/585/s603/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F585%2Fs603%2Fa%2F1
+[/us/pl/102/585/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F585%2FtVI
 [/us/stat/106/4971]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4971
-[/us/pl/103/18/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F18%2Fs1%2Fa
+[/us/pl/103/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F18
 [/us/stat/107/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F53
-[/us/pl/103/446/s1201/e/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2Fs1201%2Fe%2F27
+[/us/pl/103/446/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2FtXII
 [/us/stat/108/4686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4686
-[/us/pl/104/106/s737/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs737%2Fa
+[/us/pl/104/106/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtVII
 [/us/stat/110/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F383
-[/us/pl/105/115/s125/b/2/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2Fs125%2Fb%2F2%2FE
+[/us/pl/105/115/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2FtI
 [/us/stat/111/2325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2325
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
@@ -241,18 +241,18 @@
 [/us/pl/102/585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F585
 [/us/pl/105/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115
 [/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
-[/us/pl/103/446/s1201/e/27/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2Fs1201%2Fe%2F27%2FA
-[/us/pl/103/446/s1201/e/27/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2Fs1201%2Fe%2F27%2FB
-[/us/pl/103/446/s1201/f/6/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2Fs1201%2Ff%2F6%2FB
-[/us/pl/103/18/s1/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F18%2Fs1%2Fa%2F1
-[/us/pl/103/18/s1/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F18%2Fs1%2Fa%2F2
-[/us/pl/103/18/s1/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F18%2Fs1%2Fa%2F3
-[/us/pl/103/18/s1/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F18%2Fs1%2Fa%2F4
-[/us/pl/104/106/s737/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs737%2Fb
+[/us/pl/103/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446
+[/us/pl/103/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446
+[/us/pl/103/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446
+[/us/pl/103/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F18
+[/us/pl/103/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F18
+[/us/pl/103/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F18
+[/us/pl/103/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F18
+[/us/pl/104/106/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtVII
 [/us/stat/110/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F383
 [/us/pl/102/585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F585
 [/us/stat/106/4971]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4971
-[/us/pl/103/18/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F18%2Fs1%2Fb
+[/us/pl/103/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F18
 [/us/stat/107/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F54
 [/us/pl/102/585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F585
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542

@@ -47,7 +47,7 @@
 
         (B) subchapter II of this chapter, means the period beginning on February 28, 1961, and ending on May 7, 1975.
 
-(Added [Pub. L. 106–419, title IV, § 401(b)][/us/pl/106/419/s401/b], Nov. 1, 2000, [114 Stat. 1859][/us/stat/114/1859], § 1821; renumbered § 1831 and amended [Pub. L. 108–183, title I, § 102(a)(1)][/us/pl/108/183/s102/a/1], (b), Dec. 16, 2003, [117 Stat. 2653][/us/stat/117/2653], 2654.)
+(Added [Pub. L. 106–419, title IV][/us/pl/106/419/tIV], § 401(b), Nov. 1, 2000, [114 Stat. 1859][/us/stat/114/1859], § 1821; renumbered § 1831 and amended [Pub. L. 108–183, title I][/us/pl/108/183/tI], § 102(a)(1), (b), Dec. 16, 2003, [117 Stat. 2653][/us/stat/117/2653], 2654.)
 
  __Prior Provisions__ 
 
@@ -55,9 +55,9 @@
 
  __Amendments__ 
 
-    2003—[Pub. L. 108–183, § 102(a)(1)][/us/pl/108/183/s102/a/1], renumbered [section 1821 of this title][/us/usc/t38/s1821] as this section.
+    2003—[Pub. L. 108–183][/us/pl/108/183], § 102(a)(1), renumbered [section 1821 of this title][/us/usc/t38/s1821] as this section.
 
-    Par. (1). [Pub. L. 108–183, § 102(b)][/us/pl/108/183/s102/b], added par. (1) and struck out former par. (1) which read as follows: “The term ‘child’ means an individual, regardless of age or marital status, who—
+    Par. (1). [Pub. L. 108–183][/us/pl/108/183], § 102(b), added par. (1) and struck out former par. (1) which read as follows: “The term ‘child’ means an individual, regardless of age or marital status, who—
 
     “(A) is the natural child of a Vietnam veteran; and
 
@@ -75,14 +75,14 @@
 ----------
 
 [/us/usc/t38/s1821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1821
-[/us/pl/106/419/s401/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419%2Fs401%2Fb
+[/us/pl/106/419/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419%2FtIV
 [/us/stat/114/1859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1859
-[/us/pl/108/183/s102/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F183%2Fs102%2Fa%2F1
+[/us/pl/108/183/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F183%2FtI
 [/us/stat/117/2653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2653
 [/us/usc/t38/s3731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3731
-[/us/pl/108/183/s102/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F183%2Fs102%2Fa%2F1
+[/us/pl/108/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F183
 [/us/usc/t38/s1821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1821
-[/us/pl/108/183/s102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F183%2Fs102%2Fb
+[/us/pl/108/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F183
 [/us/pl/106/419/s401/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419%2Fs401%2Fg
 [/us/usc/t38/s1811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1811
 

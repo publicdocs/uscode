@@ -49,7 +49,7 @@
 
     (e) The Secretary may not treat any new health facilities (or any new certain beds in a health facility) as a State home under subsection (a) after September 30, 2009.
 
-(Added [Pub. L. 109–461, title II, § 211(c)(1)][/us/pl/109/461/s211/c/1], Dec. 22, 2006, [120 Stat. 3420][/us/stat/120/3420].)
+(Added [Pub. L. 109–461, title II][/us/pl/109/461/tII], § 211(c)(1), Dec. 22, 2006, [120 Stat. 3420][/us/stat/120/3420].)
 
 ----------
 
@@ -62,7 +62,7 @@
 [/us/usc/t38/s8134/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs8134%2Fa
 [/us/usc/t38/s8134/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs8134%2Fa
 [/us/usc/t38/s8134/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs8134%2Fd%2F1
-[/us/pl/109/461/s211/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461%2Fs211%2Fc%2F1
+[/us/pl/109/461/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461%2FtII
 [/us/stat/120/3420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3420
 
 

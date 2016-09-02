@@ -17,7 +17,7 @@
 
  __Amendments__ 
 
-    2001—[Pub. L. 107–95, § 5(d)(1)][/us/pl/107/95/s5/d/1], (2)(A), Dec. 21, 2001, [115 Stat. 918][/us/stat/115/918], redesignated subchapter VI of chapter 37 of this title as this subchapter and struck out “FOR HOMELESS VETERANS” after “HOUSING” in subchapter heading.
+    2001—[Pub. L. 107–95][/us/pl/107/95], § 5(d)(1), (2)(A), Dec. 21, 2001, [115 Stat. 918][/us/stat/115/918], redesignated subchapter VI of chapter 37 of this title as this subchapter and struck out “FOR HOMELESS VETERANS” after “HOUSING” in subchapter heading.
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/107/95/s5/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F95%2Fs5%2Fd%2F1
+[/us/pl/107/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F95
 [/us/stat/115/918]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F918
 
 

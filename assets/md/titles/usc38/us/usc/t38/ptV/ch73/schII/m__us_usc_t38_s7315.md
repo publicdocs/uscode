@@ -49,7 +49,7 @@
 
         (2) Whenever the Committee submits a report to the Secretary under paragraph (1), the Committee shall at the same time transmit a copy of the report in the same form to the appropriate committees of Congress. Not later than 90 days after receipt of a report under that paragraph, the Secretary shall submit to the appropriate committees of Congress a report containing any comments and recommendations of the Secretary with respect to the report of the Committee.
 
-(Added [Pub. L. 102–40, title IV, § 401(a)(3)][/us/pl/102/40/s401/a/3], May 7, 1991, [105 Stat. 217][/us/stat/105/217]; amended [Pub. L. 102–83, § 4(a)(3)][/us/pl/102/83/s4/a/3], (4), Aug. 6, 1991, [105 Stat. 404][/us/stat/105/404]; [Pub. L. 102–405, title I, § 102][/us/pl/102/405/s102], title III, § 302(c)(1), Oct. 9, 1992, [106 Stat. 1973][/us/stat/106/1973], 1984; [Pub. L. 103–446, title XII][/us/pl/103/446], §§ 1201(i)(9), 1202(b)(2), Nov. 2, 1994, [108 Stat. 4688][/us/stat/108/4688], 4689; [Pub. L. 107–330, title III, § 308(g)(13)][/us/pl/107/330/s308/g/13], Dec. 6, 2002, [116 Stat. 2829][/us/stat/116/2829].)
+(Added [Pub. L. 102–40, title IV][/us/pl/102/40/tIV], § 401(a)(3), May 7, 1991, [105 Stat. 217][/us/stat/105/217]; amended [Pub. L. 102–83][/us/pl/102/83], § 4(a)(3), (4), Aug. 6, 1991, [105 Stat. 404][/us/stat/105/404]; [Pub. L. 102–405, title I][/us/pl/102/405/tI], § 102, title III, § 302(c)(1), Oct. 9, 1992, [106 Stat. 1973][/us/stat/106/1973], 1984; [Pub. L. 103–446, title XII][/us/pl/103/446/tXII], §§ 1201(i)(9), 1202(b)(2), Nov. 2, 1994, [108 Stat. 4688][/us/stat/108/4688], 4689; [Pub. L. 107–330, title III][/us/pl/107/330/tIII], § 308(g)(13), Dec. 6, 2002, [116 Stat. 2829][/us/stat/116/2829].)
 
  __References in Text__ 
 
@@ -59,19 +59,19 @@
 
     2002—Subsec. (a). [Pub. L. 107–330][/us/pl/107/330] inserted “Veterans Health” before “Administration” in first sentence.
 
-    1994—Subsec. (b)(2). [Pub. L. 103–446, § 1201(i)(9)][/us/pl/103/446/s1201/i/9], which directed substitution of “Veterans’ Administration” for “Department”, could not be executed because “Department” did not appear subsequent to execution of amendment by [Pub. L. 103–446, § 1202(b)(2)][/us/pl/103/446/s1202/b/2]. See below.
+    1994—Subsec. (b)(2). [Pub. L. 103–446][/us/pl/103/446], § 1201(i)(9), which directed substitution of “Veterans’ Administration” for “Department”, could not be executed because “Department” did not appear subsequent to execution of amendment by [Pub. L. 103–446][/us/pl/103/446], § 1202(b)(2). See below.
 
-    [Pub. L. 103–446, § 1202(b)(2)][/us/pl/103/446/s1202/b/2], amended [Pub. L. 102–83, § 4(a)(3)][/us/pl/102/83/s4/a/3], (4), to make it inapplicable to this section. See 1991 Amendment note below.
+    [Pub. L. 103–446][/us/pl/103/446], § 1202(b)(2), amended [Pub. L. 102–83][/us/pl/102/83], § 4(a)(3), (4), to make it inapplicable to this section. See 1991 Amendment note below.
 
-    1992—Subsecs. (a), (b)(1), (5), (c)(1). [Pub. L. 102–405, § 302(c)(1)][/us/pl/102/405/s302/c/1], substituted “Under Secretary for Health” for “Chief Medical Director” wherever appearing.
+    1992—Subsecs. (a), (b)(1), (5), (c)(1). [Pub. L. 102–405][/us/pl/102/405], § 302(c)(1), substituted “Under Secretary for Health” for “Chief Medical Director” wherever appearing.
 
-    Subsec. (c)(2). [Pub. L. 102–405, § 102][/us/pl/102/405/s102], amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Not later than 90 days after receipt of a report submitted under paragraph (1), the Secretary shall transmit the report, together with the Secretary’s comments and recommendations thereon, to the appropriate committees of the Congress.”
+    Subsec. (c)(2). [Pub. L. 102–405][/us/pl/102/405], § 102, amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Not later than 90 days after receipt of a report submitted under paragraph (1), the Secretary shall transmit the report, together with the Secretary’s comments and recommendations thereon, to the appropriate committees of the Congress.”
 
-    1991—Subsec. (b)(2). [Pub. L. 102–83, § 4(a)(3)][/us/pl/102/83/s4/a/3], (4), which directed substitution of “Department” for “Veterans’ Administration”, was amended by [Pub. L. 103–446, § 1202(b)(2)][/us/pl/103/446/s1202/b/2], to make it inapplicable to this section.
+    1991—Subsec. (b)(2). [Pub. L. 102–83][/us/pl/102/83], § 4(a)(3), (4), which directed substitution of “Department” for “Veterans’ Administration”, was amended by [Pub. L. 103–446][/us/pl/103/446], § 1202(b)(2), to make it inapplicable to this section.
 
  __Effective Date of 1994 Amendment__ 
 
-    [Pub. L. 103–446, title XII, § 1202(b)][/us/pl/103/446/s1202/b], Nov. 2, 1994, [108 Stat. 4689][/us/stat/108/4689], provided that the amendment made by that section is effective Aug. 6, 1991, and as if included in the enactment of [Pub. L. 102–83][/us/pl/102/83].
+    [Pub. L. 103–446, title XII][/us/pl/103/446/tXII], § 1202(b), Nov. 2, 1994, [108 Stat. 4689][/us/stat/108/4689], provided that the amendment made by that section is effective Aug. 6, 1991, and as if included in the enactment of [Pub. L. 102–83][/us/pl/102/83].
 
  __Termination of Advisory Committees__ 
 
@@ -88,15 +88,15 @@
 [/us/pl/96/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F330
 [/us/stat/94/1048]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1048
 [/us/usc/t38/s7314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7314
-[/us/pl/102/40/s401/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs401%2Fa%2F3
+[/us/pl/102/40/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2FtIV
 [/us/stat/105/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F217
-[/us/pl/102/83/s4/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fa%2F3
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F404
-[/us/pl/102/405/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405%2Fs102
+[/us/pl/102/405/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405%2FtI
 [/us/stat/106/1973]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1973
-[/us/pl/103/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446
+[/us/pl/103/446/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2FtXII
 [/us/stat/108/4688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4688
-[/us/pl/107/330/s308/g/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F330%2Fs308%2Fg%2F13
+[/us/pl/107/330/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F330%2FtIII
 [/us/stat/116/2829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2829
 [/us/pl/96/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F330
 [/us/stat/94/1030]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1030
@@ -105,15 +105,15 @@
 [/us/usc/t38/s7314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7314
 [/us/usc/t38/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs101
 [/us/pl/107/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F330
-[/us/pl/103/446/s1201/i/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2Fs1201%2Fi%2F9
-[/us/pl/103/446/s1202/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2Fs1202%2Fb%2F2
-[/us/pl/103/446/s1202/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2Fs1202%2Fb%2F2
-[/us/pl/102/83/s4/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fa%2F3
-[/us/pl/102/405/s302/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405%2Fs302%2Fc%2F1
-[/us/pl/102/405/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405%2Fs102
-[/us/pl/102/83/s4/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fa%2F3
-[/us/pl/103/446/s1202/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2Fs1202%2Fb%2F2
-[/us/pl/103/446/s1202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2Fs1202%2Fb
+[/us/pl/103/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446
+[/us/pl/103/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446
+[/us/pl/103/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405
+[/us/pl/102/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/103/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446
+[/us/pl/103/446/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2FtXII
 [/us/stat/108/4689]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4689
 [/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/pl/92/463/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463%2Fs14

@@ -143,7 +143,7 @@
 
             (E) A person or entity obligated to provide, or to pay the expenses of, health services under a health-plan contract.
 
-(Added [Pub. L. 106–117, title I, § 111(a)][/us/pl/106/117/s111/a], Nov. 30, 1999, [113 Stat. 1553][/us/stat/113/1553]; amended [Pub. L. 110–387, title IV, § 402(a)][/us/pl/110/387/s402/a], Oct. 10, 2008, [122 Stat. 4123][/us/stat/122/4123]; [Pub. L. 111–137, § 1(a)][/us/pl/111/137/s1/a], (b), Feb. 1, 2010, [123 Stat. 3495][/us/stat/123/3495].)
+(Added [Pub. L. 106–117, title I][/us/pl/106/117/tI], § 111(a), Nov. 30, 1999, [113 Stat. 1553][/us/stat/113/1553]; amended [Pub. L. 110–387, title IV][/us/pl/110/387/tIV], § 402(a), Oct. 10, 2008, [122 Stat. 4123][/us/stat/122/4123]; [Pub. L. 111–137][/us/pl/111/137], § 1(a), (b), Feb. 1, 2010, [123 Stat. 3495][/us/stat/123/3495].)
 
  __References in Text__ 
 
@@ -151,19 +151,19 @@
 
  __Amendments__ 
 
-    2010—Subsec. (b)(3)(C). [Pub. L. 111–137, § 1(a)(1)][/us/pl/111/137/s1/a/1], struck out “or in part” after “in whole”.
+    2010—Subsec. (b)(3)(C). [Pub. L. 111–137][/us/pl/111/137], § 1(a)(1), struck out “or in part” after “in whole”.
 
-    Subsec. (c)(4). [Pub. L. 111–137, § 1(b)][/us/pl/111/137/s1/b], added par. (4).
+    Subsec. (c)(4). [Pub. L. 111–137][/us/pl/111/137], § 1(b), added par. (4).
 
-    Subsec. (f)(2)(E). [Pub. L. 111–137, § 1(a)(2)][/us/pl/111/137/s1/a/2], struck out subpar. (E) which read as follows: “A law of a State or political subdivision described in [section 1729(a)(2)(B) of this title][/us/usc/t38/s1729/a/2/B].”
+    Subsec. (f)(2)(E). [Pub. L. 111–137][/us/pl/111/137], § 1(a)(2), struck out subpar. (E) which read as follows: “A law of a State or political subdivision described in [section 1729(a)(2)(B) of this title][/us/usc/t38/s1729/a/2/B].”
 
-    2008—Subsec. (a)(1). [Pub. L. 110–387, § 402(a)(1)][/us/pl/110/387/s402/a/1], substituted “shall reimburse” for “may reimburse”.
+    2008—Subsec. (a)(1). [Pub. L. 110–387][/us/pl/110/387], § 402(a)(1), substituted “shall reimburse” for “may reimburse”.
 
-    Subsec. (f)(1)(C). [Pub. L. 110–387, § 402(a)(2)][/us/pl/110/387/s402/a/2], added subpar. (C) and struck out former subpar. (C) which read as follows: “until such time as the veteran can be transferred safely to a Department facility or other Federal facility”.
+    Subsec. (f)(1)(C). [Pub. L. 110–387][/us/pl/110/387], § 402(a)(2), added subpar. (C) and struck out former subpar. (C) which read as follows: “until such time as the veteran can be transferred safely to a Department facility or other Federal facility”.
 
  __Effective Date of 2010 Amendment__ 
 
-[Pub. L. 111–137, § 1(c)][/us/pl/111/137/s1/c], Feb. 1, 2010, [123 Stat. 3495][/us/stat/123/3495], provided that:
+[Pub. L. 111–137][/us/pl/111/137], § 1(c), Feb. 1, 2010, [123 Stat. 3495][/us/stat/123/3495], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -175,13 +175,13 @@
 
  __Effective Date__ 
 
-[Pub. L. 106–117, title I, § 111(c)][/us/pl/106/117/s111/c], Nov. 30, 1999, [113 Stat. 1556][/us/stat/113/1556], provided that: 
+[Pub. L. 106–117, title I][/us/pl/106/117/tI], § 111(c), Nov. 30, 1999, [113 Stat. 1556][/us/stat/113/1556], provided that: 
 
 > “The amendments made by this section \[enacting this section and amending [section 1729A of this title][/us/usc/t38/s1729A]\] shall take effect 180 days after the date of the enactment of this Act \[Nov. 30, 1999\].”
 
  __Implementation Reports__ 
 
-[Pub. L. 106–117, title I, § 111(d)][/us/pl/106/117/s111/d], Nov. 30, 1999, [113 Stat. 1556][/us/stat/113/1556], provided that: 
+[Pub. L. 106–117, title I][/us/pl/106/117/tI], § 111(d), Nov. 30, 1999, [113 Stat. 1556][/us/stat/113/1556], provided that: 
 
 > “The Secretary \[of Veterans Affairs\] shall include with the budget justification materials submitted to Congress in support of the Department of Veterans Affairs budget for fiscal year 2002 and for fiscal year 2003 a report on the implementation of [section 1725 of title 38][/us/usc/t38/s1725], United States Code, as added by subsection (a). Each such report shall include information on the experience of the Department under that section and the costs incurred, and expected to be incurred, under that section.”
 
@@ -198,28 +198,28 @@
 [/us/usc/t42/s1395j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395j
 [/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
 [/us/usc/t38/s1729/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1729%2Fa%2F2%2FA
-[/us/pl/106/117/s111/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117%2Fs111%2Fa
+[/us/pl/106/117/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117%2FtI
 [/us/stat/113/1553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1553
-[/us/pl/110/387/s402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F387%2Fs402%2Fa
+[/us/pl/110/387/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F387%2FtIV
 [/us/stat/122/4123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4123
-[/us/pl/111/137/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F137%2Fs1%2Fa
+[/us/pl/111/137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F137
 [/us/stat/123/3495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F3495
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
 [/us/usc/t42/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1305
-[/us/pl/111/137/s1/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F137%2Fs1%2Fa%2F1
-[/us/pl/111/137/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F137%2Fs1%2Fb
-[/us/pl/111/137/s1/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F137%2Fs1%2Fa%2F2
+[/us/pl/111/137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F137
+[/us/pl/111/137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F137
+[/us/pl/111/137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F137
 [/us/usc/t38/s1729/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1729%2Fa%2F2%2FB
-[/us/pl/110/387/s402/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F387%2Fs402%2Fa%2F1
-[/us/pl/110/387/s402/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F387%2Fs402%2Fa%2F2
-[/us/pl/111/137/s1/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F137%2Fs1%2Fc
+[/us/pl/110/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F387
+[/us/pl/110/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F387
+[/us/pl/111/137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F137
 [/us/stat/123/3495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F3495
 [/us/usc/t38/s1725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1725
-[/us/pl/106/117/s111/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117%2Fs111%2Fc
+[/us/pl/106/117/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117%2FtI
 [/us/stat/113/1556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1556
 [/us/usc/t38/s1729A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1729A
-[/us/pl/106/117/s111/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117%2Fs111%2Fd
+[/us/pl/106/117/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117%2FtI
 [/us/stat/113/1556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1556
 [/us/usc/t38/s1725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1725
 

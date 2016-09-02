@@ -91,11 +91,11 @@
 
  __Amendments__ 
 
-    2014—[Pub. L. 113–146, title VII, § 707(a)(2)][/us/pl/113/146/s707/a/2], Aug. 7, 2014, [128 Stat. 1800][/us/stat/128/1800], added item 713.
+    2014—[Pub. L. 113–146, title VII][/us/pl/113/146/tVII], § 707(a)(2), Aug. 7, 2014, [128 Stat. 1800][/us/stat/128/1800], added item 713.
 
-    2001—[Pub. L. 107–103, title V, § 509(a)(2)][/us/pl/107/103/s509/a/2], Dec. 27, 2001, [115 Stat. 997][/us/stat/115/997], struck out item 712 “Full-time equivalent positions: limitation on reduction”.
+    2001—[Pub. L. 107–103, title V][/us/pl/107/103/tV], § 509(a)(2), Dec. 27, 2001, [115 Stat. 997][/us/stat/115/997], struck out item 712 “Full-time equivalent positions: limitation on reduction”.
 
-    1994—[Pub. L. 103–446, title XI, § 1102(b)][/us/pl/103/446/s1102/b], Nov. 2, 1994, [108 Stat. 4681][/us/stat/108/4681], added item 712.
+    1994—[Pub. L. 103–446, title XI][/us/pl/103/446/tXI], § 1102(b), Nov. 2, 1994, [108 Stat. 4681][/us/stat/108/4681], added item 712.
 
 ----------
 
@@ -104,11 +104,11 @@
 ----------
 ----------
 
-[/us/pl/113/146/s707/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F146%2Fs707%2Fa%2F2
+[/us/pl/113/146/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F146%2FtVII
 [/us/stat/128/1800]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1800
-[/us/pl/107/103/s509/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F103%2Fs509%2Fa%2F2
+[/us/pl/107/103/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F103%2FtV
 [/us/stat/115/997]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F997
-[/us/pl/103/446/s1102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2Fs1102%2Fb
+[/us/pl/103/446/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2FtXI
 [/us/stat/108/4681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4681
 
 

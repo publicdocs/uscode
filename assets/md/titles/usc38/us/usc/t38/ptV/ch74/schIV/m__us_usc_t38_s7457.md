@@ -35,7 +35,7 @@
 
         (2) the rate of pay which such employee is entitled to receive including on-call premium pay described in subsection (a).
 
-(Added [Pub. L. 102–40, title IV, § 401(b)(4)][/us/pl/102/40/s401/b/4], May 7, 1991, [105 Stat. 236][/us/stat/105/236].)
+(Added [Pub. L. 102–40, title IV][/us/pl/102/40/tIV], § 401(b)(4), May 7, 1991, [105 Stat. 236][/us/stat/105/236].)
 
  __Prior Provisions__ 
 
@@ -52,7 +52,7 @@
 [/us/usc/t38/s7401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7401
 [/us/usc/t38/s7455/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7455%2Fa%2F2%2FB
 [/us/usc/t5/s5545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5545
-[/us/pl/102/40/s401/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs401%2Fb%2F4
+[/us/pl/102/40/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2FtIV
 [/us/stat/105/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F236
 [/us/usc/t38/s4107/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs4107%2Fj
 [/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40

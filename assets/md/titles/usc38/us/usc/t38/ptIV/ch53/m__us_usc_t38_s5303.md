@@ -37,7 +37,7 @@
 
             If such board makes a preliminary determination that such person would not have been awarded an upgraded discharge under standards meeting the requirements of paragraph (1) of this subsection, such person shall be entitled to an appearance before the board, as provided for in [section 1553(c) of title 10][/us/usc/t10/s1553/c], prior to a final determination on such question and shall be given written notice by the board of such preliminary determination and of the right to such appearance. The Secretary shall, as soon as administratively feasible, notify the appropriate board of review of the receipt of benefits under laws administered by the Secretary, or of the application for such benefits, by any person awarded an upgraded discharge under revised standards referred to in clause (A)(i), (ii), or (iii) of this paragraph with respect to whom a favorable determination has not been made under this paragraph.
 
-([Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1230][/us/stat/72/1230], § 3103; [Pub. L. 86–113][/us/pl/86/113], July 28, 1959, [73 Stat. 262][/us/stat/73/262]; [Pub. L. 95–126, § 1(a)][/us/pl/95/126/s1/a], Oct. 8, 1977, [91 Stat. 1106][/us/stat/91/1106]; [Pub. L. 97–295, § 4(75)][/us/pl/97/295/s4/75], Oct. 12, 1982, [96 Stat. 1310][/us/stat/96/1310]; [Pub. L. 99–576, title VII, § 701(70)][/us/pl/99/576/s701/70], Oct. 28, 1986, [100 Stat. 3296][/us/stat/100/3296]; renumbered § 5303, [Pub. L. 102–40, title IV, § 402(b)(1)][/us/pl/102/40/s402/b/1], May 7, 1991, [105 Stat. 238][/us/stat/105/238]; [Pub. L. 102–83, § 4(a)(1)][/us/pl/102/83/s4/a/1], (3), (4), (b)(1), (2)(E), Aug. 6, 1991, [105 Stat. 403–405][/us/stat/105/403-405].)
+([Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1230][/us/stat/72/1230], § 3103; [Pub. L. 86–113][/us/pl/86/113], July 28, 1959, [73 Stat. 262][/us/stat/73/262]; [Pub. L. 95–126][/us/pl/95/126], § 1(a), Oct. 8, 1977, [91 Stat. 1106][/us/stat/91/1106]; [Pub. L. 97–295][/us/pl/97/295], § 4(75), Oct. 12, 1982, [96 Stat. 1310][/us/stat/96/1310]; [Pub. L. 99–576, title VII][/us/pl/99/576/tVII], § 701(70), Oct. 28, 1986, [100 Stat. 3296][/us/stat/100/3296]; renumbered § 5303, [Pub. L. 102–40, title IV][/us/pl/102/40/tIV], § 402(b)(1), May 7, 1991, [105 Stat. 238][/us/stat/105/238]; [Pub. L. 102–83][/us/pl/102/83], § 4(a)(1), (3), (4), (b)(1), (2)(E), Aug. 6, 1991, [105 Stat. 403–405][/us/stat/105/403-405].)
 
  __References in Text__ 
 
@@ -47,37 +47,37 @@
 
     1991—[Pub. L. 102–40][/us/pl/102/40] renumbered [section 3103 of this title][/us/usc/t38/s3103] as this section.
 
-    Subsecs. (a), (b). [Pub. L. 102–83, § 4(b)(1)][/us/pl/102/83/s4/b/1], (2)(E), substituted “Secretary” for “Administrator”.
+    Subsecs. (a), (b). [Pub. L. 102–83][/us/pl/102/83], § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
-    [Pub. L. 102–83, § 4(a)(1)][/us/pl/102/83/s4/a/1], substituted “administered by the Secretary” for “administered by the Veterans’ Administration”.
+    [Pub. L. 102–83][/us/pl/102/83], § 4(a)(1), substituted “administered by the Secretary” for “administered by the Veterans’ Administration”.
 
-    Subsec. (e)(1). [Pub. L. 102–83, § 4(a)(1)][/us/pl/102/83/s4/a/1], substituted “administered by the Secretary” for “administered by the Veterans’ Administration”.
+    Subsec. (e)(1). [Pub. L. 102–83][/us/pl/102/83], § 4(a)(1), substituted “administered by the Secretary” for “administered by the Veterans’ Administration”.
 
-    Subsec. (e)(2). [Pub. L. 102–83, § 4(b)(1)][/us/pl/102/83/s4/b/1], (2)(E), substituted “Secretary” for “Administrator” in last sentence.
+    Subsec. (e)(2). [Pub. L. 102–83][/us/pl/102/83], § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in last sentence.
 
-    [Pub. L. 102–83, § 4(a)(3)][/us/pl/102/83/s4/a/3], (4), substituted “Department” for “Veterans’ Administration” in subpar. (B).
+    [Pub. L. 102–83][/us/pl/102/83], § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration” in subpar. (B).
 
-    [Pub. L. 102–83, § 4(a)(1)][/us/pl/102/83/s4/a/1], substituted “administered by the Secretary” for “administered by the Veterans’ Administration” in subpar. (A) and last sentence.
+    [Pub. L. 102–83][/us/pl/102/83], § 4(a)(1), substituted “administered by the Secretary” for “administered by the Veterans’ Administration” in subpar. (A) and last sentence.
 
-    1986—Subsec. (a). [Pub. L. 99–576, § 701(70)(A)][/us/pl/99/576/s701/70/A], substituted “such person” for “he” after “on the ground that” and “such officer’s” for “his” before “resignation”.
+    1986—Subsec. (a). [Pub. L. 99–576][/us/pl/99/576], § 701(70)(A), substituted “such person” for “he” after “on the ground that” and “such officer’s” for “his” before “resignation”.
 
-    Subsec. (b). [Pub. L. 99–576, § 701(70)(B)][/us/pl/99/576/s701/70/B], substituted “a person’s” for “his”, “that person” for “any person”, and “such person” for “he” before “was separated”.
+    Subsec. (b). [Pub. L. 99–576][/us/pl/99/576], § 701(70)(B), substituted “a person’s” for “his”, “that person” for “any person”, and “such person” for “he” before “was separated”.
 
-    Subsec. (c). [Pub. L. 99–576, § 701(70)(C)][/us/pl/99/576/s701/70/C], substituted “the individual’s” for “his” in two places, and “the individual” for “he”.
+    Subsec. (c). [Pub. L. 99–576][/us/pl/99/576], § 701(70)(C), substituted “the individual’s” for “his” in two places, and “the individual” for “he”.
 
-    Subsec. (e)(2). [Pub. L. 99–576, § 701(70)(D)][/us/pl/99/576/s701/70/D], substituted “the” for “his or her” before “right to such appearance” at end of second sentence.
+    Subsec. (e)(2). [Pub. L. 99–576][/us/pl/99/576], § 701(70)(D), substituted “the” for “his or her” before “right to such appearance” at end of second sentence.
 
     1982—Subsec. (e)(2)(B). [Pub. L. 97–295][/us/pl/97/295] substituted “before October 9, 1978,” for “within one year after the date of enactment of this paragraph”, “before October 9, 1977,” for “on or prior to the date of enactment of this paragraph”, and “October 8, 1977” for “such enactment date”.
 
-    1977—Subsec. (a). [Pub. L. 95–126, § 1(a)(1)][/us/pl/95/126/s1/a/1], inserted provisions barring a person in the Armed Forces from being a recipient of benefits when discharged on the basis of an absence without authority from active duty for a continuous period of at least one hundred and eighty days if such person was discharged under conditions other than honorable unless such person demonstrates to the satisfaction of the Administrator that there are compelling circumstances to warrant such prolonged unauthorized absence and barred benefits notwithstanding any action subsequent to the date of such discharge by a board established pursuant to [section 1553 of Title 10][/us/usc/t10/s1553].
+    1977—Subsec. (a). [Pub. L. 95–126][/us/pl/95/126], § 1(a)(1), inserted provisions barring a person in the Armed Forces from being a recipient of benefits when discharged on the basis of an absence without authority from active duty for a continuous period of at least one hundred and eighty days if such person was discharged under conditions other than honorable unless such person demonstrates to the satisfaction of the Administrator that there are compelling circumstances to warrant such prolonged unauthorized absence and barred benefits notwithstanding any action subsequent to the date of such discharge by a board established pursuant to [section 1553 of Title 10][/us/usc/t10/s1553].
 
-    Subsec. (e). [Pub. L. 95–126, § 1(a)(2)][/us/pl/95/126/s1/a/2], added subsec. (e).
+    Subsec. (e). [Pub. L. 95–126][/us/pl/95/126], § 1(a)(2), added subsec. (e).
 
     1959—Subsec. (c). [Pub. L. 86–113][/us/pl/86/113] required affirmative evidence to establish that alien was discharged on his own application or solicitation.
 
  __Effective Date of 1977 Amendment__ 
 
-[Pub. L. 95–126, § 5][/us/pl/95/126/s5], Oct. 8, 1977, [91 Stat. 1108][/us/stat/91/1108], provided that: 
+[Pub. L. 95–126][/us/pl/95/126], § 5, Oct. 8, 1977, [91 Stat. 1108][/us/stat/91/1108], provided that: 
 
 > “This Act \[amending this section and [section 101 of this title][/us/usc/t38/s101] and enacting provisions set out below\] shall become effective on the date of its enactment \[Oct. 8, 1977\], except that—
 
@@ -95,7 +95,7 @@
 
  __Expedited Determinations After Information and Notification to Persons Awarded General or Honorable Discharges; Procedures for Application to Title 10 § 1552 Board and to Secretary of Veterans Affairs__ 
 
-[Pub. L. 95–126, § 1(b)][/us/pl/95/126/s1/b], Oct. 8, 1977, [91 Stat. 1107][/us/stat/91/1107], as amended by [Pub. L. 100–527, § 10(1)][/us/pl/100/527/s10/1], (2), Oct. 25, 1988, [102 Stat. 2640][/us/stat/102/2640], 2641; [Pub. L. 102–40, title IV, § 402(d)(2)][/us/pl/102/40/s402/d/2], May 7, 1991, [105 Stat. 239][/us/stat/105/239], provided that:
+[Pub. L. 95–126][/us/pl/95/126], § 1(b), Oct. 8, 1977, [91 Stat. 1107][/us/stat/91/1107], as amended by [Pub. L. 100–527][/us/pl/100/527], § 10(1), (2), Oct. 25, 1988, [102 Stat. 2640][/us/stat/102/2640], 2641; [Pub. L. 102–40, title IV][/us/pl/102/40/tIV], § 402(d)(2), May 7, 1991, [105 Stat. 239][/us/stat/105/239], provided that:
 
 >     “(1) The Secretary of Defense shall fully inform each person awarded a general or honorable discharge under revised standards for the review of discharges referred to in section 5303(e)(2)(A)(i), (ii), or (iii) \[formerly 3103(e)(2)(A)(i), (ii), or (iii)\] of title 38, United States Code, as added by subsection (a)(2) of this section, of his or her right to obtain an expedited determination under section 5303(e)(2)(B)(i) \[formerly 3103(e)(2)(B)(i)\] of such title and of the implications of the provisions of this Act \[amending this section and [section 101(18) of this title][/us/usc/t38/s101/18] and enacting provisions set out as notes under this section\] for each such person.
 
@@ -103,13 +103,13 @@
 
  __Health Care and Benefits for Disability During Active Service in Line of Duty, Except When Barred Under Subsec. (a) or by Bad Conduct Discharge__ 
 
-[Pub. L. 95–126, § 2][/us/pl/95/126/s2], Oct. 8, 1977, [91 Stat. 1107][/us/stat/91/1107], as amended by [Pub. L. 100–527, § 10(1)][/us/pl/100/527/s10/1], Oct. 25, 1988, [102 Stat. 2640][/us/stat/102/2640]; [Pub. L. 102–40, title IV, § 402(d)(2)][/us/pl/102/40/s402/d/2], May 7, 1991, [105 Stat. 239][/us/stat/105/239], provided that: 
+[Pub. L. 95–126][/us/pl/95/126], § 2, Oct. 8, 1977, [91 Stat. 1107][/us/stat/91/1107], as amended by [Pub. L. 100–527][/us/pl/100/527], § 10(1), Oct. 25, 1988, [102 Stat. 2640][/us/stat/102/2640]; [Pub. L. 102–40, title IV][/us/pl/102/40/tIV], § 402(d)(2), May 7, 1991, [105 Stat. 239][/us/stat/105/239], provided that: 
 
 > “Notwithstanding any other provision of law, the Secretary of Veterans Affairs shall provide the type of health care and related benefits authorized to be provided under chapter 17 of title 38, United States Code, for any disability incurred or aggravated during active military, naval, or air service in line of duty by a person other than a person barred from receiving benefits by section 5303(a) \[formerly 3103(a)\] of such title, but shall not provide such health care and related benefits pursuant to this section for any disability incurred or aggravated during a period of service from which such person was discharged by reason of a bad conduct discharge.”
 
  __Regulations Respecting Standards and Procedures for Determination of Separation From Active Service Under Conditions Other Than Dishonorable Free of Unique or Special Advantages or Special Distinctions Between Veterans__ 
 
-[Pub. L. 95–126, § 4][/us/pl/95/126/s4], Oct. 8, 1977, [91 Stat. 1108][/us/stat/91/1108], as amended by [Pub. L. 100–527, § 10(1)][/us/pl/100/527/s10/1], (2), Oct. 25, 1988, [102 Stat. 2640][/us/stat/102/2640]; [Pub. L. 102–40, title IV, § 402(d)(2)][/us/pl/102/40/s402/d/2], May 7, 1991, [105 Stat. 239][/us/stat/105/239], provided that: 
+[Pub. L. 95–126][/us/pl/95/126], § 4, Oct. 8, 1977, [91 Stat. 1108][/us/stat/91/1108], as amended by [Pub. L. 100–527][/us/pl/100/527], § 10(1), (2), Oct. 25, 1988, [102 Stat. 2640][/us/stat/102/2640]; [Pub. L. 102–40, title IV][/us/pl/102/40/tIV], § 402(d)(2), May 7, 1991, [105 Stat. 239][/us/stat/105/239], provided that: 
 
 > “In promulgating, or making any revisions of or amendments to, regulations governing the standards and procedures by which the Department of Veterans Affairs determines whether a person was discharged or released from active military, naval, or air service under conditions other than dishonorable, the Secretary of Veterans Affairs shall, in keeping with the spirit and intent of this Act \[amending this section and [section 101(18) of this title][/us/usc/t38/s101/18] and enacting provisions set out as notes under this section\], not promulgate any such regulations or revise or amend any such regulations for the purpose of, or having the effect of, (1) providing any unique or special advantage to veterans awarded general or honorable discharges under revised standards for the review of discharges described in section 5303(e)(2)(A)(i), (ii), or (iii) \[formerly 3103(e)(2)(A)(i), (ii), or (iii)\] of title 38, United States Code, as added by section 1(a)(2) of this Act, or (2) otherwise making any special distinction between such veterans and other veterans.”
 
@@ -128,57 +128,57 @@
 [/us/stat/72/1230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1230
 [/us/pl/86/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F113
 [/us/stat/73/262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F262
-[/us/pl/95/126/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F126%2Fs1%2Fa
+[/us/pl/95/126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F126
 [/us/stat/91/1106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1106
-[/us/pl/97/295/s4/75]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295%2Fs4%2F75
+[/us/pl/97/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295
 [/us/stat/96/1310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1310
-[/us/pl/99/576/s701/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2Fs701%2F70
+[/us/pl/99/576/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2FtVII
 [/us/stat/100/3296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3296
-[/us/pl/102/40/s402/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs402%2Fb%2F1
+[/us/pl/102/40/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2FtIV
 [/us/stat/105/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F238
-[/us/pl/102/83/s4/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fa%2F1
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/403-405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F403-405
 [/us/usc/t50/s3811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3811
 [/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40
 [/us/usc/t38/s3103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3103
-[/us/pl/102/83/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fb%2F1
-[/us/pl/102/83/s4/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fa%2F1
-[/us/pl/102/83/s4/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fa%2F1
-[/us/pl/102/83/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fb%2F1
-[/us/pl/102/83/s4/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fa%2F3
-[/us/pl/102/83/s4/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fa%2F1
-[/us/pl/99/576/s701/70/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2Fs701%2F70%2FA
-[/us/pl/99/576/s701/70/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2Fs701%2F70%2FB
-[/us/pl/99/576/s701/70/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2Fs701%2F70%2FC
-[/us/pl/99/576/s701/70/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2Fs701%2F70%2FD
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/99/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576
+[/us/pl/99/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576
+[/us/pl/99/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576
+[/us/pl/99/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576
 [/us/pl/97/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295
-[/us/pl/95/126/s1/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F126%2Fs1%2Fa%2F1
+[/us/pl/95/126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F126
 [/us/usc/t10/s1553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1553
-[/us/pl/95/126/s1/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F126%2Fs1%2Fa%2F2
+[/us/pl/95/126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F126
 [/us/pl/86/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F113
-[/us/pl/95/126/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F126%2Fs5
+[/us/pl/95/126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F126
 [/us/stat/91/1108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1108
 [/us/usc/t38/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs101
 [/us/usc/t10/s1553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1553
-[/us/pl/95/126/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F126%2Fs1%2Fb
+[/us/pl/95/126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F126
 [/us/stat/91/1107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1107
-[/us/pl/100/527/s10/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F527%2Fs10%2F1
+[/us/pl/100/527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F527
 [/us/stat/102/2640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2640
-[/us/pl/102/40/s402/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs402%2Fd%2F2
+[/us/pl/102/40/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2FtIV
 [/us/stat/105/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F239
 [/us/usc/t38/s101/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs101%2F18
 [/us/usc/t10/s1553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1553
-[/us/pl/95/126/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F126%2Fs2
+[/us/pl/95/126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F126
 [/us/stat/91/1107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1107
-[/us/pl/100/527/s10/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F527%2Fs10%2F1
+[/us/pl/100/527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F527
 [/us/stat/102/2640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2640
-[/us/pl/102/40/s402/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs402%2Fd%2F2
+[/us/pl/102/40/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2FtIV
 [/us/stat/105/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F239
-[/us/pl/95/126/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F126%2Fs4
+[/us/pl/95/126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F126
 [/us/stat/91/1108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1108
-[/us/pl/100/527/s10/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F527%2Fs10%2F1
+[/us/pl/100/527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F527
 [/us/stat/102/2640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2640
-[/us/pl/102/40/s402/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs402%2Fd%2F2
+[/us/pl/102/40/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2FtIV
 [/us/stat/105/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F239
 [/us/usc/t38/s101/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs101%2F18
 

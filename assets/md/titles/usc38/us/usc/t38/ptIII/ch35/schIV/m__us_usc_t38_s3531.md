@@ -19,7 +19,7 @@
 
     (b) The educational assistance allowance of an eligible person pursuing a program of education at an educational institution shall be paid as provided in chapter 36 of this title.
 
-([Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1197][/us/stat/72/1197], § 1731; [Pub. L. 89–358, § 4][/us/pl/89/358/s4](l), Mar. 3, 1966, [80 Stat. 24][/us/stat/80/24]; [Pub. L. 92–540, title III, § 312][/us/pl/92/540/s312], Oct. 24, 1972, [86 Stat. 1083][/us/stat/86/1083]; [Pub. L. 94–502, title III][/us/pl/94/502], §§ 309(c), 310(16), Oct. 15, 1976, [90 Stat. 2391][/us/stat/90/2391], 2392; [Pub. L. 96–466, title III, § 329][/us/pl/96/466/s329], Oct. 17, 1980, [94 Stat. 2197][/us/stat/94/2197]; [Pub. L. 101–237, title IV, § 423(b)(1)(A)][/us/pl/101/237/s423/b/1/A], Dec. 18, 1989, [103 Stat. 2092][/us/stat/103/2092]; renumbered § 3531, [Pub. L. 102–83, § 5(a)][/us/pl/102/83/s5/a], Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406].)
+([Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1197][/us/stat/72/1197], § 1731; [Pub. L. 89–358][/us/pl/89/358], § 4(l), Mar. 3, 1966, [80 Stat. 24][/us/stat/80/24]; [Pub. L. 92–540, title III][/us/pl/92/540/tIII], § 312, Oct. 24, 1972, [86 Stat. 1083][/us/stat/86/1083]; [Pub. L. 94–502, title III][/us/pl/94/502/tIII], §§ 309(c), 310(16), Oct. 15, 1976, [90 Stat. 2391][/us/stat/90/2391], 2392; [Pub. L. 96–466, title III][/us/pl/96/466/tIII], § 329, Oct. 17, 1980, [94 Stat. 2197][/us/stat/94/2197]; [Pub. L. 101–237, title IV][/us/pl/101/237/tIV], § 423(b)(1)(A), Dec. 18, 1989, [103 Stat. 2092][/us/stat/103/2092]; renumbered § 3531, [Pub. L. 102–83][/us/pl/102/83], § 5(a), Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406].)
 
  __Amendments__ 
 
@@ -29,19 +29,19 @@
 
     1980—Subsec. (b). [Pub. L. 96–466][/us/pl/96/466] substituted provisions that the educational assistance allowance of an eligible person pursuing a program of education at an educational institution be paid as provided in chapter 36 of this title for provisions that no educational assistance allowance be paid on behalf of an eligible person enrolled in a course in an educational institution which does not lead to a standard college degree for any period until the Administrator received from the eligible person a certification as to the person’s actual attendance during such period and from the educational institution a certification, or an endorsement on the eligible person’s certificate, that the person was enrolled in and pursuing a course of education during such period.
 
-    1976—Subsec. (a). [Pub. L. 94–502, § 309(c)][/us/pl/94/502/s309/c], substituted “chapter 36” for “section 1780”.
+    1976—Subsec. (a). [Pub. L. 94–502][/us/pl/94/502], § 309(c), substituted “chapter 36” for “section 1780”.
 
-    Subsec. (b). [Pub. L. 94–502, § 310(16)][/us/pl/94/502/s310/16], substituted “the person’s” for “his” and “the person” for “he”.
+    Subsec. (b). [Pub. L. 94–502][/us/pl/94/502], § 310(16), substituted “the person’s” for “his” and “the person” for “he”.
 
-    1972—Subsec. (a). [Pub. L. 92–540, § 312(1)][/us/pl/92/540/s312/1], inserted provision requiring the Administrator to pay in accordance with the provisions of [section 1780 of this title][/us/usc/t38/s1780].
+    1972—Subsec. (a). [Pub. L. 92–540][/us/pl/92/540], § 312(1), inserted provision requiring the Administrator to pay in accordance with the provisions of [section 1780 of this title][/us/usc/t38/s1780].
 
-    Subsec. (b). [Pub. L. 92–540, § 312(2)][/us/pl/92/540/s312/2], (3), redesignated subsec. (d) as (b). Former subsec. (b), which provided for the payment of the educational assistance allowance, pursuant to [section 1732 of this title][/us/usc/t38/s1732], to the eligible person only for a period of his enrollment as approved by the Administrator subject to certain limitations, was struck out.
+    Subsec. (b). [Pub. L. 92–540][/us/pl/92/540], § 312(2), (3), redesignated subsec. (d) as (b). Former subsec. (b), which provided for the payment of the educational assistance allowance, pursuant to [section 1732 of this title][/us/usc/t38/s1732], to the eligible person only for a period of his enrollment as approved by the Administrator subject to certain limitations, was struck out.
 
-    Subsec. (c). [Pub. L. 92–540, § 312(2)][/us/pl/92/540/s312/2], struck out subsec. (c) which authorized the Administrator, pursuant to regulations, to determine enrollment in, pursuit of, and attendance at, any program of education or course by an eligible person.
+    Subsec. (c). [Pub. L. 92–540][/us/pl/92/540], § 312(2), struck out subsec. (c) which authorized the Administrator, pursuant to regulations, to determine enrollment in, pursuit of, and attendance at, any program of education or course by an eligible person.
 
-    Subsec. (d). [Pub. L. 92–540, § 312(3)][/us/pl/92/540/s312/3], redesignated subsec. (d) as (b).
+    Subsec. (d). [Pub. L. 92–540][/us/pl/92/540], § 312(3), redesignated subsec. (d) as (b).
 
-    Subsec. (e). [Pub. L. 92–540, § 312(2)][/us/pl/92/540/s312/2], struck out subsec. (e) which related to the prompt payment by the Administrator of the allowance to the eligible person.
+    Subsec. (e). [Pub. L. 92–540][/us/pl/92/540], § 312(2), struck out subsec. (e) which related to the prompt payment by the Administrator of the allowance to the eligible person.
 
     1966—Subsec. (c). [Pub. L. 89–358][/us/pl/89/358] added subsec. (c) and struck out former subsec. (c) which conditioned payment of allowance to eligible person taking college degree course on receipt from such person of certification of enrollment and pursuit of such course and from educational institution certification or indorsement on student’s certification of enrollment and pursuit of such course, prescribed such conditions for eligible person taking a course not leading to college degree as are now incorporated in subsec. (d) of this section, and required payments to be made within twenty days after receipt of requisite certifications, now incorporated in subsec. (e) of this section.
 
@@ -66,31 +66,31 @@
 
 [/us/pl/85/857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F857
 [/us/stat/72/1197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1197
-[/us/pl/89/358/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F358%2Fs4
+[/us/pl/89/358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F358
 [/us/stat/80/24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F24
-[/us/pl/92/540/s312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F540%2Fs312
+[/us/pl/92/540/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F540%2FtIII
 [/us/stat/86/1083]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1083
-[/us/pl/94/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F502
+[/us/pl/94/502/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F502%2FtIII
 [/us/stat/90/2391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2391
-[/us/pl/96/466/s329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F466%2Fs329
+[/us/pl/96/466/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F466%2FtIII
 [/us/stat/94/2197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2197
-[/us/pl/101/237/s423/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237%2Fs423%2Fb%2F1%2FA
+[/us/pl/101/237/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237%2FtIV
 [/us/stat/103/2092]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2092
-[/us/pl/102/83/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fa
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F406
 [/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/usc/t38/s1731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1731
 [/us/pl/101/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237
 [/us/pl/96/466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F466
-[/us/pl/94/502/s309/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F502%2Fs309%2Fc
-[/us/pl/94/502/s310/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F502%2Fs310%2F16
-[/us/pl/92/540/s312/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F540%2Fs312%2F1
+[/us/pl/94/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F502
+[/us/pl/94/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F502
+[/us/pl/92/540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F540
 [/us/usc/t38/s1780]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1780
-[/us/pl/92/540/s312/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F540%2Fs312%2F2
+[/us/pl/92/540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F540
 [/us/usc/t38/s1732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1732
-[/us/pl/92/540/s312/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F540%2Fs312%2F2
-[/us/pl/92/540/s312/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F540%2Fs312%2F3
-[/us/pl/92/540/s312/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F540%2Fs312%2F2
+[/us/pl/92/540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F540
+[/us/pl/92/540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F540
+[/us/pl/92/540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F540
 [/us/pl/89/358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F358
 [/us/pl/89/358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F358
 [/us/pl/89/358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F358

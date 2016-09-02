@@ -17,7 +17,7 @@
 
  __Amendments__ 
 
-    2003—[Pub. L. 108–183, § 102(a)(1)][/us/pl/108/183/s102/a/1], Dec. 16, 2003, [117 Stat. 2653][/us/stat/117/2653], redesignated former subchapter III of this chapter as this subchapter.
+    2003—[Pub. L. 108–183][/us/pl/108/183], § 102(a)(1), Dec. 16, 2003, [117 Stat. 2653][/us/stat/117/2653], redesignated former subchapter III of this chapter as this subchapter.
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/108/183/s102/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F183%2Fs102%2Fa%2F1
+[/us/pl/108/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F183
 [/us/stat/117/2653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2653
 
 

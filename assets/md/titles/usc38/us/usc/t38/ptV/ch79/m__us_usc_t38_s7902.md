@@ -85,11 +85,11 @@
 
     An individual who receives a payment of educational assistance under chapter 30, 31, 32, 34, or 35 of this title or chapter 1606 or 1607 of title 10 for a month in which the individual is enrolled in a course of education leading to a doctoral degree in information security is not eligible to receive financial assistance under this section for that month.
 
-(Added [Pub. L. 109–461, title IX, § 903(a)(1)][/us/pl/109/461/s903/a/1], Dec. 22, 2006, [120 Stat. 3460][/us/stat/120/3460].)
+(Added [Pub. L. 109–461, title IX][/us/pl/109/461/tIX], § 903(a)(1), Dec. 22, 2006, [120 Stat. 3460][/us/stat/120/3460].)
 
  __Effective Date__ 
 
-[Pub. L. 109–461, title IX, § 903(c)][/us/pl/109/461/s903/c], Dec. 22, 2006, [120 Stat. 3464][/us/stat/120/3464], provided that: 
+[Pub. L. 109–461, title IX][/us/pl/109/461/tIX], § 903(c), Dec. 22, 2006, [120 Stat. 3464][/us/stat/120/3464], provided that: 
 
 > “[Section 7902 of title 38][/us/usc/t38/s7902], United States Code, as added by subsection (a), may only apply with respect to financial assistance provided for an academic semester or term that begins on or after August 1, 2007.”
 
@@ -102,9 +102,9 @@
 
 [/us/usc/t38/s7901/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7901%2Fa
 [/us/usc/t38/s7906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7906
-[/us/pl/109/461/s903/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461%2Fs903%2Fa%2F1
+[/us/pl/109/461/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461%2FtIX
 [/us/stat/120/3460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3460
-[/us/pl/109/461/s903/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461%2Fs903%2Fc
+[/us/pl/109/461/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461%2FtIX
 [/us/stat/120/3464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3464
 [/us/usc/t38/s7902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7902
 

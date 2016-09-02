@@ -53,7 +53,7 @@
 
         (9) The term “respite care” means care furnished on an intermittent basis for a limited period to an individual who resides primarily in a private residence when such care will help the individual to continue residing in such private residence.
 
-(Added [Pub. L. 104–204, title IV, § 421(b)(1)][/us/pl/104/204/s421/b/1], Sept. 26, 1996, [110 Stat. 2923][/us/stat/110/2923]; amended [Pub. L. 105–368, title X, § 1005(b)(4)][/us/pl/105/368/s1005/b/4], Nov. 11, 1998, [112 Stat. 3365][/us/stat/112/3365]; [Pub. L. 110–387, title IV, § 408(a)][/us/pl/110/387/s408/a], Oct. 10, 2008, [122 Stat. 4130][/us/stat/122/4130].)
+(Added [Pub. L. 104–204, title IV][/us/pl/104/204/tIV], § 421(b)(1), Sept. 26, 1996, [110 Stat. 2923][/us/stat/110/2923]; amended [Pub. L. 105–368, title X][/us/pl/105/368/tX], § 1005(b)(4), Nov. 11, 1998, [112 Stat. 3365][/us/stat/112/3365]; [Pub. L. 110–387, title IV][/us/pl/110/387/tIV], § 408(a), Oct. 10, 2008, [122 Stat. 4130][/us/stat/122/4130].)
 
  __Prior Provisions__ 
 
@@ -67,7 +67,7 @@
 
  __Effective Date of 2008 Amendment__ 
 
-[Pub. L. 110–387, title IV, § 408(b)][/us/pl/110/387/s408/b], Oct. 10, 2008, [122 Stat. 4130][/us/stat/122/4130], provided that: 
+[Pub. L. 110–387, title IV][/us/pl/110/387/tIV], § 408(b), Oct. 10, 2008, [122 Stat. 4130][/us/stat/122/4130], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply with respect to care furnished after the date of the enactment of this Act \[Oct. 10, 2008\].”
 
@@ -79,16 +79,16 @@
 ----------
 
 [/us/usc/t38/s1804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1804
-[/us/pl/104/204/s421/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F204%2Fs421%2Fb%2F1
+[/us/pl/104/204/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F204%2FtIV
 [/us/stat/110/2923]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2923
-[/us/pl/105/368/s1005/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2Fs1005%2Fb%2F4
+[/us/pl/105/368/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2FtX
 [/us/stat/112/3365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3365
-[/us/pl/110/387/s408/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F387%2Fs408%2Fa
+[/us/pl/110/387/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F387%2FtIV
 [/us/stat/122/4130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4130
 [/us/usc/t38/s3703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3703
 [/us/pl/110/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F387
 [/us/pl/105/368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368
-[/us/pl/110/387/s408/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F387%2Fs408%2Fb
+[/us/pl/110/387/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F387%2FtIV
 [/us/stat/122/4130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4130
 
 

@@ -51,17 +51,17 @@
 
         (2) Nothing in this section affects the right of a judge who retired under chapter 83 or 84 of title 5 to serve as a reemployed annuitant in accordance with the provisions of title 5.
 
-(Added [Pub. L. 106–117, title X, § 1021(a)][/us/pl/106/117/s1021/a], Nov. 30, 1999, [113 Stat. 1590][/us/stat/113/1590]; amended [Pub. L. 110–389, title VI, § 603(a)][/us/pl/110/389/s603/a], (b)(3)–(c), Oct. 10, 2008, [122 Stat. 4177][/us/stat/122/4177], 4178.)
+(Added [Pub. L. 106–117, title X][/us/pl/106/117/tX], § 1021(a), Nov. 30, 1999, [113 Stat. 1590][/us/stat/113/1590]; amended [Pub. L. 110–389, title VI][/us/pl/110/389/tVI], § 603(a), (b)(3)–(c), Oct. 10, 2008, [122 Stat. 4177][/us/stat/122/4177], 4178.)
 
  __Amendments__ 
 
-    2008—Subsec. (a)(1). [Pub. L. 110–389, § 603(b)(4)][/us/pl/110/389/s603/b/4], amended last sentence generally. Prior to amendment, last sentence read as follows: “Such a notice provided by a retired judge is irrevocable.”.
+    2008—Subsec. (a)(1). [Pub. L. 110–389][/us/pl/110/389], § 603(b)(4), amended last sentence generally. Prior to amendment, last sentence read as follows: “Such a notice provided by a retired judge is irrevocable.”.
 
-    Subsec. (b)(2). [Pub. L. 110–389, § 603(a)][/us/pl/110/389/s603/a], struck out “or for more than a total of 180 days (or the equivalent) during any calendar year” before period at end.
+    Subsec. (b)(2). [Pub. L. 110–389][/us/pl/110/389], § 603(a), struck out “or for more than a total of 180 days (or the equivalent) during any calendar year” before period at end.
 
-    Subsec. (b)(3). [Pub. L. 110–389, § 603(c)][/us/pl/110/389/s603/c], inserted at end “This paragraph shall not apply to a judge to whom section 7296(c)(1)(A) or 7296(c)(1)(B) of this title applies and who has, in the aggregate, served at least five years of recalled service on the Court under this section.”
+    Subsec. (b)(3). [Pub. L. 110–389][/us/pl/110/389], § 603(c), inserted at end “This paragraph shall not apply to a judge to whom section 7296(c)(1)(A) or 7296(c)(1)(B) of this title applies and who has, in the aggregate, served at least five years of recalled service on the Court under this section.”
 
-    Subsec. (d). [Pub. L. 110–389, § 603(b)(3)][/us/pl/110/389/s603/b/3], amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows:
+    Subsec. (d). [Pub. L. 110–389][/us/pl/110/389], § 603(b)(3), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows:
 
     “(d)(1) The pay of a recall-eligible retired judge who retired under [section 7296 of this title][/us/usc/t38/s7296] is specified in subsection (c) of that section.
 
@@ -80,14 +80,14 @@
 [/us/usc/t38/s7296/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7296%2Fc%2F1%2FA
 [/us/usc/t38/s7253/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7253%2Fe
 [/us/usc/t38/s7296/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7296%2Fc%2F1%2FA
-[/us/pl/106/117/s1021/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117%2Fs1021%2Fa
+[/us/pl/106/117/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117%2FtX
 [/us/stat/113/1590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1590
-[/us/pl/110/389/s603/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F389%2Fs603%2Fa
+[/us/pl/110/389/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F389%2FtVI
 [/us/stat/122/4177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4177
-[/us/pl/110/389/s603/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F389%2Fs603%2Fb%2F4
-[/us/pl/110/389/s603/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F389%2Fs603%2Fa
-[/us/pl/110/389/s603/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F389%2Fs603%2Fc
-[/us/pl/110/389/s603/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F389%2Fs603%2Fb%2F3
+[/us/pl/110/389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F389
+[/us/pl/110/389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F389
+[/us/pl/110/389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F389
+[/us/pl/110/389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F389
 [/us/usc/t38/s7296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7296
 [/us/usc/t38/s7253/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7253%2Fe
 

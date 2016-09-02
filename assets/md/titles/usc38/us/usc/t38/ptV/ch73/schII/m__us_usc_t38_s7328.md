@@ -89,15 +89,15 @@
 
         (2) In addition to any amounts appropriated for a fiscal year specifically for the activities of the centers pursuant to paragraph (1), the Under Secretary for Health shall allocate to the centers from other funds appropriated for that fiscal year generally for the Department medical services account and the Department medical and prosthetic research account such amounts as the Under Secretary determines necessary in order to carry out the purposes of this section.
 
-(Added [Pub. L. 108–422, title III, § 303(c)(1)][/us/pl/108/422/s303/c/1], Nov. 30, 2004, [118 Stat. 2386][/us/stat/118/2386]; amended [Pub. L. 110–387, title IX, § 901(a)(8)][/us/pl/110/387/s901/a/8], Oct. 10, 2008, [122 Stat. 4142][/us/stat/122/4142].)
+(Added [Pub. L. 108–422, title III][/us/pl/108/422/tIII], § 303(c)(1), Nov. 30, 2004, [118 Stat. 2386][/us/stat/118/2386]; amended [Pub. L. 110–387, title IX][/us/pl/110/387/tIX], § 901(a)(8), Oct. 10, 2008, [122 Stat. 4142][/us/stat/122/4142].)
 
  __References in Text__ 
 
-    Section 2811(b) of the Public Health Service Act, referred to in subsec. (b)(2), was redesignated section 2812(a) of the Public Health Service Act by [Pub. L. 109–417, title I, § 102(a)(2)][/us/pl/109/417/s102/a/2], title III, § 301(a)(3), Dec. 19, 2006, [120 Stat. 2832][/us/stat/120/2832], 2853, and is classified to [section 300hh–11(a) of Title 42][/us/usc/t42/s300hh–11/a], The Public Health and Welfare.
+    Section 2811(b) of the Public Health Service Act, referred to in subsec. (b)(2), was redesignated section 2812(a) of the Public Health Service Act by [Pub. L. 109–417, title I][/us/pl/109/417/tI], § 102(a)(2), title III, § 301(a)(3), Dec. 19, 2006, [120 Stat. 2832][/us/stat/120/2832], 2853, and is classified to [section 300hh–11(a) of Title 42][/us/usc/t42/s300hh–11/a], The Public Health and Welfare.
 
  __Codification__ 
 
-    The text of subsecs. (a) to (h) of this section consists of the text of section 7325(a) to (h) of this title, as duplicated in this section by [Pub. L. 108–422, § 303(c)(1)(B)][/us/pl/108/422/s303/c/1/B], which was based on [Pub. L. 107–287, § 2(a)(1)][/us/pl/107/287/s2/a/1], Nov. 7, 2002, [116 Stat. 2024][/us/stat/116/2024].
+    The text of subsecs. (a) to (h) of this section consists of the text of section 7325(a) to (h) of this title, as duplicated in this section by [Pub. L. 108–422][/us/pl/108/422], § 303(c)(1)(B), which was based on [Pub. L. 107–287][/us/pl/107/287], § 2(a)(1), Nov. 7, 2002, [116 Stat. 2024][/us/stat/116/2024].
 
  __Amendments__ 
 
@@ -111,7 +111,7 @@
 
  __Enhancement of Medical Preparedness of Department of Veterans Affairs__ 
 
-[Pub. L. 108–422, title III, § 303(a)][/us/pl/108/422/s303/a], (b), Nov. 30, 2004, [118 Stat. 2386][/us/stat/118/2386], provided that:
+[Pub. L. 108–422, title III][/us/pl/108/422/tIII], § 303(a), (b), Nov. 30, 2004, [118 Stat. 2386][/us/stat/118/2386], provided that:
 
 >     “(a)  __Peer Review Panel__  __.—__ 
 
@@ -131,15 +131,15 @@
 [/us/usc/t42/s300hh–11/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300hh%E2%80%9311%2Fb
 [/us/usc/t38/s1785/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1785%2Fb
 [/us/usc/t42/s247d–6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs247d%E2%80%936%2Fa
-[/us/pl/108/422/s303/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F422%2Fs303%2Fc%2F1
+[/us/pl/108/422/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F422%2FtIII
 [/us/stat/118/2386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2386
-[/us/pl/110/387/s901/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F387%2Fs901%2Fa%2F8
+[/us/pl/110/387/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F387%2FtIX
 [/us/stat/122/4142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4142
-[/us/pl/109/417/s102/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417%2Fs102%2Fa%2F2
+[/us/pl/109/417/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417%2FtI
 [/us/stat/120/2832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2832
 [/us/usc/t42/s300hh–11/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300hh%E2%80%9311%2Fa
-[/us/pl/108/422/s303/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F422%2Fs303%2Fc%2F1%2FB
-[/us/pl/107/287/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F287%2Fs2%2Fa%2F1
+[/us/pl/108/422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F422
+[/us/pl/107/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F287
 [/us/stat/116/2024]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2024
 [/us/pl/110/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F387
 [/us/pl/109/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295
@@ -147,7 +147,7 @@
 [/us/pl/109/417/s301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417%2Fs301%2Fb
 [/us/usc/t42/s300hh–11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300hh%E2%80%9311
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
-[/us/pl/108/422/s303/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F422%2Fs303%2Fa
+[/us/pl/108/422/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F422%2FtIII
 [/us/stat/118/2386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2386
 [/us/usc/t38/s7328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7328
 

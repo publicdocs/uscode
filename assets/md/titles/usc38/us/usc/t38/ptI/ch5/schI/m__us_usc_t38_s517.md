@@ -55,11 +55,11 @@
 
         (2) estimated to cost the Department at least $20,000.
 
-(Added [Pub. L. 112–154, title VII, § 707(a)][/us/pl/112/154/s707/a], Aug. 6, 2012, 126 Stat.1206.)
+(Added [Pub. L. 112–154, title VII][/us/pl/112/154/tVII], § 707(a), Aug. 6, 2012, 126 Stat.1206.)
 
  __Effective Date__ 
 
-[Pub. L. 112–154, title VII, § 707(c)][/us/pl/112/154/s707/c], Aug. 6, 2012, [126 Stat. 1207][/us/stat/126/1207], provided that: 
+[Pub. L. 112–154, title VII][/us/pl/112/154/tVII], § 707(c), Aug. 6, 2012, [126 Stat. 1207][/us/stat/126/1207], provided that: 
 
 > “[Section 517 of title 38][/us/usc/t38/s517], United States Code, as added by subsection (a), shall take effect on October 1, 2012, and shall apply with respect to the first quarter of fiscal year 2013 and each quarter thereafter.”
 
@@ -70,8 +70,8 @@
 ----------
 ----------
 
-[/us/pl/112/154/s707/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154%2Fs707%2Fa
-[/us/pl/112/154/s707/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154%2Fs707%2Fc
+[/us/pl/112/154/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154%2FtVII
+[/us/pl/112/154/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154%2FtVII
 [/us/stat/126/1207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1207
 [/us/usc/t38/s517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs517
 

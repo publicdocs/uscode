@@ -25,7 +25,7 @@
 
     (b) Any amount of damages which the United States is entitled to recover under this section shall be paid to the United States within the one-year period beginning on the date of the breach of the agreement.
 
-(Added [Pub. L. 100–322, title II, § 216(b)][/us/pl/100/322/s216/b], May 20, 1988, [102 Stat. 527][/us/stat/102/527], § 4324; amended [Pub. L. 100–687, div. B, title XV, § 1503(a)(4)][/us/pl/100/687/s1503/a/4], Nov. 18, 1988, [102 Stat. 4134][/us/stat/102/4134]; renumbered § 7624, [Pub. L. 102–40, title IV, § 402(b)(1)][/us/pl/102/40/s402/b/1], May 7, 1991, [105 Stat. 238][/us/stat/105/238]; [Pub. L. 102–83, § 4(a)(3)][/us/pl/102/83/s4/a/3], (4), Aug. 6, 1991, [105 Stat. 404][/us/stat/105/404].)
+(Added [Pub. L. 100–322, title II][/us/pl/100/322/tII], § 216(b), May 20, 1988, [102 Stat. 527][/us/stat/102/527], § 4324; amended [Pub. L. 100–687, div. B, title XV][/us/pl/100/687/dB/tXV], § 1503(a)(4), Nov. 18, 1988, [102 Stat. 4134][/us/stat/102/4134]; renumbered § 7624, [Pub. L. 102–40, title IV][/us/pl/102/40/tIV], § 402(b)(1), May 7, 1991, [105 Stat. 238][/us/stat/105/238]; [Pub. L. 102–83][/us/pl/102/83], § 4(a)(3), (4), Aug. 6, 1991, [105 Stat. 404][/us/stat/105/404].)
 
  __Amendments__ 
 
@@ -33,9 +33,9 @@
 
     Subsec. (a). [Pub. L. 102–83][/us/pl/102/83] substituted “Department” for “Veterans’ Administration” in two places in introductory provisions.
 
-    1988—Subsec. (a)(2). [Pub. L. 100–687, § 1503(a)(4)(A)][/us/pl/100/687/s1503/a/4/A], substituted “participation in the program” for “completion of a course or courses in a previous semester or quarter”, inserted “or is payable” after “has been paid”, and inserted before period at end “, reduced by the proportion that the number of days served for completion of the service obligation bears to the total number of days in the participant’s period of obligated service”.
+    1988—Subsec. (a)(2). [Pub. L. 100–687][/us/pl/100/687], § 1503(a)(4)(A), substituted “participation in the program” for “completion of a course or courses in a previous semester or quarter”, inserted “or is payable” after “has been paid”, and inserted before period at end “, reduced by the proportion that the number of days served for completion of the service obligation bears to the total number of days in the participant’s period of obligated service”.
 
-    Subsec. (b). [Pub. L. 100–687, § 1503(a)(4)(B)][/us/pl/100/687/s1503/a/4/B], struck out par. (1) which related to formula to apply to recover amount from participant who breaches agreement by failing to complete period of obligated service, and struck out par. (2) designation before “Any amount”.
+    Subsec. (b). [Pub. L. 100–687][/us/pl/100/687], § 1503(a)(4)(B), struck out par. (1) which related to formula to apply to recover amount from participant who breaches agreement by failing to complete period of obligated service, and struck out par. (2) designation before “Any amount”.
 
 ----------
 
@@ -44,18 +44,18 @@
 ----------
 ----------
 
-[/us/pl/100/322/s216/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F322%2Fs216%2Fb
+[/us/pl/100/322/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F322%2FtII
 [/us/stat/102/527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F527
-[/us/pl/100/687/s1503/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F687%2Fs1503%2Fa%2F4
+[/us/pl/100/687/dB/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F687%2FdB%2FtXV
 [/us/stat/102/4134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4134
-[/us/pl/102/40/s402/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs402%2Fb%2F1
+[/us/pl/102/40/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2FtIV
 [/us/stat/105/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F238
-[/us/pl/102/83/s4/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fa%2F3
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F404
 [/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40
 [/us/usc/t38/s4324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs4324
 [/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
-[/us/pl/100/687/s1503/a/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F687%2Fs1503%2Fa%2F4%2FA
-[/us/pl/100/687/s1503/a/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F687%2Fs1503%2Fa%2F4%2FB
+[/us/pl/100/687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F687
+[/us/pl/100/687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F687
 
 

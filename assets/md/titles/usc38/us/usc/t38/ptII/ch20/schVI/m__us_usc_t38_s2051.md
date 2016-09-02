@@ -39,7 +39,7 @@
 
     (g) Notwithstanding any other provision of law, a multifamily transitional housing project that is funded by a loan guaranteed under this subchapter may accept uncompensated voluntary services performed by any eligible entity (as that term is defined in [section 2011(d) of this title][/us/usc/t38/s2011/d]) in connection with the construction, alteration, or repair of such project.
 
-(Added [Pub. L. 105–368, title VI, § 601(a)][/us/pl/105/368/s601/a], Nov. 11, 1998, [112 Stat. 3342][/us/stat/112/3342], § 3772; renumbered § 2051 and amended [Pub. L. 107–95, § 5(d)(1)][/us/pl/107/95/s5/d/1], (2)(B), Dec. 21, 2001, [115 Stat. 918][/us/stat/115/918]; [Pub. L. 108–454, title IV, § 402(a)][/us/pl/108/454/s402/a], Dec. 10, 2004, [118 Stat. 3615][/us/stat/118/3615].)
+(Added [Pub. L. 105–368, title VI][/us/pl/105/368/tVI], § 601(a), Nov. 11, 1998, [112 Stat. 3342][/us/stat/112/3342], § 3772; renumbered § 2051 and amended [Pub. L. 107–95][/us/pl/107/95], § 5(d)(1), (2)(B), Dec. 21, 2001, [115 Stat. 918][/us/stat/115/918]; [Pub. L. 108–454, title IV][/us/pl/108/454/tIV], § 402(a), Dec. 10, 2004, [118 Stat. 3615][/us/stat/118/3615].)
 
  __References in Text__ 
 
@@ -51,9 +51,9 @@
 
     2004—Subsec. (g). [Pub. L. 108–454][/us/pl/108/454] added subsec. (g).
 
-    2001—[Pub. L. 107–95, § 5(d)(1)][/us/pl/107/95/s5/d/1], renumbered [section 3772 of this title][/us/usc/t38/s3772] as this section.
+    2001—[Pub. L. 107–95][/us/pl/107/95], § 5(d)(1), renumbered [section 3772 of this title][/us/usc/t38/s3772] as this section.
 
-    Subsec. (d)(1). [Pub. L. 107–95, § 5(d)(2)(B)][/us/pl/107/95/s5/d/2/B], substituted “[section 2052 of this title][/us/usc/t38/s2052]” for “[section 3773 of this title][/us/usc/t38/s3773]”.
+    Subsec. (d)(1). [Pub. L. 107–95][/us/pl/107/95], § 5(d)(2)(B), substituted “[section 2052 of this title][/us/usc/t38/s2052]” for “[section 3773 of this title][/us/usc/t38/s3773]”.
 
  __Effective Date__ 
 
@@ -68,18 +68,18 @@
 
 [/us/usc/t38/s2052]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs2052
 [/us/usc/t38/s2011/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs2011%2Fd
-[/us/pl/105/368/s601/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2Fs601%2Fa
+[/us/pl/105/368/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2FtVI
 [/us/stat/112/3342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3342
-[/us/pl/107/95/s5/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F95%2Fs5%2Fd%2F1
+[/us/pl/107/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F95
 [/us/stat/115/918]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F918
-[/us/pl/108/454/s402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F454%2Fs402%2Fa
+[/us/pl/108/454/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F454%2FtIV
 [/us/stat/118/3615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3615
 [/us/pl/105/368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368
 [/us/usc/t26/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs501
 [/us/pl/108/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F454
-[/us/pl/107/95/s5/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F95%2Fs5%2Fd%2F1
+[/us/pl/107/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F95
 [/us/usc/t38/s3772]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3772
-[/us/pl/107/95/s5/d/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F95%2Fs5%2Fd%2F2%2FB
+[/us/pl/107/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F95
 [/us/usc/t38/s2052]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs2052
 [/us/usc/t38/s3773]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3773
 [/us/pl/105/368/s602/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2Fs602%2Ff

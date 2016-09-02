@@ -29,35 +29,35 @@
 
     (d) In prescribing and implementing such regulations, the Secretary shall, from time to time, consult with the Secretary of Health and Human Services and, as appropriate, with the President (or the delegate of the President) in order to achieve the maximum possible coordination of the regulations, and the implementation of the regulations, which they and the Secretary prescribe.
 
-(Added [Pub. L. 94–581, title I, § 111(a)(1)][/us/pl/94/581/s111/a/1], Oct. 21, 1976, [90 Stat. 2851][/us/stat/90/2851], § 4134; amended [Pub. L. 97–295, § 4(87)][/us/pl/97/295/s4/87], Oct. 12, 1982, [96 Stat. 1312][/us/stat/96/1312]; [Pub. L. 100–322, title I, § 122(a)][/us/pl/100/322/s122/a], May 20, 1988, [102 Stat. 504][/us/stat/102/504]; renumbered § 7334 and amended [Pub. L. 102–40, title IV][/us/pl/102/40], §§ 401(a)(4)(A), 402(d)(1), 403(a)(1), (4), May 7, 1991, [105 Stat. 221][/us/stat/105/221], 239.)
+(Added [Pub. L. 94–581, title I][/us/pl/94/581/tI], § 111(a)(1), Oct. 21, 1976, [90 Stat. 2851][/us/stat/90/2851], § 4134; amended [Pub. L. 97–295][/us/pl/97/295], § 4(87), Oct. 12, 1982, [96 Stat. 1312][/us/stat/96/1312]; [Pub. L. 100–322, title I][/us/pl/100/322/tI], § 122(a), May 20, 1988, [102 Stat. 504][/us/stat/102/504]; renumbered § 7334 and amended [Pub. L. 102–40, title IV][/us/pl/102/40/tIV], §§ 401(a)(4)(A), 402(d)(1), 403(a)(1), (4), May 7, 1991, [105 Stat. 221][/us/stat/105/221], 239.)
 
  __References in Text__ 
 
-    Section 201 of the National Research Act, referred to in subsec. (b)(1), is [section 201 of Pub. L. 93–348][/us/pl/93/348/s201], title II, July 12, 1974, [88 Stat. 348][/us/stat/88/348], as amended, which was set out as a note under section 289l–1 of Title 42, The Public Health and Welfare, and was repealed by [Pub. L. 95–622, title III, § 302(b)][/us/pl/95/622/s302/b], Nov. 9, 1978, [92 Stat. 3442][/us/stat/92/3442].
+    Section 201 of the National Research Act, referred to in subsec. (b)(1), is [section 201 of Pub. L. 93–348][/us/pl/93/348/s201], title II, July 12, 1974, [88 Stat. 348][/us/stat/88/348], as amended, which was set out as a note under section 289l–1 of Title 42, The Public Health and Welfare, and was repealed by [Pub. L. 95–622, title III][/us/pl/95/622/tIII], § 302(b), Nov. 9, 1978, [92 Stat. 3442][/us/stat/92/3442].
 
     The Comprehensive Alcohol Abuse and Alcoholism Prevention, Treatment, and Rehabilitation Act of 1970 ([42 U.S.C. 4551][/us/usc/t42/s4551] et seq.), referred to in subsec. (b)(2), is [Pub. L. 91–616][/us/pl/91/616], Dec. 31, 1970, [84 Stat. 1848][/us/stat/84/1848], as amended, which is classified principally to chapter 60 (§ 4541 et seq.) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under [section 4541 of Title 42][/us/usc/t42/s4541] and Tables.
 
     The Drug Abuse Office and Treatment Act of 1972, referred to in subsec. (b)(2), which was redesignated the Drug Abuse Prevention, Treatment, and Rehabilitation Act, is [Pub. L. 92–255][/us/pl/92/255], Mar. 21, 1972, [86 Stat. 65][/us/stat/86/65], as amended, which is classified principally to chapter 16 (§ 1101 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under [section 1101 of Title 21][/us/usc/t21/s1101] and Tables.
 
-    [Section 7332(b)(2)(C) of this title][/us/usc/t38/s7332/b/2/C], referred to in subsec. (c), was formerly a reference to [section 4132(b)(2)(C) of this title][/us/usc/t38/s4132/b/2/C] which was redesignated section 4132(b)(2)(D) by [Pub. L. 100–322, title I, § 121(b)(2)(A)][/us/pl/100/322/s121/b/2/A], May 20, 1988, [102 Stat. 502][/us/stat/102/502], and subsequently renumbered section 7332(b)(2)(D) by [Pub. L. 102–40, title IV, § 401(a)(4)(A)][/us/pl/102/40/s401/a/4/A], May 7, 1991, [105 Stat. 221][/us/stat/105/221]. The reference to section 4132(b)(2)(C) in subsec. (c) was amended to reflect the renumbering by [Pub. L. 102–40][/us/pl/102/40] but not the redesignation by [Pub. L. 100–322][/us/pl/100/322].
+    [Section 7332(b)(2)(C) of this title][/us/usc/t38/s7332/b/2/C], referred to in subsec. (c), was formerly a reference to [section 4132(b)(2)(C) of this title][/us/usc/t38/s4132/b/2/C] which was redesignated section 4132(b)(2)(D) by [Pub. L. 100–322, title I][/us/pl/100/322/tI], § 121(b)(2)(A), May 20, 1988, [102 Stat. 502][/us/stat/102/502], and subsequently renumbered section 7332(b)(2)(D) by [Pub. L. 102–40, title IV][/us/pl/102/40/tIV], § 401(a)(4)(A), May 7, 1991, [105 Stat. 221][/us/stat/105/221]. The reference to section 4132(b)(2)(C) in subsec. (c) was amended to reflect the renumbering by [Pub. L. 102–40][/us/pl/102/40] but not the redesignation by [Pub. L. 100–322][/us/pl/100/322].
 
  __Amendments__ 
 
-    1991—[Pub. L. 102–40, § 401(a)(4)(A)][/us/pl/102/40/s401/a/4/A], renumbered [section 4134 of this title][/us/usc/t38/s4134] as this section.
+    1991—[Pub. L. 102–40][/us/pl/102/40], § 401(a)(4)(A), renumbered [section 4134 of this title][/us/usc/t38/s4134] as this section.
 
-    Subsec. (a). [Pub. L. 102–40, § 403(a)(4)][/us/pl/102/40/s403/a/4], struck out “of this section” after “subsection (b)”.
+    Subsec. (a). [Pub. L. 102–40][/us/pl/102/40], § 403(a)(4), struck out “of this section” after “subsection (b)”.
 
-    [Pub. L. 102–40, § 403(a)(1)][/us/pl/102/40/s403/a/1], substituted “Secretary” for “Administrator”.
+    [Pub. L. 102–40][/us/pl/102/40], § 403(a)(1), substituted “Secretary” for “Administrator”.
 
-    [Pub. L. 102–40, § 402(d)(1)][/us/pl/102/40/s402/d/1], substituted “7331” for “4131”, “7332” for “4132”, and “7333” for “4133”.
+    [Pub. L. 102–40][/us/pl/102/40], § 402(d)(1), substituted “7331” for “4131”, “7332” for “4132”, and “7333” for “4133”.
 
-    Subsec. (b). [Pub. L. 102–40, § 403(a)(4)][/us/pl/102/40/s403/a/4], struck out “of this section” after “subsection (a)” in introductory provisions.
+    Subsec. (b). [Pub. L. 102–40][/us/pl/102/40], § 403(a)(4), struck out “of this section” after “subsection (a)” in introductory provisions.
 
-    Subsec. (c). [Pub. L. 102–40, § 403(a)(1)][/us/pl/102/40/s403/a/1], substituted “Secretary” for “Administrator”.
+    Subsec. (c). [Pub. L. 102–40][/us/pl/102/40], § 403(a)(1), substituted “Secretary” for “Administrator”.
 
-    [Pub. L. 102–40, § 402(d)(1)][/us/pl/102/40/s402/d/1], substituted “7331, 7332, and 7333” for “4131, 4132, and 4133” and “7332(b)(2)(C)” for “4132(b)(2)(C)”.
+    [Pub. L. 102–40][/us/pl/102/40], § 402(d)(1), substituted “7331, 7332, and 7333” for “4131, 4132, and 4133” and “7332(b)(2)(C)” for “4132(b)(2)(C)”.
 
-    Subsec. (d). [Pub. L. 102–40, § 403(a)(1)][/us/pl/102/40/s403/a/1], substituted “Secretary” for “Administrator” in two places.
+    Subsec. (d). [Pub. L. 102–40][/us/pl/102/40], § 403(a)(1), substituted “Secretary” for “Administrator” in two places.
 
     1988—[Pub. L. 100–322][/us/pl/100/322] amended section generally, substituting provisions consisting of subsecs. (a) to (d) for former provisions consisting of subsecs. (a) and (b).
 
@@ -77,17 +77,17 @@
 [/us/stat/88/348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F348
 [/us/usc/t42/s4551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4551
 [/us/usc/t21/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs1101
-[/us/pl/94/581/s111/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F581%2Fs111%2Fa%2F1
+[/us/pl/94/581/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F581%2FtI
 [/us/stat/90/2851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2851
-[/us/pl/97/295/s4/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295%2Fs4%2F87
+[/us/pl/97/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295
 [/us/stat/96/1312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1312
-[/us/pl/100/322/s122/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F322%2Fs122%2Fa
+[/us/pl/100/322/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F322%2FtI
 [/us/stat/102/504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F504
-[/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40
+[/us/pl/102/40/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2FtIV
 [/us/stat/105/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F221
 [/us/pl/93/348/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F348%2Fs201
 [/us/stat/88/348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F348
-[/us/pl/95/622/s302/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F622%2Fs302%2Fb
+[/us/pl/95/622/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F622%2FtIII
 [/us/stat/92/3442]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3442
 [/us/usc/t42/s4551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4551
 [/us/pl/91/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F616
@@ -98,21 +98,21 @@
 [/us/usc/t21/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs1101
 [/us/usc/t38/s7332/b/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7332%2Fb%2F2%2FC
 [/us/usc/t38/s4132/b/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs4132%2Fb%2F2%2FC
-[/us/pl/100/322/s121/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F322%2Fs121%2Fb%2F2%2FA
+[/us/pl/100/322/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F322%2FtI
 [/us/stat/102/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F502
-[/us/pl/102/40/s401/a/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs401%2Fa%2F4%2FA
+[/us/pl/102/40/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2FtIV
 [/us/stat/105/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F221
 [/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40
 [/us/pl/100/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F322
-[/us/pl/102/40/s401/a/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs401%2Fa%2F4%2FA
+[/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40
 [/us/usc/t38/s4134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs4134
-[/us/pl/102/40/s403/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs403%2Fa%2F4
-[/us/pl/102/40/s403/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs403%2Fa%2F1
-[/us/pl/102/40/s402/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs402%2Fd%2F1
-[/us/pl/102/40/s403/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs403%2Fa%2F4
-[/us/pl/102/40/s403/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs403%2Fa%2F1
-[/us/pl/102/40/s402/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs402%2Fd%2F1
-[/us/pl/102/40/s403/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs403%2Fa%2F1
+[/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40
+[/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40
+[/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40
+[/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40
+[/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40
+[/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40
+[/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40
 [/us/pl/100/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F322
 [/us/pl/97/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295
 

@@ -143,7 +143,7 @@
 
         (3) any other rehabilitative services or supports that may contribute to maximizing an individual’s independence.
 
-(Added [Pub. L. 110–181, div. A, title XVII, § 1702(a)][/us/pl/110/181/s1702/a], Jan. 28, 2008, [122 Stat. 486][/us/stat/122/486]; amended [Pub. L. 112–154, title I, § 107(a)][/us/pl/112/154/s107/a], (d), Aug. 6, 2012, [126 Stat. 1173][/us/stat/126/1173].)
+(Added [Pub. L. 110–181, div. A, title XVII][/us/pl/110/181/dA/tXVII], § 1702(a), Jan. 28, 2008, [122 Stat. 486][/us/stat/122/486]; amended [Pub. L. 112–154, title I][/us/pl/112/154/tI], § 107(a), (d), Aug. 6, 2012, [126 Stat. 1173][/us/stat/126/1173].)
 
  __References in Text__ 
 
@@ -151,21 +151,21 @@
 
  __Amendments__ 
 
-    2012—Subsec. (a)(1). [Pub. L. 112–154, § 107(a)(1)][/us/pl/112/154/s107/a/1], inserted “with the goal of maximizing the individual’s independence” before semicolon.
+    2012—Subsec. (a)(1). [Pub. L. 112–154][/us/pl/112/154], § 107(a)(1), inserted “with the goal of maximizing the individual’s independence” before semicolon.
 
-    Subsec. (b)(1). [Pub. L. 112–154, § 107(a)(2)(A)][/us/pl/112/154/s107/a/2/A], inserted “(and sustaining improvement in)” after “improving” and “behavioral,” after “cognitive,”.
+    Subsec. (b)(1). [Pub. L. 112–154][/us/pl/112/154], § 107(a)(2)(A), inserted “(and sustaining improvement in)” after “improving” and “behavioral,” after “cognitive,”.
 
-    Subsec. (b)(2). [Pub. L. 112–154, § 107(a)(2)(B)][/us/pl/112/154/s107/a/2/B], inserted “rehabilitative services and” before “rehabilitative components”.
+    Subsec. (b)(2). [Pub. L. 112–154][/us/pl/112/154], § 107(a)(2)(B), inserted “rehabilitative services and” before “rehabilitative components”.
 
-    Subsec. (b)(3). [Pub. L. 112–154, § 107(a)(2)(C)][/us/pl/112/154/s107/a/2/C], substituted “rehabilitative services” for “rehabilitative treatments” and struck out “treatments and” after “location of such”.
+    Subsec. (b)(3). [Pub. L. 112–154][/us/pl/112/154], § 107(a)(2)(C), substituted “rehabilitative services” for “rehabilitative treatments” and struck out “treatments and” after “location of such”.
 
-    Subsec. (c)(2)(S). [Pub. L. 112–154, § 107(d)][/us/pl/112/154/s107/d], substituted “ophthalmologist” for “opthamologist”.
+    Subsec. (c)(2)(S). [Pub. L. 112–154][/us/pl/112/154], § 107(d), substituted “ophthalmologist” for “opthamologist”.
 
-    Subsec. (h). [Pub. L. 112–154, § 107(a)(3)][/us/pl/112/154/s107/a/3], added subsec. (h).
+    Subsec. (h). [Pub. L. 112–154][/us/pl/112/154], § 107(a)(3), added subsec. (h).
 
  __Research, Education, and Clinical Care Program on Traumatic Brain Injury__ 
 
-[Pub. L. 110–181, div. A, title XVII, § 1704][/us/pl/110/181/s1704], Jan. 28, 2008, [122 Stat. 490][/us/stat/122/490], provided that:
+[Pub. L. 110–181, div. A, title XVII][/us/pl/110/181/dA/tXVII], § 1704, Jan. 28, 2008, [122 Stat. 490][/us/stat/122/490], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -243,7 +243,7 @@
 
  __Pilot Program on Community-Based Brain Injury Residential Rehabilitative Care Services for Veterans With Traumatic Brain Injury__ 
 
-[Pub. L. 110–181, div. A, title XVII, § 1705][/us/pl/110/181/s1705], Jan. 28, 2008, [122 Stat. 491][/us/stat/122/491], as amended by [Pub. L. 113–146, title V, § 501][/us/pl/113/146/s501], Aug. 7, 2014, [128 Stat. 1792][/us/stat/128/1792]; [Pub. L. 113–257, § 2(a)][/us/pl/113/257/s2/a], (b), Dec. 18, 2014, [128 Stat. 2924][/us/stat/128/2924], 2925, provided that:
+[Pub. L. 110–181, div. A, title XVII][/us/pl/110/181/dA/tXVII], § 1705, Jan. 28, 2008, [122 Stat. 491][/us/stat/122/491], as amended by [Pub. L. 113–146, title V][/us/pl/113/146/tV], § 501, Aug. 7, 2014, [128 Stat. 1792][/us/stat/128/1792]; [Pub. L. 113–257][/us/pl/113/257], § 2(a), (b), Dec. 18, 2014, [128 Stat. 2924][/us/stat/128/2924], 2925, provided that:
 
 >     “(a)  __Pilot Program__  __.—__ 
 
@@ -351,7 +351,7 @@
 
     “(g) Termination.—The pilot program shall terminate on October 6, 2017.”
 
-\[[Pub. L. 113–257, § 2(c)][/us/pl/113/257/s2/c], Dec. 18, 2014, [128 Stat. 2925][/us/stat/128/2925], provided that: 
+\[[Pub. L. 113–257][/us/pl/113/257], § 2(c), Dec. 18, 2014, [128 Stat. 2925][/us/stat/128/2925], provided that: 
 
 > “The amendments made by this section \[amending [section 1705 of Pub. L. 110–181][/us/pl/110/181/s1705], set out above\] shall take effect on the date of the enactment of this Act \[Dec. 18, 2014\].”
 
@@ -366,31 +366,31 @@
 
 [/us/usc/t42/s15041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15041
 [/us/usc/t38/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1701
-[/us/pl/110/181/s1702/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1702%2Fa
+[/us/pl/110/181/dA/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtXVII
 [/us/stat/122/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F486
-[/us/pl/112/154/s107/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154%2Fs107%2Fa
+[/us/pl/112/154/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154%2FtI
 [/us/stat/126/1173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1173
 [/us/pl/106/402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F402
 [/us/stat/114/1677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1677
 [/us/usc/t42/s15001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15001
-[/us/pl/112/154/s107/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154%2Fs107%2Fa%2F1
-[/us/pl/112/154/s107/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154%2Fs107%2Fa%2F2%2FA
-[/us/pl/112/154/s107/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154%2Fs107%2Fa%2F2%2FB
-[/us/pl/112/154/s107/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154%2Fs107%2Fa%2F2%2FC
-[/us/pl/112/154/s107/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154%2Fs107%2Fd
-[/us/pl/112/154/s107/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154%2Fs107%2Fa%2F3
-[/us/pl/110/181/s1704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1704
+[/us/pl/112/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154
+[/us/pl/112/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154
+[/us/pl/112/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154
+[/us/pl/112/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154
+[/us/pl/112/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154
+[/us/pl/112/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154
+[/us/pl/110/181/dA/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtXVII
 [/us/stat/122/490]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F490
 [/us/usc/t42/s3515e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3515e
-[/us/pl/110/181/s1705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1705
+[/us/pl/110/181/dA/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtXVII
 [/us/stat/122/491]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F491
-[/us/pl/113/146/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F146%2Fs501
+[/us/pl/113/146/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F146%2FtV
 [/us/stat/128/1792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1792
-[/us/pl/113/257/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F257%2Fs2%2Fa
+[/us/pl/113/257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F257
 [/us/stat/128/2924]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2924
 [/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
 [/us/usc/t38/s1705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1705
-[/us/pl/113/257/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F257%2Fs2%2Fc
+[/us/pl/113/257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F257
 [/us/stat/128/2925]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2925
 [/us/pl/110/181/s1705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1705
 

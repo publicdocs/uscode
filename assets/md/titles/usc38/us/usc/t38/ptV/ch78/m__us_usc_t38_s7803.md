@@ -33,7 +33,7 @@
 
         (3) relatives and other persons while visiting a person specified in this section.
 
-([Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1249][/us/stat/72/1249], § 4203; renumbered § 7803 and amended [Pub. L. 102–40, title IV, § 402(a)][/us/pl/102/40/s402/a], (b)(1), May 7, 1991, [105 Stat. 238][/us/stat/105/238]; [Pub. L. 102–83, § 4(a)(3)][/us/pl/102/83/s4/a/3], (4), Aug. 6, 1991, [105 Stat. 404][/us/stat/105/404]; [Pub. L. 106–117, title III, § 302][/us/pl/106/117/s302], Nov. 30, 1999, [113 Stat. 1572][/us/stat/113/1572]; [Pub. L. 108–422, title VI, § 603][/us/pl/108/422/s603], Nov. 30, 2004, [118 Stat. 2397][/us/stat/118/2397].)
+([Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1249][/us/stat/72/1249], § 4203; renumbered § 7803 and amended [Pub. L. 102–40, title IV][/us/pl/102/40/tIV], § 402(a), (b)(1), May 7, 1991, [105 Stat. 238][/us/stat/105/238]; [Pub. L. 102–83][/us/pl/102/83], § 4(a)(3), (4), Aug. 6, 1991, [105 Stat. 404][/us/stat/105/404]; [Pub. L. 106–117, title III][/us/pl/106/117/tIII], § 302, Nov. 30, 1999, [113 Stat. 1572][/us/stat/113/1572]; [Pub. L. 108–422, title VI][/us/pl/108/422/tVI], § 603, Nov. 30, 2004, [118 Stat. 2397][/us/stat/118/2397].)
 
  __Amendments__ 
 
@@ -55,13 +55,13 @@
 [/us/usc/t38/s1705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1705
 [/us/pl/85/857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F857
 [/us/stat/72/1249]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1249
-[/us/pl/102/40/s402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs402%2Fa
+[/us/pl/102/40/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2FtIV
 [/us/stat/105/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F238
-[/us/pl/102/83/s4/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fa%2F3
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F404
-[/us/pl/106/117/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117%2Fs302
+[/us/pl/106/117/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117%2FtIII
 [/us/stat/113/1572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1572
-[/us/pl/108/422/s603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F422%2Fs603
+[/us/pl/108/422/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F422%2FtVI
 [/us/stat/118/2397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2397
 [/us/pl/108/422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F422
 [/us/pl/106/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117

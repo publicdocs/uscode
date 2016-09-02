@@ -33,7 +33,7 @@
 
         (2) Notwithstanding any other provision of law, the Secretary may acquire the interest of an institution in equipment acquired under subsection (a) if the Secretary determines that the acquisition would be justified by compelling clinical considerations or the economic interests of the Department. The Secretary may not pay more than one-half the depreciated purchase price of that equipment.
 
-(Added [Pub. L. 102–405, title I, § 103(a)(1)][/us/pl/102/405/s103/a/1], Oct. 9, 1992, [106 Stat. 1973][/us/stat/106/1973].)
+(Added [Pub. L. 102–405, title I][/us/pl/102/405/tI], § 103(a)(1), Oct. 9, 1992, [106 Stat. 1973][/us/stat/106/1973].)
 
 ----------
 
@@ -44,7 +44,7 @@
 
 [/us/usc/t38/s8153/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs8153%2Fa
 [/us/usc/t38/s8153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs8153
-[/us/pl/102/405/s103/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405%2Fs103%2Fa%2F1
+[/us/pl/102/405/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405%2FtI
 [/us/stat/106/1973]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1973
 
 

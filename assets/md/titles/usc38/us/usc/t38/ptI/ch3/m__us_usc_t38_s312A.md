@@ -57,7 +57,7 @@
 
             (E) Management of procurement and acquisition processes relating to the construction and operation of facilities of the Department, including the award of contracts related to design, construction, furnishing, and supplies and equipment.
 
-(Added [Pub. L. 109–461, title VIII, § 811(a)][/us/pl/109/461/s811/a], Dec. 22, 2006, [120 Stat. 3446][/us/stat/120/3446].)
+(Added [Pub. L. 109–461, title VIII][/us/pl/109/461/tVIII], § 811(a), Dec. 22, 2006, [120 Stat. 3446][/us/stat/120/3446].)
 
 ----------
 
@@ -67,7 +67,7 @@
 ----------
 
 [/us/usc/t5/s3132/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3132%2Fa%2F8
-[/us/pl/109/461/s811/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461%2Fs811%2Fa
+[/us/pl/109/461/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461%2FtVIII
 [/us/stat/120/3446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3446
 
 

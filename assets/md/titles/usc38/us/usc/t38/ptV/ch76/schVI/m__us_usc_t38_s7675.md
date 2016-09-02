@@ -73,7 +73,7 @@
 
     Any amount of damages which the United States is entitled to recover under this section shall be paid to the United States within the 1-year period beginning on the date of the breach of the agreement.
 
-(Added [Pub. L. 105–368, title VIII, § 802(a)][/us/pl/105/368/s802/a], Nov. 11, 1998, [112 Stat. 3355][/us/stat/112/3355].)
+(Added [Pub. L. 105–368, title VIII][/us/pl/105/368/tVIII], § 802(a), Nov. 11, 1998, [112 Stat. 3355][/us/stat/112/3355].)
 
 ----------
 
@@ -85,7 +85,7 @@
 [/us/usc/t38/s7603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7603
 [/us/usc/t38/s7673/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7673%2Fc%2F2
 [/us/usc/t38/s7673]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7673
-[/us/pl/105/368/s802/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2Fs802%2Fa
+[/us/pl/105/368/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2FtVIII
 [/us/stat/112/3355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3355
 
 

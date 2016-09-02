@@ -33,7 +33,7 @@
 
     (3) any other terms and conditions that the Secretary considers appropriate for carrying out this chapter.
 
-(Added [Pub. L. 111–163, title III, § 302(a)][/us/pl/111/163/s302/a], May 5, 2010, [124 Stat. 1148][/us/stat/124/1148].)
+(Added [Pub. L. 111–163, title III][/us/pl/111/163/tIII], § 302(a), May 5, 2010, [124 Stat. 1148][/us/stat/124/1148].)
 
 ----------
 
@@ -44,7 +44,7 @@
 
 [/us/usc/t38/s7501/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7501%2Fa%2F1
 [/us/usc/t38/s7501/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7501%2Fa%2F1
-[/us/pl/111/163/s302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163%2Fs302%2Fa
+[/us/pl/111/163/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163%2FtIII
 [/us/stat/124/1148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1148
 
 

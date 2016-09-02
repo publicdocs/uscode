@@ -39,7 +39,7 @@
 
     (c) For purposes of this section, the term “federally recognized Indian tribe” means any Indian tribe, band, nation, pueblo, or other organized group or community, including any Alaska Native village or regional corporation as defined in or established pursuant to the Alaska Native Claims Settlement Act, which is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians.
 
-(Added [Pub. L. 96–466, title I, § 101(a)][/us/pl/96/466/s101/a], Oct. 17, 1980, [94 Stat. 2182][/us/stat/94/2182], § 1515; amended [Pub. L. 100–689, title II, § 201][/us/pl/100/689/s201], Nov. 18, 1988, [102 Stat. 4175][/us/stat/102/4175]; [Pub. L. 101–237, title IV, § 423(b)(1)][/us/pl/101/237/s423/b/1], Dec. 18, 1989, [103 Stat. 2092][/us/stat/103/2092]; renumbered § 3115, [Pub. L. 102–83, § 5(a)][/us/pl/102/83/s5/a], Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406]; [Pub. L. 103–446, title VI, § 602(a)][/us/pl/103/446/s602/a], Nov. 2, 1994, [108 Stat. 4671][/us/stat/108/4671].)
+(Added [Pub. L. 96–466, title I][/us/pl/96/466/tI], § 101(a), Oct. 17, 1980, [94 Stat. 2182][/us/stat/94/2182], § 1515; amended [Pub. L. 100–689, title II][/us/pl/100/689/tII], § 201, Nov. 18, 1988, [102 Stat. 4175][/us/stat/102/4175]; [Pub. L. 101–237, title IV][/us/pl/101/237/tIV], § 423(b)(1), Dec. 18, 1989, [103 Stat. 2092][/us/stat/103/2092]; renumbered § 3115, [Pub. L. 102–83][/us/pl/102/83], § 5(a), Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406]; [Pub. L. 103–446, title VI][/us/pl/103/446/tVI], § 602(a), Nov. 2, 1994, [108 Stat. 4671][/us/stat/108/4671].)
 
  __References in Text__ 
 
@@ -53,21 +53,21 @@
 
  __Amendments__ 
 
-    1994—Subsec. (a)(1). [Pub. L. 103–446, § 602(a)(1)(A)][/us/pl/103/446/s602/a/1/A], struck out “or” after “(including the Department of Veterans Affairs),” and inserted “or of any federally recognized Indian tribe,” after “financial assistance,”.
+    1994—Subsec. (a)(1). [Pub. L. 103–446][/us/pl/103/446], § 602(a)(1)(A), struck out “or” after “(including the Department of Veterans Affairs),” and inserted “or of any federally recognized Indian tribe,” after “financial assistance,”.
 
-    Subsec. (a)(4). [Pub. L. 103–446, § 602(a)(1)(B)][/us/pl/103/446/s602/a/1/B], inserted “any federally recognized Indian tribe,” after “contributions,”.
+    Subsec. (a)(4). [Pub. L. 103–446][/us/pl/103/446], § 602(a)(1)(B), inserted “any federally recognized Indian tribe,” after “contributions,”.
 
-    Subsec. (c). [Pub. L. 103–446, § 602(a)(2)][/us/pl/103/446/s602/a/2], added subsec. (c).
+    Subsec. (c). [Pub. L. 103–446][/us/pl/103/446], § 602(a)(2), added subsec. (c).
 
     1991—[Pub. L. 102–83][/us/pl/102/83] renumbered [section 1515 of this title][/us/usc/t38/s1515] as this section.
 
     1989—Subsecs. (a), (b)(2), (4). [Pub. L. 101–237][/us/pl/101/237] substituted “Secretary” and “Department of Veterans Affairs” for “Administrator” and “Veterans’ Administration”, respectively, wherever appearing.
 
-    1988—Subsec. (a)(1). [Pub. L. 100–689, § 201(1)][/us/pl/100/689/s201/1], inserted “, or of any State or local government agency receiving Federal financial assistance,” after “Administration)”.
+    1988—Subsec. (a)(1). [Pub. L. 100–689][/us/pl/100/689], § 201(1), inserted “, or of any State or local government agency receiving Federal financial assistance,” after “Administration)”.
 
-    Subsec. (b)(1). [Pub. L. 100–689, § 201(2)(A)][/us/pl/100/689/s201/2/A], inserted “at a Federal agency” after “section”.
+    Subsec. (b)(1). [Pub. L. 100–689][/us/pl/100/689], § 201(2)(A), inserted “at a Federal agency” after “section”.
 
-    Subsec. (b)(3), (4). [Pub. L. 100–689, § 201(2)(B)][/us/pl/100/689/s201/2/B], added pars. (3) and (4) and struck out former par. (3) which read as follows: “Use of facilities and services under clause (4) of subsection (a) of this section, shall be procured through contract, agreement, or other cooperative arrangement.”
+    Subsec. (b)(3), (4). [Pub. L. 100–689][/us/pl/100/689], § 201(2)(B), added pars. (3) and (4) and struck out former par. (3) which read as follows: “Use of facilities and services under clause (4) of subsection (a) of this section, shall be procured through contract, agreement, or other cooperative arrangement.”
 
  __Effective Date__ 
 
@@ -80,15 +80,15 @@
 ----------
 ----------
 
-[/us/pl/96/466/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F466%2Fs101%2Fa
+[/us/pl/96/466/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F466%2FtI
 [/us/stat/94/2182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2182
-[/us/pl/100/689/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F689%2Fs201
+[/us/pl/100/689/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F689%2FtII
 [/us/stat/102/4175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4175
-[/us/pl/101/237/s423/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237%2Fs423%2Fb%2F1
+[/us/pl/101/237/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237%2FtIV
 [/us/stat/103/2092]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2092
-[/us/pl/102/83/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fa
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F406
-[/us/pl/103/446/s602/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2Fs602%2Fa
+[/us/pl/103/446/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2FtVI
 [/us/stat/108/4671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4671
 [/us/pl/92/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F203
 [/us/stat/85/688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F688
@@ -96,15 +96,15 @@
 [/us/usc/t38/s5315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs5315
 [/us/usc/t38/s1511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1511
 [/us/pl/96/466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F466
-[/us/pl/103/446/s602/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2Fs602%2Fa%2F1%2FA
-[/us/pl/103/446/s602/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2Fs602%2Fa%2F1%2FB
-[/us/pl/103/446/s602/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2Fs602%2Fa%2F2
+[/us/pl/103/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446
+[/us/pl/103/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446
+[/us/pl/103/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446
 [/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/usc/t38/s1515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1515
 [/us/pl/101/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237
-[/us/pl/100/689/s201/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F689%2Fs201%2F1
-[/us/pl/100/689/s201/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F689%2Fs201%2F2%2FA
-[/us/pl/100/689/s201/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F689%2Fs201%2F2%2FB
+[/us/pl/100/689]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F689
+[/us/pl/100/689]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F689
+[/us/pl/100/689]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F689
 [/us/pl/96/466/s802/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F466%2Fs802%2Fa%2F1
 [/us/usc/t38/s3100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3100
 

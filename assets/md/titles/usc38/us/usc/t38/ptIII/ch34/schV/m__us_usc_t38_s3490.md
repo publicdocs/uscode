@@ -17,7 +17,7 @@
 
     It is the purpose of this subchapter (1) to encourage and assist veterans who have academic deficiencies to attain a high school education or its equivalent and to qualify for and pursue courses of higher education, (2) to assist eligible veterans to pursue postsecondary education through tutorial assistance where required, and (3) to encourage educational institutions to develop programs which provide special tutorial, remedial, preparatory, or other educational or supplementary assistance to such veterans.
 
-(Added [Pub. L. 91–219, title II, § 204(a)(4)][/us/pl/91/219/s204/a/4], Mar. 26, 1970, [84 Stat. 79][/us/stat/84/79], § 1690; renumbered § 3490, [Pub. L. 102–83, § 5(a)][/us/pl/102/83/s5/a], Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406].)
+(Added [Pub. L. 91–219, title II][/us/pl/91/219/tII], § 204(a)(4), Mar. 26, 1970, [84 Stat. 79][/us/stat/84/79], § 1690; renumbered § 3490, [Pub. L. 102–83][/us/pl/102/83], § 5(a), Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406].)
 
  __Amendments__ 
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/pl/91/219/s204/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F219%2Fs204%2Fa%2F4
+[/us/pl/91/219/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F219%2FtII
 [/us/stat/84/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F79
-[/us/pl/102/83/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fa
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F406
 [/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/usc/t38/s1690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1690

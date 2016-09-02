@@ -81,19 +81,19 @@
 
         (3) The term “training-related injury” means an injury incurred by a member of the Armed Forces while performing authorized training activities in preparation for a combat mission.
 
-(Added [Pub. L. 93–43, § 2(a)][/us/pl/93/43/s2/a], June 18, 1973, [87 Stat. 75][/us/stat/87/75], § 1002; amended [Pub. L. 99–576, title VII, § 701(54)][/us/pl/99/576/s701/54], Oct. 28, 1986, [100 Stat. 3295][/us/stat/100/3295]; [Pub. L. 101–237, title III, § 313(b)(1)][/us/pl/101/237/s313/b/1], Dec. 18, 1989, [103 Stat. 2077][/us/stat/103/2077]; [Pub. L. 102–40, title IV, § 402(d)(1)][/us/pl/102/40/s402/d/1], May 7, 1991, [105 Stat. 239][/us/stat/105/239]; renumbered § 2402, [Pub. L. 102–83, § 5(a)][/us/pl/102/83/s5/a], Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406]; [Pub. L. 103–240, § 1][/us/pl/103/240/s1], May 4, 1994, [108 Stat. 609][/us/stat/108/609]; [Pub. L. 103–446, title VIII][/us/pl/103/446], §§ 801, 802, Nov. 2, 1994, [108 Stat. 4675][/us/stat/108/4675]; [Pub. L. 104–275, title II, § 211][/us/pl/104/275/s211], Oct. 9, 1996, [110 Stat. 3330][/us/stat/110/3330]; [Pub. L. 105–368, title IV, § 403(c)(5)][/us/pl/105/368/s403/c/5], Nov. 11, 1998, [112 Stat. 3338][/us/stat/112/3338]; [Pub. L. 106–419, title III, § 331(a)][/us/pl/106/419/s331/a], title IV, § 404(a)(5), Nov. 1, 2000, [114 Stat. 1856][/us/stat/114/1856], 1865; [Pub. L. 108–183, title II, § 212(b)][/us/pl/108/183/s212/b], title V, § 502(a), Dec. 16, 2003, [117 Stat. 2658][/us/stat/117/2658], 2667; [Pub. L. 111–275, title V, § 502(b)][/us/pl/111/275/s502/b], Oct. 13, 2010, [124 Stat. 2882][/us/stat/124/2882].)
+(Added [Pub. L. 93–43][/us/pl/93/43], § 2(a), June 18, 1973, [87 Stat. 75][/us/stat/87/75], § 1002; amended [Pub. L. 99–576, title VII][/us/pl/99/576/tVII], § 701(54), Oct. 28, 1986, [100 Stat. 3295][/us/stat/100/3295]; [Pub. L. 101–237, title III][/us/pl/101/237/tIII], § 313(b)(1), Dec. 18, 1989, [103 Stat. 2077][/us/stat/103/2077]; [Pub. L. 102–40, title IV][/us/pl/102/40/tIV], § 402(d)(1), May 7, 1991, [105 Stat. 239][/us/stat/105/239]; renumbered § 2402, [Pub. L. 102–83][/us/pl/102/83], § 5(a), Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406]; [Pub. L. 103–240][/us/pl/103/240], § 1, May 4, 1994, [108 Stat. 609][/us/stat/108/609]; [Pub. L. 103–446, title VIII][/us/pl/103/446/tVIII], §§ 801, 802, Nov. 2, 1994, [108 Stat. 4675][/us/stat/108/4675]; [Pub. L. 104–275, title II][/us/pl/104/275/tII], § 211, Oct. 9, 1996, [110 Stat. 3330][/us/stat/110/3330]; [Pub. L. 105–368, title IV][/us/pl/105/368/tIV], § 403(c)(5), Nov. 11, 1998, [112 Stat. 3338][/us/stat/112/3338]; [Pub. L. 106–419, title III][/us/pl/106/419/tIII], § 331(a), title IV, § 404(a)(5), Nov. 1, 2000, [114 Stat. 1856][/us/stat/114/1856], 1865; [Pub. L. 108–183, title II][/us/pl/108/183/tII], § 212(b), title V, § 502(a), Dec. 16, 2003, [117 Stat. 2658][/us/stat/117/2658], 2667; [Pub. L. 111–275, title V][/us/pl/111/275/tV], § 502(b), Oct. 13, 2010, [124 Stat. 2882][/us/stat/124/2882].)
 
  __Amendments__ 
 
     2010—[Pub. L. 111–275][/us/pl/111/275] designated existing provisions as subsec. (a), realigned margins, added par. (9) of subsec. (a), and added subsec. (b).
 
-    2003—Par. (5). [Pub. L. 108–183, § 502(a)][/us/pl/108/183/s502/a], substituted “(which for purposes of this chapter includes a surviving spouse who had a subsequent remarriage)” for “(which for purposes of this chapter includes an unremarried surviving spouse who had a subsequent remarriage which was terminated by death or divorce)”.
+    2003—Par. (5). [Pub. L. 108–183][/us/pl/108/183], § 502(a), substituted “(which for purposes of this chapter includes a surviving spouse who had a subsequent remarriage)” for “(which for purposes of this chapter includes an unremarried surviving spouse who had a subsequent remarriage which was terminated by death or divorce)”.
 
-    Par. (8). [Pub. L. 108–183, § 212(b)][/us/pl/108/183/s212/b], substituted “subsection (a) or (b) of section 107” for “section 107(a)”.
+    Par. (8). [Pub. L. 108–183][/us/pl/108/183], § 212(b), substituted “subsection (a) or (b) of section 107” for “section 107(a)”.
 
-    2000—Par. (7). [Pub. L. 106–419, § 404(a)(5)][/us/pl/106/419/s404/a/5], substituted “chapter 1223 of title 10” for “chapter 67 of title 10”.
+    2000—Par. (7). [Pub. L. 106–419][/us/pl/106/419], § 404(a)(5), substituted “chapter 1223 of title 10” for “chapter 67 of title 10”.
 
-    Par. (8). [Pub. L. 106–419, § 331(a)][/us/pl/106/419/s331/a], added par. (8).
+    Par. (8). [Pub. L. 106–419][/us/pl/106/419], § 331(a), added par. (8).
 
     1998—[Pub. L. 105–368][/us/pl/105/368] substituted “under the control of the National Cemetery Administration” for “in the National Cemetery System” in introductory provisions.
 
@@ -101,9 +101,9 @@
 
     1994—Par. (5). [Pub. L. 103–446][/us/pl/103/446] inserted “spouse,” after “The” and “(which for purposes of this chapter includes an unremarried surviving spouse who had a subsequent remarriage which was terminated by death or divorce)” after “surviving spouse”.
 
-    [Pub. L. 103–240, § 1(b)][/us/pl/103/240/s1/b], inserted “and paragraph (7)” after “paragraphs (1) through (4)”.
+    [Pub. L. 103–240][/us/pl/103/240], § 1(b), inserted “and paragraph (7)” after “paragraphs (1) through (4)”.
 
-    Par. (7). [Pub. L. 103–240, § 1(a)][/us/pl/103/240/s1/a], added par. (7).
+    Par. (7). [Pub. L. 103–240][/us/pl/103/240], § 1(a), added par. (7).
 
     1991—[Pub. L. 102–83][/us/pl/102/83] renumbered [section 1002 of this title][/us/usc/t38/s1002] as this section.
 
@@ -111,9 +111,9 @@
 
     1989—[Pub. L. 101–237][/us/pl/101/237] substituted “Secretary” for “Administrator” wherever appearing.
 
-    1986—Pars. (2), (3). [Pub. L. 99–576, § 701(54)(A)][/us/pl/99/576/s701/54/A], substituted “while such member” for “while he” wherever appearing.
+    1986—Pars. (2), (3). [Pub. L. 99–576][/us/pl/99/576], § 701(54)(A), substituted “while such member” for “while he” wherever appearing.
 
-    Par. (5). [Pub. L. 99–576, § 701(54)(B)][/us/pl/99/576/s701/54/B], struck out “wife, husband,” before “surviving spouse”.
+    Par. (5). [Pub. L. 99–576][/us/pl/99/576], § 701(54)(B), struck out “wife, husband,” before “surviving spouse”.
 
  __Effective Date of 2010 Amendment__ 
 
@@ -123,7 +123,7 @@
 
     Amendment by [section 212(b) of Pub. L. 108–183][/us/pl/108/183/s212/b] applicable with respect to deaths occurring on or after Dec. 16, 2003, see [section 212(c) of Pub. L. 108–183][/us/pl/108/183/s212/c], set out as a note under [section 107 of this title][/us/usc/t38/s107].
 
-[Pub. L. 108–183, title V, § 502(b)][/us/pl/108/183/s502/b], Dec. 16, 2003, [117 Stat. 2667][/us/stat/117/2667], provided that: 
+[Pub. L. 108–183, title V][/us/pl/108/183/tV], § 502(b), Dec. 16, 2003, [117 Stat. 2667][/us/stat/117/2667], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply with respect to deaths occurring on or after January 1, 2000.”
 
@@ -133,19 +133,19 @@
 
  __Identification of Unclaimed or Abandoned Human Remains__ 
 
-[Pub. L. 112–260, title I, § 104(a)][/us/pl/112/260/s104/a], Jan. 10, 2013, [126 Stat. 2420][/us/stat/126/2420], provided that: 
+[Pub. L. 112–260, title I][/us/pl/112/260/tI], § 104(a), Jan. 10, 2013, [126 Stat. 2420][/us/stat/126/2420], provided that: 
 
 > “The Secretary of Veterans Affairs shall cooperate with veterans service organizations to assist entities in possession of unclaimed or abandoned human remains in determining if any such remains are the remains of veterans or other individuals eligible for burial in a national cemetery under the jurisdiction of the Secretary.”
 
  __Guidance Required__ 
 
-[Pub. L. 111–275, title V, § 502(c)][/us/pl/111/275/s502/c], Oct. 13, 2010, [124 Stat. 2882][/us/stat/124/2882], provided that: 
+[Pub. L. 111–275, title V][/us/pl/111/275/tV], § 502(c), Oct. 13, 2010, [124 Stat. 2882][/us/stat/124/2882], provided that: 
 
 > “The Secretary of Veterans Affairs, in consultation with the Secretary of Defense, shall develop guidance under which the parent of a person described in paragraph (9)(B) of subsection (a) of [section 2402 of title 38][/us/usc/t38/s2402], United States Code, as added by subsection (b), may be designated for interment in a national cemetery under that section.”
 
  __Eligibility of Former Prisoners of War for Burial in Arlington National Cemetery__ 
 
-[Pub. L. 103–160, div. A, title XI, § 1176][/us/pl/103/160/s1176], Nov. 30, 1993, [107 Stat. 1768][/us/stat/107/1768], provided that:
+[Pub. L. 103–160, div. A, title XI][/us/pl/103/160/dA/tXI], § 1176, Nov. 30, 1993, [107 Stat. 1768][/us/stat/107/1768], provided that:
 
 >     “(a)  __Eligibility for Burial__  __.—__ 
 
@@ -184,46 +184,46 @@
 
 [/us/usc/t38/s6105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs6105
 [/us/usc/t38/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs107
-[/us/pl/93/43/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F43%2Fs2%2Fa
+[/us/pl/93/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F43
 [/us/stat/87/75]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F75
-[/us/pl/99/576/s701/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2Fs701%2F54
+[/us/pl/99/576/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2FtVII
 [/us/stat/100/3295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3295
-[/us/pl/101/237/s313/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237%2Fs313%2Fb%2F1
+[/us/pl/101/237/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237%2FtIII
 [/us/stat/103/2077]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2077
-[/us/pl/102/40/s402/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs402%2Fd%2F1
+[/us/pl/102/40/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2FtIV
 [/us/stat/105/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F239
-[/us/pl/102/83/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fa
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F406
-[/us/pl/103/240/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F240%2Fs1
+[/us/pl/103/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F240
 [/us/stat/108/609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F609
-[/us/pl/103/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446
+[/us/pl/103/446/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2FtVIII
 [/us/stat/108/4675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4675
-[/us/pl/104/275/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275%2Fs211
+[/us/pl/104/275/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275%2FtII
 [/us/stat/110/3330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3330
-[/us/pl/105/368/s403/c/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2Fs403%2Fc%2F5
+[/us/pl/105/368/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2FtIV
 [/us/stat/112/3338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3338
-[/us/pl/106/419/s331/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419%2Fs331%2Fa
+[/us/pl/106/419/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419%2FtIII
 [/us/stat/114/1856]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1856
-[/us/pl/108/183/s212/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F183%2Fs212%2Fb
+[/us/pl/108/183/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F183%2FtII
 [/us/stat/117/2658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2658
-[/us/pl/111/275/s502/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275%2Fs502%2Fb
+[/us/pl/111/275/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275%2FtV
 [/us/stat/124/2882]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2882
 [/us/pl/111/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275
-[/us/pl/108/183/s502/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F183%2Fs502%2Fa
-[/us/pl/108/183/s212/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F183%2Fs212%2Fb
-[/us/pl/106/419/s404/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419%2Fs404%2Fa%2F5
-[/us/pl/106/419/s331/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419%2Fs331%2Fa
+[/us/pl/108/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F183
+[/us/pl/108/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F183
+[/us/pl/106/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419
+[/us/pl/106/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419
 [/us/pl/105/368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368
 [/us/pl/104/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275
 [/us/pl/103/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446
-[/us/pl/103/240/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F240%2Fs1%2Fb
-[/us/pl/103/240/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F240%2Fs1%2Fa
+[/us/pl/103/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F240
+[/us/pl/103/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F240
 [/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/usc/t38/s1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1002
 [/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40
 [/us/pl/101/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237
-[/us/pl/99/576/s701/54/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2Fs701%2F54%2FA
-[/us/pl/99/576/s701/54/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2Fs701%2F54%2FB
+[/us/pl/99/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576
+[/us/pl/99/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576
 [/us/pl/111/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275
 [/us/usc/t38/s2402/a/9/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs2402%2Fa%2F9%2FB
 [/us/pl/111/275/s502/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275%2Fs502%2Fe
@@ -231,17 +231,17 @@
 [/us/pl/108/183/s212/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F183%2Fs212%2Fb
 [/us/pl/108/183/s212/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F183%2Fs212%2Fc
 [/us/usc/t38/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs107
-[/us/pl/108/183/s502/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F183%2Fs502%2Fb
+[/us/pl/108/183/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F183%2FtV
 [/us/stat/117/2667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2667
 [/us/pl/106/419/s331/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419%2Fs331%2Fa
 [/us/pl/106/419/s331/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419%2Fs331%2Fc
 [/us/usc/t38/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs107
-[/us/pl/112/260/s104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F260%2Fs104%2Fa
+[/us/pl/112/260/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F260%2FtI
 [/us/stat/126/2420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2420
-[/us/pl/111/275/s502/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275%2Fs502%2Fc
+[/us/pl/111/275/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275%2FtV
 [/us/stat/124/2882]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2882
 [/us/usc/t38/s2402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs2402
-[/us/pl/103/160/s1176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs1176
+[/us/pl/103/160/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtXI
 [/us/stat/107/1768]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1768
 [/us/usc/t38/s101/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs101%2F32
 

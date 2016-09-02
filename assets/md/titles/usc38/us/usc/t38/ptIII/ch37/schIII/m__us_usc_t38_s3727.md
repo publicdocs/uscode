@@ -21,17 +21,17 @@
 
     (c) The Secretary is authorized to make expenditures for the purposes of this section from the fund established pursuant to [section 3722 of this title][/us/usc/t38/s3722].
 
-(Added [Pub. L. 90–301, § 5(a)][/us/pl/90/301/s5/a], May 7, 1968, [82 Stat. 116][/us/stat/82/116], § 1827; amended [Pub. L. 94–324, § 7(31)][/us/pl/94/324/s7/31], June 30, 1976, [90 Stat. 722][/us/stat/90/722]; [Pub. L. 101–237, title III, § 313(b)(1)][/us/pl/101/237/s313/b/1], (2), Dec. 18, 1989, [103 Stat. 2077][/us/stat/103/2077]; renumbered § 3727 and amended [Pub. L. 102–83, § 5(a)][/us/pl/102/83/s5/a], (c)(1), Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406]; [Pub. L. 105–368, title VI, § 602(e)(1)(C)][/us/pl/105/368/s602/e/1/C], title X, § 1005(b)(11), Nov. 11, 1998, [112 Stat. 3346][/us/stat/112/3346], 3365.)
+(Added [Pub. L. 90–301][/us/pl/90/301], § 5(a), May 7, 1968, [82 Stat. 116][/us/stat/82/116], § 1827; amended [Pub. L. 94–324][/us/pl/94/324], § 7(31), June 30, 1976, [90 Stat. 722][/us/stat/90/722]; [Pub. L. 101–237, title III][/us/pl/101/237/tIII], § 313(b)(1), (2), Dec. 18, 1989, [103 Stat. 2077][/us/stat/103/2077]; renumbered § 3727 and amended [Pub. L. 102–83][/us/pl/102/83], § 5(a), (c)(1), Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406]; [Pub. L. 105–368, title VI][/us/pl/105/368/tVI], § 602(e)(1)(C), title X, § 1005(b)(11), Nov. 11, 1998, [112 Stat. 3346][/us/stat/112/3346], 3365.)
 
  __Amendments__ 
 
-    1998—Subsec. (a). [Pub. L. 105–368, § 1005(b)(11)][/us/pl/105/368/s1005/b/11], substituted “May 7, 1968” for “the date of enactment of this section”.
+    1998—Subsec. (a). [Pub. L. 105–368][/us/pl/105/368], § 1005(b)(11), substituted “May 7, 1968” for “the date of enactment of this section”.
 
-    Subsec. (c). [Pub. L. 105–368, § 602(e)(1)(C)][/us/pl/105/368/s602/e/1/C], substituted “fund established pursuant to [section 3722 of this title][/us/usc/t38/s3722]” for “funds established pursuant to sections 3723 and 3724 of this title, as applicable”.
+    Subsec. (c). [Pub. L. 105–368][/us/pl/105/368], § 602(e)(1)(C), substituted “fund established pursuant to [section 3722 of this title][/us/usc/t38/s3722]” for “funds established pursuant to sections 3723 and 3724 of this title, as applicable”.
 
-    1991—[Pub. L. 102–83, § 5(a)][/us/pl/102/83/s5/a], renumbered [section 1827 of this title][/us/usc/t38/s1827] as this section.
+    1991—[Pub. L. 102–83][/us/pl/102/83], § 5(a), renumbered [section 1827 of this title][/us/usc/t38/s1827] as this section.
 
-    Subsec. (c). [Pub. L. 102–83, § 5(c)(1)][/us/pl/102/83/s5/c/1], substituted “3723 and 3724” for “1823 and 1824”.
+    Subsec. (c). [Pub. L. 102–83][/us/pl/102/83], § 5(c)(1), substituted “3723 and 3724” for “1823 and 1824”.
 
     1989—[Pub. L. 101–237][/us/pl/101/237] substituted “Secretary”, “Secretary’s”, and “Department of Veterans Affairs” for “Administrator”, “Administrator’s”, and “Veterans’ Administration”, respectively, wherever appearing.
 
@@ -55,22 +55,22 @@
 ----------
 
 [/us/usc/t38/s3722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3722
-[/us/pl/90/301/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F301%2Fs5%2Fa
+[/us/pl/90/301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F301
 [/us/stat/82/116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F116
-[/us/pl/94/324/s7/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F324%2Fs7%2F31
+[/us/pl/94/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F324
 [/us/stat/90/722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F722
-[/us/pl/101/237/s313/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237%2Fs313%2Fb%2F1
+[/us/pl/101/237/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237%2FtIII
 [/us/stat/103/2077]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2077
-[/us/pl/102/83/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fa
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F406
-[/us/pl/105/368/s602/e/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2Fs602%2Fe%2F1%2FC
+[/us/pl/105/368/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2FtVI
 [/us/stat/112/3346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3346
-[/us/pl/105/368/s1005/b/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2Fs1005%2Fb%2F11
-[/us/pl/105/368/s602/e/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2Fs602%2Fe%2F1%2FC
+[/us/pl/105/368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368
+[/us/pl/105/368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368
 [/us/usc/t38/s3722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3722
-[/us/pl/102/83/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fa
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/usc/t38/s1827]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1827
-[/us/pl/102/83/s5/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fc%2F1
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/pl/101/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237
 [/us/pl/94/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F324
 [/us/pl/94/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F324

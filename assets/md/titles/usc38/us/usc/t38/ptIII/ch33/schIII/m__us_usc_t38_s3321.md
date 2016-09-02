@@ -37,7 +37,7 @@
 
         The period during which a child entitled to educational assistance by reason of section 3311(b)(9) may use such child’s entitlement expires at the end of the 15-year period beginning on the date of such child’s eighteenth birthday.
 
-(Added [Pub. L. 110–252, title V, § 5003(a)(1)][/us/pl/110/252/s5003/a/1], June 30, 2008, [122 Stat. 2373][/us/stat/122/2373]; amended [Pub. L. 111–32, title X, § 1002(c)][/us/pl/111/32/s1002/c], June 24, 2009, [123 Stat. 1889][/us/stat/123/1889]; [Pub. L. 111–275, title X, § 1001(g)(8)][/us/pl/111/275/s1001/g/8], Oct. 13, 2010, [124 Stat. 2896][/us/stat/124/2896]; [Pub. L. 113–146, title VII, § 701(c)][/us/pl/113/146/s701/c], Aug. 7, 2014, [128 Stat. 1796][/us/stat/128/1796].)
+(Added [Pub. L. 110–252, title V][/us/pl/110/252/tV], § 5003(a)(1), June 30, 2008, [122 Stat. 2373][/us/stat/122/2373]; amended [Pub. L. 111–32, title X][/us/pl/111/32/tX], § 1002(c), June 24, 2009, [123 Stat. 1889][/us/stat/123/1889]; [Pub. L. 111–275, title X][/us/pl/111/275/tX], § 1001(g)(8), Oct. 13, 2010, [124 Stat. 2896][/us/stat/124/2896]; [Pub. L. 113–146, title VII][/us/pl/113/146/tVII], § 701(c), Aug. 7, 2014, [128 Stat. 1796][/us/stat/128/1796].)
 
  __Amendments__ 
 
@@ -63,13 +63,13 @@
 ----------
 
 [/us/usc/t38/s3312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3312
-[/us/pl/110/252/s5003/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F252%2Fs5003%2Fa%2F1
+[/us/pl/110/252/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F252%2FtV
 [/us/stat/122/2373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2373
-[/us/pl/111/32/s1002/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F32%2Fs1002%2Fc
+[/us/pl/111/32/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F32%2FtX
 [/us/stat/123/1889]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1889
-[/us/pl/111/275/s1001/g/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275%2Fs1001%2Fg%2F8
+[/us/pl/111/275/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275%2FtX
 [/us/stat/124/2896]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2896
-[/us/pl/113/146/s701/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F146%2Fs701%2Fc
+[/us/pl/113/146/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F146%2FtVII
 [/us/stat/128/1796]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1796
 [/us/pl/113/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F146
 [/us/pl/111/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275

@@ -47,7 +47,7 @@
 
         (5) other veterans with serious incapacities in terms of daily life functions.
 
-(Added [Pub. L. 102–405, title I, § 105(b)(1)][/us/pl/102/405/s105/b/1], Oct. 9, 1992, [106 Stat. 1975][/us/stat/106/1975].)
+(Added [Pub. L. 102–405, title I][/us/pl/102/405/tI], § 105(b)(1), Oct. 9, 1992, [106 Stat. 1975][/us/stat/106/1975].)
 
  __Prior Provisions__ 
 
@@ -55,7 +55,7 @@
 
  __Change of Name__ 
 
-[Pub. L. 102–405, title I, § 105(a)][/us/pl/102/405/s105/a], Oct. 9, 1992, [106 Stat. 1975][/us/stat/106/1975], provided that: 
+[Pub. L. 102–405, title I][/us/pl/102/405/tI], § 105(a), Oct. 9, 1992, [106 Stat. 1975][/us/stat/106/1975], provided that: 
 
 > “The Federal advisory committee established by the Secretary and known as the Prosthetics Service Advisory Committee shall after the date of the enactment of this Act \[Oct. 9, 1992\] be known as the Advisory Committee on Prosthetics and Special-Disabilities Programs and shall operate as though such committee had been established by law. Notwithstanding any other provision of law, the Committee may, upon the enactment of this Act, meet and act on any matter covered by subsection (b) of [section 543 of title 38][/us/usc/t38/s543], United States Code, as added by subsection (b) of this section.”
 
@@ -70,10 +70,10 @@
 ----------
 ----------
 
-[/us/pl/102/405/s105/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405%2Fs105%2Fb%2F1
+[/us/pl/102/405/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405%2FtI
 [/us/stat/106/1975]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1975
 [/us/usc/t38/s1543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1543
-[/us/pl/102/405/s105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405%2Fs105%2Fa
+[/us/pl/102/405/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405%2FtI
 [/us/stat/106/1975]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1975
 [/us/usc/t38/s543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs543
 [/us/pl/92/463/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463%2Fs14

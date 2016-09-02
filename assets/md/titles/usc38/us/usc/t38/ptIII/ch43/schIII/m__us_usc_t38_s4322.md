@@ -51,7 +51,7 @@
 
     (g) This subchapter does not apply to any action relating to benefits to be provided under the Thrift Savings Plan under title 5.
 
-(Added [Pub. L. 103–353, § 2(a)][/us/pl/103/353/s2/a], Oct. 13, 1994, [108 Stat. 3164][/us/stat/108/3164]; amended [Pub. L. 104–275, title III, § 311(9)][/us/pl/104/275/s311/9], Oct. 9, 1996, [110 Stat. 3335][/us/stat/110/3335]; [Pub. L. 110–389, title III, § 311(a)][/us/pl/110/389/s311/a]–(c), Oct. 10, 2008, [122 Stat. 4162][/us/stat/122/4162].)
+(Added [Pub. L. 103–353][/us/pl/103/353], § 2(a), Oct. 13, 1994, [108 Stat. 3164][/us/stat/108/3164]; amended [Pub. L. 104–275, title III][/us/pl/104/275/tIII], § 311(9), Oct. 9, 1996, [110 Stat. 3335][/us/stat/110/3335]; [Pub. L. 110–389, title III][/us/pl/110/389/tIII], § 311(a)–(c), Oct. 10, 2008, [122 Stat. 4162][/us/stat/122/4162].)
 
  __Prior Provisions__ 
 
@@ -59,17 +59,17 @@
 
  __Amendments__ 
 
-    2008—Subsec. (c). [Pub. L. 110–389, § 311(a)][/us/pl/110/389/s311/a], amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The Secretary shall, upon request, provide technical assistance to a potential claimant with respect to a complaint under this subsection, and when appropriate, to such claimant’s employer.”
+    2008—Subsec. (c). [Pub. L. 110–389][/us/pl/110/389], § 311(a), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The Secretary shall, upon request, provide technical assistance to a potential claimant with respect to a complaint under this subsection, and when appropriate, to such claimant’s employer.”
 
-    Subsec. (e). [Pub. L. 110–389, § 311(b)][/us/pl/110/389/s311/b], inserted “in writing” after “submitted the complaint” in introductory provisions.
+    Subsec. (e). [Pub. L. 110–389][/us/pl/110/389], § 311(b), inserted “in writing” after “submitted the complaint” in introductory provisions.
 
-    Subsecs. (f), (g). [Pub. L. 110–389, § 311(c)][/us/pl/110/389/s311/c], added subsec. (f) and redesignated former subsec. (f) as (g).
+    Subsecs. (f), (g). [Pub. L. 110–389][/us/pl/110/389], § 311(c), added subsec. (f) and redesignated former subsec. (f) as (g).
 
-    1996—Subsec. (d). [Pub. L. 104–275, § 311(9)(A)][/us/pl/104/275/s311/9/A], inserted “attempt to” before “resolve”.
+    1996—Subsec. (d). [Pub. L. 104–275][/us/pl/104/275], § 311(9)(A), inserted “attempt to” before “resolve”.
 
-    Subsec. (e). [Pub. L. 104–275, § 311(9)(B)(i)][/us/pl/104/275/s311/9/B/i], substituted “with respect to any complaint filed under subsection (a) do not resolve the complaint,” for “with respect to a complaint under subsection (d) are unsuccessful,” in introductory provisions.
+    Subsec. (e). [Pub. L. 104–275][/us/pl/104/275], § 311(9)(B)(i), substituted “with respect to any complaint filed under subsection (a) do not resolve the complaint,” for “with respect to a complaint under subsection (d) are unsuccessful,” in introductory provisions.
 
-    Subsec. (e)(2). [Pub. L. 104–275, § 311(9)(B)(ii)][/us/pl/104/275/s311/9/B/ii], inserted “or the Office of Personnel Management” after “Federal executive agency”.
+    Subsec. (e)(2). [Pub. L. 104–275][/us/pl/104/275], § 311(9)(B)(ii), inserted “or the Office of Personnel Management” after “Federal executive agency”.
 
  __Effective Date of 1996 Amendment__ 
 
@@ -86,19 +86,19 @@
 ----------
 ----------
 
-[/us/pl/103/353/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F353%2Fs2%2Fa
+[/us/pl/103/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F353
 [/us/stat/108/3164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3164
-[/us/pl/104/275/s311/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275%2Fs311%2F9
+[/us/pl/104/275/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275%2FtIII
 [/us/stat/110/3335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3335
-[/us/pl/110/389/s311/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F389%2Fs311%2Fa
+[/us/pl/110/389/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F389%2FtIII
 [/us/stat/122/4162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4162
 [/us/usc/t38/s7622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7622
-[/us/pl/110/389/s311/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F389%2Fs311%2Fa
-[/us/pl/110/389/s311/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F389%2Fs311%2Fb
-[/us/pl/110/389/s311/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F389%2Fs311%2Fc
-[/us/pl/104/275/s311/9/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275%2Fs311%2F9%2FA
-[/us/pl/104/275/s311/9/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275%2Fs311%2F9%2FB%2Fi
-[/us/pl/104/275/s311/9/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275%2Fs311%2F9%2FB%2Fii
+[/us/pl/110/389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F389
+[/us/pl/110/389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F389
+[/us/pl/110/389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F389
+[/us/pl/104/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275
+[/us/pl/104/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275
+[/us/pl/104/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275
 [/us/pl/104/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275
 [/us/pl/104/275/s313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275%2Fs313
 [/us/usc/t38/s4301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs4301

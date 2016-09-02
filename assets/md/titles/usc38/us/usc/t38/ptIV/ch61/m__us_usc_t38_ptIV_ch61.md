@@ -91,11 +91,11 @@
 
  __Amendments__ 
 
-    2004—[Pub. L. 108–454, title V][/us/pl/108/454], §§ 503(b), 504(b)(2), Dec. 10, 2004, [118 Stat. 3620][/us/stat/118/3620], 3621, added items 6106 to 6108.
+    2004—[Pub. L. 108–454, title V][/us/pl/108/454/tV], §§ 503(b), 504(b)(2), Dec. 10, 2004, [118 Stat. 3620][/us/stat/118/3620], 3621, added items 6106 to 6108.
 
-    1991—[Pub. L. 102–40, title IV, § 402(c)(1)][/us/pl/102/40/s402/c/1], May 7, 1991, [105 Stat. 239][/us/stat/105/239], renumbered items 3501 to 3505 as 6101 to 6105, respectively.
+    1991—[Pub. L. 102–40, title IV][/us/pl/102/40/tIV], § 402(c)(1), May 7, 1991, [105 Stat. 239][/us/stat/105/239], renumbered items 3501 to 3505 as 6101 to 6105, respectively.
 
-    1959—[Pub. L. 86–222, § 3(b)][/us/pl/86/222/s3/b], Sept. 1, 1959, [73 Stat. 453][/us/stat/73/453], added item 3505.
+    1959—[Pub. L. 86–222][/us/pl/86/222], § 3(b), Sept. 1, 1959, [73 Stat. 453][/us/stat/73/453], added item 3505.
 
 ----------
 
@@ -104,11 +104,11 @@
 ----------
 ----------
 
-[/us/pl/108/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F454
+[/us/pl/108/454/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F454%2FtV
 [/us/stat/118/3620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3620
-[/us/pl/102/40/s402/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs402%2Fc%2F1
+[/us/pl/102/40/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2FtIV
 [/us/stat/105/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F239
-[/us/pl/86/222/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F222%2Fs3%2Fb
+[/us/pl/86/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F222
 [/us/stat/73/453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F453
 
 

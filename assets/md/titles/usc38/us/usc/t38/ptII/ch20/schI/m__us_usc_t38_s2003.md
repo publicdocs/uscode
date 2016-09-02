@@ -37,7 +37,7 @@
 
     The Secretary shall ensure that the number of case managers in the Veterans Health Administration is sufficient to assure that every veteran who is provided a housing voucher through section 8(o) of the United States Housing Act of 1937 ([42 U.S.C. 1437f][/us/usc/t42/s1437f](o)) is assigned to, and is seen as needed by, a case manager.
 
-(Added [Pub. L. 107–95, § 5(a)(1)][/us/pl/107/95/s5/a/1], Dec. 21, 2001, [115 Stat. 905][/us/stat/115/905].)
+(Added [Pub. L. 107–95][/us/pl/107/95], § 5(a)(1), Dec. 21, 2001, [115 Stat. 905][/us/stat/115/905].)
 
  __Prior Provisions__ 
 
@@ -55,19 +55,19 @@
 
     Prior section 2006 was renumbered [section 4106 of this title][/us/usc/t38/s4106].
 
-    Another prior section 2006, [Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1219][/us/stat/72/1219], authorized the Secretary to make rules and regulations necessary to carry out the provisions of chapter 41 of this title, and required him to consult with representatives of the State unemployment compensation agencies before prescribing any rules which could affect the performance of such agencies, prior to repeal by [Pub. L. 87–675, § 1(a)][/us/pl/87/675/s1/a], Sept. 19, 1962, [76 Stat. 558][/us/stat/76/558].
+    Another prior section 2006, [Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1219][/us/stat/72/1219], authorized the Secretary to make rules and regulations necessary to carry out the provisions of chapter 41 of this title, and required him to consult with representatives of the State unemployment compensation agencies before prescribing any rules which could affect the performance of such agencies, prior to repeal by [Pub. L. 87–675][/us/pl/87/675], § 1(a), Sept. 19, 1962, [76 Stat. 558][/us/stat/76/558].
 
     Prior section 2007 was renumbered [section 4107 of this title][/us/usc/t38/s4107].
 
-    Another prior section 2007, [Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1220][/us/stat/72/1220]; [Pub. L. 86–70, § 29(b)][/us/pl/86/70/s29/b], June 25, 1959, [73 Stat. 148][/us/stat/73/148]; [Pub. L. 86–624, § 25(c)][/us/pl/86/624/s25/c], July 12, 1960, [74 Stat. 418][/us/stat/74/418], defined “Korean conflict veterans”, “unemployment compensation”, and “State”, prior to repeal by [Pub. L. 87–675, § 1(a)][/us/pl/87/675/s1/a], Sept. 19, 1962, [76 Stat. 558][/us/stat/76/558].
+    Another prior section 2007, [Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1220][/us/stat/72/1220]; [Pub. L. 86–70][/us/pl/86/70], § 29(b), June 25, 1959, [73 Stat. 148][/us/stat/73/148]; [Pub. L. 86–624][/us/pl/86/624], § 25(c), July 12, 1960, [74 Stat. 418][/us/stat/74/418], defined “Korean conflict veterans”, “unemployment compensation”, and “State”, prior to repeal by [Pub. L. 87–675][/us/pl/87/675], § 1(a), Sept. 19, 1962, [76 Stat. 558][/us/stat/76/558].
 
     Prior section 2008 was renumbered [section 4108 of this title][/us/usc/t38/s4108].
 
-    Another prior section 2008, [Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1220][/us/stat/72/1220], enumerated provisions which forbade duplication of benefits, prior to repeal by [Pub. L. 87–675, § 1(a)][/us/pl/87/675/s1/a], Sept. 19, 1962, [76 Stat. 558][/us/stat/76/558].
+    Another prior section 2008, [Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1220][/us/stat/72/1220], enumerated provisions which forbade duplication of benefits, prior to repeal by [Pub. L. 87–675][/us/pl/87/675], § 1(a), Sept. 19, 1962, [76 Stat. 558][/us/stat/76/558].
 
     Prior section 2009 was renumbered [section 4109 of this title][/us/usc/t38/s4109].
 
-    Another prior section 2009, [Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1221][/us/stat/72/1221], provided termination dates for the payment of benefits under chapter 41 of this title, prior to repeal by [Pub. L. 87–675, § 1(a)][/us/pl/87/675/s1/a], Sept. 19, 1962, [76 Stat. 558][/us/stat/76/558].
+    Another prior section 2009, [Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1221][/us/stat/72/1221], provided termination dates for the payment of benefits under chapter 41 of this title, prior to repeal by [Pub. L. 87–675][/us/pl/87/675], § 1(a), Sept. 19, 1962, [76 Stat. 558][/us/stat/76/558].
 
     Prior section 2010 was renumbered [section 4110 of this title][/us/usc/t38/s4110].
 
@@ -86,7 +86,7 @@
 [/us/usc/t38/s2033]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs2033
 [/us/usc/t38/s2034]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs2034
 [/us/usc/t42/s1437f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f
-[/us/pl/107/95/s5/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F95%2Fs5%2Fa%2F1
+[/us/pl/107/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F95
 [/us/stat/115/905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F905
 [/us/usc/t38/s4103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs4103
 [/us/pl/85/857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F857
@@ -101,26 +101,26 @@
 [/us/usc/t38/s4106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs4106
 [/us/pl/85/857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F857
 [/us/stat/72/1219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1219
-[/us/pl/87/675/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F675%2Fs1%2Fa
+[/us/pl/87/675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F675
 [/us/stat/76/558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F558
 [/us/usc/t38/s4107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs4107
 [/us/pl/85/857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F857
 [/us/stat/72/1220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1220
-[/us/pl/86/70/s29/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F70%2Fs29%2Fb
+[/us/pl/86/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F70
 [/us/stat/73/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F148
-[/us/pl/86/624/s25/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F624%2Fs25%2Fc
+[/us/pl/86/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F624
 [/us/stat/74/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F418
-[/us/pl/87/675/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F675%2Fs1%2Fa
+[/us/pl/87/675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F675
 [/us/stat/76/558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F558
 [/us/usc/t38/s4108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs4108
 [/us/pl/85/857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F857
 [/us/stat/72/1220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1220
-[/us/pl/87/675/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F675%2Fs1%2Fa
+[/us/pl/87/675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F675
 [/us/stat/76/558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F558
 [/us/usc/t38/s4109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs4109
 [/us/pl/85/857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F857
 [/us/stat/72/1221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1221
-[/us/pl/87/675/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F675%2Fs1%2Fa
+[/us/pl/87/675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F675
 [/us/stat/76/558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F558
 [/us/usc/t38/s4110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs4110
 [/us/usc/t38/s4101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs4101

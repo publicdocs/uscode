@@ -31,7 +31,7 @@
 
             (C) The agencies referred to in [section 2302(a)(2)(C)(ii) of title 5][/us/usc/t5/s2302/a/2/C/ii].
 
-(Added [Pub. L. 103–353, § 2(a)][/us/pl/103/353/s2/a], Oct. 13, 1994, [108 Stat. 3168][/us/stat/108/3168]; amended [Pub. L. 109–233, title V, § 503(14)][/us/pl/109/233/s503/14], June 15, 2006, [120 Stat. 417][/us/stat/120/417].)
+(Added [Pub. L. 103–353][/us/pl/103/353], § 2(a), Oct. 13, 1994, [108 Stat. 3168][/us/stat/108/3168]; amended [Pub. L. 109–233, title V][/us/pl/109/233/tV], § 503(14), June 15, 2006, [120 Stat. 417][/us/stat/120/417].)
 
  __Prior Provisions__ 
 
@@ -53,9 +53,9 @@
 ----------
 
 [/us/usc/t5/s2302/a/2/C/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs2302%2Fa%2F2%2FC%2Fii
-[/us/pl/103/353/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F353%2Fs2%2Fa
+[/us/pl/103/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F353
 [/us/stat/108/3168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3168
-[/us/pl/109/233/s503/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F233%2Fs503%2F14
+[/us/pl/109/233/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F233%2FtV
 [/us/stat/120/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F417
 [/us/usc/t38/s7631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7631
 [/us/pl/109/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F233

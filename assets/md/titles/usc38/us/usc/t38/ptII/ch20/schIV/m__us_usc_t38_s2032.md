@@ -69,7 +69,7 @@
 
     (h) Funds received by the Department under this section shall be deposited in the General Post Fund. The Secretary may distribute out of the fund such amounts as necessary for the acquisition, management, maintenance, and disposition of real property for the purpose of carrying out such program. The Secretary shall manage the operation of this section so as to ensure that expenditures under this subsection for any fiscal year shall not exceed by more than $500,000 proceeds credited to the General Post Fund under this section. The operation of the program and funds received shall be separately accounted for, and shall be stated in the documents accompanying the President’s budget for each fiscal year.
 
-(Added [Pub. L. 105–114, title II, § 202(a)][/us/pl/105/114/s202/a], Nov. 21, 1997, [111 Stat. 2284][/us/stat/111/2284], § 1772; renumbered § 2032, [Pub. L. 107–95, § 5(b)(1)][/us/pl/107/95/s5/b/1], Dec. 21, 2001, [115 Stat. 918][/us/stat/115/918].)
+(Added [Pub. L. 105–114, title II][/us/pl/105/114/tII], § 202(a), Nov. 21, 1997, [111 Stat. 2284][/us/stat/111/2284], § 1772; renumbered § 2032, [Pub. L. 107–95][/us/pl/107/95], § 5(b)(1), Dec. 21, 2001, [115 Stat. 918][/us/stat/115/918].)
 
  __Amendments__ 
 
@@ -83,9 +83,9 @@
 ----------
 
 [/us/usc/t38/s1710/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1710%2Fa
-[/us/pl/105/114/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F114%2Fs202%2Fa
+[/us/pl/105/114/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F114%2FtII
 [/us/stat/111/2284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2284
-[/us/pl/107/95/s5/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F95%2Fs5%2Fb%2F1
+[/us/pl/107/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F95
 [/us/stat/115/918]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F918
 [/us/pl/107/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F95
 [/us/usc/t38/s1772]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1772

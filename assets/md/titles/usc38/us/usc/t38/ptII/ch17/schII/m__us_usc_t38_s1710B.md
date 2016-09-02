@@ -67,11 +67,11 @@
 
         (2) All amounts received by the Department under this section shall be deposited in or credited to the fund.
 
-(Added [Pub. L. 106–117, title I, § 101(c)(1)][/us/pl/106/117/s101/c/1], Nov. 30, 1999, [113 Stat. 1548][/us/stat/113/1548]; amended [Pub. L. 107–14, § 8(a)(2)][/us/pl/107/14/s8/a/2], (16), June 5, 2001, [115 Stat. 34][/us/stat/115/34], 35; [Pub. L. 107–103, title V, § 509(b)][/us/pl/107/103/s509/b], Dec. 27, 2001, [115 Stat. 997][/us/stat/115/997]; [Pub. L. 108–422, title II, § 204][/us/pl/108/422/s204], Nov. 30, 2004, [118 Stat. 2382][/us/stat/118/2382].)
+(Added [Pub. L. 106–117, title I][/us/pl/106/117/tI], § 101(c)(1), Nov. 30, 1999, [113 Stat. 1548][/us/stat/113/1548]; amended [Pub. L. 107–14][/us/pl/107/14], § 8(a)(2), (16), June 5, 2001, [115 Stat. 34][/us/stat/115/34], 35; [Pub. L. 107–103, title V][/us/pl/107/103/tV], § 509(b), Dec. 27, 2001, [115 Stat. 997][/us/stat/115/997]; [Pub. L. 108–422, title II][/us/pl/108/422/tII], § 204, Nov. 30, 2004, [118 Stat. 2382][/us/stat/118/2382].)
 
  __References in Text__ 
 
-    [Section 1701(10) of this title][/us/usc/t38/s1701/10], referred to in subsec. (a)(5), was repealed by [Pub. L. 110–387, title VIII, § 801(1)][/us/pl/110/387/s801/1], Oct. 10, 2008, [122 Stat. 4140][/us/stat/122/4140].
+    [Section 1701(10) of this title][/us/usc/t38/s1701/10], referred to in subsec. (a)(5), was repealed by [Pub. L. 110–387, title VIII][/us/pl/110/387/tVIII], § 801(1), Oct. 10, 2008, [122 Stat. 4140][/us/stat/122/4140].
 
  __Amendments__ 
 
@@ -79,13 +79,13 @@
 
     2001—Subsec. (c)(2)(B). [Pub. L. 107–103][/us/pl/107/103] inserted “on” before “November 30, 1999”.
 
-    [Pub. L. 107–14, § 8(a)(2)][/us/pl/107/14/s8/a/2], substituted “November 30, 1999” for “on the date of the enactment of the Veterans Millennium Health Care and Benefits Act”.
+    [Pub. L. 107–14][/us/pl/107/14], § 8(a)(2), substituted “November 30, 1999” for “on the date of the enactment of the Veterans Millennium Health Care and Benefits Act”.
 
-    Subsec. (e)(1). [Pub. L. 107–14, § 8(a)(16)][/us/pl/107/14/s8/a/16], substituted “hereinafter” for “hereafter”.
+    Subsec. (e)(1). [Pub. L. 107–14][/us/pl/107/14], § 8(a)(16), substituted “hereinafter” for “hereafter”.
 
  __Effective Date of 2004 Amendment__ 
 
-[Pub. L. 108–422, title IV, § 411(f)][/us/pl/108/422/s411/f], (g), Nov. 30, 2004, [118 Stat. 2390][/us/stat/118/2390], provided that:
+[Pub. L. 108–422, title IV][/us/pl/108/422/tIV], § 411(f), (g), Nov. 30, 2004, [118 Stat. 2390][/us/stat/118/2390], provided that:
 
 >     “(f)  __Contingent Effectiveness__  __.—__ 
 
@@ -97,7 +97,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 106–117, title I, § 101(h)][/us/pl/106/117/s101/h], Nov. 30, 1999, [113 Stat. 1550][/us/stat/113/1550], provided that:
+[Pub. L. 106–117, title I][/us/pl/106/117/tI], § 101(h), Nov. 30, 1999, [113 Stat. 1550][/us/stat/113/1550], provided that:
 
 >     “(1) Except as provided in paragraph (2), the amendments made by this section \[enacting this section and [section 1710A of this title][/us/usc/t38/s1710A] and amending sections 1701, 1710, 1720, 1720B and 1741 of this title\] shall take effect on the date of the enactment of this Act \[Nov. 30, 1999\].
 
@@ -107,7 +107,7 @@
 
  __Pilot Program on Improvement of Caregiver Assistance Services__ 
 
-[Pub. L. 109–461, title II, § 214][/us/pl/109/461/s214], Dec. 22, 2006, [120 Stat. 3423][/us/stat/120/3423], as amended by [Pub. L. 110–387, § 809][/us/pl/110/387/s809], Oct. 10, 2008, [122 Stat. 4142][/us/stat/122/4142], provided that:
+[Pub. L. 109–461, title II][/us/pl/109/461/tII], § 214, Dec. 22, 2006, [120 Stat. 3423][/us/stat/120/3423], as amended by [Pub. L. 110–387][/us/pl/110/387], § 809, Oct. 10, 2008, [122 Stat. 4142][/us/stat/122/4142], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -157,7 +157,7 @@
 
  __Pilot Programs Relating to Long-Term Care__ 
 
-[Pub. L. 106–117, title I, § 102][/us/pl/106/117/s102], Nov. 30, 1999, [113 Stat. 1551][/us/stat/113/1551], as amended by [Pub. L. 108–422, title II, § 203][/us/pl/108/422/s203], Nov. 30, 2004, [118 Stat. 2382][/us/stat/118/2382], provided that:
+[Pub. L. 106–117, title I][/us/pl/106/117/tI], § 102, Nov. 30, 1999, [113 Stat. 1551][/us/stat/113/1551], as amended by [Pub. L. 108–422, title II][/us/pl/108/422/tII], § 203, Nov. 30, 2004, [118 Stat. 2382][/us/stat/118/2382], provided that:
 
 >     “(a)  __Pilot Programs__  __.—__ 
 
@@ -249,7 +249,7 @@
 
  __Pilot Program Relating to Assisted Living__ 
 
-[Pub. L. 106–117, title I, § 103][/us/pl/106/117/s103], Nov. 30, 1999, [113 Stat. 1552][/us/stat/113/1552], as amended by [Pub. L. 108–170, title I, § 107][/us/pl/108/170/s107], Dec. 6, 2003, [117 Stat. 2046][/us/stat/117/2046], provided that:
+[Pub. L. 106–117, title I][/us/pl/106/117/tI], § 103, Nov. 30, 1999, [113 Stat. 1552][/us/stat/113/1552], as amended by [Pub. L. 108–170, title I][/us/pl/108/170/tI], § 107, Dec. 6, 2003, [117 Stat. 2046][/us/stat/117/2046], provided that:
 
 >     “(a)  __Program Authority__  __.—__ 
 
@@ -321,45 +321,45 @@
 [/us/usc/t38/s1720B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1720B
 [/us/usc/t38/s1503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1503
 [/us/usc/t38/s1521/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1521%2Fb
-[/us/pl/106/117/s101/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117%2Fs101%2Fc%2F1
+[/us/pl/106/117/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117%2FtI
 [/us/stat/113/1548]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1548
-[/us/pl/107/14/s8/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F14%2Fs8%2Fa%2F2
+[/us/pl/107/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F14
 [/us/stat/115/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F34
-[/us/pl/107/103/s509/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F103%2Fs509%2Fb
+[/us/pl/107/103/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F103%2FtV
 [/us/stat/115/997]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F997
-[/us/pl/108/422/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F422%2Fs204
+[/us/pl/108/422/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F422%2FtII
 [/us/stat/118/2382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2382
 [/us/usc/t38/s1701/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1701%2F10
-[/us/pl/110/387/s801/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F387%2Fs801%2F1
+[/us/pl/110/387/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F387%2FtVIII
 [/us/stat/122/4140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4140
 [/us/pl/108/422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F422
 [/us/pl/107/103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F103
-[/us/pl/107/14/s8/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F14%2Fs8%2Fa%2F2
-[/us/pl/107/14/s8/a/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F14%2Fs8%2Fa%2F16
-[/us/pl/108/422/s411/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F422%2Fs411%2Ff
+[/us/pl/107/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F14
+[/us/pl/107/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F14
+[/us/pl/108/422/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F422%2FtIV
 [/us/stat/118/2390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2390
 [/us/usc/t38/s8118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs8118
 [/us/usc/t38/s8116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs8116
 [/us/usc/t38/s1710B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1710B
-[/us/pl/106/117/s101/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117%2Fs101%2Fh
+[/us/pl/106/117/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117%2FtI
 [/us/stat/113/1550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1550
 [/us/usc/t38/s1710A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1710A
 [/us/usc/t38/s1710B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1710B
 [/us/usc/t38/s1710/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1710%2Ff
-[/us/pl/109/461/s214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461%2Fs214
+[/us/pl/109/461/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461%2FtII
 [/us/stat/120/3423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3423
-[/us/pl/110/387/s809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F387%2Fs809
+[/us/pl/110/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F387
 [/us/stat/122/4142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4142
-[/us/pl/106/117/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117%2Fs102
+[/us/pl/106/117/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117%2FtI
 [/us/stat/113/1551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1551
-[/us/pl/108/422/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F422%2Fs203
+[/us/pl/108/422/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F422%2FtII
 [/us/stat/118/2382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2382
 [/us/pl/104/204/s429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F204%2Fs429
 [/us/stat/110/2929]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2929
 [/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
-[/us/pl/106/117/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117%2Fs103
+[/us/pl/106/117/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117%2FtI
 [/us/stat/113/1552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1552
-[/us/pl/108/170/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F170%2Fs107
+[/us/pl/108/170/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F170%2FtI
 [/us/stat/117/2046]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2046
 [/us/usc/t38/s1730/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1730%2Fa
 [/us/usc/t38/s1730]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1730

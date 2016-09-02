@@ -41,23 +41,23 @@
 
     (d) In selecting applicants for acceptance in the Educational Assistance Program, the Secretary shall give priority to the applications of individuals who have previously received educational assistance under the program and have not completed the course of education or training undertaken under such program.
 
-(Added [Pub. L. 100–322, title II, § 216(b)][/us/pl/100/322/s216/b], May 20, 1988, [102 Stat. 518][/us/stat/102/518], § 4303; renumbered § 7603 and amended [Pub. L. 102–40, title IV, § 402(b)(1)][/us/pl/102/40/s402/b/1], (d)(1), May 7, 1991, [105 Stat. 238][/us/stat/105/238], 239; [Pub. L. 102–83, § 4(b)(1)][/us/pl/102/83/s4/b/1], (2)(E), Aug. 6, 1991, [105 Stat. 404][/us/stat/105/404], 405; [Pub. L. 103–446, title XII, § 1201(b)(1)][/us/pl/103/446/s1201/b/1], Nov. 2, 1994, [108 Stat. 4682][/us/stat/108/4682]; [Pub. L. 105–368, title VIII, § 805(3)][/us/pl/105/368/s805/3], Nov. 11, 1998, [112 Stat. 3359][/us/stat/112/3359]; [Pub. L. 106–419, title IV, § 404(a)(10)][/us/pl/106/419/s404/a/10], Nov. 1, 2000, [114 Stat. 1865][/us/stat/114/1865].)
+(Added [Pub. L. 100–322, title II][/us/pl/100/322/tII], § 216(b), May 20, 1988, [102 Stat. 518][/us/stat/102/518], § 4303; renumbered § 7603 and amended [Pub. L. 102–40, title IV][/us/pl/102/40/tIV], § 402(b)(1), (d)(1), May 7, 1991, [105 Stat. 238][/us/stat/105/238], 239; [Pub. L. 102–83][/us/pl/102/83], § 4(b)(1), (2)(E), Aug. 6, 1991, [105 Stat. 404][/us/stat/105/404], 405; [Pub. L. 103–446, title XII][/us/pl/103/446/tXII], § 1201(b)(1), Nov. 2, 1994, [108 Stat. 4682][/us/stat/108/4682]; [Pub. L. 105–368, title VIII][/us/pl/105/368/tVIII], § 805(3), Nov. 11, 1998, [112 Stat. 3359][/us/stat/112/3359]; [Pub. L. 106–419, title IV][/us/pl/106/419/tIV], § 404(a)(10), Nov. 1, 2000, [114 Stat. 1865][/us/stat/114/1865].)
 
  __Amendments__ 
 
     2000—Subsec. (a)(1). [Pub. L. 106–419][/us/pl/106/419] substituted “subchapter” for “subsection”.
 
-    1998—Subsec. (a). [Pub. L. 105–368, § 805(3)(A)][/us/pl/105/368/s805/3/A], designated existing provisions as par. (1), substituted “To apply to participate in the Educational Assistance Program under subsection II, III, V, or VI of this chapter,” for “To apply to participate in the Educational Assistance Program,”, and added par. (2).
+    1998—Subsec. (a). [Pub. L. 105–368][/us/pl/105/368], § 805(3)(A), designated existing provisions as par. (1), substituted “To apply to participate in the Educational Assistance Program under subsection II, III, V, or VI of this chapter,” for “To apply to participate in the Educational Assistance Program,”, and added par. (2).
 
-    Subsec. (b)(1). [Pub. L. 105–368, § 805(3)(B)][/us/pl/105/368/s805/3/B], inserted “(if required)” before period at end.
+    Subsec. (b)(1). [Pub. L. 105–368][/us/pl/105/368], § 805(3)(B), inserted “(if required)” before period at end.
 
     1994—Subsecs. (a), (c)(1)(B). [Pub. L. 103–446][/us/pl/103/446] substituted “Veterans Health Administration” for “Department of Medicine and Surgery”.
 
-    1991—[Pub. L. 102–40, § 402(b)(1)][/us/pl/102/40/s402/b/1], renumbered [section 4303 of this title][/us/usc/t38/s4303] as this section.
+    1991—[Pub. L. 102–40][/us/pl/102/40], § 402(b)(1), renumbered [section 4303 of this title][/us/usc/t38/s4303] as this section.
 
     Subsec. (a). [Pub. L. 102–83][/us/pl/102/83] substituted “Secretary” for “Administrator”.
 
-    [Pub. L. 102–40, § 402(d)(1)][/us/pl/102/40/s402/d/1], substituted “7604” for “4304”.
+    [Pub. L. 102–40][/us/pl/102/40], § 402(d)(1), substituted “7604” for “4304”.
 
     Subsecs. (b) to (d). [Pub. L. 102–83][/us/pl/102/83] substituted “Secretary” for “Administrator” and “Secretary’s” for “Administrator’s” wherever appearing.
 
@@ -69,26 +69,26 @@
 ----------
 
 [/us/usc/t38/s7604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7604
-[/us/pl/100/322/s216/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F322%2Fs216%2Fb
+[/us/pl/100/322/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F322%2FtII
 [/us/stat/102/518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F518
-[/us/pl/102/40/s402/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs402%2Fb%2F1
+[/us/pl/102/40/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2FtIV
 [/us/stat/105/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F238
-[/us/pl/102/83/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fb%2F1
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F404
-[/us/pl/103/446/s1201/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2Fs1201%2Fb%2F1
+[/us/pl/103/446/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2FtXII
 [/us/stat/108/4682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4682
-[/us/pl/105/368/s805/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2Fs805%2F3
+[/us/pl/105/368/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2FtVIII
 [/us/stat/112/3359]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3359
-[/us/pl/106/419/s404/a/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419%2Fs404%2Fa%2F10
+[/us/pl/106/419/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419%2FtIV
 [/us/stat/114/1865]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1865
 [/us/pl/106/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419
-[/us/pl/105/368/s805/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2Fs805%2F3%2FA
-[/us/pl/105/368/s805/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2Fs805%2F3%2FB
+[/us/pl/105/368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368
+[/us/pl/105/368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368
 [/us/pl/103/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446
-[/us/pl/102/40/s402/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs402%2Fb%2F1
+[/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40
 [/us/usc/t38/s4303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs4303
 [/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
-[/us/pl/102/40/s402/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs402%2Fd%2F1
+[/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40
 [/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 
 

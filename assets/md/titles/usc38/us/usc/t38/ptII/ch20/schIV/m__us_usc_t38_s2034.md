@@ -57,15 +57,15 @@
 
         (4) attempt to inform homeless veterans whose needs the director cannot meet under paragraph (3) of the services available to such veterans within the area served by such center or office.
 
-(Added [Pub. L. 105–114, title II, § 202(a)][/us/pl/105/114/s202/a], Nov. 21, 1997, [111 Stat. 2286][/us/stat/111/2286], § 1774; renumbered § 2034 and amended [Pub. L. 107–95][/us/pl/107/95], §§ 5(b)(1), 6(b), Dec. 21, 2001, [115 Stat. 918][/us/stat/115/918], 919.)
+(Added [Pub. L. 105–114, title II][/us/pl/105/114/tII], § 202(a), Nov. 21, 1997, [111 Stat. 2286][/us/stat/111/2286], § 1774; renumbered § 2034 and amended [Pub. L. 107–95][/us/pl/107/95], §§ 5(b)(1), 6(b), Dec. 21, 2001, [115 Stat. 918][/us/stat/115/918], 919.)
 
  __Amendments__ 
 
-    2001—[Pub. L. 107–95, § 5(b)(1)][/us/pl/107/95/s5/b/1], renumbered [section 1774 of this title][/us/usc/t38/s1774] as this section.
+    2001—[Pub. L. 107–95][/us/pl/107/95], § 5(b)(1), renumbered [section 1774 of this title][/us/usc/t38/s1774] as this section.
 
-    Subsec. (b)(1). [Pub. L. 107–95, § 6(b)(1)][/us/pl/107/95/s6/b/1], inserted “annual” after “to make an”.
+    Subsec. (b)(1). [Pub. L. 107–95][/us/pl/107/95], § 6(b)(1), inserted “annual” after “to make an”.
 
-    Subsec. (b)(6). [Pub. L. 107–95, § 6(b)(2)][/us/pl/107/95/s6/b/2], added par. (6).
+    Subsec. (b)(6). [Pub. L. 107–95][/us/pl/107/95], § 6(b)(2), added par. (6).
 
 ----------
 
@@ -75,13 +75,13 @@
 ----------
 
 [/us/usc/t38/s2065]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs2065
-[/us/pl/105/114/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F114%2Fs202%2Fa
+[/us/pl/105/114/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F114%2FtII
 [/us/stat/111/2286]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2286
 [/us/pl/107/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F95
 [/us/stat/115/918]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F918
-[/us/pl/107/95/s5/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F95%2Fs5%2Fb%2F1
+[/us/pl/107/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F95
 [/us/usc/t38/s1774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1774
-[/us/pl/107/95/s6/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F95%2Fs6%2Fb%2F1
-[/us/pl/107/95/s6/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F95%2Fs6%2Fb%2F2
+[/us/pl/107/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F95
+[/us/pl/107/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F95
 
 

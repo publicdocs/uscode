@@ -53,35 +53,35 @@
 
         (4) The Assistant Secretary or Deputy Assistant Secretary of Veterans Affairs who performs personnel management and labor relations functions shall serve as the executive secretary of a commission established under this subsection.
 
-(Added and amended [Pub. L. 102–83][/us/pl/102/83], §§ 2(a), 4(a)(3), (4), Aug. 6, 1991, [105 Stat. 379][/us/stat/105/379], 404; [Pub. L. 102–405, title III, § 302(c)(1)][/us/pl/102/405/s302/c/1], Oct. 9, 1992, [106 Stat. 1984][/us/stat/106/1984]; [Pub. L. 103–446, title XII, § 1201(c)(1)][/us/pl/103/446/s1201/c/1], (e)(2), Nov. 2, 1994, [108 Stat. 4683][/us/stat/108/4683], 4685; [Pub. L. 108–422, title V, § 503][/us/pl/108/422/s503], Nov. 30, 2004, [118 Stat. 2396][/us/stat/118/2396]; [Pub. L. 109–461, title II, § 210(a)][/us/pl/109/461/s210/a], Dec. 22, 2006, [120 Stat. 3418][/us/stat/120/3418].)
+(Added and amended [Pub. L. 102–83][/us/pl/102/83], §§ 2(a), 4(a)(3), (4), Aug. 6, 1991, [105 Stat. 379][/us/stat/105/379], 404; [Pub. L. 102–405, title III][/us/pl/102/405/tIII], § 302(c)(1), Oct. 9, 1992, [106 Stat. 1984][/us/stat/106/1984]; [Pub. L. 103–446, title XII][/us/pl/103/446/tXII], § 1201(c)(1), (e)(2), Nov. 2, 1994, [108 Stat. 4683][/us/stat/108/4683], 4685; [Pub. L. 108–422, title V][/us/pl/108/422/tV], § 503, Nov. 30, 2004, [118 Stat. 2396][/us/stat/118/2396]; [Pub. L. 109–461, title II][/us/pl/109/461/tII], § 210(a), Dec. 22, 2006, [120 Stat. 3418][/us/stat/120/3418].)
 
  __Prior Provisions__ 
 
-    Provisions similar to those in this section were contained in [section 3(b) of Pub. L. 100–527][/us/pl/100/527/s3/b], known as the Department of Veterans Affairs Act, prior to repeal by [Pub. L. 102–83, § 3(3)][/us/pl/102/83/s3/3].
+    Provisions similar to those in this section were contained in [section 3(b) of Pub. L. 100–527][/us/pl/100/527/s3/b], known as the Department of Veterans Affairs Act, prior to repeal by [Pub. L. 102–83][/us/pl/102/83], § 3(3).
 
  __Amendments__ 
 
     2006—Subsecs. (c), (d). [Pub. L. 109–461][/us/pl/109/461] redesignated subsec. (d) as (c) and struck out former subsec. (c) which read as follows: “The Under Secretary for Health shall be appointed for a period of four years, with reappointment permissible for successive like periods. If the President removes the Under Secretary for Health before the completion of the term for which the Under Secretary for Health was appointed, the President shall communicate the reasons for the removal to Congress.”
 
-    2004—Subsec. (a)(2). [Pub. L. 108–422, § 503(1)][/us/pl/108/422/s503/1], struck out “shall be a doctor of medicine and” after “The Under Secretary for Health” in introductory provisions.
+    2004—Subsec. (a)(2). [Pub. L. 108–422][/us/pl/108/422], § 503(1), struck out “shall be a doctor of medicine and” after “The Under Secretary for Health” in introductory provisions.
 
-    Subsec. (a)(2)(A). [Pub. L. 108–422, § 503(2)][/us/pl/108/422/s503/2], substituted “or in health-care” for “and in health-care”.
+    Subsec. (a)(2)(A). [Pub. L. 108–422][/us/pl/108/422], § 503(2), substituted “or in health-care” for “and in health-care”.
 
-    1994—Subsec. (a)(1). [Pub. L. 103–446, § 1201(c)(1)(A)][/us/pl/103/446/s1201/c/1/A], substituted “an Under Secretary” for “a Under Secretary”.
+    1994—Subsec. (a)(1). [Pub. L. 103–446][/us/pl/103/446], § 1201(c)(1)(A), substituted “an Under Secretary” for “a Under Secretary”.
 
-    Subsec. (d)(2)(F). [Pub. L. 103–446, § 1201(c)(1)(B)][/us/pl/103/446/s1201/c/1/B], (e)(2), substituted “Chief Medical Director of the Veterans’ Administration)” for “Under Secretary for Health of the Department)” and “commission” for “Commission”.
+    Subsec. (d)(2)(F). [Pub. L. 103–446][/us/pl/103/446], § 1201(c)(1)(B), (e)(2), substituted “Chief Medical Director of the Veterans’ Administration)” for “Under Secretary for Health of the Department)” and “commission” for “Commission”.
 
     1992—[Pub. L. 102–405][/us/pl/102/405] substituted “Under Secretary for Health” for “Chief Medical Director” wherever appearing.
 
-    1991—Subsec. (d)(2)(F). [Pub. L. 102–83, § 4(a)(3)][/us/pl/102/83/s4/a/3], (4), substituted “Department” for “Veterans’ Administration”.
+    1991—Subsec. (d)(2)(F). [Pub. L. 102–83][/us/pl/102/83], § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration”.
 
  __Change of Name__ 
 
-[Pub. L. 102–405, title III, § 302(a)][/us/pl/102/405/s302/a], Oct. 9, 1992, [106 Stat. 1984][/us/stat/106/1984], provided that: 
+[Pub. L. 102–405, title III][/us/pl/102/405/tIII], § 302(a), Oct. 9, 1992, [106 Stat. 1984][/us/stat/106/1984], provided that: 
 
 > “The position of Chief Medical Director of the Department of Veterans Affairs is hereby redesignated as Under Secretary for Health of the Department of Veterans Affairs.”
 
-[Pub. L. 102–405, title III, § 302(e)][/us/pl/102/405/s302/e], Oct. 9, 1992, [106 Stat. 1985][/us/stat/106/1985], provided that: 
+[Pub. L. 102–405, title III][/us/pl/102/405/tIII], § 302(e), Oct. 9, 1992, [106 Stat. 1985][/us/stat/106/1985], provided that: 
 
 > “Any reference in any Federal law, Executive order, rule, regulation, or delegation of authority, or any document of or pertaining to the Department of Veterans Affairs—
 
@@ -99,26 +99,26 @@
 [/us/usc/t38/s7312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7312
 [/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F379
-[/us/pl/102/405/s302/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405%2Fs302%2Fc%2F1
+[/us/pl/102/405/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405%2FtIII
 [/us/stat/106/1984]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1984
-[/us/pl/103/446/s1201/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2Fs1201%2Fc%2F1
+[/us/pl/103/446/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2FtXII
 [/us/stat/108/4683]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4683
-[/us/pl/108/422/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F422%2Fs503
+[/us/pl/108/422/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F422%2FtV
 [/us/stat/118/2396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2396
-[/us/pl/109/461/s210/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461%2Fs210%2Fa
+[/us/pl/109/461/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461%2FtII
 [/us/stat/120/3418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3418
 [/us/pl/100/527/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F527%2Fs3%2Fb
-[/us/pl/102/83/s3/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs3%2F3
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/pl/109/461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461
-[/us/pl/108/422/s503/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F422%2Fs503%2F1
-[/us/pl/108/422/s503/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F422%2Fs503%2F2
-[/us/pl/103/446/s1201/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2Fs1201%2Fc%2F1%2FA
-[/us/pl/103/446/s1201/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2Fs1201%2Fc%2F1%2FB
+[/us/pl/108/422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F422
+[/us/pl/108/422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F422
+[/us/pl/103/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446
+[/us/pl/103/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446
 [/us/pl/102/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405
-[/us/pl/102/83/s4/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fa%2F3
-[/us/pl/102/405/s302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405%2Fs302%2Fa
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/405/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405%2FtIII
 [/us/stat/106/1984]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1984
-[/us/pl/102/405/s302/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405%2Fs302%2Fe
+[/us/pl/102/405/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405%2FtIII
 [/us/stat/106/1985]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1985
 
 

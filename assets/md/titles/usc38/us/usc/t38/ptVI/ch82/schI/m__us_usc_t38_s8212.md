@@ -19,13 +19,13 @@
 
     (b) Sums appropriated pursuant to subsection (a) of this section shall remain available until the end of the sixth fiscal year following the fiscal year for which they are appropriated.
 
-(Added [Pub. L. 92–541, § 2(a)][/us/pl/92/541/s2/a], Oct. 24, 1972, [86 Stat. 1102][/us/stat/86/1102], § 5072; renumbered § 8212 and amended [Pub. L. 102–40, title IV, § 402(b)(2)(B)][/us/pl/102/40/s402/b/2/B], (d)(1), May 7, 1991, [105 Stat. 239][/us/stat/105/239].)
+(Added [Pub. L. 92–541][/us/pl/92/541], § 2(a), Oct. 24, 1972, [86 Stat. 1102][/us/stat/86/1102], § 5072; renumbered § 8212 and amended [Pub. L. 102–40, title IV][/us/pl/102/40/tIV], § 402(b)(2)(B), (d)(1), May 7, 1991, [105 Stat. 239][/us/stat/105/239].)
 
  __Amendments__ 
 
-    1991—[Pub. L. 102–40, § 402(b)(2)(B)][/us/pl/102/40/s402/b/2/B], renumbered [section 5072 of this title][/us/usc/t38/s5072] as this section.
+    1991—[Pub. L. 102–40][/us/pl/102/40], § 402(b)(2)(B), renumbered [section 5072 of this title][/us/usc/t38/s5072] as this section.
 
-    Subsec. (a). [Pub. L. 102–40, § 402(d)(1)][/us/pl/102/40/s402/d/1], substituted “8213” for “5073”.
+    Subsec. (a). [Pub. L. 102–40][/us/pl/102/40], § 402(d)(1), substituted “8213” for “5073”.
 
 ----------
 
@@ -35,12 +35,12 @@
 ----------
 
 [/us/usc/t38/s8213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs8213
-[/us/pl/92/541/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F541%2Fs2%2Fa
+[/us/pl/92/541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F541
 [/us/stat/86/1102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1102
-[/us/pl/102/40/s402/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs402%2Fb%2F2%2FB
+[/us/pl/102/40/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2FtIV
 [/us/stat/105/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F239
-[/us/pl/102/40/s402/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs402%2Fb%2F2%2FB
+[/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40
 [/us/usc/t38/s5072]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs5072
-[/us/pl/102/40/s402/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs402%2Fd%2F1
+[/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40
 
 

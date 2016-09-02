@@ -25,7 +25,7 @@
 
     (4) The term “cost of construction” means the amount found by the Secretary to be necessary for a construction project, including architect fees, but excluding land acquisition costs.
 
-(Added [Pub. L. 88–450, § 4(a)][/us/pl/88/450/s4/a], Aug. 19, 1964, [78 Stat. 501][/us/stat/78/501], § 5031; amended [Pub. L. 94–581, title II, § 206(b)][/us/pl/94/581/s206/b], Oct. 21, 1976, [90 Stat. 2859][/us/stat/90/2859]; [Pub. L. 95–62, § 3(1)][/us/pl/95/62/s3/1], (2), July 5, 1977, [91 Stat. 262][/us/stat/91/262]; [Pub. L. 99–576, title II, § 224(d)][/us/pl/99/576/s224/d], Oct. 28, 1986, [100 Stat. 3263][/us/stat/100/3263]; renumbered § 8131, [Pub. L. 102–40, title IV, § 402(b)(1)][/us/pl/102/40/s402/b/1], May 7, 1991, [105 Stat. 238][/us/stat/105/238]; [Pub. L. 102–83, § 4(b)(1)][/us/pl/102/83/s4/b/1], (2)(E), Aug. 6, 1991, [105 Stat. 404][/us/stat/105/404], 405; [Pub. L. 104–262, title III, § 342(b)(1)][/us/pl/104/262/s342/b/1], Oct. 9, 1996, [110 Stat. 3206][/us/stat/110/3206].)
+(Added [Pub. L. 88–450][/us/pl/88/450], § 4(a), Aug. 19, 1964, [78 Stat. 501][/us/stat/78/501], § 5031; amended [Pub. L. 94–581, title II][/us/pl/94/581/tII], § 206(b), Oct. 21, 1976, [90 Stat. 2859][/us/stat/90/2859]; [Pub. L. 95–62][/us/pl/95/62], § 3(1), (2), July 5, 1977, [91 Stat. 262][/us/stat/91/262]; [Pub. L. 99–576, title II][/us/pl/99/576/tII], § 224(d), Oct. 28, 1986, [100 Stat. 3263][/us/stat/100/3263]; renumbered § 8131, [Pub. L. 102–40, title IV][/us/pl/102/40/tIV], § 402(b)(1), May 7, 1991, [105 Stat. 238][/us/stat/105/238]; [Pub. L. 102–83][/us/pl/102/83], § 4(b)(1), (2)(E), Aug. 6, 1991, [105 Stat. 404][/us/stat/105/404], 405; [Pub. L. 104–262, title III][/us/pl/104/262/tIII], § 342(b)(1), Oct. 9, 1996, [110 Stat. 3206][/us/stat/110/3206].)
 
  __Amendments__ 
 
@@ -37,21 +37,21 @@
 
     1986—[Pub. L. 99–576][/us/pl/99/576] redesignated pars. (a) to (d) as pars. (1) to (4), respectively.
 
-    1977—Par. (c). [Pub. L. 95–62, § 3(1)][/us/pl/95/62/s3/1], inserted construction of new domiciliary buildings, expansion, remodeling, or alteration of existing domiciliary and hospital buildings, and provision of initial equipment for any such buildings to definition of “construction”.
+    1977—Par. (c). [Pub. L. 95–62][/us/pl/95/62], § 3(1), inserted construction of new domiciliary buildings, expansion, remodeling, or alteration of existing domiciliary and hospital buildings, and provision of initial equipment for any such buildings to definition of “construction”.
 
-    Par. (d). [Pub. L. 95–62, § 3(2)][/us/pl/95/62/s3/2], struck out provisions which had limited definition of “cost of construction” to the cost of construction of nursing home facilities.
+    Par. (d). [Pub. L. 95–62][/us/pl/95/62], § 3(2), struck out provisions which had limited definition of “cost of construction” to the cost of construction of nursing home facilities.
 
     1976—Par. (a). [Pub. L. 94–581][/us/pl/94/581] substituted “veteran” for “war veteran”.
 
  __Effective Date of 1986 Amendment__ 
 
-[Pub. L. 99–576, title II, § 224(e)][/us/pl/99/576/s224/e], Oct. 28, 1986, [100 Stat. 3263][/us/stat/100/3263], provided that: 
+[Pub. L. 99–576, title II][/us/pl/99/576/tII], § 224(e), Oct. 28, 1986, [100 Stat. 3263][/us/stat/100/3263], provided that: 
 
 > “The amendments made by this section \[amending this section and sections 5033 and 5035 \[now 8133 and 8135\] of this title\] shall take effect on July 1, 1987.”
 
  __Effective Date of 1977 Amendment__ 
 
-[Pub. L. 95–62, § 5][/us/pl/95/62/s5], July 5, 1977, [91 Stat. 263][/us/stat/91/263], provided that:
+[Pub. L. 95–62][/us/pl/95/62], § 5, July 5, 1977, [91 Stat. 263][/us/stat/91/263], provided that:
 
 >     “(a) Except as provided in subsection (b) of this section, the amendments made by this Act \[amending this section and sections 5032 to 5036 \[now 8132 to 8136\] of this title and repealing [section 644 of this title][/us/usc/t38/s644]\] shall be effective October 1, 1977.
 
@@ -76,31 +76,31 @@
 ----------
 ----------
 
-[/us/pl/88/450/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F450%2Fs4%2Fa
+[/us/pl/88/450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F450
 [/us/stat/78/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F501
-[/us/pl/94/581/s206/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F581%2Fs206%2Fb
+[/us/pl/94/581/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F581%2FtII
 [/us/stat/90/2859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2859
-[/us/pl/95/62/s3/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F62%2Fs3%2F1
+[/us/pl/95/62]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F62
 [/us/stat/91/262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F262
-[/us/pl/99/576/s224/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2Fs224%2Fd
+[/us/pl/99/576/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2FtII
 [/us/stat/100/3263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3263
-[/us/pl/102/40/s402/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs402%2Fb%2F1
+[/us/pl/102/40/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2FtIV
 [/us/stat/105/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F238
-[/us/pl/102/83/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fb%2F1
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F404
-[/us/pl/104/262/s342/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F262%2Fs342%2Fb%2F1
+[/us/pl/104/262/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F262%2FtIII
 [/us/stat/110/3206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3206
 [/us/pl/104/262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F262
 [/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40
 [/us/usc/t38/s5031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs5031
 [/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/pl/99/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576
-[/us/pl/95/62/s3/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F62%2Fs3%2F1
-[/us/pl/95/62/s3/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F62%2Fs3%2F2
+[/us/pl/95/62]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F62
+[/us/pl/95/62]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F62
 [/us/pl/94/581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F581
-[/us/pl/99/576/s224/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2Fs224%2Fe
+[/us/pl/99/576/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2FtII
 [/us/stat/100/3263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3263
-[/us/pl/95/62/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F62%2Fs5
+[/us/pl/95/62]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F62
 [/us/stat/91/263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F263
 [/us/usc/t38/s644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs644
 [/us/usc/t38/s644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs644

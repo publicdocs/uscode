@@ -33,7 +33,7 @@
 
         (2) Whenever such rates and income limitations are so increased, the Secretary may round such rates and income limitations in such manner as the Secretary considers equitable and appropriate for ease of administration.
 
-(Added [Pub. L. 95–588, title III, § 305(a)][/us/pl/95/588/s305/a], Nov. 4, 1978, [92 Stat. 2507][/us/stat/92/2507], § 3112; amended [Pub. L. 97–295, § 4(76)][/us/pl/97/295/s4/76], Oct. 12, 1982, [96 Stat. 1311][/us/stat/96/1311]; renumbered § 5312, [Pub. L. 102–40, title IV, § 402(b)(1)][/us/pl/102/40/s402/b/1], May 7, 1991, [105 Stat. 238][/us/stat/105/238]; [Pub. L. 102–83][/us/pl/102/83], §§ 4(b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, [105 Stat. 404–406][/us/stat/105/404-406]; [Pub. L. 104–204, title IV, § 421(c)][/us/pl/104/204/s421/c], Sept. 26, 1996, [110 Stat. 2926][/us/stat/110/2926]; [Pub. L. 108–454, title V, § 506][/us/pl/108/454/s506], Dec. 10, 2004, [118 Stat. 3622][/us/stat/118/3622].)
+(Added [Pub. L. 95–588, title III][/us/pl/95/588/tIII], § 305(a), Nov. 4, 1978, [92 Stat. 2507][/us/stat/92/2507], § 3112; amended [Pub. L. 97–295][/us/pl/97/295], § 4(76), Oct. 12, 1982, [96 Stat. 1311][/us/stat/96/1311]; renumbered § 5312, [Pub. L. 102–40, title IV][/us/pl/102/40/tIV], § 402(b)(1), May 7, 1991, [105 Stat. 238][/us/stat/105/238]; [Pub. L. 102–83][/us/pl/102/83], §§ 4(b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, [105 Stat. 404–406][/us/stat/105/404-406]; [Pub. L. 104–204, title IV][/us/pl/104/204/tIV], § 421(c), Sept. 26, 1996, [110 Stat. 2926][/us/stat/110/2926]; [Pub. L. 108–454, title V][/us/pl/108/454/tV], § 506, Dec. 10, 2004, [118 Stat. 3622][/us/stat/118/3622].)
 
  __References in Text__ 
 
@@ -43,37 +43,37 @@
 
     2004—Subsec. (b)(1). [Pub. L. 108–454][/us/pl/108/454] inserted “and the annual benefit amount limitations under sections 5507(c)(2)(D) and 5508 of this title,” after “(d)(3) of such section,”.
 
-    1996—Subsec. (a). [Pub. L. 104–204, § 421(c)(1)][/us/pl/104/204/s421/c/1], substituted “, the rate of increased pension” for “and the rate of increased pension” and inserted “and each rate of monthly allowance paid under [section 1805 of this title][/us/usc/t38/s1805],” after “on account of children,”.
+    1996—Subsec. (a). [Pub. L. 104–204][/us/pl/104/204], § 421(c)(1), substituted “, the rate of increased pension” for “and the rate of increased pension” and inserted “and each rate of monthly allowance paid under [section 1805 of this title][/us/usc/t38/s1805],” after “on account of children,”.
 
-    Subsec. (c)(1). [Pub. L. 104–204, § 421(c)(2)][/us/pl/104/204/s421/c/2], substituted “1542, and 1805” for “and 1542”.
+    Subsec. (c)(1). [Pub. L. 104–204][/us/pl/104/204], § 421(c)(2), substituted “1542, and 1805” for “and 1542”.
 
     1991—[Pub. L. 102–40][/us/pl/102/40] renumbered [section 3112 of this title][/us/usc/t38/s3112] as this section.
 
-    Subsec. (a). [Pub. L. 102–83, § 5(c)(1)][/us/pl/102/83/s5/c/1], substituted “1521”, “1541”, and “1542” for “521”, “541”, and 542”, respectively, wherever appearing.
+    Subsec. (a). [Pub. L. 102–83][/us/pl/102/83], § 5(c)(1), substituted “1521”, “1541”, and “1542” for “521”, “541”, and 542”, respectively, wherever appearing.
 
-    [Pub. L. 102–83, § 4(b)(1)][/us/pl/102/83/s4/b/1], (2)(E), substituted “Secretary” for “Administrator”.
+    [Pub. L. 102–83][/us/pl/102/83], § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
-    Subsec. (b)(1), (2)(A). [Pub. L. 102–83, § 5(c)(1)][/us/pl/102/83/s5/c/1], substituted “1315” for “415”.
+    Subsec. (b)(1), (2)(A). [Pub. L. 102–83][/us/pl/102/83], § 5(c)(1), substituted “1315” for “415”.
 
-    [Pub. L. 102–83, § 4(b)(1)][/us/pl/102/83/s4/b/1], (2)(E), substituted “Secretary” for “Administrator”.
+    [Pub. L. 102–83][/us/pl/102/83], § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
-    Subsec. (b)(2)(B). [Pub. L. 102–83, § 4(b)(1)][/us/pl/102/83/s4/b/1], (2)(E), substituted “Secretary” for “Administrator” in two places.
+    Subsec. (b)(2)(B). [Pub. L. 102–83][/us/pl/102/83], § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in two places.
 
-    Subsec. (c)(1). [Pub. L. 102–83, § 5(c)(1)][/us/pl/102/83/s5/c/1], substituted “1521”, “1541”, and “1542” for “521”, “541”, and “542”, respectively, and “1315” for “415”.
+    Subsec. (c)(1). [Pub. L. 102–83][/us/pl/102/83], § 5(c)(1), substituted “1521”, “1541”, and “1542” for “521”, “541”, and “542”, respectively, and “1315” for “415”.
 
-    [Pub. L. 102–83, § 4(b)(1)][/us/pl/102/83/s4/b/1], (2)(E), substituted “Secretary” for “Administrator” in two places.
+    [Pub. L. 102–83][/us/pl/102/83], § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in two places.
 
-    Subsec. (c)(2). [Pub. L. 102–83, § 4(b)(1)][/us/pl/102/83/s4/b/1], (2)(E), substituted “Secretary” for “Administrator” in two places.
+    Subsec. (c)(2). [Pub. L. 102–83][/us/pl/102/83], § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in two places.
 
-    1982—Subsec. (a). [Pub. L. 97–295, § 4(76)(A)][/us/pl/97/295/s4/76/A], (B), inserted “([42 U.S.C. 401][/us/usc/t42/s401] et seq.)” after first reference to “title II of the Social Security Act”, and inserted “([42 U.S.C. 415(i)][/us/usc/t42/s415/i])” after “section 215(i) of such Act”.
+    1982—Subsec. (a). [Pub. L. 97–295][/us/pl/97/295], § 4(76)(A), (B), inserted “([42 U.S.C. 401][/us/usc/t42/s401] et seq.)” after first reference to “title II of the Social Security Act”, and inserted “([42 U.S.C. 415(i)][/us/usc/t42/s415/i])” after “section 215(i) of such Act”.
 
-    Subsec. (b)(1). [Pub. L. 97–295, § 4(76)(A)][/us/pl/97/295/s4/76/A]–(C), inserted “([42 U.S.C. 401][/us/usc/t42/s401] et seq.)” after first reference to “title II of the Social Security Act”, inserted “([42 U.S.C. 415(i)][/us/usc/t42/s415/i])” after “section 215(i) of such Act”, and substituted “subsection (g), of [section 415 of this title][/us/usc/t38/s415]” for “subsection (h), of section 415 of such title”.
+    Subsec. (b)(1). [Pub. L. 97–295][/us/pl/97/295], § 4(76)(A)–(C), inserted “([42 U.S.C. 401][/us/usc/t42/s401] et seq.)” after first reference to “title II of the Social Security Act”, inserted “([42 U.S.C. 415(i)][/us/usc/t42/s415/i])” after “section 215(i) of such Act”, and substituted “subsection (g), of [section 415 of this title][/us/usc/t38/s415]” for “subsection (h), of section 415 of such title”.
 
-    Subsec. (c)(1). [Pub. L. 97–295, § 4(76)(B)][/us/pl/97/295/s4/76/B], (D), inserted “([42 U.S.C. 415(i)(2)(D)][/us/usc/t42/s415/i/2/D])” after “section 215(i)(2)(D) of the Social Security Act”, and inserted “([42 U.S.C. 415(i)][/us/usc/t42/s415/i])” after “section 215(i) of such Act”.
+    Subsec. (c)(1). [Pub. L. 97–295][/us/pl/97/295], § 4(76)(B), (D), inserted “([42 U.S.C. 415(i)(2)(D)][/us/usc/t42/s415/i/2/D])” after “section 215(i)(2)(D) of the Social Security Act”, and inserted “([42 U.S.C. 415(i)][/us/usc/t42/s415/i])” after “section 215(i) of such Act”.
 
  __Effective Date of 2004 Amendment__ 
 
-[Pub. L. 108–454, title V, § 507][/us/pl/108/454/s507], Dec. 10, 2004, [118 Stat. 3622][/us/stat/118/3622], provided that:
+[Pub. L. 108–454, title V][/us/pl/108/454/tV], § 507, Dec. 10, 2004, [118 Stat. 3622][/us/stat/118/3622], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -112,46 +112,46 @@
 [/us/usc/t38/s1315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1315
 [/us/usc/t42/s415/i/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs415%2Fi%2F2%2FD
 [/us/usc/t42/s415/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs415%2Fi
-[/us/pl/95/588/s305/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F588%2Fs305%2Fa
+[/us/pl/95/588/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F588%2FtIII
 [/us/stat/92/2507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2507
-[/us/pl/97/295/s4/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295%2Fs4%2F76
+[/us/pl/97/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295
 [/us/stat/96/1311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1311
-[/us/pl/102/40/s402/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs402%2Fb%2F1
+[/us/pl/102/40/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2FtIV
 [/us/stat/105/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F238
 [/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/404-406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F404-406
-[/us/pl/104/204/s421/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F204%2Fs421%2Fc
+[/us/pl/104/204/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F204%2FtIV
 [/us/stat/110/2926]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2926
-[/us/pl/108/454/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F454%2Fs506
+[/us/pl/108/454/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F454%2FtV
 [/us/stat/118/3622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3622
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
 [/us/usc/t42/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1305
 [/us/pl/108/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F454
-[/us/pl/104/204/s421/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F204%2Fs421%2Fc%2F1
+[/us/pl/104/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F204
 [/us/usc/t38/s1805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1805
-[/us/pl/104/204/s421/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F204%2Fs421%2Fc%2F2
+[/us/pl/104/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F204
 [/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40
 [/us/usc/t38/s3112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3112
-[/us/pl/102/83/s5/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fc%2F1
-[/us/pl/102/83/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fb%2F1
-[/us/pl/102/83/s5/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fc%2F1
-[/us/pl/102/83/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fb%2F1
-[/us/pl/102/83/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fb%2F1
-[/us/pl/102/83/s5/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fc%2F1
-[/us/pl/102/83/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fb%2F1
-[/us/pl/102/83/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fb%2F1
-[/us/pl/97/295/s4/76/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295%2Fs4%2F76%2FA
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/97/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295
 [/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
 [/us/usc/t42/s415/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs415%2Fi
-[/us/pl/97/295/s4/76/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295%2Fs4%2F76%2FA
+[/us/pl/97/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295
 [/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
 [/us/usc/t42/s415/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs415%2Fi
 [/us/usc/t38/s415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs415
-[/us/pl/97/295/s4/76/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295%2Fs4%2F76%2FB
+[/us/pl/97/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295
 [/us/usc/t42/s415/i/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs415%2Fi%2F2%2FD
 [/us/usc/t42/s415/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs415%2Fi
-[/us/pl/108/454/s507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F454%2Fs507
+[/us/pl/108/454/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F454%2FtV
 [/us/stat/118/3622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3622
 [/us/usc/t38/s5510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs5510
 [/us/pl/104/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F204

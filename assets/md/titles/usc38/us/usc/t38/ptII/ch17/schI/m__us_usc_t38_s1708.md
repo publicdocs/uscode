@@ -51,7 +51,7 @@
 
         (5) establishing any other limitations, conditions, and priorities that the Secretary considers appropriate with respect to lodging under this section.
 
-(Added [Pub. L. 106–419, title II, § 221(a)][/us/pl/106/419/s221/a], Nov. 1, 2000, [114 Stat. 1844][/us/stat/114/1844]; amended [Pub. L. 110–387, title IX, § 901(a)(8)][/us/pl/110/387/s901/a/8], Oct. 10, 2008, [122 Stat. 4142][/us/stat/122/4142].)
+(Added [Pub. L. 106–419, title II][/us/pl/106/419/tII], § 221(a), Nov. 1, 2000, [114 Stat. 1844][/us/stat/114/1844]; amended [Pub. L. 110–387, title IX][/us/pl/110/387/tIX], § 901(a)(8), Oct. 10, 2008, [122 Stat. 4142][/us/stat/122/4142].)
 
  __Amendments__ 
 
@@ -64,9 +64,9 @@
 ----------
 ----------
 
-[/us/pl/106/419/s221/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419%2Fs221%2Fa
+[/us/pl/106/419/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419%2FtII
 [/us/stat/114/1844]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1844
-[/us/pl/110/387/s901/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F387%2Fs901%2Fa%2F8
+[/us/pl/110/387/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F387%2FtIX
 [/us/stat/122/4142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4142
 [/us/pl/110/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F387
 

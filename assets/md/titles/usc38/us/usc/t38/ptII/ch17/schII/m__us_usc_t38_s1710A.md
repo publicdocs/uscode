@@ -27,7 +27,7 @@
 
     (d) The provisions of subsection (a) shall terminate on December 31, 2016.
 
-(Added [Pub. L. 106–117, title I, § 101(a)(1)][/us/pl/106/117/s101/a/1], Nov. 30, 1999, [113 Stat. 1547][/us/stat/113/1547]; amended [Pub. L. 106–419, title II, § 224(a)][/us/pl/106/419/s224/a], Nov. 1, 2000, [114 Stat. 1846][/us/stat/114/1846]; [Pub. L. 108–170, title I, § 106(b)][/us/pl/108/170/s106/b], Dec. 6, 2003, [117 Stat. 2046][/us/stat/117/2046]; [Pub. L. 110–181, div. A, title XVII, § 1706(b)][/us/pl/110/181/s1706/b], Jan. 28, 2008, [122 Stat. 493][/us/stat/122/493]; [Pub. L. 110–387, title VIII, § 805][/us/pl/110/387/s805], Oct. 10, 2008, [122 Stat. 4141][/us/stat/122/4141]; [Pub. L. 113–59, § 8][/us/pl/113/59/s8], Dec. 20, 2013, [127 Stat. 662][/us/stat/127/662]; [Pub. L. 113–175, title I, § 101][/us/pl/113/175/s101], Sept. 26, 2014, [128 Stat. 1902][/us/stat/128/1902]; [Pub. L. 114–58, title I, § 102][/us/pl/114/58/s102], Sept. 30, 2015, [129 Stat. 532][/us/stat/129/532].)
+(Added [Pub. L. 106–117, title I][/us/pl/106/117/tI], § 101(a)(1), Nov. 30, 1999, [113 Stat. 1547][/us/stat/113/1547]; amended [Pub. L. 106–419, title II][/us/pl/106/419/tII], § 224(a), Nov. 1, 2000, [114 Stat. 1846][/us/stat/114/1846]; [Pub. L. 108–170, title I][/us/pl/108/170/tI], § 106(b), Dec. 6, 2003, [117 Stat. 2046][/us/stat/117/2046]; [Pub. L. 110–181, div. A, title XVII][/us/pl/110/181/dA/tXVII], § 1706(b), Jan. 28, 2008, [122 Stat. 493][/us/stat/122/493]; [Pub. L. 110–387, title VIII][/us/pl/110/387/tVIII], § 805, Oct. 10, 2008, [122 Stat. 4141][/us/stat/122/4141]; [Pub. L. 113–59][/us/pl/113/59], § 8, Dec. 20, 2013, [127 Stat. 662][/us/stat/127/662]; [Pub. L. 113–175, title I][/us/pl/113/175/tI], § 101, Sept. 26, 2014, [128 Stat. 1902][/us/stat/128/1902]; [Pub. L. 114–58, title I][/us/pl/114/58/tI], § 102, Sept. 30, 2015, [129 Stat. 532][/us/stat/129/532].)
 
  __References in Text__ 
 
@@ -53,13 +53,13 @@
 
  __Finding Related to Age-Appropriate Nursing Home Care__ 
 
-[Pub. L. 110–181, div. A, title XVII, § 1706(a)][/us/pl/110/181/s1706/a], Jan. 28, 2008, [122 Stat. 493][/us/stat/122/493], provided that: 
+[Pub. L. 110–181, div. A, title XVII][/us/pl/110/181/dA/tXVII], § 1706(a), Jan. 28, 2008, [122 Stat. 493][/us/stat/122/493], provided that: 
 
 > “Congress finds that young veterans who are injured or disabled through military service and require long-term care should have access to age-appropriate nursing home care.”
 
  __Report to Congressional Committees__ 
 
-    [Pub. L. 106–117, title I, § 101(i)][/us/pl/106/117/s101/i], Nov. 30, 1999, [113 Stat. 1550][/us/stat/113/1550], required the Secretary of Veterans Affairs to submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report on the operation of [section 101 of Pub. L. 106–117][/us/pl/106/117/s101] not later than January 1, 2003.
+    [Pub. L. 106–117, title I][/us/pl/106/117/tI], § 101(i), Nov. 30, 1999, [113 Stat. 1550][/us/stat/113/1550], required the Secretary of Veterans Affairs to submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report on the operation of [section 101 of Pub. L. 106–117][/us/pl/106/117/s101] not later than January 1, 2003.
 
 ----------
 
@@ -69,21 +69,21 @@
 ----------
 
 [/us/usc/t38/s1710/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1710%2Fa%2F4
-[/us/pl/106/117/s101/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117%2Fs101%2Fa%2F1
+[/us/pl/106/117/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117%2FtI
 [/us/stat/113/1547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1547
-[/us/pl/106/419/s224/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419%2Fs224%2Fa
+[/us/pl/106/419/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419%2FtII
 [/us/stat/114/1846]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1846
-[/us/pl/108/170/s106/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F170%2Fs106%2Fb
+[/us/pl/108/170/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F170%2FtI
 [/us/stat/117/2046]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2046
-[/us/pl/110/181/s1706/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1706%2Fb
+[/us/pl/110/181/dA/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtXVII
 [/us/stat/122/493]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F493
-[/us/pl/110/387/s805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F387%2Fs805
+[/us/pl/110/387/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F387%2FtVIII
 [/us/stat/122/4141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4141
-[/us/pl/113/59/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F59%2Fs8
+[/us/pl/113/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F59
 [/us/stat/127/662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F662
-[/us/pl/113/175/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F175%2Fs101
+[/us/pl/113/175/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F175%2FtI
 [/us/stat/128/1902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1902
-[/us/pl/114/58/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F58%2Fs102
+[/us/pl/114/58/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F58%2FtI
 [/us/stat/129/532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F532
 [/us/pl/106/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117
 [/us/pl/114/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F58
@@ -95,9 +95,9 @@
 [/us/pl/108/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F170
 [/us/pl/106/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419
 [/us/usc/t38/s1710/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1710%2Fa%2F4
-[/us/pl/110/181/s1706/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1706%2Fa
+[/us/pl/110/181/dA/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtXVII
 [/us/stat/122/493]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F493
-[/us/pl/106/117/s101/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117%2Fs101%2Fi
+[/us/pl/106/117/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117%2FtI
 [/us/stat/113/1550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1550
 [/us/pl/106/117/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117%2Fs101
 

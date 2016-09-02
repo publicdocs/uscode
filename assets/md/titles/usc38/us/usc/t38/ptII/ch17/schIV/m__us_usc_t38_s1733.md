@@ -17,13 +17,13 @@
 
     The President, or any officer of the United States to whom the President may delegate authority under this section, may from time to time prescribe such rules and regulations and impose such conditions on the receipt of financial aid as may be necessary to carry out this subchapter.
 
-([Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1146][/us/stat/72/1146], § 633; [Pub. L. 94–581, title II, § 210(a)(15)][/us/pl/94/581/s210/a/15], Oct. 21, 1976, [90 Stat. 2863][/us/stat/90/2863]; renumbered § 1733, [Pub. L. 102–83, § 5(a)][/us/pl/102/83/s5/a], Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406].)
+([Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1146][/us/stat/72/1146], § 633; [Pub. L. 94–581, title II][/us/pl/94/581/tII], § 210(a)(15), Oct. 21, 1976, [90 Stat. 2863][/us/stat/90/2863]; renumbered § 1733, [Pub. L. 102–83][/us/pl/102/83], § 5(a), Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406].)
 
  __Prior Provisions__ 
 
     Prior section 1733 was renumbered [section 3533 of this title][/us/usc/t38/s3533].
 
-    Another prior section 1733, [Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1198][/us/stat/72/1198], as amended by [Pub. L. 91–219, title II, § 206(b)][/us/pl/91/219/s206/b], Mar. 26, 1970, [84 Stat. 82][/us/stat/84/82]; [Pub. L. 91–584, § 12][/us/pl/91/584/s12], Dec. 24, 1970, [84 Stat. 1577][/us/stat/84/1577], related to measurement of courses, prior to the general amendment of this section by [Pub. L. 92–540, title III, § 313][/us/pl/92/540/s313], Oct. 24, 1972, [86 Stat. 1084][/us/stat/86/1084]. See [section 3688 of this title][/us/usc/t38/s3688].
+    Another prior section 1733, [Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1198][/us/stat/72/1198], as amended by [Pub. L. 91–219, title II][/us/pl/91/219/tII], § 206(b), Mar. 26, 1970, [84 Stat. 82][/us/stat/84/82]; [Pub. L. 91–584][/us/pl/91/584], § 12, Dec. 24, 1970, [84 Stat. 1577][/us/stat/84/1577], related to measurement of courses, prior to the general amendment of this section by [Pub. L. 92–540, title III][/us/pl/92/540/tIII], § 313, Oct. 24, 1972, [86 Stat. 1084][/us/stat/86/1084]. See [section 3688 of this title][/us/usc/t38/s3688].
 
  __Amendments__ 
 
@@ -60,18 +60,18 @@
 
 [/us/pl/85/857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F857
 [/us/stat/72/1146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1146
-[/us/pl/94/581/s210/a/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F581%2Fs210%2Fa%2F15
+[/us/pl/94/581/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F581%2FtII
 [/us/stat/90/2863]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2863
-[/us/pl/102/83/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fa
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F406
 [/us/usc/t38/s3533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3533
 [/us/pl/85/857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F857
 [/us/stat/72/1198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1198
-[/us/pl/91/219/s206/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F219%2Fs206%2Fb
+[/us/pl/91/219/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F219%2FtII
 [/us/stat/84/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F82
-[/us/pl/91/584/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F584%2Fs12
+[/us/pl/91/584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F584
 [/us/stat/84/1577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1577
-[/us/pl/92/540/s313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F540%2Fs313
+[/us/pl/92/540/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F540%2FtIII
 [/us/stat/86/1084]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1084
 [/us/usc/t38/s3688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3688
 [/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83

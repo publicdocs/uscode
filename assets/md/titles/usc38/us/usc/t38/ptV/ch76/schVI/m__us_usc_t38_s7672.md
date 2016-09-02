@@ -47,7 +47,7 @@
 
         (3) In the case of a participant who is a part-time student, the period of obligated service shall be reduced in accordance with the proportion that the number of credit hours carried by such participant in any such school year bears to the number of credit hours required to be carried by a full-time student in the course of training being pursued by the participant, but in no event to less than 1 year.
 
-(Added [Pub. L. 105–368, title VIII, § 802(a)][/us/pl/105/368/s802/a], Nov. 11, 1998, [112 Stat. 3352][/us/stat/112/3352]; amended [Pub. L. 107–14, § 8(a)(16)][/us/pl/107/14/s8/a/16], June 5, 2001, [115 Stat. 35][/us/stat/115/35]; [Pub. L. 107–135, title I, § 101(b)][/us/pl/107/135/s101/b], Jan. 23, 2002, [115 Stat. 2447][/us/stat/115/2447].)
+(Added [Pub. L. 105–368, title VIII][/us/pl/105/368/tVIII], § 802(a), Nov. 11, 1998, [112 Stat. 3352][/us/stat/112/3352]; amended [Pub. L. 107–14][/us/pl/107/14], § 8(a)(16), June 5, 2001, [115 Stat. 35][/us/stat/115/35]; [Pub. L. 107–135, title I][/us/pl/107/135/tI], § 101(b), Jan. 23, 2002, [115 Stat. 2447][/us/stat/115/2447].)
 
  __Amendments__ 
 
@@ -68,11 +68,11 @@
 [/us/usc/t38/s7604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7604
 [/us/usc/t38/s7602/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7602%2Fa
 [/us/usc/t38/s7673/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7673%2Fc%2F2
-[/us/pl/105/368/s802/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2Fs802%2Fa
+[/us/pl/105/368/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2FtVIII
 [/us/stat/112/3352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3352
-[/us/pl/107/14/s8/a/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F14%2Fs8%2Fa%2F16
+[/us/pl/107/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F14
 [/us/stat/115/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F35
-[/us/pl/107/135/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F135%2Fs101%2Fb
+[/us/pl/107/135/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F135%2FtI
 [/us/stat/115/2447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2447
 [/us/pl/107/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F135
 [/us/pl/107/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F14

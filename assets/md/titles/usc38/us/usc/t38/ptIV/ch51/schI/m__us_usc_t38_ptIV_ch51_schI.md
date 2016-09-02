@@ -17,7 +17,7 @@
 
  __Amendments__ 
 
-    1988—[Pub. L. 100–687, div. A, title I, § 103(c)(4)][/us/pl/100/687/s103/c/4], Nov. 18, 1988, [102 Stat. 4108][/us/stat/102/4108], substituted “CLAIMS” for “APPLICATIONS” in heading for subchapter I.
+    1988—[Pub. L. 100–687, div. A, title I][/us/pl/100/687/dA/tI], § 103(c)(4), Nov. 18, 1988, [102 Stat. 4108][/us/stat/102/4108], substituted “CLAIMS” for “APPLICATIONS” in heading for subchapter I.
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/100/687/s103/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F687%2Fs103%2Fc%2F4
+[/us/pl/100/687/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F687%2FdA%2FtI
 [/us/stat/102/4108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4108
 
 

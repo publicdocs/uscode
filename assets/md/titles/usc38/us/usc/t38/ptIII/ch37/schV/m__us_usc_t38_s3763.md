@@ -19,7 +19,7 @@
 
     (b) The Account shall be available to the Secretary to carry out all operations relating to the making of direct housing loans to Native American veterans under this subchapter, including any administrative expenses relating to the making of such loans. Amounts in the Account shall be available without fiscal year limitation.
 
-(Added [Pub. L. 102–547, § 8(a)][/us/pl/102/547/s8/a], Oct. 28, 1992, [106 Stat. 3639][/us/stat/106/3639]; amended [Pub. L. 105–368, title VI, § 602(e)(3)(B)][/us/pl/105/368/s602/e/3/B], Nov. 11, 1998, [112 Stat. 3347][/us/stat/112/3347]; [Pub. L. 107–14, § 8(a)(16)][/us/pl/107/14/s8/a/16], June 5, 2001, [115 Stat. 35][/us/stat/115/35].)
+(Added [Pub. L. 102–547][/us/pl/102/547], § 8(a), Oct. 28, 1992, [106 Stat. 3639][/us/stat/106/3639]; amended [Pub. L. 105–368, title VI][/us/pl/105/368/tVI], § 602(e)(3)(B), Nov. 11, 1998, [112 Stat. 3347][/us/stat/112/3347]; [Pub. L. 107–14][/us/pl/107/14], § 8(a)(16), June 5, 2001, [115 Stat. 35][/us/stat/115/35].)
 
  __Amendments__ 
 
@@ -38,11 +38,11 @@
 ----------
 ----------
 
-[/us/pl/102/547/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F547%2Fs8%2Fa
+[/us/pl/102/547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F547
 [/us/stat/106/3639]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3639
-[/us/pl/105/368/s602/e/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2Fs602%2Fe%2F3%2FB
+[/us/pl/105/368/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2FtVI
 [/us/stat/112/3347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3347
-[/us/pl/107/14/s8/a/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F14%2Fs8%2Fa%2F16
+[/us/pl/107/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F14
 [/us/stat/115/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F35
 [/us/pl/107/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F14
 [/us/pl/105/368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368

@@ -47,11 +47,11 @@
 
         (2) The term “Post 9/11 Global Operations theaters” means Afghanistan, Iraq, or any other theater in which the Global War on Terrorism Expeditionary Medal is awarded for service.
 
-(Added [Pub. L. 100–323, § 9(a)][/us/pl/100/323/s9/a], May 20, 1988, [102 Stat. 566][/us/stat/102/566], § 2010A; renumbered § 4110A, [Pub. L. 102–83, § 5(a)][/us/pl/102/83/s5/a], Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406]; amended [Pub. L. 103–446, title VII, § 701(c)][/us/pl/103/446/s701/c], Nov. 2, 1994, [108 Stat. 4674][/us/stat/108/4674]; [Pub. L. 105–368, title X, § 1005(b)(14)][/us/pl/105/368/s1005/b/14], Nov. 11, 1998, [112 Stat. 3365][/us/stat/112/3365]; [Pub. L. 110–389, title III, § 317][/us/pl/110/389/s317], Oct. 10, 2008, [122 Stat. 4167][/us/stat/122/4167].)
+(Added [Pub. L. 100–323][/us/pl/100/323], § 9(a), May 20, 1988, [102 Stat. 566][/us/stat/102/566], § 2010A; renumbered § 4110A, [Pub. L. 102–83][/us/pl/102/83], § 5(a), Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406]; amended [Pub. L. 103–446, title VII][/us/pl/103/446/tVII], § 701(c), Nov. 2, 1994, [108 Stat. 4674][/us/stat/108/4674]; [Pub. L. 105–368, title X][/us/pl/105/368/tX], § 1005(b)(14), Nov. 11, 1998, [112 Stat. 3365][/us/stat/112/3365]; [Pub. L. 110–389, title III][/us/pl/110/389/tIII], § 317, Oct. 10, 2008, [122 Stat. 4167][/us/stat/122/4167].)
 
  __Amendments__ 
 
-    2008—Subsec. (a)(1). [Pub. L. 110–389, § 317(a)][/us/pl/110/389/s317/a], substituted “an annual study” for “a study every two years” in introductory provisions, added subpars. (A) to (G), and struck out former subpars. (A) to (E) which read as follows:
+    2008—Subsec. (a)(1). [Pub. L. 110–389][/us/pl/110/389], § 317(a), substituted “an annual study” for “a study every two years” in introductory provisions, added subpars. (A) to (G), and struck out former subpars. (A) to (E) which read as follows:
 
     “(A) Special disabled veterans.
 
@@ -63,9 +63,9 @@
 
     “(E) Veterans discharged or released from active duty within four years of the applicable study.”
 
-    Subsec. (c). [Pub. L. 110–389, § 317(b)][/us/pl/110/389/s317/b], added subsec. (c).
+    Subsec. (c). [Pub. L. 110–389][/us/pl/110/389], § 317(b), added subsec. (c).
 
-    1998—Subsec. (a)(3). [Pub. L. 105–368, § 1005(b)(14)(B)][/us/pl/105/368/s1005/b/14/B], redesignated par. (3) as subsec. (b).
+    1998—Subsec. (a)(3). [Pub. L. 105–368][/us/pl/105/368], § 1005(b)(14)(B), redesignated par. (3) as subsec. (b).
 
     Subsec. (b). [Pub. L. 105–368][/us/pl/105/368] redesignated subsec. (a)(3) as (b), substituted “subsection (a)” for “paragraph (1)”, and struck out former subsec. (b) which read as follows: “The first study under this section shall be completed not later than 180 days after the date of the enactment of this section.”
 
@@ -88,19 +88,19 @@
 ----------
 ----------
 
-[/us/pl/100/323/s9/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F323%2Fs9%2Fa
+[/us/pl/100/323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F323
 [/us/stat/102/566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F566
-[/us/pl/102/83/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fa
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F406
-[/us/pl/103/446/s701/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2Fs701%2Fc
+[/us/pl/103/446/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2FtVII
 [/us/stat/108/4674]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4674
-[/us/pl/105/368/s1005/b/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2Fs1005%2Fb%2F14
+[/us/pl/105/368/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2FtX
 [/us/stat/112/3365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3365
-[/us/pl/110/389/s317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F389%2Fs317
+[/us/pl/110/389/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F389%2FtIII
 [/us/stat/122/4167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4167
-[/us/pl/110/389/s317/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F389%2Fs317%2Fa
-[/us/pl/110/389/s317/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F389%2Fs317%2Fb
-[/us/pl/105/368/s1005/b/14/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2Fs1005%2Fb%2F14%2FB
+[/us/pl/110/389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F389
+[/us/pl/110/389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F389
+[/us/pl/105/368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368
 [/us/pl/105/368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368
 [/us/pl/103/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446
 [/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83

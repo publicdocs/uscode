@@ -89,11 +89,11 @@
 
         (2) The Inspector General of the Department shall allocate sufficient resources (including sufficient personnel with the necessary skills and qualifications) to enable the Inspector General to monitor the quality-assurance program.
 
-(Added [Pub. L. 102–40, title IV, § 401(a)(3)][/us/pl/102/40/s401/a/3], May 7, 1991, [105 Stat. 214][/us/stat/105/214]; amended [Pub. L. 102–405, title III, § 302(c)(1)][/us/pl/102/405/s302/c/1], Oct. 9, 1992, [106 Stat. 1984][/us/stat/106/1984]; [Pub. L. 103–446, title XII, § 1201(g)(5)][/us/pl/103/446/s1201/g/5], Nov. 2, 1994, [108 Stat. 4687][/us/stat/108/4687]; [Pub. L. 111–163, title V, § 505(b)][/us/pl/111/163/s505/b], May 5, 2010, [124 Stat. 1159][/us/stat/124/1159].)
+(Added [Pub. L. 102–40, title IV][/us/pl/102/40/tIV], § 401(a)(3), May 7, 1991, [105 Stat. 214][/us/stat/105/214]; amended [Pub. L. 102–405, title III][/us/pl/102/405/tIII], § 302(c)(1), Oct. 9, 1992, [106 Stat. 1984][/us/stat/106/1984]; [Pub. L. 103–446, title XII][/us/pl/103/446/tXII], § 1201(g)(5), Nov. 2, 1994, [108 Stat. 4687][/us/stat/108/4687]; [Pub. L. 111–163, title V][/us/pl/111/163/tV], § 505(b), May 5, 2010, [124 Stat. 1159][/us/stat/124/1159].)
 
  __References in Text__ 
 
-    Subsection (f), referred to in subsecs. (b)(3) and (d), was repealed by [Pub. L. 103–446, title XII, § 1201(g)(5)][/us/pl/103/446/s1201/g/5], Nov. 2, 1994, [108 Stat. 4687][/us/stat/108/4687].
+    Subsection (f), referred to in subsecs. (b)(3) and (d), was repealed by [Pub. L. 103–446, title XII][/us/pl/103/446/tXII], § 1201(g)(5), Nov. 2, 1994, [108 Stat. 4687][/us/stat/108/4687].
 
  __Amendments__ 
 
@@ -117,7 +117,7 @@
 
  __Comprehensive Policy on Pain Management__ 
 
-[Pub. L. 110–387, title V, § 501][/us/pl/110/387/s501], Oct. 10, 2008, [122 Stat. 4130][/us/stat/122/4130], provided that:
+[Pub. L. 110–387, title V][/us/pl/110/387/tV], § 501, Oct. 10, 2008, [122 Stat. 4130][/us/stat/122/4130], provided that:
 
 >     “(a)  __Comprehensive Policy Required__  __.—__ 
 
@@ -177,17 +177,17 @@
 
  __Evaluation of Department of Veterans Affairs Nurse Managed Clinics__ 
 
-    [Pub. L. 107–135, title I, § 123][/us/pl/107/135/s123], Jan. 23, 2002, [115 Stat. 2451][/us/stat/115/2451], required the Secretary of Veterans Affairs to evaluate the efficacy of the nurse managed health care clinics of the Department of Veterans Affairs and submit to Congress a report on the evaluation not later than 18 months after Jan. 23, 2002.
+    [Pub. L. 107–135, title I][/us/pl/107/135/tI], § 123, Jan. 23, 2002, [115 Stat. 2451][/us/stat/115/2451], required the Secretary of Veterans Affairs to evaluate the efficacy of the nurse managed health care clinics of the Department of Veterans Affairs and submit to Congress a report on the evaluation not later than 18 months after Jan. 23, 2002.
 
  __Quality Assurance Activities__ 
 
-[Pub. L. 102–405, title I, § 104][/us/pl/102/405/s104], Oct. 9, 1992, [106 Stat. 1975][/us/stat/106/1975], provided that: 
+[Pub. L. 102–405, title I][/us/pl/102/405/tI], § 104, Oct. 9, 1992, [106 Stat. 1975][/us/stat/106/1975], provided that: 
 
 > “Effective on October 1, 1992, programs and activities which (1) the Secretary carries out pursuant to [section 7311(a) of title 38][/us/usc/t38/s7311/a], United States Code, or (2) are described in sections 201(a)(1) and 201(a)(3) of [Public Law 100–322][/us/pl/100/322] \[formerly set out as a note under former [section 4151 of this title][/us/usc/t38/s4151]\] ([102 Stat. 508][/us/stat/102/508]) shall be deemed to be part of the operation of hospitals, nursing homes, and domiciliary facilities of the Department of Veterans Affairs, without regard to the location of the duty stations of employees carrying out those programs and activities.”
 
  __Regulations for Standards of Performance in Laboratories__ 
 
-[Pub. L. 102–139, title I, § 101][/us/pl/102/139/s101], Oct. 28, 1991, [105 Stat. 742][/us/stat/105/742], provided that:
+[Pub. L. 102–139, title I][/us/pl/102/139/tI], § 101, Oct. 28, 1991, [105 Stat. 742][/us/stat/105/742], provided that:
 
 >     “(a)  __Regulations for Standards of Performance in Department of Veterans Affairs Laboratories__  __.—__ 
 
@@ -217,32 +217,32 @@
 ----------
 
 [/us/usc/t38/s7311A/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7311A%2Fc
-[/us/pl/102/40/s401/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs401%2Fa%2F3
+[/us/pl/102/40/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2FtIV
 [/us/stat/105/214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F214
-[/us/pl/102/405/s302/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405%2Fs302%2Fc%2F1
+[/us/pl/102/405/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405%2FtIII
 [/us/stat/106/1984]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1984
-[/us/pl/103/446/s1201/g/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2Fs1201%2Fg%2F5
+[/us/pl/103/446/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2FtXII
 [/us/stat/108/4687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4687
-[/us/pl/111/163/s505/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163%2Fs505%2Fb
+[/us/pl/111/163/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163%2FtV
 [/us/stat/124/1159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1159
-[/us/pl/103/446/s1201/g/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2Fs1201%2Fg%2F5
+[/us/pl/103/446/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2FtXII
 [/us/stat/108/4687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4687
 [/us/pl/111/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163
 [/us/pl/103/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446
 [/us/usc/t38/s5705/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs5705%2Fa
 [/us/pl/102/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405
-[/us/pl/110/387/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F387%2Fs501
+[/us/pl/110/387/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F387%2FtV
 [/us/stat/122/4130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4130
 [/us/usc/t38/s5902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs5902
-[/us/pl/107/135/s123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F135%2Fs123
+[/us/pl/107/135/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F135%2FtI
 [/us/stat/115/2451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2451
-[/us/pl/102/405/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405%2Fs104
+[/us/pl/102/405/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405%2FtI
 [/us/stat/106/1975]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1975
 [/us/usc/t38/s7311/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7311%2Fa
 [/us/pl/100/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F322
 [/us/usc/t38/s4151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs4151
 [/us/stat/102/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F508
-[/us/pl/102/139/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F139%2Fs101
+[/us/pl/102/139/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F139%2FtI
 [/us/stat/105/742]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F742
 [/us/usc/t42/s263a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs263a
 

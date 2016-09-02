@@ -17,7 +17,7 @@
 
     This subchapter applies with respect to all forms and manifestations of spina bifida except spina bifida occulta.
 
-(Added [Pub. L. 104–204, title IV, § 421(b)(1)][/us/pl/104/204/s421/b/1], Sept. 26, 1996, [110 Stat. 2923][/us/stat/110/2923]; amended [Pub. L. 106–419, title IV, § 401(e)(1)][/us/pl/106/419/s401/e/1], Nov. 1, 2000, [114 Stat. 1860][/us/stat/114/1860]; [Pub. L. 107–14, § 8(b)(3)][/us/pl/107/14/s8/b/3], June 5, 2001, [115 Stat. 36][/us/stat/115/36].)
+(Added [Pub. L. 104–204, title IV][/us/pl/104/204/tIV], § 421(b)(1), Sept. 26, 1996, [110 Stat. 2923][/us/stat/110/2923]; amended [Pub. L. 106–419, title IV][/us/pl/106/419/tIV], § 401(e)(1), Nov. 1, 2000, [114 Stat. 1860][/us/stat/114/1860]; [Pub. L. 107–14][/us/pl/107/14], § 8(b)(3), June 5, 2001, [115 Stat. 36][/us/stat/115/36].)
 
  __Prior Provisions__ 
 
@@ -31,7 +31,7 @@
 
  __Effective Date of 2001 Amendment__ 
 
-    [Pub. L. 107–14, § 8(b)][/us/pl/107/14/s8/b], June 5, 2001, [115 Stat. 36][/us/stat/115/36], provided that the amendment made by section 8(b) is effective Nov. 1, 2000, and as if included in the Veterans Benefits and Health Care Improvement Act of 2000, [Pub. L. 106–419][/us/pl/106/419], as enacted.
+    [Pub. L. 107–14][/us/pl/107/14], § 8(b), June 5, 2001, [115 Stat. 36][/us/stat/115/36], provided that the amendment made by section 8(b) is effective Nov. 1, 2000, and as if included in the Veterans Benefits and Health Care Improvement Act of 2000, [Pub. L. 106–419][/us/pl/106/419], as enacted.
 
  __Effective Date of 2000 Amendment__ 
 
@@ -44,18 +44,18 @@
 ----------
 ----------
 
-[/us/pl/104/204/s421/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F204%2Fs421%2Fb%2F1
+[/us/pl/104/204/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F204%2FtIV
 [/us/stat/110/2923]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2923
-[/us/pl/106/419/s401/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419%2Fs401%2Fe%2F1
+[/us/pl/106/419/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419%2FtIV
 [/us/stat/114/1860]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1860
-[/us/pl/107/14/s8/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F14%2Fs8%2Fb%2F3
+[/us/pl/107/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F14
 [/us/stat/115/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F36
 [/us/usc/t38/s3702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3702
 [/us/pl/107/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F14
 [/us/pl/106/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419
 [/us/pl/106/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419
 [/us/pl/107/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F14
-[/us/pl/107/14/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F14%2Fs8%2Fb
+[/us/pl/107/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F14
 [/us/stat/115/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F36
 [/us/pl/106/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419
 [/us/pl/106/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419

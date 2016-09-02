@@ -25,35 +25,35 @@
 
     (e) After June 30, 1972, and under such regulations as the Secretary may promulgate, insurance may be converted to or exchanged for insurance on a modified life plan under the same terms and conditions as are set forth in subsections (b) and (c) of this section except that at the end of the day preceding the seventieth birthday of the insured the face value of the modified life insurance policy or the amount of extended insurance thereunder shall be automatically reduced by one-half thereof, without any reduction in premium. Any insured whose modified life insurance policy issued under this subsection is in force by payment or waiver of premiums on the day before the insured’s seventieth birthday may be granted insurance on the ordinary life plan upon the same terms and conditions as are set forth in subsection (d) of this section except that in applying such provisions the seventieth birthday is to be substituted for the sixty-fifth birthday. Notwithstanding any other provision of law or regulations the Secretary under such terms and conditions as the Secretary determines to be reasonable and practicable and upon written application and payment of the required premiums, reserves, or other necessary amounts made within one year from the effective date of this subsection by an insured having in force a modified life plan issued under subsection (b) or (c) of this section, including any replacement insurance issued under subsection (d) of this section or other provision of this title, can exchange such insurance without proof of good health for an amount of insurance issued under this subsection equal to the insurance then in force or which was in force on the day before such insured’s sixty-fifth birthday, whichever is the greater.
 
-([Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1148][/us/stat/72/1148], § 704; [Pub. L. 88–664, § 12(b)][/us/pl/88/664/s12/b], Oct. 13, 1964, [78 Stat. 1098][/us/stat/78/1098]; [Pub. L. 92–193][/us/pl/92/193], Dec. 15, 1971, [85 Stat. 648][/us/stat/85/648]; [Pub. L. 97–295, § 4(21)][/us/pl/97/295/s4/21], Oct. 12, 1982, [96 Stat. 1306][/us/stat/96/1306]; [Pub. L. 99–576, title VII, § 701(21)][/us/pl/99/576/s701/21], Oct. 28, 1986, [100 Stat. 3292][/us/stat/100/3292]; renumbered § 1904 and amended [Pub. L. 102–83][/us/pl/102/83], §§ 4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, [105 Stat. 404–406][/us/stat/105/404-406].)
+([Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1148][/us/stat/72/1148], § 704; [Pub. L. 88–664][/us/pl/88/664], § 12(b), Oct. 13, 1964, [78 Stat. 1098][/us/stat/78/1098]; [Pub. L. 92–193][/us/pl/92/193], Dec. 15, 1971, [85 Stat. 648][/us/stat/85/648]; [Pub. L. 97–295][/us/pl/97/295], § 4(21), Oct. 12, 1982, [96 Stat. 1306][/us/stat/96/1306]; [Pub. L. 99–576, title VII][/us/pl/99/576/tVII], § 701(21), Oct. 28, 1986, [100 Stat. 3292][/us/stat/100/3292]; renumbered § 1904 and amended [Pub. L. 102–83][/us/pl/102/83], §§ 4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, [105 Stat. 404–406][/us/stat/105/404-406].)
 
  __References in Text__ 
 
-    Section 621 of the National Service Life Insurance Act of 1940, referred to in subsec. (c), is section 621 of [act Oct. 8, 1940, ch. 757][/us/act/1940-10-08/ch757], title VI, pt. I, as added [Apr. 25, 1951, ch. 39][/us/act/1951-04-25/ch39], pt. II, § 10, [65 Stat. 36][/us/stat/65/36], which was repealed and the provisions thereof reenacted as section 723 \[now 1923\] of this title by [Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1105][/us/stat/72/1105].
+    Section 621 of the National Service Life Insurance Act of 1940, referred to in subsec. (c), is section 621 of [act Oct. 8, 1940, ch. 757, title VI][/us/act/1940-10-08/ch757/tVI], pt. I, as added [Apr. 25, 1951, ch. 39][/us/act/1951-04-25/ch39], pt. II, § 10, [65 Stat. 36][/us/stat/65/36], which was repealed and the provisions thereof reenacted as section 723 \[now 1923\] of this title by [Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1105][/us/stat/72/1105].
 
  __Prior Provisions__ 
 
     Prior section 1904 was renumbered [section 3904 of this title][/us/usc/t38/s3904].
 
-    Another prior section 1904, [Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1216][/us/stat/72/1216], related to prohibition against duplication of benefits, prior to the general revision of chapter 39 of this title by [Pub. L. 91–666, § 2(a)][/us/pl/91/666/s2/a], Jan. 11, 1971, [84 Stat. 1998][/us/stat/84/1998]. See [section 3903 of this title][/us/usc/t38/s3903].
+    Another prior section 1904, [Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1216][/us/stat/72/1216], related to prohibition against duplication of benefits, prior to the general revision of chapter 39 of this title by [Pub. L. 91–666][/us/pl/91/666], § 2(a), Jan. 11, 1971, [84 Stat. 1998][/us/stat/84/1998]. See [section 3903 of this title][/us/usc/t38/s3903].
 
  __Amendments__ 
 
-    1991—[Pub. L. 102–83, § 5(a)][/us/pl/102/83/s5/a], renumbered [section 704 of this title][/us/usc/t38/s704] as this section.
+    1991—[Pub. L. 102–83][/us/pl/102/83], § 5(a), renumbered [section 704 of this title][/us/usc/t38/s704] as this section.
 
-    Subsec. (b). [Pub. L. 102–83, § 4(b)(1)][/us/pl/102/83/s4/b/1], (2)(E), substituted “Secretary” for “Administrator”.
+    Subsec. (b). [Pub. L. 102–83][/us/pl/102/83], § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
-    Subsec. (c). [Pub. L. 102–83, § 5(c)(1)][/us/pl/102/83/s5/c/1], substituted “1923(b)” for “723(b)”, “1922(a)” for “722(a)” in two places, and “1925” for “725” in two places.
+    Subsec. (c). [Pub. L. 102–83][/us/pl/102/83], § 5(c)(1), substituted “1923(b)” for “723(b)”, “1922(a)” for “722(a)” in two places, and “1925” for “725” in two places.
 
-    [Pub. L. 102–83, § 4(b)(1)][/us/pl/102/83/s4/b/1], (2)(E), substituted “Secretary” for “Administrator”.
+    [Pub. L. 102–83][/us/pl/102/83], § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
-    Subsec. (d). [Pub. L. 102–83, § 5(c)(1)][/us/pl/102/83/s5/c/1], substituted “1912” for “712”.
+    Subsec. (d). [Pub. L. 102–83][/us/pl/102/83], § 5(c)(1), substituted “1912” for “712”.
 
-    Subsec. (e). [Pub. L. 102–83, § 4(b)(1)][/us/pl/102/83/s4/b/1], (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
+    Subsec. (e). [Pub. L. 102–83][/us/pl/102/83], § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
 
-    1986—Subsec. (d). [Pub. L. 99–576, § 701(21)(A)][/us/pl/99/576/s701/21/A], substituted “the insured’s” for “his” in four places, and “the insured” for “he” in two places.
+    1986—Subsec. (d). [Pub. L. 99–576][/us/pl/99/576], § 701(21)(A), substituted “the insured’s” for “his” in four places, and “the insured” for “he” in two places.
 
-    Subsec. (e). [Pub. L. 99–576, § 701(21)(B)][/us/pl/99/576/s701/21/B], substituted “the insured’s” for “his” and “the Administrator” for “he”.
+    Subsec. (e). [Pub. L. 99–576][/us/pl/99/576], § 701(21)(B), substituted “the insured’s” for “his” and “the Administrator” for “he”.
 
     1982—Subsec. (e). [Pub. L. 97–295][/us/pl/97/295] substituted “After June 30, 1972,” for “On and after the effective date of this subsection”, and substituted “subsection” for “subsections” after “plan issued under”.
 
@@ -81,17 +81,17 @@
 [/us/usc/t38/s1912]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1912
 [/us/pl/85/857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F857
 [/us/stat/72/1148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1148
-[/us/pl/88/664/s12/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F664%2Fs12%2Fb
+[/us/pl/88/664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F664
 [/us/stat/78/1098]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F1098
 [/us/pl/92/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F193
 [/us/stat/85/648]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F648
-[/us/pl/97/295/s4/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295%2Fs4%2F21
+[/us/pl/97/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295
 [/us/stat/96/1306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1306
-[/us/pl/99/576/s701/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2Fs701%2F21
+[/us/pl/99/576/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2FtVII
 [/us/stat/100/3292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3292
 [/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/404-406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F404-406
-[/us/act/1940-10-08/ch757]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-08%2Fch757
+[/us/act/1940-10-08/ch757/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-08%2Fch757%2FtVI
 [/us/act/1951-04-25/ch39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-04-25%2Fch39
 [/us/stat/65/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F36
 [/us/pl/85/857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F857
@@ -99,18 +99,18 @@
 [/us/usc/t38/s3904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3904
 [/us/pl/85/857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F857
 [/us/stat/72/1216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1216
-[/us/pl/91/666/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F666%2Fs2%2Fa
+[/us/pl/91/666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F666
 [/us/stat/84/1998]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1998
 [/us/usc/t38/s3903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3903
-[/us/pl/102/83/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fa
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/usc/t38/s704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs704
-[/us/pl/102/83/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fb%2F1
-[/us/pl/102/83/s5/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fc%2F1
-[/us/pl/102/83/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fb%2F1
-[/us/pl/102/83/s5/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fc%2F1
-[/us/pl/102/83/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fb%2F1
-[/us/pl/99/576/s701/21/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2Fs701%2F21%2FA
-[/us/pl/99/576/s701/21/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2Fs701%2F21%2FB
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/99/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576
+[/us/pl/99/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576
 [/us/pl/97/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295
 [/us/pl/92/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F193
 [/us/pl/88/664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F664

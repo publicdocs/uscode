@@ -39,7 +39,7 @@
 
     The Secretary shall include in each annual Performance and Accountability report submitted by the Secretary to Congress a description of the activities of the Office during the fiscal year covered by such report.
 
-(Added [Pub. L. 110–389, title II, § 222(a)][/us/pl/110/389/s222/a], Oct. 10, 2008, [122 Stat. 4156][/us/stat/122/4156].)
+(Added [Pub. L. 110–389, title II][/us/pl/110/389/tII], § 222(a), Oct. 10, 2008, [122 Stat. 4156][/us/stat/122/4156].)
 
 ----------
 
@@ -48,7 +48,7 @@
 ----------
 ----------
 
-[/us/pl/110/389/s222/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F389%2Fs222%2Fa
+[/us/pl/110/389/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F389%2FtII
 [/us/stat/122/4156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4156
 
 

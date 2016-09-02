@@ -29,13 +29,13 @@
 
         (4) matters covered by chapter 72 of this title.
 
-(Added [Pub. L. 102–83, § 2(a)][/us/pl/102/83/s2/a], Aug. 6, 1991, [105 Stat. 388][/us/stat/105/388].)
+(Added [Pub. L. 102–83][/us/pl/102/83], § 2(a), Aug. 6, 1991, [105 Stat. 388][/us/stat/105/388].)
 
  __Prior Provisions__ 
 
     Prior section 511 was renumbered [section 1511 of this title][/us/usc/t38/s1511].
 
-    Provisions similar to those in this section were contained in [section 211(a) of this title][/us/usc/t38/s211/a] prior to repeal by [Pub. L. 102–83, § 2(a)][/us/pl/102/83/s2/a].
+    Provisions similar to those in this section were contained in [section 211(a) of this title][/us/usc/t38/s211/a] prior to repeal by [Pub. L. 102–83][/us/pl/102/83], § 2(a).
 
  __Federal Rules of Civil Procedure__ 
 
@@ -49,10 +49,10 @@
 ----------
 
 [/us/usc/t38/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs502
-[/us/pl/102/83/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs2%2Fa
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F388
 [/us/usc/t38/s1511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1511
 [/us/usc/t38/s211/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs211%2Fa
-[/us/pl/102/83/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs2%2Fa
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 
 

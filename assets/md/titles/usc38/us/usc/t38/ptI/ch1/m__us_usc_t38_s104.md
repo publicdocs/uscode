@@ -19,7 +19,7 @@
 
     (b) The Secretary may not approve an educational institution under this section unless such institution has agreed to report to the Secretary the termination of attendance of any child. If any educational institution fails to report any such termination promptly, the approval of the Secretary shall be withdrawn.
 
-([Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1110][/us/stat/72/1110]; [Pub. L. 91–24, § 1(c)][/us/pl/91/24/s1/c], June 11, 1969, [83 Stat. 33][/us/stat/83/33]; [Pub. L. 99–576, title VII, § 701(3)][/us/pl/99/576/s701/3], Oct. 28, 1986, [100 Stat. 3290][/us/stat/100/3290]; [Pub. L. 102–83, § 4(b)(1)][/us/pl/102/83/s4/b/1], (2)(E), Aug. 6, 1991, [105 Stat. 404][/us/stat/105/404], 405.)
+([Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1110][/us/stat/72/1110]; [Pub. L. 91–24][/us/pl/91/24], § 1(c), June 11, 1969, [83 Stat. 33][/us/stat/83/33]; [Pub. L. 99–576, title VII][/us/pl/99/576/tVII], § 701(3), Oct. 28, 1986, [100 Stat. 3290][/us/stat/100/3290]; [Pub. L. 102–83][/us/pl/102/83], § 4(b)(1), (2)(E), Aug. 6, 1991, [105 Stat. 404][/us/stat/105/404], 405.)
 
  __Amendments__ 
 
@@ -38,11 +38,11 @@
 
 [/us/pl/85/857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F857
 [/us/stat/72/1110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1110
-[/us/pl/91/24/s1/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F24%2Fs1%2Fc
+[/us/pl/91/24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F24
 [/us/stat/83/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F33
-[/us/pl/99/576/s701/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2Fs701%2F3
+[/us/pl/99/576/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2FtVII
 [/us/stat/100/3290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3290
-[/us/pl/102/83/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fb%2F1
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F404
 [/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/pl/99/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576

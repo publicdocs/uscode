@@ -65,13 +65,13 @@
 
             (F) Estimates of the costs of the reorganization and of the cost impact of the reorganization, together with analyses supporting those estimates.
 
-(Added [Pub. L. 102–83, § 2(a)][/us/pl/102/83/s2/a], Aug. 6, 1991, [105 Stat. 387][/us/stat/105/387]; amended [Pub. L. 104–262, title III, § 304][/us/pl/104/262/s304], Oct. 9, 1996, [110 Stat. 3194][/us/stat/110/3194].)
+(Added [Pub. L. 102–83][/us/pl/102/83], § 2(a), Aug. 6, 1991, [105 Stat. 387][/us/stat/105/387]; amended [Pub. L. 104–262, title III][/us/pl/104/262/tIII], § 304, Oct. 9, 1996, [110 Stat. 3194][/us/stat/110/3194].)
 
  __Prior Provisions__ 
 
-    Prior section 510, [Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1135][/us/stat/72/1135], provided monthly pension for persons who served in military or naval forces of Confederate States of America, prior to repeal by [Pub. L. 94–169, title I, § 101(2)(F)][/us/pl/94/169/s101/2/F], Dec. 23, 1975, [89 Stat. 1014][/us/stat/89/1014], effective Jan. 1, 1976.
+    Prior section 510, [Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1135][/us/stat/72/1135], provided monthly pension for persons who served in military or naval forces of Confederate States of America, prior to repeal by [Pub. L. 94–169, title I][/us/pl/94/169/tI], § 101(2)(F), Dec. 23, 1975, [89 Stat. 1014][/us/stat/89/1014], effective Jan. 1, 1976.
 
-    Provisions similar to those in this section were contained in section 210(b)(1), (2) of this title prior to repeal by [Pub. L. 102–83, § 2(a)][/us/pl/102/83/s2/a].
+    Provisions similar to those in this section were contained in section 210(b)(1), (2) of this title prior to repeal by [Pub. L. 102–83][/us/pl/102/83], § 2(a).
 
  __Amendments__ 
 
@@ -79,7 +79,7 @@
 
  __Authority of Secretary of Veterans Affairs To Carry Out Specified Administrative Reorganization__ 
 
-[Pub. L. 102–54, § 12][/us/pl/102/54/s12], June 13, 1991, [105 Stat. 273][/us/stat/105/273], provided that:
+[Pub. L. 102–54][/us/pl/102/54], § 12, June 13, 1991, [105 Stat. 273][/us/stat/105/273], provided that:
 
 >     “(a)  __Authority for Administrative Reorganization__  __.—__ 
 
@@ -114,17 +114,17 @@
 ----------
 ----------
 
-[/us/pl/102/83/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs2%2Fa
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F387
-[/us/pl/104/262/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F262%2Fs304
+[/us/pl/104/262/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F262%2FtIII
 [/us/stat/110/3194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3194
 [/us/pl/85/857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F857
 [/us/stat/72/1135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1135
-[/us/pl/94/169/s101/2/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F169%2Fs101%2F2%2FF
+[/us/pl/94/169/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F169%2FtI
 [/us/stat/89/1014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F1014
-[/us/pl/102/83/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs2%2Fa
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/pl/104/262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F262
-[/us/pl/102/54/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54%2Fs12
+[/us/pl/102/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54
 [/us/stat/105/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F273
 [/us/usc/t38/s210/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs210%2Fb%2F2
 [/us/usc/t38/s510/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs510%2Fb

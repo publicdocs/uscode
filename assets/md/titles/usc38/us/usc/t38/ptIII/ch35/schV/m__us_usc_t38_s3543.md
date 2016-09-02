@@ -29,13 +29,13 @@
 
         (3) to agree with the Secretary on the fair and reasonable amounts which may be charged under subsection (a).
 
-([Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1200][/us/stat/72/1200], § 1743; [Pub. L. 94–502, title III, § 310(22)][/us/pl/94/502/s310/22], Oct. 15, 1976, [90 Stat. 2392][/us/stat/90/2392]; [Pub. L. 101–237, title IV, § 423(b)(1)(A)][/us/pl/101/237/s423/b/1/A], (2), Dec. 18, 1989, [103 Stat. 2092][/us/stat/103/2092]; renumbered § 3543, [Pub. L. 102–83, § 5(a)][/us/pl/102/83/s5/a], Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406]; amended [Pub. L. 107–103, title I, § 109(b)(3)][/us/pl/107/103/s109/b/3], (4), Dec. 27, 2001, [115 Stat. 986][/us/stat/115/986].)
+([Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1200][/us/stat/72/1200], § 1743; [Pub. L. 94–502, title III][/us/pl/94/502/tIII], § 310(22), Oct. 15, 1976, [90 Stat. 2392][/us/stat/90/2392]; [Pub. L. 101–237, title IV][/us/pl/101/237/tIV], § 423(b)(1)(A), (2), Dec. 18, 1989, [103 Stat. 2092][/us/stat/103/2092]; renumbered § 3543, [Pub. L. 102–83][/us/pl/102/83], § 5(a), Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406]; amended [Pub. L. 107–103, title I][/us/pl/107/103/tI], § 109(b)(3), (4), Dec. 27, 2001, [115 Stat. 986][/us/stat/115/986].)
 
  __Amendments__ 
 
-    2001—Subsec. (a). [Pub. L. 107–103, § 109(b)(3)][/us/pl/107/103/s109/b/3], substituted “for the training provided to the eligible person” for “the parent or guardian for the training provided to an eligible person” in last sentence.
+    2001—Subsec. (a). [Pub. L. 107–103][/us/pl/107/103], § 109(b)(3), substituted “for the training provided to the eligible person” for “the parent or guardian for the training provided to an eligible person” in last sentence.
 
-    Subsec. (c). [Pub. L. 107–103, § 109(b)(4)][/us/pl/107/103/s109/b/4], added subsec. (c).
+    Subsec. (c). [Pub. L. 107–103][/us/pl/107/103], § 109(b)(4), added subsec. (c).
 
     1991—[Pub. L. 102–83][/us/pl/102/83] renumbered [section 1743 of this title][/us/usc/t38/s1743] as this section.
 
@@ -60,16 +60,16 @@
 [/us/usc/t38/s3542/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3542%2Fa
 [/us/pl/85/857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F857
 [/us/stat/72/1200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1200
-[/us/pl/94/502/s310/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F502%2Fs310%2F22
+[/us/pl/94/502/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F502%2FtIII
 [/us/stat/90/2392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2392
-[/us/pl/101/237/s423/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237%2Fs423%2Fb%2F1%2FA
+[/us/pl/101/237/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237%2FtIV
 [/us/stat/103/2092]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2092
-[/us/pl/102/83/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fa
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F406
-[/us/pl/107/103/s109/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F103%2Fs109%2Fb%2F3
+[/us/pl/107/103/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F103%2FtI
 [/us/stat/115/986]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F986
-[/us/pl/107/103/s109/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F103%2Fs109%2Fb%2F3
-[/us/pl/107/103/s109/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F103%2Fs109%2Fb%2F4
+[/us/pl/107/103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F103
+[/us/pl/107/103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F103
 [/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/usc/t38/s1743]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1743
 [/us/pl/101/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237

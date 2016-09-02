@@ -17,7 +17,7 @@
 
     The Congress hereby declares that the educational program established by this chapter is for the purpose of providing opportunities for education to children whose education would otherwise be impeded or interrupted by reason of the disability or death of a parent from a disease or injury incurred or aggravated in the Armed Forces after the beginning of the Spanish-American War, and for the purpose of aiding such children in attaining the educational status which they might normally have aspired to and obtained but for the disability or death of such parent. The Congress further declares that the educational program extended to the surviving spouses of veterans who died of service-connected disabilities and to spouses of veterans with a service-connected total disability permanent in nature is for the purpose of assisting them in preparing to support themselves and their families at a standard of living level which the veteran, but for the veteran’s death or service disability, could have expected to provide for the veteran’s family.
 
-(Added [Pub. L. 90–631, § 2(a)(1)][/us/pl/90/631/s2/a/1], Oct. 23, 1968, [82 Stat. 1331][/us/stat/82/1331], § 1700; amended [Pub. L. 94–502, title III, § 310(1)][/us/pl/94/502/s310/1], Oct. 15, 1976, [90 Stat. 2391][/us/stat/90/2391]; renumbered § 3500, [Pub. L. 102–83, § 5(a)][/us/pl/102/83/s5/a], Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406].)
+(Added [Pub. L. 90–631][/us/pl/90/631], § 2(a)(1), Oct. 23, 1968, [82 Stat. 1331][/us/stat/82/1331], § 1700; amended [Pub. L. 94–502, title III][/us/pl/94/502/tIII], § 310(1), Oct. 15, 1976, [90 Stat. 2391][/us/stat/90/2391]; renumbered § 3500, [Pub. L. 102–83][/us/pl/102/83], § 5(a), Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406].)
 
  __Amendments__ 
 
@@ -31,7 +31,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 90–631, § 6(a)][/us/pl/90/631/s6/a], Oct. 23, 1968, [82 Stat. 1335][/us/stat/82/1335], provided that: 
+[Pub. L. 90–631][/us/pl/90/631], § 6(a), Oct. 23, 1968, [82 Stat. 1335][/us/stat/82/1335], provided that: 
 
 > “The amendments made by the first section and sections 2, 3, and 5 of this Act \[see Tables for classification\] shall take effect on the first day of the second calendar month which begins after the date of the enactment of this Act \[Oct. 23, 1968\].”
 
@@ -42,11 +42,11 @@
 ----------
 ----------
 
-[/us/pl/90/631/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F631%2Fs2%2Fa%2F1
+[/us/pl/90/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F631
 [/us/stat/82/1331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1331
-[/us/pl/94/502/s310/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F502%2Fs310%2F1
+[/us/pl/94/502/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F502%2FtIII
 [/us/stat/90/2391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2391
-[/us/pl/102/83/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fa
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F406
 [/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/usc/t38/s1700]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1700
@@ -54,7 +54,7 @@
 [/us/pl/94/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F502
 [/us/pl/94/502/s703/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F502%2Fs703%2Fb
 [/us/usc/t38/s3693]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3693
-[/us/pl/90/631/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F631%2Fs6%2Fa
+[/us/pl/90/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F631
 [/us/stat/82/1335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1335
 
 

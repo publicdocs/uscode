@@ -33,7 +33,7 @@
 
     (4) shall require that any such applicant or recipient applying for or in receipt of increased pension on account of a person who is a spouse or child of such applicant or recipient promptly notify the Secretary if such person ceases to meet the applicable definition of spouse or child.
 
-(Added [Pub. L. 86–211, § 2(b)][/us/pl/86/211/s2/b], Aug. 29, 1959, [73 Stat. 432][/us/stat/73/432], § 506; amended [Pub. L. 88–664, § 2][/us/pl/88/664/s2], Oct. 13, 1964, [78 Stat. 1094][/us/stat/78/1094]; [Pub. L. 91–588, § 6][/us/pl/91/588/s6], Dec. 24, 1970, [84 Stat. 1584][/us/stat/84/1584]; [Pub. L. 94–169, title I, § 106(12)][/us/pl/94/169/s106/12]–(14), Dec. 23, 1975, [89 Stat. 1017][/us/stat/89/1017]; [Pub. L. 95–588, title I, § 103][/us/pl/95/588/s103], Nov. 4, 1978, [92 Stat. 2498][/us/stat/92/2498]; [Pub. L. 96–466, title VI, § 605(c)(2)][/us/pl/96/466/s605/c/2], Oct. 17, 1980, [94 Stat. 2211][/us/stat/94/2211]; renumbered § 1506 and amended [Pub. L. 102–83][/us/pl/102/83], §§ 4(a)(3), (4), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, [105 Stat. 404–406][/us/stat/105/404-406]; [Pub. L. 103–271, § 9(b)][/us/pl/103/271/s9/b], July 1, 1994, [108 Stat. 743][/us/stat/108/743].)
+(Added [Pub. L. 86–211][/us/pl/86/211], § 2(b), Aug. 29, 1959, [73 Stat. 432][/us/stat/73/432], § 506; amended [Pub. L. 88–664][/us/pl/88/664], § 2, Oct. 13, 1964, [78 Stat. 1094][/us/stat/78/1094]; [Pub. L. 91–588][/us/pl/91/588], § 6, Dec. 24, 1970, [84 Stat. 1584][/us/stat/84/1584]; [Pub. L. 94–169, title I][/us/pl/94/169/tI], § 106(12)–(14), Dec. 23, 1975, [89 Stat. 1017][/us/stat/89/1017]; [Pub. L. 95–588, title I][/us/pl/95/588/tI], § 103, Nov. 4, 1978, [92 Stat. 2498][/us/stat/92/2498]; [Pub. L. 96–466, title VI][/us/pl/96/466/tVI], § 605(c)(2), Oct. 17, 1980, [94 Stat. 2211][/us/stat/94/2211]; renumbered § 1506 and amended [Pub. L. 102–83][/us/pl/102/83], §§ 4(a)(3), (4), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, [105 Stat. 404–406][/us/stat/105/404-406]; [Pub. L. 103–271][/us/pl/103/271], § 9(b), July 1, 1994, [108 Stat. 743][/us/stat/108/743].)
 
  __Prior Provisions__ 
 
@@ -43,17 +43,17 @@
 
  __Amendments__ 
 
-    1994—Par. (2). [Pub. L. 103–271, § 9(b)(1)][/us/pl/103/271/s9/b/1], substituted “may require” for “shall require” and “file for a calendar year” for “file each year” in introductory provisions.
+    1994—Par. (2). [Pub. L. 103–271][/us/pl/103/271], § 9(b)(1), substituted “may require” for “shall require” and “file for a calendar year” for “file each year” in introductory provisions.
 
-    Par. (3). [Pub. L. 103–271, § 9(b)(2)][/us/pl/103/271/s9/b/2], substituted “notify the Secretary” for “file a revised report”, struck out “estimated” before “annual income” in two places, and struck out “such applicant’s or recipient’s estimate of” before “the value of the corpus of the estate of such applicant”.
+    Par. (3). [Pub. L. 103–271][/us/pl/103/271], § 9(b)(2), substituted “notify the Secretary” for “file a revised report”, struck out “estimated” before “annual income” in two places, and struck out “such applicant’s or recipient’s estimate of” before “the value of the corpus of the estate of such applicant”.
 
-    1991—[Pub. L. 102–83, § 5(a)][/us/pl/102/83/s5/a], renumbered [section 506 of this title][/us/usc/t38/s506] as this section.
+    1991—[Pub. L. 102–83][/us/pl/102/83], § 5(a), renumbered [section 506 of this title][/us/usc/t38/s506] as this section.
 
-    [Pub. L. 102–83, § 5(c)(1)][/us/pl/102/83/s5/c/1], substituted “1521, 1541, or 1542” for “521, 541, or 542” in introductory provisions and “1542” for “542” in par. (1).
+    [Pub. L. 102–83][/us/pl/102/83], § 5(c)(1), substituted “1521, 1541, or 1542” for “521, 541, or 542” in introductory provisions and “1542” for “542” in par. (1).
 
-    [Pub. L. 102–83, § 4(b)(1)][/us/pl/102/83/s4/b/1], (2)(E), substituted “Secretary” for “Administrator” in introductory provisions and pars. (1), (2), and (4).
+    [Pub. L. 102–83][/us/pl/102/83], § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in introductory provisions and pars. (1), (2), and (4).
 
-    [Pub. L. 102–83, § 4(a)(3)][/us/pl/102/83/s4/a/3], (4), substituted “Department” for “Veterans’ Administration” in par. (2) introductory provisions.
+    [Pub. L. 102–83][/us/pl/102/83], § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration” in par. (2) introductory provisions.
 
     1980—[Pub. L. 96–466][/us/pl/96/466] struck out “(a)” before “As a condition” and struck out subsec. (b) which provided that in the event of an overpayment of pension under section 521, 541, or 542 of this title, the amount thereof be deducted (unless waived) from any future payments made thereunder to the person concerned.
 
@@ -75,7 +75,7 @@
 
  __Effective Date of 1975 Amendment__ 
 
-    [Pub. L. 94–169, title I, § 106][/us/pl/94/169/s106], Dec. 23, 1975, [89 Stat. 1017][/us/stat/89/1017], provided that the amendment made by that section is effective Jan. 1, 1976.
+    [Pub. L. 94–169, title I][/us/pl/94/169/tI], § 106, Dec. 23, 1975, [89 Stat. 1017][/us/stat/89/1017], provided that the amendment made by that section is effective Jan. 1, 1976.
 
  __Effective Date of 1970 Amendment__ 
 
@@ -87,7 +87,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 86–211, § 10][/us/pl/86/211/s10], Aug. 29, 1959, [73 Stat. 436][/us/stat/73/436], provided that: 
+[Pub. L. 86–211][/us/pl/86/211], § 10, Aug. 29, 1959, [73 Stat. 436][/us/stat/73/436], provided that: 
 
 > “This Act \[see Tables for classification\] shall take effect on July 1, 1960.”
 
@@ -99,21 +99,21 @@
 ----------
 
 [/us/usc/t38/s1542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1542
-[/us/pl/86/211/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F211%2Fs2%2Fb
+[/us/pl/86/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F211
 [/us/stat/73/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F432
-[/us/pl/88/664/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F664%2Fs2
+[/us/pl/88/664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F664
 [/us/stat/78/1094]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F1094
-[/us/pl/91/588/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F588%2Fs6
+[/us/pl/91/588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F588
 [/us/stat/84/1584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1584
-[/us/pl/94/169/s106/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F169%2Fs106%2F12
+[/us/pl/94/169/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F169%2FtI
 [/us/stat/89/1017]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F1017
-[/us/pl/95/588/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F588%2Fs103
+[/us/pl/95/588/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F588%2FtI
 [/us/stat/92/2498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2498
-[/us/pl/96/466/s605/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F466%2Fs605%2Fc%2F2
+[/us/pl/96/466/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F466%2FtVI
 [/us/stat/94/2211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2211
 [/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/404-406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F404-406
-[/us/pl/103/271/s9/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F271%2Fs9%2Fb
+[/us/pl/103/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F271
 [/us/stat/108/743]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F743
 [/us/usc/t38/s3106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3106
 [/us/pl/85/857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F857
@@ -122,13 +122,13 @@
 [/us/pl/96/466/s802/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F466%2Fs802%2Fa%2F3
 [/us/usc/t38/s3100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3100
 [/us/usc/t38/s3104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3104
-[/us/pl/103/271/s9/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F271%2Fs9%2Fb%2F1
-[/us/pl/103/271/s9/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F271%2Fs9%2Fb%2F2
-[/us/pl/102/83/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fa
+[/us/pl/103/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F271
+[/us/pl/103/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F271
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/usc/t38/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs506
-[/us/pl/102/83/s5/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fc%2F1
-[/us/pl/102/83/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fb%2F1
-[/us/pl/102/83/s4/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fa%2F3
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/pl/96/466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F466
 [/us/pl/95/588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F588
 [/us/pl/94/169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F169
@@ -140,7 +140,7 @@
 [/us/pl/95/588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F588
 [/us/pl/95/588/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F588%2Fs401
 [/us/usc/t38/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs101
-[/us/pl/94/169/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F169%2Fs106
+[/us/pl/94/169/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F169%2FtI
 [/us/stat/89/1017]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F1017
 [/us/pl/91/588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F588
 [/us/pl/91/588/s10/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F588%2Fs10%2Fb
@@ -148,7 +148,7 @@
 [/us/pl/88/664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F664
 [/us/pl/88/664/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F664%2Fs11
 [/us/usc/t38/s1503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1503
-[/us/pl/86/211/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F211%2Fs10
+[/us/pl/86/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F211
 [/us/stat/73/436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F436
 
 

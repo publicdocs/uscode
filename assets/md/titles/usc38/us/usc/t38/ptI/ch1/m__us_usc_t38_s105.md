@@ -21,7 +21,7 @@
 
     (c) For the purposes of any provision relating to the extension of a delimiting period under any education-benefit or rehabilitation program administered by the Secretary, the disabling effects of chronic alcoholism shall not be considered to be the result of willful misconduct.
 
-([Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1110][/us/stat/72/1110]; [Pub. L. 99–576, title VII, § 701(4)][/us/pl/99/576/s701/4], Oct. 28, 1986, [100 Stat. 3290][/us/stat/100/3290]; [Pub. L. 100–689, title I, § 109][/us/pl/100/689/s109], Nov. 18, 1988, [102 Stat. 4170][/us/stat/102/4170]; [Pub. L. 101–508, title VIII, § 8052(a)(1)][/us/pl/101/508/s8052/a/1], Nov. 5, 1990, [104 Stat. 1388–351][/us/stat/104/1388-351]; [Pub. L. 102–83, § 4(a)(1)][/us/pl/102/83/s4/a/1], Aug. 6, 1991, [105 Stat. 403][/us/stat/105/403].)
+([Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1110][/us/stat/72/1110]; [Pub. L. 99–576, title VII][/us/pl/99/576/tVII], § 701(4), Oct. 28, 1986, [100 Stat. 3290][/us/stat/100/3290]; [Pub. L. 100–689, title I][/us/pl/100/689/tI], § 109, Nov. 18, 1988, [102 Stat. 4170][/us/stat/102/4170]; [Pub. L. 101–508, title VIII][/us/pl/101/508/tVIII], § 8052(a)(1), Nov. 5, 1990, [104 Stat. 1388–351][/us/stat/104/1388-351]; [Pub. L. 102–83][/us/pl/102/83], § 4(a)(1), Aug. 6, 1991, [105 Stat. 403][/us/stat/105/403].)
 
  __Amendments__ 
 
@@ -31,13 +31,13 @@
 
     1988—Subsec. (c). [Pub. L. 100–689][/us/pl/100/689] added subsec. (c).
 
-    1986—Subsec. (a). [Pub. L. 99–576, § 701(4)(A)][/us/pl/99/576/s701/4/A], substituted “result of the person’s” for “result of his” and “requiring the person” for “requiring him”.
+    1986—Subsec. (a). [Pub. L. 99–576][/us/pl/99/576], § 701(4)(A), substituted “result of the person’s” for “result of his” and “requiring the person” for “requiring him”.
 
-    Subsec. (b)(1). [Pub. L. 99–576, § 701(4)(B)][/us/pl/99/576/s701/4/B], substituted “service or by absenting himself or herself” for “service, or by absenting himself”.
+    Subsec. (b)(1). [Pub. L. 99–576][/us/pl/99/576], § 701(4)(B), substituted “service or by absenting himself or herself” for “service, or by absenting himself”.
 
  __Effective Date of 1990 Amendment__ 
 
-[Pub. L. 101–508, title VIII, § 8052(b)][/us/pl/101/508/s8052/b], Nov. 5, 1990, [104 Stat. 1388–351][/us/stat/104/1388-351], provided that: 
+[Pub. L. 101–508, title VIII][/us/pl/101/508/tVIII], § 8052(b), Nov. 5, 1990, [104 Stat. 1388–351][/us/stat/104/1388-351], provided that: 
 
 > “The amendments made by subsection (a) \[amending this section and sections 310 and 331 \[now 1110 and 1131\] of this title\] shall take effect with respect to claims filed after October 31, 1990.”
 
@@ -50,20 +50,20 @@
 
 [/us/pl/85/857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F857
 [/us/stat/72/1110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1110
-[/us/pl/99/576/s701/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2Fs701%2F4
+[/us/pl/99/576/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2FtVII
 [/us/stat/100/3290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3290
-[/us/pl/100/689/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F689%2Fs109
+[/us/pl/100/689/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F689%2FtI
 [/us/stat/102/4170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4170
-[/us/pl/101/508/s8052/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs8052%2Fa%2F1
+[/us/pl/101/508/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtVIII
 [/us/stat/104/1388-351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-351
-[/us/pl/102/83/s4/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fa%2F1
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F403
 [/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/pl/100/689]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F689
-[/us/pl/99/576/s701/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2Fs701%2F4%2FA
-[/us/pl/99/576/s701/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2Fs701%2F4%2FB
-[/us/pl/101/508/s8052/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs8052%2Fb
+[/us/pl/99/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576
+[/us/pl/99/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576
+[/us/pl/101/508/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtVIII
 [/us/stat/104/1388-351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-351
 
 

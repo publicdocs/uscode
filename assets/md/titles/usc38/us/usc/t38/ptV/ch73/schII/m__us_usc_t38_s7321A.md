@@ -63,7 +63,7 @@
 
         (5) A description of the steps taken, plans made (and a timetable for the execution of such plans), and resources to be applied toward improving the capability of the Veterans Health Administration to meet effectively the treatment and rehabilitation needs of veterans with traumatic brain injury.
 
-(Added [Pub. L. 111–163, title V, § 515(a)][/us/pl/111/163/s515/a], May 5, 2010, [124 Stat. 1165][/us/stat/124/1165].)
+(Added [Pub. L. 111–163, title V][/us/pl/111/163/tV], § 515(a), May 5, 2010, [124 Stat. 1165][/us/stat/124/1165].)
 
 ----------
 
@@ -72,7 +72,7 @@
 ----------
 ----------
 
-[/us/pl/111/163/s515/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163%2Fs515%2Fa
+[/us/pl/111/163/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163%2FtV
 [/us/stat/124/1165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1165
 
 

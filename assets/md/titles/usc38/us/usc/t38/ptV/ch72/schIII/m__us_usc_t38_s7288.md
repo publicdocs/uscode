@@ -91,7 +91,7 @@
 
         (2) the Committee on Veterans’ Affairs of the House of Representatives.
 
-(Added [Pub. L. 110–389, title VI, § 604(a)][/us/pl/110/389/s604/a], Oct. 10, 2008, [122 Stat. 4178][/us/stat/122/4178].)
+(Added [Pub. L. 110–389, title VI][/us/pl/110/389/tVI], § 604(a), Oct. 10, 2008, [122 Stat. 4178][/us/stat/122/4178].)
 
 ----------
 
@@ -102,7 +102,7 @@
 
 [/us/usc/t28/s2412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2412
 [/us/usc/t28/s2412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2412
-[/us/pl/110/389/s604/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F389%2Fs604%2Fa
+[/us/pl/110/389/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F389%2FtVI
 [/us/stat/122/4178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4178
 
 

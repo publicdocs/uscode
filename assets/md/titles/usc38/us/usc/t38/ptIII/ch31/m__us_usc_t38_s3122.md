@@ -69,7 +69,7 @@
 
         (16) The average number of dependents of each such veteran.
 
-(Added [Pub. L. 110–389, title III, § 334(a)][/us/pl/110/389/s334/a], Oct. 10, 2008, [122 Stat. 4172][/us/stat/122/4172].)
+(Added [Pub. L. 110–389, title III][/us/pl/110/389/tIII], § 334(a), Oct. 10, 2008, [122 Stat. 4172][/us/stat/122/4172].)
 
 ----------
 
@@ -79,7 +79,7 @@
 ----------
 
 [/us/usc/t38/s3452/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3452%2Ff
-[/us/pl/110/389/s334/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F389%2Fs334%2Fa
+[/us/pl/110/389/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F389%2FtIII
 [/us/stat/122/4172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4172
 
 

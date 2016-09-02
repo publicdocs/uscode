@@ -39,17 +39,17 @@
 
     (f) The exception provided in [section 2680(h) of title 28][/us/usc/t28/s2680/h] shall not apply to any claim arising out of a negligent or wrongful act or omission of any person described in subsection (a) in furnishing medical care or treatment (including medical care or treatment furnished in the course of a clinical study or investigation) while in the exercise of such person’s duties in or for the Administration.
 
-(Added [Pub. L. 102–40, title IV, § 401(a)(3)][/us/pl/102/40/s401/a/3], May 7, 1991, [105 Stat. 219][/us/stat/105/219]; amended [Pub. L. 108–170, title III, § 302(e)][/us/pl/108/170/s302/e], Dec. 6, 2003, [117 Stat. 2058][/us/stat/117/2058].)
+(Added [Pub. L. 102–40, title IV][/us/pl/102/40/tIV], § 401(a)(3), May 7, 1991, [105 Stat. 219][/us/stat/105/219]; amended [Pub. L. 108–170, title III][/us/pl/108/170/tIII], § 302(e), Dec. 6, 2003, [117 Stat. 2058][/us/stat/117/2058].)
 
  __Amendments__ 
 
-    2003—Subsec. (a)(1). [Pub. L. 108–170, § 302(e)(1)][/us/pl/108/170/s302/e/1], substituted “health” for “medical” in three places in concluding provisions.
+    2003—Subsec. (a)(1). [Pub. L. 108–170][/us/pl/108/170], § 302(e)(1), substituted “health” for “medical” in three places in concluding provisions.
 
-    Subsec. (a)(2). [Pub. L. 108–170, § 302(e)(2)][/us/pl/108/170/s302/e/2], substituted “health” for “medical” the first place it appeared and inserted “chiropractor,” after “podiatrist,”.
+    Subsec. (a)(2). [Pub. L. 108–170][/us/pl/108/170], § 302(e)(2), substituted “health” for “medical” the first place it appeared and inserted “chiropractor,” after “podiatrist,”.
 
  __Effective Date of 2003 Amendment__ 
 
-[Pub. L. 108–170, title III, § 302(h)][/us/pl/108/170/s302/h], Dec. 6, 2003, [117 Stat. 2058][/us/stat/117/2058], provided that: 
+[Pub. L. 108–170, title III][/us/pl/108/170/tIII], § 302(h), Dec. 6, 2003, [117 Stat. 2058][/us/stat/117/2058], provided that: 
 
 > “The amendments made by this section \[amending this section and sections 7401 to 7404, 7409, and 7421 of this title\] shall take effect at the end of the 180–day period beginning on the date of the enactment of this Act \[Dec. 6, 2003\].”
 
@@ -62,13 +62,13 @@
 
 [/us/usc/t28/s2677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2677
 [/us/usc/t28/s2680/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2680%2Fh
-[/us/pl/102/40/s401/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs401%2Fa%2F3
+[/us/pl/102/40/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2FtIV
 [/us/stat/105/219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F219
-[/us/pl/108/170/s302/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F170%2Fs302%2Fe
+[/us/pl/108/170/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F170%2FtIII
 [/us/stat/117/2058]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2058
-[/us/pl/108/170/s302/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F170%2Fs302%2Fe%2F1
-[/us/pl/108/170/s302/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F170%2Fs302%2Fe%2F2
-[/us/pl/108/170/s302/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F170%2Fs302%2Fh
+[/us/pl/108/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F170
+[/us/pl/108/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F170
+[/us/pl/108/170/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F170%2FtIII
 [/us/stat/117/2058]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2058
 
 

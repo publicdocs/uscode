@@ -17,7 +17,7 @@
 
     The monthly or other periodic rate of pension payable to an individual under section 1521, 1541, or 1542 of this title or under section 306(a) of the Veterans’ and Survivors’ Pension Improvement Act of 1978 ([Public Law 95–588][/us/pl/95/588]), if not a multiple of $1, shall be rounded down to the nearest dollar.
 
-(Added [Pub. L. 97–253, title IV, § 403(a)(1)][/us/pl/97/253/s403/a/1], Sept. 8, 1982, [96 Stat. 802][/us/stat/96/802], § 3023; renumbered § 5123, [Pub. L. 102–40, title IV, § 402(b)(1)][/us/pl/102/40/s402/b/1], May 7, 1991, [105 Stat. 238][/us/stat/105/238]; amended [Pub. L. 102–83, § 5(c)(1)][/us/pl/102/83/s5/c/1], Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406].)
+(Added [Pub. L. 97–253, title IV][/us/pl/97/253/tIV], § 403(a)(1), Sept. 8, 1982, [96 Stat. 802][/us/stat/96/802], § 3023; renumbered § 5123, [Pub. L. 102–40, title IV][/us/pl/102/40/tIV], § 402(b)(1), May 7, 1991, [105 Stat. 238][/us/stat/105/238]; amended [Pub. L. 102–83][/us/pl/102/83], § 5(c)(1), Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406].)
 
  __References in Text__ 
 
@@ -35,7 +35,7 @@
 
  __Effective Date__ 
 
-[Section 403(b) of Pub. L. 97–253][/us/pl/97/253/s403/b], as amended by [Pub. L. 98–21, title I, § 111(e)][/us/pl/98/21/s111/e], Apr. 20, 1983, [97 Stat. 73][/us/stat/97/73]; [Pub. L. 98–369, div. B, title VI, § 2662(j)][/us/pl/98/369/s2662/j], July 18, 1984, [98 Stat. 1160][/us/stat/98/1160], provided that:
+[Section 403(b) of Pub. L. 97–253][/us/pl/97/253/s403/b], as amended by [Pub. L. 98–21, title I][/us/pl/98/21/tI], § 111(e), Apr. 20, 1983, [97 Stat. 73][/us/stat/97/73]; [Pub. L. 98–369, div. B, title VI][/us/pl/98/369/dB/tVI], § 2662(j), July 18, 1984, [98 Stat. 1160][/us/stat/98/1160], provided that:
 
 >     “(1) Except as provided in paragraph (2), the amendment made by subsection (a)(1) \[enacting this section\] shall apply with respect to amounts payable for periods beginning after May 31, 1983.
 
@@ -49,11 +49,11 @@
 ----------
 
 [/us/pl/95/588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F588
-[/us/pl/97/253/s403/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F253%2Fs403%2Fa%2F1
+[/us/pl/97/253/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F253%2FtIV
 [/us/stat/96/802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F802
-[/us/pl/102/40/s402/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs402%2Fb%2F1
+[/us/pl/102/40/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2FtIV
 [/us/stat/105/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F238
-[/us/pl/102/83/s5/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fc%2F1
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F406
 [/us/pl/95/588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F588
 [/us/pl/95/588/s306/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F588%2Fs306%2Fa
@@ -63,9 +63,9 @@
 [/us/usc/t38/s3023]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3023
 [/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/pl/97/253/s403/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F253%2Fs403%2Fb
-[/us/pl/98/21/s111/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21%2Fs111%2Fe
+[/us/pl/98/21/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21%2FtI
 [/us/stat/97/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F73
-[/us/pl/98/369/s2662/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2662%2Fj
+[/us/pl/98/369/dB/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdB%2FtVI
 [/us/stat/98/1160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1160
 
 

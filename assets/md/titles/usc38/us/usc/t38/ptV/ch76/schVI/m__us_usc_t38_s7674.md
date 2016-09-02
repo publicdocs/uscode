@@ -69,7 +69,7 @@
 
     In this section, the term “course completion date” means the date on which a participant in the Program completes the participant’s course of education or training under the Program.
 
-(Added [Pub. L. 105–368, title VIII, § 802(a)][/us/pl/105/368/s802/a], Nov. 11, 1998, [112 Stat. 3354][/us/stat/112/3354].)
+(Added [Pub. L. 105–368, title VIII][/us/pl/105/368/tVIII], § 802(a), Nov. 11, 1998, [112 Stat. 3354][/us/stat/112/3354].)
 
 ----------
 
@@ -79,7 +79,7 @@
 ----------
 
 [/us/usc/t38/s7603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7603
-[/us/pl/105/368/s802/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2Fs802%2Fa
+[/us/pl/105/368/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2FtVIII
 [/us/stat/112/3354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3354
 
 

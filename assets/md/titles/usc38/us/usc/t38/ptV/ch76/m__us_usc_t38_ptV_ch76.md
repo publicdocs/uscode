@@ -395,15 +395,15 @@ SUBCHAPTER VII—EDUCATION DEBT REDUCTION PROGRAM  </td>
 
  __Amendments__ 
 
-    2010—[Pub. L. 111–163, title VI, § 603(d)][/us/pl/111/163/s603/d], May 5, 2010, [124 Stat. 1174][/us/stat/124/1174], added items 7618 and 7619 and struck out former item 7618 “Expiration of program”.
+    2010—[Pub. L. 111–163, title VI][/us/pl/111/163/tVI], § 603(d), May 5, 2010, [124 Stat. 1174][/us/stat/124/1174], added items 7618 and 7619 and struck out former item 7618 “Expiration of program”.
 
-    2002—[Pub. L. 107–135, title I][/us/pl/107/135], §§ 101(a)(2), 102(a)(2), Jan. 23, 2002, [115 Stat. 2447][/us/stat/115/2447], 2448, struck out items 7676 “Expiration of program” and 7684 “Expiration of program”.
+    2002—[Pub. L. 107–135, title I][/us/pl/107/135/tI], §§ 101(a)(2), 102(a)(2), Jan. 23, 2002, [115 Stat. 2447][/us/stat/115/2447], 2448, struck out items 7676 “Expiration of program” and 7684 “Expiration of program”.
 
-    1998—[Pub. L. 105–368, title VIII][/us/pl/105/368], §§ 802(b), 803(b), Nov. 11, 1998, [112 Stat. 3356][/us/stat/112/3356], 3358, added headings for subchapters VI and VII and items 7671 to 7676 and 7681 to 7684.
+    1998—[Pub. L. 105–368, title VIII][/us/pl/105/368/tVIII], §§ 802(b), 803(b), Nov. 11, 1998, [112 Stat. 3356][/us/stat/112/3356], 3358, added headings for subchapters VI and VII and items 7671 to 7676 and 7681 to 7684.
 
-    1991—[Pub. L. 102–40, title IV, § 402(c)(1)][/us/pl/102/40/s402/c/1], May 7, 1991, [105 Stat. 239][/us/stat/105/239], renumbered items 4301 to 4355 as 7601 to 7655, respectively.
+    1991—[Pub. L. 102–40, title IV][/us/pl/102/40/tIV], § 402(c)(1), May 7, 1991, [105 Stat. 239][/us/stat/105/239], renumbered items 4301 to 4355 as 7601 to 7655, respectively.
 
-    1990—[Pub. L. 101–366, title II, § 205(a)(2)][/us/pl/101/366/s205/a/2], Aug. 15, 1990, [104 Stat. 440][/us/stat/104/440], added heading for subchapter V and items 4351 to 4355.
+    1990—[Pub. L. 101–366, title II][/us/pl/101/366/tII], § 205(a)(2), Aug. 15, 1990, [104 Stat. 440][/us/stat/104/440], added heading for subchapter V and items 4351 to 4355.
 
 ----------
 
@@ -412,15 +412,15 @@ SUBCHAPTER VII—EDUCATION DEBT REDUCTION PROGRAM  </td>
 ----------
 ----------
 
-[/us/pl/111/163/s603/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163%2Fs603%2Fd
+[/us/pl/111/163/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163%2FtVI
 [/us/stat/124/1174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1174
-[/us/pl/107/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F135
+[/us/pl/107/135/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F135%2FtI
 [/us/stat/115/2447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2447
-[/us/pl/105/368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368
+[/us/pl/105/368/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2FtVIII
 [/us/stat/112/3356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3356
-[/us/pl/102/40/s402/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs402%2Fc%2F1
+[/us/pl/102/40/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2FtIV
 [/us/stat/105/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F239
-[/us/pl/101/366/s205/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F366%2Fs205%2Fa%2F2
+[/us/pl/101/366/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F366%2FtII
 [/us/stat/104/440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F440
 
 

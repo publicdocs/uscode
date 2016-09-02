@@ -51,7 +51,7 @@
 
             (D) To develop special practices and products for the benefit of veterans living in rural areas and for implementation of such practices and products in the Department systemwide.
 
-(Added [Pub. L. 109–461, title II, § 212(a)(1)][/us/pl/109/461/s212/a/1], Dec. 22, 2006, [120 Stat. 3421][/us/stat/120/3421]; amended [Pub. L. 112–154, title I, § 110][/us/pl/112/154/s110], Aug. 6, 2012, [126 Stat. 1175][/us/stat/126/1175].)
+(Added [Pub. L. 109–461, title II][/us/pl/109/461/tII], § 212(a)(1), Dec. 22, 2006, [120 Stat. 3421][/us/stat/120/3421]; amended [Pub. L. 112–154, title I][/us/pl/112/154/tI], § 110, Aug. 6, 2012, [126 Stat. 1175][/us/stat/126/1175].)
 
  __Amendments__ 
 
@@ -64,9 +64,9 @@
 ----------
 ----------
 
-[/us/pl/109/461/s212/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461%2Fs212%2Fa%2F1
+[/us/pl/109/461/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461%2FtII
 [/us/stat/120/3421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3421
-[/us/pl/112/154/s110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154%2Fs110
+[/us/pl/112/154/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154%2FtI
 [/us/stat/126/1175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1175
 [/us/pl/112/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154
 

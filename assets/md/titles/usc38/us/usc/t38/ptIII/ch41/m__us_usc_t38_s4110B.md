@@ -17,7 +17,7 @@
 
     In carrying out this chapter, the Secretary shall require that an appropriate administrative entity in each State enter into an agreement with the Secretary regarding the implementation of the Workforce Innovation and Opportunity Act that includes the descriptions described in sections 102(b)(2)(B)(ii) and 103(b)(3)(A) of the Workforce Innovation and Opportunity Act and a description of how the State board will carry out the activities described in section 101(d)(3)(F) of such Act.
 
-(Added [Pub. L. 105–220, title III, § 322][/us/pl/105/220/s322], Aug. 7, 1998, [112 Stat. 1087][/us/stat/112/1087]; amended [Pub. L. 109–233, title V, § 503(13)][/us/pl/109/233/s503/13], June 15, 2006, [120 Stat. 417][/us/stat/120/417]; [Pub. L. 113–128, title V, § 512(gg)(4)][/us/pl/113/128/s512/gg/4], July 22, 2014, [128 Stat. 1719][/us/stat/128/1719].)
+(Added [Pub. L. 105–220, title III][/us/pl/105/220/tIII], § 322, Aug. 7, 1998, [112 Stat. 1087][/us/stat/112/1087]; amended [Pub. L. 109–233, title V][/us/pl/109/233/tV], § 503(13), June 15, 2006, [120 Stat. 417][/us/stat/120/417]; [Pub. L. 113–128, title V][/us/pl/113/128/tV], § 512(gg)(4), July 22, 2014, [128 Stat. 1719][/us/stat/128/1719].)
 
  __References in Text__ 
 
@@ -40,11 +40,11 @@
 ----------
 ----------
 
-[/us/pl/105/220/s322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2Fs322
+[/us/pl/105/220/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2FtIII
 [/us/stat/112/1087]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1087
-[/us/pl/109/233/s503/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F233%2Fs503%2F13
+[/us/pl/109/233/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F233%2FtV
 [/us/stat/120/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F417
-[/us/pl/113/128/s512/gg/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fgg%2F4
+[/us/pl/113/128/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2FtV
 [/us/stat/128/1719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1719
 [/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/stat/128/1425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1425

@@ -53,7 +53,7 @@
 
     (f) In any case in which the Secretary has determined that a veteran was prevented from participating in a vocational rehabilitation program under this chapter within the period of eligibility otherwise prescribed in this section as a result of being ordered to serve on active duty under section 688, 12301(a), 12301(d), 12301(g), 12302, or 12304 of title 10, such period of eligibility shall not run for the period of such active duty service plus four months.
 
-(Added [Pub. L. 96–466, title I, § 101(a)][/us/pl/96/466/s101/a], Oct. 17, 1980, [94 Stat. 2173][/us/stat/94/2173], § 1503; amended [Pub. L. 99–576, title III, § 333(b)(2)][/us/pl/99/576/s333/b/2], Oct. 28, 1986, [100 Stat. 3279][/us/stat/100/3279]; [Pub. L. 101–237, title IV, § 423(b)(1)(A)][/us/pl/101/237/s423/b/1/A], Dec. 18, 1989, [103 Stat. 2092][/us/stat/103/2092]; [Pub. L. 102–40, title IV, § 402(d)(1)][/us/pl/102/40/s402/d/1], May 7, 1991, [105 Stat. 239][/us/stat/105/239]; renumbered § 3103 and amended, [Pub. L. 102–83, § 5(a)][/us/pl/102/83/s5/a], (c)(1), Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406]; [Pub. L. 103–446, title XII, § 1201(d)(8)][/us/pl/103/446/s1201/d/8], Nov. 2, 1994, [108 Stat. 4684][/us/stat/108/4684]; [Pub. L. 104–275, title I, § 101(c)][/us/pl/104/275/s101/c], Oct. 9, 1996, [110 Stat. 3324][/us/stat/110/3324]; [Pub. L. 107–103, title I, § 103(c)(2)][/us/pl/107/103/s103/c/2], Dec. 27, 2001, [115 Stat. 979][/us/stat/115/979]; [Pub. L. 107–330, title III, § 308(h)][/us/pl/107/330/s308/h], Dec. 6, 2002, [116 Stat. 2829][/us/stat/116/2829]; [Pub. L. 112–56, title II, § 233(b)][/us/pl/112/56/s233/b], Nov. 21, 2011, [125 Stat. 720][/us/stat/125/720].)
+(Added [Pub. L. 96–466, title I][/us/pl/96/466/tI], § 101(a), Oct. 17, 1980, [94 Stat. 2173][/us/stat/94/2173], § 1503; amended [Pub. L. 99–576, title III][/us/pl/99/576/tIII], § 333(b)(2), Oct. 28, 1986, [100 Stat. 3279][/us/stat/100/3279]; [Pub. L. 101–237, title IV][/us/pl/101/237/tIV], § 423(b)(1)(A), Dec. 18, 1989, [103 Stat. 2092][/us/stat/103/2092]; [Pub. L. 102–40, title IV][/us/pl/102/40/tIV], § 402(d)(1), May 7, 1991, [105 Stat. 239][/us/stat/105/239]; renumbered § 3103 and amended, [Pub. L. 102–83][/us/pl/102/83], § 5(a), (c)(1), Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406]; [Pub. L. 103–446, title XII][/us/pl/103/446/tXII], § 1201(d)(8), Nov. 2, 1994, [108 Stat. 4684][/us/stat/108/4684]; [Pub. L. 104–275, title I][/us/pl/104/275/tI], § 101(c), Oct. 9, 1996, [110 Stat. 3324][/us/stat/110/3324]; [Pub. L. 107–103, title I][/us/pl/107/103/tI], § 103(c)(2), Dec. 27, 2001, [115 Stat. 979][/us/stat/115/979]; [Pub. L. 107–330, title III][/us/pl/107/330/tIII], § 308(h), Dec. 6, 2002, [116 Stat. 2829][/us/stat/116/2829]; [Pub. L. 112–56, title II][/us/pl/112/56/tII], § 233(b), Nov. 21, 2011, [125 Stat. 720][/us/stat/125/720].)
 
  __Prior Provisions__ 
 
@@ -61,29 +61,29 @@
 
  __Amendments__ 
 
-    2011—Subsec. (a). [Pub. L. 112–56, § 233(b)(1)][/us/pl/112/56/s233/b/1], substituted “in subsection (b), (c), (d), or (e)” for “in subsection (b), (c), or (d)”.
+    2011—Subsec. (a). [Pub. L. 112–56][/us/pl/112/56], § 233(b)(1), substituted “in subsection (b), (c), (d), or (e)” for “in subsection (b), (c), or (d)”.
 
-    Subsecs. (e), (f). [Pub. L. 112–56, § 233(b)(2)][/us/pl/112/56/s233/b/2], (3), added subsec. (e) and redesignated former subsec. (e) as (f).
+    Subsecs. (e), (f). [Pub. L. 112–56][/us/pl/112/56], § 233(b)(2), (3), added subsec. (e) and redesignated former subsec. (e) as (f).
 
     2002—Subsec. (e). [Pub. L. 107–330][/us/pl/107/330] made technical correction to directory language of [Pub. L. 107–103][/us/pl/107/103]. See 2001 Amendment note below.
 
     2001—Subsec. (e). [Pub. L. 107–103][/us/pl/107/103], as amended by [Pub. L. 107–330][/us/pl/107/330], added subsec. (e).
 
-    1996—Subsec. (b)(3). [Pub. L. 104–275, § 101(c)(1)][/us/pl/104/275/s101/c/1], substituted “rated at 10 percent or more” for “described in [section 3102(1)(A)(i) of this title][/us/usc/t38/s3102/1/A/i]”.
+    1996—Subsec. (b)(3). [Pub. L. 104–275][/us/pl/104/275], § 101(c)(1), substituted “rated at 10 percent or more” for “described in [section 3102(1)(A)(i) of this title][/us/usc/t38/s3102/1/A/i]”.
 
-    Subsec. (c). [Pub. L. 104–275, § 101(c)(2)(A)][/us/pl/104/275/s101/c/2/A], substituted “current” for “particular” in introductory provisions.
+    Subsec. (c). [Pub. L. 104–275][/us/pl/104/275], § 101(c)(2)(A), substituted “current” for “particular” in introductory provisions.
 
-    Subsec. (c)(2). [Pub. L. 104–275, § 101(c)(2)(B)][/us/pl/104/275/s101/c/2/B], substituted “veteran’s current employment” for “veteran’s employment”.
+    Subsec. (c)(2). [Pub. L. 104–275][/us/pl/104/275], § 101(c)(2)(B), substituted “veteran’s current employment” for “veteran’s employment”.
 
-    Subsec. (d). [Pub. L. 104–275, § 101(c)(3)][/us/pl/104/275/s101/c/3], substituted “in accordance with the provisions of [section 3120 of this title][/us/usc/t38/s3120]” for “under this chapter”.
+    Subsec. (d). [Pub. L. 104–275][/us/pl/104/275], § 101(c)(3), substituted “in accordance with the provisions of [section 3120 of this title][/us/usc/t38/s3120]” for “under this chapter”.
 
     1994—Subsec. (b)(3). [Pub. L. 103–446][/us/pl/103/446] substituted “section 3102(1)(A)(i)” for “section 3102(1)(A)”.
 
-    1991—[Pub. L. 102–83, § 5(a)][/us/pl/102/83/s5/a], renumbered [section 1503 of this title][/us/usc/t38/s1503] as this section.
+    1991—[Pub. L. 102–83][/us/pl/102/83], § 5(a), renumbered [section 1503 of this title][/us/usc/t38/s1503] as this section.
 
     Subsec. (b)(2)(B). [Pub. L. 102–40][/us/pl/102/40] substituted “5303” for “3103”.
 
-    Subsec. (b)(3). [Pub. L. 102–83, § 5(c)(1)][/us/pl/102/83/s5/c/1], substituted “3102(1)(A)” for “1502(1)(A)”.
+    Subsec. (b)(3). [Pub. L. 102–83][/us/pl/102/83], § 5(c)(1), substituted “3102(1)(A)” for “1502(1)(A)”.
 
     1989—Subsecs. (b) to (d). [Pub. L. 101–237][/us/pl/101/237] substituted “Secretary” for “Administrator” wherever appearing.
 
@@ -95,7 +95,7 @@
 
  __Effective Date of 2002 Amendment__ 
 
-    [Pub. L. 107–330, title III, § 308(h)][/us/pl/107/330/s308/h], Dec. 6, 2002, [116 Stat. 2829][/us/stat/116/2829], provided that the amendment made by [section 308(h) of Pub. L. 107–330][/us/pl/107/330/s308/h] is effective as of Dec. 27, 2001, and as if included in section 103(c) of the Veterans Education and Benefits Expansion Act of 2001, [Pub. L. 107–103][/us/pl/107/103], as originally enacted.
+    [Pub. L. 107–330, title III][/us/pl/107/330/tIII], § 308(h), Dec. 6, 2002, [116 Stat. 2829][/us/stat/116/2829], provided that the amendment made by [section 308(h) of Pub. L. 107–330][/us/pl/107/330/s308/h] is effective as of Dec. 27, 2001, and as if included in section 103(c) of the Veterans Education and Benefits Expansion Act of 2001, [Pub. L. 107–103][/us/pl/107/103], as originally enacted.
 
  __Effective Date of 2001 Amendment__ 
 
@@ -115,50 +115,50 @@
 [/us/usc/t38/s5303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs5303
 [/us/usc/t38/s3120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3120
 [/us/usc/t38/s3102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3102%2Fb
-[/us/pl/96/466/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F466%2Fs101%2Fa
+[/us/pl/96/466/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F466%2FtI
 [/us/stat/94/2173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2173
-[/us/pl/99/576/s333/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2Fs333%2Fb%2F2
+[/us/pl/99/576/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2FtIII
 [/us/stat/100/3279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3279
-[/us/pl/101/237/s423/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237%2Fs423%2Fb%2F1%2FA
+[/us/pl/101/237/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237%2FtIV
 [/us/stat/103/2092]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2092
-[/us/pl/102/40/s402/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs402%2Fd%2F1
+[/us/pl/102/40/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2FtIV
 [/us/stat/105/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F239
-[/us/pl/102/83/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fa
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F406
-[/us/pl/103/446/s1201/d/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2Fs1201%2Fd%2F8
+[/us/pl/103/446/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2FtXII
 [/us/stat/108/4684]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4684
-[/us/pl/104/275/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275%2Fs101%2Fc
+[/us/pl/104/275/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275%2FtI
 [/us/stat/110/3324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3324
-[/us/pl/107/103/s103/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F103%2Fs103%2Fc%2F2
+[/us/pl/107/103/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F103%2FtI
 [/us/stat/115/979]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F979
-[/us/pl/107/330/s308/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F330%2Fs308%2Fh
+[/us/pl/107/330/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F330%2FtIII
 [/us/stat/116/2829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2829
-[/us/pl/112/56/s233/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F56%2Fs233%2Fb
+[/us/pl/112/56/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F56%2FtII
 [/us/stat/125/720]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F720
 [/us/usc/t38/s5303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs5303
-[/us/pl/112/56/s233/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F56%2Fs233%2Fb%2F1
-[/us/pl/112/56/s233/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F56%2Fs233%2Fb%2F2
+[/us/pl/112/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F56
+[/us/pl/112/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F56
 [/us/pl/107/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F330
 [/us/pl/107/103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F103
 [/us/pl/107/103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F103
 [/us/pl/107/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F330
-[/us/pl/104/275/s101/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275%2Fs101%2Fc%2F1
+[/us/pl/104/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275
 [/us/usc/t38/s3102/1/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3102%2F1%2FA%2Fi
-[/us/pl/104/275/s101/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275%2Fs101%2Fc%2F2%2FA
-[/us/pl/104/275/s101/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275%2Fs101%2Fc%2F2%2FB
-[/us/pl/104/275/s101/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275%2Fs101%2Fc%2F3
+[/us/pl/104/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275
+[/us/pl/104/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275
+[/us/pl/104/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275
 [/us/usc/t38/s3120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3120
 [/us/pl/103/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446
-[/us/pl/102/83/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fa
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/usc/t38/s1503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1503
 [/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40
-[/us/pl/102/83/s5/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fc%2F1
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/pl/101/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237
 [/us/pl/99/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576
 [/us/pl/112/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F56
 [/us/pl/112/56/s233/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F56%2Fs233%2Fc
 [/us/usc/t38/s3102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3102
-[/us/pl/107/330/s308/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F330%2Fs308%2Fh
+[/us/pl/107/330/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F330%2FtIII
 [/us/stat/116/2829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2829
 [/us/pl/107/330/s308/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F330%2Fs308%2Fh
 [/us/pl/107/103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F103

@@ -71,7 +71,7 @@
 
         (2) the Secretary, the Secretary of Defense, the Attorney General, and the Special Counsel each have electronic access to the case files reviewed under this chapter by the Secretary, the Secretary of Defense, the Attorney General, and the Special Counsel with due regard for the provisions of [section 552a of title 5][/us/usc/t5/s552a].
 
-(Added [Pub. L. 103–353, § 2(a)][/us/pl/103/353/s2/a], Oct. 13, 1994, [108 Stat. 3168][/us/stat/108/3168]; amended [Pub. L. 108–454, title II, § 202][/us/pl/108/454/s202], Dec. 10, 2004, [118 Stat. 3606][/us/stat/118/3606]; [Pub. L. 110–181, div. A, title V, § 595][/us/pl/110/181/s595], Jan. 28, 2008, [122 Stat. 139][/us/stat/122/139]; [Pub. L. 110–389, title III, § 312(a)][/us/pl/110/389/s312/a]–(d), Oct. 10, 2008, [122 Stat. 4164][/us/stat/122/4164], 4165.)
+(Added [Pub. L. 103–353][/us/pl/103/353], § 2(a), Oct. 13, 1994, [108 Stat. 3168][/us/stat/108/3168]; amended [Pub. L. 108–454, title II][/us/pl/108/454/tII], § 202, Dec. 10, 2004, [118 Stat. 3606][/us/stat/118/3606]; [Pub. L. 110–181, div. A, title V][/us/pl/110/181/dA/tV], § 595, Jan. 28, 2008, [122 Stat. 139][/us/stat/122/139]; [Pub. L. 110–389, title III][/us/pl/110/389/tIII], § 312(a)–(d), Oct. 10, 2008, [122 Stat. 4164][/us/stat/122/4164], 4165.)
 
  __Prior Provisions__ 
 
@@ -79,21 +79,21 @@
 
  __Amendments__ 
 
-    2008—[Pub. L. 110–389, § 312(a)][/us/pl/110/389/s312/a], (b)(1), designated existing provisions as subsec. (a), inserted heading, and substituted “, transmit to Congress not later than July 1 each year a report on matters for the fiscal year ending in the year before the year in which such report is transmitted as follows:” for “and no later than February 1, 2005, and annually thereafter, transmit to the Congress, a report containing the following matters for the fiscal year ending before such February 1:” in introductory provisions.
+    2008—[Pub. L. 110–389][/us/pl/110/389], § 312(a), (b)(1), designated existing provisions as subsec. (a), inserted heading, and substituted “, transmit to Congress not later than July 1 each year a report on matters for the fiscal year ending in the year before the year in which such report is transmitted as follows:” for “and no later than February 1, 2005, and annually thereafter, transmit to the Congress, a report containing the following matters for the fiscal year ending before such February 1:” in introductory provisions.
 
     [Pub. L. 110–181][/us/pl/110/181] added par. (2), redesignated former pars. (2) to (6) as (3) to (7), respectively, and in par. (5) substituted “(2), (3), or (4)” for “(2), or (3)”.
 
-    Subsec. (a)(3). [Pub. L. 110–389, § 312(b)(2)][/us/pl/110/389/s312/b/2], inserted “and the number of actions initiated by the Office of Special Counsel before the Merit Systems Protection Board pursuant to section 4324 during such fiscal year” before period at end.
+    Subsec. (a)(3). [Pub. L. 110–389][/us/pl/110/389], § 312(b)(2), inserted “and the number of actions initiated by the Office of Special Counsel before the Merit Systems Protection Board pursuant to section 4324 during such fiscal year” before period at end.
 
-    Subsec. (a)(5) to (10). [Pub. L. 110–389, § 312(b)(3)][/us/pl/110/389/s312/b/3]–(7), added pars. (5), (6), and (8), redesignated former pars. (5), (6), and (7) as (7), (9), and (10), respectively, and in par. (7), substituted “(4), or (5)” for “or (4)”.
+    Subsec. (a)(5) to (10). [Pub. L. 110–389][/us/pl/110/389], § 312(b)(3)–(7), added pars. (5), (6), and (8), redesignated former pars. (5), (6), and (7) as (7), (9), and (10), respectively, and in par. (7), substituted “(4), or (5)” for “or (4)”.
 
-    Subsecs. (b), (c). [Pub. L. 110–389, § 312(c)][/us/pl/110/389/s312/c], (d), added subsecs. (b) and (c).
+    Subsecs. (b), (c). [Pub. L. 110–389][/us/pl/110/389], § 312(c), (d), added subsecs. (b) and (c).
 
     2004—[Pub. L. 108–454][/us/pl/108/454] substituted “no later than February 1, 2005, and annually thereafter” for “no later than February 1, 1996, and annually thereafter through 2000” in introductory provisions.
 
  __Effective Date of 2008 Amendment__ 
 
-[Pub. L. 110–389, title III, § 312(f)][/us/pl/110/389/s312/f], Oct. 10, 2008, [122 Stat. 4166][/us/stat/122/4166], provided that: 
+[Pub. L. 110–389, title III][/us/pl/110/389/tIII], § 312(f), Oct. 10, 2008, [122 Stat. 4166][/us/stat/122/4166], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall apply with respect to each report required under [section 4332 of title 38][/us/usc/t38/s4332], United States Code (as amended by this section), after the date of the enactment of this Act \[Oct. 10, 2008\].”
 
@@ -115,22 +115,22 @@
 [/us/usc/t38/s4324/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs4324%2Fa
 [/us/usc/t38/s4324/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs4324%2Fa
 [/us/usc/t5/s552a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552a
-[/us/pl/103/353/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F353%2Fs2%2Fa
+[/us/pl/103/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F353
 [/us/stat/108/3168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3168
-[/us/pl/108/454/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F454%2Fs202
+[/us/pl/108/454/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F454%2FtII
 [/us/stat/118/3606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3606
-[/us/pl/110/181/s595]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs595
+[/us/pl/110/181/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtV
 [/us/stat/122/139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F139
-[/us/pl/110/389/s312/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F389%2Fs312%2Fa
+[/us/pl/110/389/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F389%2FtIII
 [/us/stat/122/4164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4164
 [/us/usc/t38/s7632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7632
-[/us/pl/110/389/s312/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F389%2Fs312%2Fa
+[/us/pl/110/389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F389
 [/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
-[/us/pl/110/389/s312/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F389%2Fs312%2Fb%2F2
-[/us/pl/110/389/s312/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F389%2Fs312%2Fb%2F3
-[/us/pl/110/389/s312/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F389%2Fs312%2Fc
+[/us/pl/110/389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F389
+[/us/pl/110/389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F389
+[/us/pl/110/389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F389
 [/us/pl/108/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F454
-[/us/pl/110/389/s312/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F389%2Fs312%2Ff
+[/us/pl/110/389/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F389%2FtIII
 [/us/stat/122/4166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4166
 [/us/usc/t38/s4332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs4332
 [/us/pl/103/353/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F353%2Fs8

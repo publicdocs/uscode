@@ -61,7 +61,7 @@
 
         (3) The period for which, by reason of this subsection, a subsistence allowance and other assistance is not charged against entitlement or counted toward the applicable aggregate period under [section 3695 of this title][/us/usc/t38/s3695] shall be the period of participation in the vocational rehabilitation program for which the veteran failed to receive credit or with respect to which the veteran lost training time, as determined by the Secretary.
 
-(Added [Pub. L. 96–466, title I, § 101(a)][/us/pl/96/466/s101/a], Oct. 17, 1980, [94 Stat. 2176][/us/stat/94/2176], § 1505; amended [Pub. L. 99–576, title III, § 333(b)(3)][/us/pl/99/576/s333/b/3], Oct. 28, 1986, [100 Stat. 3279][/us/stat/100/3279]; [Pub. L. 101–237, title IV, § 423(b)(1)(A)][/us/pl/101/237/s423/b/1/A], Dec. 18, 1989, [103 Stat. 2092][/us/stat/103/2092]; renumbered § 3105 and amended [Pub. L. 102–83, § 5(a)][/us/pl/102/83/s5/a], (c)(1), Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406]; [Pub. L. 104–275, title I, § 101(e)][/us/pl/104/275/s101/e], Oct. 9, 1996, [110 Stat. 3324][/us/stat/110/3324]; [Pub. L. 107–103, title I, § 103(c)(1)][/us/pl/107/103/s103/c/1], Dec. 27, 2001, [115 Stat. 979][/us/stat/115/979]; [Pub. L. 110–389, title III, § 331][/us/pl/110/389/s331], Oct. 10, 2008, [122 Stat. 4170][/us/stat/122/4170]; [Pub. L. 112–56, title II, § 233(a)(2)][/us/pl/112/56/s233/a/2], Nov. 21, 2011, [125 Stat. 720][/us/stat/125/720].)
+(Added [Pub. L. 96–466, title I][/us/pl/96/466/tI], § 101(a), Oct. 17, 1980, [94 Stat. 2176][/us/stat/94/2176], § 1505; amended [Pub. L. 99–576, title III][/us/pl/99/576/tIII], § 333(b)(3), Oct. 28, 1986, [100 Stat. 3279][/us/stat/100/3279]; [Pub. L. 101–237, title IV][/us/pl/101/237/tIV], § 423(b)(1)(A), Dec. 18, 1989, [103 Stat. 2092][/us/stat/103/2092]; renumbered § 3105 and amended [Pub. L. 102–83][/us/pl/102/83], § 5(a), (c)(1), Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406]; [Pub. L. 104–275, title I][/us/pl/104/275/tI], § 101(e), Oct. 9, 1996, [110 Stat. 3324][/us/stat/110/3324]; [Pub. L. 107–103, title I][/us/pl/107/103/tI], § 103(c)(1), Dec. 27, 2001, [115 Stat. 979][/us/stat/115/979]; [Pub. L. 110–389, title III][/us/pl/110/389/tIII], § 331, Oct. 10, 2008, [122 Stat. 4170][/us/stat/122/4170]; [Pub. L. 112–56, title II][/us/pl/112/56/tII], § 233(a)(2), Nov. 21, 2011, [125 Stat. 720][/us/stat/125/720].)
 
  __Prior Provisions__ 
 
@@ -77,19 +77,19 @@
 
     1996—Subsec. (c)(1). [Pub. L. 104–275][/us/pl/104/275] substituted “veteran’s current employment” for “veteran’s employment”.
 
-    1991—[Pub. L. 102–83, § 5(a)][/us/pl/102/83/s5/a], renumbered [section 1505 of this title][/us/usc/t38/s1505] as this section.
+    1991—[Pub. L. 102–83][/us/pl/102/83], § 5(a), renumbered [section 1505 of this title][/us/usc/t38/s1505] as this section.
 
-    Subsec. (a). [Pub. L. 102–83, § 5(c)(1)][/us/pl/102/83/s5/c/1], substituted “3106(c)” for “1506(c)”.
+    Subsec. (a). [Pub. L. 102–83][/us/pl/102/83], § 5(c)(1), substituted “3106(c)” for “1506(c)”.
 
-    Subsec. (b). [Pub. L. 102–83, § 5(c)(1)][/us/pl/102/83/s5/c/1], substituted “3104(a)(2)” for “1504(a)(2)”.
+    Subsec. (b). [Pub. L. 102–83][/us/pl/102/83], § 5(c)(1), substituted “3104(a)(2)” for “1504(a)(2)”.
 
     1989—[Pub. L. 101–237][/us/pl/101/237] substituted “Secretary” for “Administrator” wherever appearing.
 
-    1986—Subsec. (a). [Pub. L. 99–576, § 333(b)(3)(A)][/us/pl/99/576/s333/b/3/A], inserted “currently” after “it”.
+    1986—Subsec. (a). [Pub. L. 99–576][/us/pl/99/576], § 333(b)(3)(A), inserted “currently” after “it”.
 
-    Subsec. (b). [Pub. L. 99–576, § 333(b)(3)(B)][/us/pl/99/576/s333/b/3/B], inserted “current” after “of the”.
+    Subsec. (b). [Pub. L. 99–576][/us/pl/99/576], § 333(b)(3)(B), inserted “current” after “of the”.
 
-    Subsec. (d). [Pub. L. 99–576, § 333(b)(3)(C)][/us/pl/99/576/s333/b/3/C], inserted “currently” after “goal”.
+    Subsec. (d). [Pub. L. 99–576][/us/pl/99/576], § 333(b)(3)(C), inserted “currently” after “goal”.
 
  __Effective Date of 2011 Amendment__ 
 
@@ -114,35 +114,35 @@
 [/us/usc/t38/s3102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3102%2Fb
 [/us/usc/t38/s3695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3695
 [/us/usc/t38/s3695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3695
-[/us/pl/96/466/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F466%2Fs101%2Fa
+[/us/pl/96/466/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F466%2FtI
 [/us/stat/94/2176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2176
-[/us/pl/99/576/s333/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2Fs333%2Fb%2F3
+[/us/pl/99/576/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2FtIII
 [/us/stat/100/3279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3279
-[/us/pl/101/237/s423/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237%2Fs423%2Fb%2F1%2FA
+[/us/pl/101/237/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237%2FtIV
 [/us/stat/103/2092]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2092
-[/us/pl/102/83/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fa
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F406
-[/us/pl/104/275/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275%2Fs101%2Fe
+[/us/pl/104/275/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275%2FtI
 [/us/stat/110/3324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3324
-[/us/pl/107/103/s103/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F103%2Fs103%2Fc%2F1
+[/us/pl/107/103/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F103%2FtI
 [/us/stat/115/979]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F979
-[/us/pl/110/389/s331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F389%2Fs331
+[/us/pl/110/389/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F389%2FtIII
 [/us/stat/122/4170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4170
-[/us/pl/112/56/s233/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F56%2Fs233%2Fa%2F2
+[/us/pl/112/56/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F56%2FtII
 [/us/stat/125/720]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F720
 [/us/usc/t38/s5305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs5305
 [/us/pl/112/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F56
 [/us/pl/110/389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F389
 [/us/pl/107/103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F103
 [/us/pl/104/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275
-[/us/pl/102/83/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fa
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/usc/t38/s1505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1505
-[/us/pl/102/83/s5/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fc%2F1
-[/us/pl/102/83/s5/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fc%2F1
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/pl/101/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237
-[/us/pl/99/576/s333/b/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2Fs333%2Fb%2F3%2FA
-[/us/pl/99/576/s333/b/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2Fs333%2Fb%2F3%2FB
-[/us/pl/99/576/s333/b/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2Fs333%2Fb%2F3%2FC
+[/us/pl/99/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576
+[/us/pl/99/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576
+[/us/pl/99/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576
 [/us/pl/112/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F56
 [/us/pl/112/56/s233/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F56%2Fs233%2Fc
 [/us/usc/t38/s3102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3102

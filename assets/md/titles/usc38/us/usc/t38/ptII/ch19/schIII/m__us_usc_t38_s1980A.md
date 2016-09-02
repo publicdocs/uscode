@@ -139,27 +139,27 @@
 
             (B) elect that a court of proper jurisdiction designate an individual as the member’s fiduciary or trustee for purposes of subsection (a) in the event that the member becomes medically incapacitated or experiences an extended loss of consciousness.
 
-(Added [Pub. L. 109–13, div. A, title I, § 1032(a)(2)][/us/pl/109/13/s1032/a/2], May 11, 2005, [119 Stat. 257][/us/stat/119/257]; amended [Pub. L. 109–233, title V, § 501(a)][/us/pl/109/233/s501/a], June 15, 2006, [120 Stat. 411][/us/stat/120/411]; [Pub. L. 110–181, div. A, title XVII, § 1711][/us/pl/110/181/s1711], Jan. 28, 2008, [122 Stat. 495][/us/stat/122/495]; [Pub. L. 111–275, title IV, § 406(a)(1)][/us/pl/111/275/s406/a/1], title X, § 1001(d)(2), Oct. 13, 2010, [124 Stat. 2880][/us/stat/124/2880], 2896.)
+(Added [Pub. L. 109–13, div. A, title I][/us/pl/109/13/dA/tI], § 1032(a)(2), May 11, 2005, [119 Stat. 257][/us/stat/119/257]; amended [Pub. L. 109–233, title V][/us/pl/109/233/tV], § 501(a), June 15, 2006, [120 Stat. 411][/us/stat/120/411]; [Pub. L. 110–181, div. A, title XVII][/us/pl/110/181/dA/tXVII], § 1711, Jan. 28, 2008, [122 Stat. 495][/us/stat/122/495]; [Pub. L. 111–275, title IV][/us/pl/111/275/tIV], § 406(a)(1), title X, § 1001(d)(2), Oct. 13, 2010, [124 Stat. 2880][/us/stat/124/2880], 2896.)
 
  __Amendments__ 
 
-    2010—Subsec. (d). [Pub. L. 111–275, § 406(a)(1)][/us/pl/111/275/s406/a/1], designated existing provisions as par. (1) and added par. (2).
+    2010—Subsec. (d). [Pub. L. 111–275][/us/pl/111/275], § 406(a)(1), designated existing provisions as par. (1) and added par. (2).
 
-    Subsec. (h). [Pub. L. 111–275, § 1001(d)(2)][/us/pl/111/275/s1001/d/2], inserted “section” before “1968(a)”.
+    Subsec. (h). [Pub. L. 111–275][/us/pl/111/275], § 1001(d)(2), inserted “section” before “1968(a)”.
 
     2008—Subsec. (k). [Pub. L. 110–181][/us/pl/110/181] added subsec. (k).
 
-    2006—Subsec. (a). [Pub. L. 109–233, § 501(a)(1)][/us/pl/109/233/s501/a/1], amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “A member who is insured under subparagraph (A)(i), (B), or (C)(i) of section 1967(a)(1) shall automatically be issued a traumatic injury protection rider that will provide for a payment not to exceed $100,000 if the member, while so insured, sustains a traumatic injury that results in a loss described in subsection (b)(1). The maximum amount payable for all injuries resulting from the same traumatic event shall be limited to $100,000. If a member suffers more than 1 such loss as a result of traumatic injury, payment will be made in accordance with the schedule in subsection (d) for the single loss providing the highest payment.”
+    2006—Subsec. (a). [Pub. L. 109–233][/us/pl/109/233], § 501(a)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “A member who is insured under subparagraph (A)(i), (B), or (C)(i) of section 1967(a)(1) shall automatically be issued a traumatic injury protection rider that will provide for a payment not to exceed $100,000 if the member, while so insured, sustains a traumatic injury that results in a loss described in subsection (b)(1). The maximum amount payable for all injuries resulting from the same traumatic event shall be limited to $100,000. If a member suffers more than 1 such loss as a result of traumatic injury, payment will be made in accordance with the schedule in subsection (d) for the single loss providing the highest payment.”
 
-    Subsec. (b)(1). [Pub. L. 109–233, § 501(a)(2)(A)][/us/pl/109/233/s501/a/2/A], substituted “insured against traumatic injury under this section is insured against such losses due to traumatic injury (in this section referred to as ‘qualifying losses’) as are prescribed by the Secretary by regulation. Qualifying losses so prescribed shall include the following:” for “issued a traumatic injury protection rider under subsection (a) is insured against such traumatic injuries, as prescribed by the Secretary, in collaboration with the Secretary of Defense, including, but not limited to—” in introductory provisions, capitalized first letter of first word in subpars. (A) to (H), substituted a period for the semicolon at the end of subpars. (A) to (F), and substituted a period for “; and” at the end of subpar. (G).
+    Subsec. (b)(1). [Pub. L. 109–233][/us/pl/109/233], § 501(a)(2)(A), substituted “insured against traumatic injury under this section is insured against such losses due to traumatic injury (in this section referred to as ‘qualifying losses’) as are prescribed by the Secretary by regulation. Qualifying losses so prescribed shall include the following:” for “issued a traumatic injury protection rider under subsection (a) is insured against such traumatic injuries, as prescribed by the Secretary, in collaboration with the Secretary of Defense, including, but not limited to—” in introductory provisions, capitalized first letter of first word in subpars. (A) to (H), substituted a period for the semicolon at the end of subpars. (A) to (F), and substituted a period for “; and” at the end of subpar. (G).
 
-    Subsec. (b)(2). [Pub. L. 109–233, § 501(a)(2)(B)][/us/pl/109/233/s501/a/2/B], substituted “subsection:” for “subsection—” in introductory provisions, “The” for “the” at the beginning of subpars. (A) to (C), “four limbs.” for “4 limbs;” in subpar. (A), a period for “; and” in subpar. (B), and “one side” for “1 side” in subpar. (C), and added subpar. (D).
+    Subsec. (b)(2). [Pub. L. 109–233][/us/pl/109/233], § 501(a)(2)(B), substituted “subsection:” for “subsection—” in introductory provisions, “The” for “the” at the beginning of subpars. (A) to (C), “four limbs.” for “4 limbs;” in subpar. (A), a period for “; and” in subpar. (B), and “one side” for “1 side” in subpar. (C), and added subpar. (D).
 
-    Subsec. (b)(3). [Pub. L. 109–233, § 501(a)(2)(C)][/us/pl/109/233/s501/a/2/C], struck out “, in collaboration with the Secretary of Defense,” after “The Secretary” and substituted “may prescribe” for “shall prescribe” and “conditions under which coverage otherwise provided under this section is excluded” for “the conditions under which coverage against loss will not be provided”.
+    Subsec. (b)(3). [Pub. L. 109–233][/us/pl/109/233], § 501(a)(2)(C), struck out “, in collaboration with the Secretary of Defense,” after “The Secretary” and substituted “may prescribe” for “shall prescribe” and “conditions under which coverage otherwise provided under this section is excluded” for “the conditions under which coverage against loss will not be provided”.
 
-    Subsec. (b)(4). [Pub. L. 109–233, § 501(a)(2)(D)][/us/pl/109/233/s501/a/2/D], added par. (4).
+    Subsec. (b)(4). [Pub. L. 109–233][/us/pl/109/233], § 501(a)(2)(D), added par. (4).
 
-    Subsec. (c). [Pub. L. 109–233, § 501(a)(3)][/us/pl/109/233/s501/a/3], amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “A payment under this section may be made only if—
+    Subsec. (c). [Pub. L. 109–233][/us/pl/109/233], § 501(a)(3), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “A payment under this section may be made only if—
 
     “(1) the member is insured under Servicemembers’ Group Life Insurance when the traumatic injury is sustained;
 
@@ -167,7 +167,7 @@
 
     “(3) the member suffers the loss before the end of the period prescribed by the Secretary, in collaboration with the Secretary of Defense, which begins on the date on which the member sustains the traumatic injury, except, if the loss is quadriplegia, paraplegia, or hemiplegia, the member suffers the loss not later than 365 days after sustaining the traumatic injury.”
 
-    Subsec. (d). [Pub. L. 109–233, § 501(a)(4)][/us/pl/109/233/s501/a/4], substituted “qualifying losses shall be made in accordance with a schedule prescribed by the Secretary, by regulation, specifying the amount of payment to be made for each type of qualifying loss, to be based on the severity of the qualifying loss. The minimum payment that may be prescribed for a qualifying loss is $25,000, and the maximum payment that may be prescribed for a qualifying loss is $100,000.” for “losses described in subsection (b)(1) shall be—
+    Subsec. (d). [Pub. L. 109–233][/us/pl/109/233], § 501(a)(4), substituted “qualifying losses shall be made in accordance with a schedule prescribed by the Secretary, by regulation, specifying the amount of payment to be made for each type of qualifying loss, to be based on the severity of the qualifying loss. The minimum payment that may be prescribed for a qualifying loss is $25,000, and the maximum payment that may be prescribed for a qualifying loss is $100,000.” for “losses described in subsection (b)(1) shall be—
 
     “(1) made in accordance with a schedule prescribed by the Secretary, in collaboration with the Secretary of Defense;
 
@@ -175,7 +175,7 @@
 
     “(3) in an amount that is equal to not less than $25,000 and not more than $100,000.”
 
-    Subsec. (e). [Pub. L. 109–233, § 501(a)(5)][/us/pl/109/233/s501/a/5], substituted “Secretary concerned” for “Secretary of the concerned service” in par. (2) and “Secretary” for “Secretary of Veterans Affairs” wherever appearing in pars. (1) to (5), struck out “as the premium allocable to the pay period for providing traumatic injury protection under this section” before “(which shall be the same for all such members)” in par. (1), added pars. (6) to (8), and struck out former pars. (6) to (8), which read as follows:
+    Subsec. (e). [Pub. L. 109–233][/us/pl/109/233], § 501(a)(5), substituted “Secretary concerned” for “Secretary of the concerned service” in par. (2) and “Secretary” for “Secretary of Veterans Affairs” wherever appearing in pars. (1) to (5), struck out “as the premium allocable to the pay period for providing traumatic injury protection under this section” before “(which shall be the same for all such members)” in par. (1), added pars. (6) to (8), and struck out former pars. (6) to (8), which read as follows:
 
     “(6) The cost attributable to insuring such member under this section, less the premiums deducted from the pay of the member’s uniformed service, shall be paid by the Secretary of Defense to the Secretary of Veterans Affairs. This amount shall be paid on a monthly basis, and shall be due within 10 days of the notice provided by the Secretary of Veterans Affairs to the Secretary of the concerned uniformed service.
 
@@ -183,23 +183,23 @@
 
     “(8) The Secretary of Defense shall forward an amount to the Secretary of Veterans Affairs that is equivalent to half the anticipated cost of claims for the current fiscal year, upon the effective date of this legislation.”
 
-    Subsec. (f). [Pub. L. 109–233, § 501(a)(6)][/us/pl/109/233/s501/a/6], amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: “The Secretary of Defense shall certify whether any member claiming the benefit under this section is eligible.”
+    Subsec. (f). [Pub. L. 109–233][/us/pl/109/233], § 501(a)(6), amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: “The Secretary of Defense shall certify whether any member claiming the benefit under this section is eligible.”
 
-    Subsec. (g). [Pub. L. 109–233, § 501(a)(7)][/us/pl/109/233/s501/a/7], designated first sentence as par. (1), substituted “may not be made under the insurance coverage under this section” for “will not be made” and “a period prescribed by the Secretary, by regulation, for such purpose that begins on the date” for “the period prescribed by the Secretary, in collaboration with the Secretary of Defense, which begins on the date”, designated second sentence as par. (2), and substituted “If a member eligible for a payment under this section” for “If the member”, “shall be” for “will be”, and “to the beneficiary or beneficiaries to whom the payment would be made if the payment were life insurance under [section 1967(a) of this title][/us/usc/t38/s1967/a].” for “according to the member’s most current beneficiary designation under Servicemembers’ Group Life Insurance, or a by law designation, if applicable.”
+    Subsec. (g). [Pub. L. 109–233][/us/pl/109/233], § 501(a)(7), designated first sentence as par. (1), substituted “may not be made under the insurance coverage under this section” for “will not be made” and “a period prescribed by the Secretary, by regulation, for such purpose that begins on the date” for “the period prescribed by the Secretary, in collaboration with the Secretary of Defense, which begins on the date”, designated second sentence as par. (2), and substituted “If a member eligible for a payment under this section” for “If the member”, “shall be” for “will be”, and “to the beneficiary or beneficiaries to whom the payment would be made if the payment were life insurance under [section 1967(a) of this title][/us/usc/t38/s1967/a].” for “according to the member’s most current beneficiary designation under Servicemembers’ Group Life Insurance, or a by law designation, if applicable.”
 
-    Subsec. (h). [Pub. L. 109–233, § 501(a)(8)][/us/pl/109/233/s501/a/8], substituted “termination of the member’s duty status in the uniformed services that established eligibility for Servicemembers’ Group Life Insurance” for “member’s separation from the uniformed service” in first sentence, added second sentence, and struck out former second sentence which read as follows: “Payment will not be made for any loss resulting from injury incurred after the date a member is separated from the uniformed services.”
+    Subsec. (h). [Pub. L. 109–233][/us/pl/109/233], § 501(a)(8), substituted “termination of the member’s duty status in the uniformed services that established eligibility for Servicemembers’ Group Life Insurance” for “member’s separation from the uniformed service” in first sentence, added second sentence, and struck out former second sentence which read as follows: “Payment will not be made for any loss resulting from injury incurred after the date a member is separated from the uniformed services.”
 
-    Subsec. (j). [Pub. L. 109–233, § 501(a)(9)][/us/pl/109/233/s501/a/9], added subsec. (j).
+    Subsec. (j). [Pub. L. 109–233][/us/pl/109/233], § 501(a)(9), added subsec. (j).
 
  __Effective Date of 2010 Amendment__ 
 
-[Pub. L. 111–275, title IV, § 406(a)(2)][/us/pl/111/275/s406/a/2], Oct. 13, 2010, [124 Stat. 2880][/us/stat/124/2880], provided that: 
+[Pub. L. 111–275, title IV][/us/pl/111/275/tIV], § 406(a)(2), Oct. 13, 2010, [124 Stat. 2880][/us/stat/124/2880], provided that: 
 
 > “The amendments made by paragraph (1) \[amending this section\] shall take effect on October 1, 2011.”
 
  __Effective Date__ 
 
-[Pub. L. 109–13, div. A, title I, § 1032(d)][/us/pl/109/13/s1032/d], May 11, 2005, [119 Stat. 259][/us/stat/119/259], provided that:
+[Pub. L. 109–13, div. A, title I][/us/pl/109/13/dA/tI], § 1032(d), May 11, 2005, [119 Stat. 259][/us/stat/119/259], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -211,7 +211,7 @@
 
  __Payments for Qualifying Losses Incurred Before__  __October 13, 2010__ 
 
-[Pub. L. 111–275, title IV, § 406(b)][/us/pl/111/275/s406/b], Oct. 13, 2010, [124 Stat. 2880][/us/stat/124/2880], provided that:
+[Pub. L. 111–275, title IV][/us/pl/111/275/tIV], § 406(b), Oct. 13, 2010, [124 Stat. 2880][/us/stat/124/2880], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -227,7 +227,7 @@
 
  __Retroactive Provision__ 
 
-[Pub. L. 109–233, title V, § 501(b)][/us/pl/109/233/s501/b], June 15, 2006, [120 Stat. 414][/us/stat/120/414], as amended by [Pub. L. 111–275, title IV, § 408(a)][/us/pl/111/275/s408/a], Oct. 13, 2010, [124 Stat. 2881][/us/stat/124/2881], provided that:
+[Pub. L. 109–233, title V][/us/pl/109/233/tV], § 501(b), June 15, 2006, [120 Stat. 414][/us/stat/120/414], as amended by [Pub. L. 111–275, title IV][/us/pl/111/275/tIV], § 408(a), Oct. 13, 2010, [124 Stat. 2881][/us/stat/124/2881], provided that:
 
 >     “(1)  __Eligibility__  __.—__ 
 
@@ -253,13 +253,13 @@
 
 >     For purposes of this subsection, the term ‘Secretary concerned’ has the meaning given that term in paragraph (25) of [section 101 of title 38][/us/usc/t38/s101], United States Code.”
 
-\[[Pub. L. 111–275, title IV, § 408(c)][/us/pl/111/275/s408/c], Oct. 13, 2010, [124 Stat. 2881][/us/stat/124/2881], provided that: 
+\[[Pub. L. 111–275, title IV][/us/pl/111/275/tIV], § 408(c), Oct. 13, 2010, [124 Stat. 2881][/us/stat/124/2881], provided that: 
 
 > “The amendments made by this section \[amending [section 501(b)(1) of Pub. L. 109–233][/us/pl/109/233/s501/b/1], set out above\] shall take effect on October 1, 2011.”
 
 \]
 
-    [Pub. L. 109–13, div. A, title I, § 1032(c)][/us/pl/109/13/s1032/c], May 11, 2005, [119 Stat. 259][/us/stat/119/259], which provided for retroactive traumatic injury benefits, was repealed by [Pub. L. 109–233, title V, § 501(c)(2)][/us/pl/109/233/s501/c/2], June 15, 2006, [120 Stat. 415][/us/stat/120/415].
+    [Pub. L. 109–13, div. A, title I][/us/pl/109/13/dA/tI], § 1032(c), May 11, 2005, [119 Stat. 259][/us/stat/119/259], which provided for retroactive traumatic injury benefits, was repealed by [Pub. L. 109–233, title V][/us/pl/109/233/tV], § 501(c)(2), June 15, 2006, [120 Stat. 415][/us/stat/120/415].
 
 ----------
 
@@ -274,54 +274,54 @@
 [/us/usc/t38/s1869/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1869%2Fd%2F1
 [/us/usc/t38/s1967/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1967%2Fa
 [/us/usc/t38/s1968/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1968%2Fa
-[/us/pl/109/13/s1032/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F13%2Fs1032%2Fa%2F2
+[/us/pl/109/13/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F13%2FdA%2FtI
 [/us/stat/119/257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F257
-[/us/pl/109/233/s501/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F233%2Fs501%2Fa
+[/us/pl/109/233/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F233%2FtV
 [/us/stat/120/411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F411
-[/us/pl/110/181/s1711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1711
+[/us/pl/110/181/dA/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtXVII
 [/us/stat/122/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F495
-[/us/pl/111/275/s406/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275%2Fs406%2Fa%2F1
+[/us/pl/111/275/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275%2FtIV
 [/us/stat/124/2880]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2880
-[/us/pl/111/275/s406/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275%2Fs406%2Fa%2F1
-[/us/pl/111/275/s1001/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275%2Fs1001%2Fd%2F2
+[/us/pl/111/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275
+[/us/pl/111/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275
 [/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
-[/us/pl/109/233/s501/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F233%2Fs501%2Fa%2F1
-[/us/pl/109/233/s501/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F233%2Fs501%2Fa%2F2%2FA
-[/us/pl/109/233/s501/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F233%2Fs501%2Fa%2F2%2FB
-[/us/pl/109/233/s501/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F233%2Fs501%2Fa%2F2%2FC
-[/us/pl/109/233/s501/a/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F233%2Fs501%2Fa%2F2%2FD
-[/us/pl/109/233/s501/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F233%2Fs501%2Fa%2F3
-[/us/pl/109/233/s501/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F233%2Fs501%2Fa%2F4
-[/us/pl/109/233/s501/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F233%2Fs501%2Fa%2F5
-[/us/pl/109/233/s501/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F233%2Fs501%2Fa%2F6
-[/us/pl/109/233/s501/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F233%2Fs501%2Fa%2F7
+[/us/pl/109/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F233
+[/us/pl/109/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F233
+[/us/pl/109/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F233
+[/us/pl/109/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F233
+[/us/pl/109/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F233
+[/us/pl/109/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F233
+[/us/pl/109/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F233
+[/us/pl/109/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F233
+[/us/pl/109/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F233
+[/us/pl/109/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F233
 [/us/usc/t38/s1967/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1967%2Fa
-[/us/pl/109/233/s501/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F233%2Fs501%2Fa%2F8
-[/us/pl/109/233/s501/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F233%2Fs501%2Fa%2F9
-[/us/pl/111/275/s406/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275%2Fs406%2Fa%2F2
+[/us/pl/109/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F233
+[/us/pl/109/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F233
+[/us/pl/111/275/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275%2FtIV
 [/us/stat/124/2880]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2880
-[/us/pl/109/13/s1032/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F13%2Fs1032%2Fd
+[/us/pl/109/13/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F13%2FdA%2FtI
 [/us/stat/119/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F259
 [/us/usc/t38/s1965]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1965
-[/us/pl/111/275/s406/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275%2Fs406%2Fb
+[/us/pl/111/275/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275%2FtIV
 [/us/stat/124/2880]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2880
 [/us/usc/t38/s1980A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1980A
 [/us/usc/t38/s1980A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1980A
-[/us/pl/109/233/s501/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F233%2Fs501%2Fb
+[/us/pl/109/233/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F233%2FtV
 [/us/stat/120/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F414
-[/us/pl/111/275/s408/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275%2Fs408%2Fa
+[/us/pl/111/275/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275%2FtIV
 [/us/stat/124/2881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2881
 [/us/usc/t38/s1980A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1980A
 [/us/usc/t38/s1980A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1980A
 [/us/usc/t38/s1969/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1969%2Fd
 [/us/usc/t38/s1980A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1980A
 [/us/usc/t38/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs101
-[/us/pl/111/275/s408/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275%2Fs408%2Fc
+[/us/pl/111/275/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275%2FtIV
 [/us/stat/124/2881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2881
 [/us/pl/109/233/s501/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F233%2Fs501%2Fb%2F1
-[/us/pl/109/13/s1032/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F13%2Fs1032%2Fc
+[/us/pl/109/13/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F13%2FdA%2FtI
 [/us/stat/119/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F259
-[/us/pl/109/233/s501/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F233%2Fs501%2Fc%2F2
+[/us/pl/109/233/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F233%2FtV
 [/us/stat/120/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F415
 
 

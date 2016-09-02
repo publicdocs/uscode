@@ -37,13 +37,13 @@
 
     (c) The premium rate of any term insurance issued under this section shall not exceed the renewal age 70 premium rate.
 
-([Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1155][/us/stat/72/1155], § 722; renumbered § 1922 and amended [Pub. L. 102–83][/us/pl/102/83], §§ 4(a)(2)(A)(iii)(IV), (D)(i), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, [105 Stat. 403–406][/us/stat/105/403-406]; [Pub. L. 102–86, title II][/us/pl/102/86], §§ 201(a), 202(a), Aug. 14, 1991, [105 Stat. 415][/us/stat/105/415], 416; [Pub. L. 103–446, title XII, § 1201(i)(2)][/us/pl/103/446/s1201/i/2], Nov. 2, 1994, [108 Stat. 4688][/us/stat/108/4688]; [Pub. L. 106–419, title III, § 311(a)][/us/pl/106/419/s311/a], Nov. 1, 2000, [114 Stat. 1854][/us/stat/114/1854]; [Pub. L. 110–389, title IV, § 404][/us/pl/110/389/s404], Oct. 10, 2008, [122 Stat. 4175][/us/stat/122/4175]; [Pub. L. 111–117, div. E, title II, § 226][/us/pl/111/117/s226], Dec. 16, 2009, [123 Stat. 3307][/us/stat/123/3307].)
+([Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1155][/us/stat/72/1155], § 722; renumbered § 1922 and amended [Pub. L. 102–83][/us/pl/102/83], §§ 4(a)(2)(A)(iii)(IV), (D)(i), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, [105 Stat. 403–406][/us/stat/105/403-406]; [Pub. L. 102–86, title II][/us/pl/102/86/tII], §§ 201(a), 202(a), Aug. 14, 1991, [105 Stat. 415][/us/stat/105/415], 416; [Pub. L. 103–446, title XII][/us/pl/103/446/tXII], § 1201(i)(2), Nov. 2, 1994, [108 Stat. 4688][/us/stat/108/4688]; [Pub. L. 106–419, title III][/us/pl/106/419/tIII], § 311(a), Nov. 1, 2000, [114 Stat. 1854][/us/stat/114/1854]; [Pub. L. 110–389, title IV][/us/pl/110/389/tIV], § 404, Oct. 10, 2008, [122 Stat. 4175][/us/stat/122/4175]; [Pub. L. 111–117, div. E, title II][/us/pl/111/117/dE/tII], § 226, Dec. 16, 2009, [123 Stat. 3307][/us/stat/123/3307].)
 
  __References in Text__ 
 
-    Section 602(n) of the National Service Life Insurance Act of 1940, referred to in subsec. (a), is section 602(n) of [act Oct. 8, 1940, ch. 757][/us/act/1940-10-08/ch757], title VI, pt. I, [54 Stat. 1009][/us/stat/54/1009], which enacted section 802(n) of former Title 38, Pensions, Bonuses, and Veterans’ Relief, and which was repealed and the provisions thereof reenacted as section 712 \[now 1912\] of this title by [Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1105][/us/stat/72/1105].
+    Section 602(n) of the National Service Life Insurance Act of 1940, referred to in subsec. (a), is section 602(n) of [act Oct. 8, 1940, ch. 757, title VI][/us/act/1940-10-08/ch757/tVI], pt. I, [54 Stat. 1009][/us/stat/54/1009], which enacted section 802(n) of former Title 38, Pensions, Bonuses, and Veterans’ Relief, and which was repealed and the provisions thereof reenacted as section 712 \[now 1912\] of this title by [Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1105][/us/stat/72/1105].
 
-    Section 620 of the National Service Life Insurance Act of 1940, referred to in subsec. (b)(1), is section 620 of [act Oct. 8, 1940, ch. 757][/us/act/1940-10-08/ch757], title VI, pt. I, as added [Apr. 25, 1951, ch. 39][/us/act/1951-04-25/ch39], pt. II, § 10, [65 Stat. 36][/us/stat/65/36], which enacted section 821 of former Title 38, Pensions, Bonuses, and Veterans’ Relief, and which was repealed and the provisions thereof reenacted as this section by [Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1105][/us/stat/72/1105].
+    Section 620 of the National Service Life Insurance Act of 1940, referred to in subsec. (b)(1), is section 620 of [act Oct. 8, 1940, ch. 757, title VI][/us/act/1940-10-08/ch757/tVI], pt. I, as added [Apr. 25, 1951, ch. 39][/us/act/1951-04-25/ch39], pt. II, § 10, [65 Stat. 36][/us/stat/65/36], which enacted section 821 of former Title 38, Pensions, Bonuses, and Veterans’ Relief, and which was repealed and the provisions thereof reenacted as this section by [Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1105][/us/stat/72/1105].
 
  __Amendments__ 
 
@@ -55,39 +55,39 @@
 
     1994—Subsec. (b)(4). [Pub. L. 103–446][/us/pl/103/446] substituted “Notwithstanding [section 1917 of this title][/us/usc/t38/s1917],” for “Notwithstanding the provisions of [section 1917 of this title][/us/usc/t38/s1917],”.
 
-    1991—[Pub. L. 102–83, § 5(a)][/us/pl/102/83/s5/a], renumbered [section 722 of this title][/us/usc/t38/s722] as this section.
+    1991—[Pub. L. 102–83][/us/pl/102/83], § 5(a), renumbered [section 722 of this title][/us/usc/t38/s722] as this section.
 
-    Subsec. (a). [Pub. L. 102–86, § 201(a)][/us/pl/102/86/s201/a], amended subsec. (a) of this section as in effect before the redesignations made by [Pub. L. 102–83, § 5][/us/pl/102/83/s5], by substituting “two years” for “one year” wherever appearing and “two-year” for “one-year”.
+    Subsec. (a). [Pub. L. 102–86][/us/pl/102/86], § 201(a), amended subsec. (a) of this section as in effect before the redesignations made by [Pub. L. 102–83][/us/pl/102/83], § 5, by substituting “two years” for “one year” wherever appearing and “two-year” for “one-year”.
 
-    [Pub. L. 102–83, § 5(c)(1)][/us/pl/102/83/s5/c/1], substituted “1912” for “712”.
+    [Pub. L. 102–83][/us/pl/102/83], § 5(c)(1), substituted “1912” for “712”.
 
-    [Pub. L. 102–83, § 4(b)(1)][/us/pl/102/83/s4/b/1], (2)(E), substituted “Secretary” for “Administrator” in four places.
+    [Pub. L. 102–83][/us/pl/102/83], § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in four places.
 
-    [Pub. L. 102–83, § 4(a)(2)(A)(iii)(IV)][/us/pl/102/83/s4/a/2/A/iii/IV], substituted “Secretary” for “Veterans’ Administration” after first reference to “determined by the”.
+    [Pub. L. 102–83][/us/pl/102/83], § 4(a)(2)(A)(iii)(IV), substituted “Secretary” for “Veterans’ Administration” after first reference to “determined by the”.
 
-    Subsec. (b)(1). [Pub. L. 102–86, § 201(a)][/us/pl/102/86/s201/a], amended subsec. (b)(1) of this section as in effect before the redesignations made by [Pub. L. 102–83, § 5][/us/pl/102/83/s5], by substituting “two-year” for “one-year” and “two years” for “one year”.
+    Subsec. (b)(1). [Pub. L. 102–86][/us/pl/102/86], § 201(a), amended subsec. (b)(1) of this section as in effect before the redesignations made by [Pub. L. 102–83][/us/pl/102/83], § 5, by substituting “two-year” for “one-year” and “two years” for “one year”.
 
-    [Pub. L. 102–83, § 4(b)(1)][/us/pl/102/83/s4/b/1], (2)(E), substituted “Secretary” for “Administrator” in two places.
+    [Pub. L. 102–83][/us/pl/102/83], § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in two places.
 
-    [Pub. L. 102–83, § 4(a)(2)(A)(iii)(IV)][/us/pl/102/83/s4/a/2/A/iii/IV], substituted “Secretary” for “Veterans’ Administration” in two places.
+    [Pub. L. 102–83][/us/pl/102/83], § 4(a)(2)(A)(iii)(IV), substituted “Secretary” for “Veterans’ Administration” in two places.
 
-    Subsec. (b)(3). [Pub. L. 102–83, § 4(b)(1)][/us/pl/102/83/s4/b/1], (2)(E), substituted “Secretary” for “Administrator” in two places.
+    Subsec. (b)(3). [Pub. L. 102–83][/us/pl/102/83], § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in two places.
 
-    [Pub. L. 102–83, § 4(a)(2)(D)(i)][/us/pl/102/83/s4/a/2/D/i], substituted “with the Secretary” for “in the Veterans’ Administration”.
+    [Pub. L. 102–83][/us/pl/102/83], § 4(a)(2)(D)(i), substituted “with the Secretary” for “in the Veterans’ Administration”.
 
-    Subsec. (b)(4). [Pub. L. 102–86, § 202(a)(1)][/us/pl/102/86/s202/a/1], amended subsec. (b) of this section as in effect before the redesignations made by [Pub. L. 102–83, § 5][/us/pl/102/83/s5], by amending par. (4) generally. Prior to amendment, par. (4) read as follows: “Notwithstanding the provisions of [section 717 of this title][/us/usc/t38/s717], insurance under this subsection shall be payable at the election of the first beneficiary in 240 equal monthly installments or under the options specified in section 717(b)(3) or (4) of this title. Any installments certain of insurance remaining unpaid at the death of any beneficiary shall be paid in equal monthly installments in an amount equal to the monthly installments paid to the first beneficiary, to the person or persons then in being within the classes specified in subsection (b)(2) of this section and in the order named.”
+    Subsec. (b)(4). [Pub. L. 102–86][/us/pl/102/86], § 202(a)(1), amended subsec. (b) of this section as in effect before the redesignations made by [Pub. L. 102–83][/us/pl/102/83], § 5, by amending par. (4) generally. Prior to amendment, par. (4) read as follows: “Notwithstanding the provisions of [section 717 of this title][/us/usc/t38/s717], insurance under this subsection shall be payable at the election of the first beneficiary in 240 equal monthly installments or under the options specified in section 717(b)(3) or (4) of this title. Any installments certain of insurance remaining unpaid at the death of any beneficiary shall be paid in equal monthly installments in an amount equal to the monthly installments paid to the first beneficiary, to the person or persons then in being within the classes specified in subsection (b)(2) of this section and in the order named.”
 
-    [Pub. L. 102–83, § 5(c)(1)][/us/pl/102/83/s5/c/1], amended par. (4) as amended by [Pub. L. 102–86, § 202(a)(1)][/us/pl/102/86/s202/a/1], by substituting “1917” for “717”. See above.
+    [Pub. L. 102–83][/us/pl/102/83], § 5(c)(1), amended par. (4) as amended by [Pub. L. 102–86][/us/pl/102/86], § 202(a)(1), by substituting “1917” for “717”. See above.
 
-    Subsec. (b)(5). [Pub. L. 102–86, § 202(a)(2)][/us/pl/102/86/s202/a/2], amended subsec. (b) of this section as in effect before the redesignations by [Pub. L. 102–83, § 5][/us/pl/102/83/s5], by striking out par. (5) which read as follows: “The right of any beneficiary to payment of any installments shall be conditioned upon his or her being alive to receive such payments. No person shall have a vested right to any installment or installments of any such insurance and any installments not paid to a beneficiary during such beneficiary’s lifetime shall be paid to the beneficiary or beneficiaries within the permitted class next entitled to priority, as provided in subsection (b)(2) of this section. No installments of such insurance shall be paid to the heirs or legal representatives as such of the insured or of any beneficiary, and if no person within the permitted class survives to receive the insurance or any part thereof no payment of the unpaid installments shall be made.”
+    Subsec. (b)(5). [Pub. L. 102–86][/us/pl/102/86], § 202(a)(2), amended subsec. (b) of this section as in effect before the redesignations by [Pub. L. 102–83][/us/pl/102/83], § 5, by striking out par. (5) which read as follows: “The right of any beneficiary to payment of any installments shall be conditioned upon his or her being alive to receive such payments. No person shall have a vested right to any installment or installments of any such insurance and any installments not paid to a beneficiary during such beneficiary’s lifetime shall be paid to the beneficiary or beneficiaries within the permitted class next entitled to priority, as provided in subsection (b)(2) of this section. No installments of such insurance shall be paid to the heirs or legal representatives as such of the insured or of any beneficiary, and if no person within the permitted class survives to receive the insurance or any part thereof no payment of the unpaid installments shall be made.”
 
  __Effective Date of 1991 Amendment__ 
 
-[Pub. L. 102–86, title II, § 201(b)][/us/pl/102/86/s201/b], Aug. 14, 1991, [105 Stat. 415][/us/stat/105/415], provided that: 
+[Pub. L. 102–86, title II][/us/pl/102/86/tII], § 201(b), Aug. 14, 1991, [105 Stat. 415][/us/stat/105/415], provided that: 
 
 > “The amendments made by subsection (a) \[amending this section\] shall apply with respect to any person who, on or after September 1, 1991, is found by the Secretary of Veterans Affairs to be eligible for insurance under section 722 \[now 1922\] of title 38, United States Code.”
 
-[Pub. L. 102–86, title II, § 202(b)][/us/pl/102/86/s202/b], Aug. 14, 1991, [105 Stat. 416][/us/stat/105/416], provided that: 
+[Pub. L. 102–86, title II][/us/pl/102/86/tII], § 202(b), Aug. 14, 1991, [105 Stat. 416][/us/stat/105/416], provided that: 
 
 > “The amendments made by subsection (a) \[amending this section\] shall apply with respect to deaths occurring before, on, or after the date of the enactment of this Act \[Aug. 14, 1991\]. In the case of insurance under section 722(b) \[now 1922(b)\] of title 38, United States Code, payable by reason of a death before the date of the enactment of this Act, the Secretary shall pay the remaining balance of such insurance in a lump sum as soon as practicable after the date of the enactment of this Act.”
 
@@ -104,21 +104,21 @@
 [/us/stat/72/1155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1155
 [/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/403-406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F403-406
-[/us/pl/102/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F86
+[/us/pl/102/86/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F86%2FtII
 [/us/stat/105/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F415
-[/us/pl/103/446/s1201/i/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2Fs1201%2Fi%2F2
+[/us/pl/103/446/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2FtXII
 [/us/stat/108/4688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4688
-[/us/pl/106/419/s311/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419%2Fs311%2Fa
+[/us/pl/106/419/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419%2FtIII
 [/us/stat/114/1854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1854
-[/us/pl/110/389/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F389%2Fs404
+[/us/pl/110/389/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F389%2FtIV
 [/us/stat/122/4175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4175
-[/us/pl/111/117/s226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F117%2Fs226
+[/us/pl/111/117/dE/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F117%2FdE%2FtII
 [/us/stat/123/3307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F3307
-[/us/act/1940-10-08/ch757]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-08%2Fch757
+[/us/act/1940-10-08/ch757/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-08%2Fch757%2FtVI
 [/us/stat/54/1009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F1009
 [/us/pl/85/857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F857
 [/us/stat/72/1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1105
-[/us/act/1940-10-08/ch757]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-08%2Fch757
+[/us/act/1940-10-08/ch757/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-08%2Fch757%2FtVI
 [/us/act/1951-04-25/ch39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-04-25%2Fch39
 [/us/stat/65/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F36
 [/us/pl/85/857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F857
@@ -129,29 +129,29 @@
 [/us/pl/103/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446
 [/us/usc/t38/s1917]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1917
 [/us/usc/t38/s1917]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1917
-[/us/pl/102/83/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fa
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/usc/t38/s722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs722
-[/us/pl/102/86/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F86%2Fs201%2Fa
-[/us/pl/102/83/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5
-[/us/pl/102/83/s5/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fc%2F1
-[/us/pl/102/83/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fb%2F1
-[/us/pl/102/83/s4/a/2/A/iii/IV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fa%2F2%2FA%2Fiii%2FIV
-[/us/pl/102/86/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F86%2Fs201%2Fa
-[/us/pl/102/83/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5
-[/us/pl/102/83/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fb%2F1
-[/us/pl/102/83/s4/a/2/A/iii/IV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fa%2F2%2FA%2Fiii%2FIV
-[/us/pl/102/83/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fb%2F1
-[/us/pl/102/83/s4/a/2/D/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fa%2F2%2FD%2Fi
-[/us/pl/102/86/s202/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F86%2Fs202%2Fa%2F1
-[/us/pl/102/83/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5
+[/us/pl/102/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F86
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F86
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F86
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/usc/t38/s717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs717
-[/us/pl/102/83/s5/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fc%2F1
-[/us/pl/102/86/s202/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F86%2Fs202%2Fa%2F1
-[/us/pl/102/86/s202/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F86%2Fs202%2Fa%2F2
-[/us/pl/102/83/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5
-[/us/pl/102/86/s201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F86%2Fs201%2Fb
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F86
+[/us/pl/102/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F86
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/86/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F86%2FtII
 [/us/stat/105/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F415
-[/us/pl/102/86/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F86%2Fs202%2Fb
+[/us/pl/102/86/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F86%2FtII
 [/us/stat/105/416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F416
 
 

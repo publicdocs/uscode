@@ -47,7 +47,7 @@
 
     (g) The authority of the Secretary to obtain information from the Secretary of the Treasury or the Commissioner of Social Security under section 6103(l)(7)(D)(viii) of the Internal Revenue Code of 1986 expires on September 30, 2024.
 
-(Added [Pub. L. 101–508, title VIII, § 8051(b)(1)][/us/pl/101/508/s8051/b/1], Nov. 5, 1990, [104 Stat. 1388–350][/us/stat/104/1388-350], § 3117; renumbered § 5317, [Pub. L. 102–40, title IV, § 402(b)(1)][/us/pl/102/40/s402/b/1], May 7, 1991, [105 Stat. 238][/us/stat/105/238]; amended [Pub. L. 102–83, § 5(c)(1)][/us/pl/102/83/s5/c/1], Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406]; [Pub. L. 102–568, title VI, § 602(a)][/us/pl/102/568/s602/a], Oct. 29, 1992, [106 Stat. 4342][/us/stat/106/4342]; [Pub. L. 103–66, title XII, § 12004][/us/pl/103/66/s12004], Aug. 10, 1993, [107 Stat. 414][/us/stat/107/414]; [Pub. L. 104–262, title I, § 101(e)(3)][/us/pl/104/262/s101/e/3], Oct. 9, 1996, [110 Stat. 3181][/us/stat/110/3181]; [Pub. L. 105–33, title VIII, § 8014][/us/pl/105/33/s8014], Aug. 5, 1997, [111 Stat. 664][/us/stat/111/664]; [Pub. L. 106–419, title IV, § 402(d)][/us/pl/106/419/s402/d], Nov. 1, 2000, [114 Stat. 1863][/us/stat/114/1863]; [Pub. L. 108–183, title VII, § 708(c)(3)][/us/pl/108/183/s708/c/3], Dec. 16, 2003, [117 Stat. 2674][/us/stat/117/2674]; [Pub. L. 110–389, title VIII, § 802][/us/pl/110/389/s802], Oct. 10, 2008, [122 Stat. 4185][/us/stat/122/4185]; [Pub. L. 112–37, § 16][/us/pl/112/37/s16], Oct. 5, 2011, [125 Stat. 398][/us/stat/125/398]; [Pub. L. 112–56, title II, § 264][/us/pl/112/56/s264], Nov. 21, 2011, [125 Stat. 732][/us/stat/125/732]; [Pub. L. 113–146, title VII, § 706][/us/pl/113/146/s706], Aug. 7, 2014, [128 Stat. 1798][/us/stat/128/1798].)
+(Added [Pub. L. 101–508, title VIII][/us/pl/101/508/tVIII], § 8051(b)(1), Nov. 5, 1990, [104 Stat. 1388–350][/us/stat/104/1388-350], § 3117; renumbered § 5317, [Pub. L. 102–40, title IV][/us/pl/102/40/tIV], § 402(b)(1), May 7, 1991, [105 Stat. 238][/us/stat/105/238]; amended [Pub. L. 102–83][/us/pl/102/83], § 5(c)(1), Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406]; [Pub. L. 102–568, title VI][/us/pl/102/568/tVI], § 602(a), Oct. 29, 1992, [106 Stat. 4342][/us/stat/106/4342]; [Pub. L. 103–66, title XII][/us/pl/103/66/tXII], § 12004, Aug. 10, 1993, [107 Stat. 414][/us/stat/107/414]; [Pub. L. 104–262, title I][/us/pl/104/262/tI], § 101(e)(3), Oct. 9, 1996, [110 Stat. 3181][/us/stat/110/3181]; [Pub. L. 105–33, title VIII][/us/pl/105/33/tVIII], § 8014, Aug. 5, 1997, [111 Stat. 664][/us/stat/111/664]; [Pub. L. 106–419, title IV][/us/pl/106/419/tIV], § 402(d), Nov. 1, 2000, [114 Stat. 1863][/us/stat/114/1863]; [Pub. L. 108–183, title VII][/us/pl/108/183/tVII], § 708(c)(3), Dec. 16, 2003, [117 Stat. 2674][/us/stat/117/2674]; [Pub. L. 110–389, title VIII][/us/pl/110/389/tVIII], § 802, Oct. 10, 2008, [122 Stat. 4185][/us/stat/122/4185]; [Pub. L. 112–37][/us/pl/112/37], § 16, Oct. 5, 2011, [125 Stat. 398][/us/stat/125/398]; [Pub. L. 112–56, title II][/us/pl/112/56/tII], § 264, Nov. 21, 2011, [125 Stat. 732][/us/stat/125/732]; [Pub. L. 113–146, title VII][/us/pl/113/146/tVII], § 706, Aug. 7, 2014, [128 Stat. 1798][/us/stat/128/1798].)
 
  __References in Text__ 
 
@@ -83,7 +83,7 @@
 
  __Notification Prior to Use of Income Information From Other Federal Agencies__ 
 
-[Pub. L. 101–508, title VIII, § 8051(c)][/us/pl/101/508/s8051/c], Nov. 5, 1990, [104 Stat. 1388–351][/us/stat/104/1388-351], provided that:
+[Pub. L. 101–508, title VIII][/us/pl/101/508/tVIII], § 8051(c), Nov. 5, 1990, [104 Stat. 1388–351][/us/stat/104/1388-351], provided that:
 
 >     “(1) The Secretary of Veterans Affairs shall notify individuals who (as of the date of the enactment of this Act \[Nov. 5, 1990\]) are applicants for or recipients of the benefits described in subsection (c) (other than paragraph (3)) of section 3117 \[now 5317\] of title 38, United States Code (as added by subsection (b)), that income information furnished to the Secretary by such applicants and recipients may be compared with information obtained by the Secretary from the Secretary of Health and Human Services or the Secretary of the Treasury under clause (viii) of section 6103(l)(7)(D) of the Internal Revenue Code of 1986 \[[26 U.S.C. 6103][/us/usc/t26/s6103](l)(7)(D)\] (as added by subsection (a)).
 
@@ -93,7 +93,7 @@
 
  __Study by Comptroller General on Effectiveness of Amendments by__  __[__  __Pub. L. 101–508__  __][/us/pl/101/508]__ 
 
-[Pub. L. 101–508, title VIII, § 8051(d)][/us/pl/101/508/s8051/d], Nov. 5, 1990, [104 Stat. 1388–351][/us/stat/104/1388-351], provided that: 
+[Pub. L. 101–508, title VIII][/us/pl/101/508/tVIII], § 8051(d), Nov. 5, 1990, [104 Stat. 1388–351][/us/stat/104/1388-351], provided that: 
 
 > “The Comptroller General of the United States shall conduct a study of the effectiveness of the amendments made by this section \[enacting this section\] and shall submit a report on such study to the Committees on Veterans’ Affairs and Ways and Means of the House of Representatives and the Committees on Veterans’ Affairs and Finance of the Senate not later than January 1, 1992.”
 
@@ -106,31 +106,31 @@
 
 [/us/usc/t38/s1315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1315
 [/us/usc/t38/s1710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1710
-[/us/pl/101/508/s8051/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs8051%2Fb%2F1
+[/us/pl/101/508/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtVIII
 [/us/stat/104/1388-350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-350
-[/us/pl/102/40/s402/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs402%2Fb%2F1
+[/us/pl/102/40/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2FtIV
 [/us/stat/105/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F238
-[/us/pl/102/83/s5/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fc%2F1
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F406
-[/us/pl/102/568/s602/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F568%2Fs602%2Fa
+[/us/pl/102/568/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F568%2FtVI
 [/us/stat/106/4342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4342
-[/us/pl/103/66/s12004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs12004
+[/us/pl/103/66/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2FtXII
 [/us/stat/107/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F414
-[/us/pl/104/262/s101/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F262%2Fs101%2Fe%2F3
+[/us/pl/104/262/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F262%2FtI
 [/us/stat/110/3181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3181
-[/us/pl/105/33/s8014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs8014
+[/us/pl/105/33/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2FtVIII
 [/us/stat/111/664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F664
-[/us/pl/106/419/s402/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419%2Fs402%2Fd
+[/us/pl/106/419/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419%2FtIV
 [/us/stat/114/1863]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1863
-[/us/pl/108/183/s708/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F183%2Fs708%2Fc%2F3
+[/us/pl/108/183/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F183%2FtVII
 [/us/stat/117/2674]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2674
-[/us/pl/110/389/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F389%2Fs802
+[/us/pl/110/389/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F389%2FtVIII
 [/us/stat/122/4185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4185
-[/us/pl/112/37/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F37%2Fs16
+[/us/pl/112/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F37
 [/us/stat/125/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F398
-[/us/pl/112/56/s264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F56%2Fs264
+[/us/pl/112/56/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F56%2FtII
 [/us/stat/125/732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F732
-[/us/pl/113/146/s706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F146%2Fs706
+[/us/pl/113/146/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F146%2FtVII
 [/us/stat/128/1798]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1798
 [/us/pl/113/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F146
 [/us/pl/112/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F56
@@ -147,11 +147,11 @@
 [/us/usc/t38/s3117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3117
 [/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
-[/us/pl/101/508/s8051/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs8051%2Fc
+[/us/pl/101/508/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtVIII
 [/us/stat/104/1388-351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-351
 [/us/usc/t26/s6103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6103
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
-[/us/pl/101/508/s8051/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs8051%2Fd
+[/us/pl/101/508/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtVIII
 [/us/stat/104/1388-351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-351
 
 

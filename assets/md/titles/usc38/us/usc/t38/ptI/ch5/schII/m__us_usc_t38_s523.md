@@ -19,17 +19,17 @@
 
     (b) The Secretary shall seek to achieve the effective coordination of the provision, under laws administered by the Department, of benefits and services (and information about such benefits and services) with appropriate programs (and information about such programs) conducted by State and local governmental agencies and by private entities at the State and local level. In carrying out this subsection, the Secretary shall place special emphasis on veterans who are 65 years of age or older.
 
-(Added [Pub. L. 102–83, § 2(a)][/us/pl/102/83/s2/a], Aug. 6, 1991, [105 Stat. 390][/us/stat/105/390].)
+(Added [Pub. L. 102–83][/us/pl/102/83], § 2(a), Aug. 6, 1991, [105 Stat. 390][/us/stat/105/390].)
 
  __Prior Provisions__ 
 
     Prior sections 523 and 524 were renumbered sections 1523 and 1524 of this title, respectively.
 
-    Provisions similar to those in this section were contained in [section 220 of this title][/us/usc/t38/s220] prior to repeal by [Pub. L. 102–83, § 2(a)][/us/pl/102/83/s2/a].
+    Provisions similar to those in this section were contained in [section 220 of this title][/us/usc/t38/s220] prior to repeal by [Pub. L. 102–83][/us/pl/102/83], § 2(a).
 
  __Pilot Program on Use of Community-Based Organizations and Local and State Government Entities To Ensure That Veterans Receive Care and Benefits for Which They Are Eligible__ 
 
-[Pub. L. 111–163, title V, § 506][/us/pl/111/163/s506], May 5, 2010, [124 Stat. 1160][/us/stat/124/1160], provided that:
+[Pub. L. 111–163, title V][/us/pl/111/163/tV], § 506, May 5, 2010, [124 Stat. 1160][/us/stat/124/1160], provided that:
 
 >     “(a)  __Pilot Program Required__  __.—__ 
 
@@ -110,11 +110,11 @@
 ----------
 ----------
 
-[/us/pl/102/83/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs2%2Fa
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F390
 [/us/usc/t38/s220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs220
-[/us/pl/102/83/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs2%2Fa
-[/us/pl/111/163/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163%2Fs506
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/111/163/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163%2FtV
 [/us/stat/124/1160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1160
 
 

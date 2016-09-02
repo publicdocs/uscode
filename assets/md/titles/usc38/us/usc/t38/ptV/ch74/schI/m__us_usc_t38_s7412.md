@@ -23,11 +23,11 @@
 
     Notwithstanding sections 3304 and 3309 through 3318 of title 5, the Secretary may, upon a determination by the Inspector General under paragraph (1)  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably means subsec. (a). </sup></sup>  that there is a staffing shortage throughout the Department with respect to a particular occupation, recruit and directly appoint, during the fiscal year after the fiscal year during which such determination is made, qualified personnel to serve in that particular occupation for the Department.
 
-(Added [Pub. L. 113–146, title III, § 301(a)(1)][/us/pl/113/146/s301/a/1], Aug. 7, 2014, [128 Stat. 1784][/us/stat/128/1784].)
+(Added [Pub. L. 113–146, title III][/us/pl/113/146/tIII], § 301(a)(1), Aug. 7, 2014, [128 Stat. 1784][/us/stat/128/1784].)
 
  __Deadline for First Determination__ 
 
-[Pub. L. 113–146, title III, § 301(a)(3)][/us/pl/113/146/s301/a/3], Aug. 7, 2014, [128 Stat. 1784][/us/stat/128/1784], provided that: 
+[Pub. L. 113–146, title III][/us/pl/113/146/tIII], § 301(a)(3), Aug. 7, 2014, [128 Stat. 1784][/us/stat/128/1784], provided that: 
 
 > “Notwithstanding the deadline under [section 7412 of title 38][/us/usc/t38/s7412], United States Code, as added by paragraph (1), for the annual determination of staffing shortages in the Veterans Health Administration, the Inspector General of the Department of Veterans Affairs shall make the first determination required under such section, and the Secretary of Veterans Affairs shall publish in the Federal Register such determination, by not later than the date that is 180 days after the date of the enactment of this Act \[Aug. 7, 2014\].”
 
@@ -39,9 +39,9 @@
 ----------
 
 [/us/usc/t38/s7401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7401
-[/us/pl/113/146/s301/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F146%2Fs301%2Fa%2F1
+[/us/pl/113/146/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F146%2FtIII
 [/us/stat/128/1784]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1784
-[/us/pl/113/146/s301/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F146%2Fs301%2Fa%2F3
+[/us/pl/113/146/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F146%2FtIII
 [/us/stat/128/1784]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1784
 [/us/usc/t38/s7412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7412
 

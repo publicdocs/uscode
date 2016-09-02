@@ -49,7 +49,7 @@
 
             (B) For purposes of this paragraph, a renovation project is a project to remodel or alter existing buildings for which financial assistance under this subchapter may be provided and does not include maintenance and repair work which is the responsibility of the State.
 
-(Added [Pub. L. 88–450, § 4(a)][/us/pl/88/450/s4/a], Aug. 19, 1964, [78 Stat. 502][/us/stat/78/502], § 5034; amended [Pub. L. 89–311, § 7(b)][/us/pl/89/311/s7/b], Oct. 31, 1965, [79 Stat. 1157][/us/stat/79/1157]; [Pub. L. 93–82, title IV, § 403(d)][/us/pl/93/82/s403/d], Aug. 2, 1973, [87 Stat. 196][/us/stat/87/196]; [Pub. L. 94–581, title I, § 107(b)][/us/pl/94/581/s107/b], title II, § 206(b), Oct. 21, 1976, [90 Stat. 2847][/us/stat/90/2847], 2859; [Pub. L. 95–62, § 3(5)][/us/pl/95/62/s3/5], (6), July 5, 1977, [91 Stat. 262][/us/stat/91/262]; [Pub. L. 96–330, title IV, § 404][/us/pl/96/330/s404], Aug. 26, 1980, [94 Stat. 1052][/us/stat/94/1052]; [Pub. L. 98–528, title I, § 105(2)][/us/pl/98/528/s105/2], Oct. 19, 1984, [98 Stat. 2689][/us/stat/98/2689]; renumbered § 8134, [Pub. L. 102–40, title IV, § 402(b)(1)][/us/pl/102/40/s402/b/1], May 7, 1991, [105 Stat. 238][/us/stat/105/238]; [Pub. L. 102–54, § 14(f)(6)][/us/pl/102/54/s14/f/6], June 13, 1991, [105 Stat. 288][/us/stat/105/288]; [Pub. L. 102–83][/us/pl/102/83], §§ 4(b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, [105 Stat. 404–406][/us/stat/105/404-406]; [Pub. L. 106–117, title II, § 207(a)][/us/pl/106/117/s207/a], Nov. 30, 1999, [113 Stat. 1564][/us/stat/113/1564].)
+(Added [Pub. L. 88–450][/us/pl/88/450], § 4(a), Aug. 19, 1964, [78 Stat. 502][/us/stat/78/502], § 5034; amended [Pub. L. 89–311][/us/pl/89/311], § 7(b), Oct. 31, 1965, [79 Stat. 1157][/us/stat/79/1157]; [Pub. L. 93–82, title IV][/us/pl/93/82/tIV], § 403(d), Aug. 2, 1973, [87 Stat. 196][/us/stat/87/196]; [Pub. L. 94–581, title I][/us/pl/94/581/tI], § 107(b), title II, § 206(b), Oct. 21, 1976, [90 Stat. 2847][/us/stat/90/2847], 2859; [Pub. L. 95–62][/us/pl/95/62], § 3(5), (6), July 5, 1977, [91 Stat. 262][/us/stat/91/262]; [Pub. L. 96–330, title IV][/us/pl/96/330/tIV], § 404, Aug. 26, 1980, [94 Stat. 1052][/us/stat/94/1052]; [Pub. L. 98–528, title I][/us/pl/98/528/tI], § 105(2), Oct. 19, 1984, [98 Stat. 2689][/us/stat/98/2689]; renumbered § 8134, [Pub. L. 102–40, title IV][/us/pl/102/40/tIV], § 402(b)(1), May 7, 1991, [105 Stat. 238][/us/stat/105/238]; [Pub. L. 102–54][/us/pl/102/54], § 14(f)(6), June 13, 1991, [105 Stat. 288][/us/stat/105/288]; [Pub. L. 102–83][/us/pl/102/83], §§ 4(b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, [105 Stat. 404–406][/us/stat/105/404-406]; [Pub. L. 106–117, title II][/us/pl/106/117/tII], § 207(a), Nov. 30, 1999, [113 Stat. 1564][/us/stat/113/1564].)
 
  __References in Text__ 
 
@@ -57,17 +57,17 @@
 
  __Amendments__ 
 
-    1999—Subsecs. (a), (b). [Pub. L. 106–117, § 207(a)(1)][/us/pl/106/117/s207/a/1]–(3), added subsec. (a), redesignated former subsec. (a) as (b) and struck out introductory provisions and par. (1) which authorized Secretary to prescribe number of beds needed for adequate nursing home care of veterans, and redesignated former pars. (2) and (3) of subsec. (a) as pars. (1) and (2), respectively, of subsec. (b). Former subsec. (b) redesignated (c).
+    1999—Subsecs. (a), (b). [Pub. L. 106–117][/us/pl/106/117], § 207(a)(1)–(3), added subsec. (a), redesignated former subsec. (a) as (b) and struck out introductory provisions and par. (1) which authorized Secretary to prescribe number of beds needed for adequate nursing home care of veterans, and redesignated former pars. (2) and (3) of subsec. (a) as pars. (1) and (2), respectively, of subsec. (b). Former subsec. (b) redesignated (c).
 
-    Subsec. (c). [Pub. L. 106–117, § 207(a)(1)][/us/pl/106/117/s207/a/1], (4), redesignated subsec. (b) as (c) and substituted “subsection (b)(2)” for “subsection (a)(3)”.
+    Subsec. (c). [Pub. L. 106–117][/us/pl/106/117], § 207(a)(1), (4), redesignated subsec. (b) as (c) and substituted “subsection (b)(2)” for “subsection (a)(3)”.
 
-    Subsec. (d). [Pub. L. 106–117, § 207(a)(5)][/us/pl/106/117/s207/a/5], added subsec. (d).
+    Subsec. (d). [Pub. L. 106–117][/us/pl/106/117], § 207(a)(5), added subsec. (d).
 
     1991—[Pub. L. 102–40][/us/pl/102/40] renumbered [section 5034 of this title][/us/usc/t38/s5034] as this section.
 
-    [Pub. L. 102–83, § 5(c)(1)][/us/pl/102/83/s5/c/1], substituted “1720(b)” for “620(b)” in subsec. (a)(3).
+    [Pub. L. 102–83][/us/pl/102/83], § 5(c)(1), substituted “1720(b)” for “620(b)” in subsec. (a)(3).
 
-    [Pub. L. 102–83, § 4(b)(1)][/us/pl/102/83/s4/b/1], (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
+    [Pub. L. 102–83][/us/pl/102/83], § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
 
     [Pub. L. 102–54][/us/pl/102/54] amended section as in effect immediately before the enactment of [Pub. L. 102–40][/us/pl/102/40] by inserting “(a)” before “Within six months”, substituting “any amendment to this section” for “this section or any amendment to it”, designating sentence at end of par. (3) as subsec. (b), realigning such sentence, and substituting “the standards prescribed under subsection (a)(3)” for “such standards” at end of such sentence.
 
@@ -75,9 +75,9 @@
 
     1980—Par. (1). [Pub. L. 96–330][/us/pl/96/330] struck out “, which number shall not exceed two and one-half beds per thousand veteran population in the case of any State” after “residing in each State”.
 
-    1977—Par. (2). [Pub. L. 95–62, § 3(5)][/us/pl/95/62/s3/5], substituted “repair, and equipment for facilities constructed” for “repairs, modernization, alteration, and equipment for facilities for furnishing nursing home care which are constructed”.
+    1977—Par. (2). [Pub. L. 95–62][/us/pl/95/62], § 3(5), substituted “repair, and equipment for facilities constructed” for “repairs, modernization, alteration, and equipment for facilities for furnishing nursing home care which are constructed”.
 
-    Par. (3). [Pub. L. 95–62, § 3(6)][/us/pl/95/62/s3/6], substituted “furnishing of care” for “furnishing of nursing home care”.
+    Par. (3). [Pub. L. 95–62][/us/pl/95/62], § 3(6), substituted “furnishing of care” for “furnishing of nursing home care”.
 
     1976—[Pub. L. 94–581][/us/pl/94/581] substituted “date of enactment of this section or any amendment to it with respect to such amendment” for “date of enactment of this subchapter” in provisions preceding par. (1), substituted “veterans” and “veteran” for “war veterans” and “war veteran”, respectively, in par. (1), and added par. (3).
 
@@ -99,7 +99,7 @@
 
  __Regulations__ 
 
-[Pub. L. 106–117, title II, § 207(d)][/us/pl/106/117/s207/d], Nov. 30, 1999, [113 Stat. 1567][/us/stat/113/1567], provided that: 
+[Pub. L. 106–117, title II][/us/pl/106/117/tII], § 207(d), Nov. 30, 1999, [113 Stat. 1567][/us/stat/113/1567], provided that: 
 
 > “The Secretary \[of Veterans Affairs\] shall prescribe the initial regulations under subsection (a) of [section 8134 of title 38][/us/usc/t38/s8134], United States Code, as added by subsection (a), not later than April 30, 2000.”
 
@@ -116,42 +116,42 @@
 
 [/us/usc/t38/s1720/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1720%2Fb
 [/us/usc/t38/s1741]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1741
-[/us/pl/88/450/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F450%2Fs4%2Fa
+[/us/pl/88/450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F450
 [/us/stat/78/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F502
-[/us/pl/89/311/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F311%2Fs7%2Fb
+[/us/pl/89/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F311
 [/us/stat/79/1157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1157
-[/us/pl/93/82/s403/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F82%2Fs403%2Fd
+[/us/pl/93/82/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F82%2FtIV
 [/us/stat/87/196]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F196
-[/us/pl/94/581/s107/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F581%2Fs107%2Fb
+[/us/pl/94/581/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F581%2FtI
 [/us/stat/90/2847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2847
-[/us/pl/95/62/s3/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F62%2Fs3%2F5
+[/us/pl/95/62]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F62
 [/us/stat/91/262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F262
-[/us/pl/96/330/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F330%2Fs404
+[/us/pl/96/330/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F330%2FtIV
 [/us/stat/94/1052]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1052
-[/us/pl/98/528/s105/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F528%2Fs105%2F2
+[/us/pl/98/528/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F528%2FtI
 [/us/stat/98/2689]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2689
-[/us/pl/102/40/s402/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs402%2Fb%2F1
+[/us/pl/102/40/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2FtIV
 [/us/stat/105/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F238
-[/us/pl/102/54/s14/f/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54%2Fs14%2Ff%2F6
+[/us/pl/102/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54
 [/us/stat/105/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F288
 [/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/404-406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F404-406
-[/us/pl/106/117/s207/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117%2Fs207%2Fa
+[/us/pl/106/117/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117%2FtII
 [/us/stat/113/1564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1564
 [/us/pl/106/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117
-[/us/pl/106/117/s207/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117%2Fs207%2Fa%2F1
-[/us/pl/106/117/s207/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117%2Fs207%2Fa%2F1
-[/us/pl/106/117/s207/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117%2Fs207%2Fa%2F5
+[/us/pl/106/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117
+[/us/pl/106/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117
+[/us/pl/106/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117
 [/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40
 [/us/usc/t38/s5034]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs5034
-[/us/pl/102/83/s5/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fc%2F1
-[/us/pl/102/83/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fb%2F1
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/pl/102/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54
 [/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40
 [/us/pl/98/528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F528
 [/us/pl/96/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F330
-[/us/pl/95/62/s3/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F62%2Fs3%2F5
-[/us/pl/95/62/s3/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F62%2Fs3%2F6
+[/us/pl/95/62]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F62
+[/us/pl/95/62]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F62
 [/us/pl/94/581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F581
 [/us/pl/93/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F82
 [/us/pl/89/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F311
@@ -166,7 +166,7 @@
 [/us/pl/93/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F82
 [/us/pl/93/82/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F82%2Fs501
 [/us/usc/t38/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1701
-[/us/pl/106/117/s207/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117%2Fs207%2Fd
+[/us/pl/106/117/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117%2FtII
 [/us/stat/113/1567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1567
 [/us/usc/t38/s8134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs8134
 [/us/usc/t38/s8135/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs8135%2Fb%2F2%2FA

@@ -31,13 +31,13 @@
 
         (2) the reference to “vocational training under [section 1804 of this title][/us/usc/t38/s1804]” in paragraph (8) of that section shall be treated as a reference to vocational training under [section 1814 of this title][/us/usc/t38/s1814].
 
-(Added [Pub. L. 106–419, title IV, § 401(a)][/us/pl/106/419/s401/a], Nov. 1, 2000, [114 Stat. 1857][/us/stat/114/1857].)
+(Added [Pub. L. 106–419, title IV][/us/pl/106/419/tIV], § 401(a), Nov. 1, 2000, [114 Stat. 1857][/us/stat/114/1857].)
 
  __Prior Provisions__ 
 
     A prior section 1813 was renumbered [section 3713 of this title][/us/usc/t38/s3713].
 
-    Another prior section 1813, [Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1211][/us/stat/72/1211], automatically guaranteed loans made to a veteran if made for the purpose of purchasing business property, prior to repeal by [Pub. L. 93–569, § 7(a)][/us/pl/93/569/s7/a], Dec. 31, 1974, [88 Stat. 1866][/us/stat/88/1866].
+    Another prior section 1813, [Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1211][/us/stat/72/1211], automatically guaranteed loans made to a veteran if made for the purpose of purchasing business property, prior to repeal by [Pub. L. 93–569][/us/pl/93/569], § 7(a), Dec. 31, 1974, [88 Stat. 1866][/us/stat/88/1866].
 
 ----------
 
@@ -49,12 +49,12 @@
 [/us/usc/t38/s1803/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1803%2Fc
 [/us/usc/t38/s1804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1804
 [/us/usc/t38/s1814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1814
-[/us/pl/106/419/s401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419%2Fs401%2Fa
+[/us/pl/106/419/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419%2FtIV
 [/us/stat/114/1857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1857
 [/us/usc/t38/s3713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3713
 [/us/pl/85/857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F857
 [/us/stat/72/1211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1211
-[/us/pl/93/569/s7/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F569%2Fs7%2Fa
+[/us/pl/93/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F569
 [/us/stat/88/1866]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1866
 
 

@@ -57,7 +57,7 @@
 
     (c) Any employer who reemploys a person under this chapter and who is an employer contributing to a multiemployer plan, as defined in section 3(37) of the Employee Retirement Income Security Act of 1974, under which benefits are or may be payable to such person by reason of the obligations set forth in this chapter, shall, within 30 days after the date of such reemployment, provide information, in writing, of such reemployment to the administrator of such plan.
 
-(Added [Pub. L. 103–353, § 2(a)][/us/pl/103/353/s2/a], Oct. 13, 1994, [108 Stat. 3162][/us/stat/108/3162]; amended [Pub. L. 104–275, title III, § 311(8)][/us/pl/104/275/s311/8], Oct. 9, 1996, [110 Stat. 3335][/us/stat/110/3335].)
+(Added [Pub. L. 103–353][/us/pl/103/353], § 2(a), Oct. 13, 1994, [108 Stat. 3162][/us/stat/108/3162]; amended [Pub. L. 104–275, title III][/us/pl/104/275/tIII], § 311(8), Oct. 9, 1996, [110 Stat. 3335][/us/stat/110/3335].)
 
  __References in Text__ 
 
@@ -89,9 +89,9 @@
 ----------
 
 [/us/usc/t5/s8432b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8432b
-[/us/pl/103/353/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F353%2Fs2%2Fa
+[/us/pl/103/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F353
 [/us/stat/108/3162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3162
-[/us/pl/104/275/s311/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275%2Fs311%2F8
+[/us/pl/104/275/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275%2FtIII
 [/us/stat/110/3335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3335
 [/us/usc/t26/s402/g/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs402%2Fg%2F3
 [/us/usc/t38/s7618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7618

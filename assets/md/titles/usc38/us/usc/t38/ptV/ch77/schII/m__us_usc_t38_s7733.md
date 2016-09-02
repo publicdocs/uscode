@@ -17,7 +17,7 @@
 
     The Secretary shall ensure that the number of full-time employees of the Veterans Benefits Administration assigned to quality assurance functions under this subchapter is adequate to perform the quality assurance functions for which they have responsibility.
 
-(Added [Pub. L. 106–117, § 801(a)(1)][/us/pl/106/117/s801/a/1], Nov. 30, 1999, [113 Stat. 1585][/us/stat/113/1585].)
+(Added [Pub. L. 106–117][/us/pl/106/117], § 801(a)(1), Nov. 30, 1999, [113 Stat. 1585][/us/stat/113/1585].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/106/117/s801/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117%2Fs801%2Fa%2F1
+[/us/pl/106/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117
 [/us/stat/113/1585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1585
 
 

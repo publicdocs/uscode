@@ -17,7 +17,7 @@
 
     If no beneficiary of insurance is designated by the insured, either while alive or by last will, or if the designated beneficiary does not survive the insured, then there shall be paid to the estate of the insured the present value of the remaining unpaid monthly installments. If the designated beneficiary survives the insured and dies before receiving all of the installments of insurance payable and applicable, then there shall be paid to the estate of such beneficiary the present value of the remaining unpaid monthly installments. No payments shall be made to any estate which under the laws of the residence of the insured or the beneficiary, as the case may be, would escheat, but same shall escheat to the United States and be credited to the United States Government Life Insurance Fund.
 
-([Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1160][/us/stat/72/1160], § 750; [Pub. L. 99–576, title VII, § 701(31)][/us/pl/99/576/s701/31], Oct. 28, 1986, [100 Stat. 3293][/us/stat/100/3293]; renumbered § 1950, [Pub. L. 102–83, § 5(a)][/us/pl/102/83/s5/a], Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406].)
+([Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1160][/us/stat/72/1160], § 750; [Pub. L. 99–576, title VII][/us/pl/99/576/tVII], § 701(31), Oct. 28, 1986, [100 Stat. 3293][/us/stat/100/3293]; renumbered § 1950, [Pub. L. 102–83][/us/pl/102/83], § 5(a), Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406].)
 
  __Amendments__ 
 
@@ -34,9 +34,9 @@
 
 [/us/pl/85/857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F857
 [/us/stat/72/1160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1160
-[/us/pl/99/576/s701/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2Fs701%2F31
+[/us/pl/99/576/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2FtVII
 [/us/stat/100/3293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3293
-[/us/pl/102/83/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fa
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F406
 [/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/usc/t38/s750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs750

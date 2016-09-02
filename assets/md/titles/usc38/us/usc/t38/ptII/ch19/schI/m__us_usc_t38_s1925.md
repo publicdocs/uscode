@@ -33,51 +33,51 @@
 
     (f) No insurance shall be granted under this section to any person referred to in [section 107 of this title][/us/usc/t38/s107] or to any person while on active duty or active duty for training under a call or order to such duty for a period of thirty-one days or more.
 
-(Added [Pub. L. 88–664, § 12(a)][/us/pl/88/664/s12/a], Oct. 13, 1964, [78 Stat. 1096][/us/stat/78/1096], § 725; amended [Pub. L. 89–40][/us/pl/89/40], June 14, 1965, [79 Stat. 130][/us/stat/79/130]; [Pub. L. 96–128, title III, § 301][/us/pl/96/128/s301], Nov. 28, 1979, [93 Stat. 985][/us/stat/93/985]; [Pub. L. 97–295, § 4(25)][/us/pl/97/295/s4/25], Oct. 12, 1982, [96 Stat. 1306][/us/stat/96/1306]; [Pub. L. 99–576, title VII, § 701(28)][/us/pl/99/576/s701/28], Oct. 28, 1986, [100 Stat. 3292][/us/stat/100/3292]; renumbered § 1925 and amended [Pub. L. 102–83][/us/pl/102/83], §§ 4(a)(2)(B)(ii), (3), (4), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, [105 Stat. 403–406][/us/stat/105/403-406]; [Pub. L. 111–117, div. E, title II, § 225][/us/pl/111/117/s225], Dec. 16, 2009, [123 Stat. 3307][/us/stat/123/3307].)
+(Added [Pub. L. 88–664][/us/pl/88/664], § 12(a), Oct. 13, 1964, [78 Stat. 1096][/us/stat/78/1096], § 725; amended [Pub. L. 89–40][/us/pl/89/40], June 14, 1965, [79 Stat. 130][/us/stat/79/130]; [Pub. L. 96–128, title III][/us/pl/96/128/tIII], § 301, Nov. 28, 1979, [93 Stat. 985][/us/stat/93/985]; [Pub. L. 97–295][/us/pl/97/295], § 4(25), Oct. 12, 1982, [96 Stat. 1306][/us/stat/96/1306]; [Pub. L. 99–576, title VII][/us/pl/99/576/tVII], § 701(28), Oct. 28, 1986, [100 Stat. 3292][/us/stat/100/3292]; renumbered § 1925 and amended [Pub. L. 102–83][/us/pl/102/83], §§ 4(a)(2)(B)(ii), (3), (4), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, [105 Stat. 403–406][/us/stat/105/403-406]; [Pub. L. 111–117, div. E, title II][/us/pl/111/117/dE/tII], § 225, Dec. 16, 2009, [123 Stat. 3307][/us/stat/123/3307].)
 
  __Amendments__ 
 
     2009—Subsec. (d)(3). [Pub. L. 111–117][/us/pl/111/117] substituted “appropriations for ‘General Operating Expenses and Information Technology Systems, Department of Veterans Affairs’ ” for “appropriation ‘General Operating Expenses, Department of Veterans Affairs’ ”.
 
-    1991—[Pub. L. 102–83, § 5(a)][/us/pl/102/83/s5/a], renumbered [section 725 of this title][/us/usc/t38/s725] as this section.
+    1991—[Pub. L. 102–83][/us/pl/102/83], § 5(a), renumbered [section 725 of this title][/us/usc/t38/s725] as this section.
 
-    Subsecs. (a) to (c). [Pub. L. 102–83, § 4(b)(1)][/us/pl/102/83/s4/b/1], (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
+    Subsecs. (a) to (c). [Pub. L. 102–83][/us/pl/102/83], § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
 
-    Subsec. (d). [Pub. L. 102–83, § 5(c)(1)][/us/pl/102/83/s5/c/1], substituted “1982” for “782” in par. (3).
+    Subsec. (d). [Pub. L. 102–83][/us/pl/102/83], § 5(c)(1), substituted “1982” for “782” in par. (3).
 
-    [Pub. L. 102–83, § 4(b)(1)][/us/pl/102/83/s4/b/1], (2)(E), substituted “Secretary” for “Administrator” and “Secretary’s” for “Administrator’s” wherever appearing in pars. (1) to (3).
+    [Pub. L. 102–83][/us/pl/102/83], § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” and “Secretary’s” for “Administrator’s” wherever appearing in pars. (1) to (3).
 
-    [Pub. L. 102–83, § 4(a)(3)][/us/pl/102/83/s4/a/3], (4), substituted “Department” for first reference to “Veterans’ Administration” in par. (3).
+    [Pub. L. 102–83][/us/pl/102/83], § 4(a)(3), (4), substituted “Department” for first reference to “Veterans’ Administration” in par. (3).
 
-    [Pub. L. 102–83, § 4(a)(2)(B)(ii)][/us/pl/102/83/s4/a/2/B/ii], substituted “Department of Veterans Affairs” for second reference to “Veterans’ Administration” in par. (3).
+    [Pub. L. 102–83][/us/pl/102/83], § 4(a)(2)(B)(ii), substituted “Department of Veterans Affairs” for second reference to “Veterans’ Administration” in par. (3).
 
-    Subsec. (e). [Pub. L. 102–83, § 5(c)(1)][/us/pl/102/83/s5/c/1], substituted “1982” for “782”.
+    Subsec. (e). [Pub. L. 102–83][/us/pl/102/83], § 5(c)(1), substituted “1982” for “782”.
 
-    1986—Subsecs. (a), (b). [Pub. L. 99–576, § 701(28)(A)][/us/pl/99/576/s701/28/A], substituted “such person” for “he”.
+    1986—Subsecs. (a), (b). [Pub. L. 99–576][/us/pl/99/576], § 701(28)(A), substituted “such person” for “he”.
 
-    Subsec. (c). [Pub. L. 99–576, § 701(28)(A)][/us/pl/99/576/s701/28/A], (B), substituted “the applicant” for “him” in two places, and “such person” for “he”.
+    Subsec. (c). [Pub. L. 99–576][/us/pl/99/576], § 701(28)(A), (B), substituted “the applicant” for “him” in two places, and “such person” for “he”.
 
-    Subsec. (d)(3). [Pub. L. 99–576, § 701(28)(C)][/us/pl/99/576/s701/28/C], substituted “the Administrator’s” for “his”.
+    Subsec. (d)(3). [Pub. L. 99–576][/us/pl/99/576], § 701(28)(C), substituted “the Administrator’s” for “his”.
 
-    1982—Subsec. (a). [Pub. L. 97–295, § 4(25)][/us/pl/97/295/s4/25], substituted “percent” for “per centum”, and substituted “before May 2, 1966” for “within one year after the effective date of this section”.
+    1982—Subsec. (a). [Pub. L. 97–295][/us/pl/97/295], § 4(25), substituted “percent” for “per centum”, and substituted “before May 2, 1966” for “within one year after the effective date of this section”.
 
-    Subsecs. (b), (c), (d)(2). [Pub. L. 97–295, § 4(25)(A)][/us/pl/97/295/s4/25/A], substituted “percent” for “per centum” wherever appearing.
+    Subsecs. (b), (c), (d)(2). [Pub. L. 97–295][/us/pl/97/295], § 4(25)(A), substituted “percent” for “per centum” wherever appearing.
 
-    1979—Subsec. (b). [Pub. L. 96–128, § 301(a)][/us/pl/96/128/s301/a], struck out cl. (8) which required the insurance and any attached total disability income provision to be on a nonparticipatory basis.
+    1979—Subsec. (b). [Pub. L. 96–128][/us/pl/96/128], § 301(a), struck out cl. (8) which required the insurance and any attached total disability income provision to be on a nonparticipatory basis.
 
-    Subsec. (c). [Pub. L. 96–128, § 301(b)][/us/pl/96/128/s301/b], struck out cl. (4) which required the insurance and any attached total disability income provision to be on a nonparticipatory basis, and redesignated former cls. (5) to (7) as (4) to (6), respectively.
+    Subsec. (c). [Pub. L. 96–128][/us/pl/96/128], § 301(b), struck out cl. (4) which required the insurance and any attached total disability income provision to be on a nonparticipatory basis, and redesignated former cls. (5) to (7) as (4) to (6), respectively.
 
-    Subsec. (d)(1). [Pub. L. 96–128, § 301(c)][/us/pl/96/128/s301/c], inserted provisions respecting payments of dividends and refunds of unearned premiums from the fund, and interest earned on the assets of the fund.
+    Subsec. (d)(1). [Pub. L. 96–128][/us/pl/96/128], § 301(c), inserted provisions respecting payments of dividends and refunds of unearned premiums from the fund, and interest earned on the assets of the fund.
 
-    1965—Subsec. (b). [Pub. L. 89–40, § 1(1)][/us/pl/89/40/s1/1], struck out provision from cl. (8) which called for all premiums and other collections for insurance granted under this section to be credited to a revolving fund established in the Treasury of the United States and for payment on such insurance or total disability income provisions to be made directly from that fund.
+    1965—Subsec. (b). [Pub. L. 89–40][/us/pl/89/40], § 1(1), struck out provision from cl. (8) which called for all premiums and other collections for insurance granted under this section to be credited to a revolving fund established in the Treasury of the United States and for payment on such insurance or total disability income provisions to be made directly from that fund.
 
-    Subsec. (c). [Pub. L. 89–40, § 1(2)][/us/pl/89/40/s1/2], struck out cl. (8) which provided that all premiums and other collections on the insurance and any total disability income provision attached thereto should be credited to the National Service Life Insurance appropriation, and the payments on such insurance and total disability income provisions should be made directly from such appropriations, and struck out sentence which authorized necessary appropriations.
+    Subsec. (c). [Pub. L. 89–40][/us/pl/89/40], § 1(2), struck out cl. (8) which provided that all premiums and other collections on the insurance and any total disability income provision attached thereto should be credited to the National Service Life Insurance appropriation, and the payments on such insurance and total disability income provisions should be made directly from such appropriations, and struck out sentence which authorized necessary appropriations.
 
-    Subsec. (d)(1). [Pub. L. 89–40, § 1(3)][/us/pl/89/40/s1/3], struck out provisions authorizing appropriations to carry out the purposes of subsec. (b) of this section by adding to the revolving fund as needed at interest to be determined by the Secretary of the Treasury, and substituted therefor provisions requiring credit to Veterans Reopened Insurance Fund of all premiums and collections on insurance issued pursuant to this section and disbursements from that fund of all payments on insurance and total disability provisions attached thereto, separate determination for actuarial purposes of the various insured groups under this section, transfer to fund from Veterans Special Term Insurance Fund to provide initial capital of excess funds not exceeding $1,650,000, and repayment over a reasonable time at interest to be determined by the Secretary of the Treasury.
+    Subsec. (d)(1). [Pub. L. 89–40][/us/pl/89/40], § 1(3), struck out provisions authorizing appropriations to carry out the purposes of subsec. (b) of this section by adding to the revolving fund as needed at interest to be determined by the Secretary of the Treasury, and substituted therefor provisions requiring credit to Veterans Reopened Insurance Fund of all premiums and collections on insurance issued pursuant to this section and disbursements from that fund of all payments on insurance and total disability provisions attached thereto, separate determination for actuarial purposes of the various insured groups under this section, transfer to fund from Veterans Special Term Insurance Fund to provide initial capital of excess funds not exceeding $1,650,000, and repayment over a reasonable time at interest to be determined by the Secretary of the Treasury.
 
-    Subsec. (d)(2). [Pub. L. 89–40, § 1(4)][/us/pl/89/40/s1/4], struck out reference to subsec. (b) of this section.
+    Subsec. (d)(2). [Pub. L. 89–40][/us/pl/89/40], § 1(4), struck out reference to subsec. (b) of this section.
 
-    Subsec. (d)(3). [Pub. L. 89–40, § 1(5)][/us/pl/89/40/s1/5], struck out reference to National Service Life Insurance appropriation.
+    Subsec. (d)(3). [Pub. L. 89–40][/us/pl/89/40], § 1(5), struck out reference to National Service Life Insurance appropriation.
 
  __Effective Date of 1979 Amendment__ 
 
@@ -89,7 +89,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 88–664, § 12(d)][/us/pl/88/664/s12/d], Oct. 13, 1964, [78 Stat. 1099][/us/stat/78/1099], provided that: 
+[Pub. L. 88–664][/us/pl/88/664], § 12(d), Oct. 13, 1964, [78 Stat. 1099][/us/stat/78/1099], provided that: 
 
 > “The amendments made by this section \[enacting this section and amending section 704 \[now 1904\] of this title\] shall take effect as of the first day of the first calendar month which begins more than six calendar months after the date of enactment of this Act \[Oct. 13, 1964\].”
 
@@ -103,48 +103,48 @@
 [/us/usc/t38/s1982]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1982
 [/us/usc/t38/s1982]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1982
 [/us/usc/t38/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs107
-[/us/pl/88/664/s12/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F664%2Fs12%2Fa
+[/us/pl/88/664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F664
 [/us/stat/78/1096]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F1096
 [/us/pl/89/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F40
 [/us/stat/79/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F130
-[/us/pl/96/128/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F128%2Fs301
+[/us/pl/96/128/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F128%2FtIII
 [/us/stat/93/985]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F985
-[/us/pl/97/295/s4/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295%2Fs4%2F25
+[/us/pl/97/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295
 [/us/stat/96/1306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1306
-[/us/pl/99/576/s701/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2Fs701%2F28
+[/us/pl/99/576/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2FtVII
 [/us/stat/100/3292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3292
 [/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/403-406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F403-406
-[/us/pl/111/117/s225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F117%2Fs225
+[/us/pl/111/117/dE/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F117%2FdE%2FtII
 [/us/stat/123/3307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F3307
 [/us/pl/111/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F117
-[/us/pl/102/83/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fa
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/usc/t38/s725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs725
-[/us/pl/102/83/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fb%2F1
-[/us/pl/102/83/s5/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fc%2F1
-[/us/pl/102/83/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fb%2F1
-[/us/pl/102/83/s4/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fa%2F3
-[/us/pl/102/83/s4/a/2/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fa%2F2%2FB%2Fii
-[/us/pl/102/83/s5/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fc%2F1
-[/us/pl/99/576/s701/28/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2Fs701%2F28%2FA
-[/us/pl/99/576/s701/28/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2Fs701%2F28%2FA
-[/us/pl/99/576/s701/28/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2Fs701%2F28%2FC
-[/us/pl/97/295/s4/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295%2Fs4%2F25
-[/us/pl/97/295/s4/25/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295%2Fs4%2F25%2FA
-[/us/pl/96/128/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F128%2Fs301%2Fa
-[/us/pl/96/128/s301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F128%2Fs301%2Fb
-[/us/pl/96/128/s301/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F128%2Fs301%2Fc
-[/us/pl/89/40/s1/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F40%2Fs1%2F1
-[/us/pl/89/40/s1/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F40%2Fs1%2F2
-[/us/pl/89/40/s1/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F40%2Fs1%2F3
-[/us/pl/89/40/s1/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F40%2Fs1%2F4
-[/us/pl/89/40/s1/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F40%2Fs1%2F5
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/99/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576
+[/us/pl/99/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576
+[/us/pl/99/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576
+[/us/pl/97/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295
+[/us/pl/97/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295
+[/us/pl/96/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F128
+[/us/pl/96/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F128
+[/us/pl/96/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F128
+[/us/pl/89/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F40
+[/us/pl/89/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F40
+[/us/pl/89/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F40
+[/us/pl/89/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F40
+[/us/pl/89/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F40
 [/us/pl/96/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F128
 [/us/pl/96/128/s601/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F128%2Fs601%2Fb
 [/us/usc/t38/s1114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1114
 [/us/pl/89/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F40
 [/us/pl/89/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F40
-[/us/pl/88/664/s12/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F664%2Fs12%2Fd
+[/us/pl/88/664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F664
 [/us/stat/78/1099]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F1099
 
 

@@ -29,17 +29,17 @@
 
         (4) the application provides for making such reports, in such form and containing such information, as the Secretary may require to carry out the Secretary’s functions under this subchapter, and for keeping such records and for affording such access thereto as the Secretary may find necessary to assure the correctness and verification of such reports.
 
-(Added [Pub. L. 92–541, § 2(a)][/us/pl/92/541/s2/a], Oct. 24, 1972, [86 Stat. 1106][/us/stat/86/1106], § 5093; amended [Pub. L. 94–581, title II, § 210(f)(5)][/us/pl/94/581/s210/f/5], Oct. 21, 1976, [90 Stat. 2866][/us/stat/90/2866]; [Pub. L. 96–330, title IV, § 405][/us/pl/96/330/s405], Aug. 26, 1980, [94 Stat. 1052][/us/stat/94/1052]; renumbered § 8233, [Pub. L. 102–40, title IV, § 402(b)(2)(D)][/us/pl/102/40/s402/b/2/D], May 7, 1991, [105 Stat. 239][/us/stat/105/239]; [Pub. L. 102–83, § 4(a)(3)][/us/pl/102/83/s4/a/3], (4), (b)(1), (2)(E), Aug. 6, 1991, [105 Stat. 404][/us/stat/105/404], 405.)
+(Added [Pub. L. 92–541][/us/pl/92/541], § 2(a), Oct. 24, 1972, [86 Stat. 1106][/us/stat/86/1106], § 5093; amended [Pub. L. 94–581, title II][/us/pl/94/581/tII], § 210(f)(5), Oct. 21, 1976, [90 Stat. 2866][/us/stat/90/2866]; [Pub. L. 96–330, title IV][/us/pl/96/330/tIV], § 405, Aug. 26, 1980, [94 Stat. 1052][/us/stat/94/1052]; renumbered § 8233, [Pub. L. 102–40, title IV][/us/pl/102/40/tIV], § 402(b)(2)(D), May 7, 1991, [105 Stat. 239][/us/stat/105/239]; [Pub. L. 102–83][/us/pl/102/83], § 4(a)(3), (4), (b)(1), (2)(E), Aug. 6, 1991, [105 Stat. 404][/us/stat/105/404], 405.)
 
  __Amendments__ 
 
     1991—[Pub. L. 102–40][/us/pl/102/40] renumbered [section 5093 of this title][/us/usc/t38/s5093] as this section.
 
-    Subsec. (a). [Pub. L. 102–83, § 4(b)(1)][/us/pl/102/83/s4/b/1], (2)(E), substituted “Secretary” for “Administrator” in two places.
+    Subsec. (a). [Pub. L. 102–83][/us/pl/102/83], § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in two places.
 
-    [Pub. L. 102–83, § 4(a)(3)][/us/pl/102/83/s4/a/3], (4), substituted “Department” for “Veterans’ Administration”.
+    [Pub. L. 102–83][/us/pl/102/83], § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration”.
 
-    Subsec. (b). [Pub. L. 102–83, § 4(b)(1)][/us/pl/102/83/s4/b/1], (2)(E), substituted “Secretary” for “Administrator” and “Secretary’s” for “Administrator’s” wherever appearing.
+    Subsec. (b). [Pub. L. 102–83][/us/pl/102/83], § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” and “Secretary’s” for “Administrator’s” wherever appearing.
 
     1980—Subsec. (b)(1). [Pub. L. 96–330][/us/pl/96/330] struck out “and will result in a substantial increase in the number of students trained at such institution, provided that there is reasonable assurance from a recognized accrediting body or bodies approved for such purposes by the Commissioner of Education of the Department of Health, Education, and Welfare that the increase in the number of students will not threaten any existing accreditation or otherwise compromise the quality of the training at such institution” after “training program of the eligible institution”.
 
@@ -56,21 +56,21 @@
 ----------
 ----------
 
-[/us/pl/92/541/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F541%2Fs2%2Fa
+[/us/pl/92/541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F541
 [/us/stat/86/1106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1106
-[/us/pl/94/581/s210/f/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F581%2Fs210%2Ff%2F5
+[/us/pl/94/581/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F581%2FtII
 [/us/stat/90/2866]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2866
-[/us/pl/96/330/s405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F330%2Fs405
+[/us/pl/96/330/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F330%2FtIV
 [/us/stat/94/1052]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1052
-[/us/pl/102/40/s402/b/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs402%2Fb%2F2%2FD
+[/us/pl/102/40/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2FtIV
 [/us/stat/105/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F239
-[/us/pl/102/83/s4/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fa%2F3
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F404
 [/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40
 [/us/usc/t38/s5093]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs5093
-[/us/pl/102/83/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fb%2F1
-[/us/pl/102/83/s4/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fa%2F3
-[/us/pl/102/83/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fb%2F1
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/pl/96/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F330
 [/us/pl/94/581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F581
 [/us/pl/94/581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F581

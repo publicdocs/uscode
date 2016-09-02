@@ -23,7 +23,7 @@
 
     The Secretary shall take appropriate actions to ensure that the domiciliary care programs of the Department are adequate, with respect to capacity and with respect to safety, to meet the needs of veterans who are women.
 
-(Added [Pub. L. 107–95, § 5(a)(1)][/us/pl/107/95/s5/a/1], Dec. 21, 2001, [115 Stat. 913][/us/stat/115/913]; amended [Pub. L. 110–387, title VI, § 603][/us/pl/110/387/s603], Oct. 10, 2008, [122 Stat. 4132][/us/stat/122/4132].)
+(Added [Pub. L. 107–95][/us/pl/107/95], § 5(a)(1), Dec. 21, 2001, [115 Stat. 913][/us/stat/115/913]; amended [Pub. L. 110–387, title VI][/us/pl/110/387/tVI], § 603, Oct. 10, 2008, [122 Stat. 4132][/us/stat/122/4132].)
 
  __References in Text__ 
 
@@ -41,9 +41,9 @@
 ----------
 
 [/us/usc/t38/s1710/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1710%2Fb
-[/us/pl/107/95/s5/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F95%2Fs5%2Fa%2F1
+[/us/pl/107/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F95
 [/us/stat/115/913]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F913
-[/us/pl/110/387/s603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F387%2Fs603
+[/us/pl/110/387/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F387%2FtVI
 [/us/stat/122/4132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4132
 [/us/pl/107/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F95
 [/us/pl/110/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F387

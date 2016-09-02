@@ -67,11 +67,11 @@
 
         (3) The Secretary of Labor shall establish and maintain an Internet website on which the Secretary of Labor shall publicly disclose the information reported to the Secretary of Labor by contractors under paragraph (1).
 
-(Added [Pub. L. 92–540, title V, § 503(a)][/us/pl/92/540/s503/a], Oct. 24, 1972, [86 Stat. 1097][/us/stat/86/1097], § 2012; amended [Pub. L. 93–508, title IV, § 402][/us/pl/93/508/s402], Dec. 3, 1974, [88 Stat. 1593][/us/stat/88/1593]; [Pub. L. 94–502, title VI][/us/pl/94/502], §§ 605, 607(2), Oct. 15, 1976, [90 Stat. 2405][/us/stat/90/2405]; [Pub. L. 95–520, § 6(a)][/us/pl/95/520/s6/a], Oct. 26, 1978, [92 Stat. 1821][/us/stat/92/1821]; [Pub. L. 96–466, title V, § 509][/us/pl/96/466/s509], title VIII, § 801(j), Oct. 17, 1980, [94 Stat. 2206][/us/stat/94/2206], 2217; [Pub. L. 97–306, title III, § 310(a)][/us/pl/97/306/s310/a], Oct. 14, 1982, [96 Stat. 1442][/us/stat/96/1442]; renumbered § 4212 and amended [Pub. L. 102–83][/us/pl/102/83], §§ 4(b)(8), 5(a), (c)(1), Aug. 6, 1991, [105 Stat. 405][/us/stat/105/405], 406; [Pub. L. 103–446, title VII, § 702(a)][/us/pl/103/446/s702/a], Nov. 2, 1994, [108 Stat. 4674][/us/stat/108/4674]; [Pub. L. 105–339][/us/pl/105/339], §§ 7(a), 8, Oct. 31, 1998, [112 Stat. 3188][/us/stat/112/3188], 3189; [Pub. L. 106–419, title III, § 322(a)][/us/pl/106/419/s322/a], (b), Nov. 1, 2000, [114 Stat. 1855][/us/stat/114/1855]; [Pub. L. 107–288, § 2(b)(1)][/us/pl/107/288/s2/b/1], (2)(A)–(C), Nov. 7, 2002, [116 Stat. 2034][/us/stat/116/2034], 2035; [Pub. L. 112–154, title VII, § 708][/us/pl/112/154/s708], Aug. 6, 2012, [126 Stat. 1207][/us/stat/126/1207].)
+(Added [Pub. L. 92–540, title V][/us/pl/92/540/tV], § 503(a), Oct. 24, 1972, [86 Stat. 1097][/us/stat/86/1097], § 2012; amended [Pub. L. 93–508, title IV][/us/pl/93/508/tIV], § 402, Dec. 3, 1974, [88 Stat. 1593][/us/stat/88/1593]; [Pub. L. 94–502, title VI][/us/pl/94/502/tVI], §§ 605, 607(2), Oct. 15, 1976, [90 Stat. 2405][/us/stat/90/2405]; [Pub. L. 95–520][/us/pl/95/520], § 6(a), Oct. 26, 1978, [92 Stat. 1821][/us/stat/92/1821]; [Pub. L. 96–466, title V][/us/pl/96/466/tV], § 509, title VIII, § 801(j), Oct. 17, 1980, [94 Stat. 2206][/us/stat/94/2206], 2217; [Pub. L. 97–306, title III][/us/pl/97/306/tIII], § 310(a), Oct. 14, 1982, [96 Stat. 1442][/us/stat/96/1442]; renumbered § 4212 and amended [Pub. L. 102–83][/us/pl/102/83], §§ 4(b)(8), 5(a), (c)(1), Aug. 6, 1991, [105 Stat. 405][/us/stat/105/405], 406; [Pub. L. 103–446, title VII][/us/pl/103/446/tVII], § 702(a), Nov. 2, 1994, [108 Stat. 4674][/us/stat/108/4674]; [Pub. L. 105–339][/us/pl/105/339], §§ 7(a), 8, Oct. 31, 1998, [112 Stat. 3188][/us/stat/112/3188], 3189; [Pub. L. 106–419, title III][/us/pl/106/419/tIII], § 322(a), (b), Nov. 1, 2000, [114 Stat. 1855][/us/stat/114/1855]; [Pub. L. 107–288][/us/pl/107/288], § 2(b)(1), (2)(A)–(C), Nov. 7, 2002, [116 Stat. 2034][/us/stat/116/2034], 2035; [Pub. L. 112–154, title VII][/us/pl/112/154/tVII], § 708, Aug. 6, 2012, [126 Stat. 1207][/us/stat/126/1207].)
 
  __References in Text__ 
 
-    The Workforce Investment Act of 1998, referred to in subsec. (a)(2)(A), is [Pub. L. 105–220][/us/pl/105/220], Aug. 7, 1998, [112 Stat. 936][/us/stat/112/936], and was repealed by [Pub. L. 113–128, title V][/us/pl/113/128], §§ 506, 511(a), July 22, 2014, [128 Stat. 1703][/us/stat/128/1703], 1705, effective July 1, 2015. For complete classification of this Act to the Code, see Tables.
+    The Workforce Investment Act of 1998, referred to in subsec. (a)(2)(A), is [Pub. L. 105–220][/us/pl/105/220], Aug. 7, 1998, [112 Stat. 936][/us/stat/112/936], and was repealed by [Pub. L. 113–128, title V][/us/pl/113/128/tV], §§ 506, 511(a), July 22, 2014, [128 Stat. 1703][/us/stat/128/1703], 1705, effective July 1, 2015. For complete classification of this Act to the Code, see Tables.
 
     Executive Order No. 12985, referred to in subsec. (a)(3)(A)(iii), is set out as a note preceding [section 1121 of Title 10][/us/usc/t10/s1121], Armed Forces.
 
@@ -79,57 +79,57 @@
 
     2012—Subsec. (d)(3). [Pub. L. 112–154][/us/pl/112/154] added par. (3).
 
-    2002—Subsec. (a). [Pub. L. 107–288, § 2(b)(1)][/us/pl/107/288/s2/b/1], amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Any contract in the amount of $25,000 or more entered into by any department or agency for the procurement of personal property and non-personal services (including construction) for the United States, shall contain a provision requiring that the party contracting with the United States shall take affirmative action to employ and advance in employment qualified special disabled veterans, veterans of the Vietnam era, recently separated veterans, and any other veterans who served on active duty during a war or in a campaign or expedition for which a campaign badge has been authorized. The provisions of this section shall apply to any subcontract entered into by a prime contractor in carrying out any contract for the procurement of personal property and non-personal services (including construction) for the United States. In addition to requiring affirmative action to employ such veterans under such contracts and subcontracts and in order to promote the implementation of such requirement, the President shall implement the provisions of this section by promulgating regulations which shall require that (1) each such contractor undertake in such contract to list immediately with the appropriate local employment service office all of its employment openings except that the contractor may exclude openings for executive and top management positions, positions which are to be filled from within the contractor’s organization, and positions lasting three days or less, and (2) each such local office shall give such veterans priority in referral to such employment openings.”
+    2002—Subsec. (a). [Pub. L. 107–288][/us/pl/107/288], § 2(b)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Any contract in the amount of $25,000 or more entered into by any department or agency for the procurement of personal property and non-personal services (including construction) for the United States, shall contain a provision requiring that the party contracting with the United States shall take affirmative action to employ and advance in employment qualified special disabled veterans, veterans of the Vietnam era, recently separated veterans, and any other veterans who served on active duty during a war or in a campaign or expedition for which a campaign badge has been authorized. The provisions of this section shall apply to any subcontract entered into by a prime contractor in carrying out any contract for the procurement of personal property and non-personal services (including construction) for the United States. In addition to requiring affirmative action to employ such veterans under such contracts and subcontracts and in order to promote the implementation of such requirement, the President shall implement the provisions of this section by promulgating regulations which shall require that (1) each such contractor undertake in such contract to list immediately with the appropriate local employment service office all of its employment openings except that the contractor may exclude openings for executive and top management positions, positions which are to be filled from within the contractor’s organization, and positions lasting three days or less, and (2) each such local office shall give such veterans priority in referral to such employment openings.”
 
-    Subsec. (c). [Pub. L. 107–288, § 2(b)(2)(A)][/us/pl/107/288/s2/b/2/A], struck out “suitable” before “employment openings” and substituted “subsection (a)(2)(B)” for “subsection (a)(2) of this section”.
+    Subsec. (c). [Pub. L. 107–288][/us/pl/107/288], § 2(b)(2)(A), struck out “suitable” before “employment openings” and substituted “subsection (a)(2)(B)” for “subsection (a)(2) of this section”.
 
-    Subsec. (d)(1). [Pub. L. 107–288, § 2(b)(2)(B)(i)][/us/pl/107/288/s2/b/2/B/i], struck out “of this section” after “subsection (a)” in introductory provisions.
+    Subsec. (d)(1). [Pub. L. 107–288][/us/pl/107/288], § 2(b)(2)(B)(i), struck out “of this section” after “subsection (a)” in introductory provisions.
 
-    Subsec. (d)(1)(A), (B). [Pub. L. 107–288, § 2(b)(2)(B)(ii)][/us/pl/107/288/s2/b/2/B/ii], amended subpars. (A) and (B) generally. Prior to amendment, subpars. (A) and (B) read as follows:
+    Subsec. (d)(1)(A), (B). [Pub. L. 107–288][/us/pl/107/288], § 2(b)(2)(B)(ii), amended subpars. (A) and (B) generally. Prior to amendment, subpars. (A) and (B) read as follows:
 
     “(A) the number of employees in the work force of such contractor, by job category and hiring location, who are special disabled veterans, veterans of the Vietnam era, recently separated veterans, or other veterans who served on active duty during a war or in a campaign or expedition for which a campaign badge has been authorized;
 
     “(B) the total number of new employees hired by the contractor during the period covered by the report and the number of such employees who are special disabled veterans, veterans of the Vietnam era, recently separated veterans, or other veterans who served on active duty during a war or in a campaign or expedition for which a campaign badge has been authorized; and”.
 
-    Subsec. (d)(2). [Pub. L. 107–288, § 2(b)(2)(C)][/us/pl/107/288/s2/b/2/C], struck out “of this subsection” after “paragraph (1)”.
+    Subsec. (d)(2). [Pub. L. 107–288][/us/pl/107/288], § 2(b)(2)(C), struck out “of this subsection” after “paragraph (1)”.
 
-    2000—Subsec. (a). [Pub. L. 106–419, § 322(a)][/us/pl/106/419/s322/a], inserted “recently separated veterans,” after “veterans of the Vietnam era,” in first sentence.
+    2000—Subsec. (a). [Pub. L. 106–419][/us/pl/106/419], § 322(a), inserted “recently separated veterans,” after “veterans of the Vietnam era,” in first sentence.
 
-    Subsec. (d)(1)(A), (B). [Pub. L. 106–419, § 322(b)][/us/pl/106/419/s322/b], inserted “recently separated veterans,” after “veterans of the Vietnam era,”.
+    Subsec. (d)(1)(A), (B). [Pub. L. 106–419][/us/pl/106/419], § 322(b), inserted “recently separated veterans,” after “veterans of the Vietnam era,”.
 
-    1998—Subsec. (a). [Pub. L. 105–339, § 7(a)(1)][/us/pl/105/339/s7/a/1], in first sentence, substituted “$25,000” for “$10,000” and “special disabled veterans, veterans of the Vietnam era, and any other veterans who served on active duty during a war or in a campaign or expedition for which a campaign badge has been authorized” for “special disabled veterans and veterans of the Vietnam era”.
+    1998—Subsec. (a). [Pub. L. 105–339][/us/pl/105/339], § 7(a)(1), in first sentence, substituted “$25,000” for “$10,000” and “special disabled veterans, veterans of the Vietnam era, and any other veterans who served on active duty during a war or in a campaign or expedition for which a campaign badge has been authorized” for “special disabled veterans and veterans of the Vietnam era”.
 
-    Subsec. (b). [Pub. L. 105–339, § 7(a)(2)][/us/pl/105/339/s7/a/2], substituted “veteran covered by the first sentence of subsection (a)” for “special disabled veteran or veteran of the Vietnam era”.
+    Subsec. (b). [Pub. L. 105–339][/us/pl/105/339], § 7(a)(2), substituted “veteran covered by the first sentence of subsection (a)” for “special disabled veteran or veteran of the Vietnam era”.
 
-    Subsec. (d)(1)(A), (B). [Pub. L. 105–339, § 7(a)(3)][/us/pl/105/339/s7/a/3], substituted “special disabled veterans, veterans of the Vietnam era, or other veterans who served on active duty during a war or in a campaign or expedition for which a campaign badge has been authorized” for “veterans of the Vietnam era or special disabled veterans”.
+    Subsec. (d)(1)(A), (B). [Pub. L. 105–339][/us/pl/105/339], § 7(a)(3), substituted “special disabled veterans, veterans of the Vietnam era, or other veterans who served on active duty during a war or in a campaign or expedition for which a campaign badge has been authorized” for “veterans of the Vietnam era or special disabled veterans”.
 
-    Subsec. (d)(1)(C). [Pub. L. 105–339, § 8][/us/pl/105/339/s8], added subpar. (C).
+    Subsec. (d)(1)(C). [Pub. L. 105–339][/us/pl/105/339], § 8, added subpar. (C).
 
     1994—Subsec. (a)(1). [Pub. L. 103–446][/us/pl/103/446] substituted “all of its employment openings except that the contractor may exclude openings for executive and top management positions, positions which are to be filled from within the contractor’s organization, and positions lasting three days or less,” for “all of its suitable employment openings,”.
 
-    1991—[Pub. L. 102–83, § 5(a)][/us/pl/102/83/s5/a], renumbered [section 2012 of this title][/us/usc/t38/s2012] as this section.
+    1991—[Pub. L. 102–83][/us/pl/102/83], § 5(a), renumbered [section 2012 of this title][/us/usc/t38/s2012] as this section.
 
-    Subsec. (c). [Pub. L. 102–83, § 5(c)(1)][/us/pl/102/83/s5/c/1], substituted “4107(c)” for “2007(c)”.
+    Subsec. (c). [Pub. L. 102–83][/us/pl/102/83], § 5(c)(1), substituted “4107(c)” for “2007(c)”.
 
-    [Pub. L. 102–83, § 4(b)(8)][/us/pl/102/83/s4/b/8], substituted “Secretary of Labor” for “Secretary”.
+    [Pub. L. 102–83][/us/pl/102/83], § 4(b)(8), substituted “Secretary of Labor” for “Secretary”.
 
-    Subsec. (d). [Pub. L. 102–83, § 4(b)(8)][/us/pl/102/83/s4/b/8], substituted “Secretary of Labor” for “Secretary” wherever appearing.
+    Subsec. (d). [Pub. L. 102–83][/us/pl/102/83], § 4(b)(8), substituted “Secretary of Labor” for “Secretary” wherever appearing.
 
     1982—Subsec. (d). [Pub. L. 97–306][/us/pl/97/306] added subsec. (d).
 
-    1980—Subsec. (a). [Pub. L. 96–466, § 801(j)][/us/pl/96/466/s801/j], inserted “special” after “qualified” and substituted “regulations which shall require” for “regulations within 60 days after the date of enactment of this section, which regulations shall require”.
+    1980—Subsec. (a). [Pub. L. 96–466][/us/pl/96/466], § 801(j), inserted “special” after “qualified” and substituted “regulations which shall require” for “regulations within 60 days after the date of enactment of this section, which regulations shall require”.
 
-    Subsec. (b). [Pub. L. 96–466, § 509][/us/pl/96/466/s509], among other changes, substituted reference to a special disabled veteran for reference to a disabled veteran, struck out provisions relating to the filing of a complaint by any veteran entitled to disability compensation who believed that a contractor had discriminated against such veteran because such veteran was a handicapped individual within the meaning of [section 706(6) of title 29][/us/usc/t29/s706/6], and substituted provisions relating to the filing of a complaint with the Secretary of Labor for provisions relating to the filing of a complaint with the Veterans’ Employment Service of the Department of Labor and prompt referral of the complaint to the Secretary.
+    Subsec. (b). [Pub. L. 96–466][/us/pl/96/466], § 509, among other changes, substituted reference to a special disabled veteran for reference to a disabled veteran, struck out provisions relating to the filing of a complaint by any veteran entitled to disability compensation who believed that a contractor had discriminated against such veteran because such veteran was a handicapped individual within the meaning of [section 706(6) of title 29][/us/usc/t29/s706/6], and substituted provisions relating to the filing of a complaint with the Secretary of Labor for provisions relating to the filing of a complaint with the Veterans’ Employment Service of the Department of Labor and prompt referral of the complaint to the Secretary.
 
     1978—Subsec. (b). [Pub. L. 95–520][/us/pl/95/520] authorized filing of a complaint by a veteran entitled to disability compensation under laws administered by the Veterans’ Administration based on a contractor’s discrimination against the veteran because the veteran is handicapped.
 
-    1976—Subsec. (b). [Pub. L. 94–502, § 607(2)][/us/pl/94/502/s607/2], substituted “the contractor’s” for “his”.
+    1976—Subsec. (b). [Pub. L. 94–502][/us/pl/94/502], § 607(2), substituted “the contractor’s” for “his”.
 
-    Subsec. (c). [Pub. L. 94–502, § 605][/us/pl/94/502/s605], added subsec. (c).
+    Subsec. (c). [Pub. L. 94–502][/us/pl/94/502], § 605, added subsec. (c).
 
-    1974—Subsec. (a). [Pub. L. 93–508, § 402(1)][/us/pl/93/508/s402/1], (2), substituted “Any contract in the amount of $10,000 or more entered into” for “Any contract entered into”, “the party contracting with the United States shall take affirmative action to employ and advance in employment” for “in employing persons to carry out such contract, the party contracting with the United States shall give special emphasis to the employment of”, and “In addition to requiring affirmative action to employ such veterans under such contracts and subcontracts and in order to promote the implementation of such requirement, the President shall” for “The President shall”.
+    1974—Subsec. (a). [Pub. L. 93–508][/us/pl/93/508], § 402(1), (2), substituted “Any contract in the amount of $10,000 or more entered into” for “Any contract entered into”, “the party contracting with the United States shall take affirmative action to employ and advance in employment” for “in employing persons to carry out such contract, the party contracting with the United States shall give special emphasis to the employment of”, and “In addition to requiring affirmative action to employ such veterans under such contracts and subcontracts and in order to promote the implementation of such requirement, the President shall” for “The President shall”.
 
-    Subsec. (b). [Pub. L. 93–508, § 402(3)][/us/pl/93/508/s402/3], substituted “relating to the employment of veterans” for “relating to giving special emphasis in employment to veterans”.
+    Subsec. (b). [Pub. L. 93–508][/us/pl/93/508], § 402(3), substituted “relating to the employment of veterans” for “relating to giving special emphasis in employment to veterans”.
 
  __Effective Date of 2002 Amendment__ 
 
@@ -155,7 +155,7 @@
 
  __Prescription of Regulations__ 
 
-[Pub. L. 97–306, title III, § 310(b)][/us/pl/97/306/s310/b], Oct. 14, 1982, [96 Stat. 1442][/us/stat/96/1442], provided that: 
+[Pub. L. 97–306, title III][/us/pl/97/306/tIII], § 310(b), Oct. 14, 1982, [96 Stat. 1442][/us/stat/96/1442], provided that: 
 
 > “Within 90 days after the date of the enactment of this Act \[Oct. 14, 1982\], the Secretary of Labor shall prescribe regulations under subsection (d) of section 2012 \[now 4212\] of title 38, United States Code, as added by the amendment made by subsection (a).”
 
@@ -188,62 +188,62 @@
 
 [/us/usc/t38/s4101/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs4101%2F7
 [/us/usc/t38/s4107/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs4107%2Fc
-[/us/pl/92/540/s503/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F540%2Fs503%2Fa
+[/us/pl/92/540/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F540%2FtV
 [/us/stat/86/1097]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1097
-[/us/pl/93/508/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F508%2Fs402
+[/us/pl/93/508/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F508%2FtIV
 [/us/stat/88/1593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1593
-[/us/pl/94/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F502
+[/us/pl/94/502/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F502%2FtVI
 [/us/stat/90/2405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2405
-[/us/pl/95/520/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F520%2Fs6%2Fa
+[/us/pl/95/520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F520
 [/us/stat/92/1821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1821
-[/us/pl/96/466/s509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F466%2Fs509
+[/us/pl/96/466/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F466%2FtV
 [/us/stat/94/2206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2206
-[/us/pl/97/306/s310/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F306%2Fs310%2Fa
+[/us/pl/97/306/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F306%2FtIII
 [/us/stat/96/1442]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1442
 [/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F405
-[/us/pl/103/446/s702/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2Fs702%2Fa
+[/us/pl/103/446/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2FtVII
 [/us/stat/108/4674]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4674
 [/us/pl/105/339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F339
 [/us/stat/112/3188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3188
-[/us/pl/106/419/s322/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419%2Fs322%2Fa
+[/us/pl/106/419/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419%2FtIII
 [/us/stat/114/1855]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1855
-[/us/pl/107/288/s2/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F288%2Fs2%2Fb%2F1
+[/us/pl/107/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F288
 [/us/stat/116/2034]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2034
-[/us/pl/112/154/s708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154%2Fs708
+[/us/pl/112/154/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154%2FtVII
 [/us/stat/126/1207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1207
 [/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
 [/us/stat/112/936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F936
-[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2FtV
 [/us/stat/128/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1703
 [/us/usc/t10/s1121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1121
 [/us/pl/112/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154
-[/us/pl/107/288/s2/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F288%2Fs2%2Fb%2F1
-[/us/pl/107/288/s2/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F288%2Fs2%2Fb%2F2%2FA
-[/us/pl/107/288/s2/b/2/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F288%2Fs2%2Fb%2F2%2FB%2Fi
-[/us/pl/107/288/s2/b/2/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F288%2Fs2%2Fb%2F2%2FB%2Fii
-[/us/pl/107/288/s2/b/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F288%2Fs2%2Fb%2F2%2FC
-[/us/pl/106/419/s322/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419%2Fs322%2Fa
-[/us/pl/106/419/s322/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419%2Fs322%2Fb
-[/us/pl/105/339/s7/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F339%2Fs7%2Fa%2F1
-[/us/pl/105/339/s7/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F339%2Fs7%2Fa%2F2
-[/us/pl/105/339/s7/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F339%2Fs7%2Fa%2F3
-[/us/pl/105/339/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F339%2Fs8
+[/us/pl/107/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F288
+[/us/pl/107/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F288
+[/us/pl/107/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F288
+[/us/pl/107/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F288
+[/us/pl/107/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F288
+[/us/pl/106/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419
+[/us/pl/106/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419
+[/us/pl/105/339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F339
+[/us/pl/105/339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F339
+[/us/pl/105/339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F339
+[/us/pl/105/339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F339
 [/us/pl/103/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446
-[/us/pl/102/83/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fa
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/usc/t38/s2012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs2012
-[/us/pl/102/83/s5/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fc%2F1
-[/us/pl/102/83/s4/b/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fb%2F8
-[/us/pl/102/83/s4/b/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fb%2F8
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/pl/97/306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F306
-[/us/pl/96/466/s801/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F466%2Fs801%2Fj
-[/us/pl/96/466/s509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F466%2Fs509
+[/us/pl/96/466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F466
+[/us/pl/96/466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F466
 [/us/usc/t29/s706/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs706%2F6
 [/us/pl/95/520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F520
-[/us/pl/94/502/s607/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F502%2Fs607%2F2
-[/us/pl/94/502/s605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F502%2Fs605
-[/us/pl/93/508/s402/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F508%2Fs402%2F1
-[/us/pl/93/508/s402/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F508%2Fs402%2F3
+[/us/pl/94/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F502
+[/us/pl/94/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F502
+[/us/pl/93/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F508
+[/us/pl/93/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F508
 [/us/pl/107/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F288
 [/us/pl/107/288/s2/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F288%2Fs2%2Fb%2F3
 [/us/usc/t38/s4211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs4211
@@ -261,7 +261,7 @@
 [/us/usc/t38/s3452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3452
 [/us/pl/92/540/s601/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F540%2Fs601%2Fb
 [/us/usc/t38/s4101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs4101
-[/us/pl/97/306/s310/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F306%2Fs310%2Fb
+[/us/pl/97/306/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F306%2FtIII
 [/us/stat/96/1442]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1442
 [/us/pl/92/540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F540
 [/us/stat/86/1097]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1097

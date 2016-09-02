@@ -151,11 +151,11 @@
 
     (f) For the purposes of this section, the term “health-care facility” means a medical center, an independent outpatient clinic, or an independent domiciliary facility.
 
-(Added [Pub. L. 101–366, title I, § 102(b)][/us/pl/101/366/s102/b], Aug. 15, 1990, [104 Stat. 431][/us/stat/104/431], § 4141; renumbered § 7451 and amended [Pub. L. 102–40, title III, § 301(b)][/us/pl/102/40/s301/b], (c), title IV, § 401(c)(1)(A), (2), May 7, 1991, [105 Stat. 208][/us/stat/105/208], 238; [Pub. L. 102–405, title III, § 302(c)(1)][/us/pl/102/405/s302/c/1], Oct. 9, 1992, [106 Stat. 1984][/us/stat/106/1984]; [Pub. L. 102–585, title III][/us/pl/102/585], §§ 301(b)–303, 304(b), 307, Nov. 4, 1992, [106 Stat. 4951–4953][/us/stat/106/4951-4953]; [Pub. L. 103–446, title XII, § 1201(c)(7)][/us/pl/103/446/s1201/c/7], (e)(23), Nov. 2, 1994, [108 Stat. 4684][/us/stat/108/4684], 4686; [Pub. L. 104–110, title I, § 101(i)][/us/pl/104/110/s101/i], Feb. 13, 1996, [110 Stat. 768][/us/stat/110/768]; [Pub. L. 106–419, title II, § 201(a)][/us/pl/106/419/s201/a], Nov. 1, 2000, [114 Stat. 1838][/us/stat/114/1838]; [Pub. L. 107–135, title I, § 133][/us/pl/107/135/s133], Jan. 23, 2002, [115 Stat. 2454][/us/stat/115/2454]; [Pub. L. 111–163, title V, § 501(a)][/us/pl/111/163/s501/a], title VI, § 601(g), (h), (j), May 5, 2010, [124 Stat. 1157][/us/stat/124/1157], 1170.)
+(Added [Pub. L. 101–366, title I][/us/pl/101/366/tI], § 102(b), Aug. 15, 1990, [104 Stat. 431][/us/stat/104/431], § 4141; renumbered § 7451 and amended [Pub. L. 102–40, title III][/us/pl/102/40/tIII], § 301(b), (c), title IV, § 401(c)(1)(A), (2), May 7, 1991, [105 Stat. 208][/us/stat/105/208], 238; [Pub. L. 102–405, title III][/us/pl/102/405/tIII], § 302(c)(1), Oct. 9, 1992, [106 Stat. 1984][/us/stat/106/1984]; [Pub. L. 102–585, title III][/us/pl/102/585/tIII], §§ 301(b)–303, 304(b), 307, Nov. 4, 1992, [106 Stat. 4951–4953][/us/stat/106/4951-4953]; [Pub. L. 103–446, title XII][/us/pl/103/446/tXII], § 1201(c)(7), (e)(23), Nov. 2, 1994, [108 Stat. 4684][/us/stat/108/4684], 4686; [Pub. L. 104–110, title I][/us/pl/104/110/tI], § 101(i), Feb. 13, 1996, [110 Stat. 768][/us/stat/110/768]; [Pub. L. 106–419, title II][/us/pl/106/419/tII], § 201(a), Nov. 1, 2000, [114 Stat. 1838][/us/stat/114/1838]; [Pub. L. 107–135, title I][/us/pl/107/135/tI], § 133, Jan. 23, 2002, [115 Stat. 2454][/us/stat/115/2454]; [Pub. L. 111–163, title V][/us/pl/111/163/tV], § 501(a), title VI, § 601(g), (h), (j), May 5, 2010, [124 Stat. 1157][/us/stat/124/1157], 1170.)
 
  __References in Text__ 
 
-    Subsection (g), referred to in subsec. (c)(1), was repealed and subsec. (h), which did not relate to annual reports, was redesignated (g) by [Pub. L. 106–419, title II, § 201(a)(4)][/us/pl/106/419/s201/a/4], Nov. 1, 2000, [114 Stat. 1840][/us/stat/114/1840].
+    Subsection (g), referred to in subsec. (c)(1), was repealed and subsec. (h), which did not relate to annual reports, was redesignated (g) by [Pub. L. 106–419, title II][/us/pl/106/419/tII], § 201(a)(4), Nov. 1, 2000, [114 Stat. 1840][/us/stat/114/1840].
 
     Level IV of the Executive Schedule, referred to in subsec. (c)(2), is set out in [section 5315 of Title 5][/us/usc/t5/s5315], Government Organization and Employees.
 
@@ -163,93 +163,93 @@
 
  __Amendments__ 
 
-    2010—Subsec. (c)(2). [Pub. L. 111–163, § 601(g)][/us/pl/111/163/s601/g], (h), substituted “level IV” for “level V” and inserted at end “The maximum rate of basic pay for a grade for the position of certified registered nurse anesthetist pursuant to an adjustment under subsection (d) may exceed the maximum rate otherwise provided in the preceding sentence.”
+    2010—Subsec. (c)(2). [Pub. L. 111–163][/us/pl/111/163], § 601(g), (h), substituted “level IV” for “level V” and inserted at end “The maximum rate of basic pay for a grade for the position of certified registered nurse anesthetist pursuant to an adjustment under subsection (d) may exceed the maximum rate otherwise provided in the preceding sentence.”
 
-    Subsec. (d)(3)(F). [Pub. L. 111–163, § 601(j)(1)][/us/pl/111/163/s601/j/1], added subpar. (F).
+    Subsec. (d)(3)(F). [Pub. L. 111–163][/us/pl/111/163], § 601(j)(1), added subpar. (F).
 
-    Subsec. (e)(4)(D), (E). [Pub. L. 111–163, § 601(j)(2)][/us/pl/111/163/s601/j/2], added subpar. (D) and redesignated former subpar. (D) as (E).
+    Subsec. (e)(4)(D), (E). [Pub. L. 111–163][/us/pl/111/163], § 601(j)(2), added subpar. (D) and redesignated former subpar. (D) as (E).
 
-    Subsec. (e)(6). [Pub. L. 111–163, § 601(j)(3)][/us/pl/111/163/s601/j/3], added par. (6).
+    Subsec. (e)(6). [Pub. L. 111–163][/us/pl/111/163], § 601(j)(3), added par. (6).
 
-    Subsecs. (f), (g). [Pub. L. 111–163, § 501(a)][/us/pl/111/163/s501/a], redesignated subsec. (g) as (f) and struck out former subsec. (f) which read as follows: “Not later than March 1 of each year, the Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report regarding any pay adjustments under the authority of subsection (d) effective during the 12 months preceding the submission of the report. Each such report shall set forth, by health-care facility, the percentage of such increases and, in any case in which no increase was made, the basis for not providing an increase.”
+    Subsecs. (f), (g). [Pub. L. 111–163][/us/pl/111/163], § 501(a), redesignated subsec. (g) as (f) and struck out former subsec. (f) which read as follows: “Not later than March 1 of each year, the Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report regarding any pay adjustments under the authority of subsection (d) effective during the 12 months preceding the submission of the report. Each such report shall set forth, by health-care facility, the percentage of such increases and, in any case in which no increase was made, the basis for not providing an increase.”
 
-    2002—Subsec. (d)(3)(A). [Pub. L. 107–135, § 133(1)(A)][/us/pl/107/135/s133/1/A], struck out “beginning rates of” before “compensation for corresponding health-care professionals” in two places.
+    2002—Subsec. (d)(3)(A). [Pub. L. 107–135][/us/pl/107/135], § 133(1)(A), struck out “beginning rates of” before “compensation for corresponding health-care professionals” in two places.
 
-    Subsec. (d)(3)(B). [Pub. L. 107–135, § 133(1)(B)][/us/pl/107/135/s133/1/B], struck out “beginning rates of” before “compensation for corresponding health-care professionals”.
+    Subsec. (d)(3)(B). [Pub. L. 107–135][/us/pl/107/135], § 133(1)(B), struck out “beginning rates of” before “compensation for corresponding health-care professionals”.
 
-    Subsec. (d)(3)(C)(i). [Pub. L. 107–135, § 133(1)(C)][/us/pl/107/135/s133/1/C], struck out “beginning rates of” before “compensation” in introductory provisions and in subcl. (I).
+    Subsec. (d)(3)(C)(i). [Pub. L. 107–135][/us/pl/107/135], § 133(1)(C), struck out “beginning rates of” before “compensation” in introductory provisions and in subcl. (I).
 
-    Subsec. (d)(4). [Pub. L. 107–135, § 133(2)][/us/pl/107/135/s133/2], struck out “or at any other time that an adjustment in rates of pay is scheduled to take place under this subsection” after “paragraph (3)(B)” and “Whenever a director makes such a determination, the director shall within 10 days notify the Under Secretary for Health of the decision and the reasons for the decision.” at end.
+    Subsec. (d)(4). [Pub. L. 107–135][/us/pl/107/135], § 133(2), struck out “or at any other time that an adjustment in rates of pay is scheduled to take place under this subsection” after “paragraph (3)(B)” and “Whenever a director makes such a determination, the director shall within 10 days notify the Under Secretary for Health of the decision and the reasons for the decision.” at end.
 
-    Subsec. (e)(4). [Pub. L. 107–135, § 133(3)][/us/pl/107/135/s133/3], struck out “grade in a” before “covered position” in subpar. (A), struck out “grade of a” before “covered position” and substituted “that position” for “that grade” in subpar. (B), and struck out “grade of a” before “covered position” in subpar. (D).
+    Subsec. (e)(4). [Pub. L. 107–135][/us/pl/107/135], § 133(3), struck out “grade in a” before “covered position” in subpar. (A), struck out “grade of a” before “covered position” and substituted “that position” for “that grade” in subpar. (B), and struck out “grade of a” before “covered position” in subpar. (D).
 
-    2000—Subsec. (d)(1). [Pub. L. 106–419, § 201(a)(1)(A)(i)][/us/pl/106/419/s201/a/1/A/i], substituted “Subject to subsection (e), the rates” for “The rates” in introductory provisions.
+    2000—Subsec. (d)(1). [Pub. L. 106–419][/us/pl/106/419], § 201(a)(1)(A)(i), substituted “Subject to subsection (e), the rates” for “The rates” in introductory provisions.
 
-    Subsec. (d)(1)(A). [Pub. L. 106–419, § 201(a)(1)(A)(ii)][/us/pl/106/419/s201/a/1/A/ii], substituted “section 5303” for “section 5305” and inserted “and to be by the same percentage” after “to have the same effective date”.
+    Subsec. (d)(1)(A). [Pub. L. 106–419][/us/pl/106/419], § 201(a)(1)(A)(ii), substituted “section 5303” for “section 5305” and inserted “and to be by the same percentage” after “to have the same effective date”.
 
-    Subsec. (d)(2). [Pub. L. 106–419, § 201(a)(1)(B)][/us/pl/106/419/s201/a/1/B], substituted “Except as provided in paragraph (1)(A), such” for “Such” in second sentence.
+    Subsec. (d)(2). [Pub. L. 106–419][/us/pl/106/419], § 201(a)(1)(B), substituted “Except as provided in paragraph (1)(A), such” for “Such” in second sentence.
 
-    Subsec. (d)(3)(B). [Pub. L. 106–419, § 201(a)(1)(C)][/us/pl/106/419/s201/a/1/C], inserted after first sentence “To the extent practicable, the director shall use third-party industry wage surveys to meet the requirements of the preceding sentence.”, inserted before penultimate sentence “To the extent practicable, all surveys conducted pursuant to this subparagraph or subparagraph (A) shall include the collection of salary midpoints, actual salaries, lowest and highest salaries, average salaries, bonuses, incentive pays, differential pays, actual beginning rates of pay, and such other information needed to meet the purpose of this section.”, and in penultimate sentence inserted “or published” after “survey is completed”.
+    Subsec. (d)(3)(B). [Pub. L. 106–419][/us/pl/106/419], § 201(a)(1)(C), inserted after first sentence “To the extent practicable, the director shall use third-party industry wage surveys to meet the requirements of the preceding sentence.”, inserted before penultimate sentence “To the extent practicable, all surveys conducted pursuant to this subparagraph or subparagraph (A) shall include the collection of salary midpoints, actual salaries, lowest and highest salaries, average salaries, bonuses, incentive pays, differential pays, actual beginning rates of pay, and such other information needed to meet the purpose of this section.”, and in penultimate sentence inserted “or published” after “survey is completed”.
 
-    Subsec. (d)(3)(C)(iii). [Pub. L. 106–419, § 201(a)(1)(D)][/us/pl/106/419/s201/a/1/D], struck out cl. (iii) which read as follows: “The authority of the director to use such additional data under this subparagraph with respect to certified registered nurse anesthetists expires on January 1, 1998.”
+    Subsec. (d)(3)(C)(iii). [Pub. L. 106–419][/us/pl/106/419], § 201(a)(1)(D), struck out cl. (iii) which read as follows: “The authority of the director to use such additional data under this subparagraph with respect to certified registered nurse anesthetists expires on January 1, 1998.”
 
-    Subsec. (e). [Pub. L. 106–419, § 201(a)(2)][/us/pl/106/419/s201/a/2], amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “Adjustments in rates of basic pay under subsection (d) may increase or reduce the rates of basic pay applicable to any grade of a covered position. In the case of such an adjustment that reduces the rates of pay for a grade, an employee serving at a Department health-care facility on the day before the effective date of that adjustment in a position affected by the adjustment may not (by reason of that adjustment) incur a reduction in the rate of basic pay applicable to that employee so long as the employee continues to serve in that covered position at that facility. If such an employee is subsequently promoted to a higher grade, or advanced to a higher step within the employee’s grade, for which the rate of pay as so adjusted is lower than the employee’s rate of basic pay on the day before the effective date of the promotion, the employee shall continue to be paid at a rate of basic pay not less than the rate of basic pay applicable to the employee before the promotion so long as the employee continues to serve in that covered position at that facility.”
+    Subsec. (e). [Pub. L. 106–419][/us/pl/106/419], § 201(a)(2), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “Adjustments in rates of basic pay under subsection (d) may increase or reduce the rates of basic pay applicable to any grade of a covered position. In the case of such an adjustment that reduces the rates of pay for a grade, an employee serving at a Department health-care facility on the day before the effective date of that adjustment in a position affected by the adjustment may not (by reason of that adjustment) incur a reduction in the rate of basic pay applicable to that employee so long as the employee continues to serve in that covered position at that facility. If such an employee is subsequently promoted to a higher grade, or advanced to a higher step within the employee’s grade, for which the rate of pay as so adjusted is lower than the employee’s rate of basic pay on the day before the effective date of the promotion, the employee shall continue to be paid at a rate of basic pay not less than the rate of basic pay applicable to the employee before the promotion so long as the employee continues to serve in that covered position at that facility.”
 
-    Subsec. (f). [Pub. L. 106–419, § 201(a)(3)][/us/pl/106/419/s201/a/3], substituted “March 1 of each year” for “February 1 of 1991, 1992, and 1993” and “subsection (d)” for “subsection (d)(1)(A)”.
+    Subsec. (f). [Pub. L. 106–419][/us/pl/106/419], § 201(a)(3), substituted “March 1 of each year” for “February 1 of 1991, 1992, and 1993” and “subsection (d)” for “subsection (d)(1)(A)”.
 
-    Subsecs. (g), (h). [Pub. L. 106–419, § 201(a)(4)][/us/pl/106/419/s201/a/4], redesignated subsec. (h) as (g) and struck out former subsec. (g) which directed that not later than Dec. 1 of 1991, 1992, and 1993, the Secretary was to submit to Congress a report regarding the exercise of authorities provided in this section for the preceding fiscal year and listed items to be included in report.
+    Subsecs. (g), (h). [Pub. L. 106–419][/us/pl/106/419], § 201(a)(4), redesignated subsec. (h) as (g) and struck out former subsec. (g) which directed that not later than Dec. 1 of 1991, 1992, and 1993, the Secretary was to submit to Congress a report regarding the exercise of authorities provided in this section for the preceding fiscal year and listed items to be included in report.
 
     1996—Subsec. (d)(3)(C)(iii). [Pub. L. 104–110][/us/pl/104/110] substituted “January 1, 1998” for “April 1, 1995”.
 
-    1994—Subsec. (d)(3)(C)(i)(I). [Pub. L. 103–446, § 1201(e)(23)][/us/pl/103/446/s1201/e/23], substituted “labor-market area” for “labor market area”.
+    1994—Subsec. (d)(3)(C)(i)(I). [Pub. L. 103–446][/us/pl/103/446], § 1201(e)(23), substituted “labor-market area” for “labor market area”.
 
-    Subsec. (g)(1). [Pub. L. 103–446, § 1201(c)(7)][/us/pl/103/446/s1201/c/7], substituted “Under Secretary for Health’s actions” for “Chief Medical Director’s actions”.
+    Subsec. (g)(1). [Pub. L. 103–446][/us/pl/103/446], § 1201(c)(7), substituted “Under Secretary for Health’s actions” for “Chief Medical Director’s actions”.
 
     1992—Subsec. (a)(2)(B). [Pub. L. 102–405][/us/pl/102/405] substituted “Under Secretary for Health” for “Chief Medical Director”.
 
-    Subsec. (a)(3). [Pub. L. 102–585, § 302][/us/pl/102/585/s302], designated existing provisions as subpar. (A), substituted “Except as provided in subparagraph (B), the rates” for “The rates”, and added subpar. (B).
+    Subsec. (a)(3). [Pub. L. 102–585][/us/pl/102/585], § 302, designated existing provisions as subpar. (A), substituted “Except as provided in subparagraph (B), the rates” for “The rates”, and added subpar. (B).
 
     Subsec. (a)(4). [Pub. L. 102–405][/us/pl/102/405] substituted “Under Secretary for Health” for “Chief Medical Director”.
 
-    Subsec. (b). [Pub. L. 102–585, § 301(b)][/us/pl/102/585/s301/b], substituted “five” for “four”.
+    Subsec. (b). [Pub. L. 102–585][/us/pl/102/585], § 301(b), substituted “five” for “four”.
 
     Subsec. (d)(1)(B). [Pub. L. 102–405][/us/pl/102/405] substituted “Under Secretary for Health” for “Chief Medical Director”.
 
-    Subsec. (d)(3)(C). [Pub. L. 102–585, § 303(2)][/us/pl/102/585/s303/2], added subpar. (C). Former subpar. (C) redesignated (D).
+    Subsec. (d)(3)(C). [Pub. L. 102–585][/us/pl/102/585], § 303(2), added subpar. (C). Former subpar. (C) redesignated (D).
 
     [Pub. L. 102–405][/us/pl/102/405] substituted “Under Secretary for Health” for “Chief Medical Director”.
 
-    Subsec. (d)(3)(D). [Pub. L. 102–585, § 303(1)][/us/pl/102/585/s303/1], redesignated subpar. (C) as (D). Former subpar. (D) redesignated (E).
+    Subsec. (d)(3)(D). [Pub. L. 102–585][/us/pl/102/585], § 303(1), redesignated subpar. (C) as (D). Former subpar. (D) redesignated (E).
 
     [Pub. L. 102–405][/us/pl/102/405] substituted “Under Secretary for Health” for “Chief Medical Director”.
 
-    Subsec. (d)(3)(E). [Pub. L. 102–585, § 303(1)][/us/pl/102/585/s303/1], redesignated subpar. (D) as (E).
+    Subsec. (d)(3)(E). [Pub. L. 102–585][/us/pl/102/585], § 303(1), redesignated subpar. (D) as (E).
 
     Subsec. (d)(4). [Pub. L. 102–405][/us/pl/102/405] substituted “Under Secretary for Health” for “Chief Medical Director” in two places.
 
-    Subsec. (g)(9). [Pub. L. 102–585, § 304(b)][/us/pl/102/585/s304/b], added par. (9).
+    Subsec. (g)(9). [Pub. L. 102–585][/us/pl/102/585], § 304(b), added par. (9).
 
-    Subsec. (g)(10). [Pub. L. 102–585, § 307][/us/pl/102/585/s307], added par. (10).
+    Subsec. (g)(10). [Pub. L. 102–585][/us/pl/102/585], § 307, added par. (10).
 
-    1991—[Pub. L. 102–40, § 401(c)(1)(A)][/us/pl/102/40/s401/c/1/A], renumbered [section 4141 of this title][/us/usc/t38/s4141] as this section.
+    1991—[Pub. L. 102–40][/us/pl/102/40], § 401(c)(1)(A), renumbered [section 4141 of this title][/us/usc/t38/s4141] as this section.
 
-    Subsec. (a)(2)(B). [Pub. L. 102–40, § 401(c)(2)(A)(i)][/us/pl/102/40/s401/c/2/A/i], substituted “paragraphs (1) and (3) of section 7401” for “clauses (1) and (3) of section 4104”.
+    Subsec. (a)(2)(B). [Pub. L. 102–40][/us/pl/102/40], § 401(c)(2)(A)(i), substituted “paragraphs (1) and (3) of section 7401” for “clauses (1) and (3) of section 4104”.
 
     Subsec. (a)(3). [Pub. L. 102–40][/us/pl/102/40], §§ 301(c), 401(c)(2)(A)(ii), substituted “7404” for “4107” and inserted before period at end “or chapter 53 of title 5”.
 
-    Subsec. (a)(4). [Pub. L. 102–40, § 401(c)(2)(A)(iii)][/us/pl/102/40/s401/c/2/A/iii], substituted “7452” for “4142”.
+    Subsec. (a)(4). [Pub. L. 102–40][/us/pl/102/40], § 401(c)(2)(A)(iii), substituted “7452” for “4142”.
 
-    Subsec. (b). [Pub. L. 102–40, § 401(c)(2)(B)][/us/pl/102/40/s401/c/2/B], substituted “7401(1)” for “4104(1)” and “7404(b)” for “4107(b)”.
+    Subsec. (b). [Pub. L. 102–40][/us/pl/102/40], § 401(c)(2)(B), substituted “7401(1)” for “4104(1)” and “7404(b)” for “4107(b)”.
 
-    Subsec. (d)(1)(B). [Pub. L. 102–40, § 301(b)(1)][/us/pl/102/40/s301/b/1], inserted “or the Chief Medical Director, with respect to covered Regional and Central Office employees in that grade,” before “determines”.
+    Subsec. (d)(1)(B). [Pub. L. 102–40][/us/pl/102/40], § 301(b)(1), inserted “or the Chief Medical Director, with respect to covered Regional and Central Office employees in that grade,” before “determines”.
 
-    Subsec. (d)(3)(C). [Pub. L. 102–40, § 301(b)(2)(B)][/us/pl/102/40/s301/b/2/B], added subpar. (C). Former subpar. (C) redesignated (D).
+    Subsec. (d)(3)(C). [Pub. L. 102–40][/us/pl/102/40], § 301(b)(2)(B), added subpar. (C). Former subpar. (C) redesignated (D).
 
-    Subsec. (d)(3)(D). [Pub. L. 102–40, § 301(b)(2)(A)][/us/pl/102/40/s301/b/2/A], redesignated subpar. (C) as (D) and inserted “or Chief Medical Director” after “facility”.
+    Subsec. (d)(3)(D). [Pub. L. 102–40][/us/pl/102/40], § 301(b)(2)(A), redesignated subpar. (C) as (D) and inserted “or Chief Medical Director” after “facility”.
 
-    Subsec. (d)(4). [Pub. L. 102–40, § 301(b)(3)][/us/pl/102/40/s301/b/3], inserted “, or the Chief Medical Director with respect to Regional and Central Office employees,” after “facility”.
+    Subsec. (d)(4). [Pub. L. 102–40][/us/pl/102/40], § 301(b)(3), inserted “, or the Chief Medical Director with respect to Regional and Central Office employees,” after “facility”.
 
-    Subsec. (g)(8). [Pub. L. 102–40, § 401(c)(2)(C)][/us/pl/102/40/s401/c/2/C], substituted “7452(b)(2)” for “4142(b)(2)”.
+    Subsec. (g)(8). [Pub. L. 102–40][/us/pl/102/40], § 401(c)(2)(C), substituted “7452(b)(2)” for “4142(b)(2)”.
 
  __Effective Date of 1992 Amendment__ 
 
@@ -257,7 +257,7 @@
 
  __Effective Date__ 
 
-[Section 104 of Pub. L. 101–366][/us/pl/101/366/s104], as amended by [Pub. L. 102–40, title III, § 301(e)][/us/pl/102/40/s301/e], May 7, 1991, [105 Stat. 208][/us/stat/105/208], provided that:
+[Section 104 of Pub. L. 101–366][/us/pl/101/366/s104], as amended by [Pub. L. 102–40, title III][/us/pl/102/40/tIII], § 301(e), May 7, 1991, [105 Stat. 208][/us/stat/105/208], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -271,13 +271,13 @@
 
  __Savings Provision__ 
 
-[Pub. L. 102–40, title III, § 301(a)][/us/pl/102/40/s301/a], May 7, 1991, [105 Stat. 208][/us/stat/105/208], provided that: 
+[Pub. L. 102–40, title III][/us/pl/102/40/tIII], § 301(a), May 7, 1991, [105 Stat. 208][/us/stat/105/208], provided that: 
 
 > “Physician assistants and expanded-function dental auxiliaries shall continue to be paid after August 14, 1990, according to the Nurse Schedule in [section 4107(b) of title 38][/us/usc/t38/s4107/b] \[former [section 4107(b) of this title][/us/usc/t38/s4107/b]\], United States Code, as in effect on August 14, 1990, until the effective date of a determination by the Secretary to convert those occupations to ‘covered positions’ and pay them pursuant to section 7451 of such title, as redesignated by section 401(c).”
 
  __Pilot Program To Study Innovative Recruitment Tools To Address Nursing Shortages at Department of Veterans Affairs Health Care Facilities__ 
 
-[Pub. L. 108–422, title V, § 501][/us/pl/108/422/s501], Nov. 30, 2004, [118 Stat. 2395][/us/stat/118/2395], provided that:
+[Pub. L. 108–422, title V][/us/pl/108/422/tV], § 501, Nov. 30, 2004, [118 Stat. 2395][/us/stat/118/2395], provided that:
 
 >     “(a)  __Pilot Program__  __.—__ 
 
@@ -305,15 +305,15 @@
 
  __Report on Requests for Waivers of Pay Reductions for Reemployed Annuitants To Fill Nurse Positions__ 
 
-    [Pub. L. 107–135, title I, § 103][/us/pl/107/135/s103], Jan. 23, 2002, [115 Stat. 2450][/us/stat/115/2450], required the Secretary of Veterans Affairs to submit to Congress not later than March 28 of 2002 and 2003 a report on requests, made during the fiscal year preceding such report, for waivers of pay reductions for reemployed annuitants to fill nurse positions.
+    [Pub. L. 107–135, title I][/us/pl/107/135/tI], § 103, Jan. 23, 2002, [115 Stat. 2450][/us/stat/115/2450], required the Secretary of Veterans Affairs to submit to Congress not later than March 28 of 2002 and 2003 a report on requests, made during the fiscal year preceding such report, for waivers of pay reductions for reemployed annuitants to fill nurse positions.
 
  __National Commission on VA Nursing__ 
 
-    [Pub. L. 107–135, title I][/us/pl/107/135], subtitle D (§§ 141–146), Jan. 23, 2002, [115 Stat. 2454][/us/stat/115/2454], established in the Department of Veterans Affairs the “National Commission on VA Nursing”, directed the Commission, not later than two years after its first meeting, to report to Congress on legislative and organizational policy changes to enhance the recruitment and retention of nurses and other nursing personnel by the Department and the future of the nursing profession within the Department, and provided for the termination of the Commission 90 days after the date of the submission of its report.
+    [Pub. L. 107–135, title I][/us/pl/107/135/tI], subtitle D (§§ 141–146), Jan. 23, 2002, [115 Stat. 2454][/us/stat/115/2454], established in the Department of Veterans Affairs the “National Commission on VA Nursing”, directed the Commission, not later than two years after its first meeting, to report to Congress on legislative and organizational policy changes to enhance the recruitment and retention of nurses and other nursing personnel by the Department and the future of the nursing profession within the Department, and provided for the termination of the Commission 90 days after the date of the submission of its report.
 
  __Report on Nurse Locality Pay__ 
 
-[Pub. L. 105–368, title IX, § 905][/us/pl/105/368/s905], Nov. 11, 1998, [112 Stat. 3361][/us/stat/112/3361], provided that:
+[Pub. L. 105–368, title IX][/us/pl/105/368/tIX], § 905, Nov. 11, 1998, [112 Stat. 3361][/us/stat/112/3361], provided that:
 
 >     “(a)  __Report Required__  __.—__ 
 
@@ -343,7 +343,7 @@
 
  __Nursing Personnel Qualification Standards__ 
 
-[Pub. L. 102–585, title III, § 305][/us/pl/102/585/s305], Nov. 4, 1992, [106 Stat. 4952][/us/stat/106/4952], provided that:
+[Pub. L. 102–585, title III][/us/pl/102/585/tIII], § 305, Nov. 4, 1992, [106 Stat. 4952][/us/stat/106/4952], provided that:
 
 >     “(a)  __Revision__  __.—__ 
 
@@ -363,7 +363,7 @@
 
  __Report on Pay for Chief Nurse Position__ 
 
-[Pub. L. 102–585, title III, § 306][/us/pl/102/585/s306], Nov. 4, 1992, [106 Stat. 4952][/us/stat/106/4952], provided that:
+[Pub. L. 102–585, title III][/us/pl/102/585/tIII], § 306, Nov. 4, 1992, [106 Stat. 4952][/us/stat/106/4952], provided that:
 
 >     “(a)  __Review__  __.—__ 
 
@@ -393,103 +393,103 @@
 [/us/usc/t38/s7404/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7404%2Fb
 [/us/usc/t5/s5303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5303
 [/us/usc/t5/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552
-[/us/pl/101/366/s102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F366%2Fs102%2Fb
+[/us/pl/101/366/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F366%2FtI
 [/us/stat/104/431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F431
-[/us/pl/102/40/s301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs301%2Fb
+[/us/pl/102/40/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2FtIII
 [/us/stat/105/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F208
-[/us/pl/102/405/s302/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405%2Fs302%2Fc%2F1
+[/us/pl/102/405/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405%2FtIII
 [/us/stat/106/1984]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1984
-[/us/pl/102/585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F585
+[/us/pl/102/585/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F585%2FtIII
 [/us/stat/106/4951-4953]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4951-4953
-[/us/pl/103/446/s1201/c/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2Fs1201%2Fc%2F7
+[/us/pl/103/446/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2FtXII
 [/us/stat/108/4684]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4684
-[/us/pl/104/110/s101/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F110%2Fs101%2Fi
+[/us/pl/104/110/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F110%2FtI
 [/us/stat/110/768]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F768
-[/us/pl/106/419/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419%2Fs201%2Fa
+[/us/pl/106/419/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419%2FtII
 [/us/stat/114/1838]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1838
-[/us/pl/107/135/s133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F135%2Fs133
+[/us/pl/107/135/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F135%2FtI
 [/us/stat/115/2454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2454
-[/us/pl/111/163/s501/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163%2Fs501%2Fa
+[/us/pl/111/163/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163%2FtV
 [/us/stat/124/1157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1157
-[/us/pl/106/419/s201/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419%2Fs201%2Fa%2F4
+[/us/pl/106/419/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419%2FtII
 [/us/stat/114/1840]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1840
 [/us/usc/t5/s5315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5315
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
-[/us/pl/111/163/s601/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163%2Fs601%2Fg
-[/us/pl/111/163/s601/j/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163%2Fs601%2Fj%2F1
-[/us/pl/111/163/s601/j/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163%2Fs601%2Fj%2F2
-[/us/pl/111/163/s601/j/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163%2Fs601%2Fj%2F3
-[/us/pl/111/163/s501/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163%2Fs501%2Fa
-[/us/pl/107/135/s133/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F135%2Fs133%2F1%2FA
-[/us/pl/107/135/s133/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F135%2Fs133%2F1%2FB
-[/us/pl/107/135/s133/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F135%2Fs133%2F1%2FC
-[/us/pl/107/135/s133/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F135%2Fs133%2F2
-[/us/pl/107/135/s133/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F135%2Fs133%2F3
-[/us/pl/106/419/s201/a/1/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419%2Fs201%2Fa%2F1%2FA%2Fi
-[/us/pl/106/419/s201/a/1/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419%2Fs201%2Fa%2F1%2FA%2Fii
-[/us/pl/106/419/s201/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419%2Fs201%2Fa%2F1%2FB
-[/us/pl/106/419/s201/a/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419%2Fs201%2Fa%2F1%2FC
-[/us/pl/106/419/s201/a/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419%2Fs201%2Fa%2F1%2FD
-[/us/pl/106/419/s201/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419%2Fs201%2Fa%2F2
-[/us/pl/106/419/s201/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419%2Fs201%2Fa%2F3
-[/us/pl/106/419/s201/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419%2Fs201%2Fa%2F4
+[/us/pl/111/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163
+[/us/pl/111/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163
+[/us/pl/111/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163
+[/us/pl/111/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163
+[/us/pl/111/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163
+[/us/pl/107/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F135
+[/us/pl/107/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F135
+[/us/pl/107/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F135
+[/us/pl/107/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F135
+[/us/pl/107/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F135
+[/us/pl/106/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419
+[/us/pl/106/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419
+[/us/pl/106/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419
+[/us/pl/106/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419
+[/us/pl/106/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419
+[/us/pl/106/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419
+[/us/pl/106/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419
+[/us/pl/106/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419
 [/us/pl/104/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F110
-[/us/pl/103/446/s1201/e/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2Fs1201%2Fe%2F23
-[/us/pl/103/446/s1201/c/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2Fs1201%2Fc%2F7
+[/us/pl/103/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446
+[/us/pl/103/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446
 [/us/pl/102/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405
-[/us/pl/102/585/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F585%2Fs302
+[/us/pl/102/585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F585
 [/us/pl/102/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405
-[/us/pl/102/585/s301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F585%2Fs301%2Fb
+[/us/pl/102/585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F585
 [/us/pl/102/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405
-[/us/pl/102/585/s303/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F585%2Fs303%2F2
+[/us/pl/102/585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F585
 [/us/pl/102/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405
-[/us/pl/102/585/s303/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F585%2Fs303%2F1
+[/us/pl/102/585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F585
 [/us/pl/102/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405
-[/us/pl/102/585/s303/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F585%2Fs303%2F1
+[/us/pl/102/585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F585
 [/us/pl/102/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405
-[/us/pl/102/585/s304/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F585%2Fs304%2Fb
-[/us/pl/102/585/s307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F585%2Fs307
-[/us/pl/102/40/s401/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs401%2Fc%2F1%2FA
-[/us/usc/t38/s4141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs4141
-[/us/pl/102/40/s401/c/2/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs401%2Fc%2F2%2FA%2Fi
+[/us/pl/102/585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F585
+[/us/pl/102/585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F585
 [/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40
-[/us/pl/102/40/s401/c/2/A/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs401%2Fc%2F2%2FA%2Fiii
-[/us/pl/102/40/s401/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs401%2Fc%2F2%2FB
-[/us/pl/102/40/s301/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs301%2Fb%2F1
-[/us/pl/102/40/s301/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs301%2Fb%2F2%2FB
-[/us/pl/102/40/s301/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs301%2Fb%2F2%2FA
-[/us/pl/102/40/s301/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs301%2Fb%2F3
-[/us/pl/102/40/s401/c/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs401%2Fc%2F2%2FC
+[/us/usc/t38/s4141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs4141
+[/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40
+[/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40
+[/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40
+[/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40
+[/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40
+[/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40
+[/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40
+[/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40
+[/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40
 [/us/pl/102/585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F585
 [/us/pl/102/585/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F585%2Fs308
 [/us/usc/t38/s7404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7404
 [/us/pl/101/366/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F366%2Fs104
-[/us/pl/102/40/s301/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs301%2Fe
+[/us/pl/102/40/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2FtIII
 [/us/stat/105/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F208
 [/us/usc/t38/s4107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs4107
 [/us/usc/t38/s4107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs4107
 [/us/usc/t38/s4107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs4107
-[/us/pl/102/40/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs301%2Fa
+[/us/pl/102/40/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2FtIII
 [/us/stat/105/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F208
 [/us/usc/t38/s4107/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs4107%2Fb
 [/us/usc/t38/s4107/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs4107%2Fb
-[/us/pl/108/422/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F422%2Fs501
+[/us/pl/108/422/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F422%2FtV
 [/us/stat/118/2395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2395
-[/us/pl/107/135/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F135%2Fs103
+[/us/pl/107/135/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F135%2FtI
 [/us/stat/115/2450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2450
-[/us/pl/107/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F135
+[/us/pl/107/135/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F135%2FtI
 [/us/stat/115/2454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2454
-[/us/pl/105/368/s905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2Fs905
+[/us/pl/105/368/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2FtIX
 [/us/stat/112/3361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3361
 [/us/pl/101/366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F366
 [/us/usc/t38/s7451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7451
 [/us/pl/104/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F110
 [/us/pl/104/110/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F110%2Fs103
 [/us/usc/t38/s1710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1710
-[/us/pl/102/585/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F585%2Fs305
+[/us/pl/102/585/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F585%2FtIII
 [/us/stat/106/4952]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4952
 [/us/usc/t38/s7404/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7404%2Fb%2F1
-[/us/pl/102/585/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F585%2Fs306
+[/us/pl/102/585/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F585%2FtIII
 [/us/stat/106/4952]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4952
 
 

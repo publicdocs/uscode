@@ -17,7 +17,7 @@
 
     At the expiration of any term period any insurance policy issued on the five-year level premium term plan which has not been exchanged or converted to a permanent plan of insurance and which is not lapsed shall be renewed as level premium term insurance without application for a successive five-year period at the premium rate for the attained age without medical examination. However, renewal shall be effected in cases where the policy is lapsed only if the insured makes application for reinstatement and renewal of the insured’s term policy within five years after the date of lapse, and reinstatement in such cases shall be under the terms and conditions prescribed by the Secretary.
 
-([Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1159][/us/stat/72/1159], § 745; [Pub. L. 91–291, § 11][/us/pl/91/291/s11], June 25, 1970, [84 Stat. 331][/us/stat/84/331]; [Pub. L. 99–576, title VII, § 701(30)][/us/pl/99/576/s701/30], Oct. 28, 1986, [100 Stat. 3293][/us/stat/100/3293]; renumbered § 1945 and amended [Pub. L. 102–83][/us/pl/102/83], §§ 4(b)(1), (2)(E), 5(a), Aug. 6, 1991, [105 Stat. 404–406][/us/stat/105/404-406].)
+([Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1159][/us/stat/72/1159], § 745; [Pub. L. 91–291][/us/pl/91/291], § 11, June 25, 1970, [84 Stat. 331][/us/stat/84/331]; [Pub. L. 99–576, title VII][/us/pl/99/576/tVII], § 701(30), Oct. 28, 1986, [100 Stat. 3293][/us/stat/100/3293]; renumbered § 1945 and amended [Pub. L. 102–83][/us/pl/102/83], §§ 4(b)(1), (2)(E), 5(a), Aug. 6, 1991, [105 Stat. 404–406][/us/stat/105/404-406].)
 
  __Amendments__ 
 
@@ -40,9 +40,9 @@
 
 [/us/pl/85/857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F857
 [/us/stat/72/1159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1159
-[/us/pl/91/291/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F291%2Fs11
+[/us/pl/91/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F291
 [/us/stat/84/331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F331
-[/us/pl/99/576/s701/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2Fs701%2F30
+[/us/pl/99/576/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2FtVII
 [/us/stat/100/3293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3293
 [/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/404-406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F404-406

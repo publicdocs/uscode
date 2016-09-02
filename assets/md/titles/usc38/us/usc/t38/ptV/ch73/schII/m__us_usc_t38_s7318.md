@@ -61,7 +61,7 @@
 
     (e) In this section, the term “preventive health services” has the meaning given such term in [section 1701(9) of this title][/us/usc/t38/s1701/9].
 
-(Added [Pub. L. 102–585, title V, § 511(a)(1)][/us/pl/102/585/s511/a/1], Nov. 4, 1992, [106 Stat. 4955][/us/stat/106/4955]; amended [Pub. L. 103–446, title XII, § 1201(c)(5)][/us/pl/103/446/s1201/c/5], Nov. 2, 1994, [108 Stat. 4683][/us/stat/108/4683].)
+(Added [Pub. L. 102–585, title V][/us/pl/102/585/tV], § 511(a)(1), Nov. 4, 1992, [106 Stat. 4955][/us/stat/106/4955]; amended [Pub. L. 103–446, title XII][/us/pl/103/446/tXII], § 1201(c)(5), Nov. 2, 1994, [108 Stat. 4683][/us/stat/108/4683].)
 
  __Amendments__ 
 
@@ -69,7 +69,7 @@
 
  __Selection of Facility at Which Center To Be Established__ 
 
-[Pub. L. 102–585, title V, § 511(c)][/us/pl/102/585/s511/c], Nov. 4, 1992, [106 Stat. 4956][/us/stat/106/4956], as amended by [Pub. L. 103–446, title XII, § 1202(e)(2)][/us/pl/103/446/s1202/e/2], Nov. 2, 1994, [108 Stat. 4689][/us/stat/108/4689], provided that: 
+[Pub. L. 102–585, title V][/us/pl/102/585/tV], § 511(c), Nov. 4, 1992, [106 Stat. 4956][/us/stat/106/4956], as amended by [Pub. L. 103–446, title XII][/us/pl/103/446/tXII], § 1202(e)(2), Nov. 2, 1994, [108 Stat. 4689][/us/stat/108/4689], provided that: 
 
 > “In order to establish the National Center for Preventive Health pursuant to [section 7318 of title 38][/us/usc/t38/s7318], United States Code, as added by subsection (a), the Under Secretary for Health of the Department of Veterans Affairs shall solicit proposals from Department health care facilities to establish the center. The Under Secretary for Health shall establish such center at the facility or facilities which the Under Secretary for Health determines, on the basis of a review and analysis of such proposals, would most effectively carry out the purposes set forth in subsection (b) of such section.”
 
@@ -81,14 +81,14 @@
 ----------
 
 [/us/usc/t38/s1701/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1701%2F9
-[/us/pl/102/585/s511/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F585%2Fs511%2Fa%2F1
+[/us/pl/102/585/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F585%2FtV
 [/us/stat/106/4955]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4955
-[/us/pl/103/446/s1201/c/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2Fs1201%2Fc%2F5
+[/us/pl/103/446/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2FtXII
 [/us/stat/108/4683]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4683
 [/us/pl/103/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446
-[/us/pl/102/585/s511/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F585%2Fs511%2Fc
+[/us/pl/102/585/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F585%2FtV
 [/us/stat/106/4956]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4956
-[/us/pl/103/446/s1202/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2Fs1202%2Fe%2F2
+[/us/pl/103/446/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2FtXII
 [/us/stat/108/4689]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4689
 [/us/usc/t38/s7318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7318
 

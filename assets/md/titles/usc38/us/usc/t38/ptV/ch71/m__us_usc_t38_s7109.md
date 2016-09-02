@@ -21,21 +21,21 @@
 
     (c) The Board shall furnish a claimant with notice that an advisory medical opinion has been requested under this section with respect to the claimant’s case and shall furnish the claimant with a copy of such opinion when it is received by the Board.
 
-(Added [Pub. L. 87–671, § 1][/us/pl/87/671/s1], Sept. 19, 1962, [76 Stat. 557][/us/stat/76/557], § 4009; amended [Pub. L. 100–687, div. A, title I, § 103(b)][/us/pl/100/687/s103/b], Nov. 18, 1988, [102 Stat. 4107][/us/stat/102/4107]; renumbered § 7109, [Pub. L. 102–40, title IV, § 402(b)(1)][/us/pl/102/40/s402/b/1], May 7, 1991, [105 Stat. 238][/us/stat/105/238]; [Pub. L. 102–83, § 4(a)(3)][/us/pl/102/83/s4/a/3], (4), (b)(1), (2)(E), Aug. 6, 1991, [105 Stat. 404][/us/stat/105/404], 405.)
+(Added [Pub. L. 87–671][/us/pl/87/671], § 1, Sept. 19, 1962, [76 Stat. 557][/us/stat/76/557], § 4009; amended [Pub. L. 100–687, div. A, title I][/us/pl/100/687/dA/tI], § 103(b), Nov. 18, 1988, [102 Stat. 4107][/us/stat/102/4107]; renumbered § 7109, [Pub. L. 102–40, title IV][/us/pl/102/40/tIV], § 402(b)(1), May 7, 1991, [105 Stat. 238][/us/stat/105/238]; [Pub. L. 102–83][/us/pl/102/83], § 4(a)(3), (4), (b)(1), (2)(E), Aug. 6, 1991, [105 Stat. 404][/us/stat/105/404], 405.)
 
  __Amendments__ 
 
     1991—[Pub. L. 102–40][/us/pl/102/40] renumbered [section 4009 of this title][/us/usc/t38/s4009] as this section.
 
-    Subsec. (a). [Pub. L. 102–83, § 4(a)(3)][/us/pl/102/83/s4/a/3], (4), substituted “Department” for “Veterans’ Administration” in two places.
+    Subsec. (a). [Pub. L. 102–83][/us/pl/102/83], § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration” in two places.
 
-    Subsec. (b). [Pub. L. 102–83, § 4(b)(1)][/us/pl/102/83/s4/b/1], (2)(E), substituted “Secretary” for “Administrator”.
+    Subsec. (b). [Pub. L. 102–83][/us/pl/102/83], § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
-    1988—Subsec. (a). [Pub. L. 100–687, § 103(b)(1)][/us/pl/100/687/s103/b/1], substituted “Board may” for “Board is authorized to”.
+    1988—Subsec. (a). [Pub. L. 100–687][/us/pl/100/687], § 103(b)(1), substituted “Board may” for “Board is authorized to”.
 
-    Subsec. (b). [Pub. L. 100–687, § 103(b)(2)][/us/pl/100/687/s103/b/2], substituted “Any such arrangement shall” for “Such arrangement will”, and “an individual case shall” for “any individual case will”.
+    Subsec. (b). [Pub. L. 100–687][/us/pl/100/687], § 103(b)(2), substituted “Any such arrangement shall” for “Such arrangement will”, and “an individual case shall” for “any individual case will”.
 
-    Subsec. (c). [Pub. L. 100–687, § 103(b)(3)][/us/pl/100/687/s103/b/3], added subsec. (c).
+    Subsec. (c). [Pub. L. 100–687][/us/pl/100/687], § 103(b)(3), added subsec. (c).
 
  __Effective Date of 1988 Amendment__ 
 
@@ -52,21 +52,21 @@
 ----------
 ----------
 
-[/us/pl/87/671/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F671%2Fs1
+[/us/pl/87/671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F671
 [/us/stat/76/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F557
-[/us/pl/100/687/s103/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F687%2Fs103%2Fb
+[/us/pl/100/687/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F687%2FdA%2FtI
 [/us/stat/102/4107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4107
-[/us/pl/102/40/s402/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs402%2Fb%2F1
+[/us/pl/102/40/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2FtIV
 [/us/stat/105/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F238
-[/us/pl/102/83/s4/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fa%2F3
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F404
 [/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40
 [/us/usc/t38/s4009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs4009
-[/us/pl/102/83/s4/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fa%2F3
-[/us/pl/102/83/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fb%2F1
-[/us/pl/100/687/s103/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F687%2Fs103%2Fb%2F1
-[/us/pl/100/687/s103/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F687%2Fs103%2Fb%2F2
-[/us/pl/100/687/s103/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F687%2Fs103%2Fb%2F3
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/100/687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F687
+[/us/pl/100/687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F687
+[/us/pl/100/687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F687
 [/us/pl/100/687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F687
 [/us/pl/100/687/s401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F687%2Fs401%2Fa
 [/us/usc/t38/s7251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7251

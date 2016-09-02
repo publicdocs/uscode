@@ -155,11 +155,11 @@
 
             (B) not less than 51 percent of which is owned by one or more veterans with service-connected disabilities that are permanent and total who are unable to manage the daily business operations of such concern or, in the case of a publicly owned business, not less than 51 percent of the stock of which is owned by one or more such veterans.
 
-(Added [Pub. L. 109–461, title V, § 502(a)(1)][/us/pl/109/461/s502/a/1], Dec. 22, 2006, [120 Stat. 3431][/us/stat/120/3431]; amended [Pub. L. 110–389, title VIII, § 806][/us/pl/110/389/s806], Oct. 10, 2008, [122 Stat. 4189][/us/stat/122/4189]; [Pub. L. 111–275, title I, § 104(b)(1)][/us/pl/111/275/s104/b/1], Oct. 13, 2010, [124 Stat. 2867][/us/stat/124/2867]; [Pub. L. 111–350, § 5(j)(7)][/us/pl/111/350/s5/j/7], Jan. 4, 2011, [124 Stat. 3850][/us/stat/124/3850]; Pub. L. 112—154, title VII, § 706, Aug. 6, 2012, [126 Stat. 1206][/us/stat/126/1206].)
+(Added [Pub. L. 109–461, title V][/us/pl/109/461/tV], § 502(a)(1), Dec. 22, 2006, [120 Stat. 3431][/us/stat/120/3431]; amended [Pub. L. 110–389, title VIII][/us/pl/110/389/tVIII], § 806, Oct. 10, 2008, [122 Stat. 4189][/us/stat/122/4189]; [Pub. L. 111–275, title I][/us/pl/111/275/tI], § 104(b)(1), Oct. 13, 2010, [124 Stat. 2867][/us/stat/124/2867]; [Pub. L. 111–350][/us/pl/111/350], § 5(j)(7), Jan. 4, 2011, [124 Stat. 3850][/us/stat/124/3850]; Pub. L. 112—154, title VII, § 706, Aug. 6, 2012, [126 Stat. 1206][/us/stat/126/1206].)
 
  __References in Text__ 
 
-    The Small Business Act, referred to in subsec. (j)(2), is [Pub. L. 85–536, § 2][/us/pl/85/536/s2](1 et seq.), July 18, 1958, [72 Stat. 384][/us/stat/72/384], which is classified generally to chapter 14A (§ 631 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 631 of Title 15][/us/usc/t15/s631] and Tables.
+    The Small Business Act, referred to in subsec. (j)(2), is [Pub. L. 85–536][/us/pl/85/536], § 2(1 et seq.), July 18, 1958, [72 Stat. 384][/us/stat/72/384], which is classified generally to chapter 14A (§ 631 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 631 of Title 15][/us/usc/t15/s631] and Tables.
 
  __Amendments__ 
 
@@ -167,9 +167,9 @@
 
     2011—Subsecs. (b), (c)(2). [Pub. L. 111–350][/us/pl/111/350] substituted “[section 134 of title 41][/us/usc/t41/s134]” for “section 4 of the Office of Federal Procurement Policy Act ([41 U.S.C. 403][/us/usc/t41/s403])”.
 
-    2010—Subsec. (f)(2). [Pub. L. 111–275, § 104(b)(1)(A)][/us/pl/111/275/s104/b/1/A], designated existing provisions as subpar. (A), inserted at end of subpar. (A) “Application for inclusion in the database shall constitute permission under [section 552a of title 5][/us/usc/t5/s552a] (commonly referred to as the Privacy Act) for the Secretary to access such personal information maintained by the Secretary as may be necessary to verify the information contained in the application.”, and added subpar. (B).
+    2010—Subsec. (f)(2). [Pub. L. 111–275][/us/pl/111/275], § 104(b)(1)(A), designated existing provisions as subpar. (A), inserted at end of subpar. (A) “Application for inclusion in the database shall constitute permission under [section 552a of title 5][/us/usc/t5/s552a] (commonly referred to as the Privacy Act) for the Secretary to access such personal information maintained by the Secretary as may be necessary to verify the information contained in the application.”, and added subpar. (B).
 
-    Subsec. (f)(4). [Pub. L. 111–275, § 104(b)(1)(B)][/us/pl/111/275/s104/b/1/B], added par. (4) and struck out former par. (4) which read as follows: “In maintaining the database, the Secretary shall carry out at least the following two verification functions:
+    Subsec. (f)(4). [Pub. L. 111–275][/us/pl/111/275], § 104(b)(1)(B), added par. (4) and struck out former par. (4) which read as follows: “In maintaining the database, the Secretary shall carry out at least the following two verification functions:
 
     “(A) Verification that each small business concern listed in the database is owned and controlled by veterans.
 
@@ -179,13 +179,13 @@
 
  __Effective Date__ 
 
-[Pub. L. 109–461, title V, § 502(d)][/us/pl/109/461/s502/d], Dec. 22, 2006, [120 Stat. 3435][/us/stat/120/3435], provided that: 
+[Pub. L. 109–461, title V][/us/pl/109/461/tV], § 502(d), Dec. 22, 2006, [120 Stat. 3435][/us/stat/120/3435], provided that: 
 
 > “This section \[enacting this section and provisions set out as a note below\] and the amendments made by this section shall take effect on the date that is 180 days after the date of the enactment of this Act \[Dec. 22, 2006\].”
 
  __Transition Provisions__ 
 
-[Pub. L. 111–275, title I, § 104(b)(2)][/us/pl/111/275/s104/b/2], Oct. 13, 2010, [124 Stat. 2868][/us/stat/124/2868], provided that: 
+[Pub. L. 111–275, title I][/us/pl/111/275/tI], § 104(b)(2), Oct. 13, 2010, [124 Stat. 2868][/us/stat/124/2868], provided that: 
 
 > “In the case of a small business concern included in the database as of the date of the enactment of this Act \[Oct. 13, 2010\] for which, as of such date, the Secretary of Veterans Affairs has not verified the status of such concern in accordance with paragraph (4) of subsection (f) of [section 8127 of title 38][/us/usc/t38/s8127], United States Code, as amended by paragraph (1), not later than 60 days after the date of the enactment of this Act, the Secretary shall notify the person who owns and controls the concern that—
 
@@ -197,7 +197,7 @@
 
 >     “(D) the person who owns and controls the concern must submit to the Secretary all information required by the Secretary under this paragraph within 90 days of receiving the Secretary’s notice of such requirement or the concern shall be removed from the database.”
 
-[Pub. L. 109–461, title V, § 502(b)][/us/pl/109/461/s502/b], Dec. 22, 2006, [120 Stat. 3435][/us/stat/120/3435], provided that: 
+[Pub. L. 109–461, title V][/us/pl/109/461/tV], § 502(b), Dec. 22, 2006, [120 Stat. 3435][/us/stat/120/3435], provided that: 
 
 > “A small business concern that is listed in any small business database maintained by the Secretary of Veterans Affairs on the date of the enactment of this Act \[Dec. 22, 2006\] shall be presumed to be eligible for inclusion in the database under subsection (f) of [section 8127 of title 38][/us/usc/t38/s8127], United States Code, as added by subsection (a), during the period beginning on the effective date of that section \[see Effective Date note above\] and ending one year after such effective date. Such a small business concern may be removed from the database during that period if it is found not to be a small business concern owned and controlled by veterans (as defined in subsection (k) of such section).”
 
@@ -216,33 +216,33 @@
 [/us/usc/t15/s657a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs657a
 [/us/usc/t15/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs631
 [/us/usc/t15/s632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs632
-[/us/pl/109/461/s502/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461%2Fs502%2Fa%2F1
+[/us/pl/109/461/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461%2FtV
 [/us/stat/120/3431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3431
-[/us/pl/110/389/s806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F389%2Fs806
+[/us/pl/110/389/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F389%2FtVIII
 [/us/stat/122/4189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4189
-[/us/pl/111/275/s104/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275%2Fs104%2Fb%2F1
+[/us/pl/111/275/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275%2FtI
 [/us/stat/124/2867]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2867
-[/us/pl/111/350/s5/j/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs5%2Fj%2F7
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3850]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3850
 [/us/stat/126/1206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1206
-[/us/pl/85/536/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F536%2Fs2
+[/us/pl/85/536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F536
 [/us/stat/72/384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F384
 [/us/usc/t15/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs631
 [/us/pl/112/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154
 [/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/usc/t41/s134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs134
 [/us/usc/t41/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs403
-[/us/pl/111/275/s104/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275%2Fs104%2Fb%2F1%2FA
+[/us/pl/111/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275
 [/us/usc/t5/s552a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552a
-[/us/pl/111/275/s104/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275%2Fs104%2Fb%2F1%2FB
+[/us/pl/111/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275
 [/us/pl/110/389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F389
-[/us/pl/109/461/s502/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461%2Fs502%2Fd
+[/us/pl/109/461/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461%2FtV
 [/us/stat/120/3435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3435
-[/us/pl/111/275/s104/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275%2Fs104%2Fb%2F2
+[/us/pl/111/275/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275%2FtI
 [/us/stat/124/2868]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2868
 [/us/usc/t38/s8127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs8127
 [/us/usc/t5/s552a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552a
-[/us/pl/109/461/s502/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461%2Fs502%2Fb
+[/us/pl/109/461/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461%2FtV
 [/us/stat/120/3435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3435
 [/us/usc/t38/s8127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs8127
 

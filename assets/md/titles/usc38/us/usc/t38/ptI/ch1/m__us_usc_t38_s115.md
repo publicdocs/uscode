@@ -21,7 +21,7 @@
 
     (2) even though the property will be held in other than a fee simple interest in a case in which the Secretary determines that the interest to be acquired is sufficient for the purposes of the intended use.
 
-(Added [Pub. L. 102–86, title IV, § 402(a)][/us/pl/102/86/s402/a], Aug. 14, 1991, [105 Stat. 422][/us/stat/105/422]; amended [Pub. L. 102–83, § 5(c)(1)][/us/pl/102/83/s5/c/1], Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406]; [Pub. L. 103–446, title XII, § 1201(d)(1)][/us/pl/103/446/s1201/d/1], Nov. 2, 1994, [108 Stat. 4684][/us/stat/108/4684]; [Pub. L. 107–217, § 3(j)(1)][/us/pl/107/217/s3/j/1], Aug. 21, 2002, [116 Stat. 1300][/us/stat/116/1300].)
+(Added [Pub. L. 102–86, title IV][/us/pl/102/86/tIV], § 402(a), Aug. 14, 1991, [105 Stat. 422][/us/stat/105/422]; amended [Pub. L. 102–83][/us/pl/102/83], § 5(c)(1), Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406]; [Pub. L. 103–446, title XII][/us/pl/103/446/tXII], § 1201(d)(1), Nov. 2, 1994, [108 Stat. 4684][/us/stat/108/4684]; [Pub. L. 107–217][/us/pl/107/217], § 3(j)(1), Aug. 21, 2002, [116 Stat. 1300][/us/stat/116/1300].)
 
  __Amendments__ 
 
@@ -39,13 +39,13 @@
 ----------
 
 [/us/usc/t40/s3111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs3111
-[/us/pl/102/86/s402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F86%2Fs402%2Fa
+[/us/pl/102/86/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F86%2FtIV
 [/us/stat/105/422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F422
-[/us/pl/102/83/s5/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fc%2F1
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F406
-[/us/pl/103/446/s1201/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2Fs1201%2Fd%2F1
+[/us/pl/103/446/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2FtXII
 [/us/stat/108/4684]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4684
-[/us/pl/107/217/s3/j/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs3%2Fj%2F1
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1300
 [/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/usc/t40/s3111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs3111

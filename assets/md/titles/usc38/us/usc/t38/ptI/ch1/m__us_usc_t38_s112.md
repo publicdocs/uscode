@@ -21,7 +21,7 @@
 
     (c) A certificate may not be furnished under the program under subsection (a) on behalf of a deceased person described in [section 2411(b) of this title][/us/usc/t38/s2411/b].
 
-(Added [Pub. L. 89–88, § 1(a)][/us/pl/89/88/s1/a], July 24, 1965, [79 Stat. 264][/us/stat/79/264]; amended [Pub. L. 102–83, § 4(b)(1)][/us/pl/102/83/s4/b/1], (2)(E), Aug. 6, 1991, [105 Stat. 404][/us/stat/105/404], 405; [Pub. L. 107–330, title II, § 201(a)][/us/pl/107/330/s201/a], Dec. 6, 2002, [116 Stat. 2823][/us/stat/116/2823]; [Pub. L. 112–154, title VI, § 603][/us/pl/112/154/s603], Aug. 6, 2012, [126 Stat. 1201][/us/stat/126/1201].)
+(Added [Pub. L. 89–88][/us/pl/89/88], § 1(a), July 24, 1965, [79 Stat. 264][/us/stat/79/264]; amended [Pub. L. 102–83][/us/pl/102/83], § 4(b)(1), (2)(E), Aug. 6, 1991, [105 Stat. 404][/us/stat/105/404], 405; [Pub. L. 107–330, title II][/us/pl/107/330/tII], § 201(a), Dec. 6, 2002, [116 Stat. 2823][/us/stat/116/2823]; [Pub. L. 112–154, title VI][/us/pl/112/154/tVI], § 603, Aug. 6, 2012, [126 Stat. 1201][/us/stat/126/1201].)
 
  __Amendments__ 
 
@@ -33,7 +33,7 @@
 
  __Effective Date of 2002 Amendment__ 
 
-[Pub. L. 107–330, title II, § 201(d)][/us/pl/107/330/s201/d], Dec. 6, 2002, [116 Stat. 2823][/us/stat/116/2823], provided that: 
+[Pub. L. 107–330, title II][/us/pl/107/330/tII], § 201(d), Dec. 6, 2002, [116 Stat. 2823][/us/stat/116/2823], provided that: 
 
 > “The amendments made by this section \[amending this section and sections 2301 and 2306 of this title\] shall apply with respect to deaths occurring on or after the date of the enactment of this Act \[Dec. 6, 2002\].”
 
@@ -45,18 +45,18 @@
 ----------
 
 [/us/usc/t38/s2411/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs2411%2Fb
-[/us/pl/89/88/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F88%2Fs1%2Fa
+[/us/pl/89/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F88
 [/us/stat/79/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F264
-[/us/pl/102/83/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fb%2F1
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F404
-[/us/pl/107/330/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F330%2Fs201%2Fa
+[/us/pl/107/330/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F330%2FtII
 [/us/stat/116/2823]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2823
-[/us/pl/112/154/s603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154%2Fs603
+[/us/pl/112/154/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154%2FtVI
 [/us/stat/126/1201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1201
 [/us/pl/112/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154
 [/us/pl/107/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F330
 [/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
-[/us/pl/107/330/s201/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F330%2Fs201%2Fd
+[/us/pl/107/330/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F330%2FtII
 [/us/stat/116/2823]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2823
 
 

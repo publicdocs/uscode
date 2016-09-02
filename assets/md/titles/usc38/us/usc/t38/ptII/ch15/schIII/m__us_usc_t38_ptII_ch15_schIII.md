@@ -17,7 +17,7 @@
 
  __Amendments__ 
 
-    1975—[Pub. L. 94–169, title I, § 101(2)(G)][/us/pl/94/169/s101/2/G], Dec. 23, 1975, [89 Stat. 1014][/us/stat/89/1014], substituted “SURVIVING SPOUSES” for “WIDOWS” in subchapter heading.
+    1975—[Pub. L. 94–169, title I][/us/pl/94/169/tI], § 101(2)(G), Dec. 23, 1975, [89 Stat. 1014][/us/stat/89/1014], substituted “SURVIVING SPOUSES” for “WIDOWS” in subchapter heading.
 
  __Wars Before World War I__ 
 
@@ -28,7 +28,7 @@
 ----------
 ----------
 
-[/us/pl/94/169/s101/2/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F169%2Fs101%2F2%2FG
+[/us/pl/94/169/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F169%2FtI
 [/us/stat/89/1014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F1014
 
 

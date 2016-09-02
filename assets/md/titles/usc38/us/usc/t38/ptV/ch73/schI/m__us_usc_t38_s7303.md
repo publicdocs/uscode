@@ -59,7 +59,7 @@
 
             (C) Members of appropriate task forces and working groups within the Department (including the Women Veterans Working Group and the Task Force on Treatment of Women Who Suffer Sexual Abuse).
 
-(Added [Pub. L. 102–40, title IV, § 401(a)(3)][/us/pl/102/40/s401/a/3], May 7, 1991, [105 Stat. 211][/us/stat/105/211]; amended [Pub. L. 102–405, title III, § 302(c)(1)][/us/pl/102/405/s302/c/1], Oct. 9, 1992, [106 Stat. 1984][/us/stat/106/1984]; [Pub. L. 103–452, title I, § 102(a)][/us/pl/103/452/s102/a], (b)(1), Nov. 2, 1994, [108 Stat. 4785][/us/stat/108/4785], 4786; [Pub. L. 105–220, title IV, § 414(c)][/us/pl/105/220/s414/c], Aug. 7, 1998, [112 Stat. 1242][/us/stat/112/1242]; [Pub. L. 107–135, title II, § 205(a)][/us/pl/107/135/s205/a], Jan. 23, 2002, [115 Stat. 2460][/us/stat/115/2460]; [Pub. L. 108–170, title IV, § 401(b)][/us/pl/108/170/s401/b], Dec. 6, 2003, [117 Stat. 2061][/us/stat/117/2061].)
+(Added [Pub. L. 102–40, title IV][/us/pl/102/40/tIV], § 401(a)(3), May 7, 1991, [105 Stat. 211][/us/stat/105/211]; amended [Pub. L. 102–405, title III][/us/pl/102/405/tIII], § 302(c)(1), Oct. 9, 1992, [106 Stat. 1984][/us/stat/106/1984]; [Pub. L. 103–452, title I][/us/pl/103/452/tI], § 102(a), (b)(1), Nov. 2, 1994, [108 Stat. 4785][/us/stat/108/4785], 4786; [Pub. L. 105–220, title IV][/us/pl/105/220/tIV], § 414(c), Aug. 7, 1998, [112 Stat. 1242][/us/stat/112/1242]; [Pub. L. 107–135, title II][/us/pl/107/135/tII], § 205(a), Jan. 23, 2002, [115 Stat. 2460][/us/stat/115/2460]; [Pub. L. 108–170, title IV][/us/pl/108/170/tIV], § 401(b), Dec. 6, 2003, [117 Stat. 2061][/us/stat/117/2061].)
 
  __References in Text__ 
 
@@ -79,17 +79,17 @@
 
  __Applicability to Fiscal Year 2002__ 
 
-    [Pub. L. 107–135, title II, § 205(b)][/us/pl/107/135/s205/b], Jan. 23, 2002, [115 Stat. 2460][/us/stat/115/2460], related to transfer of appropriations for fiscal year 2002 to carry out subsec. (e) of this section for that fiscal year.
+    [Pub. L. 107–135, title II][/us/pl/107/135/tII], § 205(b), Jan. 23, 2002, [115 Stat. 2460][/us/stat/115/2460], related to transfer of appropriations for fiscal year 2002 to carry out subsec. (e) of this section for that fiscal year.
 
  __Post-Traumatic Stress Disorder Research__ 
 
-[Pub. L. 102–405, title I, § 122(a)][/us/pl/102/405/s122/a], Oct. 9, 1992, [106 Stat. 1981][/us/stat/106/1981], provided that: 
+[Pub. L. 102–405, title I][/us/pl/102/405/tI], § 122(a), Oct. 9, 1992, [106 Stat. 1981][/us/stat/106/1981], provided that: 
 
 > “In carrying out research and awarding grants under chapter 73 of title 38, United States Code, the Secretary shall assign a high priority to the conduct of research on mental illness, including research regarding (1) post-traumatic stress disorder, (2) post-traumatic stress disorder in association with substance abuse, and (3) the treatment of those disorders.”
 
  __Research Relating to Women Veterans’ Health__ 
 
-    [Pub. L. 102–585, title I, § 109][/us/pl/102/585/s109], Nov. 4, 1992, [106 Stat. 4948][/us/stat/106/4948], provided for initiation and expansion of research relating to health of women veterans and authorization of appropriations for fiscal years 1993 through 1995 to carry out such studies, prior to repeal by [Pub. L. 103–452, title I, § 102(b)(2)][/us/pl/103/452/s102/b/2], Nov. 2, 1994, [108 Stat. 4786][/us/stat/108/4786].
+    [Pub. L. 102–585, title I][/us/pl/102/585/tI], § 109, Nov. 4, 1992, [106 Stat. 4948][/us/stat/106/4948], provided for initiation and expansion of research relating to health of women veterans and authorization of appropriations for fiscal years 1993 through 1995 to carry out such studies, prior to repeal by [Pub. L. 103–452, title I][/us/pl/103/452/tI], § 102(b)(2), Nov. 2, 1994, [108 Stat. 4786][/us/stat/108/4786].
 
 ----------
 
@@ -99,17 +99,17 @@
 ----------
 
 [/us/usc/t38/s7302/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7302%2Fd
-[/us/pl/102/40/s401/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs401%2Fa%2F3
+[/us/pl/102/40/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2FtIV
 [/us/stat/105/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F211
-[/us/pl/102/405/s302/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405%2Fs302%2Fc%2F1
+[/us/pl/102/405/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405%2FtIII
 [/us/stat/106/1984]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1984
-[/us/pl/103/452/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F452%2Fs102%2Fa
+[/us/pl/103/452/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F452%2FtI
 [/us/stat/108/4785]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4785
-[/us/pl/105/220/s414/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2Fs414%2Fc
+[/us/pl/105/220/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2FtIV
 [/us/stat/112/1242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1242
-[/us/pl/107/135/s205/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F135%2Fs205%2Fa
+[/us/pl/107/135/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F135%2FtII
 [/us/stat/115/2460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2460
-[/us/pl/108/170/s401/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F170%2Fs401%2Fb
+[/us/pl/108/170/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F170%2FtIV
 [/us/stat/117/2061]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2061
 [/us/usc/t29/s764/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs764%2Fb%2F3
 [/us/pl/108/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F170
@@ -118,13 +118,13 @@
 [/us/usc/t29/s762/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs762%2Fb%2F2
 [/us/pl/103/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F452
 [/us/pl/102/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405
-[/us/pl/107/135/s205/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F135%2Fs205%2Fb
+[/us/pl/107/135/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F135%2FtII
 [/us/stat/115/2460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2460
-[/us/pl/102/405/s122/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405%2Fs122%2Fa
+[/us/pl/102/405/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405%2FtI
 [/us/stat/106/1981]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1981
-[/us/pl/102/585/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F585%2Fs109
+[/us/pl/102/585/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F585%2FtI
 [/us/stat/106/4948]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4948
-[/us/pl/103/452/s102/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F452%2Fs102%2Fb%2F2
+[/us/pl/103/452/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F452%2FtI
 [/us/stat/108/4786]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4786
 
 

@@ -79,31 +79,31 @@
 
         (3) The term “nonrecurring, unrecovered costs” means those costs reasonably incurred by the contractor in performing a multiyear contract which (as determined under regulations prescribed under subsection (d) of this section) are generally incurred on a one-time basis.
 
-(Added [Pub. L. 100–322, title IV, § 404(a)][/us/pl/100/322/s404/a], May 20, 1988, [102 Stat. 545][/us/stat/102/545]; amended [Pub. L. 101–237, title VI, § 601(a)][/us/pl/101/237/s601/a], (b)(1), Dec. 18, 1989, [103 Stat. 2094][/us/stat/103/2094]; [Pub. L. 102–83, § 4(a)(3)][/us/pl/102/83/s4/a/3], (4), (b)(1), (2)(E), Aug. 6, 1991, [105 Stat. 404][/us/stat/105/404], 405.)
+(Added [Pub. L. 100–322, title IV][/us/pl/100/322/tIV], § 404(a), May 20, 1988, [102 Stat. 545][/us/stat/102/545]; amended [Pub. L. 101–237, title VI][/us/pl/101/237/tVI], § 601(a), (b)(1), Dec. 18, 1989, [103 Stat. 2094][/us/stat/103/2094]; [Pub. L. 102–83][/us/pl/102/83], § 4(a)(3), (4), (b)(1), (2)(E), Aug. 6, 1991, [105 Stat. 404][/us/stat/105/404], 405.)
 
  __Amendments__ 
 
-    1991—Subsec. (a). [Pub. L. 102–83, § 4(b)(1)][/us/pl/102/83/s4/b/1], (2)(E), substituted “Secretary” for “Administrator” in two places in introductory provisions.
+    1991—Subsec. (a). [Pub. L. 102–83][/us/pl/102/83], § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in two places in introductory provisions.
 
-    Subsec. (a)(2)(B). [Pub. L. 102–83, § 4(a)(3)][/us/pl/102/83/s4/a/3], (4), substituted “Department” for “Veterans’ Administration”.
+    Subsec. (a)(2)(B). [Pub. L. 102–83][/us/pl/102/83], § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration”.
 
-    Subsec. (b)(1)(A). [Pub. L. 102–83, § 4(b)(1)][/us/pl/102/83/s4/b/1], (2)(E), substituted “Secretary” for “Administrator”.
+    Subsec. (b)(1)(A). [Pub. L. 102–83][/us/pl/102/83], § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
-    Subsec. (b)(2)(A). [Pub. L. 102–83, § 4(b)(1)][/us/pl/102/83/s4/b/1], (2)(E), substituted “Secretary” for “Administrator” in two places.
+    Subsec. (b)(2)(A). [Pub. L. 102–83][/us/pl/102/83], § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in two places.
 
-    [Pub. L. 102–83, § 4(a)(3)][/us/pl/102/83/s4/a/3], (4), substituted “Department” for “Veterans’ Administration”.
+    [Pub. L. 102–83][/us/pl/102/83], § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration”.
 
-    Subsec. (c). [Pub. L. 102–83, § 4(b)(1)][/us/pl/102/83/s4/b/1], (2)(E), substituted “Secretary’s” for “Administrator’s”.
+    Subsec. (c). [Pub. L. 102–83][/us/pl/102/83], § 4(b)(1), (2)(E), substituted “Secretary’s” for “Administrator’s”.
 
-    Subsec. (d). [Pub. L. 102–83, § 4(b)(1)][/us/pl/102/83/s4/b/1], (2)(E), substituted “Secretary” for “Administrator”.
+    Subsec. (d). [Pub. L. 102–83][/us/pl/102/83], § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
-    1989—[Pub. L. 101–237, § 601(b)(1)][/us/pl/101/237/s601/b/1], struck out “for certain medical items” after “Multiyear procurement” in section catchline.
+    1989—[Pub. L. 101–237][/us/pl/101/237], § 601(b)(1), struck out “for certain medical items” after “Multiyear procurement” in section catchline.
 
-    Subsec. (a). [Pub. L. 101–237, § 601(a)(1)][/us/pl/101/237/s601/a/1], struck out “for use in Veterans’ Administration health-care facilities” after “supplies or services”.
+    Subsec. (a). [Pub. L. 101–237][/us/pl/101/237], § 601(a)(1), struck out “for use in Veterans’ Administration health-care facilities” after “supplies or services”.
 
-    Subsec. (b)(2)(A). [Pub. L. 101–237, § 601(a)(2)][/us/pl/101/237/s601/a/2], struck out “health-care” before “programs, the amount”.
+    Subsec. (b)(2)(A). [Pub. L. 101–237][/us/pl/101/237], § 601(a)(2), struck out “health-care” before “programs, the amount”.
 
-    Subsec. (e)(2) to (4). [Pub. L. 101–237, § 601(a)(3)][/us/pl/101/237/s601/a/3], redesignated pars. (3) and (4) as (2) and (3), respectively, and struck out former par. (2) which read as follows: “The term ‘cancel’ or ‘cancellation’ refers to the termination of a contract by the Administrator as required under paragraph (2)(B)(i) of this subsection.”
+    Subsec. (e)(2) to (4). [Pub. L. 101–237][/us/pl/101/237], § 601(a)(3), redesignated pars. (3) and (4) as (2) and (3), respectively, and struck out former par. (2) which read as follows: “The term ‘cancel’ or ‘cancellation’ refers to the termination of a contract by the Administrator as required under paragraph (2)(B)(i) of this subsection.”
 
 ----------
 
@@ -114,22 +114,22 @@
 
 [/us/usc/t31/s1502/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1502%2Fa
 [/us/usc/t31/s1511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1511
-[/us/pl/100/322/s404/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F322%2Fs404%2Fa
+[/us/pl/100/322/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F322%2FtIV
 [/us/stat/102/545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F545
-[/us/pl/101/237/s601/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237%2Fs601%2Fa
+[/us/pl/101/237/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237%2FtVI
 [/us/stat/103/2094]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2094
-[/us/pl/102/83/s4/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fa%2F3
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F404
-[/us/pl/102/83/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fb%2F1
-[/us/pl/102/83/s4/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fa%2F3
-[/us/pl/102/83/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fb%2F1
-[/us/pl/102/83/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fb%2F1
-[/us/pl/102/83/s4/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fa%2F3
-[/us/pl/102/83/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fb%2F1
-[/us/pl/102/83/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fb%2F1
-[/us/pl/101/237/s601/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237%2Fs601%2Fb%2F1
-[/us/pl/101/237/s601/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237%2Fs601%2Fa%2F1
-[/us/pl/101/237/s601/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237%2Fs601%2Fa%2F2
-[/us/pl/101/237/s601/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237%2Fs601%2Fa%2F3
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/101/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237
+[/us/pl/101/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237
+[/us/pl/101/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237
+[/us/pl/101/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237
 
 

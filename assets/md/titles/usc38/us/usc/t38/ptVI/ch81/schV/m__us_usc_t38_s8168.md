@@ -31,7 +31,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 8168, added [Pub. L. 102–86, title IV, § 401(a)][/us/pl/102/86/s401/a], Aug. 14, 1991, [105 Stat. 421][/us/stat/105/421], limited number of enhanced-use leases that could be entered into under this subchapter, prior to repeal by [Pub. L. 105–114, title II, § 205(b)(1)][/us/pl/105/114/s205/b/1], Nov. 21, 1997, [111 Stat. 2288][/us/stat/111/2288].
+    A prior section 8168, added [Pub. L. 102–86, title IV][/us/pl/102/86/tIV], § 401(a), Aug. 14, 1991, [105 Stat. 421][/us/stat/105/421], limited number of enhanced-use leases that could be entered into under this subchapter, prior to repeal by [Pub. L. 105–114, title II][/us/pl/105/114/tII], § 205(b)(1), Nov. 21, 1997, [111 Stat. 2288][/us/stat/111/2288].
 
  __Elements of Initial Report__ 
 
@@ -61,9 +61,9 @@ Pub. L. 112—154, title II, § 211(i)(2), Aug. 6, 2012, [126 Stat. 1182][/us/
 [/us/usc/t31/s1105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105%2Fa
 [/us/stat/126/1181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1181
 [/us/pl/112/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154
-[/us/pl/102/86/s401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F86%2Fs401%2Fa
+[/us/pl/102/86/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F86%2FtIV
 [/us/stat/105/421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F421
-[/us/pl/105/114/s205/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F114%2Fs205%2Fb%2F1
+[/us/pl/105/114/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F114%2FtII
 [/us/stat/111/2288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2288
 [/us/stat/126/1182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1182
 [/us/usc/t38/s8168/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs8168%2Fa

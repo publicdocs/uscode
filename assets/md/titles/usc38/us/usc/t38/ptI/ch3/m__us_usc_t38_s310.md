@@ -19,13 +19,13 @@
 
     (b) The Chief Information Officer performs the duties provided for chief information officers of executive agencies under chapter 35 of title 44 and subtitle III of title 40.
 
-(Added [Pub. L. 102–83, § 2(a)][/us/pl/102/83/s2/a], Aug. 6, 1991, [105 Stat. 382][/us/stat/105/382]; amended [Pub. L. 104–106, div. E, title LVI, § 5604][/us/pl/104/106/s5604], Feb. 10, 1996, [110 Stat. 700][/us/stat/110/700]; [Pub. L. 105–85, div. A, title X, § 1073(h)(3)][/us/pl/105/85/s1073/h/3], Nov. 18, 1997, [111 Stat. 1907][/us/stat/111/1907]; [Pub. L. 107–217, § 3(j)(2)][/us/pl/107/217/s3/j/2], Aug. 21, 2002, [116 Stat. 1300][/us/stat/116/1300].)
+(Added [Pub. L. 102–83][/us/pl/102/83], § 2(a), Aug. 6, 1991, [105 Stat. 382][/us/stat/105/382]; amended [Pub. L. 104–106, div. E, title LVI][/us/pl/104/106/dE/tLVI], § 5604, Feb. 10, 1996, [110 Stat. 700][/us/stat/110/700]; [Pub. L. 105–85, div. A, title X][/us/pl/105/85/dA/tX], § 1073(h)(3), Nov. 18, 1997, [111 Stat. 1907][/us/stat/111/1907]; [Pub. L. 107–217][/us/pl/107/217], § 3(j)(2), Aug. 21, 2002, [116 Stat. 1300][/us/stat/116/1300].)
 
  __Prior Provisions__ 
 
     Prior section 310 was renumbered [section 1110 of this title][/us/usc/t38/s1110].
 
-    Provisions similar to those in this section were contained in [section 4(d) of Pub. L. 100–527][/us/pl/100/527/s4/d], known as the Department of Veterans Affairs Act, prior to repeal by [Pub. L. 102–83, § 3(3)][/us/pl/102/83/s3/3].
+    Provisions similar to those in this section were contained in [section 4(d) of Pub. L. 100–527][/us/pl/100/527/s4/d], known as the Department of Veterans Affairs Act, prior to repeal by [Pub. L. 102–83][/us/pl/102/83], § 3(3).
 
  __Amendments__ 
 
@@ -47,17 +47,17 @@
 ----------
 
 [/us/usc/t44/s3506/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3506%2Fa%2F2
-[/us/pl/102/83/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs2%2Fa
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F382
-[/us/pl/104/106/s5604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs5604
+[/us/pl/104/106/dE/tLVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdE%2FtLVI
 [/us/stat/110/700]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F700
-[/us/pl/105/85/s1073/h/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs1073%2Fh%2F3
+[/us/pl/105/85/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtX
 [/us/stat/111/1907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1907
-[/us/pl/107/217/s3/j/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs3%2Fj%2F2
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1300
 [/us/usc/t38/s1110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1110
 [/us/pl/100/527/s4/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F527%2Fs4%2Fd
-[/us/pl/102/83/s3/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs3%2F3
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/usc/t40/s1401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs1401
 [/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85

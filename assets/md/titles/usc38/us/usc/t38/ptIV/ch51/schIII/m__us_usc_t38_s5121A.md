@@ -27,11 +27,11 @@
 
     Those who are eligible to make a claim under this section shall be determined in accordance with [section 5121 of this title][/us/usc/t38/s5121].
 
-(Added [Pub. L. 110–389, title II, § 212(a)][/us/pl/110/389/s212/a], Oct. 10, 2008, [122 Stat. 4151][/us/stat/122/4151].)
+(Added [Pub. L. 110–389, title II][/us/pl/110/389/tII], § 212(a), Oct. 10, 2008, [122 Stat. 4151][/us/stat/122/4151].)
 
  __Effective Date__ 
 
-[Pub. L. 110–389, title II, § 212(c)][/us/pl/110/389/s212/c], Oct. 10, 2008, [122 Stat. 4151][/us/stat/122/4151], provided that: 
+[Pub. L. 110–389, title II][/us/pl/110/389/tII], § 212(c), Oct. 10, 2008, [122 Stat. 4151][/us/stat/122/4151], provided that: 
 
 > “[Section 5121A of title 38][/us/usc/t38/s5121A], United States Code, as added by subsection (a), shall apply with respect to the claim of any claimant who dies on or after the date of the enactment of this Act \[Oct. 10, 2008\].”
 
@@ -44,9 +44,9 @@
 
 [/us/usc/t38/s5121/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs5121%2Fa
 [/us/usc/t38/s5121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs5121
-[/us/pl/110/389/s212/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F389%2Fs212%2Fa
+[/us/pl/110/389/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F389%2FtII
 [/us/stat/122/4151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4151
-[/us/pl/110/389/s212/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F389%2Fs212%2Fc
+[/us/pl/110/389/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F389%2FtII
 [/us/stat/122/4151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4151
 [/us/usc/t38/s5121A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs5121A
 

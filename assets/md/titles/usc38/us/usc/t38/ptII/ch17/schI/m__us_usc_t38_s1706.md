@@ -81,31 +81,31 @@
 
     (c) The Secretary shall ensure that each primary care health care facility of the Department develops and carries out a plan to provide mental health services, either through referral or direct provision of services, to veterans who require such services.
 
-(Added [Pub. L. 104–262, title I, § 104(a)(1)][/us/pl/104/262/s104/a/1], Oct. 9, 1996, [110 Stat. 3183][/us/stat/110/3183]; amended [Pub. L. 105–368, title IX, § 903(a)][/us/pl/105/368/s903/a], title X, § 1005(b)(2), Nov. 11, 1998, [112 Stat. 3360][/us/stat/112/3360], 3365; [Pub. L. 107–95, § 8(a)][/us/pl/107/95/s8/a], Dec. 21, 2001, [115 Stat. 919][/us/stat/115/919]; [Pub. L. 107–135, title II, § 203][/us/pl/107/135/s203], Jan. 23, 2002, [115 Stat. 2458][/us/stat/115/2458]; [Pub. L. 109–461, title II, § 208(a)][/us/pl/109/461/s208/a], Dec. 22, 2006, [120 Stat. 3413][/us/stat/120/3413].)
+(Added [Pub. L. 104–262, title I][/us/pl/104/262/tI], § 104(a)(1), Oct. 9, 1996, [110 Stat. 3183][/us/stat/110/3183]; amended [Pub. L. 105–368, title IX][/us/pl/105/368/tIX], § 903(a), title X, § 1005(b)(2), Nov. 11, 1998, [112 Stat. 3360][/us/stat/112/3360], 3365; [Pub. L. 107–95][/us/pl/107/95], § 8(a), Dec. 21, 2001, [115 Stat. 919][/us/stat/115/919]; [Pub. L. 107–135, title II][/us/pl/107/135/tII], § 203, Jan. 23, 2002, [115 Stat. 2458][/us/stat/115/2458]; [Pub. L. 109–461, title II][/us/pl/109/461/tII], § 208(a), Dec. 22, 2006, [120 Stat. 3413][/us/stat/120/3413].)
 
  __Amendments__ 
 
     2006—Subsec. (b)(5)(A). [Pub. L. 109–461][/us/pl/109/461] substituted “2008” for “2004”.
 
-    2002—Subsec. (b)(1). [Pub. L. 107–135, § 203(a)(1)][/us/pl/107/135/s203/a/1], inserted “(and each geographic service area of the Veterans Health Administration)” after “ensure that the Department” in introductory provisions and “(and each geographic service area of the Veterans Health Administration)” after “overall capacity of the Department” in cl. (B).
+    2002—Subsec. (b)(1). [Pub. L. 107–135][/us/pl/107/135], § 203(a)(1), inserted “(and each geographic service area of the Veterans Health Administration)” after “ensure that the Department” in introductory provisions and “(and each geographic service area of the Veterans Health Administration)” after “overall capacity of the Department” in cl. (B).
 
-    Subsec. (b)(2) to (4). [Pub. L. 107–135, § 203(a)(3)][/us/pl/107/135/s203/a/3], added pars. (2) to (4). Former pars. (2) and (3) redesignated (5) and (6), respectively.
+    Subsec. (b)(2) to (4). [Pub. L. 107–135][/us/pl/107/135], § 203(a)(3), added pars. (2) to (4). Former pars. (2) and (3) redesignated (5) and (6), respectively.
 
-    Subsec. (b)(5). [Pub. L. 107–135, § 203(a)(2)][/us/pl/107/135/s203/a/2], (b), redesignated par. (2) as (5), inserted “(A)” before “Not later than”, substituted “April 1 of each year through 2004” for “April 1, 1999, April 1, 2000, and April 1, 2001”, inserted at end of subpar. (A) “Each such report shall include information on recidivism rates associated with substance-use disorder treatment.”, and added subpars. (B) and (C).
+    Subsec. (b)(5). [Pub. L. 107–135][/us/pl/107/135], § 203(a)(2), (b), redesignated par. (2) as (5), inserted “(A)” before “Not later than”, substituted “April 1 of each year through 2004” for “April 1, 1999, April 1, 2000, and April 1, 2001”, inserted at end of subpar. (A) “Each such report shall include information on recidivism rates associated with substance-use disorder treatment.”, and added subpars. (B) and (C).
 
-    Subsec. (b)(6). [Pub. L. 107–135, § 203(a)(2)][/us/pl/107/135/s203/a/2], redesignated par. (3) as (6).
+    Subsec. (b)(6). [Pub. L. 107–135][/us/pl/107/135], § 203(a)(2), redesignated par. (3) as (6).
 
     2001—Subsec. (c). [Pub. L. 107–95][/us/pl/107/95] added subsec. (c).
 
-    1998—Subsec. (b)(1). [Pub. L. 105–368, § 1005(b)(2)][/us/pl/105/368/s1005/b/2], substituted “October 9, 1996” for “the date of the enactment of this section”.
+    1998—Subsec. (b)(1). [Pub. L. 105–368][/us/pl/105/368], § 1005(b)(2), substituted “October 9, 1996” for “the date of the enactment of this section”.
 
-    Subsec. (b)(2). [Pub. L. 105–368, § 903(a)(1)][/us/pl/105/368/s903/a/1], substituted “April 1, 1999, April 1, 2000, and April 1, 2001” for “April 1, 1997, April 1, 1998, and April 1, 1999”.
+    Subsec. (b)(2). [Pub. L. 105–368][/us/pl/105/368], § 903(a)(1), substituted “April 1, 1999, April 1, 2000, and April 1, 2001” for “April 1, 1997, April 1, 1998, and April 1, 1999”.
 
-    Subsec. (b)(3). [Pub. L. 105–368, § 903(a)(2)][/us/pl/105/368/s903/a/2], added par. (3).
+    Subsec. (b)(3). [Pub. L. 105–368][/us/pl/105/368], § 903(a)(2), added par. (3).
 
  __Deadline for Prescribing Standards__ 
 
-[Pub. L. 105–368, title IX, § 903(b)][/us/pl/105/368/s903/b], Nov. 11, 1998, [112 Stat. 3361][/us/stat/112/3361], provided that: 
+[Pub. L. 105–368, title IX][/us/pl/105/368/tIX], § 903(b), Nov. 11, 1998, [112 Stat. 3361][/us/stat/112/3361], provided that: 
 
 > “The standards of job performance required by paragraph (3) of [section 1706(b) of title 38][/us/usc/t38/s1706/b], United States Code, as added by subsection (a), shall be prescribed not later than January 1, 1999.”
 
@@ -117,26 +117,26 @@
 ----------
 
 [/us/usc/t38/s1710/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1710%2Fa
-[/us/pl/104/262/s104/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F262%2Fs104%2Fa%2F1
+[/us/pl/104/262/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F262%2FtI
 [/us/stat/110/3183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3183
-[/us/pl/105/368/s903/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2Fs903%2Fa
+[/us/pl/105/368/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2FtIX
 [/us/stat/112/3360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3360
-[/us/pl/107/95/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F95%2Fs8%2Fa
+[/us/pl/107/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F95
 [/us/stat/115/919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F919
-[/us/pl/107/135/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F135%2Fs203
+[/us/pl/107/135/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F135%2FtII
 [/us/stat/115/2458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2458
-[/us/pl/109/461/s208/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461%2Fs208%2Fa
+[/us/pl/109/461/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461%2FtII
 [/us/stat/120/3413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3413
 [/us/pl/109/461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461
-[/us/pl/107/135/s203/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F135%2Fs203%2Fa%2F1
-[/us/pl/107/135/s203/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F135%2Fs203%2Fa%2F3
-[/us/pl/107/135/s203/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F135%2Fs203%2Fa%2F2
-[/us/pl/107/135/s203/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F135%2Fs203%2Fa%2F2
+[/us/pl/107/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F135
+[/us/pl/107/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F135
+[/us/pl/107/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F135
+[/us/pl/107/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F135
 [/us/pl/107/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F95
-[/us/pl/105/368/s1005/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2Fs1005%2Fb%2F2
-[/us/pl/105/368/s903/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2Fs903%2Fa%2F1
-[/us/pl/105/368/s903/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2Fs903%2Fa%2F2
-[/us/pl/105/368/s903/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2Fs903%2Fb
+[/us/pl/105/368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368
+[/us/pl/105/368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368
+[/us/pl/105/368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368
+[/us/pl/105/368/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2FtIX
 [/us/stat/112/3361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3361
 [/us/usc/t38/s1706/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1706%2Fb
 

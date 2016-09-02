@@ -143,7 +143,7 @@
 
         (9) In this subsection, the term “congressional veterans’ affairs committees” means the Committees on Veterans’ Affairs of the Senate and the House of Representatives.
 
-(Added [Pub. L. 102–40, title IV, § 401(b)(2)][/us/pl/102/40/s401/b/2], May 7, 1991, [105 Stat. 224][/us/stat/105/224]; amended [Pub. L. 102–405, title III, § 302(c)(1)][/us/pl/102/405/s302/c/1], Oct. 9, 1992, [106 Stat. 1984][/us/stat/106/1984]; [Pub. L. 108–170, title III][/us/pl/108/170], §§ 301(b), 302(c), Dec. 6, 2003, [117 Stat. 2055][/us/stat/117/2055], 2058; [Pub. L. 111–163, title VI, § 601(b)][/us/pl/111/163/s601/b], May 5, 2010, [124 Stat. 1168][/us/stat/124/1168].)
+(Added [Pub. L. 102–40, title IV][/us/pl/102/40/tIV], § 401(b)(2), May 7, 1991, [105 Stat. 224][/us/stat/105/224]; amended [Pub. L. 102–405, title III][/us/pl/102/405/tIII], § 302(c)(1), Oct. 9, 1992, [106 Stat. 1984][/us/stat/106/1984]; [Pub. L. 108–170, title III][/us/pl/108/170/tIII], §§ 301(b), 302(c), Dec. 6, 2003, [117 Stat. 2055][/us/stat/117/2055], 2058; [Pub. L. 111–163, title VI][/us/pl/111/163/tVI], § 601(b), May 5, 2010, [124 Stat. 1168][/us/stat/124/1168].)
 
  __Prior Provisions__ 
 
@@ -151,15 +151,15 @@
 
  __Amendments__ 
 
-    2010—Subsec. (b)(1). [Pub. L. 111–163, § 601(b)(1)][/us/pl/111/163/s601/b/1], substituted “Except as otherwise provided in this subsection, appointments” for “Appointments”.
+    2010—Subsec. (b)(1). [Pub. L. 111–163][/us/pl/111/163], § 601(b)(1), substituted “Except as otherwise provided in this subsection, appointments” for “Appointments”.
 
-    Subsec. (b)(2) to (4). [Pub. L. 111–163, § 601(b)(2)][/us/pl/111/163/s601/b/2], (3), added pars. (2) and (3) and redesignated former par. (2) as (4).
+    Subsec. (b)(2) to (4). [Pub. L. 111–163][/us/pl/111/163], § 601(b)(2), (3), added pars. (2) and (3) and redesignated former par. (2) as (4).
 
-    2003—Subsec. (a)(2)(H). [Pub. L. 108–170, § 302(c)][/us/pl/108/170/s302/c], added subpar. (H).
+    2003—Subsec. (a)(2)(H). [Pub. L. 108–170][/us/pl/108/170], § 302(c), added subpar. (H).
 
-    Subsec. (f)(3). [Pub. L. 108–170, § 301(b)(1)][/us/pl/108/170/s301/b/1], inserted “reductions-in-force, the applicability of the principles of preference referred to in paragraph (2), rights of part-time employees,” after “adverse actions,”, “, whether appointed under this section or [section 7405(a)(1)(B) of this title][/us/usc/t38/s7405/a/1/B]” after “such positions”, and comma after “status)”.
+    Subsec. (f)(3). [Pub. L. 108–170][/us/pl/108/170], § 301(b)(1), inserted “reductions-in-force, the applicability of the principles of preference referred to in paragraph (2), rights of part-time employees,” after “adverse actions,”, “, whether appointed under this section or [section 7405(a)(1)(B) of this title][/us/usc/t38/s7405/a/1/B]” after “such positions”, and comma after “status)”.
 
-    Subsec. (h). [Pub. L. 108–170, § 301(b)(2)][/us/pl/108/170/s301/b/2], added subsec. (h).
+    Subsec. (h). [Pub. L. 108–170][/us/pl/108/170], § 301(b)(2), added subsec. (h).
 
     1992—Subsec. (f)(1). [Pub. L. 102–405][/us/pl/102/405] substituted “Under Secretary for Health” for “Chief Medical Director”.
 
@@ -177,22 +177,22 @@
 [/us/usc/t38/s7401/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7401%2F3
 [/us/usc/t38/s7405/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7405%2Fa%2F1%2FB
 [/us/usc/t38/s7401/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7401%2F3
-[/us/pl/102/40/s401/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs401%2Fb%2F2
+[/us/pl/102/40/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2FtIV
 [/us/stat/105/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F224
-[/us/pl/102/405/s302/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405%2Fs302%2Fc%2F1
+[/us/pl/102/405/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405%2FtIII
 [/us/stat/106/1984]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1984
-[/us/pl/108/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F170
+[/us/pl/108/170/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F170%2FtIII
 [/us/stat/117/2055]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2055
-[/us/pl/111/163/s601/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163%2Fs601%2Fb
+[/us/pl/111/163/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163%2FtVI
 [/us/stat/124/1168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1168
 [/us/usc/t38/s4106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs4106
 [/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40
-[/us/pl/111/163/s601/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163%2Fs601%2Fb%2F1
-[/us/pl/111/163/s601/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163%2Fs601%2Fb%2F2
-[/us/pl/108/170/s302/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F170%2Fs302%2Fc
-[/us/pl/108/170/s301/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F170%2Fs301%2Fb%2F1
+[/us/pl/111/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163
+[/us/pl/111/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163
+[/us/pl/108/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F170
+[/us/pl/108/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F170
 [/us/usc/t38/s7405/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7405%2Fa%2F1%2FB
-[/us/pl/108/170/s301/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F170%2Fs301%2Fb%2F2
+[/us/pl/108/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F170
 [/us/pl/102/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405
 [/us/pl/108/170/s302/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F170%2Fs302%2Fc
 [/us/pl/108/170/s302/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F170%2Fs302%2Fh

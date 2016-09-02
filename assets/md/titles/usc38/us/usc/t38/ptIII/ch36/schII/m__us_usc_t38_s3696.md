@@ -27,25 +27,25 @@
 
         (2) To the degree practicable, the Secretary shall carry out paragraph (1) in a manner that is consistent with the Secretary of Education’s enforcement of section 487(a)(20) of the Higher Education Act of 1965 ([20 U.S.C. 1094(a)(20)][/us/usc/t20/s1094/a/20]).
 
-(Added [Pub. L. 93–508, title II, § 212(a)][/us/pl/93/508/s212/a], Dec. 3, 1974, [88 Stat. 1585][/us/stat/88/1585], § 1796; amended [Pub. L. 94–502, title V][/us/pl/94/502], §§ 512, 513(a)(22), Oct. 15, 1976, [90 Stat. 2402][/us/stat/90/2402], 2403; [Pub. L. 98–543, title IV, § 401][/us/pl/98/543/s401], Oct. 24, 1984, [98 Stat. 2749][/us/stat/98/2749]; [Pub. L. 101–237, title IV, § 423(b)(1)(A)][/us/pl/101/237/s423/b/1/A], (2), Dec. 18, 1989, [103 Stat. 2092][/us/stat/103/2092]; renumbered § 3696 and amended [Pub. L. 102–83, § 5(a)][/us/pl/102/83/s5/a], (c)(1), Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406]; [Pub. L. 112–249, § 2][/us/pl/112/249/s2], Jan. 10, 2013, [126 Stat. 2401][/us/stat/126/2401].)
+(Added [Pub. L. 93–508, title II][/us/pl/93/508/tII], § 212(a), Dec. 3, 1974, [88 Stat. 1585][/us/stat/88/1585], § 1796; amended [Pub. L. 94–502, title V][/us/pl/94/502/tV], §§ 512, 513(a)(22), Oct. 15, 1976, [90 Stat. 2402][/us/stat/90/2402], 2403; [Pub. L. 98–543, title IV][/us/pl/98/543/tIV], § 401, Oct. 24, 1984, [98 Stat. 2749][/us/stat/98/2749]; [Pub. L. 101–237, title IV][/us/pl/101/237/tIV], § 423(b)(1)(A), (2), Dec. 18, 1989, [103 Stat. 2092][/us/stat/103/2092]; renumbered § 3696 and amended [Pub. L. 102–83][/us/pl/102/83], § 5(a), (c)(1), Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406]; [Pub. L. 112–249][/us/pl/112/249], § 2, Jan. 10, 2013, [126 Stat. 2401][/us/stat/126/2401].)
 
  __Amendments__ 
 
     2013—Subsec. (d). [Pub. L. 112–249][/us/pl/112/249] added subsec. (d).
 
-    1991—[Pub. L. 102–83, § 5(a)][/us/pl/102/83/s5/a], renumbered [section 1796 of this title][/us/usc/t38/s1796] as this section.
+    1991—[Pub. L. 102–83][/us/pl/102/83], § 5(a), renumbered [section 1796 of this title][/us/usc/t38/s1796] as this section.
 
-    Subsec. (c). [Pub. L. 102–83, § 5(c)(1)][/us/pl/102/83/s5/c/1], substituted “3694” for “1794”.
+    Subsec. (c). [Pub. L. 102–83][/us/pl/102/83], § 5(c)(1), substituted “3694” for “1794”.
 
     1989—[Pub. L. 101–237][/us/pl/101/237] substituted “Secretary” for “Administrator” wherever appearing and “Secretary’s” for “Administrator’s” in subsec. (c).
 
     1984—Subsec. (d). [Pub. L. 98–543][/us/pl/98/543] struck out subsec. (d) which provided that not later than 60 days after the end of each fiscal year the Administrator would be required to report to Congress regarding the disposition of cases under this section.
 
-    1976—Subsec. (b). [Pub. L. 94–502, § 512][/us/pl/94/502/s512], added subsec. (b) and redesignated former subsec. (b) as (c).
+    1976—Subsec. (b). [Pub. L. 94–502][/us/pl/94/502], § 512, added subsec. (b) and redesignated former subsec. (b) as (c).
 
     Subsec. (c). [Pub. L. 94–502][/us/pl/94/502], §§ 512(1), 513(a)(22), redesignated former subsec. (b) as (c) and substituted “making the Administrator’s determinations” for “making his determinations”. Former subsec. (c) redesignated (d).
 
-    Subsec. (d). [Pub. L. 94–502, § 512(1)][/us/pl/94/502/s512/1], redesignated former subsec. (c) as (d).
+    Subsec. (d). [Pub. L. 94–502][/us/pl/94/502], § 512(1), redesignated former subsec. (c) as (d).
 
  __Effective Date of 1976 Amendment__ 
 
@@ -64,27 +64,27 @@
 
 [/us/usc/t38/s3694]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3694
 [/us/usc/t20/s1094/a/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1094%2Fa%2F20
-[/us/pl/93/508/s212/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F508%2Fs212%2Fa
+[/us/pl/93/508/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F508%2FtII
 [/us/stat/88/1585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1585
-[/us/pl/94/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F502
+[/us/pl/94/502/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F502%2FtV
 [/us/stat/90/2402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2402
-[/us/pl/98/543/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F543%2Fs401
+[/us/pl/98/543/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F543%2FtIV
 [/us/stat/98/2749]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2749
-[/us/pl/101/237/s423/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237%2Fs423%2Fb%2F1%2FA
+[/us/pl/101/237/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237%2FtIV
 [/us/stat/103/2092]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2092
-[/us/pl/102/83/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fa
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F406
-[/us/pl/112/249/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F249%2Fs2
+[/us/pl/112/249]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F249
 [/us/stat/126/2401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2401
 [/us/pl/112/249]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F249
-[/us/pl/102/83/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fa
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/usc/t38/s1796]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1796
-[/us/pl/102/83/s5/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fc%2F1
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/pl/101/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237
 [/us/pl/98/543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F543
-[/us/pl/94/502/s512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F502%2Fs512
 [/us/pl/94/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F502
-[/us/pl/94/502/s512/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F502%2Fs512%2F1
+[/us/pl/94/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F502
+[/us/pl/94/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F502
 [/us/pl/94/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F502
 [/us/pl/94/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F502
 [/us/usc/t38/s3693]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3693

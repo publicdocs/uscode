@@ -31,11 +31,11 @@
 
     Pay under this section shall be considered pay for all purposes, including retirement benefits under chapters 83 and 84 of title 5 and other benefits.
 
-(Added [Pub. L. 108–445, § 3(b)][/us/pl/108/445/s3/b], Dec. 3, 2004, [118 Stat. 2640][/us/stat/118/2640].)
+(Added [Pub. L. 108–445][/us/pl/108/445], § 3(b), Dec. 3, 2004, [118 Stat. 2640][/us/stat/118/2640].)
 
  __Prior Provisions__ 
 
-    A prior section 7432, added [Pub. L. 102–40, title I, § 102][/us/pl/102/40/s102], May 7, 1991, [105 Stat. 189][/us/stat/105/189]; amended [Pub. L. 102–405, title III, § 302(c)(1)][/us/pl/102/405/s302/c/1], Oct. 9, 1992, [106 Stat. 1984][/us/stat/106/1984]; [Pub. L. 104–262, title III, § 346][/us/pl/104/262/s346], Oct. 9, 1996, [110 Stat. 3208][/us/stat/110/3208], related to written agreements for special pay, prior to the general amendment of this subchapter by [Pub. L. 108–445][/us/pl/108/445].
+    A prior section 7432, added [Pub. L. 102–40, title I][/us/pl/102/40/tI], § 102, May 7, 1991, [105 Stat. 189][/us/stat/105/189]; amended [Pub. L. 102–405, title III][/us/pl/102/405/tIII], § 302(c)(1), Oct. 9, 1992, [106 Stat. 1984][/us/stat/106/1984]; [Pub. L. 104–262, title III][/us/pl/104/262/tIII], § 346, Oct. 9, 1996, [110 Stat. 3208][/us/stat/110/3208], related to written agreements for special pay, prior to the general amendment of this subchapter by [Pub. L. 108–445][/us/pl/108/445].
 
 ----------
 
@@ -46,13 +46,13 @@
 
 [/us/usc/t5/s5314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5314
 [/us/usc/t38/s7431/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7431%2Fc
-[/us/pl/108/445/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F445%2Fs3%2Fb
+[/us/pl/108/445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F445
 [/us/stat/118/2640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2640
-[/us/pl/102/40/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs102
+[/us/pl/102/40/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2FtI
 [/us/stat/105/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F189
-[/us/pl/102/405/s302/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405%2Fs302%2Fc%2F1
+[/us/pl/102/405/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405%2FtIII
 [/us/stat/106/1984]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1984
-[/us/pl/104/262/s346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F262%2Fs346
+[/us/pl/104/262/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F262%2FtIII
 [/us/stat/110/3208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3208
 [/us/pl/108/445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F445
 

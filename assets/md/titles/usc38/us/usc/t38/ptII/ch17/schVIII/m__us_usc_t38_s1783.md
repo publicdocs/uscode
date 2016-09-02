@@ -37,7 +37,7 @@
 
     For purposes of this section, the term “bereavement counseling” means such counseling services, for a limited period, as the Secretary determines to be reasonable and necessary to assist an individual with the emotional and psychological stress accompanying the death of another individual.
 
-(Added [Pub. L. 107–135, title II, § 208(b)][/us/pl/107/135/s208/b], Jan. 23, 2002, [115 Stat. 2463][/us/stat/115/2463]; amended [Pub. L. 109–461, title II, § 216][/us/pl/109/461/s216], Dec. 22, 2006, [120 Stat. 3424][/us/stat/120/3424].)
+(Added [Pub. L. 107–135, title II][/us/pl/107/135/tII], § 208(b), Jan. 23, 2002, [115 Stat. 2463][/us/stat/115/2463]; amended [Pub. L. 109–461, title II][/us/pl/109/461/tII], § 216, Dec. 22, 2006, [120 Stat. 3424][/us/stat/120/3424].)
 
  __Prior Provisions__ 
 
@@ -45,9 +45,9 @@
 
  __Amendments__ 
 
-    2006—Subsec. (b). [Pub. L. 109–461, § 216(a)][/us/pl/109/461/s216/a], designated existing provisions as par. (1) and added par. (2).
+    2006—Subsec. (b). [Pub. L. 109–461][/us/pl/109/461], § 216(a), designated existing provisions as par. (1) and added par. (2).
 
-    Subsec. (c), (d). [Pub. L. 109–461, § 216(b)][/us/pl/109/461/s216/b], added subsec. (c) and redesignated former subsec. (c) as (d).
+    Subsec. (c), (d). [Pub. L. 109–461][/us/pl/109/461], § 216(b), added subsec. (c) and redesignated former subsec. (c) as (d).
 
 ----------
 
@@ -58,12 +58,12 @@
 
 [/us/usc/t38/s1782]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1782
 [/us/usc/t38/s1712A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1712A
-[/us/pl/107/135/s208/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F135%2Fs208%2Fb
+[/us/pl/107/135/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F135%2FtII
 [/us/stat/115/2463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2463
-[/us/pl/109/461/s216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461%2Fs216
+[/us/pl/109/461/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461%2FtII
 [/us/stat/120/3424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3424
 [/us/usc/t38/s3683]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3683
-[/us/pl/109/461/s216/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461%2Fs216%2Fa
-[/us/pl/109/461/s216/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461%2Fs216%2Fb
+[/us/pl/109/461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461
+[/us/pl/109/461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461
 
 

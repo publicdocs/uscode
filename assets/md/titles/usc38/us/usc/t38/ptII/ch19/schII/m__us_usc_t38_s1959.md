@@ -19,11 +19,11 @@
 
     (b) Premium liens established under the provisions of section 304 of the World War Veterans’ Act, 1924, shall continue to bear interest at the rate of 5 per centum per annum, compounded annually, and will be deducted from any settlement of insurance to which they are attached.
 
-([Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1163][/us/stat/72/1163], § 759; [Pub. L. 99–576, title VII, § 701(33)][/us/pl/99/576/s701/33], Oct. 28, 1986, [100 Stat. 3293][/us/stat/100/3293]; renumbered § 1959 and amended [Pub. L. 102–83][/us/pl/102/83], §§ 4(b)(1), (2)(E), 5(a), Aug. 6, 1991, [105 Stat. 404–406][/us/stat/105/404-406].)
+([Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1163][/us/stat/72/1163], § 759; [Pub. L. 99–576, title VII][/us/pl/99/576/tVII], § 701(33), Oct. 28, 1986, [100 Stat. 3293][/us/stat/100/3293]; renumbered § 1959 and amended [Pub. L. 102–83][/us/pl/102/83], §§ 4(b)(1), (2)(E), 5(a), Aug. 6, 1991, [105 Stat. 404–406][/us/stat/105/404-406].)
 
  __References in Text__ 
 
-    Section 304 of the World War Veteran’s Act, 1924, referred to in subsec. (b), is section 304 of [act June 7, 1924, ch. 320][/us/act/1924-06-07/ch320], title III, [43 Stat. 625][/us/stat/43/625], which enacted section 515 of former Title 38, Pensions, Bonuses, and Veterans’ Relief, and which was repealed and the provisions thereof reenacted as this section by [Pub. L. 85–857, § 14(51)][/us/pl/85/857/s14/51], Sept. 2, 1958, [72 Stat. 1271][/us/stat/72/1271].
+    Section 304 of the World War Veteran’s Act, 1924, referred to in subsec. (b), is section 304 of [act June 7, 1924, ch. 320, title III][/us/act/1924-06-07/ch320/tIII], [43 Stat. 625][/us/stat/43/625], which enacted section 515 of former Title 38, Pensions, Bonuses, and Veterans’ Relief, and which was repealed and the provisions thereof reenacted as this section by [Pub. L. 85–857][/us/pl/85/857], § 14(51), Sept. 2, 1958, [72 Stat. 1271][/us/stat/72/1271].
 
  __Amendments__ 
 
@@ -40,13 +40,13 @@
 
 [/us/pl/85/857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F857
 [/us/stat/72/1163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1163
-[/us/pl/99/576/s701/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2Fs701%2F33
+[/us/pl/99/576/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2FtVII
 [/us/stat/100/3293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3293
 [/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/404-406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F404-406
-[/us/act/1924-06-07/ch320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1924-06-07%2Fch320
+[/us/act/1924-06-07/ch320/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1924-06-07%2Fch320%2FtIII
 [/us/stat/43/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F43%2F625
-[/us/pl/85/857/s14/51]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F857%2Fs14%2F51
+[/us/pl/85/857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F857
 [/us/stat/72/1271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1271
 [/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/usc/t38/s759]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs759

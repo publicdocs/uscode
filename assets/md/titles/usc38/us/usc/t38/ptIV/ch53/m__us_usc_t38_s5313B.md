@@ -65,7 +65,7 @@
 
         (2) The Secretary shall enter into memoranda of understanding with Federal law enforcement agencies, and may enter into agreements with State and local law enforcement agencies, for purposes of furnishing information to such agencies under paragraph (1).
 
-(Added [Pub. L. 107–103, title V, § 505(a)(1)][/us/pl/107/103/s505/a/1], Dec. 27, 2001, [115 Stat. 995][/us/stat/115/995].)
+(Added [Pub. L. 107–103, title V][/us/pl/107/103/tV], § 505(a)(1), Dec. 27, 2001, [115 Stat. 995][/us/stat/115/995].)
 
 ----------
 
@@ -74,7 +74,7 @@
 ----------
 ----------
 
-[/us/pl/107/103/s505/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F103%2Fs505%2Fa%2F1
+[/us/pl/107/103/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F103%2FtV
 [/us/stat/115/995]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F995
 
 

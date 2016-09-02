@@ -329,23 +329,23 @@
 
     The Secretary may delegate to an appropriate officer or employee of the Department any responsibility of the Secretary under subsection (c), (d), or (e) except for the responsibilities of the Secretary under subsection (e)(1).
 
-(Added [Pub. L. 108–445, § 3(b)][/us/pl/108/445/s3/b], Dec. 3, 2004, [118 Stat. 2636][/us/stat/118/2636]; amended [Pub. L. 111–163, title VI, § 601(f)][/us/pl/111/163/s601/f], May 5, 2010, [124 Stat. 1170][/us/stat/124/1170].)
+(Added [Pub. L. 108–445][/us/pl/108/445], § 3(b), Dec. 3, 2004, [118 Stat. 2636][/us/stat/118/2636]; amended [Pub. L. 111–163, title VI][/us/pl/111/163/tVI], § 601(f), May 5, 2010, [124 Stat. 1170][/us/stat/124/1170].)
 
  __Prior Provisions__ 
 
-    A prior section 7431, added [Pub. L. 102–40, title I, § 102][/us/pl/102/40/s102], May 7, 1991, [105 Stat. 188][/us/stat/105/188]; amended [Pub. L. 102–405, title III, § 302(c)(1)][/us/pl/102/405/s302/c/1], Oct. 9, 1992, [106 Stat. 1984][/us/stat/106/1984], related to authority of Secretary to provide for special pay, prior to the general amendment of this subchapter by [Pub. L. 108–445][/us/pl/108/445].
+    A prior section 7431, added [Pub. L. 102–40, title I][/us/pl/102/40/tI], § 102, May 7, 1991, [105 Stat. 188][/us/stat/105/188]; amended [Pub. L. 102–405, title III][/us/pl/102/405/tIII], § 302(c)(1), Oct. 9, 1992, [106 Stat. 1984][/us/stat/106/1984], related to authority of Secretary to provide for special pay, prior to the general amendment of this subchapter by [Pub. L. 108–445][/us/pl/108/445].
 
  __Amendments__ 
 
-    2010—Subsec. (b)(5). [Pub. L. 111–163, § 601(f)(1)][/us/pl/111/163/s601/f/1], added par. (5).
+    2010—Subsec. (b)(5). [Pub. L. 111–163][/us/pl/111/163], § 601(f)(1), added par. (5).
 
-    Subsec. (c)(4)(B)(i). [Pub. L. 111–163, § 601(f)(2)][/us/pl/111/163/s601/f/2], inserted at end “The Secretary may exempt physicians and dentists occupying administrative or executive leadership positions from the requirements of the previous sentence.”
+    Subsec. (c)(4)(B)(i). [Pub. L. 111–163][/us/pl/111/163], § 601(f)(2), inserted at end “The Secretary may exempt physicians and dentists occupying administrative or executive leadership positions from the requirements of the previous sentence.”
 
-    Subsec. (c)(7). [Pub. L. 111–163, § 601(f)(3)][/us/pl/111/163/s601/f/3], substituted “concerned, unless there is a change in board certification or reduction of privileges.” for “concerned.”
+    Subsec. (c)(7). [Pub. L. 111–163][/us/pl/111/163], § 601(f)(3), substituted “concerned, unless there is a change in board certification or reduction of privileges.” for “concerned.”
 
  __Effective Date__ 
 
-[Pub. L. 108–445, § 3(d)][/us/pl/108/445/s3/d], Dec. 3, 2004, [118 Stat. 2641][/us/stat/118/2641], provided that:
+[Pub. L. 108–445][/us/pl/108/445], § 3(d), Dec. 3, 2004, [118 Stat. 2641][/us/stat/118/2641], provided that:
 
 >     “(1) Notwithstanding the 60-day waiting requirement in [section 7431(e)(1)(C) of title 38][/us/usc/t38/s7431/e/1/C], United States Code (as amended by subsection (b)), pay provided for a physician or dentist under subchapter III of chapter 74 of such title, as amended by subsection (b), shall take effect on the first day of the first pay period applicable to such physician or dentist that begins on or after January 1, 2006.
 
@@ -353,7 +353,7 @@
 
  __Pilot Program on Incentives for Physicians Who Assume Inpatient Responsibilities at Community Hospitals in Health Professional Shortage Areas__ 
 
-[Pub. L. 111–163, title III, § 306][/us/pl/111/163/s306], May 5, 2010, [124 Stat. 1152][/us/stat/124/1152], provided that:
+[Pub. L. 111–163, title III][/us/pl/111/163/tIII], § 306, May 5, 2010, [124 Stat. 1152][/us/stat/124/1152], provided that:
 
 >     “(a)  __Pilot Program Required__  __.—__ 
 
@@ -463,7 +463,7 @@
 
  __Transition Provisions__ 
 
-[Pub. L. 108–445, § 3(e)][/us/pl/108/445/s3/e], Dec. 3, 2004, [118 Stat. 2641][/us/stat/118/2641], provided that:
+[Pub. L. 108–445][/us/pl/108/445], § 3(e), Dec. 3, 2004, [118 Stat. 2641][/us/stat/118/2641], provided that:
 
 >     “(1) __Physicians and dentists.—__ 
 
@@ -507,7 +507,7 @@
 
  __Initial Rates of Base Pay for Physicians and Dentists__ 
 
-[Pub. L. 108–445, § 3(c)][/us/pl/108/445/s3/c], Dec. 3, 2004, [118 Stat. 2641][/us/stat/118/2641], provided that: 
+[Pub. L. 108–445][/us/pl/108/445], § 3(c), Dec. 3, 2004, [118 Stat. 2641][/us/stat/118/2641], provided that: 
 
 > “The initial rates of base pay established for the base pay steps under the Physician and Dentist Base and Longevity Pay Schedule provided in [section 7431(b) of title 38][/us/usc/t38/s7431/b], United States Code (as added by subsection (b)), are as follows:
 
@@ -752,30 +752,30 @@
 [/us/usc/t5/s5941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5941
 [/us/usc/t38/s7433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7433
 [/us/usc/t3/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs102
-[/us/pl/108/445/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F445%2Fs3%2Fb
+[/us/pl/108/445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F445
 [/us/stat/118/2636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2636
-[/us/pl/111/163/s601/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163%2Fs601%2Ff
+[/us/pl/111/163/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163%2FtVI
 [/us/stat/124/1170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1170
-[/us/pl/102/40/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs102
+[/us/pl/102/40/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2FtI
 [/us/stat/105/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F188
-[/us/pl/102/405/s302/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405%2Fs302%2Fc%2F1
+[/us/pl/102/405/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405%2FtIII
 [/us/stat/106/1984]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1984
 [/us/pl/108/445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F445
-[/us/pl/111/163/s601/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163%2Fs601%2Ff%2F1
-[/us/pl/111/163/s601/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163%2Fs601%2Ff%2F2
-[/us/pl/111/163/s601/f/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163%2Fs601%2Ff%2F3
-[/us/pl/108/445/s3/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F445%2Fs3%2Fd
+[/us/pl/111/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163
+[/us/pl/111/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163
+[/us/pl/111/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163
+[/us/pl/108/445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F445
 [/us/stat/118/2641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2641
 [/us/usc/t38/s7431/e/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7431%2Fe%2F1%2FC
-[/us/pl/111/163/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163%2Fs306
+[/us/pl/111/163/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163%2FtIII
 [/us/stat/124/1152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1152
 [/us/usc/t42/s254e/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs254e%2Fa
-[/us/pl/108/445/s3/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F445%2Fs3%2Fe
+[/us/pl/108/445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F445
 [/us/stat/118/2641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2641
 [/us/usc/t38/s7438/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7438%2Fb
 [/us/usc/t38/s7438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7438
 [/us/usc/t38/s7438/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7438%2Fb
-[/us/pl/108/445/s3/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F445%2Fs3%2Fc
+[/us/pl/108/445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F445
 [/us/stat/118/2641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2641
 [/us/usc/t38/s7431/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7431%2Fb
 

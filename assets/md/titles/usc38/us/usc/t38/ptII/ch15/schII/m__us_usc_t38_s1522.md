@@ -19,17 +19,17 @@
 
     (b) The Secretary shall deny or discontinue the payment of increased pension under subsection (c), (d), (e), or (f) of [section 1521 of this title][/us/usc/t38/s1521] on account of a child when the corpus of such child’s estate is such that under all the circumstances, including consideration of the veteran’s and spouse’s income, and the income of the veteran’s children, it is reasonable that some part of the corpus of such child’s estate be consumed for the child’s maintenance. During the period such denial or discontinuance remains in effect, such child shall not be considered as the veteran’s child for purposes of this chapter.
 
-([Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1136][/us/stat/72/1136], § 522; [Pub. L. 86–211, § 3(b)][/us/pl/86/211/s3/b], Aug. 29, 1959, [73 Stat. 434][/us/stat/73/434]; [Pub. L. 95–588, title I, § 107][/us/pl/95/588/s107], Nov. 4, 1978, [92 Stat. 2502][/us/stat/92/2502]; renumbered § 1522 and amended [Pub. L. 102–83][/us/pl/102/83], §§ 4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, [105 Stat. 404–406][/us/stat/105/404-406]; [Pub. L. 107–103, title II, § 207(b)(2)][/us/pl/107/103/s207/b/2], Dec. 27, 2001, [115 Stat. 991][/us/stat/115/991].)
+([Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1136][/us/stat/72/1136], § 522; [Pub. L. 86–211][/us/pl/86/211], § 3(b), Aug. 29, 1959, [73 Stat. 434][/us/stat/73/434]; [Pub. L. 95–588, title I][/us/pl/95/588/tI], § 107, Nov. 4, 1978, [92 Stat. 2502][/us/stat/92/2502]; renumbered § 1522 and amended [Pub. L. 102–83][/us/pl/102/83], §§ 4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, [105 Stat. 404–406][/us/stat/105/404-406]; [Pub. L. 107–103, title II][/us/pl/107/103/tII], § 207(b)(2), Dec. 27, 2001, [115 Stat. 991][/us/stat/115/991].)
 
  __Amendments__ 
 
     2001—Subsec. (a). [Pub. L. 107–103][/us/pl/107/103] inserted “1513 or” before “1521 of this title”.
 
-    1991—[Pub. L. 102–83, § 5(a)][/us/pl/102/83/s5/a], renumbered [section 522 of this title][/us/usc/t38/s522] as this section.
+    1991—[Pub. L. 102–83][/us/pl/102/83], § 5(a), renumbered [section 522 of this title][/us/usc/t38/s522] as this section.
 
-    [Pub. L. 102–83, § 5(c)(1)][/us/pl/102/83/s5/c/1], substituted “1521” for “521” in subsecs. (a) and (b).
+    [Pub. L. 102–83][/us/pl/102/83], § 5(c)(1), substituted “1521” for “521” in subsecs. (a) and (b).
 
-    [Pub. L. 102–83, § 4(b)(1)][/us/pl/102/83/s4/b/1], (2)(E), substituted “Secretary” for “Administrator” in subsecs. (a) and (b).
+    [Pub. L. 102–83][/us/pl/102/83], § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in subsecs. (a) and (b).
 
     1978—[Pub. L. 95–588][/us/pl/95/588] designated existing provisions as subsec. (a), inserted provisions relating to consideration of the income and estates of the spouse and children of an eligible veteran, and added subsec. (b).
 
@@ -57,19 +57,19 @@
 [/us/usc/t38/s1521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1521
 [/us/pl/85/857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F857
 [/us/stat/72/1136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1136
-[/us/pl/86/211/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F211%2Fs3%2Fb
+[/us/pl/86/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F211
 [/us/stat/73/434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F434
-[/us/pl/95/588/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F588%2Fs107
+[/us/pl/95/588/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F588%2FtI
 [/us/stat/92/2502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2502
 [/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/404-406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F404-406
-[/us/pl/107/103/s207/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F103%2Fs207%2Fb%2F2
+[/us/pl/107/103/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F103%2FtII
 [/us/stat/115/991]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F991
 [/us/pl/107/103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F103
-[/us/pl/102/83/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fa
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/usc/t38/s522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs522
-[/us/pl/102/83/s5/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fc%2F1
-[/us/pl/102/83/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fb%2F1
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/pl/95/588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F588
 [/us/pl/86/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F211
 [/us/pl/107/103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F103

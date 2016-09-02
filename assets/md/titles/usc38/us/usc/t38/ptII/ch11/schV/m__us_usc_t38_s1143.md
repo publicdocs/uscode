@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Prior to renumbering of sections 301 to 363 of this chapter as sections 1101 to 1163 by [Pub. L. 102–83, § 5(a)][/us/pl/102/83/s5/a], Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406], section 343 of this chapter, [Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1124][/us/stat/72/1124], which prescribed conditions under which wartime rates of compensation were payable, was repealed by [Pub. L. 93–295, title II, § 206(b)][/us/pl/93/295/s206/b], title IV, § 401, May 31, 1974, [88 Stat. 183][/us/stat/88/183], 184, effective May 1, 1974.
+    Prior to renumbering of sections 301 to 363 of this chapter as sections 1101 to 1163 by [Pub. L. 102–83][/us/pl/102/83], § 5(a), Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406], section 343 of this chapter, [Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1124][/us/stat/72/1124], which prescribed conditions under which wartime rates of compensation were payable, was repealed by [Pub. L. 93–295, title II][/us/pl/93/295/tII], § 206(b), title IV, § 401, May 31, 1974, [88 Stat. 183][/us/stat/88/183], 184, effective May 1, 1974.
 
 ----------
 
@@ -26,11 +26,11 @@
 ----------
 ----------
 
-[/us/pl/102/83/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fa
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F406
 [/us/pl/85/857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F857
 [/us/stat/72/1124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1124
-[/us/pl/93/295/s206/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F295%2Fs206%2Fb
+[/us/pl/93/295/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F295%2FtII
 [/us/stat/88/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F183
 
 

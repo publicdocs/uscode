@@ -81,43 +81,43 @@
 
         (3) The term “sequestration order” means an order of the President issued under part C of such Act.
 
-(Added [Pub. L. 99–576, title VI, § 601(a)(1)][/us/pl/99/576/s601/a/1], Oct. 28, 1986, [100 Stat. 3287][/us/stat/100/3287]; amended [Pub. L. 100–198, § 12(a)][/us/pl/100/198/s12/a], Dec. 21, 1987, [101 Stat. 1325][/us/stat/101/1325]; [Pub. L. 100–322, title IV, § 411(b)][/us/pl/100/322/s411/b], (c), May 20, 1988, [102 Stat. 547][/us/stat/102/547]; [Pub. L. 102–40, title IV, § 402(d)(1)][/us/pl/102/40/s402/d/1], May 7, 1991, [105 Stat. 239][/us/stat/105/239]; [Pub. L. 102–83][/us/pl/102/83], §§ 4(a)(2)(B)(i), (3), (4), (b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, [105 Stat. 403–406][/us/stat/105/403-406].)
+(Added [Pub. L. 99–576, title VI][/us/pl/99/576/tVI], § 601(a)(1), Oct. 28, 1986, [100 Stat. 3287][/us/stat/100/3287]; amended [Pub. L. 100–198][/us/pl/100/198], § 12(a), Dec. 21, 1987, [101 Stat. 1325][/us/stat/101/1325]; [Pub. L. 100–322, title IV][/us/pl/100/322/tIV], § 411(b), (c), May 20, 1988, [102 Stat. 547][/us/stat/102/547]; [Pub. L. 102–40, title IV][/us/pl/102/40/tIV], § 402(d)(1), May 7, 1991, [105 Stat. 239][/us/stat/105/239]; [Pub. L. 102–83][/us/pl/102/83], §§ 4(a)(2)(B)(i), (3), (4), (b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, [105 Stat. 403–406][/us/stat/105/403-406].)
 
  __References in Text__ 
 
-    The Balanced Budget and Emergency Deficit Control Act of 1985, referred to in subsecs. (a), (b), (d), and (f), is title II of [Pub. L. 99–177][/us/pl/99/177], Dec. 12, 1985, [99 Stat. 1038][/us/stat/99/1038]. Part C of the Act is classified generally to subchapter I (§ 900 et seq.) of chapter 20 of Title 2, The Congress. Section 251 of the Act is classified to [section 901 of Title 2][/us/usc/t2/s901], and was amended generally by [Pub. L. 101–508, title XIII, § 13101(a)][/us/pl/101/508/s13101/a], Nov. 5, 1990, [104 Stat. 1388–577][/us/stat/104/1388-577], and [Pub. L. 112–25, title I, § 101][/us/pl/112/25/s101], Aug. 2, 2011, [125 Stat. 241][/us/stat/125/241]. For complete classification of this Act to the Code, see Short Title note set out under [section 900 of Title 2][/us/usc/t2/s900] and Tables.
+    The Balanced Budget and Emergency Deficit Control Act of 1985, referred to in subsecs. (a), (b), (d), and (f), is title II of [Pub. L. 99–177][/us/pl/99/177], Dec. 12, 1985, [99 Stat. 1038][/us/stat/99/1038]. Part C of the Act is classified generally to subchapter I (§ 900 et seq.) of chapter 20 of Title 2, The Congress. Section 251 of the Act is classified to [section 901 of Title 2][/us/usc/t2/s901], and was amended generally by [Pub. L. 101–508, title XIII][/us/pl/101/508/tXIII], § 13101(a), Nov. 5, 1990, [104 Stat. 1388–577][/us/stat/104/1388-577], and [Pub. L. 112–25, title I][/us/pl/112/25/tI], § 101, Aug. 2, 2011, [125 Stat. 241][/us/stat/125/241]. For complete classification of this Act to the Code, see Short Title note set out under [section 900 of Title 2][/us/usc/t2/s900] and Tables.
 
     The date of the enactment of this section, referred to in subsec. (e), is the date of enactment of [Pub. L. 99–576][/us/pl/99/576], which was approved Oct. 28, 1986.
 
  __Amendments__ 
 
-    1991—Subsec. (a)(2). [Pub. L. 102–83, § 5(c)(1)][/us/pl/102/83/s5/c/1], substituted “2307” for “907”.
+    1991—Subsec. (a)(2). [Pub. L. 102–83][/us/pl/102/83], § 5(c)(1), substituted “2307” for “907”.
 
-    Subsec. (b). [Pub. L. 102–83, § 4(a)(3)][/us/pl/102/83/s4/a/3], (4), substituted “Department” for “Veterans’ Administration” in introductory provisions.
+    Subsec. (b). [Pub. L. 102–83][/us/pl/102/83], § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration” in introductory provisions.
 
-    Subsec. (b)(1). [Pub. L. 102–83, § 5(c)(1)][/us/pl/102/83/s5/c/1], substituted “1920” for “720” in subpar. (A), “1922” for “722” in subpar. (B), “1923” for “723” in subpar. (C), “1925” for “725” in subpar. (D), “1955” for “755” in subpar. (E), and “1919” for “719” in subpar. (F).
+    Subsec. (b)(1). [Pub. L. 102–83][/us/pl/102/83], § 5(c)(1), substituted “1920” for “720” in subpar. (A), “1922” for “722” in subpar. (B), “1923” for “723” in subpar. (C), “1925” for “725” in subpar. (D), “1955” for “755” in subpar. (E), and “1919” for “719” in subpar. (F).
 
-    Subsec. (b)(2)(A). [Pub. L. 102–83, § 5(c)(1)][/us/pl/102/83/s5/c/1], substituted “1718(c)” for “618(c)”.
+    Subsec. (b)(2)(A). [Pub. L. 102–83][/us/pl/102/83], § 5(c)(1), substituted “1718(c)” for “618(c)”.
 
-    [Pub. L. 102–83, § 4(a)(2)(B)(i)][/us/pl/102/83/s4/a/2/B/i], substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
+    [Pub. L. 102–83][/us/pl/102/83], § 4(a)(2)(B)(i), substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
 
     Subsec. (b)(2)(B). [Pub. L. 102–40][/us/pl/102/40] substituted “7804” for “4204”.
 
-    Subsec. (c)(1). [Pub. L. 102–83, § 5(c)(1)][/us/pl/102/83/s5/c/1], substituted “2301, 2302, 2303, 2306, or 2308” for “901, 902, 903, 906, or 908”.
+    Subsec. (c)(1). [Pub. L. 102–83][/us/pl/102/83], § 5(c)(1), substituted “2301, 2302, 2303, 2306, or 2308” for “901, 902, 903, 906, or 908”.
 
-    Subsec. (c)(3). [Pub. L. 102–83, § 4(b)(1)][/us/pl/102/83/s4/b/1], (2)(E), substituted “Secretary” for “Administrator”.
+    Subsec. (c)(3). [Pub. L. 102–83][/us/pl/102/83], § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
-    Subsec. (d). [Pub. L. 102–83, § 4(a)(3)][/us/pl/102/83/s4/a/3], (4), substituted “Department” for “Veterans’ Administration”.
+    Subsec. (d). [Pub. L. 102–83][/us/pl/102/83], § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration”.
 
-    1988—Subsec. (a)(4), (5). [Pub. L. 100–322, § 411(b)][/us/pl/100/322/s411/b], struck out “(but only with respect to fiscal year 1987)” before period at end.
+    1988—Subsec. (a)(4), (5). [Pub. L. 100–322][/us/pl/100/322], § 411(b), struck out “(but only with respect to fiscal year 1987)” before period at end.
 
-    Subsec. (d). [Pub. L. 100–322, § 411(c)][/us/pl/100/322/s411/c], substituted “a report of the Director of the Office of Management and Budget” for “a joint report of the Directors of the Office of Management and Budget and the Congressional Budget Office”.
+    Subsec. (d). [Pub. L. 100–322][/us/pl/100/322], § 411(c), substituted “a report of the Director of the Office of Management and Budget” for “a joint report of the Directors of the Office of Management and Budget and the Congressional Budget Office”.
 
-    1987—Subsec. (a)(6). [Pub. L. 100–198, § 12(a)(1)][/us/pl/100/198/s12/a/1], added par. (6).
+    1987—Subsec. (a)(6). [Pub. L. 100–198][/us/pl/100/198], § 12(a)(1), added par. (6).
 
-    Subsec. (c)(2). [Pub. L. 100–198, § 12(a)(3)][/us/pl/100/198/s12/a/3], substituted “31, 34, 35, or 36” for “34, or 36”.
+    Subsec. (c)(2). [Pub. L. 100–198][/us/pl/100/198], § 12(a)(3), substituted “31, 34, 35, or 36” for “34, or 36”.
 
-    Subsecs. (e) to (g). [Pub. L. 100–198, § 12(a)(2)][/us/pl/100/198/s12/a/2], redesignated subsecs. (f) and (g) as (e) and (f), respectively, and struck out former subsec. (e) which read as follows: “If a final order issued by the President pursuant to a law providing for the cancellation of loan guarantee commitments imposes a limitation on the total amount of loans that may be guaranteed under chapter 37 of this title in any fiscal year, the Administrator shall submit to the Committees on Veterans’ Affairs of the Senate and the House of Representatives a monthly report (not later than the 10th day of each month during the remainder of such fiscal year following the issuance of such final order) providing the following information:
+    Subsecs. (e) to (g). [Pub. L. 100–198][/us/pl/100/198], § 12(a)(2), redesignated subsecs. (f) and (g) as (e) and (f), respectively, and struck out former subsec. (e) which read as follows: “If a final order issued by the President pursuant to a law providing for the cancellation of loan guarantee commitments imposes a limitation on the total amount of loans that may be guaranteed under chapter 37 of this title in any fiscal year, the Administrator shall submit to the Committees on Veterans’ Affairs of the Senate and the House of Representatives a monthly report (not later than the 10th day of each month during the remainder of such fiscal year following the issuance of such final order) providing the following information:
 
     “(1) The total amount of the loans for which commitments of guarantees were made under such chapter during the preceding month.
 
@@ -127,19 +127,19 @@
 
  __Effective Date of 1987 Amendment__ 
 
-[Pub. L. 100–198, § 12(b)][/us/pl/100/198/s12/b], Dec. 21, 1987, [101 Stat. 1325][/us/stat/101/1325], provided that: 
+[Pub. L. 100–198][/us/pl/100/198], § 12(b), Dec. 21, 1987, [101 Stat. 1325][/us/stat/101/1325], provided that: 
 
 > “The amendments made by subsection (a) \[amending this section\] shall take effect on November 19, 1987.”
 
  __Effective Date__ 
 
-[Pub. L. 99–576, title VI, § 601(b)][/us/pl/99/576/s601/b], Oct. 28, 1986, [100 Stat. 3289][/us/stat/100/3289], provided that: 
+[Pub. L. 99–576, title VI][/us/pl/99/576/tVI], § 601(b), Oct. 28, 1986, [100 Stat. 3289][/us/stat/100/3289], provided that: 
 
 > “[Section 113 of title 38][/us/usc/t38/s113], United States Code (as added by subsection (a)), shall apply with respect to a sequestration order issued, or a sequestration law enacted, for a fiscal year after fiscal year 1986.”
 
  __Restoration of Certain Revolving Funds__ 
 
-[Pub. L. 100–322, title IV, § 411(a)][/us/pl/100/322/s411/a], May 20, 1988, [102 Stat. 547][/us/stat/102/547], provided that:
+[Pub. L. 100–322, title IV][/us/pl/100/322/tIV], § 411(a), May 20, 1988, [102 Stat. 547][/us/stat/102/547], provided that:
 
 >     “(1) Notwithstanding section 601(b) of the Veterans’ Benefits Improvement and Health-Care Authorization Act of 1986 ([Public Law 99–576][/us/pl/99/576]) \[set out as a note above\], [section 113(b)(2) of title 38][/us/usc/t38/s113/b/2], United States Code, shall apply with respect to a sequestration order issued, or a sequestration law enacted, for any fiscal year after fiscal year 1985.
 
@@ -165,45 +165,45 @@
 [/us/usc/t38/s7804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7804
 [/us/usc/t2/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs901
 [/us/usc/t2/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs901
-[/us/pl/99/576/s601/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2Fs601%2Fa%2F1
+[/us/pl/99/576/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2FtVI
 [/us/stat/100/3287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3287
-[/us/pl/100/198/s12/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F198%2Fs12%2Fa
+[/us/pl/100/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F198
 [/us/stat/101/1325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1325
-[/us/pl/100/322/s411/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F322%2Fs411%2Fb
+[/us/pl/100/322/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F322%2FtIV
 [/us/stat/102/547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F547
-[/us/pl/102/40/s402/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs402%2Fd%2F1
+[/us/pl/102/40/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2FtIV
 [/us/stat/105/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F239
 [/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/403-406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F403-406
 [/us/pl/99/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F177
 [/us/stat/99/1038]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1038
 [/us/usc/t2/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs901
-[/us/pl/101/508/s13101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs13101%2Fa
+[/us/pl/101/508/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtXIII
 [/us/stat/104/1388-577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-577
-[/us/pl/112/25/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F25%2Fs101
+[/us/pl/112/25/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F25%2FtI
 [/us/stat/125/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F241
 [/us/usc/t2/s900]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs900
 [/us/pl/99/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576
-[/us/pl/102/83/s5/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fc%2F1
-[/us/pl/102/83/s4/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fa%2F3
-[/us/pl/102/83/s5/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fc%2F1
-[/us/pl/102/83/s5/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fc%2F1
-[/us/pl/102/83/s4/a/2/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fa%2F2%2FB%2Fi
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40
-[/us/pl/102/83/s5/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fc%2F1
-[/us/pl/102/83/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fb%2F1
-[/us/pl/102/83/s4/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fa%2F3
-[/us/pl/100/322/s411/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F322%2Fs411%2Fb
-[/us/pl/100/322/s411/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F322%2Fs411%2Fc
-[/us/pl/100/198/s12/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F198%2Fs12%2Fa%2F1
-[/us/pl/100/198/s12/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F198%2Fs12%2Fa%2F3
-[/us/pl/100/198/s12/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F198%2Fs12%2Fa%2F2
-[/us/pl/100/198/s12/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F198%2Fs12%2Fb
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/100/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F322
+[/us/pl/100/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F322
+[/us/pl/100/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F198
+[/us/pl/100/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F198
+[/us/pl/100/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F198
+[/us/pl/100/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F198
 [/us/stat/101/1325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1325
-[/us/pl/99/576/s601/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2Fs601%2Fb
+[/us/pl/99/576/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2FtVI
 [/us/stat/100/3289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3289
 [/us/usc/t38/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs113
-[/us/pl/100/322/s411/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F322%2Fs411%2Fa
+[/us/pl/100/322/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F322%2FtIV
 [/us/stat/102/547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F547
 [/us/pl/99/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576
 [/us/usc/t38/s113/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs113%2Fb%2F2

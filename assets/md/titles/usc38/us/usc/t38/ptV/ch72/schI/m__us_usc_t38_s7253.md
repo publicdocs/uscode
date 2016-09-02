@@ -107,7 +107,7 @@
 
         (2) Effective as of January 1, 2013, an appointment may not be made to the Court if the appointment would result in there being more judges of the Court than the authorized number of judges of the Court specified in subsection (a).
 
-(Added [Pub. L. 100–687, div. A, title III, § 301(a)][/us/pl/100/687/s301/a], Nov. 18, 1988, [102 Stat. 4114][/us/stat/102/4114], § 4053; amended [Pub. L. 101–94, title I, § 102(c)][/us/pl/101/94/s102/c], Aug. 16, 1989, [103 Stat. 626][/us/stat/103/626]; renumbered § 7253, [Pub. L. 102–40, title IV, § 402(b)(1)][/us/pl/102/40/s402/b/1], May 7, 1991, [105 Stat. 238][/us/stat/105/238]; [Pub. L. 102–82, § 3][/us/pl/102/82/s3], Aug. 6, 1991, [105 Stat. 375][/us/stat/105/375]; [Pub. L. 102–585, title VIII, § 801][/us/pl/102/585/s801], Nov. 4, 1992, [106 Stat. 4980][/us/stat/106/4980]; [Pub. L. 105–368, title V][/us/pl/105/368], §§ 501, 512(a)(1), Nov. 11, 1998, [112 Stat. 3340][/us/stat/112/3340], 3341; [Pub. L. 106–117, title X][/us/pl/106/117], §§ 1031, 1032(a), 1033, Nov. 30, 1999, [113 Stat. 1594][/us/stat/113/1594], 1595; [Pub. L. 107–103, title VI, § 601][/us/pl/107/103/s601], Dec. 27, 2001, [115 Stat. 998][/us/stat/115/998]; [Pub. L. 107–273, div. C, title I, § 11043(f)][/us/pl/107/273/s11043/f], Nov. 2, 2002, [116 Stat. 1856][/us/stat/116/1856]; [Pub. L. 108–454, title VIII, § 802][/us/pl/108/454/s802], Dec. 10, 2004, [118 Stat. 3625][/us/stat/118/3625]; [Pub. L. 109–233, title V, § 503(15)][/us/pl/109/233/s503/15], June 15, 2006, [120 Stat. 417][/us/stat/120/417]; [Pub. L. 110–389, title VI, § 601][/us/pl/110/389/s601], Oct. 10, 2008, [122 Stat. 4176][/us/stat/122/4176]; [Pub. L. 112–260, title III, § 302(b)][/us/pl/112/260/s302/b], Jan. 10, 2013, [126 Stat. 2425][/us/stat/126/2425].)
+(Added [Pub. L. 100–687, div. A, title III][/us/pl/100/687/dA/tIII], § 301(a), Nov. 18, 1988, [102 Stat. 4114][/us/stat/102/4114], § 4053; amended [Pub. L. 101–94, title I][/us/pl/101/94/tI], § 102(c), Aug. 16, 1989, [103 Stat. 626][/us/stat/103/626]; renumbered § 7253, [Pub. L. 102–40, title IV][/us/pl/102/40/tIV], § 402(b)(1), May 7, 1991, [105 Stat. 238][/us/stat/105/238]; [Pub. L. 102–82][/us/pl/102/82], § 3, Aug. 6, 1991, [105 Stat. 375][/us/stat/105/375]; [Pub. L. 102–585, title VIII][/us/pl/102/585/tVIII], § 801, Nov. 4, 1992, [106 Stat. 4980][/us/stat/106/4980]; [Pub. L. 105–368, title V][/us/pl/105/368/tV], §§ 501, 512(a)(1), Nov. 11, 1998, [112 Stat. 3340][/us/stat/112/3340], 3341; [Pub. L. 106–117, title X][/us/pl/106/117/tX], §§ 1031, 1032(a), 1033, Nov. 30, 1999, [113 Stat. 1594][/us/stat/113/1594], 1595; [Pub. L. 107–103, title VI][/us/pl/107/103/tVI], § 601, Dec. 27, 2001, [115 Stat. 998][/us/stat/115/998]; [Pub. L. 107–273, div. C, title I][/us/pl/107/273/dC/tI], § 11043(f), Nov. 2, 2002, [116 Stat. 1856][/us/stat/116/1856]; [Pub. L. 108–454, title VIII][/us/pl/108/454/tVIII], § 802, Dec. 10, 2004, [118 Stat. 3625][/us/stat/118/3625]; [Pub. L. 109–233, title V][/us/pl/109/233/tV], § 503(15), June 15, 2006, [120 Stat. 417][/us/stat/120/417]; [Pub. L. 110–389, title VI][/us/pl/110/389/tVI], § 601, Oct. 10, 2008, [122 Stat. 4176][/us/stat/122/4176]; [Pub. L. 112–260, title III][/us/pl/112/260/tIII], § 302(b), Jan. 10, 2013, [126 Stat. 2425][/us/stat/126/2425].)
 
  __Amendments__ 
 
@@ -117,37 +117,37 @@
 
     2006—Subsec. (d)(5). [Pub. L. 109–233][/us/pl/109/233] substituted “Court” for “court”.
 
-    2004—Subsec. (d)(1). [Pub. L. 108–454, § 802(a)][/us/pl/108/454/s802/a], inserted “The chief judge of the Court is the head of the Court.” after “(1)”.
+    2004—Subsec. (d)(1). [Pub. L. 108–454][/us/pl/108/454], § 802(a), inserted “The chief judge of the Court is the head of the Court.” after “(1)”.
 
-    Subsec. (d)(4)(A). [Pub. L. 108–454, § 802(b)][/us/pl/108/454/s802/b], substituted “Court” for “court” in cls. (i) and (ii).
+    Subsec. (d)(4)(A). [Pub. L. 108–454][/us/pl/108/454], § 802(b), substituted “Court” for “court” in cls. (i) and (ii).
 
-    Subsec. (h)(4). [Pub. L. 108–454, § 802(c)][/us/pl/108/454/s802/c], substituted “December 27, 2001,” for “the date of the enactment of this subsection”.
+    Subsec. (h)(4). [Pub. L. 108–454][/us/pl/108/454], § 802(c), substituted “December 27, 2001,” for “the date of the enactment of this subsection”.
 
-    2002—Subsec. (g)(1). [Pub. L. 107–273, § 11043(f)(1)][/us/pl/107/273/s11043/f/1], substituted “chapter 16” for “section 372(c)” and “such chapter” for “such section”.
+    2002—Subsec. (g)(1). [Pub. L. 107–273][/us/pl/107/273], § 11043(f)(1), substituted “chapter 16” for “section 372(c)” and “such chapter” for “such section”.
 
-    Subsec. (g)(2). [Pub. L. 107–273, § 11043(f)(2)][/us/pl/107/273/s11043/f/2], substituted “sections 354(b) through 360” for “paragraphs (7) through (15) of section 372(c)” and “section 354(b) or 355” for “paragraph (7) or (8) of section 372(c)”.
+    Subsec. (g)(2). [Pub. L. 107–273][/us/pl/107/273], § 11043(f)(2), substituted “sections 354(b) through 360” for “paragraphs (7) through (15) of section 372(c)” and “section 354(b) or 355” for “paragraph (7) or (8) of section 372(c)”.
 
-    Subsec. (g)(3)(B). [Pub. L. 107–273, § 11043(f)(3)][/us/pl/107/273/s11043/f/3], substituted “361” for “372(c)(16)”.
+    Subsec. (g)(3)(B). [Pub. L. 107–273][/us/pl/107/273], § 11043(f)(3), substituted “361” for “372(c)(16)”.
 
-    2001—Subsecs. (b), (c), (f), (g). [Pub. L. 107–103, § 601(b)][/us/pl/107/103/s601/b], inserted subsec. headings.
+    2001—Subsecs. (b), (c), (f), (g). [Pub. L. 107–103][/us/pl/107/103], § 601(b), inserted subsec. headings.
 
-    Subsec. (h). [Pub. L. 107–103, § 601(a)][/us/pl/107/103/s601/a], added subsec. (h).
+    Subsec. (h). [Pub. L. 107–103][/us/pl/107/103], § 601(a), added subsec. (h).
 
-    1999—Subsec. (a). [Pub. L. 106–117, § 1031][/us/pl/106/117/s1031], inserted heading and amended text of subsec. (a) generally. Prior to amendment, text read as follows: “The Court of Appeals for Veterans Claims shall be composed of a chief judge and at least two and not more than six associate judges.”
+    1999—Subsec. (a). [Pub. L. 106–117][/us/pl/106/117], § 1031, inserted heading and amended text of subsec. (a) generally. Prior to amendment, text read as follows: “The Court of Appeals for Veterans Claims shall be composed of a chief judge and at least two and not more than six associate judges.”
 
-    Subsec. (d). [Pub. L. 106–117, § 1032(a)][/us/pl/106/117/s1032/a], inserted heading and amended text of subsec. (d) generally. Prior to amendment, text read as follows: “The chief judge is the head of the Court”.
+    Subsec. (d). [Pub. L. 106–117][/us/pl/106/117], § 1032(a), inserted heading and amended text of subsec. (d) generally. Prior to amendment, text read as follows: “The chief judge is the head of the Court”.
 
-    Subsec. (e). [Pub. L. 106–117, § 1033][/us/pl/106/117/s1033], inserted heading and amended text of subsec. (e) generally. Prior to amendment, text read as follows:
+    Subsec. (e). [Pub. L. 106–117][/us/pl/106/117], § 1033, inserted heading and amended text of subsec. (e) generally. Prior to amendment, text read as follows:
 
     “(e)(1) The chief judge of the Court shall receive a salary at the same rate as is received by judges of the United States Courts of Appeals.
 
     “(2) Each judge of the Court, other than the chief judge, shall receive a salary at the same rate as is received by judges of the United States district courts.”
 
-    1998—Subsec. (a). [Pub. L. 105–368, § 512(a)(1)][/us/pl/105/368/s512/a/1], substituted “Court of Appeals for Veterans Claims” for “Court of Veterans Appeals”.
+    1998—Subsec. (a). [Pub. L. 105–368][/us/pl/105/368], § 512(a)(1), substituted “Court of Appeals for Veterans Claims” for “Court of Veterans Appeals”.
 
-    Subsec. (c). [Pub. L. 105–368, § 512(a)(1)][/us/pl/105/368/s512/a/1], substituted “Court of Appeals for Veterans Claims” for “Court of Veterans Appeals”.
+    Subsec. (c). [Pub. L. 105–368][/us/pl/105/368], § 512(a)(1), substituted “Court of Appeals for Veterans Claims” for “Court of Veterans Appeals”.
 
-    [Pub. L. 105–368, § 501][/us/pl/105/368/s501], inserted at end “A judge who is nominated by the President for appointment to an additional term on the Court without a break in service and whose term of office expires while that nomination is pending before the Senate may continue in office for up to 1 year while that nomination is pending.”
+    [Pub. L. 105–368][/us/pl/105/368], § 501, inserted at end “A judge who is nominated by the President for appointment to an additional term on the Court without a break in service and whose term of office expires while that nomination is pending before the Senate may continue in office for up to 1 year while that nomination is pending.”
 
     1992—Subsec. (g). [Pub. L. 102–585][/us/pl/102/585] designated existing provisions as par. (1) and added pars. (2) and (3).
 
@@ -161,13 +161,13 @@
 
     Amendment by [Pub. L. 112–260][/us/pl/112/260] effective on the date that is 180 days after Jan. 10, 2013, see [section 302(c)(1) of Pub. L. 112–260][/us/pl/112/260/s302/c/1], set out as a note under [section 7255 of this title][/us/usc/t38/s7255].
 
-[Pub. L. 112–260, title III, § 302(c)(2)][/us/pl/112/260/s302/c/2], Jan. 10, 2013, [126 Stat. 2426][/us/stat/126/2426], provided that: 
+[Pub. L. 112–260, title III][/us/pl/112/260/tIII], § 302(c)(2), Jan. 10, 2013, [126 Stat. 2426][/us/stat/126/2426], provided that: 
 
 > “The amendment made by subsection (b) \[amending this section\] shall apply with respect to judges confirmed on or after January 1, 2012.”
 
  __Effective Date of 1999 Amendment__ 
 
-[Pub. L. 106–117, title X, § 1036][/us/pl/106/117/s1036], Nov. 30, 1999, [113 Stat. 1595][/us/stat/113/1595], provided that:
+[Pub. L. 106–117, title X][/us/pl/106/117/tX], § 1036, Nov. 30, 1999, [113 Stat. 1595][/us/stat/113/1595], provided that:
 
 >     “(a)  __Effective Date__  __.—__ 
 
@@ -199,50 +199,50 @@
 [/us/stat/113/1590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1590
 [/us/usc/t38/s7296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7296
 [/us/usc/t38/s7257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7257
-[/us/pl/100/687/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F687%2Fs301%2Fa
+[/us/pl/100/687/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F687%2FdA%2FtIII
 [/us/stat/102/4114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4114
-[/us/pl/101/94/s102/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F94%2Fs102%2Fc
+[/us/pl/101/94/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F94%2FtI
 [/us/stat/103/626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F626
-[/us/pl/102/40/s402/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs402%2Fb%2F1
+[/us/pl/102/40/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2FtIV
 [/us/stat/105/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F238
-[/us/pl/102/82/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F82%2Fs3
+[/us/pl/102/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F82
 [/us/stat/105/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F375
-[/us/pl/102/585/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F585%2Fs801
+[/us/pl/102/585/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F585%2FtVIII
 [/us/stat/106/4980]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4980
-[/us/pl/105/368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368
+[/us/pl/105/368/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2FtV
 [/us/stat/112/3340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3340
-[/us/pl/106/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117
+[/us/pl/106/117/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117%2FtX
 [/us/stat/113/1594]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1594
-[/us/pl/107/103/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F103%2Fs601
+[/us/pl/107/103/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F103%2FtVI
 [/us/stat/115/998]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F998
-[/us/pl/107/273/s11043/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs11043%2Ff
+[/us/pl/107/273/dC/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdC%2FtI
 [/us/stat/116/1856]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1856
-[/us/pl/108/454/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F454%2Fs802
+[/us/pl/108/454/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F454%2FtVIII
 [/us/stat/118/3625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3625
-[/us/pl/109/233/s503/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F233%2Fs503%2F15
+[/us/pl/109/233/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F233%2FtV
 [/us/stat/120/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F417
-[/us/pl/110/389/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F389%2Fs601
+[/us/pl/110/389/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F389%2FtVI
 [/us/stat/122/4176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4176
-[/us/pl/112/260/s302/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F260%2Fs302%2Fb
+[/us/pl/112/260/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F260%2FtIII
 [/us/stat/126/2425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2425
 [/us/pl/112/260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F260
 [/us/usc/t38/s7255/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7255%2Fc
 [/us/pl/110/389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F389
 [/us/pl/109/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F233
-[/us/pl/108/454/s802/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F454%2Fs802%2Fa
-[/us/pl/108/454/s802/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F454%2Fs802%2Fb
-[/us/pl/108/454/s802/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F454%2Fs802%2Fc
-[/us/pl/107/273/s11043/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs11043%2Ff%2F1
-[/us/pl/107/273/s11043/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs11043%2Ff%2F2
-[/us/pl/107/273/s11043/f/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs11043%2Ff%2F3
-[/us/pl/107/103/s601/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F103%2Fs601%2Fb
-[/us/pl/107/103/s601/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F103%2Fs601%2Fa
-[/us/pl/106/117/s1031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117%2Fs1031
-[/us/pl/106/117/s1032/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117%2Fs1032%2Fa
-[/us/pl/106/117/s1033]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117%2Fs1033
-[/us/pl/105/368/s512/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2Fs512%2Fa%2F1
-[/us/pl/105/368/s512/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2Fs512%2Fa%2F1
-[/us/pl/105/368/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2Fs501
+[/us/pl/108/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F454
+[/us/pl/108/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F454
+[/us/pl/108/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F454
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
+[/us/pl/107/103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F103
+[/us/pl/107/103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F103
+[/us/pl/106/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117
+[/us/pl/106/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117
+[/us/pl/106/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117
+[/us/pl/105/368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368
+[/us/pl/105/368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368
+[/us/pl/105/368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368
 [/us/pl/102/585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F585
 [/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40
 [/us/usc/t38/s4053]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs4053
@@ -251,9 +251,9 @@
 [/us/pl/112/260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F260
 [/us/pl/112/260/s302/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F260%2Fs302%2Fc%2F1
 [/us/usc/t38/s7255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7255
-[/us/pl/112/260/s302/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F260%2Fs302%2Fc%2F2
+[/us/pl/112/260/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F260%2FtIII
 [/us/stat/126/2426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2426
-[/us/pl/106/117/s1036]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117%2Fs1036
+[/us/pl/106/117/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117%2FtX
 [/us/stat/113/1595]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1595
 [/us/pl/106/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117
 [/us/usc/t38/s7257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7257

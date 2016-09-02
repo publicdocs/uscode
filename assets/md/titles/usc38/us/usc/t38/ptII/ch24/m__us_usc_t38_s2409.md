@@ -97,7 +97,7 @@
 
                 (ii) the date that is 30 session days after the date on which Congress received the veto and objections of the President.
 
-(Added [Pub. L. 99–576, title IV, § 413(a)][/us/pl/99/576/s413/a], Oct. 28, 1986, [100 Stat. 3284][/us/stat/100/3284], § 1009; amended [Pub. L. 101–237, title III, § 313(b)(5)][/us/pl/101/237/s313/b/5], Dec. 18, 1989, [103 Stat. 2077][/us/stat/103/2077]; renumbered § 2409, [Pub. L. 102–83, § 5(a)][/us/pl/102/83/s5/a], Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406]; [Pub. L. 112–154, title VI, § 604][/us/pl/112/154/s604], Aug. 6, 2012, [126 Stat. 1201][/us/stat/126/1201].)
+(Added [Pub. L. 99–576, title IV][/us/pl/99/576/tIV], § 413(a), Oct. 28, 1986, [100 Stat. 3284][/us/stat/100/3284], § 1009; amended [Pub. L. 101–237, title III][/us/pl/101/237/tIII], § 313(b)(5), Dec. 18, 1989, [103 Stat. 2077][/us/stat/103/2077]; renumbered § 2409, [Pub. L. 102–83][/us/pl/102/83], § 5(a), Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406]; [Pub. L. 112–154, title VI][/us/pl/112/154/tVI], § 604, Aug. 6, 2012, [126 Stat. 1201][/us/stat/126/1201].)
 
  __Amendments__ 
 
@@ -109,7 +109,7 @@
 
  __Columbia Orbiter Memorial__ 
 
-[Pub. L. 108–11, title III][/us/pl/108/11], Apr. 16, 2003, [117 Stat. 603][/us/stat/117/603], provided that:
+[Pub. L. 108–11, title III][/us/pl/108/11/tIII], Apr. 16, 2003, [117 Stat. 603][/us/stat/117/603], provided that:
 
 > “SEC. 301. __SHORT TITLE.__ 
 
@@ -143,7 +143,7 @@
 
  __Authorization of Placement of a Memorial in Arlington National Cemetery Honoring World War II Veterans Who Fought in the Battle of the Bulge__ 
 
-[Pub. L. 107–330, title II, § 204][/us/pl/107/330/s204], Dec. 6, 2002, [116 Stat. 2824][/us/stat/116/2824], provided that: 
+[Pub. L. 107–330, title II][/us/pl/107/330/tII], § 204, Dec. 6, 2002, [116 Stat. 2824][/us/stat/116/2824], provided that: 
 
 > “The Secretary of the Army is authorized to place in Arlington National Cemetery a memorial marker honoring veterans who fought in the battle in the European theater of operations during World War II known as the Battle of the Bulge.”
 
@@ -154,23 +154,23 @@
 ----------
 ----------
 
-[/us/pl/99/576/s413/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2Fs413%2Fa
+[/us/pl/99/576/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2FtIV
 [/us/stat/100/3284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3284
-[/us/pl/101/237/s313/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237%2Fs313%2Fb%2F5
+[/us/pl/101/237/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237%2FtIII
 [/us/stat/103/2077]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2077
-[/us/pl/102/83/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fa
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F406
-[/us/pl/112/154/s604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154%2Fs604
+[/us/pl/112/154/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154%2FtVI
 [/us/stat/126/1201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1201
 [/us/pl/112/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154
 [/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/usc/t38/s1009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1009
 [/us/pl/101/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237
-[/us/pl/108/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F11
+[/us/pl/108/11/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F11%2FtIII
 [/us/stat/117/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F603
 [/us/pl/107/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F248
 [/us/stat/116/1521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1521
-[/us/pl/107/330/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F330%2Fs204
+[/us/pl/107/330/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F330%2FtII
 [/us/stat/116/2824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2824
 
 

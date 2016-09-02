@@ -115,7 +115,7 @@
 
             (C) the effectiveness of such policy on improving the safety and security of the medical facilities of the Department, including the performance measures used to evaluate such effectiveness.
 
-(Added [Pub. L. 112–154, title I, § 106(a)][/us/pl/112/154/s106/a], Aug. 6, 2012, [126 Stat. 1171][/us/stat/126/1171].)
+(Added [Pub. L. 112–154, title I][/us/pl/112/154/tI], § 106(a), Aug. 6, 2012, [126 Stat. 1171][/us/stat/126/1171].)
 
 ----------
 
@@ -124,7 +124,7 @@
 ----------
 ----------
 
-[/us/pl/112/154/s106/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154%2Fs106%2Fa
+[/us/pl/112/154/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154%2FtI
 [/us/stat/126/1171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1171
 
 

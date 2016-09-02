@@ -99,7 +99,7 @@
 
     In carrying out the comprehensive program, the Secretary may provide for other actions to reduce the incidence of suicide among veterans that the Secretary considers appropriate.
 
-(Added [Pub. L. 110–110, § 3(a)(1)][/us/pl/110/110/s3/a/1], Nov. 5, 2007, [121 Stat. 1031][/us/stat/121/1031]; amended [Pub. L. 112–239, div. A, title VII, § 730(a)(1)][/us/pl/112/239/s730/a/1]–(3), Jan. 2, 2013, [126 Stat. 1814][/us/stat/126/1814].)
+(Added [Pub. L. 110–110][/us/pl/110/110], § 3(a)(1), Nov. 5, 2007, [121 Stat. 1031][/us/stat/121/1031]; amended [Pub. L. 112–239, div. A, title VII][/us/pl/112/239/dA/tVII], § 730(a)(1)–(3), Jan. 2, 2013, [126 Stat. 1814][/us/stat/126/1814].)
 
  __References in Text__ 
 
@@ -111,15 +111,15 @@
 
  __Amendments__ 
 
-    2013—Subsec. (j)(1). [Pub. L. 112–239, § 730(a)(1)][/us/pl/112/239/s730/a/1], substituted “shall establish” for “may establish” in introductory provisions.
+    2013—Subsec. (j)(1). [Pub. L. 112–239][/us/pl/112/239], § 730(a)(1), substituted “shall establish” for “may establish” in introductory provisions.
 
-    Subsec. (j)(2). [Pub. L. 112–239, § 730(a)(2)][/us/pl/112/239/s730/a/2], inserted “, including training carried out under the national program of training required by section 304(c) of the Caregivers and Veterans Omnibus Health Services Act of 2010 ([38 U.S.C. 1712A][/us/usc/t38/s1712A] note)” after “peer counselors”.
+    Subsec. (j)(2). [Pub. L. 112–239][/us/pl/112/239], § 730(a)(2), inserted “, including training carried out under the national program of training required by section 304(c) of the Caregivers and Veterans Omnibus Health Services Act of 2010 ([38 U.S.C. 1712A][/us/usc/t38/s1712A] note)” after “peer counselors”.
 
-    Subsec. (j)(3). [Pub. L. 112–239, § 730(a)(3)][/us/pl/112/239/s730/a/3], added par. (3).
+    Subsec. (j)(3). [Pub. L. 112–239][/us/pl/112/239], § 730(a)(3), added par. (3).
 
  __Collaboration on Suicide Prevention Efforts Between Department of Veterans Affairs and Non-Profit Mental Health Organizations__ 
 
-[Pub. L. 114–2, § 6][/us/pl/114/2/s6], Feb. 12, 2015, [129 Stat. 36][/us/stat/129/36], provided that:
+[Pub. L. 114–2][/us/pl/114/2], § 6, Feb. 12, 2015, [129 Stat. 36][/us/stat/129/36], provided that:
 
 >     “(a)  __Collaboration__  __.—__ 
 
@@ -141,13 +141,13 @@
 
  __Deadline for Commencement of Program__ 
 
-[Pub. L. 112–239, div. A, title VII, § 730(a)(4)][/us/pl/112/239/s730/a/4], Jan. 2, 2013, [126 Stat. 1814][/us/stat/126/1814], provided that: 
+[Pub. L. 112–239, div. A, title VII][/us/pl/112/239/dA/tVII], § 730(a)(4), Jan. 2, 2013, [126 Stat. 1814][/us/stat/126/1814], provided that: 
 
 > “The Secretary of Veterans Affairs shall ensure that the peer support counseling program required by [section 1720F(j) of title 38][/us/usc/t38/s1720F/j], United States Code, as amended by this subsection, commences at each Department of Veterans Affairs medical center not later than 270 days after the date of the enactment of this Act \[Jan. 2, 2013\].”
 
  __Sense of Congress__ 
 
-[Pub. L. 110–110, § 2][/us/pl/110/110/s2], Nov. 5, 2007, [121 Stat. 1031][/us/stat/121/1031], provided that: 
+[Pub. L. 110–110][/us/pl/110/110], § 2, Nov. 5, 2007, [121 Stat. 1031][/us/stat/121/1031], provided that: 
 
 > “It is the sense of Congress that—
 
@@ -165,23 +165,23 @@
 [/us/usc/t38/s1712A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1712A
 [/us/usc/t38/s1712A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1712A
 [/us/usc/t38/s1712A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1712A
-[/us/pl/110/110/s3/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F110%2Fs3%2Fa%2F1
+[/us/pl/110/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F110
 [/us/stat/121/1031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1031
-[/us/pl/112/239/s730/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs730%2Fa%2F1
+[/us/pl/112/239/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtVII
 [/us/stat/126/1814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1814
 [/us/pl/111/163/s304/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163%2Fs304%2Fc
 [/us/usc/t38/s1712A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1712A
 [/us/pl/110/110/s3/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F110%2Fs3%2Fa%2F1
-[/us/pl/112/239/s730/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs730%2Fa%2F1
-[/us/pl/112/239/s730/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs730%2Fa%2F2
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/usc/t38/s1712A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1712A
-[/us/pl/112/239/s730/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs730%2Fa%2F3
-[/us/pl/114/2/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F2%2Fs6
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/114/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F2
 [/us/stat/129/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F36
-[/us/pl/112/239/s730/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs730%2Fa%2F4
+[/us/pl/112/239/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtVII
 [/us/stat/126/1814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1814
 [/us/usc/t38/s1720F/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1720F%2Fj
-[/us/pl/110/110/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F110%2Fs2
+[/us/pl/110/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F110
 [/us/stat/121/1031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1031
 [/us/usc/t38/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs101
 

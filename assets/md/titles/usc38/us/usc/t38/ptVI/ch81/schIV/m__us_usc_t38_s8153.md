@@ -69,7 +69,7 @@
 
         (2) recommendations for the improvement or more effective administration of such activities.
 
-(Added [Pub. L. 89–785, title II, § 203][/us/pl/89/785/s203], Nov. 7, 1966, [80 Stat. 1374][/us/stat/80/1374], § 5053; amended [Pub. L. 91–496, § 4][/us/pl/91/496/s4], Oct. 22, 1970, [84 Stat. 1092][/us/stat/84/1092]; [Pub. L. 93–82, title III, § 303][/us/pl/93/82/s303], Aug. 2, 1973, [87 Stat. 195][/us/stat/87/195]; [Pub. L. 94–581, title I, § 115(a)(1)][/us/pl/94/581/s115/a/1], title II, §§ 206(c), 210(e)(11), Oct. 21, 1976, [90 Stat. 2852][/us/stat/90/2852], 2859, 2865; [Pub. L. 96–151, title III, § 304][/us/pl/96/151/s304], Dec. 20, 1979, [93 Stat. 1096][/us/stat/93/1096]; [Pub. L. 97–295, § 4(95)(A)][/us/pl/97/295/s4/95/A], Oct. 12, 1982, [96 Stat. 1313][/us/stat/96/1313]; [Pub. L. 98–160, title VII, § 702(20)][/us/pl/98/160/s702/20], Nov. 21, 1983, [97 Stat. 1010][/us/stat/97/1010]; [Pub. L. 99–576, title II, § 231(c)(1)][/us/pl/99/576/s231/c/1], Oct. 28, 1986, [100 Stat. 3264][/us/stat/100/3264]; [Pub. L. 101–366, title II, § 202(b)][/us/pl/101/366/s202/b], Aug. 15, 1990, [104 Stat. 438][/us/stat/104/438]; renumbered § 8153, [Pub. L. 102–40, title IV, § 402(b)(1)][/us/pl/102/40/s402/b/1], May 7, 1991, [105 Stat. 238][/us/stat/105/238]; [Pub. L. 102–54, § 14(f)(9)][/us/pl/102/54/s14/f/9], June 13, 1991, [105 Stat. 288][/us/stat/105/288]; [Pub. L. 102–83, § 4(a)(3)][/us/pl/102/83/s4/a/3], (4), (b)(1), (2)(D), (E), Aug. 6, 1991, [105 Stat. 404][/us/stat/105/404], 405; [Pub. L. 103–210, § 3(c)][/us/pl/103/210/s3/c], Dec. 20, 1993, [107 Stat. 2498][/us/stat/107/2498]; [Pub. L. 104–262, title III, § 301(c)][/us/pl/104/262/s301/c], (d)(1), Oct. 9, 1996, [110 Stat. 3191][/us/stat/110/3191], 3193; [Pub. L. 105–114, title IV, § 402(d)][/us/pl/105/114/s402/d], (e), Nov. 21, 1997, [111 Stat. 2294][/us/stat/111/2294]; [Pub. L. 106–419, title IV, § 404(b)(2)][/us/pl/106/419/s404/b/2], Nov. 1, 2000, [114 Stat. 1866][/us/stat/114/1866]; [Pub. L. 108–170, title IV, § 405(d)][/us/pl/108/170/s405/d], Dec. 6, 2003, [117 Stat. 2063][/us/stat/117/2063]; [Pub. L. 111–350, § 5(j)(8)][/us/pl/111/350/s5/j/8], Jan. 4, 2011, [124 Stat. 3850][/us/stat/124/3850].)
+(Added [Pub. L. 89–785, title II][/us/pl/89/785/tII], § 203, Nov. 7, 1966, [80 Stat. 1374][/us/stat/80/1374], § 5053; amended [Pub. L. 91–496][/us/pl/91/496], § 4, Oct. 22, 1970, [84 Stat. 1092][/us/stat/84/1092]; [Pub. L. 93–82, title III][/us/pl/93/82/tIII], § 303, Aug. 2, 1973, [87 Stat. 195][/us/stat/87/195]; [Pub. L. 94–581, title I][/us/pl/94/581/tI], § 115(a)(1), title II, §§ 206(c), 210(e)(11), Oct. 21, 1976, [90 Stat. 2852][/us/stat/90/2852], 2859, 2865; [Pub. L. 96–151, title III][/us/pl/96/151/tIII], § 304, Dec. 20, 1979, [93 Stat. 1096][/us/stat/93/1096]; [Pub. L. 97–295][/us/pl/97/295], § 4(95)(A), Oct. 12, 1982, [96 Stat. 1313][/us/stat/96/1313]; [Pub. L. 98–160, title VII][/us/pl/98/160/tVII], § 702(20), Nov. 21, 1983, [97 Stat. 1010][/us/stat/97/1010]; [Pub. L. 99–576, title II][/us/pl/99/576/tII], § 231(c)(1), Oct. 28, 1986, [100 Stat. 3264][/us/stat/100/3264]; [Pub. L. 101–366, title II][/us/pl/101/366/tII], § 202(b), Aug. 15, 1990, [104 Stat. 438][/us/stat/104/438]; renumbered § 8153, [Pub. L. 102–40, title IV][/us/pl/102/40/tIV], § 402(b)(1), May 7, 1991, [105 Stat. 238][/us/stat/105/238]; [Pub. L. 102–54][/us/pl/102/54], § 14(f)(9), June 13, 1991, [105 Stat. 288][/us/stat/105/288]; [Pub. L. 102–83][/us/pl/102/83], § 4(a)(3), (4), (b)(1), (2)(D), (E), Aug. 6, 1991, [105 Stat. 404][/us/stat/105/404], 405; [Pub. L. 103–210][/us/pl/103/210], § 3(c), Dec. 20, 1993, [107 Stat. 2498][/us/stat/107/2498]; [Pub. L. 104–262, title III][/us/pl/104/262/tIII], § 301(c), (d)(1), Oct. 9, 1996, [110 Stat. 3191][/us/stat/110/3191], 3193; [Pub. L. 105–114, title IV][/us/pl/105/114/tIV], § 402(d), (e), Nov. 21, 1997, [111 Stat. 2294][/us/stat/111/2294]; [Pub. L. 106–419, title IV][/us/pl/106/419/tIV], § 404(b)(2), Nov. 1, 2000, [114 Stat. 1866][/us/stat/114/1866]; [Pub. L. 108–170, title IV][/us/pl/108/170/tIV], § 405(d), Dec. 6, 2003, [117 Stat. 2063][/us/stat/117/2063]; [Pub. L. 111–350][/us/pl/111/350], § 5(j)(8), Jan. 4, 2011, [124 Stat. 3850][/us/stat/124/3850].)
 
  __References in Text__ 
 
@@ -77,33 +77,33 @@
 
  __Amendments__ 
 
-    2011—Subsec. (a)(3)(B)(ii). [Pub. L. 111–350, § 5(j)(8)(A)][/us/pl/111/350/s5/j/8/A], substituted “[section 1707 of title 41][/us/usc/t41/s1707]” for “section 22 of the Office of Federal Procurement Policy Act ([41 U.S.C. 418b][/us/usc/t41/s418b])”.
+    2011—Subsec. (a)(3)(B)(ii). [Pub. L. 111–350][/us/pl/111/350], § 5(j)(8)(A), substituted “[section 1707 of title 41][/us/usc/t41/s1707]” for “section 22 of the Office of Federal Procurement Policy Act ([41 U.S.C. 418b][/us/usc/t41/s418b])”.
 
-    Subsec. (a)(3)(D). [Pub. L. 111–350, § 5(j)(8)(B)][/us/pl/111/350/s5/j/8/B], substituted “[section 3304(e) of title 41][/us/usc/t41/s3304/e]” for “section 303(f) of the Federal Property and Administrative Services Act of 1949 ([41 U.S.C. 253(f)][/us/usc/t41/s253/f])”.
+    Subsec. (a)(3)(D). [Pub. L. 111–350][/us/pl/111/350], § 5(j)(8)(B), substituted “[section 3304(e) of title 41][/us/usc/t41/s3304/e]” for “section 303(f) of the Federal Property and Administrative Services Act of 1949 ([41 U.S.C. 253(f)][/us/usc/t41/s253/f])”.
 
     2003—Subsec. (g). [Pub. L. 108–170][/us/pl/108/170], in introductory provisions, substituted “not later than February 1 of each year” for “not more than 60 days after the end of each fiscal year” and inserted “during the preceding fiscal year” after “under this section”.
 
-    2000—Subsec. (a)(3)(B)(ii). [Pub. L. 106–419][/us/pl/106/419] amended directory language of [Pub. L. 105–114, § 402(e)][/us/pl/105/114/s402/e]. See 1997 Amendment note below.
+    2000—Subsec. (a)(3)(B)(ii). [Pub. L. 106–419][/us/pl/106/419] amended directory language of [Pub. L. 105–114][/us/pl/105/114], § 402(e). See 1997 Amendment note below.
 
-    1997—Subsec. (a)(3)(A). [Pub. L. 105–114, § 402(d)][/us/pl/105/114/s402/d], inserted “(including any Executive order, circular, or other administrative policy)” after “law or regulation”.
+    1997—Subsec. (a)(3)(A). [Pub. L. 105–114][/us/pl/105/114], § 402(d), inserted “(including any Executive order, circular, or other administrative policy)” after “law or regulation”.
 
-    Subsec. (a)(3)(B)(ii). [Pub. L. 105–114, § 402(e)][/us/pl/105/114/s402/e], as amended by [Pub. L. 106–419][/us/pl/106/419], inserted “, as appropriate,” after “all responsible sources” in third sentence.
+    Subsec. (a)(3)(B)(ii). [Pub. L. 105–114][/us/pl/105/114], § 402(e), as amended by [Pub. L. 106–419][/us/pl/106/419], inserted “, as appropriate,” after “all responsible sources” in third sentence.
 
-    1996—[Pub. L. 104–262, § 301(d)(1)][/us/pl/104/262/s301/d/1], substituted “Sharing of health-care resources” for “Specialized medical resources” in section catchline.
+    1996—[Pub. L. 104–262][/us/pl/104/262], § 301(d)(1), substituted “Sharing of health-care resources” for “Specialized medical resources” in section catchline.
 
-    Subsec. (a)(1). [Pub. L. 104–262, § 301(c)(1)(A)][/us/pl/104/262/s301/c/1/A], substituted “health-care resources” for “certain specialized medical resources”, “other health-care resources” for “other medical resources”, and “of health-care resources between Department health-care facilities and any health-care provider, or other entity or individual” for “of—
+    Subsec. (a)(1). [Pub. L. 104–262][/us/pl/104/262], § 301(c)(1)(A), substituted “health-care resources” for “certain specialized medical resources”, “other health-care resources” for “other medical resources”, and “of health-care resources between Department health-care facilities and any health-care provider, or other entity or individual” for “of—
 
     “(A) specialized medical resources between Department health-care facilities and other health-care facilities (including organ banks, blood banks, or similar institutions), research centers, or medical schools; and
 
     “(B) health-care resources between Department health-care facilities and State home facilities recognized under [section 1742(a) of this title][/us/usc/t38/s1742/a]”.
 
-    Subsec. (a)(2). [Pub. L. 104–262, § 301(c)(1)(B)][/us/pl/104/262/s301/c/1/B], substituted “if such resources are not, or would not be,” for “only if (A) such an agreement will obviate the need for a similar resource to be provided in a Department health care facility, or (B) the Department resources which are the subject of the agreement and which have been justified on the basis of veterans’ care are not”.
+    Subsec. (a)(2). [Pub. L. 104–262][/us/pl/104/262], § 301(c)(1)(B), substituted “if such resources are not, or would not be,” for “only if (A) such an agreement will obviate the need for a similar resource to be provided in a Department health care facility, or (B) the Department resources which are the subject of the agreement and which have been justified on the basis of veterans’ care are not”.
 
-    Subsec. (a)(3). [Pub. L. 104–262, § 301(c)(1)(C)][/us/pl/104/262/s301/c/1/C], added par. (3).
+    Subsec. (a)(3). [Pub. L. 104–262][/us/pl/104/262], § 301(c)(1)(C), added par. (3).
 
-    Subsec. (b). [Pub. L. 104–262, § 301(c)(2)][/us/pl/104/262/s301/c/2], substituted “payment to the Department in accordance with procedures that provide appropriate flexibility to negotiate payment which is in the best interest of the Government.” for “reciprocal reimbursement based on a methodology that provides appropriate flexibility to the heads of the facilities concerned to establish an appropriate reimbursement rate after taking into account local conditions and needs and the actual costs to the providing facility of the resource involved.”
+    Subsec. (b). [Pub. L. 104–262][/us/pl/104/262], § 301(c)(2), substituted “payment to the Department in accordance with procedures that provide appropriate flexibility to negotiate payment which is in the best interest of the Government.” for “reciprocal reimbursement based on a methodology that provides appropriate flexibility to the heads of the facilities concerned to establish an appropriate reimbursement rate after taking into account local conditions and needs and the actual costs to the providing facility of the resource involved.”
 
-    Subsec. (d). [Pub. L. 104–262, § 301(c)(3)][/us/pl/104/262/s301/c/3], substituted “preclude such payment to such facility for such care or services” for “preclude such payment, in accordance with—
+    Subsec. (d). [Pub. L. 104–262][/us/pl/104/262], § 301(c)(3), substituted “preclude such payment to such facility for such care or services” for “preclude such payment, in accordance with—
 
     “(1) rates prescribed by the Secretary of Health and Human Services, after consultation with the Secretary, and
 
@@ -111,7 +111,7 @@
 
     to such facility therefor”.
 
-    Subsecs. (e) to (g). [Pub. L. 104–262, § 301(c)(4)][/us/pl/104/262/s301/c/4], added subsecs. (e) and (f) and redesignated former subsec. (e) as (g).
+    Subsecs. (e) to (g). [Pub. L. 104–262][/us/pl/104/262], § 301(c)(4), added subsecs. (e) and (f) and redesignated former subsec. (e) as (g).
 
     1993—Subsec. (a). [Pub. L. 103–210][/us/pl/103/210] designated existing provisions as par. (1) and substituted “other form of agreement for the mutual use, or exchange of use, of—” along with subpars. (A) and (B) and par. (2), for “other form of agreement, as set forth in clauses (1) and (2) below, between Department health-care facilities and other health-care facilities (including organ banks, blood banks, or similar institutions), research centers, or medical schools:
 
@@ -121,27 +121,27 @@
 
     1991—[Pub. L. 102–40][/us/pl/102/40] renumbered [section 5053 of this title][/us/usc/t38/s5053] as this section.
 
-    Subsec. (a). [Pub. L. 102–83, § 4(b)(1)][/us/pl/102/83/s4/b/1], (2)(E), substituted “Secretary” for “Administrator” in two places in introductory provisions.
+    Subsec. (a). [Pub. L. 102–83][/us/pl/102/83], § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in two places in introductory provisions.
 
-    [Pub. L. 102–83, § 4(a)(3)][/us/pl/102/83/s4/a/3], (4), substituted “Department” for “Veterans’ Administration” wherever appearing.
+    [Pub. L. 102–83][/us/pl/102/83], § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration” wherever appearing.
 
-    Subsec. (b). [Pub. L. 102–83, § 4(a)(3)][/us/pl/102/83/s4/a/3], (4), substituted “Department” for “Veterans’ Administration”.
+    Subsec. (b). [Pub. L. 102–83][/us/pl/102/83], § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration”.
 
-    Subsec. (c). [Pub. L. 102–83, § 4(a)(3)][/us/pl/102/83/s4/a/3], (4), substituted “Department” for “Veterans’ Administration” in two places.
+    Subsec. (c). [Pub. L. 102–83][/us/pl/102/83], § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration” in two places.
 
     [Pub. L. 102–54][/us/pl/102/54] amended subsec. (c) as in effect immediately before the enactment of [Pub. L. 102–40][/us/pl/102/40] by substituting “under this section” for “hereunder”.
 
-    Subsec. (d). [Pub. L. 102–83, § 4(a)(3)][/us/pl/102/83/s4/a/3], (4), substituted “Department” for “Veterans’ Administration” in introductory provisions.
+    Subsec. (d). [Pub. L. 102–83][/us/pl/102/83], § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration” in introductory provisions.
 
-    Subsec. (d)(1). [Pub. L. 102–83, § 4(b)(1)][/us/pl/102/83/s4/b/1], (2)(E), substituted “Secretary” for “Administrator”.
+    Subsec. (d)(1). [Pub. L. 102–83][/us/pl/102/83], § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
-    Subsec. (d)(2). [Pub. L. 102–83, § 4(b)(2)(D)][/us/pl/102/83/s4/b/2/D], substituted “the two Secretaries” for “the Secretary and the Administrator”.
+    Subsec. (d)(2). [Pub. L. 102–83][/us/pl/102/83], § 4(b)(2)(D), substituted “the two Secretaries” for “the Secretary and the Administrator”.
 
-    Subsec. (e). [Pub. L. 102–83, § 4(b)(1)][/us/pl/102/83/s4/b/1], (2)(E), substituted “Secretary” for “Administrator” in introductory provisions.
+    Subsec. (e). [Pub. L. 102–83][/us/pl/102/83], § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in introductory provisions.
 
-    1990—Subsec. (a). [Pub. L. 101–366, § 202(b)(1)][/us/pl/101/366/s202/b/1], substituted “health-care facilities and other health-care facilities (including organ banks, blood banks, or similar institutions), research centers, or medical schools” for “hospitals and other hospitals (or other medical installations having hospital facilities or organ banks, blood banks, or similar institutions) or medical schools or clinics in the medical community” and struck out at end “The Administrator may determine the geographical limitations of a medical community as used in this section.”
+    1990—Subsec. (a). [Pub. L. 101–366][/us/pl/101/366], § 202(b)(1), substituted “health-care facilities and other health-care facilities (including organ banks, blood banks, or similar institutions), research centers, or medical schools” for “hospitals and other hospitals (or other medical installations having hospital facilities or organ banks, blood banks, or similar institutions) or medical schools or clinics in the medical community” and struck out at end “The Administrator may determine the geographical limitations of a medical community as used in this section.”
 
-    Subsec. (b). [Pub. L. 101–366, § 202(b)(2)][/us/pl/101/366/s202/b/2], substituted in first sentence “a methodology that provides appropriate flexibility to the heads of the facilities concerned to establish an appropriate reimbursement rate after taking into account local conditions and needs and the actual costs to the providing facility of the resource involved.” for “a charge which covers the full cost of services rendered, supplies used, and including normal depreciation and amortization costs of equipment.” and inserted before period at end of second sentence “and to funds that have been allotted to the facility that furnished the resource involved”.
+    Subsec. (b). [Pub. L. 101–366][/us/pl/101/366], § 202(b)(2), substituted in first sentence “a methodology that provides appropriate flexibility to the heads of the facilities concerned to establish an appropriate reimbursement rate after taking into account local conditions and needs and the actual costs to the providing facility of the resource involved.” for “a charge which covers the full cost of services rendered, supplies used, and including normal depreciation and amortization costs of equipment.” and inserted before period at end of second sentence “and to funds that have been allotted to the facility that furnished the resource involved”.
 
     1986—Subsec. (e). [Pub. L. 99–576][/us/pl/99/576] added subsec. (e).
 
@@ -153,9 +153,9 @@
 
     1976—Subsec. (a). [Pub. L. 94–581][/us/pl/94/581], §§ 206(c), 210(e)(11), substituted “when the Administrator determines” for “when he determines” and “clauses” for “paragraphs” in provisions preceding cl. (1), and inserted “health care” after “Veterans’ Administration” in cls. (1) and (2).
 
-    Subsec. (c). [Pub. L. 94–581, § 206(c)(2)][/us/pl/94/581/s206/c/2], inserted “health care” after “Veterans’ Administration” in two places.
+    Subsec. (c). [Pub. L. 94–581][/us/pl/94/581], § 206(c)(2), inserted “health care” after “Veterans’ Administration” in two places.
 
-    Subsec. (d). [Pub. L. 94–581, § 115(a)(1)][/us/pl/94/581/s115/a/1], inserted subsec. (d).
+    Subsec. (d). [Pub. L. 94–581][/us/pl/94/581], § 115(a)(1), inserted subsec. (d).
 
     1973—Subsec. (a). [Pub. L. 93–82][/us/pl/93/82] struck out “or medical schools” from parenthetical and inserted “or medical schools or clinics” after parenthetical.
 
@@ -163,7 +163,7 @@
 
  __Effective Date of 2000 Amendment__ 
 
-    [Pub. L. 106–419, title IV, § 404(b)(2)][/us/pl/106/419/s404/b/2], Nov. 1, 2000, [114 Stat. 1866][/us/stat/114/1866], provided that the amendment made by section 404(b)(2) is effective Nov. 21, 1997, and as if included in [Pub. L. 105–114][/us/pl/105/114] as originally enacted.
+    [Pub. L. 106–419, title IV][/us/pl/106/419/tIV], § 404(b)(2), Nov. 1, 2000, [114 Stat. 1866][/us/stat/114/1866], provided that the amendment made by section 404(b)(2) is effective Nov. 21, 1997, and as if included in [Pub. L. 105–114][/us/pl/105/114] as originally enacted.
 
  __Effective Date of 1976 Amendment__ 
 
@@ -175,7 +175,7 @@
 
  __Report to Congress on Rates and Procedures Covering Payment of Benefits for Care or Services Provided in Veterans’ Administration Health Care Facilities to Individuals Not Eligible for Veterans’ Hospital, Nursing Home, Domiciliary, or Medical Care__ 
 
-    [Pub. L. 94–581, title I, § 115(c)][/us/pl/94/581/s115/c], Oct. 21, 1976, [90 Stat. 2853][/us/stat/90/2853], provided that at such time as the rates and procedures described in subsec. (d) of this section were prescribed, the Secretary of Health, Education, and Welfare \[now Secretary of Health and Human Services\], in consultation with the Administrator of Veterans’ Affairs, was to submit to the Committee on Ways and Means and the Committee on Veterans’ Affairs of the House of Representatives and to the Committee on Finance and the Committee on Veterans’ Affairs of the Senate a full report describing such rates and procedures.
+    [Pub. L. 94–581, title I][/us/pl/94/581/tI], § 115(c), Oct. 21, 1976, [90 Stat. 2853][/us/stat/90/2853], provided that at such time as the rates and procedures described in subsec. (d) of this section were prescribed, the Secretary of Health, Education, and Welfare \[now Secretary of Health and Human Services\], in consultation with the Administrator of Veterans’ Affairs, was to submit to the Committee on Ways and Means and the Committee on Veterans’ Affairs of the House of Representatives and to the Committee on Finance and the Committee on Veterans’ Affairs of the Senate a full report describing such rates and procedures.
 
 ----------
 
@@ -188,91 +188,91 @@
 [/us/usc/t41/s1707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs1707
 [/us/usc/t41/s3304/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs3304%2Fe
 [/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
-[/us/pl/89/785/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F785%2Fs203
+[/us/pl/89/785/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F785%2FtII
 [/us/stat/80/1374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1374
-[/us/pl/91/496/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F496%2Fs4
+[/us/pl/91/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F496
 [/us/stat/84/1092]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1092
-[/us/pl/93/82/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F82%2Fs303
+[/us/pl/93/82/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F82%2FtIII
 [/us/stat/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F195
-[/us/pl/94/581/s115/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F581%2Fs115%2Fa%2F1
+[/us/pl/94/581/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F581%2FtI
 [/us/stat/90/2852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2852
-[/us/pl/96/151/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F151%2Fs304
+[/us/pl/96/151/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F151%2FtIII
 [/us/stat/93/1096]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1096
-[/us/pl/97/295/s4/95/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295%2Fs4%2F95%2FA
+[/us/pl/97/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295
 [/us/stat/96/1313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1313
-[/us/pl/98/160/s702/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F160%2Fs702%2F20
+[/us/pl/98/160/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F160%2FtVII
 [/us/stat/97/1010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1010
-[/us/pl/99/576/s231/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2Fs231%2Fc%2F1
+[/us/pl/99/576/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2FtII
 [/us/stat/100/3264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3264
-[/us/pl/101/366/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F366%2Fs202%2Fb
+[/us/pl/101/366/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F366%2FtII
 [/us/stat/104/438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F438
-[/us/pl/102/40/s402/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs402%2Fb%2F1
+[/us/pl/102/40/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2FtIV
 [/us/stat/105/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F238
-[/us/pl/102/54/s14/f/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54%2Fs14%2Ff%2F9
+[/us/pl/102/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54
 [/us/stat/105/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F288
-[/us/pl/102/83/s4/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fa%2F3
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F404
-[/us/pl/103/210/s3/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F210%2Fs3%2Fc
+[/us/pl/103/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F210
 [/us/stat/107/2498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2498
-[/us/pl/104/262/s301/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F262%2Fs301%2Fc
+[/us/pl/104/262/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F262%2FtIII
 [/us/stat/110/3191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3191
-[/us/pl/105/114/s402/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F114%2Fs402%2Fd
+[/us/pl/105/114/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F114%2FtIV
 [/us/stat/111/2294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2294
-[/us/pl/106/419/s404/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419%2Fs404%2Fb%2F2
+[/us/pl/106/419/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419%2FtIV
 [/us/stat/114/1866]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1866
-[/us/pl/108/170/s405/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F170%2Fs405%2Fd
+[/us/pl/108/170/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F170%2FtIV
 [/us/stat/117/2063]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2063
-[/us/pl/111/350/s5/j/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs5%2Fj%2F8
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3850]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3850
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
 [/us/usc/t42/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1305
-[/us/pl/111/350/s5/j/8/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs5%2Fj%2F8%2FA
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/usc/t41/s1707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs1707
 [/us/usc/t41/s418b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs418b
-[/us/pl/111/350/s5/j/8/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs5%2Fj%2F8%2FB
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/usc/t41/s3304/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs3304%2Fe
 [/us/usc/t41/s253/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs253%2Ff
 [/us/pl/108/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F170
 [/us/pl/106/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419
-[/us/pl/105/114/s402/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F114%2Fs402%2Fe
-[/us/pl/105/114/s402/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F114%2Fs402%2Fd
-[/us/pl/105/114/s402/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F114%2Fs402%2Fe
+[/us/pl/105/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F114
+[/us/pl/105/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F114
+[/us/pl/105/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F114
 [/us/pl/106/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419
-[/us/pl/104/262/s301/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F262%2Fs301%2Fd%2F1
-[/us/pl/104/262/s301/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F262%2Fs301%2Fc%2F1%2FA
+[/us/pl/104/262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F262
+[/us/pl/104/262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F262
 [/us/usc/t38/s1742/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1742%2Fa
-[/us/pl/104/262/s301/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F262%2Fs301%2Fc%2F1%2FB
-[/us/pl/104/262/s301/c/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F262%2Fs301%2Fc%2F1%2FC
-[/us/pl/104/262/s301/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F262%2Fs301%2Fc%2F2
-[/us/pl/104/262/s301/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F262%2Fs301%2Fc%2F3
-[/us/pl/104/262/s301/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F262%2Fs301%2Fc%2F4
+[/us/pl/104/262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F262
+[/us/pl/104/262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F262
+[/us/pl/104/262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F262
+[/us/pl/104/262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F262
+[/us/pl/104/262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F262
 [/us/pl/103/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F210
 [/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40
 [/us/usc/t38/s5053]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs5053
-[/us/pl/102/83/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fb%2F1
-[/us/pl/102/83/s4/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fa%2F3
-[/us/pl/102/83/s4/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fa%2F3
-[/us/pl/102/83/s4/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fa%2F3
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/pl/102/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54
 [/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40
-[/us/pl/102/83/s4/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fa%2F3
-[/us/pl/102/83/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fb%2F1
-[/us/pl/102/83/s4/b/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fb%2F2%2FD
-[/us/pl/102/83/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fb%2F1
-[/us/pl/101/366/s202/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F366%2Fs202%2Fb%2F1
-[/us/pl/101/366/s202/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F366%2Fs202%2Fb%2F2
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/101/366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F366
+[/us/pl/101/366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F366
 [/us/pl/99/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576
 [/us/pl/98/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F160
 [/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/pl/97/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295
 [/us/pl/96/151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F151
 [/us/pl/94/581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F581
-[/us/pl/94/581/s206/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F581%2Fs206%2Fc%2F2
-[/us/pl/94/581/s115/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F581%2Fs115%2Fa%2F1
+[/us/pl/94/581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F581
+[/us/pl/94/581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F581
 [/us/pl/93/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F82
 [/us/pl/91/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F496
-[/us/pl/106/419/s404/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419%2Fs404%2Fb%2F2
+[/us/pl/106/419/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419%2FtIV
 [/us/stat/114/1866]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1866
 [/us/pl/105/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F114
 [/us/pl/94/581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F581
@@ -281,7 +281,7 @@
 [/us/pl/93/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F82
 [/us/pl/93/82/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F82%2Fs501
 [/us/usc/t38/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1701
-[/us/pl/94/581/s115/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F581%2Fs115%2Fc
+[/us/pl/94/581/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F581%2FtI
 [/us/stat/90/2853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2853
 
 

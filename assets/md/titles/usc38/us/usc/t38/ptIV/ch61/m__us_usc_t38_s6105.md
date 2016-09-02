@@ -31,7 +31,7 @@
 
     (c) The Secretary of Defense or the Secretary of Homeland Security, as appropriate, shall notify the Secretary in each case in which an individual is convicted of an offense listed in paragraph (1) of subsection (b). The Attorney General shall notify the Secretary in each case in which an individual is indicted or convicted of an offense listed in paragraph (2), (3), or (4) of subsection (b).
 
-(Added [Pub. L. 86–222, § 3(a)][/us/pl/86/222/s3/a], Sept. 1, 1959, [73 Stat. 453][/us/stat/73/453], § 3505; amended [Pub. L. 92–128, § 2(c)][/us/pl/92/128/s2/c], Sept. 25, 1971, [85 Stat. 348][/us/stat/85/348]; [Pub. L. 93–43, § 8][/us/pl/93/43/s8], June 18, 1973, [87 Stat. 88][/us/stat/87/88]; [Pub. L. 97–295, § 4(79)][/us/pl/97/295/s4/79], Oct. 12, 1982, [96 Stat. 1311][/us/stat/96/1311]; renumbered § 6105, [Pub. L. 102–40, title IV, § 402(b)(1)][/us/pl/102/40/s402/b/1], May 7, 1991, [105 Stat. 238][/us/stat/105/238]; [Pub. L. 102–54, § 14(d)(9)][/us/pl/102/54/s14/d/9], June 13, 1991, [105 Stat. 287][/us/stat/105/287]; [Pub. L. 102–83, § 4(a)(1)][/us/pl/102/83/s4/a/1], (2)(A)(xiv), (b)(1), (2)(E), Aug. 6, 1991, [105 Stat. 403–405][/us/stat/105/403-405]; [Pub. L. 103–446, title XII, § 1201(e)(19)][/us/pl/103/446/s1201/e/19], Nov. 2, 1994, [108 Stat. 4686][/us/stat/108/4686]; [Pub. L. 107–296, title XVII, § 1704(d)][/us/pl/107/296/s1704/d], Nov. 25, 2002, [116 Stat. 2315][/us/stat/116/2315]; [Pub. L. 108–183, title VII, § 705(a)][/us/pl/108/183/s705/a], Dec. 16, 2003, [117 Stat. 2672][/us/stat/117/2672].)
+(Added [Pub. L. 86–222][/us/pl/86/222], § 3(a), Sept. 1, 1959, [73 Stat. 453][/us/stat/73/453], § 3505; amended [Pub. L. 92–128][/us/pl/92/128], § 2(c), Sept. 25, 1971, [85 Stat. 348][/us/stat/85/348]; [Pub. L. 93–43][/us/pl/93/43], § 8, June 18, 1973, [87 Stat. 88][/us/stat/87/88]; [Pub. L. 97–295][/us/pl/97/295], § 4(79), Oct. 12, 1982, [96 Stat. 1311][/us/stat/96/1311]; renumbered § 6105, [Pub. L. 102–40, title IV][/us/pl/102/40/tIV], § 402(b)(1), May 7, 1991, [105 Stat. 238][/us/stat/105/238]; [Pub. L. 102–54][/us/pl/102/54], § 14(d)(9), June 13, 1991, [105 Stat. 287][/us/stat/105/287]; [Pub. L. 102–83][/us/pl/102/83], § 4(a)(1), (2)(A)(xiv), (b)(1), (2)(E), Aug. 6, 1991, [105 Stat. 403–405][/us/stat/105/403-405]; [Pub. L. 103–446, title XII][/us/pl/103/446/tXII], § 1201(e)(19), Nov. 2, 1994, [108 Stat. 4686][/us/stat/108/4686]; [Pub. L. 107–296, title XVII][/us/pl/107/296/tXVII], § 1704(d), Nov. 25, 2002, [116 Stat. 2315][/us/stat/116/2315]; [Pub. L. 108–183, title VII][/us/pl/108/183/tVII], § 705(a), Dec. 16, 2003, [117 Stat. 2672][/us/stat/117/2672].)
 
  __Amendments__ 
 
@@ -43,17 +43,17 @@
 
     1991—[Pub. L. 102–40][/us/pl/102/40] renumbered [section 3505 of this title][/us/usc/t38/s3505] as this section.
 
-    Subsec. (a). [Pub. L. 102–83, § 4(a)(2)(A)(xiv)][/us/pl/102/83/s4/a/2/A/xiv], substituted “Secretary” for “Veterans’ Administration” in second sentence.
+    Subsec. (a). [Pub. L. 102–83][/us/pl/102/83], § 4(a)(2)(A)(xiv), substituted “Secretary” for “Veterans’ Administration” in second sentence.
 
-    [Pub. L. 102–83, § 4(a)(1)][/us/pl/102/83/s4/a/1], substituted “administered by the Secretary” for “administered by the Veterans’ Administration” in first sentence.
+    [Pub. L. 102–83][/us/pl/102/83], § 4(a)(1), substituted “administered by the Secretary” for “administered by the Veterans’ Administration” in first sentence.
 
-    Subsec. (c). [Pub. L. 102–83, § 4(b)(1)][/us/pl/102/83/s4/b/1], (2)(E), substituted “Secretary” for “Administrator” in two places.
+    Subsec. (c). [Pub. L. 102–83][/us/pl/102/83], § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in two places.
 
     [Pub. L. 102–54][/us/pl/102/54] amended subsec. (c) as in effect immediately before the enactment of [Pub. L. 102–40][/us/pl/102/40] by substituting “clauses (2),” for “clauses (1),”, “Secretary of Transportation, as” for “Secretary of the Treasury, as may be”, and “clause (1) of that subsection” for “clause (2) of subsection (b) of this section”.
 
-    1982—Subsec. (a). [Pub. L. 97–295, § 4(79)(A)][/us/pl/97/295/s4/79/A], substituted “September 1, 1959,” for “the date of enactment of this section”.
+    1982—Subsec. (a). [Pub. L. 97–295][/us/pl/97/295], § 4(79)(A), substituted “September 1, 1959,” for “the date of enactment of this section”.
 
-    Subsec. (b). [Pub. L. 97–295, § 4(79)(B)][/us/pl/97/295/s4/79/B], substituted pars. (1), (2), and (3) for cls. (2), (1), and (3), respectively, and inserted citations to the United States Code.
+    Subsec. (b). [Pub. L. 97–295][/us/pl/97/295], § 4(79)(B), substituted pars. (1), (2), and (3) for cls. (2), (1), and (3), respectively, and inserted citations to the United States Code.
 
     1973—Subsec. (a). [Pub. L. 93–43][/us/pl/93/43] inserted “(including the right to burial in a national cemetery)” after “gratuitous benefits” in first sentence.
 
@@ -61,7 +61,7 @@
 
  __Effective Date of 2003 Amendment__ 
 
-[Pub. L. 108–183, title VII, § 705(b)][/us/pl/108/183/s705/b], Dec. 16, 2003, [117 Stat. 2672][/us/stat/117/2672], provided that: 
+[Pub. L. 108–183, title VII][/us/pl/108/183/tVII], § 705(b), Dec. 16, 2003, [117 Stat. 2672][/us/stat/117/2672], provided that: 
 
 > “The amendments made by subsection (a) \[amending this section\] shall apply to claims filed after the date of the enactment of this Act \[Dec. 16, 2003\].”
 
@@ -82,41 +82,41 @@
 
 [/us/usc/t42/s2272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2272
 [/us/usc/t50/s783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs783
-[/us/pl/86/222/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F222%2Fs3%2Fa
+[/us/pl/86/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F222
 [/us/stat/73/453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F453
-[/us/pl/92/128/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F128%2Fs2%2Fc
+[/us/pl/92/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F128
 [/us/stat/85/348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F348
-[/us/pl/93/43/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F43%2Fs8
+[/us/pl/93/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F43
 [/us/stat/87/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F88
-[/us/pl/97/295/s4/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295%2Fs4%2F79
+[/us/pl/97/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295
 [/us/stat/96/1311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1311
-[/us/pl/102/40/s402/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs402%2Fb%2F1
+[/us/pl/102/40/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2FtIV
 [/us/stat/105/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F238
-[/us/pl/102/54/s14/d/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54%2Fs14%2Fd%2F9
+[/us/pl/102/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54
 [/us/stat/105/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F287
-[/us/pl/102/83/s4/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fa%2F1
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/403-405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F403-405
-[/us/pl/103/446/s1201/e/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2Fs1201%2Fe%2F19
+[/us/pl/103/446/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2FtXII
 [/us/stat/108/4686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4686
-[/us/pl/107/296/s1704/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1704%2Fd
+[/us/pl/107/296/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXVII
 [/us/stat/116/2315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2315
-[/us/pl/108/183/s705/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F183%2Fs705%2Fa
+[/us/pl/108/183/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F183%2FtVII
 [/us/stat/117/2672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2672
 [/us/pl/108/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F183
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/pl/103/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446
 [/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40
 [/us/usc/t38/s3505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3505
-[/us/pl/102/83/s4/a/2/A/xiv]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fa%2F2%2FA%2Fxiv
-[/us/pl/102/83/s4/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fa%2F1
-[/us/pl/102/83/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fb%2F1
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/pl/102/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54
 [/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40
-[/us/pl/97/295/s4/79/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295%2Fs4%2F79%2FA
-[/us/pl/97/295/s4/79/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295%2Fs4%2F79%2FB
+[/us/pl/97/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295
+[/us/pl/97/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295
 [/us/pl/93/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F43
 [/us/pl/92/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F128
-[/us/pl/108/183/s705/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F183%2Fs705%2Fb
+[/us/pl/108/183/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F183%2FtVII
 [/us/stat/117/2672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2672
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/pl/107/296/s1704/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1704%2Fg

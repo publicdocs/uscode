@@ -307,37 +307,37 @@ SUBCHAPTER IV—ARMY, NAVY, AIR FORCE, AND COAST GUARD MEDAL OF HONOR ROLL  </td
 
  __Amendments__ 
 
-    2013—[Pub. L. 113–66, div. A, title V, § 563(c)(2)][/us/pl/113/66/s563/c/2], Dec. 26, 2013, [127 Stat. 768][/us/stat/127/768], struck out items 1560 “Medal of Honor Roll; persons eligible” and 1561 “Certificate”.
+    2013—[Pub. L. 113–66, div. A, title V][/us/pl/113/66/dA/tV], § 563(c)(2), Dec. 26, 2013, [127 Stat. 768][/us/stat/127/768], struck out items 1560 “Medal of Honor Roll; persons eligible” and 1561 “Certificate”.
 
-    2001—[Pub. L. 107–103, title II, § 207(a)(2)][/us/pl/107/103/s207/a/2], Dec. 27, 2001, [115 Stat. 991][/us/stat/115/991], added item 1513.
+    2001—[Pub. L. 107–103, title II][/us/pl/107/103/tII], § 207(a)(2), Dec. 27, 2001, [115 Stat. 991][/us/stat/115/991], added item 1513.
 
-    1992—[Pub. L. 102–568, title IV][/us/pl/102/568], §§ 402(c)(2)(B), 403(b)(2), Oct. 29, 1992, [106 Stat. 4337][/us/stat/106/4337], 4338, substituted “Vocational training for certain pension recipients” for “Temporary program of vocational training for certain new pension recipients” in item 1524 and “Protection” for “Temporary protection” in item 1525.
+    1992—[Pub. L. 102–568, title IV][/us/pl/102/568/tIV], §§ 402(c)(2)(B), 403(b)(2), Oct. 29, 1992, [106 Stat. 4337][/us/stat/106/4337], 4338, substituted “Vocational training for certain pension recipients” for “Temporary program of vocational training for certain new pension recipients” in item 1524 and “Protection” for “Temporary protection” in item 1525.
 
-    1991—[Pub. L. 102–83, § 5(b)(1)][/us/pl/102/83/s5/b/1], Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406], renumbered items 501 to 562 as 1501 to 1562, respectively.
+    1991—[Pub. L. 102–83][/us/pl/102/83], § 5(b)(1), Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406], renumbered items 501 to 562 as 1501 to 1562, respectively.
 
-    [Pub. L. 102–25, title III, § 333(c)(2)][/us/pl/102/25/s333/c/2], Apr. 6, 1991, [105 Stat. 88][/us/stat/105/88], substituted “Other Periods of War” for “Mexican Border Period, World War I, World War II, Korean Conflict, and the Vietnam Era” as subheading preceding item 541.
+    [Pub. L. 102–25, title III][/us/pl/102/25/tIII], § 333(c)(2), Apr. 6, 1991, [105 Stat. 88][/us/stat/105/88], substituted “Other Periods of War” for “Mexican Border Period, World War I, World War II, Korean Conflict, and the Vietnam Era” as subheading preceding item 541.
 
-    1986—[Pub. L. 99–576, title VII, § 703(b)(3)][/us/pl/99/576/s703/b/3], Oct. 28, 1986, [100 Stat. 3303][/us/stat/100/3303], inserted “program of” after “Temporary” in item 524.
+    1986—[Pub. L. 99–576, title VII][/us/pl/99/576/tVII], § 703(b)(3), Oct. 28, 1986, [100 Stat. 3303][/us/stat/100/3303], inserted “program of” after “Temporary” in item 524.
 
-    1984—[Pub. L. 98–543, title III, § 301(a)(2)][/us/pl/98/543/s301/a/2], Oct. 24, 1984, [98 Stat. 2746][/us/stat/98/2746], added items 524 and 525.
+    1984—[Pub. L. 98–543, title III][/us/pl/98/543/tIII], § 301(a)(2), Oct. 24, 1984, [98 Stat. 2746][/us/stat/98/2746], added items 524 and 525.
 
-    1982—[Pub. L. 97–295, § 4(14)][/us/pl/97/295/s4/14], Oct. 12, 1982, [96 Stat. 1305][/us/stat/96/1305], substituted “Honor Roll” for “honor roll” in item 560.
+    1982—[Pub. L. 97–295][/us/pl/97/295], § 4(14), Oct. 12, 1982, [96 Stat. 1305][/us/stat/96/1305], substituted “Honor Roll” for “honor roll” in item 560.
 
-    1978—[Pub. L. 95–588, title I][/us/pl/95/588], §§ 104(b), 106(b), 109(b), 110(b), 112(b), Nov. 4, 1978, [92 Stat. 2499][/us/stat/92/2499], 2502, 2504, 2505, added item 508, substituted “Veterans of a period of war” for “Veterans of the Mexican border period, World War I, World War II, the Korean conflict, or the Vietnam era” in item 521, substituted “Surviving spouses of veterans of a period of war” for “Surviving spouses of Mexican border period, World War I, World War II, Korean conflict, or Vietnam era veterans” in item 541, substituted “Children of veterans of a period of war” for “Children of Mexican border period, World War I, World War II, Korean conflict, or Vietnam era veterans” in item 542, struck out heading “Surviving Spouses of Veterans of All Periods of War” following item 543, and struck out item 544.
+    1978—[Pub. L. 95–588, title I][/us/pl/95/588/tI], §§ 104(b), 106(b), 109(b), 110(b), 112(b), Nov. 4, 1978, [92 Stat. 2499][/us/stat/92/2499], 2502, 2504, 2505, added item 508, substituted “Veterans of a period of war” for “Veterans of the Mexican border period, World War I, World War II, the Korean conflict, or the Vietnam era” in item 521, substituted “Surviving spouses of veterans of a period of war” for “Surviving spouses of Mexican border period, World War I, World War II, Korean conflict, or Vietnam era veterans” in item 541, substituted “Children of veterans of a period of war” for “Children of Mexican border period, World War I, World War II, Korean conflict, or Vietnam era veterans” in item 542, struck out heading “Surviving Spouses of Veterans of All Periods of War” following item 543, and struck out item 544.
 
-    1975—[Pub. L. 94–169, title I][/us/pl/94/169], §§ 101(2)(J), 106(24), (30), (38), Dec. 23, 1975, [89 Stat. 1014][/us/stat/89/1014], 1018, 1019, struck out items 510 relating to confederate forces veterans, and 531 relating to widows of Mexican War veterans, substituted “Surviving Spouses” for “Widows” in heading of Subchapter III and subheading preceding item 544, and substituted “Surviving spouses” for “Widows” in items 532, 534, 536 and 541.
+    1975—[Pub. L. 94–169, title I][/us/pl/94/169/tI], §§ 101(2)(J), 106(24), (30), (38), Dec. 23, 1975, [89 Stat. 1014][/us/stat/89/1014], 1018, 1019, struck out items 510 relating to confederate forces veterans, and 531 relating to widows of Mexican War veterans, substituted “Surviving Spouses” for “Widows” in heading of Subchapter III and subheading preceding item 544, and substituted “Surviving spouses” for “Widows” in items 532, 534, 536 and 541.
 
-    1970—[Pub. L. 91–588, § 9(h)][/us/pl/91/588/s9/h], Dec. 24, 1970, [84 Stat. 1585][/us/stat/84/1585], inserted references to the Mexican border period in subheading preceding item 541 and in items 521, 541, and 542, respectively.
+    1970—[Pub. L. 91–588][/us/pl/91/588], § 9(h), Dec. 24, 1970, [84 Stat. 1585][/us/stat/84/1585], inserted references to the Mexican border period in subheading preceding item 541 and in items 521, 541, and 542, respectively.
 
-    1967—[Pub. L. 90–77, title I, § 108(b)][/us/pl/90/77/s108/b], title II, § 202(i), Aug. 31, 1967, [81 Stat. 180][/us/stat/81/180], 183, added item 544 and included references to Vietnam era in subheading preceding item 541 and in items 521, 541, and 542, respectively.
+    1967—[Pub. L. 90–77, title I][/us/pl/90/77/tI], § 108(b), title II, § 202(i), Aug. 31, 1967, [81 Stat. 180][/us/stat/81/180], 183, added item 544 and included references to Vietnam era in subheading preceding item 541 and in items 521, 541, and 542, respectively.
 
-    1966—[Pub. L. 89–467, § 1(b)][/us/pl/89/467/s1/b], June 22, 1966, [80 Stat. 218][/us/stat/80/218], added item 507.
+    1966—[Pub. L. 89–467][/us/pl/89/467], § 1(b), June 22, 1966, [80 Stat. 218][/us/stat/80/218], added item 507.
 
-    1963—[Pub. L. 88–77, § 5(3)][/us/pl/88/77/s5/3], July 25, 1963, [77 Stat. 96][/us/stat/77/96], substituted “ARMY, NAVY, AIR FORCE, AND COAST GUARD” for “ARMY, NAVY, AND AIR FORCE”, in heading of Subchapter IV.
+    1963—[Pub. L. 88–77][/us/pl/88/77], § 5(3), July 25, 1963, [77 Stat. 96][/us/stat/77/96], substituted “ARMY, NAVY, AIR FORCE, AND COAST GUARD” for “ARMY, NAVY, AND AIR FORCE”, in heading of Subchapter IV.
 
-    1961—[Pub. L. 87–138, § 2(b)][/us/pl/87/138/s2/b], Aug. 14, 1961, [75 Stat. 339][/us/stat/75/339], struck out “entitling holder to pension” after “Certificate” in item 561.
+    1961—[Pub. L. 87–138][/us/pl/87/138], § 2(b), Aug. 14, 1961, [75 Stat. 339][/us/stat/75/339], struck out “entitling holder to pension” after “Certificate” in item 561.
 
-    1959—[Pub. L. 86–211, § 7(a)][/us/pl/86/211/s7/a], Aug. 29, 1959, [73 Stat. 436][/us/stat/73/436], substituted “Determinations with respect to annual income” for “Items not considered in determining income” in item 503, “Net worth limitation” for “Income limitations” in item 522, and “Net worth limitation” for “Widows of World War II or Korean conflict veterans” in item 543, included widows of World War II and Korean conflict veterans in item 541 and children of World War II and Korean conflict veterans in item 542, added item 506, and struck out items 544 and 545 which related to children of World War II or Korean conflict veterans and to income limitations.
+    1959—[Pub. L. 86–211][/us/pl/86/211], § 7(a), Aug. 29, 1959, [73 Stat. 436][/us/stat/73/436], substituted “Determinations with respect to annual income” for “Items not considered in determining income” in item 503, “Net worth limitation” for “Income limitations” in item 522, and “Net worth limitation” for “Widows of World War II or Korean conflict veterans” in item 543, included widows of World War II and Korean conflict veterans in item 541 and children of World War II and Korean conflict veterans in item 542, added item 506, and struck out items 544 and 545 which related to children of World War II or Korean conflict veterans and to income limitations.
 
 ----------
 
@@ -346,37 +346,37 @@ SUBCHAPTER IV—ARMY, NAVY, AIR FORCE, AND COAST GUARD MEDAL OF HONOR ROLL  </td
 ----------
 ----------
 
-[/us/pl/113/66/s563/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs563%2Fc%2F2
+[/us/pl/113/66/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtV
 [/us/stat/127/768]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F768
-[/us/pl/107/103/s207/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F103%2Fs207%2Fa%2F2
+[/us/pl/107/103/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F103%2FtII
 [/us/stat/115/991]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F991
-[/us/pl/102/568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F568
+[/us/pl/102/568/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F568%2FtIV
 [/us/stat/106/4337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4337
-[/us/pl/102/83/s5/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fb%2F1
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F406
-[/us/pl/102/25/s333/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25%2Fs333%2Fc%2F2
+[/us/pl/102/25/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25%2FtIII
 [/us/stat/105/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F88
-[/us/pl/99/576/s703/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2Fs703%2Fb%2F3
+[/us/pl/99/576/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2FtVII
 [/us/stat/100/3303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3303
-[/us/pl/98/543/s301/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F543%2Fs301%2Fa%2F2
+[/us/pl/98/543/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F543%2FtIII
 [/us/stat/98/2746]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2746
-[/us/pl/97/295/s4/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295%2Fs4%2F14
+[/us/pl/97/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295
 [/us/stat/96/1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1305
-[/us/pl/95/588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F588
+[/us/pl/95/588/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F588%2FtI
 [/us/stat/92/2499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2499
-[/us/pl/94/169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F169
+[/us/pl/94/169/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F169%2FtI
 [/us/stat/89/1014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F1014
-[/us/pl/91/588/s9/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F588%2Fs9%2Fh
+[/us/pl/91/588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F588
 [/us/stat/84/1585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1585
-[/us/pl/90/77/s108/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F77%2Fs108%2Fb
+[/us/pl/90/77/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F77%2FtI
 [/us/stat/81/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F180
-[/us/pl/89/467/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F467%2Fs1%2Fb
+[/us/pl/89/467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F467
 [/us/stat/80/218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F218
-[/us/pl/88/77/s5/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F77%2Fs5%2F3
+[/us/pl/88/77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F77
 [/us/stat/77/96]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F96
-[/us/pl/87/138/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F138%2Fs2%2Fb
+[/us/pl/87/138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F138
 [/us/stat/75/339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F339
-[/us/pl/86/211/s7/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F211%2Fs7%2Fa
+[/us/pl/86/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F211
 [/us/stat/73/436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F436
 
 

@@ -37,13 +37,13 @@
 
         (2) In any case where affirmative evidence establishes that a covered birth defect of a child of a woman Vietnam veteran results from a cause other than the active military, naval, or air service of that veteran in the Republic of Vietnam during the Vietnam era, no benefits or assistance may be provided the child under this subchapter.
 
-(Added [Pub. L. 106–419, title IV, § 401(a)][/us/pl/106/419/s401/a], Nov. 1, 2000, [114 Stat. 1857][/us/stat/114/1857].)
+(Added [Pub. L. 106–419, title IV][/us/pl/106/419/tIV], § 401(a), Nov. 1, 2000, [114 Stat. 1857][/us/stat/114/1857].)
 
  __Prior Provisions__ 
 
     A prior section 1812 was renumbered [section 3712 of this title][/us/usc/t38/s3712].
 
-    Another prior section 1812, [Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1210][/us/stat/72/1210], automatically guaranteed loans made to a veteran if made for the purpose of purchasing farms and farm equipment, prior to repeal by [Pub. L. 93–569, § 7(a)][/us/pl/93/569/s7/a], Dec. 31, 1974, [88 Stat. 1866][/us/stat/88/1866].
+    Another prior section 1812, [Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1210][/us/stat/72/1210], automatically guaranteed loans made to a veteran if made for the purpose of purchasing farms and farm equipment, prior to repeal by [Pub. L. 93–569][/us/pl/93/569], § 7(a), Dec. 31, 1974, [88 Stat. 1866][/us/stat/88/1866].
 
 ----------
 
@@ -52,12 +52,12 @@
 ----------
 ----------
 
-[/us/pl/106/419/s401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419%2Fs401%2Fa
+[/us/pl/106/419/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419%2FtIV
 [/us/stat/114/1857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1857
 [/us/usc/t38/s3712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3712
 [/us/pl/85/857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F857
 [/us/stat/72/1210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1210
-[/us/pl/93/569/s7/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F569%2Fs7%2Fa
+[/us/pl/93/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F569
 [/us/stat/88/1866]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1866
 
 

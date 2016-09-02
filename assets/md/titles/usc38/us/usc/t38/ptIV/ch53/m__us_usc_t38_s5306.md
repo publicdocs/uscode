@@ -21,7 +21,7 @@
 
     (c) Notwithstanding subsection (b), if a new application for pension under chapter 15 of this title or for dependency and indemnity compensation for parents under [section 1315 of this title][/us/usc/t38/s1315] is filed within one year after renouncement of that benefit, such application shall not be treated as an original application and benefits will be payable as if the renouncement had not occurred.
 
-([Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1231][/us/stat/72/1231], § 3106; [Pub. L. 99–576, title VII, § 701(73)][/us/pl/99/576/s701/73], Oct. 28, 1986, [100 Stat. 3297][/us/stat/100/3297]; renumbered § 5306, [Pub. L. 102–40, title IV, § 402(b)(1)][/us/pl/102/40/s402/b/1], May 7, 1991, [105 Stat. 238][/us/stat/105/238]; [Pub. L. 102–83, § 4(a)(1)][/us/pl/102/83/s4/a/1], Aug. 6, 1991, [105 Stat. 403][/us/stat/105/403]; [Pub. L. 103–446, title V, § 503][/us/pl/103/446/s503], Nov. 2, 1994, [108 Stat. 4663][/us/stat/108/4663].)
+([Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1231][/us/stat/72/1231], § 3106; [Pub. L. 99–576, title VII][/us/pl/99/576/tVII], § 701(73), Oct. 28, 1986, [100 Stat. 3297][/us/stat/100/3297]; renumbered § 5306, [Pub. L. 102–40, title IV][/us/pl/102/40/tIV], § 402(b)(1), May 7, 1991, [105 Stat. 238][/us/stat/105/238]; [Pub. L. 102–83][/us/pl/102/83], § 4(a)(1), Aug. 6, 1991, [105 Stat. 403][/us/stat/105/403]; [Pub. L. 103–446, title V][/us/pl/103/446/tV], § 503, Nov. 2, 1994, [108 Stat. 4663][/us/stat/108/4663].)
 
  __Amendments__ 
 
@@ -43,13 +43,13 @@
 [/us/usc/t38/s1315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1315
 [/us/pl/85/857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F857
 [/us/stat/72/1231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1231
-[/us/pl/99/576/s701/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2Fs701%2F73
+[/us/pl/99/576/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2FtVII
 [/us/stat/100/3297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3297
-[/us/pl/102/40/s402/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs402%2Fb%2F1
+[/us/pl/102/40/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2FtIV
 [/us/stat/105/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F238
-[/us/pl/102/83/s4/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fa%2F1
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F403
-[/us/pl/103/446/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2Fs503
+[/us/pl/103/446/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2FtV
 [/us/stat/108/4663]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4663
 [/us/pl/103/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446
 [/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40

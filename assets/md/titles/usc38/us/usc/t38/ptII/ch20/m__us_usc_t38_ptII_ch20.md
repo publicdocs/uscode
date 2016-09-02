@@ -307,9 +307,9 @@ SUBCHAPTER VII—OTHER PROVISIONS  </td>
 
  __Amendments__ 
 
-    2010—[Pub. L. 111–275, title II, § 202(b)][/us/pl/111/275/s202/b], Oct. 13, 2010, [124 Stat. 2874][/us/stat/124/2874], added item 2021A.
+    2010—[Pub. L. 111–275, title II][/us/pl/111/275/tII], § 202(b), Oct. 13, 2010, [124 Stat. 2874][/us/stat/124/2874], added item 2021A.
 
-    2008—[Pub. L. 110–387, title VI][/us/pl/110/387], §§ 602(e), 604(b)(2), Oct. 10, 2008, [122 Stat. 4132][/us/stat/122/4132], 4136, substituted “Referral and counseling services: veterans at risk of homelessness who are transitioning from certain institutions” for “Demonstration program of referral and counseling for veterans transitioning from certain institutions who are at risk for homelessness” in item 2023 and added item 2044.
+    2008—[Pub. L. 110–387, title VI][/us/pl/110/387/tVI], §§ 602(e), 604(b)(2), Oct. 10, 2008, [122 Stat. 4132][/us/stat/122/4132], 4136, substituted “Referral and counseling services: veterans at risk of homelessness who are transitioning from certain institutions” for “Demonstration program of referral and counseling for veterans transitioning from certain institutions who are at risk for homelessness” in item 2023 and added item 2044.
 
 ----------
 
@@ -318,9 +318,9 @@ SUBCHAPTER VII—OTHER PROVISIONS  </td>
 ----------
 ----------
 
-[/us/pl/111/275/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275%2Fs202%2Fb
+[/us/pl/111/275/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275%2FtII
 [/us/stat/124/2874]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2874
-[/us/pl/110/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F387
+[/us/pl/110/387/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F387%2FtVI
 [/us/stat/122/4132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4132
 
 

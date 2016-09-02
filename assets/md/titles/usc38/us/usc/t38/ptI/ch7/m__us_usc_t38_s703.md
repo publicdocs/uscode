@@ -31,17 +31,17 @@
 
         (2) The Secretary shall establish reasonable rates to cover the cost of the service rendered under this subsection, and all proceeds collected therefrom shall be applied to the applicable appropriation.
 
-(Added [Pub. L. 102–83, § 2(a)][/us/pl/102/83/s2/a], Aug. 6, 1991, [105 Stat. 394][/us/stat/105/394].)
+(Added [Pub. L. 102–83][/us/pl/102/83], § 2(a), Aug. 6, 1991, [105 Stat. 394][/us/stat/105/394].)
 
  __Prior Provisions__ 
 
     Prior sections 703 and 704 were renumbered sections 1903 and 1904 of this title, respectively.
 
-    Provisions similar to those in this section were contained in [section 233 of this title][/us/usc/t38/s233] prior to repeal by [Pub. L. 102–83, § 2(a)][/us/pl/102/83/s2/a].
+    Provisions similar to those in this section were contained in [section 233 of this title][/us/usc/t38/s233] prior to repeal by [Pub. L. 102–83][/us/pl/102/83], § 2(a).
 
  __Clinic Management Training for Employees at Medical Facilities of the Department of Veterans Affairs__ 
 
-[Pub. L. 113–146, title III, § 303][/us/pl/113/146/s303], Aug. 7, 2014, [128 Stat. 1788][/us/stat/128/1788], provided that:
+[Pub. L. 113–146, title III][/us/pl/113/146/tIII], § 303, Aug. 7, 2014, [128 Stat. 1788][/us/stat/128/1788], provided that:
 
 >     “(a) __Clinic Management Training Program.—__ 
 
@@ -111,7 +111,7 @@
 
  __Limitation on Awards and Bonuses Paid to Employees of Department of Veterans Affairs__ 
 
-[Pub. L. 113–146, title VII, § 705][/us/pl/113/146/s705], Aug. 7, 2014, [128 Stat. 1798][/us/stat/128/1798], provided that: 
+[Pub. L. 113–146, title VII][/us/pl/113/146/tVII], § 705, Aug. 7, 2014, [128 Stat. 1798][/us/stat/128/1798], provided that: 
 
 > “In each of fiscal years 2015 through 2024, the Secretary of Veterans Affairs shall ensure that the aggregate amount of awards and bonuses paid by the Secretary in a fiscal year under chapter 45 or 53 of title 5, United States Code, or any other awards or bonuses authorized under such title does not exceed $360,000,000.”
 
@@ -122,16 +122,16 @@
 ----------
 ----------
 
-[/us/pl/102/83/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs2%2Fa
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F394
 [/us/usc/t38/s233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs233
-[/us/pl/102/83/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs2%2Fa
-[/us/pl/113/146/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F146%2Fs303
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/113/146/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F146%2FtIII
 [/us/stat/128/1788]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1788
 [/us/pl/113/146/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F146%2Fs303
 [/us/pl/113/146/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F146%2Fs2
 [/us/usc/t38/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1701
-[/us/pl/113/146/s705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F146%2Fs705
+[/us/pl/113/146/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F146%2FtVII
 [/us/stat/128/1798]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1798
 
 

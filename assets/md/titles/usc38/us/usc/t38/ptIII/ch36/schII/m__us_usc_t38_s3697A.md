@@ -39,7 +39,7 @@
 
     (e) The Secretary shall take appropriate steps (including individual notification where feasible) to acquaint all individuals described in subsection (b) of this section with the availability and advantages of counseling services under this section.
 
-(Added [Pub. L. 102–16, § 2(a)][/us/pl/102/16/s2/a], Mar. 22, 1991, [105 Stat. 48][/us/stat/105/48], § 1797A; renumbered § 3697A, [Pub. L. 102–83, § 5(a)][/us/pl/102/83/s5/a], Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406]; amended [Pub. L. 110–252, title V, § 5003(b)(2)(B)][/us/pl/110/252/s5003/b/2/B], June 30, 2008, [122 Stat. 2375][/us/stat/122/2375].)
+(Added [Pub. L. 102–16][/us/pl/102/16], § 2(a), Mar. 22, 1991, [105 Stat. 48][/us/stat/105/48], § 1797A; renumbered § 3697A, [Pub. L. 102–83][/us/pl/102/83], § 5(a), Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406]; amended [Pub. L. 110–252, title V][/us/pl/110/252/tV], § 5003(b)(2)(B), June 30, 2008, [122 Stat. 2375][/us/stat/122/2375].)
 
  __Amendments__ 
 
@@ -58,11 +58,11 @@
 ----------
 ----------
 
-[/us/pl/102/16/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F16%2Fs2%2Fa
+[/us/pl/102/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F16
 [/us/stat/105/48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F48
-[/us/pl/102/83/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fa
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F406
-[/us/pl/110/252/s5003/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F252%2Fs5003%2Fb%2F2%2FB
+[/us/pl/110/252/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F252%2FtV
 [/us/stat/122/2375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2375
 [/us/pl/110/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F252
 [/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83

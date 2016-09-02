@@ -57,7 +57,7 @@
 
         A child of a member of the Armed Forces who, on or after September 11, 2001, dies in the line of duty while serving on active duty, who is eligible for educational assistance under either section 3311(b)(9) or chapter 35 of this title based on the parent’s death may not receive such assistance under both this chapter and chapter 35 of this title, but shall elect (in such form and manner as the Secretary may prescribe) under which chapter to receive such assistance.
 
-(Added [Pub. L. 110–252, title V, § 5003(a)(1)][/us/pl/110/252/s5003/a/1], June 30, 2008, [122 Stat. 2373][/us/stat/122/2373]; amended [Pub. L. 111–377, title I, § 111(a)][/us/pl/111/377/s111/a]–(d), title II, § 202(a), Jan. 4, 2011, [124 Stat. 4120][/us/stat/124/4120], 4121, 4124.)
+(Added [Pub. L. 110–252, title V][/us/pl/110/252/tV], § 5003(a)(1), June 30, 2008, [122 Stat. 2373][/us/stat/122/2373]; amended [Pub. L. 111–377, title I][/us/pl/111/377/tI], § 111(a)–(d), title II, § 202(a), Jan. 4, 2011, [124 Stat. 4120][/us/stat/124/4120], 4121, 4124.)
 
  __References in Text__ 
 
@@ -67,23 +67,23 @@
 
  __Amendments__ 
 
-    2011—Subsec. (a). [Pub. L. 111–377, § 202(a)][/us/pl/111/377/s202/a], inserted “or section 510” after “or 1607”.
+    2011—Subsec. (a). [Pub. L. 111–377][/us/pl/111/377], § 202(a), inserted “or section 510” after “or 1607”.
 
-    Subsec. (e). [Pub. L. 111–377, § 111(a)][/us/pl/111/377/s111/a], added subsec. (e).
+    Subsec. (e). [Pub. L. 111–377][/us/pl/111/377], § 111(a), added subsec. (e).
 
-    Subsec. (f). [Pub. L. 111–377, § 111(b)][/us/pl/111/377/s111/b], added subsec. (f).
+    Subsec. (f). [Pub. L. 111–377][/us/pl/111/377], § 111(b), added subsec. (f).
 
-    Subsec. (g). [Pub. L. 111–377, § 111(c)][/us/pl/111/377/s111/c], added subsec. (g).
+    Subsec. (g). [Pub. L. 111–377][/us/pl/111/377], § 111(c), added subsec. (g).
 
-    Subsec. (h). [Pub. L. 111–377, § 111(d)][/us/pl/111/377/s111/d], added subsec. (h).
+    Subsec. (h). [Pub. L. 111–377][/us/pl/111/377], § 111(d), added subsec. (h).
 
  __Effective Date of 2011 Amendment__ 
 
-[Pub. L. 111–377, title I, § 111(e)][/us/pl/111/377/s111/e], Jan. 4, 2011, [124 Stat. 4121][/us/stat/124/4121], provided that: 
+[Pub. L. 111–377, title I][/us/pl/111/377/tI], § 111(e), Jan. 4, 2011, [124 Stat. 4121][/us/stat/124/4121], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall take effect on August 1, 2011.”
 
-[Pub. L. 111–377, title II, § 202(c)][/us/pl/111/377/s202/c], Jan. 4, 2011, [124 Stat. 4124][/us/stat/124/4124], provided that: 
+[Pub. L. 111–377, title II][/us/pl/111/377/tII], § 202(c), Jan. 4, 2011, [124 Stat. 4124][/us/stat/124/4124], provided that: 
 
 > “The amendments made by this section \[amending this section and [section 3681 of this title][/us/usc/t38/s3681]\] shall take effect on August 1, 2011.”
 
@@ -97,23 +97,23 @@
 [/us/usc/t10/s510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs510
 [/us/pl/96/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F449
 [/us/usc/t5/s5561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5561
-[/us/pl/110/252/s5003/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F252%2Fs5003%2Fa%2F1
+[/us/pl/110/252/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F252%2FtV
 [/us/stat/122/2373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2373
-[/us/pl/111/377/s111/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F377%2Fs111%2Fa
+[/us/pl/111/377/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F377%2FtI
 [/us/stat/124/4120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4120
 [/us/pl/96/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F449
 [/us/stat/94/1967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1967
 [/us/usc/t5/s5561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5561
 [/us/pl/110/252/s5003/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F252%2Fs5003%2Fc
 [/us/usc/t38/s3301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3301
-[/us/pl/111/377/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F377%2Fs202%2Fa
-[/us/pl/111/377/s111/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F377%2Fs111%2Fa
-[/us/pl/111/377/s111/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F377%2Fs111%2Fb
-[/us/pl/111/377/s111/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F377%2Fs111%2Fc
-[/us/pl/111/377/s111/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F377%2Fs111%2Fd
-[/us/pl/111/377/s111/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F377%2Fs111%2Fe
+[/us/pl/111/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F377
+[/us/pl/111/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F377
+[/us/pl/111/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F377
+[/us/pl/111/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F377
+[/us/pl/111/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F377
+[/us/pl/111/377/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F377%2FtI
 [/us/stat/124/4121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4121
-[/us/pl/111/377/s202/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F377%2Fs202%2Fc
+[/us/pl/111/377/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F377%2FtII
 [/us/stat/124/4124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4124
 [/us/usc/t38/s3681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3681
 

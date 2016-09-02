@@ -23,7 +23,7 @@
 
     (d) No waiver of premiums shall be made in the case of any person for supplemental insurance granted under this section.
 
-(Added [Pub. L. 102–568, title II, § 203(a)][/us/pl/102/568/s203/a], Oct. 29, 1992, [106 Stat. 4324][/us/stat/106/4324]; amended [Pub. L. 103–446, title XII, § 1201(f)(1)][/us/pl/103/446/s1201/f/1], Nov. 2, 1994, [108 Stat. 4687][/us/stat/108/4687]; [Pub. L. 111–275, title IV, § 401(a)][/us/pl/111/275/s401/a], Oct. 13, 2010, [124 Stat. 2879][/us/stat/124/2879].)
+(Added [Pub. L. 102–568, title II][/us/pl/102/568/tII], § 203(a), Oct. 29, 1992, [106 Stat. 4324][/us/stat/106/4324]; amended [Pub. L. 103–446, title XII][/us/pl/103/446/tXII], § 1201(f)(1), Nov. 2, 1994, [108 Stat. 4687][/us/stat/108/4687]; [Pub. L. 111–275, title IV][/us/pl/111/275/tIV], § 401(a), Oct. 13, 2010, [124 Stat. 2879][/us/stat/124/2879].)
 
  __Amendments__ 
 
@@ -33,13 +33,13 @@
 
  __Effective Date of 2010 Amendment__ 
 
-[Pub. L. 111–275, title IV, § 401(b)][/us/pl/111/275/s401/b], Oct. 13, 2010, [124 Stat. 2879][/us/stat/124/2879], provided that: 
+[Pub. L. 111–275, title IV][/us/pl/111/275/tIV], § 401(b), Oct. 13, 2010, [124 Stat. 2879][/us/stat/124/2879], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall take effect on October 1, 2011.”
 
  __Effective Date__ 
 
-[Pub. L. 102–568, title II, § 205][/us/pl/102/568/s205], Oct. 29, 1992, [106 Stat. 4325][/us/stat/106/4325], provided that: 
+[Pub. L. 102–568, title II][/us/pl/102/568/tII], § 205, Oct. 29, 1992, [106 Stat. 4325][/us/stat/106/4325], provided that: 
 
 > “The amendments made by this title \[enacting this section and amending sections 1967, 1977, and 2106 of this title\] shall take effect on December 1, 1992.”
 
@@ -54,17 +54,17 @@
 [/us/usc/t38/s1912]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1912
 [/us/usc/t38/s1912]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1912
 [/us/usc/t38/s1922/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1922%2Fa
-[/us/pl/102/568/s203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F568%2Fs203%2Fa
+[/us/pl/102/568/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F568%2FtII
 [/us/stat/106/4324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4324
-[/us/pl/103/446/s1201/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2Fs1201%2Ff%2F1
+[/us/pl/103/446/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2FtXII
 [/us/stat/108/4687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4687
-[/us/pl/111/275/s401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275%2Fs401%2Fa
+[/us/pl/111/275/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275%2FtIV
 [/us/stat/124/2879]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2879
 [/us/pl/111/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275
 [/us/pl/103/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446
-[/us/pl/111/275/s401/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275%2Fs401%2Fb
+[/us/pl/111/275/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275%2FtIV
 [/us/stat/124/2879]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2879
-[/us/pl/102/568/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F568%2Fs205
+[/us/pl/102/568/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F568%2FtII
 [/us/stat/106/4325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4325
 
 

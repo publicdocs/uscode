@@ -31,17 +31,17 @@
 
     The Secretary may utilize the services of a State approving agency for such compliance and oversight purposes as the Secretary considers appropriate without regard to whether the Secretary or the agency approved the courses offered in the State concerned.
 
-(Added [Pub. L. 88–126, § 1][/us/pl/88/126/s1], Sept. 23, 1963, [77 Stat. 158][/us/stat/77/158], § 1773; amended [Pub. L. 89–358, § 3(a)(7)][/us/pl/89/358/s3/a/7], (11), Mar. 3, 1966, [80 Stat. 20][/us/stat/80/20], 21; [Pub. L. 92–540, title IV, § 403(6)][/us/pl/92/540/s403/6], Oct. 24, 1972, [86 Stat. 1090][/us/stat/86/1090]; [Pub. L. 97–295, § 4(51)][/us/pl/97/295/s4/51], Oct. 12, 1982, [96 Stat. 1308][/us/stat/96/1308]; [Pub. L. 101–237, title IV, § 423(b)(1)][/us/pl/101/237/s423/b/1], Dec. 18, 1989, [103 Stat. 2092][/us/stat/103/2092]; renumbered § 3673, [Pub. L. 102–83, § 5(a)][/us/pl/102/83/s5/a], Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406]; [Pub. L. 110–389, title III, § 326(a)(1)][/us/pl/110/389/s326/a/1], (2)(A), (3), Oct. 10, 2008, [122 Stat. 4169][/us/stat/122/4169]; [Pub. L. 111–377, title II, § 203(b)][/us/pl/111/377/s203/b], Jan. 4, 2011, [124 Stat. 4125][/us/stat/124/4125].)
+(Added [Pub. L. 88–126][/us/pl/88/126], § 1, Sept. 23, 1963, [77 Stat. 158][/us/stat/77/158], § 1773; amended [Pub. L. 89–358][/us/pl/89/358], § 3(a)(7), (11), Mar. 3, 1966, [80 Stat. 20][/us/stat/80/20], 21; [Pub. L. 92–540, title IV][/us/pl/92/540/tIV], § 403(6), Oct. 24, 1972, [86 Stat. 1090][/us/stat/86/1090]; [Pub. L. 97–295][/us/pl/97/295], § 4(51), Oct. 12, 1982, [96 Stat. 1308][/us/stat/96/1308]; [Pub. L. 101–237, title IV][/us/pl/101/237/tIV], § 423(b)(1), Dec. 18, 1989, [103 Stat. 2092][/us/stat/103/2092]; renumbered § 3673, [Pub. L. 102–83][/us/pl/102/83], § 5(a), Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406]; [Pub. L. 110–389, title III][/us/pl/110/389/tIII], § 326(a)(1), (2)(A), (3), Oct. 10, 2008, [122 Stat. 4169][/us/stat/122/4169]; [Pub. L. 111–377, title II][/us/pl/111/377/tII], § 203(b), Jan. 4, 2011, [124 Stat. 4125][/us/stat/124/4125].)
 
  __Amendments__ 
 
     2011—Subsec. (d). [Pub. L. 111–377][/us/pl/111/377] added subsec. (d).
 
-    2008—[Pub. L. 110–389, § 326(a)(2)(A)][/us/pl/110/389/s326/a/2/A], amended section catchline generally. Prior to amendment, catchline read as follows: “Cooperation”.
+    2008—[Pub. L. 110–389][/us/pl/110/389], § 326(a)(2)(A), amended section catchline generally. Prior to amendment, catchline read as follows: “Cooperation”.
 
-    Subsec. (a). [Pub. L. 110–389, § 326(a)(3)(A)][/us/pl/110/389/s326/a/3/A], inserted heading.
+    Subsec. (a). [Pub. L. 110–389][/us/pl/110/389], § 326(a)(3)(A), inserted heading.
 
-    Subsecs. (b), (c). [Pub. L. 110–389, § 326(a)(1)][/us/pl/110/389/s326/a/1], (3)(B), added subsec. (b), redesignated former subsec. (b) as (c), and inserted heading in subsec. (c).
+    Subsecs. (b), (c). [Pub. L. 110–389][/us/pl/110/389], § 326(a)(1), (3)(B), added subsec. (b), redesignated former subsec. (b) as (c), and inserted heading in subsec. (c).
 
     1991—[Pub. L. 102–83][/us/pl/102/83] renumbered [section 1773 of this title][/us/usc/t38/s1773] as this section.
 
@@ -51,9 +51,9 @@
 
     1972—Subsec. (a). [Pub. L. 92–540][/us/pl/92/540] inserted “this chapter and” before “chapters 34 and 35” wherever appearing.
 
-    1966—Subsec. (a). [Pub. L. 89–358, § 3(a)(7)][/us/pl/89/358/s3/a/7], (11), substituted “chapters 34 and 35” for “this chapter” twice and inserted “or veterans” after “eligible persons”.
+    1966—Subsec. (a). [Pub. L. 89–358][/us/pl/89/358], § 3(a)(7), (11), substituted “chapters 34 and 35” for “this chapter” twice and inserted “or veterans” after “eligible persons”.
 
-    Subsec. (b). [Pub. L. 89–358, § 3(a)(7)][/us/pl/89/358/s3/a/7], substituted “chapters 34 and 35” for “this chapter”.
+    Subsec. (b). [Pub. L. 89–358][/us/pl/89/358], § 3(a)(7), substituted “chapters 34 and 35” for “this chapter”.
 
  __Effective Date of 2011 Amendment__ 
 
@@ -66,33 +66,33 @@
 ----------
 ----------
 
-[/us/pl/88/126/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F126%2Fs1
+[/us/pl/88/126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F126
 [/us/stat/77/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F158
-[/us/pl/89/358/s3/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F358%2Fs3%2Fa%2F7
+[/us/pl/89/358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F358
 [/us/stat/80/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F20
-[/us/pl/92/540/s403/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F540%2Fs403%2F6
+[/us/pl/92/540/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F540%2FtIV
 [/us/stat/86/1090]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1090
-[/us/pl/97/295/s4/51]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295%2Fs4%2F51
+[/us/pl/97/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295
 [/us/stat/96/1308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1308
-[/us/pl/101/237/s423/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237%2Fs423%2Fb%2F1
+[/us/pl/101/237/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237%2FtIV
 [/us/stat/103/2092]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2092
-[/us/pl/102/83/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fa
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F406
-[/us/pl/110/389/s326/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F389%2Fs326%2Fa%2F1
+[/us/pl/110/389/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F389%2FtIII
 [/us/stat/122/4169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4169
-[/us/pl/111/377/s203/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F377%2Fs203%2Fb
+[/us/pl/111/377/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F377%2FtII
 [/us/stat/124/4125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4125
 [/us/pl/111/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F377
-[/us/pl/110/389/s326/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F389%2Fs326%2Fa%2F2%2FA
-[/us/pl/110/389/s326/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F389%2Fs326%2Fa%2F3%2FA
-[/us/pl/110/389/s326/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F389%2Fs326%2Fa%2F1
+[/us/pl/110/389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F389
+[/us/pl/110/389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F389
+[/us/pl/110/389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F389
 [/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/usc/t38/s1773]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1773
 [/us/pl/101/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237
 [/us/pl/97/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295
 [/us/pl/92/540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F540
-[/us/pl/89/358/s3/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F358%2Fs3%2Fa%2F7
-[/us/pl/89/358/s3/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F358%2Fs3%2Fa%2F7
+[/us/pl/89/358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F358
+[/us/pl/89/358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F358
 [/us/pl/111/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F377
 [/us/pl/111/377/s203/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F377%2Fs203%2Fe
 [/us/usc/t38/s3034]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3034

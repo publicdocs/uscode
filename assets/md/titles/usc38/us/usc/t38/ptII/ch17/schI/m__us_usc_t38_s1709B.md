@@ -53,7 +53,7 @@
 
         (2) Any recommendations the Secretary considers appropriate.
 
-(Added [Pub. L. 114–2, § 2(a)(1)][/us/pl/114/2/s2/a/1], Feb. 12, 2015, [129 Stat. 30][/us/stat/129/30].)
+(Added [Pub. L. 114–2][/us/pl/114/2], § 2(a)(1), Feb. 12, 2015, [129 Stat. 30][/us/stat/129/30].)
 
  __References in Text__ 
 
@@ -66,7 +66,7 @@
 ----------
 ----------
 
-[/us/pl/114/2/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F2%2Fs2%2Fa%2F1
+[/us/pl/114/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F2
 [/us/stat/129/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F30
 [/us/pl/114/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F2
 

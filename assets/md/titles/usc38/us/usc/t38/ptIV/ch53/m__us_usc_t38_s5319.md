@@ -27,7 +27,7 @@
 
     (c) Information disclosed pursuant to a request referred to in subsection (a) may be used solely for the purpose of the administration of benefits programs under laws administered by the Secretary if, except for the exemption in subsection (a), the disclosure of that information would otherwise be prohibited by any provision of the Right to Financial Privacy Act of 1978.
 
-(Added [Pub. L. 102–568, title VI, § 603(b)(1)][/us/pl/102/568/s603/b/1], Oct. 29, 1992, [106 Stat. 4342][/us/stat/106/4342].)
+(Added [Pub. L. 102–568, title VI][/us/pl/102/568/tVI], § 603(b)(1), Oct. 29, 1992, [106 Stat. 4342][/us/stat/106/4342].)
 
  __References in Text__ 
 
@@ -41,7 +41,7 @@
 ----------
 
 [/us/usc/t12/s3413/p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3413%2Fp
-[/us/pl/102/568/s603/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F568%2Fs603%2Fb%2F1
+[/us/pl/102/568/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F568%2FtVI
 [/us/stat/106/4342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4342
 [/us/pl/95/630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630
 [/us/stat/92/3697]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3697

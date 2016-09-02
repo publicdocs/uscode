@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t38/ptIII/ch37/schIII/m__us_usc_t38_s3722.md) | [Next](./../../../../../..//us/usc/t38/ptIII/ch37/schIII/m__us_usc_t38_s3727.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3726)
+[Previous](./../../../../../..//us/usc/t38/ptIII/ch37/schIII/m__us_usc_t38_s3723...3725.md) | [Next](./../../../../../..//us/usc/t38/ptIII/ch37/schIII/m__us_usc_t38_s3727.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3726)
 
 ## § 3726. Withholding of payments, benefits, etc.
 
@@ -21,7 +21,7 @@
 
     (c) If the Secretary determines that the veteran or surviving spouse should not be released from liability, the Secretary shall notify the veteran or surviving spouse of that determination and provide a notice of the procedure for appealing that determination, unless the Secretary has previously made such determination and notified the veteran or surviving spouse of the procedure for appealing the determination.
 
-(Added [Pub. L. 89–358, § 5(f)(1)][/us/pl/89/358/s5/f/1], Mar. 3, 1966, [80 Stat. 26][/us/stat/80/26], § 1826; amended [Pub. L. 94–324, § 7(30)][/us/pl/94/324/s7/30], June 30, 1976, [90 Stat. 722][/us/stat/90/722]; [Pub. L. 97–66, title V, § 504][/us/pl/97/66/s504], Oct. 17, 1981, [95 Stat. 1033][/us/stat/95/1033]; [Pub. L. 101–237, title III, § 313(b)(1)][/us/pl/101/237/s313/b/1], (2), Dec. 18, 1989, [103 Stat. 2077][/us/stat/103/2077]; renumbered § 3726, [Pub. L. 102–83, § 5(a)][/us/pl/102/83/s5/a], Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406]; [Pub. L. 105–33, title VIII, § 8033(a)][/us/pl/105/33/s8033/a], Aug. 5, 1997, [111 Stat. 669][/us/stat/111/669].)
+(Added [Pub. L. 89–358][/us/pl/89/358], § 5(f)(1), Mar. 3, 1966, [80 Stat. 26][/us/stat/80/26], § 1826; amended [Pub. L. 94–324][/us/pl/94/324], § 7(30), June 30, 1976, [90 Stat. 722][/us/stat/90/722]; [Pub. L. 97–66, title V][/us/pl/97/66/tV], § 504, Oct. 17, 1981, [95 Stat. 1033][/us/stat/95/1033]; [Pub. L. 101–237, title III][/us/pl/101/237/tIII], § 313(b)(1), (2), Dec. 18, 1989, [103 Stat. 2077][/us/stat/103/2077]; renumbered § 3726, [Pub. L. 102–83][/us/pl/102/83], § 5(a), Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406]; [Pub. L. 105–33, title VIII][/us/pl/105/33/tVIII], § 8033(a), Aug. 5, 1997, [111 Stat. 669][/us/stat/111/669].)
 
  __Amendments__ 
 
@@ -39,7 +39,7 @@
 
  __Effective Date of 1997 Amendment__ 
 
-[Pub. L. 105–33, title VIII, § 8033(c)][/us/pl/105/33/s8033/c], Aug. 5, 1997, [111 Stat. 669][/us/stat/111/669], provided that: 
+[Pub. L. 105–33, title VIII][/us/pl/105/33/tVIII], § 8033(c), Aug. 5, 1997, [111 Stat. 669][/us/stat/111/669], provided that: 
 
 > “The amendments made by this section \[amending this section and [section 5302 of this title][/us/usc/t38/s5302]\] shall apply with respect to any indebtedness to the United States arising pursuant to chapter 37 of title 38, United States Code, before, on, or after the date of enactment of this Act \[Aug. 5, 1997\].”
 
@@ -53,24 +53,24 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t38/ptIII/ch37/schIII/m__us_usc_t38_s3722.md) | [Next](./../../../../../..//us/usc/t38/ptIII/ch37/schIII/m__us_usc_t38_s3727.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3726)
+[Previous](./../../../../../..//us/usc/t38/ptIII/ch37/schIII/m__us_usc_t38_s3723...3725.md) | [Next](./../../../../../..//us/usc/t38/ptIII/ch37/schIII/m__us_usc_t38_s3727.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3726)
 
 ----------
 ----------
 
 [/us/usc/t38/s5302/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs5302%2Fb
 [/us/usc/t38/s3713/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3713%2Fb
-[/us/pl/89/358/s5/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F358%2Fs5%2Ff%2F1
+[/us/pl/89/358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F358
 [/us/stat/80/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F26
-[/us/pl/94/324/s7/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F324%2Fs7%2F30
+[/us/pl/94/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F324
 [/us/stat/90/722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F722
-[/us/pl/97/66/s504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F66%2Fs504
+[/us/pl/97/66/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F66%2FtV
 [/us/stat/95/1033]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1033
-[/us/pl/101/237/s313/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237%2Fs313%2Fb%2F1
+[/us/pl/101/237/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237%2FtIII
 [/us/stat/103/2077]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2077
-[/us/pl/102/83/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fa
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F406
-[/us/pl/105/33/s8033/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs8033%2Fa
+[/us/pl/105/33/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2FtVIII
 [/us/stat/111/669]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F669
 [/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
 [/us/usc/t38/s5302/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs5302%2Fb
@@ -80,7 +80,7 @@
 [/us/pl/97/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F66
 [/us/pl/94/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F324
 [/us/pl/94/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F324
-[/us/pl/105/33/s8033/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs8033%2Fc
+[/us/pl/105/33/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2FtVIII
 [/us/stat/111/669]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F669
 [/us/usc/t38/s5302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs5302
 [/us/pl/97/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F66

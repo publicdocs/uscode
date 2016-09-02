@@ -195,31 +195,31 @@
 
         For purposes of that paragraph, the term “child” includes a married individual or an individual who is above the age of twenty-three years.
 
-(Added [Pub. L. 110–252, title V, § 5003(a)(1)][/us/pl/110/252/s5003/a/1], June 30, 2008, [122 Stat. 2359][/us/stat/122/2359]; amended [Pub. L. 111–32, title X, § 1002(a)][/us/pl/111/32/s1002/a], June 24, 2009, [123 Stat. 1889][/us/stat/123/1889]; [Pub. L. 111–377, title I, § 101(b)][/us/pl/111/377/s101/b], (c), Jan. 4, 2011, [124 Stat. 4107][/us/stat/124/4107]; [Pub. L. 113–146, title VII, § 701(a)][/us/pl/113/146/s701/a], (b), Aug. 7, 2014, [128 Stat. 1795][/us/stat/128/1795].)
+(Added [Pub. L. 110–252, title V][/us/pl/110/252/tV], § 5003(a)(1), June 30, 2008, [122 Stat. 2359][/us/stat/122/2359]; amended [Pub. L. 111–32, title X][/us/pl/111/32/tX], § 1002(a), June 24, 2009, [123 Stat. 1889][/us/stat/123/1889]; [Pub. L. 111–377, title I][/us/pl/111/377/tI], § 101(b), (c), Jan. 4, 2011, [124 Stat. 4107][/us/stat/124/4107]; [Pub. L. 113–146, title VII][/us/pl/113/146/tVII], § 701(a), (b), Aug. 7, 2014, [128 Stat. 1795][/us/stat/128/1795].)
 
  __Amendments__ 
 
-    2014—Subsec. (b)(9). [Pub. L. 113–146, § 701(a)][/us/pl/113/146/s701/a], inserted “or spouse” after “child”.
+    2014—Subsec. (b)(9). [Pub. L. 113–146][/us/pl/113/146], § 701(a), inserted “or spouse” after “child”.
 
-    Subsec. (f)(2) to (4). [Pub. L. 113–146, § 701(b)][/us/pl/113/146/s701/b], added pars. (2) and (3) and redesignated former par. (2) as (4).
+    Subsec. (f)(2) to (4). [Pub. L. 113–146][/us/pl/113/146], § 701(b), added pars. (2) and (3) and redesignated former par. (2) as (4).
 
-    2011—Subsec. (c)(4). [Pub. L. 111–377, § 101(b)][/us/pl/111/377/s101/b], substituted “A discharge or release from active duty in the Armed Forces after service on active duty in the Armed Forces characterized by the Secretary concerned as honorable service” for “A discharge or release from active duty in the Armed Forces” in introductory provisions.
+    2011—Subsec. (c)(4). [Pub. L. 111–377][/us/pl/111/377], § 101(b), substituted “A discharge or release from active duty in the Armed Forces after service on active duty in the Armed Forces characterized by the Secretary concerned as honorable service” for “A discharge or release from active duty in the Armed Forces” in introductory provisions.
 
-    Subsec. (d)(2). [Pub. L. 111–377, § 101(c)][/us/pl/111/377/s101/c], inserted “or [section 182 of title 14][/us/usc/t14/s182]” before period at end.
+    Subsec. (d)(2). [Pub. L. 111–377][/us/pl/111/377], § 101(c), inserted “or [section 182 of title 14][/us/usc/t14/s182]” before period at end.
 
-    2009—Subsec. (b)(9). [Pub. L. 111–32, § 1002(a)(1)][/us/pl/111/32/s1002/a/1], added par. (9).
+    2009—Subsec. (b)(9). [Pub. L. 111–32][/us/pl/111/32], § 1002(a)(1), added par. (9).
 
-    Subsec. (f). [Pub. L. 111–32, § 1002(a)(2)][/us/pl/111/32/s1002/a/2], added subsec. (f).
+    Subsec. (f). [Pub. L. 111–32][/us/pl/111/32], § 1002(a)(2), added subsec. (f).
 
  __Effective Date of 2014 Amendment__ 
 
-[Pub. L. 113–146, title VII, § 701(d)][/us/pl/113/146/s701/d], Aug. 7, 2014, [128 Stat. 1796][/us/stat/128/1796], provided that: 
+[Pub. L. 113–146, title VII][/us/pl/113/146/tVII], § 701(d), Aug. 7, 2014, [128 Stat. 1796][/us/stat/128/1796], provided that: 
 
 > “The amendments made by this section \[amending this section and [section 3321 of this title][/us/usc/t38/s3321]\] shall apply with respect to a quarter, semester, or term, as applicable, commencing on or after January 1, 2015.”
 
  __Effective Date of 2011 Amendment__ 
 
-[Pub. L. 111–377, title I, § 101(d)(4)][/us/pl/111/377/s101/d/4], (5), Jan. 4, 2011, [124 Stat. 4108][/us/stat/124/4108], provided that:
+[Pub. L. 111–377, title I][/us/pl/111/377/tI], § 101(d)(4), (5), Jan. 4, 2011, [124 Stat. 4108][/us/stat/124/4108], provided that:
 
 >     “(4)  __Honorable service requirement__  __.—__ 
 
@@ -231,7 +231,7 @@
 
  __Effective Date of 2009 Amendment__ 
 
-[Pub. L. 111–32, title X, § 1002(d)][/us/pl/111/32/s1002/d], June 24, 2009, [123 Stat. 1890][/us/stat/123/1890], provided that:
+[Pub. L. 111–32, title X][/us/pl/111/32/tX], § 1002(d), June 24, 2009, [123 Stat. 1890][/us/stat/123/1890], provided that:
 
 >     “(1)  __Effective date__  __.—__ 
 
@@ -250,27 +250,27 @@
 
 [/us/usc/t10/s2107/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2107%2Fb
 [/us/usc/t14/s182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs182
-[/us/pl/110/252/s5003/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F252%2Fs5003%2Fa%2F1
+[/us/pl/110/252/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F252%2FtV
 [/us/stat/122/2359]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2359
-[/us/pl/111/32/s1002/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F32%2Fs1002%2Fa
+[/us/pl/111/32/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F32%2FtX
 [/us/stat/123/1889]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1889
-[/us/pl/111/377/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F377%2Fs101%2Fb
+[/us/pl/111/377/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F377%2FtI
 [/us/stat/124/4107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4107
-[/us/pl/113/146/s701/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F146%2Fs701%2Fa
+[/us/pl/113/146/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F146%2FtVII
 [/us/stat/128/1795]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1795
-[/us/pl/113/146/s701/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F146%2Fs701%2Fa
-[/us/pl/113/146/s701/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F146%2Fs701%2Fb
-[/us/pl/111/377/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F377%2Fs101%2Fb
-[/us/pl/111/377/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F377%2Fs101%2Fc
+[/us/pl/113/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F146
+[/us/pl/113/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F146
+[/us/pl/111/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F377
+[/us/pl/111/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F377
 [/us/usc/t14/s182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs182
-[/us/pl/111/32/s1002/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F32%2Fs1002%2Fa%2F1
-[/us/pl/111/32/s1002/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F32%2Fs1002%2Fa%2F2
-[/us/pl/113/146/s701/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F146%2Fs701%2Fd
+[/us/pl/111/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F32
+[/us/pl/111/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F32
+[/us/pl/113/146/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F146%2FtVII
 [/us/stat/128/1796]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1796
 [/us/usc/t38/s3321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3321
-[/us/pl/111/377/s101/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F377%2Fs101%2Fd%2F4
+[/us/pl/111/377/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F377%2FtI
 [/us/stat/124/4108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4108
-[/us/pl/111/32/s1002/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F32%2Fs1002%2Fd
+[/us/pl/111/32/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F32%2FtX
 [/us/stat/123/1890]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1890
 [/us/usc/t38/s3311/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3311%2Fb
 

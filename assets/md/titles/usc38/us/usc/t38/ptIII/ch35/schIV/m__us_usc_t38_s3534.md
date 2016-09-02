@@ -19,7 +19,7 @@
 
     (b) Any eligible spouse or surviving spouse shall be entitled to pursue a program of education exclusively by correspondence and be paid an educational assistance allowance as provided in section 3686 (other than subsection (a)(2)) of this title and the period of such spouse’s entitlement shall be charged with one month for each $788 which is paid to the spouse as an educational assistance allowance for such course.
 
-(Added [Pub. L. 92–540, title III, § 313][/us/pl/92/540/s313], Oct. 24, 1972, [86 Stat. 1084][/us/stat/86/1084], § 1734; amended [Pub. L. 94–502, title III, § 310(19)][/us/pl/94/502/s310/19], Oct. 15, 1976, [90 Stat. 2392][/us/stat/90/2392]; [Pub. L. 101–237, title IV, § 403(a)(9)][/us/pl/101/237/s403/a/9], Dec. 18, 1989, [103 Stat. 2079][/us/stat/103/2079]; renumbered § 3534 and amended [Pub. L. 102–83, § 5(a)][/us/pl/102/83/s5/a], (c)(1), Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406]; [Pub. L. 105–178, title VIII, § 8210(b)][/us/pl/105/178/s8210/b], as added [Pub. L. 105–206, title IX, § 9014(b)][/us/pl/105/206/s9014/b], July 22, 1998, [112 Stat. 866][/us/stat/112/866]; [Pub. L. 106–419, title I, § 111(b)][/us/pl/106/419/s111/b], Nov. 1, 2000, [114 Stat. 1830][/us/stat/114/1830]; [Pub. L. 107–103, title I, § 102(b)][/us/pl/107/103/s102/b], Dec. 27, 2001, [115 Stat. 978][/us/stat/115/978]; [Pub. L. 108–183, title III, § 302(b)][/us/pl/108/183/s302/b], Dec. 16, 2003, [117 Stat. 2659][/us/stat/117/2659].)
+(Added [Pub. L. 92–540, title III][/us/pl/92/540/tIII], § 313, Oct. 24, 1972, [86 Stat. 1084][/us/stat/86/1084], § 1734; amended [Pub. L. 94–502, title III][/us/pl/94/502/tIII], § 310(19), Oct. 15, 1976, [90 Stat. 2392][/us/stat/90/2392]; [Pub. L. 101–237, title IV][/us/pl/101/237/tIV], § 403(a)(9), Dec. 18, 1989, [103 Stat. 2079][/us/stat/103/2079]; renumbered § 3534 and amended [Pub. L. 102–83][/us/pl/102/83], § 5(a), (c)(1), Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406]; [Pub. L. 105–178, title VIII][/us/pl/105/178/tVIII], § 8210(b), as added [Pub. L. 105–206, title IX][/us/pl/105/206/tIX], § 9014(b), July 22, 1998, [112 Stat. 866][/us/stat/112/866]; [Pub. L. 106–419, title I][/us/pl/106/419/tI], § 111(b), Nov. 1, 2000, [114 Stat. 1830][/us/stat/114/1830]; [Pub. L. 107–103, title I][/us/pl/107/103/tI], § 102(b), Dec. 27, 2001, [115 Stat. 978][/us/stat/115/978]; [Pub. L. 108–183, title III][/us/pl/108/183/tIII], § 302(b), Dec. 16, 2003, [117 Stat. 2659][/us/stat/117/2659].)
 
  __Amendments__ 
 
@@ -29,13 +29,13 @@
 
     2000—Subsec. (b). [Pub. L. 106–419][/us/pl/106/419] substituted “$588” for “$485”.
 
-    1998—Subsec. (b). [Pub. L. 105–178, § 8210(b)][/us/pl/105/178/s8210/b], as added by [Pub. L. 105–206, § 9014(b)][/us/pl/105/206/s9014/b], substituted “$485” for “$404”.
+    1998—Subsec. (b). [Pub. L. 105–178][/us/pl/105/178], § 8210(b), as added by [Pub. L. 105–206][/us/pl/105/206], § 9014(b), substituted “$485” for “$404”.
 
-    1991—[Pub. L. 102–83, § 5(a)][/us/pl/102/83/s5/a], renumbered [section 1734 of this title][/us/usc/t38/s1734] as this section.
+    1991—[Pub. L. 102–83][/us/pl/102/83], § 5(a), renumbered [section 1734 of this title][/us/usc/t38/s1734] as this section.
 
-    Subsec. (a). [Pub. L. 102–83, § 5(c)(1)][/us/pl/102/83/s5/c/1], substituted “3687” for “1787”.
+    Subsec. (a). [Pub. L. 102–83][/us/pl/102/83], § 5(c)(1), substituted “3687” for “1787”.
 
-    Subsec. (b). [Pub. L. 102–83, § 5(c)(1)][/us/pl/102/83/s5/c/1], substituted “3686” for “1786”.
+    Subsec. (b). [Pub. L. 102–83][/us/pl/102/83], § 5(c)(1), substituted “3686” for “1786”.
 
     1989—Subsec. (b). [Pub. L. 101–237][/us/pl/101/237] substituted “1786 (other than subsection (a)(2)) of this title and the period of such spouse’s entitlement shall be charged with one month for each $404 which is paid to the spouse as an educational assistance allowance for such course” for “1786 of this title”.
 
@@ -75,32 +75,32 @@
 ----------
 
 [/us/usc/t38/s3687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3687
-[/us/pl/92/540/s313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F540%2Fs313
+[/us/pl/92/540/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F540%2FtIII
 [/us/stat/86/1084]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1084
-[/us/pl/94/502/s310/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F502%2Fs310%2F19
+[/us/pl/94/502/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F502%2FtIII
 [/us/stat/90/2392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2392
-[/us/pl/101/237/s403/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237%2Fs403%2Fa%2F9
+[/us/pl/101/237/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237%2FtIV
 [/us/stat/103/2079]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2079
-[/us/pl/102/83/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fa
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F406
-[/us/pl/105/178/s8210/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs8210%2Fb
-[/us/pl/105/206/s9014/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs9014%2Fb
+[/us/pl/105/178/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtVIII
+[/us/pl/105/206/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtIX
 [/us/stat/112/866]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F866
-[/us/pl/106/419/s111/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419%2Fs111%2Fb
+[/us/pl/106/419/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419%2FtI
 [/us/stat/114/1830]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1830
-[/us/pl/107/103/s102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F103%2Fs102%2Fb
+[/us/pl/107/103/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F103%2FtI
 [/us/stat/115/978]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F978
-[/us/pl/108/183/s302/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F183%2Fs302%2Fb
+[/us/pl/108/183/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F183%2FtIII
 [/us/stat/117/2659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2659
 [/us/pl/108/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F183
 [/us/pl/107/103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F103
 [/us/pl/106/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419
-[/us/pl/105/178/s8210/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs8210%2Fb
-[/us/pl/105/206/s9014/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs9014%2Fb
-[/us/pl/102/83/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fa
+[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
+[/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/usc/t38/s1734]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1734
-[/us/pl/102/83/s5/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fc%2F1
-[/us/pl/102/83/s5/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fc%2F1
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/pl/101/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237
 [/us/pl/94/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F502
 [/us/pl/108/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F183

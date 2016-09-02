@@ -25,7 +25,7 @@
 
         (3) The Secretary shall prescribe regulations under this subsection in consultation with the Secretary of Labor and, in prescribing such regulations, shall take into consideration the provisions of title V of the Rehabilitation Act of 1973 (29 U.S.C. ch. 16, subch. V) and [section 4212 of this title][/us/usc/t38/s4212], and regulations prescribed under such provisions.
 
-(Added [Pub. L. 96–466, title I, § 101(a)][/us/pl/96/466/s101/a], Oct. 17, 1980, [94 Stat. 2182][/us/stat/94/2182], § 1516; amended [Pub. L. 101–237, title IV, § 423(b)(1)][/us/pl/101/237/s423/b/1], Dec. 18, 1989, [103 Stat. 2092][/us/stat/103/2092]; renumbered § 3116 and amended [Pub. L. 102–83, § 5(a)][/us/pl/102/83/s5/a], (c)(1), Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406]; [Pub. L. 112–56, title II, § 232][/us/pl/112/56/s232], Nov. 21, 2011, [125 Stat. 719][/us/stat/125/719].)
+(Added [Pub. L. 96–466, title I][/us/pl/96/466/tI], § 101(a), Oct. 17, 1980, [94 Stat. 2182][/us/stat/94/2182], § 1516; amended [Pub. L. 101–237, title IV][/us/pl/101/237/tIV], § 423(b)(1), Dec. 18, 1989, [103 Stat. 2092][/us/stat/103/2092]; renumbered § 3116 and amended [Pub. L. 102–83][/us/pl/102/83], § 5(a), (c)(1), Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406]; [Pub. L. 112–56, title II][/us/pl/112/56/tII], § 232, Nov. 21, 2011, [125 Stat. 719][/us/stat/125/719].)
 
  __References in Text__ 
 
@@ -39,9 +39,9 @@
 
     2011—Subsec. (b)(1). [Pub. L. 112–56][/us/pl/112/56] struck out “who have been rehabilitated to the point of employability” after “veterans”.
 
-    1991—[Pub. L. 102–83, § 5(a)][/us/pl/102/83/s5/a], renumbered [section 1516 of this title][/us/usc/t38/s1516] as this section.
+    1991—[Pub. L. 102–83][/us/pl/102/83], § 5(a), renumbered [section 1516 of this title][/us/usc/t38/s1516] as this section.
 
-    Subsec. (b)(2), (3). [Pub. L. 102–83, § 5(c)(1)][/us/pl/102/83/s5/c/1], substituted “3687” for “1787” in par. (2) and “4212” for “2012” in par. (3).
+    Subsec. (b)(2), (3). [Pub. L. 102–83][/us/pl/102/83], § 5(c)(1), substituted “3687” for “1787” in par. (2) and “4212” for “2012” in par. (3).
 
     1989—Subsecs. (a), (b)(1), (3). [Pub. L. 101–237][/us/pl/101/237] substituted “Secretary” and “Department of Veterans Affairs” for “Administrator” and “Veterans’ Administration”, respectively, wherever appearing.
 
@@ -51,7 +51,7 @@
 
  __Coordination With Programs Under Veterans’ Job Training Act__ 
 
-[Pub. L. 99–238, title II, § 202][/us/pl/99/238/s202], Jan. 13, 1986, [99 Stat. 1768][/us/stat/99/1768], as amended by [Pub. L. 102–83][/us/pl/102/83], §§ 5(c)(2), 6(g), Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406], 408, provided that:
+[Pub. L. 99–238, title II][/us/pl/99/238/tII], § 202, Jan. 13, 1986, [99 Stat. 1768][/us/stat/99/1768], as amended by [Pub. L. 102–83][/us/pl/102/83], §§ 5(c)(2), 6(g), Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406], 408, provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -70,26 +70,26 @@
 
 [/us/usc/t38/s3687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3687
 [/us/usc/t38/s4212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs4212
-[/us/pl/96/466/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F466%2Fs101%2Fa
+[/us/pl/96/466/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F466%2FtI
 [/us/stat/94/2182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2182
-[/us/pl/101/237/s423/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237%2Fs423%2Fb%2F1
+[/us/pl/101/237/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237%2FtIV
 [/us/stat/103/2092]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2092
-[/us/pl/102/83/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fa
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F406
-[/us/pl/112/56/s232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F56%2Fs232
+[/us/pl/112/56/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F56%2FtII
 [/us/stat/125/719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F719
 [/us/pl/93/112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112
 [/us/stat/87/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F355
 [/us/usc/t29/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs701
 [/us/usc/t38/s5316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs5316
 [/us/pl/112/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F56
-[/us/pl/102/83/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fa
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/usc/t38/s1516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1516
-[/us/pl/102/83/s5/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fc%2F1
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/pl/101/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237
 [/us/pl/96/466/s802/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F466%2Fs802%2Fa%2F2
 [/us/usc/t38/s3100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3100
-[/us/pl/99/238/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F238%2Fs202
+[/us/pl/99/238/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F238%2FtII
 [/us/stat/99/1768]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1768
 [/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F406

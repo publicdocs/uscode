@@ -79,19 +79,19 @@
 
             (B) In addition to requiring the small business concern to execute the agreement described in subparagraph (A) of this paragraph, the Secretary shall, before the undertaking or suspension of the obligation, take such action and require the small business concern to take such action as the Secretary considers appropriate in the circumstances, including the provision of such security as the Secretary considers necessary or appropriate, to assure that the rights and interest of the United States and any lender will be safeguarded adequately during and after the period in which such obligation is so undertaken or suspended.
 
-(Added [Pub. L. 97–72, title III, § 302(a)][/us/pl/97/72/s302/a], Nov. 3, 1981, [95 Stat. 1055][/us/stat/95/1055], § 1842; amended [Pub. L. 99–576, title VII, § 702(10)][/us/pl/99/576/s702/10], Oct. 28, 1986, [100 Stat. 3302][/us/stat/100/3302]; [Pub. L. 101–237, title III, § 313(b)(1)][/us/pl/101/237/s313/b/1], Dec. 18, 1989, [103 Stat. 2077][/us/stat/103/2077]; renumbered § 3742 and amended [Pub. L. 102–83][/us/pl/102/83], §§ 4(a)(3), (4), 5(a), (c)(1), Aug. 6, 1991, [105 Stat. 404][/us/stat/105/404], 406.)
+(Added [Pub. L. 97–72, title III][/us/pl/97/72/tIII], § 302(a), Nov. 3, 1981, [95 Stat. 1055][/us/stat/95/1055], § 1842; amended [Pub. L. 99–576, title VII][/us/pl/99/576/tVII], § 702(10), Oct. 28, 1986, [100 Stat. 3302][/us/stat/100/3302]; [Pub. L. 101–237, title III][/us/pl/101/237/tIII], § 313(b)(1), Dec. 18, 1989, [103 Stat. 2077][/us/stat/103/2077]; renumbered § 3742 and amended [Pub. L. 102–83][/us/pl/102/83], §§ 4(a)(3), (4), 5(a), (c)(1), Aug. 6, 1991, [105 Stat. 404][/us/stat/105/404], 406.)
 
  __References in Text__ 
 
-    The Small Business Act, referred to in subsec. (d), is [Pub. L. 85–536, § 2][/us/pl/85/536/s2](1 et seq.), July 18, 1958, [72 Stat. 384][/us/stat/72/384], which is classified generally to chapter 14A (§ 631 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 631 of Title 15][/us/usc/t15/s631] and Tables.
+    The Small Business Act, referred to in subsec. (d), is [Pub. L. 85–536][/us/pl/85/536], § 2(1 et seq.), July 18, 1958, [72 Stat. 384][/us/stat/72/384], which is classified generally to chapter 14A (§ 631 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 631 of Title 15][/us/usc/t15/s631] and Tables.
 
  __Amendments__ 
 
-    1991—[Pub. L. 102–83, § 5(a)][/us/pl/102/83/s5/a], renumbered [section 1842 of this title][/us/usc/t38/s1842] as this section.
+    1991—[Pub. L. 102–83][/us/pl/102/83], § 5(a), renumbered [section 1842 of this title][/us/usc/t38/s1842] as this section.
 
-    Subsec. (b)(1). [Pub. L. 102–83, § 4(a)(3)][/us/pl/102/83/s4/a/3], (4), substituted “Department” for “Veterans’ Administration”.
+    Subsec. (b)(1). [Pub. L. 102–83][/us/pl/102/83], § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration”.
 
-    Subsec. (b)(2). [Pub. L. 102–83, § 5(c)(1)][/us/pl/102/83/s5/c/1], substituted “3745” for “1845”.
+    Subsec. (b)(2). [Pub. L. 102–83][/us/pl/102/83], § 5(c)(1), substituted “3745” for “1845”.
 
     1989—Subsecs. (a), (b), (d), (e). [Pub. L. 101–237][/us/pl/101/237] substituted “Secretary” for “Administrator” wherever appearing.
 
@@ -107,21 +107,21 @@
 [/us/usc/t38/s3745]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3745
 [/us/usc/t15/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs631
 [/us/usc/t15/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs631
-[/us/pl/97/72/s302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F72%2Fs302%2Fa
+[/us/pl/97/72/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F72%2FtIII
 [/us/stat/95/1055]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1055
-[/us/pl/99/576/s702/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2Fs702%2F10
+[/us/pl/99/576/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576%2FtVII
 [/us/stat/100/3302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3302
-[/us/pl/101/237/s313/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237%2Fs313%2Fb%2F1
+[/us/pl/101/237/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237%2FtIII
 [/us/stat/103/2077]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2077
 [/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F404
-[/us/pl/85/536/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F536%2Fs2
+[/us/pl/85/536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F536
 [/us/stat/72/384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F384
 [/us/usc/t15/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs631
-[/us/pl/102/83/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fa
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/usc/t38/s1842]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1842
-[/us/pl/102/83/s4/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fa%2F3
-[/us/pl/102/83/s5/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fc%2F1
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/pl/101/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237
 [/us/pl/99/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F576
 

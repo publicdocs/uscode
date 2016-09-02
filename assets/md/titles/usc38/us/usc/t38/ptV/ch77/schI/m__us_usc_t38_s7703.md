@@ -27,7 +27,7 @@
 
     (5) Outreach programs and other veterans’ services programs.
 
-(Added [Pub. L. 102–83, § 2(b)][/us/pl/102/83/s2/b], Aug. 6, 1991, [105 Stat. 399][/us/stat/105/399].)
+(Added [Pub. L. 102–83][/us/pl/102/83], § 2(b), Aug. 6, 1991, [105 Stat. 399][/us/stat/105/399].)
 
 ----------
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/102/83/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs2%2Fb
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F399
 
 

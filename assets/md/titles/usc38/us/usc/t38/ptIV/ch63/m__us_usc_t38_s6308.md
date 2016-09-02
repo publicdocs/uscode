@@ -27,7 +27,7 @@
 
         (2) Recommendations for the improvement or more effective administration of the outreach activities of the Department.
 
-(Added [Pub. L. 109–233, title IV, § 402(a)][/us/pl/109/233/s402/a], June 15, 2006, [120 Stat. 410][/us/stat/120/410].)
+(Added [Pub. L. 109–233, title IV][/us/pl/109/233/tIV], § 402(a), June 15, 2006, [120 Stat. 410][/us/stat/120/410].)
 
  __Prior Provisions__ 
 
@@ -41,7 +41,7 @@
 ----------
 
 [/us/usc/t38/s6302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs6302
-[/us/pl/109/233/s402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F233%2Fs402%2Fa
+[/us/pl/109/233/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F233%2FtIV
 [/us/stat/120/410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F410
 [/us/usc/t38/s7726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7726
 [/us/pl/109/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F233

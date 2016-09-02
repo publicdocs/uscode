@@ -59,7 +59,7 @@
 
     Amounts under paragraphs (1), (2)(A), (3)(A), and (4)(A) of subsection (c) shall be subject to adjustment from time to time under [section 5312 of this title][/us/usc/t38/s5312].
 
-(Added [Pub. L. 106–419, title IV, § 401(a)][/us/pl/106/419/s401/a], Nov. 1, 2000, [114 Stat. 1858][/us/stat/114/1858].)
+(Added [Pub. L. 106–419, title IV][/us/pl/106/419/tIV], § 401(a), Nov. 1, 2000, [114 Stat. 1858][/us/stat/114/1858].)
 
  __Prior Provisions__ 
 
@@ -76,7 +76,7 @@
 [/us/usc/t38/s1805/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1805%2Fb%2F3
 [/us/usc/t38/s1805/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1805%2Fb%2F3
 [/us/usc/t38/s5312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs5312
-[/us/pl/106/419/s401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419%2Fs401%2Fa
+[/us/pl/106/419/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419%2FtIV
 [/us/stat/114/1858]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1858
 [/us/usc/t38/s3703/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3703%2Fa%2F2
 

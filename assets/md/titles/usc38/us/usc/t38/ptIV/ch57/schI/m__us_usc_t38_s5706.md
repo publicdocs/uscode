@@ -87,17 +87,17 @@
 
     This section shall not be construed to affect identification cards otherwise provided by the Secretary to veterans enrolled in the health care system established under [section 1705(a) of this title][/us/usc/t38/s1705/a].
 
-(Added [Pub. L. 114–31, § 2(b)][/us/pl/114/31/s2/b], July 20, 2015, [129 Stat. 428][/us/stat/129/428].)
+(Added [Pub. L. 114–31][/us/pl/114/31], § 2(b), July 20, 2015, [129 Stat. 428][/us/stat/129/428].)
 
  __Effective Date__ 
 
-[Pub. L. 114–31, § 2(d)][/us/pl/114/31/s2/d], July 20, 2015, [129 Stat. 430][/us/stat/129/430], provided that: 
+[Pub. L. 114–31][/us/pl/114/31], § 2(d), July 20, 2015, [129 Stat. 430][/us/stat/129/430], provided that: 
 
 > “The amendments made by this Act \[enacting this section\] shall take effect on the date that is 60 days after the date of the enactment of this Act \[July 20, 2015\].”
 
  __Veterans Identification Card; Findings__ 
 
-[Pub. L. 114–31, § 2(a)][/us/pl/114/31/s2/a], July 20, 2015, [129 Stat. 428][/us/stat/129/428], provided that:
+[Pub. L. 114–31][/us/pl/114/31], § 2(a), July 20, 2015, [129 Stat. 428][/us/stat/129/428], provided that:
 
 >     “Congress makes the following findings:
 
@@ -119,11 +119,11 @@
 ----------
 
 [/us/usc/t38/s1705/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1705%2Fa
-[/us/pl/114/31/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F31%2Fs2%2Fb
+[/us/pl/114/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F31
 [/us/stat/129/428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F428
-[/us/pl/114/31/s2/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F31%2Fs2%2Fd
+[/us/pl/114/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F31
 [/us/stat/129/430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F430
-[/us/pl/114/31/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F31%2Fs2%2Fa
+[/us/pl/114/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F31
 [/us/stat/129/428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F428
 
 
