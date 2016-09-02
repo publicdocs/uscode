@@ -67,7 +67,7 @@
 
             (A) operating the Federal information security incident center established under section 3556;
 
-            (B) upon request by an agency, deploying technology to assist the agency to continuously diagnose and mitigate against cyber threats and vulnerabilities, with or without reimbursement;
+            (B) upon request by an agency, deploying, operating, and maintaining technology to assist the agency to continuously diagnose and mitigate against cyber threats and vulnerabilities, with or without reimbursement;
 
             (C) compiling and analyzing data on agency information security; and
 
@@ -123,11 +123,125 @@
 
     To ensure fiscal and policy consistency, the Secretary shall exercise the authority under this section subject to direction by the President, in coordination with the Director.
 
-(Added [Pub. L. 113–283, § 2(a)][/us/pl/113/283/s2/a], Dec. 18, 2014, [128 Stat. 3075][/us/stat/128/3075].)
+    (h) __Direction to Agencies.—__ 
+
+        (1) __Authority.—__ 
+
+            (A)  __In general__  __.—__ 
+
+            Subject to subparagraph (B), in response to a known or reasonably suspected information security threat, vulnerability, or incident that represents a substantial threat to the information security of an agency, the Secretary may issue an emergency directive to the head of an agency to take any lawful action with respect to the operation of the information system, including such systems used or operated by another entity on behalf of an agency, that collects, processes, stores, transmits, disseminates, or otherwise maintains agency information, for the purpose of protecting the information system from, or mitigating, an information security threat.
+
+            (B)  __Exception__  __.—__ 
+
+            The authorities of the Secretary under this subsection shall not apply to a system described subsection (d) or to a system described in paragraph (2) or (3) of subsection (e).
+
+        (2)  __Procedures for use of authority__  __.—__ 
+
+        The Secretary shall—
+
+            (A)
+
+             in coordination with the Director, and in consultation with Federal contractors as appropriate, establish procedures governing the circumstances under which a directive may be issued under this subsection, which shall include—
+
+                (i) thresholds and other criteria;
+
+                (ii) privacy and civil liberties protections; and
+
+                (iii) providing notice to potentially affected third parties;
+
+            (B) specify the reasons for the required action and the duration of the directive;
+
+            (C)
+
+             minimize the impact of a directive under this subsection by—
+
+                (i) adopting the least intrusive means possible under the circumstances to secure the agency information systems; and
+
+                (ii) limiting directives to the shortest period practicable;
+
+            (D) notify the Director and the head of any affected agency immediately upon the issuance of a directive under this subsection;
+
+            (E) consult with the Director of the National Institute of Standards and Technology regarding any directive under this subsection that implements standards and guidelines developed by the National Institute of Standards and Technology;
+
+            (F) ensure that directives issued under this subsection do not conflict with the standards and guidelines issued under [section 11331 of title 40][/us/usc/t40/s11331];
+
+            (G) consider any applicable standards or guidelines developed by the National Institute of Standards and Technology issued by the Secretary of Commerce under [section 11331 of title 40][/us/usc/t40/s11331]; and
+
+            (H) not later than February 1 of each year, submit to the appropriate congressional committees a report regarding the specific actions the Secretary has taken pursuant to paragraph (1)(A).
+
+        (3) __Imminent threats.—__ 
+
+            (A)  __In general__  __.—__ 
+
+            Notwithstanding section 3554, the Secretary may authorize the use under this subsection of the intrusion detection and prevention capabilities established under section 230(b)(1) of the Homeland Security Act of 2002 for the purpose of ensuring the security of agency information systems, if—
+
+                (i) the Secretary determines there is an imminent threat to agency information systems;
+
+                (ii) the Secretary determines a directive under subsection (b)(2)(C) or paragraph (1)(A) is not reasonably likely to result in a timely response to the threat;
+
+                (iii) the Secretary determines the risk posed by the imminent threat outweighs any adverse consequences reasonably expected to result from the use of the intrusion detection and prevention capabilities under the control of the Secretary;
+
+                (iv)
+
+                 the Secretary provides prior notice to the Director, and the head and chief information officer (or equivalent official) of each agency to which specific actions will be taken pursuant to this paragraph, and notifies the appropriate congressional committees and authorizing committees of each such agency within 7 days of taking an action under this paragraph of—
+
+                    (I) any action taken under this paragraph; and
+
+                    (II) the reasons for and duration and nature of the action;
+
+                (v) the action of the Secretary is consistent with applicable law; and
+
+                (vi) the Secretary authorizes the use of the intrusion detection and prevention capabilities in accordance with the advance procedures established under subparagraph (C).
+
+            (B)  __Limitation on delegation__  __.—__ 
+
+            The authority under this paragraph may not be delegated by the Secretary.
+
+            (C)  __Advance procedures__  __.—__ 
+
+            The Secretary shall, in coordination with the Director, and in consultation with the heads of Federal agencies, establish procedures governing the circumstances under which the Secretary may authorize the use of the intrusion detection and prevention capabilities under subparagraph (A). The Secretary shall submit the procedures to Congress.
+
+        (4)  __Limitation__  __.—__ 
+
+        The Secretary may direct or authorize lawful action or the use of the intrusion detection and prevention capabilities under this subsection only to—
+
+            (A) protect agency information from unauthorized access, use, disclosure, disruption, modification, or destruction; or
+
+            (B)
+
+             require the remediation of or protect against identified information security risks with respect to—
+
+                (i) information collected or maintained by or on behalf of an agency; or
+
+                (ii) that portion of an information system used or operated by an agency or by a contractor of an agency or other organization on behalf of an agency.
+
+    (i)  __Annual Report to Congress__  __.—__ 
+
+    Not later than February 1 of each year, the Director and the Secretary shall submit to the appropriate congressional committees a report regarding the specific actions the Director and the Secretary have taken pursuant to subsection (a)(5), including any actions taken pursuant to [section 11303(b)(5) of title 40][/us/usc/t40/s11303/b/5].
+
+    (j)  __Appropriate Congressional Committees Defined__  __.—__ 
+
+    In this section, the term “appropriate congressional committees” means—
+
+        (1) the Committee on Appropriations and the Committee on Homeland Security and Governmental Affairs of the Senate; and
+
+        (2) the Committee on Appropriations, the Committee on Homeland Security, the Committee on Oversight and Government Reform, and the Committee on Science, Space, and Technology of the House of Representatives.
+
+(Added [Pub. L. 113–283, § 2(a)][/us/pl/113/283/s2/a], Dec. 18, 2014, [128 Stat. 3075][/us/stat/128/3075]; amended [Pub. L. 114–113, div. N, title II][/us/pl/114/113], §§ 224(e), 229(a), Dec. 18, 2015, [129 Stat. 2967][/us/stat/129/2967], 2972.)
+
+ __References in Text__ 
+
+    Section 230(b)(1) of the Homeland Security Act of 2002, referred to in subsec. (h)(3)(A), is [section 230(b)(1) of title II of Pub. L. 107–296][/us/pl/107/296/s230/b/1], as added by [Pub. L. 114–113, div. N, title II, § 223(a)(6)][/us/pl/114/113/s223/a/6], Dec. 18, 2015, [129 Stat. 2964][/us/stat/129/2964], which is classified to [section 151(b)(1) of Title 6][/us/usc/t6/s151/b/1], Domestic Security.
 
  __Prior Provisions__ 
 
     Provisions similar to this section were contained in sections 3533 and 3543 of this title prior to repeal by [Pub. L. 113–283][/us/pl/113/283].
+
+ __Amendments__ 
+
+    2015—Subsec. (b)(6)(B). [Pub. L. 114–113, § 224(e)][/us/pl/114/113/s224/e], inserted “, operating, and maintaining” after “deploying”.
+
+    Subsecs. (h) to (j). [Pub. L. 114–113, § 229(a)][/us/pl/114/113/s229/a], added subsecs. (h) to (j).
 
  __Breaches__ 
 
@@ -200,9 +314,20 @@
 [/us/usc/t40/s11331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs11331
 [/us/usc/t40/s11331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs11331
 [/us/usc/t40/s11331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs11331
+[/us/usc/t40/s11331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs11331
+[/us/usc/t40/s11331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs11331
+[/us/usc/t40/s11303/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs11303%2Fb%2F5
 [/us/pl/113/283/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F283%2Fs2%2Fa
 [/us/stat/128/3075]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3075
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
+[/us/stat/129/2967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2967
+[/us/pl/107/296/s230/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs230%2Fb%2F1
+[/us/pl/114/113/s223/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs223%2Fa%2F6
+[/us/stat/129/2964]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2964
+[/us/usc/t6/s151/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs151%2Fb%2F1
 [/us/pl/113/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F283
+[/us/pl/114/113/s224/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs224%2Fe
+[/us/pl/114/113/s229/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs229%2Fa
 [/us/pl/113/283/s2/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F283%2Fs2%2Fd
 [/us/stat/128/3085]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3085
 [/us/usc/t44/s3554/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3554%2Fc%2F1

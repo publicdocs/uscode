@@ -39,9 +39,11 @@
 
                 (ii) operational directives developed by the Secretary under section 3553(b);
 
-                (iii) policies and procedures issued by the Director; and
+                (iii) policies and procedures issued by the Director;
 
                 (iv) information security standards and guidelines for national security systems issued in accordance with law and as directed by the President; and
+
+                (v) emergency directives issued by the Secretary under section 3553(h); and
 
             (C) ensuring that information security management processes are integrated with agency strategic, operational, and budgetary planning processes;
 
@@ -239,11 +241,15 @@
 
     Each agency shall provide the public with timely notice and opportunities for comment on proposed information security policies and procedures to the extent that such policies and procedures affect communication with the public.
 
-(Added [Pub. L. 113–283, § 2(a)][/us/pl/113/283/s2/a], Dec. 18, 2014, [128 Stat. 3078][/us/stat/128/3078].)
+(Added [Pub. L. 113–283, § 2(a)][/us/pl/113/283/s2/a], Dec. 18, 2014, [128 Stat. 3078][/us/stat/128/3078]; amended [Pub. L. 114–113, div. N, title II, § 229(b)][/us/pl/114/113/s229/b], Dec. 18, 2015, [129 Stat. 2974][/us/stat/129/2974].)
 
  __Prior Provisions__ 
 
     Provisions similar to this section were contained in sections 3534 and 3544 of this title prior to repeal by [Pub. L. 113–283][/us/pl/113/283].
+
+ __Amendments__ 
+
+    2015—Subsec. (a)(1)(B)(v). [Pub. L. 114–113][/us/pl/114/113] added cl. (v).
 
  __Major Incident__ 
 
@@ -272,7 +278,10 @@
 [/us/usc/t31/s1115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1115
 [/us/pl/113/283/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F283%2Fs2%2Fa
 [/us/stat/128/3078]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3078
+[/us/pl/114/113/s229/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs229%2Fb
+[/us/stat/129/2974]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2974
 [/us/pl/113/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F283
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
 [/us/pl/113/283/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F283%2Fs2%2Fb
 [/us/stat/128/3085]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3085
 [/us/usc/t44/s3554/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3554%2Fb
