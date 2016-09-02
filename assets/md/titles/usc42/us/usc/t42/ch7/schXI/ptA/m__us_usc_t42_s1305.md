@@ -21,6 +21,10 @@
 
  __Short Title of 2015 Amendment__ 
 
+[Pub. L. 114–63, § 1][/us/pl/114/63/s1], Oct. 7, 2015, [129 Stat. 549][/us/stat/129/549], provided that: 
+
+> “This Act \[enacting and repealing provisions set out as notes under [section 1382a of this title][/us/usc/t42/s1382a]\] may be cited as the ‘Ensuring Access to Clinical Trials Act of 2015’.”
+
 [Pub. L. 114–42, § 1][/us/pl/114/42/s1], Aug. 6, 2015, [129 Stat. 468][/us/stat/129/468], provided that: 
 
 > “This Act \[amending [section 1395cc of this title][/us/usc/t42/s1395cc]\] may be cited as the ‘Notice of Observation Treatment and Implication for Care Eligibility Act’ or the ‘NOTICE Act’.”
@@ -110,8 +114,6 @@
 [Pub. L. 111–255, § 1][/us/pl/111/255/s1], Oct. 5, 2010, [124 Stat. 2640][/us/stat/124/2640], provided that: 
 
 > “This Act \[amending sections 1382a, 1382b, and 1396a of this title, enacting provisions set out as notes under [section 1382a of this title][/us/usc/t42/s1382a], and amending provisions set out as notes under sections 1382a, 1382b, and 1396a of this title\] may be cited as the ‘Improving Access to Clinical Trials Act of 2009’.”
-
-    \[[Section 1 of Pub. L. 111–255][/us/pl/111/255/s1], set out above, repealed on the date that is 5 years after Oct. 5, 2010, see [section 3(e) of Pub. L. 111–255][/us/pl/111/255/s3/e], set out as an Effective and Termination Dates of 2010 Amendment note under [section 1382a of this title][/us/usc/t42/s1382a].\]
 
 [Pub. L. 111–152, § 1(a)][/us/pl/111/152/s1/a], Mar. 30, 2010, [124 Stat. 1029][/us/stat/124/1029], provided that: 
 
@@ -556,6 +558,9 @@
 
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/648]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F648
+[/us/pl/114/63/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F63%2Fs1
+[/us/stat/129/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F549
+[/us/usc/t42/s1382a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1382a
 [/us/pl/114/42/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F42%2Fs1
 [/us/stat/129/468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F468
 [/us/usc/t42/s1395cc]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395cc
@@ -620,9 +625,6 @@
 [/us/usc/t42/s1320b–20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320b%E2%80%9320
 [/us/pl/111/255/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F255%2Fs1
 [/us/stat/124/2640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2640
-[/us/usc/t42/s1382a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1382a
-[/us/pl/111/255/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F255%2Fs1
-[/us/pl/111/255/s3/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F255%2Fs3%2Fe
 [/us/usc/t42/s1382a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1382a
 [/us/pl/111/152/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs1%2Fa
 [/us/stat/124/1029]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1029

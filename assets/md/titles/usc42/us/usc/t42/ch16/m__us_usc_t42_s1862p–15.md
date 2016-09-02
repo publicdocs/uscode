@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t42/ch16/m__us_usc_t42_s1862p–14.md) | [Next](./../../../..//us/usc/t42/ch16/m__us_usc_t42_s1863.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1862p%E2%80%9315)
+[Previous](./../../../..//us/usc/t42/ch16/m__us_usc_t42_s1862p–14.md) | [Next](./../../../..//us/usc/t42/ch16/m__us_usc_t42_s1862q.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1862p%E2%80%9315)
 
 ## § 1862p–15. Twenty-first century graduate education
 
@@ -83,7 +83,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t42/ch16/m__us_usc_t42_s1862p–14.md) | [Next](./../../../..//us/usc/t42/ch16/m__us_usc_t42_s1863.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1862p%E2%80%9315)
+[Previous](./../../../..//us/usc/t42/ch16/m__us_usc_t42_s1862p–14.md) | [Next](./../../../..//us/usc/t42/ch16/m__us_usc_t42_s1862q.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1862p%E2%80%9315)
 
 ----------
 ----------

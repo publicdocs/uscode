@@ -69,6 +69,12 @@
 
     Section was enacted as part of the America COMPETES Reauthorization Act of 2010, also known as the America Creating Opportunities to Meaningfully Promote Excellence in Technology, Education, and Science Reauthorization Act of 2010, and not as part of the National Science and Technology Policy, Organization, and Priorities Act of 1976 which comprises this chapter.
 
+ __Definition of STEM Education__ 
+
+[Pub. L. 114–59, § 2][/us/pl/114/59/s2], Oct. 7, 2015, [129 Stat. 540][/us/stat/129/540], provided that: 
+
+> “For purposes of carrying out STEM education activities at the National Science Foundation, the Department of Energy, the National Aeronautics and Space Administration, the National Oceanic and Atmospheric Administration, the National Institute of Standards and Technology, and the Environmental Protection Agency, the term ‘STEM education’ means education in the subjects of science, technology, engineering, and mathematics, including computer science.”
+
  __Definitions__ 
 
 [Pub. L. 111–358, § 2][/us/pl/111/358/s2], Jan. 4, 2011, [124 Stat. 3984][/us/stat/124/3984], provided that: 
@@ -93,6 +99,8 @@
 [/us/usc/t42/s7381j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7381j
 [/us/pl/111/358/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358%2Fs101
 [/us/stat/124/3984]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3984
+[/us/pl/114/59/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F59%2Fs2
+[/us/stat/129/540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F540
 [/us/pl/111/358/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358%2Fs2
 [/us/stat/124/3984]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3984
 [/us/usc/t15/s3719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3719

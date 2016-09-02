@@ -33,7 +33,7 @@
 
             (A) science, technology, engineering, or mathematics professionals, including retiring professionals in those fields, who shall be referred to as “National Science Foundation Teaching Fellows” and who, in the first year of the fellowship, are enrolled in a master’s degree program leading to teacher certification or licensing; and
 
-            (B) mathematics and science teachers, who shall be referred to as “National Science Foundation Master Teaching Fellows” and who possess a master’s degree in their field.
+            (B) mathematics and science teachers, who shall be referred to as “National Science Foundation Master Teaching Fellows” and who possess a master’s or bachelor’s degree in their field.
 
     (b) __Eligibility__ 
 
@@ -63,13 +63,21 @@
 
             (A) offering academic courses and clinical teaching experiences leading to a master’s degree and designed to prepare individuals to teach in elementary schools and secondary schools, including such preparation as is necessary to meet the requirements for certification or licensing; and
 
-            (B) offering programs both during and after matriculation in the program for which the fellowship is received to enable fellows to become highly effective mathematics and science teachers, including mentoring, training, induction, and professional development activities, to fulfill the service requirements of this section, including the requirements of subsection (e), and to exchange ideas with others in their fields; and
+            (B) offering programs both during and after matriculation in the program for which the fellowship is received to enable fellows to become highly effective mathematics and science teachers, including mentoring, training, induction, and professional development activities, to fulfill the service requirements of this section, including the requirements of subsection (e), and to exchange ideas with others in their fields;
 
         (3)
 
-         in the case of National Science Foundation Master Teaching Fellowships—
+         in the case of National Science Foundation Master Teaching Fellowships for teachers with master’s degrees in their field—
 
             (A) offering academic courses and leadership training to prepare individuals to become master teachers in elementary schools and secondary schools; and
+
+            (B) offering programs both during and after matriculation in the program for which the fellowship is received to enable fellows to become highly effective mathematics and science teachers, including mentoring, training, induction, and professional development activities, to fulfill the service requirements of this section, including the requirements of subsection (e), and to exchange ideas with others in their fields; and
+
+        (4)
+
+         in the case of National Science Foundation Master Teaching Fellowships for teachers with bachelor’s degrees in their field and working toward a master’s degree—
+
+            (A) offering academic courses leading to a master’s degree and leadership training to prepare individuals to become master teachers in elementary and secondary schools; and
 
             (B) offering programs both during and after matriculation in the program for which the fellowship is received to enable fellows to become highly effective mathematics and science teachers, including mentoring, training, induction, and professional development activities, to fulfill the service requirements of this section, including the requirements of subsection (e), and to exchange ideas with others in their fields.
 
@@ -145,13 +153,13 @@
 
     (e) __Duties of National Science Foundation Teaching Fellows and Master Teaching Fellows__ 
 
-        A National Science Foundation Teaching Fellow or a National Science Foundation Master Teaching Fellow, while fulfilling the service obligation under subsection (g) and in addition to regular classroom activities, shall take on a leadership role within the school or local educational agency in which the fellow is employed, as defined by the partnership according to such fellow’s expertise, including serving as a mentor or master teacher, developing curricula, and assisting in the development and implementation of professional development activities.
+        A National Science Foundation Teaching Fellow or a National Science Foundation Master Teaching Fellow, while fulfilling the service obligation under subsection (h) and in addition to regular classroom activities, shall take on a leadership role within the school or local educational agency in which the fellow is employed, as defined by the partnership according to such fellow’s expertise, including serving as a mentor or master teacher, developing curricula, and assisting in the development and implementation of professional development activities.
 
     (f) __Teaching fellowship salary supplements__ 
 
         (1) __In general__ 
 
-            An eligible entity receiving a grant under this section shall provide salary supplements to individuals who participate in the program under this section during the period of their service obligation under subsection (g). A local educational agency through which the service obligation is fulfilled shall agree not to reduce the base salary normally paid to an individual solely because such individual receives a salary supplement under this subsection.
+            An eligible entity receiving a grant under this section shall provide salary supplements to individuals who participate in the program under this section during the period of their service obligation under subsection (h). A local educational agency through which the service obligation is fulfilled shall agree not to reduce the base salary normally paid to an individual solely because such individual receives a salary supplement under this subsection.
 
         (2) __Amount and duration__ 
 
@@ -165,9 +173,13 @@
 
             (C) __Duration of support__ 
 
-                An eligible entity receiving a grant under this section shall provide teaching fellowship salary supplements through the period of the fellow’s service obligation under subsection (g).
+                An eligible entity receiving a grant under this section shall provide teaching fellowship salary supplements through the period of the fellow’s service obligation under subsection (h).
 
-    (g) __Service obligation__ 
+    (g) __Support for Master Teaching Fellows while enrolled in a master’s degree program__ 
+
+        A National Science Foundation Master Teacher Fellow may receive a maximum of 1 year of fellowship support while enrolled in a master’s degree program as described in subsection (c)(4)(A), except that if such fellow is enrolled in a part-time program, such amount shall be prorated according to the length of the program.
+
+    (h) __Service obligation__ 
 
     An individual awarded a fellowship under this section shall serve as a mathematics or science teacher in an elementary school or secondary school served by a high need local educational agency for—
 
@@ -175,7 +187,7 @@
 
         (2) in the case of a National Science Foundation Master Teaching Fellow, 5 years, to be fulfilled within 7 years of the start of participation in the program under subsection (c)(3).
 
-    (h) __Matching requirement__ 
+    (i) __Matching requirement__ 
 
         (1) __In general__ 
 
@@ -189,7 +201,7 @@
 
             The Director may waive all or part of the matching requirement described in paragraph (1) for any fiscal year for an eligible entity receiving a grant under this section, if the Director determines that applying the matching requirement would result in serious hardship or inability to carry out the authorized activities described in this section.
 
-    (i) __Conditions of support; collection for noncompliance; failure to complete service obligation; data collection__ 
+    (j) __Conditions of support; collection for noncompliance; failure to complete service obligation; data collection__ 
 
         (1) __In general__ 
 
@@ -203,7 +215,7 @@
 
             (B) for a National Science Foundation Master Teaching Fellow, the total amount of teaching fellowship salary supplements received by the individual under this section, reduced by one-half, shall be repaid or such amount shall be treated as a loan to be repaid in accordance with [section 1862n–1(g)(1)(C) of this title][/us/usc/t42/s1862n–1/g/1/C].
 
-([Pub. L. 107–368, § 10A][/us/pl/107/368/s10A], as added [Pub. L. 110–69, title VII, § 7030][/us/pl/110/69/s7030], Aug. 9, 2007, [121 Stat. 705][/us/stat/121/705]; amended [Pub. L. 111–358, title V, § 511][/us/pl/111/358/s511], Jan. 4, 2011, [124 Stat. 4010][/us/stat/124/4010].)
+([Pub. L. 107–368, § 10A][/us/pl/107/368/s10A], as added [Pub. L. 110–69, title VII, § 7030][/us/pl/110/69/s7030], Aug. 9, 2007, [121 Stat. 705][/us/stat/121/705]; amended [Pub. L. 111–358, title V, § 511][/us/pl/111/358/s511], Jan. 4, 2011, [124 Stat. 4010][/us/stat/124/4010]; [Pub. L. 114–59, § 4(a)][/us/pl/114/59/s4/a], Oct. 7, 2015, [129 Stat. 540][/us/stat/129/540].)
 
  __Codification__ 
 
@@ -212,6 +224,16 @@
     Section was enacted as part of the National Science Foundation Authorization Act of 2002, and not as part of the National Science Foundation Act of 1950 which comprises this chapter.
 
  __Amendments__ 
+
+    2015—Subsec. (a)(2)(B). [Pub. L. 114–59, § 4(a)(1)][/us/pl/114/59/s4/a/1], inserted “or bachelor’s” after “master’s”.
+
+    Subsec. (c)(3). [Pub. L. 114–59, § 4(a)(2)(B)(i)][/us/pl/114/59/s4/a/2/B/i], inserted “for teachers with master’s degrees in their field” after “Teaching Fellowships” in introductory provisions.
+
+    Subsec. (c)(4). [Pub. L. 114–59, § 4(a)(2)(A)][/us/pl/114/59/s4/a/2/A], (B)(ii), (C), added par. (4).
+
+    Subsecs. (e), (f). [Pub. L. 114–59, § 4(a)(3)][/us/pl/114/59/s4/a/3], substituted “subsection (h)” for “subsection (g)” wherever appearing.
+
+    Subsecs. (g) to (j). [Pub. L. 114–59, § 4(a)(4)][/us/pl/114/59/s4/a/4], (5), added subsec. (g) and redesignated former subsecs. (g) to (i) as (h) to (j), respectively.
 
     2011—Subsec. (a)(2)(A). [Pub. L. 111–358, § 511(b)][/us/pl/111/358/s511/b], inserted “including retiring professionals in those fields,” after “mathematics professionals,”.
 
@@ -237,9 +259,16 @@
 [/us/stat/121/705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F705
 [/us/pl/111/358/s511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358%2Fs511
 [/us/stat/124/4010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4010
+[/us/pl/114/59/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F59%2Fs4%2Fa
+[/us/stat/129/540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F540
 [/us/pl/110/69/s7030]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2Fs7030
 [/us/usc/t42/s1862n–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1862n%E2%80%931
 [/us/usc/t42/s1862n–1a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1862n%E2%80%931a
+[/us/pl/114/59/s4/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F59%2Fs4%2Fa%2F1
+[/us/pl/114/59/s4/a/2/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F59%2Fs4%2Fa%2F2%2FB%2Fi
+[/us/pl/114/59/s4/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F59%2Fs4%2Fa%2F2%2FA
+[/us/pl/114/59/s4/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F59%2Fs4%2Fa%2F3
+[/us/pl/114/59/s4/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F59%2Fs4%2Fa%2F4
 [/us/pl/111/358/s511/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358%2Fs511%2Fb
 [/us/pl/111/358/s511/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358%2Fs511%2Fa
 

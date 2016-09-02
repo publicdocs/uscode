@@ -257,7 +257,7 @@
 
         (4) the term “high need local educational agency” has the meaning given such term in section 201 of the Higher Education Act of 1965 ([20 U.S.C. 1021][/us/usc/t20/s1021]);
 
-        (5) the term “mathematics and science teacher” means a science, technology, engineering, or mathematics teacher at the elementary school or secondary school level;
+        (5) the term “mathematics and science teacher” means a science, computer science, technology, engineering, or mathematics teacher at the elementary school or secondary school level;
 
         (6) the term “scholarship” means an award under subsection (c);
 
@@ -283,7 +283,7 @@
 
         Not less than 2 years after August 9, 2007, the Director, in consultation with the Secretary of Education, shall conduct an evaluation to determine whether the scholarships, stipends, and fellowships authorized under this section and [section 1862n–1a of this title][/us/usc/t42/s1862n–1a] have been effective in increasing the numbers of high-quality mathematics and science teachers teaching in high need local educational agencies and whether there continue to exist significant shortages of such teachers in high need local educational agencies.
 
-([Pub. L. 107–368, § 10][/us/pl/107/368/s10], Dec. 19, 2002, [116 Stat. 3049][/us/stat/116/3049]; [Pub. L. 110–69, title VII, § 7030][/us/pl/110/69/s7030], Aug. 9, 2007, [121 Stat. 698][/us/stat/121/698].)
+([Pub. L. 107–368, § 10][/us/pl/107/368/s10], Dec. 19, 2002, [116 Stat. 3049][/us/stat/116/3049]; [Pub. L. 110–69, title VII, § 7030][/us/pl/110/69/s7030], Aug. 9, 2007, [121 Stat. 698][/us/stat/121/698]; [Pub. L. 114–59, § 4(b)][/us/pl/114/59/s4/b], Oct. 7, 2015, [129 Stat. 541][/us/stat/129/541].)
 
  __References in Text__ 
 
@@ -296,6 +296,8 @@
     Section was enacted as part of the National Science Foundation Authorization Act of 2002, and not as part of the National Science Foundation Act of 1950 which comprises this chapter.
 
  __Amendments__ 
+
+    2015—Subsec. (i)(5). [Pub. L. 114–59][/us/pl/114/59] inserted “computer science,” after “means a science,”.
 
     2007—[Pub. L. 110–69][/us/pl/110/69] amended section generally, substituting provisions relating to the Robert Noyce Teacher Scholarship Program, consisting of subsecs. (a) to (l), for former provisions relating to the Robert Noyce Scholarship Program, consisting of subsecs. (a) to (i). See Codification note above.
 
@@ -329,12 +331,15 @@
 [/us/stat/116/3049]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F3049
 [/us/pl/110/69/s7030]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2Fs7030
 [/us/stat/121/698]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F698
+[/us/pl/114/59/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F59%2Fs4%2Fb
+[/us/stat/129/541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F541
 [/us/pl/89/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329
 [/us/stat/79/1219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1219
 [/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001
 [/us/pl/110/69/s7030]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2Fs7030
 [/us/usc/t42/s1862n–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1862n%E2%80%931
 [/us/usc/t42/s1862n–1a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1862n%E2%80%931a
+[/us/pl/114/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F59
 [/us/pl/110/69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69
 [/us/pl/107/368/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F368%2Fs4
 [/us/usc/t42/s1862n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1862n

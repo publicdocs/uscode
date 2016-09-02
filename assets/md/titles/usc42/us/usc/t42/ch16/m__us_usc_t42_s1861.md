@@ -19,6 +19,12 @@
 
 ([May 10, 1950, ch. 171, § 2][/us/act/1950-05-10/ch171/s2], [64 Stat. 149][/us/stat/64/149].)
 
+ __Short Title of 2015 Amendment__ 
+
+[Pub. L. 114–59, § 1][/us/pl/114/59/s1], Oct. 7, 2015, [129 Stat. 540][/us/stat/129/540], provided that: 
+
+> “This Act \[enacting [section 1862q of this title][/us/usc/t42/s1862q], amending sections 1862n–1 and 1862n–1a of this title, and enacting provisions set out as a note under [section 6621 of this title][/us/usc/t42/s6621]\] may be cited as the ‘STEM Education Act of 2015’.”
+
  __Short Title of 2011 Amendment__ 
 
 [Pub. L. 111–358, § 1(a)][/us/pl/111/358/s1/a], Jan. 4, 2011, [124 Stat. 3982][/us/stat/124/3982], provided that: 
@@ -252,6 +258,10 @@
 
 [/us/act/1950-05-10/ch171/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-05-10%2Fch171%2Fs2
 [/us/stat/64/149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F149
+[/us/pl/114/59/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F59%2Fs1
+[/us/stat/129/540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F540
+[/us/usc/t42/s1862q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1862q
+[/us/usc/t42/s6621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6621
 [/us/pl/111/358/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358%2Fs1%2Fa
 [/us/stat/124/3982]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3982
 [/us/pl/111/358/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358%2Fs501

@@ -1733,8 +1733,6 @@
 
  __Amendment of Subsection (a)__ 
 
-    For repeal of amendment by [section 3(e) of Pub. L. 111–255][/us/pl/111/255/s3/e], see Effective and Termination Dates of 2010 Amendment note below.
-
 [Pub. L. 113–67, div. A, title II, § 202(a)][/us/pl/113/67/s202/a], (b)(1), (c), Dec. 26, 2013, [127 Stat. 1177][/us/stat/127/1177], as amended by [Pub. L. 113–93, title II, § 211][/us/pl/113/93/s211], Apr. 1, 2014, [128 Stat. 1047][/us/stat/128/1047]; [Pub. L. 114–10, title II, § 220][/us/pl/114/10/s220], Apr. 16, 2015, [129 Stat. 154][/us/stat/129/154], provided that, effective Oct. 1, 2017, subsection (a)(25) of this section is amended:
 
     (1) in subparagraph (B), by striking “to the extent of such legal liability”;
@@ -1748,10 +1746,6 @@
     See 2013 Amendment notes below.
 
     [Pub. L. 101–508, title IV, § 4801(e)(11)][/us/pl/101/508/s4801/e/11], Nov. 5, 1990, [104 Stat. 1388–217][/us/stat/104/1388-217], provided that, effective on the date on which the Secretary promulgates standards regarding the qualifications of nursing facility administrators under [section 1396r(f)(4) of this title][/us/usc/t42/s1396r/f/4], subsection (a)(29) of this section is repealed.
-
- __Amendment of Subsection (e)(14)__ 
-
-    For repeal of amendment by [section 3(e) of Pub. L. 111–255][/us/pl/111/255/s3/e], see Effective and Termination Dates of 2010 Amendment note below.
 
  __References in Text__ 
 
@@ -1785,7 +1779,7 @@
 
     The Native American Housing Assistance and Self-Determination Act of 1996, referred to in subsec. (e)(13)(F)(ii)(I)(ll), is [Pub. L. 104–330][/us/pl/104/330], Oct. 26, 1996, [110 Stat. 4016][/us/stat/110/4016], which is classified principally to chapter 43 (§ 4101 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under [section 4101 of Title 25][/us/usc/t25/s4101] and Tables.
 
-    The Internal Revenue Code of 1986, referred to in subsecs. (e)(14)(G) and (u)(3), is classified generally to Title 26.
+    The Internal Revenue Code of 1986, referred to in subsecs. (e)(14)(G) and (u)(3), is classified generally to Title 26, Internal Revenue Code.
 
     The Public Health Service Act, referred to in subsecs. (u)(3) and (aa)(3), is [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], [58 Stat. 682][/us/stat/58/682]. Titles XV and XXII of the Act are classified generally to subchapters XIII (§ 300k et seq.) and XX (§ 300bb–1 et seq.), respectively, of chapter 6A of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 201 of this title][/us/usc/t42/s201] and Tables.
 
@@ -1885,7 +1879,7 @@
 
     Subsec. (a)(13)(C). [Pub. L. 111–152, § 1202(a)(1)(A)][/us/pl/111/152/s1202/a/1/A], added subpar. (C).
 
-    Subsec. (a)(17). [Pub. L. 111–255, § 3(c)(1)][/us/pl/111/255/s3/c/1], (e), temporarily inserted “(e)(14),” before “(l)(3)”. See Effective and Termination Dates of 2010 Amendment note below.
+    Subsec. (a)(17). [Pub. L. 111–255, § 3(c)(2)][/us/pl/111/255/s3/c/2], inserted “(e)(14),” before “(l)(3)”.
 
     [Pub. L. 111–148, § 2002(b)][/us/pl/111/148/s2002/b], inserted “(e)(14),” before “(l)(3)”.
 
@@ -1941,7 +1935,7 @@
 
     Subsec. (e)(13)(F)(ii). [Pub. L. 111–148, § 2901(c)][/us/pl/111/148/s2901/c], inserted “and indian tribes and tribal organizations” after “agencies” in heading and added subcl. (IV).
 
-    Subsec. (e)(14). [Pub. L. 111–255, § 3(c)(1)][/us/pl/111/255/s3/c/1], (e), temporarily added par. (14) related to exclusion of compensation for participation in a clinical trial for testing of treatments for a rare disease or condition. See Effective and Termination Dates of 2010 Amendment note below.
+    Subsec. (e)(14). [Pub. L. 111–255, § 3(c)(1)][/us/pl/111/255/s3/c/1], added par. (14) related to exclusion of compensation for participation in a clinical trial for testing of treatments for a rare disease or condition.
 
     [Pub. L. 111–152, § 1004(b)(1)(A)][/us/pl/111/152/s1004/b/1/A], substituted “modified adjusted gross income” for “modified gross income” wherever appearing in headings and text.
 
@@ -3139,7 +3133,7 @@
 
     \[[Pub. L. 113–93, title II, § 211][/us/pl/113/93/s211], Apr. 1, 2014, [128 Stat. 1047][/us/stat/128/1047], provided in part that the amendment made by that section to [section 202(c) of Pub. L. 113–67][/us/pl/113/67/s202/c], set out above, is effective as if included in the enactment of [Pub. L. 113–67][/us/pl/113/67].\]
 
- __Effective and Termination Dates of 2010 Amendment__ 
+ __Effective Date of 2010 Amendment__ 
 
 [Pub. L. 111–296, title I, § 103(c)(2)][/us/pl/111/296/s103/c/2], Dec. 13, 2010, [124 Stat. 3192][/us/stat/124/3192], provided that:
 
@@ -3152,8 +3146,6 @@
 >     In the case of a State plan under title XIX of the Social Security Act ([42 U.S.C. 1396][/us/usc/t42/s1396] et seq.) which the Secretary of Health and Human Services determines requires State legislation in order for the plan to meet the additional requirements imposed by the amendments made by this section \[amending this section, [section 1758 of this title][/us/usc/t42/s1758], and [section 1232g of Title 20][/us/usc/t20/s1232g], Education\], the State plan shall not be regarded as failing to comply with the requirements of the amendments made by this section solely on the basis of its failure to meet such additional requirements before the first day of the first calendar quarter beginning after the close of the first regular session of the State legislature that begins after the date of the enactment of this Act \[Dec. 13, 2010\]. For purposes of the previous sentence, in the case of a State that has a 2-year legislative session, each year of the session is considered to be a separate regular session of the State legislature.”
 
     Amendment by [Pub. L. 111–255][/us/pl/111/255] effective on the earlier of the effective date of final regulations promulgated by the Commissioner of Social Security to carry out such amendment or 180 days after Oct. 5, 2010, see [section 3(d) of Pub. L. 111–255][/us/pl/111/255/s3/d], set out as a note under [section 1382a of this title][/us/usc/t42/s1382a].
-
-    Amendment by [Pub. L. 111–255][/us/pl/111/255] repealed 5 years after Oct. 5, 2010, see [section 3(e) of Pub. L. 111–255][/us/pl/111/255/s3/e], set out as a note under [section 1382a of this title][/us/usc/t42/s1382a].
 
 [Pub. L. 111–148, title II, § 2002(c)][/us/pl/111/148/s2002/c], Mar. 23, 2010, [124 Stat. 282][/us/stat/124/282], provided that: 
 
@@ -6514,7 +6506,6 @@
 [/us/stat/128/1045]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1045
 [/us/pl/114/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10
 [/us/stat/129/151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F151
-[/us/pl/111/255/s3/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F255%2Fs3%2Fe
 [/us/pl/113/67/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs202%2Fa
 [/us/stat/127/1177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1177
 [/us/pl/113/93/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F93%2Fs211
@@ -6524,7 +6515,6 @@
 [/us/pl/101/508/s4801/e/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4801%2Fe%2F11
 [/us/stat/104/1388-217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-217
 [/us/usc/t42/s1396r/f/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396r%2Ff%2F4
-[/us/pl/111/255/s3/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F255%2Fs3%2Fe
 [/us/pl/89/642]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F642
 [/us/stat/80/885]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F885
 [/us/usc/t42/s1771]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1771
@@ -6643,7 +6633,7 @@
 [/us/pl/111/148/s2402/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs2402%2Fd%2F1
 [/us/pl/111/309/s110/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F309%2Fs110%2Fa
 [/us/pl/111/152/s1202/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs1202%2Fa%2F1%2FA
-[/us/pl/111/255/s3/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F255%2Fs3%2Fc%2F1
+[/us/pl/111/255/s3/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F255%2Fs3%2Fc%2F2
 [/us/pl/111/148/s2002/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs2002%2Fb
 [/us/pl/111/309/s205/f/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F309%2Fs205%2Ff%2F1%2FB
 [/us/pl/111/148/s6401/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs6401%2Fb%2F3
@@ -7442,9 +7432,6 @@
 [/us/usc/t20/s1232g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1232g
 [/us/pl/111/255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F255
 [/us/pl/111/255/s3/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F255%2Fs3%2Fd
-[/us/usc/t42/s1382a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1382a
-[/us/pl/111/255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F255
-[/us/pl/111/255/s3/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F255%2Fs3%2Fe
 [/us/usc/t42/s1382a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1382a
 [/us/pl/111/148/s2002/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs2002%2Fc
 [/us/stat/124/282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F282

@@ -37,15 +37,15 @@
 
         (1) __Large employer__ 
 
-            The term “large employer” means, in connection with a group health plan with respect to a calendar year and a plan year, an employer who employed an average of at least 101 employees on business days during the preceding calendar year and who employs at least 1 employee on the first day of the plan year.
+            The term “large employer” means, in connection with a group health plan with respect to a calendar year and a plan year, an employer who employed an average of at least 51 employees on business days during the preceding calendar year and who employs at least 1 employee on the first day of the plan year.
 
         (2) __Small employer__ 
 
-            The term “small employer” means, in connection with a group health plan with respect to a calendar year and a plan year, an employer who employed an average of at least 1 but not more than 100 employees on business days during the preceding calendar year and who employs at least 1 employee on the first day of the plan year.
+            The term “small employer” means, in connection with a group health plan with respect to a calendar year and a plan year, an employer who employed an average of at least 1 but not more than 50 employees on business days during the preceding calendar year and who employs at least 1 employee on the first day of the plan year.
 
-        (3) __State option to treat 50 employees as small__ 
+        (3) __State option to extend definition of small employer__ 
 
-            In the case of plan years beginning before January 1, 2016, a State may elect to apply this subsection by substituting “51 employees” for “101 employees” in paragraph (1) and by substituting “50 employees” for “100 employees” in paragraph (2).
+            Notwithstanding paragraphs (1) and (2), nothing in this section shall prevent a State from applying this subsection by treating as a small employer, with respect to a calendar year and a plan year, an employer who employed an average of at least 1 but not more than 100 employees on business days during the preceding calendar year and who employs at least 1 employee on the first day of the plan year.
 
         (4) __Rules for determining employer size__ 
 
@@ -85,13 +85,19 @@
 
         The term “educated health care consumer” means an individual who is knowledgeable about the health care system, and has background or experience in making informed decisions regarding health, medical, and scientific matters.
 
-([Pub. L. 111–148, title I, § 1304][/us/pl/111/148/s1304], title X, § 10104(d), Mar. 23, 2010, [124 Stat. 171][/us/stat/124/171], 900.)
+([Pub. L. 111–148, title I, § 1304][/us/pl/111/148/s1304], title X, § 10104(d), Mar. 23, 2010, [124 Stat. 171][/us/stat/124/171], 900; [Pub. L. 114–60, § 2(a)][/us/pl/114/60/s2/a], Oct. 7, 2015, [129 Stat. 543][/us/stat/129/543].)
 
  __References in Text__ 
 
     This title, referred to in subsecs. (a) to (d), is title I of [Pub. L. 111–148][/us/pl/111/148], Mar. 23, 2010, [124 Stat. 130][/us/stat/124/130], which enacted this chapter and enacted, amended, and transferred numerous other sections and notes in the Code. For complete classification of title I to the Code, see Tables.
 
  __Amendments__ 
+
+    2015—Subsec. (b)(1). [Pub. L. 114–60, § 2(a)(1)][/us/pl/114/60/s2/a/1], substituted “51” for “101”.
+
+    Subsec. (b)(2). [Pub. L. 114–60, § 2(a)(2)][/us/pl/114/60/s2/a/2], substituted “50” for “100”.
+
+    Subsec. (b)(3). [Pub. L. 114–60, § 2(a)(3)][/us/pl/114/60/s2/a/3], amended par. (3) generally. Prior to amendment, text read as follows: “In the case of plan years beginning before January 1, 2016, a State may elect to apply this subsection by substituting ‘51 employees’ for ‘101 employees’ in paragraph (1) and by substituting ‘50 employees’ for ‘100 employees’ in paragraph (2).”
 
     2010—Subsec. (e). [Pub. L. 111–148, § 10104(d)][/us/pl/111/148/s10104/d], added subsec. (e).
 
@@ -105,8 +111,13 @@
 [/us/usc/t26/s414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs414
 [/us/pl/111/148/s1304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1304
 [/us/stat/124/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F171
+[/us/pl/114/60/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F60%2Fs2%2Fa
+[/us/stat/129/543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F543
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/stat/124/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F130
+[/us/pl/114/60/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F60%2Fs2%2Fa%2F1
+[/us/pl/114/60/s2/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F60%2Fs2%2Fa%2F2
+[/us/pl/114/60/s2/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F60%2Fs2%2Fa%2F3
 [/us/pl/111/148/s10104/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10104%2Fd
 
 

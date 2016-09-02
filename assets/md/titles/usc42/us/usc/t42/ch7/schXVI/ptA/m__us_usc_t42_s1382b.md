@@ -253,10 +253,6 @@
 
 ([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVI, § 1613, as added [Pub. L. 92–603, title III, § 301][/us/pl/92/603/s301], Oct. 30, 1972, [86 Stat. 1470][/us/stat/86/1470]; amended [Pub. L. 94–569, § 5][/us/pl/94/569/s5], Oct. 20, 1976, [90 Stat. 2700][/us/stat/90/2700]; [Pub. L. 95–171, § 9(a)][/us/pl/95/171/s9/a], Nov. 12, 1977, [91 Stat. 1355][/us/stat/91/1355]; [Pub. L. 96–611, § 5(a)][/us/pl/96/611/s5/a], Dec. 28, 1980, [94 Stat. 3567][/us/stat/94/3567]; [Pub. L. 97–248, title I, § 185(a)][/us/pl/97/248/s185/a], (b), Sept. 3, 1982, [96 Stat. 406][/us/stat/96/406]; [Pub. L. 98–369, div. B, title VI][/us/pl/98/369], §§ 2614, 2663(g)(5), July 18, 1984, [98 Stat. 1132][/us/stat/98/1132], 1168; [Pub. L. 100–203, title IX][/us/pl/100/203], §§ 9103(a), 9104(a), 9105(a), 9114(a), Dec. 22, 1987, [101 Stat. 1330–301][/us/stat/101/1330-301], 1330–304; [Pub. L. 100–360, title III, § 303(c)(1)][/us/pl/100/360/s303/c/1], July 1, 1988, [102 Stat. 762][/us/stat/102/762]; [Pub. L. 100–647, title VIII, § 8103(b)][/us/pl/100/647/s8103/b], Nov. 10, 1988, [102 Stat. 3795][/us/stat/102/3795]; [Pub. L. 101–239, title VIII][/us/pl/101/239], §§ 8013(b), 8014(a), Dec. 19, 1989, [103 Stat. 2465][/us/stat/103/2465]; [Pub. L. 101–508, title V][/us/pl/101/508], §§ 5031(b), 5035(b), title XI, § 11115(b)(2), Nov. 5, 1990, [104 Stat. 1388–224][/us/stat/104/1388-224], 1388–225, 1388–414; [Pub. L. 103–296, title I, § 107(a)(4)][/us/pl/103/296/s107/a/4], title III, § 321(h)(2), Aug. 15, 1994, [108 Stat. 1478][/us/stat/108/1478], 1544; [Pub. L. 104–193, title II, § 213(b)][/us/pl/104/193/s213/b], Aug. 22, 1996, [110 Stat. 2195][/us/stat/110/2195]; [Pub. L. 105–306, § 7(b)][/us/pl/105/306/s7/b], Oct. 28, 1998, [112 Stat. 2928][/us/stat/112/2928]; [Pub. L. 106–169, title II][/us/pl/106/169], §§ 205(a), 206(a), Dec. 14, 1999, [113 Stat. 1833][/us/stat/113/1833], 1834; [Pub. L. 108–203, title I, § 101(c)(2)][/us/pl/108/203/s101/c/2], title IV, §§ 431(a), (b), 435(b), Mar. 2, 2004, [118 Stat. 496][/us/stat/118/496], 539, 540; [Pub. L. 110–245, title II, § 202(b)][/us/pl/110/245/s202/b], June 17, 2008, [122 Stat. 1637][/us/stat/122/1637]; [Pub. L. 111–255, § 3(b)][/us/pl/111/255/s3/b], Oct. 5, 2010, [124 Stat. 2641][/us/stat/124/2641].)
 
- __Amendment of Section__ 
-
-    For repeal of amendment by [section 3(e) of Pub. L. 111–255][/us/pl/111/255/s3/e], see Effective and Termination Dates of 2010 Amendment note below.
-
  __References in Text__ 
 
     The Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970, referred to in subsec. (a)(10), is [Pub. L. 91–646][/us/pl/91/646], Jan. 2, 1971, [84 Stat. 1894][/us/stat/84/1894], as amended. Title II of the Act enacted subchapter II (§ 4621 et seq.) of chapter 61 of this title, amended sections 1415, 2473, and 3307 of this title and section 1606 of former Title 49, Transportation, repealed sections 1465 and 3074 of this title, [section 2680 of Title 10][/us/usc/t10/s2680], Armed Forces, sections 501 to 512 of Title 23, Highways, sections 1231 to 1234 of Title 43, Public Lands, and enacted provisions set out as notes under sections 4601 and 4621 of this title and under sections 501 to 512 of Title 23. For complete classification of title II to the Code, see Tables.
@@ -271,7 +267,7 @@
 
  __Amendments__ 
 
-    2010—Subsec. (a)(17). [Pub. L. 111–255, § 3(b)][/us/pl/111/255/s3/b], (e), temporarily added par. (17). See Effective and Termination Dates of 2010 Amendment note below.
+    2010—Subsec. (a)(17). [Pub. L. 111–255][/us/pl/111/255] added par. (17).
 
     2008—Subsec. (a)(16). [Pub. L. 110–245][/us/pl/110/245] added par. (16).
 
@@ -347,11 +343,9 @@
 
     1976—Subsec. (a)(1). [Pub. L. 94–569][/us/pl/94/569] struck out “, to the extent that its value does not exceed such amount as the Secretary determines to be reasonable” after “the home (including the land that appertains thereto)”.
 
- __Effective and Termination Dates of 2010 Amendment__ 
+ __Effective Date of 2010 Amendment__ 
 
     Amendment by [Pub. L. 111–255][/us/pl/111/255] effective on the earlier of the effective date of final regulations promulgated by the Commissioner of Social Security to carry out such amendment or 180 days after Oct. 5, 2010, see [section 3(d) of Pub. L. 111–255][/us/pl/111/255/s3/d], set out as a note under [section 1382a of this title][/us/usc/t42/s1382a].
-
-    Amendment by [Pub. L. 111–255][/us/pl/111/255] repealed 5 years after Oct. 5, 2010, see [section 3(e) of Pub. L. 111–255][/us/pl/111/255/s3/e], set out as a note under [section 1382a of this title][/us/usc/t42/s1382a].
 
  __Effective Date of 2008 Amendment__ 
 
@@ -531,7 +525,6 @@
 [/us/stat/122/1637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1637
 [/us/pl/111/255/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F255%2Fs3%2Fb
 [/us/stat/124/2641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2641
-[/us/pl/111/255/s3/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F255%2Fs3%2Fe
 [/us/pl/91/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F646
 [/us/stat/84/1894]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1894
 [/us/usc/t10/s2680]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2680
@@ -545,7 +538,7 @@
 [/us/usc/t42/s1396p/h/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396p%2Fh%2F3
 [/us/pl/109/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171
 [/us/stat/120/62]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F62
-[/us/pl/111/255/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F255%2Fs3%2Fb
+[/us/pl/111/255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F255
 [/us/pl/110/245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F245
 [/us/pl/108/203/s431/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203%2Fs431%2Fa
 [/us/pl/108/203/s431/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203%2Fs431%2Fb
@@ -589,9 +582,6 @@
 [/us/pl/94/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F569
 [/us/pl/111/255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F255
 [/us/pl/111/255/s3/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F255%2Fs3%2Fd
-[/us/usc/t42/s1382a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1382a
-[/us/pl/111/255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F255
-[/us/pl/111/255/s3/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F255%2Fs3%2Fe
 [/us/usc/t42/s1382a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1382a
 [/us/pl/110/245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F245
 [/us/pl/110/245/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F245%2Fs204
