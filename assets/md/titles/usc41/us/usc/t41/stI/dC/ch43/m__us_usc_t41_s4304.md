@@ -87,6 +87,16 @@
 
 ([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3785][/us/stat/124/3785]; [Pub. L. 113–66, div. A, title VIII, § 811(b)][/us/pl/113/66/s811/b], Dec. 26, 2013, [127 Stat. 806][/us/stat/127/806]; [Pub. L. 113–67, div. A, title VII, § 702(a)(1)][/us/pl/113/67/s702/a/1], Dec. 26, 2013, [127 Stat. 1189][/us/stat/127/1189].)
 
+ __Amendment of Subsection (a)(16)__ 
+
+[Pub. L. 113–67, div. A, title VII, § 702(a)(1)][/us/pl/113/67/s702/a/1], (c), Dec. 26, 2013, [127 Stat. 1189][/us/stat/127/1189], provided that, applicable only with respect to costs of compensation incurred under contracts entered into on or after the date that is 180 days after Dec. 26, 2013, subsection (a)(16) of this section is amended to read as follows:
+
+>     “(16) Costs of compensation of contractor and subcontractor employees for a fiscal year, regardless of the contract funding source, to the extent that such compensation exceeds $487,000 per year, adjusted annually to reflect the change in the Employment Cost Index for all workers, as calculated by the Bureau of Labor Statistics, except that the head of an executive agency may establish one or more narrowly targeted exceptions for scientists, engineers, or other specialists upon a determination that such exceptions are needed to ensure that the executive agency has continued access to needed skills and capabilities.”
+
+[Pub. L. 113–66, div. A, title VIII, § 811(b)][/us/pl/113/66/s811/b], (d), Dec. 26, 2013, [127 Stat. 806][/us/stat/127/806], provided that, applicable with respect to costs of compensation incurred under contracts entered into on or after the date that is 180 days after Dec. 26, 2013, subsection (a)(16) of this section is amended to read as follows:
+
+>     “(16) Costs of compensation of any contractor employee for a fiscal year, regardless of the contract funding source, to the extent that such compensation exceeds $625,000 adjusted annually for the U.S. Bureau of Labor Statistics Employment Cost Index for total compensation for private industry workers, by occupational and industry group not seasonally adjusted, except that the executive agency may establish exceptions for positions in the science, technology, engineering, mathematics, medical, and cybersecurity fields and other fields requiring unique areas of expertise upon a determination that such exceptions are needed to ensure that the executive agency has continued access to needed skills and capabilities.”
+
 <table>
 
   <tr>
@@ -132,16 +142,6 @@ June 30, 1949, ch. 288, title III, § 306(e), as added Pub. L. 100–700, §�
   </tr>
 
 </table>
-
- __Amendment of Subsection (a)(16)__ 
-
-[Pub. L. 113–67, div. A, title VII, § 702(a)(1)][/us/pl/113/67/s702/a/1], (c), Dec. 26, 2013, [127 Stat. 1189][/us/stat/127/1189], provided that, applicable only with respect to costs of compensation incurred under contracts entered into on or after the date that is 180 days after Dec. 26, 2013, subsection (a)(16) of this section is amended to read as follows:
-
->     “(16) Costs of compensation of contractor and subcontractor employees for a fiscal year, regardless of the contract funding source, to the extent that such compensation exceeds $487,000 per year, adjusted annually to reflect the change in the Employment Cost Index for all workers, as calculated by the Bureau of Labor Statistics, except that the head of an executive agency may establish one or more narrowly targeted exceptions for scientists, engineers, or other specialists upon a determination that such exceptions are needed to ensure that the executive agency has continued access to needed skills and capabilities.”
-
-[Pub. L. 113–66, div. A, title VIII, § 811(b)][/us/pl/113/66/s811/b], (d), Dec. 26, 2013, [127 Stat. 806][/us/stat/127/806], provided that, applicable with respect to costs of compensation incurred under contracts entered into on or after the date that is 180 days after Dec. 26, 2013, subsection (a)(16) of this section is amended to read as follows:
-
->     “(16) Costs of compensation of any contractor employee for a fiscal year, regardless of the contract funding source, to the extent that such compensation exceeds $625,000 adjusted annually for the U.S. Bureau of Labor Statistics Employment Cost Index for total compensation for private industry workers, by occupational and industry group not seasonally adjusted, except that the executive agency may establish exceptions for positions in the science, technology, engineering, mathematics, medical, and cybersecurity fields and other fields requiring unique areas of expertise upon a determination that such exceptions are needed to ensure that the executive agency has continued access to needed skills and capabilities.”
 
  __Effective Date of 2013 Amendment__ 
 

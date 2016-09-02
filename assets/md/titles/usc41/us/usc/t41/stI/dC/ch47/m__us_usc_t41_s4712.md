@@ -147,15 +147,19 @@
 
     (i)  __Duration of Section__  __.—__ 
 
-    This section shall be in effect for the four-year period beginning on the date of the enactment of this section. <sup>\[2\]</sup>  <sup><sup> 2 So in original. Compare to Effective Date of 2013 Amendment note below. </sup></sup> 
+    This section shall be in effect for the four-year period beginning on the date of that is 180 days after the date the enactment of this section. <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be “date that is 180 days after the date of the enactment of this section.” </sup></sup> 
 
-(Added [Pub. L. 112–239, div. A, title VIII, § 828(a)(1)][/us/pl/112/239/s828/a/1], Jan. 2, 2013, [126 Stat. 1837][/us/stat/126/1837].)
+(Added [Pub. L. 112–239, div. A, title VIII, § 828(a)(1)][/us/pl/112/239/s828/a/1], Jan. 2, 2013, [126 Stat. 1837][/us/stat/126/1837]; amended [Pub. L. 113–66, div. A, title X, § 1091(e)][/us/pl/113/66/s1091/e], Dec. 26, 2013, [127 Stat. 876][/us/stat/127/876].)
 
  __References in Text__ 
 
     The Inspector General Act of 1978, referred to in subsec. (g)(2), is [Pub. L. 95–452][/us/pl/95/452], Oct. 12, 1978, [92 Stat. 1101][/us/stat/92/1101], which is set out in the Appendix to Title 5, Government Organization and Employees.
 
     The date of the enactment of this section, referred to in subsec. (i), is the date of the enactment of [Pub. L. 112–239][/us/pl/112/239], which was approved Jan. 2, 2013.
+
+ __Amendments__ 
+
+    2013—Subsec. (i). [Pub. L. 113–66][/us/pl/113/66] inserted “that is 180 days after the date” before “the enactment”.
 
  __Effective Date of 2013 Amendment__ 
 
@@ -191,9 +195,12 @@
 [/us/usc/t50/s401a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs401a%2F4
 [/us/pl/112/239/s828/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs828%2Fa%2F1
 [/us/stat/126/1837]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1837
+[/us/pl/113/66/s1091/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1091%2Fe
+[/us/stat/127/876]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F876
 [/us/pl/95/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F452
 [/us/stat/92/1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1101
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/pl/112/239/s828/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs828%2Fb
 [/us/stat/126/1840]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1840
 [/us/usc/t41/s4712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs4712
