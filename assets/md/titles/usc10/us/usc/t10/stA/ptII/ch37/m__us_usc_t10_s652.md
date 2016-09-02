@@ -35,7 +35,7 @@
 
             (A) a detailed description of, and justification for, the proposed change; and
 
-            (B) a detailed analysis of legal implication of the proposed change with respect to the constitutionality of the application of the Military Selective Service Act (50 App. U.S.C. 451 et seq.) to males only.
+            (B) a detailed analysis of legal implication of the proposed change with respect to the constitutionality of the application of the Military Selective Service Act (50 App. U.S.C. 451 et seq.)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  to males only.
 
         (4) In this subsection, the term “ground combat exclusion policy” means the military personnel policies of the Department of Defense and the military departments, as in effect on October 1, 1994, by which female members of the armed forces are restricted from assignment to units and positions below brigade level whose primary mission is to engage in direct combat on the ground.
 
@@ -67,7 +67,7 @@
 
  __References in Text__ 
 
-    The Military Selective Service Act, referred to in subsec. (a)(3)(B), is [act June 24, 1948, ch. 625][/us/act/1948-06-24/ch625], [62 Stat. 604][/us/stat/62/604], as amended, which is classified principally to section 451 et seq. of Title 50, Appendix, War and National Defense. For complete classification of this Act to the Code, see References in Text note set out under [section 451 of Title 50][/us/usc/t50/s451], Appendix, and Tables.
+    The Military Selective Service Act, referred to in subsec. (a)(3)(B), is [act June 24, 1948, ch. 625][/us/act/1948-06-24/ch625], [62 Stat. 604][/us/stat/62/604], which was classified principally to section 451 et seq. of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as chapter 49 (§ 3801 et seq.) of Title 50. For complete classification of this Act to the Code, see Tables.
 
  __Prior Provisions__ 
 
@@ -87,7 +87,6 @@
 [/us/stat/119/3251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3251
 [/us/act/1948-06-24/ch625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-24%2Fch625
 [/us/stat/62/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F604
-[/us/usc/t50/s451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs451
 [/us/pl/95/485/s405/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F485%2Fs405%2Fd%2F1
 [/us/stat/92/1616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1616
 [/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337

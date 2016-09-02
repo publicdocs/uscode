@@ -209,7 +209,7 @@
 
                 (iv) Duty performed as a general or flag officer.
 
-                (v) Service as a State director of the Selective Service System under section 10(b)(2) of the Military Selective Service Act (50 U.S.C. App. 460(b)(2)).
+                (v) Service as a State director of the Selective Service System under section 10(b)(2) of the Military Selective Service Act (50 U.S.C. App. 460(b)(2)). <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup> 
 
         (7)
 
@@ -710,6 +710,8 @@ Sept. 3, 1954, ch. 1257, § 102(6), 68 Stat. 1150.  </td>
     The Defense Base Closure and Realignment Act of 1990, referred to in subsec. (a)(17)(B), is part A of title XXIX of div. B of [Pub. L. 101–510][/us/pl/101/510], Nov. 5, 1990, [104 Stat. 1808][/us/stat/104/1808], as amended, which is set out as a note under [section 2687 of this title][/us/usc/t10/s2687]. For complete classification of this Act to the Code, see Tables.
 
     The Defense Authorization Amendments and Base Closure and Realignment Act, referred to in subsec. (a)(17)(C), is [Pub. L. 100–526][/us/pl/100/526], Oct. 24, 1988, [102 Stat. 2623][/us/stat/102/2623], as amended. Title II of the Act is set out as a note under [section 2687 of this title][/us/usc/t10/s2687]. For complete classification of this Act to the Code, see Short Title of 1988 Amendment note set out under [section 2687 of this title][/us/usc/t10/s2687] and Tables.
+
+    Section 10(b)(2) of the Military Selective Service Act, referred to in subsec. (d)(6)(B)(v), was classified to section 460(b)(2) of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as [section 3809(b)(2) of Title 50][/us/usc/t50/s3809/b/2].
 
     The Atomic Energy Act of 1954, referred to in subsec. (e)(4)(C)(iii), is [act Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], as added by [act Aug. 30, 1954, ch. 1073, § 1][/us/act/1954-08-30/ch1073/s1], [68 Stat. 919][/us/stat/68/919], which is classified principally to chapter 23 (§ 2011 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of Title 42][/us/usc/t42/s2011] and Tables.
 
@@ -1233,6 +1235,7 @@ The following provisions provided that the term “congressional defense committ
 [/us/stat/102/2623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2623
 [/us/usc/t10/s2687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2687
 [/us/usc/t10/s2687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2687
+[/us/usc/t50/s3809/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3809%2Fb%2F2
 [/us/act/1946-08-01/ch724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-01%2Fch724
 [/us/act/1954-08-30/ch1073/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1073%2Fs1
 [/us/stat/68/919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F919

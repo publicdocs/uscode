@@ -223,7 +223,7 @@ July 16, 1952, ch. 882, § 4 (less 3d and last sentences), 66 Stat. 725.  </td
 
 >     “(d)  __Applicable Law__  __.—__ 
 
->     The transfer or use of military equipment is subject to all applicable Federal and State laws and regulations, including, but not limited to, the Arms Export Control Act \[[22 U.S.C. 2751][/us/usc/t22/s2751] et seq.\], the Export Administration Act of 1979 \[50 U.S.C. App. 2401 et seq.\], continued under Executive Order 12924 \[listed in a table under [50 U.S.C. 1701][/us/usc/t50/s1701]\], International Traffic in Arms Regulations (22 C.F.R. 120 et seq.), Export Administration Regulations (15 C.F.R. 730 et seq.), Foreign Assets Control Regulations (31 C.F.R. 500 et seq.), and the Espionage Act \[[act June 15, 1917, ch. 30][/us/act/1917-06-15/ch30], [40 Stat. 217][/us/stat/40/217], see Tables for classification\].
+>     The transfer or use of military equipment is subject to all applicable Federal and State laws and regulations, including, but not limited to, the Arms Export Control Act \[[22 U.S.C. 2751][/us/usc/t22/s2751] et seq.\], the Export Administration Act of 1979 \[[50 U.S.C. 4601][/us/usc/t50/s4601] et seq.\], continued under Executive Order 12924 \[listed in a table under [50 U.S.C. 1701][/us/usc/t50/s1701]\], International Traffic in Arms Regulations (22 C.F.R. 120 et seq.), Export Administration Regulations (15 C.F.R. 730 et seq.), Foreign Assets Control Regulations (31 C.F.R. 500 et seq.), and the Espionage Act \[[act June 15, 1917, ch. 30][/us/act/1917-06-15/ch30], [40 Stat. 217][/us/stat/40/217], see Tables for classification\].
 
 >     “(e) __Condition of Equipment to Be Transferred.—__ 
 
@@ -287,6 +287,7 @@ July 16, 1952, ch. 882, § 4 (less 3d and last sentences), 66 Stat. 725.  </td
 [/us/pl/111/383/s1075/d/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1075%2Fd%2F12
 [/us/stat/124/4373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4373
 [/us/usc/t22/s2751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2751
+[/us/usc/t50/s4601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4601
 [/us/usc/t50/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1701
 [/us/act/1917-06-15/ch30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-06-15%2Fch30
 [/us/stat/40/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F217

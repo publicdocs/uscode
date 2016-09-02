@@ -15,7 +15,7 @@
 
 ## § 651. Members: required service
 
-    (a) Each person who becomes a member of an armed force, other than a person deferred under the next to the last sentence of section 6(d)(1) of the Military Selective Service Act (50 U.S.C. App. 456(d)(1)) shall serve in the armed forces for a total initial period of not less than six years nor more than eight years, as provided in regulations prescribed by the Secretary of Defense for the armed forces under his jurisdiction and by the Secretary of Homeland Security for the Coast Guard when it is not operating as service in the Navy, unless such person is sooner discharged under such regulations because of personal hardship. Any part of such service that is not active duty or that is active duty for training shall be performed in a reserve component.
+    (a) Each person who becomes a member of an armed force, other than a person deferred under the next to the last sentence of section 6(d)(1) of the Military Selective Service Act (50 U.S.C. App. 456(d)(1))  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  shall serve in the armed forces for a total initial period of not less than six years nor more than eight years, as provided in regulations prescribed by the Secretary of Defense for the armed forces under his jurisdiction and by the Secretary of Homeland Security for the Coast Guard when it is not operating as service in the Navy, unless such person is sooner discharged under such regulations because of personal hardship. Any part of such service that is not active duty or that is active duty for training shall be performed in a reserve component.
 
     (b) Each person covered by subsection (a) who is not a Reserve, and who is qualified, shall, upon his release from active duty, be transferred to a reserve component of his armed force to complete the service required by subsection (a).
 
@@ -145,6 +145,10 @@ Aug. 9, 1955, ch. 665, § 3(a) (last sentence), 69 Stat. 603.  </td>
 
     In subsection (a), the word “male” is inserted, since the source statute applies only to male persons. The words “subsequent to the date of enactment of the Reserve Forces Act of 1955” are omitted as executed. The words “becomes a member” are substituted for the words “is inducted, enlisted, or appointed . . . in”. The last sentence is substituted for the words “on active training and service . . . and in a reserve component”. The requirement of transfer to and service in a reserve component, after active training and service is covered by subsection (b) of this section. The words “under any provision of law” and “including the reserve components thereof” are omitted as surplusage.
 
+ __References in Text__ 
+
+    Section 6(d)(1) of the Military Selective Service Act, referred to in subsec. (a), was classified to section 456(d)(1) of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as [section 3806(d)(1) of Title 50][/us/usc/t50/s3806/d/1].
+
  __Amendments__ 
 
     2008—Subsec. (c). [Pub. L. 110–181][/us/pl/110/181] added subsec. (c).
@@ -214,6 +218,7 @@ Aug. 9, 1955, ch. 665, § 3(a) (last sentence), 69 Stat. 603.  </td>
 [/us/stat/116/2314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2314
 [/us/pl/110/181/s505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs505
 [/us/stat/122/96]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F96
+[/us/usc/t50/s3806/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3806%2Fd%2F1
 [/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/pl/98/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94

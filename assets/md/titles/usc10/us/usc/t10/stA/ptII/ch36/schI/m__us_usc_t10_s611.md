@@ -775,7 +775,7 @@ Parts A to C of title VI of [Pub. L. 96–513][/us/pl/96/513], Dec. 12, 1980, [9
 
 >  A reserve officer of the Army, Navy, Air Force, or Marine Corps who on September 14, 1981—
 
->     “(1) is serving on active duty (A) under section 10(b)(2) of the Military Selective Service Act (50 U.S.C. App. 460(b)(2)) for the administration of the Selective Service System, or (B) under [section 708 of title 32][/us/usc/t32/s708]; and
+>     “(1) is serving on active duty (A) under section 10(b)(2) of the Military Selective Service Act (50 U.S.C. App. 460(b)(2)) \[now [50 U.S.C. 3809(b)(2)][/us/usc/t50/s3809/b/2]\] for the administration of the Selective Service System, or (B) under [section 708 of title 32][/us/usc/t32/s708]; and
 
 >     “(2) is serving in a temporary grade or is selected for promotion to a temporary grade,
 
@@ -902,6 +902,7 @@ Parts A to C of title VI of [Pub. L. 96–513][/us/pl/96/513], Dec. 12, 1980, [9
 [/us/usc/t10/s1174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1174
 [/us/usc/t10/s1251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1251
 [/us/usc/t10/s620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs620
+[/us/usc/t50/s3809/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3809%2Fb%2F2
 [/us/usc/t32/s708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft32%2Fs708
 [/us/usc/t10/s630/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs630%2F1%2FA
 [/us/usc/t10/s1174/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1174%2Fh

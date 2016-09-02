@@ -27,7 +27,7 @@
 
     (5) The term “cargo-convertible aircraft” means a passenger aircraft equipped or designed so that all or substantially all of the main deck of the aircraft can be readily converted for the carriage of property or mail.
 
-    (6) The term “Civil Reserve Air Fleet” means those aircraft allocated, or identified for allocation, to the Department of Defense under section 101 of the Defense Production Act of 1950 (50 U.S.C. App. 2071), or made available (or agreed to be made available) for use by the Department of Defense under a contract made under this title, as part of the program developed by the Department of Defense through which the Department of Defense augments its airlift capability by use of civil aircraft.
+    (6) The term “Civil Reserve Air Fleet” means those aircraft allocated, or identified for allocation, to the Department of Defense under section 101 of the Defense Production Act of 1950 (50 U.S.C. App. 2071), <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  or made available (or agreed to be made available) for use by the Department of Defense under a contract made under this title, as part of the program developed by the Department of Defense through which the Department of Defense augments its airlift capability by use of civil aircraft.
 
     (7) The term “contractor” means a citizen of the United States (A) who owns or controls, or who will own or control, a new or existing aircraft and who contracts with the Secretary under [section 9512 of this title][/us/usc/t10/s9512] to modify that aircraft by including or incorporating specified defense features in that aircraft and to commit that aircraft to the Civil Reserve Air Fleet, (B) who subsequently obtains ownership or control of a civil aircraft covered by such a contract and assumes all existing obligations under that contract, or (C) who owns or controls, or will own or control, new or existing aircraft and who, by contract, commits some or all of such aircraft to the Civil Reserve Air Fleet.
 
@@ -40,6 +40,10 @@
     (11) The term “defense feature” means equipment or design features included or incorporated in a civil aircraft which ensures the compatibility of such aircraft with the Department of Defense airlift system. Such term includes any equipment or design feature which enables such aircraft to be readily modified for use as an aeromedical aircraft or a cargo-convertible, cargo-capable, or passenger-cargo combined aircraft.
 
 (Added [Pub. L. 97–86, title IX, § 915(2)][/us/pl/97/86/s915/2], Dec. 1, 1981, [95 Stat. 1125][/us/stat/95/1125]; amended [Pub. L. 100–180, div. A, title XII, § 1231(17)][/us/pl/100/180/s1231/17], Dec. 4, 1987, [101 Stat. 1161][/us/stat/101/1161]; [Pub. L. 100–456, div. A, title XII, § 1233(k)(2)][/us/pl/100/456/s1233/k/2], Sept. 29, 1988, [102 Stat. 2058][/us/stat/102/2058]; [Pub. L. 101–189, div. A, title XVI, § 1636(a)][/us/pl/101/189/s1636/a], Nov. 29, 1989, [103 Stat. 1609][/us/stat/103/1609]; [Pub. L. 103–272, § 5(b)(2)][/us/pl/103/272/s5/b/2], July 5, 1994, [108 Stat. 1373][/us/stat/108/1373]; [Pub. L. 103–355, title III, § 3031][/us/pl/103/355/s3031], Oct. 13, 1994, [108 Stat. 3334][/us/stat/108/3334].)
+
+ __References in Text__ 
+
+    Section 101 of the Defense Production Act of 1950, referred to in par. (6), was classified to section 2071 of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as [section 4511 of Title 50][/us/usc/t50/s4511].
 
  __Amendments__ 
 
@@ -103,6 +107,7 @@
 [/us/stat/108/1373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1373
 [/us/pl/103/355/s3031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs3031
 [/us/stat/108/3334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3334
+[/us/usc/t50/s4511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4511
 [/us/pl/103/355/s3031/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs3031%2Fc
 [/us/pl/103/355/s3031/b/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs3031%2Fb%2F1%2FC
 [/us/usc/t49/s40102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs40102

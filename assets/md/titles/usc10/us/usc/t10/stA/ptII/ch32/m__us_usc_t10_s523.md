@@ -1407,7 +1407,7 @@
 
         (6) Retired officers on active duty under a call or order to active duty for 180 days or less.
 
-        (7) Retired officers on active duty under section 10(b)(2) of the Military Selective Service Act (50 U.S.C. App. 460(b)(2)) for the administration of the Selective Service System.
+        (7) Retired officers on active duty under section 10(b)(2) of the Military Selective Service Act (50 U.S.C. App. 460(b)(2))  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  for the administration of the Selective Service System.
 
         (8) Permanent professors of the United States Military Academy and the United States Air Force Academy and professors of the United States Naval Academy who are career military professors (as defined in regulations prescribed by the Secretary of the Navy), but not to exceed 50 from any such academy.
 
@@ -1416,6 +1416,10 @@
     (d) An officer may not be reduced in grade, or have his pay or allowances reduced, because of a reduction in the number of commissioned officers authorized for his grade under this section.
 
 (Added [Pub. L. 96–513, title I, § 103][/us/pl/96/513/s103], Dec. 12, 1980, [94 Stat. 2842][/us/stat/94/2842]; amended [Pub. L. 98–525, title IV, § 414(a)(3)][/us/pl/98/525/s414/a/3], Oct. 19, 1984, [98 Stat. 2518][/us/stat/98/2518]; [Pub. L. 99–145, title V, § 511(a)][/us/pl/99/145/s511/a], Nov. 8, 1985, [99 Stat. 623][/us/stat/99/623]; [Pub. L. 99–433, title V, § 531(a)(1)][/us/pl/99/433/s531/a/1], Oct. 1, 1986, [100 Stat. 1063][/us/stat/100/1063]; [Pub. L. 102–190, div. A, title IV, § 431][/us/pl/102/190/s431], Dec. 5, 1991, [105 Stat. 1354][/us/stat/105/1354]; [Pub. L. 103–337, div. A, title XVI, § 1673(c)(3)][/us/pl/103/337/s1673/c/3], Oct. 5, 1994, [108 Stat. 3014][/us/stat/108/3014]; [Pub. L. 104–201, div. A, title IV, § 403(a)][/us/pl/104/201/s403/a], (b), Sept. 23, 1996, [110 Stat. 2504][/us/stat/110/2504], 2505; [Pub. L. 107–314, div. A, title IV, § 406][/us/pl/107/314/s406], Dec. 2, 2002, [116 Stat. 2526][/us/stat/116/2526]; [Pub. L. 108–375, div. A, title IV][/us/pl/108/375], §§ 404, 416(g), Oct. 28, 2004, [118 Stat. 1864][/us/stat/118/1864], 1868; [Pub. L. 109–364, div. A, title X, § 1071(g)(1)(B)][/us/pl/109/364/s1071/g/1/B], Oct. 17, 2006, [120 Stat. 2402][/us/stat/120/2402]; [Pub. L. 110–181, div. A, title IV][/us/pl/110/181], §§ 404, 405, Jan. 28, 2008, [122 Stat. 88][/us/stat/122/88]; [Pub. L. 112–81, div. A, title V, § 501][/us/pl/112/81/s501], Dec. 31, 2011, [125 Stat. 1386][/us/stat/125/1386].)
+
+ __References in Text__ 
+
+    Section 10(b)(2) of the Military Selective Service Act, referred to in subsec. (b)(7), was classified to section 460(b)(2) of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as [section 3809(b)(2) of Title 50][/us/usc/t50/s3809/b/2].
 
  __Amendments__ 
 
@@ -1552,6 +1556,7 @@
 [/us/stat/122/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F88
 [/us/pl/112/81/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs501
 [/us/stat/125/1386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1386
+[/us/usc/t50/s3809/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3809%2Fb%2F2
 [/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
 [/us/pl/110/181/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs404
 [/us/pl/110/181/s405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs405

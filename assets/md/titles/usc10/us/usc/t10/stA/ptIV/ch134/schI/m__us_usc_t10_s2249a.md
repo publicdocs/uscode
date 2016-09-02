@@ -19,7 +19,7 @@
 
     Funds available to the Department of Defense may not be obligated or expended to provide financial assistance to—
 
-        (1) any country with respect to which the Secretary of State has made a determination under section 6(j)(1)(A) of the Export Administration Act of 1979 (50 U.S.C. App. 2405(j)(1)(A));
+        (1) any country with respect to which the Secretary of State has made a determination under section 6(j)(1)(A) of the Export Administration Act of 1979 (50 U.S.C. App. 2405(j)(1)(A));  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup> 
 
         (2) any country identified in the latest report submitted to Congress under section 140 of the Foreign Relations Authorization Act, Fiscal Years 1988 and 1989 ([22 U.S.C. 2656f][/us/usc/t22/s2656f]), as providing significant support for international terrorism; or
 
@@ -55,6 +55,10 @@
 
 (Added [Pub. L. 104–106, div. A, title XIII, § 1341(a)][/us/pl/104/106/s1341/a], Feb. 10, 1996, [110 Stat. 485][/us/stat/110/485]; amended [Pub. L. 105–85, div. A, title X, § 1073(a)(40)][/us/pl/105/85/s1073/a/40], Nov. 18, 1997, [111 Stat. 1902][/us/stat/111/1902]; [Pub. L. 106–65, div. A, title X, § 1067(1)][/us/pl/106/65/s1067/1], Oct. 5, 1999, [113 Stat. 774][/us/stat/113/774].)
 
+ __References in Text__ 
+
+    Section 6(j)(1)(A) of the Export Administration Act of 1979, referred to in subsec. (a)(1), was classified to section 2405(j)(1)(A) of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as [section 4605(j)(1)(A) of Title 50][/us/usc/t50/s4605/j/1/A].
+
  __Amendments__ 
 
     1999—Subsec. (b)(2)(A). [Pub. L. 106–65][/us/pl/106/65] substituted “and the Committee on Armed Services” for “and the Committee on National Security”.
@@ -80,6 +84,7 @@
 [/us/stat/111/1902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1902
 [/us/pl/106/65/s1067/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs1067%2F1
 [/us/stat/113/774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F774
+[/us/usc/t50/s4605/j/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4605%2Fj%2F1%2FA
 [/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
 [/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
 

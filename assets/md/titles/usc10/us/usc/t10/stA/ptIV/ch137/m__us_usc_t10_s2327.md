@@ -17,7 +17,7 @@
 
     (a)  __Disclosure of Ownership or Control by a Foreign Government__  __.—__ 
 
-    The head of an agency shall require a firm or a subsidiary of a firm that submits a bid or proposal in response to a solicitation issued by the Department of Defense to disclose in that bid or proposal any significant interest in such firm or subsidiary (or, in the case of a subsidiary, in the firm that owns the subsidiary) that is owned or controlled (whether directly or indirectly) by a foreign government or an agent or instrumentality of a foreign government, if such foreign government is the government of a country that the Secretary of State determines under section 6(j)(1)(A) of the Export Administration Act of 1979 (50 U.S.C. App. 2405(j)(1)(A)) has repeatedly provided support for acts of international terrorism.
+    The head of an agency shall require a firm or a subsidiary of a firm that submits a bid or proposal in response to a solicitation issued by the Department of Defense to disclose in that bid or proposal any significant interest in such firm or subsidiary (or, in the case of a subsidiary, in the firm that owns the subsidiary) that is owned or controlled (whether directly or indirectly) by a foreign government or an agent or instrumentality of a foreign government, if such foreign government is the government of a country that the Secretary of State determines under section 6(j)(1)(A) of the Export Administration Act of 1979 (50 U.S.C. App. 2405(j)(1)(A))  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  has repeatedly provided support for acts of international terrorism.
 
     (b)  __Prohibition on Entering Into Contracts Against the Interests of the United States__  __.—__ 
 
@@ -25,7 +25,7 @@
 
         (1) a foreign government owns or controls (whether directly or indirectly) a significant interest in such firm or subsidiary (or, in the case of a subsidiary, in the firm that owns the subsidiary); and
 
-        (2) such foreign government is the government of a country that the Secretary of State determines under section 6(j)(1)(A) of the Export Administration Act of 1979 (50 U.S.C. App. 2405(j)(1)(A)) has repeatedly provided support for acts of international terrorism.
+        (2) such foreign government is the government of a country that the Secretary of State determines under section 6(j)(1)(A) of the Export Administration Act of 1979 (50 U.S.C. App. 2405(j)(1)(A)) 1 has repeatedly provided support for acts of international terrorism.
 
     (c)  __Waiver__  __.—__ 
 
@@ -86,6 +86,10 @@
     The Secretary of Defense, after consultation with the Secretary of State, shall prescribe regulations to carry out this section. Such regulations shall include a definition of the term “significant interest”.
 
 (Added [Pub. L. 99–500, § 101(c)][/us/pl/99/500/s101/c] \[title X, § 951(a)(1)\], Oct. 18, 1986, [100 Stat. 1783–82][/us/stat/100/1783-82], 1783–164, and [Pub. L. 99–591, § 101(c)][/us/pl/99/591/s101/c] \[title X, § 951(a)(1)\], Oct. 30, 1986, [100 Stat. 3341–82][/us/stat/100/3341-82], 3341–164; [Pub. L. 99–661, div. A, title IX][/us/pl/99/661], formerly title IV, § 951(a)(1), Nov. 14, 1986, [100 Stat. 3944][/us/stat/100/3944], renumbered title IX, [Pub. L. 100–26, § 3(5)][/us/pl/100/26/s3/5], Apr. 21, 1987, [101 Stat. 273][/us/stat/101/273]; amended [Pub. L. 100–180, div. A, title XII, § 1231(8)][/us/pl/100/180/s1231/8], Dec. 4, 1987, [101 Stat. 1160][/us/stat/101/1160]; [Pub. L. 100–224, § 5(b)(2)][/us/pl/100/224/s5/b/2], Dec. 30, 1987, [101 Stat. 1538][/us/stat/101/1538]; [Pub. L. 105–85, div. A, title VIII, § 843][/us/pl/105/85/s843], Nov. 18, 1997, [111 Stat. 1844][/us/stat/111/1844]; [Pub. L. 108–136, div. A, title X, § 1031(a)(16)][/us/pl/108/136/s1031/a/16], Nov. 24, 2003, [117 Stat. 1597][/us/stat/117/1597].)
+
+ __References in Text__ 
+
+    Section 6(j)(1)(A) of the Export Administration Act of 1979, referred to in subsecs. (a) and (b)(2), was classified to section 2405(j)(1)(A) of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as [section 4605(j)(1)(A) of Title 50][/us/usc/t50/s4605/j/1/A].
 
  __Codification__ 
 
@@ -148,6 +152,7 @@
 [/us/stat/111/1844]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1844
 [/us/pl/108/136/s1031/a/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1031%2Fa%2F16
 [/us/stat/117/1597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1597
+[/us/usc/t50/s4605/j/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4605%2Fj%2F1%2FA
 [/us/pl/99/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591
 [/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
 [/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500

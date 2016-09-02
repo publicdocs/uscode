@@ -329,7 +329,7 @@ Source (Statutes at Large)  </td>
 
 [Pub. L. 99–145, title IX, § 901][/us/pl/99/145/s901], Nov. 8, 1985, [99 Stat. 682][/us/stat/99/682], provided that: 
 
-> “This title \[enacting sections 1621 to 1624, 2305a, 2324, 2397a, and 2406 of this title, amending sections 2304, 2313, 2320, 2323, 2397, and 2411 to 2415 of this title, section 759 of former Title 40, Public Buildings, Property, and Works, sections 253 and 418a of Title 41, Public Contracts, and [section 2168 of Title 50][/us/usc/t50/s2168], Appendix, War and National Defense, enacting provisions set out as notes under this section and sections 139, 139c, 1622 to 1624, 2304, 2305a, 2307, 2324, 2397a, and 2411 of this title, [section 287 of Title 18][/us/usc/t18/s287], Crimes and Criminal Procedure, [section 3729 of Title 31][/us/usc/t31/s3729], Money and Finance, and [section 2168 of Title 50][/us/usc/t50/s2168], Appendix, and amending provisions set out as a note under [section 418a of Title 41][/us/usc/t41/s418a]\] may be cited as the ‘Defense Procurement Improvement Act of 1985’.”
+> “This title \[enacting sections 1621 to 1624, 2305a, 2324, 2397a, and 2406 of this title, amending sections 2304, 2313, 2320, 2323, 2397, and 2411 to 2415 of this title, section 759 of former Title 40, Public Buildings, Property, and Works, sections 253 and 418a of Title 41, Public Contracts, and former section 2168 of the former Appendix to Title 50, War and National Defense, enacting provisions set out as notes under this section and sections 139, 139c, 1622 to 1624, 2304, 2305a, 2307, 2324, 2397a, and 2411 of this title, [section 287 of Title 18][/us/usc/t18/s287], Crimes and Criminal Procedure, [section 3729 of Title 31][/us/usc/t31/s3729], Money and Finance, and former section 2168 of the former Appendix to Title 50, and amending provisions set out as a note under [section 418a of Title 41][/us/usc/t41/s418a]\] may be cited as the ‘Defense Procurement Improvement Act of 1985’.”
 
  __Short Title of 1984 Amendment__ 
 
@@ -4442,10 +4442,8 @@ Source (Statutes at Large)  </td>
 [/us/usc/t15/s632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs632
 [/us/pl/99/145/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs901
 [/us/stat/99/682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F682
-[/us/usc/t50/s2168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2168
 [/us/usc/t18/s287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs287
 [/us/usc/t31/s3729]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3729
-[/us/usc/t50/s2168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2168
 [/us/usc/t41/s418a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs418a
 [/us/pl/98/525/s1201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs1201
 [/us/stat/98/2588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2588

@@ -83,7 +83,7 @@
 
 [Pub. L. 99–145, title XII, § 1224(d)][/us/pl/99/145/s1224/d], Nov. 8, 1985, [99 Stat. 729][/us/stat/99/729], provided that: 
 
-> “The amendments made by this section \[amending this section and [section 473 of Title 50][/us/usc/t50/s473], Appendix, War and National Defense\] shall take effect 90 days after the date of the enactment of this Act \[Nov. 8, 1985\].”
+> “The amendments made by this section \[amending this section and provisions set out as a note under [section 113 of this title][/us/usc/t10/s113]\] shall take effect 90 days after the date of the enactment of this Act \[Nov. 8, 1985\].”
 
 ----------
 
@@ -115,6 +115,6 @@
 [/us/pl/92/545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F545
 [/us/pl/99/145/s1224/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs1224%2Fd
 [/us/stat/99/729]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F729
-[/us/usc/t50/s473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs473
+[/us/usc/t10/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs113
 
 

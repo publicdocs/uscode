@@ -4505,6 +4505,12 @@ Similar provisions were contained in the following prior appropriation acts:
 
     [Pub. L. 86–149, title IV, § 412][/us/pl/86/149/s412], Aug. 10, 1959, [73 Stat. 322][/us/stat/73/322], as amended by [Pub. L. 87–436, § 2][/us/pl/87/436/s2], Apr. 27, 1962, [76 Stat. 55][/us/stat/76/55]; [Pub. L. 88–174, title VI, § 610][/us/pl/88/174/s610], Nov. 7, 1963, [77 Stat. 329][/us/stat/77/329]; [Pub. L. 89–37, title III, § 304][/us/pl/89/37/s304], June 11, 1965, [79 Stat. 128][/us/stat/79/128]; [Pub. L. 90–168, § 6][/us/pl/90/168/s6], Dec. 1, 1967, [81 Stat. 526][/us/stat/81/526]; [Pub. L. 91–121, title IV, § 405][/us/pl/91/121/s405], Nov. 19, 1969, [83 Stat. 207][/us/stat/83/207]; [Pub. L. 91–441, title V][/us/pl/91/441], §§ 505, 509, Oct. 7, 1970, [84 Stat. 912][/us/stat/84/912], 913; [Pub. L. 92–129, title VII, § 701][/us/pl/92/129/s701], Sept. 28, 1971, [85 Stat. 362][/us/stat/85/362]; [Pub. L. 92–436, title III, § 302][/us/pl/92/436/s302], title VI, § 604, Sept. 26, 1972, [86 Stat. 736][/us/stat/86/736], 739, was repealed by [Pub. L. 93–155, title VIII, § 803(b)(1)][/us/pl/93/155/s803/b/1], Nov. 16, 1973, [87 Stat. 615][/us/stat/87/615]. See sections 114 to 116 of this title.
 
+ __Regulations Governing Liquor Sales; Penalties__ 
+
+[Act June 19, 1951, ch. 144][/us/act/1951-06-19/ch144], title I, § 6, [65 Stat. 88][/us/stat/65/88], as amended by [Pub. L. 99–145, title XII, § 1224(b)(2)][/us/pl/99/145/s1224/b/2], Nov. 8, 1985, [99 Stat. 729][/us/stat/99/729], provided that: 
+
+> “Subject to [section 2683(c) of title 10][/us/usc/t10/s2683/c], United States Code, the Secretary of Defense is authorized to make such regulations as he may deem to be appropriate governing the sale, consumption, possession of or traffic in beer, wine, or any other intoxicating liquors to or by members of the Armed Forces or the National Security Training Corps at or near any camp, station, post, or other place primarily occupied by members of the Armed Forces or the National Security Training Corps. Any person, corporation, partnership, or association who knowingly violates the regulations which may be made hereunder shall, unless otherwise punishable under the Uniform Code of Military Justice \[[10 U.S.C. 801][/us/usc/t10/s801] et seq.\], be deemed guilty of a misdemeanor and be punished by a fine of not more than $1,000 or imprisonment for not more than twelve months, or both.”
+
  __Ex. Ord. No. 12765. Delegation of Certain Defense Related Authorities of President to Secretary of Defense__ 
 
     Ex. Ord. No. 12765, June 11, 1991, 56 F.R. 27401, provided:
@@ -5390,6 +5396,12 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/stat/86/736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F736
 [/us/pl/93/155/s803/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F155%2Fs803%2Fb%2F1
 [/us/stat/87/615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F615
+[/us/act/1951-06-19/ch144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-06-19%2Fch144
+[/us/stat/65/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F88
+[/us/pl/99/145/s1224/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs1224%2Fb%2F2
+[/us/stat/99/729]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F729
+[/us/usc/t10/s2683/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2683%2Fc
+[/us/usc/t10/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs801
 [/us/usc/t3/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs301
 [/us/usc/t10/s749]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs749
 [/us/usc/t10/s7299a/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs7299a%2Fa

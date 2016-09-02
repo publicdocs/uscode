@@ -21,7 +21,7 @@
 
     (c)
 
-        (1) A period of basic training (or equivalent training) shorter than 12 weeks may be established by the Secretary concerned for members of the armed forces who have been credentialed in a medical profession or occupation and are serving in a health-care occupational specialty, as determined under regulations prescribed under paragraph (2). Any such period shall be established under regulations prescribed under paragraph (2) and may be established notwithstanding section 4(a) of the Military Selective Service Act (50 U.S.C. App. 454(a)).
+        (1) A period of basic training (or equivalent training) shorter than 12 weeks may be established by the Secretary concerned for members of the armed forces who have been credentialed in a medical profession or occupation and are serving in a health-care occupational specialty, as determined under regulations prescribed under paragraph (2). Any such period shall be established under regulations prescribed under paragraph (2) and may be established notwithstanding section 4(a) of the Military Selective Service Act (50 U.S.C. App. 454(a)). <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup> 
 
         (2) The Secretary of Defense, and the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy, shall prescribe regulations for the purposes of paragraph (1). The regulations prescribed by the Secretary of Defense shall apply uniformly to the military departments.
 
@@ -73,6 +73,10 @@ June 24, 1948, ch. 625, § 4(a) (words between semicolon and proviso of 6th pa
 
     The words “four months of basic training or its equivalent” are substituted for the words “the equivalent of at least four months of basic training”. The words “who is enlisted, inducted, appointed, or ordered to active duty after the date of enactment of the 1951 Amendments to the Universal Military Training and Service Act \[June 19, 1951\]” and “at any installation located” are omitted as surplusage.
 
+ __References in Text__ 
+
+    Section 4(a) of the Military Selective Service Act, referred to in subsec. (c)(1), was classified to section 454(a) of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as [section 3803(a) of Title 50][/us/usc/t50/s3803/a].
+
  __Amendments__ 
 
     2002—Subsec. (c)(2). [Pub. L. 107–296][/us/pl/107/296] substituted “of Homeland Security” for “of Transportation”.
@@ -106,6 +110,7 @@ June 24, 1948, ch. 625, § 4(a) (words between semicolon and proviso of 6th pa
 [/us/stat/107/1648]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1648
 [/us/pl/107/296/s1704/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1704%2Fb%2F1
 [/us/stat/116/2314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2314
+[/us/usc/t50/s3803/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3803%2Fa
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/pl/103/160/s511/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs511%2F1
 [/us/pl/103/160/s511/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs511%2F2

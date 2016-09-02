@@ -33,7 +33,7 @@
 
             (A) has been provisionally accepted for that duty; or
 
-            (B) has been selected, under the Military Selective Service Act (50 U.S.C. App. 451 et seq.), for service in that armed force.
+            (B) has been selected, under the Military Selective Service Act (50 U.S.C. App. 451 et seq.), <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  for service in that armed force.
 
     (b) This section does not apply to the survivors of persons who were temporary members of the Coast Guard Reserve at the time of their death.
 
@@ -127,7 +127,7 @@ In subsection (a), the word “receiving” is inserted for clarity. Clause (1) 
 
  __References in Text__ 
 
-    The Military Selective Service Act, referred to in subsec. (a)(5)(B), is [act June 24, 1948, ch. 625][/us/act/1948-06-24/ch625], [62 Stat. 604][/us/stat/62/604], as amended, which is classified principally to section 451 et seq. of Title 50, Appendix, War and National Defense. For complete classification of this Act to the Code, see References in Text note set out under [section 451 of Title 50][/us/usc/t50/s451], Appendix, and Tables.
+    The Military Selective Service Act, referred to in subsec. (a)(5)(B), is [act June 24, 1948, ch. 625][/us/act/1948-06-24/ch625], [62 Stat. 604][/us/stat/62/604], which was classified principally to section 451 et seq. of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as chapter 49 (§ 3801 et seq.) of Title 50. For complete classification of this Act to the Code, see Tables.
 
  __Amendments__ 
 
@@ -325,7 +325,6 @@ In subsection (a), the word “receiving” is inserted for clarity. Clause (1) 
 [/us/usc/t10/s101/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101%2F22
 [/us/act/1948-06-24/ch625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-24%2Fch625
 [/us/stat/62/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F604
-[/us/usc/t50/s451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs451
 [/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
 [/us/pl/99/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661
 [/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513

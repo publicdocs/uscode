@@ -37,7 +37,7 @@
 
             (D) Research and development relating to national defense sealift.
 
-            (E) Expenses for maintaining the National Defense Reserve Fleet under section 11 of the Merchant Ship Sales Act of 1946 (50 U.S.C. App. 1744), and for the costs of acquisition of vessels for, and alteration and conversion of vessels in (or to be placed in), the fleet, but only for vessels built in United States shipyards.
+            (E) Expenses for maintaining the National Defense Reserve Fleet under section 11 of the Merchant Ship Sales Act of 1946 (50 U.S.C. App. 1744), <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  and for the costs of acquisition of vessels for, and alteration and conversion of vessels in (or to be placed in), the fleet, but only for vessels built in United States shipyards.
 
         (2) Funds in the National Defense Sealift Fund may be obligated or expended only in amounts authorized by law.
 
@@ -95,7 +95,7 @@
 
     (i)  __Title or Management of Vessels__  __.—__ 
 
-    Nothing in this section (other than subsection (c)(1)(E)) shall be construed to affect or modify title to, management of, or funding responsibilities for, any vessel of the National Defense Reserve Fleet, or assigned to the Ready Reserve Force component of the National Defense Reserve Fleet, as established by section 11 of the Merchant Ship Sales Act of 1946 (50 U.S.C. App. 1744).
+    Nothing in this section (other than subsection (c)(1)(E)) shall be construed to affect or modify title to, management of, or funding responsibilities for, any vessel of the National Defense Reserve Fleet, or assigned to the Ready Reserve Force component of the National Defense Reserve Fleet, as established by section 11 of the Merchant Ship Sales Act of 1946 (50 U.S.C. App. 1744).1
 
     (j)  __Contracts for Incorporation of Defense Features in Commercial Vessels__  __.—__ 
 
@@ -149,13 +149,15 @@
 
             (A) a Department of Defense sealift vessel; and
 
-            (B) a national defense reserve fleet vessel, including a vessel in the Ready Reserve Force maintained under section 11 of the Merchant Ship Sales Act of 1946 (50 U.S.C. App. 1744).
+            (B) a national defense reserve fleet vessel, including a vessel in the Ready Reserve Force maintained under section 11 of the Merchant Ship Sales Act of 1946 (50 U.S.C. App. 1744).1
 
         (4) The term “head of an agency” has the meaning given that term in [section 2302(1) of this title][/us/usc/t10/s2302/1].
 
 (Added [Pub. L. 102–484, div. A, title X, § 1024(a)(1)][/us/pl/102/484/s1024/a/1], Oct. 23, 1992, [106 Stat. 2486][/us/stat/106/2486]; amended [Pub. L. 102–396, title V][/us/pl/102/396], Oct. 6, 1992, [106 Stat. 1896][/us/stat/106/1896]; [Pub. L. 104–106, div. A, title X, § 1014(a)][/us/pl/104/106/s1014/a], title XV, § 1502(a)(15), Feb. 10, 1996, [110 Stat. 423][/us/stat/110/423], 503; [Pub. L. 106–65, div. A, title X][/us/pl/106/65], §§ 1014(b), 1015, 1067(1), Oct. 5, 1999, [113 Stat. 742][/us/stat/113/742], 743, 774; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title X, § 1011\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–251; [Pub. L. 107–107, div. A, title X, § 1048(e)(9)][/us/pl/107/107/s1048/e/9], Dec. 28, 2001, [115 Stat. 1228][/us/stat/115/1228]; [Pub. L. 108–136, div. A, title X, § 1043(b)(9)][/us/pl/108/136/s1043/b/9], Nov. 24, 2003, [117 Stat. 1611][/us/stat/117/1611]; [Pub. L. 109–163, div. A, title X, § 1018(d)][/us/pl/109/163/s1018/d], Jan. 6, 2006, [119 Stat. 3426][/us/stat/119/3426]; [Pub. L. 109–304, § 17(a)(2)][/us/pl/109/304/s17/a/2], Oct. 6, 2006, [120 Stat. 1706][/us/stat/120/1706]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title XIV, § 1407, Oct. 14, 2008, [122 Stat. 4647][/us/stat/122/4647].)
 
  __References in Text__ 
+
+    Section 11 of the Merchant Ship Sales Act of 1946, referred to in subsecs. (c)(1)(E), (i), and (k)(3)(B), was classified to section 1744 of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as [section 4405 of Title 50][/us/usc/t50/s4405].
 
     [Section 1424 of Public Law 101–510][/us/pl/101/510/s1424], referred to in subsecs. (d)(3), (f)(2), and (k)(2)(A), is section 1424 of the National Defense Authorization Act for Fiscal Year 1991, which is set out as a note under [section 7291 of this title][/us/usc/t10/s7291].
 
@@ -269,6 +271,7 @@
 [/us/stat/120/1706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1706
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4647
+[/us/usc/t50/s4405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4405
 [/us/pl/101/510/s1424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1424
 [/us/usc/t10/s7291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs7291
 [/us/pl/102/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F396

@@ -135,7 +135,7 @@
 
     (g)  __Servicemembers Civil Relief Act Protections Unaffected__  __.—__ 
 
-    Nothing in this section may be construed to limit or otherwise affect the applicability of section 207 of the Servicemembers Civil Relief Act (50 U.S.C. App. 527).
+    Nothing in this section may be construed to limit or otherwise affect the applicability of section 207 of the Servicemembers Civil Relief Act (50 U.S.C. App. 527). <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup> 
 
     (h)  __Regulations__  __.—__ 
 
@@ -221,7 +221,7 @@
 
     The Truth in Lending Act, referred to in subsec. (c)(1)(B), (2), is title I of [Pub. L. 90–321][/us/pl/90/321], May 29, 1968, [82 Stat. 146][/us/stat/82/146], as amended, which is classified generally to subchapter I (§ 1601 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 15][/us/usc/t15/s1601] and Tables.
 
-    The Servicemembers Civil Relief Act, referred to in subsecs. (e)(2) and (g), is [act Oct. 17, 1940, ch. 888][/us/act/1940-10-17/ch888], [54 Stat. 1178][/us/stat/54/1178], as amended, which is classified to section 501 et seq. of Title 50, Appendix, War and National Defense. For complete classification of this Act to the Code, see [section 501 of Title 50][/us/usc/t50/s501], Appendix, and Tables.
+    The Servicemembers Civil Relief Act, referred to in subsecs. (e)(2) and (g), is [act Oct. 17, 1940, ch. 888][/us/act/1940-10-17/ch888], [54 Stat. 1178][/us/stat/54/1178], which was classified to section 501 et seq. of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as chapter 50 (§ 3901 et seq.) of Title 50. Section 207 of the Act is classified to [section 3937 of Title 50][/us/usc/t50/s3937]. For complete classification of this Act to the Code, see Tables.
 
  __Amendments__ 
 
@@ -305,7 +305,7 @@
 [/us/usc/t15/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1601
 [/us/act/1940-10-17/ch888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-17%2Fch888
 [/us/stat/54/1178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F1178
-[/us/usc/t50/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs501
+[/us/usc/t50/s3937]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3937
 [/us/pl/112/239/s661/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs661%2Fa%2F1
 [/us/pl/112/239/s661/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs661%2Fa%2F2
 [/us/pl/112/239/s662/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs662%2Fa

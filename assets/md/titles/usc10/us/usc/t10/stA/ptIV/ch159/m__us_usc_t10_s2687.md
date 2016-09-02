@@ -1489,7 +1489,7 @@
 
 >                 “(i) all regulations governing the utilization of excess property and the disposal of surplus property under the Federal Property and Administrative Services Act of 1949 \[see chapters 1 to 11 of Title 40, Public Buildings, Property, and Works and division C (except sections 3302, 3306(f), 3307(e), 3501(b), 3509, 3906, 4104, 4710, and 4711) of subtitle I of Title 41, Public Contracts\]; and
 
->                 “(ii) all regulations governing the conveyance and disposal of property under section 13(g) of the Surplus Property Act of 1944 (50 U.S.C. App. 1622(g)).
+>                 “(ii) all regulations governing the conveyance and disposal of property under section 13(g) of the Surplus Property Act of 1944 (50 U.S.C. App. 1622(g)) \[now [40 U.S.C. 545][/us/usc/t40/s545] note\].
 
 >             “(B)
 
@@ -3695,6 +3695,7 @@ Similar provisions for specified fiscal years were contained in the following ap
 [/us/usc/t10/s2687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2687
 [/us/usc/t10/s1034]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1034
 [/us/usc/t16/s667b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs667b
+[/us/usc/t40/s545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs545
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
 [/us/usc/t42/s9620/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9620%2Fh
 [/us/pl/100/526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F526

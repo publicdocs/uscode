@@ -163,7 +163,7 @@
 
 >         “(2) Retired officers on active duty under a call or order to active duty for 180 days or less.
 
->         “(3) Reserve or retired officers on active duty under section 10(b)(2) of the Military Selective Service Act (50 U.S.C. App. 460(b)(2)) for the administration of the Selective Service System.
+>         “(3) Reserve or retired officers on active duty under section 10(b)(2) of the Military Selective Service Act (50 U.S.C. App. 460(b)(2)) \[now [50 U.S.C. 3809(b)(2)][/us/usc/t50/s3809/b/2]\] for the administration of the Selective Service System.
 
 >     “(c)  __Apportionment of Reductions by Secretary of Defense__  __.—__ 
 
@@ -213,5 +213,6 @@
 [/us/usc/t32/s708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft32%2Fs708
 [/us/usc/t10/s12301/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs12301%2Fd
 [/us/usc/t10/s12304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs12304
+[/us/usc/t50/s3809/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3809%2Fb%2F2
 
 

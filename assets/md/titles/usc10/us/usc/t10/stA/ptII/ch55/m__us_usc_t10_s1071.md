@@ -95,7 +95,7 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 
 [Pub. L. 100–180, div. A, title VII, § 701][/us/pl/100/180/s701], Dec. 4, 1987, [101 Stat. 1108][/us/stat/101/1108], provided that: 
 
-> “This title \[enacting sections 1103, 2128 to 2130 \[now 16201 to 16203\], and 6392 of this title, amending sections 533, 591, 1079, 1086, 1251, 2120, 2122, 2123, 2124, 2127, 2172 \[now 16302\], 3353, 3855, 5600, 8353, and 8855 of this title, [section 302 of Title 37][/us/usc/t37/s302], Pay and Allowances of the Uniformed Services, and [section 460 of Title 50][/us/usc/t50/s460], Appendix, War and National Defense, enacting provisions set out as notes under sections 1073, 1074, 1079, 1092, 1103, 2121, 2124, 12201, and 16201 of this title, amending provisions set out as notes under sections 1073 and 1101 of this title, and repealing provisions set out as notes under sections 2121 and 2124 of this title\] may be cited as the ‘Military Health Care Amendments of 1987’.”
+> “This title \[enacting sections 1103, 2128 to 2130 \[now 16201 to 16203\], and 6392 of this title, amending sections 533, 591, 1079, 1086, 1251, 2120, 2122, 2123, 2124, 2127, 2172 \[now 16302\], 3353, 3855, 5600, 8353, and 8855 of this title, [section 302 of Title 37][/us/usc/t37/s302], Pay and Allowances of the Uniformed Services, and [section 3809 of Title 50][/us/usc/t50/s3809], War and National Defense, enacting provisions set out as notes under sections 1073, 1074, 1079, 1092, 1103, 2121, 2124, 12201, and 16201 of this title, amending provisions set out as notes under sections 1073 and 1101 of this title, and repealing provisions set out as notes under sections 2121 and 2124 of this title\] may be cited as the ‘Military Health Care Amendments of 1987’.”
 
  __Short Title of 1966 Amendment__ 
 
@@ -3146,7 +3146,7 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 [/us/pl/100/180/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs701
 [/us/stat/101/1108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1108
 [/us/usc/t37/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs302
-[/us/usc/t50/s460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs460
+[/us/usc/t50/s3809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3809
 [/us/pl/89/614/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F614%2Fs1
 [/us/stat/80/862]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F862
 [/us/pl/113/291/s523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs523

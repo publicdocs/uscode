@@ -25,7 +25,7 @@
 
     (c)  __Technology Risk Assessment Requirement__  __.—__ 
 
-        (1) If the Secretary of Defense is acting as a designee of the President under section 721(a) of the Defense Production Act of 1950 (50 U.S.C. App. 2170(a)) and if the Secretary determines that a proposed or pending merger, acquisition, or takeover may involve a firm engaged in the development of a defense critical technology or is otherwise important to the defense industrial and technology base, then the Secretary shall require the appropriate entity or entities from the list set forth in paragraph (2) to conduct an assessment of the risk of diversion of defense critical technology posed by such proposed or pending action.
+        (1) If the Secretary of Defense is acting as a designee of the President under section 721(a) of the Defense Production Act of 1950 (50 U.S.C. App. 2170(a))  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  and if the Secretary determines that a proposed or pending merger, acquisition, or takeover may involve a firm engaged in the development of a defense critical technology or is otherwise important to the defense industrial and technology base, then the Secretary shall require the appropriate entity or entities from the list set forth in paragraph (2) to conduct an assessment of the risk of diversion of defense critical technology posed by such proposed or pending action.
 
         (2)
 
@@ -40,6 +40,10 @@
             (D) The Air Force Foreign Aerospace Science and Technology Center.
 
 (Added [Pub. L. 102–484, div. A, title VIII, § 838(a)][/us/pl/102/484/s838/a], Oct. 23, 1992, [106 Stat. 2465][/us/stat/106/2465]; amended [Pub. L. 103–35, title II, § 201(d)(5)][/us/pl/103/35/s201/d/5], (h)(2), May 31, 1993, [107 Stat. 99][/us/stat/107/99], 100; [Pub. L. 107–314, div. A, title X, § 1041(a)(16)][/us/pl/107/314/s1041/a/16], Dec. 2, 2002, [116 Stat. 2645][/us/stat/116/2645].)
+
+ __References in Text__ 
+
+    Section 721(a) of the Defense Production Act of 1950, referred to in subsec. (c)(1), was classified to section 2170(a) of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as [section 4565(a) of Title 50][/us/usc/t50/s4565/a].
 
  __Amendments__ 
 
@@ -62,6 +66,7 @@
 [/us/stat/107/99]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F99
 [/us/pl/107/314/s1041/a/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs1041%2Fa%2F16
 [/us/stat/116/2645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2645
+[/us/usc/t50/s4565/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4565%2Fa
 [/us/pl/107/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314
 [/us/pl/103/35/s201/d/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F35%2Fs201%2Fd%2F5
 [/us/pl/103/35/s201/h/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F35%2Fs201%2Fh%2F2

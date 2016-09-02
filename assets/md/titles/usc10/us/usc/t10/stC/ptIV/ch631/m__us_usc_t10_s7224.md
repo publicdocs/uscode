@@ -67,7 +67,7 @@ Aug. 2, 1946, ch. 756, § 18, 60 Stat. 855.  </td>
 
     Joint Res. [July 25, 1947, ch. 327, § 3][/us/act/1947-07-25/ch327/s3], [61 Stat. 451][/us/stat/61/451], provided that in the interpretation of section 474 of former Title 34, the date July 25, 1947, should be deemed to be the date of termination of any state of war theretofore declared by Congress and of the national emergencies proclaimed by the President on Sept. 8, 1939, and May 27, 1941.
 
-    The state of war with Japan ended on Apr. 28, 1952, by the coming into effect of the Treaty of Peace with Japan on that date. The state of war with Germany ended on Oct. 19, 1951. See notes preceding section 1 of Appendix to Title 50, War and National Defense.
+    The state of war with Japan ended on Apr. 28, 1952, by the coming into effect of the Treaty of Peace with Japan on that date. The state of war with Germany ended on Oct. 19, 1951. See notes preceding [section 1 of Title 50][/us/usc/t50/s1], War and National Defense.
 
 ----------
 
@@ -80,5 +80,6 @@ Aug. 2, 1946, ch. 756, § 18, 60 Stat. 855.  </td>
 [/us/stat/70A/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F447
 [/us/act/1947-07-25/ch327/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-25%2Fch327%2Fs3
 [/us/stat/61/451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F451
+[/us/usc/t50/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1
 
 

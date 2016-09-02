@@ -17,7 +17,7 @@
 
     (a)  __Policy__  __.—__ 
 
-    Under section 3(5)(A) of the Export Administration Act of 1979 (50 U.S.C. App. 2402(5)(A)), it is the policy of the United States to oppose restrictive trade practices or boycotts fostered or imposed by foreign countries against other countries friendly to the United States or against any other United States person.
+    Under section 3(5)(A) of the Export Administration Act of 1979 (50 U.S.C. App. 2402(5)(A)), <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  it is the policy of the United States to oppose restrictive trade practices or boycotts fostered or imposed by foreign countries against other countries friendly to the United States or against any other United States person.
 
     (b)  __Prohibition__  __.—__ 
 
@@ -39,6 +39,10 @@
 
 (Added [Pub. L. 102–484, div. A, title XIII, § 1332(a)][/us/pl/102/484/s1332/a], Oct. 23, 1992, [106 Stat. 2555][/us/stat/106/2555]; amended [Pub. L. 111–350][/us/pl/111/350], §§ 4, 5(b)(31), Jan. 4, 2011, [124 Stat. 3841][/us/stat/124/3841], 3845.)
 
+ __References in Text__ 
+
+    Section 3(5)(A) of the Export Administration Act of 1979, referred to in subsec. (a), was classified to section 2402(5)(A) of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as [section 4602(5)(A) of Title 50][/us/usc/t50/s4602/5/A].
+
  __Amendments__ 
 
     2011—Subsec. (b)(1). [Pub. L. 111–350][/us/pl/111/350] substituted “simplified acquisition threshold (as defined in [section 134 of title 41][/us/usc/t41/s134])” for “small purchase threshold (as defined in section 4(11) of the Office of Federal Procurement Policy Act ([41 U.S.C. 403(11)][/us/usc/t41/s403/11]))”.
@@ -55,6 +59,7 @@
 [/us/stat/106/2555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2555
 [/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3841
+[/us/usc/t50/s4602/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4602%2F5%2FA
 [/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/usc/t41/s134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs134
 [/us/usc/t41/s403/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs403%2F11

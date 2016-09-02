@@ -23,7 +23,7 @@
 
         (2) During the period beginning on the date on which the person enlists under subsection (a) and ending on the date on which the person is enlisted in a regular component under paragraph (1), the person shall be in the Ready Reserve of the armed force concerned.
 
-    (c) A person who is under orders to report for induction into an armed force under the Military Selective Service Act (50 U.S.C. App. 451 et seq.), except as provided in clause (ii) or (iii) of section 6(c)(2)(A) of that Act, may not be enlisted under subsection (a).
+    (c) A person who is under orders to report for induction into an armed force under the Military Selective Service Act (50 U.S.C. App. 451 et seq.), <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  except as provided in clause (ii) or (iii) of section 6(c)(2)(A) of that Act, may not be enlisted under subsection (a).
 
     (d) This section shall be carried out under regulations to be prescribed by the Secretary of Defense or the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy.
 
@@ -31,7 +31,7 @@
 
  __References in Text__ 
 
-    The Military Selective Service Act, referred to in subsec. (c), is [act June 24, 1948, ch. 625][/us/act/1948-06-24/ch625], [62 Stat. 604][/us/stat/62/604], as amended, which is classified principally to section 451 et seq. of Title 50, Appendix, War and National Defense. Section 6 of the Act is classified to [section 456 of Title 50][/us/usc/t50/s456], Appendix. For complete classification of this Act to the Code, see References in Text note set out under [section 451 of Title 50][/us/usc/t50/s451], Appendix, and Tables.
+    The Military Selective Service Act, referred to in subsec. (c), is [act June 24, 1948, ch. 625][/us/act/1948-06-24/ch625], [62 Stat. 604][/us/stat/62/604], which was classified principally to section 451 et seq. of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as chapter 49 (§ 3801 et seq.) of Title 50. Section 6(c)(2)(A) of the Act is classified to [section 3806(c)(2)(A) of Title 50][/us/usc/t50/s3806/c/2/A]. For complete classification of this Act to the Code, see Tables.
 
  __Prior Provisions__ 
 
@@ -85,8 +85,7 @@
 [/us/stat/119/3233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3233
 [/us/act/1948-06-24/ch625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-24%2Fch625
 [/us/stat/62/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F604
-[/us/usc/t50/s456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs456
-[/us/usc/t50/s451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs451
+[/us/usc/t50/s3806/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3806%2Fc%2F2%2FA
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F18
 [/us/pl/85/861/s36B/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs36B%2F1

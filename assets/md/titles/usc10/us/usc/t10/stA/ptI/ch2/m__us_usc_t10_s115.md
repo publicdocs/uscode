@@ -145,7 +145,7 @@
 
         (10) Members of the National Guard on active duty or full-time National Guard duty for the purpose of carrying out drug interdiction and counter-drug activities under [section 112 of title 32][/us/usc/t32/s112].
 
-        (11) Members of a reserve component on active duty under section 10(b)(2) of the Military Selective Service Act (50 U.S.C. App. 460(b)(2)) for the administration of the Selective Service System.
+        (11) Members of a reserve component on active duty under section 10(b)(2) of the Military Selective Service Act (50 U.S.C. App. 460(b)(2)) 1 for the administration of the Selective Service System.
 
         (12) Members of the National Guard on full-time National Guard duty for the purpose of providing command, administrative, training, or support services for the National Guard Challenge Program authorized by [section 509 of title 32][/us/usc/t32/s509].
 
@@ -156,6 +156,8 @@
  __References in Text__ 
 
     Section 1203 of the Cooperative Threat Reduction Act of 1993, referred to in subsec. (i)(9), is [section 1203 of Pub. L. 103–160][/us/pl/103/160/s1203], div. A, title XII, which was classified to [section 5952 of Title 22][/us/usc/t22/s5952], Foreign Relations and Intercourse, and was repealed by [Pub. L. 113–291, div. A, title XIII, § 1351(3)][/us/pl/113/291/s1351/3], Dec. 19, 2014, [128 Stat. 3607][/us/stat/128/3607].
+
+    Section 10(b)(2) of the Military Selective Service Act, referred to in subsec. (i)(11), was classified to section 460(b)(2) of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as [section 3809(b)(2) of Title 50][/us/usc/t50/s3809/b/2].
 
  __Prior Provisions__ 
 
@@ -475,6 +477,7 @@
 [/us/usc/t22/s5952]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs5952
 [/us/pl/113/291/s1351/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1351%2F3
 [/us/stat/128/3607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3607
+[/us/usc/t50/s3809/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3809%2Fb%2F2
 [/us/pl/93/155/s803/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F155%2Fs803%2Fa
 [/us/stat/87/612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F612
 [/us/pl/94/361/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F361%2Fs302
