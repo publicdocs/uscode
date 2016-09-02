@@ -337,7 +337,7 @@
 
 >     “(b)  __Rulemaking__  __.—__ 
 
->     The Librarian of Congress, upon the recommendation of the Register of Copyrights, who shall consult with the Assistant Secretary for Communications and Information of the Department of Commerce and report and comment on his or her views in making such recommendation, shall determine, consistent with the requirements set forth under [section 1201(a)(1) of title 17][/us/usc/t17/s1201/a/1], United States Code, whether to extend the exemption for the class of works described in section 201.40(b)(3) of title 37, Code of Federal Regulations, as amended by subsection (a), to include any other category of wireless devices in addition to wireless telephone handsets. The determination shall be made in the first rulemaking under [section 1201(a)(1)(C) of title 17][/us/usc/t17/s1201/a/1/C], United States Code, that begins on or after the date of enactment of this Act \[Aug. 1, 2014\].
+>     The Librarian of Congress, upon the recommendation of the Register of Copyrights, who shall consult with the Assistant Secretary for Communications and Information of the Department of Commerce and report and comment on his or her views in making such recommendation, shall determine, consistent with the requirements set forth under [section 1201(a)(1) of title 17][/us/usc/t17/s1201/a/1], United States Code, whether to extend the exemption for the class of works described in section 201.40(b)(3) of title 37, Code of Federal Regulations, as amended by subsection (a), to include any other category of wireless devices in addition to wireless telephone handsets. The determination shall be made in the first rulemaking under [section 1201(a)(1)(C) of title 17][/us/usc/t17/s1201/a/1/C], United States Code, that begins on or after the date of enactment of this Act.
 
 >     “(c)  __Unlocking at Direction of Owner__  __.—__ 
 
@@ -349,7 +349,7 @@
 
 >             “(B) as may be extended to other wireless devices pursuant to a determination in the rulemaking conducted under subsection (b); or
 
->         “(2) as authorized by an exemption adopted by the Librarian of Congress pursuant to a determination made on or after the date of enactment of this Act \[Aug. 1, 2014\] under [section 1201(a)(1)(C) of title 17][/us/usc/t17/s1201/a/1/C], United States Code,
+>         “(2) as authorized by an exemption adopted by the Librarian of Congress pursuant to a determination made on or after the date of enactment of this Act under [section 1201(a)(1)(C) of title 17][/us/usc/t17/s1201/a/1/C], United States Code,
 
 >         may be initiated by the owner of any such handset or other device, by another person at the direction of the owner, or by a provider of a commercial mobile radio service or a commercial mobile data service at the direction of such owner or other person, solely in order to enable such owner or a family member of such owner to connect to a wireless telecommunications network, when such connection is authorized by the operator of such network.
 
@@ -369,7 +369,7 @@
 
 >         “(1)  __Commercial mobile data service; commercial mobile radio service__  __.—__ 
 
->         The terms ‘commercial mobile data service’ and ‘commercial mobile radio service’ have the respective meanings given those terms in section 20.3 of title 47, Code of Federal Regulations, as in effect on the date of the enactment of this Act \[Aug. 1, 2014\].
+>         The terms ‘commercial mobile data service’ and ‘commercial mobile radio service’ have the respective meanings given those terms in section 20.3 of title 47, Code of Federal Regulations, as in effect on the date of the enactment of this Act.
 
 >         “(2)  __Wireless telecommunications network__  __.—__ 
 
