@@ -35,7 +35,7 @@
 
                 (i) If the lands to be leased are within a special tar sand area, they shall be leased to the highest responsible qualified bidder by competitive bidding under general regulations in units of not more than 5,760 acres, which shall be as nearly compact as possible, upon the payment by the lessee of such bonus as may be accepted by the Secretary.
 
-                (ii) Royalty shall be 12½ per centum in amount or value of production removed or sold from the lease, subject to subsection (k)(1)(c). <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be subsection “(k)(1)(C)”. </sup></sup> 
+                (ii) Royalty shall be 12½ per centum in amount or value of production removed or sold from the lease, subject to subsection (k)(1)(c). <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be subsection “(k)(1)(C).”. </sup></sup> 
 
                 (iii) The Secretary may lease such additional lands in special tar sand areas as may be required in support of any operations necessary for the recovery of tar sands.
 

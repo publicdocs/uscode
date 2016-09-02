@@ -71,7 +71,7 @@
 
     (h) __Notice__ 
 
-        Notice under this  <sup>\[1\]</sup>  <sup><sup> 1 So in original. </sup></sup>  subsection (a) shall be by personal service by an authorized representative of the Secretary or by registered mail. Any person may, in the manner prescribed by the Secretary, designate a representative to receive any notice under this subsection.
+        Notice under this  <sup>\[3\]</sup>  <sup><sup> 3 So in original. </sup></sup>  subsection (a) shall be by personal service by an authorized representative of the Secretary or by registered mail. Any person may, in the manner prescribed by the Secretary, designate a representative to receive any notice under this subsection.
 
     (i) __Reasons on record for amount of penalty__ 
 
