@@ -17,7 +17,7 @@
 
     (a) __Amount of withdrawal liability; determinative factors__ 
 
-    In the case of a plan described in subsection (b) of this section—
+    In the case of a plan described in subsection (b)—
 
         (1)
 
@@ -37,7 +37,7 @@
 
         (2)
 
-         the withdrawal liability of an employer who withdraws after December 31, 1983, as a result of a termination described in [section 1341a(a)(2) of this title][/us/usc/t29/s1341a/a/2] which is agreed to by the labor organization that appoints the employee representative on the joint board of trustees which sponsors the plan, shall be determined under subsection (c) of this section if—
+         the withdrawal liability of an employer who withdraws after December 31, 1983, as a result of a termination described in [section 1341a(a)(2) of this title][/us/usc/t29/s1341a/a/2] which is agreed to by the labor organization that appoints the employee representative on the joint board of trustees which sponsors the plan, shall be determined under subsection (c) if—
 
             (A) as a result of prior employer withdrawals in any plan year commencing after January 1, 1980, the number of contribution base units is reduced to less than 67 percent of the average number of such units for the calendar years 1974 through 1979; and
 

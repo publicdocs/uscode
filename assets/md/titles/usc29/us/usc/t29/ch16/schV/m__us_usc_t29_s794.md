@@ -53,7 +53,7 @@
 
     (c) __Significant structural alterations by small providers__ 
 
-        Small providers are not required by subsection (a) of this section to make significant structural alterations to their existing facilities for the purpose of assuring program accessibility, if alternative means of providing the services are available. The terms used in this subsection shall be construed with reference to the regulations existing on March 22, 1988.
+        Small providers are not required by subsection (a) to make significant structural alterations to their existing facilities for the purpose of assuring program accessibility, if alternative means of providing the services are available. The terms used in this subsection shall be construed with reference to the regulations existing on March 22, 1988.
 
     (d) __Standards used in determining violation of section__ 
 

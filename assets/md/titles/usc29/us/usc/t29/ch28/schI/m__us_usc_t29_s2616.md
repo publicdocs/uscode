@@ -17,7 +17,7 @@
 
     (a) __In general__ 
 
-        To ensure compliance with the provisions of this subchapter, or any regulation or order issued under this subchapter, the Secretary shall have, subject to subsection (c) of this section, the investigative authority provided under [section 211(a) of this title][/us/usc/t29/s211/a].
+        To ensure compliance with the provisions of this subchapter, or any regulation or order issued under this subchapter, the Secretary shall have, subject to subsection (c), the investigative authority provided under [section 211(a) of this title][/us/usc/t29/s211/a].
 
     (b) __Obligation to keep and preserve records__ 
 

@@ -43,7 +43,7 @@
 
     (b) __Alternative collection proceedings; civil action subsequent to arbitration award; conduct of arbitration proceedings__ 
 
-        (1) If no arbitration proceeding has been initiated pursuant to subsection (a) of this section, the amounts demanded by the plan sponsor under [section 1399(b)(1) of this title][/us/usc/t29/s1399/b/1] shall be due and owing on the schedule set forth by the plan sponsor. The plan sponsor may bring an action in a State or Federal court of competent jurisdiction for collection.
+        (1) If no arbitration proceeding has been initiated pursuant to subsection (a), the amounts demanded by the plan sponsor under [section 1399(b)(1) of this title][/us/usc/t29/s1399/b/1] shall be due and owing on the schedule set forth by the plan sponsor. The plan sponsor may bring an action in a State or Federal court of competent jurisdiction for collection.
 
         (2) Upon completion of the arbitration proceedings in favor of one of the parties, any party thereto may bring an action, no later than 30 days after the issuance of an arbitrator’s award, in an appropriate United States district court in accordance with [section 1451 of this title][/us/usc/t29/s1451] to enforce, vacate, or modify the arbitrator’s award.
 
@@ -51,7 +51,7 @@
 
     (c) __Presumption respecting finding of fact by arbitrator__ 
 
-        In any proceeding under subsection (b) of this section, there shall be a presumption, rebuttable only by a clear preponderance of the evidence, that the findings of fact made by the arbitrator were correct.
+        In any proceeding under subsection (b), there shall be a presumption, rebuttable only by a clear preponderance of the evidence, that the findings of fact made by the arbitrator were correct.
 
     (d) __Payments by employer prior and subsequent to determination by arbitrator; adjustments; failure of employer to make payments__ 
 
@@ -81,7 +81,7 @@
 
             (A) __Determination__ 
 
-            Notwithstanding subsection (a)(3) of this section—
+            Notwithstanding subsection (a)(3)—
 
                 (i) a determination by the plan sponsor under paragraph (1)(B) shall not be presumed to be correct, and
 
@@ -91,7 +91,7 @@
 
             (B) __Procedure__ 
 
-                Notwithstanding subsection (d) of this section and [section 1399(c) of this title][/us/usc/t29/s1399/c], if an employer contests the plan sponsor’s determination under paragraph (1) through an arbitration proceeding pursuant to subsection (a) of this section, or through a claim brought in a court of competent jurisdiction, the employer shall not be obligated to make any withdrawal liability payments until a final decision in the arbitration proceeding, or in court, upholds the plan sponsor’s determination.
+                Notwithstanding subsection (d) and [section 1399(c) of this title][/us/usc/t29/s1399/c], if an employer contests the plan sponsor’s determination under paragraph (1) through an arbitration proceeding pursuant to subsection (a), or through a claim brought in a court of competent jurisdiction, the employer shall not be obligated to make any withdrawal liability payments until a final decision in the arbitration proceeding, or in court, upholds the plan sponsor’s determination.
 
     (f) __Procedures applicable to certain disputes__ 
 

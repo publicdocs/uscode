@@ -25,7 +25,7 @@
 
         shall not be taken into account.
 
-    (b) A plan may, in a manner not inconsistent with regulations, which shall be prescribed by the corporation, adjust the amount of unfunded vested benefits allocable to other employers under a plan maintained by an employer described in subsection (a) of this section.
+    (b) A plan may, in a manner not inconsistent with regulations, which shall be prescribed by the corporation, adjust the amount of unfunded vested benefits allocable to other employers under a plan maintained by an employer described in subsection (a).
 
 ([Pub. L. 93–406, title IV][/us/pl/93/406/tIV], § 4217, as added [Pub. L. 96–364, title I][/us/pl/96/364/tI], § 104(2), Sept. 26, 1980, [94 Stat. 1235][/us/stat/94/1235]; amended [Pub. L. 98–369, div. A, title V][/us/pl/98/369/dA/tV], § 558(b)(1)(A), (B), July 18, 1984, [98 Stat. 899][/us/stat/98/899].)
 

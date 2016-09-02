@@ -33,7 +33,7 @@
 
         (2) __Employment statistics__ 
 
-            The Secretary of Labor shall provide the Commissioner with employment statistics specified in section 49l–2 of this title, that facilitate evaluation by the Commissioner of the program carried out under part B of this subchapter, and allow the Commissioner to compare the progress of individuals with disabilities who are assisted under the program in securing, retaining, regaining, and advancing in employment with the progress made by individuals who are assisted under title I of the Workforce Innovation and Opportunity Act \[[29 U.S.C. 3111][/us/usc/t29/s3111] et seq.\].
+            The Secretary of Labor shall provide the Commissioner with employment statistics specified in section 49l–2 of this title, that facilitate evaluation by the Commissioner of the program carried out under part B, and allow the Commissioner to compare the progress of individuals with disabilities who are assisted under the program in securing, retaining, regaining, and advancing in employment with the progress made by individuals who are assisted under title I of the Workforce Innovation and Opportunity Act \[[29 U.S.C. 3111][/us/usc/t29/s3111] et seq.\].
 
     (b) __Treatment of information__ 
 
@@ -63,7 +63,7 @@
 
  __Definitions of Terms in__  __[__  __Pub. L. 113–128__  __][/us/pl/113/128]__ 
 
-    Except as otherwise provided, terms defined in [section 3 of Pub. L. 113–128][/us/pl/113/128/s3], which is classified to [section 3102 of this title][/us/usc/t29/s3102], apply to this section.
+    Except as otherwise provided, definitions in [section 3 of Pub. L. 113–128][/us/pl/113/128/s3], which is classified to [section 3102 of this title][/us/usc/t29/s3102], apply to this section.
 
 ----------
 

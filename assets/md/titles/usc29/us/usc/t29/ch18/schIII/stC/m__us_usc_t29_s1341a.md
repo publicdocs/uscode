@@ -29,7 +29,7 @@
 
         (1)
 
-         The date on which a plan terminates under paragraph (1) or (3) of subsection (a) of this section is the later of—
+         The date on which a plan terminates under paragraph (1) or (3) of subsection (a) is the later of—
 
             (A) the date on which the amendment is adopted, or
 
@@ -37,7 +37,7 @@
 
         (2)
 
-         The date on which a plan terminates under paragraph (2) of subsection (a) of this section is the earlier of—
+         The date on which a plan terminates under paragraph (2) of subsection (a) is the earlier of—
 
             (A) the date on which the last employer withdraws, or
 
@@ -45,7 +45,7 @@
 
     (c) __Duties of plan sponsor of amended plan__ 
 
-    Except as provided in subsection (f)(1) of this section, the plan sponsor of a plan which terminates under paragraph (2) of subsection (a) of this section shall—
+    Except as provided in subsection (f)(1), the plan sponsor of a plan which terminates under paragraph (2) of subsection (a) shall—
 
         (1) limit the payment of benefits to benefits which are nonforfeitable under the plan as of the date of the termination, and
 
@@ -53,11 +53,11 @@
 
     (d) __Duties of plan sponsor of nonoperative plan__ 
 
-        The plan sponsor of a plan which terminates under paragraph (2) of subsection (a) of this section shall reduce benefits and suspend benefit payments in accordance with [section 1441 of this title][/us/usc/t29/s1441].
+        The plan sponsor of a plan which terminates under paragraph (2) of subsection (a) shall reduce benefits and suspend benefit payments in accordance with [section 1441 of this title][/us/usc/t29/s1441].
 
     (e) __Amount of contribution of employer under amended plan for each plan year subsequent to plan termination date__ 
 
-        In the case of a plan which terminates under paragraph (1) or (3) of subsection (a) of this section, the rate of an employer’s contributions under the plan for each plan year beginning on or after the plan termination date shall equal or exceed the highest rate of employer contributions at which the employer had an obligation to contribute under the plan in the 5 preceding plan years ending on or before the plan termination date, unless the corporation approves a reduction in the rate based on a finding that the plan is or soon will be fully funded.
+        In the case of a plan which terminates under paragraph (1) or (3) of subsection (a), the rate of an employer’s contributions under the plan for each plan year beginning on or after the plan termination date shall equal or exceed the highest rate of employer contributions at which the employer had an obligation to contribute under the plan in the 5 preceding plan years ending on or before the plan termination date, unless the corporation approves a reduction in the rate based on a finding that the plan is or soon will be fully funded.
 
     (f) __Payment of benefits; reporting requirements for terminated plans and rules and standards for administration of such plans__ 
 

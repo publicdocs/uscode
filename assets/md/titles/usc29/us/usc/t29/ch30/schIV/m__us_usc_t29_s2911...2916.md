@@ -17,13 +17,13 @@
 
     Section 2911, [Pub. L. 105–220, title I][/us/pl/105/220/tI], § 166, Aug. 7, 1998, [112 Stat. 1021][/us/stat/112/1021]; [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(f) \[title VIII, § 401(7)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–411; [Pub. L. 107–110, title VII][/us/pl/107/110/tVII], § 702(g), Jan. 8, 2002, [115 Stat. 1947][/us/stat/115/1947], related to Native American programs. See [section 3221 of this title][/us/usc/t29/s3221].
 
-    Provisions similar to section 2911 were contained in sections 1671 and 1673 of this title prior to repeal by [Pub. L. 105–220][/us/pl/105/220].
+    Provisions similar to those formerly contained in section 2911 were contained in sections 1671 and 1673 of this title prior to repeal by [Pub. L. 105–220][/us/pl/105/220].
 
     Section 2912, [Pub. L. 105–220, title I][/us/pl/105/220/tI], § 167, Aug. 7, 1998, [112 Stat. 1025][/us/stat/112/1025]; [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(f) \[title VIII, § 401(8)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–411, related to migrant and seasonal farmworker programs. See [section 3222 of this title][/us/usc/t29/s3222].
 
     Section 2913, [Pub. L. 105–220, title I][/us/pl/105/220/tI], § 168, Aug. 7, 1998, [112 Stat. 1027][/us/stat/112/1027]; [Pub. L. 109–233, title IV][/us/pl/109/233/tIV], § 402(e)(4), June 15, 2006, [120 Stat. 411][/us/stat/120/411], related to veterans’ workforce investment programs.
 
-    Provisions similar to section 2913 were contained in [section 1721 of this title][/us/usc/t29/s1721] prior to repeal by [Pub. L. 105–220][/us/pl/105/220].
+    Provisions similar to those formerly contained in section 2913 were contained in [section 1721 of this title][/us/usc/t29/s1721] prior to repeal by [Pub. L. 105–220][/us/pl/105/220].
 
     Section 2914, [Pub. L. 105–220, title I][/us/pl/105/220/tI], § 169, Aug. 7, 1998, [112 Stat. 1028][/us/stat/112/1028]; [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(4) \[title V, § 518\], Nov. 29, 1999, [113 Stat. 1535][/us/stat/113/1535], 1501A–276, authorized youth opportunity grants.
 

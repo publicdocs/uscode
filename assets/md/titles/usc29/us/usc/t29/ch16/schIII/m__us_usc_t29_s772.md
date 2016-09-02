@@ -63,7 +63,7 @@
 
             (A) __In general__ 
 
-                The Commissioner may make grants to, and enter into contracts with, States and public or nonprofit agencies and organizations (including institutions of higher education) to pay part of the costs of academic training projects to provide training that leads to an academic degree or academic certificate. In making such grants or entering into such contracts, the Commissioner shall target funds to areas determined under subsection (e) of this section to have shortages of qualified personnel.
+                The Commissioner may make grants to, and enter into contracts with, States and public or nonprofit agencies and organizations (including institutions of higher education) to pay part of the costs of academic training projects to provide training that leads to an academic degree or academic certificate. In making such grants or entering into such contracts, the Commissioner shall target funds to areas determined under subsection (e) to have shortages of qualified personnel.
 
             (B) __Types of projects__ 
 

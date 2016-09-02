@@ -91,9 +91,9 @@
 
          For purposes of this part—
 
-            (A) only amounts paid by the fund to a plan under subsection (c)(1)(A) of this section shall be credited to withdrawal liability otherwise payable by the employer, unless the plan otherwise provides, and
+            (A) only amounts paid by the fund to a plan under subsection (c)(1)(A) shall be credited to withdrawal liability otherwise payable by the employer, unless the plan otherwise provides, and
 
-            (B) any amounts paid by the fund under subsection (c) of this section to a plan shall be treated by the plan as a payment of withdrawal liability to such plan.
+            (B) any amounts paid by the fund under subsection (c) to a plan shall be treated by the plan as a payment of withdrawal liability to such plan.
 
         (2) For purposes of applying provisions relating to the funding standard accounts (and minimum contribution requirements), amounts paid from the plan to the fund shall be applied to reduce the amount treated as contributed to the plan.
 
@@ -101,9 +101,9 @@
 
     The fund shall be subrogated to the rights of the plan against the employer that has withdrawn from the plan for amounts paid by a fund to a plan under—
 
-        (1) subsection (c)(1)(A) of this section, to the extent not credited under subsection (d)(1)(A) of this section, and
+        (1) subsection (c)(1)(A), to the extent not credited under subsection (d)(1)(A), and
 
-        (2) subsection (c)(1)(C) of this section.
+        (2) subsection (c)(1)(C).
 
     (f) __Discharge of rights of fiduciary of fund; standards applicable, etc.__ 
 

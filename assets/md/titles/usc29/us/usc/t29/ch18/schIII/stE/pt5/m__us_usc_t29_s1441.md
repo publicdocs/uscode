@@ -21,13 +21,13 @@
 
     (b) __Determinations respecting value of nonforfeitable benefits under terminated plan and value of assets of plan__ 
 
-        (1) The value of nonforfeitable benefits under a terminated plan referred to in subsection (a) of this section, and the value of the plan’s assets, shall be determined in writing, in accordance with regulations prescribed by the corporation, as of the end of the plan year during which [section 1341a(d) of this title][/us/usc/t29/s1341a/d] becomes applicable to the plan, and each plan year thereafter.
+        (1) The value of nonforfeitable benefits under a terminated plan referred to in subsection (a), and the value of the plan’s assets, shall be determined in writing, in accordance with regulations prescribed by the corporation, as of the end of the plan year during which [section 1341a(d) of this title][/us/usc/t29/s1341a/d] becomes applicable to the plan, and each plan year thereafter.
 
         (2) For purposes of this section, plan assets include outstanding claims for withdrawal liability (within the meaning of [section 1301(a)(12) of this title][/us/usc/t29/s1301/a/12]).
 
     (c) __Amendment of plan by plan sponsor to reduce benefits for conservation of assets; factors applicable__ 
 
-        (1) If, according to the determination made under subsection (b) of this section, the value of nonforfeitable benefits exceeds the value of the plan’s assets, the plan sponsor shall amend the plan to reduce benefits under the plan to the extent necessary to ensure that the plan’s assets are sufficient, as determined and certified in accordance with regulations prescribed by the corporation, to discharge when due all of the plan’s obligations with respect to nonforfeitable benefits.
+        (1) If, according to the determination made under subsection (b), the value of nonforfeitable benefits exceeds the value of the plan’s assets, the plan sponsor shall amend the plan to reduce benefits under the plan to the extent necessary to ensure that the plan’s assets are sufficient, as determined and certified in accordance with regulations prescribed by the corporation, to discharge when due all of the plan’s obligations with respect to nonforfeitable benefits.
 
         (2)
 
@@ -53,7 +53,7 @@
 
              a plan is insolvent if—
 
-                (i) the plan has been amended to reduce benefits to the extent permitted by subsection (c) of this section, and
+                (i) the plan has been amended to reduce benefits to the extent permitted by subsection (c), and
 
                 (ii) the plan’s available resources are not sufficient to pay benefits under the plan when due for the plan year; and
 

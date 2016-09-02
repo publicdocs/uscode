@@ -43,7 +43,7 @@
 
     (b) __Posting requirements imposed upon employers__ 
 
-        Each farm labor contractor, agricultural employer, and agricultural association which employs any seasonal agricultural worker shall, at the place of employment, post in a conspicuous place a poster provided by the Secretary setting forth the rights and protections afforded such workers under this chapter, including the right of a seasonal agricultural worker to have, upon request, a written statement provided by the farm labor contractor, agricultural employer, or agricultural association, of the information described in subsection (a) of this section. Such employer shall provide, upon request, a written statement of the information described in subsection (a) of this section.
+        Each farm labor contractor, agricultural employer, and agricultural association which employs any seasonal agricultural worker shall, at the place of employment, post in a conspicuous place a poster provided by the Secretary setting forth the rights and protections afforded such workers under this chapter, including the right of a seasonal agricultural worker to have, upon request, a written statement provided by the farm labor contractor, agricultural employer, or agricultural association, of the information described in subsection (a). Such employer shall provide, upon request, a written statement of the information described in subsection (a).
 
     (c) __Recordkeeping and information requirements imposed upon employers__ 
 
@@ -69,11 +69,11 @@
 
     (d) __Furnishing of records by farm labor contractor; maintenance of records by recipient__ 
 
-        (1)  <sup>\[1\]</sup>  <sup><sup> 1 So in original. No par. (2) has been enacted. </sup></sup>  Each farm labor contractor shall provide to any other farm labor contractor and to any agricultural employer and agricultural association to which such farm labor contractor has furnished seasonal agricultural workers, copies of all records with respect to each such worker which such farm labor contractor is required to retain by subsection (c)(1) of this section. The recipient of these records shall keep them for a period of three years from the end of the period of employment.
+        (1)  <sup>\[1\]</sup>  <sup><sup> 1 So in original. No par. (2) has been enacted. </sup></sup>  Each farm labor contractor shall provide to any other farm labor contractor and to any agricultural employer and agricultural association to which such farm labor contractor has furnished seasonal agricultural workers, copies of all records with respect to each such worker which such farm labor contractor is required to retain by subsection (c)(1). The recipient of these records shall keep them for a period of three years from the end of the period of employment.
 
     (e) __Prohibition on knowingly providing false or misleading information to workers__ 
 
-        No farm labor contractor, agricultural employer, or agricultural association shall knowingly provide false or misleading information to any seasonal agricultural worker concerning the terms, conditions, or existence of agricultural employment required to be disclosed by subsection (a), (b), or (c) of this section.
+        No farm labor contractor, agricultural employer, or agricultural association shall knowingly provide false or misleading information to any seasonal agricultural worker concerning the terms, conditions, or existence of agricultural employment required to be disclosed by subsection (a), (b), or (c).
 
     (f) __Form and language requirements__ 
 

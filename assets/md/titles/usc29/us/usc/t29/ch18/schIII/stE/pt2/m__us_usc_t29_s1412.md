@@ -21,7 +21,7 @@
 
     (b) __Accrued benefit of participant or beneficiary not lower immediately after effective date of transfer or merger__ 
 
-        No accrued benefit of a participant or beneficiary may be lower immediately after the effective date of a transfer or merger described in subsection (a) of this section than the benefit immediately before that date.
+        No accrued benefit of a participant or beneficiary may be lower immediately after the effective date of a transfer or merger described in subsection (a) than the benefit immediately before that date.
 
     (c) __Liability of multiemployer plan to corporation where single-employer plan terminates within 60 months after effective date of transfer; amount of liability, exemption, etc.__ 
 
@@ -55,7 +55,7 @@
 
         (1) Except as provided in paragraph (2), a multiemployer plan may not transfer liabilities to a single-employer plan unless the plan sponsor of the plan to which the liabilities would be transferred agrees to the transfer.
 
-        (2) In the case of a transfer described in subsection (c)(3) of this section, paragraph (1) of this subsection is satisfied by the advance agreement to the transfer by the employer who will be obligated to contribute to the single-employer plan.
+        (2) In the case of a transfer described in subsection (c)(3), paragraph (1) of this subsection is satisfied by the advance agreement to the transfer by the employer who will be obligated to contribute to the single-employer plan.
 
     (f) __Additional requirements by corporation for protection of interests of plan participants, beneficiaries and corporation; approval by corporation of transfer of assets or liabilities to single-employer plan from plan in reorganization; covered transfers in connection with termination__ 
 

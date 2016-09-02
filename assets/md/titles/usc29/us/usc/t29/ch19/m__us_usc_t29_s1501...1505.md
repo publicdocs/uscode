@@ -27,7 +27,7 @@
 
  __Effective Date of Repeal__ 
 
-    [Pub. L. 105–220, title I][/us/pl/105/220/tI], § 199(c)(2)(B), Aug. 7, 1998, [112 Stat. 1059][/us/stat/112/1059], which provided that the repeal made by subsection (b)(2) \[repealing this chapter and provisions set out as a note under [section 801 of this title][/us/usc/t29/s801]\] would take effect on July 1, 2000, was repealed by [Pub. L. 113–128, title V][/us/pl/113/128/tV], § 511(a), July 22, 2014, [128 Stat. 1705][/us/stat/128/1705].
+    [Pub. L. 105–220, title I][/us/pl/105/220/tI], § 199(c)(2)(B), Aug. 7, 1998, [112 Stat. 1059][/us/stat/112/1059], which provided that the repeal made by subsection (b)(2) (repealing this chapter and provisions set out as a note under [section 801 of this title][/us/usc/t29/s801]) would take effect on July 1, 2000, was repealed by [Pub. L. 113–128, title V][/us/pl/113/128/tV], § 511(a), July 22, 2014, [128 Stat. 1705][/us/stat/128/1705].
 
  __Short Title of 1992 Amendment__ 
 

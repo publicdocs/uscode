@@ -237,7 +237,7 @@
 
 [Pub. L. 114–18][/us/pl/114/18], § 2(f), May 22, 2015, [129 Stat. 214][/us/stat/129/214], provided that: 
 
-> “The amendments made by this section \[amending this section and sections 3121, 3122, 3141, 3164, 3172, and 3174\] shall take effect as if included in the Workforce Innovation and Opportunity Act \[[Pub. L. 113–128][/us/pl/113/128]\].”
+> “The amendments made by this section \[amending this section and sections 3121, 3122, 3141, 3164, 3172, and 3174 of this title\] shall take effect as if included in the Workforce Innovation and Opportunity Act \[[Pub. L. 113–128][/us/pl/113/128]\].”
 
  __Effective Date__ 
 

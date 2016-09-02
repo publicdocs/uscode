@@ -21,11 +21,11 @@
 
     (b) __Methods__ 
 
-        The Secretary shall carry out the requirements of subsection (a) of this section by means which shall ensure effective communication to the public, including publication of public service announcements, public meetings, creation of educational materials, and establishment of a site on the Internet.
+        The Secretary shall carry out the requirements of subsection (a) by means which shall ensure effective communication to the public, including publication of public service announcements, public meetings, creation of educational materials, and establishment of a site on the Internet.
 
     (c) __Information to be made available__ 
 
-    The information to be made available by the Secretary as part of the program of outreach required under subsection (a) of this section shall include the following:
+    The information to be made available by the Secretary as part of the program of outreach required under subsection (a) shall include the following:
 
         (1) a description of the vehicles currently available to individuals and employers for creating and maintaining retirement income savings, specifically including information explaining to employers, in simple terms, the characteristics and operation of the different retirement savings vehicles, including the steps to establish each such vehicle; and
 

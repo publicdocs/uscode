@@ -21,19 +21,19 @@
 
     (b) __Voluntary provision of information__ 
 
-        No individual who is deaf-blind may be required to provide information to the Center for any purpose with respect to a registry established under subsection (a) of this section.
+        No individual who is deaf-blind may be required to provide information to the Center for any purpose with respect to a registry established under subsection (a).
 
     (c) __Nondisclosure__ 
 
-        The Center (including the network of the Center) may not disclose information contained in a registry established under subsection (a) of this section to any individual or organization that is not affiliated with the Center, unless the individual to whom the information relates provides specific written authorization for the Center to disclose the information.
+        The Center (including the network of the Center) may not disclose information contained in a registry established under subsection (a) to any individual or organization that is not affiliated with the Center, unless the individual to whom the information relates provides specific written authorization for the Center to disclose the information.
 
     (d) __Privacy rights__ 
 
-        The requirements of [section 552a of title 5][/us/usc/t5/s552a] (commonly known as the “Privacy Act of 1974”) shall apply to personally identifiable information contained in the registries established by the Center under subsection (a) of this section, in the same manner and to the same extent as such requirements apply to a record of an agency.
+        The requirements of [section 552a of title 5][/us/usc/t5/s552a] (commonly known as the “Privacy Act of 1974”) shall apply to personally identifiable information contained in the registries established by the Center under subsection (a), in the same manner and to the same extent as such requirements apply to a record of an agency.
 
     (e) __Removal of information__ 
 
-        On the request of an individual, the Center shall remove all information relating to the individual from any registry established under subsection (a) of this section.
+        On the request of an individual, the Center shall remove all information relating to the individual from any registry established under subsection (a).
 
 ([Pub. L. 98–221, title II][/us/pl/98/221/tII], § 209, as added [Pub. L. 105–220, title IV][/us/pl/105/220/tIV], § 412(c), Aug. 7, 1998, [112 Stat. 1241][/us/stat/112/1241].)
 

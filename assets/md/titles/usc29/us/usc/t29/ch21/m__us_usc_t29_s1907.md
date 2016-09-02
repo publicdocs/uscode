@@ -23,7 +23,7 @@
 
         (1) __In general__ 
 
-            The Secretary shall make payments to the Endowment Fund from amounts appropriated pursuant to subsection (h) of this section, consistent with the provisions of this section.
+            The Secretary shall make payments to the Endowment Fund from amounts appropriated pursuant to subsection (h), consistent with the provisions of this section.
 
         (2) __Amount of payment__ 
 

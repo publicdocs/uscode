@@ -21,7 +21,7 @@
 
     (b) __Allocation of funds__ 
 
-    Within the purposes described in subsection (a) of this section, funds in the account used under this section shall be allocated among the States based on a formula, established jointly by the Secretaries of Labor and Education, that takes into consideration—
+    Within the purposes described in subsection (a), funds in the account used under this section shall be allocated among the States based on a formula, established jointly by the Secretaries of Labor and Education, that takes into consideration—
 
         (1) the location of foreign workers admitted into the United States,
 

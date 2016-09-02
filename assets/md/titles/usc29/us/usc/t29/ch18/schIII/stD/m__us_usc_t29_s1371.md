@@ -15,7 +15,7 @@
 
 ## § 1371. Penalty for failure to timely provide required information
 
-    The corporation may assess a penalty, payable to the corporation, against any person who fails to provide any notice or other material information required under this subtitle, subtitle A, B, or C of this subchapter, or section 1083(k)(4) or 1085a(g)(4) of this title,, <sup>\[1\]</sup>  <sup><sup> 1 So in original. </sup></sup>  or any regulations prescribed under any such subtitle or such section, within the applicable time limit specified therein. Such penalty shall not exceed $1,000 for each day for which such failure continues.
+    The corporation may assess a penalty, payable to the corporation, against any person who fails to provide any notice or other material information required under this subtitle, subtitle A, B, or C, or section 1083(k)(4) or 1085a(g)(4) of this title,, <sup>\[1\]</sup>  <sup><sup> 1 So in original. </sup></sup>  or any regulations prescribed under any such subtitle or such section, within the applicable time limit specified therein. Such penalty shall not exceed $1,000 for each day for which such failure continues.
 
 ([Pub. L. 93–406, title IV][/us/pl/93/406/tIV], § 4071, as added [Pub. L. 100–203, title IX][/us/pl/100/203/tIX], § 9314(c)(1), Dec. 22, 1987, [101 Stat. 1330–367][/us/stat/101/1330-367]; amended [Pub. L. 101–239, title VII][/us/pl/101/239/tVII], § 7881(g)(8), (i)(3)(B), Dec. 19, 1989, [103 Stat. 2442][/us/stat/103/2442]; [Pub. L. 109–280, title I][/us/pl/109/280/tI], § 108(b)(5), formerly § 107(b)(5), Aug. 17, 2006, [120 Stat. 820][/us/stat/120/820], renumbered [Pub. L. 111–192, title II][/us/pl/111/192/tII], § 202(a), June 25, 2010, [124 Stat. 1297][/us/stat/124/1297]; [Pub. L. 110–458, title I][/us/pl/110/458/tI], § 101(d)(1)(B), Dec. 23, 2008, [122 Stat. 5099][/us/stat/122/5099]; [Pub. L. 113–97, title I][/us/pl/113/97/tI], § 102(b)(9), Apr. 7, 2014, [128 Stat. 1117][/us/stat/128/1117].)
 
@@ -27,7 +27,7 @@
 
     2006—[Pub. L. 109–280][/us/pl/109/280] substituted “1083(k)(4)” for “1082(f)(4)”.
 
-    1989—[Pub. L. 101–239][/us/pl/101/239], § 7881(i)(3)(B), substituted “, subtitle A, B, or C of this subchapter, as section 1082(f)(4) or 1085b(e) of this title” for “or subtitle A, B, or C” and inserted “or such section” after “such subtitle”.
+    1989—[Pub. L. 101–239][/us/pl/101/239], § 7881(i)(3)(B), substituted “, subtitle A, B, or C, as section 1082(f)(4) or 1085b(e) of this title” for “or subtitle A, B, or C” and inserted “or such section” after “such subtitle”.
 
     [Pub. L. 101–239][/us/pl/101/239], § 7881(g)(8), made clarifying amendment to directory language of [Pub. L. 100–203][/us/pl/100/203], § 9314(c)(1), resulting in no change in text.
 

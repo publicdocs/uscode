@@ -45,7 +45,7 @@
 
  __Effective Date of Repeal__ 
 
-    [Pub. L. 105–220, title I][/us/pl/105/220/tI], § 199(c)(1), Aug. 7, 1998, [112 Stat. 1059][/us/stat/112/1059], which provided that the repeals made by subsection (a) \[repealing sections 2301 to 2314 of this title, section 211 of former Title 40, Appendix, Public Buildings, Property, and Works, sections 11441 to 11447, 11449, and 11450 of Title 42, The Public Health and Welfare, and sections 42101 to 42106 of Title 49, Transportation, and repealing provisions set out as notes below and under [section 1255a of Title 8][/us/usc/t8/s1255a], Aliens and Nationality\] would take effect on Aug. 7, 1998, was repealed by [Pub. L. 113–128, title V][/us/pl/113/128/tV], § 511(a), July 22, 2014, [128 Stat. 1705][/us/stat/128/1705].
+    [Pub. L. 105–220, title I][/us/pl/105/220/tI], § 199(c)(1), Aug. 7, 1998, [112 Stat. 1059][/us/stat/112/1059], which provided that the repeals made by subsection (a) (repealing sections 2301 to 2314 of this title, section 211 of former Title 40, Appendix, Public Buildings, Property, and Works, sections 11441 to 11447, 11449, and 11450 of Title 42, The Public Health and Welfare, and sections 42101 to 42106 of Title 49, Transportation, and repealing provisions set out as notes below and under [section 1255a of Title 8][/us/usc/t8/s1255a], Aliens and Nationality) would take effect on Aug. 7, 1998, was repealed by [Pub. L. 113–128, title V][/us/pl/113/128/tV], § 511(a), July 22, 2014, [128 Stat. 1705][/us/stat/128/1705].
 
  __Short Title__ 
 

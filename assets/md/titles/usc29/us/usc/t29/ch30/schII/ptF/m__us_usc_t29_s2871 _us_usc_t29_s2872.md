@@ -15,7 +15,7 @@
 
 ###### §§ 2871, 2872. Repealed. [Pub. L. 113–128, title V][/us/pl/113/128/tV], § 511(a), July 22, 2014, [128 Stat. 1705][/us/stat/128/1705]
 
-    Section 2871, [Pub. L. 105–220, title I][/us/pl/105/220/tI], § 136, Aug. 7, 1998, [112 Stat. 999][/us/stat/112/999], established the performance accountability system. See [section 3141 of this title][/us/usc/t29/s3141].
+    Section 2871, [Pub. L. 105–220, title I][/us/pl/105/220/tI], § 136, Aug. 7, 1998, [112 Stat. 999][/us/stat/112/999], established a performance accountability system. See [section 3141 of this title][/us/usc/t29/s3141].
 
     Section 2872, [Pub. L. 105–220, title I][/us/pl/105/220/tI], § 137, Aug. 7, 1998, [112 Stat. 1006][/us/stat/112/1006], authorized appropriations for fiscal years 1999 through 2003.
 

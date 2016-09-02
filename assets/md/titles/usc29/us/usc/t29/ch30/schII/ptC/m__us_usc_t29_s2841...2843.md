@@ -15,7 +15,7 @@
 
 ## §§ 2841 to 2843. Repealed. [Pub. L. 113–128, title V][/us/pl/113/128/tV], § 511(a), July 22, 2014, [128 Stat. 1705][/us/stat/128/1705]
 
-    Section 2841, [Pub. L. 105–220, title I][/us/pl/105/220/tI], § 121, Aug. 7, 1998, [112 Stat. 963][/us/stat/112/963]; [Pub. L. 105–332][/us/pl/105/332], § 5(a), Oct. 31, 1998, [112 Stat. 3127][/us/stat/112/3127]; [Pub. L. 109–270][/us/pl/109/270], § 2(h)(5), Aug. 12, 2006, [120 Stat. 748][/us/stat/120/748]; [Pub. L. 110–234, title IV][/us/pl/110/234/tIV], § 4002(b)(1)(B), (2)(R), May 22, 2008, [122 Stat. 1096][/us/stat/122/1096], 1097; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title IV, § 4002(b)(1)(B), (2)(R), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1857, 1858, established one-stop delivery systems. See [section 3151 of this title][/us/usc/t29/s3151].
+    Section 2841, [Pub. L. 105–220, title I][/us/pl/105/220/tI], § 121, Aug. 7, 1998, [112 Stat. 963][/us/stat/112/963]; [Pub. L. 105–332][/us/pl/105/332], § 5(a), Oct. 31, 1998, [112 Stat. 3127][/us/stat/112/3127]; [Pub. L. 109–270][/us/pl/109/270], § 2(h)(5), Aug. 12, 2006, [120 Stat. 748][/us/stat/120/748]; [Pub. L. 110–234, title IV][/us/pl/110/234/tIV], § 4002(b)(1)(B), (2)(R), May 22, 2008, [122 Stat. 1096][/us/stat/122/1096], 1097; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title IV, § 4002(b)(1)(B), (2)(R), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1857, 1858, related to establishment of one-stop delivery systems. See [section 3151 of this title][/us/usc/t29/s3151].
 
     Section 2842, [Pub. L. 105–220, title I][/us/pl/105/220/tI], § 122, Aug. 7, 1998, [112 Stat. 965][/us/stat/112/965], related to identification of eligible providers of training services. See [section 3152 of this title][/us/usc/t29/s3152].
 

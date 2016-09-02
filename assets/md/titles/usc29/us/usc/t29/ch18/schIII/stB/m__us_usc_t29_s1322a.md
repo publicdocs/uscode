@@ -51,7 +51,7 @@
 
         (1)
 
-         Except as provided in subsection (g) of this section, the monthly benefit of a participant or a beneficiary which is guaranteed under this section by the corporation with respect to a plan is the product of—
+         Except as provided in subsection (g), the monthly benefit of a participant or a beneficiary which is guaranteed under this section by the corporation with respect to a plan is the product of—
 
             (A)
 
@@ -69,7 +69,7 @@
 
             (A)
 
-             the monthly benefit of the participant or beneficiary which is described in subsection (a) of this section and which is eligible for the corporation’s guarantee under subsection (b) of this section, except that such benefit shall be—
+             the monthly benefit of the participant or beneficiary which is described in subsection (a) and which is eligible for the corporation’s guarantee under subsection (b), except that such benefit shall be—
 
                 (i) no greater than the monthly benefit which would be payable under the plan at normal retirement age in the form of a single life annuity, and
 
@@ -101,7 +101,7 @@
 
         (1) the reduced benefit, or
 
-        (2) the amount determined under subsection (c) of this section.
+        (2) the amount determined under subsection (c).
 
     (e) __Ineligibility of benefits for guarantee__ 
 
@@ -117,7 +117,7 @@
 
              conduct a study to determine—
 
-                (i) the premiums needed to maintain the basic-benefit guarantee levels for multiemployer plans described in subsection (c) of this section, and
+                (i) the premiums needed to maintain the basic-benefit guarantee levels for multiemployer plans described in subsection (c), and
 
                 (ii) whether the basic-benefit guarantee levels for multiemployer plans may be increased without increasing the basic-benefit premiums for multiemployer plans under this subchapter; and
 
@@ -165,7 +165,7 @@
 
         (2)
 
-            (A) The corporation shall prescribe regulations to establish a supplemental program to guarantee benefits under multiemployer plans which would be guaranteed under this section but for the limitations in subsection (c) of this section. Such regulations shall be proposed by the corporation no later than the end of the 18th calendar month following September 26, 1980. The regulations shall make coverage under the supplemental program available no later than January 1, 1983. Any election to participate in the supplemental program shall be on a voluntary basis, and a plan electing such coverage shall continue to pay the premiums required under [section 1306(a)(2)(B) of this title][/us/usc/t29/s1306/a/2/B] to the revolving fund used pursuant to [section 1305 of this title][/us/usc/t29/s1305] in connection with benefits otherwise guaranteed under this section. Any such election shall be irrevocable, except to the extent otherwise provided by regulations prescribed by the corporation.
+            (A) The corporation shall prescribe regulations to establish a supplemental program to guarantee benefits under multiemployer plans which would be guaranteed under this section but for the limitations in subsection (c). Such regulations shall be proposed by the corporation no later than the end of the 18th calendar month following September 26, 1980. The regulations shall make coverage under the supplemental program available no later than January 1, 1983. Any election to participate in the supplemental program shall be on a voluntary basis, and a plan electing such coverage shall continue to pay the premiums required under [section 1306(a)(2)(B) of this title][/us/usc/t29/s1306/a/2/B] to the revolving fund used pursuant to [section 1305 of this title][/us/usc/t29/s1305] in connection with benefits otherwise guaranteed under this section. Any such election shall be irrevocable, except to the extent otherwise provided by regulations prescribed by the corporation.
 
             (B)
 
@@ -199,7 +199,7 @@
 
     (h) __Applicability to nonforfeitable benefits accrued as of__  __July 30, 1980__  __; manner and extent of guarantee__ 
 
-        (1) Except as provided in paragraph (3), subsections (b) and (c) of this section shall not apply with respect to the nonforfeitable benefits accrued as of July 29, 1980, with respect to a participant or beneficiary under a multiemployer plan—
+        (1) Except as provided in paragraph (3), subsections (b) and (c) shall not apply with respect to the nonforfeitable benefits accrued as of July 29, 1980, with respect to a participant or beneficiary under a multiemployer plan—
 
         (1) who is in pay status on July 29, 1980, or
 

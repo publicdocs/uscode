@@ -29,7 +29,7 @@
 
     (c) __Jurisdiction and venue__ 
 
-        The district courts of the United States shall have exclusive jurisdiction of civil actions under this section. Such actions may be brought in the district where the plan is administered, where the violation took place, or where a defendant resides or may be found, and process may be served in any other district where a defendant resides or may be found. The district courts of the United States shall have jurisdiction, without regard to the amount in controversy or the citizenship of the parties, to grant the relief provided for in subsection (a) of this section in any action.
+        The district courts of the United States shall have exclusive jurisdiction of civil actions under this section. Such actions may be brought in the district where the plan is administered, where the violation took place, or where a defendant resides or may be found, and process may be served in any other district where a defendant resides or may be found. The district courts of the United States shall have jurisdiction, without regard to the amount in controversy or the citizenship of the parties, to grant the relief provided for in subsection (a) in any action.
 
     (d) __Right of corporation to intervene__ 
 

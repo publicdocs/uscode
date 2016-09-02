@@ -19,9 +19,9 @@
 
     (b)
 
-        (1) Except as otherwise provided in subsection (d) of this section, sections 1055, 1056(d) and 1058 of this title shall apply with respect to plan years beginning after December 31, 1975.
+        (1) Except as otherwise provided in subsection (d), sections 1055, 1056(d) and 1058 of this title shall apply with respect to plan years beginning after December 31, 1975.
 
-        (2) Except as otherwise provided in subsections (c) and (d) of this section in the case of a plan in existence on January 1, 1974, this part shall apply in the case of plan years beginning after December 31, 1975.
+        (2) Except as otherwise provided in subsections (c) and (d) in the case of a plan in existence on January 1, 1974, this part shall apply in the case of plan years beginning after December 31, 1975.
 
     (c)
 
@@ -43,7 +43,7 @@
 
             (B) provides that, under a contractual agreement based on medical evidence as to the effects of working in an adverse environment for an extended period of time, a participant having 25 years of service is to be treated as having 30 years of service.
 
-        (3) This subsection shall apply with respect to a plan if (and only if) the application of this subsection results in a later effective date for this part than the effective date required by subsection (b) of this section.
+        (3) This subsection shall apply with respect to a plan if (and only if) the application of this subsection results in a later effective date for this part than the effective date required by subsection (b).
 
     (d) If the administrator of a plan elects under section 1017(d) of this Act to make applicable to a plan year and to all subsequent plan years the provisions of title 26 relating to participation, vesting, funding, and form of benefit, this part shall apply to the first plan year to which such election applies and to all subsequent plan years.
 

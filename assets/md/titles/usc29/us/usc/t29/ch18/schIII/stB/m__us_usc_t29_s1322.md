@@ -17,7 +17,7 @@
 
     (a) __Nonforfeitable benefits__ 
 
-        Subject to the limitations contained in subsection (b) of this section, the corporation shall guarantee, in accordance with this section, the payment of all nonforfeitable benefits (other than benefits becoming nonforfeitable solely on account of the termination of a plan) under a single-employer plan which terminates at a time when this subchapter applies to it.
+        Subject to the limitations contained in subsection (b), the corporation shall guarantee, in accordance with this section, the payment of all nonforfeitable benefits (other than benefits becoming nonforfeitable solely on account of the termination of a plan) under a single-employer plan which terminates at a time when this subchapter applies to it.
 
     (b) __Exceptions__ 
 
@@ -33,7 +33,7 @@
 
         (3)
 
-         The amount of monthly benefits described in subsection (a) of this section provided by a plan, which are guaranteed under this section with respect to a participant, shall not have an actuarial value which exceeds the actuarial value of a monthly benefit in the form of a life annuity commencing at age 65 equal to the lesser of—
+         The amount of monthly benefits described in subsection (a) provided by a plan, which are guaranteed under this section with respect to a participant, shall not have an actuarial value which exceeds the actuarial value of a monthly benefit in the form of a life annuity commencing at age 65 equal to the lesser of—
 
             (A) his average monthly gross income from his employer during the 5 consecutive calendar year period (or, if less, during the number of calendar years in such period in which he actively participates in the plan) during which his gross income from that employer was greater than during any other such period with that employer determined by dividing 1⁄12 of the sum of all such gross income by the number of such calendar years in which he had such gross income, or
 
@@ -141,7 +141,7 @@
 
     (e) __Nonforfeitability of preretirement survivor annuity__ 
 
-        For purposes of subsection (a) of this section, a qualified preretirement survivor annuity (as defined in [section 1055(e)(1) of this title][/us/usc/t29/s1055/e/1]) with respect to a participant under a terminated single-employer plan shall not be treated as forfeitable solely because the participant has not died as of the termination date.
+        For purposes of subsection (a), a qualified preretirement survivor annuity (as defined in [section 1055(e)(1) of this title][/us/usc/t29/s1055/e/1]) with respect to a participant under a terminated single-employer plan shall not be treated as forfeitable solely because the participant has not died as of the termination date.
 
     (f) __Effective date of plan amendments__ 
 

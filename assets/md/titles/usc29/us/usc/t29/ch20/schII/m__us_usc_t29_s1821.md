@@ -39,7 +39,7 @@
 
     (b) __Posting requirements imposed upon employers__ 
 
-        Each farm labor contractor, agricultural employer, and agricultural association which employs any migrant agricultural worker shall, at the place of employment, post in a conspicuous place a poster provided by the Secretary setting forth the rights and protections afforded such workers under this chapter, including the right of a migrant agricultural worker to have, upon request, a written statement provided by the farm labor contractor, agricultural employer, or agricultural association, of the information described in subsection (a) of this section. Such employer shall provide upon request, a written statement of the information described in subsection (a) of this section.
+        Each farm labor contractor, agricultural employer, and agricultural association which employs any migrant agricultural worker shall, at the place of employment, post in a conspicuous place a poster provided by the Secretary setting forth the rights and protections afforded such workers under this chapter, including the right of a migrant agricultural worker to have, upon request, a written statement provided by the farm labor contractor, agricultural employer, or agricultural association, of the information described in subsection (a). Such employer shall provide upon request, a written statement of the information described in subsection (a).
 
     (c) __Posting or notice requirements imposed upon housing providers__ 
 
@@ -69,11 +69,11 @@
 
     (e) __Furnishing of records by farm labor contractor; maintenance of records by recipient__ 
 
-        Each farm labor contractor shall provide to any other farm labor contractor, and to any agricultural employer and agricultural association to which such farm labor contractor has furnished migrant agricultural workers, copies of all records with respect to each such worker which such farm labor contractor is required to retain by subsection (d)(1) of this section. The recipient of such records shall keep them for a period of three years from the end of the period of employment.
+        Each farm labor contractor shall provide to any other farm labor contractor, and to any agricultural employer and agricultural association to which such farm labor contractor has furnished migrant agricultural workers, copies of all records with respect to each such worker which such farm labor contractor is required to retain by subsection (d)(1). The recipient of such records shall keep them for a period of three years from the end of the period of employment.
 
     (f) __Prohibition on knowingly providing false or misleading information to workers__ 
 
-        No farm labor contractor, agricultural employer, or agricultural association shall knowingly provide false or misleading information to any migrant agricultural worker concerning the terms, conditions, or existence of agricultural employment required to be disclosed by subsection (a), (b), (c), or (d) of this section.
+        No farm labor contractor, agricultural employer, or agricultural association shall knowingly provide false or misleading information to any migrant agricultural worker concerning the terms, conditions, or existence of agricultural employment required to be disclosed by subsection (a), (b), (c), or (d).
 
     (g) __Form and language requirements__ 
 

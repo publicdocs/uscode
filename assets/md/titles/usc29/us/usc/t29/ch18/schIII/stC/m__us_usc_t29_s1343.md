@@ -17,7 +17,7 @@
 
     (a) __Notification that event has occurred__ 
 
-        Within 30 days after the plan administrator or the contributing sponsor knows or has reason to know that a reportable event described in subsection (c) of this section has occurred, he shall notify the corporation that such event has occurred, unless a notice otherwise required under this subsection has already been provided with respect to such event. The corporation is authorized to waive the requirement of the preceding sentence with respect to any or all reportable events with respect to any plan, and to require the notification to be made by including the event in the annual report made by the plan.
+        Within 30 days after the plan administrator or the contributing sponsor knows or has reason to know that a reportable event described in subsection (c) has occurred, he shall notify the corporation that such event has occurred, unless a notice otherwise required under this subsection has already been provided with respect to such event. The corporation is authorized to waive the requirement of the preceding sentence with respect to any or all reportable events with respect to any plan, and to require the notification to be made by including the event in the annual report made by the plan.
 
     (b) __Notification that event is about to occur__ 
 
@@ -39,7 +39,7 @@
 
             (B) a subsidiary (as defined for purposes of such Act \[[15 U.S.C. 78a][/us/usc/t15/s78a] et seq.\]) of a person subject to such reporting requirements.
 
-        (3) No later than 30 days prior to the effective date of an event described in paragraph (9), (10), (11), (12), or (13) of subsection (c) of this section, a contributing sponsor to which the requirements of this subsection apply shall notify the corporation that the event is about to occur.
+        (3) No later than 30 days prior to the effective date of an event described in paragraph (9), (10), (11), (12), or (13) of subsection (c), a contributing sponsor to which the requirements of this subsection apply shall notify the corporation that the event is about to occur.
 
         (4) The corporation may waive the requirement of this subsection with respect to any or all reportable events with respect to any contributing sponsor.
 
@@ -87,7 +87,7 @@
 
     The Secretary of the Treasury shall notify the corporation—
 
-        (1) whenever a reportable event described in paragraph (1), (4), or (5) of subsection (c) of this section occurs, or
+        (1) whenever a reportable event described in paragraph (1), (4), or (5) of subsection (c) occurs, or
 
         (2) whenever any other event occurs which the Secretary of the Treasury believes indicates that the plan may not be sound.
 
@@ -95,7 +95,7 @@
 
     The Secretary of Labor shall notify the corporation—
 
-        (1) whenever a reportable event described in paragraph (1), (5), or (8) of subsection (c) of this section occurs, or
+        (1) whenever a reportable event described in paragraph (1), (5), or (8) of subsection (c) occurs, or
 
         (2) whenever any other event occurs which the Secretary of Labor believes indicates that the plan may not be sound.
 

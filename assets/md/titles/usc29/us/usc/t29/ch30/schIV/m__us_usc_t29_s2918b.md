@@ -15,7 +15,7 @@
 
 ## § 2918b. Transferred
 
-    Section, [Pub. L. 111–117, div. D, title I][/us/pl/111/117/dD/tI], (2)(E), Dec. 16, 2009, [123 Stat. 3227][/us/stat/123/3227], which related to re-enrollment in alternative school by high-school dropout, was transferred to [section 3226a of this title][/us/usc/t29/s3226a].
+    Section, [Pub. L. 111–117, div. D, title I][/us/pl/111/117/dD/tI], (2)(E), Dec. 16, 2009, [123 Stat. 3227][/us/stat/123/3227], which related to re-enrollment in alternative school by high-school dropouts, was transferred to [section 3226a of this title][/us/usc/t29/s3226a].
 
 ----------
 

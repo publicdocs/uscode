@@ -27,7 +27,7 @@
 
     (c) __Assistance pending final determination of application__ 
 
-        Pending determination of the amount described in subsection (a) of this section, the corporation may provide financial assistance in such amounts as it considers appropriate in order to avoid undue hardship to plan participants and beneficiaries.
+        Pending determination of the amount described in subsection (a), the corporation may provide financial assistance in such amounts as it considers appropriate in order to avoid undue hardship to plan participants and beneficiaries.
 
 ([Pub. L. 93–406, title IV][/us/pl/93/406/tIV], § 4261, as added [Pub. L. 96–364, title I][/us/pl/96/364/tI], § 104(2), Sept. 26, 1980, [94 Stat. 1261][/us/stat/94/1261].)
 

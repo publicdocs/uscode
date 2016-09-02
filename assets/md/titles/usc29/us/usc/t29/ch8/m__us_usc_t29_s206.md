@@ -77,13 +77,15 @@
 
         (1) In lieu of the rate prescribed by subsection (a)(1), any employer may pay any employee of such employer, during the first 90 consecutive calendar days after such employee is initially employed by such employer, a wage which is not less than $4.25 an hour.
 
-        (2) No employer may take any action to displace employees (including partial displacements such as reduction in hours, wages, or employment benefits) for purposes of hiring individuals at the wage authorized in paragraph (1).
+        (2) In lieu of the rate prescribed by subsection (a)(1), the Governor of Puerto Rico, subject to the approval of the Financial Oversight and Management Board established pursuant to [section 2121 of title 48][/us/usc/t48/s2121], may designate a time period not to exceed four years during which employers in Puerto Rico may pay employees who are initially employed after June 30, 2016, a wage which is not less than the wage described in paragraph (1). Notwithstanding the time period designated, such wage shall not continue in effect after such Board terminates in accordance with [section 2149 of title 48][/us/usc/t48/s2149].
 
-        (3) Any employer who violates this subsection shall be considered to have violated [section 215(a)(3) of this title][/us/usc/t29/s215/a/3].
+        (3) No employer may take any action to displace employees (including partial displacements such as reduction in hours, wages, or employment benefits) for purposes of hiring individuals at the wage authorized in paragraph (1) or (2).
 
-        (4) This subsection shall only apply to an employee who has not attained the age of 20 years.
+        (4) Any employer who violates this subsection shall be considered to have violated [section 215(a)(3) of this title][/us/usc/t29/s215/a/3].
 
-([June 25, 1938, ch. 676][/us/act/1938-06-25/ch676], § 6, [52 Stat. 1062][/us/stat/52/1062]; [June 26, 1940, ch. 432][/us/act/1940-06-26/ch432], § 3(e), (f), [54 Stat. 616][/us/stat/54/616]; [Oct. 26, 1949, ch. 736][/us/act/1949-10-26/ch736], § 6, [63 Stat. 912][/us/stat/63/912]; [Aug. 12, 1955, ch. 867][/us/act/1955-08-12/ch867], § 3, [69 Stat. 711][/us/stat/69/711]; [Aug. 8, 1956, ch. 1035][/us/act/1956-08-08/ch1035], § 2, [70 Stat. 1118][/us/stat/70/1118]; [Pub. L. 87–30][/us/pl/87/30], § 5, May 5, 1961, [75 Stat. 67][/us/stat/75/67]; [Pub. L. 88–38][/us/pl/88/38], § 3, June 10, 1963, [77 Stat. 56][/us/stat/77/56]; [Pub. L. 89–601, title III][/us/pl/89/601/tIII], §§ 301–305, Sept. 23, 1966, [80 Stat. 838][/us/stat/80/838], 839, 841; [Pub. L. 93–259][/us/pl/93/259], §§ 2–4, 5(b), 7(b)(1), Apr. 8, 1974, [88 Stat. 55][/us/stat/88/55], 56, 62; [Pub. L. 95–151][/us/pl/95/151], § 2(a)–(d)(2), Nov. 1, 1977, [91 Stat. 1245][/us/stat/91/1245], 1246; [Pub. L. 101–157][/us/pl/101/157], §§ 2, 4(b), Nov. 17, 1989, [103 Stat. 938][/us/stat/103/938], 940; [Pub. L. 101–239, title X][/us/pl/101/239/tX], § 10208(d)(2)(B)(i), Dec. 19, 1989, [103 Stat. 2481][/us/stat/103/2481]; [Pub. L. 104–188][/us/pl/104/188], \[title II\], §§ 2104(b), (c), 2105(c), Aug. 20, 1996, [110 Stat. 1928][/us/stat/110/1928], 1929; [Pub. L. 110–28, title VIII][/us/pl/110/28/tVIII], §§ 8102(a), 8103(c)(1)(B), May 25, 2007, [121 Stat. 188][/us/stat/121/188], 189.)
+        (5) This subsection shall only apply to an employee who has not attained the age of 20 years, except in the case of the wage applicable in Puerto Rico, 25 years, until such time as the Board described in paragraph (2) terminates in accordance with [section 2149 of title 48][/us/usc/t48/s2149].
+
+([June 25, 1938, ch. 676][/us/act/1938-06-25/ch676], § 6, [52 Stat. 1062][/us/stat/52/1062]; [June 26, 1940, ch. 432][/us/act/1940-06-26/ch432], § 3(e), (f), [54 Stat. 616][/us/stat/54/616]; [Oct. 26, 1949, ch. 736][/us/act/1949-10-26/ch736], § 6, [63 Stat. 912][/us/stat/63/912]; [Aug. 12, 1955, ch. 867][/us/act/1955-08-12/ch867], § 3, [69 Stat. 711][/us/stat/69/711]; [Aug. 8, 1956, ch. 1035][/us/act/1956-08-08/ch1035], § 2, [70 Stat. 1118][/us/stat/70/1118]; [Pub. L. 87–30][/us/pl/87/30], § 5, May 5, 1961, [75 Stat. 67][/us/stat/75/67]; [Pub. L. 88–38][/us/pl/88/38], § 3, June 10, 1963, [77 Stat. 56][/us/stat/77/56]; [Pub. L. 89–601, title III][/us/pl/89/601/tIII], §§ 301–305, Sept. 23, 1966, [80 Stat. 838][/us/stat/80/838], 839, 841; [Pub. L. 93–259][/us/pl/93/259], §§ 2–4, 5(b), 7(b)(1), Apr. 8, 1974, [88 Stat. 55][/us/stat/88/55], 56, 62; [Pub. L. 95–151][/us/pl/95/151], § 2(a)–(d)(2), Nov. 1, 1977, [91 Stat. 1245][/us/stat/91/1245], 1246; [Pub. L. 101–157][/us/pl/101/157], §§ 2, 4(b), Nov. 17, 1989, [103 Stat. 938][/us/stat/103/938], 940; [Pub. L. 101–239, title X][/us/pl/101/239/tX], § 10208(d)(2)(B)(i), Dec. 19, 1989, [103 Stat. 2481][/us/stat/103/2481]; [Pub. L. 104–188][/us/pl/104/188], \[title II\], §§ 2104(b), (c), 2105(c), Aug. 20, 1996, [110 Stat. 1928][/us/stat/110/1928], 1929; [Pub. L. 110–28, title VIII][/us/pl/110/28/tVIII], §§ 8102(a), 8103(c)(1)(B), May 25, 2007, [121 Stat. 188][/us/stat/121/188], 189; [Pub. L. 114–187, title IV][/us/pl/114/187/tIV], § 403, June 30, 2016, [130 Stat. 586][/us/stat/130/586].)
 
  __References in Text__ 
 
@@ -102,6 +104,14 @@
     In subsec. (e)(2), “chapter 67 of title 41” substituted for “the Service Contract Act of 1965” on authority of [Pub. L. 111–350][/us/pl/111/350], § 6(c), Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
 
  __Amendments__ 
+
+    2016—Subsec. (g)(2) to (5). [Pub. L. 114–187][/us/pl/114/187] added pars. (2) to (5) and struck out former pars. (2) to (4) which read as follows:
+
+    “(2) No employer may take any action to displace employees (including partial displacements such as reduction in hours, wages, or employment benefits) for purposes of hiring individuals at the wage authorized in paragraph (1).
+
+    “(3) Any employer who violates this subsection shall be considered to have violated [section 215(a)(3) of this title][/us/usc/t29/s215/a/3].
+
+    “(4) This subsection shall only apply to an employee who has not attained the age of 20 years.”
 
     2007—Subsec. (a)(1). [Pub. L. 110–28][/us/pl/110/28], § 8102(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “except as otherwise provided in this section, not less than $4.25 an hour during the period ending on September 30, 1996, not less than $4.75 an hour during the year beginning on October 1, 1996, and not less than $5.15 an hour beginning September 1, 1997;”.
 
@@ -489,7 +499,10 @@
 [/us/usc/t29/s213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs213
 [/us/usc/t42/s409/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs409%2Fa%2F6
 [/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
+[/us/usc/t48/s2121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs2121
+[/us/usc/t48/s2149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs2149
 [/us/usc/t29/s215/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs215%2Fa%2F3
+[/us/usc/t48/s2149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs2149
 [/us/act/1938-06-25/ch676]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch676
 [/us/stat/52/1062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1062
 [/us/act/1940-06-26/ch432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-06-26%2Fch432
@@ -518,6 +531,8 @@
 [/us/stat/110/1928]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1928
 [/us/pl/110/28/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28%2FtVIII
 [/us/stat/121/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F188
+[/us/pl/114/187/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F187%2FtIV
+[/us/stat/130/586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F586
 [/us/pl/89/601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F601
 [/us/stat/80/830]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F830
 [/us/usc/t29/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs201
@@ -535,6 +550,8 @@
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
 [/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
+[/us/pl/114/187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F187
+[/us/usc/t29/s215/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs215%2Fa%2F3
 [/us/pl/110/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28
 [/us/pl/110/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28
 [/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188

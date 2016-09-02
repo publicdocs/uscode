@@ -15,7 +15,7 @@
 
 ## § 1114. Effective date
 
-    (a) Except as provided in subsections (b), (c), and (d) of this section, this part shall take effect on January 1, 1975.
+    (a) Except as provided in subsections (b), (c), and (d), this part shall take effect on January 1, 1975.
 
     (b)
 

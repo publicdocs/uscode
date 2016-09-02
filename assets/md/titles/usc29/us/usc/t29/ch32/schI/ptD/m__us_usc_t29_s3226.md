@@ -415,7 +415,7 @@
 
 >     “(b)  __Transfer of Functions__  __.—__ 
 
->     There are transferred to the Department of Labor all functions which the Secretary of Housing and Urban Development exercised before the effective date of this section (including all related functions of any officer or employee of the Department of Housing and Urban Development) relating to subtitle D of title IV of the Cranston-Gonzalez National Affordable Housing Act ([42 U.S.C. 12899][/us/usc/t42/s12899] et seq.).
+>     There are transferred to the Department of Labor all functions which the Secretary of Housing and Urban Development exercised before the effective date of this section \[Sept. 22, 2006\] (including all related functions of any officer or employee of the Department of Housing and Urban Development) relating to subtitle D of title IV of the Cranston-Gonzalez National Affordable Housing Act (\[former\] [42 U.S.C. 12899][/us/usc/t42/s12899] et seq.).
 
 >     “(c)  __Determinations of Certain Functions by the Office of Management and Budget__  __.—__ 
 
@@ -499,7 +499,7 @@
 
 >     “(n)  __Administration of Prior Grants__  __.—__ 
 
->     Notwithstanding any other provision of this Act \[See Short Title of 2006 Amendment note set out under [section 2801 of this title][/us/usc/t29/s2801]\], grants awarded under subtitle D of title IV of the Cranston-Gonzalez National Affordable Housing Act ([42 U.S.C. 12899][/us/usc/t42/s12899] et seq.) with funds appropriated for fiscal year 2006 or a preceding fiscal year shall be subject to the continuing authority of the Secretary of Housing and Urban Development under the provisions of such subtitle, as in effect on the day before the date of enactment of this Act \[Sept. 22, 2006\], until the authority to expend applicable funds for the grants, as specified by the Secretary of Housing and Urban Development, has expired and the Secretary has completed the administrative responsibilities associated with the grants.
+>     Notwithstanding any other provision of this Act \[See Short Title of 2006 Amendment note set out under [section 2801 of this title][/us/usc/t29/s2801]\], grants awarded under subtitle D of title IV of the Cranston-Gonzalez National Affordable Housing Act (\[former\] [42 U.S.C. 12899][/us/usc/t42/s12899] et seq.) with funds appropriated for fiscal year 2006 or a preceding fiscal year shall be subject to the continuing authority of the Secretary of Housing and Urban Development under the provisions of such subtitle, as in effect on the day before the date of enactment of this Act \[Sept. 22, 2006\], until the authority to expend applicable funds for the grants, as specified by the Secretary of Housing and Urban Development, has expired and the Secretary has completed the administrative responsibilities associated with the grants.
 
 >     “(o)  __References__  __.—__ 
 

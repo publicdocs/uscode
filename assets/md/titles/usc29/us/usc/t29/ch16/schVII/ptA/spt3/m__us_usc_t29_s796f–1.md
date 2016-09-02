@@ -85,11 +85,11 @@
 
     The Administrator shall be guided by the following order of priorities in allocating funds among centers for independent living within a State, to the extent funds are available:
 
-        (1) The Administrator shall support existing centers for independent living, as described in subsection (c) of this section, that comply with the standards and assurances set forth in [section 796f–4 of this title][/us/usc/t29/s796f–4], at the level of funding for the previous year.
+        (1) The Administrator shall support existing centers for independent living, as described in subsection (c), that comply with the standards and assurances set forth in [section 796f–4 of this title][/us/usc/t29/s796f–4], at the level of funding for the previous year.
 
         (2) The Administrator shall provide for a cost-of-living increase for such existing centers for independent living.
 
-        (3) The Administrator shall fund new centers for independent living, as described in subsection (d) of this section, that comply with the standards and assurances set forth in [section 796f–4 of this title][/us/usc/t29/s796f–4].
+        (3) The Administrator shall fund new centers for independent living, as described in subsection (d), that comply with the standards and assurances set forth in [section 796f–4 of this title][/us/usc/t29/s796f–4].
 
     (f) __Nonresidential agencies__ 
 

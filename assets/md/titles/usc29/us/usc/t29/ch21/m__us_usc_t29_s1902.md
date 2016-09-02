@@ -17,7 +17,7 @@
 
     (a) __Administration by Secretary of Education__ 
 
-        The Secretary of Education shall continue to administer and support the Helen Keller National Center for Youths and Adults who are Deaf-Blind in the same manner as such Center was administered prior to February 22, 1984, to the extent such manner of administration is not inconsistent with any purpose described in subsection (b) of this section or any other requirement of this chapter.
+        The Secretary of Education shall continue to administer and support the Helen Keller National Center for Youths and Adults who are Deaf-Blind in the same manner as such Center was administered prior to February 22, 1984, to the extent such manner of administration is not inconsistent with any purpose described in subsection (b) or any other requirement of this chapter.
 
     (b) __Purposes of Center__ 
 

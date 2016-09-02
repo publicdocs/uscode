@@ -29,7 +29,7 @@
 
     (b) __Planning and direction__ 
 
-        The National Summit shall be planned and conducted under the direction of the Secretary, in consultation with, and with the assistance of, the heads of such other Federal departments and agencies as the President may designate. Such assistance may include the assignment of personnel. The Secretary shall, in planning and conducting the National Summit, consult with the congressional leaders specified in subsection (e)(2) of this section. The Secretary shall also, in carrying out the Secretary’s duties under this subsection, consult and coordinate with at least one organization made up of private sector businesses and associations partnered with Government entities to promote long-term financial security in retirement through savings.
+        The National Summit shall be planned and conducted under the direction of the Secretary, in consultation with, and with the assistance of, the heads of such other Federal departments and agencies as the President may designate. Such assistance may include the assignment of personnel. The Secretary shall, in planning and conducting the National Summit, consult with the congressional leaders specified in subsection (e)(2). The Secretary shall also, in carrying out the Secretary’s duties under this subsection, consult and coordinate with at least one organization made up of private sector businesses and associations partnered with Government entities to promote long-term financial security in retirement through savings.
 
     (c) __Purpose of National Summit__ 
 
@@ -89,7 +89,7 @@
 
             (F) the Chairman and ranking Member of the Subcommittees on Labor, Health and Human Services, and Education of the Senate and House of Representatives; and
 
-            (G) the parties referred to in subsection (b) of this section.
+            (G) the parties referred to in subsection (b).
 
         (3) __Additional participants__ 
 
@@ -121,7 +121,7 @@
 
         In administering this section, the Secretary shall—
 
-            (A) request the cooperation and assistance of such other Federal departments and agencies and other parties referred to in subsection (b) of this section as may be appropriate in the carrying out of this section;
+            (A) request the cooperation and assistance of such other Federal departments and agencies and other parties referred to in subsection (b) as may be appropriate in the carrying out of this section;
 
             (B) furnish all reasonable assistance to State agencies, area agencies, and other appropriate organizations to enable them to organize and conduct conferences in conjunction with the National Summit;
 
@@ -171,7 +171,7 @@
 
         (2) $250,000.
 
-        The private sector organization described in subsection (b) of this section and contracted with by the Secretary shall be obligated for the balance of the cost of the National Summit.
+        The private sector organization described in subsection (b) and contracted with by the Secretary shall be obligated for the balance of the cost of the National Summit.
 
     (k) __Contracts__ 
 

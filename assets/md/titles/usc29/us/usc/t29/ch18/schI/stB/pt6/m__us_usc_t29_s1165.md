@@ -43,7 +43,7 @@
 
         (1) __In general__ 
 
-            In the case of a nonelecting TAA-eligible individual and notwithstanding subsection (a) of this section, such individual may elect continuation coverage under this part during the 60-day period that begins on the first day of the month in which the individual becomes a TAA-eligible individual, but only if such election is made not later than 6 months after the date of the TAA-related loss of coverage.
+            In the case of a nonelecting TAA-eligible individual and notwithstanding subsection (a), such individual may elect continuation coverage under this part during the 60-day period that begins on the first day of the month in which the individual becomes a TAA-eligible individual, but only if such election is made not later than 6 months after the date of the TAA-related loss of coverage.
 
         (2) __Commencement of coverage; no reach-back__ 
 

@@ -27,7 +27,7 @@
 
         (1)
 
-         Notwithstanding subsection (a) of this section, in the case of an employer that has an obligation to contribute under a plan for work performed in the building and construction industry, a complete withdrawal occurs only as described in paragraph (2), if—
+         Notwithstanding subsection (a), in the case of an employer that has an obligation to contribute under a plan for work performed in the building and construction industry, a complete withdrawal occurs only as described in paragraph (2), if—
 
             (A) substantially all the employees with respect to whom the employer has an obligation to contribute under the plan perform work in the building and construction industry, and
 
@@ -57,7 +57,7 @@
 
     (c) __Entertainment industry__ 
 
-        (1) Notwithstanding subsection (a) of this section, in the case of an employer that has an obligation to contribute under a plan for work performed in the entertainment industry, primarily on a temporary or project-by-project basis, if the plan primarily covers employees in the entertainment industry, a complete withdrawal occurs only as described in subsection (b)(2) of this section applied by substituting “plan” for “collective bargaining agreement” in subparagraph (B)(i) thereof.
+        (1) Notwithstanding subsection (a), in the case of an employer that has an obligation to contribute under a plan for work performed in the entertainment industry, primarily on a temporary or project-by-project basis, if the plan primarily covers employees in the entertainment industry, a complete withdrawal occurs only as described in subsection (b)(2) applied by substituting “plan” for “collective bargaining agreement” in subparagraph (B)(i) thereof.
 
         (2)
 
@@ -81,7 +81,7 @@
 
         (1)
 
-         Notwithstanding subsection (a) of this section, in the case of an employer who—
+         Notwithstanding subsection (a), in the case of an employer who—
 
             (A) has an obligation to contribute under a plan described in paragraph (2) primarily for work described in such paragraph, and
 
@@ -125,7 +125,7 @@
 
     (f) __Special liability withdrawal rules for industries other than construction and entertainment industries; procedures applicable to amend plans__ 
 
-        (1) The corporation may prescribe regulations under which plans in industries other than the construction or entertainment industries may be amended to provide for special withdrawal liability rules similar to the rules described in subsections (b) and (c) of this section.
+        (1) The corporation may prescribe regulations under which plans in industries other than the construction or entertainment industries may be amended to provide for special withdrawal liability rules similar to the rules described in subsections (b) and (c).
 
         (2)
 

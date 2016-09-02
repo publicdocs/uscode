@@ -17,11 +17,11 @@
 
     (a) __Satisfaction of requirements by pension plans__ 
 
-    Each pension plan shall satisfy the requirements of subsection (b)(3) of this section, and—
+    Each pension plan shall satisfy the requirements of subsection (b)(3), and—
 
-        (1) in the case of a defined benefit plan, shall satisfy the requirements of subsection (b)(1) of this section; and
+        (1) in the case of a defined benefit plan, shall satisfy the requirements of subsection (b)(1); and
 
-        (2) in the case of a defined contribution plan, shall satisfy the requirements of subsection (b)(2) of this section.
+        (2) in the case of a defined contribution plan, shall satisfy the requirements of subsection (b)(2).
 
     (b) __Enumeration of plan requirements__ 
 
@@ -269,7 +269,7 @@
 
                  interest on the sum of the amounts determined under clauses (i) and (ii) compounded annually—
 
-                    (I) at the rate of 120 percent of the Federal mid-term rate (as in effect under [section 1274 of title 26][/us/usc/t26/s1274] for the 1st month of a plan year for the period beginning with the 1st plan year to which subsection (a)(2) of this section applies by reason of the applicable effective date) and ending with the date on which the determination is being made, and
+                    (I) at the rate of 120 percent of the Federal mid-term rate (as in effect under [section 1274 of title 26][/us/usc/t26/s1274] for the 1st month of a plan year for the period beginning with the 1st plan year to which subsection (a)(2) applies by reason of the applicable effective date) and ending with the date on which the determination is being made, and
 
                     (II) at the interest rate which would be used under the plan under [section 1055(g)(3) of this title][/us/usc/t29/s1055/g/3] (as of the determination date) for the period beginning with the determination date and ending on the date on which the employee attains normal retirement age.
 
@@ -293,13 +293,13 @@
 
     (e) __Opportunity to repay full amount of distributions which have been reduced through disregarded employee service__ 
 
-    For purposes of determining the employee’s accrued benefit, the plan shall not disregard service as provided in subsection (d) of this section unless the plan provides an opportunity for the participant to repay the full amount of a distribution described in subsection (d) of this section with, in the case of a defined benefit plan, interest at the rate determined for purposes of subsection (c)(2)(C) of this section and provides that upon such repayment the employee’s accrued benefit shall be recomputed by taking into account service so disregarded. This subsection shall apply only in the case of a participant who—
+    For purposes of determining the employee’s accrued benefit, the plan shall not disregard service as provided in subsection (d) unless the plan provides an opportunity for the participant to repay the full amount of a distribution described in subsection (d) with, in the case of a defined benefit plan, interest at the rate determined for purposes of subsection (c)(2)(C) and provides that upon such repayment the employee’s accrued benefit shall be recomputed by taking into account service so disregarded. This subsection shall apply only in the case of a participant who—
 
         (1) received such a distribution in any plan year to which this section applies which distribution was less than the present value of his accrued benefit,
 
         (2) resumes employment covered under the plan, and
 
-        (3) repays the full amount of such distribution with, in the case of a defined benefit plan, interest at the rate determined for purposes of subsection (c)(2)(C) of this section.
+        (3) repays the full amount of such distribution with, in the case of a defined benefit plan, interest at the rate determined for purposes of subsection (c)(2)(C).
 
         The plan provision required under this subsection may provide that such repayment must be made (A) in the case of a withdrawal on account of separation from service, before the earlier of 5 years after the first date on which the participant is subsequently re-employed by the employer, or the close of the first period of 5 consecutive 1-year breaks in service commencing after the withdrawal; or (B) in the case of any other withdrawal, 5 years after the date of the withdrawal.
 
@@ -419,7 +419,7 @@
 
                 (ii) an individual account plan which is subject to the funding standards of [section 412 of title 26][/us/usc/t26/s412].
 
-        (9) For purposes of this subsection, a plan amendment which eliminates or reduces any early retirement benefit or retirement-type subsidy (within the meaning of subsection (g)(2)(A) of this section) shall be treated as having the effect of reducing the rate of future benefit accrual.
+        (9) For purposes of this subsection, a plan amendment which eliminates or reduces any early retirement benefit or retirement-type subsidy (within the meaning of subsection (g)(2)(A)) shall be treated as having the effect of reducing the rate of future benefit accrual.
 
     (i) __Prohibition on benefit increases where plan sponsor is in bankruptcy__ 
 
@@ -767,7 +767,7 @@
 
     Subsec. (c)(2)(D). [Pub. L. 100–203][/us/pl/100/203], § 9346(a)(2), struck out “, the rate of interest described in clause (iii) of subparagraph (C), or both,” before “from time to time” in first sentence and struck out second sentence which read as follows: “The rate of interest shall bear the relationship to 5 percent which the Secretary of the Treasury determines to be comparable to the relationship which the long-term money rates and investment yields for the last period of 10 calendar years ending at least 12 months before the beginning of the plan year bear to the long-term money rates and investment yields for the 10-calendar year period 1964 through 1973.”
 
-    1986—Subsec. (a). [Pub. L. 99–509][/us/pl/99/509], § 9202(a)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Each pension plan shall satisfy the requirements of subsection (b)(2) of this section, and in the case of a defined benefit plan shall also satisfy the requirements of subsection (b)(1) of this section.”
+    1986—Subsec. (a). [Pub. L. 99–509][/us/pl/99/509], § 9202(a)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Each pension plan shall satisfy the requirements of subsection (b)(2), and in the case of a defined benefit plan shall also satisfy the requirements of subsection (b)(1).”
 
     Subsec. (b)(1)(H). [Pub. L. 99–509][/us/pl/99/509], § 9202(a)(2), added subpar. (H).
 

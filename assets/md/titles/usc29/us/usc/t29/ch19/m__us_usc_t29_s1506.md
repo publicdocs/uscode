@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, [Pub. L. 101–649, title VIII][/us/pl/101/649/tVIII], § 801, Nov. 29, 1990, [104 Stat. 5087][/us/stat/104/5087], which related to educational assistance and training, was transferred to [section 2920 of this title][/us/usc/t29/s2920], prior to transfer to [section 3293 of this title][/us/usc/t29/s3293].
+    Section, [Pub. L. 101–649, title VIII][/us/pl/101/649/tVIII], § 801, Nov. 29, 1990, [104 Stat. 5087][/us/stat/104/5087], which related to educational assistance and training, was transferred to [section 2920 of this title][/us/usc/t29/s2920], and subsequently transferred to [section 3293 of this title][/us/usc/t29/s3293].
 
 ----------
 

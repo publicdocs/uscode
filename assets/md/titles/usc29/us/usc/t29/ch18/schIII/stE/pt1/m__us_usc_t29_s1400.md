@@ -17,7 +17,7 @@
 
     (a) __Amendment of covered multiemployer plan; procedures applicable__ 
 
-        Except as provided in subsection (b) of this section, if an amendment to a multiemployer plan authorized by any preceding section of this part is adopted more than 36 months after the effective date of this section, the amendment shall be effective only if the corporation approves the amendment, or, within 90 days after the corporation receives notice and a copy of the amendment from the plan sponsor, fails to disapprove the amendment.
+        Except as provided in subsection (b), if an amendment to a multiemployer plan authorized by any preceding section of this part is adopted more than 36 months after the effective date of this section, the amendment shall be effective only if the corporation approves the amendment, or, within 90 days after the corporation receives notice and a copy of the amendment from the plan sponsor, fails to disapprove the amendment.
 
     (b) __Amendment respecting methods for computing withdrawal liability__ 
 
@@ -25,7 +25,7 @@
 
     (c) __Criteria for disapproval by corporation__ 
 
-        The corporation shall disapprove an amendment referred to in subsection (a) or (b) of this section only if the corporation determines that the amendment creates an unreasonable risk of loss to plan participants and beneficiaries or to the corporation.
+        The corporation shall disapprove an amendment referred to in subsection (a) or (b) only if the corporation determines that the amendment creates an unreasonable risk of loss to plan participants and beneficiaries or to the corporation.
 
 ([Pub. L. 93–406, title IV][/us/pl/93/406/tIV], § 4220, as added [Pub. L. 96–364, title I][/us/pl/96/364/tI], § 104(2), Sept. 26, 1980, [94 Stat. 1239][/us/stat/94/1239].)
 

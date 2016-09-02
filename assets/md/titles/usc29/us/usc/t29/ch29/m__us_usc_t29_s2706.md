@@ -21,7 +21,7 @@
 
     (b) __Availability__ 
 
-        Amounts appropriated under subsection (a) of this section shall remain available until expended.
+        Amounts appropriated under subsection (a) shall remain available until expended.
 
 ([Pub. L. 103–382, title V][/us/pl/103/382/tV], § 547, Oct. 20, 1994, [108 Stat. 4055][/us/stat/108/4055].)
 

@@ -17,13 +17,13 @@
 
     Section 2881, [Pub. L. 105–220, title I][/us/pl/105/220/tI], § 141, Aug. 7, 1998, [112 Stat. 1006][/us/stat/112/1006], stated purposes of Job Corps program. See [section 3191 of this title][/us/usc/t29/s3191].
 
-    Provisions similar to section 2881 were contained in [section 1691 of this title][/us/usc/t29/s1691] prior to repeal by [Pub. L. 105–220][/us/pl/105/220].
+    Provisions similar to those formerly contained in section 2881 were contained in [section 1691 of this title][/us/usc/t29/s1691] prior to repeal by [Pub. L. 105–220][/us/pl/105/220].
 
     Section 2882, [Pub. L. 105–220, title I][/us/pl/105/220/tI], § 142, Aug. 7, 1998, [112 Stat. 1006][/us/stat/112/1006], defined terms. See [section 3192 of this title][/us/usc/t29/s3192].
 
     Section 2883, [Pub. L. 105–220, title I][/us/pl/105/220/tI], § 143, Aug. 7, 1998, [112 Stat. 1007][/us/stat/112/1007], established the Job Corps. See [section 3193 of this title][/us/usc/t29/s3193].
 
-    Provisions similar to section 2883 were contained in [section 1692 of this title][/us/usc/t29/s1692] prior to repeal by [Pub. L. 105–220][/us/pl/105/220].
+    Provisions similar to those formerly contained in section 2883 were contained in [section 1692 of this title][/us/usc/t29/s1692] prior to repeal by [Pub. L. 105–220][/us/pl/105/220].
 
  __Effective Date of Repeal__ 
 

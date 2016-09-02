@@ -33,7 +33,7 @@
 
     (b) __Report__ 
 
-        Not later than 2 years after October 27, 1992, the Secretary shall submit to the Congress a report containing a summary of the results of the study described in subsection (a) of this section and such recommendations as the Secretary determines to be appropriate.
+        Not later than 2 years after October 27, 1992, the Secretary shall submit to the Congress a report containing a summary of the results of the study described in subsection (a) and such recommendations as the Secretary determines to be appropriate.
 
 ([Pub. L. 102–530][/us/pl/102/530], § 8, Oct. 27, 1992, [106 Stat. 3467][/us/stat/106/3467].)
 

@@ -19,7 +19,7 @@
 
         (1) __In general__ 
 
-        Except as provided in subsection (b) of this section, any eligible employee who takes leave under [section 2612 of this title][/us/usc/t29/s2612] for the intended purpose of the leave shall be entitled, on return from such leave—
+        Except as provided in subsection (b), any eligible employee who takes leave under [section 2612 of this title][/us/usc/t29/s2612] for the intended purpose of the leave shall be entitled, on return from such leave—
 
             (A) to be restored by the employer to the position of employment held by the employee when the leave commenced; or
 
@@ -49,7 +49,7 @@
 
         (1) __Denial of restoration__ 
 
-        An employer may deny restoration under subsection (a) of this section to any eligible employee described in paragraph (2) if—
+        An employer may deny restoration under subsection (a) to any eligible employee described in paragraph (2) if—
 
             (A) such denial is necessary to prevent substantial and grievous economic injury to the operations of the employer;
 

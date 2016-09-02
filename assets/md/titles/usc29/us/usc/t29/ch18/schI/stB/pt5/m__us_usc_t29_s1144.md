@@ -31,15 +31,15 @@
 
         (3) Nothing in this section shall be construed to prohibit use by the Secretary of services or facilities of a State agency as permitted under [section 1136 of this title][/us/usc/t29/s1136].
 
-        (4) Subsection (a) of this section shall not apply to any generally applicable criminal law of a State.
+        (4) Subsection (a) shall not apply to any generally applicable criminal law of a State.
 
         (5)
 
-            (A) Except as provided in subparagraph (B), subsection (a) of this section shall not apply to the Hawaii Prepaid Health Care Act (Haw. Rev. Stat. §§ 393–1 through 393–51).
+            (A) Except as provided in subparagraph (B), subsection (a) shall not apply to the Hawaii Prepaid Health Care Act (Haw. Rev. Stat. §§ 393–1 through 393–51).
 
             (B)
 
-             Nothing in subparagraph (A) shall be construed to exempt from subsection (a) of this section—
+             Nothing in subparagraph (A) shall be construed to exempt from subsection (a)—
 
                 (i) any State tax law relating to employee benefit plans, or
 
@@ -69,7 +69,7 @@
 
             (D) For purposes of this paragraph, a multiple employer welfare arrangement shall be considered fully insured only if the terms of the arrangement provide for benefits the amount of all of which the Secretary determines are guaranteed under a contract, or policy of insurance, issued by an insurance company, insurance service, or insurance organization, qualified to conduct business in a State.
 
-        (7) Subsection (a) of this section shall not apply to qualified domestic relations orders (within the meaning of [section 1056(d)(3)(B)(i) of this title][/us/usc/t29/s1056/d/3/B/i]), qualified medical child support orders (within the meaning of [section 1169(a)(2)(A) of this title][/us/usc/t29/s1169/a/2/A]), and the provisions of law referred to in [section 1169(a)(2)(B)(ii) of this title][/us/usc/t29/s1169/a/2/B/ii] to the extent they apply to qualified medical child support orders.
+        (7) Subsection (a) shall not apply to qualified domestic relations orders (within the meaning of [section 1056(d)(3)(B)(i) of this title][/us/usc/t29/s1056/d/3/B/i]), qualified medical child support orders (within the meaning of [section 1169(a)(2)(A) of this title][/us/usc/t29/s1169/a/2/A]), and the provisions of law referred to in [section 1169(a)(2)(B)(ii) of this title][/us/usc/t29/s1169/a/2/B/ii] to the extent they apply to qualified medical child support orders.
 
         (8)
 

@@ -59,7 +59,7 @@
 
         (3)
 
-         The regulations prescribed by the Secretary pursuant to paragraph (1) shall require, in connection with any policy issued by an insurer to or for the benefit of an employee benefit plan to the extent that the policy is not a guaranteed benefit policy (as defined in subsection (b)(2)(B) of this section)—
+         The regulations prescribed by the Secretary pursuant to paragraph (1) shall require, in connection with any policy issued by an insurer to or for the benefit of an employee benefit plan to the extent that the policy is not a guaranteed benefit policy (as defined in subsection (b)(2)(B))—
 
             (A) that a plan fiduciary totally independent of the insurer authorize the purchase of such policy (unless such purchase is a transaction exempt under [section 1108(b)(5) of this title][/us/usc/t29/s1108/b/5]),
 

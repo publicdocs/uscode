@@ -93,7 +93,7 @@
 
          The sale by a plan to a party in interest on or after December 18, 1987, of any stock, if—
 
-            (A) the requirements of paragraphs (1) and (2) of subsection (e) of this section are met with respect to such stock,
+            (A) the requirements of paragraphs (1) and (2) of subsection (e) are met with respect to such stock,
 
             (B) on the later of the date on which the stock was acquired by the plan, or January 1, 1975, such stock constituted a qualifying employer security (as defined in [section 1107(d)(5) of this title][/us/usc/t29/s1107/d/5] as then in effect), and
 
@@ -299,7 +299,7 @@
 
     (f) __Applicability of statutory prohibitions to mergers or transfers__ 
 
-        [Section 1106(b)(2) of this title][/us/usc/t29/s1106/b/2] shall not apply to any merger or transfer described in subsection (b)(11) of this section.
+        [Section 1106(b)(2) of this title][/us/usc/t29/s1106/b/2] shall not apply to any merger or transfer described in subsection (b)(11).
 
     (g) __Provision of investment advice to participant and beneficiaries__ 
 

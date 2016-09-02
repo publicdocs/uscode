@@ -29,13 +29,13 @@
 
         (1)
 
-         Except as otherwise provided in subsection (d) of this section and in section 1103(a)(1) and (2) of this title, if the assets of a plan are held by two or more trustees—
+         Except as otherwise provided in subsection (d) and in section 1103(a)(1) and (2) of this title, if the assets of a plan are held by two or more trustees—
 
             (A) each shall use reasonable care to prevent a co-trustee from committing a breach; and
 
             (B) they shall jointly manage and control the assets of the plan, except that nothing in this subparagraph (B) shall preclude any agreement, authorized by the trust instrument, allocating specific responsibilities, obligations, or duties among trustees, in which event a trustee to whom certain responsibilities, obligations, or duties have not been allocated shall not be liable by reason of this subparagraph (B) either individually or as a trustee for any loss resulting to the plan arising from the acts or omissions on the part of another trustee to whom such responsibilities, obligations, or duties have been allocated.
 
-        (2) Nothing in this subsection shall limit any liability that a fiduciary may have under subsection (a) of this section or any other provision of this part.
+        (2) Nothing in this subsection shall limit any liability that a fiduciary may have under subsection (a) or any other provision of this part.
 
         (3)
 
@@ -61,13 +61,13 @@
 
                 (iii) in continuing the allocation or designation; or
 
-            (B) the named fiduciary would otherwise be liable in accordance with subsection (a) of this section.
+            (B) the named fiduciary would otherwise be liable in accordance with subsection (a).
 
         (3) For purposes of this subsection, the term “trustee responsibility” means any responsibility provided in the plan’s trust instrument (if any) to manage or control the assets of the plan, other than a power under the trust instrument of a named fiduciary to appoint an investment manager in accordance with [section 1102(c)(3) of this title][/us/usc/t29/s1102/c/3].
 
     (d) __Investment managers__ 
 
-        (1) If an investment manager or managers have been appointed under [section 1102(c)(3) of this title][/us/usc/t29/s1102/c/3], then, notwithstanding subsections (a)(2) and (3) and subsection (b) of this section, no trustee shall be liable for the acts or omissions of such investment manager or managers, or be under an obligation to invest or otherwise manage any asset of the plan which is subject to the management of such investment manager.
+        (1) If an investment manager or managers have been appointed under [section 1102(c)(3) of this title][/us/usc/t29/s1102/c/3], then, notwithstanding subsections (a)(2) and (3) and subsection (b), no trustee shall be liable for the acts or omissions of such investment manager or managers, or be under an obligation to invest or otherwise manage any asset of the plan which is subject to the management of such investment manager.
 
         (2) Nothing in this subsection shall relieve any trustee of any liability under this part for any act of such trustee.
 

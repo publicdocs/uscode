@@ -139,7 +139,7 @@
 
 >     “(a)  __Purpose__  __.—__ 
 
->     It is the purpose of this section to ensure that veterans who are dislocated workers eligible for assistance under title I of the Workforce Investment Act of 1998 \[[29 U.S.C. 2801][/us/usc/t29/s2801] et seq.\] or are otherwise unemployed receive, to the extent feasible, assistance (including information on vocational guidance or vocational counseling, or information on both vocational guidance or vocational counseling), including information on counseling, needed by such veterans—
+>     It is the purpose of this section to ensure that veterans who are dislocated workers eligible for assistance under title I of the Workforce Investment Act of 1998 \[former [29 U.S.C. 2801][/us/usc/t29/s2801] et seq.\] or are otherwise unemployed receive, to the extent feasible, assistance (including information on vocational guidance or vocational counseling, or information on both vocational guidance or vocational counseling), including information on counseling, needed by such veterans—
 
 >         “(1) to apply for services and benefits for which they are eligible as veterans, dislocated workers, or unemployed persons;
 
@@ -165,7 +165,7 @@
 
 >     “(c)  __Coordination of Department of Labor Activities__  __.—__ 
 
->     The Assistant Secretary of Labor for Veterans’ Employment and Training, in consultation with the unit or office designated or created under section 322(b) of the Job Training Partnership Act \[former [29 U.S.C. 1662a(b)][/us/usc/t29/s1662a/b]\] or any successor to such unit or office under title I of the Workforce Investment Act of 1998 \[[29 U.S.C. 2801][/us/usc/t29/s2801] et seq.\], shall, except as the Secretary of Labor may otherwise direct, coordinate the activities of the components of the Department of Labor performing the responsibilities of the Secretary of Labor under this section.
+>     The Assistant Secretary of Labor for Veterans’ Employment and Training, in consultation with the unit or office designated or created under section 322(b) of the Job Training Partnership Act \[former [29 U.S.C. 1662a(b)][/us/usc/t29/s1662a/b]\] or any successor to such unit or office under title I of the Workforce Investment Act of 1998 \[former [29 U.S.C. 2801][/us/usc/t29/s2801] et seq.\], shall, except as the Secretary of Labor may otherwise direct, coordinate the activities of the components of the Department of Labor performing the responsibilities of the Secretary of Labor under this section.
 
 >     “(d)  __Covered Services and Benefits__  __.—__ 
 
@@ -175,11 +175,11 @@
 
 >          Employment assistance under—
 
->             “(A) title I of the Workforce Investment Act of 1998 \[[29 U.S.C. 2801][/us/usc/t29/s2801] et seq.\]; and
+>             “(A) title I of the Workforce Investment Act of 1998 \[former [29 U.S.C. 2801][/us/usc/t29/s2801] et seq.\]; and
 
 >             “(B) the Veterans’ Job Training Act ([97 Stat. 443][/us/stat/97/443]; [29 U.S.C. 1721][/us/usc/t29/s1721] note \[now set out below\]).
 
->         “(2) Employment and training activities for dislocated workers under title I of the Workforce Investment Act of 1998 \[[29 U.S.C. 2801][/us/usc/t29/s2801] et seq.\].
+>         “(2) Employment and training activities for dislocated workers under title I of the Workforce Investment Act of 1998 \[former [29 U.S.C. 2801][/us/usc/t29/s2801] et seq.\].
 
 >         “(3) Employment assistance and unemployment compensation under the trade adjustment assistance program provided in chapter 2 of title II of the Trade Act of 1974 (29 \[19\] U.S.C. 2271 et seq.) and under any other program administered by the Employment and Training Administration of the Department of Labor.
 
@@ -483,7 +483,7 @@
 
 >         “(2) A period of time referred to in paragraph (1) is the period of time beginning on the date on which the veteran enters into an approved program of job training of an employer for purposes of assistance under this Act and ending on the last date for which such assistance is payable.
 
->     “(b) Assistance may not be paid under this Act to an employer on behalf of an eligible veteran for any period if the employer receives for that period any other form of assistance on account of the training or employment of the veteran, including assistance under title I of the Workforce Investment Act of 1998 \[[29 U.S.C. 2801][/us/usc/t29/s2801] et seq.\] or a credit under section 44B of the Internal Revenue Code of 1954 ([26 U.S.C. 44B][/us/usc/t26/s44B]) (relating to credit for employment of certain new employees).
+>     “(b) Assistance may not be paid under this Act to an employer on behalf of an eligible veteran for any period if the employer receives for that period any other form of assistance on account of the training or employment of the veteran, including assistance under title I of the Workforce Investment Act of 1998 \[former [29 U.S.C. 2801][/us/usc/t29/s2801] et seq.\] or a credit under section 44B of the Internal Revenue Code of 1954 (\[former\] [26 U.S.C. 44B][/us/usc/t26/s44B]) (relating to credit for employment of certain new employees).
 
 >     “(c) Assistance may not be paid under this Act on behalf of a veteran who has completed a program of job training under this Act.
 
@@ -563,7 +563,7 @@
 
 >         (1) The Administrator and the Secretary shall make available in regional and local offices of the Veterans’ Administration and the Department of Labor such personnel as are necessary to facilitate the effective implementation of this Act.
 
->         “(2) In carrying out the responsibilities of the Secretary under this Act, the Secretary shall make maximum use of the services of Directors and Assistant Directors for Veterans’ Employment and Training, disabled veterans’ outreach program specialists, and employees of local offices appointed pursuant to sections 4103, 4103A, and 4104 of title 38, United States Code. The Secretary shall also use such resources as are available under title I of the Workforce Investment Act of 1998 \[[29 U.S.C. 2801][/us/usc/t29/s2801] et seq.\]. To the extent that the Administrator withholds approval of veterans’ applications under this Act pursuant to section 5(b)(2)(B), the Secretary shall take steps to assist such veterans in taking advantage of opportunities that may be available to them under title I of the Workforce Investment Act of 1998 \[former [29 U.S.C. 2801][/us/usc/t29/s2801] et seq.\] or under any other program carried out with funds provided by the Secretary.
+>         “(2) In carrying out the responsibilities of the Secretary under this Act, the Secretary shall make maximum use of the services of Directors and Assistant Directors for Veterans’ Employment and Training, disabled veterans’ outreach program specialists, and employees of local offices appointed pursuant to sections 4103, 4103A, and 4104 of title 38, United States Code. The Secretary shall also use such resources as are available under title I of the Workforce Investment Act of 1998 \[former [29 U.S.C. 2801][/us/usc/t29/s2801] et seq.\]. To the extent that the Administrator withholds approval of veterans’ applications under this Act pursuant to section 5(b)(2)(B), the Secretary shall take steps to assist such veterans in taking advantage of opportunities that may be available to them under title I of the Workforce Investment Act of 1998 \[former [29 U.S.C. 2801][/us/usc/t29/s2801] et seq.\] or under any other program carried out with funds provided by the Secretary.
 
 >     “(d) The Secretary shall request and obtain from the Administrator of the Small Business Administration a list of small business concerns and shall, on a regular basis, update such list. Such list shall be used to identify and promote possible training and employment opportunities for veterans.
 

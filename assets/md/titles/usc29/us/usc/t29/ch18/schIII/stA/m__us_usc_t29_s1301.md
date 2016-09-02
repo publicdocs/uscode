@@ -77,7 +77,7 @@
 
         (11) “contribution base unit” means a unit with respect to which an employer has an obligation to contribute under a multiemployer plan, as defined in regulations prescribed by the Secretary of the Treasury;
 
-        (12) “outstanding claim for withdrawal liability” means a plan’s claim for the unpaid balance of the liability determined under part 1 of subtitle E of this subchapter for which demand has been made, valued in accordance with regulations prescribed by the corporation;
+        (12) “outstanding claim for withdrawal liability” means a plan’s claim for the unpaid balance of the liability determined under part 1 of subtitle E for which demand has been made, valued in accordance with regulations prescribed by the corporation;
 
         (13) “contributing sponsor”, of a single-employer plan, means a person described in [section 1082(b)(1) of this title][/us/usc/t29/s1082/b/1] (without regard to [section 1082(b)(2) of this title][/us/usc/t29/s1082/b/2]) or [section 412(b)(1) of title 26][/us/usc/t26/s412/b/1] (without regard to section 412(b)(2) of such title). <sup>\[2\]</sup>  <sup><sup> 2 So in original. The period probably should be a semicolon. </sup></sup> 
 
@@ -157,9 +157,9 @@
 
         (2)
 
-         For purposes of subtitle E of this subchapter—
+         For purposes of subtitle E—
 
-            (A) except as otherwise provided in subtitle E of this subchapter, contributions or other payments shall be considered made under a plan for a plan year if they are made within the period prescribed under section 412(c)(10)  <sup>\[3\]</sup>  <sup><sup> 3 See References in Text note below. </sup></sup>  of title 26 (determined, in the case of a terminated plan, as if the plan had continued beyond the termination date), and
+            (A) except as otherwise provided in subtitle E, contributions or other payments shall be considered made under a plan for a plan year if they are made within the period prescribed under section 412(c)(10)  <sup>\[3\]</sup>  <sup><sup> 3 See References in Text note below. </sup></sup>  of title 26 (determined, in the case of a terminated plan, as if the plan had continued beyond the termination date), and
 
             (B) the term “Secretary of the Treasury” means the Secretary of the Treasury or such Secretary’s delegate.
 

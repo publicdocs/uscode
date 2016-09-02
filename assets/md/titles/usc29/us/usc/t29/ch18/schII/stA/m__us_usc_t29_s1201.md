@@ -25,7 +25,7 @@
 
          Whenever an application is made to the Secretary of the Treasury for a determination of whether a pension, profit-sharing, or stock bonus plan, a trust which is a part of such a plan, or an annuity or bond purchase plan meets the requirements of part I of subchapter D of chapter 1 of title 26, the Secretary shall upon request afford an opportunity to comment on the application at any time within 45 days after receipt thereof to—
 
-            (A) any employee or class of employee qualifying as an interested party within the meaning of the regulations referred to in subsection (a) of this section. <sup>\[1\]</sup>  <sup><sup> 1 So in original. The period probably should be a comma. </sup></sup> 
+            (A) any employee or class of employee qualifying as an interested party within the meaning of the regulations referred to in subsection (a). <sup>\[1\]</sup>  <sup><sup> 1 So in original. The period probably should be a comma. </sup></sup> 
 
             (B) the Secretary of Labor, and
 
@@ -39,7 +39,7 @@
 
             (B) 10 percent of the employees
 
-            who qualify as interested parties within the meaning of the regulations referred to in subsection (a) of this section. Upon receiving such a request, the Secretary of Labor shall furnish a copy of the request to the Secretary of the Treasury within 5 days (excluding Saturdays, Sundays, and legal public holidays (as set forth in [section 6103 of title 5][/us/usc/t5/s6103])).
+            who qualify as interested parties within the meaning of the regulations referred to in subsection (a). Upon receiving such a request, the Secretary of Labor shall furnish a copy of the request to the Secretary of the Treasury within 5 days (excluding Saturdays, Sundays, and legal public holidays (as set forth in [section 6103 of title 5][/us/usc/t5/s6103])).
 
         (3) Upon receiving such a request from the Secretary of Labor, the Secretary of the Treasury shall furnish to the Secretary of Labor such information held by the Secretary of the Treasury relating to the application as the Secretary of Labor may request.
 
@@ -47,7 +47,7 @@
 
     (c) __Intervention by Pension Benefit Guaranty Corporation or Secretary of Labor into declaratory judgment action under__  __[__  __section 7476 of title 26__  __][/us/usc/t26/s7476]__  __, action by Corporation authorized__ 
 
-        The Pension Benefit Guaranty Corporation and, upon petition of a group of employees referred to in subsection (b)(2) of this section, the Secretary of Labor, may intervene in any action brought for declaratory judgment under [section 7476 of title 26][/us/usc/t26/s7476] in accordance with the provisions of such section. The Pension Benefit Guaranty Corporation is permitted to bring an action under such section 7476 under such rules as may be prescribed by the United States Tax Court.
+        The Pension Benefit Guaranty Corporation and, upon petition of a group of employees referred to in subsection (b)(2), the Secretary of Labor, may intervene in any action brought for declaratory judgment under [section 7476 of title 26][/us/usc/t26/s7476] in accordance with the provisions of such section. The Pension Benefit Guaranty Corporation is permitted to bring an action under such section 7476 under such rules as may be prescribed by the United States Tax Court.
 
     (d) __Notification and information by Secretary of the Treasury to Secretary of Labor upon issuance by Secretary of the Treasury of a determination letter to applicant__ 
 
@@ -63,7 +63,7 @@
 
     1989—Subsecs. (a), (b)(1), (c) to (e). [Pub. L. 101–239][/us/pl/101/239] substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
-    1987—Subsec. (d). [Pub. L. 100–203][/us/pl/100/203] inserted after second sentence “The determination of the Secretary of the Treasury shall not be prima facie evidence on issues relating solely to part 4 of subtitle B of subchapter I of this chapter.”
+    1987—Subsec. (d). [Pub. L. 100–203][/us/pl/100/203] inserted after second sentence “The determination of the Secretary of the Treasury shall not be prima facie evidence on issues relating solely to part 4 of subtitle B of subchapter I.”
 
  __Effective Date of 1989 Amendment__ 
 

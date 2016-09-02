@@ -1347,125 +1347,13 @@
 
  __Amendments__ 
 
-    2015—Subsec. (h)(2)(C)(iv)(II). [Pub. L. 114–74][/us/pl/114/74] amended table generally. Prior to amendment, table related to applicable minimum and maximum percentages for calendar years 2012 to 2020.
+    2015—Subsec. (h)(2)(C)(iv)(II). [Pub. L. 114–74][/us/pl/114/74] amended table generally. Prior to amendment, table related to applicable minimum and maximum percentages for each calendar year from 2012 to 2020 and for calendar years after 2020.
 
     2014—Subsec. (c)(5). [Pub. L. 113–295][/us/pl/113/295], § 221(a)(57)(C)(ii), struck out subpar. (A) designation and heading and struck out subpar. (B) which related to transition rule and availability of transition relief.
 
     Subsec. (h)(2)(B)(i). [Pub. L. 113–159][/us/pl/113/159], § 2003(d)(2), substituted “the valuation date for the plan year” for “the first day of the plan year”.
 
-    Subsec. (h)(2)(C)(iv)(II). [Pub. L. 113–159][/us/pl/113/159], § 2003(b)(1), amended table generally. Prior to amendment, table read as follows:
-
-<table>
-
-  <tr>
-
-    <td> 
-
-“If the calendar year is:  </td>
-
-    <td> 
-
-The
-
-applicable
-
-minimum
-
-percentage is:  </td>
-
-    <td> 
-
-The
-
-applicable
-
-maximum
-
-percentage is:  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> 
-
-2012  </td>
-
-    <td> 
-
-90%  </td>
-
-    <td> 
-
-110%  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> 
-
-2013  </td>
-
-    <td> 
-
-85%  </td>
-
-    <td> 
-
-115%  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> 
-
-2014  </td>
-
-    <td> 
-
-80%  </td>
-
-    <td> 
-
-120%  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> 
-
-2015  </td>
-
-    <td> 
-
-75%  </td>
-
-    <td> 
-
-125%  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> 
-
-After 2015  </td>
-
-    <td> 
-
-70%  </td>
-
-    <td> 
-
-130%.”  </td>
-
-  </tr>
-
-</table>
+    Subsec. (h)(2)(C)(iv)(II). [Pub. L. 113–159][/us/pl/113/159], § 2003(b)(1), amended table generally. Prior to amendment, table related to applicable minimum and maximum percentages for each calendar year from 2012 to 2015 and for calendar years after 2015.
 
     Subsec. (h)(2)(G). [Pub. L. 113–295][/us/pl/113/295], § 221(a)(57)(D)(ii), struck out subpar. (G) which related to transition rule for plan years beginning in 2008 or 2009.
 

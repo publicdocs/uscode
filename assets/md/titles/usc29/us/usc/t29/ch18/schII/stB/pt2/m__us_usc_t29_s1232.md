@@ -21,7 +21,7 @@
 
     (b) __Consultation__ 
 
-    In the course of conducting the study and investigation described in subsection (a) of this section, and in developing the regulations referred to in subsection (c) of this section, the Secretary of Labor shall consult—
+    In the course of conducting the study and investigation described in subsection (a), and in developing the regulations referred to in subsection (c), the Secretary of Labor shall consult—
 
         (1) with appropriate professional societies, business organizations, and labor organizations, and
 
@@ -29,13 +29,13 @@
 
     (c) __Regulations__ 
 
-        Within 1 year after the date on which he submits his report to the Congress under subsection (a) of this section, the Secretary of Labor shall, if he determines it to be feasible, develop regulations, which will provide the protection of pension and retirement rights and benefits referred to in subsection (a) of this section.
+        Within 1 year after the date on which he submits his report to the Congress under subsection (a), the Secretary of Labor shall, if he determines it to be feasible, develop regulations, which will provide the protection of pension and retirement rights and benefits referred to in subsection (a).
 
     (d) __Congressional review of regulations; resolution of disapproval__ 
 
         (1)
 
-         Any regulations developed pursuant to subsection (c) of this section shall take effect if, and only if—
+         Any regulations developed pursuant to subsection (c)shall take effect if, and only if—
 
             (A) the Secretary of Labor, not later than the day which is 3 years after September 2, 1974, delivers a copy of such regulations to the House of Representatives and a copy to the Senate, and
 

@@ -51,7 +51,7 @@
 
         (5) the term “affected employees” means employees who may reasonably be expected to experience an employment loss as a consequence of a proposed plant closing or mass layoff by their employer;
 
-        (6) subject to subsection (b) of this section, the term “employment loss” means (A) an employment termination, other than a discharge for cause, voluntary departure, or retirement, (B) a layoff exceeding 6 months, or (C) a reduction in hours of work of more than 50 percent during each month of any 6-month period;
+        (6) subject to subsection (b), the term “employment loss” means (A) an employment termination, other than a discharge for cause, voluntary departure, or retirement, (B) a layoff exceeding 6 months, or (C) a reduction in hours of work of more than 50 percent during each month of any 6-month period;
 
         (7) the term “unit of local government” means any general purpose political subdivision of a State which has the power to levy taxes and spend funds, as well as general corporate and police powers; and
 
@@ -63,7 +63,7 @@
 
         (2)
 
-         Notwithstanding subsection (a)(6) of this section, an employee may not be considered to have experienced an employment loss if the closing or layoff is the result of the relocation or consolidation of part or all of the employer’s business and, prior to the closing or layoff—
+         Notwithstanding subsection (a)(6), an employee may not be considered to have experienced an employment loss if the closing or layoff is the result of the relocation or consolidation of part or all of the employer’s business and, prior to the closing or layoff—
 
             (A) the employer offers to transfer the employee to a different site of employment within a reasonable commuting distance with no more than a 6-month break in employment; or
 

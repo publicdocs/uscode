@@ -35,11 +35,11 @@
 
         (1) Notwithstanding any other provision of this chapter, where a State workers’ compensation law is applicable and coverage is provided for a migrant or seasonal agricultural worker, the workers’ compensation benefits shall be the exclusive remedy for loss of such worker under this chapter in the case of bodily injury or death in accordance with such State’s workers’ compensation law.
 
-        (2) The exclusive remedy prescribed by paragraph (1) precludes the recovery under subsection (c) of this section of actual damages for loss from an injury or death but does not preclude recovery under subsection (c) of this section for statutory damages or equitable relief, except that such relief shall not include back or front pay or in any manner, directly or indirectly, expand or otherwise alter or affect (A) a recovery under a State workers’ compensation law or (B) rights conferred under a State workers’ compensation law.
+        (2) The exclusive remedy prescribed by paragraph (1) precludes the recovery under subsection (c) of actual damages for loss from an injury or death but does not preclude recovery under subsection (c) for statutory damages or equitable relief, except that such relief shall not include back or front pay or in any manner, directly or indirectly, expand or otherwise alter or affect (A) a recovery under a State workers’ compensation law or (B) rights conferred under a State workers’ compensation law.
 
     (e) __Expansion of statutory damages__ 
 
-    If the court finds in an action which is brought by or for a worker under subsection (a) of this section in which a claim for actual damages is precluded because the worker’s injury is covered by a State workers’ compensation law as provided by subsection (d) of this section that—
+    If the court finds in an action which is brought by or for a worker under subsection (a) in which a claim for actual damages is precluded because the worker’s injury is covered by a State workers’ compensation law as provided by subsection (d) that—
 
         (1)
 
@@ -81,7 +81,7 @@
 
     (f) __Tolling of statute of limitations__ 
 
-        If it is determined under a State workers’ compensation law that the workers’ compensation law is not applicable to a claim for bodily injury or death of a migrant or seasonal agricultural worker, the statute of limitations for bringing an action for actual damages for such injury or death under subsection (a) of this section shall be tolled for the period during which the claim for such injury or death under such State workers’ compensation law was pending. The statute of limitations for an action for other actual damages, statutory damages, or equitable relief arising out of the same transaction or occurrence as the injury or death of the migrant or seasonal agricultural worker shall be tolled for the period during which the claim for such injury or death was pending under the State workers’ compensation law.
+        If it is determined under a State workers’ compensation law that the workers’ compensation law is not applicable to a claim for bodily injury or death of a migrant or seasonal agricultural worker, the statute of limitations for bringing an action for actual damages for such injury or death under subsection (a) shall be tolled for the period during which the claim for such injury or death under such State workers’ compensation law was pending. The statute of limitations for an action for other actual damages, statutory damages, or equitable relief arising out of the same transaction or occurrence as the injury or death of the migrant or seasonal agricultural worker shall be tolled for the period during which the claim for such injury or death was pending under the State workers’ compensation law.
 
 ([Pub. L. 97–470, title V][/us/pl/97/470/tV], § 504, Jan. 14, 1983, [96 Stat. 2597][/us/stat/96/2597]; [Pub. L. 102–392, title III][/us/pl/102/392/tIII], § 325(a), Oct. 6, 1992, [106 Stat. 1728][/us/stat/106/1728]; [Pub. L. 104–49][/us/pl/104/49], §§ 1(a)(2), 2(a), 3, Nov. 15, 1995, [109 Stat. 432][/us/stat/109/432], 433.)
 
@@ -91,7 +91,7 @@
 
     “(d)(1) Notwithstanding any other provision of this chapter, where a State workers’ compensation law is applicable and coverage is provided for a migrant or seasonal agricultural worker, the workers’ compensation benefits shall be the exclusive remedy for loss of such worker under this chapter in the case of bodily injury or death.
 
-    “(2) The exclusive remedy prescribed by paragraph (1) precludes the recovery under subsection (c) of this section of actual damages for loss from an injury or death but does not preclude recovery under subsection (c) of this section for statutory damages or an injunction.”
+    “(2) The exclusive remedy prescribed by paragraph (1) precludes the recovery under subsection (c) of actual damages for loss from an injury or death but does not preclude recovery under subsection (c) for statutory damages or an injunction.”
 
     Subsec. (e). [Pub. L. 104–49][/us/pl/104/49], § 2(a), added subsec. (e).
 

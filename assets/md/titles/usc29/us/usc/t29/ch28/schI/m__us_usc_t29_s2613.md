@@ -21,7 +21,7 @@
 
     (b) __Sufficient certification__ 
 
-    Certification provided under subsection (a) of this section shall be sufficient if it states—
+    Certification provided under subsection (a) shall be sufficient if it states—
 
         (1) the date on which the serious health condition commenced;
 
@@ -45,7 +45,7 @@
 
         (1) __In general__ 
 
-            In any case in which the employer has reason to doubt the validity of the certification provided under subsection (a) of this section for leave under subparagraph (C) or (D) of [section 2612(a)(1) of this title][/us/usc/t29/s2612/a/1], the employer may require, at the expense of the employer, that the eligible employee obtain the opinion of a second health care provider designated or approved by the employer concerning any information certified under subsection (b) of this section for such leave.
+            In any case in which the employer has reason to doubt the validity of the certification provided under subsection (a) for leave under subparagraph (C) or (D) of [section 2612(a)(1) of this title][/us/usc/t29/s2612/a/1], the employer may require, at the expense of the employer, that the eligible employee obtain the opinion of a second health care provider designated or approved by the employer concerning any information certified under subsection (b) for such leave.
 
         (2) __Limitation__ 
 
@@ -55,11 +55,11 @@
 
         (1) __In general__ 
 
-            In any case in which the second opinion described in subsection (c) of this section differs from the opinion in the original certification provided under subsection (a) of this section, the employer may require, at the expense of the employer, that the employee obtain the opinion of a third health care provider designated or approved jointly by the employer and the employee concerning the information certified under subsection (b) of this section.
+            In any case in which the second opinion described in subsection (c) differs from the opinion in the original certification provided under subsection (a), the employer may require, at the expense of the employer, that the employee obtain the opinion of a third health care provider designated or approved jointly by the employer and the employee concerning the information certified under subsection (b).
 
         (2) __Finality__ 
 
-            The opinion of the third health care provider concerning the information certified under subsection (b) of this section shall be considered to be final and shall be binding on the employer and the employee.
+            The opinion of the third health care provider concerning the information certified under subsection (b) shall be considered to be final and shall be binding on the employer and the employee.
 
     (e) __Subsequent recertification__ 
 

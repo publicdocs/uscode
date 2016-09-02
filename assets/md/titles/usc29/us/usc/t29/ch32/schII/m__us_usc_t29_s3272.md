@@ -171,7 +171,7 @@
 
  __Amendments__ 
 
-    2015—Par. (8). [Pub. L. 114–95][/us/pl/114/95], which directed general amendment of “Paragraph (8) of section 203 of the Adult Education and Literacy Act”, was executed by amending par. (8) of this section, which is section 203 of the Adult Education and Family Literacy Act, to reflect the probable intent of Congress. Prior to amendment, text read as follows: “The term ‘essential components of reading instruction’ has the meaning given the term in [section 6368 of title 20][/us/usc/t20/s6368].”
+    2015—Par. (8). [Pub. L. 114–95][/us/pl/114/95], which directed general amendment of “Paragraph (8) of section 203 of the Adult Education and Literacy Act”, was executed by amending par. (8) of this section, which is section 203 of the Adult Education and Family Literacy Act, [Pub. L. 113–128][/us/pl/113/128], to reflect the probable intent of Congress. Prior to amendment, text read as follows: “The term ‘essential components of reading instruction’ has the meaning given the term in [section 6368 of title 20][/us/usc/t20/s6368].”
 
  __Effective Date of 2015 Amendment__ 
 
@@ -194,6 +194,7 @@
 [/us/pl/114/95/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2FtIX
 [/us/stat/129/2166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2166
 [/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/usc/t20/s6368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6368
 [/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
 [/us/pl/114/95/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2Fs5

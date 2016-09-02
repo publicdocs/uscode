@@ -21,7 +21,7 @@
 
     Section 2863, [Pub. L. 105–220, title I][/us/pl/105/220/tI], § 133, Aug. 7, 1998, [112 Stat. 987][/us/stat/112/987], related to allocation within States of funds under this subchapter. See [section 3173 of this title][/us/usc/t29/s3173].
 
-    Section 2864, [Pub. L. 105–220, title I][/us/pl/105/220/tI], § 134, Aug. 7, 1998, [112 Stat. 990][/us/stat/112/990]; [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(f) \[title VIII, § 401(5)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–411; [Pub. L. 109–270][/us/pl/109/270], § 2(h)(6), Aug. 12, 2006, [120 Stat. 748][/us/stat/120/748], related to Use of funds for employment and training activities. See [section 3174 of this title][/us/usc/t29/s3174].
+    Section 2864, [Pub. L. 105–220, title I][/us/pl/105/220/tI], § 134, Aug. 7, 1998, [112 Stat. 990][/us/stat/112/990]; [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(f) \[title VIII, § 401(5)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–411; [Pub. L. 109–270][/us/pl/109/270], § 2(h)(6), Aug. 12, 2006, [120 Stat. 748][/us/stat/120/748], related to use of funds for employment and training activities. See [section 3174 of this title][/us/usc/t29/s3174].
 
  __Effective Date of Repeal__ 
 

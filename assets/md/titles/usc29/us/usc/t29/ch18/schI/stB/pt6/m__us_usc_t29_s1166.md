@@ -37,11 +37,11 @@
 
     (b) __Alternative means of compliance with requirements for notification of multiemployer plans by employers__ 
 
-        The requirements of subsection (a)(2) of this section shall be considered satisfied in the case of a multiemployer plan in connection with a qualifying event described in paragraph (2) of [section 1163 of this title][/us/usc/t29/s1163] if the plan provides that the determination of the occurrence of such qualifying event will be made by the plan administrator.
+        The requirements of subsection (a)(2) shall be considered satisfied in the case of a multiemployer plan in connection with a qualifying event described in paragraph (2) of [section 1163 of this title][/us/usc/t29/s1163] if the plan provides that the determination of the occurrence of such qualifying event will be made by the plan administrator.
 
     (c) __Rules relating to notification of qualified beneficiaries by plan administrator__ 
 
-        For purposes of subsection (a)(4) of this section, any notification shall be made within 14 days (or, in the case of a group health plan which is a multiemployer plan, such longer period of time as may be provided in the terms of the plan) of the date on which the administrator is notified under paragraph (2) or (3), whichever is applicable, and any such notification to an individual who is a qualified beneficiary as the spouse of the covered employee shall be treated as notification to all other qualified beneficiaries residing with such spouse at the time such notification is made.
+        For purposes of subsection (a)(4), any notification shall be made within 14 days (or, in the case of a group health plan which is a multiemployer plan, such longer period of time as may be provided in the terms of the plan) of the date on which the administrator is notified under paragraph (2) or (3), whichever is applicable, and any such notification to an individual who is a qualified beneficiary as the spouse of the covered employee shall be treated as notification to all other qualified beneficiaries residing with such spouse at the time such notification is made.
 
 ([Pub. L. 93–406, title I][/us/pl/93/406/tI], § 606, as added [Pub. L. 99–272, title X][/us/pl/99/272/tX], § 10002(a), Apr. 7, 1986, [100 Stat. 230][/us/stat/100/230]; amended [Pub. L. 99–509, title IX][/us/pl/99/509/tIX], § 9501(d)(2), Oct. 21, 1986, [100 Stat. 2077][/us/stat/100/2077]; [Pub. L. 99–514, title XVIII][/us/pl/99/514/tXVIII], § 1895(d)(6)(B), Oct. 22, 1986, [100 Stat. 2939][/us/stat/100/2939]; [Pub. L. 101–239, title VI][/us/pl/101/239/tVI], § 6703(c), title VII, § 7891(d)(1)(A), Dec. 19, 1989, [103 Stat. 2296][/us/stat/103/2296], 2445; [Pub. L. 104–191, title IV][/us/pl/104/191/tIV], § 421(b)(2), Aug. 21, 1996, [110 Stat. 2088][/us/stat/110/2088].)
 
@@ -53,7 +53,7 @@
 
     1996—Subsec. (a)(3). [Pub. L. 104–191][/us/pl/104/191] substituted “at any time during the first 60 days of continuation coverage under this part” for “at the time of a qualifying event described in [section 1163(2) of this title][/us/usc/t29/s1163/2]”.
 
-    1989—[Pub. L. 101–239][/us/pl/101/239], § 7891(d)(1)(A)(ii), designated first sentence as subsec. (a), added subsec. (b), designated second sentence as subsec. (c), and substituted “For purposes of subsection (a)(4) of this section” for “For purposes of paragraph (4)”.
+    1989—[Pub. L. 101–239][/us/pl/101/239], § 7891(d)(1)(A)(ii), designated first sentence as subsec. (a), added subsec. (b), designated second sentence as subsec. (c), and substituted “For purposes of subsection (a)(4)” for “For purposes of paragraph (4)”.
 
     [Pub. L. 101–239][/us/pl/101/239], § 7891(d)(1)(A)(i)(II), inserted in last sentence “(or, in the case of a group health plan which is a multiemployer plan, such longer period of time as may be provided in the terms of the plan)” after “14 days”.
 

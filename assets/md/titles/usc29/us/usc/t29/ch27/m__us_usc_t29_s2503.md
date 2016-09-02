@@ -17,7 +17,7 @@
 
     (a) __In general__ 
 
-    With funds appropriated to carry out this section, the Secretary shall make grants to community-based organizations to provide technical assistance to employers and labor unions selected under subsection (b) of this section. Such technical assistance may include—
+    With funds appropriated to carry out this section, the Secretary shall make grants to community-based organizations to provide technical assistance to employers and labor unions selected under subsection (b). Such technical assistance may include—
 
         (1) developing outreach and orientation sessions to recruit women into the employers’ apprenticeable occupations and nontraditional occupations;
 
@@ -35,7 +35,7 @@
 
     (b) __Selection of employer and labor unions__ 
 
-        The Secretary shall select a total of 50 employers or labor unions to receive technical assistance provided with grants made under subsection (a) of this section.
+        The Secretary shall select a total of 50 employers or labor unions to receive technical assistance provided with grants made under subsection (a).
 
 ([Pub. L. 102–530][/us/pl/102/530], § 4, Oct. 27, 1992, [106 Stat. 3466][/us/stat/106/3466].)
 

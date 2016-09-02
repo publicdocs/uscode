@@ -25,7 +25,7 @@
 
     (b) __Criteria applicable__ 
 
-    For purposes of subsection (a) of this section—
+    For purposes of subsection (a)—
 
         (1)
 
@@ -57,9 +57,9 @@
 
          In the case of a plan in which a majority of the covered employees are employed in the retail food industry, the plan may be amended to provide that this section shall be applied with respect to such plan—
 
-            (A) by substituting “35 percent” for “70 percent” in subsections (a) and (b) of this section, and
+            (A) by substituting “35 percent” for “70 percent” in subsections (a) and (b), and
 
-            (B) by substituting “65 percent” for “30 percent” in subsection (b) of this section.
+            (B) by substituting “65 percent” for “30 percent” in subsection (b).
 
         (2) Any amendment adopted under paragraph (1) shall provide rules for the equitable reduction of withdrawal liability in any case in which the number of the plan’s contribution base units, in the 2 plan years following the plan year of withdrawal of the employer, is higher than such number immediately after the withdrawal.
 

@@ -51,7 +51,7 @@
 
             (A) After December 31, 1979, a plan may not hold any employer securities or employer real property in excess of the amount specified in regulations under subparagraph (B). This subparagraph shall not apply to a plan after the earliest date after December 31, 1974, on which it complies with such regulations.
 
-            (B) Not later than December 31, 1976, the Secretary shall prescribe regulations which shall have the effect of requiring that a plan divest itself of 50 percent of the holdings of employer securities and employer real property which the plan would be required to divest before January 1, 1985, under paragraph (2) or subsection (c) of this section (whichever is applicable).
+            (B) Not later than December 31, 1976, the Secretary shall prescribe regulations which shall have the effect of requiring that a plan divest itself of 50 percent of the holdings of employer securities and employer real property which the plan would be required to divest before January 1, 1985, under paragraph (2) or subsection (c) (whichever is applicable).
 
     (b) __Exception__ 
 
@@ -99,7 +99,7 @@
 
         (1)
 
-         A plan which makes the election, under paragraph (3) shall be treated as satisfying the requirement of subsection (a)(3) of this section if and only if employer securities held on any date after December 31, 1974 and before January 1, 1985 have a fair market value, determined as of December 31, 1974, not in excess of 10 percent of the lesser of—
+         A plan which makes the election, under paragraph (3) shall be treated as satisfying the requirement of subsection (a)(3) if and only if employer securities held on any date after December 31, 1974 and before January 1, 1985 have a fair market value, determined as of December 31, 1974, not in excess of 10 percent of the lesser of—
 
             (A) the fair market value of the assets of the plan determined on such date (disregarding any portion of the fair market value of employer securities which is attributable to appreciation of such securities after December 31, 1974) but not less than the fair market value of plan assets on January 1, 1975, or
 
@@ -143,11 +143,11 @@
 
             (A) stock,
 
-            (B) a marketable obligation (as defined in subsection (e) of this section), or
+            (B) a marketable obligation (as defined in subsection (e)), or
 
             (C) an interest in a publicly traded partnership (as defined in [section 7704(b) of title 26][/us/usc/t26/s7704/b]), but only if such partnership is an existing partnership as defined in section 10211(c)(2)(A) of the Revenue Act of 1987 ([Public Law 100–203][/us/pl/100/203]).
 
-            After December 17, 1987, in the case of a plan other than an eligible individual account plan, an employer security described in subparagraph (A) or (C) shall be considered a qualifying employer security only if such employer security satisfies the requirements of subsection (f)(1) of this section.
+            After December 17, 1987, in the case of a plan other than an eligible individual account plan, an employer security described in subparagraph (A) or (C) shall be considered a qualifying employer security only if such employer security satisfies the requirements of subsection (f)(1).
 
         (6)
 
@@ -165,7 +165,7 @@
 
     (e) __Marketable obligations__ 
 
-    For purposes of subsection (d)(5) of this section, the term “marketable obligation” means a bond, debenture, note, or certificate, or other evidence of indebtedness (hereinafter in this subsection referred to as “obligation”) if—
+    For purposes of subsection (d)(5), the term “marketable obligation” means a bond, debenture, note, or certificate, or other evidence of indebtedness (hereinafter in this subsection referred to as “obligation”) if—
 
         (1)
 
@@ -199,7 +199,7 @@
 
         (2)
 
-         Until January 1, 1993, a plan shall not be treated as violating subsection (a) of this section solely by holding stock which fails to satisfy the requirements of paragraph (1) if such stock—
+         Until January 1, 1993, a plan shall not be treated as violating subsection (a) solely by holding stock which fails to satisfy the requirements of paragraph (1) if such stock—
 
             (A) has been so held since December 17, 1987, or
 
@@ -217,7 +217,7 @@
 
     1997—Subsec. (b)(2), (3). [Pub. L. 105–34][/us/pl/105/34] added par. (2) and redesignated former par. (2) as (3).
 
-    1990—Subsec. (d)(5). [Pub. L. 101–540][/us/pl/101/540] amended par. (5) generally. Prior to amendment, par. (5) read as follows: “The term ‘qualifying employer security’ means an employer security which is stock or a marketable obligation (as defined in subsection (e) of this section). After December 17, 1987, in the case of a plan other than an eligible individual account plan, stock shall be considered a qualifying employer security only if such stock satisfies the requirements of subsection (f)(1) of this section.”
+    1990—Subsec. (d)(5). [Pub. L. 101–540][/us/pl/101/540] amended par. (5) generally. Prior to amendment, par. (5) read as follows: “The term ‘qualifying employer security’ means an employer security which is stock or a marketable obligation (as defined in subsection (e)). After December 17, 1987, in the case of a plan other than an eligible individual account plan, stock shall be considered a qualifying employer security only if such stock satisfies the requirements of subsection (f)(1).”
 
     1989—Subsec. (d)(3)(A), (6)(A), (7). [Pub. L. 101–239][/us/pl/101/239], § 7891(a)(1), substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
@@ -233,7 +233,7 @@
 
     1987—Subsec. (d)(3)(C). [Pub. L. 100–203][/us/pl/100/203], § 9345(a)(1), added subpar. (C).
 
-    Subsec. (d)(5). [Pub. L. 100–203][/us/pl/100/203], § 9345(b)(1), inserted at end “After December 17, 1987, in the case of a plan other than an eligible individual account plan, stock shall be considered a qualifying employer security only if such stock satisfies the requirements of subsection (f)(1) of this section.”
+    Subsec. (d)(5). [Pub. L. 100–203][/us/pl/100/203], § 9345(b)(1), inserted at end “After December 17, 1987, in the case of a plan other than an eligible individual account plan, stock shall be considered a qualifying employer security only if such stock satisfies the requirements of subsection (f)(1).”
 
     Subsec. (d)(9). [Pub. L. 100–203][/us/pl/100/203], § 9345(a)(2), added par. (9).
 

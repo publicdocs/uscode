@@ -57,11 +57,11 @@
 
     (b)
 
-        (1) Except as otherwise provided in paragraphs (2), (3), and (4), all years of service with the employer or employers maintaining the plan shall be taken into account in computing the period of service for purposes of subsection (a)(1) of this section.
+        (1) Except as otherwise provided in paragraphs (2), (3), and (4), all years of service with the employer or employers maintaining the plan shall be taken into account in computing the period of service for purposes of subsection (a)(1).
 
-        (2) In the case of any employee who has any 1-year break in service (as defined in [section 1053(b)(3)(A) of this title][/us/usc/t29/s1053/b/3/A]) under a plan to which the service requirements of clause (i) of subsection (a)(1)(B) of this section apply, if such employee has not satisfied such requirements, service before such break shall not be required to be taken into account.
+        (2) In the case of any employee who has any 1-year break in service (as defined in [section 1053(b)(3)(A) of this title][/us/usc/t29/s1053/b/3/A]) under a plan to which the service requirements of clause (i) of subsection (a)(1)(B) apply, if such employee has not satisfied such requirements, service before such break shall not be required to be taken into account.
 
-        (3) In computing an employee’s period of service for purposes of subsection (a)(1) of this section in the case of any participant who has any 1-year break in service (as defined in [section 1053(b)(3)(A) of this title][/us/usc/t29/s1053/b/3/A]), service before such break shall not be required to be taken into account under the plan until he has completed a year of service (as defined in subsection (a)(3) of this section) after his return.
+        (3) In computing an employee’s period of service for purposes of subsection (a)(1) in the case of any participant who has any 1-year break in service (as defined in [section 1053(b)(3)(A) of this title][/us/usc/t29/s1053/b/3/A]), service before such break shall not be required to be taken into account under the plan until he has completed a year of service (as defined in subsection (a)(3)) after his return.
 
         (4)
 
@@ -111,7 +111,7 @@
 
                 (ii) in any other case, in the immediately following year.
 
-            (D) For purposes of this paragraph, the term “year” means the period used in computations pursuant to subsection (a)(3)(A) of this section.
+            (D) For purposes of this paragraph, the term “year” means the period used in computations pursuant to subsection (a)(3)(A).
 
             (E)
 
@@ -149,7 +149,7 @@
 
     1984—Subsec. (a)(1). [Pub. L. 98–397][/us/pl/98/397], § 102(a), substituted “21” for “25” in subpar. (A)(i) and “ ‘26’ for ‘21’ ” for “ ‘30’ for ‘25’ ” in subpar. (B)(ii).
 
-    Subsec. (b)(4). [Pub. L. 98–397][/us/pl/98/397], § 102(d)(1), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “In the case of an employee who does not have any nonforfeitable right to an accrued benefit derived from employer contributions, years of service with the employer or employers maintaining the plan before a break in service shall not be required to be taken into account in computing the period of service for purposes of subsection (a)(1) of this section if the number of consecutive 1-year breaks in service equals or exceeds the aggregate number of such years of service before such break. Such aggregate number of years of service before such break shall be deemed not to include any years of service not required to be taken into account under this paragraph by reason of any prior break in service.”
+    Subsec. (b)(4). [Pub. L. 98–397][/us/pl/98/397], § 102(d)(1), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “In the case of an employee who does not have any nonforfeitable right to an accrued benefit derived from employer contributions, years of service with the employer or employers maintaining the plan before a break in service shall not be required to be taken into account in computing the period of service for purposes of subsection (a)(1) if the number of consecutive 1-year breaks in service equals or exceeds the aggregate number of such years of service before such break. Such aggregate number of years of service before such break shall be deemed not to include any years of service not required to be taken into account under this paragraph by reason of any prior break in service.”
 
     Subsec. (b)(5). [Pub. L. 98–397][/us/pl/98/397], § 102(e)(1), added par. (5).
 

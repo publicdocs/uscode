@@ -31,7 +31,7 @@
 
         (2) If more than one employer adopts a plan, each such employer shall furnish to the plan administrator the information necessary for the administrator to maintain the records, and make the reports, required by paragraph (1). Such administrator shall maintain the records, and make the reports, required by paragraph (1).
 
-    (b) If any person who is required, under subsection (a) of this section, to furnish information or maintain records for any plan year fails to comply with such requirement, he shall pay to the Secretary a civil penalty of $10 for each employee with respect to whom such failure occurs, unless it is shown that such failure is due to reasonable cause.
+    (b) If any person who is required, under subsection (a), to furnish information or maintain records for any plan year fails to comply with such requirement, he shall pay to the Secretary a civil penalty of $10 for each employee with respect to whom such failure occurs, unless it is shown that such failure is due to reasonable cause.
 
 ([Pub. L. 93–406, title I][/us/pl/93/406/tI], § 209, Sept. 2, 1974, [88 Stat. 865][/us/stat/88/865]; [Pub. L. 110–458, title I][/us/pl/110/458/tI], § 105(f), Dec. 23, 2008, [122 Stat. 5105][/us/stat/122/5105].)
 

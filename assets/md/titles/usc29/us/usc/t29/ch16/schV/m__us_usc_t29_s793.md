@@ -29,7 +29,7 @@
 
         (2)
 
-            (A) The Secretary of Labor may waive the requirements of the affirmative action clause required by regulations promulgated under subsection (a) of this section with respect to any of a prime contractor’s or subcontractor’s facilities that are found to be in all respects separate and distinct from activities of the prime contractor or subcontractor related to the performance of the contract or subcontract, if the Secretary of Labor also finds that such a waiver will not interfere with or impede the effectuation of this chapter.
+            (A) The Secretary of Labor may waive the requirements of the affirmative action clause required by regulations promulgated under subsection (a) with respect to any of a prime contractor’s or subcontractor’s facilities that are found to be in all respects separate and distinct from activities of the prime contractor or subcontractor related to the performance of the contract or subcontract, if the Secretary of Labor also finds that such a waiver will not interfere with or impede the effectuation of this chapter.
 
             (B) Such waivers shall be considered only upon the request of the contractor or subcontractor. The Secretary of Labor shall promulgate regulations that set forth the standards used for granting such a waiver.
 

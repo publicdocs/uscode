@@ -23,9 +23,9 @@
 
     For purposes of this section, for a plan year—
 
-        (1) a multiemployer plan is insolvent if the plan’s available resources are not sufficient to pay benefits under the plan when due for the plan year, or if the plan is determined to be insolvent under subsection (d) of this section;
+        (1) a multiemployer plan is insolvent if the plan’s available resources are not sufficient to pay benefits under the plan when due for the plan year, or if the plan is determined to be insolvent under subsection (d);
 
-        (2) “resource benefit level” means the level of monthly benefits determined under subsections (c)(1) and (3) and (d)(3) of this section to be the highest level which can be paid out of the plan’s available resources;
+        (2) “resource benefit level” means the level of monthly benefits determined under subsections (c)(1) and (3) and (d)(3) to be the highest level which can be paid out of the plan’s available resources;
 
         (3) “available resources” means the plan’s cash, marketable assets, contributions, withdrawal liability payments, and earnings, less reasonable administrative expenses and amounts owed for such plan year to the corporation under [section 1431(b)(2) of this title][/us/usc/t29/s1431/b/2]; and
 
@@ -95,7 +95,7 @@
 
         (1)
 
-         If the plan sponsor of a plan in critical status, as described in subsection 1 1085(b)(2) of this title, determines under subsection (d)(1) or (2) of this section that the plan may become insolvent (within the meaning of subsection (b)(1) of this section), the plan sponsor shall—
+         If the plan sponsor of a plan in critical status, as described in subsection 1 1085(b)(2) of this title, determines under subsection (d)(1) or (2) that the plan may become insolvent (within the meaning of subsection (b)(1)), the plan sponsor shall—
 
             (A) notify the Secretary of the Treasury, <sup>\[3\]</sup>  <sup><sup> 3 So in original. The comma probably should be “and”. </sup></sup>  the parties described in [section 1021(f)(1) of this title][/us/usc/t29/s1021/f/1] of that determination, and
 

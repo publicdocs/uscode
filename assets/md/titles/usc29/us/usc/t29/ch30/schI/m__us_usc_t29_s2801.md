@@ -17,9 +17,7 @@
 
     Section, [Pub. L. 105–220, title I][/us/pl/105/220/tI], § 101, Aug. 7, 1998, [112 Stat. 939][/us/stat/112/939]; [Pub. L. 105–244, title I][/us/pl/105/244/tI], § 102(d)(1), Oct. 7, 1998, [112 Stat. 1622][/us/stat/112/1622]; [Pub. L. 105–332][/us/pl/105/332], § 3(f), Oct. 31, 1998, [112 Stat. 3126][/us/stat/112/3126]; [Pub. L. 106–400][/us/pl/106/400], § 2, Oct. 30, 2000, [114 Stat. 1675][/us/stat/114/1675]; [Pub. L. 107–110, title X][/us/pl/107/110/tX], § 1076(w), Jan. 8, 2002, [115 Stat. 2093][/us/stat/115/2093]; [Pub. L. 109–270][/us/pl/109/270], § 2(h)(1), (2), Aug. 12, 2006, [120 Stat. 747][/us/stat/120/747]; [Pub. L. 110–234, title IV][/us/pl/110/234/tIV], § 4002(b)(1)(B), (E), (2)(R), May 22, 2008, [122 Stat. 1096][/us/stat/122/1096], 1097; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title IV, § 4002(b)(1)(B), (E), (2)(R), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1857, 1858, defined terms. See [section 3102 of this title][/us/usc/t29/s3102].
 
- __Prior Provisions__ 
-
-    Provisions similar to this section were contained in [section 1503 of this title][/us/usc/t29/s1503] prior to repeal by [Pub. L. 105–220][/us/pl/105/220].
+    Provisions similar to those formerly contained in this section were contained in [section 1503 of this title][/us/usc/t29/s1503] prior to repeal by [Pub. L. 105–220][/us/pl/105/220].
 
  __Effective Date of Repeal__ 
 

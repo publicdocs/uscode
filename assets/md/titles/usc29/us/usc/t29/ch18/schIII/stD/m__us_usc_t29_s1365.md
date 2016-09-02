@@ -23,7 +23,7 @@
 
     (3)
 
-     in the case of a multiemployer plan, information with respect to such plan which the corporation determines is necessary for the enforcement of subtitle E of this subchapter and requires by regulation, which may include—
+     in the case of a multiemployer plan, information with respect to such plan which the corporation determines is necessary for the enforcement of subtitle E and requires by regulation, which may include—
 
         (A)
 

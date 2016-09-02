@@ -21,7 +21,7 @@
 
     (b) __Notification by employer of plan sponsor of old plan; notification by plan sponsor of old plan of employer and plan sponsor of new plan; appeal by new plan to prevent transfer; further proceedings__ 
 
-        (1) The employer shall notify the plan sponsor of the old plan of a change in multiemployer plan participation described in subsection (a) of this section no later than 30 days after the employer determines that the change will occur.
+        (1) The employer shall notify the plan sponsor of the old plan of a change in multiemployer plan participation described in subsection (a) no later than 30 days after the employer determines that the change will occur.
 
         (2)
 
@@ -65,9 +65,9 @@
 
     (d) __Escrow payments by employer upon complete or partial withdrawal and prior to transfer__ 
 
-    In any case in which there is a complete or partial withdrawal described in subsection (a) of this section, if—
+    In any case in which there is a complete or partial withdrawal described in subsection (a), if—
 
-        (1) the new plan files an appeal with the corporation under subsection (b)(3) of this section, and
+        (1) the new plan files an appeal with the corporation under subsection (b)(3), and
 
         (2)
 
@@ -83,7 +83,7 @@
 
         (1)
 
-         Notwithstanding subsection (b) of this section, the plan sponsor shall not transfer any assets to the new plan if—
+         Notwithstanding subsection (b), the plan sponsor shall not transfer any assets to the new plan if—
 
             (A) the old plan is in reorganization (within the meaning of section 1421(a)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title), or
 
@@ -93,13 +93,13 @@
 
          In any case in which a transfer of assets from the old plan to the new plan is prohibited by paragraph (1), the plan sponsor of the old plan shall transfer—
 
-            (A) all nonforfeitable benefits described in subsection (b)(2) of this section, if the value of such benefits does not exceed the withdrawal liability of the employer with respect to such withdrawal, or
+            (A) all nonforfeitable benefits described in subsection (b)(2), if the value of such benefits does not exceed the withdrawal liability of the employer with respect to such withdrawal, or
 
             (B) such nonforfeitable benefits having a value equal to the withdrawal liability of the employer, if the value of such benefits exceeds the withdrawal liability of the employer.
 
     (f) __Agreement between plan sponsors of old plan and new plan to transfer in compliance with other statutory provisions; reduction of withdrawal liability of employer from old plan; amount of withdrawal liability of employer to new plan__ 
 
-        (1) Notwithstanding subsections (b) and (e) of this section, the plan sponsors of the old plan and the new plan may agree to a transfer of assets and liabilities that complies with sections 1411 and 1414 of this title, rather than this section, except that the employer’s liability with respect to the withdrawal from the old plan shall be reduced under subsection (c) of this section as if assets and liabilities had been transferred in accordance with this section.
+        (1) Notwithstanding subsections (b) and (e), the plan sponsors of the old plan and the new plan may agree to a transfer of assets and liabilities that complies with sections 1411 and 1414 of this title, rather than this section, except that the employer’s liability with respect to the withdrawal from the old plan shall be reduced under subsection (c) as if assets and liabilities had been transferred in accordance with this section.
 
         (2)
 
@@ -107,7 +107,7 @@
 
             (A) the employer’s withdrawal liability determined under part 1 of this subtitle with respect to the new plan, or
 
-            (B) the amount by which the employer’s withdrawal liability to the old plan was reduced under subsection (c) of this section, reduced by 5 percent for each 12-month period following the effective date of the transfer and ending before the date of the withdrawal from the new plan.
+            (B) the amount by which the employer’s withdrawal liability to the old plan was reduced under subsection (c), reduced by 5 percent for each 12-month period following the effective date of the transfer and ending before the date of the withdrawal from the new plan.
 
     (g) __Definitions__ 
 

@@ -53,7 +53,7 @@
 
                 (iii) adult education and literacy activities authorized under subchapter II;
 
-                (iv) programs authorized under title I of the Rehabilitation Act of 1973 ([29 U.S.C. 720][/us/usc/t29/s720] et seq.) (other than section 112 or part C of title I of such Act ([29 U.S.C. 732][/us/usc/t29/s732], 741);  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Another closing parenthesis probably should precede the semicolon. </sup></sup> 
+                (iv) programs authorized under title I of the Rehabilitation Act of 1973 ([29 U.S.C. 720][/us/usc/t29/s720] et seq.) (other than section 112 or part C of title I of such Act ([29 U.S.C. 732][/us/usc/t29/s732], 741); <sup>\[1\]</sup>  <sup><sup> 1 So in original. Another closing parenthesis probably should precede the semicolon. </sup></sup> 
 
                 (v) activities authorized under title V of the Older Americans Act of 1965 ([42 U.S.C. 3056][/us/usc/t42/s3056] et seq.);
 

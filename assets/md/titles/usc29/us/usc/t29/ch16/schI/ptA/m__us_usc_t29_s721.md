@@ -69,7 +69,7 @@
 
         (3) __Non-Federal share__ 
 
-            The State plan shall provide for financial participation by the State, or if the State so elects, by the State and local agencies, to provide the amount of the non-Federal share of the cost of carrying out part B of this subchapter.
+            The State plan shall provide for financial participation by the State, or if the State so elects, by the State and local agencies, to provide the amount of the non-Federal share of the cost of carrying out part B.
 
         (4) __Statewideness__ 
 
@@ -417,7 +417,7 @@
 
             (H) __Cooperative agreement with recipients of grants for services to American Indians__ 
 
-            In applicable cases, the State plan shall include an assurance that the State has entered into a formal cooperative agreement with each grant recipient in the State that receives funds under part C of this subchapter. The agreement shall describe strategies for collaboration and coordination in providing vocational rehabilitation services to American Indians who are individuals with disabilities, including—
+            In applicable cases, the State plan shall include an assurance that the State has entered into a formal cooperative agreement with each grant recipient in the State that receives funds under part C. The agreement shall describe strategies for collaboration and coordination in providing vocational rehabilitation services to American Indians who are individuals with disabilities, including—
 
                 (i) strategies for interagency referral and information sharing that will assist in eligibility determinations and the development of individualized plans for employment;
 
@@ -445,7 +445,7 @@
 
         (13) __Services to American Indians__ 
 
-            The State plan shall include an assurance that, except as otherwise provided in part C of this subchapter, the designated State agency will provide vocational rehabilitation services to American Indians who are individuals with disabilities residing in the State to the same extent as the designated State agency provides such services to other significant populations of individuals with disabilities residing in the State.
+            The State plan shall include an assurance that, except as otherwise provided in part C, the designated State agency will provide vocational rehabilitation services to American Indians who are individuals with disabilities residing in the State to the same extent as the designated State agency provides such services to other significant populations of individuals with disabilities residing in the State.
 
         (14) __Semiannual review of individuals in extended employment or other employment under special certificate provisions of the Fair Labor Standards Act of 1938__ 
 
@@ -489,7 +489,7 @@
 
                 (i) the number of individuals in the State who are eligible for services under this subchapter;
 
-                (ii) the number of such individuals who will receive services provided with funds provided under part B of this subchapter and under subchapter VI, including, if the designated State agency uses an order of selection in accordance with paragraph (5), estimates of the number of individuals to be served under each priority category within the order;
+                (ii) the number of such individuals who will receive services provided with funds provided under part B and under subchapter VI, including, if the designated State agency uses an order of selection in accordance with paragraph (5), estimates of the number of individuals to be served under each priority category within the order;
 
                 (iii) the number of individuals who are eligible for services under this subchapter, but are not receiving such services due to an order of selection; and
 
@@ -865,7 +865,7 @@
 
  __Definitions of Terms in__  __[__  __Pub. L. 113–128__  __][/us/pl/113/128]__ 
 
-    Except as otherwise provided, terms defined in [section 3 of Pub. L. 113–128][/us/pl/113/128/s3], which is classified to [section 3102 of this title][/us/usc/t29/s3102], apply to this section.
+    Except as otherwise provided, definitions in [section 3 of Pub. L. 113–128][/us/pl/113/128/s3], which is classified to [section 3102 of this title][/us/usc/t29/s3102], apply to this section.
 
 ----------
 

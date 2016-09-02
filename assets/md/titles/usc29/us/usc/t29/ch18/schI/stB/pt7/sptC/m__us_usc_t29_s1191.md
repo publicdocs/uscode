@@ -19,7 +19,7 @@
 
         (1) __In general__ 
 
-            Subject to paragraph (2) and except as provided in subsection (b) of this section, this part shall not be construed to supersede any provision of State law which establishes, implements, or continues in effect any standard or requirement solely relating to health insurance issuers in connection with group health insurance coverage except to the extent that such standard or requirement prevents the application of a requirement of this part.
+            Subject to paragraph (2) and except as provided in subsection (b), this part shall not be construed to supersede any provision of State law which establishes, implements, or continues in effect any standard or requirement solely relating to health insurance issuers in connection with group health insurance coverage except to the extent that such standard or requirement prevents the application of a requirement of this part.
 
         (2) __Continued preemption with respect to group health plans__ 
 

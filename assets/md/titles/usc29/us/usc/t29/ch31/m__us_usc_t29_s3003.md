@@ -341,7 +341,7 @@
 
                     The State shall conduct public-awareness activities designed to provide information to targeted individuals and entities relating to the availability, benefits, appropriateness, and costs of assistive technology devices and assistive technology services, including—
 
-                        (aa) the development of procedures for providing direct communication between providers of assistive technology and targeted individuals and entities, which may include partnerships with entities in the statewide and local workforce development systems established under the Workforce Innovation and Opportunity Act, State vocational rehabilitation centers, public and private employers, or elementary and secondary public schools;
+                        (aa) the development of procedures for providing direct communication between providers of assistive technology and targeted individuals and entities, which may include partnerships with entities in the statewide and local workforce development systems established under the Workforce Innovation and Opportunity Act \[[29 U.S.C. 3101][/us/usc/t29/s3101] et seq.\], State vocational rehabilitation centers, public and private employers, or elementary and secondary public schools;
 
                         (bb) the development and dissemination, to targeted individuals and entities, of information about State efforts related to assistive technology; and
 
@@ -499,6 +499,7 @@
 [/us/usc/t29/s794]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs794
 [/us/usc/t29/s3102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3102
 [/us/usc/t20/s1400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1400
+[/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
 [/us/usc/t29/s3005/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3005%2Fb
 [/us/pl/105/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F394
 [/us/pl/108/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F364

@@ -21,7 +21,7 @@
 
     (b) __Exception for certain plans__ 
 
-        Subsection (a) of this section shall not apply to any group health plan for any calendar year if all employers maintaining such plan normally employed fewer than 20 employees on a typical business day during the preceding calendar year.
+        Subsection (a) shall not apply to any group health plan for any calendar year if all employers maintaining such plan normally employed fewer than 20 employees on a typical business day during the preceding calendar year.
 
 ([Pub. L. 93–406, title I][/us/pl/93/406/tI], § 601, as added [Pub. L. 99–272, title X][/us/pl/99/272/tX], § 10002(a), Apr. 7, 1986, [100 Stat. 227][/us/stat/100/227]; amended [Pub. L. 101–239, title VII][/us/pl/101/239/tVII], §§ 7862(c)(1)(B), 7891(a)(1), Dec. 19, 1989, [103 Stat. 2432][/us/stat/103/2432], 2445.)
 

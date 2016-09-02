@@ -25,7 +25,7 @@
 
     (b) __Requirements__ 
 
-    An election described in subsection (a) of this section shall be effective only if—
+    An election described in subsection (a) shall be effective only if—
 
         (1) the plan is amended to provide that it shall not be treated as a multiemployer plan for all purposes under this chapter and the Internal Revenue Code of 1954, and
 
@@ -33,7 +33,7 @@
 
     (c) __Effective date__ 
 
-        An election described in subsection (a) of this section shall be treated as being effective as of September 26, 1980.
+        An election described in subsection (a) shall be treated as being effective as of September 26, 1980.
 
 ([Pub. L. 93–406, title IV][/us/pl/93/406/tIV], § 4303, as added [Pub. L. 96–364, title I][/us/pl/96/364/tI], § 108(f), Sept. 26, 1980, [94 Stat. 1270][/us/stat/94/1270].)
 

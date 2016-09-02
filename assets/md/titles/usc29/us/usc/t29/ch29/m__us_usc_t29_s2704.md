@@ -27,7 +27,7 @@
 
         (2) prepare and submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require, including a description of the activities that the entity will carry out using amounts received under the grant; and
 
-        (3) agree to make available (directly or through donations from public or private entities) non-Federal contributions toward the costs of the activities to be conducted with grant funds, in an amount equal to the amount required under subsection (d) of this section.
+        (3) agree to make available (directly or through donations from public or private entities) non-Federal contributions toward the costs of the activities to be conducted with grant funds, in an amount equal to the amount required under subsection (d).
 
     (c) __Use of amounts__ 
 
@@ -47,7 +47,7 @@
 
         (2) __Non-Federal share__ 
 
-        Amounts required to be contributed by an entity under subsection (b)(3) of this section shall equal—
+        Amounts required to be contributed by an entity under subsection (b)(3) shall equal—
 
             (A) an amount equal to 15 percent of the amount provided under the grant in the first year for which the grant is awarded;
 
