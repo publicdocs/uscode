@@ -15,7 +15,7 @@
 
 ## § 1421q. Applicability of Federal laws
 
-    The laws of the United States which are made applicable to the Northern Mariana Islands by the provisions of section 502(a)(1) of H.J. Res. 549, <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  as approved by the House of Representatives and the Senate, except for section 228 of title II \[[42 U.S.C. 428][/us/usc/t42/s428]\] and title XVI of the Social Security Act \[[42 U.S.C. 1381][/us/usc/t42/s1381] et seq.\] as it applies to the several States and the Micronesia Claims Act \[50 U.S.C. App. 2018 et seq.\] as it applies to the Trust Territory of the Pacific Islands, shall be made applicable to Guam on the same terms and conditions as such laws are applied to the Northern Mariana Islands.
+    The laws of the United States which are made applicable to the Northern Mariana Islands by the provisions of section 502(a)(1) of H.J. Res. 549, <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  as approved by the House of Representatives and the Senate, except for section 228 of title II \[[42 U.S.C. 428][/us/usc/t42/s428]\] and title XVI of the Social Security Act \[[42 U.S.C. 1381][/us/usc/t42/s1381] et seq.\] as it applies to the several States and the Micronesia Claims Act as it applies to the Trust Territory of the Pacific Islands, shall be made applicable to Guam on the same terms and conditions as such laws are applied to the Northern Mariana Islands.
 
 ([Pub. L. 94–255, § 2][/us/pl/94/255/s2], Apr. 1, 1976, [90 Stat. 300][/us/stat/90/300].)
 
@@ -25,7 +25,7 @@
 
     The Social Security Act, referred to in text, is [act Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], [49 Stat. 620][/us/stat/49/620], as amended. Title XVI of the Social Security Act is classified generally to subchapter XVI (§ 1381 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42][/us/usc/t42/s1305] and Tables.
 
-    The Micronesia Claims Act, referred to in text, probably means the Micronesian Claims Act of 1971, [Pub. L. 92–39][/us/pl/92/39], July 1, 1971, [85 Stat. 92][/us/stat/85/92], as amended, which was classified generally to section 2018 et seq. of Title 50, Appendix, War and National Defense, and which was omitted from the Code as terminated Aug. 3, 1976.
+    The Micronesia Claims Act, referred to in text, probably means the Micronesian Claims Act of 1971, [Pub. L. 92–39][/us/pl/92/39], July 1, 1971, [85 Stat. 92][/us/stat/85/92], which was classified generally to section 2018 et seq. of the former Appendix to Title 50, War and National Defense, and which was omitted from the Code as terminated Aug. 3, 1976.
 
  __Codification__ 
 

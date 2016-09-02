@@ -755,11 +755,11 @@
 
 > “Sec. 36. __\[Selective Service.\]__ 
 
->  Section 16(b) of the Universal Military Training and Service Act, as amended (50 U.S.C., app., sec. 466(b)), is further amended by striking out the word ‘Alaska,’.
+>  Section 16(b) of the Universal Military Training and Service Act, as amended (50 U.S.C., app., sec. 466(b)) \[now [50 U.S.C. 3814(b)][/us/usc/t50/s3814/b]\], is further amended by striking out the word ‘Alaska,’.
 
 > “Sec. 37. __\[Real property transactions.\]__ 
 
- [Section 43(c) of the Act of August 10, 1956][/us/act/1956-08-10/s43/c] (50 U.S.C. app., supp. V, sec. 2285(c)), is amended by striking out the word ‘Alaska,’.
+ [Section 43(c) of the Act of August 10, 1956][/us/act/1956-08-10/s43/c] (50 U.S.C. app., supp. V, sec. 2285(c)) \[now [6 U.S.C. 765(c)][/us/usc/t6/s765/c]\], is amended by striking out the word ‘Alaska,’.
 
 > “Sec. 38. __\[Recreation facilities.\]__ 
 
@@ -1148,7 +1148,9 @@ NOW, THEREFORE, by virtue of the authority vested in me by section 45(a) of the 
 [/us/stat/82/1310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1310
 [/us/usc/t48/s485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs485
 [/us/usc/t48/s485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs485
+[/us/usc/t50/s3814/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3814%2Fb
 [/us/act/1956-08-10/s43/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fs43%2Fc
+[/us/usc/t6/s765/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs765%2Fc
 [/us/act/1956-05-04/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-05-04%2Fs2
 [/us/stat/70/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F130
 [/us/stat/71/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F510

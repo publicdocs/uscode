@@ -25,7 +25,7 @@
 
     The joint resolution approved on March 24, 1976, referred to in text, is [Pub. L. 94–241][/us/pl/94/241], Mar. 24, 1976, [90 Stat. 263][/us/stat/90/263], which is classified generally to subchapter I (§ 1801 et seq.) of chapter 17 of this title. For complete classification of this Act to the Code, see Tables.
 
-    The Micronesian Claims Act of 1971, referred to in text, is [Pub. L. 92–39][/us/pl/92/39], July 1, 1971, [85 Stat. 92][/us/stat/85/92], which was classified generally to section 2018 et seq. of Title 50, Appendix, War and National Defense, and which was omitted from the Code as terminated Aug. 3, 1976.
+    The Micronesian Claims Act of 1971, referred to in text, is [Pub. L. 92–39][/us/pl/92/39], July 1, 1971, [85 Stat. 92][/us/stat/85/92], which was classified generally to section 2018 et seq. of the former Appendix to Title 50, War and National Defense, and which was omitted from the Code as terminated Aug. 3, 1976.
 
  __Codification__ 
 

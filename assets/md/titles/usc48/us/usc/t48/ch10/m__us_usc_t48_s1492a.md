@@ -27,7 +27,7 @@
 
             The term “energy action plan” means the plan required by subsection (d).
 
-        (3) __Freely associated states__ 
+        (3) __Freely Associated States__ 
 
             The term “Freely Associated States” means the Federated States of Micronesia, the Republic of the Marshall Islands, and the Republic of Palau.
 
@@ -51,11 +51,11 @@
 
         (2) to assist each of the insular areas and Freely Associated States in implementing such plan.
 
-    (c) __Participation of Regional Utility Organizations__ 
+    (c) __Participation of regional utility organizations__ 
 
         In establishing the team, the Secretary shall consider including regional utility organizations.
 
-    (d) __Energy Action Plan__ 
+    (d) __Energy action plan__ 
 
     In accordance with subsection (b), the energy action plan shall include—
 
@@ -79,11 +79,11 @@
 
         Not later than 1 year after the date on which the Secretary establishes the team and annually thereafter, the team shall submit to the Secretary a report detailing progress made in fulfilling its charge and in implementing the energy action plan.
 
-    (f) __Annual Reports to Congress__ 
+    (f) __Annual reports to Congress__ 
 
         Not later than 30 days after the date on which the Secretary receives a report submitted by the team under subsection (e), the Secretary shall submit to the appropriate committees of Congress a summary of the report of the team.
 
-    (g) __Approval of Secretary Required__ 
+    (g) __Approval of Secretary required__ 
 
         The energy action plan shall not be implemented until the Secretary approves the energy action plan.
 
