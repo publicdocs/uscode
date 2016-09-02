@@ -15,23 +15,23 @@
 
 ## § 101. Definitions and declaration of policy
 
-    (a) __Definitions.—__ 
+    (a)  __Definitions__  __.—__ 
 
     In this title, the following definitions apply:
 
-        (1) __Apportionment.—__ 
+        (1)  __Apportionment__  __.—__ 
 
         The term “apportionment” includes unexpended apportionments made under prior authorization laws.
 
-        (2) __Asset management.—__ 
+        (2)  __Asset management__  __.—__ 
 
         The term “asset management” means a strategic and systematic process of operating, maintaining, and improving physical assets, with a focus on both engineering and economic analysis based upon quality information, to identify a structured sequence of maintenance, preservation, repair, rehabilitation, and replacement actions that will achieve and sustain a desired state of good repair over the lifecycle of the assets at minimum practicable cost.
 
-        (3) __Carpool project.—__ 
+        (3)  __Carpool project__  __.—__ 
 
         The term “carpool project” means any project to encourage the use of carpools and vanpools, including provision of carpooling opportunities to the elderly and individuals with disabilities, systems for locating potential riders and informing them of carpool opportunities, acquiring vehicles for carpool use, designating existing highway lanes as preferential carpool highway lanes, providing related traffic control devices, designating existing facilities for use for preferential parking for carpools, and real-time ridesharing projects, such as projects where drivers, using an electronic transfer of funds, recover costs directly associated with the trip provided through the use of location technology to quantify those direct costs, subject to the condition that the cost recovered does not exceed the cost of the trip provided.
 
-        (4) __Construction.—__ 
+        (4)  __Construction__  __.—__ 
 
         The term “construction” means the supervising, inspecting, actual building, and incurrence of all costs incidental to the construction or reconstruction of a highway or any project eligible for assistance under this title, including bond costs and other costs relating to the issuance in accordance with section 122 of bonds or other debt financing instruments and costs incurred by the State in performing Federal-aid project related audits that directly benefit the Federal-aid highway program. Such term includes—
 
@@ -51,31 +51,31 @@
 
             (H) capital improvements that directly facilitate an effective vehicle weight enforcement program, such as scales (fixed and portable), scale pits, scale installation, and scale houses.
 
-        (5) __County.—__ 
+        (5)  __County__  __.—__ 
 
         The term “county” includes corresponding units of government under any other name in States that do not have county organizations and, in those States in which the county government does not have jurisdiction over highways, any local government unit vested with jurisdiction over local highways.
 
-        (6) __Federal-aid highway.—__ 
+        (6)  __Federal-aid highway__  __.—__ 
 
         The term “Federal-aid highway” means a public highway eligible for assistance under this chapter other than a highway functionally classified as a local road or rural minor collector.
 
-        (7) __Federal lands access transportation facility.—__ 
+        (7)  __Federal lands access transportation facility__  __.—__ 
 
         The term “Federal Lands access transportation facility” means a public highway, road, bridge, trail, or transit system that is located on, is adjacent to, or provides access to Federal lands for which title or maintenance responsibility is vested in a State, county, town, township, tribal, municipal, or local government.
 
-        (8) __Federal lands transportation facility.—__ 
+        (8)  __Federal lands transportation facility__  __.—__ 
 
         The term “Federal lands transportation facility” means a public highway, road, bridge, trail, or transit system that is located on, is adjacent to, or provides access to Federal lands for which title and maintenance responsibility is vested in the Federal Government, and that appears on the national Federal lands transportation facility inventory described in section 203(c).
 
-        (9) __Forest development roads and trails.—__ 
+        (9)  __Forest development roads and trails__  __.—__ 
 
         The term “forest development roads and trails” means forest roads and trails under the jurisdiction of the Forest Service.
 
-        (10) __Forest road or trail.—__ 
+        (10)  __Forest road or trail__  __.—__ 
 
         The term “forest road or trail” means a road or trail wholly or partly within, or adjacent to, and serving the National Forest System that is necessary for the protection, administration, and utilization of the National Forest System and the use and development of its resources.
 
-        (11) __Highway.—__ 
+        (11)  __Highway__  __.—__ 
 
         The term “highway” includes—
 
@@ -85,27 +85,27 @@
 
             (C) a portion of any interstate or international bridge or tunnel and the approaches thereto, the cost of which is assumed by a State transportation department, including such facilities as may be required by the United States Customs and Immigration Services in connection with the operation of an international bridge or tunnel.
 
-        (12) __Interstate System.—__ 
+        (12)  __Interstate System__  __.—__ 
 
         The term “Interstate System” means the Dwight D. Eisenhower National System of Interstate and Defense Highways described in section 103(c).
 
-        (13) __Maintenance.—__ 
+        (13)  __Maintenance__  __.—__ 
 
         The term “maintenance” means the preservation of the entire highway, including surface, shoulders, roadsides, structures, and such traffic-control devices as are necessary for safe and efficient utilization of the highway.
 
-        (14) __Maintenance area.—__ 
+        (14)  __Maintenance area__  __.—__ 
 
         The term “maintenance area” means an area that was designated as an air quality nonattainment area, but was later redesignated by the Administrator of the Environmental Protection Agency as an air quality attainment area, under section 107(d) of the Clean Air Act ([42 U.S.C. 7407(d)][/us/usc/t42/s7407/d]).
 
-        (15) __National Highway System.—__ 
+        (15)  __National Highway System__  __.—__ 
 
         The term “National Highway System” means the Federal-aid highway system described in section 103(b).
 
-        (16) __Operating costs for traffic monitoring, management, and control.—__ 
+        (16)  __Operating costs for traffic monitoring, management, and control__  __.—__ 
 
         The term “operating costs for traffic monitoring, management, and control” includes labor costs, administrative costs, costs of utilities and rent, and other costs associated with the continuous operation of traffic control, such as integrated traffic control systems, incident management programs, and traffic control centers.
 
-        (17) __Operational improvement.—__ 
+        (17)  __Operational improvement__  __.—__ 
 
         The term “operational improvement”—
 
@@ -113,51 +113,51 @@
 
             (B) does not include resurfacing, restoring, or rehabilitating improvements, construction of additional lanes, interchanges, and grade separations, and construction of a new facility on a new location.
 
-        (18) __Project.—__ 
+        (18)  __Project__  __.—__ 
 
         The term “project” means any undertaking eligible for assistance under this title.
 
-        (19) __Project agreement.—__ 
+        (19)  __Project agreement__  __.—__ 
 
         The term “project agreement” means the formal instrument to be executed by the Secretary and the recipient as required by section 106.
 
-        (20) __Public authority.—__ 
+        (20)  __Public authority__  __.—__ 
 
         The term “public authority” means a Federal, State, county, town, or township, Indian tribe, municipal or other local government or instrumentality with authority to finance, build, operate, or maintain toll or toll-free facilities.
 
-        (21) __Public road.—__ 
+        (21)  __Public road__  __.—__ 
 
         The term “public road” means any road or street under the jurisdiction of and maintained by a public authority and open to public travel.
 
-        (22) __Rural areas.—__ 
+        (22)  __Rural areas__  __.—__ 
 
         The term “rural areas” means all areas of a State not included in urban areas.
 
-        (23) __Safety improvement project.—__ 
+        (23)  __Safety improvement project__  __.—__ 
 
         The term “safety improvement project” means a strategy, activity, or project on a public road that is consistent with the State strategic highway safety plan and corrects or improves a roadway feature that constitutes a hazard to road users or addresses a highway safety problem.
 
-        (24) __Secretary.—__ 
+        (24)  __Secretary__  __.—__ 
 
         The term “Secretary” means Secretary of Transportation.
 
-        (25) __State.—__ 
+        (25)  __State__  __.—__ 
 
         The term “State” means any of the 50 States, the District of Columbia, or Puerto Rico.
 
-        (26) __State funds.—__ 
+        (26)  __State funds__  __.—__ 
 
         The term “State funds” includes funds raised under the authority of the State or any political or other subdivision thereof, and made available for expenditure under the direct control of the State transportation department.
 
-        (27) __State strategic highway safety plan.—__ 
+        (27)  __State strategic highway safety plan__  __.—__ 
 
         The term “State strategic highway safety plan” has the same meaning given such term in section 148(a).
 
-        (28) __State transportation department.—__ 
+        (28)  __State transportation department__  __.—__ 
 
         The term “State transportation department” means that department, commission, board, or official of any State charged by its laws with the responsibility for highway construction.
 
-        (29) __Transportation alternatives.—__ 
+        (29)  __Transportation alternatives__  __.—__ 
 
         The term “transportation alternatives” means any of the following activities when carried out as part of any program or project authorized or funded under this title, or as an independent program or project related to surface transportation:
 
@@ -189,13 +189,13 @@
 
                 (ii) reduce vehicle-caused wildlife mortality or to restore and maintain connectivity among terrestrial or aquatic habitats.
 
-        (30) __Transportation systems management and operations.—__ 
+        (30)  __Transportation systems management and operations__  __.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             The term “transportation systems management and operations” means integrated strategies to optimize the performance of existing infrastructure through the implementation of multimodal and intermodal, cross-jurisdictional systems, services, and projects designed to preserve capacity and improve security, safety, and reliability of the transportation system.
 
-            (B) __Inclusions.—__ 
+            (B)  __Inclusions__  __.—__ 
 
             The term “transportation systems management and operations” includes—
 
@@ -203,33 +203,33 @@
 
                 (ii) coordination of the implementation of regional transportation system management and operations investments (such as traffic incident management, traveler information services, emergency management, roadway weather management, intelligent transportation systems, communication networks, and information sharing systems) requiring agreements, integration, and interoperability to achieve targeted system performance, reliability, safety, and customer service levels.
 
-        (31) __Tribal transportation facility.—__ 
+        (31)  __Tribal transportation facility__  __.—__ 
 
         The term “tribal transportation facility” means a public highway, road, bridge, trail, or transit system that is located on or provides access to tribal land and appears on the national tribal transportation facility inventory described in section 202(b)(1).
 
-        (32) __Truck stop electrification system.—__ 
+        (32)  __Truck stop electrification system__  __.—__ 
 
         The term “truck stop electrification system” means a system that delivers heat, air conditioning, electricity, or communications to a heavy-duty vehicle.
 
-        (33) __Urban area.—__ 
+        (33)  __Urban area__  __.—__ 
 
         The term “urban area” means an urbanized area or, in the case of an urbanized area encompassing more than one State, that part of the urbanized area in each such State, or urban place as designated by the Bureau of the Census having a population of 5,000 or more and not within any urbanized area, within boundaries to be fixed by responsible State and local officials in cooperation with each other, subject to approval by the Secretary. Such boundaries shall encompass, at a minimum, the entire urban place designated by the Bureau of the Census, except in the case of cities in the State of Maine and in the State of New Hampshire.
 
-        (34) __Urbanized area.—__ 
+        (34)  __Urbanized area__  __.—__ 
 
         The term “urbanized area” means an area with a population of 50,000 or more designated by the Bureau of the Census, within boundaries to be fixed by responsible State and local officials in cooperation with each other, subject to approval by the Secretary. Such boundaries shall encompass, at a minimum, the entire urbanized area within a State as designated by the Bureau of the Census.
 
     (b) __Declaration of Policy.—__ 
 
-        (1) __Acceleration of construction of federal-aid highway systems.—__ 
+        (1)  __Acceleration of construction of federal-aid highway systems__  __.—__ 
 
         Congress declares that it is in the national interest to accelerate the construction of Federal-aid highway systems, including the Dwight D. Eisenhower National System of Interstate and Defense, <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “Defense Highways,”. </sup></sup>  because many of the highways (or portions of the highways) are inadequate to meet the needs of local and interstate commerce for the national and civil defense.
 
-        (2) __Completion of interstate system.—__ 
+        (2)  __Completion of interstate system__  __.—__ 
 
         Congress declares that the prompt and early completion of the Dwight D. Eisenhower National System of Interstate and Defense Highways (referred to in this section as the “Interstate System”), so named because of its primary importance to the national defense, is essential to the national interest. It is the intent of Congress that the Interstate System be completed as nearly as practicable over the period of availability of the forty years’ appropriations authorized for the purpose of expediting its construction, reconstruction, or improvement, inclusive of necessary tunnels and bridges, through the fiscal year ending September 30, 1996, under section 108(b) of the Federal-Aid Highway Act of 1956 ([70 Stat. 374][/us/stat/70/374]), and that the entire system in all States be brought to simultaneous completion. Insofar as possible in consonance with this objective, existing highways located on an interstate route shall be used to the extent that such use is practicable, suitable, and feasible, it being the intent that local needs, to the extent practicable, suitable, and feasible, shall be given equal consideration with the needs of interstate commerce.
 
-        (3) __Transportation needs of 21st century.—__ 
+        (3)  __Transportation needs of 21st century__  __.—__ 
 
         Congress declares that—
 
@@ -257,13 +257,13 @@
 
             (H) the Secretary should take appropriate actions to preserve and enhance the Interstate System to meet the needs of the 21st Century.
 
-        (4) __Expedited project delivery.—__ 
+        (4)  __Expedited project delivery__  __.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             Congress declares that it is in the national interest to expedite the delivery of surface transportation projects by substantially reducing the average length of the environmental review process.
 
-            (B) __Policy of the united states.—__ 
+            (B)  __Policy of the united states__  __.—__ 
 
             Accordingly, it is the policy of the United States that—
 
@@ -509,13 +509,13 @@
 
 [Pub. L. 110–244, title I, § 121(a)][/us/pl/110/244/s121/a], (b), June 6, 2008, [122 Stat. 1608][/us/stat/122/1608], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Except as otherwise provided in this Act (including subsection (b)), this Act \[see Tables for classification\] and the amendments made by this Act take effect on the date of enactment of this Act \[June 6, 2008\].
 
 >     “(b) __Exception.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The amendments made by this Act (other than the amendments made by sections 101(g), 101(m)(1)(H) \[amending [section 144 of this title][/us/usc/t23/s144], not [Pub. L. 109–59][/us/pl/109/59]\], 103, 105, 109, and 201(o)) to the Safe, Accountable, Flexible, Efficient Transportation Equity Act: A Legacy for Users ([Public Law 109–59][/us/pl/109/59]; [119 Stat. 1144][/us/stat/119/1144]) shall—
 
@@ -523,7 +523,7 @@
 
 >             “(B) be treated as being included in that Act as of that date.
 
->         “(2) __Effect of amendments.—__ 
+>         “(2)  __Effect of amendments__  __.—__ 
 
 >         Each provision of the Safe, Accountable, Flexible, Efficient Transportation Equity Act: A Legacy for Users ([Public Law 109–59][/us/pl/109/59]; [119 Stat. 1144][/us/stat/119/1144]) (including the amendments made by that Act) (as in effect on the day before the date of enactment of this Act \[June 6, 2008\]) that is amended by this Act (other than sections 101(g), 101(m)(1)(H), 103, 105, 109, and 201(o)) shall be treated as not being enacted.”
 
@@ -841,7 +841,7 @@
 
 [Pub. L. 112–141, div. A, title I, § 1301(a)][/us/pl/112/141/s1301/a], (b), July 6, 2012, [126 Stat. 527][/us/stat/126/527], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     It is the policy of the United States that—
 
@@ -857,13 +857,13 @@
 
 >         “(3) the Secretary \[of Transportation\] shall identify and promote the deployment of innovation aimed at reducing the time and money required to deliver transportation projects while enhancing safety and protecting the environment.
 
->     “(b) __Project Delivery Initiative.—__ 
+>     “(b)  __Project Delivery Initiative__  __.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         To advance the policy described in subsection (a), the Secretary \[of Transportation\] shall carry out a project delivery initiative under this section \[amending this section and enacting this note\].
 
->         “(2) __Purposes.—__ 
+>         “(2)  __Purposes__  __.—__ 
 
 >         The purposes of the project delivery initiative shall be—
 
@@ -873,13 +873,13 @@
 
 >             “(C) to select eligible projects for applying experimental features to test innovative project delivery techniques.
 
->         “(3) __Advancing the use of best practices.—__ 
+>         “(3)  __Advancing the use of best practices__  __.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             In carrying out the initiative under this section, the Secretary shall identify and advance best practices to reduce delivery time and project costs, from planning through construction, for transportation projects and programs of projects regardless of mode and project size.
 
->             “(B) __Administration.—__ 
+>             “(B)  __Administration__  __.—__ 
 
 >             To advance the use of best practices, the Secretary shall—
 
@@ -891,7 +891,7 @@
 
 >                 “(iv) provide technical assistance to assist transportation stakeholders in the use of flexibility authority to resolve project delays and accelerate project delivery if feasible.
 
->         “(4) __Implementation of accelerated project delivery.—__ 
+>         “(4)  __Implementation of accelerated project delivery__  __.—__ 
 
 >         The Secretary shall ensure that the provisions of this subtitle \[subtitle C (§§ 1301–1323) of title I of div. A of [Pub. L. 112–141][/us/pl/112/141], see Tables for classification\] designed to accelerate project delivery are fully implemented, including—
 
@@ -905,11 +905,11 @@
 
 [Pub. L. 112–141, div. A, title I, § 1304(a)][/us/pl/112/141/s1304/a], July 6, 2012, [126 Stat. 532][/us/stat/126/532], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Congress declares that it is in the national interest to promote the use of innovative technologies and practices that increase the efficiency of construction of, improve the safety of, and extend the service life of highways and bridges.
 
->     “(2) __Inclusions.—__ 
+>     “(2)  __Inclusions__  __.—__ 
 
 >     The innovative technologies and practices described in paragraph (1) include state-of-the-art intelligent transportation system technologies, elevated performance standards, and new highway construction business practices that improve highway safety and quality, accelerate project delivery, and reduce congestion related to highway construction.”
 
@@ -917,15 +917,15 @@
 
 [Pub. L. 112–141, div. A, title I, § 1535][/us/pl/112/141/s1535], July 6, 2012, [126 Stat. 584][/us/stat/126/584], provided that:
 
->     “(a) __Initial Report.—__ 
+>     “(a)  __Initial Report__  __.—__ 
 
 >     Not later than 150 days after the date of enactment of this Act \[see section 3(a), (b) of [Pub. L. 112–141][/us/pl/112/141], set out as Effective and Termination Dates of 2012 Amendment notes above\], the Comptroller General of the United States shall submit to Congress a report describing the activities funded from the Highway Trust Fund during each of fiscal years 2009 through 2011, including for purposes other than construction and maintenance of highways and bridges.
 
->     “(b) __Updates.—__ 
+>     “(b)  __Updates__  __.—__ 
 
 >     Not later than 5 years after the date on which the report is submitted under subsection (a) and every 5 years thereafter, the Comptroller General of the United States shall submit to Congress a report that updates the information provided in the report under that subsection for the applicable 5-year period.
 
->     “(c) __Inclusions.—__ 
+>     “(c)  __Inclusions__  __.—__ 
 
 >     A report submitted under subsection (a) or (b) shall include information similar to the information included in the report of the Government Accountability Office numbered ‘GAO–09–729R’ and entitled ‘Highway Trust Fund Expenditures on Purposes Other Than Construction and Maintenance of Highways and Bridges During Fiscal Years 2004–2008’.”
 
@@ -933,7 +933,7 @@
 
 [Pub. L. 109–59, title I, § 1301][/us/pl/109/59/s1301], Aug. 10, 2005, [119 Stat. 1198][/us/stat/119/1198], as amended by [Pub. L. 110–244, title I, § 103(a)][/us/pl/110/244/s103/a], June 6, 2008, [122 Stat. 1578][/us/stat/122/1578]; [Pub. L. 112–141, div. A, title I, § 1120][/us/pl/112/141/s1120], July 6, 2012, [126 Stat. 492][/us/stat/126/492], provided that:
 
->     “(a) __Findings.—__ 
+>     “(a)  __Findings__  __.—__ 
 
 >     Congress finds the following:
 
@@ -949,15 +949,15 @@
 
 >         “(6) A program dedicated to constructing projects of national and regional significance is necessary to improve the safe, secure, and efficient movement of people and goods throughout the United States and improve the health and welfare of the national economy.
 
->     “(b) __Establishment of Program.—__ 
+>     “(b)  __Establishment of Program__  __.—__ 
 
 >     The Secretary \[of Transportation\] shall establish a program to provide grants to eligible applicants for projects of national and regional significance.
 
->     “(c) __Definitions.—__ 
+>     “(c)  __Definitions__  __.—__ 
 
 >     In this section, the following definitions apply:
 
->         “(1) __Eligible project costs.—__ 
+>         “(1)  __Eligible project costs__  __.—__ 
 
 >         The term ‘eligible project costs’ means the costs of—
 
@@ -965,11 +965,11 @@
 
 >             “(B) construction, reconstruction, rehabilitation, and acquisition of real property (including land related to the project and improvements to land), environmental mitigation, construction contingencies, acquisition of equipment, and operational improvements.
 
->         “(2) __Eligible project.—__ 
+>         “(2)  __Eligible project__  __.—__ 
 
 >         The term ‘eligible project’ means any surface transportation project eligible for Federal assistance under title 23, United States Code, including freight railroad projects and activities eligible under such title.
 
->         “(3) __Eligible applicant.—__ 
+>         “(3)  __Eligible applicant__  __.—__ 
 
 >         The term ‘eligible applicant’ means—
 
@@ -981,7 +981,7 @@
 
 >             “(D) a multi-State or multi-jurisdictional group of the agencies described in subparagraphs (A) through (C).
 
->     “(d) __Eligibility.—__ 
+>     “(d)  __Eligibility__  __.—__ 
 
 >     To be eligible for assistance under this section, a project shall have eligible project costs that are reasonably anticipated to equal or exceed the lesser of—
 
@@ -989,13 +989,13 @@
 
 >         “(2) 50 percent of the amount of Federal highway assistance funds apportioned for the most recently completed fiscal year to the State in which the project is located.
 
->     “(e) __Applications.—__ 
+>     “(e)  __Applications__  __.—__ 
 
 >     Each eligible applicant seeking to receive a grant under this section for an eligible project shall submit to the Secretary \[of Transportation\] an application in such form and in accordance with such requirements as the Secretary shall establish.
 
 >     “(f) __Competitive Grant Selection and Criteria for Grants.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Secretary \[of Transportation\] shall—
 
@@ -1005,7 +1005,7 @@
 
 >             “(C) award grants on a competitive basis.
 
->         “(2) __Criteria for grants.—__ 
+>         “(2)  __Criteria for grants__  __.—__ 
 
 >         The Secretary may approve a grant under this section for a project only if the Secretary determines that the project—
 
@@ -1027,7 +1027,7 @@
 
 >             “(C) is supported by an acceptable degree of non-Federal financial commitments, including evidence of stable and dependable financing sources to construct, maintain, and operate the infrastructure facility.
 
->         “(3) __Selection considerations.—__ 
+>         “(3)  __Selection considerations__  __.—__ 
 
 >         In selecting a project under this section, the Secretary shall consider the extent to which the project—
 
@@ -1037,13 +1037,13 @@
 
 >             “(C) helps maintain or protect the environment.
 
->         “(4) __Preliminary engineering.—__ 
+>         “(4)  __Preliminary engineering__  __.—__ 
 
 >         In evaluating a project under paragraph (2)(A), the Secretary shall analyze and consider the results of preliminary engineering for the project.
 
 >         “(5) __Non-federal financial commitment.—__ 
 
->             “(A) __Evaluation of project.—__ 
+>             “(A)  __Evaluation of project__  __.—__ 
 
 >             In evaluating a project under paragraph (2)(C), the Secretary shall require that—
 
@@ -1051,7 +1051,7 @@
 
 >                 “(ii) each proposed non-Federal source of capital and operating financing is stable, reliable, and available within the proposed project timetable.
 
->             “(B) __Considerations.—__ 
+>             “(B)  __Considerations__  __.—__ 
 
 >             In assessing the stability, reliability, and availability of proposed sources of non-Federal financing under subparagraph (A), the Secretary shall consider—
 
@@ -1063,17 +1063,17 @@
 
 >                 “(iv) the extent to which the project has a non-Federal financial commitment that exceeds the required non-Federal share of the cost of the project.
 
->         “(6) __Regulations.—__ 
+>         “(6)  __Regulations__  __.—__ 
 
 >         Not later than 180 days after the date of enactment of this Act \[Aug. 10, 2005\], the Secretary shall issue regulations on the manner in which the Secretary will evaluate and rate the projects based on the results of preliminary engineering, project justification, and the degree of non-Federal financial commitment, as required under this subsection.
 
 >         “(7) __Project evaluation and rating.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             A proposed project may advance from preliminary engineering to final design and construction only if the Secretary finds that the project meets the requirements of this subsection and there is a reasonable likelihood that the project will continue to meet such requirements.
 
->             “(B) __Evaluation and rating.—__ 
+>             “(B)  __Evaluation and rating__  __.—__ 
 
 >             In making such findings, the Secretary shall evaluate and rate the project as ‘highly recommended’, ‘recommended’, or ‘not recommended’ based on the results of preliminary engineering, the project justification criteria, and the degree of non-Federal financial commitment, as required under this subsection. In rating the projects, the Secretary shall provide, in addition to the overall project rating, individual ratings for each of the criteria established under the regulations issued under paragraph (6).
 
@@ -1081,33 +1081,33 @@
 
 >         “(1) __Letter of intent.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             The Secretary \[of Transportation\] may issue a letter of intent to an applicant announcing an intention to obligate, for a project under this section, an amount from future available budget authority specified in law that is not more than the amount stipulated as the financial participation of the Secretary in the project.
 
->             “(B) __Notification.—__ 
+>             “(B)  __Notification__  __.—__ 
 
 >             At least 60 days before issuing a letter under subparagraph (A) or entering into a full funding grant agreement, the Secretary shall notify in writing the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate of the proposed letter or agreement. The Secretary shall include with the notification a copy of the proposed letter or agreement as well as the evaluations and ratings for the project.
 
->             “(C) __Not an obligation.—__ 
+>             “(C)  __Not an obligation__  __.—__ 
 
 >             The issuance of a letter is deemed not to be an obligation under sections 1108(c), 1108(d), 1501, and 1502(a) of title 31, United States Code, or an administrative commitment.
 
->             “(D) __Obligation or commitment.—__ 
+>             “(D)  __Obligation or commitment__  __.—__ 
 
 >             An obligation or administrative commitment may be made only when contract authority is allocated to a project.
 
->             “(E) __Congressional approval.—__ 
+>             “(E)  __Congressional approval__  __.—__ 
 
 >             The Secretary may not issue a letter of intent, enter into a full funding grant agreement under paragraph (2), or make any other obligation or commitment to fund a project under this section if a joint resolution of disapproval is enacted disapproving funding for the project before the last day of the 60-day period described in subparagraph (B).
 
 >         “(2) __Full funding grant agreement.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             A project financed under this subsection shall be carried out through a full funding grant agreement. The Secretary shall enter into a full funding grant agreement based on the evaluations and ratings required under subsection (f)(7).
 
->             “(B) __Terms.—__ 
+>             “(B)  __Terms__  __.—__ 
 
 >             If the Secretary makes a full funding grant agreement with an applicant, the agreement shall—
 
@@ -1119,63 +1119,63 @@
 
 >                 “(iv) make timely and efficient management of the project easier according to the laws of the United States.
 
->             “(C) __Agreement.—__ 
+>             “(C)  __Agreement__  __.—__ 
 
 >             An agreement under this paragraph obligates an amount of available budget authority specified in law and may include a commitment, contingent on amounts to be specified in law in advance for commitments under this paragraph, to obligate an additional amount from future available budget authority specified in law. The agreement shall state that the contingent commitment is not an obligation of the Government. Interest and other financing costs of efficiently carrying out a part of the project within a reasonable time are a cost of carrying out the project under a full funding grant agreement, except that eligible costs may not be more than the cost of the most favorable financing terms reasonably available for the project at the time of borrowing. The applicant shall certify, in a way satisfactory to the Secretary, that the applicant has shown reasonable diligence in seeking the most favorable financing terms.
 
->         “(3) __Amounts.—__ 
+>         “(3)  __Amounts__  __.—__ 
 
 >         The total estimated amount of future obligations of the Government and contingent commitments to incur obligations covered by all outstanding letters of intent and full funding grant agreements may be not more than the greater of the amount authorized to carry out this section or an amount equivalent to the last 2 fiscal years of funding authorized to carry out this section less an amount the Secretary reasonably estimates is necessary for grants under this section not covered by a letter. The total amount covered by new letters and contingent commitments included in full funding grant agreements may be not more than a limitation specified in law.
 
 >     “(h) __Grant Requirements.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         A grant for a project under this section shall be subject to all of the requirements of title 23, United States Code.
 
->         “(2) __Other terms and conditions.—__ 
+>         “(2)  __Other terms and conditions__  __.—__ 
 
 >         The Secretary \[of Transportation\] shall require that all grants under this section be subject to all terms, conditions, and requirements that the Secretary decides are necessary or appropriate for purposes of this section, including requirements for the disposition of net increases in value of real property resulting from the project assisted under this section.
 
->     “(i) __Government’s Share of Project Cost.—__ 
+>     “(i)  __Government’s Share of Project Cost__  __.—__ 
 
 >     Based on engineering studies, studies of economic feasibility, and information on the expected use of equipment or facilities, the Secretary \[of Transportation\] shall estimate the cost of a project receiving assistance under this section. A grant for the project is for 80 percent of the project cost, unless the grant recipient requests a lower grant percentage. A refund or reduction of the remainder may be made only if a refund of a proportional amount of the grant of the Government is made at the same time.
 
->     “(j) __Fiscal Capacity Considerations.—__ 
+>     “(j)  __Fiscal Capacity Considerations__  __.—__ 
 
 >     If the Secretary \[of Transportation\] gives priority consideration to financing projects that include more than the non-Government share required under subsection (i) the Secretary shall give equal consideration to differences in the fiscal capacity of State and local governments.
 
 >     “(k) __Reports.—__ 
 
->         “(1) __Annual report.—__ 
+>         “(1)  __Annual report__  __.—__ 
 
 >         Not later than the first Monday in February of each year, the Secretary \[of Transportation\] shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate a report that includes a proposal on the allocation of amounts to be made available to finance grants under this section.
 
->         “(2) __Recommendations on funding.—__ 
+>         “(2)  __Recommendations on funding__  __.—__ 
 
 >         The annual report under this paragraph \[subsection\] shall include evaluations and ratings, as required under subsection (f). The report shall also include recommendations of projects for funding based on the evaluations and ratings and on existing commitments and anticipated funding levels for the next 3 fiscal years and for the next 10 fiscal years based on information currently available to the Secretary.
 
->         “(3) __Project selection justifications.—__ 
+>         “(3)  __Project selection justifications__  __.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             Not later than 30 days after the date on which the Secretary selects a project for funding under this section, the Secretary shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate a report that describes the reasons for selecting the project, based on the criteria described in subsection (f).
 
->             “(B) __Inclusions.—__ 
+>             “(B)  __Inclusions__  __.—__ 
 
 >             The report submitted under subparagraph (A) shall specify each criteria described in subsection (f) that the project meets.
 
->             “(C) __Availability.—__ 
+>             “(C)  __Availability__  __.—__ 
 
 >             The Secretary shall make available on the website of the Department the report submitted under subparagraph (A).
 
->     “(l) __Report.—__ 
+>     “(l)  __Report__  __.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Not later than 2 years after the date of enactment of the MAP–21 \[deemed to be Oct. 1, 2012\], the Secretary \[of Transportation\] shall submit a report to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate regarding projects of national and regional significance.
 
->         “(2) __Purpose.—__ 
+>         “(2)  __Purpose__  __.—__ 
 
 >         The purpose of the report issued under this subsection shall be to identify projects of national and regional significance that—
 
@@ -1193,7 +1193,7 @@
 
 >             “(C) can be supported by an acceptable degree of non-Federal financial commitments.
 
->         “(3) __Contents.—__ 
+>         “(3)  __Contents__  __.—__ 
 
 >         The report issued under this subsection shall include—
 
@@ -1209,7 +1209,7 @@
 
 >             “(C) recommendations on financing for eligible project costs.
 
->     “(m) __Authorization of Appropriations.—__ 
+>     “(m)  __Authorization of Appropriations__  __.—__ 
 
 >     There is authorized to be appropriated to carry out this section $500,000,000 for fiscal year 2013, to remain available until expended.”
 
@@ -1221,7 +1221,7 @@
 
 [Pub. L. 109–59, title I, § 1308][/us/pl/109/59/s1308], Aug. 10, 2005, [119 Stat. 1218][/us/stat/119/1218], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary \[of Transportation\] shall carry out a program in the 8 States comprising the Delta Region (Alabama, Arkansas, Illinois, Kentucky, Louisiana, Mississippi, Missouri, and Tennessee) to—
 
@@ -1233,19 +1233,19 @@
 
 >         “(4) support transportation construction.
 
->     “(b) __Eligible Recipients.—__ 
+>     “(b)  __Eligible Recipients__  __.—__ 
 
 >     A State transportation department or metropolitan planning organization in a Delta Region State may receive and administer funds provided under the program.
 
->     “(c) __Eligible Activities.—__ 
+>     “(c)  __Eligible Activities__  __.—__ 
 
 >     The Secretary \[of Transportation\] shall make allocations under the program for multistate highway planning, development, and construction projects.
 
->     “(d) __Other Provisions Regarding Eligibility.—__ 
+>     “(d)  __Other Provisions Regarding Eligibility__  __.—__ 
 
 >     All activities funded under this program shall be consistent with the continuing, cooperative, and comprehensive planning processes required by sections 134 and 135 of title 23, United States Code.
 
->     “(e) __Selection Criteria.—__ 
+>     “(e)  __Selection Criteria__  __.—__ 
 
 >     The Secretary \[of Transportation\] shall select projects to be carried out under the program based on—
 
@@ -1261,7 +1261,7 @@
 
 >         “(3) evidence of the ability of the recipient of funds provided under the program to complete the project.
 
->     “(f) __Program Priorities.—__ 
+>     “(f)  __Program Priorities__  __.—__ 
 
 >     In administering the program, the Secretary \[of Transportation\] shall—
 
@@ -1277,17 +1277,17 @@
 
 >             “(C) contribute to the economic vitality of the area in which the project is being carried out.
 
->     “(g) __Federal Share.—__ 
+>     “(g)  __Federal Share__  __.—__ 
 
 >     Amounts provided by the Delta Regional Authority to carry out a project under this subsection \[probably means this section\] may be applied to the non-Federal share of the project required by [section 120 of title 23][/us/usc/t23/s120], United States Code.
 
 >     “(h) __Funding.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         There is authorized to be appropriated from the Highway Trust Fund (other than the Mass Transit Account) to carry out this section $10,000,000 for each of fiscal years 2006 through 2009.
 
->         “(2) __Contract authority.—__ 
+>         “(2)  __Contract authority__  __.—__ 
 
 >         Funds made available to carry out this section shall be available for obligation in the same manner as if such funds were apportioned under chapter 1 of title 23, United States Code; except that such funds shall not be transferable and shall remain available until expended.”
 
@@ -1295,7 +1295,7 @@
 
 [Pub. L. 109–59, title I, § 1914][/us/pl/109/59/s1914], Aug. 10, 2005, [119 Stat. 1478][/us/stat/119/1478], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary \[of Transportation\], acting through the Administrator of the Federal Highway Administration, in consultation with the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate, shall appoint a Motorcyclist Advisory Council to coordinate with and advise the Administrator on infrastructure issues of concern to motorcyclists, including—
 
@@ -1305,7 +1305,7 @@
 
 >         “(3) the architecture and implementation of intelligent transportation system technologies.
 
->     “(b) __Composition.—__ 
+>     “(b)  __Composition__  __.—__ 
 
 >     The Council shall consist of not more than 10 members of the motorcycling community with professional expertise in national motorcyclist safety advocacy, including—
 
@@ -1333,11 +1333,11 @@
 
 [Pub. L. 105–178, title I, § 1118][/us/pl/105/178/s1118], June 9, 1998, [112 Stat. 161][/us/stat/112/161], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary shall establish and implement a program to make allocations to States and metropolitan planning organizations for coordinated planning, design, and construction of corridors of national significance, economic growth, and international or interregional trade. A State or metropolitan planning organization may apply to the Secretary for allocations under this section.
 
->     “(b) __Eligibility of Corridors.—__ 
+>     “(b)  __Eligibility of Corridors__  __.—__ 
 
 >     The Secretary may make allocations under this section with respect to—
 
@@ -1381,7 +1381,7 @@
 
 >             “(G) encourage or facilitate major multistate or regional mobility and economic growth and development in areas underserved by existing highway infrastructure.
 
->     “(c) __Purposes.—__ 
+>     “(c)  __Purposes__  __.—__ 
 
 >     Allocations may be made under this section for 1 or more of the following purposes:
 
@@ -1401,7 +1401,7 @@
 
 >             “(B) construction.
 
->     “(d) __Corridor Development and Management Plan.—__ 
+>     “(d)  __Corridor Development and Management Plan__  __.—__ 
 
 >     A State or metropolitan planning organization receiving an allocation under this section shall develop, and submit to the Secretary for review, a development and management plan for the corridor or a usable component thereof with respect to which the allocation is being made. Such plan shall include, at a minimum, the following elements:
 
@@ -1417,15 +1417,15 @@
 
 >         In the case of a multistate corridor, the Secretary shall encourage all States having jurisdiction over any portion of such corridor to participate in the development of such plan.
 
->     “(e) __Applicability of Title 23.—__ 
+>     “(e)  __Applicability of Title__  __23.—__ 
 
 >     Funds made available by section 1101 of this Act \[set out in part as a note below\] to carry out this section and section 1119 \[set out below\] shall be available for obligation in the same manner as if such funds were apportioned under chapter 1 of title 23, United States Code.
 
->     “(f) __Coordination of Planning.—__ 
+>     “(f)  __Coordination of Planning__  __.—__ 
 
 >     Planning with respect to a corridor under this section shall be coordinated with transportation planning being carried out by the States and metropolitan planning organizations along the corridor and, to the extent appropriate, with transportation planning being carried out by Federal land management agencies, by tribal governments, or by government agencies in Mexico or Canada.
 
->     “(g) __State Defined.—__ 
+>     “(g)  __State Defined__  __.—__ 
 
 >     In this section, the term ‘State’ has the meaning such term has under [section 101 of title 23][/us/usc/t23/s101], United States Code.”
 
@@ -1433,11 +1433,11 @@
 
 [Pub. L. 109–59, title I, § 1303][/us/pl/109/59/s1303], Aug. 10, 2005, [119 Stat. 1207][/us/stat/119/1207], provided that:
 
->     “(a) __General Authority.—__ 
+>     “(a)  __General Authority__  __.—__ 
 
 >     The Secretary \[of Transportation\] shall implement a coordinated border infrastructure program under which the Secretary shall distribute funds to border States to improve the safe movement of motor vehicles at or across the border between the United States and Canada and the border between the United States and Mexico.
 
->     “(b) __Eligible Uses.—__ 
+>     “(b)  __Eligible Uses__  __.—__ 
 
 >     Subject to subsection (d), a State may use funds apportioned under this section only for—
 
@@ -1451,7 +1451,7 @@
 
 >         “(5) international coordination of transportation planning, programming, and border operation with Canada and Mexico relating to expediting cross border motor vehicle and cargo movements.
 
->     “(c) __Apportionment of Funds.—__ 
+>     “(c)  __Apportionment of Funds__  __.—__ 
 
 >     On October 1 of each fiscal year, the Secretary \[of Transportation\] shall apportion among border States sums authorized to be appropriated to carry out this section for such fiscal year as follows:
 
@@ -1487,7 +1487,7 @@
 
 >             “(B) the total number of land border ports of entry within the boundaries of all the border States, as determined by the Secretary.
 
->     “(d) __Projects in Canada or Mexico.—__ 
+>     “(d)  __Projects in Canada or Mexico__  __.—__ 
 
 >     A project in Canada or Mexico, proposed by a border State to directly and predominantly facilitate cross-border motor vehicle and cargo movements at an international port of entry into the border region of the State, may be constructed using funds apportioned to the State under this section if, before obligation of those funds, Canada or Mexico, or the political subdivision of Canada or Mexico that is responsible for the operation of the facility to be constructed, provides assurances satisfactory to the Secretary \[of Transportation\] that any facility constructed under this subsection will be—
 
@@ -1497,7 +1497,7 @@
 
 >     “(e) __Transfer of Funds to the General Services Administration.—__ 
 
->         “(1) __State funds.—__ 
+>         “(1)  __State funds__  __.—__ 
 
 >         At the request of a border State, funds apportioned to the State under this section may be transferred to the General Services Administration for the purpose of funding one or more projects described in subsection (b) if—
 
@@ -1507,11 +1507,11 @@
 
 >         “(2) __Non-federal share.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             A border State that makes a request under paragraph (1) shall provide directly to the General Services Administration, for each project covered by the request, the non-Federal share of the cost of the project.
 
->             “(B) __No augmentation of appropriations.—__ 
+>             “(B)  __No augmentation of appropriations__  __.—__ 
 
 >             Funds provided by a border State under subparagraph (A)—
 
@@ -1525,11 +1525,11 @@
 
 >                          “(II) available for obligation in the same manner as if the funds were apportioned under chapter 1 of title 23, United States Code.
 
->         “(3) __Obligation authority.—__ 
+>         “(3)  __Obligation authority__  __.—__ 
 
 >         Obligation authority shall be transferred to the General Services Administration for a project in the same manner and amount as the funds provided for the project under paragraph (1).
 
->         “(4) __Limitation on transfer of funds.—__ 
+>         “(4)  __Limitation on transfer of funds__  __.—__ 
 
 >         No State may transfer to the General Services Administration under this subsection an amount that is more than the lesser of—
 
@@ -1537,41 +1537,41 @@
 
 >             “(B) $5,000,000.
 
->     “(f) __Applicability of Title 23.—__ 
+>     “(f)  __Applicability of Title__  __23.—__ 
 
 >     Funds made available to carry out this section shall be available for obligation in the same manner as if such funds were apportioned under chapter 1 of title 23, United States Code; except that, subject to subsection (e), such funds shall not be transferable and shall remain available until expended, and the Federal share of the cost of a project under this section shall be determined in accordance with section 120 of such title.
 
->     “(g) __Definitions.—__ 
+>     “(g)  __Definitions__  __.—__ 
 
 >     In this section, the following definitions apply:
 
->         “(1) __Border region.—__ 
+>         “(1)  __Border region__  __.—__ 
 
 >         The term ‘border region’ means any portion of a border State within 100 miles of an international land border with Canada or Mexico.
 
->         “(2) __Border state.—__ 
+>         “(2)  __Border state__  __.—__ 
 
 >         The term ‘border State’ means any State that has an international land border with Canada or Mexico.
 
->         “(3) __Commercial truck.—__ 
+>         “(3)  __Commercial truck__  __.—__ 
 
 >         The term ‘commercial truck’ means a commercial motor vehicle as defined in section 31301(4) (other than subparagraph (B)) of title 49, United States Code.
 
->         “(4) __Motor vehicle.—__ 
+>         “(4)  __Motor vehicle__  __.—__ 
 
 >         The term ‘motor vehicle’ has the meaning such term has under [section 101(a) of title 23][/us/usc/t23/s101/a], United States Code.
 
->         “(5) __State.—__ 
+>         “(5)  __State__  __.—__ 
 
 >         The term ‘State’ has the meaning such term has in section 101(a) of such title 23.”
 
 [Pub. L. 105–178, title I, § 1119][/us/pl/105/178/s1119], June 9, 1998, [112 Stat. 163][/us/stat/112/163], provided that:
 
->     “(a) __General Authority.—__ 
+>     “(a)  __General Authority__  __.—__ 
 
 >     The Secretary shall establish and implement a coordinated border infrastructure program under which the Secretary may make allocations to border States and metropolitan planning organizations for areas within the boundaries of 1 or more border States for projects to improve the safe movement of people and goods at or across the border between the United States and Canada and the border between the United States and Mexico.
 
->     “(b) __Eligible Uses.—__ 
+>     “(b)  __Eligible Uses__  __.—__ 
 
 >     Allocations to States and metropolitan planning organizations under this section may only be used in a border region for—
 
@@ -1587,7 +1587,7 @@
 
 >         “(6) activities of Federal inspection agencies.
 
->     “(c) __Selection Criteria.—__ 
+>     “(c)  __Selection Criteria__  __.—__ 
 
 >     The Secretary shall make allocations under this section on the basis of—
 
@@ -1611,19 +1611,19 @@
 
 >         “(10) such other factors as the Secretary determines are appropriate to promote border transportation efficiency and safety.
 
->     “(d) __Construction of Transportation Infrastructure for Law Enforcement Purposes.—__ 
+>     “(d)  __Construction of Transportation Infrastructure for Law Enforcement Purposes__  __.—__ 
 
 >     At the request of the Administrator of General Services, in consultation with the Attorney General, the Secretary may transfer, during the period of fiscal years 1998 through 2001, not more than $10,000,000 of the amounts made available by section 1101 \[set out in part as a note below\] to carry out this section and section 1118 \[set out above\] to the Administrator of General Services for the construction of transportation infrastructure necessary for law enforcement in border States.
 
->     “(e) __Definitions.—__ 
+>     “(e)  __Definitions__  __.—__ 
 
 >     In this section, the following definitions apply:
 
->         “(1) __Border region.—__ 
+>         “(1)  __Border region__  __.—__ 
 
 >         The term ‘border region’ means the portion of a border State in the vicinity of an international border with Canada or Mexico.
 
->         “(2) __Border state.—__ 
+>         “(2)  __Border state__  __.—__ 
 
 >         The term ‘border State’ means any State that has a boundary in common with Canada or Mexico.”
 
@@ -1633,25 +1633,25 @@
 
 >     “(1) __Methodology.—__ 
 
->         “(A) __Evaluation.—__ 
+>         “(A)  __Evaluation__  __.—__ 
 
 >         The Comptroller General of the United States shall conduct an evaluation of the methodology used by the Department of Transportation to determine highway needs using the highway economic requirement system (in this subsection referred to as the ‘model’).
 
->         “(B) __Required element.—__ 
+>         “(B)  __Required element__  __.—__ 
 
 >         The evaluation shall include an assessment of the extent to which the model estimates an optimal level of highway infrastructure investment, including an assessment as to when the model may be overestimating or underestimating investment requirements.
 
->         “(C) __Report to congress.—__ 
+>         “(C)  __Report to congress__  __.—__ 
 
 >         Not later than 2 years after the date of enactment of this Act \[June 9, 1998\], the Comptroller General shall submit to Congress a report on the results of the evaluation.
 
 >     “(2) __State investment plans.—__ 
 
->         “(A) __Study.—__ 
+>         “(A)  __Study__  __.—__ 
 
 >         In consultation with State transportation departments and other appropriate State and local officials, the Comptroller General of the United States shall conduct a study on the extent to which the model can be used to provide States with useful information for developing State transportation investment plans and State infrastructure investment projections.
 
->         “(B) __Required elements.—__ 
+>         “(B)  __Required elements__  __.—__ 
 
 >         The study shall—
 
@@ -1659,7 +1659,7 @@
 
 >             “(ii) identify what additional work, if any, would be required of the Federal Highway Administration and the States to make the model useful at the State level.
 
->         “(C) __Report to congress.—__ 
+>         “(C)  __Report to congress__  __.—__ 
 
 >         Not later than 3 years after the date of enactment of this Act, the Comptroller General shall submit to Congress a report on the results of the study.”
 
@@ -1667,11 +1667,11 @@
 
 [Pub. L. 105–178, title I, § 1213(d)][/us/pl/105/178/s1213/d], June 9, 1998, [112 Stat. 200][/us/stat/112/200], provided that:
 
->     “(1) __Assessment.—__ 
+>     “(1)  __Assessment__  __.—__ 
 
 >     The Secretary shall conduct a comprehensive assessment of the state of the transportation infrastructure on the southwest border between the United States and Mexico (in this subsection referred to as the ‘border’).
 
->     “(2) __Consultation.—__ 
+>     “(2)  __Consultation__  __.—__ 
 
 >     In carrying out the assessment, the Secretary shall consult with—
 
@@ -1691,7 +1691,7 @@
 
 >         “(H) municipal governments and transportation authorities in sister cities in the border area.
 
->     “(3) __Requirements.—__ 
+>     “(3)  __Requirements__  __.—__ 
 
 >     In carrying out the assessment, the Secretary shall—
 
@@ -1705,7 +1705,7 @@
 
 >         “(E) make recommendations to facilitate legitimate cross-border traffic in the border area, while maintaining the integrity of the border.
 
->     “(4) __Report.—__ 
+>     “(4)  __Report__  __.—__ 
 
 >     Not later than 1 year after the date of enactment of this Act \[June 9, 1998\], the Secretary shall submit to Congress a report on the assessment conducted under this subsection, including any related legislative and administrative recommendations.”
 
@@ -1713,11 +1713,11 @@
 
 [Pub. L. 109–59, title I, § 1117(a)][/us/pl/109/59/s1117/a]–(g), Aug. 10, 2005, [119 Stat. 1177][/us/stat/119/1177], 1178, provided that:
 
->     “(a) __Establishment.—__ 
+>     “(a)  __Establishment__  __.—__ 
 
 >     In cooperation with appropriate State, tribal, regional, and local governments, the Secretary \[of Transportation\] shall establish a comprehensive program to address the relationships among transportation, community, and system preservation plans and practices and identify private sector-based initiatives to improve such relationships.
 
->     “(b) __Purpose.—__ 
+>     “(b)  __Purpose__  __.—__ 
 
 >     Through the program under this section, the Secretary \[of Transportation\] shall facilitate the planning, development, and implementation of strategies to integrate transportation, community, and system preservation plans and practices that address one or more of the following:
 
@@ -1731,11 +1731,11 @@
 
 >         “(5) Examine community development patterns and identify strategies to encourage private sector development that achieves the purposes identified in paragraphs (1) through (4).
 
->     “(c) __General Authority.—__ 
+>     “(c)  __General Authority__  __.—__ 
 
 >     The Secretary \[of Transportation\] shall allocate funds made available to carry out this section to States, metropolitan planning organizations, local governments, and tribal governments to carry out eligible projects to integrate transportation, community, and system preservation plans and practices.
 
->     “(d) __Eligibility.—__ 
+>     “(d)  __Eligibility__  __.—__ 
 
 >     A project described in subsection (c) is an eligible project under this section if the project—
 
@@ -1751,7 +1751,7 @@
 
 >             “(C) Other coordinated transportation, community, and system preservation practices.
 
->     “(e) __Criteria.—__ 
+>     “(e)  __Criteria__  __.—__ 
 
 >     In allocating funds made available to carry out this section, the Secretary \[of Transportation\] shall give priority consideration to applicants that—
 
@@ -1783,17 +1783,17 @@
 
 >         “(5) examine ways to encourage private sector investments that address the purposes of this section.
 
->     “(f) __Equitable Distribution.—__ 
+>     “(f)  __Equitable Distribution__  __.—__ 
 
 >     In allocating funds to carry out this section, the Secretary \[of Transportation\] shall ensure the equitable distribution of funds to a diversity of populations and geographic regions.
 
 >     “(g) __Funding.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         There is authorized to be appropriated from the Highway Trust Fund (other than the Mass Transit Account) to carry out this section $25,000,000 for fiscal year 2005 and $61,250,000 for each of fiscal years 2006 through 2009.
 
->         “(2) __Contract authority.—__ 
+>         “(2)  __Contract authority__  __.—__ 
 
 >         Funds made available to carry out this section shall be available for obligation in the same manner as if the funds were apportioned under chapter 1 of title 23, United States Code; except that such funds shall not be transferable, and the Federal share for projects and activities carried out with such funds shall be determined in accordance with [section 120(b) of title 23][/us/usc/t23/s120/b], United States Code.”
 
@@ -1803,11 +1803,11 @@
 
 [Pub. L. 105–178, title I, § 1223][/us/pl/105/178/s1223], June 9, 1998, [112 Stat. 224][/us/stat/112/224], as amended by [Pub. L. 105–206, title IX, § 9003(j)][/us/pl/105/206/s9003/j], July 22, 1998, [112 Stat. 842][/us/stat/112/842], provided that:
 
->     “(a) __Purpose.—__ 
+>     “(a)  __Purpose__  __.—__ 
 
 >     The purpose of this section is to authorize the provision of assistance for, and support of, State and local efforts concerning surface transportation issues necessary to obtain the national recognition and economic benefits of participation in the International Olympic movement, the International Paralympic movement, and the Special Olympics International movement by hosting international quadrennial Olympic and Paralympic events, and Special Olympics International events, in the United States.
 
->     “(b) __Priority for Transportation Projects Relating to Olympic, Paralympic, and Special Olympic Events.—__ 
+>     “(b)  __Priority for Transportation Projects Relating to Olympic, Paralympic, and Special Olympic Events__  __.—__ 
 
 >     Notwithstanding any other provision of law, from funds available to carry out \[former\] sections 118(c) and 144(g)(1) of title 23, United States Code, the Secretary may give priority to funding for a transportation project relating to an international quadrennial Olympic or Paralympic event, or a Special Olympics International event, if—
 
@@ -1815,7 +1815,7 @@
 
 >         “(2) the project is otherwise eligible for assistance under \[former\] sections 118(c) and 144(g)(1) of such title.
 
->     “(c) __Transportation Planning Activities.—__ 
+>     “(c)  __Transportation Planning Activities__  __.—__ 
 
 >     The Secretary may participate in—
 
@@ -1823,25 +1823,25 @@
 
 >         “(2) developing intermodal transportation plans necessary for the projects in coordination with State and local transportation agencies.
 
->     “(d) __Funding.—__ 
+>     “(d)  __Funding__  __.—__ 
 
 >     Notwithstanding section 5001(a) \[[112 Stat. 419][/us/stat/112/419]\], from funds made available under such section, the Secretary may provide assistance for the development of an Olympic, a Paralympic, and a Special Olympics transportation management plan in cooperation with an Olympic Organizing Committee responsible for hosting, and State and local communities affected by, an international quadrennial Olympic or Paralympic event or a Special Olympics International event.
 
 >     “(e) __Transportation Projects Relating to Olympic, Paralympic, and Special Olympic Events.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Secretary may provide assistance, including planning, capital, and operating assistance, to States and local governments in carrying out transportation projects relating to an international quadrennial Olympic or Paralympic event or a Special Olympics International event.
 
->         “(2) __Federal share.—__ 
+>         “(2)  __Federal share__  __.—__ 
 
 >         The Federal share of the cost of a project assisted under this subsection shall not exceed 80 percent.
 
->     “(f) __Eligible Governments.—__ 
+>     “(f)  __Eligible Governments__  __.—__ 
 
 >     A State or local government shall be eligible to receive assistance under this section only if the government is hosting a venue that is part of an international quadrennial Olympics that is officially selected by the International Olympic Committee or Special Olympics International.
 
->     “(g) __Authorization of Appropriations.—__ 
+>     “(g)  __Authorization of Appropriations__  __.—__ 
 
 >     There are authorized to be appropriated from the Highway Trust Fund (other than the Mass Transit Account) to carry out this section such sums as are necessary for each of fiscal years 1998 through 2003.”
 
@@ -1849,21 +1849,21 @@
 
 [Pub. L. 105–178, title I, § 1311][/us/pl/105/178/s1311], as added by [Pub. L. 105–206, title IX, § 9004(a)][/us/pl/105/206/s9004/a], July 22, 1998, [112 Stat. 842][/us/stat/112/842], provided that:
 
->     “(a) __Establishment of Criteria.—__ 
+>     “(a)  __Establishment of Criteria__  __.—__ 
 
 >     The Secretary shall establish criteria for all discretionary programs funded from the Highway Trust Fund (other than the Mass Transit Account). To the extent practicable, such criteria shall conform to the Executive Order No. 12893 \[[31 U.S.C. 501][/us/usc/t31/s501] note\] (relating to infrastructure investment).
 
 >     “(b) __Selection Process.—__ 
 
->         “(1) __Limitation on acceptance of applications.—__ 
+>         “(1)  __Limitation on acceptance of applications__  __.—__ 
 
 >         Before accepting applications for grants under any discretionary program for which funds are authorized to be appropriated from the Highway Trust Fund (other than the Mass Transit Account) by this Act \[see Tables for classification\] (including the amendments made by this Act), the Secretary shall publish the criteria established under subsection (a). Such publication shall identify all statutory criteria and any criteria established by regulation that will apply to the program.
 
->         “(2) __Explanation.—__ 
+>         “(2)  __Explanation__  __.—__ 
 
 >         Not less often than quarterly, the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a list of the projects selected under discretionary programs funded from the Highway Trust Fund (other than the Mass Transit Account) and an explanation of how the projects were selected based on the criteria established under subsection (a).
 
->     “(c) __Minimum Covered Programs.—__ 
+>     “(c)  __Minimum Covered Programs__  __.—__ 
 
 >     At a minimum, the criteria established under subsection (a) and the selection process established by subsection (b) shall apply to the following programs:
 
@@ -1889,7 +1889,7 @@
 
 [Pub. L. 112–141, div. A, title I, § 1101(b)][/us/pl/112/141/s1101/b], July 6, 2012, [126 Stat. 414][/us/stat/126/414], provided that:
 
->     “(1) __Findings.—__ 
+>     “(1)  __Findings__  __.—__ 
 
 >     Congress finds that—
 
@@ -1903,29 +1903,29 @@
 
 >         “(E) the testimony and documentation described in subparagraph (C) provide a strong basis that there is a compelling need for the continuation of the disadvantaged business enterprise program to address race and gender discrimination in surface transportation-related business.
 
->     “(2) __Definitions.—__ 
+>     “(2)  __Definitions__  __.—__ 
 
 >     In this subsection, the following definitions apply:
 
->         “(A) __Small business concern.—__ 
+>         “(A)  __Small business concern__  __.—__ 
 
->             “(i) __In general.—__ 
+>             “(i)  __In general__  __.—__ 
 
 >             The term ‘small business concern’ means a small business concern (as the term is used in section 3 of the Small Business Act ([15 U.S.C. 632][/us/usc/t15/s632])).
 
->             “(ii) __Exclusions.—__ 
+>             “(ii)  __Exclusions__  __.—__ 
 
 >             The term ‘small business concern’ does not include any concern or group of concerns controlled by the same socially and economically disadvantaged individual or individuals that have average annual gross receipts during the preceding 3 fiscal years in excess of $22,410,000, as adjusted annually by the Secretary \[of Transportation\] for inflation.
 
->         “(B) __Socially and economically disadvantaged individuals.—__ 
+>         “(B)  __Socially and economically disadvantaged individuals__  __.—__ 
 
 >         The term ‘socially and economically disadvantaged individuals’ has the meaning given the term in section 8(d) of the Small Business Act ([15 U.S.C. 637(d)][/us/usc/t15/s637/d]) and relevant subcontracting regulations issued pursuant to that Act \[[15 U.S.C. 631][/us/usc/t15/s631] et seq.\], except that women shall be presumed to be socially and economically disadvantaged individuals for purposes of this subsection.
 
->     “(3) __Amounts for small business concerns.—__ 
+>     “(3)  __Amounts for small business concerns__  __.—__ 
 
 >     Except to the extent that the Secretary determines otherwise, not less than 10 percent of the amounts made available for any program under divisions A and B of this Act \[see Tables for classification\] and [section 403 of title 23][/us/usc/t23/s403], United States Code, shall be expended through small business concerns owned and controlled by socially and economically disadvantaged individuals.
 
->     “(4) __Annual listing of disadvantaged business enterprises.—__ 
+>     “(4)  __Annual listing of disadvantaged business enterprises__  __.—__ 
 
 >     Each State shall annually—
 
@@ -1941,13 +1941,13 @@
 
 >             “(iii) individuals who are women and are otherwise socially and economically disadvantaged individuals.
 
->     “(5) __Uniform certification.—__ 
+>     “(5)  __Uniform certification__  __.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         The Secretary shall establish minimum uniform criteria for use by State governments in certifying whether a concern qualifies as a small business concern for the purpose of this subsection.
 
->         “(B) __Inclusions.—__ 
+>         “(B)  __Inclusions__  __.—__ 
 
 >         The minimum uniform criteria established under subparagraph (A) shall include, with respect to a potential small business concern—
 
@@ -1971,7 +1971,7 @@
 
 >             “(x) analyses of the type of work preferred.
 
->     “(6) __Reporting.—__ 
+>     “(6)  __Reporting__  __.—__ 
 
 >     The Secretary shall establish minimum requirements for use by State governments in reporting to the Secretary—
 
@@ -1979,7 +1979,7 @@
 
 >         “(B) such other information as the Secretary \[of Transportation\] determines to be appropriate for the proper monitoring of the disadvantaged business enterprise program.
 
->     “(7) __Compliance with court orders.—__ 
+>     “(7)  __Compliance with court orders__  __.—__ 
 
 >     Nothing in this subsection limits the eligibility of an individual or entity to receive funds made available under divisions A and B of this Act \[see Tables for classification\] and [section 403 of title 23][/us/usc/t23/s403], United States Code, if the entity or person is prevented, in whole or in part, from complying with paragraph (2) because a Federal court issues a final order in which the court finds that a requirement or the implementation of paragraph (2) is unconstitutional.”
 
@@ -2015,11 +2015,11 @@ Similar provisions were contained in the following prior acts:
 
 >     “(a) __Scenic Byways Advisory Committee.—__ 
 
->         “(1) __Establishment.—__ 
+>         “(1)  __Establishment__  __.—__ 
 
 >         Not later than 180 days after the date of the enactment of this Act \[Dec. 18, 1991\], the Secretary shall establish in the Department of Transportation an advisory committee to assist the Secretary with respect to establishment of a national scenic byways program under title 23, United States Code.
 
->         “(2) __Membership.—__ 
+>         “(2)  __Membership__  __.—__ 
 
 >         The advisory committee established under this section shall be composed of 17 members as follows:
 
@@ -2059,7 +2059,7 @@ Similar provisions were contained in the following prior acts:
 
 >             Individuals appointed as members of the advisory committee under subparagraphs (G) through (P) may be State and local government officials. Members shall serve without compensation other than for reasonable expenses incident to functions of the advisory committee.
 
->         “(3) __Functions.—__ 
+>         “(3)  __Functions__  __.—__ 
 
 >         The advisory committee established under this subsection shall develop and make to the Secretary recommendations regarding minimum criteria for use by State and Federal agencies in designating highways as scenic byways and as all-American roads for purposes of a national scenic byways program to be established under title 23, United States Code. Such recommendations shall include recommendations on the following:
 
@@ -2083,33 +2083,33 @@ Similar provisions were contained in the following prior acts:
 
 >             “(H) Such other matters for which the Secretary may request recommendations.
 
->         “(4) __Report.—__ 
+>         “(4)  __Report__  __.—__ 
 
 >         Not later than 18 months after the date of the enactment of this Act \[Dec. 18, 1991\], the advisory committee established under this section shall submit to the Secretary and Congress a report containing the recommendations described in paragraph (3).
 
->     “(b) __Technical and Financial Assistance.—__ 
+>     “(b)  __Technical and Financial Assistance__  __.—__ 
 
 >     The Secretary shall provide technical assistance to the States (as such term is defined under [section 101 of title 23][/us/usc/t23/s101], United States Code) and shall make grants to the States for the planning, design, and development of State scenic byway programs.
 
->     “(c) __Federal Share.—__ 
+>     “(c)  __Federal Share__  __.—__ 
 
 >     The Federal share payable for the costs of planning, design, and development of State scenic byway programs under this section shall be 80 percent.
 
->     “(d) __Funding.—__ 
+>     “(d)  __Funding__  __.—__ 
 
 >     There shall be available to the Secretary for carrying out this section (other than subsection (f)), out of the Highway Trust Fund (other than the Mass Transit Account), $1,000,000 for fiscal year 1992, $3,000,000 for fiscal year 1993, $4,000,000 for fiscal year 1994, $14,000,000 for each of the fiscal years 1995, 1996, and 1997, and $7,000,000 for the period of October 1, 1997, through March 31, 1998. Such sums shall remain available until expended.
 
->     “(e) __Contract Authority.—__ 
+>     “(e)  __Contract Authority__  __.—__ 
 
 >     Notwithstanding any other provision of law, approval by the Secretary of a grant under this section shall be deemed a contractual obligation of the United States for payment of the Federal share of the cost of activities for which the grant is being made.
 
 >     “(f) __Interim Scenic Byways Program.—__ 
 
->         “(1) __Grant program.—__ 
+>         “(1)  __Grant program__  __.—__ 
 
 >         During fiscal years 1992, 1993, and 1994, the Secretary may make grants to any State which has a scenic highway program for carrying out eligible projects on highways which the State has designated as scenic byways.
 
->         “(2) __Priority projects.—__ 
+>         “(2)  __Priority projects__  __.—__ 
 
 >         In making grants under paragraph (1), the Secretary shall give priority to—
 
@@ -2121,7 +2121,7 @@ Similar provisions were contained in the following prior acts:
 
 >             “(D) those eligible projects in multi-State corridors where the States submit joint applications.
 
->         “(3) __Eligible projects.—__ 
+>         “(3)  __Eligible projects__  __.—__ 
 
 >         The following are projects which are eligible for Federal assistance under this subsection:
 
@@ -2137,19 +2137,19 @@ Similar provisions were contained in the following prior acts:
 
 >             “(F) Developing and providing tourist information to the public, including interpretive information about the scenic byway.
 
->         “(4) __Federal share.—__ 
+>         “(4)  __Federal share__  __.—__ 
 
 >         The Federal share payable for the costs of carrying out projects and developing programs under this subsection with funds made available pursuant to this subsection shall be 80 percent.
 
->         “(5) __Funding.—__ 
+>         “(5)  __Funding__  __.—__ 
 
 >         There shall be available to the Secretary for carrying out this subsection, out of the Highway Trust Fund (other than the Mass Transit Account), $10,000,000 for fiscal year 1992, $10,000,000 for fiscal year 1993, and $10,000,000 for fiscal year 1994. Such sums shall remain available until expended.
 
->     “(g) __Limitation.—__ 
+>     “(g)  __Limitation__  __.—__ 
 
 >     The Secretary shall not make a grant under this section for any project which would not protect the scenic, historic, recreational, cultural, natural, and archeological integrity of the highway and adjacent area. The Secretary may not use more than 10 percent of the funds authorized for each fiscal year under subsection (f)(5) for removal of any outdoor advertising sign, display, or device.
 
->     “(h) __Treatment of Scenic Highways in Oregon.—__ 
+>     “(h)  __Treatment of Scenic Highways in Oregon__  __.—__ 
 
 >     For purposes of this section, a highway designated as a scenic highway in the State of Oregon shall be treated as a scenic byway.”
 
@@ -2157,11 +2157,11 @@ Similar provisions were contained in the following prior acts:
 
 [Pub. L. 102–240, title VI, § 6012][/us/pl/102/240/s6012], Dec. 18, 1991, [105 Stat. 2180][/us/stat/105/2180], provided that:
 
->     “(a) __Study.—__ 
+>     “(a)  __Study__  __.—__ 
 
 >     The Secretary shall conduct a study to determine an appropriate symbol or emblem to be placed on highway signs referring to the Interstate System to commemorate the vision of President Dwight D. Eisenhower in creating the Dwight D. Eisenhower National System of Interstate and Defense Highways \[now Dwight D. Eisenhower System of Interstate and Defense Highways\].
 
->     “(b) __Report.—__ 
+>     “(b)  __Report__  __.—__ 
 
 >     Not later than 1 year after the date of the enactment of this Act \[Dec. 18, 1991\], the Secretary shall transmit to Congress a report on the results of the study under this section.”
 
@@ -2231,7 +2231,7 @@ Similar provisions were contained in the following prior acts:
 
  __Consent of Governing Body for Expenditure of Funds__ 
 
-    [Pub. L. 93–643, § 102(d)][/us/pl/93/643/s102/d], Jan. 4, 1975, [88 Stat. 2282][/us/stat/88/2282], provided that no funds appropriated under the expanded definition of this section \[[23 U.S.C. 101(a)][/us/usc/t23/s101/a]\] shall be expended without the formal consent of the governing body of the tribe band or group of Indians or Alaskan Natives for whose use the Indian reservation roads and bridges are intended.”
+    [Pub. L. 93–643, § 102(d)][/us/pl/93/643/s102/d], Jan. 4, 1975, [88 Stat. 2282][/us/stat/88/2282], provided that no funds appropriated under the expanded definition of this section \[[23 U.S.C. 101(a)][/us/usc/t23/s101/a]\] shall be expended without the formal consent of the governing body of the tribe band or group of Indians or Alaskan Natives for whose use the Indian reservation roads and bridges are intended.
 
  __Carpool Demonstration Projects in Urban Areas; Appropriations Authorization__ 
 
@@ -2291,11 +2291,11 @@ Similar provisions were contained in the following prior acts:
 
 > “In this Act \[see Tables for classification\], the following definitions apply:
 
->     “(1) __Department.—__ 
+>     “(1)  __Department__  __.—__ 
 
 >     The term ‘Department’ means the Department of Transportation.
 
->     “(2) __Secretary.—__ 
+>     “(2)  __Secretary__  __.—__ 
 
 >     The term ‘Secretary’ means the Secretary of Transportation.”
 
@@ -2307,11 +2307,11 @@ Similar provisions were contained in the following prior acts:
 
 > “In this Act \[see Tables for classification\], the following definitions apply:
 
->     “(1) __Department.—__ 
+>     “(1)  __Department__  __.—__ 
 
 >     The term ‘Department’ means the Department of Transportation.
 
->     “(2) __Secretary.—__ 
+>     “(2)  __Secretary__  __.—__ 
 
 >     The term ‘Secretary’ means the Secretary of Transportation.”
 
@@ -2323,11 +2323,11 @@ Similar provisions were contained in the following prior acts:
 
 > “In this Act \[see Tables for classification\], the following definitions apply:
 
->     “(1) __Interstate system.—__ 
+>     “(1)  __Interstate system__  __.—__ 
 
 >     The term ‘Interstate System’ has the meaning such term has under [section 101 of title 23][/us/usc/t23/s101], United States Code.
 
->     “(2) __Secretary.—__ 
+>     “(2)  __Secretary__  __.—__ 
 
 >     The term ‘Secretary’ means the Secretary of Transportation.”
 

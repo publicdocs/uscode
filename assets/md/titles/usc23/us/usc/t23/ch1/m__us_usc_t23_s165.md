@@ -15,7 +15,7 @@
 
 ## § 165. Territorial and Puerto Rico highway program
 
-    (a) __Division of Funds.—__ 
+    (a)  __Division of Funds__  __.—__ 
 
     Of funds made available in a fiscal year for the territorial and Puerto Rico highway program—
 
@@ -25,17 +25,17 @@
 
     (b) __Puerto Rico Highway Program.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The Secretary shall allocate funds made available to carry out this subsection to the Commonwealth of Puerto Rico to carry out a highway program in the Commonwealth.
 
-        (2) __Treatment of funds.—__ 
+        (2)  __Treatment of funds__  __.—__ 
 
         Amounts made available to carry out this subsection for a fiscal year shall be administered as follows:
 
             (A) __Apportionment.—__ 
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 For the purpose of imposing any penalty under this title or title 49, the amounts shall be treated as being apportioned to Puerto Rico under sections 104(b) and 144 (as in effect for fiscal year 1997) for each program funded under those sections in an amount determined by multiplying—
 
@@ -49,15 +49,15 @@
 
                         (bb) the total amount of funds apportioned to Puerto Rico for all such programs for fiscal year 1997.
 
-                (ii) __Exception.—__ 
+                (ii)  __Exception__  __.—__ 
 
                 Funds identified under clause (i) as having been apportioned for the national highway system, the surface transportation program, and the Interstate maintenance program shall be deemed to have been apportioned 50 percent for the national highway performance program and 50 percent for the surface transportation program for purposes of imposing such penalties.
 
-            (B) __Penalty.—__ 
+            (B)  __Penalty__  __.—__ 
 
             The amounts treated as being apportioned to Puerto Rico under each section referred to in subparagraph (A) shall be deemed to be required to be apportioned to Puerto Rico under that section for purposes of the imposition of any penalty under this title or title 49.
 
-            (C) __Eligible uses of funds.—__ 
+            (C)  __Eligible uses of funds__  __.—__ 
 
             Of amounts allocated to Puerto Rico for the Puerto Rico Highway Program for a fiscal year—
 
@@ -67,13 +67,13 @@
 
                 (iii) any remaining funds may be obligated for activities eligible under chapter 1.
 
-        (3) __Effect on apportionments.—__ 
+        (3)  __Effect on apportionments__  __.—__ 
 
         Except as otherwise specifically provided, Puerto Rico shall not be eligible to receive funds apportioned to States under this title.
 
     (c) __Territorial Highway Program.—__ 
 
-        (1) __Territory defined.—__ 
+        (1)  __Territory defined__  __.—__ 
 
         In this subsection, the term “territory” means any of the following territories of the United States:
 
@@ -87,7 +87,7 @@
 
         (2) __Program.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             Recognizing the mutual benefits that will accrue to the territories and the United States from the improvement of highways in the territories, the Secretary may carry out a program to assist each government of a territory in the construction and improvement of a system of arterial and collector highways, and necessary inter-island connectors, that is—
 
@@ -95,13 +95,13 @@
 
                 (ii) approved by the Secretary.
 
-            (B) __Federal share.—__ 
+            (B)  __Federal share__  __.—__ 
 
             The Federal share of Federal financial assistance provided to territories under this subsection shall be in accordance with section 120(g).
 
         (3) __Technical assistance.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             To continue a long-range highway development program, the Secretary may provide technical assistance to the governments of the territories to enable the territories, on a continuing basis—
 
@@ -113,23 +113,23 @@
 
                 (iv) to design, construct, operate, and maintain a system of arterial and collector highways, including necessary inter-island connectors.
 
-            (B) __Form and terms of assistance.—__ 
+            (B)  __Form and terms of assistance__  __.—__ 
 
             Technical assistance provided under subparagraph (A), and the terms for the sharing of information among territories receiving the technical assistance, shall be included in the agreement required by paragraph (5).
 
         (4) __Nonapplicability of certain provisions.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             Except to the extent that provisions of this chapter are determined by the Secretary to be inconsistent with the needs of the territories and the intent of this subsection, this chapter (other than provisions of this chapter relating to the apportionment and allocation of funds) shall apply to funds made available under this subsection.
 
-            (B) __Applicable provisions.—__ 
+            (B)  __Applicable provisions__  __.—__ 
 
             The agreement required by paragraph (5) for each territory shall identify the sections of this chapter that are applicable to that territory and the extent of the applicability of those sections.
 
         (5) __Agreement.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             Except as provided in subparagraph (D), none of the funds made available under this subsection shall be available for obligation or expenditure with respect to any territory until the chief executive officer of the territory has entered into an agreement (including an agreement entered into under section 215 as in effect on the day before the enactment of this section) with the Secretary providing that the government of the territory shall—
 
@@ -147,7 +147,7 @@
 
                 (iv) implement standards for traffic operations and uniform traffic control devices that are approved by the Secretary.
 
-            (B) __Technical assistance.—__ 
+            (B)  __Technical assistance__  __.—__ 
 
             The agreement required by subparagraph (A) shall—
 
@@ -157,11 +157,11 @@
 
                 (iii) delineate the oversight role and responsibilities of the territories and the Secretary.
 
-            (C) __Review and revision of agreement.—__ 
+            (C)  __Review and revision of agreement__  __.—__ 
 
             The agreement entered into under subparagraph (A) shall be reevaluated and, as necessary, revised, at least every 2 years.
 
-            (D) __Existing agreements.—__ 
+            (D)  __Existing agreements__  __.—__ 
 
             With respect to an agreement under this subsection or an agreement entered into under [section 215 of this title][/us/usc/t23/s215] as in effect on the day before the date of enactment of this subsection—
 
@@ -171,7 +171,7 @@
 
         (6) __Eligible uses of funds.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             Funds made available under this subsection may be used only for the following projects and activities carried out in a territory:
 
@@ -189,11 +189,11 @@
 
                 (vii) Such research and development as are necessary in connection with the planning, design, and maintenance of the highway system.
 
-            (B) __Prohibition on use of funds for routine maintenance.—__ 
+            (B)  __Prohibition on use of funds for routine maintenance__  __.—__ 
 
             None of the funds made available under this subsection shall be obligated or expended for routine maintenance.
 
-        (7) __Location of projects.—__ 
+        (7)  __Location of projects__  __.—__ 
 
         Territorial highway program projects (other than those described in paragraphs (2), (4), (7), (8), (14), and (19) of section 133(b)) may not be undertaken on roads functionally classified as local.
 

@@ -61,19 +61,19 @@
 
     (r) __Removal of Illegal Signs.—__ 
 
-        (1) __By owners.—__ 
+        (1)  __By owners__  __.—__ 
 
         Any sign, display, or device along the Interstate System or the Federal-aid primary system which was not lawfully erected, shall be removed by the owner of such sign, display, or device not later than the 90th day following the effective date of this subsection.
 
-        (2) __By states.—__ 
+        (2)  __By states__  __.—__ 
 
         If any owner does not remove a sign, display, or device in accordance with paragraph (1), the State within the borders of which the sign, display, or device is located shall remove the sign, display, or device. The owner of the removed sign, display, or device shall be liable to the State for the costs of such removal. Effective control under this section includes compliance with the first sentence of this paragraph.
 
-    (s) __Scenic Byway Prohibition.—__ 
+    (s)  __Scenic Byway Prohibition__  __.—__ 
 
     If a State has a scenic byway program, the State may not allow the erection along any highway on the Interstate System or Federal-aid primary system which before, on, or after the effective date of this subsection, is designated as a scenic byway under such program of any sign, display, or device which is not in conformance with subsection (c) of this section. Control of any sign, display, or device on such a highway shall be in accordance with this section. In designating a scenic byway for purposes of this section and section 1047 of the Intermodal Surface Transportation Efficiency Act of 1991, a State may exclude from such designation any segment of a highway that is inconsistent with the State’s criteria for designating State scenic byways. Nothing in the preceding sentence shall preclude a State from signing any such excluded segment, including such segment on a map, or carrying out similar activities, solely for purposes of system continuity.
 
-    (t) __Primary System Defined.—__ 
+    (t)  __Primary System Defined__  __.—__ 
 
     For purposes of this section, the terms “primary system” and “Federal-aid primary system” mean the Federal-aid primary system in existence on June 1, 1991, and any highway which is not on such system but which is on the National Highway System.
 
@@ -177,7 +177,7 @@
 
 [Pub. L. 105–178, title I, § 1213(g)][/us/pl/105/178/s1213/g], June 9, 1998, [112 Stat. 202][/us/stat/112/202], provided that:
 
->     “(1) __Study.—__ 
+>     “(1)  __Study__  __.—__ 
 
 >     The Secretary shall conduct a study to determine the practices in the States for specific service food signs described in sections 2G–5.7 and 2G–5.8 of the Manual on Uniform Traffic Control Devices for Streets and Highways. The study shall examine, at a minimum—
 
@@ -189,7 +189,7 @@
 
 >         “(D) whether States contract out the erection and maintenance of such signs.
 
->     “(2) __Report.—__ 
+>     “(2)  __Report__  __.—__ 
 
 >     Not later than 1 year after the date of enactment of this Act \[June 9, 1998\], the Secretary shall transmit to Congress a report on the results of the study, including any recommendations and, if appropriate, modifications to the Manual.”
 
@@ -203,11 +203,11 @@
 
 [Pub. L. 102–240, title I, § 1059][/us/pl/102/240/s1059], Dec. 18, 1991, [105 Stat. 2003][/us/stat/105/2003], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary shall encourage the States to provide for equitable participation in the use of tourist oriented directional signs or ‘logo’ signs along the Interstate System and the Federal-aid primary system (as defined under [section 131(t) of title 23][/us/usc/t23/s131/t], United States Code).
 
->     “(b) __Study.—__ 
+>     “(b)  __Study__  __.—__ 
 
 >     Not later than 1 year after the effective date of this title \[Dec. 18, 1991\], the Secretary shall conduct a study and report to Congress on the participation in the use of signs referred to in subsection (a) and the practices of the States with respect to the use of such signs.”
 

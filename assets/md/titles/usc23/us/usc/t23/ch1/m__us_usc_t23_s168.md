@@ -15,15 +15,15 @@
 
 ## § 168. Integration of planning and environmental review
 
-    (a) __Definitions.—__ 
+    (a)  __Definitions__  __.—__ 
 
     In this section, the following definitions apply:
 
-        (1) __Environmental review process.—__ 
+        (1)  __Environmental review process__  __.—__ 
 
         The term “environmental review process” means the process for preparing for a project an environmental impact statement, environmental assessment, categorical exclusion, or other document prepared under the National Environmental Policy Act of 1969 ([42 U.S.C. 4321][/us/usc/t42/s4321] et seq.).
 
-        (2) __Planning product.—__ 
+        (2)  __Planning product__  __.—__ 
 
         The term “planning product” means a detailed and timely decision, analysis, study, or other documented information that—
 
@@ -33,35 +33,35 @@
 
             (C) has been approved by the State, all local and tribal governments where the project is located, and by any relevant metropolitan planning organization.
 
-        (3) __Project.—__ 
+        (3)  __Project__  __.—__ 
 
         The term “project” has the meaning given the term in section 139(a).
 
-        (4) __Project sponsor.—__ 
+        (4)  __Project sponsor__  __.—__ 
 
         The term “project sponsor” has the meaning given the term in section 139(a).
 
     (b) __Adoption of Planning Products for Use in NEPA Proceedings.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Subject to the conditions set forth in subsection (d), the Federal lead agency for a project may adopt and use a planning product in proceedings relating to any class of action in the environmental review process of the project.
 
-        (2) __Identification.—__ 
+        (2)  __Identification__  __.—__ 
 
         When the Federal lead agency makes a determination to adopt and use a planning product, the Federal lead agency shall identify those agencies that participated in the development of the planning products.
 
-        (3) __Partial adoption of planning products.—__ 
+        (3)  __Partial adoption of planning products__  __.—__ 
 
         The Federal lead agency may adopt a planning product under paragraph (1) in its entirety or may select portions for adoption.
 
-        (4) __Timing.—__ 
+        (4)  __Timing__  __.—__ 
 
         A determination under paragraph (1) with respect to the adoption of a planning product may be made at the time the lead agencies decide the appropriate scope of environmental review for the project but may also occur later in the environmental review process, as appropriate.
 
     (c) __Applicability.—__ 
 
-        (1) __Planning decisions.—__ 
+        (1)  __Planning decisions__  __.—__ 
 
         Planning decisions that may be adopted pursuant to this section include—
 
@@ -81,7 +81,7 @@
 
                 (ii) potential mitigation activities, locations, and investments.
 
-        (2) __Planning analyses.—__ 
+        (2)  __Planning analyses__  __.—__ 
 
         Planning analyses that may be adopted pursuant to this section include studies with respect to—
 
@@ -101,7 +101,7 @@
 
             (H) mitigation needs for a proposed action, or for programmatic level mitigation, for potential effects that the Federal lead agency determines are most effectively addressed at a regional or national program level.
 
-    (d) __Conditions.—__ 
+    (d)  __Conditions__  __.—__ 
 
     Adoption and use of a planning product under this section is subject to a determination by the Federal lead agency, with the concurrence of other participating agencies with relevant expertise and project sponsors as appropriate, and with an opportunity for public notice and comment and consideration of those comments by the Federal lead agency, that the following conditions have been met:
 
@@ -125,21 +125,21 @@
 
         (10) The planning product was approved not later than 5 years prior to date on which the information is adopted pursuant to this section.
 
-    (e) __Effect of Adoption.—__ 
+    (e)  __Effect of Adoption__  __.—__ 
 
     Any planning product adopted by the Federal lead agency in accordance with this section may be incorporated directly into an environmental review process document or other environmental document and may be relied upon and used by other Federal agencies in carrying out reviews of the project.
 
     (f) __Rules of Construction.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         This section shall not be construed to make the environmental review process applicable to the transportation planning process conducted under this title and chapter 53 of title 49.
 
-        (2) __Transportation planning activities.—__ 
+        (2)  __Transportation planning activities__  __.—__ 
 
         Initiation of the environmental review process as a part of, or concurrently with, transportation planning activities does not subject transportation plans and programs to the environmental review process.
 
-        (3) __Planning products.—__ 
+        (3)  __Planning products__  __.—__ 
 
         This section shall not be construed to affect the use of planning products in the environmental review process pursuant to other authorities under any other provision of law or to restrict the initiation of the environmental review process during planning.
 

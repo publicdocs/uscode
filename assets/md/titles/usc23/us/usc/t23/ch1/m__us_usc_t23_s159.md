@@ -17,15 +17,15 @@
 
     (a) __Withholding of Apportionments for Noncompliance.—__ 
 
-        (1) __Beginning in fiscal year 1996.—__ 
+        (1)  __Beginning in fiscal year 1996__  __.—__ 
 
         The Secretary shall withhold 10 percent of the amount required to be apportioned to any State under each of paragraphs (1), (3), and (5) (as in effect on the day before the date of enactment of the Transportation Equity Act for the 21st Century) of section 104(b) on the first day of each fiscal year which begins after the fourth calendar year following the effective date of this section if the State does not meet the requirements of paragraph (3) on the first day of such fiscal year.
 
-        (2) __Fiscal year 2012 and thereafter.—__ 
+        (2)  __Fiscal year 2012 and thereafter__  __.—__ 
 
         The Secretary shall withhold an amount equal to 8 percent of the amount required to be apportioned to any State under each of paragraphs (1) and (2) of section 104(b) on the first day of each fiscal year beginning after September 30, 2011, if the State fails to meet the requirements of paragraph (3) on the first day of the fiscal year.
 
-        (3) __Requirements.—__ 
+        (3)  __Requirements__  __.—__ 
 
         A State meets the requirements of this paragraph if—
 
@@ -51,19 +51,19 @@
 
                 (ii) submits to the Secretary a written certification that the legislature (including both Houses where applicable) has adopted a resolution expressing its opposition to a law described in clause (i).
 
-    (b) __Effect of Noncompliance.—__ 
+    (b)  __Effect of Noncompliance__  __.—__ 
 
     No funds withheld under this section from apportionments to any State shall be available for apportionment to that State.
 
-    (c) __Definitions.—__ 
+    (c)  __Definitions__  __.—__ 
 
     For purposes of this section—
 
-        (1) __Driver’s license.—__ 
+        (1)  __Driver’s license__  __.—__ 
 
         The term “driver’s license” means a license issued by a State to any individual that authorizes the individual to operate a motor vehicle on highways.
 
-        (2) __Drug offense.—__ 
+        (2)  __Drug offense__  __.—__ 
 
         The term “drug offense” means any criminal offense which proscribes—
 
@@ -71,7 +71,7 @@
 
             (B) the operation of a motor vehicle under the influence of such a substance.
 
-        (3) __Convicted.—__ 
+        (3)  __Convicted__  __.—__ 
 
         The term “convicted” includes adjudicated under juvenile proceedings.
 
@@ -129,11 +129,11 @@
 
 [Pub. L. 102–240, title I, § 1094][/us/pl/102/240/s1094], Dec. 18, 1991, [105 Stat. 2025][/us/stat/105/2025], provided that:
 
->     “(a) __Study.—__ 
+>     “(a)  __Study__  __.—__ 
 
 >     The Secretary shall conduct a study of State efforts to comply with the provisions of section 333 of the Department of Transportation and Related Agencies Appropriations Acts, 1991 and 1992 \[[section 333 of Pub. L. 102–143][/us/pl/102/143/s333] (1992 Act) enacted this section and provisions set out as a note above and repealed [section 333 of Pub. L. 101–516][/us/pl/101/516/s333] (1991 Act) which amended [section 104 of this title][/us/usc/t23/s104] and enacted provisions set out as a note thereunder\], relating to revocation and suspension of drivers’ licenses.
 
->     “(b) __Report.—__ 
+>     “(b)  __Report__  __.—__ 
 
 >     Not later than December 31, 1992, the Secretary shall transmit to Congress a report on the results of the study conducted under this section.”
 

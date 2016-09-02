@@ -17,11 +17,11 @@
 
     (a) __In General.—__ 
 
-        (1) __Program.—__ 
+        (1)  __Program__  __.—__ 
 
         Each State shall conduct and systematically maintain an engineering survey of all public roads to identify hazardous locations, sections, and elements, including roadside obstacles and unmarked or poorly marked roads, which may constitute a danger to motorists, bicyclists, and pedestrians, assign priorities for the correction of such locations, sections, and elements, and establish and implement a schedule of projects for their improvement.
 
-        (2) __Hazards.—__ 
+        (2)  __Hazards__  __.—__ 
 
         In carrying out paragraph (1), a State may, at its discretion—
 

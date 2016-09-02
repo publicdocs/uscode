@@ -17,15 +17,15 @@
 
     (a) __Interstate System Projects.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Except as otherwise provided in this chapter, the Federal share payable on account of any project on the Interstate System (including a project to add high occupancy vehicle lanes and a project to add auxiliary lanes but excluding a project to add any other lanes) shall be 90 percent of the total cost thereof, plus a percentage of the remaining 10 percent of such cost in any State containing unappropriated and unreserved public lands and nontaxable Indian lands, individual and tribal, exceeding 5 percent of the total area of all lands therein, equal to the percentage that the area of such lands in such State is of its total area; except that such Federal share payable on any project in any State shall not exceed 95 percent of the total cost of such project.
 
-        (2) __State-determined lower federal share.—__ 
+        (2)  __State-determined lower federal share__  __.—__ 
 
         In the case of any project subject to paragraph (1), a State may determine a lower Federal share than the Federal share determined under such paragraph.
 
-    (b) __Other Projects.—__ 
+    (b)  __Other Projects__  __.—__ 
 
     Except as otherwise provided in this title, the Federal share payable on account of any project or activity carried out under this title (other than a project subject to subsection (a)) shall be—
 
@@ -35,19 +35,19 @@
 
         except that the Federal share payable on any project in a State shall not exceed 95 percent of the total cost of any such project. In any case where a State elects to have the Federal share provided in paragraph (2) of this subsection, the State must enter into an agreement with the Secretary covering a period of not less than 1 year, requiring such State to use solely for purposes eligible for assistance under this title (other than paying its share of projects approved under this title) during the period covered by such agreement the difference between the State’s share as provided in paragraph (2) and what its share would be if it elected to pay the share provided in paragraph (1) for all projects subject to such agreement. In the case of any project subject to this subsection, a State may determine a lower Federal share than the Federal share determined under the preceding sentences of this subsection.
 
-    (c) __Increased Federal Share.—__ 
+    (c)  __Increased Federal Share__  __.—__ 
 
-        (1) __Certain safety projects.—__ 
+        (1)  __Certain safety projects__  __.—__ 
 
         The Federal share payable on account of any project for traffic control signalization, maintaining minimum levels of retroreflectivity of highway signs or pavement markings, traffic circles (also known as “roundabouts”), safety rest areas, pavement marking, shoulder and centerline rumble strips and stripes, commuter carpooling and vanpooling, rail-highway crossing closure, or installation of traffic signs, traffic lights, guardrails, impact attenuators, concrete barrier endtreatments, breakaway utility poles, or priority control systems for emergency vehicles or transit vehicles at signalized intersections may amount to 100 percent of the cost of construction of such projects; except that not more than 10 percent of all sums apportioned for all the Federal-aid programs for any fiscal year in accordance with [section 104 of this title][/us/usc/t23/s104] shall be used under this subsection. In this subsection, the term “safety rest area” means an area where motor vehicle operators can park their vehicles and rest, where food, fuel, and lodging services are not available, and that is located on a segment of highway with respect to which the Secretary determines there is a shortage of public and private areas at which motor vehicle operators can park their vehicles and rest.
 
-        (2) __CMAQ projects.—__ 
+        (2) __CMAQ__  __projects__  __.—__ 
 
         The Federal share payable on account of a project or program carried out under section 149 with funds obligated in fiscal year 2008 or 2009, or both, shall be not less than 80 percent and, at the discretion of the State, may be up to 100 percent of the cost thereof.
 
         (3) __Innovative project delivery.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             Except as provided in subparagraph (C), the Federal share payable on account of a project, program, or activity carried out with funds apportioned under paragraph (1), (2), or (5) of section 104(b) may, at the discretion of the State, be up to 100 percent for any such project, program, or activity that the Secretary determines—
 
@@ -59,7 +59,7 @@
 
                 (iv) reduces congestion related to highway construction.
 
-            (B) __Examples.—__ 
+            (B)  __Examples__  __.—__ 
 
             Projects, programs, and activities described in subparagraph (A) may include the use of—
 
@@ -75,17 +75,17 @@
 
             (C) __Limitations.—__ 
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 In each fiscal year, a State may use the authority under subparagraph (A) for up to 10 percent of the combined apportionments of the State under paragraphs (1), (2), and (5) of section 104(b).
 
-                (ii) __Federal share increase.—__ 
+                (ii)  __Federal share increase__  __.—__ 
 
                 The Federal share payable on account of a project, program, or activity described in subparagraph (A) may be increased by up to 5 percent of the total project cost.
 
     (d) The Secretary may rely on a statement from the Secretary of the Interior as to the area of the lands referred to in subsections (a) and (b) of this section. The Secretary of the Interior is authorized and directed to provide such statement annually.
 
-    (e) __Emergency Relief.—__ 
+    (e)  __Emergency Relief__  __.—__ 
 
     The Federal share payable for any repair or reconstruction provided for by funds made available under section 125 for any project on a Federal-aid highway, including the Interstate System, shall not exceed the Federal share payable on a project on the system as provided in subsections (a) and (b), except that—
 
@@ -101,43 +101,43 @@
 
     (g) Notwithstanding any other provision of this section or of this title, the Federal share payable on account of any project under this title in the Virgin Islands, Guam, American Samoa, or the Commonwealth of the Northern Mariana Islands shall be 100 per centum of the total cost of the project.
 
-    (h) __Increased Non-Federal Share.—__ 
+    (h)  __Increased Non-Federal Share__  __.—__ 
 
     Notwithstanding any other provision of this title and subject to such criteria as the Secretary may establish, a State may contribute an amount in excess of the non-Federal share of a project under this title so as to decrease the Federal share payable on such project.
 
     (i) __Credit for Non-Federal Share.—__ 
 
-        (1) __Eligibility.—__ 
+        (1)  __Eligibility__  __.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             A State may use as a credit toward the non-Federal share requirement for any funds made available to carry out this title (other than the emergency relief program authorized by section 125) or chapter 53 of title 49 toll revenues that are generated and used by public, quasi-public, and private agencies to build, improve, or maintain highways, bridges, or tunnels that serve the public purpose of interstate commerce.
 
-            (B) __Special rule for use of federal funds.—__ 
+            (B)  __Special rule for use of federal funds__  __.—__ 
 
             If the public, quasi-public, or private agency has built, improved, or maintained the facility using Federal funds, the credit under this paragraph shall be reduced by a percentage equal to the percentage of the total cost of building, improving, or maintaining the facility that was derived from Federal funds.
 
-            (C) __Federal funds defined.—__ 
+            (C)  __Federal funds defined__  __.—__ 
 
             In this paragraph, the term “Federal funds” does not include loans of Federal funds or other financial assistance that must be repaid to the Government.
 
         (2) __Maintenance of effort.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             The credit for any non-Federal share provided under this subsection shall not reduce nor replace State funds required to match Federal funds for any program under this title.
 
-            (B) __Condition on receipt of credit.—__ 
+            (B)  __Condition on receipt of credit__  __.—__ 
 
             To receive a credit under paragraph (1) for a fiscal year, a State shall enter into such agreement as the Secretary may require to ensure that the State will maintain its non-Federal transportation capital expenditures in such fiscal year at or above the average level of such expenditures for the preceding 3 fiscal years; except that if, for any 1 of the preceding 3 fiscal years, the non-Federal transportation capital expenditures of the State were at a level that was greater than 130 percent of the average level of such expenditures for the other 2 of the preceding 3 fiscal years, the agreement shall ensure that the State will maintain its non-Federal transportation capital expenditures in the fiscal year of the credit at or above the average level of such expenditures for the other 2 fiscal years.
 
-            (C) __Transportation capital expenditures defined.—__ 
+            (C)  __Transportation capital expenditures defined__  __.—__ 
 
             In subparagraph (B), the term “non-Federal transportation capital expenditures” includes any payments made by the State for issuance of transportation-related bonds.
 
         (3) __Treatment.—__ 
 
-            (A) __Limitation on liability.—__ 
+            (A)  __Limitation on liability__  __.—__ 
 
             Use of a credit for a non-Federal share under this subsection that is received from a public, quasi-public, or private agency—
 
@@ -145,15 +145,15 @@
 
                 (ii) shall not subject the agency to any additional Federal design standards or laws (including regulations) as a result of providing the non-Federal share other than those to which the agency is already subject.
 
-            (B) __Chartered multistate agencies.—__ 
+            (B)  __Chartered multistate agencies__  __.—__ 
 
             When a credit that is received from a chartered multistate agency is applied to a non-Federal share under this subsection, such credit shall be applied equally to all charter States.
 
-    (j) __Use of Federal Agency Funds.—__ 
+    (j)  __Use of Federal Agency Funds__  __.—__ 
 
     Notwithstanding any other provision of law, any Federal funds other than those made available under this title and title 49 may be used to pay the non-Federal share of the cost of any transportation project that is within, adjacent to, or provides access to Federal land, the Federal share of which is funded under this title or chapter 53 of title 49.
 
-    (k) __Use of Federal Land and Tribal Transportation Funds.—__ 
+    (k)  __Use of Federal Land and Tribal Transportation Funds__  __.—__ 
 
     Notwithstanding any other provision of law, the funds authorized to be appropriated to carry out the tribal transportation program under section 202 and the Federal lands transportation program under section 203 may be used to pay the non-Federal share of the cost of any project that is funded under this title or chapter 53 of title 49 and that provides access to or within Federal or tribal land.
 
@@ -357,15 +357,15 @@
 
 [Pub. L. 102–240, title I, § 1044][/us/pl/102/240/s1044], Dec. 18, 1991, [105 Stat. 1994][/us/stat/105/1994], provided that:
 
->     “(a) __Eligibility.—__ 
+>     “(a)  __Eligibility__  __.—__ 
 
 >     A State may use as a credit toward the non-Federal matching share requirement for all programs under this Act \[see Short Title of 1991 Amendment note set out under [section 101 of Title 49][/us/usc/t49/s101], Transportation\] and title 23, United States Code, toll revenues that are generated and used by public, quasi-public and private agencies to build, improve, or maintain highways, bridges, or tunnels that serve the public purpose of interstate commerce. Such public, quasi-public or private agencies shall have built, improved, or maintained such facilities without Federal funds.
 
->     “(b) __Maintenance of Effort.—__ 
+>     “(b)  __Maintenance of Effort__  __.—__ 
 
 >     The credit for any non-Federal share shall not reduce nor replace State monies required to match Federal funds for any program pursuant to this Act or title 23, United States Code. In receiving a credit for non-Federal capital expenditures under this section, a State shall enter into such agreements as the Secretary may require to ensure that such State will maintain its non-Federal transportation capital expenditures at or above the average level of such expenditures for the preceding three fiscal years.
 
->     “(c) __Treatment.—__ 
+>     “(c)  __Treatment__  __.—__ 
 
 >     Use of such credit for a non-Federal share shall not expose such agencies from which the credit is received to additional liability, additional regulation or additional administrative oversight. When credit is applied from chartered multi-State agencies, such credit shall be applied equally to all charter States. The public, quasi-public, and private agencies from which the credit for which the non-Federal share is calculated shall not be subject to any additional Federal design standards, laws or regulations as a result of providing non-Federal match other than those to which such agency is already subject.”
 
@@ -373,19 +373,19 @@
 
 [Pub. L. 102–240, title I, § 1054][/us/pl/102/240/s1054], Dec. 18, 1991, [105 Stat. 2001][/us/stat/105/2001], provided that:
 
->     “(a) __Waiver of Matching Share.—__ 
+>     “(a)  __Waiver of Matching Share__  __.—__ 
 
 >     Notwithstanding any other provision of law, the Federal share of any qualifying project approved by the Secretary under title 23, United States Code, and of any qualifying project for which the United States becomes obligated to pay under title 23, United States Code, during the period beginning on October 1, 1991, and ending September 30, 1993, shall be the percentage of the construction cost as the State requests, up to and including 100 percent.
 
->     “(b) __Repayment.—__ 
+>     “(b)  __Repayment__  __.—__ 
 
 >     The total amount of increases in the Federal share made pursuant to subsection (a) for any State shall be repaid to the United States by the State on or before March 30, 1994. Payments shall be deposited in the Highway Trust Fund and repaid amounts shall be credited to the appropriate apportionment accounts of the State.
 
->     “(c) __Deduction From Apportionments.—__ 
+>     “(c)  __Deduction From Apportionments__  __.—__ 
 
 >     If a State has not made the repayment as required by subsection (b), the Secretary shall deduct from funds apportioned to the State under title 23, United States Code, in each of the fiscal years 1995 and 1996, a pro rata share of each category of apportioned funds. The amount which shall be deducted in each fiscal year shall be equal to 50 percent of the amount needed for repayment. Any amount deducted under this subsection shall be reapportioned for fiscal years 1995 and 1996 in accordance with title 23, United States Code, to those States which have not received a higher Federal share under this section and to those States which have made the repayment required by subsection (b).
 
->     “(d) __Qualifying Project Defined.—__ 
+>     “(d)  __Qualifying Project Defined__  __.—__ 
 
 >     For purposes of this section, the term ‘qualifying project’ means a project approved by the Secretary after the effective date of this title \[Dec. 18, 1991\], or a project for which the United States becomes obligated to pay after such effective date, and for which the Governor of the State submitting the project has certified, in accordance with regulations established by the Secretary, that sufficient funds are not available to pay the cost of the non-Federal share of the project.”
 
@@ -407,7 +407,7 @@
 
 [Pub. L. 95–599, title V, § 507][/us/pl/95/599/s507], Nov. 6, 1978, [92 Stat. 2761][/us/stat/92/2761], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary of the Treasury, in consultation with the Secretary of Transportation and the staff of the Joint Committee on Taxation, shall—
 
@@ -423,7 +423,7 @@
 
 >         The recommendations described in paragraph (2) shall be formulated in conjunction with the recommendations of the cost allocation study under section 506 set out as note under [section 307 of this title][/us/usc/t23/s307] of the equitable distribution of the highway excise taxes.
 
->     “(b) __Interim Reports.—__ 
+>     “(b)  __Interim Reports__  __.—__ 
 
 >     The Secretary of the Treasury, in consultation with the Secretary of Transportation and the staff of the Joint Committee on Taxation, shall file an interim report with the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate on or before April 15, 1980, and a second interim report on or before April 15, 1981.”
 

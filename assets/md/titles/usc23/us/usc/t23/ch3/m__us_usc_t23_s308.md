@@ -15,17 +15,17 @@
 
 ## § 308. Cooperation with Federal and State agencies and foreign countries
 
-    (a) __Authorized Activities.—__ 
+    (a)  __Authorized Activities__  __.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The Secretary may perform, by contract or otherwise, authorized engineering or other services in connection with the survey, construction, maintenance, or improvement of highways for other Federal agencies, cooperating foreign countries, and State cooperating agencies.
 
-        (2) __Inclusions.—__ 
+        (2)  __Inclusions__  __.—__ 
 
         Services authorized under paragraph (1) may include activities authorized under section 214 of the Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970.
 
-        (3) __Reimbursement.—__ 
+        (3)  __Reimbursement__  __.—__ 
 
         Reimbursement for services carried out under this subsection (including depreciation on engineering and road-building equipment) shall be credited to the applicable appropriation.
 

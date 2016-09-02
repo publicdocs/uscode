@@ -15,7 +15,7 @@
 
 ## § 115. Advance construction
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     The Secretary may authorize a State to proceed with a project authorized under this title—
 
@@ -29,11 +29,11 @@
 
             (B) with obligation authority previously allocated to the State.
 
-    (b) __Obligation of Federal Share.—__ 
+    (b)  __Obligation of Federal Share__  __.—__ 
 
     The Secretary, on the request of a State and execution of a project agreement, may obligate all or a portion of the Federal share of a project authorized to proceed under this section from any category of funds for which the project is eligible.
 
-    (c) __Inclusion in Transportation Improvement Program.—__ 
+    (c)  __Inclusion in Transportation Improvement Program__  __.—__ 
 
     The Secretary may approve an application for a project under this section only if the project is included in the transportation improvement program of the State developed under section 135(f).
 

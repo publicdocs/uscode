@@ -15,13 +15,13 @@
 
 ## § 402. Highway safety programs
 
-    (a) __Program Required.—__ 
+    (a)  __Program Required__  __.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Each State shall have a highway safety program, approved by the Secretary, that is designed to reduce traffic accidents and the resulting deaths, injuries, and property damage.
 
-        (2) __Uniform guidelines.—__ 
+        (2)  __Uniform guidelines__  __.—__ 
 
         Programs required under paragraph (1) shall comply with uniform guidelines, promulgated by the Secretary and expressed in terms of performance criteria, that—
 
@@ -71,7 +71,7 @@
 
     (b) __Administration of State Programs.—__ 
 
-        (1) __Administrative requirements.—__ 
+        (1)  __Administrative requirements__  __.—__ 
 
         The Secretary may not approve a State highway safety program under this section which does not—
 
@@ -99,31 +99,31 @@
 
                 (v) ensuring that the State will coordinate its highway safety plan, data collection, and information systems with the State strategic highway safety plan (as defined in section 148(a)).
 
-        (2) __Waiver.—__ 
+        (2)  __Waiver__  __.—__ 
 
         The Secretary may waive the requirement of paragraph (1)(C), in whole or in part, for a fiscal year for any State whenever the Secretary determines that there is an insufficient number of local highway safety programs to justify the expenditure in the State of such percentage of Federal funds during the fiscal year.
 
-    (c) __Use of Funds.—__ 
+    (c)  __Use of Funds__  __.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Funds authorized to be appropriated to carry out this section shall be used to aid the States to conduct the highway safety programs approved in accordance with subsection (a), including development and implementation of manpower training programs, and of demonstration programs that the Secretary determines will contribute directly to the reduction of accidents, and deaths and injuries resulting therefrom.
 
-        (2) __Apportionment.—__ 
+        (2)  __Apportionment__  __.—__ 
 
         Except for amounts identified in section 403(f), funds described in paragraph (1) shall be apportioned 75 per centum in the ratio which the population of each State bears to the total population of all the States, as shown by the latest available Federal census, and 25 per centum in the ratio which the public road mileage in each State bears to the total public road mileage in all States. For the purposes of this subsection, a “public road” means any road under the jurisdiction of and maintained by a public authority and open to public travel. Public road mileage as used in this subsection shall be determined as of the end of the calendar year preceding the year in which the funds are apportioned and shall be certified to by the Governor of the State and subject to approval by the Secretary. The annual apportionment to each State shall not be less than three-quarters of 1 percent of the total apportionment, except that the apportionment to the Secretary of the Interior shall not be less than 2 percent of the total apportionment and the apportionments to the Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands shall not be less than one-quarter of 1 per centum of the total apportionment. A highway safety program approved by the Secretary shall not include any requirement that a State implement such a program by adopting or enforcing any law, rule, or regulation based on a guideline promulgated by the Secretary under this section requiring any motorcycle operator eighteen years of age or older or passenger eighteen years of age or older to wear a safety helmet when operating or riding a motorcycle on the streets and highways of that State. Implementation of a highway safety program under this section shall not be construed to require the Secretary to require compliance with every uniform guideline, or with every element of every uniform guideline, in every State. A State may use the funds apportioned under this section, in cooperation with neighboring States, for highway safety programs or related projects that may confer benefits on such neighboring States. Funds apportioned under this section to any State, that does not have a highway safety program approved by the Secretary or that is not implementing an approved program, shall be reduced by amounts equal to not less than 20 percent of the amounts that would otherwise be apportioned to the State under this section, until such time as the Secretary approves such program or determines that the State is implementing an approved program, as appropriate. The Secretary shall consider the gravity of the State’s failure to have or implement an approved program in determining the amount of the reduction.
 
-        (3) __Reapportionment.—__ 
+        (3)  __Reapportionment__  __.—__ 
 
         The Secretary shall promptly apportion the funds withheld from a State’s apportionment to the State if the Secretary approves the State’s highway safety program or determines that the State has begun implementing an approved program, as appropriate, not later than July 31st of the fiscal year for which the funds were withheld. If the Secretary determines that the State did not correct its failure within such period, the Secretary shall reapportion the withheld funds to the other States in accordance with the formula specified in paragraph (2) not later than the last day of the fiscal year.
 
-        (4) __Automated traffic enforcement systems.—__ 
+        (4)  __Automated traffic enforcement systems__  __.—__ 
 
-            (A) __Prohibition.—__ 
+            (A)  __Prohibition__  __.—__ 
 
             A State may not expend funds apportioned to that State under this section to carry out a program to purchase, operate, or maintain an automated traffic enforcement system.
 
-            (B) __Automated traffic enforcement system defined.—__ 
+            (B)  __Automated traffic enforcement system defined__  __.—__ 
 
             In this paragraph, the term “automated traffic enforcement system” means any camera which captures an image of a vehicle for the purposes only of red light and speed enforcement, and does not include hand held radar and other devices operated by law enforcement officers to make an on-the-scene traffic stop, issue a traffic citation, or other enforcement action at the time of the violation.
 
@@ -133,9 +133,9 @@
 
     (f) The Secretary may make arrangements with other Federal departments and agencies for assistance in the preparation of uniform guidelines for the highway safety programs contemplated by subsection (a) and in the administration of such programs. Such departments and agencies are directed to cooperate in such preparation and administration, on a reimbursable basis.
 
-    (g) __Savings Provision.—__ 
+    (g)  __Savings Provision__  __.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Except as provided under paragraph (2), nothing in this section may be construed to authorize the appropriation or expenditure of funds for—
 
@@ -143,25 +143,25 @@
 
             (B) any purpose for which funds are authorized under section 403.
 
-        (2) __Demonstration projects.—__ 
+        (2)  __Demonstration projects__  __.—__ 
 
         A State may use funds made available to carry out this section to assist in demonstration projects carried out by the Secretary under section 403.
 
     (h) __Application in Indian Country.—__ 
 
-        (1) __Use of terms.—__ 
+        (1)  __Use of terms__  __.—__ 
 
         For the purpose of application of this section in Indian country, the terms “State” and “Governor of a State” include the Secretary of the Interior and the term “political subdivision of a State” includes an Indian tribe.
 
-        (2) __Expenditures for local highway programs.—__ 
+        (2)  __Expenditures for local highway programs__  __.—__ 
 
         Notwithstanding subsection (b)(1)(C), 95 percent of the funds apportioned to the Secretary of the Interior under this section shall be expended by Indian tribes to carry out highway safety programs within their jurisdictions.
 
-        (3) __Access for individuals with disabilities.—__ 
+        (3)  __Access for individuals with disabilities__  __.—__ 
 
         The requirements of subsection (b)(1)(D) shall be applicable to Indian tribes, except to those tribes with respect to which the Secretary determines that application of such provisions would not be practicable.
 
-        (4) __Indian country defined.—__ 
+        (4)  __Indian country defined__  __.—__ 
 
         In this subsection, the term “Indian country” means—
 
@@ -171,25 +171,25 @@
 
             (C) all Indian allotments, the Indian titles to which have not been extinguished, including rights-of-way running through such allotments.
 
-    (i) __Rulemaking Proceeding.—__ 
+    (i)  __Rulemaking Proceeding__  __.—__ 
 
     The Secretary may periodically conduct a rulemaking process to identify highway safety programs that are highly effective in reducing motor vehicle crashes, injuries, and deaths. Any such rulemaking shall take into account the major role of the States in implementing such programs. When a rule promulgated in accordance with this section takes effect, States shall consider these highly effective programs when developing their highway safety programs.
 
-    (j) __Law Enforcement Vehicular Pursuit Training.—__ 
+    (j)  __Law Enforcement Vehicular Pursuit Training__  __.—__ 
 
     A State shall actively encourage all relevant law enforcement agencies in such State to follow the guidelines established for vehicular pursuits issued by the International Association of Chiefs of Police that are in effect on the date of enactment of this subsection or as revised and in effect after such date as determined by the Secretary.
 
-    (k) __Highway Safety Plan and Reporting Requirements.—__ 
+    (k)  __Highway Safety Plan and Reporting Requirements__  __.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         With respect to fiscal year 2014, and each fiscal year thereafter, the Secretary shall require each State, as a condition of the approval of the State’s highway safety program for that fiscal year, to develop and submit to the Secretary for approval a highway safety plan that complies with the requirements under this subsection.
 
-        (2) __Timing.—__ 
+        (2)  __Timing__  __.—__ 
 
         Each State shall submit to the Secretary the highway safety plan not later than July 1st of the fiscal year preceding the fiscal year to which the plan applies.
 
-        (3) __Contents.—__ 
+        (3)  __Contents__  __.—__ 
 
         State highway safety plans submitted under paragraph (1) shall include—
 
@@ -213,19 +213,19 @@
 
             (F) an application for any additional grants available to the State under this chapter.
 
-        (4) __Performance measures.—__ 
+        (4)  __Performance measures__  __.—__ 
 
         For the first highway safety plan submitted under this subsection, the performance measures required by the Secretary under paragraph (2)(A) shall be limited to those developed by the National Highway Traffic Safety Administration and the Governor’s Highway Safety Association and described in the report, “Traffic Safety Performance Measures for States and Federal Agencies” (DOT HS 811 025). For subsequent highway safety plans, the Secretary shall coordinate with the Governor’s Highway Safety Association in making revisions to the set of required performance measures.
 
-        (5) __Review of highway safety plans.—__ 
+        (5)  __Review of highway safety plans__  __.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             Not later than 60 days after the date on which a State’s highway safety plan is received by the Secretary, the Secretary shall review and approve or disapprove the plan.
 
-            (B) __Approvals and disapprovals.—__ 
+            (B)  __Approvals and disapprovals__  __.—__ 
 
-                (i) __Approvals.—__ 
+                (i)  __Approvals__  __.—__ 
 
                 The Secretary shall approve a State’s highway safety plan if the Secretary determines that—
 
@@ -233,7 +233,7 @@
 
                     (II) the plan, once implemented, will allow the State to meet the State’s performance targets.
 
-                (ii) __Disapprovals.—__ 
+                (ii)  __Disapprovals__  __.—__ 
 
                 The Secretary shall disapprove a State’s highway safety plan if the Secretary determines that—
 
@@ -241,7 +241,7 @@
 
                     (II) the plan does not provide for programming of funding in a manner sufficient to allow the State to meet the State’s performance targets.
 
-            (C) __Actions upon disapproval.—__ 
+            (C)  __Actions upon disapproval__  __.—__ 
 
             If the Secretary disapproves a State’s highway safety plan, the Secretary shall—
 
@@ -249,23 +249,23 @@
 
                 (ii) require the State to resubmit the plan with any modifications that the Secretary determines to be necessary.
 
-            (D) __Review of resubmitted plans.—__ 
+            (D)  __Review of resubmitted plans__  __.—__ 
 
             If the Secretary requires a State to resubmit a highway safety plan, with modifications, the Secretary shall review and approve or disapprove the modified plan not later than 30 days after the date on which the Secretary receives such plan.
 
-            (E) __Public notice.—__ 
+            (E)  __Public notice__  __.—__ 
 
             A State shall make the State’s highway safety plan, and decisions of the Secretary concerning approval or disapproval of a revised plan, available to the public.
 
     \[(l) redesignated (j).\]
 
-    (m) __Teen Traffic Safety.—__ 
+    (m)  __Teen Traffic Safety__  __.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Subject to the requirements of a State’s highway safety plan, as approved by the Secretary under subsection (k), a State may use a portion of the amounts received under this section to implement statewide efforts to improve traffic safety for teen drivers.
 
-        (2) __Use of funds.—__ 
+        (2)  __Use of funds__  __.—__ 
 
         Statewide efforts under paragraph (1)—
 
@@ -303,7 +303,7 @@
 
                 (viii) establishing partnerships and promoting coordination among community stakeholders, including public, not-for-profit, and for profit entities.
 
-    (n) __Biennial Report to Congress.—__ 
+    (n)  __Biennial Report to Congress__  __.—__ 
 
     Not later than October 1, 2015, and biennially thereafter, the Secretary shall submit a report to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate that contains—
 
@@ -521,15 +521,15 @@
 
 [Pub. L. 112–141, div. C, title I, § 31101(d)][/us/pl/112/141/s31101/d]–(f), July 6, 2012, [126 Stat. 733][/us/stat/126/733], provided that:
 
->     “(d) __Regulatory Authority.—__ 
+>     “(d)  __Regulatory Authority__  __.—__ 
 
 >     Grants awarded under this subtitle \[subtitle A (§§ 31101–31109) of title I of div. C of [Pub. L. 112–141][/us/pl/112/141], see Tables for classification\] shall be in accordance with regulations issued by the Secretary \[of Transportation\].
 
->     “(e) __State Matching Requirements.—__ 
+>     “(e)  __State Matching Requirements__  __.—__ 
 
 >     If a grant awarded under this subtitle requires a State to share in the cost, the aggregate of all expenditures for highway safety activities made during any fiscal year by the State and its political subdivisions (exclusive of Federal funds) for carrying out the grant (other than planning and administration) shall be available for the purpose of crediting the State during such fiscal year for the non-Federal share of the cost of any project under this subtitle (other than planning or administration) without regard to whether such expenditures were actually made in connection with such project.
 
->     “(f) __Grant Application and Deadline.—__ 
+>     “(f)  __Grant Application and Deadline__  __.—__ 
 
 >     To receive a grant under this subtitle, a State shall submit an application, and the Secretary shall establish a single deadline for such applications to enable the award of grants early in the next fiscal year.”
 
@@ -537,11 +537,11 @@
 
 [Pub. L. 109–59, title I, § 1404][/us/pl/109/59/s1404], Aug. 10, 2005, [119 Stat. 1228][/us/stat/119/1228], as amended by [Pub. L. 110–244, § 101(s)(2)][/us/pl/110/244/s101/s/2], June 6, 2008, [122 Stat. 1577][/us/stat/122/1577], provided that:
 
->     “(a) __Establishment.—__ 
+>     “(a)  __Establishment__  __.—__ 
 
 >     Subject to the requirements of this section, the Secretary \[of Transportation\] shall establish and carry out a safe routes to school program for the benefit of children in primary and middle schools.
 
->     “(b) __Purposes.—__ 
+>     “(b)  __Purposes__  __.—__ 
 
 >     The purposes of the program shall be—
 
@@ -553,7 +553,7 @@
 
 >     “(c) __Apportionment of Funds.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Subject to paragraphs (2), (3), and (4), amounts made available to carry out this section for a fiscal year shall be apportioned among the States in the ratio that—
 
@@ -561,23 +561,23 @@
 
 >             “(B) the total student enrollment in primary and middle schools in all States.
 
->         “(2) __Minimum apportionment.—__ 
+>         “(2)  __Minimum apportionment__  __.—__ 
 
 >         No State shall receive an apportionment under this section for a fiscal year of less than $1,000,000.
 
->         “(3) __Set-aside for administrative expenses.—__ 
+>         “(3)  __Set-aside for administrative expenses__  __.—__ 
 
 >         Before apportioning under this subsection amounts made available to carry out this section for a fiscal year, the Secretary \[of Transportation\] shall set aside not more than $3,000,000 of such amounts for the administrative expenses of the Secretary in carrying out this subsection.
 
->         “(4) __Determination of student enrollments.—__ 
+>         “(4)  __Determination of student enrollments__  __.—__ 
 
 >         Determinations under this subsection concerning student enrollments shall be made by the Secretary.
 
->     “(d) __Administration of Amounts.—__ 
+>     “(d)  __Administration of Amounts__  __.—__ 
 
 >     Amounts apportioned to a State under this section shall be administered by the State’s department of transportation.
 
->     “(e) __Eligible Recipients.—__ 
+>     “(e)  __Eligible Recipients__  __.—__ 
 
 >     Amounts apportioned to a State under this section shall be used by the State to provide financial assistance to State, local, tribal, and regional agencies, including nonprofit organizations, that demonstrate an ability to meet the requirements of this section.
 
@@ -585,31 +585,31 @@
 
 >         “(1) __Infrastructure-related projects.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             Amounts apportioned to a State under this section may be used for the planning, design, and construction of infrastructure-related projects that will substantially improve the ability of students to walk and bicycle to school, including sidewalk improvements, traffic calming and speed reduction improvements, pedestrian and bicycle crossing improvements, on-street bicycle facilities, off-street bicycle and pedestrian facilities, secure bicycle parking facilities, and traffic diversion improvements in the vicinity of schools.
 
->             “(B) __Location of projects.—__ 
+>             “(B)  __Location of projects__  __.—__ 
 
 >             Infrastructure-related projects under subparagraph (A) may be carried out on any public road or any bicycle or pedestrian pathway or trail in the vicinity of schools.
 
 >         “(2) __Noninfrastructure-related activities.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             In addition to projects described in paragraph (1), amounts apportioned to a State under this section may be used for noninfrastructure-related activities to encourage walking and bicycling to school, including public awareness campaigns and outreach to press and community leaders, traffic education and enforcement in the vicinity of schools, student sessions on bicycle and pedestrian safety, health, and environment, and funding for training, volunteers, and managers of safe routes to school programs.
 
->             “(B) __Allocation.—__ 
+>             “(B)  __Allocation__  __.—__ 
 
 >             Not less than 10 percent and not more than 30 percent of the amount apportioned to a State under this section for a fiscal year shall be used for noninfrastructure-related activities under this subparagraph.
 
->         “(3) __Safe routes to school coordinator.—__ 
+>         “(3)  __Safe routes to school coordinator__  __.—__ 
 
 >         Each State receiving an apportionment under this section for a fiscal year shall use a sufficient amount of the apportionment to fund a full-time position of coordinator of the State’s safe routes to school program.
 
 >     “(g) __Clearinghouse.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Secretary \[of Transportation\] shall make grants to a national nonprofit organization engaged in promoting safe routes to schools to—
 
@@ -619,41 +619,41 @@
 
 >             “(C) provide technical assistance and disseminate techniques and strategies used for successful safe routes to school programs.
 
->         “(2) __Funding.—__ 
+>         “(2)  __Funding__  __.—__ 
 
 >         The Secretary shall carry out this subsection using amounts set aside for administrative expenses under subsection (c)(3).
 
 >     “(h) __Task Force.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Secretary \[of Transportation\] shall establish a national safe routes to school task force composed of leaders in health, transportation, and education, including representatives of appropriate Federal agencies, to study and develop a strategy for advancing safe routes to school programs nationwide.
 
->         “(2) __Report.—__ 
+>         “(2)  __Report__  __.—__ 
 
 >         Not later than March 31, 2006, the Secretary shall submit to Congress a report containing the results of the study conducted, and a description of the strategy developed, under paragraph (1) and information regarding the use of funds for infrastructure-related and noninfrastructure-related activities under paragraphs (1) and (2) of subsection (f).
 
->         “(3) __Funding.—__ 
+>         “(3)  __Funding__  __.—__ 
 
 >         The Secretary shall carry out this subsection using amounts set aside for administrative expenses under subsection (c)(3).
 
->     “(i) __Applicability of Title 23.—__ 
+>     “(i)  __Applicability of Title__  __23.—__ 
 
 >     Funds made available to carry out this section shall be available for obligation in the same manner as if such funds were apportioned under chapter 1 of title 23, United States Code; except that such funds shall not be transferable and shall remain available until expended, and the Federal share of the cost of a project or activity under this section shall be 100 percent.
 
->     “(j) __Treatment of Projects.—__ 
+>     “(j)  __Treatment of Projects__  __.—__ 
 
 >     Notwithstanding any other provision of law, projects assisted under this subsection shall be treated as projects on a Federal-aid system under chapter 1 of title 23, United States Code.
 
->     “(k) __Definitions.—__ 
+>     “(k)  __Definitions__  __.—__ 
 
 >     In this section, the following definitions apply:
 
->         “(1) __In the vicinity of schools.—__ 
+>         “(1)  __In the vicinity of schools__  __.—__ 
 
 >         The term ‘in the vicinity of schools’ means, with respect to a school, the area within bicycling and walking distance of the school (approximately 2 miles).
 
->         “(2) __Primary and middle schools.—__ 
+>         “(2)  __Primary and middle schools__  __.—__ 
 
 >         The term ‘primary and middle schools’ means schools providing education from kindergarten through eighth grade.”
 
@@ -663,7 +663,7 @@
 
 >     “(a) __Road Safety.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Secretary \[of Transportation\] shall enter into an agreement to assist in the activities of a national nonprofit organization that is dedicated solely to improving public road safety—
 
@@ -673,17 +673,17 @@
 
 >             “(C) by promoting public road safety research and technology transfer activities.
 
->         “(2) __Funding.—__ 
+>         “(2)  __Funding__  __.—__ 
 
 >         There is authorized to be appropriated from the Highway Trust Fund (other than the Mass Transit Account) $500,000 for each of fiscal years 2006 through 2009 to carry out this subsection.
 
->         “(3) __Applicability of title 23.—__ 
+>         “(3)  __Applicability of title 23__  __.—__ 
 
 >         Funds made available by this subsection shall be available for obligation in the same manner as if such funds were apportioned under chapter 1 of title 23, United States Code, except that the funds shall remain available until expended.
 
 >     “(b) __Bicycle and Pedestrian Safety Grants.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Secretary \[of Transportation\] shall make grants to a national, not-for-profit organization engaged in promoting bicycle and pedestrian safety—
 
@@ -693,11 +693,11 @@
 
 >             “(C) to disseminate techniques and strategies for improving bicycle and pedestrian safety.
 
->         “(2) __Funding.—__ 
+>         “(2)  __Funding__  __.—__ 
 
 >         There is authorized to be appropriated from the Highway Trust Fund (other than the Mass Transit Account) $300,000 for fiscal year 2005 and $500,000 for each of fiscal years 2006 through 2009 to carry out this subsection.
 
->         “(3) __Applicability of title 23.—__ 
+>         “(3)  __Applicability of title 23__  __.—__ 
 
 >         Funds made available by this subsection shall be available for obligation in the same manner as if such funds were apportioned under chapter 1 of title 23, United States Code, except that the funds shall remain available until expended.”
 
@@ -705,7 +705,7 @@
 
 [Pub. L. 109–59, title I, § 1906][/us/pl/109/59/s1906], Aug. 10, 2005, [119 Stat. 1468][/us/stat/119/1468], provided that:
 
->     “(a) __Grants.—__ 
+>     “(a)  __Grants__  __.—__ 
 
 >     Subject to the requirements of this section, the Secretary \[of Transportation\] shall make grants to a State that—
 
@@ -717,7 +717,7 @@
 
 >         “(2) provides assurances satisfactory to the Secretary that the State is undertaking activities to comply with the requirements of paragraph (1).
 
->     “(b) __Eligible Activities.—__ 
+>     “(b)  __Eligible Activities__  __.—__ 
 
 >     A grant received by a State under subsection (a) shall be used by the State—
 
@@ -741,31 +741,31 @@
 
 >     “(c) __Racial Profiling.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         To meet the requirement of subsection (a)(1), a State law shall prohibit, in the enforcement of State laws regulating the use of Federal-aid highways, a State or local law enforcement officer from using the race or ethnicity of the driver or passengers to any degree in making routine or spontaneous law enforcement decisions, such as ordinary traffic stops on Federal-aid highways.
 
->         “(2) __Limitation.—__ 
+>         “(2)  __Limitation__  __.—__ 
 
 >         Nothing in this subsection shall alter the manner in which a State or local law enforcement officer considers race or ethnicity whenever there is trustworthy information, relevant to the locality or time frame, that links persons of a particular race or ethnicity to an identified criminal incident, scheme, or organization.
 
 >     “(d) __Limitations.—__ 
 
->         “(1) __Maximum amount of grants.—__ 
+>         “(1)  __Maximum amount of grants__  __.—__ 
 
 >         The total amount of grants made to a State under this section in a fiscal year may not exceed 5 percent of the amount made available to carry out this section in the fiscal year.
 
->         “(2) __Eligibility.—__ 
+>         “(2)  __Eligibility__  __.—__ 
 
 >         A State may not receive a grant under subsection (a)(2) in more than 2 fiscal years.
 
 >     “(e) __Authorization of Appropriations.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         There is authorized to be appropriated from the Highway Trust Fund (other than the Mass Transit Account) to carry out this section $7,500,000 for each of fiscal years 2005 through 2009.
 
->         “(2) __Contract authority.—__ 
+>         “(2)  __Contract authority__  __.—__ 
 
 >         Funds authorized by this subsection shall be available for obligation in the same manner as if the funds were apportioned under chapter 1 of title 23, United States Code, except the Federal share of the cost of activities carried out using such funds shall be 80 percent, and such funds shall remain available until expended and shall not be transferable.”
 
@@ -773,11 +773,11 @@
 
 [Pub. L. 109–59, title II, § 2009][/us/pl/109/59/s2009], Aug. 10, 2005, [119 Stat. 1535][/us/stat/119/1535], as amended by [Pub. L. 111–147, title IV, § 421(h)(1)][/us/pl/111/147/s421/h/1], Mar. 18, 2010, [124 Stat. 85][/us/stat/124/85]; [Pub. L. 112–30, title I, § 121(h)(1)][/us/pl/112/30/s121/h/1], Sept. 16, 2011, [125 Stat. 347][/us/stat/125/347]; [Pub. L. 112–141, div. C, title I, § 31106][/us/pl/112/141/s31106], July 6, 2012, [126 Stat. 755][/us/stat/126/755], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Administrator of the National Highway Traffic Safety Administration shall establish and administer a program under which at least 3 high-visibility traffic safety law enforcement campaigns will be carried out for the purposes specified in subsection (b) in each of fiscal years 2013 and 2014. The Administrator may also initiate and support additional campaigns in each of fiscal years 2013 and 2014 for the purposes specified in subsection (b).
 
->     “(b) __Purpose.—__ 
+>     “(b)  __Purpose__  __.—__ 
 
 >     The purpose of each law enforcement campaign under this section shall be to achieve outcomes related to at least 1 of the following objectives:
 
@@ -785,11 +785,11 @@
 
 >         “(2) Increase use of seat belts by occupants of motor vehicles.
 
->     “(c) __Advertising.—__ 
+>     “(c)  __Advertising__  __.—__ 
 
 >     The Administrator may use, or authorize the use of, funds available to carry out this section to pay for the development, production, and use of broadcast and print media advertising and Internet-based outreach in carrying out traffic safety law enforcement campaigns under this section. Consideration shall be given to advertising directed at non-English speaking populations, including those who listen, read, or watch nontraditional media.
 
->     “(d) __Coordination With States.—__ 
+>     “(d)  __Coordination With States__  __.—__ 
 
 >     The Administrator shall coordinate with the States in carrying out the traffic safety law enforcement campaigns under this section, including advertising funded under subsection (c), with a view to—
 
@@ -797,11 +797,11 @@
 
 >         “(2) providing out of National Highway Traffic Safety Administration resources most of the means necessary for national advertising and education efforts associated with the law enforcement campaigns.
 
->     “(e) __Use of Funds.—__ 
+>     “(e)  __Use of Funds__  __.—__ 
 
 >     Funds made available to carry out this section may only be used for activities described in subsection (c).
 
->     “(f) __State Defined.—__ 
+>     “(f)  __State Defined__  __.—__ 
 
 >     The term ‘State’ has the meaning such term has under [section 401 of title 23][/us/usc/t23/s401], United States Code.”
 
@@ -821,15 +821,15 @@
 
 [Pub. L. 105–178, title I, § 1202(e)][/us/pl/105/178/s1202/e], June 9, 1998, [112 Stat. 170][/us/stat/112/170], provided that:
 
->     “(1) __Development.—__ 
+>     “(1)  __Development__  __.—__ 
 
 >     The Secretary is authorized to develop a national bicycle safety education curriculum that may include courses relating to on-road training.
 
->     “(2) __Report.—__ 
+>     “(2)  __Report__  __.—__ 
 
 >     Not later than 12 months after the date of enactment of this Act \[June 9, 1998\], the Secretary shall transmit to Congress a copy of the curriculum.
 
->     “(3) __Funding.—__ 
+>     “(3)  __Funding__  __.—__ 
 
 >     From amounts made available under section 210 \[probably should be section 206\], the Secretary may use not to exceed $500,000 for fiscal year 1999 to carry out this subsection.”
 
@@ -837,7 +837,7 @@
 
 [Pub. L. 105–178, title I, § 1212(i)][/us/pl/105/178/s1212/i], formerly § 1212(o), June 9, 1998, [112 Stat. 196][/us/stat/112/196]; renumbered § 1212(i), [Pub. L. 105–206, title IX, § 9003(e)(5)][/us/pl/105/206/s9003/e/5], July 22, 1998, [112 Stat. 840][/us/stat/112/840], and amended by [Pub. L. 108–88, § 5(a)(8)][/us/pl/108/88/s5/a/8], Sept. 30, 2003, [117 Stat. 1114][/us/stat/117/1114]; [Pub. L. 108–202, § 5(a)(8)][/us/pl/108/202/s5/a/8], Feb. 29, 2004, [118 Stat. 481][/us/stat/118/481]; [Pub. L. 108–224, § 4(a)(8)][/us/pl/108/224/s4/a/8], Apr. 30, 2004, [118 Stat. 629][/us/stat/118/629]; [Pub. L. 108–263, § 4(a)(8)][/us/pl/108/263/s4/a/8], June 30, 2004, [118 Stat. 700][/us/stat/118/700]; [Pub. L. 108–280, § 4(a)(8)][/us/pl/108/280/s4/a/8], July 30, 2004, [118 Stat. 879][/us/stat/118/879]; [Pub. L. 108–310, § 5(a)(8)][/us/pl/108/310/s5/a/8], Sept. 30, 2004, [118 Stat. 1149][/us/stat/118/1149]; [Pub. L. 109–14, § 4(a)(8)][/us/pl/109/14/s4/a/8], May 31, 2005, [119 Stat. 326][/us/stat/119/326]; [Pub. L. 109–20, § 4(a)(8)][/us/pl/109/20/s4/a/8], July 1, 2005, [119 Stat. 348][/us/stat/119/348]; [Pub. L. 109–35, § 4(a)(8)][/us/pl/109/35/s4/a/8], July 20, 2005, [119 Stat. 381][/us/stat/119/381]; [Pub. L. 109–37, § 4(a)(8)][/us/pl/109/37/s4/a/8], July 22, 2005, [119 Stat. 396][/us/stat/119/396]; [Pub. L. 109–40, § 4(a)(8)][/us/pl/109/40/s4/a/8], July 28, 2005, [119 Stat. 412][/us/stat/119/412]; [Pub. L. 109–59, title I, § 1111(b)(4)][/us/pl/109/59/s1111/b/4], Aug. 10, 2005, [119 Stat. 1171][/us/stat/119/1171], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The Secretary shall make grants to a national, not-for-profit organization engaged in promoting bicycle and pedestrian safety—
 
@@ -847,11 +847,11 @@
 
 >         “(C) to disseminate techniques and strategies for improving bicycle and pedestrian safety.
 
->     “(2) __Authorization of appropriations.—__ 
+>     “(2)  __Authorization of appropriations__  __.—__ 
 
 >     There is authorized to be appropriated out of the Highway Trust Fund (other than the Mass Transit Account) to carry out this subsection $500,000 for each of fiscal years 1998 through 2004 and $415,000 for the period of October 1, 2004, through July 30, 2005.
 
->     “(3) __Applicability of title 23.—__ 
+>     “(3)  __Applicability of title 23__  __.—__ 
 
 >     Funds authorized by this subsection shall be available for obligation in the same manner as if such funds were apportioned under chapter 1 of title 23, United States Code, except that the funds shall remain available until expended.”
 
@@ -859,15 +859,15 @@
 
 [Pub. L. 105–178, title II, § 2001(f)][/us/pl/105/178/s2001/f], June 9, 1998, [112 Stat. 325][/us/stat/112/325], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     For fiscal years 1999 and 2000, the Secretary shall allow any State to use funds apportioned to the State under [section 402 of title 23][/us/usc/t23/s402], United States Code, to purchase television and radio time for highway safety public service messages.
 
->     “(2) __Reports by states.—__ 
+>     “(2)  __Reports by states__  __.—__ 
 
 >     Any State that uses funds described in paragraph (1) for purchasing television and radio time for highway safety public service messages shall submit to the Secretary a report describing, and assessing the effectiveness of, the messages.
 
->     “(3) __Study.—__ 
+>     “(3)  __Study__  __.—__ 
 
 >     Based on information contained in the reports submitted under paragraph (2), the Secretary shall prepare and transmit to Congress a report on the effectiveness of purchasing television and radio time for highway safety public service messages using funds described in paragraph (1).”
 
@@ -885,7 +885,7 @@
 
 [Pub. L. 100–641, § 3][/us/pl/100/641/s3], Nov. 9, 1988, [102 Stat. 3335][/us/stat/102/3335], provided that:
 
->     “(a) __Regulations.—__ 
+>     “(a)  __Regulations__  __.—__ 
 
 >     Not later than the 180th day following the date of the enactment of this Act \[Nov. 9, 1988\], the Secretary of Transportation shall issue regulations—
 
@@ -895,11 +895,11 @@
 
 >         In issuing such regulations, the Secretary shall consult the States.
 
->     “(b) __Definitions.—__ 
+>     “(b)  __Definitions__  __.—__ 
 
 >     For purposes of this section—
 
->         “(1) __Uniform system for handicapped parking.—__ 
+>         “(1)  __Uniform system for handicapped parking__  __.—__ 
 
 >         A uniform system for handicapped parking designed to enhance the safety of handicapped individuals is a system which—
 
@@ -913,7 +913,7 @@
 
 >             “(E) for purposes of easy access parking, recognizes licenses and placards displaying the International Symbol of Access which have been issued by other States and countries.
 
->         “(2) __State.—__ 
+>         “(2)  __State__  __.—__ 
 
 >         The term ‘State’ has the meaning such term has when used in chapter 4 of title 23, United States Code.”
 
@@ -921,7 +921,7 @@
 
 [Pub. L. 100–17, title I, § 161][/us/pl/100/17/s161], Apr. 2, 1987, [101 Stat. 212][/us/stat/101/212], provided that:
 
->     “(a) __Study.—__ 
+>     “(a)  __Study__  __.—__ 
 
 >     The Secretary shall conduct a study for the purpose of determining—
 
@@ -929,17 +929,17 @@
 
 >         “(2) whether or not each State should establish parking privileges for handicapped persons and grant to nonresidents of the State the same parking privileges as are granted to residents.
 
->     “(b) __Report.—__ 
+>     “(b)  __Report__  __.—__ 
 
 >     Not later than 180 days after the date of the enactment of this Act \[Apr. 2, 1987\], the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Public Works and Transportation of the House of Representatives a report on the results of the study conducted under subsection (a).
 
 >     “(c) __Development of Proposed Uniform State Law.—__ 
 
->         “(1) __Requirement.—__ 
+>         “(1)  __Requirement__  __.—__ 
 
 >         If the Secretary determines under subsection (a) that each State should establish parking privileges for handicapped persons and grant to nonresidents of the State the same parking privileges as are granted to residents, the Secretary shall develop a proposed uniform State law with respect to parking privileges for handicapped persons and submit a copy of the proposed uniform State law to the Committee on Environment and Public Works of the Senate and the Committee on Public Works and Transportation of the House of Representatives and each State.
 
->         “(2) __Factors to consider.—__ 
+>         “(2)  __Factors to consider__  __.—__ 
 
 >         In developing the proposed uniform State law, the Secretary shall consult with the States and shall consider any advantages—
 
@@ -951,7 +951,7 @@
 
 >             “(D) of designing any identification placard so that the placard is easily visible when placed in the interior of any vehicle.
 
->         “(3) __Report.—__ 
+>         “(3)  __Report__  __.—__ 
 
 >         If a proposed uniform State law with respect to parking privileges for handicapped persons is developed and submitted to the Committee on Environment and Public Works of the Senate and the Committee on Public Works and Transportation \[now Committee on Transportation and Infrastructure\] of the House of Representatives under paragraph (1), within 12 months after the date of such submission and each year thereafter, the Secretary shall report to such committees on the extent to which each State has adopted the proposed uniform State law.”
 
@@ -963,33 +963,33 @@
 
 >     “(a) __Study.—__ 
 
->         “(1) __National academy of sciences.—__ 
+>         “(1)  __National academy of sciences__  __.—__ 
 
 >         Not later than 30 days after the date of the enactment of this Act \[Apr. 2, 1987\], the Secretary shall undertake to enter into appropriate arrangements with the National Academy of Sciences to conduct a comprehensive study and investigation of the principal causes of fatalities and injuries to schoolchildren riding in schoolbuses and of the use of seatbelts in schoolbuses and other measures that may improve the safety of schoolbus transportation. The purpose of the study and investigation is to determine those safety measures that are the most effective in protecting the safety of schoolchildren while boarding, leaving, and riding in schoolbuses.
 
->         “(2) __Report.—__ 
+>         “(2)  __Report__  __.—__ 
 
 >         In entering into any arrangements with the National Academy of Sciences for conducting the study and investigation under this subsection, the Secretary shall request the National Academy of Sciences to submit, not later than 18 months after the date on which such arrangements are completed, to Congress and the Secretary a report on the results of such study and investigation. The report shall contain a list of those safety measures determined by the Academy to be most effective in protecting the safety of schoolchildren while boarding, leaving, and riding in schoolbuses.
 
->         “(3) __Review of report.—__ 
+>         “(3)  __Review of report__  __.—__ 
 
 >         Upon receipt of the report under paragraph (2), the Secretary shall review such report for the purpose of determining those safety measures that are the most effective in protecting the safety of schoolchildren while boarding, leaving, and riding in schoolbuses. Not later than 2 months after the date of receipt of such report, the Secretary shall publish in the Federal Register a list of those safety measures which the Secretary determines are the most effective in protecting the safety of such children.
 
->         “(4) __Information.—__ 
+>         “(4)  __Information__  __.—__ 
 
 >         Upon request of the National Academy of Sciences, the Secretary shall furnish to the Academy any information which the Academy deems necessary for the purpose of conducting the study and investigation under this subsection.
 
 >     “(b) __Schoolbus Safety Grant Program.—__ 
 
->         “(1) __Set-aside.—__ 
+>         “(1)  __Set-aside__  __.—__ 
 
 >         Before apportioning any funds made available to carry out [section 402 of title 23][/us/usc/t23/s402], United States Code, for each of fiscal years 1989, 1990, and 1991, the Secretary may set aside an amount not to exceed $5,000,000 for making grants to States to implement those schoolbus safety measures published by the Secretary under subsection (a).
 
->         “(2) __Application.—__ 
+>         “(2)  __Application__  __.—__ 
 
 >         Any State interested in receiving under this subsection a grant to implement schoolbus safety measures in fiscal year 1989, 1990, or 1991 shall submit to the Secretary an application for such grant. Applications under this subsection shall be submitted at such time and in such form and contain such information as the Secretary may require by regulation.
 
->         “(3) __Limitation.—__ 
+>         “(3)  __Limitation__  __.—__ 
 
 >         No State shall receive more than 30 percent of the funds set aside pursuant to this subsection for any fiscal year in grants under this subsection.”
 
@@ -1067,7 +1067,7 @@
 
  __Ex. Ord. No. 13043. Increasing Seat Belt Use in the United States__ 
 
-    Ex. Ord. No. 13043, Apr. 16, 1997, 62 F.R. 19217, provided:
+    Ex. Ord. No. 13043, Apr. 16, 1997, 62 F.R. 19217, as amended by Ex. Ord. No. 13652, § 5, Sept. 30, 2013, 78 F.R. 61818, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Highway Safety Act of 1966, [23 U.S.C. 402][/us/usc/t23/s402] and 403, as amended, [section 7902(c) of title 5][/us/usc/t5/s7902/c], United States Code, and section 19 of the Occupational Safety and Health Act of 1970, [29 U.S.C. 668][/us/usc/t29/s668], as amended, and in order to require that Federal employees use seat belts while on official business; to require that motor vehicle occupants use seat belts in national park areas and on Department of Defense (“Defense”) installations; to encourage Tribal Governments to adopt and enforce seat belt policies and programs for occupants of motor vehicles traveling on highways in Indian Country; and to encourage Federal contractors, subcontractors, and grantees to adopt and enforce on-the-job seat belt use policies and programs, it is hereby ordered as follows:
 
@@ -1083,11 +1083,9 @@ By the authority vested in me as President by the Constitution and the laws of t
 
     Sec. 3. Coordination. The Secretary of Transportation shall provide leadership and guidance to the heads of executive branch agencies to assist them with the employee seat belt programs established pursuant to this order. The Secretary of Transportation shall also cooperate and consult with the legislative and judicial branches of the Government to encourage and help them to adopt seat belt use programs.
 
-    Sec. 4. Reporting Requirements. The Secretary of Transportation, in cooperation with the heads of executive branch agencies, and after consultation with the judicial and legislative branches of Government, shall submit an annual report to the President. The report shall include seat belt use rates and statistics of crashes, injuries, and related costs involving Federal employees on official business and occupants of motor vehicles driven in national park areas, on Defense installations, and on highways in Indian Country. The report also shall identify specific agency programs that have made significant progress towards achieving the goals of this order or are notable and deserving of recognition. All agencies of the executive branch shall provide information to, and otherwise cooperate with, the Secretary of Transportation to assist with the preparation of the annual report.
+    Sec. 4. Other Powers and Duties. Nothing in this order shall be construed to impair or alter the powers and duties of the heads of the various Federal agencies pursuant to the Highway Safety Act of 1966, [23 U.S.C. 402][/us/usc/t23/s402] and 403, as amended, section 19 of the Occupational Safety and Health Act of 1970, [29 U.S.C. 668][/us/usc/t29/s668], as amended, or sections 7901, 7902, and 7903 of title 5, United States Code, nor shall it be construed to affect any right, duty, or procedure under the National Labor Relations Act, [29 U.S.C. 151][/us/usc/t29/s151] et seq.
 
-    Sec. 5. Other Powers and Duties. Nothing in this order shall be construed to impair or alter the powers and duties of the heads of the various Federal agencies pursuant to the Highway Safety Act of 1966, [23 U.S.C. 402][/us/usc/t23/s402] and 403, as amended, section 19 of the Occupational Safety and Health Act of 1970, [29 U.S.C. 668][/us/usc/t29/s668], as amended, or sections 7901, 7902, and 7903 of title 5, United States Code, nor shall it be construed to affect any right, duty, or procedure under the National Labor Relations Act, [29 U.S.C. 151][/us/usc/t29/s151] et seq.
-
-    Sec. 6. General Provisions. (a) Executive Order 12566 of September 26, 1986, is revoked. To the extent that this order is inconsistent with any provisions of any prior Executive order, this order shall control.
+    Sec. 5. General Provisions. (a) Executive Order 12566 of September 26, 1986, is revoked. To the extent that this order is inconsistent with any provisions of any prior Executive order, this order shall control.
 
     (b) If any provision of this order or application of any such provision is held to be invalid, the remainder of this order and other applications of such provision shall not be affected.
 
@@ -1096,8 +1094,6 @@ By the authority vested in me as President by the Constitution and the laws of t
     (d) The Secretary of Defense shall implement the provisions of this order insofar as practicable for vehicles of the Department of Defense.
 
     (e) The Secretary of the Treasury and the Attorney General, consistent with their protective and law enforcement responsibilities, shall determine the extent to which the requirements of this order apply to the protective and law enforcement activities of their respective agencies.
-
-                              William J. Clinton.
 
  __Ex. Ord. No. 13513. Federal Leadership On Reducing Text Messaging While Driving__ 
 

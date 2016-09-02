@@ -15,11 +15,11 @@
 
 ## § 306. Mapping
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     In carrying out the provisions of this title, the Secretary shall, wherever practicable, authorize the use of photogrammetric methods in mapping, and the utilization of commercial enterprise for such services.
 
-    (b) __Guidance.—__ 
+    (b)  __Guidance__  __.—__ 
 
     The Secretary shall issue guidance to encourage States to utilize, to the maximum extent practicable, private sector sources for surveying and mapping services for projects under this title. In carrying out this subsection, the Secretary shall recommend appropriate roles for State government and private mapping and surveying activities, including—
 
@@ -31,7 +31,7 @@
 
         (4) recommending methods for increasing the use by the States of private sector sources for surveying and mapping activities.
 
-    (c) __Implementation.—__ 
+    (c)  __Implementation__  __.—__ 
 
     The Secretary shall develop a process for the oversight and monitoring, on an annual basis, of the compliance of each State with the guidance issued under subsection (b).
 

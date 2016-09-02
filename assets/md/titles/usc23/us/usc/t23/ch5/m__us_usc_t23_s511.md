@@ -15,11 +15,11 @@
 
 ## § 511. Multistate corridor operations and management
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     The Secretary shall encourage multistate cooperative agreements, coalitions, or other arrangements to promote regional cooperation, planning, and shared project implementation for programs and projects to improve transportation system management and operations.
 
-    (b) __Interstate Route 95 Corridor Coalition Transportation Systems Management and Operations.—__ 
+    (b)  __Interstate Route__  __95__  __Corridor Coalition Transportation Systems Management and Operations__  __.—__ 
 
     The Secretary shall make grants under this subsection to States to continue intelligent transportation system management and operations in the Interstate Route 95 corridor coalition region initiated under the Intermodal Surface Transportation Efficiency Act of 1991 ([Public Law 102–240][/us/pl/102/240]).
 

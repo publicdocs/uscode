@@ -17,11 +17,11 @@
 
     (a) __National Highway Institute.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The Secretary shall operate in the Federal Highway Administration a National Highway Institute (in this subsection referred to as the “Institute”). The Secretary shall administer, through the Institute, the authority vested in the Secretary by this title or by any other law for the development and conduct of education and training programs relating to highways.
 
-        (2) __Duties of the institute.—__ 
+        (2)  __Duties of the institute__  __.—__ 
 
         In cooperation with State transportation departments, United States industry, and any national or international entity, the Institute shall develop and administer education and training programs of instruction for—
 
@@ -35,7 +35,7 @@
 
         (3) __Courses.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             The Institute shall—
 
@@ -67,11 +67,11 @@
 
                     (VI) the intermodal movement of individuals and freight.
 
-            (B) __Additional courses.—__ 
+            (B)  __Additional courses__  __.—__ 
 
             In addition to the courses developed under subparagraph (A), the Institute, in consultation with State transportation departments, metropolitan planning organizations, and the American Association of State Highway and Transportation Officials, may develop courses relating to technology, methods, techniques, engineering, construction, safety, maintenance, environmental mitigation and compliance, regulations, management, inspection, and finance.
 
-            (C) __Revision of courses offered.—__ 
+            (C)  __Revision of courses offered__  __.—__ 
 
             The Institute shall periodically—
 
@@ -79,13 +79,13 @@
 
                 (ii) revise or cease to offer courses based on course content, applicability, and need.
 
-        (4) __Set-aside; federal share.—__ 
+        (4)  __Set-aside; federal share__  __.—__ 
 
         Not to exceed ½ of 1 percent of the funds apportioned to a State under section 104(b)(3)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  for the surface transportation program shall be available for expenditure by the State transportation department for the payment of not to exceed 80 percent of the cost of tuition and direct educational expenses (excluding salaries) in connection with the education and training of employees of State and local transportation agencies in accordance with this subsection.
 
         (5) __Federal responsibility.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             Except as provided in subparagraph (B), education and training of employees of Federal, State, and local transportation (including highway) agencies authorized under this subsection may be provided—
 
@@ -93,11 +93,11 @@
 
                 (ii) by the State through grants, cooperative agreements, and contracts with public and private agencies, institutions, individuals, and the Institute.
 
-            (B) __Payment of full cost by private persons.—__ 
+            (B)  __Payment of full cost by private persons__  __.—__ 
 
             Private agencies, international or foreign entities, and individuals shall pay the full cost of any education and training received by them unless the Secretary determines that a lower cost is of critical importance to the public interest.
 
-        (6) __Training fellowships; cooperation.—__ 
+        (6)  __Training fellowships; cooperation__  __.—__ 
 
         The Institute may—
 
@@ -107,15 +107,15 @@
 
         (7) __Collection of fees.—__ 
 
-            (A) __General rule.—__ 
+            (A)  __General rule__  __.—__ 
 
             In accordance with this subsection, the Institute may assess and collect fees solely to defray the costs of the Institute in developing or administering education and training programs under this subsection.
 
-            (B) __Limitation.—__ 
+            (B)  __Limitation__  __.—__ 
 
             Fees may be assessed and collected under this subsection only in a manner that may reasonably be expected to result in the collection of fees during any fiscal year in an aggregate amount that does not exceed the aggregate amount of the costs referred to in subparagraph (A) for the fiscal year.
 
-            (C) __Persons subject to fees.—__ 
+            (C)  __Persons subject to fees__  __.—__ 
 
             Fees may be assessed and collected under this subsection only with respect to—
 
@@ -123,21 +123,21 @@
 
                 (ii) persons and entities to whom education or training is provided under this subsection.
 
-            (D) __Amount of fees.—__ 
+            (D)  __Amount of fees__  __.—__ 
 
             The fees assessed and collected under this subsection shall be established in a manner that ensures that the liability of any person or entity for a fee is reasonably based on the proportion of the costs referred to in subparagraph (A) that relate to the person or entity.
 
-            (E) __Use.—__ 
+            (E)  __Use__  __.—__ 
 
             All fees collected under this subsection shall be used to defray costs associated with the development or administration of education and training programs authorized under this subsection.
 
-        (8) __Relation to fees.—__ 
+        (8)  __Relation to fees__  __.—__ 
 
         The funds made available to carry out this subsection may be combined with or held separate from the fees collected under paragraph (7).
 
     (b) __Local Technical Assistance Program.—__ 
 
-        (1) __Authority.—__ 
+        (1)  __Authority__  __.—__ 
 
         The Secretary shall carry out a local technical assistance program that will provide access to surface transportation technology to—
 
@@ -147,7 +147,7 @@
 
             (C) infrastructure security staff.
 
-        (2) __Grants, cooperative agreements, and contracts.—__ 
+        (2)  __Grants, cooperative agreements, and contracts__  __.—__ 
 
         The Secretary may make grants and enter into cooperative agreements and contracts to provide education and training, technical assistance, and related support services to—
 
@@ -183,47 +183,45 @@
 
             (E) allow local transportation agencies and tribal governments, in cooperation with the private sector, to enhance new technology implementation.
 
-        (3) __Federal share.—__ 
+        (3)  __Federal share__  __.—__ 
 
-            (A) __Local technical assistance centers.—__ 
+            (A)  __Local technical assistance centers__  __.—__ 
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 Subject to subparagraph (B), the Federal share of the cost of an activity carried out by a local technical assistance center under paragraphs (1) and (2) shall be 50 percent.
 
-                (ii) __Non-federal share.—__ 
+                (ii)  __Non-federal share__  __.—__ 
 
                 The non-Federal share of the cost of an activity described in clause (i) may consist of amounts provided to a recipient under subsection (e) or section 505, up to 100 percent of the non-Federal share.
 
-            (B) __Tribal technical assistance centers.—__ 
+            (B)  __Tribal technical assistance centers__  __.—__ 
 
             The Federal share of the cost of an activity carried out by a tribal technical assistance center under paragraph (2)(D)(ii) shall be 100 percent.
 
     (c) __Research Fellowships.—__ 
 
-        (1) __General authority.—__ 
+        (1)  __General authority__  __.—__ 
 
         The Secretary, acting either independently or in cooperation with other Federal departments, agencies, and instrumentalities, may make grants for research fellowships for any purpose for which research is authorized by this chapter.
 
-        (2) __Dwight david eisenhower transportation fellowship program.—__ 
+        (2)  __Dwight david eisenhower transportation fellowship program__  __.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             The Secretary shall establish and implement a transportation research fellowship program for the purpose of attracting qualified students to the field of transportation, which program shall be known as the “Dwight David Eisenhower Transportation Fellowship Program”.
 
-            (B) __Use of amounts.—__ 
+            (B)  __Use of amounts__  __.—__ 
 
             Amounts provided to institutions of higher education to carry out this paragraph shall be used to provide direct support of student expenses.
 
-    (d) __Garrett A.__ 
+    (d) __Garrett A. Morgan Technology and Transportation Education Program.—__ 
 
-     Morgan Technology and Transportation Education Program.—
-
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The Secretary shall establish the Garrett A. Morgan Technology and Transportation Education Program to improve the preparation of students, particularly women and minorities, in science, technology, engineering, and mathematics through curriculum development and other activities related to transportation.
 
-        (2) __Authorized activities.—__ 
+        (2)  __Authorized activities__  __.—__ 
 
         The Secretary shall award grants under this subsection on the basis of competitive peer review. Grants awarded under this subsection may be used for enhancing science, technology, engineering, and mathematics at the elementary and secondary school level through such means as—
 
@@ -235,37 +233,37 @@
 
         (3) __Application and review procedures.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             An entity described in subparagraph (C) seeking funding under this subsection shall submit an application to the Secretary at such time, in such manner, and containing such information as the Secretary may require. Such application, at a minimum, shall include a description of how the funds will be used to serve the purposes described in paragraph (2).
 
-            (B) __Priority.—__ 
+            (B)  __Priority__  __.—__ 
 
             In making awards under this subsection, the Secretary shall give priority to applicants that will encourage the participation of women and minorities.
 
-            (C) __Eligibility.—__ 
+            (C)  __Eligibility__  __.—__ 
 
             Local educational agencies and State educational agencies, which may enter into a partnership agreement with institutions of higher education, businesses, or other entities, shall be eligible to apply for grants under this subsection.
 
-        (4) __Definitions.—__ 
+        (4)  __Definitions__  __.—__ 
 
         In this subsection, the following definitions apply:
 
-            (A) __Institution of higher education.—__ 
+            (A)  __Institution of higher education__  __.—__ 
 
             The term “institution of higher education” has the meaning given that term in section 101 of the Higher Education Act of 1965 ([20 U.S.C. 1001][/us/usc/t20/s1001]).
 
-            (B) __Local educational agency.—__ 
+            (B)  __Local educational agency__  __.—__ 
 
             The term “local educational agency” has the meaning given that term in section 9101 of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 7801][/us/usc/t20/s7801]).
 
-            (C) __State educational agency.—__ 
+            (C)  __State educational agency__  __.—__ 
 
             The term “State educational agency” has the meaning given that term in section 9101 of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 7801][/us/usc/t20/s7801]).
 
     (e) __Surface Transportation Workforce Development, Training, and Education.—__ 
 
-        (1) __Funding.—__ 
+        (1)  __Funding__  __.—__ 
 
         Subject to project approval by the Secretary, a State may obligate funds apportioned to the State under paragraphs (1) through (4) of section 104(b) for surface transportation workforce development, training, and education, including—
 
@@ -283,21 +281,21 @@
 
             (G) local technical assistance programs under subsection (b).
 
-        (2) __Federal share.—__ 
+        (2)  __Federal share__  __.—__ 
 
         The Federal share of the cost of activities carried out in accordance with this subsection shall be 100 percent, except for activities carried out under paragraph (1)(G), for which the Federal share shall be 50 percent.
 
-        (3) __Surface transportation workforce development, training, and education defined.—__ 
+        (3)  __Surface transportation workforce development, training, and education defined__  __.—__ 
 
         In this subsection, the term “surface transportation workforce development, training, and education” means activities associated with surface transportation career awareness, student transportation career preparation, and training and professional development for surface transportation workers, including activities for women and minorities.
 
     (f) __Transportation Education Development Program.—__ 
 
-        (1) __Establishment.—__ 
+        (1)  __Establishment__  __.—__ 
 
         The Secretary shall establish a program to make grants to institutions of higher education that, in partnership with industry or State departments of transportation, will develop, test, and revise new curricula and education programs to train individuals at all levels of the transportation workforce.
 
-        (2) __Selection of grant recipients.—__ 
+        (2)  __Selection of grant recipients__  __.—__ 
 
         In selecting applications for awards under this subsection, the Secretary shall consider—
 
@@ -313,13 +311,13 @@
 
             (F) the commitment of industry or a State’s department of transportation to the program.
 
-        (3) __Limitations.—__ 
+        (3)  __Limitations__  __.—__ 
 
         The amount of a grant under this subsection shall not exceed $300,000 per year. After a recipient has received 3 years of Federal funding under this subsection, Federal funding may equal not more than 75 percent of a grantee’s program costs.
 
     (g) __Freight Capacity Building Program.—__ 
 
-        (1) __Establishment.—__ 
+        (1)  __Establishment__  __.—__ 
 
         The Secretary shall establish a freight planning capacity building initiative to support enhancements in freight transportation planning in order to—
 
@@ -327,15 +325,15 @@
 
             (B) strengthen the decisionmaking capacity of State transportation departments and local transportation agencies with respect to freight transportation planning and systems.
 
-        (2) __Agreements.—__ 
+        (2)  __Agreements__  __.—__ 
 
         The Secretary shall enter into agreements to support and carry out administrative and management activities relating to the governance of the freight planning capacity initiative.
 
-        (3) __Stakeholder involvement.—__ 
+        (3)  __Stakeholder involvement__  __.—__ 
 
         In carrying out this section, the Secretary shall consult with the Association of Metropolitan Planning Organizations, the American Association of State Highway and Transportation Officials, and other freight planning stakeholders, including the other Federal agencies, State transportation departments, local governments, nonprofit entities, academia, and the private sector.
 
-        (4) __Eligible activities.—__ 
+        (4)  __Eligible activities__  __.—__ 
 
         The freight planning capacity building initiative shall include research, training, and education in the following areas:
 
@@ -351,35 +349,35 @@
 
             (F) Identifying ways to target the capacity of State transportation departments and local transportation agencies to address freight considerations in operations, security, asset management, and environmental stewardship in connection with long-range multimodal transportation planning and project implementation.
 
-        (5) __Federal share.—__ 
+        (5)  __Federal share__  __.—__ 
 
         The Federal share of the cost of an activity carried out under this section shall be up to 100 percent, and such funds shall remain available until expended.
 
-        (6) __Use of funds.—__ 
+        (6)  __Use of funds__  __.—__ 
 
         Funds made available for the program established under this subsection may be used for research, program development, information collection and dissemination, and technical assistance. The Secretary may use such funds independently or make grants or to  <sup>\[2\]</sup>  <sup><sup> 2 So in original. </sup></sup>  and enter into contracts and cooperative agreements with a Federal agency, State agency, local agency, federally recognized Indian tribal government or tribal consortium, authority, association, nonprofit or for-profit corporation, or institution of higher education, to carry out the purposes of this subsection.
 
-    (h) __Centers for Surface Transportation Excellence.—__ 
+    (h)  __Centers for Surface Transportation Excellence__  __.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The Secretary shall make grants under this section to establish and maintain centers for surface transportation excellence.
 
-        (2) __Goals.—__ 
+        (2)  __Goals__  __.—__ 
 
         The goals of a center referred to in paragraph (1) shall be to promote and support strategic national surface transportation programs and activities relating to the work of State departments of transportation in the areas of environment, surface transportation safety, rural safety, and project finance.
 
-        (3) __Role of the centers.—__ 
+        (3)  __Role of the centers__  __.—__ 
 
         To achieve the goals set forth in paragraph (2), any centers established under paragraph (1) shall provide technical assistance, information sharing of best practices, and training in the use of tools and decisionmaking processes that can assist States in effectively implementing surface transportation programs, projects, and policies.
 
-        (4) __Program administration.—__ 
+        (4)  __Program administration__  __.—__ 
 
-            (A) __Competition.—__ 
+            (A)  __Competition__  __.—__ 
 
             A party entering into a contract, cooperative agreement, or other transaction with the Secretary under this subsection, or receiving a grant to perform research or provide technical assistance under this subsection, shall be selected on a competitive basis.
 
-            (B) __Strategic plan.—__ 
+            (B)  __Strategic plan__  __.—__ 
 
             The Secretary shall require each center to develop a multiyear strategic plan, that—
 
@@ -443,11 +441,11 @@
 
 [Pub. L. 109–59, title V, § 5504][/us/pl/109/59/s5504], Aug. 10, 2005, [119 Stat. 1822][/us/stat/119/1822], provided that:
 
->     “(a) __Establishment.—__ 
+>     “(a)  __Establishment__  __.—__ 
 
 >     The Secretary \[of Transportation\] shall establish a Center for Transportation Advancement and Regional Development (referred to in this section as the ‘Center’) to assist, through training, education, and research, in the comprehensive development of small metropolitan and rural regional transportation systems that are responsive to the needs of businesses and local communities.
 
->     “(b) __Activities.—__ 
+>     “(b)  __Activities__  __.—__ 
 
 >     In carrying out this section, the Center shall—
 
@@ -457,17 +455,17 @@
 
 >         “(3) promote the leveraging of regional transportation planning with regional economic and business development planning to assure that appropriate transportation systems are created.
 
->     “(c) __Program Administration.—__ 
+>     “(c)  __Program Administration__  __.—__ 
 
 >     To carry out this section, the Secretary \[of Transportation\] shall make a grant to, or enter into a cooperative agreement or contract with the National Association of Development Organizations.
 
 >     “(d) __Funding.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Of the amounts made available by section 5101(a)(1) of this Act \[[119 Stat. 1779][/us/stat/119/1779]\], $625,000 shall be available for each of fiscal years 2006 through 2009 to carry out this section.
 
->         “(2) __Federal share.—__ 
+>         “(2)  __Federal share__  __.—__ 
 
 >         The Federal share of the cost of activities carried out in accordance with this subsection shall be 100 percent.”
 
@@ -477,19 +475,19 @@
 
 >     “(a) __In General.—__ 
 
->         “(1) __Establishment of program.—__ 
+>         “(1)  __Establishment of program__  __.—__ 
 
 >         The Secretary \[of Transportation\] may establish and implement a scholarship program for the purpose of attracting qualified students for transportation-related critical jobs.
 
->         “(2) __Partnership.—__ 
+>         “(2)  __Partnership__  __.—__ 
 
 >         The Secretary may establish the program in partnership with appropriate nongovernmental institutions.
 
->     “(b) __Participation.—__ 
+>     “(b)  __Participation__  __.—__ 
 
 >     An operating administration of the Department and the Office of Inspector General may participate in the scholarship program.
 
->     “(c) __Funding.—__ 
+>     “(c)  __Funding__  __.—__ 
 
 >     Notwithstanding any other provision of law, the Secretary \[of Transportation\] may use funds available to an operating administration or from the Office of Inspector General of the Department for the purpose of carrying out this section.”
 

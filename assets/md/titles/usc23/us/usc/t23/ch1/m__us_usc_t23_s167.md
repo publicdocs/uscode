@@ -15,11 +15,11 @@
 
 ## § 167. National freight policy
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     It is the policy of the United States to improve the condition and performance of the national freight network to ensure that the national freight network provides the foundation for the United States to compete in the global economy and achieve each goal described in subsection (b).
 
-    (b) __Goals.—__ 
+    (b)  __Goals__  __.—__ 
 
     The goals of the national freight policy are—
 
@@ -47,11 +47,11 @@
 
     (c) __Establishment of a National Freight Network.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The Secretary shall establish a national freight network in accordance with this section to assist States in strategically directing resources toward improved system performance for efficient movement of freight on highways, including national highway system, freight intermodal connectors and aerotropolis transportation systems.
 
-        (2) __Network components.—__ 
+        (2)  __Network components__  __.—__ 
 
         The national freight network shall consist of—
 
@@ -65,7 +65,7 @@
 
         (1) __Initial designation of primary freight network.—__ 
 
-            (A) __Designation.—__ 
+            (A)  __Designation__  __.—__ 
 
             Not later than 1 year after the date of enactment of this section, the Secretary shall designate a primary freight network—
 
@@ -73,7 +73,7 @@
 
                 (ii) that shall be comprised of not more than 27,000 centerline miles of existing roadways that are most critical to the movement of freight.
 
-            (B) __Factors for designation.—__ 
+            (B)  __Factors for designation__  __.—__ 
 
             In designating the primary freight network, the Secretary shall consider—
 
@@ -93,15 +93,15 @@
 
                 (viii) network connectivity.
 
-        (2) __Additional miles on primary freight network.—__ 
+        (2)  __Additional miles on primary freight network__  __.—__ 
 
         In addition to the miles initially designated under paragraph (1), the Secretary may increase the number of miles designated as part of the primary freight network by not more than 3,000 additional centerline miles of roadways (which may include existing or planned roads) critical to future efficient movement of goods on the primary freight network.
 
-        (3) __Redesignation of primary freight network.—__ 
+        (3)  __Redesignation of primary freight network__  __.—__ 
 
         Effective beginning 10 years after the designation of the primary freight network and every 10 years thereafter, using the designation factors described in paragraph (1), the Secretary shall redesignate the primary freight network (including additional mileage described in paragraph (2)).
 
-    (e) __Critical Rural Freight Corridors.—__ 
+    (e)  __Critical Rural Freight Corridors__  __.—__ 
 
     A State may designate a road within the borders of the State as a critical rural freight corridor if the road—
 
@@ -119,7 +119,7 @@
 
     (f) __National Freight Strategic Plan.—__ 
 
-        (1) __Initial development of national freight strategic plan.—__ 
+        (1)  __Initial development of national freight strategic plan__  __.—__ 
 
         Not later than 3 years after the date of enactment of this section, the Secretary shall, in consultation with State departments of transportation and other appropriate public and private transportation stakeholders, develop and post on the Department of Transportation public website a national freight strategic plan that shall include—
 
@@ -149,17 +149,17 @@
 
             (J) strategies to improve freight intermodal connectivity.
 
-        (2) __Updates to national freight strategic plan.—__ 
+        (2)  __Updates to national freight strategic plan__  __.—__ 
 
         Not later than 5 years after the date of completion of the first national freight strategic plan under paragraph (1), and every 5 years thereafter, the Secretary shall update and repost on the Department of Transportation public website a revised national freight strategic plan.
 
-    (g) __Freight Transportation Conditions and Performance Reports.—__ 
+    (g)  __Freight Transportation Conditions and Performance Reports__  __.—__ 
 
     Not later than 2 years after the date of enactment of this section, and biennially thereafter, the Secretary shall prepare a report that contains a description of the conditions and performance of the national freight network in the United States.
 
     (h) __Transportation Investment Data and Planning Tools.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Not later than 1 year after the date of enactment of this section, the Secretary shall—
 
@@ -177,11 +177,11 @@
 
             (C) at a minimum, in consultation with other relevant Federal agencies, consider any improvements to existing freight flow data collection efforts that could reduce identified freight data gaps and deficiencies and help improve forecasts of freight transportation demand.
 
-        (2) __Consultation.—__ 
+        (2)  __Consultation__  __.—__ 
 
         The Secretary shall consult with Federal, State, and other stakeholders to develop, improve, and implement the tools and collect the data in paragraph (1).
 
-    (i) __Definition of Aerotropolis Transportation System.—__ 
+    (i)  __Definition of Aerotropolis Transportation System__  __.—__ 
 
     In this section, the term “aerotropolis transportation system” means a planned and coordinated multimodal freight and passenger transportation network that, as determined by the Secretary, provides efficient, cost-effective, sustainable, and intermodal connectivity to a defined region of economic significance centered around a major airport.
 
@@ -201,11 +201,11 @@
 
 > “SEC. 1116. __PRIORITIZATION OF PROJECTS TO IMPROVE FREIGHT MOVEMENT.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Notwithstanding [section 120 of title 23][/us/usc/t23/s120], United States Code, the Secretary may increase the Federal share payable for any project to 95 percent for projects on the Interstate System and 90 percent for any other project if the Secretary certifies that the project meets the requirements of this section.
 
->     “(b) __Increased Funding.—__ 
+>     “(b)  __Increased Funding__  __.—__ 
 
 >     To be eligible for the increased Federal funding share under this section, a project shall—
 
@@ -213,7 +213,7 @@
 
 >         “(2) be identified in a State freight plan developed pursuant to section 1118.
 
->     “(c) __Eligible Projects.—__ 
+>     “(c)  __Eligible Projects__  __.—__ 
 
 >     Eligible projects to improve the movement of freight under this section may include, but are not limited to—
 
@@ -241,11 +241,11 @@
 
 > “SEC. 1117. __STATE FREIGHT ADVISORY COMMITTEES.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary shall encourage each State to establish a freight advisory committee consisting of a representative cross-section of public and private sector freight stakeholders, including representatives of ports, shippers, carriers, freight-related associations, the freight industry workforce, the transportation department of the State, and local governments.
 
->     “(b) __Role of Committee.—__ 
+>     “(b)  __Role of Committee__  __.—__ 
 
 >     A freight advisory committee of a State described in subsection (a) shall—
 
@@ -261,11 +261,11 @@
 
 > “SEC. 1118. __STATE FREIGHT PLANS.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary shall encourage each State to develop a freight plan that provides a comprehensive plan for the immediate and long-range planning activities and investments of the State with respect to freight.
 
->     “(b) __Plan Contents.—__ 
+>     “(b)  __Plan Contents__  __.—__ 
 
 >     A freight plan described in subsection (a) shall include, at a minimum—
 
@@ -281,7 +281,7 @@
 
 >         “(6) an inventory of facilities with freight mobility issues, such as truck bottlenecks, within the State, and a description of the strategies the State is employing to address those freight mobility issues.
 
->     “(c) __Relationship to Long-range Plan.—__ 
+>     “(c)  __Relationship to Long-range Plan__  __.—__ 
 
 >     A freight plan described in subsection (a) may be developed separate from or incorporated into the statewide strategic long-range transportation plan required by [section 135 of title 23][/us/usc/t23/s135], United States Code.”
 

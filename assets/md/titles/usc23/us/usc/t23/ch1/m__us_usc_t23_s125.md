@@ -15,7 +15,7 @@
 
 ## § 125. Emergency relief
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     Subject to this section and section 120, an emergency fund is authorized for expenditure by the Secretary for the repair or reconstruction of highways, roads, and trails, in any area of the United States, including Indian reservations, that the Secretary finds have suffered serious damage as a result of—
 
@@ -25,11 +25,11 @@
 
     (b) __Restriction on Eligibility.—__ 
 
-        (1) __Definition of construction phase.—__ 
+        (1)  __Definition of construction phase__  __.—__ 
 
         In this subsection, the term “construction phase” means the phase of physical construction of a highway or bridge facility that is separate from any other identified phases, such as planning, design, or right-of-way phases, in the State transportation improvement program.
 
-        (2) __Restriction.—__ 
+        (2)  __Restriction__  __.—__ 
 
         In no case shall funds be used under this section for the repair or reconstruction of a bridge—
 
@@ -39,11 +39,11 @@
 
     (c) __Funding.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Subject to the limitations described in paragraph (2), there are authorized to be appropriated from the Highway Trust Fund (other than the Mass Transit Account) such sums as are necessary to establish the fund authorized by this section and to replenish that fund on an annual basis.
 
-        (2) __Limitations.—__ 
+        (2)  __Limitations__  __.—__ 
 
         The limitations referred to in paragraph (1) are that—
 
@@ -63,7 +63,7 @@
 
     (d) __Eligibility.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The Secretary may expend funds from the emergency fund authorized by this section only for the repair or reconstruction of highways on Federal-aid highways in accordance with this chapter, except that—
 
@@ -73,15 +73,15 @@
 
         (2) __Cost limitation.—__ 
 
-            (A) __Definition of comparable facility.—__ 
+            (A)  __Definition of comparable facility__  __.—__ 
 
             In this paragraph, the term “comparable facility” means a facility that meets the current geometric and construction standards required for the types and volume of traffic that the facility will carry over its design life.
 
-            (B) __Limitation.—__ 
+            (B)  __Limitation__  __.—__ 
 
             The total cost of a project funded under this section may not exceed the cost of repair or reconstruction of a comparable facility.
 
-        (3) __Debris removal.—__ 
+        (3)  __Debris removal__  __.—__ 
 
         The costs of debris removal shall be an eligible expense under this section only for—
 
@@ -89,31 +89,31 @@
 
             (B) an event declared a major disaster or emergency by the President under that Act if the debris removal is not eligible for assistance under section 403, 407, or 502 of that Act ([42 U.S.C. 5170b][/us/usc/t42/s5170b], 5173, 5192).
 
-        (4) __Territories.—__ 
+        (4)  __Territories__  __.—__ 
 
         The total obligations for projects under this section for any fiscal year in the Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands shall not exceed $20,000,000.
 
-        (5) __Substitute traffic.—__ 
+        (5)  __Substitute traffic__  __.—__ 
 
         Notwithstanding any other provision of this section, actual and necessary costs of maintenance and operation of ferryboats or additional transit service providing temporary substitute highway traffic service, less the amount of fares charged for comparable service, may be expended from the emergency fund authorized by this section for Federal-aid highways.
 
     (e) __Tribal Transportation Facilities, Federal Lands Transportation Facilities, and Public Roads on Federal Lands.—__ 
 
-        (1) __Definition of open to public travel.—__ 
+        (1)  __Definition of open to public travel__  __.—__ 
 
         In this subsection, the term “open to public travel” means, with respect to a road, that, except during scheduled periods, extreme weather conditions, or emergencies, the road is open to the general public for use with a standard passenger vehicle, without restrictive gates or prohibitive signs or regulations, other than for general traffic control or restrictions based on size, weight, or class of registration.
 
-        (2) __Expenditure of funds.—__ 
+        (2)  __Expenditure of funds__  __.—__ 
 
         Notwithstanding subsection (d)(1), the Secretary may expend funds from the emergency fund authorized by this section, independently or in cooperation with any other branch of the Federal Government, a State agency, a tribal government, an organization, or a person, for the repair or reconstruction of tribal transportation facilities, Federal lands transportation facilities, and other federally owned roads that are open to public travel, whether or not those facilities are Federal-aid highways.
 
         (3) __Reimbursement.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             The Secretary may reimburse Federal and State agencies (including political subdivisions) for expenditures made for projects determined eligible under this section, including expenditures for emergency repairs made before a determination of eligibility.
 
-            (B) __Transfers.—__ 
+            (B)  __Transfers__  __.—__ 
 
             With respect to reimbursements described in subparagraph (A)—
 
@@ -121,11 +121,11 @@
 
                 (ii) the budget authority associated with the expenditure shall be restored to the agency from which the authority was derived and shall be available for obligation until the end of the fiscal year following the year in which the transfer occurs.
 
-    (f) __Treatment of Territories.—__ 
+    (f)  __Treatment of Territories__  __.—__ 
 
     For purposes of this section, the Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands shall be considered to be States and parts of the United States, and the chief executive officer of each such territory shall be considered to be a Governor of a State.
 
-    (g) __Protecting Public Safety and Maintaining Roadways.—__ 
+    (g)  __Protecting Public Safety and Maintaining Roadways__  __.—__ 
 
     The Secretary may use not more than 5 percent of amounts from the emergency fund authorized by this section to carry out projects that the Secretary determines are necessary to protect the public safety or to maintain or protect roadways that are included within the scope of an emergency declaration by the Governor of the State or by the President, in accordance with this section, and the Governor deems to be an ongoing concern in order to maintain vehicular traffic on the roadway.
 

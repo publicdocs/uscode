@@ -31,7 +31,7 @@
 
     (d) The Secretary of Transportation shall not impose any limitation or condition on assistance provided under the Surface Transportation Assistance Act of 1982 ([96 Stat. 2097][/us/stat/96/2097]) or this title that restricts any State from imposing more stringent requirements than this section on the use of articles, materials, and supplies mined, produced, or manufactured in foreign countries in projects carried out with such assistance or restricts any recipient of such assistance from complying with such State imposed requirements.
 
-    (e) __Intentional Violations.—__ 
+    (e)  __Intentional Violations__  __.—__ 
 
     If it has been determined by a court or Federal agency that any person intentionally—
 
@@ -41,7 +41,7 @@
 
         that person shall be ineligible to receive any contract or subcontract made with funds authorized under the Intermodal Surface Transportation Efficiency Act of 1991 pursuant to the debarment, suspension, and ineligibility procedures in subpart 9.4 of chapter 1 of title 48, Code of Federal Regulations.
 
-    (f) __Limitation on Applicability of Waivers to Products Produced in Certain Foreign Countries.—__ 
+    (f)  __Limitation on Applicability of Waivers to Products Produced in Certain Foreign Countries__  __.—__ 
 
     If the Secretary, in consultation with the United States Trade Representative, determines that—
 
@@ -51,7 +51,7 @@
 
         the provisions of subsection (b) shall not apply to products produced in that foreign country.
 
-    (g) __Application to Highway Programs.—__ 
+    (g)  __Application to Highway Programs__  __.—__ 
 
     The requirements under this section shall apply to all contracts eligible for assistance under this chapter for a project carried out within the scope of the applicable finding, determination, or decision under the National Environmental Policy Act of 1969 ([42 U.S.C. 4321][/us/usc/t42/s4321] et seq.), regardless of the funding source of such contracts, if at least 1 contract for the project is funded with amounts made available to carry out this title.
 
@@ -91,11 +91,13 @@
 
  __Buy America Waiver Notification and Annual Reports__ 
 
-[Pub. L. 112–55, div. C, title I, § 122][/us/pl/112/55/s122], Nov. 18, 2011, [125 Stat. 654][/us/stat/125/654], provided that: 
+[Pub. L. 113–76, div. L, title I, § 122][/us/pl/113/76/s122], Jan. 17, 2014, [128 Stat. 586][/us/stat/128/586], provided that: 
 
-> “Not less than 15 days prior to waiving, under his statutory authority, any Buy America requirement for Federal-aid highway projects, the Secretary of Transportation shall make an informal public notice and comment opportunity on the intent to issue such waiver and the reasons therefor: Provided, That the Secretary shall provide an annual report to the House and Senate Committees on Appropriations on any waivers granted under the Buy America requirements.”
+> “Not less than 15 days prior to waiving, under his statutory authority, any Buy America requirement for Federal-aid highway projects, the Secretary of Transportation shall make an informal public notice and comment opportunity on the intent to issue such waiver and the reasons therefor:  Provided, That the Secretary shall provide an annual report to the House and Senate Committees on Appropriations on any waivers granted under the Buy America requirements.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+    [Pub. L. 112–55, div. C, title I, § 122][/us/pl/112/55/s122], Nov. 18, 2011, [125 Stat. 654][/us/stat/125/654].
 
     [Pub. L. 111–117, div. A, title I, § 123][/us/pl/111/117/s123], Dec. 16, 2009, [123 Stat. 3048][/us/stat/123/3048].
 
@@ -107,7 +109,7 @@ Similar provisions were contained in the following prior appropriation acts:
 
 >     “(a) __Waiver Notification.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         If the Secretary of Transportation makes a finding under [section 313(b) of title 23][/us/usc/t23/s313/b], United States Code, with respect to a project, the Secretary shall—
 
@@ -115,11 +117,11 @@ Similar provisions were contained in the following prior appropriation acts:
 
 >             “(B) provide notice of such finding and an opportunity for public comment on such finding for a period of not to exceed 60 days.
 
->         “(2) __Limitation on statutory construction.—__ 
+>         “(2)  __Limitation on statutory construction__  __.—__ 
 
 >         Nothing in paragraph (1) shall be construed to require the effective date of a finding referred to in paragraph (1) to be delayed until after the close of the public comment period referred to in paragraph (1)(B).
 
->     “(b) __Annual Reports.—__ 
+>     “(b)  __Annual Reports__  __.—__ 
 
 >     Not later than February 1 of each year beginning after the date of enactment of this Act \[June 6, 2008\], the Secretary shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate a report on the projects for which the Secretary made findings under [section 313(b) of title 23][/us/usc/t23/s313/b], United States Code, during the preceding calendar year and the justifications for such findings.”
 
@@ -181,6 +183,8 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3%2Fa
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
+[/us/pl/113/76/s122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs122
+[/us/stat/128/586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F586
 [/us/pl/112/55/s122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F55%2Fs122
 [/us/stat/125/654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F654
 [/us/pl/111/117/s123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F117%2Fs123

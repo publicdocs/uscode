@@ -19,15 +19,15 @@
 
         (1) __Pilot program.—__ 
 
-            (A) __Establishment.—__ 
+            (A)  __Establishment__  __.—__ 
 
             The Secretary may establish a pilot program under which States may assume the responsibilities of the Secretary under any Federal laws subject to the requirements of this section.
 
-            (B) __First 3 fiscal years.—__ 
+            (B)  __First 3 fiscal years__  __.—__ 
 
             In the first 3 fiscal years following the date of enactment of the SAFETEA–LU, the Secretary may allow up to 5 States to participate in the pilot program.
 
-        (2) __Scope of program.—__ 
+        (2)  __Scope of program__  __.—__ 
 
         Under the pilot program, the Secretary may assign, and a State may assume, any of the Secretary’s responsibilities (other than responsibilities relating to federally recognized Indian tribes) for environmental reviews, consultation, or decisionmaking or other actions required under any Federal law as such requirements apply to the following projects:
 
@@ -37,39 +37,39 @@
 
     (b) __Agreements.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The Secretary shall enter into a memorandum of understanding with a State participating in the pilot program setting forth the responsibilities to be assigned under subsection (a)(2) and the terms and conditions under which the assignment is being made.
 
-        (2) __Certification.—__ 
+        (2)  __Certification__  __.—__ 
 
         Before the Secretary enters into a memorandum of understanding with a State under paragraph (1), the State shall certify that the State has in effect laws (including regulations) applicable to projects carried out and funded under this title and chapter 53 of title 49 that authorize the State to carry out the responsibilities being assumed.
 
-        (3) __Maximum duration.—__ 
+        (3)  __Maximum duration__  __.—__ 
 
         A memorandum of understanding with a State under this section shall be established for an initial period of no more than 3 years and may be renewed by mutual agreement on a periodic basis for periods of not more than 3 years.
 
         (4) __Compliance.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             After entering into a memorandum of understanding under paragraph (1), the Secretary shall review and determine compliance by the State with the memorandum of understanding.
 
-            (B) __Renewals.—__ 
+            (B)  __Renewals__  __.—__ 
 
             The Secretary shall take into account the performance of a State under the pilot program when considering renewal of a memorandum of understanding with the State under the program.
 
-        (5) __Sole responsibility.—__ 
+        (5)  __Sole responsibility__  __.—__ 
 
         A State that assumes responsibility under subsection (a)(2) with respect to a Federal law shall be solely responsible and solely liable for complying with and carrying out that law, and the Secretary shall have no such responsibility or liability.
 
-        (6) __Acceptance of jurisdiction.—__ 
+        (6)  __Acceptance of jurisdiction__  __.—__ 
 
         In a memorandum of understanding, the State shall consent to accept the jurisdiction of the Federal courts for the compliance, discharge, and enforcement of any responsibility of the Secretary that the State assumes.
 
     (c) __Selection of States for Pilot Program.—__ 
 
-        (1) __Application.—__ 
+        (1)  __Application__  __.—__ 
 
         To be eligible to participate in the pilot program, a State shall submit to the Secretary an application that contains such information as the Secretary may require. At a minimum, an application shall include—
 
@@ -77,7 +77,7 @@
 
             (B) a certification that the State has the capability to assume such responsibilities.
 
-        (2) __Public notice.—__ 
+        (2)  __Public notice__  __.—__ 
 
         Before entering into a memorandum of understanding allowing a State to participate in the pilot program, the Secretary shall—
 
@@ -85,7 +85,7 @@
 
             (B) provide an opportunity for public comment.
 
-        (3) __Selection criteria.—__ 
+        (3)  __Selection criteria__  __.—__ 
 
         The Secretary may approve the application of a State to assume responsibilities under the program only if—
 
@@ -93,15 +93,15 @@
 
             (B) the Secretary determines that the State has the capability to assume the responsibilities.
 
-        (4) __Other federal agency views.—__ 
+        (4)  __Other federal agency views__  __.—__ 
 
         Before assigning to a State a responsibility of the Secretary that requires the Secretary to consult with another Federal agency, the Secretary shall solicit the views of the Federal agency.
 
-    (d) __State Defined.—__ 
+    (d)  __State Defined__  __.—__ 
 
     With respect to the recreational trails program, the term “State” means the State agency designated by the Governor of the State in accordance with section 206(c)(1).
 
-    (e) __Preservation of Public Interest Consideration.—__ 
+    (e)  __Preservation of Public Interest Consideration__  __.—__ 
 
     Nothing in this section shall be construed to limit the requirements under any applicable law providing for the consideration and preservation of the public interest, including public participation and community values in transportation decisionmaking.
 

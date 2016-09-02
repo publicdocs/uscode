@@ -15,11 +15,11 @@
 
 ## § 601. Generally applicable provisions
 
-    (a) __Definitions.—__ 
+    (a)  __Definitions__  __.—__ 
 
     In this chapter, the following definitions apply:
 
-        (1) __Contingent commitment.—__ 
+        (1)  __Contingent commitment__  __.—__ 
 
         The term “contingent commitment” means a commitment to obligate an amount from future available budget authority that is—
 
@@ -27,7 +27,7 @@
 
             (B) not an obligation of the Federal Government.
 
-        (2) __Eligible project costs.—__ 
+        (2)  __Eligible project costs__  __.—__ 
 
         The term “eligible project costs” means amounts substantially all of which are paid by, or for the account of, an obligor in connection with a project, including the cost of—
 
@@ -37,15 +37,15 @@
 
             (C) capitalized interest necessary to meet market requirements, reasonably required reserve funds, capital issuance expenses, and other carrying costs during construction.
 
-        (3) __Federal credit instrument.—__ 
+        (3)  __Federal credit instrument__  __.—__ 
 
         The term “Federal credit instrument” means a secured loan, loan guarantee, or line of credit authorized to be made available under this chapter with respect to a project.
 
-        (4) __Investment-grade rating.—__ 
+        (4)  __Investment-grade rating__  __.—__ 
 
         The term “investment-grade rating” means a rating of BBB minus, Baa3, bbb minus, BBB (low), or higher assigned by a rating agency to project obligations.
 
-        (5) __Lender.—__ 
+        (5)  __Lender__  __.—__ 
 
         The term “lender” means any non-Federal qualified institutional buyer (as defined in section 230.144A(a) of title 17, Code of Federal Regulations (or any successor regulation), known as Rule 144A(a) of the Securities and Exchange Commission and issued under the Securities Act of 1933 ([15 U.S.C. 77a][/us/usc/t15/s77a] et seq.)), including—
 
@@ -53,7 +53,7 @@
 
             (B) a governmental plan (as defined in section 414(d) of the Internal Revenue Code of 1986) that is a qualified institutional buyer.
 
-        (6) __Letter of interest.—__ 
+        (6)  __Letter of interest__  __.—__ 
 
         The term “letter of interest” means a letter submitted by a potential applicant prior to an application for credit assistance in a format prescribed by the Secretary on the website of the TIFIA program that—
 
@@ -65,11 +65,11 @@
 
             (D) provides information regarding satisfaction of other eligibility requirements of the TIFIA program.
 
-        (7) __Line of credit.—__ 
+        (7)  __Line of credit__  __.—__ 
 
         The term “line of credit” means an agreement entered into by the Secretary with an obligor under section 604 to provide a direct loan at a future date upon the occurrence of certain events.
 
-        (8) __Limited buydown.—__ 
+        (8)  __Limited buydown__  __.—__ 
 
         The term “limited buydown” means, subject to the conditions described in section 603(b)(4)(C), a buydown of the interest rate by the obligor if the interest rate has increased between—
 
@@ -81,11 +81,11 @@
 
             (B) the date on which the Secretary executes the Federal credit instrument.
 
-        (9) __Loan guarantee.—__ 
+        (9)  __Loan guarantee__  __.—__ 
 
         The term “loan guarantee” means any guarantee or other pledge by the Secretary to pay all or part of the principal of and interest on a loan or other debt obligation issued by an obligor and funded by a lender.
 
-        (10) __Master credit agreement.—__ 
+        (10)  __Master credit agreement__  __.—__ 
 
         The term “master credit agreement” means an agreement to extend credit assistance for a program of projects secured by a common security pledge (which shall receive an investment grade rating from a rating agency), or for a single project covered under section 602(b)(2) that would—
 
@@ -107,7 +107,7 @@
 
             (E) require that contingent commitments result in a financial close and obligation of credit assistance not later than 3 years after the date of entry into the master credit agreement, or release of the commitment, unless otherwise extended by the Secretary.
 
-        (11) __Obligor.—__ 
+        (11)  __Obligor__  __.—__ 
 
         The term “obligor” means a party that—
 
@@ -115,7 +115,7 @@
 
             (B) may be a corporation, partnership, joint venture, trust, or governmental entity, agency, or instrumentality.
 
-        (12) __Project.—__ 
+        (12)  __Project__  __.—__ 
 
         The term “project” means—
 
@@ -149,27 +149,27 @@
 
                 (iv) is composed of related highway, surface transportation, transit, rail, or intermodal capital improvement projects eligible for assistance under this section in order to meet the eligible project cost threshold under section 602, by grouping related projects together for that purpose, subject to the condition that the credit assistance for the projects is secured by a common pledge.
 
-        (13) __Project obligation.—__ 
+        (13)  __Project obligation__  __.—__ 
 
         The term “project obligation” means any note, bond, debenture, or other debt obligation issued by an obligor in connection with the financing of a project, other than a Federal credit instrument.
 
-        (14) __Rating agency.—__ 
+        (14)  __Rating agency__  __.—__ 
 
         The term “rating agency” means a credit rating agency registered with the Securities and Exchange Commission as a nationally recognized statistical rating organization (as that term is defined in section 3(a) of the Securities Exchange Act of 1934 ([15 U.S.C. 78c(a)][/us/usc/t15/s78c/a])).
 
-        (15) __Rural infrastructure project.—__ 
+        (15)  __Rural infrastructure project__  __.—__ 
 
         The term “rural infrastructure project” means a surface transportation infrastructure project located in any area other than a city with a population of more than 250,000 inhabitants within the city limits.
 
-        (16) __Secured loan.—__ 
+        (16)  __Secured loan__  __.—__ 
 
         The term “secured loan” means a direct loan or other debt obligation issued by an obligor and funded by the Secretary in connection with the financing of a project under section 603.
 
-        (17) __State.—__ 
+        (17)  __State__  __.—__ 
 
         The term “State” has the meaning given the term in section 101.
 
-        (18) __Subsidy amount.—__ 
+        (18)  __Subsidy amount__  __.—__ 
 
         The term “subsidy amount” means the amount of budget authority sufficient to cover the estimated long-term cost to the Federal Government of a Federal credit instrument—
 
@@ -177,7 +177,7 @@
 
             (B) excluding administrative costs and any incidental effects on governmental receipts or outlays in accordance with the Federal Credit Reform Act of 1990 ([2 U.S.C. 661][/us/usc/t2/s661] et seq.).
 
-        (19) __Substantial completion.—__ 
+        (19)  __Substantial completion__  __.—__ 
 
         The term “substantial completion” means—
 
@@ -185,11 +185,11 @@
 
             (B) a comparable event, as determined by the Secretary and specified in the credit agreement.
 
-        (20) __TIFIA program.—__ 
+        (20)  __TIFIA program__  __.—__ 
 
         The term “TIFIA program” means the transportation infrastructure finance and innovation program of the Department.
 
-    (b) __Treatment of Chapter.—__ 
+    (b)  __Treatment of Chapter__  __.—__ 
 
     For purposes of this title, this chapter shall be treated as being part of chapter 1.
 
@@ -257,11 +257,11 @@
 
 [Pub. L. 105–178, title I, § 1511][/us/pl/105/178/s1511], June 9, 1998, [112 Stat. 251][/us/stat/112/251], as amended by [Pub. L. 107–117, div. B, § 1108][/us/pl/107/117/s1108], Jan. 10, 2002, [115 Stat. 2332][/us/stat/115/2332], provided that:
 
->     “(a) __Definitions.—__ 
+>     “(a)  __Definitions__  __.—__ 
 
 >     In this section:
 
->         “(1) __Other assistance.—__ 
+>         “(1)  __Other assistance__  __.—__ 
 
 >         The term ‘other assistance’ includes any use of funds in an infrastructure bank—
 
@@ -279,7 +279,7 @@
 
 >             “(G) to provide other forms of debt financing and methods of leveraging funds that are approved by the Secretary and that relate to the project with respect to which the assistance is being provided.
 
->         “(2) __State.—__ 
+>         “(2)  __State__  __.—__ 
 
 >         The term ‘State’ has the meaning given the term under [section 401 of title 23][/us/usc/t23/s401], United States Code.
 
@@ -287,21 +287,21 @@
 
 >         “(1) __In general.—__ 
 
->             “(A) __Purpose of agreements.—__ 
+>             “(A)  __Purpose of agreements__  __.—__ 
 
 >             Subject to this section, the Secretary may enter into cooperative agreements with the States of California, Florida, Missouri, and \[sic\] Rhode Island, and Texas for the establishment of State infrastructure banks and multistate infrastructure banks for making loans and providing other assistance to public and private entities carrying out or proposing to carry out projects eligible for assistance under this section, provided that Texas may not compete for funds previously allocated or appropriated to any other State.
 
->             “(B) __Contents of agreements.—__ 
+>             “(B)  __Contents of agreements__  __.—__ 
 
 >             Each cooperative agreement shall specify procedures and guidelines for establishing, operating, and providing assistance from the infrastructure bank.
 
->         “(2) __Interstate compacts.—__ 
+>         “(2)  __Interstate compacts__  __.—__ 
 
 >         If 2 or more States enter into a cooperative agreement under paragraph (1) with the Secretary for the establishment of a multistate infrastructure bank, Congress grants consent to those States to enter into an interstate compact establishing the bank in accordance with this section.
 
 >     “(c) __Funding.—__ 
 
->         “(1) __Contribution.—__ 
+>         “(1)  __Contribution__  __.—__ 
 
 >         Notwithstanding any other provision of law, the Secretary may allow, subject to subsection (h)(1), a State that enters into a cooperative agreement under this section to contribute to the infrastructure bank established by the State not to exceed—
 
@@ -315,45 +315,45 @@
 
 >             “(C) the total amount of funds made available to the State under subtitle V of title 49, United States Code.
 
->         “(2) __Capitalization grant.—__ 
+>         “(2)  __Capitalization grant__  __.—__ 
 
 >         For the purposes of this section, Federal funds contributed to the infrastructure bank under this subsection shall constitute a capitalization grant for the infrastructure bank.
 
->         “(3) __Special rule for urbanized areas of over 200,000.—__ 
+>         “(3)  __Special rule for urbanized areas of over 200,000__  __.—__ 
 
 >         Funds that are apportioned or allocated to a State under \[former\] [section 104(b)(3) of title 23][/us/usc/t23/s104/b/3], United States Code, and attributed to urbanized areas of a State with a population of over 200,000 individuals under \[former\] section 133(d)(2) of such title may be used to provide assistance from an infrastructure bank under this section with respect to a project only if the metropolitan planning organization designated for the area concurs, in writing, with the provision of the assistance.
 
 >     “(d) __Forms of Assistance From Infrastructure Banks.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         An infrastructure bank established under this section may make loans or provide other assistance to a public or private entity in an amount equal to all or part of the cost of carrying out a project eligible for assistance under this section.
 
->         “(2) __Subordination of loans.—__ 
+>         “(2)  __Subordination of loans__  __.—__ 
 
 >         The amount of any loan or other assistance provided for the project may be subordinated to any other debt financing for the project.
 
->         “(3) __Initial assistance.—__ 
+>         “(3)  __Initial assistance__  __.—__ 
 
 >         Initial assistance provided with respect to a project from Federal funds contributed to an infrastructure bank under this section shall not be made in the form of a grant.
 
 >     “(e) __Qualifying Projects.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Subject to paragraph (2), funds in an infrastructure bank established under this section may be used only to provide assistance with respect to projects eligible for assistance under title 23, United States Code, for capital projects (as defined in [section 5302 of title 49][/us/usc/t49/s5302], United States Code), or for any other project related to surface transportation that the Secretary determines to be appropriate.
 
->         “(2) __Interstate funds.—__ 
+>         “(2)  __Interstate funds__  __.—__ 
 
 >         Funds contributed to an infrastructure bank from funds apportioned to a State under \[former\] [section 104(b)(4) of title 23][/us/usc/t23/s104/b/4], United States Code, may be used only to provide assistance with respect to projects eligible for assistance under such paragraph.
 
->         “(3) __Rail program funds.—__ 
+>         “(3)  __Rail program funds__  __.—__ 
 
 >         Funds contributed to an infrastructure bank from funds made available to a State under subtitle V of title 49, United States Code, shall be used in a manner consistent with any project description specified under the law making the funds available to the State.
 
 >     “(f) __Infrastructure Bank Requirements.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Subject to paragraph (2), in order to establish an infrastructure bank under this section, each State establishing such a bank shall—
 
@@ -385,15 +385,15 @@
 
 >             “(G) require the bank to make a biennial report to the Secretary and to make such other reports as the Secretary may require in guidelines.
 
->         “(2) __Waivers by the secretary.—__ 
+>         “(2)  __Waivers by the secretary__  __.—__ 
 
 >         The Secretary may waive a requirement of any of subparagraphs (C) through (G) of paragraph (1) with respect to an infrastructure bank if the Secretary determines that the waiver is consistent with the objectives of this section.
 
->     “(g) __Limitation on Repayments.—__ 
+>     “(g)  __Limitation on Repayments__  __.—__ 
 
 >     Notwithstanding any other provision of law, the repayment of a loan or other assistance provided from an infrastructure bank under this section may not be credited toward the non-Federal share of the cost of any project.
 
->     “(h) __Secretarial Requirements.—__ 
+>     “(h)  __Secretarial Requirements__  __.—__ 
 
 >     In administering this section, the Secretary shall—
 
@@ -403,7 +403,7 @@
 
 >     “(i) __Applicability of Federal Law.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The requirements of titles 23 and 49, United States Code, that would otherwise apply to funds made available under such title and projects assisted with those funds shall apply to—
 
@@ -413,31 +413,31 @@
 
 >             except to the extent that the Secretary determines that any requirement of such title (other than sections 113 and 114 of title 23 and [section 5333 of title 49][/us/usc/t49/s5333]), is not consistent with the objectives of this section.
 
->         “(2) __Repayments.—__ 
+>         “(2)  __Repayments__  __.—__ 
 
 >         The requirements of titles 23 and 49, United States Code, shall apply to repayments from non-Federal sources to an infrastructure bank from projects assisted by the bank. Such a repayment shall be considered to be Federal funds.
 
 >     “(j) __United States Not Obligated.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The contribution of Federal funds to an infrastructure bank established under this section shall not be construed as a commitment, guarantee, or obligation on the part of the United States to any third party. No third party shall have any right against the United States for payment solely by virtue of the contribution.
 
->         “(2) __Statement.—__ 
+>         “(2)  __Statement__  __.—__ 
 
 >         Any security or debt financing instrument issued by the infrastructure bank shall expressly state that the security or instrument does not constitute a commitment, guarantee, or obligation of the United States.
 
->     “(k) __Management of Federal Funds.—__ 
+>     “(k)  __Management of Federal Funds__  __.—__ 
 
 >     Sections 3335 and 6503 of title 31, United States Code, shall not apply to funds contributed under this section.
 
 >     “(l) __Program Administration.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         A State may expend not to exceed 2 percent of the Federal funds contributed to an infrastructure bank established by the State under this section to pay the reasonable costs of administering the bank.
 
->         “(2) __Non-federal funds.—__ 
+>         “(2)  __Non-federal funds__  __.—__ 
 
 >         The limitation described in paragraph (1) shall not apply to non-Federal funds.”
 
@@ -445,21 +445,21 @@
 
 >     “(a) __In General.—__ 
 
->         “(1) __Cooperative agreements.—__ 
+>         “(1)  __Cooperative agreements__  __.—__ 
 
 >         Subject to the provisions of this section, the Secretary \[of Transportation\] may enter into cooperative agreements with not to exceed 10 States for the establishment of State infrastructure banks and multistate infrastructure banks for making loans and providing other assistance to public and private entities carrying out or proposing to carry out projects eligible for assistance under this section.
 
->         “(2) __Interstate compacts.—__ 
+>         “(2)  __Interstate compacts__  __.—__ 
 
 >         Congress grants consent to 2 or more of the States, entering into a cooperative agreement under paragraph (1) with the Secretary for the establishment of a multistate infrastructure bank, to enter into an interstate compact establishing such bank in accordance with this section.
 
 >     “(b) __Funding.—__ 
 
->         “(1) __Separate accounts.—__ 
+>         “(1)  __Separate accounts__  __.—__ 
 
 >         An infrastructure bank established under this section shall maintain a separate highway account for Federal funds contributed to the bank under paragraph (2) and a separate transit account for Federal funds contributed to the bank under paragraph (3). No Federal funds contributed or credited to an account of an infrastructure bank established under this section may be commingled with Federal funds contributed or credited to any other account of such bank.
 
->         “(2) __Highway account.—__ 
+>         “(2)  __Highway account__  __.—__ 
 
 >         Notwithstanding any other provision of law, the Secretary may allow, subject to subsection (g)(1), a State entering into a cooperative agreement under this section to contribute not to exceed—
 
@@ -469,23 +469,23 @@
 
 >             into the highway account of the infrastructure bank established by the State. Federal funds contributed to such account under this paragraph shall constitute for purposes of this section a capitalization grant for the highway account of the infrastructure bank.
 
->         “(3) __Transit account.—__ 
+>         “(3)  __Transit account__  __.—__ 
 
 >         Notwithstanding any other provision of law, the Secretary may allow, subject to subsection (g)(1), a State entering into a cooperative agreement under this section, and any other Federal transit grant recipient, to contribute not to exceed 10 percent of the funds made available to the State or other Federal transit grant recipient in each of fiscal years 1996 and 1997 for capital projects under sections 5307, 5309, and 5311 of title 49, United States Code, into the transit account of the infrastructure bank established by the State. Federal funds contributed to such account under this paragraph shall constitute for purposes of this section a capitalization grant for the transit account of the infrastructure bank.
 
->         “(4) __Special rule for urbanized areas of over 200,000.—__ 
+>         “(4)  __Special rule for urbanized areas of over 200,000__  __.—__ 
 
 >         Funds that are apportioned or allocated to a State under \[former\] section 104(b)(3) or 160 of title 23, United States Code, or under section 1013(c) or 1015 of the Intermodal Surface Transportation Efficiency Act of 1991 \[[Pub. L. 102–240][/us/pl/102/240], former [23 U.S.C. 157][/us/usc/t23/s157] note, former 104 note\] and attributed to urbanized areas of a State with an urbanized population of over 200,000 under \[former\] section 133(d)(3) of such title may be used to provide assistance with respect to a project only if the metropolitan planning organization designated for such area concurs, in writing, with the provision of such assistance.
 
->     “(c) __Forms of Assistance From Infrastructure Banks.—__ 
+>     “(c)  __Forms of Assistance From Infrastructure Banks__  __.—__ 
 
 >     An infrastructure bank established under this section may make loans or provide other assistance to a public or private entity in an amount equal to all or part of the cost of carrying out a project eligible for assistance under this section. The amount of any loan or other assistance provided for such project may be subordinated to any other debt financing for the project. Initial assistance provided with respect to a project from Federal funds contributed to an infrastructure bank under this section may not be made in the form of a grant.
 
->     “(d) __Qualifying Projects.—__ 
+>     “(d)  __Qualifying Projects__  __.—__ 
 
 >     Federal funds in the highway account of an infrastructure bank established under this section may be used only to provide assistance with respect to construction of Federal-aid highways. Federal funds in the transit account of such bank may be used only to provide assistance with respect to capital projects.
 
->     “(e) __Infrastructure Bank Requirements.—__ 
+>     “(e)  __Infrastructure Bank Requirements__  __.—__ 
 
 >     In order to establish an infrastructure bank under this section, each State establishing the bank shall—
 
@@ -513,11 +513,11 @@
 
 >         “(8) require the bank to make an annual report to the Secretary on its status no later than September 30, 1996, and September 30, 1997, and to make such other reports as the Secretary may require by guidelines.
 
->     “(f) __Limitation on Repayments.—__ 
+>     “(f)  __Limitation on Repayments__  __.—__ 
 
 >     Notwithstanding any other provision of law, the repayment of a loan or other assistance provided from an infrastructure bank under this section may not be credited towards the non-Federal share of the cost of any project.
 
->     “(g) __Secretarial Requirements.—__ 
+>     “(g)  __Secretarial Requirements__  __.—__ 
 
 >     In administering this section, the Secretary shall—
 
@@ -535,19 +535,19 @@
 
 >         “(3) specify procedures and guidelines for establishing, operating, and providing assistance from the bank.
 
->     “(h) __United States Not Obligated.—__ 
+>     “(h)  __United States Not Obligated__  __.—__ 
 
 >     The contribution of Federal funds into an infrastructure bank established under this section shall not be construed as a commitment, guarantee, or obligation on the part of the United States to any third party, nor shall any third party have any right against the United States for payment solely by virtue of the contribution. Any security or debt financing instrument issued by the infrastructure bank shall expressly state that the security or instrument does not constitute a commitment, guarantee, or obligation of the United States.
 
->     “(i) __Management of Federal Funds.—__ 
+>     “(i)  __Management of Federal Funds__  __.—__ 
 
 >     Sections 3335 and 6503 of title 31, United States Code, shall not apply to funds contributed under this section.
 
->     “(j) __Program Administration.—__ 
+>     “(j)  __Program Administration__  __.—__ 
 
 >     For each of fiscal years 1996 and 1997, a State may expend not to exceed 2 percent of the Federal funds contributed to an infrastructure bank established by the State under this section to pay the reasonable costs of administering the bank.
 
->     “(k) __Secretarial Review.—__ 
+>     “(k)  __Secretarial Review__  __.—__ 
 
 >     The Secretary shall review the financial condition of each infrastructure bank established under this section and transmit to Congress a report on the results of such review not later than March 1, 1997. In addition, the report shall contain—
 
@@ -555,19 +555,19 @@
 
 >         “(2) recommendations of the Secretary as to whether the program should be expanded or made a part of the Federal-aid highway and transit programs.
 
->     “(l) __Definitions.—__ 
+>     “(l)  __Definitions__  __.—__ 
 
 >     In this section, the following definitions apply:
 
->         “(1) __Capital project.—__ 
+>         “(1)  __Capital project__  __.—__ 
 
 >         The term ‘capital project’ has the meaning such term has under [section 5302 of title 49][/us/usc/t49/s5302], United States Code.
 
->         “(2) __Construction; federal-aid highway.—__ 
+>         “(2)  __Construction; federal-aid highway__  __.—__ 
 
 >         The terms ‘construction’ and ‘Federal-aid highway’ have the meanings such terms have under [section 101 of title 23][/us/usc/t23/s101], United States Code.
 
->         “(3) __Other assistance.—__ 
+>         “(3)  __Other assistance__  __.—__ 
 
 >         The term ‘other assistance’ includes any use of funds in an infrastructure bank—
 
@@ -585,7 +585,7 @@
 
 >             “(G) to provide other forms of debt financing and methods of leveraging funds that are approved by the Secretary and that relate to the project with respect to which such assistance is being provided.
 
->         “(4) __State.—__ 
+>         “(4)  __State__  __.—__ 
 
 >         The term ‘State’ has the meaning such term has under [section 101 of title 23][/us/usc/t23/s101], United States Code.”
 

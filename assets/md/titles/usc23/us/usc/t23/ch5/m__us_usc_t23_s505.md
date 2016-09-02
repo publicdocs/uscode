@@ -15,7 +15,7 @@
 
 ## § 505. State planning and research
 
-    (a) __General Rule.—__ 
+    (a)  __General Rule__  __.—__ 
 
     Two percent of the sums apportioned to a State for fiscal year 1998 and each fiscal year thereafter under paragraphs (1) through (4) of section 104(b) shall be available for expenditure by the State, in consultation with the Secretary, only for the following purposes:
 
@@ -35,33 +35,33 @@
 
     (b) __Minimum Expenditures on Research, Development, and Technology Transfer Activities.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Subject to paragraph (2), not less than 25 percent of the funds subject to subsection (a) that are apportioned to a State for a fiscal year shall be expended by the State for research, development, and technology transfer activities described in subsection (a), relating to highway, public transportation, and intermodal transportation systems.
 
-        (2) __Waivers.—__ 
+        (2)  __Waivers__  __.—__ 
 
         The Secretary may waive the application of paragraph (1) with respect to a State for a fiscal year if the State certifies to the Secretary for the fiscal year that total expenditures by the State for transportation planning under sections 134 and 135 will exceed 75 percent of the funds described in paragraph (1) and the Secretary accepts such certification.
 
-        (3) __Nonapplicability of assessment.—__ 
+        (3)  __Nonapplicability of assessment__  __.—__ 
 
         Funds expended under paragraph (1) shall not be considered to be part of the extramural budget of the agency for the purpose of section 9 of the Small Business Act ([15 U.S.C. 638][/us/usc/t15/s638]).
 
-    (c) __Implementation of Future Strategic Highway Research Program Findings and Results.—__ 
+    (c)  __Implementation of Future Strategic Highway Research Program Findings and Results__  __.—__ 
 
-        (1) __Funds.—__ 
+        (1)  __Funds__  __.—__ 
 
         A State shall make available to the Secretary to carry out section 503(c)(2)(C) a percentage of funds subject to subsection (a) that are apportioned to that State, that is agreed to by ¾ of States for each of fiscal years 2013 and 2014.
 
-        (2) __Treatment of funds.—__ 
+        (2)  __Treatment of funds__  __.—__ 
 
         Funds expended under paragraph (1) shall not be considered to be part of the extramural budget of the agency for the purpose of section 9 of the Small Business Act ([15 U.S.C. 638][/us/usc/t15/s638]).
 
-    (d) __Federal Share.—__ 
+    (d)  __Federal Share__  __.—__ 
 
     The Federal share of the cost of a project carried out using funds subject to subsection (a) shall be 80 percent unless the Secretary determines that the interests of the Federal-aid highway program would be best served by decreasing or eliminating the non-Federal share.
 
-    (e) __Administration of Sums.—__ 
+    (e)  __Administration of Sums__  __.—__ 
 
     Funds subject to subsection (a) shall be combined and administered by the Secretary as a single fund and shall be available for obligation for the period described in section 118(b).
 

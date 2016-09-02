@@ -15,11 +15,11 @@
 
 ## § 322. Magnetic levitation transportation technology deployment program
 
-    (a) __Definitions.—__ 
+    (a)  __Definitions__  __.—__ 
 
     In this section, the following definitions apply:
 
-        (1) __Eligible project costs.—__ 
+        (1)  __Eligible project costs__  __.—__ 
 
         The term “eligible project costs”—
 
@@ -27,7 +27,7 @@
 
             (B) includes the costs of preconstruction planning activities.
 
-        (2) __Full project costs.—__ 
+        (2)  __Full project costs__  __.—__ 
 
         The term “full project costs” means the total capital costs of a MAGLEV project, including eligible project costs and the costs of stations, vehicles, and equipment.
 
@@ -35,29 +35,29 @@
 
         The term “MAGLEV” means transportation systems employing magnetic levitation that would be capable of safe use by the public at a speed in excess of 240 miles per hour.
 
-        (4) __Partnership potential.—__ 
+        (4)  __Partnership potential__  __.—__ 
 
         The term “partnership potential” has the meaning given the term in the commercial feasibility study of high-speed ground transportation conducted under section 1036 of the Intermodal Surface Transportation Efficiency Act of 1991 ([105 Stat. 1978][/us/stat/105/1978]).
 
     (b) __Financial Assistance.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The Secretary shall make available financial assistance to pay the Federal share of full project costs of eligible projects selected under this section. Financial assistance made available under this section and projects assisted with the assistance shall be subject to [section 5333(a) of title 49][/us/usc/t49/s5333/a], United States Code.
 
-        (2) __Federal share.—__ 
+        (2)  __Federal share__  __.—__ 
 
         The Federal share of full project costs under paragraph (1) shall be not more than ⅔.
 
-        (3) __Use of assistance.—__ 
+        (3)  __Use of assistance__  __.—__ 
 
         Financial assistance provided under paragraph (1) shall be used only to pay eligible project costs of projects selected under this section.
 
-    (c) __Solicitation of Applications for Assistance.—__ 
+    (c)  __Solicitation of Applications for Assistance__  __.—__ 
 
     Not later than 180 days after the date of enactment of this subsection, the Secretary shall solicit applications from States, or authorities designated by 1 or more States, for financial assistance authorized by subsection (b) for planning, design, and construction of eligible MAGLEV projects.
 
-    (d) __Project Eligibility.—__ 
+    (d)  __Project Eligibility__  __.—__ 
 
     To be eligible to receive financial assistance under subsection (b), a project shall—
 
@@ -83,7 +83,7 @@
 
         (8) be carried out using materials at least 70 percent of which are manufactured in the United States.
 
-    (e) __Project Selection Criteria.—__ 
+    (e)  __Project Selection Criteria__  __.—__ 
 
     Prior to soliciting applications, the Secretary shall establish criteria for selecting which eligible projects under subsection (d) will receive financial assistance under subsection (b). The criteria shall include the extent to which—
 
@@ -105,7 +105,7 @@
 
     (f) __Project Selection.—__ 
 
-        (1) __Preconstruction planning activities.—__ 
+        (1)  __Preconstruction planning activities__  __.—__ 
 
         Not later than 90 days after a deadline established by the Secretary for the receipt of applications, the Secretary shall evaluate the eligible projects in accordance with the selection criteria and select 1 or more eligible projects to receive financial assistance for preconstruction planning activities, including—
 
@@ -115,11 +115,11 @@
 
             (C) such other activities as are necessary to provide the Secretary with sufficient information to evaluate whether a project should receive financial assistance for final design, engineering, and construction activities under paragraph (2).
 
-        (2) __Final design, engineering, and construction activities.—__ 
+        (2)  __Final design, engineering, and construction activities__  __.—__ 
 
         After completion of preconstruction planning activities for all projects assisted under paragraph (1), the Secretary shall select 1 of the projects to receive financial assistance for final design, engineering, and construction activities.
 
-    (g) __Joint Ventures.—__ 
+    (g)  __Joint Ventures__  __.—__ 
 
     A project undertaken by a joint venture of United States and non-United States persons (including a project involving the deployment of non-United States MAGLEV technology in the United States) shall be eligible for financial assistance under this section if the project is eligible under subsection (d) and selected under subsection (f).
 
@@ -129,11 +129,11 @@
 
             (A) __Contract authority; authorization of appropriations.—__ 
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 There is authorized to be appropriated from the Highway Trust Fund (other than the Mass Transit Account) to carry out this section $15,000,000 for fiscal year 1999, $20,000,000 for fiscal year 2000, and $25,000,000 for fiscal year 2001.
 
-                (ii) __Contract authority.—__ 
+                (ii)  __Contract authority__  __.—__ 
 
                 Funds authorized by this subparagraph shall be available for obligation in the same manner as if the funds were apportioned under chapter 1, except that—
 
@@ -143,39 +143,39 @@
 
             (B) __Noncontract authority authorization of appropriations.—__ 
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 There are authorized to be appropriated from the Highway Trust Fund (other than the Mass Transit Account) to carry out this section (other than subsection (i)) $200,000,000 for each of fiscal years 2000 and 2001, $250,000,000 for fiscal year 2002, and $300,000,000 for fiscal year 2003.
 
-                (ii) __Availability.—__ 
+                (ii)  __Availability__  __.—__ 
 
                 Notwithstanding section 118(a), funds made available under clause (i) shall not be available in advance of an annual appropriation.
 
-        (2) __Availability of funds.—__ 
+        (2)  __Availability of funds__  __.—__ 
 
         Funds made available under paragraph (1) shall remain available until expended.
 
-        (3) __Other federal funds.—__ 
+        (3)  __Other federal funds__  __.—__ 
 
         Notwithstanding any other provision of law, funds made available to a State to carry out the surface transportation program under section 133 and the congestion mitigation and air quality improvement program under section 149 may be used by the State to pay a portion of the full project costs of an eligible project selected under this section, without requirement for non-Federal funds.
 
-        (4) __Other assistance.—__ 
+        (4)  __Other assistance__  __.—__ 
 
         Notwithstanding any other provision of law, an eligible project selected under this section shall be eligible for other forms of financial assistance provided under this title and the Transportation Equity Act for the 21st Century, including loans, loan guarantees, and lines of credit.
 
     (i) __Low-Speed Project.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Notwithstanding any other provision of this section, of the funds made available by subsection (h)(1)(A) to carry out this section, $5,000,000 shall be made available to the Secretary to make grants for the research and development of low-speed superconductivity magnetic levitation technology for public transportation purposes in urban areas to demonstrate energy efficiency, congestion mitigation, and safety benefits.
 
         (2) __Noncontract authority authorization of appropriations.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             There are authorized to be appropriated from the Highway Trust Fund (other than the Mass Transit Account) to carry out this subsection such sums as are necessary for each of fiscal years 2000 through 2003.
 
-            (B) __Availability.—__ 
+            (B)  __Availability__  __.—__ 
 
             Notwithstanding section 118(a), funds made available under subparagraph (A)—
 
@@ -219,11 +219,11 @@
 
 [Pub. L. 109–59, title I, § 1307][/us/pl/109/59/s1307], Aug. 10, 2005, [119 Stat. 1217][/us/stat/119/1217], as amended by [Pub. L. 110–244, title I, § 102(b)][/us/pl/110/244/s102/b], (c), June 6, 2008, [122 Stat. 1577][/us/stat/122/1577], provided that:
 
->     “(a) __Definitions.—__ 
+>     “(a)  __Definitions__  __.—__ 
 
 >     In this section, the following definitions apply:
 
->         “(1) __Eligible project costs.—__ 
+>         “(1)  __Eligible project costs__  __.—__ 
 
 >         The term ‘eligible project costs’—
 
@@ -231,7 +231,7 @@
 
 >             “(B) includes the costs of preconstruction planning activities.
 
->         “(2) __Full project costs.—__ 
+>         “(2)  __Full project costs__  __.—__ 
 
 >         The term ‘full project costs’ means the total capital costs of a MAGLEV project, including eligible project costs and the costs of stations, vehicles, and equipment.
 
@@ -239,25 +239,25 @@
 
 >         The term ‘MAGLEV’ means transportation systems employing magnetic levitation that would be capable of safe use by the public at a speed in excess of 240 miles per hour.
 
->         “(4) __State.—__ 
+>         “(4)  __State__  __.—__ 
 
 >         The term ‘State’ has the meaning such term has under [section 101(a) of title 23][/us/usc/t23/s101/a], United States Code.
 
 >     “(b) __In General.—__ 
 
->         “(1) __Assistance for eligible projects.—__ 
+>         “(1)  __Assistance for eligible projects__  __.—__ 
 
 >         The Secretary \[of Transportation\] shall make available financial assistance to pay the Federal share of full project costs of eligible projects authorized by this section.
 
->         “(2) __Use of assistance.—__ 
+>         “(2)  __Use of assistance__  __.—__ 
 
 >         Financial assistance provided under paragraph (1) shall be used only to pay eligible project costs of projects authorized by this section.
 
->         “(3) __Applicability of other laws.—__ 
+>         “(3)  __Applicability of other laws__  __.—__ 
 
 >         Financial assistance made available under this section, and projects assisted with such assistance, shall be subject to [section 5333(a) of title 49][/us/usc/t49/s5333/a], United States Code.
 
->     “(c) __Project Eligibility.—__ 
+>     “(c)  __Project Eligibility__  __.—__ 
 
 >     To be eligible to receive financial assistance under subsection (b), a project shall—
 
@@ -267,7 +267,7 @@
 
 >         “(3) be approved by the Secretary \[of Transportation\] based on an application submitted to the Secretary by a State or authority designated by one or more States.
 
->     “(d) __Allocation.—__ 
+>     “(d)  __Allocation__  __.—__ 
 
 >     Of the amounts made available to carry out this section for a fiscal year, the Secretary \[of Transportation\] shall allocate—
 
@@ -275,7 +275,7 @@
 
 >         “(2) 50 percent for existing MAGLEV projects located east of the Mississippi River using such criteria as the Secretary deems appropriate.
 
->     “(e) __Contract Authority.—__ 
+>     “(e)  __Contract Authority__  __.—__ 
 
 >     Funds authorized under section 1101(a)(18) \[[119 Stat. 1155][/us/stat/119/1155]\] shall be available for obligation in the same manner as if the funds were apportioned under chapter 1 of title 23, United States Code; except that the funds shall not be transferable and shall remain available until expended, and the Federal share of the cost of a project to be carried out with such funds shall be 80 percent.”
 
@@ -289,15 +289,15 @@
 
 [Pub. L. 105–178, title III, § 3015(c)][/us/pl/105/178/s3015/c], June 9, 1998, [112 Stat. 361][/us/stat/112/361], as amended by [Pub. L. 105–206, title IX, § 9009(k)(1)][/us/pl/105/206/s9009/k/1], July 22, 1998, [112 Stat. 857][/us/stat/112/857]; [Pub. L. 108–88, § 8(q)][/us/pl/108/88/s8/q], Sept. 30, 2003, [117 Stat. 1125][/us/stat/117/1125]; [Pub. L. 108–202, § 9(q)][/us/pl/108/202/s9/q], Feb. 29, 2004, [118 Stat. 489][/us/stat/118/489]; [Pub. L. 108–224, § 7(q)][/us/pl/108/224/s7/q], Apr. 30, 2004, [118 Stat. 637][/us/stat/118/637]; [Pub. L. 108–263, § 7(q)][/us/pl/108/263/s7/q], June 30, 2004, [118 Stat. 708][/us/stat/118/708]; [Pub. L. 108–280, § 7(q)][/us/pl/108/280/s7/q], July 30, 2004, [118 Stat. 885][/us/stat/118/885]; [Pub. L. 108–310, § 8(q)][/us/pl/108/310/s8/q], Sept. 30, 2004, [118 Stat. 1158][/us/stat/118/1158]; [Pub. L. 109–14, § 7(p)][/us/pl/109/14/s7/p], May 31, 2005, [119 Stat. 334][/us/stat/119/334]; [Pub. L. 109–20, § 7(p)][/us/pl/109/20/s7/p], July 1, 2005, [119 Stat. 356][/us/stat/119/356]; [Pub. L. 109–35, § 7(p)][/us/pl/109/35/s7/p], July 20, 2005, [119 Stat. 389][/us/stat/119/389]; [Pub. L. 109–37, § 7(p)][/us/pl/109/37/s7/p], July 22, 2005, [119 Stat. 404][/us/stat/119/404]; [Pub. L. 109–40, § 7(p)][/us/pl/109/40/s7/p], July 28, 2005, [119 Stat. 420][/us/stat/119/420], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The Secretary shall make grants for the development of low speed magnetic levitation technology for public transportation purposes in urban areas to demonstrate energy efficiency, congestion mitigation, and safety benefits.
 
->     “(2) __Funding.—__ 
+>     “(2)  __Funding__  __.—__ 
 
 >     Of the amounts made available under section 5001(a)(2) of this Act \[[112 Stat. 419][/us/stat/112/419]\] for each of fiscal years 1998 through 2004, and for the period of October 1, 2004, through July 30, 2005,, \[sic\] $5,000,000 per fiscal year and $4,150,685 for such period shall be available to carry out this subsection. Financial assistance made available under this subsection and projects assisted with the assistance shall be subject to [section 5333(a) of title 49][/us/usc/t49/s5333/a], United States Code.
 
->     “(3) __Federal share.—__ 
+>     “(3)  __Federal share__  __.—__ 
 
 >     The Federal share payable on account of activities carried out using a grant made under this subsection shall be 80 percent of the cost of such activities.”
 

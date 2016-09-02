@@ -41,7 +41,7 @@
 
         (3) For the purposes of this subsection, the terms “facilities” and “parking facilities” are synonymous and shall have the same meaning given “parking facilities” in subsection (c) of this section.
 
-    (g) __Funding.—__ 
+    (g)  __Funding__  __.—__ 
 
     The addition of electric vehicle charging stations or natural gas vehicle refueling stations to new or previously funded parking facilities shall be eligible for funding under this section.
 
@@ -79,11 +79,11 @@
 
 [Pub. L. 112–141, div. A, title I, § 1401][/us/pl/112/141/s1401], July 6, 2012, [126 Stat. 554][/us/stat/126/554], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     It is the sense of Congress that it is a national priority to address projects under this section for the shortage of long-term parking for commercial motor vehicles on the National Highway System to improve the safety of motorized and nonmotorized users and for commercial motor vehicle operators.
 
->     “(b) __Eligible Projects.—__ 
+>     “(b)  __Eligible Projects__  __.—__ 
 
 >     Eligible projects under this section are those that—
 
@@ -109,7 +109,7 @@
 
 >     “(c) __Survey and Comparative Assessment.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Not later than 18 months after the date of enactment of this Act \[see section 3(a), (b) of [Pub. L. 112–141][/us/pl/112/141], set out as Effective and Termination Dates of 2012 Amendment notes under [section 101 of this title][/us/usc/t23/s101]\], the Secretary \[of Transportation\], in consultation with relevant State motor carrier safety personnel, shall conduct a survey of each State—
 
@@ -119,29 +119,29 @@
 
 >             “(C) to develop a system of metrics to measure the adequacy of commercial motor vehicle parking facilities in the State.
 
->         “(2) __Results.—__ 
+>         “(2)  __Results__  __.—__ 
 
 >         The results of the survey under paragraph (1) shall be made available to the public on the website of the Department of Transportation.
 
->         “(3) __Periodic updates.—__ 
+>         “(3)  __Periodic updates__  __.—__ 
 
 >         The Secretary shall periodically update the survey under this subsection.
 
 >     “(d) __Electric Vehicle and Natural Gas Vehicle Infrastructure.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Except as provided in paragraph (2), a State may establish electric vehicle charging stations or natural gas vehicle refueling stations for the use of battery-powered or natural gas-fueled trucks or other motor vehicles at any parking facility funded or authorized under this Act \[see Tables for classification\] or title 23, United States Code.
 
->         “(2) __Exception.—__ 
+>         “(2)  __Exception__  __.—__ 
 
 >         Electric vehicle battery charging stations or natural gas vehicle refueling stations may not be established or supported under paragraph (1) if commercial establishments serving motor vehicle users are prohibited by [section 111 of title 23][/us/usc/t23/s111], United States Code.
 
->         “(3) __Funds.—__ 
+>         “(3)  __Funds__  __.—__ 
 
 >         Charging or refueling stations described in paragraph (1) shall be eligible for the same funds as are available for the parking facilities in which the stations are located.
 
->     “(e) __Treatment of Projects.—__ 
+>     “(e)  __Treatment of Projects__  __.—__ 
 
 >     Notwithstanding any other provision of law, projects funded through the authority provided under this section shall be treated as projects on a Federal-aid highway under chapter 1 of title 23, United States Code.”
 
