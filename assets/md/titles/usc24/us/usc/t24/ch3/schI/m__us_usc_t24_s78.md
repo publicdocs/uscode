@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t24/ch3/schI/m__us_usc_t24_s71 to 77a.md) | [Next](./../../../../..//us/usc/t24/ch3/schI/m__us_usc_t24_s79.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft24%2Fs78)
+[Previous](./../../../../..//us/usc/t24/ch3/schI/m__us_usc_t24_ch3_schI.md) | [Next](./../../../../..//us/usc/t24/ch3/schI/m__us_usc_t24_s79.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft24%2Fs78)
 
 ## § 78. Repealed. [Pub. L. 85–56, title XXII, § 2202(58)][/us/pl/85/56/s2202/58], June 17, 1957, [71 Stat. 164][/us/stat/71/164]
 
@@ -23,7 +23,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t24/ch3/schI/m__us_usc_t24_s71 to 77a.md) | [Next](./../../../../..//us/usc/t24/ch3/schI/m__us_usc_t24_s79.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft24%2Fs78)
+[Previous](./../../../../..//us/usc/t24/ch3/schI/m__us_usc_t24_ch3_schI.md) | [Next](./../../../../..//us/usc/t24/ch3/schI/m__us_usc_t24_s79.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft24%2Fs78)
 
 ----------
 ----------

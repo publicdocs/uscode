@@ -11,16 +11,30 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t24/ch4/schIII/m__us_usc_t24_s225h.md) | [Next](./../../../..//us/usc/t24/ch5/m__us_usc_t24_s231 to 250.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft24%2Fch5)
+[Previous](./../../../..//us/usc/t24/ch4/schIII/m__us_usc_t24_s225h.md) | [Next](./../../../..//us/usc/t24/ch6/m__us_usc_t24_ch6.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft24%2Fch5)
 
 ## CHAPTER 5—COLUMBIA INSTITUTION FOR THE DEAF
 
+§§ 231 to 250. __Omitted__ 
+
+ __Codification__ 
+
+    Sections 231 to 250, relating to Columbia Institution for the Deaf, were transferred to sections 31–1001 to 31–1020 of the District of Columbia Code and subsequently repealed by acts [Aug. 6, 1946, ch. 770, § 1(61)][/us/act/1946-08-06/ch770/s1/61], [60 Stat. 871][/us/stat/60/871]; [June 18, 1954, ch. 324, § 9][/us/act/1954-06-18/ch324/s9], [68 Stat. 267][/us/stat/68/267]; Dec. 24, 1970, [Pub. L. 91–587, § 5][/us/pl/91/587/s5], [84 Stat. 1579][/us/stat/84/1579]. The Columbia Institution for the Deaf was redesignated Gallaudet College by act June 18, 1954, and thereafter redesignated Gallaudet University by [Pub. L. 99–371, title I, § 101(a)][/us/pl/99/371/s101/a], Aug. 4, 1986, [100 Stat. 781][/us/stat/100/781], which is classified to subchapter I (§ 4301 et seq.) of chapter 55 of Title 20, Education.
+
 ----------
 
-[Previous](./../../../..//us/usc/t24/ch4/schIII/m__us_usc_t24_s225h.md) | [Next](./../../../..//us/usc/t24/ch5/m__us_usc_t24_s231 to 250.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft24%2Fch5)
+[Previous](./../../../..//us/usc/t24/ch4/schIII/m__us_usc_t24_s225h.md) | [Next](./../../../..//us/usc/t24/ch6/m__us_usc_t24_ch6.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft24%2Fch5)
 
 ----------
 ----------
 
+[/us/act/1946-08-06/ch770/s1/61]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-06%2Fch770%2Fs1%2F61
+[/us/stat/60/871]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F871
+[/us/act/1954-06-18/ch324/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-06-18%2Fch324%2Fs9
+[/us/stat/68/267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F267
+[/us/pl/91/587/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F587%2Fs5
+[/us/stat/84/1579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1579
+[/us/pl/99/371/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F371%2Fs101%2Fa
+[/us/stat/100/781]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F781
 
 

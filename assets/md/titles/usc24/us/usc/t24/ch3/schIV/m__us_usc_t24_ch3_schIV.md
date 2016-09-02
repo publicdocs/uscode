@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t24/ch3/schIII/m__us_usc_t24_s111 to 123.md) | [Next](./../../../../..//us/usc/t24/ch3/schIV/m__us_usc_t24_s131.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft24%2Fch3%2FschIV)
+[Previous](./../../../../..//us/usc/t24/ch3/schIII/m__us_usc_t24_ch3_schIII.md) | [Next](./../../../../..//us/usc/t24/ch3/schIV/m__us_usc_t24_s131.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft24%2Fch3%2FschIV)
 
 ### SUBCHAPTER IV—BENEFICIARIES AND PENSIONS
 
 ----------
 
-[Previous](./../../../../..//us/usc/t24/ch3/schIII/m__us_usc_t24_s111 to 123.md) | [Next](./../../../../..//us/usc/t24/ch3/schIV/m__us_usc_t24_s131.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft24%2Fch3%2FschIV)
+[Previous](./../../../../..//us/usc/t24/ch3/schIII/m__us_usc_t24_ch3_schIII.md) | [Next](./../../../../..//us/usc/t24/ch3/schIV/m__us_usc_t24_s131.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft24%2Fch3%2FschIV)
 
 ----------
 ----------

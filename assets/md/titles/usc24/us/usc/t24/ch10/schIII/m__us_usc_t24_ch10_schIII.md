@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t24/ch10/schII/m__us_usc_t24_s431 to 433.md) | [Next](./../../../../..//us/usc/t24/ch10/schIII/m__us_usc_t24_s441.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft24%2Fch10%2FschIII)
+[Previous](./../../../../..//us/usc/t24/ch10/schII/m__us_usc_t24_ch10_schII.md) | [Next](./../../../../..//us/usc/t24/ch10/schIII/m__us_usc_t24_s441.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft24%2Fch10%2FschIII)
 
 ### SUBCHAPTER III—AUTHORIZATION OF APPROPRIATIONS
 
 ----------
 
-[Previous](./../../../../..//us/usc/t24/ch10/schII/m__us_usc_t24_s431 to 433.md) | [Next](./../../../../..//us/usc/t24/ch10/schIII/m__us_usc_t24_s441.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft24%2Fch10%2FschIII)
+[Previous](./../../../../..//us/usc/t24/ch10/schII/m__us_usc_t24_ch10_schII.md) | [Next](./../../../../..//us/usc/t24/ch10/schIII/m__us_usc_t24_s441.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft24%2Fch10%2FschIII)
 
 ----------
 ----------

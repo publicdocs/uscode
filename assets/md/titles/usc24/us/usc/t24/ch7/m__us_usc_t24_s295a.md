@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t24/ch7/m__us_usc_t24_s291 to 295.md) | [Next](./../../../..//us/usc/t24/ch7/m__us_usc_t24_s296.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft24%2Fs295a)
+[Previous](./../../../..//us/usc/t24/ch7/m__us_usc_t24_s277.md) | [Next](./../../../..//us/usc/t24/ch7/m__us_usc_t24_s296.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft24%2Fs295a)
 
 ## § 295a. Arlington Memorial Amphitheater
 
@@ -37,7 +37,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t24/ch7/m__us_usc_t24_s291 to 295.md) | [Next](./../../../..//us/usc/t24/ch7/m__us_usc_t24_s296.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft24%2Fs295a)
+[Previous](./../../../..//us/usc/t24/ch7/m__us_usc_t24_s277.md) | [Next](./../../../..//us/usc/t24/ch7/m__us_usc_t24_s296.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft24%2Fs295a)
 
 ----------
 ----------

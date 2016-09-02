@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t24/ch1/m__us_usc_t24_s32, 33.md) | [Next](./../../../..//us/usc/t24/ch1/m__us_usc_t24_s35.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft24%2Fs34)
+[Previous](./../../../..//us/usc/t24/ch1/m__us_usc_t24_s31.md) | [Next](./../../../..//us/usc/t24/ch1/m__us_usc_t24_s35.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft24%2Fs34)
 
 ## § 34. Hospitalization of persons outside continental limits of United States; persons entitled; availability of other facilities; rate of charges; disposition of payments
 
@@ -33,7 +33,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t24/ch1/m__us_usc_t24_s32, 33.md) | [Next](./../../../..//us/usc/t24/ch1/m__us_usc_t24_s35.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft24%2Fs34)
+[Previous](./../../../..//us/usc/t24/ch1/m__us_usc_t24_s31.md) | [Next](./../../../..//us/usc/t24/ch1/m__us_usc_t24_s35.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft24%2Fs34)
 
 ----------
 ----------

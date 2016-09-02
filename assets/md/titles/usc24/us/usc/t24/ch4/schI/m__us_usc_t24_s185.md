@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t24/ch4/schI/m__us_usc_t24_s181 to 184.md) | [Next](./../../../../..//us/usc/t24/ch4/schII/m__us_usc_t24_ch4_schII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft24%2Fs185)
+[Previous](./../../../../..//us/usc/t24/ch4/schI/m__us_usc_t24_s180.md) | [Next](./../../../../..//us/usc/t24/ch4/schII/m__us_usc_t24_ch4_schII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft24%2Fs185)
 
 ## § 185. Repealed. [Pub. L. 98–621, § 10(d)(1)][/us/pl/98/621/s10/d/1], Nov. 8, 1984, [98 Stat. 3379][/us/stat/98/3379]
 
@@ -23,7 +23,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t24/ch4/schI/m__us_usc_t24_s181 to 184.md) | [Next](./../../../../..//us/usc/t24/ch4/schII/m__us_usc_t24_ch4_schII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft24%2Fs185)
+[Previous](./../../../../..//us/usc/t24/ch4/schI/m__us_usc_t24_s180.md) | [Next](./../../../../..//us/usc/t24/ch4/schII/m__us_usc_t24_ch4_schII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft24%2Fs185)
 
 ----------
 ----------

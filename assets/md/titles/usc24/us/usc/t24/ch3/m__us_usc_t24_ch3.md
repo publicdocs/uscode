@@ -33,7 +33,7 @@ SUBCHAPTER I—ESTABLISHMENT AND MANAGEMENT  </td>
 
   <tr>
 
-    <td> 71 to 84.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft24%2Fs71" data-uslm-ref="/us/usc/t24/s71">71</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft24%2Fs84" data-uslm-ref="/us/usc/t24/s84">84.</a>  </td>
 
     <td> Repealed or Omitted.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER II—OFFICERS AND EMPLOYEES  </td>
 
   <tr>
 
-    <td> 91 to 97.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft24%2Fs91" data-uslm-ref="/us/usc/t24/s91">91</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft24%2Fs97" data-uslm-ref="/us/usc/t24/s97">97.</a>  </td>
 
     <td> Repealed or Omitted.  </td>
 
@@ -65,7 +65,9 @@ SUBCHAPTER III—FUNDS AND ACCOUNTS  </td>
 
   <tr>
 
-    <td> 111 to 123. Repealed.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft24%2Fs111" data-uslm-ref="/us/usc/t24/s111">111</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft24%2Fs123" data-uslm-ref="/us/usc/t24/s123">123.</a>  </td>
+
+    <td> Repealed.  </td>
 
   </tr>
 
@@ -79,7 +81,9 @@ SUBCHAPTER IV—BENEFICIARIES AND PENSIONS  </td>
 
   <tr>
 
-    <td> 131 to 139. Repealed or Omitted.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft24%2Fs131" data-uslm-ref="/us/usc/t24/s131">131</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft24%2Fs139" data-uslm-ref="/us/usc/t24/s139">139.</a>  </td>
+
+    <td> Repealed or Omitted.  </td>
 
   </tr>
 
@@ -93,7 +97,7 @@ SUBCHAPTER V—BATTLE MOUNTAIN SANITARIUM RESERVE  </td>
 
   <tr>
 
-    <td> 151.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft24%2Fs151" data-uslm-ref="/us/usc/t24/s151">151.</a>  </td>
 
     <td> Battle Mountain Sanitarium Reserve; establishment; rights to lands, not affected.  </td>
 
@@ -101,7 +105,7 @@ SUBCHAPTER V—BATTLE MOUNTAIN SANITARIUM RESERVE  </td>
 
   <tr>
 
-    <td> 152.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft24%2Fs152" data-uslm-ref="/us/usc/t24/s152">152.</a>  </td>
 
     <td> Name; control, rules and regulations.  </td>
 
@@ -109,7 +113,7 @@ SUBCHAPTER V—BATTLE MOUNTAIN SANITARIUM RESERVE  </td>
 
   <tr>
 
-    <td> 153.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft24%2Fs153" data-uslm-ref="/us/usc/t24/s153">153.</a>  </td>
 
     <td> Perfecting bona fide claims to lands; exchange of private lands.  </td>
 
@@ -117,7 +121,7 @@ SUBCHAPTER V—BATTLE MOUNTAIN SANITARIUM RESERVE  </td>
 
   <tr>
 
-    <td> 154.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft24%2Fs154" data-uslm-ref="/us/usc/t24/s154">154.</a>  </td>
 
     <td> Unlawful intrusion, or violation of rules and regulations.  </td>
 

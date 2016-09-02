@@ -21,7 +21,7 @@
 
  __Partial Repeal__ 
 
-[Act June 7, 1956, ch. 374, § 306(2)][/us/act/1956-06-07/ch374/s306/2], [70 Stat. 254][/us/stat/70/254], repealed this section except insofar as it relates to persons outside the Naval Service mentioned in [section 34 of this title][/us/usc/t24/s34]. See Effective Date of Partial Repeal note below.
+    [Act June 7, 1956, ch. 374, § 306(2)][/us/act/1956-06-07/ch374/s306/2], [70 Stat. 254][/us/stat/70/254], repealed this section except insofar as it relates to persons outside the Naval Service mentioned in [section 34 of this title][/us/usc/t24/s34]. See Effective Date of Partial Repeal note below.
 
  __Amendments__ 
 

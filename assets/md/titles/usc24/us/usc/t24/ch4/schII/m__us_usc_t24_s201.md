@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t24/ch4/schII/m__us_usc_t24_s199, 200.md) | [Next](./../../../../..//us/usc/t24/ch4/schII/m__us_usc_t24_s202.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft24%2Fs201)
+[Previous](./../../../../..//us/usc/t24/ch4/schII/m__us_usc_t24_s198.md) | [Next](./../../../../..//us/usc/t24/ch4/schII/m__us_usc_t24_s202.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft24%2Fs201)
 
 ## § 201. Repealed. [Pub. L. 98–621, § 10(a)][/us/pl/98/621/s10/a], Nov. 8, 1984, [98 Stat. 3379][/us/stat/98/3379]
 
@@ -23,7 +23,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t24/ch4/schII/m__us_usc_t24_s199, 200.md) | [Next](./../../../../..//us/usc/t24/ch4/schII/m__us_usc_t24_s202.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft24%2Fs201)
+[Previous](./../../../../..//us/usc/t24/ch4/schII/m__us_usc_t24_s198.md) | [Next](./../../../../..//us/usc/t24/ch4/schII/m__us_usc_t24_s202.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft24%2Fs201)
 
 ----------
 ----------

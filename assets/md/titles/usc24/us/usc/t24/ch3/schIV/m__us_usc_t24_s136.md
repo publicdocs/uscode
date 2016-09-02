@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t24/ch3/schIV/m__us_usc_t24_s133 to 135.md) | [Next](./../../../../..//us/usc/t24/ch3/schIV/m__us_usc_t24_s137.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft24%2Fs136)
+[Previous](./../../../../..//us/usc/t24/ch3/schIV/m__us_usc_t24_s132.md) | [Next](./../../../../..//us/usc/t24/ch3/schIV/m__us_usc_t24_s137.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft24%2Fs136)
 
 ## § 136. Repealed. [Pub. L. 85–56, title XXII, § 2202(1)][/us/pl/85/56/s2202/1], (85), June 17, 1957, [71 Stat. 162][/us/stat/71/162], 165
 
@@ -23,7 +23,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t24/ch3/schIV/m__us_usc_t24_s133 to 135.md) | [Next](./../../../../..//us/usc/t24/ch3/schIV/m__us_usc_t24_s137.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft24%2Fs136)
+[Previous](./../../../../..//us/usc/t24/ch3/schIV/m__us_usc_t24_s132.md) | [Next](./../../../../..//us/usc/t24/ch3/schIV/m__us_usc_t24_s137.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft24%2Fs136)
 
 ----------
 ----------

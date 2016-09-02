@@ -33,7 +33,7 @@ SUBCHAPTER I—ESTABLISHMENT AND MANAGEMENT; PENSIONS, MONEYS, AND APPROPRIATION
 
   <tr>
 
-    <td> 161 to 168a.   </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft24%2Fs161" data-uslm-ref="/us/usc/t24/s161">161</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft24%2Fs168a" data-uslm-ref="/us/usc/t24/s168a">168a.</a>  </td>
 
     <td> Repealed or Omitted.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—ESTABLISHMENT AND MANAGEMENT; PENSIONS, MONEYS, AND APPROPRIATION
 
   <tr>
 
-    <td> 168b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft24%2Fs168b" data-uslm-ref="/us/usc/t24/s168b">168b.</a>  </td>
 
     <td> Computation of maximum amount available from Federal sources.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—ESTABLISHMENT AND MANAGEMENT; PENSIONS, MONEYS, AND APPROPRIATION
 
   <tr>
 
-    <td> 169 to 170.   </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft24%2Fs169" data-uslm-ref="/us/usc/t24/s169">169</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft24%2Fs170" data-uslm-ref="/us/usc/t24/s170">170.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER I—ESTABLISHMENT AND MANAGEMENT; PENSIONS, MONEYS, AND APPROPRIATION
 
   <tr>
 
-    <td> 170a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft24%2Fs170a" data-uslm-ref="/us/usc/t24/s170a">170a.</a>  </td>
 
     <td> Maximum amount available from Federal sources.  </td>
 
@@ -65,7 +65,9 @@ SUBCHAPTER I—ESTABLISHMENT AND MANAGEMENT; PENSIONS, MONEYS, AND APPROPRIATION
 
   <tr>
 
-    <td> 171 to 185. Repealed.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft24%2Fs171" data-uslm-ref="/us/usc/t24/s171">171</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft24%2Fs185" data-uslm-ref="/us/usc/t24/s185">185.</a>  </td>
+
+    <td> Repealed.  </td>
 
   </tr>
 
@@ -79,7 +81,9 @@ SUBCHAPTER II—INMATES; BURDEN OF EXPENSES THEREOF; DETENTION OF INSANE  </td>
 
   <tr>
 
-    <td> 191 to 222. Repealed or Omitted.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft24%2Fs191" data-uslm-ref="/us/usc/t24/s191">191</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft24%2Fs222" data-uslm-ref="/us/usc/t24/s222">222.</a>  </td>
+
+    <td> Repealed or Omitted.  </td>
 
   </tr>
 
@@ -93,7 +97,7 @@ SUBCHAPTER III—MENTAL HEALTH SERVICE FOR DISTRICT OF COLUMBIA  </td>
 
   <tr>
 
-    <td> 225.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft24%2Fs225" data-uslm-ref="/us/usc/t24/s225">225.</a>  </td>
 
     <td> Findings and purposes.  </td>
 
@@ -101,7 +105,7 @@ SUBCHAPTER III—MENTAL HEALTH SERVICE FOR DISTRICT OF COLUMBIA  </td>
 
   <tr>
 
-    <td> 225a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft24%2Fs225a" data-uslm-ref="/us/usc/t24/s225a">225a.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -109,7 +113,7 @@ SUBCHAPTER III—MENTAL HEALTH SERVICE FOR DISTRICT OF COLUMBIA  </td>
 
   <tr>
 
-    <td> 225b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft24%2Fs225b" data-uslm-ref="/us/usc/t24/s225b">225b.</a>  </td>
 
     <td> Development of plan for mental health system for the District.  </td>
 
@@ -117,7 +121,7 @@ SUBCHAPTER III—MENTAL HEALTH SERVICE FOR DISTRICT OF COLUMBIA  </td>
 
   <tr>
 
-    <td> 225c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft24%2Fs225c" data-uslm-ref="/us/usc/t24/s225c">225c.</a>  </td>
 
     <td> Congressional review of system implementation plan.  </td>
 
@@ -125,7 +129,7 @@ SUBCHAPTER III—MENTAL HEALTH SERVICE FOR DISTRICT OF COLUMBIA  </td>
 
   <tr>
 
-    <td> 225d.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft24%2Fs225d" data-uslm-ref="/us/usc/t24/s225d">225d.</a>  </td>
 
     <td> Transition provisions for employees of Hospital.  </td>
 
@@ -133,7 +137,7 @@ SUBCHAPTER III—MENTAL HEALTH SERVICE FOR DISTRICT OF COLUMBIA  </td>
 
   <tr>
 
-    <td> 225e.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft24%2Fs225e" data-uslm-ref="/us/usc/t24/s225e">225e.</a>  </td>
 
     <td> Conditions of employment for former employees of Hospital.  </td>
 
@@ -141,7 +145,7 @@ SUBCHAPTER III—MENTAL HEALTH SERVICE FOR DISTRICT OF COLUMBIA  </td>
 
   <tr>
 
-    <td> 225f.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft24%2Fs225f" data-uslm-ref="/us/usc/t24/s225f">225f.</a>  </td>
 
     <td> Property transfer.  </td>
 
@@ -149,7 +153,7 @@ SUBCHAPTER III—MENTAL HEALTH SERVICE FOR DISTRICT OF COLUMBIA  </td>
 
   <tr>
 
-    <td> 225g.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft24%2Fs225g" data-uslm-ref="/us/usc/t24/s225g">225g.</a>  </td>
 
     <td> Financing provisions.  </td>
 
@@ -157,7 +161,7 @@ SUBCHAPTER III—MENTAL HEALTH SERVICE FOR DISTRICT OF COLUMBIA  </td>
 
   <tr>
 
-    <td> 225h.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft24%2Fs225h" data-uslm-ref="/us/usc/t24/s225h">225h.</a>  </td>
 
     <td> Buy American provisions.  </td>
 

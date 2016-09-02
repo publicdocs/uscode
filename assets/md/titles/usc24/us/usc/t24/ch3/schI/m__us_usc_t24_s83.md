@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t24/ch3/schI/m__us_usc_t24_s80 to 82.md) | [Next](./../../../../..//us/usc/t24/ch3/schI/m__us_usc_t24_s84.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft24%2Fs83)
+[Previous](./../../../../..//us/usc/t24/ch3/schI/m__us_usc_t24_s79.md) | [Next](./../../../../..//us/usc/t24/ch3/schI/m__us_usc_t24_s84.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft24%2Fs83)
 
 ## § 83. Repealed. [Aug. 10, 1956, ch. 1041, § 53][/us/act/1956-08-10/ch1041/s53], [70A Stat. 641][/us/stat/70A/641]
 
@@ -19,7 +19,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t24/ch3/schI/m__us_usc_t24_s80 to 82.md) | [Next](./../../../../..//us/usc/t24/ch3/schI/m__us_usc_t24_s84.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft24%2Fs83)
+[Previous](./../../../../..//us/usc/t24/ch3/schI/m__us_usc_t24_s79.md) | [Next](./../../../../..//us/usc/t24/ch3/schI/m__us_usc_t24_s84.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft24%2Fs83)
 
 ----------
 ----------

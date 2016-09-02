@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t24/ch3/schIV/m__us_usc_t24_ch3_schIV.md) | [Next](./../../../../..//us/usc/t24/ch3/schIV/m__us_usc_t24_s131a, 131b.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft24%2Fs131)
+[Previous](./../../../../..//us/usc/t24/ch3/schIV/m__us_usc_t24_ch3_schIV.md) | [Next](./../../../../..//us/usc/t24/ch3/schIV/m__us_usc_t24_s132.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft24%2Fs131)
 
 ## § 131. Repealed. [Pub. L. 85–857, § 14(49)][/us/pl/85/857/s14/49], Sept. 2, 1958, [72 Stat. 1271][/us/stat/72/1271]
 
@@ -25,9 +25,17 @@
 
     Repeal effective Jan. 1, 1959, see [section 2 of Pub. L. 85–857][/us/pl/85/857/s2], set out as a note preceding Part I of Title 38, Veterans’ Benefits.
 
+§§ 131a, 131b. __Omitted__ 
+
+ __Codification__ 
+
+    Section 131a, [act Feb. 20, 1929, ch. 272, § 2][/us/act/1929-02-20/ch272/s2], [45 Stat. 1248][/us/stat/45/1248], related to persons entitled to benefits of National Home for Disabled Volunteer Soldiers at Dayton, Ohio. See [act July 3, 1939, ch. 863][/us/act/1939-07-03/ch863], §§ 1, 2, 5, [46 Stat. 1016][/us/stat/46/1016], which dissolved the Home.
+
+    Section 131b, [act Mar. 4, 1927, ch. 504, § 2][/us/act/1927-03-04/ch504/s2], [44 Stat. 1421][/us/stat/44/1421], related to persons entitled to benefits of National Home for Disabled Volunteer Soldiers at Marion, Indiana.
+
 ----------
 
-[Previous](./../../../../..//us/usc/t24/ch3/schIV/m__us_usc_t24_ch3_schIV.md) | [Next](./../../../../..//us/usc/t24/ch3/schIV/m__us_usc_t24_s131a, 131b.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft24%2Fs131)
+[Previous](./../../../../..//us/usc/t24/ch3/schIV/m__us_usc_t24_ch3_schIV.md) | [Next](./../../../../..//us/usc/t24/ch3/schIV/m__us_usc_t24_s132.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft24%2Fs131)
 
 ----------
 ----------
@@ -58,5 +66,11 @@
 [/us/pl/85/857/s14/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F857%2Fs14%2F21
 [/us/stat/72/1270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1270
 [/us/pl/85/857/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F857%2Fs2
+[/us/act/1929-02-20/ch272/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1929-02-20%2Fch272%2Fs2
+[/us/stat/45/1248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F1248
+[/us/act/1939-07-03/ch863]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-07-03%2Fch863
+[/us/stat/46/1016]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F1016
+[/us/act/1927-03-04/ch504/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-03-04%2Fch504%2Fs2
+[/us/stat/44/1421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F1421
 
 

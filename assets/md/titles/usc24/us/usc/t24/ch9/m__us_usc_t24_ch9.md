@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 321.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft24%2Fs321" data-uslm-ref="/us/usc/t24/s321">321.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 322.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft24%2Fs322" data-uslm-ref="/us/usc/t24/s322">322.</a>  </td>
 
     <td> Reception of eligible persons at ports of entry or debarkation.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 323.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft24%2Fs323" data-uslm-ref="/us/usc/t24/s323">323.</a>  </td>
 
     <td> Transfer and release to State of residence or legal domicile, or to relative.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 324.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft24%2Fs324" data-uslm-ref="/us/usc/t24/s324">324.</a>  </td>
 
     <td> Care and treatment of eligible persons until transfer and release.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 325.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft24%2Fs325" data-uslm-ref="/us/usc/t24/s325">325.</a>  </td>
 
     <td> Examination of persons admitted.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 326.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft24%2Fs326" data-uslm-ref="/us/usc/t24/s326">326.</a>  </td>
 
     <td> Release of patient.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 327.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft24%2Fs327" data-uslm-ref="/us/usc/t24/s327">327.</a>  </td>
 
     <td> Notification to committing court of discharge or conditional release.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 328.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft24%2Fs328" data-uslm-ref="/us/usc/t24/s328">328.</a>  </td>
 
     <td> Payment for care and treatment.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 329.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft24%2Fs329" data-uslm-ref="/us/usc/t24/s329">329.</a>  </td>
 
     <td> Availability of appropriations for transportation.  </td>
 

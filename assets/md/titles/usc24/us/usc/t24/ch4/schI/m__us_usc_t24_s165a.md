@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t24/ch4/schI/m__us_usc_t24_s164, 165.md) | [Next](./../../../../..//us/usc/t24/ch4/schI/m__us_usc_t24_s166.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft24%2Fs165a)
+[Previous](./../../../../..//us/usc/t24/ch4/schI/m__us_usc_t24_s161.md) | [Next](./../../../../..//us/usc/t24/ch4/schI/m__us_usc_t24_s166.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft24%2Fs165a)
 
 ## § 165a. Omitted
 
@@ -21,7 +21,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t24/ch4/schI/m__us_usc_t24_s164, 165.md) | [Next](./../../../../..//us/usc/t24/ch4/schI/m__us_usc_t24_s166.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft24%2Fs165a)
+[Previous](./../../../../..//us/usc/t24/ch4/schI/m__us_usc_t24_s161.md) | [Next](./../../../../..//us/usc/t24/ch4/schI/m__us_usc_t24_s166.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft24%2Fs165a)
 
 ----------
 ----------

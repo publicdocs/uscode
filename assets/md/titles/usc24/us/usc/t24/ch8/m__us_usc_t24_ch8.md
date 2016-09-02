@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 301.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft24%2Fs301" data-uslm-ref="/us/usc/t24/s301">301.</a>  </td>
 
     <td> Ancon Hospital to be known as Gorgas Hospital.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 302.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft24%2Fs302" data-uslm-ref="/us/usc/t24/s302">302.</a>  </td>
 
     <td> Change of name as affecting various rights; records, maps, and public documents.  </td>
 

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t24/ch2/m__us_usc_t24_s41 to 43.md) | [Next](./../../../..//us/usc/t24/ch2/m__us_usc_t24_s44a.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft24%2Fs44)
+[Previous](./../../../..//us/usc/t24/ch2/m__us_usc_t24_ch2.md) | [Next](./../../../..//us/usc/t24/ch2/m__us_usc_t24_s44a.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft24%2Fs44)
 
 ## § 44. Repealed. [Pub. L. 101–189, div. A, title III, § 347(1)][/us/pl/101/189/s347/1], Nov. 29, 1989, [103 Stat. 1422][/us/stat/103/1422]
 
@@ -19,7 +19,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t24/ch2/m__us_usc_t24_s41 to 43.md) | [Next](./../../../..//us/usc/t24/ch2/m__us_usc_t24_s44a.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft24%2Fs44)
+[Previous](./../../../..//us/usc/t24/ch2/m__us_usc_t24_ch2.md) | [Next](./../../../..//us/usc/t24/ch2/m__us_usc_t24_s44a.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft24%2Fs44)
 
 ----------
 ----------

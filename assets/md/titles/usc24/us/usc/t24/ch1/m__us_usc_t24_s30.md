@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t24/ch1/m__us_usc_t24_s29, 29a.md) | [Next](./../../../..//us/usc/t24/ch1/m__us_usc_t24_s31.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft24%2Fs30)
+[Previous](./../../../..//us/usc/t24/ch1/m__us_usc_t24_s21.md) | [Next](./../../../..//us/usc/t24/ch1/m__us_usc_t24_s31.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft24%2Fs30)
 
 ## § 30. Payments to donors of blood for persons undergoing treatment at Government expense
 
@@ -27,7 +27,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t24/ch1/m__us_usc_t24_s29, 29a.md) | [Next](./../../../..//us/usc/t24/ch1/m__us_usc_t24_s31.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft24%2Fs30)
+[Previous](./../../../..//us/usc/t24/ch1/m__us_usc_t24_s21.md) | [Next](./../../../..//us/usc/t24/ch1/m__us_usc_t24_s31.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft24%2Fs30)
 
 ----------
 ----------

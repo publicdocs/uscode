@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t24/ch1/m__us_usc_t24_s3 to 5.md) | [Next](./../../../..//us/usc/t24/ch1/m__us_usc_t24_s6a.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft24%2Fs6)
+[Previous](./../../../..//us/usc/t24/ch1/m__us_usc_t24_ch1.md) | [Next](./../../../..//us/usc/t24/ch1/m__us_usc_t24_s6a.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft24%2Fs6)
 
 ## § 6. Pension paid to fund for benefit of naval hospital
 
@@ -25,7 +25,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t24/ch1/m__us_usc_t24_s3 to 5.md) | [Next](./../../../..//us/usc/t24/ch1/m__us_usc_t24_s6a.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft24%2Fs6)
+[Previous](./../../../..//us/usc/t24/ch1/m__us_usc_t24_ch1.md) | [Next](./../../../..//us/usc/t24/ch1/m__us_usc_t24_s6a.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft24%2Fs6)
 
 ----------
 ----------

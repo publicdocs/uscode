@@ -15,7 +15,7 @@
 
 ## § 225a. Definitions
 
-For the purpose of this subchapter:
+    For the purpose of this subchapter:
 
     (1) The term “Hospital” means the institution in the District of Columbia known as Saint Elizabeths Hospital operated on November 8, 1984, by the Secretary of Health and Human Services.
 

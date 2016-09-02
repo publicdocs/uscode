@@ -15,7 +15,7 @@
 
 ## § 321. Definitions
 
-For the purposes of this chapter except as the context may otherwise require—
+    For the purposes of this chapter except as the context may otherwise require—
 
     (a) The term “Department” means the Department of Health and Human Services.
 
