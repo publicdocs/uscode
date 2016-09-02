@@ -23,7 +23,7 @@
 
 [Pub. L. 105–367, § 1][/us/pl/105/367/s1], Nov. 10, 1998, [112 Stat. 3313][/us/stat/112/3313], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Subject to subsection (b), the United States shall recognize as not infringing upon any ownership rights of the United States to coalbed methane any—
 
@@ -37,7 +37,7 @@
 
 >         “(2) coalbed methane production from the lands described in subsection (a)(1) by a person who has title to said land and who, on or before the date of enactment of this Act \[Nov. 10, 1998\], has filed an application with the State oil and gas regulating agency for a permit to drill an oil and gas well to a completion target located in a coal formation.
 
->     “(b) __Application.—__ 
+>     “(b)  __Application__  __.—__ 
 
 >     Subsection (a)—
 

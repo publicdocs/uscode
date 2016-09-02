@@ -55,11 +55,11 @@
 
 [Pub. L. 100–418, title V, § 5182][/us/pl/100/418/s5182], Aug. 23, 1988, [102 Stat. 1454][/us/stat/102/1454], provided that:
 
->     “(a) __Requirement To Increase Staff.—__ 
+>     “(a)  __Requirement To Increase Staff__  __.—__ 
 
 >     Not later than 30 days after the date of the enactment of this Act \[Aug. 23, 1988\], the Executive Director of the National Critical Materials Council shall increase the number of employees of the Council by the equivalent of 5 full-time employees over the number of employees of the Council on the date of the enactment of this Act.
 
->     “(b) __Qualifications of Staff.—__ 
+>     “(b)  __Qualifications of Staff__  __.—__ 
 
 >     Not less than the equivalent of 4 full-time employees appointed pursuant to subsection (a) shall be permanent professional employees who have expertise in technical fields that are relevant to the responsibilities of the National Critical Materials Council, such as materials science and engineering, environmental matters, minerals and natural resources, ceramic or composite engineering, metallurgy, and geology.”
 

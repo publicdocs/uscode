@@ -173,7 +173,7 @@
 
 >     “(c) __Near-Term Production Incentive for Existing Leases.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Notwithstanding section 5(a) of the Geothermal Steam Act of 1970 \[[30 U.S.C. 1004(a)][/us/usc/t30/s1004/a]\], the royalty required to be paid shall be 50 percent of the amount of the royalty otherwise required, on any lease issued before the date of enactment of this Act \[Aug. 8, 2005\] that does not convert to new royalty terms under subsection (e)—
 
@@ -181,11 +181,11 @@
 
 >             “(B) on qualified expansion geothermal energy.
 
->         “(2) __4-year application.—__ 
+>         “(2) __4-__  __year application__  __.—__ 
 
 >         Paragraph (1) applies only to new commercial production of energy from a facility in the first 4 years of such production.
 
->     “(d) __Definition of Qualified Expansion Geothermal Energy.—__ 
+>     “(d)  __Definition of Qualified Expansion Geothermal Energy__  __.—__ 
 
 >     In this section \[amending this section and [section 1019 of this title][/us/usc/t30/s1019] and enacting provisions set out as a note under this section\], the term ‘qualified expansion geothermal energy’ means geothermal energy produced from a generation facility for which—
 
@@ -195,7 +195,7 @@
 
 >     “(e) __Royalty Under Existing Leases.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Any lessee under a lease issued under the Geothermal Steam Act of 1970 ([30 U.S.C. 1001][/us/usc/t30/s1001] et seq.) before the date of enactment of this Act \[Aug. 8, 2005\] may, within the time period specified in paragraph (2), submit to the Secretary of the Interior a request to modify the terms of the lease relating to payment of royalties to provide—
 
@@ -203,7 +203,7 @@
 
 >             “(B) in the case of any other lease, that royalties be computed on a percentage of the gross proceeds from the sale of electricity, at a royalty rate that is expected to yield total royalty payments equivalent to payments that would have been received for comparable production under the royalty rate in effect for the lease before the date of enactment of this subsection.
 
->         “(2) __Timing.—__ 
+>         “(2)  __Timing__  __.—__ 
 
 >         A request for a modification under paragraph (1) shall be submitted to the Secretary of the Interior by the date that is not later than—
 
@@ -211,7 +211,7 @@
 
 >             “(B) in the case of any other lease, 18 months after the effective date of the final regulation issued under subsection (a) \[amending this section\].
 
->         “(3) __Application of modification.—__ 
+>         “(3)  __Application of modification__  __.—__ 
 
 >         If the lessee requests modification of a lease under paragraph (1)—
 
@@ -225,7 +225,7 @@
 
 >             “(B) the modification shall apply to any use of geothermal resources to which subsection (a) \[amending this section\] applies that occurs after the date of the modification.
 
->         “(4) __Consultation.—__ 
+>         “(4)  __Consultation__  __.—__ 
 
 >         The Secretary of the Interior shall consult with the State and local governments affected by any proposed changes in lease royalty terms under this subsection.”
 

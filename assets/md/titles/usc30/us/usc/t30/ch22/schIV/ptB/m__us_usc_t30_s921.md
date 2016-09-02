@@ -107,7 +107,7 @@
 
 [Pub. L. 107–275, § 3][/us/pl/107/275/s3], Nov. 2, 2002, [116 Stat. 1926][/us/stat/116/1926], provided that:
 
->     “(a) __Applicability.—__ 
+>     “(a)  __Applicability__  __.—__ 
 
 >     This section shall apply to the transfer of all functions relating to the administration of part B of subchapter IV ([30 U.S.C. 901][/us/usc/t30/s901] et seq.) \[probably means [30 U.S.C. 921][/us/usc/t30/s921] et seq.\] from the Commissioner of Social Security (hereinafter in this section referred to as the ‘Commissioner’) to the Secretary of Labor, as provided by this Act \[see Short Title of 2002 Amendment note set out under [section 801 of this title][/us/usc/t30/s801]\].
 
@@ -171,11 +171,11 @@
 
 >         “(3) Any cause of action by or against the Commissioner that exists on the date this Act takes effect and involves any function transferred by this Act may be asserted by or against the Secretary of Labor or the United States.
 
->     “(f) __Continuation of Actions Against Officers.—__ 
+>     “(f)  __Continuation of Actions Against Officers__  __.—__ 
 
 >     No suit, action, or other proceeding commenced by or against any officer in his official capacity as an officer of the Social Security Administration, and relating to a function transferred by this Act, shall abate by reason of the enactment of this Act. No cause of action by or against the Social Security Administration, or by or against any officer thereof in his official capacity, relating to a function transferred by this Act, shall abate by reason of enactment of this Act.
 
->     “(g) __Preservation of Penalties, etc.—__ 
+>     “(g)  __Preservation of Penalties, etc__  __.—__ 
 
 >     The transfer of functions under this Act shall not release or extinguish any penalty, forfeiture, liability, prosecution, investigation, or right to initiate a future investigation or prosecution involving any function transferred by this Act.”
 

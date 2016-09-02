@@ -303,15 +303,15 @@
 
 [Pub. L. 100–203, title V, § 5107][/us/pl/100/203/s5107], Dec. 22, 1987, [101 Stat. 1330–259][/us/stat/101/1330-259], provided that:
 
->     “(a) __Regulations.—__ 
+>     “(a)  __Regulations__  __.—__ 
 
 >     The Secretary shall issue final regulations to implement this subtitle \[subtitle B (§§ 5101–5113) of title V of [Pub. L. 100–203][/us/pl/100/203], see Short Title of 1987 Amendment note set out under [section 181 of this title][/us/usc/t30/s181]\] within 180 days after the enactment of this subtitle \[Dec. 22, 1987\]. The regulations shall be effective when published in the Federal Register.
 
->     “(b) __Treatment Under Other Law.—__ 
+>     “(b)  __Treatment Under Other Law__  __.—__ 
 
 >     The proposal or promulgation of such regulations shall not be considered a major Federal action subject to the requirements of section 102(2)(C) of the National Environmental Policy Act of 1969 \[[42 U.S.C. 4332(2)(C)][/us/usc/t42/s4332/2/C]\].
 
->     “(c) __Test Sale.—__ 
+>     “(c)  __Test Sale__  __.—__ 
 
 >     The Secretary may hold one or more lease sales conducted in accordance with the amendments made by this subtitle before promulgation of regulations referred to in subsection (a). Sale procedures for such sale shall be established in the notice of sale.”
 

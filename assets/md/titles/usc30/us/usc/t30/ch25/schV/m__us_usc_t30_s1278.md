@@ -31,19 +31,19 @@
 
 [Pub. L. 100–34, title II, § 201(b)][/us/pl/100/34/s201/b]–(e), May 7, 1987, [101 Stat. 300][/us/stat/101/300], provided that:
 
->     “(b) __Effective Date for New Operations.—__ 
+>     “(b)  __Effective Date for New Operations__  __.—__ 
 
 >     The amendments made by this section \[amending this section\] shall take effect on the date 30 days after the enactment of this Act \[May 7, 1987\] with respect to each operator commencing surface coal mining operations on or after such date.
 
->     “(c) __Effective Date for Existing Operations.—__ 
+>     “(c)  __Effective Date for Existing Operations__  __.—__ 
 
 >     The amendments made by this section shall take effect on the date 6 months after the enactment of this Act with respect to each operator commencing surface coal mining operations pursuant to an authorization under State law before the date 30 days after the enactment of this Act. Nothing in this Act \[amending this section and [section 1232 of this title][/us/usc/t30/s1232]\] shall preclude reclamation activities pursuant to State law or regulations at the site of any surface coal mine which was exempt from the Surface Mining Control and Reclamation Act of 1977 \[[30 U.S.C. 1201][/us/usc/t30/s1201] et seq.\] under section 528(2) of that Act \[[30 U.S.C. 1278(2)][/us/usc/t30/s1278/2]\], as in effect before the enactment of this Act.
 
->     “(d) __Effect on State Law.—__ 
+>     “(d)  __Effect on State Law__  __.—__ 
 
 >     To the extent that any provision of a State law, or of a State regulation, adopted pursuant to the exception under section 528(2) of the Surface Mining Control and Reclamation Act of 1977 as in effect before the enactment of this Act, is inconsistent with the amendments made by this section, such provision shall be of no further force and effect after the effective date of such amendments.
 
->     “(e) __Definition.—__ 
+>     “(e)  __Definition__  __.—__ 
 
 >     For purposes of this section, the term ‘surface coal mining operations’ has the meaning provided by section 701(28) of the Surface Mining Control and Reclamation Act of 1977 \[[30 U.S.C. 1291(28)][/us/usc/t30/s1291/28]\].”
 

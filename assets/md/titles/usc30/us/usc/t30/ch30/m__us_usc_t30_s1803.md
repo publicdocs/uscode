@@ -61,11 +61,11 @@
 
 [Pub. L. 100–418, title V, § 5143][/us/pl/100/418/s5143], Aug. 23, 1988, [102 Stat. 1446][/us/stat/102/1446], provided that:
 
->     “(a) __National Commission on Superconductivity.—__ 
+>     “(a)  __National Commission on Superconductivity__  __.—__ 
 
 >     The President shall appoint a National Commission on Superconductivity to review all major policy issues regarding United States applications of recent research advances in superconductors in order to assist the Congress in devising a national strategy, including research and development priorities, the development of which will assure United States leadership in the development and application of superconducting technologies.
 
->     “(b) __Membership.—__ 
+>     “(b)  __Membership__  __.—__ 
 
 >     The membership of the National Commission on Superconductivity shall include representatives of—
 
@@ -75,19 +75,19 @@
 
 >         “(3) industries, universities, and national laboratories engaged in superconductivity research.
 
->     “(c) __Chairman.—__ 
+>     “(c)  __Chairman__  __.—__ 
 
 >     A representative of the private sector shall be designated as chairman of the Commission.
 
->     “(d) __Coordination.—__ 
+>     “(d)  __Coordination__  __.—__ 
 
 >     The National Critical Materials Council shall be the coordinating body of the National Commission on Superconductivity and shall provide staff support for the Commission.
 
->     “(e) __Report.—__ 
+>     “(e)  __Report__  __.—__ 
 
 >     Within 6 months after the date of the enactment of this Act \[Aug. 23, 1988\], the National Commission on Superconductivity shall submit a report to the President and the Congress with recommendations regarding methods of enhancing the research, development, and implementation of improved superconductor technologies in all major applications.
 
->     “(f) __Scope of Review.—__ 
+>     “(f)  __Scope of Review__  __.—__ 
 
 >     In preparing the report required by subsection (e), the Commission shall consider addressing, but need not limit, its review to—
 
@@ -111,7 +111,7 @@
 
 >         “(10) methods to strengthen domestic patent and trademark laws to ensure that qualified superconductivity discoveries receive the fullest protection from infringement.
 
->     “(g) __Sunset.—__ 
+>     “(g)  __Sunset__  __.—__ 
 
 >     The Commission shall disband within a year of its establishment. Thereafter the National Critical Materials Council may review and update the report required by subsection (e) and make further recommendations as it deems appropriate.”
 
