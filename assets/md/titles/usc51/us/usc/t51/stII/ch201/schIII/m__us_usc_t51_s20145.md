@@ -141,7 +141,9 @@ Pub. L. 85–568, title III, § 315, as added Pub. L. 108–7, div. K, title I
 
 > “That hereafter, notwithstanding section 315 of the National Aeronautics and Space Act of 1958 ([51 U.S.C. 20145][/us/usc/t51/s20145]), all proceeds from leases entered into under that section shall be deposited into this account \[funds appropriated under the headings ‘National Aeronautics and Space Administration’ and ‘construction and environmental compliance and restoration’ of title III of div. B of [Pub. L. 113–6][/us/pl/113/6]\]: Provided further, That such proceeds shall be available for a period of 5 years to the extent and in amounts as provided in annual appropriations Acts”.
 
-Similar provisions were contained in the following prior appropriation acts:
+Similar provisions were contained in the following appropriation acts:
+
+    [Pub. L. 113–76, div. B, title III][/us/pl/113/76], Jan. 17, 2014, [128 Stat. 72][/us/stat/128/72].
 
     [Pub. L. 112–55, div. B, title III][/us/pl/112/55], Nov. 18, 2011, [125 Stat. 625][/us/stat/125/625].
 
@@ -165,6 +167,8 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/stat/127/263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F263
 [/us/usc/t51/s20145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft51%2Fs20145
 [/us/pl/113/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F6
+[/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
+[/us/stat/128/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F72
 [/us/pl/112/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F55
 [/us/stat/125/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F625
 [/us/pl/111/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F117

@@ -219,11 +219,13 @@ Pub. L. 111–8, div. B, title III, (3d proviso in par. under heading “Cross A
 
  __Estimates of Receipts and Collections and Proposed Use of Funds From Leases of Non-Excess Property__ 
 
-[Pub. L. 113–6, div. B, title III][/us/pl/113/6], Mar. 26, 2013, [127 Stat. 263][/us/stat/127/263], provided in part: 
+[Pub. L. 113–76, div. B, title III][/us/pl/113/76], Jan. 17, 2014, [128 Stat. 72][/us/stat/128/72], provided in part: 
 
 > “That each annual budget request shall include an annual estimate of gross receipts and collections and proposed use of all funds collected pursuant to section 315 of the National Aeronautics and Space Act of 1958 ([51 U.S.C. 20145][/us/usc/t51/s20145]).”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+    [Pub. L. 113–6, div. B, title III][/us/pl/113/6], Mar. 26, 2013, [127 Stat. 263][/us/stat/127/263].
 
     [Pub. L. 112–55, div. B, title III][/us/pl/112/55], Nov. 18, 2011, [125 Stat. 625][/us/stat/125/625].
 
@@ -259,9 +261,11 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/pl/85/568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F568
 [/us/stat/72/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F426
 [/us/usc/t51/s20144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft51%2Fs20144
+[/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
+[/us/stat/128/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F72
+[/us/usc/t51/s20145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft51%2Fs20145
 [/us/pl/113/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F6
 [/us/stat/127/263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F263
-[/us/usc/t51/s20145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft51%2Fs20145
 [/us/pl/112/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F55
 [/us/stat/125/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F625
 [/us/pl/111/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F117
