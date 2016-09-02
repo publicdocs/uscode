@@ -15,7 +15,7 @@
 
 ## § 922. National spectrum allocation planning
 
-The Assistant Secretary and the Chairman of the Commission shall meet, at least biannually, to conduct joint spectrum planning with respect to the following issues:
+    The Assistant Secretary and the Chairman of the Commission shall meet, at least biannually, to conduct joint spectrum planning with respect to the following issues:
 
     (1) the extent to which licenses for spectrum use can be issued pursuant to [section 309(j) of this title][/us/usc/t47/s309/j] to increase Federal revenues;
 

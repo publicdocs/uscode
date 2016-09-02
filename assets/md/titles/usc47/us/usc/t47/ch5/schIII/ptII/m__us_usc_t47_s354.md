@@ -15,7 +15,7 @@
 
 ## § 354. Technical requirements of equipment on radiotelegraph equipped ships
 
-The radiotelegraph station and the radio direction finding apparatus required by [section 351 of this title][/us/usc/t47/s351] shall comply with the following requirements:
+    The radiotelegraph station and the radio direction finding apparatus required by [section 351 of this title][/us/usc/t47/s351] shall comply with the following requirements:
 
     (a) The radiotelegraph station shall include a main installation and a reserve installation, electrically separate and electrically independent of each other: Provided, That, in installations on cargo ships of three hundred gross tons and upward but less than one thousand six hundred gross tons, and in installations on cargo ships of one thousand six hundred gross tons and upward installed prior to November 19, 1952, if the main transmitter complies with all the requirements for the reserve transmitter, the latter may be omitted.
 

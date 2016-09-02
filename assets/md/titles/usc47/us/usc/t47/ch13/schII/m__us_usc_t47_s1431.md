@@ -15,7 +15,7 @@
 
 ## § 1431. Public safety roaming and priority access
 
-The Commission may adopt rules, if necessary in the public interest, to improve the ability of public safety networks to roam onto commercial networks and to gain priority access to commercial networks in an emergency if—
+    The Commission may adopt rules, if necessary in the public interest, to improve the ability of public safety networks to roam onto commercial networks and to gain priority access to commercial networks in an emergency if—
 
     (1) the public safety entity equipment is technically compatible with the commercial network;
 

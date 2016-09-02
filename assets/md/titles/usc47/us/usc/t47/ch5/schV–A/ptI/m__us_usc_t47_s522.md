@@ -15,7 +15,7 @@
 
 ## § 522. Definitions
 
-For purposes of this subchapter—
+    For purposes of this subchapter—
 
     (1) the term “activated channels” means those channels engineered at the headend of a cable system for the provision of services generally available to residential subscribers of the cable system, regardless of whether such services actually are provided, including any channel designated for public, educational, or governmental use;
 

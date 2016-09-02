@@ -15,7 +15,7 @@
 
 ## § 611. Closed-captioning of public service announcements
 
-Any television public service announcement that is produced or funded in whole or in part by any agency or instrumentality of Federal Government shall include closed captioning of the verbal content of such announcement. A television broadcast station licensee—
+    Any television public service announcement that is produced or funded in whole or in part by any agency or instrumentality of Federal Government shall include closed captioning of the verbal content of such announcement. A television broadcast station licensee—
 
     (1) shall not be required to supply closed captioning for any such announcement that fails to include it; and
 

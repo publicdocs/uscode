@@ -15,7 +15,7 @@
 
 ## § 615b. Definitions
 
-As used in this Act:
+    As used in this Act:
 
     (1) __Secretary__ 
 

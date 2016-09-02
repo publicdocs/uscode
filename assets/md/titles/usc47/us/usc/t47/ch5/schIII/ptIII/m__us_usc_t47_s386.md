@@ -15,7 +15,7 @@
 
 ## § 386. Forfeitures
 
-The following forfeitures shall apply to this part in addition to penalties and forfeitures provided by subchapter V of this chapter:
+    The following forfeitures shall apply to this part in addition to penalties and forfeitures provided by subchapter V of this chapter:
 
     (a) Any vessel of the United States that is navigated in violation of the provisions of this part or of the rules and regulations of the Commission made in pursuance thereof shall forfeit to the United States the sum of $5,000 recoverable by way of suit or libel. Each day during which such navigation occurs shall constitute a separate offense.
 

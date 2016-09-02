@@ -15,7 +15,7 @@
 
 ## § 354a. Technical requirements of equipment on radiotelephone equipped ships
 
-Cargo ships of three hundred gross tons and upward but less than one thousand six hundred gross tons may, in lieu of the radiotelegraph station prescribed by [section 354 of this title][/us/usc/t47/s354], be equipped with a radiotelephone station complying with the following requirements:
+    Cargo ships of three hundred gross tons and upward but less than one thousand six hundred gross tons may, in lieu of the radiotelegraph station prescribed by [section 354 of this title][/us/usc/t47/s354], be equipped with a radiotelephone station complying with the following requirements:
 
     (a) The radiotelephone station shall be in the upper part of the ship, so located that it is sheltered to the greatest possible extent from noise which might impair the correct reception of messages and signals, and, unless such station is situated on the bridge, there shall be efficient communication with the bridge.
 

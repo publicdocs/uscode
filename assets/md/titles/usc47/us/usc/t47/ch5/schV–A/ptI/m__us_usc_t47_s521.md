@@ -15,7 +15,7 @@
 
 ## § 521. Purposes
 
-The purposes of this subchapter are to—
+    The purposes of this subchapter are to—
 
     (1) establish a national policy concerning cable communications;
 

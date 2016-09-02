@@ -15,7 +15,7 @@
 
 ## § 1301. Findings
 
-The Congress finds the following:
+    The Congress finds the following:
 
     (1) The deployment and adoption of broadband technology has resulted in enhanced economic development and public safety for communities across the Nation, improved health care and educational opportunities, and a better quality of life for all Americans.
 

@@ -15,7 +15,7 @@
 
 ## § 702. Definitions
 
-As used in this chapter, and unless the context otherwise requires—
+    As used in this chapter, and unless the context otherwise requires—
 
     (1) the term “communications satellite system” refers to a system of communications satellites in space whose purpose is to relay telecommunication information between satellite terminal stations, together with such associated equipment and facilities for tracking, guidance, control, and command functions as are not part of the generalized launching, tracking, control, and command facilities for all space purposes;
 

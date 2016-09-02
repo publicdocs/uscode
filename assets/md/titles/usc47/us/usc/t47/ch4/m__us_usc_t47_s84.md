@@ -11,15 +11,101 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t47/ch4/m__us_usc_t47_s83a to 83e.md) | [Next](./../../../..//us/usc/t47/ch4/m__us_usc_t47_s84a, 84b.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs84)
+[Previous](./../../../..//us/usc/t47/ch4/m__us_usc_t47_ch4.md) | [Next](./../../../..//us/usc/t47/ch5/m__us_usc_t47_ch5.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs84)
 
 ## § 84. Repealed. [June 19, 1934, ch. 652, § 602(a)][/us/act/1934-06-19/ch652/s602/a], [48 Stat. 1102][/us/stat/48/1102]
 
     Section, [act Feb. 23, 1927, ch. 169, § 4][/us/act/1927-02-23/ch169/s4], [44 Stat. 1163][/us/stat/44/1163], defined powers and duties of Federal Radio Commission. See sections 154(g), 303, and 409 of this title.
 
+§§ 84a, 84b. __Repealed.__  __[__  __Pub. L. 89–554, § 8(a)__  __][/us/pl/89/554/s8/a]__  __,__  __Sept. 6, 1966__  __,__  __[__  __80 Stat. 647__  __][/us/stat/80/647]__ 
+
+    Section 84a, [act Mar. 4, 1929, ch. 701, § 5][/us/act/1929-03-04/ch701/s5], [45 Stat. 1559][/us/stat/45/1559], provided for appointment and pay of general counsel, assistants to general counsel, and other legal assistants to Federal Radio Commission.
+
+    Section 84b, [act Dec. 18, 1929, ch. 7, § 3][/us/act/1929-12-18/ch7/s3], [46 Stat. 50][/us/stat/46/50], provided for appointment and pay of chief engineer, assistants to chief engineer, and other technical assistants to Federal Radio Commission.
+
+§§ 85 to 119. __Repealed.__  __[__  __June 19, 1934, ch. 652, § 602(a)__  __][/us/act/1934-06-19/ch652/s602/a]__  __,__  __[__  __48 Stat. 1102__  __][/us/stat/48/1102]__ 
+
+    Section 85, acts [Feb. 23, 1927, ch. 169, § 5][/us/act/1927-02-23/ch169/s5], [44 Stat. 1164][/us/stat/44/1164]; [Mar. 28, 1928, ch. 263, § 1][/us/act/1928-03-28/ch263/s1], [45 Stat. 373][/us/stat/45/373]; [Mar. 4, 1929, ch. 701, § 1][/us/act/1929-03-04/ch701/s1], [45 Stat. 1559][/us/stat/45/1559]; [Dec. 18, 1929, ch. 7, § 1][/us/act/1929-12-18/ch7/s1], [46 Stat. 50][/us/stat/46/50]; [May 19, 1932, ch. 192][/us/act/1932-05-19/ch192], [47 Stat. 160][/us/stat/47/160] related to powers and authority of Secretary of Commerce, appeals to Federal Radio Commission, grant of station license, and waiver affecting wave length. See sections 155, 303(l) to (p), 304, and 307 to 309 of this title.
+
+    Section 86, [act Feb. 23, 1927, ch. 169, § 6][/us/act/1927-02-23/ch169/s6], [44 Stat. 1165][/us/stat/44/1165], related to government radio stations, regulations, control of all stations by government in national emergency and stations on vessels. See sections 305(a), (b) and 606(c) of this title.
+
+    Section 87, [act Feb. 23, 1927, ch. 169, § 7][/us/act/1927-02-23/ch169/s7], [44 Stat. 1165][/us/stat/44/1165], related to compensation by government for use or control of stations during national emergency. See [section 606(e) of this title][/us/usc/t47/s606/e].
+
+    Section 88, [act Feb. 23, 1927, ch. 169, § 8][/us/act/1927-02-23/ch169/s8], [44 Stat. 1166][/us/stat/44/1166], related to special call letters for stations and application of former [section 81 of this title][/us/usc/t47/s81] to foreign ships. See sections 305(c) and 306 of this title.
+
+    Section 89, acts [Feb. 23, 1927, ch. 169, § 9][/us/act/1927-02-23/ch169/s9], [44 Stat. 1166][/us/stat/44/1166]; [Mar. 28, 1928, ch. 263][/us/act/1928-03-28/ch263], §§ 3, 5, [45 Stat. 373][/us/stat/45/373]; [Mar. 4, 1929, ch. 701, § 3][/us/act/1929-03-04/ch701/s3], [45 Stat. 1559][/us/stat/45/1559], related to grant and renewal of station licenses and period thereof. See [section 307 of this title][/us/usc/t47/s307].
+
+    Section 90, [act Feb. 23, 1927, ch. 169, § 10][/us/act/1927-02-23/ch169/s10], [44 Stat. 1166][/us/stat/44/1166], related to application for station license and conditions and restrictions therein. See [section 308 of this title][/us/usc/t47/s308].
+
+    Section 91, acts [Feb. 23, 1927, ch. 169, § 11][/us/act/1927-02-23/ch169/s11], [44 Stat. 1167][/us/stat/44/1167]; [Mar. 28, 1928, ch. 263, § 1][/us/act/1928-03-28/ch263/s1], [45 Stat. 373][/us/stat/45/373]; [Mar. 4, 1929, ch. 701, § 1][/us/act/1929-03-04/ch701/s1], [45 Stat. 1559][/us/stat/45/1559]; [Dec. 18, 1929, ch. 7, § 1][/us/act/1929-12-18/ch7/s1], [46 Stat. 50][/us/stat/46/50], related to issuance, renewal or modification of station licenses, hearing, form and terms of license. See section 309(a), (b), (d) of this title.
+
+    Section 92, [act Feb. 23, 1927, ch. 169, § 12][/us/act/1927-02-23/ch169/s12], [44 Stat. 1167][/us/stat/44/1167], related to restrictions on grants and transfers of station licenses. See [section 310 of this title][/us/usc/t47/s310].
+
+    Section 93, [act Feb. 23, 1927, ch. 169, § 13][/us/act/1927-02-23/ch169/s13], [44 Stat. 1167][/us/stat/44/1167], related to refusal of station license to persons guilty of monopoly and liability to prosecution under laws against monopoly. See [section 311 of this title][/us/usc/t47/s311].
+
+    Section 94, [act Feb. 23, 1927, ch. 169, § 14][/us/act/1927-02-23/ch169/s14], [44 Stat. 1168][/us/stat/44/1168], related to revocation of station license, notice of revocation and hearing. See [section 312 of this title][/us/usc/t47/s312].
+
+    Section 95, [act Feb. 23, 1927, ch. 169, § 15][/us/act/1927-02-23/ch169/s15], [44 Stat. 1168][/us/stat/44/1168], related to application of laws against monopolies to radio combinations and revocation of licenses. See [section 313 of this title][/us/usc/t47/s313].
+
+    Section 96, acts [Feb. 23, 1927, ch. 169, § 16][/us/act/1927-02-23/ch169/s16], [44 Stat. 1169][/us/stat/44/1169]; [July 1, 1930, ch. 788][/us/act/1930-07-01/ch788], [46 Stat. 844][/us/stat/46/844], related to appeals in matters affecting permit and licenses. See [section 402 of this title][/us/usc/t47/s402].
+
+    Section 97, [act Feb. 23, 1927, ch. 169, § 17][/us/act/1927-02-23/ch169/s17], [44 Stat. 1169][/us/stat/44/1169], related to control by radio interests of cable, wire, telegraph or telephone system and prohibition thereof. See [section 314 of this title][/us/usc/t47/s314].
+
+    Section 98, [act Feb. 23, 1927, ch. 169, § 18][/us/act/1927-02-23/ch169/s18], [44 Stat. 1170][/us/stat/44/1170], related to use of broadcasting stations by legally qualified candidates and censorship over material for broadcast. See [section 315(a) of this title][/us/usc/t47/s315/a].
+
+    Section 99, [act Feb. 23, 1927, ch. 169, § 19][/us/act/1927-02-23/ch169/s19], [44 Stat. 1170][/us/stat/44/1170], related to broadcasting matter for valuable consideration and announcement of person furnishing. See [section 317 of this title][/us/usc/t47/s317].
+
+    Section 100, [act Feb. 23, 1927, ch. 169, § 20][/us/act/1927-02-23/ch169/s20], [44 Stat. 1170][/us/stat/44/1170], related to operation of transmitting apparatus in radio station and operator’s license. See [section 318 of this title][/us/usc/t47/s318].
+
+    Section 101, [act Feb. 23, 1927, ch. 169, § 21][/us/act/1927-02-23/ch169/s21], [44 Stat. 1170][/us/stat/44/1170], related to permits for construction and licenses for operation of stations. See [section 319 of this title][/us/usc/t47/s319].
+
+    Section 102, [act Feb. 23, 1927, ch. 169, § 22][/us/act/1927-02-23/ch169/s22], [44 Stat. 1171][/us/stat/44/1171], related to stations interfering with distress signals of ships and regulation thereof. See [section 320 of this title][/us/usc/t47/s320].
+
+    Section 103, [act Feb. 23, 1927, ch. 169, § 23][/us/act/1927-02-23/ch169/s23], [44 Stat. 1171][/us/stat/44/1171], related to radio stations or ships and equipment and regulation thereof. See [section 321 of this title][/us/usc/t47/s321].
+
+    Section 104, [act Feb. 23, 1927, ch. 169, § 24][/us/act/1927-02-23/ch169/s24], [44 Stat. 1171][/us/stat/44/1171], related to shore stations and ships stations and exchanging radio communications and signals. See [section 322 of this title][/us/usc/t47/s322].
+
+    Section 105, [act Feb. 23, 1927, ch. 169, § 25][/us/act/1927-02-23/ch169/s25], [44 Stat. 1172][/us/stat/44/1172], related to proximity of Government and private or commercial stations causing interference and regulation thereof. See [section 323 of this title][/us/usc/t47/s323].
+
+    Section 106, [act Feb. 23, 1927, ch. 169, § 26][/us/act/1927-02-23/ch169/s26], [44 Stat. 1172][/us/stat/44/1172], related to limit on amount of power used at stations. See [section 324 of this title][/us/usc/t47/s324].
+
+    Section 107, [act Feb. 23, 1927, ch. 169, § 27][/us/act/1927-02-23/ch169/s27], [44 Stat. 1172][/us/stat/44/1172], related to divulging and publishing radio communications. See [section 605 of this title][/us/usc/t47/s605].
+
+    Section 108, [act Feb. 23, 1927, ch. 169, § 28][/us/act/1927-02-23/ch169/s28], [44 Stat. 1172][/us/stat/44/1172], related to false and fraudulent signals of distress and communications and rebroadcasting programs without authority. See [section 325(a) of this title][/us/usc/t47/s325/a].
+
+    Section 109, [act Feb. 23, 1927, ch. 169, § 29][/us/act/1927-02-23/ch169/s29], [44 Stat. 1172][/us/stat/44/1172], related to censorship over radio communications and signals, protection of free speech and obscene language. See [section 326 of this title][/us/usc/t47/s326].
+
+    Section 110, [act Feb. 23, 1927, ch. 169, § 30][/us/act/1927-02-23/ch169/s30], [44 Stat. 1173][/us/stat/44/1173], related to use of United States owned radio stations and apparatus by Secretary of Navy for transmission of press messages, etc. See [section 327 of this title][/us/usc/t47/s327].
+
+    Section 111, [act Feb. 23, 1927, ch. 169, § 31][/us/act/1927-02-23/ch169/s31], [44 Stat. 1173][/us/stat/44/1173], defined radio communication. See [section 153 of this title][/us/usc/t47/s153].
+
+    Section 112, [act Feb. 23, 1927, ch. 169, § 32][/us/act/1927-02-23/ch169/s32], [44 Stat. 1173][/us/stat/44/1173], related to penalties for violation of rules of licensing authority, etc. See [section 502 of this title][/us/usc/t47/s502].
+
+    Section 113, [act Feb. 23, 1927, ch. 169, § 33][/us/act/1927-02-23/ch169/s33], [44 Stat. 1173][/us/stat/44/1173], related to penalties for violation of statutory provisions and perjury. See [section 501 of this title][/us/usc/t47/s501] and [section 1621 of Title 18][/us/usc/t18/s1621], Crimes and Criminal Procedure.
+
+    Section 114, [act Feb. 23, 1927, ch. 169, § 34][/us/act/1927-02-23/ch169/s34], [44 Stat. 1173][/us/stat/44/1173], related to jurisdiction of offenses. See [section 505 of this title][/us/usc/t47/s505].
+
+    Section 115, [act Feb. 23, 1927, ch. 169, § 35][/us/act/1927-02-23/ch169/s35], [44 Stat. 1174][/us/stat/44/1174], related to application of section 81 et seq. of this title to Philippine Islands and Canal Zone.
+
+    Section 116, [act Feb. 23, 1927, ch. 169, § 36][/us/act/1927-02-23/ch169/s36], [44 Stat. 1174][/us/stat/44/1174], related to administration of radio laws in Territories and insular possessions. See [section 329 of this title][/us/usc/t47/s329].
+
+    Section 117, [act Feb. 23, 1927, ch. 169, § 38][/us/act/1927-02-23/ch169/s38], [44 Stat. 1174][/us/stat/44/1174], related to invalidity of part of chapter and effect as to remainder. See [section 608 of this title][/us/usc/t47/s608].
+
+    Section 118, [act Feb. 23, 1927, ch. 169, § 39][/us/act/1927-02-23/ch169/s39], [44 Stat. 1174][/us/stat/44/1174], related to repeal of sections 51–63 and effect of repeal on existing rights.
+
+    Section 119, [act Feb. 23, 1927, ch. 169, § 41][/us/act/1927-02-23/ch169/s41], [44 Stat. 1174][/us/stat/44/1174], related to citation of section 81 et seq. of this title as “Radio Act of 1927.”
+
+§§ 120, 121. __Omitted__ 
+
+ __Codification__ 
+
+    Section 120, [act July 5, 1932, ch. 421, § 1][/us/act/1932-07-05/ch421/s1], [47 Stat. 576][/us/stat/47/576], related to equipment necessary on ocean-going vessels using ports in the Canal Zone.
+
+    Section 121, [act July 5, 1932, ch. 421, § 2][/us/act/1932-07-05/ch421/s2], [47 Stat. 576][/us/stat/47/576], related to jurisdiction of violations and penalties for ocean-going vessels not properly equipped.
+
 ----------
 
-[Previous](./../../../..//us/usc/t47/ch4/m__us_usc_t47_s83a to 83e.md) | [Next](./../../../..//us/usc/t47/ch4/m__us_usc_t47_s84a, 84b.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs84)
+[Previous](./../../../..//us/usc/t47/ch4/m__us_usc_t47_ch4.md) | [Next](./../../../..//us/usc/t47/ch5/m__us_usc_t47_ch5.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs84)
 
 ----------
 ----------
@@ -28,5 +114,137 @@
 [/us/stat/48/1102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1102
 [/us/act/1927-02-23/ch169/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-02-23%2Fch169%2Fs4
 [/us/stat/44/1163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F1163
+[/us/pl/89/554/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs8%2Fa
+[/us/stat/80/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F647
+[/us/act/1929-03-04/ch701/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1929-03-04%2Fch701%2Fs5
+[/us/stat/45/1559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F1559
+[/us/act/1929-12-18/ch7/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1929-12-18%2Fch7%2Fs3
+[/us/stat/46/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F50
+[/us/act/1934-06-19/ch652/s602/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652%2Fs602%2Fa
+[/us/stat/48/1102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1102
+[/us/act/1927-02-23/ch169/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-02-23%2Fch169%2Fs5
+[/us/stat/44/1164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F1164
+[/us/act/1928-03-28/ch263/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-03-28%2Fch263%2Fs1
+[/us/stat/45/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F373
+[/us/act/1929-03-04/ch701/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1929-03-04%2Fch701%2Fs1
+[/us/stat/45/1559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F1559
+[/us/act/1929-12-18/ch7/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1929-12-18%2Fch7%2Fs1
+[/us/stat/46/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F50
+[/us/act/1932-05-19/ch192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1932-05-19%2Fch192
+[/us/stat/47/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F47%2F160
+[/us/act/1927-02-23/ch169/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-02-23%2Fch169%2Fs6
+[/us/stat/44/1165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F1165
+[/us/act/1927-02-23/ch169/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-02-23%2Fch169%2Fs7
+[/us/stat/44/1165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F1165
+[/us/usc/t47/s606/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs606%2Fe
+[/us/act/1927-02-23/ch169/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-02-23%2Fch169%2Fs8
+[/us/stat/44/1166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F1166
+[/us/usc/t47/s81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs81
+[/us/act/1927-02-23/ch169/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-02-23%2Fch169%2Fs9
+[/us/stat/44/1166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F1166
+[/us/act/1928-03-28/ch263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-03-28%2Fch263
+[/us/stat/45/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F373
+[/us/act/1929-03-04/ch701/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1929-03-04%2Fch701%2Fs3
+[/us/stat/45/1559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F1559
+[/us/usc/t47/s307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs307
+[/us/act/1927-02-23/ch169/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-02-23%2Fch169%2Fs10
+[/us/stat/44/1166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F1166
+[/us/usc/t47/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs308
+[/us/act/1927-02-23/ch169/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-02-23%2Fch169%2Fs11
+[/us/stat/44/1167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F1167
+[/us/act/1928-03-28/ch263/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-03-28%2Fch263%2Fs1
+[/us/stat/45/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F373
+[/us/act/1929-03-04/ch701/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1929-03-04%2Fch701%2Fs1
+[/us/stat/45/1559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F1559
+[/us/act/1929-12-18/ch7/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1929-12-18%2Fch7%2Fs1
+[/us/stat/46/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F50
+[/us/act/1927-02-23/ch169/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-02-23%2Fch169%2Fs12
+[/us/stat/44/1167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F1167
+[/us/usc/t47/s310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs310
+[/us/act/1927-02-23/ch169/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-02-23%2Fch169%2Fs13
+[/us/stat/44/1167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F1167
+[/us/usc/t47/s311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs311
+[/us/act/1927-02-23/ch169/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-02-23%2Fch169%2Fs14
+[/us/stat/44/1168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F1168
+[/us/usc/t47/s312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs312
+[/us/act/1927-02-23/ch169/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-02-23%2Fch169%2Fs15
+[/us/stat/44/1168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F1168
+[/us/usc/t47/s313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs313
+[/us/act/1927-02-23/ch169/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-02-23%2Fch169%2Fs16
+[/us/stat/44/1169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F1169
+[/us/act/1930-07-01/ch788]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-07-01%2Fch788
+[/us/stat/46/844]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F844
+[/us/usc/t47/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs402
+[/us/act/1927-02-23/ch169/s17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-02-23%2Fch169%2Fs17
+[/us/stat/44/1169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F1169
+[/us/usc/t47/s314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs314
+[/us/act/1927-02-23/ch169/s18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-02-23%2Fch169%2Fs18
+[/us/stat/44/1170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F1170
+[/us/usc/t47/s315/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs315%2Fa
+[/us/act/1927-02-23/ch169/s19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-02-23%2Fch169%2Fs19
+[/us/stat/44/1170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F1170
+[/us/usc/t47/s317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs317
+[/us/act/1927-02-23/ch169/s20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-02-23%2Fch169%2Fs20
+[/us/stat/44/1170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F1170
+[/us/usc/t47/s318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs318
+[/us/act/1927-02-23/ch169/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-02-23%2Fch169%2Fs21
+[/us/stat/44/1170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F1170
+[/us/usc/t47/s319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs319
+[/us/act/1927-02-23/ch169/s22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-02-23%2Fch169%2Fs22
+[/us/stat/44/1171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F1171
+[/us/usc/t47/s320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs320
+[/us/act/1927-02-23/ch169/s23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-02-23%2Fch169%2Fs23
+[/us/stat/44/1171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F1171
+[/us/usc/t47/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs321
+[/us/act/1927-02-23/ch169/s24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-02-23%2Fch169%2Fs24
+[/us/stat/44/1171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F1171
+[/us/usc/t47/s322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs322
+[/us/act/1927-02-23/ch169/s25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-02-23%2Fch169%2Fs25
+[/us/stat/44/1172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F1172
+[/us/usc/t47/s323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs323
+[/us/act/1927-02-23/ch169/s26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-02-23%2Fch169%2Fs26
+[/us/stat/44/1172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F1172
+[/us/usc/t47/s324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs324
+[/us/act/1927-02-23/ch169/s27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-02-23%2Fch169%2Fs27
+[/us/stat/44/1172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F1172
+[/us/usc/t47/s605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs605
+[/us/act/1927-02-23/ch169/s28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-02-23%2Fch169%2Fs28
+[/us/stat/44/1172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F1172
+[/us/usc/t47/s325/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs325%2Fa
+[/us/act/1927-02-23/ch169/s29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-02-23%2Fch169%2Fs29
+[/us/stat/44/1172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F1172
+[/us/usc/t47/s326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs326
+[/us/act/1927-02-23/ch169/s30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-02-23%2Fch169%2Fs30
+[/us/stat/44/1173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F1173
+[/us/usc/t47/s327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs327
+[/us/act/1927-02-23/ch169/s31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-02-23%2Fch169%2Fs31
+[/us/stat/44/1173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F1173
+[/us/usc/t47/s153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs153
+[/us/act/1927-02-23/ch169/s32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-02-23%2Fch169%2Fs32
+[/us/stat/44/1173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F1173
+[/us/usc/t47/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs502
+[/us/act/1927-02-23/ch169/s33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-02-23%2Fch169%2Fs33
+[/us/stat/44/1173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F1173
+[/us/usc/t47/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs501
+[/us/usc/t18/s1621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1621
+[/us/act/1927-02-23/ch169/s34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-02-23%2Fch169%2Fs34
+[/us/stat/44/1173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F1173
+[/us/usc/t47/s505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs505
+[/us/act/1927-02-23/ch169/s35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-02-23%2Fch169%2Fs35
+[/us/stat/44/1174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F1174
+[/us/act/1927-02-23/ch169/s36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-02-23%2Fch169%2Fs36
+[/us/stat/44/1174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F1174
+[/us/usc/t47/s329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs329
+[/us/act/1927-02-23/ch169/s38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-02-23%2Fch169%2Fs38
+[/us/stat/44/1174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F1174
+[/us/usc/t47/s608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs608
+[/us/act/1927-02-23/ch169/s39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-02-23%2Fch169%2Fs39
+[/us/stat/44/1174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F1174
+[/us/act/1927-02-23/ch169/s41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-02-23%2Fch169%2Fs41
+[/us/stat/44/1174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F1174
+[/us/act/1932-07-05/ch421/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1932-07-05%2Fch421%2Fs1
+[/us/stat/47/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F47%2F576
+[/us/act/1932-07-05/ch421/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1932-07-05%2Fch421%2Fs2
+[/us/stat/47/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F47%2F576
 
 

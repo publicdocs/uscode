@@ -15,7 +15,7 @@
 
 ## § 162. Additional research authorities of the FCC
 
-In order to carry out the purposes of this chapter, the Commission may—
+    In order to carry out the purposes of this chapter, the Commission may—
 
     (1) undertake research and development work in connection with any matter in relation to which the Commission has jurisdiction; and
 

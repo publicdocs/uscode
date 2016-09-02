@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t47/ch1/m__us_usc_t47_s1 to 6.md) | [Next](./../../../..//us/usc/t47/ch1/m__us_usc_t47_s8.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs7)
+[Previous](./../../../..//us/usc/t47/ch1/m__us_usc_t47_ch1.md) | [Next](./../../../..//us/usc/t47/ch1/m__us_usc_t47_s8.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs7)
 
 ## § 7. Omitted
 
@@ -21,7 +21,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t47/ch1/m__us_usc_t47_s1 to 6.md) | [Next](./../../../..//us/usc/t47/ch1/m__us_usc_t47_s8.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs7)
+[Previous](./../../../..//us/usc/t47/ch1/m__us_usc_t47_ch1.md) | [Next](./../../../..//us/usc/t47/ch1/m__us_usc_t47_s8.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs7)
 
 ----------
 ----------

@@ -15,7 +15,7 @@
 
 ## § 1401. Definitions
 
-In this chapter:
+    In this chapter:
 
     (1) __700 MHz band__ 
 

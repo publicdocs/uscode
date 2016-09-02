@@ -15,7 +15,7 @@
 
 ## § 1001. Definitions
 
-For purposes of this subchapter—
+    For purposes of this subchapter—
 
     (1) The terms defined in [section 2510 of title 18][/us/usc/t18/s2510] have, respectively, the meanings stated in that section.
 

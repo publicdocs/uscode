@@ -15,7 +15,7 @@
 
 ## § 303. Powers and duties of Commission
 
-Except as otherwise provided in this chapter, the Commission from time to time, as public convenience, interest, or necessity requires, shall—
+    Except as otherwise provided in this chapter, the Commission from time to time, as public convenience, interest, or necessity requires, shall—
 
     (a) Classify radio stations;
 
@@ -61,9 +61,7 @@ Except as otherwise provided in this chapter, the Commission from time to time, 
 
             (D)
 
-             has transmitted superfluous radio communications or signals or communications containing profane or obscene words, language, or meaning, or has knowingly transmitted—
-
-                (1) false or deceptive signals or communications, or
+             has transmitted superfluous radio communications or signals or communications containing profane or obscene words, language, or meaning, or has knowingly transmitted—    (1) false or deceptive signals or communications, or
 
                 (2) a call signal or letter which has not been assigned by proper authority to the station he is operating; or
 
@@ -379,9 +377,7 @@ Except as otherwise provided in this chapter, the Commission from time to time, 
 
 > “SEC. 2. __AMENDMENT.__ 
 
->     “Section 632 of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 2001 ([Public Law 106–553][/us/pl/106/553]; [114 Stat. 2762][/us/stat/114/2762]A–111), is amended to read as follows:
-
->     “ ‘Sec. 632. (a) The Federal Communications Commission shall modify the rules authorizing the operation of low-power FM radio stations, as proposed in MM Docket No. 99–25, to—
+> “Section 632 of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 2001 ([Public Law 106–553][/us/pl/106/553]; [114 Stat. 2762][/us/stat/114/2762]A–111), is amended to read as follows:    “ ‘Sec. 632. (a) The Federal Communications Commission shall modify the rules authorizing the operation of low-power FM radio stations, as proposed in MM Docket No. 99–25, to—
 
 >     “ ‘(1) prescribe protection for co-channels and first- and second-adjacent channels; and
 
@@ -641,7 +637,7 @@ Except as otherwise provided in this chapter, the Commission from time to time, 
 
 >     “(2) between 6 a.m. and 12 midnight on any day for any radio or television broadcasting station not described in paragraph (1).
 
->         The regulations required under this subsection shall be promulgated in accordance with [section 553 of title 5][/us/usc/t5/s553], United States Code, and shall become final not later than 180 days after the date of enactment of this Act \[Aug. 26, 1992\].”
+>     The regulations required under this subsection shall be promulgated in accordance with [section 553 of title 5][/us/usc/t5/s553], United States Code, and shall become final not later than 180 days after the date of enactment of this Act \[Aug. 26, 1992\].”
 
  __Congressional Findings Regarding Access by Hearing-Impaired People to Television Medium__ 
 

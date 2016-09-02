@@ -15,7 +15,7 @@
 
 ## § 921. Definitions
 
-As used in this subchapter:
+    As used in this subchapter:
 
     (1) The term “allocation” means an entry in the National Table of Frequency Allocations of a given frequency band for the purpose of its use by one or more radiocommunication services.
 

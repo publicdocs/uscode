@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t47/ch5/schIII/ptI/m__us_usc_t47_s309.md) | [Next](./../../../../../..//us/usc/t47/ch5/schIII/ptI/m__us_usc_t47_s311.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs310)
+[Previous](./../../../../../..//us/usc/t47/ch5/schIII/ptI/m__us_usc_t47_s3013.md) | [Next](./../../../../../..//us/usc/t47/ch5/schIII/ptI/m__us_usc_t47_s311.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs310)
 
 ## § 310. License ownership restrictions
 
@@ -79,7 +79,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t47/ch5/schIII/ptI/m__us_usc_t47_s309.md) | [Next](./../../../../../..//us/usc/t47/ch5/schIII/ptI/m__us_usc_t47_s311.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs310)
+[Previous](./../../../../../..//us/usc/t47/ch5/schIII/ptI/m__us_usc_t47_s3013.md) | [Next](./../../../../../..//us/usc/t47/ch5/schIII/ptI/m__us_usc_t47_s311.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs310)
 
 ----------
 ----------

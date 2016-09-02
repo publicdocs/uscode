@@ -15,7 +15,7 @@
 
 ## § 382. Vessels excepted from radiotelephone requirement
 
-The provisions of this part shall not apply to—
+    The provisions of this part shall not apply to—
 
     (1) vessels which are equipped with a radio installation in accordance with the provisions of part II of this subchapter, or in accordance with the radio requirements of the Safety Convention; and
 

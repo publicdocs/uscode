@@ -47,9 +47,13 @@
 
 >         “(2) Multiple or discriminatory taxes on electronic commerce.
 
->     “(b) __Preservation of State and Local Taxing Authority.—Except as provided in this section, nothing in this title shall be construed to modify, impair, or supersede, or authorize the modification, impairment, or superseding of, any State or local law pertaining to taxation that is otherwise permissible by or under the Constitution of the United States or other Federal law and in effect on the date of enactment of this Act \[__  __Oct. 21, 1998__  __\].__ 
+>     “(b) __Preservation of State and Local Taxing Authority.—__ 
 
->     “(c) __Liabilities and Pending Cases.—Nothing in this title affects liability for taxes accrued and enforced before the date of enactment of this Act, nor does this title affect ongoing litigation relating to such taxes.__ 
+>     Except as provided in this section, nothing in this title shall be construed to modify, impair, or supersede, or authorize the modification, impairment, or superseding of, any State or local law pertaining to taxation that is otherwise permissible by or under the Constitution of the United States or other Federal law and in effect on the date of enactment of this Act \[Oct. 21, 1998\].
+
+>     “(c) __Liabilities and Pending Cases.—__ 
+
+>     Nothing in this title affects liability for taxes accrued and enforced before the date of enactment of this Act, nor does this title affect ongoing litigation relating to such taxes.
 
 >     “(d) __Exception to Moratorium.—__ 
 
@@ -151,7 +155,9 @@
 
 > “SEC. 1102. __ADVISORY COMMISSION ON ELECTRONIC COMMERCE.__ 
 
->     “(a) __Establishment of Commission.—There is established a commission to be known as the Advisory Commission on Electronic Commerce (in this title referred to as the ‘Commission’). The Commission shall—__ 
+>     “(a) __Establishment of Commission.—__ 
+
+>     There is established a commission to be known as the Advisory Commission on Electronic Commerce (in this title referred to as the ‘Commission’). The Commission shall—
 
 >         “(1) be composed of 19 members appointed in accordance with subsection (b), including the chairperson who shall be selected by the members of the Commission from among themselves; and
 
@@ -159,7 +165,9 @@
 
 >     “(b) __Membership.—__ 
 
->         “(1) __In general.—The Commissioners shall serve for the life of the Commission. The membership of the Commission shall be as follows:__ 
+>         “(1) __In general.—__ 
+
+>         The Commissioners shall serve for the life of the Commission. The membership of the Commission shall be as follows:
 
 >             “(A) 3 representatives from the Federal Government, comprised of the Secretary of Commerce, the Secretary of the Treasury, and the United States Trade Representative (or their respective delegates).
 
@@ -257,7 +265,9 @@
 
 >             “(B) the implementation of the Telecommunications Act of 1996 \[[Pub. L. 104–104][/us/pl/104/104], see Short Title of 1996 Amendment note set out under [section 609 of this title][/us/usc/t47/s609]\] (or of amendments made by that Act).
 
->     “(h) __National Tax Association Communications and Electronic Commerce Tax Project.—The Commission shall, to the extent possible, ensure that its work does not undermine the efforts of the National Tax Association Communications and Electronic Commerce Tax Project.__ 
+>     “(h) __National Tax Association Communications and Electronic Commerce Tax Project.—__ 
+
+>     The Commission shall, to the extent possible, ensure that its work does not undermine the efforts of the National Tax Association Communications and Electronic Commerce Tax Project.
 
 > “SEC. 1103. __REPORT.__ 
 
@@ -295,7 +305,9 @@
 
 >                 “(ii) __Description of tax.—__ 
 
->                 A State telecommunications service tax referred to in subclause (i) is a State tax—         “(I) enacted by State law on or after October 1, 1991, and imposing a tax on telecommunications service; and
+>                 A State telecommunications service tax referred to in subclause (i) is a State tax—
+
+>                          “(I) enacted by State law on or after October 1, 1991, and imposing a tax on telecommunications service; and
 
 >                          “(II) applied to Internet access through administrative code or regulation issued on or after December 1, 2002.
 
@@ -347,7 +359,9 @@
 
 >     The term ‘bit tax’ means any tax on electronic commerce expressly imposed on or measured by the volume of digital information transmitted electronically, or the volume of digital information per unit of time transmitted electronically, but does not include taxes imposed on the provision of telecommunications.
 
->     “(2) __Discriminatory tax.—The term ‘discriminatory tax’ means—__ 
+>     “(2) __Discriminatory tax.—__ 
+
+>     The term ‘discriminatory tax’ means—
 
 >         “(A)
 
@@ -367,7 +381,11 @@
 
 >             “(i) the sole ability to access a site on a remote seller’s out-of-State computer server is considered a factor in determining a remote seller’s tax collection obligation; or
 
->             “(ii) a provider of Internet access service or online services is deemed to be the agent of a remote seller for determining tax collection obligations solely as a result of—         “(I) the display of a remote seller’s information or content on the out-of-State computer server of a provider of Internet access service or online services; or
+>             “(ii)
+
+>              a provider of Internet access service or online services is deemed to be the agent of a remote seller for determining tax collection obligations solely as a result of—
+
+>                      “(I) the display of a remote seller’s information or content on the out-of-State computer server of a provider of Internet access service or online services; or
 
 >                      “(II) the processing of orders through the out-of-State computer server of a provider of Internet access service or online services.
 
@@ -375,7 +393,9 @@
 
 >     The term ‘electronic commerce’ means any transaction conducted over the Internet or through Internet access, comprising the sale, lease, license, offer, or delivery of property, goods, services, or information, whether or not for consideration, and includes the provision of Internet access.
 
->     “(4) __Internet.—The term ‘Internet’ means collectively the myriad of computer and telecommunications facilities, including equipment and operating software, which comprise the interconnected world-wide network of networks that employ the Transmission Control Protocol/Internet Protocol, or any predecessor or successor protocols to such protocol, to communicate information of all kinds by wire or radio.__ 
+>     “(4) __Internet.—__ 
+
+>     The term ‘Internet’ means collectively the myriad of computer and telecommunications facilities, including equipment and operating software, which comprise the interconnected world-wide network of networks that employ the Transmission Control Protocol/Internet Protocol, or any predecessor or successor protocols to such protocol, to communicate information of all kinds by wire or radio.
 
 >     “(5) __Internet access.—__ 
 
@@ -417,13 +437,17 @@
 
 >     “(8) __Tax.—__ 
 
->         “(A) __In general.—The term ‘tax’ means—__ 
+>         “(A) __In general.—__ 
+
+>         The term ‘tax’ means—
 
 >             “(i) any charge imposed by any governmental entity for the purpose of generating revenues for governmental purposes, and is not a fee imposed for a specific privilege, service, or benefit conferred; or
 
 >             “(ii) the imposition on a seller of an obligation to collect and to remit to a governmental entity any sales or use tax imposed on a buyer by a governmental entity.
 
->         “(B) __Exception.—Such term does not include any franchise fee or similar fee imposed by a State or local franchising authority, pursuant to section 622 or 653 of the Communications Act of 1934 (__  __[__  __47 U.S.C. 542__  __][/us/usc/t47/s542]__  __, 573), or any other fee related to obligations or telecommunications carriers under the Communications Act of 1934 (__  __[__  __47 U.S.C. 151__  __][/us/usc/t47/s151]__  __et seq.).__ 
+>         “(B) __Exception.—__ 
+
+>         Such term does not include any franchise fee or similar fee imposed by a State or local franchising authority, pursuant to section 622 or 653 of the Communications Act of 1934 ([47 U.S.C. 542][/us/usc/t47/s542], 573), or any other fee related to obligations or telecommunications carriers under the Communications Act of 1934 ([47 U.S.C. 151][/us/usc/t47/s151] et seq.).
 
 >     “(9) __Telecommunications.—__ 
 
@@ -443,7 +467,9 @@
 
 >             “(i) __Specified taxes.—__ 
 
->             Effective November 1, 2007, the term ‘tax on Internet access’ also does not include a State tax expressly levied on commercial activity, modified gross receipts, taxable margin, or gross income of the business, by a State law specifically using one of the foregoing terms, that—         “(I) was enacted after June 20, 2005, and before November 1, 2007 (or, in the case of a State business and occupation tax, was enacted after January 1, 1932, and before January 1, 1936);
+>             Effective November 1, 2007, the term ‘tax on Internet access’ also does not include a State tax expressly levied on commercial activity, modified gross receipts, taxable margin, or gross income of the business, by a State law specifically using one of the foregoing terms, that—
+
+>                      “(I) was enacted after June 20, 2005, and before November 1, 2007 (or, in the case of a State business and occupation tax, was enacted after January 1, 1932, and before January 1, 1936);
 
 >                      “(II) replaced, in whole or in part, a modified value-added tax or a tax levied upon or measured by net income, capital stock, or net worth (or, is a State business and occupation tax that was enacted after January 1, 1932 and before January 1, 1936);
 
@@ -493,7 +519,9 @@
 
 >     “(c) __Non-Tax Regulatory Proceedings.—__ 
 
->     Nothing in this Act \[probably means “this title”\] shall be construed to affect any Federal or State regulatory proceeding that is not related to taxation.    “\[SEC. 1108. Repealed. [Pub. L. 110–108, § 5(b)][/us/pl/110/108/s5/b], Oct. 31, 2007, [121 Stat. 1026][/us/stat/121/1026]\]
+>     Nothing in this Act \[probably means “this title”\] shall be construed to affect any Federal or State regulatory proceeding that is not related to taxation.
+
+> “\[SEC. 1108. Repealed. [Pub. L. 110–108, § 5(b)][/us/pl/110/108/s5/b], Oct. 31, 2007, [121 Stat. 1026][/us/stat/121/1026]\]
 
 > “SEC. 1109. __EXCEPTION FOR TEXAS MUNICIPAL ACCESS LINE FEE.__ 
 

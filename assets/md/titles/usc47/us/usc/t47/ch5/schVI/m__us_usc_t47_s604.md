@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t47/ch5/schVI/m__us_usc_t47_s602, 603.md) | [Next](./../../../../..//us/usc/t47/ch5/schVI/m__us_usc_t47_s605.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs604)
+[Previous](./../../../../..//us/usc/t47/ch5/schVI/m__us_usc_t47_s601.md) | [Next](./../../../../..//us/usc/t47/ch5/schVI/m__us_usc_t47_s605.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs604)
 
 ## § 604. Effect of transfer
 
@@ -45,7 +45,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t47/ch5/schVI/m__us_usc_t47_s602, 603.md) | [Next](./../../../../..//us/usc/t47/ch5/schVI/m__us_usc_t47_s605.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs604)
+[Previous](./../../../../..//us/usc/t47/ch5/schVI/m__us_usc_t47_s601.md) | [Next](./../../../../..//us/usc/t47/ch5/schVI/m__us_usc_t47_s605.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs604)
 
 ----------
 ----------

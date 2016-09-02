@@ -15,7 +15,7 @@
 
 ## § 384. Authority of Commission; operations, installations, and additional equipment
 
-The Commission shall have authority with respect to any vessel subject to this part—
+    The Commission shall have authority with respect to any vessel subject to this part—
 
     (1) to specify operating and technical conditions and characteristics including frequencies, emissions, power, communication capability and range, of installations required by reason of this part;
 

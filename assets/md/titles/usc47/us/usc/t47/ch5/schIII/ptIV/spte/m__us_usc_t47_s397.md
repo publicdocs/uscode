@@ -15,7 +15,7 @@
 
 ## § 397. Definitions
 
-For the purposes of this part—
+    For the purposes of this part—
 
     (1) The term “construction” (as applied to public telecommunications facilities) means acquisition (including acquisition by lease), installation, and modernization of public telecommunications facilities and planning and preparatory steps incidental to any such acquisition, installation, or modernization.
 

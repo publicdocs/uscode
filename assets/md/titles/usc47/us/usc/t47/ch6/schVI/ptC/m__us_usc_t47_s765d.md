@@ -15,7 +15,7 @@
 
 ## § 765d. Termination of provisions of this chapter
 
-Effective on the dates specified, the following provisions of this chapter shall cease to be effective:
+    Effective on the dates specified, the following provisions of this chapter shall cease to be effective:
 
     (1) March 17, 2000: Paragraphs (1), (5) and (6) of [section 721(a) of this title][/us/usc/t47/s721/a]; [section 721(b) of this title][/us/usc/t47/s721/b]; paragraphs (1), (3) through (5), and (8) through (10) of [section 721(c) of this title][/us/usc/t47/s721/c]; [section 733 of this title][/us/usc/t47/s733]; [section 734 of this title][/us/usc/t47/s734]; [section 751 of this title][/us/usc/t47/s751]; [section 752 of this title][/us/usc/t47/s752]; paragraphs (2) and (4) of [section 753(a) of this title][/us/usc/t47/s753/a]; and [section 753(c) of this title][/us/usc/t47/s753/c].
 

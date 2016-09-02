@@ -409,7 +409,7 @@
 
 >     “(3) is to occur on June 30, 1983;
 
->         no person shall be appointed to fill such office after such date, and such office shall be abolished on July 1, 1983.”
+>     no person shall be appointed to fill such office after such date, and such office shall be abolished on July 1, 1983.”
 
 ----------
 

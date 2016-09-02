@@ -11,11 +11,11 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t47/ch6/schV/m__us_usc_t47_s754 to 756.md) | [Next](./../../../../..//us/usc/t47/ch6/schVI/m__us_usc_t47_ch6_schVI.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs757)
+[Previous](./../../../../..//us/usc/t47/ch6/schV/m__us_usc_t47_s753.md) | [Next](./../../../../..//us/usc/t47/ch6/schVI/m__us_usc_t47_ch6_schVI.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs757)
 
 ## § 757. Definitions
 
-For purposes of this subchapter—
+    For purposes of this subchapter—
 
     (1) the term “person” includes an individual, partnership, association, joint stock company, trust, or corporation;
 
@@ -37,7 +37,7 @@ For purposes of this subchapter—
 
 ----------
 
-[Previous](./../../../../..//us/usc/t47/ch6/schV/m__us_usc_t47_s754 to 756.md) | [Next](./../../../../..//us/usc/t47/ch6/schVI/m__us_usc_t47_ch6_schVI.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs757)
+[Previous](./../../../../..//us/usc/t47/ch6/schV/m__us_usc_t47_s753.md) | [Next](./../../../../..//us/usc/t47/ch6/schVI/m__us_usc_t47_ch6_schVI.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs757)
 
 ----------
 ----------
