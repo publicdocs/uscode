@@ -89,7 +89,7 @@
 
         (5) __Termination of authority__ 
 
-            The Secretary may not award any priority review vouchers under paragraph (1) after the last day of the 1-year period that begins on the date that the Secretary awards the third rare pediatric disease priority voucher under this section.
+            The Secretary may not award any priority review vouchers under paragraph (1) after September 30, 2016.
 
     (c) __Priority review user fee__ 
 
@@ -221,13 +221,17 @@
 
             Not later than 1 year after the date under paragraph (1)(A), the Comptroller General shall submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate, a report containing the results of the study under paragraph (1).
 
-([June 25, 1938, ch. 675, § 529][/us/act/1938-06-25/ch675/s529], as added [Pub. L. 112–144, title IX, § 908][/us/pl/112/144/s908], July 9, 2012, [126 Stat. 1094][/us/stat/126/1094].)
+([June 25, 1938, ch. 675, § 529][/us/act/1938-06-25/ch675/s529], as added [Pub. L. 112–144, title IX, § 908][/us/pl/112/144/s908], July 9, 2012, [126 Stat. 1094][/us/stat/126/1094]; amended [Pub. L. 114–113, div. A, title VII, § 765][/us/pl/114/113/s765], Dec. 18, 2015, [129 Stat. 2286][/us/stat/129/2286].)
 
  __References in Text__ 
 
     Section 101(b) of the Prescription Drug User Fee Amendments of 2012, referred to in subsec. (a)(1), is [section 101(b) of Pub. L. 112–144][/us/pl/112/144/s101/b], which is set out as a note under [section 379g of this title][/us/usc/t21/s379g].
 
     The Public Health Service Act, referred to in subsec. (h), is [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], [58 Stat. 682][/us/stat/58/682], which is classified generally to chapter 6A (§ 201 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 201 of Title 42][/us/usc/t42/s201] and Tables.
+
+ __Amendments__ 
+
+    2015—Subsec. (b)(5). [Pub. L. 114–113][/us/pl/114/113] substituted “September 30, 2016.” for “the last day of the 1-year period that begins on the date that the Secretary awards the third rare pediatric disease priority voucher under this section.”
 
 ----------
 
@@ -258,10 +262,13 @@
 [/us/act/1938-06-25/ch675/s529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs529
 [/us/pl/112/144/s908]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs908
 [/us/stat/126/1094]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1094
+[/us/pl/114/113/s765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs765
+[/us/stat/129/2286]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2286
 [/us/pl/112/144/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs101%2Fb
 [/us/usc/t21/s379g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs379g
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
 [/us/stat/58/682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F682
 [/us/usc/t42/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs201
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
 
 

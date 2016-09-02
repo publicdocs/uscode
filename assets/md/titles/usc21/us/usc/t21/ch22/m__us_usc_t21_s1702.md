@@ -115,11 +115,13 @@
 
  __Gifts to Office of National Drug Control Policy__ 
 
-[Pub. L. 113–235, div. E, title II][/us/pl/113/235], Dec. 16, 2014, [128 Stat. 2344][/us/stat/128/2344], provided in part: 
+[Pub. L. 114–113, div. E, title II][/us/pl/114/113], Dec. 18, 2015, [129 Stat. 2436][/us/stat/129/2436], provided in part: 
 
 > “That the Office \[of National Drug Control Policy\] is authorized to accept, hold, administer, and utilize gifts, both real and personal, public and private, without fiscal year limitation, for the purpose of aiding or facilitating the work of the Office.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+    [Pub. L. 113–235, div. E, title II][/us/pl/113/235], Dec. 16, 2014, [128 Stat. 2344][/us/stat/128/2344].
 
     [Pub. L. 113–76, div. E, title II][/us/pl/113/76], Jan. 17, 2014, [128 Stat. 195][/us/stat/128/195].
 
@@ -208,6 +210,8 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/pl/109/469/s1120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469%2Fs1120
 [/us/pl/109/469/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469%2Fs102%2Fa
 [/us/pl/109/469/s102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469%2Fs102%2Fb
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
+[/us/stat/129/2436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2436
 [/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
 [/us/stat/128/2344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2344
 [/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
