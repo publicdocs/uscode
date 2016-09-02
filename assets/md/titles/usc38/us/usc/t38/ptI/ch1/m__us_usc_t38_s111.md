@@ -21,7 +21,7 @@
 
         (1)
 
-         Except as provided in subsection (c) of this section and notwithstanding subsection (g)(2)(A)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this section or any other provision of law, if, with respect to any fiscal year, the Secretary exercises the authority under this section to make any payments, the Secretary shall make the payments provided for in this section to or for the following persons for travel during such fiscal year for examination, treatment, or care for which the person is eligible:
+         Except as provided in subsection (c) of this section and notwithstanding subsection (g)(2) of this section or any other provision of law, if, with respect to any fiscal year, the Secretary exercises the authority under this section to make any payments, the Secretary shall make the payments provided for in this section to or for the following persons for travel during such fiscal year for examination, treatment, or care for which the person is eligible:
 
             (A) A veteran or other person whose travel is in connection with treatment or care for a service-connected disability.
 
@@ -43,7 +43,7 @@
 
             (B) In the case of travel by a person to or from a Department facility by special mode of travel, the Secretary may provide payment under this section to the provider of the transportation by special mode before determining the eligibility of such person for such payment if the Secretary determines that providing such payment is in the best interest of furnishing care and services. Such a payment shall be made subject to subsequently recovering from such person the amount of the payment if such person is determined to have been ineligible for payment for such travel.
 
-            (C) In the case of transportation of a person to or from a Department facility by ambulance, the Secretary may pay the provider of the transportation the lesser of the actual charge for the transportation or the amount determined by the fee schedule established under section 1834(l) of the Social Security Act ([42 U.S.C. 1395][/us/usc/t42/s1395](l))  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be “1395m(l))”. </sup></sup>  unless the Secretary has entered into a contract for that transportation with the provider.
+            (C) In the case of transportation of a person to or from a Department facility by ambulance, the Secretary may pay the provider of the transportation the lesser of the actual charge for the transportation or the amount determined by the fee schedule established under section 1834(l) of the Social Security Act ([42 U.S.C. 1395m][/us/usc/t42/s1395m](l)) unless the Secretary has entered into a contract for that transportation with the provider.
 
         (4) In determining for purposes of subsection (a) whether travel by air is the only practical way for a veteran to reach a Department facility, the Secretary shall consider the medical condition of the veteran and any other impediments to the use of ground transportation by the veteran.
 
@@ -101,15 +101,17 @@
 
         (2) If an adjustment in the mileage rate under paragraph (1) results in a lower mileage rate than the mileage rate otherwise specified in subsection (a), the Secretary shall, not later than 60 days before the date of the implementation of the mileage rate as so adjusted, submit to Congress a written report setting forth the adjustment in the mileage rate under this subsection, together with a justification for the decision to make the adjustment in the mileage rate under this subsection.
 
-([Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1113][/us/stat/72/1113]; [Pub. L. 86–590][/us/pl/86/590], July 5, 1960, [74 Stat. 329][/us/stat/74/329]; [Pub. L. 89–358, § 4(g)][/us/pl/89/358/s4/g], Mar. 3, 1966, [80 Stat. 24][/us/stat/80/24]; [Pub. L. 89–455][/us/pl/89/455], June 18, 1966, [80 Stat. 208][/us/stat/80/208]; [Pub. L. 94–581, title I, § 101][/us/pl/94/581/s101], Oct. 21, 1976, [90 Stat. 2842][/us/stat/90/2842]; [Pub. L. 96–151, title II, § 201(a)][/us/pl/96/151/s201/a], Dec. 20, 1979, [93 Stat. 1093][/us/stat/93/1093]; [Pub. L. 97–295, § 4(5)][/us/pl/97/295/s4/5], Oct. 12, 1982, [96 Stat. 1305][/us/stat/96/1305]; [Pub. L. 100–322, title I, § 108(a)][/us/pl/100/322/s108/a], (b)(1), (c)–(e)(1), May 20, 1988, [102 Stat. 496–498][/us/stat/102/496-498]; [Pub. L. 102–83][/us/pl/102/83], §§ 4(a)(3), (4), (6), (b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, [105 Stat. 404–406][/us/stat/105/404-406]; [Pub. L. 103–446, title XII, § 1201(e)(1)][/us/pl/103/446/s1201/e/1], Nov. 2, 1994, [108 Stat. 4685][/us/stat/108/4685]; [Pub. L. 110–387, title IV, § 401(a)(1)][/us/pl/110/387/s401/a/1], (b), Oct. 10, 2008, [122 Stat. 4122][/us/stat/122/4122]; [Pub. L. 111–163, title I, § 104][/us/pl/111/163/s104], title III, § 305(a)–(d), May 5, 2010, [124 Stat. 1140][/us/stat/124/1140], 1151, 1152; [Pub. L. 112–56, title II, § 263][/us/pl/112/56/s263], Nov. 21, 2011, [125 Stat. 732][/us/stat/125/732]; [Pub. L. 112–154, title VII, § 704][/us/pl/112/154/s704], Aug. 6, 2012, [126 Stat. 1206][/us/stat/126/1206]; [Pub. L. 112–260, title II, § 202(b)(1)][/us/pl/112/260/s202/b/1]–(3), Jan. 10, 2013, [126 Stat. 2424][/us/stat/126/2424].)
+([Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1113][/us/stat/72/1113]; [Pub. L. 86–590][/us/pl/86/590], July 5, 1960, [74 Stat. 329][/us/stat/74/329]; [Pub. L. 89–358, § 4(g)][/us/pl/89/358/s4/g], Mar. 3, 1966, [80 Stat. 24][/us/stat/80/24]; [Pub. L. 89–455][/us/pl/89/455], June 18, 1966, [80 Stat. 208][/us/stat/80/208]; [Pub. L. 94–581, title I, § 101][/us/pl/94/581/s101], Oct. 21, 1976, [90 Stat. 2842][/us/stat/90/2842]; [Pub. L. 96–151, title II, § 201(a)][/us/pl/96/151/s201/a], Dec. 20, 1979, [93 Stat. 1093][/us/stat/93/1093]; [Pub. L. 97–295, § 4(5)][/us/pl/97/295/s4/5], Oct. 12, 1982, [96 Stat. 1305][/us/stat/96/1305]; [Pub. L. 100–322, title I, § 108(a)][/us/pl/100/322/s108/a], (b)(1), (c)–(e)(1), May 20, 1988, [102 Stat. 496–498][/us/stat/102/496-498]; [Pub. L. 102–83][/us/pl/102/83], §§ 4(a)(3), (4), (6), (b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, [105 Stat. 404–406][/us/stat/105/404-406]; [Pub. L. 103–446, title XII, § 1201(e)(1)][/us/pl/103/446/s1201/e/1], Nov. 2, 1994, [108 Stat. 4685][/us/stat/108/4685]; [Pub. L. 110–387, title IV, § 401(a)(1)][/us/pl/110/387/s401/a/1], (b), Oct. 10, 2008, [122 Stat. 4122][/us/stat/122/4122]; [Pub. L. 111–163, title I, § 104][/us/pl/111/163/s104], title III, § 305(a)–(d), May 5, 2010, [124 Stat. 1140][/us/stat/124/1140], 1151, 1152; [Pub. L. 112–56, title II, § 263][/us/pl/112/56/s263], Nov. 21, 2011, [125 Stat. 732][/us/stat/125/732]; [Pub. L. 112–154, title VII, § 704][/us/pl/112/154/s704], Aug. 6, 2012, [126 Stat. 1206][/us/stat/126/1206]; [Pub. L. 112–260, title II, § 202(b)(1)][/us/pl/112/260/s202/b/1]–(3), Jan. 10, 2013, [126 Stat. 2424][/us/stat/126/2424]; [Pub. L. 114–58, title VI, § 601(1)][/us/pl/114/58/s601/1], Sept. 30, 2015, [129 Stat. 538][/us/stat/129/538].)
 
  __References in Text__ 
-
-    Subsection (g)(2) of this section, referred to in subsec. (b)(1), was amended generally by [section 305(a)(2) of Pub. L. 111–163][/us/pl/111/163/s305/a/2] and, as so amended, no longer contains subpars.
 
     The date of the enactment of the Caregivers and Veterans Omnibus Health Services Act of 2010, referred to in subsec. (g)(1), is the date of enactment of [Pub. L. 111–163][/us/pl/111/163], which was approved May 5, 2010.
 
  __Amendments__ 
+
+    2015—Subsec. (b)(1). [Pub. L. 114–58, § 601(1)(A)][/us/pl/114/58/s601/1/A], substituted “subsection (g)(2)” for “subsection (g)(2)(A)”.
+
+    Subsec. (b)(3)(C). [Pub. L. 114–58, § 601(1)(B)][/us/pl/114/58/s601/1/B], substituted “([42 U.S.C. 1395m][/us/usc/t42/s1395m](l))” for “([42 U.S.C. 1395][/us/usc/t42/s1395](l))”.
 
     2013—Subsec. (h). [Pub. L. 112–260][/us/pl/112/260] transferred subsec. (h), relating to transportation of veterans to Department facilities by third parties, to [section 111A(b) of this title][/us/usc/t38/s111A/b].
 
@@ -303,7 +305,7 @@ By virtue of the authority vested in me by [Section 111 of Title 38][/us/usc/t38
 [/us/usc/t38/s1521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1521
 [/us/usc/t38/s1503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1503
 [/us/usc/t38/s1521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1521
-[/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
+[/us/usc/t42/s1395m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395m
 [/us/usc/t38/s1720G/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1720G%2Fa
 [/us/usc/t38/s1720G/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1720G%2Fa%2F2
 [/us/usc/t5/s5707/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5707%2Fb
@@ -337,8 +339,13 @@ By virtue of the authority vested in me by [Section 111 of Title 38][/us/usc/t38
 [/us/stat/126/1206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1206
 [/us/pl/112/260/s202/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F260%2Fs202%2Fb%2F1
 [/us/stat/126/2424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2424
-[/us/pl/111/163/s305/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163%2Fs305%2Fa%2F2
+[/us/pl/114/58/s601/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F58%2Fs601%2F1
+[/us/stat/129/538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F538
 [/us/pl/111/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163
+[/us/pl/114/58/s601/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F58%2Fs601%2F1%2FA
+[/us/pl/114/58/s601/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F58%2Fs601%2F1%2FB
+[/us/usc/t42/s1395m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395m
+[/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/pl/112/260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F260
 [/us/usc/t38/s111A/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs111A%2Fb
 [/us/pl/112/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154

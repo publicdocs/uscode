@@ -25,17 +25,13 @@
 
         (1) Section 5101(c).
 
-        (2) Subsections (a), (b)(2), <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  (g), and (i) of section 5110.
+        (2) Subsections (a), (b)(3), (g), and (i) of section 5110.
 
         (3) Section 5111.
 
         (4) Subsection (a) and paragraphs (1), (6), (9), and (10) of subsection (b) of section 5112.
 
-(Added [Pub. L. 106–419, title IV, § 401(b)][/us/pl/106/419/s401/b], Nov. 1, 2000, [114 Stat. 1859][/us/stat/114/1859], § 1822; renumbered § 1832, [Pub. L. 108–183, title I, § 102(a)(1)][/us/pl/108/183/s102/a/1], Dec. 16, 2003, [117 Stat. 2653][/us/stat/117/2653].)
-
- __References in Text__ 
-
-    Subsection (b)(2) of [section 5110 of this title][/us/usc/t38/s5110], referred to in subsec. (b)(2), was redesignated subsec. (b)(3) by [Pub. L. 112–154, title V, § 506(1)][/us/pl/112/154/s506/1], Aug. 6, 2012, [126 Stat. 1193][/us/stat/126/1193].
+(Added [Pub. L. 106–419, title IV, § 401(b)][/us/pl/106/419/s401/b], Nov. 1, 2000, [114 Stat. 1859][/us/stat/114/1859], § 1822; renumbered § 1832, [Pub. L. 108–183, title I, § 102(a)(1)][/us/pl/108/183/s102/a/1], Dec. 16, 2003, [117 Stat. 2653][/us/stat/117/2653]; amended [Pub. L. 114–58, title VI, § 601(8)][/us/pl/114/58/s601/8], Sept. 30, 2015, [129 Stat. 538][/us/stat/129/538].)
 
  __Prior Provisions__ 
 
@@ -44,6 +40,8 @@
     Another prior section 1832 was renumbered [section 3733(d) of this title][/us/usc/t38/s3733/d].
 
  __Amendments__ 
+
+    2015—Subsec. (b)(2). [Pub. L. 114–58][/us/pl/114/58] substituted “(b)(3)” for “(b)(2)”.
 
     2003—[Pub. L. 108–183][/us/pl/108/183] renumbered [section 1822 of this title][/us/usc/t38/s1822] as this section.
 
@@ -58,11 +56,11 @@
 [/us/stat/114/1859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1859
 [/us/pl/108/183/s102/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F183%2Fs102%2Fa%2F1
 [/us/stat/117/2653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2653
-[/us/usc/t38/s5110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs5110
-[/us/pl/112/154/s506/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154%2Fs506%2F1
-[/us/stat/126/1193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1193
+[/us/pl/114/58/s601/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F58%2Fs601%2F8
+[/us/stat/129/538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F538
 [/us/usc/t38/s3732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3732
 [/us/usc/t38/s3733/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3733%2Fd
+[/us/pl/114/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F58
 [/us/pl/108/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F183
 [/us/usc/t38/s1822]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1822
 

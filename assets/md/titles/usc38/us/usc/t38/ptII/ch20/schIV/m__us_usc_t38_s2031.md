@@ -25,11 +25,13 @@
 
         (3) therapeutic transitional housing assistance under [section 2032 of this title][/us/usc/t38/s2032], in conjunction with work therapy under subsection (a) or (b) of [section 1718 of this title][/us/usc/t38/s1718] and outpatient care.
 
-    (b) The authority of the Secretary under subsection (a) expires on September 30, 2015.
+    (b) The authority of the Secretary under subsection (a) expires on September 30, 2016.
 
-(Added [Pub. L. 105–114, title II, § 202(a)][/us/pl/105/114/s202/a], Nov. 21, 1997, [111 Stat. 2284][/us/stat/111/2284], § 1771; renumbered § 2031 and amended [Pub. L. 107–95, § 5(b)][/us/pl/107/95/s5/b], (f), Dec. 21, 2001, [115 Stat. 918][/us/stat/115/918]; [Pub. L. 109–444, § 2(c)][/us/pl/109/444/s2/c], Dec. 21, 2006, [120 Stat. 3304][/us/stat/120/3304]; [Pub. L. 109–461, title VII, § 704(a)][/us/pl/109/461/s704/a], title X, § 1006(b), Dec. 22, 2006, [120 Stat. 3440][/us/stat/120/3440], 3468; [Pub. L. 112–37, § 10(c)][/us/pl/112/37/s10/c], Oct. 5, 2011, [125 Stat. 397][/us/stat/125/397]; [Pub. L. 112–154, title III, § 302][/us/pl/112/154/s302], Aug. 6, 2012, [126 Stat. 1184][/us/stat/126/1184]; [Pub. L. 112–191, title II, § 203][/us/pl/112/191/s203], Oct. 5, 2012, [126 Stat. 1439][/us/stat/126/1439]; [Pub. L. 113–59, § 9(a)][/us/pl/113/59/s9/a], Dec. 20, 2013, [127 Stat. 662][/us/stat/127/662]; [Pub. L. 113–175, title II, § 204(a)][/us/pl/113/175/s204/a], Sept. 26, 2014, [128 Stat. 1904][/us/stat/128/1904].)
+(Added [Pub. L. 105–114, title II, § 202(a)][/us/pl/105/114/s202/a], Nov. 21, 1997, [111 Stat. 2284][/us/stat/111/2284], § 1771; renumbered § 2031 and amended [Pub. L. 107–95, § 5(b)][/us/pl/107/95/s5/b], (f), Dec. 21, 2001, [115 Stat. 918][/us/stat/115/918]; [Pub. L. 109–444, § 2(c)][/us/pl/109/444/s2/c], Dec. 21, 2006, [120 Stat. 3304][/us/stat/120/3304]; [Pub. L. 109–461, title VII, § 704(a)][/us/pl/109/461/s704/a], title X, § 1006(b), Dec. 22, 2006, [120 Stat. 3440][/us/stat/120/3440], 3468; [Pub. L. 112–37, § 10(c)][/us/pl/112/37/s10/c], Oct. 5, 2011, [125 Stat. 397][/us/stat/125/397]; [Pub. L. 112–154, title III, § 302][/us/pl/112/154/s302], Aug. 6, 2012, [126 Stat. 1184][/us/stat/126/1184]; [Pub. L. 112–191, title II, § 203][/us/pl/112/191/s203], Oct. 5, 2012, [126 Stat. 1439][/us/stat/126/1439]; [Pub. L. 113–59, § 9(a)][/us/pl/113/59/s9/a], Dec. 20, 2013, [127 Stat. 662][/us/stat/127/662]; [Pub. L. 113–175, title II, § 204(a)][/us/pl/113/175/s204/a], Sept. 26, 2014, [128 Stat. 1904][/us/stat/128/1904]; [Pub. L. 114–58, title III, § 307(a)][/us/pl/114/58/s307/a], Sept. 30, 2015, [129 Stat. 534][/us/stat/129/534].)
 
  __Amendments__ 
+
+    2015—Subsec. (b). [Pub. L. 114–58][/us/pl/114/58] substituted “September 30, 2016” for “September 30, 2015”.
 
     2014—Subsec. (b). [Pub. L. 113–175][/us/pl/113/175] substituted “September 30, 2015” for “December 31, 2014”.
 
@@ -81,6 +83,9 @@
 [/us/stat/127/662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F662
 [/us/pl/113/175/s204/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F175%2Fs204%2Fa
 [/us/stat/128/1904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1904
+[/us/pl/114/58/s307/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F58%2Fs307%2Fa
+[/us/stat/129/534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F534
+[/us/pl/114/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F58
 [/us/pl/113/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F175
 [/us/pl/113/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F59
 [/us/pl/112/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154

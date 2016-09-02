@@ -19,15 +19,17 @@
 
     (b) The Secretary shall consult with and seek the advice of the committee from time to time with respect to the administration of this chapter, chapters 30, 32, 33, and 35 of this title, and chapter 1606 of title 10. The committee may make such reports and recommendations as it considers desirable to the Secretary and the Congress.
 
-    (c) The committee shall remain in existence until December 31, 2015.
+    (c) The committee shall remain in existence until December 31, 2016.
 
-(Added [Pub. L. 89–358, § 3(b)][/us/pl/89/358/s3/b], Mar. 3, 1966, [80 Stat. 23][/us/stat/80/23], § 1788; renumbered § 1792 and amended [Pub. L. 92–540, title III, § 316(2)][/us/pl/92/540/s316/2], (3), Oct. 24, 1972, [86 Stat. 1086][/us/stat/86/1086], 1089; [Pub. L. 96–466, title III, § 346][/us/pl/96/466/s346], Oct. 17, 1980, [94 Stat. 2200][/us/stat/94/2200]; [Pub. L. 99–576, title III, § 304][/us/pl/99/576/s304], Oct. 28, 1986, [100 Stat. 3269][/us/stat/100/3269]; [Pub. L. 100–689, title I, § 123][/us/pl/100/689/s123], Nov. 18, 1988, [102 Stat. 4174][/us/stat/102/4174]; [Pub. L. 101–237, title IV, § 423(b)(1)(A)][/us/pl/101/237/s423/b/1/A], Dec. 18, 1989, [103 Stat. 2092][/us/stat/103/2092]; [Pub. L. 102–25, title III, § 338][/us/pl/102/25/s338], Apr. 6, 1991, [105 Stat. 91][/us/stat/105/91]; [Pub. L. 102–54, § 14(c)(7)][/us/pl/102/54/s14/c/7], June 13, 1991, [105 Stat. 285][/us/stat/105/285]; renumbered § 3692, [Pub. L. 102–83, § 5(a)][/us/pl/102/83/s5/a], Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406]; [Pub. L. 103–210, § 2(d)][/us/pl/103/210/s2/d], Dec. 20, 1993, [107 Stat. 2497][/us/stat/107/2497]; [Pub. L. 103–446, title VI, § 608][/us/pl/103/446/s608], Nov. 2, 1994, [108 Stat. 4672][/us/stat/108/4672]; [Pub. L. 108–183, title III, § 307][/us/pl/108/183/s307], Dec. 16, 2003, [117 Stat. 2661][/us/stat/117/2661]; [Pub. L. 110–252, title V, § 5003(b)(2)(A)(v)][/us/pl/110/252/s5003/b/2/A/v], June 30, 2008, [122 Stat. 2375][/us/stat/122/2375]; [Pub. L. 111–275, title I, § 102][/us/pl/111/275/s102], Oct. 13, 2010, [124 Stat. 2866][/us/stat/124/2866]; [Pub. L. 113–59, § 12][/us/pl/113/59/s12], Dec. 20, 2013, [127 Stat. 663][/us/stat/127/663]; [Pub. L. 113–175, title III, § 301][/us/pl/113/175/s301], Sept. 26, 2014, [128 Stat. 1904][/us/stat/128/1904].)
+(Added [Pub. L. 89–358, § 3(b)][/us/pl/89/358/s3/b], Mar. 3, 1966, [80 Stat. 23][/us/stat/80/23], § 1788; renumbered § 1792 and amended [Pub. L. 92–540, title III, § 316(2)][/us/pl/92/540/s316/2], (3), Oct. 24, 1972, [86 Stat. 1086][/us/stat/86/1086], 1089; [Pub. L. 96–466, title III, § 346][/us/pl/96/466/s346], Oct. 17, 1980, [94 Stat. 2200][/us/stat/94/2200]; [Pub. L. 99–576, title III, § 304][/us/pl/99/576/s304], Oct. 28, 1986, [100 Stat. 3269][/us/stat/100/3269]; [Pub. L. 100–689, title I, § 123][/us/pl/100/689/s123], Nov. 18, 1988, [102 Stat. 4174][/us/stat/102/4174]; [Pub. L. 101–237, title IV, § 423(b)(1)(A)][/us/pl/101/237/s423/b/1/A], Dec. 18, 1989, [103 Stat. 2092][/us/stat/103/2092]; [Pub. L. 102–25, title III, § 338][/us/pl/102/25/s338], Apr. 6, 1991, [105 Stat. 91][/us/stat/105/91]; [Pub. L. 102–54, § 14(c)(7)][/us/pl/102/54/s14/c/7], June 13, 1991, [105 Stat. 285][/us/stat/105/285]; renumbered § 3692, [Pub. L. 102–83, § 5(a)][/us/pl/102/83/s5/a], Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406]; [Pub. L. 103–210, § 2(d)][/us/pl/103/210/s2/d], Dec. 20, 1993, [107 Stat. 2497][/us/stat/107/2497]; [Pub. L. 103–446, title VI, § 608][/us/pl/103/446/s608], Nov. 2, 1994, [108 Stat. 4672][/us/stat/108/4672]; [Pub. L. 108–183, title III, § 307][/us/pl/108/183/s307], Dec. 16, 2003, [117 Stat. 2661][/us/stat/117/2661]; [Pub. L. 110–252, title V, § 5003(b)(2)(A)(v)][/us/pl/110/252/s5003/b/2/A/v], June 30, 2008, [122 Stat. 2375][/us/stat/122/2375]; [Pub. L. 111–275, title I, § 102][/us/pl/111/275/s102], Oct. 13, 2010, [124 Stat. 2866][/us/stat/124/2866]; [Pub. L. 113–59, § 12][/us/pl/113/59/s12], Dec. 20, 2013, [127 Stat. 663][/us/stat/127/663]; [Pub. L. 113–175, title III, § 301][/us/pl/113/175/s301], Sept. 26, 2014, [128 Stat. 1904][/us/stat/128/1904]; [Pub. L. 114–58, title II, § 201][/us/pl/114/58/s201], Sept. 30, 2015, [129 Stat. 533][/us/stat/129/533].)
 
  __Prior Provisions__ 
 
     Provisions similar to those comprising this section were contained in [Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1190][/us/stat/72/1190], which was classified to former [section 1662 of this title][/us/usc/t38/s1662], prior to repeal by [section 4(a) of Pub. L. 89–358][/us/pl/89/358/s4/a].
 
  __Amendments__ 
+
+    2015—Subsec. (c). [Pub. L. 114–58][/us/pl/114/58] substituted “December 31, 2016” for “December 31, 2015”.
 
     2014—Subsec. (c). [Pub. L. 113–175][/us/pl/113/175] substituted “December 31, 2015” for “December 31, 2014”.
 
@@ -132,10 +134,13 @@
 [/us/stat/127/663]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F663
 [/us/pl/113/175/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F175%2Fs301
 [/us/stat/128/1904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1904
+[/us/pl/114/58/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F58%2Fs201
+[/us/stat/129/533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F533
 [/us/pl/85/857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F857
 [/us/stat/72/1190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1190
 [/us/usc/t38/s1662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1662
 [/us/pl/89/358/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F358%2Fs4%2Fa
+[/us/pl/114/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F58
 [/us/pl/113/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F175
 [/us/pl/113/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F59
 [/us/pl/111/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275

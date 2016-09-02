@@ -39,7 +39,9 @@
 
                  The disability is due to—
 
-                    (I) blindness in both eyes, having only light perception, plus (ii)  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be a separate subcl. and be designated “(II)”. </sup></sup>  loss or loss of use of one lower extremity.
+                    (I) blindness in both eyes, having only light perception, plus
+
+                    (II) loss or loss of use of one lower extremity.
 
                 (iii)
 
@@ -75,9 +77,9 @@
 
         (4)
 
-            (A) Except as provided in subparagraph (B), the Secretary’s authority to furnish assistance under paragraph (1) to a disabled veteran described in paragraph (2)(A)(ii) shall apply only with respect to applications for such assistance approved by the Secretary on or before September 30, 2015.
+            (A) Except as provided in subparagraph (B), the Secretary’s authority to furnish assistance under paragraph (1) to a disabled veteran described in paragraph (2)(A)(ii) shall apply only with respect to applications for such assistance approved by the Secretary on or before September 30, 2016.
 
-            (B) In each of fiscal years 2014 and 2015, the Secretary may not approve more than 30 applications for assistance under paragraph (1) for disabled veterans described in paragraph (2)(A)(ii).
+            (B) In each of fiscal years 2014 through 2016, the Secretary may not approve more than 30 applications for assistance under paragraph (1) for disabled veterans described in paragraph (2)(A)(ii).
 
     (b)  __Adaptations to Residence of Veteran__  __.—__ 
 
@@ -111,13 +113,23 @@
 
     Assistance under this section shall be provided in accordance with such regulations as the Secretary may prescribe.
 
-([Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1168][/us/stat/72/1168], § 801; [Pub. L. 86–239][/us/pl/86/239], Sept. 8, 1959, [73 Stat. 472][/us/stat/73/472]; [Pub. L. 88–401][/us/pl/88/401], Aug. 4, 1964, [78 Stat. 380][/us/stat/78/380]; [Pub. L. 91–22, § 1][/us/pl/91/22/s1], June 6, 1969, [83 Stat. 32][/us/stat/83/32]; [Pub. L. 95–117, title IV, § 401][/us/pl/95/117/s401], Oct. 3, 1977, [91 Stat. 1065][/us/stat/91/1065]; [Pub. L. 96–385, title III, § 301(a)][/us/pl/96/385/s301/a], Oct. 7, 1980, [94 Stat. 1531][/us/stat/94/1531]; [Pub. L. 99–576, title IV, § 401(a)][/us/pl/99/576/s401/a], title VII, §§ 701(48), 702(7), Oct. 28, 1986, [100 Stat. 3280][/us/stat/100/3280], 3295, 3302; renumbered § 2101 and amended [Pub. L. 102–83][/us/pl/102/83], §§ 4(b)(1), (2)(E), 5(a), Aug. 6, 1991, [105 Stat. 404–406][/us/stat/105/404-406]; [Pub. L. 108–183, title IV, § 401][/us/pl/108/183/s401], Dec. 16, 2003, [117 Stat. 2664][/us/stat/117/2664]; [Pub. L. 108–454, title IV, § 401][/us/pl/108/454/s401], Dec. 10, 2004, [118 Stat. 3614][/us/stat/118/3614]; [Pub. L. 109–233, title I, § 105(a)][/us/pl/109/233/s105/a], June 15, 2006, [120 Stat. 402][/us/stat/120/402]; [Pub. L. 110–289, div. B, title VI][/us/pl/110/289], §§ 2602(b)(1), (7)(A), 2603, July 30, 2008, [122 Stat. 2859][/us/stat/122/2859], 2860; [Pub. L. 112–154, title II][/us/pl/112/154], §§ 202(a), (c), 203(a), Aug. 6, 2012, [126 Stat. 1176][/us/stat/126/1176], 1177; [Pub. L. 113–37, § 2(g)][/us/pl/113/37/s2/g], Sept. 30, 2013, [127 Stat. 524][/us/stat/127/524]; [Pub. L. 113–175, title IV, § 405][/us/pl/113/175/s405], Sept. 26, 2014, [128 Stat. 1905][/us/stat/128/1905].)
+([Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1168][/us/stat/72/1168], § 801; [Pub. L. 86–239][/us/pl/86/239], Sept. 8, 1959, [73 Stat. 472][/us/stat/73/472]; [Pub. L. 88–401][/us/pl/88/401], Aug. 4, 1964, [78 Stat. 380][/us/stat/78/380]; [Pub. L. 91–22, § 1][/us/pl/91/22/s1], June 6, 1969, [83 Stat. 32][/us/stat/83/32]; [Pub. L. 95–117, title IV, § 401][/us/pl/95/117/s401], Oct. 3, 1977, [91 Stat. 1065][/us/stat/91/1065]; [Pub. L. 96–385, title III, § 301(a)][/us/pl/96/385/s301/a], Oct. 7, 1980, [94 Stat. 1531][/us/stat/94/1531]; [Pub. L. 99–576, title IV, § 401(a)][/us/pl/99/576/s401/a], title VII, §§ 701(48), 702(7), Oct. 28, 1986, [100 Stat. 3280][/us/stat/100/3280], 3295, 3302; renumbered § 2101 and amended [Pub. L. 102–83][/us/pl/102/83], §§ 4(b)(1), (2)(E), 5(a), Aug. 6, 1991, [105 Stat. 404–406][/us/stat/105/404-406]; [Pub. L. 108–183, title IV, § 401][/us/pl/108/183/s401], Dec. 16, 2003, [117 Stat. 2664][/us/stat/117/2664]; [Pub. L. 108–454, title IV, § 401][/us/pl/108/454/s401], Dec. 10, 2004, [118 Stat. 3614][/us/stat/118/3614]; [Pub. L. 109–233, title I, § 105(a)][/us/pl/109/233/s105/a], June 15, 2006, [120 Stat. 402][/us/stat/120/402]; [Pub. L. 110–289, div. B, title VI][/us/pl/110/289], §§ 2602(b)(1), (7)(A), 2603, July 30, 2008, [122 Stat. 2859][/us/stat/122/2859], 2860; [Pub. L. 112–154, title II][/us/pl/112/154], §§ 202(a), (c), 203(a), Aug. 6, 2012, [126 Stat. 1176][/us/stat/126/1176], 1177; [Pub. L. 113–37, § 2(g)][/us/pl/113/37/s2/g], Sept. 30, 2013, [127 Stat. 524][/us/stat/127/524]; [Pub. L. 113–175, title IV, § 405][/us/pl/113/175/s405], Sept. 26, 2014, [128 Stat. 1905][/us/stat/128/1905]; [Pub. L. 114–58, title IV, § 407][/us/pl/114/58/s407], title VI, § 601(10), (11), Sept. 30, 2015, [129 Stat. 535][/us/stat/129/535], 538.)
 
  __Prior Provisions__ 
 
     Prior section 2101, [Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1222][/us/stat/72/1222], related to eligibility for mustering-out payments, prior to repeal by [Pub. L. 89–50, § 1(a)][/us/pl/89/50/s1/a], June 24, 1965, [79 Stat. 173][/us/stat/79/173], effective July 1, 1966.
 
  __Amendments__ 
+
+    2015—Subsec. (a)(2). [Pub. L. 114–58, § 601(10)][/us/pl/114/58/s601/10], realigned margins.
+
+    Subsec. (a)(2)(B)(ii). [Pub. L. 114–58, § 601(11)][/us/pl/114/58/s601/11], added cl. (ii) and struck out former cl. (ii) which read as follows: “The disability is due to—
+
+    “(I) blindness in both eyes, having only light perception, plus (ii) loss or loss of use of one lower extremity.”
+
+    Subsec. (a)(4)(A). [Pub. L. 114–58, § 407(1)][/us/pl/114/58/s407/1], substituted “September 30, 2016” for “September 30, 2015”.
+
+    Subsec. (a)(4)(B). [Pub. L. 114–58, § 407(2)][/us/pl/114/58/s407/2], substituted “each of fiscal years 2014 through 2016” for “each of fiscal years 2014 and 2015”.
 
     2014—Subsec. (a)(4)(A). [Pub. L. 113–175, § 405(1)][/us/pl/113/175/s405/1], substituted “September 30, 2015” for “September 30, 2014”.
 
@@ -432,10 +444,16 @@
 [/us/stat/127/524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F524
 [/us/pl/113/175/s405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F175%2Fs405
 [/us/stat/128/1905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1905
+[/us/pl/114/58/s407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F58%2Fs407
+[/us/stat/129/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F535
 [/us/pl/85/857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F857
 [/us/stat/72/1222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1222
 [/us/pl/89/50/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F50%2Fs1%2Fa
 [/us/stat/79/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F173
+[/us/pl/114/58/s601/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F58%2Fs601%2F10
+[/us/pl/114/58/s601/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F58%2Fs601%2F11
+[/us/pl/114/58/s407/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F58%2Fs407%2F1
+[/us/pl/114/58/s407/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F58%2Fs407%2F2
 [/us/pl/113/175/s405/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F175%2Fs405%2F1
 [/us/pl/113/175/s405/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F175%2Fs405%2F2
 [/us/pl/113/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F37

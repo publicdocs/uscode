@@ -17,7 +17,7 @@
 
     (a)  __In General__  __.—__ 
 
-    Notwithstanding the provisions of section  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “sections”. </sup></sup>  2102 and 2102A of this title, the Secretary may provide assistance to a veteran whose home was previously adapted with assistance of a grant under this chapter in the event the adapted home which was being used and occupied by the veteran was destroyed or substantially damaged in a natural or other disaster, as determined by the Secretary.
+    Notwithstanding the provisions of sections 2102 and 2102A of this title, the Secretary may provide assistance to a veteran whose home was previously adapted with assistance of a grant under this chapter in the event the adapted home which was being used and occupied by the veteran was destroyed or substantially damaged in a natural or other disaster, as determined by the Secretary.
 
     (b)  __Use of Funds__  __.—__ 
 
@@ -37,7 +37,11 @@
 
         (2) the maximum amount of assistance to which the veteran would have been entitled under sections 2101(a), 2101(b), and 2102A of this title had the veteran not obtained previous assistance under this chapter.
 
-(Added [Pub. L. 112–154, title VII, § 701(a)(1)][/us/pl/112/154/s701/a/1], Aug. 6, 2012, [126 Stat. 1202][/us/stat/126/1202].)
+(Added [Pub. L. 112–154, title VII, § 701(a)(1)][/us/pl/112/154/s701/a/1], Aug. 6, 2012, [126 Stat. 1202][/us/stat/126/1202]; amended [Pub. L. 114–58, title VI, § 601(12)][/us/pl/114/58/s601/12], Sept. 30, 2015, [129 Stat. 538][/us/stat/129/538].)
+
+ __Amendments__ 
+
+    2015—Subsec. (a). [Pub. L. 114–58][/us/pl/114/58] substituted “provisions of sections” for “provisions of section”.
 
  __Effective Date__ 
 
@@ -72,6 +76,9 @@
 
 [/us/pl/112/154/s701/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154%2Fs701%2Fa%2F1
 [/us/stat/126/1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1202
+[/us/pl/114/58/s601/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F58%2Fs601%2F12
+[/us/stat/129/538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F538
+[/us/pl/114/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F58
 [/us/pl/112/154/s701/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154%2Fs701%2Fg
 [/us/stat/126/1205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1205
 [/us/pl/112/154/s701/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154%2Fs701%2Ff

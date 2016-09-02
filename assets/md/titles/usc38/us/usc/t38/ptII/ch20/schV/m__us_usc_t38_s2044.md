@@ -51,7 +51,7 @@
 
             (D)
 
-             assistance in obtaining and coordinating the provision of other public benefits provided in federal, <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be capitalized. </sup></sup>  State, or local agencies, or any organization defined in subsection (f), including—
+             assistance in obtaining and coordinating the provision of other public benefits provided in Federal, State, or local agencies, or any organization defined in subsection (f), including—
 
                 (i) health care services (including obtaining health insurance);
 
@@ -129,7 +129,7 @@
 
             (D) $100,000,000 for fiscal year 2012.
 
-            (E) $300,000,000 for each of fiscal years 2013 through 2015.
+            (E) $300,000,000 for each of fiscal years 2015 through 2016.
 
         (2) Not more than $750,000 may be available under paragraph (1) in any fiscal year to provide technical assistance under subsection (d).
 
@@ -183,13 +183,17 @@
 
         (7) The term “veteran family” includes a veteran who is a single person and a family in which the head of household or the spouse of the head of household is a veteran.
 
-(Added [Pub. L. 110–387, title VI, § 604(b)(1)][/us/pl/110/387/s604/b/1], Oct. 10, 2008, [122 Stat. 4132][/us/stat/122/4132]; amended [Pub. L. 111–275, title X, § 1001(e)][/us/pl/111/275/s1001/e], Oct. 13, 2010, [124 Stat. 2896][/us/stat/124/2896]; [Pub. L. 112–37, § 12][/us/pl/112/37/s12], Oct. 5, 2011, [125 Stat. 397][/us/stat/125/397]; [Pub. L. 112–154, title III, § 305(c)][/us/pl/112/154/s305/c], Aug. 6, 2012, [126 Stat. 1187][/us/stat/126/1187]; [Pub. L. 113–37, § 2(f)(2)][/us/pl/113/37/s2/f/2], Sept. 30, 2013, [127 Stat. 524][/us/stat/127/524]; [Pub. L. 113–175, title II, § 206][/us/pl/113/175/s206], Sept. 26, 2014, [128 Stat. 1904][/us/stat/128/1904].)
+(Added [Pub. L. 110–387, title VI, § 604(b)(1)][/us/pl/110/387/s604/b/1], Oct. 10, 2008, [122 Stat. 4132][/us/stat/122/4132]; amended [Pub. L. 111–275, title X, § 1001(e)][/us/pl/111/275/s1001/e], Oct. 13, 2010, [124 Stat. 2896][/us/stat/124/2896]; [Pub. L. 112–37, § 12][/us/pl/112/37/s12], Oct. 5, 2011, [125 Stat. 397][/us/stat/125/397]; [Pub. L. 112–154, title III, § 305(c)][/us/pl/112/154/s305/c], Aug. 6, 2012, [126 Stat. 1187][/us/stat/126/1187]; [Pub. L. 113–37, § 2(f)(2)][/us/pl/113/37/s2/f/2], Sept. 30, 2013, [127 Stat. 524][/us/stat/127/524]; [Pub. L. 113–175, title II, § 206][/us/pl/113/175/s206], Sept. 26, 2014, [128 Stat. 1904][/us/stat/128/1904]; [Pub. L. 114–58, title III, § 304][/us/pl/114/58/s304], title VI, § 601(9), Sept. 30, 2015, [129 Stat. 534][/us/stat/129/534], 538.)
 
  __Codification__ 
 
     [Pub. L. 112–37, § 12][/us/pl/112/37/s12], Oct. 5, 2011, [125 Stat. 397][/us/stat/125/397], which directed amendment of “section 2044” without specifying the Code title to be amended, was executed to this section, which is [section 2044 of Title 38][/us/usc/t38/s2044], Veterans’ Benefits, to reflect the probable intent of Congress. See 2011 Amendment notes below.
 
  __Amendments__ 
+
+    2015—Subsec. (b)(1)(D). [Pub. L. 114–58, § 601(9)][/us/pl/114/58/s601/9], substituted “Federal” for “federal” in introductory provisions.
+
+    Subsec. (e)(1)(E). [Pub. L. 114–58, § 304][/us/pl/114/58/s304], substituted “fiscal years 2015 through 2016” for “fiscal years 2013 through 2015”.
 
     2014—Subsec. (e)(1)(E). [Pub. L. 113–175][/us/pl/113/175] substituted “fiscal years 2013 through 2015” for “fiscal years 2013 and 2014”.
 
@@ -239,9 +243,13 @@
 [/us/stat/127/524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F524
 [/us/pl/113/175/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F175%2Fs206
 [/us/stat/128/1904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1904
+[/us/pl/114/58/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F58%2Fs304
+[/us/stat/129/534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F534
 [/us/pl/112/37/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F37%2Fs12
 [/us/stat/125/397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F397
 [/us/usc/t38/s2044]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs2044
+[/us/pl/114/58/s601/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F58%2Fs601%2F9
+[/us/pl/114/58/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F58%2Fs304
 [/us/pl/113/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F175
 [/us/pl/113/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F37
 [/us/pl/112/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154

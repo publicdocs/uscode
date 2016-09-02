@@ -19,7 +19,7 @@
 
         (1) The Secretary may in accordance with this subchapter enter into leases with respect to real property that is under the jurisdiction or control of the Secretary. Any such lease under this subchapter may be referred to as an “enhanced-use lease”. The Secretary may dispose of any such property that is leased to another party under this subchapter in accordance with [section 8164 of this title][/us/usc/t38/s8164]. The Secretary may exercise the authority provided by this subchapter notwithstanding [section 8122 of this title][/us/usc/t38/s8122], subchapter II of chapter 5 of title 40, sections 541–555 and 1302 of title 40, or any other provision of law (other than Federal laws relating to environmental and historic preservation) inconsistent with this section. The applicability of this subchapter to section 421(b) of the Veterans’ Benefits and Services Act of 1988 ([Public Law 100–322][/us/pl/100/322]; [102 Stat. 553][/us/stat/102/553]) is covered by subsection (c).
 
-        (2) The Secretary may enter into an enhanced-use lease only for the provision of supportive housing and the  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be preceded by “only if”. </sup></sup>  lease is not inconsistent with and will not adversely affect the mission of the Department.
+        (2) The Secretary may enter into an enhanced-use lease only for the provision of supportive housing and if the lease is not inconsistent with and will not adversely affect the mission of the Department.
 
         (3) The provisions of sections 3141–3144, 3146, and 3147 of title 40 shall not, by reason of this section, become inapplicable to property that is leased to another party under an enhanced-use lease.
 
@@ -47,7 +47,7 @@
 
     (c) The entering into an enhanced-use lease covering any land or improvement described in section 421(b)(2) of the Veterans’ Benefits and Services Act of 1988 ([Public Law 100–322][/us/pl/100/322]; [102 Stat. 553][/us/stat/102/553]) or section 224(a) of the Military Construction and Veterans Affairs and Related Agencies Appropriations Act, 2008 shall be considered to be prohibited by such sections unless specifically authorized by law.
 
-(Added [Pub. L. 102–86, title IV, § 401(a)][/us/pl/102/86/s401/a], Aug. 14, 1991, [105 Stat. 417][/us/stat/105/417]; amended [Pub. L. 106–117, title II, § 208(a)][/us/pl/106/117/s208/a], (b), Nov. 30, 1999, [113 Stat. 1567][/us/stat/113/1567]; [Pub. L. 106–400, § 2][/us/pl/106/400/s2], Oct. 30, 2000, [114 Stat. 1675][/us/stat/114/1675]; [Pub. L. 107–95, § 10(b)][/us/pl/107/95/s10/b], Dec. 21, 2001, [115 Stat. 920][/us/stat/115/920]; [Pub. L. 107–217, § 3(j)(5)][/us/pl/107/217/s3/j/5], Aug. 21, 2002, [116 Stat. 1300][/us/stat/116/1300]; [Pub. L. 108–178, § 4(i)(1)][/us/pl/108/178/s4/i/1], Dec. 15, 2003, [117 Stat. 2642][/us/stat/117/2642]; [Pub. L. 110–161, div. I, title II, § 224(c)][/us/pl/110/161/s224/c], Dec. 26, 2007, [121 Stat. 2272][/us/stat/121/2272]; Pub. L. 112—154, title II, § 211(b)(1), (c)(1), (d), Aug. 6, 2012, [126 Stat. 1180][/us/stat/126/1180], 1181.)
+(Added [Pub. L. 102–86, title IV, § 401(a)][/us/pl/102/86/s401/a], Aug. 14, 1991, [105 Stat. 417][/us/stat/105/417]; amended [Pub. L. 106–117, title II, § 208(a)][/us/pl/106/117/s208/a], (b), Nov. 30, 1999, [113 Stat. 1567][/us/stat/113/1567]; [Pub. L. 106–400, § 2][/us/pl/106/400/s2], Oct. 30, 2000, [114 Stat. 1675][/us/stat/114/1675]; [Pub. L. 107–95, § 10(b)][/us/pl/107/95/s10/b], Dec. 21, 2001, [115 Stat. 920][/us/stat/115/920]; [Pub. L. 107–217, § 3(j)(5)][/us/pl/107/217/s3/j/5], Aug. 21, 2002, [116 Stat. 1300][/us/stat/116/1300]; [Pub. L. 108–178, § 4(i)(1)][/us/pl/108/178/s4/i/1], Dec. 15, 2003, [117 Stat. 2642][/us/stat/117/2642]; [Pub. L. 110–161, div. I, title II, § 224(c)][/us/pl/110/161/s224/c], Dec. 26, 2007, [121 Stat. 2272][/us/stat/121/2272]; Pub. L. 112—154, title II, § 211(b)(1), (c)(1), (d), Aug. 6, 2012, [126 Stat. 1180][/us/stat/126/1180], 1181; [Pub. L. 114–58, title VI, § 601(25)][/us/pl/114/58/s601/25], Sept. 30, 2015, [129 Stat. 539][/us/stat/129/539].)
 
  __References in Text__ 
 
@@ -56,6 +56,8 @@
     Section 224(a) of the Military Construction and Veterans Affairs and Related Agencies Appropriations Act, 2008, referred to in subsec. (c), is [section 224(a) of title II of div. I of Pub. L. 110–161][/us/pl/110/161/s224/a], Dec. 26, 2007, [121 Stat. 2272][/us/stat/121/2272], which is not classified to the Code.
 
  __Amendments__ 
+
+    2015—Subsec. (a)(2). [Pub. L. 114–58][/us/pl/114/58] inserted “if” after “housing and”.
 
     2012—Subsec. (a)(2). [Pub. L. 112–154, § 211(b)(1)][/us/pl/112/154/s211/b/1], amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The Secretary may enter into an enhanced-use lease only if—
 
@@ -174,10 +176,13 @@ Pub. L. 112—154, title II, § 211(c)(2), Aug. 6, 2012, [126 Stat. 1181][/us/
 [/us/pl/110/161/s224/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs224%2Fc
 [/us/stat/121/2272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2272
 [/us/stat/126/1180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1180
+[/us/pl/114/58/s601/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F58%2Fs601%2F25
+[/us/stat/129/539]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F539
 [/us/pl/100/322/s421/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F322%2Fs421%2Fb
 [/us/stat/102/553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F553
 [/us/pl/110/161/s224/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs224%2Fa
 [/us/stat/121/2272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2272
+[/us/pl/114/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F58
 [/us/pl/112/154/s211/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154%2Fs211%2Fb%2F1
 [/us/pl/112/154/s211/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154%2Fs211%2Fc%2F1%2FA
 [/us/pl/112/154/s211/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154%2Fs211%2Fc%2F1%2FB

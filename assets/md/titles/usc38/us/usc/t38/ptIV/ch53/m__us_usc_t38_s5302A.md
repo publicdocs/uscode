@@ -13,7 +13,7 @@
 
 [Previous](./../../../../..//us/usc/t38/ptIV/ch53/m__us_usc_t38_s5302.md) | [Next](./../../../../..//us/usc/t38/ptIV/ch53/m__us_usc_t38_s5303.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs5302A)
 
-## § 5302A  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be followed by a period. </sup></sup>  Collection of indebtedness: certain debts of members of the Armed Forces and veterans who die of injury incurred or aggravated in the line of duty in a combat zone
+## § 5302A. Collection of indebtedness: certain debts of members of the Armed Forces and veterans who die of injury incurred or aggravated in the line of duty in a combat zone
 
     (a)  __Limitation on Authority__  __.—__ 
 
@@ -21,17 +21,19 @@
 
     (b)  __Covered Individuals__  __.—__ 
 
-    A member of the Armed Forces or veteran described in this subsection is any member or veteran who dies as a result of an injury incurred or aggravated in the line of duty while serving in a theater of combat operations (as determined by the Secretary in consultation with the Secretary of Defense) in a war or in combat against a hostile force during a period of hostilities (as that term is defined in section 1712A(a)(2)(B)  <sup>\[2\]</sup>  <sup><sup> 2 See References in Text note below. </sup></sup>  of this title) after September 11, 2001.
+    A member of the Armed Forces or veteran described in this subsection is any member or veteran who dies as a result of an injury incurred or aggravated in the line of duty while serving in a theater of combat operations (as determined by the Secretary in consultation with the Secretary of Defense) in a war or in combat against a hostile force during a period of hostilities after September 11, 2001.
 
     (c)  __Inapplicability to Housing and Small Business Benefit Programs__  __.—__ 
 
     The limitation on authority in subsection (a) shall not apply to any amounts owed the United States under any program carried out under chapter 37 of this title.
 
-(Added [Pub. L. 110–252, title I, § 1303(a)(1)][/us/pl/110/252/s1303/a/1], June 30, 2008, [122 Stat. 2327][/us/stat/122/2327].)
+(Added [Pub. L. 110–252, title I, § 1303(a)(1)][/us/pl/110/252/s1303/a/1], June 30, 2008, [122 Stat. 2327][/us/stat/122/2327]; amended [Pub. L. 114–58, title VI, § 601(21)][/us/pl/114/58/s601/21], Sept. 30, 2015, [129 Stat. 539][/us/stat/129/539].)
 
- __References in Text__ 
+ __Amendments__ 
 
-    [Section 1712A(a)(2)(B) of this title][/us/usc/t38/s1712A/a/2/B], referred to in subsec. (b), was struck out by [Pub. L. 112–239, div. A, title VII, § 727(1)(B)][/us/pl/112/239/s727/1/B], Jan. 2, 2013, [126 Stat. 1811][/us/stat/126/1811].
+    2015—[Pub. L. 114–58, § 601(21)(A)][/us/pl/114/58/s601/21/A], inserted period after section number.
+
+    Subsec. (b). [Pub. L. 114–58, § 601(21)(B)][/us/pl/114/58/s601/21/B], struck out “(as that term is defined in [section 1712A(a)(2)(B) of this title][/us/usc/t38/s1712A/a/2/B])” after “hostilities”.
 
  __Effective Date__ 
 
@@ -58,9 +60,11 @@
 
 [/us/pl/110/252/s1303/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F252%2Fs1303%2Fa%2F1
 [/us/stat/122/2327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2327
+[/us/pl/114/58/s601/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F58%2Fs601%2F21
+[/us/stat/129/539]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F539
+[/us/pl/114/58/s601/21/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F58%2Fs601%2F21%2FA
+[/us/pl/114/58/s601/21/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F58%2Fs601%2F21%2FB
 [/us/usc/t38/s1712A/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1712A%2Fa%2F2%2FB
-[/us/pl/112/239/s727/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs727%2F1%2FB
-[/us/stat/126/1811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1811
 [/us/pl/110/252/s1303/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F252%2Fs1303%2Fc
 [/us/stat/122/2328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2328
 [/us/pl/110/389/s801/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F389%2Fs801%2Fb

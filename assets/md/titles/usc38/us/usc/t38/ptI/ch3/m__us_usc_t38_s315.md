@@ -17,9 +17,9 @@
 
     (a) The Secretary may establish such regional offices and such other field offices within the United States, its Territories, Commonwealths, and possessions, as the Secretary considers necessary.
 
-    (b) The Secretary may maintain a regional office in the Republic of the Philippines until September 30, 2015.
+    (b) The Secretary may maintain a regional office in the Republic of the Philippines until September 30, 2016.
 
-(Added [Pub. L. 102–83, § 2(a)][/us/pl/102/83/s2/a], Aug. 6, 1991, [105 Stat. 384][/us/stat/105/384]; amended [Pub. L. 102–291, § 1(a)][/us/pl/102/291/s1/a], May 20, 1992, [106 Stat. 178][/us/stat/106/178]; [Pub. L. 103–210, § 2(c)][/us/pl/103/210/s2/c], Dec. 20, 1993, [107 Stat. 2497][/us/stat/107/2497]; [Pub. L. 103–446, title V, § 502][/us/pl/103/446/s502], Nov. 2, 1994, [108 Stat. 4663][/us/stat/108/4663]; [Pub. L. 106–117, title VIII, § 802][/us/pl/106/117/s802], Nov. 30, 1999, [113 Stat. 1586][/us/stat/113/1586]; [Pub. L. 108–183, title II, § 213][/us/pl/108/183/s213], Dec. 16, 2003, [117 Stat. 2658][/us/stat/117/2658]; [Pub. L. 111–117, div. E, title II, § 228][/us/pl/111/117/s228], Dec. 16, 2009, [123 Stat. 3307][/us/stat/123/3307]; [Pub. L. 111–275, title VIII, § 807(a)][/us/pl/111/275/s807/a], Oct. 13, 2010, [124 Stat. 2893][/us/stat/124/2893]; [Pub. L. 112–74, div. H, title II, § 234][/us/pl/112/74/s234], Dec. 23, 2011, [125 Stat. 1160][/us/stat/125/1160]; [Pub. L. 112–191, title II, § 202][/us/pl/112/191/s202], Oct. 5, 2012, [126 Stat. 1439][/us/stat/126/1439]; [Pub. L. 113–59, § 7][/us/pl/113/59/s7], Dec. 20, 2013, [127 Stat. 662][/us/stat/127/662]; [Pub. L. 113–175, title IV, § 402][/us/pl/113/175/s402], Sept. 26, 2014, [128 Stat. 1905][/us/stat/128/1905].)
+(Added [Pub. L. 102–83, § 2(a)][/us/pl/102/83/s2/a], Aug. 6, 1991, [105 Stat. 384][/us/stat/105/384]; amended [Pub. L. 102–291, § 1(a)][/us/pl/102/291/s1/a], May 20, 1992, [106 Stat. 178][/us/stat/106/178]; [Pub. L. 103–210, § 2(c)][/us/pl/103/210/s2/c], Dec. 20, 1993, [107 Stat. 2497][/us/stat/107/2497]; [Pub. L. 103–446, title V, § 502][/us/pl/103/446/s502], Nov. 2, 1994, [108 Stat. 4663][/us/stat/108/4663]; [Pub. L. 106–117, title VIII, § 802][/us/pl/106/117/s802], Nov. 30, 1999, [113 Stat. 1586][/us/stat/113/1586]; [Pub. L. 108–183, title II, § 213][/us/pl/108/183/s213], Dec. 16, 2003, [117 Stat. 2658][/us/stat/117/2658]; [Pub. L. 111–117, div. E, title II, § 228][/us/pl/111/117/s228], Dec. 16, 2009, [123 Stat. 3307][/us/stat/123/3307]; [Pub. L. 111–275, title VIII, § 807(a)][/us/pl/111/275/s807/a], Oct. 13, 2010, [124 Stat. 2893][/us/stat/124/2893]; [Pub. L. 112–74, div. H, title II, § 234][/us/pl/112/74/s234], Dec. 23, 2011, [125 Stat. 1160][/us/stat/125/1160]; [Pub. L. 112–191, title II, § 202][/us/pl/112/191/s202], Oct. 5, 2012, [126 Stat. 1439][/us/stat/126/1439]; [Pub. L. 113–59, § 7][/us/pl/113/59/s7], Dec. 20, 2013, [127 Stat. 662][/us/stat/127/662]; [Pub. L. 113–175, title IV, § 402][/us/pl/113/175/s402], Sept. 26, 2014, [128 Stat. 1905][/us/stat/128/1905]; [Pub. L. 114–58, title IV, § 403][/us/pl/114/58/s403], Sept. 30, 2015, [129 Stat. 535][/us/stat/129/535].)
 
  __Prior Provisions__ 
 
@@ -28,6 +28,8 @@
     Provisions similar to those in this section were contained in section 230(a), (b) of this title prior to repeal by [Pub. L. 102–83, § 2(a)][/us/pl/102/83/s2/a].
 
  __Amendments__ 
+
+    2015—Subsec. (b). [Pub. L. 114–58][/us/pl/114/58] substituted “September 30, 2016” for “September 30, 2015”.
 
     2014—Subsec. (b). [Pub. L. 113–175][/us/pl/113/175] substituted “September 30, 2015” for “December 31, 2014”.
 
@@ -98,8 +100,11 @@
 [/us/stat/127/662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F662
 [/us/pl/113/175/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F175%2Fs402
 [/us/stat/128/1905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1905
+[/us/pl/114/58/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F58%2Fs403
+[/us/stat/129/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F535
 [/us/usc/t38/s1115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1115
 [/us/pl/102/83/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs2%2Fa
+[/us/pl/114/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F58
 [/us/pl/113/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F175
 [/us/pl/113/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F59
 [/us/pl/112/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F191

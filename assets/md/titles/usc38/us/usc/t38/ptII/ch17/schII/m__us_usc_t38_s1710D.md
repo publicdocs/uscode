@@ -27,7 +27,7 @@
 
     A veteran is eligible for care under the program developed under subsection (a) if the veteran is otherwise eligible to receive hospital care and medical services under [section 1710 of this title][/us/usc/t38/s1710] and—
 
-        (1) served on active duty in a theater of combat operations (as determined by the Secretary in consultation with the Secretary of Defense) during a period of war after the Persian Gulf War, or in combat against a hostile force during a period of hostilities (as defined in section 1712A(a)(2)(B)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title) after November 11, 1998;
+        (1) served on active duty in a theater of combat operations (as determined by the Secretary in consultation with the Secretary of Defense) during a period of war after the Persian Gulf War, or in combat against a hostile force during a period of hostilities after November 11, 1998;
 
         (2) is diagnosed as suffering from moderate to severe traumatic brain injury; and
 
@@ -43,15 +43,15 @@
 
         (3) The cost of operating the program during the year preceding such report.
 
-(Added [Pub. L. 110–181, div. A, title XVII, § 1702(a)][/us/pl/110/181/s1702/a], Jan. 28, 2008, [122 Stat. 488][/us/stat/122/488]; amended [Pub. L. 112–154, title I, § 107(b)][/us/pl/112/154/s107/b], Aug. 6, 2012, [126 Stat. 1173][/us/stat/126/1173].)
+(Added [Pub. L. 110–181, div. A, title XVII, § 1702(a)][/us/pl/110/181/s1702/a], Jan. 28, 2008, [122 Stat. 488][/us/stat/122/488]; amended [Pub. L. 112–154, title I, § 107(b)][/us/pl/112/154/s107/b], Aug. 6, 2012, [126 Stat. 1173][/us/stat/126/1173]; [Pub. L. 114–58, title VI, § 601(5)][/us/pl/114/58/s601/5], Sept. 30, 2015, [129 Stat. 538][/us/stat/129/538].)
 
  __References in Text__ 
-
-    [Section 1712A(a)(2)(B) of this title][/us/usc/t38/s1712A/a/2/B], referred to in subsec. (c)(1), was struck out by [Pub. L. 112–239, div. A, title VII, § 727(1)(B)][/us/pl/112/239/s727/1/B], Jan. 2, 2013, [126 Stat. 1811][/us/stat/126/1811].
 
     The date of the enactment of this section, referred to in subsec. (d), is the date of enactment of [Pub. L. 110–181][/us/pl/110/181], which was approved Jan. 28, 2008.
 
  __Amendments__ 
+
+    2015—Subsec. (c)(1). [Pub. L. 114–58][/us/pl/114/58] struck out “(as defined in [section 1712A(a)(2)(B) of this title][/us/usc/t38/s1712A/a/2/B])” after “hostilities”.
 
     2012—Subsec. (a). [Pub. L. 112–154][/us/pl/112/154] inserted “and rehabilitative services (as defined in [section 1710C of this title][/us/usc/t38/s1710C])” after “long-term care” and struck out “treatment” before “teams”.
 
@@ -69,10 +69,11 @@
 [/us/stat/122/488]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F488
 [/us/pl/112/154/s107/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154%2Fs107%2Fb
 [/us/stat/126/1173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1173
-[/us/usc/t38/s1712A/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1712A%2Fa%2F2%2FB
-[/us/pl/112/239/s727/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs727%2F1%2FB
-[/us/stat/126/1811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1811
+[/us/pl/114/58/s601/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F58%2Fs601%2F5
+[/us/stat/129/538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F538
 [/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/114/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F58
+[/us/usc/t38/s1712A/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1712A%2Fa%2F2%2FB
 [/us/pl/112/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154
 [/us/usc/t38/s1710C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1710C
 

@@ -79,9 +79,19 @@
 
             (B) shall expire on October 1, 1993.
 
-(Added [Pub. L. 96–22, title III, § 301(a)][/us/pl/96/22/s301/a], June 13, 1979, [93 Stat. 56][/us/stat/93/56], § 5003; amended [Pub. L. 101–237, title VI, § 603(b)][/us/pl/101/237/s603/b], Dec. 18, 1989, [103 Stat. 2097][/us/stat/103/2097]; renumbered § 8103 and amended [Pub. L. 102–40, title IV, § 402(b)(1)][/us/pl/102/40/s402/b/1], (d)(1), May 7, 1991, [105 Stat. 238][/us/stat/105/238], 239; [Pub. L. 102–83, § 4(b)(1)][/us/pl/102/83/s4/b/1], (2)(E), Aug. 6, 1991, [105 Stat. 404][/us/stat/105/404], 405; [Pub. L. 103–446, title XII, § 1201(d)(16)][/us/pl/103/446/s1201/d/16], Nov. 2, 1994, [108 Stat. 4684][/us/stat/108/4684].)
+    (e)
+
+        (1) In the case of any super construction project, the Secretary shall enter into an agreement with an appropriate non-Department Federal entity to provide full project management services for the super construction project, including management over the project design, acquisition, construction, and contract changes.
+
+        (2) An agreement entered into under paragraph (1) with a Federal entity shall provide that the Secretary shall reimburse the Federal entity for all costs associated with the provision of project management services under the agreement.
+
+        (3) In this subsection, the term “super construction project” means a project for the construction, alteration, or acquisition of a medical facility involving a total expenditure of more than $100,000,000.
+
+(Added [Pub. L. 96–22, title III, § 301(a)][/us/pl/96/22/s301/a], June 13, 1979, [93 Stat. 56][/us/stat/93/56], § 5003; amended [Pub. L. 101–237, title VI, § 603(b)][/us/pl/101/237/s603/b], Dec. 18, 1989, [103 Stat. 2097][/us/stat/103/2097]; renumbered § 8103 and amended [Pub. L. 102–40, title IV, § 402(b)(1)][/us/pl/102/40/s402/b/1], (d)(1), May 7, 1991, [105 Stat. 238][/us/stat/105/238], 239; [Pub. L. 102–83, § 4(b)(1)][/us/pl/102/83/s4/b/1], (2)(E), Aug. 6, 1991, [105 Stat. 404][/us/stat/105/404], 405; [Pub. L. 103–446, title XII, § 1201(d)(16)][/us/pl/103/446/s1201/d/16], Nov. 2, 1994, [108 Stat. 4684][/us/stat/108/4684]; [Pub. L. 114–58, title V, § 502(a)][/us/pl/114/58/s502/a], Sept. 30, 2015, [129 Stat. 537][/us/stat/129/537].)
 
  __Amendments__ 
+
+    2015—Subsec. (e). [Pub. L. 114–58][/us/pl/114/58] added subsec. (e).
 
     1994—Subsec. (d)(6)(A). [Pub. L. 103–446][/us/pl/103/446] substituted “section 316” for “section 230(c)”.
 
@@ -94,6 +104,16 @@
     Subsecs. (b), (c). [Pub. L. 102–83][/us/pl/102/83] substituted “Secretary” for “Administrator” wherever appearing.
 
     1989—Subsec. (d). [Pub. L. 101–237][/us/pl/101/237] added subsec. (d).
+
+ __Effective Date of 2015 Amendment__ 
+
+[Pub. L. 114–58, title V, § 502(b)][/us/pl/114/58/s502/b], Sept. 30, 2015, [129 Stat. 538][/us/stat/129/538], provided that: 
+
+> “The amendment made by subsection (a) \[amending this section\] shall apply with respect to the following:
+
+>     “(1) The medical facility construction project in Denver, Colorado, specified in section 2 of the Construction Authorization and Choice Improvement Act ([Public Law 114–19][/us/pl/114/19]; [129 Stat. 215][/us/stat/129/215]).
+
+>     “(2) Any super construction project (as defined in [section 8103(e)(3) of title 38][/us/usc/t38/s8103/e/3], United States Code, as added by subsection (a)) that is authorized on or after the date of the enactment of this Act \[Sept. 30, 2015\].”
 
  __Development of Medical-Facility Modular Components__ 
 
@@ -119,6 +139,9 @@
 [/us/stat/105/404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F404
 [/us/pl/103/446/s1201/d/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2Fs1201%2Fd%2F16
 [/us/stat/108/4684]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4684
+[/us/pl/114/58/s502/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F58%2Fs502%2Fa
+[/us/stat/129/537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F537
+[/us/pl/114/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F58
 [/us/pl/103/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446
 [/us/pl/102/40/s402/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs402%2Fb%2F1
 [/us/usc/t38/s5003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs5003
@@ -126,6 +149,11 @@
 [/us/pl/102/40/s402/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs402%2Fd%2F1
 [/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/pl/101/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237
+[/us/pl/114/58/s502/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F58%2Fs502%2Fb
+[/us/stat/129/538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F538
+[/us/pl/114/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F19
+[/us/stat/129/215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F215
+[/us/usc/t38/s8103/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs8103%2Fe%2F3
 [/us/pl/99/166/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F166%2Fs304
 [/us/stat/99/956]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F956
 

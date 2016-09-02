@@ -103,7 +103,7 @@
 
         (1)
 
-         A case described in this subsection is a case in which the appropriate federal  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be capitalized. </sup></sup>  official receives—
+         A case described in this subsection is a case in which the appropriate Federal official receives—
 
             (A) written notice of a conviction referred to in subsection (b)(1), (b)(2), or (b)(4) of a person described in paragraph (2); or
 
@@ -133,13 +133,15 @@
 
             (B) the Secretary of the Army, in the case of Arlington National Cemetery.
 
-(Added [Pub. L. 105–116, § 1(a)][/us/pl/105/116/s1/a], Nov. 21, 1997, [111 Stat. 2381][/us/stat/111/2381]; amended [Pub. L. 105–368, title IV, § 403(d)(1)][/us/pl/105/368/s403/d/1], Nov. 11, 1998, [112 Stat. 3339][/us/stat/112/3339]; [Pub. L. 107–330, title II, § 202][/us/pl/107/330/s202], Dec. 6, 2002, [116 Stat. 2824][/us/stat/116/2824]; [Pub. L. 109–163, div. A, title VI, § 662(a)][/us/pl/109/163/s662/a], Jan. 6, 2006, [119 Stat. 3314][/us/stat/119/3314]; [Pub. L. 112–260, title I, § 105(a)][/us/pl/112/260/s105/a], (b), Jan. 10, 2013, [126 Stat. 2421][/us/stat/126/2421]; [Pub. L. 113–65, § 2(a)][/us/pl/113/65/s2/a], (b), Dec. 20, 2013, [127 Stat. 669][/us/stat/127/669], 671.)
+(Added [Pub. L. 105–116, § 1(a)][/us/pl/105/116/s1/a], Nov. 21, 1997, [111 Stat. 2381][/us/stat/111/2381]; amended [Pub. L. 105–368, title IV, § 403(d)(1)][/us/pl/105/368/s403/d/1], Nov. 11, 1998, [112 Stat. 3339][/us/stat/112/3339]; [Pub. L. 107–330, title II, § 202][/us/pl/107/330/s202], Dec. 6, 2002, [116 Stat. 2824][/us/stat/116/2824]; [Pub. L. 109–163, div. A, title VI, § 662(a)][/us/pl/109/163/s662/a], Jan. 6, 2006, [119 Stat. 3314][/us/stat/119/3314]; [Pub. L. 112–260, title I, § 105(a)][/us/pl/112/260/s105/a], (b), Jan. 10, 2013, [126 Stat. 2421][/us/stat/126/2421]; [Pub. L. 113–65, § 2(a)][/us/pl/113/65/s2/a], (b), Dec. 20, 2013, [127 Stat. 669][/us/stat/127/669], 671; [Pub. L. 114–58, title VI, § 601(14)][/us/pl/114/58/s601/14], Sept. 30, 2015, [129 Stat. 539][/us/stat/129/539].)
 
  __References in Text__ 
 
     The Sex Offender Registration and Notification Act, referred to in subsec. (b)(4)(A), is title I of [Pub. L. 109–248][/us/pl/109/248], July 27, 2006, [120 Stat. 590][/us/stat/120/590], which is classified principally to subchapter I (§ 16901 et seq.) of chapter 151 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 16901 of Title 42][/us/usc/t42/s16901] and Tables.
 
  __Amendments__ 
+
+    2015—Subsec. (e)(1). [Pub. L. 114–58][/us/pl/114/58] substituted “Federal official” for “federal official” in introductory provisions.
 
     2013—Subsec. (a)(2). [Pub. L. 113–65, § 2(b)][/us/pl/113/65/s2/b], struck out “such official approves an application for” after “received by the appropriate Federal official before”.
 
@@ -215,9 +217,12 @@
 [/us/stat/126/2421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2421
 [/us/pl/113/65/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F65%2Fs2%2Fa
 [/us/stat/127/669]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F669
+[/us/pl/114/58/s601/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F58%2Fs601%2F14
+[/us/stat/129/539]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F539
 [/us/pl/109/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248
 [/us/stat/120/590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F590
 [/us/usc/t42/s16901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs16901
+[/us/pl/114/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F58
 [/us/pl/113/65/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F65%2Fs2%2Fb
 [/us/pl/112/260/s105/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F260%2Fs105%2Fb
 [/us/pl/112/260/s105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F260%2Fs105%2Fa

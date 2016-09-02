@@ -45,11 +45,11 @@
 
          payments regarding reimbursements of any kind (including insurance settlement payments) for expenses related to the repayment, replacement, or repair of equipment, vehicles, items, money, or property resulting from—
 
-            (A) any accident (as defined by the Secretary), but the amount excluded under this subclause shall not exceed the greater of the fair market value or reasonable replacement value of the equipment or vehicle involved at the time immediately preceding the accident;
+            (A) any accident (as defined by the Secretary), but the amount excluded under this subparagraph shall not exceed the greater of the fair market value or reasonable replacement value of the equipment or vehicle involved at the time immediately preceding the accident;
 
-            (B) any theft or loss (as defined by the Secretary), but the amount excluded under this subclause shall not exceed the greater of the fair market value or reasonable replacement value of the item or the amount of the money (including legal tender of the United States or of a foreign country) involved at the time immediately preceding the theft or loss; or
+            (B) any theft or loss (as defined by the Secretary), but the amount excluded under this subparagraph shall not exceed the greater of the fair market value or reasonable replacement value of the item or the amount of the money (including legal tender of the United States or of a foreign country) involved at the time immediately preceding the theft or loss; or
 
-            (C) any casualty loss (as defined by the Secretary), but the amount excluded under this subclause shall not exceed the greater of the fair market value or reasonable replacement value of the property involved at the time immediately preceding the casualty loss;
+            (C) any casualty loss (as defined by the Secretary), but the amount excluded under this subparagraph shall not exceed the greater of the fair market value or reasonable replacement value of the property involved at the time immediately preceding the casualty loss;
 
         (6) profit realized from the disposition of real or personal property other than in the course of a business;
 
@@ -73,7 +73,7 @@
 
     (b) Where a fraction of a dollar is involved, annual income shall be fixed at the next lower dollar.
 
-([Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1134][/us/stat/72/1134], § 503; [Pub. L. 86–211, § 2(a)][/us/pl/86/211/s2/a], Aug. 29, 1959, [73 Stat. 432][/us/stat/73/432]; [Pub. L. 87–268, § 1(b)][/us/pl/87/268/s1/b], Sept. 21, 1961, [75 Stat. 566][/us/stat/75/566]; [Pub. L. 88–664, § 1][/us/pl/88/664/s1], Oct. 13, 1964, [78 Stat. 1094][/us/stat/78/1094]; [Pub. L. 90–77, title I, § 103][/us/pl/90/77/s103], Aug. 31, 1967, [81 Stat. 178][/us/stat/81/178]; [Pub. L. 91–588, § 7][/us/pl/91/588/s7], Dec. 24, 1970, [84 Stat. 1584][/us/stat/84/1584]; [Pub. L. 92–198, § 2][/us/pl/92/198/s2], Dec. 15, 1971, [85 Stat. 664][/us/stat/85/664]; [Pub. L. 92–425, § 6(2)][/us/pl/92/425/s6/2], Sept. 21, 1972, [86 Stat. 713][/us/stat/86/713]; [Pub. L. 94–169, title I][/us/pl/94/169], §§ 101(2)(A), 106(3)–(8), Dec. 23, 1975, [89 Stat. 1013][/us/stat/89/1013], 1017; [Pub. L. 95–588, title I, § 102][/us/pl/95/588/s102], Nov. 4, 1978, [92 Stat. 2497][/us/stat/92/2497]; [Pub. L. 97–295, § 4(13)][/us/pl/97/295/s4/13], Oct. 12, 1982, [96 Stat. 1305][/us/stat/96/1305]; [Pub. L. 100–687, div. B, title XIV, § 1402(b)][/us/pl/100/687/s1402/b], Nov. 18, 1988, [102 Stat. 4130][/us/stat/102/4130]; [Pub. L. 102–54, § 14(b)(5)][/us/pl/102/54/s14/b/5], June 13, 1991, [105 Stat. 283][/us/stat/105/283]; renumbered § 1503 and amended [Pub. L. 102–83][/us/pl/102/83], §§ 4(b)(1), (2)(E), 5(a), Aug. 6, 1991, [105 Stat. 404–406][/us/stat/105/404-406]; [Pub. L. 108–454, title III, § 303][/us/pl/108/454/s303], Dec. 10, 2004, [118 Stat. 3611][/us/stat/118/3611]; [Pub. L. 111–275, title VI, § 604(a)][/us/pl/111/275/s604/a], Oct. 13, 2010, [124 Stat. 2885][/us/stat/124/2885]; [Pub. L. 112–154, title V, § 509(a)][/us/pl/112/154/s509/a], Aug. 6, 2012, [126 Stat. 1195][/us/stat/126/1195].)
+([Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1134][/us/stat/72/1134], § 503; [Pub. L. 86–211, § 2(a)][/us/pl/86/211/s2/a], Aug. 29, 1959, [73 Stat. 432][/us/stat/73/432]; [Pub. L. 87–268, § 1(b)][/us/pl/87/268/s1/b], Sept. 21, 1961, [75 Stat. 566][/us/stat/75/566]; [Pub. L. 88–664, § 1][/us/pl/88/664/s1], Oct. 13, 1964, [78 Stat. 1094][/us/stat/78/1094]; [Pub. L. 90–77, title I, § 103][/us/pl/90/77/s103], Aug. 31, 1967, [81 Stat. 178][/us/stat/81/178]; [Pub. L. 91–588, § 7][/us/pl/91/588/s7], Dec. 24, 1970, [84 Stat. 1584][/us/stat/84/1584]; [Pub. L. 92–198, § 2][/us/pl/92/198/s2], Dec. 15, 1971, [85 Stat. 664][/us/stat/85/664]; [Pub. L. 92–425, § 6(2)][/us/pl/92/425/s6/2], Sept. 21, 1972, [86 Stat. 713][/us/stat/86/713]; [Pub. L. 94–169, title I][/us/pl/94/169], §§ 101(2)(A), 106(3)–(8), Dec. 23, 1975, [89 Stat. 1013][/us/stat/89/1013], 1017; [Pub. L. 95–588, title I, § 102][/us/pl/95/588/s102], Nov. 4, 1978, [92 Stat. 2497][/us/stat/92/2497]; [Pub. L. 97–295, § 4(13)][/us/pl/97/295/s4/13], Oct. 12, 1982, [96 Stat. 1305][/us/stat/96/1305]; [Pub. L. 100–687, div. B, title XIV, § 1402(b)][/us/pl/100/687/s1402/b], Nov. 18, 1988, [102 Stat. 4130][/us/stat/102/4130]; [Pub. L. 102–54, § 14(b)(5)][/us/pl/102/54/s14/b/5], June 13, 1991, [105 Stat. 283][/us/stat/105/283]; renumbered § 1503 and amended [Pub. L. 102–83][/us/pl/102/83], §§ 4(b)(1), (2)(E), 5(a), Aug. 6, 1991, [105 Stat. 404–406][/us/stat/105/404-406]; [Pub. L. 108–454, title III, § 303][/us/pl/108/454/s303], Dec. 10, 2004, [118 Stat. 3611][/us/stat/118/3611]; [Pub. L. 111–275, title VI, § 604(a)][/us/pl/111/275/s604/a], Oct. 13, 2010, [124 Stat. 2885][/us/stat/124/2885]; [Pub. L. 112–154, title V, § 509(a)][/us/pl/112/154/s509/a], Aug. 6, 2012, [126 Stat. 1195][/us/stat/126/1195]; [Pub. L. 114–58, title VI, § 601(3)][/us/pl/114/58/s601/3], Sept. 30, 2015, [129 Stat. 538][/us/stat/129/538].)
 
  __References in Text__ 
 
@@ -88,6 +88,8 @@
     Another prior section 1503, [Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1171][/us/stat/72/1171], was renumbered 1511 by [Pub. L. 89–138, § 2(4)][/us/pl/89/138/s2/4], Aug. 26, 1965, [79 Stat. 578][/us/stat/79/578].
 
  __Amendments__ 
+
+    2015—Subsec. (a)(5). [Pub. L. 114–58][/us/pl/114/58] substituted “subparagraph” for “subclause” in subpars. (A) to (C).
 
     2012—Subsec. (a)(5). [Pub. L. 112–154][/us/pl/112/154] amended par. (5) generally. Prior to amendment, par. (5) read as follows: “reimbursements of any kind for any casualty loss (as defined in regulations which the Secretary shall prescribe), but the amount excluded under this clause may not exceed the greater of the fair market value or reasonable replacement value of the property involved at the time immediately preceding the loss;”.
 
@@ -254,6 +256,8 @@
 [/us/stat/124/2885]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2885
 [/us/pl/112/154/s509/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154%2Fs509%2Fa
 [/us/stat/126/1195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1195
+[/us/pl/114/58/s601/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F58%2Fs601%2F3
+[/us/stat/129/538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F538
 [/us/usc/t38/s3103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3103
 [/us/pl/89/138/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F138%2Fs1
 [/us/stat/79/577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F577
@@ -268,6 +272,7 @@
 [/us/stat/72/1171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1171
 [/us/pl/89/138/s2/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F138%2Fs2%2F4
 [/us/stat/79/578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F578
+[/us/pl/114/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F58
 [/us/pl/112/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154
 [/us/pl/111/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275
 [/us/pl/108/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F454

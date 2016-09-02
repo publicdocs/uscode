@@ -159,7 +159,7 @@
 
                     (II) A description of the standard practices of the State for evaluating training received by veterans while serving on active duty in the Armed Forces and evaluating the documented work experience of such veterans during such service for purposes of approving or denying a certification or license described in subparagraph (B).
 
-                    (III) Identification of areas in which training and experience described in subclause (II) fails to meet criteria described in subclause (I).”  <sup>\[2\]</sup>  <sup><sup> 2 So in original. The quotation marks probably should not appear. </sup></sup> 
+                    (III) Identification of areas in which training and experience described in subclause (II) fails to meet criteria described in subclause (I).
 
             (B)
 
@@ -221,7 +221,7 @@
 
         (2) the Governor submits to the Secretary a proposal therefor at such time, in such manner, and containing such information as the Secretary may require.
 
-(Added [Pub. L. 94–502, title VI, § 601(b)(1)][/us/pl/94/502/s601/b/1], Oct. 15, 1976, [90 Stat. 2404][/us/stat/90/2404], § 2002A; amended [Pub. L. 96–466, title V, § 504(a)(3)][/us/pl/96/466/s504/a/3], (4), Oct. 17, 1980, [94 Stat. 2203][/us/stat/94/2203]; [Pub. L. 97–306, title III, § 303][/us/pl/97/306/s303], Oct. 14, 1982, [96 Stat. 1437][/us/stat/96/1437]; [Pub. L. 98–160, title VII, § 702(15)][/us/pl/98/160/s702/15], Nov. 21, 1983, [97 Stat. 1010][/us/stat/97/1010]; [Pub. L. 100–323][/us/pl/100/323], §§ 2(a), (e)(3)(A), 15(a)(2), (b)(1), May 20, 1988, [102 Stat. 556][/us/stat/102/556], 559, 574; [Pub. L. 101–237, title IV, § 423(b)(8)(A)][/us/pl/101/237/s423/b/8/A], Dec. 18, 1989, [103 Stat. 2093][/us/stat/103/2093]; renumbered § 4102A and amended [Pub. L. 102–83][/us/pl/102/83], §§ 4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, [105 Stat. 404–406][/us/stat/105/404-406]; [Pub. L. 103–446, title VII, § 701(a)][/us/pl/103/446/s701/a], title XII, § 1201(a)(4), Nov. 2, 1994, [108 Stat. 4674][/us/stat/108/4674], 4682; [Pub. L. 104–275, title III, § 301][/us/pl/104/275/s301], Oct. 9, 1996, [110 Stat. 3332][/us/stat/110/3332]; [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 405(d)(29)(A), (f)(21)(A)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–424, 2681–432; [Pub. L. 105–368, title X, § 1005(b)(13)][/us/pl/105/368/s1005/b/13], Nov. 11, 1998, [112 Stat. 3365][/us/stat/112/3365]; [Pub. L. 107–288, § 4(a)(1)][/us/pl/107/288/s4/a/1], Nov. 7, 2002, [116 Stat. 2038][/us/stat/116/2038]; [Pub. L. 108–183, title VII, § 708(b)(1)(A)][/us/pl/108/183/s708/b/1/A], (2), Dec. 16, 2003, [117 Stat. 2673][/us/stat/117/2673]; [Pub. L. 109–233, title II, § 201][/us/pl/109/233/s201], title V, § 503(11), June 15, 2006, [120 Stat. 402][/us/stat/120/402], 416; [Pub. L. 109–461, title VI, § 601(a)][/us/pl/109/461/s601/a], (b), Dec. 22, 2006, [120 Stat. 3436][/us/stat/120/3436]; [Pub. L. 111–275, title I, § 103(a)][/us/pl/111/275/s103/a], title X, § 1001(k), Oct. 13, 2010, [124 Stat. 2866][/us/stat/124/2866], 2897; [Pub. L. 112–56, title II, § 241(c)][/us/pl/112/56/s241/c], Nov. 21, 2011, [125 Stat. 728][/us/stat/125/728]; [Pub. L. 112–239, div. A, title V, § 544(a)][/us/pl/112/239/s544/a], Jan. 2, 2013, [126 Stat. 1737][/us/stat/126/1737]; [Pub. L. 113–128, title V, § 512(gg)(2)][/us/pl/113/128/s512/gg/2], July 22, 2014, [128 Stat. 1719][/us/stat/128/1719].)
+(Added [Pub. L. 94–502, title VI, § 601(b)(1)][/us/pl/94/502/s601/b/1], Oct. 15, 1976, [90 Stat. 2404][/us/stat/90/2404], § 2002A; amended [Pub. L. 96–466, title V, § 504(a)(3)][/us/pl/96/466/s504/a/3], (4), Oct. 17, 1980, [94 Stat. 2203][/us/stat/94/2203]; [Pub. L. 97–306, title III, § 303][/us/pl/97/306/s303], Oct. 14, 1982, [96 Stat. 1437][/us/stat/96/1437]; [Pub. L. 98–160, title VII, § 702(15)][/us/pl/98/160/s702/15], Nov. 21, 1983, [97 Stat. 1010][/us/stat/97/1010]; [Pub. L. 100–323][/us/pl/100/323], §§ 2(a), (e)(3)(A), 15(a)(2), (b)(1), May 20, 1988, [102 Stat. 556][/us/stat/102/556], 559, 574; [Pub. L. 101–237, title IV, § 423(b)(8)(A)][/us/pl/101/237/s423/b/8/A], Dec. 18, 1989, [103 Stat. 2093][/us/stat/103/2093]; renumbered § 4102A and amended [Pub. L. 102–83][/us/pl/102/83], §§ 4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, [105 Stat. 404–406][/us/stat/105/404-406]; [Pub. L. 103–446, title VII, § 701(a)][/us/pl/103/446/s701/a], title XII, § 1201(a)(4), Nov. 2, 1994, [108 Stat. 4674][/us/stat/108/4674], 4682; [Pub. L. 104–275, title III, § 301][/us/pl/104/275/s301], Oct. 9, 1996, [110 Stat. 3332][/us/stat/110/3332]; [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 405(d)(29)(A), (f)(21)(A)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–424, 2681–432; [Pub. L. 105–368, title X, § 1005(b)(13)][/us/pl/105/368/s1005/b/13], Nov. 11, 1998, [112 Stat. 3365][/us/stat/112/3365]; [Pub. L. 107–288, § 4(a)(1)][/us/pl/107/288/s4/a/1], Nov. 7, 2002, [116 Stat. 2038][/us/stat/116/2038]; [Pub. L. 108–183, title VII, § 708(b)(1)(A)][/us/pl/108/183/s708/b/1/A], (2), Dec. 16, 2003, [117 Stat. 2673][/us/stat/117/2673]; [Pub. L. 109–233, title II, § 201][/us/pl/109/233/s201], title V, § 503(11), June 15, 2006, [120 Stat. 402][/us/stat/120/402], 416; [Pub. L. 109–461, title VI, § 601(a)][/us/pl/109/461/s601/a], (b), Dec. 22, 2006, [120 Stat. 3436][/us/stat/120/3436]; [Pub. L. 111–275, title I, § 103(a)][/us/pl/111/275/s103/a], title X, § 1001(k), Oct. 13, 2010, [124 Stat. 2866][/us/stat/124/2866], 2897; [Pub. L. 112–56, title II, § 241(c)][/us/pl/112/56/s241/c], Nov. 21, 2011, [125 Stat. 728][/us/stat/125/728]; [Pub. L. 112–239, div. A, title V, § 544(a)][/us/pl/112/239/s544/a], Jan. 2, 2013, [126 Stat. 1737][/us/stat/126/1737]; [Pub. L. 113–128, title V, § 512(gg)(2)][/us/pl/113/128/s512/gg/2], July 22, 2014, [128 Stat. 1719][/us/stat/128/1719]; [Pub. L. 114–58, title VI, § 601(20)][/us/pl/114/58/s601/20], Sept. 30, 2015, [129 Stat. 539][/us/stat/129/539].)
 
  __References in Text__ 
 
@@ -234,6 +234,8 @@
     The Workforce Innovation and Opportunity Act, referred to in subsec. (d), is [Pub. L. 113–128][/us/pl/113/128], July 22, 2014, [128 Stat. 1425][/us/stat/128/1425]. Title I of the Act is classified generally to subchapter I (§ 3111 et seq.) of chapter 32 of Title 29, Labor. Section 116(b) of the Act is classified to [section 3141(b) of Title 29][/us/usc/t29/s3141/b]. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of Title 29][/us/usc/t29/s3101] and Tables.
 
  __Amendments__ 
+
+    2015—Subsec. (c)(9)(A)(ii)(III). [Pub. L. 114–58][/us/pl/114/58] struck out closing quotation marks at end.
 
     2014—Subsec. (d). [Pub. L. 113–128, § 512(gg)(2)(A)][/us/pl/113/128/s512/gg/2/A], substituted “participation of qualified veterans and eligible persons in employment and training opportunities under title I of the Workforce Innovation and Opportunity Act” for “participation of qualified veterans and eligible persons in employment and training opportunities under title I of the Workforce Investment Act of 1998”.
 
@@ -313,7 +315,7 @@
 
  __Effective Date of 2014 Amendment__ 
 
-    Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113—128, set out as an Effective Date note under [section 3101 of Title 29][/us/usc/t29/s3101], Labor.
+    Amendment by [Pub. L. 113–128][/us/pl/113/128] effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see [section 506 of Pub. L. 113–128][/us/pl/113/128/s506], set out as an Effective Date note under [section 3101 of Title 29][/us/usc/t29/s3101], Labor.
 
  __Effective Date of 2013 Amendment__ 
 
@@ -435,6 +437,8 @@
 [/us/stat/126/1737]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1737
 [/us/pl/113/128/s512/gg/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fgg%2F2
 [/us/stat/128/1719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1719
+[/us/pl/114/58/s601/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F58%2Fs601%2F20
+[/us/stat/129/539]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F539
 [/us/pl/107/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F288
 [/us/stat/116/2033]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2033
 [/us/usc/t38/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs101
@@ -453,6 +457,7 @@
 [/us/stat/128/1425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1425
 [/us/usc/t29/s3141/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3141%2Fb
 [/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
+[/us/pl/114/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F58
 [/us/pl/113/128/s512/gg/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fgg%2F2%2FA
 [/us/pl/113/128/s512/gg/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fgg%2F2%2FB
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
@@ -492,6 +497,8 @@
 [/us/pl/98/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F160
 [/us/pl/97/306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F306
 [/us/pl/96/466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F466
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs506
 [/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
 [/us/pl/112/239/s544/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs544%2Fb
 [/us/stat/126/1738]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1738

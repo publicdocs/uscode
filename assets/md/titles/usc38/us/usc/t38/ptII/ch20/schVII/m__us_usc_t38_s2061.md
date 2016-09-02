@@ -39,13 +39,15 @@
 
     (d)  __Funding__  __.—__ 
 
-        (1) From amounts appropriated to the Department for “Medical Services” for each of fiscal years 2007 through 2015, $5,000,000 shall be available for each such fiscal year for the purposes of the program under this section.
+        (1) From amounts appropriated to the Department for “Medical Services” for each of fiscal years 2007 through 2016, $5,000,000 shall be available for each such fiscal year for the purposes of the program under this section.
 
         (2) The Secretary shall ensure that funds for grants under this section are designated for the first three years of operation of the program under this section as a special purpose program for which funds are not allocated through the Veterans Equitable Resource Allocation system.
 
-(Added [Pub. L. 107–95, § 5(a)(1)][/us/pl/107/95/s5/a/1], Dec. 21, 2001, [115 Stat. 913][/us/stat/115/913]; amended [Pub. L. 109–461, title VII, § 706][/us/pl/109/461/s706], Dec. 22, 2006, [120 Stat. 3440][/us/stat/120/3440]; [Pub. L. 112–37, § 13][/us/pl/112/37/s13], Oct. 5, 2011, [125 Stat. 397][/us/stat/125/397]; [Pub. L. 112–154, title III][/us/pl/112/154], §§ 303, 305(d), Aug. 6, 2012, [126 Stat. 1184][/us/stat/126/1184], 1188; [Pub. L. 113–37, § 2(f)(3)][/us/pl/113/37/s2/f/3], Sept. 30, 2013, [127 Stat. 524][/us/stat/127/524]; [Pub. L. 113–175, title II, § 207][/us/pl/113/175/s207], Sept. 26, 2014, [128 Stat. 1904][/us/stat/128/1904].)
+(Added [Pub. L. 107–95, § 5(a)(1)][/us/pl/107/95/s5/a/1], Dec. 21, 2001, [115 Stat. 913][/us/stat/115/913]; amended [Pub. L. 109–461, title VII, § 706][/us/pl/109/461/s706], Dec. 22, 2006, [120 Stat. 3440][/us/stat/120/3440]; [Pub. L. 112–37, § 13][/us/pl/112/37/s13], Oct. 5, 2011, [125 Stat. 397][/us/stat/125/397]; [Pub. L. 112–154, title III][/us/pl/112/154], §§ 303, 305(d), Aug. 6, 2012, [126 Stat. 1184][/us/stat/126/1184], 1188; [Pub. L. 113–37, § 2(f)(3)][/us/pl/113/37/s2/f/3], Sept. 30, 2013, [127 Stat. 524][/us/stat/127/524]; [Pub. L. 113–175, title II, § 207][/us/pl/113/175/s207], Sept. 26, 2014, [128 Stat. 1904][/us/stat/128/1904]; [Pub. L. 114–58, title III, § 305][/us/pl/114/58/s305], Sept. 30, 2015, [129 Stat. 534][/us/stat/129/534].)
 
  __Amendments__ 
+
+    2015—Subsec. (d)(1). [Pub. L. 114–58][/us/pl/114/58] substituted “2016” for “2015”.
 
     2014—Subsec. (d)(1). [Pub. L. 113–175][/us/pl/113/175] substituted “2015” for “2014”.
 
@@ -92,6 +94,9 @@
 [/us/stat/127/524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F524
 [/us/pl/113/175/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F175%2Fs207
 [/us/stat/128/1904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1904
+[/us/pl/114/58/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F58%2Fs305
+[/us/stat/129/534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F534
+[/us/pl/114/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F58
 [/us/pl/113/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F175
 [/us/pl/113/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F37
 [/us/pl/112/154/s303/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154%2Fs303%2Fa

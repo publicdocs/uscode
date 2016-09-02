@@ -39,7 +39,7 @@
 
     (d)  __Duration__  __.—__ 
 
-    The authority of the Secretaries to enter into a contract to provide referral and counseling services under the demonstration program shall cease on September 30, 2015.
+    The authority of the Secretaries to enter into a contract to provide referral and counseling services under the demonstration program shall cease on September 30, 2016.
 
     (e)  __Definition__  __.—__ 
 
@@ -49,13 +49,15 @@
 
         (2) is at risk for homelessness absent referral and counseling services provided under the demonstration program (as determined under guidelines established by the Secretaries).
 
-(Added [Pub. L. 107–95, § 5(a)(1)][/us/pl/107/95/s5/a/1], Dec. 21, 2001, [115 Stat. 912][/us/stat/115/912]; amended [Pub. L. 110–28, title V, § 5705][/us/pl/110/28/s5705], May 25, 2007, [121 Stat. 170][/us/stat/121/170]; [Pub. L. 110–387, title VI, § 602(a)][/us/pl/110/387/s602/a]–(d)(2), Oct. 10, 2008, [122 Stat. 4132][/us/stat/122/4132]; [Pub. L. 112–239, div. A, title V, § 590][/us/pl/112/239/s590], Jan. 2, 2013, [126 Stat. 1769][/us/stat/126/1769]; [Pub. L. 113–37, § 2(e)(2)][/us/pl/113/37/s2/e/2], Sept. 30, 2013, [127 Stat. 524][/us/stat/127/524]; [Pub. L. 113–175, title II, § 203][/us/pl/113/175/s203], Sept. 26, 2014, [128 Stat. 1904][/us/stat/128/1904].)
+(Added [Pub. L. 107–95, § 5(a)(1)][/us/pl/107/95/s5/a/1], Dec. 21, 2001, [115 Stat. 912][/us/stat/115/912]; amended [Pub. L. 110–28, title V, § 5705][/us/pl/110/28/s5705], May 25, 2007, [121 Stat. 170][/us/stat/121/170]; [Pub. L. 110–387, title VI, § 602(a)][/us/pl/110/387/s602/a]–(d)(2), Oct. 10, 2008, [122 Stat. 4132][/us/stat/122/4132]; [Pub. L. 112–239, div. A, title V, § 590][/us/pl/112/239/s590], Jan. 2, 2013, [126 Stat. 1769][/us/stat/126/1769]; [Pub. L. 113–37, § 2(e)(2)][/us/pl/113/37/s2/e/2], Sept. 30, 2013, [127 Stat. 524][/us/stat/127/524]; [Pub. L. 113–175, title II, § 203][/us/pl/113/175/s203], Sept. 26, 2014, [128 Stat. 1904][/us/stat/128/1904]; [Pub. L. 114–58, title III, § 308][/us/pl/114/58/s308], Sept. 30, 2015, [129 Stat. 534][/us/stat/129/534].)
 
  __Prior Provisions__ 
 
     Prior sections 2023 to 2027 were renumbered sections 4303 to 4307 of this title, respectively, and subsequently omitted in the general amendment of chapter 43 of this title by [Pub. L. 103–353, § 2(a)][/us/pl/103/353/s2/a], Oct. 13, 1994, [108 Stat. 3150][/us/stat/108/3150].
 
  __Amendments__ 
+
+    2015—Subsec. (d). [Pub. L. 114–58][/us/pl/114/58] substituted “September 30, 2016” for “September 30, 2015”.
 
     2014—Subsec. (c)(3). [Pub. L. 113–175, § 203(b)][/us/pl/113/175/s203/b], substituted “make grants” for “enter into contracts”.
 
@@ -100,8 +102,11 @@
 [/us/stat/127/524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F524
 [/us/pl/113/175/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F175%2Fs203
 [/us/stat/128/1904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1904
+[/us/pl/114/58/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F58%2Fs308
+[/us/stat/129/534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F534
 [/us/pl/103/353/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F353%2Fs2%2Fa
 [/us/stat/108/3150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3150
+[/us/pl/114/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F58
 [/us/pl/113/175/s203/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F175%2Fs203%2Fb
 [/us/pl/113/175/s203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F175%2Fs203%2Fa
 [/us/pl/113/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F37

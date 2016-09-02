@@ -127,7 +127,7 @@
 
                 (ii) elect to provide the personal care services to the eligible veteran that the Secretary determines the eligible veteran requires under paragraph (5)(A)(i);
 
-                (iii) has  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “have”. </sup></sup>  the consent of the eligible veteran to be the primary provider of personal care services for the eligible veteran; and
+                (iii) have the consent of the eligible veteran to be the primary provider of personal care services for the eligible veteran; and
 
                 (iv) are considered by the Secretary as competent to be the primary provider of personal care services for the eligible veteran.
 
@@ -261,11 +261,19 @@
 
     There are authorized to be appropriated to carry out the programs required by subsections (a) and (b)—
 
-        (1) $60,000,000 for fiscal year 2010; and
+        (1) $60,000,000 for fiscal year 2010;
 
-        (2) $1,542,000,000 for the period of fiscal years 2011 through 2015.
+        (2) $1,542,000,000 for the period of fiscal years 2011 through 2015; and
 
-(Added [Pub. L. 111–163, title I, § 101(a)(1)][/us/pl/111/163/s101/a/1], May 5, 2010, [124 Stat. 1132][/us/stat/124/1132].)
+        (3) $625,000,000 for fiscal year 2016.
+
+(Added [Pub. L. 111–163, title I, § 101(a)(1)][/us/pl/111/163/s101/a/1], May 5, 2010, [124 Stat. 1132][/us/stat/124/1132]; amended [Pub. L. 114–58, title I, § 103][/us/pl/114/58/s103], title VI, § 601(6), Sept. 30, 2015, [129 Stat. 532][/us/stat/129/532], 538.)
+
+ __Amendments__ 
+
+    2015—Subsec. (a)(7)(B)(iii). [Pub. L. 114–58, § 601(6)][/us/pl/114/58/s601/6], substituted “have” for “has”.
+
+    Subsec. (e)(3). [Pub. L. 114–58, § 103][/us/pl/114/58/s103], added par. (3).
 
  __Effective Date__ 
 
@@ -340,6 +348,10 @@
 [/us/usc/t38/s1701/6/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1701%2F6%2FE
 [/us/pl/111/163/s101/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163%2Fs101%2Fa%2F1
 [/us/stat/124/1132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1132
+[/us/pl/114/58/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F58%2Fs103
+[/us/stat/129/532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F532
+[/us/pl/114/58/s601/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F58%2Fs601%2F6
+[/us/pl/114/58/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F58%2Fs103
 [/us/pl/111/163/s101/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163%2Fs101%2Fa%2F3
 [/us/stat/124/1137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1137
 [/us/usc/t38/s1720G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1720G

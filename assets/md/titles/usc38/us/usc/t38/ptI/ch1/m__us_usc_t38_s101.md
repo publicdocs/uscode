@@ -437,6 +437,10 @@
 
  __Short Title of 2015 Amendment__ 
 
+[Pub. L. 114–58, § 1(a)][/us/pl/114/58/s1/a], Sept. 30, 2015, [129 Stat. 530][/us/stat/129/530], provided that: 
+
+> “This Act \[see Tables for classification\] may be cited as the ‘Department of Veterans Affairs Expiring Authorities Act of 2015’.”
+
 [Pub. L. 114–41, title IV, § 4001][/us/pl/114/41/s4001], July 31, 2015, [129 Stat. 460][/us/stat/129/460], provided that: 
 
 > “This title \[amending sections 223 and 4980H of Title 26, Internal Revenue Code, enacting provisions set out as notes under [section 1701 of this title][/us/usc/t38/s1701] and sections 223 and 4980H of Title 26, and amending provisions set out as a note under [section 1701 of this title][/us/usc/t38/s1701]\] may be cited as the ‘VA Budget and Choice Improvement Act’.”
@@ -1568,6 +1572,8 @@
 [/us/pl/89/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F311
 [/us/pl/89/311/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F311%2Fs9
 [/us/usc/t38/s1114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1114
+[/us/pl/114/58/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F58%2Fs1%2Fa
+[/us/stat/129/530]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F530
 [/us/pl/114/41/s4001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F41%2Fs4001
 [/us/stat/129/460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F460
 [/us/usc/t38/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1701

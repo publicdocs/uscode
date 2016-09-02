@@ -25,7 +25,7 @@
 
     An individual referred to in subsection (a) is any member of the uniformed services who, at the time of the approval of the individual’s request to transfer entitlement to educational assistance under this section, has completed at least—
 
-        (1) six years of service in the armed forces and enters into an agreement to serve at least four more years as a member of the uniformed services; or
+        (1) six years of service in the Armed Forces and enters into an agreement to serve at least four more years as a member of the uniformed services; or
 
         (2) the years of service as determined in regulations pursuant to subsection (j).
 
@@ -57,7 +57,7 @@
 
         (1)  __Time for transfer__  __.—__ 
 
-        Subject to the time limitation for use of entitlement under section 3321 an individual approved to transfer entitlement to educational assistance under this section may transfer such entitlement only while serving as a member of the armed forces when the transfer is executed.
+        Subject to the time limitation for use of entitlement under section 3321 an individual approved to transfer entitlement to educational assistance under this section may transfer such entitlement only while serving as a member of the Armed Forces when the transfer is executed.
 
         (2) __Modification or revocation.—__ 
 
@@ -81,7 +81,7 @@
 
          in the case of entitlement transferred to a spouse, the completion by the individual making the transfer of at least—
 
-            (A) six years of service in the armed forces; or
+            (A) six years of service in the Armed Forces; or
 
             (B) the years of service as determined in regulations pursuant to subsection (j); or
 
@@ -93,7 +93,7 @@
 
              the completion by the individual making the transfer of at least—
 
-                (i) ten years of service in the armed forces; or
+                (i) ten years of service in the Armed Forces; or
 
                 (ii) the years of service as determined in regulations pursuant to subsection (j); and
 
@@ -213,9 +213,11 @@
 
             (C) the manner and effect of an election to modify or revoke a transfer of entitlement under subsection (f)(2).
 
-(Added [Pub. L. 110–252, title V, § 5003(a)(1)][/us/pl/110/252/s5003/a/1], June 30, 2008, [122 Stat. 2369][/us/stat/122/2369]; amended [Pub. L. 111–275, title X, § 1001(g)(7)][/us/pl/111/275/s1001/g/7], Oct. 13, 2010, [124 Stat. 2896][/us/stat/124/2896]; [Pub. L. 111–377, title I][/us/pl/111/377], §§ 110(a), (b), 112(b), title II, § 201(b), Jan. 4, 2011, [124 Stat. 4120][/us/stat/124/4120], 4122, 4123.)
+(Added [Pub. L. 110–252, title V, § 5003(a)(1)][/us/pl/110/252/s5003/a/1], June 30, 2008, [122 Stat. 2369][/us/stat/122/2369]; amended [Pub. L. 111–275, title X, § 1001(g)(7)][/us/pl/111/275/s1001/g/7], Oct. 13, 2010, [124 Stat. 2896][/us/stat/124/2896]; [Pub. L. 111–377, title I][/us/pl/111/377], §§ 110(a), (b), 112(b), title II, § 201(b), Jan. 4, 2011, [124 Stat. 4120][/us/stat/124/4120], 4122, 4123; [Pub. L. 114–58, title VI, § 601(19)][/us/pl/114/58/s601/19], Sept. 30, 2015, [129 Stat. 539][/us/stat/129/539].)
 
  __Amendments__ 
+
+    2015—[Pub. L. 114–58][/us/pl/114/58] substituted “Armed Forces” for “armed forces” in subsecs. (b)(1), (f)(1), and (g)(1)(A), (2)(A)(i).
 
     2011—Subsec. (a). [Pub. L. 111–377, § 110(b)][/us/pl/111/377/s110/b], designated existing provisions as par. (1), substituted “Subject to the provisions of this section, the Secretary concerned may permit” for “Subject to the provisions of this section, the Secretary of Defense may authorize the Secretary concerned, to promote recruitment and retention of members of the Armed Forces, to permit”, and added par. (2).
 
@@ -258,6 +260,9 @@
 [/us/stat/124/2896]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2896
 [/us/pl/111/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F377
 [/us/stat/124/4120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4120
+[/us/pl/114/58/s601/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F58%2Fs601%2F19
+[/us/stat/129/539]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F539
+[/us/pl/114/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F58
 [/us/pl/111/377/s110/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F377%2Fs110%2Fb
 [/us/pl/111/377/s110/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F377%2Fs110%2Fa%2F1
 [/us/pl/111/377/s112/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F377%2Fs112%2Fb

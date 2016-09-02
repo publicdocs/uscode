@@ -39,7 +39,7 @@
 
         (2) To facilitate the incentive program, there is established in the Treasury a fund to be known as the “DOD–VA Health Care Sharing Incentive Fund”. Each Secretary shall annually contribute to the fund a minimum of $15,000,000 from the funds appropriated to that Secretary’s Department. Such funds shall remain available until expended and shall be available for any purpose authorized by this section.
 
-        (3) The program under this subsection shall terminate on September 30, 2015.
+        (3) The program under this subsection shall terminate on September 30, 2016.
 
     (e)  __Guidelines and Policies for Implementation of Coordination and Sharing Recommendations, Contracts, and Agreements__  __.—__ 
 
@@ -137,7 +137,7 @@
 
         (7) The term “service region” means a geographic service area of the Veterans Health Administration, in the case of the Department of Veterans Affairs, and a service region, in the case of the Department of Defense.
 
-(Added [Pub. L. 96–22, title III, § 301(a)][/us/pl/96/22/s301/a], June 13, 1979, [93 Stat. 60][/us/stat/93/60], § 5011; amended [Pub. L. 97–174, § 3(a)][/us/pl/97/174/s3/a], (b)(1), May 4, 1982, [96 Stat. 70][/us/stat/96/70], 73; [Pub. L. 97–452, § 2(e)(4)][/us/pl/97/452/s2/e/4], Jan. 12, 1983, [96 Stat. 2479][/us/stat/96/2479]; renumbered § 8111 and amended [Pub. L. 102–40, title IV, § 402(b)(1)][/us/pl/102/40/s402/b/1], (d)(1), May 7, 1991, [105 Stat. 238][/us/stat/105/238], 239; [Pub. L. 102–83][/us/pl/102/83], §§ 4(a)(3), (4), (b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, [105 Stat. 404–406][/us/stat/105/404-406]; [Pub. L. 102–405, title III, § 302(c)(1)][/us/pl/102/405/s302/c/1], Oct. 9, 1992, [106 Stat. 1984][/us/stat/106/1984]; [Pub. L. 103–446, title XII, § 1201(g)(8)][/us/pl/103/446/s1201/g/8], (i)(10), Nov. 2, 1994, [108 Stat. 4687][/us/stat/108/4687], 4688; [Pub. L. 107–135, title II, § 208(e)(6)][/us/pl/107/135/s208/e/6], Jan. 23, 2002, [115 Stat. 2464][/us/stat/115/2464]; [Pub. L. 107–314, div. A, title VII, § 721(a)(1)][/us/pl/107/314/s721/a/1], Dec. 2, 2002, [116 Stat. 2589][/us/stat/116/2589]; [Pub. L. 108–136, div. A, title V, § 583(b)][/us/pl/108/136/s583/b], (c), Nov. 24, 2003, [117 Stat. 1491][/us/stat/117/1491], 1492; [Pub. L. 108–422, title VI, § 605][/us/pl/108/422/s605], Nov. 30, 2004, [118 Stat. 2399][/us/stat/118/2399]; [Pub. L. 109–163, div. A, title VII, § 747(a)][/us/pl/109/163/s747/a], title X, § 1056(g), Jan. 6, 2006, [119 Stat. 3363][/us/stat/119/3363], 3440; [Pub. L. 109–364, div. A, title VII, § 743][/us/pl/109/364/s743], Oct. 17, 2006, [120 Stat. 2308][/us/stat/120/2308]; [Pub. L. 109–444, § 8(a)(6)][/us/pl/109/444/s8/a/6], (7), Dec. 21, 2006, [120 Stat. 3313][/us/stat/120/3313]; [Pub. L. 109–461, title X][/us/pl/109/461], §§ 1004(a)(6), (7), 1006(b), Dec. 22, 2006, [120 Stat. 3465][/us/stat/120/3465], 3468; [Pub. L. 111–84, div. A, title XVII, § 1706][/us/pl/111/84/s1706], Oct. 28, 2009, [123 Stat. 2574][/us/stat/123/2574].)
+(Added [Pub. L. 96–22, title III, § 301(a)][/us/pl/96/22/s301/a], June 13, 1979, [93 Stat. 60][/us/stat/93/60], § 5011; amended [Pub. L. 97–174, § 3(a)][/us/pl/97/174/s3/a], (b)(1), May 4, 1982, [96 Stat. 70][/us/stat/96/70], 73; [Pub. L. 97–452, § 2(e)(4)][/us/pl/97/452/s2/e/4], Jan. 12, 1983, [96 Stat. 2479][/us/stat/96/2479]; renumbered § 8111 and amended [Pub. L. 102–40, title IV, § 402(b)(1)][/us/pl/102/40/s402/b/1], (d)(1), May 7, 1991, [105 Stat. 238][/us/stat/105/238], 239; [Pub. L. 102–83][/us/pl/102/83], §§ 4(a)(3), (4), (b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, [105 Stat. 404–406][/us/stat/105/404-406]; [Pub. L. 102–405, title III, § 302(c)(1)][/us/pl/102/405/s302/c/1], Oct. 9, 1992, [106 Stat. 1984][/us/stat/106/1984]; [Pub. L. 103–446, title XII, § 1201(g)(8)][/us/pl/103/446/s1201/g/8], (i)(10), Nov. 2, 1994, [108 Stat. 4687][/us/stat/108/4687], 4688; [Pub. L. 107–135, title II, § 208(e)(6)][/us/pl/107/135/s208/e/6], Jan. 23, 2002, [115 Stat. 2464][/us/stat/115/2464]; [Pub. L. 107–314, div. A, title VII, § 721(a)(1)][/us/pl/107/314/s721/a/1], Dec. 2, 2002, [116 Stat. 2589][/us/stat/116/2589]; [Pub. L. 108–136, div. A, title V, § 583(b)][/us/pl/108/136/s583/b], (c), Nov. 24, 2003, [117 Stat. 1491][/us/stat/117/1491], 1492; [Pub. L. 108–422, title VI, § 605][/us/pl/108/422/s605], Nov. 30, 2004, [118 Stat. 2399][/us/stat/118/2399]; [Pub. L. 109–163, div. A, title VII, § 747(a)][/us/pl/109/163/s747/a], title X, § 1056(g), Jan. 6, 2006, [119 Stat. 3363][/us/stat/119/3363], 3440; [Pub. L. 109–364, div. A, title VII, § 743][/us/pl/109/364/s743], Oct. 17, 2006, [120 Stat. 2308][/us/stat/120/2308]; [Pub. L. 109–444, § 8(a)(6)][/us/pl/109/444/s8/a/6], (7), Dec. 21, 2006, [120 Stat. 3313][/us/stat/120/3313]; [Pub. L. 109–461, title X][/us/pl/109/461], §§ 1004(a)(6), (7), 1006(b), Dec. 22, 2006, [120 Stat. 3465][/us/stat/120/3465], 3468; [Pub. L. 111–84, div. A, title XVII, § 1706][/us/pl/111/84/s1706], Oct. 28, 2009, [123 Stat. 2574][/us/stat/123/2574]; [Pub. L. 114–58, title I, § 107][/us/pl/114/58/s107], Sept. 30, 2015, [129 Stat. 532][/us/stat/129/532].)
 
  __References in Text__ 
 
@@ -148,6 +148,8 @@
     Provisions similar to those comprising this section were contained in former [section 5003 of this title][/us/usc/t38/s5003] prior to the general revision of this subchapter by [Pub. L. 96–22][/us/pl/96/22].
 
  __Amendments__ 
+
+    2015—Subsec. (d)(3). [Pub. L. 114–58][/us/pl/114/58] substituted “September 30, 2016” for “September 30, 2015”.
 
     2009—Subsec. (d)(3). [Pub. L. 111–84][/us/pl/111/84] substituted “September 30, 2015” for “September 30, 2010”.
 
@@ -592,6 +594,8 @@
 [/us/stat/120/3465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3465
 [/us/pl/111/84/s1706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs1706
 [/us/stat/123/2574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2574
+[/us/pl/114/58/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F58%2Fs107
+[/us/stat/129/532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F532
 [/us/pl/107/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314
 [/us/stat/116/2458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2458
 [/us/usc/t38/s8110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs8110
@@ -601,6 +605,7 @@
 [/us/usc/t10/s1094a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1094a
 [/us/usc/t38/s5003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs5003
 [/us/pl/96/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F22
+[/us/pl/114/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F58
 [/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
 [/us/pl/109/461/s1006/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461%2Fs1006%2Fb
 [/us/pl/109/461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461

@@ -25,7 +25,7 @@
 
         (3) the surviving spouse or child of a person who died in the active military, naval, or air service in the line of duty and not due to such person’s own misconduct, and
 
-        (4) an individual designated as a primary provider of personal care services under [section 1720G(a)(7)(A) of this title][/us/usc/t38/s1720G/a/7/A] who is not entitled to care or services under a health-plan contract (as defined in [section 1725(f) of this title][/us/usc/t38/s1725/f]);  <sup>\[1\]</sup>  <sup><sup> 1 So in original. The semicolon probably should be a comma. </sup></sup> 
+        (4) an individual designated as a primary provider of personal care services under [section 1720G(a)(7)(A) of this title][/us/usc/t38/s1720G/a/7/A] who is not entitled to care or services under a health-plan contract (as defined in [section 1725(f) of this title][/us/usc/t38/s1725/f]),
 
         who are not otherwise eligible for medical care under chapter 55 of title 10 (CHAMPUS).
 
@@ -75,7 +75,7 @@
 
     (e) Payment by the Secretary under this section on behalf of a covered beneficiary for medical care shall constitute payment in full and extinguish any liability on the part of the beneficiary for that care.
 
-(Added [Pub. L. 93–82, title I, § 103(b)][/us/pl/93/82/s103/b], Aug. 2, 1973, [87 Stat. 181][/us/stat/87/181], § 613; amended [Pub. L. 94–581, title I, § 104][/us/pl/94/581/s104], title II, § 210(a)(4), Oct. 21, 1976, [90 Stat. 2845][/us/stat/90/2845], 2862; [Pub. L. 96–151, title II, § 205(a)][/us/pl/96/151/s205/a], Dec. 20, 1979, [93 Stat. 1094][/us/stat/93/1094]; [Pub. L. 97–72, title I, § 105][/us/pl/97/72/s105], Nov. 3, 1981, [95 Stat. 1050][/us/stat/95/1050]; [Pub. L. 97–251, § 5(a)][/us/pl/97/251/s5/a], Sept. 8, 1982, [96 Stat. 716][/us/stat/96/716]; renumbered § 1713 and amended [Pub. L. 102–83][/us/pl/102/83], §§ 4(a)(3), (4), (b)(1), (2)(B), (E), 5(a), Aug. 6, 1991, [105 Stat. 404–406][/us/stat/105/404-406]; [Pub. L. 102–190, div. A, title VII, § 704(b)(2)][/us/pl/102/190/s704/b/2], Dec. 5, 1991, [105 Stat. 1402][/us/stat/105/1402]; [Pub. L. 107–14, § 3][/us/pl/107/14/s3], June 5, 2001, [115 Stat. 25][/us/stat/115/25]; renumbered § 1781 and amended [Pub. L. 107–135, title II, § 208(c)][/us/pl/107/135/s208/c], Jan. 23, 2002, [115 Stat. 2463][/us/stat/115/2463]; [Pub. L. 107–330, title III, § 308(g)(8)][/us/pl/107/330/s308/g/8], Dec. 6, 2002, [116 Stat. 2829][/us/stat/116/2829]; [Pub. L. 111–163, title I, § 102][/us/pl/111/163/s102], title V, § 503, May 5, 2010, [124 Stat. 1139][/us/stat/124/1139], 1157.)
+(Added [Pub. L. 93–82, title I, § 103(b)][/us/pl/93/82/s103/b], Aug. 2, 1973, [87 Stat. 181][/us/stat/87/181], § 613; amended [Pub. L. 94–581, title I, § 104][/us/pl/94/581/s104], title II, § 210(a)(4), Oct. 21, 1976, [90 Stat. 2845][/us/stat/90/2845], 2862; [Pub. L. 96–151, title II, § 205(a)][/us/pl/96/151/s205/a], Dec. 20, 1979, [93 Stat. 1094][/us/stat/93/1094]; [Pub. L. 97–72, title I, § 105][/us/pl/97/72/s105], Nov. 3, 1981, [95 Stat. 1050][/us/stat/95/1050]; [Pub. L. 97–251, § 5(a)][/us/pl/97/251/s5/a], Sept. 8, 1982, [96 Stat. 716][/us/stat/96/716]; renumbered § 1713 and amended [Pub. L. 102–83][/us/pl/102/83], §§ 4(a)(3), (4), (b)(1), (2)(B), (E), 5(a), Aug. 6, 1991, [105 Stat. 404–406][/us/stat/105/404-406]; [Pub. L. 102–190, div. A, title VII, § 704(b)(2)][/us/pl/102/190/s704/b/2], Dec. 5, 1991, [105 Stat. 1402][/us/stat/105/1402]; [Pub. L. 107–14, § 3][/us/pl/107/14/s3], June 5, 2001, [115 Stat. 25][/us/stat/115/25]; renumbered § 1781 and amended [Pub. L. 107–135, title II, § 208(c)][/us/pl/107/135/s208/c], Jan. 23, 2002, [115 Stat. 2463][/us/stat/115/2463]; [Pub. L. 107–330, title III, § 308(g)(8)][/us/pl/107/330/s308/g/8], Dec. 6, 2002, [116 Stat. 2829][/us/stat/116/2829]; [Pub. L. 111–163, title I, § 102][/us/pl/111/163/s102], title V, § 503, May 5, 2010, [124 Stat. 1139][/us/stat/124/1139], 1157; [Pub. L. 114–58, title VI, § 601(7)][/us/pl/114/58/s601/7], Sept. 30, 2015, [129 Stat. 538][/us/stat/129/538].)
 
  __References in Text__ 
 
@@ -86,6 +86,8 @@
     A prior section 1781 was renumbered [section 3681 of this title][/us/usc/t38/s3681].
 
  __Amendments__ 
+
+    2015—Subsec. (a)(4). [Pub. L. 114–58][/us/pl/114/58] substituted “title),” for “title);”.
 
     2010—Subsec. (a)(4). [Pub. L. 111–163, § 102][/us/pl/111/163/s102], added par. (4).
 
@@ -180,10 +182,13 @@
 [/us/stat/116/2829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2829
 [/us/pl/111/163/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163%2Fs102
 [/us/stat/124/1139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1139
+[/us/pl/114/58/s601/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F58%2Fs601%2F7
+[/us/stat/129/538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F538
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
 [/us/usc/t42/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1305
 [/us/usc/t38/s3681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3681
+[/us/pl/114/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F58
 [/us/pl/111/163/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163%2Fs102
 [/us/pl/111/163/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163%2Fs503
 [/us/pl/107/135/s208/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F135%2Fs208%2Fc%2F1

@@ -41,7 +41,7 @@
 
                     (I) any waiver of, or reduction in, tuition and fees; and
 
-                    (II) any scholarship, or other Federal, State, institutional, or employer-based aid or assistance (other than loans and any funds provided under section 401(b) of the Higher Education Act of 1965 ([20 U.S.C. 1070a][/us/usc/t20/s1070a]))  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “([20 U.S.C. 1070a(b)][/us/usc/t20/s1070a/b]))”. </sup></sup>  that is provided directly to the institution and specifically designated for the sole purpose of defraying tuition and fees.
+                    (II) any scholarship, or other Federal, State, institutional, or employer-based aid or assistance (other than loans and any funds provided under section 401(b) of the Higher Education Act of 1965 ([20 U.S.C. 1070a(b)][/us/usc/t20/s1070a/b])) that is provided directly to the institution and specifically designated for the sole purpose of defraying tuition and fees.
 
                 (ii)
 
@@ -151,7 +151,7 @@
 
                     (I) any waiver of, or reduction in, tuition and fees; and
 
-                    (II) any scholarship, or other Federal, State, institutional, or employer-based aid or assistance (other than loans and any funds provided under section 401(b) of the Higher Education Act of 1965 ([20 U.S.C. 1070a][/us/usc/t20/s1070a])) 1 that is provided directly to the institution and specifically designated for the sole purpose of defraying tuition and fees;
+                    (II) any scholarship, or other Federal, State, institutional, or employer-based aid or assistance (other than loans and any funds provided under section 401(b) of the Higher Education Act of 1965 ([20 U.S.C. 1070a(b)][/us/usc/t20/s1070a/b])) that is provided directly to the institution and specifically designated for the sole purpose of defraying tuition and fees;
 
                 (ii)
 
@@ -173,7 +173,7 @@
 
                         (bb) for an academic year beginning on any subsequent August 1, the amount for the previous academic year beginning on August 1 under this subclause, as increased by the percentage increase equal to the most recent percentage increase determined under section 3015(h); or
 
-                (iii) the amount of the charges of the educational institution as elected by the individual in the manner specified in section 3014(b)(1).. <sup>\[2\]</sup>  <sup><sup> 2 So in original. </sup></sup> 
+                (iii) the amount of the charges of the educational institution as elected by the individual in the manner specified in section 3014(b)(1).
 
             (B)
 
@@ -213,7 +213,7 @@
 
                     (I) any waiver of, or reduction in, tuition and fees; and
 
-                    (II) any scholarship, or other Federal, State, institutional, or employer-based aid or assistance (other than loans and any funds provided under section 401(b) of the Higher Education Act of 1965 ([20 U.S.C. 1070a][/us/usc/t20/s1070a])) 1 that is provided directly to the institution and specifically designated for the sole purpose of defraying tuition and fees; or
+                    (II) any scholarship, or other Federal, State, institutional, or employer-based aid or assistance (other than loans and any funds provided under section 401(b) of the Higher Education Act of 1965 ([20 U.S.C. 1070a(b)][/us/usc/t20/s1070a/b])) that is provided directly to the institution and specifically designated for the sole purpose of defraying tuition and fees; or
 
                 (ii) the maximum amount that would be payable to the individual for the program of education under paragraph (1)(A) of subsection (c), or under the provisions of paragraphs (2) through (7) of subsection (c) applicable to the individual, for the program of education if the individual were entitled to amounts for the program of education under subsection (c) rather than this subsection.
 
@@ -259,7 +259,7 @@
 
                         (aa) any waiver of, or reduction in, tuition and fees; and
 
-                        (bb) any scholarship, or other Federal, State, institutional, or employer-based aid or assistance (other than loans and any funds provided under section 401(b) of the Higher Education Act of 1965 ([20 U.S.C. 1070a][/us/usc/t20/s1070a])) 1 that is provided directly to the institution and specifically designated for the sole purpose of defraying tuition and fees; or
+                        (bb) any scholarship, or other Federal, State, institutional, or employer-based aid or assistance (other than loans and any funds provided under section 401(b) of the Higher Education Act of 1965 ([20 U.S.C. 1070a(b)][/us/usc/t20/s1070a/b])) that is provided directly to the institution and specifically designated for the sole purpose of defraying tuition and fees; or
 
                     (II)
 
@@ -289,7 +289,7 @@
 
                         (bb) the number of course hours borne by the individual in pursuit of the program of education involved, divided by the minimum number of course hours required for full-time pursuit of such program of education, rounded to the nearest multiple of 10.
 
-                (iii) Subject to clause (iv), a monthly stipend in an amount equal to $83 for each month (or pro rata amount for a partial month) of training pursued for books  <sup>\[3\]</sup>  <sup><sup> 3 So in original. Probably should be followed by a comma. </sup></sup>  supplies, equipment, and other educational costs.
+                (iii) Subject to clause (iv), a monthly stipend in an amount equal to $83 for each month (or pro rata amount for a partial month) of training pursued for books, supplies, equipment, and other educational costs.
 
                 (iv) In the case of an individual entitled to educational assistance by reason of paragraphs (3) through (8) of section 3311(b), the amounts payable pursuant to clauses (i), (ii), and (iii) shall be the amounts otherwise determined pursuant to such clauses multiplied by the same percentage applicable to the monthly amounts payable to the individual under paragraphs (2) through (7) of subsection (c).
 
@@ -311,7 +311,7 @@
 
                     (V) during any month after the first 24 months of such program, 20 percent of the monthly amount of the basic allowance for housing payable as described in subclause (I).
 
-                (ii) Subject to clauses (iii) and (iv), a monthly stipend in an amount equal to $83 for each month (or pro rata amount for each partial month) of training pursued for books 3 supplies, equipment, and other educational costs.
+                (ii) Subject to clauses (iii) and (iv), a monthly stipend in an amount equal to $83 for each month (or pro rata amount for each partial month) of training pursued for books  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be followed by a comma. </sup></sup>  supplies, equipment, and other educational costs.
 
                 (iii) In the case of an individual entitled to educational assistance by reason of paragraphs (3) through (8) of sections 3311(b), the amounts payable pursuant to clauses (i) and (ii) shall be the amounts otherwise determined pursuant to such clauses multiplied by the same percentage applicable to the monthly amounts payable to the individual under paragraphs (2) through (7) of subsection (c).
 
@@ -423,13 +423,19 @@
 
     Any monthly housing stipend payable under this section during the academic year beginning on August 1 of a calendar year shall be determined utilizing rates for basic allowances for housing payable under [section 403 of title 37][/us/usc/t37/s403] in effect as of January 1 of such calendar year.
 
-(Added [Pub. L. 110–252, title V, § 5003(a)(1)][/us/pl/110/252/s5003/a/1], June 30, 2008, [122 Stat. 2363][/us/stat/122/2363]; amended [Pub. L. 111–32, title X, § 1002(b)][/us/pl/111/32/s1002/b], June 24, 2009, [123 Stat. 1889][/us/stat/123/1889]; [Pub. L. 111–275, title X, § 1001(g)(1)][/us/pl/111/275/s1001/g/1]–(3), Oct. 13, 2010, [124 Stat. 2896][/us/stat/124/2896]; [Pub. L. 111–377, title I][/us/pl/111/377], §§ 102(a), (b), 103(a), (b), 104(a), (b), 105(a)–(c), 106(a), 112(a), Jan. 4, 2011, [124 Stat. 4108–4110][/us/stat/124/4108-4110], 4112–4117, 4121.)
+(Added [Pub. L. 110–252, title V, § 5003(a)(1)][/us/pl/110/252/s5003/a/1], June 30, 2008, [122 Stat. 2363][/us/stat/122/2363]; amended [Pub. L. 111–32, title X, § 1002(b)][/us/pl/111/32/s1002/b], June 24, 2009, [123 Stat. 1889][/us/stat/123/1889]; [Pub. L. 111–275, title X, § 1001(g)(1)][/us/pl/111/275/s1001/g/1]–(3), Oct. 13, 2010, [124 Stat. 2896][/us/stat/124/2896]; [Pub. L. 111–377, title I][/us/pl/111/377], §§ 102(a), (b), 103(a), (b), 104(a), (b), 105(a)–(c), 106(a), 112(a), Jan. 4, 2011, [124 Stat. 4108–4110][/us/stat/124/4108-4110], 4112–4117, 4121; [Pub. L. 114–58, title VI, § 601(16)][/us/pl/114/58/s601/16]–(18), Sept. 30, 2015, [129 Stat. 539][/us/stat/129/539].)
 
  __References in Text__ 
 
     Section 401(b) of the Higher Education Act of 1965, referred to in subsecs. (c)(1)(A)(i)(II), (ii)(I)(bb), (e)(2)(A)(i)(II), (ii)(I)(bb), (f)(2)(A)(i)(II), and (g)(3)(A)(i)(I)(bb), (C)(i)(I)(bb), (D)(i)(I)(bb), is classified to [section 1070a(b) of Title 20][/us/usc/t20/s1070a/b], Education.
 
  __Amendments__ 
+
+    2015—[Pub. L. 114–58, § 601(16)][/us/pl/114/58/s601/16], substituted “1070a(b)” for “1070a” wherever appearing.
+
+    Subsec. (e)(2)(A)(iii). [Pub. L. 114–58, § 601(17)][/us/pl/114/58/s601/17], struck out second period at end.
+
+    Subsec. (g)(3)(A)(iii). [Pub. L. 114–58, § 601(18)][/us/pl/114/58/s601/18], substituted “books,” for “books”.
 
     2011—Subsec. (b). [Pub. L. 111–377, § 105(a)][/us/pl/111/377/s105/a], struck out “is offered by an institution of higher learning (as that term is defined in section 3452(f)) and” before “is approved”.
 
@@ -560,13 +566,12 @@
 ----------
 ----------
 
-[/us/usc/t20/s1070a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1070a
 [/us/usc/t20/s1070a/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1070a%2Fb
 [/us/usc/t37/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs403
 [/us/usc/t37/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs403
-[/us/usc/t20/s1070a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1070a
-[/us/usc/t20/s1070a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1070a
-[/us/usc/t20/s1070a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1070a
+[/us/usc/t20/s1070a/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1070a%2Fb
+[/us/usc/t20/s1070a/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1070a%2Fb
+[/us/usc/t20/s1070a/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1070a%2Fb
 [/us/usc/t37/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs403
 [/us/usc/t37/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs403
 [/us/usc/t37/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs403
@@ -578,7 +583,12 @@
 [/us/stat/124/2896]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2896
 [/us/pl/111/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F377
 [/us/stat/124/4108-4110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4108-4110
+[/us/pl/114/58/s601/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F58%2Fs601%2F16
+[/us/stat/129/539]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F539
 [/us/usc/t20/s1070a/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1070a%2Fb
+[/us/pl/114/58/s601/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F58%2Fs601%2F16
+[/us/pl/114/58/s601/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F58%2Fs601%2F17
+[/us/pl/114/58/s601/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F58%2Fs601%2F18
 [/us/pl/111/377/s105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F377%2Fs105%2Fa
 [/us/pl/111/377/s102/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F377%2Fs102%2Fa%2F2
 [/us/pl/111/377/s102/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F377%2Fs102%2Fa%2F1%2FA

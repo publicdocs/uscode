@@ -81,13 +81,13 @@
 
             (C) Subject to paragraph (2) of this subsection, a veteran who served on active duty between August 2, 1990, and November 11, 1998, in the Southwest Asia theater of operations during the Persian Gulf War is eligible for hospital care, medical services, and nursing home care under subsection (a)(2)(F) for any disability, notwithstanding that there is insufficient medical evidence to conclude that such disability may be associated with such service.
 
-            (D) Subject to paragraphs (2) and (3), a veteran who served on active duty in a theater of combat operations (as determined by the Secretary in consultation with the Secretary of Defense) during a period of war after the Persian Gulf War, or in combat against a hostile force during a period of hostilities (as defined in section 1712A(a)(2)(B)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title) after November 11, 1998, is eligible for hospital care, medical services, and nursing home care under subsection (a)(2)(F) for any illness, notwithstanding that there is insufficient medical evidence to conclude that such condition is attributable to such service.
+            (D) Subject to paragraphs (2) and (3), a veteran who served on active duty in a theater of combat operations (as determined by the Secretary in consultation with the Secretary of Defense) during a period of war after the Persian Gulf War, or in combat against a hostile force during a period of hostilities after November 11, 1998, is eligible for hospital care, medical services, and nursing home care under subsection (a)(2)(F) for any illness, notwithstanding that there is insufficient medical evidence to conclude that such condition is attributable to such service.
 
             (E) Subject to paragraph (2), a veteran who participated in a test conducted by the Department of Defense Deseret Test Center as part of a program for chemical and biological warfare testing from 1962 through 1973 (including the program designated as “Project Shipboard Hazard and Defense (SHAD)” and related land-based tests) is eligible for hospital care, medical services, and nursing home care under subsection (a)(2)(F) for any illness, notwithstanding that there is insufficient medical evidence to conclude that such illness is attributable to such testing.
 
             (F)
 
-             Subject to paragraph (2), a veteran who served on active duty in the Armed Forces at Camp Lejeune, North Carolina, for not fewer than 30 days during the period beginning on August 1, 1953  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be followed by a comma. </sup></sup>  and ending on December 31, 1987, is eligible for hospital care and medical services under subsection (a)(2)(F) for any of the following illnesses or conditions, notwithstanding that there is insufficient medical evidence to conclude that such illnesses or conditions are attributable to such service:
+             Subject to paragraph (2), a veteran who served on active duty in the Armed Forces at Camp Lejeune, North Carolina, for not fewer than 30 days during the period beginning on August 1, 1953 and ending on December 31, 1987, is eligible for hospital care and medical services under subsection (a)(2)(F) for any of the following illnesses or conditions, notwithstanding that there is insufficient medical evidence to conclude that such illnesses or conditions are attributable to such service:
 
                 (i) Esophageal cancer.
 
@@ -103,7 +103,7 @@
 
                 (vii) Multiple myeloma.
 
-                (viii) Myleodysplasic  <sup>\[3\]</sup>  <sup><sup> 3 So in original. Probably should read “Myelodysplastic”. </sup></sup>  syndromes.
+                (viii) Myelodysplastic syndromes.
 
                 (ix) Renal toxicity.
 
@@ -167,7 +167,7 @@
 
                 (ii) the amount determined under paragraph (3) of this subsection; and
 
-            (B) before September 30, 2015, an amount equal to $10 for every day the veteran receives hospital care and $5 for every day the veteran receives nursing home care.
+            (B) before September 30, 2016, an amount equal to $10 for every day the veteran receives hospital care and $5 for every day the veteran receives nursing home care.
 
         (3)
 
@@ -231,11 +231,9 @@
 
     (h) Nothing in this section requires the Secretary to furnish care to a veteran to whom another agency of Federal, State, or local government has a duty under law to provide care in an institution of such government.
 
-([Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1141][/us/stat/72/1141], § 610; [Pub. L. 87–583, § 1][/us/pl/87/583/s1], Aug. 14, 1962, [76 Stat. 381][/us/stat/76/381]; [Pub. L. 89–358, § 8][/us/pl/89/358/s8], Mar. 3, 1966, [80 Stat. 27][/us/stat/80/27]; [Pub. L. 89–785, title III, § 304][/us/pl/89/785/s304], Nov. 7, 1966, [80 Stat. 1377][/us/stat/80/1377]; [Pub. L. 91–500, § 4][/us/pl/91/500/s4], Oct. 22, 1970, [84 Stat. 1096][/us/stat/84/1096]; [Pub. L. 93–82, title I, § 102][/us/pl/93/82/s102], Aug. 2, 1973, [87 Stat. 180][/us/stat/87/180]; [Pub. L. 94–581, title II][/us/pl/94/581], §§ 202(d), 210(a)(1), Oct. 21, 1976, [90 Stat. 2855][/us/stat/90/2855], 2862; [Pub. L. 96–22, title I, § 102(a)][/us/pl/96/22/s102/a], June 13, 1979, [93 Stat. 47][/us/stat/93/47]; [Pub. L. 97–37, § 5(a)][/us/pl/97/37/s5/a], Aug. 14, 1981, [95 Stat. 936][/us/stat/95/936]; [Pub. L. 97–72, title I, § 102(a)][/us/pl/97/72/s102/a], Nov. 3, 1981, [95 Stat. 1047][/us/stat/95/1047]; [Pub. L. 98–160, title VII, § 701][/us/pl/98/160/s701], Nov. 21, 1983, [97 Stat. 1008][/us/stat/97/1008]; [Pub. L. 99–166, title I, § 103][/us/pl/99/166/s103], Dec. 3, 1985, [99 Stat. 944][/us/stat/99/944]; [Pub. L. 99–272, title XIX, § 19011(a)][/us/pl/99/272/s19011/a], (d)(3), Apr. 7, 1986, [100 Stat. 372][/us/stat/100/372], 379; [Pub. L. 99–576, title II, § 237(a)][/us/pl/99/576/s237/a], (b)(1), Oct. 28, 1986, [100 Stat. 3267][/us/stat/100/3267]; [Pub. L. 100–322, title I, § 102(a)][/us/pl/100/322/s102/a], May 20, 1988, [102 Stat. 492][/us/stat/102/492]; [Pub. L. 100–687, div. B, title XII, § 1202][/us/pl/100/687/s1202], Nov. 18, 1988, [102 Stat. 4125][/us/stat/102/4125]; [Pub. L. 101–508, title VIII, § 8013(a)][/us/pl/101/508/s8013/a], Nov. 5, 1990, [104 Stat. 1388–346][/us/stat/104/1388-346]; [Pub. L. 102–4, § 5][/us/pl/102/4/s5], Feb. 6, 1991, [105 Stat. 15][/us/stat/105/15]; [Pub. L. 102–54, § 14(b)(10)][/us/pl/102/54/s14/b/10], June 13, 1991, [105 Stat. 283][/us/stat/105/283]; renumbered § 1710 and amended [Pub. L. 102–83][/us/pl/102/83], §§ 4(a)(3), (4), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, [105 Stat. 404–406][/us/stat/105/404-406]; [Pub. L. 102–405, title III, § 302(c)(1)][/us/pl/102/405/s302/c/1], Oct. 9, 1992, [106 Stat. 1984][/us/stat/106/1984]; [Pub. L. 103–210][/us/pl/103/210], §§ 1(a), 2(a), Dec. 20, 1993, [107 Stat. 2496][/us/stat/107/2496], 2497; [Pub. L. 103–446, title XII, § 1201(d)(2)][/us/pl/103/446/s1201/d/2], Nov. 2, 1994, [108 Stat. 4684][/us/stat/108/4684]; [Pub. L. 103–452, title I, § 103(a)(1)][/us/pl/103/452/s103/a/1], Nov. 2, 1994, [108 Stat. 4786][/us/stat/108/4786]; [Pub. L. 104–110, title I, § 101(a)(1)][/us/pl/104/110/s101/a/1], Feb. 13, 1996, [110 Stat. 768][/us/stat/110/768]; [Pub. L. 104–262, title I][/us/pl/104/262], §§ 101(a), (b), (d)(2)–(4), 102(a), Oct. 9, 1996, [110 Stat. 3178][/us/stat/110/3178], 3179, 3181; [Pub. L. 104–275, title V, § 505(c)][/us/pl/104/275/s505/c], Oct. 9, 1996, [110 Stat. 3342][/us/stat/110/3342]; [Pub. L. 105–33, title VIII][/us/pl/105/33], §§ 8021(a)(1), 8023(b)(1), (2), Aug. 5, 1997, [111 Stat. 664][/us/stat/111/664], 667; [Pub. L. 105–114, title II, § 209(a)][/us/pl/105/114/s209/a], title IV, § 402(a), Nov. 21, 1997, [111 Stat. 2290][/us/stat/111/2290], 2294; [Pub. L. 105–368, title I, § 102(a)][/us/pl/105/368/s102/a], title X, § 1005(b)(3), Nov. 11, 1998, [112 Stat. 3321][/us/stat/112/3321], 3365; [Pub. L. 106–117, title I][/us/pl/106/117], §§ 101(f), 112(1), title II, § 201(b), Nov. 30, 1999, [113 Stat. 1550][/us/stat/113/1550], 1556, 1561; [Pub. L. 106–419, title II, § 224(b)][/us/pl/106/419/s224/b], Nov. 1, 2000, [114 Stat. 1846][/us/stat/114/1846]; [Pub. L. 107–135, title II][/us/pl/107/135], §§ 202(b), 209(a), 211, Jan. 23, 2002, [115 Stat. 2457][/us/stat/115/2457], 2464, 2465; [Pub. L. 107–330, title III, § 308(g)(6)][/us/pl/107/330/s308/g/6], Dec. 6, 2002, [116 Stat. 2829][/us/stat/116/2829]; [Pub. L. 108–170, title I, § 102][/us/pl/108/170/s102], Dec. 6, 2003, [117 Stat. 2044][/us/stat/117/2044]; [Pub. L. 109–444, § 2(a)][/us/pl/109/444/s2/a], Dec. 21, 2006, [120 Stat. 3304][/us/stat/120/3304]; [Pub. L. 109–461, title II, § 211(a)(3)(B)][/us/pl/109/461/s211/a/3/B], title X, §§ 1003, 1006(b), Dec. 22, 2006, [120 Stat. 3419][/us/stat/120/3419], 3465, 3468; [Pub. L. 110–161, div. I, title II, § 231][/us/pl/110/161/s231], Dec. 26, 2007, [121 Stat. 2273][/us/stat/121/2273]; [Pub. L. 110–181, div. A, title XVII, § 1707][/us/pl/110/181/s1707], Jan. 28, 2008, [122 Stat. 493][/us/stat/122/493]; [Pub. L. 110–329, div. E, title II, § 224][/us/pl/110/329/s224], Sept. 30, 2008, [122 Stat. 3713][/us/stat/122/3713]; [Pub. L. 110–387, title IV, § 409][/us/pl/110/387/s409], title VIII, §§ 803, 804(a), Oct. 10, 2008, [122 Stat. 4130][/us/stat/122/4130], 4141; [Pub. L. 111–163, title V][/us/pl/111/163], §§ 513, 517, May 5, 2010, [124 Stat. 1164][/us/stat/124/1164], 1167; [Pub. L. 112–154, title I][/us/pl/112/154], §§ 102(a), 112, Aug. 6, 2012, [126 Stat. 1167][/us/stat/126/1167], 1176; [Pub. L. 113–37, § 2(c)][/us/pl/113/37/s2/c], Sept. 30, 2013, [127 Stat. 524][/us/stat/127/524]; [Pub. L. 113–175, title I, § 107][/us/pl/113/175/s107], Sept. 26, 2014, [128 Stat. 1903][/us/stat/128/1903]; [Pub. L. 113–235, div. I, title II, § 243][/us/pl/113/235/s243], Dec. 16, 2014, [128 Stat. 2568][/us/stat/128/2568]; [Pub. L. 114–2, § 7][/us/pl/114/2/s7], Feb. 12, 2015, [129 Stat. 36][/us/stat/129/36].)
+([Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1141][/us/stat/72/1141], § 610; [Pub. L. 87–583, § 1][/us/pl/87/583/s1], Aug. 14, 1962, [76 Stat. 381][/us/stat/76/381]; [Pub. L. 89–358, § 8][/us/pl/89/358/s8], Mar. 3, 1966, [80 Stat. 27][/us/stat/80/27]; [Pub. L. 89–785, title III, § 304][/us/pl/89/785/s304], Nov. 7, 1966, [80 Stat. 1377][/us/stat/80/1377]; [Pub. L. 91–500, § 4][/us/pl/91/500/s4], Oct. 22, 1970, [84 Stat. 1096][/us/stat/84/1096]; [Pub. L. 93–82, title I, § 102][/us/pl/93/82/s102], Aug. 2, 1973, [87 Stat. 180][/us/stat/87/180]; [Pub. L. 94–581, title II][/us/pl/94/581], §§ 202(d), 210(a)(1), Oct. 21, 1976, [90 Stat. 2855][/us/stat/90/2855], 2862; [Pub. L. 96–22, title I, § 102(a)][/us/pl/96/22/s102/a], June 13, 1979, [93 Stat. 47][/us/stat/93/47]; [Pub. L. 97–37, § 5(a)][/us/pl/97/37/s5/a], Aug. 14, 1981, [95 Stat. 936][/us/stat/95/936]; [Pub. L. 97–72, title I, § 102(a)][/us/pl/97/72/s102/a], Nov. 3, 1981, [95 Stat. 1047][/us/stat/95/1047]; [Pub. L. 98–160, title VII, § 701][/us/pl/98/160/s701], Nov. 21, 1983, [97 Stat. 1008][/us/stat/97/1008]; [Pub. L. 99–166, title I, § 103][/us/pl/99/166/s103], Dec. 3, 1985, [99 Stat. 944][/us/stat/99/944]; [Pub. L. 99–272, title XIX, § 19011(a)][/us/pl/99/272/s19011/a], (d)(3), Apr. 7, 1986, [100 Stat. 372][/us/stat/100/372], 379; [Pub. L. 99–576, title II, § 237(a)][/us/pl/99/576/s237/a], (b)(1), Oct. 28, 1986, [100 Stat. 3267][/us/stat/100/3267]; [Pub. L. 100–322, title I, § 102(a)][/us/pl/100/322/s102/a], May 20, 1988, [102 Stat. 492][/us/stat/102/492]; [Pub. L. 100–687, div. B, title XII, § 1202][/us/pl/100/687/s1202], Nov. 18, 1988, [102 Stat. 4125][/us/stat/102/4125]; [Pub. L. 101–508, title VIII, § 8013(a)][/us/pl/101/508/s8013/a], Nov. 5, 1990, [104 Stat. 1388–346][/us/stat/104/1388-346]; [Pub. L. 102–4, § 5][/us/pl/102/4/s5], Feb. 6, 1991, [105 Stat. 15][/us/stat/105/15]; [Pub. L. 102–54, § 14(b)(10)][/us/pl/102/54/s14/b/10], June 13, 1991, [105 Stat. 283][/us/stat/105/283]; renumbered § 1710 and amended [Pub. L. 102–83][/us/pl/102/83], §§ 4(a)(3), (4), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, [105 Stat. 404–406][/us/stat/105/404-406]; [Pub. L. 102–405, title III, § 302(c)(1)][/us/pl/102/405/s302/c/1], Oct. 9, 1992, [106 Stat. 1984][/us/stat/106/1984]; [Pub. L. 103–210][/us/pl/103/210], §§ 1(a), 2(a), Dec. 20, 1993, [107 Stat. 2496][/us/stat/107/2496], 2497; [Pub. L. 103–446, title XII, § 1201(d)(2)][/us/pl/103/446/s1201/d/2], Nov. 2, 1994, [108 Stat. 4684][/us/stat/108/4684]; [Pub. L. 103–452, title I, § 103(a)(1)][/us/pl/103/452/s103/a/1], Nov. 2, 1994, [108 Stat. 4786][/us/stat/108/4786]; [Pub. L. 104–110, title I, § 101(a)(1)][/us/pl/104/110/s101/a/1], Feb. 13, 1996, [110 Stat. 768][/us/stat/110/768]; [Pub. L. 104–262, title I][/us/pl/104/262], §§ 101(a), (b), (d)(2)–(4), 102(a), Oct. 9, 1996, [110 Stat. 3178][/us/stat/110/3178], 3179, 3181; [Pub. L. 104–275, title V, § 505(c)][/us/pl/104/275/s505/c], Oct. 9, 1996, [110 Stat. 3342][/us/stat/110/3342]; [Pub. L. 105–33, title VIII][/us/pl/105/33], §§ 8021(a)(1), 8023(b)(1), (2), Aug. 5, 1997, [111 Stat. 664][/us/stat/111/664], 667; [Pub. L. 105–114, title II, § 209(a)][/us/pl/105/114/s209/a], title IV, § 402(a), Nov. 21, 1997, [111 Stat. 2290][/us/stat/111/2290], 2294; [Pub. L. 105–368, title I, § 102(a)][/us/pl/105/368/s102/a], title X, § 1005(b)(3), Nov. 11, 1998, [112 Stat. 3321][/us/stat/112/3321], 3365; [Pub. L. 106–117, title I][/us/pl/106/117], §§ 101(f), 112(1), title II, § 201(b), Nov. 30, 1999, [113 Stat. 1550][/us/stat/113/1550], 1556, 1561; [Pub. L. 106–419, title II, § 224(b)][/us/pl/106/419/s224/b], Nov. 1, 2000, [114 Stat. 1846][/us/stat/114/1846]; [Pub. L. 107–135, title II][/us/pl/107/135], §§ 202(b), 209(a), 211, Jan. 23, 2002, [115 Stat. 2457][/us/stat/115/2457], 2464, 2465; [Pub. L. 107–330, title III, § 308(g)(6)][/us/pl/107/330/s308/g/6], Dec. 6, 2002, [116 Stat. 2829][/us/stat/116/2829]; [Pub. L. 108–170, title I, § 102][/us/pl/108/170/s102], Dec. 6, 2003, [117 Stat. 2044][/us/stat/117/2044]; [Pub. L. 109–444, § 2(a)][/us/pl/109/444/s2/a], Dec. 21, 2006, [120 Stat. 3304][/us/stat/120/3304]; [Pub. L. 109–461, title II, § 211(a)(3)(B)][/us/pl/109/461/s211/a/3/B], title X, §§ 1003, 1006(b), Dec. 22, 2006, [120 Stat. 3419][/us/stat/120/3419], 3465, 3468; [Pub. L. 110–161, div. I, title II, § 231][/us/pl/110/161/s231], Dec. 26, 2007, [121 Stat. 2273][/us/stat/121/2273]; [Pub. L. 110–181, div. A, title XVII, § 1707][/us/pl/110/181/s1707], Jan. 28, 2008, [122 Stat. 493][/us/stat/122/493]; [Pub. L. 110–329, div. E, title II, § 224][/us/pl/110/329/s224], Sept. 30, 2008, [122 Stat. 3713][/us/stat/122/3713]; [Pub. L. 110–387, title IV, § 409][/us/pl/110/387/s409], title VIII, §§ 803, 804(a), Oct. 10, 2008, [122 Stat. 4130][/us/stat/122/4130], 4141; [Pub. L. 111–163, title V][/us/pl/111/163], §§ 513, 517, May 5, 2010, [124 Stat. 1164][/us/stat/124/1164], 1167; [Pub. L. 112–154, title I][/us/pl/112/154], §§ 102(a), 112, Aug. 6, 2012, [126 Stat. 1167][/us/stat/126/1167], 1176; [Pub. L. 113–37, § 2(c)][/us/pl/113/37/s2/c], Sept. 30, 2013, [127 Stat. 524][/us/stat/127/524]; [Pub. L. 113–175, title I, § 107][/us/pl/113/175/s107], Sept. 26, 2014, [128 Stat. 1903][/us/stat/128/1903]; [Pub. L. 113–235, div. I, title II, § 243][/us/pl/113/235/s243], Dec. 16, 2014, [128 Stat. 2568][/us/stat/128/2568]; [Pub. L. 114–2, § 7][/us/pl/114/2/s7], Feb. 12, 2015, [129 Stat. 36][/us/stat/129/36]; [Pub. L. 114–58, title I, § 101][/us/pl/114/58/s101], title VI, § 601(4), Sept. 30, 2015, [129 Stat. 532][/us/stat/129/532], 538.)
 
  __References in Text__ 
-
-    [Section 1712A(a)(2)(B) of this title][/us/usc/t38/s1712A/a/2/B], referred to in subsec. (e)(1)(D), was struck out by [Pub. L. 112–239, div. A, title VII, § 727(1)(B)][/us/pl/112/239/s727/1/B], Jan. 2, 2013, [126 Stat. 1811][/us/stat/126/1811].
 
     Section 3 of the Agent Orange Act of 1991, referred to in subsec. (e)(2)(A)(ii), is [section 3 of Pub. L. 102–4][/us/pl/102/4/s3], which is set out as a note under [section 1116 of this title][/us/usc/t38/s1116].
 
@@ -251,11 +249,17 @@
 
  __Amendments__ 
 
-    2015—Subsec. (e)(3). [Pub. L. 114–2][/us/pl/114/2] amended par. (3) generally. Prior to amendment, par. (3) read as follows: “Hospital care, medical services, and nursing home care may not be provided under or by virtue of subsection (a)(2)(F) in the case of care for a veteran described in paragraph (1)(D) who—
+    2015—Subsec. (e)(1)(D). [Pub. L. 114–58, § 601(4)(A)][/us/pl/114/58/s601/4/A], struck out “(as defined in [section 1712A(a)(2)(B) of this title][/us/usc/t38/s1712A/a/2/B])” after “hostilities”.
+
+    Subsec. (e)(1)(F)(viii). [Pub. L. 114–58, § 601(4)(B)][/us/pl/114/58/s601/4/B], substituted “Myelodysplastic” for “Myleodysplasic”.
+
+    Subsec. (e)(3). [Pub. L. 114–2][/us/pl/114/2] amended par. (3) generally. Prior to amendment, par. (3) read as follows: “Hospital care, medical services, and nursing home care may not be provided under or by virtue of subsection (a)(2)(F) in the case of care for a veteran described in paragraph (1)(D) who—
 
     “(A) is discharged or released from the active military, naval, or air service after the date that is five years before the date of the enactment of the National Defense Authorization Act for Fiscal Year 2008, after a period of five years beginning on the date of such discharge or release; or
 
     “(B) is so discharged or released more than five years before the date of the enactment of that Act and who did not enroll in the patient enrollment system under [section 1705 of this title][/us/usc/t38/s1705] before such date, after a period of three years beginning on the date of the enactment of that Act.”
+
+    Subsec. (f)(2)(B). [Pub. L. 114–58, § 101][/us/pl/114/58/s101], substituted “September 30, 2016” for “September 30, 2015”.
 
     2014—Subsec. (e)(1)(F). [Pub. L. 113–235, § 243][/us/pl/113/235/s243], substituted “August 1, 1953” for “January 1, 1957,” in introductory provisions.
 
@@ -683,7 +687,7 @@
 
  __Pilot Program on Assistance for Child Care for Certain Veterans Receiving Health Care__ 
 
-[Pub. L. 111–163, title II, § 205][/us/pl/111/163/s205], May 5, 2010, [124 Stat. 1144][/us/stat/124/1144], as amended by [Pub. L. 113–37, § 2(i)][/us/pl/113/37/s2/i], Sept. 30, 2013, [127 Stat. 525][/us/stat/127/525]; [Pub. L. 113–175, title I, § 103][/us/pl/113/175/s103], Sept. 26, 2014, [128 Stat. 1903][/us/stat/128/1903], provided that:
+[Pub. L. 111–163, title II, § 205][/us/pl/111/163/s205], May 5, 2010, [124 Stat. 1144][/us/stat/124/1144], as amended by [Pub. L. 113–37, § 2(i)][/us/pl/113/37/s2/i], Sept. 30, 2013, [127 Stat. 525][/us/stat/127/525]; [Pub. L. 113–175, title I, § 103][/us/pl/113/175/s103], Sept. 26, 2014, [128 Stat. 1903][/us/stat/128/1903]; [Pub. L. 114–58, title I, § 105][/us/pl/114/58/s105], Sept. 30, 2015, [129 Stat. 532][/us/stat/129/532], provided that:
 
 >     “(a)  __Pilot Program Required__  __.—__ 
 
@@ -723,7 +727,7 @@
 
 >     “(e)  __Termination__  __.—__ 
 
->     The authority to carry out a pilot program under this section shall terminate on December 31, 2015.
+>     The authority to carry out a pilot program under this section shall terminate on December 31, 2016.
 
 >     “(f) __Forms of Child Care Assistance.—__ 
 
@@ -751,11 +755,11 @@
 
 >     “(h)  __Authorization of Appropriations__  __.—__ 
 
->     There is authorized to be appropriated to the Secretary of Veterans Affairs to carry out the pilot program $1,500,000 for each of fiscal years 2010 and 2015.”
+>     There is authorized to be appropriated to the Secretary of Veterans Affairs to carry out the pilot program $1,500,000 for each of fiscal years 2010, 2015, and 2016.”
 
  __Grants for Veterans Service Organizations for Transportation of Highly Rural Veterans__ 
 
-[Pub. L. 111–163, title III, § 307][/us/pl/111/163/s307], May 5, 2010, [124 Stat. 1154][/us/stat/124/1154], as amended by [Pub. L. 113–175, title I, § 104][/us/pl/113/175/s104], Sept. 26, 2014, [128 Stat. 1903][/us/stat/128/1903], provided that:
+[Pub. L. 111–163, title III, § 307][/us/pl/111/163/s307], May 5, 2010, [124 Stat. 1154][/us/stat/124/1154], as amended by [Pub. L. 113–175, title I, § 104][/us/pl/113/175/s104], Sept. 26, 2014, [128 Stat. 1903][/us/stat/128/1903]; [Pub. L. 114–58, title I, § 106][/us/pl/114/58/s106], Sept. 30, 2015, [129 Stat. 532][/us/stat/129/532], provided that:
 
 >     “(a) __Grants Authorized.—__ 
 
@@ -809,7 +813,7 @@
 
 >     “(d)  __Authorization of Appropriations__  __.—__ 
 
->     There is authorized to be appropriated $3,000,000 for each of fiscal years 2010 through 2015 to carry out this section.”
+>     There is authorized to be appropriated $3,000,000 for each of fiscal years 2010 through 2016 to carry out this section.”
 
  __Continuation of Authority__ 
 
@@ -1220,9 +1224,8 @@
 [/us/stat/128/2568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2568
 [/us/pl/114/2/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F2%2Fs7
 [/us/stat/129/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F36
-[/us/usc/t38/s1712A/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1712A%2Fa%2F2%2FB
-[/us/pl/112/239/s727/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs727%2F1%2FB
-[/us/stat/126/1811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1811
+[/us/pl/114/58/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F58%2Fs101
+[/us/stat/129/532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F532
 [/us/pl/102/4/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F4%2Fs3
 [/us/usc/t38/s1116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1116
 [/us/pl/114/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F2
@@ -1257,8 +1260,12 @@
 [/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/404-406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F404-406
 [/us/usc/t38/s3510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3510
+[/us/pl/114/58/s601/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F58%2Fs601%2F4%2FA
+[/us/usc/t38/s1712A/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1712A%2Fa%2F2%2FB
+[/us/pl/114/58/s601/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F58%2Fs601%2F4%2FB
 [/us/pl/114/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F2
 [/us/usc/t38/s1705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1705
+[/us/pl/114/58/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F58%2Fs101
 [/us/pl/113/235/s243]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs243
 [/us/pl/113/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F175
 [/us/pl/113/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F37
@@ -1491,6 +1498,8 @@
 [/us/stat/127/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F525
 [/us/pl/113/175/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F175%2Fs103
 [/us/stat/128/1903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1903
+[/us/pl/114/58/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F58%2Fs105
+[/us/stat/129/532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F532
 [/us/pl/107/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F67
 [/us/stat/115/552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F552
 [/us/usc/t40/s590/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs590%2Fg
@@ -1498,6 +1507,8 @@
 [/us/stat/124/1154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1154
 [/us/pl/113/175/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F175%2Fs104
 [/us/stat/128/1903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1903
+[/us/pl/114/58/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F58%2Fs106
+[/us/stat/129/532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F532
 [/us/usc/t38/s5902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs5902
 [/us/pl/110/92/s161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F92%2Fs161
 [/us/pl/110/149/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F149%2Fs2

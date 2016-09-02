@@ -25,15 +25,17 @@
 
     (c) The Secretary shall ensure that nursing home care provided under subsection (a) is provided in an age-appropriate manner.
 
-    (d) The provisions of subsection (a) shall terminate on December 31, 2015.
+    (d) The provisions of subsection (a) shall terminate on December 31, 2016.
 
-(Added [Pub. L. 106–117, title I, § 101(a)(1)][/us/pl/106/117/s101/a/1], Nov. 30, 1999, [113 Stat. 1547][/us/stat/113/1547]; amended [Pub. L. 106–419, title II, § 224(a)][/us/pl/106/419/s224/a], Nov. 1, 2000, [114 Stat. 1846][/us/stat/114/1846]; [Pub. L. 108–170, title I, § 106(b)][/us/pl/108/170/s106/b], Dec. 6, 2003, [117 Stat. 2046][/us/stat/117/2046]; [Pub. L. 110–181, div. A, title XVII, § 1706(b)][/us/pl/110/181/s1706/b], Jan. 28, 2008, [122 Stat. 493][/us/stat/122/493]; [Pub. L. 110–387, title VIII, § 805][/us/pl/110/387/s805], Oct. 10, 2008, [122 Stat. 4141][/us/stat/122/4141]; [Pub. L. 113–59, § 8][/us/pl/113/59/s8], Dec. 20, 2013, [127 Stat. 662][/us/stat/127/662]; [Pub. L. 113–175, title I, § 101][/us/pl/113/175/s101], Sept. 26, 2014, [128 Stat. 1902][/us/stat/128/1902].)
+(Added [Pub. L. 106–117, title I, § 101(a)(1)][/us/pl/106/117/s101/a/1], Nov. 30, 1999, [113 Stat. 1547][/us/stat/113/1547]; amended [Pub. L. 106–419, title II, § 224(a)][/us/pl/106/419/s224/a], Nov. 1, 2000, [114 Stat. 1846][/us/stat/114/1846]; [Pub. L. 108–170, title I, § 106(b)][/us/pl/108/170/s106/b], Dec. 6, 2003, [117 Stat. 2046][/us/stat/117/2046]; [Pub. L. 110–181, div. A, title XVII, § 1706(b)][/us/pl/110/181/s1706/b], Jan. 28, 2008, [122 Stat. 493][/us/stat/122/493]; [Pub. L. 110–387, title VIII, § 805][/us/pl/110/387/s805], Oct. 10, 2008, [122 Stat. 4141][/us/stat/122/4141]; [Pub. L. 113–59, § 8][/us/pl/113/59/s8], Dec. 20, 2013, [127 Stat. 662][/us/stat/127/662]; [Pub. L. 113–175, title I, § 101][/us/pl/113/175/s101], Sept. 26, 2014, [128 Stat. 1902][/us/stat/128/1902]; [Pub. L. 114–58, title I, § 102][/us/pl/114/58/s102], Sept. 30, 2015, [129 Stat. 532][/us/stat/129/532].)
 
  __References in Text__ 
 
     The date of the enactment of this section, referred to in subsec. (b)(2), is the date of enactment of [Pub. L. 106–117][/us/pl/106/117], which was approved Nov. 30, 1999.
 
  __Amendments__ 
+
+    2015—Subsec. (d). [Pub. L. 114–58][/us/pl/114/58] substituted “December 31, 2016” for “December 31, 2015”.
 
     2014—Subsec. (d). [Pub. L. 113–175][/us/pl/113/175] substituted “December 31, 2015” for “December 31, 2014”.
 
@@ -81,7 +83,10 @@
 [/us/stat/127/662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F662
 [/us/pl/113/175/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F175%2Fs101
 [/us/stat/128/1902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1902
+[/us/pl/114/58/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F58%2Fs102
+[/us/stat/129/532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F532
 [/us/pl/106/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117
+[/us/pl/114/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F58
 [/us/pl/113/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F175
 [/us/pl/113/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F59
 [/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181

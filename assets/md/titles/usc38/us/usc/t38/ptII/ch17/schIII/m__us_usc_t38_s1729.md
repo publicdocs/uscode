@@ -39,7 +39,7 @@
 
             (E)
 
-             for which care and services are furnished before October 1, 2015, under this chapter to a veteran who—
+             for which care and services are furnished before October 1, 2016, under this chapter to a veteran who—
 
                 (i) has a service-connected disability; and
 
@@ -147,7 +147,7 @@
 
             (D) a person obligated to provide, or to pay the expenses of, health services under a health-plan contract.
 
-(Added [Pub. L. 97–72, title I, § 106(a)(1)][/us/pl/97/72/s106/a/1], Nov. 3, 1981, [95 Stat. 1050][/us/stat/95/1050], § 629; amended [Pub. L. 99–272, title XIX, § 19013(a)][/us/pl/99/272/s19013/a], Apr. 7, 1986, [100 Stat. 382][/us/stat/100/382]; [Pub. L. 100–322, title II, § 202][/us/pl/100/322/s202], May 20, 1988, [102 Stat. 509][/us/stat/102/509]; [Pub. L. 101–508, title VIII, § 8011(a)][/us/pl/101/508/s8011/a]–(c), Nov. 5, 1990, [104 Stat. 1388–344][/us/stat/104/1388-344]; [Pub. L. 102–40, title IV, § 402(d)(1)][/us/pl/102/40/s402/d/1], May 7, 1991, [105 Stat. 239][/us/stat/105/239]; renumbered § 1729 and amended [Pub. L. 102–83][/us/pl/102/83], §§ 4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, [105 Stat. 404–406][/us/stat/105/404-406]; [Pub. L. 102–568, title VI, § 604][/us/pl/102/568/s604], Oct. 29, 1992, [106 Stat. 4343][/us/stat/106/4343]; [Pub. L. 103–66, title XII, § 12003][/us/pl/103/66/s12003], Aug. 10, 1993, [107 Stat. 414][/us/stat/107/414]; [Pub. L. 104–262, title I, § 101(d)(10)][/us/pl/104/262/s101/d/10], Oct. 9, 1996, [110 Stat. 3180][/us/stat/110/3180]; [Pub. L. 105–33, title VIII][/us/pl/105/33], §§ 8022, 8023(b)(4), (d), Aug. 5, 1997, [111 Stat. 665][/us/stat/111/665], 667; [Pub. L. 107–135, title II][/us/pl/107/135], §§ 208(e)(4), 209(b), Jan. 23, 2002, [115 Stat. 2463][/us/stat/115/2463], 2464; [Pub. L. 110–161, div. I, title II, § 232][/us/pl/110/161/s232], Dec. 26, 2007, [121 Stat. 2273][/us/stat/121/2273]; [Pub. L. 110–329, div. E, title II, § 225][/us/pl/110/329/s225], Sept. 30, 2008, [122 Stat. 3713][/us/stat/122/3713]; [Pub. L. 110–387, title VIII, § 804(b)][/us/pl/110/387/s804/b], Oct. 10, 2008, [122 Stat. 4141][/us/stat/122/4141]; [Pub. L. 111–163, title V, § 518][/us/pl/111/163/s518], May 5, 2010, [124 Stat. 1167][/us/stat/124/1167]; [Pub. L. 112–154, title I, § 113][/us/pl/112/154/s113], Aug. 6, 2012, [126 Stat. 1176][/us/stat/126/1176]; [Pub. L. 113–37, § 2(d)][/us/pl/113/37/s2/d], Sept. 30, 2013, [127 Stat. 524][/us/stat/127/524]; [Pub. L. 113–175, title I, § 108][/us/pl/113/175/s108], Sept. 26, 2014, [128 Stat. 1903][/us/stat/128/1903].)
+(Added [Pub. L. 97–72, title I, § 106(a)(1)][/us/pl/97/72/s106/a/1], Nov. 3, 1981, [95 Stat. 1050][/us/stat/95/1050], § 629; amended [Pub. L. 99–272, title XIX, § 19013(a)][/us/pl/99/272/s19013/a], Apr. 7, 1986, [100 Stat. 382][/us/stat/100/382]; [Pub. L. 100–322, title II, § 202][/us/pl/100/322/s202], May 20, 1988, [102 Stat. 509][/us/stat/102/509]; [Pub. L. 101–508, title VIII, § 8011(a)][/us/pl/101/508/s8011/a]–(c), Nov. 5, 1990, [104 Stat. 1388–344][/us/stat/104/1388-344]; [Pub. L. 102–40, title IV, § 402(d)(1)][/us/pl/102/40/s402/d/1], May 7, 1991, [105 Stat. 239][/us/stat/105/239]; renumbered § 1729 and amended [Pub. L. 102–83][/us/pl/102/83], §§ 4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, [105 Stat. 404–406][/us/stat/105/404-406]; [Pub. L. 102–568, title VI, § 604][/us/pl/102/568/s604], Oct. 29, 1992, [106 Stat. 4343][/us/stat/106/4343]; [Pub. L. 103–66, title XII, § 12003][/us/pl/103/66/s12003], Aug. 10, 1993, [107 Stat. 414][/us/stat/107/414]; [Pub. L. 104–262, title I, § 101(d)(10)][/us/pl/104/262/s101/d/10], Oct. 9, 1996, [110 Stat. 3180][/us/stat/110/3180]; [Pub. L. 105–33, title VIII][/us/pl/105/33], §§ 8022, 8023(b)(4), (d), Aug. 5, 1997, [111 Stat. 665][/us/stat/111/665], 667; [Pub. L. 107–135, title II][/us/pl/107/135], §§ 208(e)(4), 209(b), Jan. 23, 2002, [115 Stat. 2463][/us/stat/115/2463], 2464; [Pub. L. 110–161, div. I, title II, § 232][/us/pl/110/161/s232], Dec. 26, 2007, [121 Stat. 2273][/us/stat/121/2273]; [Pub. L. 110–329, div. E, title II, § 225][/us/pl/110/329/s225], Sept. 30, 2008, [122 Stat. 3713][/us/stat/122/3713]; [Pub. L. 110–387, title VIII, § 804(b)][/us/pl/110/387/s804/b], Oct. 10, 2008, [122 Stat. 4141][/us/stat/122/4141]; [Pub. L. 111–163, title V, § 518][/us/pl/111/163/s518], May 5, 2010, [124 Stat. 1167][/us/stat/124/1167]; [Pub. L. 112–154, title I, § 113][/us/pl/112/154/s113], Aug. 6, 2012, [126 Stat. 1176][/us/stat/126/1176]; [Pub. L. 113–37, § 2(d)][/us/pl/113/37/s2/d], Sept. 30, 2013, [127 Stat. 524][/us/stat/127/524]; [Pub. L. 113–175, title I, § 108][/us/pl/113/175/s108], Sept. 26, 2014, [128 Stat. 1903][/us/stat/128/1903]; [Pub. L. 114–58, title I, § 104][/us/pl/114/58/s104], Sept. 30, 2015, [129 Stat. 532][/us/stat/129/532].)
 
  __References in Text__ 
 
@@ -155,11 +155,13 @@
 
  __Amendments__ 
 
-    2014—Subsec. (a)(2)(E). [Pub. L. 113–175][/us/pl/113/175] substituted “October 1, 2015” for “October 1, 2014”.
+    2015—Subsec. (a)(2)(E). [Pub. L. 114–58][/us/pl/114/58] substituted “October 1, 2016” for “October 1, 2015” in introductory provisions.
 
-    2013—Subsec. (a)(2)(E). [Pub. L. 113–37][/us/pl/113/37] substituted “October 1, 2014” for “October 1, 2013”.
+    2014—Subsec. (a)(2)(E). [Pub. L. 113–175][/us/pl/113/175] substituted “October 1, 2015” for “October 1, 2014” in introductory provisions.
 
-    2012—Subsec. (a)(2)(E). [Pub. L. 112–154][/us/pl/112/154] substituted “October 1, 2013” for “October 1, 2012”.
+    2013—Subsec. (a)(2)(E). [Pub. L. 113–37][/us/pl/113/37] substituted “October 1, 2014” for “October 1, 2013” in introductory provisions.
+
+    2012—Subsec. (a)(2)(E). [Pub. L. 112–154][/us/pl/112/154] substituted “October 1, 2013” for “October 1, 2012” in introductory provisions.
 
     2010—Subsec. (a)(2)(E). [Pub. L. 111–163][/us/pl/111/163] amended subpar. (E) generally. Prior to amendment, subpar. (E) read as follows: “for which care and services are furnished before October 1, 2010, under this chapter to a veteran who—
 
@@ -333,9 +335,12 @@
 [/us/stat/127/524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F524
 [/us/pl/113/175/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F175%2Fs108
 [/us/stat/128/1903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1903
+[/us/pl/114/58/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F58%2Fs104
+[/us/stat/129/532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F532
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
 [/us/usc/t42/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1305
+[/us/pl/114/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F58
 [/us/pl/113/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F175
 [/us/pl/113/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F37
 [/us/pl/112/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154

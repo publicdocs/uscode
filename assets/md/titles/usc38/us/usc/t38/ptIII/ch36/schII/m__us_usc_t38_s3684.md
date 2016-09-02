@@ -151,9 +151,9 @@
 
  __Restoration of Prior Reporting Fee Multipliers__ 
 
-[Pub. L. 113–175, title IV, § 406][/us/pl/113/175/s406], Sept. 26, 2014, [128 Stat. 1905][/us/stat/128/1905], provided that: 
+[Pub. L. 113–175, title IV, § 406][/us/pl/113/175/s406], Sept. 26, 2014, [128 Stat. 1905][/us/stat/128/1905], as amended by [Pub. L. 114–58, title IV, § 410][/us/pl/114/58/s410], Sept. 30, 2015, [129 Stat. 535][/us/stat/129/535], provided that: 
 
-> “During the one-year period beginning on the date of the enactment of this Act \[Sept. 26, 2014\], the second sentence of section 3684(c) shall be applied—
+> “During the two-year period beginning on the date of the enactment of this Act \[Sept. 26, 2014\], the second sentence of section 3684(c) shall be applied—
 
 >     “(1) by substituting ‘$9’ for ‘$12’; and
 
@@ -266,5 +266,7 @@
 [/us/usc/t38/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs101
 [/us/pl/113/175/s406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F175%2Fs406
 [/us/stat/128/1905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1905
+[/us/pl/114/58/s410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F58%2Fs410
+[/us/stat/129/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F535
 
 

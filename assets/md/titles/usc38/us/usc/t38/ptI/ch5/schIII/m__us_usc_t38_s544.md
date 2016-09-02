@@ -91,9 +91,9 @@
 
         (5) Pacific-Islander American.
 
-    (e) The Committee shall cease to exist December 31, 2015.
+    (e) The Committee shall cease to exist December 31, 2016.
 
-(Added [Pub. L. 103–446, title V, § 510(a)][/us/pl/103/446/s510/a], Nov. 2, 1994, [108 Stat. 4668][/us/stat/108/4668]; amended [Pub. L. 104–275, title V, § 501(e)(2)][/us/pl/104/275/s501/e/2], (f), Oct. 9, 1996, [110 Stat. 3341][/us/stat/110/3341]; [Pub. L. 106–117, title VIII, § 803][/us/pl/106/117/s803], Nov. 30, 1999, [113 Stat. 1586][/us/stat/113/1586]; [Pub. L. 108–183, title VII, § 703][/us/pl/108/183/s703], Dec. 16, 2003, [117 Stat. 2671][/us/stat/117/2671]; [Pub. L. 110–389, title VIII, § 808][/us/pl/110/389/s808], Oct. 10, 2008, [122 Stat. 4189][/us/stat/122/4189]; [Pub. L. 111–163, title II, § 204(b)][/us/pl/111/163/s204/b], May 5, 2010, [124 Stat. 1144][/us/stat/124/1144]; [Pub. L. 113–175, title IV, § 404][/us/pl/113/175/s404], Sept. 26, 2014, [128 Stat. 1905][/us/stat/128/1905].)
+(Added [Pub. L. 103–446, title V, § 510(a)][/us/pl/103/446/s510/a], Nov. 2, 1994, [108 Stat. 4668][/us/stat/108/4668]; amended [Pub. L. 104–275, title V, § 501(e)(2)][/us/pl/104/275/s501/e/2], (f), Oct. 9, 1996, [110 Stat. 3341][/us/stat/110/3341]; [Pub. L. 106–117, title VIII, § 803][/us/pl/106/117/s803], Nov. 30, 1999, [113 Stat. 1586][/us/stat/113/1586]; [Pub. L. 108–183, title VII, § 703][/us/pl/108/183/s703], Dec. 16, 2003, [117 Stat. 2671][/us/stat/117/2671]; [Pub. L. 110–389, title VIII, § 808][/us/pl/110/389/s808], Oct. 10, 2008, [122 Stat. 4189][/us/stat/122/4189]; [Pub. L. 111–163, title II, § 204(b)][/us/pl/111/163/s204/b], May 5, 2010, [124 Stat. 1144][/us/stat/124/1144]; [Pub. L. 113–175, title IV, § 404][/us/pl/113/175/s404], Sept. 26, 2014, [128 Stat. 1905][/us/stat/128/1905]; [Pub. L. 114–58, title IV, § 406][/us/pl/114/58/s406], Sept. 30, 2015, [129 Stat. 535][/us/stat/129/535].)
 
  __Prior Provisions__ 
 
@@ -102,6 +102,8 @@
     Another prior section 544, [Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1139][/us/stat/72/1139], authorized the payment of a pension to children of World War II or Korean conflict veterans, prior to the general amendment of subchapter III of chapter 15 of this title by [Pub. L. 86–211, § 4][/us/pl/86/211/s4], Aug. 29, 1950, [73 Stat. 434][/us/stat/73/434]. See sections 1542 and 1543 of this title.
 
  __Amendments__ 
+
+    2015—Subsec. (e). [Pub. L. 114–58][/us/pl/114/58] substituted “December 31, 2016” for “December 31, 2015”.
 
     2014—Subsec. (e). [Pub. L. 113–175][/us/pl/113/175] substituted “December 31, 2015” for “December 31, 2014”.
 
@@ -143,6 +145,8 @@
 [/us/stat/124/1144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1144
 [/us/pl/113/175/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F175%2Fs404
 [/us/stat/128/1905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1905
+[/us/pl/114/58/s406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F58%2Fs406
+[/us/stat/129/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F535
 [/us/pl/90/77/s108/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F77%2Fs108%2Fa
 [/us/stat/81/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F180
 [/us/pl/91/588/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F588%2Fs3%2Fa
@@ -161,6 +165,7 @@
 [/us/stat/72/1139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1139
 [/us/pl/86/211/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F211%2Fs4
 [/us/stat/73/434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F434
+[/us/pl/114/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F58
 [/us/pl/113/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F175
 [/us/pl/111/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163
 [/us/pl/110/389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F389

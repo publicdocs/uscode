@@ -391,7 +391,7 @@
 
             (B) such Consumer Price Index for the 12-month period preceding the 12-month period described in subparagraph (A).
 
-        (4) A veteran entitled to a subsistence allowance under this chapter and educational assistance under chapter 33 of this title may elect to receive payment from the Secretary in lieu of an amount otherwise determined by the Secretary under this subsection in an amount equal to the applicable monthly amount of basic allowance for housing payable under [section 403 of title 37][/us/usc/t37/s403] for a member with dependents in pay grade E–5 residing in the military housing area that encompasses all or the majority portion of the ZIP code area in which is located the institution providing  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be followed by “the”. </sup></sup>  rehabilitation program concerned.
+        (4) A veteran entitled to a subsistence allowance under this chapter and educational assistance under chapter 33 of this title may elect to receive payment from the Secretary in lieu of an amount otherwise determined by the Secretary under this subsection in an amount equal to the applicable monthly amount of basic allowance for housing payable under [section 403 of title 37][/us/usc/t37/s403] for a member with dependents in pay grade E–5 residing in the military housing area that encompasses all or the majority portion of the ZIP code area in which is located the institution providing the rehabilitation program concerned.
 
     (c)
 
@@ -439,7 +439,7 @@
 
     (i) Payment of a subsistence allowance may be made in advance in accordance with the provisions of [section 3680(d) of this title][/us/usc/t38/s3680/d].
 
-(Added [Pub. L. 96–466, title I, § 101(a)][/us/pl/96/466/s101/a], Oct. 17, 1980, [94 Stat. 2178][/us/stat/94/2178], § 1508; amended [Pub. L. 97–306, title II, § 205(a)][/us/pl/97/306/s205/a], Oct. 14, 1982, [96 Stat. 1434][/us/stat/96/1434]; [Pub. L. 98–525, title VII, § 703(a)][/us/pl/98/525/s703/a], Oct. 19, 1984, [98 Stat. 2564][/us/stat/98/2564]; [Pub. L. 98–543, title II, § 201][/us/pl/98/543/s201], Oct. 24, 1984, [98 Stat. 2740][/us/stat/98/2740]; [Pub. L. 101–237, title IV][/us/pl/101/237], §§ 402(a), 423(b)(1), Dec. 18, 1989, [103 Stat. 2078][/us/stat/103/2078], 2092; [Pub. L. 102–16, § 3(c)][/us/pl/102/16/s3/c], Mar. 22, 1991, [105 Stat. 49][/us/stat/105/49]; renumbered § 3108 and amended [Pub. L. 102–83, § 5(a)][/us/pl/102/83/s5/a], (c)(1), Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406]; [Pub. L. 102–568, title IV, § 405(a)][/us/pl/102/568/s405/a], (b), Oct. 29, 1992, [106 Stat. 4338][/us/stat/106/4338], 4339; [Pub. L. 103–446, title VI, § 602(b)][/us/pl/103/446/s602/b], Nov. 2, 1994, [108 Stat. 4671][/us/stat/108/4671]; [Pub. L. 104–275, title I, § 101(g)][/us/pl/104/275/s101/g], Oct. 9, 1996, [110 Stat. 3325][/us/stat/110/3325]; [Pub. L. 109–461, title X, § 1002(b)][/us/pl/109/461/s1002/b], Dec. 22, 2006, [120 Stat. 3465][/us/stat/120/3465]; [Pub. L. 111–377, title II, § 205(a)][/us/pl/111/377/s205/a], Jan. 4, 2011, [124 Stat. 4126][/us/stat/124/4126]; [Pub. L. 112–154, title VII, § 701(b)][/us/pl/112/154/s701/b], Aug. 6, 2012, [126 Stat. 1203][/us/stat/126/1203].)
+(Added [Pub. L. 96–466, title I, § 101(a)][/us/pl/96/466/s101/a], Oct. 17, 1980, [94 Stat. 2178][/us/stat/94/2178], § 1508; amended [Pub. L. 97–306, title II, § 205(a)][/us/pl/97/306/s205/a], Oct. 14, 1982, [96 Stat. 1434][/us/stat/96/1434]; [Pub. L. 98–525, title VII, § 703(a)][/us/pl/98/525/s703/a], Oct. 19, 1984, [98 Stat. 2564][/us/stat/98/2564]; [Pub. L. 98–543, title II, § 201][/us/pl/98/543/s201], Oct. 24, 1984, [98 Stat. 2740][/us/stat/98/2740]; [Pub. L. 101–237, title IV][/us/pl/101/237], §§ 402(a), 423(b)(1), Dec. 18, 1989, [103 Stat. 2078][/us/stat/103/2078], 2092; [Pub. L. 102–16, § 3(c)][/us/pl/102/16/s3/c], Mar. 22, 1991, [105 Stat. 49][/us/stat/105/49]; renumbered § 3108 and amended [Pub. L. 102–83, § 5(a)][/us/pl/102/83/s5/a], (c)(1), Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406]; [Pub. L. 102–568, title IV, § 405(a)][/us/pl/102/568/s405/a], (b), Oct. 29, 1992, [106 Stat. 4338][/us/stat/106/4338], 4339; [Pub. L. 103–446, title VI, § 602(b)][/us/pl/103/446/s602/b], Nov. 2, 1994, [108 Stat. 4671][/us/stat/108/4671]; [Pub. L. 104–275, title I, § 101(g)][/us/pl/104/275/s101/g], Oct. 9, 1996, [110 Stat. 3325][/us/stat/110/3325]; [Pub. L. 109–461, title X, § 1002(b)][/us/pl/109/461/s1002/b], Dec. 22, 2006, [120 Stat. 3465][/us/stat/120/3465]; [Pub. L. 111–377, title II, § 205(a)][/us/pl/111/377/s205/a], Jan. 4, 2011, [124 Stat. 4126][/us/stat/124/4126]; [Pub. L. 112–154, title VII, § 701(b)][/us/pl/112/154/s701/b], Aug. 6, 2012, [126 Stat. 1203][/us/stat/126/1203]; [Pub. L. 114–58, title VI, § 601(15)][/us/pl/114/58/s601/15], Sept. 30, 2015, [129 Stat. 539][/us/stat/129/539].)
 
  __Prior Provisions__ 
 
@@ -448,6 +448,8 @@
     Provisions similar to those comprising this section were contained in former [section 1504 of this title][/us/usc/t38/s1504] prior to the general revision of this chapter by [Pub. L. 96–466][/us/pl/96/466].
 
  __Amendments__ 
+
+    2015—Subsec. (b)(4). [Pub. L. 114–58][/us/pl/114/58] inserted “the” before “rehabilitation program concerned”.
 
     2012—Subsec. (a)(2). [Pub. L. 112–154][/us/pl/112/154] designated existing provisions as subpar. (A) and added subpar. (B).
 
@@ -576,9 +578,12 @@
 [/us/stat/124/4126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4126
 [/us/pl/112/154/s701/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154%2Fs701%2Fb
 [/us/stat/126/1203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1203
+[/us/pl/114/58/s601/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F58%2Fs601%2F15
+[/us/stat/129/539]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F539
 [/us/usc/t38/s5308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs5308
 [/us/usc/t38/s1504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1504
 [/us/pl/96/466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F466
+[/us/pl/114/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F58
 [/us/pl/112/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154
 [/us/pl/111/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F377
 [/us/pl/109/461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461

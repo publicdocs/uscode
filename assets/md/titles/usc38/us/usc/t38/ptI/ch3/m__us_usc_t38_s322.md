@@ -47,7 +47,7 @@
 
         (3) In providing assistance under this subsection, the Secretary shall give priority to veterans with service-connected disabilities.
 
-        (4) There is authorized to be appropriated to carry out this subsection $2,000,000 for each of fiscal years 2010 through 2015.
+        (4) There is authorized to be appropriated to carry out this subsection $2,000,000 for each of fiscal years 2010 through 2016.
 
     (e)  __Applicability to Commonwealths and Territories of the United States__  __.—__ 
 
@@ -67,13 +67,15 @@
 
     Nothing in this section shall be construed as a limitation on disabled sports and special events supported by the Department as of the date of the enactment of this section.
 
-(Added [Pub. L. 110–389, title VII, § 703(a)][/us/pl/110/389/s703/a], Oct. 10, 2008, [122 Stat. 4183][/us/stat/122/4183]; amended [Pub. L. 113–37, § 2(a)][/us/pl/113/37/s2/a], Sept. 30, 2013, [127 Stat. 523][/us/stat/127/523]; [Pub. L. 113–59, § 4][/us/pl/113/59/s4], Dec. 20, 2013, [127 Stat. 659][/us/stat/127/659].)
+(Added [Pub. L. 110–389, title VII, § 703(a)][/us/pl/110/389/s703/a], Oct. 10, 2008, [122 Stat. 4183][/us/stat/122/4183]; amended [Pub. L. 113–37, § 2(a)][/us/pl/113/37/s2/a], Sept. 30, 2013, [127 Stat. 523][/us/stat/127/523]; [Pub. L. 113–59, § 4][/us/pl/113/59/s4], Dec. 20, 2013, [127 Stat. 659][/us/stat/127/659]; [Pub. L. 114–58, title IV, § 402][/us/pl/114/58/s402], Sept. 30, 2015, [129 Stat. 534][/us/stat/129/534].)
 
  __References in Text__ 
 
     The date of the enactment of this section, referred to in subsec. (f), is the date of enactment of [Pub. L. 110–389][/us/pl/110/389], which was approved Oct. 10, 2008.
 
  __Amendments__ 
+
+    2015—Subsec. (d)(4). [Pub. L. 114–58][/us/pl/114/58] substituted “2016” for “2015”.
 
     2013—Subsec. (b)(4). [Pub. L. 113–59, § 4(b)][/us/pl/113/59/s4/b], substituted “cooperate with entities with significant experience in managing large-scale adaptive sports programs;” for “cooperate with the United States Olympic Committee and its partners to promote the participation of disabled veterans and disabled members of the Armed Forces in sporting events sponsored by the United States Olympic Committee and its partners;”.
 
@@ -144,7 +146,10 @@
 [/us/stat/127/523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F523
 [/us/pl/113/59/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F59%2Fs4
 [/us/stat/127/659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F659
+[/us/pl/114/58/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F58%2Fs402
+[/us/stat/129/534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F534
 [/us/pl/110/389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F389
+[/us/pl/114/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F58
 [/us/pl/113/59/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F59%2Fs4%2Fb
 [/us/pl/113/37/s2/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F37%2Fs2%2Fa%2F2
 [/us/pl/113/37/s2/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F37%2Fs2%2Fa%2F2

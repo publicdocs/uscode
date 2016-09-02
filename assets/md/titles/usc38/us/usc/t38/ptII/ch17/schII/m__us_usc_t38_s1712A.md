@@ -577,7 +577,7 @@
 
  __Pilot Program on Counseling in Retreat Settings for Women Veterans Newly Separated From Service__ 
 
-[Pub. L. 111–163, title II, § 203][/us/pl/111/163/s203], May 5, 2010, [124 Stat. 1143][/us/stat/124/1143], as amended by [Pub. L. 113–175, title I, § 102][/us/pl/113/175/s102], Sept. 26, 2014, [128 Stat. 1902][/us/stat/128/1902], provided that:
+[Pub. L. 111–163, title II, § 203][/us/pl/111/163/s203], May 5, 2010, [124 Stat. 1143][/us/stat/124/1143], as amended by [Pub. L. 113–175, title I, § 102][/us/pl/113/175/s102], Sept. 26, 2014, [128 Stat. 1902][/us/stat/128/1902]; [Pub. L. 114–58, title I, § 109][/us/pl/114/58/s109], Sept. 30, 2015, [129 Stat. 533][/us/stat/129/533], provided that:
 
 >     “(a) __Pilot Program Required.—__ 
 
@@ -611,7 +611,7 @@
 
 >     “(d)  __Termination__  __.—__ 
 
->     The authority to carry out a pilot program under this section shall terminate on December 31, 2015.
+>     The authority to carry out a pilot program under this section shall terminate on December 31, 2016.
 
 >     “(e)  __Report__  __.—__ 
 
@@ -619,7 +619,7 @@
 
 >     “(f)  __Authorization of Appropriations__  __.—__ 
 
->     There is authorized to be appropriated to the Secretary of Veterans Affairs for each of fiscal years 2010, 2011, and 2015, $2,000,000 to carry out the pilot program.”
+>     There is authorized to be appropriated to the Secretary of Veterans Affairs for each of fiscal years 2010, 2011, 2015, and 2016, $2,000,000 to carry out the pilot program.”
 
  __Program on Readjustment and Mental Health Care Services for Veterans Who Served in Operation Enduring Freedom and Operation Iraqi Freedom__ 
 
@@ -1550,6 +1550,8 @@
 [/us/stat/124/1143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1143
 [/us/pl/113/175/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F175%2Fs102
 [/us/stat/128/1902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1902
+[/us/pl/114/58/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F58%2Fs109
+[/us/stat/129/533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F533
 [/us/pl/111/163/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163%2Fs304
 [/us/stat/124/1150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1150
 [/us/pl/112/239/s730/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs730%2Fb%2F1
