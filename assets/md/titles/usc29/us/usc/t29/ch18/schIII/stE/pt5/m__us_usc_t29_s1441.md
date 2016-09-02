@@ -37,7 +37,7 @@
 
             (B) reduce accrued benefits only to the extent that those benefits are not eligible for the corporation’s guarantee under [section 1322a(b) of this title][/us/usc/t29/s1322a/b];
 
-            (C) comply with the rules for and limitations on benefit reductions under a plan in reorganization, as prescribed in [section 1425 of this title][/us/usc/t29/s1425], except to the extent that the corporation prescribes other rules and limitations in regulations under this section; and
+            (C) comply with the rules for and limitations on benefit reductions under a plan in reorganization, as prescribed in section 1425  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title, except to the extent that the corporation prescribes other rules and limitations in regulations under this section; and
 
             (D) take effect no later than 6 months after the end of the plan year for which it is determined that the value of nonforfeitable benefits exceeds the value of the plan’s assets.
 
@@ -65,6 +65,10 @@
 
 ([Pub. L. 93–406, title IV, § 4281][/us/pl/93/406/s4281], as added [Pub. L. 96–364, title I, § 104(2)][/us/pl/96/364/s104/2], Sept. 26, 1980, [94 Stat. 1261][/us/stat/94/1261].)
 
+ __References in Text__ 
+
+    [Section 1425 of this title][/us/usc/t29/s1425], referred to in subsec. (c)(1)(C), was repealed by [Pub. L. 113–235, div. O, title I, § 108(a)(1)][/us/pl/113/235/s108/a/1], Dec. 16, 2014, [128 Stat. 2786][/us/stat/128/2786].
+
  __Effective Date__ 
 
     Part effective Sept. 26, 1980, except as specifically provided, see [section 1461(e) of this title][/us/usc/t29/s1461/e].
@@ -80,7 +84,6 @@
 [/us/usc/t29/s1341a/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1341a%2Fd
 [/us/usc/t29/s1301/a/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1301%2Fa%2F12
 [/us/usc/t29/s1322a/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1322a%2Fb
-[/us/usc/t29/s1425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1425
 [/us/usc/t29/s1322a/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1322a%2Fg%2F2
 [/us/usc/t29/s1426/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1426%2Fb
 [/us/usc/t29/s1426/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1426%2Fb%2F1
@@ -90,6 +93,9 @@
 [/us/pl/93/406/s4281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs4281
 [/us/pl/96/364/s104/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364%2Fs104%2F2
 [/us/stat/94/1261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1261
+[/us/usc/t29/s1425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1425
+[/us/pl/113/235/s108/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs108%2Fa%2F1
+[/us/stat/128/2786]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2786
 [/us/usc/t29/s1461/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1461%2Fe
 
 

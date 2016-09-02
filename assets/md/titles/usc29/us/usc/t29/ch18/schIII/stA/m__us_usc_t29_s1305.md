@@ -49,7 +49,31 @@
 
             (D) to pay to participants and beneficiaries the estimated amount of benefits which are guaranteed by the corporation under this subchapter and the estimated amount of other benefits to which plan assets are allocated under [section 1344 of this title][/us/usc/t29/s1344], under single-employer plans which are unable to pay benefits when due or which are abandoned.
 
-        (3) Whenever the corporation determines that the moneys of any fund are in excess of current needs, it may request the investment of such amounts as it determines advisable by the Secretary of the Treasury in obligations issued or guaranteed by the United States.
+        (3)
+
+            (A) Whenever the corporation determines that the moneys of any fund are in excess of current needs, it may request the investment of such amounts as it determines advisable by the Secretary of the Treasury in obligations issued or guaranteed by the United States.
+
+            (B)
+
+             Notwithstanding subparagraph (A)—
+
+                (i)
+
+                 the amounts of premiums received under [section 1306 of this title][/us/usc/t29/s1306] with respect to the fund to be used for basic benefits under [section 1322a of this title][/us/usc/t29/s1322a] in a fiscal year in the period beginning with fiscal year 2016 and ending with fiscal year 2020 shall be placed in a noninterest-bearing account within such fund in the following amounts:
+
+                    (I) for fiscal year 2016, $108,000,000;
+
+                    (II) for fiscal year 2017, $111,000,000;
+
+                    (III) for fiscal year 2018, $113,000,000;
+
+                    (IV) for fiscal year 2019, $149,000,000; and
+
+                    (V) for fiscal year 2020, $296,000,000;
+
+                (ii) premiums received in fiscal years specified in subclauses (I) through (V) of clause (i) shall be allocated in order first to the noninterest-bearing account in the amount specified and second to any other accounts within such fund; and
+
+                (iii) financial assistance, as provided under [section 1431 of this title][/us/usc/t29/s1431], shall be withdrawn proportionately from the noninterest-bearing and other accounts within the fund.
 
     (c) __Repealed.__  __[__  __Pub. L. 112–141, div. D, title II, § 40234(a)__  __][/us/pl/112/141/s40234/a]__  __,__  __July 6, 2012__  __,__  __[__  __126 Stat. 858__  __][/us/stat/126/858]__ 
 
@@ -117,9 +141,11 @@
 
         Any stock in a person liable to the corporation under this subchapter which is paid to the corporation by such person or a member of such person’s controlled group in satisfaction of such person’s liability under this subchapter may be voted only by the custodial trustees or outside money managers of the corporation.
 
-([Pub. L. 93–406, title IV, § 4005][/us/pl/93/406/s4005], Sept. 2, 1974, [88 Stat. 1009][/us/stat/88/1009]; [Pub. L. 96–364, title IV, § 403(a)][/us/pl/96/364/s403/a], Sept. 26, 1980, [94 Stat. 1300][/us/stat/94/1300]; [Pub. L. 99–272, title XI, § 11016(a)(1)][/us/pl/99/272/s11016/a/1], (2), (c)(7), Apr. 7, 1986, [100 Stat. 268][/us/stat/100/268], 274; [Pub. L. 100–203, title IX][/us/pl/100/203], §§ 9312(c)(4), 9331(d), Dec. 22, 1987, [101 Stat. 1330–364][/us/stat/101/1330-364], 1330–368; [Pub. L. 103–465, title VII, § 776(b)(2)][/us/pl/103/465/s776/b/2], Dec. 8, 1994, [108 Stat. 5048][/us/stat/108/5048]; [Pub. L. 112–141, div. D, title II, § 40234(a)][/us/pl/112/141/s40234/a], (b)(1), July 6, 2012, [126 Stat. 858][/us/stat/126/858].)
+([Pub. L. 93–406, title IV, § 4005][/us/pl/93/406/s4005], Sept. 2, 1974, [88 Stat. 1009][/us/stat/88/1009]; [Pub. L. 96–364, title IV, § 403(a)][/us/pl/96/364/s403/a], Sept. 26, 1980, [94 Stat. 1300][/us/stat/94/1300]; [Pub. L. 99–272, title XI, § 11016(a)(1)][/us/pl/99/272/s11016/a/1], (2), (c)(7), Apr. 7, 1986, [100 Stat. 268][/us/stat/100/268], 274; [Pub. L. 100–203, title IX][/us/pl/100/203], §§ 9312(c)(4), 9331(d), Dec. 22, 1987, [101 Stat. 1330–364][/us/stat/101/1330-364], 1330–368; [Pub. L. 103–465, title VII, § 776(b)(2)][/us/pl/103/465/s776/b/2], Dec. 8, 1994, [108 Stat. 5048][/us/stat/108/5048]; [Pub. L. 112–141, div. D, title II, § 40234(a)][/us/pl/112/141/s40234/a], (b)(1), July 6, 2012, [126 Stat. 858][/us/stat/126/858]; [Pub. L. 113–235, div. O, title I, § 131(b)][/us/pl/113/235/s131/b], Dec. 16, 2014, [128 Stat. 2797][/us/stat/128/2797].)
 
  __Amendments__ 
+
+    2014—Subsec. (b)(3). [Pub. L. 113–235][/us/pl/113/235] designated existing provisions as subpar. (A) and added subpar. (B).
 
     2012—Subsec. (b)(1). [Pub. L. 112–141, § 40234(b)(1)(A)(i)][/us/pl/112/141/s40234/b/1/A/i], redesignated subpars. (B) to (G) as (A) to (F), respectively, and struck out former subpar. (A) which read as follows: “funds borrowed under subsection (c) of this section,”.
 
@@ -193,6 +219,9 @@
 [/us/usc/t29/s1342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1342
 [/us/usc/t29/s1350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1350
 [/us/usc/t29/s1344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1344
+[/us/usc/t29/s1306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1306
+[/us/usc/t29/s1322a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1322a
+[/us/usc/t29/s1431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1431
 [/us/pl/112/141/s40234/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs40234%2Fa
 [/us/stat/126/858]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F858
 [/us/usc/t29/s1402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1402
@@ -214,6 +243,9 @@
 [/us/stat/108/5048]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F5048
 [/us/pl/112/141/s40234/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs40234%2Fa
 [/us/stat/126/858]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F858
+[/us/pl/113/235/s131/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs131%2Fb
+[/us/stat/128/2797]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2797
+[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
 [/us/pl/112/141/s40234/b/1/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs40234%2Fb%2F1%2FA%2Fi
 [/us/pl/112/141/s40234/b/1/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs40234%2Fb%2F1%2FA%2Fii
 [/us/pl/112/141/s40234/b/1/A/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs40234%2Fb%2F1%2FA%2Fiii

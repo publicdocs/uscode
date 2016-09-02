@@ -67,7 +67,7 @@
 
     (e)
 
-        (1) Except as provided in paragraphs (2), (3), and (4), the amendments to this chapter made by the Multiemployer Pension Plan Amendments Act of 1980 shall take effect on September 26, 1980.
+         (1) Except as provided in paragraphs (2), (3), and (4), the amendments to this chapter made by the Multiemployer Pension Plan Amendments Act of 1980 shall take effect on September 26, 1980.
 
         (2)
 
@@ -77,7 +77,7 @@
 
         (3)
 
-         Sections 1421 through 1426 of this title, relating to multiemployer plan reorganization, shall take effect, with respect to each plan, on the first day of the first plan year beginning on or after the earlier of—
+         Sections 1421 through 1426  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title, relating to multiemployer plan reorganization, shall take effect, with respect to each plan, on the first day of the first plan year beginning on or after the earlier of—
 
             (A) the date on which the last collective bargaining agreement providing for employer contributions under the plan, which was in effect on September 26, 1980, expires, without regard to extensions agreed to on or after September 26, 1980, or
 
@@ -152,6 +152,8 @@
     This chapter, referred to in subsec. (e)(1), was in the original “this Act”, meaning [Pub. L. 93–406][/us/pl/93/406], known as the Employee Retirement Income Security Act of 1974. Titles I, III, and IV of such Act are classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of this title][/us/usc/t29/s1001] and Tables.
 
     The Multiemployer Pension Plan Amendments Act of 1980, referred to in subsecs. (e)(1) and (g)(1)(A), is [Pub. L. 96–364][/us/pl/96/364], Sept. 26, 1980, [94 Stat. 1208][/us/stat/94/1208]. For complete classification of this Act to the Code, see Short Title of 1980 Amendment note set out under [section 1001 of this title][/us/usc/t29/s1001] and Tables.
+
+    Sections 1421 through 1425 of this title, referred to in subsec. (e)(3), were repealed by [Pub. L. 113–235, div. O, title I, § 108(a)(1)][/us/pl/113/235/s108/a/1], Dec. 16, 2014, [128 Stat. 2786][/us/stat/128/2786].
 
     For the effective date of part 1 of subtitle E of this subchapter, referred to in subsec. (g)(1), see subsec. (e)(2) of this section.
 
@@ -284,6 +286,8 @@
 [/us/pl/96/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364
 [/us/stat/94/1208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1208
 [/us/usc/t29/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1001
+[/us/pl/113/235/s108/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs108%2Fa%2F1
+[/us/stat/128/2786]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2786
 [/us/usc/t29/s1381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1381
 [/us/pl/112/141/s40234/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs40234%2Fb%2F2%2FA
 [/us/usc/t29/s1305/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1305%2Fc

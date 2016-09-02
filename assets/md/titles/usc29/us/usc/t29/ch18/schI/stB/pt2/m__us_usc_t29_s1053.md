@@ -193,7 +193,7 @@
 
         (3)
 
-            (A) A right to an accrued benefit derived from employer contributions shall not be treated as forfeitable solely because the plan provides that it is not payable if the participant dies (except in the case of a survivor annuity which is payable as provided in [section 1055 of this title][/us/usc/t29/s1055]).
+             (A) A right to an accrued benefit derived from employer contributions shall not be treated as forfeitable solely because the plan provides that it is not payable if the participant dies (except in the case of a survivor annuity which is payable as provided in [section 1055 of this title][/us/usc/t29/s1055]).
 
             (B)
 
@@ -223,13 +223,13 @@
 
             (E)
 
-                (i) A right to an accrued benefit derived from employer contributions under a multiemployer plan shall not be treated as forfeitable solely because the plan provides that benefits accrued as a result of service with the participant’s employer before the employer had an obligation to contribute under the plan may not be payable if the employer ceases contributions to the multiemployer plan.
+                 (i) A right to an accrued benefit derived from employer contributions under a multiemployer plan shall not be treated as forfeitable solely because the plan provides that benefits accrued as a result of service with the participant’s employer before the employer had an obligation to contribute under the plan may not be payable if the employer ceases contributions to the multiemployer plan.
 
                 (ii)
 
                  A participant’s right to an accrued benefit derived from employer contributions under a multiemployer plan shall not be treated as forfeitable solely because—
 
-                    (I) the plan is amended to reduce benefits under section 1425 or 1441 of this title, or
+                    (I) the plan is amended to reduce benefits under section 1425  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  or 1441 of this title, or
 
                     (II) benefit payments under the plan may be suspended under section 1426 or 1441 of this title.
 
@@ -402,6 +402,10 @@
                 The Secretary of the Treasury shall issue regulations which include in the definition of an applicable defined benefit plan any defined benefit plan (or any portion of such a plan) which has an effect similar to an applicable defined benefit plan.
 
 ([Pub. L. 93–406, title I, § 203][/us/pl/93/406/s203], Sept. 2, 1974, [88 Stat. 854][/us/stat/88/854]; [Pub. L. 96–364, title III, § 303][/us/pl/96/364/s303], Sept. 26, 1980, [94 Stat. 1292][/us/stat/94/1292]; [Pub. L. 98–397, title I][/us/pl/98/397], §§ 102(b), (c), (d)(2), (e)(2), 105(a), Aug. 23, 1984, [98 Stat. 1426–1428][/us/stat/98/1426-1428], 1436; [Pub. L. 99–514, title XI][/us/pl/99/514], §§ 1113(e)(1), (2), (4)(A), 1139(c)(1), title XVIII, § 1898(a)(1)(B), (4)(B)(i), (d)(1)(B), (2)(B), Oct. 22, 1986, [100 Stat. 2447][/us/stat/100/2447], 2448, 2487, 2942, 2944, 2955; [Pub. L. 101–239, title VII][/us/pl/101/239], §§ 7861(a)(1), (5)(B), (6)(B), 7862(d)(4), (5), (10), 7891(a)(1), (b)(1), (2), 7894(c)(3), Dec. 19, 1989, [103 Stat. 2430][/us/stat/103/2430], 2434, 2445, 2449; [Pub. L. 103–465, title VII, § 767(c)(1)][/us/pl/103/465/s767/c/1], Dec. 8, 1994, [108 Stat. 5039][/us/stat/108/5039]; [Pub. L. 104–188, title I, § 1442(b)][/us/pl/104/188/s1442/b], Aug. 20, 1996, [110 Stat. 1808][/us/stat/110/1808]; [Pub. L. 105–34, title X, § 1071(b)(1)][/us/pl/105/34/s1071/b/1], Aug. 5, 1997, [111 Stat. 948][/us/stat/111/948]; [Pub. L. 107–16, title VI][/us/pl/107/16], §§ 633(b), 648(a)(2), June 7, 2001, [115 Stat. 116][/us/stat/115/116], 127; [Pub. L. 108–311, title IV, § 408(b)(8)][/us/pl/108/311/s408/b/8], Oct. 4, 2004, [118 Stat. 1193][/us/stat/118/1193]; [Pub. L. 109–280, title I, § 108(a)(4)][/us/pl/109/280/s108/a/4], formerly § 107(a)(4), title VII, § 701(a)(2), title IX, §§ 902(d)(2)(E), 904(b), Aug. 17, 2006, [120 Stat. 819][/us/stat/120/819], 984, 1038, 1049, renumbered [Pub. L. 111–192, title II, § 202(a)][/us/pl/111/192/s202/a], June 25, 2010, [124 Stat. 1297][/us/stat/124/1297]; [Pub. L. 110–458, title I, § 107(a)(1)][/us/pl/110/458/s107/a/1], Dec. 23, 2008, [122 Stat. 5107][/us/stat/122/5107].)
+
+ __References in Text__ 
+
+    [Section 1425 of this title][/us/usc/t29/s1425], referred to in subsec. (a)(3)(E)(ii)(I), was repealed by [Pub. L. 113–235, div. O, title I, § 108(a)(1)][/us/pl/113/235/s108/a/1], Dec. 16, 2014, [128 Stat. 2786][/us/stat/128/2786].
 
  __Amendments__ 
 
@@ -631,6 +635,9 @@
 [/us/stat/124/1297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1297
 [/us/pl/110/458/s107/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2Fs107%2Fa%2F1
 [/us/stat/122/5107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F5107
+[/us/usc/t29/s1425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1425
+[/us/pl/113/235/s108/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs108%2Fa%2F1
+[/us/stat/128/2786]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2786
 [/us/pl/110/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458
 [/us/usc/t29/s1054/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1054%2Fc
 [/us/usc/t29/s1055/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1055%2Fg

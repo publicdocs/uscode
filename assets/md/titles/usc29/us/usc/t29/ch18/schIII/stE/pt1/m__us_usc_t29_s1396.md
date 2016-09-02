@@ -31,7 +31,7 @@
 
                 (i) the number of contribution base units for which the employer would have been required to make contributions for the prior plan year if the employer had not withdrawn, multiplied by
 
-                (ii) the contribution rate for the plan year which would be required to meet the amortization schedules contained in [section 1423(d)(3)(B)(ii) of this title][/us/usc/t29/s1423/d/3/B/ii] (determined without regard to any limitation on such rate otherwise provided by this subchapter)
+                (ii) the contribution rate for the plan year which would be required to meet the amortization schedules contained in section 1423(d)(3)(B)(ii)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title (determined without regard to any limitation on such rate otherwise provided by this subchapter)
 
             except that an employer shall not be required to pay an amount in excess of the withdrawal liability computed with interest; and
 
@@ -43,7 +43,7 @@
 
             (B) at least 50 percent of the withdrawal liability attributable to the first 33 percent decline described in subparagraph (A) has been determined by the plan sponsor to be uncollectible within the meaning of regulations of the corporation of general applicability; and
 
-            (C) the rate of employer contributions under the plan for each plan year following the first plan year beginning after September 26, 1980 and preceding the termination date equals or exceeds the rate described in [section 1423(d)(3) of this title][/us/usc/t29/s1423/d/3].
+            (C) the rate of employer contributions under the plan for each plan year following the first plan year beginning after September 26, 1980 and preceding the termination date equals or exceeds the rate described in section 1423(d)(3) 1 of this title.
 
     (b) __Covered plans__ 
 
@@ -73,6 +73,10 @@
 
 ([Pub. L. 93–406, title IV, § 4216][/us/pl/93/406/s4216], as added [Pub. L. 96–364, title I, § 104(2)][/us/pl/96/364/s104/2], Sept. 26, 1980, [94 Stat. 1234][/us/stat/94/1234].)
 
+ __References in Text__ 
+
+    [Section 1423 of this title][/us/usc/t29/s1423], referred to in subsec. (a)(1)(B)(ii), (2)(C), was repealed by [Pub. L. 113–235, div. O, title I, § 108(a)(1)][/us/pl/113/235/s108/a/1], Dec. 16, 2014, [128 Stat. 2786][/us/stat/128/2786].
+
 ----------
 
 [Previous](./../../../../../../..//us/usc/t29/ch18/schIII/stE/pt1/m__us_usc_t29_s1395.md) | [Next](./../../../../../../..//us/usc/t29/ch18/schIII/stE/pt1/m__us_usc_t29_s1397.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1396)
@@ -83,12 +87,13 @@
 [/us/usc/t26/s404/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs404%2Fc
 [/us/usc/t29/s1341a/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1341a%2Fa%2F2
 [/us/usc/t29/s1399/c/1/C/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1399%2Fc%2F1%2FC%2Fi
-[/us/usc/t29/s1423/d/3/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1423%2Fd%2F3%2FB%2Fii
 [/us/usc/t29/s1341a/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1341a%2Fa%2F2
-[/us/usc/t29/s1423/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1423%2Fd%2F3
 [/us/usc/t26/s404/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs404%2Fc
 [/us/pl/93/406/s4216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs4216
 [/us/pl/96/364/s104/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364%2Fs104%2F2
 [/us/stat/94/1234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1234
+[/us/usc/t29/s1423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1423
+[/us/pl/113/235/s108/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs108%2Fa%2F1
+[/us/stat/128/2786]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2786
 
 

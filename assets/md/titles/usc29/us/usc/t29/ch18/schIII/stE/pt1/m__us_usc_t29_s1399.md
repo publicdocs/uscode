@@ -141,15 +141,17 @@
 
     (d) __Applicability of statutory prohibitions__ 
 
-        The prohibitions provided in [section 1106(a) of this title][/us/usc/t29/s1106/a] do not apply to any action required or permitted under this part.
+        The prohibitions provided in [section 1106(a) of this title][/us/usc/t29/s1106/a] do not apply to any action required or permitted under this part or to any arrangement relating to withdrawal liability involving the plan.
 
-([Pub. L. 93–406, title IV, § 4219][/us/pl/93/406/s4219], as added [Pub. L. 96–364, title I, § 104(2)][/us/pl/96/364/s104/2], Sept. 26, 1980, [94 Stat. 1236][/us/stat/94/1236]; amended [Pub. L. 98–369, div. A, title V, § 558(b)(1)(B)][/us/pl/98/369/s558/b/1/B], July 18, 1984, [98 Stat. 899][/us/stat/98/899].)
+([Pub. L. 93–406, title IV, § 4219][/us/pl/93/406/s4219], as added [Pub. L. 96–364, title I, § 104(2)][/us/pl/96/364/s104/2], Sept. 26, 1980, [94 Stat. 1236][/us/stat/94/1236]; amended [Pub. L. 98–369, div. A, title V, § 558(b)(1)(B)][/us/pl/98/369/s558/b/1/B], July 18, 1984, [98 Stat. 899][/us/stat/98/899]; [Pub. L. 113–235, div. O, title II, § 201(a)(7)(B)][/us/pl/113/235/s201/a/7/B], Dec. 16, 2014, [128 Stat. 2810][/us/stat/128/2810].)
 
  __References in Text__ 
 
     This chapter, referred to in subsec. (c)(7)(A), was in the original “this Act”, meaning [Pub. L. 93–406][/us/pl/93/406], known as the Employee Retirement Income Security Act of 1974. Titles I, III, and IV of such Act are classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of this title][/us/usc/t29/s1001] and Tables.
 
  __Amendments__ 
+
+    2014—Subsec. (d). [Pub. L. 113–235][/us/pl/113/235] inserted “or to any arrangement relating to withdrawal liability involving the plan” before period at end.
 
     1984—Subsec. (c)(1)(C)(iii). [Pub. L. 98–369][/us/pl/98/369] substituted “September 26, 1980” for “April 29, 1980”.
 
@@ -173,8 +175,11 @@
 [/us/stat/94/1236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1236
 [/us/pl/98/369/s558/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs558%2Fb%2F1%2FB
 [/us/stat/98/899]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F899
+[/us/pl/113/235/s201/a/7/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs201%2Fa%2F7%2FB
+[/us/stat/128/2810]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2810
 [/us/pl/93/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406
 [/us/usc/t29/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1001
+[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 
 

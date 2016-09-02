@@ -75,9 +75,11 @@
 
                     (IV) $2.60 for each participant, for the ninth plan year, and for each succeeding plan year,
 
-                (iv) in the case of a multiemployer plan, for plan years beginning after December 31, 2005, and before January 1, 2013, $8.00 for each individual who is a participant in such plan during the applicable plan year, or
+                (iv) in the case of a multiemployer plan, for plan years beginning after December 31, 2005, and before January 1, 2013, $8.00 for each individual who is a participant in such plan during the applicable plan year,
 
-                (v) in the case of a multiemployer plan, for plan years beginning after December 31, 2012, $12.00 for each individual who is a participant in such plan during the applicable plan year.
+                (v) in the case of a multiemployer plan, for plan years beginning after December 31, 2012, and before January 1, 2015, $12.00 for each individual who is a participant in such plan during the applicable plan year, or
+
+                (vi) in the case of a multiemployer plan, for plan years beginning after December 31, 2014, $26 for each individual who is a participant in such plan during the applicable plan year.
 
             (B) The corporation may prescribe by regulation the extent to which the rate described in subparagraph (A)(i) applies more than once for any plan year to an individual participating in more than one plan maintained by the same employer, and the corporation may prescribe regulations under which the rate described in clause (iii) or (iv) of subparagraph (A) will not apply to the same participant in any multiemployer plan more than once for any plan year.
 
@@ -226,6 +228,22 @@
                     (I) the national average wage index (as defined in [section 409(k)(1) of title 42][/us/usc/t42/s409/k/1]) for the first of the 2 calendar years preceding the calendar year in which such plan year begins, to
 
                     (II) the national average wage index (as so defined) for 2014; and
+
+                (ii) such dollar amount for plan years beginning in the preceding calendar year.
+
+                If the amount determined under this subparagraph is not a multiple of $1, such product shall be rounded to the nearest multiple of $1.
+
+            (M)
+
+             For each plan year beginning in a calendar year after 2015, there shall be substituted for the dollar amount specified in clause (vi) of subparagraph (A) an amount equal to the greater of—
+
+                (i)
+
+                 the product derived by multiplying such dollar amount by the ratio of—
+
+                    (I) the national average wage index (as defined in [section 409(k)(1) of title 42][/us/usc/t42/s409/k/1]) for the first of the 2 calendar years preceding the calendar year in which such plan year begins, to
+
+                    (II) the national average wage index (as so defined) for 2013; and
 
                 (ii) such dollar amount for plan years beginning in the preceding calendar year.
 
@@ -417,13 +435,17 @@
 
                 (ii) the denominator of which is 12.
 
-([Pub. L. 93–406, title IV, § 4006][/us/pl/93/406/s4006], Sept. 2, 1974, [88 Stat. 1010][/us/stat/88/1010]; [Pub. L. 96–364, title I, § 105][/us/pl/96/364/s105], Sept. 26, 1980, [94 Stat. 1264][/us/stat/94/1264]; [Pub. L. 99–272, title XI, § 11005(a)][/us/pl/99/272/s11005/a]–(c)(3), Apr. 7, 1986, [100 Stat. 240–242][/us/stat/100/240-242]; [Pub. L. 100–203, title IX, § 9331(a)][/us/pl/100/203/s9331/a], (b), (e), Dec. 22, 1987, [101 Stat. 1330–367][/us/stat/101/1330-367], 1330–368; [Pub. L. 101–239, title VII, § 7881(h)][/us/pl/101/239/s7881/h], Dec. 19, 1989, [103 Stat. 2442][/us/stat/103/2442]; [Pub. L. 101–508, title XII, § 12021(a)][/us/pl/101/508/s12021/a], (b), Nov. 5, 1990, [104 Stat. 1388–573][/us/stat/104/1388-573]; [Pub. L. 103–465, title VII, § 774(a)(1)][/us/pl/103/465/s774/a/1], (b)(1), (2), Dec. 8, 1994, [108 Stat. 5045][/us/stat/108/5045], 5046; [Pub. L. 107–147, title IV, § 405(c)][/us/pl/107/147/s405/c], Mar. 9, 2002, [116 Stat. 43][/us/stat/116/43]; [Pub. L. 108–218, title I, § 101(a)(4)][/us/pl/108/218/s101/a/4], Apr. 10, 2004, [118 Stat. 597][/us/stat/118/597]; [Pub. L. 108–311, title IV, § 403(d)][/us/pl/108/311/s403/d], Oct. 4, 2004, [118 Stat. 1187][/us/stat/118/1187]; [Pub. L. 109–171, title VIII, § 8101(a)][/us/pl/109/171/s8101/a]–(c), Feb. 8, 2006, [120 Stat. 180–182][/us/stat/120/180-182]; [Pub. L. 109–280, title III, § 301(a)(3)][/us/pl/109/280/s301/a/3], title IV, §§ 401(a)(1), (b)(1), (2)(A), 405(a), Aug. 17, 2006, [120 Stat. 919][/us/stat/120/919], 922, 928; [Pub. L. 110–458, title I, § 104(a)][/us/pl/110/458/s104/a], Dec. 23, 2008, [122 Stat. 5104][/us/stat/122/5104]; [Pub. L. 112–141, div. D, title II][/us/pl/112/141], §§ 40211(b)(3)(C), 40221, 40222, July 6, 2012, [126 Stat. 849–852][/us/stat/126/849-852]; [Pub. L. 113–67, div. A, title VII, § 703(a)][/us/pl/113/67/s703/a]–(d), Dec. 26, 2013, [127 Stat. 1190][/us/stat/127/1190], 1191.)
+([Pub. L. 93–406, title IV, § 4006][/us/pl/93/406/s4006], Sept. 2, 1974, [88 Stat. 1010][/us/stat/88/1010]; [Pub. L. 96–364, title I, § 105][/us/pl/96/364/s105], Sept. 26, 1980, [94 Stat. 1264][/us/stat/94/1264]; [Pub. L. 99–272, title XI, § 11005(a)][/us/pl/99/272/s11005/a]–(c)(3), Apr. 7, 1986, [100 Stat. 240–242][/us/stat/100/240-242]; [Pub. L. 100–203, title IX, § 9331(a)][/us/pl/100/203/s9331/a], (b), (e), Dec. 22, 1987, [101 Stat. 1330–367][/us/stat/101/1330-367], 1330–368; [Pub. L. 101–239, title VII, § 7881(h)][/us/pl/101/239/s7881/h], Dec. 19, 1989, [103 Stat. 2442][/us/stat/103/2442]; [Pub. L. 101–508, title XII, § 12021(a)][/us/pl/101/508/s12021/a], (b), Nov. 5, 1990, [104 Stat. 1388–573][/us/stat/104/1388-573]; [Pub. L. 103–465, title VII, § 774(a)(1)][/us/pl/103/465/s774/a/1], (b)(1), (2), Dec. 8, 1994, [108 Stat. 5045][/us/stat/108/5045], 5046; [Pub. L. 107–147, title IV, § 405(c)][/us/pl/107/147/s405/c], Mar. 9, 2002, [116 Stat. 43][/us/stat/116/43]; [Pub. L. 108–218, title I, § 101(a)(4)][/us/pl/108/218/s101/a/4], Apr. 10, 2004, [118 Stat. 597][/us/stat/118/597]; [Pub. L. 108–311, title IV, § 403(d)][/us/pl/108/311/s403/d], Oct. 4, 2004, [118 Stat. 1187][/us/stat/118/1187]; [Pub. L. 109–171, title VIII, § 8101(a)][/us/pl/109/171/s8101/a]–(c), Feb. 8, 2006, [120 Stat. 180–182][/us/stat/120/180-182]; [Pub. L. 109–280, title III, § 301(a)(3)][/us/pl/109/280/s301/a/3], title IV, §§ 401(a)(1), (b)(1), (2)(A), 405(a), Aug. 17, 2006, [120 Stat. 919][/us/stat/120/919], 922, 928; [Pub. L. 110–458, title I, § 104(a)][/us/pl/110/458/s104/a], Dec. 23, 2008, [122 Stat. 5104][/us/stat/122/5104]; [Pub. L. 112–141, div. D, title II][/us/pl/112/141], §§ 40211(b)(3)(C), 40221, 40222, July 6, 2012, [126 Stat. 849–852][/us/stat/126/849-852]; [Pub. L. 113–67, div. A, title VII, § 703(a)][/us/pl/113/67/s703/a]–(d), Dec. 26, 2013, [127 Stat. 1190][/us/stat/127/1190], 1191; [Pub. L. 113–235, div. O, title I, § 131(a)][/us/pl/113/235/s131/a], Dec. 16, 2014, [128 Stat. 2796][/us/stat/128/2796].)
 
  __References in Text__ 
 
     The plan year within which the date of enactment of the Multiemployer Pension Plan Amendments Act of 1980 falls, referred to in subsec. (a)(3)(A)(ii), refers to the plan year within which the date of the enactment of [Pub. L. 96–364][/us/pl/96/364] falls, such enactment being approved Sept. 26, 1980.
 
  __Amendments__ 
+
+    2014—Subsec. (a)(3)(A)(v), (vi). [Pub. L. 113–235, § 131(a)(1)][/us/pl/113/235/s131/a/1], inserted “and before January 1, 2015,” after “December 31, 2012,” in cl. (v) and added cl. (vi).
+
+    Subsec. (a)(3)(M). [Pub. L. 113–235, § 131(a)(2)][/us/pl/113/235/s131/a/2], added subpar. (M).
 
     2013—Subsec. (a)(3)(A)(i)(III). [Pub. L. 113–67, § 703(a)(2)][/us/pl/113/67/s703/a/2], inserted “and before January 1, 2015,” after “December 31, 2013”.
 
@@ -564,6 +586,12 @@
     Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 
     Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
+
+ __Effective Date of 2014 Amendment__ 
+
+[Pub. L. 113–235, div. O, title I, § 131(d)][/us/pl/113/235/s131/d], Dec. 16, 2014, [128 Stat. 2798][/us/stat/128/2798], provided that: 
+
+> “The amendments made by subsection (a) \[amending this section\] shall apply with respect to plan years beginning after December 31, 2014.”
 
  __Effective Date of 2013 Amendment__ 
 
@@ -808,6 +836,7 @@
 [/us/usc/t42/s409/k/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs409%2Fk%2F1
 [/us/usc/t42/s409/k/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs409%2Fk%2F1
 [/us/usc/t42/s409/k/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs409%2Fk%2F1
+[/us/usc/t42/s409/k/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs409%2Fk%2F1
 [/us/usc/t29/s1322a/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1322a%2Ff
 [/us/usc/t29/s1322a/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1322a%2Fg%2F2
 [/us/usc/t29/s1322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1322
@@ -849,7 +878,11 @@
 [/us/stat/126/849-852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F849-852
 [/us/pl/113/67/s703/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs703%2Fa
 [/us/stat/127/1190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1190
+[/us/pl/113/235/s131/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs131%2Fa
+[/us/stat/128/2796]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2796
 [/us/pl/96/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364
+[/us/pl/113/235/s131/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs131%2Fa%2F1
+[/us/pl/113/235/s131/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs131%2Fa%2F2
 [/us/pl/113/67/s703/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs703%2Fa%2F2
 [/us/pl/113/67/s703/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs703%2Fa%2F1
 [/us/pl/113/67/s703/d/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs703%2Fd%2F1%2FA
@@ -920,6 +953,8 @@
 [/us/pl/96/364/s105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364%2Fs105%2Fa
 [/us/pl/96/364/s105/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364%2Fs105%2Fb
 [/us/pl/96/364/s105/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364%2Fs105%2Fc
+[/us/pl/113/235/s131/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs131%2Fd
+[/us/stat/128/2798]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2798
 [/us/pl/113/67/s703/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs703%2Fe
 [/us/stat/127/1192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1192
 [/us/pl/112/141/s40211/b/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs40211%2Fb%2F3%2FC

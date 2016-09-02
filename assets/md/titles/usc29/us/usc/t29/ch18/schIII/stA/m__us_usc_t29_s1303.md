@@ -63,7 +63,7 @@
 
     (f) __Civil actions against corporation; appropriate court; award of costs and expenses; limitation on actions; jurisdiction; removal of actions__ 
 
-        (1) Except with respect to withdrawal liability disputes under part 1 of subtitle E of this subchapter, any person who is a fiduciary, employer, contributing sponsor, member of a contributing sponsor’s controlled group, participant, or beneficiary, and is adversely affected by any action of the corporation with respect to a plan in which such person has an interest, or who is an employee organization representing such a participant or beneficiary so adversely affected for purposes of collective bargaining with respect to such plan, may bring an action against the corporation for appropriate equitable relief in the appropriate court.
+        (1) Except with respect to withdrawal liability disputes under part 1 of subtitle E of this subchapter, any person who is a plan sponsor, fiduciary, employer, contributing sponsor, member of a contributing sponsor’s controlled group, participant, or beneficiary, and is adversely affected by any action of the corporation with respect to a plan in which such person has an interest, or who is an employee organization representing such a participant or beneficiary so adversely affected for purposes of collective bargaining with respect to such plan, may bring an action against the corporation for appropriate equitable relief in the appropriate court.
 
         (2)
 
@@ -101,7 +101,7 @@
 
         (7) In any suit, action, or proceeding in which the corporation is a party, or intervenes under [section 1451 of this title][/us/usc/t29/s1451], in any State court, the corporation may, without bond or security, remove such suit, action, or proceeding from the State court to the United States district court for the district or division in which such suit, action, or proceeding is pending by following any procedure for removal now or hereafter in effect.
 
-([Pub. L. 93–406, title IV, § 4003][/us/pl/93/406/s4003], Sept. 2, 1974, [88 Stat. 1006][/us/stat/88/1006]; [Pub. L. 96–364, title IV][/us/pl/96/364], §§ 402(a)(2), 403(k), Sept. 26, 1980, [94 Stat. 1297][/us/stat/94/1297], 1302; [Pub. L. 98–620, title IV, § 402(33)][/us/pl/98/620/s402/33], Nov. 8, 1984, [98 Stat. 3360][/us/stat/98/3360]; [Pub. L. 99–272, title XI][/us/pl/99/272], §§ 11014(b)(1), (2), 11016(c)(5), Apr. 7, 1986, [100 Stat. 262][/us/stat/100/262], 264, 274; [Pub. L. 103–465, title VII][/us/pl/103/465], §§ 773(a), 776(b)(1), Dec. 8, 1994, [108 Stat. 5044][/us/stat/108/5044], 5048; [Pub. L. 109–280, title I, § 108(b)(2)][/us/pl/109/280/s108/b/2], formerly § 107(b)(2), title IV, § 411(a)(2), Aug. 17, 2006, [120 Stat. 819][/us/stat/120/819], 935, renumbered [Pub. L. 111–192, title II, § 202(a)][/us/pl/111/192/s202/a], June 25, 2010, [124 Stat. 1297][/us/stat/124/1297]; [Pub. L. 113–97, title I, § 102(b)(7)][/us/pl/113/97/s102/b/7], Apr. 7, 2014, [128 Stat. 1117][/us/stat/128/1117].)
+([Pub. L. 93–406, title IV, § 4003][/us/pl/93/406/s4003], Sept. 2, 1974, [88 Stat. 1006][/us/stat/88/1006]; [Pub. L. 96–364, title IV][/us/pl/96/364], §§ 402(a)(2), 403(k), Sept. 26, 1980, [94 Stat. 1297][/us/stat/94/1297], 1302; [Pub. L. 98–620, title IV, § 402(33)][/us/pl/98/620/s402/33], Nov. 8, 1984, [98 Stat. 3360][/us/stat/98/3360]; [Pub. L. 99–272, title XI][/us/pl/99/272], §§ 11014(b)(1), (2), 11016(c)(5), Apr. 7, 1986, [100 Stat. 262][/us/stat/100/262], 264, 274; [Pub. L. 103–465, title VII][/us/pl/103/465], §§ 773(a), 776(b)(1), Dec. 8, 1994, [108 Stat. 5044][/us/stat/108/5044], 5048; [Pub. L. 109–280, title I, § 108(b)(2)][/us/pl/109/280/s108/b/2], formerly § 107(b)(2), title IV, § 411(a)(2), Aug. 17, 2006, [120 Stat. 819][/us/stat/120/819], 935, renumbered [Pub. L. 111–192, title II, § 202(a)][/us/pl/111/192/s202/a], June 25, 2010, [124 Stat. 1297][/us/stat/124/1297]; [Pub. L. 113–97, title I, § 102(b)(7)][/us/pl/113/97/s102/b/7], Apr. 7, 2014, [128 Stat. 1117][/us/stat/128/1117]; [Pub. L. 113–235, div. O, title II, § 201(a)(7)(C)][/us/pl/113/235/s201/a/7/C], Dec. 16, 2014, [128 Stat. 2810][/us/stat/128/2810].)
 
  __References in Text__ 
 
@@ -110,6 +110,8 @@
  __Amendments__ 
 
     2014—Subsec. (e)(1)(B). [Pub. L. 113–97][/us/pl/113/97] substituted “section 1083(k)(1)(A) and (B) or 1085a(g)(1)(A) and (B) of this title or section 430(k)(1)(A) and (B) or 433(g)(1)(A) and (B) of title 26” for “section 1083(k)(1)(A) and (B) of this title or section 430(k)(1)(A) and (B) of title 26”.
+
+    Subsec. (f)(1). [Pub. L. 113–235][/us/pl/113/235] inserted “plan sponsor,” before “fiduciary”.
 
     2006—Subsec. (b). [Pub. L. 109–280, § 411(a)(2)][/us/pl/109/280/s411/a/2], substituted “under this subchapter, the Director, any member” for “under this subchapter, any member” and “designated by the Director or chairman” for “designated by the chairman”.
 
@@ -200,10 +202,13 @@
 [/us/stat/124/1297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1297
 [/us/pl/113/97/s102/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97%2Fs102%2Fb%2F7
 [/us/stat/128/1117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1117
+[/us/pl/113/235/s201/a/7/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs201%2Fa%2F7%2FC
+[/us/stat/128/2810]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2810
 [/us/usc/t29/s1349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1349
 [/us/pl/100/203/s9312/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs9312%2Fa
 [/us/stat/101/1330-361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-361
 [/us/pl/113/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97
+[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
 [/us/pl/109/280/s411/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs411%2Fa%2F2
 [/us/pl/109/280/s108/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs108%2Fb%2F2
 [/us/pl/111/192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F192

@@ -225,10 +225,6 @@
 
 ([Pub. L. 93–406, title I, § 302][/us/pl/93/406/s302], as added and amended [Pub. L. 109–280, title I, § 101(b)][/us/pl/109/280/s101/b], title II, § 202(d), Aug. 17, 2006, [120 Stat. 784][/us/stat/120/784], 885; [Pub. L. 110–458, title I][/us/pl/110/458], §§ 101(a)(1), 102(b)(1)(A), Dec. 23, 2008, [122 Stat. 5093][/us/stat/122/5093], 5100; [Pub. L. 113–97, title I, § 102(b)(1)][/us/pl/113/97/s102/b/1], (2), Apr. 7, 2014, [128 Stat. 1115][/us/stat/128/1115].)
 
- __Amendment of Section__ 
-
-    For termination of amendment by [section 221(c) of Pub. L. 109–280][/us/pl/109/280/s221/c], see Effective and Termination Dates of 2006 Amendment note below.
-
  __Prior Provisions__ 
 
     A prior section 1082, [Pub. L. 93–406, title I, § 302][/us/pl/93/406/s302], Sept. 2, 1974, [88 Stat. 869][/us/stat/88/869]; [Pub. L. 96–364, title III, § 304(b)][/us/pl/96/364/s304/b], Sept. 26, 1980, [94 Stat. 1293][/us/stat/94/1293]; [Pub. L. 100–203, title IX][/us/pl/100/203], §§ 9301(b), 9303(b), (d)(2), 9304(a)(2), (b)(2), (e)(2), 9305(b)(2), 9307(a)(2), (b)(2), (e)(2), Dec. 22, 1987, [101 Stat. 1330–332][/us/stat/101/1330-332], 1330–337, 1330–342, 1330–344, 1330–346, 1330–349, 1330–352, 1330–356 to 1330–358; [Pub. L. 100–647, title II, § 2005(a)(2)(B)][/us/pl/100/647/s2005/a/2/B], (d)(2), Nov. 10, 1988, [102 Stat. 3610][/us/stat/102/3610], 3612; [Pub. L. 101–239, title VII][/us/pl/101/239], §§ 7881(a)(1)(B), (2)(B), (3)(B), (4)(B), (5)(B), (6)(B), (b)(1)(B), (2)(B), (3)(B), (4)(B), (6)(B)(i), (d)(1)(B), (2), (4), 7891(a)(1), 7892(b), 7894(d)(2), (5), Dec. 19, 1989, [103 Stat. 2435–2439][/us/stat/103/2435-2439], 2445, 2447, 2449, 2450; [Pub. L. 101–508, title XII, § 12012(c)][/us/pl/101/508/s12012/c], Nov. 5, 1990, [104 Stat. 1388–572][/us/stat/104/1388-572]; [Pub. L. 103–465, title VII][/us/pl/103/465], §§ 761(a)(1)–(9)(A), (10), 762(a), 763(a), 764(a), 768(b), Dec. 8, 1994, [108 Stat. 5024–5031][/us/stat/108/5024-5031], 5033–5036, 5041; [Pub. L. 105–34, title XV, § 1521(b)][/us/pl/105/34/s1521/b], (c)(2), (3)(B), title XVI, § 1604(b)(2)(B), Aug. 5, 1997, [111 Stat. 1069][/us/stat/111/1069], 1070, 1097; [Pub. L. 107–16, title VI][/us/pl/107/16], §§ 651(b), 661(b), June 7, 2001, [115 Stat. 129][/us/stat/115/129], 142; [Pub. L. 107–147, title IV][/us/pl/107/147], §§ 405(b), 411(v)(2), Mar. 9, 2002, [116 Stat. 42][/us/stat/116/42], 52; [Pub. L. 108–218, title I][/us/pl/108/218], §§ 101(a)(1)–(3), 102(a), 104(a)(1), Apr. 10, 2004, [118 Stat. 596][/us/stat/118/596], 597, 599, 604; [Pub. L. 109–135, title IV, § 412(x)(2)][/us/pl/109/135/s412/x/2], Dec. 21, 2005, [119 Stat. 2638][/us/stat/119/2638]; [Pub. L. 109–280, title III, § 301(a)(1)][/us/pl/109/280/s301/a/1], (2), Aug. 17, 2006, [120 Stat. 919][/us/stat/120/919], related to minimum funding standards, prior to repeal by [Pub. L. 109–280, title I, § 101(a)][/us/pl/109/280/s101/a], (d), Aug. 17, 2006, [120 Stat. 784][/us/stat/120/784], 789, applicable to plan years beginning after 2007.
@@ -279,7 +275,7 @@
 
     Subsec. (d)(1). [Pub. L. 110–458, § 101(a)(1)(C)][/us/pl/110/458/s101/a/1/C], struck out “, the valuation date,” after “funding method”.
 
-    2006—Subsec. (b)(3). [Pub. L. 109–280][/us/pl/109/280], §§ 202(d), 221(c), temporarily added par. (3). See Effective and Termination Dates of 2006 Amendment note below.
+    2006—Subsec. (b)(3). [Pub. L. 109–280, § 202(d)][/us/pl/109/280/s202/d], added par. (3).
 
  __Effective Date of 2014 Amendment__ 
 
@@ -289,7 +285,7 @@
 
     Amendment by [Pub. L. 110–458][/us/pl/110/458] effective as if included in the provisions of [Pub. L. 109–280][/us/pl/109/280] to which the amendment relates, except as otherwise provided, see [section 112 of Pub. L. 110–458][/us/pl/110/458/s112], set out as a note under [section 72 of Title 26][/us/usc/t26/s72], Internal Revenue Code.
 
- __Effective and Termination Dates of 2006 Amendment__ 
+ __Effective Date of 2006 Amendment__ 
 
 [Pub. L. 109–280, title II, § 202(f)][/us/pl/109/280/s202/f], Aug. 17, 2006, [120 Stat. 885][/us/stat/120/885], provided that:
 
@@ -310,8 +306,6 @@
 >         “(B) which, pursuant to the plan document, the trust agreement, or a formal written communication from the plan sponsor to participants provided before June 30, 2005, provided for the restoration of such benefits,
 
 >         the amendments made by this section shall not apply to such benefit restorations to the extent that any restriction on the providing or accrual of such benefits would otherwise apply by reason of such amendments.”
-
-    Amendment by [section 202(d) of Pub. L. 109–280][/us/pl/109/280/s202/d] inapplicable to plan years beginning after Dec. 31, 2014, with exception for certain funding improvement and rehabilitation plans, see [section 221(c) of Pub. L. 109–280][/us/pl/109/280/s221/c], set out as a note under [section 412 of Title 26][/us/usc/t26/s412], Internal Revenue Code.
 
  __Effective Date__ 
 
@@ -376,7 +370,6 @@
 [/us/stat/122/5093]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F5093
 [/us/pl/113/97/s102/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97%2Fs102%2Fb%2F1
 [/us/stat/128/1115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1115
-[/us/pl/109/280/s221/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs221%2Fc
 [/us/pl/93/406/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs302
 [/us/stat/88/869]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F869
 [/us/pl/96/364/s304/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364%2Fs304%2Fb
@@ -439,7 +432,7 @@
 [/us/pl/110/458/s101/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2Fs101%2Fa%2F1%2FA
 [/us/pl/110/458/s101/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2Fs101%2Fa%2F1%2FB
 [/us/pl/110/458/s101/a/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2Fs101%2Fa%2F1%2FC
-[/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
+[/us/pl/109/280/s202/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs202%2Fd
 [/us/pl/113/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97
 [/us/pl/113/97/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97%2Fs3
 [/us/usc/t26/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs401
@@ -452,9 +445,6 @@
 [/us/usc/t29/s1085]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1085
 [/us/usc/t29/s1132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1132
 [/us/usc/t29/s1085/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1085%2Fb%2F3
-[/us/pl/109/280/s202/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs202%2Fd
-[/us/pl/109/280/s221/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs221%2Fc
-[/us/usc/t26/s412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs412
 [/us/pl/109/280/s101/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs101%2Fd
 [/us/stat/120/789]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F789
 [/us/usc/t29/s1082]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1082

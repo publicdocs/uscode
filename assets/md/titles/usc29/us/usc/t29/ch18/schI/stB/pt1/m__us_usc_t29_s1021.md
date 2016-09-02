@@ -97,7 +97,7 @@
 
                     (I) in the case of a single-employer plan, a statement as to whether the plan’s funding target attainment percentage (as defined in [section 1083(d)(2) of this title][/us/usc/t29/s1083/d/2]) for the plan year to which the notice relates, and for the 2 preceding plan years, is at least 100 percent (and, if not, the actual percentages), or
 
-                    (II) in the case of a multiemployer plan, a statement as to whether the plan’s funded percentage (as defined in [section 1085(i) of this title][/us/usc/t29/s1085/i]) for the plan year to which the notice relates, and for the 2 preceding plan years, is at least 100 percent (and, if not, the actual percentages),
+                    (II) in the case of a multiemployer plan, a statement as to whether the plan’s funded percentage (as defined in section 1085(i) 1 of this title) for the plan year to which the notice relates, and for the 2 preceding plan years, is at least 100 percent (and, if not, the actual percentages),
 
                 (ii)
 
@@ -109,7 +109,7 @@
 
                         (bb) the value of the plan’s assets and liabilities for the plan year to which the notice relates as of the last day of the plan year to which the notice relates determined using the asset valuation under subclause (II) of [section 1306(a)(3)(E)(iii) of this title][/us/usc/t29/s1306/a/3/E/iii] and the interest rate under [section 1306(a)(3)(E)(iv) of this title][/us/usc/t29/s1306/a/3/E/iv], and
 
-                    (II) in the case of a multiemployer plan, a statement, for the plan year to which the notice relates and the preceding 2 plan years, of the value of the plan assets (determined both in the same manner as under [section 1084 of this title][/us/usc/t29/s1084] and under the rules of subclause (I)(bb)) and the value of the plan liabilities (determined in the same manner as under [section 1084 of this title][/us/usc/t29/s1084] except that the method specified in [section 1085(i)(8) of this title][/us/usc/t29/s1085/i/8] shall be used),
+                    (II) in the case of a multiemployer plan, a statement, for the plan year to which the notice relates and the preceding 2 plan years, of the value of the plan assets (determined both in the same manner as under [section 1084 of this title][/us/usc/t29/s1084] and under the rules of subclause (I)(bb)) and the value of the plan liabilities (determined in the same manner as under [section 1084 of this title][/us/usc/t29/s1084] except that the method specified in section 1085(i)(8) 1 of this title shall be used),
 
                 (iii)
 
@@ -131,19 +131,29 @@
 
                     (II) a summary of any funding improvement plan, rehabilitation plan, or modification thereof adopted under [section 1085 of this title][/us/usc/t29/s1085] during the plan year to which the notice relates,
 
-                (vi) in the case of any plan amendment, scheduled benefit increase or reduction, or other known event taking effect in the current plan year and having a material effect on plan liabilities or assets for the year (as defined in regulations by the Secretary), an explanation of the amendment, schedule increase or reduction, or event, and a projection to the end of such plan year of the effect of the amendment, scheduled increase or reduction, or event on plan liabilities,
+                (vi)
 
-                (vii)
+                 in the case of a multiemployer plan, whether the plan was in critical and declining status under [section 1085 of this title][/us/usc/t29/s1085] for such plan year and, if so—
+
+                    (I) the projected date of insolvency;
+
+                    (II) a clear statement that such insolvency may result in benefit reductions; and
+
+                    (III) a statement describing whether the plan sponsor has taken legally permitted actions to prevent insolvency.
+
+                (vii) in the case of any plan amendment, scheduled benefit increase or reduction, or other known event taking effect in the current plan year and having a material effect on plan liabilities or assets for the year (as defined in regulations by the Secretary), an explanation of the amendment, schedule increase or reduction, or event, and a projection to the end of such plan year of the effect of the amendment, scheduled increase or reduction, or event on plan liabilities,
+
+                (viii)
 
                     (I) in the case of a single-employer plan, a summary of the rules governing termination of single-employer plans under subtitle C of subchapter III, or
 
                     (II) in the case of a multiemployer plan, a summary of the rules governing reorganization or insolvency, including the limitations on benefit payments,
 
-                (viii) a general description of the benefits under the plan which are eligible to be guaranteed by the Pension Benefit Guaranty Corporation, along with an explanation of the limitations on the guarantee and the circumstances under which such limitations apply,
+                (ix) a general description of the benefits under the plan which are eligible to be guaranteed by the Pension Benefit Guaranty Corporation, along with an explanation of the limitations on the guarantee and the circumstances under which such limitations apply,
 
-                (ix) a statement that a person may obtain a copy of the annual report of the plan filed under [section 1024(a) of this title][/us/usc/t29/s1024/a] upon request, through the Internet website of the Department of Labor, or through an Intranet website maintained by the applicable plan sponsor (or plan administrator on behalf of the plan sponsor), and
+                (x) a statement that a person may obtain a copy of the annual report of the plan filed under [section 1024(a) of this title][/us/usc/t29/s1024/a] upon request, through the Internet website of the Department of Labor, or through an Intranet website maintained by the applicable plan sponsor (or plan administrator on behalf of the plan sponsor), and
 
-                (x) if applicable, a statement that each contributing sponsor, and each member of the contributing sponsor’s controlled group, of the single-employer plan was required to provide the information under [section 1310 of this title][/us/usc/t29/s1310] for the plan year to which the notice relates.
+                (xi) if applicable, a statement that each contributing sponsor, and each member of the contributing sponsor’s controlled group, of the single-employer plan was required to provide the information under [section 1310 of this title][/us/usc/t29/s1310] for the plan year to which the notice relates.
 
             (C) __Other information__ 
 
@@ -349,13 +359,29 @@
 
         (1) __In general__ 
 
-        Each administrator of a multiemployer plan shall, upon written request, furnish to any plan participant or beneficiary, employee representative, or any employer that has an obligation to contribute to the plan—
+        Each administrator of a defined benefit plan that is a multiemployer plan shall, upon written request, furnish to any plan participant or beneficiary, employee representative, or any employer that has an obligation to contribute to the plan a copy of—
 
-            (A) a copy of any periodic actuarial report (including any sensitivity testing) received by the plan for any plan year which has been in the plan’s possession for at least 30 days,
+            (A) the current plan document (including any amendments thereto),
 
-            (B) a copy of any quarterly, semi-annual, or annual financial report prepared for the plan by any plan investment manager or advisor or other fiduciary which has been in the plan’s possession for at least 30 days, and
+            (B) the latest summary plan description of the plan,
 
-            (C) a copy of any application filed with the Secretary of the Treasury requesting an extension under [section 1084 of this title][/us/usc/t29/s1084] or [section 431(d) of title 26][/us/usc/t26/s431/d] and the determination of such Secretary pursuant to such application.
+            (C) the current trust agreement (including any amendments thereto), or any other instrument or agreement under which the plan is established or operated,
+
+            (D) in the case of a request by an employer, any participation agreement with respect to the plan for such employer that relates to the employer’s plan participation during the current or any of the 5 immediately preceding plan years,
+
+            (E) the annual report filed under [section 1024 of this title][/us/usc/t29/s1024] for any plan year,
+
+            (F) the plan funding notice provided under subsection (f) for any plan year,
+
+            (G) any periodic actuarial report (including any sensitivity testing) received by the plan for any plan year which has been in the plan’s possession for at least 30 days,
+
+            (H) any quarterly, semi-annual, or annual financial report prepared for the plan by any plan investment manager or advisor or other fiduciary which has been in the plan’s possession for at least 30 days,
+
+            (I) audited financial statements of the plan for any plan year,
+
+            (J) any application filed with the Secretary of the Treasury requesting an extension under [section 1084(d) of this title][/us/usc/t29/s1084/d] or [section 431(d) of title 26][/us/usc/t26/s431/d] and the determination of such Secretary pursuant to such application, and
+
+            (K) in the case of a plan which was in critical or endangered status under [section 1085 of this title][/us/usc/t29/s1085] for a plan year, the latest funding improvement or rehabilitation plan, and the contribution schedules applicable with respect to such funding improvement or rehabilitation plan (other than a contribution schedule applicable to a specific employer).
 
         (2) __Compliance__ 
 
@@ -373,11 +399,11 @@
 
                 (ii) reveal any proprietary information regarding the plan, any contributing employer, or entity providing services to the plan.
 
-            Subparagraph (C)(i) shall not apply to individually identifiable information with respect to any plan investment manager or adviser, or with respect to any other person (other than an employee of the plan) preparing a financial report required to be included under paragraph (1)(B).
+            Subparagraph (C)(i) shall not apply to individually identifiable information with respect to any plan investment manager or adviser, or with respect to any other person (other than an employee of the plan) preparing a financial report required to be included under paragraph (1)(B). 1
 
         (3) __Limitations__ 
 
-            In no case shall a participant, beneficiary, or employer be entitled under this subsection to receive more than one copy of any report or application described in paragraph (1) during any one 12-month period. The administrator may make a reasonable charge to cover copying, mailing, and other costs of furnishing copies of information pursuant to paragraph (1). The Secretary may by regulations prescribe the maximum amount which will constitute a reasonable charge under the preceding sentence.
+            In no case shall a participant, beneficiary, employee representative, or employer be entitled under this subsection to receive more than one copy of any document described in paragraph (1) during any one 12-month period, or, in the case of any document described in subparagraph (E), (F), (G), (H) or (I) of paragraph (1), a copy of any such document that as of the date on which the request is received by the administrator, has been in the administrator’s possession for 6 years or more. If the administrator provides a copy of a document described in paragraph (1) to any person upon request, the administrator shall be considered as having met any obligation the administrator may have under any other provision of this subchapter to furnish a copy of the same document to such person upon request. The administrator may make a reasonable charge to cover copying, mailing, and other costs of furnishing copies of information pursuant to paragraph (1). The Secretary may by regulations prescribe the maximum amount which will constitute a reasonable charge under the preceding sentence.
 
     (l) __Notice of potential withdrawal liability__ 
 
@@ -423,11 +449,13 @@
 
         For regulations relating to coordination of reports to the Secretaries of Labor and the Treasury, see [section 1204 of this title][/us/usc/t29/s1204].
 
-([Pub. L. 93–406, title I, § 101][/us/pl/93/406/s101], Sept. 2, 1974, [88 Stat. 840][/us/stat/88/840]; [Pub. L. 100–203, title IX, § 9304(d)][/us/pl/100/203/s9304/d], Dec. 22, 1987, [101 Stat. 1330–348][/us/stat/101/1330-348]; [Pub. L. 101–239, title VII][/us/pl/101/239], §§ 7881(b)(5)(A), 7894(b)(2), Dec. 19, 1989, [103 Stat. 2438][/us/stat/103/2438], 2448; [Pub. L. 101–508, title XII, § 12012(d)(1)][/us/pl/101/508/s12012/d/1], Nov. 5, 1990, [104 Stat. 1388–572][/us/stat/104/1388-572]; [Pub. L. 103–66, title IV, § 4301(b)(1)][/us/pl/103/66/s4301/b/1], Aug. 10, 1993, [107 Stat. 375][/us/stat/107/375]; [Pub. L. 103–465, title VII, § 731(c)(4)(A)][/us/pl/103/465/s731/c/4/A], Dec. 8, 1994, [108 Stat. 5004][/us/stat/108/5004]; [Pub. L. 104–188, title I, § 1421(d)(1)][/us/pl/104/188/s1421/d/1], Aug. 20, 1996, [110 Stat. 1799][/us/stat/110/1799]; [Pub. L. 104–191, title I, § 101(e)(1)][/us/pl/104/191/s101/e/1], Aug. 21, 1996, [110 Stat. 1952][/us/stat/110/1952]; [Pub. L. 104–204, title VI, § 603(b)(3)(B)][/us/pl/104/204/s603/b/3/B], Sept. 26, 1996, [110 Stat. 2938][/us/stat/110/2938]; [Pub. L. 105–34, title XV, § 1503(a)][/us/pl/105/34/s1503/a], Aug. 5, 1997, [111 Stat. 1061][/us/stat/111/1061]; [Pub. L. 105–200, title IV, § 401(h)(1)(A)][/us/pl/105/200/s401/h/1/A], July 16, 1998, [112 Stat. 668][/us/stat/112/668]; [Pub. L. 106–170, title V, § 535(a)(2)(A)][/us/pl/106/170/s535/a/2/A], Dec. 17, 1999, [113 Stat. 1934][/us/stat/113/1934]; [Pub. L. 107–204, title III, § 306(b)(1)][/us/pl/107/204/s306/b/1], July 30, 2002, [116 Stat. 780][/us/stat/116/780]; [Pub. L. 108–218, title I, § 103(a)][/us/pl/108/218/s103/a], title II, § 204(b)(1), Apr. 10, 2004, [118 Stat. 602][/us/stat/118/602], 609; [Pub. L. 108–357, title VII, § 709(a)(1)][/us/pl/108/357/s709/a/1], Oct. 22, 2004, [118 Stat. 1551][/us/stat/118/1551]; [Pub. L. 109–280, title I][/us/pl/109/280], §§ 103(b)(1), 108(a)(1), (11), formerly § 107(a)(1), (11), title V, §§ 501(a), 502(a)(1), (b)(1), 503(c)(2), 507(a), 509(a), Aug. 17, 2006, [120 Stat. 815][/us/stat/120/815], 818, 819, 936, 939, 940, 944, 948, 952, renumbered [Pub. L. 111–192, title II, § 202(a)][/us/pl/111/192/s202/a], June 25, 2010, [124 Stat. 1297][/us/stat/124/1297]; [Pub. L. 110–458, title I][/us/pl/110/458], §§ 101(c)(1)(A), 105(a), (b)(1), (g), Dec. 23, 2008, [122 Stat. 5097][/us/stat/122/5097], 5104, 5105; [Pub. L. 111–148, title VI, § 6606][/us/pl/111/148/s6606], Mar. 23, 2010, [124 Stat. 781][/us/stat/124/781]; [Pub. L. 112–141, div. D, title II][/us/pl/112/141], §§ 40211(b)(2)(A), 40241(b)(1), 40242(e)(14), July 6, 2012, [126 Stat. 848][/us/stat/126/848], 859, 863; [Pub. L. 113–97, title I, § 104(a)(1)][/us/pl/113/97/s104/a/1], (b), Apr. 7, 2014, [128 Stat. 1120][/us/stat/128/1120]; [Pub. L. 113–159, title II, § 2003(b)(2)(A)][/us/pl/113/159/s2003/b/2/A], Aug. 8, 2014, [128 Stat. 1849][/us/stat/128/1849].)
+([Pub. L. 93–406, title I, § 101][/us/pl/93/406/s101], Sept. 2, 1974, [88 Stat. 840][/us/stat/88/840]; [Pub. L. 100–203, title IX, § 9304(d)][/us/pl/100/203/s9304/d], Dec. 22, 1987, [101 Stat. 1330–348][/us/stat/101/1330-348]; [Pub. L. 101–239, title VII][/us/pl/101/239], §§ 7881(b)(5)(A), 7894(b)(2), Dec. 19, 1989, [103 Stat. 2438][/us/stat/103/2438], 2448; [Pub. L. 101–508, title XII, § 12012(d)(1)][/us/pl/101/508/s12012/d/1], Nov. 5, 1990, [104 Stat. 1388–572][/us/stat/104/1388-572]; [Pub. L. 103–66, title IV, § 4301(b)(1)][/us/pl/103/66/s4301/b/1], Aug. 10, 1993, [107 Stat. 375][/us/stat/107/375]; [Pub. L. 103–465, title VII, § 731(c)(4)(A)][/us/pl/103/465/s731/c/4/A], Dec. 8, 1994, [108 Stat. 5004][/us/stat/108/5004]; [Pub. L. 104–188, title I, § 1421(d)(1)][/us/pl/104/188/s1421/d/1], Aug. 20, 1996, [110 Stat. 1799][/us/stat/110/1799]; [Pub. L. 104–191, title I, § 101(e)(1)][/us/pl/104/191/s101/e/1], Aug. 21, 1996, [110 Stat. 1952][/us/stat/110/1952]; [Pub. L. 104–204, title VI, § 603(b)(3)(B)][/us/pl/104/204/s603/b/3/B], Sept. 26, 1996, [110 Stat. 2938][/us/stat/110/2938]; [Pub. L. 105–34, title XV, § 1503(a)][/us/pl/105/34/s1503/a], Aug. 5, 1997, [111 Stat. 1061][/us/stat/111/1061]; [Pub. L. 105–200, title IV, § 401(h)(1)(A)][/us/pl/105/200/s401/h/1/A], July 16, 1998, [112 Stat. 668][/us/stat/112/668]; [Pub. L. 106–170, title V, § 535(a)(2)(A)][/us/pl/106/170/s535/a/2/A], Dec. 17, 1999, [113 Stat. 1934][/us/stat/113/1934]; [Pub. L. 107–204, title III, § 306(b)(1)][/us/pl/107/204/s306/b/1], July 30, 2002, [116 Stat. 780][/us/stat/116/780]; [Pub. L. 108–218, title I, § 103(a)][/us/pl/108/218/s103/a], title II, § 204(b)(1), Apr. 10, 2004, [118 Stat. 602][/us/stat/118/602], 609; [Pub. L. 108–357, title VII, § 709(a)(1)][/us/pl/108/357/s709/a/1], Oct. 22, 2004, [118 Stat. 1551][/us/stat/118/1551]; [Pub. L. 109–280, title I][/us/pl/109/280], §§ 103(b)(1), 108(a)(1), (11), formerly § 107(a)(1), (11), title V, §§ 501(a), 502(a)(1), (b)(1), 503(c)(2), 507(a), 509(a), Aug. 17, 2006, [120 Stat. 815][/us/stat/120/815], 818, 819, 936, 939, 940, 944, 948, 952, renumbered [Pub. L. 111–192, title II, § 202(a)][/us/pl/111/192/s202/a], June 25, 2010, [124 Stat. 1297][/us/stat/124/1297]; [Pub. L. 110–458, title I][/us/pl/110/458], §§ 101(c)(1)(A), 105(a), (b)(1), (g), Dec. 23, 2008, [122 Stat. 5097][/us/stat/122/5097], 5104, 5105; [Pub. L. 111–148, title VI, § 6606][/us/pl/111/148/s6606], Mar. 23, 2010, [124 Stat. 781][/us/stat/124/781]; [Pub. L. 112–141, div. D, title II][/us/pl/112/141], §§ 40211(b)(2)(A), 40241(b)(1), 40242(e)(14), July 6, 2012, [126 Stat. 848][/us/stat/126/848], 859, 863; [Pub. L. 113–97, title I, § 104(a)(1)][/us/pl/113/97/s104/a/1], (b), Apr. 7, 2014, [128 Stat. 1120][/us/stat/128/1120]; [Pub. L. 113–159, title II, § 2003(b)(2)(A)][/us/pl/113/159/s2003/b/2/A], Aug. 8, 2014, [128 Stat. 1849][/us/stat/128/1849]; [Pub. L. 113–235, div. O, title I, § 111(a)][/us/pl/113/235/s111/a], (b), title II, § 201(a)(4), Dec. 16, 2014, [128 Stat. 2792][/us/stat/128/2792], 2793, 2799.)
 
  __References in Text__ 
 
     [Section 1022(a)(1) of this title][/us/usc/t29/s1022/a/1], referred to in subsec. (a)(1), was redesignated [section 1022(a) of this title][/us/usc/t29/s1022/a] by [Pub. L. 105–34, title XV, § 1503(b)(1)(B)][/us/pl/105/34/s1503/b/1/B], Aug. 5, 1997, [111 Stat. 1061][/us/stat/111/1061].
+
+    [Section 1085(i) of this title][/us/usc/t29/s1085/i], referred to in subsec. (f)(2)(B)(i)(II) and (ii)(II), was redesignated [section 1085(j) of this title][/us/usc/t29/s1085/j] by [Pub. L. 113–235, div. O, title I, § 109(a)(3)][/us/pl/113/235/s109/a/3], Dec. 16, 2014, [128 Stat. 2789][/us/stat/128/2789].
 
     The MAP–21, referred to in subsecs. (f)(2)(D)(i)(I) and (II), also known as the Moving Ahead for Progress in the 21st Century Act, is [Pub. L. 112–141][/us/pl/112/141], July 6, 2012, [126 Stat. 405][/us/stat/126/405]. For complete classification of this Act to the Code, see Short Title of 2012 Amendment note set out under [section 101 of Title 23][/us/usc/t23/s101], Highways, and Tables.
 
@@ -435,17 +463,25 @@
 
     The Cooperative and Small Employer Charity Pension Flexibility Act, referred to in subsec. (f)(2)(E)(ii), is [Pub. L. 113–97][/us/pl/113/97], Apr. 7, 2014, [128 Stat. 1101][/us/stat/128/1101]. For complete classification of this Act to the Code, see Short Title of 2014 Amendment note set out under [section 1001 of this title][/us/usc/t29/s1001] and Tables.
 
+    The content of paragraph (1)(B) of subsec. (k) (relating to financial reports), referred to subsec. (k)(2), was moved to subsec. (k)(1)(H) as a result of the general amendment of subsec. (k)(1) by [Pub. L. 113–235, § 111(a)][/us/pl/113/235/s111/a]. See 2014 Amendment note below.
+
  __Amendments__ 
 
     2014—Subsec. (d)(2). [Pub. L. 113–97, § 104(b)(1)][/us/pl/113/97/s104/b/1], substituted “section 1083 or 1085a of this title” for “[section 1083 of this title][/us/usc/t29/s1083]”.
 
     Subsec. (d)(3). [Pub. L. 113–97, § 104(b)(2)][/us/pl/113/97/s104/b/2], substituted “section 1083(j) or 1085a(f) of this title, whichever is applicable” for “[section 1083(j) of this title][/us/usc/t29/s1083/j]”.
 
+    Subsec. (f)(2)(B)(vi) to (xi). [Pub. L. 113–235, § 201(a)(4)][/us/pl/113/235/s201/a/4], added cl. (vi) and redesignated former cls. (vi) to (x) as (vii) to (xi), respectively.
+
     Subsec. (f)(2)(D)(i)(I), (II). [Pub. L. 113–159, § 2003(b)(2)(A)(i)][/us/pl/113/159/s2003/b/2/A/i], inserted “and the Highway and Transportation Funding Act of 2014” after “MAP-21”.
 
     Subsec. (f)(2)(D)(ii). [Pub. L. 113–159, § 2003(b)(2)(A)(ii)][/us/pl/113/159/s2003/b/2/A/ii], substituted “2020” for “2015” in introductory provisions.
 
     Subsec. (f)(2)(E). [Pub. L. 113–97, § 104(a)(1)][/us/pl/113/97/s104/a/1], added subpar. (E).
+
+    Subsec. (k)(1). [Pub. L. 113–235, § 111(a)][/us/pl/113/235/s111/a], amended par. (1) generally. Prior to amendment, par. (1) related to requirement to provide multiemployer plan information.
+
+    Subsec. (k)(3). [Pub. L. 113–235, § 111(b)][/us/pl/113/235/s111/b], substituted “In no case shall a participant, beneficiary, employee representative, or employer be entitled under this subsection to receive more than one copy of any document described in paragraph (1) during any one 12-month period, or, in the case of any document described in subparagraph (E), (F), (G), (H) or (I) of paragraph (1), a copy of any such document that as of the date on which the request is received by the administrator, has been in the administrator’s possession for 6 years or more. If the administrator provides a copy of a document described in paragraph (1) to any person upon request, the administrator shall be considered as having met any obligation the administrator may have under any other provision of this subchapter to furnish a copy of the same document to such person upon request.” for “In no case shall a participant, beneficiary, or employer be entitled under this subsection to receive more than one copy of any report or application described in paragraph (1) during any one 12-month period.”
 
     2012—Subsec. (e)(1). [Pub. L. 112–141, § 40242(e)(14)][/us/pl/112/141/s40242/e/14], inserted “or applicable life insurance account” after “health benefits account” and “or applicable life insurance benefit liabilities” after “health benefits liabilities”.
 
@@ -558,6 +594,10 @@
     1987—Subsecs. (d), (e). [Pub. L. 100–203][/us/pl/100/203] added subsec. (d) and redesignated former subsec. (d) as (e).
 
  __Effective Date of 2014 Amendment__ 
+
+[Pub. L. 113–235, div. O, title I, § 111(e)][/us/pl/113/235/s111/e], Dec. 16, 2014, [128 Stat. 2794][/us/stat/128/2794], provided that: 
+
+> “The amendments made by this section \[amending this section and sections 1027 and 1132 of this title\] shall apply with respect to plan years beginning after December 31, 2014.”
 
     Amendment by [Pub. L. 113–159][/us/pl/113/159] applicable with respect to plan years beginning after Dec. 31, 2012, except as otherwise provided, see [section 2003(e) of Pub. L. 113–159][/us/pl/113/159/s2003/e], set out as a note under [section 430 of Title 26][/us/usc/t26/s430], Internal Revenue Code.
 
@@ -763,13 +803,12 @@
 [/us/usc/t29/s1056/d/3/K]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1056%2Fd%2F3%2FK
 [/us/usc/t26/s420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs420
 [/us/usc/t29/s1083/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1083%2Fd%2F2
-[/us/usc/t29/s1085/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1085%2Fi
 [/us/usc/t29/s1083]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1083
 [/us/usc/t29/s1306/a/3/E/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1306%2Fa%2F3%2FE%2Fiii
 [/us/usc/t29/s1306/a/3/E/iv]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1306%2Fa%2F3%2FE%2Fiv
 [/us/usc/t29/s1084]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1084
 [/us/usc/t29/s1084]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1084
-[/us/usc/t29/s1085/i/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1085%2Fi%2F8
+[/us/usc/t29/s1085]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1085
 [/us/usc/t29/s1085]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1085
 [/us/usc/t29/s1085]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1085
 [/us/usc/t29/s1085]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1085
@@ -801,8 +840,10 @@
 [/us/usc/t29/s1056/g/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1056%2Fg%2F4
 [/us/usc/t29/s1056/g/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1056%2Fg%2F4%2FA
 [/us/usc/t29/s1056/g/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1056%2Fg%2F7
-[/us/usc/t29/s1084]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1084
+[/us/usc/t29/s1024]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1024
+[/us/usc/t29/s1084/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1084%2Fd
 [/us/usc/t26/s431/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs431%2Fd
+[/us/usc/t29/s1085]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1085
 [/us/usc/t29/s1391/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1391%2Fc
 [/us/usc/t29/s1054/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1054%2Fj
 [/us/usc/t29/s1204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1204
@@ -850,10 +891,16 @@
 [/us/stat/128/1120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1120
 [/us/pl/113/159/s2003/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F159%2Fs2003%2Fb%2F2%2FA
 [/us/stat/128/1849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1849
+[/us/pl/113/235/s111/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs111%2Fa
+[/us/stat/128/2792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2792
 [/us/usc/t29/s1022/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1022%2Fa%2F1
 [/us/usc/t29/s1022/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1022%2Fa
 [/us/pl/105/34/s1503/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1503%2Fb%2F1%2FB
 [/us/stat/111/1061]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1061
+[/us/usc/t29/s1085/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1085%2Fi
+[/us/usc/t29/s1085/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1085%2Fj
+[/us/pl/113/235/s109/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs109%2Fa%2F3
+[/us/stat/128/2789]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2789
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/stat/126/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F405
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
@@ -863,13 +910,17 @@
 [/us/pl/113/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97
 [/us/stat/128/1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1101
 [/us/usc/t29/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1001
+[/us/pl/113/235/s111/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs111%2Fa
 [/us/pl/113/97/s104/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97%2Fs104%2Fb%2F1
 [/us/usc/t29/s1083]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1083
 [/us/pl/113/97/s104/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97%2Fs104%2Fb%2F2
 [/us/usc/t29/s1083/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1083%2Fj
+[/us/pl/113/235/s201/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs201%2Fa%2F4
 [/us/pl/113/159/s2003/b/2/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F159%2Fs2003%2Fb%2F2%2FA%2Fi
 [/us/pl/113/159/s2003/b/2/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F159%2Fs2003%2Fb%2F2%2FA%2Fii
 [/us/pl/113/97/s104/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97%2Fs104%2Fa%2F1
+[/us/pl/113/235/s111/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs111%2Fa
+[/us/pl/113/235/s111/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs111%2Fb
 [/us/pl/112/141/s40242/e/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs40242%2Fe%2F14
 [/us/pl/112/141/s40242/e/14/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs40242%2Fe%2F14%2FA
 [/us/pl/112/141/s40241/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs40241%2Fb%2F1
@@ -921,6 +972,8 @@
 [/us/pl/101/239/s7894/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7894%2Fb%2F2
 [/us/pl/101/239/s7881/b/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7881%2Fb%2F5%2FA
 [/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
+[/us/pl/113/235/s111/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs111%2Fe
+[/us/stat/128/2794]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2794
 [/us/pl/113/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F159
 [/us/pl/113/159/s2003/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F159%2Fs2003%2Fe
 [/us/usc/t26/s430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs430

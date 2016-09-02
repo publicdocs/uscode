@@ -1619,47 +1619,15 @@ part 2—merger or transfer of plan assets or liabilities  </td>
 
     <td> 
 
-part 3—reorganization; minimum contribution requirement for multiemployer plans  </td>
+part 3—reorganization; insolvent plans  </td>
 
   </tr>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1421" data-uslm-ref="/us/usc/t29/s1421">1421.</a>  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1421" data-uslm-ref="/us/usc/t29/s1421">1421</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1425" data-uslm-ref="/us/usc/t29/s1425">1425.</a>  </td>
 
-    <td> Reorganization status.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1422" data-uslm-ref="/us/usc/t29/s1422">1422.</a>  </td>
-
-    <td> Notice of reorganization and funding requirements.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1423" data-uslm-ref="/us/usc/t29/s1423">1423.</a>  </td>
-
-    <td> Minimum contribution requirement.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1424" data-uslm-ref="/us/usc/t29/s1424">1424.</a>  </td>
-
-    <td> Overburden credit against minimum contribution requirement.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1425" data-uslm-ref="/us/usc/t29/s1425">1425.</a>  </td>
-
-    <td> Adjustments in accrued benefits.  </td>
+    <td> Repealed.  </td>
 
   </tr>
 

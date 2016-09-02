@@ -33,7 +33,7 @@
 
     (e) __Consultative requirements respecting promulgation of proposed or final regulations__ 
 
-        The Secretary of the Treasury shall consult with the Pension Benefit Guaranty Corporation with respect to any proposed or final regulation authorized by subpart C of part I of subchapter D of chapter 1 of title 26, or by sections 1421 through 1426 of this title, before publishing any such proposed or final regulation.
+        The Secretary of the Treasury shall consult with the Pension Benefit Guaranty Corporation with respect to any proposed or final regulation authorized by subpart C of part I of subchapter D of chapter 1 of title 26, or by sections 1421 through 1426  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title, before publishing any such proposed or final regulation.
 
 ([Pub. L. 93–406, title III, § 3002][/us/pl/93/406/s3002], Sept. 2, 1974, [88 Stat. 996][/us/stat/88/996]; [Pub. L. 96–364, title IV, § 402(b)(3)][/us/pl/96/364/s402/b/3], Sept. 26, 1980, [94 Stat. 1299][/us/stat/94/1299]; [Pub. L. 101–239, title VII, § 7891(a)(1)][/us/pl/101/239/s7891/a/1], Dec. 19, 1989, [103 Stat. 2445][/us/stat/103/2445].)
 
@@ -42,6 +42,8 @@
     This chapter, referred to in subsecs. (a), (c), was in the original “this Act”, meaning [Pub. L. 93–406][/us/pl/93/406], known as the Employee Retirement Income Security Act of 1974. Titles I, III, and IV of such Act are classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of this title][/us/usc/t29/s1001] and Tables.
 
     Subpart C of part I of subchapter D of chapter 1 of title 26, referred to in subsec. (e), commences with [section 418 of Title 26][/us/usc/t26/s418], Internal Revenue Code.
+
+    Sections 1421 through 1425 of this title, referred to in subsec. (e), were repealed by [Pub. L. 113–235, div. O, title I, § 108(a)(1)][/us/pl/113/235/s108/a/1], Dec. 16, 2014, [128 Stat. 2786][/us/stat/128/2786].
 
  __Amendments__ 
 
@@ -78,6 +80,8 @@
 [/us/pl/93/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406
 [/us/usc/t29/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1001
 [/us/usc/t26/s418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs418
+[/us/pl/113/235/s108/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs108%2Fa%2F1
+[/us/stat/128/2786]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2786
 [/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
 [/us/pl/96/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364
 [/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239

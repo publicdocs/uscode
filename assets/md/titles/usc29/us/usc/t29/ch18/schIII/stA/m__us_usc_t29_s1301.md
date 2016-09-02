@@ -65,7 +65,7 @@
 
         (8) “nonforfeitable benefit” means, with respect to a plan, a benefit for which a participant has satisfied the conditions for entitlement under the plan or the requirements of this chapter (other than submission of a formal application, retirement, completion of a required waiting period, or death in the case of a benefit which returns all or a portion of a participant’s accumulated mandatory employee contributions upon the participant’s death), whether or not the benefit may subsequently be reduced or suspended by a plan amendment, an occurrence of any condition, or operation of this chapter or title 26;
 
-        (9) “reorganization index” means the amount determined under [section 1421(b) of this title][/us/usc/t29/s1421/b];
+        (9) Repealed. [Pub. L. 113–235, div. O, title I, § 108(a)(3)(A)][/us/pl/113/235/s108/a/3/A], Dec. 16, 2014, [128 Stat. 2787][/us/stat/128/2787].
 
         (10)
 
@@ -163,7 +163,7 @@
 
             (B) the term “Secretary of the Treasury” means the Secretary of the Treasury or such Secretary’s delegate.
 
-([Pub. L. 93–406, title IV, § 4001][/us/pl/93/406/s4001], Sept. 2, 1974, [88 Stat. 1003][/us/stat/88/1003]; [Pub. L. 96–364, title IV, § 402(a)(1)][/us/pl/96/364/s402/a/1], Sept. 26, 1980, [94 Stat. 1296][/us/stat/94/1296]; [Pub. L. 99–272, title XI, § 11004][/us/pl/99/272/s11004], Apr. 7, 1986, [100 Stat. 238][/us/stat/100/238]; [Pub. L. 100–203, title IX][/us/pl/100/203], §§ 9312(b)(4), (5), 9313(a)(2)(F), Dec. 22, 1987, [101 Stat. 1330–363][/us/stat/101/1330-363], 1330–365; [Pub. L. 101–239, title VII, § 7891(a)(1)][/us/pl/101/239/s7891/a/1], Dec. 19, 1989, [103 Stat. 2445][/us/stat/103/2445]; [Pub. L. 102–229, title II, § 214][/us/pl/102/229/s214], Dec. 12, 1991, [105 Stat. 1718][/us/stat/105/1718]; [Pub. L. 103–465, title VII, § 761(a)(11)][/us/pl/103/465/s761/a/11], Dec. 8, 1994, [108 Stat. 5034][/us/stat/108/5034]; [Pub. L. 109–280, title I, § 108(b)(1)][/us/pl/109/280/s108/b/1], formerly § 107(b)(1), Aug. 17, 2006, [120 Stat. 819][/us/stat/120/819], renumbered [Pub. L. 111–192, title II, § 202(a)][/us/pl/111/192/s202/a], June 25, 2010, [124 Stat. 1297][/us/stat/124/1297].)
+([Pub. L. 93–406, title IV, § 4001][/us/pl/93/406/s4001], Sept. 2, 1974, [88 Stat. 1003][/us/stat/88/1003]; [Pub. L. 96–364, title IV, § 402(a)(1)][/us/pl/96/364/s402/a/1], Sept. 26, 1980, [94 Stat. 1296][/us/stat/94/1296]; [Pub. L. 99–272, title XI, § 11004][/us/pl/99/272/s11004], Apr. 7, 1986, [100 Stat. 238][/us/stat/100/238]; [Pub. L. 100–203, title IX][/us/pl/100/203], §§ 9312(b)(4), (5), 9313(a)(2)(F), Dec. 22, 1987, [101 Stat. 1330–363][/us/stat/101/1330-363], 1330–365; [Pub. L. 101–239, title VII, § 7891(a)(1)][/us/pl/101/239/s7891/a/1], Dec. 19, 1989, [103 Stat. 2445][/us/stat/103/2445]; [Pub. L. 102–229, title II, § 214][/us/pl/102/229/s214], Dec. 12, 1991, [105 Stat. 1718][/us/stat/105/1718]; [Pub. L. 103–465, title VII, § 761(a)(11)][/us/pl/103/465/s761/a/11], Dec. 8, 1994, [108 Stat. 5034][/us/stat/108/5034]; [Pub. L. 109–280, title I, § 108(b)(1)][/us/pl/109/280/s108/b/1], formerly § 107(b)(1), Aug. 17, 2006, [120 Stat. 819][/us/stat/120/819], renumbered [Pub. L. 111–192, title II, § 202(a)][/us/pl/111/192/s202/a], June 25, 2010, [124 Stat. 1297][/us/stat/124/1297]; [Pub. L. 113–235, div. O, title I, § 108(a)(3)(A)][/us/pl/113/235/s108/a/3/A], Dec. 16, 2014, [128 Stat. 2787][/us/stat/128/2787].)
 
  __References in Text__ 
 
@@ -178,6 +178,8 @@
     In subsec. (a)(14)(C)(ii)(I), “[section 40102(a)(2) of title 49][/us/usc/t49/s40102/a/2]” substituted for “section 101(3) of the Federal Aviation Act of 1958” and “[section 41102 of title 49][/us/usc/t49/s41102]” substituted for “section 401 of such Act” on authority of [Pub. L. 103–272, § 6(b)][/us/pl/103/272/s6/b], July 5, 1994, [108 Stat. 1378][/us/stat/108/1378], the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation.
 
  __Amendments__ 
+
+    2014—Subsec. (a)(9). [Pub. L. 113–235][/us/pl/113/235] struck out par. (9) which defined “reorganization index”.
 
     2006—Subsec. (a)(13). [Pub. L. 109–280][/us/pl/109/280] substituted “1082(b)(1)” for “1082(c)(11)(A)”, “1082(b)(2)” for “1082(c)(11)(B)”, “412(b)(1)” for “412(c)(11)(A)”, and “412(b)(2)” for “412(c)(11)(B)”.
 
@@ -239,6 +241,10 @@
 
     Subsec. (b). [Pub. L. 96–364, § 402(a)(1)(F)][/us/pl/96/364/s402/a/1/F], which was executed by designating existing provisions as par. (1) and adding pars. (2) to (4), notwithstanding directory language that pars. (2) to (4) be added at end of subsec. (c)(1) as redesignated, was struck out by [Pub. L. 99–272, § 11004(b)][/us/pl/99/272/s11004/b]. See 1986 Amendment note above.
 
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by [Pub. L. 113–235][/us/pl/113/235] applicable with respect to plan years beginning after Dec. 31, 2014, see [section 108(c) of div. O of Pub. L. 113–235][/us/pl/113/235/s108/c], set out as an Effective Date of Repeal note under [section 418 of Title 26][/us/usc/t26/s418], Internal Revenue Code.
+
  __Effective Date of 2006 Amendment__ 
 
     Amendment by [Pub. L. 109–280][/us/pl/109/280] applicable to plan years beginning after 2007, see [section 108(e) of Pub. L. 109–280][/us/pl/109/280/s108/e], set out as a note under [section 1021 of this title][/us/usc/t29/s1021].
@@ -295,7 +301,8 @@
 [/us/usc/t29/s1322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1322
 [/us/usc/t29/s1322a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1322a
 [/us/usc/t29/s1322a/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1322a%2Fg
-[/us/usc/t29/s1421/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1421%2Fb
+[/us/pl/113/235/s108/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs108%2Fa%2F3%2FA
+[/us/stat/128/2787]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2787
 [/us/usc/t29/s1082/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1082%2Fb%2F1
 [/us/usc/t29/s1082/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1082%2Fb%2F2
 [/us/usc/t26/s412/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs412%2Fb%2F1
@@ -337,6 +344,8 @@
 [/us/stat/120/819]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F819
 [/us/pl/111/192/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F192%2Fs202%2Fa
 [/us/stat/124/1297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1297
+[/us/pl/113/235/s108/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs108%2Fa%2F3%2FA
+[/us/stat/128/2787]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2787
 [/us/usc/t29/s1322/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1322%2Fc
 [/us/usc/t29/s1322/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1322%2Fd
 [/us/pl/100/203/s9312/b/3/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs9312%2Fb%2F3%2FA%2Fi
@@ -349,6 +358,7 @@
 [/us/usc/t49/s41102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs41102
 [/us/pl/103/272/s6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs6%2Fb
 [/us/stat/108/1378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1378
+[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
 [/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
 [/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
 [/us/usc/t29/s1082/c/11/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1082%2Fc%2F11%2FA
@@ -386,6 +396,9 @@
 [/us/pl/96/364/s402/a/1/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364%2Fs402%2Fa%2F1%2FE
 [/us/pl/96/364/s402/a/1/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364%2Fs402%2Fa%2F1%2FF
 [/us/pl/99/272/s11004/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs11004%2Fb
+[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
+[/us/pl/113/235/s108/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs108%2Fc
+[/us/usc/t26/s418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs418
 [/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
 [/us/pl/109/280/s108/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs108%2Fe
 [/us/usc/t29/s1021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1021

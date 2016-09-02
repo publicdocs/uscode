@@ -633,11 +633,43 @@
 
                 </table>
 
-    (k) __Cross reference__ 
+    (k) __Special rule for determining normal retirement age for certain existing defined benefit plans__ 
+
+        (1) __In general__ 
+
+            Notwithstanding [section 1002(24) of this title][/us/usc/t29/s1002/24], an applicable plan shall not be treated as failing to meet any requirement of this subchapter, or as failing to have a uniform normal retirement age for purposes of this subchapter, solely because the plan provides for a normal retirement age described in paragraph (2).
+
+        (2) __Applicable plan__ 
+
+        For purposes of this subsection—
+
+            (A) __In general__ 
+
+            The term “applicable plan” means a defined benefit plan the terms of which, on or before December 8, 2014, provided for a normal retirement age which is the earlier of—
+
+                (i) an age otherwise permitted under [section 1002(24) of this title][/us/usc/t29/s1002/24], or
+
+                (ii) the age at which a participant completes the number of years (not less than 30 years) of benefit accrual service specified by the plan.
+
+        A plan shall not fail to be treated as an applicable plan solely because the normal retirement age described in the preceding sentence only applied to certain participants or only applied to employees of certain employers in the case of a plan maintained by more than 1 employer.
+
+        (B) __Expanded application__ 
+
+            Subject to subparagraph (C), if, after December 8, 2014, an applicable plan is amended to expand the application of the normal retirement age described in subparagraph (A) to additional participants or to employees of additional employers maintaining the plan, such plan shall also be treated as an applicable plan with respect to such participants or employees.
+
+        (C) __Limitation on expanded application__ 
+
+        A defined benefit plan shall be an applicable plan only with respect to an individual who—
+
+            (i) is a participant in the plan on or before January 1, 2017, or
+
+            (ii) is an employee at any time on or before January 1, 2017, of any employer maintaining the plan, and who becomes a participant in such plan after such date.
+
+    (l) __Cross reference__ 
 
         For special rules relating to plan provisions adopted to preclude discrimination, see [section 1053(c)(2) of this title][/us/usc/t29/s1053/c/2].
 
-([Pub. L. 93–406, title I, § 204][/us/pl/93/406/s204], Sept. 2, 1974, [88 Stat. 858][/us/stat/88/858]; [Pub. L. 98–397, title I][/us/pl/98/397], §§ 102(e)(3), (f), 105(b), title III, § 301(a)(2), Aug. 23, 1984, [98 Stat. 1429][/us/stat/98/1429], 1436, 1451; [Pub. L. 99–272, title XI, § 11006(a)][/us/pl/99/272/s11006/a], Apr. 7, 1986, [100 Stat. 243][/us/stat/100/243]; [Pub. L. 99–509, title IX, § 9202(a)][/us/pl/99/509/s9202/a], Oct. 21, 1986, [100 Stat. 1975][/us/stat/100/1975]; [Pub. L. 99–514, title XI, § 1113(e)(4)(B)][/us/pl/99/514/s1113/e/4/B], title XVIII, §§ 1879(u)(1), 1898(a)(4)(B)(ii), (f)(1)(B), (2), Oct. 22, 1986, [100 Stat. 2448][/us/stat/100/2448], 2913, 2944, 2956; [Pub. L. 100–203, title IX, § 9346(a)][/us/pl/100/203/s9346/a], Dec. 22, 1987, [101 Stat. 1330–374][/us/stat/101/1330-374]; [Pub. L. 101–239, title VII][/us/pl/101/239], §§ 7862(b)(1)(A), (2), 7871(a)(1), (3), 7881(m)(2)(A)–(C), 7891(a)(1), 7894(c)(4)–(6), Dec. 19, 1989, [103 Stat. 2432][/us/stat/103/2432], 2434, 2435, 2444, 2445, 2449; [Pub. L. 103–465, title VII, § 766(a)][/us/pl/103/465/s766/a], Dec. 8, 1994, [108 Stat. 5036][/us/stat/108/5036]; [Pub. L. 105–34, title X, § 1071(b)(2)][/us/pl/105/34/s1071/b/2], Aug. 5, 1997, [111 Stat. 948][/us/stat/111/948]; [Pub. L. 107–16, title VI][/us/pl/107/16], §§ 645(a)(2), (b)(2), 659(b), June 7, 2001, [115 Stat. 124][/us/stat/115/124], 125, 139; [Pub. L. 107–147, title IV, § 411(u)(2)][/us/pl/107/147/s411/u/2], Mar. 9, 2002, [116 Stat. 52][/us/stat/116/52]; [Pub. L. 109–280, title I, § 108(a)(5)][/us/pl/109/280/s108/a/5]–(8), formerly § 107(a)(5)–(8), title V, § 502(c)(1), title VII, § 701(a)(1), title IX, § 901(b)(1), Aug. 17, 2006, [120 Stat. 819][/us/stat/120/819], 941, 981, 1029, renumbered [Pub. L. 111–192, title II, § 202(a)][/us/pl/111/192/s202/a], June 25, 2010, [124 Stat. 1297][/us/stat/124/1297]; [Pub. L. 110–458, title I, § 107(a)(2)][/us/pl/110/458/s107/a/2], (3), Dec. 23, 2008, [122 Stat. 5107][/us/stat/122/5107]; [Pub. L. 113–97, title I, § 102(b)(4)][/us/pl/113/97/s102/b/4], Apr. 7, 2014, [128 Stat. 1116][/us/stat/128/1116].)
+([Pub. L. 93–406, title I, § 204][/us/pl/93/406/s204], Sept. 2, 1974, [88 Stat. 858][/us/stat/88/858]; [Pub. L. 98–397, title I][/us/pl/98/397], §§ 102(e)(3), (f), 105(b), title III, § 301(a)(2), Aug. 23, 1984, [98 Stat. 1429][/us/stat/98/1429], 1436, 1451; [Pub. L. 99–272, title XI, § 11006(a)][/us/pl/99/272/s11006/a], Apr. 7, 1986, [100 Stat. 243][/us/stat/100/243]; [Pub. L. 99–509, title IX, § 9202(a)][/us/pl/99/509/s9202/a], Oct. 21, 1986, [100 Stat. 1975][/us/stat/100/1975]; [Pub. L. 99–514, title XI, § 1113(e)(4)(B)][/us/pl/99/514/s1113/e/4/B], title XVIII, §§ 1879(u)(1), 1898(a)(4)(B)(ii), (f)(1)(B), (2), Oct. 22, 1986, [100 Stat. 2448][/us/stat/100/2448], 2913, 2944, 2956; [Pub. L. 100–203, title IX, § 9346(a)][/us/pl/100/203/s9346/a], Dec. 22, 1987, [101 Stat. 1330–374][/us/stat/101/1330-374]; [Pub. L. 101–239, title VII][/us/pl/101/239], §§ 7862(b)(1)(A), (2), 7871(a)(1), (3), 7881(m)(2)(A)–(C), 7891(a)(1), 7894(c)(4)–(6), Dec. 19, 1989, [103 Stat. 2432][/us/stat/103/2432], 2434, 2435, 2444, 2445, 2449; [Pub. L. 103–465, title VII, § 766(a)][/us/pl/103/465/s766/a], Dec. 8, 1994, [108 Stat. 5036][/us/stat/108/5036]; [Pub. L. 105–34, title X, § 1071(b)(2)][/us/pl/105/34/s1071/b/2], Aug. 5, 1997, [111 Stat. 948][/us/stat/111/948]; [Pub. L. 107–16, title VI][/us/pl/107/16], §§ 645(a)(2), (b)(2), 659(b), June 7, 2001, [115 Stat. 124][/us/stat/115/124], 125, 139; [Pub. L. 107–147, title IV, § 411(u)(2)][/us/pl/107/147/s411/u/2], Mar. 9, 2002, [116 Stat. 52][/us/stat/116/52]; [Pub. L. 109–280, title I, § 108(a)(5)][/us/pl/109/280/s108/a/5]–(8), formerly § 107(a)(5)–(8), title V, § 502(c)(1), title VII, § 701(a)(1), title IX, § 901(b)(1), Aug. 17, 2006, [120 Stat. 819][/us/stat/120/819], 941, 981, 1029, renumbered [Pub. L. 111–192, title II, § 202(a)][/us/pl/111/192/s202/a], June 25, 2010, [124 Stat. 1297][/us/stat/124/1297]; [Pub. L. 110–458, title I, § 107(a)(2)][/us/pl/110/458/s107/a/2], (3), Dec. 23, 2008, [122 Stat. 5107][/us/stat/122/5107]; [Pub. L. 113–97, title I, § 102(b)(4)][/us/pl/113/97/s102/b/4], Apr. 7, 2014, [128 Stat. 1116][/us/stat/128/1116]; [Pub. L. 113–235, div. P, § 2(a)][/us/pl/113/235/s2/a], Dec. 16, 2014, [128 Stat. 2827][/us/stat/128/2827].)
 
  __References in Text__ 
 
@@ -646,6 +678,8 @@
  __Amendments__ 
 
     2014—Subsec. (i)(3). [Pub. L. 113–97][/us/pl/113/97] substituted “multiemployer plans or CSEC plans” for “multiemployer plans”.
+
+    Subsecs. (k), (l). [Pub. L. 113–235][/us/pl/113/235] added subsec. (k) and redesignated former subsec. (k) as (l).
 
     2008—Subsec. (b)(5)(A)(iii). [Pub. L. 110–458, § 107(a)(2)(A)][/us/pl/110/458/s107/a/2/A], substituted “subparagraph” for “clause”.
 
@@ -762,6 +796,8 @@
     Subsec. (g). [Pub. L. 98–397, § 301(a)(2)][/us/pl/98/397/s301/a/2], designated existing provisions as par. (1) and added par. (2).
 
  __Effective Date of 2014 Amendment__ 
+
+    Amendment by [Pub. L. 113–235][/us/pl/113/235] applicable to all periods before, on, and after Dec. 16, 2014, see [section 2(c) of div. P of Pub. L. 113–235][/us/pl/113/235/s2/c], set out as a note under [section 411 of Title 26][/us/usc/t26/s411], Internal Revenue Code.
 
     Amendment by [Pub. L. 113–97][/us/pl/113/97] applicable to years beginning after Dec. 31, 2013, see [section 3 of Pub. L. 113–97][/us/pl/113/97/s3], set out as a note under [section 401 of Title 26][/us/usc/t26/s401], Internal Revenue Code.
 
@@ -929,6 +965,8 @@
 [/us/usc/t29/s1107/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1107%2Fd%2F1
 [/us/usc/t26/s4975/e/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs4975%2Fe%2F7
 [/us/usc/t29/s1053/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1053%2Fb%2F2
+[/us/usc/t29/s1002/24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1002%2F24
+[/us/usc/t29/s1002/24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1002%2F24
 [/us/usc/t29/s1053/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1053%2Fc%2F2
 [/us/pl/93/406/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs204
 [/us/stat/88/858]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F858
@@ -960,10 +998,13 @@
 [/us/stat/122/5107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F5107
 [/us/pl/113/97/s102/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97%2Fs102%2Fb%2F4
 [/us/stat/128/1116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1116
+[/us/pl/113/235/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs2%2Fa
+[/us/stat/128/2827]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2827
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
 [/us/usc/t42/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1305
 [/us/pl/113/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97
+[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
 [/us/pl/110/458/s107/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2Fs107%2Fa%2F2%2FA
 [/us/pl/110/458/s107/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2Fs107%2Fa%2F3
 [/us/pl/110/458/s107/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2Fs107%2Fa%2F2%2FB
@@ -1032,6 +1073,9 @@
 [/us/pl/98/397/s105/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F397%2Fs105%2Fb
 [/us/pl/98/397/s102/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F397%2Fs102%2Ff
 [/us/pl/98/397/s301/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F397%2Fs301%2Fa%2F2
+[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
+[/us/pl/113/235/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs2%2Fc
+[/us/usc/t26/s411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs411
 [/us/pl/113/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97
 [/us/pl/113/97/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97%2Fs3
 [/us/usc/t26/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs401

@@ -47,7 +47,7 @@
 
                 (v) in the Library of Congress, or
 
-                (vi) the  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be preceded by “in”. </sup></sup>  Government Printing Office;
+                (vi) the  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be preceded by “in”. </sup></sup>  Government Publishing Office;
 
             (B) any individual employed by the United States Postal Service or the Postal Regulatory Commission; and
 
@@ -173,7 +173,7 @@
 
         (2) is engaged in the prevention, control, and extinguishment of fires or response to emergency situations where life, property, or the environment is at risk.
 
-([June 25, 1938, ch. 676, § 3][/us/act/1938-06-25/ch676/s3], [52 Stat. 1060][/us/stat/52/1060]; 1946 Reorg. Plan No. 2, § 1(b), eff. July 16, 1946, 11 F.R. 7873, [60 Stat. 1095][/us/stat/60/1095]; [Oct. 26, 1949, ch. 736, § 3][/us/act/1949-10-26/ch736/s3], [63 Stat. 911][/us/stat/63/911]; [Pub. L. 87–30, § 2][/us/pl/87/30/s2], May 5, 1961, [75 Stat. 65][/us/stat/75/65]; [Pub. L. 89–601, title I][/us/pl/89/601], §§ 101–103, title II, § 215(a), Sept. 23, 1966, [80 Stat. 830–832][/us/stat/80/830-832], 837; [Pub. L. 92–318, title IX, § 906(b)(2)][/us/pl/92/318/s906/b/2], (3), June 23, 1972, [86 Stat. 375][/us/stat/86/375]; [Pub. L. 93–259][/us/pl/93/259], §§ 6(a), 13(e), Apr. 8, 1974, [88 Stat. 58][/us/stat/88/58], 64; [Pub. L. 95–151][/us/pl/95/151], §§ 3(a), (b), 9(a)–(c), Nov. 1, 1977, [91 Stat. 1249][/us/stat/91/1249], 1251; [Pub. L. 99–150][/us/pl/99/150], §§ 4(a), 5, Nov. 13, 1985, [99 Stat. 790][/us/stat/99/790]; [Pub. L. 101–157][/us/pl/101/157], §§ 3(a), (d), 5, Nov. 17, 1989, [103 Stat. 938][/us/stat/103/938], 939, 941; [Pub. L. 104–1, title II, § 203(d)][/us/pl/104/1/s203/d], Jan. 23, 1995, [109 Stat. 10][/us/stat/109/10]; [Pub. L. 104–188][/us/pl/104/188], \[title II\], § 2105(b), Aug. 20, 1996, [110 Stat. 1929][/us/stat/110/1929]; [Pub. L. 105–221, § 2][/us/pl/105/221/s2], Aug. 7, 1998, [112 Stat. 1248][/us/stat/112/1248]; [Pub. L. 106–151, § 1][/us/pl/106/151/s1], Dec. 9, 1999, [113 Stat. 1731][/us/stat/113/1731]; [Pub. L. 109–435, title VI, § 604(f)][/us/pl/109/435/s604/f], Dec. 20, 2006, [120 Stat. 3242][/us/stat/120/3242].)
+([June 25, 1938, ch. 676, § 3][/us/act/1938-06-25/ch676/s3], [52 Stat. 1060][/us/stat/52/1060]; 1946 Reorg. Plan No. 2, § 1(b), eff. July 16, 1946, 11 F.R. 7873, [60 Stat. 1095][/us/stat/60/1095]; [Oct. 26, 1949, ch. 736, § 3][/us/act/1949-10-26/ch736/s3], [63 Stat. 911][/us/stat/63/911]; [Pub. L. 87–30, § 2][/us/pl/87/30/s2], May 5, 1961, [75 Stat. 65][/us/stat/75/65]; [Pub. L. 89–601, title I][/us/pl/89/601], §§ 101–103, title II, § 215(a), Sept. 23, 1966, [80 Stat. 830–832][/us/stat/80/830-832], 837; [Pub. L. 92–318, title IX, § 906(b)(2)][/us/pl/92/318/s906/b/2], (3), June 23, 1972, [86 Stat. 375][/us/stat/86/375]; [Pub. L. 93–259][/us/pl/93/259], §§ 6(a), 13(e), Apr. 8, 1974, [88 Stat. 58][/us/stat/88/58], 64; [Pub. L. 95–151][/us/pl/95/151], §§ 3(a), (b), 9(a)–(c), Nov. 1, 1977, [91 Stat. 1249][/us/stat/91/1249], 1251; [Pub. L. 99–150][/us/pl/99/150], §§ 4(a), 5, Nov. 13, 1985, [99 Stat. 790][/us/stat/99/790]; [Pub. L. 101–157][/us/pl/101/157], §§ 3(a), (d), 5, Nov. 17, 1989, [103 Stat. 938][/us/stat/103/938], 939, 941; [Pub. L. 104–1, title II, § 203(d)][/us/pl/104/1/s203/d], Jan. 23, 1995, [109 Stat. 10][/us/stat/109/10]; [Pub. L. 104–188][/us/pl/104/188], \[title II\], § 2105(b), Aug. 20, 1996, [110 Stat. 1929][/us/stat/110/1929]; [Pub. L. 105–221, § 2][/us/pl/105/221/s2], Aug. 7, 1998, [112 Stat. 1248][/us/stat/112/1248]; [Pub. L. 106–151, § 1][/us/pl/106/151/s1], Dec. 9, 1999, [113 Stat. 1731][/us/stat/113/1731]; [Pub. L. 109–435, title VI, § 604(f)][/us/pl/109/435/s604/f], Dec. 20, 2006, [120 Stat. 3242][/us/stat/120/3242]; [Pub. L. 113–235, div. H, title I, § 1301(b)][/us/pl/113/235/s1301/b], Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537].)
 
  __References in Text__ 
 
@@ -264,6 +264,10 @@
     Subsec. (l)(1). Act Oct. 26, 1949, § 3(c), included parental employment of a child under 16 years of age in an occupation found by the Secretary of Labor to be hazardous for children between the ages of 16 and 18 years, in definition of oppressive child labor.
 
     Subsecs. (n), (o). Act Oct. 26, 1949, § 3(d), added subsecs. (n) and (o).
+
+ __Change of Name__ 
+
+    “Government Publishing Office” substituted for “Government Printing Office” in subsec. (e)(2)(A)(vi) on authority of [section 1301(b) of Pub. L. 113–235][/us/pl/113/235/s1301/b], set out as a note preceding [section 301 of Title 44][/us/usc/t44/s301], Public Printing and Documents.
 
  __Construction of 1999 Amendment__ 
 
@@ -409,6 +413,8 @@
 [/us/stat/113/1731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1731
 [/us/pl/109/435/s604/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2Fs604%2Ff
 [/us/stat/120/3242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3242
+[/us/pl/113/235/s1301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fb
+[/us/stat/128/2537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2537
 [/us/usc/t12/s1141j/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1141j%2Fg
 [/us/pl/110/246/s1610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs1610
 [/us/stat/122/1746]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1746
@@ -449,6 +455,8 @@
 [/us/pl/87/30/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F30%2Fs2%2Fa
 [/us/pl/87/30/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F30%2Fs2%2Fb
 [/us/pl/87/30/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F30%2Fs2%2Fc
+[/us/pl/113/235/s1301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fb
+[/us/usc/t44/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs301
 [/us/pl/106/151/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F151%2Fs2
 [/us/stat/113/1731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1731
 [/us/usc/t29/s207/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs207%2Fk

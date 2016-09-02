@@ -85,9 +85,9 @@
 
          Notwithstanding subsection (b) of this section, the plan sponsor shall not transfer any assets to the new plan if—
 
-            (A) the old plan is in reorganization (within the meaning of [section 1421(a) of this title][/us/usc/t29/s1421/a]), or
+            (A) the old plan is in reorganization (within the meaning of section 1421(a)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title), or
 
-            (B) the transfer of assets would cause the old plan to go into reorganization (within the meaning of [section 1421(a) of this title][/us/usc/t29/s1421/a]).
+            (B) the transfer of assets would cause the old plan to go into reorganization (within the meaning of section 1421(a) 1 of this title).
 
         (2)
 
@@ -121,6 +121,8 @@
 
  __References in Text__ 
 
+    [Section 1421 of this title][/us/usc/t29/s1421], referred to in subsec. (e)(1), was repealed by [Pub. L. 113–235, div. O, title I, § 108(a)(1)][/us/pl/113/235/s108/a/1], Dec. 16, 2014, [128 Stat. 2786][/us/stat/128/2786].
+
     The Labor-Management Relations Act, 1947, referred to in subsec. (g)(2), is [act June 23, 1947, ch. 120][/us/act/1947-06-23/ch120], [61 Stat. 136][/us/stat/61/136], as amended, which is classified principally to chapter 7 (§ 141 et seq.) of this title. For complete classification of this Act to the Code, see [section 141 of this title][/us/usc/t29/s141] and Tables.
 
     The Railway Labor Act, referred to in subsec. (g)(2), is [act May 20, 1926, ch. 347][/us/act/1926-05-20/ch347], [44 Stat. 577][/us/stat/44/577], as amended, which is classified principally to chapter 8 (§ 151 et seq.) of Title 45, Railroads. For complete classification of this Act to the Code, see [section 151 of Title 45][/us/usc/t45/s151] and Tables.
@@ -142,8 +144,6 @@
 
 [/us/usc/t29/s1381/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1381%2Fb
 [/us/usc/t29/s1399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1399
-[/us/usc/t29/s1421/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1421%2Fa
-[/us/usc/t29/s1421/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1421%2Fa
 [/us/usc/t29/s1391/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1391%2Fe
 [/us/usc/t29/s141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs141
 [/us/usc/t45/s151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs151
@@ -152,6 +152,9 @@
 [/us/stat/94/1247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1247
 [/us/pl/98/369/s558/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs558%2Fb%2F1%2FA
 [/us/stat/98/899]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F899
+[/us/usc/t29/s1421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1421
+[/us/pl/113/235/s108/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs108%2Fa%2F1
+[/us/stat/128/2786]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2786
 [/us/act/1947-06-23/ch120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-06-23%2Fch120
 [/us/stat/61/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F136
 [/us/usc/t29/s141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs141

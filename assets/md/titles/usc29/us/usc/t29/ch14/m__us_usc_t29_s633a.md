@@ -17,7 +17,7 @@
 
     (a) __Federal agencies affected__ 
 
-        All personnel actions affecting employees or applicants for employment who are at least 40 years of age (except personnel actions with regard to aliens employed outside the limits of the United States) in military departments as defined in [section 102 of title 5][/us/usc/t5/s102], in executive agencies as defined in [section 105 of title 5][/us/usc/t5/s105] (including employees and applicants for employment who are paid from nonappropriated funds), in the United States Postal Service and the Postal Regulatory Commission, in those units in the government of the District of Columbia having positions in the competitive service, and in those units of the judicial branch of the Federal Government having positions in the competitive service, in the Smithsonian Institution, and in the Government Printing Office, the Government Accountability Office, and the Library of Congress shall be made free from any discrimination based on age.
+        All personnel actions affecting employees or applicants for employment who are at least 40 years of age (except personnel actions with regard to aliens employed outside the limits of the United States) in military departments as defined in [section 102 of title 5][/us/usc/t5/s102], in executive agencies as defined in [section 105 of title 5][/us/usc/t5/s105] (including employees and applicants for employment who are paid from nonappropriated funds), in the United States Postal Service and the Postal Regulatory Commission, in those units in the government of the District of Columbia having positions in the competitive service, and in those units of the judicial branch of the Federal Government having positions in the competitive service, in the Smithsonian Institution, and in the Government Publishing Office, the Government Accountability Office, and the Library of Congress shall be made free from any discrimination based on age.
 
     (b) __Enforcement by Equal Employment Opportunity Commission and by Librarian of Congress in the Library of Congress; remedies; rules, regulations, orders, and instructions of Commission: compliance by Federal agencies; powers and duties of Commission; notification of final action on complaint of discrimination; exemptions: bona fide occupational qualification__ 
 
@@ -53,7 +53,7 @@
 
         (2) The Equal Employment Opportunity Commission shall transmit a report to the President and to the Congress containing the findings of the Commission resulting from the study of the Commission under paragraph (1) of this subsection. Such report shall be transmitted no later than January 1, 1980.
 
-([Pub. L. 90–202, § 15][/us/pl/90/202/s15], as added [Pub. L. 93–259, § 28(b)(2)][/us/pl/93/259/s28/b/2], Apr. 8, 1974, [88 Stat. 74][/us/stat/88/74]; amended [Pub. L. 95–256, § 5(a)][/us/pl/95/256/s5/a], (e), Apr. 6, 1978, [92 Stat. 191][/us/stat/92/191]; 1978 Reorg. Plan No. 1, eff. Jan. 1, 1979, § 2, 43 F.R. 19807, [92 Stat. 3781][/us/stat/92/3781]; [Pub. L. 104–1, title II, § 201(c)(2)][/us/pl/104/1/s201/c/2], Jan. 23, 1995, [109 Stat. 8][/us/stat/109/8]; [Pub. L. 105–220, title III, § 341(b)][/us/pl/105/220/s341/b], Aug. 7, 1998, [112 Stat. 1092][/us/stat/112/1092]; [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814]; [Pub. L. 109–435, title VI, § 604(f)][/us/pl/109/435/s604/f], Dec. 20, 2006, [120 Stat. 3242][/us/stat/120/3242]; [Pub. L. 111–2, § 5(c)(3)][/us/pl/111/2/s5/c/3], Jan. 29, 2009, [123 Stat. 7][/us/stat/123/7].)
+([Pub. L. 90–202, § 15][/us/pl/90/202/s15], as added [Pub. L. 93–259, § 28(b)(2)][/us/pl/93/259/s28/b/2], Apr. 8, 1974, [88 Stat. 74][/us/stat/88/74]; amended [Pub. L. 95–256, § 5(a)][/us/pl/95/256/s5/a], (e), Apr. 6, 1978, [92 Stat. 191][/us/stat/92/191]; 1978 Reorg. Plan No. 1, eff. Jan. 1, 1979, § 2, 43 F.R. 19807, [92 Stat. 3781][/us/stat/92/3781]; [Pub. L. 104–1, title II, § 201(c)(2)][/us/pl/104/1/s201/c/2], Jan. 23, 1995, [109 Stat. 8][/us/stat/109/8]; [Pub. L. 105–220, title III, § 341(b)][/us/pl/105/220/s341/b], Aug. 7, 1998, [112 Stat. 1092][/us/stat/112/1092]; [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814]; [Pub. L. 109–435, title VI, § 604(f)][/us/pl/109/435/s604/f], Dec. 20, 2006, [120 Stat. 3242][/us/stat/120/3242]; [Pub. L. 111–2, § 5(c)(3)][/us/pl/111/2/s5/c/3], Jan. 29, 2009, [123 Stat. 7][/us/stat/123/7]; [Pub. L. 113–235, div. H, title I, § 1301(b)][/us/pl/113/235/s1301/b], Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537].)
 
  __References in Text__ 
 
@@ -74,6 +74,10 @@
     1978—Subsec. (a). [Pub. L. 95–256, § 5(a)][/us/pl/95/256/s5/a], inserted age requirement of at least 40 years of age, and “personnel actions” after “except”.
 
     Subsecs. (f), (g). [Pub. L. 95–256, § 5(e)][/us/pl/95/256/s5/e], added subsecs. (f) and (g).
+
+ __Change of Name__ 
+
+    “Government Publishing Office” substituted for “Government Printing Office” in subsec. (a) on authority of [section 1301(b) of Pub. L. 113–235][/us/pl/113/235/s1301/b], set out as a note preceding [section 301 of Title 44][/us/usc/t44/s301], Public Printing and Documents.
 
  __Effective Date of 2009 Amendment__ 
 
@@ -131,6 +135,8 @@
 [/us/stat/120/3242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3242
 [/us/pl/111/2/s5/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F2%2Fs5%2Fc%2F3
 [/us/stat/123/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F7
+[/us/pl/113/235/s1301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fb
+[/us/stat/128/2537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2537
 [/us/pl/95/256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F256
 [/us/pl/111/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F2
 [/us/pl/109/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435
@@ -139,6 +145,8 @@
 [/us/pl/104/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F1
 [/us/pl/95/256/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F256%2Fs5%2Fa
 [/us/pl/95/256/s5/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F256%2Fs5%2Fe
+[/us/pl/113/235/s1301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fb
+[/us/usc/t44/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs301
 [/us/pl/111/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F2
 [/us/pl/111/2/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F2%2Fs6
 [/us/usc/t42/s2000e–5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2000e%E2%80%935

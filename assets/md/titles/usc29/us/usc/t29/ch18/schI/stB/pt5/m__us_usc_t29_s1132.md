@@ -41,7 +41,7 @@
 
         (8) by the Secretary, or by an employer or other person referred to in [section 1021(f)(1) of this title][/us/usc/t29/s1021/f/1], (A) to enjoin any act or practice which violates subsection (f) of [section 1021 of this title][/us/usc/t29/s1021], or (B) to obtain appropriate equitable relief (i) to redress such violation or (ii) to enforce such subsection;
 
-        (9) in the event that the purchase of an insurance contract or insurance annuity in connection with termination of an individual’s status as a participant covered under a pension plan with respect to all or any portion of the participant’s pension benefit under such plan constitutes a violation of part 4 of this title  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “subtitle”. </sup></sup>  or the terms of the plan, by the Secretary, by any individual who was a participant or beneficiary at the time of the alleged violation, or by a fiduciary, to obtain appropriate relief, including the posting of security if necessary, to assure receipt by the participant or beneficiary of the amounts provided or to be provided by such insurance contract or annuity, plus reasonable prejudgment interest on such amounts; or
+        (9) in the event that the purchase of an insurance contract or insurance annuity in connection with termination of an individual’s status as a participant covered under a pension plan with respect to all or any portion of the participant’s pension benefit under such plan constitutes a violation of part 4 of this title  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “subtitle”. </sup></sup>  or the terms of the plan, by the Secretary, by any individual who was a participant or beneficiary at the time of the alleged violation, or by a fiduciary, to obtain appropriate relief, including the posting of security if necessary, to assure receipt by the participant or beneficiary of the amounts provided or to be provided by such insurance contract or annuity, plus reasonable prejudgment interest on such amounts;
 
         (10)
 
@@ -51,7 +51,9 @@
 
             (B) fails to update or comply with the terms of the funding improvement or rehabilitation plan in accordance with the requirements of such section,
 
-            by an employer that has an obligation to contribute with respect to the multiemployer plan or an employee organization that represents active participants in the multiemployer plan, for an order compelling the plan sponsor to adopt a funding improvement or rehabilitation plan or to update or comply with the terms of the funding improvement or rehabilitation plan in accordance with the requirements of such section and the funding improvement or rehabilitation plan.
+            by an employer that has an obligation to contribute with respect to the multiemployer plan or an employee organization that represents active participants in the multiemployer plan, for an order compelling the plan sponsor to adopt a funding improvement or rehabilitation plan or to update or comply with the terms of the funding improvement or rehabilitation plan in accordance with the requirements of such section and the funding improvement or rehabilitation plan; or
+
+        (11) in the case of a multiemployer plan, by an employee representative, or any employer that has an obligation to contribute to the plan, (A) to enjoin any act or practice which violates subsection (k) of [section 1021 of this title][/us/usc/t29/s1021] (or, in the case of an employer, subsection (l) of such section), or (B) to obtain appropriate equitable relief (i) to redress such violation or (ii) to enforce such subsection.
 
     (b) __Plans qualified under Internal Revenue Code; maintenance of actions involving delinquent contributions__ 
 
@@ -261,11 +263,7 @@
 
         In the case of a distribution to a pension plan participant or beneficiary in violation of [section 1056(e) of this title][/us/usc/t29/s1056/e] by a plan fiduciary, the Secretary shall assess a penalty against such fiduciary in an amount equal to the value of the distribution. Such penalty shall not exceed $10,000 for each such distribution.
 
-([Pub. L. 93–406, title I, § 502][/us/pl/93/406/s502], Sept. 2, 1974, [88 Stat. 891][/us/stat/88/891]; [Pub. L. 96–364, title III, § 306(b)][/us/pl/96/364/s306/b], Sept. 26, 1980, [94 Stat. 1295][/us/stat/94/1295]; [Pub. L. 99–272, title X, § 10002(b)][/us/pl/99/272/s10002/b], Apr. 7, 1986, [100 Stat. 231][/us/stat/100/231]; [Pub. L. 100–203, title IX][/us/pl/100/203], §§ 9342(c), 9344, Dec. 22, 1987, [101 Stat. 1330–372][/us/stat/101/1330-372], 1330–373; [Pub. L. 101–239, title II, § 2101(a)][/us/pl/101/239/s2101/a], (b), title VII, §§ 7881(b)(5)(B), (j)(2), (3), 7891(a)(1), 7894(f)(1), Dec. 19, 1989, [103 Stat. 2123][/us/stat/103/2123], 2438, 2442, 2445, 2450; [Pub. L. 101–508, title XII, § 12012(d)(2)][/us/pl/101/508/s12012/d/2], Nov. 5, 1990, [104 Stat. 1388–573][/us/stat/104/1388-573]; [Pub. L. 103–66, title IV, § 4301(c)(1)][/us/pl/103/66/s4301/c/1]–(3), Aug. 10, 1993, [107 Stat. 376][/us/stat/107/376]; [Pub. L. 103–401][/us/pl/103/401], §§ 2, 3, Oct. 22, 1994, [108 Stat. 4172][/us/stat/108/4172]; [Pub. L. 103–465, title VII, § 761(a)(9)(B)(ii)][/us/pl/103/465/s761/a/9/B/ii], Dec. 8, 1994, [108 Stat. 5033][/us/stat/108/5033]; [Pub. L. 104–191, title I, § 101(b)][/us/pl/104/191/s101/b], (e)(2), Aug. 21, 1996, [110 Stat. 1951][/us/stat/110/1951], 1952; [Pub. L. 104–204, title VI, § 603(b)(3)(E)][/us/pl/104/204/s603/b/3/E], Sept. 26, 1996, [110 Stat. 2938][/us/stat/110/2938]; [Pub. L. 105–34, title XV, § 1503(c)(2)(B)][/us/pl/105/34/s1503/c/2/B], (d)(7), Aug. 5, 1997, [111 Stat. 1062][/us/stat/111/1062]; [Pub. L. 107–204, title III, § 306(b)(3)][/us/pl/107/204/s306/b/3], July 30, 2002, [116 Stat. 783][/us/stat/116/783]; [Pub. L. 108–218, title I][/us/pl/108/218], §§ 102(d), 103(b), 104(a)(2), Apr. 10, 2004, [118 Stat. 602][/us/stat/118/602], 603, 606; [Pub. L. 109–280, title I, § 103(b)(2)][/us/pl/109/280/s103/b/2], title II, § 202(b), (c), title V, §§ 502(a)(2), (b)(2), 507(b), 508(a)(2)(C), title IX, § 902(f)(2), Aug. 17, 2006, [120 Stat. 816][/us/stat/120/816], 884, 885, 940, 941, 949, 951, 1039; [Pub. L. 110–233, title I, § 101(e)][/us/pl/110/233/s101/e], May 21, 2008, [122 Stat. 886][/us/stat/122/886]; [Pub. L. 110–458, title I][/us/pl/110/458], §§ 101(c)(1)(H), 102(b)(1)(H), (I), Dec. 23, 2008, [122 Stat. 5097][/us/stat/122/5097], 5101; [Pub. L. 111–3, title III, § 311(b)(1)(E)][/us/pl/111/3/s311/b/1/E], Feb. 4, 2009, [123 Stat. 70][/us/stat/123/70]; [Pub. L. 113–97, title I, § 102(b)(6)][/us/pl/113/97/s102/b/6], Apr. 7, 2014, [128 Stat. 1117][/us/stat/128/1117].)
-
- __Amendment of Section__ 
-
-    For termination of amendment by [section 221(c) of Pub. L. 109–280][/us/pl/109/280/s221/c], see Effective and Termination Dates of 2006 Amendment note below.
+([Pub. L. 93–406, title I, § 502][/us/pl/93/406/s502], Sept. 2, 1974, [88 Stat. 891][/us/stat/88/891]; [Pub. L. 96–364, title III, § 306(b)][/us/pl/96/364/s306/b], Sept. 26, 1980, [94 Stat. 1295][/us/stat/94/1295]; [Pub. L. 99–272, title X, § 10002(b)][/us/pl/99/272/s10002/b], Apr. 7, 1986, [100 Stat. 231][/us/stat/100/231]; [Pub. L. 100–203, title IX][/us/pl/100/203], §§ 9342(c), 9344, Dec. 22, 1987, [101 Stat. 1330–372][/us/stat/101/1330-372], 1330–373; [Pub. L. 101–239, title II, § 2101(a)][/us/pl/101/239/s2101/a], (b), title VII, §§ 7881(b)(5)(B), (j)(2), (3), 7891(a)(1), 7894(f)(1), Dec. 19, 1989, [103 Stat. 2123][/us/stat/103/2123], 2438, 2442, 2445, 2450; [Pub. L. 101–508, title XII, § 12012(d)(2)][/us/pl/101/508/s12012/d/2], Nov. 5, 1990, [104 Stat. 1388–573][/us/stat/104/1388-573]; [Pub. L. 103–66, title IV, § 4301(c)(1)][/us/pl/103/66/s4301/c/1]–(3), Aug. 10, 1993, [107 Stat. 376][/us/stat/107/376]; [Pub. L. 103–401][/us/pl/103/401], §§ 2, 3, Oct. 22, 1994, [108 Stat. 4172][/us/stat/108/4172]; [Pub. L. 103–465, title VII, § 761(a)(9)(B)(ii)][/us/pl/103/465/s761/a/9/B/ii], Dec. 8, 1994, [108 Stat. 5033][/us/stat/108/5033]; [Pub. L. 104–191, title I, § 101(b)][/us/pl/104/191/s101/b], (e)(2), Aug. 21, 1996, [110 Stat. 1951][/us/stat/110/1951], 1952; [Pub. L. 104–204, title VI, § 603(b)(3)(E)][/us/pl/104/204/s603/b/3/E], Sept. 26, 1996, [110 Stat. 2938][/us/stat/110/2938]; [Pub. L. 105–34, title XV, § 1503(c)(2)(B)][/us/pl/105/34/s1503/c/2/B], (d)(7), Aug. 5, 1997, [111 Stat. 1062][/us/stat/111/1062]; [Pub. L. 107–204, title III, § 306(b)(3)][/us/pl/107/204/s306/b/3], July 30, 2002, [116 Stat. 783][/us/stat/116/783]; [Pub. L. 108–218, title I][/us/pl/108/218], §§ 102(d), 103(b), 104(a)(2), Apr. 10, 2004, [118 Stat. 602][/us/stat/118/602], 603, 606; [Pub. L. 109–280, title I, § 103(b)(2)][/us/pl/109/280/s103/b/2], title II, § 202(b), (c), title V, §§ 502(a)(2), (b)(2), 507(b), 508(a)(2)(C), title IX, § 902(f)(2), Aug. 17, 2006, [120 Stat. 816][/us/stat/120/816], 884, 885, 940, 941, 949, 951, 1039; [Pub. L. 110–233, title I, § 101(e)][/us/pl/110/233/s101/e], May 21, 2008, [122 Stat. 886][/us/stat/122/886]; [Pub. L. 110–458, title I][/us/pl/110/458], §§ 101(c)(1)(H), 102(b)(1)(H), (I), Dec. 23, 2008, [122 Stat. 5097][/us/stat/122/5097], 5101; [Pub. L. 111–3, title III, § 311(b)(1)(E)][/us/pl/111/3/s311/b/1/E], Feb. 4, 2009, [123 Stat. 70][/us/stat/123/70]; [Pub. L. 113–97, title I, § 102(b)(6)][/us/pl/113/97/s102/b/6], Apr. 7, 2014, [128 Stat. 1117][/us/stat/128/1117]; [Pub. L. 113–235, div. O, title I, § 111(d)][/us/pl/113/235/s111/d], Dec. 16, 2014, [128 Stat. 2793][/us/stat/128/2793].)
 
  __References in Text__ 
 
@@ -285,7 +283,9 @@
 
  __Amendments__ 
 
-    2014—Subsec. (c)(10) to (12). [Pub. L. 113–97][/us/pl/113/97] redesignated par. (10) relating to ongoing consultation by the Secretary and the Secretary of Health and Human Services as par. (11) and added par. (12).
+    2014—Subsec. (a)(11). [Pub. L. 113–235][/us/pl/113/235] added par. (11).
+
+    Subsec. (c)(10) to (12). [Pub. L. 113–97][/us/pl/113/97] redesignated par. (10) relating to ongoing consultation by the Secretary and the Secretary of Health and Human Services as par. (11) and added par. (12).
 
     2009—Subsec. (a)(6). [Pub. L. 111–3, § 311(b)(1)(E)(i)][/us/pl/111/3/s311/b/1/E/i], which directed the substitution of “(8), or (9)” for “or (8)”, could not be executed because the words “or (8)” did not appear after the amendment by [Pub. L. 110–233, § 101(e)(1)][/us/pl/110/233/s101/e/1]. See 2008 Amendment note below.
 
@@ -303,9 +303,9 @@
 
     Subsec. (c)(9), (10). [Pub. L. 110–233, § 101(e)(3)][/us/pl/110/233/s101/e/3], added par. (9) and redesignated former par. (9) as (10).
 
-    2006—Subsec. (a)(6). [Pub. L. 109–280][/us/pl/109/280], §§ 202(b)(1), 221(c), temporarily substituted “(6), (7), or (8)” for “(6), or (7)”. See Effective and Termination Dates of 2006 Amendment note below.
+    2006—Subsec. (a)(6). [Pub. L. 109–280, § 202(b)(1)][/us/pl/109/280/s202/b/1], substituted “(6), (7), or (8)” for “(6), or (7)”.
 
-    Subsec. (a)(8) to (10). [Pub. L. 109–280][/us/pl/109/280], §§ 202(c), 221(c), temporarily amended subsec. (a) by striking out “or” at end of par. (8), substituting “; or” for period at end of par. (9), and adding par. (10). See Effective and Termination Dates of 2006 Amendment note below.
+    Subsec. (a)(8) to (10). [Pub. L. 109–280, § 202(c)][/us/pl/109/280/s202/c], amended subsec. (a) by striking out “or” at end of par. (8), substituting “; or” for period at end of par. (9), and adding par. (10).
 
     Subsec. (c)(1). [Pub. L. 109–280, § 508(a)(2)(C)][/us/pl/109/280/s508/a/2/C], substituted “[section 1021(f) of this title][/us/usc/t29/s1021/f], or [section 1025(a) of this title][/us/usc/t29/s1025/a]” for “or [section 1021(f) of this title][/us/usc/t29/s1021/f]”.
 
@@ -319,7 +319,7 @@
 
     Subsec. (c)(7). [Pub. L. 109–280, § 507(b)][/us/pl/109/280/s507/b], substituted “subsection (i) or (m) of section 1021” for “section 1021(i)”.
 
-    Subsec. (c)(8), (9). [Pub. L. 109–280][/us/pl/109/280], §§ 202(b)(2), (3), 221(c), temporarily added par. (8) and redesignated former par. (8) as (9). See Effective and Termination Dates of 2006 Amendment note below.
+    Subsec. (c)(8), (9). [Pub. L. 109–280, § 202(b)(2)][/us/pl/109/280/s202/b/2], (3), added par. (8) and redesignated former par. (8) as (9).
 
     2004—Subsec. (c)(1). [Pub. L. 108–218, § 103(b)][/us/pl/108/218/s103/b], substituted “, [section 1021(e)(1) of this title][/us/usc/t29/s1021/e/1], or [section 1021(f) of this title][/us/usc/t29/s1021/f]” for “or [section 1021(e)(1) of this title][/us/usc/t29/s1021/e/1]”.
 
@@ -389,6 +389,8 @@
 
  __Effective Date of 2014 Amendment__ 
 
+    Amendment by [Pub. L. 113–235][/us/pl/113/235] applicable with respect to plan years beginning after Dec. 31, 2014, see [section 111(e) of Pub. L. 113–235][/us/pl/113/235/s111/e], set out as a note under [section 1021 of this title][/us/usc/t29/s1021].
+
     Amendment by [Pub. L. 113–97][/us/pl/113/97] applicable to years beginning after Dec. 31, 2013, see [section 3 of Pub. L. 113–97][/us/pl/113/97/s3], set out as a note under [section 401 of Title 26][/us/usc/t26/s401], Internal Revenue Code.
 
  __Effective Date of 2009 Amendment__ 
@@ -403,21 +405,19 @@
 
 > “The amendments made by this section \[amending this section and sections 1182 and 1191b of this title\] shall apply with respect to group health plans for plan years beginning after the date that is 1 year after the date of enactment of this Act \[May 21, 2008\].”
 
- __Effective and Termination Dates of 2006 Amendment__ 
+ __Effective Date of 2006 Amendment__ 
 
-    Amendment by [section 103(b)(2) of Pub. L. 109–280][/us/pl/109/280/s103/b/2] applicable to plan years beginning after Dec. 31, 2007, with collective bargaining exception, see [section 103(c) of Pub. L. 109–280][/us/pl/109/280/s103/c], set out as an Effective Date of 2006 Amendment note under [section 1021 of this title][/us/usc/t29/s1021].
+    Amendment by [section 103(b)(2) of Pub. L. 109–280][/us/pl/109/280/s103/b/2] applicable to plan years beginning after Dec. 31, 2007, with collective bargaining exception, see [section 103(c) of Pub. L. 109–280][/us/pl/109/280/s103/c], set out as a note under [section 1021 of this title][/us/usc/t29/s1021].
 
     Amendment by section 202(b), (c) of [Pub. L. 109–280][/us/pl/109/280] applicable with respect to plan years beginning after 2007, with special rules for certain notices and certain restored benefits, see [section 202(f) of Pub. L. 109–280][/us/pl/109/280/s202/f], set out as a note under [section 1082 of this title][/us/usc/t29/s1082].
 
-    Amendment by section 202(b), (c) of [Pub. L. 109–280][/us/pl/109/280] inapplicable to plan years beginning after Dec. 31, 2014, with exception for certain funding improvement and rehabilitation plans, see [section 221(c) of Pub. L. 109–280][/us/pl/109/280/s221/c], set out as a note under [section 412 of Title 26][/us/usc/t26/s412], Internal Revenue Code.
+    Amendment by section 502(a)(2), (b)(2) of [Pub. L. 109–280][/us/pl/109/280] applicable to plan years beginning after Dec. 31, 2007, see [section 502(d) of Pub. L. 109–280][/us/pl/109/280/s502/d], set out as a note under [section 4980F of Title 26][/us/usc/t26/s4980F], Internal Revenue Code.
 
-    Amendment by section 502(a)(2), (b)(2) of [Pub. L. 109–280][/us/pl/109/280] applicable to plan years beginning after Dec. 31, 2007, see [section 502(d) of Pub. L. 109–280][/us/pl/109/280/s502/d], set out as an Effective Date of 2006 Amendment note under [section 4980F of Title 26][/us/usc/t26/s4980F], Internal Revenue Code.
+    Amendment by [section 507(b) of Pub. L. 109–280][/us/pl/109/280/s507/b] applicable to plan years beginning after Dec. 31, 2006, see [section 507(d)(1) of Pub. L. 109–280][/us/pl/109/280/s507/d/1], set out as a note under [section 1021 of this title][/us/usc/t29/s1021].
 
-    Amendment by [section 507(b) of Pub. L. 109–280][/us/pl/109/280/s507/b] applicable to plan years beginning after Dec. 31, 2006, see [section 507(d)(1) of Pub. L. 109–280][/us/pl/109/280/s507/d/1], set out as an Effective Date of 2006 Amendment note under [section 1021 of this title][/us/usc/t29/s1021].
+    Amendment by [section 508(a)(2)(C) of Pub. L. 109–280][/us/pl/109/280/s508/a/2/C] applicable to plan years beginning after Dec. 31, 2006, with special rule for collectively bargained agreements that were ratified on or before such date, see [section 508(c) of Pub. L. 109–280][/us/pl/109/280/s508/c], set out as a note under [section 1025 of this title][/us/usc/t29/s1025].
 
-    Amendment by [section 508(a)(2)(C) of Pub. L. 109–280][/us/pl/109/280/s508/a/2/C] applicable to plan years beginning after Dec. 31, 2006, with special rule for collectively bargained agreements that were ratified on or before such date, see [section 508(c) of Pub. L. 109–280][/us/pl/109/280/s508/c], set out as an Effective Date of 2006 Amendment note under [section 1025 of this title][/us/usc/t29/s1025].
-
-    Amendment by section 902(f)(2) effective Aug. 17, 2006, see [section 902(g) of Pub. L. 109–280][/us/pl/109/280/s902/g], set out as an Effective Date of 2006 Amendment note under [section 401 of Title 26][/us/usc/t26/s401], Internal Revenue Code.
+    Amendment by section 902(f)(2) effective Aug. 17, 2006, see [section 902(g) of Pub. L. 109–280][/us/pl/109/280/s902/g], set out as a note under [section 401 of Title 26][/us/usc/t26/s401], Internal Revenue Code.
 
  __Effective Date of 2004 Amendment__ 
 
@@ -519,6 +519,7 @@
 [/us/usc/t29/s1021/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1021%2Ff%2F1
 [/us/usc/t29/s1021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1021
 [/us/usc/t29/s1085]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1085
+[/us/usc/t29/s1021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1021
 [/us/usc/t29/s1145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1145
 [/us/usc/t29/s1191b/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1191b%2Fa%2F1
 [/us/usc/t29/s1021/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1021%2Fe%2F1
@@ -588,7 +589,8 @@
 [/us/stat/123/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F70
 [/us/pl/113/97/s102/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97%2Fs102%2Fb%2F6
 [/us/stat/128/1117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1117
-[/us/pl/109/280/s221/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs221%2Fc
+[/us/pl/113/235/s111/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs111%2Fd
+[/us/stat/128/2793]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2793
 [/us/usc/t26/s405/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs405%2Fa
 [/us/pl/98/369/s491/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs491%2Fa
 [/us/stat/98/848]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F848
@@ -610,6 +612,7 @@
 [/us/usc/t29/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1001
 [/us/pl/107/204/s306/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204%2Fs306%2Fb%2F3
 [/us/usc/t15/s7244/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs7244%2Fb%2F3
+[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
 [/us/pl/113/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97
 [/us/pl/111/3/s311/b/1/E/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F3%2Fs311%2Fb%2F1%2FE%2Fi
 [/us/pl/110/233/s101/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F233%2Fs101%2Fe%2F1
@@ -625,8 +628,8 @@
 [/us/usc/t29/s1144/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1144%2Fe%2F3
 [/us/pl/110/458/s102/b/1/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2Fs102%2Fb%2F1%2FI
 [/us/pl/110/233/s101/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F233%2Fs101%2Fe%2F3
-[/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
-[/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
+[/us/pl/109/280/s202/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs202%2Fb%2F1
+[/us/pl/109/280/s202/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs202%2Fc
 [/us/pl/109/280/s508/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs508%2Fa%2F2%2FC
 [/us/usc/t29/s1021/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1021%2Ff
 [/us/usc/t29/s1025/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1025%2Fa
@@ -644,7 +647,7 @@
 [/us/usc/t29/s1082/b/7/F/iv]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1082%2Fb%2F7%2FF%2Fiv
 [/us/usc/t29/s1082/b/7/F/vi]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1082%2Fb%2F7%2FF%2Fvi
 [/us/pl/109/280/s507/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs507%2Fb
-[/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
+[/us/pl/109/280/s202/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs202%2Fb%2F2
 [/us/pl/108/218/s103/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F218%2Fs103%2Fb
 [/us/usc/t29/s1021/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1021%2Fe%2F1
 [/us/usc/t29/s1021/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1021%2Ff
@@ -693,6 +696,9 @@
 [/us/usc/t29/s1166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1166
 [/us/pl/96/364/s306/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364%2Fs306%2Fb%2F1
 [/us/pl/96/364/s306/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364%2Fs306%2Fb%2F2
+[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
+[/us/pl/113/235/s111/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs111%2Fe
+[/us/usc/t29/s1021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1021
 [/us/pl/113/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97
 [/us/pl/113/97/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97%2Fs3
 [/us/usc/t26/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs401
@@ -711,9 +717,6 @@
 [/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
 [/us/pl/109/280/s202/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs202%2Ff
 [/us/usc/t29/s1082]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1082
-[/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
-[/us/pl/109/280/s221/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs221%2Fc
-[/us/usc/t26/s412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs412
 [/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
 [/us/pl/109/280/s502/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs502%2Fd
 [/us/usc/t26/s4980F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs4980F

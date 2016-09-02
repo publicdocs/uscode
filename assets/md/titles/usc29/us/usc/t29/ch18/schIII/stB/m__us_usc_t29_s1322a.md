@@ -27,9 +27,9 @@
 
         (1)
 
-            (A) For purposes of this section, a benefit or benefit increase which has been in effect under a plan for less than 60 months is not eligible for the corporation’s guarantee. For purposes of this paragraph, any month of any plan year during which the plan was insolvent or terminated (within the meaning of [section 1341a(a)(2) of this title][/us/usc/t29/s1341a/a/2]) shall not be taken into account.
+             (A) For purposes of this section, a benefit or benefit increase which has been in effect under a plan for less than 60 months is not eligible for the corporation’s guarantee. For purposes of this paragraph, any month of any plan year during which the plan was insolvent or terminated (within the meaning of [section 1341a(a)(2) of this title][/us/usc/t29/s1341a/a/2]) shall not be taken into account.
 
-            (B) For purposes of this section, a benefit or benefit increase which has been in effect under a plan for less than 60 months before the first day of the plan year for which an amendment reducing the benefit or the benefit increase is taken into account under [section 1425(a)(2) of this title][/us/usc/t29/s1425/a/2] in determining the minimum contribution requirement for the plan year under [section 1423(b) of this title][/us/usc/t29/s1423/b] is not eligible for the corporation’s guarantee.
+            (B) For purposes of this section, a benefit or benefit increase which has been in effect under a plan for less than 60 months before the first day of the plan year for which an amendment reducing the benefit or the benefit increase is taken into account under section 1425(a)(2)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title in determining the minimum contribution requirement for the plan year under section 1423(b)  <sup>\[1\]</sup>  of this title is not eligible for the corporation’s guarantee.
 
         (2)
 
@@ -92,6 +92,8 @@
             (B) any year for which the participant is credited for purposes of benefit accrual with a fraction of the equivalent of a full year of participation shall be counted as such a fraction of a year of credited service; and
 
             (C) years of credited service shall be determined by including service which may otherwise be disregarded by the plan under [section 411(a)(3)(E) of title 26][/us/usc/t26/s411/a/3/E].
+
+        (4) For purposes of subsection (a), in the case of a qualified preretirement survivor annuity (as defined in [section 1055(e)(1) of this title][/us/usc/t29/s1055/e/1]) payable to the surviving spouse of a participant under a multiemployer plan which becomes insolvent under [section 1426(b) of this title][/us/usc/t29/s1426/b] or 1441(d)(2) of this title or is terminated, such annuity shall not be treated as forfeitable solely because the participant has not died as of the date on which the plan became so insolvent or the termination date.
 
     (d) __Amount of guarantee of reduced benefit__ 
 
@@ -213,15 +215,19 @@
 
             (B) in which it is determined by the corporation that substantially all the employers have withdrawn from the plan pursuant to an agreement or arrangement to withdraw.
 
-([Pub. L. 93–406, title IV, § 4022A][/us/pl/93/406/s4022A], as added [Pub. L. 96–364, title I, § 102][/us/pl/96/364/s102], Sept. 26, 1980, [94 Stat. 1210][/us/stat/94/1210]; amended [Pub. L. 99–272, title XI, § 11005(c)(4)][/us/pl/99/272/s11005/c/4]–(12), Apr. 7, 1986, [100 Stat. 242][/us/stat/100/242]; [Pub. L. 101–239, title VII][/us/pl/101/239], §§ 7891(a)(1), 7893(b), 7894(g)(3)(C)(i), Dec. 19, 1989, [103 Stat. 2445][/us/stat/103/2445], 2447, 2451; [Pub. L. 106–554, § 1(a)(6)][/us/pl/106/554/s1/a/6] \[title IX, § 951(a)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–586.)
+([Pub. L. 93–406, title IV, § 4022A][/us/pl/93/406/s4022A], as added [Pub. L. 96–364, title I, § 102][/us/pl/96/364/s102], Sept. 26, 1980, [94 Stat. 1210][/us/stat/94/1210]; amended [Pub. L. 99–272, title XI, § 11005(c)(4)][/us/pl/99/272/s11005/c/4]–(12), Apr. 7, 1986, [100 Stat. 242][/us/stat/100/242]; [Pub. L. 101–239, title VII][/us/pl/101/239], §§ 7891(a)(1), 7893(b), 7894(g)(3)(C)(i), Dec. 19, 1989, [103 Stat. 2445][/us/stat/103/2445], 2447, 2451; [Pub. L. 106–554, § 1(a)(6)][/us/pl/106/554/s1/a/6] \[title IX, § 951(a)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–586; [Pub. L. 113–235, div. O, title I, § 110(a)][/us/pl/113/235/s110/a], Dec. 16, 2014, [128 Stat. 2792][/us/stat/128/2792].)
 
  __References in Text__ 
+
+    Sections 1423 and 1425 of this title, referred to in subsec. (b)(1)(B), were repealed by [Pub. L. 113–235, div. O, title I, § 108(a)(1)][/us/pl/113/235/s108/a/1], Dec. 16, 2014, [128 Stat. 2786][/us/stat/128/2786].
 
     Section 4022A(f)(2)(A)(ii), (iii), (3)(A)(i), and (ii) of the Employee Retirement Income Security Act of 1974, referred to in subsec. (f)(4)(B), is classified to subsec. (f)(2)(A)(ii), (iii), (3)(A)(i) and (ii) of this section.
 
     Section 4022A(g)(4) of the Employee Retirement Income Security Act of 1974, referred to in subsec. (g)(4)(B), is classified to subsec. (g)(4) of this section.
 
  __Amendments__ 
+
+    2014—Subsec. (c)(4). [Pub. L. 113–235][/us/pl/113/235] added par. (4).
 
     2000—Subsec. (c)(1)(A). [Pub. L. 106–554, § 1(a)(6)][/us/pl/106/554/s1/a/6] \[title IX, § 951(a)(1)\], substituted “$11” for “$5” in two places.
 
@@ -259,6 +265,12 @@
 
     Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
 
+ __Effective Date of 2014 Amendment__ 
+
+[Pub. L. 113–235, div. O, title I, § 110(b)][/us/pl/113/235/s110/b], Dec. 16, 2014, [128 Stat. 2792][/us/stat/128/2792], provided that: 
+
+> “The amendment made by this section \[amending this section\] shall apply with respect to multiemployer plan benefit payments becoming payable on or after January 1, 1985, except that the amendment shall not apply in any case where the surviving spouse has died before the date of the enactment of this Act \[Dec. 16, 2014\].”
+
  __Effective Date of 2000 Amendment__ 
 
 [Pub. L. 106–554, § 1(a)(6)][/us/pl/106/554/s1/a/6] \[title IX, § 951(b)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–586, provided that: 
@@ -291,12 +303,12 @@
 ----------
 
 [/us/usc/t29/s1341a/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1341a%2Fa%2F2
-[/us/usc/t29/s1425/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1425%2Fa%2F2
-[/us/usc/t29/s1423/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1423%2Fb
 [/us/usc/t29/s1321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1321
 [/us/usc/t29/s1321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1321
 [/us/usc/t26/s411/a/3/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs411%2Fa%2F3%2FE
 [/us/usc/t26/s411/a/3/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs411%2Fa%2F3%2FE
+[/us/usc/t29/s1055/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1055%2Fe%2F1
+[/us/usc/t29/s1426/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1426%2Fb
 [/us/usc/t26/s411/a/3/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs411%2Fa%2F3%2FE
 [/us/usc/t29/s1322/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1322%2Fb%2F6
 [/us/usc/t29/s1306/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1306%2Fb
@@ -315,6 +327,11 @@
 [/us/stat/103/2445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2445
 [/us/pl/106/554/s1/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F6
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
+[/us/pl/113/235/s110/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs110%2Fa
+[/us/stat/128/2792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2792
+[/us/pl/113/235/s108/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs108%2Fa%2F1
+[/us/stat/128/2786]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2786
+[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
 [/us/pl/106/554/s1/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F6
 [/us/pl/106/554/s1/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F6
 [/us/pl/106/554/s1/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F6
@@ -331,6 +348,8 @@
 [/us/pl/99/272/s11005/c/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs11005%2Fc%2F10
 [/us/pl/99/272/s11005/c/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs11005%2Fc%2F11
 [/us/pl/99/272/s11005/c/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs11005%2Fc%2F12
+[/us/pl/113/235/s110/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs110%2Fb
+[/us/stat/128/2792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2792
 [/us/pl/106/554/s1/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F6
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 [/us/usc/t29/s1431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1431

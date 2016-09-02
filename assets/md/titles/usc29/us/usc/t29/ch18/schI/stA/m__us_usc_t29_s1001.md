@@ -205,6 +205,12 @@
 
  __Short Title of 2014 Amendment__ 
 
+[Pub. L. 113–235, div. O, § 1][/us/pl/113/235/s1], Dec. 16, 2014, [128 Stat. 2773][/us/stat/128/2773], provided that: 
+
+> “This division \[see Tables for classification\] may be cited as the ‘Multiemployer Pension Reform Act of 2014’ ”.
+
+ __Short Title of 2014 Amendment__ 
+
 [Pub. L. 113–97, § 1(a)][/us/pl/113/97/s1/a], Apr. 7, 2014, [128 Stat. 1101][/us/stat/128/1101], provided that: 
 
 > “This Act \[see Tables for classification\] may be cited as the ‘Cooperative and Small Employer Charity Pension Flexibility Act’.”
@@ -482,6 +488,8 @@
 [/us/pl/98/397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F397
 [/us/pl/99/514/s1898/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1898%2Fj
 [/us/usc/t26/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs401
+[/us/pl/113/235/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1
+[/us/stat/128/2773]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2773
 [/us/pl/113/97/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97%2Fs1%2Fa
 [/us/stat/128/1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1101
 [/us/pl/111/192/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F192%2Fs1

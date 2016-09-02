@@ -17,11 +17,7 @@
 
     (a) __In general__ 
 
-    For purposes of [section 1082 of this title][/us/usc/t29/s1082], the accumulated funding deficiency of a multiemployer plan for any plan year is—
-
-        (1) except as provided in paragraph (2), the amount, determined as of the end of the plan year, equal to the excess (if any) of the total charges to the funding standard account of the plan for all plan years (beginning with the first plan year for which this part applies to the plan) over the total credits to such account for such years, and
-
-        (2) if the multiemployer plan is in reorganization for any plan year, the accumulated funding deficiency of the plan determined under [section 1423 of this title][/us/usc/t29/s1423].
+        For purposes of [section 1082 of this title][/us/usc/t29/s1082], the accumulated funding deficiency of a multiemployer plan for any plan year is the amount, determined as of the end of the plan year, equal to the excess (if any) of the total charges to the funding standard account of the plan for all plan years (beginning with the first plan year for which this part applies to the plan) over the total credits to such account for such years.
 
     (b) __Funding standard account__ 
 
@@ -105,7 +101,7 @@
 
                 (ii) shall be taken into account in subsequent plan years by being amortized in equal annual installments (until fully amortized) over 30 plan years.
 
-                The preceding sentence shall not apply to the extent of any accumulated funding deficiency under [section 1423(a) of this title][/us/usc/t29/s1423/a] as of the end of the last plan year that the plan was in reorganization.
+                The preceding sentence shall not apply to the extent of any accumulated funding deficiency under section 1423(a)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title as of the end of the last plan year that the plan was in reorganization.
 
             (C) __Plan payments to supplemental program or withdrawal liability payment fund__ 
 
@@ -417,9 +413,7 @@
 
                 (iv) the notice required under paragraph (3)(A) has been provided.
 
-            (C) __Termination__ 
-
-                The preceding provisions of this paragraph shall not apply with respect to any application submitted after December 31, 2014.
+            (C) __Repealed.__  __[__  __Pub. L. 113–235, div. O, title I, § 101(b)(1)__  __][/us/pl/113/235/s101/b/1]__  __,__  __Dec. 16, 2014__  __,__  __[__  __128 Stat. 2774__  __][/us/stat/128/2774]__ 
 
         (2) __Alternative extension__ 
 
@@ -455,9 +449,11 @@
 
                 The Secretary of the Treasury shall consider any relevant information provided by a person to whom notice was given under paragraph (1).
 
-([Pub. L. 93–406, title I, § 304][/us/pl/93/406/s304], as added [Pub. L. 109–280, title II, § 201(a)][/us/pl/109/280/s201/a], Aug. 17, 2006, [120 Stat. 858][/us/stat/120/858]; amended [Pub. L. 111–192, title II, § 211(a)(1)][/us/pl/111/192/s211/a/1], June 25, 2010, [124 Stat. 1302][/us/stat/124/1302].)
+([Pub. L. 93–406, title I, § 304][/us/pl/93/406/s304], as added [Pub. L. 109–280, title II, § 201(a)][/us/pl/109/280/s201/a], Aug. 17, 2006, [120 Stat. 858][/us/stat/120/858]; amended [Pub. L. 111–192, title II, § 211(a)(1)][/us/pl/111/192/s211/a/1], June 25, 2010, [124 Stat. 1302][/us/stat/124/1302]; [Pub. L. 113–235, div. O, title I][/us/pl/113/235], §§ 101(b)(1), 108(a)(3)(B), Dec. 16, 2014, [128 Stat. 2774][/us/stat/128/2774], 2787.)
 
  __References in Text__ 
+
+    [Section 1423(a) of this title][/us/usc/t29/s1423/a], referred to in subsec. (b)(7)(B), was repealed by [Pub. L. 113–235, div. O, title I, § 108(a)(1)][/us/pl/113/235/s108/a/1], Dec. 16, 2014, [128 Stat. 2786][/us/stat/128/2786].
 
     The Social Security Act, referred to in subsec. (c)(4)(A), (6)(D)(v)(II), is [act Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], [49 Stat. 620][/us/stat/49/620], which is classified generally to chapter 7 (§ 301 et seq.) of Title 42, The Public Health and Welfare. Title II of the Act is classified generally to subchapter II (§ 401 et seq.) of chapter 7 of Title 42. For complete classification of this Act to the Code, see [section 1305 of Title 42][/us/usc/t42/s1305] and Tables.
 
@@ -469,7 +465,15 @@
 
  __Amendments__ 
 
+    2014—Subsec. (a). [Pub. L. 113–235, § 108(a)(3)(B)][/us/pl/113/235/s108/a/3/B], amended subsec. (a) generally. Prior to amendment, subsec. (a) related to accumulated funding deficiencies of multiemployer plans.
+
+    Subsec. (d)(1)(C). [Pub. L. 113–235, § 101(b)(1)][/us/pl/113/235/s101/b/1], struck out subpar. (C). Prior to amendment, text read as follows: “The preceding provisions of this paragraph shall not apply with respect to any application submitted after December 31, 2014.”
+
     2010—Subsec. (b)(8). [Pub. L. 111–192][/us/pl/111/192] added par. (8).
+
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by [section 108(a)(3)(B) of Pub. L. 113–235][/us/pl/113/235/s108/a/3/B] applicable with respect to plan years beginning after Dec. 31, 2014, see [section 108(c) of div. O of Pub. L. 113–235][/us/pl/113/235/s108/c], set out as an Effective Date of Repeal note under [section 418 of Title 26][/us/usc/t26/s418], Internal Revenue Code.
 
  __Effective Date of 2010 Amendment__ 
 
@@ -509,8 +513,6 @@
 
     \[[Pub. L. 109–280, § 201(b)][/us/pl/109/280/s201/b], set out above, applicable to plan years beginning after 2007, with special rule for certain amortization extensions, see [section 201(d) of Pub. L. 109–280][/us/pl/109/280/s201/d], set out as an Effective Date of 2006 Amendment note under [section 1081 of this title][/us/usc/t29/s1081].\]
 
-    \[[Pub. L. 109–280, § 201(b)][/us/pl/109/280/s201/b], set out above, inapplicable to plan years beginning after Dec. 31, 2014, with exception for certain funding improvement and rehabilitation plans, see [section 221(c) of Pub. L. 109–280][/us/pl/109/280/s221/c], set out as an Effective and Termination Dates of 2006 Amendment note under [section 412 of Title 26][/us/usc/t26/s412], Internal Revenue Code.\]
-
  __Special Rule for Certain Benefits Funded Under an Agreement Approved by the Pension Benefit Guaranty Corporation__ 
 
     For applicability of this section to a multiemployer plan that is a party to an agreement that was approved by the Pension Benefit Guaranty Corporation prior to June 30, 2005, and that increases benefits and provides for certain withdrawal liability rules, see [section 206 of Pub. L. 109–280][/us/pl/109/280/s206], set out as a note under [section 412 of Title 26][/us/usc/t26/s412], Internal Revenue Code.
@@ -523,14 +525,12 @@
 ----------
 
 [/us/usc/t29/s1082]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1082
-[/us/usc/t29/s1423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1423
 [/us/usc/t29/s1082/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1082%2Fc%2F3
 [/us/usc/t29/s1082/b/3/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1082%2Fb%2F3%2FD
 [/us/usc/t29/s1082/c/7/A/i/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1082%2Fc%2F7%2FA%2Fi%2FI
 [/us/usc/t29/s1082/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1082%2Fc%2F3
 [/us/usc/t29/s1085]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1085
 [/us/usc/t29/s1082/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1082%2Fb
-[/us/usc/t29/s1423/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1423%2Fa
 [/us/usc/t29/s1402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1402
 [/us/usc/t26/s501/c/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs501%2Fc%2F22
 [/us/usc/t29/s1403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1403
@@ -545,12 +545,19 @@
 [/us/usc/t26/s411/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs411%2Fd%2F3
 [/us/usc/t26/s807/d/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs807%2Fd%2F5%2FA
 [/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
+[/us/pl/113/235/s101/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs101%2Fb%2F1
+[/us/stat/128/2774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2774
 [/us/usc/t29/s1301/a/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1301%2Fa%2F21
 [/us/pl/93/406/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs304
 [/us/pl/109/280/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs201%2Fa
 [/us/stat/120/858]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F858
 [/us/pl/111/192/s211/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F192%2Fs211%2Fa%2F1
 [/us/stat/124/1302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1302
+[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
+[/us/stat/128/2774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2774
+[/us/usc/t29/s1423/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1423%2Fa
+[/us/pl/113/235/s108/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs108%2Fa%2F1
+[/us/stat/128/2786]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2786
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
 [/us/usc/t42/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1305
@@ -566,7 +573,12 @@
 [/us/stat/103/2445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2445
 [/us/pl/109/280/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs101%2Fa
 [/us/stat/120/784]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F784
+[/us/pl/113/235/s108/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs108%2Fa%2F3%2FB
+[/us/pl/113/235/s101/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs101%2Fb%2F1
 [/us/pl/111/192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F192
+[/us/pl/113/235/s108/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs108%2Fa%2F3%2FB
+[/us/pl/113/235/s108/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs108%2Fc
+[/us/usc/t26/s418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs418
 [/us/pl/111/192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F192
 [/us/pl/111/192/s211/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F192%2Fs211%2Fb
 [/us/usc/t26/s431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs431
@@ -584,9 +596,6 @@
 [/us/pl/109/280/s201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs201%2Fb
 [/us/pl/109/280/s201/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs201%2Fd
 [/us/usc/t29/s1081]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1081
-[/us/pl/109/280/s201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs201%2Fb
-[/us/pl/109/280/s221/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs221%2Fc
-[/us/usc/t26/s412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs412
 [/us/pl/109/280/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs206
 [/us/usc/t26/s412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs412
 
