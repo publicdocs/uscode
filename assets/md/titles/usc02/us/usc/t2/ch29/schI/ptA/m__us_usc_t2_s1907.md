@@ -115,7 +115,7 @@
 
  __Amendments__ 
 
-    2014—[Pub. L. 113–76][/us/pl/113/76] struck out subsec. (f), which established a worker’s compensation account for the Capitol Police.
+    2014—[Pub. L. 113–76][/us/pl/113/76] struck out subsec. (f) which established a worker’s compensation account for the Capitol Police.
 
     2010—Subsec. (e)(1). [Pub. L. 111–145][/us/pl/111/145] added par. (1) and struck out former par. (1) which authorized the Chief of the Capitol Police to appoint, hire, discharge, and set the terms, conditions, and privileges of employment of employees of the Capitol Police, subject to review and approval.
 

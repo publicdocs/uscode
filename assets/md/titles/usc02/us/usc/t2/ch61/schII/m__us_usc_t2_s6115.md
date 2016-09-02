@@ -53,7 +53,9 @@
 
 >         “(1) is designated by the Senate as the President pro tempore emeritus of the United States Senate; and
 
->         “(2) is serving as a Member of the Senate,    “shall be the President pro tempore emeritus of the United States Senate.
+>         “(2) is serving as a Member of the Senate,
+
+>         shall be the President pro tempore emeritus of the United States Senate.
 
 >     “(c)  __Appointment and Compensation of Employees__  __.—__ 
 

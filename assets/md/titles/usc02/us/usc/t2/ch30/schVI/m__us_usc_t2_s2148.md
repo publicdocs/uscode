@@ -13,7 +13,7 @@
 
 [Previous](./../../../../..//us/usc/t2/ch30/schVI/m__us_usc_t2_s2147.md) | [Next](./../../../../..//us/usc/t2/ch30/schVII/m__us_usc_t2_ch30_schVII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs2148)
 
-## 2148. Administration of educational outreach and services
+## § 2148. Administration of educational outreach and services
 
     (a) __Cooperative agreements__ 
 
@@ -43,11 +43,11 @@
 
     (c) __Construction or improvement of real property__ 
 
-    Any authority under subsection (a) or (b) shall not apply to any agreement providing for the construction or improvement of real property.
+        Any authority under subsection (a) or (b) shall not apply to any agreement providing for the construction or improvement of real property.
 
     (d) __Applicability__ 
 
-    This section shall apply with respect to fiscal year 2015 and each succeeding fiscal year.
+        This section shall apply with respect to fiscal year 2015 and each succeeding fiscal year.
 
 ([Pub. L. 113–235, div. H, title I, § 1102][/us/pl/113/235/s1102], Dec. 16, 2014, [128 Stat. 2532][/us/stat/128/2532].)
 

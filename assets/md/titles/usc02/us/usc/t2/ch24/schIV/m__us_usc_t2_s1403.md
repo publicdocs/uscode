@@ -23,7 +23,7 @@
 
     Mediation under this section—
 
-        (1) may include the Office, the covered employee, the employing office, and one or more individuals appointed by the Executive Director after considering recommendations by organizations composed primarily of individuals experienced in adjudicating or arbitrating personnel matters, and
+        (1) may include the Office, the covered employee, the employing office, and one or more individuals appointed by the Executive Director from the master list developed and maintained under subsection (e), and
 
         (2) shall involve meetings with the parties separately or jointly for the purpose of resolving the dispute between the covered employee and the employing office.
 
@@ -35,7 +35,29 @@
 
         No individual, who is appointed by the Executive Director to mediate, may conduct or aid in a hearing conducted under [section 1405 of this title][/us/usc/t2/s1405] with respect to the same matter or shall be subject to subpoena or any other compulsory process with respect to the same matter.
 
-([Pub. L. 104–1, title IV, § 403][/us/pl/104/1/s403], Jan. 23, 1995, [109 Stat. 32][/us/stat/109/32].)
+    (e) __Master list of mediators__ 
+
+        (1) __Development and maintenance of master list__ 
+
+            The Executive Director shall develop and maintain a master list of individuals who are experienced in adjudicating, arbitrating, or mediating the kinds of personnel and other matters for which mediation may be held under this section. Such list may include, but not be limited to, members of the bar of a State or the District of Columbia and retired judges of the United States courts.
+
+        (2) __Consideration of candidates__ 
+
+            In developing the master list under this subsection, the Executive Director shall consider candidates recommended by the Federal Mediation and Conciliation Service or the Administrative Conference of the United States.
+
+([Pub. L. 104–1, title IV, § 403][/us/pl/104/1/s403], Jan. 23, 1995, [109 Stat. 32][/us/stat/109/32]; [Pub. L. 114–6, § 2(a)][/us/pl/114/6/s2/a], Mar. 20, 2015, [129 Stat. 81][/us/stat/129/81].)
+
+ __Amendments__ 
+
+    2015—Subsec. (b)(1). [Pub. L. 114–6, § 2(a)(1)][/us/pl/114/6/s2/a/1], substituted “from the master list developed and maintained under subsection (e)” for “after considering recommendations by organizations composed primarily of individuals experienced in adjudicating or arbitrating personnel matters”.
+
+    Subsec. (e). [Pub. L. 114–6, § 2(a)(2)][/us/pl/114/6/s2/a/2], added subsec. (e).
+
+ __Effective Date of 2015 Amendment__ 
+
+[Pub. L. 114–6, § 2(d)][/us/pl/114/6/s2/d], Mar. 20, 2015, [129 Stat. 82][/us/stat/129/82], provided that: 
+
+> “The amendments made by this section \[amending this section and sections 1404 and 1416 of this title\] shall apply with respect to mediations and other proceedings which are first initiated after the date of the enactment of this Act \[Mar. 20, 2015\].”
 
 ----------
 
@@ -49,5 +71,11 @@
 [/us/usc/t2/s1405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1405
 [/us/pl/104/1/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F1%2Fs403
 [/us/stat/109/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F32
+[/us/pl/114/6/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F6%2Fs2%2Fa
+[/us/stat/129/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F81
+[/us/pl/114/6/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F6%2Fs2%2Fa%2F1
+[/us/pl/114/6/s2/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F6%2Fs2%2Fa%2F2
+[/us/pl/114/6/s2/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F6%2Fs2%2Fd
+[/us/stat/129/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F82
 
 

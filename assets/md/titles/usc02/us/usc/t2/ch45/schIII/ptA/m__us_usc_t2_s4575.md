@@ -173,11 +173,23 @@ Section is comprised of subsecs. (a) to (f) and (j) of [section 105 of Pub. L. 9
 
  __Amendments__ 
 
-    2010—Subsec. (d)(1)(A). The table was revised upward, effective Jan. 1, 2010, by section 6(b) of Salary Directive of President pro tempore of the Senate, Jan. 5, 2010, set out as a note under [section 60a–1 of this title][/us/usc/t2/s60a–1], which deemed dollar amounts in table in effect on Dec. 31, 2009, to be increased by an additional 2.42 percent.
+    2014—Subsec. (d)(1)(A). The table was revised upward, effective Jan. 1, 2015, by section 6(b) of Salary Directive of President pro tempore of the Senate, Dec. 23, 2014, set out as a note under [section 4571 of this title][/us/usc/t2/s4571], which deemed dollar amounts in table in effect on Dec. 31, 2014, to be increased by an additional 1.00 percent.
 
-    Subsec. (d)(2). Figures “$2,677” and “$169,459” to be deemed to refer, effective Jan. 1, 2010, to the figures “$2,742” and “$169,459”, respectively, see section 6(c) of Salary Directive of President pro tempore of the Senate, Jan. 5, 2010, set out as a note under [section 60a–1 of this title][/us/usc/t2/s60a–1].
+    The table was revised upward, effective Jan. 1, 2014, by section 6(b) of Salary Directive of President pro tempore of the Senate, Jan. 27, 2014, formerly set out as a note under [section 4571 of this title][/us/usc/t2/s4571], which deemed dollar amounts in table in effect on Dec. 31, 2013, to be increased by an additional 1.00 percent.
 
-    Subsec. (f). Figure “$2,677” to be deemed to refer, effective Jan. 1, 2010, to the figure “$2,742”, see section 7(a) of Salary Directive of President pro tempore of the Senate, Jan. 5, 2010, set out as a note under [section 60a–1 of this title][/us/usc/t2/s60a–1].
+    Subsec. (d)(2). Figures “$2,770” and “$169,459” to be deemed to refer, effective Jan. 1, 2015, to the figures “$2,798” and “$169,459”, respectively, see section 6(c) of Salary Directive of President pro tempore of the Senate, Dec. 23, 2014, set out as a note under [section 4571 of this title][/us/usc/t2/s4571].
+
+    Figures “$2,742” and “$169,459” to be deemed to refer, effective Jan. 1, 2014, to the figures “$2,770” and “$169,459”, respectively, see section 6(c) of Salary Directive of President pro tempore of the Senate, Jan. 27, 2014, formerly set out as a note under [section 4571 of this title][/us/usc/t2/s4571].
+
+    Subsec. (f). Figure “$2,770” to be deemed to refer, effective Jan. 1, 2015, to the figure “$2,798”, see section 7(a) of Salary Directive of President pro tempore of the Senate, Dec. 23, 2014, set out as a note under [section 4571 of this title][/us/usc/t2/s4571].
+
+    Figure “$2,742” to be deemed to refer, effective Jan. 1, 2014, to the figure “$2,770”, see section 7(a) of Salary Directive of President pro tempore of the Senate, Jan. 27, 2014, formerly set out as a note under [section 4571 of this title][/us/usc/t2/s4571].
+
+    2010—Subsec. (d)(1)(A). The table was revised upward, effective Jan. 1, 2010, by section 6(b) of Salary Directive of President pro tempore of the Senate, Jan. 5, 2010, formerly set out as a note under [section 60a–1 of this title][/us/usc/t2/s60a–1], which deemed dollar amounts in table in effect on Dec. 31, 2009, to be increased by an additional 2.42 percent.
+
+    Subsec. (d)(2). Figures “$2,677” and “$169,459” to be deemed to refer, effective Jan. 1, 2010, to the figures “$2,742” and “$169,459”, respectively, see section 6(c) of Salary Directive of President pro tempore of the Senate, Jan. 5, 2010, formerly set out as a note under [section 60a–1 of this title][/us/usc/t2/s60a–1].
+
+    Subsec. (f). Figure “$2,677” to be deemed to refer, effective Jan. 1, 2010, to the figure “$2,742”, see section 7(a) of Salary Directive of President pro tempore of the Senate, Jan. 5, 2010, formerly set out as a note under [section 60a–1 of this title][/us/usc/t2/s60a–1].
 
     2009—Subsec. (d)(1)(A). [Pub. L. 111–68, § 1][/us/pl/111/68/s1], revised table upward, deeming dollar amounts in table, as adjusted by law and in effect on Sept. 30, 2009, to be increased by an additional $50,000 each.
 
@@ -1219,6 +1231,12 @@ Section is comprised of subsecs. (a) to (f) and (j) of [section 105 of Pub. L. 9
 [/us/pl/104/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186
 [/us/usc/t2/s4507/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4507%2Fb
 [/us/usc/t5/s5533/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5533%2Fc
+[/us/usc/t2/s4571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4571
+[/us/usc/t2/s4571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4571
+[/us/usc/t2/s4571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4571
+[/us/usc/t2/s4571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4571
+[/us/usc/t2/s4571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4571
+[/us/usc/t2/s4571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4571
 [/us/usc/t2/s4571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4571
 [/us/usc/t2/s60a–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs60a%E2%80%931
 [/us/usc/t2/s60a–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs60a%E2%80%931
