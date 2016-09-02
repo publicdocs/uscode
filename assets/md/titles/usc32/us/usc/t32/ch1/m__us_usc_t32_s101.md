@@ -15,7 +15,7 @@
 
 ## § 101. Definitions
 
-In addition to the definitions in sections 1–5 of title 1, the following definitions apply in this title:
+    In addition to the definitions in sections 1–5 of title 1, the following definitions apply in this title:
 
     (1) For purposes of other laws relating to the militia, the National Guard, the Army National Guard of the United States, and the Air National Guard of the United States, the term “Territory” includes Guam and the Virgin Islands.
 

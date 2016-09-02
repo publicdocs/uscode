@@ -15,7 +15,7 @@
 
 ## § 712. Disposition of proceeds of condemned stores issued to National Guard
 
-The following shall be covered into the Treasury:
+    The following shall be covered into the Treasury:
 
     (1) The proceeds from sales of condemned stores issued to the National Guard of a State, the Commonwealth of Puerto Rico, the District of Columbia, Guam, or the Virgin Islands, and not charged against its allotment.
 

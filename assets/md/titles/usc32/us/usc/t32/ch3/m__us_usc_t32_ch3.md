@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 301.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft32%2Fs301" data-uslm-ref="/us/usc/t32/s301">301.</a>  </td>
 
     <td> Federal recognition of enlisted members.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 302.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft32%2Fs302" data-uslm-ref="/us/usc/t32/s302">302.</a>  </td>
 
     <td> Enlistments, reenlistments, and extensions.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 303.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft32%2Fs303" data-uslm-ref="/us/usc/t32/s303">303.</a>  </td>
 
     <td> Active and inactive enlistments and transfers.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 304.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft32%2Fs304" data-uslm-ref="/us/usc/t32/s304">304.</a>  </td>
 
     <td> Enlistment oath.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 305.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft32%2Fs305" data-uslm-ref="/us/usc/t32/s305">305.</a>  </td>
 
     <td> Federal recognition of commissioned officers: persons eligible.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 307.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft32%2Fs307" data-uslm-ref="/us/usc/t32/s307">307.</a>  </td>
 
     <td> Federal recognition of officers: examination; certificate of eligibility.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 308.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft32%2Fs308" data-uslm-ref="/us/usc/t32/s308">308.</a>  </td>
 
     <td> Federal recognition of officers: temporary recognition.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 309.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft32%2Fs309" data-uslm-ref="/us/usc/t32/s309">309.</a>  </td>
 
     <td> Federal recognition of National Guard officers: officers promoted to fill vacancies.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 310.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft32%2Fs310" data-uslm-ref="/us/usc/t32/s310">310.</a>  </td>
 
     <td> Federal recognition of National Guard officers: automatic recognition.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 312.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft32%2Fs312" data-uslm-ref="/us/usc/t32/s312">312.</a>  </td>
 
     <td> Appointment oath.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 313.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft32%2Fs313" data-uslm-ref="/us/usc/t32/s313">313.</a>  </td>
 
     <td> Appointments and enlistments: age limitations.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 314.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft32%2Fs314" data-uslm-ref="/us/usc/t32/s314">314.</a>  </td>
 
     <td> Adjutants general.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 315.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft32%2Fs315" data-uslm-ref="/us/usc/t32/s315">315.</a>  </td>
 
     <td> Detail of regular members of Army and Air Force to duty with National Guard.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 316.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft32%2Fs316" data-uslm-ref="/us/usc/t32/s316">316.</a>  </td>
 
     <td> Detail of members of Army National Guard for rifle instruction of civilians.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 317.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft32%2Fs317" data-uslm-ref="/us/usc/t32/s317">317.</a>  </td>
 
     <td> Command during joint exercises with Federal troops.  </td>
 
@@ -145,7 +145,7 @@
 
   <tr>
 
-    <td> [318 to 321.   </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft32%2Fs318" data-uslm-ref="/us/usc/t32/s318">318</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft32%2Fs321" data-uslm-ref="/us/usc/t32/s321">321.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -153,7 +153,7 @@
 
   <tr>
 
-    <td> 322.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft32%2Fs322" data-uslm-ref="/us/usc/t32/s322">322.</a>  </td>
 
     <td> Discharge of enlisted members.  </td>
 
@@ -161,7 +161,7 @@
 
   <tr>
 
-    <td> 323.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft32%2Fs323" data-uslm-ref="/us/usc/t32/s323">323.</a>  </td>
 
     <td> Withdrawal of Federal recognition.  </td>
 
@@ -169,7 +169,7 @@
 
   <tr>
 
-    <td> 324.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft32%2Fs324" data-uslm-ref="/us/usc/t32/s324">324.</a>  </td>
 
     <td> Discharge of officers; termination of appointment.  </td>
 
@@ -177,7 +177,7 @@
 
   <tr>
 
-    <td> 325.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft32%2Fs325" data-uslm-ref="/us/usc/t32/s325">325.</a>  </td>
 
     <td> Relief from National Guard duty when ordered to active duty.  </td>
 
@@ -185,7 +185,7 @@
 
   <tr>
 
-    <td> 326.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft32%2Fs326" data-uslm-ref="/us/usc/t32/s326">326.</a>  </td>
 
     <td> Courts-martial of National Guard not in Federal service: composition, jurisdiction, and procedures.  </td>
 
@@ -193,7 +193,7 @@
 
   <tr>
 
-    <td> 327.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft32%2Fs327" data-uslm-ref="/us/usc/t32/s327">327.</a>  </td>
 
     <td> Courts-martial of National Guard not in Federal service: convening authority.  </td>
 
@@ -201,7 +201,7 @@
 
   <tr>
 
-    <td> 328.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft32%2Fs328" data-uslm-ref="/us/usc/t32/s328">328.</a>  </td>
 
     <td> Active Guard and Reserve duty: Governor’s authority.  </td>
 
@@ -209,7 +209,7 @@
 
   <tr>
 
-    <td> [329 to 335.   </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft32%2Fs329" data-uslm-ref="/us/usc/t32/s329">329</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft32%2Fs335" data-uslm-ref="/us/usc/t32/s335">335.</a>  </td>
 
     <td> Repealed.]  </td>
 

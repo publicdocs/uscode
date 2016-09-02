@@ -15,19 +15,17 @@
 
 ## § 505. Army and Air Force schools and field exercises
 
-Under such regulations as the President may prescribe and upon the recommendation of the governor of any State, the Commonwealth of Puerto Rico, Guam, and the Virgin Islands or of the commanding general of the National Guard of the District of Columbia, the Secretary of the Army may authorize a limited number of members of its Army National Guard to—
+    Under such regulations as the President may prescribe and upon the recommendation of the governor of any State, the Commonwealth of Puerto Rico, Guam, and the Virgin Islands or of the commanding general of the National Guard of the District of Columbia, the Secretary of the Army may authorize a limited number of members of its Army National Guard to—
 
     (1) attend any service school except the United States Military Academy, and to pursue a regular course of study at the school; or
 
-    (2)
+    (2) be attached to an organization of the branch of the Army corresponding to the organization of the Army National Guard to which the member belongs, for routine practical instruction at or near an Army post during field training or other outdoor exercise.
 
-     be attached to an organization of the branch of the Army corresponding to the organization of the Army National Guard to which the member belongs, for routine practical instruction at or near an Army post during field training or other outdoor exercise.
+    Similarly, the Secretary of the Air Force may authorize a limited number of members of the Air National Guard to—
 
-        Similarly, the Secretary of the Air Force may authorize a limited number of members of the Air National Guard to—
+    (1) attend any service school except the United States Air Force Academy, and to pursue a regular course of study at the school; or
 
-        (1) attend any service school except the United States Air Force Academy, and to pursue a regular course of study at the school; or
-
-        (2) be attached to an organization of the Air Force corresponding to the organization of the Air National Guard to which the member belongs, for routine practical instruction at an air base during field training or other outdoor exercise.
+    (2) be attached to an organization of the Air Force corresponding to the organization of the Air National Guard to which the member belongs, for routine practical instruction at an air base during field training or other outdoor exercise.
 
 ([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 611][/us/stat/70A/611]; [Pub. L. 100–456, div. A, title XII, § 1234(b)(4)][/us/pl/100/456/s1234/b/4], Sept. 29, 1988, [102 Stat. 2059][/us/stat/102/2059]; [Pub. L. 109–163, div. A, title X, § 1057(b)(4)][/us/pl/109/163/s1057/b/4], Jan. 6, 2006, [119 Stat. 3441][/us/stat/119/3441].)
 

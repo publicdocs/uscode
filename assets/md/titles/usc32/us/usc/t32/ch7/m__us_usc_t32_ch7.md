@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 701.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft32%2Fs701" data-uslm-ref="/us/usc/t32/s701">701.</a>  </td>
 
     <td> Uniforms, arms, and equipment to be same as Army or Air Force.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 702.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft32%2Fs702" data-uslm-ref="/us/usc/t32/s702">702.</a>  </td>
 
     <td> Issue of supplies.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 703.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft32%2Fs703" data-uslm-ref="/us/usc/t32/s703">703.</a>  </td>
 
     <td> Purchases of supplies by States from Army or Air Force.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 704.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft32%2Fs704" data-uslm-ref="/us/usc/t32/s704">704.</a>  </td>
 
     <td> Accountability: relief from upon order to active duty.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 705.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft32%2Fs705" data-uslm-ref="/us/usc/t32/s705">705.</a>  </td>
 
     <td> Purchase of uniforms and equipment by officers of National Guard from Army or Air Force.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 706.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft32%2Fs706" data-uslm-ref="/us/usc/t32/s706">706.</a>  </td>
 
     <td> Return of arms and equipment upon relief from Federal service.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 707.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft32%2Fs707" data-uslm-ref="/us/usc/t32/s707">707.</a>  </td>
 
     <td> Use of public buildings for offices by instructors.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 708.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft32%2Fs708" data-uslm-ref="/us/usc/t32/s708">708.</a>  </td>
 
     <td> Property and fiscal officers.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 709.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft32%2Fs709" data-uslm-ref="/us/usc/t32/s709">709.</a>  </td>
 
     <td> Technicians: employment, use, status.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 710.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft32%2Fs710" data-uslm-ref="/us/usc/t32/s710">710.</a>  </td>
 
     <td> Accountability for property issued to the National Guard.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 711.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft32%2Fs711" data-uslm-ref="/us/usc/t32/s711">711.</a>  </td>
 
     <td> Disposition of obsolete or condemned property.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 712.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft32%2Fs712" data-uslm-ref="/us/usc/t32/s712">712.</a>  </td>
 
     <td> Disposition of proceeds of condemned stores issued to National Guard.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 713.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft32%2Fs713" data-uslm-ref="/us/usc/t32/s713">713.</a>  </td>
 
     <td> Official mail: free transmission.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 714.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft32%2Fs714" data-uslm-ref="/us/usc/t32/s714">714.</a>  </td>
 
     <td> Final settlement of accounts: deceased members.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 715.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft32%2Fs715" data-uslm-ref="/us/usc/t32/s715">715.</a>  </td>
 
     <td> Property loss; personal injury or death: activities under certain sections of this title.  </td>
 
@@ -145,7 +145,7 @@
 
   <tr>
 
-    <td> 716.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft32%2Fs716" data-uslm-ref="/us/usc/t32/s716">716.</a>  </td>
 
     <td> Claims for overpayment of pay and allowances, and travel and transportation allowances.  </td>
 
@@ -153,7 +153,7 @@
 
   <tr>
 
-    <td> [717.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft32%2Fs717" data-uslm-ref="/us/usc/t32/s717">717.</a>  </td>
 
     <td> Repealed.]  </td>
 

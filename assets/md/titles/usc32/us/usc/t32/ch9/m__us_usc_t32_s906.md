@@ -15,7 +15,7 @@
 
 ## § 906. Requests for funding assistance
 
-A Governor of a State may request funding assistance for the homeland defense activities of the National Guard of that State from the Secretary of Defense. Any such request shall include the following:
+    A Governor of a State may request funding assistance for the homeland defense activities of the National Guard of that State from the Secretary of Defense. Any such request shall include the following:
 
     (1) The specific intended homeland defense activities of the National Guard of that State.
 

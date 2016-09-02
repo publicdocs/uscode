@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 101.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft32%2Fs101" data-uslm-ref="/us/usc/t32/s101">101.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 102.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft32%2Fs102" data-uslm-ref="/us/usc/t32/s102">102.</a>  </td>
 
     <td> General policy.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 103.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft32%2Fs103" data-uslm-ref="/us/usc/t32/s103">103.</a>  </td>
 
     <td> Branches and organizations.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 104.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft32%2Fs104" data-uslm-ref="/us/usc/t32/s104">104.</a>  </td>
 
     <td> Units: location; organization; command.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 105.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft32%2Fs105" data-uslm-ref="/us/usc/t32/s105">105.</a>  </td>
 
     <td> Inspection.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 106.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft32%2Fs106" data-uslm-ref="/us/usc/t32/s106">106.</a>  </td>
 
     <td> Annual appropriations.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 107.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft32%2Fs107" data-uslm-ref="/us/usc/t32/s107">107.</a>  </td>
 
     <td> Availability of appropriations.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 108.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft32%2Fs108" data-uslm-ref="/us/usc/t32/s108">108.</a>  </td>
 
     <td> Forfeiture of Federal benefits.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 109.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft32%2Fs109" data-uslm-ref="/us/usc/t32/s109">109.</a>  </td>
 
     <td> Maintenance of other troops.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 110.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft32%2Fs110" data-uslm-ref="/us/usc/t32/s110">110.</a>  </td>
 
     <td> Regulations.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 111.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft32%2Fs111" data-uslm-ref="/us/usc/t32/s111">111.</a>  </td>
 
     <td> Suspension of certain provisions of this title.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 112.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft32%2Fs112" data-uslm-ref="/us/usc/t32/s112">112.</a>  </td>
 
     <td> Drug interdiction and counter-drug activities.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 113.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft32%2Fs113" data-uslm-ref="/us/usc/t32/s113">113.</a>  </td>
 
     <td> Federal financial assistance for support of additional duties assigned to the Army National Guard.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 114.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft32%2Fs114" data-uslm-ref="/us/usc/t32/s114">114.</a>  </td>
 
     <td> Funeral honors functions at funerals for veterans.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 115.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft32%2Fs115" data-uslm-ref="/us/usc/t32/s115">115.</a>  </td>
 
     <td> Funeral honors duty performed as a Federal function.  </td>
 

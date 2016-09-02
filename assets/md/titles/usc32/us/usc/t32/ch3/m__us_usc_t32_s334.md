@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t32/ch3/m__us_usc_t32_s329 to 333.md) | [Next](./../../../..//us/usc/t32/ch3/m__us_usc_t32_s335.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft32%2Fs334)
+[Previous](./../../../..//us/usc/t32/ch3/m__us_usc_t32_s328.md) | [Next](./../../../..//us/usc/t32/ch3/m__us_usc_t32_s335.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft32%2Fs334)
 
 ## \[§ 334. Repealed. [Pub. L. 97–124, § 3][/us/pl/97/124/s3], Dec. 29, 1981, [95 Stat. 1666][/us/stat/95/1666]\]
 
@@ -27,7 +27,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t32/ch3/m__us_usc_t32_s329 to 333.md) | [Next](./../../../..//us/usc/t32/ch3/m__us_usc_t32_s335.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft32%2Fs334)
+[Previous](./../../../..//us/usc/t32/ch3/m__us_usc_t32_s328.md) | [Next](./../../../..//us/usc/t32/ch3/m__us_usc_t32_s335.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft32%2Fs334)
 
 ----------
 ----------

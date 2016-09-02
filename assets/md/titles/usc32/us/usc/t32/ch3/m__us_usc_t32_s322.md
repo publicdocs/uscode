@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t32/ch3/m__us_usc_t32_s318 to 321.md) | [Next](./../../../..//us/usc/t32/ch3/m__us_usc_t32_s323.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft32%2Fs322)
+[Previous](./../../../..//us/usc/t32/ch3/m__us_usc_t32_s317.md) | [Next](./../../../..//us/usc/t32/ch3/m__us_usc_t32_s323.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft32%2Fs322)
 
 ## § 322. Discharge of enlisted members
 
@@ -105,7 +105,7 @@ June 3, 1916, ch. 134, § 110 (last par., less 1st 30, and last 25, words); re
 
 ----------
 
-[Previous](./../../../..//us/usc/t32/ch3/m__us_usc_t32_s318 to 321.md) | [Next](./../../../..//us/usc/t32/ch3/m__us_usc_t32_s323.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft32%2Fs322)
+[Previous](./../../../..//us/usc/t32/ch3/m__us_usc_t32_s317.md) | [Next](./../../../..//us/usc/t32/ch3/m__us_usc_t32_s323.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft32%2Fs322)
 
 ----------
 ----------

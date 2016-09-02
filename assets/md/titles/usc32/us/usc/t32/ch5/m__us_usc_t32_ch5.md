@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 501.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft32%2Fs501" data-uslm-ref="/us/usc/t32/s501">501.</a>  </td>
 
     <td> Training generally.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 502.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft32%2Fs502" data-uslm-ref="/us/usc/t32/s502">502.</a>  </td>
 
     <td> Required drills and field exercises.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 503.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft32%2Fs503" data-uslm-ref="/us/usc/t32/s503">503.</a>  </td>
 
     <td> Participation in field exercises.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 504.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft32%2Fs504" data-uslm-ref="/us/usc/t32/s504">504.</a>  </td>
 
     <td> National Guard schools and small arms competitions.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 505.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft32%2Fs505" data-uslm-ref="/us/usc/t32/s505">505.</a>  </td>
 
     <td> Army and Air Force schools and field exercises.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 506.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft32%2Fs506" data-uslm-ref="/us/usc/t32/s506">506.</a>  </td>
 
     <td> Assignment and detail of members of Regular Army or Regular Air Force for instruction of National Guard.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 507.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft32%2Fs507" data-uslm-ref="/us/usc/t32/s507">507.</a>  </td>
 
     <td> Instruction in firing; supply of ammunition.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 508.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft32%2Fs508" data-uslm-ref="/us/usc/t32/s508">508.</a>  </td>
 
     <td> Assistance for certain youth and charitable organizations.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 509.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft32%2Fs509" data-uslm-ref="/us/usc/t32/s509">509.</a>  </td>
 
     <td> National Guard Youth Challenge Program of opportunities for civilian youth.  </td>
 

@@ -13,11 +13,11 @@
 
 ~~Previous~~ | [Next](./../../..//us/usc/t32/ch1/m__us_usc_t32_ch1.md) | [Root of Title](./../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft32)
 
-# 
-
-Title 32—NATIONAL GUARD
+# Title 32—NATIONAL GUARD
 
 This title was enacted by [act Aug. 10, 1956, ch. 1041, § 2][/us/act/1956-08-10/ch1041/s2], [70A Stat. 596][/us/stat/70A/596]
+
+Current through 113–44
 
 <table>
 
@@ -33,51 +33,51 @@ This title was enacted by [act Aug. 10, 1956, ch. 1041, § 2][/us/act/1956-08-
 
   <tr>
 
-    <td> 1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft32%2Fch1" data-uslm-ref="/us/usc/t32/ch1">1.</a>  </td>
 
     <td> Organization  </td>
 
-    <td> 101  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft32%2Fs101" data-uslm-ref="/us/usc/t32/s101">101</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 3.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft32%2Fch3" data-uslm-ref="/us/usc/t32/ch3">3.</a>  </td>
 
     <td> Personnel  </td>
 
-    <td> 301  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft32%2Fs301" data-uslm-ref="/us/usc/t32/s301">301</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 5.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft32%2Fch5" data-uslm-ref="/us/usc/t32/ch5">5.</a>  </td>
 
     <td> Training  </td>
 
-    <td> 501  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft32%2Fs501" data-uslm-ref="/us/usc/t32/s501">501</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 7.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft32%2Fch7" data-uslm-ref="/us/usc/t32/ch7">7.</a>  </td>
 
     <td> Service, Supply, and Procurement  </td>
 
-    <td> 701  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft32%2Fs701" data-uslm-ref="/us/usc/t32/s701">701</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 9.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft32%2Fch9" data-uslm-ref="/us/usc/t32/ch9">9.</a>  </td>
 
     <td> Homeland Defense Activities  </td>
 
-    <td> 901  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft32%2Fs901" data-uslm-ref="/us/usc/t32/s901">901</a>  </td>
 
   </tr>
 
