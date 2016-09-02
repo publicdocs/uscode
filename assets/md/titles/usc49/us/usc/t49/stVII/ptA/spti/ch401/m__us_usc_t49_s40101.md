@@ -419,6 +419,10 @@ In subsection (c), before clause (1), the word “Administrator” in section 30
 
  __Short Title of 2014 Amendment__ 
 
+[Pub. L. 113–238, § 1][/us/pl/113/238/s1], Dec. 18, 2014, [128 Stat. 2842][/us/stat/128/2842], provided that: 
+
+> “This Act \[enacting [section 44946 of this title][/us/usc/t49/s44946]\] may be cited as the ‘Aviation Security Stakeholder Participation Act of 2014’.”
+
 [Pub. L. 113–221, § 1][/us/pl/113/221/s1], Dec. 16, 2014, [128 Stat. 2094][/us/stat/128/2094], provided that: 
 
 > “This Act \[enacting [section 44928 of this title][/us/usc/t49/s44928]\] may be cited as the ‘Honor Flight Act’.”
@@ -3407,6 +3411,9 @@ Sec. 5. Additional Functions of the Senior Policy Committee. In addition to perf
 [/us/pl/104/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264
 [/us/pl/104/264/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2Fs3
 [/us/usc/t49/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs106
+[/us/pl/113/238/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F238%2Fs1
+[/us/stat/128/2842]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2842
+[/us/usc/t49/s44946]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs44946
 [/us/pl/113/221/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F221%2Fs1
 [/us/stat/128/2094]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2094
 [/us/usc/t49/s44928]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs44928
