@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t40/stV/ch3/m__us_usc_t40_s15505.md) | [Next](./../../../../..//us/usc/t40/stV/ch4/m__us_usc_t40_stV_ch4.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs15506)
+[Previous](./../../../../..//us/usc/t40/stV/ch3/m__us_usc_t40_s15505.md) | [Next](./../../../../..//us/usc/t40/stV/ch4 /m__us_usc_t40_stV_ch4 .md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs15506)
 
 ## § 15506. Supplements to Federal grant programs
 
@@ -55,7 +55,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t40/stV/ch3/m__us_usc_t40_s15505.md) | [Next](./../../../../..//us/usc/t40/stV/ch4/m__us_usc_t40_stV_ch4.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs15506)
+[Previous](./../../../../..//us/usc/t40/stV/ch3/m__us_usc_t40_s15505.md) | [Next](./../../../../..//us/usc/t40/stV/ch4 /m__us_usc_t40_stV_ch4 .md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs15506)
 
 ----------
 ----------

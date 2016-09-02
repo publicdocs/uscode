@@ -179,9 +179,7 @@ June 30, 1949, ch. 288, title II, § 203(e), 63 Stat. 386; July 12, 1952, ch. 
 
 >     “(a) to (c) \[Repealed. [June 30, 1949, ch. 288][/us/act/1949-06-30/ch288], title VI, § 602(a)(1), formerly title V, § 502(a)(1), [63 Stat. 399][/us/stat/63/399], renumbered [Sept. 5, 1950, ch. 849][/us/act/1950-09-05/ch849], § 6(a), (b), [64 Stat. 583][/us/stat/64/583].\]
 
->     “(d)  __Power transmission lines__  __.—__ 
-
->     Whenever any State or political subdivision thereof, or any State or Government agency or instrumentality certifies to the Administrator of General Services that any power transmission line determined to be surplus property under the provisions of this Act \[former 50 U.S.C. App. 1611 et seq.\] is needful for or adaptable to the requirements of any public or cooperative power project, such line and the right-of-way acquired for its construction shall not be sold, leased for more than one year, or otherwise disposed of, except as provided in section 12 \[former 50 U.S.C. App. 1621\] or this section, unless specifically authorized by Act of Congress.
+>     “(d) Whenever any State or political subdivision thereof, or any State or Government agency or instrumentality certifies to the Administrator of General Services that any power transmission line determined to be surplus property under the provisions of this Act \[former 50 U.S.C. App. 1611 et seq.\] is needful for or adaptable to the requirements of any public or cooperative power project, such line and the right-of-way acquired for its construction shall not be sold, leased for more than one year, or otherwise disposed of, except as provided in section 12 \[former 50 U.S.C. App. 1621\] or this section, unless specifically authorized by Act of Congress.
 
 >     “(e), (f) \[Repealed. [June 30, 1949, ch. 288][/us/act/1949-06-30/ch288], title VI, § 602(a)(1), formerly title V, § 502(a)(1), [63 Stat. 399][/us/stat/63/399], renumbered [Sept. 5, 1950, ch. 849][/us/act/1950-09-05/ch849], § 6(a), (b), [64 Stat. 583][/us/stat/64/583].\]
 

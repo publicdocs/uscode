@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t40/stI/ch1/schIII/m__us_usc_t40_s125.md) | [Next](./../../../../../..//us/usc/t40/stI/ch3/m__us_usc_t40_stI_ch3.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs126)
+[Previous](./../../../../../..//us/usc/t40/stI/ch1/schIII/m__us_usc_t40_s125.md) | [Next](./../../../../../..//us/usc/t40/stI/ch3 /m__us_usc_t40_stI_ch3 .md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs126)
 
 ## § 126. Reports to Congress
 
@@ -69,7 +69,7 @@ June 30, 1949, ch. 288, title II, § 212, formerly § 210, 63 Stat. 393; ren
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t40/stI/ch1/schIII/m__us_usc_t40_s125.md) | [Next](./../../../../../..//us/usc/t40/stI/ch3/m__us_usc_t40_stI_ch3.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs126)
+[Previous](./../../../../../..//us/usc/t40/stI/ch1/schIII/m__us_usc_t40_s125.md) | [Next](./../../../../../..//us/usc/t40/stI/ch3 /m__us_usc_t40_stI_ch3 .md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs126)
 
 ----------
 ----------

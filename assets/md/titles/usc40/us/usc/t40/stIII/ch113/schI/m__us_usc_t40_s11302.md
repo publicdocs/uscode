@@ -203,6 +203,56 @@ Pub. L. 104–106, div. E, title LI, § 5112, Feb. 10, 1996, 110 Stat. 680.  <
 
     Subsec. (c)(1). [Pub. L. 108–458][/us/pl/108/458], § 8401(2), inserted “, including information security risks,” after “evaluating the risks” and “costs, benefits, and risks”.
 
+ __Management of Software Licenses__ 
+
+[Pub. L. 114–210][/us/pl/114/210], July 29, 2016, [130 Stat. 824][/us/stat/130/824], provided that:
+
+> “SECTION 1. __SHORT TITLE.__ 
+
+>     “This Act may be cited as the ‘Making Electronic Government Accountable By Yielding Tangible Efficiencies Act of 2016’ or the ‘MEGABYTE Act of 2016’.
+
+> “SEC. 2. __OMB DIRECTIVE ON MANAGEMENT OF SOFTWARE LICENSES.__ 
+
+>     “(a)  __Definition__  __.—__ 
+
+>     In this section—
+
+>         “(1) the term ‘Director’ means the Director of the Office of Management and Budget; and
+
+>         “(2) the term ‘executive agency’has the meaning given that term in [section 105 of title 5][/us/usc/t5/s105], United States Code.
+
+>     “(b)  __OMB Directive__  __.—__ 
+
+>     The Director shall issue a directive to require the Chief Information Officer of each executive agency to develop a comprehensive software licensing policy, which shall—
+
+>         “(1) identify clear roles, responsibilities, and central oversight authority within the executive agency for managing enterprise software license agreements and commercial software licenses; and
+
+>         “(2)
+
+>          require the Chief Information Officer of each executive agency to—
+
+>             “(A) establish a comprehensive inventory, including 80 percent of software license spending and enterprise licenses in the executive agency, by identifying and collecting information about software license agreements using automated discovery and inventory tools;
+
+>             “(B) regularly track and maintain software licenses to assist the executive agency in implementing decisions throughout the software license management life cycle;
+
+>             “(C) analyze software usage and other data to make cost-effective decisions;
+
+>             “(D) provide training relevant to software license management;
+
+>             “(E) establish goals and objectives of the software license management program of the executive agency; and
+
+>             “(F) consider the software license management life cycle phases, including the requisition, reception, deployment and maintenance, retirement, and disposal phases, to implement effective decisionmaking and incorporate existing standards, processes, and metrics.
+
+>     “(c) __Report on Software License Management.—__ 
+
+>         “(1)  __In general__  __.—__ 
+
+>         Beginning in the first fiscal year beginning after the date of enactment of this Act \[July 29, 2016\], and in each of the following 5 fiscal years, the Chief Information Officer of each executive agency shall submit to the Director a report on the financial savings or avoidance of spending that resulted from improved software license management.
+
+>         “(2)  __Availability__  __.—__ 
+
+>         The Director shall make each report submitted under paragraph (1) publically available.”
+
  __Appropriate Use of Requirements Regarding Experience and Education of Contractor Personnel in the Procurement of Information Technology Services__ 
 
 [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title VIII, § 813\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–214, provided that:
@@ -265,6 +315,9 @@ Pub. L. 104–106, div. E, title LI, § 5112, Feb. 10, 1996, 110 Stat. 680.  <
 [/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
+[/us/pl/114/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F210
+[/us/stat/130/824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F824
+[/us/usc/t5/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs105
 [/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
 [/us/usc/t41/s405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs405
