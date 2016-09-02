@@ -17,7 +17,7 @@
 
     The Congress finds that the use of flexible and compressed work schedules has the potential to improve productivity in the Federal Government and provide greater service to the public.
 
-(Added [Pub. L. 97–221, § 2(a)(2)][/us/pl/97/221/s2/a/2], July 23, 1982, [96 Stat. 227][/us/stat/96/227].)
+(Added [Pub. L. 97–221][/us/pl/97/221], § 2(a)(2), July 23, 1982, [96 Stat. 227][/us/stat/96/227].)
 
  __Expanding Family-Friendly Work Arrangements in Executive Branch__ 
 
@@ -158,7 +158,7 @@ Sec. 5. Agency Review of Workplace Flexibilities and Work-Life Policies and Prog
 ----------
 ----------
 
-[/us/pl/97/221/s2/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F221%2Fs2%2Fa%2F2
+[/us/pl/97/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F221
 [/us/stat/96/227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F227
 
 

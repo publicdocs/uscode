@@ -31,7 +31,7 @@
 
     (b) No senior politically appointed officer may receive an award under the provisions of this subchapter during a Presidential election period.
 
-(Added [Pub. L. 103–425, § 2(a)][/us/pl/103/425/s2/a], Oct. 31, 1994, [108 Stat. 4369][/us/stat/108/4369].)
+(Added [Pub. L. 103–425][/us/pl/103/425], § 2(a), Oct. 31, 1994, [108 Stat. 4369][/us/stat/108/4369].)
 
 ----------
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/103/425/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F425%2Fs2%2Fa
+[/us/pl/103/425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F425
 [/us/stat/108/4369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4369
 
 

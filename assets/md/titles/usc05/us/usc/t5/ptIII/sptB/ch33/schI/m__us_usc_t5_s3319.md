@@ -37,7 +37,7 @@
 
     (e) The Office of Personnel Management may prescribe such regulations as it considers necessary to carry out the provisions of this section.
 
-(Added [Pub. L. 107–296, title XIII, § 1312(a)(2)][/us/pl/107/296/s1312/a/2], Nov. 25, 2002, [116 Stat. 2290][/us/stat/116/2290].)
+(Added [Pub. L. 107–296, title XIII][/us/pl/107/296/tXIII], § 1312(a)(2), Nov. 25, 2002, [116 Stat. 2290][/us/stat/116/2290].)
 
  __References in Text__ 
 
@@ -45,7 +45,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 3319, [Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 421][/us/stat/80/421], related to prohibitions on employment of members of same family in the competitive service, prior to repeal by [Pub. L. 95–454, title III, § 307(h)(1)][/us/pl/95/454/s307/h/1], title IX, § 907, Oct. 13, 1978, [92 Stat. 1149][/us/stat/92/1149], 1227, effective 90 days after Oct. 13, 1978.
+    A prior section 3319, [Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 421][/us/stat/80/421], related to prohibitions on employment of members of same family in the competitive service, prior to repeal by [Pub. L. 95–454, title III][/us/pl/95/454/tIII], § 307(h)(1), title IX, § 907, Oct. 13, 1978, [92 Stat. 1149][/us/stat/92/1149], 1227, effective 90 days after Oct. 13, 1978.
 
  __Effective Date__ 
 
@@ -58,12 +58,12 @@
 ----------
 ----------
 
-[/us/pl/107/296/s1312/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1312%2Fa%2F2
+[/us/pl/107/296/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXIII
 [/us/stat/116/2290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2290
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F421
-[/us/pl/95/454/s307/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs307%2Fh%2F1
+[/us/pl/95/454/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtIII
 [/us/stat/92/1149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1149
 [/us/pl/107/296/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs4
 [/us/usc/t6/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs101

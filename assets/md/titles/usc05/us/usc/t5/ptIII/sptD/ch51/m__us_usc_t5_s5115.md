@@ -17,7 +17,7 @@
 
     The Office of Personnel Management may prescribe regulations necessary for the administration of this chapter, except sections 5109 and 5114. <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup> 
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 457][/us/stat/80/457]; [Pub. L. 95–454, title IX, § 906(a)(2)][/us/pl/95/454/s906/a/2], Oct. 13, 1978, [92 Stat. 1224][/us/stat/92/1224].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 457][/us/stat/80/457]; [Pub. L. 95–454, title IX][/us/pl/95/454/tIX], § 906(a)(2), Oct. 13, 1978, [92 Stat. 1224][/us/stat/92/1224].)
 
 <table>
 
@@ -87,7 +87,7 @@ Sept. 1, 1954, ch. 1208, § 113, 68 Stat. 1108.  </td>
 
  __References in Text__ 
 
-    Section 5114, referred to in text, was repealed by [Pub. L. 99–386, title I, § 110(a)][/us/pl/99/386/s110/a], Aug. 22, 1986, [100 Stat. 822][/us/stat/100/822].
+    Section 5114, referred to in text, was repealed by [Pub. L. 99–386, title I][/us/pl/99/386/tI], § 110(a), Aug. 22, 1986, [100 Stat. 822][/us/stat/100/822].
 
  __Amendments__ 
 
@@ -106,9 +106,9 @@ Sept. 1, 1954, ch. 1208, § 113, 68 Stat. 1108.  </td>
 
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F457
-[/us/pl/95/454/s906/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs906%2Fa%2F2
+[/us/pl/95/454/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtIX
 [/us/stat/92/1224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1224
-[/us/pl/99/386/s110/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F386%2Fs110%2Fa
+[/us/pl/99/386/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F386%2FtI
 [/us/stat/100/822]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F822
 [/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454
 [/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454

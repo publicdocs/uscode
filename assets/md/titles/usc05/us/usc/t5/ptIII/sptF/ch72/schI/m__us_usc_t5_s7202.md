@@ -21,7 +21,7 @@
 
     (c) Notwithstanding any other provision of law, any provision of law providing a benefit to a male Federal employee or to his spouse or family shall be deemed to provide the same benefit to a female Federal employee or to her spouse or family.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 523][/us/stat/80/523], § 7152; [Pub. L. 92–187, § 3][/us/pl/92/187/s3], Dec. 15, 1971, [85 Stat. 644][/us/stat/85/644]; renumbered § 7202, [Pub. L. 95–454, title VII, § 703(a)(1)][/us/pl/95/454/s703/a/1], Oct. 13, 1978, [92 Stat. 1216][/us/stat/92/1216].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 523][/us/stat/80/523], § 7152; [Pub. L. 92–187][/us/pl/92/187], § 3, Dec. 15, 1971, [85 Stat. 644][/us/stat/85/644]; renumbered § 7202, [Pub. L. 95–454, title VII][/us/pl/95/454/tVII], § 703(a)(1), Oct. 13, 1978, [92 Stat. 1216][/us/stat/92/1216].)
 
 <table>
 
@@ -88,9 +88,9 @@ July 26, 1937, ch. 522, 50 Stat. 533.  </td>
 
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F523
-[/us/pl/92/187/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F187%2Fs3
+[/us/pl/92/187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F187
 [/us/stat/85/644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F644
-[/us/pl/95/454/s703/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs703%2Fa%2F1
+[/us/pl/95/454/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtVII
 [/us/stat/92/1216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1216
 [/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454
 [/us/usc/t5/s7152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs7152

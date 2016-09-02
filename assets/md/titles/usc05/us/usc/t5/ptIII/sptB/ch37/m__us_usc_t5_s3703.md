@@ -61,7 +61,7 @@
 
         This subsection shall not apply to an agency in any year in which it makes fewer than 5 assignments under this chapter to private sector organizations.
 
-(Added [Pub. L. 107–347, title II, § 209(c)(1)][/us/pl/107/347/s209/c/1], Dec. 17, 2002, [116 Stat. 2926][/us/stat/116/2926].)
+(Added [Pub. L. 107–347, title II][/us/pl/107/347/tII], § 209(c)(1), Dec. 17, 2002, [116 Stat. 2926][/us/stat/116/2926].)
 
  __References in Text__ 
 
@@ -86,7 +86,7 @@
 ----------
 ----------
 
-[/us/pl/107/347/s209/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347%2Fs209%2Fc%2F1
+[/us/pl/107/347/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347%2FtII
 [/us/stat/116/2926]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2926
 [/us/act/1946-08-02/ch753]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-02%2Fch753
 [/us/stat/60/842]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F842

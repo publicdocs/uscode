@@ -47,7 +47,7 @@
 
         For the purpose of this paragraph and section 8443, a child whose 22nd birthday occurs before July 1 or after August 31 of a calendar year, and while regularly pursuing such a course of study or training, is deemed to have become 22 years of age on the first day of July after that birthday. A child who is a student is deemed not to have ceased to be a student during an interim between school years if the interim is not more than 5 months and if such child shows to the satisfaction of the Office that such child has a bona fide intention of continuing to pursue a course of study or training in the same or different school during the school semester (or other period into which the school year is divided) immediately after the interim.
 
-(Added [Pub. L. 99–335, title I, § 101(a)][/us/pl/99/335/s101/a], June 6, 1986, [100 Stat. 558][/us/stat/100/558].)
+(Added [Pub. L. 99–335, title I][/us/pl/99/335/tI], § 101(a), June 6, 1986, [100 Stat. 558][/us/stat/100/558].)
 
 ----------
 
@@ -56,7 +56,7 @@
 ----------
 ----------
 
-[/us/pl/99/335/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2Fs101%2Fa
+[/us/pl/99/335/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2FtI
 [/us/stat/100/558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F558
 
 

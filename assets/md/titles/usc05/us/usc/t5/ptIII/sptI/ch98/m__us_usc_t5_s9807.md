@@ -57,7 +57,7 @@
 
         (3) Notwithstanding any provision of section 5307, in the case of an employee who, during any calendar year, is receiving pay at a rate fixed under this section, no allowance, differential, bonus, award, or similar cash payment may be paid to such employee if, or to the extent that, when added to basic pay paid or payable to such employee (for service performed in such calendar year as an employee in the executive branch or as an employee outside the executive branch to whom chapter 51 applies), such payment would cause the total to exceed the per annum rate of salary which, as of the end of such calendar year, is payable under [section 104 of title 3][/us/usc/t3/s104].
 
-(Added [Pub. L. 108–201, § 3(a)][/us/pl/108/201/s3/a], Feb. 24, 2004, [118 Stat. 467][/us/stat/118/467].)
+(Added [Pub. L. 108–201][/us/pl/108/201], § 3(a), Feb. 24, 2004, [118 Stat. 467][/us/stat/118/467].)
 
 ----------
 
@@ -68,7 +68,7 @@
 
 [/us/usc/t3/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs104
 [/us/usc/t3/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs104
-[/us/pl/108/201/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F201%2Fs3%2Fa
+[/us/pl/108/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F201
 [/us/stat/118/467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F467
 
 

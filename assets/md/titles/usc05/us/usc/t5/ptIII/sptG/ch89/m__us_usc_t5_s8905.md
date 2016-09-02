@@ -107,7 +107,7 @@
 
         (3) The employee may not discontinue the self plus one or self and family enrollment, as necessary to provide health insurance coverage for each child who is covered under the order, in a plan that provides full benefits and services in the location in which the child or children reside for so long as the court or administrative order remains in effect and the child or children continue to meet the requirements of section 8901(5), unless the employee provides documentation showing that such coverage has been provided through other health insurance.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 603][/us/stat/80/603]; [Pub. L. 95–454, title IX, § 906(a)(2)][/us/pl/95/454/s906/a/2], (3), Oct. 13, 1978, [92 Stat. 1224][/us/stat/92/1224]; [Pub. L. 98–615, § 3(4)][/us/pl/98/615/s3/4], Nov. 8, 1984, [98 Stat. 3203][/us/stat/98/3203]; [Pub. L. 99–53, § 2(a)][/us/pl/99/53/s2/a], (c), June 17, 1985, [99 Stat. 94][/us/stat/99/94]; [Pub. L. 99–251, title I][/us/pl/99/251], §§ 103, 104(a), Feb. 27, 1986, [100 Stat. 14][/us/stat/100/14]; [Pub. L. 99–335, title II, § 207(m)][/us/pl/99/335/s207/m], June 6, 1986, [100 Stat. 598][/us/stat/100/598]; [Pub. L. 100–654, title II][/us/pl/100/654], §§ 201(c), (d), 202(c), Nov. 14, 1988, [102 Stat. 3845][/us/stat/102/3845]; [Pub. L. 102–378, § 2(77)][/us/pl/102/378/s2/77], Oct. 2, 1992, [106 Stat. 1355][/us/stat/106/1355]; [Pub. L. 105–261, div. A, title VII, § 721(b)(1)][/us/pl/105/261/s721/b/1], Oct. 17, 1998, [112 Stat. 2065][/us/stat/112/2065]; [Pub. L. 106–394, § 2][/us/pl/106/394/s2], Oct. 30, 2000, [114 Stat. 1629][/us/stat/114/1629]; [Pub. L. 113–67, div. A, title VII, § 706(a)][/us/pl/113/67/s706/a], Dec. 26, 2013, [127 Stat. 1193][/us/stat/127/1193].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 603][/us/stat/80/603]; [Pub. L. 95–454, title IX][/us/pl/95/454/tIX], § 906(a)(2), (3), Oct. 13, 1978, [92 Stat. 1224][/us/stat/92/1224]; [Pub. L. 98–615][/us/pl/98/615], § 3(4), Nov. 8, 1984, [98 Stat. 3203][/us/stat/98/3203]; [Pub. L. 99–53][/us/pl/99/53], § 2(a), (c), June 17, 1985, [99 Stat. 94][/us/stat/99/94]; [Pub. L. 99–251, title I][/us/pl/99/251/tI], §§ 103, 104(a), Feb. 27, 1986, [100 Stat. 14][/us/stat/100/14]; [Pub. L. 99–335, title II][/us/pl/99/335/tII], § 207(m), June 6, 1986, [100 Stat. 598][/us/stat/100/598]; [Pub. L. 100–654, title II][/us/pl/100/654/tII], §§ 201(c), (d), 202(c), Nov. 14, 1988, [102 Stat. 3845][/us/stat/102/3845]; [Pub. L. 102–378][/us/pl/102/378], § 2(77), Oct. 2, 1992, [106 Stat. 1355][/us/stat/106/1355]; [Pub. L. 105–261, div. A, title VII][/us/pl/105/261/dA/tVII], § 721(b)(1), Oct. 17, 1998, [112 Stat. 2065][/us/stat/112/2065]; [Pub. L. 106–394][/us/pl/106/394], § 2, Oct. 30, 2000, [114 Stat. 1629][/us/stat/114/1629]; [Pub. L. 113–67, div. A, title VII][/us/pl/113/67/dA/tVII], § 706(a), Dec. 26, 2013, [127 Stat. 1193][/us/stat/127/1193].)
 
 <table>
 
@@ -179,53 +179,53 @@ Mar. 17, 1964, Pub. L. 88–284, § 1(5), 78 Stat. 164.  </td>
 
  __Amendments__ 
 
-    2013—Subsec. (a). [Pub. L. 113–67, § 706(a)(1)][/us/pl/113/67/s706/a/1], added subsec. (a) and struck out former subsec. (a) which read as follows: “An employee may enroll in an approved health benefits plan described by section 8903 or 8903a of this title either as an individual or for self and family.”
+    2013—Subsec. (a). [Pub. L. 113–67][/us/pl/113/67], § 706(a)(1), added subsec. (a) and struck out former subsec. (a) which read as follows: “An employee may enroll in an approved health benefits plan described by section 8903 or 8903a of this title either as an individual or for self and family.”
 
-    Subsec. (c)(1). [Pub. L. 113–67, § 706(a)(2)(A)][/us/pl/113/67/s706/a/2/A], inserted “for self plus one or” before “self and family as provided in paragraph (2) of this subsection” in concluding provisions.
+    Subsec. (c)(1). [Pub. L. 113–67][/us/pl/113/67], § 706(a)(2)(A), inserted “for self plus one or” before “self and family as provided in paragraph (2) of this subsection” in concluding provisions.
 
-    Subsec. (c)(2). [Pub. L. 113–67, § 706(a)(2)(B)(i)][/us/pl/113/67/s706/a/2/B/i], inserted “for self plus one or” before “for self and family” in introductory provisions.
+    Subsec. (c)(2). [Pub. L. 113–67][/us/pl/113/67], § 706(a)(2)(B)(i), inserted “for self plus one or” before “for self and family” in introductory provisions.
 
-    Subsec. (c)(2)(B). [Pub. L. 113–67, § 706(a)(2)(B)(ii)][/us/pl/113/67/s706/a/2/B/ii], inserted “(or, in the case of self plus one coverage, not more than 1 such child)” after “adopted children”.
+    Subsec. (c)(2)(B). [Pub. L. 113–67][/us/pl/113/67], § 706(a)(2)(B)(ii), inserted “(or, in the case of self plus one coverage, not more than 1 such child)” after “adopted children”.
 
-    Subsec. (e). [Pub. L. 113–67, § 706(a)(3)][/us/pl/113/67/s706/a/3], substituted “or for a self plus one enrollment that covers the spouse, or each spouse may enroll as an individual or for a self plus one enrollment that does not cover the other spouse or a child who is covered under the enrollment of the other spouse” for “or each spouse may enroll as an individual”.
+    Subsec. (e). [Pub. L. 113–67][/us/pl/113/67], § 706(a)(3), substituted “or for a self plus one enrollment that covers the spouse, or each spouse may enroll as an individual or for a self plus one enrollment that does not cover the other spouse or a child who is covered under the enrollment of the other spouse” for “or each spouse may enroll as an individual”.
 
-    Subsec. (h). [Pub. L. 113–67, § 706(a)(4)(A)][/us/pl/113/67/s706/a/4/A]–(C), substituted “self plus one or self and family enrollment, as necessary to provide health insurance coverage for each child who is covered under the order,” for “self and family enrollment”, “1 or more children” for “a child”, and “the child or children reside” for “the child resides” wherever appearing.
+    Subsec. (h). [Pub. L. 113–67][/us/pl/113/67], § 706(a)(4)(A)–(C), substituted “self plus one or self and family enrollment, as necessary to provide health insurance coverage for each child who is covered under the order,” for “self and family enrollment”, “1 or more children” for “a child”, and “the child or children reside” for “the child resides” wherever appearing.
 
-    Subsec. (h)(1). [Pub. L. 113–67, § 706(a)(4)(D)][/us/pl/113/67/s706/a/4/D], substituted “self plus one or self and family coverage, as necessary to provide health insurance coverage for each child who is covered under the order,” for “self and family coverage” in two places.
+    Subsec. (h)(1). [Pub. L. 113–67][/us/pl/113/67], § 706(a)(4)(D), substituted “self plus one or self and family coverage, as necessary to provide health insurance coverage for each child who is covered under the order,” for “self and family coverage” in two places.
 
-    Subsec. (h)(3). [Pub. L. 113–67, § 706(a)(4)(E)][/us/pl/113/67/s706/a/4/E], substituted “the child or children continue” for “the child continues”.
+    Subsec. (h)(3). [Pub. L. 113–67][/us/pl/113/67], § 706(a)(4)(E), substituted “the child or children continue” for “the child continues”.
 
     2000—Subsec. (h). [Pub. L. 106–394][/us/pl/106/394] added subsec. (h).
 
     1998—Subsecs. (d) to (g). [Pub. L. 105–261][/us/pl/105/261] added subsec. (d) and redesignated former subsecs. (d) to (f) as (e) to (g), respectively.
 
-    1992—Subsec. (b). [Pub. L. 102–378, § 2(77)(A)][/us/pl/102/378/s2/77/A], substituted “this chapter” for “this subchapter.” at end.
+    1992—Subsec. (b). [Pub. L. 102–378][/us/pl/102/378], § 2(77)(A), substituted “this chapter” for “this subchapter.” at end.
 
-    Subsec. (c)(1). [Pub. L. 102–378, § 2(77)(B)][/us/pl/102/378/s2/77/B], inserted comma after “8341(h)” in last sentence.
+    Subsec. (c)(1). [Pub. L. 102–378][/us/pl/102/378], § 2(77)(B), inserted comma after “8341(h)” in last sentence.
 
-    1988—Subsec. (d). [Pub. L. 100–654, § 202(c)][/us/pl/100/654/s202/c], amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “If an employee has a spouse who is an employee, either spouse, but not both, may enroll for self and family, or each spouse may enroll as an individual. However, an individual may not be enrolled both as an employee or annuitant and as a member of the family.”
+    1988—Subsec. (d). [Pub. L. 100–654][/us/pl/100/654], § 202(c), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “If an employee has a spouse who is an employee, either spouse, but not both, may enroll for self and family, or each spouse may enroll as an individual. However, an individual may not be enrolled both as an employee or annuitant and as a member of the family.”
 
-    Subsecs. (e), (f)(1), (2). [Pub. L. 100–654, § 201(c)][/us/pl/100/654/s201/c], (d)(1), substituted “former spouse, or person having continued coverage under [section 8905a of this title][/us/usc/t5/s8905a]” for “or former spouse”.
+    Subsecs. (e), (f)(1), (2). [Pub. L. 100–654][/us/pl/100/654], § 201(c), (d)(1), substituted “former spouse, or person having continued coverage under [section 8905a of this title][/us/usc/t5/s8905a]” for “or former spouse”.
 
-    Subsec. (f)(3). [Pub. L. 100–654, § 201(d)(2)][/us/pl/100/654/s201/d/2], added par. (3).
+    Subsec. (f)(3). [Pub. L. 100–654][/us/pl/100/654], § 201(d)(2), added par. (3).
 
-    1986—Subsec. (b). [Pub. L. 99–251, § 103][/us/pl/99/251/s103], inserted last sentence relating to waiver of the requirements of this subsection if it would be against equity to prohibit enrollment.
+    1986—Subsec. (b). [Pub. L. 99–251][/us/pl/99/251], § 103, inserted last sentence relating to waiver of the requirements of this subsection if it would be against equity to prohibit enrollment.
 
     Subsec. (c)(1). [Pub. L. 99–335][/us/pl/99/335] inserted in subpar. (B) “or 8417(b)” and substituted in provision following subpar. (B) “8345(j), 8445, or 8467” for “or 8345(j)”.
 
-    Subsec. (f). [Pub. L. 99–251, § 104(a)][/us/pl/99/251/s104/a], amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: “An employee, annuitant, or former spouse enrolled in a health benefits plan under this chapter may change his coverage or that of himself and members of his family by an application filed within 60 days after a change in family status or at other times and under conditions prescribed by regulations of the Office.”
+    Subsec. (f). [Pub. L. 99–251][/us/pl/99/251], § 104(a), amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: “An employee, annuitant, or former spouse enrolled in a health benefits plan under this chapter may change his coverage or that of himself and members of his family by an application filed within 60 days after a change in family status or at other times and under conditions prescribed by regulations of the Office.”
 
-    1985—Subsecs. (a), (c)(1). [Pub. L. 99–53, § 2(a)][/us/pl/99/53/s2/a], inserted reference to [section 8903a of this title][/us/usc/t5/s8903a].
+    1985—Subsecs. (a), (c)(1). [Pub. L. 99–53][/us/pl/99/53], § 2(a), inserted reference to [section 8903a of this title][/us/usc/t5/s8903a].
 
-    Subsec. (f). [Pub. L. 99–53, § 2(a)][/us/pl/99/53/s2/a], (c), inserted reference to [section 8903a of this title][/us/usc/t5/s8903a] and substituted “such plan” for “plan described by that section”.
+    Subsec. (f). [Pub. L. 99–53][/us/pl/99/53], § 2(a), (c), inserted reference to [section 8903a of this title][/us/usc/t5/s8903a] and substituted “such plan” for “plan described by that section”.
 
-    1984—Subsec. (c). [Pub. L. 98–615, § 3(4)(A)][/us/pl/98/615/s3/4/A], added subsec. (c). Former subsec. (c) redesignated (d).
+    1984—Subsec. (c). [Pub. L. 98–615][/us/pl/98/615], § 3(4)(A), added subsec. (c). Former subsec. (c) redesignated (d).
 
-    Subsec. (d). [Pub. L. 98–615, § 3(4)(A)][/us/pl/98/615/s3/4/A], redesignated former subsec. (c) as (d). Former subsec. (d) redesignated (e).
+    Subsec. (d). [Pub. L. 98–615][/us/pl/98/615], § 3(4)(A), redesignated former subsec. (c) as (d). Former subsec. (d) redesignated (e).
 
-    Subsec. (e). [Pub. L. 98–615, § 3(4)][/us/pl/98/615/s3/4], redesignated former subsec. (d) as (e) and substituted “An employee, annuitant, or former spouse” for “An employee or annuitant”. Former subsec. (e) redesignated (f).
+    Subsec. (e). [Pub. L. 98–615][/us/pl/98/615], § 3(4), redesignated former subsec. (d) as (e) and substituted “An employee, annuitant, or former spouse” for “An employee or annuitant”. Former subsec. (e) redesignated (f).
 
-    Subsec. (f). [Pub. L. 98–615, § 3(4)][/us/pl/98/615/s3/4], redesignated former subsec. (e) as (f) and substituted “An employee, annuitant, or former spouse” for “An employee or annuitant”.
+    Subsec. (f). [Pub. L. 98–615][/us/pl/98/615], § 3(4), redesignated former subsec. (e) as (f) and substituted “An employee, annuitant, or former spouse” for “An employee or annuitant”.
 
     1978—Subsecs. (b), (d), (e). [Pub. L. 95–454][/us/pl/95/454] substituted “Office of Personnel Management” and “Office” for “Civil Service Commission” and “Commission”, respectively, wherever appearing.
 
@@ -237,7 +237,7 @@ Mar. 17, 1964, Pub. L. 88–284, § 1(5), 78 Stat. 164.  </td>
 
     Amendment by [Pub. L. 99–335][/us/pl/99/335] effective Jan. 1, 1987, see [section 702(a) of Pub. L. 99–335][/us/pl/99/335/s702/a], set out as an Effective Date note under [section 8401 of this title][/us/usc/t5/s8401].
 
-[Pub. L. 99–251, title I, § 104(b)][/us/pl/99/251/s104/b], Feb. 27, 1986, [100 Stat. 15][/us/stat/100/15], provided that: 
+[Pub. L. 99–251, title I][/us/pl/99/251/tI], § 104(b), Feb. 27, 1986, [100 Stat. 15][/us/stat/100/15], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall be effective with respect to contracts entered into or renewed for calendar years beginning after December 31, 1986.”
 
@@ -251,7 +251,7 @@ Mar. 17, 1964, Pub. L. 88–284, § 1(5), 78 Stat. 164.  </td>
 
  __Weighted Average for First Year__ 
 
-[Pub. L. 113–67, div. A, title VII, § 706(d)][/us/pl/113/67/s706/d], Dec. 26, 2013, [127 Stat. 1194][/us/stat/127/1194], provided that: 
+[Pub. L. 113–67, div. A, title VII][/us/pl/113/67/dA/tVII], § 706(d), Dec. 26, 2013, [127 Stat. 1194][/us/stat/127/1194], provided that: 
 
 > “For the first contract year for which an employee may enroll for self plus one coverage under chapter 89 of title 5, United States Code, the Office of Personnel Management shall determine the weighted average of the subscription charges that will be in effect for the contract year for enrollments for self plus one under such chapter based on an actuarial analysis.”
 
@@ -285,53 +285,53 @@ Mar. 17, 1964, Pub. L. 88–284, § 1(5), 78 Stat. 164.  </td>
 [/us/usc/t5/s8905a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8905a
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F603
-[/us/pl/95/454/s906/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs906%2Fa%2F2
+[/us/pl/95/454/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtIX
 [/us/stat/92/1224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1224
-[/us/pl/98/615/s3/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F615%2Fs3%2F4
+[/us/pl/98/615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F615
 [/us/stat/98/3203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3203
-[/us/pl/99/53/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F53%2Fs2%2Fa
+[/us/pl/99/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F53
 [/us/stat/99/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F94
-[/us/pl/99/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F251
+[/us/pl/99/251/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F251%2FtI
 [/us/stat/100/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F14
-[/us/pl/99/335/s207/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2Fs207%2Fm
+[/us/pl/99/335/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2FtII
 [/us/stat/100/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F598
-[/us/pl/100/654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F654
+[/us/pl/100/654/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F654%2FtII
 [/us/stat/102/3845]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3845
-[/us/pl/102/378/s2/77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378%2Fs2%2F77
+[/us/pl/102/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378
 [/us/stat/106/1355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1355
-[/us/pl/105/261/s721/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs721%2Fb%2F1
+[/us/pl/105/261/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdA%2FtVII
 [/us/stat/112/2065]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2065
-[/us/pl/106/394/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F394%2Fs2
+[/us/pl/106/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F394
 [/us/stat/114/1629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1629
-[/us/pl/113/67/s706/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs706%2Fa
+[/us/pl/113/67/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2FdA%2FtVII
 [/us/stat/127/1193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1193
-[/us/pl/113/67/s706/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs706%2Fa%2F1
-[/us/pl/113/67/s706/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs706%2Fa%2F2%2FA
-[/us/pl/113/67/s706/a/2/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs706%2Fa%2F2%2FB%2Fi
-[/us/pl/113/67/s706/a/2/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs706%2Fa%2F2%2FB%2Fii
-[/us/pl/113/67/s706/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs706%2Fa%2F3
-[/us/pl/113/67/s706/a/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs706%2Fa%2F4%2FA
-[/us/pl/113/67/s706/a/4/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs706%2Fa%2F4%2FD
-[/us/pl/113/67/s706/a/4/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs706%2Fa%2F4%2FE
+[/us/pl/113/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67
+[/us/pl/113/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67
+[/us/pl/113/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67
+[/us/pl/113/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67
+[/us/pl/113/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67
+[/us/pl/113/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67
+[/us/pl/113/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67
+[/us/pl/113/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67
 [/us/pl/106/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F394
 [/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
-[/us/pl/102/378/s2/77/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378%2Fs2%2F77%2FA
-[/us/pl/102/378/s2/77/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378%2Fs2%2F77%2FB
-[/us/pl/100/654/s202/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F654%2Fs202%2Fc
-[/us/pl/100/654/s201/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F654%2Fs201%2Fc
+[/us/pl/102/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378
+[/us/pl/102/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378
+[/us/pl/100/654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F654
+[/us/pl/100/654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F654
 [/us/usc/t5/s8905a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8905a
-[/us/pl/100/654/s201/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F654%2Fs201%2Fd%2F2
-[/us/pl/99/251/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F251%2Fs103
+[/us/pl/100/654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F654
+[/us/pl/99/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F251
 [/us/pl/99/335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335
-[/us/pl/99/251/s104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F251%2Fs104%2Fa
-[/us/pl/99/53/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F53%2Fs2%2Fa
+[/us/pl/99/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F251
+[/us/pl/99/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F53
 [/us/usc/t5/s8903a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8903a
-[/us/pl/99/53/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F53%2Fs2%2Fa
+[/us/pl/99/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F53
 [/us/usc/t5/s8903a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8903a
-[/us/pl/98/615/s3/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F615%2Fs3%2F4%2FA
-[/us/pl/98/615/s3/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F615%2Fs3%2F4%2FA
-[/us/pl/98/615/s3/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F615%2Fs3%2F4
-[/us/pl/98/615/s3/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F615%2Fs3%2F4
+[/us/pl/98/615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F615
+[/us/pl/98/615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F615
+[/us/pl/98/615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F615
+[/us/pl/98/615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F615
 [/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454
 [/us/pl/100/654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F654
 [/us/pl/100/654/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F654%2Fs203
@@ -339,7 +339,7 @@ Mar. 17, 1964, Pub. L. 88–284, § 1(5), 78 Stat. 164.  </td>
 [/us/pl/99/335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335
 [/us/pl/99/335/s702/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2Fs702%2Fa
 [/us/usc/t5/s8401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8401
-[/us/pl/99/251/s104/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F251%2Fs104%2Fb
+[/us/pl/99/251/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F251%2FtI
 [/us/stat/100/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F15
 [/us/pl/98/615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F615
 [/us/pl/98/615/s4/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F615%2Fs4%2Fa%2F2
@@ -347,7 +347,7 @@ Mar. 17, 1964, Pub. L. 88–284, § 1(5), 78 Stat. 164.  </td>
 [/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454
 [/us/pl/95/454/s907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs907
 [/us/usc/t5/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs1101
-[/us/pl/113/67/s706/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs706%2Fd
+[/us/pl/113/67/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2FdA%2FtVII
 [/us/stat/127/1194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1194
 [/us/pl/93/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F246
 [/us/stat/88/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F4

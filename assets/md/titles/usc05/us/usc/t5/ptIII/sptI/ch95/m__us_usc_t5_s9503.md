@@ -43,7 +43,7 @@
 
     (b) Individuals appointed under this section shall not be considered to be employees for purposes of subchapter II of chapter 75.
 
-(Added [Pub. L. 105–206, title I, § 1201(a)][/us/pl/105/206/s1201/a], July 22, 1998, [112 Stat. 712][/us/stat/112/712]; amended [Pub. L. 110–161, div. D, title I, § 105][/us/pl/110/161/s105], Dec. 26, 2007, [121 Stat. 1977][/us/stat/121/1977]; [Pub. L. 113–6, div. F, title III, § 1309][/us/pl/113/6/s1309], Mar. 26, 2013, [127 Stat. 418][/us/stat/127/418].)
+(Added [Pub. L. 105–206, title I][/us/pl/105/206/tI], § 1201(a), July 22, 1998, [112 Stat. 712][/us/stat/112/712]; amended [Pub. L. 110–161, div. D, title I][/us/pl/110/161/dD/tI], § 105, Dec. 26, 2007, [121 Stat. 1977][/us/stat/121/1977]; [Pub. L. 113–6, div. F, title III][/us/pl/113/6/dF/tIII], § 1309, Mar. 26, 2013, [127 Stat. 418][/us/stat/127/418].)
 
  __References in Text__ 
 
@@ -63,11 +63,11 @@
 ----------
 
 [/us/usc/t3/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs104
-[/us/pl/105/206/s1201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs1201%2Fa
+[/us/pl/105/206/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtI
 [/us/stat/112/712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F712
-[/us/pl/110/161/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs105
+[/us/pl/110/161/dD/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2FdD%2FtI
 [/us/stat/121/1977]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1977
-[/us/pl/113/6/s1309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F6%2Fs1309
+[/us/pl/113/6/dF/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F6%2FdF%2FtIII
 [/us/stat/127/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F418
 [/us/pl/113/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F6
 [/us/pl/110/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161

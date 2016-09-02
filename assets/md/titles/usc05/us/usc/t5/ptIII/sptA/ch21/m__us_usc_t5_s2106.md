@@ -17,7 +17,7 @@
 
     For the purpose of this title, “Member of Congress” means the Vice President, a member of the Senate or the House of Representatives, a Delegate to the House of Representatives, and the Resident Commissioner from Puerto Rico.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 409][/us/stat/80/409]; [Pub. L. 91–405, title II, § 204(b)][/us/pl/91/405/s204/b], Sept. 22, 1970, [84 Stat. 852][/us/stat/84/852]; [Pub. L. 96–54, § 2(a)(7)][/us/pl/96/54/s2/a/7], Aug. 14, 1979, [93 Stat. 381][/us/stat/93/381].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 409][/us/stat/80/409]; [Pub. L. 91–405, title II][/us/pl/91/405/tII], § 204(b), Sept. 22, 1970, [84 Stat. 852][/us/stat/84/852]; [Pub. L. 96–54][/us/pl/96/54], § 2(a)(7), Aug. 14, 1979, [93 Stat. 381][/us/stat/93/381].)
 
  __Historical and Revision Notes__ 
 
@@ -46,9 +46,9 @@
 
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F409
-[/us/pl/91/405/s204/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F405%2Fs204%2Fb
+[/us/pl/91/405/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F405%2FtII
 [/us/stat/84/852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F852
-[/us/pl/96/54/s2/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F54%2Fs2%2Fa%2F7
+[/us/pl/96/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F54
 [/us/stat/93/381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F381
 [/us/pl/96/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F54
 [/us/pl/91/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F405

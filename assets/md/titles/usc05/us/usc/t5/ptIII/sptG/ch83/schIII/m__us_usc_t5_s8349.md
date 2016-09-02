@@ -105,7 +105,7 @@
 
         (2) the term “Federal service”, as applied with respect to any individual to whom this section applies as a result of paragraph (1), means any employment referred to in paragraph (1)(B) performed after December 31, 1983.
 
-(Added [Pub. L. 99–335, title II, § 201(b)(1)][/us/pl/99/335/s201/b/1], June 6, 1986, [100 Stat. 589][/us/stat/100/589]; amended [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 100–238, title I, § 108(b)(2)][/us/pl/100/238/s108/b/2], Jan. 8, 1988, [101 Stat. 1748][/us/stat/101/1748].)
+(Added [Pub. L. 99–335, title II][/us/pl/99/335/tII], § 201(b)(1), June 6, 1986, [100 Stat. 589][/us/stat/100/589]; amended [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 100–238, title I][/us/pl/100/238/tI], § 108(b)(2), Jan. 8, 1988, [101 Stat. 1748][/us/stat/101/1748].)
 
  __References in Text__ 
 
@@ -141,11 +141,11 @@
 ----------
 
 [/us/usc/t5/s8340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8340
-[/us/pl/99/335/s201/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2Fs201%2Fb%2F1
+[/us/pl/99/335/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2FtII
 [/us/stat/100/589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F589
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
-[/us/pl/100/238/s108/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F238%2Fs108%2Fb%2F2
+[/us/pl/100/238/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F238%2FtI
 [/us/stat/101/1748]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1748
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620

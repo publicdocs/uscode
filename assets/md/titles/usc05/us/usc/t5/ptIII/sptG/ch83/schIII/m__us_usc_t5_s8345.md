@@ -49,7 +49,7 @@
 
     (e) Payment due a minor, or an individual mentally incompetent or under other legal disability, may be made to the person who is constituted guardian or other fiduciary by the law of the State of residence of the claimant or is otherwise legally vested with the care of the claimant or his estate. If a guardian or other fiduciary of the individual under legal disability has not been appointed under the law of the State of residence of the claimant, payment may be made to any person who, in the judgment of the Office, is responsible for the care of the claimant, and the payment bars recovery by any other person.
 
-    \[(f) Repealed. [Pub. L. 99–251, title III, § 305(a)][/us/pl/99/251/s305/a], Feb. 27, 1986, [100 Stat. 26][/us/stat/100/26].\]
+    \[(f) Repealed. [Pub. L. 99–251, title III][/us/pl/99/251/tIII], § 305(a), Feb. 27, 1986, [100 Stat. 26][/us/stat/100/26].\]
 
     (g) The Office shall prescribe regulations to provide that the amount of any monthly annuity payable under this section accruing for any month and which is computed with regard to service that includes any service referred to in section 8332(b)(6) performed by an individual prior to January 1, 1969, shall be reduced by the portion of any benefits under any State retirement system to which such individual is entitled (or on proper application would be entitled) for such month which is attributable to such service performed by such individual before such date.
 
@@ -99,7 +99,7 @@
 
     (l) Transfers of contributions and deposits authorized by section 408(a)(3) of the Foreign Service Act of 1980 shall be deemed to be a complete and final payment of benefits under this chapter.
 
-([Pub. L. 89–544][/us/pl/89/544], Sept. 6, 1966, [80 Stat. 582][/us/stat/80/582]; [Pub. L. 93–273, § 1][/us/pl/93/273/s1], Apr. 26, 1974, [88 Stat. 93][/us/stat/88/93]; [Pub. L. 94–126, § 1(c)][/us/pl/94/126/s1/c], Nov. 12, 1975, [89 Stat. 679][/us/stat/89/679]; [Pub. L. 94–166, § 1][/us/pl/94/166/s1], Dec. 23, 1975, [89 Stat. 1002][/us/stat/89/1002]; [Pub. L. 94–183, § 1][/us/pl/94/183/s1], Dec. 31, 1975, [89 Stat. 1057][/us/stat/89/1057]; [Pub. L. 95–366, § 1(a)][/us/pl/95/366/s1/a], Sept. 15, 1978, [92 Stat. 600][/us/stat/92/600]; [Pub. L. 95–454, title IX, § 906(a)(2)][/us/pl/95/454/s906/a/2], (3), Oct. 13, 1978, [92 Stat. 1224][/us/stat/92/1224]; [Pub. L. 97–35, title XVII, § 1705(a)][/us/pl/97/35/s1705/a], Aug. 13, 1981, [95 Stat. 758][/us/stat/95/758]; [Pub. L. 97–253, title III][/us/pl/97/253], §§ 304(b), 305(a), Sept. 8, 1982, [96 Stat. 795][/us/stat/96/795]; [Pub. L. 98–615, § 2(6)][/us/pl/98/615/s2/6], Nov. 8, 1984, [98 Stat. 3202][/us/stat/98/3202]; [Pub. L. 99–251, title III, § 305(a)][/us/pl/99/251/s305/a], Feb. 27, 1986, [100 Stat. 26][/us/stat/100/26]; [Pub. L. 101–246, title I, § 141(b)][/us/pl/101/246/s141/b], Feb. 16, 1990, [104 Stat. 35][/us/stat/104/35]; [Pub. L. 103–358, § 2(a)][/us/pl/103/358/s2/a], Oct. 14, 1994, [108 Stat. 3420][/us/stat/108/3420].)
+([Pub. L. 89–544][/us/pl/89/544], Sept. 6, 1966, [80 Stat. 582][/us/stat/80/582]; [Pub. L. 93–273][/us/pl/93/273], § 1, Apr. 26, 1974, [88 Stat. 93][/us/stat/88/93]; [Pub. L. 94–126][/us/pl/94/126], § 1(c), Nov. 12, 1975, [89 Stat. 679][/us/stat/89/679]; [Pub. L. 94–166][/us/pl/94/166], § 1, Dec. 23, 1975, [89 Stat. 1002][/us/stat/89/1002]; [Pub. L. 94–183][/us/pl/94/183], § 1, Dec. 31, 1975, [89 Stat. 1057][/us/stat/89/1057]; [Pub. L. 95–366][/us/pl/95/366], § 1(a), Sept. 15, 1978, [92 Stat. 600][/us/stat/92/600]; [Pub. L. 95–454, title IX][/us/pl/95/454/tIX], § 906(a)(2), (3), Oct. 13, 1978, [92 Stat. 1224][/us/stat/92/1224]; [Pub. L. 97–35, title XVII][/us/pl/97/35/tXVII], § 1705(a), Aug. 13, 1981, [95 Stat. 758][/us/stat/95/758]; [Pub. L. 97–253, title III][/us/pl/97/253/tIII], §§ 304(b), 305(a), Sept. 8, 1982, [96 Stat. 795][/us/stat/96/795]; [Pub. L. 98–615][/us/pl/98/615], § 2(6), Nov. 8, 1984, [98 Stat. 3202][/us/stat/98/3202]; [Pub. L. 99–251, title III][/us/pl/99/251/tIII], § 305(a), Feb. 27, 1986, [100 Stat. 26][/us/stat/100/26]; [Pub. L. 101–246, title I][/us/pl/101/246/tI], § 141(b), Feb. 16, 1990, [104 Stat. 35][/us/stat/104/35]; [Pub. L. 103–358][/us/pl/103/358], § 2(a), Oct. 14, 1994, [108 Stat. 3420][/us/stat/108/3420].)
 
 <table>
 
@@ -175,41 +175,41 @@ Sept. 6, 1960, Pub. L. 86–713, § 1(b), 74 Stat. 814.  </td>
 
  __Amendments__ 
 
-    1994—Subsec. (j)(1). [Pub. L. 103–358, § 2(a)(1)][/us/pl/103/358/s2/a/1], amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Payments under this subchapter which would otherwise be made to an employee, Member, or annuitant based upon his service shall be paid (in whole or in part) by the Office to another person if and to the extent expressly provided for in the terms of any court decree of divorce, annulment, or legal separation, or the terms of any court order or court-approved property settlement agreement incident to any court decree of divorce, annulment, or legal separation. Any payment under this paragraph to a person bars recovery by any other person.”
+    1994—Subsec. (j)(1). [Pub. L. 103–358][/us/pl/103/358], § 2(a)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Payments under this subchapter which would otherwise be made to an employee, Member, or annuitant based upon his service shall be paid (in whole or in part) by the Office to another person if and to the extent expressly provided for in the terms of any court decree of divorce, annulment, or legal separation, or the terms of any court order or court-approved property settlement agreement incident to any court decree of divorce, annulment, or legal separation. Any payment under this paragraph to a person bars recovery by any other person.”
 
-    Subsec. (j)(2). [Pub. L. 103–358, § 2(a)(2)][/us/pl/103/358/s2/a/2], inserted “other legal process,” after “order,”.
+    Subsec. (j)(2). [Pub. L. 103–358][/us/pl/103/358], § 2(a)(2), inserted “other legal process,” after “order,”.
 
-    Subsec. (j)(3). [Pub. L. 103–358, § 2(a)(3)][/us/pl/103/358/s2/a/3], amended par. (3) generally. Prior to amendment, par. (3) read as follows: “As used in this subsection, ‘court’ means any court of any State, the District of Columbia, the Commonwealth of Puerto Rico, Guam, the Northern Mariana Islands, or the Virgin Islands, and any Indian court.”
+    Subsec. (j)(3). [Pub. L. 103–358][/us/pl/103/358], § 2(a)(3), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “As used in this subsection, ‘court’ means any court of any State, the District of Columbia, the Commonwealth of Puerto Rico, Guam, the Northern Mariana Islands, or the Virgin Islands, and any Indian court.”
 
     1990—Subsec. (l). [Pub. L. 101–246][/us/pl/101/246] added subsec. (l).
 
     1986—Subsec. (f). [Pub. L. 99–251][/us/pl/99/251] struck out subsec. (f) which provided minimum monthly rates of annuity payable under subsec. (a) with certain exceptions.
 
-    1984—Subsec. (f)(4). [Pub. L. 98–615, § 2(6)(A)][/us/pl/98/615/s2/6/A], added par. (4).
+    1984—Subsec. (f)(4). [Pub. L. 98–615][/us/pl/98/615], § 2(6)(A), added par. (4).
 
-    Subsec. (j)(3). [Pub. L. 98–615, § 2(6)(B)][/us/pl/98/615/s2/6/B], inserted reference to the Commonwealth of Puerto Rico, Guam, the Northern Mariana Islands, the Virgin Islands, and any Indian court.
+    Subsec. (j)(3). [Pub. L. 98–615][/us/pl/98/615], § 2(6)(B), inserted reference to the Commonwealth of Puerto Rico, Guam, the Northern Mariana Islands, the Virgin Islands, and any Indian court.
 
-    1982—Subsec. (a). [Pub. L. 97–253, § 304(b)][/us/pl/97/253/s304/b], substituted “rounded to the next lowest” for “fixed at the nearest”.
+    1982—Subsec. (a). [Pub. L. 97–253][/us/pl/97/253], § 304(b), substituted “rounded to the next lowest” for “fixed at the nearest”.
 
-    Subsec. (b). [Pub. L. 97–253, § 305(a)][/us/pl/97/253/s305/a], substituted provisions that an annuity of an employee or Member commences on the first day of the month after separation from service or pay ceases and the service and age requirements for title to annuity are met, that any other annuity payable from the Fund commences on the first day of the month after the occurrence of the event on which the payment thereof is based, and that the annuity of an employee involuntarily separated from service or of an employee or Member retiring due to a disability shall commence on the day after separation from the service or the day after pay ceases and the service and age or disability requirements for title to annuity are met for provisions that the annuity of an employee or Member would commence on the day after he was separated from the service, or on the day after his pay ceased and he met the service and the age or disability requirements for title to annuity and that an annuity payable from the Fund allowed after September 5, 1960, would commence on the day after the occurrence of the event on which payment thereof was based.
+    Subsec. (b). [Pub. L. 97–253][/us/pl/97/253], § 305(a), substituted provisions that an annuity of an employee or Member commences on the first day of the month after separation from service or pay ceases and the service and age requirements for title to annuity are met, that any other annuity payable from the Fund commences on the first day of the month after the occurrence of the event on which the payment thereof is based, and that the annuity of an employee involuntarily separated from service or of an employee or Member retiring due to a disability shall commence on the day after separation from the service or the day after pay ceases and the service and age or disability requirements for title to annuity are met for provisions that the annuity of an employee or Member would commence on the day after he was separated from the service, or on the day after his pay ceased and he met the service and the age or disability requirements for title to annuity and that an annuity payable from the Fund allowed after September 5, 1960, would commence on the day after the occurrence of the event on which payment thereof was based.
 
     1981—Subsec. (k). [Pub. L. 97–35][/us/pl/97/35] added subsec. (k).
 
-    1978—Subsecs. (d), (e). [Pub. L. 95–454, § 906(a)(2)][/us/pl/95/454/s906/a/2], (3), substituted “Office of Personnel Management” for “Civil Service Commission” and “Office” for “Commission”.
+    1978—Subsecs. (d), (e). [Pub. L. 95–454][/us/pl/95/454], § 906(a)(2), (3), substituted “Office of Personnel Management” for “Civil Service Commission” and “Office” for “Commission”.
 
-    Subsec. (g). [Pub. L. 95–454, § 906(a)(3)][/us/pl/95/454/s906/a/3], substituted “Office” for “Commission” in the subsec. (g) added by [Pub. L. 94–126][/us/pl/94/126].
+    Subsec. (g). [Pub. L. 95–454][/us/pl/95/454], § 906(a)(3), substituted “Office” for “Commission” in the subsec. (g) added by [Pub. L. 94–126][/us/pl/94/126].
 
     [Pub. L. 95–366][/us/pl/95/366] redesignated as subsec. (h) the subsec. (g) added by [Pub. L. 94–166][/us/pl/94/166].
 
-    Subsec. (h). [Pub. L. 95–454, § 906(a)(2)][/us/pl/95/454/s906/a/2], substituted “Office of Personnel Management” for “Civil Service Commission”.
+    Subsec. (h). [Pub. L. 95–454][/us/pl/95/454], § 906(a)(2), substituted “Office of Personnel Management” for “Civil Service Commission”.
 
     [Pub. L. 95–366][/us/pl/95/366] redesignated former subsec. (g), added by [Pub. L. 94–166][/us/pl/94/166], as (h). Former subsec. (h) redesignated (i).
 
-    Subsec. (i). [Pub. L. 95–454, § 906(a)(2)][/us/pl/95/454/s906/a/2], substituted “Office of Personnel Management” for “Civil Service Commission” wherever appearing.
+    Subsec. (i). [Pub. L. 95–454][/us/pl/95/454], § 906(a)(2), substituted “Office of Personnel Management” for “Civil Service Commission” wherever appearing.
 
     [Pub. L. 95–366][/us/pl/95/366] redesignated former subsec. (h) as (i).
 
-    Subsec. (j). [Pub. L. 95–454, § 906(a)(3)][/us/pl/95/454/s906/a/3], substituted “Office” for “Commission” wherever appearing.
+    Subsec. (j). [Pub. L. 95–454][/us/pl/95/454], § 906(a)(3), substituted “Office” for “Commission” wherever appearing.
 
     [Pub. L. 95–366][/us/pl/95/366] added subsec. (j).
 
@@ -235,7 +235,7 @@ Sept. 6, 1960, Pub. L. 86–713, § 1(b), 74 Stat. 814.  </td>
 
     Amendment by [section 304(b) of Pub. L. 97–253][/us/pl/97/253/s304/b] applicable with respect to any annuity commencing on or after Oct. 1, 1982, and with respect to any adjustment or redetermination of any annuity made on or after such date, see [section 304(c) of Pub. L. 97–253][/us/pl/97/253/s304/c], set out as a note under [section 8340 of this title][/us/usc/t5/s8340].
 
-[Section 305(b) of Pub. L. 97–253][/us/pl/97/253/s305/b], as amended by [Pub. L. 97–377, title I, § 124][/us/pl/97/377/s124], Dec. 21, 1982, [96 Stat. 1913][/us/stat/96/1913], provided that: 
+[Section 305(b) of Pub. L. 97–253][/us/pl/97/253/s305/b], as amended by [Pub. L. 97–377, title I][/us/pl/97/377/tI], § 124, Dec. 21, 1982, [96 Stat. 1913][/us/stat/96/1913], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply to annuities which commence on or after October 1, 1982, except for those individuals who serve three days or less in the month of retirement.”
 
@@ -323,56 +323,56 @@ Section 305(b)–(d) of [Pub. L. 99–251][/us/pl/99/251] provided that:
 ----------
 
 [/us/usc/t5/s8337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8337
-[/us/pl/99/251/s305/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F251%2Fs305%2Fa
+[/us/pl/99/251/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F251%2FtIII
 [/us/stat/100/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F26
 [/us/pl/89/544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F544
 [/us/stat/80/582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F582
-[/us/pl/93/273/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F273%2Fs1
+[/us/pl/93/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F273
 [/us/stat/88/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F93
-[/us/pl/94/126/s1/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F126%2Fs1%2Fc
+[/us/pl/94/126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F126
 [/us/stat/89/679]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F679
-[/us/pl/94/166/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F166%2Fs1
+[/us/pl/94/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F166
 [/us/stat/89/1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F1002
-[/us/pl/94/183/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F183%2Fs1
+[/us/pl/94/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F183
 [/us/stat/89/1057]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F1057
-[/us/pl/95/366/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F366%2Fs1%2Fa
+[/us/pl/95/366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F366
 [/us/stat/92/600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F600
-[/us/pl/95/454/s906/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs906%2Fa%2F2
+[/us/pl/95/454/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtIX
 [/us/stat/92/1224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1224
-[/us/pl/97/35/s1705/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs1705%2Fa
+[/us/pl/97/35/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXVII
 [/us/stat/95/758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F758
-[/us/pl/97/253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F253
+[/us/pl/97/253/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F253%2FtIII
 [/us/stat/96/795]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F795
-[/us/pl/98/615/s2/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F615%2Fs2%2F6
+[/us/pl/98/615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F615
 [/us/stat/98/3202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3202
-[/us/pl/99/251/s305/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F251%2Fs305%2Fa
+[/us/pl/99/251/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F251%2FtIII
 [/us/stat/100/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F26
-[/us/pl/101/246/s141/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F246%2Fs141%2Fb
+[/us/pl/101/246/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F246%2FtI
 [/us/stat/104/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F35
-[/us/pl/103/358/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F358%2Fs2%2Fa
+[/us/pl/103/358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F358
 [/us/stat/108/3420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3420
 [/us/usc/t22/s3968/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3968%2Fa%2F3
-[/us/pl/103/358/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F358%2Fs2%2Fa%2F1
-[/us/pl/103/358/s2/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F358%2Fs2%2Fa%2F2
-[/us/pl/103/358/s2/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F358%2Fs2%2Fa%2F3
+[/us/pl/103/358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F358
+[/us/pl/103/358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F358
+[/us/pl/103/358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F358
 [/us/pl/101/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F246
 [/us/pl/99/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F251
-[/us/pl/98/615/s2/6/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F615%2Fs2%2F6%2FA
-[/us/pl/98/615/s2/6/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F615%2Fs2%2F6%2FB
-[/us/pl/97/253/s304/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F253%2Fs304%2Fb
-[/us/pl/97/253/s305/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F253%2Fs305%2Fa
+[/us/pl/98/615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F615
+[/us/pl/98/615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F615
+[/us/pl/97/253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F253
+[/us/pl/97/253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F253
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
-[/us/pl/95/454/s906/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs906%2Fa%2F2
-[/us/pl/95/454/s906/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs906%2Fa%2F3
+[/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454
+[/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454
 [/us/pl/94/126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F126
 [/us/pl/95/366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F366
 [/us/pl/94/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F166
-[/us/pl/95/454/s906/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs906%2Fa%2F2
+[/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454
 [/us/pl/95/366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F366
 [/us/pl/94/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F166
-[/us/pl/95/454/s906/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs906%2Fa%2F2
+[/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454
 [/us/pl/95/366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F366
-[/us/pl/95/454/s906/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs906%2Fa%2F3
+[/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454
 [/us/pl/95/366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F366
 [/us/pl/94/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F166
 [/us/pl/94/126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F126
@@ -386,7 +386,7 @@ Section 305(b)–(d) of [Pub. L. 99–251][/us/pl/99/251] provided that:
 [/us/pl/97/253/s304/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F253%2Fs304%2Fc
 [/us/usc/t5/s8340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8340
 [/us/pl/97/253/s305/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F253%2Fs305%2Fb
-[/us/pl/97/377/s124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F377%2Fs124
+[/us/pl/97/377/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F377%2FtI
 [/us/stat/96/1913]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1913
 [/us/pl/97/35/s1705/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs1705%2Fb
 [/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454

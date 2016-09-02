@@ -33,7 +33,7 @@
 
     (2) “Secretary”, when used in connection with “air traffic controller” or “controller”, means the Secretary of Transportation with respect to controllers in the Department of Transportation, and the Secretary of Defense with respect to controllers in the Department of Defense.
 
-(Added [Pub. L. 92–297, § 1(a)][/us/pl/92/297/s1/a], May 16, 1972, [86 Stat. 141][/us/stat/86/141]; amended [Pub. L. 96–347, § 1(a)][/us/pl/96/347/s1/a], Sept. 12, 1980, [94 Stat. 1150][/us/stat/94/1150]; [Pub. L. 99–335, title II, § 207(b)][/us/pl/99/335/s207/b], June 6, 1986, [100 Stat. 594][/us/stat/100/594].)
+(Added [Pub. L. 92–297][/us/pl/92/297], § 1(a), May 16, 1972, [86 Stat. 141][/us/stat/86/141]; amended [Pub. L. 96–347][/us/pl/96/347], § 1(a), Sept. 12, 1980, [94 Stat. 1150][/us/stat/94/1150]; [Pub. L. 99–335, title II][/us/pl/99/335/tII], § 207(b), June 6, 1986, [100 Stat. 594][/us/stat/100/594].)
 
  __Amendments__ 
 
@@ -47,7 +47,7 @@
 
  __Effective Date of 1980 Amendment__ 
 
-[Pub. L. 96–347, § 3][/us/pl/96/347/s3], Sept. 12, 1980, [94 Stat. 1151][/us/stat/94/1151], provided that: 
+[Pub. L. 96–347][/us/pl/96/347], § 3, Sept. 12, 1980, [94 Stat. 1151][/us/stat/94/1151], provided that: 
 
 > “This Act \[amending this section and sections 3307, 3381 to 3385, and 8335 of this title and enacting provisions set out as a note under [section 8335 of this title][/us/usc/t5/s8335]\] shall take effect on the later of—
 
@@ -66,18 +66,18 @@
 ----------
 ----------
 
-[/us/pl/92/297/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F297%2Fs1%2Fa
+[/us/pl/92/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F297
 [/us/stat/86/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F141
-[/us/pl/96/347/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F347%2Fs1%2Fa
+[/us/pl/96/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F347
 [/us/stat/94/1150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1150
-[/us/pl/99/335/s207/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2Fs207%2Fb
+[/us/pl/99/335/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2FtII
 [/us/stat/100/594]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F594
 [/us/pl/99/335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335
 [/us/pl/96/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F347
 [/us/pl/99/335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335
 [/us/pl/99/335/s702/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2Fs702%2Fa
 [/us/usc/t5/s8401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8401
-[/us/pl/96/347/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F347%2Fs3
+[/us/pl/96/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F347
 [/us/stat/94/1151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1151
 [/us/usc/t5/s8335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8335
 [/us/pl/92/297/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F297%2Fs10

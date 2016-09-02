@@ -43,7 +43,7 @@
 
     (e) This section shall not be construed to prohibit the appointment of an individual who is a preference eligible in any case in which the passing over of that individual on a certificate of eligibles furnished under [section 3317(a) of this title][/us/usc/t5/s3317/a] will result in the selection for appointment of an individual who is not a preference eligible.
 
-(Added [Pub. L. 90–206, title II, § 221(a)][/us/pl/90/206/s221/a], Dec. 16, 1967, [81 Stat. 640][/us/stat/81/640]; amended [Pub. L. 95–454, title IX, § 906(a)(2)][/us/pl/95/454/s906/a/2], Oct. 13, 1978, [92 Stat. 1224][/us/stat/92/1224].)
+(Added [Pub. L. 90–206, title II][/us/pl/90/206/tII], § 221(a), Dec. 16, 1967, [81 Stat. 640][/us/stat/81/640]; amended [Pub. L. 95–454, title IX][/us/pl/95/454/tIX], § 906(a)(2), Oct. 13, 1978, [92 Stat. 1224][/us/stat/92/1224].)
 
  __Amendments__ 
 
@@ -55,13 +55,13 @@
 
  __Effective Date__ 
 
-[Pub. L. 90–206, title II, § 220(a)(1)][/us/pl/90/206/s220/a/1], Dec. 16, 1967, [81 Stat. 639][/us/stat/81/639], provided, except as otherwise expressly provided, that: 
+[Pub. L. 90–206, title II][/us/pl/90/206/tII], § 220(a)(1), Dec. 16, 1967, [81 Stat. 639][/us/stat/81/639], provided, except as otherwise expressly provided, that: 
 
 > “This section \[enacting provisions set out as a note under [section 8704 of this title][/us/usc/t5/s8704]\] and sections 201 \[enacting provisions set out as Short Title note under [section 5332 of this title][/us/usc/t5/s5332]\], 207 \[amending [section 5303 of this title][/us/usc/t5/s5303]\], 212 \[enacting provisions set out as a note under [section 5303 of this title][/us/usc/t5/s5303]\], 218 \[enacting provisions set out as a note under [section 5332 of this title][/us/usc/t5/s5332]\], 221 \[enacting this section and provisions set out as a note under this section\], 224(a) and (b) \[amending sections 4101 and 8339 of this title\], and 225 \[enacting sections 351–361 of Title 2, The Congress\] shall become effective on the date of enactment of this title \[Dec. 16, 1967\].”
 
  __Retroactive Effect__ 
 
-[Pub. L. 90–206, title II, § 221(c)][/us/pl/90/206/s221/c], Dec. 16, 1967, [81 Stat. 641][/us/stat/81/641], provided that: 
+[Pub. L. 90–206, title II][/us/pl/90/206/tII], § 221(c), Dec. 16, 1967, [81 Stat. 641][/us/stat/81/641], provided that: 
 
 > “The amendments made by this section \[enacting this section\] do not apply to an appointment, employment, advancement, or promotion made or advocated by a public official of any individual who is a relative of the public official if, prior to the effective date of this section \[see Effective Date note above\], the individual was appointed by the public official, or received an appointment advocated by the public official, and is serving under the appointment on such effective date.”
 
@@ -75,22 +75,22 @@
 ----------
 
 [/us/usc/t5/s3317/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3317%2Fa
-[/us/pl/90/206/s221/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F206%2Fs221%2Fa
+[/us/pl/90/206/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F206%2FtII
 [/us/stat/81/640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F640
-[/us/pl/95/454/s906/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs906%2Fa%2F2
+[/us/pl/95/454/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtIX
 [/us/stat/92/1224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1224
 [/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454
 [/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454
 [/us/pl/95/454/s907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs907
 [/us/usc/t5/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs1101
-[/us/pl/90/206/s220/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F206%2Fs220%2Fa%2F1
+[/us/pl/90/206/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F206%2FtII
 [/us/stat/81/639]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F639
 [/us/usc/t5/s8704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8704
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
 [/us/usc/t5/s5303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5303
 [/us/usc/t5/s5303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5303
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
-[/us/pl/90/206/s221/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F206%2Fs221%2Fc
+[/us/pl/90/206/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F206%2FtII
 [/us/stat/81/641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F641
 [/us/pl/90/206/s221/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F206%2Fs221%2Fc
 [/us/pl/90/206/s220/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F206%2Fs220%2Fa%2F1

@@ -55,25 +55,25 @@
 
     (f) The amount of optional life insurance which is in force under this section on a family member of an employee or former employee on the date of the death of the family member shall be paid, on the establishment of a valid claim by the employee, to such employee or, in the event of the death of the employee before payment can be made, to the person or persons entitled to the group life insurance in force on the employee under [section 8705 of this title][/us/usc/t5/s8705].
 
-(Added [Pub. L. 96–427, § 8(a)][/us/pl/96/427/s8/a], Oct. 10, 1980, [94 Stat. 1836][/us/stat/94/1836]; amended [Pub. L. 98–353, title II, § 206][/us/pl/98/353/s206], as amended by [Pub. L. 99–336, § 7(1)][/us/pl/99/336/s7/1], June 19, 1986, [100 Stat. 639][/us/stat/100/639]; [Pub. L. 99–335, title II, § 207(k)(5)][/us/pl/99/335/s207/k/5], June 6, 1986, [100 Stat. 598][/us/stat/100/598]; [Pub. L. 99–336, § 7(1)][/us/pl/99/336/s7/1], June 19, 1986, [100 Stat. 639][/us/stat/100/639]; [Pub. L. 105–311][/us/pl/105/311], §§ 6(4), 8, Oct. 30, 1998, [112 Stat. 2951][/us/stat/112/2951], 2953; [Pub. L. 111–350, § 5(a)(14)][/us/pl/111/350/s5/a/14], Jan. 4, 2011, [124 Stat. 3842][/us/stat/124/3842].)
+(Added [Pub. L. 96–427][/us/pl/96/427], § 8(a), Oct. 10, 1980, [94 Stat. 1836][/us/stat/94/1836]; amended [Pub. L. 98–353, title II][/us/pl/98/353/tII], § 206, as amended by [Pub. L. 99–336][/us/pl/99/336], § 7(1), June 19, 1986, [100 Stat. 639][/us/stat/100/639]; [Pub. L. 99–335, title II][/us/pl/99/335/tII], § 207(k)(5), June 6, 1986, [100 Stat. 598][/us/stat/100/598]; [Pub. L. 99–336][/us/pl/99/336], § 7(1), June 19, 1986, [100 Stat. 639][/us/stat/100/639]; [Pub. L. 105–311][/us/pl/105/311], §§ 6(4), 8, Oct. 30, 1998, [112 Stat. 2951][/us/stat/112/2951], 2953; [Pub. L. 111–350][/us/pl/111/350], § 5(a)(14), Jan. 4, 2011, [124 Stat. 3842][/us/stat/124/3842].)
 
  __Amendments__ 
 
     2011—Subsec. (a). [Pub. L. 111–350][/us/pl/111/350] substituted “section 6101(b) to (d) of title 41” for “[section 5 of title 41][/us/usc/t41/s5]”.
 
-    1998—Subsec. (b). [Pub. L. 105–311, § 8(a)][/us/pl/105/311/s8/a], amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “The optional life insurance on family members provided under this section shall be made available to each eligible employee who elects coverage under this section, under conditions the Office shall prescribe, in the amount of $5,000 for a spouse and $2,500 for each child described in section 8701(d). The employee may stop coverage elected under this section at any time.”
+    1998—Subsec. (b). [Pub. L. 105–311][/us/pl/105/311], § 8(a), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “The optional life insurance on family members provided under this section shall be made available to each eligible employee who elects coverage under this section, under conditions the Office shall prescribe, in the amount of $5,000 for a spouse and $2,500 for each child described in section 8701(d). The employee may stop coverage elected under this section at any time.”
 
-    Subsec. (c)(2). [Pub. L. 105–311, § 8(b)(1)][/us/pl/105/311/s8/b/1], substituted “section 8714b(c)(2) through (4)” for “[section 8714b(c)(2) of this title][/us/usc/t5/s8714b/c/2]”.
+    Subsec. (c)(2). [Pub. L. 105–311][/us/pl/105/311], § 8(b)(1), substituted “section 8714b(c)(2) through (4)” for “[section 8714b(c)(2) of this title][/us/usc/t5/s8714b/c/2]”.
 
-    Subsec. (d)(1). [Pub. L. 105–311, § 8(b)(2)][/us/pl/105/311/s8/b/2], inserted before last sentence “Notwithstanding the preceding sentence, the full cost shall be continued after the calendar month in which the former employee becomes 65 years of age if, and for so long as, an election under this section corresponding to that described in section 8714b(c)(3)(B) remains in effect with respect to such former employee.”
+    Subsec. (d)(1). [Pub. L. 105–311][/us/pl/105/311], § 8(b)(2), inserted before last sentence “Notwithstanding the preceding sentence, the full cost shall be continued after the calendar month in which the former employee becomes 65 years of age if, and for so long as, an election under this section corresponding to that described in section 8714b(c)(3)(B) remains in effect with respect to such former employee.”
 
-    Subsec. (d)(3). [Pub. L. 105–311, § 6(4)][/us/pl/105/311/s6/4], added par. (3).
+    Subsec. (d)(3). [Pub. L. 105–311][/us/pl/105/311], § 6(4), added par. (3).
 
-    1986—Subsec. (c)(1). [Pub. L. 99–336][/us/pl/99/336] amended [Pub. L. 98–353, § 206][/us/pl/98/353/s206], generally. See 1984 Amendment note below.
+    1986—Subsec. (c)(1). [Pub. L. 99–336][/us/pl/99/336] amended [Pub. L. 98–353][/us/pl/98/353], § 206, generally. See 1984 Amendment note below.
 
     [Pub. L. 99–335][/us/pl/99/335] amended par. (1) generally, effective Jan. 1, 1977. Prior to such effective date, par. (1) read as follows: “Optional life insurance on family members shall stop at the earlier of the employee’s death, the employee’s separation from the service, 12 months after discontinuance of pay, or the employee’s entry on active duty or active duty for training, as provided in sections 8706(a) and 8706(c) of this title, subject to provision for a 31-day temporary extension of insurance coverage and for conversion to individual policies under conditions approved by the Office. Justices and judges of the United States described in section 8701(a)(5)(ii) and (iii) of this chapter are deemed to continue in active employment for purposes of this chapter.”
 
-    1984—Subsec. (c)(1). [Pub. L. 98–353, § 206][/us/pl/98/353/s206], as amended generally by [Pub. L. 99–336][/us/pl/99/336], inserted sentence which deemed justices and judges described in section 8701(a)(5)(ii) and (iii) of this chapter to continue in active employment for purposes of this chapter.
+    1984—Subsec. (c)(1). [Pub. L. 98–353][/us/pl/98/353], § 206, as amended generally by [Pub. L. 99–336][/us/pl/99/336], inserted sentence which deemed justices and judges described in section 8701(a)(5)(ii) and (iii) of this chapter to continue in active employment for purposes of this chapter.
 
  __Effective Date of 1998 Amendment__ 
 
@@ -85,7 +85,7 @@
 
  __Effective Date of 1984 Amendment__ 
 
-    Amendment by [Pub. L. 98–353, § 206][/us/pl/98/353/s206], as amended generally by [Pub. L. 99–336, § 7(1)][/us/pl/99/336/s7/1], applicable to any justice or judge who retires under [28 U.S.C. 371(a)][/us/usc/t28/s371/a] or (b) or 372(a) on or after January 1, 1982, see [section 207 of Pub. L. 98–353][/us/pl/98/353/s207], as amended generally by [Pub. L. 99–336, § 7(2)][/us/pl/99/336/s7/2], set out as a note under [section 8706 of this title][/us/usc/t5/s8706].
+    Amendment by [Pub. L. 98–353][/us/pl/98/353], § 206, as amended generally by [Pub. L. 99–336][/us/pl/99/336], § 7(1), applicable to any justice or judge who retires under [28 U.S.C. 371(a)][/us/usc/t28/s371/a] or (b) or 372(a) on or after January 1, 1982, see [section 207 of Pub. L. 98–353][/us/pl/98/353/s207], as amended generally by [Pub. L. 99–336][/us/pl/99/336], § 7(2), set out as a note under [section 8706 of this title][/us/usc/t5/s8706].
 
  __Effective Date__ 
 
@@ -103,30 +103,30 @@
 [/us/usc/t5/s8714a/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8714a%2Fd
 [/us/usc/t5/s8714a/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8714a%2Fe
 [/us/usc/t5/s8705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8705
-[/us/pl/96/427/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F427%2Fs8%2Fa
+[/us/pl/96/427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F427
 [/us/stat/94/1836]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1836
-[/us/pl/98/353/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs206
-[/us/pl/99/336/s7/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F336%2Fs7%2F1
+[/us/pl/98/353/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2FtII
+[/us/pl/99/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F336
 [/us/stat/100/639]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F639
-[/us/pl/99/335/s207/k/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2Fs207%2Fk%2F5
+[/us/pl/99/335/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2FtII
 [/us/stat/100/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F598
-[/us/pl/99/336/s7/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F336%2Fs7%2F1
+[/us/pl/99/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F336
 [/us/stat/100/639]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F639
 [/us/pl/105/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F311
 [/us/stat/112/2951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2951
-[/us/pl/111/350/s5/a/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs5%2Fa%2F14
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3842]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3842
 [/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/usc/t41/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs5
-[/us/pl/105/311/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F311%2Fs8%2Fa
-[/us/pl/105/311/s8/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F311%2Fs8%2Fb%2F1
+[/us/pl/105/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F311
+[/us/pl/105/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F311
 [/us/usc/t5/s8714b/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8714b%2Fc%2F2
-[/us/pl/105/311/s8/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F311%2Fs8%2Fb%2F2
-[/us/pl/105/311/s6/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F311%2Fs6%2F4
+[/us/pl/105/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F311
+[/us/pl/105/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F311
 [/us/pl/99/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F336
-[/us/pl/98/353/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs206
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
 [/us/pl/99/335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335
-[/us/pl/98/353/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs206
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
 [/us/pl/99/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F336
 [/us/pl/105/311/s6/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F311%2Fs6%2F4
 [/us/pl/105/311/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F311%2Fs8
@@ -135,11 +135,11 @@
 [/us/pl/99/335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335
 [/us/pl/99/335/s702/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2Fs702%2Fa
 [/us/usc/t5/s8401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8401
-[/us/pl/98/353/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs206
-[/us/pl/99/336/s7/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F336%2Fs7%2F1
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
+[/us/pl/99/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F336
 [/us/usc/t28/s371/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs371%2Fa
 [/us/pl/98/353/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs207
-[/us/pl/99/336/s7/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F336%2Fs7%2F2
+[/us/pl/99/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F336
 [/us/usc/t5/s8706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8706
 [/us/pl/96/427/s10/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F427%2Fs10%2Fd
 [/us/usc/t5/s8701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8701

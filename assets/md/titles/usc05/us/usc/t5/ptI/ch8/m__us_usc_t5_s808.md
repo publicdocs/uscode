@@ -23,7 +23,7 @@
 
     shall take effect at such time as the Federal agency promulgating the rule determines.
 
-(Added [Pub. L. 104–121, title II, § 251][/us/pl/104/121/s251], Mar. 29, 1996, [110 Stat. 874][/us/stat/110/874].)
+(Added [Pub. L. 104–121, title II][/us/pl/104/121/tII], § 251, Mar. 29, 1996, [110 Stat. 874][/us/stat/110/874].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/104/121/s251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F121%2Fs251
+[/us/pl/104/121/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F121%2FtII
 [/us/stat/110/874]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F874
 
 

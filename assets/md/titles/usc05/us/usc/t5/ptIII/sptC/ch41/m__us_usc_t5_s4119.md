@@ -19,7 +19,7 @@
 
     (b) The Office of Personnel Management shall provide the Architect of the Capitol with such advice and assistance as the Architect may request in order to enable the Architect to carry out the purposes of this section.
 
-(Added [Pub. L. 97–346, § 1(a)][/us/pl/97/346/s1/a], Oct. 15, 1982, [96 Stat. 1647][/us/stat/96/1647].)
+(Added [Pub. L. 97–346][/us/pl/97/346], § 1(a), Oct. 15, 1982, [96 Stat. 1647][/us/stat/96/1647].)
 
 ----------
 
@@ -28,7 +28,7 @@
 ----------
 ----------
 
-[/us/pl/97/346/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F346%2Fs1%2Fa
+[/us/pl/97/346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F346
 [/us/stat/96/1647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1647
 
 

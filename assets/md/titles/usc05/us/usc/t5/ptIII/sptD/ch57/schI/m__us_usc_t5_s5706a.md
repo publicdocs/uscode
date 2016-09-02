@@ -19,7 +19,7 @@
 
     (b) When a situation described in subsection (a) of this section requires the employee or members of the employee’s family (or both) to be temporarily relocated away from the employee’s designated post of duty, the head of the agency concerned may approve transportation expenses to and from such alternate location.
 
-(Added [Pub. L. 99–234, title I, § 103(a)][/us/pl/99/234/s103/a], Jan. 2, 1986, [99 Stat. 1757][/us/stat/99/1757].)
+(Added [Pub. L. 99–234, title I][/us/pl/99/234/tI], § 103(a), Jan. 2, 1986, [99 Stat. 1757][/us/stat/99/1757].)
 
  __Effective Date__ 
 
@@ -33,7 +33,7 @@
 ----------
 
 [/us/usc/t5/s5707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5707
-[/us/pl/99/234/s103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F234%2Fs103%2Fa
+[/us/pl/99/234/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F234%2FtI
 [/us/stat/99/1757]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1757
 [/us/pl/99/234/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F234%2Fs301%2Fa
 [/us/usc/t5/s5701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5701

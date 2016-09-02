@@ -23,7 +23,7 @@
 
     A Presidential award may be in addition to an agency award under [section 4503 of this title][/us/usc/t5/s4503].
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 443][/us/stat/80/443]; [Pub. L. 95–454, title V, § 502(b)][/us/pl/95/454/s502/b], Oct. 13, 1978, [92 Stat. 1183][/us/stat/92/1183].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 443][/us/stat/80/443]; [Pub. L. 95–454, title V][/us/pl/95/454/tV], § 502(b), Oct. 13, 1978, [92 Stat. 1183][/us/stat/92/1183].)
 
 <table>
 
@@ -81,7 +81,7 @@ Sept. 1, 1954, ch. 1208, § 304(b), 68 Stat. 1113.  </td>
 
  __Effective Date of 1978 Amendment__ 
 
-    [Pub. L. 95–454, title V, § 504(a)][/us/pl/95/454/s504/a], Oct. 13, 1978, [92 Stat. 1184][/us/stat/92/1184], provided that amendment by [Pub. L. 95–454][/us/pl/95/454] was effective on first day of first applicable pay period which began on or after Oct. 1, 1981, except it could take effect with respect to any category or categories of positions before such day to extent prescribed by Director of Office of Personnel Management.
+    [Pub. L. 95–454, title V][/us/pl/95/454/tV], § 504(a), Oct. 13, 1978, [92 Stat. 1184][/us/stat/92/1184], provided that amendment by [Pub. L. 95–454][/us/pl/95/454] was effective on first day of first applicable pay period which began on or after Oct. 1, 1981, except it could take effect with respect to any category or categories of positions before such day to extent prescribed by Director of Office of Personnel Management.
 
  __Delegation of Functions__ 
 
@@ -155,10 +155,10 @@ Sec. 2. (a) The President’s Award for Distinguished Federal Civilian Service s
 [/us/usc/t5/s4503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs4503
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F443
-[/us/pl/95/454/s502/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs502%2Fb
+[/us/pl/95/454/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtV
 [/us/stat/92/1183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1183
 [/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454
-[/us/pl/95/454/s504/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs504%2Fa
+[/us/pl/95/454/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtV
 [/us/stat/92/1184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1184
 [/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454
 [/us/usc/t3/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs301

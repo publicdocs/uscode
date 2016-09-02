@@ -33,17 +33,17 @@
 
     (e) At the request of the head of an Executive agency, the President may authorize the application of subsections (a) through (c) with respect to any category of employees within such agency who would not otherwise be covered by this section.
 
-(Added [Pub. L. 101–509, title V, § 529][/us/pl/101/509/s529] \[title II, § 207(a)\], Nov. 5, 1990, [104 Stat. 1427][/us/stat/104/1427], 1457; amended [Pub. L. 102–378, § 2(19)][/us/pl/102/378/s2/19], Oct. 2, 1992, [106 Stat. 1347][/us/stat/106/1347]; [Pub. L. 108–411, title III, § 301(c)][/us/pl/108/411/s301/c], Oct. 30, 2004, [118 Stat. 2317][/us/stat/118/2317].)
+(Added [Pub. L. 101–509, title V][/us/pl/101/509/tV], § 529 \[title II, § 207(a)\], Nov. 5, 1990, [104 Stat. 1427][/us/stat/104/1427], 1457; amended [Pub. L. 102–378][/us/pl/102/378], § 2(19), Oct. 2, 1992, [106 Stat. 1347][/us/stat/106/1347]; [Pub. L. 108–411, title III][/us/pl/108/411/tIII], § 301(c), Oct. 30, 2004, [118 Stat. 2317][/us/stat/118/2317].)
 
  __Amendments__ 
 
     2004—Subsec. (a)(2). [Pub. L. 108–411][/us/pl/108/411] struck out subpar. (A) designation before “A cash award under” and struck out subpar. (B) which read as follows: “For purposes of computing a percentage of a rate of basic pay under subparagraph (A), the rate of basic pay used shall be determined without taking into account any comparability payment under section 5304.”
 
-    1992—Subsec. (b)(2). [Pub. L. 102–378, § 2(19)(A)][/us/pl/102/378/s2/19/A], inserted reference to chapter 71.
+    1992—Subsec. (b)(2). [Pub. L. 102–378][/us/pl/102/378], § 2(19)(A), inserted reference to chapter 71.
 
-    Subsec. (c). [Pub. L. 102–378, § 2(19)(B)][/us/pl/102/378/s2/19/B], inserted “of Personnel Management” after “Office”.
+    Subsec. (c). [Pub. L. 102–378][/us/pl/102/378], § 2(19)(B), inserted “of Personnel Management” after “Office”.
 
-    Subsecs. (d), (e). [Pub. L. 102–378, § 2(19)(C)][/us/pl/102/378/s2/19/C], added subsecs. (d) and (e) and struck out former subsec. (d) which read as follows: “At the request of the head of an Executive agency, the President may authorize the application of the preceding provisions of this section with respect to 1 or more categories of employees within such agency who would not otherwise be covered by this section (including authority under subsection (c) to prescribe any necessary regulations).”
+    Subsecs. (d), (e). [Pub. L. 102–378][/us/pl/102/378], § 2(19)(C), added subsecs. (d) and (e) and struck out former subsec. (d) which read as follows: “At the request of the head of an Executive agency, the President may authorize the application of the preceding provisions of this section with respect to 1 or more categories of employees within such agency who would not otherwise be covered by this section (including authority under subsection (c) to prescribe any necessary regulations).”
 
  __Effective Date of 2004 Amendment__ 
 
@@ -84,16 +84,16 @@
 ----------
 ----------
 
-[/us/pl/101/509/s529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2Fs529
+[/us/pl/101/509/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2FtV
 [/us/stat/104/1427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1427
-[/us/pl/102/378/s2/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378%2Fs2%2F19
+[/us/pl/102/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378
 [/us/stat/106/1347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1347
-[/us/pl/108/411/s301/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F411%2Fs301%2Fc
+[/us/pl/108/411/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F411%2FtIII
 [/us/stat/118/2317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2317
 [/us/pl/108/411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F411
-[/us/pl/102/378/s2/19/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378%2Fs2%2F19%2FA
-[/us/pl/102/378/s2/19/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378%2Fs2%2F19%2FB
-[/us/pl/102/378/s2/19/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378%2Fs2%2F19%2FC
+[/us/pl/102/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378
+[/us/pl/102/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378
+[/us/pl/102/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378
 [/us/pl/108/411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F411
 [/us/pl/108/411/s301/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F411%2Fs301%2Fd
 [/us/usc/t5/s5363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5363

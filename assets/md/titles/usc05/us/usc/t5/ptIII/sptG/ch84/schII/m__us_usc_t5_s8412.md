@@ -81,7 +81,7 @@
 
             (B) For an individual whose date of birth occurs during the 5-year period consisting of calendar years 1965 through 1969, the age increase factor shall be equal to two-twelfths times the number of months in the period beginning with January 1965 and ending with December of the year in which the date of birth occurs.
 
-(Added [Pub. L. 99–335, title I, § 101(a)][/us/pl/99/335/s101/a], June 6, 1986, [100 Stat. 524][/us/stat/100/524]; amended [Pub. L. 99–556, title I, § 105(a)][/us/pl/99/556/s105/a], Oct. 27, 1986, [100 Stat. 3131][/us/stat/100/3131]; [Pub. L. 101–428, § 3(a)][/us/pl/101/428/s3/a], Oct. 15, 1990, [104 Stat. 929][/us/stat/104/929]; [Pub. L. 105–261, div. C, title XXXI, § 3154(g)][/us/pl/105/261/s3154/g], Oct. 17, 1998, [112 Stat. 2255][/us/stat/112/2255]; [Pub. L. 106–553, § 1(a)(2)][/us/pl/106/553/s1/a/2] \[title III, § 308(c)(1)\], Dec. 21, 2000, [114 Stat. 2762][/us/stat/114/2762], 2762A–87; [Pub. L. 110–161, div. E, title V, § 535(b)(2)][/us/pl/110/161/s535/b/2], Dec. 26, 2007, [121 Stat. 2076][/us/stat/121/2076].)
+(Added [Pub. L. 99–335, title I][/us/pl/99/335/tI], § 101(a), June 6, 1986, [100 Stat. 524][/us/stat/100/524]; amended [Pub. L. 99–556, title I][/us/pl/99/556/tI], § 105(a), Oct. 27, 1986, [100 Stat. 3131][/us/stat/100/3131]; [Pub. L. 101–428][/us/pl/101/428], § 3(a), Oct. 15, 1990, [104 Stat. 929][/us/stat/104/929]; [Pub. L. 105–261, div. C, title XXXI][/us/pl/105/261/dC/tXXXI], § 3154(g), Oct. 17, 1998, [112 Stat. 2255][/us/stat/112/2255]; [Pub. L. 106–553][/us/pl/106/553], § 1(a)(2) \[title III, § 308(c)(1)\], Dec. 21, 2000, [114 Stat. 2762][/us/stat/114/2762], 2762A–87; [Pub. L. 110–161, div. E, title V][/us/pl/110/161/dE/tV], § 535(b)(2), Dec. 26, 2007, [121 Stat. 2076][/us/stat/121/2076].)
 
  __Amendments__ 
 
@@ -114,17 +114,17 @@
 ----------
 ----------
 
-[/us/pl/99/335/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2Fs101%2Fa
+[/us/pl/99/335/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2FtI
 [/us/stat/100/524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F524
-[/us/pl/99/556/s105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F556%2Fs105%2Fa
+[/us/pl/99/556/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F556%2FtI
 [/us/stat/100/3131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3131
-[/us/pl/101/428/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F428%2Fs3%2Fa
+[/us/pl/101/428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F428
 [/us/stat/104/929]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F929
-[/us/pl/105/261/s3154/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs3154%2Fg
+[/us/pl/105/261/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdC%2FtXXXI
 [/us/stat/112/2255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2255
-[/us/pl/106/553/s1/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F553%2Fs1%2Fa%2F2
+[/us/pl/106/553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F553
 [/us/stat/114/2762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2762
-[/us/pl/110/161/s535/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs535%2Fb%2F2
+[/us/pl/110/161/dE/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2FdE%2FtV
 [/us/stat/121/2076]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2076
 [/us/pl/110/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161
 [/us/pl/106/553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F553

@@ -191,7 +191,7 @@
 
     (k) Any benefit or payment pursuant to this section shall be paid out of funds available for salaries and expenses of the relevant agency of the United States.
 
-(Added [Pub. L. 99–399, title VIII, § 803(a)][/us/pl/99/399/s803/a], Aug. 27, 1986, [100 Stat. 879][/us/stat/100/879]; amended [Pub. L. 102–83, § 5(c)(2)][/us/pl/102/83/s5/c/2], Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406]; [Pub. L. 108–189, § 2(b)(2)][/us/pl/108/189/s2/b/2], Dec. 19, 2003, [117 Stat. 2865][/us/stat/117/2865].)
+(Added [Pub. L. 99–399, title VIII][/us/pl/99/399/tVIII], § 803(a), Aug. 27, 1986, [100 Stat. 879][/us/stat/100/879]; amended [Pub. L. 102–83][/us/pl/102/83], § 5(c)(2), Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406]; [Pub. L. 108–189][/us/pl/108/189], § 2(b)(2), Dec. 19, 2003, [117 Stat. 2865][/us/stat/117/2865].)
 
  __References in Text__ 
 
@@ -203,27 +203,27 @@
 
  __Amendments__ 
 
-    2003—Subsec. (e)(1). [Pub. L. 108–189, § 2(b)(2)(A)][/us/pl/108/189/s2/b/2/A], which directed substitution of “provided by the Servicemembers Civil Relief Act, including the benefits provided by section 702 of such Act but excluding the benefits provided by sections 104, 105, and 106, title IV, and title V (other than sections 501 and 510) of such Act” for “ ‘provided by the Soldiers’ and Sailors’ Civil Relief Act of 1940’ and all that follows through ‘of such Act’ ” was executed by making the substitution for “provided by the Soldiers’ and Sailors’ Civil Relief Act of 1940, including the benefits provided by section 701 of such Act but excluding the benefits provided by sections 104, 105, 106, 400 through 408, 501 through 512, and 514 of such Act” to reflect the probable intent of Congress.
+    2003—Subsec. (e)(1). [Pub. L. 108–189][/us/pl/108/189], § 2(b)(2)(A), which directed substitution of “provided by the Servicemembers Civil Relief Act, including the benefits provided by section 702 of such Act but excluding the benefits provided by sections 104, 105, and 106, title IV, and title V (other than sections 501 and 510) of such Act” for “ ‘provided by the Soldiers’ and Sailors’ Civil Relief Act of 1940’ and all that follows through ‘of such Act’ ” was executed by making the substitution for “provided by the Soldiers’ and Sailors’ Civil Relief Act of 1940, including the benefits provided by section 701 of such Act but excluding the benefits provided by sections 104, 105, 106, 400 through 408, 501 through 512, and 514 of such Act” to reflect the probable intent of Congress.
 
-    Subsec. (e)(2)(A). [Pub. L. 108–189, § 2(b)(2)(B)][/us/pl/108/189/s2/b/2/B], substituted “servicemember” for “person in the military service”.
+    Subsec. (e)(2)(A). [Pub. L. 108–189][/us/pl/108/189], § 2(b)(2)(B), substituted “servicemember” for “person in the military service”.
 
     1991—Subsec. (f)(3)(A). [Pub. L. 102–83][/us/pl/102/83] substituted “[section 3524 of title 38][/us/usc/t38/s3524]” for “[section 1724 of title 38][/us/usc/t38/s1724]”.
 
  __Short Title of 1986 Amendment__ 
 
-[Pub. L. 99–399, title VIII, § 801][/us/pl/99/399/s801], Aug. 27, 1986, [100 Stat. 879][/us/stat/100/879], provided that: 
+[Pub. L. 99–399, title VIII][/us/pl/99/399/tVIII], § 801, Aug. 27, 1986, [100 Stat. 879][/us/stat/100/879], provided that: 
 
 > “This title \[enacting this section, [section 5570 of this title][/us/usc/t5/s5570], sections 1051, 1095, and 2181 to 2185 of Title 10, Armed Forces, and sections 559 and 1013 of Title 37, Pay and Allowances of the Uniformed Services, amending [section 6325 of this title][/us/usc/t5/s6325], and enacting provisions set out as notes under this section, sections 1051, 1095, and 2181 of Title 10, and [section 559 of Title 37][/us/usc/t37/s559]\] may be cited as the ‘Victims of Terrorism Compensation Act’.”
 
  __Payment to Individuals Held in Captive Status Between__  __November 4, 1979__  __, and__  __January 21, 1981__ 
 
-[Pub. L. 99–399, title VIII, § 802][/us/pl/99/399/s802], Aug. 27, 1986, [100 Stat. 879][/us/stat/100/879], provided that: 
+[Pub. L. 99–399, title VIII][/us/pl/99/399/tVIII], § 802, Aug. 27, 1986, [100 Stat. 879][/us/stat/100/879], provided that: 
 
 > “The amount of the payment for individuals in the Civil Service referred to in [section 5569(d) of title 5][/us/usc/t5/s5569/d], United States Code (as added by [section 803 of this title][/us/usc/t5/s803]), or for individuals in the uniformed services referred to in [section 559(c) of title 37][/us/usc/t37/s559/c], United States Code (as added by [section 806 of this title][/us/usc/t5/s806]), as the case may be, shall be $50 for each day any such individual was held in captive status during a period commencing on or after November 4, 1979, and ending on or before January 21, 1981.”
 
  __Transition Provisions__ 
 
-[Pub. L. 99–399, title VIII, § 805][/us/pl/99/399/s805], Aug. 27, 1986, [100 Stat. 883][/us/stat/100/883], provided that:
+[Pub. L. 99–399, title VIII][/us/pl/99/399/tVIII], § 805, Aug. 27, 1986, [100 Stat. 883][/us/stat/100/883], provided that:
 
 >     “(a) __Savings Fund.—__ 
 
@@ -241,13 +241,13 @@
 
  __Regulations__ 
 
-[Pub. L. 99–399, title VIII, § 807][/us/pl/99/399/s807], Aug. 27, 1986, [100 Stat. 889][/us/stat/100/889], provided that: 
+[Pub. L. 99–399, title VIII][/us/pl/99/399/tVIII], § 807, Aug. 27, 1986, [100 Stat. 889][/us/stat/100/889], provided that: 
 
 > “Any regulation required by this title or by any amendment made by this title \[see Short Title note above\] shall take effect not later than 6 months after the date of enactment of this Act \[Aug. 27, 1986\].”
 
  __Effective Date of Entitlements__ 
 
-[Pub. L. 99–399, title VIII, § 808][/us/pl/99/399/s808], Aug. 27, 1986, [100 Stat. 889][/us/stat/100/889], provided that: 
+[Pub. L. 99–399, title VIII][/us/pl/99/399/tVIII], § 808, Aug. 27, 1986, [100 Stat. 889][/us/stat/100/889], provided that: 
 
 > “Provisions enacted by this title \[see Short Title note above\] which provide new spending authority described in section 401(c)(2)(C) of the Congressional Budget Act of 1974 \[[2 U.S.C. 651(c)(2)(C)][/us/usc/t2/s651/c/2/C]\] shall not be effective until October 1, 1986.”
 
@@ -293,39 +293,39 @@ By the authority vested in me as President by the Constitution and laws of the U
 [/us/usc/t31/s3711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3711
 [/us/usc/t5/s5561/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5561%2F3%2FB
 [/us/usc/t38/s3524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3524
-[/us/pl/99/399/s803/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F399%2Fs803%2Fa
+[/us/pl/99/399/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F399%2FtVIII
 [/us/stat/100/879]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F879
-[/us/pl/102/83/s5/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fc%2F2
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F406
-[/us/pl/108/189/s2/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F189%2Fs2%2Fb%2F2
+[/us/pl/108/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F189
 [/us/stat/117/2865]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2865
 [/us/pl/99/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F399
 [/us/pl/99/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F399
 [/us/act/1940-10-17/ch888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-17%2Fch888
 [/us/stat/54/1178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F1178
-[/us/pl/108/189/s2/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F189%2Fs2%2Fb%2F2%2FA
-[/us/pl/108/189/s2/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F189%2Fs2%2Fb%2F2%2FB
+[/us/pl/108/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F189
+[/us/pl/108/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F189
 [/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/usc/t38/s3524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3524
 [/us/usc/t38/s1724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1724
-[/us/pl/99/399/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F399%2Fs801
+[/us/pl/99/399/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F399%2FtVIII
 [/us/stat/100/879]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F879
 [/us/usc/t5/s5570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5570
 [/us/usc/t5/s6325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs6325
 [/us/usc/t37/s559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs559
-[/us/pl/99/399/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F399%2Fs802
+[/us/pl/99/399/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F399%2FtVIII
 [/us/stat/100/879]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F879
 [/us/usc/t5/s5569/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5569%2Fd
 [/us/usc/t5/s803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs803
 [/us/usc/t37/s559/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs559%2Fc
 [/us/usc/t5/s806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs806
-[/us/pl/99/399/s805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F399%2Fs805
+[/us/pl/99/399/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F399%2FtVIII
 [/us/stat/100/883]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F883
 [/us/usc/t5/s5569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5569
 [/us/usc/t5/s5561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5561
-[/us/pl/99/399/s807]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F399%2Fs807
+[/us/pl/99/399/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F399%2FtVIII
 [/us/stat/100/889]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F889
-[/us/pl/99/399/s808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F399%2Fs808
+[/us/pl/99/399/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F399%2FtVIII
 [/us/stat/100/889]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F889
 [/us/usc/t2/s651/c/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs651%2Fc%2F2%2FC
 [/us/pl/99/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F399

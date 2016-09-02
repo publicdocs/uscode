@@ -23,7 +23,7 @@
 
     (3) when the individual concerned selected the means of shipment.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 506][/us/stat/80/506]; [Pub. L. 105–264, § 6(11)][/us/pl/105/264/s6/11], Oct. 19, 1998, [112 Stat. 2356][/us/stat/112/2356].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 506][/us/stat/80/506]; [Pub. L. 105–264][/us/pl/105/264], § 6(11), Oct. 19, 1998, [112 Stat. 2356][/us/stat/112/2356].)
 
 <table>
 
@@ -137,7 +137,7 @@ Dec. 13, 1963, Pub. L. 88–200, § 2(e) (as applicable to the Act of June 4, 
 [/us/usc/t5/s8142/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8142%2Fa
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F506
-[/us/pl/105/264/s6/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F264%2Fs6%2F11
+[/us/pl/105/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F264
 [/us/stat/112/2356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2356
 [/us/usc/t5/s8142/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8142%2Fa
 [/us/pl/105/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F264

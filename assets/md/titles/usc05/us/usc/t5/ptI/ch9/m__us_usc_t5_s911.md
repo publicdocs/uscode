@@ -17,7 +17,7 @@
 
     If the committee to which is referred a resolution introduced pursuant to subsection (a) of section 910 (or, in the absence of such a resolution, the first resolution introduced with respect to the same reorganization plan) has not reported such resolution or identical resolution at the end of 75 calendar days of continuous session of Congress after its introduction, such committee shall be deemed to be discharged from further consideration of such resolution and such resolution shall be placed on the appropriate calendar of the House involved.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 397][/us/stat/80/397]; [Pub. L. 92–179, § 5][/us/pl/92/179/s5], Dec. 10, 1971, [85 Stat. 576][/us/stat/85/576]; [Pub. L. 95–17, § 2][/us/pl/95/17/s2], Apr. 6, 1977, [91 Stat. 34][/us/stat/91/34]; [Pub. L. 98–614, § 3(b)(4)][/us/pl/98/614/s3/b/4], Nov. 8, 1984, [98 Stat. 3192][/us/stat/98/3192].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 397][/us/stat/80/397]; [Pub. L. 92–179][/us/pl/92/179], § 5, Dec. 10, 1971, [85 Stat. 576][/us/stat/85/576]; [Pub. L. 95–17][/us/pl/95/17], § 2, Apr. 6, 1977, [91 Stat. 34][/us/stat/91/34]; [Pub. L. 98–614][/us/pl/98/614], § 3(b)(4), Nov. 8, 1984, [98 Stat. 3192][/us/stat/98/3192].)
 
 <table>
 
@@ -88,11 +88,11 @@ June 20, 1949, ch. 226, § 204, 63 Stat. 207.  </td>
 
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F397
-[/us/pl/92/179/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F179%2Fs5
+[/us/pl/92/179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F179
 [/us/stat/85/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F576
-[/us/pl/95/17/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F17%2Fs2
+[/us/pl/95/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F17
 [/us/stat/91/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F34
-[/us/pl/98/614/s3/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F614%2Fs3%2Fb%2F4
+[/us/pl/98/614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F614
 [/us/stat/98/3192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3192
 [/us/pl/98/614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F614
 [/us/pl/95/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F17

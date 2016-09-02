@@ -41,7 +41,7 @@
 
     (c) The Secretary of Labor or his designee may inform the Secretary of the Air Force or his designee when a claim is filed. The Secretary of the Air Force, on request of the Secretary of Labor, shall advise him of the facts concerning the injury and whether or not the member was rendering service, or engaged in travel to or from service, in performance or support of an operational mission of the Civil Air Patrol at the time of injury. This subsection does not dispense with the report of the immediate superior of the member required by [section 8120 of this title][/us/usc/t5/s8120], or other reports agreed on under that section.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 551][/us/stat/80/551]; [Pub. L. 98–94, title XII, § 1258(a)][/us/pl/98/94/s1258/a], Sept. 24, 1983, [97 Stat. 702][/us/stat/97/702]; [Pub. L. 103–296, title I, § 108(e)(4)][/us/pl/103/296/s108/e/4], Aug. 15, 1994, [108 Stat. 1486][/us/stat/108/1486].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 551][/us/stat/80/551]; [Pub. L. 98–94, title XII][/us/pl/98/94/tXII], § 1258(a), Sept. 24, 1983, [97 Stat. 702][/us/stat/97/702]; [Pub. L. 103–296, title I][/us/pl/103/296/tI], § 108(e)(4), Aug. 15, 1994, [108 Stat. 1486][/us/stat/108/1486].)
 
 <table>
 
@@ -101,9 +101,9 @@ Aug. 3, 1956, ch. 926, § 1 “Sec. 3 (less (d))”, 70 Stat. 980.  </td>
 
     1994—Subsec. (b)(5). [Pub. L. 103–296][/us/pl/103/296] substituted “Commissioner of Social Security” for “Secretary of Health, Education, and Welfare” in two places.
 
-    1983—Subsec. (a). [Pub. L. 98–94, § 1258(a)(1)][/us/pl/98/94/s1258/a/1], inserted “under 18 years of age” after “Civil Air Patrol Cadet”.
+    1983—Subsec. (a). [Pub. L. 98–94][/us/pl/98/94], § 1258(a)(1), inserted “under 18 years of age” after “Civil Air Patrol Cadet”.
 
-    Subsec. (b)(1). [Pub. L. 98–94, § 1258(a)(2)][/us/pl/98/94/s1258/a/2], substituted “the rate of basic pay payable for step 1 of grade GS–9 in the General Schedule under [section 5332 of this title][/us/usc/t5/s5332]” for “$300”.
+    Subsec. (b)(1). [Pub. L. 98–94][/us/pl/98/94], § 1258(a)(2), substituted “the rate of basic pay payable for step 1 of grade GS–9 in the General Schedule under [section 5332 of this title][/us/usc/t5/s5332]” for “$300”.
 
  __Effective Date of 1994 Amendment__ 
 
@@ -111,7 +111,7 @@ Aug. 3, 1956, ch. 926, § 1 “Sec. 3 (less (d))”, 70 Stat. 980.  </td>
 
  __Effective Date of 1983 Amendment__ 
 
-[Pub. L. 98–94, title XII, § 1258(b)][/us/pl/98/94/s1258/b], Sept. 24, 1983, [97 Stat. 702][/us/stat/97/702], provided that:
+[Pub. L. 98–94, title XII][/us/pl/98/94/tXII], § 1258(b), Sept. 24, 1983, [97 Stat. 702][/us/stat/97/702], provided that:
 
 >     “(1) The amendments made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[Sept. 24, 1983\].
 
@@ -136,18 +136,18 @@ Aug. 3, 1956, ch. 926, § 1 “Sec. 3 (less (d))”, 70 Stat. 980.  </td>
 [/us/usc/t5/s8120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8120
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F551
-[/us/pl/98/94/s1258/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94%2Fs1258%2Fa
+[/us/pl/98/94/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94%2FtXII
 [/us/stat/97/702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F702
-[/us/pl/103/296/s108/e/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs108%2Fe%2F4
+[/us/pl/103/296/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2FtI
 [/us/stat/108/1486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1486
 [/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
-[/us/pl/98/94/s1258/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94%2Fs1258%2Fa%2F1
-[/us/pl/98/94/s1258/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94%2Fs1258%2Fa%2F2
+[/us/pl/98/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94
+[/us/pl/98/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
 [/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
 [/us/pl/103/296/s110/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs110%2Fa
 [/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
-[/us/pl/98/94/s1258/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94%2Fs1258%2Fb
+[/us/pl/98/94/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94%2FtXII
 [/us/stat/97/702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F702
 
 

@@ -105,17 +105,17 @@
 
     (h) Settlements and awards under this chapter shall be subject to the limitations in [section 5596(b)(4) of this title][/us/usc/t5/s5596/b/4].
 
-(Added [Pub. L. 95–454, title VII, § 701][/us/pl/95/454/s701], Oct. 13, 1978, [92 Stat. 1211][/us/stat/92/1211]; amended [Pub. L. 103–424, § 9][/us/pl/103/424/s9], Oct. 29, 1994, [108 Stat. 4365][/us/stat/108/4365]; [Pub. L. 105–261, div. A, title XI, § 1104(b)][/us/pl/105/261/s1104/b], Oct. 17, 1998, [112 Stat. 2142][/us/stat/112/2142].)
+(Added [Pub. L. 95–454, title VII][/us/pl/95/454/tVII], § 701, Oct. 13, 1978, [92 Stat. 1211][/us/stat/92/1211]; amended [Pub. L. 103–424][/us/pl/103/424], § 9, Oct. 29, 1994, [108 Stat. 4365][/us/stat/108/4365]; [Pub. L. 105–261, div. A, title XI][/us/pl/105/261/dA/tXI], § 1104(b), Oct. 17, 1998, [112 Stat. 2142][/us/stat/112/2142].)
 
  __Amendments__ 
 
     1998—Subsec. (h). [Pub. L. 105–261][/us/pl/105/261] added subsec. (h).
 
-    1994—Subsec. (a)(1). [Pub. L. 103–424, § 9(c)][/us/pl/103/424/s9/c], substituted “(d), (e), and (g)” for “(d) and (e)” and inserted “administrative” after “exclusive”.
+    1994—Subsec. (a)(1). [Pub. L. 103–424][/us/pl/103/424], § 9(c), substituted “(d), (e), and (g)” for “(d) and (e)” and inserted “administrative” after “exclusive”.
 
-    Subsec. (b). [Pub. L. 103–424, § 9(a)][/us/pl/103/424/s9/a], designated existing provisions as par. (1) and redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, and subpars. (A) to (C) of former par. (3) as cls. (i) to (iii) of subpar. (a)(1)(C), respectively, and added par. (2).
+    Subsec. (b). [Pub. L. 103–424][/us/pl/103/424], § 9(a), designated existing provisions as par. (1) and redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, and subpars. (A) to (C) of former par. (3) as cls. (i) to (iii) of subpar. (a)(1)(C), respectively, and added par. (2).
 
-    Subsec. (g). [Pub. L. 103–424, § 9(b)][/us/pl/103/424/s9/b], added subsec. (g).
+    Subsec. (g). [Pub. L. 103–424][/us/pl/103/424], § 9(b), added subsec. (g).
 
  __Partial Suspension of Federal Service Labor-Management Relations__ 
 
@@ -135,16 +135,16 @@
 [/us/usc/t5/s7701/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs7701%2Fc%2F1
 [/us/usc/t5/s7703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs7703
 [/us/usc/t5/s5596/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5596%2Fb%2F4
-[/us/pl/95/454/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs701
+[/us/pl/95/454/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtVII
 [/us/stat/92/1211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1211
-[/us/pl/103/424/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F424%2Fs9
+[/us/pl/103/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F424
 [/us/stat/108/4365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4365
-[/us/pl/105/261/s1104/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs1104%2Fb
+[/us/pl/105/261/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdA%2FtXI
 [/us/stat/112/2142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2142
 [/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
-[/us/pl/103/424/s9/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F424%2Fs9%2Fc
-[/us/pl/103/424/s9/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F424%2Fs9%2Fa
-[/us/pl/103/424/s9/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F424%2Fs9%2Fb
+[/us/pl/103/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F424
+[/us/pl/103/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F424
+[/us/pl/103/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F424
 [/us/usc/t5/s7103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs7103
 
 

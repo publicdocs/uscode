@@ -17,7 +17,7 @@
 
     For the purposes of this subchapter, “agency”, “employee”, and “position” have the meanings given them by section 5102.
 
-(Added [Pub. L. 101–509, title V, § 529][/us/pl/101/509/s529] \[title I, § 105(a)(1)\], Nov. 5, 1990, [104 Stat. 1427][/us/stat/104/1427], 1447.)
+(Added [Pub. L. 101–509, title V][/us/pl/101/509/tV], § 529 \[title I, § 105(a)(1)\], Nov. 5, 1990, [104 Stat. 1427][/us/stat/104/1427], 1447.)
 
  __Effective Date__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/101/509/s529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2Fs529
+[/us/pl/101/509/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2FtV
 [/us/stat/104/1427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1427
 [/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509
 [/us/usc/t5/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5301

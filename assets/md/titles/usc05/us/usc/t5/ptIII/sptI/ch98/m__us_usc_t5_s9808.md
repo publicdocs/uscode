@@ -17,7 +17,7 @@
 
     For purposes of applying the third sentence of section 3372(a) (relating to the authority of the head of a Federal agency to extend the period of an employee’s assignment to or from a State or local government, institution of higher education, or other organization), the Administrator may, with the concurrence of the employee and the government or organization concerned, take any action which would be allowable if such sentence had been amended by striking “two” and inserting “four”.
 
-(Added [Pub. L. 108–201, § 3(a)][/us/pl/108/201/s3/a], Feb. 24, 2004, [118 Stat. 468][/us/stat/118/468].)
+(Added [Pub. L. 108–201][/us/pl/108/201], § 3(a), Feb. 24, 2004, [118 Stat. 468][/us/stat/118/468].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/108/201/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F201%2Fs3%2Fa
+[/us/pl/108/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F201
 [/us/stat/118/468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F468
 
 

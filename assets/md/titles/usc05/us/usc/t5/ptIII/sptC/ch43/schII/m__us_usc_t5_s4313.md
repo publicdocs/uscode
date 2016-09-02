@@ -27,7 +27,7 @@
 
     (5) meeting affirmative action goals, achievement of equal employment opportunity requirements, and compliance with the merit systems principles set forth under [section 2301 of this title][/us/usc/t5/s2301].
 
-(Added [Pub. L. 95–454, title IV, § 405(a)][/us/pl/95/454/s405/a], Oct. 13, 1978, [92 Stat. 1168][/us/stat/92/1168]; amended [Pub. L. 103–424, § 6][/us/pl/103/424/s6], Oct. 29, 1994, [108 Stat. 4364][/us/stat/108/4364].)
+(Added [Pub. L. 95–454, title IV][/us/pl/95/454/tIV], § 405(a), Oct. 13, 1978, [92 Stat. 1168][/us/stat/92/1168]; amended [Pub. L. 103–424][/us/pl/103/424], § 6, Oct. 29, 1994, [108 Stat. 4364][/us/stat/108/4364].)
 
  __Amendments__ 
 
@@ -41,9 +41,9 @@
 ----------
 
 [/us/usc/t5/s2301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs2301
-[/us/pl/95/454/s405/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs405%2Fa
+[/us/pl/95/454/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtIV
 [/us/stat/92/1168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1168
-[/us/pl/103/424/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F424%2Fs6
+[/us/pl/103/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F424
 [/us/stat/108/4364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4364
 [/us/pl/103/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F424
 

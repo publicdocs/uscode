@@ -19,7 +19,7 @@
 
     (b) Notwithstanding section 8106, individuals directed to undergo vocational rehabilitation by the Secretary shall, while undergoing such rehabilitation, receive compensation at the rate provided in sections 8105 and 8110 of this title, less the amount of any earnings received from remunerative employment, other than employment undertaken pursuant to such rehabilitation.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 535][/us/stat/80/535]; [Pub. L. 93–416, § 3][/us/pl/93/416/s3], Sept. 7, 1974, [88 Stat. 1144][/us/stat/88/1144].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 535][/us/stat/80/535]; [Pub. L. 93–416][/us/pl/93/416], § 3, Sept. 7, 1974, [88 Stat. 1144][/us/stat/88/1144].)
 
 <table>
 
@@ -71,7 +71,7 @@ Oct. 14, 1949, ch. 691, § 202(a), 63 Stat. 862.  </td>
 
     The words “State agencies or corresponding agencies” are substituted for “State agencies (or corresponding agencies in Territories or possessions)” as the agencies available for cooperation are set out in the Vocational Rehabilitation Act (chapter 4 of title 29).
 
-    The words “[section 32(b)(1) of title 29][/us/usc/t29/s32/b/1]” are substituted for “section 33(a) (4) of title 29” on authority of the [Act of Aug. 3, 1954, ch. 655, § 2][/us/act/1954-08-03/ch655/s2], [68 Stat. 652][/us/stat/68/652]. Reference is limited to section 32(b)(1) since section 32(b) (2), (3) is obsolete.
+    The words “[section 32(b)(1) of title 29][/us/usc/t29/s32/b/1]” are substituted for “section 33(a) (4) of title 29” on authority of the [Act of Aug. 3, 1954, ch. 655][/us/act/1954-08-03/ch655], § 2, [68 Stat. 652][/us/stat/68/652]. Reference is limited to section 32(b)(1) since section 32(b) (2), (3) is obsolete.
 
     Administration of this subchapter was transferred to the Secretary of Labor by section 1 of 1950 Reorg. Plan No. 19, [64 Stat. 1271][/us/stat/64/1271] (see section 8145).
 
@@ -104,12 +104,12 @@ Oct. 14, 1949, ch. 691, § 202(a), 63 Stat. 862.  </td>
 [/us/usc/t29/s32/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs32%2Fb%2F1
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F535
-[/us/pl/93/416/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F416%2Fs3
+[/us/pl/93/416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F416
 [/us/stat/88/1144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1144
 [/us/stat/64/1271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1271
 [/us/stat/67/632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F632
 [/us/usc/t29/s32/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs32%2Fb%2F1
-[/us/act/1954-08-03/ch655/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-03%2Fch655%2Fs2
+[/us/act/1954-08-03/ch655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-03%2Fch655
 [/us/stat/68/652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F652
 [/us/stat/64/1271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1271
 [/us/act/1920-06-02/ch219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-06-02%2Fch219

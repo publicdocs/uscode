@@ -19,7 +19,7 @@
 
     (b) The regulations shall require that notice be given before, or as part of, the action that affects the employee’s coverage under [section 207(c)(1) of title 18][/us/usc/t18/s207/c/1], by virtue of the provisions of section 207(c)(2)(A)(ii) of that title, and again when employment or service in the covered position is terminated.
 
-(Added [Pub. L. 108–136, div. A, title XI, § 1125(b)(2)][/us/pl/108/136/s1125/b/2], Nov. 24, 2003, [117 Stat. 1639][/us/stat/117/1639].)
+(Added [Pub. L. 108–136, div. A, title XI][/us/pl/108/136/dA/tXI], § 1125(b)(2), Nov. 24, 2003, [117 Stat. 1639][/us/stat/117/1639].)
 
  __References in Text__ 
 
@@ -40,7 +40,7 @@
 
 [/us/usc/t18/s207/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs207%2Fc%2F1
 [/us/usc/t18/s207/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs207%2Fc%2F1
-[/us/pl/108/136/s1125/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1125%2Fb%2F2
+[/us/pl/108/136/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtXI
 [/us/stat/117/1639]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1639
 [/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
 [/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136

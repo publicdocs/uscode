@@ -111,7 +111,7 @@
 
     (m) Nothing in this section authorizes any agency to withhold from any individual any record, including transcripts, recordings, or minutes required by this section, which is otherwise accessible to such individual under [section 552a of this title][/us/usc/t5/s552a].
 
-(Added [Pub. L. 94–409, § 3(a)][/us/pl/94/409/s3/a], Sept. 13, 1976, [90 Stat. 1241][/us/stat/90/1241]; amended [Pub. L. 104–66, title III, § 3002][/us/pl/104/66/s3002], Dec. 21, 1995, [109 Stat. 734][/us/stat/109/734].)
+(Added [Pub. L. 94–409][/us/pl/94/409], § 3(a), Sept. 13, 1976, [90 Stat. 1241][/us/stat/90/1241]; amended [Pub. L. 104–66, title III][/us/pl/104/66/tIII], § 3002, Dec. 21, 1995, [109 Stat. 734][/us/stat/109/734].)
 
  __References in Text__ 
 
@@ -125,7 +125,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 94–409, § 6][/us/pl/94/409/s6], Sept. 13, 1976, [90 Stat. 1248][/us/stat/90/1248], provided that:
+[Pub. L. 94–409][/us/pl/94/409], § 6, Sept. 13, 1976, [90 Stat. 1248][/us/stat/90/1248], provided that:
 
 >     “(a) Except as provided in subsection (b) of this section, the provisions of this Act \[see Short Title note set out below\] shall take effect 180 days after the date of its enactment \[Sept. 13, 1976\].
 
@@ -133,7 +133,7 @@
 
  __Short Title of 1976 Amendment__ 
 
-[Pub. L. 94–409, § 1][/us/pl/94/409/s1], Sept. 13, 1976, [90 Stat. 1241][/us/stat/90/1241], provided: 
+[Pub. L. 94–409][/us/pl/94/409], § 1, Sept. 13, 1976, [90 Stat. 1241][/us/stat/90/1241], provided: 
 
 > “That this Act \[enacting this section, amending sections 551, 552, 556, and 557 of this title, [section 10 of Pub. L. 92–463][/us/pl/92/463/s10], set out in the Appendix to this title, and [section 410 of Title 39][/us/usc/t39/s410], and enacting provisions set out as notes under this section\] may be cited as the ‘Government in the Sunshine Act’.”
 
@@ -147,7 +147,7 @@
 
  __Declaration of Policy and Statement of Purpose__ 
 
-[Pub. L. 94–409, § 2][/us/pl/94/409/s2], Sept. 13, 1976, [90 Stat. 1241][/us/stat/90/1241], provided that: 
+[Pub. L. 94–409][/us/pl/94/409], § 2, Sept. 13, 1976, [90 Stat. 1241][/us/stat/90/1241], provided that: 
 
 > “It is hereby declared to be the policy of the United States that the public is entitled to the fullest practicable information regarding the decisionmaking processes of the Federal Government. It is the purpose of this Act \[see Short Title note set out above\] to provide the public with such information while protecting the rights of individuals and the ability of the Government to carry out its responsibilities.”
 
@@ -162,19 +162,19 @@
 [/us/usc/t5/s554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs554
 [/us/usc/t5/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552
 [/us/usc/t5/s552a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552a
-[/us/pl/94/409/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F409%2Fs3%2Fa
+[/us/pl/94/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F409
 [/us/stat/90/1241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1241
-[/us/pl/104/66/s3002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3002
+[/us/pl/104/66/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2FtIII
 [/us/stat/109/734]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F734
 [/us/usc/t5/s552/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552%2Fe
 [/us/usc/t5/s552/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552%2Ff
 [/us/pl/99/570/s1802/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs1802%2Fb
 [/us/pl/94/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F409
 [/us/pl/104/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66
-[/us/pl/94/409/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F409%2Fs6
+[/us/pl/94/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F409
 [/us/stat/90/1248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1248
 [/us/usc/t5/s552b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552b
-[/us/pl/94/409/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F409%2Fs1
+[/us/pl/94/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F409
 [/us/stat/90/1241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1241
 [/us/pl/92/463/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463%2Fs10
 [/us/usc/t39/s410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs410
@@ -182,7 +182,7 @@
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113
 [/us/pl/104/52]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F52
 [/us/usc/t5/s591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs591
-[/us/pl/94/409/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F409%2Fs2
+[/us/pl/94/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F409
 [/us/stat/90/1241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1241
 
 

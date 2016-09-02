@@ -55,7 +55,7 @@
 
         (2) the total amount paid by the agency to each expert and consultant for such work during the period.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 416][/us/stat/80/416]; [Pub. L. 95–454, title IV, § 402(b)][/us/pl/95/454/s402/b], Oct. 13, 1978, [92 Stat. 1160][/us/stat/92/1160]; [Pub. L. 97–258, § 3(a)(4)][/us/pl/97/258/s3/a/4], Sept. 13, 1982, [96 Stat. 1063][/us/stat/96/1063]; [Pub. L. 100–325, § 2(b)][/us/pl/100/325/s2/b], May 30, 1988, [102 Stat. 581][/us/stat/102/581]; [Pub. L. 102–378, § 2(8)][/us/pl/102/378/s2/8], Oct. 2, 1992, [106 Stat. 1347][/us/stat/106/1347]; [Pub. L. 111–350, § 5(a)(4)][/us/pl/111/350/s5/a/4], Jan. 4, 2011, [124 Stat. 3841][/us/stat/124/3841].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 416][/us/stat/80/416]; [Pub. L. 95–454, title IV][/us/pl/95/454/tIV], § 402(b), Oct. 13, 1978, [92 Stat. 1160][/us/stat/92/1160]; [Pub. L. 97–258][/us/pl/97/258], § 3(a)(4), Sept. 13, 1982, [96 Stat. 1063][/us/stat/96/1063]; [Pub. L. 100–325][/us/pl/100/325], § 2(b), May 30, 1988, [102 Stat. 581][/us/stat/102/581]; [Pub. L. 102–378][/us/pl/102/378], § 2(8), Oct. 2, 1992, [106 Stat. 1347][/us/stat/106/1347]; [Pub. L. 111–350][/us/pl/111/350], § 5(a)(4), Jan. 4, 2011, [124 Stat. 3841][/us/stat/124/3841].)
 
 <table>
 
@@ -103,7 +103,7 @@ Aug. 2, 1946, ch. 744, § 15, 60 Stat. 810.  </td>
 
 </table>
 
-    In subsection (a), the definitions of “agency” and “appropriation” are added on authority of the [Act of Aug. 2, 1946, ch. 744, § 18][/us/act/1946-08-02/ch744/s18], [60 Stat. 811][/us/stat/60/811].
+    In subsection (a), the definitions of “agency” and “appropriation” are added on authority of the [Act of Aug. 2, 1946, ch. 744][/us/act/1946-08-02/ch744], § 18, [60 Stat. 811][/us/stat/60/811].
 
     In subsection (b), the words “the provisions of this title governing appointment in the competitive service” are substituted for “the civil-service laws”. The words “chapter 51 and subchapter III of chapter 53 of this title” are substituted for the reference to the classification laws which originally meant the Classification Act of 1923, as amended. Exception from the Classification Act of 1949 is based on sections 202(27) and 1106(a) of the [Act of Oct. 28, 1949, ch. 782][/us/act/1949-10-28/ch782], [63 Stat. 956][/us/stat/63/956], 972.
 
@@ -127,39 +127,39 @@ Aug. 2, 1946, ch. 744, § 15, 60 Stat. 810.  </td>
 
  __Limitation on Consulting Services__ 
 
-[Pub. L. 113–76, div. G, title IV, § 401][/us/pl/113/76/s401], Jan. 17, 2014, [128 Stat. 337][/us/stat/128/337], provided that: 
+[Pub. L. 113–76, div. G, title IV][/us/pl/113/76/dG/tIV], § 401, Jan. 17, 2014, [128 Stat. 337][/us/stat/128/337], provided that: 
 
 > “In fiscal year 2014 and thereafter, the expenditure of any appropriation under this Act \[div. G of [Pub. L. 113–76][/us/pl/113/76], see Tables for classification\] or any subsequent Act appropriating funds for departments and agencies funded in this Act, for any consulting service through procurement contract, pursuant to [5 U.S.C. 3109][/us/usc/t5/s3109], shall be limited to those contracts where such expenditures are a matter of public record and available for public inspection, except where otherwise provided under existing law, or under existing Executive order issued pursuant to existing law.”
 
  __Appropriations Relating to Labor, Health and Human Services, and Education; Public Disclosure of Consulting Service Through Procurement Contract__ 
 
-[Pub. L. 102–394, title V, § 501][/us/pl/102/394/s501], Oct. 6, 1992, [106 Stat. 1825][/us/stat/106/1825], provided that: 
+[Pub. L. 102–394, title V][/us/pl/102/394/tV], § 501, Oct. 6, 1992, [106 Stat. 1825][/us/stat/106/1825], provided that: 
 
 > “The expenditure of any appropriation under this Act or subsequent Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Acts for any consulting service through procurement contract, pursuant to [5 U.S.C. 3109][/us/usc/t5/s3109], shall be limited to those contracts where such expenditures are a matter of public record and available for public inspection, except where otherwise provided under existing law, or under existing Executive order issued pursuant to existing law.”
 
 Similar provisions were contained in the following prior appropriation acts:
 
-    [Pub. L. 102–170, title V, § 501][/us/pl/102/170/s501], Nov. 26, 1991, [105 Stat. 1140][/us/stat/105/1140].
+    [Pub. L. 102–170, title V][/us/pl/102/170/tV], § 501, Nov. 26, 1991, [105 Stat. 1140][/us/stat/105/1140].
 
-    [Pub. L. 101–517, title V, § 501][/us/pl/101/517/s501], Nov. 5, 1990, [104 Stat. 2220][/us/stat/104/2220].
+    [Pub. L. 101–517, title V][/us/pl/101/517/tV], § 501, Nov. 5, 1990, [104 Stat. 2220][/us/stat/104/2220].
 
-    [Pub. L. 101–166, title V, § 501][/us/pl/101/166/s501], Nov. 21, 1989, [103 Stat. 1189][/us/stat/103/1189].
+    [Pub. L. 101–166, title V][/us/pl/101/166/tV], § 501, Nov. 21, 1989, [103 Stat. 1189][/us/stat/103/1189].
 
-    [Pub. L. 100–202, § 101(h)][/us/pl/100/202/s101/h] \[title V, § 501\], Dec. 22, 1987, [101 Stat. 1329–256][/us/stat/101/1329-256], 1329–287.
+    [Pub. L. 100–202][/us/pl/100/202], § 101(h) \[title V, § 501\], Dec. 22, 1987, [101 Stat. 1329–256][/us/stat/101/1329-256], 1329–287.
 
-    [Pub. L. 99–500, § 101(i)][/us/pl/99/500/s101/i] \[H.R. 5233, title V, § 501\], Oct. 18, 1986, [100 Stat. 1783–287][/us/stat/100/1783-287], and [Pub. L. 99–591, § 101(i)][/us/pl/99/591/s101/i] \[H.R. 5233, title V, § 501\], Oct. 30, 1986, [100 Stat. 3341–287][/us/stat/100/3341-287].
+    [Pub. L. 99–500][/us/pl/99/500], § 101(i) \[H.R. 5233, title V, § 501\], Oct. 18, 1986, [100 Stat. 1783–287][/us/stat/100/1783-287], and [Pub. L. 99–591][/us/pl/99/591], § 101(i) \[H.R. 5233, title V, § 501\], Oct. 30, 1986, [100 Stat. 3341–287][/us/stat/100/3341-287].
 
-    [Pub. L. 99–178, title V, § 501][/us/pl/99/178/s501], Dec. 12, 1985, [99 Stat. 1132][/us/stat/99/1132].
+    [Pub. L. 99–178, title V][/us/pl/99/178/tV], § 501, Dec. 12, 1985, [99 Stat. 1132][/us/stat/99/1132].
 
-    [Pub. L. 98–619, title V, § 501][/us/pl/98/619/s501], Nov. 8, 1984, [98 Stat. 3332][/us/stat/98/3332].
+    [Pub. L. 98–619, title V][/us/pl/98/619/tV], § 501, Nov. 8, 1984, [98 Stat. 3332][/us/stat/98/3332].
 
-    [Pub. L. 98–139, title V, § 501][/us/pl/98/139/s501], Oct. 31, 1983, [97 Stat. 898][/us/stat/97/898].
+    [Pub. L. 98–139, title V][/us/pl/98/139/tV], § 501, Oct. 31, 1983, [97 Stat. 898][/us/stat/97/898].
 
-    [Pub. L. 97–377, title I, § 101(e)(1)][/us/pl/97/377/s101/e/1] \[title V, § 501\], Dec. 21, 1982, [96 Stat. 1878][/us/stat/96/1878], 1904.
+    [Pub. L. 97–377, title I][/us/pl/97/377/tI], § 101(e)(1) \[title V, § 501\], Dec. 21, 1982, [96 Stat. 1878][/us/stat/96/1878], 1904.
 
  __Availability of Appropriations for Services__ 
 
-[Pub. L. 102–394, title V, § 503][/us/pl/102/394/s503], Oct. 6, 1992, [106 Stat. 1825][/us/stat/106/1825], provided that: 
+[Pub. L. 102–394, title V][/us/pl/102/394/tV], § 503, Oct. 6, 1992, [106 Stat. 1825][/us/stat/106/1825], provided that: 
 
 > “Appropriations contained in this Act or subsequent Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Acts, available for salaries and expenses, shall be available for services as authorized by [5 U.S.C. 3109][/us/usc/t5/s3109] but at rates for individuals not to exceed the per diem rate equivalent to the maximum rate payable for senior-level positions under [5 U.S.C. 5376][/us/usc/t5/s5376].”
 
@@ -167,27 +167,27 @@ Similar provisions were contained in the following prior appropriation acts:
 
 Similar provisions were contained in the following prior appropriation acts:
 
-    [Pub. L. 102–170, title V, § 503][/us/pl/102/170/s503], Nov. 26, 1991, [105 Stat. 1140][/us/stat/105/1140].
+    [Pub. L. 102–170, title V][/us/pl/102/170/tV], § 503, Nov. 26, 1991, [105 Stat. 1140][/us/stat/105/1140].
 
-    [Pub. L. 101–517, title V, § 503][/us/pl/101/517/s503], Nov. 5, 1990, [104 Stat. 2221][/us/stat/104/2221].
+    [Pub. L. 101–517, title V][/us/pl/101/517/tV], § 503, Nov. 5, 1990, [104 Stat. 2221][/us/stat/104/2221].
 
-    [Pub. L. 101–166, title V, § 503][/us/pl/101/166/s503], Nov. 21, 1989, [103 Stat. 1189][/us/stat/103/1189].
+    [Pub. L. 101–166, title V][/us/pl/101/166/tV], § 503, Nov. 21, 1989, [103 Stat. 1189][/us/stat/103/1189].
 
-    [Pub. L. 100–202, § 101(h)][/us/pl/100/202/s101/h] \[title V, § 503\], Dec. 22, 1987, [101 Stat. 1329–256][/us/stat/101/1329-256], 1329–287.
+    [Pub. L. 100–202][/us/pl/100/202], § 101(h) \[title V, § 503\], Dec. 22, 1987, [101 Stat. 1329–256][/us/stat/101/1329-256], 1329–287.
 
-    [Pub. L. 99–500, § 101(i)][/us/pl/99/500/s101/i] \[H.R. 5233, title V, § 503\], Oct. 18, 1986, [100 Stat. 1783–287][/us/stat/100/1783-287], and [Pub. L. 99–591, § 101(i)][/us/pl/99/591/s101/i] \[H.R. 5233, title V, § 503\], Oct. 30, 1986, [100 Stat. 3341–287][/us/stat/100/3341-287].
+    [Pub. L. 99–500][/us/pl/99/500], § 101(i) \[H.R. 5233, title V, § 503\], Oct. 18, 1986, [100 Stat. 1783–287][/us/stat/100/1783-287], and [Pub. L. 99–591][/us/pl/99/591], § 101(i) \[H.R. 5233, title V, § 503\], Oct. 30, 1986, [100 Stat. 3341–287][/us/stat/100/3341-287].
 
-    [Pub. L. 99–178, title V, § 503][/us/pl/99/178/s503], Dec. 12, 1985, [99 Stat. 1132][/us/stat/99/1132].
+    [Pub. L. 99–178, title V][/us/pl/99/178/tV], § 503, Dec. 12, 1985, [99 Stat. 1132][/us/stat/99/1132].
 
-    [Pub. L. 98–619, title V, § 503][/us/pl/98/619/s503], Nov. 8, 1984, [98 Stat. 3333][/us/stat/98/3333].
+    [Pub. L. 98–619, title V][/us/pl/98/619/tV], § 503, Nov. 8, 1984, [98 Stat. 3333][/us/stat/98/3333].
 
-    [Pub. L. 98–139, title V, § 503][/us/pl/98/139/s503], Oct. 31, 1983, [97 Stat. 899][/us/stat/97/899].
+    [Pub. L. 98–139, title V][/us/pl/98/139/tV], § 503, Oct. 31, 1983, [97 Stat. 899][/us/stat/97/899].
 
-    [Pub. L. 97–377, title I, § 101(e)(1)][/us/pl/97/377/s101/e/1] \[title V, § 503\], Dec. 21, 1982, [96 Stat. 1878][/us/stat/96/1878], 1904.
+    [Pub. L. 97–377, title I][/us/pl/97/377/tI], § 101(e)(1) \[title V, § 503\], Dec. 21, 1982, [96 Stat. 1878][/us/stat/96/1878], 1904.
 
  __Appropriations Relating to Energy and Water Development; Public Disclosure of Consulting Service Through Procurement Contract__ 
 
-[Pub. L. 102–377, title V, § 504][/us/pl/102/377/s504], Oct. 2, 1992, [106 Stat. 1342][/us/stat/106/1342], provided that: 
+[Pub. L. 102–377, title V][/us/pl/102/377/tV], § 504, Oct. 2, 1992, [106 Stat. 1342][/us/stat/106/1342], provided that: 
 
 > “The expenditure of any appropriation under this Act or subsequent Energy and Water Development Appropriations Acts for any consulting service through procurement contract, pursuant to [section 3109 of title 5][/us/usc/t5/s3109], United States Code, hereafter shall be limited to those contracts where such expenditures are a matter of public record and available for public inspection, except where otherwise provided under existing law, or under existing Executive Order issued pursuant to existing law.”
 
@@ -239,17 +239,17 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F416
-[/us/pl/95/454/s402/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs402%2Fb
+[/us/pl/95/454/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtIV
 [/us/stat/92/1160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1160
-[/us/pl/97/258/s3/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs3%2Fa%2F4
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1063]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1063
-[/us/pl/100/325/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F325%2Fs2%2Fb
+[/us/pl/100/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F325
 [/us/stat/102/581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F581
-[/us/pl/102/378/s2/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378%2Fs2%2F8
+[/us/pl/102/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378
 [/us/stat/106/1347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1347
-[/us/pl/111/350/s5/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs5%2Fa%2F4
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3841
-[/us/act/1946-08-02/ch744/s18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-02%2Fch744%2Fs18
+[/us/act/1946-08-02/ch744]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-02%2Fch744
 [/us/stat/60/811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F811
 [/us/act/1949-10-28/ch782]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-28%2Fch782
 [/us/stat/63/956]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F956
@@ -263,61 +263,61 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454
 [/us/pl/95/454/s415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs415
 [/us/usc/t5/s3131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3131
-[/us/pl/113/76/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs401
+[/us/pl/113/76/dG/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2FdG%2FtIV
 [/us/stat/128/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F337
 [/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
 [/us/usc/t5/s3109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3109
-[/us/pl/102/394/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F394%2Fs501
+[/us/pl/102/394/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F394%2FtV
 [/us/stat/106/1825]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1825
 [/us/usc/t5/s3109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3109
-[/us/pl/102/170/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F170%2Fs501
+[/us/pl/102/170/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F170%2FtV
 [/us/stat/105/1140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1140
-[/us/pl/101/517/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F517%2Fs501
+[/us/pl/101/517/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F517%2FtV
 [/us/stat/104/2220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2220
-[/us/pl/101/166/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F166%2Fs501
+[/us/pl/101/166/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F166%2FtV
 [/us/stat/103/1189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1189
-[/us/pl/100/202/s101/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202%2Fs101%2Fh
+[/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
 [/us/stat/101/1329-256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1329-256
-[/us/pl/99/500/s101/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500%2Fs101%2Fi
+[/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
 [/us/stat/100/1783-287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1783-287
-[/us/pl/99/591/s101/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591%2Fs101%2Fi
+[/us/pl/99/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591
 [/us/stat/100/3341-287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3341-287
-[/us/pl/99/178/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F178%2Fs501
+[/us/pl/99/178/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F178%2FtV
 [/us/stat/99/1132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1132
-[/us/pl/98/619/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F619%2Fs501
+[/us/pl/98/619/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F619%2FtV
 [/us/stat/98/3332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3332
-[/us/pl/98/139/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F139%2Fs501
+[/us/pl/98/139/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F139%2FtV
 [/us/stat/97/898]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F898
-[/us/pl/97/377/s101/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F377%2Fs101%2Fe%2F1
+[/us/pl/97/377/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F377%2FtI
 [/us/stat/96/1878]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1878
-[/us/pl/102/394/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F394%2Fs503
+[/us/pl/102/394/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F394%2FtV
 [/us/stat/106/1825]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1825
 [/us/usc/t5/s3109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3109
 [/us/usc/t5/s5376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5376
 [/us/usc/t5/s5376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5376
 [/us/pl/110/372/s2/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F372%2Fs2%2Fd%2F3
 [/us/usc/t5/s5376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5376
-[/us/pl/102/170/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F170%2Fs503
+[/us/pl/102/170/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F170%2FtV
 [/us/stat/105/1140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1140
-[/us/pl/101/517/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F517%2Fs503
+[/us/pl/101/517/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F517%2FtV
 [/us/stat/104/2221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2221
-[/us/pl/101/166/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F166%2Fs503
+[/us/pl/101/166/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F166%2FtV
 [/us/stat/103/1189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1189
-[/us/pl/100/202/s101/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202%2Fs101%2Fh
+[/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
 [/us/stat/101/1329-256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1329-256
-[/us/pl/99/500/s101/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500%2Fs101%2Fi
+[/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
 [/us/stat/100/1783-287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1783-287
-[/us/pl/99/591/s101/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591%2Fs101%2Fi
+[/us/pl/99/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591
 [/us/stat/100/3341-287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3341-287
-[/us/pl/99/178/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F178%2Fs503
+[/us/pl/99/178/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F178%2FtV
 [/us/stat/99/1132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1132
-[/us/pl/98/619/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F619%2Fs503
+[/us/pl/98/619/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F619%2FtV
 [/us/stat/98/3333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3333
-[/us/pl/98/139/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F139%2Fs503
+[/us/pl/98/139/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F139%2FtV
 [/us/stat/97/899]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F899
-[/us/pl/97/377/s101/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F377%2Fs101%2Fe%2F1
+[/us/pl/97/377/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F377%2FtI
 [/us/stat/96/1878]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1878
-[/us/pl/102/377/s504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F377%2Fs504
+[/us/pl/102/377/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F377%2FtV
 [/us/stat/106/1342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1342
 [/us/usc/t5/s3109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3109
 [/us/usc/t3/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs301

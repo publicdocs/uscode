@@ -39,7 +39,7 @@
 
     (e) The spouse of an individual whose annuity or retired pay is forfeited under section 8312 or 8313 after the date of enactment of this subsection shall be eligible for spousal pension benefits if the Attorney General of the United States determines that the spouse fully cooperated with Federal authorities in the conduct of a criminal investigation and subsequent prosecution of the individual which resulted in such forfeiture.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 563][/us/stat/80/563]; [Pub. L. 104–93, title III, § 305][/us/pl/104/93/s305], Jan. 6, 1996, [109 Stat. 965][/us/stat/109/965].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 563][/us/stat/80/563]; [Pub. L. 104–93, title III][/us/pl/104/93/tIII], § 305, Jan. 6, 1996, [109 Stat. 965][/us/stat/109/965].)
 
 <table>
 
@@ -112,7 +112,7 @@ Sept. 26, 1961, Pub. L. 87–299, § 1 “Sec. 6(a), (b)”, 75 Stat. 645.  </
 [/us/usc/t5/s8316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8316
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F563
-[/us/pl/104/93/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F93%2Fs305
+[/us/pl/104/93/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F93%2FtIII
 [/us/stat/109/965]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F965
 [/us/usc/t18/s3282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3282
 [/us/pl/104/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F93

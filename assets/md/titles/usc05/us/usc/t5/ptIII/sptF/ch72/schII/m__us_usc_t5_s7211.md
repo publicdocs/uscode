@@ -17,11 +17,11 @@
 
     The right of employees, individually or collectively, to petition Congress or a Member of Congress, or to furnish information to either House of Congress, or to a committee or Member thereof, may not be interfered with or denied.
 
-(Added [Pub. L. 95–454, title VII, § 703(a)(3)][/us/pl/95/454/s703/a/3], Oct. 13, 1978, [92 Stat. 1217][/us/stat/92/1217].)
+(Added [Pub. L. 95–454, title VII][/us/pl/95/454/tVII], § 703(a)(3), Oct. 13, 1978, [92 Stat. 1217][/us/stat/92/1217].)
 
  __Prior Provisions__ 
 
-    Provisions of this section were contained in [section 7102 of this title][/us/usc/t5/s7102] prior to the general amendment of chapter 71 of this title by [Pub. L. 95–454, title VII, § 701][/us/pl/95/454/s701], Oct. 13, 1978, [92 Stat. 1191][/us/stat/92/1191].
+    Provisions of this section were contained in [section 7102 of this title][/us/usc/t5/s7102] prior to the general amendment of chapter 71 of this title by [Pub. L. 95–454, title VII][/us/pl/95/454/tVII], § 701, Oct. 13, 1978, [92 Stat. 1191][/us/stat/92/1191].
 
  __Effective Date__ 
 
@@ -34,10 +34,10 @@
 ----------
 ----------
 
-[/us/pl/95/454/s703/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs703%2Fa%2F3
+[/us/pl/95/454/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtVII
 [/us/stat/92/1217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1217
 [/us/usc/t5/s7102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs7102
-[/us/pl/95/454/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs701
+[/us/pl/95/454/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtVII
 [/us/stat/92/1191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1191
 [/us/pl/95/454/s907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs907
 [/us/usc/t5/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs1101

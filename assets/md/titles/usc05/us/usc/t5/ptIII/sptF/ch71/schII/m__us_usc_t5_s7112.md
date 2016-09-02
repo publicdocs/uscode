@@ -45,7 +45,7 @@
 
     (d) Two or more units which are in an agency and for which a labor organization is the exclusive representative may, upon petition by the agency or labor organization, be consolidated with or without an election into a single larger unit if the Authority considers the larger unit to be appropriate. The Authority shall certify the labor organization as the exclusive representative of the new larger unit.
 
-(Added [Pub. L. 95–454, title VII, § 701][/us/pl/95/454/s701], Oct. 13, 1978, [92 Stat. 1200][/us/stat/92/1200]; amended [Pub. L. 102–378, § 2(54)][/us/pl/102/378/s2/54], Oct. 2, 1992, [106 Stat. 1354][/us/stat/106/1354].)
+(Added [Pub. L. 95–454, title VII][/us/pl/95/454/tVII], § 701, Oct. 13, 1978, [92 Stat. 1200][/us/stat/92/1200]; amended [Pub. L. 102–378][/us/pl/102/378], § 2(54), Oct. 2, 1992, [106 Stat. 1354][/us/stat/106/1354].)
 
  __Amendments__ 
 
@@ -59,9 +59,9 @@
 ----------
 
 [/us/usc/t5/s7135/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs7135%2Fa%2F2
-[/us/pl/95/454/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs701
+[/us/pl/95/454/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtVII
 [/us/stat/92/1200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1200
-[/us/pl/102/378/s2/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378%2Fs2%2F54
+[/us/pl/102/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378
 [/us/stat/106/1354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1354
 [/us/pl/102/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378
 

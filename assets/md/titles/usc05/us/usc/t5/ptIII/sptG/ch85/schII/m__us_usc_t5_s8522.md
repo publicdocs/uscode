@@ -17,7 +17,7 @@
 
     Notwithstanding [section 8504 of this title][/us/usc/t5/s8504], Federal service and Federal wages not previously assigned shall be assigned to the State in which the claimant first files claim for unemployment compensation after his latest discharge or release from Federal service. This assignment is deemed as assignment under [section 8504 of this title][/us/usc/t5/s8504] for the purpose of this subchapter.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 591][/us/stat/80/591]; [Pub. L. 94–566, title I, § 116(e)(5)][/us/pl/94/566/s116/e/5], Oct. 20, 1976, [90 Stat. 2673][/us/stat/90/2673].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 591][/us/stat/80/591]; [Pub. L. 94–566, title I][/us/pl/94/566/tI], § 116(e)(5), Oct. 20, 1976, [90 Stat. 2673][/us/stat/90/2673].)
 
 <table>
 
@@ -102,7 +102,7 @@ Sept. 13, 1960, Pub. L. 86–778, § 542(c)(2), 74 Stat. 986.  </td>
 [/us/usc/t5/s8504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8504
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F591
-[/us/pl/94/566/s116/e/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F566%2Fs116%2Fe%2F5
+[/us/pl/94/566/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F566%2FtI
 [/us/stat/90/2673]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2673
 [/us/pl/94/566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F566
 [/us/pl/94/566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F566

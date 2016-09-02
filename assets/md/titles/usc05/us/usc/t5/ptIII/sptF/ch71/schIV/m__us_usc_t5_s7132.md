@@ -29,7 +29,7 @@
 
     (c) Witnesses (whether appearing voluntarily or under subpena) shall be paid the same fee and mileage allowances which are paid subpenaed witnesses in the courts of the United States.
 
-(Added [Pub. L. 95–454, title VII, § 701][/us/pl/95/454/s701], Oct. 13, 1978, [92 Stat. 1214][/us/stat/92/1214].)
+(Added [Pub. L. 95–454, title VII][/us/pl/95/454/tVII], § 701, Oct. 13, 1978, [92 Stat. 1214][/us/stat/92/1214].)
 
 ----------
 
@@ -39,7 +39,7 @@
 ----------
 
 [/us/usc/t5/s3105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3105
-[/us/pl/95/454/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs701
+[/us/pl/95/454/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtVII
 [/us/stat/92/1214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1214
 
 

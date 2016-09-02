@@ -35,7 +35,7 @@
 
     (c) Members of the Conference, except the Chairman, are not entitled to pay for service. Members appointed from outside the Federal Government are entitled to travel expenses, including per diem instead of subsistence, as authorized by [section 5703 of this title][/us/usc/t5/s5703] for individuals serving without pay.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 389][/us/stat/80/389], § 573; [Pub. L. 99–470, § 1][/us/pl/99/470/s1], Oct. 14, 1986, [100 Stat. 1198][/us/stat/100/1198]; renumbered § 593 and amended [Pub. L. 102–354, § 2(2)][/us/pl/102/354/s2/2], (3), Aug. 26, 1992, [106 Stat. 944][/us/stat/106/944].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 389][/us/stat/80/389], § 573; [Pub. L. 99–470][/us/pl/99/470], § 1, Oct. 14, 1986, [100 Stat. 1198][/us/stat/100/1198]; renumbered § 593 and amended [Pub. L. 102–354][/us/pl/102/354], § 2(2), (3), Aug. 26, 1992, [106 Stat. 944][/us/stat/106/944].)
 
 <table>
 
@@ -97,13 +97,13 @@ Aug. 30, 1964, Pub. L. 88–499, § 4, 78 Stat. 616.  </td>
 
  __Amendments__ 
 
-    1992—[Pub. L. 102–354, § 2(2)][/us/pl/102/354/s2/2], renumbered [section 573 of this title][/us/usc/t5/s573] as this section.
+    1992—[Pub. L. 102–354][/us/pl/102/354], § 2(2), renumbered [section 573 of this title][/us/usc/t5/s573] as this section.
 
-    Subsec. (b)(4). [Pub. L. 102–354, § 2(3)][/us/pl/102/354/s2/3], substituted “section 595(b)” for “section 575(b)”.
+    Subsec. (b)(4). [Pub. L. 102–354][/us/pl/102/354], § 2(3), substituted “section 595(b)” for “section 575(b)”.
 
-    1986—Subsec. (a). [Pub. L. 99–470, § 1(a)(1)][/us/pl/99/470/s1/a/1], substituted “101” for “91”.
+    1986—Subsec. (a). [Pub. L. 99–470][/us/pl/99/470], § 1(a)(1), substituted “101” for “91”.
 
-    Subsec. (b)(6). [Pub. L. 99–470, § 1(a)(2)][/us/pl/99/470/s1/a/2], substituted “40” for “36”.
+    Subsec. (b)(6). [Pub. L. 99–470][/us/pl/99/470], § 1(a)(2), substituted “40” for “36”.
 
  __Termination of Administrative Conference of United States__ 
 
@@ -124,19 +124,19 @@ Aug. 30, 1964, Pub. L. 88–499, § 4, 78 Stat. 616.  </td>
 [/us/usc/t5/s5703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5703
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F389
-[/us/pl/99/470/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F470%2Fs1
+[/us/pl/99/470]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F470
 [/us/stat/100/1198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1198
-[/us/pl/102/354/s2/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F354%2Fs2%2F2
+[/us/pl/102/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F354
 [/us/stat/106/944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F944
 [/us/usc/t5/s575/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs575%2Fb
 [/us/usc/t5/s5703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5703
 [/us/usc/t5/s73b–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs73b%E2%80%932
 [/us/usc/t5/s583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs583
-[/us/pl/102/354/s2/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F354%2Fs2%2F2
+[/us/pl/102/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F354
 [/us/usc/t5/s573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs573
-[/us/pl/102/354/s2/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F354%2Fs2%2F3
-[/us/pl/99/470/s1/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F470%2Fs1%2Fa%2F1
-[/us/pl/99/470/s1/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F470%2Fs1%2Fa%2F2
+[/us/pl/102/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F354
+[/us/pl/99/470]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F470
+[/us/pl/99/470]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F470
 [/us/usc/t5/s591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs591
 [/us/pl/88/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F499
 [/us/stat/78/615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F615

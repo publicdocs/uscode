@@ -19,7 +19,7 @@
 
     (b) This chapter shall not require part-time career employment in positions the rate of basic pay for which is fixed at a rate equal to or greater than the minimum rate payable under section 5376.
 
-(Added [Pub. L. 95–437, § 3(a)][/us/pl/95/437/s3/a], Oct. 10, 1978, [92 Stat. 1057][/us/stat/92/1057], § 3395; renumbered § 3405 and amended [Pub. L. 95–454, title IX, § 906(c)(1)(B)][/us/pl/95/454/s906/c/1/B], (2)(C), Oct. 13, 1978, [92 Stat. 1226][/us/stat/92/1226], 1227; [Pub. L. 101–509, title V, § 529][/us/pl/101/509/s529] \[title I, § 101(b)(9)(D)\], Nov. 5, 1990, [104 Stat. 1427][/us/stat/104/1427], 1441.)
+(Added [Pub. L. 95–437][/us/pl/95/437], § 3(a), Oct. 10, 1978, [92 Stat. 1057][/us/stat/92/1057], § 3395; renumbered § 3405 and amended [Pub. L. 95–454, title IX][/us/pl/95/454/tIX], § 906(c)(1)(B), (2)(C), Oct. 13, 1978, [92 Stat. 1226][/us/stat/92/1226], 1227; [Pub. L. 101–509, title V][/us/pl/101/509/tV], § 529 \[title I, § 101(b)(9)(D)\], Nov. 5, 1990, [104 Stat. 1427][/us/stat/104/1427], 1441.)
 
  __References in Text__ 
 
@@ -29,9 +29,9 @@
 
     1990—Subsec. (b). [Pub. L. 101–509][/us/pl/101/509] substituted “payable under section 5376” for “fixed for GS–16 of the General Schedule”.
 
-    1978—[Pub. L. 95–454, § 906(c)(1)(B)][/us/pl/95/454/s906/c/1/B], renumbered [section 3395 of this title][/us/usc/t5/s3395] as this section.
+    1978—[Pub. L. 95–454][/us/pl/95/454], § 906(c)(1)(B), renumbered [section 3395 of this title][/us/usc/t5/s3395] as this section.
 
-    Subsecs. (a), (b). [Pub. L. 95–454, § 906(c)(2)(C)][/us/pl/95/454/s906/c/2/C], substituted “chapter” for “subchapter” wherever appearing.
+    Subsecs. (a), (b). [Pub. L. 95–454][/us/pl/95/454], § 906(c)(2)(C), substituted “chapter” for “subchapter” wherever appearing.
 
  __Effective Date of 1990 Amendment__ 
 
@@ -48,17 +48,17 @@
 ----------
 ----------
 
-[/us/pl/95/437/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F437%2Fs3%2Fa
+[/us/pl/95/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F437
 [/us/stat/92/1057]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1057
-[/us/pl/95/454/s906/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs906%2Fc%2F1%2FB
+[/us/pl/95/454/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtIX
 [/us/stat/92/1226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1226
-[/us/pl/101/509/s529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2Fs529
+[/us/pl/101/509/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2FtV
 [/us/stat/104/1427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1427
 [/us/pl/95/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F437
 [/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509
-[/us/pl/95/454/s906/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs906%2Fc%2F1%2FB
+[/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454
 [/us/usc/t5/s3395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3395
-[/us/pl/95/454/s906/c/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs906%2Fc%2F2%2FC
+[/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454
 [/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509
 [/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509
 [/us/usc/t5/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5301

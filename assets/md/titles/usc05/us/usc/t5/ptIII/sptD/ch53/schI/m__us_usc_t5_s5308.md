@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, added [Pub. L. 91–656, § 3(a)][/us/pl/91/656/s3/a], Jan. 8, 1971, [84 Stat. 1951][/us/stat/84/1951], relating to pay limitation, was omitted in the general revision of this subchapter by [Pub. L. 101–509][/us/pl/101/509].
+    Section, added [Pub. L. 91–656][/us/pl/91/656], § 3(a), Jan. 8, 1971, [84 Stat. 1951][/us/stat/84/1951], relating to pay limitation, was omitted in the general revision of this subchapter by [Pub. L. 101–509][/us/pl/101/509].
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/91/656/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F656%2Fs3%2Fa
+[/us/pl/91/656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F656
 [/us/stat/84/1951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1951
 [/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509
 

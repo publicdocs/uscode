@@ -17,7 +17,7 @@
 
     The Authority, the General Counsel, the Federal Mediation and Conciliation Service, the Assistant Secretary of Labor for Labor Management Relations, and the Panel shall each prescribe rules and regulations to carry out the provisions of this chapter applicable to each of them, respectively. Provisions of subchapter II of chapter 5 of this title shall be applicable to the issuance, revision, or repeal of any such rule or regulation.
 
-(Added [Pub. L. 95–454, title VII, § 701][/us/pl/95/454/s701], Oct. 13, 1978, [92 Stat. 1215][/us/stat/92/1215].)
+(Added [Pub. L. 95–454, title VII][/us/pl/95/454/tVII], § 701, Oct. 13, 1978, [92 Stat. 1215][/us/stat/92/1215].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/95/454/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs701
+[/us/pl/95/454/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtVII
 [/us/stat/92/1215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1215
 
 

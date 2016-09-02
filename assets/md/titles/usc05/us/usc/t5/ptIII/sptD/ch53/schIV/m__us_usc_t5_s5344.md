@@ -27,7 +27,7 @@
 
         For the purpose of this subsection, service in the armed forces includes the period provided by statute for the mandatory restoration of the individual to a position in or under the Government of the United States or the government of the District of Columbia after he is relieved from training and service in the armed forces or discharged from hospitalization following that training and service.
 
-(Added [Pub. L. 92–392, § 1(a)][/us/pl/92/392/s1/a], Aug. 19, 1972, [86 Stat. 568][/us/stat/86/568].)
+(Added [Pub. L. 92–392][/us/pl/92/392], § 1(a), Aug. 19, 1972, [86 Stat. 568][/us/stat/86/568].)
 
  __Prior Provisions__ 
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/92/392/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F392%2Fs1%2Fa
+[/us/pl/92/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F392
 [/us/stat/86/568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F568
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F471

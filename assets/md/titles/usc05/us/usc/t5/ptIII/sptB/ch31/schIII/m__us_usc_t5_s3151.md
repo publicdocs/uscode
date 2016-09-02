@@ -77,11 +77,11 @@
 
             (C) for any other reason.
 
-(Added [Pub. L. 100–325, § 1(a)][/us/pl/100/325/s1/a], May 30, 1988, [102 Stat. 579][/us/stat/102/579]; amended [Pub. L. 101–194, title V, § 506(b)(1)][/us/pl/101/194/s506/b/1], Nov. 30, 1989, [103 Stat. 1758][/us/stat/103/1758]; [Pub. L. 109–108, title I, § 111][/us/pl/109/108/s111], Nov. 22, 2005, [119 Stat. 2305][/us/stat/119/2305].)
+(Added [Pub. L. 100–325][/us/pl/100/325], § 1(a), May 30, 1988, [102 Stat. 579][/us/stat/102/579]; amended [Pub. L. 101–194, title V][/us/pl/101/194/tV], § 506(b)(1), Nov. 30, 1989, [103 Stat. 1758][/us/stat/103/1758]; [Pub. L. 109–108, title I][/us/pl/109/108/tI], § 111, Nov. 22, 2005, [119 Stat. 2305][/us/stat/119/2305].)
 
  __References in Text__ 
 
-    Section 3393a, referred to in subsec. (a)(5)(E), was repealed by [Pub. L. 107–296, title XIII, § 1321(a)(1)(B)][/us/pl/107/296/s1321/a/1/B], Nov. 25, 2002, [116 Stat. 2296][/us/stat/116/2296].
+    Section 3393a, referred to in subsec. (a)(5)(E), was repealed by [Pub. L. 107–296, title XIII][/us/pl/107/296/tXIII], § 1321(a)(1)(B), Nov. 25, 2002, [116 Stat. 2296][/us/stat/116/2296].
 
     Provisions of this title governing appointments and other personnel actions in the competitive service, referred to in subsec. (b)(2), are classified generally to section 3301 et seq. of this title.
 
@@ -97,7 +97,7 @@
 
  __Effective Date of 1989 Amendment__ 
 
-[Pub. L. 101–194, title V, § 506(d)][/us/pl/101/194/s506/d], Nov. 30, 1989, [103 Stat. 1759][/us/stat/103/1759], provided that: 
+[Pub. L. 101–194, title V][/us/pl/101/194/tV], § 506(d), Nov. 30, 1989, [103 Stat. 1759][/us/stat/103/1759], provided that: 
 
 > “The amendments made by this section \[enacting [section 3393a of this title][/us/usc/t5/s3393a] and amending this section, sections 3393, 3592 to 3594, 7701, 8336, 8339, 8414, and 8421 of this title, [section 1601 of Title 10][/us/usc/t10/s1601], Armed Forces, [section 3945 of Title 22][/us/usc/t22/s3945], Foreign Relations and Intercourse, and [section 3610 of Title 50][/us/usc/t50/s3610], War and National Defense\] shall take effect on January 1, 1991.”
 
@@ -108,17 +108,17 @@
 ----------
 ----------
 
-[/us/pl/100/325/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F325%2Fs1%2Fa
+[/us/pl/100/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F325
 [/us/stat/102/579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F579
-[/us/pl/101/194/s506/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194%2Fs506%2Fb%2F1
+[/us/pl/101/194/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194%2FtV
 [/us/stat/103/1758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1758
-[/us/pl/109/108/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F108%2Fs111
+[/us/pl/109/108/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F108%2FtI
 [/us/stat/119/2305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2305
-[/us/pl/107/296/s1321/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1321%2Fa%2F1%2FB
+[/us/pl/107/296/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXIII
 [/us/stat/116/2296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2296
 [/us/pl/109/108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F108
 [/us/pl/101/194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194
-[/us/pl/101/194/s506/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194%2Fs506%2Fd
+[/us/pl/101/194/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194%2FtV
 [/us/stat/103/1759]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1759
 [/us/usc/t5/s3393a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3393a
 [/us/usc/t10/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1601

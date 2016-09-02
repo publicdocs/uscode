@@ -27,7 +27,7 @@
 
         (3) may not exceed 15 percent of the rate of basic pay of that employee for the period served under that assignment.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 512][/us/stat/80/512]; [Pub. L. 96–465, title II, § 2309][/us/pl/96/465/s2309], Oct. 17, 1980, [94 Stat. 2165][/us/stat/94/2165]; [Pub. L. 108–199, div. D, title V, § 591(a)][/us/pl/108/199/s591/a], Jan. 23, 2004, [118 Stat. 207][/us/stat/118/207]; [Pub. L. 109–140, § 4(b)][/us/pl/109/140/s4/b], Dec. 22, 2005, [119 Stat. 2651][/us/stat/119/2651].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 512][/us/stat/80/512]; [Pub. L. 96–465, title II][/us/pl/96/465/tII], § 2309, Oct. 17, 1980, [94 Stat. 2165][/us/stat/94/2165]; [Pub. L. 108–199, div. D, title V][/us/pl/108/199/dD/tV], § 591(a), Jan. 23, 2004, [118 Stat. 207][/us/stat/118/207]; [Pub. L. 109–140][/us/pl/109/140], § 4(b), Dec. 22, 2005, [119 Stat. 2651][/us/stat/119/2651].)
 
 <table>
 
@@ -89,7 +89,7 @@ Sept. 6, 1960, Pub. L. 86–707, § 231, 74 Stat. 795.  </td>
 
  __Effective Date of 2004 Amendment__ 
 
-    [Pub. L. 108–199, div. D, title V, § 591(c)][/us/pl/108/199/s591/c], Jan. 23, 2004, [118 Stat. 207][/us/stat/118/207], which provided that except for employees of the United States Agency for International Development stationed in Iraq and Afghanistan, the amendments made by subsections (a) and (b), amending this section and [section 5928 of this title][/us/usc/t5/s5928], would not take effect until the same authority was enacted for employees of the Department of State, was repealed by [Pub. L. 109–140, § 4(a)][/us/pl/109/140/s4/a], Dec. 22, 2005, [119 Stat. 2651][/us/stat/119/2651].
+    [Pub. L. 108–199, div. D, title V][/us/pl/108/199/dD/tV], § 591(c), Jan. 23, 2004, [118 Stat. 207][/us/stat/118/207], which provided that except for employees of the United States Agency for International Development stationed in Iraq and Afghanistan, the amendments made by subsections (a) and (b), amending this section and [section 5928 of this title][/us/usc/t5/s5928], would not take effect until the same authority was enacted for employees of the Department of State, was repealed by [Pub. L. 109–140][/us/pl/109/140], § 4(a), Dec. 22, 2005, [119 Stat. 2651][/us/stat/119/2651].
 
  __Effective Date of 1980 Amendment__ 
 
@@ -97,13 +97,13 @@ Sept. 6, 1960, Pub. L. 86–707, § 231, 74 Stat. 795.  </td>
 
  __Criteria__ 
 
-[Pub. L. 109–140, § 4(d)][/us/pl/109/140/s4/d], Dec. 22, 2005, [119 Stat. 2651][/us/stat/119/2651], provided that: 
+[Pub. L. 109–140][/us/pl/109/140], § 4(d), Dec. 22, 2005, [119 Stat. 2651][/us/stat/119/2651], provided that: 
 
 > “The Secretary of State shall inform the Committee on International Relations \[now Committee on Foreign Affairs\] of the House of Representatives and the Committee on Foreign Relations of the Senate of the criteria to be used in determinations of appropriate adjustments in post differentials under [section 5925(a) of title 5][/us/usc/t5/s5925/a], United States Code, as amended by subsection (b), and danger pay allowances under [section 5928 of title 5][/us/usc/t5/s5928], United States Code, as amended by subsection (c).”
 
  __Extension of Foreign Post Differentials to Certain Federal Employees Who Served in Connection With Operation Desert Storm__ 
 
-[Pub. L. 102–190, div. A, title X, § 1093][/us/pl/102/190/s1093], Dec. 5, 1991, [105 Stat. 1487][/us/stat/105/1487], provided that:
+[Pub. L. 102–190, div. A, title X][/us/pl/102/190/dA/tX], § 1093, Dec. 5, 1991, [105 Stat. 1487][/us/stat/105/1487], provided that:
 
 >     “(a)  __Waiver of Requirement That Employee Be Detailed to A Post for an ‘Extended’ Period__  __.—__ 
 
@@ -150,28 +150,28 @@ Sept. 6, 1960, Pub. L. 86–707, § 231, 74 Stat. 795.  </td>
 
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F512
-[/us/pl/96/465/s2309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs2309
+[/us/pl/96/465/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtII
 [/us/stat/94/2165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2165
-[/us/pl/108/199/s591/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2Fs591%2Fa
+[/us/pl/108/199/dD/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2FdD%2FtV
 [/us/stat/118/207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F207
-[/us/pl/109/140/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F140%2Fs4%2Fb
+[/us/pl/109/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F140
 [/us/stat/119/2651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2651
 [/us/pl/109/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F140
 [/us/pl/108/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199
 [/us/pl/96/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465
-[/us/pl/108/199/s591/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2Fs591%2Fc
+[/us/pl/108/199/dD/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2FdD%2FtV
 [/us/stat/118/207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F207
 [/us/usc/t5/s5928]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5928
-[/us/pl/109/140/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F140%2Fs4%2Fa
+[/us/pl/109/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F140
 [/us/stat/119/2651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2651
 [/us/pl/96/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465
 [/us/pl/96/465/s2403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs2403
 [/us/usc/t22/s3901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3901
-[/us/pl/109/140/s4/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F140%2Fs4%2Fd
+[/us/pl/109/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F140
 [/us/stat/119/2651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2651
 [/us/usc/t5/s5925/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5925%2Fa
 [/us/usc/t5/s5928]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5928
-[/us/pl/102/190/s1093]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs1093
+[/us/pl/102/190/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdA%2FtX
 [/us/stat/105/1487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1487
 [/us/usc/t5/s5925/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5925%2Fa
 [/us/usc/t26/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs112

@@ -17,7 +17,7 @@
 
     The Office of Personnel Management may prescribe such regulations as it considers necessary for the administration of this subchapter.
 
-(Added [Pub. L. 90–83, § 1(40)(A)][/us/pl/90/83/s1/40/A], Sept. 11, 1967, [81 Stat. 206][/us/stat/81/206]; amended [Pub. L. 96–54, § 2(a)(2)][/us/pl/96/54/s2/a/2], Aug. 14, 1979, [93 Stat. 381][/us/stat/93/381]; [Pub. L. 101–509, title V, § 529][/us/pl/101/509/s529] \[title II, § 202(b)\], Nov. 5, 1990, [104 Stat. 1427][/us/stat/104/1427], 1456.)
+(Added [Pub. L. 90–83][/us/pl/90/83], § 1(40)(A), Sept. 11, 1967, [81 Stat. 206][/us/stat/81/206]; amended [Pub. L. 96–54][/us/pl/96/54], § 2(a)(2), Aug. 14, 1979, [93 Stat. 381][/us/stat/93/381]; [Pub. L. 101–509, title V][/us/pl/101/509/tV], § 529 \[title II, § 202(b)\], Nov. 5, 1990, [104 Stat. 1427][/us/stat/104/1427], 1456.)
 
 <table>
 
@@ -86,11 +86,11 @@ Source (Statutes at Large)  </td>
 ----------
 ----------
 
-[/us/pl/90/83/s1/40/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83%2Fs1%2F40%2FA
+[/us/pl/90/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83
 [/us/stat/81/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F206
-[/us/pl/96/54/s2/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F54%2Fs2%2Fa%2F2
+[/us/pl/96/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F54
 [/us/stat/93/381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F381
-[/us/pl/101/509/s529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2Fs529
+[/us/pl/101/509/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2FtV
 [/us/stat/104/1427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1427
 [/us/usc/t5/s5901/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5901%2Fd
 [/us/act/1954-09-01/ch1208/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-09-01%2Fch1208%2Fs404

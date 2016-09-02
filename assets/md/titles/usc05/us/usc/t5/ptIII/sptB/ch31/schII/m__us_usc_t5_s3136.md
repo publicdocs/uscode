@@ -17,7 +17,7 @@
 
     The Office of Personnel Management shall prescribe regulations to carry out the purpose of this subchapter.
 
-(Added [Pub. L. 95–454, title IV, § 402(a)][/us/pl/95/454/s402/a], Oct. 13, 1978, [92 Stat. 1160][/us/stat/92/1160].)
+(Added [Pub. L. 95–454, title IV][/us/pl/95/454/tIV], § 402(a), Oct. 13, 1978, [92 Stat. 1160][/us/stat/92/1160].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/95/454/s402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs402%2Fa
+[/us/pl/95/454/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtIV
 [/us/stat/92/1160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1160
 
 

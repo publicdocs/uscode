@@ -17,7 +17,7 @@
 
     Chapter 47 shall not apply to this chapter.
 
-(Added [Pub. L. 107–123, § 8(a)][/us/pl/107/123/s8/a], Jan. 16, 2002, [115 Stat. 2398][/us/stat/115/2398].)
+(Added [Pub. L. 107–123][/us/pl/107/123], § 8(a), Jan. 16, 2002, [115 Stat. 2398][/us/stat/115/2398].)
 
  __Effective Date__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/107/123/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F123%2Fs8%2Fa
+[/us/pl/107/123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F123
 [/us/stat/115/2398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2398
 [/us/pl/107/123/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F123%2Fs11
 [/us/usc/t15/s78ee]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78ee

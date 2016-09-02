@@ -19,13 +19,13 @@
 
     (b) Vessel employees in an area where inadequate maritime industry practice exists and vessel employees of the Corps of Engineers shall have their pay fixed and adjusted under the provisions of this subchapter other than this section, as appropriate.
 
-([Pub. L. 89–544][/us/pl/89/544], Sept. 6, 1966, [80 Stat. 471][/us/stat/80/471], § 5348, formerly § 5342; renumbered and amended [Pub. L. 92–392, § 1(a)][/us/pl/92/392/s1/a], Aug. 19, 1972, [86 Stat. 572][/us/stat/86/572]; [Pub. L. 96–70, title III, § 3302(e)(1)][/us/pl/96/70/s3302/e/1], Sept. 27, 1979, [93 Stat. 498][/us/stat/93/498]; [Pub. L. 104–201, div. C, title XXXV, § 3548(a)(3)(C)][/us/pl/104/201/s3548/a/3/C], Sept. 23, 1996, [110 Stat. 2868][/us/stat/110/2868].)
+([Pub. L. 89–544][/us/pl/89/544], Sept. 6, 1966, [80 Stat. 471][/us/stat/80/471], § 5348, formerly § 5342; renumbered and amended [Pub. L. 92–392][/us/pl/92/392], § 1(a), Aug. 19, 1972, [86 Stat. 572][/us/stat/86/572]; [Pub. L. 96–70, title III][/us/pl/96/70/tIII], § 3302(e)(1), Sept. 27, 1979, [93 Stat. 498][/us/stat/93/498]; [Pub. L. 104–201, div. C, title XXXV][/us/pl/104/201/dC/tXXXV], § 3548(a)(3)(C), Sept. 23, 1996, [110 Stat. 2868][/us/stat/110/2868].)
 
  __Amendments__ 
 
-    1996—Subsec. (a). [Pub. L. 104–201, § 3548(a)(3)(C)(iii)][/us/pl/104/201/s3548/a/3/C/iii], substituted “subsection (b)” for “subsections (b) and (c)”.
+    1996—Subsec. (a). [Pub. L. 104–201][/us/pl/104/201], § 3548(a)(3)(C)(iii), substituted “subsection (b)” for “subsections (b) and (c)”.
 
-    Subsecs. (b), (c). [Pub. L. 104–201, § 3548(a)(3)(C)(i)][/us/pl/104/201/s3548/a/3/C/i], (ii), redesignated subsec. (c) as (b) and struck out former subsec. (b) which read as follows: “Vessel employees of the Panama Canal Commission may be paid in accordance with the wage practices of the maritime industry.”
+    Subsecs. (b), (c). [Pub. L. 104–201][/us/pl/104/201], § 3548(a)(3)(C)(i), (ii), redesignated subsec. (c) as (b) and struck out former subsec. (b) which read as follows: “Vessel employees of the Panama Canal Commission may be paid in accordance with the wage practices of the maritime industry.”
 
     1979—Subsec. (b). [Pub. L. 96–70][/us/pl/96/70] substituted “Commission” for “Company”.
 
@@ -55,14 +55,14 @@
 [/us/usc/t5/s5102/c/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5102%2Fc%2F8
 [/us/pl/89/544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F544
 [/us/stat/80/471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F471
-[/us/pl/92/392/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F392%2Fs1%2Fa
+[/us/pl/92/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F392
 [/us/stat/86/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F572
-[/us/pl/96/70/s3302/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2Fs3302%2Fe%2F1
+[/us/pl/96/70/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2FtIII
 [/us/stat/93/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F498
-[/us/pl/104/201/s3548/a/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs3548%2Fa%2F3%2FC
+[/us/pl/104/201/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdC%2FtXXXV
 [/us/stat/110/2868]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2868
-[/us/pl/104/201/s3548/a/3/C/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs3548%2Fa%2F3%2FC%2Fiii
-[/us/pl/104/201/s3548/a/3/C/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs3548%2Fa%2F3%2FC%2Fi
+[/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
+[/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
 [/us/pl/96/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70
 [/us/pl/92/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F392
 [/us/pl/92/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F392

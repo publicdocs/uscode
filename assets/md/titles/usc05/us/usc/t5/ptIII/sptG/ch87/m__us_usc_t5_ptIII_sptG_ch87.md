@@ -187,17 +187,17 @@
 
  __Amendments__ 
 
-    1994—[Pub. L. 103–409, § 2(b)][/us/pl/103/409/s2/b], Oct. 25, 1994, [108 Stat. 4232][/us/stat/108/4232], added item 8714d.
+    1994—[Pub. L. 103–409][/us/pl/103/409], § 2(b), Oct. 25, 1994, [108 Stat. 4232][/us/stat/108/4232], added item 8714d.
 
-    1988—[Pub. L. 100–238, title I, § 108(a)(2)(B)][/us/pl/100/238/s108/a/2/B], Jan. 8, 1988, [101 Stat. 1747][/us/stat/101/1747], added item 8713.
+    1988—[Pub. L. 100–238, title I][/us/pl/100/238/tI], § 108(a)(2)(B), Jan. 8, 1988, [101 Stat. 1747][/us/stat/101/1747], added item 8713.
 
-    1984—[Pub. L. 98–353, title II, § 208(b)][/us/pl/98/353/s208/b], July 10, 1984, [98 Stat. 351][/us/stat/98/351], inserted “; assignment of ownership” in item 8706.
+    1984—[Pub. L. 98–353, title II][/us/pl/98/353/tII], § 208(b), July 10, 1984, [98 Stat. 351][/us/stat/98/351], inserted “; assignment of ownership” in item 8706.
 
     1980—[Pub. L. 96–427][/us/pl/96/427], §§ 2(e), 7(b), 8(c), and 9(b), Oct. 10, 1980, [94 Stat. 1832][/us/stat/94/1832], 1836, 1837, added items 8714b and 8714c, substituted “Definitions” for “Definition” in item 8701, and struck out item 8713 “Advisory committee”.
 
-    1967—[Pub. L. 90–206, title IV, § 404(2)][/us/pl/90/206/s404/2], Dec. 16, 1967, [81 Stat. 648][/us/stat/81/648], added item 8714a.
+    1967—[Pub. L. 90–206, title IV][/us/pl/90/206/tIV], § 404(2), Dec. 16, 1967, [81 Stat. 648][/us/stat/81/648], added item 8714a.
 
-    [Pub. L. 90–83, § 1(94)][/us/pl/90/83/s1/94], Sept. 11, 1967, [81 Stat. 219][/us/stat/81/219], substituted “Advisory committee” for “Advisors” in item 8713.
+    [Pub. L. 90–83][/us/pl/90/83], § 1(94), Sept. 11, 1967, [81 Stat. 219][/us/stat/81/219], substituted “Advisory committee” for “Advisors” in item 8713.
 
 ----------
 
@@ -206,17 +206,17 @@
 ----------
 ----------
 
-[/us/pl/103/409/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F409%2Fs2%2Fb
+[/us/pl/103/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F409
 [/us/stat/108/4232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4232
-[/us/pl/100/238/s108/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F238%2Fs108%2Fa%2F2%2FB
+[/us/pl/100/238/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F238%2FtI
 [/us/stat/101/1747]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1747
-[/us/pl/98/353/s208/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs208%2Fb
+[/us/pl/98/353/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2FtII
 [/us/stat/98/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F351
 [/us/pl/96/427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F427
 [/us/stat/94/1832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1832
-[/us/pl/90/206/s404/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F206%2Fs404%2F2
+[/us/pl/90/206/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F206%2FtIV
 [/us/stat/81/648]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F648
-[/us/pl/90/83/s1/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83%2Fs1%2F94
+[/us/pl/90/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83
 [/us/stat/81/219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F219
 
 

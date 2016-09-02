@@ -173,7 +173,7 @@
 
     Effective 5 years after the conclusion of the transition period defined under section 1501 of the Homeland Security Act of 2002, all authority to issue regulations under this section (including regulations which would modify, supersede, or terminate any regulations previously issued under this section) shall cease to be available.
 
-(Added [Pub. L. 107–296, title VIII, § 841(a)(2)][/us/pl/107/296/s841/a/2], Nov. 25, 2002, [116 Stat. 2230][/us/stat/116/2230].)
+(Added [Pub. L. 107–296, title VIII][/us/pl/107/296/tVIII], § 841(a)(2), Nov. 25, 2002, [116 Stat. 2230][/us/stat/116/2230].)
 
  __References in Text__ 
 
@@ -187,7 +187,7 @@
 
  __Allowances and Benefits for Personnel Abroad__ 
 
-[Pub. L. 111–83, title V, § 546][/us/pl/111/83/s546], Oct. 28, 2009, [123 Stat. 2177][/us/stat/123/2177], provided that: 
+[Pub. L. 111–83, title V][/us/pl/111/83/tV], § 546, Oct. 28, 2009, [123 Stat. 2177][/us/stat/123/2177], provided that: 
 
 > “For fiscal year 2010 and thereafter, the Secretary \[of Homeland Security\] may provide to personnel appointed or assigned to serve abroad, allowances and benefits similar to those provided under chapter 9 of title I of the Foreign Service Act of 1990 \[1980\] ([22 U.S.C. 4081][/us/usc/t22/s4081] et seq.).”
 
@@ -198,13 +198,13 @@
 ----------
 ----------
 
-[/us/pl/107/296/s841/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs841%2Fa%2F2
+[/us/pl/107/296/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtVIII
 [/us/stat/116/2230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2230
 [/us/usc/t6/s412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs412
 [/us/usc/t6/s541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs541
 [/us/pl/107/296/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs4
 [/us/usc/t6/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs101
-[/us/pl/111/83/s546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F83%2Fs546
+[/us/pl/111/83/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F83%2FtV
 [/us/stat/123/2177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2177
 [/us/usc/t22/s4081]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4081
 

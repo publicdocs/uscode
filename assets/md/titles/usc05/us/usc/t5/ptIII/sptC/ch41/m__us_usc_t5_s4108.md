@@ -35,7 +35,7 @@
 
         The head of the agency concerned, under the regulations prescribed under [section 4118 of this title][/us/usc/t5/s4118], may waive in whole or in part a right of recovery under this subsection, if it is shown that the recovery would be against equity and good conscience or against the public interest.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 435][/us/stat/80/435]; [Pub. L. 98–224, § 5(a)][/us/pl/98/224/s5/a], Mar. 2, 1984, [98 Stat. 48][/us/stat/98/48]; [Pub. L. 103–226, § 2(a)(6)][/us/pl/103/226/s2/a/6], Mar. 30, 1994, [108 Stat. 112][/us/stat/108/112]; [Pub. L. 107–347, title II, § 209(g)(1)(B)][/us/pl/107/347/s209/g/1/B], Dec. 17, 2002, [116 Stat. 2932][/us/stat/116/2932].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 435][/us/stat/80/435]; [Pub. L. 98–224][/us/pl/98/224], § 5(a), Mar. 2, 1984, [98 Stat. 48][/us/stat/98/48]; [Pub. L. 103–226][/us/pl/103/226], § 2(a)(6), Mar. 30, 1994, [108 Stat. 112][/us/stat/108/112]; [Pub. L. 107–347, title II][/us/pl/107/347/tII], § 209(g)(1)(B), Dec. 17, 2002, [116 Stat. 2932][/us/stat/116/2932].)
 
 <table>
 
@@ -120,11 +120,11 @@ July 7, 1958, Pub. L. 85–507, § 11, 72 Stat. 332.  </td>
 [/us/usc/t5/s4118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs4118
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F435
-[/us/pl/98/224/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F224%2Fs5%2Fa
+[/us/pl/98/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F224
 [/us/stat/98/48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F48
-[/us/pl/103/226/s2/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F226%2Fs2%2Fa%2F6
+[/us/pl/103/226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F226
 [/us/stat/108/112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F112
-[/us/pl/107/347/s209/g/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347%2Fs209%2Fg%2F1%2FB
+[/us/pl/107/347/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347%2FtII
 [/us/stat/116/2932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2932
 [/us/pl/107/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347
 [/us/pl/103/226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F226

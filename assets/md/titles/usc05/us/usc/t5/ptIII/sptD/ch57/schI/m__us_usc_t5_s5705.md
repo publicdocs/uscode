@@ -23,7 +23,7 @@
 
     (3) such other method as is provided by law.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 500][/us/stat/80/500]; [Pub. L. 94–22, § 2(b)][/us/pl/94/22/s2/b], May 19, 1975, [89 Stat. 84][/us/stat/89/84].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 500][/us/stat/80/500]; [Pub. L. 94–22][/us/pl/94/22], § 2(b), May 19, 1975, [89 Stat. 84][/us/stat/89/84].)
 
 <table>
 
@@ -88,7 +88,7 @@ June 9, 1949, ch. 185, § 5, 63 Stat. 166.  </td>
 
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F500
-[/us/pl/94/22/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F22%2Fs2%2Fb
+[/us/pl/94/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F22
 [/us/stat/89/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F84
 [/us/pl/94/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F22
 

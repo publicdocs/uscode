@@ -73,7 +73,7 @@
 
             (B) The regulations under this paragraph shall be consistent with those promulgated under paragraph (3).
 
-(Added [Pub. L. 91–656, § 3(a)][/us/pl/91/656/s3/a], Jan. 8, 1971, [84 Stat. 1950][/us/stat/84/1950]; amended [Pub. L. 97–258, § 3(a)(10)][/us/pl/97/258/s3/a/10], Sept. 13, 1982, [96 Stat. 1063][/us/stat/96/1063]; [Pub. L. 101–509, title V, § 529][/us/pl/101/509/s529] \[title I, § 101(a)(1)\], Nov. 5, 1990, [104 Stat. 1427][/us/stat/104/1427], 1438; [Pub. L. 102–77, § 2][/us/pl/102/77/s2], July 26, 1991, [105 Stat. 369][/us/stat/105/369]; [Pub. L. 107–273, div. A, title II, § 207(b)][/us/pl/107/273/s207/b], Nov. 2, 2002, [116 Stat. 1780][/us/stat/116/1780]; [Pub. L. 107–296, title XIII, § 1322][/us/pl/107/296/s1322], Nov. 25, 2002, [116 Stat. 2297][/us/stat/116/2297]; [Pub. L. 110–372, § 3(a)][/us/pl/110/372/s3/a], Oct. 8, 2008, [122 Stat. 4045][/us/stat/122/4045]; [Pub. L. 114–113, div. I, title II, § 210(a)][/us/pl/114/113/s210/a], Dec. 18, 2015, [129 Stat. 2674][/us/stat/129/2674].)
+(Added [Pub. L. 91–656][/us/pl/91/656], § 3(a), Jan. 8, 1971, [84 Stat. 1950][/us/stat/84/1950]; amended [Pub. L. 97–258][/us/pl/97/258], § 3(a)(10), Sept. 13, 1982, [96 Stat. 1063][/us/stat/96/1063]; [Pub. L. 101–509, title V][/us/pl/101/509/tV], § 529 \[title I, § 101(a)(1)\], Nov. 5, 1990, [104 Stat. 1427][/us/stat/104/1427], 1438; [Pub. L. 102–77][/us/pl/102/77], § 2, July 26, 1991, [105 Stat. 369][/us/stat/105/369]; [Pub. L. 107–273, div. A, title II][/us/pl/107/273/dA/tII], § 207(b), Nov. 2, 2002, [116 Stat. 1780][/us/stat/116/1780]; [Pub. L. 107–296, title XIII][/us/pl/107/296/tXIII], § 1322, Nov. 25, 2002, [116 Stat. 2297][/us/stat/116/2297]; [Pub. L. 110–372][/us/pl/110/372], § 3(a), Oct. 8, 2008, [122 Stat. 4045][/us/stat/122/4045]; [Pub. L. 114–113, div. I, title II][/us/pl/114/113/dI/tII], § 210(a), Dec. 18, 2015, [129 Stat. 2674][/us/stat/129/2674].)
 
  __References in Text__ 
 
@@ -83,25 +83,25 @@
 
  __Amendments__ 
 
-    2015—Subsec. (d)(1)(A). [Pub. L. 114–113, § 210(a)(1)][/us/pl/114/113/s210/a/1], substituted “this title, section 332(f), 603, or 604 of title 28, or section 108 of the Legislative Branch Appropriations Act, 1991 ([2 U.S.C. 1849][/us/usc/t2/s1849])” for “this title or section 332(f), 603, or 604 of title 28”.
+    2015—Subsec. (d)(1)(A). [Pub. L. 114–113][/us/pl/114/113], § 210(a)(1), substituted “this title, section 332(f), 603, or 604 of title 28, or section 108 of the Legislative Branch Appropriations Act, 1991 ([2 U.S.C. 1849][/us/usc/t2/s1849])” for “this title or section 332(f), 603, or 604 of title 28”.
 
-    Subsec. (d)(5). [Pub. L. 114–113, § 210(a)(2)][/us/pl/114/113/s210/a/2], added par. (5).
+    Subsec. (d)(5). [Pub. L. 114–113][/us/pl/114/113], § 210(a)(2), added par. (5).
 
-    2008—Subsec. (d)(2). [Pub. L. 110–372, § 3(a)(1)][/us/pl/110/372/s3/a/1], substituted “applying the limitation in the calendar year involved, has a performance appraisal system certified under this subsection as making, in its design and application, meaningful distinctions based on relative performance” for “the calendar year involved, has been certified under this subsection as having a performance appraisal system which (as designed and applied) makes meaningful distinctions based on relative performance”.
+    2008—Subsec. (d)(2). [Pub. L. 110–372][/us/pl/110/372], § 3(a)(1), substituted “applying the limitation in the calendar year involved, has a performance appraisal system certified under this subsection as making, in its design and application, meaningful distinctions based on relative performance” for “the calendar year involved, has been certified under this subsection as having a performance appraisal system which (as designed and applied) makes meaningful distinctions based on relative performance”.
 
-    Subsec. (d)(3)(B). [Pub. L. 110–372, § 3(a)(2)][/us/pl/110/372/s3/a/2], substituted “The certification of an agency performance appraisal system under this subsection shall be for a period not to exceed 24 months beginning on the date of certification, unless extended by the Director of the Office of Personnel Management for up to 6 additional months” for “An agency’s certification under this subsection shall be for a period of 2 calendar years” and struck out “, for purposes of either or both of those years,” after “time”.
+    Subsec. (d)(3)(B). [Pub. L. 110–372][/us/pl/110/372], § 3(a)(2), substituted “The certification of an agency performance appraisal system under this subsection shall be for a period not to exceed 24 months beginning on the date of certification, unless extended by the Director of the Office of Personnel Management for up to 6 additional months” for “An agency’s certification under this subsection shall be for a period of 2 calendar years” and struck out “, for purposes of either or both of those years,” after “time”.
 
-    2002—Subsec. (a)(1). [Pub. L. 107–296, § 1322(b)(1)][/us/pl/107/296/s1322/b/1], inserted “or as otherwise provided under subsection (d),” after “under law,”.
+    2002—Subsec. (a)(1). [Pub. L. 107–296][/us/pl/107/296], § 1322(b)(1), inserted “or as otherwise provided under subsection (d),” after “under law,”.
 
     Subsec. (a)(2)(B). [Pub. L. 107–273][/us/pl/107/273] substituted “5755, or 5757” for “or 5755”.
 
-    Subsec. (c). [Pub. L. 107–296, § 1322(b)(2)][/us/pl/107/296/s1322/b/2], substituted “this section (subject to subsection (d)),” for “this section,”.
+    Subsec. (c). [Pub. L. 107–296][/us/pl/107/296], § 1322(b)(2), substituted “this section (subject to subsection (d)),” for “this section,”.
 
-    Subsec. (d). [Pub. L. 107–296, § 1322(a)][/us/pl/107/296/s1322/a], added subsec. (d).
+    Subsec. (d). [Pub. L. 107–296][/us/pl/107/296], § 1322(a), added subsec. (d).
 
-    1991—Subsec. (a). [Pub. L. 102–77, § 2(1)][/us/pl/102/77/s2/1]–(3), designated existing provisions as par. (1), substituted “cause the” for “cause to the”, and added par. (2).
+    1991—Subsec. (a). [Pub. L. 102–77][/us/pl/102/77], § 2(1)–(3), designated existing provisions as par. (1), substituted “cause the” for “cause to the”, and added par. (2).
 
-    Subsec. (b)(3). [Pub. L. 102–77, § 2(4)][/us/pl/102/77/s2/4], struck out par. (3) which read as follows: “Paragraph (1) shall not apply to an amount if, or to the extent that, it is attributable to a payment the authority for which would derive from section 4505a(d), 5753(e), or 5754(e).”
+    Subsec. (b)(3). [Pub. L. 102–77][/us/pl/102/77], § 2(4), struck out par. (3) which read as follows: “Paragraph (1) shall not apply to an amount if, or to the extent that, it is attributable to a payment the authority for which would derive from section 4505a(d), 5753(e), or 5754(e).”
 
     1990—[Pub. L. 101–509][/us/pl/101/509] amended section generally, substituting provisions prohibiting cash payments to employees in excess of annual rate of basic pay payable for level I of Executive Schedule in a calendar year, for provisions authorizing adjustments in rates of pay, minimum or maximum rates of pay, and monetary limitations or allowances with respect to pay of certain Federal employees.
 
@@ -109,13 +109,13 @@
 
  __Effective Date of 2015 Amendment__ 
 
-[Pub. L. 114–113, div. I, title II, § 210(b)][/us/pl/114/113/s210/b], Dec. 18, 2015, [129 Stat. 2674][/us/stat/129/2674], provided that: 
+[Pub. L. 114–113, div. I, title II][/us/pl/114/113/dI/tII], § 210(b), Dec. 18, 2015, [129 Stat. 2674][/us/stat/129/2674], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[Dec. 18, 2015\].”
 
  __Effective Date of 2008 Amendment__ 
 
-[Pub. L. 110–372, § 3(c)][/us/pl/110/372/s3/c], Oct. 8, 2008, [122 Stat. 4046][/us/stat/122/4046], provided that: 
+[Pub. L. 110–372][/us/pl/110/372], § 3(c), Oct. 8, 2008, [122 Stat. 4046][/us/stat/122/4046], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall take effect on the date of enactment of this Act \[Oct. 8, 2008\].”
 
@@ -123,7 +123,7 @@
 
     Amendment by [Pub. L. 107–296][/us/pl/107/296] effective 60 days after Nov. 25, 2002, see [section 4 of Pub. L. 107–296][/us/pl/107/296/s4], set out as an Effective Date note under [section 101 of Title 6][/us/usc/t6/s101], Domestic Security.
 
-[Pub. L. 107–273, div. A, title II, § 207(c)][/us/pl/107/273/s207/c], Nov. 2, 2002, [116 Stat. 1780][/us/stat/116/1780], provided that: 
+[Pub. L. 107–273, div. A, title II][/us/pl/107/273/dA/tII], § 207(c), Nov. 2, 2002, [116 Stat. 1780][/us/stat/116/1780], provided that: 
 
 > “The amendments made by this section \[enacting [section 5757 of this title][/us/usc/t5/s5757] and amending this section\] shall take effect on the first day of the first applicable pay period beginning on or after 6 months after the date of enactment of this Act \[Nov. 2, 2002\].”
 
@@ -133,7 +133,7 @@
 
  __Extension of Certification__ 
 
-[Pub. L. 110–372, § 3(b)][/us/pl/110/372/s3/b], Oct. 8, 2008, [122 Stat. 4045][/us/stat/122/4045], provided that:
+[Pub. L. 110–372][/us/pl/110/372], § 3(b), Oct. 8, 2008, [122 Stat. 4045][/us/stat/122/4045], provided that:
 
 >     “(1) __Extension to 2009.—__ 
 
@@ -192,52 +192,52 @@
 
 [/us/usc/t3/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs104
 [/us/usc/t2/s1849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1849
-[/us/pl/91/656/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F656%2Fs3%2Fa
+[/us/pl/91/656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F656
 [/us/stat/84/1950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1950
-[/us/pl/97/258/s3/a/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs3%2Fa%2F10
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1063]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1063
-[/us/pl/101/509/s529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2Fs529
+[/us/pl/101/509/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2FtV
 [/us/stat/104/1427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1427
-[/us/pl/102/77/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F77%2Fs2
+[/us/pl/102/77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F77
 [/us/stat/105/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F369
-[/us/pl/107/273/s207/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs207%2Fb
+[/us/pl/107/273/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdA%2FtII
 [/us/stat/116/1780]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1780
-[/us/pl/107/296/s1322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1322
+[/us/pl/107/296/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXIII
 [/us/stat/116/2297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2297
-[/us/pl/110/372/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F372%2Fs3%2Fa
+[/us/pl/110/372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F372
 [/us/stat/122/4045]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4045
-[/us/pl/114/113/s210/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs210%2Fa
+[/us/pl/114/113/dI/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdI%2FtII
 [/us/stat/129/2674]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2674
 [/us/usc/t5/s5312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5312
 [/us/usc/t5/s5757]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5757
 [/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
-[/us/pl/114/113/s210/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs210%2Fa%2F1
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
 [/us/usc/t2/s1849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1849
-[/us/pl/114/113/s210/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs210%2Fa%2F2
-[/us/pl/110/372/s3/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F372%2Fs3%2Fa%2F1
-[/us/pl/110/372/s3/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F372%2Fs3%2Fa%2F2
-[/us/pl/107/296/s1322/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1322%2Fb%2F1
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
+[/us/pl/110/372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F372
+[/us/pl/110/372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F372
+[/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
-[/us/pl/107/296/s1322/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1322%2Fb%2F2
-[/us/pl/107/296/s1322/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1322%2Fa
-[/us/pl/102/77/s2/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F77%2Fs2%2F1
-[/us/pl/102/77/s2/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F77%2Fs2%2F4
+[/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
+[/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
+[/us/pl/102/77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F77
+[/us/pl/102/77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F77
 [/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
-[/us/pl/114/113/s210/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs210%2Fb
+[/us/pl/114/113/dI/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdI%2FtII
 [/us/stat/129/2674]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2674
-[/us/pl/110/372/s3/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F372%2Fs3%2Fc
+[/us/pl/110/372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F372
 [/us/stat/122/4046]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4046
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/pl/107/296/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs4
 [/us/usc/t6/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs101
-[/us/pl/107/273/s207/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs207%2Fc
+[/us/pl/107/273/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdA%2FtII
 [/us/stat/116/1780]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1780
 [/us/usc/t5/s5757]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5757
 [/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509
 [/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509
 [/us/usc/t5/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5301
-[/us/pl/110/372/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F372%2Fs3%2Fb
+[/us/pl/110/372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F372
 [/us/stat/122/4045]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4045
 [/us/usc/t5/s5307/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5307%2Fd
 [/us/usc/t5/s5307/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5307%2Fd

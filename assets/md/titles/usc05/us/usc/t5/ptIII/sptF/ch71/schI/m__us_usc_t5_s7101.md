@@ -35,11 +35,11 @@
 
     (b) It is the purpose of this chapter to prescribe certain rights and obligations of the employees of the Federal Government and to establish procedures which are designed to meet the special requirements and needs of the Government. The provisions of this chapter should be interpreted in a manner consistent with the requirement of an effective and efficient Government.
 
-(Added [Pub. L. 95–454, title VII, § 701][/us/pl/95/454/s701], Oct. 13, 1978, [92 Stat. 1192][/us/stat/92/1192].)
+(Added [Pub. L. 95–454, title VII][/us/pl/95/454/tVII], § 701, Oct. 13, 1978, [92 Stat. 1192][/us/stat/92/1192].)
 
  __Prior Provisions__ 
 
-    A prior section 7101, [Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 523][/us/stat/80/523]; [Pub. L. 91–375, § 6(c)(19)][/us/pl/91/375/s6/c/19], Aug. 12, 1970, [84 Stat. 776][/us/stat/84/776], related to right of postal employees to organize, prior to the general amendment of this chapter by [Pub. L. 94–454][/us/pl/94/454].
+    A prior section 7101, [Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 523][/us/stat/80/523]; [Pub. L. 91–375][/us/pl/91/375], § 6(c)(19), Aug. 12, 1970, [84 Stat. 776][/us/stat/84/776], related to right of postal employees to organize, prior to the general amendment of this chapter by [Pub. L. 94–454][/us/pl/94/454].
 
  __Effective Date__ 
 
@@ -51,7 +51,7 @@
 
  __Employee Surveys__ 
 
-[Pub. L. 108–136, div. A, title XI, § 1128][/us/pl/108/136/s1128], Nov. 24, 2003, [117 Stat. 1641][/us/stat/117/1641], provided that:
+[Pub. L. 108–136, div. A, title XI][/us/pl/108/136/dA/tXI], § 1128, Nov. 24, 2003, [117 Stat. 1641][/us/stat/117/1641], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -564,16 +564,16 @@
 ----------
 ----------
 
-[/us/pl/95/454/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs701
+[/us/pl/95/454/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtVII
 [/us/stat/92/1192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1192
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F523
-[/us/pl/91/375/s6/c/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375%2Fs6%2Fc%2F19
+[/us/pl/91/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375
 [/us/stat/84/776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F776
 [/us/pl/94/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F454
 [/us/pl/95/454/s907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs907
 [/us/usc/t5/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs1101
-[/us/pl/108/136/s1128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1128
+[/us/pl/108/136/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtXI
 [/us/stat/117/1641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1641
 [/us/usc/t5/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs105
 [/us/usc/t5/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs104

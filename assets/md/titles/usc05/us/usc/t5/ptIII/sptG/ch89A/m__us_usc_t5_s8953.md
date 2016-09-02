@@ -63,7 +63,7 @@
 
     (f) Contracts under this chapter shall be for a uniform term of 7 years and may not be renewed automatically.
 
-(Added [Pub. L. 108–496, § 2][/us/pl/108/496/s2], Dec. 23, 2004, [118 Stat. 4002][/us/stat/118/4002]; amended [Pub. L. 111–350, § 5(a)(16)][/us/pl/111/350/s5/a/16], Jan. 4, 2011, [124 Stat. 3842][/us/stat/124/3842].)
+(Added [Pub. L. 108–496][/us/pl/108/496], § 2, Dec. 23, 2004, [118 Stat. 4002][/us/stat/118/4002]; amended [Pub. L. 111–350][/us/pl/111/350], § 5(a)(16), Jan. 4, 2011, [124 Stat. 3842][/us/stat/124/3842].)
 
  __References in Text__ 
 
@@ -80,9 +80,9 @@
 ----------
 ----------
 
-[/us/pl/108/496/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F496%2Fs2
+[/us/pl/108/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F496
 [/us/stat/118/4002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F4002
-[/us/pl/111/350/s5/a/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs5%2Fa%2F16
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3842]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3842
 [/us/pl/95/563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F563
 [/us/stat/92/2383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2383

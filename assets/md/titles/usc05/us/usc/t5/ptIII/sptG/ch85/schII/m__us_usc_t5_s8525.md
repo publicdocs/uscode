@@ -37,7 +37,7 @@
 
         (3) an educational assistance allowance under chapter 35 of title 38.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 591][/us/stat/80/591]; [Pub. L. 90–83, § 1(90)][/us/pl/90/83/s1/90], Sept. 11, 1967, [81 Stat. 219][/us/stat/81/219]; [Pub. L. 114–92, div. A, title V, § 560][/us/pl/114/92/s560], Nov. 25, 2015, [129 Stat. 828][/us/stat/129/828].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 591][/us/stat/80/591]; [Pub. L. 90–83][/us/pl/90/83], § 1(90), Sept. 11, 1967, [81 Stat. 219][/us/stat/81/219]; [Pub. L. 114–92, div. A, title V][/us/pl/114/92/dA/tV], § 560, Nov. 25, 2015, [129 Stat. 828][/us/stat/129/828].)
 
 <table>
 
@@ -107,11 +107,11 @@ Sept. 2, 1958, Pub. L. 85–857, § 13(i)(3), 72 Stat. 1265.  </td>
 
  __Amendments__ 
 
-    2015—Subsec. (a). [Pub. L. 114–92, § 560(b)][/us/pl/114/92/s560/b], added subsec. (a).
+    2015—Subsec. (a). [Pub. L. 114–92][/us/pl/114/92], § 560(b), added subsec. (a).
 
-    Subsec. (b). [Pub. L. 114–92, § 560(a)(1)][/us/pl/114/92/s560/a/1], substituted “the individual receives” for “he receives” in introductory provisions.
+    Subsec. (b). [Pub. L. 114–92][/us/pl/114/92], § 560(a)(1), substituted “the individual receives” for “he receives” in introductory provisions.
 
-    Subsec. (b)(2), (3). [Pub. L. 114–92, § 560(a)(2)][/us/pl/114/92/s560/a/2]–(4), added par. (2) and redesignated former par. (2) as (3).
+    Subsec. (b)(2), (3). [Pub. L. 114–92][/us/pl/114/92], § 560(a)(2)–(4), added par. (2) and redesignated former par. (2) as (3).
 
 ----------
 
@@ -123,9 +123,9 @@ Sept. 2, 1958, Pub. L. 85–857, § 13(i)(3), 72 Stat. 1265.  </td>
 [/us/usc/t38/s3311/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3311%2Fb
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F591
-[/us/pl/90/83/s1/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83%2Fs1%2F90
+[/us/pl/90/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83
 [/us/stat/81/219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F219
-[/us/pl/114/92/s560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs560
+[/us/pl/114/92/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtV
 [/us/stat/129/828]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F828
 [/us/usc/t38/s1632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1632
 [/us/usc/t38/s1632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1632
@@ -136,8 +136,8 @@ Sept. 2, 1958, Pub. L. 85–857, § 13(i)(3), 72 Stat. 1265.  </td>
 [/us/usc/t5/s8525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8525
 [/us/pl/89/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F50
 [/us/stat/79/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F173
-[/us/pl/114/92/s560/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs560%2Fb
-[/us/pl/114/92/s560/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs560%2Fa%2F1
-[/us/pl/114/92/s560/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs560%2Fa%2F2
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
 
 

@@ -17,7 +17,7 @@
 
     Subject to [section 1103(b) of this title][/us/usc/t5/s1103/b], in the exercise of the functions assigned under this chapter, the Director shall be subject to subsections (b), (c), and (d) of [section 553 of this title][/us/usc/t5/s553], notwithstanding subsection (a) of such section 553.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 400][/us/stat/80/400]; [Pub. L. 95–454, title II, § 201(a)][/us/pl/95/454/s201/a], Oct. 13, 1978, [92 Stat. 1121][/us/stat/92/1121].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 400][/us/stat/80/400]; [Pub. L. 95–454, title II][/us/pl/95/454/tII], § 201(a), Oct. 13, 1978, [92 Stat. 1121][/us/stat/92/1121].)
 
 <table>
 
@@ -106,7 +106,7 @@ Jan. 16, 1883, ch. 27, § 3 (less last 24 words of 6th sentence, and less 7th 
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F400
-[/us/pl/95/454/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs201%2Fa
+[/us/pl/95/454/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtII
 [/us/stat/92/1121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1121
 [/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454
 [/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454

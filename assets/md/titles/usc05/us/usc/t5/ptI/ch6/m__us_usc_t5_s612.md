@@ -21,13 +21,13 @@
 
     (c) A court of the United States shall grant the application of the Chief Counsel for Advocacy of the Small Business Administration to appear in any such action for the purposes described in subsection (b).
 
-(Added [Pub. L. 96–354, § 3(a)][/us/pl/96/354/s3/a], Sept. 19, 1980, [94 Stat. 1170][/us/stat/94/1170]; amended [Pub. L. 104–121, title II, § 243(b)][/us/pl/104/121/s243/b], Mar. 29, 1996, [110 Stat. 866][/us/stat/110/866].)
+(Added [Pub. L. 96–354][/us/pl/96/354], § 3(a), Sept. 19, 1980, [94 Stat. 1170][/us/stat/94/1170]; amended [Pub. L. 104–121, title II][/us/pl/104/121/tII], § 243(b), Mar. 29, 1996, [110 Stat. 866][/us/stat/110/866].)
 
  __Amendments__ 
 
-    1996—Subsec. (a). [Pub. L. 104–121, § 243(b)(1)][/us/pl/104/121/s243/b/1], which directed substitution of “the Committees on the Judiciary and Small Business of the Senate and House of Representatives” for “the committees on the Judiciary of the Senate and the House of Representatives, the Select Committee on Small Business of the Senate, and the Committee on Small Business of the House of Representatives”, was executed by making the substitution for “the Committees on the Judiciary of the Senate and House of Representatives, the Select Committee on Small Business of the Senate, and the Committee on Small Business of the House of Representatives” to reflect the probable intent of Congress.
+    1996—Subsec. (a). [Pub. L. 104–121][/us/pl/104/121], § 243(b)(1), which directed substitution of “the Committees on the Judiciary and Small Business of the Senate and House of Representatives” for “the committees on the Judiciary of the Senate and the House of Representatives, the Select Committee on Small Business of the Senate, and the Committee on Small Business of the House of Representatives”, was executed by making the substitution for “the Committees on the Judiciary of the Senate and House of Representatives, the Select Committee on Small Business of the Senate, and the Committee on Small Business of the House of Representatives” to reflect the probable intent of Congress.
 
-    Subsec. (b). [Pub. L. 104–121, § 243(b)(2)][/us/pl/104/121/s243/b/2], substituted “his or her views with respect to compliance with this chapter, the adequacy of the rulemaking record with respect to small entities and the” for “his views with respect to the”.
+    Subsec. (b). [Pub. L. 104–121][/us/pl/104/121], § 243(b)(2), substituted “his or her views with respect to compliance with this chapter, the adequacy of the rulemaking record with respect to small entities and the” for “his views with respect to the”.
 
  __Change of Name__ 
 
@@ -48,12 +48,12 @@
 ----------
 ----------
 
-[/us/pl/96/354/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F354%2Fs3%2Fa
+[/us/pl/96/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F354
 [/us/stat/94/1170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1170
-[/us/pl/104/121/s243/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F121%2Fs243%2Fb
+[/us/pl/104/121/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F121%2FtII
 [/us/stat/110/866]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F866
-[/us/pl/104/121/s243/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F121%2Fs243%2Fb%2F1
-[/us/pl/104/121/s243/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F121%2Fs243%2Fb%2F2
+[/us/pl/104/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F121
+[/us/pl/104/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F121
 [/us/pl/104/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F121
 [/us/pl/104/121/s245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F121%2Fs245
 [/us/usc/t5/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs601

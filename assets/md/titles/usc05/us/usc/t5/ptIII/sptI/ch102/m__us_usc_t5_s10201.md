@@ -23,7 +23,7 @@
 
     (3) the term “United States Secret Service Uniformed Division” has the meaning given that term under [section 3056A of title 18][/us/usc/t18/s3056A].
 
-(Added [Pub. L. 111–282, § 2(a)][/us/pl/111/282/s2/a], Oct. 15, 2010, [124 Stat. 3033][/us/stat/124/3033].)
+(Added [Pub. L. 111–282][/us/pl/111/282], § 2(a), Oct. 15, 2010, [124 Stat. 3033][/us/stat/124/3033].)
 
  __Effective Date__ 
 
@@ -31,13 +31,13 @@
 
  __Purpose__ 
 
-[Pub. L. 111–282, § 1(b)][/us/pl/111/282/s1/b], Oct. 15, 2010, [124 Stat. 3033][/us/stat/124/3033], provided that: 
+[Pub. L. 111–282][/us/pl/111/282], § 1(b), Oct. 15, 2010, [124 Stat. 3033][/us/stat/124/3033], provided that: 
 
 > “The purpose of this Act \[see Short Title of 2010 Amendment note set out under [section 101 of this title][/us/usc/t5/s101]\] is to transfer statutory entitlements to pay and hours of work authorized by laws codified in the District of Columbia Official Code for current members of the United States Secret Service Uniformed Division from such laws to the United States Code.”
 
  __Miscellaneous Provisions__ 
 
-[Pub. L. 111–282, § 3][/us/pl/111/282/s3], Oct. 15, 2010, [124 Stat. 3038][/us/stat/124/3038], provided that:
+[Pub. L. 111–282][/us/pl/111/282], § 3, Oct. 15, 2010, [124 Stat. 3038][/us/stat/124/3038], provided that:
 
 >     “(a) __Conversion to New Salary Schedule.—__ 
 
@@ -309,7 +309,7 @@
 
  __Inapplicability of District of Columbia Official Code Provisions__ 
 
-[Pub. L. 111–282, § 4(a)][/us/pl/111/282/s4/a], Oct. 15, 2010, [124 Stat. 3041][/us/stat/124/3041], provided that: 
+[Pub. L. 111–282][/us/pl/111/282], § 4(a), Oct. 15, 2010, [124 Stat. 3041][/us/stat/124/3041], provided that: 
 
 > “To the extent that any provision of any law codified in the District of Columbia Official Code that authorizes an entitlement to pay or hours of work for current members of the United States Secret Service Uniformed Division is not expressly revoked by this Act \[see Short Title of 2010 Amendment note set out under [section 101 of this title][/us/usc/t5/s101]\], such provision shall not apply to such members after the effective date of this Act \[see Effective Date of 2010 Amendment note set out under [section 5102 of this title][/us/usc/t5/s5102]\].”
 
@@ -322,20 +322,20 @@
 
 [/us/usc/t18/s3056A/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3056A%2Fb
 [/us/usc/t18/s3056A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3056A
-[/us/pl/111/282/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F282%2Fs2%2Fa
+[/us/pl/111/282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F282
 [/us/stat/124/3033]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3033
 [/us/pl/111/282/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F282%2Fs5
 [/us/usc/t5/s5102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5102
-[/us/pl/111/282/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F282%2Fs1%2Fb
+[/us/pl/111/282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F282
 [/us/stat/124/3033]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3033
 [/us/usc/t5/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs101
-[/us/pl/111/282/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F282%2Fs3
+[/us/pl/111/282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F282
 [/us/stat/124/3038]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3038
 [/us/usc/t5/s10201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs10201
 [/us/usc/t5/s10207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs10207
 [/us/usc/t5/s5303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5303
 [/us/usc/t5/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs101
-[/us/pl/111/282/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F282%2Fs4%2Fa
+[/us/pl/111/282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F282
 [/us/stat/124/3041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3041
 [/us/usc/t5/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs101
 [/us/usc/t5/s5102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5102

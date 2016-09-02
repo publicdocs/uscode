@@ -37,7 +37,7 @@
 
     (d) The Office of Personnel Management shall provide the head of an excepted agency with such advice and assistance as the head of such agency may request in order to carry out the purposes of this section.
 
-(Added [Pub. L. 100–566, § 2(a)][/us/pl/100/566/s2/a], Oct. 31, 1988, [102 Stat. 2843][/us/stat/102/2843]; amended [Pub. L. 112–87, title IV, § 432][/us/pl/112/87/s432], Jan. 3, 2012, [125 Stat. 1894][/us/stat/125/1894].)
+(Added [Pub. L. 100–566][/us/pl/100/566], § 2(a), Oct. 31, 1988, [102 Stat. 2843][/us/stat/102/2843]; amended [Pub. L. 112–87, title IV][/us/pl/112/87/tIV], § 432, Jan. 3, 2012, [125 Stat. 1894][/us/stat/125/1894].)
 
  __Amendments__ 
 
@@ -52,9 +52,9 @@
 
 [/us/usc/t5/s6339/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs6339%2Fa%2F1
 [/us/usc/t5/s6339/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs6339%2Fa%2F2
-[/us/pl/100/566/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F566%2Fs2%2Fa
+[/us/pl/100/566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F566
 [/us/stat/102/2843]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2843
-[/us/pl/112/87/s432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F87%2Fs432
+[/us/pl/112/87/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F87%2FtIV
 [/us/stat/125/1894]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1894
 [/us/pl/112/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F87
 

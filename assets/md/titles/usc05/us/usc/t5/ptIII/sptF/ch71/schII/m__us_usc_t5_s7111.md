@@ -77,7 +77,7 @@
 
     (g) Nothing in this section shall be construed to prohibit the waiving of hearings by stipulation for the purpose of a consent election in conformity with regulations and rules or decisions of the Authority.
 
-(Added [Pub. L. 95–454, title VII, § 701][/us/pl/95/454/s701], Oct. 13, 1978, [92 Stat. 1199][/us/stat/92/1199].)
+(Added [Pub. L. 95–454, title VII][/us/pl/95/454/tVII], § 701, Oct. 13, 1978, [92 Stat. 1199][/us/stat/92/1199].)
 
 ----------
 
@@ -86,7 +86,7 @@
 ----------
 ----------
 
-[/us/pl/95/454/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs701
+[/us/pl/95/454/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtVII
 [/us/stat/92/1199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1199
 
 

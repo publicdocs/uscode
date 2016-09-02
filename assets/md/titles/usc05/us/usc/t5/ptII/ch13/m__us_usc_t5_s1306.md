@@ -17,7 +17,7 @@
 
     The Director of the Office of Personnel Management and authorized representatives of the Director may administer oaths to witnesses in matters pending before the Office.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 402][/us/stat/80/402]; [Pub. L. 95–454, title IX, § 906(a)(13)][/us/pl/95/454/s906/a/13], Oct. 13, 1978, [92 Stat. 1226][/us/stat/92/1226].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 402][/us/stat/80/402]; [Pub. L. 95–454, title IX][/us/pl/95/454/tIX], § 906(a)(13), Oct. 13, 1978, [92 Stat. 1226][/us/stat/92/1226].)
 
 <table>
 
@@ -102,7 +102,7 @@ Aug. 23, 1912, ch. 350, § 1 (last par. under “Civil Service Commission”),
 
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F402
-[/us/pl/95/454/s906/a/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs906%2Fa%2F13
+[/us/pl/95/454/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtIX
 [/us/stat/92/1226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1226
 [/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454
 [/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454

@@ -39,7 +39,7 @@
 
     (b) The 90-day period under subsection (a)(1)(A) and the 30-day period under subsection (a)(1)(B) may each be extended for not more than 60 additional days if the head of the agency concerned or his designee determines that there are compelling reasons beyond the control of the employee for the continued occupancy of temporary quarters.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 511][/us/stat/80/511]; [Pub. L. 97–258, § 3(a)(15)][/us/pl/97/258/s3/a/15], Sept. 13, 1982, [96 Stat. 1063][/us/stat/96/1063]; [Pub. L. 102–138, title I, § 147(d)][/us/pl/102/138/s147/d], Oct. 28, 1991, [105 Stat. 669][/us/stat/105/669].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 511][/us/stat/80/511]; [Pub. L. 97–258][/us/pl/97/258], § 3(a)(15), Sept. 13, 1982, [96 Stat. 1063][/us/stat/96/1063]; [Pub. L. 102–138, title I][/us/pl/102/138/tI], § 147(d), Oct. 28, 1991, [105 Stat. 669][/us/stat/105/669].)
 
 <table>
 
@@ -104,9 +104,9 @@ Sept. 6, 1960, Pub. L. 86–707, § 211, 74 Stat. 793.  </td>
 
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F511
-[/us/pl/97/258/s3/a/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs3%2Fa%2F15
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1063]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1063
-[/us/pl/102/138/s147/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138%2Fs147%2Fd
+[/us/pl/102/138/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138%2FtI
 [/us/stat/105/669]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F669
 [/us/pl/102/138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258

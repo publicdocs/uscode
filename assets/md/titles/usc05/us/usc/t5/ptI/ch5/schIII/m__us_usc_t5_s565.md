@@ -33,7 +33,7 @@
 
     The agency shall provide appropriate administrative support to the negotiated rulemaking committee, including technical assistance.
 
-(Added [Pub. L. 101–648, § 3(a)][/us/pl/101/648/s3/a], Nov. 29, 1990, [104 Stat. 4972][/us/stat/104/4972], § 585; renumbered § 565 and amended [Pub. L. 102–354, § 3(a)(2)][/us/pl/102/354/s3/a/2], (3), Aug. 26, 1992, [106 Stat. 944][/us/stat/106/944].)
+(Added [Pub. L. 101–648][/us/pl/101/648], § 3(a), Nov. 29, 1990, [104 Stat. 4972][/us/stat/104/4972], § 585; renumbered § 565 and amended [Pub. L. 102–354][/us/pl/102/354], § 3(a)(2), (3), Aug. 26, 1992, [106 Stat. 944][/us/stat/106/944].)
 
  __References in Text__ 
 
@@ -41,9 +41,9 @@
 
  __Amendments__ 
 
-    1992—[Pub. L. 102–354, § 3(a)(2)][/us/pl/102/354/s3/a/2], renumbered [section 585 of this title][/us/usc/t5/s585] as this section.
+    1992—[Pub. L. 102–354][/us/pl/102/354], § 3(a)(2), renumbered [section 585 of this title][/us/usc/t5/s585] as this section.
 
-    Subsec. (a)(1). [Pub. L. 102–354, § 3(a)(3)][/us/pl/102/354/s3/a/3], substituted “section 564” for “section 584”.
+    Subsec. (a)(1). [Pub. L. 102–354][/us/pl/102/354], § 3(a)(3), substituted “section 564” for “section 584”.
 
 ----------
 
@@ -52,14 +52,14 @@
 ----------
 ----------
 
-[/us/pl/101/648/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F648%2Fs3%2Fa
+[/us/pl/101/648]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F648
 [/us/stat/104/4972]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4972
-[/us/pl/102/354/s3/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F354%2Fs3%2Fa%2F2
+[/us/pl/102/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F354
 [/us/stat/106/944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F944
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770
-[/us/pl/102/354/s3/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F354%2Fs3%2Fa%2F2
+[/us/pl/102/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F354
 [/us/usc/t5/s585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs585
-[/us/pl/102/354/s3/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F354%2Fs3%2Fa%2F3
+[/us/pl/102/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F354
 
 

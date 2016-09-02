@@ -21,7 +21,7 @@
 
     (c) Nothing in this chapter shall be construed to prohibit the availability of dental benefits provided by health benefits plans under chapter 89.
 
-(Added [Pub. L. 108–496, § 2][/us/pl/108/496/s2], Dec. 23, 2004, [118 Stat. 4002][/us/stat/118/4002].)
+(Added [Pub. L. 108–496][/us/pl/108/496], § 2, Dec. 23, 2004, [118 Stat. 4002][/us/stat/118/4002].)
 
 ----------
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/108/496/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F496%2Fs2
+[/us/pl/108/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F496
 [/us/stat/118/4002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F4002
 
 

@@ -57,7 +57,7 @@
 
         (4) to the greatest extent practicable, facilitate the use of online degree training.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 435][/us/stat/80/435]; [Pub. L. 101–510, div. A, title XII, § 1206(a)][/us/pl/101/510/s1206/a], Nov. 5, 1990, [104 Stat. 1659][/us/stat/104/1659]; [Pub. L. 103–226, § 2(a)(5)][/us/pl/103/226/s2/a/5], Mar. 30, 1994, [108 Stat. 112][/us/stat/108/112]; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title XI, § 1121\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–315; [Pub. L. 107–296, title XIII, § 1331(a)][/us/pl/107/296/s1331/a], Nov. 25, 2002, [116 Stat. 2298][/us/stat/116/2298].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 435][/us/stat/80/435]; [Pub. L. 101–510, div. A, title XII][/us/pl/101/510/dA/tXII], § 1206(a), Nov. 5, 1990, [104 Stat. 1659][/us/stat/104/1659]; [Pub. L. 103–226][/us/pl/103/226], § 2(a)(5), Mar. 30, 1994, [108 Stat. 112][/us/stat/108/112]; [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title XI, § 1121\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–315; [Pub. L. 107–296, title XIII][/us/pl/107/296/tXIII], § 1331(a), Nov. 25, 2002, [116 Stat. 2298][/us/stat/116/2298].)
 
 <table>
 
@@ -149,31 +149,31 @@ July 7, 1958, Pub. L. 85–507, § 13, 72 Stat. 334.  </td>
 
     2002—[Pub. L. 107–296][/us/pl/107/296] amended section catchline and text generally, substituting provisions authorizing selection and assignment of employees for academic degree training and payment or reimbursement of costs, for provisions relating to restrictions on degree training or the payment or reimbursement of the costs of training and provisions setting forth exceptions and special rules with respect to employees of the Department of Defense.
 
-    2000—Subsec. (a). [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title XI, § 1121(1)\], substituted “subsections (b) and (c)” for “subsection (b)” in introductory provisions.
+    2000—Subsec. (a). [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title XI, § 1121(1)\], substituted “subsections (b) and (c)” for “subsection (b)” in introductory provisions.
 
-    Subsec. (b)(1). [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title XI, § 1121(2)\], substituted “subsection (a) or (c)” for “subsection (a)”.
+    Subsec. (b)(1). [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title XI, § 1121(2)\], substituted “subsection (a) or (c)” for “subsection (a)”.
 
-    Subsec. (c). [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title XI, § 1121(3)\], added subsec. (c).
+    Subsec. (c). [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title XI, § 1121(3)\], added subsec. (c).
 
-    1994—[Pub. L. 103–226, § 2(a)(5)(A)][/us/pl/103/226/s2/a/5/A], substituted “Restriction on degree training” for “Non-Government facilities; restrictions” in section catchline.
+    1994—[Pub. L. 103–226][/us/pl/103/226], § 2(a)(5)(A), substituted “Restriction on degree training” for “Non-Government facilities; restrictions” in section catchline.
 
-    Subsec. (a). [Pub. L. 103–226, § 2(a)(5)(B)][/us/pl/103/226/s2/a/5/B], (C), redesignated subsec. (c) as (a), in introductory provisions substituted “subsection (b)” for “subsection (d)” and struck out “by, in, or through a non-Government facility” after “employee for training”, and struck out former subsec. (a) which read as follows: “Appropriations or other funds available to an agency are not available for payment for training an employee—
+    Subsec. (a). [Pub. L. 103–226][/us/pl/103/226], § 2(a)(5)(B), (C), redesignated subsec. (c) as (a), in introductory provisions substituted “subsection (b)” for “subsection (d)” and struck out “by, in, or through a non-Government facility” after “employee for training”, and struck out former subsec. (a) which read as follows: “Appropriations or other funds available to an agency are not available for payment for training an employee—
 
     “(1) by, in or through a non-Government facility which teaches or advocates the overthrow of the Government of the United States by force or violence; or
 
     “(2) by or through an individual concerning whom determination has been made by a proper Government administrative or investigatory authority that, on the basis of information or evidence developed in investigations and procedures authorized by law or Executive order, there exists a reasonable doubt of his loyalty to the United States.”
 
-    Subsec. (b). [Pub. L. 103–226, § 2(a)(5)(B)][/us/pl/103/226/s2/a/5/B], (D), redesignated subsec. (d) as (b), substituted “subsection (a)” for “subsection (c)” in par. (1), and struck out former subsec. (b) which read as follows: “This chapter does not authorize training an employee by, in, or through a non-Government facility a substantial part of the activities of which is—
+    Subsec. (b). [Pub. L. 103–226][/us/pl/103/226], § 2(a)(5)(B), (D), redesignated subsec. (d) as (b), substituted “subsection (a)” for “subsection (c)” in par. (1), and struck out former subsec. (b) which read as follows: “This chapter does not authorize training an employee by, in, or through a non-Government facility a substantial part of the activities of which is—
 
     “(1) carrying on propaganda, or otherwise attempting, to influence legislation; or
 
     “(2) participating or intervening, including publishing or distributing statements, in a political campaign on behalf of a candidate for public office.”
 
-    Subsecs. (c), (d). [Pub. L. 103–226, § 2(a)(5)(B)][/us/pl/103/226/s2/a/5/B], redesignated subsecs. (c) and (d) as (a) and (b), respectively.
+    Subsecs. (c), (d). [Pub. L. 103–226][/us/pl/103/226], § 2(a)(5)(B), redesignated subsecs. (c) and (d) as (a) and (b), respectively.
 
-    1990—Subsec. (c). [Pub. L. 101–510, § 1206(a)(1)][/us/pl/101/510/s1206/a/1], substituted “Except as provided in subsection (d) of this section, this” for “This” in introductory provisions.
+    1990—Subsec. (c). [Pub. L. 101–510][/us/pl/101/510], § 1206(a)(1), substituted “Except as provided in subsection (d) of this section, this” for “This” in introductory provisions.
 
-    Subsec. (d). [Pub. L. 101–510, § 1206(a)(2)][/us/pl/101/510/s1206/a/2], added subsec. (d).
+    Subsec. (d). [Pub. L. 101–510][/us/pl/101/510], § 1206(a)(2), added subsec. (d).
 
  __Effective Date of 2002 Amendment__ 
 
@@ -188,24 +188,24 @@ July 7, 1958, Pub. L. 85–507, § 13, 72 Stat. 334.  </td>
 
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F435
-[/us/pl/101/510/s1206/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1206%2Fa
+[/us/pl/101/510/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtXII
 [/us/stat/104/1659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1659
-[/us/pl/103/226/s2/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F226%2Fs2%2Fa%2F5
+[/us/pl/103/226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F226
 [/us/stat/108/112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F112
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/107/296/s1331/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1331%2Fa
+[/us/pl/107/296/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXIII
 [/us/stat/116/2298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2298
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
-[/us/pl/103/226/s2/a/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F226%2Fs2%2Fa%2F5%2FA
-[/us/pl/103/226/s2/a/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F226%2Fs2%2Fa%2F5%2FB
-[/us/pl/103/226/s2/a/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F226%2Fs2%2Fa%2F5%2FB
-[/us/pl/103/226/s2/a/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F226%2Fs2%2Fa%2F5%2FB
-[/us/pl/101/510/s1206/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1206%2Fa%2F1
-[/us/pl/101/510/s1206/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1206%2Fa%2F2
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
+[/us/pl/103/226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F226
+[/us/pl/103/226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F226
+[/us/pl/103/226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F226
+[/us/pl/103/226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F226
+[/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
+[/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/pl/107/296/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs4
 [/us/usc/t6/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs101

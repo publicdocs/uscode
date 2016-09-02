@@ -29,7 +29,7 @@
 
     (c) The President shall provide for the enforcement of this section in a manner consistent with applicable provisions of sections 1214 and 1221 of this title.
 
-(Added [Pub. L. 95–454, title I, § 101(a)][/us/pl/95/454/s101/a], Oct. 13, 1978, [92 Stat. 1117][/us/stat/92/1117]; amended [Pub. L. 101–12, § 9(a)(1)][/us/pl/101/12/s9/a/1], Apr. 10, 1989, [103 Stat. 34][/us/stat/103/34].)
+(Added [Pub. L. 95–454, title I][/us/pl/95/454/tI], § 101(a), Oct. 13, 1978, [92 Stat. 1117][/us/stat/92/1117]; amended [Pub. L. 101–12][/us/pl/101/12], § 9(a)(1), Apr. 10, 1989, [103 Stat. 34][/us/stat/103/34].)
 
  __Amendments__ 
 
@@ -61,9 +61,9 @@
 ----------
 
 [/us/usc/t5/s2302/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs2302%2Fa%2F2%2FA
-[/us/pl/95/454/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs101%2Fa
+[/us/pl/95/454/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtI
 [/us/stat/92/1117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1117
-[/us/pl/101/12/s9/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F12%2Fs9%2Fa%2F1
+[/us/pl/101/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F12
 [/us/stat/103/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F34
 [/us/pl/101/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F12
 [/us/pl/101/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F12

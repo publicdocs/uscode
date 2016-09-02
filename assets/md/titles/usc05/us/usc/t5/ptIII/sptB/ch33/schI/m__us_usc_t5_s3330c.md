@@ -19,7 +19,7 @@
 
     (b) A preference eligible who prevails in an action under section 3330a or 3330b shall be awarded reasonable attorney fees, expert witness fees, and other litigation expenses.
 
-(Added [Pub. L. 105–339, § 3(a)][/us/pl/105/339/s3/a], Oct. 31, 1998, [112 Stat. 3184][/us/stat/112/3184].)
+(Added [Pub. L. 105–339][/us/pl/105/339], § 3(a), Oct. 31, 1998, [112 Stat. 3184][/us/stat/112/3184].)
 
 ----------
 
@@ -28,7 +28,7 @@
 ----------
 ----------
 
-[/us/pl/105/339/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F339%2Fs3%2Fa
+[/us/pl/105/339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F339
 [/us/stat/112/3184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3184
 
 

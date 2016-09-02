@@ -17,7 +17,7 @@
 
     Members of the FBI–DEA Senior Executive Service shall be subject to the limitation under section 5307.
 
-(Added [Pub. L. 100–325, § 1(a)][/us/pl/100/325/s1/a], May 30, 1988, [102 Stat. 581][/us/stat/102/581]; amended [Pub. L. 102–378, § 2(9)][/us/pl/102/378/s2/9], Oct. 2, 1992, [106 Stat. 1347][/us/stat/106/1347].)
+(Added [Pub. L. 100–325][/us/pl/100/325], § 1(a), May 30, 1988, [102 Stat. 581][/us/stat/102/581]; amended [Pub. L. 102–378][/us/pl/102/378], § 2(9), Oct. 2, 1992, [106 Stat. 1347][/us/stat/106/1347].)
 
  __Amendments__ 
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/pl/100/325/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F325%2Fs1%2Fa
+[/us/pl/100/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F325
 [/us/stat/102/581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F581
-[/us/pl/102/378/s2/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378%2Fs2%2F9
+[/us/pl/102/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378
 [/us/stat/106/1347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1347
 [/us/pl/102/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378
 

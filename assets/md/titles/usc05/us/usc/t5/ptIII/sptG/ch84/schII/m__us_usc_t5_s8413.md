@@ -31,7 +31,7 @@
 
         (3) The election of an annuity under this subsection extinguishes the right of the employee or Member to receive any other annuity based on the service on which the annuity under this subsection is based.
 
-(Added [Pub. L. 99–335, title I, § 101(a)][/us/pl/99/335/s101/a], June 6, 1986, [100 Stat. 525][/us/stat/100/525]; amended [Pub. L. 99–556, title I, § 105(b)(1)][/us/pl/99/556/s105/b/1], Oct. 27, 1986, [100 Stat. 3132][/us/stat/100/3132].)
+(Added [Pub. L. 99–335, title I][/us/pl/99/335/tI], § 101(a), June 6, 1986, [100 Stat. 525][/us/stat/100/525]; amended [Pub. L. 99–556, title I][/us/pl/99/556/tI], § 105(b)(1), Oct. 27, 1986, [100 Stat. 3132][/us/stat/100/3132].)
 
  __Amendments__ 
 
@@ -44,9 +44,9 @@
 ----------
 ----------
 
-[/us/pl/99/335/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2Fs101%2Fa
+[/us/pl/99/335/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2FtI
 [/us/stat/100/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F525
-[/us/pl/99/556/s105/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F556%2Fs105%2Fb%2F1
+[/us/pl/99/556/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F556%2FtI
 [/us/stat/100/3132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3132
 [/us/pl/99/556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F556
 

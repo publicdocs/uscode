@@ -17,7 +17,7 @@
 
     An individual concerned in examining an applicant for or appointing him in the competitive service may not receive or consider a recommendation of the applicant by a Senator or Representative, except as to the character or residence of the applicant.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 418][/us/stat/80/418]; [Pub. L. 103–94, § 8(a)][/us/pl/103/94/s8/a], Oct. 6, 1993, [107 Stat. 1006][/us/stat/107/1006]; [Pub. L. 104–197, title III, § 315(a)][/us/pl/104/197/s315/a], Sept. 16, 1996, [110 Stat. 2416][/us/stat/110/2416].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 418][/us/stat/80/418]; [Pub. L. 103–94][/us/pl/103/94], § 8(a), Oct. 6, 1993, [107 Stat. 1006][/us/stat/107/1006]; [Pub. L. 104–197, title III][/us/pl/104/197/tIII], § 315(a), Sept. 16, 1996, [110 Stat. 2416][/us/stat/110/2416].)
 
 <table>
 
@@ -92,9 +92,9 @@ Jan. 16, 1883, ch. 27, § 10, 22 Stat. 406.  </td>
 
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F418
-[/us/pl/103/94/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F94%2Fs8%2Fa
+[/us/pl/103/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F94
 [/us/stat/107/1006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1006
-[/us/pl/104/197/s315/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F197%2Fs315%2Fa
+[/us/pl/104/197/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F197%2FtIII
 [/us/stat/110/2416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2416
 [/us/pl/104/197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F197
 [/us/pl/103/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F94

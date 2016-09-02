@@ -67,7 +67,7 @@ May 13, 1884, ch. 46, §§ 2, 3, 23 Stat. 22.  </td>
 
 </table>
 
-    All but the quoted language in R.S. § 1757 is omitted as obsolete since R.S. § 1757 was originally an alternative oath to the oath prescribed in R.S. § 1756 which oath was repealed by the [Act of May 13, 1884, ch. 46, § 2][/us/act/1884-05-13/ch46/s2], [23 Stat. 22][/us/stat/23/22]. The words “An individual, except the President, . . . in the civil service or uniformed services” are substituted for “any person . . . either in the civil, military, or naval service, except the President of the United States”. The second sentence of former section 16 is changed to read, “This section does not affect other oaths required by law.”.
+    All but the quoted language in R.S. § 1757 is omitted as obsolete since R.S. § 1757 was originally an alternative oath to the oath prescribed in R.S. § 1756 which oath was repealed by the [Act of May 13, 1884, ch. 46][/us/act/1884-05-13/ch46], § 2, [23 Stat. 22][/us/stat/23/22]. The words “An individual, except the President, . . . in the civil service or uniformed services” are substituted for “any person . . . either in the civil, military, or naval service, except the President of the United States”. The second sentence of former section 16 is changed to read, “This section does not affect other oaths required by law.”.
 
     Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
@@ -80,7 +80,7 @@ May 13, 1884, ch. 46, §§ 2, 3, 23 Stat. 22.  </td>
 
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F424
-[/us/act/1884-05-13/ch46/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1884-05-13%2Fch46%2Fs2
+[/us/act/1884-05-13/ch46]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1884-05-13%2Fch46
 [/us/stat/23/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F23%2F22
 
 

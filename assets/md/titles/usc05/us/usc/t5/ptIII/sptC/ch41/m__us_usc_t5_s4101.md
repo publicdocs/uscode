@@ -63,7 +63,7 @@
 
         (F) the services and property of any of the foregoing furnishing the training.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 432][/us/stat/80/432]; [Pub. L. 90–206, title II, § 224(a)][/us/pl/90/206/s224/a], Dec. 16, 1967, [81 Stat. 642][/us/stat/81/642]; [Pub. L. 97–258, § 3(a)(8)][/us/pl/97/258/s3/a/8], Sept. 13, 1982, [96 Stat. 1063][/us/stat/96/1063]; [Pub. L. 103–226, § 2(a)(1)][/us/pl/103/226/s2/a/1], Mar. 30, 1994, [108 Stat. 111][/us/stat/108/111]; [Pub. L. 113–235, div. H, title I, § 1301(b)][/us/pl/113/235/s1301/b], Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 432][/us/stat/80/432]; [Pub. L. 90–206, title II][/us/pl/90/206/tII], § 224(a), Dec. 16, 1967, [81 Stat. 642][/us/stat/81/642]; [Pub. L. 97–258][/us/pl/97/258], § 3(a)(8), Sept. 13, 1982, [96 Stat. 1063][/us/stat/96/1063]; [Pub. L. 103–226][/us/pl/103/226], § 2(a)(1), Mar. 30, 1994, [108 Stat. 111][/us/stat/108/111]; [Pub. L. 113–235, div. H, title I][/us/pl/113/235/dH/tI], § 1301(b), Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537].)
 
 <table>
 
@@ -158,13 +158,13 @@ July 7, 1958, Pub. L. 85–507, § 3, 72 Stat. 328.  </td>
 [/us/usc/t5/s4102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs4102
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F432
-[/us/pl/90/206/s224/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F206%2Fs224%2Fa
+[/us/pl/90/206/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F206%2FtII
 [/us/stat/81/642]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F642
-[/us/pl/97/258/s3/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs3%2Fa%2F8
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1063]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1063
-[/us/pl/103/226/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F226%2Fs2%2Fa%2F1
+[/us/pl/103/226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F226
 [/us/stat/108/111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F111
-[/us/pl/113/235/s1301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fb
+[/us/pl/113/235/dH/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2FdH%2FtI
 [/us/stat/128/2537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2537
 [/us/pl/103/226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F226
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258

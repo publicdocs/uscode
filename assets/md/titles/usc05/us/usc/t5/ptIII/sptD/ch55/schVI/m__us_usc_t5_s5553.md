@@ -17,7 +17,7 @@
 
     The Office of Personnel Management may prescribe regulations necessary for the administration of this subchapter.
 
-(Added [Pub. L. 102–378, § 2(45)(A)][/us/pl/102/378/s2/45/A], Oct. 2, 1992, [106 Stat. 1353][/us/stat/106/1353].)
+(Added [Pub. L. 102–378][/us/pl/102/378], § 2(45)(A), Oct. 2, 1992, [106 Stat. 1353][/us/stat/106/1353].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/102/378/s2/45/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378%2Fs2%2F45%2FA
+[/us/pl/102/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378
 [/us/stat/106/1353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1353
 
 

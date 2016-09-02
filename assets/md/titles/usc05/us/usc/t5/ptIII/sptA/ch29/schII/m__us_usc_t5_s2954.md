@@ -17,7 +17,7 @@
 
     An Executive agency, on request of the Committee on Government Operations of the House of Representatives, or of any seven members thereof, or on request of the Committee on Governmental Affairs of the Senate, or any five members thereof, shall submit any information requested of it relating to any matter within the jurisdiction of the committee.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 413][/us/stat/80/413]; [Pub. L. 103–437, § 3(b)][/us/pl/103/437/s3/b], Nov. 2, 1994, [108 Stat. 4581][/us/stat/108/4581].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 413][/us/stat/80/413]; [Pub. L. 103–437][/us/pl/103/437], § 3(b), Nov. 2, 1994, [108 Stat. 4581][/us/stat/108/4581].)
 
 <table>
 
@@ -92,7 +92,7 @@ May 29, 1928, ch. 901, § 2, 45 Stat. 996.  </td>
 
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F413
-[/us/pl/103/437/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437%2Fs3%2Fb
+[/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 [/us/stat/108/4581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4581
 [/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 [/us/pl/104/14/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F14%2Fs1%2Fa

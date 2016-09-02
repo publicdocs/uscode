@@ -17,7 +17,7 @@
 
     For the purpose of sections 3105, 3344, 4301(2)(D), and 5372 of this title and the provisions of [section 5335(a)(B) of this title][/us/usc/t5/s5335/a/B] that relate to administrative law judges, the Office of Personnel Management may, and for the purpose of [section 7521 of this title][/us/usc/t5/s7521], the Merit Systems Protection Board may investigate, prescribe regulations, appoint advisory committees as necessary, recommend legislation, subpena witnesses and records, and pay witness fees as established for the courts of the United States.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 402][/us/stat/80/402]; [Pub. L. 90–83, § 1(3)][/us/pl/90/83/s1/3], Sept. 11, 1967, [81 Stat. 196][/us/stat/81/196]; [Pub. L. 95–251, § 2(a)(1)][/us/pl/95/251/s2/a/1], (b)(1), Mar. 27, 1978, [92 Stat. 183][/us/stat/92/183]; [Pub. L. 95–454, title VIII, § 801(a)(3)(B)(iii)][/us/pl/95/454/s801/a/3/B/iii], title IX, § 906(a)(12), Oct. 13, 1978, [92 Stat. 1221][/us/stat/92/1221], 1225; [Pub. L. 102–378, § 2(4)][/us/pl/102/378/s2/4], Oct. 2, 1992, [106 Stat. 1346][/us/stat/106/1346]; [Pub. L. 105–362, title XIII, § 1302(a)][/us/pl/105/362/s1302/a], Nov. 10, 1998, [112 Stat. 3293][/us/stat/112/3293].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 402][/us/stat/80/402]; [Pub. L. 90–83][/us/pl/90/83], § 1(3), Sept. 11, 1967, [81 Stat. 196][/us/stat/81/196]; [Pub. L. 95–251][/us/pl/95/251], § 2(a)(1), (b)(1), Mar. 27, 1978, [92 Stat. 183][/us/stat/92/183]; [Pub. L. 95–454, title VIII][/us/pl/95/454/tVIII], § 801(a)(3)(B)(iii), title IX, § 906(a)(12), Oct. 13, 1978, [92 Stat. 1221][/us/stat/92/1221], 1225; [Pub. L. 102–378][/us/pl/102/378], § 2(4), Oct. 2, 1992, [106 Stat. 1346][/us/stat/106/1346]; [Pub. L. 105–362, title XIII][/us/pl/105/362/tXIII], § 1302(a), Nov. 10, 1998, [112 Stat. 3293][/us/stat/112/3293].)
 
 <table>
 
@@ -114,15 +114,15 @@ June 11, 1946, ch. 324, § 11 (5th sentence), 60 Stat. 244.  </td>
 [/us/usc/t5/s7521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs7521
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F402
-[/us/pl/90/83/s1/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83%2Fs1%2F3
+[/us/pl/90/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83
 [/us/stat/81/196]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F196
-[/us/pl/95/251/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F251%2Fs2%2Fa%2F1
+[/us/pl/95/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F251
 [/us/stat/92/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F183
-[/us/pl/95/454/s801/a/3/B/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs801%2Fa%2F3%2FB%2Fiii
+[/us/pl/95/454/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtVIII
 [/us/stat/92/1221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1221
-[/us/pl/102/378/s2/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378%2Fs2%2F4
+[/us/pl/102/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378
 [/us/stat/106/1346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1346
-[/us/pl/105/362/s1302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362%2Fs1302%2Fa
+[/us/pl/105/362/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362%2FtXIII
 [/us/stat/112/3293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3293
 [/us/usc/t5/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs1305
 [/us/pl/105/362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362

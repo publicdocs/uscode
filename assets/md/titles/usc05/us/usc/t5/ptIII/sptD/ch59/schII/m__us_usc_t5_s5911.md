@@ -51,7 +51,7 @@
 
         (2) shall pay such lesser rate or charge as the Secretary of Defense establishes by regulation.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 508][/us/stat/80/508]; [Pub. L. 99–145, title VIII, § 809(c)][/us/pl/99/145/s809/c], Nov. 8, 1985, [99 Stat. 681][/us/stat/99/681].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 508][/us/stat/80/508]; [Pub. L. 99–145, title VIII][/us/pl/99/145/tVIII], § 809(c), Nov. 8, 1985, [99 Stat. 681][/us/stat/99/681].)
 
 <table>
 
@@ -217,7 +217,7 @@ Aug. 20, 1964, Pub. L. 88–459, § 7, 78 Stat. 558.  </td>
 
  __Pilot Program To Establish Government Lodging Program__ 
 
-[Pub. L. 113–291, div. A, title IX, § 914][/us/pl/113/291/s914], Dec. 19, 2014, [128 Stat. 3474][/us/stat/128/3474], provided that:
+[Pub. L. 113–291, div. A, title IX][/us/pl/113/291/dA/tIX], § 914, Dec. 19, 2014, [128 Stat. 3474][/us/stat/128/3474], provided that:
 
 >     “(a)  __Authority__  __.—__ 
 
@@ -255,7 +255,7 @@ Aug. 20, 1964, Pub. L. 88–459, § 7, 78 Stat. 558.  </td>
 
  __Deposit in Special Fund of Rents and Charges Collected for Use or Occupancy of Quarters__ 
 
-[Pub. L. 98–473, title I, § 101(c)][/us/pl/98/473/s101/c] \[title III, § 320\], Oct. 12, 1984, [98 Stat. 1837][/us/stat/98/1837], 1874, as amended by [Pub. L. 100–446, title III, § 316][/us/pl/100/446/s316], Sept. 27, 1988, [102 Stat. 1826][/us/stat/102/1826]; [Pub. L. 101–121, title III, § 317][/us/pl/101/121/s317], Oct. 23, 1989, [103 Stat. 745][/us/stat/103/745], provided that: 
+[Pub. L. 98–473, title I][/us/pl/98/473/tI], § 101(c) \[title III, § 320\], Oct. 12, 1984, [98 Stat. 1837][/us/stat/98/1837], 1874, as amended by [Pub. L. 100–446, title III][/us/pl/100/446/tIII], § 316, Sept. 27, 1988, [102 Stat. 1826][/us/stat/102/1826]; [Pub. L. 101–121, title III][/us/pl/101/121/tIII], § 317, Oct. 23, 1989, [103 Stat. 745][/us/stat/103/745], provided that: 
 
 > “Notwithstanding title 5 of the United States Code or any other provision of law, after September 30, 1984, rents and charges collected by payroll deduction or otherwise for the use or occupancy of quarters of agencies funded by this Act \[probably means Department of the Interior and Related Agencies Appropriation Act, 1985, as set forth in [section 101(c) of Pub. L. 98–473][/us/pl/98/473/s101/c]\] shall thereafter be deposited in a special fund in each agency, to remain available until expended, for the maintenance and operation of the quarters of that agency: Provided, That nothing contained herein shall prohibit an agreement between an Indian tribe or tribal organization and the Secretary of the Interior or the Secretary of Health and Human Services, pursuant to the Indian Self-Determination Act, as amended ([25 U.S.C. 450][/us/usc/t25/s450] et seq.) \[[25 U.S.C. 450f][/us/usc/t25/s450f] et seq.\], under which such tribe or tribal organization may retain rents and charges for the operation, maintenance, and repair of such quarters.”
 
@@ -268,22 +268,22 @@ Aug. 20, 1964, Pub. L. 88–459, § 7, 78 Stat. 558.  </td>
 
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F508
-[/us/pl/99/145/s809/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs809%2Fc
+[/us/pl/99/145/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2FtVIII
 [/us/stat/99/681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F681
 [/us/pl/99/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145
 [/us/pl/99/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145
 [/us/pl/99/145/s813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs813
 [/us/usc/t10/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs113
 [/us/usc/t3/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs301
-[/us/pl/113/291/s914]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs914
+[/us/pl/113/291/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtIX
 [/us/stat/128/3474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3474
 [/us/usc/t5/s5911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5911
 [/us/usc/t31/s1105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105%2Fa
-[/us/pl/98/473/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs101%2Fc
+[/us/pl/98/473/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtI
 [/us/stat/98/1837]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1837
-[/us/pl/100/446/s316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F446%2Fs316
+[/us/pl/100/446/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F446%2FtIII
 [/us/stat/102/1826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1826
-[/us/pl/101/121/s317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F121%2Fs317
+[/us/pl/101/121/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F121%2FtIII
 [/us/stat/103/745]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F745
 [/us/pl/98/473/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs101%2Fc
 [/us/usc/t25/s450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450

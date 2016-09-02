@@ -45,11 +45,11 @@
 
     (3) “Office” means the Office of Personnel Management.
 
-(Added [Pub. L. 108–136, div. A, title XI, § 1129(a)][/us/pl/108/136/s1129/a], Nov. 24, 2003, [117 Stat. 1642][/us/stat/117/1642]; amended [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814].)
+(Added [Pub. L. 108–136, div. A, title XI][/us/pl/108/136/dA/tXI], § 1129(a), Nov. 24, 2003, [117 Stat. 1642][/us/stat/117/1642]; amended [Pub. L. 108–271][/us/pl/108/271], § 8(b), July 7, 2004, [118 Stat. 814][/us/stat/118/814].)
 
  __Prior Provisions__ 
 
-    A prior section 5402, added [Pub. L. 95–454, title V, § 501][/us/pl/95/454/s501], Oct. 13, 1978, [92 Stat. 1181][/us/stat/92/1181]; amended [Pub. L. 98–615, title II, § 201(a)][/us/pl/98/615/s201/a], Nov. 8, 1984, [98 Stat. 3208][/us/stat/98/3208], related to applicability of chapter, prior to repeal by [Pub. L. 103–89, § 3(a)(1)][/us/pl/103/89/s3/a/1], (c), Sept. 30, 1993, [107 Stat. 981][/us/stat/107/981], 983, eff. Nov. 1, 1993.
+    A prior section 5402, added [Pub. L. 95–454, title V][/us/pl/95/454/tV], § 501, Oct. 13, 1978, [92 Stat. 1181][/us/stat/92/1181]; amended [Pub. L. 98–615, title II][/us/pl/98/615/tII], § 201(a), Nov. 8, 1984, [98 Stat. 3208][/us/stat/98/3208], related to applicability of chapter, prior to repeal by [Pub. L. 103–89][/us/pl/103/89], § 3(a)(1), (c), Sept. 30, 1993, [107 Stat. 981][/us/stat/107/981], 983, eff. Nov. 1, 1993.
 
  __Amendments__ 
 
@@ -62,15 +62,15 @@
 ----------
 ----------
 
-[/us/pl/108/136/s1129/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1129%2Fa
+[/us/pl/108/136/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtXI
 [/us/stat/117/1642]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1642
-[/us/pl/108/271/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271%2Fs8%2Fb
+[/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/stat/118/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F814
-[/us/pl/95/454/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs501
+[/us/pl/95/454/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtV
 [/us/stat/92/1181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1181
-[/us/pl/98/615/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F615%2Fs201%2Fa
+[/us/pl/98/615/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F615%2FtII
 [/us/stat/98/3208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3208
-[/us/pl/103/89/s3/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F89%2Fs3%2Fa%2F1
+[/us/pl/103/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F89
 [/us/stat/107/981]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F981
 [/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 

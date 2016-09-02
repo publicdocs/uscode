@@ -31,7 +31,7 @@
 
     The Government Accountability Office shall prepare and submit to the President, the Office of Personnel Management, and each House of Congress, before the end of the third and fifth years during which the program under this chapter is in effect, a written report evaluating such program. Each such report shall include an analysis of the competitiveness of the program, as compared to both group and individual coverage generally available to individuals in the private insurance market. The Office shall cooperate with the Government Accountability Office to provide periodic evaluations of the program.
 
-(Added [Pub. L. 106–265, title I, § 1002(a)][/us/pl/106/265/s1002/a], Sept. 19, 2000, [114 Stat. 768][/us/stat/114/768]; amended [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814].)
+(Added [Pub. L. 106–265, title I][/us/pl/106/265/tI], § 1002(a), Sept. 19, 2000, [114 Stat. 768][/us/stat/114/768]; amended [Pub. L. 108–271][/us/pl/108/271], § 8(b), July 7, 2004, [118 Stat. 814][/us/stat/118/814].)
 
  __Amendments__ 
 
@@ -46,9 +46,9 @@
 ----------
 ----------
 
-[/us/pl/106/265/s1002/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F265%2Fs1002%2Fa
+[/us/pl/106/265/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F265%2FtI
 [/us/stat/114/768]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F768
-[/us/pl/108/271/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271%2Fs8%2Fb
+[/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/stat/118/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F814
 [/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271

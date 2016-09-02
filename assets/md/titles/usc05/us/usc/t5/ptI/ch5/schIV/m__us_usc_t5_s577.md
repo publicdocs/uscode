@@ -19,13 +19,13 @@
 
     (b) The arbitrator shall be a neutral who meets the criteria of [section 573 of this title][/us/usc/t5/s573].
 
-(Added [Pub. L. 101–552, § 4(b)][/us/pl/101/552/s4/b], Nov. 15, 1990, [104 Stat. 2742][/us/stat/104/2742], § 587; renumbered § 577 and amended [Pub. L. 102–354, § 3(b)(2)][/us/pl/102/354/s3/b/2], (3), Aug. 26, 1992, [102 Stat. 944][/us/stat/102/944], 945.)
+(Added [Pub. L. 101–552][/us/pl/101/552], § 4(b), Nov. 15, 1990, [104 Stat. 2742][/us/stat/104/2742], § 587; renumbered § 577 and amended [Pub. L. 102–354][/us/pl/102/354], § 3(b)(2), (3), Aug. 26, 1992, [102 Stat. 944][/us/stat/102/944], 945.)
 
  __Amendments__ 
 
-    1992—[Pub. L. 102–354, § 3(b)(2)][/us/pl/102/354/s3/b/2], renumbered [section 587 of this title][/us/usc/t5/s587] as this section.
+    1992—[Pub. L. 102–354][/us/pl/102/354], § 3(b)(2), renumbered [section 587 of this title][/us/usc/t5/s587] as this section.
 
-    Subsec. (b). [Pub. L. 102–354, § 3(b)(3)][/us/pl/102/354/s3/b/3], substituted “section 573” for “section 583”.
+    Subsec. (b). [Pub. L. 102–354][/us/pl/102/354], § 3(b)(3), substituted “section 573” for “section 583”.
 
 ----------
 
@@ -35,12 +35,12 @@
 ----------
 
 [/us/usc/t5/s573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs573
-[/us/pl/101/552/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F552%2Fs4%2Fb
+[/us/pl/101/552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F552
 [/us/stat/104/2742]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2742
-[/us/pl/102/354/s3/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F354%2Fs3%2Fb%2F2
+[/us/pl/102/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F354
 [/us/stat/102/944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F944
-[/us/pl/102/354/s3/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F354%2Fs3%2Fb%2F2
+[/us/pl/102/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F354
 [/us/usc/t5/s587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs587
-[/us/pl/102/354/s3/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F354%2Fs3%2Fb%2F3
+[/us/pl/102/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F354
 
 

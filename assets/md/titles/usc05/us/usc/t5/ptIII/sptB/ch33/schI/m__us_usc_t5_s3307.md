@@ -49,7 +49,7 @@
 
     (g) The Secretary of Homeland Security may determine and fix the maximum age limit for an original appointment to a position as a customs and border protection officer, as defined by section 8401(36).
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 419][/us/stat/80/419]; [Pub. L. 92–297, § 2(a)][/us/pl/92/297/s2/a], May 16, 1972, [86 Stat. 141][/us/stat/86/141]; [Pub. L. 93–350, § 1][/us/pl/93/350/s1], July 12, 1974, [88 Stat. 355][/us/stat/88/355]; [Pub. L. 96–347, § 1(b)][/us/pl/96/347/s1/b], Sept. 12, 1980, [94 Stat. 1150][/us/stat/94/1150]; [Pub. L. 100–238, title I, § 103(a)(1)][/us/pl/100/238/s103/a/1], Jan. 8, 1988, [101 Stat. 1744][/us/stat/101/1744]; [Pub. L. 105–261, div. C, title XXXI, § 3154(a)][/us/pl/105/261/s3154/a], Oct. 17, 1998, [112 Stat. 2254][/us/stat/112/2254]; [Pub. L. 110–161, div. E, title V, § 535(c)][/us/pl/110/161/s535/c], Dec. 26, 2007, [121 Stat. 2076][/us/stat/121/2076]; [Pub. L. 112–81, div. A, title XI, § 1107][/us/pl/112/81/s1107], Dec. 31, 2011, [125 Stat. 1614][/us/stat/125/1614].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 419][/us/stat/80/419]; [Pub. L. 92–297][/us/pl/92/297], § 2(a), May 16, 1972, [86 Stat. 141][/us/stat/86/141]; [Pub. L. 93–350][/us/pl/93/350], § 1, July 12, 1974, [88 Stat. 355][/us/stat/88/355]; [Pub. L. 96–347][/us/pl/96/347], § 1(b), Sept. 12, 1980, [94 Stat. 1150][/us/stat/94/1150]; [Pub. L. 100–238, title I][/us/pl/100/238/tI], § 103(a)(1), Jan. 8, 1988, [101 Stat. 1744][/us/stat/101/1744]; [Pub. L. 105–261, div. C, title XXXI][/us/pl/105/261/dC/tXXXI], § 3154(a), Oct. 17, 1998, [112 Stat. 2254][/us/stat/112/2254]; [Pub. L. 110–161, div. E, title V][/us/pl/110/161/dE/tV], § 535(c), Dec. 26, 2007, [121 Stat. 2076][/us/stat/121/2076]; [Pub. L. 112–81, div. A, title XI][/us/pl/112/81/dA/tXI], § 1107, Dec. 31, 2011, [125 Stat. 1614][/us/stat/125/1614].)
 
 <table>
 
@@ -111,25 +111,25 @@ June 27, 1956, ch. 452, § 302 (less proviso), 70 Stat. 355.  </td>
 
     2007—Subsec. (g). [Pub. L. 110–161][/us/pl/110/161] added subsec. (g).
 
-    1998—Subsec. (a). [Pub. L. 105–261, § 3154(a)(1)][/us/pl/105/261/s3154/a/1], substituted “(d), (e), and (f)” for “and (d)”.
+    1998—Subsec. (a). [Pub. L. 105–261][/us/pl/105/261], § 3154(a)(1), substituted “(d), (e), and (f)” for “and (d)”.
 
-    Subsec. (f). [Pub. L. 105–261, § 3154(a)(2)][/us/pl/105/261/s3154/a/2], added subsec. (f).
+    Subsec. (f). [Pub. L. 105–261][/us/pl/105/261], § 3154(a)(2), added subsec. (f).
 
-    1988—Subsec. (d). [Pub. L. 100–238, § 103(a)(1)(A)][/us/pl/100/238/s103/a/1/A], substituted “may” for “may, with the concurrence of such agent as the President may designate,”.
+    1988—Subsec. (d). [Pub. L. 100–238][/us/pl/100/238], § 103(a)(1)(A), substituted “may” for “may, with the concurrence of such agent as the President may designate,”.
 
-    Subsec. (e). [Pub. L. 100–238, § 103(a)(1)(B)][/us/pl/100/238/s103/a/1/B], added subsec. (e).
+    Subsec. (e). [Pub. L. 100–238][/us/pl/100/238], § 103(a)(1)(B), added subsec. (e).
 
     1980—Subsec. (b). [Pub. L. 96–347][/us/pl/96/347] substituted “Secretary” for “Secretary of Transportation”.
 
-    1974—Subsec. (a). [Pub. L. 93–350, § 1(1)][/us/pl/93/350/s1/1], inserted reference to subsec. (d).
+    1974—Subsec. (a). [Pub. L. 93–350][/us/pl/93/350], § 1(1), inserted reference to subsec. (d).
 
-    Subsec. (d). [Pub. L. 93–350, § 1(2)][/us/pl/93/350/s1/2], added subsec. (d).
+    Subsec. (d). [Pub. L. 93–350][/us/pl/93/350], § 1(2), added subsec. (d).
 
     1972—[Pub. L. 92–297][/us/pl/92/297] designated existing provisions as subsec. (a) and added subsecs. (b) and (c).
 
  __Effective Date of 2007 Amendment; Transition Rules__ 
 
-[Pub. L. 110–161, div. E, title V, § 535(e)][/us/pl/110/161/s535/e], Dec. 26, 2007, [121 Stat. 2077][/us/stat/121/2077], provided that:
+[Pub. L. 110–161, div. E, title V][/us/pl/110/161/dE/tV], § 535(e), Dec. 26, 2007, [121 Stat. 2077][/us/stat/121/2077], provided that:
 
 >     “(1)  __Effective date__  __.—__ 
 
@@ -201,7 +201,7 @@ June 27, 1956, ch. 452, § 302 (less proviso), 70 Stat. 355.  </td>
 
  __Effective Date of 1988 Amendment__ 
 
-[Pub. L. 100–238, title I, § 103(f)][/us/pl/100/238/s103/f], Jan. 8, 1988, [101 Stat. 1745][/us/stat/101/1745], provided that: 
+[Pub. L. 100–238, title I][/us/pl/100/238/tI], § 103(f), Jan. 8, 1988, [101 Stat. 1745][/us/stat/101/1745], provided that: 
 
 > “This section, and the amendments made by this section \[amending this section and sections 8401 and 8704 of this title and enacting provisions set out as a note under [section 8334 of this title][/us/usc/t5/s8334]\], shall be effective as of January 1, 1987.”
 
@@ -211,7 +211,7 @@ June 27, 1956, ch. 452, § 302 (less proviso), 70 Stat. 355.  </td>
 
  __Effective Date of 1974 Amendment__ 
 
-[Pub. L. 93–350, § 7][/us/pl/93/350/s7], July 12, 1974, [88 Stat. 356][/us/stat/88/356], provided that: 
+[Pub. L. 93–350][/us/pl/93/350], § 7, July 12, 1974, [88 Stat. 356][/us/stat/88/356], provided that: 
 
 > “The amendments made by the first section \[amending this section\], and sections 2(b), 5, and 6 \[amending sections 8331, 8336, and 8339 of this title\], of this Act shall become effective on the date of enactment of this Act \[July 12, 1974\]. The amendments made by sections 2(a) and 3 \[amending sections 8331 and 8334 of this title\] of this Act shall become effective at the beginning of the first applicable pay period which begins after December 31, 1974. The amendment made by section 4 of this Act \[amending [section 8335 of this title][/us/usc/t5/s8335]\] shall become effective on January 1, 1978.”
 
@@ -221,13 +221,13 @@ June 27, 1956, ch. 452, § 302 (less proviso), 70 Stat. 355.  </td>
 
  __Regulations__ 
 
-[Pub. L. 110–161, div. E, title V, § 535(d)][/us/pl/110/161/s535/d], Dec. 26, 2007, [121 Stat. 2077][/us/stat/121/2077], provided that: 
+[Pub. L. 110–161, div. E, title V][/us/pl/110/161/dE/tV], § 535(d), Dec. 26, 2007, [121 Stat. 2077][/us/stat/121/2077], provided that: 
 
 > “Any regulations necessary to carry out the amendments made by this section \[amending this section and sections 8331, 8334 to 8336, 8401, 8412, 8415, 8422, 8423, and 8425 of this title\] shall be prescribed by the Director of the Office of Personnel Management in consultation with the Secretary of Homeland Security.”
 
  __United States Park Police; Age Limits for Original Appointments__ 
 
-    [Pub. L. 91–73][/us/pl/91/73], Sept. 26, 1969, [83 Stat. 116][/us/stat/83/116], which provided for age limits for appointments to the United States Park Police, was repealed by [Pub. L. 92–297, § 11][/us/pl/92/297/s11], May 16, 1972, [86 Stat. 145][/us/stat/86/145], effective at the end of the 89th day after May 16, 1972. The Secretary of the Interior may fix age limits for appointment under subsec. (c) of this section.
+    [Pub. L. 91–73][/us/pl/91/73], Sept. 26, 1969, [83 Stat. 116][/us/stat/83/116], which provided for age limits for appointments to the United States Park Police, was repealed by [Pub. L. 92–297][/us/pl/92/297], § 11, May 16, 1972, [86 Stat. 145][/us/stat/86/145], effective at the end of the 89th day after May 16, 1972. The Secretary of the Interior may fix age limits for appointment under subsec. (c) of this section.
 
  __Ex. Ord. No. 11817. Office of Personnel Management Designated Agent To Concur With Agency Determination Fixing Age Limits for Making Original Appointments Respecting Law Enforcement Officer and Firefighter Positions__ 
 
@@ -244,51 +244,51 @@ June 27, 1956, ch. 452, § 302 (less proviso), 70 Stat. 355.  </td>
 
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F419
-[/us/pl/92/297/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F297%2Fs2%2Fa
+[/us/pl/92/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F297
 [/us/stat/86/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F141
-[/us/pl/93/350/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F350%2Fs1
+[/us/pl/93/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F350
 [/us/stat/88/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F355
-[/us/pl/96/347/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F347%2Fs1%2Fb
+[/us/pl/96/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F347
 [/us/stat/94/1150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1150
-[/us/pl/100/238/s103/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F238%2Fs103%2Fa%2F1
+[/us/pl/100/238/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F238%2FtI
 [/us/stat/101/1744]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1744
-[/us/pl/105/261/s3154/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs3154%2Fa
+[/us/pl/105/261/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdC%2FtXXXI
 [/us/stat/112/2254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2254
-[/us/pl/110/161/s535/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs535%2Fc
+[/us/pl/110/161/dE/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2FdE%2FtV
 [/us/stat/121/2076]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2076
-[/us/pl/112/81/s1107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1107
+[/us/pl/112/81/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtXI
 [/us/stat/125/1614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1614
 [/us/usc/t5/s2109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs2109
 [/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
 [/us/pl/110/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161
-[/us/pl/105/261/s3154/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs3154%2Fa%2F1
-[/us/pl/105/261/s3154/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs3154%2Fa%2F2
-[/us/pl/100/238/s103/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F238%2Fs103%2Fa%2F1%2FA
-[/us/pl/100/238/s103/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F238%2Fs103%2Fa%2F1%2FB
+[/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
+[/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
+[/us/pl/100/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F238
+[/us/pl/100/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F238
 [/us/pl/96/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F347
-[/us/pl/93/350/s1/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F350%2Fs1%2F1
-[/us/pl/93/350/s1/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F350%2Fs1%2F2
+[/us/pl/93/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F350
+[/us/pl/93/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F350
 [/us/pl/92/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F297
-[/us/pl/110/161/s535/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs535%2Fe
+[/us/pl/110/161/dE/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2FdE%2FtV
 [/us/stat/121/2077]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2077
 [/us/usc/t5/s8339/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8339%2Fd
-[/us/pl/100/238/s103/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F238%2Fs103%2Ff
+[/us/pl/100/238/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F238%2FtI
 [/us/stat/101/1745]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1745
 [/us/usc/t5/s8334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8334
 [/us/pl/96/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F347
 [/us/pl/96/347/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F347%2Fs3
 [/us/usc/t5/s2109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs2109
-[/us/pl/93/350/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F350%2Fs7
+[/us/pl/93/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F350
 [/us/stat/88/356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F356
 [/us/usc/t5/s8335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8335
 [/us/pl/92/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F297
 [/us/pl/92/297/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F297%2Fs10
 [/us/usc/t5/s3381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3381
-[/us/pl/110/161/s535/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs535%2Fd
+[/us/pl/110/161/dE/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2FdE%2FtV
 [/us/stat/121/2077]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2077
 [/us/pl/91/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F73
 [/us/stat/83/116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F116
-[/us/pl/92/297/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F297%2Fs11
+[/us/pl/92/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F297
 [/us/stat/86/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F145
 [/us/usc/t5/s3307/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3307%2Fd
 [/us/pl/93/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F350

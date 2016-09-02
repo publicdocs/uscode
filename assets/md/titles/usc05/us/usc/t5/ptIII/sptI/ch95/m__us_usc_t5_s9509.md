@@ -47,7 +47,7 @@
 
     (c) With the approval of the Office of Personnel Management and in accordance with a plan for implementation submitted by the Secretary of the Treasury, the Secretary may, with respect to Internal Revenue Service employees who are covered by a broad-banded system established under this section, provide for variations from the provisions of subchapter VI of chapter 53.
 
-(Added [Pub. L. 105–206, title I, § 1201(a)][/us/pl/105/206/s1201/a], July 22, 1998, [112 Stat. 716][/us/stat/112/716].)
+(Added [Pub. L. 105–206, title I][/us/pl/105/206/tI], § 1201(a), July 22, 1998, [112 Stat. 716][/us/stat/112/716].)
 
 ----------
 
@@ -56,7 +56,7 @@
 ----------
 ----------
 
-[/us/pl/105/206/s1201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs1201%2Fa
+[/us/pl/105/206/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtI
 [/us/stat/112/716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F716
 
 

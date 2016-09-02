@@ -303,7 +303,7 @@
 
     Nothing in this section shall be construed to limit the authority of U.S. Customs and Border Protection to require a border patrol agent to perform hours of overtime work in accordance with the needs of U.S. Customs and Border Protection, including if needed in the event of a local or national emergency.
 
-([Pub. L. 113–277, § 2(b)][/us/pl/113/277/s2/b], Dec. 18, 2014, [128 Stat. 2995][/us/stat/128/2995].)
+([Pub. L. 113–277][/us/pl/113/277], § 2(b), Dec. 18, 2014, [128 Stat. 2995][/us/stat/128/2995].)
 
  __References in Text__ 
 
@@ -315,7 +315,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 5550, added [Pub. L. 92–392, § 10(a)][/us/pl/92/392/s10/a], Aug. 19, 1972, [86 Stat. 574][/us/stat/86/574], related to pay for Sunday and overtime work for employees of nonappropriated fund instrumentalities, prior to repeal by [Pub. L. 102–378, § 2(44)(A)][/us/pl/102/378/s2/44/A], Oct. 2, 1992, [106 Stat. 1352][/us/stat/106/1352].
+    A prior section 5550, added [Pub. L. 92–392][/us/pl/92/392], § 10(a), Aug. 19, 1972, [86 Stat. 574][/us/stat/86/574], related to pay for Sunday and overtime work for employees of nonappropriated fund instrumentalities, prior to repeal by [Pub. L. 102–378][/us/pl/102/378], § 2(44)(A), Oct. 2, 1992, [106 Stat. 1352][/us/stat/106/1352].
 
  __Effective Date__ 
 
@@ -323,7 +323,7 @@
 
  __Minimization of Overtime__ 
 
-[Pub. L. 113–277, § 2(c)(2)][/us/pl/113/277/s2/c/2], Dec. 18, 2014, [128 Stat. 3003][/us/stat/128/3003], provided that: 
+[Pub. L. 113–277][/us/pl/113/277], § 2(c)(2), Dec. 18, 2014, [128 Stat. 3003][/us/stat/128/3003], provided that: 
 
 > “U.S. Customs and Border Protection shall, to the maximum extent practicable, avoid the use of scheduled overtime work by border patrol agents.”
 
@@ -336,19 +336,19 @@
 ----------
 ----------
 
-[/us/pl/113/277/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F277%2Fs2%2Fb
+[/us/pl/113/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F277
 [/us/stat/128/2995]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2995
 [/us/pl/113/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F277
 [/us/pl/113/277/s2/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F277%2Fs2%2Fe
 [/us/stat/128/3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3003
 [/us/pl/113/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F277
-[/us/pl/92/392/s10/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F392%2Fs10%2Fa
+[/us/pl/92/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F392
 [/us/stat/86/574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F574
-[/us/pl/102/378/s2/44/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378%2Fs2%2F44%2FA
+[/us/pl/102/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378
 [/us/stat/106/1352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1352
 [/us/pl/113/277/s2/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F277%2Fs2%2Fi
 [/us/usc/t5/s5542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5542
-[/us/pl/113/277/s2/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F277%2Fs2%2Fc%2F2
+[/us/pl/113/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F277
 [/us/stat/128/3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3003
 [/us/pl/113/277/s2/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F277%2Fs2%2Fc%2F2
 [/us/pl/113/277/s2/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F277%2Fs2%2Fi

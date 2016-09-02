@@ -17,7 +17,7 @@
 
     For the purpose of sections 908 through 912 of this title, “resolution” means only a joint resolution of the Congress, the matter after the resolving clause of which is as follows: “That the Congress approves the reorganization plan numbered      transmitted to the Congress by the President on   , 19  .”, and includes such modifications and revisions as are submitted by the President under section 903(c) of this chapter. The blank spaces therein are to be filled appropriately. The term does not include a resolution which specifies more than one reorganization plan.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 397][/us/stat/80/397]; [Pub. L. 95–17, § 2][/us/pl/95/17/s2], Apr. 6, 1977, [91 Stat. 33][/us/stat/91/33]; [Pub. L. 98–614, § 3(c)][/us/pl/98/614/s3/c], Nov. 8, 1984, [98 Stat. 3192][/us/stat/98/3192].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 397][/us/stat/80/397]; [Pub. L. 95–17][/us/pl/95/17], § 2, Apr. 6, 1977, [91 Stat. 33][/us/stat/91/33]; [Pub. L. 98–614][/us/pl/98/614], § 3(c), Nov. 8, 1984, [98 Stat. 3192][/us/stat/98/3192].)
 
 <table>
 
@@ -86,9 +86,9 @@ June 20, 1949, ch. 226, § 202, 63 Stat. 207.  </td>
 
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F397
-[/us/pl/95/17/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F17%2Fs2
+[/us/pl/95/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F17
 [/us/stat/91/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F33
-[/us/pl/98/614/s3/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F614%2Fs3%2Fc
+[/us/pl/98/614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F614
 [/us/stat/98/3192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3192
 [/us/usc/t5/s903/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs903%2Fc
 [/us/pl/98/614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F614

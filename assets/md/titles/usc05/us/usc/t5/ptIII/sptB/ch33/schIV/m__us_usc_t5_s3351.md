@@ -23,7 +23,7 @@
 
     This section does not apply to an appointment required by Congress to be confirmed by, or made with the advice and consent of, the Senate.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 426][/us/stat/80/426]; [Pub. L. 94–183, § 2(4)][/us/pl/94/183/s2/4], Dec. 31, 1975, [89 Stat. 1057][/us/stat/89/1057]; [Pub. L. 95–454, title IX, § 906(a)(2)][/us/pl/95/454/s906/a/2], (3), Oct. 13, 1978, [92 Stat. 1224][/us/stat/92/1224].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 426][/us/stat/80/426]; [Pub. L. 94–183][/us/pl/94/183], § 2(4), Dec. 31, 1975, [89 Stat. 1057][/us/stat/89/1057]; [Pub. L. 95–454, title IX][/us/pl/95/454/tIX], § 906(a)(2), (3), Oct. 13, 1978, [92 Stat. 1224][/us/stat/92/1224].)
 
 <table>
 
@@ -96,9 +96,9 @@ June 27, 1944, ch. 287, § 5 (1st 2 sentences, so much as relates to transfer)
 
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F426
-[/us/pl/94/183/s2/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F183%2Fs2%2F4
+[/us/pl/94/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F183
 [/us/stat/89/1057]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F1057
-[/us/pl/95/454/s906/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs906%2Fa%2F2
+[/us/pl/95/454/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtIX
 [/us/stat/92/1224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1224
 [/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454
 [/us/pl/94/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F183

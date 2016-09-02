@@ -41,7 +41,7 @@
 
     (b) The Administrator may pay the travel, transportation, and relocation expenses of a new appointee to the same extent, in the same manner, and subject to the same conditions as the payment of such expenses under sections 5724, 5724a, 5724b, and 5724c to an employee transferred in the interests of the United States Government.
 
-(Added [Pub. L. 108–201, § 3(a)][/us/pl/108/201/s3/a], Feb. 24, 2004, [118 Stat. 472][/us/stat/118/472]; amended [Pub. L. 111–314, § 4(a)][/us/pl/111/314/s4/a], Dec. 18, 2010, [124 Stat. 3440][/us/stat/124/3440].)
+(Added [Pub. L. 108–201][/us/pl/108/201], § 3(a), Feb. 24, 2004, [118 Stat. 472][/us/stat/118/472]; amended [Pub. L. 111–314][/us/pl/111/314], § 4(a), Dec. 18, 2010, [124 Stat. 3440][/us/stat/124/3440].)
 
  __Amendments__ 
 
@@ -55,9 +55,9 @@
 ----------
 
 [/us/usc/t51/s20113/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft51%2Fs20113%2Fb%2F1
-[/us/pl/108/201/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F201%2Fs3%2Fa
+[/us/pl/108/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F201
 [/us/stat/118/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F472
-[/us/pl/111/314/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F314%2Fs4%2Fa
+[/us/pl/111/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F314
 [/us/stat/124/3440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3440
 [/us/pl/111/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F314
 [/us/usc/t51/s20113/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft51%2Fs20113%2Fb%2F1

@@ -17,7 +17,7 @@
 
  __Amendments__ 
 
-    1992—[Pub. L. 102–378, § 2(36)][/us/pl/102/378/s2/36], Oct. 2, 1992, [106 Stat. 1351][/us/stat/106/1351], struck out subchapter analysis, consisting of item 5391 “Definitions” and item 5392 “Establishment of special occupational pay systems”.
+    1992—[Pub. L. 102–378][/us/pl/102/378], § 2(36), Oct. 2, 1992, [106 Stat. 1351][/us/stat/106/1351], struck out subchapter analysis, consisting of item 5391 “Definitions” and item 5392 “Establishment of special occupational pay systems”.
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/102/378/s2/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378%2Fs2%2F36
+[/us/pl/102/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378
 [/us/stat/106/1351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1351
 
 

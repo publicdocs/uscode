@@ -27,7 +27,7 @@
 
     (d) Notwithstanding subsection (a) of this section, the Chief of Engineers of the Army, under [section 569a of title 33][/us/usc/t33/s569a], may employ a retired employee whose expert assistance is needed in connection with river and harbor or flood control works. There shall be deducted from the pay of an employee so reemployed an amount equal to the annuity or retired pay allocable to the period of actual employment.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 422][/us/stat/80/422]; [Pub. L. 96–465, title II, § 2314(a)][/us/pl/96/465/s2314/a], Oct. 17, 1980, [94 Stat. 2167][/us/stat/94/2167]; [Pub. L. 98–224, § 2][/us/pl/98/224/s2], Mar. 2, 1984, [98 Stat. 47][/us/stat/98/47]; [Pub. L. 102–378, § 2(10)][/us/pl/102/378/s2/10], Oct. 2, 1992, [106 Stat. 1347][/us/stat/106/1347].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 422][/us/stat/80/422]; [Pub. L. 96–465, title II][/us/pl/96/465/tII], § 2314(a), Oct. 17, 1980, [94 Stat. 2167][/us/stat/94/2167]; [Pub. L. 98–224][/us/pl/98/224], § 2, Mar. 2, 1984, [98 Stat. 47][/us/stat/98/47]; [Pub. L. 102–378][/us/pl/102/378], § 2(10), Oct. 2, 1992, [106 Stat. 1347][/us/stat/106/1347].)
 
 <table>
 
@@ -127,7 +127,7 @@ June 20, 1938, ch. 535, § 5, 52 Stat. 805.  </td>
 
     In subsection (b), the words “receiving annuity from the Civil Service Retirement and Disability Fund” are substituted for “heretofore or hereafter retired under this chapter”. The word “authority” is substituted for “officer” in recognition of the several appointing authorities named in section 2105(a)(1).
 
-    In subsection (c), the words “Notwithstanding subsection (a) of this section” are substituted for “Notwithstanding the provisions of sections 62 and 715a of title 5” to reflect the codification of former section 715a in subsection (a) of this section and in view of the repeal of [section 62 of title 5][/us/usc/t5/s62] by [§ 402(a)(7) of the Act of Aug. 19, 1964][/us/act/1964-08-19/s402/a/7], [Pub. L. 88–448][/us/pl/88/448], [78 Stat. 492][/us/stat/78/492]. The words “heretofore or hereafter” and “hereafter” are omitted as unnecessary. The words “in a position in the civil service” are substituted for “in Federal Government service in any appointive position” in view of the definition of “civil service” in section 2101. The word “authority” is substituted for “officer” in recognition of the several appointing authorities named in section 2105(a)(1).
+    In subsection (c), the words “Notwithstanding subsection (a) of this section” are substituted for “Notwithstanding the provisions of sections 62 and 715a of title 5” to reflect the codification of former section 715a in subsection (a) of this section and in view of the repeal of [section 62 of title 5][/us/usc/t5/s62] by § 402(a)(7) of the Act of Aug. 19, 1964, [Pub. L. 88–448][/us/pl/88/448], [78 Stat. 492][/us/stat/78/492]. The words “heretofore or hereafter” and “hereafter” are omitted as unnecessary. The words “in a position in the civil service” are substituted for “in Federal Government service in any appointive position” in view of the definition of “civil service” in section 2101. The word “authority” is substituted for “officer” in recognition of the several appointing authorities named in section 2105(a)(1).
 
     In subsection (d), the words “Notwithstanding subsection (a) of this section” are substituted for “The provisions of [section 715a of title 5][/us/usc/t5/s715a] shall not be so construed as to prevent” to reflect the codification of former section 715a in subsection (a) of this section, and to conform to the style of this section. The words “under [section 569a of title 33][/us/usc/t33/s569a]” are substituted for “under agreement as authorized by sections 569a, 584a and 607a of title 33” on authority of the provision contained in [section 569a of title 33][/us/usc/t33/s569a]. The word “employee” is coextensive with and substituted for “civilian employee” in view of the definition of “employee” in section 2105. The last sentence is restated for clarity.
 
@@ -161,14 +161,13 @@ June 20, 1938, ch. 535, § 5, 52 Stat. 805.  </td>
 [/us/usc/t33/s569a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs569a
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F422
-[/us/pl/96/465/s2314/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs2314%2Fa
+[/us/pl/96/465/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtII
 [/us/stat/94/2167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2167
-[/us/pl/98/224/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F224%2Fs2
+[/us/pl/98/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F224
 [/us/stat/98/47]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F47
-[/us/pl/102/378/s2/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378%2Fs2%2F10
+[/us/pl/102/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378
 [/us/stat/106/1347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1347
 [/us/usc/t5/s62]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs62
-[/us/act/1964-08-19/s402/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1964-08-19%2Fs402%2Fa%2F7
 [/us/pl/88/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F448
 [/us/stat/78/492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F492
 [/us/usc/t5/s715a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs715a

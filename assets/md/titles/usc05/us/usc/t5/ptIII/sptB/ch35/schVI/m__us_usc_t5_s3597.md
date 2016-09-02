@@ -17,7 +17,7 @@
 
     An employee of any agency who accepts, with the consent of the head of that agency, a limited appointment in the Foreign Service under section 309 of the Foreign Service Act of 1980 is entitled, upon the expiration of that appointment, to be reemployed in that employee’s former position or in a corresponding or higher position in that agency. Upon reemployment under this section, an employee shall be entitled to any within-grade increases in pay which the employee would have received if the employee had remained in the former position in the agency.
 
-(Added [Pub. L. 96–465, title II, § 2301(a)][/us/pl/96/465/s2301/a], Oct. 17, 1980, [94 Stat. 2164][/us/stat/94/2164].)
+(Added [Pub. L. 96–465, title II][/us/pl/96/465/tII], § 2301(a), Oct. 17, 1980, [94 Stat. 2164][/us/stat/94/2164].)
 
  __References in Text__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/96/465/s2301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs2301%2Fa
+[/us/pl/96/465/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtII
 [/us/stat/94/2164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2164
 [/us/usc/t22/s3949]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3949
 [/us/pl/96/465/s2403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs2403

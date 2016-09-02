@@ -91,9 +91,9 @@
 
  __Amendments__ 
 
-    1995—[Pub. L. 104–66, title III, § 3001(a)(2)][/us/pl/104/66/s3001/a/2], Dec. 21, 1995, [109 Stat. 734][/us/stat/109/734], struck out item 3407 “Reports”.
+    1995—[Pub. L. 104–66, title III][/us/pl/104/66/tIII], § 3001(a)(2), Dec. 21, 1995, [109 Stat. 734][/us/stat/109/734], struck out item 3407 “Reports”.
 
-    1978—[Pub. L. 95–437, § 3(b)][/us/pl/95/437/s3/b], Oct. 10, 1978, [92 Stat. 1058][/us/stat/92/1058], added items 3391 to 3398, which were renumbered 3401 to 3408 by [Pub. L. 95–454, title IX, § 906(c)(1)(A)][/us/pl/95/454/s906/c/1/A], Oct. 13, 1978, [92 Stat. 1226][/us/stat/92/1226], which section also substituted “CHAPTER 34” for “SUBCHAPTER VIII” in heading.
+    1978—[Pub. L. 95–437][/us/pl/95/437], § 3(b), Oct. 10, 1978, [92 Stat. 1058][/us/stat/92/1058], added items 3391 to 3398, which were renumbered 3401 to 3408 by [Pub. L. 95–454, title IX][/us/pl/95/454/tIX], § 906(c)(1)(A), Oct. 13, 1978, [92 Stat. 1226][/us/stat/92/1226], which section also substituted “CHAPTER 34” for “SUBCHAPTER VIII” in heading.
 
 ----------
 
@@ -102,11 +102,11 @@
 ----------
 ----------
 
-[/us/pl/104/66/s3001/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3001%2Fa%2F2
+[/us/pl/104/66/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2FtIII
 [/us/stat/109/734]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F734
-[/us/pl/95/437/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F437%2Fs3%2Fb
+[/us/pl/95/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F437
 [/us/stat/92/1058]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1058
-[/us/pl/95/454/s906/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs906%2Fc%2F1%2FA
+[/us/pl/95/454/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtIX
 [/us/stat/92/1226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1226
 
 

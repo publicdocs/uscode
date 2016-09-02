@@ -25,7 +25,7 @@
 
     (b) The requirements set forth in paragraphs (2) and (3), respectively, of section 5303(b) shall apply with respect to any decision to exercise any authority to fix an alternative level of comparability payments under this section.
 
-(Added [Pub. L. 101–509, title V, § 529][/us/pl/101/509/s529] \[title I, § 101(a)(1)\], Nov. 5, 1990, [104 Stat. 1427][/us/stat/104/1427], 1436.)
+(Added [Pub. L. 101–509, title V][/us/pl/101/509/tV], § 529 \[title I, § 101(a)(1)\], Nov. 5, 1990, [104 Stat. 1427][/us/stat/104/1427], 1436.)
 
  __Effective Date__ 
 
@@ -33,7 +33,7 @@
 
  __Special Rule Relating to Comparability Payments in 1994__ 
 
-[Pub. L. 101–509, title VI, § 634][/us/pl/101/509/s634], Nov. 5, 1990, [104 Stat. 1482][/us/stat/104/1482], provided that:
+[Pub. L. 101–509, title VI][/us/pl/101/509/tVI], § 634, Nov. 5, 1990, [104 Stat. 1482][/us/stat/104/1482], provided that:
 
 >     “Notwithstanding any other provision of law (including any provision of the Federal Employees Pay Comparability Act of 1990 \[see Short Title of 1990 Amendment note set out under [section 5301 of this title][/us/usc/t5/s5301]\] and any provision of law amended by such Act), for purposes of any comparability payments scheduled to take effect under [section 5304 of title 5][/us/usc/t5/s5304], United States Code (as amended by such Act) during calendar year 1994—
 
@@ -72,11 +72,11 @@
 ----------
 ----------
 
-[/us/pl/101/509/s529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2Fs529
+[/us/pl/101/509/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2FtV
 [/us/stat/104/1427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1427
 [/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509
 [/us/usc/t5/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5301
-[/us/pl/101/509/s634]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2Fs634
+[/us/pl/101/509/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2FtVI
 [/us/stat/104/1482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1482
 [/us/usc/t5/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5301
 [/us/usc/t5/s5304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5304

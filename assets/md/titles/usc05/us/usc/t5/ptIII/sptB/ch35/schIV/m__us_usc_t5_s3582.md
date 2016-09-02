@@ -49,7 +49,7 @@
 
     (d) During the employee’s period of service with the international organization, the agency from which the employee is transferred shall make contributions for retirement and insurance purposes from the appropriations or funds of that agency so long as contributions are made by the employee.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 430][/us/stat/80/430]; [Pub. L. 91–175][/us/pl/91/175], pt. V, § 502(c)–(f), Dec. 30, 1969, [83 Stat. 825][/us/stat/83/825], 826; [Pub. L. 94–183, § 2(10)][/us/pl/94/183/s2/10], Dec. 31, 1975, [89 Stat. 1057][/us/stat/89/1057]; [Pub. L. 105–277, div. G][/us/pl/105/277], subdiv. B, title XXV, § 2504(a), Oct. 21, 1998, [112 Stat. 2681–837][/us/stat/112/2681-837].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 430][/us/stat/80/430]; [Pub. L. 91–175][/us/pl/91/175], pt. V, § 502(c)–(f), Dec. 30, 1969, [83 Stat. 825][/us/stat/83/825], 826; [Pub. L. 94–183][/us/pl/94/183], § 2(10), Dec. 31, 1975, [89 Stat. 1057][/us/stat/89/1057]; [Pub. L. 105–277, div. G][/us/pl/105/277/dG], subdiv. B, title XXV, § 2504(a), Oct. 21, 1998, [112 Stat. 2681–837][/us/stat/112/2681-837].)
 
 <table>
 
@@ -107,17 +107,17 @@ Aug. 28, 1958, Pub. L. 85–795 § 4 (less (c)), 72 Stat. 960.  </td>
 
     1975—Subsec. (b). [Pub. L. 94–183][/us/pl/94/183] substituted “after December 29, 1969” for “on or after the date of enactment of the Foreign Assistance Act of 1969” in last sentence.
 
-    1969—Subsec. (a). [Pub. L. 91–175, § 502(c)][/us/pl/91/175/s502/c], inserted provision at end of cl. (1) excepting from creditable service, for the purpose of any retirement system, an agency employee who transfers to an international organization, if such service forms the basis for an annuity or pension under the retirement system of the international organization, and, in cl. (2), inserted references to chapter 89 and Employees’ Health Benefits Fund.
+    1969—Subsec. (a). [Pub. L. 91–175][/us/pl/91/175], § 502(c), inserted provision at end of cl. (1) excepting from creditable service, for the purpose of any retirement system, an agency employee who transfers to an international organization, if such service forms the basis for an annuity or pension under the retirement system of the international organization, and, in cl. (2), inserted references to chapter 89 and Employees’ Health Benefits Fund.
 
-    Subsec. (b). [Pub. L. 91–175, § 502(d)][/us/pl/91/175/s502/d], struck out “, except a Congressional employee,” in provisions preceding cl. (1), substituted “5 years or any extension thereof,” for “3 years” in cl. (1), and, in provisions following cl. (2), inserted provision dealing with pay differentials to be received by former agency employee on reemployment with agency after service with international organization.
+    Subsec. (b). [Pub. L. 91–175][/us/pl/91/175], § 502(d), struck out “, except a Congressional employee,” in provisions preceding cl. (1), substituted “5 years or any extension thereof,” for “3 years” in cl. (1), and, in provisions following cl. (2), inserted provision dealing with pay differentials to be received by former agency employee on reemployment with agency after service with international organization.
 
-    Subsec. (c). [Pub. L. 91–175, § 502(e)][/us/pl/91/175/s502/e], substituted “5 years, or any extension thereof,” for “3 years”.
+    Subsec. (c). [Pub. L. 91–175][/us/pl/91/175], § 502(e), substituted “5 years, or any extension thereof,” for “3 years”.
 
-    Subsec. (d). [Pub. L. 91–175, § 502(f)][/us/pl/91/175/s502/f], made contributions for retirement and insurance purposes mandatory by the agency from which employee is transferred, during employee’s period of service with international organization, so long as contributions are made by employee.
+    Subsec. (d). [Pub. L. 91–175][/us/pl/91/175], § 502(f), made contributions for retirement and insurance purposes mandatory by the agency from which employee is transferred, during employee’s period of service with international organization, so long as contributions are made by employee.
 
  __Effective Date of 1998 Amendment__ 
 
-[Pub. L. 105–277, div. G][/us/pl/105/277], subdiv. B, title XXV, § 2504(b), Oct. 21, 1998, [112 Stat. 2681–837][/us/stat/112/2681-837], provided that: 
+[Pub. L. 105–277, div. G][/us/pl/105/277/dG], subdiv. B, title XXV, § 2504(b), Oct. 21, 1998, [112 Stat. 2681–837][/us/stat/112/2681-837], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply with respect to transfers that take effect on or after the date of enactment of this Act \[Oct. 21, 1998\].”
 
@@ -136,18 +136,18 @@ Aug. 28, 1958, Pub. L. 85–795 § 4 (less (c)), 72 Stat. 960.  </td>
 [/us/stat/80/430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F430
 [/us/pl/91/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F175
 [/us/stat/83/825]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F825
-[/us/pl/94/183/s2/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F183%2Fs2%2F10
+[/us/pl/94/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F183
 [/us/stat/89/1057]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F1057
-[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277/dG]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdG
 [/us/stat/112/2681-837]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-837
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/usc/t5/s3343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3343
 [/us/pl/94/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F183
-[/us/pl/91/175/s502/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F175%2Fs502%2Fc
-[/us/pl/91/175/s502/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F175%2Fs502%2Fd
-[/us/pl/91/175/s502/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F175%2Fs502%2Fe
-[/us/pl/91/175/s502/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F175%2Fs502%2Ff
-[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/91/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F175
+[/us/pl/91/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F175
+[/us/pl/91/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F175
+[/us/pl/91/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F175
+[/us/pl/105/277/dG]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdG
 [/us/stat/112/2681-837]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-837
 [/us/usc/t5/s3584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3584
 

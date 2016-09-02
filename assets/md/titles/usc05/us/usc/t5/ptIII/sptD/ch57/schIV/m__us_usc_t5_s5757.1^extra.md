@@ -47,7 +47,7 @@
 
     (f) The Office of Personnel Management may prescribe regulations for the administration of this section, including regulations on an employee’s entitlement to retain or receive incentive payments when an agreement is canceled. Neither this section nor implementing regulations may impair any agency’s independent authority to administratively determine compensation for a class of its employees.
 
-(Added [Pub. L. 107–273, div. A, title II, § 207(a)(1)][/us/pl/107/273/s207/a/1], Nov. 2, 2002, [116 Stat. 1779][/us/stat/116/1779].)
+(Added [Pub. L. 107–273, div. A, title II][/us/pl/107/273/dA/tII], § 207(a)(1), Nov. 2, 2002, [116 Stat. 1779][/us/stat/116/1779].)
 
  __Effective Date__ 
 
@@ -55,7 +55,7 @@
 
  __Report__ 
 
-[Pub. L. 107–273, div. A, title II, § 207(d)][/us/pl/107/273/s207/d], Nov. 2, 2002, [116 Stat. 1780][/us/stat/116/1780], provided that: 
+[Pub. L. 107–273, div. A, title II][/us/pl/107/273/dA/tII], § 207(d), Nov. 2, 2002, [116 Stat. 1780][/us/stat/116/1780], provided that: 
 
 > “No later than 3 years after the effective date of this section \[see Effective Date note above\], the Office of Personnel Management, after consultation with affected agencies, shall submit a report to Congress assessing the effectiveness of the extended assignment incentive authority as a human resources management tool and making recommendations for any changes necessary to improve the effectiveness of the incentive authority. Each agency shall maintain such records and report such information, including the number and size of incentive offers made and accepted or declined by geographic location and occupation, in such format and at such times as the Office of Personnel Management may prescribe, for use in preparing the report.”
 
@@ -66,11 +66,11 @@
 ----------
 ----------
 
-[/us/pl/107/273/s207/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs207%2Fa%2F1
+[/us/pl/107/273/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdA%2FtII
 [/us/stat/116/1779]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1779
 [/us/pl/107/273/s207/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs207%2Fc
 [/us/usc/t5/s5307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5307
-[/us/pl/107/273/s207/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs207%2Fd
+[/us/pl/107/273/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdA%2FtII
 [/us/stat/116/1780]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1780
 
 

@@ -17,7 +17,7 @@
 
     If an injury or death for which compensation is payable under this subchapter is caused under circumstances creating a legal liability in a person other than the United States to pay damages, and a beneficiary entitled to compensation from the United States for that injury or death receives money or other property in satisfaction of that liability as the result of suit or settlement by him or in his behalf, the beneficiary, after deducting therefrom the costs of suit and a reasonable attorney’s fee, shall refund to the United States the amount of compensation paid by the United States and credit any surplus on future payments of compensation payable to him for the same injury. No court, insurer, attorney, or other person shall pay or distribute to the beneficiary or his designee the proceeds of such suit or settlement without first satisfying or assuring satisfaction of the interest of the United States. The amount refunded to the United States shall be credited to the Employees’ Compensation Fund. If compensation has not been paid to the beneficiary, he shall credit the money or property on compensation payable to him by the United States for the same injury. However, the beneficiary is entitled to retain, as a minimum, at least one-fifth of the net amount of the money or other property remaining after the expenses of a suit or settlement have been deducted; and in addition to this minimum and at the time of distribution, an amount equivalent to a reasonable attorney’s fee proportionate to the refund to the United States.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 547][/us/stat/80/547]; [Pub. L. 90–83, § 1(61)][/us/pl/90/83/s1/61], Sept. 11, 1967, [81 Stat. 211][/us/stat/81/211]; [Pub. L. 93–416, § 15][/us/pl/93/416/s15], Sept. 7, 1974, [88 Stat. 1147][/us/stat/88/1147].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 547][/us/stat/80/547]; [Pub. L. 90–83][/us/pl/90/83], § 1(61), Sept. 11, 1967, [81 Stat. 211][/us/stat/81/211]; [Pub. L. 93–416][/us/pl/93/416], § 15, Sept. 7, 1974, [88 Stat. 1147][/us/stat/88/1147].)
 
 <table>
 
@@ -142,9 +142,9 @@ July 4, 1966, Pub. L. 89–488, § 10(b), 80 Stat. 255.  </td>
 
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F547
-[/us/pl/90/83/s1/61]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83%2Fs1%2F61
+[/us/pl/90/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83
 [/us/stat/81/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F211
-[/us/pl/93/416/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F416%2Fs15
+[/us/pl/93/416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F416
 [/us/stat/88/1147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1147
 [/us/pl/93/416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F416
 [/us/pl/93/416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F416

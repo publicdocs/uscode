@@ -123,7 +123,7 @@ SUBCHAPTER II—REPORTS  </td>
 
  __Amendments__ 
 
-    1978—[Pub. L. 95–454, title IX, § 906(a)(16)][/us/pl/95/454/s906/a/16], Oct. 13, 1978, [92 Stat. 1226][/us/stat/92/1226], substituted “Office of Personnel Management” for “Civil Service Commission” in item 2951.
+    1978—[Pub. L. 95–454, title IX][/us/pl/95/454/tIX], § 906(a)(16), Oct. 13, 1978, [92 Stat. 1226][/us/stat/92/1226], substituted “Office of Personnel Management” for “Civil Service Commission” in item 2951.
 
 ----------
 
@@ -132,7 +132,7 @@ SUBCHAPTER II—REPORTS  </td>
 ----------
 ----------
 
-[/us/pl/95/454/s906/a/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs906%2Fa%2F16
+[/us/pl/95/454/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtIX
 [/us/stat/92/1226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1226
 
 

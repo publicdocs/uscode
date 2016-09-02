@@ -19,7 +19,7 @@
 
     (b) The Office shall, as appropriate, provide for coordinated enrollment, promotion, and education efforts as appropriate in consultation with each qualified company. The information under this subsection shall include information relating to the vision benefits available under chapter 89, including the advantages and disadvantages of obtaining additional coverage under this chapter.
 
-(Added [Pub. L. 108–496, § 3][/us/pl/108/496/s3], Dec. 23, 2004, [118 Stat. 4010][/us/stat/118/4010].)
+(Added [Pub. L. 108–496][/us/pl/108/496], § 3, Dec. 23, 2004, [118 Stat. 4010][/us/stat/118/4010].)
 
 ----------
 
@@ -28,7 +28,7 @@
 ----------
 ----------
 
-[/us/pl/108/496/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F496%2Fs3
+[/us/pl/108/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F496
 [/us/stat/118/4010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F4010
 
 

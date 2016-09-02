@@ -43,7 +43,7 @@
 
     (f) When a participant in a matter before an agency is represented by an individual qualified under subsection (b) or (c) of this section, a notice or other written communication required or permitted to be given the participant in the matter shall be given to the representative in addition to any other service specifically required by statute. When a participant is represented by more than one such qualified representative, service on any one of the representatives is sufficient.
 
-(Added [Pub. L. 90–83, § 1(1)(A)][/us/pl/90/83/s1/1/A], Sept. 11, 1967, [81 Stat. 195][/us/stat/81/195]; amended [Pub. L. 106–113, div. B, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title IV, § 4732(b)(2)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–583.)
+(Added [Pub. L. 90–83][/us/pl/90/83], § 1(1)(A), Sept. 11, 1967, [81 Stat. 195][/us/stat/81/195]; amended [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(9) \[title IV, § 4732(b)(2)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–583.)
 
 <table>
 
@@ -143,9 +143,9 @@ Nov. 8, 1965, Pub. L. 89–332, § 2, 79 Stat. 1281.  </td>
 ----------
 
 [/us/usc/t5/s551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs551
-[/us/pl/90/83/s1/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83%2Fs1%2F1%2FA
+[/us/pl/90/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83
 [/us/stat/81/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F195
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
 [/us/usc/t5/s2105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs2105
 [/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113

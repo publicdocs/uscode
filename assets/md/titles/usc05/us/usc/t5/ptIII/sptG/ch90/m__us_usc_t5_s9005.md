@@ -29,7 +29,7 @@
 
         Paragraph (1) shall not be construed to exempt any company or other entity issuing a policy of insurance under this chapter from the imposition, payment, or collection of a tax, fee, or other monetary payment on the net income or profit accruing to or realized by such entity from business conducted under this chapter, if that tax, fee, or payment is applicable to a broad range of business activity.
 
-(Added [Pub. L. 106–265, title I, § 1002(a)][/us/pl/106/265/s1002/a], Sept. 19, 2000, [114 Stat. 768][/us/stat/114/768]; amended [Pub. L. 107–104, § 2][/us/pl/107/104/s2], Dec. 27, 2001, [115 Stat. 1001][/us/stat/115/1001].)
+(Added [Pub. L. 106–265, title I][/us/pl/106/265/tI], § 1002(a), Sept. 19, 2000, [114 Stat. 768][/us/stat/114/768]; amended [Pub. L. 107–104][/us/pl/107/104], § 2, Dec. 27, 2001, [115 Stat. 1001][/us/stat/115/1001].)
 
  __Amendments__ 
 
@@ -46,9 +46,9 @@
 ----------
 ----------
 
-[/us/pl/106/265/s1002/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F265%2Fs1002%2Fa
+[/us/pl/106/265/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F265%2FtI
 [/us/stat/114/768]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F768
-[/us/pl/107/104/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F104%2Fs2
+[/us/pl/107/104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F104
 [/us/stat/115/1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1001
 [/us/pl/107/104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F104
 [/us/pl/107/104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F104

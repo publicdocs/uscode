@@ -43,33 +43,33 @@
 
             (C) The Administrator may exercise more than 1 extension under subparagraph (A) with respect to any test program.
 
-(Added [Pub. L. 105–264, § 5(b)][/us/pl/105/264/s5/b], Oct. 19, 1998, [112 Stat. 2355][/us/stat/112/2355]; amended [Pub. L. 109–325, § 1(a)][/us/pl/109/325/s1/a], Oct. 11, 2006, [120 Stat. 1760][/us/stat/120/1760]; [Pub. L. 111–112, § 1(a)][/us/pl/111/112/s1/a], Nov. 30, 2009, [123 Stat. 3024][/us/stat/123/3024].)
+(Added [Pub. L. 105–264][/us/pl/105/264], § 5(b), Oct. 19, 1998, [112 Stat. 2355][/us/stat/112/2355]; amended [Pub. L. 109–325][/us/pl/109/325], § 1(a), Oct. 11, 2006, [120 Stat. 1760][/us/stat/120/1760]; [Pub. L. 111–112][/us/pl/111/112], § 1(a), Nov. 30, 2009, [123 Stat. 3024][/us/stat/123/3024].)
 
  __Amendments__ 
 
-    2009—Subsec. (a)(3). [Pub. L. 111–112, § 1(a)(1)][/us/pl/111/112/s1/a/1], struck out par. (3) which read as follows: “Nothing in this section is intended to limit the authority of any agency to conduct test programs.”
+    2009—Subsec. (a)(3). [Pub. L. 111–112][/us/pl/111/112], § 1(a)(1), struck out par. (3) which read as follows: “Nothing in this section is intended to limit the authority of any agency to conduct test programs.”
 
-    Subsec. (b). [Pub. L. 111–112, § 1(a)(2)][/us/pl/111/112/s1/a/2], inserted “or extended” after “approved” and “or extension” after “of the program”.
+    Subsec. (b). [Pub. L. 111–112][/us/pl/111/112], § 1(a)(2), inserted “or extended” after “approved” and “or extension” after “of the program”.
 
-    Subsec. (c). [Pub. L. 111–112, § 1(a)(3)][/us/pl/111/112/s1/a/3], added subsec. (c) and struck out former subsec. (c) which read as follows: “An agency authorized to conduct a test program under subsection (a) shall provide to the Administrator and the appropriate committees of the Congress a report on the results of the program no later than 3 months after completion of the program.”
+    Subsec. (c). [Pub. L. 111–112][/us/pl/111/112], § 1(a)(3), added subsec. (c) and struck out former subsec. (c) which read as follows: “An agency authorized to conduct a test program under subsection (a) shall provide to the Administrator and the appropriate committees of the Congress a report on the results of the program no later than 3 months after completion of the program.”
 
-    Subsec. (d). [Pub. L. 111–112, § 1(a)(4)][/us/pl/111/112/s1/a/4], substituted “12” for “10”.
+    Subsec. (d). [Pub. L. 111–112][/us/pl/111/112], § 1(a)(4), substituted “12” for “10”.
 
-    Subsec. (e). [Pub. L. 111–112, § 1(a)(5)][/us/pl/111/112/s1/a/5], added subsec. (e) and struck out former subsec. (e) which read as follows: “The authority to conduct test programs under this section shall expire 11 years after the date of the enactment of the Travel and Transportation Reform Act of 1998.”
+    Subsec. (e). [Pub. L. 111–112][/us/pl/111/112], § 1(a)(5), added subsec. (e) and struck out former subsec. (e) which read as follows: “The authority to conduct test programs under this section shall expire 11 years after the date of the enactment of the Travel and Transportation Reform Act of 1998.”
 
-    2006—Subsec. (a)(1). [Pub. L. 109–325, § 1(a)(1)][/us/pl/109/325/s1/a/1], struck out “for a period not to exceed 24 months” after “disbursing official”.
+    2006—Subsec. (a)(1). [Pub. L. 109–325][/us/pl/109/325], § 1(a)(1), struck out “for a period not to exceed 24 months” after “disbursing official”.
 
-    Subsec. (e). [Pub. L. 109–325, § 1(a)(2)][/us/pl/109/325/s1/a/2], substituted “11 years” for “7 years”.
+    Subsec. (e). [Pub. L. 109–325][/us/pl/109/325], § 1(a)(2), substituted “11 years” for “7 years”.
 
  __Effective Date of 2009 Amendment__ 
 
-[Pub. L. 111–112, § 1(b)][/us/pl/111/112/s1/b], Nov. 30, 2009, [123 Stat. 3025][/us/stat/123/3025], provided that: 
+[Pub. L. 111–112][/us/pl/111/112], § 1(b), Nov. 30, 2009, [123 Stat. 3025][/us/stat/123/3025], provided that: 
 
 > “This section \[amending this section\] shall take effect on December 18, 2009.”
 
  __Effective Date of 2006 Amendment__ 
 
-[Pub. L. 109–325, § 1(b)][/us/pl/109/325/s1/b], Oct. 11, 2006, [120 Stat. 1760][/us/stat/120/1760], provided that: 
+[Pub. L. 109–325][/us/pl/109/325], § 1(b), Oct. 11, 2006, [120 Stat. 1760][/us/stat/120/1760], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall take effect as though enacted as part of the Travel and Transportation Reform Act of 1998 ([Public Law 105–264][/us/pl/105/264]; [112 Stat. 2350][/us/stat/112/2350]).”
 
@@ -80,22 +80,22 @@
 ----------
 ----------
 
-[/us/pl/105/264/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F264%2Fs5%2Fb
+[/us/pl/105/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F264
 [/us/stat/112/2355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2355
-[/us/pl/109/325/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F325%2Fs1%2Fa
+[/us/pl/109/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F325
 [/us/stat/120/1760]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1760
-[/us/pl/111/112/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F112%2Fs1%2Fa
+[/us/pl/111/112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F112
 [/us/stat/123/3024]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F3024
-[/us/pl/111/112/s1/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F112%2Fs1%2Fa%2F1
-[/us/pl/111/112/s1/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F112%2Fs1%2Fa%2F2
-[/us/pl/111/112/s1/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F112%2Fs1%2Fa%2F3
-[/us/pl/111/112/s1/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F112%2Fs1%2Fa%2F4
-[/us/pl/111/112/s1/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F112%2Fs1%2Fa%2F5
-[/us/pl/109/325/s1/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F325%2Fs1%2Fa%2F1
-[/us/pl/109/325/s1/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F325%2Fs1%2Fa%2F2
-[/us/pl/111/112/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F112%2Fs1%2Fb
+[/us/pl/111/112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F112
+[/us/pl/111/112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F112
+[/us/pl/111/112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F112
+[/us/pl/111/112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F112
+[/us/pl/111/112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F112
+[/us/pl/109/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F325
+[/us/pl/109/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F325
+[/us/pl/111/112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F112
 [/us/stat/123/3025]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F3025
-[/us/pl/109/325/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F325%2Fs1%2Fb
+[/us/pl/109/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F325
 [/us/stat/120/1760]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1760
 [/us/pl/105/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F264
 [/us/stat/112/2350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2350

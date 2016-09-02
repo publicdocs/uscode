@@ -49,7 +49,7 @@
 
     (2) “part-time career employment” means part-time employment of 16 to 32 hours a week (or 32 to 64 hours during a biweekly pay period in the case of a flexible or compressed work schedule under subchapter II of chapter 61 of this title) under a schedule consisting of an equal or varied number of hours per day, whether in a position which would be part-time without regard to this section or one established to allow job-sharing or comparable arrangements, but does not include employment on a temporary or intermittent basis.
 
-(Added [Pub. L. 95–437, § 3(a)][/us/pl/95/437/s3/a], Oct. 10, 1978, [92 Stat. 1056][/us/stat/92/1056], § 3391; renumbered § 3401 and amended [Pub. L. 95–454, title IX, § 906(c)(1)(B)][/us/pl/95/454/s906/c/1/B], (2)(A), Oct. 13, 1978, [92 Stat. 1226][/us/stat/92/1226]; [Pub. L. 97–221, § 3][/us/pl/97/221/s3], July 23, 1982, [96 Stat. 233][/us/stat/96/233]; [Pub. L. 97–468, title VI, § 615(b)(1)(B)][/us/pl/97/468/s615/b/1/B], Jan. 14, 1983, [96 Stat. 2578][/us/stat/96/2578]; [Pub. L. 102–378, § 2(15)][/us/pl/102/378/s2/15], Oct. 2, 1992, [106 Stat. 1347][/us/stat/106/1347]; [Pub. L. 104–201, div. C, title XXXV, § 3548(a)(1)][/us/pl/104/201/s3548/a/1], Sept. 23, 1996, [110 Stat. 2868][/us/stat/110/2868].)
+(Added [Pub. L. 95–437][/us/pl/95/437], § 3(a), Oct. 10, 1978, [92 Stat. 1056][/us/stat/92/1056], § 3391; renumbered § 3401 and amended [Pub. L. 95–454, title IX][/us/pl/95/454/tIX], § 906(c)(1)(B), (2)(A), Oct. 13, 1978, [92 Stat. 1226][/us/stat/92/1226]; [Pub. L. 97–221][/us/pl/97/221], § 3, July 23, 1982, [96 Stat. 233][/us/stat/96/233]; [Pub. L. 97–468, title VI][/us/pl/97/468/tVI], § 615(b)(1)(B), Jan. 14, 1983, [96 Stat. 2578][/us/stat/96/2578]; [Pub. L. 102–378][/us/pl/102/378], § 2(15), Oct. 2, 1992, [106 Stat. 1347][/us/stat/106/1347]; [Pub. L. 104–201, div. C, title XXXV][/us/pl/104/201/dC/tXXXV], § 3548(a)(1), Sept. 23, 1996, [110 Stat. 2868][/us/stat/110/2868].)
 
  __Amendments__ 
 
@@ -61,9 +61,9 @@
 
     1982—Par. (2). [Pub. L. 97–221][/us/pl/97/221] inserted “(or 32 to 64 hours during a biweekly pay period in the case of a flexible or compressed work schedule under subchapter II of chapter 61 of this title)” after “week”.
 
-    1978—[Pub. L. 95–454, § 906(c)(1)(B)][/us/pl/95/454/s906/c/1/B], renumbered [section 3391 of this title][/us/usc/t5/s3391] as this section.
+    1978—[Pub. L. 95–454][/us/pl/95/454], § 906(c)(1)(B), renumbered [section 3391 of this title][/us/usc/t5/s3391] as this section.
 
-    [Pub. L. 95–454, § 906(c)(2)(A)][/us/pl/95/454/s906/c/2/A], substituted “chapter” for “subchapter”.
+    [Pub. L. 95–454][/us/pl/95/454], § 906(c)(2)(A), substituted “chapter” for “subchapter”.
 
  __Effective Date of 1983 Amendment__ 
 
@@ -81,7 +81,7 @@
 
  __Congressional Findings and Purpose__ 
 
-[Pub. L. 95–437, § 2][/us/pl/95/437/s2], Oct. 10, 1978, [92 Stat. 1055][/us/stat/92/1055], provided that:
+[Pub. L. 95–437][/us/pl/95/437], § 2, Oct. 10, 1978, [92 Stat. 1055][/us/stat/92/1055], provided that:
 
 >     “(a)
 
@@ -114,25 +114,25 @@
 ----------
 ----------
 
-[/us/pl/95/437/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F437%2Fs3%2Fa
+[/us/pl/95/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F437
 [/us/stat/92/1056]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1056
-[/us/pl/95/454/s906/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs906%2Fc%2F1%2FB
+[/us/pl/95/454/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtIX
 [/us/stat/92/1226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1226
-[/us/pl/97/221/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F221%2Fs3
+[/us/pl/97/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F221
 [/us/stat/96/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F233
-[/us/pl/97/468/s615/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F468%2Fs615%2Fb%2F1%2FB
+[/us/pl/97/468/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F468%2FtVI
 [/us/stat/96/2578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2578
-[/us/pl/102/378/s2/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378%2Fs2%2F15
+[/us/pl/102/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378
 [/us/stat/106/1347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1347
-[/us/pl/104/201/s3548/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs3548%2Fa%2F1
+[/us/pl/104/201/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdC%2FtXXXV
 [/us/stat/110/2868]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2868
 [/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
 [/us/pl/102/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378
 [/us/pl/97/468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F468
 [/us/pl/97/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F221
-[/us/pl/95/454/s906/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs906%2Fc%2F1%2FB
+[/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454
 [/us/usc/t5/s3391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3391
-[/us/pl/95/454/s906/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs906%2Fc%2F2%2FA
+[/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454
 [/us/pl/97/468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F468
 [/us/usc/t45/s1203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs1203
 [/us/pl/97/468/s615/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F468%2Fs615%2Fb
@@ -140,7 +140,7 @@
 [/us/pl/95/454/s907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs907
 [/us/usc/t5/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs1101
 [/us/pl/95/437/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F437%2Fs1
-[/us/pl/95/437/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F437%2Fs2
+[/us/pl/95/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F437
 [/us/stat/92/1055]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1055
 
 

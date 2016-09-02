@@ -39,7 +39,7 @@
 
     (c) Prior to using binding arbitration under this subchapter, the head of an agency, in consultation with the Attorney General and after taking into account the factors in section 572(b), shall issue guidance on the appropriate use of binding arbitration and when an officer or employee of the agency has authority to settle an issue in controversy through binding arbitration.
 
-(Added [Pub. L. 101–552, § 4(b)][/us/pl/101/552/s4/b], Nov. 15, 1990, [104 Stat. 2742][/us/stat/104/2742], § 585; renumbered § 575, [Pub. L. 102–354, § 3(b)(2)][/us/pl/102/354/s3/b/2], Aug. 26, 1992, [106 Stat. 944][/us/stat/106/944]; amended [Pub. L. 104–320, § 8(c)][/us/pl/104/320/s8/c], Oct. 19, 1996, [110 Stat. 3872][/us/stat/110/3872].)
+(Added [Pub. L. 101–552][/us/pl/101/552], § 4(b), Nov. 15, 1990, [104 Stat. 2742][/us/stat/104/2742], § 585; renumbered § 575, [Pub. L. 102–354][/us/pl/102/354], § 3(b)(2), Aug. 26, 1992, [106 Stat. 944][/us/stat/106/944]; amended [Pub. L. 104–320][/us/pl/104/320], § 8(c), Oct. 19, 1996, [110 Stat. 3872][/us/stat/110/3872].)
 
  __Codification__ 
 
@@ -51,11 +51,11 @@
 
  __Amendments__ 
 
-    1996—Subsec. (a)(2). [Pub. L. 104–320, § 8(c)(1)][/us/pl/104/320/s8/c/1], (2), substituted “The” for “Any” and inserted at end “Each such arbitration agreement shall specify a maximum award that may be issued by the arbitrator and may specify other conditions limiting the range of possible outcomes.”
+    1996—Subsec. (a)(2). [Pub. L. 104–320][/us/pl/104/320], § 8(c)(1), (2), substituted “The” for “Any” and inserted at end “Each such arbitration agreement shall specify a maximum award that may be issued by the arbitrator and may specify other conditions limiting the range of possible outcomes.”
 
-    Subsec. (b). [Pub. L. 104–320, § 8(c)(3)][/us/pl/104/320/s8/c/3], in introductory provisions substituted “shall not offer to use arbitration for the resolution of issues in controversy unless” for “may offer to use arbitration for the resolution of issues in controversy, if”, and in par. (1) substituted “would otherwise have authority” for “has authority”.
+    Subsec. (b). [Pub. L. 104–320][/us/pl/104/320], § 8(c)(3), in introductory provisions substituted “shall not offer to use arbitration for the resolution of issues in controversy unless” for “may offer to use arbitration for the resolution of issues in controversy, if”, and in par. (1) substituted “would otherwise have authority” for “has authority”.
 
-    Subsec. (c). [Pub. L. 104–320, § 8(c)(4)][/us/pl/104/320/s8/c/4], added subsec. (c).
+    Subsec. (c). [Pub. L. 104–320][/us/pl/104/320], § 8(c)(4), added subsec. (c).
 
     1992—[Pub. L. 102–354][/us/pl/102/354] renumbered [section 585 of this title][/us/usc/t5/s585] as this section.
 
@@ -66,17 +66,17 @@
 ----------
 ----------
 
-[/us/pl/101/552/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F552%2Fs4%2Fb
+[/us/pl/101/552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F552
 [/us/stat/104/2742]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2742
-[/us/pl/102/354/s3/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F354%2Fs3%2Fb%2F2
+[/us/pl/102/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F354
 [/us/stat/106/944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F944
-[/us/pl/104/320/s8/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F320%2Fs8%2Fc
+[/us/pl/104/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F320
 [/us/stat/110/3872]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3872
 [/us/usc/t7/s2259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2259
 [/us/usc/t5/s595]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs595
-[/us/pl/104/320/s8/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F320%2Fs8%2Fc%2F1
-[/us/pl/104/320/s8/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F320%2Fs8%2Fc%2F3
-[/us/pl/104/320/s8/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F320%2Fs8%2Fc%2F4
+[/us/pl/104/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F320
+[/us/pl/104/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F320
+[/us/pl/104/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F320
 [/us/pl/102/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F354
 [/us/usc/t5/s585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs585
 

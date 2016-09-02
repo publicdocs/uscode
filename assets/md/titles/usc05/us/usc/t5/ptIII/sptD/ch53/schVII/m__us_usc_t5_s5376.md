@@ -47,7 +47,7 @@
 
         (4) No employee may suffer a reduction in pay by reason of transfer from an agency with an applicable maximum rate of pay prescribed under paragraph (3) to an agency with an applicable maximum rate of pay prescribed under paragraph (1)(B).
 
-(Added [Pub. L. 101–509, title V, § 529][/us/pl/101/509/s529] \[title I, § 102(a)(1)\], Nov. 5, 1990, [104 Stat. 1427][/us/stat/104/1427], 1443; amended [Pub. L. 110–372, § 2(b)][/us/pl/110/372/s2/b], Oct. 8, 2008, [122 Stat. 4044][/us/stat/122/4044].)
+(Added [Pub. L. 101–509, title V][/us/pl/101/509/tV], § 529 \[title I, § 102(a)(1)\], Nov. 5, 1990, [104 Stat. 1427][/us/stat/104/1427], 1443; amended [Pub. L. 110–372][/us/pl/110/372], § 2(b), Oct. 8, 2008, [122 Stat. 4044][/us/stat/122/4044].)
 
  __References in Text__ 
 
@@ -57,13 +57,13 @@
 
  __Amendments__ 
 
-    2008—Subsec. (b)(1)(B). [Pub. L. 110–372, § 2(b)(1)][/us/pl/110/372/s2/b/1], added subpar. (B) and struck out former subpar. (B) which read as follows: “not greater than the rate of basic pay payable for level IV of the Executive Schedule.”.
+    2008—Subsec. (b)(1)(B). [Pub. L. 110–372][/us/pl/110/372], § 2(b)(1), added subpar. (B) and struck out former subpar. (B) which read as follows: “not greater than the rate of basic pay payable for level IV of the Executive Schedule.”.
 
-    Subsec. (b)(3), (4). [Pub. L. 110–372, § 2(b)(2)][/us/pl/110/372/s2/b/2], added pars. (3) and (4).
+    Subsec. (b)(3), (4). [Pub. L. 110–372][/us/pl/110/372], § 2(b)(2), added pars. (3) and (4).
 
  __Effective Date of 2008 Amendment__ 
 
-[Pub. L. 110–372, § 2(d)][/us/pl/110/372/s2/d], Oct. 8, 2008, [122 Stat. 4044][/us/stat/122/4044], provided that:
+[Pub. L. 110–372][/us/pl/110/372], § 2(d), Oct. 8, 2008, [122 Stat. 4044][/us/stat/122/4044], provided that:
 
 >     “(1)  __Effective date__  __.—__ 
 
@@ -99,7 +99,7 @@
 
  __References in Other Laws to GS–16, 17, or 18 Pay Rates; Regulations__ 
 
-[Pub. L. 101–509, title V, § 529][/us/pl/101/509/s529] \[title I, § 101(c), (d)\], Nov. 5, 1990, [104 Stat. 1427][/us/stat/104/1427], 1442, provided that:
+[Pub. L. 101–509, title V][/us/pl/101/509/tV], § 529 \[title I, § 101(c), (d)\], Nov. 5, 1990, [104 Stat. 1427][/us/stat/104/1427], 1442, provided that:
 
 >     “(c)  __Other References__  __.—__ 
 
@@ -140,14 +140,14 @@
 ----------
 ----------
 
-[/us/pl/101/509/s529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2Fs529
+[/us/pl/101/509/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2FtV
 [/us/stat/104/1427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1427
-[/us/pl/110/372/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F372%2Fs2%2Fb
+[/us/pl/110/372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F372
 [/us/stat/122/4044]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4044
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
-[/us/pl/110/372/s2/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F372%2Fs2%2Fb%2F1
-[/us/pl/110/372/s2/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F372%2Fs2%2Fb%2F2
-[/us/pl/110/372/s2/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F372%2Fs2%2Fd
+[/us/pl/110/372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F372
+[/us/pl/110/372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F372
+[/us/pl/110/372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F372
 [/us/stat/122/4044]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4044
 [/us/usc/t5/s5376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5376
 [/us/usc/t5/s5376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5376
@@ -157,7 +157,7 @@
 [/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
 [/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509
 [/us/usc/t5/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5301
-[/us/pl/101/509/s529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2Fs529
+[/us/pl/101/509/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2FtV
 [/us/stat/104/1427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1427
 [/us/usc/t5/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5301
 [/us/usc/t5/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5301

@@ -17,7 +17,7 @@
 
  __Amendments__ 
 
-    1993—[Pub. L. 103–94, § 2(a)][/us/pl/103/94/s2/a], Oct. 6, 1993, [107 Stat. 1001][/us/stat/107/1001], reenacted subchapter heading without change.
+    1993—[Pub. L. 103–94][/us/pl/103/94], § 2(a), Oct. 6, 1993, [107 Stat. 1001][/us/stat/107/1001], reenacted subchapter heading without change.
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/103/94/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F94%2Fs2%2Fa
+[/us/pl/103/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F94
 [/us/stat/107/1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1001
 
 

@@ -37,7 +37,7 @@
 
         (2) participation in scheduled drills or training periods, or service on active duty for training, under [section 10147 of title 10][/us/usc/t10/s10147], United States Code, by a member of the Ready Reserve.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 478][/us/stat/80/478]; [Pub. L. 94–455, title XII, § 1207(a)(1)][/us/pl/94/455/s1207/a/1], (b), (c), Oct. 4, 1976, [90 Stat. 1704][/us/stat/90/1704], 1705; [Pub. L. 100–180, div. A, title V, § 505(1)][/us/pl/100/180/s505/1], Dec. 4, 1987, [101 Stat. 1086][/us/stat/101/1086]; [Pub. L. 103–337, div. A, title XVI, § 1677(a)(1)][/us/pl/103/337/s1677/a/1], Oct. 5, 1994, [108 Stat. 3019][/us/stat/108/3019]; [Pub. L. 105–34, title XIV, § 1462(a)][/us/pl/105/34/s1462/a], Aug. 5, 1997, [111 Stat. 1057][/us/stat/111/1057].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 478][/us/stat/80/478]; [Pub. L. 94–455, title XII][/us/pl/94/455/tXII], § 1207(a)(1), (b), (c), Oct. 4, 1976, [90 Stat. 1704][/us/stat/90/1704], 1705; [Pub. L. 100–180, div. A, title V][/us/pl/100/180/dA/tV], § 505(1), Dec. 4, 1987, [101 Stat. 1086][/us/stat/101/1086]; [Pub. L. 103–337, div. A, title XVI][/us/pl/103/337/dA/tXVI], § 1677(a)(1), Oct. 5, 1994, [108 Stat. 3019][/us/stat/108/3019]; [Pub. L. 105–34, title XIV][/us/pl/105/34/tXIV], § 1462(a), Aug. 5, 1997, [111 Stat. 1057][/us/stat/111/1057].)
 
 <table>
 
@@ -145,9 +145,9 @@ Sept. 23, 1959, Pub. L. 86–371 “Sec. 2”, 73 Stat. 653.  </td>
 
     1987—Subsec. (d). [Pub. L. 100–180][/us/pl/100/180] struck out “do not” before “include”.
 
-    1976—Subsec. (a). [Pub. L. 94–455, § 1207(a)(1)][/us/pl/94/455/s1207/a/1], (c), inserted in par. (1) provision relating to the grant to employers of the authority to withhold sums from the pay of employees if any employee voluntarily elects to have such sums withheld, inserted in par. (2) “or grants the authority” after “imposes the duty”, and substituted in text following par. (2) provisions that in the case of pay for service as a member of the armed forces, the preceding sentence shall be applied by substituting “who are residents of the State with which the agreement is made” for “whose regular place of Federal employment is within the State with which the agreement is made” for provision that the agreement may not apply to pay for service as a member of the armed forces.
+    1976—Subsec. (a). [Pub. L. 94–455][/us/pl/94/455], § 1207(a)(1), (c), inserted in par. (1) provision relating to the grant to employers of the authority to withhold sums from the pay of employees if any employee voluntarily elects to have such sums withheld, inserted in par. (2) “or grants the authority” after “imposes the duty”, and substituted in text following par. (2) provisions that in the case of pay for service as a member of the armed forces, the preceding sentence shall be applied by substituting “who are residents of the State with which the agreement is made” for “whose regular place of Federal employment is within the State with which the agreement is made” for provision that the agreement may not apply to pay for service as a member of the armed forces.
 
-    Subsec. (d). [Pub. L. 94–455, § 1207(b)][/us/pl/94/455/s1207/b], added subsec. (d).
+    Subsec. (d). [Pub. L. 94–455][/us/pl/94/455], § 1207(b), added subsec. (d).
 
  __Effective Date of 1997 Amendment__ 
 
@@ -163,7 +163,7 @@ Sept. 23, 1959, Pub. L. 86–371 “Sec. 2”, 73 Stat. 653.  </td>
 
     Amendment by [section 1207(a)(1) of Pub. L. 94–455][/us/pl/94/455/s1207/a/1] applicable to wages withheld after the 120-day period following any request for an agreement after Oct. 4, 1976, see [section 1207(f)(1) of Pub. L. 94–455][/us/pl/94/455/s1207/f/1], set out as a note under [section 5516 of this title][/us/usc/t5/s5516].
 
-[Pub. L. 94–455, title XII, § 1207(f)(2)][/us/pl/94/455/s1207/f/2], Oct. 4, 1976, [90 Stat. 1708][/us/stat/90/1708], provided that: 
+[Pub. L. 94–455, title XII][/us/pl/94/455/tXII], § 1207(f)(2), Oct. 4, 1976, [90 Stat. 1708][/us/stat/90/1708], provided that: 
 
 > “The amendments made by subsections (b) and (c) \[amending this section\] shall apply to wages withheld after the 120-day period following the date of the enactment of this Act \[Oct. 4, 1976\].”
 
@@ -182,19 +182,19 @@ Sept. 23, 1959, Pub. L. 86–371 “Sec. 2”, 73 Stat. 653.  </td>
 [/us/usc/t10/s10147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs10147
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F478
-[/us/pl/94/455/s1207/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1207%2Fa%2F1
+[/us/pl/94/455/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXII
 [/us/stat/90/1704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1704
-[/us/pl/100/180/s505/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs505%2F1
+[/us/pl/100/180/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2FdA%2FtV
 [/us/stat/101/1086]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1086
-[/us/pl/103/337/s1677/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1677%2Fa%2F1
+[/us/pl/103/337/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXVI
 [/us/stat/108/3019]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3019
-[/us/pl/105/34/s1462/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1462%2Fa
+[/us/pl/105/34/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtXIV
 [/us/stat/111/1057]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1057
 [/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
 [/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/pl/100/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180
-[/us/pl/94/455/s1207/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1207%2Fa%2F1
-[/us/pl/94/455/s1207/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1207%2Fb
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/105/34/s1462/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1462%2Fb
 [/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/pl/103/337/s1691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1691
@@ -202,7 +202,7 @@ Sept. 23, 1959, Pub. L. 86–371 “Sec. 2”, 73 Stat. 653.  </td>
 [/us/pl/94/455/s1207/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1207%2Fa%2F1
 [/us/pl/94/455/s1207/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1207%2Ff%2F1
 [/us/usc/t5/s5516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5516
-[/us/pl/94/455/s1207/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1207%2Ff%2F2
+[/us/pl/94/455/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXII
 [/us/stat/90/1708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1708
 [/us/usc/t5/s5520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5520
 

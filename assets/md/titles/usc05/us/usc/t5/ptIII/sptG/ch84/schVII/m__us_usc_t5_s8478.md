@@ -71,19 +71,19 @@
 
     (f) The Secretary of Labor shall prescribe such regulations as may be necessary to carry out the provisions of this section, including exempting a person or class of persons from the requirements of this section.
 
-(Added [Pub. L. 99–335, title I, § 101(a)][/us/pl/99/335/s101/a], June 6, 1986, [100 Stat. 586][/us/stat/100/586]; amended [Pub. L. 99–556, title I][/us/pl/99/556], §§ 108, 115, Oct. 27, 1986, [100 Stat. 3132][/us/stat/100/3132], 3134; [Pub. L. 102–378, § 2(72)][/us/pl/102/378/s2/72], Oct. 2, 1992, [106 Stat. 1355][/us/stat/106/1355].)
+(Added [Pub. L. 99–335, title I][/us/pl/99/335/tI], § 101(a), June 6, 1986, [100 Stat. 586][/us/stat/100/586]; amended [Pub. L. 99–556, title I][/us/pl/99/556/tI], §§ 108, 115, Oct. 27, 1986, [100 Stat. 3132][/us/stat/100/3132], 3134; [Pub. L. 102–378][/us/pl/102/378], § 2(72), Oct. 2, 1992, [106 Stat. 1355][/us/stat/106/1355].)
 
  __Amendments__ 
 
     1992—Subsec. (a)(2)(B)(iii). [Pub. L. 102–378][/us/pl/102/378] struck out “Corporation or the Federal Savings and Loan Insurance” before “Corporation”.
 
-    1986—Subsec. (a)(1). [Pub. L. 99–556, § 108][/us/pl/99/556/s108], struck out “(other than a member of the Employee Thrift Advisory Council with respect to his duties as a member)” after “each fiduciary”.
+    1986—Subsec. (a)(1). [Pub. L. 99–556][/us/pl/99/556], § 108, struck out “(other than a member of the Employee Thrift Advisory Council with respect to his duties as a member)” after “each fiduciary”.
 
-    Subsec. (c)(2). [Pub. L. 99–556, § 115][/us/pl/99/556/s115], substituted “sections 9304 through 9308 of title 31” for “sections 6 through 13 of title 6”.
+    Subsec. (c)(2). [Pub. L. 99–556][/us/pl/99/556], § 115, substituted “sections 9304 through 9308 of title 31” for “sections 6 through 13 of title 6”.
 
  __Interim Bonding Regulations__ 
 
-[Pub. L. 99–556, title I, § 113][/us/pl/99/556/s113], Oct. 27, 1986, [100 Stat. 3133][/us/stat/100/3133], provided that:
+[Pub. L. 99–556, title I][/us/pl/99/556/tI], § 113, Oct. 27, 1986, [100 Stat. 3133][/us/stat/100/3133], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -100,16 +100,16 @@
 ----------
 ----------
 
-[/us/pl/99/335/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2Fs101%2Fa
+[/us/pl/99/335/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2FtI
 [/us/stat/100/586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F586
-[/us/pl/99/556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F556
+[/us/pl/99/556/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F556%2FtI
 [/us/stat/100/3132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3132
-[/us/pl/102/378/s2/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378%2Fs2%2F72
+[/us/pl/102/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378
 [/us/stat/106/1355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1355
 [/us/pl/102/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378
-[/us/pl/99/556/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F556%2Fs108
-[/us/pl/99/556/s115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F556%2Fs115
-[/us/pl/99/556/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F556%2Fs113
+[/us/pl/99/556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F556
+[/us/pl/99/556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F556
+[/us/pl/99/556/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F556%2FtI
 [/us/stat/100/3133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3133
 [/us/usc/t5/s8478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8478
 [/us/usc/t29/s1112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1112

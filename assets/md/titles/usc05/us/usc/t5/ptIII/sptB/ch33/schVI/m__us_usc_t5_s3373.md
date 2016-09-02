@@ -61,7 +61,7 @@
 
             (C) deny any concurrent benefit to him from the State or local government on account of the death of another individual.
 
-(Added [Pub. L. 91–648, title IV, § 402(a)][/us/pl/91/648/s402/a], Jan. 5, 1971, [84 Stat. 1921][/us/stat/84/1921]; amended [Pub. L. 95–454, title VI, § 603(b)][/us/pl/95/454/s603/b], title IX, § 906(a)(2), Oct. 13, 1978, [92 Stat. 1190][/us/stat/92/1190], 1224; [Pub. L. 102–378, § 2(14)][/us/pl/102/378/s2/14], Oct. 2, 1992, [106 Stat. 1347][/us/stat/106/1347].)
+(Added [Pub. L. 91–648, title IV][/us/pl/91/648/tIV], § 402(a), Jan. 5, 1971, [84 Stat. 1921][/us/stat/84/1921]; amended [Pub. L. 95–454, title VI][/us/pl/95/454/tVI], § 603(b), title IX, § 906(a)(2), Oct. 13, 1978, [92 Stat. 1190][/us/stat/92/1190], 1224; [Pub. L. 102–378][/us/pl/102/378], § 2(14), Oct. 2, 1992, [106 Stat. 1347][/us/stat/106/1347].)
 
  __References in Text__ 
 
@@ -71,7 +71,7 @@
 
     1992—[Pub. L. 102–378][/us/pl/102/378] substituted “or local” for “and local” in section catchline.
 
-    1978—Subsecs. (a), (b). [Pub. L. 95–454, § 603(b)][/us/pl/95/454/s603/b], substituted “a Federal” for “an executive” and “Federal agency” for “executive agency”.
+    1978—Subsecs. (a), (b). [Pub. L. 95–454][/us/pl/95/454], § 603(b), substituted “a Federal” for “an executive” and “Federal agency” for “executive agency”.
 
     Subsec. (c). [Pub. L. 95–454][/us/pl/95/454], §§ 603(b), 906(a)(2), substituted “Federal agency” for “executive agency” wherever appearing, and “Office of Personnel Management” for “Civil Service Commission”.
 
@@ -87,18 +87,18 @@
 ----------
 
 [/us/usc/t5/s8101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8101
-[/us/pl/91/648/s402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F648%2Fs402%2Fa
+[/us/pl/91/648/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F648%2FtIV
 [/us/stat/84/1921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1921
-[/us/pl/95/454/s603/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs603%2Fb
+[/us/pl/95/454/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtVI
 [/us/stat/92/1190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1190
-[/us/pl/102/378/s2/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378%2Fs2%2F14
+[/us/pl/102/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378
 [/us/stat/106/1347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1347
 [/us/act/1946-08-02/ch753]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-02%2Fch753
 [/us/stat/60/842]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F842
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/992]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F992
 [/us/pl/102/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378
-[/us/pl/95/454/s603/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs603%2Fb
+[/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454
 [/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454
 [/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454
 [/us/pl/95/454/s907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs907

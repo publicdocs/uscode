@@ -31,11 +31,11 @@
 
     (b) The regulations prescribed by the President shall include provisions for determining the rate at which an allowance under this section shall be paid.
 
-(Added [Pub. L. 102–190, div. A, title X, § 1092(a)(1)][/us/pl/102/190/s1092/a/1], Dec. 5, 1991, [105 Stat. 1486][/us/stat/105/1486].)
+(Added [Pub. L. 102–190, div. A, title X][/us/pl/102/190/dA/tX], § 1092(a)(1), Dec. 5, 1991, [105 Stat. 1486][/us/stat/105/1486].)
 
  __Effective Date__ 
 
-[Pub. L. 102–190, div. A, title X, § 1092(b)][/us/pl/102/190/s1092/b], Dec. 5, 1991, [105 Stat. 1487][/us/stat/105/1487], provided that: 
+[Pub. L. 102–190, div. A, title X][/us/pl/102/190/dA/tX], § 1092(b), Dec. 5, 1991, [105 Stat. 1487][/us/stat/105/1487], provided that: 
 
 > “The amendments made by subsection (a) \[enacting this section\] shall take effect on the first day of the first month beginning on or after the date of the enactment of this Act \[Dec. 5, 1991\].”
 
@@ -51,9 +51,9 @@
 ----------
 
 [/us/usc/t5/s5536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5536
-[/us/pl/102/190/s1092/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs1092%2Fa%2F1
+[/us/pl/102/190/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdA%2FtX
 [/us/stat/105/1486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1486
-[/us/pl/102/190/s1092/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs1092%2Fb
+[/us/pl/102/190/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdA%2FtX
 [/us/stat/105/1487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1487
 [/us/usc/t3/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs301
 

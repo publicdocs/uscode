@@ -89,7 +89,7 @@
 
         Second, if there is no executor or administrator, payment may be made, after 30 days from the date of death of the survivor, to such next of kin of the survivor as the Office determines to be entitled under the laws of the domicile of the survivor at the date of death.
 
-(Added [Pub. L. 99–335, title I, § 101(a)][/us/pl/99/335/s101/a], June 6, 1986, [100 Stat. 539][/us/stat/100/539]; amended [Pub. L. 106–361, § 3(b)][/us/pl/106/361/s3/b], Oct. 27, 2000, [114 Stat. 1402][/us/stat/114/1402]; [Pub. L. 111–84, div. A, title XIX, § 1904(b)(4)][/us/pl/111/84/s1904/b/4], Oct. 28, 2009, [123 Stat. 2617][/us/stat/123/2617].)
+(Added [Pub. L. 99–335, title I][/us/pl/99/335/tI], § 101(a), June 6, 1986, [100 Stat. 539][/us/stat/100/539]; amended [Pub. L. 106–361][/us/pl/106/361], § 3(b), Oct. 27, 2000, [114 Stat. 1402][/us/stat/114/1402]; [Pub. L. 111–84, div. A, title XIX][/us/pl/111/84/dA/tXIX], § 1904(b)(4), Oct. 28, 2009, [123 Stat. 2617][/us/stat/123/2617].)
 
  __Amendments__ 
 
@@ -112,11 +112,11 @@
 ----------
 ----------
 
-[/us/pl/99/335/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2Fs101%2Fa
+[/us/pl/99/335/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2FtI
 [/us/stat/100/539]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F539
-[/us/pl/106/361/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F361%2Fs3%2Fb
+[/us/pl/106/361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F361
 [/us/stat/114/1402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1402
-[/us/pl/111/84/s1904/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs1904%2Fb%2F4
+[/us/pl/111/84/dA/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtXIX
 [/us/stat/123/2617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2617
 [/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
 [/us/pl/106/361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F361

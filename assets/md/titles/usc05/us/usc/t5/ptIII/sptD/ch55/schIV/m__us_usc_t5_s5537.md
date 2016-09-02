@@ -27,7 +27,7 @@
 
     (c) For the purpose of this section, “court of the United States” has the meaning given it by [section 451 of title 28][/us/usc/t28/s451] and includes the District Court of Guam and the District Court of the Virgin Islands.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 484][/us/stat/80/484]; [Pub. L. 90–623, § 1(12)][/us/pl/90/623/s1/12], Oct. 22, 1968, [82 Stat. 1312][/us/stat/82/1312]; [Pub. L. 91–563, § 3(a)][/us/pl/91/563/s3/a], Dec. 19, 1970, [84 Stat. 1477][/us/stat/84/1477]; [Pub. L. 101–650, title III, § 321][/us/pl/101/650/s321], Dec. 1, 1990, [104 Stat. 5117][/us/stat/104/5117]; [Pub. L. 104–186, title II, § 215(8)][/us/pl/104/186/s215/8], Aug. 20, 1996, [110 Stat. 1746][/us/stat/110/1746]; [Pub. L. 104–201, div. C, title XXXV, § 3548(a)(5)][/us/pl/104/201/s3548/a/5], Sept. 23, 1996, [110 Stat. 2868][/us/stat/110/2868]; [Pub. L. 111–145, § 7(c)(2)][/us/pl/111/145/s7/c/2], Mar. 4, 2010, [124 Stat. 55][/us/stat/124/55].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 484][/us/stat/80/484]; [Pub. L. 90–623][/us/pl/90/623], § 1(12), Oct. 22, 1968, [82 Stat. 1312][/us/stat/82/1312]; [Pub. L. 91–563][/us/pl/91/563], § 3(a), Dec. 19, 1970, [84 Stat. 1477][/us/stat/84/1477]; [Pub. L. 101–650, title III][/us/pl/101/650/tIII], § 321, Dec. 1, 1990, [104 Stat. 5117][/us/stat/104/5117]; [Pub. L. 104–186, title II][/us/pl/104/186/tII], § 215(8), Aug. 20, 1996, [110 Stat. 1746][/us/stat/110/1746]; [Pub. L. 104–201, div. C, title XXXV][/us/pl/104/201/dC/tXXXV], § 3548(a)(5), Sept. 23, 1996, [110 Stat. 2868][/us/stat/110/2868]; [Pub. L. 111–145][/us/pl/111/145], § 7(c)(2), Mar. 4, 2010, [124 Stat. 55][/us/stat/124/55].)
 
 <table>
 
@@ -114,17 +114,17 @@ June 29, 1940, ch. 446, § 2, 54 Stat. 689.  </td>
 [/us/usc/t28/s451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs451
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F484
-[/us/pl/90/623/s1/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F623%2Fs1%2F12
+[/us/pl/90/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F623
 [/us/stat/82/1312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1312
-[/us/pl/91/563/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F563%2Fs3%2Fa
+[/us/pl/91/563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F563
 [/us/stat/84/1477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1477
-[/us/pl/101/650/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs321
+[/us/pl/101/650/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2FtIII
 [/us/stat/104/5117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F5117
-[/us/pl/104/186/s215/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2Fs215%2F8
+[/us/pl/104/186/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2FtII
 [/us/stat/110/1746]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1746
-[/us/pl/104/201/s3548/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs3548%2Fa%2F5
+[/us/pl/104/201/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdC%2FtXXXV
 [/us/stat/110/2868]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2868
-[/us/pl/111/145/s7/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F145%2Fs7%2Fc%2F2
+[/us/pl/111/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F145
 [/us/stat/124/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F55
 [/us/pl/111/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F145
 [/us/pl/104/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186

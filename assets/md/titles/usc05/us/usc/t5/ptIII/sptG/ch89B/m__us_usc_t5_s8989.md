@@ -17,7 +17,7 @@
 
     The terms of any contract that relate to the nature, provision, or extent of coverage or benefits (including payments with respect to benefits) shall supersede and preempt any State or local law, or any regulation issued thereunder, which relates to vision benefits, insurance, plans, or contracts.
 
-(Added [Pub. L. 108–496, § 3][/us/pl/108/496/s3], Dec. 23, 2004, [118 Stat. 4010][/us/stat/118/4010].)
+(Added [Pub. L. 108–496][/us/pl/108/496], § 3, Dec. 23, 2004, [118 Stat. 4010][/us/stat/118/4010].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/108/496/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F496%2Fs3
+[/us/pl/108/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F496
 [/us/stat/118/4010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F4010
 
 

@@ -21,7 +21,7 @@
 
     (c) Regulations under this section may provide for such exceptions as may be necessary to efficiently carry out the mission of the agency or agencies involved.
 
-(Added [Pub. L. 95–390, title IV, § 401(a)][/us/pl/95/390/s401/a], Sept. 29, 1978, [92 Stat. 762][/us/stat/92/762]; amended [Pub. L. 96–54, § 2(a)(14)][/us/pl/96/54/s2/a/14], (15), Aug. 14, 1979, [93 Stat. 382][/us/stat/93/382].)
+(Added [Pub. L. 95–390, title IV][/us/pl/95/390/tIV], § 401(a), Sept. 29, 1978, [92 Stat. 762][/us/stat/92/762]; amended [Pub. L. 96–54][/us/pl/96/54], § 2(a)(14), (15), Aug. 14, 1979, [93 Stat. 382][/us/stat/93/382].)
 
  __References in Text__ 
 
@@ -43,9 +43,9 @@
 ----------
 
 [/us/usc/t5/s5541/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5541%2F1
-[/us/pl/95/390/s401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F390%2Fs401%2Fa
+[/us/pl/95/390/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F390%2FtIV
 [/us/stat/92/762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F762
-[/us/pl/96/54/s2/a/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F54%2Fs2%2Fa%2F14
+[/us/pl/96/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F54
 [/us/stat/93/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F382
 [/us/pl/95/390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F390
 [/us/pl/96/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F54

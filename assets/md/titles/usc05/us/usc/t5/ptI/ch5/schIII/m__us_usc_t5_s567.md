@@ -17,7 +17,7 @@
 
     A negotiated rulemaking committee shall terminate upon promulgation of the final rule under consideration, unless the committee’s charter contains an earlier termination date or the agency, after consulting the committee, or the committee itself specifies an earlier termination date.
 
-(Added [Pub. L. 101–648, § 3(a)][/us/pl/101/648/s3/a], Nov. 29, 1990, [104 Stat. 4974][/us/stat/104/4974], § 587; renumbered § 567, [Pub. L. 102–354, § 3(a)(2)][/us/pl/102/354/s3/a/2], Aug. 26, 1992, [106 Stat. 944][/us/stat/106/944].)
+(Added [Pub. L. 101–648][/us/pl/101/648], § 3(a), Nov. 29, 1990, [104 Stat. 4974][/us/stat/104/4974], § 587; renumbered § 567, [Pub. L. 102–354][/us/pl/102/354], § 3(a)(2), Aug. 26, 1992, [106 Stat. 944][/us/stat/106/944].)
 
  __Amendments__ 
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/pl/101/648/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F648%2Fs3%2Fa
+[/us/pl/101/648]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F648
 [/us/stat/104/4974]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4974
-[/us/pl/102/354/s3/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F354%2Fs3%2Fa%2F2
+[/us/pl/102/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F354
 [/us/stat/106/944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F944
 [/us/pl/102/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F354
 [/us/usc/t5/s587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs587

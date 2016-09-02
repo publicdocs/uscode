@@ -85,7 +85,7 @@
 
             (F) holding managers and human resources officers accountable for efficient and effective human resources management in support of agency missions in accordance with merit system principles.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 399][/us/stat/80/399]; [Pub. L. 95–454, title II, § 201(a)][/us/pl/95/454/s201/a], Oct. 13, 1978, [92 Stat. 1119][/us/stat/92/1119]; [Pub. L. 99–251, title III][/us/pl/99/251], §§ 301, 302, Feb. 27, 1986, [100 Stat. 26][/us/stat/100/26]; [Pub. L. 107–296, title XIII, § 1304][/us/pl/107/296/s1304], Nov. 25, 2002, [116 Stat. 2289][/us/stat/116/2289].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 399][/us/stat/80/399]; [Pub. L. 95–454, title II][/us/pl/95/454/tII], § 201(a), Oct. 13, 1978, [92 Stat. 1119][/us/stat/92/1119]; [Pub. L. 99–251, title III][/us/pl/99/251/tIII], §§ 301, 302, Feb. 27, 1986, [100 Stat. 26][/us/stat/100/26]; [Pub. L. 107–296, title XIII][/us/pl/107/296/tXIII], § 1304, Nov. 25, 2002, [116 Stat. 2289][/us/stat/116/2289].)
 
 <table>
 
@@ -155,15 +155,15 @@ July 31, 1956, ch. 804, § 201(b), 70 Stat. 742.  </td>
 
     2002—Subsec. (c). [Pub. L. 107–296][/us/pl/107/296] added subsec. (c).
 
-    1986—Subsec. (a)(9). [Pub. L. 99–251, § 301][/us/pl/99/251/s301], added par. (9).
+    1986—Subsec. (a)(9). [Pub. L. 99–251][/us/pl/99/251], § 301, added par. (9).
 
-    Subsec. (b)(4). [Pub. L. 99–251, § 302][/us/pl/99/251/s302], added par. (4).
+    Subsec. (b)(4). [Pub. L. 99–251][/us/pl/99/251], § 302, added par. (4).
 
     1978—[Pub. L. 95–454][/us/pl/95/454] substituted “Functions of the Director” for “Chairman; Vice Chairman; Executive Director” in section catchline, and in text provisions relating to the functions of the Director of the Office of Personnel Management for provisions relating to the Chairman, Vice Chairman, and Executive Director of the United States Civil Service Commission.
 
  __Effective Date of 2002 Amendment__ 
 
-[Pub. L. 107–296, title XIII, § 1305][/us/pl/107/296/s1305], Nov. 25, 2002, [116 Stat. 2289][/us/stat/116/2289], provided that: 
+[Pub. L. 107–296, title XIII][/us/pl/107/296/tXIII], § 1305, Nov. 25, 2002, [116 Stat. 2289][/us/stat/116/2289], provided that: 
 
 > “This subtitle \[subtitle A (§§ 1301–1305) of title XIII of [Pub. L. 107–296][/us/pl/107/296], enacting chapter 14 of this title, amending this section, and enacting provisions set out as a note under [section 1401 of this title][/us/usc/t5/s1401]\] shall take effect 180 days after the date of enactment of this Act \[Nov. 25, 2002\].”
 
@@ -182,17 +182,17 @@ July 31, 1956, ch. 804, § 201(b), 70 Stat. 742.  </td>
 [/us/usc/t5/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs1105
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F399
-[/us/pl/95/454/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs201%2Fa
+[/us/pl/95/454/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtII
 [/us/stat/92/1119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1119
-[/us/pl/99/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F251
+[/us/pl/99/251/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F251%2FtIII
 [/us/stat/100/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F26
-[/us/pl/107/296/s1304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1304
+[/us/pl/107/296/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXIII
 [/us/stat/116/2289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2289
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
-[/us/pl/99/251/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F251%2Fs301
-[/us/pl/99/251/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F251%2Fs302
+[/us/pl/99/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F251
+[/us/pl/99/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F251
 [/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454
-[/us/pl/107/296/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1305
+[/us/pl/107/296/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXIII
 [/us/stat/116/2289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2289
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/usc/t5/s1401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs1401

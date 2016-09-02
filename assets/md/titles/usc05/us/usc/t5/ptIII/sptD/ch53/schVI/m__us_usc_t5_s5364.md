@@ -25,11 +25,11 @@
 
     (4) to place certain employees, notwithstanding the fact their previous position was in a different agency, but only in circumstances in which the Office determines the exercise of such authority is necessary to carry out the purpose of this section.
 
-(Added [Pub. L. 95–454, title VIII, § 801(a)(1)][/us/pl/95/454/s801/a/1], Oct. 13, 1978, [92 Stat. 1220][/us/stat/92/1220].)
+(Added [Pub. L. 95–454, title VIII][/us/pl/95/454/tVIII], § 801(a)(1), Oct. 13, 1978, [92 Stat. 1220][/us/stat/92/1220].)
 
  __Prior Provisions__ 
 
-    A prior section 5364, [Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 473][/us/stat/80/473], which related to miscellaneous positions in the executive branch, was renumbered [section 5374 of this title][/us/usc/t5/s5374] by [Pub. L. 95–454, title VIII, § 801(a)(3)(A)(ii)][/us/pl/95/454/s801/a/3/A/ii], Oct. 13, 1978, [92 Stat. 1221][/us/stat/92/1221].
+    A prior section 5364, [Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 473][/us/stat/80/473], which related to miscellaneous positions in the executive branch, was renumbered [section 5374 of this title][/us/usc/t5/s5374] by [Pub. L. 95–454, title VIII][/us/pl/95/454/tVIII], § 801(a)(3)(A)(ii), Oct. 13, 1978, [92 Stat. 1221][/us/stat/92/1221].
 
 ----------
 
@@ -38,12 +38,12 @@
 ----------
 ----------
 
-[/us/pl/95/454/s801/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs801%2Fa%2F1
+[/us/pl/95/454/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtVIII
 [/us/stat/92/1220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1220
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F473
 [/us/usc/t5/s5374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5374
-[/us/pl/95/454/s801/a/3/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs801%2Fa%2F3%2FA%2Fii
+[/us/pl/95/454/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtVIII
 [/us/stat/92/1221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1221
 
 

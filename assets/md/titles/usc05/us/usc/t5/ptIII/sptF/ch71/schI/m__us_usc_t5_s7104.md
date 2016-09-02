@@ -47,13 +47,13 @@
 
         (3) The General Counsel shall have direct authority over, and responsibility for, all employees in the office of General Counsel, including employees of the General Counsel in the regional offices of the Authority.
 
-(Added [Pub. L. 95–454, title VII, § 701][/us/pl/95/454/s701], Oct. 13, 1978, [92 Stat. 1196][/us/stat/92/1196]; amended [Pub. L. 98–224, § 3][/us/pl/98/224/s3], Mar. 2, 1984, [98 Stat. 47][/us/stat/98/47].)
+(Added [Pub. L. 95–454, title VII][/us/pl/95/454/tVII], § 701, Oct. 13, 1978, [92 Stat. 1196][/us/stat/92/1196]; amended [Pub. L. 98–224][/us/pl/98/224], § 3, Mar. 2, 1984, [98 Stat. 47][/us/stat/98/47].)
 
  __Amendments__ 
 
-    1984—Subsec. (b). [Pub. L. 98–224, § 3(a)][/us/pl/98/224/s3/a], inserted provision directing that Chairman be chief executive and administrative officer.
+    1984—Subsec. (b). [Pub. L. 98–224][/us/pl/98/224], § 3(a), inserted provision directing that Chairman be chief executive and administrative officer.
 
-    Subsec. (c). [Pub. L. 98–224, § 3(b)][/us/pl/98/224/s3/b], substituted provision that a member of Authority be appointed for a term of 5 years and an individual chosen to fill a vacancy be appointed for unexpired term of member replaced for provision that one original member of Authority be appointed for a term of 1 year, one for a term of 3 years, and Chairman for a term of 5 years, and thereafter each member be appointed for a term of 5 years.
+    Subsec. (c). [Pub. L. 98–224][/us/pl/98/224], § 3(b), substituted provision that a member of Authority be appointed for a term of 5 years and an individual chosen to fill a vacancy be appointed for unexpired term of member replaced for provision that one original member of Authority be appointed for a term of 1 year, one for a term of 3 years, and Chairman for a term of 5 years, and thereafter each member be appointed for a term of 5 years.
 
  __Termination of Reporting Requirements__ 
 
@@ -78,12 +78,12 @@
 ----------
 ----------
 
-[/us/pl/95/454/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs701
+[/us/pl/95/454/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtVII
 [/us/stat/92/1196]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1196
-[/us/pl/98/224/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F224%2Fs3
+[/us/pl/98/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F224
 [/us/stat/98/47]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F47
-[/us/pl/98/224/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F224%2Fs3%2Fa
-[/us/pl/98/224/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F224%2Fs3%2Fb
+[/us/pl/98/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F224
+[/us/pl/98/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F224
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113
 [/us/usc/t3/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs301

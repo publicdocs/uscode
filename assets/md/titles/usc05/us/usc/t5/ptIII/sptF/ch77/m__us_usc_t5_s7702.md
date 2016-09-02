@@ -163,7 +163,7 @@
 
     (f) In any case in which an employee is required to file any action, appeal, or petition under this section and the employee timely files the action, appeal, or petition with an agency other than the agency with which the action, appeal, or petition is to be filed, the employee shall be treated as having timely filed the action, appeal, or petition as of the date it is filed with the proper agency.
 
-(Added [Pub. L. 95–454, title II, § 205][/us/pl/95/454/s205], Oct. 13, 1978, [92 Stat. 1140][/us/stat/92/1140]; amended [Pub. L. 96–54, § 2(a)(46)][/us/pl/96/54/s2/a/46], Aug. 14, 1979, [93 Stat. 384][/us/stat/93/384].)
+(Added [Pub. L. 95–454, title II][/us/pl/95/454/tII], § 205, Oct. 13, 1978, [92 Stat. 1140][/us/stat/92/1140]; amended [Pub. L. 96–54][/us/pl/96/54], § 2(a)(46), Aug. 14, 1979, [93 Stat. 384][/us/stat/93/384].)
 
  __References in Text__ 
 
@@ -171,11 +171,11 @@
 
  __Amendments__ 
 
-    1979—Subsec. (a)(1)(A). [Pub. L. 96–54, § 2(a)(46)(A)][/us/pl/96/54/s2/a/46/A], substituted “affected” for “effected”.
+    1979—Subsec. (a)(1)(A). [Pub. L. 96–54][/us/pl/96/54], § 2(a)(46)(A), substituted “affected” for “effected”.
 
-    Subsec. (a)(1)(B)(i). [Pub. L. 96–54, § 2(a)(46)(B)][/us/pl/96/54/s2/a/46/B], substituted “2000e–16” for “2000e–16c”.
+    Subsec. (a)(1)(B)(i). [Pub. L. 96–54][/us/pl/96/54], § 2(a)(46)(B), substituted “2000e–16” for “2000e–16c”.
 
-    Subsec. (e)(1). [Pub. L. 96–54, § 2(a)(46)(C)][/us/pl/96/54/s2/a/46/C], (D), substituted “of this section” for “of this title” in subpar. (C), and “216(b)” for “216(d)” in provision following subpar. (C).
+    Subsec. (e)(1). [Pub. L. 96–54][/us/pl/96/54], § 2(a)(46)(C), (D), substituted “of this section” for “of this title” in subpar. (C), and “216(b)” for “216(d)” in provision following subpar. (C).
 
  __Effective Date of 1979 Amendment__ 
 
@@ -200,14 +200,14 @@
 [/us/usc/t42/s2000e–16/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2000e%E2%80%9316%2Fc
 [/us/usc/t29/s633a/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs633a%2Fc
 [/us/usc/t29/s216/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs216%2Fb
-[/us/pl/95/454/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs205
+[/us/pl/95/454/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtII
 [/us/stat/92/1140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1140
-[/us/pl/96/54/s2/a/46]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F54%2Fs2%2Fa%2F46
+[/us/pl/96/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F54
 [/us/stat/93/384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F384
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
-[/us/pl/96/54/s2/a/46/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F54%2Fs2%2Fa%2F46%2FA
-[/us/pl/96/54/s2/a/46/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F54%2Fs2%2Fa%2F46%2FB
-[/us/pl/96/54/s2/a/46/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F54%2Fs2%2Fa%2F46%2FC
+[/us/pl/96/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F54
+[/us/pl/96/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F54
+[/us/pl/96/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F54
 [/us/pl/96/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F54
 [/us/pl/96/54/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F54%2Fs2%2Fb
 [/us/usc/t5/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs305

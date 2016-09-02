@@ -57,7 +57,7 @@
 
     (j) The regulations prescribed under this section shall provide that the reassignment or transfer of any employee, for permanent duty, from one official station or agency to another which is outside the employee’s commuting area shall take effect only after the employee has been given advance notice for a reasonable period. Emergency circumstances shall be taken into account in determining whether the period of advance notice is reasonable.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 502][/us/stat/80/502]; [Pub. L. 90–83, § 1(36)][/us/pl/90/83/s1/36], Sept. 11, 1967, [81 Stat. 204][/us/stat/81/204]; [Pub. L. 90–623, § 1(14)][/us/pl/90/623/s1/14], Oct. 22, 1968, [82 Stat. 1313][/us/stat/82/1313]; [Pub. L. 96–465, title II, § 2314(d)][/us/pl/96/465/s2314/d], Oct. 17, 1980, [94 Stat. 2168][/us/stat/94/2168]; [Pub. L. 98–151, § 118(a)(2)][/us/pl/98/151/s118/a/2]–(4), (7)(B), Nov. 14, 1983, [97 Stat. 977][/us/stat/97/977], 979; [Pub. L. 100–440, title VI, § 629(a)][/us/pl/100/440/s629/a], Sept. 22, 1988, [102 Stat. 1758][/us/stat/102/1758]; [Pub. L. 100–566, § 3][/us/pl/100/566/s3], Oct. 31, 1988, [102 Stat. 2845][/us/stat/102/2845]; [Pub. L. 102–378, § 2(49)][/us/pl/102/378/s2/49], Oct. 2, 1992, [106 Stat. 1353][/us/stat/106/1353]; [Pub. L. 103–338][/us/pl/103/338], §§ 3(a), 4, Oct. 6, 1994, [108 Stat. 3114][/us/stat/108/3114]; [Pub. L. 104–201, div. A, title XVII, § 1723(a)(1)(B)][/us/pl/104/201/s1723/a/1/B], (b)(1), (2), Sept. 23, 1996, [110 Stat. 2759][/us/stat/110/2759]; [Pub. L. 105–85, div. C, title XXXV, § 3550(c)(1)][/us/pl/105/85/s3550/c/1], Nov. 18, 1997, [111 Stat. 2074][/us/stat/111/2074]; [Pub. L. 105–264, § 6(4)][/us/pl/105/264/s6/4], Oct. 19, 1998, [112 Stat. 2356][/us/stat/112/2356].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 502][/us/stat/80/502]; [Pub. L. 90–83][/us/pl/90/83], § 1(36), Sept. 11, 1967, [81 Stat. 204][/us/stat/81/204]; [Pub. L. 90–623][/us/pl/90/623], § 1(14), Oct. 22, 1968, [82 Stat. 1313][/us/stat/82/1313]; [Pub. L. 96–465, title II][/us/pl/96/465/tII], § 2314(d), Oct. 17, 1980, [94 Stat. 2168][/us/stat/94/2168]; [Pub. L. 98–151][/us/pl/98/151], § 118(a)(2)–(4), (7)(B), Nov. 14, 1983, [97 Stat. 977][/us/stat/97/977], 979; [Pub. L. 100–440, title VI][/us/pl/100/440/tVI], § 629(a), Sept. 22, 1988, [102 Stat. 1758][/us/stat/102/1758]; [Pub. L. 100–566][/us/pl/100/566], § 3, Oct. 31, 1988, [102 Stat. 2845][/us/stat/102/2845]; [Pub. L. 102–378][/us/pl/102/378], § 2(49), Oct. 2, 1992, [106 Stat. 1353][/us/stat/106/1353]; [Pub. L. 103–338][/us/pl/103/338], §§ 3(a), 4, Oct. 6, 1994, [108 Stat. 3114][/us/stat/108/3114]; [Pub. L. 104–201, div. A, title XVII][/us/pl/104/201/dA/tXVII], § 1723(a)(1)(B), (b)(1), (2), Sept. 23, 1996, [110 Stat. 2759][/us/stat/110/2759]; [Pub. L. 105–85, div. C, title XXXV][/us/pl/105/85/dC/tXXXV], § 3550(c)(1), Nov. 18, 1997, [111 Stat. 2074][/us/stat/111/2074]; [Pub. L. 105–264][/us/pl/105/264], § 6(4), Oct. 19, 1998, [112 Stat. 2356][/us/stat/112/2356].)
 
 <table>
 
@@ -267,37 +267,37 @@ July 21, 1966, Pub. L. 89–516, § 2 “Sec. 28”, 80 Stat. 325.  </td>
 
  __References in Text__ 
 
-    [Section 4103 of title 38][/us/usc/t38/s4103], referred to in subsec. (a)(3)(A), was repealed by [Pub. L. 102–40, title IV, § 401(a)(3)][/us/pl/102/40/s401/a/3], May 7, 1991, [105 Stat. 210][/us/stat/105/210]. See [section 7306 of Title 38][/us/usc/t38/s7306], Veterans’ Benefits.
+    [Section 4103 of title 38][/us/usc/t38/s4103], referred to in subsec. (a)(3)(A), was repealed by [Pub. L. 102–40, title IV][/us/pl/102/40/tIV], § 401(a)(3), May 7, 1991, [105 Stat. 210][/us/stat/105/210]. See [section 7306 of Title 38][/us/usc/t38/s7306], Veterans’ Benefits.
 
     The Foreign Service Act of 1980, referred to in subsec. (g), is [Pub. L. 96–465][/us/pl/96/465], Oct. 17, 1980, [94 Stat. 2071][/us/stat/94/2071], which is classified principally to chapter 52 (§ 3901 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under [section 3901 of Title 22][/us/usc/t22/s3901] and Tables.
 
  __Amendments__ 
 
-    1998—Subsec. (a)(3). [Pub. L. 105–264, § 6(4)(A)][/us/pl/105/264/s6/4/A], struck out “, its territories or possessions, the Commonwealth of Puerto Rico, or the areas and installations in the Republic of Panama made available to the United States pursuant to the Panama Canal Treaty of 1977 and related agreements, as described in section 3(a) of the Panama Canal Act of 1979” after “United States”.
+    1998—Subsec. (a)(3). [Pub. L. 105–264][/us/pl/105/264], § 6(4)(A), struck out “, its territories or possessions, the Commonwealth of Puerto Rico, or the areas and installations in the Republic of Panama made available to the United States pursuant to the Panama Canal Treaty of 1977 and related agreements, as described in section 3(a) of the Panama Canal Act of 1979” after “United States”.
 
-    Subsec. (i). [Pub. L. 105–264, § 6(4)(B)][/us/pl/105/264/s6/4/B], substituted “Government” for “United States” in two places in last sentence.
+    Subsec. (i). [Pub. L. 105–264][/us/pl/105/264], § 6(4)(B), substituted “Government” for “United States” in two places in last sentence.
 
     1997—Subsec. (a)(3). [Pub. L. 105–85][/us/pl/105/85], which directed the substitution of “or the Commonwealth of Puerto Rico” for “, the Commonwealth of Puerto Rico, or the areas and installations in the Republic of Panama made available to the United States pursuant to the Panama Canal Treaty of 1977 and related agreements, as described in section 3(a) of the Panama Canal Act of 1979”, effective Jan. 1, 1999, could not be executed because such language did not appear in text subsequent to amendment by [Pub. L. 105–264][/us/pl/105/264]. See 1998 Amendment note above.
 
-    1996—Subsecs. (a), (b). [Pub. L. 104–201, § 1723(b)(1)][/us/pl/104/201/s1723/b/1], in introductory provisions, substituted “Under regulations prescribed under [section 5738 of this title][/us/usc/t5/s5738]” for “Under such regulations as the President may prescribe”.
+    1996—Subsecs. (a), (b). [Pub. L. 104–201][/us/pl/104/201], § 1723(b)(1), in introductory provisions, substituted “Under regulations prescribed under [section 5738 of this title][/us/usc/t5/s5738]” for “Under such regulations as the President may prescribe”.
 
-    Subsec. (c). [Pub. L. 104–201, § 1723(b)(2)(A)][/us/pl/104/201/s1723/b/2/A], substituted “under regulations prescribed under [section 5738 of this title][/us/usc/t5/s5738]” for “under regulations prescribed by the President”.
+    Subsec. (c). [Pub. L. 104–201][/us/pl/104/201], § 1723(b)(2)(A), substituted “under regulations prescribed under [section 5738 of this title][/us/usc/t5/s5738]” for “under regulations prescribed by the President”.
 
-    [Pub. L. 104–201, § 1723(b)(1)][/us/pl/104/201/s1723/b/1], substituted “Under regulations prescribed under [section 5738 of this title][/us/usc/t5/s5738]” for “Under such regulations as the President may prescribe”.
+    [Pub. L. 104–201][/us/pl/104/201], § 1723(b)(1), substituted “Under regulations prescribed under [section 5738 of this title][/us/usc/t5/s5738]” for “Under such regulations as the President may prescribe”.
 
-    Subsec. (e). [Pub. L. 104–201, § 1723(b)(2)(A)][/us/pl/104/201/s1723/b/2/A], substituted “under regulations prescribed under [section 5738 of this title][/us/usc/t5/s5738]” for “under regulations prescribed by the President”.
+    Subsec. (e). [Pub. L. 104–201][/us/pl/104/201], § 1723(b)(2)(A), substituted “under regulations prescribed under [section 5738 of this title][/us/usc/t5/s5738]” for “under regulations prescribed by the President”.
 
-    [Pub. L. 104–201, § 1723(a)(1)(B)][/us/pl/104/201/s1723/a/1/B], substituted “section 5724a(a) through (f)” for “section 5724a(a), (b)”.
+    [Pub. L. 104–201][/us/pl/104/201], § 1723(a)(1)(B), substituted “section 5724a(a) through (f)” for “section 5724a(a), (b)”.
 
-    Subsec. (f). [Pub. L. 104–201, § 1723(b)(2)(B)][/us/pl/104/201/s1723/b/2/B], substituted “under regulations prescribed under [section 5738 of this title][/us/usc/t5/s5738]” for “under the regulations of the President”.
+    Subsec. (f). [Pub. L. 104–201][/us/pl/104/201], § 1723(b)(2)(B), substituted “under regulations prescribed under [section 5738 of this title][/us/usc/t5/s5738]” for “under the regulations of the President”.
 
-    1994—Subsec. (a)(3). [Pub. L. 103–338, § 4][/us/pl/103/338/s4], amended par. (3) generally. Prior to amendment, par. (3) read as follows: “upon the separation of a career appointee (as defined in [section 3132(a)(4) of this title][/us/usc/t5/s3132/a/4]), the travel expenses of that individual, the transportation expenses of the immediate family of such individual, and the expenses of moving (including transporting, packing, crating, temporarily storing, draying, and unpacking) the household goods of such individual and personal effects not in excess of eighteen thousand pounds net weight, to the place where the individual will reside within the United States, its territories or possessions, the Commonwealth of Puerto Rico, or the areas and installations in the Republic of Panama made available to the United States pursuant to the Panama Canal Treaty of 1977 and related agreements, as described in section 3(a) of the Panama Canal Act of 1979 (or, if the individual dies before the travel, transportation, and moving is completed, to the place where the family will reside) if such individual—
+    1994—Subsec. (a)(3). [Pub. L. 103–338][/us/pl/103/338], § 4, amended par. (3) generally. Prior to amendment, par. (3) read as follows: “upon the separation of a career appointee (as defined in [section 3132(a)(4) of this title][/us/usc/t5/s3132/a/4]), the travel expenses of that individual, the transportation expenses of the immediate family of such individual, and the expenses of moving (including transporting, packing, crating, temporarily storing, draying, and unpacking) the household goods of such individual and personal effects not in excess of eighteen thousand pounds net weight, to the place where the individual will reside within the United States, its territories or possessions, the Commonwealth of Puerto Rico, or the areas and installations in the Republic of Panama made available to the United States pursuant to the Panama Canal Treaty of 1977 and related agreements, as described in section 3(a) of the Panama Canal Act of 1979 (or, if the individual dies before the travel, transportation, and moving is completed, to the place where the family will reside) if such individual—
 
     “(A) during or after the five years preceding eligibility to receive an annuity under subchapter III of chapter 83, or of chapter 84 of this title, has been transferred in the interest of the Government from one official station to another for permanent duty as a career appointee in the Senior Executive Service or as a director under [section 4103(a)(8) of title 38][/us/usc/t38/s4103/a/8] (as in effect on November 17, 1988); and
 
     “(B) is eligible to receive an annuity upon such separation under the provisions of subchapter III of chapter 83 or chapter 84 of this title.”
 
-    Subsec. (a)(3)(A). [Pub. L. 103–338, § 3(a)][/us/pl/103/338/s3/a], substituted “November 17, 1988” for “November 27, 1988”.
+    Subsec. (a)(3)(A). [Pub. L. 103–338][/us/pl/103/338], § 3(a), substituted “November 17, 1988” for “November 27, 1988”.
 
     1992—Subsec. (a)(3)(A). [Pub. L. 102–378][/us/pl/102/378] substituted “Service or as a director under [section 4103(a)(8) of title 38][/us/usc/t38/s4103/a/8] (as in effect on November 27, 1988)” for “Service”.
 
@@ -305,13 +305,13 @@ July 21, 1966, Pub. L. 89–516, § 2 “Sec. 28”, 80 Stat. 325.  </td>
 
     Subsec. (a)(3)(A). [Pub. L. 100–566][/us/pl/100/566] substituted “during or after the five” for “during the five” and struck out “, and thereafter” after “of this title”.
 
-    1983—Subsec. (a)(2). [Pub. L. 98–151, § 118(a)(2)][/us/pl/98/151/s118/a/2], substituted “18,000” for “11,000”.
+    1983—Subsec. (a)(2). [Pub. L. 98–151][/us/pl/98/151], § 118(a)(2), substituted “18,000” for “11,000”.
 
-    Subsec. (b)(1). [Pub. L. 98–151, § 118(a)(3)][/us/pl/98/151/s118/a/3], struck out “not in excess of 20 cents a mile” after “allowance”.
+    Subsec. (b)(1). [Pub. L. 98–151][/us/pl/98/151], § 118(a)(3), struck out “not in excess of 20 cents a mile” after “allowance”.
 
-    Subsec. (i). [Pub. L. 98–151, § 118(a)(7)(B)][/us/pl/98/151/s118/a/7/B], inserted reference to [section 5724b of this title][/us/usc/t5/s5724b].
+    Subsec. (i). [Pub. L. 98–151][/us/pl/98/151], § 118(a)(7)(B), inserted reference to [section 5724b of this title][/us/usc/t5/s5724b].
 
-    Subsec. (j). [Pub. L. 98–151, § 118(a)(4)][/us/pl/98/151/s118/a/4], added subsec. (j).
+    Subsec. (j). [Pub. L. 98–151][/us/pl/98/151], § 118(a)(4), added subsec. (j).
 
     1980—Subsec. (g). [Pub. L. 96–465][/us/pl/96/465] substituted “the Foreign Service Act of 1980” for “chapter 14 of title 22”.
 
@@ -319,7 +319,7 @@ July 21, 1966, Pub. L. 89–516, § 2 “Sec. 28”, 80 Stat. 325.  </td>
 
  __Effective Date of 1997 Amendment__ 
 
-[Pub. L. 105–85, div. C, title XXXV, § 3550(c)(3)][/us/pl/105/85/s3550/c/3], Nov. 18, 1997, [111 Stat. 2074][/us/stat/111/2074], provided that: 
+[Pub. L. 105–85, div. C, title XXXV][/us/pl/105/85/dC/tXXXV], § 3550(c)(3), Nov. 18, 1997, [111 Stat. 2074][/us/stat/111/2074], provided that: 
 
 > “The amendments made by this subsection \[amending this section and [section 5724a of this title][/us/usc/t5/s5724a]\] shall take effect on January 1, 1999.”
 
@@ -329,11 +329,11 @@ July 21, 1966, Pub. L. 89–516, § 2 “Sec. 28”, 80 Stat. 325.  </td>
 
  __Effective Date of 1994 Amendment__ 
 
-[Pub. L. 103–338, § 3(b)][/us/pl/103/338/s3/b], Oct. 6, 1994, [108 Stat. 3114][/us/stat/108/3114], provided that: 
+[Pub. L. 103–338][/us/pl/103/338], § 3(b), Oct. 6, 1994, [108 Stat. 3114][/us/stat/108/3114], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall take effect as if included in the Technical and Miscellaneous Civil Service Amendments Act of 1992 ([Public Law 102–378][/us/pl/102/378]; [106 Stat. 1346][/us/stat/106/1346]; [5 U.S.C. 1101][/us/usc/t5/s1101] note).”
 
-[Pub. L. 103–338, § 5(a)][/us/pl/103/338/s5/a], Oct. 6, 1994, [108 Stat. 3115][/us/stat/108/3115], provided that: 
+[Pub. L. 103–338][/us/pl/103/338], § 5(a), Oct. 6, 1994, [108 Stat. 3115][/us/stat/108/3115], provided that: 
 
 > “This Act \[amending this section and enacting provisions set out as notes under this section\] and the amendment made by this Act shall take effect on October 1, 1994, or, if later, the date of the enactment of this Act \[Oct. 6, 1994\].”
 
@@ -343,7 +343,7 @@ July 21, 1966, Pub. L. 89–516, § 2 “Sec. 28”, 80 Stat. 325.  </td>
 
  __Effective Date of 1983 Amendment; Promulgation of Regulations__ 
 
-[Pub. L. 98–151, § 118(c)][/us/pl/98/151/s118/c], Nov. 14, 1983, [97 Stat. 979][/us/stat/97/979], provided that:
+[Pub. L. 98–151][/us/pl/98/151], § 118(c), Nov. 14, 1983, [97 Stat. 979][/us/stat/97/979], provided that:
 
 >     “(1) The amendments made by subsection (a) \[enacting sections 5724b and 5724c of this title and amending this section and sections 5723, 5724a, and 5726 of this title\] shall take effect on the date of the enactment of this joint resolution \[Nov. 14, 1983\].”
 
@@ -359,7 +359,7 @@ July 21, 1966, Pub. L. 89–516, § 2 “Sec. 28”, 80 Stat. 325.  </td>
 
  __Moving Expenses for Family of Career Appointees Dying in Service Between__  __January 1, 1994__  __, and__  __October 6, 1994__ 
 
-[Pub. L. 103–338, § 5(b)][/us/pl/103/338/s5/b], Oct. 6, 1994, [108 Stat. 3115][/us/stat/108/3115], provided that:
+[Pub. L. 103–338][/us/pl/103/338], § 5(b), Oct. 6, 1994, [108 Stat. 3115][/us/stat/108/3115], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -379,13 +379,13 @@ July 21, 1966, Pub. L. 89–516, § 2 “Sec. 28”, 80 Stat. 325.  </td>
 
  __Funding of Amendments by__  __[__  __Pub. L. 100–440__  __][/us/pl/100/440]__ 
 
-[Pub. L. 100–440, title VI, § 629(b)][/us/pl/100/440/s629/b], Sept. 22, 1988, [102 Stat. 1759][/us/stat/102/1759], provided that: 
+[Pub. L. 100–440, title VI][/us/pl/100/440/tVI], § 629(b), Sept. 22, 1988, [102 Stat. 1759][/us/stat/102/1759], provided that: 
 
 > “The amendments made by subsection (a) \[amending this section\] shall be carried out by agencies by the use of funds appropriated or otherwise available for the administrative expenses of each of such respective agencies. The amendments made by such subsection do not authorize the appropriation of funds in amounts exceeding the sums otherwise authorized to be appropriated for such agencies.”
 
  __Funding of Amendments by__  __[__  __Pub. L. 98–151__  __][/us/pl/98/151]__ 
 
-[Pub. L. 98–151, § 118(b)][/us/pl/98/151/s118/b], Nov. 14, 1983, [97 Stat. 979][/us/stat/97/979], provided that: 
+[Pub. L. 98–151][/us/pl/98/151], § 118(b), Nov. 14, 1983, [97 Stat. 979][/us/stat/97/979], provided that: 
 
 > “The amendments made by subsection (a) \[enacting sections 5724b and 5724c of this title and amending this section and sections 5723, 5724a, and 5726 of this title\] shall be carried out by agencies by the use of funds appropriated or otherwise available for the administrative expenses of each of such respective agencies. The amendments made by such subsection do not authorize the appropriation of funds in amounts exceeding the sums already authorized to be appropriated for such agencies.”
 
@@ -413,27 +413,27 @@ July 21, 1966, Pub. L. 89–516, § 2 “Sec. 28”, 80 Stat. 325.  </td>
 [/us/usc/t5/s5705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5705
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F502
-[/us/pl/90/83/s1/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83%2Fs1%2F36
+[/us/pl/90/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83
 [/us/stat/81/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F204
-[/us/pl/90/623/s1/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F623%2Fs1%2F14
+[/us/pl/90/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F623
 [/us/stat/82/1313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1313
-[/us/pl/96/465/s2314/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs2314%2Fd
+[/us/pl/96/465/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtII
 [/us/stat/94/2168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2168
-[/us/pl/98/151/s118/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F151%2Fs118%2Fa%2F2
+[/us/pl/98/151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F151
 [/us/stat/97/977]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F977
-[/us/pl/100/440/s629/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F440%2Fs629%2Fa
+[/us/pl/100/440/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F440%2FtVI
 [/us/stat/102/1758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1758
-[/us/pl/100/566/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F566%2Fs3
+[/us/pl/100/566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F566
 [/us/stat/102/2845]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2845
-[/us/pl/102/378/s2/49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378%2Fs2%2F49
+[/us/pl/102/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378
 [/us/stat/106/1353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1353
 [/us/pl/103/338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F338
 [/us/stat/108/3114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3114
-[/us/pl/104/201/s1723/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1723%2Fa%2F1%2FB
+[/us/pl/104/201/dA/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtXVII
 [/us/stat/110/2759]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2759
-[/us/pl/105/85/s3550/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs3550%2Fc%2F1
+[/us/pl/105/85/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdC%2FtXXXV
 [/us/stat/111/2074]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2074
-[/us/pl/105/264/s6/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F264%2Fs6%2F4
+[/us/pl/105/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F264
 [/us/stat/112/2356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2356
 [/us/usc/t5/s5704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5704
 [/us/usc/t5/s5705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5705
@@ -449,59 +449,59 @@ July 21, 1966, Pub. L. 89–516, § 2 “Sec. 28”, 80 Stat. 325.  </td>
 [/us/usc/t5/s5721/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5721%2F3
 [/us/usc/t5/s5721/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5721%2F1
 [/us/usc/t38/s4103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs4103
-[/us/pl/102/40/s401/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs401%2Fa%2F3
+[/us/pl/102/40/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2FtIV
 [/us/stat/105/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F210
 [/us/usc/t38/s7306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7306
 [/us/pl/96/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465
 [/us/stat/94/2071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2071
 [/us/usc/t22/s3901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3901
-[/us/pl/105/264/s6/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F264%2Fs6%2F4%2FA
-[/us/pl/105/264/s6/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F264%2Fs6%2F4%2FB
+[/us/pl/105/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F264
+[/us/pl/105/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F264
 [/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
 [/us/pl/105/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F264
-[/us/pl/104/201/s1723/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1723%2Fb%2F1
+[/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
 [/us/usc/t5/s5738]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5738
-[/us/pl/104/201/s1723/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1723%2Fb%2F2%2FA
+[/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
 [/us/usc/t5/s5738]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5738
-[/us/pl/104/201/s1723/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1723%2Fb%2F1
+[/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
 [/us/usc/t5/s5738]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5738
-[/us/pl/104/201/s1723/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1723%2Fb%2F2%2FA
+[/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
 [/us/usc/t5/s5738]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5738
-[/us/pl/104/201/s1723/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1723%2Fa%2F1%2FB
-[/us/pl/104/201/s1723/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1723%2Fb%2F2%2FB
+[/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
+[/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
 [/us/usc/t5/s5738]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5738
-[/us/pl/103/338/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F338%2Fs4
+[/us/pl/103/338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F338
 [/us/usc/t5/s3132/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3132%2Fa%2F4
 [/us/usc/t38/s4103/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs4103%2Fa%2F8
-[/us/pl/103/338/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F338%2Fs3%2Fa
+[/us/pl/103/338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F338
 [/us/pl/102/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378
 [/us/usc/t38/s4103/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs4103%2Fa%2F8
 [/us/pl/100/440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F440
 [/us/pl/100/566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F566
-[/us/pl/98/151/s118/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F151%2Fs118%2Fa%2F2
-[/us/pl/98/151/s118/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F151%2Fs118%2Fa%2F3
-[/us/pl/98/151/s118/a/7/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F151%2Fs118%2Fa%2F7%2FB
+[/us/pl/98/151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F151
+[/us/pl/98/151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F151
+[/us/pl/98/151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F151
 [/us/usc/t5/s5724b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5724b
-[/us/pl/98/151/s118/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F151%2Fs118%2Fa%2F4
+[/us/pl/98/151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F151
 [/us/pl/96/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465
 [/us/pl/90/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F623
-[/us/pl/105/85/s3550/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs3550%2Fc%2F3
+[/us/pl/105/85/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdC%2FtXXXV
 [/us/stat/111/2074]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2074
 [/us/usc/t5/s5724a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5724a
 [/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
 [/us/pl/104/201/s1725/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1725%2Fa
 [/us/usc/t5/s5722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5722
-[/us/pl/103/338/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F338%2Fs3%2Fb
+[/us/pl/103/338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F338
 [/us/stat/108/3114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3114
 [/us/pl/102/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378
 [/us/stat/106/1346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1346
 [/us/usc/t5/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs1101
-[/us/pl/103/338/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F338%2Fs5%2Fa
+[/us/pl/103/338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F338
 [/us/stat/108/3115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3115
 [/us/pl/102/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378
 [/us/pl/102/378/s9/b/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378%2Fs9%2Fb%2F11
 [/us/usc/t5/s6303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs6303
-[/us/pl/98/151/s118/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F151%2Fs118%2Fc
+[/us/pl/98/151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F151
 [/us/stat/97/979]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F979
 [/us/pl/96/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465
 [/us/pl/96/465/s2403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs2403
@@ -509,14 +509,14 @@ July 21, 1966, Pub. L. 89–516, § 2 “Sec. 28”, 80 Stat. 325.  </td>
 [/us/pl/90/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F623
 [/us/pl/90/623/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F623%2Fs6
 [/us/usc/t5/s5334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5334
-[/us/pl/103/338/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F338%2Fs5%2Fb
+[/us/pl/103/338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F338
 [/us/stat/108/3115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3115
 [/us/usc/t5/s5724/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5724%2Fa%2F3
 [/us/pl/100/440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F440
-[/us/pl/100/440/s629/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F440%2Fs629%2Fb
+[/us/pl/100/440/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F440%2FtVI
 [/us/stat/102/1759]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1759
 [/us/pl/98/151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F151
-[/us/pl/98/151/s118/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F151%2Fs118%2Fb
+[/us/pl/98/151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F151
 [/us/stat/97/979]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F979
 [/us/usc/t3/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs301
 

@@ -87,7 +87,7 @@
 
     (f) The amount of additional optional life insurance in force on an employee at the date of his death shall be paid as provided in [section 8705 of this title][/us/usc/t5/s8705].
 
-(Added [Pub. L. 96–427, § 7(a)][/us/pl/96/427/s7/a], Oct. 10, 1980, [94 Stat. 1834][/us/stat/94/1834]; amended [Pub. L. 98–353, title II][/us/pl/98/353], §§ 206, 207, July 10, 1984, [98 Stat. 351][/us/stat/98/351], as amended by [Pub. L. 99–336, § 7(1)][/us/pl/99/336/s7/1], June 19, 1986, [100 Stat. 639][/us/stat/100/639]; [Pub. L. 99–335, title II, § 207(k)(4)][/us/pl/99/335/s207/k/4], June 6, 1986, [100 Stat. 597][/us/stat/100/597]; [Pub. L. 99–336, § 7(1)][/us/pl/99/336/s7/1], June 19, 1986, [100 Stat. 639][/us/stat/100/639]; [Pub. L. 105–311][/us/pl/105/311], §§ 3(2), 6(3), 7(a), (c), Oct. 30, 1998, [112 Stat. 2950–2953][/us/stat/112/2950-2953]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title XI, § 1103(c), Oct. 14, 2008, [122 Stat. 4617][/us/stat/122/4617]; [Pub. L. 111–350, § 5(a)(13)][/us/pl/111/350/s5/a/13], Jan. 4, 2011, [124 Stat. 3841][/us/stat/124/3841].)
+(Added [Pub. L. 96–427][/us/pl/96/427], § 7(a), Oct. 10, 1980, [94 Stat. 1834][/us/stat/94/1834]; amended [Pub. L. 98–353, title II][/us/pl/98/353/tII], §§ 206, 207, July 10, 1984, [98 Stat. 351][/us/stat/98/351], as amended by [Pub. L. 99–336][/us/pl/99/336], § 7(1), June 19, 1986, [100 Stat. 639][/us/stat/100/639]; [Pub. L. 99–335, title II][/us/pl/99/335/tII], § 207(k)(4), June 6, 1986, [100 Stat. 597][/us/stat/100/597]; [Pub. L. 99–336][/us/pl/99/336], § 7(1), June 19, 1986, [100 Stat. 639][/us/stat/100/639]; [Pub. L. 105–311][/us/pl/105/311], §§ 3(2), 6(3), 7(a), (c), Oct. 30, 1998, [112 Stat. 2950–2953][/us/stat/112/2950-2953]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title XI, § 1103(c), Oct. 14, 2008, [122 Stat. 4617][/us/stat/122/4617]; [Pub. L. 111–350][/us/pl/111/350], § 5(a)(13), Jan. 4, 2011, [124 Stat. 3841][/us/stat/124/3841].)
 
  __Amendments__ 
 
@@ -95,17 +95,17 @@
 
     2008—Subsec. (b). [Pub. L. 110–417][/us/pl/110/417] designated existing provisions as par. (2) and added par. (1).
 
-    1998—Subsec. (b). [Pub. L. 105–311, § 3(2)][/us/pl/105/311/s3/2], in first sentence, struck out “except that coverage may not exceed an amount equal to 5 times the annual rate of basic pay payable for positions at level II of the Executive Schedule under [section 5313 of this title][/us/usc/t5/s5313] (rounded to the next higher multiple of $1,000)” after “$1,000)”.
+    1998—Subsec. (b). [Pub. L. 105–311][/us/pl/105/311], § 3(2), in first sentence, struck out “except that coverage may not exceed an amount equal to 5 times the annual rate of basic pay payable for positions at level II of the Executive Schedule under [section 5313 of this title][/us/usc/t5/s5313] (rounded to the next higher multiple of $1,000)” after “$1,000)”.
 
-    Subsec. (c)(2). [Pub. L. 105–311, § 7(a)(1)(A)][/us/pl/105/311/s7/a/1/A], struck out at end “The amount of insurance continued under this paragraph shall be reduced each month by 2 percent effective at the beginning of the second calendar month after the date the employee becomes 65 years of age and is retired or is in receipt of compensation. The reduction shall continue for 50 months at which time the insurance stops.”
+    Subsec. (c)(2). [Pub. L. 105–311][/us/pl/105/311], § 7(a)(1)(A), struck out at end “The amount of insurance continued under this paragraph shall be reduced each month by 2 percent effective at the beginning of the second calendar month after the date the employee becomes 65 years of age and is retired or is in receipt of compensation. The reduction shall continue for 50 months at which time the insurance stops.”
 
-    Subsec. (c)(3) to (5). [Pub. L. 105–311, § 7(a)(1)(B)][/us/pl/105/311/s7/a/1/B], added pars. (3) to (5).
+    Subsec. (c)(3) to (5). [Pub. L. 105–311][/us/pl/105/311], § 7(a)(1)(B), added pars. (3) to (5).
 
-    Subsec. (d)(1). [Pub. L. 105–311, § 7(a)(2)][/us/pl/105/311/s7/a/2], (c), inserted “if insurance is continued as provided under subsection (c)(3)(A),” after “except that,” and “(and any amounts withheld as provided in subsection (c)(3)(B))” after “Amounts so withheld”.
+    Subsec. (d)(1). [Pub. L. 105–311][/us/pl/105/311], § 7(a)(2), (c), inserted “if insurance is continued as provided under subsection (c)(3)(A),” after “except that,” and “(and any amounts withheld as provided in subsection (c)(3)(B))” after “Amounts so withheld”.
 
-    Subsec. (d)(3). [Pub. L. 105–311, § 6(3)][/us/pl/105/311/s6/3], added par. (3).
+    Subsec. (d)(3). [Pub. L. 105–311][/us/pl/105/311], § 6(3), added par. (3).
 
-    1986—Subsec. (c)(1). [Pub. L. 98–353, § 206][/us/pl/98/353/s206], as amended generally by [Pub. L. 99–336, § 7(1)][/us/pl/99/336/s7/1], inserted sentence which deemed justices and judges described in section 8701(a)(5)(ii) and (iii) of this chapter to continue in active employment for purposes of this chapter.
+    1986—Subsec. (c)(1). [Pub. L. 98–353][/us/pl/98/353], § 206, as amended generally by [Pub. L. 99–336][/us/pl/99/336], § 7(1), inserted sentence which deemed justices and judges described in section 8701(a)(5)(ii) and (iii) of this chapter to continue in active employment for purposes of this chapter.
 
     [Pub. L. 99–335][/us/pl/99/335] substituted “Except as otherwise provided in this subsection, the additional optional insurance elected by an employee pursuant to this section shall stop on separation from service or 12 months after discontinuance of his pay, whichever is earlier, subject to a provision for temporary extension of life insurance coverage and for conversion to an individual policy of life insurance under conditions approved by the Office” for “The additional optional insurance elected by an employee pursuant to this section shall stop on separation from service, 12 months after discontinuance of pay, or on entry on active military duty or active duty for training, subject to provision for a 31-day temporary extension of insurance coverage and for conversion to an individual policy, as provided in sections 8706(a) and 8706(c) of this title”.
 
@@ -117,7 +117,7 @@
 
  __Effective Date of 1986 Amendments__ 
 
-    Amendment by [Pub. L. 98–353, § 206][/us/pl/98/353/s206], as amended generally by [Pub. L. 99–336, § 7(1)][/us/pl/99/336/s7/1], applicable to any justice or judge who retires under [28 U.S.C. 371(a)][/us/usc/t28/s371/a] or (b) or 372(a) on or after January 1, 1982, see [section 207 of Pub. L. 98–353][/us/pl/98/353/s207], as amended generally by [Pub. L. 99–336, § 7(2)][/us/pl/99/336/s7/2], set out as a note under [section 8706 of this title][/us/usc/t5/s8706].
+    Amendment by [Pub. L. 98–353][/us/pl/98/353], § 206, as amended generally by [Pub. L. 99–336][/us/pl/99/336], § 7(1), applicable to any justice or judge who retires under [28 U.S.C. 371(a)][/us/usc/t28/s371/a] or (b) or 372(a) on or after January 1, 1982, see [section 207 of Pub. L. 98–353][/us/pl/98/353/s207], as amended generally by [Pub. L. 99–336][/us/pl/99/336], § 7(2), set out as a note under [section 8706 of this title][/us/usc/t5/s8706].
 
     Amendment by [Pub. L. 99–335][/us/pl/99/335] effective Jan. 1, 1987, see [section 702(a) of Pub. L. 99–335][/us/pl/99/335/s702/a], set out as an Effective Date note under [section 8401 of this title][/us/usc/t5/s8401].
 
@@ -127,7 +127,7 @@
 
  __Report to Congress__ 
 
-[Pub. L. 105–311, § 7(b)][/us/pl/105/311/s7/b], Oct. 30, 1998, [112 Stat. 2953][/us/stat/112/2953], provided that: 
+[Pub. L. 105–311][/us/pl/105/311], § 7(b), Oct. 30, 1998, [112 Stat. 2953][/us/stat/112/2953], provided that: 
 
 > “Not later than 3 years after the date of enactment of this Act \[Oct. 30, 1998\], the Office of Personnel Management shall submit a report to Congress on additional optional insurance provided under [section 8714b(c)(5) of title 5][/us/usc/t5/s8714b/c/5], United States Code (as added by subsection (a) of this section). Such report shall include recommendations on whether continuation for such additional optional insurance should terminate as provided under such section, be extended, or be made permanent.”
 
@@ -149,33 +149,33 @@
 [/us/usc/t5/s8714a/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8714a%2Fd
 [/us/usc/t5/s8714a/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8714a%2Fe
 [/us/usc/t5/s8705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8705
-[/us/pl/96/427/s7/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F427%2Fs7%2Fa
+[/us/pl/96/427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F427
 [/us/stat/94/1834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1834
-[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
+[/us/pl/98/353/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2FtII
 [/us/stat/98/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F351
-[/us/pl/99/336/s7/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F336%2Fs7%2F1
+[/us/pl/99/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F336
 [/us/stat/100/639]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F639
-[/us/pl/99/335/s207/k/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2Fs207%2Fk%2F4
+[/us/pl/99/335/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2FtII
 [/us/stat/100/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F597
-[/us/pl/99/336/s7/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F336%2Fs7%2F1
+[/us/pl/99/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F336
 [/us/stat/100/639]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F639
 [/us/pl/105/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F311
 [/us/stat/112/2950-2953]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2950-2953
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4617
-[/us/pl/111/350/s5/a/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs5%2Fa%2F13
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3841
 [/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/usc/t41/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs5
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
-[/us/pl/105/311/s3/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F311%2Fs3%2F2
+[/us/pl/105/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F311
 [/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
-[/us/pl/105/311/s7/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F311%2Fs7%2Fa%2F1%2FA
-[/us/pl/105/311/s7/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F311%2Fs7%2Fa%2F1%2FB
-[/us/pl/105/311/s7/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F311%2Fs7%2Fa%2F2
-[/us/pl/105/311/s6/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F311%2Fs6%2F3
-[/us/pl/98/353/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs206
-[/us/pl/99/336/s7/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F336%2Fs7%2F1
+[/us/pl/105/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F311
+[/us/pl/105/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F311
+[/us/pl/105/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F311
+[/us/pl/105/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F311
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
+[/us/pl/99/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F336
 [/us/pl/99/335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335
 [/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
 [/us/usc/t5/s8701/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8701%2Fa%2F5
@@ -185,18 +185,18 @@
 [/us/pl/105/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F311
 [/us/pl/105/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F311
 [/us/usc/t5/s8701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8701
-[/us/pl/98/353/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs206
-[/us/pl/99/336/s7/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F336%2Fs7%2F1
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
+[/us/pl/99/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F336
 [/us/usc/t28/s371/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs371%2Fa
 [/us/pl/98/353/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs207
-[/us/pl/99/336/s7/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F336%2Fs7%2F2
+[/us/pl/99/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F336
 [/us/usc/t5/s8706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8706
 [/us/pl/99/335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335
 [/us/pl/99/335/s702/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2Fs702%2Fa
 [/us/usc/t5/s8401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8401
 [/us/pl/96/427/s10/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F427%2Fs10%2Fd
 [/us/usc/t5/s8701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8701
-[/us/pl/105/311/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F311%2Fs7%2Fb
+[/us/pl/105/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F311
 [/us/stat/112/2953]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2953
 [/us/usc/t5/s8714b/c/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8714b%2Fc%2F5
 

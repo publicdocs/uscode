@@ -19,7 +19,7 @@
 
     (b) If any provision of this chapter or the application of any provision of this chapter to any person or circumstance, is held invalid, the application of such provision to other persons or circumstances, and the remainder of this chapter, shall not be affected thereby.
 
-(Added [Pub. L. 104–121, title II, § 251][/us/pl/104/121/s251], Mar. 29, 1996, [110 Stat. 873][/us/stat/110/873].)
+(Added [Pub. L. 104–121, title II][/us/pl/104/121/tII], § 251, Mar. 29, 1996, [110 Stat. 873][/us/stat/110/873].)
 
 ----------
 
@@ -28,7 +28,7 @@
 ----------
 ----------
 
-[/us/pl/104/121/s251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F121%2Fs251
+[/us/pl/104/121/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F121%2FtII
 [/us/stat/110/873]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F873
 
 

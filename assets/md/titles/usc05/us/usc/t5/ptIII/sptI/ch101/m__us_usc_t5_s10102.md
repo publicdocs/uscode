@@ -63,7 +63,7 @@
 
     Not later than May 1, 2007, and May 1st of each of the next 5 succeeding years, the Administrator shall submit to the appropriate committees of Congress an update of the strategic human capital plan, including an assessment by the Administrator, using results-oriented performance measures, of the progress of the Department and the Agency in implementing the strategic human capital plan.
 
-(Added [Pub. L. 109–295, title VI, § 621(a)][/us/pl/109/295/s621/a], Oct. 4, 2006, [120 Stat. 1412][/us/stat/120/1412].)
+(Added [Pub. L. 109–295, title VI][/us/pl/109/295/tVI], § 621(a), Oct. 4, 2006, [120 Stat. 1412][/us/stat/120/1412].)
 
  __References in Text__ 
 
@@ -76,7 +76,7 @@
 ----------
 ----------
 
-[/us/pl/109/295/s621/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs621%2Fa
+[/us/pl/109/295/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2FtVI
 [/us/stat/120/1412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1412
 [/us/pl/109/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295
 

@@ -53,7 +53,7 @@
 
         (2) an assignment of an employee of an other organization or an institution of higher education to a Federal agency, and an employee so assigned, shall be treated in the same way as an assignment of an employee of a State or local government to a Federal agency, and an employee so assigned, is treated under the provisions of this subchapter governing an assignment of an employee of a State or local government to a Federal agency.
 
-(Added [Pub. L. 91–648, title IV, § 402(a)][/us/pl/91/648/s402/a], Jan. 5, 1971, [84 Stat. 1921][/us/stat/84/1921]; amended [Pub. L. 93–638, title I, § 104(k)][/us/pl/93/638/s104/k], (l), as added [Pub. L. 100–472, title II, § 203(f)][/us/pl/100/472/s203/f], Oct. 5, 1988, [102 Stat. 2290][/us/stat/102/2290]; [Pub. L. 95–454, title VI, § 603(b)][/us/pl/95/454/s603/b], (c), Oct. 13, 1978, [92 Stat. 1190][/us/stat/92/1190]; [Pub. L. 98–146, title II][/us/pl/98/146], Nov. 4, 1983, [97 Stat. 946][/us/stat/97/946]; [Pub. L. 103–89, § 3(b)(1)(A)][/us/pl/103/89/s3/b/1/A], Sept. 30, 1993, [107 Stat. 981][/us/stat/107/981]; [Pub. L. 103–337, div. A, title X, § 1068(b)][/us/pl/103/337/s1068/b], Oct. 5, 1994, [108 Stat. 2852][/us/stat/108/2852].)
+(Added [Pub. L. 91–648, title IV][/us/pl/91/648/tIV], § 402(a), Jan. 5, 1971, [84 Stat. 1921][/us/stat/84/1921]; amended [Pub. L. 93–638, title I][/us/pl/93/638/tI], § 104(k), (l), as added [Pub. L. 100–472, title II][/us/pl/100/472/tII], § 203(f), Oct. 5, 1988, [102 Stat. 2290][/us/stat/102/2290]; [Pub. L. 95–454, title VI][/us/pl/95/454/tVI], § 603(b), (c), Oct. 13, 1978, [92 Stat. 1190][/us/stat/92/1190]; [Pub. L. 98–146, title II][/us/pl/98/146/tII], Nov. 4, 1983, [97 Stat. 946][/us/stat/97/946]; [Pub. L. 103–89][/us/pl/103/89], § 3(b)(1)(A), Sept. 30, 1993, [107 Stat. 981][/us/stat/107/981]; [Pub. L. 103–337, div. A, title X][/us/pl/103/337/dA/tX], § 1068(b), Oct. 5, 1994, [108 Stat. 2852][/us/stat/108/2852].)
 
  __Amendments__ 
 
@@ -61,23 +61,23 @@
 
     1993—Subsec. (d). [Pub. L. 103–89][/us/pl/103/89] substituted “and additional step-increases, as defined in chapter 53” for “additional step-increases, merit pay, and cash awards, as defined in chapters 53 and 54”.
 
-    1988—Subsecs. (a), (d). [Pub. L. 100–472][/us/pl/100/472] added [Pub. L. 93–638, § 104(k)][/us/pl/93/638/s104/k], (l). See 1975 Amendment note below.
+    1988—Subsecs. (a), (d). [Pub. L. 100–472][/us/pl/100/472] added [Pub. L. 93–638][/us/pl/93/638], § 104(k), (l). See 1975 Amendment note below.
 
     1983—Subsec. (a). [Pub. L. 98–146][/us/pl/98/146] inserted sentence providing that, in the case of assignments made to Indian tribes or tribal organizations as defined in [section 3371(2)(C) of this title][/us/usc/t5/s3371/2/C], the head of an executive agency may extend the period of assignment for any period of time where it is determined that this will continue to benefit both the executive agency and the Indian tribe or tribal organization.
 
-    1978—Subsec. (a). [Pub. L. 95–454, § 603(b)][/us/pl/95/454/s603/b], (c)(1), substituted “a Federal” for “an executive” wherever appearing, and in cl. (1) inserted provisions relating to a noncareer appointee, limited term appointee, or limited emergency appointee, and an employee excepted from the competitive service.
+    1978—Subsec. (a). [Pub. L. 95–454][/us/pl/95/454], § 603(b), (c)(1), substituted “a Federal” for “an executive” wherever appearing, and in cl. (1) inserted provisions relating to a noncareer appointee, limited term appointee, or limited emergency appointee, and an employee excepted from the competitive service.
 
-    Subsec. (b). [Pub. L. 95–454, § 603(b)][/us/pl/95/454/s603/b], (c)(2)–(4), in cls. (1) and (2) substituted “a Federal” for “an executive”, and added cls. (3) and (4).
+    Subsec. (b). [Pub. L. 95–454][/us/pl/95/454], § 603(b), (c)(2)–(4), in cls. (1) and (2) substituted “a Federal” for “an executive”, and added cls. (3) and (4).
 
-    Subsec. (c). [Pub. L. 95–454, § 603(c)(5)][/us/pl/95/454/s603/c/5], added subsec. (c).
+    Subsec. (c). [Pub. L. 95–454][/us/pl/95/454], § 603(c)(5), added subsec. (c).
 
-    1975—Subsec. (a). [Pub. L. 93–638, § 104(k)][/us/pl/93/638/s104/k], as added by [Pub. L. 100–472][/us/pl/100/472], inserted at end “If the assigned employee fails to complete the period of assignment and there is another employee willing and available to do so, the Secretary may assign the employee to complete the period of assignment and may execute an agreement with the tribal organization with respect to the replacement employee. That agreement may provide for a different period of assignment as may be agreed to by the Secretary and the tribal organization.”
+    1975—Subsec. (a). [Pub. L. 93–638][/us/pl/93/638], § 104(k), as added by [Pub. L. 100–472][/us/pl/100/472], inserted at end “If the assigned employee fails to complete the period of assignment and there is another employee willing and available to do so, the Secretary may assign the employee to complete the period of assignment and may execute an agreement with the tribal organization with respect to the replacement employee. That agreement may provide for a different period of assignment as may be agreed to by the Secretary and the tribal organization.”
 
-    Subsec. (d). [Pub. L. 93–638, § 104][/us/pl/93/638/s104](l), as added by [Pub. L. 100–472][/us/pl/100/472], added subsec. (d).
+    Subsec. (d). [Pub. L. 93–638][/us/pl/93/638], § 104(l), as added by [Pub. L. 100–472][/us/pl/100/472], added subsec. (d).
 
  __Effective Date of 1993 Amendment__ 
 
-[Pub. L. 103–89, § 3(c)][/us/pl/103/89/s3/c], Sept. 30, 1993, [107 Stat. 983][/us/stat/107/983], provided that: 
+[Pub. L. 103–89][/us/pl/103/89], § 3(c), Sept. 30, 1993, [107 Stat. 983][/us/stat/107/983], provided that: 
 
 > “The amendments made by this section \[amending this section and sections 4501, 4502, 5302, 5332, 5334 to 5336, 5361 to 5363, 5948, and 8473 of this title, sections 1602, 1732, and 1733 of Title 10, Armed Forces, and [section 731 of Title 31][/us/usc/t31/s731], Money and Finance, repealing sections 4302a and 5401 to 5410 of this title, and amending provisions set out as a note under [section 5304 of this title][/us/usc/t5/s5304]\] shall take effect as of November 1, 1993.”
 
@@ -94,33 +94,33 @@
 
 [/us/usc/t5/s3132/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3132%2Fa
 [/us/usc/t5/s3376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3376
-[/us/pl/91/648/s402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F648%2Fs402%2Fa
+[/us/pl/91/648/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F648%2FtIV
 [/us/stat/84/1921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1921
-[/us/pl/93/638/s104/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638%2Fs104%2Fk
-[/us/pl/100/472/s203/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F472%2Fs203%2Ff
+[/us/pl/93/638/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638%2FtI
+[/us/pl/100/472/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F472%2FtII
 [/us/stat/102/2290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2290
-[/us/pl/95/454/s603/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs603%2Fb
+[/us/pl/95/454/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtVI
 [/us/stat/92/1190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1190
-[/us/pl/98/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F146
+[/us/pl/98/146/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F146%2FtII
 [/us/stat/97/946]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F946
-[/us/pl/103/89/s3/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F89%2Fs3%2Fb%2F1%2FA
+[/us/pl/103/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F89
 [/us/stat/107/981]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F981
-[/us/pl/103/337/s1068/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1068%2Fb
+[/us/pl/103/337/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtX
 [/us/stat/108/2852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2852
 [/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/pl/103/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F89
 [/us/pl/100/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F472
-[/us/pl/93/638/s104/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638%2Fs104%2Fk
+[/us/pl/93/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638
 [/us/pl/98/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F146
 [/us/usc/t5/s3371/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3371%2F2%2FC
-[/us/pl/95/454/s603/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs603%2Fb
-[/us/pl/95/454/s603/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs603%2Fb
-[/us/pl/95/454/s603/c/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs603%2Fc%2F5
-[/us/pl/93/638/s104/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638%2Fs104%2Fk
+[/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454
+[/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454
+[/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454
+[/us/pl/93/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638
 [/us/pl/100/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F472
-[/us/pl/93/638/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638%2Fs104
+[/us/pl/93/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638
 [/us/pl/100/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F472
-[/us/pl/103/89/s3/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F89%2Fs3%2Fc
+[/us/pl/103/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F89
 [/us/stat/107/983]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F983
 [/us/usc/t31/s731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs731
 [/us/usc/t5/s5304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5304

@@ -71,7 +71,7 @@
 
     (c) Each prevailing rate employee employed within any of the several States or the District of Columbia shall be a United States citizen or a bona fide resident of one of the several States or the District of Columbia unless the Secretary of Labor certifies that no United States citizen or bona fide resident of one of the several States or the District of Columbia is available to fill the particular position.
 
-(Added [Pub. L. 92–392, § 1(a)][/us/pl/92/392/s1/a], Aug. 19, 1972, [86 Stat. 564][/us/stat/86/564]; amended [Pub. L. 96–70, title III, § 3302(e)(1)][/us/pl/96/70/s3302/e/1], Sept. 27, 1979, [93 Stat. 498][/us/stat/93/498]; [Pub. L. 96–191, § 8(d)][/us/pl/96/191/s8/d], Feb. 15, 1980, [94 Stat. 33][/us/stat/94/33]; [Pub. L. 97–468, title VI, § 615(b)(1)(D)][/us/pl/97/468/s615/b/1/D], Jan. 14, 1983, [96 Stat. 2578][/us/stat/96/2578]; [Pub. L. 98–618, title V, § 502(b)][/us/pl/98/618/s502/b], Nov. 8, 1984, [98 Stat. 3303][/us/stat/98/3303]; [Pub. L. 102–54, § 13(b)(1)][/us/pl/102/54/s13/b/1], June 13, 1991, [105 Stat. 274][/us/stat/105/274]; [Pub. L. 103–359, title V, § 501(h)][/us/pl/103/359/s501/h], Oct. 14, 1994, [108 Stat. 3429][/us/stat/108/3429]; [Pub. L. 104–201, div. A, title XI, § 1122(a)(1)][/us/pl/104/201/s1122/a/1], div. C, title XXXV, § 3548(a)(3)(A), Sept. 23, 1996, [110 Stat. 2687][/us/stat/110/2687], 2868; [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title IX, § 931(a)(1), Oct. 14, 2008, [122 Stat. 4575][/us/stat/122/4575].)
+(Added [Pub. L. 92–392][/us/pl/92/392], § 1(a), Aug. 19, 1972, [86 Stat. 564][/us/stat/86/564]; amended [Pub. L. 96–70, title III][/us/pl/96/70/tIII], § 3302(e)(1), Sept. 27, 1979, [93 Stat. 498][/us/stat/93/498]; [Pub. L. 96–191][/us/pl/96/191], § 8(d), Feb. 15, 1980, [94 Stat. 33][/us/stat/94/33]; [Pub. L. 97–468, title VI][/us/pl/97/468/tVI], § 615(b)(1)(D), Jan. 14, 1983, [96 Stat. 2578][/us/stat/96/2578]; [Pub. L. 98–618, title V][/us/pl/98/618/tV], § 502(b), Nov. 8, 1984, [98 Stat. 3303][/us/stat/98/3303]; [Pub. L. 102–54][/us/pl/102/54], § 13(b)(1), June 13, 1991, [105 Stat. 274][/us/stat/105/274]; [Pub. L. 103–359, title V][/us/pl/103/359/tV], § 501(h), Oct. 14, 1994, [108 Stat. 3429][/us/stat/108/3429]; [Pub. L. 104–201, div. A, title XI][/us/pl/104/201/dA/tXI], § 1122(a)(1), div. C, title XXXV, § 3548(a)(3)(A), Sept. 23, 1996, [110 Stat. 2687][/us/stat/110/2687], 2868; [Pub. L. 108–271][/us/pl/108/271], § 8(b), July 7, 2004, [118 Stat. 814][/us/stat/118/814]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title IX, § 931(a)(1), Oct. 14, 2008, [122 Stat. 4575][/us/stat/122/4575].)
 
  __Prior Provisions__ 
 
@@ -85,9 +85,9 @@
 
     2004—Subsec. (a)(1)(H). [Pub. L. 108–271][/us/pl/108/271] substituted “Government Accountability Office” for “General Accounting Office”.
 
-    1996—Subsec. (a)(1). [Pub. L. 104–201, § 3548(a)(3)(A)][/us/pl/104/201/s3548/a/3/A], which directed amendment of subsec. (a)(1) by striking subpar. (G) and redesignating subpars. (H), (I), (J), (K), and (L) as (G), (H), (I), (J), and (K), respectively, was executed by striking subpar. (F), relating to the Panama Canal Commission, and redesignating subpars. (G), (H), (I), (K), and (L) as (F), (G), (H), (J), and (K), respectively, to reflect the probable intent of Congress, because subsec. (a)(1) does not contain a subpar. (J) and the amendments were included in a series of conforming amendments relating to the Panama Canal.
+    1996—Subsec. (a)(1). [Pub. L. 104–201][/us/pl/104/201], § 3548(a)(3)(A), which directed amendment of subsec. (a)(1) by striking subpar. (G) and redesignating subpars. (H), (I), (J), (K), and (L) as (G), (H), (I), (J), and (K), respectively, was executed by striking subpar. (F), relating to the Panama Canal Commission, and redesignating subpars. (G), (H), (I), (K), and (L) as (F), (G), (H), (J), and (K), respectively, to reflect the probable intent of Congress, because subsec. (a)(1) does not contain a subpar. (J) and the amendments were included in a series of conforming amendments relating to the Panama Canal.
 
-    Subsec. (a)(1)(L). [Pub. L. 104–201, § 1122(a)(1)][/us/pl/104/201/s1122/a/1], substituted “National Imagery and Mapping Agency” for “Central Imagery Office”.
+    Subsec. (a)(1)(L). [Pub. L. 104–201][/us/pl/104/201], § 1122(a)(1), substituted “National Imagery and Mapping Agency” for “Central Imagery Office”.
 
     1994—Subsec. (a)(1)(J) to (L). [Pub. L. 103–359][/us/pl/103/359] directed the amendment of subpar. (J) by striking out “or” at end which could not be executed because par. (1) does not contain a subpar. (J), added “or” at end of subpar. (K), and added subpar. (L).
 
@@ -127,7 +127,7 @@
 
  __Dissolution of Virgin Islands Corporation__ 
 
-    Virgin Islands Corporation established to have succession until June 30, 1969, unless sooner dissolved by Act of Congress, by [act June 30, 1949, ch. 285][/us/act/1949-06-30/ch285], [63 Stat. 350][/us/stat/63/350], as amended ([48 U.S.C. 1407][/us/usc/t48/s1407] et seq.). Corporation terminated its program June 30, 1965, and dissolved July 1, 1966. Act June 30, 1949, was repealed by [Pub. L. 97–357, title III, § 308(e)][/us/pl/97/357/s308/e], Oct. 19, 1982, [96 Stat. 1710][/us/stat/96/1710].
+    Virgin Islands Corporation established to have succession until June 30, 1969, unless sooner dissolved by Act of Congress, by [act June 30, 1949, ch. 285][/us/act/1949-06-30/ch285], [63 Stat. 350][/us/stat/63/350], as amended ([48 U.S.C. 1407][/us/usc/t48/s1407] et seq.). Corporation terminated its program June 30, 1965, and dissolved July 1, 1966. Act June 30, 1949, was repealed by [Pub. L. 97–357, title III][/us/pl/97/357/tIII], § 308(e), Oct. 19, 1982, [96 Stat. 1710][/us/stat/96/1710].
 
 ----------
 
@@ -141,23 +141,23 @@
 [/us/usc/t5/s5102/c/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5102%2Fc%2F14
 [/us/usc/t5/s5102/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5102%2Fc
 [/us/usc/t5/s5102/c/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5102%2Fc%2F8
-[/us/pl/92/392/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F392%2Fs1%2Fa
+[/us/pl/92/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F392
 [/us/stat/86/564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F564
-[/us/pl/96/70/s3302/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2Fs3302%2Fe%2F1
+[/us/pl/96/70/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2FtIII
 [/us/stat/93/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F498
-[/us/pl/96/191/s8/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F191%2Fs8%2Fd
+[/us/pl/96/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F191
 [/us/stat/94/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F33
-[/us/pl/97/468/s615/b/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F468%2Fs615%2Fb%2F1%2FD
+[/us/pl/97/468/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F468%2FtVI
 [/us/stat/96/2578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2578
-[/us/pl/98/618/s502/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F618%2Fs502%2Fb
+[/us/pl/98/618/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F618%2FtV
 [/us/stat/98/3303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3303
-[/us/pl/102/54/s13/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54%2Fs13%2Fb%2F1
+[/us/pl/102/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54
 [/us/stat/105/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F274
-[/us/pl/103/359/s501/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F359%2Fs501%2Fh
+[/us/pl/103/359/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F359%2FtV
 [/us/stat/108/3429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3429
-[/us/pl/104/201/s1122/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1122%2Fa%2F1
+[/us/pl/104/201/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtXI
 [/us/stat/110/2687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2687
-[/us/pl/108/271/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271%2Fs8%2Fb
+[/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/stat/118/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F814
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4575
@@ -169,8 +169,8 @@
 [/us/pl/92/392/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F392%2Fs1%2Fa
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
-[/us/pl/104/201/s3548/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs3548%2Fa%2F3%2FA
-[/us/pl/104/201/s1122/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1122%2Fa%2F1
+[/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
+[/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
 [/us/pl/103/359]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F359
 [/us/pl/102/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54
 [/us/pl/98/618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F618
@@ -193,7 +193,7 @@
 [/us/act/1949-06-30/ch285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-06-30%2Fch285
 [/us/stat/63/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F350
 [/us/usc/t48/s1407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1407
-[/us/pl/97/357/s308/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F357%2Fs308%2Fe
+[/us/pl/97/357/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F357%2FtIII
 [/us/stat/96/1710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1710
 
 

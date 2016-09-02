@@ -17,7 +17,7 @@
 
     Except to the extent that the Office of Personnel Management may prescribe regulations, nothing in section 7351 shall apply with respect to a solicitation, donation, or acceptance of leave under this subchapter.
 
-(Added [Pub. L. 100–566, § 2(a)][/us/pl/100/566/s2/a], Oct. 31, 1988, [102 Stat. 2838][/us/stat/102/2838].)
+(Added [Pub. L. 100–566][/us/pl/100/566], § 2(a), Oct. 31, 1988, [102 Stat. 2838][/us/stat/102/2838].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/100/566/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F566%2Fs2%2Fa
+[/us/pl/100/566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F566
 [/us/stat/102/2838]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2838
 
 

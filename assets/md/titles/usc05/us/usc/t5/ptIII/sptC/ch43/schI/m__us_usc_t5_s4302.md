@@ -43,7 +43,7 @@
 
     (c) In accordance with regulations which the Office shall prescribe, the head of an agency may administer and maintain a performance appraisal system electronically.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 440][/us/stat/80/440]; [Pub. L. 95–454, title II, § 203(a)][/us/pl/95/454/s203/a], Oct. 13, 1978, [92 Stat. 1132][/us/stat/92/1132]; [Pub. L. 102–378, § 2(18)][/us/pl/102/378/s2/18], Oct. 2, 1992, [106 Stat. 1347][/us/stat/106/1347]; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title XI, § 1104\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–311.)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 440][/us/stat/80/440]; [Pub. L. 95–454, title II][/us/pl/95/454/tII], § 203(a), Oct. 13, 1978, [92 Stat. 1132][/us/stat/92/1132]; [Pub. L. 102–378][/us/pl/102/378], § 2(18), Oct. 2, 1992, [106 Stat. 1347][/us/stat/106/1347]; [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title XI, § 1104\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–311.)
 
 <table>
 
@@ -114,11 +114,11 @@ Sept. 30, 1950, ch. 1123, § 3, 64 Stat. 1098.  </td>
 
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F440
-[/us/pl/95/454/s203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs203%2Fa
+[/us/pl/95/454/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtII
 [/us/stat/92/1132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1132
-[/us/pl/102/378/s2/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378%2Fs2%2F18
+[/us/pl/102/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378
 [/us/stat/106/1347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1347
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
 [/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/pl/102/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378

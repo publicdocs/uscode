@@ -61,7 +61,7 @@
 
         (5) be incorporated as part of the continuity of operations plans of the agency in the event of an emergency.
 
-(Added [Pub. L. 111–292, § 2(a)][/us/pl/111/292/s2/a], Dec. 9, 2010, [124 Stat. 3165][/us/stat/124/3165].)
+(Added [Pub. L. 111–292][/us/pl/111/292], § 2(a), Dec. 9, 2010, [124 Stat. 3165][/us/stat/124/3165].)
 
  __References in Text__ 
 
@@ -74,7 +74,7 @@
 ----------
 ----------
 
-[/us/pl/111/292/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F292%2Fs2%2Fa
+[/us/pl/111/292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F292
 [/us/stat/124/3165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3165
 [/us/pl/111/292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F292
 

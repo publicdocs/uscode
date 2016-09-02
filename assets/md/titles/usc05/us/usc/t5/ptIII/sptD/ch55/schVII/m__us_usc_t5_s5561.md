@@ -77,7 +77,7 @@
 
         (F) station per diem allowances for not more than 90 days.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 489][/us/stat/80/489]; [Pub. L. 105–85, div. A, title VI, § 603(d)(3)][/us/pl/105/85/s603/d/3], Nov. 18, 1997, [111 Stat. 1783][/us/stat/111/1783].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 489][/us/stat/80/489]; [Pub. L. 105–85, div. A, title VI][/us/pl/105/85/dA/tVI], § 603(d)(3), Nov. 18, 1997, [111 Stat. 1783][/us/stat/111/1783].)
 
 <table>
 
@@ -289,21 +289,21 @@ Apr. 4, 1953, ch. 17, § 1(e), 67 Stat. 21.  </td>
 
  __Effective Date of 1997 Amendment__ 
 
-[Pub. L. 105–85, div. A, title VI, § 603(e)][/us/pl/105/85/s603/e], Nov. 18, 1997, [111 Stat. 1783][/us/stat/111/1783], provided that: 
+[Pub. L. 105–85, div. A, title VI][/us/pl/105/85/dA/tVI], § 603(e), Nov. 18, 1997, [111 Stat. 1783][/us/stat/111/1783], provided that: 
 
 > “This section \[amending this section, sections 708, 2830, 2882, 7572, and 7573 of Title 10, Armed Forces, [section 107 of Title 32][/us/usc/t32/s107], National Guard, sections 101, 403, 405, 406, 420, 427, 551, and 1014 of Title 37, Pay and Allowances of the Uniformed Services, and [section 3803 of Title 50][/us/usc/t50/s3803], War and National Defense, repealing [section 403a of Title 37][/us/usc/t37/s403a], and enacting provisions set out as a note under [section 403 of Title 37][/us/usc/t37/s403]\] and the amendments made by this section shall take effect on January 1, 1998.”
 
  __Accounting for Civilian Employees and Contractors of United States__ 
 
-    [Pub. L. 104–106, div. A, title V, § 569(e)][/us/pl/104/106/s569/e], Feb. 10, 1996, [110 Stat. 352][/us/stat/110/352], directed Secretary of State to carry out comprehensive study of provisions of this subchapter and any other law or regulation establishing procedures for accounting for civilian employees of the United States or contractors of the United States who serve with or accompany the Armed Forces in the field to determine the means, if any, by which those procedures may be improved, and further provided for submission of report to Congress not later than one year after Feb. 10, 1996, on results of study.
+    [Pub. L. 104–106, div. A, title V][/us/pl/104/106/dA/tV], § 569(e), Feb. 10, 1996, [110 Stat. 352][/us/stat/110/352], directed Secretary of State to carry out comprehensive study of provisions of this subchapter and any other law or regulation establishing procedures for accounting for civilian employees of the United States or contractors of the United States who serve with or accompany the Armed Forces in the field to determine the means, if any, by which those procedures may be improved, and further provided for submission of report to Congress not later than one year after Feb. 10, 1996, on results of study.
 
  __Benefits for United States Hostages in Iraq and Kuwait and United States Hostages Captured in Lebanon__ 
 
-    [Pub. L. 101–513, title V, § 599C][/us/pl/101/513/s599C], Nov. 5, 1990, [104 Stat. 2064][/us/stat/104/2064], as amended by [Pub. L. 102–138, title III, § 302(a)][/us/pl/102/138/s302/a], Oct. 28, 1991, [105 Stat. 707][/us/stat/105/707]; [Pub. L. 102–499, § 5(a)][/us/pl/102/499/s5/a], Oct. 24, 1992, [106 Stat. 3266][/us/stat/106/3266], provided for payment of benefits during fiscal year 1991 and thereafter for United States hostages in Iraq and Kuwait and United States hostages captured in Lebanon.
+    [Pub. L. 101–513, title V][/us/pl/101/513/tV], § 599C, Nov. 5, 1990, [104 Stat. 2064][/us/stat/104/2064], as amended by [Pub. L. 102–138, title III][/us/pl/102/138/tIII], § 302(a), Oct. 28, 1991, [105 Stat. 707][/us/stat/105/707]; [Pub. L. 102–499][/us/pl/102/499], § 5(a), Oct. 24, 1992, [106 Stat. 3266][/us/stat/106/3266], provided for payment of benefits during fiscal year 1991 and thereafter for United States hostages in Iraq and Kuwait and United States hostages captured in Lebanon.
 
  __Hostage Relief__ 
 
-    [Pub. L. 96–449][/us/pl/96/449], Oct. 14, 1980, [94 Stat. 1967][/us/stat/94/1967], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 102–83, § 5(c)(2)][/us/pl/102/83/s5/c/2], Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406], known as the “Hostage Relief Act of 1980”, provided for benefits for United States civil service and uniformed service personnel who were placed in a captive status during a hostage period beginning on Nov. 4, 1979, due to the seizure of the United States Embassy in Iran.
+    [Pub. L. 96–449][/us/pl/96/449], Oct. 14, 1980, [94 Stat. 1967][/us/stat/94/1967], as amended by [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 102–83][/us/pl/102/83], § 5(c)(2), Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406], known as the “Hostage Relief Act of 1980”, provided for benefits for United States civil service and uniformed service personnel who were placed in a captive status during a hostage period beginning on Nov. 4, 1979, due to the seizure of the United States Embassy in Iran.
 
  __Executive Order No. 12268__ 
 
@@ -322,29 +322,29 @@ Apr. 4, 1953, ch. 17, § 1(e), 67 Stat. 21.  </td>
 
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/489]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F489
-[/us/pl/105/85/s603/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs603%2Fd%2F3
+[/us/pl/105/85/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtVI
 [/us/stat/111/1783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1783
 [/us/usc/t5/s933a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs933a
 [/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
-[/us/pl/105/85/s603/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs603%2Fe
+[/us/pl/105/85/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtVI
 [/us/stat/111/1783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1783
 [/us/usc/t32/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft32%2Fs107
 [/us/usc/t50/s3803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3803
 [/us/usc/t37/s403a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs403a
 [/us/usc/t37/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs403
-[/us/pl/104/106/s569/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs569%2Fe
+[/us/pl/104/106/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtV
 [/us/stat/110/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F352
-[/us/pl/101/513/s599C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F513%2Fs599C
+[/us/pl/101/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F513%2FtV
 [/us/stat/104/2064]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2064
-[/us/pl/102/138/s302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138%2Fs302%2Fa
+[/us/pl/102/138/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138%2FtIII
 [/us/stat/105/707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F707
-[/us/pl/102/499/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F499%2Fs5%2Fa
+[/us/pl/102/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F499
 [/us/stat/106/3266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3266
 [/us/pl/96/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F449
 [/us/stat/94/1967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1967
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
-[/us/pl/102/83/s5/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fc%2F2
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F406
 [/us/pl/96/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F449
 

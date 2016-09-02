@@ -19,7 +19,7 @@
 
     (b) Recovery of payments under subchapter II, IV, or V of this chapter may not be made from an individual when, in the judgment of the Office, the individual is without fault and recovery would be against equity and good conscience. Withholding or recovery of money paid under subchapter II, IV, or V of this chapter on account of a certification or payment made by a former employee of the United States in the discharge of his official duties may be made only if the head of the agency on behalf of which the certification or payment was made certifies to the Office that the certification or payment involved fraud on the part of the former employee.
 
-(Added [Pub. L. 99–335, title I, § 101(a)][/us/pl/99/335/s101/a], June 6, 1986, [100 Stat. 577][/us/stat/100/577].)
+(Added [Pub. L. 99–335, title I][/us/pl/99/335/tI], § 101(a), June 6, 1986, [100 Stat. 577][/us/stat/100/577].)
 
 ----------
 
@@ -28,7 +28,7 @@
 ----------
 ----------
 
-[/us/pl/99/335/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2Fs101%2Fa
+[/us/pl/99/335/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2FtI
 [/us/stat/100/577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F577
 
 

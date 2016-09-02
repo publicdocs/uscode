@@ -57,7 +57,7 @@
 
     Notwithstanding clauses (x)–(xii) of paragraph (2), the term “employee” includes any member of the Senior Foreign Service or any Foreign Service officer (other than a member or officer serving as chief of mission or in a position which requires appointment by and with the advice and consent of the Senate) and any member of the Foreign Service commissioned as a diplomatic or consular officer, or both, under section 312 of the Foreign Service Act of 1980.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 517][/us/stat/80/517]; [Pub. L. 91–375, § 6(c)(17)][/us/pl/91/375/s6/c/17], Aug. 12, 1970, [84 Stat. 776][/us/stat/84/776]; [Pub. L. 95–519, § 1][/us/pl/95/519/s1], Oct. 25, 1978, [92 Stat. 1819][/us/stat/92/1819]; [Pub. L. 96–70, title III, § 3302(e)(2)][/us/pl/96/70/s3302/e/2], Sept. 27, 1979, [93 Stat. 498][/us/stat/93/498]; [Pub. L. 96–465, title II][/us/pl/96/465], §§ 2312(a), 2314(f)(1), Oct. 17, 1980, [94 Stat. 2166][/us/stat/94/2166], 2168; [Pub. L. 99–335, title II, § 207(c)(1)][/us/pl/99/335/s207/c/1], formerly § 207(c), June 6, 1986, [100 Stat. 595][/us/stat/100/595], renumbered § 207(c)(1), [Pub. L. 99–556, title II, § 201(1)][/us/pl/99/556/s201/1], Oct. 27, 1986, [100 Stat. 3135][/us/stat/100/3135]; [Pub. L. 102–54, § 13(b)(2)][/us/pl/102/54/s13/b/2], June 13, 1991, [105 Stat. 274][/us/stat/105/274].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 517][/us/stat/80/517]; [Pub. L. 91–375][/us/pl/91/375], § 6(c)(17), Aug. 12, 1970, [84 Stat. 776][/us/stat/84/776]; [Pub. L. 95–519][/us/pl/95/519], § 1, Oct. 25, 1978, [92 Stat. 1819][/us/stat/92/1819]; [Pub. L. 96–70, title III][/us/pl/96/70/tIII], § 3302(e)(2), Sept. 27, 1979, [93 Stat. 498][/us/stat/93/498]; [Pub. L. 96–465, title II][/us/pl/96/465/tII], §§ 2312(a), 2314(f)(1), Oct. 17, 1980, [94 Stat. 2166][/us/stat/94/2166], 2168; [Pub. L. 99–335, title II][/us/pl/99/335/tII], § 207(c)(1), formerly § 207(c), June 6, 1986, [100 Stat. 595][/us/stat/100/595], renumbered § 207(c)(1), [Pub. L. 99–556, title II][/us/pl/99/556/tII], § 201(1), Oct. 27, 1986, [100 Stat. 3135][/us/stat/100/3135]; [Pub. L. 102–54][/us/pl/102/54], § 13(b)(2), June 13, 1991, [105 Stat. 274][/us/stat/105/274].)
 
 <table>
 
@@ -207,9 +207,9 @@ July 17, 1959, Pub. L. 86–91, § 10(a) (less applicability to the Federal Em
 
     1986—Par. (2)(B). [Pub. L. 99–335][/us/pl/99/335] amended subpar. (B) generally, substituting “first employed” for “employed” and inserting “before October 1, 1987”.
 
-    1980—[Pub. L. 96–465, § 2312(a)][/us/pl/96/465/s2312/a], inserted provision at end of par. (2) extending definition of “employee” notwithstanding cls. (x) to (xii) of par. (2).
+    1980—[Pub. L. 96–465][/us/pl/96/465], § 2312(a), inserted provision at end of par. (2) extending definition of “employee” notwithstanding cls. (x) to (xii) of par. (2).
 
-    Par. (2)(xii). [Pub. L. 96–465, § 2314(f)(1)][/us/pl/96/465/s2314/f/1], substituted “a chief of mission (as defined in section 102(a)(3) of the Foreign Service Act of 1980)” for “an officer who receives pay under [section 866 of title 22][/us/usc/t22/s866]”.
+    Par. (2)(xii). [Pub. L. 96–465][/us/pl/96/465], § 2314(f)(1), substituted “a chief of mission (as defined in section 102(a)(3) of the Foreign Service Act of 1980)” for “an officer who receives pay under [section 866 of title 22][/us/usc/t22/s866]”.
 
     1979—Par. (2)(iv). [Pub. L. 96–70][/us/pl/96/70] substituted “Panama Canal Commission” for “Canal Zone Government or the Panama Canal Company”.
 
@@ -239,31 +239,31 @@ July 17, 1959, Pub. L. 86–91, § 10(a) (less applicability to the Federal Em
 
  __Short Title of 1999 Amendment__ 
 
-[Pub. L. 106–56, § 1(a)][/us/pl/106/56/s1/a], Sept. 24, 1999, [113 Stat. 407][/us/stat/113/407], provided that: 
+[Pub. L. 106–56][/us/pl/106/56], § 1(a), Sept. 24, 1999, [113 Stat. 407][/us/stat/113/407], provided that: 
 
 > “This Act \[amending [section 6327 of this title][/us/usc/t5/s6327] and renumbering another [section 6327 of this title][/us/usc/t5/s6327] as section 6328\] may be cited as the ‘Organ Donor Leave Act’.”
 
  __Short Title of 1994 Amendment__ 
 
-[Pub. L. 103–388, § 1][/us/pl/103/388/s1], Oct. 22, 1994, [108 Stat. 4079][/us/stat/108/4079], provided that: 
+[Pub. L. 103–388][/us/pl/103/388], § 1, Oct. 22, 1994, [108 Stat. 4079][/us/stat/108/4079], provided that: 
 
 > “This Act \[amending [section 6307 of this title][/us/usc/t5/s6307]\] may be cited as the ‘Federal Employees Family Friendly Leave Act’.”
 
  __Short Title of 1993 Amendment__ 
 
-[Pub. L. 103–103, § 1][/us/pl/103/103/s1], Oct. 8, 1993, [107 Stat. 1022][/us/stat/107/1022], provided that: 
+[Pub. L. 103–103][/us/pl/103/103], § 1, Oct. 8, 1993, [107 Stat. 1022][/us/stat/107/1022], provided that: 
 
 > “This Act \[amending sections 6331, 6337, 6361, 6362, and 6373 of this title, enacting provisions set out as notes under [section 6331 of this title][/us/usc/t5/s6331], and repealing provisions set out as a note under [section 6331 of this title][/us/usc/t5/s6331]\] may be cited as the ‘Federal Employees Leave Sharing Amendments Act of 1993’.”
 
  __Short Title of 1988 Amendment__ 
 
-[Pub. L. 100–566, § 1][/us/pl/100/566/s1], Oct. 31, 1988, [102 Stat. 2834][/us/stat/102/2834], provided that: 
+[Pub. L. 100–566][/us/pl/100/566], § 1, Oct. 31, 1988, [102 Stat. 2834][/us/stat/102/2834], provided that: 
 
 > “This Act \[enacting subchapters III and IV of this chapter, amending sections 5724 and 8112 of this title, and enacting provisions set out as notes under [section 6331 of this title][/us/usc/t5/s6331]\] may be cited as the ‘Federal Employees Leave Sharing Act of 1988’.”
 
  __Employees of the District of Columbia__ 
 
-[Pub. L. 99–335, title II, § 207(c)(2)][/us/pl/99/335/s207/c/2], as added by [Pub. L. 99–556, title II, § 201][/us/pl/99/556/s201], Oct. 27, 1986, [100 Stat. 3135][/us/stat/100/3135], provided that: 
+[Pub. L. 99–335, title II][/us/pl/99/335/tII], § 207(c)(2), as added by [Pub. L. 99–556, title II][/us/pl/99/556/tII], § 201, Oct. 27, 1986, [100 Stat. 3135][/us/stat/100/3135], provided that: 
 
 > “The amendment made by paragraph (1) \[amending this section\] shall not result in the coverage, under subchapter I of chapter 63 of title 5, United States Code, of any individual (or class of individuals) employed by the government of the District of Columbia who would not have been covered under such subchapter if such amendment had not been made.”
 
@@ -284,19 +284,19 @@ July 17, 1959, Pub. L. 86–91, § 10(a) (less applicability to the Federal Em
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F517
-[/us/pl/91/375/s6/c/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375%2Fs6%2Fc%2F17
+[/us/pl/91/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375
 [/us/stat/84/776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F776
-[/us/pl/95/519/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F519%2Fs1
+[/us/pl/95/519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F519
 [/us/stat/92/1819]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1819
-[/us/pl/96/70/s3302/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2Fs3302%2Fe%2F2
+[/us/pl/96/70/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2FtIII
 [/us/stat/93/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F498
-[/us/pl/96/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465
+[/us/pl/96/465/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtII
 [/us/stat/94/2166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2166
-[/us/pl/99/335/s207/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2Fs207%2Fc%2F1
+[/us/pl/99/335/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2FtII
 [/us/stat/100/595]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F595
-[/us/pl/99/556/s201/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F556%2Fs201%2F1
+[/us/pl/99/556/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F556%2FtII
 [/us/stat/100/3135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3135
-[/us/pl/102/54/s13/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54%2Fs13%2Fb%2F2
+[/us/pl/102/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54
 [/us/stat/105/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F274
 [/us/usc/t5/s2105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs2105
 [/us/usc/t20/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs901
@@ -306,8 +306,8 @@ July 17, 1959, Pub. L. 86–91, § 10(a) (less applicability to the Federal Em
 [/us/usc/t22/s3952]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3952
 [/us/pl/102/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54
 [/us/pl/99/335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335
-[/us/pl/96/465/s2312/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs2312%2Fa
-[/us/pl/96/465/s2314/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs2314%2Ff%2F1
+[/us/pl/96/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465
+[/us/pl/96/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465
 [/us/usc/t22/s866]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs866
 [/us/pl/96/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70
 [/us/pl/95/519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F519
@@ -327,22 +327,22 @@ July 17, 1959, Pub. L. 86–91, § 10(a) (less applicability to the Federal Em
 [/us/pl/91/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375
 [/us/pl/91/375/s15/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375%2Fs15%2Fa
 [/us/usc/t39/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs101
-[/us/pl/106/56/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F56%2Fs1%2Fa
+[/us/pl/106/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F56
 [/us/stat/113/407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F407
 [/us/usc/t5/s6327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs6327
 [/us/usc/t5/s6327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs6327
-[/us/pl/103/388/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F388%2Fs1
+[/us/pl/103/388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F388
 [/us/stat/108/4079]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4079
 [/us/usc/t5/s6307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs6307
-[/us/pl/103/103/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F103%2Fs1
+[/us/pl/103/103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F103
 [/us/stat/107/1022]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1022
 [/us/usc/t5/s6331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs6331
 [/us/usc/t5/s6331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs6331
-[/us/pl/100/566/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F566%2Fs1
+[/us/pl/100/566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F566
 [/us/stat/102/2834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2834
 [/us/usc/t5/s6331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs6331
-[/us/pl/99/335/s207/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2Fs207%2Fc%2F2
-[/us/pl/99/556/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F556%2Fs201
+[/us/pl/99/335/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2FtII
+[/us/pl/99/556/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F556%2FtII
 [/us/stat/100/3135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3135
 [/us/usc/t5/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs1101
 

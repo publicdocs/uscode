@@ -21,7 +21,7 @@
 
     (c) In order to avoid duplicative action, an agency may consider a series of closely related rules as one rule for the purposes of sections 602, 603, 604 and 610 of this title.
 
-(Added [Pub. L. 96–354, § 3(a)][/us/pl/96/354/s3/a], Sept. 19, 1980, [94 Stat. 1167][/us/stat/94/1167]; amended [Pub. L. 104–121, title II, § 243(a)][/us/pl/104/121/s243/a], Mar. 29, 1996, [110 Stat. 866][/us/stat/110/866].)
+(Added [Pub. L. 96–354][/us/pl/96/354], § 3(a), Sept. 19, 1980, [94 Stat. 1167][/us/stat/94/1167]; amended [Pub. L. 104–121, title II][/us/pl/104/121/tII], § 243(a), Mar. 29, 1996, [110 Stat. 866][/us/stat/110/866].)
 
  __Amendments__ 
 
@@ -38,9 +38,9 @@
 ----------
 ----------
 
-[/us/pl/96/354/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F354%2Fs3%2Fa
+[/us/pl/96/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F354
 [/us/stat/94/1167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1167
-[/us/pl/104/121/s243/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F121%2Fs243%2Fa
+[/us/pl/104/121/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F121%2FtII
 [/us/stat/110/866]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F866
 [/us/pl/104/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F121
 [/us/pl/104/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F121

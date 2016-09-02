@@ -55,7 +55,7 @@
 
         (2) such employee gives written notice, in such manner as the employing agency prescribes, that those services are no longer desired or necessary.
 
-(Added [Pub. L. 112–81, div. A, title XI, § 1106(a)][/us/pl/112/81/s1106/a], Dec. 31, 2011, [125 Stat. 1613][/us/stat/125/1613].)
+(Added [Pub. L. 112–81, div. A, title XI][/us/pl/112/81/dA/tXI], § 1106(a), Dec. 31, 2011, [125 Stat. 1613][/us/stat/125/1613].)
 
 ----------
 
@@ -65,7 +65,7 @@
 ----------
 
 [/us/usc/t5/s8101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8101
-[/us/pl/112/81/s1106/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1106%2Fa
+[/us/pl/112/81/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtXI
 [/us/stat/125/1613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1613
 
 

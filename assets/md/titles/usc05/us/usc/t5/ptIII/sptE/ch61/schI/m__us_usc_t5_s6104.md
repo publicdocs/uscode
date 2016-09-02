@@ -25,7 +25,7 @@
 
     he is entitled to the same pay for that day as for a day on which an ordinary day’s work is performed.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 516][/us/stat/80/516]; [Pub. L. 90–623, § 1(15)][/us/pl/90/623/s1/15], Oct. 22, 1968, [82 Stat. 1313][/us/stat/82/1313]; [Pub. L. 96–54, § 2(a)(38)][/us/pl/96/54/s2/a/38], Aug. 14, 1979, [93 Stat. 383][/us/stat/93/383].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 516][/us/stat/80/516]; [Pub. L. 90–623][/us/pl/90/623], § 1(15), Oct. 22, 1968, [82 Stat. 1313][/us/stat/82/1313]; [Pub. L. 96–54][/us/pl/96/54], § 2(a)(38), Aug. 14, 1979, [93 Stat. 383][/us/stat/93/383].)
 
 <table>
 
@@ -140,9 +140,9 @@ July 18, 1958, Pub. L. 85–533, § 2, 72 Stat. 377.  </td>
 [/us/usc/t5/s6103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs6103
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F516
-[/us/pl/90/623/s1/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F623%2Fs1%2F15
+[/us/pl/90/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F623
 [/us/stat/82/1313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1313
-[/us/pl/96/54/s2/a/38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F54%2Fs2%2Fa%2F38
+[/us/pl/96/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F54
 [/us/stat/93/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F383
 [/us/pl/96/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F54
 [/us/pl/90/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F623

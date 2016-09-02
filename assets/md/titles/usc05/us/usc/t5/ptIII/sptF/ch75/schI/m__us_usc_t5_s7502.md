@@ -17,7 +17,7 @@
 
     This subchapter applies to a suspension for 14 days or less, but does not apply to a suspension under section 7521 or 7532 of this title or any action initiated under [section 1215 of this title][/us/usc/t5/s1215].
 
-(Added [Pub. L. 95–454, title II, § 204(a)][/us/pl/95/454/s204/a], Oct. 13, 1978, [92 Stat. 1135][/us/stat/92/1135]; amended [Pub. L. 101–12, § 9(a)(2)][/us/pl/101/12/s9/a/2], Apr. 10, 1989, [103 Stat. 35][/us/stat/103/35].)
+(Added [Pub. L. 95–454, title II][/us/pl/95/454/tII], § 204(a), Oct. 13, 1978, [92 Stat. 1135][/us/stat/92/1135]; amended [Pub. L. 101–12][/us/pl/101/12], § 9(a)(2), Apr. 10, 1989, [103 Stat. 35][/us/stat/103/35].)
 
  __Amendments__ 
 
@@ -35,9 +35,9 @@
 ----------
 
 [/us/usc/t5/s1215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs1215
-[/us/pl/95/454/s204/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs204%2Fa
+[/us/pl/95/454/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtII
 [/us/stat/92/1135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1135
-[/us/pl/101/12/s9/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F12%2Fs9%2Fa%2F2
+[/us/pl/101/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F12
 [/us/stat/103/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F35
 [/us/pl/101/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F12
 [/us/pl/101/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F12

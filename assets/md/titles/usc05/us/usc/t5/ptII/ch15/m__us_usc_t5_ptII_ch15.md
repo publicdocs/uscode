@@ -91,7 +91,7 @@
 
  __Amendments__ 
 
-    1974—[Pub. L. 93–443, title IV, § 401(b)(2)][/us/pl/93/443/s401/b/2], Oct. 15, 1974, [88 Stat. 1290][/us/stat/88/1290], substituted “candidacies” for “political activity” in item 1503.
+    1974—[Pub. L. 93–443, title IV][/us/pl/93/443/tIV], § 401(b)(2), Oct. 15, 1974, [88 Stat. 1290][/us/stat/88/1290], substituted “candidacies” for “political activity” in item 1503.
 
 ----------
 
@@ -100,7 +100,7 @@
 ----------
 ----------
 
-[/us/pl/93/443/s401/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443%2Fs401%2Fb%2F2
+[/us/pl/93/443/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443%2FtIV
 [/us/stat/88/1290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1290
 
 

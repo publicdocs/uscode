@@ -73,7 +73,7 @@ July 11, 1919, ch. 7, § 11 (less 1st sentence), 41 Stat. 104.  </td>
 
  __Processing of Claims Filed by District of Columbia Employees__ 
 
-    See [Pub. L. 93–198, title II, § 204(e)][/us/pl/93/198/s204/e], Dec. 24, 1973, [87 Stat. 783][/us/stat/87/783], set out as a note under [section 8101 of this title][/us/usc/t5/s8101].
+    See [Pub. L. 93–198, title II][/us/pl/93/198/tII], § 204(e), Dec. 24, 1973, [87 Stat. 783][/us/stat/87/783], set out as a note under [section 8101 of this title][/us/usc/t5/s8101].
 
 ----------
 
@@ -85,7 +85,7 @@ July 11, 1919, ch. 7, § 11 (less 1st sentence), 41 Stat. 104.  </td>
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F550
 [/us/usc/t31/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs2
-[/us/pl/93/198/s204/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F198%2Fs204%2Fe
+[/us/pl/93/198/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F198%2FtII
 [/us/stat/87/783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F783
 [/us/usc/t5/s8101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8101
 

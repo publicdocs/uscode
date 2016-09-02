@@ -43,7 +43,7 @@
 
         (2) may not exceed an amount equal to 25 percent of the rate of basic pay applicable to the employee.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 487][/us/stat/80/487]; [Pub. L. 90–83, § 1(27)][/us/pl/90/83/s1/27], Sept. 11, 1967, [81 Stat. 200][/us/stat/81/200]; [Pub. L. 90–206, title II, § 217][/us/pl/90/206/s217], Dec. 16, 1967, [81 Stat. 638][/us/stat/81/638]; [Pub. L. 90–556, § 2][/us/pl/90/556/s2], Oct. 10, 1968, [82 Stat. 969][/us/stat/82/969]; [Pub. L. 91–231, § 8][/us/pl/91/231/s8], Apr. 15, 1970, [84 Stat. 198][/us/stat/84/198]; [Pub. L. 94–183, § 2(23)][/us/pl/94/183/s2/23], Dec. 31, 1975, [89 Stat. 1058][/us/stat/89/1058]; [Pub. L. 95–454, title IX, § 906(a)(2)][/us/pl/95/454/s906/a/2], (3), Oct. 13, 1978, [92 Stat. 1224][/us/stat/92/1224]; [Pub. L. 96–54, § 2(a)(32)][/us/pl/96/54/s2/a/32], Aug. 14, 1979, [93 Stat. 383][/us/stat/93/383]; [Pub. L. 97–258, § 3(a)(13)][/us/pl/97/258/s3/a/13], Sept. 13, 1982, [96 Stat. 1063][/us/stat/96/1063]; [Pub. L. 101–173, § 1(a)][/us/pl/101/173/s1/a], Nov. 27, 1989, [103 Stat. 1292][/us/stat/103/1292]; [Pub. L. 101–509, title V, § 529][/us/pl/101/509/s529] \[title I, § 101(b)(3)(E), title II, § 203\], Nov. 5, 1990, [104 Stat. 1427][/us/stat/104/1427], 1439, 1456; [Pub. L. 102–378, § 3(2)][/us/pl/102/378/s3/2], Oct. 2, 1992, [106 Stat. 1355][/us/stat/106/1355]; [Pub. L. 108–136, div. A, title XI, § 1122(b)][/us/pl/108/136/s1122/b], Nov. 24, 2003, [117 Stat. 1637][/us/stat/117/1637].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 487][/us/stat/80/487]; [Pub. L. 90–83][/us/pl/90/83], § 1(27), Sept. 11, 1967, [81 Stat. 200][/us/stat/81/200]; [Pub. L. 90–206, title II][/us/pl/90/206/tII], § 217, Dec. 16, 1967, [81 Stat. 638][/us/stat/81/638]; [Pub. L. 90–556][/us/pl/90/556], § 2, Oct. 10, 1968, [82 Stat. 969][/us/stat/82/969]; [Pub. L. 91–231][/us/pl/91/231], § 8, Apr. 15, 1970, [84 Stat. 198][/us/stat/84/198]; [Pub. L. 94–183][/us/pl/94/183], § 2(23), Dec. 31, 1975, [89 Stat. 1058][/us/stat/89/1058]; [Pub. L. 95–454, title IX][/us/pl/95/454/tIX], § 906(a)(2), (3), Oct. 13, 1978, [92 Stat. 1224][/us/stat/92/1224]; [Pub. L. 96–54][/us/pl/96/54], § 2(a)(32), Aug. 14, 1979, [93 Stat. 383][/us/stat/93/383]; [Pub. L. 97–258][/us/pl/97/258], § 3(a)(13), Sept. 13, 1982, [96 Stat. 1063][/us/stat/96/1063]; [Pub. L. 101–173][/us/pl/101/173], § 1(a), Nov. 27, 1989, [103 Stat. 1292][/us/stat/103/1292]; [Pub. L. 101–509, title V][/us/pl/101/509/tV], § 529 \[title I, § 101(b)(3)(E), title II, § 203\], Nov. 5, 1990, [104 Stat. 1427][/us/stat/104/1427], 1439, 1456; [Pub. L. 102–378][/us/pl/102/378], § 3(2), Oct. 2, 1992, [106 Stat. 1355][/us/stat/106/1355]; [Pub. L. 108–136, div. A, title XI][/us/pl/108/136/dA/tXI], § 1122(b), Nov. 24, 2003, [117 Stat. 1637][/us/stat/117/1637].)
 
 <table>
 
@@ -203,11 +203,11 @@ July 19, 1966, Pub. L. 89–512, § 1, 80 Stat. 318.  </td>
 
     2003—Subsec. (d). [Pub. L. 108–136][/us/pl/108/136] inserted before period at end of first sentence “, and for any hardship or hazard related to asbestos, such differentials shall be determined by applying occupational safety and health standards consistent with the permissible exposure limit promulgated by the Secretary of Labor under the Occupational Safety and Health Act of 1970”.
 
-    1992—Subsec. (d). [Pub. L. 102–378][/us/pl/102/378] made technical correction to directory language of [Pub. L. 101–509, § 529][/us/pl/101/509/s529] \[title II, § 203\]. See 1990 Amendment note below.
+    1992—Subsec. (d). [Pub. L. 102–378][/us/pl/102/378] made technical correction to directory language of [Pub. L. 101–509][/us/pl/101/509], § 529 \[title II, § 203\]. See 1990 Amendment note below.
 
-    1990—Subsec. (c)(1). [Pub. L. 101–509, § 529][/us/pl/101/509/s529] \[title I, § 101(b)(3)(E)\], inserted “(including any applicable locality-based comparability payment under section 5304 or similar provision of law and any applicable special rate of pay under section 5305 or similar provision of law)” after “GS–10”.
+    1990—Subsec. (c)(1). [Pub. L. 101–509][/us/pl/101/509], § 529 \[title I, § 101(b)(3)(E)\], inserted “(including any applicable locality-based comparability payment under section 5304 or similar provision of law and any applicable special rate of pay under section 5305 or similar provision of law)” after “GS–10”.
 
-    Subsec. (d). [Pub. L. 101–509, § 529][/us/pl/101/509/s529] \[title II, § 203\], as amended by [Pub. L. 102–378][/us/pl/102/378], struck out “irregular or intermittent” before “duty involving unusual” in first sentence and inserted “, except in such circumstances as the Office may by regulation prescribe” after “thereof” in par. (1).
+    Subsec. (d). [Pub. L. 101–509][/us/pl/101/509], § 529 \[title II, § 203\], as amended by [Pub. L. 102–378][/us/pl/102/378], struck out “irregular or intermittent” before “duty involving unusual” in first sentence and inserted “, except in such circumstances as the Office may by regulation prescribe” after “thereof” in par. (1).
 
     1989—Subsec. (c)(2). [Pub. L. 101–173][/us/pl/101/173] amended par. (2) generally. Prior to amendment, par. (2) read as follows: “an employee in a position in which the hours of duty cannot be controlled administratively, and which requires substantial amounts of irregular, unscheduled, overtime duty with the employee generally being responsible for recognizing, without supervision, circumstances which require him to remain on duty, shall receive premium pay for this duty on an annual basis instead of premium pay provided by other provisions of this subchapter, except for regularly scheduled overtime, night, and Sunday duty, and for holiday duty. Premium pay under this paragraph is determined as an appropriate percentage, not less than 10 percent nor more than 25 percent, of such part of the rate of basic pay for the position as does not exceed the minimum rate of basic pay for GS–10, by taking into consideration the frequency and duration of irregular unscheduled overtime duty required in the position.”
 
@@ -235,7 +235,7 @@ July 19, 1966, Pub. L. 89–512, § 1, 80 Stat. 318.  </td>
 
  __Effective Date of 1989 Amendment__ 
 
-[Pub. L. 101–173, § 1(b)][/us/pl/101/173/s1/b], Nov. 27, 1989, [103 Stat. 1292][/us/stat/103/1292], provided that: 
+[Pub. L. 101–173][/us/pl/101/173], § 1(b), Nov. 27, 1989, [103 Stat. 1292][/us/stat/103/1292], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply with respect to overtime duty performed on or after the first day of the first applicable pay period beginning after September 30, 1990.”
 
@@ -270,29 +270,29 @@ July 19, 1966, Pub. L. 89–512, § 1, 80 Stat. 318.  </td>
 [/us/usc/t5/s5542/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5542%2Fa%2F3
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F487
-[/us/pl/90/83/s1/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83%2Fs1%2F27
+[/us/pl/90/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83
 [/us/stat/81/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F200
-[/us/pl/90/206/s217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F206%2Fs217
+[/us/pl/90/206/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F206%2FtII
 [/us/stat/81/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F638
-[/us/pl/90/556/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F556%2Fs2
+[/us/pl/90/556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F556
 [/us/stat/82/969]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F969
-[/us/pl/91/231/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F231%2Fs8
+[/us/pl/91/231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F231
 [/us/stat/84/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F198
-[/us/pl/94/183/s2/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F183%2Fs2%2F23
+[/us/pl/94/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F183
 [/us/stat/89/1058]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F1058
-[/us/pl/95/454/s906/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs906%2Fa%2F2
+[/us/pl/95/454/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtIX
 [/us/stat/92/1224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1224
-[/us/pl/96/54/s2/a/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F54%2Fs2%2Fa%2F32
+[/us/pl/96/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F54
 [/us/stat/93/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F383
-[/us/pl/97/258/s3/a/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs3%2Fa%2F13
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1063]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1063
-[/us/pl/101/173/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F173%2Fs1%2Fa
+[/us/pl/101/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F173
 [/us/stat/103/1292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1292
-[/us/pl/101/509/s529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2Fs529
+[/us/pl/101/509/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2FtV
 [/us/stat/104/1427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1427
-[/us/pl/102/378/s3/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378%2Fs3%2F2
+[/us/pl/102/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378
 [/us/stat/106/1355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1355
-[/us/pl/108/136/s1122/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1122%2Fb
+[/us/pl/108/136/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtXI
 [/us/stat/117/1637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1637
 [/us/act/1962-10-11/s603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1962-10-11%2Fs603
 [/us/pl/87/793]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F793
@@ -304,9 +304,9 @@ July 19, 1966, Pub. L. 89–512, § 1, 80 Stat. 318.  </td>
 [/us/usc/t29/s651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs651
 [/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
 [/us/pl/102/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378
-[/us/pl/101/509/s529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2Fs529
-[/us/pl/101/509/s529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2Fs529
-[/us/pl/101/509/s529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2Fs529
+[/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509
+[/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509
+[/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509
 [/us/pl/102/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378
 [/us/pl/101/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F173
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
@@ -324,7 +324,7 @@ July 19, 1966, Pub. L. 89–512, § 1, 80 Stat. 318.  </td>
 [/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509
 [/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509
 [/us/usc/t5/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5301
-[/us/pl/101/173/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F173%2Fs1%2Fb
+[/us/pl/101/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F173
 [/us/stat/103/1292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1292
 [/us/pl/96/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F54
 [/us/pl/96/54/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F54%2Fs2%2Fb

@@ -43,7 +43,7 @@
 
         The Office shall certify to the agency concerned its action under paragraph (3) of this subsection. The agency shall act in accordance with the certificate, and the certificate is binding on all administrative, certifying, payroll, disbursing, and accounting officials.
 
-(Added [Pub. L. 90–206, title II, § 223(a)][/us/pl/90/206/s223/a], Dec. 16, 1967, [81 Stat. 641][/us/stat/81/641], § 5345; renumbered § 5346 and amended [Pub. L. 92–392, § 1(a)][/us/pl/92/392/s1/a], Aug. 19, 1972, [86 Stat. 570][/us/stat/86/570]; [Pub. L. 95–454, title IX, § 906(a)(2)][/us/pl/95/454/s906/a/2], (3), Oct. 13, 1978, [92 Stat. 1224][/us/stat/92/1224].)
+(Added [Pub. L. 90–206, title II][/us/pl/90/206/tII], § 223(a), Dec. 16, 1967, [81 Stat. 641][/us/stat/81/641], § 5345; renumbered § 5346 and amended [Pub. L. 92–392][/us/pl/92/392], § 1(a), Aug. 19, 1972, [86 Stat. 570][/us/stat/86/570]; [Pub. L. 95–454, title IX][/us/pl/95/454/tIX], § 906(a)(2), (3), Oct. 13, 1978, [92 Stat. 1224][/us/stat/92/1224].)
 
  __Amendments__ 
 
@@ -68,11 +68,11 @@
 ----------
 ----------
 
-[/us/pl/90/206/s223/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F206%2Fs223%2Fa
+[/us/pl/90/206/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F206%2FtII
 [/us/stat/81/641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F641
-[/us/pl/92/392/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F392%2Fs1%2Fa
+[/us/pl/92/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F392
 [/us/stat/86/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F570
-[/us/pl/95/454/s906/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs906%2Fa%2F2
+[/us/pl/95/454/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtIX
 [/us/stat/92/1224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1224
 [/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454
 [/us/pl/92/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F392

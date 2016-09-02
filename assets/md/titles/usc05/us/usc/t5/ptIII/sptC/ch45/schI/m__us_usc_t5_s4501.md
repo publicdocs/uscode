@@ -51,7 +51,7 @@
 
     (3) “Government” means the Government of the United States and the government of the District of Columbia.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 442][/us/stat/80/442]; [Pub. L. 95–454, title V, § 503(a)][/us/pl/95/454/s503/a], Oct. 13, 1978, [92 Stat. 1183][/us/stat/92/1183]; [Pub. L. 97–35, title XVII, § 1703(b)(2)][/us/pl/97/35/s1703/b/2], Aug. 13, 1981, [95 Stat. 756][/us/stat/95/756]; [Pub. L. 98–615, title II, § 204(a)(1)][/us/pl/98/615/s204/a/1], Nov. 8, 1984, [98 Stat. 3216][/us/stat/98/3216]; [Pub. L. 100–690, title VII, § 7106(a)][/us/pl/100/690/s7106/a], Nov. 18, 1988, [102 Stat. 4418][/us/stat/102/4418]; [Pub. L. 101–474, § 5(f)][/us/pl/101/474/s5/f], Oct. 30, 1990, [104 Stat. 1100][/us/stat/104/1100]; [Pub. L. 103–89, § 3(b)(1)(C)][/us/pl/103/89/s3/b/1/C], Sept. 30, 1993, [107 Stat. 981][/us/stat/107/981]; [Pub. L. 113–235, div. H, title I, § 1301(b)][/us/pl/113/235/s1301/b], Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 442][/us/stat/80/442]; [Pub. L. 95–454, title V][/us/pl/95/454/tV], § 503(a), Oct. 13, 1978, [92 Stat. 1183][/us/stat/92/1183]; [Pub. L. 97–35, title XVII][/us/pl/97/35/tXVII], § 1703(b)(2), Aug. 13, 1981, [95 Stat. 756][/us/stat/95/756]; [Pub. L. 98–615, title II][/us/pl/98/615/tII], § 204(a)(1), Nov. 8, 1984, [98 Stat. 3216][/us/stat/98/3216]; [Pub. L. 100–690, title VII][/us/pl/100/690/tVII], § 7106(a), Nov. 18, 1988, [102 Stat. 4418][/us/stat/102/4418]; [Pub. L. 101–474][/us/pl/101/474], § 5(f), Oct. 30, 1990, [104 Stat. 1100][/us/stat/104/1100]; [Pub. L. 103–89][/us/pl/103/89], § 3(b)(1)(C), Sept. 30, 1993, [107 Stat. 981][/us/stat/107/981]; [Pub. L. 113–235, div. H, title I][/us/pl/113/235/dH/tI], § 1301(b), Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537].)
 
 <table>
 
@@ -137,13 +137,13 @@ Aug. 18, 1959, Pub. L. 86–168, § 202(d), 73 Stat. 389.  </td>
 
  __Effective Date of 1981 Amendment__ 
 
-[Pub. L. 97–35, title XVII, § 1703(c)][/us/pl/97/35/s1703/c], Aug. 13, 1981, [95 Stat. 756][/us/stat/95/756], provided that: 
+[Pub. L. 97–35, title XVII][/us/pl/97/35/tXVII], § 1703(c), Aug. 13, 1981, [95 Stat. 756][/us/stat/95/756], provided that: 
 
 > “The amendments made by this section \[enacting subchapter II of this chapter, designating this section and sections 4502 to 4507 of this title as subchapter I, and amending this section and sections 4502, 4505, and 4506 of this title\] shall take effect on October 1, 1981.”
 
  __Effective Date of 1978 Amendment__ 
 
-    [Pub. L. 95–454, title V, § 504(a)][/us/pl/95/454/s504/a], Oct. 13, 1978, [92 Stat. 1184][/us/stat/92/1184], provided that amendment by [Pub. L. 95–454][/us/pl/95/454] was effective on first day of first applicable pay period which began on or after Oct. 1, 1981, except it could take effect with respect to any category or categories of positions before such day to extent prescribed by Director of Office of Personnel Management.
+    [Pub. L. 95–454, title V][/us/pl/95/454/tV], § 504(a), Oct. 13, 1978, [92 Stat. 1184][/us/stat/92/1184], provided that amendment by [Pub. L. 95–454][/us/pl/95/454] was effective on first day of first applicable pay period which began on or after Oct. 1, 1981, except it could take effect with respect to any category or categories of positions before such day to extent prescribed by Director of Office of Personnel Management.
 
  __Ex. Ord. No. 12976. Compensation Practices of Government Corporations__ 
 
@@ -200,19 +200,19 @@ Aug. 18, 1959, Pub. L. 86–168, § 202(d), 73 Stat. 389.  </td>
 
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/442]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F442
-[/us/pl/95/454/s503/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs503%2Fa
+[/us/pl/95/454/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtV
 [/us/stat/92/1183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1183
-[/us/pl/97/35/s1703/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs1703%2Fb%2F2
+[/us/pl/97/35/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXVII
 [/us/stat/95/756]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F756
-[/us/pl/98/615/s204/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F615%2Fs204%2Fa%2F1
+[/us/pl/98/615/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F615%2FtII
 [/us/stat/98/3216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3216
-[/us/pl/100/690/s7106/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7106%2Fa
+[/us/pl/100/690/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVII
 [/us/stat/102/4418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4418
-[/us/pl/101/474/s5/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F474%2Fs5%2Ff
+[/us/pl/101/474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F474
 [/us/stat/104/1100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1100
-[/us/pl/103/89/s3/b/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F89%2Fs3%2Fb%2F1%2FC
+[/us/pl/103/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F89
 [/us/stat/107/981]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F981
-[/us/pl/113/235/s1301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fb
+[/us/pl/113/235/dH/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2FdH%2FtI
 [/us/stat/128/2537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2537
 [/us/pl/103/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F89
 [/us/usc/t5/s2105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs2105
@@ -229,9 +229,9 @@ Aug. 18, 1959, Pub. L. 86–168, § 202(d), 73 Stat. 389.  </td>
 [/us/usc/t5/s3372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3372
 [/us/pl/98/615/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F615%2Fs205
 [/us/pl/98/615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F615
-[/us/pl/97/35/s1703/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs1703%2Fc
+[/us/pl/97/35/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXVII
 [/us/stat/95/756]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F756
-[/us/pl/95/454/s504/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs504%2Fa
+[/us/pl/95/454/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtV
 [/us/stat/92/1184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1184
 [/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454
 [/us/usc/t3/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs301

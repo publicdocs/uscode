@@ -35,7 +35,7 @@
 
     (e) Copies of the notice of proposed action, the answer of the employee when written, a summary thereof when made orally, the notice of decision and reasons therefor, and any order effecting an action covered by this subchapter, together with any supporting material, shall be maintained by the agency and shall be furnished to the Board upon its request and to the employee affected upon the employee’s request.
 
-(Added [Pub. L. 95–454, title II, § 204(a)][/us/pl/95/454/s204/a], Oct. 13, 1978, [92 Stat. 1136][/us/stat/92/1136].)
+(Added [Pub. L. 95–454, title II][/us/pl/95/454/tII], § 204(a), Oct. 13, 1978, [92 Stat. 1136][/us/stat/92/1136].)
 
 ----------
 
@@ -45,7 +45,7 @@
 ----------
 
 [/us/usc/t5/s7701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs7701
-[/us/pl/95/454/s204/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs204%2Fa
+[/us/pl/95/454/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtII
 [/us/stat/92/1136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1136
 
 

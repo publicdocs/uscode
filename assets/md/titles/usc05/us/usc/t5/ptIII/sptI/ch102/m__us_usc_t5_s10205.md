@@ -29,7 +29,7 @@
 
         (3) Each member in service step 12 shall be advanced successively to the next higher service step at the beginning of the first pay period immediately following the completion of 156 calendar weeks of active service in the member’s service step.
 
-(Added [Pub. L. 111–282, § 2(a)][/us/pl/111/282/s2/a], Oct. 15, 2010, [124 Stat. 3036][/us/stat/124/3036].)
+(Added [Pub. L. 111–282][/us/pl/111/282], § 2(a), Oct. 15, 2010, [124 Stat. 3036][/us/stat/124/3036].)
 
 ----------
 
@@ -38,7 +38,7 @@
 ----------
 ----------
 
-[/us/pl/111/282/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F282%2Fs2%2Fa
+[/us/pl/111/282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F282
 [/us/stat/124/3036]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3036
 
 

@@ -41,7 +41,7 @@
 
     (e) The accrued annual leave of any employee who is a member of the Board or the Council shall not be charged for any time used in performing services for the Board or the Council.
 
-(Added [Pub. L. 99–335, title I, § 101(a)][/us/pl/99/335/s101/a], June 6, 1986, [100 Stat. 581][/us/stat/100/581]; amended [Pub. L. 101–509, title V, § 529][/us/pl/101/509/s529] \[title I, § 101(b)(9)(K)\], Nov. 5, 1990, [104 Stat. 1427][/us/stat/104/1427], 1442.)
+(Added [Pub. L. 99–335, title I][/us/pl/99/335/tI], § 101(a), June 6, 1986, [100 Stat. 581][/us/stat/100/581]; amended [Pub. L. 101–509, title V][/us/pl/101/509/tV], § 529 \[title I, § 101(b)(9)(K)\], Nov. 5, 1990, [104 Stat. 1427][/us/stat/104/1427], 1442.)
 
  __References in Text__ 
 
@@ -62,9 +62,9 @@
 ----------
 ----------
 
-[/us/pl/99/335/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2Fs101%2Fa
+[/us/pl/99/335/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2FtI
 [/us/stat/100/581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F581
-[/us/pl/101/509/s529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2Fs529
+[/us/pl/101/509/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2FtV
 [/us/stat/104/1427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1427
 [/us/usc/t5/s5315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5315
 [/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509

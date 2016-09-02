@@ -17,7 +17,7 @@
 
     In administering any personnel ceiling applicable to an agency (or unit therein), an employee employed by such agency on a part-time career employment basis shall be counted as a fraction which is determined by dividing 40 hours into the average number of hours of such employee’s regularly scheduled workweek. This section shall become effective on October 1, 1980.
 
-(Added [Pub. L. 95–437, § 3(a)][/us/pl/95/437/s3/a], Oct. 10, 1978, [92 Stat. 1057][/us/stat/92/1057], § 3394; renumbered § 3404, [Pub. L. 95–454, title IX, § 906(c)(1)(B)][/us/pl/95/454/s906/c/1/B], Oct. 13, 1978, [92 Stat. 1226][/us/stat/92/1226].)
+(Added [Pub. L. 95–437][/us/pl/95/437], § 3(a), Oct. 10, 1978, [92 Stat. 1057][/us/stat/92/1057], § 3394; renumbered § 3404, [Pub. L. 95–454, title IX][/us/pl/95/454/tIX], § 906(c)(1)(B), Oct. 13, 1978, [92 Stat. 1226][/us/stat/92/1226].)
 
  __Amendments__ 
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/pl/95/437/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F437%2Fs3%2Fa
+[/us/pl/95/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F437
 [/us/stat/92/1057]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1057
-[/us/pl/95/454/s906/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs906%2Fc%2F1%2FB
+[/us/pl/95/454/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtIX
 [/us/stat/92/1226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1226
 [/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454
 [/us/usc/t5/s3394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3394

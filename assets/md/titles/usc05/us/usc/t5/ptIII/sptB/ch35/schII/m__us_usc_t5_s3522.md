@@ -33,7 +33,7 @@
 
     (c) The Director of the Office of Personnel Management shall review each agency’s plan an  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “and”. </sup></sup>  may make any appropriate modifications in the plan, in consultation with the Director of the Office of Management and Budget. A plan under this section may not be implemented without the approval of the Directive  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be “Director”. </sup></sup>  of the Office of Personnel Management.
 
-(Added [Pub. L. 107–296, title XIII, § 1313(a)(1)(A)][/us/pl/107/296/s1313/a/1/A], Nov. 25, 2002, [116 Stat. 2292][/us/stat/116/2292].)
+(Added [Pub. L. 107–296, title XIII][/us/pl/107/296/tXIII], § 1313(a)(1)(A), Nov. 25, 2002, [116 Stat. 2292][/us/stat/116/2292].)
 
 ----------
 
@@ -42,7 +42,7 @@
 ----------
 ----------
 
-[/us/pl/107/296/s1313/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1313%2Fa%2F1%2FA
+[/us/pl/107/296/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXIII
 [/us/stat/116/2292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2292
 
 

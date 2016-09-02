@@ -35,27 +35,27 @@
 
     (b) The agency shall make copies of the final regulatory flexibility analysis available to members of the public and shall publish in the Federal Register such analysis or a summary thereof.
 
-(Added [Pub. L. 96–354, § 3(a)][/us/pl/96/354/s3/a], Sept. 19, 1980, [94 Stat. 1167][/us/stat/94/1167]; amended [Pub. L. 104–121, title II, § 241(b)][/us/pl/104/121/s241/b], Mar. 29, 1996, [110 Stat. 864][/us/stat/110/864]; [Pub. L. 111–203, title X, § 1100G(c)][/us/pl/111/203/s1100G/c], July 21, 2010, [124 Stat. 2113][/us/stat/124/2113]; [Pub. L. 111–240, title I, § 1601][/us/pl/111/240/s1601], Sept. 27, 2010, [124 Stat. 2551][/us/stat/124/2551].)
+(Added [Pub. L. 96–354][/us/pl/96/354], § 3(a), Sept. 19, 1980, [94 Stat. 1167][/us/stat/94/1167]; amended [Pub. L. 104–121, title II][/us/pl/104/121/tII], § 241(b), Mar. 29, 1996, [110 Stat. 864][/us/stat/110/864]; [Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1100G(c), July 21, 2010, [124 Stat. 2113][/us/stat/124/2113]; [Pub. L. 111–240, title I][/us/pl/111/240/tI], § 1601, Sept. 27, 2010, [124 Stat. 2551][/us/stat/124/2551].)
 
  __Amendments__ 
 
-    2010—Subsec. (a)(1). [Pub. L. 111–240, § 1601(1)][/us/pl/111/240/s1601/1], struck out “succinct” before “statement”.
+    2010—Subsec. (a)(1). [Pub. L. 111–240][/us/pl/111/240], § 1601(1), struck out “succinct” before “statement”.
 
-    Subsec. (a)(2). [Pub. L. 111–240, § 1601(2)][/us/pl/111/240/s1601/2], substituted “statement” for “summary” before “of the significant issues” and “of the assessment”.
+    Subsec. (a)(2). [Pub. L. 111–240][/us/pl/111/240], § 1601(2), substituted “statement” for “summary” before “of the significant issues” and “of the assessment”.
 
-    Subsec. (a)(3), (4). [Pub. L. 111–240, § 1601(3)][/us/pl/111/240/s1601/3], (4), added par. (3) and redesignated former par. (3) as (4). Former par. (4) redesignated (5).
+    Subsec. (a)(3), (4). [Pub. L. 111–240][/us/pl/111/240], § 1601(3), (4), added par. (3) and redesignated former par. (3) as (4). Former par. (4) redesignated (5).
 
-    Subsec. (a)(5). [Pub. L. 111–240, § 1601(3)][/us/pl/111/240/s1601/3], redesignated par. (4) as (5). Former par. (5), relating to description of steps taken to minimize the significant economic impact on small entities, redesignated (6).
+    Subsec. (a)(5). [Pub. L. 111–240][/us/pl/111/240], § 1601(3), redesignated par. (4) as (5). Former par. (5), relating to description of steps taken to minimize the significant economic impact on small entities, redesignated (6).
 
-    [Pub. L. 111–203, § 1100G(c)(1)][/us/pl/111/203/s1100G/c/1], which directed amendment of par. (4) by striking “and” at the end, was executed to par. (5) to reflect the probable intent of Congress and the intervening redesignation of par. (4) as (5) by [Pub. L. 111–240, § 1601(3)][/us/pl/111/240/s1601/3]. See above.
+    [Pub. L. 111–203][/us/pl/111/203], § 1100G(c)(1), which directed amendment of par. (4) by striking “and” at the end, was executed to par. (5) to reflect the probable intent of Congress and the intervening redesignation of par. (4) as (5) by [Pub. L. 111–240][/us/pl/111/240], § 1601(3). See above.
 
-    Subsec. (a)(6). [Pub. L. 111–240, § 1601(3)][/us/pl/111/240/s1601/3], redesignated par. (5), relating to description of steps taken to minimize the significant economic impact on small entities, as (6).
+    Subsec. (a)(6). [Pub. L. 111–240][/us/pl/111/240], § 1601(3), redesignated par. (5), relating to description of steps taken to minimize the significant economic impact on small entities, as (6).
 
-    [Pub. L. 111–203, § 1100G(c)(3)][/us/pl/111/203/s1100G/c/3], added par. (6) relating to description of steps taken to minimize any additional cost of credit for small entities.
+    [Pub. L. 111–203][/us/pl/111/203], § 1100G(c)(3), added par. (6) relating to description of steps taken to minimize any additional cost of credit for small entities.
 
-    [Pub. L. 111–203, § 1100G(c)(2)][/us/pl/111/203/s1100G/c/2], which directed amendment of par. (5) by substituting “; and” for period at end, was executed to par. (6), relating to description of steps taken to minimize the significant economic impact on small entities, to reflect the probable intent of Congress and the intervening redesignation of par. (5) as (6) by [Pub. L. 111–240, § 1601(3)][/us/pl/111/240/s1601/3]. See above.
+    [Pub. L. 111–203][/us/pl/111/203], § 1100G(c)(2), which directed amendment of par. (5) by substituting “; and” for period at end, was executed to par. (6), relating to description of steps taken to minimize the significant economic impact on small entities, to reflect the probable intent of Congress and the intervening redesignation of par. (5) as (6) by [Pub. L. 111–240][/us/pl/111/240], § 1601(3). See above.
 
-    1996—Subsec. (a). [Pub. L. 104–121, § 241(b)(1)][/us/pl/104/121/s241/b/1], amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “When an agency promulgates a final rule under [section 553 of this title][/us/usc/t5/s553], after being required by that section or any other law to publish a general notice of proposed rulemaking, the agency shall prepare a final regulatory flexibility analysis. Each final regulatory flexibility analysis shall contain—
+    1996—Subsec. (a). [Pub. L. 104–121][/us/pl/104/121], § 241(b)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “When an agency promulgates a final rule under [section 553 of this title][/us/usc/t5/s553], after being required by that section or any other law to publish a general notice of proposed rulemaking, the agency shall prepare a final regulatory flexibility analysis. Each final regulatory flexibility analysis shall contain—
 
     “(1) a succinct statement of the need for, and the objectives of, the rule;
 
@@ -63,7 +63,7 @@
 
     “(3) a description of each of the significant alternatives to the rule consistent with the stated objectives of applicable statutes and designed to minimize any significant economic impact of the rule on small entities which was considered by the agency, and a statement of the reasons why each one of such alternatives was rejected.”
 
-    Subsec. (b). [Pub. L. 104–121, § 241(b)(2)][/us/pl/104/121/s241/b/2], substituted “such analysis or a summary thereof.” for “at the time of publication of the final rule under [section 553 of this title][/us/usc/t5/s553] a statement describing how the public may obtain such copies.”
+    Subsec. (b). [Pub. L. 104–121][/us/pl/104/121], § 241(b)(2), substituted “such analysis or a summary thereof.” for “at the time of publication of the final rule under [section 553 of this title][/us/usc/t5/s553] a statement describing how the public may obtain such copies.”
 
  __Effective Date of 2010 Amendment__ 
 
@@ -81,27 +81,27 @@
 ----------
 
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
-[/us/pl/96/354/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F354%2Fs3%2Fa
+[/us/pl/96/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F354
 [/us/stat/94/1167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1167
-[/us/pl/104/121/s241/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F121%2Fs241%2Fb
+[/us/pl/104/121/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F121%2FtII
 [/us/stat/110/864]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F864
-[/us/pl/111/203/s1100G/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100G%2Fc
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2113
-[/us/pl/111/240/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2Fs1601
+[/us/pl/111/240/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2FtI
 [/us/stat/124/2551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2551
-[/us/pl/111/240/s1601/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2Fs1601%2F1
-[/us/pl/111/240/s1601/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2Fs1601%2F2
-[/us/pl/111/240/s1601/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2Fs1601%2F3
-[/us/pl/111/240/s1601/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2Fs1601%2F3
-[/us/pl/111/203/s1100G/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100G%2Fc%2F1
-[/us/pl/111/240/s1601/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2Fs1601%2F3
-[/us/pl/111/240/s1601/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2Fs1601%2F3
-[/us/pl/111/203/s1100G/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100G%2Fc%2F3
-[/us/pl/111/203/s1100G/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100G%2Fc%2F2
-[/us/pl/111/240/s1601/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2Fs1601%2F3
-[/us/pl/104/121/s241/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F121%2Fs241%2Fb%2F1
+[/us/pl/111/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240
+[/us/pl/111/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240
+[/us/pl/111/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240
+[/us/pl/111/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240
+[/us/pl/111/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240
+[/us/pl/104/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F121
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
-[/us/pl/104/121/s241/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F121%2Fs241%2Fb%2F2
+[/us/pl/104/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F121
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203/s1100H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100H

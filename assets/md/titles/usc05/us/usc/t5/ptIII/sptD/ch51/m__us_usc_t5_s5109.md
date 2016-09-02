@@ -23,7 +23,7 @@
 
         (2) The position held by a railroad safety specialist of the Department shall be classified in accordance with this chapter, but not lower than GS–13.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 455][/us/stat/80/455]; [Pub. L. 91–34, § 2(b)][/us/pl/91/34/s2/b], June 30, 1969, [83 Stat. 41][/us/stat/83/41]; [Pub. L. 93–406, title II, § 1051(b)(1)][/us/pl/93/406/s1051/b/1], Sept. 2, 1974, [88 Stat. 951][/us/stat/88/951]; [Pub. L. 95–454, title IX, § 906(b)][/us/pl/95/454/s906/b], Oct. 13, 1978, [92 Stat. 1226][/us/stat/92/1226]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 101–509, title V, § 529][/us/pl/101/509/s529] \[title I, § 101(b)(9)(G)\], Nov. 5, 1990, [104 Stat. 1427][/us/stat/104/1427], 1441; [Pub. L. 103–272, § 4(b)(1)][/us/pl/103/272/s4/b/1], July 5, 1994, [108 Stat. 1361][/us/stat/108/1361]; [Pub. L. 105–206, title I, § 1102(e)(2)][/us/pl/105/206/s1102/e/2], July 22, 1998, [112 Stat. 704][/us/stat/112/704].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 455][/us/stat/80/455]; [Pub. L. 91–34][/us/pl/91/34], § 2(b), June 30, 1969, [83 Stat. 41][/us/stat/83/41]; [Pub. L. 93–406, title II][/us/pl/93/406/tII], § 1051(b)(1), Sept. 2, 1974, [88 Stat. 951][/us/stat/88/951]; [Pub. L. 95–454, title IX][/us/pl/95/454/tIX], § 906(b), Oct. 13, 1978, [92 Stat. 1226][/us/stat/92/1226]; [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 101–509, title V][/us/pl/101/509/tV], § 529 \[title I, § 101(b)(9)(G)\], Nov. 5, 1990, [104 Stat. 1427][/us/stat/104/1427], 1441; [Pub. L. 103–272][/us/pl/103/272], § 4(b)(1), July 5, 1994, [108 Stat. 1361][/us/stat/108/1361]; [Pub. L. 105–206, title I][/us/pl/105/206/tI], § 1102(e)(2), July 22, 1998, [112 Stat. 704][/us/stat/112/704].)
 
 <table>
 
@@ -119,7 +119,7 @@ Sept. 23, 1959, Pub. L. 86–379, § 1, 73 Stat. 702.  </td>
 
     1986—Subsec. (b). [Pub. L. 99–514][/us/pl/99/514] substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 
-    1978—Subsecs. (b), (c). [Pub. L. 95–454, § 906(b)][/us/pl/95/454/s906/b], redesignated subsec. (c) as (b). Former subsec. (b), which related to classification of position held by an employee appointed under [section 1104(a)(2) of this title][/us/usc/t5/s1104/a/2], was struck out.
+    1978—Subsecs. (b), (c). [Pub. L. 95–454][/us/pl/95/454], § 906(b), redesignated subsec. (c) as (b). Former subsec. (b), which related to classification of position held by an employee appointed under [section 1104(a)(2) of this title][/us/usc/t5/s1104/a/2], was struck out.
 
     1974—Subsec. (c). [Pub. L. 93–406][/us/pl/93/406] added subsec. (c). A prior subsec. (c) was repealed by [Pub. L. 91–34][/us/pl/91/34].
 
@@ -155,19 +155,19 @@ Sept. 23, 1959, Pub. L. 86–379, § 1, 73 Stat. 702.  </td>
 [/us/usc/t7/s450d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs450d
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F455
-[/us/pl/91/34/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F34%2Fs2%2Fb
+[/us/pl/91/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F34
 [/us/stat/83/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F41
-[/us/pl/93/406/s1051/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs1051%2Fb%2F1
+[/us/pl/93/406/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2FtII
 [/us/stat/88/951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F951
-[/us/pl/95/454/s906/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs906%2Fb
+[/us/pl/95/454/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtIX
 [/us/stat/92/1226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1226
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
-[/us/pl/101/509/s529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2Fs529
+[/us/pl/101/509/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2FtV
 [/us/stat/104/1427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1427
-[/us/pl/103/272/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs4%2Fb%2F1
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1361
-[/us/pl/105/206/s1102/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs1102%2Fe%2F2
+[/us/pl/105/206/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtI
 [/us/stat/112/704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F704
 [/us/usc/t7/s450d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs450d
 [/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
@@ -175,7 +175,7 @@ Sept. 23, 1959, Pub. L. 86–379, § 1, 73 Stat. 702.  </td>
 [/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509
 [/us/usc/t5/s5108/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5108%2Fa
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
-[/us/pl/95/454/s906/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs906%2Fb
+[/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454
 [/us/usc/t5/s1104/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs1104%2Fa%2F2
 [/us/pl/93/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406
 [/us/pl/91/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F34

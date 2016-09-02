@@ -47,7 +47,7 @@
 
     (d) Appointment or removal of a person to or from any Senior Executive Service position in an independent regulatory commission shall not be subject, directly or indirectly, to review or approval by any officer or entity within the Executive Office of the President.
 
-(Added [Pub. L. 95–454, title IV, § 403(a)][/us/pl/95/454/s403/a], Oct. 13, 1978, [92 Stat. 1161][/us/stat/92/1161]; amended [Pub. L. 101–335, § 7(a)][/us/pl/101/335/s7/a], July 17, 1990, [104 Stat. 325][/us/stat/104/325].)
+(Added [Pub. L. 95–454, title IV][/us/pl/95/454/tIV], § 403(a), Oct. 13, 1978, [92 Stat. 1161][/us/stat/92/1161]; amended [Pub. L. 101–335][/us/pl/101/335], § 7(a), July 17, 1990, [104 Stat. 325][/us/stat/104/325].)
 
  __References in Text__ 
 
@@ -55,7 +55,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 3392, added [Pub. L. 95–437, § 3(a)][/us/pl/95/437/s3/a], Oct. 10, 1978, [92 Stat. 1056][/us/stat/92/1056], which related to the establishment of part-time career employment programs, was renumbered as [section 3402 of this title][/us/usc/t5/s3402] by [Pub. L. 95–454, title IX, § 906(c)(1)(B)][/us/pl/95/454/s906/c/1/B], Oct. 13, 1978, [92 Stat. 1226][/us/stat/92/1226].
+    A prior section 3392, added [Pub. L. 95–437][/us/pl/95/437], § 3(a), Oct. 10, 1978, [92 Stat. 1056][/us/stat/92/1056], which related to the establishment of part-time career employment programs, was renumbered as [section 3402 of this title][/us/usc/t5/s3402] by [Pub. L. 95–454, title IX][/us/pl/95/454/tIX], § 906(c)(1)(B), Oct. 13, 1978, [92 Stat. 1226][/us/stat/92/1226].
 
  __Amendments__ 
 
@@ -63,13 +63,13 @@
 
  __Effective Date of 1990 Amendment__ 
 
-[Pub. L. 101–335, § 7(b)(1)][/us/pl/101/335/s7/b/1], July 17, 1990, [104 Stat. 325][/us/stat/104/325], provided that: 
+[Pub. L. 101–335][/us/pl/101/335], § 7(b)(1), July 17, 1990, [104 Stat. 325][/us/stat/104/325], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall take effect on the date of enactment of this Act \[July 17, 1990\].”
 
  __Election by Persons Previously Appointed; Retroactive Performance Awards__ 
 
-[Pub. L. 101–335, § 7(b)(2)][/us/pl/101/335/s7/b/2], (3), July 17, 1990, [104 Stat. 325][/us/stat/104/325], as amended by [Pub. L. 102–378, § 7(a)][/us/pl/102/378/s7/a], Oct. 2, 1992, [106 Stat. 1359][/us/stat/106/1359], provided that:
+[Pub. L. 101–335][/us/pl/101/335], § 7(b)(2), (3), July 17, 1990, [104 Stat. 325][/us/stat/104/325], as amended by [Pub. L. 102–378][/us/pl/102/378], § 7(a), Oct. 2, 1992, [106 Stat. 1359][/us/stat/106/1359], provided that:
 
 >     “(2)  __Election by persons previously appointed__  __.—__ 
 
@@ -95,7 +95,7 @@
 
 >     If an individual elects under paragraph (2) to continue to be subject to performance awards, the head of the agency in which such individual is serving shall determine whether to grant retroactive performance awards for any fiscal years prior to fiscal year 1991 to such individual, and the amount of any such awards, without regard to the provisions of subsection (b) of [section 5383 of title 5][/us/usc/t5/s5383], United States Code, and subsections (b) and (c) of section 5384 of such title. Before granting an award, the head of the agency shall make a written determination that the individual’s performance during the fiscal year for which the award is given was at least fully successful, and shall consider the recommendation of the agency’s performance review board with respect to the award. No such award for performance during any fiscal year may be less than 5 percent nor more than 15 percent of the individual’s rate of basic pay as of the end of such fiscal year.”
 
-\[[Pub. L. 102–378, § 7(b)][/us/pl/102/378/s7/b], Oct. 2, 1992, [106 Stat. 1359][/us/stat/106/1359], provided that: 
+\[[Pub. L. 102–378][/us/pl/102/378], § 7(b), Oct. 2, 1992, [106 Stat. 1359][/us/stat/106/1359], provided that: 
 
 > “The amendment made by subsection (a) \[enacting [section 7(b)(3) of Pub. L. 101–335][/us/pl/101/335/s7/b/3], set out above\] shall be effective as if enacted as a part of section 7 of the Thrift Savings Plan Technical Amendments Act of 1990 \[[Pub. L. 101–335][/us/pl/101/335]\].”
 
@@ -109,25 +109,25 @@
 ----------
 
 [/us/usc/t5/s3133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3133
-[/us/pl/95/454/s403/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs403%2Fa
+[/us/pl/95/454/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtIV
 [/us/stat/92/1161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1161
-[/us/pl/101/335/s7/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F335%2Fs7%2Fa
+[/us/pl/101/335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F335
 [/us/stat/104/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F325
-[/us/pl/95/437/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F437%2Fs3%2Fa
+[/us/pl/95/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F437
 [/us/stat/92/1056]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1056
 [/us/usc/t5/s3402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3402
-[/us/pl/95/454/s906/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs906%2Fc%2F1%2FB
+[/us/pl/95/454/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtIX
 [/us/stat/92/1226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1226
 [/us/pl/101/335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F335
-[/us/pl/101/335/s7/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F335%2Fs7%2Fb%2F1
+[/us/pl/101/335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F335
 [/us/stat/104/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F325
-[/us/pl/101/335/s7/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F335%2Fs7%2Fb%2F2
+[/us/pl/101/335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F335
 [/us/stat/104/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F325
-[/us/pl/102/378/s7/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378%2Fs7%2Fa
+[/us/pl/102/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378
 [/us/stat/106/1359]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1359
 [/us/usc/t5/s3392/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3392%2Fc%2F2
 [/us/usc/t5/s5383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5383
-[/us/pl/102/378/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378%2Fs7%2Fb
+[/us/pl/102/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378
 [/us/stat/106/1359]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1359
 [/us/pl/101/335/s7/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F335%2Fs7%2Fb%2F3
 [/us/pl/101/335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F335

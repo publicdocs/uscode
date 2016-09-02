@@ -169,35 +169,35 @@
 
                 (iv) to reduce the number of high-grade, managerial, supervisory, or similar positions.
 
-(Added [Pub. L. 99–335, title I, § 101(a)][/us/pl/99/335/s101/a], June 6, 1986, [100 Stat. 526][/us/stat/100/526]; amended [Pub. L. 100–325, § 2(m)][/us/pl/100/325/s2/m], May 30, 1988, [102 Stat. 583][/us/stat/102/583]; [Pub. L. 101–194, title V, § 506(b)(9)][/us/pl/101/194/s506/b/9], Nov. 30, 1989, [103 Stat. 1759][/us/stat/103/1759]; [Pub. L. 105–261, div. A, title XI, § 1109(b)][/us/pl/105/261/s1109/b], Oct. 17, 1998, [112 Stat. 2144][/us/stat/112/2144]; [Pub. L. 106–58, title VI, § 651(b)][/us/pl/106/58/s651/b], Sept. 29, 1999, [113 Stat. 480][/us/stat/113/480]; [Pub. L. 106–65, div. A, title V, § 522(b)][/us/pl/106/65/s522/b], Oct. 5, 1999, [113 Stat. 597][/us/stat/113/597]; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title XI, § 1152(b)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–321; [Pub. L. 107–296, title XIII][/us/pl/107/296], §§ 1313(b)(2), 1321(a)(5)(A), Nov. 25, 2002, [116 Stat. 2295][/us/stat/116/2295], 2297.)
+(Added [Pub. L. 99–335, title I][/us/pl/99/335/tI], § 101(a), June 6, 1986, [100 Stat. 526][/us/stat/100/526]; amended [Pub. L. 100–325][/us/pl/100/325], § 2(m), May 30, 1988, [102 Stat. 583][/us/stat/102/583]; [Pub. L. 101–194, title V][/us/pl/101/194/tV], § 506(b)(9), Nov. 30, 1989, [103 Stat. 1759][/us/stat/103/1759]; [Pub. L. 105–261, div. A, title XI][/us/pl/105/261/dA/tXI], § 1109(b), Oct. 17, 1998, [112 Stat. 2144][/us/stat/112/2144]; [Pub. L. 106–58, title VI][/us/pl/106/58/tVI], § 651(b), Sept. 29, 1999, [113 Stat. 480][/us/stat/113/480]; [Pub. L. 106–65, div. A, title V][/us/pl/106/65/dA/tV], § 522(b), Oct. 5, 1999, [113 Stat. 597][/us/stat/113/597]; [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title XI, § 1152(b)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–321; [Pub. L. 107–296, title XIII][/us/pl/107/296/tXIII], §§ 1313(b)(2), 1321(a)(5)(A), Nov. 25, 2002, [116 Stat. 2295][/us/stat/116/2295], 2297.)
 
  __Amendments__ 
 
-    2002—Subsec. (a)(1). [Pub. L. 107–296, § 1321(a)(5)(A)][/us/pl/107/296/s1321/a/5/A], struck out “for failure to be recertified as a senior executive under section 3393a or” before “for less than fully”.
+    2002—Subsec. (a)(1). [Pub. L. 107–296][/us/pl/107/296], § 1321(a)(5)(A), struck out “for failure to be recertified as a senior executive under section 3393a or” before “for less than fully”.
 
-    Subsec. (b)(1)(B). [Pub. L. 107–296, § 1313(b)(2)][/us/pl/107/296/s1313/b/2], added subpar. (B) and struck out former subpar. (B) which read as follows: “except in the case of an employee who is separated from the service under a program carried out under subsection (d), while serving in a geographic area designated by the Director, is separated from the service voluntarily during a period in which (as determined by the Director)—
+    Subsec. (b)(1)(B). [Pub. L. 107–296][/us/pl/107/296], § 1313(b)(2), added subpar. (B) and struck out former subpar. (B) which read as follows: “except in the case of an employee who is separated from the service under a program carried out under subsection (d), while serving in a geographic area designated by the Director, is separated from the service voluntarily during a period in which (as determined by the Director)—
 
     “(i) the agency in which the employee is serving is undergoing a major reorganization, a major reduction in force, or a major transfer of function; and
 
     “(ii) a significant percentage of the total number of employees serving in such agency will be separated or subject to an immediate reduction in the rate of basic pay (without regard to subchapter VI of chapter 53 of this title or comparable provisions);”.
 
-    2000—Subsec. (b)(1)(B). [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title XI, § 1152(b)(1)\], inserted “except in the case of an employee who is separated from the service under a program carried out under subsection (d),” before “while serving” in introductory provisions.
+    2000—Subsec. (b)(1)(B). [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title XI, § 1152(b)(1)\], inserted “except in the case of an employee who is separated from the service under a program carried out under subsection (d),” before “while serving” in introductory provisions.
 
-    Subsec. (d). [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title XI, § 1152(b)(2)\], added subsec. (d).
+    Subsec. (d). [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title XI, § 1152(b)(2)\], added subsec. (d).
 
-    1999—Subsec. (b)(1)(B). [Pub. L. 106–58][/us/pl/106/58] repealed [Pub. L. 105–261, § 1109(b)(1)][/us/pl/105/261/s1109/b/1]. See 1998 Amendment note below.
+    1999—Subsec. (b)(1)(B). [Pub. L. 106–58][/us/pl/106/58] repealed [Pub. L. 105–261][/us/pl/105/261], § 1109(b)(1). See 1998 Amendment note below.
 
     Subsec. (c). [Pub. L. 106–65][/us/pl/106/65] amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “A military reserve technician who is separated from technician service, after becoming 50 years of age and completing 25 years of service, by reason of ceasing to satisfy the condition described in section 8401(30)(B) is entitled to an annuity.”
 
-    Subsec. (d). [Pub. L. 106–58][/us/pl/106/58] repealed [Pub. L. 105–261, § 1109(b)(2)][/us/pl/105/261/s1109/b/2]. See 1998 Amendment note below.
+    Subsec. (d). [Pub. L. 106–58][/us/pl/106/58] repealed [Pub. L. 105–261][/us/pl/105/261], § 1109(b)(2). See 1998 Amendment note below.
 
-    1998—Subsec. (b)(1)(B). [Pub. L. 105–261, § 1109(b)(1)][/us/pl/105/261/s1109/b/1], which directed insertion of “except in the case of an employee described in subsection (d)(1),” after “(B)”, was repealed by [Pub. L. 106–58][/us/pl/106/58].
+    1998—Subsec. (b)(1)(B). [Pub. L. 105–261][/us/pl/105/261], § 1109(b)(1), which directed insertion of “except in the case of an employee described in subsection (d)(1),” after “(B)”, was repealed by [Pub. L. 106–58][/us/pl/106/58].
 
-    Subsec. (d). [Pub. L. 105–261, § 1109(b)(2)][/us/pl/105/261/s1109/b/2], which directed addition of subsec. (d), relating to authority of Department of Defense to offer employees voluntary early retirement, was repealed by [Pub. L. 106–58][/us/pl/106/58].
+    Subsec. (d). [Pub. L. 105–261][/us/pl/105/261], § 1109(b)(2), which directed addition of subsec. (d), relating to authority of Department of Defense to offer employees voluntary early retirement, was repealed by [Pub. L. 106–58][/us/pl/106/58].
 
-    1989—Subsec. (a)(1). [Pub. L. 101–194, § 506(b)(9)(A)][/us/pl/101/194/s506/b/9/A], substituted “for failure to be recertified as a senior executive under section 3393a or for” for “for”.
+    1989—Subsec. (a)(1). [Pub. L. 101–194][/us/pl/101/194], § 506(b)(9)(A), substituted “for failure to be recertified as a senior executive under section 3393a or for” for “for”.
 
-    Subsec. (a)(2), (3). [Pub. L. 101–194, § 506(b)(9)(B)][/us/pl/101/194/s506/b/9/B], (C), substituted “for failure to be recertified as a senior executive or for” for “for”.
+    Subsec. (a)(2), (3). [Pub. L. 101–194][/us/pl/101/194], § 506(b)(9)(B), (C), substituted “for failure to be recertified as a senior executive or for” for “for”.
 
     1988—Subsec. (a)(3). [Pub. L. 100–325][/us/pl/100/325] added par. (3).
 
@@ -215,7 +215,7 @@
 
  __Application of Subsection (b)(1)(B)__ 
 
-    [Pub. L. 105–174, title III, § 7001(b)][/us/pl/105/174/s7001/b], May 1, 1998, [112 Stat. 91][/us/stat/112/91], as amended by [Pub. L. 106–58, title VI, § 651(a)][/us/pl/106/58/s651/a], Sept. 29, 1999, [113 Stat. 480][/us/stat/113/480], which provided that, effective May 1, 1998, subsec. (b)(1)(B) of this section was to be applied as if it read as specified in [Pub. L. 105–174, § 7001(b)][/us/pl/105/174/s7001/b], was repealed by [Pub. L. 107–296, title XIII, § 1313(b)(4)][/us/pl/107/296/s1313/b/4], Nov. 25, 2002, [116 Stat. 2296][/us/stat/116/2296].
+    [Pub. L. 105–174, title III][/us/pl/105/174/tIII], § 7001(b), May 1, 1998, [112 Stat. 91][/us/stat/112/91], as amended by [Pub. L. 106–58, title VI][/us/pl/106/58/tVI], § 651(a), Sept. 29, 1999, [113 Stat. 480][/us/stat/113/480], which provided that, effective May 1, 1998, subsec. (b)(1)(B) of this section was to be applied as if it read as specified in [Pub. L. 105–174][/us/pl/105/174], § 7001(b), was repealed by [Pub. L. 107–296, title XIII][/us/pl/107/296/tXIII], § 1313(b)(4), Nov. 25, 2002, [116 Stat. 2296][/us/stat/116/2296].
 
 ----------
 
@@ -224,37 +224,37 @@
 ----------
 ----------
 
-[/us/pl/99/335/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2Fs101%2Fa
+[/us/pl/99/335/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2FtI
 [/us/stat/100/526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F526
-[/us/pl/100/325/s2/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F325%2Fs2%2Fm
+[/us/pl/100/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F325
 [/us/stat/102/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F583
-[/us/pl/101/194/s506/b/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194%2Fs506%2Fb%2F9
+[/us/pl/101/194/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194%2FtV
 [/us/stat/103/1759]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1759
-[/us/pl/105/261/s1109/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs1109%2Fb
+[/us/pl/105/261/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdA%2FtXI
 [/us/stat/112/2144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2144
-[/us/pl/106/58/s651/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F58%2Fs651%2Fb
+[/us/pl/106/58/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F58%2FtVI
 [/us/stat/113/480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F480
-[/us/pl/106/65/s522/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs522%2Fb
+[/us/pl/106/65/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtV
 [/us/stat/113/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F597
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
+[/us/pl/107/296/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXIII
 [/us/stat/116/2295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2295
-[/us/pl/107/296/s1321/a/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1321%2Fa%2F5%2FA
-[/us/pl/107/296/s1313/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1313%2Fb%2F2
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
+[/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/pl/106/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F58
-[/us/pl/105/261/s1109/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs1109%2Fb%2F1
+[/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
 [/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
 [/us/pl/106/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F58
-[/us/pl/105/261/s1109/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs1109%2Fb%2F2
-[/us/pl/105/261/s1109/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs1109%2Fb%2F1
+[/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
+[/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
 [/us/pl/106/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F58
-[/us/pl/105/261/s1109/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs1109%2Fb%2F2
+[/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
 [/us/pl/106/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F58
-[/us/pl/101/194/s506/b/9/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194%2Fs506%2Fb%2F9%2FA
-[/us/pl/101/194/s506/b/9/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194%2Fs506%2Fb%2F9%2FB
+[/us/pl/101/194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194
+[/us/pl/101/194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194
 [/us/pl/100/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F325
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/pl/107/296/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs4
@@ -264,12 +264,12 @@
 [/us/usc/t5/s3151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3151
 [/us/pl/106/303/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F303%2Fs1
 [/us/usc/t5/s8336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8336
-[/us/pl/105/174/s7001/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F174%2Fs7001%2Fb
+[/us/pl/105/174/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F174%2FtIII
 [/us/stat/112/91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F91
-[/us/pl/106/58/s651/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F58%2Fs651%2Fa
+[/us/pl/106/58/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F58%2FtVI
 [/us/stat/113/480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F480
-[/us/pl/105/174/s7001/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F174%2Fs7001%2Fb
-[/us/pl/107/296/s1313/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1313%2Fb%2F4
+[/us/pl/105/174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F174
+[/us/pl/107/296/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXIII
 [/us/stat/116/2296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2296
 
 

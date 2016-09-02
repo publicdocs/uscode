@@ -17,7 +17,7 @@
 
     The Merit Systems Protection Board is composed of 3 members appointed by the President, by and with the advice and consent of the Senate, not more than 2 of whom may be adherents of the same political party. The members of the Board shall be individuals who, by demonstrated ability, background, training, or experience are especially qualified to carry out the functions of the Board. No member of the Board may hold another office or position in the Government of the United States, except as otherwise provided by law or at the direction of the President. The Board shall have an official seal which shall be judicially noticed. The Board shall have its principal office in the District of Columbia and may have field offices in other appropriate locations.
 
-(Added [Pub. L. 95–454, title II, § 202(a)][/us/pl/95/454/s202/a], Oct. 13, 1978, [92 Stat. 1121][/us/stat/92/1121]; amended [Pub. L. 101–12, § 3(a)(1)][/us/pl/101/12/s3/a/1], Apr. 10, 1989, [103 Stat. 16][/us/stat/103/16].)
+(Added [Pub. L. 95–454, title II][/us/pl/95/454/tII], § 202(a), Oct. 13, 1978, [92 Stat. 1121][/us/stat/92/1121]; amended [Pub. L. 101–12][/us/pl/101/12], § 3(a)(1), Apr. 10, 1989, [103 Stat. 16][/us/stat/103/16].)
 
  __Amendments__ 
 
@@ -25,7 +25,7 @@
 
  __Effective Date of 1989 Amendment__ 
 
-[Pub. L. 101–12, § 11][/us/pl/101/12/s11], Apr. 10, 1989, [103 Stat. 35][/us/stat/103/35], provided that: 
+[Pub. L. 101–12][/us/pl/101/12], § 11, Apr. 10, 1989, [103 Stat. 35][/us/stat/103/35], provided that: 
 
 > “This Act and the amendments made by this Act \[see Short Title of 1989 Amendment note below\] shall take effect 90 days following the date of enactment of this Act \[Apr. 10, 1989\].”
 
@@ -35,13 +35,13 @@
 
  __Short Title of 1989 Amendment__ 
 
-[Pub. L. 101–12, § 1][/us/pl/101/12/s1], Apr. 10, 1989, [103 Stat. 16][/us/stat/103/16], provided that: 
+[Pub. L. 101–12][/us/pl/101/12], § 1, Apr. 10, 1989, [103 Stat. 16][/us/stat/103/16], provided that: 
 
 > “This Act \[enacting subchapters II and III of this chapter and [section 3352 of this title][/us/usc/t5/s3352], amending this section and sections 1202 to 1206, 1209, 1211, 2302, 2303, 3393, 7502, 7512, 7521, 7542, 7701, and 7703 of this title and [section 4139 of Title 22][/us/usc/t22/s4139], Foreign Relations and Intercourse, repealing sections 1207 and 1208 of this title, and enacting provisions set out as notes under this section and sections 1211 and 5509 of this title\] may be cited as the ‘Whistleblower Protection Act of 1989’.”
 
  __Savings Provision__ 
 
-[Pub. L. 101–12, § 7][/us/pl/101/12/s7], Apr. 10, 1989, [103 Stat. 34][/us/stat/103/34], provided that:
+[Pub. L. 101–12][/us/pl/101/12], § 7, Apr. 10, 1989, [103 Stat. 34][/us/stat/103/34], provided that:
 
 >     “(a)  __Orders, Rules, and Regulations__  __.—__ 
 
@@ -57,7 +57,7 @@
 
  __Whistleblower Protection; Congressional Statement of Findings and Purpose__ 
 
-[Pub. L. 101–12, § 2][/us/pl/101/12/s2], Apr. 10, 1989, [103 Stat. 16][/us/stat/103/16], provided that:
+[Pub. L. 101–12][/us/pl/101/12], § 2, Apr. 10, 1989, [103 Stat. 16][/us/stat/103/16], provided that:
 
 >     “(a)  __Findings__  __.—__ 
 
@@ -87,7 +87,7 @@
 
  __Terms of Office of Members__ 
 
-[Pub. L. 95–454, title II, § 202(b)][/us/pl/95/454/s202/b], Oct. 13, 1978, [92 Stat. 1131][/us/stat/92/1131], provided that: 
+[Pub. L. 95–454, title II][/us/pl/95/454/tII], § 202(b), Oct. 13, 1978, [92 Stat. 1131][/us/stat/92/1131], provided that: 
 
 > “Any term of office of any member of the Merit Systems Protection Board serving on the effective date of this Act \[see Effective Date of 1978 Amendment note set out under [section 1101 of this title][/us/usc/t5/s1101]\] shall continue in effect until the term would expire under [section 1102 of title 5][/us/usc/t5/s1102], United States Code, as in effect immediately before the effective date of this Act, and upon expiration of the term, appointments to such office shall be made under sections 1201 and 1202 of title 5, United States Code (as added by this section).”
 
@@ -98,26 +98,26 @@
 ----------
 ----------
 
-[/us/pl/95/454/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs202%2Fa
+[/us/pl/95/454/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtII
 [/us/stat/92/1121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1121
-[/us/pl/101/12/s3/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F12%2Fs3%2Fa%2F1
+[/us/pl/101/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F12
 [/us/stat/103/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F16
 [/us/pl/101/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F12
-[/us/pl/101/12/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F12%2Fs11
+[/us/pl/101/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F12
 [/us/stat/103/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F35
 [/us/pl/95/454/s907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs907
 [/us/usc/t5/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs1101
-[/us/pl/101/12/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F12%2Fs1
+[/us/pl/101/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F12
 [/us/stat/103/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F16
 [/us/usc/t5/s3352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3352
 [/us/usc/t22/s4139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4139
-[/us/pl/101/12/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F12%2Fs7
+[/us/pl/101/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F12
 [/us/stat/103/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F34
-[/us/pl/101/12/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F12%2Fs2
+[/us/pl/101/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F12
 [/us/stat/103/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F16
 [/us/usc/t5/s2302/b/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs2302%2Fb%2F8
 [/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454
-[/us/pl/95/454/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs202%2Fb
+[/us/pl/95/454/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtII
 [/us/stat/92/1131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1131
 [/us/usc/t5/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs1101
 [/us/usc/t5/s1102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs1102

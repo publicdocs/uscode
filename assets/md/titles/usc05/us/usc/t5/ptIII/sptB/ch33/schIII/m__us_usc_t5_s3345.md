@@ -63,7 +63,7 @@
 
         (2) For purposes of this section and sections 3346, 3347, 3348, 3349, 3349a, and 3349d, the expiration of a term of office is an inability to perform the functions and duties of such office.
 
-(Added [Pub. L. 105–277, div. C, title I, § 151(b)][/us/pl/105/277/s151/b], Oct. 21, 1998, [112 Stat. 2681–611][/us/stat/112/2681-611]; amended [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814].)
+(Added [Pub. L. 105–277, div. C, title I][/us/pl/105/277/dC/tI], § 151(b), Oct. 21, 1998, [112 Stat. 2681–611][/us/stat/112/2681-611]; amended [Pub. L. 108–271][/us/pl/108/271], § 8(b), July 7, 2004, [118 Stat. 814][/us/stat/118/814].)
 
  __References in Text__ 
 
@@ -71,7 +71,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 3345, [Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 425][/us/stat/80/425]; [Pub. L. 100–398, § 7(a)(1)][/us/pl/100/398/s7/a/1], (2), Aug. 17, 1988, [102 Stat. 988][/us/stat/102/988], provided for details to office of head of Executive agency or military department, prior to repeal by [Pub. L. 105–277, div. C, title I, § 151(b)][/us/pl/105/277/s151/b], (d)(1), Oct. 21, 1998, [112 Stat. 2681–611][/us/stat/112/2681-611], 2681–616, effective 30 days after Oct. 21, 1998.
+    A prior section 3345, [Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 425][/us/stat/80/425]; [Pub. L. 100–398][/us/pl/100/398], § 7(a)(1), (2), Aug. 17, 1988, [102 Stat. 988][/us/stat/102/988], provided for details to office of head of Executive agency or military department, prior to repeal by [Pub. L. 105–277, div. C, title I][/us/pl/105/277/dC/tI], § 151(b), (d)(1), Oct. 21, 1998, [112 Stat. 2681–611][/us/stat/112/2681-611], 2681–616, effective 30 days after Oct. 21, 1998.
 
  __Amendments__ 
 
@@ -79,7 +79,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 105–277, div. C, title I, § 151(d)][/us/pl/105/277/s151/d], Oct. 21, 1998, [112 Stat. 2681–616][/us/stat/112/2681-616], provided that:
+[Pub. L. 105–277, div. C, title I][/us/pl/105/277/dC/tI], § 151(d), Oct. 21, 1998, [112 Stat. 2681–616][/us/stat/112/2681-616], provided that:
 
 >     “(1)  __Effective date__  __.—__ 
 
@@ -195,7 +195,7 @@
 
     Ex. Ord. No. 13243, Dec. 18, 2001, 66 F.R. 66262, as amended by Ex. Ord. No. 13261, § 4(c), Mar. 19, 2002, 67 F.R. 13244.
 
-    Ex. Ord. No. 11274, Mar. 30, 1966, 31 F.R. 5243, as amended by [Pub. L. 101–509, title V, § 529][/us/pl/101/509/s529] \[title I, § 112(c)\], Nov. 5, 1990, [104 Stat. 1427][/us/stat/104/1427], 1454, revoked by Ex. Ord. No. 13243, § 4, Dec. 18, 2001, 66 F.R. 66263.
+    Ex. Ord. No. 11274, Mar. 30, 1966, 31 F.R. 5243, as amended by [Pub. L. 101–509, title V][/us/pl/101/509/tV], § 529 \[title I, § 112(c)\], Nov. 5, 1990, [104 Stat. 1427][/us/stat/104/1427], 1454, revoked by Ex. Ord. No. 13243, § 4, Dec. 18, 2001, 66 F.R. 66263.
 
  __Department of Justice__ 
 
@@ -229,7 +229,7 @@
 
     Ex. Ord. No. 13244, Dec. 18, 2001, 66 F.R. 66267, as amended by Ex. Ord. No. 13261, § 4(d), Mar. 19, 2002, 67 F.R. 13244.
 
-    Ex. Ord. No. 11487, Oct. 6, 1969, 34 F.R. 15593, as amended by [Pub. L. 101–509, title V, § 529][/us/pl/101/509/s529] \[title I, § 112(c)\], Nov. 5, 1990, [104 Stat. 1427][/us/stat/104/1427], 1454, revoked by Ex. Ord. No. 13244, § 4, Dec. 18, 2001, 66 F.R. 66267.
+    Ex. Ord. No. 11487, Oct. 6, 1969, 34 F.R. 15593, as amended by [Pub. L. 101–509, title V][/us/pl/101/509/tV], § 529 \[title I, § 112(c)\], Nov. 5, 1990, [104 Stat. 1427][/us/stat/104/1427], 1454, revoked by Ex. Ord. No. 13244, § 4, Dec. 18, 2001, 66 F.R. 66267.
 
  __Department of the Navy__ 
 
@@ -352,19 +352,19 @@
 ----------
 ----------
 
-[/us/pl/105/277/s151/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs151%2Fb
+[/us/pl/105/277/dC/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdC%2FtI
 [/us/stat/112/2681-611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-611
-[/us/pl/108/271/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271%2Fs8%2Fb
+[/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/stat/118/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F814
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F425
-[/us/pl/100/398/s7/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F398%2Fs7%2Fa%2F1
+[/us/pl/100/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F398
 [/us/stat/102/988]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F988
-[/us/pl/105/277/s151/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs151%2Fb
+[/us/pl/105/277/dC/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdC%2FtI
 [/us/stat/112/2681-611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-611
 [/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
-[/us/pl/105/277/s151/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs151%2Fd
+[/us/pl/105/277/dC/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdC%2FtI
 [/us/stat/112/2681-616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-616
 [/us/usc/t5/s3301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3301
 [/us/usc/t5/s3346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3346
@@ -372,9 +372,9 @@
 [/us/usc/t5/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs105
 [/us/usc/t5/s3345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3345
 [/us/usc/t6/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs111
-[/us/pl/101/509/s529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2Fs529
+[/us/pl/101/509/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2FtV
 [/us/stat/104/1427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1427
-[/us/pl/101/509/s529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2Fs529
+[/us/pl/101/509/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2FtV
 [/us/stat/104/1427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1427
 
 

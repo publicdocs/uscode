@@ -31,17 +31,17 @@
 
     (b) For the purposes of this section, “felony” means any offense for which imprisonment is authorized for a term exceeding one year.
 
-(Added [Pub. L. 90–351, title V, § 1001(a)][/us/pl/90/351/s1001/a], June 19, 1968, [82 Stat. 235][/us/stat/82/235].)
+(Added [Pub. L. 90–351, title V][/us/pl/90/351/tV], § 1001(a), June 19, 1968, [82 Stat. 235][/us/stat/82/235].)
 
  __Effective Date__ 
 
-[Pub. L. 90–351, title V, § 1002][/us/pl/90/351/s1002], June 19, 1968, [82 Stat. 235][/us/stat/82/235], provided that: 
+[Pub. L. 90–351, title V][/us/pl/90/351/tV], § 1002, June 19, 1968, [82 Stat. 235][/us/stat/82/235], provided that: 
 
 > “The provisions of [section 1001(a) of this title][/us/usc/t5/s1001/a] \[enacting this section\] shall apply only with respect to acts referred to in section 7313(a)(1)–(4) of title 5, United States Code, as added by [section 1001 of this title][/us/usc/t5/s1001], which are committed after the date of enactment of this title \[June 19, 1968\].”
 
  __Receipt of Benefits Under Laws Providing Relief for Disaster Victims__ 
 
-[Pub. L. 90–448, title XI, § 1106(e)][/us/pl/90/448/s1106/e], Aug. 1, 1968, [82 Stat. 567][/us/stat/82/567], provided that: 
+[Pub. L. 90–448, title XI][/us/pl/90/448/tXI], § 1106(e), Aug. 1, 1968, [82 Stat. 567][/us/stat/82/567], provided that: 
 
 > “No person who has been convicted of committing a felony during and in connection with a riot or civil disorder shall be permitted, for a period of one year after the date of his conviction, to receive any benefit under any law of the United States providing relief for disaster victims.”
 
@@ -52,13 +52,13 @@
 ----------
 ----------
 
-[/us/pl/90/351/s1001/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs1001%2Fa
+[/us/pl/90/351/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2FtV
 [/us/stat/82/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F235
-[/us/pl/90/351/s1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs1002
+[/us/pl/90/351/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2FtV
 [/us/stat/82/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F235
 [/us/usc/t5/s1001/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs1001%2Fa
 [/us/usc/t5/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs1001
-[/us/pl/90/448/s1106/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2Fs1106%2Fe
+[/us/pl/90/448/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2FtXI
 [/us/stat/82/567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F567
 
 

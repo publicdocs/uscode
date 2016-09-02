@@ -77,19 +77,19 @@ R.S. § 1753 (less last 16 words).  </td>
 
  __Short Title of 1998 Amendment__ 
 
-[Pub. L. 105–277, div. C, title I, § 151(a)][/us/pl/105/277/s151/a], Oct. 21, 1998, [112 Stat. 2681–611][/us/stat/112/2681-611], provided that: 
+[Pub. L. 105–277, div. C, title I][/us/pl/105/277/dC/tI], § 151(a), Oct. 21, 1998, [112 Stat. 2681–611][/us/stat/112/2681-611], provided that: 
 
 > “This section \[enacting sections 3345 to 3349d of this title, repealing former sections 3345 to 3349 of this title, and enacting provisions set out as a note under [section 3345 of this title][/us/usc/t5/s3345]\] may be cited as the ‘Federal Vacancies Reform Act of 1998’.”
 
  __Short Title of 1991 Amendment__ 
 
-[Pub. L. 102–175, § 1][/us/pl/102/175/s1], Dec. 2, 1991, [105 Stat. 1222][/us/stat/105/1222], provided that: 
+[Pub. L. 102–175][/us/pl/102/175], § 1, Dec. 2, 1991, [105 Stat. 1222][/us/stat/105/1222], provided that: 
 
 > “This Act \[amending sections 3395, 3396, 5383, and 7701 of this title\] may be cited as the ‘Senior Executive Service Improvements Act’.”
 
  __Modifications to National Security Education Program__ 
 
-[Pub. L. 107–296, title XIII, § 1332(a)][/us/pl/107/296/s1332/a], Nov. 25, 2002, [116 Stat. 2299][/us/stat/116/2299], provided that:
+[Pub. L. 107–296, title XIII][/us/pl/107/296/tXIII], § 1332(a), Nov. 25, 2002, [116 Stat. 2299][/us/stat/116/2299], provided that:
 
 >     “(a) __Findings and Policies.—__ 
 
@@ -113,7 +113,7 @@ R.S. § 1753 (less last 16 words).  </td>
 
  __Temporary Measures To Facilitate Reemployment of Certain Displaced Federal Employees__ 
 
-    [Pub. L. 102–484, div. D, title XLIV, § 4432][/us/pl/102/484/s4432], Oct. 23, 1992, [106 Stat. 2720][/us/stat/106/2720], directed executive agencies and the Department of Defense, in filling vacant positions, to give full consideration to the applications of certain individuals who became displaced employees before Oct. 1, 1997, before selecting any candidate from outside the agency for the position.
+    [Pub. L. 102–484, div. D, title XLIV][/us/pl/102/484/dD/tXLIV], § 4432, Oct. 23, 1992, [106 Stat. 2720][/us/stat/106/2720], directed executive agencies and the Department of Defense, in filling vacant positions, to give full consideration to the applications of certain individuals who became displaced employees before Oct. 1, 1997, before selecting any candidate from outside the agency for the position.
 
  __National Advisory Council on the Public Service__ 
 
@@ -1128,14 +1128,14 @@ Sec. 2. Directions to the OPM. The OPM shall take the following actions no later
 
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F417
-[/us/pl/105/277/s151/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs151%2Fa
+[/us/pl/105/277/dC/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdC%2FtI
 [/us/stat/112/2681-611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-611
 [/us/usc/t5/s3345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3345
-[/us/pl/102/175/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F175%2Fs1
+[/us/pl/102/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F175
 [/us/stat/105/1222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1222
-[/us/pl/107/296/s1332/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1332%2Fa
+[/us/pl/107/296/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXIII
 [/us/stat/116/2299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2299
-[/us/pl/102/484/s4432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs4432
+[/us/pl/102/484/dD/tXLIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdD%2FtXLIV
 [/us/stat/106/2720]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2720
 [/us/pl/101/363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F363
 [/us/stat/104/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F424

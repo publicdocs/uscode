@@ -103,7 +103,7 @@ Aug. 28, 1958, Pub. L. 85–795, § 3, 72 Stat. 959.  </td>
 
     In subsection (a)(2), the words “without a change of position from the agency by which he is employed to an international organization” are substituted for “without the employee’s transfer from the Federal agency by which he is employed” to eliminate the necessity of carrying into this section the definition of “transfer” appearing in former section 2331(5).
 
-    In subsection (e), the words “[section 209 of title 18][/us/usc/t18/s209]” are substituted for “[section 1914 of title 18][/us/usc/t18/s1914]” on authority of the Act of Oct. 23, 1962, [Pub. L. 87–849, § 2][/us/pl/87/849/s2], [76 Stat. 1126][/us/stat/76/1126].
+    In subsection (e), the words “[section 209 of title 18][/us/usc/t18/s209]” are substituted for “[section 1914 of title 18][/us/usc/t18/s1914]” on authority of the Act of Oct. 23, 1962, [Pub. L. 87–849][/us/pl/87/849], § 2, [76 Stat. 1126][/us/stat/76/1126].
 
     Other definitions appearing in former section 2331 are omitted from this section as inappropriate but are carried into section 3581.
 
@@ -133,7 +133,7 @@ Aug. 28, 1958, Pub. L. 85–795, § 3, 72 Stat. 959.  </td>
 [/us/stat/83/825]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F825
 [/us/usc/t18/s209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs209
 [/us/usc/t18/s1914]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1914
-[/us/pl/87/849/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F849%2Fs2
+[/us/pl/87/849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F849
 [/us/stat/76/1126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F1126
 [/us/pl/91/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F175
 [/us/usc/t5/s3584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3584

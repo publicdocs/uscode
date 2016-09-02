@@ -23,7 +23,7 @@
 
     (3) carry out such functions as the primary duty of the Chief Human Capital Officer.
 
-(Added [Pub. L. 107–296, title XIII, § 1302(a)][/us/pl/107/296/s1302/a], Nov. 25, 2002, [116 Stat. 2287][/us/stat/116/2287].)
+(Added [Pub. L. 107–296, title XIII][/us/pl/107/296/tXIII], § 1302(a), Nov. 25, 2002, [116 Stat. 2287][/us/stat/116/2287].)
 
  __Effective Date__ 
 
@@ -31,7 +31,7 @@
 
  __Chief Human Capital Officers Council__ 
 
-[Pub. L. 107–296, title XIII, § 1303][/us/pl/107/296/s1303], Nov. 25, 2002, [116 Stat. 2288][/us/stat/116/2288], provided that:
+[Pub. L. 107–296, title XIII][/us/pl/107/296/tXIII], § 1303, Nov. 25, 2002, [116 Stat. 2288][/us/stat/116/2288], provided that:
 
 >     “(a)  __Establishment__  __.—__ 
 
@@ -63,11 +63,11 @@
 ----------
 
 [/us/usc/t31/s901/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs901%2Fb
-[/us/pl/107/296/s1302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1302%2Fa
+[/us/pl/107/296/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXIII
 [/us/stat/116/2287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2287
 [/us/pl/107/296/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1305
 [/us/usc/t5/s1103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs1103
-[/us/pl/107/296/s1303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1303
+[/us/pl/107/296/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXIII
 [/us/stat/116/2288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2288
 
 

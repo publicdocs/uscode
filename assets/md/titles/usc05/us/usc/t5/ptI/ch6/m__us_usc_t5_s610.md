@@ -33,7 +33,7 @@
 
     (c) Each year, each agency shall publish in the Federal Register a list of the rules which have a significant economic impact on a substantial number of small entities, which are to be reviewed pursuant to this section during the succeeding twelve months. The list shall include a brief description of each rule and the need for and legal basis of such rule and shall invite public comment upon the rule.
 
-(Added [Pub. L. 96–354, § 3(a)][/us/pl/96/354/s3/a], Sept. 19, 1980, [94 Stat. 1169][/us/stat/94/1169].)
+(Added [Pub. L. 96–354][/us/pl/96/354], § 3(a), Sept. 19, 1980, [94 Stat. 1169][/us/stat/94/1169].)
 
  __References in Text__ 
 
@@ -46,7 +46,7 @@
 ----------
 ----------
 
-[/us/pl/96/354/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F354%2Fs3%2Fa
+[/us/pl/96/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F354
 [/us/stat/94/1169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1169
 [/us/usc/t5/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs601
 

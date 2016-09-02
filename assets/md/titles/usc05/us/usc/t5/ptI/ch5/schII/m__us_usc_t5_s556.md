@@ -59,7 +59,7 @@
 
     (e) The transcript of testimony and exhibits, together with all papers and requests filed in the proceeding, constitutes the exclusive record for decision in accordance with [section 557 of this title][/us/usc/t5/s557] and, on payment of lawfully prescribed costs, shall be made available to the parties. When an agency decision rests on official notice of a material fact not appearing in the evidence in the record, a party is entitled, on timely request, to an opportunity to show the contrary.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 386][/us/stat/80/386]; [Pub. L. 94–409, § 4(c)][/us/pl/94/409/s4/c], Sept. 13, 1976, [90 Stat. 1247][/us/stat/90/1247]; [Pub. L. 95–251, § 2(a)(1)][/us/pl/95/251/s2/a/1], Mar. 27, 1978, [92 Stat. 183][/us/stat/92/183]; [Pub. L. 101–552, § 4(a)][/us/pl/101/552/s4/a], Nov. 15, 1990, [104 Stat. 2737][/us/stat/104/2737].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 386][/us/stat/80/386]; [Pub. L. 94–409][/us/pl/94/409], § 4(c), Sept. 13, 1976, [90 Stat. 1247][/us/stat/90/1247]; [Pub. L. 95–251][/us/pl/95/251], § 2(a)(1), Mar. 27, 1978, [92 Stat. 183][/us/stat/92/183]; [Pub. L. 101–552][/us/pl/101/552], § 4(a), Nov. 15, 1990, [104 Stat. 2737][/us/stat/104/2737].)
 
 <table>
 
@@ -113,9 +113,9 @@ June 11, 1946, ch. 324, § 7, 60 Stat. 241.  </td>
 
  __Amendments__ 
 
-    1990—Subsec. (c)(6). [Pub. L. 101–552, § 4(a)(1)][/us/pl/101/552/s4/a/1], inserted before semicolon at end “or by the use of alternative means of dispute resolution as provided in subchapter IV of this chapter”.
+    1990—Subsec. (c)(6). [Pub. L. 101–552][/us/pl/101/552], § 4(a)(1), inserted before semicolon at end “or by the use of alternative means of dispute resolution as provided in subchapter IV of this chapter”.
 
-    Subsec. (c)(7) to (11). [Pub. L. 101–552, § 4(a)(2)][/us/pl/101/552/s4/a/2], added pars. (7) and (8) and redesignated former pars. (7) to (9) as (9) to (11), respectively.
+    Subsec. (c)(7) to (11). [Pub. L. 101–552][/us/pl/101/552], § 4(a)(2), added pars. (7) and (8) and redesignated former pars. (7) to (9) as (9) to (11), respectively.
 
     1978—Subsec. (b)(3). [Pub. L. 95–251][/us/pl/95/251] substituted “administrative law judges” for “hearing examiners”.
 
@@ -163,14 +163,14 @@ June 11, 1946, ch. 324, § 7, 60 Stat. 241.  </td>
 [/us/usc/t5/s557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs557
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F386
-[/us/pl/94/409/s4/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F409%2Fs4%2Fc
+[/us/pl/94/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F409
 [/us/stat/90/1247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1247
-[/us/pl/95/251/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F251%2Fs2%2Fa%2F1
+[/us/pl/95/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F251
 [/us/stat/92/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F183
-[/us/pl/101/552/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F552%2Fs4%2Fa
+[/us/pl/101/552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F552
 [/us/stat/104/2737]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2737
-[/us/pl/101/552/s4/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F552%2Fs4%2Fa%2F1
-[/us/pl/101/552/s4/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F552%2Fs4%2Fa%2F2
+[/us/pl/101/552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F552
+[/us/pl/101/552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F552
 [/us/pl/95/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F251
 [/us/pl/94/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F409
 [/us/usc/t5/s557/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs557%2Fd

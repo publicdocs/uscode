@@ -75,9 +75,9 @@
 
  __Amendments__ 
 
-    2011—[Pub. L. 111–352, § 13(a)][/us/pl/111/352/s13/a], Jan. 4, 2011, [124 Stat. 3882][/us/stat/124/3882], added item 306 and struck out former item 306 “Strategic plans”.
+    2011—[Pub. L. 111–352][/us/pl/111/352], § 13(a), Jan. 4, 2011, [124 Stat. 3882][/us/stat/124/3882], added item 306 and struck out former item 306 “Strategic plans”.
 
-    1993—[Pub. L. 103–62, § 11(a)][/us/pl/103/62/s11/a], Aug. 3, 1993, [107 Stat. 295][/us/stat/107/295], added item 306.
+    1993—[Pub. L. 103–62][/us/pl/103/62], § 11(a), Aug. 3, 1993, [107 Stat. 295][/us/stat/107/295], added item 306.
 
 ----------
 
@@ -86,9 +86,9 @@
 ----------
 ----------
 
-[/us/pl/111/352/s13/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F352%2Fs13%2Fa
+[/us/pl/111/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F352
 [/us/stat/124/3882]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3882
-[/us/pl/103/62/s11/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F62%2Fs11%2Fa
+[/us/pl/103/62]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F62
 [/us/stat/107/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F295
 
 

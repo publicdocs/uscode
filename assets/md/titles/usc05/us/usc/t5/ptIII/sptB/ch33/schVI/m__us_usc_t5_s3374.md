@@ -51,7 +51,7 @@
 
     (e) If a State or local government fails to continue the employer’s contribution to State or local government retirement, life insurance, and health benefit plans for a State or local government employee who is given an appointment in a Federal agency, the employer’s contributions covering the State or local government employee’s period of assignment, or any part thereof, may be made from the appropriations of the Federal agency concerned.
 
-(Added [Pub. L. 91–648, title IV, § 402(a)][/us/pl/91/648/s402/a], Jan. 5, 1971, [84 Stat. 1923][/us/stat/84/1923]; amended [Pub. L. 95–454, title VI, § 603(b)][/us/pl/95/454/s603/b], (d), Oct. 13, 1978, [92 Stat. 1190][/us/stat/92/1190]; [Pub. L. 97–258, § 3(a)(6)][/us/pl/97/258/s3/a/6], Sept. 13, 1982, [96 Stat. 1063][/us/stat/96/1063]; [Pub. L. 107–107, div. A, title XI, § 1117][/us/pl/107/107/s1117], Dec. 28, 2001, [115 Stat. 1241][/us/stat/115/1241]; [Pub. L. 111–350, § 5(a)(5)][/us/pl/111/350/s5/a/5], Jan. 4, 2011, [124 Stat. 3841][/us/stat/124/3841].)
+(Added [Pub. L. 91–648, title IV][/us/pl/91/648/tIV], § 402(a), Jan. 5, 1971, [84 Stat. 1923][/us/stat/84/1923]; amended [Pub. L. 95–454, title VI][/us/pl/95/454/tVI], § 603(b), (d), Oct. 13, 1978, [92 Stat. 1190][/us/stat/92/1190]; [Pub. L. 97–258][/us/pl/97/258], § 3(a)(6), Sept. 13, 1982, [96 Stat. 1063][/us/stat/96/1063]; [Pub. L. 107–107, div. A, title XI][/us/pl/107/107/dA/tXI], § 1117, Dec. 28, 2001, [115 Stat. 1241][/us/stat/115/1241]; [Pub. L. 111–350][/us/pl/111/350], § 5(a)(5), Jan. 4, 2011, [124 Stat. 3841][/us/stat/124/3841].)
 
  __References in Text__ 
 
@@ -67,15 +67,15 @@
 
     1982—Subsec. (c)(2). [Pub. L. 97–258][/us/pl/97/258] substituted “sections 1343, 1344, and 1349(b)” for “section 638a”.
 
-    1978—Subsec. (a). [Pub. L. 95–454, § 603(b)][/us/pl/95/454/s603/b], substituted “a Federal” for “an executive”, and “Federal agency” for “executive agency” in two places.
+    1978—Subsec. (a). [Pub. L. 95–454][/us/pl/95/454], § 603(b), substituted “a Federal” for “an executive”, and “Federal agency” for “executive agency” in two places.
 
-    Subsec. (b). [Pub. L. 95–454, § 603(b)][/us/pl/95/454/s603/b], (d)(1), inserted provisions relating to nonapplicability of exceptions to non-Federal employees, and substituted “Federal” for “executive”.
+    Subsec. (b). [Pub. L. 95–454][/us/pl/95/454], § 603(b), (d)(1), inserted provisions relating to nonapplicability of exceptions to non-Federal employees, and substituted “Federal” for “executive”.
 
-    Subsec. (c). [Pub. L. 95–454, § 603(b)][/us/pl/95/454/s603/b], (d)(2), (3), inserted provisions relating to pay received from the State or local government at less than the appropriate rate of pay, and provisions relating to contributions to employee benefit systems, and substituted “a Federal” for “an executive” and “Federal agency” for “executive agency” wherever appearing.
+    Subsec. (c). [Pub. L. 95–454][/us/pl/95/454], § 603(b), (d)(2), (3), inserted provisions relating to pay received from the State or local government at less than the appropriate rate of pay, and provisions relating to contributions to employee benefit systems, and substituted “a Federal” for “an executive” and “Federal agency” for “executive agency” wherever appearing.
 
-    Subsec. (d). [Pub. L. 95–454, § 603(b)][/us/pl/95/454/s603/b], substituted “a Federal” for “an executive” in two places.
+    Subsec. (d). [Pub. L. 95–454][/us/pl/95/454], § 603(b), substituted “a Federal” for “an executive” in two places.
 
-    Subsec. (e). [Pub. L. 95–454, § 603(b)][/us/pl/95/454/s603/b], substituted “a Federal” for “an executive” and “Federal” for “executive”.
+    Subsec. (e). [Pub. L. 95–454][/us/pl/95/454], § 603(b), substituted “a Federal” for “an executive” and “Federal” for “executive”.
 
  __Effective Date of 1978 Amendment__ 
 
@@ -89,15 +89,15 @@
 ----------
 
 [/us/usc/t5/s8101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8101
-[/us/pl/91/648/s402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F648%2Fs402%2Fa
+[/us/pl/91/648/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F648%2FtIV
 [/us/stat/84/1923]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1923
-[/us/pl/95/454/s603/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs603%2Fb
+[/us/pl/95/454/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtVI
 [/us/stat/92/1190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1190
-[/us/pl/97/258/s3/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs3%2Fa%2F6
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1063]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1063
-[/us/pl/107/107/s1117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs1117
+[/us/pl/107/107/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtXI
 [/us/stat/115/1241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1241
-[/us/pl/111/350/s5/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs5%2Fa%2F5
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3841
 [/us/pl/95/521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521
 [/us/stat/92/1824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1824
@@ -109,11 +109,11 @@
 [/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
-[/us/pl/95/454/s603/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs603%2Fb
-[/us/pl/95/454/s603/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs603%2Fb
-[/us/pl/95/454/s603/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs603%2Fb
-[/us/pl/95/454/s603/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs603%2Fb
-[/us/pl/95/454/s603/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs603%2Fb
+[/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454
+[/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454
+[/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454
+[/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454
+[/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454
 [/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454
 [/us/pl/95/454/s907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs907
 [/us/usc/t5/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs1101

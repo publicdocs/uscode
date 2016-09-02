@@ -21,7 +21,7 @@
 
     (c) This section shall not be considered as affecting the authority of an Executive agency, except to the extent and under the conditions covered under this section, to grant administrative leave excusing an employee from work when it is in the public interest.
 
-(Added [Pub. L. 90–588, § 1(a)][/us/pl/90/588/s1/a], Oct. 17, 1968, [82 Stat. 1151][/us/stat/82/1151]; amended [Pub. L. 95–454, title IX, § 906(a)(2)][/us/pl/95/454/s906/a/2], Oct. 13, 1978, [92 Stat. 1224][/us/stat/92/1224].)
+(Added [Pub. L. 90–588][/us/pl/90/588], § 1(a), Oct. 17, 1968, [82 Stat. 1151][/us/stat/82/1151]; amended [Pub. L. 95–454, title IX][/us/pl/95/454/tIX], § 906(a)(2), Oct. 13, 1978, [92 Stat. 1224][/us/stat/92/1224].)
 
  __References in Text__ 
 
@@ -42,9 +42,9 @@
 ----------
 ----------
 
-[/us/pl/90/588/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F588%2Fs1%2Fa
+[/us/pl/90/588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F588
 [/us/stat/82/1151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1151
-[/us/pl/95/454/s906/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs906%2Fa%2F2
+[/us/pl/95/454/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtIX
 [/us/stat/92/1224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1224
 [/us/usc/t26/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs112
 [/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454

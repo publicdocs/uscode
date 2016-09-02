@@ -23,7 +23,7 @@
 
     The Director of the United States Secret Service or the designee of the Director may appoint an individual at a rate above the minimum rate of basic pay for the Officer rank based on the individual’s superior qualifications or a special need of the Government for the individual’s services.
 
-(Added [Pub. L. 111–282, § 2(a)][/us/pl/111/282/s2/a], Oct. 15, 2010, [124 Stat. 3036][/us/stat/124/3036].)
+(Added [Pub. L. 111–282][/us/pl/111/282], § 2(a), Oct. 15, 2010, [124 Stat. 3036][/us/stat/124/3036].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/111/282/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F282%2Fs2%2Fa
+[/us/pl/111/282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F282
 [/us/stat/124/3036]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3036
 
 

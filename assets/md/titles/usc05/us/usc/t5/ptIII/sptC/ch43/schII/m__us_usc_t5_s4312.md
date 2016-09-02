@@ -47,7 +47,7 @@
 
     (d) A senior executive may not appeal any appraisal and rating under any performance appraisal system under this section.
 
-(Added [Pub. L. 95–454, title IV, § 405(a)][/us/pl/95/454/s405/a], Oct. 13, 1978, [92 Stat. 1167][/us/stat/92/1167]; amended [Pub. L. 98–615, title III, § 306(b)(2)][/us/pl/98/615/s306/b/2], Nov. 8, 1984, [98 Stat. 3220][/us/stat/98/3220].)
+(Added [Pub. L. 95–454, title IV][/us/pl/95/454/tIV], § 405(a), Oct. 13, 1978, [92 Stat. 1167][/us/stat/92/1167]; amended [Pub. L. 98–615, title III][/us/pl/98/615/tIII], § 306(b)(2), Nov. 8, 1984, [98 Stat. 3220][/us/stat/98/3220].)
 
  __Amendments__ 
 
@@ -65,9 +65,9 @@
 ----------
 
 [/us/usc/t5/s4314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs4314
-[/us/pl/95/454/s405/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs405%2Fa
+[/us/pl/95/454/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtIV
 [/us/stat/92/1167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1167
-[/us/pl/98/615/s306/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F615%2Fs306%2Fb%2F2
+[/us/pl/98/615/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F615%2FtIII
 [/us/stat/98/3220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3220
 [/us/pl/98/615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F615
 [/us/pl/98/615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F615

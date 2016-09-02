@@ -41,7 +41,7 @@
 
     (c) This section does not authorize the Office to prescribe the types and methods of intra-agency training or to regulate the details of intra-agency training programs.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 438][/us/stat/80/438]; [Pub. L. 95–454, title IX, § 906(a)(2)][/us/pl/95/454/s906/a/2], (3), Oct. 13, 1978, [92 Stat. 1224][/us/stat/92/1224]; [Pub. L. 103–226, § 2(a)(9)][/us/pl/103/226/s2/a/9], Mar. 30, 1994, [108 Stat. 112][/us/stat/108/112].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 438][/us/stat/80/438]; [Pub. L. 95–454, title IX][/us/pl/95/454/tIX], § 906(a)(2), (3), Oct. 13, 1978, [92 Stat. 1224][/us/stat/92/1224]; [Pub. L. 103–226][/us/pl/103/226], § 2(a)(9), Mar. 30, 1994, [108 Stat. 112][/us/stat/108/112].)
 
 <table>
 
@@ -101,9 +101,9 @@ July 7, 1958, Pub. L. 85–507, § 6, 72 Stat. 329.  </td>
 
  __Amendments__ 
 
-    1994—Subsec. (a)(7). [Pub. L. 103–226, § 2(a)(9)(A)][/us/pl/103/226/s2/a/9/A], struck out before semicolon at end “by, in, and through non-Government facilities”.
+    1994—Subsec. (a)(7). [Pub. L. 103–226][/us/pl/103/226], § 2(a)(9)(A), struck out before semicolon at end “by, in, and through non-Government facilities”.
 
-    Subsecs. (b) to (d). [Pub. L. 103–226, § 2(a)(9)(B)][/us/pl/103/226/s2/a/9/B], (C), redesignated subsecs. (c) and (d) as (b) and (c), respectively, and struck out former subsec. (b) which read as follows: “In addition to the matters set forth by subsection (a) of this section, the regulations, concerning training of employees by, in, or through non-Government facilities, shall—
+    Subsecs. (b) to (d). [Pub. L. 103–226][/us/pl/103/226], § 2(a)(9)(B), (C), redesignated subsecs. (c) and (d) as (b) and (c), respectively, and struck out former subsec. (b) which read as follows: “In addition to the matters set forth by subsection (a) of this section, the regulations, concerning training of employees by, in, or through non-Government facilities, shall—
 
     “(1) prescribe general policies governing the selection of a non-Government facility to provide training;
 
@@ -135,12 +135,12 @@ July 7, 1958, Pub. L. 85–507, § 6, 72 Stat. 329.  </td>
 [/us/usc/t5/s4109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs4109
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F438
-[/us/pl/95/454/s906/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs906%2Fa%2F2
+[/us/pl/95/454/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtIX
 [/us/stat/92/1224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1224
-[/us/pl/103/226/s2/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F226%2Fs2%2Fa%2F9
+[/us/pl/103/226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F226
 [/us/stat/108/112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F112
-[/us/pl/103/226/s2/a/9/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F226%2Fs2%2Fa%2F9%2FA
-[/us/pl/103/226/s2/a/9/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F226%2Fs2%2Fa%2F9%2FB
+[/us/pl/103/226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F226
+[/us/pl/103/226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F226
 [/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454
 [/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454
 [/us/pl/95/454/s907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs907

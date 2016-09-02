@@ -21,11 +21,11 @@
 
     (2) such violation related to conduct prohibited under section 1010(a) of the Controlled Substances Import and Export Act ([21 U.S.C. 960(a)][/us/usc/t21/s960/a]).
 
-(Added [Pub. L. 105–61, title VI, § 638(a)][/us/pl/105/61/s638/a], Oct. 10, 1997, [111 Stat. 1316][/us/stat/111/1316].)
+(Added [Pub. L. 105–61, title VI][/us/pl/105/61/tVI], § 638(a), Oct. 10, 1997, [111 Stat. 1316][/us/stat/111/1316].)
 
  __Effective Date__ 
 
-[Pub. L. 105–61, title VI, § 638(c)][/us/pl/105/61/s638/c], Oct. 10, 1997, [111 Stat. 1317][/us/stat/111/1317], provided that: 
+[Pub. L. 105–61, title VI][/us/pl/105/61/tVI], § 638(c), Oct. 10, 1997, [111 Stat. 1317][/us/stat/111/1317], provided that: 
 
 > “This section \[enacting this section\] shall apply during fiscal year 1998 and each fiscal year thereafter.”
 
@@ -38,9 +38,9 @@
 
 [/us/usc/t18/s201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs201%2Fb
 [/us/usc/t21/s960/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs960%2Fa
-[/us/pl/105/61/s638/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F61%2Fs638%2Fa
+[/us/pl/105/61/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F61%2FtVI
 [/us/stat/111/1316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1316
-[/us/pl/105/61/s638/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F61%2Fs638%2Fc
+[/us/pl/105/61/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F61%2FtVI
 [/us/stat/111/1317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1317
 
 

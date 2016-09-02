@@ -101,7 +101,7 @@
 
         (D) with respect to the commissioned corps of the Public Health Service, the Secretary of Health and Human Services.
 
-(Added [Pub. L. 106–265, title I, § 1002(a)][/us/pl/106/265/s1002/a], Sept. 19, 2000, [114 Stat. 762][/us/stat/114/762]; amended [Pub. L. 107–104, § 1][/us/pl/107/104/s1], Dec. 27, 2001, [115 Stat. 1001][/us/stat/115/1001]; [Pub. L. 107–107, div. A, title X, § 1048(i)(6)][/us/pl/107/107/s1048/i/6], Dec. 28, 2001, [115 Stat. 1229][/us/stat/115/1229]; [Pub. L. 107–314, div. A, title XI, § 1101(a)][/us/pl/107/314/s1101/a], Dec. 2, 2002, [116 Stat. 2660][/us/stat/116/2660]; [Pub. L. 108–7, div. C, title III, § 138(a)][/us/pl/108/7/s138/a], Feb. 20, 2003, [117 Stat. 129][/us/stat/117/129]; [Pub. L. 108–136, div. A, title V, § 561][/us/pl/108/136/s561], Nov. 24, 2003, [117 Stat. 1482][/us/stat/117/1482]; [Pub. L. 109–241, title IX, § 902(a)(3)][/us/pl/109/241/s902/a/3], July 11, 2006, [120 Stat. 566][/us/stat/120/566]; [Pub. L. 109–356, title I, § 117(a)(3)][/us/pl/109/356/s117/a/3], Oct. 16, 2006, [120 Stat. 2027][/us/stat/120/2027].)
+(Added [Pub. L. 106–265, title I][/us/pl/106/265/tI], § 1002(a), Sept. 19, 2000, [114 Stat. 762][/us/stat/114/762]; amended [Pub. L. 107–104][/us/pl/107/104], § 1, Dec. 27, 2001, [115 Stat. 1001][/us/stat/115/1001]; [Pub. L. 107–107, div. A, title X][/us/pl/107/107/dA/tX], § 1048(i)(6), Dec. 28, 2001, [115 Stat. 1229][/us/stat/115/1229]; [Pub. L. 107–314, div. A, title XI][/us/pl/107/314/dA/tXI], § 1101(a), Dec. 2, 2002, [116 Stat. 2660][/us/stat/116/2660]; [Pub. L. 108–7, div. C, title III][/us/pl/108/7/dC/tIII], § 138(a), Feb. 20, 2003, [117 Stat. 129][/us/stat/117/129]; [Pub. L. 108–136, div. A, title V][/us/pl/108/136/dA/tV], § 561, Nov. 24, 2003, [117 Stat. 1482][/us/stat/117/1482]; [Pub. L. 109–241, title IX][/us/pl/109/241/tIX], § 902(a)(3), July 11, 2006, [120 Stat. 566][/us/stat/120/566]; [Pub. L. 109–356, title I][/us/pl/109/356/tI], § 117(a)(3), Oct. 16, 2006, [120 Stat. 2027][/us/stat/120/2027].)
 
  __References in Text__ 
 
@@ -113,15 +113,15 @@
 
     Par. (10)(B). [Pub. L. 109–241][/us/pl/109/241] substituted “Secretary of Homeland Security” for “Secretary of Transportation”.
 
-    2003—Par. (1). [Pub. L. 108–136, § 561(a)][/us/pl/108/136/s561/a], substituted a period for a comma at end of subpar. (D) and struck out concluding provisions which read: “but does not include an individual employed by the government of the District of Columbia (other than an employee of the District of Columbia Courts).”
+    2003—Par. (1). [Pub. L. 108–136][/us/pl/108/136], § 561(a), substituted a period for a comma at end of subpar. (D) and struck out concluding provisions which read: “but does not include an individual employed by the government of the District of Columbia (other than an employee of the District of Columbia Courts).”
 
     [Pub. L. 108–7][/us/pl/108/7] inserted “(other than an employee of the District of Columbia Courts)” before period at end of concluding provisions.
 
-    Par. (2)(A). [Pub. L. 108–136, § 561(d)][/us/pl/108/136/s561/d], struck out “of this subsection” after “paragraph (1)”.
+    Par. (2)(A). [Pub. L. 108–136][/us/pl/108/136], § 561(d), struck out “of this subsection” after “paragraph (1)”.
 
-    Par. (2)(C). [Pub. L. 108–136, § 561(b)][/us/pl/108/136/s561/b], added subpar. (C).
+    Par. (2)(C). [Pub. L. 108–136][/us/pl/108/136], § 561(b), added subpar. (C).
 
-    Par. (4). [Pub. L. 108–136, § 561(c)][/us/pl/108/136/s561/c], substituted “and a member who has been transferred to the Retired Reserve and who would be entitled to retired pay under chapter 1223 of title 10 but for not having” for “including a member or former member retired under chapter 1223 of title 10 who has”.
+    Par. (4). [Pub. L. 108–136][/us/pl/108/136], § 561(c), substituted “and a member who has been transferred to the Retired Reserve and who would be entitled to retired pay under chapter 1223 of title 10 but for not having” for “including a member or former member retired under chapter 1223 of title 10 who has”.
 
     2002—Par. (1)(D). [Pub. L. 107–314][/us/pl/107/314] added subpar. (D).
 
@@ -131,19 +131,19 @@
 
  __Effective Date of 2001 Amendment__ 
 
-[Pub. L. 107–104, § 3][/us/pl/107/104/s3], Dec. 27, 2001, [115 Stat. 1002][/us/stat/115/1002], provided that: 
+[Pub. L. 107–104][/us/pl/107/104], § 3, Dec. 27, 2001, [115 Stat. 1002][/us/stat/115/1002], provided that: 
 
 > “The amendments made by this Act \[amending this section and [section 9005 of this title][/us/usc/t5/s9005]\] shall take effect as if included in the enactment of section 1002 of the Long-Term Care Security Act ([Public Law 106–265][/us/pl/106/265]; [114 Stat. 762][/us/stat/114/762]).”
 
  __Effective Date__ 
 
-[Pub. L. 106–265, title I, § 1003][/us/pl/106/265/s1003], Sept. 19, 2000, [114 Stat. 770][/us/stat/114/770], provided that: 
+[Pub. L. 106–265, title I][/us/pl/106/265/tI], § 1003, Sept. 19, 2000, [114 Stat. 770][/us/stat/114/770], provided that: 
 
 > “The Office of Personnel Management shall take such measures as may be necessary to ensure that long-term care insurance coverage under title 5, United States Code, as amended by this title \[enacting this chapter\], may be obtained in time to take effect not later than the first day of the first applicable pay period of the first fiscal year which begins after the end of the 18-month period beginning on the date of the enactment of this Act \[Sept. 19, 2000\].”
 
  __Short Title__ 
 
-[Pub. L. 106–265, title I, § 1001][/us/pl/106/265/s1001], Sept. 19, 2000, [114 Stat. 762][/us/stat/114/762], provided that: 
+[Pub. L. 106–265, title I][/us/pl/106/265/tI], § 1001, Sept. 19, 2000, [114 Stat. 762][/us/stat/114/762], provided that: 
 
 > “This title \[enacting this chapter\] may be cited as the ‘Long-Term Care Security Act’.”
 
@@ -158,41 +158,41 @@
 ----------
 ----------
 
-[/us/pl/106/265/s1002/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F265%2Fs1002%2Fa
+[/us/pl/106/265/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F265%2FtI
 [/us/stat/114/762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F762
-[/us/pl/107/104/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F104%2Fs1
+[/us/pl/107/104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F104
 [/us/stat/115/1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1001
-[/us/pl/107/107/s1048/i/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs1048%2Fi%2F6
+[/us/pl/107/107/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtX
 [/us/stat/115/1229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1229
-[/us/pl/107/314/s1101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs1101%2Fa
+[/us/pl/107/314/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtXI
 [/us/stat/116/2660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2660
-[/us/pl/108/7/s138/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs138%2Fa
+[/us/pl/108/7/dC/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2FdC%2FtIII
 [/us/stat/117/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F129
-[/us/pl/108/136/s561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs561
+[/us/pl/108/136/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtV
 [/us/stat/117/1482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1482
-[/us/pl/109/241/s902/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241%2Fs902%2Fa%2F3
+[/us/pl/109/241/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241%2FtIX
 [/us/stat/120/566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F566
-[/us/pl/109/356/s117/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F356%2Fs117%2Fa%2F3
+[/us/pl/109/356/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F356%2FtI
 [/us/stat/120/2027]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2027
 [/us/usc/t26/s7702B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs7702B
 [/us/pl/109/356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F356
 [/us/pl/109/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241
-[/us/pl/108/136/s561/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs561%2Fa
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
 [/us/pl/108/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7
-[/us/pl/108/136/s561/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs561%2Fd
-[/us/pl/108/136/s561/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs561%2Fb
-[/us/pl/108/136/s561/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs561%2Fc
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
 [/us/pl/107/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314
 [/us/pl/107/104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F104
 [/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
-[/us/pl/107/104/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F104%2Fs3
+[/us/pl/107/104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F104
 [/us/stat/115/1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1002
 [/us/usc/t5/s9005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs9005
 [/us/pl/106/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F265
 [/us/stat/114/762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F762
-[/us/pl/106/265/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F265%2Fs1003
+[/us/pl/106/265/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F265%2FtI
 [/us/stat/114/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F770
-[/us/pl/106/265/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F265%2Fs1001
+[/us/pl/106/265/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F265%2FtI
 [/us/stat/114/762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F762
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 

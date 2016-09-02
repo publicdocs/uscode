@@ -53,7 +53,7 @@
 
     Any benefits under this section shall be in addition to (and not in lieu of) any other benefits for which the covered employee is otherwise eligible.
 
-(Added [Pub. L. 110–181, div. A, title XI, § 1104(a)][/us/pl/110/181/s1104/a], Jan. 28, 2008, [122 Stat. 346][/us/stat/122/346].)
+(Added [Pub. L. 110–181, div. A, title XI][/us/pl/110/181/dA/tXI], § 1104(a), Jan. 28, 2008, [122 Stat. 346][/us/stat/122/346].)
 
 ----------
 
@@ -63,7 +63,7 @@
 ----------
 
 [/us/usc/t10/s1482a/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1482a%2Fc
-[/us/pl/110/181/s1104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1104%2Fa
+[/us/pl/110/181/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtXI
 [/us/stat/122/346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F346
 
 

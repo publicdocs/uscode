@@ -89,7 +89,7 @@
 
             (ii) violated section 8314 or 8315 of this title.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 557][/us/stat/80/557]; [Pub. L. 102–54, § 13(b)(1)][/us/pl/102/54/s13/b/1], June 13, 1991, [105 Stat. 274][/us/stat/105/274].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 557][/us/stat/80/557]; [Pub. L. 102–54][/us/pl/102/54], § 13(b)(1), June 13, 1991, [105 Stat. 274][/us/stat/105/274].)
 
 <table>
 
@@ -186,7 +186,7 @@ Sept. 26, 1961, Pub. L. 87–299, § 1 “Sec. 10”, 75 Stat. 646.  </td>
 [/us/usc/t5/s8312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8312
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F557
-[/us/pl/102/54/s13/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54%2Fs13%2Fb%2F1
+[/us/pl/102/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54
 [/us/stat/105/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F274
 [/us/usc/t18/s3282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3282
 [/us/usc/t5/s2105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs2105

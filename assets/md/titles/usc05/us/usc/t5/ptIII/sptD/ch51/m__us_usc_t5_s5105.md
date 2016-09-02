@@ -29,7 +29,7 @@
 
     (c) The official class titles established under subsection (a)(2) of this section shall be used for personnel, budget, and fiscal purposes. However, this requirement does not prevent the use of organizational or other titles for internal administration, public convenience, law enforcement, or similar purposes.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 452][/us/stat/80/452]; [Pub. L. 95–454, title IX, § 906(a)(2)][/us/pl/95/454/s906/a/2], (3), Oct. 13, 1978, [92 Stat. 1224][/us/stat/92/1224].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 452][/us/stat/80/452]; [Pub. L. 95–454, title IX][/us/pl/95/454/tIX], § 906(a)(2), (3), Oct. 13, 1978, [92 Stat. 1224][/us/stat/92/1224].)
 
 <table>
 
@@ -93,7 +93,7 @@ Oct. 28, 1949, ch. 782, § 401, 63 Stat. 957.  </td>
 
  __Performance Management Skills and Competencies__ 
 
-[Pub. L. 111–352, § 12][/us/pl/111/352/s12], Jan. 4, 2011, [124 Stat. 3882][/us/stat/124/3882], provided that:
+[Pub. L. 111–352][/us/pl/111/352], § 12, Jan. 4, 2011, [124 Stat. 3882][/us/stat/124/3882], provided that:
 
 >     “(a)  __Performance Management Skills and Competencies__  __.—__ 
 
@@ -116,13 +116,13 @@ Oct. 28, 1949, ch. 782, § 401, 63 Stat. 957.  </td>
 
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F452
-[/us/pl/95/454/s906/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs906%2Fa%2F2
+[/us/pl/95/454/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtIX
 [/us/stat/92/1224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1224
 [/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454
 [/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454
 [/us/pl/95/454/s907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs907
 [/us/usc/t5/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs1101
-[/us/pl/111/352/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F352%2Fs12
+[/us/pl/111/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F352
 [/us/stat/124/3882]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3882
 [/us/usc/t5/s306/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs306%2Ff
 

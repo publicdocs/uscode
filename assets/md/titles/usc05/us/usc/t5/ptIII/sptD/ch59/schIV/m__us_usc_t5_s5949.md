@@ -29,11 +29,11 @@
 
     (c) An employee may be paid hostile fire pay under this section in addition to other pay and allowances to which entitled, except that an employee may not be paid hostile fire pay under this section for periods of time during which the employee receives payment under [section 5925 of this title][/us/usc/t5/s5925] because of exposure to political violence or payment under [section 5928 of this title][/us/usc/t5/s5928].
 
-(Added [Pub. L. 107–107, div. A, title XI, § 1111(a)][/us/pl/107/107/s1111/a], Dec. 28, 2001, [115 Stat. 1238][/us/stat/115/1238].)
+(Added [Pub. L. 107–107, div. A, title XI][/us/pl/107/107/dA/tXI], § 1111(a), Dec. 28, 2001, [115 Stat. 1238][/us/stat/115/1238].)
 
  __Effective Date__ 
 
-[Pub. L. 107–107, div. A, title XI, § 1111(c)][/us/pl/107/107/s1111/c], Dec. 28, 2001, [115 Stat. 1238][/us/stat/115/1238], as amended by [Pub. L. 108–375, div. A, title X, § 1084(h)(3)][/us/pl/108/375/s1084/h/3], Oct. 28, 2004, [118 Stat. 2064][/us/stat/118/2064], provided that: 
+[Pub. L. 107–107, div. A, title XI][/us/pl/107/107/dA/tXI], § 1111(c), Dec. 28, 2001, [115 Stat. 1238][/us/stat/115/1238], as amended by [Pub. L. 108–375, div. A, title X][/us/pl/108/375/dA/tX], § 1084(h)(3), Oct. 28, 2004, [118 Stat. 2064][/us/stat/118/2064], provided that: 
 
 > “[Section 5949 of title 5][/us/usc/t5/s5949], United States Code, as added by subsection (a), is effective as if enacted into law on September 11, 2001, and may be applied with respect to any hostile action that took place on or after that date.”
 
@@ -46,11 +46,11 @@
 
 [/us/usc/t5/s5925]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5925
 [/us/usc/t5/s5928]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5928
-[/us/pl/107/107/s1111/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs1111%2Fa
+[/us/pl/107/107/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtXI
 [/us/stat/115/1238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1238
-[/us/pl/107/107/s1111/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs1111%2Fc
+[/us/pl/107/107/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtXI
 [/us/stat/115/1238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1238
-[/us/pl/108/375/s1084/h/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs1084%2Fh%2F3
+[/us/pl/108/375/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtX
 [/us/stat/118/2064]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2064
 [/us/usc/t5/s5949]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5949
 

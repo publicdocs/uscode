@@ -69,7 +69,7 @@
 
         (2) In any case in which the Special Counsel transmits recommendations to an agency head under paragraph (1), the agency head shall, within 60 days after receiving such recommendations, transmit a report to the Special Counsel on each recommendation and the action taken, or proposed to be taken, with respect to each such recommendation.
 
-(Added [Pub. L. 101–12, § 3(a)(13)][/us/pl/101/12/s3/a/13], Apr. 10, 1989, [103 Stat. 27][/us/stat/103/27]; amended [Pub. L. 112–199, title I, § 106][/us/pl/112/199/s106], Nov. 27, 2012, [126 Stat. 1468][/us/stat/126/1468].)
+(Added [Pub. L. 101–12][/us/pl/101/12], § 3(a)(13), Apr. 10, 1989, [103 Stat. 27][/us/stat/103/27]; amended [Pub. L. 112–199, title I][/us/pl/112/199/tI], § 106, Nov. 27, 2012, [126 Stat. 1468][/us/stat/126/1468].)
 
  __Amendments__ 
 
@@ -86,9 +86,9 @@
 ----------
 ----------
 
-[/us/pl/101/12/s3/a/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F12%2Fs3%2Fa%2F13
+[/us/pl/101/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F12
 [/us/stat/103/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F27
-[/us/pl/112/199/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F199%2Fs106
+[/us/pl/112/199/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F199%2FtI
 [/us/stat/126/1468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1468
 [/us/pl/112/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F199
 [/us/pl/112/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F199

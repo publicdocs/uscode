@@ -25,7 +25,7 @@
 
     (b) For the purpose of subsection (a), the term “intimidate, threaten, or coerce” includes, but is not limited to, promising to confer or conferring any benefit (such as appointment, promotion, or compensation), or effecting or threatening to effect any reprisal (such as deprivation of appointment, promotion, or compensation).
 
-(Added [Pub. L. 97–221, § 2(a)(2)][/us/pl/97/221/s2/a/2], July 23, 1982, [96 Stat. 232][/us/stat/96/232].)
+(Added [Pub. L. 97–221][/us/pl/97/221], § 2(a)(2), July 23, 1982, [96 Stat. 232][/us/stat/96/232].)
 
 ----------
 
@@ -36,7 +36,7 @@
 
 [/us/usc/t5/s6127/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs6127%2Fb%2F1
 [/us/usc/t5/s6127/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs6127%2Fb%2F2
-[/us/pl/97/221/s2/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F221%2Fs2%2Fa%2F2
+[/us/pl/97/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F221
 [/us/stat/96/232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F232
 
 

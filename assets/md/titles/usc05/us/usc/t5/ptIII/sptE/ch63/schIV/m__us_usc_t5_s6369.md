@@ -17,7 +17,7 @@
 
     The Office of Personnel Management shall establish procedures under which any transferred leave remaining to the credit of a leave recipient when the medical emergency affecting the leave recipient terminates, shall be restored to the leave bank.
 
-(Added [Pub. L. 100–566, § 2(a)][/us/pl/100/566/s2/a], Oct. 31, 1988, [102 Stat. 2842][/us/stat/102/2842].)
+(Added [Pub. L. 100–566][/us/pl/100/566], § 2(a), Oct. 31, 1988, [102 Stat. 2842][/us/stat/102/2842].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/100/566/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F566%2Fs2%2Fa
+[/us/pl/100/566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F566
 [/us/stat/102/2842]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2842
 
 

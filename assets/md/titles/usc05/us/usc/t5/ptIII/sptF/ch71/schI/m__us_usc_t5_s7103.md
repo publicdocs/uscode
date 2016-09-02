@@ -165,7 +165,7 @@
 
         (2) The President may issue an order suspending any provision of this chapter with respect to any agency, installation, or activity located outside the 50 States and the District of Columbia, if the President determines that the suspension is necessary in the interest of national security.
 
-(Added [Pub. L. 95–454, title VII, § 701][/us/pl/95/454/s701], Oct. 13, 1978, [92 Stat. 1192][/us/stat/92/1192]; amended [Pub. L. 96–465, title II, § 2314(g)][/us/pl/96/465/s2314/g], Oct. 17, 1980, [94 Stat. 2168][/us/stat/94/2168]; [Pub. L. 102–54, § 13(b)(1)][/us/pl/102/54/s13/b/1], June 13, 1991, [105 Stat. 274][/us/stat/105/274]; [Pub. L. 103–359, title V, § 501(j)][/us/pl/103/359/s501/j], Oct. 14, 1994, [108 Stat. 3430][/us/stat/108/3430]; [Pub. L. 104–201, div. A, title XVI, § 1634(a)][/us/pl/104/201/s1634/a], Sept. 23, 1996, [110 Stat. 2752][/us/stat/110/2752]; [Pub. L. 105–220, title III, § 341(e)][/us/pl/105/220/s341/e], Aug. 7, 1998, [112 Stat. 1092][/us/stat/112/1092]; [Pub. L. 105–277, div. G][/us/pl/105/277], subdiv. A, title XIV, § 1422(b)(1), Oct. 21, 1998, [112 Stat. 2681–792][/us/stat/112/2681-792]; [Pub. L. 106–554, § 1(a)(4)][/us/pl/106/554/s1/a/4] \[div. B, title I, § 139\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–235; [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814]; [Pub. L. 113–235, div. H, title I, § 1301(b)][/us/pl/113/235/s1301/b], Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537].)
+(Added [Pub. L. 95–454, title VII][/us/pl/95/454/tVII], § 701, Oct. 13, 1978, [92 Stat. 1192][/us/stat/92/1192]; amended [Pub. L. 96–465, title II][/us/pl/96/465/tII], § 2314(g), Oct. 17, 1980, [94 Stat. 2168][/us/stat/94/2168]; [Pub. L. 102–54][/us/pl/102/54], § 13(b)(1), June 13, 1991, [105 Stat. 274][/us/stat/105/274]; [Pub. L. 103–359, title V][/us/pl/103/359/tV], § 501(j), Oct. 14, 1994, [108 Stat. 3430][/us/stat/108/3430]; [Pub. L. 104–201, div. A, title XVI][/us/pl/104/201/dA/tXVI], § 1634(a), Sept. 23, 1996, [110 Stat. 2752][/us/stat/110/2752]; [Pub. L. 105–220, title III][/us/pl/105/220/tIII], § 341(e), Aug. 7, 1998, [112 Stat. 1092][/us/stat/112/1092]; [Pub. L. 105–277, div. G][/us/pl/105/277/dG], subdiv. A, title XIV, § 1422(b)(1), Oct. 21, 1998, [112 Stat. 2681–792][/us/stat/112/2681-792]; [Pub. L. 106–554][/us/pl/106/554], § 1(a)(4) \[div. B, title I, § 139\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–235; [Pub. L. 108–271][/us/pl/108/271], § 8(b), July 7, 2004, [118 Stat. 814][/us/stat/118/814]; [Pub. L. 113–235, div. H, title I][/us/pl/113/235/dH/tI], § 1301(b), Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537].)
 
  __Amendments__ 
 
@@ -550,25 +550,25 @@ By the authority vested in me as President by the Constitution and statutes of t
 [/us/usc/t5/s7104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs7104%2Fa
 [/us/usc/t5/s7119/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs7119%2Fc
 [/us/usc/t5/s7111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs7111
-[/us/pl/95/454/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs701
+[/us/pl/95/454/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtVII
 [/us/stat/92/1192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1192
-[/us/pl/96/465/s2314/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs2314%2Fg
+[/us/pl/96/465/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtII
 [/us/stat/94/2168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2168
-[/us/pl/102/54/s13/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54%2Fs13%2Fb%2F1
+[/us/pl/102/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54
 [/us/stat/105/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F274
-[/us/pl/103/359/s501/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F359%2Fs501%2Fj
+[/us/pl/103/359/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F359%2FtV
 [/us/stat/108/3430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3430
-[/us/pl/104/201/s1634/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1634%2Fa
+[/us/pl/104/201/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtXVI
 [/us/stat/110/2752]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2752
-[/us/pl/105/220/s341/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2Fs341%2Fe
+[/us/pl/105/220/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2FtIII
 [/us/stat/112/1092]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1092
-[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277/dG]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdG
 [/us/stat/112/2681-792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-792
-[/us/pl/106/554/s1/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F4
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/108/271/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271%2Fs8%2Fb
+[/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/stat/118/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F814
-[/us/pl/113/235/s1301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fb
+[/us/pl/113/235/dH/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2FdH%2FtI
 [/us/stat/128/2537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2537
 [/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554

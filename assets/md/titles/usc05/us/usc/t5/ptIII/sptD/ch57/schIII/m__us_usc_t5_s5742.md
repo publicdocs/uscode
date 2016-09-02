@@ -73,7 +73,7 @@
 
     (e) Employees covered by this section include an employee who has been reassigned away from the employee’s home of record pursuant to a mandatory mobility agreement executed as a condition of employment.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 507][/us/stat/80/507]; [Pub. L. 101–510, div. A, title XII, § 1206(d)][/us/pl/101/510/s1206/d], Nov. 5, 1990, [104 Stat. 1661][/us/stat/104/1661]; [Pub. L. 105–277, div. A, § 101(d)][/us/pl/105/277/s101/d] \[title V, § 589(b)\], Oct. 21, 1998, [112 Stat. 2681–150][/us/stat/112/2681-150], 2681–210; [Pub. L. 110–181, div. A, title XI, § 1103(a)][/us/pl/110/181/s1103/a], Jan. 28, 2008, [122 Stat. 346][/us/stat/122/346].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 507][/us/stat/80/507]; [Pub. L. 101–510, div. A, title XII][/us/pl/101/510/dA/tXII], § 1206(d), Nov. 5, 1990, [104 Stat. 1661][/us/stat/104/1661]; [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(d) \[title V, § 589(b)\], Oct. 21, 1998, [112 Stat. 2681–150][/us/stat/112/2681-150], 2681–210; [Pub. L. 110–181, div. A, title XI][/us/pl/110/181/dA/tXI], § 1103(a), Jan. 28, 2008, [122 Stat. 346][/us/stat/122/346].)
 
 <table>
 
@@ -153,13 +153,13 @@ July 8, 1940, ch. 551, § 2, 54 Stat. 744.  </td>
 
     1998—Subsec. (b)(3). [Pub. L. 105–277][/us/pl/105/277] added par. (3).
 
-    1990—Subsec. (b)(1), (2). [Pub. L. 101–510, § 1206(d)(1)][/us/pl/101/510/s1206/d/1], inserted “continental” after “outside the”.
+    1990—Subsec. (b)(1), (2). [Pub. L. 101–510][/us/pl/101/510], § 1206(d)(1), inserted “continental” after “outside the”.
 
-    Subsec. (e). [Pub. L. 101–510, § 1206(d)(2)][/us/pl/101/510/s1206/d/2], added subsec. (e).
+    Subsec. (e). [Pub. L. 101–510][/us/pl/101/510], § 1206(d)(2), added subsec. (e).
 
  __Effective Date of 2008 Amendment__ 
 
-[Pub. L. 110–181, div. A, title XI, § 1103(b)][/us/pl/110/181/s1103/b], Jan. 28, 2008, [122 Stat. 346][/us/stat/122/346], provided that: 
+[Pub. L. 110–181, div. A, title XI][/us/pl/110/181/dA/tXI], § 1103(b), Jan. 28, 2008, [122 Stat. 346][/us/stat/122/346], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply with respect to deaths occurring on or after the date of the enactment of this Act \[Jan. 28, 2008\].”
 
@@ -171,7 +171,7 @@ July 8, 1940, ch. 551, § 2, 54 Stat. 744.  </td>
 
  __Travel to United States for Immediate Family of Employees Serving Abroad__ 
 
-[Pub. L. 110–161, div. D, title VII, § 701][/us/pl/110/161/s701], Dec. 26, 2007, [121 Stat. 2019][/us/stat/121/2019], provided that: 
+[Pub. L. 110–161, div. D, title VII][/us/pl/110/161/dD/tVII], § 701, Dec. 26, 2007, [121 Stat. 2019][/us/stat/121/2019], provided that: 
 
 > “Hereafter, funds appropriated in this or any other Act may be used to pay travel to the United States for the immediate family of employees serving abroad in cases of death or life threatening illness of said employee.”
 
@@ -185,23 +185,23 @@ July 8, 1940, ch. 551, § 2, 54 Stat. 744.  </td>
 [/us/usc/t10/s101/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101%2F13
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F507
-[/us/pl/101/510/s1206/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1206%2Fd
+[/us/pl/101/510/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtXII
 [/us/stat/104/1661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1661
-[/us/pl/105/277/s101/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fd
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-150
-[/us/pl/110/181/s1103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1103%2Fa
+[/us/pl/110/181/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtXI
 [/us/stat/122/346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F346
 [/us/stat/63/578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F578
 [/us/stat/63/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F591
 [/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
-[/us/pl/101/510/s1206/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1206%2Fd%2F1
-[/us/pl/101/510/s1206/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1206%2Fd%2F2
-[/us/pl/110/181/s1103/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1103%2Fb
+[/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
+[/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
+[/us/pl/110/181/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtXI
 [/us/stat/122/346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F346
 [/us/usc/t3/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs301
 [/us/usc/t5/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5301
-[/us/pl/110/161/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs701
+[/us/pl/110/161/dD/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2FdD%2FtVII
 [/us/stat/121/2019]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2019
 
 

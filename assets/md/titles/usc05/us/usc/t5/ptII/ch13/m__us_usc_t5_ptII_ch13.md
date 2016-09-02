@@ -91,9 +91,9 @@
 
  __Amendments__ 
 
-    1998—[Pub. L. 105–362, title XIII, § 1302(b)(2)(A)][/us/pl/105/362/s1302/b/2/A], Nov. 10, 1998, [112 Stat. 3293][/us/stat/112/3293], struck out item 1308 “Annual reports”.
+    1998—[Pub. L. 105–362, title XIII][/us/pl/105/362/tXIII], § 1302(b)(2)(A), Nov. 10, 1998, [112 Stat. 3293][/us/stat/112/3293], struck out item 1308 “Annual reports”.
 
-    1978—[Pub. L. 95–251, § 2(c)(1)][/us/pl/95/251/s2/c/1], Mar. 27, 1978, [92 Stat. 183][/us/stat/92/183], substituted “Administrative law judges” for “Hearing examiners” in item 1305.
+    1978—[Pub. L. 95–251][/us/pl/95/251], § 2(c)(1), Mar. 27, 1978, [92 Stat. 183][/us/stat/92/183], substituted “Administrative law judges” for “Hearing examiners” in item 1305.
 
 ----------
 
@@ -102,9 +102,9 @@
 ----------
 ----------
 
-[/us/pl/105/362/s1302/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362%2Fs1302%2Fb%2F2%2FA
+[/us/pl/105/362/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362%2FtXIII
 [/us/stat/112/3293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3293
-[/us/pl/95/251/s2/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F251%2Fs2%2Fc%2F1
+[/us/pl/95/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F251
 [/us/stat/92/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F183
 
 

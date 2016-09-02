@@ -55,13 +55,13 @@
 
     (e) An employee or Member who is married at the time of retiring under this subchapter and who makes an election under this section may, during the 18-month period beginning on the date of retirement, make the election provided for under section 8416(d), subject to the deposit requirement thereunder.
 
-(Added [Pub. L. 99–335, title I, § 101(a)][/us/pl/99/335/s101/a], June 6, 1986, [100 Stat. 532][/us/stat/100/532]; amended [Pub. L. 101–508, title VII, § 7001(a)(1)][/us/pl/101/508/s7001/a/1], Nov. 5, 1990, [104 Stat. 1388–327][/us/stat/104/1388-327]; [Pub. L. 103–66, title XI, § 11002(a)][/us/pl/103/66/s11002/a], Aug. 10, 1993, [107 Stat. 409][/us/stat/107/409].)
+(Added [Pub. L. 99–335, title I][/us/pl/99/335/tI], § 101(a), June 6, 1986, [100 Stat. 532][/us/stat/100/532]; amended [Pub. L. 101–508, title VII][/us/pl/101/508/tVII], § 7001(a)(1), Nov. 5, 1990, [104 Stat. 1388–327][/us/stat/104/1388-327]; [Pub. L. 103–66, title XI][/us/pl/103/66/tXI], § 11002(a), Aug. 10, 1993, [107 Stat. 409][/us/stat/107/409].)
 
  __Amendments__ 
 
-    1993—Subsec. (a). [Pub. L. 103–66, § 11002(a)(1)][/us/pl/103/66/s11002/a/1], substituted “any employee or Member who has a life-threatening affliction or other critical medical condition” for “an employee or Member”.
+    1993—Subsec. (a). [Pub. L. 103–66][/us/pl/103/66], § 11002(a)(1), substituted “any employee or Member who has a life-threatening affliction or other critical medical condition” for “an employee or Member”.
 
-    Subsec. (f). [Pub. L. 103–66, § 11002(a)(2)][/us/pl/103/66/s11002/a/2], struck out subsec. (f) which prohibited election of alternative form of annuity where commencement date would be after Dec. 1, 1990, with certain exceptions.
+    Subsec. (f). [Pub. L. 103–66][/us/pl/103/66], § 11002(a)(2), struck out subsec. (f) which prohibited election of alternative form of annuity where commencement date would be after Dec. 1, 1990, with certain exceptions.
 
     1990—Subsec. (f). [Pub. L. 101–508][/us/pl/101/508] added subsec. (f).
 
@@ -84,14 +84,14 @@
 ----------
 ----------
 
-[/us/pl/99/335/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2Fs101%2Fa
+[/us/pl/99/335/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2FtI
 [/us/stat/100/532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F532
-[/us/pl/101/508/s7001/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs7001%2Fa%2F1
+[/us/pl/101/508/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtVII
 [/us/stat/104/1388-327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-327
-[/us/pl/103/66/s11002/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs11002%2Fa
+[/us/pl/103/66/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2FtXI
 [/us/stat/107/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F409
-[/us/pl/103/66/s11002/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs11002%2Fa%2F1
-[/us/pl/103/66/s11002/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs11002%2Fa%2F2
+[/us/pl/103/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66
+[/us/pl/103/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/pl/103/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66
 [/us/pl/103/66/s11002/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs11002%2Fd

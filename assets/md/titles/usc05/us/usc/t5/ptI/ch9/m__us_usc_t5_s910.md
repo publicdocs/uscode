@@ -19,7 +19,7 @@
 
     (b) A resolution with respect to a reorganization plan shall be referred to the Committee on Governmental Affairs of the Senate and the Committee on Government Operations of the House (and all resolutions with respect to the same plan shall be referred to the same committee) by the President of the Senate or the Speaker of the House of Representatives, as the case may be. The committee shall make its recommendations to the House of Representatives or the Senate, respectively, within 75 calendar days of continuous session of Congress following the date of such resolution’s introduction.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 397][/us/stat/80/397]; [Pub. L. 95–17, § 2][/us/pl/95/17/s2], Apr. 6, 1977, [91 Stat. 33][/us/stat/91/33]; [Pub. L. 98–614, § 3(b)(3)][/us/pl/98/614/s3/b/3], Nov. 8, 1984, [98 Stat. 3192][/us/stat/98/3192].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 397][/us/stat/80/397]; [Pub. L. 95–17][/us/pl/95/17], § 2, Apr. 6, 1977, [91 Stat. 33][/us/stat/91/33]; [Pub. L. 98–614][/us/pl/98/614], § 3(b)(3), Nov. 8, 1984, [98 Stat. 3192][/us/stat/98/3192].)
 
 <table>
 
@@ -90,9 +90,9 @@ June 20, 1949, ch. 226, § 203, 63 Stat. 207.  </td>
 
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F397
-[/us/pl/95/17/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F17%2Fs2
+[/us/pl/95/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F17
 [/us/stat/91/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F33
-[/us/pl/98/614/s3/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F614%2Fs3%2Fb%2F3
+[/us/pl/98/614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F614
 [/us/stat/98/3192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3192
 [/us/pl/98/614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F614
 [/us/pl/95/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F17

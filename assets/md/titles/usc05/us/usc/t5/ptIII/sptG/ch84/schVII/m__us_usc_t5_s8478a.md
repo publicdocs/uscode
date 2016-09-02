@@ -17,7 +17,7 @@
 
     Any authority available to the Secretary of Labor under section 504 of the Employee Retirement Income Security Act of 1974 is hereby made available to the Secretary of Labor, and any officer designated by the Secretary of Labor, to determine whether any person has violated, or is about to violate, any provision of section 8477 or 8478.
 
-(Added [Pub. L. 99–556, title I, § 110(a)][/us/pl/99/556/s110/a], Oct. 27, 1986, [100 Stat. 3132][/us/stat/100/3132].)
+(Added [Pub. L. 99–556, title I][/us/pl/99/556/tI], § 110(a), Oct. 27, 1986, [100 Stat. 3132][/us/stat/100/3132].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/99/556/s110/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F556%2Fs110%2Fa
+[/us/pl/99/556/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F556%2FtI
 [/us/stat/100/3132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3132
 [/us/usc/t29/s1134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1134
 

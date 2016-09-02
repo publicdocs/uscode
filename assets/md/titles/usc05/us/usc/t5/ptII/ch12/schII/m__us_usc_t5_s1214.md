@@ -169,27 +169,27 @@
 
     (h) Any corrective action ordered under this section to correct a prohibited personnel practice may include fees, costs, or damages reasonably incurred due to an agency investigation of the employee, if such investigation was commenced, expanded, or extended in retaliation for the disclosure or protected activity that formed the basis of the corrective action.
 
-(Added [Pub. L. 101–12, § 3(a)(13)][/us/pl/101/12/s3/a/13], Apr. 10, 1989, [103 Stat. 23][/us/stat/103/23]; amended [Pub. L. 103–424][/us/pl/103/424], §§ 3(c), (d), 8(a), Oct. 29, 1994, [108 Stat. 4362][/us/stat/108/4362], 4364; [Pub. L. 112–199, title I][/us/pl/112/199], §§ 101(b)(1)(A), (2)(A), 104(c)(1), 107(b), 114(a), Nov. 27, 2012, [126 Stat. 1465][/us/stat/126/1465], 1468, 1469, 1472.)
+(Added [Pub. L. 101–12][/us/pl/101/12], § 3(a)(13), Apr. 10, 1989, [103 Stat. 23][/us/stat/103/23]; amended [Pub. L. 103–424][/us/pl/103/424], §§ 3(c), (d), 8(a), Oct. 29, 1994, [108 Stat. 4362][/us/stat/108/4362], 4364; [Pub. L. 112–199, title I][/us/pl/112/199/tI], §§ 101(b)(1)(A), (2)(A), 104(c)(1), 107(b), 114(a), Nov. 27, 2012, [126 Stat. 1465][/us/stat/126/1465], 1468, 1469, 1472.)
 
  __Amendments__ 
 
-    2012—Subsecs. (a)(3), (b)(4)(A). [Pub. L. 112–199, § 101(b)(1)(A)][/us/pl/112/199/s101/b/1/A], inserted “or section 2302(b)(9)(A)(i), (B), (C), or (D)” after “section 2302(b)(8)”.
+    2012—Subsecs. (a)(3), (b)(4)(A). [Pub. L. 112–199][/us/pl/112/199], § 101(b)(1)(A), inserted “or section 2302(b)(9)(A)(i), (B), (C), or (D)” after “section 2302(b)(8)”.
 
-    Subsec. (b)(4)(B)(i). [Pub. L. 112–199, § 101(b)(1)(A)][/us/pl/112/199/s101/b/1/A], (2)(A), inserted “or section 2302(b)(9)(A)(i), (B), (C), or (D)” after “section 2302(b)(8)” in two places and inserted “or protected activity” after “disclosure”.
+    Subsec. (b)(4)(B)(i). [Pub. L. 112–199][/us/pl/112/199], § 101(b)(1)(A), (2)(A), inserted “or section 2302(b)(9)(A)(i), (B), (C), or (D)” after “section 2302(b)(8)” in two places and inserted “or protected activity” after “disclosure”.
 
-    Subsec. (b)(4)(B)(ii). [Pub. L. 112–199, § 114(a)][/us/pl/112/199/s114/a], inserted “, after a finding that a protected disclosure was a contributing factor,” after “ordered if”.
+    Subsec. (b)(4)(B)(ii). [Pub. L. 112–199][/us/pl/112/199], § 114(a), inserted “, after a finding that a protected disclosure was a contributing factor,” after “ordered if”.
 
-    Subsec. (g)(2). [Pub. L. 112–199, § 107(b)][/us/pl/112/199/s107/b], substituted “any other reasonable and foreseeable consequential damages, and compensatory damages (including interest, reasonable expert witness fees, and costs).” for “and any other reasonable and foreseeable consequential damages.”
+    Subsec. (g)(2). [Pub. L. 112–199][/us/pl/112/199], § 107(b), substituted “any other reasonable and foreseeable consequential damages, and compensatory damages (including interest, reasonable expert witness fees, and costs).” for “and any other reasonable and foreseeable consequential damages.”
 
-    Subsec. (h). [Pub. L. 112–199, § 104(c)(1)][/us/pl/112/199/s104/c/1], added subsec. (h).
+    Subsec. (h). [Pub. L. 112–199][/us/pl/112/199], § 104(c)(1), added subsec. (h).
 
-    1994—Subsec. (a)(1)(D). [Pub. L. 103–424, § 3(c)(1)][/us/pl/103/424/s3/c/1], added subpar. (D).
+    1994—Subsec. (a)(1)(D). [Pub. L. 103–424][/us/pl/103/424], § 3(c)(1), added subpar. (D).
 
-    Subsec. (a)(2)(A)(iv). [Pub. L. 103–424, § 3(c)(2)][/us/pl/103/424/s3/c/2], added cl. (iv).
+    Subsec. (a)(2)(A)(iv). [Pub. L. 103–424][/us/pl/103/424], § 3(c)(2), added cl. (iv).
 
-    Subsec. (b)(2). [Pub. L. 103–424, § 3(d)][/us/pl/103/424/s3/d], added subpars. (A) and (E) and redesignated former subpars. (A) to (C) as (B) to (D), respectively.
+    Subsec. (b)(2). [Pub. L. 103–424][/us/pl/103/424], § 3(d), added subpars. (A) and (E) and redesignated former subpars. (A) to (C) as (B) to (D), respectively.
 
-    Subsec. (g). [Pub. L. 103–424, § 8(a)][/us/pl/103/424/s8/a], added subsec. (g).
+    Subsec. (g). [Pub. L. 103–424][/us/pl/103/424], § 8(a), added subsec. (g).
 
  __Effective Date of 2012 Amendment__ 
 
@@ -197,7 +197,7 @@
 
  __Termination Statement__ 
 
-[Pub. L. 103–424, § 12(b)][/us/pl/103/424/s12/b], Oct. 29, 1994, [108 Stat. 4367][/us/stat/108/4367], provided that: 
+[Pub. L. 103–424][/us/pl/103/424], § 12(b), Oct. 29, 1994, [108 Stat. 4367][/us/stat/108/4367], provided that: 
 
 > “The Special Counsel shall include in any letter terminating an investigation under [section 1214(a)(2) of title 5][/us/usc/t5/s1214/a/2], United States Code, the name and telephone number of an employee of the Special Counsel who is available to respond to reasonable questions from the person regarding the investigation or review conducted by the Special Counsel, the relevant facts ascertained by the Special Counsel, and the law applicable to the person’s allegations.”
 
@@ -208,25 +208,25 @@
 ----------
 ----------
 
-[/us/pl/101/12/s3/a/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F12%2Fs3%2Fa%2F13
+[/us/pl/101/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F12
 [/us/stat/103/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F23
 [/us/pl/103/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F424
 [/us/stat/108/4362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4362
-[/us/pl/112/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F199
+[/us/pl/112/199/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F199%2FtI
 [/us/stat/126/1465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1465
-[/us/pl/112/199/s101/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F199%2Fs101%2Fb%2F1%2FA
-[/us/pl/112/199/s101/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F199%2Fs101%2Fb%2F1%2FA
-[/us/pl/112/199/s114/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F199%2Fs114%2Fa
-[/us/pl/112/199/s107/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F199%2Fs107%2Fb
-[/us/pl/112/199/s104/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F199%2Fs104%2Fc%2F1
-[/us/pl/103/424/s3/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F424%2Fs3%2Fc%2F1
-[/us/pl/103/424/s3/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F424%2Fs3%2Fc%2F2
-[/us/pl/103/424/s3/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F424%2Fs3%2Fd
-[/us/pl/103/424/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F424%2Fs8%2Fa
+[/us/pl/112/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F199
+[/us/pl/112/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F199
+[/us/pl/112/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F199
+[/us/pl/112/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F199
+[/us/pl/112/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F199
+[/us/pl/103/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F424
+[/us/pl/103/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F424
+[/us/pl/103/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F424
+[/us/pl/103/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F424
 [/us/pl/112/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F199
 [/us/pl/112/199/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F199%2Fs202
 [/us/usc/t5/s1204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs1204
-[/us/pl/103/424/s12/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F424%2Fs12%2Fb
+[/us/pl/103/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F424
 [/us/stat/108/4367]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4367
 [/us/usc/t5/s1214/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs1214%2Fa%2F2
 

@@ -125,7 +125,7 @@
 
         (5) No authority under paragraph (1) may be exercised after September 30, 2018.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 428][/us/stat/80/428]; [Pub. L. 90–367, § 3][/us/pl/90/367/s3], June 29, 1968, [82 Stat. 278][/us/stat/82/278]; [Pub. L. 90–623, § 1(23)][/us/pl/90/623/s1/23], Oct. 22, 1968, [82 Stat. 1313][/us/stat/82/1313]; [Pub. L. 95–454, title III, § 307(e)][/us/pl/95/454/s307/e], title IX, § 906(a)(2), Oct. 13, 1978, [92 Stat. 1149][/us/stat/92/1149], 1224; [Pub. L. 99–251, title III, § 306(a)][/us/pl/99/251/s306/a], Feb. 27, 1986, [100 Stat. 27][/us/stat/100/27]; [Pub. L. 101–508, title VII, § 7202(c)][/us/pl/101/508/s7202/c], Nov. 5, 1990, [104 Stat. 1388–335][/us/stat/104/1388-335]; [Pub. L. 102–484, div. D, title XLIV, § 4433(a)(1)][/us/pl/102/484/s4433/a/1], Oct. 23, 1992, [106 Stat. 2721][/us/stat/106/2721]; [Pub. L. 104–106, div. A, title X][/us/pl/104/106], §§ 1034, 1043(d)(1), Feb. 10, 1996, [110 Stat. 430][/us/stat/110/430], 438; [Pub. L. 104–201, div. A, title XVI, § 1609][/us/pl/104/201/s1609], Sept. 23, 1996, [110 Stat. 2738][/us/stat/110/2738]; [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 405(d)(1), (f)(1)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–417, 2681–429; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title XI, § 1103\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–311; [Pub. L. 109–163, div. A, title XI, § 1102][/us/pl/109/163/s1102], Jan. 6, 2006, [119 Stat. 3447][/us/stat/119/3447]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title XI, § 1105, Oct. 14, 2008, [122 Stat. 4617][/us/stat/122/4617]; [Pub. L. 113–66, div. A, title XI, § 1103][/us/pl/113/66/s1103], Dec. 26, 2013, [127 Stat. 885][/us/stat/127/885].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 428][/us/stat/80/428]; [Pub. L. 90–367][/us/pl/90/367], § 3, June 29, 1968, [82 Stat. 278][/us/stat/82/278]; [Pub. L. 90–623][/us/pl/90/623], § 1(23), Oct. 22, 1968, [82 Stat. 1313][/us/stat/82/1313]; [Pub. L. 95–454, title III][/us/pl/95/454/tIII], § 307(e), title IX, § 906(a)(2), Oct. 13, 1978, [92 Stat. 1149][/us/stat/92/1149], 1224; [Pub. L. 99–251, title III][/us/pl/99/251/tIII], § 306(a), Feb. 27, 1986, [100 Stat. 27][/us/stat/100/27]; [Pub. L. 101–508, title VII][/us/pl/101/508/tVII], § 7202(c), Nov. 5, 1990, [104 Stat. 1388–335][/us/stat/104/1388-335]; [Pub. L. 102–484, div. D, title XLIV][/us/pl/102/484/dD/tXLIV], § 4433(a)(1), Oct. 23, 1992, [106 Stat. 2721][/us/stat/106/2721]; [Pub. L. 104–106, div. A, title X][/us/pl/104/106/dA/tX], §§ 1034, 1043(d)(1), Feb. 10, 1996, [110 Stat. 430][/us/stat/110/430], 438; [Pub. L. 104–201, div. A, title XVI][/us/pl/104/201/dA/tXVI], § 1609, Sept. 23, 1996, [110 Stat. 2738][/us/stat/110/2738]; [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(f) \[title VIII, § 405(d)(1), (f)(1)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–417, 2681–429; [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title XI, § 1103\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–311; [Pub. L. 109–163, div. A, title XI][/us/pl/109/163/dA/tXI], § 1102, Jan. 6, 2006, [119 Stat. 3447][/us/stat/119/3447]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title XI, § 1105, Oct. 14, 2008, [122 Stat. 4617][/us/stat/122/4617]; [Pub. L. 113–66, div. A, title XI][/us/pl/113/66/dA/tXI], § 1103, Dec. 26, 2013, [127 Stat. 885][/us/stat/127/885].)
 
 <table>
 
@@ -203,7 +203,7 @@ June 27, 1944, ch. 287, § 12 (2d proviso), 58 Stat. 390.  </td>
 
     Section 10(b) of the Agricultural Adjustment Act, referred to in subsec. (a)(C)(i), is classified to [section 610(b) of Title 7][/us/usc/t7/s610/b], Agriculture.
 
-    The Workforce Investment Act of 1998, referred to in subsec. (d)(3), (4), is [Pub. L. 105–220][/us/pl/105/220], Aug. 7, 1998, [112 Stat. 936][/us/stat/112/936], and was repealed by [Pub. L. 113–128, title V][/us/pl/113/128], §§ 506, 511(a), July 22, 2014, [128 Stat. 1703][/us/stat/128/1703], 1705, effective July 1, 2015. Title I of the Act was classified principally to former chapter 30 (former § 2801 et seq.) of Title 29, Labor. Section 134(a)(2)(A) of the Act was classified to former [section 2864(a)(2)(A) of Title 29][/us/usc/t29/s2864/a/2/A]. Pursuant to [section 3361(a) of Title 29][/us/usc/t29/s3361/a], references to a provision of the Workforce Investment Act of 1998 are deemed to refer to the corresponding provision of the Workforce Innovation and Opportunity Act, [Pub. L. 113–128][/us/pl/113/128], July 22, 2014, [128 Stat. 1425][/us/stat/128/1425], effective July 1, 2015. For complete classification of this Act to the Code, see Tables.
+    The Workforce Investment Act of 1998, referred to in subsec. (d)(3), (4), is [Pub. L. 105–220][/us/pl/105/220], Aug. 7, 1998, [112 Stat. 936][/us/stat/112/936], and was repealed by [Pub. L. 113–128, title V][/us/pl/113/128/tV], §§ 506, 511(a), July 22, 2014, [128 Stat. 1703][/us/stat/128/1703], 1705, effective July 1, 2015. Title I of the Act was classified principally to former chapter 30 (former § 2801 et seq.) of Title 29, Labor. Section 134(a)(2)(A) of the Act was classified to former [section 2864(a)(2)(A) of Title 29][/us/usc/t29/s2864/a/2/A]. Pursuant to [section 3361(a) of Title 29][/us/usc/t29/s3361/a], references to a provision of the Workforce Investment Act of 1998 are deemed to refer to the corresponding provision of the Workforce Innovation and Opportunity Act, [Pub. L. 113–128][/us/pl/113/128], July 22, 2014, [128 Stat. 1425][/us/stat/128/1425], effective July 1, 2015. For complete classification of this Act to the Code, see Tables.
 
  __Amendments__ 
 
@@ -215,19 +215,19 @@ June 27, 1944, ch. 287, § 12 (2d proviso), 58 Stat. 390.  </td>
 
     2000—Subsec. (f)(5). [Pub. L. 106–398][/us/pl/106/398] substituted “September 30, 2005” for “September 30, 2001”.
 
-    1998—Subsec. (d)(3)(A)(i). [Pub. L. 105–277, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 405(f)(1)(A)(i)\], added cl. (i) and struck out former cl. (i) which read as follows: “the appropriate State dislocated worker unit or office (referred to in section 311(b)(2) of the Job Training Partnership Act), or the State or entity designated by the State to carry out rapid response activities under section 134(a)(2)(A) of the Workforce Investment Act of 1998; and”.
+    1998—Subsec. (d)(3)(A)(i). [Pub. L. 105–277][/us/pl/105/277], § 101(f) \[title VIII, § 405(f)(1)(A)(i)\], added cl. (i) and struck out former cl. (i) which read as follows: “the appropriate State dislocated worker unit or office (referred to in section 311(b)(2) of the Job Training Partnership Act), or the State or entity designated by the State to carry out rapid response activities under section 134(a)(2)(A) of the Workforce Investment Act of 1998; and”.
 
-    [Pub. L. 105–277, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 405(d)(1)(A)(i)\], added cl. (i) and struck out former cl. (i) which read as follows: “the appropriate State dislocated worker unit or units (referred to in section 311(b)(2) of the Job Training Partnership Act); and”.
+    [Pub. L. 105–277][/us/pl/105/277], § 101(f) \[title VIII, § 405(d)(1)(A)(i)\], added cl. (i) and struck out former cl. (i) which read as follows: “the appropriate State dislocated worker unit or units (referred to in section 311(b)(2) of the Job Training Partnership Act); and”.
 
-    Subsec. (d)(3)(B)(iii). [Pub. L. 105–277, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 405(f)(1)(A)(ii)\], struck out “under the Job Training Partnership Act or” before “under title I of”.
+    Subsec. (d)(3)(B)(iii). [Pub. L. 105–277][/us/pl/105/277], § 101(f) \[title VIII, § 405(f)(1)(A)(ii)\], struck out “under the Job Training Partnership Act or” before “under title I of”.
 
-    [Pub. L. 105–277, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 405(d)(1)(A)(ii)\], substituted “other services under the Job Training Partnership Act or under title I of the Workforce Investment Act of 1998” for “other services under the Job Training Partnership Act”.
+    [Pub. L. 105–277][/us/pl/105/277], § 101(f) \[title VIII, § 405(d)(1)(A)(ii)\], substituted “other services under the Job Training Partnership Act or under title I of the Workforce Investment Act of 1998” for “other services under the Job Training Partnership Act”.
 
-    Subsec. (d)(4). [Pub. L. 105–277, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 405(f)(1)(B)\], struck out “the Job Training Partnership Act or” before “title I of”.
+    Subsec. (d)(4). [Pub. L. 105–277][/us/pl/105/277], § 101(f) \[title VIII, § 405(f)(1)(B)\], struck out “the Job Training Partnership Act or” before “title I of”.
 
-    [Pub. L. 105–277, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 405(d)(1)(B)\], substituted “Secretary of Labor on matters relating to the Job Training Partnership Act or title I of the Workforce Investment Act of 1998” for “Secretary of Labor on matters relating to the Job Training Partnership Act”.
+    [Pub. L. 105–277][/us/pl/105/277], § 101(f) \[title VIII, § 405(d)(1)(B)\], substituted “Secretary of Labor on matters relating to the Job Training Partnership Act or title I of the Workforce Investment Act of 1998” for “Secretary of Labor on matters relating to the Job Training Partnership Act”.
 
-    1996—Subsec. (a)(C)(ii). [Pub. L. 104–106, § 1043(d)(1)][/us/pl/104/106/s1043/d/1], substituted “January 1, 1966” for “January 1, 1987”.
+    1996—Subsec. (a)(C)(ii). [Pub. L. 104–106][/us/pl/104/106], § 1043(d)(1), substituted “January 1, 1966” for “January 1, 1987”.
 
     Subsec. (f). [Pub. L. 104–201][/us/pl/104/201] amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows:
 
@@ -245,7 +245,7 @@ June 27, 1944, ch. 287, § 12 (2d proviso), 58 Stat. 390.  </td>
 
     “(5) The authority under paragraph (1) may not be exercised after September 30, 1996.”
 
-    [Pub. L. 104–106, § 1034][/us/pl/104/106/s1034], added subsec. (f).
+    [Pub. L. 104–106][/us/pl/104/106], § 1034, added subsec. (f).
 
     1992—Subsecs. (d), (e). [Pub. L. 102–484][/us/pl/102/484] added subsecs. (d) and (e).
 
@@ -253,11 +253,11 @@ June 27, 1944, ch. 287, § 12 (2d proviso), 58 Stat. 390.  </td>
 
     1986—Subsec. (a)(C). [Pub. L. 99–251][/us/pl/99/251] struck out “who is an employee in or under the Department of Agriculture” before “is entitled to credit”.
 
-    1978—Subsec. (a). [Pub. L. 95–454, § 906(a)(2)][/us/pl/95/454/s906/a/2], substituted “Office of Personnel Management” for “Civil Service Commission”.
+    1978—Subsec. (a). [Pub. L. 95–454][/us/pl/95/454], § 906(a)(2), substituted “Office of Personnel Management” for “Civil Service Commission”.
 
-    Subsec. (b). [Pub. L. 95–454, § 307(e)][/us/pl/95/454/s307/e], substituted provisions relating to retention of a preference eligible with a compensable service-connected disability of 30 percent or more, for provisions relating to retention of preference eligible employees on the basis of ratings.
+    Subsec. (b). [Pub. L. 95–454][/us/pl/95/454], § 307(e), substituted provisions relating to retention of a preference eligible with a compensable service-connected disability of 30 percent or more, for provisions relating to retention of preference eligible employees on the basis of ratings.
 
-    Subsec. (c). [Pub. L. 95–454, § 307(e)][/us/pl/95/454/s307/e], added subsec. (c).
+    Subsec. (c). [Pub. L. 95–454][/us/pl/95/454], § 307(e), added subsec. (c).
 
     1968—Subsec. (a). [Pub. L. 90–623][/us/pl/90/623] made minor changes in form and punctuation in subpars. (A) and (B), and, in subpar. (C), substituted “[section 590h(b) of title 16][/us/usc/t16/s590h/b]” and “[section 610(b) of title 7][/us/usc/t7/s610/b]” for “section 8(b) of the Soil Conservation and Domestic Allotment Act ([16 U.S.C. 590h(b)][/us/usc/t16/s590h/b])” and “section 10(b) of the Agricultural Adjustment Act of May 12, 1933 ([48 Stat. 37][/us/stat/48/37])” respectively.
 
@@ -265,7 +265,7 @@ June 27, 1944, ch. 287, § 12 (2d proviso), 58 Stat. 390.  </td>
 
  __Effective Date of 1998 Amendment__ 
 
-[Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 405(g)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–434, as amended by [Pub. L. 106–400, § 2][/us/pl/106/400/s2], Oct. 30, 2000, [114 Stat. 1675][/us/stat/114/1675], provided that:
+[Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(f) \[title VIII, § 405(g)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–434, as amended by [Pub. L. 106–400][/us/pl/106/400], § 2, Oct. 30, 2000, [114 Stat. 1675][/us/stat/114/1675], provided that:
 
 >     “(1)  __Immediately effective amendments__  __.—__ 
 
@@ -283,7 +283,7 @@ June 27, 1944, ch. 287, § 12 (2d proviso), 58 Stat. 390.  </td>
 
  __Effective Date of 1996 Amendment__ 
 
-[Pub. L. 104–106, div. A, title X, § 1043(d)(2)][/us/pl/104/106/s1043/d/2], Feb. 10, 1996, [110 Stat. 438][/us/stat/110/438], provided that: 
+[Pub. L. 104–106, div. A, title X][/us/pl/104/106/dA/tX], § 1043(d)(2), Feb. 10, 1996, [110 Stat. 438][/us/stat/110/438], provided that: 
 
 > “Notwithstanding any provision of subsection (c) \[set out as a note under [section 8347 of this title][/us/usc/t5/s8347]\], the amendment made by paragraph (1) \[amending this section\] shall—
 
@@ -293,7 +293,7 @@ June 27, 1944, ch. 287, § 12 (2d proviso), 58 Stat. 390.  </td>
 
  __Effective Date of 1992 Amendment__ 
 
-[Pub. L. 102–484, div. D, title XLIV, § 4433(a)(2)][/us/pl/102/484/s4433/a/2], Oct. 23, 1992, [106 Stat. 2722][/us/stat/106/2722], provided that: 
+[Pub. L. 102–484, div. D, title XLIV][/us/pl/102/484/dD/tXLIV], § 4433(a)(2), Oct. 23, 1992, [106 Stat. 2722][/us/stat/106/2722], provided that: 
 
 > “The amendment made by paragraph (1) \[amending this section\] shall apply with respect to any personnel action taking effect on or after the last day of the 90-day period beginning on the date of enactment of this Act \[Oct. 23, 1992\].”
 
@@ -319,7 +319,7 @@ June 27, 1944, ch. 287, § 12 (2d proviso), 58 Stat. 390.  </td>
 
  __Interagency Placement Program for Federal Employees Affected by Reductions in Force__ 
 
-[Pub. L. 103–337, div. A, title X, § 1066][/us/pl/103/337/s1066], Oct. 5, 1994, [108 Stat. 2850][/us/stat/108/2850], as amended by [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814], provided that:
+[Pub. L. 103–337, div. A, title X][/us/pl/103/337/dA/tX], § 1066, Oct. 5, 1994, [108 Stat. 2850][/us/stat/108/2850], as amended by [Pub. L. 108–271][/us/pl/108/271], § 8(b), July 7, 2004, [118 Stat. 814][/us/stat/118/814], provided that:
 
 >     “(a)  __Study and Report__  __.—__ 
 
@@ -369,7 +369,7 @@ June 27, 1944, ch. 287, § 12 (2d proviso), 58 Stat. 390.  </td>
 
  __Special Rule on Application of Subsections (d) and (e)__ 
 
-[Pub. L. 102–484, div. D, title XLIV, § 4433(b)][/us/pl/102/484/s4433/b], Oct. 23, 1992, [106 Stat. 2722][/us/stat/106/2722], as amended by [Pub. L. 103–337, div. A, title III, § 341(a)][/us/pl/103/337/s341/a], Oct. 5, 1994, [108 Stat. 2720][/us/stat/108/2720], provided that:
+[Pub. L. 102–484, div. D, title XLIV][/us/pl/102/484/dD/tXLIV], § 4433(b), Oct. 23, 1992, [106 Stat. 2722][/us/stat/106/2722], as amended by [Pub. L. 103–337, div. A, title III][/us/pl/103/337/dA/tIII], § 341(a), Oct. 5, 1994, [108 Stat. 2720][/us/stat/108/2720], provided that:
 
 >     “(1) The provisions of section 3502(d) and (e) of title 5, United States Code (as added by subsection (a)) shall apply to employees of the Department of Defense according to their terms, except that, with respect to any reduction in force within that agency that would involve the separation of a significant number of employees (as determined under paragraph (1)(B) of such section 3502(d)), any reference in such section 3502(d) to ‘60 days’ shall, in the case of the employees described in paragraph (2), be deemed to read ‘120 days’.
 
@@ -414,37 +414,37 @@ Section 1. The Office of Personnel Management is designated and empowered to exe
 [/us/usc/t5/s2108/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs2108%2F3%2FC
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F428
-[/us/pl/90/367/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F367%2Fs3
+[/us/pl/90/367]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F367
 [/us/stat/82/278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F278
-[/us/pl/90/623/s1/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F623%2Fs1%2F23
+[/us/pl/90/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F623
 [/us/stat/82/1313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1313
-[/us/pl/95/454/s307/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs307%2Fe
+[/us/pl/95/454/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtIII
 [/us/stat/92/1149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1149
-[/us/pl/99/251/s306/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F251%2Fs306%2Fa
+[/us/pl/99/251/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F251%2FtIII
 [/us/stat/100/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F27
-[/us/pl/101/508/s7202/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs7202%2Fc
+[/us/pl/101/508/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtVII
 [/us/stat/104/1388-335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-335
-[/us/pl/102/484/s4433/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs4433%2Fa%2F1
+[/us/pl/102/484/dD/tXLIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdD%2FtXLIV
 [/us/stat/106/2721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2721
-[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
+[/us/pl/104/106/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtX
 [/us/stat/110/430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F430
-[/us/pl/104/201/s1609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1609
+[/us/pl/104/201/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtXVI
 [/us/stat/110/2738]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2738
-[/us/pl/105/277/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Ff
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-337
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/109/163/s1102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs1102
+[/us/pl/109/163/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtXI
 [/us/stat/119/3447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3447
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4617
-[/us/pl/113/66/s1103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1103
+[/us/pl/113/66/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtXI
 [/us/stat/127/885]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F885
 [/us/usc/t16/s590h/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs590h%2Fb
 [/us/usc/t7/s610/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs610%2Fb
 [/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
 [/us/stat/112/936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F936
-[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2FtV
 [/us/stat/128/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1703
 [/us/usc/t29/s2864/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2864%2Fa%2F2%2FA
 [/us/usc/t29/s3361/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3361%2Fa
@@ -454,32 +454,32 @@ Section 1. The Office of Personnel Management is designated and empowered to exe
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
 [/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
-[/us/pl/105/277/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Ff
-[/us/pl/105/277/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Ff
-[/us/pl/105/277/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Ff
-[/us/pl/105/277/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Ff
-[/us/pl/105/277/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Ff
-[/us/pl/105/277/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Ff
-[/us/pl/104/106/s1043/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1043%2Fd%2F1
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
 [/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
-[/us/pl/104/106/s1034]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1034
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
 [/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/usc/t16/s590h/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs590h%2Fb
 [/us/usc/t7/s610/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs610%2Fb
 [/us/pl/99/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F251
-[/us/pl/95/454/s906/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs906%2Fa%2F2
-[/us/pl/95/454/s307/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs307%2Fe
-[/us/pl/95/454/s307/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs307%2Fe
+[/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454
+[/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454
+[/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454
 [/us/pl/90/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F623
 [/us/usc/t16/s590h/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs590h%2Fb
 [/us/usc/t7/s610/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs610%2Fb
 [/us/usc/t16/s590h/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs590h%2Fb
 [/us/stat/48/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F37
 [/us/pl/90/367]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F367
-[/us/pl/105/277/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Ff
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-337
-[/us/pl/106/400/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F400%2Fs2
+[/us/pl/106/400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F400
 [/us/stat/114/1675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1675
 [/us/usc/t18/s665]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs665
 [/us/usc/t22/s5855]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs5855
@@ -493,10 +493,10 @@ Section 1. The Office of Personnel Management is designated and empowered to exe
 [/us/usc/t26/s3304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs3304
 [/us/usc/t29/s1721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1721
 [/us/usc/t38/s4101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs4101
-[/us/pl/104/106/s1043/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1043%2Fd%2F2
+[/us/pl/104/106/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtX
 [/us/stat/110/438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F438
 [/us/usc/t5/s8347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8347
-[/us/pl/102/484/s4433/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs4433%2Fa%2F2
+[/us/pl/102/484/dD/tXLIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdD%2FtXLIV
 [/us/stat/106/2722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2722
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/usc/t5/s2105/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs2105%2Fc
@@ -512,15 +512,15 @@ Section 1. The Office of Personnel Management is designated and empowered to exe
 [/us/pl/104/106/s1043/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1043%2Fb
 [/us/usc/t5/s8347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8347
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
-[/us/pl/103/337/s1066]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1066
+[/us/pl/103/337/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtX
 [/us/stat/108/2850]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2850
-[/us/pl/108/271/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271%2Fs8%2Fb
+[/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/stat/118/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F814
 [/us/usc/t5/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs105
 [/us/usc/t5/s3502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3502
-[/us/pl/102/484/s4433/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs4433%2Fb
+[/us/pl/102/484/dD/tXLIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdD%2FtXLIV
 [/us/stat/106/2722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2722
-[/us/pl/103/337/s341/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs341%2Fa
+[/us/pl/103/337/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtIII
 [/us/stat/108/2720]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2720
 [/us/usc/t25/s472a/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs472a%2Fa
 [/us/usc/t3/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs301

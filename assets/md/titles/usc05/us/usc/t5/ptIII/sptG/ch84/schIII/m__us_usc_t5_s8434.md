@@ -59,23 +59,23 @@
 
         (2) Paragraph (1) shall not be construed to exempt any company or other entity issuing an annuity contract under this section from the imposition, payment, or collection of a tax, fee, or other monetary payment on the net income or profit accruing to or realized by that entity from the sale of an annuity contract under this section if that tax, fee, or payment is applicable to a broad range of business activity.
 
-(Added [Pub. L. 99–335, title I, § 101(a)][/us/pl/99/335/s101/a], June 6, 1986, [100 Stat. 546][/us/stat/100/546]; amended [Pub. L. 100–238, title I, § 129][/us/pl/100/238/s129], Jan. 8, 1988, [101 Stat. 1759][/us/stat/101/1759]; [Pub. L. 101–335][/us/pl/101/335], §§ 4(a), 5(b), July 17, 1990, [104 Stat. 321][/us/stat/104/321]; [Pub. L. 103–226, § 9(c)][/us/pl/103/226/s9/c], (i)(8), Mar. 30, 1994, [108 Stat. 120][/us/stat/108/120], 122.)
+(Added [Pub. L. 99–335, title I][/us/pl/99/335/tI], § 101(a), June 6, 1986, [100 Stat. 546][/us/stat/100/546]; amended [Pub. L. 100–238, title I][/us/pl/100/238/tI], § 129, Jan. 8, 1988, [101 Stat. 1759][/us/stat/101/1759]; [Pub. L. 101–335][/us/pl/101/335], §§ 4(a), 5(b), July 17, 1990, [104 Stat. 321][/us/stat/104/321]; [Pub. L. 103–226][/us/pl/103/226], § 9(c), (i)(8), Mar. 30, 1994, [108 Stat. 120][/us/stat/108/120], 122.)
 
  __Amendments__ 
 
-    1994—Subsec. (b). [Pub. L. 103–226, § 9(i)(8)][/us/pl/103/226/s9/i/8], substituted “section 8435(b)” for “section 8435(c)”.
+    1994—Subsec. (b). [Pub. L. 103–226][/us/pl/103/226], § 9(i)(8), substituted “section 8435(b)” for “section 8435(c)”.
 
-    Subsec. (c). [Pub. L. 103–226, § 9(c)][/us/pl/103/226/s9/c], amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “Notwithstanding an elimination of a method of payment by the Board—
+    Subsec. (c). [Pub. L. 103–226][/us/pl/103/226], § 9(c), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “Notwithstanding an elimination of a method of payment by the Board—
 
     “(1) an employee, Member, former employee, or former Member who is entitled under [section 8412 of this title][/us/usc/t5/s8412] to an immediate annuity not reduced under [section 8415(f) of this title][/us/usc/t5/s8415/f] may elect the eliminated method if the elimination of such method became effective less than 5 years before the date on which the annuity commences; and
 
     “(2) any other employee, Member, former employee, or former Member may elect such method of payment for amounts contributed by or on behalf of the employee, Member, former employee, or former Member under [section 8432 of this title][/us/usc/t5/s8432] before such effective date and for earnings attributable to such amounts.”
 
-    1990—Subsec. (b). [Pub. L. 101–335, § 5(b)(1)][/us/pl/101/335/s5/b/1], substituted “an annuity contract is purchased to provide for that annuity,” for “the annuity commences,”.
+    1990—Subsec. (b). [Pub. L. 101–335][/us/pl/101/335], § 5(b)(1), substituted “an annuity contract is purchased to provide for that annuity,” for “the annuity commences,”.
 
-    Subsec. (d)(1). [Pub. L. 101–335, § 5(b)(2)][/us/pl/101/335/s5/b/2], substituted “Not earlier than 90 days (or such shorter period as the Executive Director may by regulation prescribe) before an annuity” for “At the time an annuity”.
+    Subsec. (d)(1). [Pub. L. 101–335][/us/pl/101/335], § 5(b)(2), substituted “Not earlier than 90 days (or such shorter period as the Executive Director may by regulation prescribe) before an annuity” for “At the time an annuity”.
 
-    Subsec. (e). [Pub. L. 101–335, § 4(a)][/us/pl/101/335/s4/a], added subsec. (e).
+    Subsec. (e). [Pub. L. 101–335][/us/pl/101/335], § 4(a), added subsec. (e).
 
     1988—Subsec. (a)(2)(C), (D). [Pub. L. 100–238][/us/pl/100/238] amended subpars. (C) and (D) generally. Prior to amendment, subpars. (C) and (D) read as follows:
 
@@ -89,7 +89,7 @@
 
  __Effective Date of 1990 Amendment__ 
 
-[Pub. L. 101–335, § 4(b)][/us/pl/101/335/s4/b], July 17, 1990, [104 Stat. 321][/us/stat/104/321], provided that: 
+[Pub. L. 101–335][/us/pl/101/335], § 4(b), July 17, 1990, [104 Stat. 321][/us/stat/104/321], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall take effect 30 days after the date of enactment of this Act \[July 17, 1990\].”
 
@@ -104,27 +104,27 @@
 
 [/us/usc/t5/s8435/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8435%2Fb
 [/us/usc/t5/s8433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8433
-[/us/pl/99/335/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2Fs101%2Fa
+[/us/pl/99/335/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2FtI
 [/us/stat/100/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F546
-[/us/pl/100/238/s129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F238%2Fs129
+[/us/pl/100/238/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F238%2FtI
 [/us/stat/101/1759]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1759
 [/us/pl/101/335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F335
 [/us/stat/104/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F321
-[/us/pl/103/226/s9/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F226%2Fs9%2Fc
+[/us/pl/103/226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F226
 [/us/stat/108/120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F120
-[/us/pl/103/226/s9/i/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F226%2Fs9%2Fi%2F8
-[/us/pl/103/226/s9/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F226%2Fs9%2Fc
+[/us/pl/103/226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F226
+[/us/pl/103/226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F226
 [/us/usc/t5/s8412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8412
 [/us/usc/t5/s8415/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8415%2Ff
 [/us/usc/t5/s8432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8432
-[/us/pl/101/335/s5/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F335%2Fs5%2Fb%2F1
-[/us/pl/101/335/s5/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F335%2Fs5%2Fb%2F2
-[/us/pl/101/335/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F335%2Fs4%2Fa
+[/us/pl/101/335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F335
+[/us/pl/101/335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F335
+[/us/pl/101/335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F335
 [/us/pl/100/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F238
 [/us/pl/103/226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F226
 [/us/pl/103/226/s9/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F226%2Fs9%2Fj
 [/us/usc/t5/s8351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8351
-[/us/pl/101/335/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F335%2Fs4%2Fb
+[/us/pl/101/335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F335
 [/us/stat/104/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F321
 [/us/pl/101/335/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F335%2Fs5%2Fb
 [/us/pl/101/335/s5/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F335%2Fs5%2Fd

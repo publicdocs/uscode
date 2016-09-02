@@ -43,7 +43,7 @@
 
         Mixed model prepayment plans which are a combination of the type of plans described in subparagraph (A) and the type of plans described in subparagraph (B).
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 602][/us/stat/80/602]; [Pub. L. 95–454, title IX, § 906(a)(2)][/us/pl/95/454/s906/a/2], (3), Oct. 13, 1978, [92 Stat. 1224][/us/stat/92/1224]; [Pub. L. 98–615, § 3(3)][/us/pl/98/615/s3/3], Nov. 8, 1984, [98 Stat. 3203][/us/stat/98/3203]; [Pub. L. 99–53, § 2(b)][/us/pl/99/53/s2/b], June 17, 1985, [99 Stat. 94][/us/stat/99/94]; [Pub. L. 99–251, title I][/us/pl/99/251], §§ 102, 111, Feb. 27, 1986, [100 Stat. 14][/us/stat/100/14], 19; [Pub. L. 100–654, title II, § 202(b)][/us/pl/100/654/s202/b], Nov. 14, 1988, [102 Stat. 3845][/us/stat/102/3845]; [Pub. L. 105–266, § 3(b)][/us/pl/105/266/s3/b], Oct. 19, 1998, [112 Stat. 2366][/us/stat/112/2366].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 602][/us/stat/80/602]; [Pub. L. 95–454, title IX][/us/pl/95/454/tIX], § 906(a)(2), (3), Oct. 13, 1978, [92 Stat. 1224][/us/stat/92/1224]; [Pub. L. 98–615][/us/pl/98/615], § 3(3), Nov. 8, 1984, [98 Stat. 3203][/us/stat/98/3203]; [Pub. L. 99–53][/us/pl/99/53], § 2(b), June 17, 1985, [99 Stat. 94][/us/stat/99/94]; [Pub. L. 99–251, title I][/us/pl/99/251/tI], §§ 102, 111, Feb. 27, 1986, [100 Stat. 14][/us/stat/100/14], 19; [Pub. L. 100–654, title II][/us/pl/100/654/tII], § 202(b), Nov. 14, 1988, [102 Stat. 3845][/us/stat/102/3845]; [Pub. L. 105–266][/us/pl/105/266], § 3(b), Oct. 19, 1998, [112 Stat. 2366][/us/stat/112/2366].)
 
 <table>
 
@@ -115,13 +115,13 @@ July 8, 1963, Pub. L. 88–59, § 1(b), 77 Stat. 77.  </td>
 
     1988—Par. (1). [Pub. L. 100–654][/us/pl/100/654] substituted “former spouses, or persons having continued coverage under [section 8905a of this title][/us/usc/t5/s8905a],” for “or former spouses,” and “former spouse, or person having continued coverage under [section 8905a of this title][/us/usc/t5/s8905a].” for “or former spouse.”
 
-    1986—Par. (4)(A). [Pub. L. 99–251, § 102][/us/pl/99/251/s102], amended second sentence generally, substituting “at least 3 physicians” for “physicians representing at least three major medical specialties” and inserted “and who represent 1 or more medical specialties appropriate and necessary for the population proposed to be served by the plan”.
+    1986—Par. (4)(A). [Pub. L. 99–251][/us/pl/99/251], § 102, amended second sentence generally, substituting “at least 3 physicians” for “physicians representing at least three major medical specialties” and inserted “and who represent 1 or more medical specialties appropriate and necessary for the population proposed to be served by the plan”.
 
-    Par. (4)(C). [Pub. L. 99–251, § 111][/us/pl/99/251/s111], added subpar. (C).
+    Par. (4)(C). [Pub. L. 99–251][/us/pl/99/251], § 111, added subpar. (C).
 
     1985—Par. (3). [Pub. L. 99–53][/us/pl/99/53] inserted “described in [section 8901(8)(A) of this title][/us/usc/t5/s8901/8/A]” after “employee organizations”.
 
-    1984—Par. (1). [Pub. L. 98–615, § 3(3)][/us/pl/98/615/s3/3], substituted “employees, annuitants, members of their families, or former spouses” for “employees or annuitants, or members of their families” and “employee, annuitant, family member, or former spouse” for “employee or annuitant or member of his family”.
+    1984—Par. (1). [Pub. L. 98–615][/us/pl/98/615], § 3(3), substituted “employees, annuitants, members of their families, or former spouses” for “employees or annuitants, or members of their families” and “employee, annuitant, family member, or former spouse” for “employee or annuitant or member of his family”.
 
     1978—[Pub. L. 95–454][/us/pl/95/454] substituted “Office of Personnel Management” and “Office” for “Civil Service Commission” and “Commission”, respectively, wherever appearing.
 
@@ -153,27 +153,27 @@ July 8, 1963, Pub. L. 88–59, § 1(b), 77 Stat. 77.  </td>
 [/us/usc/t5/s8904/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8904%2F4
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F602
-[/us/pl/95/454/s906/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs906%2Fa%2F2
+[/us/pl/95/454/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtIX
 [/us/stat/92/1224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1224
-[/us/pl/98/615/s3/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F615%2Fs3%2F3
+[/us/pl/98/615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F615
 [/us/stat/98/3203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3203
-[/us/pl/99/53/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F53%2Fs2%2Fb
+[/us/pl/99/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F53
 [/us/stat/99/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F94
-[/us/pl/99/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F251
+[/us/pl/99/251/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F251%2FtI
 [/us/stat/100/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F14
-[/us/pl/100/654/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F654%2Fs202%2Fb
+[/us/pl/100/654/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F654%2FtII
 [/us/stat/102/3845]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3845
-[/us/pl/105/266/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F266%2Fs3%2Fb
+[/us/pl/105/266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F266
 [/us/stat/112/2366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2366
 [/us/pl/105/266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F266
 [/us/pl/100/654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F654
 [/us/usc/t5/s8905a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8905a
 [/us/usc/t5/s8905a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8905a
-[/us/pl/99/251/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F251%2Fs102
-[/us/pl/99/251/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F251%2Fs111
+[/us/pl/99/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F251
+[/us/pl/99/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F251
 [/us/pl/99/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F53
 [/us/usc/t5/s8901/8/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8901%2F8%2FA
-[/us/pl/98/615/s3/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F615%2Fs3%2F3
+[/us/pl/98/615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F615
 [/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454
 [/us/pl/100/654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F654
 [/us/pl/100/654/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F654%2Fs203

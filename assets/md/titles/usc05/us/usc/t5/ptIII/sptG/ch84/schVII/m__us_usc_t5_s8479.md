@@ -23,7 +23,7 @@
 
         (2) The sums credited to the Thrift Savings Fund under paragraph (1) shall be available and may be used at the discretion of the Executive Director to purchase insurance to cover potential liability of persons who serve in a fiduciary capacity with respect to the Thrift Savings Fund, without regard to whether a policy of insurance permits recourse by the insurer against the fiduciary in the case of a breach of a fiduciary obligation.
 
-(Added [Pub. L. 99–335, title I, § 101(a)][/us/pl/99/335/s101/a], June 6, 1986, [100 Stat. 588][/us/stat/100/588].)
+(Added [Pub. L. 99–335, title I][/us/pl/99/335/tI], § 101(a), June 6, 1986, [100 Stat. 588][/us/stat/100/588].)
 
 ----------
 
@@ -33,7 +33,7 @@
 ----------
 
 [/us/usc/t5/s8432/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8432%2Fc
-[/us/pl/99/335/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2Fs101%2Fa
+[/us/pl/99/335/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2FtI
 [/us/stat/100/588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F588
 
 

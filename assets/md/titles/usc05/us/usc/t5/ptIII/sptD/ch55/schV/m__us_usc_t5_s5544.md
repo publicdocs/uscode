@@ -31,7 +31,7 @@
 
     (c) The provisions of this section, including the last two sentences of subsection (a) and the provisions of section 5543(b), shall apply to a prevailing rate employee described in section 5342(a)(2)(B).
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 486][/us/stat/80/486]; [Pub. L. 90–83, § 1(26)(A)][/us/pl/90/83/s1/26/A], Sept. 11, 1967, [81 Stat. 200][/us/stat/81/200]; [Pub. L. 90–206, title II, § 222(d)][/us/pl/90/206/s222/d], Dec. 16, 1967, [81 Stat. 641][/us/stat/81/641]; [Pub. L. 92–392, § 5][/us/pl/92/392/s5], Aug. 19, 1972, [86 Stat. 573][/us/stat/86/573]; [Pub. L. 101–509, title V, § 529][/us/pl/101/509/s529] \[title II, § 210(3)\], Nov. 5, 1990, [104 Stat. 1427][/us/stat/104/1427], 1460; [Pub. L. 102–378, § 2(42)][/us/pl/102/378/s2/42], Oct. 2, 1992, [106 Stat. 1352][/us/stat/106/1352]; [Pub. L. 104–201, div. A, title XVI, § 1610(b)][/us/pl/104/201/s1610/b], Sept. 23, 1996, [110 Stat. 2738][/us/stat/110/2738]; [Pub. L. 105–277, div. G][/us/pl/105/277], subdiv. B, title XXIII, § 2317(1), Oct. 21, 1998, [112 Stat. 2681–829][/us/stat/112/2681-829]; [Pub. L. 110–181, div. A, title XI, § 1110][/us/pl/110/181/s1110], Jan. 28, 2008, [122 Stat. 360][/us/stat/122/360].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 486][/us/stat/80/486]; [Pub. L. 90–83][/us/pl/90/83], § 1(26)(A), Sept. 11, 1967, [81 Stat. 200][/us/stat/81/200]; [Pub. L. 90–206, title II][/us/pl/90/206/tII], § 222(d), Dec. 16, 1967, [81 Stat. 641][/us/stat/81/641]; [Pub. L. 92–392][/us/pl/92/392], § 5, Aug. 19, 1972, [86 Stat. 573][/us/stat/86/573]; [Pub. L. 101–509, title V][/us/pl/101/509/tV], § 529 \[title II, § 210(3)\], Nov. 5, 1990, [104 Stat. 1427][/us/stat/104/1427], 1460; [Pub. L. 102–378][/us/pl/102/378], § 2(42), Oct. 2, 1992, [106 Stat. 1352][/us/stat/106/1352]; [Pub. L. 104–201, div. A, title XVI][/us/pl/104/201/dA/tXVI], § 1610(b), Sept. 23, 1996, [110 Stat. 2738][/us/stat/110/2738]; [Pub. L. 105–277, div. G][/us/pl/105/277/dG], subdiv. B, title XXIII, § 2317(1), Oct. 21, 1998, [112 Stat. 2681–829][/us/stat/112/2681-829]; [Pub. L. 110–181, div. A, title XI][/us/pl/110/181/dA/tXI], § 1110, Jan. 28, 2008, [122 Stat. 360][/us/stat/122/360].)
 
 <table>
 
@@ -201,11 +201,11 @@ July 18, 1966, Pub. L. 89–504, § 405(f), 80 Stat. 298.  </td>
 
     1996—Subsec. (c). [Pub. L. 104–201][/us/pl/104/201] inserted “and the provisions of section 5543(b)” after “the last two sentences of subsection (a)”.
 
-    1992—Subsec. (a). [Pub. L. 102–378, § 2(42)(B)][/us/pl/102/378/s2/42/B], amended last two sentences generally. Prior to amendment, last two sentences read as follows: “This section, other than the sixth sentence, shall not be applicable to an employee who is subject to the overtime pay provisions of section 7 of the Fair Labor Standards Act of 1938. In the case of an employee who would, were it not for the preceding sentence, be subject to this section, hours of work in excess of 8 hours in a day shall be deemed to be overtime hours for the purposes of such section 7 and hours in a paid nonwork status shall be deemed to be hours of work.”
+    1992—Subsec. (a). [Pub. L. 102–378][/us/pl/102/378], § 2(42)(B), amended last two sentences generally. Prior to amendment, last two sentences read as follows: “This section, other than the sixth sentence, shall not be applicable to an employee who is subject to the overtime pay provisions of section 7 of the Fair Labor Standards Act of 1938. In the case of an employee who would, were it not for the preceding sentence, be subject to this section, hours of work in excess of 8 hours in a day shall be deemed to be overtime hours for the purposes of such section 7 and hours in a paid nonwork status shall be deemed to be hours of work.”
 
-    Subsec. (a)(2), (3). [Pub. L. 102–378, § 2(42)(A)][/us/pl/102/378/s2/42/A], substituted “2,087” for “2,080”.
+    Subsec. (a)(2), (3). [Pub. L. 102–378][/us/pl/102/378], § 2(42)(A), substituted “2,087” for “2,080”.
 
-    Subsec. (c). [Pub. L. 102–378, § 2(42)(C)][/us/pl/102/378/s2/42/C], added subsec. (c).
+    Subsec. (c). [Pub. L. 102–378][/us/pl/102/378], § 2(42)(C), added subsec. (c).
 
     1990—Subsec. (a). [Pub. L. 101–509][/us/pl/101/509] inserted at end “This section, other than the sixth sentence, shall not be applicable to an employee who is subject to the overtime pay provisions of section 7 of the Fair Labor Standards Act of 1938. In the case of an employee who would, were it not for the preceding sentence, be subject to this section, hours of work in excess of 8 hours in a day shall be deemed to be overtime hours for the purposes of such section 7 and hours in a paid nonwork status shall be deemed to be hours of work.”
 
@@ -231,7 +231,7 @@ July 18, 1966, Pub. L. 89–504, § 405(f), 80 Stat. 298.  </td>
 
  __Canal Zone Employees__ 
 
-    [Pub. L. 85–550, § 17(3)][/us/pl/85/550/s17/3], July 25, 1958, [72 Stat. 411][/us/stat/72/411], provided that nothing in [Pub. L. 85–550][/us/pl/85/550], which related to wage and employment practices of the Government of the United States in the Canal Zone, should affect the applicability of former sections 673c and 913 of this title \[covered by this section\] to those classes of employees, within the scope of former sections 673c and 913 of this title \[covered by this section\] on July 25, 1958.
+    [Pub. L. 85–550][/us/pl/85/550], § 17(3), July 25, 1958, [72 Stat. 411][/us/stat/72/411], provided that nothing in [Pub. L. 85–550][/us/pl/85/550], which related to wage and employment practices of the Government of the United States in the Canal Zone, should affect the applicability of former sections 673c and 913 of this title \[covered by this section\] to those classes of employees, within the scope of former sections 673c and 913 of this title \[covered by this section\] on July 25, 1958.
 
 ----------
 
@@ -242,21 +242,21 @@ July 18, 1966, Pub. L. 89–504, § 405(f), 80 Stat. 298.  </td>
 
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F486
-[/us/pl/90/83/s1/26/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83%2Fs1%2F26%2FA
+[/us/pl/90/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83
 [/us/stat/81/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F200
-[/us/pl/90/206/s222/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F206%2Fs222%2Fd
+[/us/pl/90/206/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F206%2FtII
 [/us/stat/81/641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F641
-[/us/pl/92/392/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F392%2Fs5
+[/us/pl/92/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F392
 [/us/stat/86/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F573
-[/us/pl/101/509/s529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2Fs529
+[/us/pl/101/509/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2FtV
 [/us/stat/104/1427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1427
-[/us/pl/102/378/s2/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378%2Fs2%2F42
+[/us/pl/102/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378
 [/us/stat/106/1352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1352
-[/us/pl/104/201/s1610/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1610%2Fb
+[/us/pl/104/201/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtXVI
 [/us/stat/110/2738]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2738
-[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277/dG]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdG
 [/us/stat/112/2681-829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-829
-[/us/pl/110/181/s1110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1110
+[/us/pl/110/181/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtXI
 [/us/stat/122/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F360
 [/us/act/1954-09-01/s205/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-09-01%2Fs205%2Fa
 [/us/stat/68/1109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F1109
@@ -266,9 +266,9 @@ July 18, 1966, Pub. L. 89–504, § 405(f), 80 Stat. 298.  </td>
 [/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
-[/us/pl/102/378/s2/42/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378%2Fs2%2F42%2FB
-[/us/pl/102/378/s2/42/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378%2Fs2%2F42%2FA
-[/us/pl/102/378/s2/42/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378%2Fs2%2F42%2FC
+[/us/pl/102/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378
+[/us/pl/102/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378
+[/us/pl/102/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378
 [/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509
 [/us/pl/92/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F392
 [/us/pl/90/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F206
@@ -284,7 +284,7 @@ July 18, 1966, Pub. L. 89–504, § 405(f), 80 Stat. 298.  </td>
 [/us/pl/90/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F206
 [/us/pl/90/206/s220/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F206%2Fs220%2Fa%2F4
 [/us/usc/t5/s5542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5542
-[/us/pl/85/550/s17/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F550%2Fs17%2F3
+[/us/pl/85/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F550
 [/us/stat/72/411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F411
 [/us/pl/85/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F550
 

@@ -39,7 +39,7 @@
 
     (11) A summary of all recruitment, relocation, redesignation, and retention bonuses paid under authorities other than this chapter and excluding the authorities provided in sections 5753 and 5754 of this title, during the preceding fiscal year. Such summary shall include, for each type of bonus, the total amount of bonuses paid, the total number of bonuses paid, the percentage of the amount of bonuses awarded to supervisors and management officials, and the average percentage used to calculate the total average bonus amount.
 
-(Added [Pub. L. 108–201, § 3(a)][/us/pl/108/201/s3/a], Feb. 24, 2004, [118 Stat. 475][/us/stat/118/475].)
+(Added [Pub. L. 108–201][/us/pl/108/201], § 3(a), Feb. 24, 2004, [118 Stat. 475][/us/stat/118/475].)
 
  __References in Text__ 
 
@@ -52,7 +52,7 @@
 ----------
 ----------
 
-[/us/pl/108/201/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F201%2Fs3%2Fa
+[/us/pl/108/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F201
 [/us/stat/118/475]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F475
 [/us/pl/108/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F201
 

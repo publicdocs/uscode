@@ -33,7 +33,7 @@
 
     (c) This section does not apply to appropriations for the Foreign Service of the United States.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 505][/us/stat/80/505]; [Pub. L. 104–201, div. A, title XVII, § 1723(b)(1)][/us/pl/104/201/s1723/b/1], Sept. 23, 1996, [110 Stat. 2759][/us/stat/110/2759]; [Pub. L. 105–264, § 6(9)][/us/pl/105/264/s6/9], Oct. 19, 1998, [112 Stat. 2356][/us/stat/112/2356].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 505][/us/stat/80/505]; [Pub. L. 104–201, div. A, title XVII][/us/pl/104/201/dA/tXVII], § 1723(b)(1), Sept. 23, 1996, [110 Stat. 2759][/us/stat/110/2759]; [Pub. L. 105–264][/us/pl/105/264], § 6(9), Oct. 19, 1998, [112 Stat. 2356][/us/stat/112/2356].)
 
 <table>
 
@@ -106,9 +106,9 @@ Aug. 31, 1954, ch. 1155 (less 1st proviso), 68 Stat. 1008.  </td>
 [/us/usc/t5/s5738]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5738
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F505
-[/us/pl/104/201/s1723/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1723%2Fb%2F1
+[/us/pl/104/201/dA/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtXVII
 [/us/stat/110/2759]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2759
-[/us/pl/105/264/s6/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F264%2Fs6%2F9
+[/us/pl/105/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F264
 [/us/stat/112/2356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2356
 [/us/pl/105/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F264
 [/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201

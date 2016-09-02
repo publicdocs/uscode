@@ -59,7 +59,7 @@
 
         (2) at the rate of 8⅓ percent of the difference between his monthly pay and his monthly wage-earning capacity if that compensation is payable under [section 8106(a) of this title][/us/usc/t5/s8106/a].
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 539][/us/stat/80/539]; [Pub. L. 90–83, § 1(53)][/us/pl/90/83/s1/53], Sept. 11, 1967, [81 Stat. 210][/us/stat/81/210]; [Pub. L. 93–416, § 6][/us/pl/93/416/s6], Sept. 7, 1974, [88 Stat. 1145][/us/stat/88/1145].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 539][/us/stat/80/539]; [Pub. L. 90–83][/us/pl/90/83], § 1(53), Sept. 11, 1967, [81 Stat. 210][/us/stat/81/210]; [Pub. L. 93–416][/us/pl/93/416], § 6, Sept. 7, 1974, [88 Stat. 1145][/us/stat/88/1145].)
 
 <table>
 
@@ -252,9 +252,9 @@ July 4, 1966, Pub. L. 89–488 §§ 2(e), 3(a), 80 Stat. 252.  </td>
 [/us/usc/t5/s8106/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8106%2Fa
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/539]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F539
-[/us/pl/90/83/s1/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83%2Fs1%2F53
+[/us/pl/90/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83
 [/us/stat/81/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F210
-[/us/pl/93/416/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F416%2Fs6
+[/us/pl/93/416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F416
 [/us/stat/88/1145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1145
 [/us/usc/t1/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft1%2Fs1
 [/us/usc/t5/s8101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8101

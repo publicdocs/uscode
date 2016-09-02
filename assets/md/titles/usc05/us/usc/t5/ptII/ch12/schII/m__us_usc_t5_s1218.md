@@ -17,7 +17,7 @@
 
     The Special Counsel shall submit an annual report to the Congress on the activities of the Special Counsel, including the number, types, and disposition of allegations of prohibited personnel practices filed with it, investigations conducted by it, cases in which it did not make a determination whether there are reasonable grounds to believe that a prohibited personnel practice has occurred, exists, or is to be taken within the 240-day period specified in section 1214(b)(2)(A)(i), and actions initiated by it before the Merit Systems Protection Board, as well as a description of the recommendations and reports made by it to other agencies pursuant to this subchapter, and the actions taken by the agencies as a result of the reports or recommendations. The report required by this section shall include whatever recommendations for legislation or other action by Congress the Special Counsel may consider appropriate.
 
-(Added [Pub. L. 101–12, § 3(a)(13)][/us/pl/101/12/s3/a/13], Apr. 10, 1989, [103 Stat. 29][/us/stat/103/29]; amended [Pub. L. 103–424, § 3(e)][/us/pl/103/424/s3/e], Oct. 29, 1994, [108 Stat. 4363][/us/stat/108/4363].)
+(Added [Pub. L. 101–12][/us/pl/101/12], § 3(a)(13), Apr. 10, 1989, [103 Stat. 29][/us/stat/103/29]; amended [Pub. L. 103–424][/us/pl/103/424], § 3(e), Oct. 29, 1994, [108 Stat. 4363][/us/stat/108/4363].)
 
  __Amendments__ 
 
@@ -34,9 +34,9 @@
 ----------
 ----------
 
-[/us/pl/101/12/s3/a/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F12%2Fs3%2Fa%2F13
+[/us/pl/101/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F12
 [/us/stat/103/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F29
-[/us/pl/103/424/s3/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F424%2Fs3%2Fe
+[/us/pl/103/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F424
 [/us/stat/108/4363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4363
 [/us/pl/103/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F424
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003

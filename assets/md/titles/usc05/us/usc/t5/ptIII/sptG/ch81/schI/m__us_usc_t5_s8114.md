@@ -55,7 +55,7 @@
 
         (3) bonus or premium pay for extraordinary service including bonus or pay for particularly hazardous service in time of war.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 540][/us/stat/80/540]; [Pub. L. 89–737, § 1(1)][/us/pl/89/737/s1/1], Nov. 2, 1966, [80 Stat. 1164][/us/stat/80/1164].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 540][/us/stat/80/540]; [Pub. L. 89–737][/us/pl/89/737], § 1(1), Nov. 2, 1966, [80 Stat. 1164][/us/stat/80/1164].)
 
 <table>
 
@@ -119,7 +119,7 @@ Oct. 14, 1949, ch. 691, § 203, 63 Stat. 862.  </td>
 
 </table>
 
-    In subsection (d)(4), the words “the minimum rate of basic pay for GS–15” are substituted for “the basic rate of annual compensation specified under the Classification Act of 1949, as amended, for positions in grade GS–15 at the bottom of such grade”. In former section 762, the words “Classification Act of 1949” were substituted for “Classification Act of 1923” on authority of [§ 1106(a) of the Act of Oct. 28, 1949, ch. 782][/us/act/1949-10-28/ch782/s1106/a], [63 Stat. 972][/us/stat/63/972].
+    In subsection (d)(4), the words “the minimum rate of basic pay for GS–15” are substituted for “the basic rate of annual compensation specified under the Classification Act of 1949, as amended, for positions in grade GS–15 at the bottom of such grade”. In former section 762, the words “Classification Act of 1949” were substituted for “Classification Act of 1923” on authority of § 1106(a) of the [Act of Oct. 28, 1949, ch. 782][/us/act/1949-10-28/ch782], [63 Stat. 972][/us/stat/63/972].
 
     Administration of this subchapter was transferred to the Secretary of Labor by section 1 of 1950 Reorg. Plan No. 19, [64 Stat. 1271][/us/stat/64/1271] (see section 8145).
 
@@ -131,7 +131,7 @@ Oct. 14, 1949, ch. 691, § 203, 63 Stat. 862.  </td>
 
  __Effective Date of 1966 Amendment__ 
 
-    [Pub. L. 89–737, § 4][/us/pl/89/737/s4], Nov. 2, 1966, [80 Stat. 1164][/us/stat/80/1164], which provided that the amendments made by this Act \[amending this section and sections 8331 and 8704 of this title\] apply with respect to premium pay payable from and after the first day of the first pay period which begins after the date of enactment of this Act \[Nov. 2, 1966\], was repealed by [Pub. L. 90–83, § 10(b)][/us/pl/90/83/s10/b], Sept. 11, 1967, [81 Stat. 223][/us/stat/81/223].
+    [Pub. L. 89–737][/us/pl/89/737], § 4, Nov. 2, 1966, [80 Stat. 1164][/us/stat/80/1164], which provided that the amendments made by this Act \[amending this section and sections 8331 and 8704 of this title\] apply with respect to premium pay payable from and after the first day of the first pay period which begins after the date of enactment of this Act \[Nov. 2, 1966\], was repealed by [Pub. L. 90–83][/us/pl/90/83], § 10(b), Sept. 11, 1967, [81 Stat. 223][/us/stat/81/223].
 
 ----------
 
@@ -143,16 +143,16 @@ Oct. 14, 1949, ch. 691, § 203, 63 Stat. 862.  </td>
 [/us/usc/t5/s5545/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5545%2Fc%2F1
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F540
-[/us/pl/89/737/s1/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F737%2Fs1%2F1
+[/us/pl/89/737]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F737
 [/us/stat/80/1164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1164
-[/us/act/1949-10-28/ch782/s1106/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-28%2Fch782%2Fs1106%2Fa
+[/us/act/1949-10-28/ch782]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-28%2Fch782
 [/us/stat/63/972]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F972
 [/us/stat/64/1271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1271
 [/us/pl/89/737]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F737
 [/us/usc/t5/s5545/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5545%2Fc%2F1
-[/us/pl/89/737/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F737%2Fs4
+[/us/pl/89/737]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F737
 [/us/stat/80/1164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1164
-[/us/pl/90/83/s10/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83%2Fs10%2Fb
+[/us/pl/90/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83
 [/us/stat/81/223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F223
 
 

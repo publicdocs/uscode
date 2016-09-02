@@ -17,7 +17,7 @@
 
  __Amendments__ 
 
-    1981—[Pub. L. 97–35, title XVII, § 1703(a)][/us/pl/97/35/s1703/a], Aug. 13, 1981, [95 Stat. 755][/us/stat/95/755], added subchapter II.
+    1981—[Pub. L. 97–35, title XVII][/us/pl/97/35/tXVII], § 1703(a), Aug. 13, 1981, [95 Stat. 755][/us/stat/95/755], added subchapter II.
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/97/35/s1703/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs1703%2Fa
+[/us/pl/97/35/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXVII
 [/us/stat/95/755]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F755
 
 

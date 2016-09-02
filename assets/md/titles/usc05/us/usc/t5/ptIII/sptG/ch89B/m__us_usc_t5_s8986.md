@@ -37,7 +37,7 @@
 
         (2) A transfer under paragraph (1) shall be subject to waiting periods provided under a new plan.
 
-(Added [Pub. L. 108–496, § 3][/us/pl/108/496/s3], Dec. 23, 2004, [118 Stat. 4008][/us/stat/118/4008].)
+(Added [Pub. L. 108–496][/us/pl/108/496], § 3, Dec. 23, 2004, [118 Stat. 4008][/us/stat/118/4008].)
 
 ----------
 
@@ -46,7 +46,7 @@
 ----------
 ----------
 
-[/us/pl/108/496/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F496%2Fs3
+[/us/pl/108/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F496
 [/us/stat/118/4008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F4008
 
 

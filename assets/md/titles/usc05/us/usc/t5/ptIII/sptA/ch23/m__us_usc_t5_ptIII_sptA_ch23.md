@@ -75,9 +75,9 @@
 
  __Amendments__ 
 
-    2012—[Pub. L. 112–199, § 109(b)][/us/pl/112/199/s109/b], Nov. 27, 2012, [126 Stat. 1471][/us/stat/126/1471], added items 2304 to 2306 and struck out former items 2304 “Responsibility of the Government Accountability Office” and 2305 “Coordination with certain other provisions of law”.
+    2012—[Pub. L. 112–199][/us/pl/112/199], § 109(b), Nov. 27, 2012, [126 Stat. 1471][/us/stat/126/1471], added items 2304 to 2306 and struck out former items 2304 “Responsibility of the Government Accountability Office” and 2305 “Coordination with certain other provisions of law”.
 
-    2004—[Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814], substituted “Government Accountability Office” for “General Accounting Office” in item 2304.
+    2004—[Pub. L. 108–271][/us/pl/108/271], § 8(b), July 7, 2004, [118 Stat. 814][/us/stat/118/814], substituted “Government Accountability Office” for “General Accounting Office” in item 2304.
 
 ----------
 
@@ -86,9 +86,9 @@
 ----------
 ----------
 
-[/us/pl/112/199/s109/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F199%2Fs109%2Fb
+[/us/pl/112/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F199
 [/us/stat/126/1471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1471
-[/us/pl/108/271/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271%2Fs8%2Fb
+[/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/stat/118/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F814
 
 

@@ -37,7 +37,7 @@
 
         (3) may not be made the basis for terminal leave except under such special or emergency circumstances as may be prescribed under the regulations of the Office.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 520][/us/stat/80/520]; [Pub. L. 89–747, § 1(1)][/us/pl/89/747/s1/1], (2), Nov. 2, 1966, [80 Stat. 1179][/us/stat/80/1179]; [Pub. L. 90–623, § 1(16)][/us/pl/90/623/s1/16], Oct. 22, 1968, [82 Stat. 1313][/us/stat/82/1313]; [Pub. L. 95–454, title IX, § 906(a)(2)][/us/pl/95/454/s906/a/2], Oct. 13, 1978, [92 Stat. 1224][/us/stat/92/1224]; [Pub. L. 96–54, § 2(a)(15)][/us/pl/96/54/s2/a/15], Aug. 14, 1979, [93 Stat. 382][/us/stat/93/382]; [Pub. L. 96–465, title II][/us/pl/96/465], §§ 2312(c), 2314(f)(2), Oct. 17, 1980, [94 Stat. 2167][/us/stat/94/2167], 2168; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title XI, § 1133\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–318.)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 520][/us/stat/80/520]; [Pub. L. 89–747][/us/pl/89/747], § 1(1), (2), Nov. 2, 1966, [80 Stat. 1179][/us/stat/80/1179]; [Pub. L. 90–623][/us/pl/90/623], § 1(16), Oct. 22, 1968, [82 Stat. 1313][/us/stat/82/1313]; [Pub. L. 95–454, title IX][/us/pl/95/454/tIX], § 906(a)(2), Oct. 13, 1978, [92 Stat. 1224][/us/stat/92/1224]; [Pub. L. 96–54][/us/pl/96/54], § 2(a)(15), Aug. 14, 1979, [93 Stat. 382][/us/stat/93/382]; [Pub. L. 96–465, title II][/us/pl/96/465/tII], §§ 2312(c), 2314(f)(2), Oct. 17, 1980, [94 Stat. 2167][/us/stat/94/2167], 2168; [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title XI, § 1133\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–318.)
 
 <table>
 
@@ -125,9 +125,9 @@ July 2, 1953, ch. 178, § 1 “(c)(2)”, 67 Stat. 136.  </td>
 
     2000—Subsec. (c)(2). [Pub. L. 106–398][/us/pl/106/398] amended par. (2) generally. Prior to amendment, par. (2) read as follows: “may not be made the basis for a lump-sum payment; and”.
 
-    1980—Subsec. (a). [Pub. L. 96–465, § 2312(c)][/us/pl/96/465/s2312/c], inserted “(or after a shorter period of such service if the employee’s assignment is terminated for the convenience of the Government)” after “outside the United States”.
+    1980—Subsec. (a). [Pub. L. 96–465][/us/pl/96/465], § 2312(c), inserted “(or after a shorter period of such service if the employee’s assignment is terminated for the convenience of the Government)” after “outside the United States”.
 
-    Subsec. (b). [Pub. L. 96–465, § 2314(f)(2)][/us/pl/96/465/s2314/f/2], substituted “a chief of mission” for “an officer” after “leave of absence to”.
+    Subsec. (b). [Pub. L. 96–465][/us/pl/96/465], § 2314(f)(2), substituted “a chief of mission” for “an officer” after “leave of absence to”.
 
     1979—Subsec. (c)(3). [Pub. L. 96–54][/us/pl/96/54] substituted “Office” for “Commission”.
 
@@ -177,21 +177,21 @@ July 2, 1953, ch. 178, § 1 “(c)(2)”, 67 Stat. 136.  </td>
 [/us/usc/t5/s6304/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs6304%2Fb
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F520
-[/us/pl/89/747/s1/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F747%2Fs1%2F1
+[/us/pl/89/747]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F747
 [/us/stat/80/1179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1179
-[/us/pl/90/623/s1/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F623%2Fs1%2F16
+[/us/pl/90/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F623
 [/us/stat/82/1313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1313
-[/us/pl/95/454/s906/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs906%2Fa%2F2
+[/us/pl/95/454/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtIX
 [/us/stat/92/1224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1224
-[/us/pl/96/54/s2/a/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F54%2Fs2%2Fa%2F15
+[/us/pl/96/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F54
 [/us/stat/93/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F382
-[/us/pl/96/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465
+[/us/pl/96/465/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtII
 [/us/stat/94/2167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2167
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
 [/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
-[/us/pl/96/465/s2312/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs2312%2Fc
-[/us/pl/96/465/s2314/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs2314%2Ff%2F2
+[/us/pl/96/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465
+[/us/pl/96/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465
 [/us/pl/96/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F54
 [/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454
 [/us/pl/90/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F623

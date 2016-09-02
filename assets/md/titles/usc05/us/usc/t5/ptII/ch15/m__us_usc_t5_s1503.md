@@ -17,7 +17,7 @@
 
     [Section 1502(a)(3) of this title][/us/usc/t5/s1502/a/3] does not prohibit any State or local officer or employee from being a candidate in any election if none of the candidates is to be nominated or elected at such election as representing a party any of whose candidates for Presidential elector received votes in the last preceding election at which Presidential electors were selected.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 404][/us/stat/80/404]; [Pub. L. 93–443, title IV, § 401(b)(1)][/us/pl/93/443/s401/b/1], Oct. 15, 1974, [88 Stat. 1290][/us/stat/88/1290].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 404][/us/stat/80/404]; [Pub. L. 93–443, title IV][/us/pl/93/443/tIV], § 401(b)(1), Oct. 15, 1974, [88 Stat. 1290][/us/stat/88/1290].)
 
 <table>
 
@@ -85,7 +85,7 @@ July 19, 1940, ch. 640, § 4 “Sec. 18 (as applicable to § 12 of the Act o
 [/us/usc/t5/s1502/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs1502%2Fa%2F3
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F404
-[/us/pl/93/443/s401/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443%2Fs401%2Fb%2F1
+[/us/pl/93/443/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443%2FtIV
 [/us/stat/88/1290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1290
 [/us/pl/93/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443
 [/us/pl/93/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443

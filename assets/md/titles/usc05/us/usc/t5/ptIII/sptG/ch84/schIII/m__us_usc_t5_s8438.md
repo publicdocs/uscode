@@ -199,11 +199,11 @@
 
         (2) Whenever the Secretary of the Treasury determines that, by reason of the public debt limit, the Secretary will be unable to fully comply with the requirements of subsection (e) of this section, the Secretary shall immediately notify Congress and the Executive Director of the determination. The notification shall be made in writing.
 
-(Added [Pub. L. 99–335, title I, § 101(a)][/us/pl/99/335/s101/a], June 6, 1986, [100 Stat. 551][/us/stat/100/551]; amended [Pub. L. 100–43, § 2][/us/pl/100/43/s2], May 22, 1987, [101 Stat. 315][/us/stat/101/315]; [Pub. L. 100–366, § 2(a)][/us/pl/100/366/s2/a], July 13, 1988, [102 Stat. 826][/us/stat/102/826]; [Pub. L. 101–335, § 3(a)][/us/pl/101/335/s3/a], July 17, 1990, [104 Stat. 320][/us/stat/104/320]; [Pub. L. 102–378, § 2(68)][/us/pl/102/378/s2/68], Oct. 2, 1992, [106 Stat. 1355][/us/stat/106/1355]; [Pub. L. 104–208, div. A, title I, § 101(f)][/us/pl/104/208/s101/f] \[title VI, § 659 \[title I, § 102\]\], Sept. 30, 1996, [110 Stat. 3009–314][/us/stat/110/3009-314], 3009–372; [Pub. L. 104–316, title I, § 103(i)][/us/pl/104/316/s103/i], Oct. 19, 1996, [110 Stat. 3829][/us/stat/110/3829]; [Pub. L. 111–31, div. B, title I, § 104][/us/pl/111/31/s104], June 22, 2009, [123 Stat. 1854][/us/stat/123/1854]; [Pub. L. 113–255, § 2(a)][/us/pl/113/255/s2/a], Dec. 18, 2014, [128 Stat. 2920][/us/stat/128/2920]; [Pub. L. 114–92, div. A, title VI, § 632(d)][/us/pl/114/92/s632/d], Nov. 25, 2015, [129 Stat. 847][/us/stat/129/847].)
+(Added [Pub. L. 99–335, title I][/us/pl/99/335/tI], § 101(a), June 6, 1986, [100 Stat. 551][/us/stat/100/551]; amended [Pub. L. 100–43][/us/pl/100/43], § 2, May 22, 1987, [101 Stat. 315][/us/stat/101/315]; [Pub. L. 100–366][/us/pl/100/366], § 2(a), July 13, 1988, [102 Stat. 826][/us/stat/102/826]; [Pub. L. 101–335][/us/pl/101/335], § 3(a), July 17, 1990, [104 Stat. 320][/us/stat/104/320]; [Pub. L. 102–378][/us/pl/102/378], § 2(68), Oct. 2, 1992, [106 Stat. 1355][/us/stat/106/1355]; [Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(f) \[title VI, § 659 \[title I, § 102\]\], Sept. 30, 1996, [110 Stat. 3009–314][/us/stat/110/3009-314], 3009–372; [Pub. L. 104–316, title I][/us/pl/104/316/tI], § 103(i), Oct. 19, 1996, [110 Stat. 3829][/us/stat/110/3829]; [Pub. L. 111–31, div. B, title I][/us/pl/111/31/dB/tI], § 104, June 22, 2009, [123 Stat. 1854][/us/stat/123/1854]; [Pub. L. 113–255][/us/pl/113/255], § 2(a), Dec. 18, 2014, [128 Stat. 2920][/us/stat/128/2920]; [Pub. L. 114–92, div. A, title VI][/us/pl/114/92/dA/tVI], § 632(d), Nov. 25, 2015, [129 Stat. 847][/us/stat/129/847].)
 
  __Amendment of Subsection (c)(2)__ 
 
-    [Pub. L. 114–92, div. A, title VI][/us/pl/114/92], §§ 632(d), 635, Nov. 25, 2015, [129 Stat. 847][/us/stat/129/847], 851, provided that, effective Jan. 1, 2018, with certain implementation requirements, subsection (c)(2) of this section is amended in subparagraph (A) by striking “(A) Consistent with the requirements of subparagraph (B), if an” and inserting “If an” and by striking subparagraph (B). See 2015 Amendment note below.
+    [Pub. L. 114–92, div. A, title VI][/us/pl/114/92/dA/tVI], §§ 632(d), 635, Nov. 25, 2015, [129 Stat. 847][/us/stat/129/847], 851, provided that, effective Jan. 1, 2018, with certain implementation requirements, subsection (c)(2) of this section is amended in subparagraph (A) by striking “(A) Consistent with the requirements of subparagraph (B), if an” and inserting “If an” and by striking subparagraph (B). See 2015 Amendment note below.
 
  __Amendments__ 
 
@@ -211,33 +211,33 @@
 
     2014—Subsec. (c)(2). [Pub. L. 113–255][/us/pl/113/255] amended par. (2) generally. Prior to amendment, par. (2) read as follows: “If an election has not been made with respect to any sums in the Thrift Savings Fund available for investment, the Executive Director shall invest such sums in the Government Securities Investment Fund.”
 
-    2009—Subsec. (b)(1)(F). [Pub. L. 111–31, § 104(a)][/us/pl/111/31/s104/a], added subpar. (F).
+    2009—Subsec. (b)(1)(F). [Pub. L. 111–31][/us/pl/111/31], § 104(a), added subpar. (F).
 
-    Subsec. (b)(5). [Pub. L. 111–31, § 104(b)][/us/pl/111/31/s104/b], added par. (5).
+    Subsec. (b)(5). [Pub. L. 111–31][/us/pl/111/31], § 104(b), added par. (5).
 
-    Subsec. (d)(1). [Pub. L. 111–31, § 104(c)][/us/pl/111/31/s104/c], inserted “and options” after “investment funds”.
+    Subsec. (d)(1). [Pub. L. 111–31][/us/pl/111/31], § 104(c), inserted “and options” after “investment funds”.
 
-    1996—Subsec. (a). [Pub. L. 104–208, § 101(f)][/us/pl/104/208/s101/f] \[title VI, § 659 \[title I, § 102(1)\]\], added par. (5), redesignated former pars. (5) to (8) as (6) to (9), respectively, in par. (9) substituted “paragraph (8)(D)” for “paragraph (7)(D)” in two places, and added par. (10).
+    1996—Subsec. (a). [Pub. L. 104–208][/us/pl/104/208], § 101(f) \[title VI, § 659 \[title I, § 102(1)\]\], added par. (5), redesignated former pars. (5) to (8) as (6) to (9), respectively, in par. (9) substituted “paragraph (8)(D)” for “paragraph (7)(D)” in two places, and added par. (10).
 
-    Subsec. (b). [Pub. L. 104–208, § 101(f)][/us/pl/104/208/s101/f] \[title VI, § 659 \[title I, § 102(2)\]\], in par. (1) added subpars. (D) and (E) and added pars. (3) and (4).
+    Subsec. (b). [Pub. L. 104–208][/us/pl/104/208], § 101(f) \[title VI, § 659 \[title I, § 102(2)\]\], in par. (1) added subpars. (D) and (E) and added pars. (3) and (4).
 
     Subsec. (h)(1). [Pub. L. 104–316][/us/pl/104/316] struck out “and the Comptroller General of the United States” before period at end.
 
     1992—Subsec. (a)(7)(B). [Pub. L. 102–378][/us/pl/102/378] substituted “Deposit” for “Savings and Loan”.
 
-    1990—Subsec. (b)(1)(A). [Pub. L. 101–335, § 3(a)(2)][/us/pl/101/335/s3/a/2], substituted “subsection (e)” for “subsection (f)”.
+    1990—Subsec. (b)(1)(A). [Pub. L. 101–335][/us/pl/101/335], § 3(a)(2), substituted “subsection (e)” for “subsection (f)”.
 
-    Subsec. (c)(1). [Pub. L. 101–335, § 3(a)(3)][/us/pl/101/335/s3/a/3], substituted “The” for “Subject to subsection (e), the”.
+    Subsec. (c)(1). [Pub. L. 101–335][/us/pl/101/335], § 3(a)(3), substituted “The” for “Subject to subsection (e), the”.
 
-    Subsec. (d)(1). [Pub. L. 101–335, § 3(a)(4)][/us/pl/101/335/s3/a/4], struck out “and not subject to subsection (e)” after “individual’s account”.
+    Subsec. (d)(1). [Pub. L. 101–335][/us/pl/101/335], § 3(a)(4), struck out “and not subject to subsection (e)” after “individual’s account”.
 
-    Subsec. (e). [Pub. L. 101–335, § 3(a)(1)][/us/pl/101/335/s3/a/1], redesignated subsec. (f) as (e) and struck out former subsec. (e) which related to minimum percentages to be invested in Government Securities Investment Fund and limitations on reinvestment of sums invested in Government Securities Investment Fund prior to years 1992 and 1997.
+    Subsec. (e). [Pub. L. 101–335][/us/pl/101/335], § 3(a)(1), redesignated subsec. (f) as (e) and struck out former subsec. (e) which related to minimum percentages to be invested in Government Securities Investment Fund and limitations on reinvestment of sums invested in Government Securities Investment Fund prior to years 1992 and 1997.
 
-    Subsec. (f). [Pub. L. 101–335, § 3(a)(1)][/us/pl/101/335/s3/a/1], redesignated subsec. (g) as (f). Former subsec. (f) redesignated (e).
+    Subsec. (f). [Pub. L. 101–335][/us/pl/101/335], § 3(a)(1), redesignated subsec. (g) as (f). Former subsec. (f) redesignated (e).
 
-    Subsec. (g). [Pub. L. 101–335, § 3(a)(1)][/us/pl/101/335/s3/a/1], (5), (6), redesignated subsec. (h) as (g) and substituted “subsection (e)” for “subsection (f)” in pars. (1) and (2), “subsection (e)(2)” for “subsection (f)(2)” in par. (3), and “subsection (h)” for “subsection (i)” in par. (6). Former subsec. (g) redesignated (f).
+    Subsec. (g). [Pub. L. 101–335][/us/pl/101/335], § 3(a)(1), (5), (6), redesignated subsec. (h) as (g) and substituted “subsection (e)” for “subsection (f)” in pars. (1) and (2), “subsection (e)(2)” for “subsection (f)(2)” in par. (3), and “subsection (h)” for “subsection (i)” in par. (6). Former subsec. (g) redesignated (f).
 
-    Subsecs. (h), (i). [Pub. L. 101–335, § 3(a)(1)][/us/pl/101/335/s3/a/1], (7), redesignated subsec. (i) as (h) and substituted “subsection (g)” for “subsection (h)” in par. (1) and “subsection (e)” for “subsection (f)” in par. (2). Former subsec. (h) redesignated (g).
+    Subsecs. (h), (i). [Pub. L. 101–335][/us/pl/101/335], § 3(a)(1), (7), redesignated subsec. (i) as (h) and substituted “subsection (g)” for “subsection (h)” in par. (1) and “subsection (e)” for “subsection (f)” in par. (2). Former subsec. (h) redesignated (g).
 
     1988—Subsec. (e)(3)(A). [Pub. L. 100–366][/us/pl/100/366] struck out “and the earnings attributable to the investment of such sums” after “paragraph (1)”.
 
@@ -249,7 +249,7 @@
 
  __Effective Date of 2014 Amendment__ 
 
-[Pub. L. 113–255, § 2(e)][/us/pl/113/255/s2/e], Dec. 18, 2014, [128 Stat. 2920][/us/stat/128/2920], provided that: 
+[Pub. L. 113–255][/us/pl/113/255], § 2(e), Dec. 18, 2014, [128 Stat. 2920][/us/stat/128/2920], provided that: 
 
 > “The amendments made by subsections (a) and (b) \[amending this section and [section 8439 of this title][/us/usc/t5/s8439]\] shall—
 
@@ -267,13 +267,13 @@
 
  __Effective Date of 1988 Amendment__ 
 
-[Pub. L. 100–366, § 2(b)][/us/pl/100/366/s2/b], July 13, 1988, [102 Stat. 826][/us/stat/102/826], provided that: 
+[Pub. L. 100–366][/us/pl/100/366], § 2(b), July 13, 1988, [102 Stat. 826][/us/stat/102/826], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply with respect to earnings attributable to contributions made to the Thrift Savings Fund on or after April 1, 1987.”
 
  __Guidance__ 
 
-[Pub. L. 113–255, § 2(d)][/us/pl/113/255/s2/d], Dec. 18, 2014, [128 Stat. 2920][/us/stat/128/2920], provided that: 
+[Pub. L. 113–255][/us/pl/113/255], § 2(d), Dec. 18, 2014, [128 Stat. 2920][/us/stat/128/2920], provided that: 
 
 > “Not later than 9 months after the date of enactment of this Act \[Dec. 18, 2014\], the Executive Director (as that term is defined under [section 8401(13) of title 5][/us/usc/t5/s8401/13], United States Code) shall develop and issue guidance implementing the requirements of this Act \[see [section 1 of Pub. L. 113–255][/us/pl/113/255/s1], set out as a Short Title of 2014 Amendment note under [section 101 of this title][/us/usc/t5/s101]\].”
 
@@ -281,7 +281,7 @@
 
  __Removal of Investment Restrictions__ 
 
-[Pub. L. 101–335, § 3(b)(4)][/us/pl/101/335/s3/b/4], July 17, 1990, [104 Stat. 320][/us/stat/104/320], provided that: 
+[Pub. L. 101–335][/us/pl/101/335], § 3(b)(4), July 17, 1990, [104 Stat. 320][/us/stat/104/320], provided that: 
 
 > “Any other provision of law, in effect on the date of enactment of this Act \[July 17, 1990\], which provides that any amounts contributed to the Thrift Savings Fund, or earnings thereon, may be invested or reinvested only in the Government Securities Investment Fund established under [section 8438(b)(1)(A) of title 5][/us/usc/t5/s8438/b/1/A], United States Code, shall cease to be effective.”
 
@@ -300,50 +300,50 @@
 [/us/usc/t15/s78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78
 [/us/usc/t5/s8471/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8471%2F4
 [/us/usc/t31/s3101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3101%2Fb
-[/us/pl/99/335/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2Fs101%2Fa
+[/us/pl/99/335/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2FtI
 [/us/stat/100/551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F551
-[/us/pl/100/43/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F43%2Fs2
+[/us/pl/100/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F43
 [/us/stat/101/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F315
-[/us/pl/100/366/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F366%2Fs2%2Fa
+[/us/pl/100/366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F366
 [/us/stat/102/826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F826
-[/us/pl/101/335/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F335%2Fs3%2Fa
+[/us/pl/101/335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F335
 [/us/stat/104/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F320
-[/us/pl/102/378/s2/68]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378%2Fs2%2F68
+[/us/pl/102/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378
 [/us/stat/106/1355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1355
-[/us/pl/104/208/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Ff
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009-314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-314
-[/us/pl/104/316/s103/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2Fs103%2Fi
+[/us/pl/104/316/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2FtI
 [/us/stat/110/3829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3829
-[/us/pl/111/31/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31%2Fs104
+[/us/pl/111/31/dB/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31%2FdB%2FtI
 [/us/stat/123/1854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1854
-[/us/pl/113/255/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F255%2Fs2%2Fa
+[/us/pl/113/255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F255
 [/us/stat/128/2920]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2920
-[/us/pl/114/92/s632/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs632%2Fd
+[/us/pl/114/92/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtVI
 [/us/stat/129/847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F847
-[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/pl/114/92/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtVI
 [/us/stat/129/847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F847
 [/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
 [/us/pl/113/255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F255
-[/us/pl/111/31/s104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31%2Fs104%2Fa
-[/us/pl/111/31/s104/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31%2Fs104%2Fb
-[/us/pl/111/31/s104/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31%2Fs104%2Fc
-[/us/pl/104/208/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Ff
-[/us/pl/104/208/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Ff
+[/us/pl/111/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31
+[/us/pl/111/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31
+[/us/pl/111/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/pl/104/316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316
 [/us/pl/102/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378
-[/us/pl/101/335/s3/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F335%2Fs3%2Fa%2F2
-[/us/pl/101/335/s3/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F335%2Fs3%2Fa%2F3
-[/us/pl/101/335/s3/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F335%2Fs3%2Fa%2F4
-[/us/pl/101/335/s3/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F335%2Fs3%2Fa%2F1
-[/us/pl/101/335/s3/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F335%2Fs3%2Fa%2F1
-[/us/pl/101/335/s3/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F335%2Fs3%2Fa%2F1
-[/us/pl/101/335/s3/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F335%2Fs3%2Fa%2F1
+[/us/pl/101/335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F335
+[/us/pl/101/335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F335
+[/us/pl/101/335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F335
+[/us/pl/101/335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F335
+[/us/pl/101/335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F335
+[/us/pl/101/335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F335
+[/us/pl/101/335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F335
 [/us/pl/100/366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F366
 [/us/pl/100/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F43
 [/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
 [/us/pl/114/92/s635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs635
 [/us/usc/t5/s8432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8432
-[/us/pl/113/255/s2/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F255%2Fs2%2Fe
+[/us/pl/113/255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F255
 [/us/stat/128/2920]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2920
 [/us/usc/t5/s8439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8439
 [/us/pl/113/255/s2/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F255%2Fs2%2Fd
@@ -355,14 +355,14 @@
 [/us/usc/t5/s8432/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8432%2Fb
 [/us/pl/101/335/s3/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F335%2Fs3%2Fc
 [/us/usc/t5/s8351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8351
-[/us/pl/100/366/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F366%2Fs2%2Fb
+[/us/pl/100/366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F366
 [/us/stat/102/826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F826
-[/us/pl/113/255/s2/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F255%2Fs2%2Fd
+[/us/pl/113/255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F255
 [/us/stat/128/2920]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2920
 [/us/usc/t5/s8401/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8401%2F13
 [/us/pl/113/255/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F255%2Fs1
 [/us/usc/t5/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs101
-[/us/pl/101/335/s3/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F335%2Fs3%2Fb%2F4
+[/us/pl/101/335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F335
 [/us/stat/104/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F320
 [/us/usc/t5/s8438/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8438%2Fb%2F1%2FA
 

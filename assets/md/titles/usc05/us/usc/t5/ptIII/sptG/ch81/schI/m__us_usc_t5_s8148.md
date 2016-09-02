@@ -27,11 +27,11 @@
 
     (c) Notwithstanding the provision of [section 552a of this title][/us/usc/t5/s552a], or any other provision of Federal or State law, any agency of the United States Government or of any State (or political subdivision thereof) shall make available to the Secretary of Labor, upon written request, the names and Social Security account numbers of individuals who are confined in a jail, prison, or other penal institution or correctional facility under the jurisdiction of such agency, pursuant to such individuals’ conviction of an offense that constituted a felony under applicable law, which the Secretary of Labor may require to carry out the provisions of this section.
 
-(Added [Pub. L. 103–333, title I, § 101(a)(1)][/us/pl/103/333/s101/a/1], Sept. 30, 1994, [108 Stat. 2546][/us/stat/108/2546]; amended [Pub. L. 105–247, § 1][/us/pl/105/247/s1], Oct. 9, 1998, [112 Stat. 1863][/us/stat/112/1863].)
+(Added [Pub. L. 103–333, title I][/us/pl/103/333/tI], § 101(a)(1), Sept. 30, 1994, [108 Stat. 2546][/us/stat/108/2546]; amended [Pub. L. 105–247][/us/pl/105/247], § 1, Oct. 9, 1998, [112 Stat. 1863][/us/stat/112/1863].)
 
  __Prior Provisions__ 
 
-    A prior section 8148, [Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 555][/us/stat/80/555], provided for a report to Congress by Secretary of Labor at beginning of each regular session covering work for preceding fiscal year under this subchapter, prior to repeal by [Pub. L. 90–83, § 1(69)][/us/pl/90/83/s1/69], Sept. 11, 1967, [81 Stat. 213][/us/stat/81/213].
+    A prior section 8148, [Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 555][/us/stat/80/555], provided for a report to Congress by Secretary of Labor at beginning of each regular session covering work for preceding fiscal year under this subchapter, prior to repeal by [Pub. L. 90–83][/us/pl/90/83], § 1(69), Sept. 11, 1967, [81 Stat. 213][/us/stat/81/213].
 
  __Amendments__ 
 
@@ -39,7 +39,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 103–333, title I, § 101(c)][/us/pl/103/333/s101/c], Sept. 30, 1994, [108 Stat. 2548][/us/stat/108/2548], provided that: 
+[Pub. L. 103–333, title I][/us/pl/103/333/tI], § 101(c), Sept. 30, 1994, [108 Stat. 2548][/us/stat/108/2548], provided that: 
 
 > “The amendments made by this section \[enacting this section and amending [section 1920 of Title 18][/us/usc/t18/s1920], Crimes and Criminal Procedure\] shall take effect on the date of the enactment of this Act \[Sept. 30, 1994\]. The amendments made by subsection (a) \[enacting this section\] shall apply to claims filed before, on, or after the date of enactment of this Act, and shall apply only to individuals convicted after such date of enactment.”
 
@@ -52,16 +52,16 @@
 
 [/us/usc/t18/s1920]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1920
 [/us/usc/t5/s552a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552a
-[/us/pl/103/333/s101/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F333%2Fs101%2Fa%2F1
+[/us/pl/103/333/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F333%2FtI
 [/us/stat/108/2546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2546
-[/us/pl/105/247/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F247%2Fs1
+[/us/pl/105/247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F247
 [/us/stat/112/1863]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1863
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F555
-[/us/pl/90/83/s1/69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83%2Fs1%2F69
+[/us/pl/90/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83
 [/us/stat/81/213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F213
 [/us/pl/105/247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F247
-[/us/pl/103/333/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F333%2Fs101%2Fc
+[/us/pl/103/333/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F333%2FtI
 [/us/stat/108/2548]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2548
 [/us/usc/t18/s1920]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1920
 

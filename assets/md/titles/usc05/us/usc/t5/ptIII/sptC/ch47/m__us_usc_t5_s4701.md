@@ -39,7 +39,7 @@
 
     (b) This chapter shall not apply to any position in the Drug Enforcement Administration which is excluded from the competitive service under section 201 of the Crime Control Act of 1976 ([28 U.S.C. 509][/us/usc/t28/s509] note; [90 Stat. 2425][/us/stat/90/2425]).
 
-(Added [Pub. L. 95–454, title VI, § 601(a)][/us/pl/95/454/s601/a], Oct. 13, 1978, [92 Stat. 1185][/us/stat/92/1185]; amended [Pub. L. 96–54, § 2(a)(21)][/us/pl/96/54/s2/a/21], Aug. 14, 1979, [93 Stat. 382][/us/stat/93/382]; [Pub. L. 101–474, § 5(g)][/us/pl/101/474/s5/g], Oct. 30, 1990, [104 Stat. 1100][/us/stat/104/1100]; [Pub. L. 103–359, title V, § 501(f)][/us/pl/103/359/s501/f], Oct. 14, 1994, [108 Stat. 3429][/us/stat/108/3429]; [Pub. L. 104–201, div. A, title XI, § 1122(a)(1)][/us/pl/104/201/s1122/a/1], Sept. 23, 1996, [110 Stat. 2687][/us/stat/110/2687]; [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title IX, § 931(a)(1), Oct. 14, 2008, [122 Stat. 4575][/us/stat/122/4575]; [Pub. L. 113–235, div. H, title I, § 1301(b)][/us/pl/113/235/s1301/b], Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537].)
+(Added [Pub. L. 95–454, title VI][/us/pl/95/454/tVI], § 601(a), Oct. 13, 1978, [92 Stat. 1185][/us/stat/92/1185]; amended [Pub. L. 96–54][/us/pl/96/54], § 2(a)(21), Aug. 14, 1979, [93 Stat. 382][/us/stat/93/382]; [Pub. L. 101–474][/us/pl/101/474], § 5(g), Oct. 30, 1990, [104 Stat. 1100][/us/stat/104/1100]; [Pub. L. 103–359, title V][/us/pl/103/359/tV], § 501(f), Oct. 14, 1994, [108 Stat. 3429][/us/stat/108/3429]; [Pub. L. 104–201, div. A, title XI][/us/pl/104/201/dA/tXI], § 1122(a)(1), Sept. 23, 1996, [110 Stat. 2687][/us/stat/110/2687]; [Pub. L. 108–271][/us/pl/108/271], § 8(b), July 7, 2004, [118 Stat. 814][/us/stat/118/814]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title IX, § 931(a)(1), Oct. 14, 2008, [122 Stat. 4575][/us/stat/122/4575]; [Pub. L. 113–235, div. H, title I][/us/pl/113/235/dH/tI], § 1301(b), Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537].)
 
  __Amendments__ 
 
@@ -73,7 +73,7 @@
 
  __Design Elements of Pay-for-Performance Systems in Demonstration Projects__ 
 
-[Pub. L. 108–136, div. A, title XI, § 1126][/us/pl/108/136/s1126], Nov. 24, 2003, [117 Stat. 1640][/us/stat/117/1640], provided that: 
+[Pub. L. 108–136, div. A, title XI][/us/pl/108/136/dA/tXI], § 1126, Nov. 24, 2003, [117 Stat. 1640][/us/stat/117/1640], provided that: 
 
 > “A pay-for-performance system may not be initiated under chapter 47 of title 5, United States Code, after the date of the enactment of this Act \[Nov. 24, 2003\], unless it incorporates the following elements:
 
@@ -102,21 +102,21 @@
 
 [/us/usc/t28/s509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs509
 [/us/stat/90/2425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2425
-[/us/pl/95/454/s601/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs601%2Fa
+[/us/pl/95/454/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtVI
 [/us/stat/92/1185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1185
-[/us/pl/96/54/s2/a/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F54%2Fs2%2Fa%2F21
+[/us/pl/96/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F54
 [/us/stat/93/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F382
-[/us/pl/101/474/s5/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F474%2Fs5%2Fg
+[/us/pl/101/474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F474
 [/us/stat/104/1100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1100
-[/us/pl/103/359/s501/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F359%2Fs501%2Ff
+[/us/pl/103/359/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F359%2FtV
 [/us/stat/108/3429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3429
-[/us/pl/104/201/s1122/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1122%2Fa%2F1
+[/us/pl/104/201/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtXI
 [/us/stat/110/2687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2687
-[/us/pl/108/271/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271%2Fs8%2Fb
+[/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/stat/118/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F814
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4575
-[/us/pl/113/235/s1301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fb
+[/us/pl/113/235/dH/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2FdH%2FtI
 [/us/stat/128/2537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2537
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
@@ -136,7 +136,7 @@
 [/us/usc/t5/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs305
 [/us/pl/95/454/s907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs907
 [/us/usc/t5/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs1101
-[/us/pl/108/136/s1126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1126
+[/us/pl/108/136/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtXI
 [/us/stat/117/1640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1640
 
 

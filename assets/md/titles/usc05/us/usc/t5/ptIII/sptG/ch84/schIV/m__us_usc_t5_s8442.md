@@ -215,7 +215,7 @@
 
         (3) A lump-sum credit under subsection (c)(2) shall be subject to the same terms and conditions as apply with respect to a lump-sum credit under section 8424(b).
 
-(Added [Pub. L. 99–335, title I, § 101(a)][/us/pl/99/335/s101/a], June 6, 1986, [100 Stat. 559][/us/stat/100/559]; amended [Pub. L. 99–556, title I, § 120][/us/pl/99/556/s120], Oct. 27, 1986, [100 Stat. 3134][/us/stat/100/3134]; [Pub. L. 100–238, title I, § 131(b)][/us/pl/100/238/s131/b], Jan. 8, 1988, [101 Stat. 1760][/us/stat/101/1760]; [Pub. L. 105–61, title V, § 518(b)(1)][/us/pl/105/61/s518/b/1], Oct. 10, 1997, [111 Stat. 1307][/us/stat/111/1307].)
+(Added [Pub. L. 99–335, title I][/us/pl/99/335/tI], § 101(a), June 6, 1986, [100 Stat. 559][/us/stat/100/559]; amended [Pub. L. 99–556, title I][/us/pl/99/556/tI], § 120, Oct. 27, 1986, [100 Stat. 3134][/us/stat/100/3134]; [Pub. L. 100–238, title I][/us/pl/100/238/tI], § 131(b), Jan. 8, 1988, [101 Stat. 1760][/us/stat/101/1760]; [Pub. L. 105–61, title V][/us/pl/105/61/tV], § 518(b)(1), Oct. 10, 1997, [111 Stat. 1307][/us/stat/111/1307].)
 
  __References in Text__ 
 
@@ -223,13 +223,13 @@
 
  __Amendments__ 
 
-    1997—Subsec. (d)(1)(B). [Pub. L. 105–61, § 518(b)(1)(B)][/us/pl/105/61/s518/b/1/B], substituted “except as provided in paragraph (3), remarries” for “remarries”.
+    1997—Subsec. (d)(1)(B). [Pub. L. 105–61][/us/pl/105/61], § 518(b)(1)(B), substituted “except as provided in paragraph (3), remarries” for “remarries”.
 
-    Subsec. (d)(3). [Pub. L. 105–61, § 518(b)(1)(A)][/us/pl/105/61/s518/b/1/A], added par. (3).
+    Subsec. (d)(3). [Pub. L. 105–61][/us/pl/105/61], § 518(b)(1)(A), added par. (3).
 
-    1988—Subsec. (a)(1). [Pub. L. 100–238, § 131(b)(1)][/us/pl/100/238/s131/b/1], inserted “(or one-half thereof, if designated for this purpose under [section 8419 of this title][/us/usc/t5/s8419]),” after “with respect to the annuitant,”.
+    1988—Subsec. (a)(1). [Pub. L. 100–238][/us/pl/100/238], § 131(b)(1), inserted “(or one-half thereof, if designated for this purpose under [section 8419 of this title][/us/usc/t5/s8419]),” after “with respect to the annuitant,”.
 
-    Subsec. (g)(1). [Pub. L. 100–238, § 131(b)(2)][/us/pl/100/238/s131/b/2], inserted “(or one-half thereof if designated for this purpose under [section 8419 of this title][/us/usc/t5/s8419])” after “paragraph (2)”.
+    Subsec. (g)(1). [Pub. L. 100–238][/us/pl/100/238], § 131(b)(2), inserted “(or one-half thereof if designated for this purpose under [section 8419 of this title][/us/usc/t5/s8419])” after “paragraph (2)”.
 
     1986—Subsec. (c)(2)(B)(i)(I). [Pub. L. 99–556][/us/pl/99/556] which directed that subsec. (c)(2)(B)(i)(I) of this section be amended generally was executed to subsec. (c)(2)(B)(i)(I) of this section, as the probable intent of Congress. Prior to the amendment, subcl. (I) read as follows: “on the day after the date on which the former employee or Member would have attained age 62; or”.
 
@@ -246,22 +246,22 @@
 
 [/us/usc/t5/s8419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8419
 [/us/usc/t5/s8419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8419
-[/us/pl/99/335/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2Fs101%2Fa
+[/us/pl/99/335/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2FtI
 [/us/stat/100/559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F559
-[/us/pl/99/556/s120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F556%2Fs120
+[/us/pl/99/556/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F556%2FtI
 [/us/stat/100/3134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3134
-[/us/pl/100/238/s131/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F238%2Fs131%2Fb
+[/us/pl/100/238/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F238%2FtI
 [/us/stat/101/1760]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1760
-[/us/pl/105/61/s518/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F61%2Fs518%2Fb%2F1
+[/us/pl/105/61/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F61%2FtV
 [/us/stat/111/1307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1307
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
 [/us/usc/t42/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1305
-[/us/pl/105/61/s518/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F61%2Fs518%2Fb%2F1%2FB
-[/us/pl/105/61/s518/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F61%2Fs518%2Fb%2F1%2FA
-[/us/pl/100/238/s131/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F238%2Fs131%2Fb%2F1
+[/us/pl/105/61]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F61
+[/us/pl/105/61]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F61
+[/us/pl/100/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F238
 [/us/usc/t5/s8419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8419
-[/us/pl/100/238/s131/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F238%2Fs131%2Fb%2F2
+[/us/pl/100/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F238
 [/us/usc/t5/s8419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8419
 [/us/pl/99/556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F556
 [/us/pl/105/61]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F61

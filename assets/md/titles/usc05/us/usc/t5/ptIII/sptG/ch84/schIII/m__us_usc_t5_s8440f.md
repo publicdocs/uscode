@@ -111,7 +111,7 @@
 
     (b) Notwithstanding any limitation under this section, an eligible participant (as defined by section 414(v) of the Internal Revenue Code of 1986) may make such additional contributions to the Thrift Savings Fund as are permitted by such section 414(v) and regulations of the Executive Director consistent therewith.
 
-(Added [Pub. L. 106–554, § 1(a)(4)][/us/pl/106/554/s1/a/4] \[div. B, title I, § 138(a)(7)(A)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–234; amended [Pub. L. 107–304, § 1(b)(2)][/us/pl/107/304/s1/b/2], Nov. 27, 2002, [116 Stat. 2363][/us/stat/116/2363].)
+(Added [Pub. L. 106–554][/us/pl/106/554], § 1(a)(4) \[div. B, title I, § 138(a)(7)(A)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–234; amended [Pub. L. 107–304][/us/pl/107/304], § 1(b)(2), Nov. 27, 2002, [116 Stat. 2363][/us/stat/116/2363].)
 
  __References in Text__ 
 
@@ -132,9 +132,9 @@
 ----------
 ----------
 
-[/us/pl/106/554/s1/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F4
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/107/304/s1/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F304%2Fs1%2Fb%2F2
+[/us/pl/107/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F304
 [/us/stat/116/2363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2363
 [/us/usc/t26/s414/v]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs414%2Fv
 [/us/pl/107/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F304

@@ -117,23 +117,23 @@
 
     (i) The Executive Director shall prescribe regulations to carry out this section.
 
-(Added [Pub. L. 103–353, § 4(a)(1)][/us/pl/103/353/s4/a/1], Oct. 13, 1994, [108 Stat. 3170][/us/stat/108/3170]; amended [Pub. L. 106–65, div. A, title VI, § 661(a)(3)(A)][/us/pl/106/65/s661/a/3/A], (C), Oct. 5, 1999, [113 Stat. 671][/us/stat/113/671]; [Pub. L. 114–92, div. A, title VI, § 632(e)(2)][/us/pl/114/92/s632/e/2], Nov. 25, 2015, [129 Stat. 847][/us/stat/129/847].)
+(Added [Pub. L. 103–353][/us/pl/103/353], § 4(a)(1), Oct. 13, 1994, [108 Stat. 3170][/us/stat/108/3170]; amended [Pub. L. 106–65, div. A, title VI][/us/pl/106/65/dA/tVI], § 661(a)(3)(A), (C), Oct. 5, 1999, [113 Stat. 671][/us/stat/113/671]; [Pub. L. 114–92, div. A, title VI][/us/pl/114/92/dA/tVI], § 632(e)(2), Nov. 25, 2015, [129 Stat. 847][/us/stat/129/847].)
 
  __Amendment of Subsection (c)(2)(B)__ 
 
-    [Pub. L. 114–92, div. A, title VI][/us/pl/114/92], §§ 632(e)(2), 635, Nov. 25, 2015, [129 Stat. 847][/us/stat/129/847], 851, provided that, effective Jan. 1, 2018, with certain implementation requirements, subsection (c)(2)(B) of this section is amended by striking “(including pursuant to an agreement under [section 211(d) of title 37][/us/usc/t37/s211/d])”. See 2015 Amendment note below.
+    [Pub. L. 114–92, div. A, title VI][/us/pl/114/92/dA/tVI], §§ 632(e)(2), 635, Nov. 25, 2015, [129 Stat. 847][/us/stat/129/847], 851, provided that, effective Jan. 1, 2018, with certain implementation requirements, subsection (c)(2)(B) of this section is amended by striking “(including pursuant to an agreement under [section 211(d) of title 37][/us/usc/t37/s211/d])”. See 2015 Amendment note below.
 
  __References in Text__ 
 
-    Section 8433(h), referred to in subsec. (h)(2)(A), was redesignated section 8433(f) by [Pub. L. 103–226, § 9(b)(2)][/us/pl/103/226/s9/b/2], Mar. 30, 1994, [108 Stat. 119][/us/stat/108/119].
+    Section 8433(h), referred to in subsec. (h)(2)(A), was redesignated section 8433(f) by [Pub. L. 103–226][/us/pl/103/226], § 9(b)(2), Mar. 30, 1994, [108 Stat. 119][/us/stat/108/119].
 
  __Amendments__ 
 
     2015—Subsec. (c)(2)(B). [Pub. L. 114–92][/us/pl/114/92] struck out “(including pursuant to an agreement under [section 211(d) of title 37][/us/usc/t37/s211/d])” before “with respect to the period”.
 
-    1999—Subsec. (b)(2)(B). [Pub. L. 106–65, § 661(a)(3)(A)][/us/pl/106/65/s661/a/3/A], inserted “or 8440e” after “section 8432(a)”.
+    1999—Subsec. (b)(2)(B). [Pub. L. 106–65][/us/pl/106/65], § 661(a)(3)(A), inserted “or 8440e” after “section 8432(a)”.
 
-    Subsec. (c). [Pub. L. 106–65, § 661(a)(3)(C)][/us/pl/106/65/s661/a/3/C], designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), and added par. (2).
+    Subsec. (c). [Pub. L. 106–65][/us/pl/106/65], § 661(a)(3)(C), designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), and added par. (2).
 
  __Effective Date of 2015 Amendment; Implementation__ 
 
@@ -145,7 +145,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 103–353, § 4(e)][/us/pl/103/353/s4/e], (f), Oct. 13, 1994, [108 Stat. 3172][/us/stat/108/3172], 3173, provided that:
+[Pub. L. 103–353][/us/pl/103/353], § 4(e), (f), Oct. 13, 1994, [108 Stat. 3172][/us/stat/108/3172], 3173, provided that:
 
 >     “(e)  __Effective Date; Applicability__  __.—__ 
 
@@ -187,28 +187,28 @@
 ----------
 
 [/us/usc/t37/s211/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs211%2Fd
-[/us/pl/103/353/s4/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F353%2Fs4%2Fa%2F1
+[/us/pl/103/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F353
 [/us/stat/108/3170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3170
-[/us/pl/106/65/s661/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs661%2Fa%2F3%2FA
+[/us/pl/106/65/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtVI
 [/us/stat/113/671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F671
-[/us/pl/114/92/s632/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs632%2Fe%2F2
+[/us/pl/114/92/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtVI
 [/us/stat/129/847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F847
-[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/pl/114/92/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtVI
 [/us/stat/129/847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F847
 [/us/usc/t37/s211/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs211%2Fd
-[/us/pl/103/226/s9/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F226%2Fs9%2Fb%2F2
+[/us/pl/103/226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F226
 [/us/stat/108/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F119
 [/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
 [/us/usc/t37/s211/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs211%2Fd
-[/us/pl/106/65/s661/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs661%2Fa%2F3%2FA
-[/us/pl/106/65/s661/a/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs661%2Fa%2F3%2FC
+[/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
+[/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
 [/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
 [/us/pl/114/92/s635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs635
 [/us/usc/t5/s8432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8432
 [/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
 [/us/pl/106/65/s663]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs663
 [/us/usc/t5/s8440e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8440e
-[/us/pl/103/353/s4/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F353%2Fs4%2Fe
+[/us/pl/103/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F353
 [/us/stat/108/3172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3172
 [/us/usc/t5/s8432b/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8432b%2Fa
 

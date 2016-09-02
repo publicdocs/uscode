@@ -175,7 +175,7 @@
 
     (k) The provisions of this section do not apply to grants and other forms of assistance to which section 108A of the Mutual Educational and Cultural Exchange Act of 1961 applies.
 
-(Added [Pub. L. 90–83, § 1(45)(C)][/us/pl/90/83/s1/45/C], Sept. 11, 1967, [81 Stat. 208][/us/stat/81/208]; amended [Pub. L. 95–105, title V, § 515(a)(1)][/us/pl/95/105/s515/a/1], Aug. 17, 1977, [91 Stat. 862][/us/stat/91/862]; [Pub. L. 95–426, title VII, § 712(a)][/us/pl/95/426/s712/a]–(c), Oct. 7, 1978, [92 Stat. 994][/us/stat/92/994]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 107–217, § 3(a)(1)][/us/pl/107/217/s3/a/1], Aug. 21, 2002, [116 Stat. 1295][/us/stat/116/1295]; [Pub. L. 108–458, title I, § 1079(b)][/us/pl/108/458/s1079/b], Dec. 17, 2004, [118 Stat. 3696][/us/stat/118/3696]; [Pub. L. 109–435, title VI, § 604(b)][/us/pl/109/435/s604/b], Dec. 20, 2006, [120 Stat. 3241][/us/stat/120/3241]; [Pub. L. 111–259, title III, § 361][/us/pl/111/259/s361], Oct. 7, 2010, [124 Stat. 2701][/us/stat/124/2701]; [Pub. L. 111–350, § 5(a)(10)][/us/pl/111/350/s5/a/10], Jan. 4, 2011, [124 Stat. 3841][/us/stat/124/3841].)
+(Added [Pub. L. 90–83][/us/pl/90/83], § 1(45)(C), Sept. 11, 1967, [81 Stat. 208][/us/stat/81/208]; amended [Pub. L. 95–105, title V][/us/pl/95/105/tV], § 515(a)(1), Aug. 17, 1977, [91 Stat. 862][/us/stat/91/862]; [Pub. L. 95–426, title VII][/us/pl/95/426/tVII], § 712(a)–(c), Oct. 7, 1978, [92 Stat. 994][/us/stat/92/994]; [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 107–217][/us/pl/107/217], § 3(a)(1), Aug. 21, 2002, [116 Stat. 1295][/us/stat/116/1295]; [Pub. L. 108–458, title I][/us/pl/108/458/tI], § 1079(b), Dec. 17, 2004, [118 Stat. 3696][/us/stat/118/3696]; [Pub. L. 109–435, title VI][/us/pl/109/435/tVI], § 604(b), Dec. 20, 2006, [120 Stat. 3241][/us/stat/120/3241]; [Pub. L. 111–259, title III][/us/pl/111/259/tIII], § 361, Oct. 7, 2010, [124 Stat. 2701][/us/stat/124/2701]; [Pub. L. 111–350][/us/pl/111/350], § 5(a)(10), Jan. 4, 2011, [124 Stat. 3841][/us/stat/124/3841].)
 
 <table>
 
@@ -321,15 +321,15 @@ Oct. 15, 1966, Pub. L. 89–673, § 7, 80 Stat. 952.  </td>
 
     1986—Subsecs. (a)(1)(G), (e)(2). [Pub. L. 99–514][/us/pl/99/514] substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 
-    1978—Subsec. (a)(6)(A). [Pub. L. 95–426, § 712(a)(1)][/us/pl/95/426/s712/a/1], substituted “(e)(1)” for “(e)”.
+    1978—Subsec. (a)(6)(A). [Pub. L. 95–426][/us/pl/95/426], § 712(a)(1), substituted “(e)(1)” for “(e)”.
 
-    Subsec. (a)(6)(B). [Pub. L. 95–426, § 712(a)(2)][/us/pl/95/426/s712/a/2], inserted “, except that those responsibilities (other than responsibilities involving approval of the employing agency) specified in subsection (c)(2), (d), and (g)(2)(B) shall be carried out by the Secretary of the Senate”.
+    Subsec. (a)(6)(B). [Pub. L. 95–426][/us/pl/95/426], § 712(a)(2), inserted “, except that those responsibilities (other than responsibilities involving approval of the employing agency) specified in subsection (c)(2), (d), and (g)(2)(B) shall be carried out by the Secretary of the Senate”.
 
-    Subsec. (c)(2). [Pub. L. 95–426, § 712(b)(1)][/us/pl/95/426/s712/b/1], substituted “subsection (e)(1) or provide for its disposal in accordance with subsection (e)(2)” for “subsection (e)”.
+    Subsec. (c)(2). [Pub. L. 95–426][/us/pl/95/426], § 712(b)(1), substituted “subsection (e)(1) or provide for its disposal in accordance with subsection (e)(2)” for “subsection (e)”.
 
-    Subsec. (d). [Pub. L. 95–426, § 712(b)(2)][/us/pl/95/426/s712/b/2], substituted “official use, for forwarding”, for “official use, or forwarding”, and “subsection (e)(1), or for disposal in accordance with subsection (e)(2)” for “subsection (e)”.
+    Subsec. (d). [Pub. L. 95–426][/us/pl/95/426], § 712(b)(2), substituted “official use, for forwarding”, for “official use, or forwarding”, and “subsection (e)(1), or for disposal in accordance with subsection (e)(2)” for “subsection (e)”.
 
-    Subsec. (e). [Pub. L. 95–426, § 712(c)][/us/pl/95/426/s712/c], designated existing provisions as par. (1), substituted “Except as provided in paragraph (2), gifts” for “Gifts”, “(A)” and “(B)” for “(1)” and “(2)”, respectively, and added par. (2).
+    Subsec. (e). [Pub. L. 95–426][/us/pl/95/426], § 712(c), designated existing provisions as par. (1), substituted “Except as provided in paragraph (2), gifts” for “Gifts”, “(A)” and “(B)” for “(1)” and “(2)”, respectively, and added par. (2).
 
     1977—Subsec. (a). [Pub. L. 95–105][/us/pl/95/105] in par. (1) inserted provisions expanding definition of “employee” to include an officer or employee of the United States Postal Service or Postal Rate Commission, certain experts and consultants, the Vice President, and any Delegate to Congress, in par. (2) incorporated existing provisions into subpars. (A) and (C) and added subpar. (B), in par. (3) substituted reference to tangible or intangible present for reference to present, in par. (4) inserted reference to award, and added pars. (5) and (6).
 
@@ -355,7 +355,7 @@ Oct. 15, 1966, Pub. L. 89–673, § 7, 80 Stat. 952.  </td>
 
  __Effective Date of 1977 Amendment__ 
 
-[Pub. L. 95–105, title V, § 515(a)(2)][/us/pl/95/105/s515/a/2], Aug. 17, 1977, [91 Stat. 866][/us/stat/91/866], provided that: 
+[Pub. L. 95–105, title V][/us/pl/95/105/tV], § 515(a)(2), Aug. 17, 1977, [91 Stat. 866][/us/stat/91/866], provided that: 
 
 > “The amendment made by paragraph (1) of this subsection \[amending this section\] shall take effect on January 1, 1978.”
 
@@ -365,13 +365,13 @@ Oct. 15, 1966, Pub. L. 89–673, § 7, 80 Stat. 952.  </td>
 
  __Leasing of Space and Facilities for Storing and Safeguarding Property__ 
 
-[Pub. L. 95–426, title VII, § 712(d)][/us/pl/95/426/s712/d], Oct. 7, 1978, [92 Stat. 995][/us/stat/92/995], provided that: 
+[Pub. L. 95–426, title VII][/us/pl/95/426/tVII], § 712(d), Oct. 7, 1978, [92 Stat. 995][/us/stat/92/995], provided that: 
 
 > “In the event that the space and facilities available to the Secretary of the Senate for carrying out his responsibilities in storing and safeguarding property in his custody under [section 7342 of title 5][/us/usc/t5/s7342], United States Code, are insufficient for such purpose, he may, with the approval of the Committee on Rules and Administration of the Senate, lease such space and facilities as may be necessary for such purpose. Rental payments under any such lease and expenses incurred in connection therewith shall be paid from the contingent fund of the Senate upon vouchers approved by the Secretary of the Senate.”
 
  __Wearing of Certain Decorations__ 
 
-[Act Aug. 10, 1956, ch. 1041, § 33A][/us/act/1956-08-10/ch1041/s33A], [70 Stat. 1126][/us/stat/70/1126], as added by [Pub. L. 85–861][/us/pl/85/861], Sept. 2, 1958, § 33(e), [72 Stat. 1567][/us/stat/72/1567], provided: 
+[Act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], § 33A, [70 Stat. 1126][/us/stat/70/1126], as added by [Pub. L. 85–861][/us/pl/85/861], Sept. 2, 1958, § 33(e), [72 Stat. 1567][/us/stat/72/1567], provided: 
 
 > “A member or former member of an armed force of the United States holding any office of profit or trust under the United States may wear any decoration, order, medal, or emblem accepted (1) under the Act of July 20, 1942, chapter 508 ([56 Stat. 662][/us/stat/56/662]), or (2) before August 1, 1947, from the government of a cobelligerent or neutral nation or an American Republic.”
 
@@ -396,23 +396,23 @@ Oct. 15, 1966, Pub. L. 89–673, § 7, 80 Stat. 952.  </td>
 [/us/usc/t5/s3109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3109
 [/us/usc/t5/s2106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs2106
 [/us/usc/t50/s401a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs401a%2F4
-[/us/pl/90/83/s1/45/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83%2Fs1%2F45%2FC
+[/us/pl/90/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83
 [/us/stat/81/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F208
-[/us/pl/95/105/s515/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F105%2Fs515%2Fa%2F1
+[/us/pl/95/105/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F105%2FtV
 [/us/stat/91/862]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F862
-[/us/pl/95/426/s712/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F426%2Fs712%2Fa
+[/us/pl/95/426/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F426%2FtVII
 [/us/stat/92/994]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F994
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
-[/us/pl/107/217/s3/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs3%2Fa%2F1
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1295
-[/us/pl/108/458/s1079/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs1079%2Fb
+[/us/pl/108/458/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtI
 [/us/stat/118/3696]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3696
-[/us/pl/109/435/s604/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2Fs604%2Fb
+[/us/pl/109/435/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2FtVI
 [/us/stat/120/3241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3241
-[/us/pl/111/259/s361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs361
+[/us/pl/111/259/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2FtIII
 [/us/stat/124/2701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2701
-[/us/pl/111/350/s5/a/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs5%2Fa%2F10
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3841
 [/us/usc/t5/s2105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs2105
 [/us/usc/t22/s2621/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2621%2F1
@@ -433,11 +433,11 @@ Oct. 15, 1966, Pub. L. 89–673, § 7, 80 Stat. 952.  </td>
 [/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/usc/t41/s251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs251
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
-[/us/pl/95/426/s712/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F426%2Fs712%2Fa%2F1
-[/us/pl/95/426/s712/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F426%2Fs712%2Fa%2F2
-[/us/pl/95/426/s712/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F426%2Fs712%2Fb%2F1
-[/us/pl/95/426/s712/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F426%2Fs712%2Fb%2F2
-[/us/pl/95/426/s712/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F426%2Fs712%2Fc
+[/us/pl/95/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F426
+[/us/pl/95/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F426
+[/us/pl/95/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F426
+[/us/pl/95/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F426
+[/us/pl/95/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F426
 [/us/pl/95/105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F105
 [/us/pl/95/105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F105
 [/us/pl/95/105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F105
@@ -449,12 +449,12 @@ Oct. 15, 1966, Pub. L. 89–673, § 7, 80 Stat. 952.  </td>
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
 [/us/pl/108/458/s1097/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs1097%2Fa
 [/us/usc/t50/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3001
-[/us/pl/95/105/s515/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F105%2Fs515%2Fa%2F2
+[/us/pl/95/105/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F105%2FtV
 [/us/stat/91/866]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F866
-[/us/pl/95/426/s712/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F426%2Fs712%2Fd
+[/us/pl/95/426/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F426%2FtVII
 [/us/stat/92/995]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F995
 [/us/usc/t5/s7342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs7342
-[/us/act/1956-08-10/ch1041/s33A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041%2Fs33A
+[/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70/1126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F1126
 [/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
 [/us/stat/72/1567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1567

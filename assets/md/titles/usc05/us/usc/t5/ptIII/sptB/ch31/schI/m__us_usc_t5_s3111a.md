@@ -59,7 +59,7 @@
 
         (3) the term “agency” means an Executive agency.
 
-(Added [Pub. L. 112–81, div. A, title XI, § 1109(a)][/us/pl/112/81/s1109/a], Dec. 31, 2011, [125 Stat. 1614][/us/stat/125/1614].)
+(Added [Pub. L. 112–81, div. A, title XI][/us/pl/112/81/dA/tXI], § 1109(a), Dec. 31, 2011, [125 Stat. 1614][/us/stat/125/1614].)
 
  __References in Text__ 
 
@@ -67,7 +67,7 @@
 
  __Regulations__ 
 
-[Pub. L. 112–81, div. A, title XI, § 1109(c)][/us/pl/112/81/s1109/c], Dec. 31, 2011, [125 Stat. 1615][/us/stat/125/1615], provided that: 
+[Pub. L. 112–81, div. A, title XI][/us/pl/112/81/dA/tXI], § 1109(c), Dec. 31, 2011, [125 Stat. 1615][/us/stat/125/1615], provided that: 
 
 > “The Office of Personnel Management may prescribe regulations to carry out the amendment made by subsection (a) \[enacting this section\].”
 
@@ -78,10 +78,10 @@
 ----------
 ----------
 
-[/us/pl/112/81/s1109/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1109%2Fa
+[/us/pl/112/81/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtXI
 [/us/stat/125/1614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1614
 [/us/usc/t5/s3301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3301
-[/us/pl/112/81/s1109/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1109%2Fc
+[/us/pl/112/81/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtXI
 [/us/stat/125/1615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1615
 
 

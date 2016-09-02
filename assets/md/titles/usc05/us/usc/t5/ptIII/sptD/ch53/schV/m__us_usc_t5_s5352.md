@@ -17,7 +17,7 @@
 
     The head of each agency, and the District of Columbia Council with respect to the government of the District of Columbia, shall fix the stipends of its student-employees. The stipend may not exceed the applicable maximum prescribed by the Office of Personnel Management.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 472][/us/stat/80/472]; [Pub. L. 90–623, § 1(7)][/us/pl/90/623/s1/7], Oct. 22, 1968, [82 Stat. 1312][/us/stat/82/1312]; [Pub. L. 95–454, title IX, § 906(a)(2)][/us/pl/95/454/s906/a/2], Oct. 13, 1978, [92 Stat. 1224][/us/stat/92/1224].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 472][/us/stat/80/472]; [Pub. L. 90–623][/us/pl/90/623], § 1(7), Oct. 22, 1968, [82 Stat. 1312][/us/stat/82/1312]; [Pub. L. 95–454, title IX][/us/pl/95/454/tIX], § 906(a)(2), Oct. 13, 1978, [92 Stat. 1224][/us/stat/92/1224].)
 
 <table>
 
@@ -83,7 +83,7 @@ Aug. 4, 1947, ch. 452, § 3 (1st sentence), 61 Stat. 727.  </td>
 
  __Transfer of Functions__ 
 
-    District of Columbia Council, as established by Reorg. Plan No. 3 of 1967, abolished as of noon Jan. 2, 1975, by [Pub. L. 93–198, title VII, § 711][/us/pl/93/198/s711], Dec. 24, 1973, [87 Stat. 818][/us/stat/87/818], and replaced by Council of District of Columbia, as provided by [section 401 of Pub. L. 93–198][/us/pl/93/198/s401].
+    District of Columbia Council, as established by Reorg. Plan No. 3 of 1967, abolished as of noon Jan. 2, 1975, by [Pub. L. 93–198, title VII][/us/pl/93/198/tVII], § 711, Dec. 24, 1973, [87 Stat. 818][/us/stat/87/818], and replaced by Council of District of Columbia, as provided by [section 401 of Pub. L. 93–198][/us/pl/93/198/s401].
 
 ----------
 
@@ -94,9 +94,9 @@ Aug. 4, 1947, ch. 452, § 3 (1st sentence), 61 Stat. 727.  </td>
 
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F472
-[/us/pl/90/623/s1/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F623%2Fs1%2F7
+[/us/pl/90/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F623
 [/us/stat/82/1312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1312
-[/us/pl/95/454/s906/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs906%2Fa%2F2
+[/us/pl/95/454/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtIX
 [/us/stat/92/1224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1224
 [/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454
 [/us/pl/90/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F623
@@ -106,7 +106,7 @@ Aug. 4, 1947, ch. 452, § 3 (1st sentence), 61 Stat. 727.  </td>
 [/us/pl/90/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F623
 [/us/pl/90/623/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F623%2Fs6
 [/us/usc/t5/s5334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5334
-[/us/pl/93/198/s711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F198%2Fs711
+[/us/pl/93/198/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F198%2FtVII
 [/us/stat/87/818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F818
 [/us/pl/93/198/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F198%2Fs401
 

@@ -17,7 +17,7 @@
 
     An award under this subchapter is in addition to the basic pay of the recipient.
 
-(Added [Pub. L. 101–509, title V, § 529][/us/pl/101/509/s529] \[title IV, § 408(a)\], Nov. 5, 1990, [104 Stat. 1427][/us/stat/104/1427], 1467.)
+(Added [Pub. L. 101–509, title V][/us/pl/101/509/tV], § 529 \[title IV, § 408(a)\], Nov. 5, 1990, [104 Stat. 1427][/us/stat/104/1427], 1467.)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/101/509/s529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2Fs529
+[/us/pl/101/509/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2FtV
 [/us/stat/104/1427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1427
 
 

@@ -29,7 +29,7 @@
 
     (d) A reorganization plan which is effective shall be printed (1) in the Statutes at Large in the same volume as the public laws and (2) in the Federal Register.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 396][/us/stat/80/396]; [Pub. L. 95–17, § 2][/us/pl/95/17/s2], Apr. 6, 1977, [91 Stat. 32][/us/stat/91/32]; [Pub. L. 98–614, § 3(a)][/us/pl/98/614/s3/a], Nov. 8, 1984, [98 Stat. 3192][/us/stat/98/3192].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 396][/us/stat/80/396]; [Pub. L. 95–17][/us/pl/95/17], § 2, Apr. 6, 1977, [91 Stat. 32][/us/stat/91/32]; [Pub. L. 98–614][/us/pl/98/614], § 3(a), Nov. 8, 1984, [98 Stat. 3192][/us/stat/98/3192].)
 
 <table>
 
@@ -99,9 +99,9 @@ June 20, 1949, ch. 226, § 11, 63 Stat. 206.  </td>
 
  __Amendments__ 
 
-    1984—Subsec. (a). [Pub. L. 98–614, § 3(a)(1)][/us/pl/98/614/s3/a/1], struck out “otherwise” before “provided under subsection (c)”, substituted “shall be” for “is” before “effective”, and substituted “upon approval by the President of a resolution (as defined in section 909) with respect to such plan, if such resolution is passed by the House of Representatives and the Senate, within the first period of 90 calendar days of continuous session of Congress after the date on which the plan is transmitted to Congress. Failure of either House to act upon such resolution by the end of such period shall be the same as disapproval of the resolution” for “at the end of the first period of sixty calendar days of continuous session of Congress after the date on which the plan is transmitted to it unless, between the date of transmittal and the end of the sixty-day period, either House passes a resolution stating in substance that the House does not favor the reorganization plan.”
+    1984—Subsec. (a). [Pub. L. 98–614][/us/pl/98/614], § 3(a)(1), struck out “otherwise” before “provided under subsection (c)”, substituted “shall be” for “is” before “effective”, and substituted “upon approval by the President of a resolution (as defined in section 909) with respect to such plan, if such resolution is passed by the House of Representatives and the Senate, within the first period of 90 calendar days of continuous session of Congress after the date on which the plan is transmitted to Congress. Failure of either House to act upon such resolution by the end of such period shall be the same as disapproval of the resolution” for “at the end of the first period of sixty calendar days of continuous session of Congress after the date on which the plan is transmitted to it unless, between the date of transmittal and the end of the sixty-day period, either House passes a resolution stating in substance that the House does not favor the reorganization plan.”
 
-    Subsec. (c). [Pub. L. 98–614, § 3(a)(2)][/us/pl/98/614/s3/a/2], struck out before period at end “or, if both Houses of Congress have defeated a resolution of disapproval, may be effective at a time earlier than the expiration of the sixty-day period required by subsection (a)”.
+    Subsec. (c). [Pub. L. 98–614][/us/pl/98/614], § 3(a)(2), struck out before period at end “or, if both Houses of Congress have defeated a resolution of disapproval, may be effective at a time earlier than the expiration of the sixty-day period required by subsection (a)”.
 
     1977—Subsec. (a). [Pub. L. 95–17][/us/pl/95/17] substituted “sixty” for “60” in two places.
 
@@ -128,12 +128,12 @@ June 20, 1949, ch. 226, § 11, 63 Stat. 206.  </td>
 
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F396
-[/us/pl/95/17/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F17%2Fs2
+[/us/pl/95/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F17
 [/us/stat/91/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F32
-[/us/pl/98/614/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F614%2Fs3%2Fa
+[/us/pl/98/614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F614
 [/us/stat/98/3192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3192
-[/us/pl/98/614/s3/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F614%2Fs3%2Fa%2F1
-[/us/pl/98/614/s3/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F614%2Fs3%2Fa%2F2
+[/us/pl/98/614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F614
+[/us/pl/98/614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F614
 [/us/pl/95/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F17
 [/us/pl/95/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F17
 [/us/pl/95/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F17

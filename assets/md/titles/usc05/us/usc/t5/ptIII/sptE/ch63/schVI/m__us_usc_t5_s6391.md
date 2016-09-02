@@ -35,7 +35,7 @@
 
     (g) The Office shall prescribe regulations necessary for the administration of this section.
 
-(Added [Pub. L. 105–18, title II, § 9004(a)][/us/pl/105/18/s9004/a], June 12, 1997, [111 Stat. 196][/us/stat/111/196]; amended [Pub. L. 109–229, § 1][/us/pl/109/229/s1], May 31, 2006, [120 Stat. 390][/us/stat/120/390].)
+(Added [Pub. L. 105–18, title II][/us/pl/105/18/tII], § 9004(a), June 12, 1997, [111 Stat. 196][/us/stat/111/196]; amended [Pub. L. 109–229][/us/pl/109/229], § 1, May 31, 2006, [120 Stat. 390][/us/stat/120/390].)
 
  __Amendments__ 
 
@@ -48,9 +48,9 @@
 ----------
 ----------
 
-[/us/pl/105/18/s9004/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F18%2Fs9004%2Fa
+[/us/pl/105/18/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F18%2FtII
 [/us/stat/111/196]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F196
-[/us/pl/109/229/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F229%2Fs1
+[/us/pl/109/229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F229
 [/us/stat/120/390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F390
 [/us/pl/109/229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F229
 

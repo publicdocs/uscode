@@ -31,7 +31,7 @@
 
     (c) Subsection (a) shall not be construed to provide that any amount of the employee’s or Member’s basic pay which is contributed to the Thrift Savings Fund shall not be included in the term “wages” for the purposes of section 209 of the Social Security Act or section 3121(a) of the Internal Revenue Code of 1986.
 
-(Added [Pub. L. 99–335, title I, § 101(a)][/us/pl/99/335/s101/a], June 6, 1986, [100 Stat. 557][/us/stat/100/557]; amended [Pub. L. 100–202, § 101(m)][/us/pl/100/202/s101/m] \[title VI, § 624(b)\], Dec. 22, 1987, [101 Stat. 1329–390][/us/stat/101/1329-390], 1329–430; [Pub. L. 100–647, title I, § 1011A(m)(2)][/us/pl/100/647/s1011A/m/2], Nov. 10, 1988, [102 Stat. 3483][/us/stat/102/3483]; [Pub. L. 102–378, § 2(69)][/us/pl/102/378/s2/69], Oct. 2, 1992, [106 Stat. 1355][/us/stat/106/1355]; [Pub. L. 103–353, § 5(e)(5)][/us/pl/103/353/s5/e/5], Oct. 13, 1994, [108 Stat. 3174][/us/stat/108/3174].)
+(Added [Pub. L. 99–335, title I][/us/pl/99/335/tI], § 101(a), June 6, 1986, [100 Stat. 557][/us/stat/100/557]; amended [Pub. L. 100–202][/us/pl/100/202], § 101(m) \[title VI, § 624(b)\], Dec. 22, 1987, [101 Stat. 1329–390][/us/stat/101/1329-390], 1329–430; [Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1011A(m)(2), Nov. 10, 1988, [102 Stat. 3483][/us/stat/102/3483]; [Pub. L. 102–378][/us/pl/102/378], § 2(69), Oct. 2, 1992, [106 Stat. 1355][/us/stat/106/1355]; [Pub. L. 103–353][/us/pl/103/353], § 5(e)(5), Oct. 13, 1994, [108 Stat. 3174][/us/stat/108/3174].)
 
  __References in Text__ 
 
@@ -45,11 +45,11 @@
 
     1992—Subsec. (a)(3). [Pub. L. 102–378][/us/pl/102/378] inserted “section 401(k)(4)(B) of such Code and” after “subject to”.
 
-    1988—Subsec. (a)(3). [Pub. L. 100–647][/us/pl/100/647], which directed the insertion of “, 401(k)(4)(B) of such Code,” after “subsection (b)”, could not be executed because of previous amendment by [Pub. L. 100–202, § 101(m)][/us/pl/100/202/s101/m] \[title VI, § 624(b)(1)\] which struck out “subsection (b)”. See 1987 Amendment note below.
+    1988—Subsec. (a)(3). [Pub. L. 100–647][/us/pl/100/647], which directed the insertion of “, 401(k)(4)(B) of such Code,” after “subsection (b)”, could not be executed because of previous amendment by [Pub. L. 100–202][/us/pl/100/202], § 101(m) \[title VI, § 624(b)(1)\] which struck out “subsection (b)”. See 1987 Amendment note below.
 
-    1987—Subsec. (a)(3). [Pub. L. 100–202, § 101(m)][/us/pl/100/202/s101/m] \[title VI, § 624(b)(1)\], struck out “the provisions of subsection (b) and” after “subject to”.
+    1987—Subsec. (a)(3). [Pub. L. 100–202][/us/pl/100/202], § 101(m) \[title VI, § 624(b)(1)\], struck out “the provisions of subsection (b) and” after “subject to”.
 
-    Subsec. (b). [Pub. L. 100–202, § 101(m)][/us/pl/100/202/s101/m] \[title VI, § 624(b)(2)\], added subsec. (b) and struck out former subsec. (b) which consisted of pars. (1) and (2) providing that subsec. (a)(3) not apply to the Thrift Savings Fund unless the Fund meets the antidiscrimination requirements applicable to arrangements described in [section 401(k) of title 26][/us/usc/t26/s401/k] and to matching contributions.
+    Subsec. (b). [Pub. L. 100–202][/us/pl/100/202], § 101(m) \[title VI, § 624(b)(2)\], added subsec. (b) and struck out former subsec. (b) which consisted of pars. (1) and (2) providing that subsec. (a)(3) not apply to the Thrift Savings Fund unless the Fund meets the antidiscrimination requirements applicable to arrangements described in [section 401(k) of title 26][/us/usc/t26/s401/k] and to matching contributions.
 
  __Effective Date of 1994 Amendment__ 
 
@@ -73,23 +73,23 @@
 [/us/usc/t5/s8351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8351
 [/us/usc/t26/s401/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs401%2Fk
 [/us/usc/t26/s401/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs401%2Fm
-[/us/pl/99/335/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2Fs101%2Fa
+[/us/pl/99/335/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2FtI
 [/us/stat/100/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F557
-[/us/pl/100/202/s101/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202%2Fs101%2Fm
+[/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
 [/us/stat/101/1329-390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1329-390
-[/us/pl/100/647/s1011A/m/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1011A%2Fm%2F2
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3483]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3483
-[/us/pl/102/378/s2/69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378%2Fs2%2F69
+[/us/pl/102/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378
 [/us/stat/106/1355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1355
-[/us/pl/103/353/s5/e/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F353%2Fs5%2Fe%2F5
+[/us/pl/103/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F353
 [/us/stat/108/3174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3174
 [/us/usc/t42/s409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs409
 [/us/pl/103/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F353
 [/us/pl/102/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
-[/us/pl/100/202/s101/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202%2Fs101%2Fm
-[/us/pl/100/202/s101/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202%2Fs101%2Fm
-[/us/pl/100/202/s101/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202%2Fs101%2Fm
+[/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
+[/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
+[/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
 [/us/usc/t26/s401/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs401%2Fk
 [/us/pl/103/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F353
 [/us/pl/103/353/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F353%2Fs8

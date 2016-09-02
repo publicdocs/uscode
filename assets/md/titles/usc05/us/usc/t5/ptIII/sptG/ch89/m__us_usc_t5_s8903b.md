@@ -25,11 +25,11 @@
 
         (2) if the carrier involved would not otherwise be subject to the requirement set forth in section 8903a(c)(1), to satisfy such requirement.
 
-(Added [Pub. L. 105–266, § 6(a)(1)][/us/pl/105/266/s6/a/1], Oct. 19, 1998, [112 Stat. 2368][/us/stat/112/2368].)
+(Added [Pub. L. 105–266][/us/pl/105/266], § 6(a)(1), Oct. 19, 1998, [112 Stat. 2368][/us/stat/112/2368].)
 
  __Effective Date__ 
 
-[Pub. L. 105–266, § 6(a)(3)][/us/pl/105/266/s6/a/3], Oct. 19, 1998, [112 Stat. 2369][/us/stat/112/2369], provided that:
+[Pub. L. 105–266][/us/pl/105/266], § 6(a)(3), Oct. 19, 1998, [112 Stat. 2369][/us/stat/112/2369], provided that:
 
 >     “(A)  __In general__  __.—__ 
 
@@ -46,9 +46,9 @@
 ----------
 ----------
 
-[/us/pl/105/266/s6/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F266%2Fs6%2Fa%2F1
+[/us/pl/105/266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F266
 [/us/stat/112/2368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2368
-[/us/pl/105/266/s6/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F266%2Fs6%2Fa%2F3
+[/us/pl/105/266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F266
 [/us/stat/112/2369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2369
 [/us/usc/t5/s8903b/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8903b%2Fa
 

@@ -17,7 +17,7 @@
 
     A Federal law enforcement officer or a Federal firefighter may be excused from duty without loss of, or reduction in, pay or leave to which such officer is otherwise entitled, or credit for time or service, or performance or efficiency rating, to attend the funeral of a fellow Federal law enforcement officer or Federal firefighter, who was killed in the line of duty. When so excused from duty, attendance at such service shall for the purposes of [section 1345(a) of title 31][/us/usc/t31/s1345/a], be considered to be an official duty of the officer or firefighter.
 
-(Added [Pub. L. 103–329, title VI, § 642][/us/pl/103/329/s642], Sept. 30, 1994, [108 Stat. 2432][/us/stat/108/2432], § 6327; renumbered § 6328, [Pub. L. 106–56, § 1(c)(1)][/us/pl/106/56/s1/c/1], Sept. 24, 1999, [113 Stat. 407][/us/stat/113/407].)
+(Added [Pub. L. 103–329, title VI][/us/pl/103/329/tVI], § 642, Sept. 30, 1994, [108 Stat. 2432][/us/stat/108/2432], § 6327; renumbered § 6328, [Pub. L. 106–56][/us/pl/106/56], § 1(c)(1), Sept. 24, 1999, [113 Stat. 407][/us/stat/113/407].)
 
  __Codification__ 
 
@@ -35,9 +35,9 @@
 ----------
 
 [/us/usc/t31/s1345/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1345%2Fa
-[/us/pl/103/329/s642]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F329%2Fs642
+[/us/pl/103/329/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F329%2FtVI
 [/us/stat/108/2432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2432
-[/us/pl/106/56/s1/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F56%2Fs1%2Fc%2F1
+[/us/pl/106/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F56
 [/us/stat/113/407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F407
 [/us/pl/103/329/s642]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F329%2Fs642
 [/us/pl/103/329/s629/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F329%2Fs629%2Fa%2F1

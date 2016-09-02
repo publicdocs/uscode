@@ -77,7 +77,7 @@
 
         (2) A preference eligible may not pursue redress for an alleged violation described in subsection (a) under this section at the same time the preference eligible pursues redress for such violation under any other law, rule, or regulation.
 
-(Added [Pub. L. 105–339, § 3(a)][/us/pl/105/339/s3/a], Oct. 31, 1998, [112 Stat. 3182][/us/stat/112/3182]; amended [Pub. L. 108–454, title VIII, § 804(a)][/us/pl/108/454/s804/a], Dec. 10, 2004, [118 Stat. 3626][/us/stat/118/3626].)
+(Added [Pub. L. 105–339][/us/pl/105/339], § 3(a), Oct. 31, 1998, [112 Stat. 3182][/us/stat/112/3182]; amended [Pub. L. 108–454, title VIII][/us/pl/108/454/tVIII], § 804(a), Dec. 10, 2004, [118 Stat. 3626][/us/stat/118/3626].)
 
  __Amendments__ 
 
@@ -90,9 +90,9 @@
 ----------
 ----------
 
-[/us/pl/105/339/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F339%2Fs3%2Fa
+[/us/pl/105/339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F339
 [/us/stat/112/3182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3182
-[/us/pl/108/454/s804/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F454%2Fs804%2Fa
+[/us/pl/108/454/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F454%2FtVIII
 [/us/stat/118/3626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3626
 [/us/pl/108/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F454
 

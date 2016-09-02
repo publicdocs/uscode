@@ -17,7 +17,7 @@
 
     An employee enrolled in a health benefits plan under chapter 89 who is placed in a leave status under section 6382 may elect to continue the health benefits enrollment of the employee while in such leave status and arrange to pay currently into the Employees Health Benefits Fund (described in section 8909), the appropriate employee contributions.
 
-(Added [Pub. L. 103–3, title II, § 201(a)(1)][/us/pl/103/3/s201/a/1], Feb. 5, 1993, [107 Stat. 23][/us/stat/107/23].)
+(Added [Pub. L. 103–3, title II][/us/pl/103/3/tII], § 201(a)(1), Feb. 5, 1993, [107 Stat. 23][/us/stat/107/23].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/103/3/s201/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F3%2Fs201%2Fa%2F1
+[/us/pl/103/3/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F3%2FtII
 [/us/stat/107/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F23
 
 

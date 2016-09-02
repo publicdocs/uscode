@@ -51,21 +51,21 @@
 
     (c) A limited emergency appointee, limited term appointee, or noncareer appointee may be removed from the service at any time.
 
-(Added [Pub. L. 95–454, title IV, § 404(b)][/us/pl/95/454/s404/b], Oct. 13, 1978, [92 Stat. 1165][/us/stat/92/1165]; amended [Pub. L. 101–194, title V, § 506(b)(3)][/us/pl/101/194/s506/b/3], Nov. 30, 1989, [103 Stat. 1758][/us/stat/103/1758]; [Pub. L. 107–296, title XIII, § 1321(a)(2)(A)][/us/pl/107/296/s1321/a/2/A], Nov. 25, 2002, [116 Stat. 2297][/us/stat/116/2297].)
+(Added [Pub. L. 95–454, title IV][/us/pl/95/454/tIV], § 404(b), Oct. 13, 1978, [92 Stat. 1165][/us/stat/92/1165]; amended [Pub. L. 101–194, title V][/us/pl/101/194/tV], § 506(b)(3), Nov. 30, 1989, [103 Stat. 1758][/us/stat/103/1758]; [Pub. L. 107–296, title XIII][/us/pl/107/296/tXIII], § 1321(a)(2)(A), Nov. 25, 2002, [116 Stat. 2297][/us/stat/116/2297].)
 
  __Amendments__ 
 
-    2002—Subsec. (a). [Pub. L. 107–296, § 1321(a)(2)(A)(iv)][/us/pl/107/296/s1321/a/2/A/iv], struck out last sentence which read as follows: “In the case of a removal under paragraph (3) of this subsection, the career appointee shall have the right to appeal the removal from the Senior Executive Service to the Merit Systems Protection Board under section 7701.”
+    2002—Subsec. (a). [Pub. L. 107–296][/us/pl/107/296], § 1321(a)(2)(A)(iv), struck out last sentence which read as follows: “In the case of a removal under paragraph (3) of this subsection, the career appointee shall have the right to appeal the removal from the Senior Executive Service to the Merit Systems Protection Board under section 7701.”
 
-    Subsec. (a)(1). [Pub. L. 107–296, § 1321(a)(2)(A)(i)][/us/pl/107/296/s1321/a/2/A/i], inserted “or” at end.
+    Subsec. (a)(1). [Pub. L. 107–296][/us/pl/107/296], § 1321(a)(2)(A)(i), inserted “or” at end.
 
-    Subsec. (a)(2). [Pub. L. 107–296, § 1321(a)(2)(A)(ii)][/us/pl/107/296/s1321/a/2/A/ii], struck out “or” at end.
+    Subsec. (a)(2). [Pub. L. 107–296][/us/pl/107/296], § 1321(a)(2)(A)(ii), struck out “or” at end.
 
-    Subsec. (a)(3). [Pub. L. 107–296, § 1321(a)(2)(A)(iii)][/us/pl/107/296/s1321/a/2/A/iii], struck out par. (3) which read as follows: “if the career appointee is not recertified as a senior executive under section 3393a,”.
+    Subsec. (a)(3). [Pub. L. 107–296][/us/pl/107/296], § 1321(a)(2)(A)(iii), struck out par. (3) which read as follows: “if the career appointee is not recertified as a senior executive under section 3393a,”.
 
-    1989—Subsec. (a). [Pub. L. 101–194, § 506(b)(3)(D)][/us/pl/101/194/s506/b/3/D], inserted at end “In the case of a removal under paragraph (3) of this subsection, the career appointee shall have the right to appeal the removal from the Senior Executive Service to the Merit Systems Protection Board under section 7701.”
+    1989—Subsec. (a). [Pub. L. 101–194][/us/pl/101/194], § 506(b)(3)(D), inserted at end “In the case of a removal under paragraph (3) of this subsection, the career appointee shall have the right to appeal the removal from the Senior Executive Service to the Merit Systems Protection Board under section 7701.”
 
-    Subsec. (a)(3). [Pub. L. 101–194, § 506(b)(3)(A)][/us/pl/101/194/s506/b/3/A]–(C), added par. (3).
+    Subsec. (a)(3). [Pub. L. 101–194][/us/pl/101/194], § 506(b)(3)(A)–(C), added par. (3).
 
  __Effective Date of 2002 Amendment__ 
 
@@ -77,7 +77,7 @@
 
  __Savings Provision__ 
 
-[Pub. L. 107–296, title XIII, § 1321(b)][/us/pl/107/296/s1321/b], Nov. 25, 2002, [116 Stat. 2297][/us/stat/116/2297], provided that: 
+[Pub. L. 107–296, title XIII][/us/pl/107/296/tXIII], § 1321(b), Nov. 25, 2002, [116 Stat. 2297][/us/stat/116/2297], provided that: 
 
 > “Notwithstanding the amendments made by subsection (a)(2)(A) \[amending this section\], an appeal under the final sentence of [section 3592(a) of title 5][/us/usc/t5/s3592/a], United States Code, that is pending on the day before the effective date of this section \[see Effective Date of 2002 Amendment note above\]—
 
@@ -95,25 +95,25 @@
 [/us/usc/t5/s3393/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3393%2Fd
 [/us/usc/t5/s7701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs7701
 [/us/usc/t5/s4314/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs4314%2Fb%2F3
-[/us/pl/95/454/s404/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs404%2Fb
+[/us/pl/95/454/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtIV
 [/us/stat/92/1165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1165
-[/us/pl/101/194/s506/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194%2Fs506%2Fb%2F3
+[/us/pl/101/194/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194%2FtV
 [/us/stat/103/1758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1758
-[/us/pl/107/296/s1321/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1321%2Fa%2F2%2FA
+[/us/pl/107/296/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXIII
 [/us/stat/116/2297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2297
-[/us/pl/107/296/s1321/a/2/A/iv]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1321%2Fa%2F2%2FA%2Fiv
-[/us/pl/107/296/s1321/a/2/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1321%2Fa%2F2%2FA%2Fi
-[/us/pl/107/296/s1321/a/2/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1321%2Fa%2F2%2FA%2Fii
-[/us/pl/107/296/s1321/a/2/A/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1321%2Fa%2F2%2FA%2Fiii
-[/us/pl/101/194/s506/b/3/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194%2Fs506%2Fb%2F3%2FD
-[/us/pl/101/194/s506/b/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194%2Fs506%2Fb%2F3%2FA
+[/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
+[/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
+[/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
+[/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
+[/us/pl/101/194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194
+[/us/pl/101/194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/pl/107/296/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs4
 [/us/usc/t6/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs101
 [/us/pl/101/194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194
 [/us/pl/101/194/s506/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194%2Fs506%2Fd
 [/us/usc/t5/s3151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3151
-[/us/pl/107/296/s1321/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1321%2Fb
+[/us/pl/107/296/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXIII
 [/us/stat/116/2297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2297
 [/us/usc/t5/s3592/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3592%2Fa
 

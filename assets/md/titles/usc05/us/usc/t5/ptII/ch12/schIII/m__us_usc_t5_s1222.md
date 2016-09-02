@@ -17,7 +17,7 @@
 
     Except as provided in section 1221(i), nothing in this chapter or chapter 23 shall be construed to limit any right or remedy available under a provision of statute which is outside of both this chapter and chapter 23.
 
-(Added [Pub. L. 101–12, § 3(a)(13)][/us/pl/101/12/s3/a/13], Apr. 10, 1989, [103 Stat. 31][/us/stat/103/31].)
+(Added [Pub. L. 101–12][/us/pl/101/12], § 3(a)(13), Apr. 10, 1989, [103 Stat. 31][/us/stat/103/31].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/101/12/s3/a/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F12%2Fs3%2Fa%2F13
+[/us/pl/101/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F12
 [/us/stat/103/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F31
 
 

@@ -57,7 +57,7 @@
 
     A private sector organization may not charge the Federal Government, as direct or indirect costs under a Federal contract, the costs of pay or benefits paid by the organization to an employee assigned to an agency under this chapter for the period of the assignment.
 
-(Added [Pub. L. 107–347, title II, § 209(c)(1)][/us/pl/107/347/s209/c/1], Dec. 17, 2002, [116 Stat. 2928][/us/stat/116/2928]; amended [Pub. L. 111–350, § 5(a)(6)][/us/pl/111/350/s5/a/6], Jan. 4, 2011, [124 Stat. 3841][/us/stat/124/3841].)
+(Added [Pub. L. 107–347, title II][/us/pl/107/347/tII], § 209(c)(1), Dec. 17, 2002, [116 Stat. 2928][/us/stat/116/2928]; amended [Pub. L. 111–350][/us/pl/111/350], § 5(a)(6), Jan. 4, 2011, [124 Stat. 3841][/us/stat/124/3841].)
 
  __References in Text__ 
 
@@ -78,9 +78,9 @@
 ----------
 ----------
 
-[/us/pl/107/347/s209/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347%2Fs209%2Fc%2F1
+[/us/pl/107/347/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347%2FtII
 [/us/stat/116/2928]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2928
-[/us/pl/111/350/s5/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs5%2Fa%2F6
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3841
 [/us/act/1946-08-02/ch753]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-02%2Fch753
 [/us/stat/60/842]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F842

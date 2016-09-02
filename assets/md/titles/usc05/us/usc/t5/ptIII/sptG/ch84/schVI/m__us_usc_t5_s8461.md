@@ -115,21 +115,21 @@
 
             shall be given the opportunity to elect irrevocably, within 30 days after such move, to remain covered, during any subsequent employment as an employee as defined by section 2105(a) or section 2105(c), by the retirement system applicable to such employee’s current or most recent employment described by section 2105(c) rather than be subject to this chapter.
 
-(Added [Pub. L. 99–335, title I, § 101(a)][/us/pl/99/335/s101/a], June 6, 1986, [100 Stat. 570][/us/stat/100/570]; amended [Pub. L. 99–556, title I, § 102][/us/pl/99/556/s102], Oct. 27, 1986, [100 Stat. 3131][/us/stat/100/3131]; [Pub. L. 101–508, title VII, § 7202(k)(2)][/us/pl/101/508/s7202/k/2], Nov. 5, 1990, [104 Stat. 1388–339][/us/stat/104/1388-339]; [Pub. L. 102–378, § 2(71)][/us/pl/102/378/s2/71], Oct. 2, 1992, [106 Stat. 1355][/us/stat/106/1355]; [Pub. L. 104–106, div. A, title X, § 1043(a)(2)][/us/pl/104/106/s1043/a/2], Feb. 10, 1996, [110 Stat. 434][/us/stat/110/434]; [Pub. L. 107–107, div. A, title XI, § 1131(b)][/us/pl/107/107/s1131/b], Dec. 28, 2001, [115 Stat. 1242][/us/stat/115/1242].)
+(Added [Pub. L. 99–335, title I][/us/pl/99/335/tI], § 101(a), June 6, 1986, [100 Stat. 570][/us/stat/100/570]; amended [Pub. L. 99–556, title I][/us/pl/99/556/tI], § 102, Oct. 27, 1986, [100 Stat. 3131][/us/stat/100/3131]; [Pub. L. 101–508, title VII][/us/pl/101/508/tVII], § 7202(k)(2), Nov. 5, 1990, [104 Stat. 1388–339][/us/stat/104/1388-339]; [Pub. L. 102–378][/us/pl/102/378], § 2(71), Oct. 2, 1992, [106 Stat. 1355][/us/stat/106/1355]; [Pub. L. 104–106, div. A, title X][/us/pl/104/106/dA/tX], § 1043(a)(2), Feb. 10, 1996, [110 Stat. 434][/us/stat/110/434]; [Pub. L. 107–107, div. A, title XI][/us/pl/107/107/dA/tXI], § 1131(b), Dec. 28, 2001, [115 Stat. 1242][/us/stat/115/1242].)
 
  __Amendments__ 
 
-    2001—Subsec. (n)(1). [Pub. L. 107–107, § 1131(b)(1)][/us/pl/107/107/s1131/b/1], inserted “and” at end of subpar. (A), redesignated subpar. (C) as (B), and struck out former subpar. (B) which read as follows: “has 5 or more years of civilian service creditable under this chapter; and”.
+    2001—Subsec. (n)(1). [Pub. L. 107–107][/us/pl/107/107], § 1131(b)(1), inserted “and” at end of subpar. (A), redesignated subpar. (C) as (B), and struck out former subpar. (B) which read as follows: “has 5 or more years of civilian service creditable under this chapter; and”.
 
-    Subsec. (n)(2)(B). [Pub. L. 107–107, § 1131(b)(2)][/us/pl/107/107/s1131/b/2], struck out “vested” before “participant in a retirement system” and struck out “, as the term ‘vested participant’ is defined by such system” before semicolon at end.
+    Subsec. (n)(2)(B). [Pub. L. 107–107][/us/pl/107/107], § 1131(b)(2), struck out “vested” before “participant in a retirement system” and struck out “, as the term ‘vested participant’ is defined by such system” before semicolon at end.
 
-    1996—Subsec. (n)(1). [Pub. L. 104–106, § 1043(a)(2)(A)][/us/pl/104/106/s1043/a/2/A], struck out “of the Department of Defense or the Coast Guard” after “an employee” in introductory provisions and substituted “1 year” for “3 days” in subpar. (C).
+    1996—Subsec. (n)(1). [Pub. L. 104–106][/us/pl/104/106], § 1043(a)(2)(A), struck out “of the Department of Defense or the Coast Guard” after “an employee” in introductory provisions and substituted “1 year” for “3 days” in subpar. (C).
 
-    Subsec. (n)(2)(C). [Pub. L. 104–106, § 1043(a)(2)(B)][/us/pl/104/106/s1043/a/2/B], substituted “1 year” for “3 days” and struck out “in the Department of Defense or the Coast Guard, respectively,” after “to a position”.
+    Subsec. (n)(2)(C). [Pub. L. 104–106][/us/pl/104/106], § 1043(a)(2)(B), substituted “1 year” for “3 days” and struck out “in the Department of Defense or the Coast Guard, respectively,” after “to a position”.
 
-    1992—Subsec. (n)(1)(A), (2)(A). [Pub. L. 102–378, § 2(71)(A)][/us/pl/102/378/s2/71/A], amended subpars. (A) generally. Prior to amendment, subpars. (A) read as follows: “has not previously made or had an opportunity to make an election under this subsection;”.
+    1992—Subsec. (n)(1)(A), (2)(A). [Pub. L. 102–378][/us/pl/102/378], § 2(71)(A), amended subpars. (A) generally. Prior to amendment, subpars. (A) read as follows: “has not previously made or had an opportunity to make an election under this subsection;”.
 
-    Subsec. (n)(2)(D). [Pub. L. 102–378, § 2(71)(B)][/us/pl/102/378/s2/71/B], substituted “8347(q)” for “8347(p)”.
+    Subsec. (n)(2)(D). [Pub. L. 102–378][/us/pl/102/378], § 2(71)(B), substituted “8347(q)” for “8347(p)”.
 
     1990—Subsec. (n). [Pub. L. 101–508][/us/pl/101/508] added subsec. (n).
 
@@ -170,24 +170,24 @@
 ----------
 ----------
 
-[/us/pl/99/335/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2Fs101%2Fa
+[/us/pl/99/335/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2FtI
 [/us/stat/100/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F570
-[/us/pl/99/556/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F556%2Fs102
+[/us/pl/99/556/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F556%2FtI
 [/us/stat/100/3131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3131
-[/us/pl/101/508/s7202/k/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs7202%2Fk%2F2
+[/us/pl/101/508/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtVII
 [/us/stat/104/1388-339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-339
-[/us/pl/102/378/s2/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378%2Fs2%2F71
+[/us/pl/102/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378
 [/us/stat/106/1355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1355
-[/us/pl/104/106/s1043/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1043%2Fa%2F2
+[/us/pl/104/106/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtX
 [/us/stat/110/434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F434
-[/us/pl/107/107/s1131/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs1131%2Fb
+[/us/pl/107/107/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtXI
 [/us/stat/115/1242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1242
-[/us/pl/107/107/s1131/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs1131%2Fb%2F1
-[/us/pl/107/107/s1131/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs1131%2Fb%2F2
-[/us/pl/104/106/s1043/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1043%2Fa%2F2%2FA
-[/us/pl/104/106/s1043/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1043%2Fa%2F2%2FB
-[/us/pl/102/378/s2/71/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378%2Fs2%2F71%2FA
-[/us/pl/102/378/s2/71/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378%2Fs2%2F71%2FB
+[/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
+[/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
+[/us/pl/102/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378
+[/us/pl/102/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/pl/99/556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F556
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458

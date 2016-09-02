@@ -21,7 +21,7 @@
 
     (c) A career appointee who is furloughed is entitled to appeal to the Merit Systems Protection Board under [section 7701 of this title][/us/usc/t5/s7701].
 
-(Added [Pub. L. 98–615, title III, § 306(c)(1)][/us/pl/98/615/s306/c/1], Nov. 8, 1984, [98 Stat. 3220][/us/stat/98/3220].)
+(Added [Pub. L. 98–615, title III][/us/pl/98/615/tIII], § 306(c)(1), Nov. 8, 1984, [98 Stat. 3220][/us/stat/98/3220].)
 
  __Effective Date__ 
 
@@ -35,7 +35,7 @@
 ----------
 
 [/us/usc/t5/s7701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs7701
-[/us/pl/98/615/s306/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F615%2Fs306%2Fc%2F1
+[/us/pl/98/615/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F615%2FtIII
 [/us/stat/98/3220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3220
 [/us/pl/98/615/s307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F615%2Fs307
 [/us/usc/t5/s3393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3393

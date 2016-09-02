@@ -275,23 +275,23 @@ SUBCHAPTER VII—RETENTION OF RETIRED SPECIALIZED EMPLOYEES AT THE FEDERAL BUREA
 
  __Amendments__ 
 
-    2004—[Pub. L. 108–447, div. B, title I, § 114(b)][/us/pl/108/447/s114/b], Dec. 8, 2004, [118 Stat. 2869][/us/stat/118/2869], and [Pub. L. 108–458, title II, § 2004(b)][/us/pl/108/458/s2004/b], Dec. 17, 2004, [118 Stat. 3704][/us/stat/118/3704], amended analysis identically, adding item for subchapter VII.
+    2004—[Pub. L. 108–447, div. B, title I][/us/pl/108/447/dB/tI], § 114(b), Dec. 8, 2004, [118 Stat. 2869][/us/stat/118/2869], and [Pub. L. 108–458, title II][/us/pl/108/458/tII], § 2004(b), Dec. 17, 2004, [118 Stat. 3704][/us/stat/118/3704], amended analysis identically, adding item for subchapter VII.
 
-    [Pub. L. 108–458, title II, § 2004(b)][/us/pl/108/458/s2004/b], Dec. 17, 2004, [118 Stat. 3704][/us/stat/118/3704], added item 3598, set out second.
+    [Pub. L. 108–458, title II][/us/pl/108/458/tII], § 2004(b), Dec. 17, 2004, [118 Stat. 3704][/us/stat/118/3704], added item 3598, set out second.
 
-    [Pub. L. 108–447, div. B, title I, § 114(b)][/us/pl/108/447/s114/b], Dec. 8, 2004, [118 Stat. 2869][/us/stat/118/2869], added item 3598, set out first.
+    [Pub. L. 108–447, div. B, title I][/us/pl/108/447/dB/tI], § 114(b), Dec. 8, 2004, [118 Stat. 2869][/us/stat/118/2869], added item 3598, set out first.
 
-    2002—[Pub. L. 107–296, title XIII, § 1313(a)(1)(B)][/us/pl/107/296/s1313/a/1/B], Nov. 25, 2002, [116 Stat. 2294][/us/stat/116/2294], substituted “RETENTION PREFERENCE, VOLUNTARY SEPARATION INCENTIVE PAYMENTS, RESTORATION, AND REEMPLOYMENT” for “RETENTION PREFERENCE, RESTORATION, AND REEMPLOYMENT” in chapter heading and added item for subchapter II and items 3521 to 3525.
+    2002—[Pub. L. 107–296, title XIII][/us/pl/107/296/tXIII], § 1313(a)(1)(B), Nov. 25, 2002, [116 Stat. 2294][/us/stat/116/2294], substituted “RETENTION PREFERENCE, VOLUNTARY SEPARATION INCENTIVE PAYMENTS, RESTORATION, AND REEMPLOYMENT” for “RETENTION PREFERENCE, RESTORATION, AND REEMPLOYMENT” in chapter heading and added item for subchapter II and items 3521 to 3525.
 
-    1994—[Pub. L. 103–353, § 2(b)(2)(C)][/us/pl/103/353/s2/b/2/C], Oct. 13, 1994, [108 Stat. 3169][/us/stat/108/3169], struck out item for subchapter II “RESTORATION AFTER ACTIVE DUTY OR TRAINING DUTY” and item 3551 “Restoration; Reserves and National Guardsmen”.
+    1994—[Pub. L. 103–353][/us/pl/103/353], § 2(b)(2)(C), Oct. 13, 1994, [108 Stat. 3169][/us/stat/108/3169], struck out item for subchapter II “RESTORATION AFTER ACTIVE DUTY OR TRAINING DUTY” and item 3551 “Restoration; Reserves and National Guardsmen”.
 
-    1984—[Pub. L. 98–615, title III, § 306(c)(2)][/us/pl/98/615/s306/c/2], Nov. 8, 1984, [98 Stat. 3220][/us/stat/98/3220], added item 3595a.
+    1984—[Pub. L. 98–615, title III][/us/pl/98/615/tIII], § 306(c)(2), Nov. 8, 1984, [98 Stat. 3220][/us/stat/98/3220], added item 3595a.
 
-    1981—[Pub. L. 97–35, title XVII, § 1704(a)(2)][/us/pl/97/35/s1704/a/2], Aug. 13, 1981, [95 Stat. 757][/us/stat/95/757], redesignated item 3595 as 3596, and added item 3595.
+    1981—[Pub. L. 97–35, title XVII][/us/pl/97/35/tXVII], § 1704(a)(2), Aug. 13, 1981, [95 Stat. 757][/us/stat/95/757], redesignated item 3595 as 3596, and added item 3595.
 
-    1980—[Pub. L. 96–465, title II, § 2301(b)][/us/pl/96/465/s2301/b], Oct. 17, 1980, [94 Stat. 2164][/us/stat/94/2164], added item for subchapter VI and item 3597.
+    1980—[Pub. L. 96–465, title II][/us/pl/96/465/tII], § 2301(b), Oct. 17, 1980, [94 Stat. 2164][/us/stat/94/2164], added item for subchapter VI and item 3597.
 
-    1978—[Pub. L. 95–454, title IV, § 404(c)][/us/pl/95/454/s404/c], Oct. 13, 1978, [92 Stat. 1167][/us/stat/92/1167], added item for subchapter V and items 3591 to 3595.
+    1978—[Pub. L. 95–454, title IV][/us/pl/95/454/tIV], § 404(c), Oct. 13, 1978, [92 Stat. 1167][/us/stat/92/1167], added item for subchapter V and items 3591 to 3595.
 
 ----------
 
@@ -300,25 +300,25 @@ SUBCHAPTER VII—RETENTION OF RETIRED SPECIALIZED EMPLOYEES AT THE FEDERAL BUREA
 ----------
 ----------
 
-[/us/pl/108/447/s114/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs114%2Fb
+[/us/pl/108/447/dB/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdB%2FtI
 [/us/stat/118/2869]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2869
-[/us/pl/108/458/s2004/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs2004%2Fb
+[/us/pl/108/458/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtII
 [/us/stat/118/3704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3704
-[/us/pl/108/458/s2004/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs2004%2Fb
+[/us/pl/108/458/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtII
 [/us/stat/118/3704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3704
-[/us/pl/108/447/s114/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs114%2Fb
+[/us/pl/108/447/dB/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdB%2FtI
 [/us/stat/118/2869]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2869
-[/us/pl/107/296/s1313/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1313%2Fa%2F1%2FB
+[/us/pl/107/296/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXIII
 [/us/stat/116/2294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2294
-[/us/pl/103/353/s2/b/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F353%2Fs2%2Fb%2F2%2FC
+[/us/pl/103/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F353
 [/us/stat/108/3169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3169
-[/us/pl/98/615/s306/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F615%2Fs306%2Fc%2F2
+[/us/pl/98/615/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F615%2FtIII
 [/us/stat/98/3220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3220
-[/us/pl/97/35/s1704/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs1704%2Fa%2F2
+[/us/pl/97/35/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXVII
 [/us/stat/95/757]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F757
-[/us/pl/96/465/s2301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs2301%2Fb
+[/us/pl/96/465/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtII
 [/us/stat/94/2164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2164
-[/us/pl/95/454/s404/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs404%2Fc
+[/us/pl/95/454/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtIV
 [/us/stat/92/1167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1167
 
 

@@ -31,7 +31,7 @@
 
     (e) Premium pay under this section is in addition to premium pay which may be due for the same work under section 5545(a) and (b) of this title, providing premium pay for nightwork.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 488][/us/stat/80/488]; [Pub. L. 90–83, § 1(29)][/us/pl/90/83/s1/29], Sept. 11, 1967, [81 Stat. 201][/us/stat/81/201]; [Pub. L. 90–623, § 1(13)][/us/pl/90/623/s1/13], Oct. 22, 1968, [82 Stat. 1312][/us/stat/82/1312]; [Pub. L. 105–277, div. G][/us/pl/105/277], subdiv. B, title XXIII, § 2317(2), Oct. 21, 1998, [112 Stat. 2681–829][/us/stat/112/2681-829].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 488][/us/stat/80/488]; [Pub. L. 90–83][/us/pl/90/83], § 1(29), Sept. 11, 1967, [81 Stat. 201][/us/stat/81/201]; [Pub. L. 90–623][/us/pl/90/623], § 1(13), Oct. 22, 1968, [82 Stat. 1312][/us/stat/82/1312]; [Pub. L. 105–277, div. G][/us/pl/105/277/dG], subdiv. B, title XXIII, § 2317(2), Oct. 21, 1998, [112 Stat. 2681–829][/us/stat/112/2681-829].)
 
 <table>
 
@@ -191,9 +191,9 @@ July 18, 1966, Pub. L. 89–504, § 405(b)(1), (c), 80 Stat. 297.  </td>
 
     1998—Subsec. (a). [Pub. L. 105–277][/us/pl/105/277] inserted at end “For employees serving outside the United States in areas where Sunday is a routine workday and another day of the week is officially recognized as the day of rest and worship, the Secretary of State may designate the officially recognized day of rest and worship as the day with respect to which the preceding sentence shall apply instead of Sunday.”
 
-    1968—Subsec. (b). [Pub. L. 90–623, § 1(13)(A)][/us/pl/90/623/s1/13/A], substituted “District of Columbia Council” for “Board of Commissioners of the District of Columbia”.
+    1968—Subsec. (b). [Pub. L. 90–623][/us/pl/90/623], § 1(13)(A), substituted “District of Columbia Council” for “Board of Commissioners of the District of Columbia”.
 
-    Subsec. (d). [Pub. L. 90–623, § 1(13)(B)][/us/pl/90/623/s1/13/B], substituted “5542(a)” for “5442(a)”.
+    Subsec. (d). [Pub. L. 90–623][/us/pl/90/623], § 1(13)(B), substituted “5542(a)” for “5442(a)”.
 
  __Effective Date of 1968 Amendment__ 
 
@@ -201,17 +201,17 @@ July 18, 1966, Pub. L. 89–504, § 405(b)(1), (c), 80 Stat. 297.  </td>
 
  __Transfer of Functions__ 
 
-    District of Columbia Council, as established by Reorg. Plan No. 3 of 1967, abolished as of noon Jan. 2, 1975, by [Pub. L. 93–198, title VII, § 711][/us/pl/93/198/s711], Dec. 24, 1973, [87 Stat. 818][/us/stat/87/818], and replaced by Council of District of Columbia, as provided by [section 401 of Pub. L. 93–198][/us/pl/93/198/s401].
+    District of Columbia Council, as established by Reorg. Plan No. 3 of 1967, abolished as of noon Jan. 2, 1975, by [Pub. L. 93–198, title VII][/us/pl/93/198/tVII], § 711, Dec. 24, 1973, [87 Stat. 818][/us/stat/87/818], and replaced by Council of District of Columbia, as provided by [section 401 of Pub. L. 93–198][/us/pl/93/198/s401].
 
  __Condition of Performance__ 
 
-[Pub. L. 105–277, div. A, § 101(h)][/us/pl/105/277/s101/h] \[title VI, § 624\], Oct. 21, 1998, [112 Stat. 2681–480][/us/stat/112/2681-480], 2681–518, provided that: 
+[Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(h) \[title VI, § 624\], Oct. 21, 1998, [112 Stat. 2681–480][/us/stat/112/2681-480], 2681–518, provided that: 
 
 > “Notwithstanding any other provision of law, no part of any funds provided by this Act or any other Act beginning in fiscal year 1999 and thereafter shall be available for paying Sunday premium pay to any employee unless such employee actually performed work during the time corresponding to such premium pay.”
 
     Similar provisions were contained in the following prior appropriations act:
 
-    [Pub. L. 105–61, title VI, § 636][/us/pl/105/61/s636], Oct. 10, 1997, [111 Stat. 1316][/us/stat/111/1316].
+    [Pub. L. 105–61, title VI][/us/pl/105/61/tVI], § 636, Oct. 10, 1997, [111 Stat. 1316][/us/stat/111/1316].
 
 ----------
 
@@ -226,26 +226,26 @@ July 18, 1966, Pub. L. 89–504, § 405(b)(1), (c), 80 Stat. 297.  </td>
 [/us/usc/t5/s5542/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5542%2Fa
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/488]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F488
-[/us/pl/90/83/s1/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83%2Fs1%2F29
+[/us/pl/90/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83
 [/us/stat/81/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F201
-[/us/pl/90/623/s1/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F623%2Fs1%2F13
+[/us/pl/90/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F623
 [/us/stat/82/1312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1312
-[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277/dG]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdG
 [/us/stat/112/2681-829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-829
 [/us/usc/t5/s5542/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5542%2Fa
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
-[/us/pl/90/623/s1/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F623%2Fs1%2F13%2FA
-[/us/pl/90/623/s1/13/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F623%2Fs1%2F13%2FB
+[/us/pl/90/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F623
+[/us/pl/90/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F623
 [/us/pl/90/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F623
 [/us/pl/90/623/s1/13/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F623%2Fs1%2F13%2FB
 [/us/pl/90/623/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F623%2Fs6
 [/us/usc/t5/s5334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5334
-[/us/pl/93/198/s711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F198%2Fs711
+[/us/pl/93/198/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F198%2FtVII
 [/us/stat/87/818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F818
 [/us/pl/93/198/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F198%2Fs401
-[/us/pl/105/277/s101/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fh
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-480
-[/us/pl/105/61/s636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F61%2Fs636
+[/us/pl/105/61/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F61%2FtVI
 [/us/stat/111/1316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1316
 
 

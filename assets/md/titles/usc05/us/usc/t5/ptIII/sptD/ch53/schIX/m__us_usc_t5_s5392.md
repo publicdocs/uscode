@@ -47,7 +47,7 @@
 
     (e) Subject to subsection (d)(2), effective at the beginning of the first applicable pay period commencing on or after the first day of the month in which an adjustment takes effect under section 5303 in the rates of pay under the General Schedule, each rate of pay established under this section shall be adjusted by such amount as the Office considers appropriate.
 
-(Added [Pub. L. 101–509, title V, § 529][/us/pl/101/509/s529] \[title I, § 105(a)(1)\], Nov. 5, 1990, [104 Stat. 1427][/us/stat/104/1427], 1448.)
+(Added [Pub. L. 101–509, title V][/us/pl/101/509/tV], § 529 \[title I, § 105(a)(1)\], Nov. 5, 1990, [104 Stat. 1427][/us/stat/104/1427], 1448.)
 
  __References in Text__ 
 
@@ -62,7 +62,7 @@
 ----------
 ----------
 
-[/us/pl/101/509/s529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2Fs529
+[/us/pl/101/509/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2FtV
 [/us/stat/104/1427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1427
 [/us/usc/t5/s5316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5316
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332

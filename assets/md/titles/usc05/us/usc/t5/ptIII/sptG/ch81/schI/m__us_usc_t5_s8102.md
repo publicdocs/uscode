@@ -35,7 +35,7 @@
 
         This subsection does not affect the payment of compensation under this subchapter derived otherwise than under this subsection, but compensation for disability or death does not accrue for a period for which pay, other benefit, or gratuity from the United States accrues to the disabled individual or his dependents on account of detention by the enemy or because of the same disability or death, unless that pay, benefit, or gratuity is refunded or renounced.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 534][/us/stat/80/534]; [Pub. L. 96–70, title I, § 1231(d)][/us/pl/96/70/s1231/d], Sept. 27, 1979, [93 Stat. 470][/us/stat/93/470].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 534][/us/stat/80/534]; [Pub. L. 96–70, title I][/us/pl/96/70/tI], § 1231(d), Sept. 27, 1979, [93 Stat. 470][/us/stat/93/470].)
 
 <table>
 
@@ -108,7 +108,7 @@ Aug. 8, 1958, Pub. L. 85–608, § 301, 72 Stat. 538.  </td>
 
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F534
-[/us/pl/96/70/s1231/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2Fs1231%2Fd
+[/us/pl/96/70/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2FtI
 [/us/stat/93/470]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F470
 [/us/usc/t22/s3602/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3602%2Fa
 [/us/pl/96/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70

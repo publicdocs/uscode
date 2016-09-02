@@ -105,7 +105,7 @@
 
         (3) Separation pay may not be offered as a result of workforce restructuring under the program carried out under this section after fiscal year 2003.
 
-(Added [Pub. L. 102–484, div. D, title XLIV, § 4436(a)(1)][/us/pl/102/484/s4436/a/1], Oct. 23, 1992, [106 Stat. 2723][/us/stat/106/2723]; amended [Pub. L. 103–226, § 8(a)][/us/pl/103/226/s8/a], Mar. 30, 1994, [108 Stat. 118][/us/stat/108/118]; [Pub. L. 103–337, div. A, title III, § 341(b)(1)][/us/pl/103/337/s341/b/1], Oct. 5, 1994, [108 Stat. 2720][/us/stat/108/2720]; [Pub. L. 104–201, div. A, title XVI, § 1612(a)][/us/pl/104/201/s1612/a], Sept. 23, 1996, [110 Stat. 2739][/us/stat/110/2739]; [Pub. L. 105–85, div. A, title XI, § 1106(a)][/us/pl/105/85/s1106/a], (b)(1), Nov. 18, 1997, [111 Stat. 1923][/us/stat/111/1923], 1924; [Pub. L. 106–65, div. A, title XI, § 1104(b)][/us/pl/106/65/s1104/b], Oct. 5, 1999, [113 Stat. 777][/us/stat/113/777]; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title XI, §§ 1151, 1153(a)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–319, 1654A–323.)
+(Added [Pub. L. 102–484, div. D, title XLIV][/us/pl/102/484/dD/tXLIV], § 4436(a)(1), Oct. 23, 1992, [106 Stat. 2723][/us/stat/106/2723]; amended [Pub. L. 103–226][/us/pl/103/226], § 8(a), Mar. 30, 1994, [108 Stat. 118][/us/stat/108/118]; [Pub. L. 103–337, div. A, title III][/us/pl/103/337/dA/tIII], § 341(b)(1), Oct. 5, 1994, [108 Stat. 2720][/us/stat/108/2720]; [Pub. L. 104–201, div. A, title XVI][/us/pl/104/201/dA/tXVI], § 1612(a), Sept. 23, 1996, [110 Stat. 2739][/us/stat/110/2739]; [Pub. L. 105–85, div. A, title XI][/us/pl/105/85/dA/tXI], § 1106(a), (b)(1), Nov. 18, 1997, [111 Stat. 1923][/us/stat/111/1923], 1924; [Pub. L. 106–65, div. A, title XI][/us/pl/106/65/dA/tXI], § 1104(b), Oct. 5, 1999, [113 Stat. 777][/us/stat/113/777]; [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title XI, §§ 1151, 1153(a)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–319, 1654A–323.)
 
  __References in Text__ 
 
@@ -115,25 +115,25 @@
 
  __Amendments__ 
 
-    2000—Subsec. (b). [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title XI, § 1151(a)\], inserted “workforce restructuring (to meet mission needs, achieve one or more strength reductions, correct skill imbalances, or reduce the number of high-grade, managerial, or supervisory positions),” after “transfer of function,”.
+    2000—Subsec. (b). [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title XI, § 1151(a)\], inserted “workforce restructuring (to meet mission needs, achieve one or more strength reductions, correct skill imbalances, or reduce the number of high-grade, managerial, or supervisory positions),” after “transfer of function,”.
 
-    Subsec. (c). [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title XI, § 1151(b)(2)\], inserted concluding provisions.
+    Subsec. (c). [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title XI, § 1151(b)(2)\], inserted concluding provisions.
 
-    Subsec. (c)(2). [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title XI, § 1151(b)(1)\], inserted “objective and nonpersonal” after “similar”.
+    Subsec. (c)(2). [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title XI, § 1151(b)(1)\], inserted “objective and nonpersonal” after “similar”.
 
-    Subsec. (d)(1). [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title XI, § 1151(c)(1)\], added par. (1) and struck out former par. (1) which read as follows: “shall be paid in a lump sum;”.
+    Subsec. (d)(1). [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title XI, § 1151(c)(1)\], added par. (1) and struck out former par. (1) which read as follows: “shall be paid in a lump sum;”.
 
-    Subsec. (d)(5). [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title XI, § 1151(c)(2)–(4)\], added par. (5).
+    Subsec. (d)(5). [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title XI, § 1151(c)(2)–(4)\], added par. (5).
 
-    Subsec. (g)(1). [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title XI, § 1151(d)\], inserted “, or who commences work for an agency of the United States through a personal services contract with the United States,” after “employment with the Government of the United States”.
+    Subsec. (g)(1). [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title XI, § 1151(d)\], inserted “, or who commences work for an agency of the United States through a personal services contract with the United States,” after “employment with the Government of the United States”.
 
-    Subsec. (i). [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title XI, § 1153(a)\], added subsec. (i).
+    Subsec. (i). [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title XI, § 1153(a)\], added subsec. (i).
 
     1999—Subsec. (e). [Pub. L. 106–65][/us/pl/106/65] substituted “September 30, 2003” for “September 30, 2001”.
 
-    1997—Subsec. (e). [Pub. L. 105–85, § 1106(b)(1)][/us/pl/105/85/s1106/b/1], substituted “September 30, 2001” for “September 30, 1999”.
+    1997—Subsec. (e). [Pub. L. 105–85][/us/pl/105/85], § 1106(b)(1), substituted “September 30, 2001” for “September 30, 1999”.
 
-    Subsec. (h). [Pub. L. 105–85, § 1106(a)][/us/pl/105/85/s1106/a], added subsec. (h).
+    Subsec. (h). [Pub. L. 105–85][/us/pl/105/85], § 1106(a), added subsec. (h).
 
     1996—Subsec. (g)(5). [Pub. L. 104–201][/us/pl/104/201] added par. (5).
 
@@ -143,13 +143,13 @@
 
  __Effective Date of 1996 Amendment__ 
 
-[Pub. L. 104–201, div. A, title XVI, § 1612(b)][/us/pl/104/201/s1612/b], Sept. 23, 1996, [110 Stat. 2739][/us/stat/110/2739], provided that: 
+[Pub. L. 104–201, div. A, title XVI][/us/pl/104/201/dA/tXVI], § 1612(b), Sept. 23, 1996, [110 Stat. 2739][/us/stat/110/2739], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply with respect to employment accepted on or after the date of the enactment of this Act \[Sept. 23, 1996\].”
 
  __Limitations for Fiscal Years 2002 and 2003 on VSIP and VERA__ 
 
-[Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title XI, § 1153(b)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–323, as amended by [Pub. L. 107–107, div. A, title XI, § 1133(a)][/us/pl/107/107/s1133/a], Dec. 28, 2001, [115 Stat. 1244][/us/stat/115/1244], provided that:
+[Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title XI, § 1153(b)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–323, as amended by [Pub. L. 107–107, div. A, title XI][/us/pl/107/107/dA/tXI], § 1133(a), Dec. 28, 2001, [115 Stat. 1244][/us/stat/115/1244], provided that:
 
 >     “The Secretary of Defense shall ensure that, in fiscal year 2002 not more than 2000 employees of the Department of Defense are, and in fiscal year 2003 not more than 6000 employees of the Department of Defense are, as a result of workforce restructuring, separated from service entitled to one or more of the following benefits:
 
@@ -157,15 +157,15 @@
 
 >     “(2) Immediate annuity under section 8336(o) or 8414(d) of such title.”
 
-\[[Pub. L. 107–107, div. A, title XI, § 1133(b)][/us/pl/107/107/s1133/b], Dec. 28, 2001, [115 Stat. 1244][/us/stat/115/1244], provided that: 
+\[[Pub. L. 107–107, div. A, title XI][/us/pl/107/107/dA/tXI], § 1133(b), Dec. 28, 2001, [115 Stat. 1244][/us/stat/115/1244], provided that: 
 
-> “The amendments made by subsection (a) \[amending [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title XI, § 1153(b)\], set out above\] may be superceded by another provision of law that takes effect after the date of the enactment of this Act \[Dec. 28, 2001\], and before October 1, 2003, establishing a uniform system of providing voluntary separation incentives (including a system for requiring approval of plans by the Office of Management and Budget) for employees of the Federal Government.”
+> “The amendments made by subsection (a) \[amending [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title XI, § 1153(b)\], set out above\] may be superceded by another provision of law that takes effect after the date of the enactment of this Act \[Dec. 28, 2001\], and before October 1, 2003, establishing a uniform system of providing voluntary separation incentives (including a system for requiring approval of plans by the Office of Management and Budget) for employees of the Federal Government.”
 
 \]
 
  __Voluntary Separation Incentives__ 
 
-[Pub. L. 106–303, § 2][/us/pl/106/303/s2], Oct. 13, 2000, [114 Stat. 1064][/us/stat/114/1064], as amended by [Pub. L. 108–271][/us/pl/108/271], §§ 2(a), (b)(2), (c), 8(b), July 7, 2004, [118 Stat. 811][/us/stat/118/811], 814, provided that:
+[Pub. L. 106–303][/us/pl/106/303], § 2, Oct. 13, 2000, [114 Stat. 1064][/us/stat/114/1064], as amended by [Pub. L. 108–271][/us/pl/108/271], §§ 2(a), (b)(2), (c), 8(b), July 7, 2004, [118 Stat. 811][/us/stat/118/811], 814, provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -281,31 +281,31 @@
 
 >     It is the sense of Congress that the implementation of this section is intended to reshape the Government Accountability Office workforce and not downsize the Government Accountability Office workforce.”
 
-    [Pub. L. 106–117, title XI][/us/pl/106/117], Nov. 30, 1999, [113 Stat. 1595][/us/stat/113/1595], as amended by [Pub. L. 106–419, title II, § 207][/us/pl/106/419/s207], Nov. 1, 2000, [114 Stat. 1842][/us/stat/114/1842], known as the “Department of Veterans Affairs Employment Reduction Assistance Act of 1999”, authorized the Secretary of Veterans Affairs to submit a plan to the Director of the Office of Management and Budget for the payment of voluntary separation incentive payments, and upon approval thereof to pay voluntary separation incentive payments to eligible employees of the Department of Veterans Affairs only to the extent necessary to reduce or restructure the positions and functions identified by the plan, provided that the employees separate from service with the Department through Dec. 31, 2002, whether by retirement or resignation, defined “employee” for separation incentive purposes, and provided for additional contributions to the Retirement Fund, effect of subsequent employment with the Federal Government, and effect on agency employment levels.
+    [Pub. L. 106–117, title XI][/us/pl/106/117/tXI], Nov. 30, 1999, [113 Stat. 1595][/us/stat/113/1595], as amended by [Pub. L. 106–419, title II][/us/pl/106/419/tII], § 207, Nov. 1, 2000, [114 Stat. 1842][/us/stat/114/1842], known as the “Department of Veterans Affairs Employment Reduction Assistance Act of 1999”, authorized the Secretary of Veterans Affairs to submit a plan to the Director of the Office of Management and Budget for the payment of voluntary separation incentive payments, and upon approval thereof to pay voluntary separation incentive payments to eligible employees of the Department of Veterans Affairs only to the extent necessary to reduce or restructure the positions and functions identified by the plan, provided that the employees separate from service with the Department through Dec. 31, 2002, whether by retirement or resignation, defined “employee” for separation incentive purposes, and provided for additional contributions to the Retirement Fund, effect of subsequent employment with the Federal Government, and effect on agency employment levels.
 
-    [Pub. L. 106–113, div. B, § 1000(a)(2)][/us/pl/106/113/s1000/a/2] \[title V, § 579\], Nov. 29, 1999, [113 Stat. 1535][/us/stat/113/1535], 1501A–113, as amended by [Pub. L. 106–429, § 101(a)][/us/pl/106/429/s101/a] \[title V, § 584\], Nov. 6, 2000, [114 Stat. 1900][/us/stat/114/1900], 1900A–56; [Pub. L. 107–115, title V, § 575][/us/pl/107/115/s575], Jan. 10, 2002, [115 Stat. 2168][/us/stat/115/2168]; [Pub. L. 108–7, div. E, title V, § 571][/us/pl/108/7/s571], Feb. 20, 2003, [117 Stat. 208][/us/stat/117/208], authorized voluntary separation incentives for employees of the United States Agency for International Development who voluntarily separated (whether by retirement or resignation) on or before Jan. 1, 2003, and defined pertinent terms, provided for the development of an agency strategic plan and the approval of such plan by the Director of the Office of Management and Budget, required additional agency contributions to the Retirement Fund, specified the effect of subsequent employment with the Federal Government, mandated a reduction of agency employment levels, and authorized the Office of Personnel Management to prescribe regulations to implement these provisions.
+    [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(2) \[title V, § 579\], Nov. 29, 1999, [113 Stat. 1535][/us/stat/113/1535], 1501A–113, as amended by [Pub. L. 106–429][/us/pl/106/429], § 101(a) \[title V, § 584\], Nov. 6, 2000, [114 Stat. 1900][/us/stat/114/1900], 1900A–56; [Pub. L. 107–115, title V][/us/pl/107/115/tV], § 575, Jan. 10, 2002, [115 Stat. 2168][/us/stat/115/2168]; [Pub. L. 108–7, div. E, title V][/us/pl/108/7/dE/tV], § 571, Feb. 20, 2003, [117 Stat. 208][/us/stat/117/208], authorized voluntary separation incentives for employees of the United States Agency for International Development who voluntarily separated (whether by retirement or resignation) on or before Jan. 1, 2003, and defined pertinent terms, provided for the development of an agency strategic plan and the approval of such plan by the Director of the Office of Management and Budget, required additional agency contributions to the Retirement Fund, specified the effect of subsequent employment with the Federal Government, mandated a reduction of agency employment levels, and authorized the Office of Personnel Management to prescribe regulations to implement these provisions.
 
-    [Pub. L. 106–65, div. C, title XXXI, § 3161][/us/pl/106/65/s3161], Oct. 5, 1999, [113 Stat. 942][/us/stat/113/942], as amended by [Pub. L. 107–107, div. C, title XXXI, § 3153(a)][/us/pl/107/107/s3153/a], Dec. 28, 2001, [115 Stat. 1377][/us/stat/115/1377], provided that notwithstanding section 101(f) \[title VI, § 663(c)(2)(D)\] of [Public Law 104–208][/us/pl/104/208], set out below, Department of Energy could pay voluntary separation incentive payments under such section 663 to qualifying employees who voluntarily separated (whether by retirement or resignation) before Jan. 1, 2004, and that not later than Mar. 15, 2000, Secretary of Energy was to submit to Director of Office of Personnel Management and Congress a report describing how the Department has paid voluntary separation payments under such section 663.
+    [Pub. L. 106–65, div. C, title XXXI][/us/pl/106/65/dC/tXXXI], § 3161, Oct. 5, 1999, [113 Stat. 942][/us/stat/113/942], as amended by [Pub. L. 107–107, div. C, title XXXI][/us/pl/107/107/dC/tXXXI], § 3153(a), Dec. 28, 2001, [115 Stat. 1377][/us/stat/115/1377], provided that notwithstanding section 101(f) \[title VI, § 663(c)(2)(D)\] of [Public Law 104–208][/us/pl/104/208], set out below, Department of Energy could pay voluntary separation incentive payments under such section 663 to qualifying employees who voluntarily separated (whether by retirement or resignation) before Jan. 1, 2004, and that not later than Mar. 15, 2000, Secretary of Energy was to submit to Director of Office of Personnel Management and Congress a report describing how the Department has paid voluntary separation payments under such section 663.
 
-\[[Pub. L. 107–107, div. C, title XXXI, § 3153(b)][/us/pl/107/107/s3153/b], Dec. 28, 2001, [115 Stat. 1377][/us/stat/115/1377], provided that: 
+\[[Pub. L. 107–107, div. C, title XXXI][/us/pl/107/107/dC/tXXXI], § 3153(b), Dec. 28, 2001, [115 Stat. 1377][/us/stat/115/1377], provided that: 
 
 > “The amendment made by subsection (a) \[amending [section 3161 of Pub. L. 106–65][/us/pl/106/65/s3161], set out above\] may be superseded by another provision of law that takes effect after the date of the enactment of this Act \[Dec. 28, 2001\], and before January 1, 2004, establishing a uniform system for providing voluntary separation incentives (including a system for requiring approval of plans by the Office of Management and Budget) for employees of the Federal Government.”
 
 \]
 
-    [Pub. L. 106–58, title I, § 116][/us/pl/106/58/s116], Sept. 29, 1999, [113 Stat. 439][/us/stat/113/439], authorized the Treasury Inspector General for Tax Administration, during the period from Oct. 1, 1999 through Jan. 1, 2003, to offer voluntary separation incentives in order to provide the necessary flexibility to carry out the plan to establish and reorganize the Office of the Treasury Inspector General for Tax Administration, defined “employee” for separation incentive purposes, and provided for authority to provide separation incentive payments, additional contributions to the Retirement Fund, effect of subsequent employment with the Federal Government, and effect on agency employment levels.
+    [Pub. L. 106–58, title I][/us/pl/106/58/tI], § 116, Sept. 29, 1999, [113 Stat. 439][/us/stat/113/439], authorized the Treasury Inspector General for Tax Administration, during the period from Oct. 1, 1999 through Jan. 1, 2003, to offer voluntary separation incentives in order to provide the necessary flexibility to carry out the plan to establish and reorganize the Office of the Treasury Inspector General for Tax Administration, defined “employee” for separation incentive purposes, and provided for authority to provide separation incentive payments, additional contributions to the Retirement Fund, effect of subsequent employment with the Federal Government, and effect on agency employment levels.
 
-    [Pub. L. 106–58, title I, § 119][/us/pl/106/58/s119], Sept. 29, 1999, [113 Stat. 441][/us/stat/113/441], authorized the Commissioner of the Financial Management Services of the Department of the Treasury, during the period from Oct. 1, 1999 through Jan. 31, 2000, to offer voluntary separation incentives in order to provide the necessary flexibility to carry out the closure of the Chicago Financial Center (CFC) in a manner which the Commissioner deemed most efficient, equitable to employees, and cost effective to the Government, defined “employee” for separation incentive purposes, and provided for an agency plan, authority to provide separation incentive payments, eligibility requirements, effect on subsequent employment with the Federal Government, contributions to the Retirement Fund, and reduction of agency employment levels.
+    [Pub. L. 106–58, title I][/us/pl/106/58/tI], § 119, Sept. 29, 1999, [113 Stat. 441][/us/stat/113/441], authorized the Commissioner of the Financial Management Services of the Department of the Treasury, during the period from Oct. 1, 1999 through Jan. 31, 2000, to offer voluntary separation incentives in order to provide the necessary flexibility to carry out the closure of the Chicago Financial Center (CFC) in a manner which the Commissioner deemed most efficient, equitable to employees, and cost effective to the Government, defined “employee” for separation incentive purposes, and provided for an agency plan, authority to provide separation incentive payments, eligibility requirements, effect on subsequent employment with the Federal Government, contributions to the Retirement Fund, and reduction of agency employment levels.
 
-    [Pub. L. 106–58, title IV, § 411][/us/pl/106/58/s411], Sept. 29, 1999, [113 Stat. 456][/us/stat/113/456], as amended by [Pub. L. 106–554, § 1(a)(3)][/us/pl/106/554/s1/a/3] \[title IV, § 408\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–146, authorized the Administrator of General Services, during the period Oct. 1, 1999 through Apr. 30, 2002, to offer a voluntary separation incentive in order to provide the necessary flexibility to carry out the closing of the Federal Supply Service distribution centers, forward supply points, and associated programs in a manner which the Administrator deemed most efficient, equitable to all employees, and cost effective for the Government, defined “employee” for separation incentive purposes, and provided for agency strategic plan, authority to provide incentive payments, eligibility requirements, effect of subsequent employment with the Federal Government, contributions to the Retirement Fund, and reduction of agency employment levels.
+    [Pub. L. 106–58, title IV][/us/pl/106/58/tIV], § 411, Sept. 29, 1999, [113 Stat. 456][/us/stat/113/456], as amended by [Pub. L. 106–554][/us/pl/106/554], § 1(a)(3) \[title IV, § 408\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–146, authorized the Administrator of General Services, during the period Oct. 1, 1999 through Apr. 30, 2002, to offer a voluntary separation incentive in order to provide the necessary flexibility to carry out the closing of the Federal Supply Service distribution centers, forward supply points, and associated programs in a manner which the Administrator deemed most efficient, equitable to all employees, and cost effective for the Government, defined “employee” for separation incentive purposes, and provided for agency strategic plan, authority to provide incentive payments, eligibility requirements, effect of subsequent employment with the Federal Government, contributions to the Retirement Fund, and reduction of agency employment levels.
 
-    [Pub. L. 105–261, div. C, title XXXI, § 3156][/us/pl/105/261/s3156], Oct. 17, 1998, [112 Stat. 2257][/us/stat/112/2257], provided that notwithstanding section 101(f) \[title VI, § 663(c)(2)(D)\] of [Public Law 104–208][/us/pl/104/208], set out below, Department of Energy could pay voluntary separation incentive payments to qualifying employees who voluntarily separated (whether by retirement or resignation) before Jan. 1, 2001.
+    [Pub. L. 105–261, div. C, title XXXI][/us/pl/105/261/dC/tXXXI], § 3156, Oct. 17, 1998, [112 Stat. 2257][/us/stat/112/2257], provided that notwithstanding section 101(f) \[title VI, § 663(c)(2)(D)\] of [Public Law 104–208][/us/pl/104/208], set out below, Department of Energy could pay voluntary separation incentive payments to qualifying employees who voluntarily separated (whether by retirement or resignation) before Jan. 1, 2001.
 
-    [Pub. L. 105–206, title I, § 1202][/us/pl/105/206/s1202], July 22, 1998, [112 Stat. 719][/us/stat/112/719], authorized Commissioner of Internal Revenue to pay voluntary separation incentive payments to any qualifying employee of the Internal Revenue Service who voluntarily separated (whether by retirement or resignation) before Jan. 1, 2003, provided for pertinent definitions, additional Internal Revenue Service contributions to the Retirement Fund, effect of subsequent employment with the Government, and effect on Internal Revenue Service employment levels.
+    [Pub. L. 105–206, title I][/us/pl/105/206/tI], § 1202, July 22, 1998, [112 Stat. 719][/us/stat/112/719], authorized Commissioner of Internal Revenue to pay voluntary separation incentive payments to any qualifying employee of the Internal Revenue Service who voluntarily separated (whether by retirement or resignation) before Jan. 1, 2003, provided for pertinent definitions, additional Internal Revenue Service contributions to the Retirement Fund, effect of subsequent employment with the Government, and effect on Internal Revenue Service employment levels.
 
-    [Pub. L. 104–208, div. A, title I, § 101(e)][/us/pl/104/208/s101/e] \[title V, § 520\], Sept. 30, 1996, [110 Stat. 3009–233][/us/stat/110/3009-233], 3009–272, as amended by [Pub. L. 105–78, title V, § 517][/us/pl/105/78/s517], Nov. 13, 1997, [111 Stat. 1519][/us/stat/111/1519]; [Pub. L. 106–113, div. B, § 1000(a)(4)][/us/pl/106/113/s1000/a/4] \[title V, § 515\], Nov. 29, 1999, [113 Stat. 1535][/us/stat/113/1535], 1501A–276, authorized Railroad Retirement Board and Office of Inspector General of Railroad Retirement Board to provide voluntary separation incentive payments to any qualifying employee who voluntarily separated (whether by retirement or resignation) before Mar. 31, 2000, directed the Railroad Retirement Board, prior to obligating any resources for voluntary separation incentive payments, to submit to Congress a strategic plan outlining intended use of such incentive payments and a proposed organizational chart for agency once such incentive payments have been completed, and further provided for pertinent definitions, additional contributions to the Retirement Fund, effect of subsequent employment with the Government, reduction of agency employment levels, and that program would take effect Oct. 1, 1996.
+    [Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(e) \[title V, § 520\], Sept. 30, 1996, [110 Stat. 3009–233][/us/stat/110/3009-233], 3009–272, as amended by [Pub. L. 105–78, title V][/us/pl/105/78/tV], § 517, Nov. 13, 1997, [111 Stat. 1519][/us/stat/111/1519]; [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(4) \[title V, § 515\], Nov. 29, 1999, [113 Stat. 1535][/us/stat/113/1535], 1501A–276, authorized Railroad Retirement Board and Office of Inspector General of Railroad Retirement Board to provide voluntary separation incentive payments to any qualifying employee who voluntarily separated (whether by retirement or resignation) before Mar. 31, 2000, directed the Railroad Retirement Board, prior to obligating any resources for voluntary separation incentive payments, to submit to Congress a strategic plan outlining intended use of such incentive payments and a proposed organizational chart for agency once such incentive payments have been completed, and further provided for pertinent definitions, additional contributions to the Retirement Fund, effect of subsequent employment with the Government, reduction of agency employment levels, and that program would take effect Oct. 1, 1996.
 
-[Pub. L. 104–208, div. A, title I, § 101(f)][/us/pl/104/208/s101/f] \[title VI, § 663\], Sept. 30, 1996, [110 Stat. 3009–314][/us/stat/110/3009-314], 3009–383, provided that:
+[Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(f) \[title VI, § 663\], Sept. 30, 1996, [110 Stat. 3009–314][/us/stat/110/3009-314], 3009–383, provided that:
 
 >     “(a)  __Definitions__  __.—__ 
 
@@ -403,23 +403,23 @@
 
 >     This section shall take effect October 1, 1996.”
 
-    [Pub. L. 104–205, title III, § 349][/us/pl/104/205/s349], Sept. 30, 1996, [110 Stat. 2976][/us/stat/110/2976], authorized certain agencies of Department of Transportation to provide voluntary separation incentive payments to any qualifying employee, provided that no amount would be payable based on any separation occurring before Sept. 30, 1996, or after Sept. 30, 1997, directed agencies to submit to Congress a strategic plan outlining intended use of such incentive payments and proposed organization chart for agency once such incentive payments have been completed, and further provided for definitions, additional agency contributions to the Retirement Fund, effect of subsequent employment with the Government, reductions of agency employment levels, and that program would take effect Oct. 1, 1996.
+    [Pub. L. 104–205, title III][/us/pl/104/205/tIII], § 349, Sept. 30, 1996, [110 Stat. 2976][/us/stat/110/2976], authorized certain agencies of Department of Transportation to provide voluntary separation incentive payments to any qualifying employee, provided that no amount would be payable based on any separation occurring before Sept. 30, 1996, or after Sept. 30, 1997, directed agencies to submit to Congress a strategic plan outlining intended use of such incentive payments and proposed organization chart for agency once such incentive payments have been completed, and further provided for definitions, additional agency contributions to the Retirement Fund, effect of subsequent employment with the Government, reductions of agency employment levels, and that program would take effect Oct. 1, 1996.
 
-    [Pub. L. 104–204, title IV, § 432][/us/pl/104/204/s432], Sept. 26, 1996, [110 Stat. 2931][/us/stat/110/2931], as amended by [Pub. L. 106–377, § 1(a)(1)][/us/pl/106/377/s1/a/1] \[title IV, § 428\], Oct. 27, 2000, [114 Stat. 1441][/us/stat/114/1441], 1441A–56, known as the “National Aeronautics and Space Administration Federal Employment Reduction Assistance Act of 1996”, authorized the Administrator of the National Aeronautics and Space Administration (NASA), in order to avoid or minimize the need for involuntary separations due to a reduction in force, installation closure, reorganization, transfer of function, or other similar action affecting NASA, to establish a program under which voluntary separation pay, subject to the availability of appropriated funds, be offered to encourage eligible employees to separate from service by retirement or resignation up to Sept. 30, 2002, defined terms, provided for effect of subsequent employment with the Federal Government, required additional agency contributions to the Retirement Fund, reduced agency employment levels, and required an annual report on the program to be submitted to the Office of Personnel Management.
+    [Pub. L. 104–204, title IV][/us/pl/104/204/tIV], § 432, Sept. 26, 1996, [110 Stat. 2931][/us/stat/110/2931], as amended by [Pub. L. 106–377][/us/pl/106/377], § 1(a)(1) \[title IV, § 428\], Oct. 27, 2000, [114 Stat. 1441][/us/stat/114/1441], 1441A–56, known as the “National Aeronautics and Space Administration Federal Employment Reduction Assistance Act of 1996”, authorized the Administrator of the National Aeronautics and Space Administration (NASA), in order to avoid or minimize the need for involuntary separations due to a reduction in force, installation closure, reorganization, transfer of function, or other similar action affecting NASA, to establish a program under which voluntary separation pay, subject to the availability of appropriated funds, be offered to encourage eligible employees to separate from service by retirement or resignation up to Sept. 30, 2002, defined terms, provided for effect of subsequent employment with the Federal Government, required additional agency contributions to the Retirement Fund, reduced agency employment levels, and required an annual report on the program to be submitted to the Office of Personnel Management.
 
-    [Pub. L. 104–190, § 1][/us/pl/104/190/s1], Aug. 20, 1996, [110 Stat. 1932][/us/stat/110/1932], authorized Agency for International Development to provide voluntary separation incentive payments to not more than 100 qualified employees of such agency who voluntarily separated (whether by retirement or resignation) before Feb. 1, 1997, and only to extent necessary to eliminate positions and functions identified by strategic plan to be submitted to Congress outlining intended use of such incentive payments and proposed organizational chart for agency once such incentive payments have been completed, and further provided for definitions, amount and treatment of payments, additional agency contributions to the Retirement Fund, effect of subsequent employment with the Government, and reduction of agency employment levels.
+    [Pub. L. 104–190][/us/pl/104/190], § 1, Aug. 20, 1996, [110 Stat. 1932][/us/stat/110/1932], authorized Agency for International Development to provide voluntary separation incentive payments to not more than 100 qualified employees of such agency who voluntarily separated (whether by retirement or resignation) before Feb. 1, 1997, and only to extent necessary to eliminate positions and functions identified by strategic plan to be submitted to Congress outlining intended use of such incentive payments and proposed organizational chart for agency once such incentive payments have been completed, and further provided for definitions, amount and treatment of payments, additional agency contributions to the Retirement Fund, effect of subsequent employment with the Government, and reduction of agency employment levels.
 
-    [Pub. L. 104–180, title VII, § 735][/us/pl/104/180/s735], Aug. 6, 1996, [110 Stat. 1604][/us/stat/110/1604], authorized Department of Agriculture to provide voluntary separation incentive payments to qualified employees to extent necessary to eliminate positions and functions identified by strategic plan to be submitted to Congress outlining intended use of such incentive payments and proposed organizational chart for agency once such incentive payments have been completed, provided that no amount would be payable based on any separation occurring before Aug. 6, 1996, or after Sept. 30, 2000, and further provided for definitions, amount and treatment of payments, additional agency contributions to the Retirement Fund, effect of subsequent employment with the Government, reduction of agency employment levels, and that program would take effect Oct. 1, 1996.
+    [Pub. L. 104–180, title VII][/us/pl/104/180/tVII], § 735, Aug. 6, 1996, [110 Stat. 1604][/us/stat/110/1604], authorized Department of Agriculture to provide voluntary separation incentive payments to qualified employees to extent necessary to eliminate positions and functions identified by strategic plan to be submitted to Congress outlining intended use of such incentive payments and proposed organizational chart for agency once such incentive payments have been completed, provided that no amount would be payable based on any separation occurring before Aug. 6, 1996, or after Sept. 30, 2000, and further provided for definitions, amount and treatment of payments, additional agency contributions to the Retirement Fund, effect of subsequent employment with the Government, reduction of agency employment levels, and that program would take effect Oct. 1, 1996.
 
-    [Pub. L. 104–134, title I, § 101(c)][/us/pl/104/134/s101/c] \[title III, § 339\], Apr. 26, 1996, [110 Stat. 1321–156][/us/stat/110/1321-156], 1321–210; renumbered title I, [Pub. L. 104–140, § 1(a)][/us/pl/104/140/s1/a], May 2, 1996, [110 Stat. 1327][/us/stat/110/1327], provided that, in order to avoid or minimize need for involuntary separations due to reduction in force, reorganization, transfer of function, or other similar action, Secretary of the Smithsonian Institution could pay, or authorize payment of, voluntary separation incentive payments to Smithsonian Institution employees who separated from Federal service voluntarily through Oct. 1, 1996 (whether by retirement or resignation).
+    [Pub. L. 104–134, title I][/us/pl/104/134/tI], § 101(c) \[title III, § 339\], Apr. 26, 1996, [110 Stat. 1321–156][/us/stat/110/1321-156], 1321–210; renumbered title I, [Pub. L. 104–140][/us/pl/104/140], § 1(a), May 2, 1996, [110 Stat. 1327][/us/stat/110/1327], provided that, in order to avoid or minimize need for involuntary separations due to reduction in force, reorganization, transfer of function, or other similar action, Secretary of the Smithsonian Institution could pay, or authorize payment of, voluntary separation incentive payments to Smithsonian Institution employees who separated from Federal service voluntarily through Oct. 1, 1996 (whether by retirement or resignation).
 
-    [Pub. L. 104–19, title I, § 702][/us/pl/104/19/s702], July 27, 1995, [109 Stat. 221][/us/stat/109/221], provided that General Accounting Office could for such employees as it deemed appropriate authorize payment to employees who voluntarily separated before Oct. 1, 1995, whether by retirement or resignation, which payment would be paid in accordance with provisions of subsection (d) of this section.
+    [Pub. L. 104–19, title I][/us/pl/104/19/tI], § 702, July 27, 1995, [109 Stat. 221][/us/stat/109/221], provided that General Accounting Office could for such employees as it deemed appropriate authorize payment to employees who voluntarily separated before Oct. 1, 1995, whether by retirement or resignation, which payment would be paid in accordance with provisions of subsection (d) of this section.
 
-    [Pub. L. 103–226, § 3][/us/pl/103/226/s3], Mar. 30, 1994, [108 Stat. 112][/us/stat/108/112], authorized Executive agencies (other than Department of Defense, Central Intelligence Agency, or General Accounting Office) to provide voluntary separation incentive payments to qualified employees of such agencies in order to avoid or minimize need for involuntary separations due to reduction in force, reorganization, transfer of function, or other similar action, provided that in order to receive incentive payment, employee must have separated from service with agency (whether by retirement or resignation) before Apr. 1, 1995, or, under certain circumstances, not later than Mar. 31, 1997, and further provided for definitions, amount and treatment of payments, effect of subsequent employment with the Government, regulations, and authority for Director of Administrative Office of the United States Courts to establish similar program for individuals serving in the judicial branch.
+    [Pub. L. 103–226][/us/pl/103/226], § 3, Mar. 30, 1994, [108 Stat. 112][/us/stat/108/112], authorized Executive agencies (other than Department of Defense, Central Intelligence Agency, or General Accounting Office) to provide voluntary separation incentive payments to qualified employees of such agencies in order to avoid or minimize need for involuntary separations due to reduction in force, reorganization, transfer of function, or other similar action, provided that in order to receive incentive payment, employee must have separated from service with agency (whether by retirement or resignation) before Apr. 1, 1995, or, under certain circumstances, not later than Mar. 31, 1997, and further provided for definitions, amount and treatment of payments, effect of subsequent employment with the Government, regulations, and authority for Director of Administrative Office of the United States Courts to establish similar program for individuals serving in the judicial branch.
 
  __Monitoring and Report Relating to Voluntary Separation Incentive Payments__ 
 
-[Pub. L. 103–226, § 6][/us/pl/103/226/s6], Mar. 30, 1994, [108 Stat. 117][/us/stat/108/117], provided that: 
+[Pub. L. 103–226][/us/pl/103/226], § 6, Mar. 30, 1994, [108 Stat. 117][/us/stat/108/117], provided that: 
 
 > “No later than December 31st of each fiscal year, the Office of Personnel Management shall submit to the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate and the Committee on Post Office and Civil Service of the House of Representatives a report which, with respect to the preceding fiscal year, shall include—
 
@@ -445,13 +445,13 @@
 
  __Source of Payments__ 
 
-[Pub. L. 102–484, div. D, title XLIV, § 4436(b)(1)][/us/pl/102/484/s4436/b/1], Oct. 23, 1992, [106 Stat. 2724][/us/stat/106/2724], provided that: 
+[Pub. L. 102–484, div. D, title XLIV][/us/pl/102/484/dD/tXLIV], § 4436(b)(1), Oct. 23, 1992, [106 Stat. 2724][/us/stat/106/2724], provided that: 
 
 > “For fiscal years after fiscal year 1993, separation pay shall be paid by an agency out of any funds or appropriations available for salaries and expenses of such agency.”
 
  __Report__ 
 
-[Pub. L. 102–484, div. D, title XLIV, § 4436(c)][/us/pl/102/484/s4436/c], Oct. 23, 1992, [106 Stat. 2724][/us/stat/106/2724], provided that: 
+[Pub. L. 102–484, div. D, title XLIV][/us/pl/102/484/dD/tXLIV], § 4436(c), Oct. 23, 1992, [106 Stat. 2724][/us/stat/106/2724], provided that: 
 
 > “At the end of each of fiscal years 1993 through 1998, the Secretary of Defense shall submit to the President, the Congress, and the Director of the Office of Personnel Management a report on the effectiveness and costs of carrying out the amendments made by this section \[enacting this section\].”
 
@@ -462,47 +462,47 @@
 ----------
 ----------
 
-[/us/pl/102/484/s4436/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs4436%2Fa%2F1
+[/us/pl/102/484/dD/tXLIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdD%2FtXLIV
 [/us/stat/106/2723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2723
-[/us/pl/103/226/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F226%2Fs8%2Fa
+[/us/pl/103/226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F226
 [/us/stat/108/118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F118
-[/us/pl/103/337/s341/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs341%2Fb%2F1
+[/us/pl/103/337/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtIII
 [/us/stat/108/2720]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2720
-[/us/pl/104/201/s1612/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1612%2Fa
+[/us/pl/104/201/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtXVI
 [/us/stat/110/2739]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2739
-[/us/pl/105/85/s1106/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs1106%2Fa
+[/us/pl/105/85/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtXI
 [/us/stat/111/1923]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1923
-[/us/pl/106/65/s1104/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs1104%2Fb
+[/us/pl/106/65/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtXI
 [/us/stat/113/777]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F777
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
 [/us/pl/103/226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F226
 [/us/pl/103/226/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F226%2Fs4%2Fa
 [/us/usc/t5/s8331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8331
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
-[/us/pl/105/85/s1106/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs1106%2Fb%2F1
-[/us/pl/105/85/s1106/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs1106%2Fa
+[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
+[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
 [/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
 [/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/pl/103/226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F226
-[/us/pl/104/201/s1612/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1612%2Fb
+[/us/pl/104/201/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtXVI
 [/us/stat/110/2739]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2739
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/107/107/s1133/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs1133%2Fa
+[/us/pl/107/107/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtXI
 [/us/stat/115/1244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1244
 [/us/usc/t5/s5597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5597
-[/us/pl/107/107/s1133/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs1133%2Fb
+[/us/pl/107/107/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtXI
 [/us/stat/115/1244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1244
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
-[/us/pl/106/303/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F303%2Fs2
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
+[/us/pl/106/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F303
 [/us/stat/114/1064]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1064
 [/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/stat/118/811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F811
@@ -513,46 +513,46 @@
 [/us/usc/t5/s8348/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8348%2Ff
 [/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/usc/t5/s5597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5597
-[/us/pl/106/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117
+[/us/pl/106/117/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117%2FtXI
 [/us/stat/113/1595]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1595
-[/us/pl/106/419/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419%2Fs207
+[/us/pl/106/419/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419%2FtII
 [/us/stat/114/1842]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1842
-[/us/pl/106/113/s1000/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F2
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1535
-[/us/pl/106/429/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F429%2Fs101%2Fa
+[/us/pl/106/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F429
 [/us/stat/114/1900]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1900
-[/us/pl/107/115/s575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F115%2Fs575
+[/us/pl/107/115/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F115%2FtV
 [/us/stat/115/2168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2168
-[/us/pl/108/7/s571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs571
+[/us/pl/108/7/dE/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2FdE%2FtV
 [/us/stat/117/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F208
-[/us/pl/106/65/s3161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs3161
+[/us/pl/106/65/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdC%2FtXXXI
 [/us/stat/113/942]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F942
-[/us/pl/107/107/s3153/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs3153%2Fa
+[/us/pl/107/107/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdC%2FtXXXI
 [/us/stat/115/1377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1377
 [/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
-[/us/pl/107/107/s3153/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs3153%2Fb
+[/us/pl/107/107/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdC%2FtXXXI
 [/us/stat/115/1377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1377
 [/us/pl/106/65/s3161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs3161
-[/us/pl/106/58/s116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F58%2Fs116
+[/us/pl/106/58/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F58%2FtI
 [/us/stat/113/439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F439
-[/us/pl/106/58/s119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F58%2Fs119
+[/us/pl/106/58/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F58%2FtI
 [/us/stat/113/441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F441
-[/us/pl/106/58/s411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F58%2Fs411
+[/us/pl/106/58/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F58%2FtIV
 [/us/stat/113/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F456
-[/us/pl/106/554/s1/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F3
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/105/261/s3156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs3156
+[/us/pl/105/261/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdC%2FtXXXI
 [/us/stat/112/2257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2257
 [/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
-[/us/pl/105/206/s1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs1202
+[/us/pl/105/206/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtI
 [/us/stat/112/719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F719
-[/us/pl/104/208/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Fe
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009-233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-233
-[/us/pl/105/78/s517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F78%2Fs517
+[/us/pl/105/78/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F78%2FtV
 [/us/stat/111/1519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1519
-[/us/pl/106/113/s1000/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F4
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1535
-[/us/pl/104/208/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Ff
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009-314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-314
 [/us/usc/t5/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs105
 [/us/pl/104/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F205
@@ -563,32 +563,32 @@
 [/us/usc/t5/s5754]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5754
 [/us/usc/t5/s5595/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5595%2Fc
 [/us/usc/t5/s5595]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5595
-[/us/pl/104/205/s349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F205%2Fs349
+[/us/pl/104/205/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F205%2FtIII
 [/us/stat/110/2976]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2976
-[/us/pl/104/204/s432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F204%2Fs432
+[/us/pl/104/204/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F204%2FtIV
 [/us/stat/110/2931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2931
-[/us/pl/106/377/s1/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F377%2Fs1%2Fa%2F1
+[/us/pl/106/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F377
 [/us/stat/114/1441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1441
-[/us/pl/104/190/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F190%2Fs1
+[/us/pl/104/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F190
 [/us/stat/110/1932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1932
-[/us/pl/104/180/s735]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F180%2Fs735
+[/us/pl/104/180/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F180%2FtVII
 [/us/stat/110/1604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1604
-[/us/pl/104/134/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs101%2Fc
+[/us/pl/104/134/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2FtI
 [/us/stat/110/1321-156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1321-156
-[/us/pl/104/140/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F140%2Fs1%2Fa
+[/us/pl/104/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F140
 [/us/stat/110/1327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1327
-[/us/pl/104/19/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F19%2Fs702
+[/us/pl/104/19/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F19%2FtI
 [/us/stat/109/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F221
-[/us/pl/103/226/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F226%2Fs3
+[/us/pl/103/226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F226
 [/us/stat/108/112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F112
-[/us/pl/103/226/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F226%2Fs6
+[/us/pl/103/226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F226
 [/us/stat/108/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F117
 [/us/usc/t50/s3519a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3519a
 [/us/pl/104/14/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F14%2Fs1%2Fb
 [/us/usc/t2/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs21
-[/us/pl/102/484/s4436/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs4436%2Fb%2F1
+[/us/pl/102/484/dD/tXLIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdD%2FtXLIV
 [/us/stat/106/2724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2724
-[/us/pl/102/484/s4436/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs4436%2Fc
+[/us/pl/102/484/dD/tXLIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdD%2FtXLIV
 [/us/stat/106/2724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2724
 
 

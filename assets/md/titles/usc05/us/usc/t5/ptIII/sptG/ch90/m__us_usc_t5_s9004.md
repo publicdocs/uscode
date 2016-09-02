@@ -71,7 +71,7 @@
 
             Each master contract under this chapter shall include appropriate provisions under which the carrier involved shall, during each year, make such periodic contributions to the Long-Term Care Administrative Account as necessary to ensure that the reasonable anticipated expenses of the Office in administering this chapter during such year (adjusted to reconcile for any earlier overestimates or underestimates under this subparagraph) are defrayed.
 
-(Added [Pub. L. 106–265, title I, § 1002(a)][/us/pl/106/265/s1002/a], Sept. 19, 2000, [114 Stat. 766][/us/stat/114/766].)
+(Added [Pub. L. 106–265, title I][/us/pl/106/265/tI], § 1002(a), Sept. 19, 2000, [114 Stat. 766][/us/stat/114/766].)
 
 ----------
 
@@ -80,7 +80,7 @@
 ----------
 ----------
 
-[/us/pl/106/265/s1002/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F265%2Fs1002%2Fa
+[/us/pl/106/265/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F265%2FtI
 [/us/stat/114/766]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F766
 
 

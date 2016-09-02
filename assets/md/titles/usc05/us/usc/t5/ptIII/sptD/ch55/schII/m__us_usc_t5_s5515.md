@@ -17,7 +17,7 @@
 
     An amount received by an employee as defined by [section 2105 of this title][/us/usc/t5/s2105] (except an individual whose pay is disbursed by the Secretary of the Senate, the Chief Administrative Officer of the House of Representatives, or the Chief of the Capitol Police) or an individual employed by the government of the District of Columbia for service as a juror or witness during a period for which he is entitled to leave under [section 6322(a) of this title][/us/usc/t5/s6322/a], or is performing official duty under [section 6322(b) of this title][/us/usc/t5/s6322/b], shall be credited against pay payable to him by the United States or the District of Columbia with respect to that period.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 478][/us/stat/80/478]; [Pub. L. 91–563, § 2(a)][/us/pl/91/563/s2/a], Dec. 19, 1970, [84 Stat. 1476][/us/stat/84/1476]; [Pub. L. 104–186, title II, § 215(5)][/us/pl/104/186/s215/5], Aug. 20, 1996, [110 Stat. 1745][/us/stat/110/1745]; [Pub. L. 111–145, § 7(c)(1)][/us/pl/111/145/s7/c/1], Mar. 4, 2010, [124 Stat. 55][/us/stat/124/55].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 478][/us/stat/80/478]; [Pub. L. 91–563][/us/pl/91/563], § 2(a), Dec. 19, 1970, [84 Stat. 1476][/us/stat/84/1476]; [Pub. L. 104–186, title II][/us/pl/104/186/tII], § 215(5), Aug. 20, 1996, [110 Stat. 1745][/us/stat/110/1745]; [Pub. L. 111–145][/us/pl/111/145], § 7(c)(1), Mar. 4, 2010, [124 Stat. 55][/us/stat/124/55].)
 
 <table>
 
@@ -93,11 +93,11 @@ June 29, 1940, ch. 446, § 3, 54 Stat. 689.  </td>
 [/us/usc/t5/s6322/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs6322%2Fb
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F478
-[/us/pl/91/563/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F563%2Fs2%2Fa
+[/us/pl/91/563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F563
 [/us/stat/84/1476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1476
-[/us/pl/104/186/s215/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2Fs215%2F5
+[/us/pl/104/186/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2FtII
 [/us/stat/110/1745]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1745
-[/us/pl/111/145/s7/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F145%2Fs7%2Fc%2F1
+[/us/pl/111/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F145
 [/us/stat/124/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F55
 [/us/pl/111/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F145
 [/us/pl/104/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186

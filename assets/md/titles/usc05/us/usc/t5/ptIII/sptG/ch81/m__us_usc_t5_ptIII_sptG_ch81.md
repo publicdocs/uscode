@@ -539,19 +539,19 @@ SUBCHAPTER III—LAW ENFORCEMENT OFFICERS NOT EMPLOYED BY THE UNITED STATES  </t
 
  __Amendments__ 
 
-    2008—[Pub. L. 110–181, div. A, title XI, § 1105(b)][/us/pl/110/181/s1105/b], Jan. 28, 2008, [122 Stat. 349][/us/stat/122/349], added item 8102a.
+    2008—[Pub. L. 110–181, div. A, title XI][/us/pl/110/181/dA/tXI], § 1105(b), Jan. 28, 2008, [122 Stat. 349][/us/stat/122/349], added item 8102a.
 
-    1995—[Pub. L. 104–66, title I, § 1102(b)(3)(B)][/us/pl/104/66/s1102/b/3/B], Dec. 21, 1995, [109 Stat. 723][/us/stat/109/723], added item 8152.
+    1995—[Pub. L. 104–66, title I][/us/pl/104/66/tI], § 1102(b)(3)(B), Dec. 21, 1995, [109 Stat. 723][/us/stat/109/723], added item 8152.
 
-    1994—[Pub. L. 103–333, title I, § 101(a)(2)][/us/pl/103/333/s101/a/2], Sept. 30, 1994, [108 Stat. 2547][/us/stat/108/2547], added item 8148.
+    1994—[Pub. L. 103–333, title I][/us/pl/103/333/tI], § 101(a)(2), Sept. 30, 1994, [108 Stat. 2547][/us/stat/108/2547], added item 8148.
 
-    1979—[Pub. L. 96–70, title III, § 3302(e)(12)][/us/pl/96/70/s3302/e/12], Sept. 27, 1979, [93 Stat. 499][/us/stat/93/499], substituted “Panama Canal Commission” for “Canal Zone” in item 8146.
+    1979—[Pub. L. 96–70, title III][/us/pl/96/70/tIII], § 3302(e)(12), Sept. 27, 1979, [93 Stat. 499][/us/stat/93/499], substituted “Panama Canal Commission” for “Canal Zone” in item 8146.
 
     1974—[Pub. L. 93–416][/us/pl/93/416], §§ 12(b), 23(a), Sept. 7, 1974, [88 Stat. 1146][/us/stat/88/1146], 1150, substituted “Notice of injury or death” for “Notice of injury; failure to give” in item 8119, and added item 8151.
 
-    1968—[Pub. L. 90–291, § 1(b)][/us/pl/90/291/s1/b], Apr. 19, 1968, [82 Stat. 100][/us/stat/82/100], added subchapter III consisting of items 8191, 8192, and 8193.
+    1968—[Pub. L. 90–291][/us/pl/90/291], § 1(b), Apr. 19, 1968, [82 Stat. 100][/us/stat/82/100], added subchapter III consisting of items 8191, 8192, and 8193.
 
-    1967—[Pub. L. 90–83, § 1(59)][/us/pl/90/83/s1/59], (66)(B), (67)(B), (70), Sept. 11, 1967, [81 Stat. 211][/us/stat/81/211], 212, 213, inserted “; hearings” in item 8124, added item 8143a relating to members of the National Teachers Corps and item 8146a relating to cost-of-living adjustment of compensation, and struck out item 8148 relating to reports.
+    1967—[Pub. L. 90–83][/us/pl/90/83], § 1(59), (66)(B), (67)(B), (70), Sept. 11, 1967, [81 Stat. 211][/us/stat/81/211], 212, 213, inserted “; hearings” in item 8124, added item 8143a relating to members of the National Teachers Corps and item 8146a relating to cost-of-living adjustment of compensation, and struck out item 8148 relating to reports.
 
 ----------
 
@@ -560,19 +560,19 @@ SUBCHAPTER III—LAW ENFORCEMENT OFFICERS NOT EMPLOYED BY THE UNITED STATES  </t
 ----------
 ----------
 
-[/us/pl/110/181/s1105/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1105%2Fb
+[/us/pl/110/181/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtXI
 [/us/stat/122/349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F349
-[/us/pl/104/66/s1102/b/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs1102%2Fb%2F3%2FB
+[/us/pl/104/66/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2FtI
 [/us/stat/109/723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F723
-[/us/pl/103/333/s101/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F333%2Fs101%2Fa%2F2
+[/us/pl/103/333/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F333%2FtI
 [/us/stat/108/2547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2547
-[/us/pl/96/70/s3302/e/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2Fs3302%2Fe%2F12
+[/us/pl/96/70/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2FtIII
 [/us/stat/93/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F499
 [/us/pl/93/416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F416
 [/us/stat/88/1146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1146
-[/us/pl/90/291/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F291%2Fs1%2Fb
+[/us/pl/90/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F291
 [/us/stat/82/100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F100
-[/us/pl/90/83/s1/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83%2Fs1%2F59
+[/us/pl/90/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83
 [/us/stat/81/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F211
 
 

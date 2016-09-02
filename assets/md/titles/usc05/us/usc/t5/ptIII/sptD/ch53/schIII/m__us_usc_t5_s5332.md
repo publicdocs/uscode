@@ -23,7 +23,7 @@
 
     (b) When payment is made on the basis of an hourly, daily, weekly, or biweekly rate, the rate is computed from the appropriate annual rate of basic pay named by subsection (a) of this section in accordance with the rules prescribed by [section 5504(b) of this title][/us/usc/t5/s5504/b].
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 467][/us/stat/80/467]; [Pub. L. 90–83, § 1(18)][/us/pl/90/83/s1/18], Sept. 11, 1967, [81 Stat. 199][/us/stat/81/199]; [Pub. L. 90–206, title II, § 202(a)][/us/pl/90/206/s202/a], Dec. 16, 1967, [81 Stat. 624][/us/stat/81/624]; [Pub. L. 95–454, title V, § 503(e)][/us/pl/95/454/s503/e], Oct. 13, 1978, [92 Stat. 1184][/us/stat/92/1184]; [Pub. L. 98–615, title II, § 204(a)(1)][/us/pl/98/615/s204/a/1], Nov. 8, 1984, [98 Stat. 3216][/us/stat/98/3216]; [Pub. L. 102–378, § 2(29)][/us/pl/102/378/s2/29], Oct. 2, 1992, [106 Stat. 1350][/us/stat/106/1350]; [Pub. L. 103–89, § 3(b)(1)(F)][/us/pl/103/89/s3/b/1/F], Sept. 30, 1993, [107 Stat. 982][/us/stat/107/982].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 467][/us/stat/80/467]; [Pub. L. 90–83][/us/pl/90/83], § 1(18), Sept. 11, 1967, [81 Stat. 199][/us/stat/81/199]; [Pub. L. 90–206, title II][/us/pl/90/206/tII], § 202(a), Dec. 16, 1967, [81 Stat. 624][/us/stat/81/624]; [Pub. L. 95–454, title V][/us/pl/95/454/tV], § 503(e), Oct. 13, 1978, [92 Stat. 1184][/us/stat/92/1184]; [Pub. L. 98–615, title II][/us/pl/98/615/tII], § 204(a)(1), Nov. 8, 1984, [98 Stat. 3216][/us/stat/98/3216]; [Pub. L. 102–378][/us/pl/102/378], § 2(29), Oct. 2, 1992, [106 Stat. 1350][/us/stat/106/1350]; [Pub. L. 103–89][/us/pl/103/89], § 3(b)(1)(F), Sept. 30, 1993, [107 Stat. 982][/us/stat/107/982].)
 
 <table>
 
@@ -297,25 +297,25 @@ July 18, 1966, Pub. L. 89–504, § 102(a), 80 Stat. 288.  </td>
 
  __Effective Date of 1984 Amendment__ 
 
-    [Pub. L. 98–615, title II, § 205][/us/pl/98/615/s205], Nov. 8, 1984, [98 Stat. 3217][/us/stat/98/3217], provided that amendment by [Pub. L. 98–615][/us/pl/98/615] was effective Oct. 1, 1984, and applicable with respect to pay periods commencing on or after that date, with certain exceptions and qualifications.
+    [Pub. L. 98–615, title II][/us/pl/98/615/tII], § 205, Nov. 8, 1984, [98 Stat. 3217][/us/stat/98/3217], provided that amendment by [Pub. L. 98–615][/us/pl/98/615] was effective Oct. 1, 1984, and applicable with respect to pay periods commencing on or after that date, with certain exceptions and qualifications.
 
  __Effective Date of 1978 Amendment__ 
 
-    [Pub. L. 95–454, title V, § 504(a)][/us/pl/95/454/s504/a], Oct. 13, 1978, [92 Stat. 1184][/us/stat/92/1184], provided that amendment by [Pub. L. 95–454][/us/pl/95/454] was effective on first day of first applicable pay period which began on or after Oct. 1, 1981, except it could take effect with respect to any category or categories of positions before such day to extent prescribed by Director of Office of Personnel Management.
+    [Pub. L. 95–454, title V][/us/pl/95/454/tV], § 504(a), Oct. 13, 1978, [92 Stat. 1184][/us/stat/92/1184], provided that amendment by [Pub. L. 95–454][/us/pl/95/454] was effective on first day of first applicable pay period which began on or after Oct. 1, 1981, except it could take effect with respect to any category or categories of positions before such day to extent prescribed by Director of Office of Personnel Management.
 
  __Effective Date of 1967 Amendment__ 
 
-[Pub. L. 90–206, title II, § 220(a)(2)][/us/pl/90/206/s220/a/2], Dec. 16, 1967, [81 Stat. 639][/us/stat/81/639], provided, except as otherwise expressly provided, that: 
+[Pub. L. 90–206, title II][/us/pl/90/206/tII], § 220(a)(2), Dec. 16, 1967, [81 Stat. 639][/us/stat/81/639], provided, except as otherwise expressly provided, that: 
 
 > “Sections 202 \[amending this section and enacting provisions set out as a note under this section\], 203 \[amending [section 3301 of Title 39][/us/usc/t39/s3301], The Postal Service\], 204 \[enacting [section 3512A of Title 39][/us/usc/t39/s3512A], amending sections 3512, and 3513–3531 of Title 39, and enacting provisions set out as a note under [section 3512A of Title 39][/us/usc/t39/s3512A]\], 205 \[amending sections 3542–3544 of Title 39, and enacting provisions set out as notes under sections 3542, 3544, 3552, and 3560 of Title 39\], 206 \[amending sections 3560, 3573, and 3575 of Title 39, and enacting provisions set out as a note under [section 3542 of Title 39][/us/usc/t39/s3542]\], 208 \[amending former [section 4107 of Title 38][/us/usc/t38/s4107], Veterans’ Benefits\], 209 \[amending sections 867 and 870 of Title 22, Foreign Relations and Intercourse, and enacting provisions set out as a note under [section 867 of Title 22][/us/usc/t22/s867]\], 210 \[enacting provisions set out as a note under [section 590h of Title 16][/us/usc/t16/s590h], Conservation\], 211 \[enacting provisions set out as a note under this section and [section 548 of Title 28][/us/usc/t28/s548], Judiciary and Judicial Procedure\], 213 (except subsections (d) and (e)) \[enacting provisions set out as notes under sections 603, 604, and 753 of Title 28\], 214 (except subsections (j), (k), (l), (n), and (o)) \[enacting sections 60e–14, 61–2, 293c, and 4302 of Title 2, The Congress, amending [section 1847 of Title 2][/us/usc/t2/s1847], and enacting provisions set out as a note under [section 8339 of this title][/us/usc/t5/s8339]\], and 216 \[enacting provisions set out as a note under [section 60e–14 of Title 2][/us/usc/t2/s60e–14]\] shall become effective as of the beginning of the first pay period which began on or after October 1, 1967.”
 
  __Short Title__ 
 
-[Pub. L. 90–206, § 1][/us/pl/90/206/s1], Dec. 16, 1967, [81 Stat. 613][/us/stat/81/613], provided: 
+[Pub. L. 90–206][/us/pl/90/206], § 1, Dec. 16, 1967, [81 Stat. 613][/us/stat/81/613], provided: 
 
 > “That this Act \[see Tables for classification\] may be cited as the ‘Postal Revenue and Federal Salary Act of 1967’.”
 
-[Pub. L. 90–206, title II, § 201][/us/pl/90/206/s201], Dec. 16, 1967, [81 Stat. 624][/us/stat/81/624], provided that: 
+[Pub. L. 90–206, title II][/us/pl/90/206/tII], § 201, Dec. 16, 1967, [81 Stat. 624][/us/stat/81/624], provided that: 
 
 > “This title \[see Tables for classification\] may be cited as the ‘Federal Salary Act of 1967’.”
 
@@ -329,15 +329,15 @@ July 18, 1966, Pub. L. 89–504, § 102(a), 80 Stat. 288.  </td>
 
  __Initial Adjustment of 1967__  __Pay Increases__ 
 
-    [Pub. L. 90–206, title II][/us/pl/90/206], §§ 202(b), 220(a)(2), Dec. 16, 1967, [81 Stat. 625][/us/stat/81/625], 639, effective as of the beginning of the first pay period which began on or after Oct. 1, 1967, made various initial adjustments to the rates of basic pay of officers and employees referred to in the General Schedule set forth in the amendment to this section made by [section 202(a) of Pub. L. 90–206][/us/pl/90/206/s202/a].
+    [Pub. L. 90–206, title II][/us/pl/90/206/tII], §§ 202(b), 220(a)(2), Dec. 16, 1967, [81 Stat. 625][/us/stat/81/625], 639, effective as of the beginning of the first pay period which began on or after Oct. 1, 1967, made various initial adjustments to the rates of basic pay of officers and employees referred to in the General Schedule set forth in the amendment to this section made by [section 202(a) of Pub. L. 90–206][/us/pl/90/206/s202/a].
 
  __1967__  __Salary Increase for Persons Whose Compensation Rates are Fixed by Administrative Action__ 
 
-    [Pub. L. 90–206, title II][/us/pl/90/206], §§ 211(b)–(d), 220(a)(2), Dec. 16, 1967, [81 Stat. 633][/us/stat/81/633], 639, effective as of the beginning of the first pay period which began on or after Oct. 1, 1967, authorized the increase of the rates of pay of certain officers and employees of the Federal Government and of the municipal government of the District of Columbia by amounts not to exceed the increases provided by title II of [Pub. L. 90–206][/us/pl/90/206] for corresponding rates of pay in the appropriate schedule or scale of pay.
+    [Pub. L. 90–206, title II][/us/pl/90/206/tII], §§ 211(b)–(d), 220(a)(2), Dec. 16, 1967, [81 Stat. 633][/us/stat/81/633], 639, effective as of the beginning of the first pay period which began on or after Oct. 1, 1967, authorized the increase of the rates of pay of certain officers and employees of the Federal Government and of the municipal government of the District of Columbia by amounts not to exceed the increases provided by title II of [Pub. L. 90–206][/us/pl/90/206] for corresponding rates of pay in the appropriate schedule or scale of pay.
 
  __Retroactive Compensation Under 1967 Pay Increases__ 
 
-    [Pub. L. 90–206, title II, § 218][/us/pl/90/206/s218], Dec. 16, 1967, [81 Stat. 638][/us/stat/81/638], provided for retroactive pay under title II of [Pub. L. 90–206][/us/pl/90/206] only in the case of an individual in the service of the United States, including service in the Armed Forces, or the municipal government of the District of Columbia on Dec. 16, 1967, subject to certain restrictions.
+    [Pub. L. 90–206, title II][/us/pl/90/206/tII], § 218, Dec. 16, 1967, [81 Stat. 638][/us/stat/81/638], provided for retroactive pay under title II of [Pub. L. 90–206][/us/pl/90/206] only in the case of an individual in the service of the United States, including service in the Armed Forces, or the municipal government of the District of Columbia on Dec. 16, 1967, subject to certain restrictions.
 
  __Ex. Ord. No. 13686. Adjustments of Certain Rates of Pay__ 
 
@@ -7831,17 +7831,17 @@ AL–1  </td>
 [/us/usc/t5/s5504/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5504%2Fb
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F467
-[/us/pl/90/83/s1/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83%2Fs1%2F18
+[/us/pl/90/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83
 [/us/stat/81/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F199
-[/us/pl/90/206/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F206%2Fs202%2Fa
+[/us/pl/90/206/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F206%2FtII
 [/us/stat/81/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F624
-[/us/pl/95/454/s503/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs503%2Fe
+[/us/pl/95/454/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtV
 [/us/stat/92/1184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1184
-[/us/pl/98/615/s204/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F615%2Fs204%2Fa%2F1
+[/us/pl/98/615/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F615%2FtII
 [/us/stat/98/3216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3216
-[/us/pl/102/378/s2/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378%2Fs2%2F29
+[/us/pl/102/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378
 [/us/stat/106/1350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1350
-[/us/pl/103/89/s3/b/1/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F89%2Fs3%2Fb%2F1%2FF
+[/us/pl/103/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F89
 [/us/stat/107/982]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F982
 [/us/stat/68/1108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F1108
 [/us/pl/103/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F89
@@ -7856,13 +7856,13 @@ AL–1  </td>
 [/us/pl/102/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378
 [/us/pl/102/378/s9/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378%2Fs9%2Fb%2F4
 [/us/usc/t5/s6303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs6303
-[/us/pl/98/615/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F615%2Fs205
+[/us/pl/98/615/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F615%2FtII
 [/us/stat/98/3217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3217
 [/us/pl/98/615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F615
-[/us/pl/95/454/s504/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs504%2Fa
+[/us/pl/95/454/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtV
 [/us/stat/92/1184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1184
 [/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454
-[/us/pl/90/206/s220/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F206%2Fs220%2Fa%2F2
+[/us/pl/90/206/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F206%2FtII
 [/us/stat/81/639]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F639
 [/us/usc/t39/s3301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs3301
 [/us/usc/t39/s3512A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs3512A
@@ -7875,21 +7875,21 @@ AL–1  </td>
 [/us/usc/t2/s1847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1847
 [/us/usc/t5/s8339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8339
 [/us/usc/t2/s60e–14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs60e%E2%80%9314
-[/us/pl/90/206/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F206%2Fs1
+[/us/pl/90/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F206
 [/us/stat/81/613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F613
-[/us/pl/90/206/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F206%2Fs201
+[/us/pl/90/206/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F206%2FtII
 [/us/stat/81/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F624
 [/us/pl/93/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F549
 [/us/stat/88/1743]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1743
 [/us/pl/91/231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F231
 [/us/stat/84/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F195
-[/us/pl/90/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F206
+[/us/pl/90/206/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F206%2FtII
 [/us/stat/81/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F625
 [/us/pl/90/206/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F206%2Fs202%2Fa
-[/us/pl/90/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F206
+[/us/pl/90/206/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F206%2FtII
 [/us/stat/81/633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F633
 [/us/pl/90/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F206
-[/us/pl/90/206/s218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F206%2Fs218
+[/us/pl/90/206/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F206%2FtII
 [/us/stat/81/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F638
 [/us/pl/90/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F206
 [/us/usc/t5/s5302/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5302%2F1

@@ -39,7 +39,7 @@
 
     (d) The Office shall prescribe such regulations as it considers necessary for the administration of this section.
 
-(Added [Pub. L. 101–509, title V, § 529][/us/pl/101/509/s529] \[title II, § 211(a)\], Nov. 5, 1990, [104 Stat. 1427][/us/stat/104/1427], 1461.)
+(Added [Pub. L. 101–509, title V][/us/pl/101/509/tV], § 529 \[title II, § 211(a)\], Nov. 5, 1990, [104 Stat. 1427][/us/stat/104/1427], 1461.)
 
  __References in Text__ 
 
@@ -56,7 +56,7 @@
 ----------
 ----------
 
-[/us/pl/101/509/s529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2Fs529
+[/us/pl/101/509/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2FtV
 [/us/stat/104/1427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1427
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
 [/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509

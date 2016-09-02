@@ -21,7 +21,7 @@
 
     (2) a preference eligible under section 2108(3)(A)–(B) of this title—5 points.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 419][/us/stat/80/419]; [Pub. L. 90–83, § 1(8)][/us/pl/90/83/s1/8], Sept. 11, 1967, [81 Stat. 197][/us/stat/81/197]; [Pub. L. 105–85, div. A, title XI, § 1102(b)][/us/pl/105/85/s1102/b], Nov. 18, 1997, [111 Stat. 1922][/us/stat/111/1922].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 419][/us/stat/80/419]; [Pub. L. 90–83][/us/pl/90/83], § 1(8), Sept. 11, 1967, [81 Stat. 197][/us/stat/81/197]; [Pub. L. 105–85, div. A, title XI][/us/pl/105/85/dA/tXI], § 1102(b), Nov. 18, 1997, [111 Stat. 1922][/us/stat/111/1922].)
 
 <table>
 
@@ -152,9 +152,9 @@ Aug. 14, 1953, ch. 485, § 1(a) “Sec. 3 (1st sentence)”, 67 Stat. 581.  </
 
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F419
-[/us/pl/90/83/s1/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83%2Fs1%2F8
+[/us/pl/90/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83
 [/us/stat/81/197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F197
-[/us/pl/105/85/s1102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs1102%2Fb
+[/us/pl/105/85/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtXI
 [/us/stat/111/1922]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1922
 [/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
 [/us/pl/90/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83

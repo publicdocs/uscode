@@ -33,7 +33,7 @@
 
     (c) Employees within a unit to which a labor organization is accorded exclusive recognition under chapter 71 shall not be subject to any flexibility provided by sections 9507 through 9510 of this chapter unless the exclusive representative and the Internal Revenue Service have entered into a written agreement which specifically provides for the exercise of that flexibility. Such written agreement may be imposed by the Federal Services Impasses Panel under section 7119.
 
-(Added [Pub. L. 105–206, title I, § 1201(a)][/us/pl/105/206/s1201/a], July 22, 1998, [112 Stat. 712][/us/stat/112/712].)
+(Added [Pub. L. 105–206, title I][/us/pl/105/206/tI], § 1201(a), July 22, 1998, [112 Stat. 712][/us/stat/112/712].)
 
 ----------
 
@@ -42,7 +42,7 @@
 ----------
 ----------
 
-[/us/pl/105/206/s1201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs1201%2Fa
+[/us/pl/105/206/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtI
 [/us/stat/112/712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F712
 
 

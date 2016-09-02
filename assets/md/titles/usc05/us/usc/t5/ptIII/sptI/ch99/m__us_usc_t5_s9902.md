@@ -301,7 +301,7 @@
 
             (C) the Committee on Oversight and Government Reform of the House of Representatives.
 
-(Added [Pub. L. 108–136, div. A, title XI, § 1101(a)(1)][/us/pl/108/136/s1101/a/1], Nov. 24, 2003, [117 Stat. 1621][/us/stat/117/1621]; amended [Pub. L. 110–181, div. A, title XI, § 1106(a)][/us/pl/110/181/s1106/a], Jan. 28, 2008, [122 Stat. 349][/us/stat/122/349]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title XI, § 1106, Oct. 14, 2008, [122 Stat. 4617][/us/stat/122/4617]; [Pub. L. 111–84, div. A, title XI][/us/pl/111/84], §§ 1113(b)(1), (d), (f)(1), 1121, Oct. 28, 2009, [123 Stat. 2498][/us/stat/123/2498], 2499, 2502, 2505; [Pub. L. 111–383, div. A, title X, § 1075(a)(2)][/us/pl/111/383/s1075/a/2], title XI, § 1101(c), Jan. 7, 2011, [124 Stat. 4368][/us/stat/124/4368], 4382; [Pub. L. 112–81, div. A, title XI][/us/pl/112/81], §§ 1101(a)–(c), 1102(a), Dec. 31, 2011, [125 Stat. 1610][/us/stat/125/1610], 1611.)
+(Added [Pub. L. 108–136, div. A, title XI][/us/pl/108/136/dA/tXI], § 1101(a)(1), Nov. 24, 2003, [117 Stat. 1621][/us/stat/117/1621]; amended [Pub. L. 110–181, div. A, title XI][/us/pl/110/181/dA/tXI], § 1106(a), Jan. 28, 2008, [122 Stat. 349][/us/stat/122/349]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title XI, § 1106, Oct. 14, 2008, [122 Stat. 4617][/us/stat/122/4617]; [Pub. L. 111–84, div. A, title XI][/us/pl/111/84/dA/tXI], §§ 1113(b)(1), (d), (f)(1), 1121, Oct. 28, 2009, [123 Stat. 2498][/us/stat/123/2498], 2499, 2502, 2505; [Pub. L. 111–383, div. A, title X][/us/pl/111/383/dA/tX], § 1075(a)(2), title XI, § 1101(c), Jan. 7, 2011, [124 Stat. 4368][/us/stat/124/4368], 4382; [Pub. L. 112–81, div. A, title XI][/us/pl/112/81/dA/tXI], §§ 1101(a)–(c), 1102(a), Dec. 31, 2011, [125 Stat. 1610][/us/stat/125/1610], 1611.)
 
  __References in Text__ 
 
@@ -313,23 +313,23 @@
 
  __Amendments__ 
 
-    2011—Subsec. (a)(1)(D), (E). [Pub. L. 112–81, § 1101(a)][/us/pl/112/81/s1101/a], added subpar. (D) and redesignated former subpar. (D) as (E).
+    2011—Subsec. (a)(1)(D), (E). [Pub. L. 112–81][/us/pl/112/81], § 1101(a), added subpar. (D) and redesignated former subpar. (D) as (E).
 
-    Subsec. (a)(2). [Pub. L. 111–383, § 1075(a)(2)][/us/pl/111/383/s1075/a/2], substituted “chapter” for “chapters” in two places.
+    Subsec. (a)(2). [Pub. L. 111–383][/us/pl/111/383], § 1075(a)(2), substituted “chapter” for “chapters” in two places.
 
-    Subsec. (b)(5), (6). [Pub. L. 112–81, § 1101(b)][/us/pl/112/81/s1101/b], added pars. (5) and (6).
+    Subsec. (b)(5), (6). [Pub. L. 112–81][/us/pl/112/81], § 1101(b), added pars. (5) and (6).
 
-    Subsec. (c)(6) to (9). [Pub. L. 112–81, § 1101(c)][/us/pl/112/81/s1101/c], added pars. (6) and (7) and redesignated former pars. (6) and (7) as (8) and (9), respectively.
+    Subsec. (c)(6) to (9). [Pub. L. 112–81][/us/pl/112/81], § 1101(c), added pars. (6) and (7) and redesignated former pars. (6) and (7) as (8) and (9), respectively.
 
-    Subsec. (g)(3), (4). [Pub. L. 111–383, § 1101(c)][/us/pl/111/383/s1101/c], amended directory language of [Pub. L. 111–84, § 1121][/us/pl/111/84/s1121]. See 2009 Amendment note below.
+    Subsec. (g)(3), (4). [Pub. L. 111–383][/us/pl/111/383], § 1101(c), amended directory language of [Pub. L. 111–84][/us/pl/111/84], § 1121. See 2009 Amendment note below.
 
-    Subsec. (h). [Pub. L. 112–81, § 1102(a)][/us/pl/112/81/s1102/a], added subsec. (h).
+    Subsec. (h). [Pub. L. 112–81][/us/pl/112/81], § 1102(a), added subsec. (h).
 
-    2009—[Pub. L. 111–84, § 1113(f)(1)][/us/pl/111/84/s1113/f/1], amended section catchline generally, substituting “Department of Defense personnel authorities” for “Establishment of human resources management system”.
+    2009—[Pub. L. 111–84][/us/pl/111/84], § 1113(f)(1), amended section catchline generally, substituting “Department of Defense personnel authorities” for “Establishment of human resources management system”.
 
-    [Pub. L. 111–84, § 1113(b)(1)][/us/pl/111/84/s1113/b/1], (d), added subsecs. (a) to (d), redesignated subsecs. (f) to (h) as (e) to (g), respectively, and struck out former subsecs. (a) to (e), (i), and (j) which, respectively, authorized the Secretary of Defense to establish and adjust the National Security Personnel System (NSPS), provided for certain requirements of the NSPS, provided for certain exceptions to the NSPS with respect to certain laboratories, enumerated nonwaivable provisions referred to in former subsec. (b)(3)(D), established limitations relating to pay, preserved certain rights of and limitations on the Secretary, and prohibited the addition of an organizational or functional unit to the NSPS that would cause the number of employees added to the NSPS to exceed 100,000 in that year.
+    [Pub. L. 111–84][/us/pl/111/84], § 1113(b)(1), (d), added subsecs. (a) to (d), redesignated subsecs. (f) to (h) as (e) to (g), respectively, and struck out former subsecs. (a) to (e), (i), and (j) which, respectively, authorized the Secretary of Defense to establish and adjust the National Security Personnel System (NSPS), provided for certain requirements of the NSPS, provided for certain exceptions to the NSPS with respect to certain laboratories, enumerated nonwaivable provisions referred to in former subsec. (b)(3)(D), established limitations relating to pay, preserved certain rights of and limitations on the Secretary, and prohibited the addition of an organizational or functional unit to the NSPS that would cause the number of employees added to the NSPS to exceed 100,000 in that year.
 
-    Subsec. (g)(3), (4). [Pub. L. 111–84, § 1121][/us/pl/111/84/s1121], as amended by [Pub. L. 111–383, § 1101(c)][/us/pl/111/383/s1101/c], added par. (3), redesignated former par. (3) as (4), and, in par. (4), inserted “, excluding paragraph (3)” before period at end.
+    Subsec. (g)(3), (4). [Pub. L. 111–84][/us/pl/111/84], § 1121, as amended by [Pub. L. 111–383][/us/pl/111/383], § 1101(c), added par. (3), redesignated former par. (3) as (4), and, in par. (4), inserted “, excluding paragraph (3)” before period at end.
 
     2008—[Pub. L. 110–181][/us/pl/110/181] amended section generally, substituting provisions relating to establishment of human resources management system for former provisions which related to, in subsec. (a), general authority of Secretary of Defense to establish and adjust a human resources management system, in subsec. (b), system requirements, in subsec. (c), personnel management at defense laboratories, in subsec. (d), nonwaivable provisions, in subsec. (e), limitations relating to pay, in subsec. (f), collaboration with employee representatives, in subsec. (g), national level bargaining, in subsec. (h), appellate procedures, in subsec. (i), separation and retirement incentives, in subsec. (j), reemployment, in subsec. (k), personnel management, in subsec. (l), phase-in of the National Security Personnel System, and, in subsec. (m), labor management relations.
 
@@ -343,7 +343,7 @@
 
  __Effective Date of 2011 Amendment__ 
 
-[Pub. L. 111–383, div. A, title XI, § 1101(d)][/us/pl/111/383/s1101/d], Jan. 7, 2011, [124 Stat. 4382][/us/stat/124/4382], provided that:
+[Pub. L. 111–383, div. A, title XI][/us/pl/111/383/dA/tXI], § 1101(d), Jan. 7, 2011, [124 Stat. 4382][/us/stat/124/4382], provided that:
 
 >     “(1) Except as provided in paragraph (2), the amendments made by this section \[amending this section and provisions set out as notes preceding section 1580 and under [section 2358 of Title 10][/us/usc/t10/s2358], Armed Forces\] shall take effect as of October 28, 2009.
 
@@ -351,13 +351,13 @@
 
  __References to__  __[__  __Pub. L. 111–383__  __][/us/pl/111/383]__ 
 
-[Pub. L. 111–383, § 1(b)][/us/pl/111/383/s1/b], Jan. 7, 2011, [124 Stat. 4137][/us/stat/124/4137], provided that: 
+[Pub. L. 111–383][/us/pl/111/383], § 1(b), Jan. 7, 2011, [124 Stat. 4137][/us/stat/124/4137], provided that: 
 
 > “Any reference in this or any other Act to the ‘National Defense Authorization Act for Fiscal Year 2011’ shall be deemed to refer to the ‘Ike Skelton National Defense Authorization Act for Fiscal Year 2011’.”
 
  __Reports on Performance Management System and Appointment Procedures__ 
 
-[Pub. L. 112–81, div. A, title XI, § 1102(b)][/us/pl/112/81/s1102/b], Dec. 31, 2011, [125 Stat. 1611][/us/stat/125/1611], provided that:
+[Pub. L. 112–81, div. A, title XI][/us/pl/112/81/dA/tXI], § 1102(b), Dec. 31, 2011, [125 Stat. 1611][/us/stat/125/1611], provided that:
 
 >     “(1)
 
@@ -393,7 +393,7 @@
 
  __Provisions Relating to the National Security Personnel System__ 
 
-[Pub. L. 111–84, div. A, title XI, § 1113(a)][/us/pl/111/84/s1113/a]–(g), Oct. 28, 2009, [123 Stat. 2498–2502][/us/stat/123/2498-2502], as amended by [Pub. L. 111–383, div. A, title X, § 1075(d)(17)][/us/pl/111/383/s1075/d/17], Jan. 7, 2011, [124 Stat. 4373][/us/stat/124/4373]; [Pub. L. 112–81, div. A, title XI, § 1102(c)(2)][/us/pl/112/81/s1102/c/2], Dec. 31, 2011, [125 Stat. 1612][/us/stat/125/1612], provided that:
+[Pub. L. 111–84, div. A, title XI][/us/pl/111/84/dA/tXI], § 1113(a)–(g), Oct. 28, 2009, [123 Stat. 2498–2502][/us/stat/123/2498-2502], as amended by [Pub. L. 111–383, div. A, title X][/us/pl/111/383/dA/tX], § 1075(d)(17), Jan. 7, 2011, [124 Stat. 4373][/us/stat/124/4373]; [Pub. L. 112–81, div. A, title XI][/us/pl/112/81/dA/tXI], § 1102(c)(2), Dec. 31, 2011, [125 Stat. 1612][/us/stat/125/1612], provided that:
 
 >     “(a)  __Definitions__  __.—__ 
 
@@ -459,7 +459,7 @@
 
 >     \[Amended this section.\]
 
->     “\[(e) Repealed. [Pub. L. 112–81, div. A, title XI, § 1102(c)(2)][/us/pl/112/81/s1102/c/2], Dec. 31, 2011, [125 Stat. 1612][/us/stat/125/1612].\]
+>     “\[(e) Repealed. [Pub. L. 112–81, div. A, title XI][/us/pl/112/81/dA/tXI], § 1102(c)(2), Dec. 31, 2011, [125 Stat. 1612][/us/stat/125/1612].\]
 
 >     “(f)  __Clerical Amendments__  __.—__ 
 
@@ -513,17 +513,17 @@
 
  __Implementation__ 
 
-    [Pub. L. 110–181, div. A, title XI, § 1106(b)][/us/pl/110/181/s1106/b], Jan. 28, 2008, [122 Stat. 356][/us/stat/122/356], which related to implementation of requirements of this section as amended by [Pub. L. 110–181][/us/pl/110/181], was repealed by [Pub. L. 111–84, div. A, title XI, § 1113(h)(1)][/us/pl/111/84/s1113/h/1], Oct. 28, 2009, [123 Stat. 2503][/us/stat/123/2503].
+    [Pub. L. 110–181, div. A, title XI][/us/pl/110/181/dA/tXI], § 1106(b), Jan. 28, 2008, [122 Stat. 356][/us/stat/122/356], which related to implementation of requirements of this section as amended by [Pub. L. 110–181][/us/pl/110/181], was repealed by [Pub. L. 111–84, div. A, title XI][/us/pl/111/84/dA/tXI], § 1113(h)(1), Oct. 28, 2009, [123 Stat. 2503][/us/stat/123/2503].
 
  __Civilian Pay__ 
 
-[Pub. L. 109–13, div. A, title I, § 1020][/us/pl/109/13/s1020], May 11, 2005, [119 Stat. 251][/us/stat/119/251], provided that: 
+[Pub. L. 109–13, div. A, title I][/us/pl/109/13/dA/tI], § 1020, May 11, 2005, [119 Stat. 251][/us/stat/119/251], provided that: 
 
 > “None of the funds appropriated to the Department of Defense by this Act or any other Act for fiscal year 2005 or any other fiscal year may be expended for any pay raise granted on or after January 1, 2005, that is implemented in a manner that provides a greater increase for non-career employees than for career employees on the basis of their status as career or non-career employees, unless specifically authorized by law: Provided, That this provision shall be implemented for fiscal year 2005 without regard to the requirements of [section 5383 of title 5][/us/usc/t5/s5383], United States Code: Provided further, That no employee of the Department of Defense shall have his or her pay reduced for the purpose of complying with the requirements of this provision.”
 
  __Pilot Program for Improved Civilian Personnel Management__ 
 
-[Pub. L. 108–136, div. A, title XI, § 1111][/us/pl/108/136/s1111], Nov. 24, 2003, [117 Stat. 1634][/us/stat/117/1634], provided that:
+[Pub. L. 108–136, div. A, title XI][/us/pl/108/136/dA/tXI], § 1111, Nov. 24, 2003, [117 Stat. 1634][/us/stat/117/1634], provided that:
 
 >     “(a)  __Pilot Program__  __.—__ 
 
@@ -578,72 +578,72 @@
 [/us/pl/103/226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F226
 [/us/stat/108/111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F111
 [/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
-[/us/pl/108/136/s1101/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1101%2Fa%2F1
+[/us/pl/108/136/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtXI
 [/us/stat/117/1621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1621
-[/us/pl/110/181/s1106/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1106%2Fa
+[/us/pl/110/181/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtXI
 [/us/stat/122/349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F349
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4617
-[/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
+[/us/pl/111/84/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtXI
 [/us/stat/123/2498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2498
-[/us/pl/111/383/s1075/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1075%2Fa%2F2
+[/us/pl/111/383/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtX
 [/us/stat/124/4368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4368
-[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtXI
 [/us/stat/125/1610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1610
 [/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
 [/us/stat/104/1808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1808
 [/us/usc/t10/s2687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2687
 [/us/pl/103/226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F226
 [/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
-[/us/pl/112/81/s1101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1101%2Fa
-[/us/pl/111/383/s1075/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1075%2Fa%2F2
-[/us/pl/112/81/s1101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1101%2Fb
-[/us/pl/112/81/s1101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1101%2Fc
-[/us/pl/111/383/s1101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1101%2Fc
-[/us/pl/111/84/s1121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs1121
-[/us/pl/112/81/s1102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1102%2Fa
-[/us/pl/111/84/s1113/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs1113%2Ff%2F1
-[/us/pl/111/84/s1113/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs1113%2Fb%2F1
-[/us/pl/111/84/s1121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs1121
-[/us/pl/111/383/s1101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1101%2Fc
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
+[/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
+[/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
+[/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
+[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
 [/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
-[/us/pl/111/383/s1101/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1101%2Fd
+[/us/pl/111/383/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtXI
 [/us/stat/124/4382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4382
 [/us/usc/t10/s2358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2358
 [/us/usc/t10/s1580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1580
 [/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
-[/us/pl/111/383/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1%2Fb
+[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
 [/us/stat/124/4137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4137
-[/us/pl/112/81/s1102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1102%2Fb
+[/us/pl/112/81/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtXI
 [/us/stat/125/1611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1611
 [/us/usc/t5/s9902/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs9902%2Fa
-[/us/pl/111/84/s1113/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs1113%2Fa
+[/us/pl/111/84/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtXI
 [/us/stat/123/2498-2502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2498-2502
-[/us/pl/111/383/s1075/d/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1075%2Fd%2F17
+[/us/pl/111/383/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtX
 [/us/stat/124/4373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4373
-[/us/pl/112/81/s1102/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1102%2Fc%2F2
+[/us/pl/112/81/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtXI
 [/us/stat/125/1612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1612
 [/us/usc/t5/s9902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs9902
 [/us/usc/t5/s9902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs9902
 [/us/usc/t5/s9902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs9902
 [/us/usc/t5/s9902/e/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs9902%2Fe%2F7
-[/us/pl/112/81/s1102/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1102%2Fc%2F2
+[/us/pl/112/81/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtXI
 [/us/stat/125/1612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1612
 [/us/usc/t5/s9901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs9901
 [/us/usc/t5/s9902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs9902
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
 [/us/usc/t5/s9902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs9902
 [/us/usc/t5/s9902/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs9902%2Fb
-[/us/pl/110/181/s1106/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1106%2Fb
+[/us/pl/110/181/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtXI
 [/us/stat/122/356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F356
 [/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
-[/us/pl/111/84/s1113/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs1113%2Fh%2F1
+[/us/pl/111/84/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtXI
 [/us/stat/123/2503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2503
-[/us/pl/109/13/s1020]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F13%2Fs1020
+[/us/pl/109/13/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F13%2FdA%2FtI
 [/us/stat/119/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F251
 [/us/usc/t5/s5383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5383
-[/us/pl/108/136/s1111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1111
+[/us/pl/108/136/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtXI
 [/us/stat/117/1634]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1634
 
 

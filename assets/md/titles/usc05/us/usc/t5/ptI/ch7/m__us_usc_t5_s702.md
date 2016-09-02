@@ -17,7 +17,7 @@
 
     A person suffering legal wrong because of agency action, or adversely affected or aggrieved by agency action within the meaning of a relevant statute, is entitled to judicial review thereof. An action in a court of the United States seeking relief other than money damages and stating a claim that an agency or an officer or employee thereof acted or failed to act in an official capacity or under color of legal authority shall not be dismissed nor relief therein be denied on the ground that it is against the United States or that the United States is an indispensable party. The United States may be named as a defendant in any such action, and a judgment or decree may be entered against the United States: Provided, That any mandatory or injunctive decree shall specify the Federal officer or officers (by name or by title), and their successors in office, personally responsible for compliance. Nothing herein (1) affects other limitations on judicial review or the power or duty of the court to dismiss any action or deny relief on any other appropriate legal or equitable ground; or (2) confers authority to grant relief if any other statute that grants consent to suit expressly or impliedly forbids the relief which is sought.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 392][/us/stat/80/392]; [Pub. L. 94–574, § 1][/us/pl/94/574/s1], Oct. 21, 1976, [90 Stat. 2721][/us/stat/90/2721].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 392][/us/stat/80/392]; [Pub. L. 94–574][/us/pl/94/574], § 1, Oct. 21, 1976, [90 Stat. 2721][/us/stat/90/2721].)
 
 <table>
 
@@ -80,7 +80,7 @@ June 11, 1946, ch. 324, § 10(a), 60 Stat. 243.  </td>
 
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F392
-[/us/pl/94/574/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F574%2Fs1
+[/us/pl/94/574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F574
 [/us/stat/90/2721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2721
 [/us/pl/94/574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F574
 

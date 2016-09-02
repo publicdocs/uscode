@@ -53,7 +53,7 @@
 
     For purposes of this section, the term “Commission” means the Securities and Exchange Commission.
 
-(Added [Pub. L. 108–44, § 2(a)][/us/pl/108/44/s2/a], July 3, 2003, [117 Stat. 842][/us/stat/117/842]; amended [Pub. L. 111–203, title IX, § 929G(a)][/us/pl/111/203/s929G/a], July 21, 2010, [124 Stat. 1855][/us/stat/124/1855].)
+(Added [Pub. L. 108–44][/us/pl/108/44], § 2(a), July 3, 2003, [117 Stat. 842][/us/stat/117/842]; amended [Pub. L. 111–203, title IX][/us/pl/111/203/tIX], § 929G(a), July 21, 2010, [124 Stat. 1855][/us/stat/124/1855].)
 
  __Amendments__ 
 
@@ -76,9 +76,9 @@
 ----------
 ----------
 
-[/us/pl/108/44/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F44%2Fs2%2Fa
+[/us/pl/108/44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F44
 [/us/stat/117/842]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F842
-[/us/pl/111/203/s929G/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs929G%2Fa
+[/us/pl/111/203/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIX
 [/us/stat/124/1855]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1855
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203

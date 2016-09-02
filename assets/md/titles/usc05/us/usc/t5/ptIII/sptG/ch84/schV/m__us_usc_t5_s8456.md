@@ -51,11 +51,11 @@
 
         (3) the position is at the same grade or equivalent level as the position from which the individual was separated.
 
-(Added [Pub. L. 99–335, title I, § 101(a)][/us/pl/99/335/s101/a], June 6, 1986, [100 Stat. 570][/us/stat/100/570], § 8457; amended [Pub. L. 99–556, title I, § 118][/us/pl/99/556/s118], Oct. 27, 1986, [100 Stat. 3134][/us/stat/100/3134]; renumbered § 8456, [Pub. L. 100–238, title I, § 124(b)(1)(B)][/us/pl/100/238/s124/b/1/B], Jan. 8, 1988, [101 Stat. 1756][/us/stat/101/1756]; [Pub. L. 103–337, div. A, title XVI, § 1677(a)(4)][/us/pl/103/337/s1677/a/4], Oct. 5, 1994, [108 Stat. 3019][/us/stat/108/3019].)
+(Added [Pub. L. 99–335, title I][/us/pl/99/335/tI], § 101(a), June 6, 1986, [100 Stat. 570][/us/stat/100/570], § 8457; amended [Pub. L. 99–556, title I][/us/pl/99/556/tI], § 118, Oct. 27, 1986, [100 Stat. 3134][/us/stat/100/3134]; renumbered § 8456, [Pub. L. 100–238, title I][/us/pl/100/238/tI], § 124(b)(1)(B), Jan. 8, 1988, [101 Stat. 1756][/us/stat/101/1756]; [Pub. L. 103–337, div. A, title XVI][/us/pl/103/337/dA/tXVI], § 1677(a)(4), Oct. 5, 1994, [108 Stat. 3019][/us/stat/108/3019].)
 
  __Prior Provisions__ 
 
-    A prior section 8456, added [Pub. L. 99–355, title I, § 101(a)][/us/pl/99/355/s101/a], June 6, 1986, [100 Stat. 569][/us/stat/100/569], related to relationship between annuity and workers’ compensation, prior to repeal by [Pub. L. 100–238, title I, § 124(b)(1)(A)][/us/pl/100/238/s124/b/1/A], Jan. 8, 1988, [101 Stat. 1756][/us/stat/101/1756]. See [section 8464a of this title][/us/usc/t5/s8464a].
+    A prior section 8456, added [Pub. L. 99–355, title I][/us/pl/99/355/tI], § 101(a), June 6, 1986, [100 Stat. 569][/us/stat/100/569], related to relationship between annuity and workers’ compensation, prior to repeal by [Pub. L. 100–238, title I][/us/pl/100/238/tI], § 124(b)(1)(A), Jan. 8, 1988, [101 Stat. 1756][/us/stat/101/1756]. See [section 8464a of this title][/us/usc/t5/s8464a].
 
  __Amendments__ 
 
@@ -77,17 +77,17 @@
 ----------
 
 [/us/usc/t10/s10101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs10101
-[/us/pl/99/335/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2Fs101%2Fa
+[/us/pl/99/335/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2FtI
 [/us/stat/100/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F570
-[/us/pl/99/556/s118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F556%2Fs118
+[/us/pl/99/556/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F556%2FtI
 [/us/stat/100/3134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3134
-[/us/pl/100/238/s124/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F238%2Fs124%2Fb%2F1%2FB
+[/us/pl/100/238/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F238%2FtI
 [/us/stat/101/1756]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1756
-[/us/pl/103/337/s1677/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1677%2Fa%2F4
+[/us/pl/103/337/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXVI
 [/us/stat/108/3019]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3019
-[/us/pl/99/355/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F355%2Fs101%2Fa
+[/us/pl/99/355/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F355%2FtI
 [/us/stat/100/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F569
-[/us/pl/100/238/s124/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F238%2Fs124%2Fb%2F1%2FA
+[/us/pl/100/238/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F238%2FtI
 [/us/stat/101/1756]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1756
 [/us/usc/t5/s8464a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8464a
 [/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337

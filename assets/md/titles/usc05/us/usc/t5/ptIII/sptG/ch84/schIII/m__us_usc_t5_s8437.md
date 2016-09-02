@@ -49,7 +49,7 @@
 
     (g) All sums contributed to the Thrift Savings Fund by an employee or Member or by an employing agency for the benefit of such employee or Member and all net earnings in such Fund attributable to investment of such sums are held in such Fund in trust for such employee or Member.
 
-(Added [Pub. L. 99–335, title I, § 101(a)][/us/pl/99/335/s101/a], June 6, 1986, [100 Stat. 550][/us/stat/100/550]; amended [Pub. L. 100–238, title I][/us/pl/100/238], §§ 116, 117(a), Jan. 8, 1988, [101 Stat. 1751][/us/stat/101/1751]; [Pub. L. 103–226, § 9(i)(16)][/us/pl/103/226/s9/i/16], Mar. 30, 1994, [108 Stat. 122][/us/stat/108/122]; [Pub. L. 103–358, § 2(b)(4)][/us/pl/103/358/s2/b/4], Oct. 14, 1994, [108 Stat. 3421][/us/stat/108/3421]; [Pub. L. 111–31, div. B, title I, § 108][/us/pl/111/31/s108], June 22, 2009, [123 Stat. 1856][/us/stat/123/1856]; [Pub. L. 112–267, § 1][/us/pl/112/267/s1], Jan. 14, 2013, [126 Stat. 2440][/us/stat/126/2440].)
+(Added [Pub. L. 99–335, title I][/us/pl/99/335/tI], § 101(a), June 6, 1986, [100 Stat. 550][/us/stat/100/550]; amended [Pub. L. 100–238, title I][/us/pl/100/238/tI], §§ 116, 117(a), Jan. 8, 1988, [101 Stat. 1751][/us/stat/101/1751]; [Pub. L. 103–226][/us/pl/103/226], § 9(i)(16), Mar. 30, 1994, [108 Stat. 122][/us/stat/108/122]; [Pub. L. 103–358][/us/pl/103/358], § 2(b)(4), Oct. 14, 1994, [108 Stat. 3421][/us/stat/108/3421]; [Pub. L. 111–31, div. B, title I][/us/pl/111/31/dB/tI], § 108, June 22, 2009, [123 Stat. 1856][/us/stat/123/1856]; [Pub. L. 112–267][/us/pl/112/267], § 1, Jan. 14, 2013, [126 Stat. 2440][/us/stat/126/2440].)
 
  __References in Text__ 
 
@@ -65,11 +65,11 @@
 
     Subsec. (e)(3). [Pub. L. 103–358][/us/pl/103/358] substituted “or relating to the enforcement of a judgment for physically, sexually, or emotionally abusing a child as provided under section 8467(a).” for period at end of first sentence.
 
-    1988—Subsec. (d). [Pub. L. 100–238, § 117(a)(1)][/us/pl/100/238/s117/a/1], struck out “attributable to sums contributed to such Fund under [section 8432(c) of this title][/us/usc/t5/s8432/c]” after “such Fund”.
+    1988—Subsec. (d). [Pub. L. 100–238][/us/pl/100/238], § 117(a)(1), struck out “attributable to sums contributed to such Fund under [section 8432(c) of this title][/us/usc/t5/s8432/c]” after “such Fund”.
 
-    Subsec. (e)(1). [Pub. L. 100–238, § 117(a)(2)][/us/pl/100/238/s117/a/2], inserted “subsection (d) and” after “Subject to”.
+    Subsec. (e)(1). [Pub. L. 100–238][/us/pl/100/238], § 117(a)(2), inserted “subsection (d) and” after “Subject to”.
 
-    Subsec. (e)(3). [Pub. L. 100–238, § 116][/us/pl/100/238/s116], inserted at end “For the purposes of this paragraph, an amount contributed for the benefit of an individual under section 8432(c)(1) (including any earnings attributable thereto) shall not be considered part of the balance in such individual’s account unless such amount is nonforfeitable, as determined under applicable provisions of section 8432(g).”
+    Subsec. (e)(3). [Pub. L. 100–238][/us/pl/100/238], § 116, inserted at end “For the purposes of this paragraph, an amount contributed for the benefit of an individual under section 8432(c)(1) (including any earnings attributable thereto) shall not be considered part of the balance in such individual’s account unless such amount is nonforfeitable, as determined under applicable provisions of section 8432(g).”
 
  __Effective Date of 1994 Amendments__ 
 
@@ -79,13 +79,13 @@
 
  __Effective Date of 1988 Amendment__ 
 
-[Pub. L. 100–238, title I, § 117(b)][/us/pl/100/238/s117/b], Jan. 8, 1988, [101 Stat. 1751][/us/stat/101/1751], provided that: 
+[Pub. L. 100–238, title I][/us/pl/100/238/tI], § 117(b), Jan. 8, 1988, [101 Stat. 1751][/us/stat/101/1751], provided that: 
 
 > “The amendments made by subsection (a) \[amending this section\] shall take effect on the first day of the first month beginning on or after the date of the enactment of this Act \[Jan. 8, 1988\].”
 
  __Disposition of Amounts__ 
 
-[Pub. L. 112–267, § 2][/us/pl/112/267/s2], Jan. 14, 2013, [126 Stat. 2440][/us/stat/126/2440], provided that: 
+[Pub. L. 112–267][/us/pl/112/267], § 2, Jan. 14, 2013, [126 Stat. 2440][/us/stat/126/2440], provided that: 
 
 > “Any potential revenue gain attributable to the enactment of this Act \[amending this section\], as determined by the Director of the Congressional Budget Office—
 
@@ -111,17 +111,17 @@
 [/us/usc/t18/s3663A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3663A
 [/us/usc/t5/s8432/g/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8432%2Fg%2F5
 [/us/usc/t5/s8467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8467
-[/us/pl/99/335/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2Fs101%2Fa
+[/us/pl/99/335/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2FtI
 [/us/stat/100/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F550
-[/us/pl/100/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F238
+[/us/pl/100/238/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F238%2FtI
 [/us/stat/101/1751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1751
-[/us/pl/103/226/s9/i/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F226%2Fs9%2Fi%2F16
+[/us/pl/103/226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F226
 [/us/stat/108/122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F122
-[/us/pl/103/358/s2/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F358%2Fs2%2Fb%2F4
+[/us/pl/103/358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F358
 [/us/stat/108/3421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3421
-[/us/pl/111/31/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31%2Fs108
+[/us/pl/111/31/dB/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31%2FdB%2FtI
 [/us/stat/123/1856]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1856
-[/us/pl/112/267/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F267%2Fs1
+[/us/pl/112/267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F267
 [/us/stat/126/2440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2440
 [/us/usc/t26/s6331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6331
 [/us/pl/112/267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F267
@@ -131,19 +131,19 @@
 [/us/usc/t5/s8467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8467
 [/us/pl/103/226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F226
 [/us/pl/103/358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F358
-[/us/pl/100/238/s117/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F238%2Fs117%2Fa%2F1
+[/us/pl/100/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F238
 [/us/usc/t5/s8432/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8432%2Fc
-[/us/pl/100/238/s117/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F238%2Fs117%2Fa%2F2
-[/us/pl/100/238/s116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F238%2Fs116
+[/us/pl/100/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F238
+[/us/pl/100/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F238
 [/us/pl/103/358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F358
 [/us/pl/103/358/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F358%2Fs3
 [/us/usc/t5/s8345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8345
 [/us/pl/103/226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F226
 [/us/pl/103/226/s9/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F226%2Fs9%2Fj
 [/us/usc/t5/s8351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8351
-[/us/pl/100/238/s117/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F238%2Fs117%2Fb
+[/us/pl/100/238/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F238%2FtI
 [/us/stat/101/1751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1751
-[/us/pl/112/267/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F267%2Fs2
+[/us/pl/112/267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F267
 [/us/stat/126/2440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2440
 
 

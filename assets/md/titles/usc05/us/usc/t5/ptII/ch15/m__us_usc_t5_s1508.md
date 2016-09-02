@@ -23,7 +23,7 @@
 
     A copy of the petition shall immediately be served on the Board, and thereupon the Board shall certify and file in the court a transcript of the record on which the determination or order was made. The court shall review the entire record including questions of fact and questions of law. If application is made to the court for leave to adduce additional evidence, and it is shown to the satisfaction of the court that the additional evidence may materially affect the result of the proceedings and that there were reasonable grounds for failure to adduce this evidence in the hearing before the Board, the court may direct that the additional evidence be taken before the Board in the manner and on the terms and conditions fixed by the court. The Board may modify its findings of fact or its determination or order in view of the additional evidence and shall file with the court the modified findings, determination, or order; and the modified findings of fact, if supported by substantial evidence, are conclusive. The court shall affirm the determination or order, or the modified determination or order, if the court determines that it is in accordance with law. If the court determines that the determination or order, or the modified determination or order, is not in accordance with law, the court shall remand the proceeding to the Board with directions either to make a determination or order determined by the court to be lawful or to take such further proceedings as, in the opinion of the court, the law requires. The judgment and decree of the court are final, subject to review by the appropriate United States Court of Appeals as in other cases, and the judgment and decree of the court of appeals are final, subject to review by the Supreme Court of the United States on certiorari or certification as provided by [section 1254 of title 28][/us/usc/t28/s1254]. If a provision of this section is held to be invalid as applied to a party by a determination or order of the Board, the determination or order becomes final and effective as to that party as if the provision had not been enacted.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 406][/us/stat/80/406]; [Pub. L. 95–454, title IX, § 906(a)(6)][/us/pl/95/454/s906/a/6], Oct. 13, 1978, [92 Stat. 1225][/us/stat/92/1225].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 406][/us/stat/80/406]; [Pub. L. 95–454, title IX][/us/pl/95/454/tIX], § 906(a)(6), Oct. 13, 1978, [92 Stat. 1225][/us/stat/92/1225].)
 
 <table>
 
@@ -71,7 +71,7 @@ July 19, 1940, ch. 640, § 4 “Sec. 12(c)”, 54 Stat. 768.  </td>
 
 </table>
 
-    Sections 346 and 347 of title 28 referred to in former section 118k(c) were repealed by the [Act of June 25, 1948, ch. 646, § 39][/us/act/1948-06-25/ch646/s39], [62 Stat. 862][/us/stat/62/862], and are now covered by [section 1254 of title 28][/us/usc/t28/s1254]. The titles of the courts are changed to conform to title 28.
+    Sections 346 and 347 of title 28 referred to in former section 118k(c) were repealed by the [Act of June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], § 39, [62 Stat. 862][/us/stat/62/862], and are now covered by [section 1254 of title 28][/us/usc/t28/s1254]. The titles of the courts are changed to conform to title 28.
 
     In the reference to filing a written petition, “written” is omitted as unnecessary.
 
@@ -95,9 +95,9 @@ July 19, 1940, ch. 640, § 4 “Sec. 12(c)”, 54 Stat. 768.  </td>
 [/us/usc/t28/s1254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1254
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F406
-[/us/pl/95/454/s906/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs906%2Fa%2F6
+[/us/pl/95/454/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtIX
 [/us/stat/92/1225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1225
-[/us/act/1948-06-25/ch646/s39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646%2Fs39
+[/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/862]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F862
 [/us/usc/t28/s1254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1254
 [/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454

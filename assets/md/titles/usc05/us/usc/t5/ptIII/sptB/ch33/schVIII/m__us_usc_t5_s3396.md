@@ -63,11 +63,11 @@
 
             (C) details or other temporary assignments in other agencies, State or local governments, or the private sector.
 
-(Added [Pub. L. 95–454, title IV, § 403(a)][/us/pl/95/454/s403/a], Oct. 13, 1978, [92 Stat. 1163][/us/stat/92/1163]; amended [Pub. L. 102–175, § 4][/us/pl/102/175/s4], Dec. 2, 1991, [105 Stat. 1223][/us/stat/105/1223].)
+(Added [Pub. L. 95–454, title IV][/us/pl/95/454/tIV], § 403(a), Oct. 13, 1978, [92 Stat. 1163][/us/stat/92/1163]; amended [Pub. L. 102–175][/us/pl/102/175], § 4, Dec. 2, 1991, [105 Stat. 1223][/us/stat/105/1223].)
 
  __Prior Provisions__ 
 
-    A prior section 3396, added [Pub. L. 95–437, § 3(a)][/us/pl/95/437/s3/a], Oct. 10, 1978, [92 Stat. 1057][/us/stat/92/1057], which related to issuance of regulations, was renumbered as [section 3406 of this title][/us/usc/t5/s3406] by [Pub. L. 95–454, title IX, § 906(c)(1)(B)][/us/pl/95/454/s906/c/1/B], Oct. 13, 1978, [92 Stat. 1226][/us/stat/92/1226].
+    A prior section 3396, added [Pub. L. 95–437][/us/pl/95/437], § 3(a), Oct. 10, 1978, [92 Stat. 1057][/us/stat/92/1057], which related to issuance of regulations, was renumbered as [section 3406 of this title][/us/usc/t5/s3406] by [Pub. L. 95–454, title IX][/us/pl/95/454/tIX], § 906(c)(1)(B), Oct. 13, 1978, [92 Stat. 1226][/us/stat/92/1226].
 
  __Amendments__ 
 
@@ -75,7 +75,7 @@
 
  __Federal Procurement Training__ 
 
-[Pub. L. 112–239, div. A, title XVI, § 1633(a)][/us/pl/112/239/s1633/a], Jan. 2, 2013, [126 Stat. 2076][/us/stat/126/2076], provided that: 
+[Pub. L. 112–239, div. A, title XVI][/us/pl/112/239/dA/tXVI], § 1633(a), Jan. 2, 2013, [126 Stat. 2076][/us/stat/126/2076], provided that: 
 
 > “Programs established for the development of senior executives under [section 3396(a) of title 5][/us/usc/t5/s3396/a], United States Code, shall include training with respect to Federal procurement requirements, including contracting requirements under the Small Business Act ([15 U.S.C. 631][/us/usc/t15/s631] et seq.).”
 
@@ -88,17 +88,17 @@
 
 [/us/usc/t5/s8336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8336
 [/us/usc/t5/s3373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3373
-[/us/pl/95/454/s403/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs403%2Fa
+[/us/pl/95/454/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtIV
 [/us/stat/92/1163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1163
-[/us/pl/102/175/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F175%2Fs4
+[/us/pl/102/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F175
 [/us/stat/105/1223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1223
-[/us/pl/95/437/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F437%2Fs3%2Fa
+[/us/pl/95/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F437
 [/us/stat/92/1057]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1057
 [/us/usc/t5/s3406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3406
-[/us/pl/95/454/s906/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs906%2Fc%2F1%2FB
+[/us/pl/95/454/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtIX
 [/us/stat/92/1226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1226
 [/us/pl/102/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F175
-[/us/pl/112/239/s1633/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1633%2Fa
+[/us/pl/112/239/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtXVI
 [/us/stat/126/2076]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2076
 [/us/usc/t5/s3396/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3396%2Fa
 [/us/usc/t15/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs631

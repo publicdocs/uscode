@@ -27,7 +27,7 @@
 
         (3) Once each year, each retirement counselor of an agency shall successfully complete a training session conducted under the training program.
 
-(Added [Pub. L. 99–335, title II, § 205(a)][/us/pl/99/335/s205/a], June 6, 1986, [100 Stat. 592][/us/stat/100/592]; amended [Pub. L. 99–556, title II, § 202][/us/pl/99/556/s202], Oct. 27, 1986, [100 Stat. 3135][/us/stat/100/3135].)
+(Added [Pub. L. 99–335, title II][/us/pl/99/335/tII], § 205(a), June 6, 1986, [100 Stat. 592][/us/stat/100/592]; amended [Pub. L. 99–556, title II][/us/pl/99/556/tII], § 202, Oct. 27, 1986, [100 Stat. 3135][/us/stat/100/3135].)
 
  __Amendments__ 
 
@@ -39,7 +39,7 @@
 
  __Enhancing Financial Literacy__ 
 
-[Pub. L. 108–469, § 2][/us/pl/108/469/s2], Dec. 21, 2004, [118 Stat. 3892][/us/stat/118/3892], provided that:
+[Pub. L. 108–469][/us/pl/108/469], § 2, Dec. 21, 2004, [118 Stat. 3892][/us/stat/118/3892], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -70,14 +70,14 @@
 ----------
 ----------
 
-[/us/pl/99/335/s205/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2Fs205%2Fa
+[/us/pl/99/335/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2FtII
 [/us/stat/100/592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F592
-[/us/pl/99/556/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F556%2Fs202
+[/us/pl/99/556/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F556%2FtII
 [/us/stat/100/3135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3135
 [/us/pl/99/556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F556
 [/us/pl/99/335/s702/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2Fs702%2Fb%2F3
 [/us/usc/t5/s8401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8401
-[/us/pl/108/469/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F469%2Fs2
+[/us/pl/108/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F469
 [/us/stat/118/3892]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3892
 [/us/usc/t5/s8350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8350
 

@@ -43,7 +43,7 @@
 
     (f) Notwithstanding the provisions of subsection (a), no preference may be given to any employee applying for a transfer under subsection (b), with respect to a preference eligible (as defined under section 2108(3)) applying for the same position.
 
-(Added [Pub. L. 101–12, § 5(a)][/us/pl/101/12/s5/a], Apr. 10, 1989, [103 Stat. 32][/us/stat/103/32].)
+(Added [Pub. L. 101–12][/us/pl/101/12], § 5(a), Apr. 10, 1989, [103 Stat. 32][/us/stat/103/32].)
 
  __Effective Date__ 
 
@@ -56,7 +56,7 @@
 ----------
 ----------
 
-[/us/pl/101/12/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F12%2Fs5%2Fa
+[/us/pl/101/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F12
 [/us/stat/103/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F32
 [/us/pl/101/12/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F12%2Fs11
 [/us/usc/t5/s1201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs1201

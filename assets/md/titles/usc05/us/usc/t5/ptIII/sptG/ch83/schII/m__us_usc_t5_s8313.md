@@ -95,7 +95,7 @@ Sept. 26, 1961, Pub. L. 87–299, § 1, “Sec. 3”, 75 Stat. 643.  </td>
 
  __Suspension of Payment of Retired Pay of Members Who Are Absent From United States To Avoid Prosecution__ 
 
-[Pub. L. 104–201, div. A, title VI, § 633][/us/pl/104/201/s633], Sept. 23, 1996, [110 Stat. 2550][/us/stat/110/2550], provided that:
+[Pub. L. 104–201, div. A, title VI][/us/pl/104/201/dA/tVI], § 633, Sept. 23, 1996, [110 Stat. 2550][/us/stat/110/2550], provided that:
 
 >     “(a)  __Development of Procedures for Suspension__  __.—__ 
 
@@ -124,7 +124,7 @@ Sept. 26, 1961, Pub. L. 87–299, § 1, “Sec. 3”, 75 Stat. 643.  </td>
 [/us/usc/t5/s8312/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8312%2Fc
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F561
-[/us/pl/104/201/s633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs633
+[/us/pl/104/201/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtVI
 [/us/stat/110/2550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2550
 [/us/usc/t5/s8312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8312
 [/us/usc/t5/s8313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8313

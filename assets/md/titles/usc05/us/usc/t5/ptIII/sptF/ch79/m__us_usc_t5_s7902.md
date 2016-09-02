@@ -43,7 +43,7 @@
 
         (2) make such statistical or other reports on such forms as the Secretary may prescribe by regulation.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 530][/us/stat/80/530]; [Pub. L. 91–596, § 19(c)][/us/pl/91/596/s19/c], Dec. 29, 1970, [84 Stat. 1610][/us/stat/84/1610]; [Pub. L. 105–241, § 2(b)(2)][/us/pl/105/241/s2/b/2], Sept. 28, 1998, [112 Stat. 1572][/us/stat/112/1572].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 530][/us/stat/80/530]; [Pub. L. 91–596][/us/pl/91/596], § 19(c), Dec. 29, 1970, [84 Stat. 1610][/us/stat/84/1610]; [Pub. L. 105–241][/us/pl/105/241], § 2(b)(2), Sept. 28, 1998, [112 Stat. 1572][/us/stat/112/1572].)
 
 <table>
 
@@ -356,9 +356,9 @@ By the authority vested in me as President by the Constitution and statutes of t
 [/us/usc/t33/s941/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs941%2Fb%2F1
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/530]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F530
-[/us/pl/91/596/s19/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F596%2Fs19%2Fc
+[/us/pl/91/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F596
 [/us/stat/84/1610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1610
-[/us/pl/105/241/s2/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F241%2Fs2%2Fb%2F2
+[/us/pl/105/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F241
 [/us/stat/112/1572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1572
 [/us/stat/64/1271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1271
 [/us/usc/t33/s941/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs941%2Fb%2F1

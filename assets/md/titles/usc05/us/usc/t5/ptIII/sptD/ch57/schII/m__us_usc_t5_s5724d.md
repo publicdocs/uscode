@@ -55,11 +55,11 @@
 
         (2) the term “qualified expense”, as used with respect to an immediate family changing its place of residence, means the transportation expenses of the immediate family, the expenses of moving (including transporting, packing, crating, temporarily storing, draying, and unpacking) the household goods and personal effects of such immediate family, not in excess of 18,000 pounds net weight, and, when authorized or approved by the agency head (or designee), the transportation of 1 privately owned motor vehicle.
 
-(Added [Pub. L. 111–178, § 2(a)][/us/pl/111/178/s2/a], June 9, 2010, [124 Stat. 1262][/us/stat/124/1262].)
+(Added [Pub. L. 111–178][/us/pl/111/178], § 2(a), June 9, 2010, [124 Stat. 1262][/us/stat/124/1262].)
 
  __No Relevance as to Compensation Claims__ 
 
-[Pub. L. 111–178, § 2(b)][/us/pl/111/178/s2/b], June 9, 2010, [124 Stat. 1263][/us/stat/124/1263], provided that: 
+[Pub. L. 111–178][/us/pl/111/178], § 2(b), June 9, 2010, [124 Stat. 1263][/us/stat/124/1263], provided that: 
 
 > “No determination made under [section 5724d of title 5][/us/usc/t5/s5724d], United States Code, shall be deemed relevant to or be considered in connection with any claim for compensation under chapter 81 of that title or under any other law under which compensation may be provided on account of death or personal injury, nor shall any determination made with respect to any such claim be deemed relevant to or be considered in connection with any request for payment of expenses under such section 5724d.”
 
@@ -82,9 +82,9 @@
 ----------
 ----------
 
-[/us/pl/111/178/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F178%2Fs2%2Fa
+[/us/pl/111/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F178
 [/us/stat/124/1262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1262
-[/us/pl/111/178/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F178%2Fs2%2Fb
+[/us/pl/111/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F178
 [/us/stat/124/1263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1263
 [/us/usc/t5/s5724d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5724d
 [/us/usc/t3/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs301

@@ -49,7 +49,7 @@
 
         (4) The Office shall prescribe any regulations necessary to carry out this subsection, including regulations for the application of this subsection in the event that two or more decrees, orders, or agreements, are received with respect to the same amount.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 594][/us/stat/80/594]; [Pub. L. 90–83, § 1(91)][/us/pl/90/83/s1/91], Sept. 11, 1967, [81 Stat. 219][/us/stat/81/219]; [Pub. L. 95–454, title IX, § 906(a)(2)][/us/pl/95/454/s906/a/2], (3), Oct. 13, 1978, [92 Stat. 1224][/us/stat/92/1224]; [Pub. L. 95–583, § 1(b)][/us/pl/95/583/s1/b], Nov. 2, 1978, [92 Stat. 2481][/us/stat/92/2481]; [Pub. L. 105–205, § 1][/us/pl/105/205/s1], July 22, 1998, [112 Stat. 683][/us/stat/112/683].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 594][/us/stat/80/594]; [Pub. L. 90–83][/us/pl/90/83], § 1(91), Sept. 11, 1967, [81 Stat. 219][/us/stat/81/219]; [Pub. L. 95–454, title IX][/us/pl/95/454/tIX], § 906(a)(2), (3), Oct. 13, 1978, [92 Stat. 1224][/us/stat/92/1224]; [Pub. L. 95–583][/us/pl/95/583], § 1(b), Nov. 2, 1978, [92 Stat. 2481][/us/stat/92/2481]; [Pub. L. 105–205][/us/pl/105/205], § 1, July 22, 1998, [112 Stat. 683][/us/stat/112/683].)
 
 <table>
 
@@ -161,9 +161,9 @@ Mar. 23, 1966, Pub. L. 89–373, § 1, 80 Stat. 78.  </td>
 
  __Amendments__ 
 
-    1998—Subsec. (a). [Pub. L. 105–205, § 1(1)][/us/pl/105/205/s1/1], substituted “Except as provided in subsection (e), the” for “The”.
+    1998—Subsec. (a). [Pub. L. 105–205][/us/pl/105/205], § 1(1), substituted “Except as provided in subsection (e), the” for “The”.
 
-    Subsec. (e). [Pub. L. 105–205, § 1(2)][/us/pl/105/205/s1/2], added subsec. (e).
+    Subsec. (e). [Pub. L. 105–205][/us/pl/105/205], § 1(2), added subsec. (e).
 
     1978—Subsec. (a). [Pub. L. 95–583][/us/pl/95/583] struck out “or (c)” after “section 8706(b)”.
 
@@ -188,18 +188,18 @@ Mar. 23, 1966, Pub. L. 89–373, § 1, 80 Stat. 78.  </td>
 [/us/usc/t5/s8709/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8709%2Fb
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/594]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F594
-[/us/pl/90/83/s1/91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83%2Fs1%2F91
+[/us/pl/90/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83
 [/us/stat/81/219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F219
-[/us/pl/95/454/s906/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs906%2Fa%2F2
+[/us/pl/95/454/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtIX
 [/us/stat/92/1224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1224
-[/us/pl/95/583/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F583%2Fs1%2Fb
+[/us/pl/95/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F583
 [/us/stat/92/2481]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2481
-[/us/pl/105/205/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F205%2Fs1
+[/us/pl/105/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F205
 [/us/stat/112/683]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F683
 [/us/usc/t5/s2094/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs2094%2Fc
 [/us/usc/t5/s2091/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs2091%2Fa
-[/us/pl/105/205/s1/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F205%2Fs1%2F1
-[/us/pl/105/205/s1/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F205%2Fs1%2F2
+[/us/pl/105/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F205
+[/us/pl/105/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F205
 [/us/pl/95/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F583
 [/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454
 [/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454

@@ -35,7 +35,7 @@
 
     (e) Copies of the notice of proposed action, the answer of the employee when written, and a summary thereof when made orally, the notice of decision and reasons therefor, and any order effecting an action covered by this subchapter, together with any supporting material, shall be maintained by the agency and shall be furnished to the Merit Systems Protection Board upon its request and to the employee affected upon the employee’s request.
 
-(Added [Pub. L. 95–454, title IV, § 411(2)][/us/pl/95/454/s411/2], Oct. 13, 1978, [92 Stat. 1174][/us/stat/92/1174]; amended [Pub. L. 97–35, title XVII, § 1704(d)(2)][/us/pl/97/35/s1704/d/2], Aug. 13, 1981, [95 Stat. 758][/us/stat/95/758]; [Pub. L. 98–615, title III, § 304(c)][/us/pl/98/615/s304/c], Nov. 8, 1984, [98 Stat. 3219][/us/stat/98/3219].)
+(Added [Pub. L. 95–454, title IV][/us/pl/95/454/tIV], § 411(2), Oct. 13, 1978, [92 Stat. 1174][/us/stat/92/1174]; amended [Pub. L. 97–35, title XVII][/us/pl/97/35/tXVII], § 1704(d)(2), Aug. 13, 1981, [95 Stat. 758][/us/stat/95/758]; [Pub. L. 98–615, title III][/us/pl/98/615/tIII], § 304(c), Nov. 8, 1984, [98 Stat. 3219][/us/stat/98/3219].)
 
  __Amendments__ 
 
@@ -59,11 +59,11 @@
 ----------
 
 [/us/usc/t5/s7701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs7701
-[/us/pl/95/454/s411/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs411%2F2
+[/us/pl/95/454/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtIV
 [/us/stat/92/1174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1174
-[/us/pl/97/35/s1704/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs1704%2Fd%2F2
+[/us/pl/97/35/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXVII
 [/us/stat/95/758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F758
-[/us/pl/98/615/s304/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F615%2Fs304%2Fc
+[/us/pl/98/615/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F615%2FtIII
 [/us/stat/98/3219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3219
 [/us/pl/98/615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F615
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35

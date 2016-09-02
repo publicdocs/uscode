@@ -63,7 +63,7 @@
 
         (3) The President may prescribe any regulations necessary to carry out this subsection.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 510][/us/stat/80/510]; [Pub. L. 102–138, title I, § 147(c)][/us/pl/102/138/s147/c], Oct. 28, 1991, [105 Stat. 669][/us/stat/105/669]; [Pub. L. 106–113, div. B, § 1000(a)(7)][/us/pl/106/113/s1000/a/7] \[div. A, title III, § 335\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–441.)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 510][/us/stat/80/510]; [Pub. L. 102–138, title I][/us/pl/102/138/tI], § 147(c), Oct. 28, 1991, [105 Stat. 669][/us/stat/105/669]; [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(7) \[div. A, title III, § 335\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–441.)
 
 <table>
 
@@ -169,9 +169,9 @@ Sept. 6, 1960, Pub. L. 86–707, § 203, 74 Stat. 793.  </td>
 [/us/usc/t5/s5536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5536
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F510
-[/us/pl/102/138/s147/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138%2Fs147%2Fc
+[/us/pl/102/138/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138%2FtI
 [/us/stat/105/669]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F669
-[/us/pl/106/113/s1000/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F7
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
 [/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
 [/us/pl/102/138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138

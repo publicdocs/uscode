@@ -33,7 +33,7 @@
 
     (c) If the Special Counsel receives an allegation concerning any matter under paragraph (1), (3), (4), or (5) of subsection (a), the Special Counsel may investigate and seek corrective action under section 1214 and disciplinary action under section 1215 in the same way as if a prohibited personnel practice were involved.
 
-(Added [Pub. L. 101–12, § 3(a)(13)][/us/pl/101/12/s3/a/13], Apr. 10, 1989, [103 Stat. 28][/us/stat/103/28]; amended [Pub. L. 103–94, § 3][/us/pl/103/94/s3], Oct. 6, 1993, [107 Stat. 1004][/us/stat/107/1004].)
+(Added [Pub. L. 101–12][/us/pl/101/12], § 3(a)(13), Apr. 10, 1989, [103 Stat. 28][/us/stat/103/28]; amended [Pub. L. 103–94][/us/pl/103/94], § 3, Oct. 6, 1993, [107 Stat. 1004][/us/stat/107/1004].)
 
  __Amendments__ 
 
@@ -54,9 +54,9 @@
 ----------
 ----------
 
-[/us/pl/101/12/s3/a/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F12%2Fs3%2Fa%2F13
+[/us/pl/101/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F12
 [/us/stat/103/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F28
-[/us/pl/103/94/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F94%2Fs3
+[/us/pl/103/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F94
 [/us/stat/107/1004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1004
 [/us/pl/103/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F94
 [/us/pl/103/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F94

@@ -21,7 +21,7 @@
 
     (c) This section shall be applicable to persons excluded by section 15 of the Federal Employees’ Compensation Act Amendments of 1966 ([Public Law 89–488][/us/pl/89/488]) under the following statutes: Act of February 15, 1934 ([48 Stat. 351][/us/stat/48/351]); Act of June 26, 1936 ([49 Stat. 2035][/us/stat/49/2035]); Act of April 8, 1935 ([49 Stat. 115][/us/stat/49/115]); Act of July 25, 1942 ([56 Stat. 710][/us/stat/56/710]); [Public Law 84–955][/us/pl/84/955] (August 3, 1956); [Public Law 77–784][/us/pl/77/784] (December 2, 1942); [Public Law 84–879][/us/pl/84/879] (August 1, 1956); [Public Law 80–896][/us/pl/80/896] (July 3, 1948); Act of September 8, 1959 ([73 Stat. 469][/us/stat/73/469]). Benefit payments to these persons shall initially be increased by the total percentage of the increases in the price index from the base month of July 1966, to the next most recent base month following the effective date of this subsection.
 
-(Added [Pub. L. 90–83, § 1(67)(A)][/us/pl/90/83/s1/67/A], Sept. 11, 1967, [81 Stat. 212][/us/stat/81/212]; amended [Pub. L. 93–416][/us/pl/93/416], §§ 21, 24, Sept. 7, 1974, [88 Stat. 1149][/us/stat/88/1149], 1150; [Pub. L. 96–499, title IV, § 421(a)][/us/pl/96/499/s421/a], Dec. 5, 1980, [94 Stat. 2608][/us/stat/94/2608].)
+(Added [Pub. L. 90–83][/us/pl/90/83], § 1(67)(A), Sept. 11, 1967, [81 Stat. 212][/us/stat/81/212]; amended [Pub. L. 93–416][/us/pl/93/416], §§ 21, 24, Sept. 7, 1974, [88 Stat. 1149][/us/stat/88/1149], 1150; [Pub. L. 96–499, title IV][/us/pl/96/499/tIV], § 421(a), Dec. 5, 1980, [94 Stat. 2608][/us/stat/94/2608].)
 
 <table>
 
@@ -101,11 +101,11 @@ July 4, 1966, Pub. L. 89–488, § 14 “Sec. 43(a), (b)”, 80 Stat. 256.  </
 
     1980—Subsec. (a). [Pub. L. 96–499][/us/pl/96/499] substituted “Compensation” for “Each month the Secretary of Labor shall determine the percent change in the price index. Effective the first day of the month which begins after the price index change equals a rise of at least 3 percent for 3 consecutive months over the price index for the latest base month, compensation”, “March 1 of each year shall be annually increased” for “that first day shall be increased” and “amount determined by the Secretary of Labor to represent the percent change in the price index published for December of the preceding year over the price index published for the December of the year prior to the preceding year,” for “percent rise in the price index (calculated on the highest level of the price index during the 3 consecutive months)”.
 
-    1974—Subsec. (a). [Pub. L. 93–416, § 21][/us/pl/93/416/s21], substituted “Effective the first day of the month” for “Effective the first day of the third month”.
+    1974—Subsec. (a). [Pub. L. 93–416][/us/pl/93/416], § 21, substituted “Effective the first day of the month” for “Effective the first day of the third month”.
 
-    Subsec. (b). [Pub. L. 93–416, § 21][/us/pl/93/416/s21], substituted “regular periodic compensation payments” for “monthly compensation”.
+    Subsec. (b). [Pub. L. 93–416][/us/pl/93/416], § 21, substituted “regular periodic compensation payments” for “monthly compensation”.
 
-    Subsec. (c). [Pub. L. 93–416, § 24][/us/pl/93/416/s24], added subsec. (c).
+    Subsec. (c). [Pub. L. 93–416][/us/pl/93/416], § 24, added subsec. (c).
 
  __Effective Date of 1980 Amendment__ 
 
@@ -136,11 +136,11 @@ July 4, 1966, Pub. L. 89–488, § 14 “Sec. 43(a), (b)”, 80 Stat. 256.  </
 [/us/pl/84/879]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F84%2F879
 [/us/pl/80/896]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F80%2F896
 [/us/stat/73/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F469
-[/us/pl/90/83/s1/67/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83%2Fs1%2F67%2FA
+[/us/pl/90/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83
 [/us/stat/81/212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F212
 [/us/pl/93/416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F416
 [/us/stat/88/1149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1149
-[/us/pl/96/499/s421/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F499%2Fs421%2Fa
+[/us/pl/96/499/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F499%2FtIV
 [/us/stat/94/2608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2608
 [/us/pl/89/488/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F488%2Fs14
 [/us/pl/89/488/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F488%2Fs15
@@ -162,9 +162,9 @@ July 4, 1966, Pub. L. 89–488, § 14 “Sec. 43(a), (b)”, 80 Stat. 256.  </
 [/us/stat/62/1240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F1240
 [/us/stat/73/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F469
 [/us/pl/96/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F499
-[/us/pl/93/416/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F416%2Fs21
-[/us/pl/93/416/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F416%2Fs21
-[/us/pl/93/416/s24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F416%2Fs24
+[/us/pl/93/416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F416
+[/us/pl/93/416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F416
+[/us/pl/93/416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F416
 [/us/pl/96/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F499
 [/us/pl/96/499/s422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F499%2Fs422
 [/us/usc/t5/s8101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8101

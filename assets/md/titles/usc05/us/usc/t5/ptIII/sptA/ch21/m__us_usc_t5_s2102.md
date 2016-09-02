@@ -37,7 +37,7 @@
 
     (c) As used in other Acts of Congress, “classified civil service” or “classified service” means the “competitive service”.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 408][/us/stat/80/408]; [Pub. L. 95–454, title IV, § 401(b)][/us/pl/95/454/s401/b], Oct. 13, 1978, [92 Stat. 1154][/us/stat/92/1154].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 408][/us/stat/80/408]; [Pub. L. 95–454, title IV][/us/pl/95/454/tIV], § 401(b), Oct. 13, 1978, [92 Stat. 1154][/us/stat/92/1154].)
 
 <table>
 
@@ -116,7 +116,7 @@ Jan. 16, 1883, ch. 27, § 7 (less applicability to appointment and promotion),
 
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F408
-[/us/pl/95/454/s401/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs401%2Fb
+[/us/pl/95/454/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtIV
 [/us/stat/92/1154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1154
 [/us/act/1940-11-26/ch919/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-11-26%2Fch919%2Fs1
 [/us/stat/54/1211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F1211

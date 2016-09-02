@@ -43,7 +43,7 @@
 
             (B) commences receiving compensation under subchapter I of chapter 81 of this title (because of disease or injury to the individual) after December 31, 1989, if the position last held by the individual before commencing to receive such compensation was within the United States Postal Service.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 595][/us/stat/80/595]; [Pub. L. 90–206, title IV, § 403][/us/pl/90/206/s403], Dec. 16, 1967, [81 Stat. 647][/us/stat/81/647]; [Pub. L. 95–454, title IX, § 906(a)(2)][/us/pl/95/454/s906/a/2], Oct. 13, 1978, [92 Stat. 1224][/us/stat/92/1224]; [Pub. L. 101–303, § 2][/us/pl/101/303/s2], May 29, 1990, [104 Stat. 250][/us/stat/104/250]; [Pub. L. 104–186, title II, § 215(18)][/us/pl/104/186/s215/18], Aug. 20, 1996, [110 Stat. 1746][/us/stat/110/1746].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 595][/us/stat/80/595]; [Pub. L. 90–206, title IV][/us/pl/90/206/tIV], § 403, Dec. 16, 1967, [81 Stat. 647][/us/stat/81/647]; [Pub. L. 95–454, title IX][/us/pl/95/454/tIX], § 906(a)(2), Oct. 13, 1978, [92 Stat. 1224][/us/stat/92/1224]; [Pub. L. 101–303][/us/pl/101/303], § 2, May 29, 1990, [104 Stat. 250][/us/stat/104/250]; [Pub. L. 104–186, title II][/us/pl/104/186/tII], § 215(18), Aug. 20, 1996, [110 Stat. 1746][/us/stat/110/1746].)
 
 <table>
 
@@ -145,13 +145,13 @@ Aug. 5, 1955, ch. 568, § 101 (4th par. under “Administrative Provisions”)
 [/us/usc/t5/s8706/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8706%2Fb%2F3
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/595]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F595
-[/us/pl/90/206/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F206%2Fs403
+[/us/pl/90/206/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F206%2FtIV
 [/us/stat/81/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F647
-[/us/pl/95/454/s906/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs906%2Fa%2F2
+[/us/pl/95/454/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtIX
 [/us/stat/92/1224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1224
-[/us/pl/101/303/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F303%2Fs2
+[/us/pl/101/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F303
 [/us/stat/104/250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F250
-[/us/pl/104/186/s215/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2Fs215%2F18
+[/us/pl/104/186/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2FtII
 [/us/stat/110/1746]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1746
 [/us/pl/104/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186
 [/us/pl/101/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F303

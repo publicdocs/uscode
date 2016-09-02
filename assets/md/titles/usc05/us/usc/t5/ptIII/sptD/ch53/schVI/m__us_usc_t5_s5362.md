@@ -53,11 +53,11 @@
 
         (4) elects in writing to have the benefits of this section terminate.
 
-(Added [Pub. L. 95–454, title VIII, § 801(a)(1)][/us/pl/95/454/s801/a/1], Oct. 13, 1978, [92 Stat. 1219][/us/stat/92/1219]; amended [Pub. L. 98–615, title II, § 204(a)(1)][/us/pl/98/615/s204/a/1], Nov. 8, 1984, [98 Stat. 3216][/us/stat/98/3216]; [Pub. L. 103–89, § 3(b)(1)(K)][/us/pl/103/89/s3/b/1/K], Sept. 30, 1993, [107 Stat. 982][/us/stat/107/982].)
+(Added [Pub. L. 95–454, title VIII][/us/pl/95/454/tVIII], § 801(a)(1), Oct. 13, 1978, [92 Stat. 1219][/us/stat/92/1219]; amended [Pub. L. 98–615, title II][/us/pl/98/615/tII], § 204(a)(1), Nov. 8, 1984, [98 Stat. 3216][/us/stat/98/3216]; [Pub. L. 103–89][/us/pl/103/89], § 3(b)(1)(K), Sept. 30, 1993, [107 Stat. 982][/us/stat/107/982].)
 
  __Prior Provisions__ 
 
-    A prior section 5362, [Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 473][/us/stat/80/473], [Pub. L. 95–251, § 2(a)(1)][/us/pl/95/251/s2/a/1], (b)(1), Mar. 27, 1978, [92 Stat. 183][/us/stat/92/183], which related to hearing examiners, was renumbered [section 5372 of this title][/us/usc/t5/s5372] by [Pub. L. 95–454, title VIII, § 801(a)(3)(A)(ii)][/us/pl/95/454/s801/a/3/A/ii], Oct. 13, 1978, [92 Stat. 1221][/us/stat/92/1221].
+    A prior section 5362, [Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 473][/us/stat/80/473], [Pub. L. 95–251][/us/pl/95/251], § 2(a)(1), (b)(1), Mar. 27, 1978, [92 Stat. 183][/us/stat/92/183], which related to hearing examiners, was renumbered [section 5372 of this title][/us/usc/t5/s5372] by [Pub. L. 95–454, title VIII][/us/pl/95/454/tVIII], § 801(a)(3)(A)(ii), Oct. 13, 1978, [92 Stat. 1221][/us/stat/92/1221].
 
  __Amendments__ 
 
@@ -75,7 +75,7 @@
 
  __Additional Pay and Benefits for Employees Reduced in Grade On or After__  __January 1, 1977__  __, Etc.__ 
 
-[Pub. L. 95–454, title VIII, § 801(b)][/us/pl/95/454/s801/b], Oct. 13, 1978, [92 Stat. 1222][/us/stat/92/1222], provided that:
+[Pub. L. 95–454, title VIII][/us/pl/95/454/tVIII], § 801(b), Oct. 13, 1978, [92 Stat. 1222][/us/stat/92/1222], provided that:
 
 >     “(1)
 
@@ -114,18 +114,18 @@
 ----------
 ----------
 
-[/us/pl/95/454/s801/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs801%2Fa%2F1
+[/us/pl/95/454/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtVIII
 [/us/stat/92/1219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1219
-[/us/pl/98/615/s204/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F615%2Fs204%2Fa%2F1
+[/us/pl/98/615/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F615%2FtII
 [/us/stat/98/3216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3216
-[/us/pl/103/89/s3/b/1/K]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F89%2Fs3%2Fb%2F1%2FK
+[/us/pl/103/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F89
 [/us/stat/107/982]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F982
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F473
-[/us/pl/95/251/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F251%2Fs2%2Fa%2F1
+[/us/pl/95/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F251
 [/us/stat/92/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F183
 [/us/usc/t5/s5372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5372
-[/us/pl/95/454/s801/a/3/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs801%2Fa%2F3%2FA%2Fii
+[/us/pl/95/454/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtVIII
 [/us/stat/92/1221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1221
 [/us/pl/103/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F89
 [/us/pl/98/615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F615
@@ -134,7 +134,7 @@
 [/us/usc/t5/s3372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3372
 [/us/pl/98/615/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F615%2Fs205
 [/us/pl/98/615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F615
-[/us/pl/95/454/s801/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs801%2Fb
+[/us/pl/95/454/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtVIII
 [/us/stat/92/1222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1222
 [/us/usc/t5/s5361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5361
 [/us/usc/t5/s5362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5362

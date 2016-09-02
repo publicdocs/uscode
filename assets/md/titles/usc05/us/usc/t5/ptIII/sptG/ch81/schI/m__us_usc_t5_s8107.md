@@ -87,7 +87,7 @@
 
         (22) For permanent loss or loss of use of any other important external or internal organ of the body as determined by the Secretary, proper and equitable compensation not to exceed 312 weeks’ compensation for each organ so determined shall be paid in addition to any other compensation payable under this schedule.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 536][/us/stat/80/536]; [Pub. L. 90–83, § 1(50)][/us/pl/90/83/s1/50], Sept. 11, 1967, [81 Stat. 210][/us/stat/81/210]; [Pub. L. 93–416][/us/pl/93/416], §§ 4, 5, Sept. 7, 1974, [88 Stat. 1144][/us/stat/88/1144], 1145.)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 536][/us/stat/80/536]; [Pub. L. 90–83][/us/pl/90/83], § 1(50), Sept. 11, 1967, [81 Stat. 210][/us/stat/81/210]; [Pub. L. 93–416][/us/pl/93/416], §§ 4, 5, Sept. 7, 1974, [88 Stat. 1144][/us/stat/88/1144], 1145.)
 
 <table>
 
@@ -233,9 +233,9 @@ July 4, 1966, Pub. L. 89–488, § 2(a), (b), 80 Stat. 252.  </td>
 
  __Amendments__ 
 
-    1974—Subsec. (a). [Pub. L. 93–416, § 4][/us/pl/93/416/s4], substituted “involving the loss, or loss of use” for “involving the loss of use”.
+    1974—Subsec. (a). [Pub. L. 93–416][/us/pl/93/416], § 4, substituted “involving the loss, or loss of use” for “involving the loss of use”.
 
-    Subsec. (c)(22). [Pub. L. 93–416, § 5][/us/pl/93/416/s5], added par. (22).
+    Subsec. (c)(22). [Pub. L. 93–416][/us/pl/93/416], § 5, added par. (22).
 
  __Effective Date of 1974 Amendment__ 
 
@@ -256,14 +256,14 @@ July 4, 1966, Pub. L. 89–488, § 2(a), (b), 80 Stat. 252.  </td>
 [/us/usc/t5/s8106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8106
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F536
-[/us/pl/90/83/s1/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83%2Fs1%2F50
+[/us/pl/90/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83
 [/us/stat/81/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F210
 [/us/pl/93/416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F416
 [/us/stat/88/1144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1144
 [/us/usc/t5/s8105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8105
 [/us/usc/t5/s8106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8106
-[/us/pl/93/416/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F416%2Fs4
-[/us/pl/93/416/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F416%2Fs5
+[/us/pl/93/416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F416
+[/us/pl/93/416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F416
 [/us/pl/93/416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F416
 [/us/pl/93/416/s28/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F416%2Fs28%2Fa
 [/us/usc/t5/s8101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8101

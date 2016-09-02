@@ -47,7 +47,7 @@
 
     (g) Any benefit or payment pursuant to this section shall be paid out of funds available for salaries and expenses of the relevant agency of the United States.
 
-(Added [Pub. L. 99–399, title VIII, § 803(a)][/us/pl/99/399/s803/a], Aug. 27, 1986, [100 Stat. 882][/us/stat/100/882].)
+(Added [Pub. L. 99–399, title VIII][/us/pl/99/399/tVIII], § 803(a), Aug. 27, 1986, [100 Stat. 882][/us/stat/100/882].)
 
  __Delegation of Functions__ 
 
@@ -112,7 +112,7 @@
 
 [/us/usc/t5/s5569/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5569%2Fd
 [/us/usc/t5/s5569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5569
-[/us/pl/99/399/s803/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F399%2Fs803%2Fa
+[/us/pl/99/399/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F399%2FtVIII
 [/us/stat/100/882]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F882
 [/us/usc/t5/s5569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5569
 [/us/pl/112/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F73

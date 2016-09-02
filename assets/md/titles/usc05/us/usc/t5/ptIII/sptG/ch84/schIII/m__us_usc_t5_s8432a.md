@@ -47,7 +47,7 @@
 
     (c) Any amounts required to be paid by an employing agency under this section shall be paid from the appropriation or fund available to the employing agency for payment of salaries of the participant’s office or establishment. If a participant in the legislative branch is paid by the Chief Administrative Officer of the House of Representatives, the Chief Administrative Officer may pay from the applicable accounts of the House of Representatives the amount required to be paid to correct errors relating to the Thrift Savings Fund that otherwise would be paid from the appropriation or fund used to pay the participant.
 
-(Added [Pub. L. 101–335, § 2(a)(1)][/us/pl/101/335/s2/a/1], July 17, 1990, [104 Stat. 319][/us/stat/104/319]; amended [Pub. L. 104–186, title II, § 215(17)][/us/pl/104/186/s215/17], Aug. 20, 1996, [110 Stat. 1746][/us/stat/110/1746].)
+(Added [Pub. L. 101–335][/us/pl/101/335], § 2(a)(1), July 17, 1990, [104 Stat. 319][/us/stat/104/319]; amended [Pub. L. 104–186, title II][/us/pl/104/186/tII], § 215(17), Aug. 20, 1996, [110 Stat. 1746][/us/stat/110/1746].)
 
  __Amendments__ 
 
@@ -55,7 +55,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 101–335, § 2(b)][/us/pl/101/335/s2/b], July 17, 1990, [104 Stat. 320][/us/stat/104/320], provided that: 
+[Pub. L. 101–335][/us/pl/101/335], § 2(b), July 17, 1990, [104 Stat. 320][/us/stat/104/320], provided that: 
 
 > “The amendments made by this section \[enacting this section\] shall apply with respect to lost earnings attributable to errors made before, on, or after the date of enactment of this Act \[July 17, 1990\].”
 
@@ -66,12 +66,12 @@
 ----------
 ----------
 
-[/us/pl/101/335/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F335%2Fs2%2Fa%2F1
+[/us/pl/101/335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F335
 [/us/stat/104/319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F319
-[/us/pl/104/186/s215/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2Fs215%2F17
+[/us/pl/104/186/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2FtII
 [/us/stat/110/1746]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1746
 [/us/pl/104/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186
-[/us/pl/101/335/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F335%2Fs2%2Fb
+[/us/pl/101/335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F335
 [/us/stat/104/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F320
 
 

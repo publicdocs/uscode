@@ -19,7 +19,7 @@
 
     (b) When an appointing authority, for reasons considered sufficient by the Office, has three times considered and passed over a preference eligible who was certified from a register, certification of the preference eligible for appointment may be discontinued. However, the preference eligible is entitled to advance notice of discontinuance of certification.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 421][/us/stat/80/421]; [Pub. L. 95–454, title IX, § 906(a)(3)][/us/pl/95/454/s906/a/3], Oct. 13, 1978, [92 Stat. 1224][/us/stat/92/1224]; [Pub. L. 96–54, § 2(a)(14)][/us/pl/96/54/s2/a/14], (15), Aug. 14, 1979, [93 Stat. 382][/us/stat/93/382].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 421][/us/stat/80/421]; [Pub. L. 95–454, title IX][/us/pl/95/454/tIX], § 906(a)(3), Oct. 13, 1978, [92 Stat. 1224][/us/stat/92/1224]; [Pub. L. 96–54][/us/pl/96/54], § 2(a)(14), (15), Aug. 14, 1979, [93 Stat. 382][/us/stat/93/382].)
 
 <table>
 
@@ -75,9 +75,9 @@ June 27, 1944, ch. 287, § 8 (1st sentence and 2d proviso), 58 Stat. 389.  </t
 
  __Amendments__ 
 
-    1979—Subsec. (a). [Pub. L. 96–54, § 2(a)(14)][/us/pl/96/54/s2/a/14], substituted “Office of Personnel Management” for “Civil Service Commission”.
+    1979—Subsec. (a). [Pub. L. 96–54][/us/pl/96/54], § 2(a)(14), substituted “Office of Personnel Management” for “Civil Service Commission”.
 
-    Subsec. (b). [Pub. L. 96–54, § 2(a)(15)][/us/pl/96/54/s2/a/15], amended subsec. (b) in same manner as amendment by [Pub. L. 95–454][/us/pl/95/454]. See 1978 Amendment note set out below.
+    Subsec. (b). [Pub. L. 96–54][/us/pl/96/54], § 2(a)(15), amended subsec. (b) in same manner as amendment by [Pub. L. 95–454][/us/pl/95/454]. See 1978 Amendment note set out below.
 
     1978—Subsec. (b). [Pub. L. 95–454][/us/pl/95/454] which purported to amend [section 3317b of this title][/us/usc/t5/s3317b] by substituting “Office” for “Commission” was executed to subsec. (b) of this section as the probable intent of Congress.
 
@@ -98,12 +98,12 @@ June 27, 1944, ch. 287, § 8 (1st sentence and 2d proviso), 58 Stat. 389.  </t
 
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F421
-[/us/pl/95/454/s906/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs906%2Fa%2F3
+[/us/pl/95/454/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtIX
 [/us/stat/92/1224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1224
-[/us/pl/96/54/s2/a/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F54%2Fs2%2Fa%2F14
+[/us/pl/96/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F54
 [/us/stat/93/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F382
-[/us/pl/96/54/s2/a/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F54%2Fs2%2Fa%2F14
-[/us/pl/96/54/s2/a/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F54%2Fs2%2Fa%2F15
+[/us/pl/96/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F54
+[/us/pl/96/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F54
 [/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454
 [/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454
 [/us/usc/t5/s3317b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3317b

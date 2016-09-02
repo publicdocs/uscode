@@ -23,7 +23,7 @@
 
     (d) The President shall report annually to Congress all expenditures made under this section.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 513][/us/stat/80/513]; [Pub. L. 96–54, § 2(a)(37)][/us/pl/96/54/s2/a/37], Aug. 14, 1979, [93 Stat. 383][/us/stat/93/383].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 513][/us/stat/80/513]; [Pub. L. 96–54][/us/pl/96/54], § 2(a)(37), Aug. 14, 1979, [93 Stat. 383][/us/stat/93/383].)
 
 <table>
 
@@ -111,9 +111,9 @@ Sept. 12, 1950, ch. 946, § 301(87), 64 Stat. 843.  </td>
 
  __Amendments__ 
 
-    1979—Subsec. (a). [Pub. L. 96–54, § 2(a)(37)(A)][/us/pl/96/54/s2/a/37/A], struck out provision relating to recommendation of the Director of the Bureau of the Budget to the President.
+    1979—Subsec. (a). [Pub. L. 96–54][/us/pl/96/54], § 2(a)(37)(A), struck out provision relating to recommendation of the Director of the Bureau of the Budget to the President.
 
-    Subsec. (d). [Pub. L. 96–54, § 2(a)(37)(B)][/us/pl/96/54/s2/a/37/B], substituted “President” for “Director of the Bureau of the Budget”.
+    Subsec. (d). [Pub. L. 96–54][/us/pl/96/54], § 2(a)(37)(B), substituted “President” for “Director of the Bureau of the Budget”.
 
  __Effective Date of 1979 Amendment__ 
 
@@ -132,11 +132,11 @@ Sept. 12, 1950, ch. 946, § 301(87), 64 Stat. 843.  </td>
 
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F513
-[/us/pl/96/54/s2/a/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F54%2Fs2%2Fa%2F37
+[/us/pl/96/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F54
 [/us/stat/93/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F383
 [/us/stat/64/1280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1280
-[/us/pl/96/54/s2/a/37/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F54%2Fs2%2Fa%2F37%2FA
-[/us/pl/96/54/s2/a/37/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F54%2Fs2%2Fa%2F37%2FB
+[/us/pl/96/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F54
+[/us/pl/96/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F54
 [/us/pl/96/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F54
 [/us/pl/96/54/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F54%2Fs2%2Fb
 [/us/usc/t5/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs305

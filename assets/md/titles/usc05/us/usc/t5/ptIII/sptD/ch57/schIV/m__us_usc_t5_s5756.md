@@ -31,7 +31,7 @@
 
         (2) The regulations shall include a limitation on the maximum amount payable with respect to an employee’s residence. The Administrator shall establish the limitation in consultation with the Director of the Office of Management and Budget. For fiscal years 1997 and 1998, the maximum amount shall be the amount equal to five percent of the sale price of the residence.
 
-(Added [Pub. L. 104–201, div. A, title XVII, § 1717][/us/pl/104/201/s1717], Sept. 23, 1996, [110 Stat. 2757][/us/stat/110/2757].)
+(Added [Pub. L. 104–201, div. A, title XVII][/us/pl/104/201/dA/tXVII], § 1717, Sept. 23, 1996, [110 Stat. 2757][/us/stat/110/2757].)
 
  __Effective Date__ 
 
@@ -45,7 +45,7 @@
 ----------
 
 [/us/usc/t5/s5724c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5724c
-[/us/pl/104/201/s1717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1717
+[/us/pl/104/201/dA/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtXVII
 [/us/stat/110/2757]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2757
 [/us/pl/104/201/s1725/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1725%2Fa
 [/us/usc/t5/s5722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5722

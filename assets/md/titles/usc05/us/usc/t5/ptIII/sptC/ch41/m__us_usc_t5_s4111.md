@@ -19,7 +19,7 @@
 
     (b) When a contribution, award, or payment, in cash or in kind, is made to an employee for travel, subsistence, or other expenses under subsection (a) of this section, an appropriate reduction, under regulations of the President, shall be made from payment by the Government to the employee for travel, subsistence, or other expenses incident to training in a non-Government facility or to attendance at a meeting.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 437][/us/stat/80/437]; [Pub. L. 96–54, § 2(a)(2)][/us/pl/96/54/s2/a/2], Aug. 14, 1979, [93 Stat. 381][/us/stat/93/381].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 437][/us/stat/80/437]; [Pub. L. 96–54][/us/pl/96/54], § 2(a)(2), Aug. 14, 1979, [93 Stat. 381][/us/stat/93/381].)
 
 <table>
 
@@ -83,7 +83,7 @@ July 7, 1958, Pub. L. 85–507, § 19(c), 72 Stat. 336.  </td>
 
 </table>
 
-    In subsection (a), the words “[section 209 of title 18][/us/usc/t18/s209]” are substituted for “[section 1914 of title 18][/us/usc/t18/s1914]” on authority of the Act of Oct. 23, 1962, [Pub. L. 87–849, § 2][/us/pl/87/849/s2], [76 Stat. 1126][/us/stat/76/1126].
+    In subsection (a), the words “[section 209 of title 18][/us/usc/t18/s209]” are substituted for “[section 1914 of title 18][/us/usc/t18/s1914]” on authority of the Act of Oct. 23, 1962, [Pub. L. 87–849][/us/pl/87/849], § 2, [76 Stat. 1126][/us/stat/76/1126].
 
     Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
@@ -117,11 +117,11 @@ July 7, 1958, Pub. L. 85–507, § 19(c), 72 Stat. 336.  </td>
 [/us/usc/t26/s501/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs501%2Fa
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F437
-[/us/pl/96/54/s2/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F54%2Fs2%2Fa%2F2
+[/us/pl/96/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F54
 [/us/stat/93/381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F381
 [/us/usc/t18/s209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs209
 [/us/usc/t18/s1914]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1914
-[/us/pl/87/849/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F849%2Fs2
+[/us/pl/87/849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F849
 [/us/stat/76/1126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F1126
 [/us/pl/96/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F54
 [/us/pl/96/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F54

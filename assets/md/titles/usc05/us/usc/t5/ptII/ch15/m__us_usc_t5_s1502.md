@@ -39,7 +39,7 @@
 
         (4) an individual holding elective office.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 404][/us/stat/80/404]; [Pub. L. 93–443, title IV, § 401(a)][/us/pl/93/443/s401/a], Oct. 15, 1974, [88 Stat. 1290][/us/stat/88/1290]; [Pub. L. 112–230][/us/pl/112/230], §§ 2, 3(c), Dec. 28, 2012, [126 Stat. 1616][/us/stat/126/1616].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 404][/us/stat/80/404]; [Pub. L. 93–443, title IV][/us/pl/93/443/tIV], § 401(a), Oct. 15, 1974, [88 Stat. 1290][/us/stat/88/1290]; [Pub. L. 112–230][/us/pl/112/230], §§ 2, 3(c), Dec. 28, 2012, [126 Stat. 1616][/us/stat/126/1616].)
 
 <table>
 
@@ -93,9 +93,9 @@ July 19, 1940, ch. 640, § 4 “Sec. 12(a) (less 1st 41 words)”, 54 Stat. 76
 
  __Amendments__ 
 
-    2012—Subsec. (a)(3). [Pub. L. 112–230, § 2][/us/pl/112/230/s2], amended par. (3) generally. Prior to amendment, par. (3) read as follows: “be a candidate for elective office.”
+    2012—Subsec. (a)(3). [Pub. L. 112–230][/us/pl/112/230], § 2, amended par. (3) generally. Prior to amendment, par. (3) read as follows: “be a candidate for elective office.”
 
-    Subsec. (c)(3). [Pub. L. 112–230, § 3(c)][/us/pl/112/230/s3/c], which directed the substitution of “, municipality, or the District of Columbia’ ” for “ ‘or municipality” and “, municipal, or the District of Columbia’ ” for “ ‘or municipal”, was executed by substituting “, municipality, or the District of Columbia” for “or municipality” and “, municipal, or the District of Columbia” for “or municipal”, to reflect the probable intent of Congress.
+    Subsec. (c)(3). [Pub. L. 112–230][/us/pl/112/230], § 3(c), which directed the substitution of “, municipality, or the District of Columbia’ ” for “ ‘or municipality” and “, municipal, or the District of Columbia’ ” for “ ‘or municipal”, was executed by substituting “, municipality, or the District of Columbia” for “or municipality” and “, municipal, or the District of Columbia” for “or municipal”, to reflect the probable intent of Congress.
 
     1974—Subsec. (a)(3). [Pub. L. 93–443][/us/pl/93/443] substituted “be a candidate for elective office” for “take an active part in political management or in political campaigns”.
 
@@ -116,12 +116,12 @@ July 19, 1940, ch. 640, § 4 “Sec. 12(a) (less 1st 41 words)”, 54 Stat. 76
 
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F404
-[/us/pl/93/443/s401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443%2Fs401%2Fa
+[/us/pl/93/443/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443%2FtIV
 [/us/stat/88/1290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1290
 [/us/pl/112/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F230
 [/us/stat/126/1616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1616
-[/us/pl/112/230/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F230%2Fs2
-[/us/pl/112/230/s3/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F230%2Fs3%2Fc
+[/us/pl/112/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F230
+[/us/pl/112/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F230
 [/us/pl/93/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443
 [/us/pl/112/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F230
 [/us/pl/112/230/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F230%2Fs5%2Fa

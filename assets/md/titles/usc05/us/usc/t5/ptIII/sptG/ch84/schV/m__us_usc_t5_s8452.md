@@ -103,7 +103,7 @@
 
             (B) whether the amount actually payable to the annuitant under this section in any month is determined under this subsection or otherwise.
 
-(Added [Pub. L. 99–335, title I, § 101(a)][/us/pl/99/335/s101/a], June 6, 1986, [100 Stat. 566][/us/stat/100/566]; amended [Pub. L. 99–556, title I][/us/pl/99/556], §§ 104, 106, Oct. 27, 1986, [100 Stat. 3131][/us/stat/100/3131], 3132; [Pub. L. 100–238, title I, § 122(a)][/us/pl/100/238/s122/a]–(c), Jan. 8, 1988, [101 Stat. 1753][/us/stat/101/1753], 1754; [Pub. L. 108–176, title II, § 226(b)(2)(B)][/us/pl/108/176/s226/b/2/B], Dec. 12, 2003, [117 Stat. 2530][/us/stat/117/2530]; [Pub. L. 112–96, title V, § 5001(c)(2)(B)][/us/pl/112/96/s5001/c/2/B], Feb. 22, 2012, [126 Stat. 200][/us/stat/126/200].)
+(Added [Pub. L. 99–335, title I][/us/pl/99/335/tI], § 101(a), June 6, 1986, [100 Stat. 566][/us/stat/100/566]; amended [Pub. L. 99–556, title I][/us/pl/99/556/tI], §§ 104, 106, Oct. 27, 1986, [100 Stat. 3131][/us/stat/100/3131], 3132; [Pub. L. 100–238, title I][/us/pl/100/238/tI], § 122(a)–(c), Jan. 8, 1988, [101 Stat. 1753][/us/stat/101/1753], 1754; [Pub. L. 108–176, title II][/us/pl/108/176/tII], § 226(b)(2)(B), Dec. 12, 2003, [117 Stat. 2530][/us/stat/117/2530]; [Pub. L. 112–96, title V][/us/pl/112/96/tV], § 5001(c)(2)(B), Feb. 22, 2012, [126 Stat. 200][/us/stat/126/200].)
 
  __References in Text__ 
 
@@ -115,9 +115,9 @@
 
     2003—Subsec. (d)(1). [Pub. L. 108–176][/us/pl/108/176] substituted “subsection (g)” for “subsection (f)”.
 
-    1988—Subsec. (a)(1)(B). [Pub. L. 100–238, § 122(c)(2)(A)][/us/pl/100/238/s122/c/2/A], amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “An annuity computed under this paragraph shall not, for purposes of any adjustment under section 8462 (including any adjustment under subsection (c)(1) of such section), be considered to have commenced until after such annuity ceases to be determined under subparagraph (A)(i).”
+    1988—Subsec. (a)(1)(B). [Pub. L. 100–238][/us/pl/100/238], § 122(c)(2)(A), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “An annuity computed under this paragraph shall not, for purposes of any adjustment under section 8462 (including any adjustment under subsection (c)(1) of such section), be considered to have commenced until after such annuity ceases to be determined under subparagraph (A)(i).”
 
-    Subsec. (a)(2)(B)(i). [Pub. L. 100–238, § 122(a)][/us/pl/100/238/s122/a], amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “For purposes of this paragraph, the assumed disability insurance benefit of an annuitant for any month shall be equal to—
+    Subsec. (a)(2)(B)(i). [Pub. L. 100–238][/us/pl/100/238], § 122(a), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “For purposes of this paragraph, the assumed disability insurance benefit of an annuitant for any month shall be equal to—
 
     “(I) the amount of the disability insurance benefit to which the annuitant would have been entitled under section 223 of the Social Security Act for the month in which the annuity under this subchapter commenced, or was restored, determined as if such annuitant had then satisfied all requirements for entitlement to a benefit under such section, adjusted by
 
@@ -125,15 +125,15 @@
 
     For purposes of computing the assumed disability insurance benefit, the month in which the annuitant’s disability began (as determined under section 216(i)(2)(C) of the Social Security Act) shall be the month in which the annuity commenced or, if earlier (and if a determination was actually made) the month determined under such section.”
 
-    Subsec. (a)(3). [Pub. L. 100–238, § 122(c)(2)(B)][/us/pl/100/238/s122/c/2/B], added par. (3).
+    Subsec. (a)(3). [Pub. L. 100–238][/us/pl/100/238], § 122(c)(2)(B), added par. (3).
 
-    Subsec. (b). [Pub. L. 100–238, § 122(b)][/us/pl/100/238/s122/b], amended subsec. (b) generally, substituting pars. (1) and (2) for former pars. (1) to (4).
+    Subsec. (b). [Pub. L. 100–238][/us/pl/100/238], § 122(b), amended subsec. (b) generally, substituting pars. (1) and (2) for former pars. (1) to (4).
 
-    Subsec. (d). [Pub. L. 100–238, § 122(c)(1)][/us/pl/100/238/s122/c/1], designated existing provisions as par. (1) and added par. (2).
+    Subsec. (d). [Pub. L. 100–238][/us/pl/100/238], § 122(c)(1), designated existing provisions as par. (1) and added par. (2).
 
-    1986—Subsec. (b)(3). [Pub. L. 99–556, § 106][/us/pl/99/556/s106], substituted “(a)(1)(A)(i)” for “(a)(1)(A)” in second sentence.
+    1986—Subsec. (b)(3). [Pub. L. 99–556][/us/pl/99/556], § 106, substituted “(a)(1)(A)(i)” for “(a)(1)(A)” in second sentence.
 
-    Subsec. (d). [Pub. L. 99–556, § 104][/us/pl/99/556/s104], inserted “(after the reduction under subsection (a)(2), if applicable, has been made)”.
+    Subsec. (d). [Pub. L. 99–556][/us/pl/99/556], § 104, inserted “(after the reduction under subsection (a)(2), if applicable, has been made)”.
 
  __Effective Date of 2003 Amendment__ 
 
@@ -152,25 +152,25 @@
 ----------
 ----------
 
-[/us/pl/99/335/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2Fs101%2Fa
+[/us/pl/99/335/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2FtI
 [/us/stat/100/566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F566
-[/us/pl/99/556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F556
+[/us/pl/99/556/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F556%2FtI
 [/us/stat/100/3131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3131
-[/us/pl/100/238/s122/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F238%2Fs122%2Fa
+[/us/pl/100/238/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F238%2FtI
 [/us/stat/101/1753]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1753
-[/us/pl/108/176/s226/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs226%2Fb%2F2%2FB
+[/us/pl/108/176/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2FtII
 [/us/stat/117/2530]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2530
-[/us/pl/112/96/s5001/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2Fs5001%2Fc%2F2%2FB
+[/us/pl/112/96/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2FtV
 [/us/stat/126/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F200
 [/us/pl/112/96]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96
 [/us/pl/108/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176
-[/us/pl/100/238/s122/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F238%2Fs122%2Fc%2F2%2FA
-[/us/pl/100/238/s122/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F238%2Fs122%2Fa
-[/us/pl/100/238/s122/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F238%2Fs122%2Fc%2F2%2FB
-[/us/pl/100/238/s122/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F238%2Fs122%2Fb
-[/us/pl/100/238/s122/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F238%2Fs122%2Fc%2F1
-[/us/pl/99/556/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F556%2Fs106
-[/us/pl/99/556/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F556%2Fs104
+[/us/pl/100/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F238
+[/us/pl/100/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F238
+[/us/pl/100/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F238
+[/us/pl/100/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F238
+[/us/pl/100/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F238
+[/us/pl/99/556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F556
+[/us/pl/99/556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F556
 [/us/pl/108/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176
 [/us/pl/108/176/s226/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs226%2Fc
 [/us/usc/t5/s8401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8401

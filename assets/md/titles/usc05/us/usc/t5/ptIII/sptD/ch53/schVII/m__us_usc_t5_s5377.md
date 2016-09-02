@@ -87,7 +87,7 @@
 
         (2) At the request of an agency head, the President may designate 1 or more categories of positions within such agency to be treated, for purposes of this section, as positions within the meaning of subsection (a)(2).
 
-(Added [Pub. L. 101–509, title V, § 529][/us/pl/101/509/s529] \[title I, § 103(a)\], Nov. 5, 1990, [104 Stat. 1427][/us/stat/104/1427], 1444; amended [Pub. L. 102–378, § 2(34)][/us/pl/102/378/s2/34], Oct. 2, 1992, [106 Stat. 1350][/us/stat/106/1350]; [Pub. L. 108–411, title I, § 102][/us/pl/108/411/s102], Oct. 30, 2004, [118 Stat. 2311][/us/stat/118/2311]; [Pub. L. 108–447, div. B, title I, § 115][/us/pl/108/447/s115], Dec. 8, 2004, [118 Stat. 2870][/us/stat/118/2870].)
+(Added [Pub. L. 101–509, title V][/us/pl/101/509/tV], § 529 \[title I, § 103(a)\], Nov. 5, 1990, [104 Stat. 1427][/us/stat/104/1427], 1444; amended [Pub. L. 102–378][/us/pl/102/378], § 2(34), Oct. 2, 1992, [106 Stat. 1350][/us/stat/106/1350]; [Pub. L. 108–411, title I][/us/pl/108/411/tI], § 102, Oct. 30, 2004, [118 Stat. 2311][/us/stat/118/2311]; [Pub. L. 108–447, div. B, title I][/us/pl/108/447/dB/tI], § 115, Dec. 8, 2004, [118 Stat. 2870][/us/stat/118/2870].)
 
  __References in Text__ 
 
@@ -97,17 +97,17 @@
 
     2004—Subsec. (a)(2)(G). [Pub. L. 108–447][/us/pl/108/447] added subpar. (G).
 
-    Subsec. (c). [Pub. L. 108–411, § 102(1)][/us/pl/108/411/s102/1], (2), substituted “Office of Management and Budget” for “Office of Personnel Management” and “Office of Personnel Management” for “Office of Management and Budget”.
+    Subsec. (c). [Pub. L. 108–411][/us/pl/108/411], § 102(1), (2), substituted “Office of Management and Budget” for “Office of Personnel Management” and “Office of Personnel Management” for “Office of Management and Budget”.
 
-    Subsec. (e)(1), (f). [Pub. L. 108–411, § 102(2)][/us/pl/108/411/s102/2], substituted “Office of Personnel Management” for “Office of Management and Budget”.
+    Subsec. (e)(1), (f). [Pub. L. 108–411][/us/pl/108/411], § 102(2), substituted “Office of Personnel Management” for “Office of Management and Budget”.
 
-    Subsec. (g). [Pub. L. 108–411, § 102(1)][/us/pl/108/411/s102/1]–(3), substituted “Office of Personnel Management” for “Office of Management and Budget” and “Office of Management and Budget” for “Office of Personnel Management” and struck out “prescribing regulations under this section or” before “making any decision”.
+    Subsec. (g). [Pub. L. 108–411][/us/pl/108/411], § 102(1)–(3), substituted “Office of Personnel Management” for “Office of Management and Budget” and “Office of Management and Budget” for “Office of Personnel Management” and struck out “prescribing regulations under this section or” before “making any decision”.
 
-    Subsec. (h). [Pub. L. 108–411, § 102(2)][/us/pl/108/411/s102/2], (4), in introductory provisions, substituted “Office of Personnel Management” for “Office of Management and Budget” and “Committee on Government Reform” for “Committee on Post Office and Civil Service”.
+    Subsec. (h). [Pub. L. 108–411][/us/pl/108/411], § 102(2), (4), in introductory provisions, substituted “Office of Personnel Management” for “Office of Management and Budget” and “Committee on Government Reform” for “Committee on Post Office and Civil Service”.
 
-    1992—Subsec. (a)(2)(E), (F). [Pub. L. 102–378, § 2(34)(A)][/us/pl/102/378/s2/34/A], added subpars. (E) and (F).
+    1992—Subsec. (a)(2)(E), (F). [Pub. L. 102–378][/us/pl/102/378], § 2(34)(A), added subpars. (E) and (F).
 
-    Subsec. (i). [Pub. L. 102–378, § 2(34)(B)][/us/pl/102/378/s2/34/B], added subsec. (i).
+    Subsec. (i). [Pub. L. 102–378][/us/pl/102/378], § 2(34)(B), added subsec. (i).
 
  __Change of Name__ 
 
@@ -130,22 +130,22 @@
 ----------
 ----------
 
-[/us/pl/101/509/s529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2Fs529
+[/us/pl/101/509/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2FtV
 [/us/stat/104/1427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1427
-[/us/pl/102/378/s2/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378%2Fs2%2F34
+[/us/pl/102/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378
 [/us/stat/106/1350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1350
-[/us/pl/108/411/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F411%2Fs102
+[/us/pl/108/411/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F411%2FtI
 [/us/stat/118/2311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2311
-[/us/pl/108/447/s115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs115
+[/us/pl/108/447/dB/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdB%2FtI
 [/us/stat/118/2870]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2870
 [/us/usc/t5/s5312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5312
 [/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
-[/us/pl/108/411/s102/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F411%2Fs102%2F1
-[/us/pl/108/411/s102/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F411%2Fs102%2F2
-[/us/pl/108/411/s102/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F411%2Fs102%2F1
-[/us/pl/108/411/s102/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F411%2Fs102%2F2
-[/us/pl/102/378/s2/34/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378%2Fs2%2F34%2FA
-[/us/pl/102/378/s2/34/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378%2Fs2%2F34%2FB
+[/us/pl/108/411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F411
+[/us/pl/108/411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F411
+[/us/pl/108/411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F411
+[/us/pl/108/411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F411
+[/us/pl/102/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378
+[/us/pl/102/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378
 [/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509
 [/us/usc/t5/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5301
 [/us/usc/t5/s4505a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs4505a

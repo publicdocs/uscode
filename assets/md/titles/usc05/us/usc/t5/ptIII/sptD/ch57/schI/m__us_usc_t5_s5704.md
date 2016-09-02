@@ -37,7 +37,7 @@
 
         (4) airplane landing and tie-down fees.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 499][/us/stat/80/499]; [Pub. L. 94–22, § 5][/us/pl/94/22/s5], May 19, 1975, [89 Stat. 85][/us/stat/89/85]; [Pub. L. 96–346, § 2][/us/pl/96/346/s2], Sept. 10, 1980, [94 Stat. 1148][/us/stat/94/1148]; [Pub. L. 103–329, title VI, § 634(a)][/us/pl/103/329/s634/a], Sept. 30, 1994, [108 Stat. 2428][/us/stat/108/2428]; [Pub. L. 113–291, div. A, title IX, § 915(a)][/us/pl/113/291/s915/a], Dec. 19, 2014, [128 Stat. 3475][/us/stat/128/3475].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 499][/us/stat/80/499]; [Pub. L. 94–22][/us/pl/94/22], § 5, May 19, 1975, [89 Stat. 85][/us/stat/89/85]; [Pub. L. 96–346][/us/pl/96/346], § 2, Sept. 10, 1980, [94 Stat. 1148][/us/stat/94/1148]; [Pub. L. 103–329, title VI][/us/pl/103/329/tVI], § 634(a), Sept. 30, 1994, [108 Stat. 2428][/us/stat/108/2428]; [Pub. L. 113–291, div. A, title IX][/us/pl/113/291/dA/tIX], § 915(a), Dec. 19, 2014, [128 Stat. 3475][/us/stat/128/3475].)
 
 <table>
 
@@ -135,11 +135,11 @@ Aug. 14, 1961, Pub. L. 87–139, §§ 3, 4, 75 Stat. 339, 340.  </td>
 
     “(4) airplane landing and tie-down fees.”
 
-    1980—Subsec. (a)(1). [Pub. L. 96–346, § 2(1)][/us/pl/96/346/s2/1], substituted “20 cents” for “11 cents”.
+    1980—Subsec. (a)(1). [Pub. L. 96–346][/us/pl/96/346], § 2(1), substituted “20 cents” for “11 cents”.
 
-    Subsec. (a)(2). [Pub. L. 96–346, § 2(2)][/us/pl/96/346/s2/2], substituted “25 cents” for “20 cents”.
+    Subsec. (a)(2). [Pub. L. 96–346][/us/pl/96/346], § 2(2), substituted “25 cents” for “20 cents”.
 
-    Subsec. (a)(3). [Pub. L. 96–346, § 2(3)][/us/pl/96/346/s2/3], substituted “45 cents” for “24 cents”.
+    Subsec. (a)(3). [Pub. L. 96–346][/us/pl/96/346], § 2(3), substituted “45 cents” for “24 cents”.
 
     1975—Subsec. (a). [Pub. L. 94–22][/us/pl/94/22] struck out “or other individual performing services for the Government” after “employee”, substituted “for the Government” for “inside or outside his designated post of duty or place of service”, increased from 8 to 11 cents the allowance for use of a motorcycle, from 12 to 20 cents the allowance for use of an automobile, and from 12 to 24 cents the allowance for use of an airplane, and inserted provision relating to the limitation of an allowance to the cost of travel by Government vehicle when an employee chooses a privately owned vehicle in lieu of a Government vehicle.
 
@@ -156,21 +156,21 @@ Aug. 14, 1961, Pub. L. 87–139, §§ 3, 4, 75 Stat. 339, 340.  </td>
 [/us/usc/t5/s5707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5707
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F499
-[/us/pl/94/22/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F22%2Fs5
+[/us/pl/94/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F22
 [/us/stat/89/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F85
-[/us/pl/96/346/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F346%2Fs2
+[/us/pl/96/346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F346
 [/us/stat/94/1148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1148
-[/us/pl/103/329/s634/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F329%2Fs634%2Fa
+[/us/pl/103/329/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F329%2FtVI
 [/us/stat/108/2428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2428
-[/us/pl/113/291/s915/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs915%2Fa
+[/us/pl/113/291/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtIX
 [/us/stat/128/3475]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3475
 [/us/usc/t5/s5707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5707
 [/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/pl/103/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F329
 [/us/usc/t5/s5707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5707
-[/us/pl/96/346/s2/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F346%2Fs2%2F1
-[/us/pl/96/346/s2/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F346%2Fs2%2F2
-[/us/pl/96/346/s2/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F346%2Fs2%2F3
+[/us/pl/96/346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F346
+[/us/pl/96/346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F346
+[/us/pl/96/346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F346
 [/us/pl/94/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F22
 [/us/pl/94/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F22
 

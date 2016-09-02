@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, [Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 398][/us/stat/80/398], providing for decision without debate with respect to motions to postpone, motions to proceed to the consideration of other business, and appeals from decisions of the Chair relating to the application of the rules of the Senate or the House of Representatives, was omitted in the general amendment of this chapter by [Pub. L. 95–17, § 2][/us/pl/95/17/s2], Apr. 6, 1977, [91 Stat. 29][/us/stat/91/29]. See [section 912 of this title][/us/usc/t5/s912].
+    Section, [Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 398][/us/stat/80/398], providing for decision without debate with respect to motions to postpone, motions to proceed to the consideration of other business, and appeals from decisions of the Chair relating to the application of the rules of the Senate or the House of Representatives, was omitted in the general amendment of this chapter by [Pub. L. 95–17][/us/pl/95/17], § 2, Apr. 6, 1977, [91 Stat. 29][/us/stat/91/29]. See [section 912 of this title][/us/usc/t5/s912].
 
 ----------
 
@@ -28,7 +28,7 @@
 
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F398
-[/us/pl/95/17/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F17%2Fs2
+[/us/pl/95/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F17
 [/us/stat/91/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F29
 [/us/usc/t5/s912]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs912
 

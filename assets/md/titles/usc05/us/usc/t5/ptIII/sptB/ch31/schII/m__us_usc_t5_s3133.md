@@ -55,7 +55,7 @@
 
             The Director shall provide a full explanation for his determination in each case.
 
-(Added [Pub. L. 95–454, title IV, § 402(a)][/us/pl/95/454/s402/a], Oct. 13, 1978, [92 Stat. 1158][/us/stat/92/1158].)
+(Added [Pub. L. 95–454, title IV][/us/pl/95/454/tIV], § 402(a), Oct. 13, 1978, [92 Stat. 1158][/us/stat/92/1158].)
 
  __References in Text__ 
 
@@ -65,7 +65,7 @@
 
  __Conversion to Senior Executive Service__ 
 
-[Pub. L. 95–454, title IV, § 413][/us/pl/95/454/s413], Oct. 13, 1978, [92 Stat. 1175][/us/stat/92/1175], provided that:
+[Pub. L. 95–454, title IV][/us/pl/95/454/tIV], § 413, Oct. 13, 1978, [92 Stat. 1175][/us/stat/92/1175], provided that:
 
 >     “(a) For the purpose of this section, ‘agency’, ‘Senior Executive Service position’, ‘career appointee’, ‘career reserved position’, ‘limited term appointee’, ‘noncareer appointee’, and ‘general position’ have the meanings set forth in [section 3132(a) of title 5][/us/usc/t5/s3132/a], United States Code (as added by this title) and ‘Senior Executive Service’ has the meaning set forth in section 2101a of such title 5 (as added by this title).
 
@@ -143,7 +143,7 @@
 
 >     “(k) The Office shall prescribe regulations to carry out the purpose of this section.”
 
-    \[[Pub. L. 95–454, title IV, § 415(a)(2)][/us/pl/95/454/s415/a/2], Oct. 13, 1978, [92 Stat. 1179][/us/stat/92/1179], provided that section 413 \[set out above\] is effective Oct. 13, 1978.\]
+    \[[Pub. L. 95–454, title IV][/us/pl/95/454/tIV], § 415(a)(2), Oct. 13, 1978, [92 Stat. 1179][/us/stat/92/1179], provided that section 413 \[set out above\] is effective Oct. 13, 1978.\]
 
 ----------
 
@@ -154,13 +154,13 @@
 
 [/us/usc/t5/s1103/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs1103%2Fb
 [/us/usc/t5/s3132/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3132%2Fb%2F3
-[/us/pl/95/454/s402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs402%2Fa
+[/us/pl/95/454/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtIV
 [/us/stat/92/1158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1158
-[/us/pl/95/454/s413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs413
+[/us/pl/95/454/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtIV
 [/us/stat/92/1175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1175
 [/us/usc/t5/s3132/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3132%2Fa
 [/us/usc/t5/s7701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs7701
-[/us/pl/95/454/s415/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs415%2Fa%2F2
+[/us/pl/95/454/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtIV
 [/us/stat/92/1179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1179
 
 

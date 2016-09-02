@@ -17,7 +17,7 @@
 
     The Office of Personnel Management shall prescribe regulations necessary for the administration of this subchapter. The regulations prescribed under this subchapter shall, to the extent appropriate, be consistent with the regulations prescribed by the Secretary of Labor to carry out title I of the Family and Medical Leave Act of 1993.
 
-(Added [Pub. L. 103–3, title II, § 201(a)(1)][/us/pl/103/3/s201/a/1], Feb. 5, 1993, [107 Stat. 23][/us/stat/107/23].)
+(Added [Pub. L. 103–3, title II][/us/pl/103/3/tII], § 201(a)(1), Feb. 5, 1993, [107 Stat. 23][/us/stat/107/23].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/103/3/s201/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F3%2Fs201%2Fa%2F1
+[/us/pl/103/3/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F3%2FtII
 [/us/stat/107/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F23
 [/us/pl/103/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F3
 [/us/stat/107/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F6

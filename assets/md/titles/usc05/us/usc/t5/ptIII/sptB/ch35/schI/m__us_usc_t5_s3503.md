@@ -19,7 +19,7 @@
 
     (b) When one agency is replaced by another, each competing employee in the agency to be replaced shall be transferred to the replacing agency for employment in a position for which he is qualified before the replacing agency may make an appointment from another source to that position.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 429][/us/stat/80/429]; [Pub. L. 95–454, title III, § 307(f)][/us/pl/95/454/s307/f], Oct. 13, 1978, [92 Stat. 1149][/us/stat/92/1149]; [Pub. L. 96–54, § 2(a)(18)][/us/pl/96/54/s2/a/18], Aug. 14, 1979, [93 Stat. 382][/us/stat/93/382].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 429][/us/stat/80/429]; [Pub. L. 95–454, title III][/us/pl/95/454/tIII], § 307(f), Oct. 13, 1978, [92 Stat. 1149][/us/stat/92/1149]; [Pub. L. 96–54][/us/pl/96/54], § 2(a)(18), Aug. 14, 1979, [93 Stat. 382][/us/stat/93/382].)
 
 <table>
 
@@ -96,9 +96,9 @@ June 27, 1944, ch. 287, § 12 (3d proviso), 58 Stat. 390.  </td>
 
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F429
-[/us/pl/95/454/s307/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs307%2Ff
+[/us/pl/95/454/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtIII
 [/us/stat/92/1149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1149
-[/us/pl/96/54/s2/a/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F54%2Fs2%2Fa%2F18
+[/us/pl/96/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F54
 [/us/stat/93/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F382
 [/us/pl/96/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F54
 [/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454

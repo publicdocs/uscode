@@ -17,7 +17,7 @@
 
     The Secretary of Labor shall, at the end of each fiscal year, prepare a report with respect to the administration of this chapter. Such report shall be submitted to Congress in accordance with the requirement with respect to submission under section 42 of the Longshore  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “Longshore and”. </sup></sup>  Harbor Workers’ Compensation Act ([33 U.S.C. 942][/us/usc/t33/s942]).
 
-(Added [Pub. L. 104–66, title I, § 1102(b)(3)(A)][/us/pl/104/66/s1102/b/3/A], Dec. 21, 1995, [109 Stat. 723][/us/stat/109/723].)
+(Added [Pub. L. 104–66, title I][/us/pl/104/66/tI], § 1102(b)(3)(A), Dec. 21, 1995, [109 Stat. 723][/us/stat/109/723].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t33/s942]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs942
-[/us/pl/104/66/s1102/b/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs1102%2Fb%2F3%2FA
+[/us/pl/104/66/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2FtI
 [/us/stat/109/723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F723
 
 

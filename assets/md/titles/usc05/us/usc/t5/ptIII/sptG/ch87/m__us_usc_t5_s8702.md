@@ -21,7 +21,7 @@
 
     (c) Notwithstanding a notice previously given under subsection (b), an employee who is deployed in support of a contingency operation (as that term is defined in [section 101(a)(13) of title 10][/us/usc/t10/s101/a/13]) or an employee of the Department of Defense who is designated as an emergency essential employee under [section 1580 of title 10][/us/usc/t10/s1580] shall be insured if the employee, within 60 days after the date of notification of deployment or designation, elects to be insured under a policy of insurance under this chapter. An election under the preceding sentence shall be effective when provided to the Office in writing, in the form prescribed by the Office, within such 60-day period.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 593][/us/stat/80/593]; [Pub. L. 95–454, title IX, § 906(a)(2)][/us/pl/95/454/s906/a/2], (3), Oct. 13, 1978, [92 Stat. 1224][/us/stat/92/1224]; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title XI, § 1134(a)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–318; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title XI, § 1103(a), Oct. 14, 2008, [122 Stat. 4616][/us/stat/122/4616].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 593][/us/stat/80/593]; [Pub. L. 95–454, title IX][/us/pl/95/454/tIX], § 906(a)(2), (3), Oct. 13, 1978, [92 Stat. 1224][/us/stat/92/1224]; [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title XI, § 1134(a)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–318; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title XI, § 1103(a), Oct. 14, 2008, [122 Stat. 4616][/us/stat/122/4616].)
 
 <table>
 
@@ -87,7 +87,7 @@ Aug. 17, 1954, ch. 752, § 5(a) (less 1st par.), 68 Stat. 738.  </td>
 
  __Applicability__ 
 
-[Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title XI, § 1134(b)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–318, provided that: 
+[Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title XI, § 1134(b)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–318, provided that: 
 
 > “For purposes of [section 8702(c) of title 5][/us/usc/t5/s8702/c], United States Code (as added by subsection (a)), an employee of the Department of Defense who is designated as an emergency essential employee under [section 1580 of title 10][/us/usc/t10/s1580], United States Code, before the date of the enactment of this Act \[Oct. 30, 2000\] shall be deemed to be so designated on the date of the enactment of this Act.”
 
@@ -102,9 +102,9 @@ Aug. 17, 1954, ch. 752, § 5(a) (less 1st par.), 68 Stat. 738.  </td>
 [/us/usc/t10/s1580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1580
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F593
-[/us/pl/95/454/s906/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs906%2Fa%2F2
+[/us/pl/95/454/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtIX
 [/us/stat/92/1224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1224
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4616
@@ -115,7 +115,7 @@ Aug. 17, 1954, ch. 752, § 5(a) (less 1st par.), 68 Stat. 738.  </td>
 [/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454
 [/us/pl/95/454/s907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs907
 [/us/usc/t5/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs1101
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
 [/us/usc/t5/s8702/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8702%2Fc
 [/us/usc/t10/s1580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1580

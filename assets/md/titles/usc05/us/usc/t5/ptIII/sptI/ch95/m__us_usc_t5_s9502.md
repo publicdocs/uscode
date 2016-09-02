@@ -19,7 +19,7 @@
 
     (b) Notwithstanding section 5307, no allowance, differential, bonus, award, or similar cash payment may be paid to any employee receiving critical pay at a rate fixed under subsection (a), in any calendar year if, or to the extent that, the employee’s total annual compensation will exceed the maximum amount of total annual compensation payable at the salary set in accordance with [section 104 of title 3][/us/usc/t3/s104].
 
-(Added [Pub. L. 105–206, title I, § 1201(a)][/us/pl/105/206/s1201/a], July 22, 1998, [112 Stat. 712][/us/stat/112/712]; amended [Pub. L. 110–161, div. D, title I, § 107][/us/pl/110/161/s107], Dec. 26, 2007, [121 Stat. 1977][/us/stat/121/1977].)
+(Added [Pub. L. 105–206, title I][/us/pl/105/206/tI], § 1201(a), July 22, 1998, [112 Stat. 712][/us/stat/112/712]; amended [Pub. L. 110–161, div. D, title I][/us/pl/110/161/dD/tI], § 107, Dec. 26, 2007, [121 Stat. 1977][/us/stat/121/1977].)
 
  __Amendments__ 
 
@@ -34,9 +34,9 @@
 
 [/us/usc/t3/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs104
 [/us/usc/t3/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs104
-[/us/pl/105/206/s1201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs1201%2Fa
+[/us/pl/105/206/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtI
 [/us/stat/112/712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F712
-[/us/pl/110/161/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs107
+[/us/pl/110/161/dD/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2FdD%2FtI
 [/us/stat/121/1977]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1977
 [/us/pl/110/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161
 

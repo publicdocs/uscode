@@ -81,17 +81,17 @@
 
  __Amendments__ 
 
-    2002—[Pub. L. 107–296, title XIII, § 1302(b)][/us/pl/107/296/s1302/b], Nov. 25, 2002, [116 Stat. 2288][/us/stat/116/2288], added item for chapter 14.
+    2002—[Pub. L. 107–296, title XIII][/us/pl/107/296/tXIII], § 1302(b), Nov. 25, 2002, [116 Stat. 2288][/us/stat/116/2288], added item for chapter 14.
 
-    1992—[Pub. L. 102–378, § 2(1)][/us/pl/102/378/s2/1], Oct. 2, 1992, [106 Stat. 1346][/us/stat/106/1346], substituted “Employee” for “Individual” in item for chapter 12.
+    1992—[Pub. L. 102–378][/us/pl/102/378], § 2(1), Oct. 2, 1992, [106 Stat. 1346][/us/stat/106/1346], substituted “Employee” for “Individual” in item for chapter 12.
 
-    1989—[Pub. L. 101–12, § 3(b)(1)][/us/pl/101/12/s3/b/1], Apr. 10, 1989, [103 Stat. 31][/us/stat/103/31], substituted “, Office of Special Counsel, and Individual Right of Action” for “and Special Counsel” in item for chapter 12.
+    1989—[Pub. L. 101–12][/us/pl/101/12], § 3(b)(1), Apr. 10, 1989, [103 Stat. 31][/us/stat/103/31], substituted “, Office of Special Counsel, and Individual Right of Action” for “and Special Counsel” in item for chapter 12.
 
-    1978—[Pub. L. 95–454, title II, § 201(c)(1)][/us/pl/95/454/s201/c/1], Oct. 13, 1978, [92 Stat. 1121][/us/stat/92/1121], substituted “CIVIL SERVICE FUNCTIONS AND RESPONSIBILITIES” for “THE UNITED STATES CIVIL SERVICE COMMISSION” in heading for Part II.
+    1978—[Pub. L. 95–454, title II][/us/pl/95/454/tII], § 201(c)(1), Oct. 13, 1978, [92 Stat. 1121][/us/stat/92/1121], substituted “CIVIL SERVICE FUNCTIONS AND RESPONSIBILITIES” for “THE UNITED STATES CIVIL SERVICE COMMISSION” in heading for Part II.
 
-    [Pub. L. 95–454, title II, § 201(c)(2)][/us/pl/95/454/s201/c/2], Oct. 13, 1978, [92 Stat. 1121][/us/stat/92/1121], substituted “Office of Personnel Management” for “Organization” in item for chapter 11.
+    [Pub. L. 95–454, title II][/us/pl/95/454/tII], § 201(c)(2), Oct. 13, 1978, [92 Stat. 1121][/us/stat/92/1121], substituted “Office of Personnel Management” for “Organization” in item for chapter 11.
 
-    [Pub. L. 95–454, title II, § 202(d)][/us/pl/95/454/s202/d], Oct. 13, 1978, [92 Stat. 1131][/us/stat/92/1131], added item for chapter 12.
+    [Pub. L. 95–454, title II][/us/pl/95/454/tII], § 202(d), Oct. 13, 1978, [92 Stat. 1131][/us/stat/92/1131], added item for chapter 12.
 
 ----------
 
@@ -100,17 +100,17 @@
 ----------
 ----------
 
-[/us/pl/107/296/s1302/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1302%2Fb
+[/us/pl/107/296/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXIII
 [/us/stat/116/2288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2288
-[/us/pl/102/378/s2/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378%2Fs2%2F1
+[/us/pl/102/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378
 [/us/stat/106/1346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1346
-[/us/pl/101/12/s3/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F12%2Fs3%2Fb%2F1
+[/us/pl/101/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F12
 [/us/stat/103/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F31
-[/us/pl/95/454/s201/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs201%2Fc%2F1
+[/us/pl/95/454/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtII
 [/us/stat/92/1121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1121
-[/us/pl/95/454/s201/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs201%2Fc%2F2
+[/us/pl/95/454/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtII
 [/us/stat/92/1121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1121
-[/us/pl/95/454/s202/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs202%2Fd
+[/us/pl/95/454/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtII
 [/us/stat/92/1131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1131
 
 

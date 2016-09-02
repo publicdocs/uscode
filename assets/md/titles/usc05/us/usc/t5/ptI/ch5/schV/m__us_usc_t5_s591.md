@@ -27,7 +27,7 @@
 
     (5) to improve the effectiveness of laws applicable to the regulatory process.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 388][/us/stat/80/388], § 571; renumbered § 591, [Pub. L. 102–354, § 2(2)][/us/pl/102/354/s2/2], Aug. 26, 1992, [106 Stat. 944][/us/stat/106/944]; [Pub. L. 108–401, § 2(a)][/us/pl/108/401/s2/a], Oct. 30, 2004, [118 Stat. 2255][/us/stat/118/2255].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 388][/us/stat/80/388], § 571; renumbered § 591, [Pub. L. 102–354][/us/pl/102/354], § 2(2), Aug. 26, 1992, [106 Stat. 944][/us/stat/106/944]; [Pub. L. 108–401][/us/pl/108/401], § 2(a), Oct. 30, 2004, [118 Stat. 2255][/us/stat/118/2255].)
 
 <table>
 
@@ -98,9 +98,9 @@ Aug. 30, 1964, Pub. L. 88–499, § 2(e), 78 Stat. 615.  </td>
 
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F388
-[/us/pl/102/354/s2/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F354%2Fs2%2F2
+[/us/pl/102/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F354
 [/us/stat/106/944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F944
-[/us/pl/108/401/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F401%2Fs2%2Fa
+[/us/pl/108/401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F401
 [/us/stat/118/2255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2255
 [/us/usc/t5/s581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs581
 [/us/pl/108/401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F401

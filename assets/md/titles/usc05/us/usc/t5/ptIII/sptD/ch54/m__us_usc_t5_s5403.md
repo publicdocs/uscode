@@ -37,11 +37,11 @@
 
         (2) Each agency is required to provide to the Office such payroll information as the Office specifies necessary to determine the Executive branch payroll.
 
-(Added [Pub. L. 108–136, div. A, title XI, § 1129(a)][/us/pl/108/136/s1129/a], Nov. 24, 2003, [117 Stat. 1642][/us/stat/117/1642].)
+(Added [Pub. L. 108–136, div. A, title XI][/us/pl/108/136/dA/tXI], § 1129(a), Nov. 24, 2003, [117 Stat. 1642][/us/stat/117/1642].)
 
  __Prior Provisions__ 
 
-    A prior section 5403, added [Pub. L. 95–454, title V, § 501][/us/pl/95/454/s501], Oct. 13, 1978, [92 Stat. 1182][/us/stat/92/1182]; amended [Pub. L. 98–615, title II, § 201(a)][/us/pl/98/615/s201/a], Nov. 8, 1984, [98 Stat. 3209][/us/stat/98/3209]; [Pub. L. 101–509, title V, § 529][/us/pl/101/509/s529] \[title I, § 101(b)(4)(C)\], Nov. 5, 1990, [104 Stat. 1427][/us/stat/104/1427], 1439; [Pub. L. 102–378, § 2(38)][/us/pl/102/378/s2/38], Oct. 2, 1992, [106 Stat. 1351][/us/stat/106/1351], related to general pay increases, prior to repeal by [Pub. L. 103–89, § 3(a)(1)][/us/pl/103/89/s3/a/1], (c), Sept. 30, 1993, [107 Stat. 981][/us/stat/107/981], 983, eff. Nov. 1, 1993.
+    A prior section 5403, added [Pub. L. 95–454, title V][/us/pl/95/454/tV], § 501, Oct. 13, 1978, [92 Stat. 1182][/us/stat/92/1182]; amended [Pub. L. 98–615, title II][/us/pl/98/615/tII], § 201(a), Nov. 8, 1984, [98 Stat. 3209][/us/stat/98/3209]; [Pub. L. 101–509, title V][/us/pl/101/509/tV], § 529 \[title I, § 101(b)(4)(C)\], Nov. 5, 1990, [104 Stat. 1427][/us/stat/104/1427], 1439; [Pub. L. 102–378][/us/pl/102/378], § 2(38), Oct. 2, 1992, [106 Stat. 1351][/us/stat/106/1351], related to general pay increases, prior to repeal by [Pub. L. 103–89][/us/pl/103/89], § 3(a)(1), (c), Sept. 30, 1993, [107 Stat. 981][/us/stat/107/981], 983, eff. Nov. 1, 1993.
 
 ----------
 
@@ -50,17 +50,17 @@
 ----------
 ----------
 
-[/us/pl/108/136/s1129/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1129%2Fa
+[/us/pl/108/136/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtXI
 [/us/stat/117/1642]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1642
-[/us/pl/95/454/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs501
+[/us/pl/95/454/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtV
 [/us/stat/92/1182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1182
-[/us/pl/98/615/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F615%2Fs201%2Fa
+[/us/pl/98/615/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F615%2FtII
 [/us/stat/98/3209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3209
-[/us/pl/101/509/s529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2Fs529
+[/us/pl/101/509/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2FtV
 [/us/stat/104/1427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1427
-[/us/pl/102/378/s2/38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378%2Fs2%2F38
+[/us/pl/102/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378
 [/us/stat/106/1351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1351
-[/us/pl/103/89/s3/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F89%2Fs3%2Fa%2F1
+[/us/pl/103/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F89
 [/us/stat/107/981]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F981
 
 

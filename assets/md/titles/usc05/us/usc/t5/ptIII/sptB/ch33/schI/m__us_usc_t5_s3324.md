@@ -35,7 +35,7 @@
 
     (b) The Office may prescribe regulations necessary for the administration of this section.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 422][/us/stat/80/422]; [Pub. L. 90–83, § 1(10)][/us/pl/90/83/s1/10], Sept. 11, 1967, [81 Stat. 197][/us/stat/81/197]; [Pub. L. 95–454, title IX, § 906(a)(2)][/us/pl/95/454/s906/a/2], (3), Oct. 13, 1978, [92 Stat. 1224][/us/stat/92/1224]; [Pub. L. 96–54, § 2(a)(17)][/us/pl/96/54/s2/a/17], Aug. 14, 1979, [93 Stat. 382][/us/stat/93/382]; [Pub. L. 101–509, title V, § 529][/us/pl/101/509/s529] \[title I, § 101(b)(9)(C)(i), (ii)\], Nov. 5, 1990, [104 Stat. 1427][/us/stat/104/1427], 1441; [Pub. L. 102–378, § 2(11)][/us/pl/102/378/s2/11], Oct. 2, 1992, [106 Stat. 1347][/us/stat/106/1347]; [Pub. L. 110–372, § 2(c)(2)][/us/pl/110/372/s2/c/2], Oct. 8, 2008, [122 Stat. 4044][/us/stat/122/4044].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 422][/us/stat/80/422]; [Pub. L. 90–83][/us/pl/90/83], § 1(10), Sept. 11, 1967, [81 Stat. 197][/us/stat/81/197]; [Pub. L. 95–454, title IX][/us/pl/95/454/tIX], § 906(a)(2), (3), Oct. 13, 1978, [92 Stat. 1224][/us/stat/92/1224]; [Pub. L. 96–54][/us/pl/96/54], § 2(a)(17), Aug. 14, 1979, [93 Stat. 382][/us/stat/93/382]; [Pub. L. 101–509, title V][/us/pl/101/509/tV], § 529 \[title I, § 101(b)(9)(C)(i), (ii)\], Nov. 5, 1990, [104 Stat. 1427][/us/stat/104/1427], 1441; [Pub. L. 102–378][/us/pl/102/378], § 2(11), Oct. 2, 1992, [106 Stat. 1347][/us/stat/106/1347]; [Pub. L. 110–372][/us/pl/110/372], § 2(c)(2), Oct. 8, 2008, [122 Stat. 4044][/us/stat/122/4044].)
 
 <table>
 
@@ -117,13 +117,13 @@ Sept. 13, 1960, Pub. L. 86–768, 74 Stat. 910.  </td>
 
     2008—Subsec. (a). [Pub. L. 110–372][/us/pl/110/372] substituted “the Director of the Office of Personnel Management on the basis of qualification standards developed by the agency involved in accordance with criteria specified in regulations prescribed by the Director” for “the Office of Personnel Management” in introductory provisions.
 
-    1992—[Pub. L. 102–378, § 2(11)(A)][/us/pl/102/378/s2/11/A], substituted “GS–15” for “GA–15” in section catchline.
+    1992—[Pub. L. 102–378][/us/pl/102/378], § 2(11)(A), substituted “GS–15” for “GA–15” in section catchline.
 
-    Subsec. (a)(1). [Pub. L. 102–378, § 2(11)(B)][/us/pl/102/378/s2/11/B], amended par. (1) generally. Prior to amendment, par. (1) read as follows: “provided for in [section 5108(c)(2) of this title][/us/usc/t5/s5108/c/2];”.
+    Subsec. (a)(1). [Pub. L. 102–378][/us/pl/102/378], § 2(11)(B), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “provided for in [section 5108(c)(2) of this title][/us/usc/t5/s5108/c/2];”.
 
-    1990—[Pub. L. 101–509, § 529][/us/pl/101/509/s529] \[title I, § 101(b)(9)(C)(ii)\], which directed that “to positions classified above GA–15” be substituted for “at GS–16, 17, or 18” in section catchline, was executed by making the substitution for “at GS–16, 17, and 18”, as the probable intent of Congress.
+    1990—[Pub. L. 101–509][/us/pl/101/509], § 529 \[title I, § 101(b)(9)(C)(ii)\], which directed that “to positions classified above GA–15” be substituted for “at GS–16, 17, or 18” in section catchline, was executed by making the substitution for “at GS–16, 17, and 18”, as the probable intent of Congress.
 
-    Subsec. (a). [Pub. L. 101–509, § 529][/us/pl/101/509/s529] \[title I, § 101(b)(9)(C)(i)\], substituted “classified above GS–15 pursuant to section 5108” for “in GS–16, 17, or 18”.
+    Subsec. (a). [Pub. L. 101–509][/us/pl/101/509], § 529 \[title I, § 101(b)(9)(C)(i)\], substituted “classified above GS–15 pursuant to section 5108” for “in GS–16, 17, or 18”.
 
     1979—Subsec. (a)(4)(A). [Pub. L. 96–54][/us/pl/96/54] struck out reference to Office of Emergency Planning.
 
@@ -162,17 +162,17 @@ Sept. 13, 1960, Pub. L. 86–768, 74 Stat. 910.  </td>
 
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F422
-[/us/pl/90/83/s1/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83%2Fs1%2F10
+[/us/pl/90/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83
 [/us/stat/81/197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F197
-[/us/pl/95/454/s906/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs906%2Fa%2F2
+[/us/pl/95/454/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtIX
 [/us/stat/92/1224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1224
-[/us/pl/96/54/s2/a/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F54%2Fs2%2Fa%2F17
+[/us/pl/96/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F54
 [/us/stat/93/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F382
-[/us/pl/101/509/s529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2Fs529
+[/us/pl/101/509/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2FtV
 [/us/stat/104/1427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1427
-[/us/pl/102/378/s2/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378%2Fs2%2F11
+[/us/pl/102/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378
 [/us/stat/106/1347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1347
-[/us/pl/110/372/s2/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F372%2Fs2%2Fc%2F2
+[/us/pl/110/372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F372
 [/us/stat/122/4044]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4044
 [/us/stat/72/1799]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1799
 [/us/pl/85/763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F763
@@ -183,11 +183,11 @@ Sept. 13, 1960, Pub. L. 86–768, 74 Stat. 910.  </td>
 [/us/pl/89/57]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F57
 [/us/stat/79/196]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F196
 [/us/pl/110/372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F372
-[/us/pl/102/378/s2/11/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378%2Fs2%2F11%2FA
-[/us/pl/102/378/s2/11/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378%2Fs2%2F11%2FB
+[/us/pl/102/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378
+[/us/pl/102/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378
 [/us/usc/t5/s5108/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5108%2Fc%2F2
-[/us/pl/101/509/s529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2Fs529
-[/us/pl/101/509/s529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2Fs529
+[/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509
+[/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509
 [/us/pl/96/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F54
 [/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454
 [/us/pl/110/372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F372

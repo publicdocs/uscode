@@ -131,13 +131,13 @@
 
     (j) With respect to any disclosure of information described in subsection (a) which involves foreign intelligence or counterintelligence information, if the disclosure is specifically prohibited by law or by Executive order, the Special Counsel shall transmit such information to the National Security Advisor, the Permanent Select Committee on Intelligence of the House of Representatives, and the Select Committee on Intelligence of the Senate.
 
-(Added [Pub. L. 101–12, § 3(a)(13)][/us/pl/101/12/s3/a/13], Apr. 10, 1989, [103 Stat. 21][/us/stat/103/21]; amended [Pub. L. 104–316, title I, § 103(a)][/us/pl/104/316/s103/a], Oct. 19, 1996, [110 Stat. 3828][/us/stat/110/3828]; [Pub. L. 107–304, § 3][/us/pl/107/304/s3], Nov. 27, 2002, [116 Stat. 2364][/us/stat/116/2364].)
+(Added [Pub. L. 101–12][/us/pl/101/12], § 3(a)(13), Apr. 10, 1989, [103 Stat. 21][/us/stat/103/21]; amended [Pub. L. 104–316, title I][/us/pl/104/316/tI], § 103(a), Oct. 19, 1996, [110 Stat. 3828][/us/stat/110/3828]; [Pub. L. 107–304][/us/pl/107/304], § 3, Nov. 27, 2002, [116 Stat. 2364][/us/stat/116/2364].)
 
  __Amendments__ 
 
-    2002—Subsec. (g)(1). [Pub. L. 107–304, § 3(1)][/us/pl/107/304/s3/1], struck out at end “If the Special Counsel does not transmit the information to the head of the agency, the Special Counsel shall return any documents and other matter provided by the individual who made the disclosure.”
+    2002—Subsec. (g)(1). [Pub. L. 107–304][/us/pl/107/304], § 3(1), struck out at end “If the Special Counsel does not transmit the information to the head of the agency, the Special Counsel shall return any documents and other matter provided by the individual who made the disclosure.”
 
-    Subsec. (g)(3). [Pub. L. 107–304, § 3(2)][/us/pl/107/304/s3/2], added par. (3) and struck out former par. (3) which read as follows: “If the Special Counsel does not transmit the information to the head of the agency under paragraph (2), the Special Counsel shall—
+    Subsec. (g)(3). [Pub. L. 107–304][/us/pl/107/304], § 3(2), added par. (3) and struck out former par. (3) which read as follows: “If the Special Counsel does not transmit the information to the head of the agency under paragraph (2), the Special Counsel shall—
 
     “(A) return any documents and other matter provided by the individual who made the disclosure; and
 
@@ -147,9 +147,9 @@
 
     “(ii) other offices available for receiving disclosures, should the individual wish to pursue the matter further.”
 
-    1996—Subsec. (e)(3). [Pub. L. 104–316, § 103(a)(1)][/us/pl/104/316/s103/a/1], substituted “President and” for “President,” and struck out “, and the Comptroller General” before period at end.
+    1996—Subsec. (e)(3). [Pub. L. 104–316][/us/pl/104/316], § 103(a)(1), substituted “President and” for “President,” and struck out “, and the Comptroller General” before period at end.
 
-    Subsec. (e)(4). [Pub. L. 104–316, § 103(a)(2)][/us/pl/104/316/s103/a/2], substituted “President and” for “President,” and struck out “, and the Comptroller General” before “together with a”.
+    Subsec. (e)(4). [Pub. L. 104–316][/us/pl/104/316], § 103(a)(2), substituted “President and” for “President,” and struck out “, and the Comptroller General” before “together with a”.
 
 ----------
 
@@ -158,15 +158,15 @@
 ----------
 ----------
 
-[/us/pl/101/12/s3/a/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F12%2Fs3%2Fa%2F13
+[/us/pl/101/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F12
 [/us/stat/103/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F21
-[/us/pl/104/316/s103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2Fs103%2Fa
+[/us/pl/104/316/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2FtI
 [/us/stat/110/3828]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3828
-[/us/pl/107/304/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F304%2Fs3
+[/us/pl/107/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F304
 [/us/stat/116/2364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2364
-[/us/pl/107/304/s3/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F304%2Fs3%2F1
-[/us/pl/107/304/s3/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F304%2Fs3%2F2
-[/us/pl/104/316/s103/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2Fs103%2Fa%2F1
-[/us/pl/104/316/s103/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2Fs103%2Fa%2F2
+[/us/pl/107/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F304
+[/us/pl/107/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F304
+[/us/pl/104/316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316
+[/us/pl/104/316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316
 
 

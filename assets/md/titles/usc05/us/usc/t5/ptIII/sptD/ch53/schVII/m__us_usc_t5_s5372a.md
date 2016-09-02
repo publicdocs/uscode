@@ -35,7 +35,7 @@
 
     (c) Rates of pay taking effect under this section shall be printed in the Federal Register and the Code of Federal Regulations.
 
-(Added [Pub. L. 101–509, title V, § 529][/us/pl/101/509/s529] \[title I, § 104(a)(2)\], Nov. 5, 1990, [104 Stat. 1427][/us/stat/104/1427], 1446; amended [Pub. L. 109–163, div. A, title VIII, § 847(f)(1)][/us/pl/109/163/s847/f/1], Jan. 6, 2006, [119 Stat. 3395][/us/stat/119/3395]; [Pub. L. 111–350, § 5(a)(9)][/us/pl/111/350/s5/a/9], Jan. 4, 2011, [124 Stat. 3841][/us/stat/124/3841].)
+(Added [Pub. L. 101–509, title V][/us/pl/101/509/tV], § 529 \[title I, § 104(a)(2)\], Nov. 5, 1990, [104 Stat. 1427][/us/stat/104/1427], 1446; amended [Pub. L. 109–163, div. A, title VIII][/us/pl/109/163/dA/tVIII], § 847(f)(1), Jan. 6, 2006, [119 Stat. 3395][/us/stat/119/3395]; [Pub. L. 111–350][/us/pl/111/350], § 5(a)(9), Jan. 4, 2011, [124 Stat. 3841][/us/stat/124/3841].)
 
  __References in Text__ 
 
@@ -43,15 +43,15 @@
 
  __Amendments__ 
 
-    2011—Subsec. (a)(1). [Pub. L. 111–350, § 5(a)(9)(A)][/us/pl/111/350/s5/a/9/A], substituted “section 7105(a)(2), (c)(2), or (d)(2) of title 41” for “section 8 of the Contract Disputes Act of 1978” and “[section 7105(b)(2) of title 41][/us/usc/t41/s7105/b/2]” for “section 42 of the Office of Federal Procurement Policy Act”.
+    2011—Subsec. (a)(1). [Pub. L. 111–350][/us/pl/111/350], § 5(a)(9)(A), substituted “section 7105(a)(2), (c)(2), or (d)(2) of title 41” for “section 8 of the Contract Disputes Act of 1978” and “[section 7105(b)(2) of title 41][/us/usc/t41/s7105/b/2]” for “section 42 of the Office of Federal Procurement Policy Act”.
 
-    Subsec. (a)(2). [Pub. L. 111–350, § 5(a)(9)(B)][/us/pl/111/350/s5/a/9/B], substituted “section 7105(a)(1), (c)(1), or (d)(1) of title 41” for “section 8 of the Contract Disputes Act of 1978”.
+    Subsec. (a)(2). [Pub. L. 111–350][/us/pl/111/350], § 5(a)(9)(B), substituted “section 7105(a)(1), (c)(1), or (d)(1) of title 41” for “section 8 of the Contract Disputes Act of 1978”.
 
     2006—Subsec. (a)(1). [Pub. L. 109–163][/us/pl/109/163] inserted “or a member of the Civilian Board of Contract Appeals appointed under section 42 of the Office of Federal Procurement Policy Act” after “of 1978”.
 
  __Effective Date of 2006 Amendment__ 
 
-[Pub. L. 109–163, div. A, title VIII, § 847(g)][/us/pl/109/163/s847/g], Jan. 6, 2006, [119 Stat. 3395][/us/stat/119/3395], provided that: 
+[Pub. L. 109–163, div. A, title VIII][/us/pl/109/163/dA/tVIII], § 847(g), Jan. 6, 2006, [119 Stat. 3395][/us/stat/119/3395], provided that: 
 
 > “Section 42 of the Office of Federal Procurement Policy Act, as added by this section, and the amendments and repeals made by this section \[enacting [section 438 of Title 41][/us/usc/t41/s438], Public Contracts, amending this section and sections 601 and 607 of Title 41, and enacting provisions set out as a note under [section 607 of Title 41][/us/usc/t41/s607]\], shall take effect 1 year after the date of the enactment of this Act \[Jan. 6, 2006\].”
 
@@ -67,18 +67,18 @@
 ----------
 
 [/us/usc/t41/s7105/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs7105%2Fb%2F2
-[/us/pl/101/509/s529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2Fs529
+[/us/pl/101/509/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2FtV
 [/us/stat/104/1427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1427
-[/us/pl/109/163/s847/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs847%2Ff%2F1
+[/us/pl/109/163/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtVIII
 [/us/stat/119/3395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3395
-[/us/pl/111/350/s5/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs5%2Fa%2F9
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3841
 [/us/usc/t5/s5315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5315
-[/us/pl/111/350/s5/a/9/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs5%2Fa%2F9%2FA
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/usc/t41/s7105/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs7105%2Fb%2F2
-[/us/pl/111/350/s5/a/9/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs5%2Fa%2F9%2FB
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
-[/us/pl/109/163/s847/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs847%2Fg
+[/us/pl/109/163/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtVIII
 [/us/stat/119/3395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3395
 [/us/usc/t41/s438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs438
 [/us/usc/t41/s607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs607

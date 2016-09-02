@@ -25,7 +25,7 @@
 
     (e) Notwithstanding section 5307, a performance bonus award may not be paid to an executive in a calendar year if, or to the extent that, the executive’s total annual compensation will exceed the maximum amount of total annual compensation payable at the rate determined under [section 104 of title 3][/us/usc/t3/s104].
 
-(Added [Pub. L. 105–206, title I, § 1201(a)][/us/pl/105/206/s1201/a], July 22, 1998, [112 Stat. 713][/us/stat/112/713]; amended [Pub. L. 107–217, § 3(a)(2)][/us/pl/107/217/s3/a/2], Aug. 21, 2002, [116 Stat. 1295][/us/stat/116/1295]; [Pub. L. 108–7, div. J, title VI, § 645(a)][/us/pl/108/7/s645/a], Feb. 20, 2003, [117 Stat. 474][/us/stat/117/474]; [Pub. L. 110–161, div. D, title I, § 106][/us/pl/110/161/s106], Dec. 26, 2007, [121 Stat. 1977][/us/stat/121/1977]; [Pub. L. 113–6, div. F, title III, § 1309][/us/pl/113/6/s1309], Mar. 26, 2013, [127 Stat. 418][/us/stat/127/418].)
+(Added [Pub. L. 105–206, title I][/us/pl/105/206/tI], § 1201(a), July 22, 1998, [112 Stat. 713][/us/stat/112/713]; amended [Pub. L. 107–217][/us/pl/107/217], § 3(a)(2), Aug. 21, 2002, [116 Stat. 1295][/us/stat/116/1295]; [Pub. L. 108–7, div. J, title VI][/us/pl/108/7/dJ/tVI], § 645(a), Feb. 20, 2003, [117 Stat. 474][/us/stat/117/474]; [Pub. L. 110–161, div. D, title I][/us/pl/110/161/dD/tI], § 106, Dec. 26, 2007, [121 Stat. 1977][/us/stat/121/1977]; [Pub. L. 113–6, div. F, title III][/us/pl/113/6/dF/tIII], § 1309, Mar. 26, 2013, [127 Stat. 418][/us/stat/127/418].)
 
  __References in Text__ 
 
@@ -43,7 +43,7 @@
 
  __Effective Date of 2003 Amendment__ 
 
-[Pub. L. 108–7, div. J, title VI, § 645(b)][/us/pl/108/7/s645/b], Feb. 20, 2003, [117 Stat. 474][/us/stat/117/474], provided that: 
+[Pub. L. 108–7, div. J, title VI][/us/pl/108/7/dJ/tVI], § 645(b), Feb. 20, 2003, [117 Stat. 474][/us/stat/117/474], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply with respect to fiscal years beginning after September 30, 2002.”
 
@@ -55,15 +55,15 @@
 ----------
 
 [/us/usc/t3/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs104
-[/us/pl/105/206/s1201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs1201%2Fa
+[/us/pl/105/206/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtI
 [/us/stat/112/713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F713
-[/us/pl/107/217/s3/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs3%2Fa%2F2
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1295
-[/us/pl/108/7/s645/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs645%2Fa
+[/us/pl/108/7/dJ/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2FdJ%2FtVI
 [/us/stat/117/474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F474
-[/us/pl/110/161/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs106
+[/us/pl/110/161/dD/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2FdD%2FtI
 [/us/stat/121/1977]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1977
-[/us/pl/113/6/s1309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F6%2Fs1309
+[/us/pl/113/6/dF/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F6%2FdF%2FtIII
 [/us/stat/127/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F418
 [/us/pl/103/62]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F62
 [/us/stat/107/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F285
@@ -76,7 +76,7 @@
 [/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
 [/us/stat/110/679]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F679
-[/us/pl/108/7/s645/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs645%2Fb
+[/us/pl/108/7/dJ/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2FdJ%2FtVI
 [/us/stat/117/474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F474
 
 

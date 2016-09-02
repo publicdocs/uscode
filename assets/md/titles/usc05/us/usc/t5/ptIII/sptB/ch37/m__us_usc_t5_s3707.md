@@ -17,7 +17,7 @@
 
     The Director of the Office of Personnel Management shall prescribe regulations for the administration of this chapter.
 
-(Added [Pub. L. 107–347, title II, § 209(c)(1)][/us/pl/107/347/s209/c/1], Dec. 17, 2002, [116 Stat. 2930][/us/stat/116/2930].)
+(Added [Pub. L. 107–347, title II][/us/pl/107/347/tII], § 209(c)(1), Dec. 17, 2002, [116 Stat. 2930][/us/stat/116/2930].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/107/347/s209/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347%2Fs209%2Fc%2F1
+[/us/pl/107/347/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347%2FtII
 [/us/stat/116/2930]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2930
 
 

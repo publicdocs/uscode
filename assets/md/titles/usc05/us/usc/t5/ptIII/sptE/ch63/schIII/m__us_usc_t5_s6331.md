@@ -25,7 +25,7 @@
 
     (4) the term “medical emergency” means a medical condition of an employee or a family member of such employee that is likely to require the prolonged absence of such employee from duty and to result in a substantial loss of income to such employee because of the unavailability of paid leave (disregarding any advanced leave).
 
-(Added [Pub. L. 100–566, § 2(a)][/us/pl/100/566/s2/a], Oct. 31, 1988, [102 Stat. 2834][/us/stat/102/2834]; amended [Pub. L. 103–103, § 3][/us/pl/103/103/s3], Oct. 8, 1993, [107 Stat. 1022][/us/stat/107/1022].)
+(Added [Pub. L. 100–566][/us/pl/100/566], § 2(a), Oct. 31, 1988, [102 Stat. 2834][/us/stat/102/2834]; amended [Pub. L. 103–103][/us/pl/103/103], § 3, Oct. 8, 1993, [107 Stat. 1022][/us/stat/107/1022].)
 
  __Amendments__ 
 
@@ -33,19 +33,19 @@
 
  __Effective Date of 1993 Amendment__ 
 
-[Pub. L. 103–103, § 6][/us/pl/103/103/s6], Oct. 8, 1993, [107 Stat. 1024][/us/stat/107/1024], provided that: 
+[Pub. L. 103–103][/us/pl/103/103], § 6, Oct. 8, 1993, [107 Stat. 1024][/us/stat/107/1024], provided that: 
 
 > “Except as provided in section 2 \[enacting and repealing provisions set out as notes under this section\], this Act \[amending this section and sections 6337, 6361, 6362, and 6373 of this title and enacting provisions set out as a note under [section 6301 of this title][/us/usc/t5/s6301]\] and the amendments made by this Act shall take effect as of the 120th day after the date of the enactment of this Act \[Oct. 8, 1993\] or such earlier date as the Office of Personnel Management may by regulation prescribe.”
 
  __Repeals__ 
 
-    [Pub. L. 100–566, § 2(d)][/us/pl/100/566/s2/d], Oct. 31, 1988, [102 Stat. 2844][/us/stat/102/2844], which provided for the repeal of subchapters III (§ 6331 et seq.) and IV (§ 6361 et seq.) of this chapter effective 5 years after Oct. 31, 1988, and which also contained savings provisions for continued availability of certain leave as if such program had not been terminated, was repealed by [Pub. L. 103–103, § 2][/us/pl/103/103/s2], Oct. 8, 1993, [107 Stat. 1022][/us/stat/107/1022], effective Oct. 30, 1993.
+    [Pub. L. 100–566][/us/pl/100/566], § 2(d), Oct. 31, 1988, [102 Stat. 2844][/us/stat/102/2844], which provided for the repeal of subchapters III (§ 6331 et seq.) and IV (§ 6361 et seq.) of this chapter effective 5 years after Oct. 31, 1988, and which also contained savings provisions for continued availability of certain leave as if such program had not been terminated, was repealed by [Pub. L. 103–103][/us/pl/103/103], § 2, Oct. 8, 1993, [107 Stat. 1022][/us/stat/107/1022], effective Oct. 30, 1993.
 
-    \[[Pub. L. 103–103, § 2][/us/pl/103/103/s2], Oct. 8, 1993, [107 Stat. 1022][/us/stat/107/1022], provided that the repeal made by that section is effective Oct. 30, 1993.\]
+    \[[Pub. L. 103–103][/us/pl/103/103], § 2, Oct. 8, 1993, [107 Stat. 1022][/us/stat/107/1022], provided that the repeal made by that section is effective Oct. 30, 1993.\]
 
  __Implementation of Leave Transfer and Leave Bank Programs__ 
 
-[Pub. L. 100–566, § 2(c)][/us/pl/100/566/s2/c], Oct. 31, 1988, [102 Stat. 2844][/us/stat/102/2844], provided that:
+[Pub. L. 100–566][/us/pl/100/566], § 2(c), Oct. 31, 1988, [102 Stat. 2844][/us/stat/102/2844], provided that:
 
 >     “(1) No later than 3 months after the date of the enactment of this Act \[Oct. 31, 1988\], the Office of Personnel Management shall prescribe regulations to implement leave transfer programs pursuant to the amendments made by this Act \[see Short Title of 1988 Amendment note set out under [section 6301 of this title][/us/usc/t5/s6301]\].
 
@@ -61,7 +61,7 @@
 
  __Report to Congress__ 
 
-[Pub. L. 100–566, § 2(e)][/us/pl/100/566/s2/e], Oct. 31, 1988, [102 Stat. 2845][/us/stat/102/2845], provided that:
+[Pub. L. 100–566][/us/pl/100/566], § 2(e), Oct. 31, 1988, [102 Stat. 2845][/us/stat/102/2845], provided that:
 
 >     “(1)
 
@@ -73,7 +73,7 @@
 
  __Continuation of Temporary Leave Transfer Programs__ 
 
-[Pub. L. 100–566, § 2(f)][/us/pl/100/566/s2/f], Oct. 31, 1988, [102 Stat. 2845][/us/stat/102/2845], provided that: 
+[Pub. L. 100–566][/us/pl/100/566], § 2(f), Oct. 31, 1988, [102 Stat. 2845][/us/stat/102/2845], provided that: 
 
 > “Any temporary program allowing for transfers of leave among officers or employees of the Federal Government may, if such program is being implemented with respect to an agency (or any unit thereof) as of the date of the enactment of this Act \[Oct. 31, 1988\], continue to be implemented with respect to such agency (or unit), notwithstanding any provision of law which would otherwise terminate the authority for such program, pending the commencement of a leave transfer program with respect to such agency pursuant to amendments made by this Act \[see Short Title of 1988 Amendment note set out under [section 6301 of this title][/us/usc/t5/s6301]\]. The Office of Personnel Management (or, in the case of a program established by another agency, such other agency) shall prescribe regulations to ensure that any leave which has been transferred to the credit of an officer or employee and which remains unused as of the date on which any such temporary program terminates (and a successor program commences pursuant to amendments made by this Act) shall not be lost by reason of that termination.”
 
@@ -84,27 +84,27 @@
 ----------
 ----------
 
-[/us/pl/100/566/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F566%2Fs2%2Fa
+[/us/pl/100/566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F566
 [/us/stat/102/2834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2834
-[/us/pl/103/103/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F103%2Fs3
+[/us/pl/103/103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F103
 [/us/stat/107/1022]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1022
 [/us/pl/103/103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F103
-[/us/pl/103/103/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F103%2Fs6
+[/us/pl/103/103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F103
 [/us/stat/107/1024]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1024
 [/us/usc/t5/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs6301
-[/us/pl/100/566/s2/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F566%2Fs2%2Fd
+[/us/pl/100/566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F566
 [/us/stat/102/2844]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2844
-[/us/pl/103/103/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F103%2Fs2
+[/us/pl/103/103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F103
 [/us/stat/107/1022]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1022
-[/us/pl/103/103/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F103%2Fs2
+[/us/pl/103/103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F103
 [/us/stat/107/1022]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1022
-[/us/pl/100/566/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F566%2Fs2%2Fc
+[/us/pl/100/566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F566
 [/us/stat/102/2844]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2844
 [/us/usc/t5/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs6301
 [/us/usc/t5/s6362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs6362
-[/us/pl/100/566/s2/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F566%2Fs2%2Fe
+[/us/pl/100/566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F566
 [/us/stat/102/2845]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2845
-[/us/pl/100/566/s2/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F566%2Fs2%2Ff
+[/us/pl/100/566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F566
 [/us/stat/102/2845]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2845
 [/us/usc/t5/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs6301
 

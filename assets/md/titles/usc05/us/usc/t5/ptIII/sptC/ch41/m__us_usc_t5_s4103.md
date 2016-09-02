@@ -51,7 +51,7 @@
 
         (2) modify such program or plan as needed to accomplish such plans and goals.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966. [80 Stat. 433][/us/stat/80/433]; [Pub. L. 95–454, title III, § 304][/us/pl/95/454/s304], Oct. 13, 1978, [92 Stat. 1146][/us/stat/92/1146]; [Pub. L. 103–226, § 2(a)(2)][/us/pl/103/226/s2/a/2], Mar. 30, 1994, [108 Stat. 111][/us/stat/108/111]; [Pub. L. 108–411, title II, § 201(a)][/us/pl/108/411/s201/a], Oct. 30, 2004, [118 Stat. 2311][/us/stat/118/2311].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966. [80 Stat. 433][/us/stat/80/433]; [Pub. L. 95–454, title III][/us/pl/95/454/tIII], § 304, Oct. 13, 1978, [92 Stat. 1146][/us/stat/92/1146]; [Pub. L. 103–226][/us/pl/103/226], § 2(a)(2), Mar. 30, 1994, [108 Stat. 111][/us/stat/108/111]; [Pub. L. 108–411, title II][/us/pl/108/411/tII], § 201(a), Oct. 30, 2004, [118 Stat. 2311][/us/stat/118/2311].)
 
 <table>
 
@@ -109,15 +109,15 @@ July 7, 1958, Pub. L. 85–507, § 7, 72 Stat. 331.  </td>
 
     2004—Subsec. (c). [Pub. L. 108–411][/us/pl/108/411] added subsec. (c).
 
-    1994—Subsec. (a). [Pub. L. 103–226, § 2(a)(2)(A)(i)][/us/pl/103/226/s2/a/2/A/i], in introductory provisions, substituted “In order to assist in achieving an agency’s mission and performance goals by improving employee and organizational performance, the head of each agency, in conformity with this chapter, shall establish, operate, maintain, and evaluate” for “In order to increase economy and efficiency in the operations of the agency and to raise the standards of performance by employees of their official duties to the maximum possible level of proficiency, the head of each agency, in conformity with this chapter, shall establish, operate, and maintain”.
+    1994—Subsec. (a). [Pub. L. 103–226][/us/pl/103/226], § 2(a)(2)(A)(i), in introductory provisions, substituted “In order to assist in achieving an agency’s mission and performance goals by improving employee and organizational performance, the head of each agency, in conformity with this chapter, shall establish, operate, maintain, and evaluate” for “In order to increase economy and efficiency in the operations of the agency and to raise the standards of performance by employees of their official duties to the maximum possible level of proficiency, the head of each agency, in conformity with this chapter, shall establish, operate, and maintain”.
 
-    Subsec. (a)(3), (4). [Pub. L. 103–226, § 2(a)(2)(A)(ii)][/us/pl/103/226/s2/a/2/A/ii]–(iv), added par. (3) and redesignated former par. (3) as (4).
+    Subsec. (a)(3), (4). [Pub. L. 103–226][/us/pl/103/226], § 2(a)(2)(A)(ii)–(iv), added par. (3) and redesignated former par. (3) as (4).
 
-    Subsec. (b)(1). [Pub. L. 103–226, § 2(a)(2)(B)(i)][/us/pl/103/226/s2/a/2/B/i], substituted “determines that such training would be in the interests of the Government.” for “determines that the employee will otherwise be separated under conditions which would entitle the employee to severance pay under [section 5595 of this title][/us/usc/t5/s5595].”
+    Subsec. (b)(1). [Pub. L. 103–226][/us/pl/103/226], § 2(a)(2)(B)(i), substituted “determines that such training would be in the interests of the Government.” for “determines that the employee will otherwise be separated under conditions which would entitle the employee to severance pay under [section 5595 of this title][/us/usc/t5/s5595].”
 
-    Subsec. (b)(2). [Pub. L. 103–226, § 2(a)(2)(B)(ii)][/us/pl/103/226/s2/a/2/B/ii], (iii), redesignated par. (3) as (2), in subpar. (C) substituted “such training” for “retaining the employee in the Federal service”, and struck out former par. (2) which read as follows: “Before undertaking any training under this subsection, the head of the agency shall obtain verification from the Office of Personnel Management that there exists a reasonable expectation of placement in another agency.”
+    Subsec. (b)(2). [Pub. L. 103–226][/us/pl/103/226], § 2(a)(2)(B)(ii), (iii), redesignated par. (3) as (2), in subpar. (C) substituted “such training” for “retaining the employee in the Federal service”, and struck out former par. (2) which read as follows: “Before undertaking any training under this subsection, the head of the agency shall obtain verification from the Office of Personnel Management that there exists a reasonable expectation of placement in another agency.”
 
-    Subsec. (b)(3). [Pub. L. 103–226, § 2(a)(2)(B)(ii)][/us/pl/103/226/s2/a/2/B/ii], redesignated par. (3) as (2).
+    Subsec. (b)(3). [Pub. L. 103–226][/us/pl/103/226], § 2(a)(2)(B)(ii), redesignated par. (3) as (2).
 
     1978—[Pub. L. 95–454][/us/pl/95/454] designated existing provisions as subsec. (a) and added subsec. (b).
 
@@ -127,7 +127,7 @@ July 7, 1958, Pub. L. 85–507, § 7, 72 Stat. 331.  </td>
 
  __Optional Participation of Federal Employees in AIDS Training Programs__ 
 
-[Pub. L. 104–146, § 9][/us/pl/104/146/s9], May 20, 1996, [110 Stat. 1373][/us/stat/110/1373], provided that:
+[Pub. L. 104–146][/us/pl/104/146], § 9, May 20, 1996, [110 Stat. 1373][/us/stat/110/1373], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -139,7 +139,7 @@ July 7, 1958, Pub. L. 85–507, § 7, 72 Stat. 331.  </td>
 
  __Experimental Program Relating to Acceptance of Voluntary Services From Participants in Executive Exchange Program__ 
 
-    [Pub. L. 101–416, § 1][/us/pl/101/416/s1], Oct. 12, 1990, [104 Stat. 902][/us/stat/104/902], authorized a 90-day extension of programs established under [Pub. L. 99–424][/us/pl/99/424] for individuals who were participating in the program on the expiration date.
+    [Pub. L. 101–416][/us/pl/101/416], § 1, Oct. 12, 1990, [104 Stat. 902][/us/stat/104/902], authorized a 90-day extension of programs established under [Pub. L. 99–424][/us/pl/99/424] for individuals who were participating in the program on the expiration date.
 
     [Pub. L. 99–424][/us/pl/99/424], Sept. 30, 1986, [100 Stat. 964][/us/stat/100/964], as amended by [Pub. L. 101–87][/us/pl/101/87], Aug. 16, 1989, [103 Stat. 595][/us/stat/103/595], authorized President to establish an experimental program, to be conducted during fiscal years 1987 through 1990, under which voluntary services could be accepted by the Government, without regard to [31 U.S.C. 1342][/us/usc/t31/s1342].
 
@@ -373,27 +373,27 @@ Section 1. Establishment of the President’s Task Force on Federal Training Tec
 [/us/usc/t5/s4118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs4118
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F433
-[/us/pl/95/454/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs304
+[/us/pl/95/454/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtIII
 [/us/stat/92/1146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1146
-[/us/pl/103/226/s2/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F226%2Fs2%2Fa%2F2
+[/us/pl/103/226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F226
 [/us/stat/108/111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F111
-[/us/pl/108/411/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F411%2Fs201%2Fa
+[/us/pl/108/411/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F411%2FtII
 [/us/stat/118/2311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2311
 [/us/pl/108/411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F411
-[/us/pl/103/226/s2/a/2/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F226%2Fs2%2Fa%2F2%2FA%2Fi
-[/us/pl/103/226/s2/a/2/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F226%2Fs2%2Fa%2F2%2FA%2Fii
-[/us/pl/103/226/s2/a/2/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F226%2Fs2%2Fa%2F2%2FB%2Fi
+[/us/pl/103/226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F226
+[/us/pl/103/226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F226
+[/us/pl/103/226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F226
 [/us/usc/t5/s5595]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5595
-[/us/pl/103/226/s2/a/2/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F226%2Fs2%2Fa%2F2%2FB%2Fii
-[/us/pl/103/226/s2/a/2/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F226%2Fs2%2Fa%2F2%2FB%2Fii
+[/us/pl/103/226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F226
+[/us/pl/103/226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F226
 [/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454
 [/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454
 [/us/pl/95/454/s907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs907
 [/us/usc/t5/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs1101
-[/us/pl/104/146/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F146%2Fs9
+[/us/pl/104/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F146
 [/us/stat/110/1373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1373
 [/us/usc/t5/s2105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs2105
-[/us/pl/101/416/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F416%2Fs1
+[/us/pl/101/416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F416
 [/us/stat/104/902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F902
 [/us/pl/99/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F424
 [/us/pl/99/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F424

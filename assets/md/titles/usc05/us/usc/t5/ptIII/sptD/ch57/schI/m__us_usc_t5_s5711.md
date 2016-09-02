@@ -115,7 +115,7 @@
 
     (g) The authority to conduct test programs under this section shall expire 7 years after the date of the enactment of the Telework Enhancement Act of 2010.
 
-(Added [Pub. L. 111–292, § 3(a)][/us/pl/111/292/s3/a], Dec. 9, 2010, [124 Stat. 3171][/us/stat/124/3171].)
+(Added [Pub. L. 111–292][/us/pl/111/292], § 3(a), Dec. 9, 2010, [124 Stat. 3171][/us/stat/124/3171].)
 
  __References in Text__ 
 
@@ -128,7 +128,7 @@
 ----------
 ----------
 
-[/us/pl/111/292/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F292%2Fs3%2Fa
+[/us/pl/111/292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F292
 [/us/stat/124/3171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3171
 [/us/pl/111/292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F292
 

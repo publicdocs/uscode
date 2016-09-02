@@ -17,7 +17,7 @@
 
     The Director of the Federal Bureau of Investigation may, under regulations prescribed by the Director, pay a cash award of up to 10 percent of basic pay to any Bureau employee who maintains proficiency in a language or languages critical to the mission or who uses one or more foreign languages in the performance of official duties.
 
-(Added [Pub. L. 111–117, div. B, title II, § 219(a)][/us/pl/111/117/s219/a], Dec. 16, 2009, [123 Stat. 3141][/us/stat/123/3141].)
+(Added [Pub. L. 111–117, div. B, title II][/us/pl/111/117/dB/tII], § 219(a), Dec. 16, 2009, [123 Stat. 3141][/us/stat/123/3141].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/111/117/s219/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F117%2Fs219%2Fa
+[/us/pl/111/117/dB/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F117%2FdB%2FtII
 [/us/stat/123/3141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F3141
 
 

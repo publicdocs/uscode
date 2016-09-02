@@ -103,7 +103,7 @@ Sept. 6, 1960, Pub. L. 86–707, § 111, 74 Stat. 792.  </td>
 
  __Limitation on Housing Benefits__ 
 
-[Pub. L. 101–246, title I, § 156][/us/pl/101/246/s156], Feb. 16, 1990, [104 Stat. 46][/us/stat/104/46], provided that:
+[Pub. L. 101–246, title I][/us/pl/101/246/tI], § 156, Feb. 16, 1990, [104 Stat. 46][/us/stat/104/46], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -115,25 +115,25 @@ Sept. 6, 1960, Pub. L. 86–707, § 111, 74 Stat. 792.  </td>
 
  __Amendment, Modification, or Supersedure of Provisions Inconsistent With the Overseas Differentials and Allowances Act__ 
 
-[Pub. L. 86–707, title V, § 511(b)][/us/pl/86/707/s511/b], Sept. 6, 1960, [74 Stat. 800][/us/stat/74/800], provided that: 
+[Pub. L. 86–707, title V][/us/pl/86/707/tV], § 511(b), Sept. 6, 1960, [74 Stat. 800][/us/stat/74/800], provided that: 
 
 > “Any provision of law which is not repealed by subsection (a) of this section but is inconsistent with any provision of this Act or of any amendment made by this Act \[enacting chapter 37 of former title 5 (now covered by this subchapter), amending other sections as shown in the Tables, and enacting provisions set out as notes under this section and [section 912 of Title 26][/us/usc/t26/s912], Internal Revenue Code\] shall be held and considered to be amended, modified, or superseded to the extent necessary to carry out the purposes of and conform to such provision of this Act or of such amendment.”
 
  __Appropriations__ 
 
-[Pub. L. 86–707, title V, § 501(a)][/us/pl/86/707/s501/a], Sept. 6, 1960, [74 Stat. 800][/us/stat/74/800], provided that: 
+[Pub. L. 86–707, title V][/us/pl/86/707/tV], § 501(a), Sept. 6, 1960, [74 Stat. 800][/us/stat/74/800], provided that: 
 
 > “There are hereby authorized to be appropriated such sums as may be necessary to carry out the purposes of this Act and the amendments made by this Act \[enacting chapter 37 of former title 5 (now covered by this subchapter), amending other sections as shown in the Tables, and enacting provisions set out as notes under this section and [section 912 of Title 26][/us/usc/t26/s912], Internal Revenue Code\].”
 
  __References to Provisions Affected by the Overseas Differentials and Allowances Act__ 
 
-[Pub. L. 86–707, title V, § 521][/us/pl/86/707/s521], Sept. 6, 1960, [74 Stat. 802][/us/stat/74/802], provided that: 
+[Pub. L. 86–707, title V][/us/pl/86/707/tV], § 521, Sept. 6, 1960, [74 Stat. 802][/us/stat/74/802], provided that: 
 
 > “Whenever reference is made in any other law or in any regulation to any provision of law which is repealed, modified, amended, or superseded by reason of section 511 of this Act \[repealing sections 170g(b), 170r, and 170s of former title 5, sections 888, 1132, 1133 and 1136(9) of Title 22, Foreign Relations and Intercourse, and sections 3501(d) and 3505(b) of Title 50, War and National Defense, amending section 118a of former title 5, [section 1131 of Title 22][/us/usc/t22/s1131], and sections 3501(c) and 3505(1)(A), (3) (A–C) of Title 50, and enacting provisions set out as a note under this section\], such reference, unless inconsistent with this Act shall be held and considered to refer to this Act or the appropriate provision of, or amendment made by, this Act.”
 
  __Transitional Provisions for Payment of Allowances and Differentials__ 
 
-[Pub. L. 86–707, title V, § 522][/us/pl/86/707/s522], Sept. 6, 1960, [74 Stat. 802][/us/stat/74/802], provided that: 
+[Pub. L. 86–707, title V][/us/pl/86/707/tV], § 522, Sept. 6, 1960, [74 Stat. 802][/us/stat/74/802], provided that: 
 
 > “Notwithstanding any provision of this Act \[enacting chapter 37 of former title 5 (now covered by this subchapter), amending other sections as shown in the Tables, and enacting provisions set out as notes under this section and [section 912 of Title 26][/us/usc/t26/s912], Internal Revenue Code\] and until such time as regulations are issued under this Act, employees shall continue to be paid allowances and differentials in accordance with rules and regulations issued pursuant to the laws in effect immediately prior to the enactment of this Act \[Sept. 6, 1960\] and such rules and regulations may be amended or revoked in accordance with the provision of such laws.”
 
@@ -209,7 +209,7 @@ Section 1. The Secretary of State is hereby designated and empowered to perform 
 
  __Ex. Ord. No. 11137. Allowances and Benefits__ 
 
-Ex. Ord. No. 11137, Jan. 7, 1964, 29 F.R. 223, as amended by Ex. Ord. No. 11382, Nov. 28, 1967, 32 F.R. 16247; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided:
+Ex. Ord. No. 11137, Jan. 7, 1964, 29 F.R. 223, as amended by Ex. Ord. No. 11382, Nov. 28, 1967, 32 F.R. 16247; [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided:
 
     By virtue of the authority vested in me by [section 301 of title 3][/us/usc/t3/s301] of the United States Code and by the various provisions of law cited in the body of this order, and as President of the United States it is ordered as follows:
 
@@ -260,18 +260,18 @@ Ex. Ord. No. 11137, Jan. 7, 1964, 29 F.R. 223, as amended by Ex. Ord. No. 11382,
 [/us/stat/80/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F510
 [/us/usc/t22/s3602/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3602%2Fb
 [/us/usc/t48/s1681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1681
-[/us/pl/101/246/s156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F246%2Fs156
+[/us/pl/101/246/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F246%2FtI
 [/us/stat/104/46]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F46
-[/us/pl/86/707/s511/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F707%2Fs511%2Fb
+[/us/pl/86/707/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F707%2FtV
 [/us/stat/74/800]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F800
 [/us/usc/t26/s912]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs912
-[/us/pl/86/707/s501/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F707%2Fs501%2Fa
+[/us/pl/86/707/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F707%2FtV
 [/us/stat/74/800]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F800
 [/us/usc/t26/s912]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs912
-[/us/pl/86/707/s521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F707%2Fs521
+[/us/pl/86/707/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F707%2FtV
 [/us/stat/74/802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F802
 [/us/usc/t22/s1131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1131
-[/us/pl/86/707/s522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F707%2Fs522
+[/us/pl/86/707/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F707%2FtV
 [/us/stat/74/802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F802
 [/us/usc/t26/s912]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs912
 [/us/usc/t3/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs301
@@ -287,7 +287,7 @@ Ex. Ord. No. 11137, Jan. 7, 1964, 29 F.R. 223, as amended by Ex. Ord. No. 11382,
 [/us/usc/t5/s2356/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs2356%2Fa%2F1
 [/us/usc/t20/s906/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs906%2Fa%2F1
 [/us/usc/t22/s1156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1156
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
 [/us/usc/t3/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs301
 [/us/usc/t5/s5921/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5921%2F3

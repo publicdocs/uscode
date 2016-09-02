@@ -63,7 +63,7 @@
 
             (C) the United States Postal Service.
 
-(Added [Pub. L. 93–340, § 1(a)][/us/pl/93/340/s1/a], July 10, 1974, [88 Stat. 294][/us/stat/88/294]; amended [Pub. L. 94–358, § 1][/us/pl/94/358/s1], July 12, 1976, [90 Stat. 910][/us/stat/90/910]; [Pub. L. 95–30, title IV, § 408(a)][/us/pl/95/30/s408/a], May 23, 1977, [91 Stat. 157][/us/stat/91/157]; [Pub. L. 95–365, § 1][/us/pl/95/365/s1], Sept. 15, 1978, [92 Stat. 599][/us/stat/92/599]; [Pub. L. 100–180, div. A, title V, § 505(2)][/us/pl/100/180/s505/2], Dec. 4, 1987, [101 Stat. 1086][/us/stat/101/1086].)
+(Added [Pub. L. 93–340][/us/pl/93/340], § 1(a), July 10, 1974, [88 Stat. 294][/us/stat/88/294]; amended [Pub. L. 94–358][/us/pl/94/358], § 1, July 12, 1976, [90 Stat. 910][/us/stat/90/910]; [Pub. L. 95–30, title IV][/us/pl/95/30/tIV], § 408(a), May 23, 1977, [91 Stat. 157][/us/stat/91/157]; [Pub. L. 95–365][/us/pl/95/365], § 1, Sept. 15, 1978, [92 Stat. 599][/us/stat/92/599]; [Pub. L. 100–180, div. A, title V][/us/pl/100/180/dA/tV], § 505(2), Dec. 4, 1987, [101 Stat. 1086][/us/stat/101/1086].)
 
  __Amendments__ 
 
@@ -71,37 +71,37 @@
 
     1978—Subsec. (a). [Pub. L. 95–365][/us/pl/95/365] designated existing provisions as cl. (i), inserted “, or whose regular place of Federal employment is not within,” after “not a resident of”, and added cl. (ii).
 
-    1977—[Pub. L. 95–30, § 408(a)(1)][/us/pl/95/30/s408/a/1], inserted “or county” after “city” in section catchline.
+    1977—[Pub. L. 95–30][/us/pl/95/30], § 408(a)(1), inserted “or county” after “city” in section catchline.
 
-    Subsec. (a). [Pub. L. 95–30, § 408(a)(2)][/us/pl/95/30/s408/a/2], (3), substituted “city or county” for “city” in introductory provisions preceding par. (1), in par. (2), and in provisions following par. (2), and, in par. (1), substituted “a designated city or county officer, department, or instrumentality” for “the city”.
+    Subsec. (a). [Pub. L. 95–30][/us/pl/95/30], § 408(a)(2), (3), substituted “city or county” for “city” in introductory provisions preceding par. (1), in par. (2), and in provisions following par. (2), and, in par. (1), substituted “a designated city or county officer, department, or instrumentality” for “the city”.
 
-    Subsec. (b). [Pub. L. 95–30, § 408(a)(2)][/us/pl/95/30/s408/a/2], substituted “city or county” for “city”.
+    Subsec. (b). [Pub. L. 95–30][/us/pl/95/30], § 408(a)(2), substituted “city or county” for “city”.
 
-    Subsec. (c). [Pub. L. 95–30, § 408(a)(4)][/us/pl/95/30/s408/a/4], (5), added pars. (2) and (3) and redesignated former par. (2) as (4).
+    Subsec. (c). [Pub. L. 95–30][/us/pl/95/30], § 408(a)(4), (5), added pars. (2) and (3) and redesignated former par. (2) as (4).
 
     1976—Subsec. (c)(1). [Pub. L. 94–358][/us/pl/94/358] substituted provision defining a city, for purposes of this section, as any unit of general local government which is classified a municipality by the Bureau of the Census, or is a town or township which in the opinion of the Secretary of the Treasury possesses powers and performs functions comparable to those associated with municipalities, is closely settled, and contains within its boundaries no incorporated places, as defined by the Bureau of the Census, within the political boundaries of which five hundred or more persons are regularly employed by all agencies of the Federal Government, for provision defining a city, for purposes of this section, as a city which is duly incorporated under the laws of a State and within the political boundaries of which five hundred or more persons are regularly employed by all agencies of the Federal Government.
 
  __Effective Date of 1978 Amendment__ 
 
-[Pub. L. 95–365, § 2][/us/pl/95/365/s2], Sept. 15, 1978, [92 Stat. 599][/us/stat/92/599], provided that: 
+[Pub. L. 95–365][/us/pl/95/365], § 2, Sept. 15, 1978, [92 Stat. 599][/us/stat/92/599], provided that: 
 
 > “The amendments made by the first section of this Act \[amending this section\] shall take effect on the 90th day after the date of the enactment of this Act \[Sept. 15, 1978\].”
 
  __Effective Date of 1977 Amendment__ 
 
-[Pub. L. 95–30, title IV, § 408(c)][/us/pl/95/30/s408/c], May 23, 1977, [91 Stat. 157][/us/stat/91/157], provided that: 
+[Pub. L. 95–30, title IV][/us/pl/95/30/tIV], § 408(c), May 23, 1977, [91 Stat. 157][/us/stat/91/157], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall take effect on the date of enactment of this Act \[May 23, 1977\].”
 
  __Effective Date of 1976 Amendment__ 
 
-[Pub. L. 94–358, § 2][/us/pl/94/358/s2], July 12, 1976, [90 Stat. 910][/us/stat/90/910], provided that: 
+[Pub. L. 94–358][/us/pl/94/358], § 2, July 12, 1976, [90 Stat. 910][/us/stat/90/910], provided that: 
 
 > “The amendment made by the first section of this Act \[amending this section\] shall take effect on the date of the enactment of this Act \[July 12, 1976\].”
 
  __Effective Date__ 
 
-[Pub. L. 93–340, § 3][/us/pl/93/340/s3], July 10, 1974, [88 Stat. 295][/us/stat/88/295], provided that: 
+[Pub. L. 93–340][/us/pl/93/340], § 3, July 10, 1974, [88 Stat. 295][/us/stat/88/295], provided that: 
 
 > “This section shall become effective on the date of enactment of this Act \[July 10, 1974\]. The provisions of the first section and section 2 of this Act \[enacting this section and amending [section 410 of Title 39][/us/usc/t39/s410], Postal Service\] shall become effective on the ninetieth day following the date of enactment.”
 
@@ -143,31 +143,31 @@
 ----------
 
 [/us/usc/t5/s5517/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5517%2Fd
-[/us/pl/93/340/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F340%2Fs1%2Fa
+[/us/pl/93/340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F340
 [/us/stat/88/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F294
-[/us/pl/94/358/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F358%2Fs1
+[/us/pl/94/358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F358
 [/us/stat/90/910]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F910
-[/us/pl/95/30/s408/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F30%2Fs408%2Fa
+[/us/pl/95/30/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F30%2FtIV
 [/us/stat/91/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F157
-[/us/pl/95/365/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F365%2Fs1
+[/us/pl/95/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F365
 [/us/stat/92/599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F599
-[/us/pl/100/180/s505/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs505%2F2
+[/us/pl/100/180/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2FdA%2FtV
 [/us/stat/101/1086]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1086
 [/us/pl/100/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180
 [/us/usc/t5/s5517/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5517%2Fd
 [/us/pl/95/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F365
-[/us/pl/95/30/s408/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F30%2Fs408%2Fa%2F1
-[/us/pl/95/30/s408/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F30%2Fs408%2Fa%2F2
-[/us/pl/95/30/s408/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F30%2Fs408%2Fa%2F2
-[/us/pl/95/30/s408/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F30%2Fs408%2Fa%2F4
+[/us/pl/95/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F30
+[/us/pl/95/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F30
+[/us/pl/95/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F30
+[/us/pl/95/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F30
 [/us/pl/94/358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F358
-[/us/pl/95/365/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F365%2Fs2
+[/us/pl/95/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F365
 [/us/stat/92/599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F599
-[/us/pl/95/30/s408/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F30%2Fs408%2Fc
+[/us/pl/95/30/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F30%2FtIV
 [/us/stat/91/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F157
-[/us/pl/94/358/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F358%2Fs2
+[/us/pl/94/358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F358
 [/us/stat/90/910]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F910
-[/us/pl/93/340/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F340%2Fs3
+[/us/pl/93/340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F340
 [/us/stat/88/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F295
 [/us/usc/t39/s410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs410
 [/us/usc/t3/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs301

@@ -151,7 +151,7 @@
 
     (g) If the Congress does not enact a joint resolution of disapproval under section 802 respecting a rule, no court or agency may infer any intent of the Congress from any action or inaction of the Congress with regard to such rule, related statute, or joint resolution of disapproval.
 
-(Added [Pub. L. 104–121, title II, § 251][/us/pl/104/121/s251], Mar. 29, 1996, [110 Stat. 868][/us/stat/110/868].)
+(Added [Pub. L. 104–121, title II][/us/pl/104/121/tII], § 251, Mar. 29, 1996, [110 Stat. 868][/us/stat/110/868].)
 
  __References in Text__ 
 
@@ -161,7 +161,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 104–121, title II, § 252][/us/pl/104/121/s252], Mar. 29, 1996, [110 Stat. 874][/us/stat/110/874], provided that: 
+[Pub. L. 104–121, title II][/us/pl/104/121/tII], § 252, Mar. 29, 1996, [110 Stat. 874][/us/stat/110/874], provided that: 
 
 > “The amendment made by section 351 \[probably means section 251, enacting this chapter\] shall take effect on the date of enactment of this Act \[Mar. 29, 1996\].”
 
@@ -171,7 +171,7 @@
 
  __Truth in Regulating__ 
 
-[Pub. L. 106–312][/us/pl/106/312], Oct. 17, 2000, [114 Stat. 1248][/us/stat/114/1248], as amended by [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814], provided that:
+[Pub. L. 106–312][/us/pl/106/312], Oct. 17, 2000, [114 Stat. 1248][/us/stat/114/1248], as amended by [Pub. L. 108–271][/us/pl/108/271], § 8(b), July 7, 2004, [118 Stat. 814][/us/stat/118/814], provided that:
 
 > “SECTION 1. __SHORT TITLE.__ 
 
@@ -260,14 +260,14 @@
 ----------
 ----------
 
-[/us/pl/104/121/s251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F121%2Fs251
+[/us/pl/104/121/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F121%2FtII
 [/us/stat/110/868]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F868
 [/us/pl/104/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F121
-[/us/pl/104/121/s252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F121%2Fs252
+[/us/pl/104/121/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F121%2FtII
 [/us/stat/110/874]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F874
 [/us/pl/106/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F312
 [/us/stat/114/1248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1248
-[/us/pl/108/271/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271%2Fs8%2Fb
+[/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/stat/118/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F814
 [/us/usc/t5/s551/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs551%2F1
 

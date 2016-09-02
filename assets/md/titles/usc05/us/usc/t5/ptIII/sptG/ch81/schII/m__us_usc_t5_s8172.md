@@ -23,7 +23,7 @@
 
     compensation shall be provided in accordance with regulations prescribed by the Secretary of the military department concerned and approved by the Secretary of Defense or regulations prescribed by the Secretary of Transportation, as the case may be.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 556][/us/stat/80/556]; [Pub. L. 103–272, § 4(b)(3)][/us/pl/103/272/s4/b/3], July 5, 1994, [108 Stat. 1361][/us/stat/108/1361]; [Pub. L. 103–337, div. A, title X, § 1070(d)(8)(B)][/us/pl/103/337/s1070/d/8/B], Oct. 5, 1994, [108 Stat. 2859][/us/stat/108/2859]; [Pub. L. 104–106, div. A, title XV, § 1505(b)(2)][/us/pl/104/106/s1505/b/2], Feb. 10, 1996, [110 Stat. 514][/us/stat/110/514].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 556][/us/stat/80/556]; [Pub. L. 103–272][/us/pl/103/272], § 4(b)(3), July 5, 1994, [108 Stat. 1361][/us/stat/108/1361]; [Pub. L. 103–337, div. A, title X][/us/pl/103/337/dA/tX], § 1070(d)(8)(B), Oct. 5, 1994, [108 Stat. 2859][/us/stat/108/2859]; [Pub. L. 104–106, div. A, title XV][/us/pl/104/106/dA/tXV], § 1505(b)(2), Feb. 10, 1996, [110 Stat. 514][/us/stat/110/514].)
 
 <table>
 
@@ -92,11 +92,11 @@ July 18, 1958, Pub. L. 85–538, § 1 “Sec. 2(b)”, 72 Stat. 397.  </td>
 [/us/usc/t5/s2105/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs2105%2Fc
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F556
-[/us/pl/103/272/s4/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs4%2Fb%2F3
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1361
-[/us/pl/103/337/s1070/d/8/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1070%2Fd%2F8%2FB
+[/us/pl/103/337/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtX
 [/us/stat/108/2859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2859
-[/us/pl/104/106/s1505/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1505%2Fb%2F2
+[/us/pl/104/106/dA/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtXV
 [/us/stat/110/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F514
 [/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
 [/us/usc/t33/s902/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs902%2F2

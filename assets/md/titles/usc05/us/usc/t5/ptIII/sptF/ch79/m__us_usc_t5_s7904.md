@@ -21,7 +21,7 @@
 
     (c) The Secretary of Health and Human Services, on request of the head of an Executive agency, shall review any program or service provided under this section and shall submit comments and recommendations to the head of the agency concerned.
 
-(Added [Pub. L. 99–570, title VI, § 6004(a)][/us/pl/99/570/s6004/a], Oct. 27, 1986, [100 Stat. 3207–159][/us/stat/100/3207-159].)
+(Added [Pub. L. 99–570, title VI][/us/pl/99/570/tVI], § 6004(a), Oct. 27, 1986, [100 Stat. 3207–159][/us/stat/100/3207-159].)
 
 ----------
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/99/570/s6004/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs6004%2Fa
+[/us/pl/99/570/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2FtVI
 [/us/stat/100/3207-159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3207-159
 
 

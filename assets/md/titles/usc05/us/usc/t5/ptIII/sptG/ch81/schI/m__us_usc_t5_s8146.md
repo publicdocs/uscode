@@ -31,7 +31,7 @@
 
     (e) The same right of appeal exists with respect to claims filed by employees of the Panama Canal Commission or their dependents in case of death, as is provided with respect to the claims of other employees to whom this subchapter applies, under [section 8149 of this title][/us/usc/t5/s8149]. The Employees’ Compensation Appeals Board referred to by [section 8149 of this title][/us/usc/t5/s8149] has jurisdiction, under regulations prescribed by the Secretary, over appeals relating to claims of the employees or their dependents.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 553][/us/stat/80/553]; [Pub. L. 96–70, title III, § 3302(e)(9)][/us/pl/96/70/s3302/e/9], Sept. 27, 1979, [93 Stat. 498][/us/stat/93/498].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 553][/us/stat/80/553]; [Pub. L. 96–70, title III][/us/pl/96/70/tIII], § 3302(e)(9), Sept. 27, 1979, [93 Stat. 498][/us/stat/93/498].)
 
 <table>
 
@@ -87,7 +87,7 @@ Aug. 30, 1964, Pub. L. 88–508, 78 Stat. 666.  </td>
 
     In subsection (b), the words “the Employees’ Compensation Fund” are substituted for “appropriation for the work of the Secretary” in view of former section 771, which is carried into section 8123, which provides that all such expenses shall be paid from the Fund.
 
-    In subsections (b) and (c), the words “Canal Zone Government”, “Panama Canal Company”, and “Governor of the Canal Zone” are substituted for “Panama Canal”, “Panama Railroad Company”, and “Governor of the Panama Canal”, respectively, on authority of the [Act of Sept. 26, 1950, ch. 1049, § 2][/us/act/1950-09-26/ch1049/s2], [64 Stat. 1038][/us/stat/64/1038].
+    In subsections (b) and (c), the words “Canal Zone Government”, “Panama Canal Company”, and “Governor of the Canal Zone” are substituted for “Panama Canal”, “Panama Railroad Company”, and “Governor of the Panama Canal”, respectively, on authority of the [Act of Sept. 26, 1950, ch. 1049][/us/act/1950-09-26/ch1049], § 2, [64 Stat. 1038][/us/stat/64/1038].
 
     In subsection (e), the words “of other employees to whom this subchapter applies” are substituted for “of other employees of the Federal Government” for clarity and in view of the provisions of section 8149. The words “Employees’ Compensation Appeals Board” are substituted for “Appeals Board” to reflect the full title of the Board
 
@@ -97,15 +97,15 @@ Aug. 30, 1964, Pub. L. 88–508, 78 Stat. 666.  </td>
 
  __Amendments__ 
 
-    1979—[Pub. L. 96–70, § 3302(e)(9)(A)][/us/pl/96/70/s3302/e/9/A], substituted “Panama Canal Commission” for “Canal Zone” in section catchline.
+    1979—[Pub. L. 96–70][/us/pl/96/70], § 3302(e)(9)(A), substituted “Panama Canal Commission” for “Canal Zone” in section catchline.
 
-    Subsec. (a)(1). [Pub. L. 96–70, § 3302(e)(9)(B)][/us/pl/96/70/s3302/e/9/B], substituted “Panama Canal Commission are concerned to the Commission” for “Canal Zone Government and of the Panama Canal Company are concerned to the Governor of the Canal Zone”.
+    Subsec. (a)(1). [Pub. L. 96–70][/us/pl/96/70], § 3302(e)(9)(B), substituted “Panama Canal Commission are concerned to the Commission” for “Canal Zone Government and of the Panama Canal Company are concerned to the Governor of the Canal Zone”.
 
-    Subsec. (b). [Pub. L. 96–70, § 3302(e)(9)(C)][/us/pl/96/70/s3302/e/9/C]–(E), substituted “Panama Canal Commission” for “Canal Zone Government” in two places and “Panama Canal Commission” for “Governor of the Canal Zone” and struck out “or from funds from the Panama Canal Company” after “The Alaska Railroad”.
+    Subsec. (b). [Pub. L. 96–70][/us/pl/96/70], § 3302(e)(9)(C)–(E), substituted “Panama Canal Commission” for “Canal Zone Government” in two places and “Panama Canal Commission” for “Governor of the Canal Zone” and struck out “or from funds from the Panama Canal Company” after “The Alaska Railroad”.
 
-    Subsec. (c). [Pub. L. 96–70, § 3302(e)(9)(F)][/us/pl/96/70/s3302/e/9/F], substituted “Panama Canal Commission” for “Governor of the Canal Zone” and “employee of the Panama Canal Commission” for “employee of the Canal Zone Government or the Panama Canal Company”.
+    Subsec. (c). [Pub. L. 96–70][/us/pl/96/70], § 3302(e)(9)(F), substituted “Panama Canal Commission” for “Governor of the Canal Zone” and “employee of the Panama Canal Commission” for “employee of the Canal Zone Government or the Panama Canal Company”.
 
-    Subsec. (e). [Pub. L. 96–70, § 3302(e)(9)(G)][/us/pl/96/70/s3302/e/9/G], substituted “Panama Canal Commission” for “Canal Zone Government and of the Panama Canal Company”.
+    Subsec. (e). [Pub. L. 96–70][/us/pl/96/70], § 3302(e)(9)(G), substituted “Panama Canal Commission” for “Canal Zone Government and of the Panama Canal Company”.
 
  __Effective Date of 1979 Amendment__ 
 
@@ -126,16 +126,16 @@ Aug. 30, 1964, Pub. L. 88–508, 78 Stat. 666.  </td>
 [/us/usc/t5/s8149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8149
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F553
-[/us/pl/96/70/s3302/e/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2Fs3302%2Fe%2F9
+[/us/pl/96/70/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2FtIII
 [/us/stat/93/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F498
-[/us/act/1950-09-26/ch1049/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-26%2Fch1049%2Fs2
+[/us/act/1950-09-26/ch1049]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-26%2Fch1049
 [/us/stat/64/1038]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1038
 [/us/stat/64/1271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1271
-[/us/pl/96/70/s3302/e/9/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2Fs3302%2Fe%2F9%2FA
-[/us/pl/96/70/s3302/e/9/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2Fs3302%2Fe%2F9%2FB
-[/us/pl/96/70/s3302/e/9/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2Fs3302%2Fe%2F9%2FC
-[/us/pl/96/70/s3302/e/9/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2Fs3302%2Fe%2F9%2FF
-[/us/pl/96/70/s3302/e/9/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2Fs3302%2Fe%2F9%2FG
+[/us/pl/96/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70
+[/us/pl/96/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70
+[/us/pl/96/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70
+[/us/pl/96/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70
+[/us/pl/96/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70
 [/us/pl/96/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70
 [/us/pl/96/70/s3304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2Fs3304
 [/us/usc/t22/s3601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3601

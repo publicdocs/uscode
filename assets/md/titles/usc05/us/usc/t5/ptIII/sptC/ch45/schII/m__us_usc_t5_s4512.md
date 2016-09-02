@@ -27,7 +27,7 @@
 
     (b) In the case of an agency for which there is no Inspector General, the head of the agency shall designate an agency employee who shall have the authority to make the determinations and grant the awards permitted under this section.
 
-(Added [Pub. L. 97–35, title XVII, § 1703(a)][/us/pl/97/35/s1703/a], Aug. 13, 1981, [95 Stat. 755][/us/stat/95/755]; amended [Pub. L. 99–145, title XII, § 1225(b)(2)][/us/pl/99/145/s1225/b/2], Nov. 8, 1985, [99 Stat. 730][/us/stat/99/730].)
+(Added [Pub. L. 97–35, title XVII][/us/pl/97/35/tXVII], § 1703(a), Aug. 13, 1981, [95 Stat. 755][/us/stat/95/755]; amended [Pub. L. 99–145, title XII][/us/pl/99/145/tXII], § 1225(b)(2), Nov. 8, 1985, [99 Stat. 730][/us/stat/99/730].)
 
  __Amendments__ 
 
@@ -40,9 +40,9 @@
 ----------
 ----------
 
-[/us/pl/97/35/s1703/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs1703%2Fa
+[/us/pl/97/35/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXVII
 [/us/stat/95/755]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F755
-[/us/pl/99/145/s1225/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs1225%2Fb%2F2
+[/us/pl/99/145/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2FtXII
 [/us/stat/99/730]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F730
 [/us/pl/99/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145
 

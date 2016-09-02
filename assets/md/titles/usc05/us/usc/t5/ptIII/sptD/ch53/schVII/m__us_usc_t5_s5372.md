@@ -39,7 +39,7 @@
 
     (c) The Office of Personnel Management shall prescribe regulations necessary to administer this section.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 473][/us/stat/80/473], § 5362; [Pub. L. 95–251, § 2(a)(1)][/us/pl/95/251/s2/a/1], (b)(1), Mar. 27, 1978, [92 Stat. 183][/us/stat/92/183]; renumbered § 5372 and amended [Pub. L. 95–454, title VIII, § 801(a)(3)(A)(ii)][/us/pl/95/454/s801/a/3/A/ii], title IX, § 906(a)(2), Oct. 13, 1978, [92 Stat. 1221][/us/stat/92/1221], 1224; [Pub. L. 101–509, title V, § 529][/us/pl/101/509/s529] \[title I, § 104(a)(1)\], Nov. 5, 1990, [104 Stat. 1427][/us/stat/104/1427], 1445; [Pub. L. 102–378, § 2(32)][/us/pl/102/378/s2/32], Oct. 2, 1992, [106 Stat. 1350][/us/stat/106/1350]; [Pub. L. 106–97, § 1][/us/pl/106/97/s1], Nov. 12, 1999, [113 Stat. 1322][/us/stat/113/1322].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 473][/us/stat/80/473], § 5362; [Pub. L. 95–251][/us/pl/95/251], § 2(a)(1), (b)(1), Mar. 27, 1978, [92 Stat. 183][/us/stat/92/183]; renumbered § 5372 and amended [Pub. L. 95–454, title VIII][/us/pl/95/454/tVIII], § 801(a)(3)(A)(ii), title IX, § 906(a)(2), Oct. 13, 1978, [92 Stat. 1221][/us/stat/92/1221], 1224; [Pub. L. 101–509, title V][/us/pl/101/509/tV], § 529 \[title I, § 104(a)(1)\], Nov. 5, 1990, [104 Stat. 1427][/us/stat/104/1427], 1445; [Pub. L. 102–378][/us/pl/102/378], § 2(32), Oct. 2, 1992, [106 Stat. 1350][/us/stat/106/1350]; [Pub. L. 106–97][/us/pl/106/97], § 1, Nov. 12, 1999, [113 Stat. 1322][/us/stat/113/1322].)
 
 <table>
 
@@ -99,7 +99,7 @@ June 11, 1946, ch. 324, § 11 (3d sentence), 60 Stat. 244.  </td>
 
  __Amendments__ 
 
-    1999—Subsec. (b)(1). [Pub. L. 106–97, § 1(1)][/us/pl/106/97/s1/1], designated first sentence as subpar. (A) and struck out after first sentence the following: “The rates of basic pay for those levels shall be as follows:
+    1999—Subsec. (b)(1). [Pub. L. 106–97][/us/pl/106/97], § 1(1), designated first sentence as subpar. (A) and struck out after first sentence the following: “The rates of basic pay for those levels shall be as follows:
 
 <table>
 
@@ -207,17 +207,17 @@ The rate of basic pay for level IV of the Executive Schedule.”  </td>
 
 </table>
 
-    Subsec. (b)(1)(B), (C). [Pub. L. 106–97, § 1(1)][/us/pl/106/97/s1/1], added subpars. (B) and (C).
+    Subsec. (b)(1)(B), (C). [Pub. L. 106–97][/us/pl/106/97], § 1(1), added subpars. (B) and (C).
 
-    Subsec. (b)(3)(A). [Pub. L. 106–97, § 1(2)][/us/pl/106/97/s1/2], substituted “at the beginning of the next pay period following” for “upon” in two places.
+    Subsec. (b)(3)(A). [Pub. L. 106–97][/us/pl/106/97], § 1(2), substituted “at the beginning of the next pay period following” for “upon” in two places.
 
-    Subsec. (b)(4). [Pub. L. 106–97, § 1(3)][/us/pl/106/97/s1/3], added par. (4).
+    Subsec. (b)(4). [Pub. L. 106–97][/us/pl/106/97], § 1(3), added par. (4).
 
     1992—Subsec. (c). [Pub. L. 102–378][/us/pl/102/378] substituted “shall” for “shall,”.
 
     1990—[Pub. L. 101–509][/us/pl/101/509] amended section generally. Prior to amendment, section read as follows: “Administrative law judges appointed under [section 3105 of this title][/us/usc/t5/s3105] are entitled to pay prescribed by the Office of Personnel Management independently of agency recommendations or ratings and in accordance with subchapter III of this chapter and chapter 51 of this title.”
 
-    1978—[Pub. L. 95–454, § 906(a)(2)][/us/pl/95/454/s906/a/2], substituted “Office of Personnel Management” for “Civil Service Commission”.
+    1978—[Pub. L. 95–454][/us/pl/95/454], § 906(a)(2), substituted “Office of Personnel Management” for “Civil Service Commission”.
 
     [Pub. L. 95–251][/us/pl/95/251] substituted “Administrative law judges” for “Hearing examiners” in section catchline and text.
 
@@ -231,7 +231,7 @@ The rate of basic pay for level IV of the Executive Schedule.”  </td>
 
  __Conversion Rule for Administrative Law Judges__ 
 
-[Pub. L. 101–509, title V, § 529][/us/pl/101/509/s529] \[title I, § 104(e)\], Nov. 5, 1990, [104 Stat. 1427][/us/stat/104/1427], 1447, provided that: 
+[Pub. L. 101–509, title V][/us/pl/101/509/tV], § 529 \[title I, § 104(e)\], Nov. 5, 1990, [104 Stat. 1427][/us/stat/104/1427], 1447, provided that: 
 
 > “In making initial pay adjustments for administrative law judges after this section and the amendments made by this section \[enacting [section 5372a of this title][/us/usc/t5/s5372a], amending this section, sections 5102, 5311, and 5335 of this title, [section 938 of Title 30][/us/usc/t30/s938], Mineral Lands and Mining, and [section 607 of Title 41][/us/usc/t41/s607], Public Contracts\] take effect \[see Effective Date of 1990 Amendment note set out under [section 5301 of this title][/us/usc/t5/s5301]\], the rate of basic pay for any such judge shall, upon conversion to the new pay system, be at least equal to the rate which was payable to that individual immediately before such conversion.”
 
@@ -248,28 +248,28 @@ The rate of basic pay for level IV of the Executive Schedule.”  </td>
 
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F473
-[/us/pl/95/251/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F251%2Fs2%2Fa%2F1
+[/us/pl/95/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F251
 [/us/stat/92/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F183
-[/us/pl/95/454/s801/a/3/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs801%2Fa%2F3%2FA%2Fii
+[/us/pl/95/454/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtVIII
 [/us/stat/92/1221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1221
-[/us/pl/101/509/s529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2Fs529
+[/us/pl/101/509/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2FtV
 [/us/stat/104/1427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1427
-[/us/pl/102/378/s2/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378%2Fs2%2F32
+[/us/pl/102/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378
 [/us/stat/106/1350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1350
-[/us/pl/106/97/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F97%2Fs1
+[/us/pl/106/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F97
 [/us/stat/113/1322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1322
 [/us/act/1949-10-28/ch782/s1106/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-28%2Fch782%2Fs1106%2Fa
 [/us/stat/63/972]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F972
 [/us/usc/t5/s5315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5315
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
-[/us/pl/106/97/s1/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F97%2Fs1%2F1
-[/us/pl/106/97/s1/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F97%2Fs1%2F1
-[/us/pl/106/97/s1/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F97%2Fs1%2F2
-[/us/pl/106/97/s1/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F97%2Fs1%2F3
+[/us/pl/106/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F97
+[/us/pl/106/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F97
+[/us/pl/106/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F97
+[/us/pl/106/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F97
 [/us/pl/102/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378
 [/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509
 [/us/usc/t5/s3105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3105
-[/us/pl/95/454/s906/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs906%2Fa%2F2
+[/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454
 [/us/pl/95/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F251
 [/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509
 [/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509
@@ -277,7 +277,7 @@ The rate of basic pay for level IV of the Executive Schedule.”  </td>
 [/us/pl/95/454/s906/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs906%2Fa%2F2
 [/us/pl/95/454/s907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs907
 [/us/usc/t5/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs1101
-[/us/pl/101/509/s529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2Fs529
+[/us/pl/101/509/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2FtV
 [/us/stat/104/1427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1427
 [/us/usc/t5/s5372a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5372a
 [/us/usc/t30/s938]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs938

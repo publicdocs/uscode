@@ -107,7 +107,7 @@ Amendments  </td>
 
 </table>
 
-    1996—[Pub. L. 104–121, title II, § 253][/us/pl/104/121/s253], Mar. 29, 1996, [110 Stat. 874][/us/stat/110/874], added item for chapter 8.
+    1996—[Pub. L. 104–121, title II][/us/pl/104/121/tII], § 253, Mar. 29, 1996, [110 Stat. 874][/us/stat/110/874], added item for chapter 8.
 
 ----------
 
@@ -116,7 +116,7 @@ Amendments  </td>
 ----------
 ----------
 
-[/us/pl/104/121/s253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F121%2Fs253
+[/us/pl/104/121/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F121%2FtII
 [/us/stat/110/874]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F874
 
 

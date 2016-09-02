@@ -47,7 +47,7 @@
 
     (g) Any rate of pay under this section shall be initially adjusted, effective on the effective date of the rate of pay, under conversion rules prescribed by the President or by such agency or agencies as the President may designate.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 458][/us/stat/80/458]; [Pub. L. 90–206, title II, § 207][/us/pl/90/206/s207], Dec. 16, 1967, [81 Stat. 631][/us/stat/81/631]; [Pub. L. 91–375, § 6(c)(10)][/us/pl/91/375/s6/c/10], Aug. 12, 1970, [84 Stat. 776][/us/stat/84/776]; [Pub. L. 94–183, § 2(16)][/us/pl/94/183/s2/16], Dec. 31, 1975, [89 Stat. 1057][/us/stat/89/1057]; [Pub. L. 95–454, title IX, § 906(a)(2)][/us/pl/95/454/s906/a/2], Oct. 13, 1978, [92 Stat. 1224][/us/stat/92/1224]; [Pub. L. 96–465, title II, § 2314(c)(2)][/us/pl/96/465/s2314/c/2], Oct. 17, 1980, [94 Stat. 2167][/us/stat/94/2167]; [Pub. L. 101–509, title V, § 529][/us/pl/101/509/s529] \[title I, § 101(a)(1)\], Nov. 5, 1990, [104 Stat. 1427][/us/stat/104/1427], 1430.)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 458][/us/stat/80/458]; [Pub. L. 90–206, title II][/us/pl/90/206/tII], § 207, Dec. 16, 1967, [81 Stat. 631][/us/stat/81/631]; [Pub. L. 91–375][/us/pl/91/375], § 6(c)(10), Aug. 12, 1970, [84 Stat. 776][/us/stat/84/776]; [Pub. L. 94–183][/us/pl/94/183], § 2(16), Dec. 31, 1975, [89 Stat. 1057][/us/stat/89/1057]; [Pub. L. 95–454, title IX][/us/pl/95/454/tIX], § 906(a)(2), Oct. 13, 1978, [92 Stat. 1224][/us/stat/92/1224]; [Pub. L. 96–465, title II][/us/pl/96/465/tII], § 2314(c)(2), Oct. 17, 1980, [94 Stat. 2167][/us/stat/94/2167]; [Pub. L. 101–509, title V][/us/pl/101/509/tV], § 529 \[title I, § 101(a)(1)\], Nov. 5, 1990, [104 Stat. 1427][/us/stat/104/1427], 1430.)
 
 <table>
 
@@ -121,9 +121,9 @@ Aug. 14, 1964, Pub. L. 88–426, § 123, 78 Stat. 412.  </td>
 
     1970—Subsec. (a)(2). [Pub. L. 91–375][/us/pl/91/375] repealed cl. (2) making positions paid under provisions of part III of title 39 relating to employees in the postal field service subject to higher minimum rates established by the President.
 
-    1967—Subsec. (a). [Pub. L. 90–206, § 207(a)][/us/pl/90/206/s207/a], substituted “maximum pay rate” for “seventh pay rate”.
+    1967—Subsec. (a). [Pub. L. 90–206][/us/pl/90/206], § 207(a), substituted “maximum pay rate” for “seventh pay rate”.
 
-    Subsec. (d). [Pub. L. 90–206, § 207(b)][/us/pl/90/206/s207/b], inserted provisions that permitted an initial adjustment to be made to statutory increases which become effective prior to, on, or after the date of enactment of the statute.
+    Subsec. (d). [Pub. L. 90–206][/us/pl/90/206], § 207(b), inserted provisions that permitted an initial adjustment to be made to statutory increases which become effective prior to, on, or after the date of enactment of the statute.
 
  __Effective Date of 1990 Amendment__ 
 
@@ -151,19 +151,19 @@ Aug. 14, 1964, Pub. L. 88–426, § 123, 78 Stat. 412.  </td>
 
  __Pay Raises for Programs Funded by Energy and Water Development Appropriations Acts To Be Absorbed Within Such Acts__ 
 
-[Pub. L. 102–377, title V, § 506][/us/pl/102/377/s506], Oct. 2, 1992, [106 Stat. 1343][/us/stat/106/1343], provided that: 
+[Pub. L. 102–377, title V][/us/pl/102/377/tV], § 506, Oct. 2, 1992, [106 Stat. 1343][/us/stat/106/1343], provided that: 
 
 > “Such sums as may be necessary for Federal employee pay raises for programs funded by this Act or subsequent Energy and Water Development Appropriations Acts hereafter shall be absorbed within the levels appropriated in such Acts.”
 
  __Sense of Congress__ 
 
-[Pub. L. 101–509, title V, § 529][/us/pl/101/509/s529] \[title I, § 101(e)\], Nov. 5, 1990, [104 Stat. 1427][/us/stat/104/1427], 1443, provided that: 
+[Pub. L. 101–509, title V][/us/pl/101/509/tV], § 529 \[title I, § 101(e)\], Nov. 5, 1990, [104 Stat. 1427][/us/stat/104/1427], 1443, provided that: 
 
 > “It is the sense of the Congress that the total funds dedicated to adjustments under sections 5303 and 5304 \[of this title\] for any year be no less than the total funds that would have been dedicated to adjustments under such section 5303 for such year had the full change in the ECI been applied to pay rates for such year.”
 
  __Federal Employee Pay Adjustments__ 
 
-[Pub. L. 114–113, div. E, title VII, § 738][/us/pl/114/113/s738], Dec. 18, 2015, [129 Stat. 2482][/us/stat/129/2482], provided that:
+[Pub. L. 114–113, div. E, title VII][/us/pl/114/113/dE/tVII], § 738, Dec. 18, 2015, [129 Stat. 2482][/us/stat/129/2482], provided that:
 
 >     “(a) The Vice President may not receive a pay raise in calendar year 2016, notwithstanding the rate adjustment made under [section 104 of title 3][/us/usc/t3/s104], United States Code, or any other provision of law.
 
@@ -195,11 +195,11 @@ Aug. 14, 1964, Pub. L. 88–426, § 123, 78 Stat. 412.  </td>
 
 Similar provisions were contained in the following prior acts:
 
-    2015—[Pub. L. 113–235, div. E, title VII, § 738][/us/pl/113/235/s738], Dec. 16, 2014, [128 Stat. 2388][/us/stat/128/2388].
+    2015—[Pub. L. 113–235, div. E, title VII][/us/pl/113/235/dE/tVII], § 738, Dec. 16, 2014, [128 Stat. 2388][/us/stat/128/2388].
 
-    2014—[Pub. L. 113–76, div. E, title VII, § 741][/us/pl/113/76/s741], Jan. 17, 2014, [128 Stat. 241][/us/stat/128/241].
+    2014—[Pub. L. 113–76, div. E, title VII][/us/pl/113/76/dE/tVII], § 741, Jan. 17, 2014, [128 Stat. 241][/us/stat/128/241].
 
-2010—[Pub. L. 111–242, § 147][/us/pl/111/242/s147], as added by [Pub. L. 111–322, title I, § 1(a)(2)][/us/pl/111/322/s1/a/2], Dec. 22, 2010, [124 Stat. 3518][/us/stat/124/3518], as amended by [Pub. L. 113–6, div. F, title I, § 1112(a)][/us/pl/113/6/s1112/a], Mar. 26, 2013, [127 Stat. 414][/us/stat/127/414], provided that:
+2010—[Pub. L. 111–242][/us/pl/111/242], § 147, as added by [Pub. L. 111–322, title I][/us/pl/111/322/tI], § 1(a)(2), Dec. 22, 2010, [124 Stat. 3518][/us/stat/124/3518], as amended by [Pub. L. 113–6, div. F, title I][/us/pl/113/6/dF/tI], § 1112(a), Mar. 26, 2013, [127 Stat. 414][/us/stat/127/414], provided that:
 
 >     “(a)
 
@@ -245,11 +245,11 @@ Similar provisions were contained in the following prior acts:
 
 >     “(d) The President may issue guidance that Executive agencies shall apply in the implementation of this section.
 
->     “(e) The Non-Foreign Area Retirement Equity Assurance Act of 2009 \[[Pub. L. 111–84, div. A, title XIX][/us/pl/111/84], subtitle B\] ([5 U.S.C. 5304][/us/usc/t5/s5304] note) shall be applied using the appropriate locality-based comparability payments established by the President as the applicable comparability payments in section 1914(2) and (3) of such Act.”
+>     “(e) The Non-Foreign Area Retirement Equity Assurance Act of 2009 \[[Pub. L. 111–84, div. A, title XIX][/us/pl/111/84/dA/tXIX], subtitle B\] ([5 U.S.C. 5304][/us/usc/t5/s5304] note) shall be applied using the appropriate locality-based comparability payments established by the President as the applicable comparability payments in section 1914(2) and (3) of such Act.”
 
-    \[[Pub. L. 112–175, § 114][/us/pl/112/175/s114], Sept. 28, 2012, [126 Stat. 1316][/us/stat/126/1316], which applied Mar. 27, 2013, as end date for moratorium on statutory pay adjustments and senior executive or senior-level executive pay increases under [section 147 of Pub. L. 111–242][/us/pl/111/242/s147] (set out above), was repealed by [Pub. L. 113–6, div. F, title I, § 1112(b)][/us/pl/113/6/s1112/b], Mar. 26, 2013, [127 Stat. 415][/us/stat/127/415].\]
+    \[[Pub. L. 112–175][/us/pl/112/175], § 114, Sept. 28, 2012, [126 Stat. 1316][/us/stat/126/1316], which applied Mar. 27, 2013, as end date for moratorium on statutory pay adjustments and senior executive or senior-level executive pay increases under [section 147 of Pub. L. 111–242][/us/pl/111/242/s147] (set out above), was repealed by [Pub. L. 113–6, div. F, title I][/us/pl/113/6/dF/tI], § 1112(b), Mar. 26, 2013, [127 Stat. 415][/us/stat/127/415].\]
 
-2009—[Pub. L. 111–117, div. C, title VII, § 744][/us/pl/111/117/s744], Dec. 16, 2009, [123 Stat. 3219][/us/stat/123/3219], provided that:
+2009—[Pub. L. 111–117, div. C, title VII][/us/pl/111/117/dC/tVII], § 744, Dec. 16, 2009, [123 Stat. 3219][/us/stat/123/3219], provided that:
 
 >     “(a) The adjustment in rates of basic pay for employees under the statutory pay systems that takes effect in fiscal year 2010 under [section 5303 of title 5][/us/usc/t5/s5303], United States Code, shall be an increase of 1.5 percent, and the overall average percentage of the adjustments taking effect in such fiscal year under sections 5304–5304a of such title 5 shall be an increase of 0.5 percent (with comparability payments to be determined and allocated among pay localities by the President). Adjustments under the preceding sentence shall also apply to civilian employees in the Department of Homeland Security and in the Department of Defense. All adjustments under this subsection shall be effective as of the first day of the first applicable pay period beginning on or after January 1, 2010.
 
@@ -257,7 +257,7 @@ Similar provisions were contained in the following prior acts:
 
 >     “(c) Funds used to carry out this section shall be paid from appropriations, which are made to each applicable department or agency for salaries and expenses for fiscal year 2010.”
 
-2008—[Pub. L. 110–329, div. A, § 142][/us/pl/110/329/s142], Sept. 30, 2008, [122 Stat. 3580][/us/stat/122/3580], as amended by [Pub. L. 111–8, div. D, title VII, § 738(a)][/us/pl/111/8/s738/a], Mar. 11, 2009, [123 Stat. 691][/us/stat/123/691], provided that:
+2008—[Pub. L. 110–329, div. A][/us/pl/110/329/dA], § 142, Sept. 30, 2008, [122 Stat. 3580][/us/stat/122/3580], as amended by [Pub. L. 111–8, div. D, title VII][/us/pl/111/8/dD/tVII], § 738(a), Mar. 11, 2009, [123 Stat. 691][/us/stat/123/691], provided that:
 
 >     “(a) The adjustment in rates of basic pay for employees under the statutory pay systems that takes effect in fiscal year 2009 under sections 5303 and 5304 of title 5, United States Code, shall be an increase of 3.9 percent, and this adjustment shall apply to civilian employees in the Department of Homeland Security and shall apply to civilian employees in the Department of Defense who are represented by a labor organization as defined in [section 7103(a)(4) of title 5][/us/usc/t5/s7103/a/4], United States Code. Such adjustment shall be effective as of the first day of the first applicable pay period beginning on or after January 1, 2009.
 
@@ -267,13 +267,13 @@ Similar provisions were contained in the following prior acts:
 
 >     “(d) The provisions of this section shall apply notwithstanding any other provision of this joint resolution \[div. A of [Pub. L. 110–329][/us/pl/110/329], amending [section 17013 of Title 42][/us/usc/t42/s17013], The Public Health and Welfare, and provisions set out in a note under [section 1701 of Title 50][/us/usc/t50/s1701], War and National Defense\].”
 
-\[[Pub. L. 111–8, div. D, title VII, § 738(b)][/us/pl/111/8/s738/b], Mar. 11, 2009, [123 Stat. 691][/us/stat/123/691], provided that: 
+\[[Pub. L. 111–8, div. D, title VII][/us/pl/111/8/dD/tVII], § 738(b), Mar. 11, 2009, [123 Stat. 691][/us/stat/123/691], provided that: 
 
 > “The amendment made by subsection (a) \[amending [section 142 of Pub. L. 110–329][/us/pl/110/329/s142], set out above\] shall take effect as if included in the enactment of the Consolidated Security, Disaster Assistance, and Continuing Appropriations Act, 2009 \[[Pub. L. 110–329][/us/pl/110/329]\].”
 
 \]
 
-2007—[Pub. L. 110–161, div. D, title VII, § 740][/us/pl/110/161/s740], Dec. 26, 2007, [121 Stat. 2031][/us/stat/121/2031], provided that:
+2007—[Pub. L. 110–161, div. D, title VII][/us/pl/110/161/dD/tVII], § 740, Dec. 26, 2007, [121 Stat. 2031][/us/stat/121/2031], provided that:
 
 >     “(a) The adjustment in rates of basic pay for employees under the statutory pay systems that takes effect in fiscal year 2008 under sections 5303 and 5304 of title 5, United States Code, shall be an increase of 3.5 percent, and this adjustment shall apply to civilian employees in the Department of Homeland Security and shall apply to civilian employees in the Department of Defense who are represented by a labor organization as defined in [5 U.S.C. 7103(a)(4)][/us/usc/t5/s7103/a/4], and such adjustments shall be effective as of the first day of the first applicable pay period beginning on or after January 1, 2008. Civilian employees in the Department of Defense who are eligible to be represented by a labor organization as defined in [5 U.S.C. 7103(a)(4)][/us/usc/t5/s7103/a/4], but are not so represented, will receive the adjustment provided for in this section unless the positions are entitled to a pay adjustment under [5 U.S.C. 9902][/us/usc/t5/s9902].
 
@@ -281,7 +281,7 @@ Similar provisions were contained in the following prior acts:
 
 >     “(c) Funds used to carry out this section shall be paid from appropriations, which are made to each applicable department or agency for salaries and expenses for fiscal year 2008.”
 
-2005—[Pub. L. 109–115, div. A, title VIII, § 843][/us/pl/109/115/s843], Nov. 30, 2005, [119 Stat. 2506][/us/stat/119/2506], provided that:
+2005—[Pub. L. 109–115, div. A, title VIII][/us/pl/109/115/dA/tVIII], § 843, Nov. 30, 2005, [119 Stat. 2506][/us/stat/119/2506], provided that:
 
 >     “(a) The adjustment in rates of basic pay for employees under the statutory pay systems that takes effect in fiscal year 2006 under sections 5303 and 5304 of title 5, United States Code, shall be an increase of 3.1 percent, and this adjustment shall apply to civilian employees in the Department of Defense and the Department of Homeland Security and such adjustments shall be effective as of the first day of the first applicable pay period beginning on or after January 1, 2006.
 
@@ -289,7 +289,7 @@ Similar provisions were contained in the following prior acts:
 
 >     “(c) Funds used to carry out this section shall be paid from appropriations, which are made to each applicable department or agency for salaries and expenses for fiscal year 2006.”
 
-2004—[Pub. L. 108–447, div. H, title VI, § 640][/us/pl/108/447/s640], Dec. 8, 2004, [118 Stat. 3282][/us/stat/118/3282], provided that:
+2004—[Pub. L. 108–447, div. H, title VI][/us/pl/108/447/dH/tVI], § 640, Dec. 8, 2004, [118 Stat. 3282][/us/stat/118/3282], provided that:
 
 >     “(a) The adjustment in rates of basic pay for employees under the statutory pay systems that takes effect in fiscal year 2005 under sections 5303 and 5304 of title 5, United States Code, shall be an increase of 3.5 percent, and this adjustment shall apply to civilian employees in the Department of Defense and the Department of Homeland Security and such adjustments shall be effective as of the first day of the first applicable pay period beginning on or after January 1, 2005.
 
@@ -297,7 +297,7 @@ Similar provisions were contained in the following prior acts:
 
 >     “(c) Funds used to carry out this section shall be paid from appropriations, which are made to each applicable department or agency for salaries and expenses for fiscal year 2005.”
 
-[Pub. L. 108–199, div. F, title VI, § 640][/us/pl/108/199/s640], Jan. 23, 2004, [118 Stat. 359][/us/stat/118/359], provided that:
+[Pub. L. 108–199, div. F, title VI][/us/pl/108/199/dF/tVI], § 640, Jan. 23, 2004, [118 Stat. 359][/us/stat/118/359], provided that:
 
 >     “(a) The adjustment in rates of basic pay for employees under the statutory pay systems that takes effect in fiscal year 2004 under sections 5303 and 5304 of title 5, United States Code, shall be an increase of 4.1 percent, and this adjustment shall apply to civilian employees in the Department of Defense and the Department of Homeland Security and such adjustments shall be effective as of the first day of the first applicable pay period beginning on or after January 1, 2004.
 
@@ -305,49 +305,49 @@ Similar provisions were contained in the following prior acts:
 
 >     “(c) Funds used to carry out this section shall be paid from appropriations, which are made to each applicable department or agency for salaries and expenses for fiscal year 2004.”
 
-2003—[Pub. L. 108–7, div. J, title VI, § 637][/us/pl/108/7/s637], Feb. 20, 2003, [117 Stat. 472][/us/stat/117/472], provided that:
+2003—[Pub. L. 108–7, div. J, title VI][/us/pl/108/7/dJ/tVI], § 637, Feb. 20, 2003, [117 Stat. 472][/us/stat/117/472], provided that:
 
 >     “(a) The adjustment in rates of basic pay for the statutory pay systems that takes effect in fiscal year 2003 under sections 5303 and 5304 of title 5, United States Code, shall be an increase of 4.1 percent and shall be effective as of the first day of the first applicable pay period beginning on or after January 1, 2003.
 
 >     “(b) Funds used to carry out this section shall be paid from appropriations which are made to each applicable department or agency for salaries and expenses for fiscal year 2003.”
 
-2001—[Pub. L. 107–67, title VI, § 646][/us/pl/107/67/s646], Nov. 12, 2001, [115 Stat. 556][/us/stat/115/556], provided that:
+2001—[Pub. L. 107–67, title VI][/us/pl/107/67/tVI], § 646, Nov. 12, 2001, [115 Stat. 556][/us/stat/115/556], provided that:
 
 >     “(a) The adjustment in rates of basic pay for the statutory pay systems that takes effect in fiscal year 2002 under sections 5303 and 5304 of title 5, United States Code, shall be an increase of 4.6 percent.
 
 >     “(b) Funds used to carry out this section shall be paid from appropriations which are made to each applicable department or agency for salaries and expenses for fiscal year 2002.”
 
-2000—[Pub. L. 106–554, § 1(a)(4)][/us/pl/106/554/s1/a/4] \[div. B, title I, § 140\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–235, provided that:
+2000—[Pub. L. 106–554][/us/pl/106/554], § 1(a)(4) \[div. B, title I, § 140\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–235, provided that:
 
 >     “(a) The adjustment in rates of basic pay for the statutory pay systems that takes effect in fiscal year 2001 under sections 5303 and 5304 of title 5, United States Code, shall be an increase of 3.7 percent.
 
 >     “(b) Funds used to carry out this section shall be paid from appropriations which are made to each applicable department or agency for salaries and expenses for fiscal year 2001.”
 
-1999—[Pub. L. 106–58, title VI, § 646][/us/pl/106/58/s646], Sept. 29, 1999, [113 Stat. 478][/us/stat/113/478], provided that:
+1999—[Pub. L. 106–58, title VI][/us/pl/106/58/tVI], § 646, Sept. 29, 1999, [113 Stat. 478][/us/stat/113/478], provided that:
 
 >     “(a) The adjustment in rates of basic pay for the statutory pay systems that takes effect in fiscal year 2000 under sections 5303 and 5304 of title 5, United States Code, shall be an increase of 4.8 percent.
 
 >     “(b) Funds used to carry out this section shall be paid from appropriations which are made to each applicable department or agency for salaries and expenses for fiscal year 2000.”
 
-1998—[Pub. L. 105–277, div. A, § 101(h)][/us/pl/105/277/s101/h] \[title VI, § 621\], Oct. 21, 1998, [112 Stat. 2681–480][/us/stat/112/2681-480], 2681–518, provided that: 
+1998—[Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(h) \[title VI, § 621\], Oct. 21, 1998, [112 Stat. 2681–480][/us/stat/112/2681-480], 2681–518, provided that: 
 
 > “For purposes of each provision of law amended by section 704(a)(2) of the Ethics Reform Act of 1989 \[[Pub. L. 101–194][/us/pl/101/194]\] ([5 U.S.C. 5318][/us/usc/t5/s5318] note), no adjustment under [section 5303 of title 5][/us/usc/t5/s5303], United States Code, shall be considered to have taken effect in fiscal year 1999 in the rates of basic pay for the statutory pay systems.”
 
-[Pub. L. 105–277, div. A, § 101(h)][/us/pl/105/277/s101/h] \[title VI, § 647\], Oct. 21, 1998, [112 Stat. 2681–480][/us/stat/112/2681-480], 2681–527, provided that:
+[Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(h) \[title VI, § 647\], Oct. 21, 1998, [112 Stat. 2681–480][/us/stat/112/2681-480], 2681–527, provided that:
 
 >     “(a) The adjustment in rates of basic pay for the statutory pay systems that takes effect in fiscal year 1999 under sections 5303 and 5304 of title 5, United States Code, shall be an increase of 3.6 percent.
 
 >     “(b) Funds used to carry out this section shall be paid from appropriations which are made to each applicable department or agency for salaries and expenses for fiscal year 1999.”
 
-1996—[Pub. L. 104–208, div. A, title I, § 101(f)][/us/pl/104/208/s101/f] \[title VI, § 637\], Sept. 30, 1996, [110 Stat. 3009–314][/us/stat/110/3009-314], 3009–364, provided that: 
+1996—[Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(f) \[title VI, § 637\], Sept. 30, 1996, [110 Stat. 3009–314][/us/stat/110/3009-314], 3009–364, provided that: 
 
 > “For purposes of each provision of law amended by section 704(a)(2) of the Ethics Reform Act of 1989 \[[Pub. L. 101–194][/us/pl/101/194]\] ([5 U.S.C. 5318][/us/usc/t5/s5318] note), no adjustment under [section 5303 of title 5][/us/usc/t5/s5303], United States Code, shall be considered to have taken effect in fiscal year 1997 in the rates of basic pay for the statutory pay systems.”
 
-1995—[Pub. L. 104–52, title VI, § 633][/us/pl/104/52/s633], Nov. 19, 1995, [109 Stat. 507][/us/stat/109/507], provided that: 
+1995—[Pub. L. 104–52, title VI][/us/pl/104/52/tVI], § 633, Nov. 19, 1995, [109 Stat. 507][/us/stat/109/507], provided that: 
 
 > “For purposes of each provision of law amended by section 704(a)(2) of the Ethics Reform Act of 1989 \[[Pub. L. 101–194][/us/pl/101/194]\] ([5 U.S.C. 5318][/us/usc/t5/s5318] note), no adjustment under [section 5303 of title 5][/us/usc/t5/s5303], United States Code, shall be considered to have taken effect in fiscal year 1996 in the rates of basic pay for the statutory pay systems.”
 
-1994—[Pub. L. 103–329, title VI, § 630(a)][/us/pl/103/329/s630/a], Sept. 30, 1994, [108 Stat. 2424][/us/stat/108/2424], provided that:
+1994—[Pub. L. 103–329, title VI][/us/pl/103/329/tVI], § 630(a), Sept. 30, 1994, [108 Stat. 2424][/us/stat/108/2424], provided that:
 
 >     “(1) The adjustment in rates of basic pay for the statutory pay systems that takes effect in fiscal year 1995 under [section 5303 of title 5][/us/usc/t5/s5303], United States Code, shall be an increase of 2 percent.
 
@@ -355,19 +355,19 @@ Similar provisions were contained in the following prior acts:
 
 >     “(3) For purposes of this subsection, the term ‘statutory pay system’ shall have the meaning given such term by [section 5302(1) of title 5][/us/usc/t5/s5302/1], United States Code.”
 
-1993—[Pub. L. 103–123, title V, § 517B][/us/pl/103/123/s517B], Oct. 28, 1993, [107 Stat. 1253][/us/stat/107/1253], provided that:
+1993—[Pub. L. 103–123, title V][/us/pl/103/123/tV], § 517B, Oct. 28, 1993, [107 Stat. 1253][/us/stat/107/1253], provided that:
 
 >     “(a) Any adjustment required by [section 5303 of title 5][/us/usc/t5/s5303], United States Code, to become effective in fiscal year 1994 in the rates of basic pay for the statutory pay systems shall not be made.
 
 >     “(b) For the purpose of this section, the term ‘statutory pay system’ has the meaning given such term by [section 5302(1) of title 5][/us/usc/t5/s5302/1], United States Code.”
 
-1990—[Pub. L. 101–509, title VI, § 618][/us/pl/101/509/s618], Nov. 5, 1990, [104 Stat. 1475][/us/stat/104/1475], provided that:
+1990—[Pub. L. 101–509, title VI][/us/pl/101/509/tVI], § 618, Nov. 5, 1990, [104 Stat. 1475][/us/stat/104/1475], provided that:
 
 >     “(a) Notwithstanding any other provision of law, in the case of fiscal year 1991, the overall average percentage of the adjustment under [section 5305 of title 5][/us/usc/t5/s5305], United States Code, in the rates of pay under the General Schedule, and in the rates of pay under the other statutory pay systems (as defined by section 5301(c) of such title), shall be an increase of 4.1 percent.
 
 >     “(b) Any increase in a pay rate or schedule which takes effect under such section 5305 in fiscal year 1991 (in accordance with subsection (a)) shall, to the maximum extent practicable, be of the same percentage, and shall take effect as of the first day of the first applicable pay period commencing on or after January 1, 1991.”
 
-[Pub. L. 101–509, title VI, § 633][/us/pl/101/509/s633], Nov. 5, 1990, [104 Stat. 633][/us/stat/104/633], provided that:
+[Pub. L. 101–509, title VI][/us/pl/101/509/tVI], § 633, Nov. 5, 1990, [104 Stat. 633][/us/stat/104/633], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -399,7 +399,7 @@ Similar provisions were contained in the following prior acts:
 
 >     Notwithstanding any other provision of law (including any provision of the Federal Employees Pay Comparability Act of 1990 \[see Short Title of 1990 Amendment note set out under [section 5301 of this title][/us/usc/t5/s5301]\] and any provision of law amended made by such Act), effective for purposes of any pay adjustment scheduled to take effect during the period described in subsection (a), any reference in a provision of law to [section 5303 of title 5][/us/usc/t5/s5303], United States Code, as amended by section 101 \[section 529 \[title I, § 101\] of [Pub. L. 101–509][/us/pl/101/509]\] (or to the effective date of a pay adjustment, the size of an adjustment, a rate payable after an adjustment, or other related matter under such section 5303) shall be considered a reference to such section as applied in accordance with this section (or to the corresponding matter, as determined under such section 5303, as applied in accordance with this section).”
 
-1989—[Pub. L. 101–194, title VII, § 702][/us/pl/101/194/s702], Nov. 30, 1989, [103 Stat. 1767][/us/stat/103/1767], provided that:
+1989—[Pub. L. 101–194, title VII][/us/pl/101/194/tVII], § 702, Nov. 30, 1989, [103 Stat. 1767][/us/stat/103/1767], provided that:
 
 >     “(a) __Restoration.—__ 
 
@@ -427,7 +427,7 @@ Similar provisions were contained in the following prior acts:
 
 >     Notwithstanding any other provision of this section, no adjustment in any rate of pay shall become effective, as a result of the enactment of this section, before the first applicable pay period beginning on or after the date as of which the order issued by the President on October 16, 1989, pursuant to section 252 of the Balanced Budget and Emergency Deficit Control Act of 1985 \[[2 U.S.C. 902][/us/usc/t2/s902]\] is rescinded.”
 
-[Pub. L. 101–194, title XI, § 1101(a)][/us/pl/101/194/s1101/a], Nov. 30, 1989, [103 Stat. 1781][/us/stat/103/1781], provided that:
+[Pub. L. 101–194, title XI][/us/pl/101/194/tXI], § 1101(a), Nov. 30, 1989, [103 Stat. 1781][/us/stat/103/1781], provided that:
 
 >     “(1)  __Adjustments in Rates of Pay__  __.—__ 
 
@@ -441,7 +441,7 @@ Similar provisions were contained in the following prior acts:
 
 >     “(2) The increase in the rates of pay for each office and position described under paragraph (1) shall be effective on the first day of the first pay period beginning on or after January 1, 1990.”
 
-[Pub. L. 101–136, title VI, § 619][/us/pl/101/136/s619], Nov. 3, 1989, [103 Stat. 820][/us/stat/103/820], provided that:
+[Pub. L. 101–136, title VI][/us/pl/101/136/tVI], § 619, Nov. 3, 1989, [103 Stat. 820][/us/stat/103/820], provided that:
 
 >     “(a)
 
@@ -471,7 +471,7 @@ Similar provisions were contained in the following prior acts:
 
 >         “(3) The rate of basic pay described in this paragraph is the rate equal to the rate of basic pay payable for level III of the Executive Schedule under [section 5314 of title 5][/us/usc/t5/s5314], United States Code, as of September 30, 1989, increased by 3.6 percent.”
 
-1988—[Pub. L. 100–440, title VI, § 620][/us/pl/100/440/s620], Sept. 22, 1988, [102 Stat. 1756][/us/stat/102/1756], provided that:
+1988—[Pub. L. 100–440, title VI][/us/pl/100/440/tVI], § 620, Sept. 22, 1988, [102 Stat. 1756][/us/stat/102/1756], provided that:
 
 >     “(a)
 
@@ -499,7 +499,7 @@ Similar provisions were contained in the following prior acts:
 
 >             “(C) by the Chief Justice of the United States, in the case of any office or position within the judicial branch.”
 
-1987—[Pub. L. 100–202, § 108][/us/pl/100/202/s108], Dec. 22, 1987, [101 Stat. 1329–434][/us/stat/101/1329-434], provided that:
+1987—[Pub. L. 100–202][/us/pl/100/202], § 108, Dec. 22, 1987, [101 Stat. 1329–434][/us/stat/101/1329-434], provided that:
 
 >     “(a)
 
@@ -519,7 +519,7 @@ Similar provisions were contained in the following prior acts:
 
 >         “(3) by the Chief Justice of the United States, in the case of any office or position within the judicial branch.”
 
-[Pub. L. 100–202, § 110(a)][/us/pl/100/202/s110/a], Dec. 22, 1987, [101 Stat. 1329–436][/us/stat/101/1329-436], provided that:
+[Pub. L. 100–202][/us/pl/100/202], § 110(a), Dec. 22, 1987, [101 Stat. 1329–436][/us/stat/101/1329-436], provided that:
 
 >     “(1)  __Two-percent increase__  __.—__ 
 
@@ -529,7 +529,7 @@ Similar provisions were contained in the following prior acts:
 
 >     Each increase in a pay rate or schedule which takes effect pursuant to paragraph (1) shall, to the maximum extent practicable, be of the same percentage and shall take effect as of the beginning of the first applicable pay period beginning on or after January 1, 1988.”
 
-1986—[Pub. L. 99–500, § 144(a)][/us/pl/99/500/s144/a], Oct. 18, 1986, [100 Stat. 1783–350][/us/stat/100/1783-350], and [Pub. L. 99–591, § 144(a)][/us/pl/99/591/s144/a], Oct. 30, 1986, [100 Stat. 3341–353][/us/stat/100/3341-353], provided that:
+1986—[Pub. L. 99–500][/us/pl/99/500], § 144(a), Oct. 18, 1986, [100 Stat. 1783–350][/us/stat/100/1783-350], and [Pub. L. 99–591][/us/pl/99/591], § 144(a), Oct. 30, 1986, [100 Stat. 3341–353][/us/stat/100/3341-353], provided that:
 
 >     “(1) Notwithstanding any other provision of law, in the case of fiscal year 1987, the overall percentage of the adjustment under [section 5305 of title 5][/us/usc/t5/s5305], United States Code, in the rates of pay under the General Schedule, and in the rates of pay under the other statutory pay systems, shall be an increase of 3 percent.
 
@@ -551,7 +551,7 @@ Similar provisions were contained in the following prior acts:
 
 >         “(C) the term ‘statutory pay system’ has the meaning given such term by [section 5301(c) of title 5][/us/usc/t5/s5301/c], United States Code.”
 
-[Pub. L. 99–272, title XV, § 15201(a)][/us/pl/99/272/s15201/a], Apr. 7, 1986, [100 Stat. 332][/us/stat/100/332], provided that:
+[Pub. L. 99–272, title XV][/us/pl/99/272/tXV], § 15201(a), Apr. 7, 1986, [100 Stat. 332][/us/stat/100/332], provided that:
 
 >     “(1) The rates of pay under the General Schedule and the rates of pay under the other statutory pay systems referred to in [section 5301(c) of title 5][/us/usc/t5/s5301/c], United States Code, shall not be adjusted under section 5305 of such title during fiscal year 1986.
 
@@ -571,13 +571,13 @@ Similar provisions were contained in the following prior acts:
 
 >             “(ii) shall be effective with respect to pay periods beginning on or after January 1 of the fiscal year involved.”
 
-1984—[Pub. L. 98–270, title II, § 202(a)][/us/pl/98/270/s202/a], Apr. 18, 1984, [98 Stat. 158][/us/stat/98/158], provided that:
+1984—[Pub. L. 98–270, title II][/us/pl/98/270/tII], § 202(a), Apr. 18, 1984, [98 Stat. 158][/us/stat/98/158], provided that:
 
 >     “(1) Notwithstanding any other provision of law, in the case of fiscal year 1984, the overall percentage of the adjustment under [section 5305 of title 5][/us/usc/t5/s5305], United States Code, in the rates of pay under the General Schedule, and in the rates of pay under the other statutory pay systems, shall be an increase of 4 percent.
 
 >     “(2) Each increase in a pay rate or schedule which takes effect pursuant to paragraph (1) shall, to the maximum extent practicable, be of the same percentage, and shall take effect as of the first day of the first applicable pay period commencing on or after January 1 of such fiscal year.”
 
-1982—[Pub. L. 97–253, title III, § 310(a)][/us/pl/97/253/s310/a], Sept. 8, 1982, [96 Stat. 799][/us/stat/96/799], provided that:
+1982—[Pub. L. 97–253, title III][/us/pl/97/253/tIII], § 310(a), Sept. 8, 1982, [96 Stat. 799][/us/stat/96/799], provided that:
 
 >     “(1)
 
@@ -591,11 +591,11 @@ Similar provisions were contained in the following prior acts:
 
 >     “(2) Each increase in a pay rate or schedule which takes effect pursuant to paragraph (1) shall, to the maximum extent practicable, be of the same percentage, and shall take effect on the first day of the first applicable pay period commencing on or after October 1 of such fiscal year.”
 
-1981—[Pub. L. 97–35, title XVII, § 1701(a)][/us/pl/97/35/s1701/a], Aug. 13, 1981, [95 Stat. 753][/us/stat/95/753], provided that: 
+1981—[Pub. L. 97–35, title XVII][/us/pl/97/35/tXVII], § 1701(a), Aug. 13, 1981, [95 Stat. 753][/us/stat/95/753], provided that: 
 
 > “Notwithstanding any other provision of law, the overall percentage of the adjustment of the rates of pay under the General Schedule or any other statutory pay system under [section 5305 of title 5][/us/usc/t5/s5305], United States Code, which is to become effective with the first applicable pay period commencing on or after October 1, 1981, shall not exceed 4.8 percent.”
 
-1978—[Pub. L. 95–429, title VI, § 614][/us/pl/95/429/s614], Oct. 10, 1978, [92 Stat. 1018][/us/stat/92/1018], provided that:
+1978—[Pub. L. 95–429, title VI][/us/pl/95/429/tVI], § 614, Oct. 10, 1978, [92 Stat. 1018][/us/stat/92/1018], provided that:
 
 >     “(a)
 
@@ -609,7 +609,7 @@ Similar provisions were contained in the following prior acts:
 
 >     “(b) For the purpose of administering any provision of law, rule, or regulation which provides premium pay, retirement, life insurance, or other employee benefit, which requires any deduction or contribution, or which imposes any requirement or limitation, on the basis of a rate of salary or basic pay, the rate of salary or basic pay payable after the application of this section shall be treated as the rate of salary or basic pay.”
 
-1971—[Pub. L. 92–210, § 3][/us/pl/92/210/s3], Dec. 22, 1971, [85 Stat. 753][/us/stat/85/753], provided that: 
+1971—[Pub. L. 92–210][/us/pl/92/210], § 3, Dec. 22, 1971, [85 Stat. 753][/us/stat/85/753], provided that: 
 
 > “Notwithstanding any provision of section 3(c) of the Federal Pay Comparability Act of 1970 ([Public Law 91–656][/us/pl/91/656]), or of [section 5305 of title 5][/us/usc/t5/s5305], United States Code, as added by [section 3(a) of Public Law 91–656][/us/pl/91/656/s3/a], and the provisions of the alternative plan submitted by the President to the Congress pursuant thereto on August 31, 1971, such comparability adjustments in the rates of pay of each Federal statutory pay system as may be required under such sections 5305 and 3(c), based on the 1971 Bureau of Labor Statistics survey—
 
@@ -619,11 +619,11 @@ Similar provisions were contained in the following prior acts:
 
 >     Nothing in this section shall be construed to provide any adjustments in rates of pay of any Federal statutory pay system which are greater than the adjustments based on the 1971 Bureau of Labor Statistics survey.”
 
-[Pub. L. 91–656, § 3(c)][/us/pl/91/656/s3/c], Jan. 8, 1971, [84 Stat. 1951][/us/stat/84/1951], provided that: 
+[Pub. L. 91–656][/us/pl/91/656], § 3(c), Jan. 8, 1971, [84 Stat. 1951][/us/stat/84/1951], provided that: 
 
 > “The President may make the initial adjustment required by subchapter I of chapter 53 of title 5, United States Code, as amended by this Act, without regard to the provisions of such subchapter relating to the Advisory Committee on Federal Pay and the Federal Employees Pay Council. Notwithstanding any provision of such subchapter I prescribing an effective date of October 1 for any pay adjustment made by the President, the initial adjustment based on the 1970 Bureau of Labor Statistics survey and the adjustment based on the 1971 Bureau of Labor Statistics survey shall become effective on the first day of the first applicable pay period that begins on or after January 1, 1971, and January 1, 1972, respectively. Notwithstanding the provisions of such subchapter I, the President’s agent for purposes of the 1971 and 1972 adjustments shall be the Director, Office of Management and Budget and the Chairman, United States Civil Service Commission. Adjustments under the provisions of such subchapter I shall not apply to employees of the Post Office Department whose basic pay is fixed under the General Schedule.”
 
-1967—[Pub. L. 90–206, title II, § 212][/us/pl/90/206/s212], Dec. 16, 1967, [81 Stat. 634][/us/stat/81/634], provided that: 
+1967—[Pub. L. 90–206, title II][/us/pl/90/206/tII], § 212, Dec. 16, 1967, [81 Stat. 634][/us/stat/81/634], provided that: 
 
 > “In order to complete the implementation of the policy of the Congress set forth in paragraph (2) of [section 5301 of title 5][/us/usc/t5/s5301], United States Code, the President, after seeking the views of such employee organizations as he considers appropriate and in such manner as he may provide, shall—
 
@@ -662,17 +662,17 @@ Similar provisions were contained in the following prior acts:
 
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F458
-[/us/pl/90/206/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F206%2Fs207
+[/us/pl/90/206/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F206%2FtII
 [/us/stat/81/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F631
-[/us/pl/91/375/s6/c/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375%2Fs6%2Fc%2F10
+[/us/pl/91/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375
 [/us/stat/84/776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F776
-[/us/pl/94/183/s2/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F183%2Fs2%2F16
+[/us/pl/94/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F183
 [/us/stat/89/1057]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F1057
-[/us/pl/95/454/s906/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs906%2Fa%2F2
+[/us/pl/95/454/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtIX
 [/us/stat/92/1224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1224
-[/us/pl/96/465/s2314/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs2314%2Fc%2F2
+[/us/pl/96/465/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtII
 [/us/stat/94/2167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2167
-[/us/pl/101/509/s529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2Fs529
+[/us/pl/101/509/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2FtV
 [/us/stat/104/1427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1427
 [/us/usc/t1/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft1%2Fs1
 [/us/usc/t5/s5316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5316
@@ -683,8 +683,8 @@ Similar provisions were contained in the following prior acts:
 [/us/usc/t39/s3552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs3552
 [/us/usc/t5/s5335/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5335%2Fa
 [/us/pl/91/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375
-[/us/pl/90/206/s207/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F206%2Fs207%2Fa
-[/us/pl/90/206/s207/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F206%2Fs207%2Fb
+[/us/pl/90/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F206
+[/us/pl/90/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F206
 [/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509
 [/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509
 [/us/usc/t5/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5301
@@ -701,11 +701,11 @@ Similar provisions were contained in the following prior acts:
 [/us/pl/90/206/s220/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F206%2Fs220%2Fa%2F1
 [/us/usc/t5/s3110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3110
 [/us/usc/t5/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5301
-[/us/pl/102/377/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F377%2Fs506
+[/us/pl/102/377/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F377%2FtV
 [/us/stat/106/1343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1343
-[/us/pl/101/509/s529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2Fs529
+[/us/pl/101/509/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2FtV
 [/us/stat/104/1427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1427
-[/us/pl/114/113/s738]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs738
+[/us/pl/114/113/dE/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdE%2FtVII
 [/us/stat/129/2482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2482
 [/us/usc/t3/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs104
 [/us/usc/t5/s5318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5318
@@ -719,44 +719,44 @@ Similar provisions were contained in the following prior acts:
 [/us/usc/t5/s3392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3392
 [/us/pl/96/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465
 [/us/usc/t22/s3942/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3942%2Fb
-[/us/pl/113/235/s738]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs738
+[/us/pl/113/235/dE/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2FdE%2FtVII
 [/us/stat/128/2388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2388
-[/us/pl/113/76/s741]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs741
+[/us/pl/113/76/dE/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2FdE%2FtVII
 [/us/stat/128/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F241
-[/us/pl/111/242/s147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F242%2Fs147
-[/us/pl/111/322/s1/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F322%2Fs1%2Fa%2F2
+[/us/pl/111/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F242
+[/us/pl/111/322/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F322%2FtI
 [/us/stat/124/3518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3518
-[/us/pl/113/6/s1112/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F6%2Fs1112%2Fa
+[/us/pl/113/6/dF/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F6%2FdF%2FtI
 [/us/stat/127/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F414
 [/us/usc/t5/s2105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs2105
 [/us/usc/t22/s3961]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3961
 [/us/usc/t5/s5376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5376
 [/us/usc/t5/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs105
-[/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
+[/us/pl/111/84/dA/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtXIX
 [/us/usc/t5/s5304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5304
-[/us/pl/112/175/s114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F175%2Fs114
+[/us/pl/112/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F175
 [/us/stat/126/1316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1316
 [/us/pl/111/242/s147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F242%2Fs147
-[/us/pl/113/6/s1112/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F6%2Fs1112%2Fb
+[/us/pl/113/6/dF/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F6%2FdF%2FtI
 [/us/stat/127/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F415
-[/us/pl/111/117/s744]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F117%2Fs744
+[/us/pl/111/117/dC/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F117%2FdC%2FtVII
 [/us/stat/123/3219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F3219
 [/us/usc/t5/s5303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5303
 [/us/pl/111/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F117
 [/us/usc/t5/s5343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5343
-[/us/pl/110/329/s142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F329%2Fs142
+[/us/pl/110/329/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F329%2FdA
 [/us/stat/122/3580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3580
-[/us/pl/111/8/s738/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8%2Fs738%2Fa
+[/us/pl/111/8/dD/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8%2FdD%2FtVII
 [/us/stat/123/691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F691
 [/us/usc/t5/s7103/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs7103%2Fa%2F4
 [/us/pl/110/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F329
 [/us/usc/t42/s17013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs17013
 [/us/usc/t50/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1701
-[/us/pl/111/8/s738/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8%2Fs738%2Fb
+[/us/pl/111/8/dD/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8%2FdD%2FtVII
 [/us/stat/123/691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F691
 [/us/pl/110/329/s142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F329%2Fs142
 [/us/pl/110/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F329
-[/us/pl/110/161/s740]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs740
+[/us/pl/110/161/dD/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2FdD%2FtVII
 [/us/stat/121/2031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2031
 [/us/usc/t5/s7103/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs7103%2Fa%2F4
 [/us/usc/t5/s7103/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs7103%2Fa%2F4
@@ -765,64 +765,64 @@ Similar provisions were contained in the following prior acts:
 [/us/usc/t5/s5343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5343
 [/us/usc/t5/s5343/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5343%2Fa%2F5
 [/us/usc/t5/s5304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5304
-[/us/pl/109/115/s843]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F115%2Fs843
+[/us/pl/109/115/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F115%2FdA%2FtVIII
 [/us/stat/119/2506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2506
 [/us/pl/109/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F115
 [/us/usc/t5/s5343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5343
 [/us/usc/t5/s5343/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5343%2Fa%2F5
 [/us/usc/t5/s5304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5304
-[/us/pl/108/447/s640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs640
+[/us/pl/108/447/dH/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdH%2FtVI
 [/us/stat/118/3282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3282
 [/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
 [/us/usc/t5/s5343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5343
 [/us/usc/t5/s5343/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5343%2Fa%2F5
 [/us/usc/t5/s5304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5304
-[/us/pl/108/199/s640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2Fs640
+[/us/pl/108/199/dF/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2FdF%2FtVI
 [/us/stat/118/359]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F359
 [/us/pl/108/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199
 [/us/usc/t5/s5343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5343
 [/us/usc/t5/s5343/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5343%2Fa%2F5
 [/us/usc/t5/s5304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5304
-[/us/pl/108/7/s637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs637
+[/us/pl/108/7/dJ/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2FdJ%2FtVI
 [/us/stat/117/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F472
-[/us/pl/107/67/s646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F67%2Fs646
+[/us/pl/107/67/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F67%2FtVI
 [/us/stat/115/556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F556
-[/us/pl/106/554/s1/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F4
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/106/58/s646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F58%2Fs646
+[/us/pl/106/58/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F58%2FtVI
 [/us/stat/113/478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F478
-[/us/pl/105/277/s101/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fh
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-480
 [/us/pl/101/194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194
 [/us/usc/t5/s5318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5318
 [/us/usc/t5/s5303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5303
-[/us/pl/105/277/s101/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fh
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-480
-[/us/pl/104/208/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Ff
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009-314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-314
 [/us/pl/101/194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194
 [/us/usc/t5/s5318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5318
 [/us/usc/t5/s5303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5303
-[/us/pl/104/52/s633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F52%2Fs633
+[/us/pl/104/52/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F52%2FtVI
 [/us/stat/109/507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F507
 [/us/pl/101/194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194
 [/us/usc/t5/s5318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5318
 [/us/usc/t5/s5303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5303
-[/us/pl/103/329/s630/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F329%2Fs630%2Fa
+[/us/pl/103/329/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F329%2FtVI
 [/us/stat/108/2424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2424
 [/us/usc/t5/s5303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5303
 [/us/pl/101/194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194
 [/us/usc/t5/s5318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5318
 [/us/usc/t5/s5303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5303
 [/us/usc/t5/s5302/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5302%2F1
-[/us/pl/103/123/s517B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F123%2Fs517B
+[/us/pl/103/123/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F123%2FtV
 [/us/stat/107/1253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1253
 [/us/usc/t5/s5303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5303
 [/us/usc/t5/s5302/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5302%2F1
-[/us/pl/101/509/s618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2Fs618
+[/us/pl/101/509/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2FtVI
 [/us/stat/104/1475]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1475
 [/us/usc/t5/s5305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5305
-[/us/pl/101/509/s633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2Fs633
+[/us/pl/101/509/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2FtVI
 [/us/stat/104/633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F633
 [/us/usc/t5/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5301
 [/us/usc/t5/s5303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5303
@@ -830,7 +830,7 @@ Similar provisions were contained in the following prior acts:
 [/us/usc/t5/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5301
 [/us/usc/t5/s5303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5303
 [/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509
-[/us/pl/101/194/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194%2Fs702
+[/us/pl/101/194/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194%2FtVII
 [/us/stat/103/1767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1767
 [/us/usc/t2/s5305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs5305
 [/us/pl/100/440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F440
@@ -838,7 +838,7 @@ Similar provisions were contained in the following prior acts:
 [/us/pl/97/92/s140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F92%2Fs140
 [/us/usc/t28/s461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs461
 [/us/usc/t2/s902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs902
-[/us/pl/101/194/s1101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194%2Fs1101%2Fa
+[/us/pl/101/194/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194%2FtXI
 [/us/stat/103/1781]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1781
 [/us/usc/t2/s31/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs31%2F2
 [/us/usc/t2/s4501/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4501%2F2
@@ -853,49 +853,49 @@ Similar provisions were contained in the following prior acts:
 [/us/usc/t2/s31/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs31%2F2
 [/us/usc/t2/s4501/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4501%2F2
 [/us/pl/101/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F136
-[/us/pl/101/136/s619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F136%2Fs619
+[/us/pl/101/136/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F136%2FtVI
 [/us/stat/103/820]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F820
 [/us/usc/t5/s5305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5305
 [/us/usc/t5/s5305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5305
 [/us/usc/t5/s5314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5314
-[/us/pl/100/440/s620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F440%2Fs620
+[/us/pl/100/440/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F440%2FtVI
 [/us/stat/102/1756]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1756
 [/us/usc/t5/s5305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5305
 [/us/usc/t5/s5305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5305
 [/us/usc/t5/s5314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5314
-[/us/pl/100/202/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202%2Fs108
+[/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
 [/us/stat/101/1329-434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1329-434
 [/us/usc/t5/s5305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5305
 [/us/usc/t5/s5316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5316
-[/us/pl/100/202/s110/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202%2Fs110%2Fa
+[/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
 [/us/stat/101/1329-436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1329-436
 [/us/usc/t5/s5305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5305
-[/us/pl/99/500/s144/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500%2Fs144%2Fa
+[/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
 [/us/stat/100/1783-350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1783-350
-[/us/pl/99/591/s144/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591%2Fs144%2Fa
+[/us/pl/99/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591
 [/us/stat/100/3341-353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3341-353
 [/us/usc/t5/s5305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5305
 [/us/usc/t5/s5301/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5301%2Fc
-[/us/pl/99/272/s15201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs15201%2Fa
+[/us/pl/99/272/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2FtXV
 [/us/stat/100/332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F332
 [/us/usc/t5/s5301/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5301%2Fc
 [/us/usc/t5/s5305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5305
 [/us/usc/t37/s1009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs1009
 [/us/usc/t5/s5305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5305
-[/us/pl/98/270/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F270%2Fs202%2Fa
+[/us/pl/98/270/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F270%2FtII
 [/us/stat/98/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F158
 [/us/usc/t5/s5305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5305
-[/us/pl/97/253/s310/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F253%2Fs310%2Fa
+[/us/pl/97/253/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F253%2FtIII
 [/us/stat/96/799]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F799
 [/us/usc/t5/s5305/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5305%2Fc%2F1
-[/us/pl/97/35/s1701/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs1701%2Fa
+[/us/pl/97/35/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXVII
 [/us/stat/95/753]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F753
 [/us/usc/t5/s5305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5305
-[/us/pl/95/429/s614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F429%2Fs614
+[/us/pl/95/429/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F429%2FtVI
 [/us/stat/92/1018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1018
 [/us/usc/t5/s5305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5305
 [/us/usc/t5/s5343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5343
-[/us/pl/92/210/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F210%2Fs3
+[/us/pl/92/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F210
 [/us/stat/85/753]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F753
 [/us/pl/91/656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F656
 [/us/usc/t5/s5305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5305
@@ -903,9 +903,9 @@ Similar provisions were contained in the following prior acts:
 [/us/pl/91/379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F379
 [/us/stat/84/799]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F799
 [/us/usc/t12/s1904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1904
-[/us/pl/91/656/s3/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F656%2Fs3%2Fc
+[/us/pl/91/656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F656
 [/us/stat/84/1951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1951
-[/us/pl/90/206/s212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F206%2Fs212
+[/us/pl/90/206/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F206%2FtII
 [/us/stat/81/634]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F634
 [/us/usc/t5/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5301
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332

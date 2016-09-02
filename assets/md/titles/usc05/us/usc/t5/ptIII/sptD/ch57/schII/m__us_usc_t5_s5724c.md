@@ -17,7 +17,7 @@
 
     Under regulations prescribed under [section 5738 of this title][/us/usc/t5/s5738], each agency may enter into contracts to provide relocation services to agencies and employees for the purpose of carrying out this subchapter. An agency may pay a fee for such services. Such services include arranging for the purchase of a transferred employee’s residence.
 
-(Added [Pub. L. 98–151, § 118(a)(7)(A)(i)][/us/pl/98/151/s118/a/7/A/i], Nov. 14, 1983, [97 Stat. 978][/us/stat/97/978]; amended [Pub. L. 98–473, title I, § 120(b)][/us/pl/98/473/s120/b], Oct. 12, 1984, [98 Stat. 1969][/us/stat/98/1969]; [Pub. L. 104–201, div. A, title XVII, § 1713(b)][/us/pl/104/201/s1713/b], Sept. 23, 1996, [110 Stat. 2754][/us/stat/110/2754].)
+(Added [Pub. L. 98–151][/us/pl/98/151], § 118(a)(7)(A)(i), Nov. 14, 1983, [97 Stat. 978][/us/stat/97/978]; amended [Pub. L. 98–473, title I][/us/pl/98/473/tI], § 120(b), Oct. 12, 1984, [98 Stat. 1969][/us/stat/98/1969]; [Pub. L. 104–201, div. A, title XVII][/us/pl/104/201/dA/tXVII], § 1713(b), Sept. 23, 1996, [110 Stat. 2754][/us/stat/110/2754].)
 
  __Amendments__ 
 
@@ -45,11 +45,11 @@
 ----------
 
 [/us/usc/t5/s5738]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5738
-[/us/pl/98/151/s118/a/7/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F151%2Fs118%2Fa%2F7%2FA%2Fi
+[/us/pl/98/151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F151
 [/us/stat/97/978]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F978
-[/us/pl/98/473/s120/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs120%2Fb
+[/us/pl/98/473/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtI
 [/us/stat/98/1969]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1969
-[/us/pl/104/201/s1713/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1713%2Fb
+[/us/pl/104/201/dA/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtXVII
 [/us/stat/110/2754]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2754
 [/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
 [/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473

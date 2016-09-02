@@ -21,7 +21,7 @@
 
     (c) A person may not be excused from attending and testifying or from producing documentary evidence or in obedience to a subpena on the ground that the testimony or evidence, documentary or otherwise, required of him may tend to incriminate him or subject him to a penalty or forfeiture for or on account of any transaction, matter, or thing concerning which he is compelled to testify, or produce evidence, documentary or otherwise, before the Board in obedience to a subpena issued by it. A person so testifying is not exempt from prosecution and punishment for perjury committed in so testifying.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 406][/us/stat/80/406]; [Pub. L. 95–454, title IX, § 906(a)(6)][/us/pl/95/454/s906/a/6], Oct. 13, 1978, [92 Stat. 1225][/us/stat/92/1225].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 406][/us/stat/80/406]; [Pub. L. 95–454, title IX][/us/pl/95/454/tIX], § 906(a)(6), Oct. 13, 1978, [92 Stat. 1225][/us/stat/92/1225].)
 
 <table>
 
@@ -94,7 +94,7 @@ July 19, 1940, ch. 640, § 4 “Sec. 12(d) (less 1st sentence)”, 54 Stat. 76
 
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F406
-[/us/pl/95/454/s906/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs906%2Fa%2F6
+[/us/pl/95/454/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtIX
 [/us/stat/92/1225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1225
 [/us/usc/t1/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft1%2Fs1
 [/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454

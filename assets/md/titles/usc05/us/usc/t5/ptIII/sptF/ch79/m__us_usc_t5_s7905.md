@@ -81,7 +81,7 @@
 
             (E) any other matter which may be appropriate.
 
-(Added [Pub. L. 103–172, § 2(a)][/us/pl/103/172/s2/a], Dec. 2, 1993, [107 Stat. 1995][/us/stat/107/1995]; amended [Pub. L. 107–296, title XIII, § 1314(a)][/us/pl/107/296/s1314/a], Nov. 25, 2002, [116 Stat. 2296][/us/stat/116/2296]; [Pub. L. 113–235, div. H, title I, § 1301(b)][/us/pl/113/235/s1301/b], Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537].)
+(Added [Pub. L. 103–172][/us/pl/103/172], § 2(a), Dec. 2, 1993, [107 Stat. 1995][/us/stat/107/1995]; amended [Pub. L. 107–296, title XIII][/us/pl/107/296/tXIII], § 1314(a), Nov. 25, 2002, [116 Stat. 2296][/us/stat/116/2296]; [Pub. L. 113–235, div. H, title I][/us/pl/113/235/dH/tI], § 1301(b), Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537].)
 
  __References in Text__ 
 
@@ -101,23 +101,23 @@
 
  __Effective Date__ 
 
-[Pub. L. 103–172, § 3][/us/pl/103/172/s3], Dec. 2, 1993, [107 Stat. 1997][/us/stat/107/1997], provided that: 
+[Pub. L. 103–172][/us/pl/103/172], § 3, Dec. 2, 1993, [107 Stat. 1997][/us/stat/107/1997], provided that: 
 
 > “This Act \[enacting this section and provisions set out as notes under this section and [section 7901 of this title][/us/usc/t5/s7901]\] and the amendments made by this Act shall take effect on January 1, 1994.”
 
  __Transit Subsidy for Department of Labor Employees of National Capital Region__ 
 
-[Pub. L. 111–8, div. F, title I, § 104][/us/pl/111/8/s104], Mar. 11, 2009, [123 Stat. 761][/us/stat/123/761], provided that: 
+[Pub. L. 111–8, div. F, title I][/us/pl/111/8/dF/tI], § 104, Mar. 11, 2009, [123 Stat. 761][/us/stat/123/761], provided that: 
 
 > “After September 30, 2008, the Secretary of Labor shall issue a monthly transit subsidy of not less than the full amount (of not less than $115) that each of its employees of the National Capital Region is eligible to receive.”
 
-[Pub. L. 110–161, div. G, title I, § 104][/us/pl/110/161/s104], Dec. 26, 2007, [121 Stat. 2167][/us/stat/121/2167], provided that: 
+[Pub. L. 110–161, div. G, title I][/us/pl/110/161/dG/tI], § 104, Dec. 26, 2007, [121 Stat. 2167][/us/stat/121/2167], provided that: 
 
 > “After September 30, 2007, the Secretary of Labor shall issue a monthly transit subsidy of not less than the full amount (of not less than $110) that each of its employees of the National Capital Region is eligible to receive.”
 
  __Transit Pass Transportation Fringe Benefits__ 
 
-[Pub. L. 109–59, title III, § 3049(a)][/us/pl/109/59/s3049/a], Aug. 10, 2005, [119 Stat. 1711][/us/stat/119/1711], as amended by [Pub. L. 109–435, title VI, § 604(f)][/us/pl/109/435/s604/f], Dec. 20, 2006, [120 Stat. 3242][/us/stat/120/3242], provided that:
+[Pub. L. 109–59, title III][/us/pl/109/59/tIII], § 3049(a), Aug. 10, 2005, [119 Stat. 1711][/us/stat/119/1711], as amended by [Pub. L. 109–435, title VI][/us/pl/109/435/tVI], § 604(f), Dec. 20, 2006, [120 Stat. 3242][/us/stat/120/3242], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -153,21 +153,21 @@
 
  __Transportation Subsidy for Employees of the Senate__ 
 
-    [Pub. L. 107–68, title I, § 112][/us/pl/107/68/s112], Nov. 12, 2001, [115 Stat. 569][/us/stat/115/569], authorized an employing office of an employee of the Senate to provide a monthly transportation subsidy to such employee up to the maximum monthly amount authorized under [section 132(f)(2)(A) of Title 26][/us/usc/t26/s132/f/2/A], Internal Revenue Code.
+    [Pub. L. 107–68, title I][/us/pl/107/68/tI], § 112, Nov. 12, 2001, [115 Stat. 569][/us/stat/115/569], authorized an employing office of an employee of the Senate to provide a monthly transportation subsidy to such employee up to the maximum monthly amount authorized under [section 132(f)(2)(A) of Title 26][/us/usc/t26/s132/f/2/A], Internal Revenue Code.
 
  __Transit Subsidies; Appropriations__ 
 
-[Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title II, § 210\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–359, provided that: 
+[Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(f) \[title II, § 210\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–359, provided that: 
 
 > “Funds appropriated in this Act or subsequent Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Acts, for the National Institutes of Health may be used to provide transit subsidies in amounts consistent with the transportation subsidy programs authorized under [section 629 of Public Law 101–509][/us/pl/101/509/s629] \[see note preceding [section 7901 of this title][/us/usc/t5/s7901]\] to non-FTE bearing positions including trainees, visiting fellows and volunteers.”
 
     Similar provisions were contained in the following prior appropriations act:
 
-    [Pub. L. 105–78, title II, § 210][/us/pl/105/78/s210], Nov. 13, 1997, [111 Stat. 1489][/us/stat/111/1489].
+    [Pub. L. 105–78, title II][/us/pl/105/78/tII], § 210, Nov. 13, 1997, [111 Stat. 1489][/us/stat/111/1489].
 
  __Purpose of__  __[__  __Pub. L. 103–172__  __][/us/pl/103/172]__ 
 
-[Pub. L. 103–172, § 1(b)][/us/pl/103/172/s1/b], Dec. 2, 1993, [107 Stat. 1995][/us/stat/107/1995], provided that: 
+[Pub. L. 103–172][/us/pl/103/172], § 1(b), Dec. 2, 1993, [107 Stat. 1995][/us/stat/107/1995], provided that: 
 
 > “The purpose of this Act \[enacting this section and provisions set out as notes under this section and [section 7901 of this title][/us/usc/t5/s7901]\] is to improve air quality and to reduce traffic congestion by providing for the establishment of programs to encourage Federal employees to commute by means other than single-occupancy motor vehicles.”
 
@@ -198,11 +198,11 @@
 ----------
 ----------
 
-[/us/pl/103/172/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F172%2Fs2%2Fa
+[/us/pl/103/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F172
 [/us/stat/107/1995]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1995
-[/us/pl/107/296/s1314/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1314%2Fa
+[/us/pl/107/296/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXIII
 [/us/stat/116/2296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2296
-[/us/pl/113/235/s1301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fb
+[/us/pl/113/235/dH/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2FdH%2FtI
 [/us/stat/128/2537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2537
 [/us/usc/t26/s132/f/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs132%2Ff%2F5
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
@@ -211,29 +211,29 @@
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/pl/107/296/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs4
 [/us/usc/t6/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs101
-[/us/pl/103/172/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F172%2Fs3
+[/us/pl/103/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F172
 [/us/stat/107/1997]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1997
 [/us/usc/t5/s7901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs7901
-[/us/pl/111/8/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8%2Fs104
+[/us/pl/111/8/dF/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8%2FdF%2FtI
 [/us/stat/123/761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F761
-[/us/pl/110/161/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs104
+[/us/pl/110/161/dG/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2FdG%2FtI
 [/us/stat/121/2167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2167
-[/us/pl/109/59/s3049/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs3049%2Fa
+[/us/pl/109/59/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtIII
 [/us/stat/119/1711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1711
-[/us/pl/109/435/s604/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2Fs604%2Ff
+[/us/pl/109/435/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2FtVI
 [/us/stat/120/3242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3242
 [/us/usc/t5/s7905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs7905
-[/us/pl/107/68/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F68%2Fs112
+[/us/pl/107/68/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F68%2FtI
 [/us/stat/115/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F569
 [/us/usc/t26/s132/f/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs132%2Ff%2F2%2FA
-[/us/pl/105/277/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Ff
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-337
 [/us/pl/101/509/s629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2Fs629
 [/us/usc/t5/s7901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs7901
-[/us/pl/105/78/s210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F78%2Fs210
+[/us/pl/105/78/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F78%2FtII
 [/us/stat/111/1489]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1489
 [/us/pl/103/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F172
-[/us/pl/103/172/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F172%2Fs1%2Fb
+[/us/pl/103/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F172
 [/us/stat/107/1995]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1995
 [/us/usc/t5/s7901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs7901
 [/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178

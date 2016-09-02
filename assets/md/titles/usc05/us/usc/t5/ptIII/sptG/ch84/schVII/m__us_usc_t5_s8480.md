@@ -23,7 +23,7 @@
 
     (d) The Executive Director shall prescribe regulations to carry out subsection (a).
 
-(Added [Pub. L. 111–31, div. B, title I, § 107(a)][/us/pl/111/31/s107/a], June 22, 2009, [123 Stat. 1856][/us/stat/123/1856].)
+(Added [Pub. L. 111–31, div. B, title I][/us/pl/111/31/dB/tI], § 107(a), June 22, 2009, [123 Stat. 1856][/us/stat/123/1856].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/111/31/s107/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31%2Fs107%2Fa
+[/us/pl/111/31/dB/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31%2FdB%2FtI
 [/us/stat/123/1856]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1856
 
 

@@ -17,7 +17,7 @@
 
     Each agency shall appoint as many administrative law judges as are necessary for proceedings required to be conducted in accordance with sections 556 and 557 of this title. Administrative law judges shall be assigned to cases in rotation so far as practicable, and may not perform duties inconsistent with their duties and responsibilities as administrative law judges.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 415][/us/stat/80/415]; [Pub. L. 95–251, § 2(a)(1)][/us/pl/95/251/s2/a/1], (b)(2), (d)(1), Mar. 27, 1978, [92 Stat. 183][/us/stat/92/183], 184.)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 415][/us/stat/80/415]; [Pub. L. 95–251][/us/pl/95/251], § 2(a)(1), (b)(2), (d)(1), Mar. 27, 1978, [92 Stat. 183][/us/stat/92/183], 184.)
 
 <table>
 
@@ -75,7 +75,7 @@ June 11, 1946, ch. 324, § 11 (1st sentence), 60 Stat. 244.  </td>
 
  __References to Hearing Examiner Deemed References to Administrative Law Judge__ 
 
-[Pub. L. 95–251, § 3][/us/pl/95/251/s3], Mar. 27, 1978, [92 Stat. 184][/us/stat/92/184], provided that: 
+[Pub. L. 95–251][/us/pl/95/251], § 3, Mar. 27, 1978, [92 Stat. 184][/us/stat/92/184], provided that: 
 
 > “Any reference in any law, regulation, or order to a hearing examiner appointed under [section 3105 of title 5][/us/usc/t5/s3105], United States Code, shall be deemed to be a reference to an administrative law judge.”
 
@@ -116,10 +116,10 @@ June 11, 1946, ch. 324, § 11 (1st sentence), 60 Stat. 244.  </td>
 
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F415
-[/us/pl/95/251/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F251%2Fs2%2Fa%2F1
+[/us/pl/95/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F251
 [/us/stat/92/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F183
 [/us/pl/95/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F251
-[/us/pl/95/251/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F251%2Fs3
+[/us/pl/95/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F251
 [/us/stat/92/184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F184
 [/us/usc/t5/s3105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3105
 [/us/stat/67/633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F633

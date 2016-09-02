@@ -43,7 +43,7 @@
 
         following a term of employment not extending beyond the period named by the head of the agency at the time of consent to transfer or, in the absence of a named period, not extending beyond the first 5 consecutive years, or any extension thereof, after entering the employ of the international organization.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 429][/us/stat/80/429]; [Pub. L. 91–175][/us/pl/91/175], pt. V, § 502(b), Dec. 30, 1969, [83 Stat. 825][/us/stat/83/825]; [Pub. L. 94–183, § 2(9)][/us/pl/94/183/s2/9], Dec. 31, 1975, [89 Stat. 1057][/us/stat/89/1057].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 429][/us/stat/80/429]; [Pub. L. 91–175][/us/pl/91/175], pt. V, § 502(b), Dec. 30, 1969, [83 Stat. 825][/us/stat/83/825]; [Pub. L. 94–183][/us/pl/94/183], § 2(9), Dec. 31, 1975, [89 Stat. 1057][/us/stat/89/1057].)
 
 <table>
 
@@ -123,7 +123,7 @@ Aug. 28, 1958, Pub. L. 85–795, § 2, 72 Stat. 959.  </td>
 [/us/stat/80/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F429
 [/us/pl/91/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F175
 [/us/stat/83/825]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F825
-[/us/pl/94/183/s2/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F183%2Fs2%2F9
+[/us/pl/94/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F183
 [/us/stat/89/1057]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F1057
 [/us/pl/94/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F183
 [/us/pl/91/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F175

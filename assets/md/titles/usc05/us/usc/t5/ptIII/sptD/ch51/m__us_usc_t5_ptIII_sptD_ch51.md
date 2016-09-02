@@ -147,11 +147,11 @@
 
  __Amendments__ 
 
-    1992—[Pub. L. 102–378, § 2(22)][/us/pl/102/378/s2/22], Oct. 2, 1992, [106 Stat. 1348][/us/stat/106/1348], substituted “above GS–15” for “at GS–16, 17, and 18” in item 5108.
+    1992—[Pub. L. 102–378][/us/pl/102/378], § 2(22), Oct. 2, 1992, [106 Stat. 1348][/us/stat/106/1348], substituted “above GS–15” for “at GS–16, 17, and 18” in item 5108.
 
-    1986—[Pub. L. 99–386, title I, § 110(b)][/us/pl/99/386/s110/b], Aug. 22, 1986, [100 Stat. 822][/us/stat/100/822], struck out item 5114 “Reports; positions in GS–16, 17, and 18”.
+    1986—[Pub. L. 99–386, title I][/us/pl/99/386/tI], § 110(b), Aug. 22, 1986, [100 Stat. 822][/us/stat/100/822], struck out item 5114 “Reports; positions in GS–16, 17, and 18”.
 
-    1978—[Pub. L. 95–454, title IX, § 906(a)(17)][/us/pl/95/454/s906/a/17], Oct. 13, 1978, [92 Stat. 1226][/us/stat/92/1226], substituted “Office of Personnel Management” for “Civil Service Commission” in item 5112.
+    1978—[Pub. L. 95–454, title IX][/us/pl/95/454/tIX], § 906(a)(17), Oct. 13, 1978, [92 Stat. 1226][/us/stat/92/1226], substituted “Office of Personnel Management” for “Civil Service Commission” in item 5112.
 
 ----------
 
@@ -160,11 +160,11 @@
 ----------
 ----------
 
-[/us/pl/102/378/s2/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378%2Fs2%2F22
+[/us/pl/102/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378
 [/us/stat/106/1348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1348
-[/us/pl/99/386/s110/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F386%2Fs110%2Fb
+[/us/pl/99/386/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F386%2FtI
 [/us/stat/100/822]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F822
-[/us/pl/95/454/s906/a/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs906%2Fa%2F17
+[/us/pl/95/454/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtIX
 [/us/stat/92/1226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1226
 
 

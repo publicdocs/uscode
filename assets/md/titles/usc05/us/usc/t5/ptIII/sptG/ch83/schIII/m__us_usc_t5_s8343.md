@@ -31,7 +31,7 @@
 
     (e) If a present or former employee or Member not retired dies, the voluntary contribution account is paid under [section 8342(c) of this title][/us/usc/t5/s8342/c]. If all additional annuities or any right thereto based on the voluntary contribution account of a deceased employee or Member terminate before the total additional annuity paid equals the account, the difference is paid under [section 8342(c) of this title][/us/usc/t5/s8342/c].
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 580][/us/stat/80/580]; [Pub. L. 90–83, § 1(82)][/us/pl/90/83/s1/82], Sept. 11, 1967, [81 Stat. 217][/us/stat/81/217]; [Pub. L. 95–454, title IX, § 906(a)(2)][/us/pl/95/454/s906/a/2], (3), Oct. 13, 1978, [92 Stat. 1224][/us/stat/92/1224]; [Pub. L. 97–253, title III, § 303(a)(2)][/us/pl/97/253/s303/a/2], Sept. 8, 1982, [96 Stat. 794][/us/stat/96/794].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 580][/us/stat/80/580]; [Pub. L. 90–83][/us/pl/90/83], § 1(82), Sept. 11, 1967, [81 Stat. 217][/us/stat/81/217]; [Pub. L. 95–454, title IX][/us/pl/95/454/tIX], § 906(a)(2), (3), Oct. 13, 1978, [92 Stat. 1224][/us/stat/92/1224]; [Pub. L. 97–253, title III][/us/pl/97/253/tIII], § 303(a)(2), Sept. 8, 1982, [96 Stat. 794][/us/stat/96/794].)
 
 <table>
 
@@ -119,7 +119,7 @@ Aug. 14, 1958, Pub. L. 85–661, § 1, 72 Stat. 614.  </td>
 
  __Effective Date of 1982 Amendment__ 
 
-    Amendment by [Pub. L. 97–253][/us/pl/97/253] effective with respect to deposits for service performed, on or after Oct. 1, 1982, and with respect to refunds for which application is received by Office of Personnel Management on or after Oct. 1, 1982, see [section 303(d)(1) of Pub. L. 97–253][/us/pl/97/253/s303/d/1], as amended by [Pub. L. 97–346, § 3(j)(1)][/us/pl/97/346/s3/j/1], Oct. 15, 1982, [96 Stat. 1649][/us/stat/96/1649], set out as a note under [section 8334 of this title][/us/usc/t5/s8334].
+    Amendment by [Pub. L. 97–253][/us/pl/97/253] effective with respect to deposits for service performed, on or after Oct. 1, 1982, and with respect to refunds for which application is received by Office of Personnel Management on or after Oct. 1, 1982, see [section 303(d)(1) of Pub. L. 97–253][/us/pl/97/253/s303/d/1], as amended by [Pub. L. 97–346][/us/pl/97/346], § 3(j)(1), Oct. 15, 1982, [96 Stat. 1649][/us/stat/96/1649], set out as a note under [section 8334 of this title][/us/usc/t5/s8334].
 
  __Effective Date of 1978 Amendment__ 
 
@@ -137,11 +137,11 @@ Aug. 14, 1958, Pub. L. 85–661, § 1, 72 Stat. 614.  </td>
 [/us/usc/t5/s8342/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8342%2Fc
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F580
-[/us/pl/90/83/s1/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83%2Fs1%2F82
+[/us/pl/90/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83
 [/us/stat/81/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F217
-[/us/pl/95/454/s906/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs906%2Fa%2F2
+[/us/pl/95/454/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtIX
 [/us/stat/92/1224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1224
-[/us/pl/97/253/s303/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F253%2Fs303%2Fa%2F2
+[/us/pl/97/253/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F253%2FtIII
 [/us/stat/96/794]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F794
 [/us/usc/t5/s8343/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8343%2Fa%2F1
 [/us/pl/97/253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F253
@@ -149,7 +149,7 @@ Aug. 14, 1958, Pub. L. 85–661, § 1, 72 Stat. 614.  </td>
 [/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454
 [/us/pl/97/253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F253
 [/us/pl/97/253/s303/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F253%2Fs303%2Fd%2F1
-[/us/pl/97/346/s3/j/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F346%2Fs3%2Fj%2F1
+[/us/pl/97/346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F346
 [/us/stat/96/1649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1649
 [/us/usc/t5/s8334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8334
 [/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454

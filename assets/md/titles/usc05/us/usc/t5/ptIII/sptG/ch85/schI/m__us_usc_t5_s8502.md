@@ -25,13 +25,13 @@
 
     (b) The agreement shall provide that compensation will be paid by the State to a Federal employee in the same amount, on the same terms, and subject to the same conditions as the compensation which would be payable to him under the unemployment compensation law of the State if his Federal service and Federal wages assigned under [section 8504 of this title][/us/usc/t5/s8504] to the State had been included as employment and wages under that State law.
 
-    \[(c) Repealed. [Pub. L. 90–83, § 1(86)(B)][/us/pl/90/83/s1/86/B], Sept. 11, 1967, [81 Stat. 218][/us/stat/81/218].\]
+    \[(c) Repealed. [Pub. L. 90–83][/us/pl/90/83], § 1(86)(B), Sept. 11, 1967, [81 Stat. 218][/us/stat/81/218].\]
 
     (d) A determination by a State agency with respect to entitlement to compensation under an agreement is subject to review in the same manner and to the same extent as determinations under the State unemployment compensation law, and only in that manner and to that extent.
 
     (e) Each agreement shall provide the terms and conditions on which it may be amended or terminated.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 586][/us/stat/80/586]; [Pub. L. 90–83, § 1(86)][/us/pl/90/83/s1/86], Sept. 11, 1967, [81 Stat. 218][/us/stat/81/218].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 586][/us/stat/80/586]; [Pub. L. 90–83][/us/pl/90/83], § 1(86), Sept. 11, 1967, [81 Stat. 218][/us/stat/81/218].)
 
 <table>
 
@@ -123,11 +123,11 @@ Sept. 13, 1960, Pub. L. 86–778, § 542(b)(1)(A), 74 Stat. 985.  </td>
 ----------
 
 [/us/usc/t5/s8504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8504
-[/us/pl/90/83/s1/86/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83%2Fs1%2F86%2FB
+[/us/pl/90/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83
 [/us/stat/81/218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F218
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F586
-[/us/pl/90/83/s1/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83%2Fs1%2F86
+[/us/pl/90/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83
 [/us/stat/81/218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F218
 [/us/usc/t5/s8502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8502
 [/us/act/1960-09-13/s542/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1960-09-13%2Fs542%2Fb%2F1%2FA

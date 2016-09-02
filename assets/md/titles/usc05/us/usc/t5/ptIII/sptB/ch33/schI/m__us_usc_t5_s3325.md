@@ -21,7 +21,7 @@
 
     (c) The Director of the Office of Personnel Management shall prescribe such regulations as may be necessary to carry out the purpose of this section.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 423][/us/stat/80/423]; [Pub. L. 95–454, title IX, § 906(a)(2)][/us/pl/95/454/s906/a/2], Oct. 13, 1978, [92 Stat. 1224][/us/stat/92/1224]; [Pub. L. 102–378, § 2(12)][/us/pl/102/378/s2/12], Oct. 2, 1992, [106 Stat. 1347][/us/stat/106/1347]; [Pub. L. 110–372, § 2(c)(3)][/us/pl/110/372/s2/c/3], Oct. 8, 2008, [122 Stat. 4044][/us/stat/122/4044].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 423][/us/stat/80/423]; [Pub. L. 95–454, title IX][/us/pl/95/454/tIX], § 906(a)(2), Oct. 13, 1978, [92 Stat. 1224][/us/stat/92/1224]; [Pub. L. 102–378][/us/pl/102/378], § 2(12), Oct. 2, 1992, [106 Stat. 1347][/us/stat/106/1347]; [Pub. L. 110–372][/us/pl/110/372], § 2(c)(3), Oct. 8, 2008, [122 Stat. 4044][/us/stat/122/4044].)
 
 <table>
 
@@ -93,9 +93,9 @@ Oct. 11, 1962, Pub. L. 87–793, § 1001(a)(2) “(g) (2d sentence)”, 76 Sta
 
  __Amendments__ 
 
-    2008—Subsec. (a). [Pub. L. 110–372, § 2(c)(3)(A)][/us/pl/110/372/s2/c/3/A], substituted “on the basis of standards developed by the agency involved in accordance with criteria specified in regulations prescribed by the Director of the Office of Personnel Management” for “or its designee for this purpose”.
+    2008—Subsec. (a). [Pub. L. 110–372][/us/pl/110/372], § 2(c)(3)(A), substituted “on the basis of standards developed by the agency involved in accordance with criteria specified in regulations prescribed by the Director of the Office of Personnel Management” for “or its designee for this purpose”.
 
-    Subsec. (c). [Pub. L. 110–372, § 2(c)(3)(B)][/us/pl/110/372/s2/c/3/B], added subsec. (c).
+    Subsec. (c). [Pub. L. 110–372][/us/pl/110/372], § 2(c)(3)(B), added subsec. (c).
 
     1992—Subsec. (b). [Pub. L. 102–378][/us/pl/102/378] substituted “section 3104(c)” for “[section 3104(a)(7) of this title][/us/usc/t5/s3104/a/7]”.
 
@@ -119,16 +119,16 @@ Oct. 11, 1962, Pub. L. 87–793, § 1001(a)(2) “(g) (2d sentence)”, 76 Sta
 [/us/usc/t5/s3104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3104
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F423
-[/us/pl/95/454/s906/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs906%2Fa%2F2
+[/us/pl/95/454/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtIX
 [/us/stat/92/1224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1224
-[/us/pl/102/378/s2/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378%2Fs2%2F12
+[/us/pl/102/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378
 [/us/stat/106/1347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1347
-[/us/pl/110/372/s2/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F372%2Fs2%2Fc%2F3
+[/us/pl/110/372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F372
 [/us/stat/122/4044]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4044
 [/us/act/1947-08-01/ch433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-08-01%2Fch433
 [/us/stat/61/715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F715
-[/us/pl/110/372/s2/c/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F372%2Fs2%2Fc%2F3%2FA
-[/us/pl/110/372/s2/c/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F372%2Fs2%2Fc%2F3%2FB
+[/us/pl/110/372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F372
+[/us/pl/110/372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F372
 [/us/pl/102/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378
 [/us/usc/t5/s3104/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3104%2Fa%2F7
 [/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454

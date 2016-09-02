@@ -29,7 +29,7 @@
 
     (d) This section does not apply to appropriations for the Foreign Service of the United States.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 505][/us/stat/80/505]; [Pub. L. 97–253, title III, § 351(a)][/us/pl/97/253/s351/a], (b), Sept. 8, 1982, [96 Stat. 800][/us/stat/96/800]; [Pub. L. 104–201, div. A, title XVII, § 1723(b)(1)][/us/pl/104/201/s1723/b/1], Sept. 23, 1996, [110 Stat. 2759][/us/stat/110/2759]; [Pub. L. 105–264, § 6(8)][/us/pl/105/264/s6/8], Oct. 19, 1998, [112 Stat. 2356][/us/stat/112/2356].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 505][/us/stat/80/505]; [Pub. L. 97–253, title III][/us/pl/97/253/tIII], § 351(a), (b), Sept. 8, 1982, [96 Stat. 800][/us/stat/96/800]; [Pub. L. 104–201, div. A, title XVII][/us/pl/104/201/dA/tXVII], § 1723(b)(1), Sept. 23, 1996, [110 Stat. 2759][/us/stat/110/2759]; [Pub. L. 105–264][/us/pl/105/264], § 6(8), Oct. 19, 1998, [112 Stat. 2356][/us/stat/112/2356].)
 
 <table>
 
@@ -101,11 +101,11 @@ Sept. 2, 1958, Pub. L. 85–858, 72 Stat. 1274.  </td>
 
     1998—Subsec. (b). [Pub. L. 105–264][/us/pl/105/264] substituted “an employee of the Government” for “an employee of the United States”.
 
-    1996—Subsecs. (a) to (c)(1). [Pub. L. 104–201, § 1723(b)(1)][/us/pl/104/201/s1723/b/1], substituted “Under regulations prescribed under [section 5738 of this title][/us/usc/t5/s5738]” for “Under such regulations as the President may prescribe”.
+    1996—Subsecs. (a) to (c)(1). [Pub. L. 104–201][/us/pl/104/201], § 1723(b)(1), substituted “Under regulations prescribed under [section 5738 of this title][/us/usc/t5/s5738]” for “Under such regulations as the President may prescribe”.
 
-    1982—Subsecs. (a), (b). [Pub. L. 97–253, § 351(a)][/us/pl/97/253/s351/a], inserted “, Alaska, and Hawaii” after “continental United States” wherever appearing.
+    1982—Subsecs. (a), (b). [Pub. L. 97–253][/us/pl/97/253], § 351(a), inserted “, Alaska, and Hawaii” after “continental United States” wherever appearing.
 
-    Subsecs. (c), (d). [Pub. L. 97–253, § 351(b)][/us/pl/97/253/s351/b], added subsec. (c) and redesignated former subsec. (c) as (d).
+    Subsecs. (c), (d). [Pub. L. 97–253][/us/pl/97/253], § 351(b), added subsec. (c) and redesignated former subsec. (c) as (d).
 
  __Effective Date of 1996 Amendment__ 
 
@@ -113,7 +113,7 @@ Sept. 2, 1958, Pub. L. 85–858, 72 Stat. 1274.  </td>
 
  __Effective Date of 1982 Amendment__ 
 
-[Pub. L. 97–253, title III, § 351(c)][/us/pl/97/253/s351/c], (d), Sept. 8, 1982, [96 Stat. 800][/us/stat/96/800], as amended by [Pub. L. 97–346, § 3(m)][/us/pl/97/346/s3/m], Oct. 15, 1982, [96 Stat. 1649][/us/stat/96/1649], provided that:
+[Pub. L. 97–253, title III][/us/pl/97/253/tIII], § 351(c), (d), Sept. 8, 1982, [96 Stat. 800][/us/stat/96/800], as amended by [Pub. L. 97–346][/us/pl/97/346], § 3(m), Oct. 15, 1982, [96 Stat. 1649][/us/stat/96/1649], provided that:
 
 >     “(c)
 
@@ -141,23 +141,23 @@ Sept. 2, 1958, Pub. L. 85–858, 72 Stat. 1274.  </td>
 [/us/usc/t5/s5738]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5738
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F505
-[/us/pl/97/253/s351/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F253%2Fs351%2Fa
+[/us/pl/97/253/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F253%2FtIII
 [/us/stat/96/800]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F800
-[/us/pl/104/201/s1723/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1723%2Fb%2F1
+[/us/pl/104/201/dA/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtXVII
 [/us/stat/110/2759]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2759
-[/us/pl/105/264/s6/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F264%2Fs6%2F8
+[/us/pl/105/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F264
 [/us/stat/112/2356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2356
 [/us/pl/105/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F264
-[/us/pl/104/201/s1723/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1723%2Fb%2F1
+[/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
 [/us/usc/t5/s5738]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5738
-[/us/pl/97/253/s351/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F253%2Fs351%2Fa
-[/us/pl/97/253/s351/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F253%2Fs351%2Fb
+[/us/pl/97/253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F253
+[/us/pl/97/253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F253
 [/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
 [/us/pl/104/201/s1725/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1725%2Fa
 [/us/usc/t5/s5722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5722
-[/us/pl/97/253/s351/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F253%2Fs351%2Fc
+[/us/pl/97/253/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F253%2FtIII
 [/us/stat/96/800]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F800
-[/us/pl/97/346/s3/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F346%2Fs3%2Fm
+[/us/pl/97/346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F346
 [/us/stat/96/1649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1649
 [/us/usc/t5/s5721/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5721%2F2
 

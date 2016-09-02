@@ -89,7 +89,7 @@
 
             (C) Medicare program information described in paragraph (3)(B)(ii) will be supplied to carriers under paragraph (3)(A).
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 603][/us/stat/80/603]; [Pub. L. 101–508, title VII, § 7002(f)(1)][/us/pl/101/508/s7002/f/1], Nov. 5, 1990, [104 Stat. 1388–330][/us/stat/104/1388-330]; [Pub. L. 102–378, § 2(76)][/us/pl/102/378/s2/76], Oct. 2, 1992, [106 Stat. 1355][/us/stat/106/1355]; [Pub. L. 103–66, title XI, § 11003(a)][/us/pl/103/66/s11003/a], Aug. 10, 1993, [107 Stat. 409][/us/stat/107/409].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 603][/us/stat/80/603]; [Pub. L. 101–508, title VII][/us/pl/101/508/tVII], § 7002(f)(1), Nov. 5, 1990, [104 Stat. 1388–330][/us/stat/104/1388-330]; [Pub. L. 102–378][/us/pl/102/378], § 2(76), Oct. 2, 1992, [106 Stat. 1355][/us/stat/106/1355]; [Pub. L. 103–66, title XI][/us/pl/103/66/tXI], § 11003(a), Aug. 10, 1993, [107 Stat. 409][/us/stat/107/409].)
 
 <table>
 
@@ -145,11 +145,11 @@ Sept. 28, 1959, Pub. L. 86–382, § 5, 73 Stat. 712.  </td>
 
  __Amendments__ 
 
-    1993—Subsec. (b)(1). [Pub. L. 103–66, § 11003(a)(1)][/us/pl/103/66/s11003/a/1], designated existing provisions as subpar. (A) and added subpars. (B) and (C).
+    1993—Subsec. (b)(1). [Pub. L. 103–66][/us/pl/103/66], § 11003(a)(1), designated existing provisions as subpar. (A) and added subpars. (B) and (C).
 
-    Subsec. (b)(3)(B). [Pub. L. 103–66, § 11003(a)(2)][/us/pl/103/66/s11003/a/2], inserted cl. (i) designation and added cl. (ii).
+    Subsec. (b)(3)(B). [Pub. L. 103–66][/us/pl/103/66], § 11003(a)(2), inserted cl. (i) designation and added cl. (ii).
 
-    Subsec. (b)(4). [Pub. L. 103–66, § 11003(a)(3)][/us/pl/103/66/s11003/a/3], added par. (4).
+    Subsec. (b)(4). [Pub. L. 103–66][/us/pl/103/66], § 11003(a)(3), added par. (4).
 
     1992—Subsec. (a). [Pub. L. 102–378][/us/pl/102/378] substituted “this subsection” for “this section” in pars. (3) and (4) and in last sentence.
 
@@ -157,19 +157,19 @@ Sept. 28, 1959, Pub. L. 86–382, § 5, 73 Stat. 712.  </td>
 
  __Effective Date of 1993 Amendment__ 
 
-[Pub. L. 103–66, title XI, § 11003(b)][/us/pl/103/66/s11003/b], Aug. 10, 1993, [107 Stat. 410][/us/stat/107/410], provided that: 
+[Pub. L. 103–66, title XI][/us/pl/103/66/tXI], § 11003(b), Aug. 10, 1993, [107 Stat. 410][/us/stat/107/410], provided that: 
 
 > “The amendments made by subsection (a) \[amending this section\] shall apply with respect to contract years beginning on or after January 1, 1995.”
 
  __Effective Date of 1990 Amendment__ 
 
-[Pub. L. 101–508, title VII, § 7002(f)(2)][/us/pl/101/508/s7002/f/2], Nov. 5, 1990, [104 Stat. 1388–331][/us/stat/104/1388-331], provided that: 
+[Pub. L. 101–508, title VII][/us/pl/101/508/tVII], § 7002(f)(2), Nov. 5, 1990, [104 Stat. 1388–331][/us/stat/104/1388-331], provided that: 
 
 > “The amendments made by this subsection \[amending this section\] shall apply with respect to contract years beginning on or after January 1, 1992.”
 
  __Mental Health, Alcoholism, and Drug Addiction Benefits; Congressional Findings; Sense of Congress__ 
 
-[Pub. L. 99–251, title I, § 107][/us/pl/99/251/s107], Feb. 27, 1986, [100 Stat. 16][/us/stat/100/16], provided that:
+[Pub. L. 99–251, title I][/us/pl/99/251/tI], § 107, Feb. 27, 1986, [100 Stat. 16][/us/stat/100/16], provided that:
 
 >     “(a)  __Findings__  __.—__ 
 
@@ -217,25 +217,25 @@ Sept. 28, 1959, Pub. L. 86–382, § 5, 73 Stat. 712.  </td>
 [/us/usc/t42/s1395u/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395u%2Fh
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F603
-[/us/pl/101/508/s7002/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs7002%2Ff%2F1
+[/us/pl/101/508/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtVII
 [/us/stat/104/1388-330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-330
-[/us/pl/102/378/s2/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378%2Fs2%2F76
+[/us/pl/102/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378
 [/us/stat/106/1355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1355
-[/us/pl/103/66/s11003/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs11003%2Fa
+[/us/pl/103/66/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2FtXI
 [/us/stat/107/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F409
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
 [/us/usc/t42/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1305
-[/us/pl/103/66/s11003/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs11003%2Fa%2F1
-[/us/pl/103/66/s11003/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs11003%2Fa%2F2
-[/us/pl/103/66/s11003/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs11003%2Fa%2F3
+[/us/pl/103/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66
+[/us/pl/103/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66
+[/us/pl/103/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66
 [/us/pl/102/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
-[/us/pl/103/66/s11003/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs11003%2Fb
+[/us/pl/103/66/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2FtXI
 [/us/stat/107/410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F410
-[/us/pl/101/508/s7002/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs7002%2Ff%2F2
+[/us/pl/101/508/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtVII
 [/us/stat/104/1388-331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-331
-[/us/pl/99/251/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F251%2Fs107
+[/us/pl/99/251/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F251%2FtI
 [/us/stat/100/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F16
 
 

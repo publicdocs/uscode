@@ -31,7 +31,7 @@
 
     (e) The authority to conduct test programs under this section shall expire 7 years after the date of the enactment of the Travel and Transportation Reform Act of 1998.
 
-(Added [Pub. L. 105–264, § 5(a)][/us/pl/105/264/s5/a], Oct. 19, 1998, [112 Stat. 2354][/us/stat/112/2354].)
+(Added [Pub. L. 105–264][/us/pl/105/264], § 5(a), Oct. 19, 1998, [112 Stat. 2354][/us/stat/112/2354].)
 
  __References in Text__ 
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/pl/105/264/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F264%2Fs5%2Fa
+[/us/pl/105/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F264
 [/us/stat/112/2354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2354
 [/us/pl/105/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F264
 

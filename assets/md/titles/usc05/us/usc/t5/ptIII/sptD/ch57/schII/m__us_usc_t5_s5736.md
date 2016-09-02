@@ -17,11 +17,11 @@
 
     An employee of a nonappropriated fund instrumentality of the Department of Defense or the Coast Guard described in [section 2105(c) of this title][/us/usc/t5/s2105/c] who moves, without a break in service of more than 3 days, to a position in the Department of Defense or the Coast Guard, respectively, may be authorized travel, transportation, and relocation expenses and allowances under the same conditions and to the same extent authorized by this subchapter for transferred employees.
 
-(Added [Pub. L. 104–201, div. A, title XVI, § 1605(a)(1)][/us/pl/104/201/s1605/a/1], Sept. 23, 1996, [110 Stat. 2736][/us/stat/110/2736].)
+(Added [Pub. L. 104–201, div. A, title XVI][/us/pl/104/201/dA/tXVI], § 1605(a)(1), Sept. 23, 1996, [110 Stat. 2736][/us/stat/110/2736].)
 
  __Effective Date__ 
 
-[Pub. L. 104–201, div. A, title XVI, § 1605(b)][/us/pl/104/201/s1605/b], Sept. 23, 1996, [110 Stat. 2736][/us/stat/110/2736], provided that: 
+[Pub. L. 104–201, div. A, title XVI][/us/pl/104/201/dA/tXVI], § 1605(b), Sept. 23, 1996, [110 Stat. 2736][/us/stat/110/2736], provided that: 
 
 > “[Section 5736 of title 5][/us/usc/t5/s5736], United States Code (as added by subsection (a)(1)), shall apply to moves between positions as described in such section that are effective on or after October 1, 1996.”
 
@@ -37,9 +37,9 @@
 ----------
 
 [/us/usc/t5/s2105/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs2105%2Fc
-[/us/pl/104/201/s1605/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1605%2Fa%2F1
+[/us/pl/104/201/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtXVI
 [/us/stat/110/2736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2736
-[/us/pl/104/201/s1605/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1605%2Fb
+[/us/pl/104/201/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtXVI
 [/us/stat/110/2736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2736
 [/us/usc/t5/s5736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5736
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542

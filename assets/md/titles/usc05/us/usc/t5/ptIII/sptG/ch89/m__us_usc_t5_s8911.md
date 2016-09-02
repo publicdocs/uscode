@@ -17,7 +17,7 @@
 
     The Director of the Office of Personnel Management shall appoint a committee composed of five members, who serve without pay, to advise the Office regarding matters of concern to employees under this chapter. Each member of the committee shall be an employee enrolled under this chapter or an elected official of an employee organization.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 607][/us/stat/80/607]; [Pub. L. 95–454, title IX, § 906(a)(1)][/us/pl/95/454/s906/a/1], (4), Oct. 13, 1978, [92 Stat. 1224][/us/stat/92/1224], 1225.)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 607][/us/stat/80/607]; [Pub. L. 95–454, title IX][/us/pl/95/454/tIX], § 906(a)(1), (4), Oct. 13, 1978, [92 Stat. 1224][/us/stat/92/1224], 1225.)
 
 <table>
 
@@ -88,7 +88,7 @@ Sept. 28, 1959, Pub. L. 86–382, § 13, 73 Stat. 716.  </td>
 
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F607
-[/us/pl/95/454/s906/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs906%2Fa%2F1
+[/us/pl/95/454/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtIX
 [/us/stat/92/1224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1224
 [/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454
 [/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454

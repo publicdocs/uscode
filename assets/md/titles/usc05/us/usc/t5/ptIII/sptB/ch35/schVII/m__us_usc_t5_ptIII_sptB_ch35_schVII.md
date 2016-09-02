@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    [Pub. L. 108–447, div. B, title I, § 114(a)][/us/pl/108/447/s114/a], Dec. 8, 2004, [118 Stat. 2869][/us/stat/118/2869], and [Pub. L. 108–458, title II, § 2004(a)][/us/pl/108/458/s2004/a], Dec. 17, 2004, [118 Stat. 3704][/us/stat/118/3704], amended chapter identically adding subchapter VII heading.
+    [Pub. L. 108–447, div. B, title I][/us/pl/108/447/dB/tI], § 114(a), Dec. 8, 2004, [118 Stat. 2869][/us/stat/118/2869], and [Pub. L. 108–458, title II][/us/pl/108/458/tII], § 2004(a), Dec. 17, 2004, [118 Stat. 3704][/us/stat/118/3704], amended chapter identically adding subchapter VII heading.
 
 ----------
 
@@ -26,9 +26,9 @@
 ----------
 ----------
 
-[/us/pl/108/447/s114/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs114%2Fa
+[/us/pl/108/447/dB/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdB%2FtI
 [/us/stat/118/2869]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2869
-[/us/pl/108/458/s2004/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs2004%2Fa
+[/us/pl/108/458/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtII
 [/us/stat/118/3704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3704
 
 

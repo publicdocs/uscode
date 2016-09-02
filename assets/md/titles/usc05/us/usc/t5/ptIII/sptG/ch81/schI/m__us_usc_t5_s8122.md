@@ -37,7 +37,7 @@
 
         (3) run against any individual whose failure to comply is excused by the Secretary on the ground that such notice could not be given because of exceptional circumstances.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 544][/us/stat/80/544]; [Pub. L. 90–83, § 1(57)][/us/pl/90/83/s1/57], Sept. 11, 1967, [81 Stat. 210][/us/stat/81/210]; [Pub. L. 93–416, § 14][/us/pl/93/416/s14], Sept. 7, 1974, [88 Stat. 1147][/us/stat/88/1147].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 544][/us/stat/80/544]; [Pub. L. 90–83][/us/pl/90/83], § 1(57), Sept. 11, 1967, [81 Stat. 210][/us/stat/81/210]; [Pub. L. 93–416][/us/pl/93/416], § 14, Sept. 7, 1974, [88 Stat. 1147][/us/stat/88/1147].)
 
 <table>
 
@@ -193,11 +193,11 @@ July 4, 1966, Pub. L. 89–488, § 9, 80 Stat. 254.  </td>
 
  __Amendments__ 
 
-    1974—Subsec. (a). [Pub. L. 93–416, § 14(1)][/us/pl/93/416/s14/1], substituted provisions requiring filing of claims for compensation within three years after death or disability, and setting forth conditions for waiver of filing within required time periods, for provisions requiring claim for death to be made within one year after death and for disability to be made within 60 days after injury and authorizing extension of time for good cause.
+    1974—Subsec. (a). [Pub. L. 93–416][/us/pl/93/416], § 14(1), substituted provisions requiring filing of claims for compensation within three years after death or disability, and setting forth conditions for waiver of filing within required time periods, for provisions requiring claim for death to be made within one year after death and for disability to be made within 60 days after injury and authorizing extension of time for good cause.
 
-    Subsec. (c). [Pub. L. 93–416, § 14(2)][/us/pl/93/416/s14/2], substituted provisions relating to timeliness of claim for death when claim for injury was timely filed and death was based on same injury, for provisions relating to waiver of compliance with requirements for giving notice of injury and filing claim for compensation.
+    Subsec. (c). [Pub. L. 93–416][/us/pl/93/416], § 14(2), substituted provisions relating to timeliness of claim for death when claim for injury was timely filed and death was based on same injury, for provisions relating to waiver of compliance with requirements for giving notice of injury and filing claim for compensation.
 
-    Subsec. (d). [Pub. L. 93–416, § 14(3)][/us/pl/93/416/s14/3], substituted “(a) and (b)” for “(a)–(c)”, and added cl. (3).
+    Subsec. (d). [Pub. L. 93–416][/us/pl/93/416], § 14(3), substituted “(a) and (b)” for “(a)–(c)”, and added cl. (3).
 
  __Effective Date of 1974 Amendment__ 
 
@@ -217,15 +217,15 @@ July 4, 1966, Pub. L. 89–488, § 9, 80 Stat. 254.  </td>
 [/us/usc/t5/s8119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8119
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F544
-[/us/pl/90/83/s1/57]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83%2Fs1%2F57
+[/us/pl/90/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83
 [/us/stat/81/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F210
-[/us/pl/93/416/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F416%2Fs14
+[/us/pl/93/416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F416
 [/us/stat/88/1147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1147
 [/us/stat/42/650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F650
 [/us/stat/64/1271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1271
-[/us/pl/93/416/s14/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F416%2Fs14%2F1
-[/us/pl/93/416/s14/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F416%2Fs14%2F2
-[/us/pl/93/416/s14/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F416%2Fs14%2F3
+[/us/pl/93/416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F416
+[/us/pl/93/416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F416
+[/us/pl/93/416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F416
 [/us/pl/93/416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F416
 [/us/pl/93/416/s23/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F416%2Fs23%2Fa
 [/us/usc/t5/s8101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8101

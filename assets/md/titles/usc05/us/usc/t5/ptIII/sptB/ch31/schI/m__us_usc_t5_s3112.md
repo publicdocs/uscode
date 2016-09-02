@@ -17,7 +17,7 @@
 
     Under such regulations as the Office of Personnel Management shall prescribe, an agency may make a noncompetitive appointment leading to conversion to career or career-conditional employment of a disabled veteran who has a compensable service-connected disability of 30 percent or more.
 
-(Added [Pub. L. 95–454, title III, § 307(b)(1)][/us/pl/95/454/s307/b/1], Oct. 13, 1978, [92 Stat. 1147][/us/stat/92/1147].)
+(Added [Pub. L. 95–454, title III][/us/pl/95/454/tIII], § 307(b)(1), Oct. 13, 1978, [92 Stat. 1147][/us/stat/92/1147].)
 
  __Effective Date__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/95/454/s307/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs307%2Fb%2F1
+[/us/pl/95/454/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtIII
 [/us/stat/92/1147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1147
 [/us/pl/95/454/s907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs907
 [/us/usc/t5/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs1101

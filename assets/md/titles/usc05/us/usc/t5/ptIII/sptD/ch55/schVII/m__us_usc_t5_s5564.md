@@ -55,7 +55,7 @@
 
         (3) chapter 171 of title 28.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 491][/us/stat/80/491]; [Pub. L. 90–83, § 1(33)][/us/pl/90/83/s1/33], Sept. 11, 1967, [81 Stat. 201][/us/stat/81/201]; [Pub. L. 102–190, div. A, title X, § 1063(a)][/us/pl/102/190/s1063/a], Dec. 5, 1991, [105 Stat. 1476][/us/stat/105/1476]; [Pub. L. 104–316, title II, § 202(a)][/us/pl/104/316/s202/a], Oct. 19, 1996, [110 Stat. 3842][/us/stat/110/3842].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 491][/us/stat/80/491]; [Pub. L. 90–83][/us/pl/90/83], § 1(33), Sept. 11, 1967, [81 Stat. 201][/us/stat/81/201]; [Pub. L. 102–190, div. A, title X][/us/pl/102/190/dA/tX], § 1063(a), Dec. 5, 1991, [105 Stat. 1476][/us/stat/105/1476]; [Pub. L. 104–316, title II][/us/pl/104/316/tII], § 202(a), Oct. 19, 1996, [110 Stat. 3842][/us/stat/110/3842].)
 
 <table>
 
@@ -377,11 +377,11 @@ Oct. 19, 1965, Pub. L. 89–271, 79 Stat. 992.  </td>
 [/us/usc/t14/s507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs507
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/491]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F491
-[/us/pl/90/83/s1/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83%2Fs1%2F33
+[/us/pl/90/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83
 [/us/stat/81/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F201
-[/us/pl/102/190/s1063/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs1063%2Fa
+[/us/pl/102/190/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdA%2FtX
 [/us/stat/105/1476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1476
-[/us/pl/104/316/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2Fs202%2Fa
+[/us/pl/104/316/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2FtII
 [/us/stat/110/3842]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3842
 [/us/stat/60/842-847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F842-847
 [/us/usc/t37/s554/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs554%2Fa

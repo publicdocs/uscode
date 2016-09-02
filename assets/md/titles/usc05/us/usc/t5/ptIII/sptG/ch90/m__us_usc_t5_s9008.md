@@ -57,7 +57,7 @@
 
         (4) The advantages and disadvantages of long-term care insurance generally, relative to other means of accumulating or otherwise acquiring the assets that may be needed to meet the costs of long-term care, such as through tax-qualified retirement programs or other investment vehicles.
 
-(Added [Pub. L. 106–265, title I, § 1002(a)][/us/pl/106/265/s1002/a], Sept. 19, 2000, [114 Stat. 768][/us/stat/114/768].)
+(Added [Pub. L. 106–265, title I][/us/pl/106/265/tI], § 1002(a), Sept. 19, 2000, [114 Stat. 768][/us/stat/114/768].)
 
 ----------
 
@@ -66,7 +66,7 @@
 ----------
 ----------
 
-[/us/pl/106/265/s1002/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F265%2Fs1002%2Fa
+[/us/pl/106/265/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F265%2FtI
 [/us/stat/114/768]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F768
 
 

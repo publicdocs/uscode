@@ -41,27 +41,27 @@
 
         (3) The term “State” means any State, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, the Trust Territory of the Pacific Islands, the Virgin Islands, Guam, American Samoa, or any other territory or possession of the United States.
 
-(Added [Pub. L. 101–391, § 4(a)][/us/pl/101/391/s4/a], Sept. 25, 1990, [104 Stat. 749][/us/stat/104/749]; amended [Pub. L. 105–85, div. A, title XI, § 1107(a)][/us/pl/105/85/s1107/a]–(c), Nov. 18, 1997, [111 Stat. 1924][/us/stat/111/1924], 1925; [Pub. L. 109–295, title VI, § 612(c)][/us/pl/109/295/s612/c], Oct. 4, 2006, [120 Stat. 1410][/us/stat/120/1410].)
+(Added [Pub. L. 101–391][/us/pl/101/391], § 4(a), Sept. 25, 1990, [104 Stat. 749][/us/stat/104/749]; amended [Pub. L. 105–85, div. A, title XI][/us/pl/105/85/dA/tXI], § 1107(a)–(c), Nov. 18, 1997, [111 Stat. 1924][/us/stat/111/1924], 1925; [Pub. L. 109–295, title VI][/us/pl/109/295/tVI], § 612(c), Oct. 4, 2006, [120 Stat. 1410][/us/stat/120/1410].)
 
  __Amendments__ 
 
-    1997—Subsec. (a). [Pub. L. 105–85, § 1107(a)(2)][/us/pl/105/85/s1107/a/2], added subsec. (a). Former subsec. (a) redesignated (b).
+    1997—Subsec. (a). [Pub. L. 105–85][/us/pl/105/85], § 1107(a)(2), added subsec. (a). Former subsec. (a) redesignated (b).
 
-    Subsec. (b). [Pub. L. 105–85, § 1107(c)(1)][/us/pl/105/85/s1107/c/1], substituted “approved places of public accommodation” for “places of public accommodation that meet the requirements of the fire prevention and control guidelines described in section 29 of the Federal Fire Prevention and Control Act of 1974” and struck out “as defined in section 4 of the Federal Fire Prevention and Control Act of 1974” after “that is not a State”.
+    Subsec. (b). [Pub. L. 105–85][/us/pl/105/85], § 1107(c)(1), substituted “approved places of public accommodation” for “places of public accommodation that meet the requirements of the fire prevention and control guidelines described in section 29 of the Federal Fire Prevention and Control Act of 1974” and struck out “as defined in section 4 of the Federal Fire Prevention and Control Act of 1974” after “that is not a State”.
 
-    [Pub. L. 105–85, § 1107(a)(1)][/us/pl/105/85/s1107/a/1], redesignated subsec. (a) as (b). Former subsec. (b) redesignated (c).
+    [Pub. L. 105–85][/us/pl/105/85], § 1107(a)(1), redesignated subsec. (a) as (b). Former subsec. (b) redesignated (c).
 
-    Subsec. (c). [Pub. L. 105–85, § 1107(c)(2)][/us/pl/105/85/s1107/c/2], substituted “is not an approved place of public accommodation” for “does not meet the requirements of the fire prevention and control guidelines described in section 29 of the Federal Fire Prevention and Control Act of 1974”.
+    Subsec. (c). [Pub. L. 105–85][/us/pl/105/85], § 1107(c)(2), substituted “is not an approved place of public accommodation” for “does not meet the requirements of the fire prevention and control guidelines described in section 29 of the Federal Fire Prevention and Control Act of 1974”.
 
-    [Pub. L. 105–85, § 1107(a)(1)][/us/pl/105/85/s1107/a/1], redesignated subsec. (b) as (c). Former subsec. (c) redesignated (d).
+    [Pub. L. 105–85][/us/pl/105/85], § 1107(a)(1), redesignated subsec. (b) as (c). Former subsec. (c) redesignated (d).
 
-    Subsec. (d). [Pub. L. 105–85, § 1107(a)(1)][/us/pl/105/85/s1107/a/1], redesignated subsec. (c) as (d). Former subsec. (d) redesignated (e).
+    Subsec. (d). [Pub. L. 105–85][/us/pl/105/85], § 1107(a)(1), redesignated subsec. (c) as (d). Former subsec. (d) redesignated (e).
 
-    Subsec. (e). [Pub. L. 105–85, § 1107(c)(3)][/us/pl/105/85/s1107/c/3], substituted “facilitate the ability of” for “encourage” and “approved places of public accommodation” for “places of public accommodation that meet the requirements of the fire prevention and control guidelines described in section 29 of the Federal Fire Prevention and Control Act of 1974”.
+    Subsec. (e). [Pub. L. 105–85][/us/pl/105/85], § 1107(c)(3), substituted “facilitate the ability of” for “encourage” and “approved places of public accommodation” for “places of public accommodation that meet the requirements of the fire prevention and control guidelines described in section 29 of the Federal Fire Prevention and Control Act of 1974”.
 
-    [Pub. L. 105–85, § 1107(a)(1)][/us/pl/105/85/s1107/a/1], redesignated subsec. (d) as (e).
+    [Pub. L. 105–85][/us/pl/105/85], § 1107(a)(1), redesignated subsec. (d) as (e).
 
-    Subsec. (f). [Pub. L. 105–85, § 1107(b)][/us/pl/105/85/s1107/b], added subsec. (f).
+    Subsec. (f). [Pub. L. 105–85][/us/pl/105/85], § 1107(b), added subsec. (f).
 
  __Change of Name__ 
 
@@ -69,7 +69,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 101–391, § 4(c)][/us/pl/101/391/s4/c], Sept. 25, 1990, [104 Stat. 750][/us/stat/104/750], provided that: 
+[Pub. L. 101–391][/us/pl/101/391], § 4(c), Sept. 25, 1990, [104 Stat. 750][/us/stat/104/750], provided that: 
 
 > “The amendments made by this section \[enacting this section\] shall take effect 60 days after the date of the publication in the Federal Register \[Nov. 24, 1992, 57 F.R. 55314\] of the master list of certified places of public accommodation maintained by the Director \[now Administrator\] of the Federal Emergency Management Agency pursuant to section 28(b) of the Federal Fire Prevention and Control Act of 1974 \[[15 U.S.C. 2224(b)][/us/usc/t15/s2224/b]\] (as added by section 3 of this Act).”
 
@@ -85,27 +85,27 @@
 ----------
 
 [/us/usc/t15/s2225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2225
-[/us/pl/101/391/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F391%2Fs4%2Fa
+[/us/pl/101/391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F391
 [/us/stat/104/749]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F749
-[/us/pl/105/85/s1107/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs1107%2Fa
+[/us/pl/105/85/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtXI
 [/us/stat/111/1924]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1924
-[/us/pl/109/295/s612/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs612%2Fc
+[/us/pl/109/295/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2FtVI
 [/us/stat/120/1410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1410
-[/us/pl/105/85/s1107/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs1107%2Fa%2F2
-[/us/pl/105/85/s1107/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs1107%2Fc%2F1
-[/us/pl/105/85/s1107/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs1107%2Fa%2F1
-[/us/pl/105/85/s1107/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs1107%2Fc%2F2
-[/us/pl/105/85/s1107/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs1107%2Fa%2F1
-[/us/pl/105/85/s1107/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs1107%2Fa%2F1
-[/us/pl/105/85/s1107/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs1107%2Fc%2F3
-[/us/pl/105/85/s1107/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs1107%2Fa%2F1
-[/us/pl/105/85/s1107/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs1107%2Fb
+[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
+[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
+[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
+[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
+[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
+[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
+[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
+[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
+[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
 [/us/pl/109/295/s612/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs612%2Fc
 [/us/usc/t6/s313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs313
 [/us/pl/109/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295
 [/us/pl/109/295/s612/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs612%2Ff%2F2
 [/us/usc/t6/s313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs313
-[/us/pl/101/391/s4/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F391%2Fs4%2Fc
+[/us/pl/101/391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F391
 [/us/stat/104/750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F750
 [/us/usc/t15/s2224/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2224%2Fb
 [/us/usc/t48/s1681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1681

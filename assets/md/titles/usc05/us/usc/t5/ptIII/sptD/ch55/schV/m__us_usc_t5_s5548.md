@@ -19,7 +19,7 @@
 
     (b) The Office shall prescribe regulations necessary for the administration of section 5545(d).
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 488][/us/stat/80/488]; [Pub. L. 90–83, § 1(32)][/us/pl/90/83/s1/32], Sept. 11, 1967, [81 Stat. 201][/us/stat/81/201]; [Pub. L. 92–392, § 12][/us/pl/92/392/s12], Aug. 19, 1972, [86 Stat. 575][/us/stat/86/575]; [Pub. L. 95–454, title IX, § 906(a)(2)][/us/pl/95/454/s906/a/2], (3), Oct. 13, 1978, [92 Stat. 1224][/us/stat/92/1224]; [Pub. L. 102–378, § 2(44)(C)][/us/pl/102/378/s2/44/C], Oct. 2, 1992, [106 Stat. 1352][/us/stat/106/1352].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 488][/us/stat/80/488]; [Pub. L. 90–83][/us/pl/90/83], § 1(32), Sept. 11, 1967, [81 Stat. 201][/us/stat/81/201]; [Pub. L. 92–392][/us/pl/92/392], § 12, Aug. 19, 1972, [86 Stat. 575][/us/stat/86/575]; [Pub. L. 95–454, title IX][/us/pl/95/454/tIX], § 906(a)(2), (3), Oct. 13, 1978, [92 Stat. 1224][/us/stat/92/1224]; [Pub. L. 102–378][/us/pl/102/378], § 2(44)(C), Oct. 2, 1992, [106 Stat. 1352][/us/stat/106/1352].)
 
 <table>
 
@@ -149,9 +149,9 @@ July 19, 1966, Pub. L. 89–512, § 1 “Sec. 804(4) (6th through 9th words)�
 
     1978—Subsecs. (a), (b). [Pub. L. 95–454][/us/pl/95/454] substituted “Office of Personnel Management” for “Civil Service Commission” and “Office” for “Commission”.
 
-    1972—Subsec. (a). [Pub. L. 92–392, § 12(a)][/us/pl/92/392/s12/a], struck out reference to [section 5544 of this title][/us/usc/t5/s5544].
+    1972—Subsec. (a). [Pub. L. 92–392][/us/pl/92/392], § 12(a), struck out reference to [section 5544 of this title][/us/usc/t5/s5544].
 
-    Subsec. (b). [Pub. L. 92–392, § 12(b)][/us/pl/92/392/s12/b], inserted reference to [section 5550 of this title][/us/usc/t5/s5550].
+    Subsec. (b). [Pub. L. 92–392][/us/pl/92/392], § 12(b), inserted reference to [section 5550 of this title][/us/usc/t5/s5550].
 
  __Effective Date of 1978 Amendment__ 
 
@@ -174,21 +174,21 @@ July 19, 1966, Pub. L. 89–512, § 1 “Sec. 804(4) (6th through 9th words)�
 
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/488]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F488
-[/us/pl/90/83/s1/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83%2Fs1%2F32
+[/us/pl/90/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83
 [/us/stat/81/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F201
-[/us/pl/92/392/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F392%2Fs12
+[/us/pl/92/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F392
 [/us/stat/86/575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F575
-[/us/pl/95/454/s906/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs906%2Fa%2F2
+[/us/pl/95/454/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtIX
 [/us/stat/92/1224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1224
-[/us/pl/102/378/s2/44/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378%2Fs2%2F44%2FC
+[/us/pl/102/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378
 [/us/stat/106/1352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1352
 [/us/usc/t5/s5548/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5548%2Fb
 [/us/pl/89/512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F512
 [/us/pl/102/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378
 [/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454
-[/us/pl/92/392/s12/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F392%2Fs12%2Fa
+[/us/pl/92/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F392
 [/us/usc/t5/s5544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5544
-[/us/pl/92/392/s12/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F392%2Fs12%2Fb
+[/us/pl/92/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F392
 [/us/usc/t5/s5550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5550
 [/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454
 [/us/pl/95/454/s907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs907

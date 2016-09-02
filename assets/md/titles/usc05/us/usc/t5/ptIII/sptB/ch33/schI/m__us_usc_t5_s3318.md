@@ -35,7 +35,7 @@
 
     (c) When three or more names of preference eligibles are on a reemployment list appropriate for the position to be filled, a nominating or appointing authority may appoint from a register of eligibles established after examination only an individual who qualifies as a preference eligible under section 2108(3)(C)–(G) of this title.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 421][/us/stat/80/421]; [Pub. L. 90–83, § 1(8)][/us/pl/90/83/s1/8], Sept. 11, 1967, [81 Stat. 197][/us/stat/81/197]; [Pub. L. 95–454, title III, § 307(d)][/us/pl/95/454/s307/d], title IX, § 906(a)(2), (3), Oct. 13, 1978, [92 Stat. 1148][/us/stat/92/1148], 1224.)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 421][/us/stat/80/421]; [Pub. L. 90–83][/us/pl/90/83], § 1(8), Sept. 11, 1967, [81 Stat. 197][/us/stat/81/197]; [Pub. L. 95–454, title III][/us/pl/95/454/tIII], § 307(d), title IX, § 906(a)(2), (3), Oct. 13, 1978, [92 Stat. 1148][/us/stat/92/1148], 1224.)
 
 <table>
 
@@ -127,9 +127,9 @@ June 27, 1944, ch. 287, § 15 (less 1st sentence), 58 Stat. 391.  </td>
 
  __Amendments__ 
 
-    1978—Subsec. (a). [Pub. L. 95–454, § 906(a)(2)][/us/pl/95/454/s906/a/2], (3), substituted “Office of Personnel Management” and “Office” for “Civil Service Commission” and “Commission”, respectively.
+    1978—Subsec. (a). [Pub. L. 95–454][/us/pl/95/454], § 906(a)(2), (3), substituted “Office of Personnel Management” and “Office” for “Civil Service Commission” and “Commission”, respectively.
 
-    Subsec. (b). [Pub. L. 95–454, § 307(d)][/us/pl/95/454/s307/d], designated existing provisions as par. (1), substituted provisions respecting authority of the Office with respect to the selection procedures applicable, for provisions respecting authority of the Commission with respect to the selection procedures applicable, and added pars. (2) to (4).
+    Subsec. (b). [Pub. L. 95–454][/us/pl/95/454], § 307(d), designated existing provisions as par. (1), substituted provisions respecting authority of the Office with respect to the selection procedures applicable, for provisions respecting authority of the Commission with respect to the selection procedures applicable, and added pars. (2) to (4).
 
     1967—Subsec. (c). [Pub. L. 90–83][/us/pl/90/83] substituted “section 2108(3)(C)–(G)” for “section 2108(3)(B)–(F).” See Historical and Revision Notes under [section 3305 of this title][/us/usc/t5/s3305].
 
@@ -148,12 +148,12 @@ June 27, 1944, ch. 287, § 15 (less 1st sentence), 58 Stat. 391.  </td>
 [/us/usc/t5/s2108/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs2108%2F3%2FC
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F421
-[/us/pl/90/83/s1/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83%2Fs1%2F8
+[/us/pl/90/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83
 [/us/stat/81/197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F197
-[/us/pl/95/454/s307/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs307%2Fd
+[/us/pl/95/454/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtIII
 [/us/stat/92/1148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1148
-[/us/pl/95/454/s906/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs906%2Fa%2F2
-[/us/pl/95/454/s307/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs307%2Fd
+[/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454
+[/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454
 [/us/pl/90/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83
 [/us/usc/t5/s3305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3305
 [/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454

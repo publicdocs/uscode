@@ -133,7 +133,7 @@
 
         (2) Whenever the Secretary of the Treasury determines that, by reason of the public debt limit, the Secretary will be unable to fully comply with the requirements of subsection (c) of this section, the Secretary shall immediately notify Congress of the determination. The notification shall be made in writing.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 584][/us/stat/80/584]; [Pub. L. 90–83, § 1(85)][/us/pl/90/83/s1/85], Sept. 11, 1967, [81 Stat. 218][/us/stat/81/218]; [Pub. L. 91–93, title I, § 103(a)][/us/pl/91/93/s103/a], Oct. 20, 1969, [83 Stat. 137][/us/stat/83/137]; [Pub. L. 93–349, § 1][/us/pl/93/349/s1], July 12, 1974, [88 Stat. 354][/us/stat/88/354]; [Pub. L. 94–183, § 2(37)][/us/pl/94/183/s2/37], Dec. 31, 1975, [89 Stat. 1058][/us/stat/89/1058]; [Pub. L. 95–454, title IX, § 906(a)(2)][/us/pl/95/454/s906/a/2], (3), Oct. 13, 1978, [92 Stat. 1224][/us/stat/92/1224]; [Pub. L. 96–70, title I, § 1244][/us/pl/96/70/s1244], Sept. 27, 1979, [93 Stat. 474][/us/stat/93/474]; [Pub. L. 97–253, title III, § 306(f)][/us/pl/97/253/s306/f], Sept. 8, 1982, [96 Stat. 797][/us/stat/96/797]; [Pub. L. 97–346, § 3(g)][/us/pl/97/346/s3/g], Oct. 15, 1982, [96 Stat. 1648][/us/stat/96/1648]; [Pub. L. 98–216, § 3(a)(5)][/us/pl/98/216/s3/a/5], Feb. 14, 1984, [98 Stat. 6][/us/stat/98/6]; [Pub. L. 98–615, § 2(7)][/us/pl/98/615/s2/7], Nov. 8, 1984, [98 Stat. 3202][/us/stat/98/3202]; [Pub. L. 99–335, title II, § 207(j)][/us/pl/99/335/s207/j], June 6, 1986, [100 Stat. 597][/us/stat/100/597]; [Pub. L. 99–509, title VI, § 6002][/us/pl/99/509/s6002], Oct. 21, 1986, [100 Stat. 1931][/us/stat/100/1931]; [Pub. L. 100–203, title V, § 5428(d)][/us/pl/100/203/s5428/d], Dec. 22, 1987, [101 Stat. 1330–274][/us/stat/101/1330-274]; [Pub. L. 101–239, title IV, § 4002(a)][/us/pl/101/239/s4002/a], Dec. 19, 1989, [103 Stat. 2133][/us/stat/103/2133]; [Pub. L. 101–508, title VII][/us/pl/101/508], §§ 7001(a)(3), 7101(a), Nov. 5, 1990, [104 Stat. 1388–328][/us/stat/104/1388-328], 1388–331; [Pub. L. 101–510, div. C, title XXXV, § 3506(c)][/us/pl/101/510/s3506/c], Nov. 5, 1990, [104 Stat. 1847][/us/stat/104/1847]; [Pub. L. 103–424, § 10][/us/pl/103/424/s10], Oct. 29, 1994, [108 Stat. 4366][/us/stat/108/4366]; [Pub. L. 104–52, title IV, § 2][/us/pl/104/52/s2], Nov. 19, 1995, [109 Stat. 490][/us/stat/109/490]; [Pub. L. 104–316, title I, § 103(h)][/us/pl/104/316/s103/h], Oct. 19, 1996, [110 Stat. 3829][/us/stat/110/3829]; [Pub. L. 105–362, title XIII, § 1302(c)][/us/pl/105/362/s1302/c], Nov. 10, 1998, [112 Stat. 3293][/us/stat/112/3293]; [Pub. L. 108–18, § 2(c)][/us/pl/108/18/s2/c], (d)(1)(A), Apr. 23, 2003, [117 Stat. 625][/us/stat/117/625], 626; [Pub. L. 109–435, title VIII, § 802(a)(2)][/us/pl/109/435/s802/a/2], Dec. 20, 2006, [120 Stat. 3249][/us/stat/120/3249].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 584][/us/stat/80/584]; [Pub. L. 90–83][/us/pl/90/83], § 1(85), Sept. 11, 1967, [81 Stat. 218][/us/stat/81/218]; [Pub. L. 91–93, title I][/us/pl/91/93/tI], § 103(a), Oct. 20, 1969, [83 Stat. 137][/us/stat/83/137]; [Pub. L. 93–349][/us/pl/93/349], § 1, July 12, 1974, [88 Stat. 354][/us/stat/88/354]; [Pub. L. 94–183][/us/pl/94/183], § 2(37), Dec. 31, 1975, [89 Stat. 1058][/us/stat/89/1058]; [Pub. L. 95–454, title IX][/us/pl/95/454/tIX], § 906(a)(2), (3), Oct. 13, 1978, [92 Stat. 1224][/us/stat/92/1224]; [Pub. L. 96–70, title I][/us/pl/96/70/tI], § 1244, Sept. 27, 1979, [93 Stat. 474][/us/stat/93/474]; [Pub. L. 97–253, title III][/us/pl/97/253/tIII], § 306(f), Sept. 8, 1982, [96 Stat. 797][/us/stat/96/797]; [Pub. L. 97–346][/us/pl/97/346], § 3(g), Oct. 15, 1982, [96 Stat. 1648][/us/stat/96/1648]; [Pub. L. 98–216][/us/pl/98/216], § 3(a)(5), Feb. 14, 1984, [98 Stat. 6][/us/stat/98/6]; [Pub. L. 98–615][/us/pl/98/615], § 2(7), Nov. 8, 1984, [98 Stat. 3202][/us/stat/98/3202]; [Pub. L. 99–335, title II][/us/pl/99/335/tII], § 207(j), June 6, 1986, [100 Stat. 597][/us/stat/100/597]; [Pub. L. 99–509, title VI][/us/pl/99/509/tVI], § 6002, Oct. 21, 1986, [100 Stat. 1931][/us/stat/100/1931]; [Pub. L. 100–203, title V][/us/pl/100/203/tV], § 5428(d), Dec. 22, 1987, [101 Stat. 1330–274][/us/stat/101/1330-274]; [Pub. L. 101–239, title IV][/us/pl/101/239/tIV], § 4002(a), Dec. 19, 1989, [103 Stat. 2133][/us/stat/103/2133]; [Pub. L. 101–508, title VII][/us/pl/101/508/tVII], §§ 7001(a)(3), 7101(a), Nov. 5, 1990, [104 Stat. 1388–328][/us/stat/104/1388-328], 1388–331; [Pub. L. 101–510, div. C, title XXXV][/us/pl/101/510/dC/tXXXV], § 3506(c), Nov. 5, 1990, [104 Stat. 1847][/us/stat/104/1847]; [Pub. L. 103–424][/us/pl/103/424], § 10, Oct. 29, 1994, [108 Stat. 4366][/us/stat/108/4366]; [Pub. L. 104–52, title IV][/us/pl/104/52/tIV], § 2, Nov. 19, 1995, [109 Stat. 490][/us/stat/109/490]; [Pub. L. 104–316, title I][/us/pl/104/316/tI], § 103(h), Oct. 19, 1996, [110 Stat. 3829][/us/stat/110/3829]; [Pub. L. 105–362, title XIII][/us/pl/105/362/tXIII], § 1302(c), Nov. 10, 1998, [112 Stat. 3293][/us/stat/112/3293]; [Pub. L. 108–18][/us/pl/108/18], § 2(c), (d)(1)(A), Apr. 23, 2003, [117 Stat. 625][/us/stat/117/625], 626; [Pub. L. 109–435, title VIII][/us/pl/109/435/tVIII], § 802(a)(2), Dec. 20, 2006, [120 Stat. 3249][/us/stat/120/3249].)
 
 <table>
 
@@ -281,19 +281,19 @@ Sept. 27, 1965, Pub. L. 89–205, § 1(b), 79 Stat. 840.  </td>
 
     Sections 1231(b) and 1243(a)(1) of the Panama Canal Act of 1979 \[[Pub. L. 96–70][/us/pl/96/70]\], referred to in subsec. (i)(1), are classified to sections 3671(b) and 3681(a)(1) of Title 22, Foreign Relations and Intercourse, respectively.
 
-    Section 3506 of the Panama Canal Commission Authorization Act for Fiscal Year 1991 \[[Pub. L. 101–510, div. C, title XXXV][/us/pl/101/510]\], referred to in subsec. (i)(1), amended sections 8336, 8339, and 8348 of this title.
+    Section 3506 of the Panama Canal Commission Authorization Act for Fiscal Year 1991 \[[Pub. L. 101–510, div. C, title XXXV][/us/pl/101/510/dC/tXXXV]\], referred to in subsec. (i)(1), amended sections 8336, 8339, and 8348 of this title.
 
  __Amendments__ 
 
     2006—Subsec. (h). [Pub. L. 109–435][/us/pl/109/435] amended subsec. (h) generally. Prior to amendment, subsec. (h) related to postal supplemental liability.
 
-    2003—Subsec. (h). [Pub. L. 108–18, § 2(c)][/us/pl/108/18/s2/c], amended subsec. (h) generally. Prior to amendment, subsec. (h) read as follows:
+    2003—Subsec. (h). [Pub. L. 108–18][/us/pl/108/18], § 2(c), amended subsec. (h) generally. Prior to amendment, subsec. (h) read as follows:
 
     “(h)(1) Notwithstanding any other statute, the United States Postal Service shall be liable for that portion of any estimated increase in the unfunded liability of the Fund which is attributable to any benefits payable from the Fund to active and retired Postal Service officers and employees, and to their survivors, when the increase results from an employee-management agreement under title 39, or any administrative action by the Postal Service taken pursuant to law, which authorizes increases in pay on which benefits are computed.
 
     “(2) The estimated increase in the unfunded liability, referred to in paragraph (1) of this subsection, shall be determined by the Office of Personnel Management. The United States Postal Service shall pay the amount so determined to the Office in 30 equal annual installments with interest computed at the rate used in the most recent valuation of the Civil Service Retirement System, with the first payment thereof due at the end of the fiscal year in which an increase in pay becomes effective.”
 
-    Subsec. (m). [Pub. L. 108–18, § 2(d)(1)(A)][/us/pl/108/18/s2/d/1/A], struck out subsec. (m) which read as follows:
+    Subsec. (m). [Pub. L. 108–18][/us/pl/108/18], § 2(d)(1)(A), struck out subsec. (m) which read as follows:
 
     “(m)(1) Notwithstanding any other provision of law, the United States Postal Service shall be liable for that portion of any estimated increase in the unfunded liability of the Fund which is attributable to any benefits payable from the Fund to former employees of the Postal Service who first become annuitants by reason of separation from the Postal Service on or after July 1, 1971, or to their survivors, or to the survivors of individuals who die on or after July 1, 1971, while employed by the Postal Service, when the increase results from a cost-of-living adjustment under [section 8340 of this title][/us/usc/t5/s8340].
 
@@ -309,11 +309,11 @@ Sept. 27, 1965, Pub. L. 89–205, § 1(b), 79 Stat. 840.  </td>
 
     1994—Subsec. (a)(3). [Pub. L. 103–424][/us/pl/103/424] added par. (3).
 
-    1990—Subsec. (a)(1)(B). [Pub. L. 101–508, § 7001(a)(3)][/us/pl/101/508/s7001/a/3], inserted “in administering alternative forms of annuities under sections 8343a and 8420a (and related provisions of law),” before “and in withholding”.
+    1990—Subsec. (a)(1)(B). [Pub. L. 101–508][/us/pl/101/508], § 7001(a)(3), inserted “in administering alternative forms of annuities under sections 8343a and 8420a (and related provisions of law),” before “and in withholding”.
 
     Subsec. (i)(1). [Pub. L. 101–510][/us/pl/101/510] substituted “1979, and the amendments made by section 3506 of the Panama Canal Commission Authorization Act for Fiscal Year 1991” for “1979”.
 
-    Subsec. (m)(1). [Pub. L. 101–508, § 7101(a)][/us/pl/101/508/s7101/a], substituted “July 1, 1971” for “October 1, 1986” in two places.
+    Subsec. (m)(1). [Pub. L. 101–508][/us/pl/101/508], § 7101(a), substituted “July 1, 1971” for “October 1, 1986” in two places.
 
     1989—Subsec. (m). [Pub. L. 101–239][/us/pl/101/239] added subsec. (m).
 
@@ -329,7 +329,7 @@ Sept. 27, 1965, Pub. L. 89–205, § 1(b), 79 Stat. 840.  </td>
 
     1982—Subsec. (a)(1)(B). [Pub. L. 97–346][/us/pl/97/346] inserted “and in withholding taxes pursuant to [section 3405 of title 26][/us/usc/t26/s3405]”.
 
-    Subsec. (g). [Pub. L. 97–253, § 306(f)][/us/pl/97/253/s306/f], inserted “, less an amount determined by the Office to be appropriate to reflect the value of the deposits made to the credit of the Fund under [section 8334(j) of this title][/us/usc/t5/s8334/j]” after “allowed for military service”.
+    Subsec. (g). [Pub. L. 97–253][/us/pl/97/253], § 306(f), inserted “, less an amount determined by the Office to be appropriate to reflect the value of the deposits made to the credit of the Fund under [section 8334(j) of this title][/us/usc/t5/s8334/j]” after “allowed for military service”.
 
     1979—Subsec. (i). [Pub. L. 96–70][/us/pl/96/70] added subsec. (i).
 
@@ -339,11 +339,11 @@ Sept. 27, 1965, Pub. L. 89–205, § 1(b), 79 Stat. 840.  </td>
 
     1974—Subsec. (h). [Pub. L. 93–349][/us/pl/93/349] added subsec. (h).
 
-    1969—Subsec. (a). [Pub. L. 91–93, § 103(a)(1)][/us/pl/91/93/s103/a/1], designated existing provisions as par. (1)(A) and (B) and added par. (2).
+    1969—Subsec. (a). [Pub. L. 91–93][/us/pl/91/93], § 103(a)(1), designated existing provisions as par. (1)(A) and (B) and added par. (2).
 
-    Subsec. (f). [Pub. L. 91–93, § 103(a)(2)][/us/pl/91/93/s103/a/2], added subsec. (f) and struck out former subsec. (f) which required the Commission to submit estimates of appropriations necessary to finance the Fund on a normal cost plus interest basis and to carry out this subchapter.
+    Subsec. (f). [Pub. L. 91–93][/us/pl/91/93], § 103(a)(2), added subsec. (f) and struck out former subsec. (f) which required the Commission to submit estimates of appropriations necessary to finance the Fund on a normal cost plus interest basis and to carry out this subchapter.
 
-    Subsec. (g). [Pub. L. 91–93, § 103(a)(2)][/us/pl/91/93/s103/a/2], added subsec. (g) and struck out former subsec. (g) which contained restriction against use of Fund money to pay an increase in annuity benefits or a new annuity benefit under this subchapter or an earlier statute without an appropriation being made to the Fund in a sufficient amount to prevent an immediate increase in the unfunded accrued liability of the Fund.
+    Subsec. (g). [Pub. L. 91–93][/us/pl/91/93], § 103(a)(2), added subsec. (g) and struck out former subsec. (g) which contained restriction against use of Fund money to pay an increase in annuity benefits or a new annuity benefit under this subchapter or an earlier statute without an appropriation being made to the Fund in a sufficient amount to prevent an immediate increase in the unfunded accrued liability of the Fund.
 
  __Effective Date of 2006 Amendment__ 
 
@@ -351,7 +351,7 @@ Sept. 27, 1965, Pub. L. 89–205, § 1(b), 79 Stat. 840.  </td>
 
  __Effective Date of 2003 Amendment__ 
 
-[Pub. L. 108–18, § 2(d)(2)][/us/pl/108/18/s2/d/2], Apr. 23, 2003, [117 Stat. 627][/us/stat/117/627], provided that: 
+[Pub. L. 108–18][/us/pl/108/18], § 2(d)(2), Apr. 23, 2003, [117 Stat. 627][/us/stat/117/627], provided that: 
 
 > “Nothing in this subsection \[repealing subsec. (m) of this section and provisions set out as a note under this section\] shall be considered to affect any payments made before the date of the enactment of this Act \[Apr. 23, 2003\] under either of the provisions of law repealed by paragraph (1).”
 
@@ -363,7 +363,7 @@ Sept. 27, 1965, Pub. L. 89–205, § 1(b), 79 Stat. 840.  </td>
 
  __Effective Date of 1989 Amendment__ 
 
-    [Section 4002(b)(1) of Pub. L. 101–239][/us/pl/101/239/s4002/b/1], which provided that [section 4002 of Pub. L. 101–239][/us/pl/101/239/s4002] (amending this section and enacting provisions set out as notes under this section) be effective as of Oct. 1, 1986, was repealed by [Pub. L. 101–508, title VII, § 7101(b)][/us/pl/101/508/s7101/b], Nov. 5, 1990, [104 Stat. 1388–331][/us/stat/104/1388-331].
+    [Section 4002(b)(1) of Pub. L. 101–239][/us/pl/101/239/s4002/b/1], which provided that [section 4002 of Pub. L. 101–239][/us/pl/101/239/s4002] (amending this section and enacting provisions set out as notes under this section) be effective as of Oct. 1, 1986, was repealed by [Pub. L. 101–508, title VII][/us/pl/101/508/tVII], § 7101(b), Nov. 5, 1990, [104 Stat. 1388–331][/us/stat/104/1388-331].
 
  __Effective Date of 1987 Amendment__ 
 
@@ -403,7 +403,7 @@ Sept. 27, 1965, Pub. L. 89–205, § 1(b), 79 Stat. 840.  </td>
 
  __Review by Postal Regulatory Commission__ 
 
-[Pub. L. 109–435, title VIII, § 802(c)][/us/pl/109/435/s802/c], Dec. 20, 2006, [120 Stat. 3250][/us/stat/120/3250], provided that:
+[Pub. L. 109–435, title VIII][/us/pl/109/435/tVIII], § 802(c), Dec. 20, 2006, [120 Stat. 3250][/us/stat/120/3250], provided that:
 
 >     “(1) __In general.—__ 
 
@@ -421,7 +421,7 @@ Sept. 27, 1965, Pub. L. 89–205, § 1(b), 79 Stat. 840.  </td>
 
  __Payments To Reimburse Fund for Increase in Unfunded Liability__ 
 
-[Pub. L. 105–261, div. C, title XXXI, § 3154][/us/pl/105/261/s3154](l), Oct. 17, 1998, [112 Stat. 2256][/us/stat/112/2256], provided that:
+[Pub. L. 105–261, div. C, title XXXI][/us/pl/105/261/dC/tXXXI], § 3154(l), Oct. 17, 1998, [112 Stat. 2256][/us/stat/112/2256], provided that:
 
 >     “(1) The Department of Energy shall pay into the Civil Service Retirement and Disability Fund an amount determined by the Director of the Office of Personnel Management to be necessary to reimburse the Fund for any estimated increase in the unfunded liability of the Fund resulting from the amendments related to the Civil Service Retirement System under this section \[amending sections 3307, 8331, 8334 to 8336, 8401, 8412, 8415, 8422, 8423, and 8425 of this title\], and for any estimated increase in the supplemental liability of the Fund resulting from the amendments related to the Federal Employees Retirement System under this section.
 
@@ -431,11 +431,11 @@ Sept. 27, 1965, Pub. L. 89–205, § 1(b), 79 Stat. 840.  </td>
 
  __Payments by Postal Service Relating to Corrected Calculations for Past Retirement COLAs__ 
 
-    [Pub. L. 103–66, title XI, § 11101(a)][/us/pl/103/66/s11101/a], Aug. 10, 1993, [107 Stat. 413][/us/stat/107/413], required the United States Postal Service to pay into the Civil Service Retirement and Disability Fund a total of $693,000,000 not later than September 30, 1998, in addition to other payments required by law.
+    [Pub. L. 103–66, title XI][/us/pl/103/66/tXI], § 11101(a), Aug. 10, 1993, [107 Stat. 413][/us/stat/107/413], required the United States Postal Service to pay into the Civil Service Retirement and Disability Fund a total of $693,000,000 not later than September 30, 1998, in addition to other payments required by law.
 
  __Timely Processing of Retirement Benefits__ 
 
-[Pub. L. 102–484, div. D, title XLIV, § 4436(d)][/us/pl/102/484/s4436/d], Oct. 23, 1992, [106 Stat. 2724][/us/stat/106/2724], as amended by [Pub. L. 103–337, div. A, title III, § 341(b)(2)][/us/pl/103/337/s341/b/2], Oct. 5, 1994, [108 Stat. 2720][/us/stat/108/2720]; [Pub. L. 105–85, div. A, title XI, § 1106(b)(2)][/us/pl/105/85/s1106/b/2], Nov. 18, 1997, [111 Stat. 1924][/us/stat/111/1924], provided that:
+[Pub. L. 102–484, div. D, title XLIV][/us/pl/102/484/dD/tXLIV], § 4436(d), Oct. 23, 1992, [106 Stat. 2724][/us/stat/106/2724], as amended by [Pub. L. 103–337, div. A, title III][/us/pl/103/337/dA/tIII], § 341(b)(2), Oct. 5, 1994, [108 Stat. 2720][/us/stat/108/2720]; [Pub. L. 105–85, div. A, title XI][/us/pl/105/85/dA/tXI], § 1106(b)(2), Nov. 18, 1997, [111 Stat. 1924][/us/stat/111/1924], provided that:
 
 >     “(1) In order to ensure the timely processing of applications for retirement benefits, under the Civil Service Retirement System or the Federal Employees’ Retirement System, for civilian employees of the Department of Defense and other employees who retire when their agency is undergoing a major reorganization, a major reduction in force, or a major transfer of function, the costs incurred by the Office of Personnel Management in processing any such application shall be deemed to be an administrative expense described in [section 8348(a)(1)(B) of title 5][/us/usc/t5/s8348/a/1/B], United States Code.
 
@@ -443,19 +443,19 @@ Sept. 27, 1965, Pub. L. 89–205, § 1(b), 79 Stat. 840.  </td>
 
  __Pre-1991 Cost-of-Living Adjustments__ 
 
-    [Pub. L. 101–508, title VII, § 7101(c)][/us/pl/101/508/s7101/c], Nov. 5, 1990, [104 Stat. 1388–331][/us/stat/104/1388-331], as amended by [Pub. L. 102–378, § 5(a)(1)][/us/pl/102/378/s5/a/1], Oct. 2, 1992, [106 Stat. 1358][/us/stat/106/1358], related to pre-1991 cost-of-living adjustments, prior to repeal by [Pub. L. 108–18, § 2(d)(1)(B)][/us/pl/108/18/s2/d/1/B], Apr. 23, 2003, [117 Stat. 627][/us/stat/117/627].
+    [Pub. L. 101–508, title VII][/us/pl/101/508/tVII], § 7101(c), Nov. 5, 1990, [104 Stat. 1388–331][/us/stat/104/1388-331], as amended by [Pub. L. 102–378][/us/pl/102/378], § 5(a)(1), Oct. 2, 1992, [106 Stat. 1358][/us/stat/106/1358], related to pre-1991 cost-of-living adjustments, prior to repeal by [Pub. L. 108–18][/us/pl/108/18], § 2(d)(1)(B), Apr. 23, 2003, [117 Stat. 627][/us/stat/117/627].
 
  __Payments Relating to Amounts Which Would Have Been Due Before Fiscal Year 1987__ 
 
-    [Pub. L. 101–508, title VII, § 7103][/us/pl/101/508/s7103], Nov. 5, 1990, [104 Stat. 1388–333][/us/stat/104/1388-333], required the United States Postal Service to pay, not later than Sept. 30, 1995, into the Civil Service Retirement and Disability Fund and into the Employees Health Benefits Fund certain sums for retirement COLA and health benefits which would have been due in any pre-1987 fiscal year if certain amendments had been in effect as of July 1, 1971.
+    [Pub. L. 101–508, title VII][/us/pl/101/508/tVII], § 7103, Nov. 5, 1990, [104 Stat. 1388–333][/us/stat/104/1388-333], required the United States Postal Service to pay, not later than Sept. 30, 1995, into the Civil Service Retirement and Disability Fund and into the Employees Health Benefits Fund certain sums for retirement COLA and health benefits which would have been due in any pre-1987 fiscal year if certain amendments had been in effect as of July 1, 1971.
 
  __Certain Postal Service Annuitants; Size of Annual Installments To Fund Previous Years’ COLAs__ 
 
-    [Section 4002(b)(2) of Pub. L. 101–239][/us/pl/101/239/s4002/b/2], which provided that notwithstanding any provision of [section 8348(m) of this title][/us/usc/t5/s8348/m] the estimated increase in the unfunded liability referred to in section 8348(m)(1) was to be payable based on annual installments equal to specified amounts for fiscal years 1987 to 1989, was repealed by [Pub. L. 101–508, title VII, § 7101(b)][/us/pl/101/508/s7101/b], Nov. 5, 1990, [104 Stat. 1388–331][/us/stat/104/1388-331].
+    [Section 4002(b)(2) of Pub. L. 101–239][/us/pl/101/239/s4002/b/2], which provided that notwithstanding any provision of [section 8348(m) of this title][/us/usc/t5/s8348/m] the estimated increase in the unfunded liability referred to in section 8348(m)(1) was to be payable based on annual installments equal to specified amounts for fiscal years 1987 to 1989, was repealed by [Pub. L. 101–508, title VII][/us/pl/101/508/tVII], § 7101(b), Nov. 5, 1990, [104 Stat. 1388–331][/us/stat/104/1388-331].
 
  __Certain Postal Service Annuitants; Additional Amount Payable__ 
 
-    [Section 4002(b)(3) of Pub. L. 101–239][/us/pl/101/239/s4002/b/3], which provided that first payment made under provisions of [section 8348(m) of this title][/us/usc/t5/s8348/m] was to include, in addition to the amount which would otherwise have been payable at that time, an amount equal to the sum of any amounts which would have been due under those provisions in any prior year if this section had been enacted before Oct. 1, 1986, and which provided the method of computation, was repealed by [Pub. L. 101–508, title VII, § 7101(b)][/us/pl/101/508/s7101/b], Nov. 5, 1990, [104 Stat. 1388–331][/us/stat/104/1388-331].
+    [Section 4002(b)(3) of Pub. L. 101–239][/us/pl/101/239/s4002/b/3], which provided that first payment made under provisions of [section 8348(m) of this title][/us/usc/t5/s8348/m] was to include, in addition to the amount which would otherwise have been payable at that time, an amount equal to the sum of any amounts which would have been due under those provisions in any prior year if this section had been enacted before Oct. 1, 1986, and which provided the method of computation, was repealed by [Pub. L. 101–508, title VII][/us/pl/101/508/tVII], § 7101(b), Nov. 5, 1990, [104 Stat. 1388–331][/us/stat/104/1388-331].
 
  __Status of Original Subsec. (g) Provisions During Period From__  __Oct. 20, 1969__  __to__  __June 30, 1970__ 
 
@@ -465,11 +465,11 @@ Sept. 27, 1965, Pub. L. 89–205, § 1(b), 79 Stat. 840.  </td>
 
  __Inapplicability to Benefits Under__  __[__  __Pub. L. 89–737__  __][/us/pl/89/737]__  __of Prohibition Against Payment of Increased Annuity Benefit Without Compensating Appropriation__ 
 
-    [Section 3 of Pub. L. 89–737][/us/pl/89/737/s3], Nov. 2, 1966, [80 Stat. 1164][/us/stat/80/1164], which provided that [section 8348(g) of title 5][/us/usc/t5/s8348/g], United States Code, does not apply with respect to annuity benefits resulting from the enactment of this Act \[amending sections 8114, 8331, and 8704 of this title and section 1117 of former Title 5, Executive Departments and Government Officers and Employees\], was repealed by [Pub. L. 90–83, § 10(b)][/us/pl/90/83/s10/b], Sept. 11, 1967, [81 Stat. 223][/us/stat/81/223].
+    [Section 3 of Pub. L. 89–737][/us/pl/89/737/s3], Nov. 2, 1966, [80 Stat. 1164][/us/stat/80/1164], which provided that [section 8348(g) of title 5][/us/usc/t5/s8348/g], United States Code, does not apply with respect to annuity benefits resulting from the enactment of this Act \[amending sections 8114, 8331, and 8704 of this title and section 1117 of former Title 5, Executive Departments and Government Officers and Employees\], was repealed by [Pub. L. 90–83][/us/pl/90/83], § 10(b), Sept. 11, 1967, [81 Stat. 223][/us/stat/81/223].
 
  __Redemption of Obligations Held Prior to__  __Oct. 4, 1961__  __; Reinvestment of Proceeds__ 
 
-[Pub. L. 87–350, § 1(b)][/us/pl/87/350/s1/b] Oct. 4, 1961, [75 Stat. 770][/us/stat/75/770], provided that: 
+[Pub. L. 87–350][/us/pl/87/350], § 1(b) Oct. 4, 1961, [75 Stat. 770][/us/stat/75/770], provided that: 
 
 > “All special issues in which the civil service retirement and disability fund is invested in accordance with section 17(d) of the Civil Service Retirement Act \[subsecs. (d) and (e) of this section\] as in effect prior to the enactment of this Act \[Oct. 4, 1961\] shall be redeemed and the moneys reinvested by the Secretary of the Treasury, as nearly as may be practicable, in equal annual amounts over the period of ten calendar years beginning with the calendar year 1962, in accordance with such section 17(d), as amended by subsection (a) of this section.”
 
@@ -486,64 +486,64 @@ Sept. 27, 1965, Pub. L. 89–205, § 1(b), 79 Stat. 840.  </td>
 [/us/usc/t31/s3101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3101%2Fb
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F584
-[/us/pl/90/83/s1/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83%2Fs1%2F85
+[/us/pl/90/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83
 [/us/stat/81/218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F218
-[/us/pl/91/93/s103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F93%2Fs103%2Fa
+[/us/pl/91/93/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F93%2FtI
 [/us/stat/83/137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F137
-[/us/pl/93/349/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F349%2Fs1
+[/us/pl/93/349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F349
 [/us/stat/88/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F354
-[/us/pl/94/183/s2/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F183%2Fs2%2F37
+[/us/pl/94/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F183
 [/us/stat/89/1058]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F1058
-[/us/pl/95/454/s906/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs906%2Fa%2F2
+[/us/pl/95/454/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtIX
 [/us/stat/92/1224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1224
-[/us/pl/96/70/s1244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2Fs1244
+[/us/pl/96/70/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2FtI
 [/us/stat/93/474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F474
-[/us/pl/97/253/s306/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F253%2Fs306%2Ff
+[/us/pl/97/253/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F253%2FtIII
 [/us/stat/96/797]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F797
-[/us/pl/97/346/s3/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F346%2Fs3%2Fg
+[/us/pl/97/346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F346
 [/us/stat/96/1648]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1648
-[/us/pl/98/216/s3/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F216%2Fs3%2Fa%2F5
+[/us/pl/98/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F216
 [/us/stat/98/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F6
-[/us/pl/98/615/s2/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F615%2Fs2%2F7
+[/us/pl/98/615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F615
 [/us/stat/98/3202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3202
-[/us/pl/99/335/s207/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2Fs207%2Fj
+[/us/pl/99/335/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2FtII
 [/us/stat/100/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F597
-[/us/pl/99/509/s6002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs6002
+[/us/pl/99/509/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2FtVI
 [/us/stat/100/1931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1931
-[/us/pl/100/203/s5428/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs5428%2Fd
+[/us/pl/100/203/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtV
 [/us/stat/101/1330-274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-274
-[/us/pl/101/239/s4002/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs4002%2Fa
+[/us/pl/101/239/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtIV
 [/us/stat/103/2133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2133
-[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtVII
 [/us/stat/104/1388-328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-328
-[/us/pl/101/510/s3506/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs3506%2Fc
+[/us/pl/101/510/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdC%2FtXXXV
 [/us/stat/104/1847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1847
-[/us/pl/103/424/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F424%2Fs10
+[/us/pl/103/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F424
 [/us/stat/108/4366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4366
-[/us/pl/104/52/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F52%2Fs2
+[/us/pl/104/52/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F52%2FtIV
 [/us/stat/109/490]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F490
-[/us/pl/104/316/s103/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2Fs103%2Fh
+[/us/pl/104/316/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2FtI
 [/us/stat/110/3829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3829
-[/us/pl/105/362/s1302/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362%2Fs1302%2Fc
+[/us/pl/105/362/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362%2FtXIII
 [/us/stat/112/3293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3293
-[/us/pl/108/18/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F18%2Fs2%2Fc
+[/us/pl/108/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F18
 [/us/stat/117/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F625
-[/us/pl/109/435/s802/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2Fs802%2Fa%2F2
+[/us/pl/109/435/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2FtVIII
 [/us/stat/120/3249]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3249
 [/us/pl/96/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70
 [/us/pl/96/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70
-[/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
+[/us/pl/101/510/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdC%2FtXXXV
 [/us/pl/109/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435
-[/us/pl/108/18/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F18%2Fs2%2Fc
-[/us/pl/108/18/s2/d/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F18%2Fs2%2Fd%2F1%2FA
+[/us/pl/108/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F18
+[/us/pl/108/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F18
 [/us/usc/t5/s8340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8340
 [/us/pl/105/362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362
 [/us/pl/104/316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316
 [/us/pl/104/52]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F52
 [/us/pl/103/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F424
-[/us/pl/101/508/s7001/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs7001%2Fa%2F3
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
-[/us/pl/101/508/s7101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs7101%2Fa
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
 [/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
 [/us/pl/99/335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335
@@ -552,24 +552,24 @@ Sept. 27, 1965, Pub. L. 89–205, § 1(b), 79 Stat. 840.  </td>
 [/us/pl/98/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F216
 [/us/pl/97/346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F346
 [/us/usc/t26/s3405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs3405
-[/us/pl/97/253/s306/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F253%2Fs306%2Ff
+[/us/pl/97/253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F253
 [/us/usc/t5/s8334/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8334%2Fj
 [/us/pl/96/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70
 [/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454
 [/us/pl/94/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F183
 [/us/pl/93/349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F349
-[/us/pl/91/93/s103/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F93%2Fs103%2Fa%2F1
-[/us/pl/91/93/s103/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F93%2Fs103%2Fa%2F2
-[/us/pl/91/93/s103/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F93%2Fs103%2Fa%2F2
+[/us/pl/91/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F93
+[/us/pl/91/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F93
+[/us/pl/91/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F93
 [/us/pl/109/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435
 [/us/pl/109/435/s805/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2Fs805%2Fa
 [/us/usc/t5/s8334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8334
-[/us/pl/108/18/s2/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F18%2Fs2%2Fd%2F2
+[/us/pl/108/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F18
 [/us/stat/117/627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F627
 [/us/pl/101/508/s7101/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs7101%2Fd
 [/us/pl/101/239/s4002/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs4002%2Fb%2F1
 [/us/pl/101/239/s4002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs4002
-[/us/pl/101/508/s7101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs7101%2Fb
+[/us/pl/101/508/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtVII
 [/us/stat/104/1388-331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-331
 [/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
 [/us/pl/100/203/s5429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs5429
@@ -600,35 +600,35 @@ Sept. 27, 1965, Pub. L. 89–205, § 1(b), 79 Stat. 840.  </td>
 [/us/usc/t39/s1005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs1005
 [/us/pl/91/93/s103/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F93%2Fs103%2Fb%2F1
 [/us/usc/t5/s8348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8348
-[/us/pl/109/435/s802/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2Fs802%2Fc
+[/us/pl/109/435/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2FtVIII
 [/us/stat/120/3250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3250
 [/us/usc/t5/s8334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8334
-[/us/pl/105/261/s3154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs3154
+[/us/pl/105/261/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdC%2FtXXXI
 [/us/stat/112/2256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2256
-[/us/pl/103/66/s11101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs11101%2Fa
+[/us/pl/103/66/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2FtXI
 [/us/stat/107/413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F413
-[/us/pl/102/484/s4436/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs4436%2Fd
+[/us/pl/102/484/dD/tXLIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdD%2FtXLIV
 [/us/stat/106/2724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2724
-[/us/pl/103/337/s341/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs341%2Fb%2F2
+[/us/pl/103/337/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtIII
 [/us/stat/108/2720]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2720
-[/us/pl/105/85/s1106/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs1106%2Fb%2F2
+[/us/pl/105/85/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtXI
 [/us/stat/111/1924]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1924
 [/us/usc/t5/s8348/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8348%2Fa%2F1%2FB
-[/us/pl/101/508/s7101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs7101%2Fc
+[/us/pl/101/508/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtVII
 [/us/stat/104/1388-331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-331
-[/us/pl/102/378/s5/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378%2Fs5%2Fa%2F1
+[/us/pl/102/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378
 [/us/stat/106/1358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1358
-[/us/pl/108/18/s2/d/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F18%2Fs2%2Fd%2F1%2FB
+[/us/pl/108/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F18
 [/us/stat/117/627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F627
-[/us/pl/101/508/s7103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs7103
+[/us/pl/101/508/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtVII
 [/us/stat/104/1388-333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-333
 [/us/pl/101/239/s4002/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs4002%2Fb%2F2
 [/us/usc/t5/s8348/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8348%2Fm
-[/us/pl/101/508/s7101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs7101%2Fb
+[/us/pl/101/508/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtVII
 [/us/stat/104/1388-331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-331
 [/us/pl/101/239/s4002/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs4002%2Fb%2F3
 [/us/usc/t5/s8348/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8348%2Fm
-[/us/pl/101/508/s7101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs7101%2Fb
+[/us/pl/101/508/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtVII
 [/us/stat/104/1388-331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-331
 [/us/pl/91/93/s103/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F93%2Fs103%2Fb%2F2
 [/us/usc/t5/s8348/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8348%2Fg
@@ -636,9 +636,9 @@ Sept. 27, 1965, Pub. L. 89–205, § 1(b), 79 Stat. 840.  </td>
 [/us/pl/89/737/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F737%2Fs3
 [/us/stat/80/1164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1164
 [/us/usc/t5/s8348/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8348%2Fg
-[/us/pl/90/83/s10/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83%2Fs10%2Fb
+[/us/pl/90/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83
 [/us/stat/81/223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F223
-[/us/pl/87/350/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F350%2Fs1%2Fb
+[/us/pl/87/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F350
 [/us/stat/75/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F770
 
 

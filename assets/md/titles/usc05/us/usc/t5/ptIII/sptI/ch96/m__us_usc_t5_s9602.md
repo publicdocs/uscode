@@ -45,7 +45,7 @@
 
     (e) The Office of Personnel Management shall prescribe such regulations as may be necessary to carry out this section.
 
-(Added [Pub. L. 114–47, § 2(a)][/us/pl/114/47/s2/a], Aug. 7, 2015, [129 Stat. 485][/us/stat/129/485].)
+(Added [Pub. L. 114–47][/us/pl/114/47], § 2(a), Aug. 7, 2015, [129 Stat. 485][/us/stat/129/485].)
 
 ----------
 
@@ -55,7 +55,7 @@
 ----------
 
 [/us/usc/t31/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs101
-[/us/pl/114/47/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F47%2Fs2%2Fa
+[/us/pl/114/47]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F47
 [/us/stat/129/485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F485
 
 

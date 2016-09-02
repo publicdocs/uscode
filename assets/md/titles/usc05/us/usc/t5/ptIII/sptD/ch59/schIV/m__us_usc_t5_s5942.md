@@ -19,7 +19,7 @@
 
     (b) Under procedures prescribed by the President, the maximum allowance specified in subsection (a) may be adjusted from time to time in the interest of recruiting and retaining employees for performance of duty at remote worksites.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 513][/us/stat/80/513]; [Pub. L. 90–83, § 1(41)][/us/pl/90/83/s1/41], Sept. 11, 1967, [81 Stat. 207][/us/stat/81/207]; [Pub. L. 91–656, § 6(a)][/us/pl/91/656/s6/a], Jan. 8, 1971, [84 Stat. 1953][/us/stat/84/1953]; [Pub. L. 101–510, div. A, title XII, § 1206(g)][/us/pl/101/510/s1206/g], Nov. 5, 1990, [104 Stat. 1662][/us/stat/104/1662].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 513][/us/stat/80/513]; [Pub. L. 90–83][/us/pl/90/83], § 1(41), Sept. 11, 1967, [81 Stat. 207][/us/stat/81/207]; [Pub. L. 91–656][/us/pl/91/656], § 6(a), Jan. 8, 1971, [84 Stat. 1953][/us/stat/84/1953]; [Pub. L. 101–510, div. A, title XII][/us/pl/101/510/dA/tXII], § 1206(g), Nov. 5, 1990, [104 Stat. 1662][/us/stat/104/1662].)
 
 <table>
 
@@ -131,7 +131,7 @@ Mar. 31, 1966, Pub. L. 89–383, § 1, 80 Stat. 98.  </td>
 
  __Effective Date of 1971 Amendment__ 
 
-[Pub. L. 91–656, § 6(b)][/us/pl/91/656/s6/b], Jan. 8, 1971, [84 Stat. 1954][/us/stat/84/1954], provided that: 
+[Pub. L. 91–656][/us/pl/91/656], § 6(b), Jan. 8, 1971, [84 Stat. 1954][/us/stat/84/1954], provided that: 
 
 > “Notwithstanding [section 5536 of title 5][/us/usc/t5/s5536], United States Code, and the amendment made by subsection (a) of this section \[amending this section\], and until the effective date of regulations prescribed by the President under such amendment—
 
@@ -153,15 +153,15 @@ Mar. 31, 1966, Pub. L. 89–383, § 1, 80 Stat. 98.  </td>
 [/us/usc/t5/s5536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5536
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F513
-[/us/pl/90/83/s1/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83%2Fs1%2F41
+[/us/pl/90/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83
 [/us/stat/81/207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F207
-[/us/pl/91/656/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F656%2Fs6%2Fa
+[/us/pl/91/656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F656
 [/us/stat/84/1953]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1953
-[/us/pl/101/510/s1206/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1206%2Fg
+[/us/pl/101/510/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtXII
 [/us/stat/104/1662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1662
 [/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
 [/us/pl/91/656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F656
-[/us/pl/91/656/s6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F656%2Fs6%2Fb
+[/us/pl/91/656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F656
 [/us/stat/84/1954]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1954
 [/us/usc/t5/s5536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5536
 [/us/usc/t5/s5942]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5942

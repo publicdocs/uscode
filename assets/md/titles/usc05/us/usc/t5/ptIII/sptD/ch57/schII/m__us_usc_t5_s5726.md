@@ -29,7 +29,7 @@
 
     (c) Under regulations prescribed under [section 5738 of this title][/us/usc/t5/s5738], when an employee, including a new appointee and a student trainee to the extent authorized by [section 5723 of this title][/us/usc/t5/s5723], is assigned to a permanent duty station at an isolated location in the continental United States to which he cannot take or at which he is unable to use his household goods and personal effects because of the absence of residence quarters at the location, nontemporary storage expenses or storage at Government expense in Government-owned facilities (including related transportation and other expenses), whichever is more economical, may be allowed the employee under regulations prescribed by the head of the agency concerned. The weight of property stored under this subsection, together with the weight of property transported under sections 5723(a) and 5724(a) of this title, may not exceed the total maximum weight the employee would be entitled to have moved. The period of nontemporary storage under this subsection may not exceed 3 years.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 504][/us/stat/80/504]; [Pub. L. 90–83, § 1(38)][/us/pl/90/83/s1/38], Sept. 11, 1967, [81 Stat. 205][/us/stat/81/205]; [Pub. L. 98–151, § 118(a)(2)][/us/pl/98/151/s118/a/2], Nov. 14, 1983, [97 Stat. 977][/us/stat/97/977]; [Pub. L. 104–201, div. A, title XVII, § 1723(b)(1)][/us/pl/104/201/s1723/b/1], (3), Sept. 23, 1996, [110 Stat. 2759][/us/stat/110/2759].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 504][/us/stat/80/504]; [Pub. L. 90–83][/us/pl/90/83], § 1(38), Sept. 11, 1967, [81 Stat. 205][/us/stat/81/205]; [Pub. L. 98–151][/us/pl/98/151], § 118(a)(2), Nov. 14, 1983, [97 Stat. 977][/us/stat/97/977]; [Pub. L. 104–201, div. A, title XVII][/us/pl/104/201/dA/tXVII], § 1723(b)(1), (3), Sept. 23, 1996, [110 Stat. 2759][/us/stat/110/2759].)
 
 <table>
 
@@ -145,9 +145,9 @@ July 21, 1966, Pub. L. 89–516, § 2 “Sec. 25”, 80 Stat. 324.  </td>
 
  __Amendments__ 
 
-    1996—Subsec. (a). [Pub. L. 104–201, § 1723(b)(3)][/us/pl/104/201/s1723/b/3], substituted “as authorized under regulations prescribed under [section 5738 of this title][/us/usc/t5/s5738]” for “as the President may by regulation authorize”.
+    1996—Subsec. (a). [Pub. L. 104–201][/us/pl/104/201], § 1723(b)(3), substituted “as authorized under regulations prescribed under [section 5738 of this title][/us/usc/t5/s5738]” for “as the President may by regulation authorize”.
 
-    Subsecs. (b), (c). [Pub. L. 104–201, § 1723(b)(1)][/us/pl/104/201/s1723/b/1], substituted “Under regulations prescribed under [section 5738 of this title][/us/usc/t5/s5738]” for “Under such regulations as the President may prescribe”.
+    Subsecs. (b), (c). [Pub. L. 104–201][/us/pl/104/201], § 1723(b)(1), substituted “Under regulations prescribed under [section 5738 of this title][/us/usc/t5/s5738]” for “Under such regulations as the President may prescribe”.
 
     1983—Subsec. (b). [Pub. L. 98–151][/us/pl/98/151] substituted “18,000” for “11,000”.
 
@@ -176,11 +176,11 @@ July 21, 1966, Pub. L. 89–516, § 2 “Sec. 25”, 80 Stat. 324.  </td>
 [/us/usc/t5/s5723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5723
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F504
-[/us/pl/90/83/s1/38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83%2Fs1%2F38
+[/us/pl/90/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83
 [/us/stat/81/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F205
-[/us/pl/98/151/s118/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F151%2Fs118%2Fa%2F2
+[/us/pl/98/151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F151
 [/us/stat/97/977]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F977
-[/us/pl/104/201/s1723/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1723%2Fb%2F1
+[/us/pl/104/201/dA/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtXVII
 [/us/stat/110/2759]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2759
 [/us/usc/t5/s73b–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs73b%E2%80%933
 [/us/usc/t5/s5726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5726
@@ -194,9 +194,9 @@ July 21, 1966, Pub. L. 89–516, § 2 “Sec. 25”, 80 Stat. 324.  </td>
 [/us/usc/t5/s5721/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5721%2F1
 [/us/usc/t5/s5723/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5723%2Fa
 [/us/pl/89/516/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F516%2Fs2
-[/us/pl/104/201/s1723/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1723%2Fb%2F3
+[/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
 [/us/usc/t5/s5738]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5738
-[/us/pl/104/201/s1723/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1723%2Fb%2F1
+[/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
 [/us/usc/t5/s5738]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5738
 [/us/pl/98/151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F151
 [/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201

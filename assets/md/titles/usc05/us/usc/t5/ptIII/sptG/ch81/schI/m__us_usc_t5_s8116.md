@@ -41,7 +41,7 @@
 
         (2) in the case of benefits received on account of age or death under title II of the Social Security Act, compensation payable under this subchapter based on the Federal service of an employee shall be reduced by the amount of any such social security benefits payable that are attributable to Federal service of that employee covered by chapter 84 of this title. However, eligibility for or receipt of benefits under chapter 84 of this title, or benefits under title II of the Social Security Act by virtue of service covered by chapter 84 of this title, does not affect the right of the employee to compensation for scheduled disabilities specified by [section 8107(c) of this title][/us/usc/t5/s8107/c].
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 542][/us/stat/80/542]; [Pub. L. 90–83, § 1(56)][/us/pl/90/83/s1/56], Sept. 11, 1967, [81 Stat. 210][/us/stat/81/210]; [Pub. L. 93–416, § 9(a)][/us/pl/93/416/s9/a], Sept. 7, 1974, [88 Stat. 1145][/us/stat/88/1145]; [Pub. L. 99–335, title II, § 207(e)][/us/pl/99/335/s207/e], June 6, 1986, [100 Stat. 595][/us/stat/100/595]; [Pub. L. 102–54, § 13(b)(1)][/us/pl/102/54/s13/b/1], June 13, 1991, [105 Stat. 274][/us/stat/105/274]; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title X, § 1087(f)(3)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–293.)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 542][/us/stat/80/542]; [Pub. L. 90–83][/us/pl/90/83], § 1(56), Sept. 11, 1967, [81 Stat. 210][/us/stat/81/210]; [Pub. L. 93–416][/us/pl/93/416], § 9(a), Sept. 7, 1974, [88 Stat. 1145][/us/stat/88/1145]; [Pub. L. 99–335, title II][/us/pl/99/335/tII], § 207(e), June 6, 1986, [100 Stat. 595][/us/stat/100/595]; [Pub. L. 102–54][/us/pl/102/54], § 13(b)(1), June 13, 1991, [105 Stat. 274][/us/stat/105/274]; [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title X, § 1087(f)(3)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–293.)
 
 <table>
 
@@ -193,7 +193,7 @@ Sept. 4, 1964, Pub. L. 88–581, § 4(b), 78 Stat. 919.  </td>
 
 </table>
 
-    In subsection (a)(2), “Air Force” is added on authority of the [Act of July 26, 1947, ch. 343, § 207(a)][/us/act/1947-07-26/ch343/s207/a], (f), [61 Stat. 502][/us/stat/61/502], and sections 8010—8013 of title 10, United States Code. This does not affect the operation of this subsection insofar as it concerns members of the Coast Guard whose pension is based in whole or in part on service with the Coast Guard when it operated as a part of the Navy.
+    In subsection (a)(2), “Air Force” is added on authority of the [Act of July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], § 207(a), (f), [61 Stat. 502][/us/stat/61/502], and sections 8010—8013 of title 10, United States Code. This does not affect the operation of this subsection insofar as it concerns members of the Coast Guard whose pension is based in whole or in part on service with the Coast Guard when it operated as a part of the Navy.
 
     In subsection (b), the reference to the definition of “employee” in former section 790 is omitted as unnecessary as the definition is included in section 8101 for the entire subchapter.
 
@@ -267,7 +267,7 @@ July 4, 1966, Pub. L. 89–488, § 5(a), 80 Stat. 253.  </td>
 
  __Effective Date of 1974 Amendment__ 
 
-[Pub. L. 93–416, § 9(b)][/us/pl/93/416/s9/b], Sept. 7, 1974, [88 Stat. 1145][/us/stat/88/1145], provided that: 
+[Pub. L. 93–416][/us/pl/93/416], § 9(b), Sept. 7, 1974, [88 Stat. 1145][/us/stat/88/1145], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall be effective with respect to disability or death occurring before or after the date of enactment of this Act \[Sept. 7, 1974\] and without regard to any election under section 8116(b) of the Act \[subsec. (b) of this section\]; but no payment shall be made by reason of such amendment for any period prior to the date of enactment of this Act.”
 
@@ -286,17 +286,17 @@ July 4, 1966, Pub. L. 89–488, § 5(a), 80 Stat. 253.  </td>
 [/us/usc/t5/s8107/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8107%2Fc
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F542
-[/us/pl/90/83/s1/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83%2Fs1%2F56
+[/us/pl/90/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83
 [/us/stat/81/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F210
-[/us/pl/93/416/s9/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F416%2Fs9%2Fa
+[/us/pl/93/416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F416
 [/us/stat/88/1145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1145
-[/us/pl/99/335/s207/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2Fs207%2Fe
+[/us/pl/99/335/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2FtII
 [/us/stat/100/595]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F595
-[/us/pl/102/54/s13/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54%2Fs13%2Fb%2F1
+[/us/pl/102/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54
 [/us/stat/105/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F274
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/act/1947-07-26/ch343/s207/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343%2Fs207%2Fa
+[/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
 [/us/stat/61/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F502
 [/us/stat/64/1271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1271
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
@@ -310,7 +310,7 @@ July 4, 1966, Pub. L. 89–488, § 5(a), 80 Stat. 253.  </td>
 [/us/pl/99/335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335
 [/us/pl/99/335/s702/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2Fs702%2Fa
 [/us/usc/t5/s8401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8401
-[/us/pl/93/416/s9/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F416%2Fs9%2Fb
+[/us/pl/93/416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F416
 [/us/stat/88/1145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1145
 [/us/pl/90/83/s1/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83%2Fs1%2F56
 [/us/pl/90/83/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83%2Fs7

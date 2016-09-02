@@ -17,7 +17,7 @@
 
     Notwithstanding any provision of subchapter I, and subject to the provisions of this subchapter, the Office of Personnel Management shall establish a program under which annual leave accrued or accumulated by an employee may be transferred to the annual leave account of any other employee if such other employee requires additional leave because of a medical emer­gency.
 
-(Added [Pub. L. 100–566, § 2(a)][/us/pl/100/566/s2/a], Oct. 31, 1988, [102 Stat. 2834][/us/stat/102/2834].)
+(Added [Pub. L. 100–566][/us/pl/100/566], § 2(a), Oct. 31, 1988, [102 Stat. 2834][/us/stat/102/2834].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/100/566/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F566%2Fs2%2Fa
+[/us/pl/100/566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F566
 [/us/stat/102/2834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2834
 
 

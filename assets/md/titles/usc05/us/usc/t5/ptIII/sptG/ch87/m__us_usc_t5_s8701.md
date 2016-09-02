@@ -77,7 +77,7 @@
 
         (2) For the purpose of this subsection, “dependent”, in the case of any child, means that the individual involved was, at the time of the child’s death, either living with or contributing to the support of the child, as determined in accordance with the regulations the Office shall prescribe.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 592][/us/stat/80/592]; [Pub. L. 91–418, § 3(a)][/us/pl/91/418/s3/a], Sept. 25, 1970, [84 Stat. 869][/us/stat/84/869]; [Pub. L. 93–160, § 1(a)][/us/pl/93/160/s1/a], Nov. 27, 1973, [87 Stat. 635][/us/stat/87/635]; [Pub. L. 95–454, title IX, § 906(a)(2)][/us/pl/95/454/s906/a/2], Oct. 13, 1978, [92 Stat. 1224][/us/stat/92/1224]; [Pub. L. 96–54, § 2(a)(51)][/us/pl/96/54/s2/a/51], Aug. 14, 1979, [93 Stat. 384][/us/stat/93/384]; [Pub. L. 96–70, title I, § 1209(b)][/us/pl/96/70/s1209/b], Sept. 27, 1979, [93 Stat. 463][/us/stat/93/463]; [Pub. L. 96–427][/us/pl/96/427], §§ 2(a), 8(b), Oct. 10, 1980, [94 Stat. 1831][/us/stat/94/1831], 1837; [Pub. L. 98–353, title II, § 205][/us/pl/98/353/s205], July 10, 1984, [98 Stat. 350][/us/stat/98/350]; [Pub. L. 99–335, title II, § 207(k)(1)][/us/pl/99/335/s207/k/1], June 6, 1986, [100 Stat. 597][/us/stat/100/597]; [Pub. L. 100–679, § 13(b)][/us/pl/100/679/s13/b], Nov. 17, 1988, [102 Stat. 4071][/us/stat/102/4071]; [Pub. L. 105–311][/us/pl/105/311], §§ 3(1), 4, Oct. 30, 1998, [112 Stat. 2950][/us/stat/112/2950].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 592][/us/stat/80/592]; [Pub. L. 91–418][/us/pl/91/418], § 3(a), Sept. 25, 1970, [84 Stat. 869][/us/stat/84/869]; [Pub. L. 93–160][/us/pl/93/160], § 1(a), Nov. 27, 1973, [87 Stat. 635][/us/stat/87/635]; [Pub. L. 95–454, title IX][/us/pl/95/454/tIX], § 906(a)(2), Oct. 13, 1978, [92 Stat. 1224][/us/stat/92/1224]; [Pub. L. 96–54][/us/pl/96/54], § 2(a)(51), Aug. 14, 1979, [93 Stat. 384][/us/stat/93/384]; [Pub. L. 96–70, title I][/us/pl/96/70/tI], § 1209(b), Sept. 27, 1979, [93 Stat. 463][/us/stat/93/463]; [Pub. L. 96–427][/us/pl/96/427], §§ 2(a), 8(b), Oct. 10, 1980, [94 Stat. 1831][/us/stat/94/1831], 1837; [Pub. L. 98–353, title II][/us/pl/98/353/tII], § 205, July 10, 1984, [98 Stat. 350][/us/stat/98/350]; [Pub. L. 99–335, title II][/us/pl/99/335/tII], § 207(k)(1), June 6, 1986, [100 Stat. 597][/us/stat/100/597]; [Pub. L. 100–679][/us/pl/100/679], § 13(b), Nov. 17, 1988, [102 Stat. 4071][/us/stat/102/4071]; [Pub. L. 105–311][/us/pl/105/311], §§ 3(1), 4, Oct. 30, 1998, [112 Stat. 2950][/us/stat/112/2950].)
 
 <table>
 
@@ -215,9 +215,9 @@ July 17, 1959, Pub. L. 86–91, § 10(c) (less applicability to the Civil Serv
 
  __Amendments__ 
 
-    1998—Subsec. (c). [Pub. L. 105–311, § 3(1)][/us/pl/105/311/s3/1], substituted a period for comma after “$10,000” in par. (2) and struck out “except that the amount of insurance may not exceed the annual rate of basic pay payable for positions at level II of the Executive Schedule under [section 5313 of this title][/us/usc/t5/s5313], rounded to the next higher multiple of $1,000, plus $2,000.” before last sentence.
+    1998—Subsec. (c). [Pub. L. 105–311][/us/pl/105/311], § 3(1), substituted a period for comma after “$10,000” in par. (2) and struck out “except that the amount of insurance may not exceed the annual rate of basic pay payable for positions at level II of the Executive Schedule under [section 5313 of this title][/us/usc/t5/s5313], rounded to the next higher multiple of $1,000, plus $2,000.” before last sentence.
 
-    Subsec. (d)(1)(B). [Pub. L. 105–311, § 4][/us/pl/105/311/s4], inserted “or foster child” after “stepchild” in two places in introductory provisions.
+    Subsec. (d)(1)(B). [Pub. L. 105–311][/us/pl/105/311], § 4, inserted “or foster child” after “stepchild” in two places in introductory provisions.
 
     1988—Subsec. (a)(10). [Pub. L. 100–679][/us/pl/100/679] added par. (10).
 
@@ -225,11 +225,11 @@ July 17, 1959, Pub. L. 86–91, § 10(c) (less applicability to the Civil Serv
 
     1984—Subsec. (a)(5) to (9). [Pub. L. 98–353][/us/pl/98/353] added par. (5) and redesignated former pars. (5) to (8) as (6) to (9), respectively.
 
-    1980—[Pub. L. 96–427, § 2(a)(1)][/us/pl/96/427/s2/a/1], substituted “Definitions” for “Definition” in section catchline.
+    1980—[Pub. L. 96–427][/us/pl/96/427], § 2(a)(1), substituted “Definitions” for “Definition” in section catchline.
 
-    Subsec. (c). [Pub. L. 96–427, § 2(a)(2)][/us/pl/96/427/s2/a/2], added subsec. (c).
+    Subsec. (c). [Pub. L. 96–427][/us/pl/96/427], § 2(a)(2), added subsec. (c).
 
-    Subsec. (d). [Pub. L. 96–427, § 8(b)][/us/pl/96/427/s8/b], added subsec. (d).
+    Subsec. (d). [Pub. L. 96–427][/us/pl/96/427], § 8(b), added subsec. (d).
 
     1979—Subsec. (a)(7) to (9). [Pub. L. 96–54][/us/pl/96/54] struck out cl. (7) which related to coverage within term “employee” of a United States Commissioner, and redesignated cls. (8) and (9) as (7) and (8), respectively.
 
@@ -247,7 +247,7 @@ July 17, 1959, Pub. L. 86–91, § 10(c) (less applicability to the Civil Serv
 
  __Effective Date of 1998 Amendment__ 
 
-[Pub. L. 105–311, § 11][/us/pl/105/311/s11], Oct. 30, 1998, [112 Stat. 2954][/us/stat/112/2954], provided that:
+[Pub. L. 105–311][/us/pl/105/311], § 11, Oct. 30, 1998, [112 Stat. 2954][/us/stat/112/2954], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -297,7 +297,7 @@ July 17, 1959, Pub. L. 86–91, § 10(c) (less applicability to the Civil Serv
 
  __Effective Date of 1980 Amendment__ 
 
-[Pub. L. 96–427, § 10][/us/pl/96/427/s10], Oct. 10, 1980, [94 Stat. 1838][/us/stat/94/1838], provided that:
+[Pub. L. 96–427][/us/pl/96/427], § 10, Oct. 10, 1980, [94 Stat. 1838][/us/stat/94/1838], provided that:
 
 >     “(a) Unless otherwise specified, this Act \[see Short Title note below\] shall take effect on the date of the enactment of this Act \[Oct. 10, 1980\] and shall have no effect in the case of an employee who died, was separated, or retired before the date of enactment.
 
@@ -319,25 +319,25 @@ July 17, 1959, Pub. L. 86–91, § 10(c) (less applicability to the Civil Serv
 
  __Short Title of 1998 Amendment__ 
 
-[Pub. L. 105–311, § 1][/us/pl/105/311/s1], Oct. 30, 1998, [112 Stat. 2950][/us/stat/112/2950], provided that: 
+[Pub. L. 105–311][/us/pl/105/311], § 1, Oct. 30, 1998, [112 Stat. 2950][/us/stat/112/2950], provided that: 
 
 > “This Act \[amending this section and sections 7703, 8706, 8707, and 8714a to 8714c of this title and enacting provisions set out as notes under this section and sections 7703 and 8714b of this title\] may be cited as the ‘Federal Employees Life Insurance Improvement Act’.”
 
  __Short Title of 1994 Amendment__ 
 
-[Pub. L. 103–409, § 1][/us/pl/103/409/s1], Oct. 25, 1994, [108 Stat. 4230][/us/stat/108/4230], provided that: 
+[Pub. L. 103–409][/us/pl/103/409], § 1, Oct. 25, 1994, [108 Stat. 4230][/us/stat/108/4230], provided that: 
 
 > “This Act \[enacting [section 8714d of this title][/us/usc/t5/s8714d] and provisions set out as notes under this section and sections 8704, 8714, and 8901 of this title\] may be cited as the ‘FEGLI Living Benefits Act’.”
 
  __Short Title of 1980 Amendment__ 
 
-[Pub. L. 96–427, § 1][/us/pl/96/427/s1], Oct. 10, 1980, [94 Stat. 1831][/us/stat/94/1831], provided that: 
+[Pub. L. 96–427][/us/pl/96/427], § 1, Oct. 10, 1980, [94 Stat. 1831][/us/stat/94/1831], provided that: 
 
 > “This Act \[enacting sections 8714b and 8714c of this title, amending this section and sections 8704, 8706, 8707, 8709, and 8714a of this title, repealing [section 8713 of this title][/us/usc/t5/s8713] and enacting provisions set out as notes under this section and sections 8704 and 8714a of this title\] may be cited as the ‘Federal Employees’ Group Life Insurance Act of 1980’.”
 
  __Construction__ 
 
-[Pub. L. 111–8, div. D, title III, § 307(b)][/us/pl/111/8/s307/b], Mar. 11, 2009, [123 Stat. 648][/us/stat/123/648], provided that: 
+[Pub. L. 111–8, div. D, title III][/us/pl/111/8/dD/tIII], § 307(b), Mar. 11, 2009, [123 Stat. 648][/us/stat/123/648], provided that: 
 
 > “For purposes of construing and applying chapter 87 of title 5, United States Code, including any adjustment of insurance rates by regulation or otherwise, the following categories of judicial officers shall be deemed to be judges of the United States as described under [section 8701 of title 5][/us/usc/t5/s8701], United States Code:
 
@@ -355,11 +355,11 @@ July 17, 1959, Pub. L. 86–91, § 10(c) (less applicability to the Civil Serv
 
     Similar provisions were contained in the following prior act:
 
-    [Pub. L. 110–177, title V, § 502(b)][/us/pl/110/177/s502/b], Jan. 7, 2008, [121 Stat. 2542][/us/stat/121/2542].
+    [Pub. L. 110–177, title V][/us/pl/110/177/tV], § 502(b), Jan. 7, 2008, [121 Stat. 2542][/us/stat/121/2542].
 
  __Open Season__ 
 
-[Pub. L. 105–311, § 9][/us/pl/105/311/s9], Oct. 30, 1998, [112 Stat. 2954][/us/stat/112/2954], provided that: 
+[Pub. L. 105–311][/us/pl/105/311], § 9, Oct. 30, 1998, [112 Stat. 2954][/us/stat/112/2954], provided that: 
 
 > “Beginning not later than 180 days after the date of enactment of this Act \[Oct. 30, 1998\], the Office of Personnel Management shall conduct an open enrollment opportunity for purposes of chapter 87 of title 5, United States Code, over a period of not less than 8 weeks. During this period, an employee (as defined under section 8701(a) of such title)—
 
@@ -367,7 +367,7 @@ July 17, 1959, Pub. L. 86–91, § 10(c) (less applicability to the Civil Serv
 
 >     “(2) may, if currently insured for optional life insurance on family members, elect an amount above the minimum insurance on a spouse.”
 
-[Pub. L. 103–409, § 3(b)][/us/pl/103/409/s3/b], Oct. 25, 1994, [108 Stat. 4232][/us/stat/108/4232], provided that:
+[Pub. L. 103–409][/us/pl/103/409], § 3(b), Oct. 25, 1994, [108 Stat. 4232][/us/stat/108/4232], provided that:
 
 >     “(1)
 
@@ -409,23 +409,23 @@ July 17, 1959, Pub. L. 86–91, § 10(c) (less applicability to the Civil Serv
 [/us/usc/t5/s8706/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8706%2Fa
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F592
-[/us/pl/91/418/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F418%2Fs3%2Fa
+[/us/pl/91/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F418
 [/us/stat/84/869]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F869
-[/us/pl/93/160/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F160%2Fs1%2Fa
+[/us/pl/93/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F160
 [/us/stat/87/635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F635
-[/us/pl/95/454/s906/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs906%2Fa%2F2
+[/us/pl/95/454/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtIX
 [/us/stat/92/1224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1224
-[/us/pl/96/54/s2/a/51]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F54%2Fs2%2Fa%2F51
+[/us/pl/96/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F54
 [/us/stat/93/384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F384
-[/us/pl/96/70/s1209/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2Fs1209%2Fb
+[/us/pl/96/70/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2FtI
 [/us/stat/93/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F463
 [/us/pl/96/427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F427
 [/us/stat/94/1831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1831
-[/us/pl/98/353/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs205
+[/us/pl/98/353/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2FtII
 [/us/stat/98/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F350
-[/us/pl/99/335/s207/k/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2Fs207%2Fk%2F1
+[/us/pl/99/335/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2FtII
 [/us/stat/100/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F597
-[/us/pl/100/679/s13/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F679%2Fs13%2Fb
+[/us/pl/100/679]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F679
 [/us/stat/102/4071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4071
 [/us/pl/105/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F311
 [/us/stat/112/2950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2950
@@ -438,15 +438,15 @@ July 17, 1959, Pub. L. 86–91, § 10(c) (less applicability to the Civil Serv
 [/us/usc/t3/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs102
 [/us/pl/88/277/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F277%2Fs4
 [/us/usc/t3/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs102
-[/us/pl/105/311/s3/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F311%2Fs3%2F1
+[/us/pl/105/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F311
 [/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
-[/us/pl/105/311/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F311%2Fs4
+[/us/pl/105/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F311
 [/us/pl/100/679]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F679
 [/us/pl/99/335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335
 [/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
-[/us/pl/96/427/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F427%2Fs2%2Fa%2F1
-[/us/pl/96/427/s2/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F427%2Fs2%2Fa%2F2
-[/us/pl/96/427/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F427%2Fs8%2Fb
+[/us/pl/96/427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F427
+[/us/pl/96/427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F427
+[/us/pl/96/427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F427
 [/us/pl/96/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F54
 [/us/pl/96/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70
 [/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454
@@ -454,7 +454,7 @@ July 17, 1959, Pub. L. 86–91, § 10(c) (less applicability to the Civil Serv
 [/us/pl/91/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F418
 [/us/pl/99/371/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F371%2Fs101%2Fa
 [/us/usc/t20/s4301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs4301%2Fa
-[/us/pl/105/311/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F311%2Fs11
+[/us/pl/105/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F311
 [/us/stat/112/2954]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2954
 [/us/usc/t5/s8714b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8714b
 [/us/usc/t5/s8706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8706
@@ -464,7 +464,7 @@ July 17, 1959, Pub. L. 86–91, § 10(c) (less applicability to the Civil Serv
 [/us/pl/99/335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335
 [/us/pl/99/335/s702/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2Fs702%2Fa
 [/us/usc/t5/s8401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8401
-[/us/pl/96/427/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F427%2Fs10
+[/us/pl/96/427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F427
 [/us/stat/94/1838]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1838
 [/us/usc/t5/s8704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8704
 [/us/usc/t5/s5545/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5545%2Fc%2F2
@@ -478,15 +478,15 @@ July 17, 1959, Pub. L. 86–91, § 10(c) (less applicability to the Civil Serv
 [/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454
 [/us/pl/95/454/s907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs907
 [/us/usc/t5/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs1101
-[/us/pl/105/311/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F311%2Fs1
+[/us/pl/105/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F311
 [/us/stat/112/2950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2950
-[/us/pl/103/409/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F409%2Fs1
+[/us/pl/103/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F409
 [/us/stat/108/4230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4230
 [/us/usc/t5/s8714d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8714d
-[/us/pl/96/427/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F427%2Fs1
+[/us/pl/96/427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F427
 [/us/stat/94/1831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1831
 [/us/usc/t5/s8713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8713
-[/us/pl/111/8/s307/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8%2Fs307%2Fb
+[/us/pl/111/8/dD/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8%2FdD%2FtIII
 [/us/stat/123/648]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F648
 [/us/usc/t5/s8701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8701
 [/us/usc/t28/s377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs377
@@ -494,11 +494,11 @@ July 17, 1959, Pub. L. 86–91, § 10(c) (less applicability to the Civil Serv
 [/us/pl/111/8/s307/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8%2Fs307%2Fb
 [/us/pl/111/8/s307/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8%2Fs307%2Fc
 [/us/usc/t28/s604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs604
-[/us/pl/110/177/s502/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F177%2Fs502%2Fb
+[/us/pl/110/177/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F177%2FtV
 [/us/stat/121/2542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2542
-[/us/pl/105/311/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F311%2Fs9
+[/us/pl/105/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F311
 [/us/stat/112/2954]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2954
-[/us/pl/103/409/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F409%2Fs3%2Fb
+[/us/pl/103/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F409
 [/us/stat/108/4232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4232
 [/us/usc/t5/s8701/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8701%2Fa
 [/us/pl/99/335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335

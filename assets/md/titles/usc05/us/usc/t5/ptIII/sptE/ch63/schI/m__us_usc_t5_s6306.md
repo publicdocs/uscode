@@ -19,7 +19,7 @@
 
     (b) An amount refunded under subsection (a) of this section shall be deposited in the Treasury of the United States to the credit of the employing agency. When an individual is reemployed under the same leave system, an amount of leave equal to the leave represented by the refund shall be recredited to him in the employing agency. When an individual is reemployed under a different leave system, an amount of leave equal to the leave represented by the refund shall be recredited to him in the employing agency on an adjusted basis under regulations prescribed by the Office of Personnel Management. When an individual is reemployed in a position excepted from this subchapter by section 6301(2)(x)–(xiii) of this title, an amount of leave equal to the leave represented by the refund is deemed, on separation from the service, death, or transfer to another position in the service, to have remained to his credit.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 520][/us/stat/80/520]; [Pub. L. 95–454, title IX, § 906(a)(2)][/us/pl/95/454/s906/a/2], Oct. 13, 1978, [92 Stat. 1224][/us/stat/92/1224]; [Pub. L. 95–519, § 2][/us/pl/95/519/s2], Oct. 25, 1978, [92 Stat. 1819][/us/stat/92/1819].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 520][/us/stat/80/520]; [Pub. L. 95–454, title IX][/us/pl/95/454/tIX], § 906(a)(2), Oct. 13, 1978, [92 Stat. 1224][/us/stat/92/1224]; [Pub. L. 95–519][/us/pl/95/519], § 2, Oct. 25, 1978, [92 Stat. 1819][/us/stat/92/1819].)
 
 <table>
 
@@ -123,9 +123,9 @@ Aug. 18, 1959, Pub. L. 86–168, § 202(e), 73 Stat. 389.  </td>
 [/us/usc/t5/s5551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5551
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F520
-[/us/pl/95/454/s906/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs906%2Fa%2F2
+[/us/pl/95/454/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtIX
 [/us/stat/92/1224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1224
-[/us/pl/95/519/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F519%2Fs2
+[/us/pl/95/519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F519
 [/us/stat/92/1819]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1819
 [/us/pl/95/519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F519
 [/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454

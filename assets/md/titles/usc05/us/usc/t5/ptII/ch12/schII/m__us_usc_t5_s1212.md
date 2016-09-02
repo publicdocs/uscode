@@ -91,15 +91,15 @@
 
         (2) A court of the United States shall grant the application of the Special Counsel to appear in any such action for the purposes described under subsection (a).
 
-(Added [Pub. L. 101–12, § 3(a)(13)][/us/pl/101/12/s3/a/13], Apr. 10, 1989, [103 Stat. 19][/us/stat/103/19]; amended [Pub. L. 103–424, § 3(b)][/us/pl/103/424/s3/b], Oct. 29, 1994, [108 Stat. 4362][/us/stat/108/4362]; [Pub. L. 112–199, title I, § 113][/us/pl/112/199/s113], Nov. 27, 2012, [126 Stat. 1472][/us/stat/126/1472].)
+(Added [Pub. L. 101–12][/us/pl/101/12], § 3(a)(13), Apr. 10, 1989, [103 Stat. 19][/us/stat/103/19]; amended [Pub. L. 103–424][/us/pl/103/424], § 3(b), Oct. 29, 1994, [108 Stat. 4362][/us/stat/108/4362]; [Pub. L. 112–199, title I][/us/pl/112/199/tI], § 113, Nov. 27, 2012, [126 Stat. 1472][/us/stat/126/1472].)
 
  __Amendments__ 
 
     2012—Subsec. (h). [Pub. L. 112–199][/us/pl/112/199] added subsec. (h).
 
-    1994—Subsec. (g)(1). [Pub. L. 103–424, § 3(b)(1)][/us/pl/103/424/s3/b/1] substituted “disclose any information from or about” for “provide information concerning”.
+    1994—Subsec. (g)(1). [Pub. L. 103–424][/us/pl/103/424], § 3(b)(1) substituted “disclose any information from or about” for “provide information concerning”.
 
-    Subsec. (g)(2). [Pub. L. 103–424, § 3(b)(2)][/us/pl/103/424/s3/b/2], substituted “an evaluation of the work performance, ability, aptitude, general qualifications, character, loyalty, or suitability for any personnel action of any” for “a matter described in subparagraph (A) or (B) of section 2302(b)(2) in connection with a”.
+    Subsec. (g)(2). [Pub. L. 103–424][/us/pl/103/424], § 3(b)(2), substituted “an evaluation of the work performance, ability, aptitude, general qualifications, character, loyalty, or suitability for any personnel action of any” for “a matter described in subparagraph (A) or (B) of section 2302(b)(2) in connection with a”.
 
  __Effective Date of 2012 Amendment__ 
 
@@ -107,13 +107,13 @@
 
  __Policy Statement Regarding Implementation of Whistleblower Protection Act__ 
 
-[Pub. L. 103–424, § 12(a)][/us/pl/103/424/s12/a], Oct. 29, 1994, [108 Stat. 4366][/us/stat/108/4366], provided that: 
+[Pub. L. 103–424][/us/pl/103/424], § 12(a), Oct. 29, 1994, [108 Stat. 4366][/us/stat/108/4366], provided that: 
 
 > “No later than 6 months after the date of enactment of this Act \[Oct. 29, 1994\], the Special Counsel shall issue a policy statement regarding the implementation of the Whistleblower Protection Act of 1989 \[see Short Title of 1989 Amendment note set out under [section 1201 of this title][/us/usc/t5/s1201]\]. Such policy statement shall be made available to each person alleging a prohibited personnel practice described under [section 2302(b)(8) of title 5][/us/usc/t5/s2302/b/8], United States Code, and shall include detailed guidelines identifying specific categories of information that may (or may not) be communicated to agency officials for an investigative purpose, or for the purpose of obtaining corrective action under [section 1214 of title 5][/us/usc/t5/s1214], United States Code, or disciplinary action under section 1215 of such title, the circumstances under which such information is likely to be disclosed, and whether or not the consent of any person is required in advance of any such communication.”
 
  __Annual Survey of Individuals Seeking Assistance__ 
 
-[Pub. L. 103–424, § 13][/us/pl/103/424/s13], Oct. 29, 1994, [108 Stat. 4367][/us/stat/108/4367], provided that:
+[Pub. L. 103–424][/us/pl/103/424], § 13, Oct. 29, 1994, [108 Stat. 4367][/us/stat/108/4367], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -137,24 +137,24 @@
 ----------
 
 [/us/usc/t5/s552a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552a
-[/us/pl/101/12/s3/a/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F12%2Fs3%2Fa%2F13
+[/us/pl/101/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F12
 [/us/stat/103/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F19
-[/us/pl/103/424/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F424%2Fs3%2Fb
+[/us/pl/103/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F424
 [/us/stat/108/4362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4362
-[/us/pl/112/199/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F199%2Fs113
+[/us/pl/112/199/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F199%2FtI
 [/us/stat/126/1472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1472
 [/us/pl/112/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F199
-[/us/pl/103/424/s3/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F424%2Fs3%2Fb%2F1
-[/us/pl/103/424/s3/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F424%2Fs3%2Fb%2F2
+[/us/pl/103/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F424
+[/us/pl/103/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F424
 [/us/pl/112/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F199
 [/us/pl/112/199/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F199%2Fs202
 [/us/usc/t5/s1204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs1204
-[/us/pl/103/424/s12/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F424%2Fs12%2Fa
+[/us/pl/103/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F424
 [/us/stat/108/4366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4366
 [/us/usc/t5/s1201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs1201
 [/us/usc/t5/s2302/b/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs2302%2Fb%2F8
 [/us/usc/t5/s1214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs1214
-[/us/pl/103/424/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F424%2Fs13
+[/us/pl/103/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F424
 [/us/stat/108/4367]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4367
 
 

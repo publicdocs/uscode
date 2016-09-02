@@ -67,7 +67,7 @@
 
     (b) In connection with any matter before the Authority in any proceeding under this section, the Authority may request, in accordance with the provisions of [section 7105(i) of this title][/us/usc/t5/s7105/i], from the Director of the Office of Personnel Management an advisory opinion concerning the proper interpretation of rules, regulations, or other policy directives issued by the Office of Personnel Management.
 
-(Added [Pub. L. 95–454, title VII, § 701][/us/pl/95/454/s701], Oct. 13, 1978, [92 Stat. 1207][/us/stat/92/1207].)
+(Added [Pub. L. 95–454, title VII][/us/pl/95/454/tVII], § 701, Oct. 13, 1978, [92 Stat. 1207][/us/stat/92/1207].)
 
 ----------
 
@@ -79,7 +79,7 @@
 [/us/usc/t5/s5596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5596
 [/us/usc/t5/s5596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5596
 [/us/usc/t5/s7105/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs7105%2Fi
-[/us/pl/95/454/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs701
+[/us/pl/95/454/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtVII
 [/us/stat/92/1207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1207
 
 

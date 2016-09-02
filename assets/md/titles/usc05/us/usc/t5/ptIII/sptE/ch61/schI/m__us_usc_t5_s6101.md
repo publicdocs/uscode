@@ -55,7 +55,7 @@
 
     (c) The Office of Personnel Management may prescribe regulations, subject to the approval of the President, necessary for the administration of this section insofar as this section affects employees in or under an Executive agency.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 514][/us/stat/80/514]; [Pub. L. 90–83, § 1(43)][/us/pl/90/83/s1/43], Sept. 11, 1967, [81 Stat. 207][/us/stat/81/207]; [Pub. L. 92–392, § 6][/us/pl/92/392/s6], Aug. 19, 1972, [86 Stat. 573][/us/stat/86/573]; [Pub. L. 94–183, § 2(25)][/us/pl/94/183/s2/25], Dec. 31, 1975, [89 Stat. 1058][/us/stat/89/1058]; [Pub. L. 95–454, title IX, § 906(a)(2)][/us/pl/95/454/s906/a/2], Oct. 13, 1978, [92 Stat. 1224][/us/stat/92/1224].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 514][/us/stat/80/514]; [Pub. L. 90–83][/us/pl/90/83], § 1(43), Sept. 11, 1967, [81 Stat. 207][/us/stat/81/207]; [Pub. L. 92–392][/us/pl/92/392], § 6, Aug. 19, 1972, [86 Stat. 573][/us/stat/86/573]; [Pub. L. 94–183][/us/pl/94/183], § 2(25), Dec. 31, 1975, [89 Stat. 1058][/us/stat/89/1058]; [Pub. L. 95–454, title IX][/us/pl/95/454/tIX], § 906(a)(2), Oct. 13, 1978, [92 Stat. 1224][/us/stat/92/1224].)
 
 <table>
 
@@ -247,7 +247,7 @@ Oct. 29, 1965, Pub. L. 89–301, § 16, 79 Stat. 1123.  </td>
 
  __Termination Date of 1982 Amendment__ 
 
-    [Pub. L. 97–221, § 5][/us/pl/97/221/s5], July 23, 1982, [96 Stat. 234][/us/stat/96/234], as amended by [Pub. L. 99–69][/us/pl/99/69], July 22, 1985, [99 Stat. 167][/us/stat/99/167]; [Pub. L. 99–109][/us/pl/99/109], Sept. 30, 1985, [99 Stat. 482][/us/stat/99/482]; [Pub. L. 99–140][/us/pl/99/140], Oct. 31, 1985, [99 Stat. 563][/us/stat/99/563], which had provided that enactment of subchapter II of this chapter, amendment of sections 3401 and 6106 of this title, and enactment of provisions set out as notes under sections 6101 and 6106 of this title, should not be in effect after Dec. 31, 1985, was repealed by [Pub. L. 99–190, § 140][/us/pl/99/190/s140], Dec. 19, 1985, [99 Stat. 1324][/us/stat/99/1324], and also by [Pub. L. 99–196][/us/pl/99/196], Dec. 23, 1985, [99 Stat. 1350][/us/stat/99/1350].
+    [Pub. L. 97–221][/us/pl/97/221], § 5, July 23, 1982, [96 Stat. 234][/us/stat/96/234], as amended by [Pub. L. 99–69][/us/pl/99/69], July 22, 1985, [99 Stat. 167][/us/stat/99/167]; [Pub. L. 99–109][/us/pl/99/109], Sept. 30, 1985, [99 Stat. 482][/us/stat/99/482]; [Pub. L. 99–140][/us/pl/99/140], Oct. 31, 1985, [99 Stat. 563][/us/stat/99/563], which had provided that enactment of subchapter II of this chapter, amendment of sections 3401 and 6106 of this title, and enactment of provisions set out as notes under sections 6101 and 6106 of this title, should not be in effect after Dec. 31, 1985, was repealed by [Pub. L. 99–190][/us/pl/99/190], § 140, Dec. 19, 1985, [99 Stat. 1324][/us/stat/99/1324], and also by [Pub. L. 99–196][/us/pl/99/196], Dec. 23, 1985, [99 Stat. 1350][/us/stat/99/1350].
 
  __Effective Date of 1978 Amendment__ 
 
@@ -259,7 +259,7 @@ Oct. 29, 1965, Pub. L. 89–301, § 16, 79 Stat. 1123.  </td>
 
  __Short Title of 1982 Amendment__ 
 
-[Pub. L. 97–221, § 1][/us/pl/97/221/s1], July 23, 1982, [96 Stat. 227][/us/stat/96/227], provided: 
+[Pub. L. 97–221][/us/pl/97/221], § 1, July 23, 1982, [96 Stat. 227][/us/stat/96/227], provided: 
 
 > “That this Act \[enacting subchapter II of this chapter, amending sections 3401 and 6106 of this title, and enacting provisions set out as notes under this section and [section 6106 of this title][/us/usc/t5/s6106]\] may be cited as the ‘Federal Employees Flexible and Compressed Work Schedules Act of 1982’.”
 
@@ -563,7 +563,7 @@ Oct. 29, 1965, Pub. L. 89–301, § 16, 79 Stat. 1123.  </td>
 
  __Savings Provisions; 1982 Amendment__ 
 
-[Pub. L. 97–221, § 4][/us/pl/97/221/s4], July 23, 1982, [96 Stat. 234][/us/stat/96/234], provided that:
+[Pub. L. 97–221][/us/pl/97/221], § 4, July 23, 1982, [96 Stat. 234][/us/stat/96/234], provided that:
 
 >     “(a) Except as provided in subsection (b), each flexible or compressed work schedule established by any agency under the Federal Employees Flexible and Compressed Work Schedules Act of 1978 ([5 U.S.C. 6101][/us/usc/t5/s6101] note) in existence on the date of enactment of this Act \[July 23, 1982\] shall be continued by the agency concerned.
 
@@ -592,13 +592,13 @@ Oct. 29, 1965, Pub. L. 89–301, § 16, 79 Stat. 1123.  </td>
 [/us/usc/t5/s5541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5541
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F514
-[/us/pl/90/83/s1/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83%2Fs1%2F43
+[/us/pl/90/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83
 [/us/stat/81/207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F207
-[/us/pl/92/392/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F392%2Fs6
+[/us/pl/92/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F392
 [/us/stat/86/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F573
-[/us/pl/94/183/s2/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F183%2Fs2%2F25
+[/us/pl/94/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F183
 [/us/stat/89/1058]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F1058
-[/us/pl/95/454/s906/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs906%2Fa%2F2
+[/us/pl/95/454/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtIX
 [/us/stat/92/1224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1224
 [/us/stat/63/578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F578
 [/us/stat/63/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F591
@@ -607,7 +607,7 @@ Oct. 29, 1965, Pub. L. 89–301, § 16, 79 Stat. 1123.  </td>
 [/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454
 [/us/pl/94/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F183
 [/us/pl/92/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F392
-[/us/pl/97/221/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F221%2Fs5
+[/us/pl/97/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F221
 [/us/stat/96/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F234
 [/us/pl/99/69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F69
 [/us/stat/99/167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F167
@@ -615,7 +615,7 @@ Oct. 29, 1965, Pub. L. 89–301, § 16, 79 Stat. 1123.  </td>
 [/us/stat/99/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F482
 [/us/pl/99/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F140
 [/us/stat/99/563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F563
-[/us/pl/99/190/s140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F190%2Fs140
+[/us/pl/99/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F190
 [/us/stat/99/1324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1324
 [/us/pl/99/196]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F196
 [/us/stat/99/1350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1350
@@ -625,7 +625,7 @@ Oct. 29, 1965, Pub. L. 89–301, § 16, 79 Stat. 1123.  </td>
 [/us/pl/92/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F392
 [/us/pl/92/392/s15/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F392%2Fs15%2Fa
 [/us/usc/t5/s5341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5341
-[/us/pl/97/221/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F221%2Fs1
+[/us/pl/97/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F221
 [/us/stat/96/227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F227
 [/us/usc/t5/s6106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs6106
 [/us/usc/t3/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs301
@@ -652,7 +652,7 @@ Oct. 29, 1965, Pub. L. 89–301, § 16, 79 Stat. 1123.  </td>
 [/us/usc/t5/s5550a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5550a
 [/us/usc/t5/s5550a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5550a
 [/us/usc/t5/s5550a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5550a
-[/us/pl/97/221/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F221%2Fs4
+[/us/pl/97/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F221
 [/us/stat/96/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F234
 [/us/usc/t5/s6101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs6101
 

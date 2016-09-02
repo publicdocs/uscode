@@ -59,7 +59,7 @@
 
     Director of National Intelligence.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 460][/us/stat/80/460]; [Pub. L. 89–670, § 10(d)(1)][/us/pl/89/670/s10/d/1], Oct. 15, 1966, [80 Stat. 948][/us/stat/80/948]; [Pub. L. 91–375, § 6(c)(12)][/us/pl/91/375/s6/c/12], Aug. 12, 1970, [84 Stat. 776][/us/stat/84/776]; [Pub. L. 93–618, title I, § 141(b)(3)(A)][/us/pl/93/618/s141/b/3/A], Jan. 3, 1975, [88 Stat. 1999][/us/stat/88/1999]; [Pub. L. 94–82, title II, § 202(b)(1)][/us/pl/94/82/s202/b/1], Aug. 9, 1975, [89 Stat. 419][/us/stat/89/419]; [Pub. L. 95–91, title VII, § 710(c)][/us/pl/95/91/s710/c], Aug. 4, 1977, [91 Stat. 609][/us/stat/91/609]; [Pub. L. 96–54, § 2(a)(25)(A)][/us/pl/96/54/s2/a/25/A], Aug. 14, 1979, [93 Stat. 382][/us/stat/93/382]; [Pub. L. 96–88, title V, § 508(c)][/us/pl/96/88/s508/c], (g), Oct. 17, 1979, [93 Stat. 692][/us/stat/93/692]; [Pub. L. 97–456, § 3(d)(1)][/us/pl/97/456/s3/d/1], (5), Jan. 12, 1983, [96 Stat. 2505][/us/stat/96/2505]; [Pub. L. 99–198, title XI, § 1113(d)][/us/pl/99/198/s1113/d], Dec. 23, 1985, [99 Stat. 1480][/us/stat/99/1480]; [Pub. L. 99–260, § 4(c)][/us/pl/99/260/s4/c], Mar. 20, 1986, [100 Stat. 49][/us/stat/100/49]; [Pub. L. 100–527, § 13(c)][/us/pl/100/527/s13/c], Oct. 25, 1988, [102 Stat. 2643][/us/stat/102/2643]; [Pub. L. 100–679, § 11(a)][/us/pl/100/679/s11/a], Nov. 17, 1988, [102 Stat. 4070][/us/stat/102/4070]; [Pub. L. 100–690, title I, § 1003(a)(4)(A)][/us/pl/100/690/s1003/a/4/A], Nov. 18, 1988, [102 Stat. 4182][/us/stat/102/4182]; [Pub. L. 103–296, title I, § 108(e)(1)][/us/pl/103/296/s108/e/1], Aug. 15, 1994, [108 Stat. 1486][/us/stat/108/1486]; [Pub. L. 105–277, div. C, title VII, § 713(a)(1)][/us/pl/105/277/s713/a/1], Oct. 21, 1998, [112 Stat. 2681–693][/us/stat/112/2681-693]; [Pub. L. 106–569, title X, § 1002(a)(1)][/us/pl/106/569/s1002/a/1], Dec. 27, 2000, [114 Stat. 3028][/us/stat/114/3028]; [Pub. L. 107–296, title XVII, § 1702(a)(1)][/us/pl/107/296/s1702/a/1], Nov. 25, 2002, [116 Stat. 2313][/us/stat/116/2313]; [Pub. L. 108–458, title I, § 1015(a)][/us/pl/108/458/s1015/a], Dec. 17, 2004, [118 Stat. 3664][/us/stat/118/3664].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 460][/us/stat/80/460]; [Pub. L. 89–670][/us/pl/89/670], § 10(d)(1), Oct. 15, 1966, [80 Stat. 948][/us/stat/80/948]; [Pub. L. 91–375][/us/pl/91/375], § 6(c)(12), Aug. 12, 1970, [84 Stat. 776][/us/stat/84/776]; [Pub. L. 93–618, title I][/us/pl/93/618/tI], § 141(b)(3)(A), Jan. 3, 1975, [88 Stat. 1999][/us/stat/88/1999]; [Pub. L. 94–82, title II][/us/pl/94/82/tII], § 202(b)(1), Aug. 9, 1975, [89 Stat. 419][/us/stat/89/419]; [Pub. L. 95–91, title VII][/us/pl/95/91/tVII], § 710(c), Aug. 4, 1977, [91 Stat. 609][/us/stat/91/609]; [Pub. L. 96–54][/us/pl/96/54], § 2(a)(25)(A), Aug. 14, 1979, [93 Stat. 382][/us/stat/93/382]; [Pub. L. 96–88, title V][/us/pl/96/88/tV], § 508(c), (g), Oct. 17, 1979, [93 Stat. 692][/us/stat/93/692]; [Pub. L. 97–456][/us/pl/97/456], § 3(d)(1), (5), Jan. 12, 1983, [96 Stat. 2505][/us/stat/96/2505]; [Pub. L. 99–198, title XI][/us/pl/99/198/tXI], § 1113(d), Dec. 23, 1985, [99 Stat. 1480][/us/stat/99/1480]; [Pub. L. 99–260][/us/pl/99/260], § 4(c), Mar. 20, 1986, [100 Stat. 49][/us/stat/100/49]; [Pub. L. 100–527][/us/pl/100/527], § 13(c), Oct. 25, 1988, [102 Stat. 2643][/us/stat/102/2643]; [Pub. L. 100–679][/us/pl/100/679], § 11(a), Nov. 17, 1988, [102 Stat. 4070][/us/stat/102/4070]; [Pub. L. 100–690, title I][/us/pl/100/690/tI], § 1003(a)(4)(A), Nov. 18, 1988, [102 Stat. 4182][/us/stat/102/4182]; [Pub. L. 103–296, title I][/us/pl/103/296/tI], § 108(e)(1), Aug. 15, 1994, [108 Stat. 1486][/us/stat/108/1486]; [Pub. L. 105–277, div. C, title VII][/us/pl/105/277/dC/tVII], § 713(a)(1), Oct. 21, 1998, [112 Stat. 2681–693][/us/stat/112/2681-693]; [Pub. L. 106–569, title X][/us/pl/106/569/tX], § 1002(a)(1), Dec. 27, 2000, [114 Stat. 3028][/us/stat/114/3028]; [Pub. L. 107–296, title XVII][/us/pl/107/296/tXVII], § 1702(a)(1), Nov. 25, 2002, [116 Stat. 2313][/us/stat/116/2313]; [Pub. L. 108–458, title I][/us/pl/108/458/tI], § 1015(a), Dec. 17, 2004, [118 Stat. 3664][/us/stat/118/3664].)
 
 <table>
 
@@ -135,13 +135,13 @@ Aug. 14, 1964, Pub. L. 88–426, § 303(a), 78 Stat. 416.  </td>
 
     1985—[Pub. L. 99–198][/us/pl/99/198] inserted item relating to Special Assistant for Agricultural Trade and Food Aid.
 
-    1983—[Pub. L. 97–456, § 3(d)(5)][/us/pl/97/456/s3/d/5], substituted “United States Trade Representative” for “Special Representative for Trade Negotiations”.
+    1983—[Pub. L. 97–456][/us/pl/97/456], § 3(d)(5), substituted “United States Trade Representative” for “Special Representative for Trade Negotiations”.
 
-    1979—[Pub. L. 96–88, § 508(g)][/us/pl/96/88/s508/g], substituted “Health and Human Services” for “Health, Education, and Welfare” in item relating to the Secretary of Health and Human Services.
+    1979—[Pub. L. 96–88][/us/pl/96/88], § 508(g), substituted “Health and Human Services” for “Health, Education, and Welfare” in item relating to the Secretary of Health and Human Services.
 
     Pars. (1) to (14). [Pub. L. 96–54][/us/pl/96/54] struck out paragraph designations for positions listed herein.
 
-    Par. (15). [Pub. L. 96–88, § 508(c)][/us/pl/96/88/s508/c], added par. (15) relating to Secretary of Education. See Codification note set out above.
+    Par. (15). [Pub. L. 96–88][/us/pl/96/88], § 508(c), added par. (15) relating to Secretary of Education. See Codification note set out above.
 
     1977—Par. (14). [Pub. L. 95–91][/us/pl/95/91] added par. (14) relating to Secretary of Energy.
 
@@ -165,7 +165,7 @@ Aug. 14, 1964, Pub. L. 88–426, § 303(a), 78 Stat. 416.  </td>
 
  __Effective Date of 2000 Amendment__ 
 
-[Pub. L. 106–569, title X, § 1002(b)][/us/pl/106/569/s1002/b], Dec. 27, 2000, [114 Stat. 3028][/us/stat/114/3028], provided that: 
+[Pub. L. 106–569, title X][/us/pl/106/569/tX], § 1002(b), Dec. 27, 2000, [114 Stat. 3028][/us/stat/114/3028], provided that: 
 
 > “This section \[amending this section and sections 5313 and 5314 of this title\] and the amendments made by this section shall take effect on the first day of the first pay period for the Chairman and Members of the Board of Governors of the Federal Reserve System beginning on or after the date of the enactment of this Act \[Dec. 27, 2000\].”
 
@@ -173,7 +173,7 @@ Aug. 14, 1964, Pub. L. 88–426, § 303(a), 78 Stat. 416.  </td>
 
     Amendment by [Pub. L. 100–690][/us/pl/100/690] effective Jan. 21, 1989, and repealed on Sept. 30, 1997, see sections 1012 and 1009, respectively, of [Pub. L. 100–690][/us/pl/100/690].
 
-[Pub. L. 100–679, § 11(e)][/us/pl/100/679/s11/e], Nov. 17, 1988, [102 Stat. 4070][/us/stat/102/4070], provided that: 
+[Pub. L. 100–679][/us/pl/100/679], § 11(e), Nov. 17, 1988, [102 Stat. 4070][/us/stat/102/4070], provided that: 
 
 > “The amendments made by this section \[amending sections 5312 to 5315 of this title\] shall be effective on January 20, 1989.”
 
@@ -183,7 +183,7 @@ Aug. 14, 1964, Pub. L. 88–426, § 303(a), 78 Stat. 416.  </td>
 
     Amendment by [Pub. L. 96–88][/us/pl/96/88] effective May 4, 1980, with specified exceptions, see [section 601 of Pub. L. 96–88][/us/pl/96/88/s601], set out as an Effective Date note under [section 3401 of Title 20][/us/usc/t20/s3401], Education.
 
-[Pub. L. 96–54, § 2(a)(25)(B)][/us/pl/96/54/s2/a/25/B], Aug. 14, 1979, [93 Stat. 382][/us/stat/93/382], provided that: The amendments made by subparagraph (A) \[amending sections 5312 to 5316 of this title\] shall take effect January 1, 1980”.
+[Pub. L. 96–54][/us/pl/96/54], § 2(a)(25)(B), Aug. 14, 1979, [93 Stat. 382][/us/stat/93/382], provided that: The amendments made by subparagraph (A) \[amending sections 5312 to 5316 of this title\] shall take effect January 1, 1980”.
 
  __Effective Date of 1970 Amendment__ 
 
@@ -195,13 +195,13 @@ Aug. 14, 1964, Pub. L. 88–426, § 303(a), 78 Stat. 416.  </td>
 
  __Short Title of 1975 Amendment__ 
 
-[Pub. L. 94–82, title II, § 201][/us/pl/94/82/s201], Aug. 9, 1975, [89 Stat. 419][/us/stat/89/419], provided that: 
+[Pub. L. 94–82, title II][/us/pl/94/82/tII], § 201, Aug. 9, 1975, [89 Stat. 419][/us/stat/89/419], provided that: 
 
 > “This title \[see Tables for classification\] may be cited as the ‘Executive Salary Cost-of-Living Adjustment Act’.”
 
  __Compensation and Emoluments of Secretary of the Interior; Fixing at Level in Effect on__  __January 1, 2005__ 
 
-[Pub. L. 111–1, § 1][/us/pl/111/1/s1], Jan. 16, 2009, [123 Stat. 3][/us/stat/123/3], provided that:
+[Pub. L. 111–1][/us/pl/111/1], § 1, Jan. 16, 2009, [123 Stat. 3][/us/stat/123/3], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -269,11 +269,11 @@ Aug. 14, 1964, Pub. L. 88–426, § 303(a), 78 Stat. 416.  </td>
 
  __Compensation and Emoluments of Secretary of State; Fixing at Level in Effect on__  __January 1, 1977__ 
 
-    [Pub. L. 96–241, § 1][/us/pl/96/241/s1], May 3, 1980, [94 Stat. 343][/us/stat/94/343], limited the compensation and other emoluments attached to the office of Secretary of State to those in effect Jan. 1, 1977, during the period beginning May 3, 1980, and ending on the date on which the first individual appointed to that office after May 3, 1980, ceases to hold that office.
+    [Pub. L. 96–241][/us/pl/96/241], § 1, May 3, 1980, [94 Stat. 343][/us/stat/94/343], limited the compensation and other emoluments attached to the office of Secretary of State to those in effect Jan. 1, 1977, during the period beginning May 3, 1980, and ending on the date on which the first individual appointed to that office after May 3, 1980, ceases to hold that office.
 
  __Compensation and Emoluments of Attorney General; Fixing at Level in Effect on__  __January 1, 1969__ 
 
-    Provisions of [Pub. L. 93–178, § 1][/us/pl/93/178/s1], Dec. 10, 1973, [87 Stat. 697][/us/stat/87/697], which fixed the compensation and other emoluments attached to the Office of Attorney General at level in effect on Jan. 1, 1969, notwithstanding any other provision of law enacted or becoming effective during period from noon, Jan. 3, 1969, through noon, Jan. 2, 1975, were repealed by [Pub. L. 94–2][/us/pl/94/2], Feb. 18, 1975, [89 Stat. 4][/us/stat/89/4], effective as of Feb. 4, 1975.
+    Provisions of [Pub. L. 93–178][/us/pl/93/178], § 1, Dec. 10, 1973, [87 Stat. 697][/us/stat/87/697], which fixed the compensation and other emoluments attached to the Office of Attorney General at level in effect on Jan. 1, 1969, notwithstanding any other provision of law enacted or becoming effective during period from noon, Jan. 3, 1969, through noon, Jan. 2, 1975, were repealed by [Pub. L. 94–2][/us/pl/94/2], Feb. 18, 1975, [89 Stat. 4][/us/stat/89/4], effective as of Feb. 4, 1975.
 
  __Salary Increases__ 
 
@@ -293,41 +293,41 @@ Aug. 14, 1964, Pub. L. 88–426, § 303(a), 78 Stat. 416.  </td>
 [/us/usc/t5/s5318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5318
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F460
-[/us/pl/89/670/s10/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F670%2Fs10%2Fd%2F1
+[/us/pl/89/670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F670
 [/us/stat/80/948]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F948
-[/us/pl/91/375/s6/c/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375%2Fs6%2Fc%2F12
+[/us/pl/91/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375
 [/us/stat/84/776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F776
-[/us/pl/93/618/s141/b/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs141%2Fb%2F3%2FA
+[/us/pl/93/618/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2FtI
 [/us/stat/88/1999]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1999
-[/us/pl/94/82/s202/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F82%2Fs202%2Fb%2F1
+[/us/pl/94/82/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F82%2FtII
 [/us/stat/89/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F419
-[/us/pl/95/91/s710/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2Fs710%2Fc
+[/us/pl/95/91/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2FtVII
 [/us/stat/91/609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F609
-[/us/pl/96/54/s2/a/25/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F54%2Fs2%2Fa%2F25%2FA
+[/us/pl/96/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F54
 [/us/stat/93/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F382
-[/us/pl/96/88/s508/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs508%2Fc
+[/us/pl/96/88/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2FtV
 [/us/stat/93/692]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F692
-[/us/pl/97/456/s3/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F456%2Fs3%2Fd%2F1
+[/us/pl/97/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F456
 [/us/stat/96/2505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2505
-[/us/pl/99/198/s1113/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1113%2Fd
+[/us/pl/99/198/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXI
 [/us/stat/99/1480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1480
-[/us/pl/99/260/s4/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F260%2Fs4%2Fc
+[/us/pl/99/260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F260
 [/us/stat/100/49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F49
-[/us/pl/100/527/s13/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F527%2Fs13%2Fc
+[/us/pl/100/527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F527
 [/us/stat/102/2643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2643
-[/us/pl/100/679/s11/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F679%2Fs11%2Fa
+[/us/pl/100/679]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F679
 [/us/stat/102/4070]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4070
-[/us/pl/100/690/s1003/a/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs1003%2Fa%2F4%2FA
+[/us/pl/100/690/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtI
 [/us/stat/102/4182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4182
-[/us/pl/103/296/s108/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs108%2Fe%2F1
+[/us/pl/103/296/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2FtI
 [/us/stat/108/1486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1486
-[/us/pl/105/277/s713/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs713%2Fa%2F1
+[/us/pl/105/277/dC/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdC%2FtVII
 [/us/stat/112/2681-693]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-693
-[/us/pl/106/569/s1002/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs1002%2Fa%2F1
+[/us/pl/106/569/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2FtX
 [/us/stat/114/3028]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F3028
-[/us/pl/107/296/s1702/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1702%2Fa%2F1
+[/us/pl/107/296/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXVII
 [/us/stat/116/2313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2313
-[/us/pl/108/458/s1015/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs1015%2Fa
+[/us/pl/108/458/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtI
 [/us/stat/118/3664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3664
 [/us/pl/96/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88
 [/us/pl/96/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F54
@@ -341,10 +341,10 @@ Aug. 14, 1964, Pub. L. 88–426, § 303(a), 78 Stat. 416.  </td>
 [/us/pl/100/527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F527
 [/us/pl/99/260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F260
 [/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
-[/us/pl/97/456/s3/d/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F456%2Fs3%2Fd%2F5
-[/us/pl/96/88/s508/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs508%2Fg
+[/us/pl/97/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F456
+[/us/pl/96/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88
 [/us/pl/96/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F54
-[/us/pl/96/88/s508/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs508%2Fc
+[/us/pl/96/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88
 [/us/pl/95/91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91
 [/us/pl/94/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F82
 [/us/usc/t5/s5318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5318
@@ -359,11 +359,11 @@ Aug. 14, 1964, Pub. L. 88–426, § 303(a), 78 Stat. 416.  </td>
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/pl/107/296/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs4
 [/us/usc/t6/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs101
-[/us/pl/106/569/s1002/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs1002%2Fb
+[/us/pl/106/569/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2FtX
 [/us/stat/114/3028]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F3028
 [/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
 [/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
-[/us/pl/100/679/s11/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F679%2Fs11%2Fe
+[/us/pl/100/679]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F679
 [/us/stat/102/4070]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4070
 [/us/pl/100/527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F527
 [/us/pl/100/527/s18/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F527%2Fs18%2Fa
@@ -371,16 +371,16 @@ Aug. 14, 1964, Pub. L. 88–426, § 303(a), 78 Stat. 416.  </td>
 [/us/pl/96/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88
 [/us/pl/96/88/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs601
 [/us/usc/t20/s3401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs3401
-[/us/pl/96/54/s2/a/25/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F54%2Fs2%2Fa%2F25%2FB
+[/us/pl/96/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F54
 [/us/stat/93/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F382
 [/us/pl/91/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375
 [/us/pl/91/375/s15/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375%2Fs15%2Fa
 [/us/usc/t39/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs101
 [/us/pl/89/670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F670
 [/us/pl/89/670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F670
-[/us/pl/94/82/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F82%2Fs201
+[/us/pl/94/82/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F82%2FtII
 [/us/stat/89/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F419
-[/us/pl/111/1/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F1%2Fs1
+[/us/pl/111/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F1
 [/us/stat/123/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F3
 [/us/usc/t28/s2284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2284
 [/us/pl/110/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F455
@@ -388,9 +388,9 @@ Aug. 14, 1964, Pub. L. 88–426, § 303(a), 78 Stat. 416.  </td>
 [/us/usc/t28/s2284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2284
 [/us/pl/103/2/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F2%2Fs1%2Fa
 [/us/usc/t31/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs301
-[/us/pl/96/241/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F241%2Fs1
+[/us/pl/96/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F241
 [/us/stat/94/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F343
-[/us/pl/93/178/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F178%2Fs1
+[/us/pl/93/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F178
 [/us/stat/87/697]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F697
 [/us/pl/94/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F2
 [/us/stat/89/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F4

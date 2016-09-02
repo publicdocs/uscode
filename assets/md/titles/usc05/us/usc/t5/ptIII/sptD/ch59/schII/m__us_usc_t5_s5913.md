@@ -27,7 +27,7 @@
 
     (c) Funds made available under subsection (b) may be provided in advance to persons eligible to receive reimbursements.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 510][/us/stat/80/510]; [Pub. L. 109–140, § 7][/us/pl/109/140/s7], Dec. 22, 2005, [119 Stat. 2652][/us/stat/119/2652].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 510][/us/stat/80/510]; [Pub. L. 109–140][/us/pl/109/140], § 7, Dec. 22, 2005, [119 Stat. 2652][/us/stat/119/2652].)
 
 <table>
 
@@ -97,7 +97,7 @@ Aug. 2, 1946, ch. 744, § 22, added Sept. 6, 1960, Pub. L. 86–707, § 311(
 [/us/usc/t5/s5721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5721
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F510
-[/us/pl/109/140/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F140%2Fs7
+[/us/pl/109/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F140
 [/us/stat/119/2652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2652
 [/us/act/1946-08-02/ch744/s18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-02%2Fch744%2Fs18
 [/us/stat/60/811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F811

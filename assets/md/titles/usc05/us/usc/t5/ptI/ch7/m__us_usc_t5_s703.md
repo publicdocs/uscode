@@ -17,7 +17,7 @@
 
     The form of proceeding for judicial review is the special statutory review proceeding relevant to the subject matter in a court specified by statute or, in the absence or inadequacy thereof, any applicable form of legal action, including actions for declaratory judgments or writs of prohibitory or mandatory injunction or habeas corpus, in a court of competent jurisdiction. If no special statutory review proceeding is applicable, the action for judicial review may be brought against the United States, the agency by its official title, or the appropriate officer. Except to the extent that prior, adequate, and exclusive opportunity for judicial review is provided by law, agency action is subject to judicial review in civil or criminal proceedings for judicial enforcement.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 392][/us/stat/80/392]; [Pub. L. 94–574, § 1][/us/pl/94/574/s1], Oct. 21, 1976, [90 Stat. 2721][/us/stat/90/2721].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 392][/us/stat/80/392]; [Pub. L. 94–574][/us/pl/94/574], § 1, Oct. 21, 1976, [90 Stat. 2721][/us/stat/90/2721].)
 
 <table>
 
@@ -80,7 +80,7 @@ June 11, 1946, ch. 324, § 10(b), 60 Stat. 243.  </td>
 
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F392
-[/us/pl/94/574/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F574%2Fs1
+[/us/pl/94/574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F574
 [/us/stat/90/2721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2721
 [/us/pl/94/574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F574
 

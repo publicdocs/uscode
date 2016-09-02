@@ -71,27 +71,27 @@
 
     (d) The Office shall provide the head of an excepted agency with such advice and assistance as the head of such agency may request in order to carry out the purposes of this section.
 
-(Added [Pub. L. 100–566, § 2(a)][/us/pl/100/566/s2/a], Oct. 31, 1988, [102 Stat. 2838][/us/stat/102/2838]; amended [Pub. L. 103–359, title V, § 501(i)][/us/pl/103/359/s501/i], Oct. 14, 1994, [108 Stat. 3429][/us/stat/108/3429]; [Pub. L. 104–201, div. A, title XI, § 1122(a)][/us/pl/104/201/s1122/a], Sept. 23, 1996, [110 Stat. 2687][/us/stat/110/2687]; [Pub. L. 107–306, title III, § 322][/us/pl/107/306/s322], Nov. 27, 2002, [116 Stat. 2391][/us/stat/116/2391]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title IX, § 931(a)(1), Oct. 14, 2008, [122 Stat. 4575][/us/stat/122/4575].)
+(Added [Pub. L. 100–566][/us/pl/100/566], § 2(a), Oct. 31, 1988, [102 Stat. 2838][/us/stat/102/2838]; amended [Pub. L. 103–359, title V][/us/pl/103/359/tV], § 501(i), Oct. 14, 1994, [108 Stat. 3429][/us/stat/108/3429]; [Pub. L. 104–201, div. A, title XI][/us/pl/104/201/dA/tXI], § 1122(a), Sept. 23, 1996, [110 Stat. 2687][/us/stat/110/2687]; [Pub. L. 107–306, title III][/us/pl/107/306/tIII], § 322, Nov. 27, 2002, [116 Stat. 2391][/us/stat/116/2391]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title IX, § 931(a)(1), Oct. 14, 2008, [122 Stat. 4575][/us/stat/122/4575].)
 
  __Amendments__ 
 
     2008—Subsec. (a)(1)(E), (2)(E). [Pub. L. 110–417][/us/pl/110/417] substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency” wherever appearing.
 
-    2002—Subsec. (b). [Pub. L. 107–306, § 322(a)(1)][/us/pl/107/306/s322/a/1], (2), redesignated subsec. (c) as (b) and struck out former subsec. (b) which read as follows: “Notwithstanding any other provision of this subchapter, neither an excepted agency nor any individual employed in or under an excepted agency may be included in a leave transfer program established under any of the preceding provisions of this subchapter.”
+    2002—Subsec. (b). [Pub. L. 107–306][/us/pl/107/306], § 322(a)(1), (2), redesignated subsec. (c) as (b) and struck out former subsec. (b) which read as follows: “Notwithstanding any other provision of this subchapter, neither an excepted agency nor any individual employed in or under an excepted agency may be included in a leave transfer program established under any of the preceding provisions of this subchapter.”
 
-    Subsec. (b)(2). [Pub. L. 107–306, § 322(b)(1)][/us/pl/107/306/s322/b/1], substituted “under this subsection” for “under this section” in introductory provisions.
+    Subsec. (b)(2). [Pub. L. 107–306][/us/pl/107/306], § 322(b)(1), substituted “under this subsection” for “under this section” in introductory provisions.
 
-    Subsec. (c). [Pub. L. 107–306, § 322(a)(3)][/us/pl/107/306/s322/a/3], added subsec. (c). Former subsec. (c) redesignated (b).
+    Subsec. (c). [Pub. L. 107–306][/us/pl/107/306], § 322(a)(3), added subsec. (c). Former subsec. (c) redesignated (b).
 
-    Subsec. (d). [Pub. L. 107–306, § 322(b)(2)][/us/pl/107/306/s322/b/2], struck out “of Personnel Management” after “The Office”.
+    Subsec. (d). [Pub. L. 107–306][/us/pl/107/306], § 322(b)(2), struck out “of Personnel Management” after “The Office”.
 
-    1996—Subsec. (a)(1)(E). [Pub. L. 104–201, § 1122(a)(1)][/us/pl/104/201/s1122/a/1], substituted “National Imagery and Mapping Agency” for “Central Imagery Office”.
+    1996—Subsec. (a)(1)(E). [Pub. L. 104–201][/us/pl/104/201], § 1122(a)(1), substituted “National Imagery and Mapping Agency” for “Central Imagery Office”.
 
-    Subsec. (a)(2)(E). [Pub. L. 104–201, § 1122(a)(2)][/us/pl/104/201/s1122/a/2], substituted “National Imagery and Mapping Agency, the Director of the National Imagery and Mapping Agency” for “Central Imagery Office, the Director of the Central Imagery Office”.
+    Subsec. (a)(2)(E). [Pub. L. 104–201][/us/pl/104/201], § 1122(a)(2), substituted “National Imagery and Mapping Agency, the Director of the National Imagery and Mapping Agency” for “Central Imagery Office, the Director of the Central Imagery Office”.
 
-    1994—Subsec. (a)(1)(E), (F). [Pub. L. 103–359, § 501(i)(1)][/us/pl/103/359/s501/i/1], added subpar. (E) and redesignated former subpar. (E) as (F).
+    1994—Subsec. (a)(1)(E), (F). [Pub. L. 103–359][/us/pl/103/359], § 501(i)(1), added subpar. (E) and redesignated former subpar. (E) as (F).
 
-    Subsec. (a)(2)(E), (F). [Pub. L. 103–359, § 501(i)(2)][/us/pl/103/359/s501/i/2], added subpar. (E), redesignated former subpar. (E) as (F), and substituted “paragraph (1)(F)” for “paragraph (1)(E)” in two places in subpar. (F).
+    Subsec. (a)(2)(E), (F). [Pub. L. 103–359][/us/pl/103/359], § 501(i)(2), added subpar. (E), redesignated former subpar. (E) as (F), and substituted “paragraph (1)(F)” for “paragraph (1)(E)” in two places in subpar. (F).
 
  __Change of Name__ 
 
@@ -108,25 +108,25 @@
 ----------
 ----------
 
-[/us/pl/100/566/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F566%2Fs2%2Fa
+[/us/pl/100/566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F566
 [/us/stat/102/2838]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2838
-[/us/pl/103/359/s501/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F359%2Fs501%2Fi
+[/us/pl/103/359/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F359%2FtV
 [/us/stat/108/3429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3429
-[/us/pl/104/201/s1122/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1122%2Fa
+[/us/pl/104/201/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtXI
 [/us/stat/110/2687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2687
-[/us/pl/107/306/s322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306%2Fs322
+[/us/pl/107/306/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306%2FtIII
 [/us/stat/116/2391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2391
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4575
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
-[/us/pl/107/306/s322/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306%2Fs322%2Fa%2F1
-[/us/pl/107/306/s322/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306%2Fs322%2Fb%2F1
-[/us/pl/107/306/s322/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306%2Fs322%2Fa%2F3
-[/us/pl/107/306/s322/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306%2Fs322%2Fb%2F2
-[/us/pl/104/201/s1122/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1122%2Fa%2F1
-[/us/pl/104/201/s1122/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1122%2Fa%2F2
-[/us/pl/103/359/s501/i/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F359%2Fs501%2Fi%2F1
-[/us/pl/103/359/s501/i/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F359%2Fs501%2Fi%2F2
+[/us/pl/107/306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306
+[/us/pl/107/306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306
+[/us/pl/107/306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306
+[/us/pl/107/306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306
+[/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
+[/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
+[/us/pl/103/359]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F359
+[/us/pl/103/359]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F359
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
 [/us/usc/t50/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3001
 [/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201

@@ -85,17 +85,17 @@
 
         (3) is demoted for personal cause or at the employee’s request.
 
-(Added [Pub. L. 95–454, title VIII, § 801(a)(1)][/us/pl/95/454/s801/a/1], Oct. 13, 1978, [92 Stat. 1219][/us/stat/92/1219]; amended [Pub. L. 101–509, title V, § 529][/us/pl/101/509/s529] \[title I, §§ 101(b)(3)(B), 105(b)(2)\], Nov. 5, 1990, [104 Stat. 1427][/us/stat/104/1427], 1439, 1448; [Pub. L. 103–89, § 3(b)(1)(L)][/us/pl/103/89/s3/b/1/L], Sept. 30, 1993, [107 Stat. 982][/us/stat/107/982]; [Pub. L. 108–411, title III, § 301(a)(5)][/us/pl/108/411/s301/a/5], Oct. 30, 2004, [118 Stat. 2316][/us/stat/118/2316].)
+(Added [Pub. L. 95–454, title VIII][/us/pl/95/454/tVIII], § 801(a)(1), Oct. 13, 1978, [92 Stat. 1219][/us/stat/92/1219]; amended [Pub. L. 101–509, title V][/us/pl/101/509/tV], § 529 \[title I, §§ 101(b)(3)(B), 105(b)(2)\], Nov. 5, 1990, [104 Stat. 1427][/us/stat/104/1427], 1439, 1448; [Pub. L. 103–89][/us/pl/103/89], § 3(b)(1)(L), Sept. 30, 1993, [107 Stat. 982][/us/stat/107/982]; [Pub. L. 108–411, title III][/us/pl/108/411/tIII], § 301(a)(5), Oct. 30, 2004, [118 Stat. 2316][/us/stat/118/2316].)
 
  __Prior Provisions__ 
 
-    A prior section 5363, [Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 473][/us/stat/80/473], which related to limitation on pay fixed by administrative action, was renumbered [section 5373 of this title][/us/usc/t5/s5373] by [Pub. L. 95–454, title VIII, § 801(a)(3)(A)(ii)][/us/pl/95/454/s801/a/3/A/ii], Oct. 13, 1978, [92 Stat. 1221][/us/stat/92/1221].
+    A prior section 5363, [Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 473][/us/stat/80/473], which related to limitation on pay fixed by administrative action, was renumbered [section 5373 of this title][/us/usc/t5/s5373] by [Pub. L. 95–454, title VIII][/us/pl/95/454/tVIII], § 801(a)(3)(A)(ii), Oct. 13, 1978, [92 Stat. 1221][/us/stat/92/1221].
 
  __Amendments__ 
 
-    2004—Subsec. (a). [Pub. L. 108–411, § 301(a)(5)(A)][/us/pl/108/411/s301/a/5/A], inserted concluding provisions and struck out former concluding provisions which read as follows: “is entitled to basic pay at a rate equal to (A) the employee’s allowable former rate of basic pay, plus (B) 50 percent of the amount of each increase in the maximum rate of basic pay payable for the grade of the employee’s position immediately after such reduction in pay if such allowable former rate exceeds such maximum rate for such grade.”
+    2004—Subsec. (a). [Pub. L. 108–411][/us/pl/108/411], § 301(a)(5)(A), inserted concluding provisions and struck out former concluding provisions which read as follows: “is entitled to basic pay at a rate equal to (A) the employee’s allowable former rate of basic pay, plus (B) 50 percent of the amount of each increase in the maximum rate of basic pay payable for the grade of the employee’s position immediately after such reduction in pay if such allowable former rate exceeds such maximum rate for such grade.”
 
-    Subsecs. (b) to (e). [Pub. L. 108–411, § 301(a)(5)(B)][/us/pl/108/411/s301/a/5/B], added subsecs. (b) to (e) and struck out former subsecs. (b) and (c) which read as follows:
+    Subsecs. (b) to (e). [Pub. L. 108–411][/us/pl/108/411], § 301(a)(5)(B), added subsecs. (b) to (e) and struck out former subsecs. (b) and (c) which read as follows:
 
     “(b) For the purpose of subsection (a) of this section, ‘allowable former rate of basic pay’ means the lower of—
 
@@ -117,7 +117,7 @@
 
  __Effective Date of 2004 Amendment__ 
 
-[Pub. L. 108–411, title III, § 301(d)][/us/pl/108/411/s301/d], Oct. 30, 2004, [118 Stat. 2317][/us/stat/118/2317], provided that:
+[Pub. L. 108–411, title III][/us/pl/108/411/tIII], § 301(d), Oct. 30, 2004, [118 Stat. 2317][/us/stat/118/2317], provided that:
 
 >     “(1)  __Effective date__  __.—__ 
 
@@ -150,24 +150,24 @@
 
 [/us/usc/t5/s5362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5362
 [/us/usc/t5/s5305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5305
-[/us/pl/95/454/s801/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs801%2Fa%2F1
+[/us/pl/95/454/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtVIII
 [/us/stat/92/1219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1219
-[/us/pl/101/509/s529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2Fs529
+[/us/pl/101/509/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2FtV
 [/us/stat/104/1427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1427
-[/us/pl/103/89/s3/b/1/L]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F89%2Fs3%2Fb%2F1%2FL
+[/us/pl/103/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F89
 [/us/stat/107/982]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F982
-[/us/pl/108/411/s301/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F411%2Fs301%2Fa%2F5
+[/us/pl/108/411/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F411%2FtIII
 [/us/stat/118/2316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2316
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F473
 [/us/usc/t5/s5373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5373
-[/us/pl/95/454/s801/a/3/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs801%2Fa%2F3%2FA%2Fii
+[/us/pl/95/454/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtVIII
 [/us/stat/92/1221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1221
-[/us/pl/108/411/s301/a/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F411%2Fs301%2Fa%2F5%2FA
-[/us/pl/108/411/s301/a/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F411%2Fs301%2Fa%2F5%2FB
+[/us/pl/108/411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F411
+[/us/pl/108/411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F411
 [/us/pl/103/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F89
 [/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509
-[/us/pl/108/411/s301/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F411%2Fs301%2Fd
+[/us/pl/108/411/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F411%2FtIII
 [/us/stat/118/2317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2317
 [/us/usc/t5/s5305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5305
 [/us/usc/t5/s5363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5363

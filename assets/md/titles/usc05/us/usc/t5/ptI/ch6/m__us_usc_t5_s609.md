@@ -67,17 +67,17 @@
 
         (3) Whether the requirements of subsection (b) would provide the individuals identified in subsection (b)(2) with a competitive advantage relative to other small entities.
 
-(Added [Pub. L. 96–354, § 3(a)][/us/pl/96/354/s3/a], Sept. 19, 1980, [94 Stat. 1168][/us/stat/94/1168]; amended [Pub. L. 104–121, title II, § 244(a)][/us/pl/104/121/s244/a], Mar. 29, 1996, [110 Stat. 867][/us/stat/110/867]; [Pub. L. 111–203, title X, § 1100G(a)][/us/pl/111/203/s1100G/a], July 21, 2010, [124 Stat. 2112][/us/stat/124/2112].)
+(Added [Pub. L. 96–354][/us/pl/96/354], § 3(a), Sept. 19, 1980, [94 Stat. 1168][/us/stat/94/1168]; amended [Pub. L. 104–121, title II][/us/pl/104/121/tII], § 244(a), Mar. 29, 1996, [110 Stat. 867][/us/stat/110/867]; [Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1100G(a), July 21, 2010, [124 Stat. 2112][/us/stat/124/2112].)
 
  __Amendments__ 
 
     2010—Subsec. (d). [Pub. L. 111–203][/us/pl/111/203] substituted “means—” for “means the Environmental Protection Agency and the Occupational Safety and Health Administration of the Department of Labor.” and added pars. (1) to (3).
 
-    1996—[Pub. L. 104–121, § 244(a)(2)][/us/pl/104/121/s244/a/2], (3), designated existing provisions as subsec. (a) and inserted “including soliciting and receiving comments over computer networks” after “entities” in par. (4).
+    1996—[Pub. L. 104–121][/us/pl/104/121], § 244(a)(2), (3), designated existing provisions as subsec. (a) and inserted “including soliciting and receiving comments over computer networks” after “entities” in par. (4).
 
-    [Pub. L. 104–121, § 244(a)(1)][/us/pl/104/121/s244/a/1], which directed insertion of “the reasonable use of” before “techniques,” in introductory provisions, was executed by making the insertion in text which did not contain a comma after the word “techniques” to reflect the probable intent of Congress.
+    [Pub. L. 104–121][/us/pl/104/121], § 244(a)(1), which directed insertion of “the reasonable use of” before “techniques,” in introductory provisions, was executed by making the insertion in text which did not contain a comma after the word “techniques” to reflect the probable intent of Congress.
 
-    Subsecs. (b) to (e). [Pub. L. 104–121, § 244(a)(4)][/us/pl/104/121/s244/a/4], added subsecs. (b) to (e).
+    Subsecs. (b) to (e). [Pub. L. 104–121][/us/pl/104/121], § 244(a)(4), added subsecs. (b) to (e).
 
  __Effective Date of 2010 Amendment__ 
 
@@ -89,7 +89,7 @@
 
  __Small Business Advocacy Chairpersons__ 
 
-[Pub. L. 104–121, title II, § 244(b)][/us/pl/104/121/s244/b], Mar. 29, 1996, [110 Stat. 868][/us/stat/110/868], provided that: 
+[Pub. L. 104–121, title II][/us/pl/104/121/tII], § 244(b), Mar. 29, 1996, [110 Stat. 868][/us/stat/110/868], provided that: 
 
 > “Not later than 30 days after the date of enactment of this Act \[Mar. 29, 1996\], the head of each covered agency that has conducted a final regulatory flexibility analysis shall designate a small business advocacy chairperson using existing personnel to the extent possible, to be responsible for implementing this section and to act as permanent chair of the agency’s review panels established pursuant to this section.”
 
@@ -100,23 +100,23 @@
 ----------
 ----------
 
-[/us/pl/96/354/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F354%2Fs3%2Fa
+[/us/pl/96/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F354
 [/us/stat/94/1168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1168
-[/us/pl/104/121/s244/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F121%2Fs244%2Fa
+[/us/pl/104/121/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F121%2FtII
 [/us/stat/110/867]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F867
-[/us/pl/111/203/s1100G/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100G%2Fa
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2112
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
-[/us/pl/104/121/s244/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F121%2Fs244%2Fa%2F2
-[/us/pl/104/121/s244/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F121%2Fs244%2Fa%2F1
-[/us/pl/104/121/s244/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F121%2Fs244%2Fa%2F4
+[/us/pl/104/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F121
+[/us/pl/104/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F121
+[/us/pl/104/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F121
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203/s1100H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100H
 [/us/usc/t5/s552a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552a
 [/us/pl/104/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F121
 [/us/pl/104/121/s245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F121%2Fs245
 [/us/usc/t5/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs601
-[/us/pl/104/121/s244/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F121%2Fs244%2Fb
+[/us/pl/104/121/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F121%2FtII
 [/us/stat/110/868]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F868
 
 

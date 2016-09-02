@@ -35,7 +35,7 @@
 
         The head of the agency concerned may waive in whole or in part a right of recovery of an advance of funds under subsection (a) of this section, if it is shown that the recovery would be against equity and good conscience or against the public interest.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 480][/us/stat/80/480]; [Pub. L. 96–465, title II][/us/pl/96/465] § 2303(a), (b), Oct. 17, 1980, [94 Stat. 2164][/us/stat/94/2164], 2165.)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 480][/us/stat/80/480]; [Pub. L. 96–465, title II][/us/pl/96/465/tII] § 2303(a), (b), Oct. 17, 1980, [94 Stat. 2164][/us/stat/94/2164], 2165.)
 
 <table>
 
@@ -87,9 +87,9 @@ Sept. 26, 1961, Pub. L. 87–304, § 2, 75 Stat. 662.  </td>
 
  __Amendments__ 
 
-    1980—Subsec. (a). [Pub. L. 96–465, § 2303(a)][/us/pl/96/465/s2303/a], substituted “departure” for “evacuation”, substituted “is officially authorized or ordered” for “is ordered for military or other reasons which create imminent danger to the life or lives of the employee or of his dependents or immediate family”, and added pars. (1) and (2).
+    1980—Subsec. (a). [Pub. L. 96–465][/us/pl/96/465], § 2303(a), substituted “departure” for “evacuation”, substituted “is officially authorized or ordered” for “is ordered for military or other reasons which create imminent danger to the life or lives of the employee or of his dependents or immediate family”, and added pars. (1) and (2).
 
-    Subsec. (b). [Pub. L. 96–465, § 2303(b)][/us/pl/96/465/s2303/b], substituted “departure” for “evacuation” after “issuance of the”.
+    Subsec. (b). [Pub. L. 96–465][/us/pl/96/465], § 2303(b), substituted “departure” for “evacuation” after “issuance of the”.
 
  __Effective Date of 1980 Amendment__ 
 
@@ -105,10 +105,10 @@ Sept. 26, 1961, Pub. L. 87–304, § 2, 75 Stat. 662.  </td>
 [/us/usc/t5/s5524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5524
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F480
-[/us/pl/96/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465
+[/us/pl/96/465/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtII
 [/us/stat/94/2164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2164
-[/us/pl/96/465/s2303/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs2303%2Fa
-[/us/pl/96/465/s2303/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs2303%2Fb
+[/us/pl/96/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465
+[/us/pl/96/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465
 [/us/pl/96/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465
 [/us/pl/96/465/s2403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs2403
 [/us/usc/t22/s3901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3901

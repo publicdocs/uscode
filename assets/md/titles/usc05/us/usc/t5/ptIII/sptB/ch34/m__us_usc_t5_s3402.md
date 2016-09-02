@@ -49,17 +49,17 @@
 
             (C) evaluating attitudes, benefits, costs, efficiency, and productivity associated with part-time career employment, as well as its various sociological effects as a mode of employment.
 
-(Added [Pub. L. 95–437, § 3(a)][/us/pl/95/437/s3/a], Oct. 10, 1978, [92 Stat. 1056][/us/stat/92/1056], § 3392; renumbered § 3402 and amended [Pub. L. 95–454, title IX, § 906(c)(1)(B)][/us/pl/95/454/s906/c/1/B], (2)(B), Oct. 13, 1978, [92 Stat. 1226][/us/stat/92/1226].)
+(Added [Pub. L. 95–437][/us/pl/95/437], § 3(a), Oct. 10, 1978, [92 Stat. 1056][/us/stat/92/1056], § 3392; renumbered § 3402 and amended [Pub. L. 95–454, title IX][/us/pl/95/454/tIX], § 906(c)(1)(B), (2)(B), Oct. 13, 1978, [92 Stat. 1226][/us/stat/92/1226].)
 
  __Amendments__ 
 
-    1978—[Pub. L. 95–454, § 906(c)(1)(B)][/us/pl/95/454/s906/c/1/B], renumbered [section 3392 of this title][/us/usc/t5/s3392] as this section.
+    1978—[Pub. L. 95–454][/us/pl/95/454], § 906(c)(1)(B), renumbered [section 3392 of this title][/us/usc/t5/s3392] as this section.
 
-    Subsec. (a)(1)(B). [Pub. L. 95–454, § 906(c)(2)(B)(i)][/us/pl/95/454/s906/c/2/B/i], substituted “3403” for “3393”.
+    Subsec. (a)(1)(B). [Pub. L. 95–454][/us/pl/95/454], § 906(c)(2)(B)(i), substituted “3403” for “3393”.
 
-    Subsec. (b)(1). [Pub. L. 95–454, § 906(c)(2)(B)(ii)][/us/pl/95/454/s906/c/2/B/ii], substituted “Office of Personnel Management” for “Civil Service Commission” and “chapter” for “subchapter”.
+    Subsec. (b)(1). [Pub. L. 95–454][/us/pl/95/454], § 906(c)(2)(B)(ii), substituted “Office of Personnel Management” for “Civil Service Commission” and “chapter” for “subchapter”.
 
-    Subsec. (b)(2). [Pub. L. 95–454, § 906(c)(2)(B)(iii)][/us/pl/95/454/s906/c/2/B/iii], substituted “Office” for “Commission”.
+    Subsec. (b)(2). [Pub. L. 95–454][/us/pl/95/454], § 906(c)(2)(B)(iii), substituted “Office” for “Commission”.
 
  __Effective Date of 1978 Amendment__ 
 
@@ -73,15 +73,15 @@
 ----------
 
 [/us/usc/t5/s3403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3403
-[/us/pl/95/437/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F437%2Fs3%2Fa
+[/us/pl/95/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F437
 [/us/stat/92/1056]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1056
-[/us/pl/95/454/s906/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs906%2Fc%2F1%2FB
+[/us/pl/95/454/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtIX
 [/us/stat/92/1226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1226
-[/us/pl/95/454/s906/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs906%2Fc%2F1%2FB
+[/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454
 [/us/usc/t5/s3392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3392
-[/us/pl/95/454/s906/c/2/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs906%2Fc%2F2%2FB%2Fi
-[/us/pl/95/454/s906/c/2/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs906%2Fc%2F2%2FB%2Fii
-[/us/pl/95/454/s906/c/2/B/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs906%2Fc%2F2%2FB%2Fiii
+[/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454
+[/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454
+[/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454
 [/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454
 [/us/pl/95/454/s907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs907
 [/us/usc/t5/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs1101

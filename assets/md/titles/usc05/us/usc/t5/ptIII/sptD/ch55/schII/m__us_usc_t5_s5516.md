@@ -19,7 +19,7 @@
 
     (b) This section does not give the consent of the United States to the application of a statute which imposes more burdensome requirements on the United States than on other employers, or which subjects the United States or its employees to a penalty or liability because of this section.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 478][/us/stat/80/478]; [Pub. L. 90–623, § 1(9)][/us/pl/90/623/s1/9], Oct. 22, 1968, [82 Stat. 1312][/us/stat/82/1312]; [Pub. L. 94–455, title XII, § 1207(a)(2)][/us/pl/94/455/s1207/a/2], Oct. 4, 1976, [90 Stat. 1705][/us/stat/90/1705]; [Pub. L. 96–54, § 2(a)(30)][/us/pl/96/54/s2/a/30], Aug. 14, 1979, [93 Stat. 383][/us/stat/93/383].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 478][/us/stat/80/478]; [Pub. L. 90–623][/us/pl/90/623], § 1(9), Oct. 22, 1968, [82 Stat. 1312][/us/stat/82/1312]; [Pub. L. 94–455, title XII][/us/pl/94/455/tXII], § 1207(a)(2), Oct. 4, 1976, [90 Stat. 1705][/us/stat/90/1705]; [Pub. L. 96–54][/us/pl/96/54], § 2(a)(30), Aug. 14, 1979, [93 Stat. 383][/us/stat/93/383].)
 
 <table>
 
@@ -85,7 +85,7 @@ Mar. 31, 1956, ch. 154, § 11 “(k)”, 70 Stat. 77.  </td>
 
  __Effective Date of 1976 Amendment__ 
 
-[Pub. L. 94–455, title XII, § 1207(f)(1)][/us/pl/94/455/s1207/f/1], Oct. 4, 1976, [90 Stat. 1708][/us/stat/90/1708], provided that: 
+[Pub. L. 94–455, title XII][/us/pl/94/455/tXII], § 1207(f)(1), Oct. 4, 1976, [90 Stat. 1708][/us/stat/90/1708], provided that: 
 
 > “The amendments made by subsection (a) \[amending this section and [section 5517 of this title][/us/usc/t5/s5517]\] shall apply to wages withheld after the 120-day period following any request for an agreement after the date of the enactment of this Act \[Oct. 4, 1976\].”
 
@@ -103,11 +103,11 @@ Mar. 31, 1956, ch. 154, § 11 “(k)”, 70 Stat. 77.  </td>
 [/us/usc/t47/s1551c/z]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs1551c%2Fz
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F478
-[/us/pl/90/623/s1/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F623%2Fs1%2F9
+[/us/pl/90/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F623
 [/us/stat/82/1312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1312
-[/us/pl/94/455/s1207/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1207%2Fa%2F2
+[/us/pl/94/455/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXII
 [/us/stat/90/1705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1705
-[/us/pl/96/54/s2/a/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F54%2Fs2%2Fa%2F30
+[/us/pl/96/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F54
 [/us/stat/93/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F383
 [/us/stat/70/68]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F68
 [/us/usc/t47/s1551c/z]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs1551c%2Fz
@@ -117,7 +117,7 @@ Mar. 31, 1956, ch. 154, § 11 “(k)”, 70 Stat. 77.  </td>
 [/us/pl/96/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F54
 [/us/pl/96/54/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F54%2Fs2%2Fb
 [/us/usc/t5/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs305
-[/us/pl/94/455/s1207/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1207%2Ff%2F1
+[/us/pl/94/455/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXII
 [/us/stat/90/1708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1708
 [/us/usc/t5/s5517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5517
 [/us/pl/90/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F623

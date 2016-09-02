@@ -45,7 +45,7 @@
 
     Nothing in this section shall be construed to prohibit an individual who holds another office or position in an agency from serving as the Telework Managing Officer for the agency under this chapter.
 
-(Added [Pub. L. 111–292, § 2(a)][/us/pl/111/292/s2/a], Dec. 9, 2010, [124 Stat. 3168][/us/stat/124/3168].)
+(Added [Pub. L. 111–292][/us/pl/111/292], § 2(a), Dec. 9, 2010, [124 Stat. 3168][/us/stat/124/3168].)
 
 ----------
 
@@ -54,7 +54,7 @@
 ----------
 ----------
 
-[/us/pl/111/292/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F292%2Fs2%2Fa
+[/us/pl/111/292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F292
 [/us/stat/124/3168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3168
 
 

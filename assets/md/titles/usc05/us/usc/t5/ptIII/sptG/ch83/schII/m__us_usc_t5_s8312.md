@@ -109,7 +109,7 @@
 
         (2) Any certification made pursuant to this subsection shall be subject to review by the United States Court of Claims based upon the application of the individual concerned, or his or her attorney, alleging that any of the conditions set forth in subparagraphs  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be “subparagraph”. </sup></sup>  (A), (B), or (C) of paragraph (1), as certified by the Attorney General, have not been satisfied in his or her particular circumstances. Should the court determine that any of these conditions has not been satisfied in such case, the court shall order any annuity or retirement benefit to which the person concerned is entitled to be restored and shall order that any payments which may have been previously denied or withheld to be paid by the department or agency concerned.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 559][/us/stat/80/559]; [Pub. L. 92–128, § 2(b)][/us/pl/92/128/s2/b], Sept. 25, 1971, [85 Stat. 348][/us/stat/85/348]; [Pub. L. 99–569, title VI, § 603][/us/pl/99/569/s603], Oct. 27, 1986, [100 Stat. 3204][/us/stat/100/3204]; [Pub. L. 103–337, div. A, title VI, § 639(a)][/us/pl/103/337/s639/a], Oct. 5, 1994, [108 Stat. 2791][/us/stat/108/2791]; [Pub. L. 103–359, title VIII, § 805][/us/pl/103/359/s805], Oct. 14, 1994, [108 Stat. 3441][/us/stat/108/3441].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 559][/us/stat/80/559]; [Pub. L. 92–128][/us/pl/92/128], § 2(b), Sept. 25, 1971, [85 Stat. 348][/us/stat/85/348]; [Pub. L. 99–569, title VI][/us/pl/99/569/tVI], § 603, Oct. 27, 1986, [100 Stat. 3204][/us/stat/100/3204]; [Pub. L. 103–337, div. A, title VI][/us/pl/103/337/dA/tVI], § 639(a), Oct. 5, 1994, [108 Stat. 2791][/us/stat/108/2791]; [Pub. L. 103–359, title VIII][/us/pl/103/359/tVIII], § 805, Oct. 14, 1994, [108 Stat. 3441][/us/stat/108/3441].)
 
 <table>
 
@@ -199,13 +199,13 @@ Sept. 26, 1961, Pub. L. 87–299, § 1 “Sec. 1”, 75 Stat. 640.  </td>
 [/us/usc/t50/s421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs421
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F559
-[/us/pl/92/128/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F128%2Fs2%2Fb
+[/us/pl/92/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F128
 [/us/stat/85/348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F348
-[/us/pl/99/569/s603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F569%2Fs603
+[/us/pl/99/569/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F569%2FtVI
 [/us/stat/100/3204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3204
-[/us/pl/103/337/s639/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs639%2Fa
+[/us/pl/103/337/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtVI
 [/us/stat/108/2791]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2791
-[/us/pl/103/359/s805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F359%2Fs805
+[/us/pl/103/359/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F359%2FtVIII
 [/us/stat/108/3441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3441
 [/us/stat/60/766]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F766
 [/us/stat/60/773]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F773

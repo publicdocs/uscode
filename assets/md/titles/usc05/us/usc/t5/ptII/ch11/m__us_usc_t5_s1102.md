@@ -23,7 +23,7 @@
 
     (d) There may be within the Office of Personnel Management not more than 5 Associate Directors, as determined from time to time by the Director. Each Associate Director shall be appointed by the Director.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 399][/us/stat/80/399]; [Pub. L. 95–454, title II, § 201(a)][/us/pl/95/454/s201/a], Oct. 13, 1978, [92 Stat. 1119][/us/stat/92/1119].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 399][/us/stat/80/399]; [Pub. L. 95–454, title II][/us/pl/95/454/tII], § 201(a), Oct. 13, 1978, [92 Stat. 1119][/us/stat/92/1119].)
 
 <table>
 
@@ -75,7 +75,7 @@ July 31, 1956, ch. 804, § 201(a), 70 Stat. 742.  </td>
 
     In subsection (a), the second sentence is substituted for original language concerning designation of Commissioners to serve six, four, and two years, respectively, as that provision is executed.
 
-    The section is reorganized to place the statutes relating to vacancies together, and redundancies are eliminated. Provisions relating to pay and travel expenses of Commissioners are omitted as superseded by the Act of Aug. 14, 1964, [Pub. L. 88–426, § 303(c)(18)][/us/pl/88/426/s303/c/18], (d)(66), [78 Stat. 417][/us/stat/78/417], 419, and [Act of June 9, 1949, ch. 185][/us/act/1949-06-09/ch185], [63 Stat. 166][/us/stat/63/166], respectively, which are carried into this title.
+    The section is reorganized to place the statutes relating to vacancies together, and redundancies are eliminated. Provisions relating to pay and travel expenses of Commissioners are omitted as superseded by the Act of Aug. 14, 1964, [Pub. L. 88–426][/us/pl/88/426], § 303(c)(18), (d)(66), [78 Stat. 417][/us/stat/78/417], 419, and [Act of June 9, 1949, ch. 185][/us/act/1949-06-09/ch185], [63 Stat. 166][/us/stat/63/166], respectively, which are carried into this title.
 
     Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
@@ -96,9 +96,9 @@ July 31, 1956, ch. 804, § 201(a), 70 Stat. 742.  </td>
 
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F399
-[/us/pl/95/454/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs201%2Fa
+[/us/pl/95/454/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtII
 [/us/stat/92/1119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1119
-[/us/pl/88/426/s303/c/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F426%2Fs303%2Fc%2F18
+[/us/pl/88/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F426
 [/us/stat/78/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F417
 [/us/act/1949-06-09/ch185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-06-09%2Fch185
 [/us/stat/63/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F166

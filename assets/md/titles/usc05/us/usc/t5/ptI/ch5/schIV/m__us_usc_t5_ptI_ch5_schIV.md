@@ -21,7 +21,7 @@
 
  __Amendments__ 
 
-    1992—[Pub. L. 102–354, § 3(b)(1)][/us/pl/102/354/s3/b/1], Aug. 26, 1992, [106 Stat. 944][/us/stat/106/944], transferred this subchapter so as to appear immediately after subchapter III of this chapter.
+    1992—[Pub. L. 102–354][/us/pl/102/354], § 3(b)(1), Aug. 26, 1992, [106 Stat. 944][/us/stat/106/944], transferred this subchapter so as to appear immediately after subchapter III of this chapter.
 
 ----------
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/102/354/s3/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F354%2Fs3%2Fb%2F1
+[/us/pl/102/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F354
 [/us/stat/106/944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F944
 
 

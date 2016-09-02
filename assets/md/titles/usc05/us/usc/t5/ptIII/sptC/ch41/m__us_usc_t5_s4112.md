@@ -25,7 +25,7 @@
 
         (2) the placement of an individual in a leave-without-pay status.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 437][/us/stat/80/437]; [Pub. L. 96–54, § 2(a)(2)][/us/pl/96/54/s2/a/2], Aug. 14, 1979, [93 Stat. 381][/us/stat/93/381].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 437][/us/stat/80/437]; [Pub. L. 96–54][/us/pl/96/54], § 2(a)(2), Aug. 14, 1979, [93 Stat. 381][/us/stat/93/381].)
 
 <table>
 
@@ -100,7 +100,7 @@ July 7, 1958, Pub. L. 85–507, § 23, 72 Stat. 338.  </td>
 
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F437
-[/us/pl/96/54/s2/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F54%2Fs2%2Fa%2F2
+[/us/pl/96/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F54
 [/us/stat/93/381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F381
 [/us/pl/96/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F54
 [/us/pl/96/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F54

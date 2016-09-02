@@ -53,7 +53,7 @@
 
     (7) “Foreign Service of the United States” means the Foreign Service as constituted under the Foreign Service Act of 1980.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 500][/us/stat/80/500]; [Pub. L. 97–258, § 3(a)(14)][/us/pl/97/258/s3/a/14], Sept. 13, 1982, [96 Stat. 1063][/us/stat/96/1063]; [Pub. L. 105–264, § 6(1)][/us/pl/105/264/s6/1], Oct. 19, 1998, [112 Stat. 2356][/us/stat/112/2356]; [Pub. L. 110–161, div. H, title I, § 1303(a)][/us/pl/110/161/s1303/a], Dec. 26, 2007, [121 Stat. 2242][/us/stat/121/2242]; [Pub. L. 113–235, div. H, title I, § 1301(b)][/us/pl/113/235/s1301/b], Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 500][/us/stat/80/500]; [Pub. L. 97–258][/us/pl/97/258], § 3(a)(14), Sept. 13, 1982, [96 Stat. 1063][/us/stat/96/1063]; [Pub. L. 105–264][/us/pl/105/264], § 6(1), Oct. 19, 1998, [112 Stat. 2356][/us/stat/112/2356]; [Pub. L. 110–161, div. H, title I][/us/pl/110/161/dH/tI], § 1303(a), Dec. 26, 2007, [121 Stat. 2242][/us/stat/121/2242]; [Pub. L. 113–235, div. H, title I][/us/pl/113/235/dH/tI], § 1301(b), Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537].)
 
  __Historical and Revision Notes__ 
 
@@ -89,13 +89,13 @@
 [/us/usc/t31/s9104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs9104
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F500
-[/us/pl/97/258/s3/a/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs3%2Fa%2F14
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1063]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1063
-[/us/pl/105/264/s6/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F264%2Fs6%2F1
+[/us/pl/105/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F264
 [/us/stat/112/2356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2356
-[/us/pl/110/161/s1303/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs1303%2Fa
+[/us/pl/110/161/dH/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2FdH%2FtI
 [/us/stat/121/2242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2242
-[/us/pl/113/235/s1301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fb
+[/us/pl/113/235/dH/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2FdH%2FtI
 [/us/stat/128/2537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2537
 [/us/act/1946-08-02/ch744]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-02%2Fch744
 [/us/stat/60/811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F811

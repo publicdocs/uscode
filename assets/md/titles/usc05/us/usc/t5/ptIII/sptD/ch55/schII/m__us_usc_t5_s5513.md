@@ -17,7 +17,7 @@
 
     When the Government Accountability Office, on a statement of the account of a disbursing or certifying official of the United States, disallows credit or raises a charge for a payment to an individual in or under an Executive agency otherwise entitled to pay, the pay of the payee shall be withheld in whole or in part until full reimbursement is made under regulations prescribed by the head of the Executive agency from which the payee is entitled to receive pay. This section does not repeal or modify existing statutes relating to the collection of the indebtedness of an accountable, certifying, or disbursing official.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 477][/us/stat/80/477]; [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 477][/us/stat/80/477]; [Pub. L. 108–271][/us/pl/108/271], § 8(b), July 7, 2004, [118 Stat. 814][/us/stat/118/814].)
 
 <table>
 
@@ -84,7 +84,7 @@ Aug. 3, 1950, ch. 515, 64 Stat. 393.  </td>
 
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F477
-[/us/pl/108/271/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271%2Fs8%2Fb
+[/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/stat/118/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F814
 [/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 

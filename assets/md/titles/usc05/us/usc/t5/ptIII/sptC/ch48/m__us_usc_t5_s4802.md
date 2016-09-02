@@ -27,17 +27,17 @@
 
     (f) This section shall be administered consistent with merit system principles.
 
-(Added [Pub. L. 107–123, § 8(a)][/us/pl/107/123/s8/a], Jan. 16, 2002, [115 Stat. 2398][/us/stat/115/2398].)
+(Added [Pub. L. 107–123][/us/pl/107/123], § 8(a), Jan. 16, 2002, [115 Stat. 2398][/us/stat/115/2398].)
 
  __Employees Represented by Labor Organizations__ 
 
-[Pub. L. 107–123, § 8(b)][/us/pl/107/123/s8/b], Jan. 16, 2002, [115 Stat. 2398][/us/stat/115/2398], provided that: 
+[Pub. L. 107–123][/us/pl/107/123], § 8(b), Jan. 16, 2002, [115 Stat. 2398][/us/stat/115/2398], provided that: 
 
 > “To the extent that any employee of the Securities and Exchange Commission is represented by a labor organization with exclusive recognition in accordance with chapter 71 of title 5, United States Code, no reduction in base pay of such employee shall be made by reason of enactment of this section \[enacting this chapter, amending sections 3132 and 5373 of this title, [section 1833b of Title 12][/us/usc/t12/s1833b], Banks and Banking, and [section 78d of Title 15][/us/usc/t15/s78d], Commerce and Trade, and enacting provisions set out as a note under this section\] (including the amendments made by this section).”
 
  __Implementation Plan and Report__ 
 
-[Pub. L. 107–123, § 8(c)][/us/pl/107/123/s8/c], Jan. 16, 2002, [115 Stat. 2398][/us/stat/115/2398], provided that:
+[Pub. L. 107–123][/us/pl/107/123], § 8(c), Jan. 16, 2002, [115 Stat. 2398][/us/stat/115/2398], provided that:
 
 >     “(1) __Implementation plan.—__ 
 
@@ -77,13 +77,13 @@
 [/us/usc/t15/s78c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78c
 [/us/usc/t12/s1833b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1833b
 [/us/usc/t12/s1833b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1833b
-[/us/pl/107/123/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F123%2Fs8%2Fa
+[/us/pl/107/123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F123
 [/us/stat/115/2398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2398
-[/us/pl/107/123/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F123%2Fs8%2Fb
+[/us/pl/107/123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F123
 [/us/stat/115/2398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2398
 [/us/usc/t12/s1833b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1833b
 [/us/usc/t15/s78d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78d
-[/us/pl/107/123/s8/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F123%2Fs8%2Fc
+[/us/pl/107/123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F123
 [/us/stat/115/2398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2398
 [/us/usc/t5/s4802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs4802
 [/us/usc/t31/s1115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1115

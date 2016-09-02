@@ -29,7 +29,7 @@
 
     Nothing in this section shall be construed to affect any rights, apart from those described in subsection (a), to which an individual described in subsection (a) might otherwise be entitled under law.
 
-(Added [Pub. L. 112–199, title I, § 109(a)(2)][/us/pl/112/199/s109/a/2], Nov. 27, 2012, [126 Stat. 1470][/us/stat/126/1470].)
+(Added [Pub. L. 112–199, title I][/us/pl/112/199/tI], § 109(a)(2), Nov. 27, 2012, [126 Stat. 1470][/us/stat/126/1470].)
 
  __Prior Provisions__ 
 
@@ -37,7 +37,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 112–199, title I, § 109(c)][/us/pl/112/199/s109/c], Nov. 27, 2012, [126 Stat. 1471][/us/stat/126/1471], provided that: 
+[Pub. L. 112–199, title I][/us/pl/112/199/tI], § 109(c), Nov. 27, 2012, [126 Stat. 1471][/us/stat/126/1471], provided that: 
 
 > “The amendments made by this section \[enacting this section and renumbering sections 2304 and 2305 of this title as sections 2305 and 2306, respectively, of this title\] shall take effect on the date of enactment of this section \[Nov. 27, 2012\].”
 
@@ -48,10 +48,10 @@
 ----------
 ----------
 
-[/us/pl/112/199/s109/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F199%2Fs109%2Fa%2F2
+[/us/pl/112/199/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F199%2FtI
 [/us/stat/126/1470]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1470
 [/us/usc/t5/s2305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs2305
-[/us/pl/112/199/s109/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F199%2Fs109%2Fc
+[/us/pl/112/199/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F199%2FtI
 [/us/stat/126/1471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1471
 
 

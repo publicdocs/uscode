@@ -39,7 +39,7 @@
 
             (B) with respect to an employee of a nonappropriated fund instrumentality of the Coast Guard, the Secretary of the Executive department in which it is operating.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 486][/us/stat/80/486]; [Pub. L. 90–83, § 1(25)][/us/pl/90/83/s1/25], Sept. 11, 1967, [81 Stat. 200][/us/stat/81/200]; [Pub. L. 101–509, title V, § 529][/us/pl/101/509/s529] \[title I, § 101(b)(3)(E), title II, § 210(2)\], Nov. 5, 1990, [104 Stat. 1427][/us/stat/104/1427], 1439, 1460; [Pub. L. 104–201, div. A, title XVI, § 1610(a)][/us/pl/104/201/s1610/a], Sept. 23, 1996, [110 Stat. 2738][/us/stat/110/2738]; [Pub. L. 109–163, div. A, title VI, § 674][/us/pl/109/163/s674], Jan. 6, 2006, [119 Stat. 3319][/us/stat/119/3319].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 486][/us/stat/80/486]; [Pub. L. 90–83][/us/pl/90/83], § 1(25), Sept. 11, 1967, [81 Stat. 200][/us/stat/81/200]; [Pub. L. 101–509, title V][/us/pl/101/509/tV], § 529 \[title I, § 101(b)(3)(E), title II, § 210(2)\], Nov. 5, 1990, [104 Stat. 1427][/us/stat/104/1427], 1439, 1460; [Pub. L. 104–201, div. A, title XVI][/us/pl/104/201/dA/tXVI], § 1610(a), Sept. 23, 1996, [110 Stat. 2738][/us/stat/110/2738]; [Pub. L. 109–163, div. A, title VI][/us/pl/109/163/dA/tVI], § 674, Jan. 6, 2006, [119 Stat. 3319][/us/stat/119/3319].)
 
 <table>
 
@@ -165,9 +165,9 @@ July 18, 1966, Pub. L. 89–504, § 404(b), 80 Stat. 297.  </td>
 
     1996—Subsecs. (b), (c). [Pub. L. 104–201][/us/pl/104/201] added subsec. (b) and redesignated former subsec. (b) as (c).
 
-    1990—Subsec. (a)(1). [Pub. L. 101–509, § 529][/us/pl/101/509/s529] \[title II, § 210(2)\], inserted “under section 5542 or section 7 of the Fair Labor Standards Act of 1938” after “payment”.
+    1990—Subsec. (a)(1). [Pub. L. 101–509][/us/pl/101/509], § 529 \[title II, § 210(2)\], inserted “under section 5542 or section 7 of the Fair Labor Standards Act of 1938” after “payment”.
 
-    Subsec. (a)(2). [Pub. L. 101–509, § 529][/us/pl/101/509/s529] \[title I, § 101(b)(3)(E)\], inserted “(including any applicable locality-based comparability payment under section 5304 or similar provision of law and any applicable special rate of pay under section 5305 or similar provision of law)” after “GS–10”.
+    Subsec. (a)(2). [Pub. L. 101–509][/us/pl/101/509], § 529 \[title I, § 101(b)(3)(E)\], inserted “(including any applicable locality-based comparability payment under section 5304 or similar provision of law and any applicable special rate of pay under section 5305 or similar provision of law)” after “GS–10”.
 
  __Effective Date of 1990 Amendment__ 
 
@@ -183,13 +183,13 @@ July 18, 1966, Pub. L. 89–504, § 404(b), 80 Stat. 297.  </td>
 [/us/usc/t5/s5542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5542
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F486
-[/us/pl/90/83/s1/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83%2Fs1%2F25
+[/us/pl/90/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83
 [/us/stat/81/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F200
-[/us/pl/101/509/s529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2Fs529
+[/us/pl/101/509/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2FtV
 [/us/stat/104/1427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1427
-[/us/pl/104/201/s1610/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1610%2Fa
+[/us/pl/104/201/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtXVI
 [/us/stat/110/2738]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2738
-[/us/pl/109/163/s674]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs674
+[/us/pl/109/163/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtVI
 [/us/stat/119/3319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3319
 [/us/act/1962-10-11/s603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1962-10-11%2Fs603
 [/us/pl/87/793]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F793
@@ -198,8 +198,8 @@ July 18, 1966, Pub. L. 89–504, § 404(b), 80 Stat. 297.  </td>
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
 [/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
 [/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
-[/us/pl/101/509/s529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2Fs529
-[/us/pl/101/509/s529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2Fs529
+[/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509
+[/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509
 [/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509
 [/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509
 [/us/usc/t5/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5301

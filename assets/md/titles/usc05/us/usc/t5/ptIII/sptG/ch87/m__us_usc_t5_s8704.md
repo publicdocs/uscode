@@ -243,7 +243,7 @@
 
         (2) a change in rate of pay under section 5344 or 5349 of this title is deemed effective as of the date of issuance of the order granting the increase or the effective date of the increase, whichever is later, except, that in the case of an employee who dies or retires during the period beginning on the effective date of the increase and ending on the date of the issuance of the order granting the increase, a change in rate of pay under either of such sections shall be deemed as having been in effect for such employee during that period.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 593][/us/stat/80/593]; [Pub. L. 89–737, § 1(3)][/us/pl/89/737/s1/3], Nov. 2, 1966, [80 Stat. 1164][/us/stat/80/1164]; [Pub. L. 90–206, title IV, § 401][/us/pl/90/206/s401], Dec. 16, 1967, [81 Stat. 646][/us/stat/81/646]; [Pub. L. 92–392, § 11][/us/pl/92/392/s11], Aug. 19, 1972, [86 Stat. 575][/us/stat/86/575]; [Pub. L. 95–454, title VIII, § 801(a)(3)(E)][/us/pl/95/454/s801/a/3/E], title IX, § 906(a)(2), (3), Oct. 13, 1978, [92 Stat. 1222][/us/stat/92/1222], 1224; [Pub. L. 96–427, § 2(b)][/us/pl/96/427/s2/b]–(d), Oct. 10, 1980, [94 Stat. 1831][/us/stat/94/1831], 1832; [Pub. L. 100–238, title I, § 103(b)][/us/pl/100/238/s103/b], Jan. 8, 1988, [101 Stat. 1744][/us/stat/101/1744].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 593][/us/stat/80/593]; [Pub. L. 89–737][/us/pl/89/737], § 1(3), Nov. 2, 1966, [80 Stat. 1164][/us/stat/80/1164]; [Pub. L. 90–206, title IV][/us/pl/90/206/tIV], § 401, Dec. 16, 1967, [81 Stat. 646][/us/stat/81/646]; [Pub. L. 92–392][/us/pl/92/392], § 11, Aug. 19, 1972, [86 Stat. 575][/us/stat/86/575]; [Pub. L. 95–454, title VIII][/us/pl/95/454/tVIII], § 801(a)(3)(E), title IX, § 906(a)(2), (3), Oct. 13, 1978, [92 Stat. 1222][/us/stat/92/1222], 1224; [Pub. L. 96–427][/us/pl/96/427], § 2(b)–(d), Oct. 10, 1980, [94 Stat. 1831][/us/stat/94/1831], 1832; [Pub. L. 100–238, title I][/us/pl/100/238/tI], § 103(b), Jan. 8, 1988, [101 Stat. 1744][/us/stat/101/1744].)
 
 <table>
 
@@ -331,7 +331,7 @@ Sept. 2, 1958, Pub. L. 85–872, § 3, 72 Stat. 1697.  </td>
 
     1988—Subsec. (c)(2). [Pub. L. 100–238][/us/pl/100/238] inserted “or 8401(17)” after “8331(20)”.
 
-    1980—Subsec. (a). [Pub. L. 96–427, § 2(b)][/us/pl/96/427/s2/b], substituted new formula for group life insurance to be computed by multiplying the basic insurance with a factor to be obtained from the table based on age for provisions calling for group life insurance and an equal amount of death and dismemberment insurance in accordance with a schedule based on the basic pay with special provision for extension by the amount of increase in the annual rates of basic pay for positions at level II of the Executive Schedule under [section 5313 of this title][/us/usc/t5/s5313]. Prior to this amendment, the table was as follows:
+    1980—Subsec. (a). [Pub. L. 96–427][/us/pl/96/427], § 2(b), substituted new formula for group life insurance to be computed by multiplying the basic insurance with a factor to be obtained from the table based on age for provisions calling for group life insurance and an equal amount of death and dismemberment insurance in accordance with a schedule based on the basic pay with special provision for extension by the amount of increase in the annual rates of basic pay for positions at level II of the Executive Schedule under [section 5313 of this title][/us/usc/t5/s5313]. Prior to this amendment, the table was as follows:
 
 <table>
 
@@ -825,13 +825,13 @@ $8,000    </td>
 
 </table>
 
-    Subsec. (b). [Pub. L. 96–427, § 2(c)][/us/pl/96/427/s2/c], inserted provision that an employee eligible for insurance is entitled to be insured for group accidental death and dismemberment insurance in accordance with this subsection and substituted reference to employee’s basic insurance amount for reference to the amount shown in the schedule in subsec. (a) of this section in four places.
+    Subsec. (b). [Pub. L. 96–427][/us/pl/96/427], § 2(c), inserted provision that an employee eligible for insurance is entitled to be insured for group accidental death and dismemberment insurance in accordance with this subsection and substituted reference to employee’s basic insurance amount for reference to the amount shown in the schedule in subsec. (a) of this section in four places.
 
-    Subsec. (c). [Pub. L. 96–427, § 2(d)][/us/pl/96/427/s2/d], expanded definition of “annual pay” to include premium pay under [section 5545(c)(2) of this title][/us/usc/t5/s5545/c/2] with respect to a law enforcement officer as defined in [section 8331(20) of this title][/us/usc/t5/s8331/20].
+    Subsec. (c). [Pub. L. 96–427][/us/pl/96/427], § 2(d), expanded definition of “annual pay” to include premium pay under [section 5545(c)(2) of this title][/us/usc/t5/s5545/c/2] with respect to a law enforcement officer as defined in [section 8331(20) of this title][/us/usc/t5/s8331/20].
 
-    1978—Subsecs. (b), (c). [Pub. L. 95–454, § 906(a)(2)][/us/pl/95/454/s906/a/2], (3), substituted “Office of Personnel Management” and “Office” for “Civil Service Commission” and “Commission”, respectively, wherever appearing.
+    1978—Subsecs. (b), (c). [Pub. L. 95–454][/us/pl/95/454], § 906(a)(2), (3), substituted “Office of Personnel Management” and “Office” for “Civil Service Commission” and “Commission”, respectively, wherever appearing.
 
-    Subsec. (d)(1). [Pub. L. 95–454, § 801(a)(3)(E)][/us/pl/95/454/s801/a/3/E], substituted “subchapter VI of chapter 53” for “section 5337”.
+    Subsec. (d)(1). [Pub. L. 95–454][/us/pl/95/454], § 801(a)(3)(E), substituted “subchapter VI of chapter 53” for “section 5337”.
 
     1972—Subsec. (d)(2). [Pub. L. 92–392][/us/pl/92/392] substituted “section 5344 or 5349 of this title” for “[section 5343 of this title][/us/usc/t5/s5343]” and added the exception.
 
@@ -847,7 +847,7 @@ $8,000    </td>
 
     Amendment by [section 2(d) of Pub. L. 96–427][/us/pl/96/427/s2/d] applicable with respect to premium pay payable under [section 5545(c)(2) of this title][/us/usc/t5/s5545/c/2] from and after the first day of the first pay period which begins on or after Oct. 10, 1980, see [section 10(b) of Pub. L. 96–427][/us/pl/96/427/s10/b], set out as a note under [section 8701 of this title][/us/usc/t5/s8701].
 
-[Pub. L. 96–427, § 2(f)][/us/pl/96/427/s2/f], Oct. 10, 1980, [94 Stat. 1832][/us/stat/94/1832], provided that: 
+[Pub. L. 96–427][/us/pl/96/427], § 2(f), Oct. 10, 1980, [94 Stat. 1832][/us/stat/94/1832], provided that: 
 
 > “Subsections (b) and (c) of this section \[amending this section\] shall take effect beginning with the first pay period beginning on or after October 1, 1981.”
 
@@ -863,7 +863,7 @@ $8,000    </td>
 
  __Effective Date of 1967 Amendment__ 
 
-[Pub. L. 90–206, title IV, § 405(a)][/us/pl/90/206/s405/a], Dec. 16, 1967, [81 Stat. 648][/us/stat/81/648], provided that: 
+[Pub. L. 90–206, title IV][/us/pl/90/206/tIV], § 405(a), Dec. 16, 1967, [81 Stat. 648][/us/stat/81/648], provided that: 
 
 > “The amendments made by sections 401 to 403, inclusive, of this Act \[amending this section and sections 8707 and 8708 of this title\] shall take effect on the first day of the first pay period which begins on or after the sixtieth day following the date of enactment \[Dec. 16, 1967\]. In the case of an employee who dies or retires during the period beginning on the date of enactment of this Act and prior to the effective date prescribed by this subsection, the amount of insurance shall be determined as if the amendments made by section 401 \[amending this section\] were in effect for such employee during such period.”
 
@@ -873,13 +873,13 @@ $8,000    </td>
 
  __Retroactive Effect of 1967 Amendment__ 
 
-[Pub. L. 90–206, title IV, § 405(c)][/us/pl/90/206/s405/c], Dec. 16, 1967, [81 Stat. 648][/us/stat/81/648], provided that: 
+[Pub. L. 90–206, title IV][/us/pl/90/206/tIV], § 405(c), Dec. 16, 1967, [81 Stat. 648][/us/stat/81/648], provided that: 
 
 > “The amendments made by sections 401 to 404, inclusive, of this Act \[enacting [section 8714a of this title][/us/usc/t5/s8714a] and amending this section and sections 8707 and 8708 of this title\] shall have no effect in the case of an employee who died, was finally separated, or retired prior to the date of enactment \[Dec. 16, 1967\].”
 
  __1967 Adjustment in Amount of Insurance__ 
 
-[Pub. L. 90–206, title II, § 220(b)][/us/pl/90/206/s220/b], Dec. 16, 1967, [81 Stat. 639][/us/stat/81/639], provided that: 
+[Pub. L. 90–206, title II][/us/pl/90/206/tII], § 220(b), Dec. 16, 1967, [81 Stat. 639][/us/stat/81/639], provided that: 
 
 > “For the purposes of determining the amount of insurance for which an individual is eligible chapter 87 of title 5, United States Code, relating to group life insurance for Federal employees—
 
@@ -900,27 +900,27 @@ $8,000    </td>
 [/us/usc/t5/s5545/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5545%2Fc%2F2
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F593
-[/us/pl/89/737/s1/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F737%2Fs1%2F3
+[/us/pl/89/737]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F737
 [/us/stat/80/1164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1164
-[/us/pl/90/206/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F206%2Fs401
+[/us/pl/90/206/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F206%2FtIV
 [/us/stat/81/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F646
-[/us/pl/92/392/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F392%2Fs11
+[/us/pl/92/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F392
 [/us/stat/86/575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F575
-[/us/pl/95/454/s801/a/3/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs801%2Fa%2F3%2FE
+[/us/pl/95/454/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtVIII
 [/us/stat/92/1222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1222
-[/us/pl/96/427/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F427%2Fs2%2Fb
+[/us/pl/96/427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F427
 [/us/stat/94/1831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1831
-[/us/pl/100/238/s103/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F238%2Fs103%2Fb
+[/us/pl/100/238/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F238%2FtI
 [/us/stat/101/1744]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1744
 [/us/pl/100/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F238
-[/us/pl/96/427/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F427%2Fs2%2Fb
+[/us/pl/96/427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F427
 [/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
-[/us/pl/96/427/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F427%2Fs2%2Fc
-[/us/pl/96/427/s2/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F427%2Fs2%2Fd
+[/us/pl/96/427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F427
+[/us/pl/96/427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F427
 [/us/usc/t5/s5545/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5545%2Fc%2F2
 [/us/usc/t5/s8331/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8331%2F20
-[/us/pl/95/454/s906/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs906%2Fa%2F2
-[/us/pl/95/454/s801/a/3/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs801%2Fa%2F3%2FE
+[/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454
+[/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454
 [/us/pl/92/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F392
 [/us/usc/t5/s5343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5343
 [/us/pl/90/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F206
@@ -934,7 +934,7 @@ $8,000    </td>
 [/us/usc/t5/s5545/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5545%2Fc%2F2
 [/us/pl/96/427/s10/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F427%2Fs10%2Fb
 [/us/usc/t5/s8701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8701
-[/us/pl/96/427/s2/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F427%2Fs2%2Ff
+[/us/pl/96/427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F427
 [/us/stat/94/1832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1832
 [/us/pl/95/454/s801/a/3/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs801%2Fa%2F3%2FE
 [/us/pl/95/454/s801/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs801%2Fa%2F4
@@ -945,16 +945,16 @@ $8,000    </td>
 [/us/pl/92/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F392
 [/us/pl/92/392/s15/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F392%2Fs15%2Fa
 [/us/usc/t5/s5341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5341
-[/us/pl/90/206/s405/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F206%2Fs405%2Fa
+[/us/pl/90/206/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F206%2FtIV
 [/us/stat/81/648]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F648
 [/us/pl/89/737]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F737
 [/us/pl/89/737]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F737
 [/us/pl/89/737/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F737%2Fs4
 [/us/usc/t5/s8114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8114
-[/us/pl/90/206/s405/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F206%2Fs405%2Fc
+[/us/pl/90/206/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F206%2FtIV
 [/us/stat/81/648]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F648
 [/us/usc/t5/s8714a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8714a
-[/us/pl/90/206/s220/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F206%2Fs220%2Fb
+[/us/pl/90/206/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F206%2FtII
 [/us/stat/81/639]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F639
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
 [/us/usc/t5/s212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs212

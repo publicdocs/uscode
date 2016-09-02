@@ -131,11 +131,11 @@
 
     (i) Upon request of the Director of the Office of Personnel Management, agencies shall cooperate with and assist the Office, to the extent practicable, in any evaluation undertaken under subsection (h) of this section and provide the Office with requested information and reports relating to the conducting of demonstration projects in their respective agencies.
 
-(Added [Pub. L. 95–454, title VI, § 601(a)][/us/pl/95/454/s601/a], Oct. 13, 1978, [92 Stat. 1186][/us/stat/92/1186].)
+(Added [Pub. L. 95–454, title VI][/us/pl/95/454/tVI], § 601(a), Oct. 13, 1978, [92 Stat. 1186][/us/stat/92/1186].)
 
  __Authority of Export-Import Bank To Conduct Demonstration Program__ 
 
-[Pub. L. 104–97, § 2][/us/pl/104/97/s2], Jan. 11, 1996, [109 Stat. 984][/us/stat/109/984], provided that: 
+[Pub. L. 104–97][/us/pl/104/97], § 2, Jan. 11, 1996, [109 Stat. 984][/us/stat/109/984], provided that: 
 
 > “Notwithstanding [section 4701(a)(1)(A) of title 5][/us/usc/t5/s4701/a/1/A], United States Code, the Export-Import Bank of the United States may conduct a demonstration project in accordance with section 4703 of such title.”
 
@@ -149,9 +149,9 @@
 [/us/usc/t5/s2302/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs2302%2Fb%2F1
 [/us/usc/t5/s2302/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs2302%2Fb%2F1
 [/us/usc/t5/s7103/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs7103%2F8
-[/us/pl/95/454/s601/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs601%2Fa
+[/us/pl/95/454/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtVI
 [/us/stat/92/1186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1186
-[/us/pl/104/97/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F97%2Fs2
+[/us/pl/104/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F97
 [/us/stat/109/984]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F984
 [/us/usc/t5/s4701/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs4701%2Fa%2F1%2FA
 

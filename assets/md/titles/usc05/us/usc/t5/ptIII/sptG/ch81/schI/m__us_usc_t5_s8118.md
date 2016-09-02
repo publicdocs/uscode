@@ -33,7 +33,7 @@
 
     (e) Payments under this section shall not be considered as compensation as defined by [section 8101(12) of this title][/us/usc/t5/s8101/12].
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 543][/us/stat/80/543]; [Pub. L. 93–416, § 11][/us/pl/93/416/s11], Sept. 7, 1974, [88 Stat. 1145][/us/stat/88/1145]; [Pub. L. 109–435, title IX, § 901(b)][/us/pl/109/435/s901/b], Dec. 20, 2006, [120 Stat. 3254][/us/stat/120/3254].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 543][/us/stat/80/543]; [Pub. L. 93–416][/us/pl/93/416], § 11, Sept. 7, 1974, [88 Stat. 1145][/us/stat/88/1145]; [Pub. L. 109–435, title IX][/us/pl/109/435/tIX], § 901(b), Dec. 20, 2006, [120 Stat. 3254][/us/stat/120/3254].)
 
 <table>
 
@@ -107,7 +107,7 @@ Oct. 14, 1949, ch. 691, § 101(b), 63 Stat. 854.  </td>
 
  __Effective Date of 1974 Amendment__ 
 
-[Pub. L. 93–416, § 28(b)][/us/pl/93/416/s28/b], Sept. 7, 1974, [88 Stat. 1151][/us/stat/88/1151], provided that: 
+[Pub. L. 93–416][/us/pl/93/416], § 28(b), Sept. 7, 1974, [88 Stat. 1151][/us/stat/88/1151], provided that: 
 
 > “Section 11 of this Act \[amending this section\] shall become effective 60 days from enactment \[Sept. 7, 1974\] and be applicable to any injury occurring on or after such effective date.”
 
@@ -125,13 +125,13 @@ Oct. 14, 1949, ch. 691, § 101(b), 63 Stat. 854.  </td>
 [/us/usc/t5/s8101/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8101%2F12
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F543
-[/us/pl/93/416/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F416%2Fs11
+[/us/pl/93/416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F416
 [/us/stat/88/1145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1145
-[/us/pl/109/435/s901/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2Fs901%2Fb
+[/us/pl/109/435/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2FtIX
 [/us/stat/120/3254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3254
 [/us/pl/109/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435
 [/us/pl/93/416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F416
-[/us/pl/93/416/s28/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F416%2Fs28%2Fb
+[/us/pl/93/416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F416
 [/us/stat/88/1151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1151
 
 

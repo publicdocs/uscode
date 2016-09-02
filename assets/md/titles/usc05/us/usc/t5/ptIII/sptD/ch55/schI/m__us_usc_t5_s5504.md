@@ -59,7 +59,7 @@
 
         (2) The Office of Personnel Management shall provide guidelines by regulation for exemptions to be made by the heads of agencies under subsection (c)(3). Such guidelines shall provide for such exemptions only under exceptional circumstances.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 475][/us/stat/80/475]; [Pub. L. 90–83, § 1(21)][/us/pl/90/83/s1/21], Sept. 11, 1967, [81 Stat. 199][/us/stat/81/199]; [Pub. L. 95–454, title IV, § 408(a)(1)][/us/pl/95/454/s408/a/1], title IX, § 906(a)(2), Oct. 13, 1978, [92 Stat. 1173][/us/stat/92/1173], 1224; [Pub. L. 96–54, § 2(a)(29)][/us/pl/96/54/s2/a/29], Aug. 14, 1979, [93 Stat. 383][/us/stat/93/383]; [Pub. L. 96–70, title III, § 3302(e)(2)][/us/pl/96/70/s3302/e/2], Sept. 27, 1979, [93 Stat. 498][/us/stat/93/498]; [Pub. L. 99–272, title XV, § 15203(a)][/us/pl/99/272/s15203/a], Apr. 7, 1986, [100 Stat. 334][/us/stat/100/334]; [Pub. L. 108–136, div. A, title XI, § 1124][/us/pl/108/136/s1124], Nov. 24, 2003, [117 Stat. 1637][/us/stat/117/1637].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 475][/us/stat/80/475]; [Pub. L. 90–83][/us/pl/90/83], § 1(21), Sept. 11, 1967, [81 Stat. 199][/us/stat/81/199]; [Pub. L. 95–454, title IV][/us/pl/95/454/tIV], § 408(a)(1), title IX, § 906(a)(2), Oct. 13, 1978, [92 Stat. 1173][/us/stat/92/1173], 1224; [Pub. L. 96–54][/us/pl/96/54], § 2(a)(29), Aug. 14, 1979, [93 Stat. 383][/us/stat/93/383]; [Pub. L. 96–70, title III][/us/pl/96/70/tIII], § 3302(e)(2), Sept. 27, 1979, [93 Stat. 498][/us/stat/93/498]; [Pub. L. 99–272, title XV][/us/pl/99/272/tXV], § 15203(a), Apr. 7, 1986, [100 Stat. 334][/us/stat/100/334]; [Pub. L. 108–136, div. A, title XI][/us/pl/108/136/dA/tXI], § 1124, Nov. 24, 2003, [117 Stat. 1637][/us/stat/117/1637].)
 
 <table>
 
@@ -153,7 +153,7 @@ Aug. 14, 1964, Pub. L. 88–426, § 103(c), 78 Stat. 402.  </td>
 
 </table>
 
-    In subsection (a), the words “Beginning not later than October 1, 1945” are omitted as executed. Paragraphs (1) and (3) are substituted for the words “all officers and employees of the organizations referred to in subsection (a) of this section”. In paragraph (A), the words “Canal Zone Government” and “Panama Canal Company” are substituted for “The Panama Canal” and “Panama Railroad Company” on authority of the [Act of Sept. 26, 1950, ch. 1049, § 2(a)][/us/act/1950-09-26/ch1049/s2/a], [64 Stat. 1038][/us/stat/64/1038]. Paragraph (B) is added on authority of former section 902, which is carried into section 5541.
+    In subsection (a), the words “Beginning not later than October 1, 1945” are omitted as executed. Paragraphs (1) and (3) are substituted for the words “all officers and employees of the organizations referred to in subsection (a) of this section”. In paragraph (A), the words “Canal Zone Government” and “Panama Canal Company” are substituted for “The Panama Canal” and “Panama Railroad Company” on authority of the [Act of Sept. 26, 1950, ch. 1049][/us/act/1950-09-26/ch1049], § 2(a), [64 Stat. 1038][/us/stat/64/1038]. Paragraph (B) is added on authority of former section 902, which is carried into section 5541.
 
     In subsection (b), the exception in the last sentence is added on authority of former section 902, which is carried into section 5541.
 
@@ -167,11 +167,11 @@ Aug. 14, 1964, Pub. L. 88–426, § 103(c), 78 Stat. 402.  </td>
 
  __Amendments__ 
 
-    2003—Subsecs. (a), (b). [Pub. L. 108–136, § 1124(a)(2)][/us/pl/108/136/s1124/a/2], struck out last sentence which defined “employee”.
+    2003—Subsecs. (a), (b). [Pub. L. 108–136][/us/pl/108/136], § 1124(a)(2), struck out last sentence which defined “employee”.
 
-    Subsec. (c). [Pub. L. 108–136, § 1124(a)(3)][/us/pl/108/136/s1124/a/3], added subsec. (c). Former subsec. (c) redesignated (d).
+    Subsec. (c). [Pub. L. 108–136][/us/pl/108/136], § 1124(a)(3), added subsec. (c). Former subsec. (c) redesignated (d).
 
-    Subsec. (d). [Pub. L. 108–136, § 1124(a)(1)][/us/pl/108/136/s1124/a/1], (b), redesignated subsec. (c) as (d), inserted “(1)” after “(d)”, and added par. (2).
+    Subsec. (d). [Pub. L. 108–136][/us/pl/108/136], § 1124(a)(1), (b), redesignated subsec. (c) as (d), inserted “(1)” after “(d)”, and added par. (2).
 
     1986—Subsec. (b). [Pub. L. 99–272][/us/pl/99/272] struck out first sentence which provided that for pay computation purposes affecting an employee, the annual rate of basic pay established by or under statute is deemed payment for employment during 52 basic administrative workweeks of 40 hours, inserted “, in the case of an employee,” after “When” in second sentence, substituted “2,087” for “2,080” in par. (1), and inserted “other than an employee or individual excluded by [section 5541(2)(xvi) of this title][/us/usc/t5/s5541/2/xvi]” at end of last sentence.
 
@@ -179,13 +179,13 @@ Aug. 14, 1964, Pub. L. 88–426, § 103(c), 78 Stat. 402.  </td>
 
     Subsec. (a)(B). [Pub. L. 96–54][/us/pl/96/54] substituted “(xvi) of this title” for “(xvi) of this section”.
 
-    1978—Subsec. (a). [Pub. L. 95–454, § 408(a)(1)][/us/pl/95/454/s408/a/1], in par. (B) inserted reference to an employee or individual excluded by section 5541(2)(xvi).
+    1978—Subsec. (a). [Pub. L. 95–454][/us/pl/95/454], § 408(a)(1), in par. (B) inserted reference to an employee or individual excluded by section 5541(2)(xvi).
 
-    Subsec. (c). [Pub. L. 95–454, § 906(a)(2)][/us/pl/95/454/s906/a/2], substituted “Office of Personnel Management” for “Civil Service Commission”.
+    Subsec. (c). [Pub. L. 95–454][/us/pl/95/454], § 906(a)(2), substituted “Office of Personnel Management” for “Civil Service Commission”.
 
  __Effective Date of 1986 Amendment__ 
 
-[Pub. L. 99–272, title XV, § 15203(b)][/us/pl/99/272/s15203/b], Apr. 7, 1986, [100 Stat. 334][/us/stat/100/334], provided that: 
+[Pub. L. 99–272, title XV][/us/pl/99/272/tXV], § 15203(b), Apr. 7, 1986, [100 Stat. 334][/us/stat/100/334], provided that: 
 
 > “The amendments made by subsection (a) \[amending this section\] shall be effective with respect to pay periods commencing on or after March 1, 1986.”
 
@@ -207,7 +207,7 @@ Aug. 14, 1964, Pub. L. 88–426, § 103(c), 78 Stat. 402.  </td>
 
  __Determination of Hourly Rate__ 
 
-[Pub. L. 97–253, title III, § 310(b)][/us/pl/97/253/s310/b], Sept. 8, 1982, [96 Stat. 799][/us/stat/96/799], as amended by [Pub. L. 97–346, § 3][/us/pl/97/346/s3](l), Oct. 15, 1982, [96 Stat. 1649][/us/stat/96/1649]; [Pub. L. 98–117, § 1][/us/pl/98/117/s1], Oct. 11, 1983, [97 Stat. 802][/us/stat/97/802], provided that:
+[Pub. L. 97–253, title III][/us/pl/97/253/tIII], § 310(b), Sept. 8, 1982, [96 Stat. 799][/us/stat/96/799], as amended by [Pub. L. 97–346][/us/pl/97/346], § 3(l), Oct. 15, 1982, [96 Stat. 1649][/us/stat/96/1649]; [Pub. L. 98–117][/us/pl/98/117], § 1, Oct. 11, 1983, [97 Stat. 802][/us/stat/97/802], provided that:
 
 >     “(1) Notwithstanding any other provision of law, effective with respect to pay periods beginning in fiscal years 1984 and 1985, and applicable in the case of an employee as defined in [section 5504(b) of title 5][/us/usc/t5/s5504/b], United States Code \[subsection (b) of this section\], any hourly rate derived under [section 5504(b)(1) of title 5][/us/usc/t5/s5504/b/1], United States Code, shall be derived by dividing the annual rate of basic pay by 2,087.
 
@@ -217,7 +217,7 @@ Aug. 14, 1964, Pub. L. 88–426, § 103(c), 78 Stat. 402.  </td>
 
 >     “(4) Notwithstanding any other provision of this subsection, paragraph (1) shall not be effective with respect to pay periods beginning before the effective date of any increase under [section 5305 of title 5][/us/usc/t5/s5305], United States Code, in the rates of pay under the General Schedule and the rates of pay under the other statutory pay systems for fiscal year 1984.”
 
-\[[Pub. L. 98–117, § 2][/us/pl/98/117/s2], Oct. 11, 1983, [97 Stat. 802][/us/stat/97/802], provided that: 
+\[[Pub. L. 98–117][/us/pl/98/117], § 2, Oct. 11, 1983, [97 Stat. 802][/us/stat/97/802], provided that: 
 
 > “The amendment made by this Act \[enacting par. (4) of this note\] shall be effective as of October 1, 1983.”
 
@@ -234,32 +234,32 @@ Aug. 14, 1964, Pub. L. 88–426, § 103(c), 78 Stat. 402.  </td>
 [/us/usc/t5/s5541/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5541%2F2
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/475]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F475
-[/us/pl/90/83/s1/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83%2Fs1%2F21
+[/us/pl/90/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83
 [/us/stat/81/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F199
-[/us/pl/95/454/s408/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs408%2Fa%2F1
+[/us/pl/95/454/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtIV
 [/us/stat/92/1173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1173
-[/us/pl/96/54/s2/a/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F54%2Fs2%2Fa%2F29
+[/us/pl/96/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F54
 [/us/stat/93/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F383
-[/us/pl/96/70/s3302/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2Fs3302%2Fe%2F2
+[/us/pl/96/70/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2FtIII
 [/us/stat/93/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F498
-[/us/pl/99/272/s15203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs15203%2Fa
+[/us/pl/99/272/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2FtXV
 [/us/stat/100/334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F334
-[/us/pl/108/136/s1124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1124
+[/us/pl/108/136/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtXI
 [/us/stat/117/1637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1637
-[/us/act/1950-09-26/ch1049/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-26%2Fch1049%2Fs2%2Fa
+[/us/act/1950-09-26/ch1049]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-26%2Fch1049
 [/us/stat/64/1038]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1038
 [/us/usc/t5/s5504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5504
 [/us/usc/t5/s6101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs6101
-[/us/pl/108/136/s1124/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1124%2Fa%2F2
-[/us/pl/108/136/s1124/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1124%2Fa%2F3
-[/us/pl/108/136/s1124/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1124%2Fa%2F1
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
 [/us/pl/99/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272
 [/us/usc/t5/s5541/2/xvi]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5541%2F2%2Fxvi
 [/us/pl/96/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70
 [/us/pl/96/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F54
-[/us/pl/95/454/s408/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs408%2Fa%2F1
-[/us/pl/95/454/s906/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs906%2Fa%2F2
-[/us/pl/99/272/s15203/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs15203%2Fb
+[/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454
+[/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454
+[/us/pl/99/272/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2FtXV
 [/us/stat/100/334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F334
 [/us/pl/96/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70
 [/us/pl/96/70/s3304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2Fs3304
@@ -275,16 +275,16 @@ Aug. 14, 1964, Pub. L. 88–426, § 103(c), 78 Stat. 402.  </td>
 [/us/pl/95/454/s907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs907
 [/us/usc/t5/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs1101
 [/us/usc/t3/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs301
-[/us/pl/97/253/s310/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F253%2Fs310%2Fb
+[/us/pl/97/253/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F253%2FtIII
 [/us/stat/96/799]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F799
-[/us/pl/97/346/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F346%2Fs3
+[/us/pl/97/346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F346
 [/us/stat/96/1649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1649
-[/us/pl/98/117/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F117%2Fs1
+[/us/pl/98/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F117
 [/us/stat/97/802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F802
 [/us/usc/t5/s5504/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5504%2Fb
 [/us/usc/t5/s5504/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5504%2Fb%2F1
 [/us/usc/t5/s5305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5305
-[/us/pl/98/117/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F117%2Fs2
+[/us/pl/98/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F117
 [/us/stat/97/802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F802
 
 

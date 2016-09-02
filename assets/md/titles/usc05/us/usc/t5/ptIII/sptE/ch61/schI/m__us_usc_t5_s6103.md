@@ -67,7 +67,7 @@
 
         (2) An agency may prescribe rules under which employees on a compressed schedule may, in the case of a holiday that occurs on a regularly scheduled non-workday for such employees, and notwithstanding any other provision of law or the terms of any collective bargaining agreement, be required to observe such holiday on a workday other than as provided by subsection (b), if the agency head determines that it is necessary to do so in order to prevent an adverse agency impact.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 515][/us/stat/80/515]; [Pub. L. 90–363, § 1(a)][/us/pl/90/363/s1/a], June 28, 1968, [82 Stat. 250][/us/stat/82/250]; [Pub. L. 94–97][/us/pl/94/97], Sept. 18, 1975, [89 Stat. 479][/us/stat/89/479]; [Pub. L. 98–144, § 1][/us/pl/98/144/s1], Nov. 2, 1983, [97 Stat. 917][/us/stat/97/917]; [Pub. L. 104–201, div. A, title XVI, § 1613][/us/pl/104/201/s1613], Sept. 23, 1996, [110 Stat. 2739][/us/stat/110/2739]; [Pub. L. 105–261, div. A, title XI, § 1107][/us/pl/105/261/s1107], Oct. 17, 1998, [112 Stat. 2142][/us/stat/112/2142].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 515][/us/stat/80/515]; [Pub. L. 90–363][/us/pl/90/363], § 1(a), June 28, 1968, [82 Stat. 250][/us/stat/82/250]; [Pub. L. 94–97][/us/pl/94/97], Sept. 18, 1975, [89 Stat. 479][/us/stat/89/479]; [Pub. L. 98–144][/us/pl/98/144], § 1, Nov. 2, 1983, [97 Stat. 917][/us/stat/97/917]; [Pub. L. 104–201, div. A, title XVI][/us/pl/104/201/dA/tXVI], § 1613, Sept. 23, 1996, [110 Stat. 2739][/us/stat/110/2739]; [Pub. L. 105–261, div. A, title XI][/us/pl/105/261/dA/tXI], § 1107, Oct. 17, 1998, [112 Stat. 2142][/us/stat/112/2142].)
 
 <table>
 
@@ -203,7 +203,7 @@ Jan. 11, 1957, Pub. L. 85–1, 71 Stat. 3.  </td>
 
  __References in Text__ 
 
-    [Section 6309 of this title][/us/usc/t5/s6309], referred to in subsec. (b)(1)(B), was repealed by [Pub. L. 94–183, § 2(26)][/us/pl/94/183/s2/26], Dec. 31, 1975, [89 Stat. 1058][/us/stat/89/1058].
+    [Section 6309 of this title][/us/usc/t5/s6309], referred to in subsec. (b)(1)(B), was repealed by [Pub. L. 94–183][/us/pl/94/183], § 2(26), Dec. 31, 1975, [89 Stat. 1058][/us/stat/89/1058].
 
  __Amendments__ 
 
@@ -219,7 +219,7 @@ Jan. 11, 1957, Pub. L. 85–1, 71 Stat. 3.  </td>
 
  __Effective Date of 1983 Amendment__ 
 
-[Pub. L. 98–144, § 2][/us/pl/98/144/s2], Nov. 2, 1983, [97 Stat. 917][/us/stat/97/917], provided that: 
+[Pub. L. 98–144][/us/pl/98/144], § 2, Nov. 2, 1983, [97 Stat. 917][/us/stat/97/917], provided that: 
 
 > “The amendment made by the first section of this Act \[amending this section\] shall take effect on the first January 1 that occurs after the two-year period following the date of the enactment of this Act \[Nov. 2, 1983\].”
 
@@ -229,13 +229,13 @@ Jan. 11, 1957, Pub. L. 85–1, 71 Stat. 3.  </td>
 
  __Effective Date of 1968 Amendment__ 
 
-[Pub. L. 90–363, § 2][/us/pl/90/363/s2], June 28, 1968, [82 Stat. 251][/us/stat/82/251], provided that: 
+[Pub. L. 90–363][/us/pl/90/363], § 2, June 28, 1968, [82 Stat. 251][/us/stat/82/251], provided that: 
 
 > “The amendment made by subsection (a) of the first section of this Act \[amending this section\] shall take effect on January 1, 1971.”
 
  __References in Laws of the United States to Observances of Legal Public Holidays__ 
 
-[Pub. L. 90–363, § 1(b)][/us/pl/90/363/s1/b], June 28, 1968, [82 Stat. 250][/us/stat/82/250], provided that: 
+[Pub. L. 90–363][/us/pl/90/363], § 1(b), June 28, 1968, [82 Stat. 250][/us/stat/82/250], provided that: 
 
 > “Any reference in a law of the United States (in effect on the effective date of the amendment made by subsection (a) of this section) \[January 1, 1971\] to the observance of a legal public holiday on a day other than the day prescribed for the observance of such holiday by [section 6103(a) of title 5][/us/usc/t5/s6103/a], United States Code, as amended by subsection (a), shall on and after such effective date be considered a reference to the day for the observance of such holiday prescribed in such amended section 6103(a).”
 
@@ -293,31 +293,31 @@ Sec. 4. The holiday for a full-time employee for whom the head of a department h
 [/us/usc/t5/s2105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs2105
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F515
-[/us/pl/90/363/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F363%2Fs1%2Fa
+[/us/pl/90/363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F363
 [/us/stat/82/250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F250
 [/us/pl/94/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F97
 [/us/stat/89/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F479
-[/us/pl/98/144/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F144%2Fs1
+[/us/pl/98/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F144
 [/us/stat/97/917]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F917
-[/us/pl/104/201/s1613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1613
+[/us/pl/104/201/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtXVI
 [/us/stat/110/2739]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2739
-[/us/pl/105/261/s1107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs1107
+[/us/pl/105/261/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdA%2FtXI
 [/us/stat/112/2142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2142
 [/us/usc/t5/s6309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs6309
-[/us/pl/94/183/s2/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F183%2Fs2%2F26
+[/us/pl/94/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F183
 [/us/stat/89/1058]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F1058
 [/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
 [/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
 [/us/pl/98/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F144
 [/us/pl/94/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F97
 [/us/pl/90/363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F363
-[/us/pl/98/144/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F144%2Fs2
+[/us/pl/98/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F144
 [/us/stat/97/917]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F917
 [/us/pl/94/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F97
 [/us/pl/94/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F97
-[/us/pl/90/363/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F363%2Fs2
+[/us/pl/90/363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F363
 [/us/stat/82/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F251
-[/us/pl/90/363/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F363%2Fs1%2Fb
+[/us/pl/90/363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F363
 [/us/stat/82/250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F250
 [/us/usc/t5/s6103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs6103%2Fa
 

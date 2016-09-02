@@ -19,7 +19,7 @@
 
     (b) For the purposes of this section, “moving or storage expenses” means travel and transportation expenses (including storage of household goods and personal effects under [section 5724 of this title][/us/usc/t5/s5724]) and other relocation expenses under sections 5724a and 5724c of this title.
 
-(Added [Pub. L. 98–151, § 118(a)(7)(A)(i)][/us/pl/98/151/s118/a/7/A/i], Nov. 14, 1983, [97 Stat. 978][/us/stat/97/978]; amended [Pub. L. 98–473, title I, § 120(b)][/us/pl/98/473/s120/b], Oct. 12, 1984, [98 Stat. 1969][/us/stat/98/1969]; [Pub. L. 104–201, div. A, title XVII, § 1723(b)(1)][/us/pl/104/201/s1723/b/1], Sept. 23, 1996, [110 Stat. 2759][/us/stat/110/2759].)
+(Added [Pub. L. 98–151][/us/pl/98/151], § 118(a)(7)(A)(i), Nov. 14, 1983, [97 Stat. 978][/us/stat/97/978]; amended [Pub. L. 98–473, title I][/us/pl/98/473/tI], § 120(b), Oct. 12, 1984, [98 Stat. 1969][/us/stat/98/1969]; [Pub. L. 104–201, div. A, title XVII][/us/pl/104/201/dA/tXVII], § 1723(b)(1), Sept. 23, 1996, [110 Stat. 2759][/us/stat/110/2759].)
 
  __Codification__ 
 
@@ -52,11 +52,11 @@
 
 [/us/usc/t5/s5738]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5738
 [/us/usc/t5/s5724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5724
-[/us/pl/98/151/s118/a/7/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F151%2Fs118%2Fa%2F7%2FA%2Fi
+[/us/pl/98/151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F151
 [/us/stat/97/978]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F978
-[/us/pl/98/473/s120/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs120%2Fb
+[/us/pl/98/473/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtI
 [/us/stat/98/1969]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1969
-[/us/pl/104/201/s1723/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1723%2Fb%2F1
+[/us/pl/104/201/dA/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtXVII
 [/us/stat/110/2759]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2759
 [/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
 [/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201

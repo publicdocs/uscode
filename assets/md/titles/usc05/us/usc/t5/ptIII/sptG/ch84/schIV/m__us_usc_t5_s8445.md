@@ -69,13 +69,13 @@
 
         (2) A remarriage described in paragraph (1) shall not be taken into account for purposes of section 8419(b)(1)(B) or any other provision of this chapter which the Office may by regulation identify in order to carry out the purposes of this subsection.
 
-(Added [Pub. L. 99–335, title I, § 101(a)][/us/pl/99/335/s101/a], June 6, 1986, [100 Stat. 564][/us/stat/100/564]; amended [Pub. L. 105–61, title V, § 518(b)(2)][/us/pl/105/61/s518/b/2], Oct. 10, 1997, [111 Stat. 1308][/us/stat/111/1308].)
+(Added [Pub. L. 99–335, title I][/us/pl/99/335/tI], § 101(a), June 6, 1986, [100 Stat. 564][/us/stat/100/564]; amended [Pub. L. 105–61, title V][/us/pl/105/61/tV], § 518(b)(2), Oct. 10, 1997, [111 Stat. 1308][/us/stat/111/1308].)
 
  __Amendments__ 
 
-    1997—Subsec. (c)(2). [Pub. L. 105–61, § 518(b)(2)(B)][/us/pl/105/61/s518/b/2/B], substituted “except as provided in subsection (h), shall” for “shall”.
+    1997—Subsec. (c)(2). [Pub. L. 105–61][/us/pl/105/61], § 518(b)(2)(B), substituted “except as provided in subsection (h), shall” for “shall”.
 
-    Subsec. (h). [Pub. L. 105–61, § 518(b)(2)(A)][/us/pl/105/61/s518/b/2/A], added subsec. (h).
+    Subsec. (h). [Pub. L. 105–61][/us/pl/105/61], § 518(b)(2)(A), added subsec. (h).
 
  __Effective Date of 1997 Amendment__ 
 
@@ -88,12 +88,12 @@
 ----------
 ----------
 
-[/us/pl/99/335/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2Fs101%2Fa
+[/us/pl/99/335/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2FtI
 [/us/stat/100/564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F564
-[/us/pl/105/61/s518/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F61%2Fs518%2Fb%2F2
+[/us/pl/105/61/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F61%2FtV
 [/us/stat/111/1308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1308
-[/us/pl/105/61/s518/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F61%2Fs518%2Fb%2F2%2FB
-[/us/pl/105/61/s518/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F61%2Fs518%2Fb%2F2%2FA
+[/us/pl/105/61]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F61
+[/us/pl/105/61]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F61
 [/us/pl/105/61]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F61
 [/us/pl/105/61/s518/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F61%2Fs518%2Fc
 [/us/usc/t5/s8341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8341

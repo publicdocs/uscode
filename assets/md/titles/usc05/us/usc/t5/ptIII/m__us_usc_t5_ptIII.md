@@ -571,45 +571,45 @@ Subpart J—Enhanced Personnel Security Programs  </td>
 
  __Amendments__ 
 
-    2015—[Pub. L. 114–113, div. M, title III, § 306(a)(2)][/us/pl/114/113/s306/a/2], Dec. 18, 2015, [129 Stat. 2916][/us/stat/129/2916], added items for subpart J and chapter 110.
+    2015—[Pub. L. 114–113, div. M, title III][/us/pl/114/113/dM/tIII], § 306(a)(2), Dec. 18, 2015, [129 Stat. 2916][/us/stat/129/2916], added items for subpart J and chapter 110.
 
-    [Pub. L. 114–47, § 2(b)][/us/pl/114/47/s2/b], Aug. 7, 2015, [129 Stat. 487][/us/stat/129/487], added item for chapter 96.
+    [Pub. L. 114–47][/us/pl/114/47], § 2(b), Aug. 7, 2015, [129 Stat. 487][/us/stat/129/487], added item for chapter 96.
 
-    2011—[Pub. L. 112–81, div. A, title XI, § 1101(d)(2)][/us/pl/112/81/s1101/d/2], Dec. 31, 2011, [125 Stat. 1610][/us/stat/125/1610], added item for chapter 99 and struck out former item for chapter 99 “Department of Defense National Security Personnel System”.
+    2011—[Pub. L. 112–81, div. A, title XI][/us/pl/112/81/dA/tXI], § 1101(d)(2), Dec. 31, 2011, [125 Stat. 1610][/us/stat/125/1610], added item for chapter 99 and struck out former item for chapter 99 “Department of Defense National Security Personnel System”.
 
-    2010—[Pub. L. 111–292, § 2(b)(1)][/us/pl/111/292/s2/b/1], Dec. 9, 2010, [124 Stat. 3170][/us/stat/124/3170], added item for chapter 65.
+    2010—[Pub. L. 111–292][/us/pl/111/292], § 2(b)(1), Dec. 9, 2010, [124 Stat. 3170][/us/stat/124/3170], added item for chapter 65.
 
-    [Pub. L. 111–282, § 4(c)(3)][/us/pl/111/282/s4/c/3], Oct. 15, 2010, [124 Stat. 3044][/us/stat/124/3044], added item for chapter 102.
+    [Pub. L. 111–282][/us/pl/111/282], § 4(c)(3), Oct. 15, 2010, [124 Stat. 3044][/us/stat/124/3044], added item for chapter 102.
 
-    2006—[Pub. L. 109–295, title VI, § 621(b)][/us/pl/109/295/s621/b], Oct. 4, 2006, [120 Stat. 1416][/us/stat/120/1416], added item for chapter 101.
+    2006—[Pub. L. 109–295, title VI][/us/pl/109/295/tVI], § 621(b), Oct. 4, 2006, [120 Stat. 1416][/us/stat/120/1416], added item for chapter 101.
 
-    2004—[Pub. L. 108–496, § 4][/us/pl/108/496/s4], Dec. 23, 2004, [118 Stat. 4010][/us/stat/118/4010], added items for chapters 89A and 89B.
+    2004—[Pub. L. 108–496][/us/pl/108/496], § 4, Dec. 23, 2004, [118 Stat. 4010][/us/stat/118/4010], added items for chapters 89A and 89B.
 
-    [Pub. L. 108–201, § 3(b)][/us/pl/108/201/s3/b], Feb. 24, 2004, [118 Stat. 477][/us/stat/118/477], added item for chapter 98.
+    [Pub. L. 108–201][/us/pl/108/201], § 3(b), Feb. 24, 2004, [118 Stat. 477][/us/stat/118/477], added item for chapter 98.
 
-    2003—[Pub. L. 108–136, div. A, title XI][/us/pl/108/136], §§ 1101(a)(2), 1129(b), Nov. 24, 2003, [117 Stat. 1633][/us/stat/117/1633], 1645, added items for chapters 54 and 99.
+    2003—[Pub. L. 108–136, div. A, title XI][/us/pl/108/136/dA/tXI], §§ 1101(a)(2), 1129(b), Nov. 24, 2003, [117 Stat. 1633][/us/stat/117/1633], 1645, added items for chapters 54 and 99.
 
-    2002—[Pub. L. 107–347, title II, § 209(c)(3)][/us/pl/107/347/s209/c/3], Dec. 17, 2002, [116 Stat. 2930][/us/stat/116/2930], added item for chapter 37.
+    2002—[Pub. L. 107–347, title II][/us/pl/107/347/tII], § 209(c)(3), Dec. 17, 2002, [116 Stat. 2930][/us/stat/116/2930], added item for chapter 37.
 
-    [Pub. L. 107–296, title VIII, § 841(a)(3)][/us/pl/107/296/s841/a/3], Nov. 25, 2002, [116 Stat. 2233][/us/stat/116/2233], added item for chapter 97.
+    [Pub. L. 107–296, title VIII][/us/pl/107/296/tVIII], § 841(a)(3), Nov. 25, 2002, [116 Stat. 2233][/us/stat/116/2233], added item for chapter 97.
 
-    [Pub. L. 107–123, § 8(d)(1)(A)][/us/pl/107/123/s8/d/1/A], Jan. 16, 2002, [115 Stat. 2399][/us/stat/115/2399], added item for chapter 48.
+    [Pub. L. 107–123][/us/pl/107/123], § 8(d)(1)(A), Jan. 16, 2002, [115 Stat. 2399][/us/stat/115/2399], added item for chapter 48.
 
-    2000—[Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title X, § 1076(f)(1)(B)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–282, substituted “and Other Purposes” for “Purposes” in item for chapter 91.
+    2000—[Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title X, § 1076(f)(1)(B)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–282, substituted “and Other Purposes” for “Purposes” in item for chapter 91.
 
-    [Pub. L. 106–265, title I, § 1002(b)][/us/pl/106/265/s1002/b], Sept. 19, 2000, [114 Stat. 769][/us/stat/114/769], added item for chapter 90.
+    [Pub. L. 106–265, title I][/us/pl/106/265/tI], § 1002(b), Sept. 19, 2000, [114 Stat. 769][/us/stat/114/769], added item for chapter 90.
 
-    1998—[Pub. L. 105–206, title I, § 1201(b)][/us/pl/105/206/s1201/b], July 22, 1998, [112 Stat. 719][/us/stat/112/719], added items for subpart I and chapter 95.
+    1998—[Pub. L. 105–206, title I][/us/pl/105/206/tI], § 1201(b), July 22, 1998, [112 Stat. 719][/us/stat/112/719], added items for subpart I and chapter 95.
 
-    1993—[Pub. L. 103–89, § 3(a)(2)][/us/pl/103/89/s3/a/2], Sept. 30, 1993, [107 Stat. 981][/us/stat/107/981], struck out item for chapter 54 “Performance Management and Recognition System”.
+    1993—[Pub. L. 103–89][/us/pl/103/89], § 3(a)(2), Sept. 30, 1993, [107 Stat. 981][/us/stat/107/981], struck out item for chapter 54 “Performance Management and Recognition System”.
 
-    1986—[Pub. L. 99–335, title I, § 101(b)][/us/pl/99/335/s101/b], June 6, 1986, [100 Stat. 588][/us/stat/100/588], added item for chapter 84.
+    1986—[Pub. L. 99–335, title I][/us/pl/99/335/tI], § 101(b), June 6, 1986, [100 Stat. 588][/us/stat/100/588], added item for chapter 84.
 
-    1985—[Pub. L. 99–169, title VIII, § 801(b)][/us/pl/99/169/s801/b], Dec. 4, 1985, [99 Stat. 1010][/us/stat/99/1010], added items for subpart H and chapter 91.
+    1985—[Pub. L. 99–169, title VIII][/us/pl/99/169/tVIII], § 801(b), Dec. 4, 1985, [99 Stat. 1010][/us/stat/99/1010], added items for subpart H and chapter 91.
 
-    1984—[Pub. L. 98–615, title II, § 201(b)][/us/pl/98/615/s201/b], Nov. 8, 1984, [98 Stat. 3214][/us/stat/98/3214], substituted “Performance Management and Recognition System” for “Merit Pay and Cash Awards” in item for chapter 54.
+    1984—[Pub. L. 98–615, title II][/us/pl/98/615/tII], § 201(b), Nov. 8, 1984, [98 Stat. 3214][/us/stat/98/3214], substituted “Performance Management and Recognition System” for “Merit Pay and Cash Awards” in item for chapter 54.
 
-    1978—[Pub. L. 95–454, title I, § 101(b)(1)][/us/pl/95/454/s101/b/1], title II, § 203(b), title V, § 503(i), title VI, § 601(b), title VII, § 703(b), title IX, § 906(c)(5), Oct. 13, 1978, [92 Stat. 1118][/us/stat/92/1118], 1134, 1184, 1188, 1217, 1227, added items for chapters 23, 34, 47, 54, and 72, substituted in item for chapter 43 “Appraisal” for “Rating” and in item for chapter 71 “Labor-Management Relations” for “Policies”, and inserted in heading of subpart F “Labor-Management and” before “Employee”.
+    1978—[Pub. L. 95–454, title I][/us/pl/95/454/tI], § 101(b)(1), title II, § 203(b), title V, § 503(i), title VI, § 601(b), title VII, § 703(b), title IX, § 906(c)(5), Oct. 13, 1978, [92 Stat. 1118][/us/stat/92/1118], 1134, 1184, 1188, 1217, 1227, added items for chapters 23, 34, 47, 54, and 72, substituted in item for chapter 43 “Appraisal” for “Rating” and in item for chapter 71 “Labor-Management Relations” for “Policies”, and inserted in heading of subpart F “Labor-Management and” before “Employee”.
 
 ----------
 
@@ -618,45 +618,45 @@ Subpart J—Enhanced Personnel Security Programs  </td>
 ----------
 ----------
 
-[/us/pl/114/113/s306/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs306%2Fa%2F2
+[/us/pl/114/113/dM/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdM%2FtIII
 [/us/stat/129/2916]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2916
-[/us/pl/114/47/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F47%2Fs2%2Fb
+[/us/pl/114/47]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F47
 [/us/stat/129/487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F487
-[/us/pl/112/81/s1101/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1101%2Fd%2F2
+[/us/pl/112/81/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtXI
 [/us/stat/125/1610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1610
-[/us/pl/111/292/s2/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F292%2Fs2%2Fb%2F1
+[/us/pl/111/292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F292
 [/us/stat/124/3170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3170
-[/us/pl/111/282/s4/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F282%2Fs4%2Fc%2F3
+[/us/pl/111/282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F282
 [/us/stat/124/3044]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3044
-[/us/pl/109/295/s621/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs621%2Fb
+[/us/pl/109/295/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2FtVI
 [/us/stat/120/1416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1416
-[/us/pl/108/496/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F496%2Fs4
+[/us/pl/108/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F496
 [/us/stat/118/4010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F4010
-[/us/pl/108/201/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F201%2Fs3%2Fb
+[/us/pl/108/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F201
 [/us/stat/118/477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F477
-[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
+[/us/pl/108/136/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtXI
 [/us/stat/117/1633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1633
-[/us/pl/107/347/s209/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347%2Fs209%2Fc%2F3
+[/us/pl/107/347/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347%2FtII
 [/us/stat/116/2930]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2930
-[/us/pl/107/296/s841/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs841%2Fa%2F3
+[/us/pl/107/296/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtVIII
 [/us/stat/116/2233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2233
-[/us/pl/107/123/s8/d/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F123%2Fs8%2Fd%2F1%2FA
+[/us/pl/107/123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F123
 [/us/stat/115/2399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2399
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/106/265/s1002/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F265%2Fs1002%2Fb
+[/us/pl/106/265/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F265%2FtI
 [/us/stat/114/769]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F769
-[/us/pl/105/206/s1201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs1201%2Fb
+[/us/pl/105/206/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtI
 [/us/stat/112/719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F719
-[/us/pl/103/89/s3/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F89%2Fs3%2Fa%2F2
+[/us/pl/103/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F89
 [/us/stat/107/981]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F981
-[/us/pl/99/335/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2Fs101%2Fb
+[/us/pl/99/335/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2FtI
 [/us/stat/100/588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F588
-[/us/pl/99/169/s801/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F169%2Fs801%2Fb
+[/us/pl/99/169/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F169%2FtVIII
 [/us/stat/99/1010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1010
-[/us/pl/98/615/s201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F615%2Fs201%2Fb
+[/us/pl/98/615/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F615%2FtII
 [/us/stat/98/3214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3214
-[/us/pl/95/454/s101/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs101%2Fb%2F1
+[/us/pl/95/454/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtI
 [/us/stat/92/1118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1118
 
 

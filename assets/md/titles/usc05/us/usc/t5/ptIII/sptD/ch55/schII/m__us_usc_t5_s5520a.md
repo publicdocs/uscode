@@ -107,7 +107,7 @@
 
         (3) The Secretaries of the Executive departments concerned shall promulgate regulations under this subsection that are, as far as practicable, uniform for all of the uniformed services. The Secretary of Defense shall consult with the Secretary of Homeland Security with regard to the promulgation of such regulations that might affect members of the Coast Guard when the Coast Guard is operating as a service in the Navy.
 
-(Added [Pub. L. 103–94, § 9(a)][/us/pl/103/94/s9/a], Oct. 6, 1993, [107 Stat. 1007][/us/stat/107/1007]; amended [Pub. L. 104–106, div. A, title VI, § 643][/us/pl/104/106/s643], Feb. 10, 1996, [110 Stat. 368][/us/stat/110/368]; [Pub. L. 104–193, title III, § 362(b)(2)][/us/pl/104/193/s362/b/2], Aug. 22, 1996, [110 Stat. 2246][/us/stat/110/2246]; [Pub. L. 105–85, div. A, title XI, § 1105][/us/pl/105/85/s1105], Nov. 18, 1997, [111 Stat. 1923][/us/stat/111/1923]; [Pub. L. 108–189, § 2(b)(1)][/us/pl/108/189/s2/b/1], Dec. 19, 2003, [117 Stat. 2865][/us/stat/117/2865]; [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814]; [Pub. L. 109–241, title IX, § 902(a)(3)][/us/pl/109/241/s902/a/3], July 11, 2006, [120 Stat. 566][/us/stat/120/566]; [Pub. L. 109–435, title VI, § 604(f)][/us/pl/109/435/s604/f], Dec. 20, 2006, [120 Stat. 3242][/us/stat/120/3242].)
+(Added [Pub. L. 103–94][/us/pl/103/94], § 9(a), Oct. 6, 1993, [107 Stat. 1007][/us/stat/107/1007]; amended [Pub. L. 104–106, div. A, title VI][/us/pl/104/106/dA/tVI], § 643, Feb. 10, 1996, [110 Stat. 368][/us/stat/110/368]; [Pub. L. 104–193, title III][/us/pl/104/193/tIII], § 362(b)(2), Aug. 22, 1996, [110 Stat. 2246][/us/stat/110/2246]; [Pub. L. 105–85, div. A, title XI][/us/pl/105/85/dA/tXI], § 1105, Nov. 18, 1997, [111 Stat. 1923][/us/stat/111/1923]; [Pub. L. 108–189][/us/pl/108/189], § 2(b)(1), Dec. 19, 2003, [117 Stat. 2865][/us/stat/117/2865]; [Pub. L. 108–271][/us/pl/108/271], § 8(b), July 7, 2004, [118 Stat. 814][/us/stat/118/814]; [Pub. L. 109–241, title IX][/us/pl/109/241/tIX], § 902(a)(3), July 11, 2006, [120 Stat. 566][/us/stat/120/566]; [Pub. L. 109–435, title VI][/us/pl/109/435/tVI], § 604(f), Dec. 20, 2006, [120 Stat. 3242][/us/stat/120/3242].)
 
  __References in Text__ 
 
@@ -125,19 +125,19 @@
 
     2003—Subsec. (k)(2)(A). [Pub. L. 108–189][/us/pl/108/189] substituted “Servicemembers Civil Relief Act” for “Soldiers’ and Sailors’ Civil Relief Act of 1940”.
 
-    1997—Subsec. (j)(2). [Pub. L. 105–85, § 1105(1)][/us/pl/105/85/s1105/1], added par. (2) and struck out former par. (2) which read as follows: “Such regulations shall provide that an agency’s administrative costs incurred in executing legal process to which the agency is subject under this section shall be deducted from the amount withheld from the pay of the employee concerned pursuant to the legal process.”
+    1997—Subsec. (j)(2). [Pub. L. 105–85][/us/pl/105/85], § 1105(1), added par. (2) and struck out former par. (2) which read as follows: “Such regulations shall provide that an agency’s administrative costs incurred in executing legal process to which the agency is subject under this section shall be deducted from the amount withheld from the pay of the employee concerned pursuant to the legal process.”
 
-    Subsec. (k)(3), (4). [Pub. L. 105–85, § 1105(2)][/us/pl/105/85/s1105/2], redesignated par. (4) as (3) and struck out former par. (3) which read as follows: “Regulations under this subsection may also provide that the administrative costs incurred in establishing and maintaining an involuntary allotment be deducted from the amount withheld from the pay of the member of the uniformed services concerned pursuant to such regulations.”
+    Subsec. (k)(3), (4). [Pub. L. 105–85][/us/pl/105/85], § 1105(2), redesignated par. (4) as (3) and struck out former par. (3) which read as follows: “Regulations under this subsection may also provide that the administrative costs incurred in establishing and maintaining an involuntary allotment be deducted from the amount withheld from the pay of the member of the uniformed services concerned pursuant to such regulations.”
 
-    Subsec. (l). [Pub. L. 105–85, § 1105(3)][/us/pl/105/85/s1105/3], struck out subsec. (l) which read as follows: “The amount of an agency’s administrative costs deducted under regulations prescribed pursuant to subsection (j)(2) or (k)(3) shall be credited to the appropriation, fund, or account from which such administrative costs were paid.”
+    Subsec. (l). [Pub. L. 105–85][/us/pl/105/85], § 1105(3), struck out subsec. (l) which read as follows: “The amount of an agency’s administrative costs deducted under regulations prescribed pursuant to subsection (j)(2) or (k)(3) shall be credited to the appropriation, fund, or account from which such administrative costs were paid.”
 
     1996—Subsecs. (h)(2), (i). [Pub. L. 104–193][/us/pl/104/193] substituted “section 459 of the Social Security Act ([42 U.S.C. 659][/us/usc/t42/s659])” for “sections 459, 461, and 462 of the Social Security Act ([42 U.S.C. 659][/us/usc/t42/s659], 661, and 662)”.
 
-    Subsec. (j)(2). [Pub. L. 104–106, § 643(a)][/us/pl/104/106/s643/a], added par. (2) and struck out former par. (2) which read as follows: “Such regulations shall provide that an agency’s administrative costs in executing a garnishment action may be added to the garnishment, and that the agency may retain costs recovered as offsetting collections.”
+    Subsec. (j)(2). [Pub. L. 104–106][/us/pl/104/106], § 643(a), added par. (2) and struck out former par. (2) which read as follows: “Such regulations shall provide that an agency’s administrative costs in executing a garnishment action may be added to the garnishment, and that the agency may retain costs recovered as offsetting collections.”
 
-    Subsec. (k)(3), (4). [Pub. L. 104–106, § 643(b)][/us/pl/104/106/s643/b], added par. (3) and redesignated former par. (3) as (4).
+    Subsec. (k)(3), (4). [Pub. L. 104–106][/us/pl/104/106], § 643(b), added par. (3) and redesignated former par. (3) as (4).
 
-    Subsec. (l). [Pub. L. 104–106, § 643(c)][/us/pl/104/106/s643/c], added subsec. (l).
+    Subsec. (l). [Pub. L. 104–106][/us/pl/104/106], § 643(c), added subsec. (l).
 
  __Effective Date of 1996 Amendment__ 
 
@@ -155,7 +155,7 @@
 
  __Pilot Program on Alternative Notice of Receipt of Legal Process for Garnishment of Federal Pay for Child Support and Alimony__ 
 
-    [Pub. L. 105–261, div. A, title X, § 1061][/us/pl/105/261/s1061], Oct. 17, 1998, [112 Stat. 2128][/us/stat/112/2128], authorized the Secretary of Defense to conduct a pilot program on alternative notice procedures for withholding or garnishment of pay for the payment of child support and alimony under [section 659 of Title 42][/us/usc/t42/s659], The Public Health and Welfare, required the Secretary to submit to Congress, not later than Jan. 1, 2001, a report describing the experience of the Department of Defense under the authority provided for the program, and provided for termination of pilot program on Sept. 30, 2001.
+    [Pub. L. 105–261, div. A, title X][/us/pl/105/261/dA/tX], § 1061, Oct. 17, 1998, [112 Stat. 2128][/us/stat/112/2128], authorized the Secretary of Defense to conduct a pilot program on alternative notice procedures for withholding or garnishment of pay for the payment of child support and alimony under [section 659 of Title 42][/us/usc/t42/s659], The Public Health and Welfare, required the Secretary to submit to Congress, not later than Jan. 1, 2001, a report describing the experience of the Department of Defense under the authority provided for the program, and provided for termination of pilot program on Sept. 30, 2001.
 
  __Ex. Ord. No. 12897. Garnishment of Federal Employees’ Pay__ 
 
@@ -181,21 +181,21 @@
 [/us/usc/t15/s1673]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1673
 [/us/usc/t42/s659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs659
 [/us/usc/t42/s659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs659
-[/us/pl/103/94/s9/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F94%2Fs9%2Fa
+[/us/pl/103/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F94
 [/us/stat/107/1007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1007
-[/us/pl/104/106/s643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs643
+[/us/pl/104/106/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtVI
 [/us/stat/110/368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F368
-[/us/pl/104/193/s362/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs362%2Fb%2F2
+[/us/pl/104/193/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2FtIII
 [/us/stat/110/2246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2246
-[/us/pl/105/85/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs1105
+[/us/pl/105/85/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtXI
 [/us/stat/111/1923]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1923
-[/us/pl/108/189/s2/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F189%2Fs2%2Fb%2F1
+[/us/pl/108/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F189
 [/us/stat/117/2865]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2865
-[/us/pl/108/271/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271%2Fs8%2Fb
+[/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/stat/118/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F814
-[/us/pl/109/241/s902/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241%2Fs902%2Fa%2F3
+[/us/pl/109/241/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241%2FtIX
 [/us/stat/120/566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F566
-[/us/pl/109/435/s604/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2Fs604%2Ff
+[/us/pl/109/435/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2FtVI
 [/us/stat/120/3242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3242
 [/us/pl/103/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F94
 [/us/act/1940-10-17/ch888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-17%2Fch888
@@ -204,15 +204,15 @@
 [/us/pl/109/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241
 [/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/pl/108/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F189
-[/us/pl/105/85/s1105/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs1105%2F1
-[/us/pl/105/85/s1105/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs1105%2F2
-[/us/pl/105/85/s1105/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs1105%2F3
+[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
+[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
+[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
 [/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
 [/us/usc/t42/s659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs659
 [/us/usc/t42/s659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs659
-[/us/pl/104/106/s643/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs643%2Fa
-[/us/pl/104/106/s643/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs643%2Fb
-[/us/pl/104/106/s643/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs643%2Fc
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
 [/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
 [/us/pl/104/193/s362/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs362%2Fd
 [/us/usc/t42/s659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs659
@@ -223,7 +223,7 @@
 [/us/pl/103/94/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F94%2Fs12
 [/us/usc/t5/s7321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs7321
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
-[/us/pl/105/261/s1061]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs1061
+[/us/pl/105/261/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdA%2FtX
 [/us/stat/112/2128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2128
 [/us/usc/t42/s659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs659
 [/us/usc/t5/s5520a/j/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5520a%2Fj%2F1%2FA

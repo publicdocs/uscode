@@ -73,7 +73,7 @@
 
     (g) Notwithstanding section 5384, the Administrator may authorize performance awards to limited term appointees in the Administration in the same amounts and in the same manner as career appointees.
 
-(Added [Pub. L. 108–201, § 3(a)][/us/pl/108/201/s3/a], Feb. 24, 2004, [118 Stat. 473][/us/stat/118/473].)
+(Added [Pub. L. 108–201][/us/pl/108/201], § 3(a), Feb. 24, 2004, [118 Stat. 473][/us/stat/118/473].)
 
 ----------
 
@@ -82,7 +82,7 @@
 ----------
 ----------
 
-[/us/pl/108/201/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F201%2Fs3%2Fa
+[/us/pl/108/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F201
 [/us/stat/118/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F473
 
 

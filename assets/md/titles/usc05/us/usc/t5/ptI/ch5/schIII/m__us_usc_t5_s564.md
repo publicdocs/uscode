@@ -51,7 +51,7 @@
 
     The agency shall provide for a period of at least 30 calendar days for the submission of comments and applications under this section.
 
-(Added [Pub. L. 101–648, § 3(a)][/us/pl/101/648/s3/a], Nov. 29, 1990, [104 Stat. 4971][/us/stat/104/4971], § 584; renumbered § 564, [Pub. L. 102–354, § 3(a)(2)][/us/pl/102/354/s3/a/2], Aug. 26, 1992, [106 Stat. 944][/us/stat/106/944].)
+(Added [Pub. L. 101–648][/us/pl/101/648], § 3(a), Nov. 29, 1990, [104 Stat. 4971][/us/stat/104/4971], § 584; renumbered § 564, [Pub. L. 102–354][/us/pl/102/354], § 3(a)(2), Aug. 26, 1992, [106 Stat. 944][/us/stat/106/944].)
 
  __Amendments__ 
 
@@ -64,9 +64,9 @@
 ----------
 ----------
 
-[/us/pl/101/648/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F648%2Fs3%2Fa
+[/us/pl/101/648]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F648
 [/us/stat/104/4971]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4971
-[/us/pl/102/354/s3/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F354%2Fs3%2Fa%2F2
+[/us/pl/102/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F354
 [/us/stat/106/944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F944
 [/us/pl/102/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F354
 [/us/usc/t5/s584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs584

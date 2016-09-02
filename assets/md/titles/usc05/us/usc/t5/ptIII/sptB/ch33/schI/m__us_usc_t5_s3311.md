@@ -71,7 +71,7 @@ June 27, 1944, ch. 287, § 4, 58 Stat. 388.  </td>
 
     The words “for the competitive service” are added after “examinations” for clarity. Application of this section to the excepted service in the executive branch and to the government of the District of Columbia, as provided in former section 858, is carried into section 3320.
 
-    In paragraph (1), the words “service in the armed forces” are substituted for “in the military or naval service of the United States” on authority of the [Act of July 26, 1947, ch. 343, § 305(a)][/us/act/1947-07-26/ch343/s305/a], [61 Stat. 508][/us/stat/61/508]. The word “actual” is omitted as surplusage.
+    In paragraph (1), the words “service in the armed forces” are substituted for “in the military or naval service of the United States” on authority of the [Act of July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], § 305(a), [61 Stat. 508][/us/stat/61/508]. The word “actual” is omitted as surplusage.
 
     In paragraph (2), the words “material to the position for which examined” are substituted for “valuable” for clarity.
 
@@ -86,7 +86,7 @@ June 27, 1944, ch. 287, § 4, 58 Stat. 388.  </td>
 
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F420
-[/us/act/1947-07-26/ch343/s305/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343%2Fs305%2Fa
+[/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
 [/us/stat/61/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F508
 
 

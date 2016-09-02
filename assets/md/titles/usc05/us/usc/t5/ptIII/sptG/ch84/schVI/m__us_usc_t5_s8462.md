@@ -113,7 +113,7 @@
 
     (e) The $15,000 amount referred to in section 8442(b)(1)(A)(ii) shall be increased at the same time that, and by the same percent as the percentage by which, annuities under subchapter III of chapter 83 are increased.
 
-(Added [Pub. L. 99–335, title I, § 101(a)][/us/pl/99/335/s101/a], June 6, 1986, [100 Stat. 572][/us/stat/100/572]; amended [Pub. L. 99–556, title I, § 117(b)][/us/pl/99/556/s117/b], Oct. 27, 1986, [100 Stat. 3134][/us/stat/100/3134].)
+(Added [Pub. L. 99–335, title I][/us/pl/99/335/tI], § 101(a), June 6, 1986, [100 Stat. 572][/us/stat/100/572]; amended [Pub. L. 99–556, title I][/us/pl/99/556/tI], § 117(b), Oct. 27, 1986, [100 Stat. 3134][/us/stat/100/3134].)
 
  __Amendments__ 
 
@@ -130,9 +130,9 @@
 ----------
 ----------
 
-[/us/pl/99/335/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2Fs101%2Fa
+[/us/pl/99/335/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2FtI
 [/us/stat/100/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F572
-[/us/pl/99/556/s117/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F556%2Fs117%2Fb
+[/us/pl/99/556/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F556%2FtI
 [/us/stat/100/3134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3134
 [/us/pl/99/556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F556
 [/us/pl/103/66/s11001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs11001

@@ -63,15 +63,15 @@
 
             (B) collect advice and recommendations from the representatives identified under subparagraph (A) relating to issues described in subparagraphs (A) and (B) of paragraph (1) and subsection (b).
 
-(Added [Pub. L. 96–354, § 3(a)][/us/pl/96/354/s3/a], Sept. 19, 1980, [94 Stat. 1166][/us/stat/94/1166]; amended [Pub. L. 104–121, title II, § 241(a)(1)][/us/pl/104/121/s241/a/1], Mar. 29, 1996, [110 Stat. 864][/us/stat/110/864]; [Pub. L. 111–203, title X, § 1100G(b)][/us/pl/111/203/s1100G/b], July 21, 2010, [124 Stat. 2112][/us/stat/124/2112].)
+(Added [Pub. L. 96–354][/us/pl/96/354], § 3(a), Sept. 19, 1980, [94 Stat. 1166][/us/stat/94/1166]; amended [Pub. L. 104–121, title II][/us/pl/104/121/tII], § 241(a)(1), Mar. 29, 1996, [110 Stat. 864][/us/stat/110/864]; [Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1100G(b), July 21, 2010, [124 Stat. 2112][/us/stat/124/2112].)
 
  __Amendments__ 
 
     2010—Subsec. (d). [Pub. L. 111–203][/us/pl/111/203] added subsec. (d).
 
-    1996—Subsec. (a). [Pub. L. 104–121, § 241(a)(1)(B)][/us/pl/104/121/s241/a/1/B], inserted at end “In the case of an interpretative rule involving the internal revenue laws of the United States, this chapter applies to interpretative rules published in the Federal Register for codification in the Code of Federal Regulations, but only to the extent that such interpretative rules impose on small entities a collection of information requirement.”
+    1996—Subsec. (a). [Pub. L. 104–121][/us/pl/104/121], § 241(a)(1)(B), inserted at end “In the case of an interpretative rule involving the internal revenue laws of the United States, this chapter applies to interpretative rules published in the Federal Register for codification in the Code of Federal Regulations, but only to the extent that such interpretative rules impose on small entities a collection of information requirement.”
 
-    [Pub. L. 104–121, § 241(a)(1)(A)][/us/pl/104/121/s241/a/1/A], which directed the insertion of “, or publishes a notice of proposed rulemaking for an interpretative rule involving the internal revenue laws of the United States” after “proposed rule” was executed by making the insertion where those words appeared in first sentence to reflect the probable intent of Congress.
+    [Pub. L. 104–121][/us/pl/104/121], § 241(a)(1)(A), which directed the insertion of “, or publishes a notice of proposed rulemaking for an interpretative rule involving the internal revenue laws of the United States” after “proposed rule” was executed by making the insertion where those words appeared in first sentence to reflect the probable intent of Congress.
 
  __Effective Date of 2010 Amendment__ 
 
@@ -89,15 +89,15 @@
 ----------
 
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
-[/us/pl/96/354/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F354%2Fs3%2Fa
+[/us/pl/96/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F354
 [/us/stat/94/1166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1166
-[/us/pl/104/121/s241/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F121%2Fs241%2Fa%2F1
+[/us/pl/104/121/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F121%2FtII
 [/us/stat/110/864]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F864
-[/us/pl/111/203/s1100G/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100G%2Fb
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2112
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
-[/us/pl/104/121/s241/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F121%2Fs241%2Fa%2F1%2FB
-[/us/pl/104/121/s241/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F121%2Fs241%2Fa%2F1%2FA
+[/us/pl/104/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F121
+[/us/pl/104/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F121
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203/s1100H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100H
 [/us/usc/t5/s552a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552a

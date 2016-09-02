@@ -17,7 +17,7 @@
 
     Except as otherwise provided by this chapter, each agency shall place each position under its jurisdiction in its appropriate class and grade in conformance with standards published by the Office of Personnel Management or, if no published standards apply directly, consistently with published standards. When facts warrant, an agency may change a position which it has placed in a class or grade under this section from that class or grade to another class or grade. Subject to subchapter VI of chapter 53 of this title, these actions of an agency are the basis for pay and personnel transactions until changed by certificate of the Office.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 453][/us/stat/80/453]; [Pub. L. 95–454, title VIII, § 801(a)(3)(E)][/us/pl/95/454/s801/a/3/E], title IX, § 906(a)(2), (3), Oct. 13, 1978, [92 Stat. 1222][/us/stat/92/1222], 1224.)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 453][/us/stat/80/453]; [Pub. L. 95–454, title VIII][/us/pl/95/454/tVIII], § 801(a)(3)(E), title IX, § 906(a)(2), (3), Oct. 13, 1978, [92 Stat. 1222][/us/stat/92/1222], 1224.)
 
 <table>
 
@@ -88,7 +88,7 @@ Oct. 28, 1949, ch. 782, § 502(a), 63 Stat. 958.  </td>
 
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F453
-[/us/pl/95/454/s801/a/3/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs801%2Fa%2F3%2FE
+[/us/pl/95/454/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtVIII
 [/us/stat/92/1222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1222
 [/us/usc/t5/s5337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5337
 [/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454

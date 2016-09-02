@@ -49,7 +49,7 @@
 
         (2) This section, except subsection (a), does not affect [section 403e(4) of title 50][/us/usc/t50/s403e/4]. <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup> 
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 504][/us/stat/80/504]; [Pub. L. 96–465, title II, § 2314(e)][/us/pl/96/465/s2314/e], Oct. 17, 1980, [94 Stat. 2168][/us/stat/94/2168]; [Pub. L. 104–201, div. A, title XVII][/us/pl/104/201], §§ 1715(a), 1723(b)(1), Sept. 23, 1996, [110 Stat. 2755][/us/stat/110/2755], 2759; [Pub. L. 105–264, § 6(7)][/us/pl/105/264/s6/7], Oct. 19, 1998, [112 Stat. 2356][/us/stat/112/2356].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 504][/us/stat/80/504]; [Pub. L. 96–465, title II][/us/pl/96/465/tII], § 2314(e), Oct. 17, 1980, [94 Stat. 2168][/us/stat/94/2168]; [Pub. L. 104–201, div. A, title XVII][/us/pl/104/201/dA/tXVII], §§ 1715(a), 1723(b)(1), Sept. 23, 1996, [110 Stat. 2755][/us/stat/110/2755], 2759; [Pub. L. 105–264][/us/pl/105/264], § 6(7), Oct. 19, 1998, [112 Stat. 2356][/us/stat/112/2356].)
 
 <table>
 
@@ -149,17 +149,17 @@ Feb. 5, 1964, Pub. L. 88–266, 78 Stat. 8.  </td>
 
     1998—Subsec. (d). [Pub. L. 105–264][/us/pl/105/264] substituted “continental United States” for “United States”.
 
-    1996—Subsec. (b). [Pub. L. 104–201, § 1723(b)(1)][/us/pl/104/201/s1723/b/1], in introductory provisions, substituted “Under regulations prescribed under [section 5738 of this title][/us/usc/t5/s5738]” for “Under such regulations as the President may prescribe”.
+    1996—Subsec. (b). [Pub. L. 104–201][/us/pl/104/201], § 1723(b)(1), in introductory provisions, substituted “Under regulations prescribed under [section 5738 of this title][/us/usc/t5/s5738]” for “Under such regulations as the President may prescribe”.
 
-    Subsec. (c). [Pub. L. 104–201, § 1715(a)(2)][/us/pl/104/201/s1715/a/2], added subsec. (c). Former subsec. (c) redesignated (d).
+    Subsec. (c). [Pub. L. 104–201][/us/pl/104/201], § 1715(a)(2), added subsec. (c). Former subsec. (c) redesignated (d).
 
-    Subsec. (d). [Pub. L. 104–201, § 1715(a)(1)][/us/pl/104/201/s1715/a/1], redesignated subsec. (c) as (d). Former subsec. (d) redesignated (e).
+    Subsec. (d). [Pub. L. 104–201][/us/pl/104/201], § 1715(a)(1), redesignated subsec. (c) as (d). Former subsec. (d) redesignated (e).
 
-    Subsec. (e). [Pub. L. 104–201, § 1715(a)(3)][/us/pl/104/201/s1715/a/3], inserted “or (c)” after “subsection (b)”.
+    Subsec. (e). [Pub. L. 104–201][/us/pl/104/201], § 1715(a)(3), inserted “or (c)” after “subsection (b)”.
 
-    [Pub. L. 104–201, § 1715(a)(1)][/us/pl/104/201/s1715/a/1], redesignated subsec. (d) as (e). Former subsec. (e) redesignated (f).
+    [Pub. L. 104–201][/us/pl/104/201], § 1715(a)(1), redesignated subsec. (d) as (e). Former subsec. (e) redesignated (f).
 
-    Subsec. (f). [Pub. L. 104–201, § 1715(a)(1)][/us/pl/104/201/s1715/a/1], redesignated subsec. (e) as (f).
+    Subsec. (f). [Pub. L. 104–201][/us/pl/104/201], § 1715(a)(1), redesignated subsec. (e) as (f).
 
     1980—Subsec. (e)(2). [Pub. L. 96–465][/us/pl/96/465] substituted “[section 403e(4) of title 50][/us/usc/t50/s403e/4]” for “(A) [section 1138 of title 22][/us/usc/t22/s1138]; or” and struck out “(B) [section 403e(4) of title 50][/us/usc/t50/s403e/4]”.
 
@@ -184,24 +184,24 @@ Feb. 5, 1964, Pub. L. 88–266, 78 Stat. 8.  </td>
 [/us/usc/t50/s403e/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs403e%2F4
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F504
-[/us/pl/96/465/s2314/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs2314%2Fe
+[/us/pl/96/465/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtII
 [/us/stat/94/2168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2168
-[/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
+[/us/pl/104/201/dA/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtXVII
 [/us/stat/110/2755]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2755
-[/us/pl/105/264/s6/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F264%2Fs6%2F7
+[/us/pl/105/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F264
 [/us/stat/112/2356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2356
 [/us/usc/t10/s2634]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2634
 [/us/usc/t5/s73b–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs73b%E2%80%933
 [/us/usc/t50/s403e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs403e
 [/us/usc/t50/s3505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3505
 [/us/pl/105/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F264
-[/us/pl/104/201/s1723/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1723%2Fb%2F1
+[/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
 [/us/usc/t5/s5738]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5738
-[/us/pl/104/201/s1715/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1715%2Fa%2F2
-[/us/pl/104/201/s1715/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1715%2Fa%2F1
-[/us/pl/104/201/s1715/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1715%2Fa%2F3
-[/us/pl/104/201/s1715/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1715%2Fa%2F1
-[/us/pl/104/201/s1715/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1715%2Fa%2F1
+[/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
+[/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
+[/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
+[/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
+[/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
 [/us/pl/96/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465
 [/us/usc/t50/s403e/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs403e%2F4
 [/us/usc/t22/s1138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1138

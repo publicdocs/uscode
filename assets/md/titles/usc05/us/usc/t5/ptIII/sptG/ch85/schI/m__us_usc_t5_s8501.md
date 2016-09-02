@@ -67,7 +67,7 @@
 
     (8) “base period” means the base period as defined by the applicable State unemployment compensation law for the benefit year.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 585][/us/stat/80/585]; [Pub. L. 94–566, title I, § 116(e)(1)][/us/pl/94/566/s116/e/1], title II, § 214(b), Oct. 20, 1976, [90 Stat. 2672][/us/stat/90/2672], 2678; [Pub. L. 95–454, title IX, § 906(a)(2)][/us/pl/95/454/s906/a/2], Oct. 13, 1978, [92 Stat. 1224][/us/stat/92/1224]; [Pub. L. 96–215, § 4(a)][/us/pl/96/215/s4/a], Mar. 25, 1980, [94 Stat. 124][/us/stat/94/124]; [Pub. L. 96–465, title II, § 2314(h)][/us/pl/96/465/s2314/h], Oct. 17, 1980, [94 Stat. 2168][/us/stat/94/2168].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 585][/us/stat/80/585]; [Pub. L. 94–566, title I][/us/pl/94/566/tI], § 116(e)(1), title II, § 214(b), Oct. 20, 1976, [90 Stat. 2672][/us/stat/90/2672], 2678; [Pub. L. 95–454, title IX][/us/pl/95/454/tIX], § 906(a)(2), Oct. 13, 1978, [92 Stat. 1224][/us/stat/92/1224]; [Pub. L. 96–215][/us/pl/96/215], § 4(a), Mar. 25, 1980, [94 Stat. 124][/us/stat/94/124]; [Pub. L. 96–465, title II][/us/pl/96/465/tII], § 2314(h), Oct. 17, 1980, [94 Stat. 2168][/us/stat/94/2168].)
 
 <table>
 
@@ -193,15 +193,15 @@ Sept. 13, 1960, Pub. L. 86–778, §§ 531(e), 542(d), 74 Stat. 984, 986.  </t
 
     1978—Par. (1)(E). [Pub. L. 95–454][/us/pl/95/454] substituted “Office of Personnel Management” for “Civil Service Commission”.
 
-    1976—Par. (6). [Pub. L. 94–566, § 116(e)(1)][/us/pl/94/566/s116/e/1], added the Virgin Islands in definition of “State”.
+    1976—Par. (6). [Pub. L. 94–566][/us/pl/94/566], § 116(e)(1), added the Virgin Islands in definition of “State”.
 
-    Par. (8). [Pub. L. 94–566, § 214(b)][/us/pl/94/566/s214/b], added par. (8).
+    Par. (8). [Pub. L. 94–566][/us/pl/94/566], § 214(b), added par. (8).
 
  __Effective Date of 1980 Amendments__ 
 
     Amendment by [Pub. L. 96–465][/us/pl/96/465] effective Feb. 15, 1981, except as otherwise provided, see [section 2403 of Pub. L. 96–465][/us/pl/96/465/s2403], set out as an Effective Date note under [section 3901 of Title 22][/us/usc/t22/s3901], Foreign Relations and Intercourse.
 
-[Pub. L. 96–215, § 4(c)][/us/pl/96/215/s4/c], Mar. 25, 1980, [94 Stat. 124][/us/stat/94/124], provided that: 
+[Pub. L. 96–215][/us/pl/96/215], § 4(c), Mar. 25, 1980, [94 Stat. 124][/us/stat/94/124], provided that: 
 
 > “The amendments made by this section \[amending this section and [section 8521 of this title][/us/usc/t5/s8521]\] shall apply with respect to assignments of services and wages pursuant to any first claim (for a benefit year) which is filed after the date of the enactment of this Act \[Mar. 25, 1980\].”
 
@@ -213,7 +213,7 @@ Sept. 13, 1960, Pub. L. 86–778, §§ 531(e), 542(d), 74 Stat. 984, 986.  </t
 
     Amendment by [section 116(e)(1) of Pub. L. 94–566][/us/pl/94/566/s116/e/1] applicable with respect to benefit years beginning on or after the later of Oct. 1, 1976, or the first day of the first week for which compensation becomes payable under an unemployment compensation law of the Virgin Islands which is approved by the Secretary of Labor under [section 3304(a) of Title 26][/us/usc/t26/s3304/a], Internal Revenue Code, see [section 116(f)(3) of Pub. L. 94–566][/us/pl/94/566/s116/f/3], set out as a note under [section 3304 of Title 26][/us/usc/t26/s3304].
 
-[Pub. L. 94–566, title II, § 214(c)][/us/pl/94/566/s214/c], Oct. 20, 1976, [90 Stat. 2678][/us/stat/90/2678], provided that: 
+[Pub. L. 94–566, title II][/us/pl/94/566/tII], § 214(c), Oct. 20, 1976, [90 Stat. 2678][/us/stat/90/2678], provided that: 
 
 > “The amendments made by this section \[amending this section and [section 8505 of this title][/us/usc/t5/s8505]\] shall apply with regard to compensation paid on the basis of claims for compensation filed on or after July 1, 1977”.
 
@@ -232,13 +232,13 @@ Sept. 13, 1960, Pub. L. 86–778, §§ 531(e), 542(d), 74 Stat. 984, 986.  </t
 [/us/usc/t26/s3305/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs3305%2Fg
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F585
-[/us/pl/94/566/s116/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F566%2Fs116%2Fe%2F1
+[/us/pl/94/566/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F566%2FtI
 [/us/stat/90/2672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2672
-[/us/pl/95/454/s906/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs906%2Fa%2F2
+[/us/pl/95/454/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtIX
 [/us/stat/92/1224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1224
-[/us/pl/96/215/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F215%2Fs4%2Fa
+[/us/pl/96/215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F215
 [/us/stat/94/124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F124
-[/us/pl/96/465/s2314/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs2314%2Fh
+[/us/pl/96/465/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtII
 [/us/stat/94/2168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2168
 [/us/usc/t26/s1606/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1606%2Fg
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
@@ -248,12 +248,12 @@ Sept. 13, 1960, Pub. L. 86–778, §§ 531(e), 542(d), 74 Stat. 984, 986.  </t
 [/us/pl/96/215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F215
 [/us/pl/96/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465
 [/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454
-[/us/pl/94/566/s116/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F566%2Fs116%2Fe%2F1
-[/us/pl/94/566/s214/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F566%2Fs214%2Fb
+[/us/pl/94/566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F566
+[/us/pl/94/566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F566
 [/us/pl/96/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465
 [/us/pl/96/465/s2403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs2403
 [/us/usc/t22/s3901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3901
-[/us/pl/96/215/s4/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F215%2Fs4%2Fc
+[/us/pl/96/215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F215
 [/us/stat/94/124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F124
 [/us/usc/t5/s8521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8521
 [/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454
@@ -263,7 +263,7 @@ Sept. 13, 1960, Pub. L. 86–778, §§ 531(e), 542(d), 74 Stat. 984, 986.  </t
 [/us/usc/t26/s3304/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs3304%2Fa
 [/us/pl/94/566/s116/f/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F566%2Fs116%2Ff%2F3
 [/us/usc/t26/s3304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs3304
-[/us/pl/94/566/s214/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F566%2Fs214%2Fc
+[/us/pl/94/566/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F566%2FtII
 [/us/stat/90/2678]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2678
 [/us/usc/t5/s8505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8505
 [/us/pl/101/382/s141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382%2Fs141

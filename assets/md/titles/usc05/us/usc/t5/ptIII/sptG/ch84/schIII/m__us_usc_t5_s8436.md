@@ -19,7 +19,7 @@
 
     (b) Any election, change of election, or modification of a deferred annuity commencement date made under this subchapter shall be in writing and shall be filed with the Executive Director in accordance with regulations prescribed by the Executive Director.
 
-(Added [Pub. L. 99–335, title I, § 101(a)][/us/pl/99/335/s101/a], June 6, 1986, [100 Stat. 550][/us/stat/100/550].)
+(Added [Pub. L. 99–335, title I][/us/pl/99/335/tI], § 101(a), June 6, 1986, [100 Stat. 550][/us/stat/100/550].)
 
 ----------
 
@@ -29,7 +29,7 @@
 ----------
 
 [/us/usc/t5/s8435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8435
-[/us/pl/99/335/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2Fs101%2Fa
+[/us/pl/99/335/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2FtI
 [/us/stat/100/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F550
 
 

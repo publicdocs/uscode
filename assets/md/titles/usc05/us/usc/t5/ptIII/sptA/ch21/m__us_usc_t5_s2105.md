@@ -69,7 +69,7 @@
 
     (f) For purposes of sections 1212, 1213, 1214, 1215, 1216, 1221, 1222, 2302, and 7701, employees appointed under chapter 73 or 74 of title 38 shall be employees.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 409][/us/stat/80/409]; [Pub. L. 90–486, § 4][/us/pl/90/486/s4], Aug. 13, 1968, [82 Stat. 757][/us/stat/82/757]; [Pub. L. 91–375, § 6(c)(4)][/us/pl/91/375/s6/c/4], Aug. 12, 1970, [84 Stat. 775][/us/stat/84/775]; [Pub. L. 92–392, § 2][/us/pl/92/392/s2], Aug. 19, 1972, [86 Stat. 573][/us/stat/86/573]; [Pub. L. 95–454, title VII, § 703(c)(2)][/us/pl/95/454/s703/c/2], title IX, § 906(a)(2), Oct. 13, 1978, [92 Stat. 1217][/us/stat/92/1217], 1224; [Pub. L. 96–54, § 2(a)(5)][/us/pl/96/54/s2/a/5], (6), Aug. 14, 1979, [93 Stat. 381][/us/stat/93/381]; [Pub. L. 99–335, title II, § 207(a)][/us/pl/99/335/s207/a], June 6, 1986, [100 Stat. 594][/us/stat/100/594]; [Pub. L. 99–638, § 2(b)(1)][/us/pl/99/638/s2/b/1], Nov. 10, 1986, [100 Stat. 3536][/us/stat/100/3536]; [Pub. L. 101–508, title VII, § 7202(b)][/us/pl/101/508/s7202/b], Nov. 5, 1990, [104 Stat. 1388–335][/us/stat/104/1388-335]; [Pub. L. 103–3, title II, § 201(b)][/us/pl/103/3/s201/b], Feb. 5, 1993, [107 Stat. 23][/us/stat/107/23]; [Pub. L. 103–424, § 7][/us/pl/103/424/s7], Oct. 29, 1994, [108 Stat. 4364][/us/stat/108/4364]; [Pub. L. 104–201, div. A, title III, § 370(b)][/us/pl/104/201/s370/b], Sept. 23, 1996, [110 Stat. 2499][/us/stat/110/2499]; [Pub. L. 105–85, div. B, title XXVIII, § 2871(c)(2)][/us/pl/105/85/s2871/c/2], Nov. 18, 1997, [111 Stat. 2015][/us/stat/111/2015]; [Pub. L. 109–435, title VI, § 604(f)][/us/pl/109/435/s604/f], Dec. 20, 2006, [120 Stat. 3242][/us/stat/120/3242]; [Pub. L. 113–66, div. A, title VI, § 642][/us/pl/113/66/s642], Dec. 26, 2013, [127 Stat. 787][/us/stat/127/787].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 409][/us/stat/80/409]; [Pub. L. 90–486][/us/pl/90/486], § 4, Aug. 13, 1968, [82 Stat. 757][/us/stat/82/757]; [Pub. L. 91–375][/us/pl/91/375], § 6(c)(4), Aug. 12, 1970, [84 Stat. 775][/us/stat/84/775]; [Pub. L. 92–392][/us/pl/92/392], § 2, Aug. 19, 1972, [86 Stat. 573][/us/stat/86/573]; [Pub. L. 95–454, title VII][/us/pl/95/454/tVII], § 703(c)(2), title IX, § 906(a)(2), Oct. 13, 1978, [92 Stat. 1217][/us/stat/92/1217], 1224; [Pub. L. 96–54][/us/pl/96/54], § 2(a)(5), (6), Aug. 14, 1979, [93 Stat. 381][/us/stat/93/381]; [Pub. L. 99–335, title II][/us/pl/99/335/tII], § 207(a), June 6, 1986, [100 Stat. 594][/us/stat/100/594]; [Pub. L. 99–638][/us/pl/99/638], § 2(b)(1), Nov. 10, 1986, [100 Stat. 3536][/us/stat/100/3536]; [Pub. L. 101–508, title VII][/us/pl/101/508/tVII], § 7202(b), Nov. 5, 1990, [104 Stat. 1388–335][/us/stat/104/1388-335]; [Pub. L. 103–3, title II][/us/pl/103/3/tII], § 201(b), Feb. 5, 1993, [107 Stat. 23][/us/stat/107/23]; [Pub. L. 103–424][/us/pl/103/424], § 7, Oct. 29, 1994, [108 Stat. 4364][/us/stat/108/4364]; [Pub. L. 104–201, div. A, title III][/us/pl/104/201/dA/tIII], § 370(b), Sept. 23, 1996, [110 Stat. 2499][/us/stat/110/2499]; [Pub. L. 105–85, div. B, title XXVIII][/us/pl/105/85/dB/tXXVIII], § 2871(c)(2), Nov. 18, 1997, [111 Stat. 2015][/us/stat/111/2015]; [Pub. L. 109–435, title VI][/us/pl/109/435/tVI], § 604(f), Dec. 20, 2006, [120 Stat. 3242][/us/stat/120/3242]; [Pub. L. 113–66, div. A, title VI][/us/pl/113/66/dA/tVI], § 642, Dec. 26, 2013, [127 Stat. 787][/us/stat/127/787].)
 
 <table>
 
@@ -239,19 +239,19 @@ Aug. 10, 1956, ch. 1041, § 29(d), 70A Stat. 632.  </td>
 
     1993—Subsec. (c)(1)(E). [Pub. L. 103–3][/us/pl/103/3] added subpar. (E).
 
-    1990—Subsec. (c)(1). [Pub. L. 101–508, § 7202(b)(1)][/us/pl/101/508/s7202/b/1], amended par. (1) generally. Prior to amendment, par. (1) read as follows: “laws (other than subchapter IV of chapter 53 of this title, subchapter III of chapter 83 of this title to the extent provided in [section 8332(b)(16) of this title][/us/usc/t5/s8332/b/16], and sections 5550 and 7204 of this title) administered by the Office of Personnel Management; or”.
+    1990—Subsec. (c)(1). [Pub. L. 101–508][/us/pl/101/508], § 7202(b)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “laws (other than subchapter IV of chapter 53 of this title, subchapter III of chapter 83 of this title to the extent provided in [section 8332(b)(16) of this title][/us/usc/t5/s8332/b/16], and sections 5550 and 7204 of this title) administered by the Office of Personnel Management; or”.
 
-    Subsec. (c)(2). [Pub. L. 101–508, § 7202(b)(2)][/us/pl/101/508/s7202/b/2], inserted “(except to the extent specifically provided therein)” after “chapter 84”.
+    Subsec. (c)(2). [Pub. L. 101–508][/us/pl/101/508], § 7202(b)(2), inserted “(except to the extent specifically provided therein)” after “chapter 84”.
 
     1986—Subsec. (c)(1). [Pub. L. 99–638][/us/pl/99/638] inserted “of this title, subchapter III of chapter 83 of this title to the extent provided in [section 8332(b)(16) of this title][/us/usc/t5/s8332/b/16],”.
 
     Subsec. (c)(2). [Pub. L. 99–335][/us/pl/99/335] substituted “chapter 81, chapter 84,” for “chapter 81”.
 
-    1979—Subsec. (a)(1)(F). [Pub. L. 96–54, § 2(a)(5)][/us/pl/96/54/s2/a/5], substituted “an adjutant” for “the adjutants” and struck out “, United States Code” after “32”.
+    1979—Subsec. (a)(1)(F). [Pub. L. 96–54][/us/pl/96/54], § 2(a)(5), substituted “an adjutant” for “the adjutants” and struck out “, United States Code” after “32”.
 
-    Subsec. (c)(1). [Pub. L. 96–54, § 2(a)(6)][/us/pl/96/54/s2/a/6], amended subsec. (c)(1) in same manner as amendment by [section 703(c)(2) of Pub. L. 95–454][/us/pl/95/454/s703/c/2]. See 1978 Amendment note set out below.
+    Subsec. (c)(1). [Pub. L. 96–54][/us/pl/96/54], § 2(a)(6), amended subsec. (c)(1) in same manner as amendment by [section 703(c)(2) of Pub. L. 95–454][/us/pl/95/454/s703/c/2]. See 1978 Amendment note set out below.
 
-    1978—Subsec. (c)(1). [Pub. L. 95–454][/us/pl/95/454] substituted “7204” for “7154”, and “Office of Personnel Management” for “Civil Service Commission”. Amendments by section 703(c)(1) and (c)(2) of [Pub. L. 95–454][/us/pl/95/454] appear to have been inadvertently reversed. Subsec. (c)(1) purported to amend subsec. (c)(1) of this section, and subsec. (c)(2) purported to amend [section 3302(2) of this title][/us/usc/t5/s3302/2]. However, the amendments specified by [Pub. L. 95–454, § 703(c)(1)][/us/pl/95/454/s703/c/1] and (2), were impossible to execute literally. Thus, the amendment by [Pub. L. 95–454, § 703(c)(2)][/us/pl/95/454/s703/c/2] was executed to this section, and the amendment by section 703(c)(1) was executed to [section 3302(2) of this title][/us/usc/t5/s3302/2] as the probable intent of Congress.
+    1978—Subsec. (c)(1). [Pub. L. 95–454][/us/pl/95/454] substituted “7204” for “7154”, and “Office of Personnel Management” for “Civil Service Commission”. Amendments by section 703(c)(1) and (c)(2) of [Pub. L. 95–454][/us/pl/95/454] appear to have been inadvertently reversed. Subsec. (c)(1) purported to amend subsec. (c)(1) of this section, and subsec. (c)(2) purported to amend [section 3302(2) of this title][/us/usc/t5/s3302/2]. However, the amendments specified by [Pub. L. 95–454][/us/pl/95/454], § 703(c)(1) and (2), were impossible to execute literally. Thus, the amendment by [Pub. L. 95–454][/us/pl/95/454], § 703(c)(2) was executed to this section, and the amendment by section 703(c)(1) was executed to [section 3302(2) of this title][/us/usc/t5/s3302/2] as the probable intent of Congress.
 
     1972—Subsec. (c)(1). [Pub. L. 92–392][/us/pl/92/392] substituted “laws (other than subchapter IV of chapter 53 and sections 5550 and 7154 of this title)” for “laws”.
 
@@ -261,7 +261,7 @@ Aug. 10, 1956, ch. 1041, § 29(d), 70A Stat. 632.  </td>
 
  __Effective Date of 1996 Amendment__ 
 
-[Pub. L. 104–201, div. A, title III, § 370(e)][/us/pl/104/201/s370/e], Sept. 23, 1996, [110 Stat. 2499][/us/stat/110/2499], provided that: 
+[Pub. L. 104–201, div. A, title III][/us/pl/104/201/dA/tIII], § 370(e), Sept. 23, 1996, [110 Stat. 2499][/us/stat/110/2499], provided that: 
 
 > “The amendments made by this section \[amending this section and [section 6971 of Title 10][/us/usc/t10/s6971], Armed Forces, and repealing [section 6970 of Title 10][/us/usc/t10/s6970]\] shall take effect on October 1, 1996.”
 
@@ -271,7 +271,7 @@ Aug. 10, 1956, ch. 1041, § 29(d), 70A Stat. 632.  </td>
 
  __Effective Date of 1990 Amendment__ 
 
-[Pub. L. 101–508, title VII, § 7202(m)][/us/pl/101/508/s7202/m], Nov. 5, 1990, [104 Stat. 1388–339][/us/stat/104/1388-339], provided that:
+[Pub. L. 101–508, title VII][/us/pl/101/508/tVII], § 7202(m), Nov. 5, 1990, [104 Stat. 1388–339][/us/stat/104/1388-339], provided that:
 
 >     “(1)
 
@@ -313,7 +313,7 @@ Aug. 10, 1956, ch. 1041, § 29(d), 70A Stat. 632.  </td>
 
  __Treatment of Individuals Electing To Remain Subject to Their Former Retirement System__ 
 
-[Pub. L. 101–508, title VII, § 7202(n)][/us/pl/101/508/s7202/n], Nov. 5, 1990, [104 Stat. 1388–340][/us/stat/104/1388-340], as amended by [Pub. L. 102–378, § 5(a)(2)][/us/pl/102/378/s5/a/2], Oct. 2, 1992, [106 Stat. 1358][/us/stat/106/1358], provided that:
+[Pub. L. 101–508, title VII][/us/pl/101/508/tVII], § 7202(n), Nov. 5, 1990, [104 Stat. 1388–340][/us/stat/104/1388-340], as amended by [Pub. L. 102–378][/us/pl/102/378], § 5(a)(2), Oct. 2, 1992, [106 Stat. 1358][/us/stat/106/1358], provided that:
 
 >     “(1) For the purpose of this section \[amending this section and sections 3502, 5334, 5335, 5365, 5551, 6308, 6312, 8331, 8347, 8401, 8461, and 8901 of this title and enacting provisions set out as notes under this section and [section 2101 of this title][/us/usc/t5/s2101]\], the term ‘nonappropriated fund instrumentality’ means a nonappropriated fund instrumentality of the Department of Defense or the Coast Guard, described in [section 2105(c) of title 5][/us/usc/t5/s2105/c], United States Code.
 
@@ -348,33 +348,33 @@ Aug. 10, 1956, ch. 1041, § 29(d), 70A Stat. 632.  </td>
 [/us/usc/t5/s7902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs7902
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F409
-[/us/pl/90/486/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F486%2Fs4
+[/us/pl/90/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F486
 [/us/stat/82/757]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F757
-[/us/pl/91/375/s6/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375%2Fs6%2Fc%2F4
+[/us/pl/91/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375
 [/us/stat/84/775]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F775
-[/us/pl/92/392/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F392%2Fs2
+[/us/pl/92/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F392
 [/us/stat/86/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F573
-[/us/pl/95/454/s703/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs703%2Fc%2F2
+[/us/pl/95/454/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtVII
 [/us/stat/92/1217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1217
-[/us/pl/96/54/s2/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F54%2Fs2%2Fa%2F5
+[/us/pl/96/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F54
 [/us/stat/93/381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F381
-[/us/pl/99/335/s207/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2Fs207%2Fa
+[/us/pl/99/335/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2FtII
 [/us/stat/100/594]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F594
-[/us/pl/99/638/s2/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F638%2Fs2%2Fb%2F1
+[/us/pl/99/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F638
 [/us/stat/100/3536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3536
-[/us/pl/101/508/s7202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs7202%2Fb
+[/us/pl/101/508/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtVII
 [/us/stat/104/1388-335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-335
-[/us/pl/103/3/s201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F3%2Fs201%2Fb
+[/us/pl/103/3/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F3%2FtII
 [/us/stat/107/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F23
-[/us/pl/103/424/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F424%2Fs7
+[/us/pl/103/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F424
 [/us/stat/108/4364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4364
-[/us/pl/104/201/s370/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs370%2Fb
+[/us/pl/104/201/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtIII
 [/us/stat/110/2499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2499
-[/us/pl/105/85/s2871/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs2871%2Fc%2F2
+[/us/pl/105/85/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdB%2FtXXVIII
 [/us/stat/111/2015]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2015
-[/us/pl/109/435/s604/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2Fs604%2Ff
+[/us/pl/109/435/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2FtVI
 [/us/stat/120/3242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3242
-[/us/pl/113/66/s642]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs642
+[/us/pl/113/66/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtVI
 [/us/stat/127/787]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F787
 [/us/act/1938-06-25/ch676]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch676
 [/us/stat/52/1060]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1060
@@ -385,32 +385,32 @@ Aug. 10, 1956, ch. 1041, § 29(d), 70A Stat. 632.  </td>
 [/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
 [/us/pl/103/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F424
 [/us/pl/103/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F3
-[/us/pl/101/508/s7202/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs7202%2Fb%2F1
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/usc/t5/s8332/b/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8332%2Fb%2F16
-[/us/pl/101/508/s7202/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs7202%2Fb%2F2
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/pl/99/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F638
 [/us/usc/t5/s8332/b/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8332%2Fb%2F16
 [/us/pl/99/335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335
-[/us/pl/96/54/s2/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F54%2Fs2%2Fa%2F5
-[/us/pl/96/54/s2/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F54%2Fs2%2Fa%2F6
+[/us/pl/96/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F54
+[/us/pl/96/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F54
 [/us/pl/95/454/s703/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs703%2Fc%2F2
 [/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454
 [/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454
 [/us/usc/t5/s3302/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3302%2F2
-[/us/pl/95/454/s703/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs703%2Fc%2F1
-[/us/pl/95/454/s703/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs703%2Fc%2F2
+[/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454
+[/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454
 [/us/usc/t5/s3302/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3302%2F2
 [/us/pl/92/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F392
 [/us/pl/91/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375
 [/us/pl/90/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F486
-[/us/pl/104/201/s370/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs370%2Fe
+[/us/pl/104/201/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtIII
 [/us/stat/110/2499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2499
 [/us/usc/t10/s6971]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs6971
 [/us/usc/t10/s6970]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs6970
 [/us/pl/103/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F3
 [/us/pl/103/3/s405/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F3%2Fs405%2Fb%2F1
 [/us/usc/t29/s2601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2601
-[/us/pl/101/508/s7202/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs7202%2Fm
+[/us/pl/101/508/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtVII
 [/us/stat/104/1388-339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-339
 [/us/usc/t5/s2105/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs2105%2Fc
 [/us/pl/99/335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335
@@ -432,9 +432,9 @@ Aug. 10, 1956, ch. 1041, § 29(d), 70A Stat. 632.  </td>
 [/us/pl/90/486/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F486%2Fs11
 [/us/usc/t32/s709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft32%2Fs709
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
-[/us/pl/101/508/s7202/n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs7202%2Fn
+[/us/pl/101/508/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtVII
 [/us/stat/104/1388-340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-340
-[/us/pl/102/378/s5/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378%2Fs5%2Fa%2F2
+[/us/pl/102/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378
 [/us/stat/106/1358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1358
 [/us/usc/t5/s2101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs2101
 [/us/usc/t5/s2105/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs2105%2Fc

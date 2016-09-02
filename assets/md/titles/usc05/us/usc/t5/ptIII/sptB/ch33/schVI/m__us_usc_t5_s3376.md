@@ -17,7 +17,7 @@
 
     The President may prescribe regulations for the administration of this subchapter.
 
-(Added [Pub. L. 91–648, title IV, § 402(a)][/us/pl/91/648/s402/a], Jan. 5, 1971, [84 Stat. 1925][/us/stat/84/1925].)
+(Added [Pub. L. 91–648, title IV][/us/pl/91/648/tIV], § 402(a), Jan. 5, 1971, [84 Stat. 1925][/us/stat/84/1925].)
 
  __Ex. Ord. No. 11589. Delegation of Functions to Office of Personnel Management__ 
 
@@ -40,7 +40,7 @@ Section 1. The Office of Personnel Management is hereby designated and empowered
 ----------
 ----------
 
-[/us/pl/91/648/s402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F648%2Fs402%2Fa
+[/us/pl/91/648/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F648%2FtIV
 [/us/stat/84/1925]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1925
 [/us/usc/t3/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs301
 [/us/usc/t5/s3376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3376

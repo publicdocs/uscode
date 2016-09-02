@@ -53,7 +53,7 @@
 
             (B) the period between enrollment as a volunteer and the termination of service as a volunteer by the President or by death or resignation.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 552][/us/stat/80/552]; [Pub. L. 90–83, § 1(64)][/us/pl/90/83/s1/64], Sept. 11, 1967, [81 Stat. 212][/us/stat/81/212]; [Pub. L. 93–416, § 23(b)][/us/pl/93/416/s23/b], Sept. 7, 1974, [88 Stat. 1150][/us/stat/88/1150].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 552][/us/stat/80/552]; [Pub. L. 90–83][/us/pl/90/83], § 1(64), Sept. 11, 1967, [81 Stat. 212][/us/stat/81/212]; [Pub. L. 93–416][/us/pl/93/416], § 23(b), Sept. 7, 1974, [88 Stat. 1150][/us/stat/88/1150].)
 
 <table>
 
@@ -146,9 +146,9 @@ Sept. 22, 1961, Pub. L. 87–293, § 5(d), 75 Stat. 613.  </td>
 [/us/usc/t22/s2507/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2507%2Fa
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F552
-[/us/pl/90/83/s1/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83%2Fs1%2F64
+[/us/pl/90/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83
 [/us/stat/81/212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F212
-[/us/pl/93/416/s23/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F416%2Fs23%2Fb
+[/us/pl/93/416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F416
 [/us/stat/88/1150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1150
 [/us/usc/t22/s2522/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2522%2Fe
 [/us/usc/t5/s8142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8142

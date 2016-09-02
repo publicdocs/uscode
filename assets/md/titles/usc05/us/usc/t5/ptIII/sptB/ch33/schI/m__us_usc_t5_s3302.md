@@ -23,7 +23,7 @@
 
     Each officer and individual employed in an agency to which the rules apply shall aid in carrying out the rules.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 417][/us/stat/80/417]; [Pub. L. 95–228, § 2(b)][/us/pl/95/228/s2/b], Feb. 10, 1978, [92 Stat. 25][/us/stat/92/25]; [Pub. L. 95–454, title VII, § 703(c)(1)][/us/pl/95/454/s703/c/1], Oct. 13, 1978, [92 Stat. 1217][/us/stat/92/1217]; [Pub. L. 96–54, § 2(a)(16)][/us/pl/96/54/s2/a/16], Aug. 14, 1979, [93 Stat. 382][/us/stat/93/382]; [Pub. L. 103–94, § 2(b)(1)][/us/pl/103/94/s2/b/1], Oct. 6, 1993, [107 Stat. 1004][/us/stat/107/1004].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 417][/us/stat/80/417]; [Pub. L. 95–228][/us/pl/95/228], § 2(b), Feb. 10, 1978, [92 Stat. 25][/us/stat/92/25]; [Pub. L. 95–454, title VII][/us/pl/95/454/tVII], § 703(c)(1), Oct. 13, 1978, [92 Stat. 1217][/us/stat/92/1217]; [Pub. L. 96–54][/us/pl/96/54], § 2(a)(16), Aug. 14, 1979, [93 Stat. 382][/us/stat/93/382]; [Pub. L. 103–94][/us/pl/103/94], § 2(b)(1), Oct. 6, 1993, [107 Stat. 1004][/us/stat/107/1004].)
 
 <table>
 
@@ -83,7 +83,7 @@ Jan. 16, 1883, ch. 27, § 2(1) (less function of Civil Service Commission), (2
 
     1978—Par. (2). [Pub. L. 95–454][/us/pl/95/454] substituted “7202, 7203” for “7152, 7153”.
 
-    [Pub. L. 95–228][/us/pl/95/228] struck out reference to [section 3306(a)(1) of this title][/us/usc/t5/s3306/a/1]. Amendments by section 703(c)(1) and (c)(2) of [Pub. L. 95–454][/us/pl/95/454] appear to have been inadvertently reversed. Subsec. (c)(1) purported to amend subsec. (c)(1) of [section 2105 of this title][/us/usc/t5/s2105], and subsec. (c)(2) purported to amend par. (2) of this section. However, the amendments specified by [Pub. L. 95–454, § 703(c)(1)][/us/pl/95/454/s703/c/1] and (2), were impossible to execute literally. Thus, amendment by [Pub. L. 95–454, § 703(c)(2)][/us/pl/95/454/s703/c/2] was executed to [section 2105 of this title][/us/usc/t5/s2105], and amendment by section 703(c)(1) was executed to this section as the probable intent of Congress.
+    [Pub. L. 95–228][/us/pl/95/228] struck out reference to [section 3306(a)(1) of this title][/us/usc/t5/s3306/a/1]. Amendments by section 703(c)(1) and (c)(2) of [Pub. L. 95–454][/us/pl/95/454] appear to have been inadvertently reversed. Subsec. (c)(1) purported to amend subsec. (c)(1) of [section 2105 of this title][/us/usc/t5/s2105], and subsec. (c)(2) purported to amend par. (2) of this section. However, the amendments specified by [Pub. L. 95–454][/us/pl/95/454], § 703(c)(1) and (2), were impossible to execute literally. Thus, amendment by [Pub. L. 95–454][/us/pl/95/454], § 703(c)(2) was executed to [section 2105 of this title][/us/usc/t5/s2105], and amendment by section 703(c)(1) was executed to this section as the probable intent of Congress.
 
  __Effective Date of 1993 Amendment; Savings Provision__ 
 
@@ -164,13 +164,13 @@ Jan. 16, 1883, ch. 27, § 2(1) (less function of Civil Service Commission), (2
 
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F417
-[/us/pl/95/228/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F228%2Fs2%2Fb
+[/us/pl/95/228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F228
 [/us/stat/92/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F25
-[/us/pl/95/454/s703/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs703%2Fc%2F1
+[/us/pl/95/454/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtVII
 [/us/stat/92/1217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1217
-[/us/pl/96/54/s2/a/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F54%2Fs2%2Fa%2F16
+[/us/pl/96/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F54
 [/us/stat/93/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F382
-[/us/pl/103/94/s2/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F94%2Fs2%2Fb%2F1
+[/us/pl/103/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F94
 [/us/stat/107/1004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1004
 [/us/usc/t5/s1308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs1308
 [/us/pl/103/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F94
@@ -181,8 +181,8 @@ Jan. 16, 1883, ch. 27, § 2(1) (less function of Civil Service Commission), (2
 [/us/usc/t5/s3306/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3306%2Fa%2F1
 [/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454
 [/us/usc/t5/s2105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs2105
-[/us/pl/95/454/s703/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs703%2Fc%2F1
-[/us/pl/95/454/s703/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs703%2Fc%2F2
+[/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454
+[/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454
 [/us/usc/t5/s2105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs2105
 [/us/pl/103/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F94
 [/us/pl/103/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F94

@@ -25,7 +25,7 @@
 
         (2) by [section 3702 of title 44][/us/usc/t44/s3702] to authorize the publication of advertisements, notices, or proposals.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 379][/us/stat/80/379]; [Pub. L. 94–183, § 2(1)][/us/pl/94/183/s2/1], Dec. 31, 1975, [89 Stat. 1057][/us/stat/89/1057].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 379][/us/stat/80/379]; [Pub. L. 94–183][/us/pl/94/183], § 2(1), Dec. 31, 1975, [89 Stat. 1057][/us/stat/89/1057].)
 
 <table>
 
@@ -73,7 +73,7 @@ Aug. 2, 1946, ch. 744, § 12, 60 Stat. 809.  </td>
 
 </table>
 
-    Clause (2) of former section 22a is omitted because of the repeal of R.S. § 3683 ([31 U.S.C. 675][/us/usc/t31/s675]) by the [Act of Sept. 12, 1950, ch. 946, § 301(76)][/us/act/1950-09-12/ch946/s301/76], [64 Stat. 843][/us/stat/64/843].
+    Clause (2) of former section 22a is omitted because of the repeal of R.S. § 3683 ([31 U.S.C. 675][/us/usc/t31/s675]) by the [Act of Sept. 12, 1950, ch. 946][/us/act/1950-09-12/ch946], § 301(76), [64 Stat. 843][/us/stat/64/843].
 
     The word “agency” is substituted for “department” and defined to conform to the definition of “department” in [section 18 of the Act of Aug. 2, 1946, ch. 744][/us/act/1946-08-02/ch744/s18], [60 Stat. 811][/us/stat/60/811].
 
@@ -96,10 +96,10 @@ Aug. 2, 1946, ch. 744, § 12, 60 Stat. 809.  </td>
 [/us/usc/t44/s3702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3702
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F379
-[/us/pl/94/183/s2/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F183%2Fs2%2F1
+[/us/pl/94/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F183
 [/us/stat/89/1057]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F1057
 [/us/usc/t31/s675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs675
-[/us/act/1950-09-12/ch946/s301/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-12%2Fch946%2Fs301%2F76
+[/us/act/1950-09-12/ch946]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-12%2Fch946
 [/us/stat/64/843]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F843
 [/us/act/1946-08-02/ch744/s18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-02%2Fch744%2Fs18
 [/us/stat/60/811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F811

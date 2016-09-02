@@ -17,7 +17,7 @@
 
     The Special Counsel or any employee of the Special Counsel designated by the Special Counsel, shall transmit to the Congress on the request of any committee or subcommittee thereof, by report, testimony, or otherwise, information and the Special Counsel’s views on functions, responsibilities, or other matters relating to the Office. Such information shall be transmitted concurrently to the President and any other appropriate agency in the executive branch.
 
-(Added [Pub. L. 101–12, § 3(a)(13)][/us/pl/101/12/s3/a/13], Apr. 10, 1989, [103 Stat. 28][/us/stat/103/28].)
+(Added [Pub. L. 101–12][/us/pl/101/12], § 3(a)(13), Apr. 10, 1989, [103 Stat. 28][/us/stat/103/28].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/101/12/s3/a/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F12%2Fs3%2Fa%2F13
+[/us/pl/101/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F12
 [/us/stat/103/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F28
 
 

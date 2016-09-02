@@ -19,7 +19,7 @@
 
     (b) The Office shall make available to each individual eligible to enroll in a dental benefits plan, information on services and benefits provided by qualified companies participating under chapter 89.
 
-(Added [Pub. L. 108–496, § 2][/us/pl/108/496/s2], Dec. 23, 2004, [118 Stat. 4004][/us/stat/118/4004].)
+(Added [Pub. L. 108–496][/us/pl/108/496], § 2, Dec. 23, 2004, [118 Stat. 4004][/us/stat/118/4004].)
 
 ----------
 
@@ -28,7 +28,7 @@
 ----------
 ----------
 
-[/us/pl/108/496/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F496%2Fs2
+[/us/pl/108/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F496
 [/us/stat/118/4004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F4004
 
 

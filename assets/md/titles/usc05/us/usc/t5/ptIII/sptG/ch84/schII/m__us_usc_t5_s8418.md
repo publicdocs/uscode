@@ -33,13 +33,13 @@
 
     (d) The Office shall prescribe regulations under which the survivor of an employee or Member may make a deposit under this section.
 
-(Added [Pub. L. 99–335, title I, § 101(a)][/us/pl/99/335/s101/a], June 6, 1986, [100 Stat. 530][/us/stat/100/530]; amended [Pub. L. 103–66, title XI, § 11004(b)][/us/pl/103/66/s11004/b], Aug. 10, 1993, [107 Stat. 412][/us/stat/107/412].)
+(Added [Pub. L. 99–335, title I][/us/pl/99/335/tI], § 101(a), June 6, 1986, [100 Stat. 530][/us/stat/100/530]; amended [Pub. L. 103–66, title XI][/us/pl/103/66/tXI], § 11004(b), Aug. 10, 1993, [107 Stat. 412][/us/stat/107/412].)
 
  __Amendments__ 
 
-    1993—Subsec. (a)(1). [Pub. L. 103–66, § 11004(b)(1)][/us/pl/103/66/s11004/b/1], struck out “, before the expiration of the 2-year period involved,” after “into the Fund”.
+    1993—Subsec. (a)(1). [Pub. L. 103–66][/us/pl/103/66], § 11004(b)(1), struck out “, before the expiration of the 2-year period involved,” after “into the Fund”.
 
-    Subsec. (b). [Pub. L. 102–66, § 11004(b)(2)][/us/pl/102/66/s11004/b/2], amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “If the electing individual does not make the deposit required under subsection (a), the Office shall collect such amount by offset against such individual’s annuity, up to a maximum of 25 percent of the net annuity otherwise payable, and the individual is deemed to consent to such offset.”
+    Subsec. (b). [Pub. L. 102–66][/us/pl/102/66], § 11004(b)(2), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “If the electing individual does not make the deposit required under subsection (a), the Office shall collect such amount by offset against such individual’s annuity, up to a maximum of 25 percent of the net annuity otherwise payable, and the individual is deemed to consent to such offset.”
 
  __Effective Date of 1993 Amendment__ 
 
@@ -52,12 +52,12 @@
 ----------
 ----------
 
-[/us/pl/99/335/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2Fs101%2Fa
+[/us/pl/99/335/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2FtI
 [/us/stat/100/530]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F530
-[/us/pl/103/66/s11004/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs11004%2Fb
+[/us/pl/103/66/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2FtXI
 [/us/stat/107/412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F412
-[/us/pl/103/66/s11004/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs11004%2Fb%2F1
-[/us/pl/102/66/s11004/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F66%2Fs11004%2Fb%2F2
+[/us/pl/103/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66
+[/us/pl/102/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F66
 [/us/pl/103/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66
 [/us/pl/103/66/s11004/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs11004%2Fc
 [/us/usc/t5/s8339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8339

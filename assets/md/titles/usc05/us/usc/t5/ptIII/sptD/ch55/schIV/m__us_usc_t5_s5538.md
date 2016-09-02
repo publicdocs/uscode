@@ -65,7 +65,7 @@
 
         (3) the term “basic pay” includes any amount payable under section 5304.
 
-(Added [Pub. L. 111–8, div. D, title VII, § 751(a)][/us/pl/111/8/s751/a], Mar. 11, 2009, [123 Stat. 693][/us/stat/123/693]; amended [Pub. L. 111–117, div. C, title VII, § 745(a)][/us/pl/111/117/s745/a], Dec. 16, 2009, [123 Stat. 3219][/us/stat/123/3219].)
+(Added [Pub. L. 111–8, div. D, title VII][/us/pl/111/8/dD/tVII], § 751(a), Mar. 11, 2009, [123 Stat. 693][/us/stat/123/693]; amended [Pub. L. 111–117, div. C, title VII][/us/pl/111/117/dC/tVII], § 745(a), Dec. 16, 2009, [123 Stat. 3219][/us/stat/123/3219].)
 
  __Amendments__ 
 
@@ -85,13 +85,13 @@
 
  __Effective Date of 2009 Amendment__ 
 
-[Pub. L. 111–117, div. C, title VII, § 745(b)][/us/pl/111/117/s745/b], Dec. 16, 2009, [123 Stat. 3219][/us/stat/123/3219], provided that: 
+[Pub. L. 111–117, div. C, title VII][/us/pl/111/117/dC/tVII], § 745(b), Dec. 16, 2009, [123 Stat. 3219][/us/stat/123/3219], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall take effect on the first day of the first applicable pay period beginning on or after the date of the enactment of this Act \[Dec. 16, 2009\].”
 
  __Effective Date__ 
 
-[Pub. L. 111–8, div. D, title VII, § 751(c)][/us/pl/111/8/s751/c], Mar. 11, 2009, [123 Stat. 695][/us/stat/123/695], provided that: 
+[Pub. L. 111–8, div. D, title VII][/us/pl/111/8/dD/tVII], § 751(c), Mar. 11, 2009, [123 Stat. 695][/us/stat/123/695], provided that: 
 
 > “The amendments made by this section \[enacting this section\] shall apply with respect to pay periods (as described in [section 5538(b) of title 5][/us/usc/t5/s5538/b], United States Code, as amended by this section) beginning on or after the date of enactment of this Act \[Mar. 11, 2009\].”
 
@@ -104,16 +104,16 @@
 
 [/us/usc/t10/s101/a/13/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101%2Fa%2F13%2FB
 [/us/usc/t38/s4303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs4303
-[/us/pl/111/8/s751/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8%2Fs751%2Fa
+[/us/pl/111/8/dD/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8%2FdD%2FtVII
 [/us/stat/123/693]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F693
-[/us/pl/111/117/s745/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F117%2Fs745%2Fa
+[/us/pl/111/117/dC/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F117%2FdC%2FtVII
 [/us/stat/123/3219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F3219
 [/us/pl/111/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F117
 [/us/usc/t38/s4312/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs4312%2Fd
 [/us/usc/t38/s4312/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs4312%2Fe
-[/us/pl/111/117/s745/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F117%2Fs745%2Fb
+[/us/pl/111/117/dC/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F117%2FdC%2FtVII
 [/us/stat/123/3219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F3219
-[/us/pl/111/8/s751/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8%2Fs751%2Fc
+[/us/pl/111/8/dD/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8%2FdD%2FtVII
 [/us/stat/123/695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F695
 [/us/usc/t5/s5538/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5538%2Fb
 

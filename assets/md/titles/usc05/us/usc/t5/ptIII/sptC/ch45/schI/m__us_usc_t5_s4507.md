@@ -43,17 +43,17 @@
 
         (2) Receipt by a career appointee of the rank of Distinguished Executive entitles the individual to a lump-sum payment of an amount equal to 35 percent of annual basic pay, which shall be in addition to the basic pay paid under [section 5382 of this title][/us/usc/t5/s5382] or any award paid under [section 5384 of this title][/us/usc/t5/s5384].
 
-(Added [Pub. L. 95–454, title IV, § 406(a)][/us/pl/95/454/s406/a], Oct. 13, 1978, [92 Stat. 1170][/us/stat/92/1170]; amended [Pub. L. 105–277, div. A, § 101(h)][/us/pl/105/277/s101/h] \[title VI, § 631(a), (b)\], Oct. 21, 1998, [112 Stat. 2681–480][/us/stat/112/2681-480], 2681–523.)
+(Added [Pub. L. 95–454, title IV][/us/pl/95/454/tIV], § 406(a), Oct. 13, 1978, [92 Stat. 1170][/us/stat/92/1170]; amended [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(h) \[title VI, § 631(a), (b)\], Oct. 21, 1998, [112 Stat. 2681–480][/us/stat/112/2681-480], 2681–523.)
 
  __Amendments__ 
 
-    1998—Subsec. (e)(1). [Pub. L. 105–277, § 101(h)][/us/pl/105/277/s101/h] \[title VI, § 631(a)\], substituted “an amount equal to 20 percent of annual basic pay” for “$10,000”.
+    1998—Subsec. (e)(1). [Pub. L. 105–277][/us/pl/105/277], § 101(h) \[title VI, § 631(a)\], substituted “an amount equal to 20 percent of annual basic pay” for “$10,000”.
 
-    Subsec. (e)(2). [Pub. L. 105–277, § 101(h)][/us/pl/105/277/s101/h] \[title VI, § 631(b)\], substituted “an amount equal to 35 percent of annual basic pay” for “$20,000”.
+    Subsec. (e)(2). [Pub. L. 105–277][/us/pl/105/277], § 101(h) \[title VI, § 631(b)\], substituted “an amount equal to 35 percent of annual basic pay” for “$20,000”.
 
  __Effective Date of 1998 Amendment__ 
 
-[Pub. L. 105–277, div. A, § 101(h)][/us/pl/105/277/s101/h] \[title VI, § 631(c)\], Oct. 21, 1998, [112 Stat. 2681–480][/us/stat/112/2681-480], 2681–523, provided that: 
+[Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(h) \[title VI, § 631(c)\], Oct. 21, 1998, [112 Stat. 2681–480][/us/stat/112/2681-480], 2681–523, provided that: 
 
 > “The amendments made by this section \[amending this section\] shall take effect on October 1, 1998, or the date of enactment of this Act \[Oct. 21, 1998\], whichever is later.”
 
@@ -73,13 +73,13 @@
 [/us/usc/t5/s5384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5384
 [/us/usc/t5/s5382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5382
 [/us/usc/t5/s5384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5384
-[/us/pl/95/454/s406/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs406%2Fa
+[/us/pl/95/454/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtIV
 [/us/stat/92/1170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1170
-[/us/pl/105/277/s101/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fh
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-480
-[/us/pl/105/277/s101/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fh
-[/us/pl/105/277/s101/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fh
-[/us/pl/105/277/s101/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fh
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-480
 [/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454
 [/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454

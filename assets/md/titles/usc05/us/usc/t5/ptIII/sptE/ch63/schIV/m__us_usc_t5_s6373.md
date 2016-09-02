@@ -19,7 +19,7 @@
 
     (b) Notwithstanding any provision of section 6337 or 6371, if an employee uses leave transferred to such employee under subchapter III and leave made available to such employee under this subchapter in connection with the same medical emergency, the maximum number of days of annual leave and sick leave, respectively, which may accrue to such employee in connection with such medical emergency shall be the same as if all of that leave had been made available to such employee under this subchapter.
 
-(Added [Pub. L. 100–566, § 2(a)][/us/pl/100/566/s2/a], Oct. 31, 1988, [102 Stat. 2843][/us/stat/102/2843]; amended [Pub. L. 103–103, § 5(a)(1)][/us/pl/103/103/s5/a/1], Oct. 8, 1993, [107 Stat. 1023][/us/stat/107/1023].)
+(Added [Pub. L. 100–566][/us/pl/100/566], § 2(a), Oct. 31, 1988, [102 Stat. 2843][/us/stat/102/2843]; amended [Pub. L. 103–103][/us/pl/103/103], § 5(a)(1), Oct. 8, 1993, [107 Stat. 1023][/us/stat/107/1023].)
 
  __Amendments__ 
 
@@ -36,9 +36,9 @@
 ----------
 ----------
 
-[/us/pl/100/566/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F566%2Fs2%2Fa
+[/us/pl/100/566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F566
 [/us/stat/102/2843]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2843
-[/us/pl/103/103/s5/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F103%2Fs5%2Fa%2F1
+[/us/pl/103/103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F103
 [/us/stat/107/1023]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1023
 [/us/pl/103/103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F103
 [/us/pl/103/103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F103

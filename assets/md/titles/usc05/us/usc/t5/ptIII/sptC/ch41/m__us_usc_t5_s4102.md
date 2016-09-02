@@ -45,7 +45,7 @@
 
         However, the President may not except the Office of Personnel Management from a provision of this chapter which vests in or imposes on the Office a function, duty, or responsibility concerning any matter except the establishment, operation, and maintenance, in the same capacity as other agencies, of training programs and plans for its employees.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 433][/us/stat/80/433]; [Pub. L. 90–83, § 1(4)][/us/pl/90/83/s1/4], Sept. 11, 1967, [81 Stat. 196][/us/stat/81/196]; [Pub. L. 94–183, § 2(11)][/us/pl/94/183/s2/11], Dec. 31, 1975, [89 Stat. 1057][/us/stat/89/1057]; [Pub. L. 95–454, title IX, § 906(a)(2)][/us/pl/95/454/s906/a/2], Oct. 13, 1978, [92 Stat. 1224][/us/stat/92/1224]; [Pub. L. 96–54, § 2(a)(15)][/us/pl/96/54/s2/a/15], (19), Aug. 14, 1979, [93 Stat. 382][/us/stat/93/382].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 433][/us/stat/80/433]; [Pub. L. 90–83][/us/pl/90/83], § 1(4), Sept. 11, 1967, [81 Stat. 196][/us/stat/81/196]; [Pub. L. 94–183][/us/pl/94/183], § 2(11), Dec. 31, 1975, [89 Stat. 1057][/us/stat/89/1057]; [Pub. L. 95–454, title IX][/us/pl/95/454/tIX], § 906(a)(2), Oct. 13, 1978, [92 Stat. 1224][/us/stat/92/1224]; [Pub. L. 96–54][/us/pl/96/54], § 2(a)(15), (19), Aug. 14, 1979, [93 Stat. 382][/us/stat/93/382].)
 
 <table>
 
@@ -109,9 +109,9 @@ Aug. 2, 1962, Pub. L. 87–566, 76 Stat. 264.  </td>
 
  __Amendments__ 
 
-    1979—Subsec. (a)(1)(C). [Pub. L. 96–54, § 2(a)(19)][/us/pl/96/54/s2/a/19], substituted “National Oceanic and Atmospheric” for “Environmental Science Services”.
+    1979—Subsec. (a)(1)(C). [Pub. L. 96–54][/us/pl/96/54], § 2(a)(19), substituted “National Oceanic and Atmospheric” for “Environmental Science Services”.
 
-    Subsec. (b). [Pub. L. 96–54, § 2(a)(15)][/us/pl/96/54/s2/a/15], substituted “Office” for “Commission”.
+    Subsec. (b). [Pub. L. 96–54][/us/pl/96/54], § 2(a)(15), substituted “Office” for “Commission”.
 
     1978—Subsec. (b). [Pub. L. 95–454][/us/pl/95/454] substituted “Office of Personnel Management” for “Civil Service Commission”.
 
@@ -173,21 +173,21 @@ Section 1. The Central Intelligence Agency is hereby designated as excepted from
 [/us/usc/t37/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs204
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F433
-[/us/pl/90/83/s1/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83%2Fs1%2F4
+[/us/pl/90/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83
 [/us/stat/81/196]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F196
-[/us/pl/94/183/s2/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F183%2Fs2%2F11
+[/us/pl/94/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F183
 [/us/stat/89/1057]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F1057
-[/us/pl/95/454/s906/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs906%2Fa%2F2
+[/us/pl/95/454/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtIX
 [/us/stat/92/1224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1224
-[/us/pl/96/54/s2/a/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F54%2Fs2%2Fa%2F15
+[/us/pl/96/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F54
 [/us/stat/93/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F382
 [/us/usc/t37/s231/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs231%2Fa
 [/us/usc/t37/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs204
 [/us/act/1962-09-07/s12/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1962-09-07%2Fs12%2Fb
 [/us/pl/87/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F649
 [/us/stat/76/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F497
-[/us/pl/96/54/s2/a/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F54%2Fs2%2Fa%2F19
-[/us/pl/96/54/s2/a/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F54%2Fs2%2Fa%2F15
+[/us/pl/96/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F54
+[/us/pl/96/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F54
 [/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454
 [/us/pl/94/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F183
 [/us/pl/90/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83

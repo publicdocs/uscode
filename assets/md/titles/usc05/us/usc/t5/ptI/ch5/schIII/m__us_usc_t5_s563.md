@@ -53,7 +53,7 @@
 
         The convener shall report findings and may make recommendations to the agency. Upon request of the agency, the convener shall ascertain the names of persons who are willing and qualified to represent interests that will be significantly affected by the proposed rule, including residents of rural areas. The report and any recommendations of the convener shall be made available to the public upon request.
 
-(Added [Pub. L. 101–648, § 3(a)][/us/pl/101/648/s3/a], Nov. 29, 1990, [104 Stat. 4970][/us/stat/104/4970], § 583; renumbered § 563, [Pub. L. 102–354, § 3(a)(2)][/us/pl/102/354/s3/a/2], Aug. 26, 1992, [106 Stat. 944][/us/stat/106/944].)
+(Added [Pub. L. 101–648][/us/pl/101/648], § 3(a), Nov. 29, 1990, [104 Stat. 4970][/us/stat/104/4970], § 583; renumbered § 563, [Pub. L. 102–354][/us/pl/102/354], § 3(a)(2), Aug. 26, 1992, [106 Stat. 944][/us/stat/106/944].)
 
  __Amendments__ 
 
@@ -61,7 +61,7 @@
 
  __Negotiated Rulemaking Committees__ 
 
-[Pub. L. 104–320, § 11(e)][/us/pl/104/320/s11/e], Oct. 19, 1996, [110 Stat. 3874][/us/stat/110/3874], provided that: 
+[Pub. L. 104–320][/us/pl/104/320], § 11(e), Oct. 19, 1996, [110 Stat. 3874][/us/stat/110/3874], provided that: 
 
 > “The Director of the Office of Management and Budget shall—
 
@@ -76,13 +76,13 @@
 ----------
 ----------
 
-[/us/pl/101/648/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F648%2Fs3%2Fa
+[/us/pl/101/648]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F648
 [/us/stat/104/4970]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4970
-[/us/pl/102/354/s3/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F354%2Fs3%2Fa%2F2
+[/us/pl/102/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F354
 [/us/stat/106/944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F944
 [/us/pl/102/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F354
 [/us/usc/t5/s583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs583
-[/us/pl/104/320/s11/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F320%2Fs11%2Fe
+[/us/pl/104/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F320
 [/us/stat/110/3874]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3874
 [/us/pl/101/552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F552
 [/us/usc/t5/s571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs571

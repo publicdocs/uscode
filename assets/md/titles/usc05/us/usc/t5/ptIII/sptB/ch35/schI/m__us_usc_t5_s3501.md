@@ -41,7 +41,7 @@
 
     (b) Except as otherwise provided by this subsection and [section 3504 of this title][/us/usc/t5/s3504], this subchapter applies to each employee in or under an Executive agency. This subchapter does not apply to an employee whose appointment is required by Congress to be confirmed by, or made with the advice and consent of, the Senate or to a member of the Senior Executive Service or the Federal Bureau of Investigation and Drug Enforcement Administration Senior Executive Service.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 428][/us/stat/80/428]; [Pub. L. 94–183, § 2(8)][/us/pl/94/183/s2/8], Dec. 31, 1975, [89 Stat. 1057][/us/stat/89/1057]; [Pub. L. 95–454, title IV, § 404(a)][/us/pl/95/454/s404/a], Oct. 13, 1978, [92 Stat. 1165][/us/stat/92/1165]; [Pub. L. 100–325, § 2(e)][/us/pl/100/325/s2/e], May 30, 1988, [102 Stat. 581][/us/stat/102/581]; [Pub. L. 102–83, § 5(c)(2)][/us/pl/102/83/s5/c/2], Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 428][/us/stat/80/428]; [Pub. L. 94–183][/us/pl/94/183], § 2(8), Dec. 31, 1975, [89 Stat. 1057][/us/stat/89/1057]; [Pub. L. 95–454, title IV][/us/pl/95/454/tIV], § 404(a), Oct. 13, 1978, [92 Stat. 1165][/us/stat/92/1165]; [Pub. L. 100–325][/us/pl/100/325], § 2(e), May 30, 1988, [102 Stat. 581][/us/stat/102/581]; [Pub. L. 102–83][/us/pl/102/83], § 5(c)(2), Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406].)
 
 <table>
 
@@ -138,13 +138,13 @@ June 27, 1944, ch. 287, § 12(b); added Aug. 19, 1964, Pub. L. 88–448, § 
 [/us/usc/t5/s3504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3504
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F428
-[/us/pl/94/183/s2/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F183%2Fs2%2F8
+[/us/pl/94/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F183
 [/us/stat/89/1057]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F1057
-[/us/pl/95/454/s404/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs404%2Fa
+[/us/pl/95/454/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtIV
 [/us/stat/92/1165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1165
-[/us/pl/100/325/s2/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F325%2Fs2%2Fe
+[/us/pl/100/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F325
 [/us/stat/102/581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F581
-[/us/pl/102/83/s5/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fc%2F2
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F406
 [/us/act/1944-06-27/ch287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-06-27%2Fch287
 [/us/stat/58/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F387

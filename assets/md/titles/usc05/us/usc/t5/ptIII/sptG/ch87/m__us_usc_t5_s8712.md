@@ -25,7 +25,7 @@
 
     An excess of the total of paragraph (1) of this section over the sum of paragraphs (2) and (3) of this section shall be held by the company issuing the policy as a special contingency reserve to be used by the company only for charges under the policy. The reserve shall bear interest at a rate determined in advance of each policy year by the company and approved by the Office as being consistent with the rates generally used by the company for similar funds held under other group life insurance policies. When the Office determines that the special contingency reserve has attained an amount estimated by it to make satisfactory provision for adverse fluctuations in future charges under the policy, any further excess shall be deposited in the Treasury of the United States to the credit of the Employees’ Life Insurance Fund. When a policy is discontinued, any balance remaining in the special contingency reserve after all charges have been made shall be deposited in the Treasury to the credit of the Fund. The company may make the deposit in equal monthly installments over a period of not more than 2 years.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 598][/us/stat/80/598]; [Pub. L. 95–454, title IX, § 906(a)(2)][/us/pl/95/454/s906/a/2], (3), Oct. 13, 1978, [92 Stat. 1224][/us/stat/92/1224].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 598][/us/stat/80/598]; [Pub. L. 95–454, title IX][/us/pl/95/454/tIX], § 906(a)(2), (3), Oct. 13, 1978, [92 Stat. 1224][/us/stat/92/1224].)
 
 <table>
 
@@ -96,7 +96,7 @@ Aug. 17, 1954, ch. 752, § 8(d), 68 Stat. 741.  </td>
 
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F598
-[/us/pl/95/454/s906/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs906%2Fa%2F2
+[/us/pl/95/454/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtIX
 [/us/stat/92/1224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1224
 [/us/usc/t1/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft1%2Fs1
 [/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454

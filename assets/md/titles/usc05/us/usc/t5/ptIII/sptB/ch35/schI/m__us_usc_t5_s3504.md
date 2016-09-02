@@ -25,7 +25,7 @@
 
     (b) If an examining agency determines that, on the basis of evidence before it, a preference eligible described in [section 2108(3)(C) of this title][/us/usc/t5/s2108/3/C] who has a compensable service-connected disability of 30 percent or more is not able to fulfill the physical requirements of the position, the examining agency shall notify the Office of the determination and, at the same time, the examining agency shall notify the preference eligible of the reasons for the determination and of the right to respond, within 15 days of the date of the notification, to the Office. The Office shall require a demonstration by the appointing authority that the notification was timely sent to the preference eligible’s last known address and shall, before the selection of any other person for the position, make a final determination on the physical ability of the preference eligible to perform the duties of the position, taking into account any additional information provided in the response. When the Office has completed its review of the proposed disqualification on the basis of physical disability, it shall send its findings to the appointing authority and the preference eligible. The appointing authority shall comply with the findings of the Office. The functions of the Office under this subsection may not be delegated.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 429][/us/stat/80/429]; [Pub. L. 95–454, title III, § 307(g)][/us/pl/95/454/s307/g], title IX, § 906(a)(2), (3), Oct. 13, 1978, [92 Stat. 1149][/us/stat/92/1149], 1224.)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 429][/us/stat/80/429]; [Pub. L. 95–454, title III][/us/pl/95/454/tIII], § 307(g), title IX, § 906(a)(2), (3), Oct. 13, 1978, [92 Stat. 1149][/us/stat/92/1149], 1224.)
 
 <table>
 
@@ -95,7 +95,7 @@ June 27, 1944, ch. 287, § 5 (1st 2 sentences, so much as relates to retention
 [/us/usc/t5/s2108/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs2108%2F3%2FC
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F429
-[/us/pl/95/454/s307/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs307%2Fg
+[/us/pl/95/454/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtIII
 [/us/stat/92/1149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1149
 [/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454
 [/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454

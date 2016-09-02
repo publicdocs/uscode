@@ -23,13 +23,13 @@
 
     (d) Any member may be removed by the President only for inefficiency, neglect of duty, or malfeasance in office.
 
-(Added [Pub. L. 95–454, title II, § 202(a)][/us/pl/95/454/s202/a], Oct. 13, 1978, [92 Stat. 1122][/us/stat/92/1122]; amended [Pub. L. 100–202, § 101(m)][/us/pl/100/202/s101/m] \[title VI, § 620\], Dec. 22, 1987, [101 Stat. 1329–390][/us/stat/101/1329-390], 1329–427; [Pub. L. 101–12, § 3(a)(2)][/us/pl/101/12/s3/a/2], (3), Apr. 10, 1989, [103 Stat. 17][/us/stat/103/17].)
+(Added [Pub. L. 95–454, title II][/us/pl/95/454/tII], § 202(a), Oct. 13, 1978, [92 Stat. 1122][/us/stat/92/1122]; amended [Pub. L. 100–202][/us/pl/100/202], § 101(m) \[title VI, § 620\], Dec. 22, 1987, [101 Stat. 1329–390][/us/stat/101/1329-390], 1329–427; [Pub. L. 101–12][/us/pl/101/12], § 3(a)(2), (3), Apr. 10, 1989, [103 Stat. 17][/us/stat/103/17].)
 
  __Amendments__ 
 
-    1989—[Pub. L. 101–12, § 3(a)(2)][/us/pl/101/12/s3/a/2], substituted a semicolon for the comma after “office” in section catchline.
+    1989—[Pub. L. 101–12][/us/pl/101/12], § 3(a)(2), substituted a semicolon for the comma after “office” in section catchline.
 
-    Subsec. (b). [Pub. L. 101–12, § 3(a)(3)][/us/pl/101/12/s3/a/3], substituted “the member’s” for “his” in first sentence and struck out “of this title” after “section 1201” in second sentence.
+    Subsec. (b). [Pub. L. 101–12][/us/pl/101/12], § 3(a)(3), substituted “the member’s” for “his” in first sentence and struck out “of this title” after “section 1201” in second sentence.
 
     1987—Subsec. (b). [Pub. L. 100–202][/us/pl/100/202] inserted provision permitting any new member serving portion of seven-year term to continue serving until successor is appointed and has qualified, with exception limiting duration of such service.
 
@@ -44,14 +44,14 @@
 ----------
 ----------
 
-[/us/pl/95/454/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs202%2Fa
+[/us/pl/95/454/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtII
 [/us/stat/92/1122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1122
-[/us/pl/100/202/s101/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202%2Fs101%2Fm
+[/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
 [/us/stat/101/1329-390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1329-390
-[/us/pl/101/12/s3/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F12%2Fs3%2Fa%2F2
+[/us/pl/101/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F12
 [/us/stat/103/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F17
-[/us/pl/101/12/s3/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F12%2Fs3%2Fa%2F2
-[/us/pl/101/12/s3/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F12%2Fs3%2Fa%2F3
+[/us/pl/101/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F12
+[/us/pl/101/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F12
 [/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
 [/us/pl/101/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F12
 [/us/pl/101/12/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F12%2Fs11

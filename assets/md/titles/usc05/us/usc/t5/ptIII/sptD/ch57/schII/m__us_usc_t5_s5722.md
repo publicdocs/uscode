@@ -47,7 +47,7 @@
 
     (d) This section does not apply to appropriations for the Foreign Service of the United States.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 501][/us/stat/80/501]; [Pub. L. 104–201, div. A, title XVII][/us/pl/104/201], §§ 1715(b)(1), 1723(b)(1), Sept. 23, 1996, [110 Stat. 2755][/us/stat/110/2755], 2759; [Pub. L. 105–264, § 6(2)][/us/pl/105/264/s6/2], Oct. 19, 1998, [112 Stat. 2356][/us/stat/112/2356].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 501][/us/stat/80/501]; [Pub. L. 104–201, div. A, title XVII][/us/pl/104/201/dA/tXVII], §§ 1715(b)(1), 1723(b)(1), Sept. 23, 1996, [110 Stat. 2755][/us/stat/110/2755], 2759; [Pub. L. 105–264][/us/pl/105/264], § 6(2), Oct. 19, 1998, [112 Stat. 2356][/us/stat/112/2356].)
 
 <table>
 
@@ -119,29 +119,29 @@ Aug. 30, 1961, Pub. L. 87–172, § 2, 75 Stat. 409.  </td>
 
  __Amendments__ 
 
-    1998—Subsec. (a)(2). [Pub. L. 105–264, § 6(2)(A)][/us/pl/105/264/s6/2/A], substituted “continental United States;” for “United States;”.
+    1998—Subsec. (a)(2). [Pub. L. 105–264][/us/pl/105/264], § 6(2)(A), substituted “continental United States;” for “United States;”.
 
-    Subsec. (b). [Pub. L. 105–264, § 6(2)(B)][/us/pl/105/264/s6/2/B], substituted “Government” for “United States” in two places in concluding provisions.
+    Subsec. (b). [Pub. L. 105–264][/us/pl/105/264], § 6(2)(B), substituted “Government” for “United States” in two places in concluding provisions.
 
-    1996—Subsec. (a). [Pub. L. 104–201, § 1723(b)(1)][/us/pl/104/201/s1723/b/1], in introductory provisions, substituted “Under regulations prescribed under [section 5738 of this title][/us/usc/t5/s5738]” for “Under such regulations as the President may prescribe”.
+    1996—Subsec. (a). [Pub. L. 104–201][/us/pl/104/201], § 1723(b)(1), in introductory provisions, substituted “Under regulations prescribed under [section 5738 of this title][/us/usc/t5/s5738]” for “Under such regulations as the President may prescribe”.
 
-    Subsec. (a)(3). [Pub. L. 104–201, § 1715(b)(1)][/us/pl/104/201/s1715/b/1], added par. (3).
+    Subsec. (a)(3). [Pub. L. 104–201][/us/pl/104/201], § 1715(b)(1), added par. (3).
 
  __Effective Date of 1996 Amendment__ 
 
-[Pub. L. 104–201, div. A, title XVII, § 1725(a)][/us/pl/104/201/s1725/a], Sept. 23, 1996, [110 Stat. 2760][/us/stat/110/2760], provided that: 
+[Pub. L. 104–201, div. A, title XVII][/us/pl/104/201/dA/tXVII], § 1725(a), Sept. 23, 1996, [110 Stat. 2760][/us/stat/110/2760], provided that: 
 
 > “The amendments made by this title \[enacting sections 5737, 5738, and 5756 of this title, amending this section, sections 3375, 5723 to 5724c, 5726 to 5729, and 5731 of this title, [section 1348 of Title 31][/us/usc/t31/s1348], Money and Finance, [section 707 of Title 38][/us/usc/t38/s707], Veterans’ Benefits, and sections 290aa and 299c–4 of Title 42, The Public Health and Welfare\] shall take effect 180 days after the date of the enactment of this Act \[Sept. 23, 1996\].”
 
  __Regulations__ 
 
-[Pub. L. 104–201, div. A, title XVII, § 1725(b)][/us/pl/104/201/s1725/b], Sept. 23, 1996, [110 Stat. 2760][/us/stat/110/2760], provided that: 
+[Pub. L. 104–201, div. A, title XVII][/us/pl/104/201/dA/tXVII], § 1725(b), Sept. 23, 1996, [110 Stat. 2760][/us/stat/110/2760], provided that: 
 
 > “The Administrator of General Services shall, not later than the effective date set forth under subsection (a) \[set out above\], issue final regulations implementing the amendments made by this title \[see Effective Date of 1996 Amendment note above\].”
 
  __Assessment of Cost Savings__ 
 
-    [Pub. L. 104–201, div. A, title XVII, § 1724][/us/pl/104/201/s1724], Sept. 23, 1996, [110 Stat. 2759][/us/stat/110/2759], directed Comptroller General, not later than one year after the effective date set forth in [section 1725(a) of Pub. L. 104–201][/us/pl/104/201/s1725/a], to submit to Congress an assessment of costs of Federal travel administration that were saved as a result of the amendments made by title XVII of div. A of [Pub. L. 104–201][/us/pl/104/201] and the regulations prescribed to carry out the amendments.
+    [Pub. L. 104–201, div. A, title XVII][/us/pl/104/201/dA/tXVII], § 1724, Sept. 23, 1996, [110 Stat. 2759][/us/stat/110/2759], directed Comptroller General, not later than one year after the effective date set forth in [section 1725(a) of Pub. L. 104–201][/us/pl/104/201/s1725/a], to submit to Congress an assessment of costs of Federal travel administration that were saved as a result of the amendments made by title XVII of div. A of [Pub. L. 104–201][/us/pl/104/201] and the regulations prescribed to carry out the amendments.
 
 ----------
 
@@ -154,22 +154,22 @@ Aug. 30, 1961, Pub. L. 87–172, § 2, 75 Stat. 409.  </td>
 [/us/usc/t5/s5727/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5727%2Fc
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F501
-[/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
+[/us/pl/104/201/dA/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtXVII
 [/us/stat/110/2755]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2755
-[/us/pl/105/264/s6/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F264%2Fs6%2F2
+[/us/pl/105/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F264
 [/us/stat/112/2356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2356
-[/us/pl/105/264/s6/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F264%2Fs6%2F2%2FA
-[/us/pl/105/264/s6/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F264%2Fs6%2F2%2FB
-[/us/pl/104/201/s1723/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1723%2Fb%2F1
+[/us/pl/105/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F264
+[/us/pl/105/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F264
+[/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
 [/us/usc/t5/s5738]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5738
-[/us/pl/104/201/s1715/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1715%2Fb%2F1
-[/us/pl/104/201/s1725/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1725%2Fa
+[/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
+[/us/pl/104/201/dA/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtXVII
 [/us/stat/110/2760]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2760
 [/us/usc/t31/s1348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1348
 [/us/usc/t38/s707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs707
-[/us/pl/104/201/s1725/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1725%2Fb
+[/us/pl/104/201/dA/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtXVII
 [/us/stat/110/2760]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2760
-[/us/pl/104/201/s1724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1724
+[/us/pl/104/201/dA/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtXVII
 [/us/stat/110/2759]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2759
 [/us/pl/104/201/s1725/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1725%2Fa
 [/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201

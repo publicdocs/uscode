@@ -57,7 +57,7 @@
 
     (h) For purposes of this section, the term “Federal service” includes Federal service as defined in section 8521(a).
 
-(Added [Pub. L. 96–499, title X, § 1023(b)][/us/pl/96/499/s1023/b], Dec. 5, 1980, [94 Stat. 2657][/us/stat/94/2657]; amended [Pub. L. 97–362, title II, § 202(a)][/us/pl/97/362/s202/a], Oct. 25, 1982, [96 Stat. 1732][/us/stat/96/1732]; [Pub. L. 102–318, title V, § 532(a)][/us/pl/102/318/s532/a], July 3, 1992, [106 Stat. 317][/us/stat/106/317].)
+(Added [Pub. L. 96–499, title X][/us/pl/96/499/tX], § 1023(b), Dec. 5, 1980, [94 Stat. 2657][/us/stat/94/2657]; amended [Pub. L. 97–362, title II][/us/pl/97/362/tII], § 202(a), Oct. 25, 1982, [96 Stat. 1732][/us/stat/96/1732]; [Pub. L. 102–318, title V][/us/pl/102/318/tV], § 532(a), July 3, 1992, [106 Stat. 317][/us/stat/106/317].)
 
  __References in Text__ 
 
@@ -67,29 +67,29 @@
 
     1992—Subsec. (c)(3). [Pub. L. 102–318][/us/pl/102/318] added par. (3).
 
-    1982—Subsecs. (b), (c)(1). [Pub. L. 97–362, § 202(a)(1)][/us/pl/97/362/s202/a/1], substituted “chapter” for “subchapter” wherever appearing.
+    1982—Subsecs. (b), (c)(1). [Pub. L. 97–362][/us/pl/97/362], § 202(a)(1), substituted “chapter” for “subchapter” wherever appearing.
 
-    Subsec. (h). [Pub. L. 97–362, § 202(a)(2)][/us/pl/97/362/s202/a/2], added subsec. (h).
+    Subsec. (h). [Pub. L. 97–362][/us/pl/97/362], § 202(a)(2), added subsec. (h).
 
  __Effective Date of 1992 Amendment__ 
 
-[Pub. L. 102–318, title V, § 532(b)][/us/pl/102/318/s532/b], July 3, 1992, [106 Stat. 317][/us/stat/106/317], provided that: 
+[Pub. L. 102–318, title V][/us/pl/102/318/tV], § 532(b), July 3, 1992, [106 Stat. 317][/us/stat/106/317], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply to failures outstanding on the date of the enactment of this Act \[July 3, 1992\] or at any time thereafter.”
 
  __Effective Date of 1982 Amendment__ 
 
-[Pub. L. 97–362, title II, § 202(b)(1)][/us/pl/97/362/s202/b/1], Oct. 25, 1982, [96 Stat. 1733][/us/stat/96/1733], provided that: 
+[Pub. L. 97–362, title II][/us/pl/97/362/tII], § 202(b)(1), Oct. 25, 1982, [96 Stat. 1733][/us/stat/96/1733], provided that: 
 
 > “The amendments made by subsection (a) \[amending this section\] shall take effect on October 1, 1983.”
 
  __Transfer of Appropriated Unemployment Compensation Funds__ 
 
-[Pub. L. 97–362, title II, § 202(b)(2)][/us/pl/97/362/s202/b/2], Oct. 25, 1982, [96 Stat. 1733][/us/stat/96/1733], provided that: 
+[Pub. L. 97–362, title II][/us/pl/97/362/tII], § 202(b)(2), Oct. 25, 1982, [96 Stat. 1733][/us/stat/96/1733], provided that: 
 
 > “All funds appropriated which are available (on October 1, 1983) for the making of payments to States under chapter 85 of title 5, United States Code, on the basis of Federal service (as defined in section 8521(a) of such title 5) or for the making of payments under such chapter on the basis of such service in States which do not have in effect an agreement under such chapter, shall be transferred on such date to the Federal Employees Compensation Account established by section 909 of the Social Security Act \[[42 U.S.C. 1109][/us/usc/t42/s1109]\]. On and after such date, all payments described in the preceding sentence shall be made from such account as provided by section 8509 of such title 5.”
 
-[Pub. L. 96–499, title X, § 1023(c)][/us/pl/96/499/s1023/c], Dec. 5, 1980, [94 Stat. 2658][/us/stat/94/2658], provided that: 
+[Pub. L. 96–499, title X][/us/pl/96/499/tX], § 1023(c), Dec. 5, 1980, [94 Stat. 2658][/us/stat/94/2658], provided that: 
 
 > “All funds appropriated which are available for the making of payments to States after December 31, 1980, pursuant to agreements entered into under subchapter I of chapter 85 of title 5, United States Code, or for the making of payments after such date of compensation under such subchapter in States which do not have in effect such an agreement, shall be transferred on January 1, 1981, to the Federal Employees Compensation Account established by section 909 of the Social Security Act \[[42 U.S.C. 1109][/us/usc/t42/s1109]\]. On and after such date, all payments described in the preceding sentence shall be made from such Account as provided by [section 8509 of title 5][/us/usc/t5/s8509], United States Code.”
 
@@ -100,23 +100,23 @@
 ----------
 ----------
 
-[/us/pl/96/499/s1023/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F499%2Fs1023%2Fb
+[/us/pl/96/499/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F499%2FtX
 [/us/stat/94/2657]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2657
-[/us/pl/97/362/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F362%2Fs202%2Fa
+[/us/pl/97/362/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F362%2FtII
 [/us/stat/96/1732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1732
-[/us/pl/102/318/s532/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F318%2Fs532%2Fa
+[/us/pl/102/318/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F318%2FtV
 [/us/stat/106/317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F317
 [/us/pl/102/318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F318
-[/us/pl/97/362/s202/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F362%2Fs202%2Fa%2F1
-[/us/pl/97/362/s202/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F362%2Fs202%2Fa%2F2
-[/us/pl/102/318/s532/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F318%2Fs532%2Fb
+[/us/pl/97/362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F362
+[/us/pl/97/362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F362
+[/us/pl/102/318/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F318%2FtV
 [/us/stat/106/317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F317
-[/us/pl/97/362/s202/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F362%2Fs202%2Fb%2F1
+[/us/pl/97/362/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F362%2FtII
 [/us/stat/96/1733]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1733
-[/us/pl/97/362/s202/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F362%2Fs202%2Fb%2F2
+[/us/pl/97/362/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F362%2FtII
 [/us/stat/96/1733]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1733
 [/us/usc/t42/s1109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1109
-[/us/pl/96/499/s1023/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F499%2Fs1023%2Fc
+[/us/pl/96/499/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F499%2FtX
 [/us/stat/94/2658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2658
 [/us/usc/t42/s1109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1109
 [/us/usc/t5/s8509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8509

@@ -49,7 +49,7 @@
 
     (6) “continental United States” means the several States and the District of Columbia, but does not include Alaska or Hawaii.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 498][/us/stat/80/498]; [Pub. L. 94–22, § 2(a)][/us/pl/94/22/s2/a], May 19, 1975, [89 Stat. 84][/us/stat/89/84]; [Pub. L. 99–234, title I, § 101][/us/pl/99/234/s101], Jan. 2, 1986, [99 Stat. 1756][/us/stat/99/1756]; [Pub. L. 101–391, § 5(a)(2)][/us/pl/101/391/s5/a/2], Sept. 25, 1990, [104 Stat. 751][/us/stat/104/751].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 498][/us/stat/80/498]; [Pub. L. 94–22][/us/pl/94/22], § 2(a), May 19, 1975, [89 Stat. 84][/us/stat/89/84]; [Pub. L. 99–234, title I][/us/pl/99/234/tI], § 101, Jan. 2, 1986, [99 Stat. 1756][/us/stat/99/1756]; [Pub. L. 101–391][/us/pl/101/391], § 5(a)(2), Sept. 25, 1990, [104 Stat. 751][/us/stat/104/751].)
 
 <table>
 
@@ -129,7 +129,7 @@ Aug. 14, 1961, Pub. L. 87–139, § 8(c), 75 Stat. 340.  </td>
 
  __References in Text__ 
 
-    [Section 5707(d) of this title][/us/usc/t5/s5707/d], referred to in text, was repealed by [Pub. L. 104–201, div. A, title XVI, § 1614(a)(1)][/us/pl/104/201/s1614/a/1], Sept. 23, 1996, [110 Stat. 2739][/us/stat/110/2739].
+    [Section 5707(d) of this title][/us/usc/t5/s5707/d], referred to in text, was repealed by [Pub. L. 104–201, div. A, title XVI][/us/pl/104/201/dA/tXVI], § 1614(a)(1), Sept. 23, 1996, [110 Stat. 2739][/us/stat/110/2739].
 
  __Amendments__ 
 
@@ -141,7 +141,7 @@ Aug. 14, 1961, Pub. L. 87–139, § 8(c), 75 Stat. 340.  </td>
 
  __Effective Date of 1986 Amendment; Regulations__ 
 
-[Pub. L. 99–234, title III, § 301][/us/pl/99/234/s301], Jan. 2, 1986, [99 Stat. 1760][/us/stat/99/1760], provided that:
+[Pub. L. 99–234, title III][/us/pl/99/234/tIII], § 301, Jan. 2, 1986, [99 Stat. 1760][/us/stat/99/1760], provided that:
 
 >     “(a) The Administrator of General Services shall promulgate regulations implementing the amendments made by sections 101, 102, 103, 104, and 106 of this Act \[enacting sections 5706a and 5734 of this title and amending this section and sections 5702 and 5707 of this title\] not later than 150 days after the date of enactment of this Act \[Jan. 2, 1986\]. The amendments made by title I of this Act \[enacting sections 5706a and 5734 of this title and amending this section, sections 5702, 5707, and 5724a of this title, [section 476 of Title 2][/us/usc/t2/s476], The Congress, [section 2396 of Title 22][/us/usc/t22/s2396], Foreign Relations and Intercourse, [section 4941 of Title 26][/us/usc/t26/s4941], Internal Revenue Code, [section 456 of Title 28][/us/usc/t28/s456], Judiciary and Judicial Procedure, [section 326 of Title 31][/us/usc/t31/s326], Money and Finance, and [section 2477 of Title 42][/us/usc/t42/s2477], The Public Health and Welfare\] shall take effect on the effective date of such regulations, or 180 days after the date of enactment of this Act \[Jan. 2, 1986\], whichever occurs first.
 
@@ -149,31 +149,31 @@ Aug. 14, 1961, Pub. L. 87–139, § 8(c), 75 Stat. 340.  </td>
 
  __Short Title of 1998 Amendment__ 
 
-[Pub. L. 105–264, § 1][/us/pl/105/264/s1], Oct. 19, 1998, [112 Stat. 2350][/us/stat/112/2350], provided that: 
+[Pub. L. 105–264][/us/pl/105/264], § 1, Oct. 19, 1998, [112 Stat. 2350][/us/stat/112/2350], provided that: 
 
 > “This Act \[enacting sections 5706c, 5710, and 5739 of this title, amending sections 5721 to 5724, 5724a, 5725, 5727 to 5729, 5731, and 5732 of this title, [section 3413 of Title 12][/us/usc/t12/s3413], Banks and Banking, and sections 3322, 3528, and 3726 of Title 31, Money and Finance, and enacting provisions set out as notes under this section, [section 5706c of this title][/us/usc/t5/s5706c], and [section 3322 of Title 31][/us/usc/t31/s3322]\] may be cited as the ‘Travel and Transportation Reform Act of 1998’.”
 
  __Short Title of 1996 Amendment__ 
 
-[Pub. L. 104–201, div. A, title XVII, § 1701][/us/pl/104/201/s1701], Sept. 23, 1996, [110 Stat. 2752][/us/stat/110/2752], provided that: 
+[Pub. L. 104–201, div. A, title XVII][/us/pl/104/201/dA/tXVII], § 1701, Sept. 23, 1996, [110 Stat. 2752][/us/stat/110/2752], provided that: 
 
 > “This title \[enacting sections 5737, 5738, and 5756 of this title, amending sections 3375, 5722 to 5724c, 5726 to 5729, and 5731 of this title, [section 1348 of Title 31][/us/usc/t31/s1348], Money and Finance, [section 707 of Title 38][/us/usc/t38/s707], Veterans’ Benefits, and sections 290aa and 299c–4 of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under [section 5722 of this title][/us/usc/t5/s5722]\] may be cited as the ‘Federal Employee Travel Reform Act of 1996’.”
 
  __Short Title of 1986 Amendment__ 
 
-[Pub. L. 99–234, § 1][/us/pl/99/234/s1], Jan. 2, 1986, [99 Stat. 1756][/us/stat/99/1756], provided that: 
+[Pub. L. 99–234][/us/pl/99/234], § 1, Jan. 2, 1986, [99 Stat. 1756][/us/stat/99/1756], provided that: 
 
 > “This Act \[enacting sections 5706a and 5734 of this title and [section 420 of Title 41][/us/usc/t41/s420], Public Contracts, amending this section, sections 5702, 5707, and 5724a of this title, [section 476 of Title 2][/us/usc/t2/s476], The Congress, [section 2396 of Title 22][/us/usc/t22/s2396], Foreign Relations and Intercourse, [section 4941 of Title 26][/us/usc/t26/s4941], Internal Revenue Code, [section 456 of Title 28][/us/usc/t28/s456], Judiciary and Judicial Procedure, [section 326 of Title 31][/us/usc/t31/s326], Money and Finance, and [section 2477 of Title 42][/us/usc/t42/s2477], The Public Health and Welfare, and enacting provisions set out as notes under this section and [section 420 of Title 41][/us/usc/t41/s420]\] may be cited as the ‘Federal Civilian Employee and Contractor Travel Expenses Act of 1985’.”
 
  __Short Title of 1975 Amendment__ 
 
-[Pub. L. 94–22, § 1][/us/pl/94/22/s1], May 19, 1975, [89 Stat. 84][/us/stat/89/84], provided: 
+[Pub. L. 94–22][/us/pl/94/22], § 1, May 19, 1975, [89 Stat. 84][/us/stat/89/84], provided: 
 
 > “That this Act \[see Tables for classification\] may be cited as the ‘Travel Expense Amendments Act of 1975’.”
 
  __Construction__ 
 
-[Pub. L. 112–194, § 6][/us/pl/112/194/s6], Oct. 5, 2012, [126 Stat. 1451][/us/stat/126/1451], provided that:
+[Pub. L. 112–194][/us/pl/112/194], § 6, Oct. 5, 2012, [126 Stat. 1451][/us/stat/126/1451], provided that:
 
 >     “(a)  __Executive Agency Accounting__  __.—__ 
 
@@ -187,7 +187,7 @@ Aug. 14, 1961, Pub. L. 87–139, § 8(c), 75 Stat. 340.  </td>
 
  __Management of Centrally Billed Accounts__ 
 
-[Pub. L. 112–194, § 4][/us/pl/112/194/s4], Oct. 5, 2012, [126 Stat. 1450][/us/stat/126/1450], provided that:
+[Pub. L. 112–194][/us/pl/112/194], § 4, Oct. 5, 2012, [126 Stat. 1450][/us/stat/126/1450], provided that:
 
 >     “(a)  __Required Internal Controls for Centrally Billed Accounts__  __.—__ 
 
@@ -207,33 +207,33 @@ Aug. 14, 1961, Pub. L. 87–139, § 8(c), 75 Stat. 340.  </td>
 
  __eTravel Service__ 
 
-[Pub. L. 108–447, div. G, title II, § 209][/us/pl/108/447/s209], Dec. 8, 2004, [118 Stat. 3193][/us/stat/118/3193], provided that: 
+[Pub. L. 108–447, div. G, title II][/us/pl/108/447/dG/tII], § 209, Dec. 8, 2004, [118 Stat. 3193][/us/stat/118/3193], provided that: 
 
 > “Notwithstanding any other provision of law, no entity within the legislative branch shall be required to use the eTravel Service established by the Administrator of General Services for official travel by officers or employees of the entity during fiscal year 2005 or any succeeding fiscal year.”
 
  __Creditworthiness of Individuals To Be Issued Government Charge Cards__ 
 
-[Pub. L. 112–74, div. C, title VII, § 736][/us/pl/112/74/s736], Dec. 23, 2011, [125 Stat. 937][/us/stat/125/937], provided that: 
+[Pub. L. 112–74, div. C, title VII][/us/pl/112/74/dC/tVII], § 736, Dec. 23, 2011, [125 Stat. 937][/us/stat/125/937], provided that: 
 
 > “Each executive department and agency shall evaluate the creditworthiness of an individual before issuing the individual a government travel charge card. Such evaluations for individually billed travel charge cards shall include an assessment of the individual’s consumer report from a consumer reporting agency as those terms are defined in section 603 of the Fair Credit Reporting Act ([Public Law 91–508][/us/pl/91/508] \[[Pub. L. 90–321][/us/pl/90/321]\]) \[[15 U.S.C. 1681a][/us/usc/t15/s1681a]\]: Provided, That the department or agency may not issue a government travel charge card to an individual that either lacks a credit history or is found to have an unsatisfactory credit history as a result of this evaluation: Provided further, That this restriction shall not preclude issuance of a restricted-use charge, debit, or stored value card made in accordance with agency procedures to: (1) an individual with an unsatisfactory credit history where such card is used to pay travel expenses and the agency determines there is no suitable alternative payment mechanism available before issuing the card; or (2) an individual who lacks a credit history. Each executive department and agency shall establish guidelines and procedures for disciplinary actions to be taken against agency personnel for improper, fraudulent, or abusive use of government charge cards, which shall include appropriate disciplinary actions for use of charge cards for purposes, and at establishments, that are inconsistent with the official business of the Department or agency or with applicable standards of conduct.”
 
 Similar provisions were contained in the following prior appropriations acts:
 
-    [Pub. L. 111–117, div. C, title VII, § 738][/us/pl/111/117/s738], Dec. 16, 2009, [123 Stat. 3214][/us/stat/123/3214].
+    [Pub. L. 111–117, div. C, title VII][/us/pl/111/117/dC/tVII], § 738, Dec. 16, 2009, [123 Stat. 3214][/us/stat/123/3214].
 
-    [Pub. L. 111–8, div. D, title VII, § 741][/us/pl/111/8/s741], Mar. 11, 2009, [123 Stat. 691][/us/stat/123/691].
+    [Pub. L. 111–8, div. D, title VII][/us/pl/111/8/dD/tVII], § 741, Mar. 11, 2009, [123 Stat. 691][/us/stat/123/691].
 
-    [Pub. L. 110–161, div. D, title VII, § 743][/us/pl/110/161/s743], Dec. 26, 2007, [121 Stat. 2032][/us/stat/121/2032].
+    [Pub. L. 110–161, div. D, title VII][/us/pl/110/161/dD/tVII], § 743, Dec. 26, 2007, [121 Stat. 2032][/us/stat/121/2032].
 
-    [Pub. L. 109–115, div. A, title VIII, § 846][/us/pl/109/115/s846], Nov. 30, 2005, [119 Stat. 2507][/us/stat/119/2507].
+    [Pub. L. 109–115, div. A, title VIII][/us/pl/109/115/dA/tVIII], § 846, Nov. 30, 2005, [119 Stat. 2507][/us/stat/119/2507].
 
-    [Pub. L. 108–447, div. H, title VI, § 639][/us/pl/108/447/s639], Dec. 8, 2004, [118 Stat. 3281][/us/stat/118/3281].
+    [Pub. L. 108–447, div. H, title VI][/us/pl/108/447/dH/tVI], § 639, Dec. 8, 2004, [118 Stat. 3281][/us/stat/118/3281].
 
-    [Pub. L. 108–199, div. F, title VI, § 638][/us/pl/108/199/s638], Jan. 23, 2004, [118 Stat. 358][/us/stat/118/358].
+    [Pub. L. 108–199, div. F, title VI][/us/pl/108/199/dF/tVI], § 638, Jan. 23, 2004, [118 Stat. 358][/us/stat/118/358].
 
  __Requiring Use of Travel Charge Card__ 
 
-[Pub. L. 105–264, § 2][/us/pl/105/264/s2], Oct. 19, 1998, [112 Stat. 2350][/us/stat/112/2350], as amended by [Pub. L. 112–194, § 3][/us/pl/112/194/s3], Oct. 5, 2012, [126 Stat. 1448][/us/stat/126/1448], provided that:
+[Pub. L. 105–264][/us/pl/105/264], § 2, Oct. 19, 1998, [112 Stat. 2350][/us/stat/112/2350], as amended by [Pub. L. 112–194][/us/pl/112/194], § 3, Oct. 5, 2012, [126 Stat. 1448][/us/stat/126/1448], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -367,7 +367,7 @@ Similar provisions were contained in the following prior appropriations acts:
 
  __Definitions__ 
 
-[Pub. L. 112–194, § 5][/us/pl/112/194/s5], Oct. 5, 2012, [126 Stat. 1451][/us/stat/126/1451], provided that: 
+[Pub. L. 112–194][/us/pl/112/194], § 5, Oct. 5, 2012, [126 Stat. 1451][/us/stat/126/1451], provided that: 
 
 > “In this Act \[enacting [section 1909 of Title 41][/us/usc/t41/s1909], Public Contracts, amending [section 2784 of Title 10][/us/usc/t10/s2784], Armed Forces, enacting provisions set out as notes under this section and sections 101 and 1909 of Title 41, and amending provisions set out as a note under this section\]:
 
@@ -388,23 +388,23 @@ Similar provisions were contained in the following prior appropriations acts:
 
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F498
-[/us/pl/94/22/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F22%2Fs2%2Fa
+[/us/pl/94/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F22
 [/us/stat/89/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F84
-[/us/pl/99/234/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F234%2Fs101
+[/us/pl/99/234/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F234%2FtI
 [/us/stat/99/1756]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1756
-[/us/pl/101/391/s5/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F391%2Fs5%2Fa%2F2
+[/us/pl/101/391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F391
 [/us/stat/104/751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F751
 [/us/act/1946-08-02/ch744/s18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-02%2Fch744%2Fs18
 [/us/stat/60/811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F811
 [/us/act/1946-08-02/ch744/s18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-02%2Fch744%2Fs18
 [/us/stat/60/811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F811
 [/us/usc/t5/s5707/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5707%2Fd
-[/us/pl/104/201/s1614/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1614%2Fa%2F1
+[/us/pl/104/201/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtXVI
 [/us/stat/110/2739]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2739
 [/us/pl/101/391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F391
 [/us/pl/99/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F234
 [/us/pl/94/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F22
-[/us/pl/99/234/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F234%2Fs301
+[/us/pl/99/234/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F234%2FtIII
 [/us/stat/99/1760]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1760
 [/us/usc/t2/s476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs476
 [/us/usc/t22/s2396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2396
@@ -413,17 +413,17 @@ Similar provisions were contained in the following prior appropriations acts:
 [/us/usc/t31/s326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs326
 [/us/usc/t42/s2477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2477
 [/us/usc/t41/s420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs420
-[/us/pl/105/264/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F264%2Fs1
+[/us/pl/105/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F264
 [/us/stat/112/2350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2350
 [/us/usc/t12/s3413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3413
 [/us/usc/t5/s5706c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5706c
 [/us/usc/t31/s3322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3322
-[/us/pl/104/201/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1701
+[/us/pl/104/201/dA/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtXVII
 [/us/stat/110/2752]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2752
 [/us/usc/t31/s1348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1348
 [/us/usc/t38/s707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs707
 [/us/usc/t5/s5722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5722
-[/us/pl/99/234/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F234%2Fs1
+[/us/pl/99/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F234
 [/us/stat/99/1756]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1756
 [/us/usc/t41/s420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs420
 [/us/usc/t2/s476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs476
@@ -433,9 +433,9 @@ Similar provisions were contained in the following prior appropriations acts:
 [/us/usc/t31/s326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs326
 [/us/usc/t42/s2477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2477
 [/us/usc/t41/s420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs420
-[/us/pl/94/22/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F22%2Fs1
+[/us/pl/94/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F22
 [/us/stat/89/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F84
-[/us/pl/112/194/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F194%2Fs6
+[/us/pl/112/194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F194
 [/us/stat/126/1451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1451
 [/us/usc/t41/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs101
 [/us/usc/t31/s3512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3512
@@ -444,32 +444,32 @@ Similar provisions were contained in the following prior appropriations acts:
 [/us/usc/t5/s552a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552a
 [/us/pl/112/194/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F194%2Fs6
 [/us/pl/112/194/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F194%2Fs5
-[/us/pl/112/194/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F194%2Fs4
+[/us/pl/112/194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F194
 [/us/stat/126/1450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1450
 [/us/pl/112/194/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F194%2Fs4
 [/us/pl/112/194/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F194%2Fs5
-[/us/pl/108/447/s209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs209
+[/us/pl/108/447/dG/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdG%2FtII
 [/us/stat/118/3193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3193
-[/us/pl/112/74/s736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs736
+[/us/pl/112/74/dC/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2FdC%2FtVII
 [/us/stat/125/937]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F937
 [/us/pl/91/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F508
 [/us/pl/90/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321
 [/us/usc/t15/s1681a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1681a
-[/us/pl/111/117/s738]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F117%2Fs738
+[/us/pl/111/117/dC/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F117%2FdC%2FtVII
 [/us/stat/123/3214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F3214
-[/us/pl/111/8/s741]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8%2Fs741
+[/us/pl/111/8/dD/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8%2FdD%2FtVII
 [/us/stat/123/691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F691
-[/us/pl/110/161/s743]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs743
+[/us/pl/110/161/dD/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2FdD%2FtVII
 [/us/stat/121/2032]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2032
-[/us/pl/109/115/s846]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F115%2Fs846
+[/us/pl/109/115/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F115%2FdA%2FtVIII
 [/us/stat/119/2507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2507
-[/us/pl/108/447/s639]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs639
+[/us/pl/108/447/dH/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdH%2FtVI
 [/us/stat/118/3281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3281
-[/us/pl/108/199/s638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2Fs638
+[/us/pl/108/199/dF/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2FdF%2FtVI
 [/us/stat/118/358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F358
-[/us/pl/105/264/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F264%2Fs2
+[/us/pl/105/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F264
 [/us/stat/112/2350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2350
-[/us/pl/112/194/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F194%2Fs3
+[/us/pl/112/194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F194
 [/us/stat/126/1448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1448
 [/us/usc/t12/s3413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3413
 [/us/usc/t31/s3716/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3716%2Fa
@@ -479,7 +479,7 @@ Similar provisions were contained in the following prior appropriations acts:
 [/us/usc/t15/s1681a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1681a
 [/us/usc/t5/s5701/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5701%2F1
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
-[/us/pl/112/194/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F194%2Fs5
+[/us/pl/112/194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F194
 [/us/stat/126/1451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1451
 [/us/usc/t41/s1909]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs1909
 [/us/usc/t10/s2784]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2784

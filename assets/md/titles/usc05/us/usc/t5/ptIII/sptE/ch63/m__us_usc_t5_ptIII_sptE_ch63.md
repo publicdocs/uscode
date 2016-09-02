@@ -491,35 +491,35 @@ SUBCHAPTER VI—LEAVE TRANSFER IN DISASTERS AND EMERGENCIES  </td>
 
  __Amendments__ 
 
-    2015—[Pub. L. 114–75, § 2(b)][/us/pl/114/75/s2/b], Nov. 5, 2015, [129 Stat. 641][/us/stat/129/641], added item 6329.
+    2015—[Pub. L. 114–75][/us/pl/114/75], § 2(b), Nov. 5, 2015, [129 Stat. 641][/us/stat/129/641], added item 6329.
 
-    1999—[Pub. L. 106–56, § 1(c)(2)][/us/pl/106/56/s1/c/2], Sept. 24, 1999, [113 Stat. 407][/us/stat/113/407], added item 6328.
+    1999—[Pub. L. 106–56][/us/pl/106/56], § 1(c)(2), Sept. 24, 1999, [113 Stat. 407][/us/stat/113/407], added item 6328.
 
-    1997—[Pub. L. 105–18, title II, § 9004(b)][/us/pl/105/18/s9004/b], June 12, 1997, [111 Stat. 197][/us/stat/111/197], added heading of subchapter VI and item 6391.
+    1997—[Pub. L. 105–18, title II][/us/pl/105/18/tII], § 9004(b), June 12, 1997, [111 Stat. 197][/us/stat/111/197], added heading of subchapter VI and item 6391.
 
-    1994—[Pub. L. 103–329, title VI, § 629(a)(2)(B)][/us/pl/103/329/s629/a/2/B], Sept. 30, 1994, [108 Stat. 2423][/us/stat/108/2423], added item 6327.
+    1994—[Pub. L. 103–329, title VI][/us/pl/103/329/tVI], § 629(a)(2)(B), Sept. 30, 1994, [108 Stat. 2423][/us/stat/108/2423], added item 6327.
 
-    1993—[Pub. L. 103–103, § 5(a)(2)][/us/pl/103/103/s5/a/2], Oct. 8, 1993, [107 Stat. 1023][/us/stat/107/1023], substituted “Authority to participate in both programs” for “Limitation on employee participation” in item 6373.
+    1993—[Pub. L. 103–103][/us/pl/103/103], § 5(a)(2), Oct. 8, 1993, [107 Stat. 1023][/us/stat/107/1023], substituted “Authority to participate in both programs” for “Limitation on employee participation” in item 6373.
 
-    [Pub. L. 103–3, title II, § 201(a)(2)][/us/pl/103/3/s201/a/2], Feb. 5, 1993, [107 Stat. 23][/us/stat/107/23], added heading of subchapter V and items 6381 to 6387.
+    [Pub. L. 103–3, title II][/us/pl/103/3/tII], § 201(a)(2), Feb. 5, 1993, [107 Stat. 23][/us/stat/107/23], added heading of subchapter V and items 6381 to 6387.
 
-    1990—[Pub. L. 101–508, title VII, § 7202(i)(2)][/us/pl/101/508/s7202/i/2], Nov. 5, 1990, [104 Stat. 1388–337][/us/stat/104/1388-337], inserted “and nonappropriated fund” after “office” in item 6312.
+    1990—[Pub. L. 101–508, title VII][/us/pl/101/508/tVII], § 7202(i)(2), Nov. 5, 1990, [104 Stat. 1388–337][/us/stat/104/1388-337], inserted “and nonappropriated fund” after “office” in item 6312.
 
-    1988—[Pub. L. 100–566, § 2(d)(1)(B)][/us/pl/100/566/s2/d/1/B], Oct. 31, 1988, [102 Stat. 2844][/us/stat/102/2844], which provided that the table of sections for subchapters III and IV were to be repealed effective 5 years after Oct. 31, 1988, was repealed by [Pub. L. 103–103, § 2][/us/pl/103/103/s2], Oct. 8, 1993, [107 Stat. 1022][/us/stat/107/1022], effective Oct. 30, 1993.
+    1988—[Pub. L. 100–566][/us/pl/100/566], § 2(d)(1)(B), Oct. 31, 1988, [102 Stat. 2844][/us/stat/102/2844], which provided that the table of sections for subchapters III and IV were to be repealed effective 5 years after Oct. 31, 1988, was repealed by [Pub. L. 103–103][/us/pl/103/103], § 2, Oct. 8, 1993, [107 Stat. 1022][/us/stat/107/1022], effective Oct. 30, 1993.
 
-    [Pub. L. 100–566, § 2(b)][/us/pl/100/566/s2/b], Oct. 31, 1988, [102 Stat. 2843][/us/stat/102/2843], added heading of subchapter III and items 6331 to 6340 and heading of subchapter IV and items 6361 to 6373.
+    [Pub. L. 100–566][/us/pl/100/566], § 2(b), Oct. 31, 1988, [102 Stat. 2843][/us/stat/102/2843], added heading of subchapter III and items 6331 to 6340 and heading of subchapter IV and items 6361 to 6373.
 
-    1975—[Pub. L. 94–183, § 2(27)][/us/pl/94/183/s2/27], Dec. 31, 1975, [89 Stat. 1058][/us/stat/89/1058], struck out item 6309 “Leave of absence; rural carriers”.
+    1975—[Pub. L. 94–183][/us/pl/94/183], § 2(27), Dec. 31, 1975, [89 Stat. 1058][/us/stat/89/1058], struck out item 6309 “Leave of absence; rural carriers”.
 
-    1970—[Pub. L. 91–563, § 1(b)][/us/pl/91/563/s1/b], Dec. 19, 1970, [84 Stat. 1476][/us/stat/84/1476], included witness service and official duty status for certain witness service in item 6322.
+    1970—[Pub. L. 91–563][/us/pl/91/563], § 1(b), Dec. 19, 1970, [84 Stat. 1476][/us/stat/84/1476], included witness service and official duty status for certain witness service in item 6322.
 
-    1968—[Pub. L. 90–588, § 1(b)][/us/pl/90/588/s1/b], Oct. 17, 1968, [82 Stat. 1151][/us/stat/82/1151], added item 6326.
+    1968—[Pub. L. 90–588][/us/pl/90/588], § 1(b), Oct. 17, 1968, [82 Stat. 1151][/us/stat/82/1151], added item 6326.
 
-    [Pub. L. 90–367, § 2(b)][/us/pl/90/367/s2/b], June 29, 1968, [82 Stat. 277][/us/stat/82/277], added item 6312.
+    [Pub. L. 90–367][/us/pl/90/367], § 2(b), June 29, 1968, [82 Stat. 277][/us/stat/82/277], added item 6312.
 
-    1967—[Pub. L. 90–221, § 3(b)][/us/pl/90/221/s3/b], Dec. 23, 1967, [81 Stat. 671][/us/stat/81/671], added item 6325.
+    1967—[Pub. L. 90–221][/us/pl/90/221], § 3(b), Dec. 23, 1967, [81 Stat. 671][/us/stat/81/671], added item 6325.
 
-    1966—[Pub. L. 89–747, § 1(3)][/us/pl/89/747/s1/3], Nov. 2, 1966, [80 Stat. 1179][/us/stat/80/1179], inserted reference to leave for crews of vessels in item 6305.
+    1966—[Pub. L. 89–747][/us/pl/89/747], § 1(3), Nov. 2, 1966, [80 Stat. 1179][/us/stat/80/1179], inserted reference to leave for crews of vessels in item 6305.
 
  __Modernizing Federal Leave Policies for Childbirth, Adoption, and Foster Care To Recruit and Retain Talent and Improve Productivity__ 
 
@@ -592,37 +592,37 @@ SUBCHAPTER VI—LEAVE TRANSFER IN DISASTERS AND EMERGENCIES  </td>
 ----------
 ----------
 
-[/us/pl/114/75/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F75%2Fs2%2Fb
+[/us/pl/114/75]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F75
 [/us/stat/129/641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F641
-[/us/pl/106/56/s1/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F56%2Fs1%2Fc%2F2
+[/us/pl/106/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F56
 [/us/stat/113/407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F407
-[/us/pl/105/18/s9004/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F18%2Fs9004%2Fb
+[/us/pl/105/18/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F18%2FtII
 [/us/stat/111/197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F197
-[/us/pl/103/329/s629/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F329%2Fs629%2Fa%2F2%2FB
+[/us/pl/103/329/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F329%2FtVI
 [/us/stat/108/2423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2423
-[/us/pl/103/103/s5/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F103%2Fs5%2Fa%2F2
+[/us/pl/103/103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F103
 [/us/stat/107/1023]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1023
-[/us/pl/103/3/s201/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F3%2Fs201%2Fa%2F2
+[/us/pl/103/3/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F3%2FtII
 [/us/stat/107/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F23
-[/us/pl/101/508/s7202/i/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs7202%2Fi%2F2
+[/us/pl/101/508/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtVII
 [/us/stat/104/1388-337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-337
-[/us/pl/100/566/s2/d/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F566%2Fs2%2Fd%2F1%2FB
+[/us/pl/100/566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F566
 [/us/stat/102/2844]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2844
-[/us/pl/103/103/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F103%2Fs2
+[/us/pl/103/103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F103
 [/us/stat/107/1022]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1022
-[/us/pl/100/566/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F566%2Fs2%2Fb
+[/us/pl/100/566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F566
 [/us/stat/102/2843]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2843
-[/us/pl/94/183/s2/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F183%2Fs2%2F27
+[/us/pl/94/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F183
 [/us/stat/89/1058]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F1058
-[/us/pl/91/563/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F563%2Fs1%2Fb
+[/us/pl/91/563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F563
 [/us/stat/84/1476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1476
-[/us/pl/90/588/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F588%2Fs1%2Fb
+[/us/pl/90/588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F588
 [/us/stat/82/1151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1151
-[/us/pl/90/367/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F367%2Fs2%2Fb
+[/us/pl/90/367]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F367
 [/us/stat/82/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F277
-[/us/pl/90/221/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F221%2Fs3%2Fb
+[/us/pl/90/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F221
 [/us/stat/81/671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F671
-[/us/pl/89/747/s1/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F747%2Fs1%2F3
+[/us/pl/89/747]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F747
 [/us/stat/80/1179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1179
 
 

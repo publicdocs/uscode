@@ -21,7 +21,7 @@
 
     (c) In addition to the contributions for the maintenance of the Employees’ Compensation Fund required by this section, the United States Postal Service, or a mixed ownership corporation as defined by [section 9101(2) of title 31][/us/usc/t31/s9101/2], or any other corporation or agency or instrumentality (or activity thereof) which is required by statute to submit an annual budget pursuant to or as provided by chapter 91 of title 31, shall pay an additional amount for its fair share of the cost of administration of this subchapter as determined by the Secretary. With respect to these corporations, agencies, and instrumentalities, the charges billed by the Secretary under this section shall include an additional amount for these costs, which shall be paid into the Treasury as miscellaneous receipts from the sources authorized and in the manner otherwise provided by this section.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 554][/us/stat/80/554]; [Pub. L. 90–83, § 1(68)][/us/pl/90/83/s1/68], Sept. 11, 1967, [81 Stat. 213][/us/stat/81/213]; [Pub. L. 93–416][/us/pl/93/416], §§ 25, 26, Sept. 7, 1974, [88 Stat. 1150][/us/stat/88/1150]; [Pub. L. 94–273, § 42][/us/pl/94/273/s42], Apr. 21, 1976, [90 Stat. 381][/us/stat/90/381]; [Pub. L. 97–258, § 3(a)(17)][/us/pl/97/258/s3/a/17], Sept. 13, 1982, [96 Stat. 1063][/us/stat/96/1063].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 554][/us/stat/80/554]; [Pub. L. 90–83][/us/pl/90/83], § 1(68), Sept. 11, 1967, [81 Stat. 213][/us/stat/81/213]; [Pub. L. 93–416][/us/pl/93/416], §§ 25, 26, Sept. 7, 1974, [88 Stat. 1150][/us/stat/88/1150]; [Pub. L. 94–273][/us/pl/94/273], § 42, Apr. 21, 1976, [90 Stat. 381][/us/stat/90/381]; [Pub. L. 97–258][/us/pl/97/258], § 3(a)(17), Sept. 13, 1982, [96 Stat. 1063][/us/stat/96/1063].)
 
 <table>
 
@@ -137,9 +137,9 @@ July 4, 1966, Pub. L. 89–488, § 10(c), 80 Stat. 255.  </td>
 
     1976—Subsec. (b). [Pub. L. 94–273][/us/pl/94/273] inserted “during the first fifteen days of October following the furnishing of the statement” after “its control” and substituted “July 1 through June 30 expense period” for “fiscal year” and “the fiscal year beginning in the next calendar year” for “the next fiscal year”.
 
-    1974—Subsec. (a). [Pub. L. 93–416, § 26][/us/pl/93/416/s26], substituted “Office of Management and Budget” for “Bureau of the Budget”.
+    1974—Subsec. (a). [Pub. L. 93–416][/us/pl/93/416], § 26, substituted “Office of Management and Budget” for “Bureau of the Budget”.
 
-    Subsec. (c). [Pub. L. 93–416, § 25][/us/pl/93/416/s25], inserted reference to the United States Postal Service.
+    Subsec. (c). [Pub. L. 93–416][/us/pl/93/416], § 25, inserted reference to the United States Postal Service.
 
  __Effective Date of 1974 Amendment__ 
 
@@ -149,19 +149,19 @@ July 4, 1966, Pub. L. 89–488, § 10(c), 80 Stat. 255.  </td>
 
  __Government Publishing Office Payment of Cost of Administration__ 
 
-[Pub. L. 105–275, title III, § 313][/us/pl/105/275/s313], Oct. 21, 1998, [112 Stat. 2460][/us/stat/112/2460], as amended by [Pub. L. 113–235, div. H, title I, § 1301(b)][/us/pl/113/235/s1301/b], Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537], provided that: 
+[Pub. L. 105–275, title III][/us/pl/105/275/tIII], § 313, Oct. 21, 1998, [112 Stat. 2460][/us/stat/112/2460], as amended by [Pub. L. 113–235, div. H, title I][/us/pl/113/235/dH/tI], § 1301(b), Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537], provided that: 
 
 > “For purposes of [section 8147 of title 5][/us/usc/t5/s8147], United States Code, the Government Publishing Office is not considered an agency which is required by statute to submit an annual budget pursuant to or as provided by chapter 91 of title 31, United States Code, and is not required to pay an additional amount for the cost of administration.”
 
  __Fiscal Year 1994 Prohibition on Payments to Individuals Convicted of Issuing False Statements or Fraud__ 
 
-[Pub. L. 103–112, title I, § 102][/us/pl/103/112/s102], Oct. 21, 1993, [107 Stat. 1089][/us/stat/107/1089], Department of Labor Appropriation Act, 1994, provided that: 
+[Pub. L. 103–112, title I][/us/pl/103/112/tI], § 102, Oct. 21, 1993, [107 Stat. 1089][/us/stat/107/1089], Department of Labor Appropriation Act, 1994, provided that: 
 
 > “None of the funds in the Employees’ Compensation Fund under [5 U.S.C. 8147][/us/usc/t5/s8147] shall be expended for payment of compensation, benefits, and expenses to any individual convicted of a violation of [18 U.S.C. 1920][/us/usc/t18/s1920], or of any felony fraud related to the application for or receipt of benefits under subchapters I or III of chapter 81 of title 5, United States Code.”
 
  __Deposit Into Fund Between July 1, and__  __July 15, 1976__  __, of Specified Part of__  __August 15, 1975__  __, Statement__ 
 
-    [Pub. L. 94–274, title I, § 120][/us/pl/94/274/s120], Apr. 21, 1976, [90 Stat. 389][/us/stat/90/389], provided that for the purposes of [5 U.S.C. 8147(b)][/us/usc/t5/s8147/b], each agency and instrumentality of the United States dependent upon an annual appropriation and having an employee who is or may be entitled to compensation benefits under this subchapter or any extension or application thereof shall deposit in the Treasury to the credit of the Employees’ Compensation Fund, no later than July 15, 1976, but no earlier than July 1, 1976, 25 per centum of the amount stated in the August 15, 1975, statement.
+    [Pub. L. 94–274, title I][/us/pl/94/274/tI], § 120, Apr. 21, 1976, [90 Stat. 389][/us/stat/90/389], provided that for the purposes of [5 U.S.C. 8147(b)][/us/usc/t5/s8147/b], each agency and instrumentality of the United States dependent upon an annual appropriation and having an employee who is or may be entitled to compensation benefits under this subchapter or any extension or application thereof shall deposit in the Treasury to the credit of the Employees’ Compensation Fund, no later than July 15, 1976, but no earlier than July 1, 1976, 25 per centum of the amount stated in the August 15, 1975, statement.
 
  __Personnel Not Affected by 1967 Increase__ 
 
@@ -177,34 +177,34 @@ July 4, 1966, Pub. L. 89–488, § 10(c), 80 Stat. 255.  </td>
 [/us/usc/t31/s9101/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs9101%2F2
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F554
-[/us/pl/90/83/s1/68]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83%2Fs1%2F68
+[/us/pl/90/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83
 [/us/stat/81/213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F213
 [/us/pl/93/416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F416
 [/us/stat/88/1150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1150
-[/us/pl/94/273/s42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F273%2Fs42
+[/us/pl/94/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F273
 [/us/stat/90/381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F381
-[/us/pl/97/258/s3/a/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs3%2Fa%2F17
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1063]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1063
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/pl/94/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F273
-[/us/pl/93/416/s26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F416%2Fs26
-[/us/pl/93/416/s25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F416%2Fs25
+[/us/pl/93/416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F416
+[/us/pl/93/416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F416
 [/us/pl/93/416/s25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F416%2Fs25
 [/us/pl/93/416/s28/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F416%2Fs28%2Fa
 [/us/usc/t5/s8101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8101
 [/us/pl/93/416/s26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F416%2Fs26
 [/us/pl/93/416/s28/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F416%2Fs28%2Fa
 [/us/usc/t5/s8101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8101
-[/us/pl/105/275/s313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F275%2Fs313
+[/us/pl/105/275/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F275%2FtIII
 [/us/stat/112/2460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2460
-[/us/pl/113/235/s1301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fb
+[/us/pl/113/235/dH/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2FdH%2FtI
 [/us/stat/128/2537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2537
 [/us/usc/t5/s8147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8147
-[/us/pl/103/112/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F112%2Fs102
+[/us/pl/103/112/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F112%2FtI
 [/us/stat/107/1089]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1089
 [/us/usc/t5/s8147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8147
 [/us/usc/t18/s1920]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1920
-[/us/pl/94/274/s120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F274%2Fs120
+[/us/pl/94/274/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F274%2FtI
 [/us/stat/90/389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F389
 [/us/usc/t5/s8147/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8147%2Fb
 [/us/pl/90/83/s1/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83%2Fs1%2F71

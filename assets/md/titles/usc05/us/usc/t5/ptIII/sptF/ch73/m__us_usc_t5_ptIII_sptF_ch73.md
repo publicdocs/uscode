@@ -243,21 +243,21 @@ SUBCHAPTER VII—MANDATORY REMOVAL FROM EMPLOYMENT OF CONVICTED LAW ENFORCEMENT 
 
  __Amendments__ 
 
-    2003—[Pub. L. 108–136, div. A, title XI, § 1125(b)(3)][/us/pl/108/136/s1125/b/3], Nov. 24, 2003, [117 Stat. 1640][/us/stat/117/1640], added item 7302.
+    2003—[Pub. L. 108–136, div. A, title XI][/us/pl/108/136/dA/tXI], § 1125(b)(3), Nov. 24, 2003, [117 Stat. 1640][/us/stat/117/1640], added item 7302.
 
-    2000—[Pub. L. 106–554, § 1(a)(3)][/us/pl/106/554/s1/a/3] \[title VI, § 639(b)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–168, added subchapter VII heading and item 7371.
+    2000—[Pub. L. 106–554][/us/pl/106/554], § 1(a)(3) \[title VI, § 639(b)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–168, added subchapter VII heading and item 7371.
 
-    1993—[Pub. L. 103–94, § 2(b)(2)][/us/pl/103/94/s2/b/2], Oct. 6, 1993, [107 Stat. 1004][/us/stat/107/1004], amended analysis for subchapter III generally, reenacting subchapter III heading without change, substituting “participation” for “contributions and services” in item 7321, “Definitions” for “Political use of authority or influence; prohibition” in item 7322, “activity authorized; prohibitions” for “contributions; prohibition” in item 7323, “Political activities on duty; prohibition” for “Influencing elections; taking part in political campaigns; prohibitions; exceptions” in item 7324, “Political activity permitted; employees residing in certain municipalities” for “Penalties” in item 7325, and “Penalties” for “Nonpartisan political activity permitted” in item 7326, and striking out item 7327 “Political activity permitted; employees residing in certain municipalities” and item 7328 “General Accounting Office employees”.
+    1993—[Pub. L. 103–94][/us/pl/103/94], § 2(b)(2), Oct. 6, 1993, [107 Stat. 1004][/us/stat/107/1004], amended analysis for subchapter III generally, reenacting subchapter III heading without change, substituting “participation” for “contributions and services” in item 7321, “Definitions” for “Political use of authority or influence; prohibition” in item 7322, “activity authorized; prohibitions” for “contributions; prohibition” in item 7323, “Political activities on duty; prohibition” for “Influencing elections; taking part in political campaigns; prohibitions; exceptions” in item 7324, “Political activity permitted; employees residing in certain municipalities” for “Penalties” in item 7325, and “Penalties” for “Nonpartisan political activity permitted” in item 7326, and striking out item 7327 “Political activity permitted; employees residing in certain municipalities” and item 7328 “General Accounting Office employees”.
 
-    1989—[Pub. L. 101–194, title III, § 303(b)][/us/pl/101/194/s303/b], Nov. 30, 1989, [103 Stat. 1747][/us/stat/103/1747], added item 7353.
+    1989—[Pub. L. 101–194, title III][/us/pl/101/194/tIII], § 303(b), Nov. 30, 1989, [103 Stat. 1747][/us/stat/103/1747], added item 7353.
 
-    1986—[Pub. L. 99–570, title VI, § 6002(a)(2)][/us/pl/99/570/s6002/a/2], Oct. 27, 1986, [100 Stat. 3207–158][/us/stat/100/3207-158], added subchapter VI heading and items 7361 to 7363.
+    1986—[Pub. L. 99–570, title VI][/us/pl/99/570/tVI], § 6002(a)(2), Oct. 27, 1986, [100 Stat. 3207–158][/us/stat/100/3207-158], added subchapter VI heading and items 7361 to 7363.
 
-    1980—[Pub. L. 96–191, § 8(e)(2)][/us/pl/96/191/s8/e/2], Feb. 15, 1980, [94 Stat. 33][/us/stat/94/33], added item 7328.
+    1980—[Pub. L. 96–191][/us/pl/96/191], § 8(e)(2), Feb. 15, 1980, [94 Stat. 33][/us/stat/94/33], added item 7328.
 
-    1968—[Pub. L. 90–351, title V, § 1001(b)][/us/pl/90/351/s1001/b], June 19, 1968, [82 Stat. 235][/us/stat/82/235], substituted “EMPLOYMENT LIMITATIONS” for “LOYALTY, SECURITY, AND STRIKING” in subchapter II heading and added item 7313.
+    1968—[Pub. L. 90–351, title V][/us/pl/90/351/tV], § 1001(b), June 19, 1968, [82 Stat. 235][/us/stat/82/235], substituted “EMPLOYMENT LIMITATIONS” for “LOYALTY, SECURITY, AND STRIKING” in subchapter II heading and added item 7313.
 
-    1967—[Pub. L. 90–83, § 1(46)][/us/pl/90/83/s1/46], Sept. 11, 1967, [81 Stat. 209][/us/stat/81/209], inserted “GIFTS AND” before “DECORATIONS” in subchapter IV heading, struck out item 7341 “Receipt and display of foreign decorations”, and added item 7342.
+    1967—[Pub. L. 90–83][/us/pl/90/83], § 1(46), Sept. 11, 1967, [81 Stat. 209][/us/stat/81/209], inserted “GIFTS AND” before “DECORATIONS” in subchapter IV heading, struck out item 7341 “Receipt and display of foreign decorations”, and added item 7342.
 
 ----------
 
@@ -266,21 +266,21 @@ SUBCHAPTER VII—MANDATORY REMOVAL FROM EMPLOYMENT OF CONVICTED LAW ENFORCEMENT 
 ----------
 ----------
 
-[/us/pl/108/136/s1125/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1125%2Fb%2F3
+[/us/pl/108/136/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtXI
 [/us/stat/117/1640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1640
-[/us/pl/106/554/s1/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F3
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/103/94/s2/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F94%2Fs2%2Fb%2F2
+[/us/pl/103/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F94
 [/us/stat/107/1004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1004
-[/us/pl/101/194/s303/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194%2Fs303%2Fb
+[/us/pl/101/194/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194%2FtIII
 [/us/stat/103/1747]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1747
-[/us/pl/99/570/s6002/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs6002%2Fa%2F2
+[/us/pl/99/570/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2FtVI
 [/us/stat/100/3207-158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3207-158
-[/us/pl/96/191/s8/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F191%2Fs8%2Fe%2F2
+[/us/pl/96/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F191
 [/us/stat/94/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F33
-[/us/pl/90/351/s1001/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs1001%2Fb
+[/us/pl/90/351/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2FtV
 [/us/stat/82/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F235
-[/us/pl/90/83/s1/46]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83%2Fs1%2F46
+[/us/pl/90/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83
 [/us/stat/81/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F209
 
 

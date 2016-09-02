@@ -45,7 +45,7 @@
 
     (e) If an individual has dental coverage under a health benefits plan under chapter 89 and also has coverage under a plan under this chapter, the health benefits plan under chapter 89 shall be the first payor of any benefit payments.
 
-(Added [Pub. L. 108–496, § 2][/us/pl/108/496/s2], Dec. 23, 2004, [118 Stat. 4003][/us/stat/118/4003].)
+(Added [Pub. L. 108–496][/us/pl/108/496], § 2, Dec. 23, 2004, [118 Stat. 4003][/us/stat/118/4003].)
 
 ----------
 
@@ -54,7 +54,7 @@
 ----------
 ----------
 
-[/us/pl/108/496/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F496%2Fs2
+[/us/pl/108/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F496
 [/us/stat/118/4003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F4003
 
 

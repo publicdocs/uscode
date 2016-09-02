@@ -61,7 +61,7 @@
 
     (d) Nothing in this section shall be considered to prevent, with respect to a continuing medical emergency, further transfers of leave for use after leave accrued under this section has been exhausted by the employee.
 
-(Added [Pub. L. 100–566, § 2(a)][/us/pl/100/566/s2/a], Oct. 31, 1988, [102 Stat. 2837][/us/stat/102/2837]; amended [Pub. L. 103–103, § 4][/us/pl/103/103/s4], Oct. 8, 1993, [107 Stat. 1022][/us/stat/107/1022].)
+(Added [Pub. L. 100–566][/us/pl/100/566], § 2(a), Oct. 31, 1988, [102 Stat. 2837][/us/stat/102/2837]; amended [Pub. L. 103–103][/us/pl/103/103], § 4, Oct. 8, 1993, [107 Stat. 1022][/us/stat/107/1022].)
 
  __Amendments__ 
 
@@ -82,9 +82,9 @@
 ----------
 ----------
 
-[/us/pl/100/566/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F566%2Fs2%2Fa
+[/us/pl/100/566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F566
 [/us/stat/102/2837]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2837
-[/us/pl/103/103/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F103%2Fs4
+[/us/pl/103/103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F103
 [/us/stat/107/1022]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1022
 [/us/pl/103/103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F103
 [/us/pl/103/103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F103

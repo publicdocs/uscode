@@ -111,7 +111,7 @@
 
         (3) The Office shall prescribe regulations under which this subsection shall be applied in any case in which the Office receives two or more such orders or decrees.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 579][/us/stat/80/579]; [Pub. L. 90–83, § 1(81)][/us/pl/90/83/s1/81], Sept. 11, 1967, [81 Stat. 217][/us/stat/81/217]; [Pub. L. 95–454, title IX, § 906(a)(2)][/us/pl/95/454/s906/a/2], (3), Oct. 13, 1978, [92 Stat. 1224][/us/stat/92/1224]; [Pub. L. 97–253, title III, § 303(c)][/us/pl/97/253/s303/c], Sept. 8, 1982, [96 Stat. 794][/us/stat/96/794]; [Pub. L. 97–346, § 3(f)][/us/pl/97/346/s3/f], Oct. 15, 1982, [96 Stat. 1648][/us/stat/96/1648]; [Pub. L. 98–615, § 2(5)][/us/pl/98/615/s2/5], Nov. 8, 1984, [98 Stat. 3201][/us/stat/98/3201]; [Pub. L. 99–251, title II, § 208][/us/pl/99/251/s208], Feb. 27, 1986, [100 Stat. 25][/us/stat/100/25]; [Pub. L. 99–335, title II][/us/pl/99/335], §§ 204(b)(2), 207(h), June 6, 1986, [100 Stat. 592][/us/stat/100/592], 596; [Pub. L. 100–238, title I, § 105(b)][/us/pl/100/238/s105/b], Jan. 8, 1988, [101 Stat. 1746][/us/stat/101/1746]; [Pub. L. 101–508, title VII, § 7001(b)(2)(D)][/us/pl/101/508/s7001/b/2/D], Nov. 5, 1990, [104 Stat. 1388–329][/us/stat/104/1388-329]; [Pub. L. 106–361, § 3(a)][/us/pl/106/361/s3/a], Oct. 27, 2000, [114 Stat. 1402][/us/stat/114/1402].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 579][/us/stat/80/579]; [Pub. L. 90–83][/us/pl/90/83], § 1(81), Sept. 11, 1967, [81 Stat. 217][/us/stat/81/217]; [Pub. L. 95–454, title IX][/us/pl/95/454/tIX], § 906(a)(2), (3), Oct. 13, 1978, [92 Stat. 1224][/us/stat/92/1224]; [Pub. L. 97–253, title III][/us/pl/97/253/tIII], § 303(c), Sept. 8, 1982, [96 Stat. 794][/us/stat/96/794]; [Pub. L. 97–346][/us/pl/97/346], § 3(f), Oct. 15, 1982, [96 Stat. 1648][/us/stat/96/1648]; [Pub. L. 98–615][/us/pl/98/615], § 2(5), Nov. 8, 1984, [98 Stat. 3201][/us/stat/98/3201]; [Pub. L. 99–251, title II][/us/pl/99/251/tII], § 208, Feb. 27, 1986, [100 Stat. 25][/us/stat/100/25]; [Pub. L. 99–335, title II][/us/pl/99/335/tII], §§ 204(b)(2), 207(h), June 6, 1986, [100 Stat. 592][/us/stat/100/592], 596; [Pub. L. 100–238, title I][/us/pl/100/238/tI], § 105(b), Jan. 8, 1988, [101 Stat. 1746][/us/stat/101/1746]; [Pub. L. 101–508, title VII][/us/pl/101/508/tVII], § 7001(b)(2)(D), Nov. 5, 1990, [104 Stat. 1388–329][/us/stat/104/1388-329]; [Pub. L. 106–361][/us/pl/106/361], § 3(a), Oct. 27, 2000, [114 Stat. 1402][/us/stat/114/1402].)
 
 <table>
 
@@ -199,7 +199,7 @@ Oct. 4, 1961, Pub. L. 87–350, § 3, 75 Stat. 771.  </td>
 
 </table>
 
-    In subsection (a), the words “before October 1, 1956” are substituted for “prior to the effective date of the Civil Service Retirement Act Amendments of 1956” on authority of [§ 406 of the Act of July 31, 1956, ch. 804][/us/act/1956-07-31/ch804/s406], [70 Stat. 761][/us/stat/70/761].
+    In subsection (a), the words “before October 1, 1956” are substituted for “prior to the effective date of the Civil Service Retirement Act Amendments of 1956” on authority of § 406 of the [Act of July 31, 1956, ch. 804][/us/act/1956-07-31/ch804], [70 Stat. 761][/us/stat/70/761].
 
     In subsection (g), the words “the expiration of” are omitted as surplusage.
 
@@ -313,13 +313,13 @@ Apr. 25, 1966, Pub. L. 89–407, § 1 (less words before 1st comma), 80 Stat. 
 
     “(ii) payment of the lump-sum credit would extinguish entitlement of the former spouse to a survivor annuity under [section 8341(h) of this title][/us/usc/t5/s8341/h] or to any portion of an annuity under [section 8345(j) of this title][/us/usc/t5/s8345/j].”
 
-    1984—Subsec. (a). [Pub. L. 98–615, § 2(5)(A)][/us/pl/98/615/s2/5/A], substituted “Subject to subsection (j) of this section, an” for “An” in provisions preceding par. (1).
+    1984—Subsec. (a). [Pub. L. 98–615][/us/pl/98/615], § 2(5)(A), substituted “Subject to subsection (j) of this section, an” for “An” in provisions preceding par. (1).
 
-    Subsec. (j). [Pub. L. 98–615, § 2(5)(B)][/us/pl/98/615/s2/5/B], added subsec. (j).
+    Subsec. (j). [Pub. L. 98–615][/us/pl/98/615], § 2(5)(B), added subsec. (j).
 
     1982—Subsec. (a). [Pub. L. 97–346][/us/pl/97/346] substituted “such a position” for “such position” in par. (1)(B).
 
-    [Pub. L. 97–253, § 303(c)][/us/pl/97/253/s303/c], substituted provisions that an employee or Member who is separated from the service for at least 31 consecutive days or is transferred to a position in which he is not subject to this subchapter for 31 days, and who files an application with the Office of Personnel Management for payment of a lump-sum credit, is not reemployed in a position subject to this subchapter at the time of filing, and will not be eligible for an annuity within 31 days of filing, is entitled to be paid the lump-sum credit and upon receipt of such payment, all annuity rights based on the service upon which the credit is based are voided until reemployment under this subchapter occurs for provisions that such employee or Member who was separated from the service, or was transferred to a position in which he did not continue subject to this subchapter, was entitled to be paid the lump-sum credit if his separation or transfer occurred and application for payment was filed with the Office of Personnel Management at least 31 days before the earliest commencing date of any annuity for which he was eligible, that the receipt of payment of the lump-sum credit by the individual voided all annuity rights under this subchapter until he was reemployed in the service subject to this subchapter, and that this subsection also applied to an employee or Member separated before October 1, 1956, after completing at least 20 years of civilian service.
+    [Pub. L. 97–253][/us/pl/97/253], § 303(c), substituted provisions that an employee or Member who is separated from the service for at least 31 consecutive days or is transferred to a position in which he is not subject to this subchapter for 31 days, and who files an application with the Office of Personnel Management for payment of a lump-sum credit, is not reemployed in a position subject to this subchapter at the time of filing, and will not be eligible for an annuity within 31 days of filing, is entitled to be paid the lump-sum credit and upon receipt of such payment, all annuity rights based on the service upon which the credit is based are voided until reemployment under this subchapter occurs for provisions that such employee or Member who was separated from the service, or was transferred to a position in which he did not continue subject to this subchapter, was entitled to be paid the lump-sum credit if his separation or transfer occurred and application for payment was filed with the Office of Personnel Management at least 31 days before the earliest commencing date of any annuity for which he was eligible, that the receipt of payment of the lump-sum credit by the individual voided all annuity rights under this subchapter until he was reemployed in the service subject to this subchapter, and that this subsection also applied to an employee or Member separated before October 1, 1956, after completing at least 20 years of civilian service.
 
     1978—Subsecs. (a) to (c), (g). [Pub. L. 95–454][/us/pl/95/454] substituted “Office of Personnel Management” for “Civil Service Commission” and “Office” for “Commission”.
 
@@ -347,7 +347,7 @@ Apr. 25, 1966, Pub. L. 89–407, § 1 (less words before 1st comma), 80 Stat. 
 
  __Reestablishment of Right To Receive Annuity by Judges Who Received Lump-sum Credit__ 
 
-[Pub. L. 96–504, § 2][/us/pl/96/504/s2], Dec. 5, 1980, [94 Stat. 2741][/us/stat/94/2741], provided that: 
+[Pub. L. 96–504][/us/pl/96/504], § 2, Dec. 5, 1980, [94 Stat. 2741][/us/stat/94/2741], provided that: 
 
 > “A present or former justice or judge of the United States, as defined by [section 451 of title 28][/us/usc/t28/s451], United States Code, who, prior to the effective date of this section \[Dec. 5, 1980\], voided his right to receive an annuity under subchapter III of chapter 83 of title 5, United States Code, by applying for and receiving a refund of his lump-sum credit while serving as such a justice or judge may, upon application filed with the Office of Personnel Management within one year following the effective date of this section, redeposit such refund with interest computed under section 8334(e) of such title 5 and thereby reestablish his right to receive an annuity under such subchapter effective on the date he otherwise was eligible to receive an annuity. The surviving spouse of any such justice or judge who dies before the effective date of this section may apply to make such redeposit within one year following the effective date of this section and receive both (1) the amount of the annuity which the justice or judge would have been entitled to receive before his death had application been made by him for the annuity and (2) any survivor annuity the justice or judge could have provided under the provisions of law in effect at the time of separation from the service on which title to the annuity is based.”
 
@@ -364,27 +364,27 @@ Apr. 25, 1966, Pub. L. 89–407, § 1 (less words before 1st comma), 80 Stat. 
 [/us/usc/t5/s8343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8343
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F579
-[/us/pl/90/83/s1/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83%2Fs1%2F81
+[/us/pl/90/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83
 [/us/stat/81/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F217
-[/us/pl/95/454/s906/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs906%2Fa%2F2
+[/us/pl/95/454/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtIX
 [/us/stat/92/1224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1224
-[/us/pl/97/253/s303/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F253%2Fs303%2Fc
+[/us/pl/97/253/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F253%2FtIII
 [/us/stat/96/794]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F794
-[/us/pl/97/346/s3/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F346%2Fs3%2Ff
+[/us/pl/97/346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F346
 [/us/stat/96/1648]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1648
-[/us/pl/98/615/s2/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F615%2Fs2%2F5
+[/us/pl/98/615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F615
 [/us/stat/98/3201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3201
-[/us/pl/99/251/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F251%2Fs208
+[/us/pl/99/251/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F251%2FtII
 [/us/stat/100/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F25
-[/us/pl/99/335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335
+[/us/pl/99/335/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2FtII
 [/us/stat/100/592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F592
-[/us/pl/100/238/s105/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F238%2Fs105%2Fb
+[/us/pl/100/238/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F238%2FtI
 [/us/stat/101/1746]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1746
-[/us/pl/101/508/s7001/b/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs7001%2Fb%2F2%2FD
+[/us/pl/101/508/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtVII
 [/us/stat/104/1388-329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-329
-[/us/pl/106/361/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F361%2Fs3%2Fa
+[/us/pl/106/361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F361
 [/us/stat/114/1402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1402
-[/us/act/1956-07-31/ch804/s406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-07-31%2Fch804%2Fs406
+[/us/act/1956-07-31/ch804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-07-31%2Fch804
 [/us/stat/70/761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F761
 [/us/pl/99/335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335
 [/us/stat/100/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F514
@@ -404,10 +404,10 @@ Apr. 25, 1966, Pub. L. 89–407, § 1 (less words before 1st comma), 80 Stat. 
 [/us/pl/99/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F251
 [/us/usc/t5/s8341/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8341%2Fh
 [/us/usc/t5/s8345/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8345%2Fj
-[/us/pl/98/615/s2/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F615%2Fs2%2F5%2FA
-[/us/pl/98/615/s2/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F615%2Fs2%2F5%2FB
+[/us/pl/98/615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F615
+[/us/pl/98/615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F615
 [/us/pl/97/346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F346
-[/us/pl/97/253/s303/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F253%2Fs303%2Fc
+[/us/pl/97/253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F253
 [/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/pl/101/508/s7001/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs7001%2Fb%2F3
@@ -422,7 +422,7 @@ Apr. 25, 1966, Pub. L. 89–407, § 1 (less words before 1st comma), 80 Stat. 
 [/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454
 [/us/pl/95/454/s907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs907
 [/us/usc/t5/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs1101
-[/us/pl/96/504/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F504%2Fs2
+[/us/pl/96/504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F504
 [/us/stat/94/2741]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2741
 [/us/usc/t28/s451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs451
 

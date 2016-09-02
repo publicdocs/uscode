@@ -17,7 +17,7 @@
 
     The Secretary is authorized to issue regulations to carry out the provisions of this subchapter.
 
-(Added [Pub. L. 92–297, § 3(a)][/us/pl/92/297/s3/a], May 16, 1972, [86 Stat. 143][/us/stat/86/143]; amended [Pub. L. 96–347, § 1(b)][/us/pl/96/347/s1/b], Sept. 12, 1980, [94 Stat. 1150][/us/stat/94/1150].)
+(Added [Pub. L. 92–297][/us/pl/92/297], § 3(a), May 16, 1972, [86 Stat. 143][/us/stat/86/143]; amended [Pub. L. 96–347][/us/pl/96/347], § 1(b), Sept. 12, 1980, [94 Stat. 1150][/us/stat/94/1150].)
 
  __References in Text__ 
 
@@ -42,9 +42,9 @@
 ----------
 ----------
 
-[/us/pl/92/297/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F297%2Fs3%2Fa
+[/us/pl/92/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F297
 [/us/stat/86/143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F143
-[/us/pl/96/347/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F347%2Fs1%2Fb
+[/us/pl/96/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F347
 [/us/stat/94/1150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1150
 [/us/usc/t5/s2109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs2109
 [/us/pl/96/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F347

@@ -51,7 +51,7 @@
 
     (f) An employing agency may require that a request for leave under paragraph (1)(E) or (3) of section 6382(a) be supported by a certification issued at such time and in such manner as the Office of Personnel Management may by regulation prescribe.
 
-(Added [Pub. L. 103–3, title II, § 201(a)(1)][/us/pl/103/3/s201/a/1], Feb. 5, 1993, [107 Stat. 21][/us/stat/107/21]; amended [Pub. L. 110–181, div. A, title V, § 585(b)(3)(D)][/us/pl/110/181/s585/b/3/D], Jan. 28, 2008, [122 Stat. 132][/us/stat/122/132]; [Pub. L. 111–84, div. A, title V, § 565(b)(1)(C)][/us/pl/111/84/s565/b/1/C], Oct. 28, 2009, [123 Stat. 2311][/us/stat/123/2311].)
+(Added [Pub. L. 103–3, title II][/us/pl/103/3/tII], § 201(a)(1), Feb. 5, 1993, [107 Stat. 21][/us/stat/107/21]; amended [Pub. L. 110–181, div. A, title V][/us/pl/110/181/dA/tV], § 585(b)(3)(D), Jan. 28, 2008, [122 Stat. 132][/us/stat/122/132]; [Pub. L. 111–84, div. A, title V][/us/pl/111/84/dA/tV], § 565(b)(1)(C), Oct. 28, 2009, [123 Stat. 2311][/us/stat/123/2311].)
 
  __Amendments__ 
 
@@ -66,11 +66,11 @@
 ----------
 ----------
 
-[/us/pl/103/3/s201/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F3%2Fs201%2Fa%2F1
+[/us/pl/103/3/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F3%2FtII
 [/us/stat/107/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F21
-[/us/pl/110/181/s585/b/3/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs585%2Fb%2F3%2FD
+[/us/pl/110/181/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtV
 [/us/stat/122/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F132
-[/us/pl/111/84/s565/b/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs565%2Fb%2F1%2FC
+[/us/pl/111/84/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtV
 [/us/stat/123/2311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2311
 [/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
 [/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181

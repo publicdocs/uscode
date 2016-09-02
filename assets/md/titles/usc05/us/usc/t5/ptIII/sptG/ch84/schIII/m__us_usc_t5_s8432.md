@@ -295,11 +295,11 @@
 
         (3) For purposes of subsection (c), basic pay of an employee of the Central Intelligence Agency participating in the pilot project referred to in paragraph (1) shall include bonus pay received by the employee as part of the pilot project.
 
-(Added [Pub. L. 99–335, title I, § 101(a)][/us/pl/99/335/s101/a], June 6, 1986, [100 Stat. 541][/us/stat/100/541]; amended [Pub. L. 99–509, title VI, § 6001(a)(1)][/us/pl/99/509/s6001/a/1], (2), Oct. 21, 1986, [100 Stat. 1929][/us/stat/100/1929], 1930; [Pub. L. 100–20, § 1(b)][/us/pl/100/20/s1/b], Apr. 7, 1987, [101 Stat. 265][/us/stat/101/265]; [Pub. L. 100–238, title I][/us/pl/100/238], §§ 114, 115, 121, Jan. 8, 1988, [101 Stat. 1751][/us/stat/101/1751], 1752; [Pub. L. 103–353][/us/pl/103/353], §§ 4(c), 5(e)(3), Oct. 13, 1994, [108 Stat. 3172][/us/stat/108/3172], 3174; [Pub. L. 104–93, title III, § 304(a)][/us/pl/104/93/s304/a], Jan. 6, 1996, [109 Stat. 965][/us/stat/109/965]; [Pub. L. 104–186, title II, § 215(16)][/us/pl/104/186/s215/16], Aug. 20, 1996, [110 Stat. 1746][/us/stat/110/1746]; [Pub. L. 104–316, title I, § 103(g)][/us/pl/104/316/s103/g], Oct. 19, 1996, [110 Stat. 3829][/us/stat/110/3829]; [Pub. L. 106–361][/us/pl/106/361], §§ 1(a), 2(a), (b)(1)–(3), Oct. 27, 2000, [114 Stat. 1400][/us/stat/114/1400], 1401; [Pub. L. 106–554, § 1(a)(4)][/us/pl/106/554/s1/a/4] \[div. B, title I, § 138(a)(1)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–233; [Pub. L. 107–304, § 1(b)(1)][/us/pl/107/304/s1/b/1], Nov. 27, 2002, [116 Stat. 2363][/us/stat/116/2363]; [Pub. L. 108–177, title IV, § 405(b)(2)][/us/pl/108/177/s405/b/2], Dec. 13, 2003, [117 Stat. 2632][/us/stat/117/2632]; [Pub. L. 108–469, § 1(b)][/us/pl/108/469/s1/b], (c), (d)(2), Dec. 21, 2004, [118 Stat. 3891][/us/stat/118/3891]; [Pub. L. 111–31, div. B, title I, § 102][/us/pl/111/31/s102], June 22, 2009, [123 Stat. 1853][/us/stat/123/1853]; [Pub. L. 114–92, div. A, title VI, § 632(b)][/us/pl/114/92/s632/b], (c), Nov. 25, 2015, [129 Stat. 847][/us/stat/129/847].)
+(Added [Pub. L. 99–335, title I][/us/pl/99/335/tI], § 101(a), June 6, 1986, [100 Stat. 541][/us/stat/100/541]; amended [Pub. L. 99–509, title VI][/us/pl/99/509/tVI], § 6001(a)(1), (2), Oct. 21, 1986, [100 Stat. 1929][/us/stat/100/1929], 1930; [Pub. L. 100–20][/us/pl/100/20], § 1(b), Apr. 7, 1987, [101 Stat. 265][/us/stat/101/265]; [Pub. L. 100–238, title I][/us/pl/100/238/tI], §§ 114, 115, 121, Jan. 8, 1988, [101 Stat. 1751][/us/stat/101/1751], 1752; [Pub. L. 103–353][/us/pl/103/353], §§ 4(c), 5(e)(3), Oct. 13, 1994, [108 Stat. 3172][/us/stat/108/3172], 3174; [Pub. L. 104–93, title III][/us/pl/104/93/tIII], § 304(a), Jan. 6, 1996, [109 Stat. 965][/us/stat/109/965]; [Pub. L. 104–186, title II][/us/pl/104/186/tII], § 215(16), Aug. 20, 1996, [110 Stat. 1746][/us/stat/110/1746]; [Pub. L. 104–316, title I][/us/pl/104/316/tI], § 103(g), Oct. 19, 1996, [110 Stat. 3829][/us/stat/110/3829]; [Pub. L. 106–361][/us/pl/106/361], §§ 1(a), 2(a), (b)(1)–(3), Oct. 27, 2000, [114 Stat. 1400][/us/stat/114/1400], 1401; [Pub. L. 106–554][/us/pl/106/554], § 1(a)(4) \[div. B, title I, § 138(a)(1)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–233; [Pub. L. 107–304][/us/pl/107/304], § 1(b)(1), Nov. 27, 2002, [116 Stat. 2363][/us/stat/116/2363]; [Pub. L. 108–177, title IV][/us/pl/108/177/tIV], § 405(b)(2), Dec. 13, 2003, [117 Stat. 2632][/us/stat/117/2632]; [Pub. L. 108–469][/us/pl/108/469], § 1(b), (c), (d)(2), Dec. 21, 2004, [118 Stat. 3891][/us/stat/118/3891]; [Pub. L. 111–31, div. B, title I][/us/pl/111/31/dB/tI], § 102, June 22, 2009, [123 Stat. 1853][/us/stat/123/1853]; [Pub. L. 114–92, div. A, title VI][/us/pl/114/92/dA/tVI], § 632(b), (c), Nov. 25, 2015, [129 Stat. 847][/us/stat/129/847].)
 
  __Amendment of Subsections (b)(2) and (g)__ 
 
-    [Pub. L. 114–92, div. A, title VI][/us/pl/114/92], §§ 632(b), (c), 635, Nov. 25, 2015, [129 Stat. 847][/us/stat/129/847], 851, provided that, effective Jan. 1, 2018, with certain implementation requirements, this section is amended as follows:
+    [Pub. L. 114–92, div. A, title VI][/us/pl/114/92/dA/tVI], §§ 632(b), (c), 635, Nov. 25, 2015, [129 Stat. 847][/us/stat/129/847], 851, provided that, effective Jan. 1, 2018, with certain implementation requirements, this section is amended as follows:
 
     (1) in subsection (b)(2):
 
@@ -335,27 +335,27 @@
 
  __Amendments__ 
 
-    2015—Subsec. (b)(2)(D)(ii). [Pub. L. 114–92, § 632(b)(1)][/us/pl/114/92/s632/b/1], substituted “(ii) Except in the case of a full TSP member (as defined in section 8440e(a)), members” for “Members”.
+    2015—Subsec. (b)(2)(D)(ii). [Pub. L. 114–92][/us/pl/114/92], § 632(b)(1), substituted “(ii) Except in the case of a full TSP member (as defined in section 8440e(a)), members” for “Members”.
 
-    Subsec. (b)(2)(E). [Pub. L. 114–92, § 632(b)(2)][/us/pl/114/92/s632/b/2], substituted “8440e(b)(1)” for “8440e(a)(1)”.
+    Subsec. (b)(2)(E). [Pub. L. 114–92][/us/pl/114/92], § 632(b)(2), substituted “8440e(b)(1)” for “8440e(a)(1)”.
 
-    Subsec. (b)(2)(F). [Pub. L. 114–92, § 632(b)(3)][/us/pl/114/92/s632/b/3], added subpar. (F).
+    Subsec. (b)(2)(F). [Pub. L. 114–92][/us/pl/114/92], § 632(b)(3), added subpar. (F).
 
-    Subsec. (g)(2)(C). [Pub. L. 114–92, § 632(c)(1)][/us/pl/114/92/s632/c/1], added subpar. (C).
+    Subsec. (g)(2)(C). [Pub. L. 114–92][/us/pl/114/92], § 632(c)(1), added subpar. (C).
 
-    Subsec. (g)(6). [Pub. L. 114–92, § 632(c)(2)][/us/pl/114/92/s632/c/2], added par. (6).
+    Subsec. (g)(6). [Pub. L. 114–92][/us/pl/114/92], § 632(c)(2), added par. (6).
 
-    2009—Subsec. (b)(1)(B). [Pub. L. 111–31, § 102(b)][/us/pl/111/31/s102/b], which directed the amendment of par. (1) by “striking the parenthetical matter in subparagraph (B)” was executed by striking out “(or any election allowable by virtue of paragraph (4))” before “shall be the percentage”, but not striking out “(A)” after “subparagraph”, to reflect the probable intent of Congress.
+    2009—Subsec. (b)(1)(B). [Pub. L. 111–31][/us/pl/111/31], § 102(b), which directed the amendment of par. (1) by “striking the parenthetical matter in subparagraph (B)” was executed by striking out “(or any election allowable by virtue of paragraph (4))” before “shall be the percentage”, but not striking out “(A)” after “subparagraph”, to reflect the probable intent of Congress.
 
-    Subsec. (b)(2) to (4). [Pub. L. 111–31, § 102(a)][/us/pl/111/31/s102/a], added par. (2) and struck out former pars. (2) to (4) which related to eligibility to make an election regarding contributions.
+    Subsec. (b)(2) to (4). [Pub. L. 111–31][/us/pl/111/31], § 102(a), added par. (2) and struck out former pars. (2) to (4) which related to eligibility to make an election regarding contributions.
 
-    2004—Subsec. (b)(1)(A). [Pub. L. 108–469, § 1(b)][/us/pl/108/469/s1/b], designated existing provisions as cl. (i), substituted “may” for “shall be afforded a reasonable period every 6 months to elect to”, struck out second sentence which read “An election to make such contributions shall remain in effect until modified or terminated.”, and added cl. (ii).
+    2004—Subsec. (b)(1)(A). [Pub. L. 108–469][/us/pl/108/469], § 1(b), designated existing provisions as cl. (i), substituted “may” for “shall be afforded a reasonable period every 6 months to elect to”, struck out second sentence which read “An election to make such contributions shall remain in effect until modified or terminated.”, and added cl. (ii).
 
-    Subsec. (b)(2)(A), (C). [Pub. L. 108–469, § 1(d)(2)(A)][/us/pl/108/469/s1/d/2/A], (B), substituted “until the date” for “until the second period”.
+    Subsec. (b)(2)(A), (C). [Pub. L. 108–469][/us/pl/108/469], § 1(d)(2)(A), (B), substituted “until the date” for “until the second period”.
 
-    Subsec. (b)(2)(D). [Pub. L. 108–469, § 1(d)(2)(C)][/us/pl/108/469/s1/d/2/C], substituted “as provided” for “other than during a period afforded”.
+    Subsec. (b)(2)(D). [Pub. L. 108–469][/us/pl/108/469], § 1(d)(2)(C), substituted “as provided” for “other than during a period afforded”.
 
-    Subsec. (b)(4)(C). [Pub. L. 108–469, § 1(c)][/us/pl/108/469/s1/c], designated existing provisions as cl. (i) and added cl. (ii).
+    Subsec. (b)(4)(C). [Pub. L. 108–469][/us/pl/108/469], § 1(c), designated existing provisions as cl. (i) and added cl. (ii).
 
     2003—Subsec. (k). [Pub. L. 108–177][/us/pl/108/177] added subsec. (k).
 
@@ -363,19 +363,19 @@
 
     2000—Subsec. (a). [Pub. L. 106–554][/us/pl/106/554] designated existing provisions as par. (1), substituted “the maximum percentage of such employee’s or Member’s basic pay for such pay period allowable under paragraph (2).” for “10 percent of such individual’s basic pay for such period.”, and added par. (2).
 
-    [Pub. L. 106–361, § 2(b)(1)][/us/pl/106/361/s2/b/1], substituted “(b)” for “(b)(1)” and “Contributions under this subsection pursuant to such an election shall, with respect to each pay period for which such election remains in effect, be made in accordance with a program of regular contributions provided in regulations prescribed by the Executive Director” for “Contributions made under this subsection during any 6-month period for which an election period is provided under subsection (b)(1) shall be made each pay period during such 6-month period pursuant to a program of regular contributions provided in regulations prescribed by the Executive Director”.
+    [Pub. L. 106–361][/us/pl/106/361], § 2(b)(1), substituted “(b)” for “(b)(1)” and “Contributions under this subsection pursuant to such an election shall, with respect to each pay period for which such election remains in effect, be made in accordance with a program of regular contributions provided in regulations prescribed by the Executive Director” for “Contributions made under this subsection during any 6-month period for which an election period is provided under subsection (b)(1) shall be made each pay period during such 6-month period pursuant to a program of regular contributions provided in regulations prescribed by the Executive Director”.
 
-    Subsec. (b)(1)(B). [Pub. L. 106–361, § 2(b)(2)][/us/pl/106/361/s2/b/2], inserted “(or any election allowable by virtue of paragraph (4))” after “subparagraph (A)”.
+    Subsec. (b)(1)(B). [Pub. L. 106–361][/us/pl/106/361], § 2(b)(2), inserted “(or any election allowable by virtue of paragraph (4))” after “subparagraph (A)”.
 
-    Subsec. (b)(3). [Pub. L. 106–361, § 2(b)(3)][/us/pl/106/361/s2/b/3], substituted “An” for “Notwithstanding paragraph (2)(A), an”.
+    Subsec. (b)(3). [Pub. L. 106–361][/us/pl/106/361], § 2(b)(3), substituted “An” for “Notwithstanding paragraph (2)(A), an”.
 
-    Subsec. (b)(4). [Pub. L. 106–361, § 2(a)][/us/pl/106/361/s2/a], amended par. (4) generally. Prior to amendment, par. (4) read as follows:
+    Subsec. (b)(4). [Pub. L. 106–361][/us/pl/106/361], § 2(a), amended par. (4) generally. Prior to amendment, par. (4) read as follows:
 
     “(A) Notwithstanding paragraph (2)(A), an employee or Member who is an employee or Member on January 1, 1987, and continues as an employee or Member without a break in service through April 1, 1987, may make the first election for the purpose of subsection (a) during the election period prescribed for such purpose by the Executive Director. The Executive Director shall prescribe an election period for such purpose which shall commence on April 1, 1987. An election by such an employee or Member during that election period shall be effective on the first day of the employee’s or Member’s first pay period which begins after the date on which the employee or Member makes that election.
 
     “(B) Notwithstanding subsection (a), the maximum amount that an employee or Member may contribute during any pay period which begins on or after April 1, 1987, and before October 1, 1987, pursuant to an election made during the election period provided under subparagraph (A) is the amount equal to 15 percent of such individual’s basic pay for such pay period.”
 
-    Subsec. (j). [Pub. L. 106–361, § 1(a)][/us/pl/106/361/s1/a], added subsec. (j).
+    Subsec. (j). [Pub. L. 106–361][/us/pl/106/361], § 1(a), added subsec. (j).
 
     1996—Subsec. (e). [Pub. L. 104–186][/us/pl/104/186] substituted “Chief Administrative Officer of the House of Representatives, the Chief Administrative Officer may pay from the applicable accounts” for “Clerk of the House of Representatives, the Clerk may pay from the contingent fund”.
 
@@ -383,31 +383,31 @@
 
     Subsec. (g)(5). [Pub. L. 104–93][/us/pl/104/93] added par. (5).
 
-    1994—Subsec. (d). [Pub. L. 103–353, § 5(e)(3)][/us/pl/103/353/s5/e/3], substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
+    1994—Subsec. (d). [Pub. L. 103–353][/us/pl/103/353], § 5(e)(3), substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 
-    Subsec. (i). [Pub. L. 103–353, § 4(c)][/us/pl/103/353/s4/c], added subsec. (i).
+    Subsec. (i). [Pub. L. 103–353][/us/pl/103/353], § 4(c), added subsec. (i).
 
-    1988—Subsec. (c)(1)(A). [Pub. L. 100–238, § 121(a)][/us/pl/100/238/s121/a], substituted “At the time prescribed by the Executive Director, but no later than 12 days after the end of” for “At the end of” and “within such time as the Executive Director may prescribe with respect to succeeding pay periods (but no later than 12 days after the end of each such pay period)” for “at the end of each succeeding pay period”.
+    1988—Subsec. (c)(1)(A). [Pub. L. 100–238][/us/pl/100/238], § 121(a), substituted “At the time prescribed by the Executive Director, but no later than 12 days after the end of” for “At the end of” and “within such time as the Executive Director may prescribe with respect to succeeding pay periods (but no later than 12 days after the end of each such pay period)” for “at the end of each succeeding pay period”.
 
-    Subsec. (c)(2)(A). [Pub. L. 100–238, § 121(b)][/us/pl/100/238/s121/b], substituted “within such time as the Executive Director may prescribe, but no later than 12 days after the end of each such pay period” for “at the end of such pay period”.
+    Subsec. (c)(2)(A). [Pub. L. 100–238][/us/pl/100/238], § 121(b), substituted “within such time as the Executive Director may prescribe, but no later than 12 days after the end of each such pay period” for “at the end of such pay period”.
 
-    Subsec. (d). [Pub. L. 100–238, § 114][/us/pl/100/238/s114], inserted at end “However, no contribution made under subsection (c)(3) shall be subject to, or taken into account, for purposes of the preceding sentence.”
+    Subsec. (d). [Pub. L. 100–238][/us/pl/100/238], § 114, inserted at end “However, no contribution made under subsection (c)(3) shall be subject to, or taken into account, for purposes of the preceding sentence.”
 
-    Subsec. (g)(1). [Pub. L. 100–238, § 115(1)][/us/pl/100/238/s115/1], substituted “Except as otherwise provided in this subsection” for “Except as provided in paragraphs (2) and (3)”.
+    Subsec. (g)(1). [Pub. L. 100–238][/us/pl/100/238], § 115(1), substituted “Except as otherwise provided in this subsection” for “Except as provided in paragraphs (2) and (3)”.
 
-    Subsec. (g)(4). [Pub. L. 100–238, § 115(2)][/us/pl/100/238/s115/2], added par. (4).
+    Subsec. (g)(4). [Pub. L. 100–238][/us/pl/100/238], § 115(2), added par. (4).
 
     1987—Subsec. (b)(4)(A). [Pub. L. 100–20][/us/pl/100/20] substituted “Notwithstanding paragraph (2)(A), an employee or Member who is an employee or Member on January 1, 1987, and continues as an employee or Member without a break in service through April 1, 1987, may make the first election for the purpose of subsection (a) during the election period prescribed for such purpose by the Executive Director” for “Notwithstanding paragraph (2)(A), an employee or Member who is an employee or Member on January 1, 1987, continues as an employee or Member without a break in service through April 1, 1987, and has creditable service described in [section 8411(b)(2) of this title][/us/usc/t5/s8411/b/2] may make the first election for the purpose of subsection (a) during the election period prescribed for such purpose by the Executive Director”.
 
-    1986—Subsec. (b)(4). [Pub. L. 99–509, § 6001(a)(1)][/us/pl/99/509/s6001/a/1], designated existing provisions as subpar. (A), inserted “continues as an employee or Member without a break in service through April 1, 1987,” substituted “April 1, 1987” for “January 1, 1987”, substituted “the date on which the employee or Member makes that election” for “the last day of that election period”, and added subpar. (B).
+    1986—Subsec. (b)(4). [Pub. L. 99–509][/us/pl/99/509], § 6001(a)(1), designated existing provisions as subpar. (A), inserted “continues as an employee or Member without a break in service through April 1, 1987,” substituted “April 1, 1987” for “January 1, 1987”, substituted “the date on which the employee or Member makes that election” for “the last day of that election period”, and added subpar. (B).
 
-    Subsec. (c)(1). [Pub. L. 99–509, § 6001(a)(2)(A)][/us/pl/99/509/s6001/a/2/A], designated existing provisions as subpar. (A) and added subpars. (B) and (C).
+    Subsec. (c)(1). [Pub. L. 99–509][/us/pl/99/509], § 6001(a)(2)(A), designated existing provisions as subpar. (A) and added subpars. (B) and (C).
 
-    Subsec. (c)(2)(C). [Pub. L. 99–509, § 6001(a)(2)(B)][/us/pl/99/509/s6001/a/2/B], added subpar. (C).
+    Subsec. (c)(2)(C). [Pub. L. 99–509][/us/pl/99/509], § 6001(a)(2)(B), added subpar. (C).
 
  __Effective Date of 2015 Amendment; Implementation__ 
 
-[Pub. L. 114–92, div. A, title VI, § 635][/us/pl/114/92/s635], Nov. 25, 2015, [129 Stat. 851][/us/stat/129/851], provided that:
+[Pub. L. 114–92, div. A, title VI][/us/pl/114/92/dA/tVI], § 635, Nov. 25, 2015, [129 Stat. 851][/us/stat/129/851], provided that:
 
 >     “(a)  __Effective Date__  __.—__ 
 
@@ -447,13 +447,13 @@
 
  __Effective Date of 2000 Amendment__ 
 
-[Pub. L. 106–361, § 1(b)][/us/pl/106/361/s1/b], Oct. 27, 2000, [114 Stat. 1400][/us/stat/114/1400], provided that: 
+[Pub. L. 106–361][/us/pl/106/361], § 1(b), Oct. 27, 2000, [114 Stat. 1400][/us/stat/114/1400], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall take effect at the earliest practicable date after September 30, 2000, as determined by the Executive Director in regulations.”
 
  \[Final regulations implementing the amendments became effective May 2, 2001. See 66 F.R. 22088.\]
 
-[Pub. L. 106–361, § 2(c)(1)][/us/pl/106/361/s2/c/1], Oct. 27, 2000, [114 Stat. 1401][/us/stat/114/1401], provided that: 
+[Pub. L. 106–361][/us/pl/106/361], § 2(c)(1), Oct. 27, 2000, [114 Stat. 1401][/us/stat/114/1401], provided that: 
 
 > “The amendments made by this section \[amending this section and sections 8439, 8440a, and 8440d of this title\] shall take effect at the earliest practicable date after September 30, 2000, as determined by the Executive Director in regulations.”
 
@@ -461,7 +461,7 @@
 
  __Effective Date of 1996 Amendment__ 
 
-[Pub. L. 104–93, title III, § 304(b)][/us/pl/104/93/s304/b], Jan. 6, 1996, [109 Stat. 965][/us/stat/109/965], provided that: 
+[Pub. L. 104–93, title III][/us/pl/104/93/tIII], § 304(b), Jan. 6, 1996, [109 Stat. 965][/us/stat/109/965], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply to offenses upon which the requisite annuity forfeitures are based occurring on or after the date of the enactment of this Act \[Jan. 6, 1996\].”
 
@@ -473,25 +473,25 @@
 
  __Effective Date of 1986 Amendment__ 
 
-[Pub. L. 99–509, title VI, § 6001(f)][/us/pl/99/509/s6001/f], Oct. 21, 1986, [100 Stat. 1931][/us/stat/100/1931], provided that: 
+[Pub. L. 99–509, title VI][/us/pl/99/509/tVI], § 6001(f), Oct. 21, 1986, [100 Stat. 1931][/us/stat/100/1931], provided that: 
 
 > “This section \[amending this section and [section 8472 of this title][/us/usc/t5/s8472], enacting provisions set out as notes under this section, and amending provisions set out as a note under [section 8351 of this title][/us/usc/t5/s8351]\], other than subsection (d) \[set out below\], and the amendments made by this section shall take effect on January 1, 1987.”
 
  __Regulations__ 
 
-[Pub. L. 99–509, title VI, § 6001(d)][/us/pl/99/509/s6001/d], Oct. 21, 1986, [100 Stat. 1931][/us/stat/100/1931], provided that: 
+[Pub. L. 99–509, title VI][/us/pl/99/509/tVI], § 6001(d), Oct. 21, 1986, [100 Stat. 1931][/us/stat/100/1931], provided that: 
 
 > “The Executive Director of the Federal Retirement Thrift Investment Board may prescribe regulations to carry out subsections (a), (b), and (c) \[amending this section, enacting provisions set out as notes under this section, and amending provisions set out as a note under [section 8351 of this title][/us/usc/t5/s8351]\] and the amendments made by subsections (a) and (b).”
 
  __Savings Provisions__ 
 
-[Pub. L. 106–361, § 2(c)(2)][/us/pl/106/361/s2/c/2], Oct. 27, 2000, [114 Stat. 1401][/us/stat/114/1401], provided that: 
+[Pub. L. 106–361][/us/pl/106/361], § 2(c)(2), Oct. 27, 2000, [114 Stat. 1401][/us/stat/114/1401], provided that: 
 
 > “Notwithstanding any other provision of this section \[amending this section and sections 8439, 8440a, and 8440d of this title and enacting provisions set out as a note under this section\], until the amendments made by this section take effect \[see Effective Date of 2000 Amendment note above\], title 5, United States Code, shall be applied as if this section had not been enacted.”
 
  __Eligibility of Certain Individuals To Participate in Thrift Savings Plan__ 
 
-[Pub. L. 100–238, title I, § 125][/us/pl/100/238/s125], Jan. 8, 1988. [101 Stat. 1756][/us/stat/101/1756], as amended by [Pub. L. 107–347, title II, § 209(g)(3)][/us/pl/107/347/s209/g/3], Dec. 17, 2002, [116 Stat. 2932][/us/stat/116/2932]; [Pub. L. 110–234, title VII, § 7101(b)(6)][/us/pl/110/234/s7101/b/6], May 22, 2008, [122 Stat. 1214][/us/stat/122/1214]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VII, § 7101(b)(6), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1975, provided that:
+[Pub. L. 100–238, title I][/us/pl/100/238/tI], § 125, Jan. 8, 1988. [101 Stat. 1756][/us/stat/101/1756], as amended by [Pub. L. 107–347, title II][/us/pl/107/347/tII], § 209(g)(3), Dec. 17, 2002, [116 Stat. 2932][/us/stat/116/2932]; [Pub. L. 110–234, title VII][/us/pl/110/234/tVII], § 7101(b)(6), May 22, 2008, [122 Stat. 1214][/us/stat/122/1214]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title VII, § 7101(b)(6), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1975, provided that:
 
 >     “(a)  __Definitions__  __.—__ 
 
@@ -545,15 +545,15 @@
 
  __Contributions to Thrift Savings Fund__ 
 
-    [Pub. L. 99–509, title VI, § 6001(a)(3)][/us/pl/99/509/s6001/a/3], Oct. 21, 1986, [100 Stat. 1930][/us/stat/100/1930], directed that contributions made to Thrift Savings Fund under [5 U.S.C. 8432(c)(1)(B)][/us/usc/t5/s8432/c/1/B], (C) and (3) be made as soon as practicable during the 15-day period which began on Apr. 1, 1987.
+    [Pub. L. 99–509, title VI][/us/pl/99/509/tVI], § 6001(a)(3), Oct. 21, 1986, [100 Stat. 1930][/us/stat/100/1930], directed that contributions made to Thrift Savings Fund under [5 U.S.C. 8432(c)(1)(B)][/us/usc/t5/s8432/c/1/B], (C) and (3) be made as soon as practicable during the 15-day period which began on Apr. 1, 1987.
 
  __Inapplicability of Limitation on Number of Elections Within a Six-Month Period__ 
 
-    [Pub. L. 99–509, title VI, § 6001(c)][/us/pl/99/509/s6001/c], Oct. 21, 1986, [100 Stat. 1931][/us/stat/100/1931], provided that the requirement that contributions be made for a 6-month period after an election, as provided in [5 U.S.C. 8432(a)][/us/usc/t5/s8432/a], did not apply to contributions made pursuant to an election made during the period provided in former [5 U.S.C. 8432(b)(4)][/us/usc/t5/s8432/b/4] or [section 206(b) of Pub. L. 99–335][/us/pl/99/335/s206/b], formerly set out as a note under [section 8351 of this title][/us/usc/t5/s8351]; that the first election period prescribed under [5 U.S.C. 8432(b)(1)][/us/usc/t5/s8432/b/1] commence on July 1, 1987; and that each employee or Member who made such an election could make an election under [5 U.S.C. 8432(b)(1)][/us/usc/t5/s8432/b/1] during the election period that began on July 1, 1987.
+    [Pub. L. 99–509, title VI][/us/pl/99/509/tVI], § 6001(c), Oct. 21, 1986, [100 Stat. 1931][/us/stat/100/1931], provided that the requirement that contributions be made for a 6-month period after an election, as provided in [5 U.S.C. 8432(a)][/us/usc/t5/s8432/a], did not apply to contributions made pursuant to an election made during the period provided in former [5 U.S.C. 8432(b)(4)][/us/usc/t5/s8432/b/4] or [section 206(b) of Pub. L. 99–335][/us/pl/99/335/s206/b], formerly set out as a note under [section 8351 of this title][/us/usc/t5/s8351]; that the first election period prescribed under [5 U.S.C. 8432(b)(1)][/us/usc/t5/s8432/b/1] commence on July 1, 1987; and that each employee or Member who made such an election could make an election under [5 U.S.C. 8432(b)(1)][/us/usc/t5/s8432/b/1] during the election period that began on July 1, 1987.
 
  __Plan for Delayed Contributions to Thrift Savings Fund__ 
 
-    [Pub. L. 99–335, title III, § 312][/us/pl/99/335/s312], June 6, 1986, [100 Stat. 608][/us/stat/100/608], directed Executive Director of Federal Retirement Thrift Investment Board to transmit to Congress, not later than Jan. 1, 1988, a plan to afford Federal employees and Members of Congress who make less than maximum amount of authorized contributions to Thrift Savings Fund in any period an opportunity to contribute to such Fund, in a later period, the excess of such amount over the amount contributed during such period, with plan to include such recommendations for legislation as Executive Director considered appropriate.
+    [Pub. L. 99–335, title III][/us/pl/99/335/tIII], § 312, June 6, 1986, [100 Stat. 608][/us/stat/100/608], directed Executive Director of Federal Retirement Thrift Investment Board to transmit to Congress, not later than Jan. 1, 1988, a plan to afford Federal employees and Members of Congress who make less than maximum amount of authorized contributions to Thrift Savings Fund in any period an opportunity to contribute to such Fund, in a later period, the excess of such amount over the amount contributed during such period, with plan to include such recommendations for legislation as Executive Director considered appropriate.
 
 ----------
 
@@ -570,37 +570,37 @@
 [/us/usc/t5/s8351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8351
 [/us/pl/107/306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306
 [/us/usc/t50/s403–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs403%E2%80%934
-[/us/pl/99/335/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2Fs101%2Fa
+[/us/pl/99/335/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2FtI
 [/us/stat/100/541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F541
-[/us/pl/99/509/s6001/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs6001%2Fa%2F1
+[/us/pl/99/509/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2FtVI
 [/us/stat/100/1929]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1929
-[/us/pl/100/20/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F20%2Fs1%2Fb
+[/us/pl/100/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F20
 [/us/stat/101/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F265
-[/us/pl/100/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F238
+[/us/pl/100/238/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F238%2FtI
 [/us/stat/101/1751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1751
 [/us/pl/103/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F353
 [/us/stat/108/3172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3172
-[/us/pl/104/93/s304/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F93%2Fs304%2Fa
+[/us/pl/104/93/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F93%2FtIII
 [/us/stat/109/965]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F965
-[/us/pl/104/186/s215/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2Fs215%2F16
+[/us/pl/104/186/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2FtII
 [/us/stat/110/1746]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1746
-[/us/pl/104/316/s103/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2Fs103%2Fg
+[/us/pl/104/316/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2FtI
 [/us/stat/110/3829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3829
 [/us/pl/106/361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F361
 [/us/stat/114/1400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1400
-[/us/pl/106/554/s1/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F4
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/107/304/s1/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F304%2Fs1%2Fb%2F1
+[/us/pl/107/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F304
 [/us/stat/116/2363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2363
-[/us/pl/108/177/s405/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F177%2Fs405%2Fb%2F2
+[/us/pl/108/177/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F177%2FtIV
 [/us/stat/117/2632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2632
-[/us/pl/108/469/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F469%2Fs1%2Fb
+[/us/pl/108/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F469
 [/us/stat/118/3891]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3891
-[/us/pl/111/31/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31%2Fs102
+[/us/pl/111/31/dB/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31%2FdB%2FtI
 [/us/stat/123/1853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1853
-[/us/pl/114/92/s632/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs632%2Fb
+[/us/pl/114/92/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtVI
 [/us/stat/129/847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F847
-[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/pl/114/92/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtVI
 [/us/stat/129/847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F847
 [/us/pl/111/31/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31%2Fs102%2Fa
 [/us/pl/98/168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F168
@@ -609,41 +609,41 @@
 [/us/stat/116/2383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2383
 [/us/usc/t50/s403–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs403%E2%80%934
 [/us/usc/t50/s3505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3505
-[/us/pl/114/92/s632/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs632%2Fb%2F1
-[/us/pl/114/92/s632/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs632%2Fb%2F2
-[/us/pl/114/92/s632/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs632%2Fb%2F3
-[/us/pl/114/92/s632/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs632%2Fc%2F1
-[/us/pl/114/92/s632/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs632%2Fc%2F2
-[/us/pl/111/31/s102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31%2Fs102%2Fb
-[/us/pl/111/31/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31%2Fs102%2Fa
-[/us/pl/108/469/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F469%2Fs1%2Fb
-[/us/pl/108/469/s1/d/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F469%2Fs1%2Fd%2F2%2FA
-[/us/pl/108/469/s1/d/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F469%2Fs1%2Fd%2F2%2FC
-[/us/pl/108/469/s1/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F469%2Fs1%2Fc
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/pl/111/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31
+[/us/pl/111/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31
+[/us/pl/108/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F469
+[/us/pl/108/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F469
+[/us/pl/108/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F469
+[/us/pl/108/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F469
 [/us/pl/108/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F177
 [/us/pl/107/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F304
 [/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
-[/us/pl/106/361/s2/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F361%2Fs2%2Fb%2F1
-[/us/pl/106/361/s2/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F361%2Fs2%2Fb%2F2
-[/us/pl/106/361/s2/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F361%2Fs2%2Fb%2F3
-[/us/pl/106/361/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F361%2Fs2%2Fa
-[/us/pl/106/361/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F361%2Fs1%2Fa
+[/us/pl/106/361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F361
+[/us/pl/106/361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F361
+[/us/pl/106/361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F361
+[/us/pl/106/361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F361
+[/us/pl/106/361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F361
 [/us/pl/104/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186
 [/us/pl/104/316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316
 [/us/pl/104/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F93
-[/us/pl/103/353/s5/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F353%2Fs5%2Fe%2F3
-[/us/pl/103/353/s4/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F353%2Fs4%2Fc
-[/us/pl/100/238/s121/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F238%2Fs121%2Fa
-[/us/pl/100/238/s121/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F238%2Fs121%2Fb
-[/us/pl/100/238/s114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F238%2Fs114
-[/us/pl/100/238/s115/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F238%2Fs115%2F1
-[/us/pl/100/238/s115/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F238%2Fs115%2F2
+[/us/pl/103/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F353
+[/us/pl/103/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F353
+[/us/pl/100/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F238
+[/us/pl/100/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F238
+[/us/pl/100/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F238
+[/us/pl/100/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F238
+[/us/pl/100/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F238
 [/us/pl/100/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F20
 [/us/usc/t5/s8411/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8411%2Fb%2F2
-[/us/pl/99/509/s6001/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs6001%2Fa%2F1
-[/us/pl/99/509/s6001/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs6001%2Fa%2F2%2FA
-[/us/pl/99/509/s6001/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs6001%2Fa%2F2%2FB
-[/us/pl/114/92/s635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs635
+[/us/pl/99/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509
+[/us/pl/99/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509
+[/us/pl/99/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509
+[/us/pl/114/92/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtVI
 [/us/stat/129/851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F851
 [/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
 [/us/usc/t10/s1415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1415
@@ -655,11 +655,11 @@
 [/us/pl/107/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F304
 [/us/pl/107/304/s1/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F304%2Fs1%2Fc
 [/us/usc/t5/s8351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8351
-[/us/pl/106/361/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F361%2Fs1%2Fb
+[/us/pl/106/361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F361
 [/us/stat/114/1400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1400
-[/us/pl/106/361/s2/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F361%2Fs2%2Fc%2F1
+[/us/pl/106/361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F361
 [/us/stat/114/1401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1401
-[/us/pl/104/93/s304/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F93%2Fs304%2Fb
+[/us/pl/104/93/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F93%2FtIII
 [/us/stat/109/965]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F965
 [/us/pl/103/353/s4/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F353%2Fs4%2Fc
 [/us/pl/103/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F353
@@ -667,30 +667,30 @@
 [/us/pl/103/353/s5/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F353%2Fs5%2Fe%2F3
 [/us/pl/103/353/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F353%2Fs8
 [/us/usc/t38/s4301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs4301
-[/us/pl/99/509/s6001/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs6001%2Ff
+[/us/pl/99/509/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2FtVI
 [/us/stat/100/1931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1931
 [/us/usc/t5/s8472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8472
 [/us/usc/t5/s8351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8351
-[/us/pl/99/509/s6001/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs6001%2Fd
+[/us/pl/99/509/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2FtVI
 [/us/stat/100/1931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1931
 [/us/usc/t5/s8351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8351
-[/us/pl/106/361/s2/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F361%2Fs2%2Fc%2F2
+[/us/pl/106/361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F361
 [/us/stat/114/1401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1401
-[/us/pl/100/238/s125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F238%2Fs125
+[/us/pl/100/238/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F238%2FtI
 [/us/stat/101/1756]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1756
-[/us/pl/107/347/s209/g/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347%2Fs209%2Fg%2F3
+[/us/pl/107/347/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347%2FtII
 [/us/stat/116/2932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2932
-[/us/pl/110/234/s7101/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs7101%2Fb%2F6
+[/us/pl/110/234/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtVII
 [/us/stat/122/1214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1214
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/usc/t5/s8474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8474
 [/us/usc/t5/s8432/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8432%2Fc
 [/us/usc/t7/s3103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs3103
-[/us/pl/99/509/s6001/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs6001%2Fa%2F3
+[/us/pl/99/509/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2FtVI
 [/us/stat/100/1930]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1930
 [/us/usc/t5/s8432/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8432%2Fc%2F1%2FB
-[/us/pl/99/509/s6001/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs6001%2Fc
+[/us/pl/99/509/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2FtVI
 [/us/stat/100/1931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1931
 [/us/usc/t5/s8432/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8432%2Fa
 [/us/usc/t5/s8432/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8432%2Fb%2F4
@@ -698,7 +698,7 @@
 [/us/usc/t5/s8351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8351
 [/us/usc/t5/s8432/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8432%2Fb%2F1
 [/us/usc/t5/s8432/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8432%2Fb%2F1
-[/us/pl/99/335/s312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2Fs312
+[/us/pl/99/335/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2FtIII
 [/us/stat/100/608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F608
 
 

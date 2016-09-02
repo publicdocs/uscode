@@ -13,9 +13,9 @@
 
 [Previous](./../../../../../../..//us/usc/t5/ptIII/sptB/ch33/schVIII/m__us_usc_t5_s3393.md) | [Next](./../../../../../../..//us/usc/t5/ptIII/sptB/ch33/schVIII/m__us_usc_t5_s3394.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3393a)
 
-## \[§ 3393a. Repealed. [Pub. L. 107–296, title XIII, § 1321(a)(1)(B)][/us/pl/107/296/s1321/a/1/B], Nov. 25, 2002, [116 Stat. 2296][/us/stat/116/2296]\]
+## \[§ 3393a. Repealed. [Pub. L. 107–296, title XIII][/us/pl/107/296/tXIII], § 1321(a)(1)(B), Nov. 25, 2002, [116 Stat. 2296][/us/stat/116/2296]\]
 
-    Section, added [Pub. L. 101–194, title V, § 506(a)(1)][/us/pl/101/194/s506/a/1], Nov. 30, 1989, [103 Stat. 1756][/us/stat/103/1756], related to recertification of career appointees.
+    Section, added [Pub. L. 101–194, title V][/us/pl/101/194/tV], § 506(a)(1), Nov. 30, 1989, [103 Stat. 1756][/us/stat/103/1756], related to recertification of career appointees.
 
  __Effective Date of Repeal__ 
 
@@ -28,9 +28,9 @@
 ----------
 ----------
 
-[/us/pl/107/296/s1321/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1321%2Fa%2F1%2FB
+[/us/pl/107/296/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXIII
 [/us/stat/116/2296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2296
-[/us/pl/101/194/s506/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194%2Fs506%2Fa%2F1
+[/us/pl/101/194/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194%2FtV
 [/us/stat/103/1756]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1756
 [/us/pl/107/296/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs4
 [/us/usc/t6/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs101

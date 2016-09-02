@@ -93,7 +93,7 @@
 
         (2) Amounts appropriated under this section shall remain available for 2 fiscal years.
 
-(Added [Pub. L. 108–201, § 3(a)][/us/pl/108/201/s3/a], Feb. 24, 2004, [118 Stat. 468][/us/stat/118/468]; amended [Pub. L. 109–155, title VII, § 703(a)][/us/pl/109/155/s703/a], Dec. 30, 2005, [119 Stat. 2936][/us/stat/119/2936].)
+(Added [Pub. L. 108–201][/us/pl/108/201], § 3(a), Feb. 24, 2004, [118 Stat. 468][/us/stat/118/468]; amended [Pub. L. 109–155, title VII][/us/pl/109/155/tVII], § 703(a), Dec. 30, 2005, [119 Stat. 2936][/us/stat/119/2936].)
 
  __References in Text__ 
 
@@ -101,13 +101,13 @@
 
  __Amendments__ 
 
-    2005—Subsec. (a)(2). [Pub. L. 109–155, § 703(a)(1)][/us/pl/109/155/s703/a/1], substituted “Act ([42 U.S.C. 1885a][/us/usc/t42/s1885a] or 1885b).” for “Act.”
+    2005—Subsec. (a)(2). [Pub. L. 109–155][/us/pl/109/155], § 703(a)(1), substituted “Act ([42 U.S.C. 1885a][/us/usc/t42/s1885a] or 1885b).” for “Act.”
 
-    Subsec. (c). [Pub. L. 109–155, § 703(a)(2)][/us/pl/109/155/s703/a/2], substituted “require to carry out this section.” for “require.”
+    Subsec. (c). [Pub. L. 109–155][/us/pl/109/155], § 703(a)(2), substituted “require to carry out this section.” for “require.”
 
-    Subsec. (f)(1). [Pub. L. 109–155, § 703(a)(3)][/us/pl/109/155/s703/a/3], struck out at end “Under no circumstances shall the total period of obligated service be more than 4 years.”
+    Subsec. (f)(1). [Pub. L. 109–155][/us/pl/109/155], § 703(a)(3), struck out at end “Under no circumstances shall the total period of obligated service be more than 4 years.”
 
-    Subsec. (g)(2). [Pub. L. 109–155, § 703(a)(4)][/us/pl/109/155/s703/a/4], substituted a period for a comma at end of subpar. (B) and struck out concluding provisions which read: “multiplied by 3.”
+    Subsec. (g)(2). [Pub. L. 109–155][/us/pl/109/155], § 703(a)(4), substituted a period for a comma at end of subpar. (B) and struck out concluding provisions which read: “multiplied by 3.”
 
 ----------
 
@@ -117,14 +117,14 @@
 ----------
 
 [/us/usc/t42/s1885a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1885a
-[/us/pl/108/201/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F201%2Fs3%2Fa
+[/us/pl/108/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F201
 [/us/stat/118/468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F468
-[/us/pl/109/155/s703/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F155%2Fs703%2Fa
+[/us/pl/109/155/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F155%2FtVII
 [/us/stat/119/2936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2936
-[/us/pl/109/155/s703/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F155%2Fs703%2Fa%2F1
+[/us/pl/109/155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F155
 [/us/usc/t42/s1885a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1885a
-[/us/pl/109/155/s703/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F155%2Fs703%2Fa%2F2
-[/us/pl/109/155/s703/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F155%2Fs703%2Fa%2F3
-[/us/pl/109/155/s703/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F155%2Fs703%2Fa%2F4
+[/us/pl/109/155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F155
+[/us/pl/109/155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F155
+[/us/pl/109/155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F155
 
 

@@ -29,7 +29,7 @@
 
     (g) An employee who is being involuntarily separated from an agency due to a reduction in force or transfer of function under subchapter I of chapter 35 or section 3595 may elect to use annual leave to the employee’s credit to remain on the agency’s rolls after the date the employee would otherwise have been separated if, and only to the extent that, such additional time in a pay status will enable the employee to qualify for an immediate annuity under section 8336, 8412, 8414, or to qualify to carry health benefits coverage into retirement under section 8905(b).
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 517][/us/stat/80/517]; [Pub. L. 93–181, § 4][/us/pl/93/181/s4], Dec. 14, 1973, [87 Stat. 706][/us/stat/87/706]; [Pub. L. 95–519, § 2][/us/pl/95/519/s2], Oct. 25, 1978, [92 Stat. 1819][/us/stat/92/1819]; [Pub. L. 104–208, div. A, title I, § 101(f)][/us/pl/104/208/s101/f] \[title VI, § 634\], Sept. 30, 1996, [110 Stat. 3009–314][/us/stat/110/3009-314], 3009–363; [Pub. L. 105–277, div. A, § 101(h)][/us/pl/105/277/s101/h] \[title VI, § 653\], Oct. 21, 1998, [112 Stat. 2681–480][/us/stat/112/2681-480], 2681–528.)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 517][/us/stat/80/517]; [Pub. L. 93–181][/us/pl/93/181], § 4, Dec. 14, 1973, [87 Stat. 706][/us/stat/87/706]; [Pub. L. 95–519][/us/pl/95/519], § 2, Oct. 25, 1978, [92 Stat. 1819][/us/stat/92/1819]; [Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(f) \[title VI, § 634\], Sept. 30, 1996, [110 Stat. 3009–314][/us/stat/110/3009-314], 3009–363; [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(h) \[title VI, § 653\], Oct. 21, 1998, [112 Stat. 2681–480][/us/stat/112/2681-480], 2681–528.)
 
 <table>
 
@@ -129,23 +129,23 @@ July 2, 1953, ch. 178, § 2(b), 67 Stat. 137.  </td>
 
  __Temporary Authority To Transfer Leave__ 
 
-[Pub. L. 101–237, title II, § 206(b)(2)][/us/pl/101/237/s206/b/2], Dec. 18, 1989, [103 Stat. 2068][/us/stat/103/2068], provided that: 
+[Pub. L. 101–237, title II][/us/pl/101/237/tII], § 206(b)(2), Dec. 18, 1989, [103 Stat. 2068][/us/stat/103/2068], provided that: 
 
 > “The authority of the Department of Veterans Affairs under section 618 of the Treasury, Postal Service and General Government Appropriations Act, 1989 \[[Pub. L. 100–440][/us/pl/100/440], set out below\], to operate a leave-transfer program for employees subject to [section 4108 of title 38][/us/usc/t38/s4108], United States Code, is extended until the programs provided for in subsection (e) of such section 4108 (as added by subsection (a) of this section) are implemented, but not later than October 1, 1990.”
 
 Similar provisions were contained in the following acts:
 
-    [Pub. L. 101–144, title V, § 518][/us/pl/101/144/s518], Nov. 9, 1989, [103 Stat. 874][/us/stat/103/874].
+    [Pub. L. 101–144, title V][/us/pl/101/144/tV], § 518, Nov. 9, 1989, [103 Stat. 874][/us/stat/103/874].
 
-    [Pub. L. 101–110, § 1(d)][/us/pl/101/110/s1/d], Oct. 6, 1989, [103 Stat. 682][/us/stat/103/682].
+    [Pub. L. 101–110][/us/pl/101/110], § 1(d), Oct. 6, 1989, [103 Stat. 682][/us/stat/103/682].
 
-[Pub. L. 100–440, title VI, § 618][/us/pl/100/440/s618], Sept. 22, 1988, [102 Stat. 1755][/us/stat/102/1755], provided that: 
+[Pub. L. 100–440, title VI][/us/pl/100/440/tVI], § 618, Sept. 22, 1988, [102 Stat. 1755][/us/stat/102/1755], provided that: 
 
-> “In order to ensure that the experimental use of voluntary leave transfers established under Public Laws 99–500, 99–591 \[[Pub. L. 99–500, § 101(m)][/us/pl/99/500/s101/m] \[title VII\], Oct. 18, 1986, [100 Stat. 1783–308][/us/stat/100/1783-308], 1783–334, and [Pub. L. 99–591, § 101(m)][/us/pl/99/591/s101/m] \[title VII\], Oct. 30, 1986, [100 Stat. 3341–308][/us/stat/100/3341-308], 3341–334\], and 100–202 \[[Pub. L. 100–202, § 101(m)][/us/pl/100/202/s101/m] \[title VI, § 625\], Dec. 22, 1987, [101 Stat. 1329–390][/us/stat/101/1329-390], 1329–430\] may continue and may cover additional employees in fiscal year 1989, the Office of Personnel Management may continue to operate by regulation, notwithstanding chapter 63 of title 5, United States Code, a program under which the unused accrued annual leave of officers or employees of the Federal Government may be transferred for use by other officers or employees who need such leave due to a personal emergency as defined in the regulations. The Office may provide by regulation for such exceptions from the provisions of [section 7351 of title 5][/us/usc/t5/s7351] as the Office may determine appropriate for the transfer of leave under this section. The Veterans’ Administration may operate a similar program for employees subject to [section 4108 of title 38][/us/usc/t38/s4108], United States Code. The programs operated under this section shall expire at the end of fiscal year 1989, but any leave that has been transferred to an officer or employee under the programs shall remain available for use until the personal emergency has ended, and any remaining unused transferred leave shall, to the extent administratively feasible, be restored to the leave accounts of the officers or employees from whose accounts it was originally transferred.”
+> “In order to ensure that the experimental use of voluntary leave transfers established under Public Laws 99–500, 99–591 \[[Pub. L. 99–500][/us/pl/99/500], § 101(m) \[title VII\], Oct. 18, 1986, [100 Stat. 1783–308][/us/stat/100/1783-308], 1783–334, and [Pub. L. 99–591][/us/pl/99/591], § 101(m) \[title VII\], Oct. 30, 1986, [100 Stat. 3341–308][/us/stat/100/3341-308], 3341–334\], and 100–202 \[[Pub. L. 100–202][/us/pl/100/202], § 101(m) \[title VI, § 625\], Dec. 22, 1987, [101 Stat. 1329–390][/us/stat/101/1329-390], 1329–430\] may continue and may cover additional employees in fiscal year 1989, the Office of Personnel Management may continue to operate by regulation, notwithstanding chapter 63 of title 5, United States Code, a program under which the unused accrued annual leave of officers or employees of the Federal Government may be transferred for use by other officers or employees who need such leave due to a personal emergency as defined in the regulations. The Office may provide by regulation for such exceptions from the provisions of [section 7351 of title 5][/us/usc/t5/s7351] as the Office may determine appropriate for the transfer of leave under this section. The Veterans’ Administration may operate a similar program for employees subject to [section 4108 of title 38][/us/usc/t38/s4108], United States Code. The programs operated under this section shall expire at the end of fiscal year 1989, but any leave that has been transferred to an officer or employee under the programs shall remain available for use until the personal emergency has ended, and any remaining unused transferred leave shall, to the extent administratively feasible, be restored to the leave accounts of the officers or employees from whose accounts it was originally transferred.”
 
     Similar provisions were contained in the following prior appropriations act:
 
-    [Pub. L. 100–202, § 101(m)][/us/pl/100/202/s101/m] \[title VI, § 625\], Dec. 22, 1987, [101 Stat. 1329–390][/us/stat/101/1329-390], 1329–430.
+    [Pub. L. 100–202][/us/pl/100/202], § 101(m) \[title VI, § 625\], Dec. 22, 1987, [101 Stat. 1329–390][/us/stat/101/1329-390], 1329–430.
 
     For provisions ratifying any actions of the Secretary of Veterans Affairs in carrying out [section 618 of Pub. L. 100–440][/us/pl/100/440/s618], set out above, during the period Dec. 1, 1989, to Dec. 18, 1989, see [section 604 of Pub. L. 101–237][/us/pl/101/237/s604], set out as a note under [section 1720B of Title 38][/us/usc/t38/s1720B], Veterans’ Benefits. Similar provisions for the period Oct. 1, 1989, to Oct. 6, 1989, were contained in [section 3(b) of Pub. L. 101–110][/us/pl/101/110/s3/b], set out as a note under [section 1720B of Title 38][/us/usc/t38/s1720B].
 
@@ -159,13 +159,13 @@ Similar provisions were contained in the following acts:
 [/us/usc/t5/s5584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5584
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F517
-[/us/pl/93/181/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F181%2Fs4
+[/us/pl/93/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F181
 [/us/stat/87/706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F706
-[/us/pl/95/519/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F519%2Fs2
+[/us/pl/95/519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F519
 [/us/stat/92/1819]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1819
-[/us/pl/104/208/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Ff
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009-314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-314
-[/us/pl/105/277/s101/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fh
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-480
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
@@ -174,25 +174,25 @@ Similar provisions were contained in the following acts:
 [/us/pl/95/519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F519
 [/us/pl/95/519/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F519%2Fs4%2Fa
 [/us/usc/t5/s5551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5551
-[/us/pl/101/237/s206/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237%2Fs206%2Fb%2F2
+[/us/pl/101/237/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237%2FtII
 [/us/stat/103/2068]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2068
 [/us/pl/100/440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F440
 [/us/usc/t38/s4108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs4108
-[/us/pl/101/144/s518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F144%2Fs518
+[/us/pl/101/144/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F144%2FtV
 [/us/stat/103/874]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F874
-[/us/pl/101/110/s1/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F110%2Fs1%2Fd
+[/us/pl/101/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F110
 [/us/stat/103/682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F682
-[/us/pl/100/440/s618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F440%2Fs618
+[/us/pl/100/440/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F440%2FtVI
 [/us/stat/102/1755]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1755
-[/us/pl/99/500/s101/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500%2Fs101%2Fm
+[/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
 [/us/stat/100/1783-308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1783-308
-[/us/pl/99/591/s101/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591%2Fs101%2Fm
+[/us/pl/99/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591
 [/us/stat/100/3341-308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3341-308
-[/us/pl/100/202/s101/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202%2Fs101%2Fm
+[/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
 [/us/stat/101/1329-390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1329-390
 [/us/usc/t5/s7351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs7351
 [/us/usc/t38/s4108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs4108
-[/us/pl/100/202/s101/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202%2Fs101%2Fm
+[/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
 [/us/stat/101/1329-390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1329-390
 [/us/pl/100/440/s618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F440%2Fs618
 [/us/pl/101/237/s604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237%2Fs604

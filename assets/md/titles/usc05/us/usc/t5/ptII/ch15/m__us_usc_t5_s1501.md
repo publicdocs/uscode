@@ -39,7 +39,7 @@
 
             (iii) a recognized religious, philanthropic, or cultural organization.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 403][/us/stat/80/403]; [Pub. L. 93–443, title IV, § 401(c)][/us/pl/93/443/s401/c], Oct. 15, 1974, [88 Stat. 1290][/us/stat/88/1290]; [Pub. L. 112–230, § 3(a)][/us/pl/112/230/s3/a], (b), Dec. 28, 2012, [126 Stat. 1616][/us/stat/126/1616].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 403][/us/stat/80/403]; [Pub. L. 93–443, title IV][/us/pl/93/443/tIV], § 401(c), Oct. 15, 1974, [88 Stat. 1290][/us/stat/88/1290]; [Pub. L. 112–230][/us/pl/112/230], § 3(a), (b), Dec. 28, 2012, [126 Stat. 1616][/us/stat/126/1616].)
 
 <table>
 
@@ -159,15 +159,15 @@ July 19, 1940, ch. 640, § 4 “Sec. 15 (as applicable to § 12 of the Act o
 
  __Amendments__ 
 
-    2012—Par. (2). [Pub. L. 112–230, § 3(a)][/us/pl/112/230/s3/a], inserted “, or the executive branch of the District of Columbia, or an agency or department thereof” before semicolon at end.
+    2012—Par. (2). [Pub. L. 112–230][/us/pl/112/230], § 3(a), inserted “, or the executive branch of the District of Columbia, or an agency or department thereof” before semicolon at end.
 
-    Par. (4)(B). [Pub. L. 112–230, § 3(b)][/us/pl/112/230/s3/b], added subpar. (B) and struck out former subpar. (B) which read as follows: “an individual employed by an educational or research institution, establishment, agency, or system which is supported in whole or in part by a State or political subdivision thereof, or by a recognized religious, philanthropic, or cultural organization.”
+    Par. (4)(B). [Pub. L. 112–230][/us/pl/112/230], § 3(b), added subpar. (B) and struck out former subpar. (B) which read as follows: “an individual employed by an educational or research institution, establishment, agency, or system which is supported in whole or in part by a State or political subdivision thereof, or by a recognized religious, philanthropic, or cultural organization.”
 
     1974—Par. (5). [Pub. L. 93–443][/us/pl/93/443] struck out par. (5) which defined “an active part in political management or in political campaigns”.
 
  __Effective Date of 2012 Amendment__ 
 
-[Pub. L. 112–230, § 5(a)][/us/pl/112/230/s5/a], Dec. 28, 2012, [126 Stat. 1617][/us/stat/126/1617], provided that: This Act \[see Short Title of 2012 Amendment note set out under [section 101 of this title][/us/usc/t5/s101]\] and the amendments made by this Act shall take effect 30 days after the date of enactment of this Act \[Dec. 28, 2012\].”
+[Pub. L. 112–230][/us/pl/112/230], § 5(a), Dec. 28, 2012, [126 Stat. 1617][/us/stat/126/1617], provided that: This Act \[see Short Title of 2012 Amendment note set out under [section 101 of this title][/us/usc/t5/s101]\] and the amendments made by this Act shall take effect 30 days after the date of enactment of this Act \[Dec. 28, 2012\].”
 
  __Effective Date of 1974 Amendment__ 
 
@@ -182,14 +182,14 @@ July 19, 1940, ch. 640, § 4 “Sec. 15 (as applicable to § 12 of the Act o
 
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F403
-[/us/pl/93/443/s401/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443%2Fs401%2Fc
+[/us/pl/93/443/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443%2FtIV
 [/us/stat/88/1290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1290
-[/us/pl/112/230/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F230%2Fs3%2Fa
+[/us/pl/112/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F230
 [/us/stat/126/1616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1616
-[/us/pl/112/230/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F230%2Fs3%2Fa
-[/us/pl/112/230/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F230%2Fs3%2Fb
+[/us/pl/112/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F230
+[/us/pl/112/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F230
 [/us/pl/93/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443
-[/us/pl/112/230/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F230%2Fs5%2Fa
+[/us/pl/112/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F230
 [/us/stat/126/1617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1617
 [/us/usc/t5/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs101
 [/us/pl/93/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443

@@ -65,7 +65,7 @@
 
         (5) The Office of Personnel Management shall prescribe regulations necessary for the administration of this subsection. The regulations shall ensure that an individual who has completed an initial tour of active duty is not excluded from the application of this subsection because of having been released from such tour of duty shortly before completing 3 years of active service, having been honorably released from such duty.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 418][/us/stat/80/418]; [Pub. L. 95–454, title IX, § 906(a)(5)][/us/pl/95/454/s906/a/5], Oct. 13, 1978, [92 Stat. 1225][/us/stat/92/1225]; [Pub. L. 99–586][/us/pl/99/586], Oct. 29, 1986, [100 Stat. 3325][/us/stat/100/3325]; [Pub. L. 104–65][/us/pl/104/65], §§ 16(a), (b), 17(a), Dec. 19, 1995, [109 Stat. 703][/us/stat/109/703]; [Pub. L. 104–186, title II, § 215(2)][/us/pl/104/186/s215/2], Aug. 20, 1996, [110 Stat. 1745][/us/stat/110/1745]; [Pub. L. 105–339, § 2][/us/pl/105/339/s2], Oct. 31, 1998, [112 Stat. 3182][/us/stat/112/3182]; [Pub. L. 106–117, title V, § 511(c)][/us/pl/106/117/s511/c], Nov. 30, 1999, [113 Stat. 1575][/us/stat/113/1575]; [Pub. L. 107–296, title XIII, § 1312(a)(1)][/us/pl/107/296/s1312/a/1], Nov. 25, 2002, [116 Stat. 2290][/us/stat/116/2290]; [Pub. L. 108–375, div. A, title XI, § 1105(g)][/us/pl/108/375/s1105/g], Oct. 28, 2004, [118 Stat. 2075][/us/stat/118/2075]; [Pub. L. 109–163, div. A, title XI, § 1104(e)(2)][/us/pl/109/163/s1104/e/2], Jan. 6, 2006, [119 Stat. 3450][/us/stat/119/3450]; [Pub. L. 111–84, div. A, title XI, § 1102(d)(2)][/us/pl/111/84/s1102/d/2], Oct. 28, 2009, [123 Stat. 2485][/us/stat/123/2485].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 418][/us/stat/80/418]; [Pub. L. 95–454, title IX][/us/pl/95/454/tIX], § 906(a)(5), Oct. 13, 1978, [92 Stat. 1225][/us/stat/92/1225]; [Pub. L. 99–586][/us/pl/99/586], Oct. 29, 1986, [100 Stat. 3325][/us/stat/100/3325]; [Pub. L. 104–65][/us/pl/104/65], §§ 16(a), (b), 17(a), Dec. 19, 1995, [109 Stat. 703][/us/stat/109/703]; [Pub. L. 104–186, title II][/us/pl/104/186/tII], § 215(2), Aug. 20, 1996, [110 Stat. 1745][/us/stat/110/1745]; [Pub. L. 105–339][/us/pl/105/339], § 2, Oct. 31, 1998, [112 Stat. 3182][/us/stat/112/3182]; [Pub. L. 106–117, title V][/us/pl/106/117/tV], § 511(c), Nov. 30, 1999, [113 Stat. 1575][/us/stat/113/1575]; [Pub. L. 107–296, title XIII][/us/pl/107/296/tXIII], § 1312(a)(1), Nov. 25, 2002, [116 Stat. 2290][/us/stat/116/2290]; [Pub. L. 108–375, div. A, title XI][/us/pl/108/375/dA/tXI], § 1105(g), Oct. 28, 2004, [118 Stat. 2075][/us/stat/118/2075]; [Pub. L. 109–163, div. A, title XI][/us/pl/109/163/dA/tXI], § 1104(e)(2), Jan. 6, 2006, [119 Stat. 3450][/us/stat/119/3450]; [Pub. L. 111–84, div. A, title XI][/us/pl/111/84/dA/tXI], § 1102(d)(2), Oct. 28, 2009, [123 Stat. 2485][/us/stat/123/2485].)
 
 <table>
 
@@ -221,17 +221,17 @@ Jan. 16, 1883, ch. 27, § 3 (7th sentence), 22 Stat. 404.  </td>
 
     2002—Subsec. (a)(3). [Pub. L. 107–296][/us/pl/107/296] added par. (3).
 
-    1999—Subsec. (f)(2), (3). [Pub. L. 106–117, § 511(c)(2)][/us/pl/106/117/s511/c/2], (3), added par. (2) and redesignated former par. (2) as (3). Former par. (3) redesignated (4).
+    1999—Subsec. (f)(2), (3). [Pub. L. 106–117][/us/pl/106/117], § 511(c)(2), (3), added par. (2) and redesignated former par. (2) as (3). Former par. (3) redesignated (4).
 
-    Subsec. (f)(4). [Pub. L. 106–117, § 511(c)(1)][/us/pl/106/117/s511/c/1], (2), redesignated par. (3) as (4) and struck out former par. (4) which read as follows: “The Office of Personnel Management shall establish an appointing authority to appoint such preference eligibles and veterans.”
+    Subsec. (f)(4). [Pub. L. 106–117][/us/pl/106/117], § 511(c)(1), (2), redesignated par. (3) as (4) and struck out former par. (4) which read as follows: “The Office of Personnel Management shall establish an appointing authority to appoint such preference eligibles and veterans.”
 
-    Subsec. (f)(5). [Pub. L. 106–117, § 511(c)(4)][/us/pl/106/117/s511/c/4], added par. (5).
+    Subsec. (f)(5). [Pub. L. 106–117][/us/pl/106/117], § 511(c)(4), added par. (5).
 
     1998—Subsec. (f). [Pub. L. 105–339][/us/pl/105/339] added subsec. (f).
 
     1996—Subsec. (c)(1). [Pub. L. 104–186][/us/pl/104/186] substituted “Chief Administrative Officer” for “Clerk”.
 
-    1995—Subsec. (c). [Pub. L. 104–65, § 16(a)][/us/pl/104/65/s16/a], (b), redesignated subsec. (d) as (c) and struck out former subsec. (c) which read as follows: “Notwithstanding a contrary provision of this title or of the rules and regulations prescribed under this title for the administration of the competitive service, an individual who served—
+    1995—Subsec. (c). [Pub. L. 104–65][/us/pl/104/65], § 16(a), (b), redesignated subsec. (d) as (c) and struck out former subsec. (c) which read as follows: “Notwithstanding a contrary provision of this title or of the rules and regulations prescribed under this title for the administration of the competitive service, an individual who served—
 
     “(1) for at least 3 years in the legislative branch in a position in which he was paid by the Secretary of the Senate or the Chief Administrative Officer of the House of Representatives; or
 
@@ -239,9 +239,9 @@ Jan. 16, 1883, ch. 27, § 3 (7th sentence), 22 Stat. 404.  </td>
 
     acquires a competitive status for transfer to the competitive service if he is involuntarily separated without prejudice from the legislative or judicial branch, passes a suitable noncompetitive examination, and transfers to the competitive service within 1 year of the separation from the legislative or judicial branch. For the purpose of this subsection, an individual who has served for at least 2 years in a position in the legislative branch described by paragraph (1) of this subsection and who is separated from that position to enter the armed forces is deemed to have held that position during his service in the armed forces.”
 
-    Subsec. (d). [Pub. L. 104–65, § 17(a)][/us/pl/104/65/s17/a], which directed amendment of this section by adding subsec. (d) at the end thereof, was executed by adding subsec. (d) after subsec. (c) to reflect the probable intent of Congress.
+    Subsec. (d). [Pub. L. 104–65][/us/pl/104/65], § 17(a), which directed amendment of this section by adding subsec. (d) at the end thereof, was executed by adding subsec. (d) after subsec. (c) to reflect the probable intent of Congress.
 
-    [Pub. L. 104–65, § 16(b)][/us/pl/104/65/s16/b], redesignated subsec. (d) as (c).
+    [Pub. L. 104–65][/us/pl/104/65], § 16(b), redesignated subsec. (d) as (c).
 
     1986—Subsecs. (d), (e). [Pub. L. 99–586][/us/pl/99/586] added subsec. (d) and redesignated former subsec. (d) as (e).
 
@@ -253,17 +253,17 @@ Jan. 16, 1883, ch. 27, § 3 (7th sentence), 22 Stat. 404.  </td>
 
  __Effective Date of 1999 Amendment__ 
 
-[Pub. L. 106–117, title V, § 511(d)(2)][/us/pl/106/117/s511/d/2], Nov. 30, 1999, [113 Stat. 1576][/us/stat/113/1576], provided that: 
+[Pub. L. 106–117, title V][/us/pl/106/117/tV], § 511(d)(2), Nov. 30, 1999, [113 Stat. 1576][/us/stat/113/1576], provided that: 
 
 > “If pursuant to subsection (a) \[[113 Stat. 1575][/us/stat/113/1575]\] the amendments specified in subsection (c) \[amending this section\] are made, those amendments shall take effect as of October 31, 1998, as if included in subsection (f) of [section 3304 of title 5][/us/usc/t5/s3304], United States Code, as enacted by section 2 of the Veterans Employment Opportunities Act of 1998 ([Public Law 105–339][/us/pl/105/339]; [112 Stat. 3182][/us/stat/112/3182]).”
 
  __Effective Date of 1995 Amendment__ 
 
-[Pub. L. 104–65, § 16(c)][/us/pl/104/65/s16/c], Dec. 19, 1995, [109 Stat. 703][/us/stat/109/703], provided that: 
+[Pub. L. 104–65][/us/pl/104/65], § 16(c), Dec. 19, 1995, [109 Stat. 703][/us/stat/109/703], provided that: 
 
 > “The repeal and amendment made by this section \[amending this section\] shall take effect 2 years after the date of the enactment of this Act \[Dec. 19, 1995\].”
 
-[Pub. L. 104–65, § 17(b)][/us/pl/104/65/s17/b], Dec. 19, 1995, [109 Stat. 703][/us/stat/109/703], provided that: 
+[Pub. L. 104–65][/us/pl/104/65], § 17(b), Dec. 19, 1995, [109 Stat. 703][/us/stat/109/703], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall take effect 2 years after the date of the enactment of this Act \[Dec. 19, 1995\], except the Office of Personnel Management shall—
 
@@ -287,25 +287,25 @@ Jan. 16, 1883, ch. 27, § 3 (7th sentence), 22 Stat. 404.  </td>
 [/us/usc/t5/s8337/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8337%2Fh%2F1
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F418
-[/us/pl/95/454/s906/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs906%2Fa%2F5
+[/us/pl/95/454/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtIX
 [/us/stat/92/1225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1225
 [/us/pl/99/586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F586
 [/us/stat/100/3325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3325
 [/us/pl/104/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F65
 [/us/stat/109/703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F703
-[/us/pl/104/186/s215/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2Fs215%2F2
+[/us/pl/104/186/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2FtII
 [/us/stat/110/1745]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1745
-[/us/pl/105/339/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F339%2Fs2
+[/us/pl/105/339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F339
 [/us/stat/112/3182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3182
-[/us/pl/106/117/s511/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117%2Fs511%2Fc
+[/us/pl/106/117/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117%2FtV
 [/us/stat/113/1575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1575
-[/us/pl/107/296/s1312/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1312%2Fa%2F1
+[/us/pl/107/296/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXIII
 [/us/stat/116/2290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2290
-[/us/pl/108/375/s1105/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs1105%2Fg
+[/us/pl/108/375/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtXI
 [/us/stat/118/2075]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2075
-[/us/pl/109/163/s1104/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs1104%2Fe%2F2
+[/us/pl/109/163/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtXI
 [/us/stat/119/3450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3450
-[/us/pl/111/84/s1102/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs1102%2Fd%2F2
+[/us/pl/111/84/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtXI
 [/us/stat/123/2485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2485
 [/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
 [/us/usc/t10/s2192a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2192a
@@ -313,28 +313,28 @@ Jan. 16, 1883, ch. 27, § 3 (7th sentence), 22 Stat. 404.  </td>
 [/us/usc/t10/s2192a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2192a
 [/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
-[/us/pl/106/117/s511/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117%2Fs511%2Fc%2F2
-[/us/pl/106/117/s511/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117%2Fs511%2Fc%2F1
-[/us/pl/106/117/s511/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117%2Fs511%2Fc%2F4
+[/us/pl/106/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117
+[/us/pl/106/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117
+[/us/pl/106/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117
 [/us/pl/105/339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F339
 [/us/pl/104/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186
-[/us/pl/104/65/s16/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F65%2Fs16%2Fa
-[/us/pl/104/65/s17/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F65%2Fs17%2Fa
-[/us/pl/104/65/s16/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F65%2Fs16%2Fb
+[/us/pl/104/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F65
+[/us/pl/104/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F65
+[/us/pl/104/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F65
 [/us/pl/99/586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F586
 [/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/pl/107/296/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs4
 [/us/usc/t6/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs101
-[/us/pl/106/117/s511/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117%2Fs511%2Fd%2F2
+[/us/pl/106/117/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117%2FtV
 [/us/stat/113/1576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1576
 [/us/stat/113/1575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1575
 [/us/usc/t5/s3304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3304
 [/us/pl/105/339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F339
 [/us/stat/112/3182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3182
-[/us/pl/104/65/s16/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F65%2Fs16%2Fc
+[/us/pl/104/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F65
 [/us/stat/109/703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F703
-[/us/pl/104/65/s17/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F65%2Fs17%2Fb
+[/us/pl/104/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F65
 [/us/stat/109/703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F703
 [/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454
 [/us/pl/95/454/s907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs907

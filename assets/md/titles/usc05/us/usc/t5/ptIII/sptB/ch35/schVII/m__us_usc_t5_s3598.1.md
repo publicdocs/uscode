@@ -39,7 +39,7 @@
 
     Membership of the FBI Reserve Service is not to exceed 500 members at any given time.
 
-(Added [Pub. L. 108–447, div. B, title I, § 114(a)][/us/pl/108/447/s114/a], Dec. 8, 2004, [118 Stat. 2869][/us/stat/118/2869].)
+(Added [Pub. L. 108–447, div. B, title I][/us/pl/108/447/dB/tI], § 114(a), Dec. 8, 2004, [118 Stat. 2869][/us/stat/118/2869].)
 
 ----------
 
@@ -48,7 +48,7 @@
 ----------
 ----------
 
-[/us/pl/108/447/s114/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs114%2Fa
+[/us/pl/108/447/dB/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdB%2FtI
 [/us/stat/118/2869]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2869
 
 

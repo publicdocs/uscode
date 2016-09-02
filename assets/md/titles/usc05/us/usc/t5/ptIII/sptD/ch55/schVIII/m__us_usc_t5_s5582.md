@@ -37,7 +37,7 @@
 
         Sixth, if none of the above, to the person or persons entitled under the laws of the domicile of the employee at the time of his death.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 495][/us/stat/80/495]; [Pub. L. 104–316, title I, § 103(c)][/us/pl/104/316/s103/c], Oct. 19, 1996, [110 Stat. 3828][/us/stat/110/3828].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 495][/us/stat/80/495]; [Pub. L. 104–316, title I][/us/pl/104/316/tI], § 103(c), Oct. 19, 1996, [110 Stat. 3828][/us/stat/110/3828].)
 
 <table>
 
@@ -120,7 +120,7 @@ Aug. 3, 1950, ch. 518, § 1, 64 Stat. 395.  </td>
 
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F495
-[/us/pl/104/316/s103/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2Fs103%2Fc
+[/us/pl/104/316/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2FtI
 [/us/stat/110/3828]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3828
 [/us/pl/104/316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316
 

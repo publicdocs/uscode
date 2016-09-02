@@ -47,7 +47,7 @@
 
     The head of an executive agency may provide for an exemption from the training requirements under subsection (a), if the head of that agency determines that the training would be unnecessary because the employee is already teleworking under a work arrangement in effect before the date of enactment of this chapter.
 
-(Added [Pub. L. 111–292, § 2(a)][/us/pl/111/292/s2/a], Dec. 9, 2010, [124 Stat. 3166][/us/stat/124/3166].)
+(Added [Pub. L. 111–292][/us/pl/111/292], § 2(a), Dec. 9, 2010, [124 Stat. 3166][/us/stat/124/3166].)
 
  __References in Text__ 
 
@@ -60,7 +60,7 @@
 ----------
 ----------
 
-[/us/pl/111/292/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F292%2Fs2%2Fa
+[/us/pl/111/292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F292
 [/us/stat/124/3166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3166
 [/us/pl/111/292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F292
 

@@ -45,11 +45,11 @@
 
     (14) appoint career executives to fill Senior Executive Service positions to the extent practicable, consistent with the effective and efficient implementation of agency policies and responsibilities.
 
-(Added [Pub. L. 95–454, title IV, § 402(a)][/us/pl/95/454/s402/a], Oct. 13, 1978, [92 Stat. 1154][/us/stat/92/1154].)
+(Added [Pub. L. 95–454, title IV][/us/pl/95/454/tIV], § 402(a), Oct. 13, 1978, [92 Stat. 1154][/us/stat/92/1154].)
 
  __Effective Date__ 
 
-[Pub. L. 95–454, title IV, § 415][/us/pl/95/454/s415], Oct. 13, 1978, [92 Stat. 1179][/us/stat/92/1179], provided that:
+[Pub. L. 95–454, title IV][/us/pl/95/454/tIV], § 415, Oct. 13, 1978, [92 Stat. 1179][/us/stat/92/1179], provided that:
 
 >     “(a)
 
@@ -71,7 +71,7 @@
 
  __Congressional Findings Respecting Continuation of Senior Executive Service__ 
 
-[Pub. L. 98–615, title III, § 301][/us/pl/98/615/s301], Nov. 8, 1984, [98 Stat. 3217][/us/stat/98/3217], provided that: 
+[Pub. L. 98–615, title III][/us/pl/98/615/tIII], § 301, Nov. 8, 1984, [98 Stat. 3217][/us/stat/98/3217], provided that: 
 
 > “The Congress finds that the Senior Executive Service should be continued indefinitely.”
 
@@ -82,9 +82,9 @@
 ----------
 ----------
 
-[/us/pl/95/454/s402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs402%2Fa
+[/us/pl/95/454/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtIV
 [/us/stat/92/1154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1154
-[/us/pl/95/454/s415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs415
+[/us/pl/95/454/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtIV
 [/us/stat/92/1179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1179
 [/us/usc/t5/s5311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5311
 [/us/usc/t5/s413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs413
@@ -92,7 +92,7 @@
 [/us/usc/t5/s414/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs414%2Fa
 [/us/usc/t5/s5305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5305
 [/us/usc/t5/s3135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3135
-[/us/pl/98/615/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F615%2Fs301
+[/us/pl/98/615/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F615%2FtIII
 [/us/stat/98/3217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3217
 
 

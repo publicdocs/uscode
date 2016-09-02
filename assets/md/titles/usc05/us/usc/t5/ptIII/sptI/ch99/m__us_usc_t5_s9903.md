@@ -75,13 +75,13 @@
 
         (2) the rate of basic pay prescribed for the position under this section may not be reduced as long as the employee continues to serve in the position without a break in service.
 
-(Added [Pub. L. 108–136, div. A, title XI, § 1101(a)(1)][/us/pl/108/136/s1101/a/1], Nov. 24, 2003, [117 Stat. 1632][/us/stat/117/1632]; amended [Pub. L. 112–81, div. A, title XI, § 1105][/us/pl/112/81/s1105], Dec. 31, 2011, [125 Stat. 1612][/us/stat/125/1612].)
+(Added [Pub. L. 108–136, div. A, title XI][/us/pl/108/136/dA/tXI], § 1101(a)(1), Nov. 24, 2003, [117 Stat. 1632][/us/stat/117/1632]; amended [Pub. L. 112–81, div. A, title XI][/us/pl/112/81/dA/tXI], § 1105, Dec. 31, 2011, [125 Stat. 1612][/us/stat/125/1612].)
 
  __Amendments__ 
 
-    2011—Subsec. (d)(2). [Pub. L. 112–81, § 1105(1)][/us/pl/112/81/s1105/1], amended par. (2) generally. Prior to amendment, par. (2) read as follows: “An employee appointed under this section is not eligible for any bonus, monetary award, or other monetary incentive for service except for payments authorized under this section.”
+    2011—Subsec. (d)(2). [Pub. L. 112–81][/us/pl/112/81], § 1105(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “An employee appointed under this section is not eligible for any bonus, monetary award, or other monetary incentive for service except for payments authorized under this section.”
 
-    Subsec. (d)(3). [Pub. L. 112–81, § 1105(2)][/us/pl/112/81/s1105/2], inserted at end “In computing an employee’s total annual compensation for purposes of the preceding sentence, any payment referred to in paragraph (2)(B) shall be excluded.”
+    Subsec. (d)(3). [Pub. L. 112–81][/us/pl/112/81], § 1105(2), inserted at end “In computing an employee’s total annual compensation for purposes of the preceding sentence, any payment referred to in paragraph (2)(B) shall be excluded.”
 
  __References to Maximum Rate Under__  __[__  __5 U.S.C. 5376__  __][/us/usc/t5/s5376]__ 
 
@@ -89,7 +89,7 @@
 
  __Policy on Senior Mentors__ 
 
-[Pub. L. 112–239, div. A, title XI, § 1105][/us/pl/112/239/s1105], Jan. 2, 2013, [126 Stat. 1973][/us/stat/126/1973], provided that:
+[Pub. L. 112–239, div. A, title XI][/us/pl/112/239/dA/tXI], § 1105, Jan. 2, 2013, [126 Stat. 1973][/us/stat/126/1973], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -101,7 +101,7 @@
 
  __Disclosure of Senior Mentors__ 
 
-[Pub. L. 112–81, div. A, title XI, § 1124][/us/pl/112/81/s1124], Dec. 31, 2011, [125 Stat. 1618][/us/stat/125/1618], provided that:
+[Pub. L. 112–81, div. A, title XI][/us/pl/112/81/dA/tXI], § 1124, Dec. 31, 2011, [125 Stat. 1618][/us/stat/125/1618], provided that:
 
 >     “(a)  __Requirement to Disclose Names of Senior Mentors__  __.—__ 
 
@@ -113,7 +113,7 @@
 
  __Requirements for Department of Defense Senior Mentors__ 
 
-[Pub. L. 111–383, div. A, title XI, § 1102][/us/pl/111/383/s1102], Jan. 7, 2011, [124 Stat. 4382][/us/stat/124/4382], provided that:
+[Pub. L. 111–383, div. A, title XI][/us/pl/111/383/dA/tXI], § 1102, Jan. 7, 2011, [124 Stat. 4382][/us/stat/124/4382], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -136,21 +136,21 @@
 
 [/us/usc/t10/s101/a/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101%2Fa%2F13
 [/us/usc/t3/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs104
-[/us/pl/108/136/s1101/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1101%2Fa%2F1
+[/us/pl/108/136/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtXI
 [/us/stat/117/1632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1632
-[/us/pl/112/81/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1105
+[/us/pl/112/81/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtXI
 [/us/stat/125/1612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1612
-[/us/pl/112/81/s1105/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1105%2F1
-[/us/pl/112/81/s1105/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1105%2F2
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
 [/us/usc/t5/s5376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5376
 [/us/usc/t5/s5376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5376
 [/us/pl/110/372/s2/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F372%2Fs2%2Fd%2F3
 [/us/usc/t5/s5376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5376
-[/us/pl/112/239/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1105
+[/us/pl/112/239/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtXI
 [/us/stat/126/1973]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1973
-[/us/pl/112/81/s1124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1124
+[/us/pl/112/81/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtXI
 [/us/stat/125/1618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1618
-[/us/pl/111/383/s1102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1102
+[/us/pl/111/383/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtXI
 [/us/stat/124/4382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4382
 [/us/usc/t5/s9903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs9903
 

@@ -29,11 +29,11 @@
 
     (2) the Office determines that because of special or unusual circumstances which exist in the municipality or political subdivision it is in the domestic interest of the employees and individuals to permit that political participation.
 
-(Added [Pub. L. 103–94, § 2(a)][/us/pl/103/94/s2/a], Oct. 6, 1993, [107 Stat. 1004][/us/stat/107/1004]; amended [Pub. L. 104–93, title III, § 308][/us/pl/104/93/s308], Jan. 6, 1996, [109 Stat. 966][/us/stat/109/966]; [Pub. L. 112–230, § 3(f)][/us/pl/112/230/s3/f], Dec. 28, 2012, [126 Stat. 1617][/us/stat/126/1617].)
+(Added [Pub. L. 103–94][/us/pl/103/94], § 2(a), Oct. 6, 1993, [107 Stat. 1004][/us/stat/107/1004]; amended [Pub. L. 104–93, title III][/us/pl/104/93/tIII], § 308, Jan. 6, 1996, [109 Stat. 966][/us/stat/109/966]; [Pub. L. 112–230][/us/pl/112/230], § 3(f), Dec. 28, 2012, [126 Stat. 1617][/us/stat/126/1617].)
 
  __Prior Provisions__ 
 
-    A prior section 7325, [Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 526][/us/stat/80/526]; [Pub. L. 96–54, § 2(a)(44)][/us/pl/96/54/s2/a/44], Aug. 14, 1979, [93 Stat. 384][/us/stat/93/384], related to penalties, prior to the general revision of this subchapter by [Pub. L. 103–94][/us/pl/103/94].
+    A prior section 7325, [Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 526][/us/stat/80/526]; [Pub. L. 96–54][/us/pl/96/54], § 2(a)(44), Aug. 14, 1979, [93 Stat. 384][/us/stat/93/384], related to penalties, prior to the general revision of this subchapter by [Pub. L. 103–94][/us/pl/103/94].
 
  __Amendments__ 
 
@@ -53,15 +53,15 @@
 ----------
 
 [/us/usc/t5/s7323/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs7323%2Fb
-[/us/pl/103/94/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F94%2Fs2%2Fa
+[/us/pl/103/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F94
 [/us/stat/107/1004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1004
-[/us/pl/104/93/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F93%2Fs308
+[/us/pl/104/93/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F93%2FtIII
 [/us/stat/109/966]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F966
-[/us/pl/112/230/s3/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F230%2Fs3%2Ff
+[/us/pl/112/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F230
 [/us/stat/126/1617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1617
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F526
-[/us/pl/96/54/s2/a/44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F54%2Fs2%2Fa%2F44
+[/us/pl/96/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F54
 [/us/stat/93/384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F384
 [/us/pl/103/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F94
 [/us/pl/112/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F230

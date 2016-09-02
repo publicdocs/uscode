@@ -73,7 +73,7 @@
 
     (f) Section 14(a)(2) of the Federal Advisory Committee Act shall not apply to the Council.
 
-(Added [Pub. L. 99–335, title I, § 101(a)][/us/pl/99/335/s101/a], June 6, 1986, [100 Stat. 579][/us/stat/100/579]; amended [Pub. L. 103–89, § 3(b)(1)(N)][/us/pl/103/89/s3/b/1/N], Sept. 30, 1993, [107 Stat. 982][/us/stat/107/982]; [Pub. L. 106–65, div. A, title VI, § 661(a)(6)][/us/pl/106/65/s661/a/6], Oct. 5, 1999, [113 Stat. 672][/us/stat/113/672].)
+(Added [Pub. L. 99–335, title I][/us/pl/99/335/tI], § 101(a), June 6, 1986, [100 Stat. 579][/us/stat/100/579]; amended [Pub. L. 103–89][/us/pl/103/89], § 3(b)(1)(N), Sept. 30, 1993, [107 Stat. 982][/us/stat/107/982]; [Pub. L. 106–65, div. A, title VI][/us/pl/106/65/dA/tVI], § 661(a)(6), Oct. 5, 1999, [113 Stat. 672][/us/stat/113/672].)
 
  __References in Text__ 
 
@@ -81,11 +81,11 @@
 
  __Amendments__ 
 
-    1999—Subsec. (a). [Pub. L. 106–65, § 661(a)(6)(A)][/us/pl/106/65/s661/a/6/A], substituted “15 members” for “14 members”.
+    1999—Subsec. (a). [Pub. L. 106–65][/us/pl/106/65], § 661(a)(6)(A), substituted “15 members” for “14 members”.
 
-    Subsec. (b). [Pub. L. 106–65, § 661(a)(6)(B)(i)][/us/pl/106/65/s661/a/6/B/i], substituted “15 members” for “14 members” in introductory provisions.
+    Subsec. (b). [Pub. L. 106–65][/us/pl/106/65], § 661(a)(6)(B)(i), substituted “15 members” for “14 members” in introductory provisions.
 
-    Subsec. (b)(10). [Pub. L. 106–65, § 661(a)(6)(B)(ii)][/us/pl/106/65/s661/a/6/B/ii]–(iv), added par. (10).
+    Subsec. (b)(10). [Pub. L. 106–65][/us/pl/106/65], § 661(a)(6)(B)(ii)–(iv), added par. (10).
 
     1993—Subsec. (b)(8). [Pub. L. 103–89][/us/pl/103/89] substituted “supervisors and management officials (as defined by section 7103(a))” for “individuals subject to the Performance Management and Recognition System under chapter 54 of this title”.
 
@@ -108,17 +108,17 @@
 [/us/usc/t39/s1203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs1203%2Fa
 [/us/usc/t39/s1004/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs1004%2Fb
 [/us/usc/t39/s1004/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs1004%2Fh
-[/us/pl/99/335/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2Fs101%2Fa
+[/us/pl/99/335/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2FtI
 [/us/stat/100/579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F579
-[/us/pl/103/89/s3/b/1/N]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F89%2Fs3%2Fb%2F1%2FN
+[/us/pl/103/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F89
 [/us/stat/107/982]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F982
-[/us/pl/106/65/s661/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs661%2Fa%2F6
+[/us/pl/106/65/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtVI
 [/us/stat/113/672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F672
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/pl/92/463/s14/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463%2Fs14%2Fa%2F2
-[/us/pl/106/65/s661/a/6/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs661%2Fa%2F6%2FA
-[/us/pl/106/65/s661/a/6/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs661%2Fa%2F6%2FB%2Fi
-[/us/pl/106/65/s661/a/6/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs661%2Fa%2F6%2FB%2Fii
+[/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
+[/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
+[/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
 [/us/pl/103/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F89
 [/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
 [/us/pl/106/65/s663]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs663

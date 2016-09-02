@@ -51,11 +51,11 @@
 
     (f) For purposes of this section the term “agency” means an Executive agency defined under section 105, but does not include the Central Intelligence Agency, the Government Accountability Office, the United States Postal Service, and the Postal Regulatory Commission.
 
-(Added [Pub. L. 111–352, § 2][/us/pl/111/352/s2], Jan. 4, 2011, [124 Stat. 3866][/us/stat/124/3866].)
+(Added [Pub. L. 111–352][/us/pl/111/352], § 2, Jan. 4, 2011, [124 Stat. 3866][/us/stat/124/3866].)
 
  __Prior Provisions__ 
 
-    A prior section 306, added [Pub. L. 103–62, § 3][/us/pl/103/62/s3], Aug. 3, 1993, [107 Stat. 286][/us/stat/107/286]; amended [Pub. L. 106–65, div. A, title IX, § 902][/us/pl/106/65/s902], Oct. 5, 1999, [113 Stat. 717][/us/stat/113/717]; [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814]; [Pub. L. 109–435, title VI, § 604(b)][/us/pl/109/435/s604/b], Dec. 20, 2006, [120 Stat. 3241][/us/stat/120/3241], related to strategic plans, prior to repeal by [Pub. L. 111–352, § 2][/us/pl/111/352/s2], Jan. 4, 2011, [124 Stat. 3866][/us/stat/124/3866].
+    A prior section 306, added [Pub. L. 103–62][/us/pl/103/62], § 3, Aug. 3, 1993, [107 Stat. 286][/us/stat/107/286]; amended [Pub. L. 106–65, div. A, title IX][/us/pl/106/65/dA/tIX], § 902, Oct. 5, 1999, [113 Stat. 717][/us/stat/113/717]; [Pub. L. 108–271][/us/pl/108/271], § 8(b), July 7, 2004, [118 Stat. 814][/us/stat/118/814]; [Pub. L. 109–435, title VI][/us/pl/109/435/tVI], § 604(b), Dec. 20, 2006, [120 Stat. 3241][/us/stat/120/3241], related to strategic plans, prior to repeal by [Pub. L. 111–352][/us/pl/111/352], § 2, Jan. 4, 2011, [124 Stat. 3866][/us/stat/124/3866].
 
 ----------
 
@@ -69,17 +69,17 @@
 [/us/usc/t31/s1115/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1115%2Fa
 [/us/usc/t31/s1120/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1120%2Fb
 [/us/usc/t31/s1115/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1115%2Fb
-[/us/pl/111/352/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F352%2Fs2
+[/us/pl/111/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F352
 [/us/stat/124/3866]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3866
-[/us/pl/103/62/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F62%2Fs3
+[/us/pl/103/62]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F62
 [/us/stat/107/286]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F286
-[/us/pl/106/65/s902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs902
+[/us/pl/106/65/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtIX
 [/us/stat/113/717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F717
-[/us/pl/108/271/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271%2Fs8%2Fb
+[/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/stat/118/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F814
-[/us/pl/109/435/s604/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2Fs604%2Fb
+[/us/pl/109/435/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2FtVI
 [/us/stat/120/3241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3241
-[/us/pl/111/352/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F352%2Fs2
+[/us/pl/111/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F352
 [/us/stat/124/3866]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3866
 
 

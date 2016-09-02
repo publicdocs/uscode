@@ -29,7 +29,7 @@
 
     (c) Each period for which payment of amounts is made under this section to or for the account of an employee is deemed, for all purposes with respect to the employee, a period of active service, without break in service, performed by the employee in the employment of the Government of the United States or the government of the District of Columbia.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 480][/us/stat/80/480]; [Pub. L. 96–465, title II, § 2303(c)][/us/pl/96/465/s2303/c], (d), Oct. 17, 1980, [94 Stat. 2165][/us/stat/94/2165]; [Pub. L. 102–138, title I, § 147(a)][/us/pl/102/138/s147/a], Oct. 28, 1991, [105 Stat. 669][/us/stat/105/669].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 480][/us/stat/80/480]; [Pub. L. 96–465, title II][/us/pl/96/465/tII], § 2303(c), (d), Oct. 17, 1980, [94 Stat. 2165][/us/stat/94/2165]; [Pub. L. 102–138, title I][/us/pl/102/138/tI], § 147(a), Oct. 28, 1991, [105 Stat. 669][/us/stat/105/669].)
 
 <table>
 
@@ -87,9 +87,9 @@ Sept. 26, 1961, Pub. L. 87–304, § 3, 75 Stat. 663.  </td>
 
     “(B) who is prevented, by circumstances beyond his control and beyond the control of the Government of the United States or the government of the District of Columbia, or both, as the case may be, from performing the duties of the position which he held immediately before issuance of the departure order; and”.
 
-    1980—Subsec. (a)(1). [Pub. L. 96–465, § 2303(c)][/us/pl/96/465/s2303/c], in subpar. (A) substituted “whose departure is authorized or ordered under [section 5522(a) of this title][/us/usc/t5/s5522/a]; and” for “whose evacuation from a place inside or outside the United States is ordered for military or other reasons which create imminent danger to the life of the employee; and”, and in subpar. (B) substituted “departure” for “evacuation” after “issuance of the”.
+    1980—Subsec. (a)(1). [Pub. L. 96–465][/us/pl/96/465], § 2303(c), in subpar. (A) substituted “whose departure is authorized or ordered under [section 5522(a) of this title][/us/usc/t5/s5522/a]; and” for “whose evacuation from a place inside or outside the United States is ordered for military or other reasons which create imminent danger to the life of the employee; and”, and in subpar. (B) substituted “departure” for “evacuation” after “issuance of the”.
 
-    Subsec. (b). [Pub. L. 96–465, § 2303(d)][/us/pl/96/465/s2303/d], substituted “departure” for “evacuation” in two places.
+    Subsec. (b). [Pub. L. 96–465][/us/pl/96/465], § 2303(d), substituted “departure” for “evacuation” in two places.
 
  __Effective Date of 1980 Amendment__ 
 
@@ -105,15 +105,15 @@ Sept. 26, 1961, Pub. L. 87–304, § 3, 75 Stat. 663.  </td>
 [/us/usc/t5/s5524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5524
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F480
-[/us/pl/96/465/s2303/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs2303%2Fc
+[/us/pl/96/465/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtII
 [/us/stat/94/2165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2165
-[/us/pl/102/138/s147/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138%2Fs147%2Fa
+[/us/pl/102/138/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138%2FtI
 [/us/stat/105/669]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F669
 [/us/pl/102/138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138
 [/us/usc/t5/s5522/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5522%2Fa
-[/us/pl/96/465/s2303/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs2303%2Fc
+[/us/pl/96/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465
 [/us/usc/t5/s5522/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5522%2Fa
-[/us/pl/96/465/s2303/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs2303%2Fd
+[/us/pl/96/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465
 [/us/pl/96/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465
 [/us/pl/96/465/s2403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs2403
 [/us/usc/t22/s3901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3901

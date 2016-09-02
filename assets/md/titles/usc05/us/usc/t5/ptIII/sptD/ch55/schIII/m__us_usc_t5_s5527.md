@@ -21,7 +21,7 @@
 
     (c) The head of each Executive agency may prescribe and issue regulations, not inconsistent with the regulations of the President issued under subsection (b) of this section, necessary and appropriate to carry out his functions under this subchapter.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 481][/us/stat/80/481]; [Pub. L. 90–623, § 1(11)][/us/pl/90/623/s1/11], Oct. 22, 1968, [82 Stat. 1312][/us/stat/82/1312].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 481][/us/stat/80/481]; [Pub. L. 90–623][/us/pl/90/623], § 1(11), Oct. 22, 1968, [82 Stat. 1312][/us/stat/82/1312].)
 
 <table>
 
@@ -83,7 +83,7 @@ Sept. 26, 1961, Pub. L. 87–304, § 6, 75 Stat. 664.  </td>
 
  __Transfer of Functions__ 
 
-    District of Columbia Council, as established by Reorg. Plan No. 3 of 1967, abolished as of noon Jan. 2, 1975, by [Pub. L. 93–198, title VII, § 711][/us/pl/93/198/s711], Dec. 24, 1973, [87 Stat. 818][/us/stat/87/818], and replaced by Council of District of Columbia, as provided by [section 401 of Pub. L. 93–198][/us/pl/93/198/s401].
+    District of Columbia Council, as established by Reorg. Plan No. 3 of 1967, abolished as of noon Jan. 2, 1975, by [Pub. L. 93–198, title VII][/us/pl/93/198/tVII], § 711, Dec. 24, 1973, [87 Stat. 818][/us/stat/87/818], and replaced by Council of District of Columbia, as provided by [section 401 of Pub. L. 93–198][/us/pl/93/198/s401].
 
  __Ex. Ord. No. 10982. Administration of Provisions of Chapter__ 
 
@@ -124,13 +124,13 @@ By virtue of the authority vested in me by the act of September 26, 1961 ([75 St
 
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/481]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F481
-[/us/pl/90/623/s1/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F623%2Fs1%2F11
+[/us/pl/90/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F623
 [/us/stat/82/1312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1312
 [/us/pl/90/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F623
 [/us/pl/90/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F623
 [/us/pl/90/623/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F623%2Fs6
 [/us/usc/t5/s5334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5334
-[/us/pl/93/198/s711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F198%2Fs711
+[/us/pl/93/198/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F198%2FtVII
 [/us/stat/87/818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F818
 [/us/pl/93/198/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F198%2Fs401
 [/us/stat/75/662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F662

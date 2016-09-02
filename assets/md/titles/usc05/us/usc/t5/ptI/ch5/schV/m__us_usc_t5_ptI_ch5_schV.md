@@ -17,11 +17,11 @@
 
  __Amendments__ 
 
-    1992—[Pub. L. 102–354, § 2(1)][/us/pl/102/354/s2/1], Aug. 26, 1992, [106 Stat. 944][/us/stat/106/944], redesignated subchapter III of this chapter as this subchapter.
+    1992—[Pub. L. 102–354][/us/pl/102/354], § 2(1), Aug. 26, 1992, [106 Stat. 944][/us/stat/106/944], redesignated subchapter III of this chapter as this subchapter.
 
  __Termination of Administrative Conference of United States__ 
 
-[Pub. L. 104–52, title IV][/us/pl/104/52], Nov. 19, 1995, [109 Stat. 480][/us/stat/109/480], provided: 
+[Pub. L. 104–52, title IV][/us/pl/104/52/tIV], Nov. 19, 1995, [109 Stat. 480][/us/stat/109/480], provided: 
 
 > “For necessary expenses of the Administrative Conference of the United States, established under subchapter V of chapter 5 of title 5, United States Code, $600,000: Provided, That these funds shall only be available for the purposes of the prompt and orderly termination of the Administrative Conference of the United States by February 1, 1996.”
 
@@ -32,9 +32,9 @@
 ----------
 ----------
 
-[/us/pl/102/354/s2/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F354%2Fs2%2F1
+[/us/pl/102/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F354
 [/us/stat/106/944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F944
-[/us/pl/104/52]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F52
+[/us/pl/104/52/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F52%2FtIV
 [/us/stat/109/480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F480
 
 

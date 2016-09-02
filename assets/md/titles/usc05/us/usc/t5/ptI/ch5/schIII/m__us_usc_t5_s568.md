@@ -41,7 +41,7 @@
 
     A member’s receipt of funds under this section or section 569 shall not conclusively determine for purposes of sections 202 through 209 of title 18 whether that member is an employee of the United States Government.
 
-(Added [Pub. L. 101–648, § 3(a)][/us/pl/101/648/s3/a], Nov. 29, 1990, [104 Stat. 4974][/us/stat/104/4974], § 588; renumbered § 568 and amended [Pub. L. 102–354, § 3(a)(2)][/us/pl/102/354/s3/a/2], (4), Aug. 26, 1992, [106 Stat. 944][/us/stat/106/944].)
+(Added [Pub. L. 101–648][/us/pl/101/648], § 3(a), Nov. 29, 1990, [104 Stat. 4974][/us/stat/104/4974], § 588; renumbered § 568 and amended [Pub. L. 102–354][/us/pl/102/354], § 3(a)(2), (4), Aug. 26, 1992, [106 Stat. 944][/us/stat/106/944].)
 
  __References in Text__ 
 
@@ -49,9 +49,9 @@
 
  __Amendments__ 
 
-    1992—[Pub. L. 102–354, § 3(a)(2)][/us/pl/102/354/s3/a/2], renumbered [section 588 of this title][/us/usc/t5/s588] as this section.
+    1992—[Pub. L. 102–354][/us/pl/102/354], § 3(a)(2), renumbered [section 588 of this title][/us/usc/t5/s588] as this section.
 
-    Subsec. (d). [Pub. L. 102–354, § 3(a)(4)][/us/pl/102/354/s3/a/4], substituted “section 569” for “section 589”.
+    Subsec. (d). [Pub. L. 102–354][/us/pl/102/354], § 3(a)(4), substituted “section 569” for “section 589”.
 
 ----------
 
@@ -61,13 +61,13 @@
 ----------
 
 [/us/usc/t31/s1342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1342
-[/us/pl/101/648/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F648%2Fs3%2Fa
+[/us/pl/101/648]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F648
 [/us/stat/104/4974]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4974
-[/us/pl/102/354/s3/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F354%2Fs3%2Fa%2F2
+[/us/pl/102/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F354
 [/us/stat/106/944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F944
 [/us/pl/92/463/s7/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463%2Fs7%2Fd
-[/us/pl/102/354/s3/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F354%2Fs3%2Fa%2F2
+[/us/pl/102/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F354
 [/us/usc/t5/s588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs588
-[/us/pl/102/354/s3/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F354%2Fs3%2Fa%2F4
+[/us/pl/102/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F354
 
 

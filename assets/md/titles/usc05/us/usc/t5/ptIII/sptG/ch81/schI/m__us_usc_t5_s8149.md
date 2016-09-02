@@ -17,7 +17,7 @@
 
     The Secretary of Labor may prescribe rules and regulations necessary for the administration and enforcement of this subchapter including rules and regulations for the conduct of hearings under [section 8124 of this title][/us/usc/t5/s8124]. The rules and regulations shall provide for an Employees’ Compensation Appeals Board of three individuals designated or appointed by the Secretary with authority to hear and, subject to applicable law and the rules and regulations of the Secretary, make final decisions on appeals taken from determinations and awards with respect to claims of employees. In adjudicating claims under [section 8146 of this title][/us/usc/t5/s8146], the Secretary may determine the nature and extent of the proof and evidence required to establish the right to benefits under this subchapter without regard to the date of injury or death for which claim is made.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 555][/us/stat/80/555]; [Pub. L. 90–83, § 1(71)][/us/pl/90/83/s1/71], Sept. 11, 1967, [81 Stat. 213][/us/stat/81/213].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 555][/us/stat/80/555]; [Pub. L. 90–83][/us/pl/90/83], § 1(71), Sept. 11, 1967, [81 Stat. 213][/us/stat/81/213].)
 
 <table>
 
@@ -176,7 +176,7 @@ July 4, 1966, Pub. L. 89–488, §§ 11(a), 12, 80 Stat. 255.  </td>
 [/us/usc/t5/s8146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8146
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F555
-[/us/pl/90/83/s1/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83%2Fs1%2F71
+[/us/pl/90/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83
 [/us/stat/81/213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F213
 [/us/stat/64/1271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1271
 [/us/usc/t5/s8124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8124

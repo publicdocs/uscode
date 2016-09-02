@@ -27,7 +27,7 @@
 
     (2) special retirement accrual benefits and disability in the same manner provided for by the Central Intelligence Agency Retirement Act ([50 U.S.C. 2001][/us/usc/t50/s2001] et seq.) and in section 18 of the Central Intelligence Agency Act of 1949 ([50 U.S.C. 403r][/us/usc/t50/s403r]). <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup> 
 
-(Added [Pub. L. 108–136, div. A, title XI, § 1101(a)(1)][/us/pl/108/136/s1101/a/1], Nov. 24, 2003, [117 Stat. 1633][/us/stat/117/1633].)
+(Added [Pub. L. 108–136, div. A, title XI][/us/pl/108/136/dA/tXI], § 1101(a)(1), Nov. 24, 2003, [117 Stat. 1633][/us/stat/117/1633].)
 
  __References in Text__ 
 
@@ -50,7 +50,7 @@
 [/us/usc/t22/s4081]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4081
 [/us/usc/t50/s2001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2001
 [/us/usc/t50/s403r]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs403r
-[/us/pl/108/136/s1101/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1101%2Fa%2F1
+[/us/pl/108/136/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtXI
 [/us/stat/117/1633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1633
 [/us/pl/96/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465
 [/us/stat/94/2071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2071

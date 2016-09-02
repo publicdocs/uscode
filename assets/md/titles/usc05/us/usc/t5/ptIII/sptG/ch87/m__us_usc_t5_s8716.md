@@ -29,7 +29,7 @@
 
     (c) The Secretary of Agriculture shall prescribe regulations to effect the application and operation of this chapter to an individual named by [section 8701(a)(8) of this title][/us/usc/t5/s8701/a/8].
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 599][/us/stat/80/599]; [Pub. L. 95–437, § 4(b)][/us/pl/95/437/s4/b], Oct. 10, 1978, [92 Stat. 1058][/us/stat/92/1058]; [Pub. L. 95–454, title IX, § 906(a)(2)][/us/pl/95/454/s906/a/2], (3), (c)(2)(F), (G), Oct. 13, 1978, [92 Stat. 1224][/us/stat/92/1224], 1227.)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 599][/us/stat/80/599]; [Pub. L. 95–437][/us/pl/95/437], § 4(b), Oct. 10, 1978, [92 Stat. 1058][/us/stat/92/1058]; [Pub. L. 95–454, title IX][/us/pl/95/454/tIX], § 906(a)(2), (3), (c)(2)(F), (G), Oct. 13, 1978, [92 Stat. 1224][/us/stat/92/1224], 1227.)
 
 <table>
 
@@ -119,13 +119,13 @@ Oct. 6, 1964, Pub. L. 88–631, § 2, 78 Stat. 1007.  </td>
 
  __Amendments__ 
 
-    1978—Subsec. (a). [Pub. L. 95–454, § 906(a)(2)][/us/pl/95/454/s906/a/2], substituted “Office of Personnel Management” for “Civil Service Commission”.
+    1978—Subsec. (a). [Pub. L. 95–454][/us/pl/95/454], § 906(a)(2), substituted “Office of Personnel Management” for “Civil Service Commission”.
 
-    Subsec. (b). [Pub. L. 95–454, § 906(a)(3)][/us/pl/95/454/s906/a/3], substituted “Office” for “Commission” wherever appearing.
+    Subsec. (b). [Pub. L. 95–454][/us/pl/95/454], § 906(a)(3), substituted “Office” for “Commission” wherever appearing.
 
     [Pub. L. 95–437][/us/pl/95/437] substituted “intermittent employment” for “intermittent or part-time employment” in provision preceding par. (1), and added par. (3).
 
-    [Pub. L. 95–454, § 906(c)(2)(F)][/us/pl/95/454/s906/c/2/F], (G), substituted “3401” for “3391” in par. (3).
+    [Pub. L. 95–454][/us/pl/95/454], § 906(c)(2)(F), (G), substituted “3401” for “3391” in par. (3).
 
  __Effective Date of 1978 Amendment__ 
 
@@ -143,16 +143,16 @@ Oct. 6, 1964, Pub. L. 88–631, § 2, 78 Stat. 1007.  </td>
 [/us/usc/t5/s8701/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8701%2Fa%2F8
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F599
-[/us/pl/95/437/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F437%2Fs4%2Fb
+[/us/pl/95/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F437
 [/us/stat/92/1058]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1058
-[/us/pl/95/454/s906/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs906%2Fa%2F2
+[/us/pl/95/454/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtIX
 [/us/stat/92/1224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1224
 [/us/usc/t31/s1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1501
 [/us/stat/69/521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F521
-[/us/pl/95/454/s906/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs906%2Fa%2F2
-[/us/pl/95/454/s906/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs906%2Fa%2F3
+[/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454
+[/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454
 [/us/pl/95/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F437
-[/us/pl/95/454/s906/c/2/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs906%2Fc%2F2%2FF
+[/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454
 [/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454
 [/us/pl/95/454/s907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs907
 [/us/usc/t5/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs1101

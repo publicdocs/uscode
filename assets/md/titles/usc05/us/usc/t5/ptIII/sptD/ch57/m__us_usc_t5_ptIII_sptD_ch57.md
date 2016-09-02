@@ -475,49 +475,49 @@ SUBCHAPTER IV—MISCELLANEOUS PROVISIONS  </td>
 
  __Amendments__ 
 
-    2010—[Pub. L. 111–292, § 3(b)][/us/pl/111/292/s3/b], Dec. 9, 2010, [124 Stat. 3173][/us/stat/124/3173], added item 5711.
+    2010—[Pub. L. 111–292][/us/pl/111/292], § 3(b), Dec. 9, 2010, [124 Stat. 3173][/us/stat/124/3173], added item 5711.
 
-    [Pub. L. 111–178, § 2(c)][/us/pl/111/178/s2/c], June 9, 2010, [124 Stat. 1263][/us/stat/124/1263], added item 5724d.
+    [Pub. L. 111–178][/us/pl/111/178], § 2(c), June 9, 2010, [124 Stat. 1263][/us/stat/124/1263], added item 5724d.
 
-    2009—[Pub. L. 111–117, div. B, title II, § 219(b)][/us/pl/111/117/s219/b], Dec. 16, 2009, [123 Stat. 3142][/us/stat/123/3142], added item 5761.
+    2009—[Pub. L. 111–117, div. B, title II][/us/pl/111/117/dB/tII], § 219(b), Dec. 16, 2009, [123 Stat. 3142][/us/stat/123/3142], added item 5761.
 
-    2008—[Pub. L. 110–181, div. A, title XI, § 1104(b)][/us/pl/110/181/s1104/b], Jan. 28, 2008, [122 Stat. 347][/us/stat/122/347], added item 5737a.
+    2008—[Pub. L. 110–181, div. A, title XI][/us/pl/110/181/dA/tXI], § 1104(b), Jan. 28, 2008, [122 Stat. 347][/us/stat/122/347], added item 5737a.
 
-    2006—[Pub. L. 109–163, div. A, title XI, § 1121(b)][/us/pl/109/163/s1121/b], Jan. 6, 2006, [119 Stat. 3452][/us/stat/119/3452], added item 5760.
+    2006—[Pub. L. 109–163, div. A, title XI][/us/pl/109/163/dA/tXI], § 1121(b), Jan. 6, 2006, [119 Stat. 3452][/us/stat/119/3452], added item 5760.
 
-    2004—[Pub. L. 108–447, div. B, title I, § 113(b)][/us/pl/108/447/s113/b], Dec. 8, 2004, [118 Stat. 2869][/us/stat/118/2869], added item 5759.
+    2004—[Pub. L. 108–447, div. B, title I][/us/pl/108/447/dB/tI], § 113(b), Dec. 8, 2004, [118 Stat. 2869][/us/stat/118/2869], added item 5759.
 
-    [Pub. L. 108–411, title I, § 101(a)(2)][/us/pl/108/411/s101/a/2], Oct. 30, 2004, [118 Stat. 2309][/us/stat/118/2309], substituted “Retention bonuses” for “Retention allowances” in item 5754.
+    [Pub. L. 108–411, title I][/us/pl/108/411/tI], § 101(a)(2), Oct. 30, 2004, [118 Stat. 2309][/us/stat/118/2309], substituted “Retention bonuses” for “Retention allowances” in item 5754.
 
-    2002—[Pub. L. 107–273, div. A, title II, § 207(a)(2)][/us/pl/107/273/s207/a/2], Nov. 2, 2002, [116 Stat. 1780][/us/stat/116/1780], added item 5757 “Extended assignment incentive”.
+    2002—[Pub. L. 107–273, div. A, title II][/us/pl/107/273/dA/tII], § 207(a)(2), Nov. 2, 2002, [116 Stat. 1780][/us/stat/116/1780], added item 5757 “Extended assignment incentive”.
 
-    2001—[Pub. L. 107–107, div. A, title XI, § 1112(b)][/us/pl/107/107/s1112/b], Dec. 28, 2001, [115 Stat. 1239][/us/stat/115/1239], added item 5757 “Payment of expenses to obtain professional credentials”.
+    2001—[Pub. L. 107–107, div. A, title XI][/us/pl/107/107/dA/tXI], § 1112(b), Dec. 28, 2001, [115 Stat. 1239][/us/stat/115/1239], added item 5757 “Payment of expenses to obtain professional credentials”.
 
     1998—[Pub. L. 105–264][/us/pl/105/264], §§ 4(b), 5(c), Oct. 19, 1998, [112 Stat. 2354][/us/stat/112/2354], 2355, added items 5706c, 5710, and 5739.
 
-    1996—[Pub. L. 104–201, div. A, title XVI, § 1605(a)(2)][/us/pl/104/201/s1605/a/2], title XVII, § 1723(c), Sept. 23, 1996, [110 Stat. 2736][/us/stat/110/2736], 2759, added items 5736 to 5738 and 5756.
+    1996—[Pub. L. 104–201, div. A, title XVI][/us/pl/104/201/dA/tXVI], § 1605(a)(2), title XVII, § 1723(c), Sept. 23, 1996, [110 Stat. 2736][/us/stat/110/2736], 2759, added items 5736 to 5738 and 5756.
 
-    1994—[Pub. L. 103–337, div. A, title III, § 345(a)(2)][/us/pl/103/337/s345/a/2], Oct. 5, 1994, [108 Stat. 2724][/us/stat/108/2724], added item 5735.
+    1994—[Pub. L. 103–337, div. A, title III][/us/pl/103/337/dA/tIII], § 345(a)(2), Oct. 5, 1994, [108 Stat. 2724][/us/stat/108/2724], added item 5735.
 
-    1992—[Pub. L. 102–378, § 2(46)][/us/pl/102/378/s2/46], Oct. 2, 1992, [106 Stat. 1353][/us/stat/106/1353], struck out “; manpower shortage positions” after “trainees” in item 5723 and added item 5755.
+    1992—[Pub. L. 102–378][/us/pl/102/378], § 2(46), Oct. 2, 1992, [106 Stat. 1353][/us/stat/106/1353], struck out “; manpower shortage positions” after “trainees” in item 5723 and added item 5755.
 
-    1990—[Pub. L. 101–509, title V, § 529][/us/pl/101/509/s529] \[title II, §§ 206(a)(2), 208(b)\], Nov. 5, 1990, [104 Stat. 1427][/us/stat/104/1427], 1457, 1460, added items 5706b, 5753, and 5754.
+    1990—[Pub. L. 101–509, title V][/us/pl/101/509/tV], § 529 \[title II, §§ 206(a)(2), 208(b)\], Nov. 5, 1990, [104 Stat. 1427][/us/stat/104/1427], 1457, 1460, added items 5706b, 5753, and 5754.
 
-    [Pub. L. 101–391, § 4(b)][/us/pl/101/391/s4/b], Sept. 25, 1990, [104 Stat. 750][/us/stat/104/750], added item 5707a.
+    [Pub. L. 101–391][/us/pl/101/391], § 4(b), Sept. 25, 1990, [104 Stat. 750][/us/stat/104/750], added item 5707a.
 
-    1986—[Pub. L. 99–234, title I][/us/pl/99/234], §§ 103(b), 106(b), Jan. 2, 1986, [99 Stat. 1758][/us/stat/99/1758], 1759, added items 5706a and 5734.
+    1986—[Pub. L. 99–234, title I][/us/pl/99/234/tI], §§ 103(b), 106(b), Jan. 2, 1986, [99 Stat. 1758][/us/stat/99/1758], 1759, added items 5706a and 5734.
 
-    1983—[Pub. L. 98–151, § 118(a)(7)(A)(ii)][/us/pl/98/151/s118/a/7/A/ii], Nov. 14, 1983, [97 Stat. 979][/us/stat/97/979], added items 5724b and 5724c.
+    1983—[Pub. L. 98–151][/us/pl/98/151], § 118(a)(7)(A)(ii), Nov. 14, 1983, [97 Stat. 979][/us/stat/97/979], added items 5724b and 5724c.
 
-    1978—[Pub. L. 95–454, title IV, § 409(c)][/us/pl/95/454/s409/c], Oct. 13, 1978, [92 Stat. 1173][/us/stat/92/1173], added item 5752.
+    1978—[Pub. L. 95–454, title IV][/us/pl/95/454/tIV], § 409(c), Oct. 13, 1978, [92 Stat. 1173][/us/stat/92/1173], added item 5752.
 
-    1975—[Pub. L. 94–22, § 7][/us/pl/94/22/s7], May 19, 1975, [89 Stat. 86][/us/stat/89/86], inserted “and reports” after “Regulations” in item 5707.
+    1975—[Pub. L. 94–22][/us/pl/94/22], § 7, May 19, 1975, [89 Stat. 86][/us/stat/89/86], inserted “and reports” after “Regulations” in item 5707.
 
-    1970—[Pub. L. 91–563, § 4(b)][/us/pl/91/563/s4/b], Dec. 19, 1970, [84 Stat. 1477][/us/stat/84/1477], added heading of Subchapter IV and item 5751.
+    1970—[Pub. L. 91–563][/us/pl/91/563], § 4(b), Dec. 19, 1970, [84 Stat. 1477][/us/stat/84/1477], added heading of Subchapter IV and item 5751.
 
-    [Pub. L. 91–481, § 1(2)][/us/pl/91/481/s1/2], Oct. 21, 1970, [84 Stat. 1081][/us/stat/84/1081], added item 5709.
+    [Pub. L. 91–481][/us/pl/91/481], § 1(2), Oct. 21, 1970, [84 Stat. 1081][/us/stat/84/1081], added item 5709.
 
-    1967—[Pub. L. 90–206, title II, § 222(c)(2)][/us/pl/90/206/s222/c/2], Dec. 16, 1967, [81 Stat. 641][/us/stat/81/641], added item 5733.
+    1967—[Pub. L. 90–206, title II][/us/pl/90/206/tII], § 222(c)(2), Dec. 16, 1967, [81 Stat. 641][/us/stat/81/641], added item 5733.
 
     [Pub. L. 90–83][/us/pl/90/83] § 1(37)(B), Sept. 11, 1967, [81 Stat. 205][/us/stat/81/205], added item 5724a.
 
@@ -528,49 +528,49 @@ SUBCHAPTER IV—MISCELLANEOUS PROVISIONS  </td>
 ----------
 ----------
 
-[/us/pl/111/292/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F292%2Fs3%2Fb
+[/us/pl/111/292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F292
 [/us/stat/124/3173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3173
-[/us/pl/111/178/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F178%2Fs2%2Fc
+[/us/pl/111/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F178
 [/us/stat/124/1263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1263
-[/us/pl/111/117/s219/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F117%2Fs219%2Fb
+[/us/pl/111/117/dB/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F117%2FdB%2FtII
 [/us/stat/123/3142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F3142
-[/us/pl/110/181/s1104/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1104%2Fb
+[/us/pl/110/181/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtXI
 [/us/stat/122/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F347
-[/us/pl/109/163/s1121/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs1121%2Fb
+[/us/pl/109/163/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtXI
 [/us/stat/119/3452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3452
-[/us/pl/108/447/s113/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs113%2Fb
+[/us/pl/108/447/dB/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdB%2FtI
 [/us/stat/118/2869]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2869
-[/us/pl/108/411/s101/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F411%2Fs101%2Fa%2F2
+[/us/pl/108/411/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F411%2FtI
 [/us/stat/118/2309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2309
-[/us/pl/107/273/s207/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs207%2Fa%2F2
+[/us/pl/107/273/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdA%2FtII
 [/us/stat/116/1780]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1780
-[/us/pl/107/107/s1112/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs1112%2Fb
+[/us/pl/107/107/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtXI
 [/us/stat/115/1239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1239
 [/us/pl/105/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F264
 [/us/stat/112/2354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2354
-[/us/pl/104/201/s1605/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1605%2Fa%2F2
+[/us/pl/104/201/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtXVI
 [/us/stat/110/2736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2736
-[/us/pl/103/337/s345/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs345%2Fa%2F2
+[/us/pl/103/337/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtIII
 [/us/stat/108/2724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2724
-[/us/pl/102/378/s2/46]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378%2Fs2%2F46
+[/us/pl/102/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378
 [/us/stat/106/1353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1353
-[/us/pl/101/509/s529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2Fs529
+[/us/pl/101/509/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2FtV
 [/us/stat/104/1427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1427
-[/us/pl/101/391/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F391%2Fs4%2Fb
+[/us/pl/101/391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F391
 [/us/stat/104/750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F750
-[/us/pl/99/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F234
+[/us/pl/99/234/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F234%2FtI
 [/us/stat/99/1758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1758
-[/us/pl/98/151/s118/a/7/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F151%2Fs118%2Fa%2F7%2FA%2Fii
+[/us/pl/98/151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F151
 [/us/stat/97/979]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F979
-[/us/pl/95/454/s409/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs409%2Fc
+[/us/pl/95/454/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtIV
 [/us/stat/92/1173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1173
-[/us/pl/94/22/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F22%2Fs7
+[/us/pl/94/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F22
 [/us/stat/89/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F86
-[/us/pl/91/563/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F563%2Fs4%2Fb
+[/us/pl/91/563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F563
 [/us/stat/84/1477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1477
-[/us/pl/91/481/s1/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F481%2Fs1%2F2
+[/us/pl/91/481]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F481
 [/us/stat/84/1081]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1081
-[/us/pl/90/206/s222/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F206%2Fs222%2Fc%2F2
+[/us/pl/90/206/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F206%2FtII
 [/us/stat/81/641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F641
 [/us/pl/90/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83
 [/us/stat/81/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F205

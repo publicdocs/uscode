@@ -37,11 +37,11 @@
 
     (c) If a vacancy occurs during an adjournment of the Congress sine die, the 210-day period under subsection (a) shall begin on the date that the Senate first reconvenes.
 
-(Added [Pub. L. 105–277, div. C, title I, § 151(b)][/us/pl/105/277/s151/b], Oct. 21, 1998, [112 Stat. 2681–612][/us/stat/112/2681-612].)
+(Added [Pub. L. 105–277, div. C, title I][/us/pl/105/277/dC/tI], § 151(b), Oct. 21, 1998, [112 Stat. 2681–612][/us/stat/112/2681-612].)
 
  __Prior Provisions__ 
 
-    A prior section 3346, [Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 426][/us/stat/80/426], provided for details to subordinate offices, prior to repeal by [Pub. L. 105–277, div. C, title I, § 151(b)][/us/pl/105/277/s151/b], (d)(1), Oct. 21, 1998, [112 Stat. 2681–611][/us/stat/112/2681-611], 2681–616, effective 30 days after Oct. 21, 1998. See [section 3345 of this title][/us/usc/t5/s3345].
+    A prior section 3346, [Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 426][/us/stat/80/426], provided for details to subordinate offices, prior to repeal by [Pub. L. 105–277, div. C, title I][/us/pl/105/277/dC/tI], § 151(b), (d)(1), Oct. 21, 1998, [112 Stat. 2681–611][/us/stat/112/2681-611], 2681–616, effective 30 days after Oct. 21, 1998. See [section 3345 of this title][/us/usc/t5/s3345].
 
  __Effective Date__ 
 
@@ -54,11 +54,11 @@
 ----------
 ----------
 
-[/us/pl/105/277/s151/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs151%2Fb
+[/us/pl/105/277/dC/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdC%2FtI
 [/us/stat/112/2681-612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-612
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F426
-[/us/pl/105/277/s151/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs151%2Fb
+[/us/pl/105/277/dC/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdC%2FtI
 [/us/stat/112/2681-611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-611
 [/us/usc/t5/s3345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3345
 [/us/pl/105/277/s151/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs151%2Fd

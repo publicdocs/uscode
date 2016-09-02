@@ -55,7 +55,7 @@
 
         (7) shall be paid from appropriations or funds available for the payment of the basic pay of the employee.
 
-(Added [Pub. L. 107–296, title XIII, § 1313(a)(1)(A)][/us/pl/107/296/s1313/a/1/A], Nov. 25, 2002, [116 Stat. 2293][/us/stat/116/2293].)
+(Added [Pub. L. 107–296, title XIII][/us/pl/107/296/tXIII], § 1313(a)(1)(A), Nov. 25, 2002, [116 Stat. 2293][/us/stat/116/2293].)
 
 ----------
 
@@ -64,7 +64,7 @@
 ----------
 ----------
 
-[/us/pl/107/296/s1313/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1313%2Fa%2F1%2FA
+[/us/pl/107/296/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXIII
 [/us/stat/116/2293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2293
 
 

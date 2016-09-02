@@ -103,7 +103,7 @@ Apr. 6, 1938, ch. 79 “Sec. 42 (2d sentence of 2d par.)”, 52 Stat. 201.  </td
 
     In subsection (a), the words “in his discretion” are omitted as unnecessary in view of the permissive nature of the authority. The word “continental” is added on authority of the last sentence of the fifth paragraph of former section 793, which is carried into section 8137.
 
-    In subsection (b), the words “Canal Zone Government” and “Panama Canal Company” are substituted for “Panama Canal” and “Panama Railroad Company”, respectively, on authority of the [Act of Sept. 26, 1950, ch. 1049, § 2(a)][/us/act/1950-09-26/ch1049/s2/a], [64 Stat. 1038][/us/stat/64/1038].
+    In subsection (b), the words “Canal Zone Government” and “Panama Canal Company” are substituted for “Panama Canal” and “Panama Railroad Company”, respectively, on authority of the [Act of Sept. 26, 1950, ch. 1049][/us/act/1950-09-26/ch1049], § 2(a), [64 Stat. 1038][/us/stat/64/1038].
 
     Administration of this subchapter was transferred to the Secretary of Labor by section 1 of 1950 Reorg. Plan No. 19, [64 Stat. 1271][/us/stat/64/1271] (see section 8145).
 
@@ -126,7 +126,7 @@ Apr. 6, 1938, ch. 79 “Sec. 42 (2d sentence of 2d par.)”, 52 Stat. 201.  </td
 [/us/usc/t5/s8133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8133
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F550
-[/us/act/1950-09-26/ch1049/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-26%2Fch1049%2Fs2%2Fa
+[/us/act/1950-09-26/ch1049]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-26%2Fch1049
 [/us/stat/64/1038]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1038
 [/us/stat/64/1271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1271
 [/us/usc/t22/s3602/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3602%2Fb

@@ -17,7 +17,7 @@
 
     This subchapter, chapter 7, and sections 1305, 3105, 3344, 4301(2)(E), 5372, and 7521 of this title, and the provisions of [section 5335(a)(B) of this title][/us/usc/t5/s5335/a/B] that relate to administrative law judges, do not limit or repeal additional requirements imposed by statute or otherwise recognized by law. Except as otherwise required by law, requirements or privileges relating to evidence or procedure apply equally to agencies and persons. Each agency is granted the authority necessary to comply with the requirements of this subchapter through the issuance of rules or otherwise. Subsequent statute may not be held to supersede or modify this subchapter, chapter 7, sections 1305, 3105, 3344, 4301(2)(E), 5372, or 7521 of this title, or the provisions of [section 5335(a)(B) of this title][/us/usc/t5/s5335/a/B] that relate to administrative law judges, except to the extent that it does so expressly.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 388][/us/stat/80/388]; [Pub. L. 90–623, § 1(1)][/us/pl/90/623/s1/1], Oct. 22, 1968, [82 Stat. 1312][/us/stat/82/1312]; [Pub. L. 95–251, § 2(a)(1)][/us/pl/95/251/s2/a/1], Mar. 27, 1978, [92 Stat. 183][/us/stat/92/183]; [Pub. L. 95–454, title VIII, § 801(a)(3)(B)(iii)][/us/pl/95/454/s801/a/3/B/iii], Oct. 13, 1978, [92 Stat. 1221][/us/stat/92/1221].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 388][/us/stat/80/388]; [Pub. L. 90–623][/us/pl/90/623], § 1(1), Oct. 22, 1968, [82 Stat. 1312][/us/stat/82/1312]; [Pub. L. 95–251][/us/pl/95/251], § 2(a)(1), Mar. 27, 1978, [92 Stat. 183][/us/stat/92/183]; [Pub. L. 95–454, title VIII][/us/pl/95/454/tVIII], § 801(a)(3)(B)(iii), Oct. 13, 1978, [92 Stat. 1221][/us/stat/92/1221].)
 
 <table>
 
@@ -98,11 +98,11 @@ June 11, 1946, ch. 324, § 12, 60 Stat. 244.  </td>
 [/us/usc/t5/s5335/a/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5335%2Fa%2FB
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F388
-[/us/pl/90/623/s1/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F623%2Fs1%2F1
+[/us/pl/90/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F623
 [/us/stat/82/1312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1312
-[/us/pl/95/251/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F251%2Fs2%2Fa%2F1
+[/us/pl/95/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F251
 [/us/stat/92/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F183
-[/us/pl/95/454/s801/a/3/B/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs801%2Fa%2F3%2FB%2Fiii
+[/us/pl/95/454/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtVIII
 [/us/stat/92/1221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1221
 [/us/usc/t5/s5335/a/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5335%2Fa%2FB
 [/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454

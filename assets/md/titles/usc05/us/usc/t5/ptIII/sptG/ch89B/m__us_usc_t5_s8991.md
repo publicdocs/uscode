@@ -17,7 +17,7 @@
 
     The district courts of the United States have original jurisdiction, concurrent with the United States Court of Federal Claims, of a civil action or claim against the United States under this chapter after such administrative remedies as required under section 8983(d) have been exhausted, but only to the extent judicial review is not precluded by any dispute resolution or other remedy under this chapter.
 
-(Added [Pub. L. 108–496, § 3][/us/pl/108/496/s3], Dec. 23, 2004, [118 Stat. 4010][/us/stat/118/4010].)
+(Added [Pub. L. 108–496][/us/pl/108/496], § 3, Dec. 23, 2004, [118 Stat. 4010][/us/stat/118/4010].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/108/496/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F496%2Fs3
+[/us/pl/108/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F496
 [/us/stat/118/4010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F4010
 
 

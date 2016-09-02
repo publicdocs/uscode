@@ -19,7 +19,7 @@
 
     (b) The Office of Personnel Management shall provide the Chief of the Capitol Police with such advice and assistance as the Chief may request in order to enable the Chief to carry out the purposes of this section.
 
-(Added [Pub. L. 108–7, div. H, title I, § 1010(a)][/us/pl/108/7/s1010/a], Feb. 20, 2003, [117 Stat. 360][/us/stat/117/360].)
+(Added [Pub. L. 108–7, div. H, title I][/us/pl/108/7/dH/tI], § 1010(a), Feb. 20, 2003, [117 Stat. 360][/us/stat/117/360].)
 
 ----------
 
@@ -28,7 +28,7 @@
 ----------
 ----------
 
-[/us/pl/108/7/s1010/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs1010%2Fa
+[/us/pl/108/7/dH/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2FdH%2FtI
 [/us/stat/117/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F360
 
 

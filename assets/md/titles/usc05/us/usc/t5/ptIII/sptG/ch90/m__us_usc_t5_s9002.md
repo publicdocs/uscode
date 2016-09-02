@@ -61,7 +61,7 @@
 
     The benefits and coverage made available to eligible individuals under any insurance contract under this chapter shall be guaranteed renewable (as defined by section 7A(2) of the model regulations described in section 7702B(g)(2) of the Internal Revenue Code of 1986), including the right to have insurance remain in effect so long as premiums continue to be timely made. However, the authority to revise premiums under this chapter shall be available only on a class basis and only to the extent otherwise allowable under section 9003(b).
 
-(Added [Pub. L. 106–265, title I, § 1002(a)][/us/pl/106/265/s1002/a], Sept. 19, 2000, [114 Stat. 764][/us/stat/114/764]; amended [Pub. L. 107–314, div. A, title XI, § 1101(b)][/us/pl/107/314/s1101/b], Dec. 2, 2002, [116 Stat. 2660][/us/stat/116/2660].)
+(Added [Pub. L. 106–265, title I][/us/pl/106/265/tI], § 1002(a), Sept. 19, 2000, [114 Stat. 764][/us/stat/114/764]; amended [Pub. L. 107–314, div. A, title XI][/us/pl/107/314/dA/tXI], § 1101(b), Dec. 2, 2002, [116 Stat. 2660][/us/stat/116/2660].)
 
  __References in Text__ 
 
@@ -78,9 +78,9 @@
 ----------
 ----------
 
-[/us/pl/106/265/s1002/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F265%2Fs1002%2Fa
+[/us/pl/106/265/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F265%2FtI
 [/us/stat/114/764]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F764
-[/us/pl/107/314/s1101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs1101%2Fb
+[/us/pl/107/314/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtXI
 [/us/stat/116/2660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2660
 [/us/usc/t26/s7702B/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs7702B%2Fg%2F2
 [/us/pl/107/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314

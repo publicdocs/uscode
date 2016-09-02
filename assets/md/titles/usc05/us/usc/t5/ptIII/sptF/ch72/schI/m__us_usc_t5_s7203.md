@@ -17,7 +17,7 @@
 
     The President may prescribe rules which shall prohibit, as nearly as conditions of good administration warrant, discrimination because of handicapping condition in an Executive agency or in the competitive service with respect to a position the duties of which, in the opinion of the Office of Personnel Management, can be performed efficiently by an individual with a handicapping condition, except that the employment may not endanger the health or safety of the individual or others.
 
-([Pub. L. 89–544][/us/pl/89/544], Sept. 6, 1966, [80 Stat. 523][/us/stat/80/523], § 7153; renumbered § 7203 and amended [Pub. L. 95–454, title I, § 101(b)(2)][/us/pl/95/454/s101/b/2], title VII, § 703(a)(1), title IX, § 906(a)(2), Oct. 13, 1978, [92 Stat. 1118][/us/stat/92/1118], 1216, 1224.)
+([Pub. L. 89–544][/us/pl/89/544], Sept. 6, 1966, [80 Stat. 523][/us/stat/80/523], § 7153; renumbered § 7203 and amended [Pub. L. 95–454, title I][/us/pl/95/454/tI], § 101(b)(2), title VII, § 703(a)(1), title IX, § 906(a)(2), Oct. 13, 1978, [92 Stat. 1118][/us/stat/92/1118], 1216, 1224.)
 
 <table>
 
@@ -71,7 +71,7 @@ June 10, 1948, ch. 434, 62 Stat. 351.  </td>
 
  __Amendments__ 
 
-    1978—[Pub. L. 95–454, § 703(a)(1)][/us/pl/95/454/s703/a/1], renumbered [section 7153 of this title][/us/usc/t5/s7153] as this section.
+    1978—[Pub. L. 95–454][/us/pl/95/454], § 703(a)(1), renumbered [section 7153 of this title][/us/usc/t5/s7153] as this section.
 
     [Pub. L. 95–454][/us/pl/95/454], §§ 101(b)(2), 906(a)(2), substituted “Handicapping condition” for “Physical handicap” in section catchline, “handicapping condition” for “physical handicap” wherever appearing in text, and “Office of Personnel Management” for “Civil Service Commission”.
 
@@ -88,9 +88,9 @@ June 10, 1948, ch. 434, 62 Stat. 351.  </td>
 
 [/us/pl/89/544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F544
 [/us/stat/80/523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F523
-[/us/pl/95/454/s101/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs101%2Fb%2F2
+[/us/pl/95/454/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtI
 [/us/stat/92/1118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1118
-[/us/pl/95/454/s703/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs703%2Fa%2F1
+[/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454
 [/us/usc/t5/s7153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs7153
 [/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454
 [/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454

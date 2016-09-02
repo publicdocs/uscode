@@ -183,7 +183,7 @@
 
     (j) The Office shall prescribe regulations under which, with respect to services or supplies furnished by a debarred provider to a covered individual during the period of such provider’s debarment, payment or reimbursement under this chapter may be made, notwithstanding the fact of such debarment, if such individual did not know or could not reasonably be expected to have known of the debarment. In any such instance, the carrier involved shall take appropriate measures to ensure that the individual is informed of the debarment and the minimum period of time remaining under the terms of the debarment.
 
-(Added [Pub. L. 100–654, title I, § 101(a)][/us/pl/100/654/s101/a], Nov. 14, 1988, [102 Stat. 3837][/us/stat/102/3837]; amended [Pub. L. 105–266, § 2(a)][/us/pl/105/266/s2/a], Oct. 19, 1998, [112 Stat. 2363][/us/stat/112/2363].)
+(Added [Pub. L. 100–654, title I][/us/pl/100/654/tI], § 101(a), Nov. 14, 1988, [102 Stat. 3837][/us/stat/102/3837]; amended [Pub. L. 105–266][/us/pl/105/266], § 2(a), Oct. 19, 1998, [112 Stat. 2363][/us/stat/112/2363].)
 
  __References in Text__ 
 
@@ -191,57 +191,57 @@
 
  __Amendments__ 
 
-    1998—Subsec. (a)(1)(D). [Pub. L. 105–266, § 2(a)(1)(A)][/us/pl/105/266/s2/a/1/A], added subpar. (D).
+    1998—Subsec. (a)(1)(D). [Pub. L. 105–266][/us/pl/105/266], § 2(a)(1)(A), added subpar. (D).
 
-    Subsec. (a)(2)(A). [Pub. L. 105–266, § 2(a)(1)(B)][/us/pl/105/266/s2/a/1/B], substituted “subsection (b), (c), or (d)” for “subsection (b) or (c)”.
+    Subsec. (a)(2)(A). [Pub. L. 105–266][/us/pl/105/266], § 2(a)(1)(B), substituted “subsection (b), (c), or (d)” for “subsection (b) or (c)”.
 
-    Subsec. (b). [Pub. L. 105–266, § 2(a)(2)(A)][/us/pl/105/266/s2/a/2/A], substituted “shall” for “may” in introductory provisions.
+    Subsec. (b). [Pub. L. 105–266][/us/pl/105/266], § 2(a)(2)(A), substituted “shall” for “may” in introductory provisions.
 
-    Subsec. (b)(5). [Pub. L. 105–266, § 2(a)(2)(B)][/us/pl/105/266/s2/a/2/B], amended par. (5) generally. Prior to amendment, par. (5) read as follows: “Any provider—
+    Subsec. (b)(5). [Pub. L. 105–266][/us/pl/105/266], § 2(a)(2)(B), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “Any provider—
 
     “(A) whose license to provide health care services or supplies has been revoked, suspended, restricted, or not renewed, by a State licensing authority for reasons relating to the provider’s professional competence, professional performance, or financial integrity; or
 
     “(B) that surrendered such a license while a formal disciplinary proceeding was pending before such an authority, if the proceeding concerned the provider’s professional competence, professional performance, or financial integrity.”
 
-    Subsec. (c). [Pub. L. 105–266, § 2(a)(3)][/us/pl/105/266/s2/a/3], added subsec. (c). Former subsec. (c) redesignated (d).
+    Subsec. (c). [Pub. L. 105–266][/us/pl/105/266], § 2(a)(3), added subsec. (c). Former subsec. (c) redesignated (d).
 
-    Subsec. (d). [Pub. L. 105–266, § 2(a)(3)][/us/pl/105/266/s2/a/3], redesignated subsec. (c) as (d). Former subsec. (d) redesignated (e).
+    Subsec. (d). [Pub. L. 105–266][/us/pl/105/266], § 2(a)(3), redesignated subsec. (c) as (d). Former subsec. (d) redesignated (e).
 
-    Subsec. (d)(1). [Pub. L. 105–266, § 2(a)(4)][/us/pl/105/266/s2/a/4], amended par. (1) generally. Prior to amendment, par. (1) read as follows: “in connection with a claim presented under this chapter, that a provider of health care services or supplies—
+    Subsec. (d)(1). [Pub. L. 105–266][/us/pl/105/266], § 2(a)(4), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “in connection with a claim presented under this chapter, that a provider of health care services or supplies—
 
     “(A) has charged for health care services or supplies that the provider knows or should have known were not provided as claimed; or
 
     “(B) has charged for health care services or supplies in an amount substantially in excess of such provider’s customary charges for such services or supplies, or charged for health care services or supplies which are substantially in excess of the needs of the covered individual or which are of a quality that fails to meet professionally recognized standards for such services or supplies;”.
 
-    Subsec. (e). [Pub. L. 105–266, § 2(a)(3)][/us/pl/105/266/s2/a/3], redesignated subsec. (d) as (e). Former subsec. (e) redesignated (f).
+    Subsec. (e). [Pub. L. 105–266][/us/pl/105/266], § 2(a)(3), redesignated subsec. (d) as (e). Former subsec. (e) redesignated (f).
 
-    Subsec. (f). [Pub. L. 105–266, § 2(a)(3)][/us/pl/105/266/s2/a/3], (5), redesignated subsec. (e) as (f) and inserted “(where such debarment is not mandatory)” after “debarment under this section”. Former subsec. (f) redesignated (g).
+    Subsec. (f). [Pub. L. 105–266][/us/pl/105/266], § 2(a)(3), (5), redesignated subsec. (e) as (f) and inserted “(where such debarment is not mandatory)” after “debarment under this section”. Former subsec. (f) redesignated (g).
 
-    Subsec. (g). [Pub. L. 105–266, § 2(a)(3)][/us/pl/105/266/s2/a/3], redesignated subsec. (f) as (g). Former subsec. (g) redesignated (h).
+    Subsec. (g). [Pub. L. 105–266][/us/pl/105/266], § 2(a)(3), redesignated subsec. (f) as (g). Former subsec. (g) redesignated (h).
 
-    Subsec. (g)(1). [Pub. L. 105–266, § 2(a)(6)(A)][/us/pl/105/266/s2/a/6/A], added par. (1) and struck out former par. (1) which read as follows: “The debarment of a provider under subsection (b) or (c) shall be effective at such time and upon such reasonable notice to such provider, and to carriers and covered individuals, as may be specified in regulations prescribed by the Office.”
+    Subsec. (g)(1). [Pub. L. 105–266][/us/pl/105/266], § 2(a)(6)(A), added par. (1) and struck out former par. (1) which read as follows: “The debarment of a provider under subsection (b) or (c) shall be effective at such time and upon such reasonable notice to such provider, and to carriers and covered individuals, as may be specified in regulations prescribed by the Office.”
 
-    Subsec. (g)(3). [Pub. L. 105–266, § 2(a)(6)(B)][/us/pl/105/266/s2/a/6/B], inserted “of debarment” after “notice” and inserted at end “In the case of a debarment under paragraph (1), (2), (3), or (4) of subsection (b), the minimum period of debarment shall not be less than 3 years, except as provided in paragraph (4)(B)(ii).”
+    Subsec. (g)(3). [Pub. L. 105–266][/us/pl/105/266], § 2(a)(6)(B), inserted “of debarment” after “notice” and inserted at end “In the case of a debarment under paragraph (1), (2), (3), or (4) of subsection (b), the minimum period of debarment shall not be less than 3 years, except as provided in paragraph (4)(B)(ii).”
 
-    Subsec. (g)(4)(B)(i)(I). [Pub. L. 105–266, § 2(a)(6)(C)][/us/pl/105/266/s2/a/6/C], substituted “subsection (b), (c), or (d)” for “subsection (b) or (c)”.
+    Subsec. (g)(4)(B)(i)(I). [Pub. L. 105–266][/us/pl/105/266], § 2(a)(6)(C), substituted “subsection (b), (c), or (d)” for “subsection (b) or (c)”.
 
-    Subsec. (g)(6). [Pub. L. 105–266, § 2(a)(6)(D)][/us/pl/105/266/s2/a/6/D], struck out par. (6) which read as follows: “The Office shall, upon written request and payment of a reasonable charge to defray the cost of complying with such request, furnish a current list of any providers barred from participating in the program under this chapter, including the minimum period of time remaining under the terms of each provider’s debarment.”
+    Subsec. (g)(6). [Pub. L. 105–266][/us/pl/105/266], § 2(a)(6)(D), struck out par. (6) which read as follows: “The Office shall, upon written request and payment of a reasonable charge to defray the cost of complying with such request, furnish a current list of any providers barred from participating in the program under this chapter, including the minimum period of time remaining under the terms of each provider’s debarment.”
 
-    Subsec. (h). [Pub. L. 105–266, § 2(a)(3)][/us/pl/105/266/s2/a/3], redesignated subsec. (g) as (h). Former subsec. (h) redesignated (i).
+    Subsec. (h). [Pub. L. 105–266][/us/pl/105/266], § 2(a)(3), redesignated subsec. (g) as (h). Former subsec. (h) redesignated (i).
 
-    Subsec. (h)(1), (2). [Pub. L. 105–266, § 2(a)(7)][/us/pl/105/266/s2/a/7], added pars. (1) and (2) and struck out former pars. (1) and (2) which read as follows:
+    Subsec. (h)(1), (2). [Pub. L. 105–266][/us/pl/105/266], § 2(a)(7), added pars. (1) and (2) and struck out former pars. (1) and (2) which read as follows:
 
     “(1) The Office may not make a determination under subsection (b) or (c) adverse to a provider of health care services or supplies until such provider has been given written notice and an opportunity for a hearing on the record. A provider is entitled to be represented by counsel, to present witnesses, and to cross-examine witnesses against the provider in any such hearing.
 
     “(2) Notwithstanding section 8912, any person adversely affected by a final decision under paragraph (1) may obtain review of such decision in the United States Court of Appeals for the Federal Circuit. A written petition requesting that the decision be modified or set aside must be filed within 60 days after the date on which such person is notified of such decision.”
 
-    Subsec. (i). [Pub. L. 105–266, § 2(a)(3)][/us/pl/105/266/s2/a/3], (8), redesignated subsec. (h) as (i), substituted “subsection (d)” for “subsection (c)”, and inserted at end “The amount of a penalty or assessment as finally determined by the Office, or other amount the Office may agree to in compromise, may be deducted from any sum then or later owing by the United States to the party against whom the penalty or assessment has been levied.” Former subsec. (i) redesignated (j).
+    Subsec. (i). [Pub. L. 105–266][/us/pl/105/266], § 2(a)(3), (8), redesignated subsec. (h) as (i), substituted “subsection (d)” for “subsection (c)”, and inserted at end “The amount of a penalty or assessment as finally determined by the Office, or other amount the Office may agree to in compromise, may be deducted from any sum then or later owing by the United States to the party against whom the penalty or assessment has been levied.” Former subsec. (i) redesignated (j).
 
-    Subsec. (j). [Pub. L. 105–266, § 2(a)(3)][/us/pl/105/266/s2/a/3], redesignated subsec. (i) as (j).
+    Subsec. (j). [Pub. L. 105–266][/us/pl/105/266], § 2(a)(3), redesignated subsec. (i) as (j).
 
  __Effective Date of 1998 Amendment__ 
 
-[Pub. L. 105–266, § 2(b)][/us/pl/105/266/s2/b], Oct. 19, 1998, [112 Stat. 2366][/us/stat/112/2366], provided that:
+[Pub. L. 105–266][/us/pl/105/266], § 2(b), Oct. 19, 1998, [112 Stat. 2366][/us/stat/112/2366], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -257,7 +257,7 @@
 
  __Effective Date; Prior Conduct__ 
 
-[Pub. L. 100–654, title I, § 102][/us/pl/100/654/s102], Nov. 14, 1988, [102 Stat. 3841][/us/stat/102/3841], provided that:
+[Pub. L. 100–654, title I][/us/pl/100/654/tI], § 102, Nov. 14, 1988, [102 Stat. 3841][/us/stat/102/3841], provided that:
 
 >     “(a)  __Applicability__  __.—__ 
 
@@ -274,36 +274,36 @@
 ----------
 ----------
 
-[/us/pl/100/654/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F654%2Fs101%2Fa
+[/us/pl/100/654/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F654%2FtI
 [/us/stat/102/3837]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3837
-[/us/pl/105/266/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F266%2Fs2%2Fa
+[/us/pl/105/266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F266
 [/us/stat/112/2363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2363
 [/us/pl/103/355/s2455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs2455
 [/us/usc/t31/s6101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs6101
-[/us/pl/105/266/s2/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F266%2Fs2%2Fa%2F1%2FA
-[/us/pl/105/266/s2/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F266%2Fs2%2Fa%2F1%2FB
-[/us/pl/105/266/s2/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F266%2Fs2%2Fa%2F2%2FA
-[/us/pl/105/266/s2/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F266%2Fs2%2Fa%2F2%2FB
-[/us/pl/105/266/s2/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F266%2Fs2%2Fa%2F3
-[/us/pl/105/266/s2/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F266%2Fs2%2Fa%2F3
-[/us/pl/105/266/s2/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F266%2Fs2%2Fa%2F4
-[/us/pl/105/266/s2/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F266%2Fs2%2Fa%2F3
-[/us/pl/105/266/s2/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F266%2Fs2%2Fa%2F3
-[/us/pl/105/266/s2/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F266%2Fs2%2Fa%2F3
-[/us/pl/105/266/s2/a/6/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F266%2Fs2%2Fa%2F6%2FA
-[/us/pl/105/266/s2/a/6/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F266%2Fs2%2Fa%2F6%2FB
-[/us/pl/105/266/s2/a/6/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F266%2Fs2%2Fa%2F6%2FC
-[/us/pl/105/266/s2/a/6/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F266%2Fs2%2Fa%2F6%2FD
-[/us/pl/105/266/s2/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F266%2Fs2%2Fa%2F3
-[/us/pl/105/266/s2/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F266%2Fs2%2Fa%2F7
-[/us/pl/105/266/s2/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F266%2Fs2%2Fa%2F3
-[/us/pl/105/266/s2/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F266%2Fs2%2Fa%2F3
-[/us/pl/105/266/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F266%2Fs2%2Fb
+[/us/pl/105/266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F266
+[/us/pl/105/266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F266
+[/us/pl/105/266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F266
+[/us/pl/105/266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F266
+[/us/pl/105/266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F266
+[/us/pl/105/266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F266
+[/us/pl/105/266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F266
+[/us/pl/105/266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F266
+[/us/pl/105/266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F266
+[/us/pl/105/266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F266
+[/us/pl/105/266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F266
+[/us/pl/105/266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F266
+[/us/pl/105/266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F266
+[/us/pl/105/266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F266
+[/us/pl/105/266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F266
+[/us/pl/105/266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F266
+[/us/pl/105/266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F266
+[/us/pl/105/266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F266
+[/us/pl/105/266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F266
 [/us/stat/112/2366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2366
 [/us/usc/t5/s8902a/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8902a%2Fc
 [/us/usc/t5/s8902a/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8902a%2Fd
 [/us/usc/t5/s8902a/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8902a%2Fg
-[/us/pl/100/654/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F654%2Fs102
+[/us/pl/100/654/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F654%2FtI
 [/us/stat/102/3841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3841
 [/us/usc/t5/s8902a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8902a
 

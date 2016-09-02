@@ -29,7 +29,7 @@
 
     (c) Each supervising ethics office (as defined in section 7353(d)(1)) is authorized to issue regulations implementing this section, including regulations exempting voluntary gifts or contributions that are given or received for special occasions such as marriage or retirement or under other circumstances in which gifts are traditionally given or exchanged.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 527][/us/stat/80/527]; [Pub. L. 101–194, title III, § 301][/us/pl/101/194/s301], Nov. 30, 1989, [103 Stat. 1745][/us/stat/103/1745]; [Pub. L. 101–280, § 4(a)][/us/pl/101/280/s4/a], May 4, 1990, [104 Stat. 157][/us/stat/104/157].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 527][/us/stat/80/527]; [Pub. L. 101–194, title III][/us/pl/101/194/tIII], § 301, Nov. 30, 1989, [103 Stat. 1745][/us/stat/103/1745]; [Pub. L. 101–280][/us/pl/101/280], § 4(a), May 4, 1990, [104 Stat. 157][/us/stat/104/157].)
 
 <table>
 
@@ -83,9 +83,9 @@ R.S. § 1784.  </td>
 
  __Amendments__ 
 
-    1990—Subsec. (a)(2). [Pub. L. 101–280, § 4(a)(1)][/us/pl/101/280/s4/a/1], inserted “or give a gift” after “donation as a gift”.
+    1990—Subsec. (a)(2). [Pub. L. 101–280][/us/pl/101/280], § 4(a)(1), inserted “or give a gift” after “donation as a gift”.
 
-    Subsec. (c). [Pub. L. 101–280, § 4(a)(2)][/us/pl/101/280/s4/a/2], substituted “Each supervising ethics office (as defined in section 7353(d)(1))” for “The Office of Government Ethics” and “circumstances in which gifts are traditionally given or exchanged” for “similar circumstances”.
+    Subsec. (c). [Pub. L. 101–280][/us/pl/101/280], § 4(a)(2), substituted “Each supervising ethics office (as defined in section 7353(d)(1))” for “The Office of Government Ethics” and “circumstances in which gifts are traditionally given or exchanged” for “similar circumstances”.
 
     1989—[Pub. L. 101–194][/us/pl/101/194] designated existing provisions as subsec. (a), struck out “An employee who violates this section shall be removed from the service.” at end, and added subsecs. (b) and (c).
 
@@ -104,14 +104,14 @@ R.S. § 1784.  </td>
 
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F527
-[/us/pl/101/194/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194%2Fs301
+[/us/pl/101/194/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194%2FtIII
 [/us/stat/103/1745]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1745
-[/us/pl/101/280/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280%2Fs4%2Fa
+[/us/pl/101/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280
 [/us/stat/104/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F157
 [/us/stat/37/555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F37%2F555
 [/us/stat/58/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F387
-[/us/pl/101/280/s4/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280%2Fs4%2Fa%2F1
-[/us/pl/101/280/s4/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280%2Fs4%2Fa%2F2
+[/us/pl/101/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280
+[/us/pl/101/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280
 [/us/pl/101/194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194
 [/us/pl/100/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F284
 [/us/stat/102/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F81

@@ -89,7 +89,7 @@
 
         (6) After consultation with the United States Postal Service, the Office shall promulgate any regulations the Office determines necessary under this subsection.
 
-(Added [Pub. L. 109–435, title VIII, § 803(a)(1)(B)][/us/pl/109/435/s803/a/1/B], Dec. 20, 2006, [120 Stat. 3251][/us/stat/120/3251]; amended [Pub. L. 111–68, div. B, § 164(a)][/us/pl/111/68/s164/a], Oct. 1, 2009, [123 Stat. 2053][/us/stat/123/2053]; [Pub. L. 112–33, § 124][/us/pl/112/33/s124], Sept. 30, 2011, [125 Stat. 366][/us/stat/125/366]; [Pub. L. 112–74, div. C, title VI, § 632][/us/pl/112/74/s632], Dec. 23, 2011, [125 Stat. 928][/us/stat/125/928].)
+(Added [Pub. L. 109–435, title VIII][/us/pl/109/435/tVIII], § 803(a)(1)(B), Dec. 20, 2006, [120 Stat. 3251][/us/stat/120/3251]; amended [Pub. L. 111–68, div. B][/us/pl/111/68/dB], § 164(a), Oct. 1, 2009, [123 Stat. 2053][/us/stat/123/2053]; [Pub. L. 112–33][/us/pl/112/33], § 124, Sept. 30, 2011, [125 Stat. 366][/us/stat/125/366]; [Pub. L. 112–74, div. C, title VI][/us/pl/112/74/dC/tVI], § 632, Dec. 23, 2011, [125 Stat. 928][/us/stat/125/928].)
 
  __Amendments__ 
 
@@ -101,7 +101,7 @@
 
  __Effective Date of 2009 Amendment__ 
 
-[Pub. L. 111–68, div. B, § 164(b)][/us/pl/111/68/s164/b], Oct. 1, 2009, [123 Stat. 2053][/us/stat/123/2053], provided that: 
+[Pub. L. 111–68, div. B][/us/pl/111/68/dB], § 164(b), Oct. 1, 2009, [123 Stat. 2053][/us/stat/123/2053], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall take effect as if included in the enactment of section 803(a)(1)(B) of the Postal Accountability and Enhancement Act ([Public Law 109–435][/us/pl/109/435]; [120 Stat. 3251][/us/stat/120/3251]).”
 
@@ -111,7 +111,7 @@
 
  __Review by Postal Regulatory Commission__ 
 
-[Pub. L. 109–435, title VIII, § 803(b)][/us/pl/109/435/s803/b], Dec. 20, 2006, [120 Stat. 3252][/us/stat/120/3252], provided that:
+[Pub. L. 109–435, title VIII][/us/pl/109/435/tVIII], § 803(b), Dec. 20, 2006, [120 Stat. 3252][/us/stat/120/3252], provided that:
 
 >     “(1) __In general.—__ 
 
@@ -134,25 +134,25 @@
 ----------
 ----------
 
-[/us/pl/109/435/s803/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2Fs803%2Fa%2F1%2FB
+[/us/pl/109/435/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2FtVIII
 [/us/stat/120/3251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3251
-[/us/pl/111/68/s164/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F68%2Fs164%2Fa
+[/us/pl/111/68/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F68%2FdB
 [/us/stat/123/2053]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2053
-[/us/pl/112/33/s124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F33%2Fs124
+[/us/pl/112/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F33
 [/us/stat/125/366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F366
-[/us/pl/112/74/s632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs632
+[/us/pl/112/74/dC/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2FdC%2FtVI
 [/us/stat/125/928]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F928
 [/us/pl/112/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74
 [/us/pl/112/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F33
 [/us/pl/112/33/s106/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F33%2Fs106%2F3
 [/us/pl/111/68]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F68
-[/us/pl/111/68/s164/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F68%2Fs164%2Fb
+[/us/pl/111/68/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F68%2FdB
 [/us/stat/123/2053]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2053
 [/us/pl/109/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435
 [/us/stat/120/3251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3251
 [/us/pl/109/435/s805/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2Fs805%2Fa
 [/us/usc/t5/s8334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8334
-[/us/pl/109/435/s803/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2Fs803%2Fb
+[/us/pl/109/435/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2FtVIII
 [/us/stat/120/3252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3252
 [/us/usc/t5/s8909a/d/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8909a%2Fd%2F5
 

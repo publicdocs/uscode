@@ -35,7 +35,7 @@
 
     (b) A provision contained in a reorganization plan may take effect only if the plan is transmitted to Congress (in accordance with section 903(b)) on or before December 31, 1984.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 396][/us/stat/80/396]; [Pub. L. 91–5][/us/pl/91/5], Mar. 27, 1969, [83 Stat. 6][/us/stat/83/6]; [Pub. L. 92–179, § 4][/us/pl/92/179/s4], Dec. 10, 1971, [85 Stat. 576][/us/stat/85/576]; [Pub. L. 95–17, § 2][/us/pl/95/17/s2], Apr. 6, 1977, [91 Stat. 31][/us/stat/91/31]; [Pub. L. 96–230][/us/pl/96/230], Apr. 8, 1980, [94 Stat. 329][/us/stat/94/329]; [Pub. L. 98–614][/us/pl/98/614], §§ 2(a), 5(a), Nov. 8, 1984, [98 Stat. 3192][/us/stat/98/3192], 3193.)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 396][/us/stat/80/396]; [Pub. L. 91–5][/us/pl/91/5], Mar. 27, 1969, [83 Stat. 6][/us/stat/83/6]; [Pub. L. 92–179][/us/pl/92/179], § 4, Dec. 10, 1971, [85 Stat. 576][/us/stat/85/576]; [Pub. L. 95–17][/us/pl/95/17], § 2, Apr. 6, 1977, [91 Stat. 31][/us/stat/91/31]; [Pub. L. 96–230][/us/pl/96/230], Apr. 8, 1980, [94 Stat. 329][/us/stat/94/329]; [Pub. L. 98–614][/us/pl/98/614], §§ 2(a), 5(a), Nov. 8, 1984, [98 Stat. 3192][/us/stat/98/3192], 3193.)
 
 <table>
 
@@ -201,11 +201,11 @@ June 18, 1965, Pub. L. 89–43, 79 Stat. 135.  </td>
 
  __Amendments__ 
 
-    1984—Subsec. (a)(1). [Pub. L. 98–614, § 5(a)(1)][/us/pl/98/614/s5/a/1], inserted “or renaming an existing executive department”.
+    1984—Subsec. (a)(1). [Pub. L. 98–614][/us/pl/98/614], § 5(a)(1), inserted “or renaming an existing executive department”.
 
-    Subsec. (a)(5) to (7). [Pub. L. 98–614, § 5(a)(2)][/us/pl/98/614/s5/a/2], added par. (5) and redesignated former pars. (5) and (6) as (6) and (7), respectively.
+    Subsec. (a)(5) to (7). [Pub. L. 98–614][/us/pl/98/614], § 5(a)(2), added par. (5) and redesignated former pars. (5) and (6) as (6) and (7), respectively.
 
-    Subsec. (b). [Pub. L. 98–614, § 2(a)][/us/pl/98/614/s2/a], substituted “(in accordance with section 903(b)) on or before December 31, 1984” for “within four years of the date of enactment of the Reorganization Act of 1977”.
+    Subsec. (b). [Pub. L. 98–614][/us/pl/98/614], § 2(a), substituted “(in accordance with section 903(b)) on or before December 31, 1984” for “within four years of the date of enactment of the Reorganization Act of 1977”.
 
     1980—Subsec. (b). [Pub. L. 96–230][/us/pl/96/230] substituted “four years” for “three years”.
 
@@ -215,15 +215,15 @@ June 18, 1965, Pub. L. 89–43, 79 Stat. 135.  </td>
 
     Subsec. (b). [Pub. L. 95–17][/us/pl/95/17] substituted “within three years of the date of enactment of the Reorganization Act of 1977” for “before April 1, 1973”.
 
-    1971—Subsec. (a)(7). [Pub. L. 92–179, § 4(a)][/us/pl/92/179/s4/a], added par. (7).
+    1971—Subsec. (a)(7). [Pub. L. 92–179][/us/pl/92/179], § 4(a), added par. (7).
 
-    Subsec. (b). [Pub. L. 92–179, § 4(b)][/us/pl/92/179/s4/b], substituted “April 1, 1973” for “April 1, 1971”.
+    Subsec. (b). [Pub. L. 92–179][/us/pl/92/179], § 4(b), substituted “April 1, 1973” for “April 1, 1971”.
 
     1969—Subsec. (b). [Pub. L. 91–5][/us/pl/91/5] substituted “April 1, 1971” for “December 31, 1968”.
 
  __Plan for Transportation Department Reorganization__ 
 
-[Pub. L. 104–50, title III, § 335][/us/pl/104/50/s335], Nov. 15, 1995, [109 Stat. 458][/us/stat/109/458], provided in part that: 
+[Pub. L. 104–50, title III][/us/pl/104/50/tIII], § 335, Nov. 15, 1995, [109 Stat. 458][/us/stat/109/458], provided in part that: 
 
 > “notwithstanding [5 U.S.C. 905(b)][/us/usc/t5/s905/b], the President may prepare and transmit to Congress not later than the date for transmittal to Congress of the Budget Request for Fiscal Year 1997, a reorganization plan pursuant to chapter 9 of title 5, United States Code, for the reorganization of the surface transportation activities of the Department of Transportation and the relationship of the Saint Lawrence Seaway Development Corporation to the Department.”
 
@@ -238,25 +238,25 @@ June 18, 1965, Pub. L. 89–43, 79 Stat. 135.  </td>
 [/us/stat/80/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F396
 [/us/pl/91/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F5
 [/us/stat/83/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F6
-[/us/pl/92/179/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F179%2Fs4
+[/us/pl/92/179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F179
 [/us/stat/85/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F576
-[/us/pl/95/17/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F17%2Fs2
+[/us/pl/95/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F17
 [/us/stat/91/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F31
 [/us/pl/96/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F230
 [/us/stat/94/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F329
 [/us/pl/98/614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F614
 [/us/stat/98/3192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3192
-[/us/pl/98/614/s5/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F614%2Fs5%2Fa%2F1
-[/us/pl/98/614/s5/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F614%2Fs5%2Fa%2F2
-[/us/pl/98/614/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F614%2Fs2%2Fa
+[/us/pl/98/614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F614
+[/us/pl/98/614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F614
+[/us/pl/98/614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F614
 [/us/pl/96/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F230
 [/us/pl/95/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F17
 [/us/pl/95/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F17
 [/us/pl/95/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F17
-[/us/pl/92/179/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F179%2Fs4%2Fa
-[/us/pl/92/179/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F179%2Fs4%2Fb
+[/us/pl/92/179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F179
+[/us/pl/92/179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F179
 [/us/pl/91/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F5
-[/us/pl/104/50/s335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F50%2Fs335
+[/us/pl/104/50/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F50%2FtIII
 [/us/stat/109/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F458
 [/us/usc/t5/s905/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs905%2Fb
 

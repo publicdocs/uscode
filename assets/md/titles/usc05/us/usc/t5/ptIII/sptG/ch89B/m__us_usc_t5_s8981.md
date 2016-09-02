@@ -31,7 +31,7 @@
 
     (7) The term “State” includes the District of Columbia.
 
-(Added [Pub. L. 108–496, § 3][/us/pl/108/496/s3], Dec. 23, 2004, [118 Stat. 4006][/us/stat/118/4006]; amended [Pub. L. 109–356, title I, § 117(a)(2)][/us/pl/109/356/s117/a/2], Oct. 16, 2006, [120 Stat. 2027][/us/stat/120/2027].)
+(Added [Pub. L. 108–496][/us/pl/108/496], § 3, Dec. 23, 2004, [118 Stat. 4006][/us/stat/118/4006]; amended [Pub. L. 109–356, title I][/us/pl/109/356/tI], § 117(a)(2), Oct. 16, 2006, [120 Stat. 2027][/us/stat/120/2027].)
 
  __Amendments__ 
 
@@ -48,9 +48,9 @@
 ----------
 ----------
 
-[/us/pl/108/496/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F496%2Fs3
+[/us/pl/108/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F496
 [/us/stat/118/4006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F4006
-[/us/pl/109/356/s117/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F356%2Fs117%2Fa%2F2
+[/us/pl/109/356/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F356%2FtI
 [/us/stat/120/2027]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2027
 [/us/pl/109/356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F356
 [/us/pl/108/496/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F496%2Fs7

@@ -17,7 +17,7 @@
 
     For the purpose of this subchapter, “agency”, “Senior Executive Service position”, “career appointee”, and “senior executive” have the meanings set forth in [section 3132(a) of this title][/us/usc/t5/s3132/a].
 
-(Added [Pub. L. 95–454, title IV, § 407(a)][/us/pl/95/454/s407/a], Oct. 13, 1978, [92 Stat. 1171][/us/stat/92/1171]; amended [Pub. L. 101–136, title VI, § 625(b)][/us/pl/101/136/s625/b], Nov. 3, 1989, [103 Stat. 823][/us/stat/103/823].)
+(Added [Pub. L. 95–454, title IV][/us/pl/95/454/tIV], § 407(a), Oct. 13, 1978, [92 Stat. 1171][/us/stat/92/1171]; amended [Pub. L. 101–136, title VI][/us/pl/101/136/tVI], § 625(b), Nov. 3, 1989, [103 Stat. 823][/us/stat/103/823].)
 
  __Amendments__ 
 
@@ -35,9 +35,9 @@
 ----------
 
 [/us/usc/t5/s3132/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3132%2Fa
-[/us/pl/95/454/s407/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs407%2Fa
+[/us/pl/95/454/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtIV
 [/us/stat/92/1171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1171
-[/us/pl/101/136/s625/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F136%2Fs625%2Fb
+[/us/pl/101/136/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F136%2FtVI
 [/us/stat/103/823]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F823
 [/us/pl/101/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F136
 [/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454

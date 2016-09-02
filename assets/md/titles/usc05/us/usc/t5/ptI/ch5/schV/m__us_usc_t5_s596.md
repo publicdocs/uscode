@@ -17,7 +17,7 @@
 
     There are authorized to be appropriated to carry out this subchapter not more than $3,200,000 for fiscal year 2009, $3,200,000 for fiscal year 2010, and $3,200,000 for fiscal year 2011. Of any amounts appropriated under this section, not more than $2,500 may be made available in each fiscal year for official representation and entertainment expenses for foreign dignitaries.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 391][/us/stat/80/391], § 576; [Pub. L. 91–164][/us/pl/91/164], Dec. 24, 1969, [83 Stat. 446][/us/stat/83/446]; [Pub. L. 92–526, § 2][/us/pl/92/526/s2], Oct. 21, 1972, [86 Stat. 1048][/us/stat/86/1048]; [Pub. L. 95–293, § 1(a)][/us/pl/95/293/s1/a], June 13, 1978, [92 Stat. 317][/us/stat/92/317]; [Pub. L. 97–330][/us/pl/97/330], Oct. 15, 1982, [96 Stat. 1618][/us/stat/96/1618]; [Pub. L. 99–470, § 2(a)][/us/pl/99/470/s2/a], Oct. 14, 1986, [100 Stat. 1198][/us/stat/100/1198]; [Pub. L. 101–422, § 1][/us/pl/101/422/s1], Oct. 12, 1990, [104 Stat. 910][/us/stat/104/910]; renumbered § 596, [Pub. L. 102–354, § 2(2)][/us/pl/102/354/s2/2], Aug. 26, 1992, [106 Stat. 944][/us/stat/106/944]; [Pub. L. 108–401, § 3][/us/pl/108/401/s3], Oct. 30, 2004, [118 Stat. 2255][/us/stat/118/2255]; [Pub. L. 110–290, § 2][/us/pl/110/290/s2], July 30, 2008, [122 Stat. 2914][/us/stat/122/2914].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 391][/us/stat/80/391], § 576; [Pub. L. 91–164][/us/pl/91/164], Dec. 24, 1969, [83 Stat. 446][/us/stat/83/446]; [Pub. L. 92–526][/us/pl/92/526], § 2, Oct. 21, 1972, [86 Stat. 1048][/us/stat/86/1048]; [Pub. L. 95–293][/us/pl/95/293], § 1(a), June 13, 1978, [92 Stat. 317][/us/stat/92/317]; [Pub. L. 97–330][/us/pl/97/330], Oct. 15, 1982, [96 Stat. 1618][/us/stat/96/1618]; [Pub. L. 99–470][/us/pl/99/470], § 2(a), Oct. 14, 1986, [100 Stat. 1198][/us/stat/100/1198]; [Pub. L. 101–422][/us/pl/101/422], § 1, Oct. 12, 1990, [104 Stat. 910][/us/stat/104/910]; renumbered § 596, [Pub. L. 102–354][/us/pl/102/354], § 2(2), Aug. 26, 1992, [106 Stat. 944][/us/stat/106/944]; [Pub. L. 108–401][/us/pl/108/401], § 3, Oct. 30, 2004, [118 Stat. 2255][/us/stat/118/2255]; [Pub. L. 110–290][/us/pl/110/290], § 2, July 30, 2008, [122 Stat. 2914][/us/stat/122/2914].)
 
 <table>
 
@@ -91,7 +91,7 @@ Aug. 30, 1964, Pub. L. 88–499, § 7, 78 Stat. 618.  </td>
 
  __Effective Date of 1978 Amendment__ 
 
-[Pub. L. 95–293, § 1(b)][/us/pl/95/293/s1/b], June 13, 1978, [92 Stat. 317][/us/stat/92/317], provided that: 
+[Pub. L. 95–293][/us/pl/95/293], § 1(b), June 13, 1978, [92 Stat. 317][/us/stat/92/317], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall take effect October 1, 1977.”
 
@@ -106,21 +106,21 @@ Aug. 30, 1964, Pub. L. 88–499, § 7, 78 Stat. 618.  </td>
 [/us/stat/80/391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F391
 [/us/pl/91/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F164
 [/us/stat/83/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F446
-[/us/pl/92/526/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F526%2Fs2
+[/us/pl/92/526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F526
 [/us/stat/86/1048]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1048
-[/us/pl/95/293/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F293%2Fs1%2Fa
+[/us/pl/95/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F293
 [/us/stat/92/317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F317
 [/us/pl/97/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F330
 [/us/stat/96/1618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1618
-[/us/pl/99/470/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F470%2Fs2%2Fa
+[/us/pl/99/470]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F470
 [/us/stat/100/1198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1198
-[/us/pl/101/422/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F422%2Fs1
+[/us/pl/101/422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F422
 [/us/stat/104/910]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F910
-[/us/pl/102/354/s2/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F354%2Fs2%2F2
+[/us/pl/102/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F354
 [/us/stat/106/944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F944
-[/us/pl/108/401/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F401%2Fs3
+[/us/pl/108/401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F401
 [/us/stat/118/2255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2255
-[/us/pl/110/290/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F290%2Fs2
+[/us/pl/110/290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F290
 [/us/stat/122/2914]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2914
 [/us/pl/110/290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F290
 [/us/pl/108/401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F401
@@ -132,7 +132,7 @@ Aug. 30, 1964, Pub. L. 88–499, § 7, 78 Stat. 618.  </td>
 [/us/pl/95/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F293
 [/us/pl/92/526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F526
 [/us/pl/91/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F164
-[/us/pl/95/293/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F293%2Fs1%2Fb
+[/us/pl/95/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F293
 [/us/stat/92/317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F317
 
 

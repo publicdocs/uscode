@@ -47,7 +47,7 @@
 
     The term “recordkeeping requirement” means a requirement imposed by an agency on persons to maintain specified records.
 
-(Added [Pub. L. 96–354, § 3(a)][/us/pl/96/354/s3/a], Sept. 19, 1980, [94 Stat. 1165][/us/stat/94/1165]; amended [Pub. L. 104–121, title II, § 241(a)(2)][/us/pl/104/121/s241/a/2], Mar. 29, 1996, [110 Stat. 864][/us/stat/110/864].)
+(Added [Pub. L. 96–354][/us/pl/96/354], § 3(a), Sept. 19, 1980, [94 Stat. 1165][/us/stat/94/1165]; amended [Pub. L. 104–121, title II][/us/pl/104/121/tII], § 241(a)(2), Mar. 29, 1996, [110 Stat. 864][/us/stat/110/864].)
 
  __References in Text__ 
 
@@ -59,31 +59,31 @@
 
  __Effective Date of 1996 Amendment__ 
 
-[Pub. L. 104–121, title II, § 245][/us/pl/104/121/s245], Mar. 29, 1996, [110 Stat. 868][/us/stat/110/868], provided that: 
+[Pub. L. 104–121, title II][/us/pl/104/121/tII], § 245, Mar. 29, 1996, [110 Stat. 868][/us/stat/110/868], provided that: 
 
 > “This subtitle \[subtitle D (§§ 241–245) of title II of [Pub. L. 104–121][/us/pl/104/121], amending this section and sections 603 to 605, 609, 611, and 612 of this title and enacting provisions set out as a note under [section 609 of this title][/us/usc/t5/s609]\] shall become effective on the expiration of 90 days after the date of enactment of this subtitle \[Mar. 29, 1996\], except that such amendments shall not apply to interpretative rules for which a notice of proposed rulemaking was published prior to the date of enactment.”
 
  __Effective Date__ 
 
-[Pub. L. 96–354, § 4][/us/pl/96/354/s4], Sept. 19, 1980, [94 Stat. 1170][/us/stat/94/1170], provided that: 
+[Pub. L. 96–354][/us/pl/96/354], § 4, Sept. 19, 1980, [94 Stat. 1170][/us/stat/94/1170], provided that: 
 
 > “The provisions of this Act \[enacting this chapter\] shall take effect January 1, 1981, except that the requirements of sections 603 and 604 of title 5, United States Code (as added by section 3 of this Act) shall apply only to rules for which a notice of proposed rulemaking is issued on or after January 1, 1981.”
 
  __Short Title of 1996 Amendment__ 
 
-[Pub. L. 104–121, § 1][/us/pl/104/121/s1], Mar. 29, 1996, [110 Stat. 847][/us/stat/110/847], provided that: 
+[Pub. L. 104–121][/us/pl/104/121], § 1, Mar. 29, 1996, [110 Stat. 847][/us/stat/110/847], provided that: 
 
 > “This Act \[enacting sections 801 to 808 of this title, [section 657 of Title 15][/us/usc/t15/s657], Commerce and Trade, and sections 1320b–15 and 1383e of Title 42, The Public Health and Welfare, amending this section and sections 504, 603 to 605, 609, 611, and 612 of this title, sections 665e and 901 of Title 2, The Congress, [section 648 of Title 15][/us/usc/t15/s648], [section 2412 of Title 28][/us/usc/t28/s2412], Judiciary and Judicial Procedure, [section 3101 of Title 31][/us/usc/t31/s3101], Money and Finance, and sections 401, 402, 403, 405, 422, 423, 425, 902, 903, 1382, 1382c, 1383, and 1383c of Title 42, enacting provisions set out as notes under this section and sections 504, 609, and 801 of this title and sections 401, 402, 403, 405, 902, 1305, 1320b–15, and 1382 of Title 42, amending provisions set out as a note under [section 631 of Title 15][/us/usc/t15/s631], and repealing provisions set out as a note under [section 425 of Title 42][/us/usc/t42/s425]\] may be cited as the ‘Contract with America Advancement Act of 1996’.”
 
  __Short Title__ 
 
-[Pub. L. 96–354, § 1][/us/pl/96/354/s1], Sept. 19, 1980, [94 Stat. 1164][/us/stat/94/1164], provided: 
+[Pub. L. 96–354][/us/pl/96/354], § 1, Sept. 19, 1980, [94 Stat. 1164][/us/stat/94/1164], provided: 
 
 > “That this Act \[enacting this chapter\] may be cited as the ‘Regulatory Flexibility Act’.”
 
  __Regulatory Enforcement Reports__ 
 
-[Pub. L. 107–198, § 4][/us/pl/107/198/s4], June 28, 2002, [116 Stat. 732][/us/stat/116/732], provided that:
+[Pub. L. 107–198][/us/pl/107/198], § 4, June 28, 2002, [116 Stat. 732][/us/stat/116/732], provided that:
 
 >     “(a)  __Definition__  __.—__ 
 
@@ -127,7 +127,7 @@
 
  __Assessment of Federal Regulations and Policies on Families__ 
 
-[Pub. L. 105–277, div. A, § 101(h)][/us/pl/105/277/s101/h] \[title VI, § 654\], Oct. 21, 1998, [112 Stat. 2681–480][/us/stat/112/2681-480], 2681–528, as amended by [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814], provided that:
+[Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(h) \[title VI, § 654\], Oct. 21, 1998, [112 Stat. 2681–480][/us/stat/112/2681-480], 2681–528, as amended by [Pub. L. 108–271][/us/pl/108/271], § 8(b), July 7, 2004, [118 Stat. 814][/us/stat/118/814], provided that:
 
 >     “(a)  __Purposes__  __.—__ 
 
@@ -207,7 +207,7 @@
 
  __Small Business Regulatory Fairness__ 
 
-[Pub. L. 104–121, title II][/us/pl/104/121], §§ 201–224, Mar. 29, 1996, [110 Stat. 857–862][/us/stat/110/857-862], as amended by [Pub. L. 110–28, title VIII, § 8302][/us/pl/110/28/s8302], May 25, 2007, [121 Stat. 204][/us/stat/121/204], provided that:
+[Pub. L. 104–121, title II][/us/pl/104/121/tII], §§ 201–224, Mar. 29, 1996, [110 Stat. 857–862][/us/stat/110/857-862], as amended by [Pub. L. 110–28, title VIII][/us/pl/110/28/tVIII], § 8302, May 25, 2007, [121 Stat. 204][/us/stat/121/204], provided that:
 
 > “SEC. 201. __SHORT TITLE.__ 
 
@@ -397,7 +397,7 @@
 
  __Effects of Deregulation On Rural America__ 
 
-[Pub. L. 101–574, title III, § 309][/us/pl/101/574/s309], Nov. 15, 1990, [104 Stat. 2831][/us/stat/104/2831], provided that:
+[Pub. L. 101–574, title III][/us/pl/101/574/tIII], § 309, Nov. 15, 1990, [104 Stat. 2831][/us/stat/104/2831], provided that:
 
 >     “(a)  __Study__  __.—__ 
 
@@ -2183,19 +2183,19 @@ Sec. 3. Federal Action to Support Predevelopment Activities. Agencies shall take
 [/us/usc/t5/s551/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs551%2F1
 [/us/usc/t5/s553/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553%2Fb
 [/us/usc/t44/s3518/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3518%2Fc%2F1
-[/us/pl/96/354/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F354%2Fs3%2Fa
+[/us/pl/96/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F354
 [/us/stat/94/1165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1165
-[/us/pl/104/121/s241/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F121%2Fs241%2Fa%2F2
+[/us/pl/104/121/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F121%2FtII
 [/us/stat/110/864]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F864
 [/us/usc/t15/s632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs632
 [/us/pl/104/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F121
-[/us/pl/104/121/s245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F121%2Fs245
+[/us/pl/104/121/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F121%2FtII
 [/us/stat/110/868]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F868
 [/us/pl/104/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F121
 [/us/usc/t5/s609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs609
-[/us/pl/96/354/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F354%2Fs4
+[/us/pl/96/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F354
 [/us/stat/94/1170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1170
-[/us/pl/104/121/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F121%2Fs1
+[/us/pl/104/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F121
 [/us/stat/110/847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F847
 [/us/usc/t15/s657]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs657
 [/us/usc/t15/s648]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs648
@@ -2203,20 +2203,20 @@ Sec. 3. Federal Action to Support Predevelopment Activities. Agencies shall take
 [/us/usc/t31/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3101
 [/us/usc/t15/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs631
 [/us/usc/t42/s425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs425
-[/us/pl/96/354/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F354%2Fs1
+[/us/pl/96/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F354
 [/us/stat/94/1164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1164
-[/us/pl/107/198/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F198%2Fs4
+[/us/pl/107/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F198
 [/us/stat/116/732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F732
 [/us/usc/t5/s551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs551
 [/us/usc/t15/s657/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs657%2Fb
-[/us/pl/105/277/s101/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fh
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-480
-[/us/pl/108/271/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271%2Fs8%2Fb
+[/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/stat/118/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F814
 [/us/usc/t5/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs105
-[/us/pl/104/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F121
+[/us/pl/104/121/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F121%2FtII
 [/us/stat/110/857-862]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F857-862
-[/us/pl/110/28/s8302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28%2Fs8302
+[/us/pl/110/28/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28%2FtVIII
 [/us/stat/121/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F204
 [/us/usc/t15/s657]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs657
 [/us/usc/t15/s648]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs648
@@ -2228,7 +2228,7 @@ Sec. 3. Federal Action to Support Predevelopment Activities. Agencies shall take
 [/us/usc/t5/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs601
 [/us/usc/t5/s551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs551
 [/us/usc/t15/s657]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs657
-[/us/pl/101/574/s309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F574%2Fs309
+[/us/pl/101/574/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F574%2FtIII
 [/us/stat/104/2831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2831
 [/us/pl/96/354/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F354%2Fs2
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321

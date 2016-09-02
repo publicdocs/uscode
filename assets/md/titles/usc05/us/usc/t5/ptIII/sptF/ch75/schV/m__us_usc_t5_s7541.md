@@ -27,7 +27,7 @@
 
     (2) “suspension” has the meaning set forth in [section 7501(2) of this title][/us/usc/t5/s7501/2].
 
-(Added [Pub. L. 95–454, title IV, § 411(2)][/us/pl/95/454/s411/2], Oct. 13, 1978, [92 Stat. 1174][/us/stat/92/1174]; amended [Pub. L. 114–92, div. A, title XI, § 1105(c)(5)][/us/pl/114/92/s1105/c/5], Nov. 25, 2015, [129 Stat. 1024][/us/stat/129/1024].)
+(Added [Pub. L. 95–454, title IV][/us/pl/95/454/tIV], § 411(2), Oct. 13, 1978, [92 Stat. 1174][/us/stat/92/1174]; amended [Pub. L. 114–92, div. A, title XI][/us/pl/114/92/dA/tXI], § 1105(c)(5), Nov. 25, 2015, [129 Stat. 1024][/us/stat/129/1024].)
 
  __Amendments__ 
 
@@ -47,9 +47,9 @@
 [/us/usc/t5/s3393/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3393%2Fd
 [/us/usc/t10/s1599e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1599e
 [/us/usc/t5/s7501/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs7501%2F2
-[/us/pl/95/454/s411/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs411%2F2
+[/us/pl/95/454/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtIV
 [/us/stat/92/1174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1174
-[/us/pl/114/92/s1105/c/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1105%2Fc%2F5
+[/us/pl/114/92/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtXI
 [/us/stat/129/1024]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1024
 [/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
 [/us/usc/t10/s1599e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1599e

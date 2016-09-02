@@ -93,7 +93,7 @@
 
     (j) The Board may submit to the President, and, at the same time, shall submit to each House of the Congress, any legislative recommendations of the Board relating to any of its functions under this title or any other provision of law.
 
-(Added [Pub. L. 99–335, title I, § 101(a)][/us/pl/99/335/s101/a], June 6, 1986, [100 Stat. 578][/us/stat/100/578]; amended [Pub. L. 99–509, title VI, § 6001(e)][/us/pl/99/509/s6001/e], Oct. 21, 1986, [100 Stat. 1931][/us/stat/100/1931]; [Pub. L. 113–255, § 2(c)][/us/pl/113/255/s2/c], Dec. 18, 2014, [128 Stat. 2920][/us/stat/128/2920].)
+(Added [Pub. L. 99–335, title I][/us/pl/99/335/tI], § 101(a), June 6, 1986, [100 Stat. 578][/us/stat/100/578]; amended [Pub. L. 99–509, title VI][/us/pl/99/509/tVI], § 6001(e), Oct. 21, 1986, [100 Stat. 1931][/us/stat/100/1931]; [Pub. L. 113–255][/us/pl/113/255], § 2(c), Dec. 18, 2014, [128 Stat. 2920][/us/stat/128/2920].)
 
  __References in Text__ 
 
@@ -111,7 +111,7 @@
 
  __Initial Appointments to Federal Retirement Thrift Investment Board__ 
 
-[Pub. L. 99–335, title III, § 311][/us/pl/99/335/s311], June 6, 1986, [100 Stat. 608][/us/stat/100/608], provided that:
+[Pub. L. 99–335, title III][/us/pl/99/335/tIII], § 311, June 6, 1986, [100 Stat. 608][/us/stat/100/608], provided that:
 
 >     “(a)  __Initial Appointment of Members__  __.—__ 
 
@@ -123,7 +123,7 @@
 
  __Authorization of Appropriations for Certain Expenses of Federal Retirement Thrift Investment Management System__ 
 
-[Pub. L. 99–335, title VII, § 701][/us/pl/99/335/s701], June 6, 1986, [100 Stat. 631][/us/stat/100/631], as amended by [Pub. L. 99–500, § 101(m)][/us/pl/99/500/s101/m] \[title IV, § 401\], Oct. 18, 1986, [100 Stat. 1783–308][/us/stat/100/1783-308], 1783–322, and [Pub. L. 99–591, § 101(m)][/us/pl/99/591/s101/m] \[title IV, § 401\], Oct. 30, 1986, [100 Stat. 3341–308][/us/stat/100/3341-308], 3341–322, provided that:
+[Pub. L. 99–335, title VII][/us/pl/99/335/tVII], § 701, June 6, 1986, [100 Stat. 631][/us/stat/100/631], as amended by [Pub. L. 99–500][/us/pl/99/500], § 101(m) \[title IV, § 401\], Oct. 18, 1986, [100 Stat. 1783–308][/us/stat/100/1783-308], 1783–322, and [Pub. L. 99–591][/us/pl/99/591], § 101(m) \[title IV, § 401\], Oct. 30, 1986, [100 Stat. 3341–308][/us/stat/100/3341-308], 3341–322, provided that:
 
 >     “(a)  __Temporary Alternative Funding__  __.—__ 
 
@@ -141,11 +141,11 @@
 ----------
 
 [/us/usc/t31/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105
-[/us/pl/99/335/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2Fs101%2Fa
+[/us/pl/99/335/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2FtI
 [/us/stat/100/578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F578
-[/us/pl/99/509/s6001/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs6001%2Fe
+[/us/pl/99/509/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2FtVI
 [/us/stat/100/1931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1931
-[/us/pl/113/255/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F255%2Fs2%2Fc
+[/us/pl/113/255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F255
 [/us/stat/128/2920]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2920
 [/us/pl/99/335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335
 [/us/pl/113/255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F255
@@ -154,15 +154,15 @@
 [/us/pl/99/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509
 [/us/pl/99/509/s6001/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs6001%2Ff
 [/us/usc/t5/s8432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8432
-[/us/pl/99/335/s311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2Fs311
+[/us/pl/99/335/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2FtIII
 [/us/stat/100/608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F608
 [/us/usc/t5/s8472/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8472%2Fc
 [/us/usc/t5/s8472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8472
-[/us/pl/99/335/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2Fs701
+[/us/pl/99/335/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2FtVII
 [/us/stat/100/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F631
-[/us/pl/99/500/s101/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500%2Fs101%2Fm
+[/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
 [/us/stat/100/1783-308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1783-308
-[/us/pl/99/591/s101/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591%2Fs101%2Fm
+[/us/pl/99/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591
 [/us/stat/100/3341-308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3341-308
 
 

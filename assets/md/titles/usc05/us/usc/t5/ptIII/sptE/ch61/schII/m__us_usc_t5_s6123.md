@@ -51,15 +51,15 @@
 
             (B) in the case of an employee subject to subsection (b) of such section 7453, for which 4 hours of such schedule fall between the hours specified in such subsection.
 
-(Added [Pub. L. 97–221, § 2(a)(2)][/us/pl/97/221/s2/a/2], July 23, 1982, [96 Stat. 228][/us/stat/96/228]; amended [Pub. L. 102–40, title IV, § 403(c)(2)][/us/pl/102/40/s403/c/2], May 7, 1991, [105 Stat. 240][/us/stat/105/240]; [Pub. L. 102–378, § 2(44)(D)][/us/pl/102/378/s2/44/D], Oct. 2, 1992, [106 Stat. 1352][/us/stat/106/1352].)
+(Added [Pub. L. 97–221][/us/pl/97/221], § 2(a)(2), July 23, 1982, [96 Stat. 228][/us/stat/96/228]; amended [Pub. L. 102–40, title IV][/us/pl/102/40/tIV], § 403(c)(2), May 7, 1991, [105 Stat. 240][/us/stat/105/240]; [Pub. L. 102–378][/us/pl/102/378], § 2(44)(D), Oct. 2, 1992, [106 Stat. 1352][/us/stat/106/1352].)
 
  __Amendments__ 
 
     1992—Subsec. (a)(1). [Pub. L. 102–378][/us/pl/102/378] substituted “5543(a)(1) and section 5544(a)” for “5543(a)(1), 5544(a), and 5550”.
 
-    1991—Subsec. (a)(1). [Pub. L. 102–40, § 403(c)(2)(A)][/us/pl/102/40/s403/c/2/A], substituted “section 7453(e)” for “section 4107(e)(5)”.
+    1991—Subsec. (a)(1). [Pub. L. 102–40][/us/pl/102/40], § 403(c)(2)(A), substituted “section 7453(e)” for “section 4107(e)(5)”.
 
-    Subsec. (c)(2). [Pub. L. 102–40, § 403(c)(2)(B)][/us/pl/102/40/s403/c/2/B], in introductory provisions substituted “section 7453(b)” for “section 4107(e)(2)” and in subpar. (B) substituted “subsection (b) of such section 7453” for “subsection (e)(2) of such section 4107”.
+    Subsec. (c)(2). [Pub. L. 102–40][/us/pl/102/40], § 403(c)(2)(B), in introductory provisions substituted “section 7453(b)” for “section 4107(e)(2)” and in subpar. (B) substituted “subsection (b) of such section 7453” for “subsection (e)(2) of such section 4107”.
 
 ----------
 
@@ -75,14 +75,14 @@
 [/us/usc/t5/s5545/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5545%2Fa
 [/us/usc/t5/s5343/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5343%2Ff
 [/us/usc/t38/s7453/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7453%2Fb
-[/us/pl/97/221/s2/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F221%2Fs2%2Fa%2F2
+[/us/pl/97/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F221
 [/us/stat/96/228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F228
-[/us/pl/102/40/s403/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs403%2Fc%2F2
+[/us/pl/102/40/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2FtIV
 [/us/stat/105/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F240
-[/us/pl/102/378/s2/44/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378%2Fs2%2F44%2FD
+[/us/pl/102/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378
 [/us/stat/106/1352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1352
 [/us/pl/102/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378
-[/us/pl/102/40/s403/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs403%2Fc%2F2%2FA
-[/us/pl/102/40/s403/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs403%2Fc%2F2%2FB
+[/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40
+[/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40
 
 

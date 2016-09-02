@@ -91,7 +91,7 @@
 
         (2) a pay system equivalent to either of the foregoing, as determined by the Office of Personnel Management.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 518][/us/stat/80/518]; [Pub. L. 93–181, § 2][/us/pl/93/181/s2], Dec. 14, 1973, [87 Stat. 705][/us/stat/87/705]; [Pub. L. 99–335, title II, § 207(d)][/us/pl/99/335/s207/d], June 6, 1986, [100 Stat. 595][/us/stat/100/595]; [Pub. L. 102–83, § 5(c)(2)][/us/pl/102/83/s5/c/2], Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406]; [Pub. L. 102–378, § 2(52)][/us/pl/102/378/s2/52], Oct. 2, 1992, [106 Stat. 1353][/us/stat/106/1353]; [Pub. L. 108–411, title II, § 202(a)][/us/pl/108/411/s202/a], (b), Oct. 30, 2004, [118 Stat. 2312][/us/stat/118/2312].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 518][/us/stat/80/518]; [Pub. L. 93–181][/us/pl/93/181], § 2, Dec. 14, 1973, [87 Stat. 705][/us/stat/87/705]; [Pub. L. 99–335, title II][/us/pl/99/335/tII], § 207(d), June 6, 1986, [100 Stat. 595][/us/stat/100/595]; [Pub. L. 102–83][/us/pl/102/83], § 5(c)(2), Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406]; [Pub. L. 102–378][/us/pl/102/378], § 2(52), Oct. 2, 1992, [106 Stat. 1353][/us/stat/106/1353]; [Pub. L. 108–411, title II][/us/pl/108/411/tII], § 202(a), (b), Oct. 30, 2004, [118 Stat. 2312][/us/stat/118/2312].)
 
 <table>
 
@@ -197,11 +197,11 @@ Aug. 19, 1964, Pub. L. 88–448, § 101 (as applicable to § 203), 78 Stat. 
 
  __Amendments__ 
 
-    2004—Subsec. (a). [Pub. L. 108–411, § 202(a)(2)][/us/pl/108/411/s202/a/2], inserted “, and for all service which is creditable by virtue of subsection (e)” before period at end of second sentence.
+    2004—Subsec. (a). [Pub. L. 108–411][/us/pl/108/411], § 202(a)(2), inserted “, and for all service which is creditable by virtue of subsection (e)” before period at end of second sentence.
 
-    Subsec. (e). [Pub. L. 108–411, § 202(a)(1)][/us/pl/108/411/s202/a/1], added subsec. (e).
+    Subsec. (e). [Pub. L. 108–411][/us/pl/108/411], § 202(a)(1), added subsec. (e).
 
-    Subsec. (f). [Pub. L. 108–411, § 202(b)][/us/pl/108/411/s202/b], added subsec. (f).
+    Subsec. (f). [Pub. L. 108–411][/us/pl/108/411], § 202(b), added subsec. (f).
 
     1992—Subsec. (a). [Pub. L. 102–378][/us/pl/102/378] amended second sentence generally. Prior to amendment, second sentence read as follows: “In determining years of service, an employee is entitled to credit for all service creditable under [section 8332 of this title][/us/usc/t5/s8332] for the purpose of an annuity under subchapter III of chapter 83 of this title and all service creditable under [section 8411 of this title][/us/usc/t5/s8411] for the purpose of chapter 84 of this title.”
 
@@ -213,13 +213,13 @@ Aug. 19, 1964, Pub. L. 88–448, § 101 (as applicable to § 203), 78 Stat. 
 
  __Effective Date of 2004 Amendment__ 
 
-[Pub. L. 108–411, title II, § 202(c)][/us/pl/108/411/s202/c], Oct. 30, 2004, [118 Stat. 2312][/us/stat/118/2312], provided that: 
+[Pub. L. 108–411, title II][/us/pl/108/411/tII], § 202(c), Oct. 30, 2004, [118 Stat. 2312][/us/stat/118/2312], provided that: 
 
 > “None of the amendments made by subsection (a) \[amending this section\] shall apply in the case of any employee holding a position pursuant to an appointment made before the effective date of the regulations implementing such amendments.”
 
  __Effective Date of 1992 Amendment__ 
 
-[Pub. L. 102–378, § 9][/us/pl/102/378/s9], Oct. 2, 1992, [106 Stat. 1360][/us/stat/106/1360], provided that:
+[Pub. L. 102–378][/us/pl/102/378], § 9, Oct. 2, 1992, [106 Stat. 1360][/us/stat/106/1360], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -272,21 +272,21 @@ Aug. 19, 1964, Pub. L. 88–448, § 101 (as applicable to § 203), 78 Stat. 
 [/us/usc/t5/s6304/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs6304%2Fb
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F518
-[/us/pl/93/181/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F181%2Fs2
+[/us/pl/93/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F181
 [/us/stat/87/705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F705
-[/us/pl/99/335/s207/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2Fs207%2Fd
+[/us/pl/99/335/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2FtII
 [/us/stat/100/595]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F595
-[/us/pl/102/83/s5/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fc%2F2
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F406
-[/us/pl/102/378/s2/52]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378%2Fs2%2F52
+[/us/pl/102/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378
 [/us/stat/106/1353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1353
-[/us/pl/108/411/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F411%2Fs202%2Fa
+[/us/pl/108/411/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F411%2FtII
 [/us/stat/118/2312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2312
 [/us/usc/t5/s8332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8332
 [/us/pl/108/411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F411
-[/us/pl/108/411/s202/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F411%2Fs202%2Fa%2F2
-[/us/pl/108/411/s202/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F411%2Fs202%2Fa%2F1
-[/us/pl/108/411/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F411%2Fs202%2Fb
+[/us/pl/108/411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F411
+[/us/pl/108/411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F411
+[/us/pl/108/411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F411
 [/us/pl/102/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378
 [/us/usc/t5/s8332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8332
 [/us/usc/t5/s8411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8411
@@ -296,9 +296,9 @@ Aug. 19, 1964, Pub. L. 88–448, § 101 (as applicable to § 203), 78 Stat. 
 [/us/pl/99/335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335
 [/us/usc/t5/s8411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8411
 [/us/pl/93/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F181
-[/us/pl/108/411/s202/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F411%2Fs202%2Fc
+[/us/pl/108/411/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F411%2FtII
 [/us/stat/118/2312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2312
-[/us/pl/102/378/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378%2Fs9
+[/us/pl/102/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378
 [/us/stat/106/1360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1360
 [/us/usc/t2/s4725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4725
 [/us/usc/t5/s8440d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8440d

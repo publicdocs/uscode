@@ -91,11 +91,11 @@
 
  __Prior Provisions__ 
 
-    A prior chapter 54, consisting of sections 5401 to 5410, related to performance management and recognition system, prior to repeal by [Pub. L. 103–89, § 3(a)(1)][/us/pl/103/89/s3/a/1], (c), Sept. 30, 1993, [107 Stat. 981][/us/stat/107/981], 983, eff. Nov. 1, 1993.
+    A prior chapter 54, consisting of sections 5401 to 5410, related to performance management and recognition system, prior to repeal by [Pub. L. 103–89][/us/pl/103/89], § 3(a)(1), (c), Sept. 30, 1993, [107 Stat. 981][/us/stat/107/981], 983, eff. Nov. 1, 1993.
 
  __Treatment of Employees Covered by Performance Management and Recognition System as of Termination Date__ 
 
-[Pub. L. 103–89, § 4][/us/pl/103/89/s4], Sept. 30, 1993, [107 Stat. 983][/us/stat/107/983], provided that:
+[Pub. L. 103–89][/us/pl/103/89], § 4, Sept. 30, 1993, [107 Stat. 983][/us/stat/107/983], provided that:
 
 >     “(a)  __Definitions__  __.—__ 
 
@@ -166,9 +166,9 @@
 ----------
 ----------
 
-[/us/pl/103/89/s3/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F89%2Fs3%2Fa%2F1
+[/us/pl/103/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F89
 [/us/stat/107/981]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F981
-[/us/pl/103/89/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F89%2Fs4
+[/us/pl/103/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F89
 [/us/stat/107/983]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F983
 [/us/usc/t5/s7103/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs7103%2Fa%2F3
 [/us/usc/t5/s5304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5304

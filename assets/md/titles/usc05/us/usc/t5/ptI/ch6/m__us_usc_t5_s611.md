@@ -49,7 +49,7 @@
 
     (d) Nothing in this section bars judicial review of any other impact statement or similar analysis required by any other law if judicial review of such statement or analysis is otherwise permitted by law.
 
-(Added [Pub. L. 96–354, § 3(a)][/us/pl/96/354/s3/a], Sept. 19, 1980, [94 Stat. 1169][/us/stat/94/1169]; amended [Pub. L. 104–121, title II, § 242][/us/pl/104/121/s242], Mar. 29, 1996, [110 Stat. 865][/us/stat/110/865].)
+(Added [Pub. L. 96–354][/us/pl/96/354], § 3(a), Sept. 19, 1980, [94 Stat. 1169][/us/stat/94/1169]; amended [Pub. L. 104–121, title II][/us/pl/104/121/tII], § 242, Mar. 29, 1996, [110 Stat. 865][/us/stat/110/865].)
 
  __Amendments__ 
 
@@ -72,9 +72,9 @@
 ----------
 ----------
 
-[/us/pl/96/354/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F354%2Fs3%2Fa
+[/us/pl/96/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F354
 [/us/stat/94/1169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1169
-[/us/pl/104/121/s242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F121%2Fs242
+[/us/pl/104/121/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F121%2FtII
 [/us/stat/110/865]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F865
 [/us/pl/104/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F121
 [/us/pl/104/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F121

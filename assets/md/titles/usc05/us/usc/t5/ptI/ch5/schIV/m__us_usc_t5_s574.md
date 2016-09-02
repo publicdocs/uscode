@@ -85,7 +85,7 @@
 
     (j) A dispute resolution communication which is between a neutral and a party and which may not be disclosed under this section shall also be exempt from disclosure under section 552(b)(3).
 
-(Added [Pub. L. 101–552, § 4(b)][/us/pl/101/552/s4/b], Nov. 15, 1990, [104 Stat. 2740][/us/stat/104/2740], § 584; renumbered § 574, [Pub. L. 102–354, § 3(b)(2)][/us/pl/102/354/s3/b/2], Aug. 26, 1992, [106 Stat. 944][/us/stat/106/944]; amended [Pub. L. 104–320, § 3][/us/pl/104/320/s3], Oct. 19, 1996, [110 Stat. 3870][/us/stat/110/3870].)
+(Added [Pub. L. 101–552][/us/pl/101/552], § 4(b), Nov. 15, 1990, [104 Stat. 2740][/us/stat/104/2740], § 584; renumbered § 574, [Pub. L. 102–354][/us/pl/102/354], § 3(b)(2), Aug. 26, 1992, [106 Stat. 944][/us/stat/106/944]; amended [Pub. L. 104–320][/us/pl/104/320], § 3, Oct. 19, 1996, [110 Stat. 3870][/us/stat/110/3870].)
 
  __Codification__ 
 
@@ -99,13 +99,13 @@
 
  __Amendments__ 
 
-    1996—Subsecs. (a), (b). [Pub. L. 104–320, § 3(a)][/us/pl/104/320/s3/a], in introductory provisions struck out “any information concerning” after “be required to disclose”.
+    1996—Subsecs. (a), (b). [Pub. L. 104–320][/us/pl/104/320], § 3(a), in introductory provisions struck out “any information concerning” after “be required to disclose”.
 
-    Subsec. (b)(7). [Pub. L. 104–320, § 3(b)][/us/pl/104/320/s3/b], amended par. (7) generally. Prior to amendment, par. (7) read as follows: “the dispute resolution communication was provided to or was available to all parties to the dispute resolution proceeding”.
+    Subsec. (b)(7). [Pub. L. 104–320][/us/pl/104/320], § 3(b), amended par. (7) generally. Prior to amendment, par. (7) read as follows: “the dispute resolution communication was provided to or was available to all parties to the dispute resolution proceeding”.
 
-    Subsec. (d). [Pub. L. 104–320, § 3(c)][/us/pl/104/320/s3/c], designated existing provisions as par. (1) and added par. (2).
+    Subsec. (d). [Pub. L. 104–320][/us/pl/104/320], § 3(c), designated existing provisions as par. (1) and added par. (2).
 
-    Subsec. (j). [Pub. L. 104–320, § 3(d)][/us/pl/104/320/s3/d], amended subsec. (j) generally. Prior to amendment, subsec. (j) read as follows: “This section shall not be considered a statute specifically exempting disclosure under [section 552(b)(3) of this title][/us/usc/t5/s552/b/3].”
+    Subsec. (j). [Pub. L. 104–320][/us/pl/104/320], § 3(d), amended subsec. (j) generally. Prior to amendment, subsec. (j) read as follows: “This section shall not be considered a statute specifically exempting disclosure under [section 552(b)(3) of this title][/us/usc/t5/s552/b/3].”
 
     1992—[Pub. L. 102–354][/us/pl/102/354] renumbered [section 584 of this title][/us/usc/t5/s584] as this section.
 
@@ -116,19 +116,19 @@
 ----------
 ----------
 
-[/us/pl/101/552/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F552%2Fs4%2Fb
+[/us/pl/101/552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F552
 [/us/stat/104/2740]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2740
-[/us/pl/102/354/s3/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F354%2Fs3%2Fb%2F2
+[/us/pl/102/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F354
 [/us/stat/106/944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F944
-[/us/pl/104/320/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F320%2Fs3
+[/us/pl/104/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F320
 [/us/stat/110/3870]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3870
 [/us/usc/t7/s2255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2255
 [/us/usc/t7/s2226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2226
 [/us/usc/t5/s594]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs594
-[/us/pl/104/320/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F320%2Fs3%2Fa
-[/us/pl/104/320/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F320%2Fs3%2Fb
-[/us/pl/104/320/s3/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F320%2Fs3%2Fc
-[/us/pl/104/320/s3/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F320%2Fs3%2Fd
+[/us/pl/104/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F320
+[/us/pl/104/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F320
+[/us/pl/104/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F320
+[/us/pl/104/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F320
 [/us/usc/t5/s552/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552%2Fb%2F3
 [/us/pl/102/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F354
 [/us/usc/t5/s584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs584

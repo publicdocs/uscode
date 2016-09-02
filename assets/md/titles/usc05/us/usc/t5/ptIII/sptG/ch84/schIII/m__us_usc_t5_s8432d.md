@@ -43,7 +43,7 @@
 
         (3) any other provisions which may be necessary to carry out this section.
 
-(Added [Pub. L. 111–31, div. B, title I, § 103(a)][/us/pl/111/31/s103/a], June 22, 2009, [123 Stat. 1853][/us/stat/123/1853].)
+(Added [Pub. L. 111–31, div. B, title I][/us/pl/111/31/dB/tI], § 103(a), June 22, 2009, [123 Stat. 1853][/us/stat/123/1853].)
 
  __References in Text__ 
 
@@ -56,7 +56,7 @@
 ----------
 ----------
 
-[/us/pl/111/31/s103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31%2Fs103%2Fa
+[/us/pl/111/31/dB/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31%2FdB%2FtI
 [/us/stat/123/1853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1853
 [/us/usc/t26/s402A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs402A
 

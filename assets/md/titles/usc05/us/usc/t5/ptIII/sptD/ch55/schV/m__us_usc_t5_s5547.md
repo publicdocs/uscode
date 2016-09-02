@@ -49,7 +49,7 @@
 
     (e) Any supplemental pay resulting from receipt of the level 1 border patrol rate of pay or the level 2 border patrol rate of pay under section 5550 shall be considered premium pay in applying this section.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 488][/us/stat/80/488]; [Pub. L. 90–83, § 1(31)][/us/pl/90/83/s1/31], Sept. 11, 1967, [81 Stat. 201][/us/stat/81/201]; [Pub. L. 97–276, § 151(e)][/us/pl/97/276/s151/e], Oct. 2, 1982, [96 Stat. 1201][/us/stat/96/1201]; [Pub. L. 98–525, title XV, § 1537(d)][/us/pl/98/525/s1537/d], Oct. 19, 1984, [98 Stat. 2636][/us/stat/98/2636]; [Pub. L. 100–523, § 2][/us/pl/100/523/s2], Oct. 24, 1988, [102 Stat. 2605][/us/stat/102/2605]; [Pub. L. 101–509, title V, § 529][/us/pl/101/509/s529] \[title II, § 204, title IV, § 410(b)\], Nov. 5, 1990, [104 Stat. 1427][/us/stat/104/1427], 1456, 1469; [Pub. L. 102–378, § 2(43)][/us/pl/102/378/s2/43], Oct. 2, 1992, [106 Stat. 1352][/us/stat/106/1352]; [Pub. L. 103–329, title VI, § 633(b)(2)][/us/pl/103/329/s633/b/2], Sept. 30, 1994, [108 Stat. 2427][/us/stat/108/2427]; [Pub. L. 107–107, div. A, title XI, § 1114(a)][/us/pl/107/107/s1114/a], Dec. 28, 2001, [115 Stat. 1239][/us/stat/115/1239]; [Pub. L. 113–277, § 2(g)(1)][/us/pl/113/277/s2/g/1], Dec. 18, 2014, [128 Stat. 3005][/us/stat/128/3005].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 488][/us/stat/80/488]; [Pub. L. 90–83][/us/pl/90/83], § 1(31), Sept. 11, 1967, [81 Stat. 201][/us/stat/81/201]; [Pub. L. 97–276][/us/pl/97/276], § 151(e), Oct. 2, 1982, [96 Stat. 1201][/us/stat/96/1201]; [Pub. L. 98–525, title XV][/us/pl/98/525/tXV], § 1537(d), Oct. 19, 1984, [98 Stat. 2636][/us/stat/98/2636]; [Pub. L. 100–523][/us/pl/100/523], § 2, Oct. 24, 1988, [102 Stat. 2605][/us/stat/102/2605]; [Pub. L. 101–509, title V][/us/pl/101/509/tV], § 529 \[title II, § 204, title IV, § 410(b)\], Nov. 5, 1990, [104 Stat. 1427][/us/stat/104/1427], 1456, 1469; [Pub. L. 102–378][/us/pl/102/378], § 2(43), Oct. 2, 1992, [106 Stat. 1352][/us/stat/106/1352]; [Pub. L. 103–329, title VI][/us/pl/103/329/tVI], § 633(b)(2), Sept. 30, 1994, [108 Stat. 2427][/us/stat/108/2427]; [Pub. L. 107–107, div. A, title XI][/us/pl/107/107/dA/tXI], § 1114(a), Dec. 28, 2001, [115 Stat. 1239][/us/stat/115/1239]; [Pub. L. 113–277][/us/pl/113/277], § 2(g)(1), Dec. 18, 2014, [128 Stat. 3005][/us/stat/128/3005].)
 
 <table>
 
@@ -155,9 +155,9 @@ Sept. 1, 1954, ch. 1208, § 209, 68 Stat. 1112.  </td>
 
  __Amendments__ 
 
-    2014—Subsec. (a). [Pub. L. 113–277, § 2(g)(1)(A)][/us/pl/113/277/s2/g/1/A], struck out “and” before “5546(a) and (b)” and inserted “, and 5550” after “5546(a) and (b)”.
+    2014—Subsec. (a). [Pub. L. 113–277][/us/pl/113/277], § 2(g)(1)(A), struck out “and” before “5546(a) and (b)” and inserted “, and 5550” after “5546(a) and (b)”.
 
-    Subsec. (e). [Pub. L. 113–277, § 2(g)(1)(B)][/us/pl/113/277/s2/g/1/B], added subsec. (e).
+    Subsec. (e). [Pub. L. 113–277][/us/pl/113/277], § 2(g)(1)(B), added subsec. (e).
 
     2001—[Pub. L. 107–107][/us/pl/107/107] reenacted section catchline without change and amended text generally. Prior to amendment, text read as follows:
 
@@ -179,11 +179,11 @@ Sept. 1, 1954, ch. 1208, § 209, 68 Stat. 1112.  </td>
 
     1992—Subsec. (c)(3). [Pub. L. 102–378][/us/pl/102/378] struck out par. (3) which read as follows: “For the purposes of this subsection, ‘law enforcement officer’ means any law enforcement officer within the meaning of section 8331(20) or section 8401(17).”
 
-    1990—Subsec. (a). [Pub. L. 101–509, § 529][/us/pl/101/509/s529] \[title II, § 204(1)\], inserted “(including any applicable locality-based comparability payment under section 5304 or similar provision of law and any applicable special rate of pay under section 5305 or similar provision of law)” after “GS–15”.
+    1990—Subsec. (a). [Pub. L. 101–509][/us/pl/101/509], § 529 \[title II, § 204(1)\], inserted “(including any applicable locality-based comparability payment under section 5304 or similar provision of law and any applicable special rate of pay under section 5305 or similar provision of law)” after “GS–15”.
 
-    Subsec. (b). [Pub. L. 101–509, § 529][/us/pl/101/509/s529] \[title II, § 204(2)\], amended subsec. (b) generally, substituting present provisions for former provisions consisting of pars. (1) to (3) that related to pay of forest firefighters working on forest wildfire emergencies.
+    Subsec. (b). [Pub. L. 101–509][/us/pl/101/509], § 529 \[title II, § 204(2)\], amended subsec. (b) generally, substituting present provisions for former provisions consisting of pars. (1) to (3) that related to pay of forest firefighters working on forest wildfire emergencies.
 
-    Subsec. (c). [Pub. L. 101–509, § 529][/us/pl/101/509/s529] \[title IV, § 410(b)\], added subsec. (c).
+    Subsec. (c). [Pub. L. 101–509][/us/pl/101/509], § 529 \[title IV, § 410(b)\], added subsec. (c).
 
     1988—[Pub. L. 100–523][/us/pl/100/523] amended section generally, designating existing provisions as subsec. (a) and adding subsec. (b).
 
@@ -197,7 +197,7 @@ Sept. 1, 1954, ch. 1208, § 209, 68 Stat. 1112.  </td>
 
  __Effective Date of 2001 Amendment__ 
 
-[Pub. L. 107–107, div. A, title XI, § 1114(c)][/us/pl/107/107/s1114/c], Dec. 28, 2001, [115 Stat. 1240][/us/stat/115/1240], provided that: 
+[Pub. L. 107–107, div. A, title XI][/us/pl/107/107/dA/tXI], § 1114(c), Dec. 28, 2001, [115 Stat. 1240][/us/stat/115/1240], provided that: 
 
 > “The amendments made by subsections (a) and (b) \[amending this section and provisions set out as a note under this section\] shall take effect on the first day of the first pay period beginning on or after the date that is 120 days following the date of enactment of this Act \[Dec. 28, 2001\].”
 
@@ -223,17 +223,17 @@ Sept. 1, 1954, ch. 1208, § 209, 68 Stat. 1112.  </td>
 
  __Short Title of 1988 Amendment__ 
 
-[Pub. L. 100–523, § 1][/us/pl/100/523/s1], Oct. 24, 1988, [102 Stat. 2605][/us/stat/102/2605], provided: 
+[Pub. L. 100–523][/us/pl/100/523], § 1, Oct. 24, 1988, [102 Stat. 2605][/us/stat/102/2605], provided: 
 
 > “That this Act \[amending this section\] may be cited as the ‘Forest Wildfire Emergency Pay Equity Act of 1988’.”
 
  __Premium Pay for Protective Services of United States Secret Service__ 
 
-[Pub. L. 106–554, § 1(a)(3)][/us/pl/106/554/s1/a/3] \[title I, § 118\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–134, as amended by [Pub. L. 107–107, div. A, title XI, § 1114(b)][/us/pl/107/107/s1114/b], Dec. 28, 2001, [115 Stat. 1240][/us/stat/115/1240], provided that: 
+[Pub. L. 106–554][/us/pl/106/554], § 1(a)(3) \[title I, § 118\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–134, as amended by [Pub. L. 107–107, div. A, title XI][/us/pl/107/107/dA/tXI], § 1114(b), Dec. 28, 2001, [115 Stat. 1240][/us/stat/115/1240], provided that: 
 
 > “Hereafter, funds made available by this or any other Act may be used to pay premium pay for protective services authorized by [section 3056(a) of title 18][/us/usc/t18/s3056/a], United States Code, without regard to the restrictions contained in [section 5547 of title 5][/us/usc/t5/s5547], United States Code, except that such premium pay shall not be payable to an employee to the extent that the aggregate of the employee’s basic and premium pay for the year would otherwise exceed the annual equivalent of that limitation. The term premium pay refers to the provisions of law cited in the first sentence of [section 5547(a) of title 5][/us/usc/t5/s5547/a], United States Code. Payment of additional premium pay payable under this section may be made in a lump sum on the last payday of the calendar year.”
 
-    Similar provisions were contained in [Pub. L. 106–58, title I, § 118][/us/pl/106/58/s118], Sept. 29, 1999, [113 Stat. 441][/us/stat/113/441].
+    Similar provisions were contained in [Pub. L. 106–58, title I][/us/pl/106/58/tI], § 118, Sept. 29, 1999, [113 Stat. 441][/us/stat/113/441].
 
     \[For transfer of the functions, personnel, assets, and obligations of the United States Secret Service, including the functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 381, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6][/us/usc/t6/s542].\]
 
@@ -246,23 +246,23 @@ Sept. 1, 1954, ch. 1208, § 209, 68 Stat. 1112.  </td>
 
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/488]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F488
-[/us/pl/90/83/s1/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83%2Fs1%2F31
+[/us/pl/90/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83
 [/us/stat/81/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F201
-[/us/pl/97/276/s151/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F276%2Fs151%2Fe
+[/us/pl/97/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F276
 [/us/stat/96/1201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1201
-[/us/pl/98/525/s1537/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs1537%2Fd
+[/us/pl/98/525/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2FtXV
 [/us/stat/98/2636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2636
-[/us/pl/100/523/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F523%2Fs2
+[/us/pl/100/523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F523
 [/us/stat/102/2605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2605
-[/us/pl/101/509/s529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2Fs529
+[/us/pl/101/509/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2FtV
 [/us/stat/104/1427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1427
-[/us/pl/102/378/s2/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378%2Fs2%2F43
+[/us/pl/102/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378
 [/us/stat/106/1352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1352
-[/us/pl/103/329/s633/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F329%2Fs633%2Fb%2F2
+[/us/pl/103/329/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F329%2FtVI
 [/us/stat/108/2427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2427
-[/us/pl/107/107/s1114/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs1114%2Fa
+[/us/pl/107/107/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtXI
 [/us/stat/115/1239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1239
-[/us/pl/113/277/s2/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F277%2Fs2%2Fg%2F1
+[/us/pl/113/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F277
 [/us/stat/128/3005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3005
 [/us/act/1962-10-11/s603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1962-10-11%2Fs603
 [/us/pl/87/793]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F793
@@ -280,15 +280,15 @@ Sept. 1, 1954, ch. 1208, § 209, 68 Stat. 1112.  </td>
 [/us/usc/t5/s5547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5547
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
 [/us/usc/t5/s5316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5316
-[/us/pl/113/277/s2/g/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F277%2Fs2%2Fg%2F1%2FA
-[/us/pl/113/277/s2/g/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F277%2Fs2%2Fg%2F1%2FB
+[/us/pl/113/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F277
+[/us/pl/113/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F277
 [/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
 [/us/usc/t5/s5546a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5546a
 [/us/pl/103/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F329
 [/us/pl/102/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378
-[/us/pl/101/509/s529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2Fs529
-[/us/pl/101/509/s529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2Fs529
-[/us/pl/101/509/s529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2Fs529
+[/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509
+[/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509
+[/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509
 [/us/pl/100/523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F523
 [/us/pl/98/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525
 [/us/pl/97/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F276
@@ -296,7 +296,7 @@ Sept. 1, 1954, ch. 1208, § 209, 68 Stat. 1112.  </td>
 [/us/pl/113/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F277
 [/us/pl/113/277/s2/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F277%2Fs2%2Fi
 [/us/usc/t5/s5542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5542
-[/us/pl/107/107/s1114/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs1114%2Fc
+[/us/pl/107/107/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtXI
 [/us/stat/115/1240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1240
 [/us/pl/103/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F329
 [/us/pl/103/329/s633/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F329%2Fs633%2Fe
@@ -313,16 +313,16 @@ Sept. 1, 1954, ch. 1208, § 209, 68 Stat. 1112.  </td>
 [/us/pl/97/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F276
 [/us/pl/97/276/s151/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F276%2Fs151%2Fh%2F1
 [/us/usc/t5/s5546a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5546a
-[/us/pl/100/523/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F523%2Fs1
+[/us/pl/100/523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F523
 [/us/stat/102/2605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2605
-[/us/pl/106/554/s1/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F3
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/107/107/s1114/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs1114%2Fb
+[/us/pl/107/107/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtXI
 [/us/stat/115/1240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1240
 [/us/usc/t18/s3056/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3056%2Fa
 [/us/usc/t5/s5547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5547
 [/us/usc/t5/s5547/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5547%2Fa
-[/us/pl/106/58/s118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F58%2Fs118
+[/us/pl/106/58/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F58%2FtI
 [/us/stat/113/441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F441
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 

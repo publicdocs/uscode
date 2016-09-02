@@ -93,7 +93,7 @@
 
     (c) An employee retains the right to vote as he chooses and to express his opinion on political subjects and candidates.
 
-(Added [Pub. L. 103–94, § 2(a)][/us/pl/103/94/s2/a], Oct. 6, 1993, [107 Stat. 1002][/us/stat/107/1002]; amended [Pub. L. 103–359, title V, § 501(k)][/us/pl/103/359/s501/k], Oct. 14, 1994, [108 Stat. 3430][/us/stat/108/3430]; [Pub. L. 104–201, div. A, title XI, § 1122(a)(1)][/us/pl/104/201/s1122/a/1], Sept. 23, 1996, [110 Stat. 2687][/us/stat/110/2687]; [Pub. L. 106–554, § 1(a)(3)][/us/pl/106/554/s1/a/3] \[title VI, § 645(a)(2)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–170; [Pub. L. 107–252, title VIII, § 811(a)][/us/pl/107/252/s811/a], Oct. 29, 2002, [116 Stat. 1727][/us/stat/116/1727]; [Pub. L. 108–458, title I, § 1079(a)][/us/pl/108/458/s1079/a], Dec. 17, 2004, [118 Stat. 3695][/us/stat/118/3695]; [Pub. L. 109–177, title V, § 506(b)(2)][/us/pl/109/177/s506/b/2], Mar. 9, 2006, [120 Stat. 249][/us/stat/120/249]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title IX, § 931(a)(1), Oct. 14, 2008, [122 Stat. 4575][/us/stat/122/4575].)
+(Added [Pub. L. 103–94][/us/pl/103/94], § 2(a), Oct. 6, 1993, [107 Stat. 1002][/us/stat/107/1002]; amended [Pub. L. 103–359, title V][/us/pl/103/359/tV], § 501(k), Oct. 14, 1994, [108 Stat. 3430][/us/stat/108/3430]; [Pub. L. 104–201, div. A, title XI][/us/pl/104/201/dA/tXI], § 1122(a)(1), Sept. 23, 1996, [110 Stat. 2687][/us/stat/110/2687]; [Pub. L. 106–554][/us/pl/106/554], § 1(a)(3) \[title VI, § 645(a)(2)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–170; [Pub. L. 107–252, title VIII][/us/pl/107/252/tVIII], § 811(a), Oct. 29, 2002, [116 Stat. 1727][/us/stat/116/1727]; [Pub. L. 108–458, title I][/us/pl/108/458/tI], § 1079(a), Dec. 17, 2004, [118 Stat. 3695][/us/stat/118/3695]; [Pub. L. 109–177, title V][/us/pl/109/177/tV], § 506(b)(2), Mar. 9, 2006, [120 Stat. 249][/us/stat/120/249]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title IX, § 931(a)(1), Oct. 14, 2008, [122 Stat. 4575][/us/stat/122/4575].)
 
  __References in Text__ 
 
@@ -155,19 +155,19 @@
 [/us/usc/t2/s441a/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs441a%2Fa%2F4
 [/us/usc/t5/s7103/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs7103%2F4
 [/us/usc/t2/s441a/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs441a%2Fa%2F4
-[/us/pl/103/94/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F94%2Fs2%2Fa
+[/us/pl/103/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F94
 [/us/stat/107/1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1002
-[/us/pl/103/359/s501/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F359%2Fs501%2Fk
+[/us/pl/103/359/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F359%2FtV
 [/us/stat/108/3430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3430
-[/us/pl/104/201/s1122/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1122%2Fa%2F1
+[/us/pl/104/201/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtXI
 [/us/stat/110/2687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2687
-[/us/pl/106/554/s1/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F3
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/107/252/s811/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F252%2Fs811%2Fa
+[/us/pl/107/252/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F252%2FtVIII
 [/us/stat/116/1727]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1727
-[/us/pl/108/458/s1079/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs1079%2Fa
+[/us/pl/108/458/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtI
 [/us/stat/118/3695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3695
-[/us/pl/109/177/s506/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs506%2Fb%2F2
+[/us/pl/109/177/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2FtV
 [/us/stat/120/249]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F249
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4575

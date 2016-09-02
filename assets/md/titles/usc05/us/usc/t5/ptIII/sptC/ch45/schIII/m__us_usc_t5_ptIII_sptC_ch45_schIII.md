@@ -17,7 +17,7 @@
 
  __Amendments__ 
 
-    1992—[Pub. L. 102–378, § 2(20)][/us/pl/102/378/s2/20], Oct. 2, 1992, [106 Stat. 1348][/us/stat/106/1348], substituted “OFFICERS” for “OFFICER”.
+    1992—[Pub. L. 102–378][/us/pl/102/378], § 2(20), Oct. 2, 1992, [106 Stat. 1348][/us/stat/106/1348], substituted “OFFICERS” for “OFFICER”.
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/102/378/s2/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378%2Fs2%2F20
+[/us/pl/102/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378
 [/us/stat/106/1348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1348
 
 

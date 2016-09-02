@@ -17,7 +17,7 @@
 
     Notwithstanding the provisions of any other law, officers and employees of the United States Postal Service promoted or transferred under [section 1006 of title 39][/us/usc/t39/s1006], United States Code, from the Postal Service to an agency (as defined in [section 5721 of this title][/us/usc/t5/s5721]), for permanent duty may be authorized travel, transportation, and relocation expenses and allowances under the same conditions and to the same extent authorized by this subchapter for other transferred employees within the meaning of this chapter.
 
-(Added [Pub. L. 99–234, title I, § 106(a)][/us/pl/99/234/s106/a], Jan. 2, 1986, [99 Stat. 1758][/us/stat/99/1758].)
+(Added [Pub. L. 99–234, title I][/us/pl/99/234/tI], § 106(a), Jan. 2, 1986, [99 Stat. 1758][/us/stat/99/1758].)
 
  __Effective Date__ 
 
@@ -32,7 +32,7 @@
 
 [/us/usc/t39/s1006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs1006
 [/us/usc/t5/s5721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5721
-[/us/pl/99/234/s106/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F234%2Fs106%2Fa
+[/us/pl/99/234/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F234%2FtI
 [/us/stat/99/1758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1758
 [/us/pl/99/234/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F234%2Fs301%2Fa
 [/us/usc/t5/s5701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5701

@@ -35,7 +35,7 @@
 
     The Secretary may prescribe such regulations as may be necessary to administer this chapter.
 
-(Added [Pub. L. 111–282, § 2(a)][/us/pl/111/282/s2/a], Oct. 15, 2010, [124 Stat. 3034][/us/stat/124/3034].)
+(Added [Pub. L. 111–282][/us/pl/111/282], § 2(a), Oct. 15, 2010, [124 Stat. 3034][/us/stat/124/3034].)
 
 ----------
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/pl/111/282/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F282%2Fs2%2Fa
+[/us/pl/111/282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F282
 [/us/stat/124/3034]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3034
 
 

@@ -33,7 +33,7 @@
 
         (2) which involves health care responsibilities.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 473][/us/stat/80/473], § 5361; renumbered § 5371 and amended [Pub. L. 95–454, title VIII, § 801(a)(3)(A)(ii)][/us/pl/95/454/s801/a/3/A/ii], title IX, § 906(a)(2), Oct. 13, 1978, [92 Stat. 1221][/us/stat/92/1221], 1224; [Pub. L. 101–509, title V, § 529][/us/pl/101/509/s529] \[title II, § 205(A)\], Nov. 5, 1990, [104 Stat. 1427][/us/stat/104/1427], 1456; [Pub. L. 102–378, § 2(31)][/us/pl/102/378/s2/31], Oct. 2, 1992, [106 Stat. 1350][/us/stat/106/1350].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 473][/us/stat/80/473], § 5361; renumbered § 5371 and amended [Pub. L. 95–454, title VIII][/us/pl/95/454/tVIII], § 801(a)(3)(A)(ii), title IX, § 906(a)(2), Oct. 13, 1978, [92 Stat. 1221][/us/stat/92/1221], 1224; [Pub. L. 101–509, title V][/us/pl/101/509/tV], § 529 \[title II, § 205(A)\], Nov. 5, 1990, [104 Stat. 1427][/us/stat/104/1427], 1456; [Pub. L. 102–378][/us/pl/102/378], § 2(31), Oct. 2, 1992, [106 Stat. 1350][/us/stat/106/1350].)
 
 <table>
 
@@ -95,7 +95,7 @@ Oct. 11, 1962, Pub. L. 87–793, § 1001(a)(1), 76 Stat. 863.  </td>
 
     1990—[Pub. L. 101–509][/us/pl/101/509] amended section generally, substituting designated provisions directing that Office of Personnel Management may provide that chapter 73 of title 38 provisions apply to certain health care professionals for undesignated text authorizing agency heads to fix pay rates for scientific and professional positions at between GS–16 and GS–18 rates.
 
-    1978—[Pub. L. 95–454, § 906(a)(2)][/us/pl/95/454/s906/a/2], substituted “Office of Personnel Management” for “Civil Service Commission”.
+    1978—[Pub. L. 95–454][/us/pl/95/454], § 906(a)(2), substituted “Office of Personnel Management” for “Civil Service Commission”.
 
  __Effective Date of 1990 Amendment__ 
 
@@ -114,17 +114,17 @@ Oct. 11, 1962, Pub. L. 87–793, § 1001(a)(1), 76 Stat. 863.  </td>
 
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F473
-[/us/pl/95/454/s801/a/3/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs801%2Fa%2F3%2FA%2Fii
+[/us/pl/95/454/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtVIII
 [/us/stat/92/1221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1221
-[/us/pl/101/509/s529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2Fs529
+[/us/pl/101/509/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2FtV
 [/us/stat/104/1427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1427
-[/us/pl/102/378/s2/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378%2Fs2%2F31
+[/us/pl/102/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378
 [/us/stat/106/1350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1350
 [/us/act/1947-08-01/ch433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-08-01%2Fch433
 [/us/stat/61/715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F715
 [/us/pl/102/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378
 [/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509
-[/us/pl/95/454/s906/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs906%2Fa%2F2
+[/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454
 [/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509
 [/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509
 [/us/usc/t5/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5301

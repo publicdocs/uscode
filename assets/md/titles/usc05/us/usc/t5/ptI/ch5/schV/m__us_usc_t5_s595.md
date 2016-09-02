@@ -81,7 +81,7 @@
 
         The Chairman shall preside at meetings of the Council and at each plenary session of the Conference, to which he shall make a full report concerning the affairs of the Conference since the last preceding plenary session. The Chairman, on behalf of the Conference, shall transmit to the President and Congress an annual report and such interim reports as he considers desirable.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 390][/us/stat/80/390], § 575; [Pub. L. 92–526, § 1][/us/pl/92/526/s1], Oct. 21, 1972, [86 Stat. 1048][/us/stat/86/1048]; [Pub. L. 97–258, § 3(a)(1)][/us/pl/97/258/s3/a/1], Sept. 13, 1982, [96 Stat. 1062][/us/stat/96/1062]; [Pub. L. 101–422, § 3][/us/pl/101/422/s3], Oct. 12, 1990, [104 Stat. 910][/us/stat/104/910]; renumbered § 595, [Pub. L. 102–354, § 2(2)][/us/pl/102/354/s2/2], Aug. 26, 1992, [106 Stat. 944][/us/stat/106/944].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 390][/us/stat/80/390], § 575; [Pub. L. 92–526][/us/pl/92/526], § 1, Oct. 21, 1972, [86 Stat. 1048][/us/stat/86/1048]; [Pub. L. 97–258][/us/pl/97/258], § 3(a)(1), Sept. 13, 1982, [96 Stat. 1062][/us/stat/96/1062]; [Pub. L. 101–422][/us/pl/101/422], § 3, Oct. 12, 1990, [104 Stat. 910][/us/stat/104/910]; renumbered § 595, [Pub. L. 102–354][/us/pl/102/354], § 2(2), Aug. 26, 1992, [106 Stat. 944][/us/stat/106/944].)
 
 <table>
 
@@ -149,9 +149,9 @@ Aug. 30, 1964, Pub. L. 88–499, § 6, 78 Stat. 617.  </td>
 
     1982—Subsec. (c)(13). [Pub. L. 97–258][/us/pl/97/258] substituted “[section 1342 of title 31][/us/usc/t31/s1342]” for “section 3679(b) of the Revised Statutes ([31 U.S.C. 665(b)][/us/usc/t31/s665/b])”.
 
-    1972—Subsec. (c)(10). [Pub. L. 92–526, § 1(a)][/us/pl/92/526/s1/a], inserted provisions authorizing contracts for the performance of such studies with any public or private persons, etc., under title III of the Federal Property and Administrative Services Act of 1949, as amended, and substituted provisions authorizing the payment of experts and consultants in accordance with rates not in excess of the maximum rate of pay for grade GS–15 as provided in [section 5332 of this title][/us/usc/t5/s5332], for provisions authorizing the payment of such individuals at rates not in excess of $100 a day.
+    1972—Subsec. (c)(10). [Pub. L. 92–526][/us/pl/92/526], § 1(a), inserted provisions authorizing contracts for the performance of such studies with any public or private persons, etc., under title III of the Federal Property and Administrative Services Act of 1949, as amended, and substituted provisions authorizing the payment of experts and consultants in accordance with rates not in excess of the maximum rate of pay for grade GS–15 as provided in [section 5332 of this title][/us/usc/t5/s5332], for provisions authorizing the payment of such individuals at rates not in excess of $100 a day.
 
-    Subsec. (c)(11) to (15). [Pub. L. 92–526, § 1(b)][/us/pl/92/526/s1/b], added pars. (11) to (13) and redesignated former pars. (11) and (12) as (14) and (15), respectively.
+    Subsec. (c)(11) to (15). [Pub. L. 92–526][/us/pl/92/526], § 1(b), added pars. (11) to (13) and redesignated former pars. (11) and (12) as (14) and (15), respectively.
 
  __Termination of Administrative Conference of United States__ 
 
@@ -171,13 +171,13 @@ Aug. 30, 1964, Pub. L. 88–499, § 6, 78 Stat. 617.  </td>
 [/us/usc/t5/s551/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs551%2F12
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F390
-[/us/pl/92/526/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F526%2Fs1
+[/us/pl/92/526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F526
 [/us/stat/86/1048]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1048
-[/us/pl/97/258/s3/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs3%2Fa%2F1
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1062
-[/us/pl/101/422/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F422%2Fs3
+[/us/pl/101/422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F422
 [/us/stat/104/910]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F910
-[/us/pl/102/354/s2/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F354%2Fs2%2F2
+[/us/pl/102/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F354
 [/us/stat/106/944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F944
 [/us/act/1949-06-30/ch288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-06-30%2Fch288
 [/us/stat/63/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F377
@@ -191,9 +191,9 @@ Aug. 30, 1964, Pub. L. 88–499, § 6, 78 Stat. 617.  </td>
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/usc/t31/s1342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1342
 [/us/usc/t31/s665/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs665%2Fb
-[/us/pl/92/526/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F526%2Fs1%2Fa
+[/us/pl/92/526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F526
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
-[/us/pl/92/526/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F526%2Fs1%2Fb
+[/us/pl/92/526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F526
 [/us/usc/t5/s591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs591
 
 

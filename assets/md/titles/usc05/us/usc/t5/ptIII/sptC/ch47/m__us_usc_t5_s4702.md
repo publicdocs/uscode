@@ -25,7 +25,7 @@
 
     (4) carry out the preceding functions directly or through agreement or contract.
 
-(Added [Pub. L. 95–454, title VI, § 601(a)][/us/pl/95/454/s601/a], Oct. 13, 1978, [92 Stat. 1185][/us/stat/92/1185].)
+(Added [Pub. L. 95–454, title VI][/us/pl/95/454/tVI], § 601(a), Oct. 13, 1978, [92 Stat. 1185][/us/stat/92/1185].)
 
 ----------
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/95/454/s601/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs601%2Fa
+[/us/pl/95/454/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtVI
 [/us/stat/92/1185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1185
 
 

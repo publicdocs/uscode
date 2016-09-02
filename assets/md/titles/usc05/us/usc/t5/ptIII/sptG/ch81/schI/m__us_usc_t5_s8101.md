@@ -113,7 +113,7 @@
 
     (20) “United States medical officers and hospitals” includes medical officers and hospitals of the Army, Navy, Air Force, Department of Veterans Affairs, and United States Public Health Service, and any other medical officer or hospital designated as a United States medical officer or hospital by the Secretary of Labor.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 532][/us/stat/80/532]; [Pub. L. 90–83, § 1(4)][/us/pl/90/83/s1/4], (48), Sept. 11, 1967, [81 Stat. 196][/us/stat/81/196], 209; [Pub. L. 93–416, § 1][/us/pl/93/416/s1], Sept. 7, 1974, [88 Stat. 1143][/us/stat/88/1143]; [Pub. L. 96–499, title IV, § 421(b)][/us/pl/96/499/s421/b], Dec. 5, 1980, [94 Stat. 2608][/us/stat/94/2608]; [Pub. L. 97–463, § 4][/us/pl/97/463/s4], Jan. 12, 1983, [96 Stat. 2532][/us/stat/96/2532]; [Pub. L. 102–54, § 13(b)(1)][/us/pl/102/54/s13/b/1], June 13, 1991, [105 Stat. 274][/us/stat/105/274].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 532][/us/stat/80/532]; [Pub. L. 90–83][/us/pl/90/83], § 1(4), (48), Sept. 11, 1967, [81 Stat. 196][/us/stat/81/196], 209; [Pub. L. 93–416][/us/pl/93/416], § 1, Sept. 7, 1974, [88 Stat. 1143][/us/stat/88/1143]; [Pub. L. 96–499, title IV][/us/pl/96/499/tIV], § 421(b), Dec. 5, 1980, [94 Stat. 2608][/us/stat/94/2608]; [Pub. L. 97–463][/us/pl/97/463], § 4, Jan. 12, 1983, [96 Stat. 2532][/us/stat/96/2532]; [Pub. L. 102–54][/us/pl/102/54], § 13(b)(1), June 13, 1991, [105 Stat. 274][/us/stat/105/274].)
 
 <table>
 
@@ -509,37 +509,37 @@ July 4, 1966, Pub. L. 89–488, §§ 7(c), 14 “Sec. 43(c)”, 80 Stat. 254, 
 
     1980—Pars. (19) to (21). [Pub. L. 96–499][/us/pl/96/499] struck out par. (19) which defined “base month” as the month of July 1966 and each later month which was used as a basis for calculating an increase under [section 8146a of this title][/us/usc/t5/s8146a], and redesignated pars. (20) and (21) as (19) and (20), respectively.
 
-    1974—Par. (1)(D). [Pub. L. 93–416, § 1(g)][/us/pl/93/416/s1/g], struck out “and” after the semicolon.
+    1974—Par. (1)(D). [Pub. L. 93–416][/us/pl/93/416], § 1(g), struck out “and” after the semicolon.
 
-    Par. (1)(F). [Pub. L. 93–416, § 1(a)][/us/pl/93/416/s1/a], added par. (1)(F).
+    Par. (1)(F). [Pub. L. 93–416][/us/pl/93/416], § 1(a), added par. (1)(F).
 
-    Par. (2). [Pub. L. 93–416, § 1(b)][/us/pl/93/416/s1/b], expanded definition of “physician” to include podiatrists, dentists, clinical psychologists, optometrists, and chiropractors and inserted provision limiting the extent to which chiropractors are included.
+    Par. (2). [Pub. L. 93–416][/us/pl/93/416], § 1(b), expanded definition of “physician” to include podiatrists, dentists, clinical psychologists, optometrists, and chiropractors and inserted provision limiting the extent to which chiropractors are included.
 
-    Par. (3). [Pub. L. 93–416, § 1(c)][/us/pl/93/416/s1/c], included within “medical, surgical, and hospital services and supplies” those supplied by podiatrists, dentists, clinical psychologists, optometrists, and chiropractors and limited the reimbursable services of chiropractors.
+    Par. (3). [Pub. L. 93–416][/us/pl/93/416], § 1(c), included within “medical, surgical, and hospital services and supplies” those supplied by podiatrists, dentists, clinical psychologists, optometrists, and chiropractors and limited the reimbursable services of chiropractors.
 
-    Par. (5). [Pub. L. 93–416, § 1(d)][/us/pl/93/416/s1/d], added to definition of “injury” damage to or destruction of medical braces, artificial limbs, and other prosthetic devices and excepted eyeglasses and hearing aids unless damage or destruction is incidental to a personal injury requiring medical services.
+    Par. (5). [Pub. L. 93–416][/us/pl/93/416], § 1(d), added to definition of “injury” damage to or destruction of medical braces, artificial limbs, and other prosthetic devices and excepted eyeglasses and hearing aids unless damage or destruction is incidental to a personal injury requiring medical services.
 
-    Par. (11). [Pub. L. 93–416, § 1(e)][/us/pl/93/416/s1/e], substituted “the husband living with or dependent for support on the decedent at the time of her death, or living apart for reasonable cause because of her desertion” for “one who, because of physical or mental disability, was wholly dependent for support on the employee at the time of her death” as definition of “widower”.
+    Par. (11). [Pub. L. 93–416][/us/pl/93/416], § 1(e), substituted “the husband living with or dependent for support on the decedent at the time of her death, or living apart for reasonable cause because of her desertion” for “one who, because of physical or mental disability, was wholly dependent for support on the employee at the time of her death” as definition of “widower”.
 
-    Pars. (20), (21). [Pub. L. 93–416, § 1(f)][/us/pl/93/416/s1/f], added pars. (20) and (21).
+    Pars. (20), (21). [Pub. L. 93–416][/us/pl/93/416], § 1(f), added pars. (20) and (21).
 
-    1967—Par. (1)(iii). [Pub. L. 90–83, § 1(4)][/us/pl/90/83/s1/4], substituted “Environmental Science Services Administration” for “Coast and Geodetic Survey”. See Historical and Revision Notes under [section 2101 of this title][/us/usc/t5/s2101].
+    1967—Par. (1)(iii). [Pub. L. 90–83][/us/pl/90/83], § 1(4), substituted “Environmental Science Services Administration” for “Coast and Geodetic Survey”. See Historical and Revision Notes under [section 2101 of this title][/us/usc/t5/s2101].
 
  __Effective Date of 1980 Amendment__ 
 
-[Pub. L. 96–499, title IV, § 422][/us/pl/96/499/s422], Dec. 5, 1980, [94 Stat. 2608][/us/stat/94/2608], provided that: 
+[Pub. L. 96–499, title IV][/us/pl/96/499/tIV], § 422, Dec. 5, 1980, [94 Stat. 2608][/us/stat/94/2608], provided that: 
 
 > “The amendments made by section 421 \[amending this section and [section 8146a of this title][/us/usc/t5/s8146a]\] shall take effect on the date of the enactment of this Act \[Dec. 5, 1980\] with respect to any adjustments which are to be made on or after that date; except that the period specified in such section as extending from December to December shall, with respect to the adjustment to be made on March 1, 1981, extend instead from the last month in which the price index resulted in an adjustment prior to enactment to December of 1980.”
 
  __Effective Date of 1974 Amendment__ 
 
-[Pub. L. 93–416, § 28(a)][/us/pl/93/416/s28/a], Sept. 7, 1974, [88 Stat. 1151][/us/stat/88/1151], provided that: 
+[Pub. L. 93–416][/us/pl/93/416], § 28(a), Sept. 7, 1974, [88 Stat. 1151][/us/stat/88/1151], provided that: 
 
 > “Except as otherwise provided by this section this Act \[enacting [section 8151 of this title][/us/usc/t5/s8151], amending this section and sections 8103, 8104, 8107, 8110, 8111, 8113, 8116, 8117, 8118, 8119, 8121, 8122, 8132, 8135, 8142, 8143, 8146a of this title, repealing [section 3315a of this title][/us/usc/t5/s3315a], and enacting provisions set out as notes under this section and [section 8116 of this title][/us/usc/t5/s8116]\] shall take effect on the date of enactment \[Sept. 7, 1974\] and be applicable to any injury or death occurring on or after such effective date \[Sept. 7, 1974\]. The amendments made by sections 1(b) and (c) \[amending this section\], 2 \[amending [section 8103 of this title][/us/usc/t5/s8103]\], 3 \[amending [section 8104 of this title][/us/usc/t5/s8104]\], 7(a) and (b) \[amending [section 8111 of this title][/us/usc/t5/s8111]\], 8(a) \[amending [section 8113 of this title][/us/usc/t5/s8113]\], 8(b) \[amending [section 8143 of this title][/us/usc/t5/s8143]\], 9 \[amending [section 8116 of this title][/us/usc/t5/s8116]\], 16(a) \[amending [section 8133 of this title][/us/usc/t5/s8133]\], 16(b) \[amending [section 8135 of this title][/us/usc/t5/s8135]\], 17 \[amending [section 8133 of this title][/us/usc/t5/s8133]\], 19 \[amending [section 8135 of this title][/us/usc/t5/s8135]\], 20 \[amending [section 8135 of this title][/us/usc/t5/s8135]\], 21 \[amending [section 8146a of this title][/us/usc/t5/s8146a]\], 22 \[enacting [section 8151 of this title][/us/usc/t5/s8151]\], 24 \[amending [section 8146a of this title][/us/usc/t5/s8146a]\], and 25 \[amending [section 8147 of this title][/us/usc/t5/s8147]\], shall be applicable to cases where the injury or death occurred prior to the date of enactment \[Sept. 7, 1974\] but the provisions of these sections shall be applicable only to a period beginning on or after the date of enactment \[Sept. 7, 1974\].”
 
  __Short Title of 1990 Amendment__ 
 
-[Pub. L. 101–534, § 1][/us/pl/101/534/s1], Nov. 7, 1990, [104 Stat. 2352][/us/stat/104/2352], provided that: 
+[Pub. L. 101–534][/us/pl/101/534], § 1, Nov. 7, 1990, [104 Stat. 2352][/us/stat/104/2352], provided that: 
 
 > “This Act \[amending [section 8111 of this title][/us/usc/t5/s8111] and enacting provisions set out as a note under [section 8111 of this title][/us/usc/t5/s8111]\] may be cited as the ‘Attendant Allowance Adjustment Act’.”
 
@@ -551,7 +551,7 @@ July 4, 1966, Pub. L. 89–488, §§ 7(c), 14 “Sec. 43(c)”, 80 Stat. 254, 
 
  __Processing of Claims Filed by District of Columbia Employees__ 
 
-[Pub. L. 93–198, title II, § 204(e)][/us/pl/93/198/s204/e], Dec. 24, 1973, [87 Stat. 783][/us/stat/87/783], provided that: 
+[Pub. L. 93–198, title II][/us/pl/93/198/tII], § 204(e), Dec. 24, 1973, [87 Stat. 783][/us/stat/87/783], provided that: 
 
 > “All functions of the Secretary under chapter 81 of title 5 of the United States Code, with respect to the processing of claims filed by employees of the government of the District for compensation for work injuries, are transferred to and shall be exercised by the Commissioner, effective the day after the day on which the District establishes an independent personnel system or systems.”
 
@@ -559,7 +559,7 @@ July 4, 1966, Pub. L. 89–488, §§ 7(c), 14 “Sec. 43(c)”, 80 Stat. 254, 
 
  __Study and Report to Congress by Secretary of Labor of Provisions and Programs Under Subchapter__ 
 
-[Pub. L. 93–416, § 27][/us/pl/93/416/s27], Sept. 7, 1974, [88 Stat. 1150][/us/stat/88/1150], directed Secretary of Labor to conduct a study of the provisions of this subchapter and its programs which was to include: hearings, research, and other activities necessary to formulate recommendations; an examination of need for authority to increase allowances for services of attendants above the maximum fixed by [section 8111 of this title][/us/usc/t5/s8111] in exceptional circumstances; an examination of the effectiveness of this subchapter; and recommendations as to survivor benefits; report results of the study together with his findings and recommendations not later than 12 months after Sept. 7, 1974.
+[Pub. L. 93–416][/us/pl/93/416], § 27, Sept. 7, 1974, [88 Stat. 1150][/us/stat/88/1150], directed Secretary of Labor to conduct a study of the provisions of this subchapter and its programs which was to include: hearings, research, and other activities necessary to formulate recommendations; an examination of need for authority to increase allowances for services of attendants above the maximum fixed by [section 8111 of this title][/us/usc/t5/s8111] in exceptional circumstances; an examination of the effectiveness of this subchapter; and recommendations as to survivor benefits; report results of the study together with his findings and recommendations not later than 12 months after Sept. 7, 1974.
 
 ----------
 
@@ -574,15 +574,15 @@ July 4, 1966, Pub. L. 89–488, §§ 7(c), 14 “Sec. 43(c)”, 80 Stat. 254, 
 [/us/usc/t5/s8113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8113
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F532
-[/us/pl/90/83/s1/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83%2Fs1%2F4
+[/us/pl/90/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83
 [/us/stat/81/196]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F196
-[/us/pl/93/416/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F416%2Fs1
+[/us/pl/93/416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F416
 [/us/stat/88/1143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1143
-[/us/pl/96/499/s421/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F499%2Fs421%2Fb
+[/us/pl/96/499/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F499%2FtIV
 [/us/stat/94/2608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2608
-[/us/pl/97/463/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F463%2Fs4
+[/us/pl/97/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F463
 [/us/stat/96/2532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2532
-[/us/pl/102/54/s13/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54%2Fs13%2Fb%2F1
+[/us/pl/102/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54
 [/us/stat/105/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F274
 [/us/usc/t1/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft1%2Fs1
 [/us/stat/64/1271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1271
@@ -593,19 +593,19 @@ July 4, 1966, Pub. L. 89–488, §§ 7(c), 14 “Sec. 43(c)”, 80 Stat. 254, 
 [/us/pl/97/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F463
 [/us/pl/96/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F499
 [/us/usc/t5/s8146a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8146a
-[/us/pl/93/416/s1/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F416%2Fs1%2Fg
-[/us/pl/93/416/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F416%2Fs1%2Fa
-[/us/pl/93/416/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F416%2Fs1%2Fb
-[/us/pl/93/416/s1/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F416%2Fs1%2Fc
-[/us/pl/93/416/s1/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F416%2Fs1%2Fd
-[/us/pl/93/416/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F416%2Fs1%2Fe
-[/us/pl/93/416/s1/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F416%2Fs1%2Ff
-[/us/pl/90/83/s1/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83%2Fs1%2F4
+[/us/pl/93/416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F416
+[/us/pl/93/416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F416
+[/us/pl/93/416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F416
+[/us/pl/93/416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F416
+[/us/pl/93/416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F416
+[/us/pl/93/416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F416
+[/us/pl/93/416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F416
+[/us/pl/90/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83
 [/us/usc/t5/s2101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs2101
-[/us/pl/96/499/s422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F499%2Fs422
+[/us/pl/96/499/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F499%2FtIV
 [/us/stat/94/2608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2608
 [/us/usc/t5/s8146a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8146a
-[/us/pl/93/416/s28/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F416%2Fs28%2Fa
+[/us/pl/93/416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F416
 [/us/stat/88/1151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1151
 [/us/usc/t5/s8151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8151
 [/us/usc/t5/s3315a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3315a
@@ -625,16 +625,16 @@ July 4, 1966, Pub. L. 89–488, §§ 7(c), 14 “Sec. 43(c)”, 80 Stat. 254, 
 [/us/usc/t5/s8151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8151
 [/us/usc/t5/s8146a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8146a
 [/us/usc/t5/s8147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8147
-[/us/pl/101/534/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F534%2Fs1
+[/us/pl/101/534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F534
 [/us/stat/104/2352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2352
 [/us/usc/t5/s8111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8111
 [/us/usc/t5/s8111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8111
 [/us/stat/84/2090]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F2090
 [/us/stat/80/1610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1610
 [/us/usc/t20/s3508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs3508
-[/us/pl/93/198/s204/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F198%2Fs204%2Fe
+[/us/pl/93/198/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F198%2FtII
 [/us/stat/87/783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F783
-[/us/pl/93/416/s27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F416%2Fs27
+[/us/pl/93/416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F416
 [/us/stat/88/1150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1150
 [/us/usc/t5/s8111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8111
 

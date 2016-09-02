@@ -177,7 +177,7 @@
 
     (n) For purposes of chapter 87, a phased retiree shall be deemed to be receiving basic pay at the rate of a full-time employee in the position to which the phased retiree is appointed.
 
-(Added [Pub. L. 112–141, div. F, title I, § 100121(a)(2)][/us/pl/112/141/s100121/a/2], July 6, 2012, [126 Stat. 907][/us/stat/126/907].)
+(Added [Pub. L. 112–141, div. F, title I][/us/pl/112/141/dF/tI], § 100121(a)(2), July 6, 2012, [126 Stat. 907][/us/stat/126/907].)
 
  __Effective Date__ 
 
@@ -190,7 +190,7 @@
 ----------
 ----------
 
-[/us/pl/112/141/s100121/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs100121%2Fa%2F2
+[/us/pl/112/141/dF/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdF%2FtI
 [/us/stat/126/907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F907
 [/us/pl/112/141/s100121/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs100121%2Fd
 [/us/usc/t5/s8331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8331

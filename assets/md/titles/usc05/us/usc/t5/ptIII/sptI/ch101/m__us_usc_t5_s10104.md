@@ -65,7 +65,7 @@
 
             (B) a determination of the extent to which such bonuses furthered the purposes of this section.
 
-(Added [Pub. L. 109–295, title VI, § 621(a)][/us/pl/109/295/s621/a], Oct. 4, 2006, [120 Stat. 1414][/us/stat/120/1414].)
+(Added [Pub. L. 109–295, title VI][/us/pl/109/295/tVI], § 621(a), Oct. 4, 2006, [120 Stat. 1414][/us/stat/120/1414].)
 
  __References in Text__ 
 
@@ -78,7 +78,7 @@
 ----------
 ----------
 
-[/us/pl/109/295/s621/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs621%2Fa
+[/us/pl/109/295/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2FtVI
 [/us/stat/120/1414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1414
 [/us/pl/109/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295
 

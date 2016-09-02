@@ -65,7 +65,7 @@
 
         (2) Notwithstanding the second sentence of section 5335(c), an employee of the Internal Revenue Service shall not have a right to appeal the denial of a periodic step increase under section 5335 to the Merit Systems Protection Board.
 
-(Added [Pub. L. 105–206, title I, § 1201(a)][/us/pl/105/206/s1201/a], July 22, 1998, [112 Stat. 715][/us/stat/112/715]; amended [Pub. L. 107–217, § 3(a)(3)][/us/pl/107/217/s3/a/3], Aug. 21, 2002, [116 Stat. 1295][/us/stat/116/1295].)
+(Added [Pub. L. 105–206, title I][/us/pl/105/206/tI], § 1201(a), July 22, 1998, [112 Stat. 715][/us/stat/112/715]; amended [Pub. L. 107–217][/us/pl/107/217], § 3(a)(3), Aug. 21, 2002, [116 Stat. 1295][/us/stat/116/1295].)
 
  __References in Text__ 
 
@@ -86,9 +86,9 @@
 ----------
 ----------
 
-[/us/pl/105/206/s1201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs1201%2Fa
+[/us/pl/105/206/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtI
 [/us/stat/112/715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F715
-[/us/pl/107/217/s3/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs3%2Fa%2F3
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1295
 [/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
 [/us/pl/105/206/s1204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs1204

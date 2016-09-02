@@ -115,7 +115,7 @@
 
     (n) The Board may accept and use gifts and donations of property and services to carry out the duties of the Board.
 
-(Added [Pub. L. 95–454, title II, § 202(a)][/us/pl/95/454/s202/a], Oct. 13, 1978, [92 Stat. 1122][/us/stat/92/1122], § 1205; amended [Pub. L. 97–258, § 3(a)(2)][/us/pl/97/258/s3/a/2], Sept. 13, 1982, [96 Stat. 1063][/us/stat/96/1063]; renumbered § 1204 and amended [Pub. L. 101–12, § 3(a)(7)][/us/pl/101/12/s3/a/7], Apr. 10, 1989, [103 Stat. 17][/us/stat/103/17]; [Pub. L. 102–568, title V, § 506(c)(4)][/us/pl/102/568/s506/c/4], Oct. 29, 1992, [106 Stat. 4341][/us/stat/106/4341]; [Pub. L. 103–353, § 2(b)(2)(A)][/us/pl/103/353/s2/b/2/A], Oct. 13, 1994, [108 Stat. 3169][/us/stat/108/3169]; [Pub. L. 103–424, § 2][/us/pl/103/424/s2], Oct. 29, 1994, [108 Stat. 4361][/us/stat/108/4361]; [Pub. L. 103–446, title XII, § 1203(c)(1)][/us/pl/103/446/s1203/c/1], Nov. 2, 1994, [108 Stat. 4690][/us/stat/108/4690]; [Pub. L. 112–199, title I, § 107(a)][/us/pl/112/199/s107/a], Nov. 27, 2012, [126 Stat. 1469][/us/stat/126/1469]; [Pub. L. 113–76, div. E, title V][/us/pl/113/76], Jan. 17, 2014, [128 Stat. 217][/us/stat/128/217].)
+(Added [Pub. L. 95–454, title II][/us/pl/95/454/tII], § 202(a), Oct. 13, 1978, [92 Stat. 1122][/us/stat/92/1122], § 1205; amended [Pub. L. 97–258][/us/pl/97/258], § 3(a)(2), Sept. 13, 1982, [96 Stat. 1063][/us/stat/96/1063]; renumbered § 1204 and amended [Pub. L. 101–12][/us/pl/101/12], § 3(a)(7), Apr. 10, 1989, [103 Stat. 17][/us/stat/103/17]; [Pub. L. 102–568, title V][/us/pl/102/568/tV], § 506(c)(4), Oct. 29, 1992, [106 Stat. 4341][/us/stat/106/4341]; [Pub. L. 103–353][/us/pl/103/353], § 2(b)(2)(A), Oct. 13, 1994, [108 Stat. 3169][/us/stat/108/3169]; [Pub. L. 103–424][/us/pl/103/424], § 2, Oct. 29, 1994, [108 Stat. 4361][/us/stat/108/4361]; [Pub. L. 103–446, title XII][/us/pl/103/446/tXII], § 1203(c)(1), Nov. 2, 1994, [108 Stat. 4690][/us/stat/108/4690]; [Pub. L. 112–199, title I][/us/pl/112/199/tI], § 107(a), Nov. 27, 2012, [126 Stat. 1469][/us/stat/126/1469]; [Pub. L. 113–76, div. E, title V][/us/pl/113/76/dE/tV], Jan. 17, 2014, [128 Stat. 217][/us/stat/128/217].)
 
  __References in Text__ 
 
@@ -123,7 +123,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 1204 was renumbered [section 1211(b) of this title][/us/usc/t5/s1211/b] by [Pub. L. 101–12, § 3(a)(6)][/us/pl/101/12/s3/a/6]. [Pub. L. 102–378, § 2(3)][/us/pl/102/378/s2/3], Oct. 2, 1992, [106 Stat. 1346][/us/stat/106/1346], struck out section catchline of prior section 1204.
+    A prior section 1204 was renumbered [section 1211(b) of this title][/us/usc/t5/s1211/b] by [Pub. L. 101–12][/us/pl/101/12], § 3(a)(6). [Pub. L. 102–378][/us/pl/102/378], § 2(3), Oct. 2, 1992, [106 Stat. 1346][/us/stat/106/1346], struck out section catchline of prior section 1204.
 
  __Amendments__ 
 
@@ -139,59 +139,59 @@
 
     1992—Subsec. (a)(1). [Pub. L. 102–568][/us/pl/102/568] substituted “4323” for “2023”.
 
-    1989—[Pub. L. 101–12, § 3(a)(7)][/us/pl/101/12/s3/a/7], renumbered [section 1205 of this title][/us/usc/t5/s1205] as this section.
+    1989—[Pub. L. 101–12][/us/pl/101/12], § 3(a)(7), renumbered [section 1205 of this title][/us/usc/t5/s1205] as this section.
 
-    [Pub. L. 101–12, § 3(a)(7)(A)][/us/pl/101/12/s3/a/7/A], struck out “and Special Counsel” after “Board” in section catchline.
+    [Pub. L. 101–12][/us/pl/101/12], § 3(a)(7)(A), struck out “and Special Counsel” after “Board” in section catchline.
 
-    Subsec. (a)(4). [Pub. L. 101–12, § 3(a)(7)(A)][/us/pl/101/12/s3/a/7/A], (C), substituted “subsection (f)” for “subsection (e) of this section”.
+    Subsec. (a)(4). [Pub. L. 101–12][/us/pl/101/12], § 3(a)(7)(A), (C), substituted “subsection (f)” for “subsection (e) of this section”.
 
-    Subsec. (b)(1). [Pub. L. 101–12, § 3(a)(7)(A)][/us/pl/101/12/s3/a/7/A], struck out “the Special Counsel,” after “Board,”.
+    Subsec. (b)(1). [Pub. L. 101–12][/us/pl/101/12], § 3(a)(7)(A), struck out “the Special Counsel,” after “Board,”.
 
-    Subsec. (b)(2). [Pub. L. 101–12, § 3(a)(7)(D)][/us/pl/101/12/s3/a/7/D], amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Any member of the Board, the Special Counsel, and any administrative law judge appointed by the Board under [section 3105 of this title][/us/usc/t5/s3105] may—
+    Subsec. (b)(2). [Pub. L. 101–12][/us/pl/101/12], § 3(a)(7)(D), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Any member of the Board, the Special Counsel, and any administrative law judge appointed by the Board under [section 3105 of this title][/us/usc/t5/s3105] may—
 
     “(A) issue subpenas requiring the attendance and testimony of witnesses and the production of documentary or other evidence from any place in the United States or any territory or possession thereof, the Commonwealth of Puerto Rico, or the District of Columbia; and
 
     “(B) order the taking of depositions and order responses to written interrogatories.”
 
-    Subsec. (b)(3). [Pub. L. 101–12, § 3(a)(7)(B)][/us/pl/101/12/s3/a/7/B], substituted “subpoena” for “subpena” and “subpoenaed” for “subpenaed”.
+    Subsec. (b)(3). [Pub. L. 101–12][/us/pl/101/12], § 3(a)(7)(B), substituted “subpoena” for “subpena” and “subpoenaed” for “subpenaed”.
 
-    Subsec. (c). [Pub. L. 101–12, § 3(a)(7)(B)][/us/pl/101/12/s3/a/7/B], (E), substituted “subpoena” for “subpena” in two places, “(b)(2)(A) or section 1214(b), upon application by the Board” for “(b)(2) of this section”, and “for the district” for “for the judicial district”.
+    Subsec. (c). [Pub. L. 101–12][/us/pl/101/12], § 3(a)(7)(B), (E), substituted “subpoena” for “subpena” in two places, “(b)(2)(A) or section 1214(b), upon application by the Board” for “(b)(2) of this section”, and “for the district” for “for the judicial district”.
 
-    Subsec. (d). [Pub. L. 101–12, § 3(a)(7)(F)][/us/pl/101/12/s3/a/7/F], added subsec. (d). Former subsec. (d) redesignated (e).
+    Subsec. (d). [Pub. L. 101–12][/us/pl/101/12], § 3(a)(7)(F), added subsec. (d). Former subsec. (d) redesignated (e).
 
-    Subsec. (e). [Pub. L. 101–12, § 3(a)(7)(F)][/us/pl/101/12/s3/a/7/F], redesignated former subsec. (d) as (e). Former subsec. (e) redesignated (f).
+    Subsec. (e). [Pub. L. 101–12][/us/pl/101/12], § 3(a)(7)(F), redesignated former subsec. (d) as (e). Former subsec. (e) redesignated (f).
 
-    Subsec. (e)(1). [Pub. L. 101–12, § 3(a)(7)(A)][/us/pl/101/12/s3/a/7/A], (G)(i), designated existing provisions as subpar. (A), struck out “of this section” after “subsection (a)(1)”, and added subpar. (B).
+    Subsec. (e)(1). [Pub. L. 101–12][/us/pl/101/12], § 3(a)(7)(A), (G)(i), designated existing provisions as subpar. (A), struck out “of this section” after “subsection (a)(1)”, and added subpar. (B).
 
-    Subsec. (e)(2). [Pub. L. 101–12, § 3(a)(7)(G)(ii)][/us/pl/101/12/s3/a/7/G/ii], designated existing provisions as subpar. (A), struck out “of this section” after “subsection (a)(2)”, and added subpar. (B).
+    Subsec. (e)(2). [Pub. L. 101–12][/us/pl/101/12], § 3(a)(7)(G)(ii), designated existing provisions as subpar. (A), struck out “of this section” after “subsection (a)(2)”, and added subpar. (B).
 
-    Subsec. (e)(3). [Pub. L. 101–12, § 3(a)(7)(A)][/us/pl/101/12/s3/a/7/A], (G)(iii), struck out “of this section” after “subsection (a)(3)” and inserted “of Personnel Management” after “Office”.
+    Subsec. (e)(3). [Pub. L. 101–12][/us/pl/101/12], § 3(a)(7)(A), (G)(iii), struck out “of this section” after “subsection (a)(3)” and inserted “of Personnel Management” after “Office”.
 
-    Subsec. (f). [Pub. L. 101–12, § 3(a)(7)(F)][/us/pl/101/12/s3/a/7/F], redesignated former subsec. (e) as (f). Former subsec. (f) redesignated (g).
+    Subsec. (f). [Pub. L. 101–12][/us/pl/101/12], § 3(a)(7)(F), redesignated former subsec. (e) as (f). Former subsec. (f) redesignated (g).
 
-    Subsec. (f)(1). [Pub. L. 101–12, § 3(a)(7)(H)(i)][/us/pl/101/12/s3/a/7/H/i], inserted “of the Office of Personnel Management” after “Director” and struck out “of this title” after “section 1103”.
+    Subsec. (f)(1). [Pub. L. 101–12][/us/pl/101/12], § 3(a)(7)(H)(i), inserted “of the Office of Personnel Management” after “Director” and struck out “of this title” after “section 1103”.
 
-    Subsec. (f)(2). [Pub. L. 101–12, § 3(a)(7)(H)(ii)][/us/pl/101/12/s3/a/7/H/ii], inserted comma after “subsection” and in subpars. (A) and (B) struck out “of this title” after “section 2302(b)”.
+    Subsec. (f)(2). [Pub. L. 101–12][/us/pl/101/12], § 3(a)(7)(H)(ii), inserted comma after “subsection” and in subpars. (A) and (B) struck out “of this title” after “section 2302(b)”.
 
-    Subsec. (f)(3), (4). [Pub. L. 101–12, § 3(a)(7)(H)(iii)][/us/pl/101/12/s3/a/7/H/iii], struck out “(A)” before “The Director”, struck out subpar. (B) which provided that any review conducted by the Board be limited to determining the validity on its face of the provision under review and whether the provision under review has been validly implemented, and redesignated former subpar. (C) and cls. (i) and (ii) of former subpar. (C) as par. (4) and subpars. (A) and (B), respectively, of par. (4).
+    Subsec. (f)(3), (4). [Pub. L. 101–12][/us/pl/101/12], § 3(a)(7)(H)(iii), struck out “(A)” before “The Director”, struck out subpar. (B) which provided that any review conducted by the Board be limited to determining the validity on its face of the provision under review and whether the provision under review has been validly implemented, and redesignated former subpar. (C) and cls. (i) and (ii) of former subpar. (C) as par. (4) and subpars. (A) and (B), respectively, of par. (4).
 
-    Subsecs. (g) to (i). [Pub. L. 101–12, § 3(a)(7)(F)][/us/pl/101/12/s3/a/7/F], redesignated former subsecs. (f) to (h) as (g) to (i), respectively. Former subsec. (i) redesignated (j).
+    Subsecs. (g) to (i). [Pub. L. 101–12][/us/pl/101/12], § 3(a)(7)(F), redesignated former subsecs. (f) to (h) as (g) to (i), respectively. Former subsec. (i) redesignated (j).
 
-    Subsec. (j). [Pub. L. 101–12, § 3(a)(7)(F)][/us/pl/101/12/s3/a/7/F], (I), redesignated former subsec. (i) as (j) and substituted “chapter 33” for “chapter 33 of this title”. Former subsec. (j) redesignated (k).
+    Subsec. (j). [Pub. L. 101–12][/us/pl/101/12], § 3(a)(7)(F), (I), redesignated former subsec. (i) as (j) and substituted “chapter 33” for “chapter 33 of this title”. Former subsec. (j) redesignated (k).
 
-    Subsecs. (k), (l). [Pub. L. 101–12, § 3(a)(7)(F)][/us/pl/101/12/s3/a/7/F], redesignated former subsecs. (j) and (k) as (k) and (l), respectively.
+    Subsecs. (k), (l). [Pub. L. 101–12][/us/pl/101/12], § 3(a)(7)(F), redesignated former subsecs. (j) and (k) as (k) and (l), respectively.
 
     1982—Subsec. (j). [Pub. L. 97–258][/us/pl/97/258] substituted “[section 1105 of title 31][/us/usc/t31/s1105]” for “section 201 of the Budget and Accounting Act, 1921 ([31 U.S.C. 11][/us/usc/t31/s11])”.
 
  __Effective Date of 2012 Amendment__ 
 
-[Pub. L. 112–199, title II, § 202][/us/pl/112/199/s202], Nov. 27, 2012, [126 Stat. 1476][/us/stat/126/1476], provided that: 
+[Pub. L. 112–199, title II][/us/pl/112/199/tII], § 202, Nov. 27, 2012, [126 Stat. 1476][/us/stat/126/1476], provided that: 
 
 > “Except as otherwise provided in section 109 \[see Effective Date note set out under [section 2304 of this title][/us/usc/t5/s2304]\], this Act \[see [section 1 of Pub. L. 112–199][/us/pl/112/199/s1], set out as a Short Title of 2012 Amendment note under [section 101 of this title][/us/usc/t5/s101]\] shall take effect 30 days after the date of enactment of this Act \[Nov. 27, 2012\].”
 
  __Effective Date of 1994 Amendment__ 
 
-[Pub. L. 103–424, § 14][/us/pl/103/424/s14], Oct. 29, 1994, [108 Stat. 4368][/us/stat/108/4368], provided that: 
+[Pub. L. 103–424][/us/pl/103/424], § 14, Oct. 29, 1994, [108 Stat. 4368][/us/stat/108/4368], provided that: 
 
 > “The provisions of this Act \[amending this section and sections 1211, 1212, 1214, 1218, 1221, 2105, 2302, 4313, 7121, and 8348 of this title, enacting provisions set out as notes under sections 1212 and 1214 of this title and [section 1441a of Title 12][/us/usc/t12/s1441a], Banks and Banking, and amending provisions set out as a note under [section 5509 of this title][/us/usc/t5/s5509]\] and the amendments made by this Act shall be effective on and after the date of the enactment of this Act \[Oct. 29, 1994\].”
 
@@ -217,27 +217,27 @@
 [/us/usc/t31/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105
 [/us/usc/t5/s2302/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs2302%2Fb%2F1
 [/us/usc/t42/s2000e–5/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2000e%E2%80%935%2Fk
-[/us/pl/95/454/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs202%2Fa
+[/us/pl/95/454/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtII
 [/us/stat/92/1122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1122
-[/us/pl/97/258/s3/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs3%2Fa%2F2
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1063]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1063
-[/us/pl/101/12/s3/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F12%2Fs3%2Fa%2F7
+[/us/pl/101/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F12
 [/us/stat/103/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F17
-[/us/pl/102/568/s506/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F568%2Fs506%2Fc%2F4
+[/us/pl/102/568/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F568%2FtV
 [/us/stat/106/4341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4341
-[/us/pl/103/353/s2/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F353%2Fs2%2Fb%2F2%2FA
+[/us/pl/103/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F353
 [/us/stat/108/3169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3169
-[/us/pl/103/424/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F424%2Fs2
+[/us/pl/103/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F424
 [/us/stat/108/4361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4361
-[/us/pl/103/446/s1203/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2Fs1203%2Fc%2F1
+[/us/pl/103/446/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2FtXII
 [/us/stat/108/4690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4690
-[/us/pl/112/199/s107/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F199%2Fs107%2Fa
+[/us/pl/112/199/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F199%2FtI
 [/us/stat/126/1469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1469
-[/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
+[/us/pl/113/76/dE/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2FdE%2FtV
 [/us/stat/128/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F217
 [/us/usc/t5/s1211/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs1211%2Fb
-[/us/pl/101/12/s3/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F12%2Fs3%2Fa%2F6
-[/us/pl/102/378/s2/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378%2Fs2%2F3
+[/us/pl/101/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F12
+[/us/pl/102/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378
 [/us/stat/106/1346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1346
 [/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
 [/us/pl/112/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F199
@@ -246,36 +246,36 @@
 [/us/pl/103/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F353
 [/us/pl/103/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F424
 [/us/pl/102/568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F568
-[/us/pl/101/12/s3/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F12%2Fs3%2Fa%2F7
+[/us/pl/101/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F12
 [/us/usc/t5/s1205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs1205
-[/us/pl/101/12/s3/a/7/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F12%2Fs3%2Fa%2F7%2FA
-[/us/pl/101/12/s3/a/7/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F12%2Fs3%2Fa%2F7%2FA
-[/us/pl/101/12/s3/a/7/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F12%2Fs3%2Fa%2F7%2FA
-[/us/pl/101/12/s3/a/7/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F12%2Fs3%2Fa%2F7%2FD
+[/us/pl/101/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F12
+[/us/pl/101/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F12
+[/us/pl/101/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F12
+[/us/pl/101/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F12
 [/us/usc/t5/s3105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3105
-[/us/pl/101/12/s3/a/7/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F12%2Fs3%2Fa%2F7%2FB
-[/us/pl/101/12/s3/a/7/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F12%2Fs3%2Fa%2F7%2FB
-[/us/pl/101/12/s3/a/7/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F12%2Fs3%2Fa%2F7%2FF
-[/us/pl/101/12/s3/a/7/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F12%2Fs3%2Fa%2F7%2FF
-[/us/pl/101/12/s3/a/7/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F12%2Fs3%2Fa%2F7%2FA
-[/us/pl/101/12/s3/a/7/G/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F12%2Fs3%2Fa%2F7%2FG%2Fii
-[/us/pl/101/12/s3/a/7/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F12%2Fs3%2Fa%2F7%2FA
-[/us/pl/101/12/s3/a/7/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F12%2Fs3%2Fa%2F7%2FF
-[/us/pl/101/12/s3/a/7/H/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F12%2Fs3%2Fa%2F7%2FH%2Fi
-[/us/pl/101/12/s3/a/7/H/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F12%2Fs3%2Fa%2F7%2FH%2Fii
-[/us/pl/101/12/s3/a/7/H/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F12%2Fs3%2Fa%2F7%2FH%2Fiii
-[/us/pl/101/12/s3/a/7/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F12%2Fs3%2Fa%2F7%2FF
-[/us/pl/101/12/s3/a/7/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F12%2Fs3%2Fa%2F7%2FF
-[/us/pl/101/12/s3/a/7/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F12%2Fs3%2Fa%2F7%2FF
+[/us/pl/101/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F12
+[/us/pl/101/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F12
+[/us/pl/101/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F12
+[/us/pl/101/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F12
+[/us/pl/101/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F12
+[/us/pl/101/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F12
+[/us/pl/101/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F12
+[/us/pl/101/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F12
+[/us/pl/101/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F12
+[/us/pl/101/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F12
+[/us/pl/101/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F12
+[/us/pl/101/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F12
+[/us/pl/101/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F12
+[/us/pl/101/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F12
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/usc/t31/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105
 [/us/usc/t31/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs11
-[/us/pl/112/199/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F199%2Fs202
+[/us/pl/112/199/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F199%2FtII
 [/us/stat/126/1476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1476
 [/us/usc/t5/s2304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs2304
 [/us/pl/112/199/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F199%2Fs1
 [/us/usc/t5/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs101
-[/us/pl/103/424/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F424%2Fs14
+[/us/pl/103/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F424
 [/us/stat/108/4368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4368
 [/us/usc/t12/s1441a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1441a
 [/us/usc/t5/s5509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5509

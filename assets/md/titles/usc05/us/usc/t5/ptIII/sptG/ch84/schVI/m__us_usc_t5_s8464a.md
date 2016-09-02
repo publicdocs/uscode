@@ -41,7 +41,7 @@
 
         Deductions from the annuity may be made from accrued or accruing payments. The amounts deducted and withheld from the annuity shall be transmitted to the Department of Labor for reimbursement to the Employees’ Compensation Fund. When the Department of Labor finds that the financial circumstances of an individual entitled to an annuity under subchapter II, IV, or V warrant deferred refunding, deductions from the annuity may be prorated against and paid from accruing payments in such manner as the Department determines appropriate.
 
-(Added [Pub. L. 100–238, title I, § 124(a)(1)(B)][/us/pl/100/238/s124/a/1/B], Jan. 8, 1988, [101 Stat. 1755][/us/stat/101/1755].)
+(Added [Pub. L. 100–238, title I][/us/pl/100/238/tI], § 124(a)(1)(B), Jan. 8, 1988, [101 Stat. 1755][/us/stat/101/1755].)
 
  __Prior Provisions__ 
 
@@ -58,7 +58,7 @@
 ----------
 ----------
 
-[/us/pl/100/238/s124/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F238%2Fs124%2Fa%2F1%2FB
+[/us/pl/100/238/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F238%2FtI
 [/us/stat/101/1755]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1755
 [/us/usc/t5/s8456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8456
 [/us/pl/100/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F238

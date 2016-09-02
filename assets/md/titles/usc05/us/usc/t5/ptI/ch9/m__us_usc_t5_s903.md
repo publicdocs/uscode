@@ -37,7 +37,7 @@
 
     (c) Any time during the period of 60 calendar days of continuous session of Congress after the date on which the plan is transmitted to it, but before any resolution described in section 909 has been ordered reported in either House, the President may make amendments or modifications to the plan, consistent with sections 903–905 of this title, which modifications or revisions shall thereafter be treated as a part of the reorganization plan originally transmitted and shall not affect in any way the time limits otherwise provided for in this chapter. The President may withdraw the plan any time prior to the conclusion of 90 calendar days of continuous session of Congress following the date on which the plan is submitted to Congress.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 394][/us/stat/80/394]; [Pub. L. 90–83, § 1(99)][/us/pl/90/83/s1/99], Sept. 11, 1967, [81 Stat. 220][/us/stat/81/220]; [Pub. L. 92–179, § 2][/us/pl/92/179/s2], Dec. 10, 1971, [85 Stat. 574][/us/stat/85/574]; [Pub. L. 95–17, § 2][/us/pl/95/17/s2], Apr. 6, 1977, [91 Stat. 30][/us/stat/91/30]; [Pub. L. 98–614][/us/pl/98/614], §§ 3(b)(1), (2), 4, Nov. 8, 1984, [98 Stat. 3192][/us/stat/98/3192], 3193.)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 394][/us/stat/80/394]; [Pub. L. 90–83][/us/pl/90/83], § 1(99), Sept. 11, 1967, [81 Stat. 220][/us/stat/81/220]; [Pub. L. 92–179][/us/pl/92/179], § 2, Dec. 10, 1971, [85 Stat. 574][/us/stat/85/574]; [Pub. L. 95–17][/us/pl/95/17], § 2, Apr. 6, 1977, [91 Stat. 30][/us/stat/91/30]; [Pub. L. 98–614][/us/pl/98/614], §§ 3(b)(1), (2), 4, Nov. 8, 1984, [98 Stat. 3192][/us/stat/98/3192], 3193.)
 
 <table>
 
@@ -105,9 +105,9 @@ June 20, 1949, ch. 226, § 3, 63 Stat. 203.  </td>
 
  __Amendments__ 
 
-    1984—Subsec. (b). [Pub. L. 98–614, § 4][/us/pl/98/614/s4], inserted “In addition, the President’s message shall include an implementation section which shall (1) describe in detail (A) the actions necessary or planned to complete the reorganization, (B) the anticipated nature and substance of any orders, directives, and other administrative and operational actions which are expected to be required for completing or implementing the reorganization, and (C) any preliminary actions which have been taken in the implementation process, and (2) contain a projected timetable for completion of the implementation process. The President shall also submit such further background or other information as the Congress may require for its consideration of the plan.”
+    1984—Subsec. (b). [Pub. L. 98–614][/us/pl/98/614], § 4, inserted “In addition, the President’s message shall include an implementation section which shall (1) describe in detail (A) the actions necessary or planned to complete the reorganization, (B) the anticipated nature and substance of any orders, directives, and other administrative and operational actions which are expected to be required for completing or implementing the reorganization, and (C) any preliminary actions which have been taken in the implementation process, and (2) contain a projected timetable for completion of the implementation process. The President shall also submit such further background or other information as the Congress may require for its consideration of the plan.”
 
-    Subsec. (c). [Pub. L. 98–614, § 3(b)(1)][/us/pl/98/614/s3/b/1], (2), substituted “60 calendar days” for “thirty calendar days”, and “90 calendar days” for “sixty calendar days”.
+    Subsec. (c). [Pub. L. 98–614][/us/pl/98/614], § 3(b)(1), (2), substituted “60 calendar days” for “thirty calendar days”, and “90 calendar days” for “sixty calendar days”.
 
     1977—Subsec. (a)(2). [Pub. L. 95–17][/us/pl/95/17] inserted provision that no enforcement function or statutory program shall be abolished by the plan.
 
@@ -115,9 +115,9 @@ June 20, 1949, ch. 226, § 3, 63 Stat. 203.  </td>
 
     Subsec. (c). [Pub. L. 95–17][/us/pl/95/17] added subsec. (c).
 
-    1971—Subsec. (a). [Pub. L. 92–179, § 2(a)][/us/pl/92/179/s2/a], restructured provisions covering requirements of findings of fact and certification by placing in a position preceding par. (1) provisions formerly set out following par. (6).
+    1971—Subsec. (a). [Pub. L. 92–179][/us/pl/92/179], § 2(a), restructured provisions covering requirements of findings of fact and certification by placing in a position preceding par. (1) provisions formerly set out following par. (6).
 
-    Subsec. (b). [Pub. L. 92–179, § 2(b)][/us/pl/92/179/s2/b], inserted provisions limiting to one plan within any period of thirty consecutive days the allowable number of plans submitted.
+    Subsec. (b). [Pub. L. 92–179][/us/pl/92/179], § 2(b), inserted provisions limiting to one plan within any period of thirty consecutive days the allowable number of plans submitted.
 
  __Effective Date of 1967 Amendment__ 
 
@@ -134,22 +134,22 @@ June 20, 1949, ch. 226, § 3, 63 Stat. 203.  </td>
 [/us/usc/t5/s901/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs901%2Fa
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F394
-[/us/pl/90/83/s1/99]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83%2Fs1%2F99
+[/us/pl/90/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83
 [/us/stat/81/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F220
-[/us/pl/92/179/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F179%2Fs2
+[/us/pl/92/179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F179
 [/us/stat/85/574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F574
-[/us/pl/95/17/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F17%2Fs2
+[/us/pl/95/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F17
 [/us/stat/91/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F30
 [/us/pl/98/614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F614
 [/us/stat/98/3192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3192
 [/us/usc/t5/s903/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs903%2Fa%2F5
-[/us/pl/98/614/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F614%2Fs4
-[/us/pl/98/614/s3/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F614%2Fs3%2Fb%2F1
+[/us/pl/98/614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F614
+[/us/pl/98/614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F614
 [/us/pl/95/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F17
 [/us/pl/95/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F17
 [/us/pl/95/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F17
-[/us/pl/92/179/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F179%2Fs2%2Fa
-[/us/pl/92/179/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F179%2Fs2%2Fb
+[/us/pl/92/179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F179
+[/us/pl/92/179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F179
 [/us/pl/90/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83
 [/us/pl/90/83/s9/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83%2Fs9%2Fh
 [/us/usc/t5/s5102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5102

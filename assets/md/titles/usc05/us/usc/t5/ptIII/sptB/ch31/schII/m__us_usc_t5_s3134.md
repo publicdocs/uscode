@@ -45,7 +45,7 @@
 
     (e) The total number of limited emergency appointees and limited term appointees in all agencies may not exceed 5 percent of the total number of Senior Executive Service positions in all agencies.
 
-(Added [Pub. L. 95–454, title IV, § 402(a)][/us/pl/95/454/s402/a], Oct. 13, 1978, [92 Stat. 1159][/us/stat/92/1159].)
+(Added [Pub. L. 95–454, title IV][/us/pl/95/454/tIV], § 402(a), Oct. 13, 1978, [92 Stat. 1159][/us/stat/92/1159].)
 
  __References in Text__ 
 
@@ -60,7 +60,7 @@
 ----------
 ----------
 
-[/us/pl/95/454/s402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs402%2Fa
+[/us/pl/95/454/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtIV
 [/us/stat/92/1159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1159
 [/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454
 

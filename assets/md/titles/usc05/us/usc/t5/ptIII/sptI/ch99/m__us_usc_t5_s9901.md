@@ -21,11 +21,11 @@
 
     (2) the term “Secretary” means the Secretary of Defense.
 
-(Added [Pub. L. 108–136, div. A, title XI, § 1101(a)(1)][/us/pl/108/136/s1101/a/1], Nov. 24, 2003, [117 Stat. 1621][/us/stat/117/1621].)
+(Added [Pub. L. 108–136, div. A, title XI][/us/pl/108/136/dA/tXI], § 1101(a)(1), Nov. 24, 2003, [117 Stat. 1621][/us/stat/117/1621].)
 
  __Impact on Department of Defense Civilian Personnel__ 
 
-[Pub. L. 108–136, div. A, title XI, § 1101(b)][/us/pl/108/136/s1101/b], Nov. 24, 2003, [117 Stat. 1633][/us/stat/117/1633], provided that:
+[Pub. L. 108–136, div. A, title XI][/us/pl/108/136/dA/tXI], § 1101(b), Nov. 24, 2003, [117 Stat. 1633][/us/stat/117/1633], provided that:
 
 >     “(1) Any exercise of authority under chapter 99 of such title \[this chapter\] (as added by subsection (a)), including under any system established under such chapter, shall be in conformance with the requirements of this subsection.
 
@@ -38,9 +38,9 @@
 ----------
 ----------
 
-[/us/pl/108/136/s1101/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1101%2Fa%2F1
+[/us/pl/108/136/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtXI
 [/us/stat/117/1621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1621
-[/us/pl/108/136/s1101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1101%2Fb
+[/us/pl/108/136/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtXI
 [/us/stat/117/1633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1633
 
 

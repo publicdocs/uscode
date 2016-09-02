@@ -247,7 +247,7 @@
 
         (D) to perform consulting or other professional, scientific, technical, administrative, fiscal, or other specialized work of equal importance, difficulty, and responsibility, and requiring comparable qualifications.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 446][/us/stat/80/446]; [Pub. L. 101–509, title V, § 529][/us/pl/101/509/s529] \[title I, § 102(b)(1)\], Nov. 5, 1990, [104 Stat. 1427][/us/stat/104/1427], 1443.)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 446][/us/stat/80/446]; [Pub. L. 101–509, title V][/us/pl/101/509/tV], § 529 \[title I, § 102(b)(1)\], Nov. 5, 1990, [104 Stat. 1427][/us/stat/104/1427], 1443.)
 
 <table>
 
@@ -442,7 +442,7 @@ June 20, 1958, Pub. L. 85–462, § 13(a), 72 Stat. 214.  </td>
 
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F446
-[/us/pl/101/509/s529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2Fs529
+[/us/pl/101/509/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2FtV
 [/us/stat/104/1427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1427
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
 [/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509

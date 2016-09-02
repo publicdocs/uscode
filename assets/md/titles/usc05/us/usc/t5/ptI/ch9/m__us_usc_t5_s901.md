@@ -37,7 +37,7 @@
 
     (d) The President shall from time to time examine the organization of all agencies and shall determine what changes in such organization are necessary to carry out any policy set forth in subsection (a) of this section.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 394][/us/stat/80/394]; [Pub. L. 92–179, § 1][/us/pl/92/179/s1], Dec. 10, 1971, [85 Stat. 574][/us/stat/85/574]; [Pub. L. 95–17, § 2][/us/pl/95/17/s2], Apr. 6, 1977, [91 Stat. 29][/us/stat/91/29].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 394][/us/stat/80/394]; [Pub. L. 92–179][/us/pl/92/179], § 1, Dec. 10, 1971, [85 Stat. 574][/us/stat/85/574]; [Pub. L. 95–17][/us/pl/95/17], § 2, Apr. 6, 1977, [91 Stat. 29][/us/stat/91/29].)
 
 <table>
 
@@ -97,25 +97,25 @@ June 20, 1949, ch. 226, § 2, 63 Stat. 203.  </td>
 
     1977—Subsecs. (a) to (d). [Pub. L. 95–17][/us/pl/95/17] reenacted subsecs. (a) and (b) without change, added subsec. (c), and redesignated former subsec. (c) as (d).
 
-    1971—Subsec. (a). [Pub. L. 92–179, § 1(a)][/us/pl/92/179/s1/a], substituted “The Congress declares that it is the policy of the United States” for “The President shall from time to time examine the organization of all agencies and shall determine what changes therein are necessary to accomplish the following purposes” preceding par. (1).
+    1971—Subsec. (a). [Pub. L. 92–179][/us/pl/92/179], § 1(a), substituted “The Congress declares that it is the policy of the United States” for “The President shall from time to time examine the organization of all agencies and shall determine what changes therein are necessary to accomplish the following purposes” preceding par. (1).
 
-    Subsec. (c). [Pub. L. 92–179, § 1(b)][/us/pl/92/179/s1/b], added subsec. (c) consisting of provisions formerly set out preceding par. (1) of subsec. (a).
+    Subsec. (c). [Pub. L. 92–179][/us/pl/92/179], § 1(b), added subsec. (c) consisting of provisions formerly set out preceding par. (1) of subsec. (a).
 
  __Short Title of 1984 Amendment__ 
 
-[Pub. L. 98–614, § 1][/us/pl/98/614/s1], Nov. 8, 1984, [98 Stat. 3192][/us/stat/98/3192], provided: 
+[Pub. L. 98–614][/us/pl/98/614], § 1, Nov. 8, 1984, [98 Stat. 3192][/us/stat/98/3192], provided: 
 
 > “That this Act \[amending sections 903 to 906 and 908 to 912 of this title\] may be cited as the ‘Reorganization Act Amendments of 1984’.”
 
  __Short Title of 1977 Amendment__ 
 
-[Pub. L. 95–17, § 1][/us/pl/95/17/s1], Apr. 6, 1977, [91 Stat. 29][/us/stat/91/29], provided: 
+[Pub. L. 95–17][/us/pl/95/17], § 1, Apr. 6, 1977, [91 Stat. 29][/us/stat/91/29], provided: 
 
 > “That this Act \[amending this chapter\] may be cited as the ‘Reorganization Act of 1977’.”
 
  __National Commission on Executive Organization__ 
 
-    [Pub. L. 100–527, § 17][/us/pl/100/527/s17], Oct. 25, 1988, [102 Stat. 2645][/us/stat/102/2645], directed President, within 30 days after Mar. 15, 1989, to make a determination as to whether the national interest would be served by establishment of a National Commission on Executive Organization to review structural organization of executive branch of Federal Government, and stated that if President failed to transmit to Congress notification of his intent to establish such Commission section would cease to be effective 30 days after Mar. 15, 1989. \[President did not transmit such notification to Congress and thus section ceased to be effective 30 days after Mar. 15, 1989.\]
+    [Pub. L. 100–527][/us/pl/100/527], § 17, Oct. 25, 1988, [102 Stat. 2645][/us/stat/102/2645], directed President, within 30 days after Mar. 15, 1989, to make a determination as to whether the national interest would be served by establishment of a National Commission on Executive Organization to review structural organization of executive branch of Federal Government, and stated that if President failed to transmit to Congress notification of his intent to establish such Commission section would cease to be effective 30 days after Mar. 15, 1989. \[President did not transmit such notification to Congress and thus section ceased to be effective 30 days after Mar. 15, 1989.\]
 
  __Ex. Ord. No. 6166. Reorganization of Executive Agencies Generally__ 
 
@@ -153,7 +153,7 @@ June 20, 1949, ch. 226, § 2, 63 Stat. 203.  </td>
 
  __Supersedure of Pars. 1, 3, and 5__ 
 
-Section 602(b) of [act June 30, 1949, ch. 288][/us/act/1949-06-30/ch288], title VI, [63 Stat. 401][/us/stat/63/401], eff. July 1, 1949, as renumbered from title V, section 502(b) of said act June 30, 1949 by [act Sept. 5, 1950, ch. 849][/us/act/1950-09-05/ch849], §§ 6(a), (b), 7(e), [64 Stat. 583][/us/stat/64/583], provided that: 
+Section 602(b) of [act June 30, 1949, ch. 288, title VI][/us/act/1949-06-30/ch288/tVI], [63 Stat. 401][/us/stat/63/401], eff. July 1, 1949, as renumbered from title V, section 502(b) of said act June 30, 1949 by [act Sept. 5, 1950, ch. 849][/us/act/1950-09-05/ch849], §§ 6(a), (b), 7(e), [64 Stat. 583][/us/stat/64/583], provided that: 
 
 > “The provisions of the first, third, and fifth paragraphs of section 1 of Executive Order Numbered 6166 of June 10, 1933 \[this Ex. Ord.\], are hereby superseded, insofar as they relate to any function now administered by the Bureau of Federal Supply except functions with respect to standard contract forms.”
 
@@ -285,7 +285,7 @@ Section 602(b) of [act June 30, 1949, ch. 288][/us/act/1949-06-30/ch288], title 
 
     Rock Creek and Potomac Parkway Commission
 
-    Expenditures by the Federal Government for the purposes of the Commission of Fine Arts, the George Rogers Clark Sesquicentennial Commission, and the Rushmore National Commission shall be administered by the Department of the Interior. (As amended by Ex. Ord. No. 6228 of July 28, 1933; Ex. Ord. No. 6614 of Feb. 26, 1934; Ex. Ord. No. 8428 of June 3, 1940, 5 F.R. 2132; and [act Mar. 2, 1934. ch. 39, § 1][/us/act/1934-03-02/ch39/s1], [48 Stat. 389][/us/stat/48/389].)
+    Expenditures by the Federal Government for the purposes of the Commission of Fine Arts, the George Rogers Clark Sesquicentennial Commission, and the Rushmore National Commission shall be administered by the Department of the Interior. (As amended by Ex. Ord. No. 6228 of July 28, 1933; Ex. Ord. No. 6614 of Feb. 26, 1934; Ex. Ord. No. 8428 of June 3, 1940, 5 F.R. 2132; and [act Mar. 2, 1934. ch. 39][/us/act/1934-03-02/ch39], § 1, [48 Stat. 389][/us/stat/48/389].)
 
  __Amendments__ 
 
@@ -464,27 +464,27 @@ Section 602(b) of [act June 30, 1949, ch. 288][/us/act/1949-06-30/ch288], title 
 
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F394
-[/us/pl/92/179/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F179%2Fs1
+[/us/pl/92/179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F179
 [/us/stat/85/574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F574
-[/us/pl/95/17/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F17%2Fs2
+[/us/pl/95/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F17
 [/us/stat/91/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F29
 [/us/usc/t2/s60e–2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs60e%E2%80%932%2Fa
 [/us/pl/95/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F17
-[/us/pl/92/179/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F179%2Fs1%2Fa
-[/us/pl/92/179/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F179%2Fs1%2Fb
-[/us/pl/98/614/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F614%2Fs1
+[/us/pl/92/179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F179
+[/us/pl/92/179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F179
+[/us/pl/98/614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F614
 [/us/stat/98/3192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3192
-[/us/pl/95/17/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F17%2Fs1
+[/us/pl/95/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F17
 [/us/stat/91/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F29
-[/us/pl/100/527/s17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F527%2Fs17
+[/us/pl/100/527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F527
 [/us/stat/102/2645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2645
 [/us/stat/53/1426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F1426
 [/us/stat/53/1423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F1423
-[/us/act/1949-06-30/ch288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-06-30%2Fch288
+[/us/act/1949-06-30/ch288/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-06-30%2Fch288%2FtVI
 [/us/stat/63/401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F401
 [/us/act/1950-09-05/ch849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-05%2Fch849
 [/us/stat/64/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F583
-[/us/act/1934-03-02/ch39/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-03-02%2Fch39%2Fs1
+[/us/act/1934-03-02/ch39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-03-02%2Fch39
 [/us/stat/48/389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F389
 [/us/stat/54/1231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F1231
 [/us/stat/54/1234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F1234

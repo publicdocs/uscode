@@ -63,7 +63,7 @@
 
     (f) The Executive Director shall prescribe regulations to carry out this section.
 
-(Added [Pub. L. 106–113, div. B, § 1000(a)(7)][/us/pl/106/113/s1000/a/7] \[div. A, title III, § 334(a)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–440.)
+(Added [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(7) \[div. A, title III, § 334(a)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–440.)
 
  __References in Text__ 
 
@@ -71,7 +71,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 106–113, div. B, § 1000(a)(7)][/us/pl/106/113/s1000/a/7] \[div. A, title III, § 334(c)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–441, provided that: 
+[Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(7) \[div. A, title III, § 334(c)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–441, provided that: 
 
 > “The amendment made by subsection (a) \[enacting this section\] shall apply to persons reemployed on or after the date of enactment of this Act \[Nov. 29, 1999\].”
 
@@ -82,12 +82,12 @@
 ----------
 ----------
 
-[/us/pl/106/113/s1000/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F7
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
 [/us/pl/96/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465
 [/us/stat/94/2071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2071
 [/us/usc/t22/s3901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3901
-[/us/pl/106/113/s1000/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F7
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
 
 

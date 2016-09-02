@@ -85,7 +85,7 @@
 
         shall not, if the expression contains no threat of reprisal or force or promise of benefit or was not made under coercive conditions, (A) constitute an unfair labor practice under any provision of this chapter, or (B) constitute grounds for the setting aside of any election conducted under any provisions of this chapter.
 
-(Added [Pub. L. 95–454, title VII, § 701][/us/pl/95/454/s701], Oct. 13, 1978, [92 Stat. 1204][/us/stat/92/1204].)
+(Added [Pub. L. 95–454, title VII][/us/pl/95/454/tVII], § 701, Oct. 13, 1978, [92 Stat. 1204][/us/stat/92/1204].)
 
  __Partial Suspension of Federal Service Labor-Management Relations__ 
 
@@ -99,7 +99,7 @@
 ----------
 
 [/us/usc/t5/s2302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs2302
-[/us/pl/95/454/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs701
+[/us/pl/95/454/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtVII
 [/us/stat/92/1204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1204
 [/us/usc/t5/s7103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs7103
 

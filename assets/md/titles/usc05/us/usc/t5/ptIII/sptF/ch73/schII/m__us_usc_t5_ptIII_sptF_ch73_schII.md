@@ -17,7 +17,7 @@
 
  __Amendments__ 
 
-    1968—[Pub. L. 90–351, title V, § 1001(c)][/us/pl/90/351/s1001/c], June 19, 1968, [82 Stat. 235][/us/stat/82/235], substituted “EMPLOYMENT LIMITATIONS” for “LOYALTY, SECURITY, AND STRIKING” in subchapter heading.
+    1968—[Pub. L. 90–351, title V][/us/pl/90/351/tV], § 1001(c), June 19, 1968, [82 Stat. 235][/us/stat/82/235], substituted “EMPLOYMENT LIMITATIONS” for “LOYALTY, SECURITY, AND STRIKING” in subchapter heading.
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/90/351/s1001/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs1001%2Fc
+[/us/pl/90/351/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2FtV
 [/us/stat/82/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F235
 
 

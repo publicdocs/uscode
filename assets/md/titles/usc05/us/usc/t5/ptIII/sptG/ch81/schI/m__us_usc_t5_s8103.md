@@ -29,7 +29,7 @@
 
     (b) The Secretary, under such limitations or conditions as he considers necessary, may authorize the employing agencies to provide for the initial furnishing of medical and other benefits under this section. The Secretary may certify vouchers for these expenses out of the Employees’ Compensation Fund when the immediate superior of the employee certifies that the expense was incurred in respect to an injury which was accepted by the employing agency as probably compensable under this subchapter. The Secretary shall prescribe the form and content of the certificate.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 535][/us/stat/80/535]; [Pub. L. 90–83, § 1(49)][/us/pl/90/83/s1/49], Sept. 11, 1967, [81 Stat. 209][/us/stat/81/209]; [Pub. L. 93–416, § 2][/us/pl/93/416/s2], Sept. 7, 1974, [88 Stat. 1144][/us/stat/88/1144].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 535][/us/stat/80/535]; [Pub. L. 90–83][/us/pl/90/83], § 1(49), Sept. 11, 1967, [81 Stat. 209][/us/stat/81/209]; [Pub. L. 93–416][/us/pl/93/416], § 2, Sept. 7, 1974, [88 Stat. 1144][/us/stat/88/1144].)
 
 <table>
 
@@ -197,7 +197,7 @@ July 4, 1966, Pub. L. 89–488, § 5(b), 80 Stat. 253.  </td>
 
  __Personnel Not Affected by 1967 Increase__ 
 
-[Pub. L. 90–83, § 7][/us/pl/90/83/s7], Sept. 11, 1967, [81 Stat. 222][/us/stat/81/222], provided that: 
+[Pub. L. 90–83][/us/pl/90/83], § 7, Sept. 11, 1967, [81 Stat. 222][/us/stat/81/222], provided that: 
 
 > “Nothing in this or any other Act makes the increases authorized by section 1(49)—(52) \[amending this section and sections 8107, 8108, and 8109 of this title\], 53(B) and (C) \[amending [section 8110 of this title][/us/usc/t5/s8110]\], (54)—(58) \[amending section 8111, 8112, 8116, 8122, and 8124 of this title\], (60) \[amending [section 8131 of this title][/us/usc/t5/s8131]\], (61) \[amending [section 8132 of this title][/us/usc/t5/s8132]\], (62) (B) \[amending [section 8133(e) of this title][/us/usc/t5/s8133/e]\], (63) \[amending [section 8135 of this title][/us/usc/t5/s8135]\], (67) \[adding [section 8146a of this title][/us/usc/t5/s8146a]\], (68) \[amending [section 8147 of this title][/us/usc/t5/s8147]\], and (71) \[amending [section 8149 of this title][/us/usc/t5/s8149]\] of this Act applicable to—
 
@@ -216,9 +216,9 @@ July 4, 1966, Pub. L. 89–488, § 5(b), 80 Stat. 253.  </td>
 
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F535
-[/us/pl/90/83/s1/49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83%2Fs1%2F49
+[/us/pl/90/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83
 [/us/stat/81/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F209
-[/us/pl/93/416/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F416%2Fs2
+[/us/pl/93/416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F416
 [/us/stat/88/1144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1144
 [/us/usc/t5/s774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs774
 [/us/stat/64/1271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1271
@@ -226,7 +226,7 @@ July 4, 1966, Pub. L. 89–488, § 5(b), 80 Stat. 253.  </td>
 [/us/pl/93/416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F416
 [/us/pl/93/416/s28/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F416%2Fs28%2Fa
 [/us/usc/t5/s8101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8101
-[/us/pl/90/83/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83%2Fs7
+[/us/pl/90/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83
 [/us/stat/81/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F222
 [/us/usc/t5/s8110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8110
 [/us/usc/t5/s8131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8131

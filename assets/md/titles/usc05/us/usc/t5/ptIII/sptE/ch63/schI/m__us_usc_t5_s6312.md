@@ -25,7 +25,7 @@
 
     (b) The provisions of subsections (a) and (b) of section 6308 for transfer of leave between leave systems shall apply to the leave systems established for such county office employees and employees of such Department of Defense and Coast Guard nonappropriated fund instrumentalities, respectively.
 
-(Added [Pub. L. 90–367, § 2(a)][/us/pl/90/367/s2/a], June 29, 1968, [82 Stat. 277][/us/stat/82/277]; amended [Pub. L. 90–623, § 1(25)][/us/pl/90/623/s1/25], Oct. 22, 1968, [82 Stat. 1314][/us/stat/82/1314]; [Pub. L. 99–251, title III, § 306(c)][/us/pl/99/251/s306/c], Feb. 27, 1986, [100 Stat. 27][/us/stat/100/27]; [Pub. L. 101–508, title VII, § 7202(i)(1)][/us/pl/101/508/s7202/i/1], Nov. 5, 1990, [104 Stat. 1388–337][/us/stat/104/1388-337].)
+(Added [Pub. L. 90–367][/us/pl/90/367], § 2(a), June 29, 1968, [82 Stat. 277][/us/stat/82/277]; amended [Pub. L. 90–623][/us/pl/90/623], § 1(25), Oct. 22, 1968, [82 Stat. 1314][/us/stat/82/1314]; [Pub. L. 99–251, title III][/us/pl/99/251/tIII], § 306(c), Feb. 27, 1986, [100 Stat. 27][/us/stat/100/27]; [Pub. L. 101–508, title VII][/us/pl/101/508/tVII], § 7202(i)(1), Nov. 5, 1990, [104 Stat. 1388–337][/us/stat/104/1388-337].)
 
  __References in Text__ 
 
@@ -60,13 +60,13 @@
 ----------
 ----------
 
-[/us/pl/90/367/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F367%2Fs2%2Fa
+[/us/pl/90/367]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F367
 [/us/stat/82/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F277
-[/us/pl/90/623/s1/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F623%2Fs1%2F25
+[/us/pl/90/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F623
 [/us/stat/82/1314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1314
-[/us/pl/99/251/s306/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F251%2Fs306%2Fc
+[/us/pl/99/251/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F251%2FtIII
 [/us/stat/100/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F27
-[/us/pl/101/508/s7202/i/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs7202%2Fi%2F1
+[/us/pl/101/508/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtVII
 [/us/stat/104/1388-337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-337
 [/us/usc/t16/s590h/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs590h%2Fb
 [/us/usc/t7/s610/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs610%2Fb

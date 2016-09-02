@@ -27,15 +27,15 @@
 
         (3) any other retirement system under which individuals may contribute to the Thrift Savings Fund through withholdings from pay.
 
-(Added [Pub. L. 106–168, title II, § 203(a)(1)][/us/pl/106/168/s203/a/1], Dec. 12, 1999, [113 Stat. 1820][/us/stat/113/1820].)
+(Added [Pub. L. 106–168, title II][/us/pl/106/168/tII], § 203(a)(1), Dec. 12, 1999, [113 Stat. 1820][/us/stat/113/1820].)
 
  __Prior Provisions__ 
 
-    A prior section 8431, added [Pub. L. 99–335, title I, § 101(a)][/us/pl/99/335/s101/a], June 6, 1986, [100 Stat. 541][/us/stat/100/541]; amended [Pub. L. 101–509, title V, § 529][/us/pl/101/509/s529] \[title I, § 101(b)(6)(B)\], Nov. 5, 1990, [104 Stat. 1427][/us/stat/104/1427], 1440, provided a definition of “basic pay” for this subchapter, prior to repeal by [Pub. L. 104–208, div. A, title I, § 101(f)][/us/pl/104/208/s101/f] \[title VI, § 659 \[title II, §§ 206(a)(2), 207\]\], Sept. 30, 1996, [110 Stat. 3009–314][/us/stat/110/3009-314], 3009–372, 3009–378, effective Sept. 30, 1996.
+    A prior section 8431, added [Pub. L. 99–335, title I][/us/pl/99/335/tI], § 101(a), June 6, 1986, [100 Stat. 541][/us/stat/100/541]; amended [Pub. L. 101–509, title V][/us/pl/101/509/tV], § 529 \[title I, § 101(b)(6)(B)\], Nov. 5, 1990, [104 Stat. 1427][/us/stat/104/1427], 1440, provided a definition of “basic pay” for this subchapter, prior to repeal by [Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(f) \[title VI, § 659 \[title II, §§ 206(a)(2), 207\]\], Sept. 30, 1996, [110 Stat. 3009–314][/us/stat/110/3009-314], 3009–372, 3009–378, effective Sept. 30, 1996.
 
  __Effective Date__ 
 
-[Pub. L. 106–168, title II, § 203(c)][/us/pl/106/168/s203/c], Dec. 12, 1999, [113 Stat. 1820][/us/stat/113/1820], provided that: 
+[Pub. L. 106–168, title II][/us/pl/106/168/tII], § 203(c), Dec. 12, 1999, [113 Stat. 1820][/us/stat/113/1820], provided that: 
 
 > “The amendments made by this section \[enacting this section and amending [section 8351 of this title][/us/usc/t5/s8351]\] shall apply with respect to transfers occurring before, on, or after the date of the enactment of this Act \[Dec. 12, 1999\], except that, for purposes of applying such amendments with respect to any transfer occurring before such date of enactment, the date of such transfer shall be considered to be the date of the enactment of this Act. The Executive Director (within the meaning of [section 8401(13) of title 5][/us/usc/t5/s8401/13], United States Code) may prescribe any regulations necessary to carry out this subsection.”
 
@@ -46,15 +46,15 @@
 ----------
 ----------
 
-[/us/pl/106/168/s203/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F168%2Fs203%2Fa%2F1
+[/us/pl/106/168/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F168%2FtII
 [/us/stat/113/1820]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1820
-[/us/pl/99/335/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2Fs101%2Fa
+[/us/pl/99/335/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2FtI
 [/us/stat/100/541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F541
-[/us/pl/101/509/s529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2Fs529
+[/us/pl/101/509/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2FtV
 [/us/stat/104/1427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1427
-[/us/pl/104/208/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Ff
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009-314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-314
-[/us/pl/106/168/s203/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F168%2Fs203%2Fc
+[/us/pl/106/168/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F168%2FtII
 [/us/stat/113/1820]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1820
 [/us/usc/t5/s8351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8351
 [/us/usc/t5/s8401/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8401%2F13

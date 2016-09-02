@@ -29,7 +29,7 @@
 
         (2) In conducting the hearing, the representative of the Secretary is not bound by common law or statutory rules of evidence, by technical or formal rules of procedure, or by [section 554 of this title][/us/usc/t5/s554] except as provided by this subchapter, but may conduct the hearing in such manner as to best ascertain the rights of the claimant. For this purpose, he shall receive such relevant evidence as the claimant adduces and such other evidence as he determines necessary or useful in evaluating the claim.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 545][/us/stat/80/545]; [Pub. L. 90–83, § 1(58)][/us/pl/90/83/s1/58], Sept. 11, 1967, [81 Stat. 210][/us/stat/81/210].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 545][/us/stat/80/545]; [Pub. L. 90–83][/us/pl/90/83], § 1(58), Sept. 11, 1967, [81 Stat. 210][/us/stat/81/210].)
 
 <table>
 
@@ -154,7 +154,7 @@ July 4, 1966, Pub. L. 89–488, § 11(b), 80 Stat. 255.  </td>
 [/us/usc/t5/s554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs554
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F545
-[/us/pl/90/83/s1/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83%2Fs1%2F58
+[/us/pl/90/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83
 [/us/stat/81/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F210
 [/us/stat/64/1271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1271
 [/us/usc/t5/s8128/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8128%2Fa

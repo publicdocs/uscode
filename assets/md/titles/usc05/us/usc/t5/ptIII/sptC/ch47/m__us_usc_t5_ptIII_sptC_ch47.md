@@ -75,7 +75,7 @@
 
  __Amendments__ 
 
-    1998—[Pub. L. 105–362, title XIII, § 1302(b)(2)(B)(ii)][/us/pl/105/362/s1302/b/2/B/ii], Nov. 10, 1998, [112 Stat. 3293][/us/stat/112/3293], added item 4705 and struck out former items 4705 “Reports” and 4706 “Regulations”.
+    1998—[Pub. L. 105–362, title XIII][/us/pl/105/362/tXIII], § 1302(b)(2)(B)(ii), Nov. 10, 1998, [112 Stat. 3293][/us/stat/112/3293], added item 4705 and struck out former items 4705 “Reports” and 4706 “Regulations”.
 
 ----------
 
@@ -84,7 +84,7 @@
 ----------
 ----------
 
-[/us/pl/105/362/s1302/b/2/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362%2Fs1302%2Fb%2F2%2FB%2Fii
+[/us/pl/105/362/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362%2FtXIII
 [/us/stat/112/3293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3293
 
 

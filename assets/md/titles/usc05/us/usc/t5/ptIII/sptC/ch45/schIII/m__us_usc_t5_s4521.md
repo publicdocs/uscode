@@ -29,7 +29,7 @@
 
     (6) a pretrial services officer (referred to in [section 3153 of title 18][/us/usc/t18/s3153]).
 
-(Added [Pub. L. 101–509, title V, § 529][/us/pl/101/509/s529] \[title IV, § 408(a)\], Nov. 5, 1990, [104 Stat. 1427][/us/stat/104/1427], 1467; amended [Pub. L. 102–141, title VI, § 627][/us/pl/102/141/s627], Oct. 28, 1991, [105 Stat. 874][/us/stat/105/874]; [Pub. L. 102–378, § 2(21)][/us/pl/102/378/s2/21], Oct. 2, 1992, [106 Stat. 1348][/us/stat/106/1348].)
+(Added [Pub. L. 101–509, title V][/us/pl/101/509/tV], § 529 \[title IV, § 408(a)\], Nov. 5, 1990, [104 Stat. 1427][/us/stat/104/1427], 1467; amended [Pub. L. 102–141, title VI][/us/pl/102/141/tVI], § 627, Oct. 28, 1991, [105 Stat. 874][/us/stat/105/874]; [Pub. L. 102–378][/us/pl/102/378], § 2(21), Oct. 2, 1992, [106 Stat. 1348][/us/stat/106/1348].)
 
  __Amendments__ 
 
@@ -39,7 +39,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 101–509, title V, § 529][/us/pl/101/509/s529] \[title IV, § 408(d)\], Nov. 5, 1990, [104 Stat. 1427][/us/stat/104/1427], 1468, provided that: 
+[Pub. L. 101–509, title V][/us/pl/101/509/tV], § 529 \[title IV, § 408(d)\], Nov. 5, 1990, [104 Stat. 1427][/us/stat/104/1427], 1468, provided that: 
 
 > “The amendments made by this section \[enacting this subchapter and amending provisions set out as a note under [section 5541 of this title][/us/usc/t5/s5541]\] shall be effective on January 1, 1992.”
 
@@ -56,15 +56,15 @@
 
 [/us/usc/t18/s3672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3672
 [/us/usc/t18/s3153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3153
-[/us/pl/101/509/s529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2Fs529
+[/us/pl/101/509/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2FtV
 [/us/stat/104/1427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1427
-[/us/pl/102/141/s627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F141%2Fs627
+[/us/pl/102/141/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F141%2FtVI
 [/us/stat/105/874]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F874
-[/us/pl/102/378/s2/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378%2Fs2%2F21
+[/us/pl/102/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378
 [/us/stat/106/1348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1348
 [/us/pl/102/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378
 [/us/pl/102/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F141
-[/us/pl/101/509/s529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2Fs529
+[/us/pl/101/509/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2FtV
 [/us/stat/104/1427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1427
 [/us/usc/t5/s5541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5541
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542

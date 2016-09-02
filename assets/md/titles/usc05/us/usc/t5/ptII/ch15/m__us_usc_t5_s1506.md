@@ -29,7 +29,7 @@
 
     (c) The Board may not require an amount to be withheld from a loan or grant pledged by a State or local agency as security for its bonds or notes if the withholding of that amount would jeopardize the payment of the principal or interest on the bonds or notes.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 405][/us/stat/80/405]; [Pub. L. 95–454, title IX, § 906(a)(6)][/us/pl/95/454/s906/a/6], Oct. 13, 1978, [92 Stat. 1225][/us/stat/92/1225]; [Pub. L. 112–230, § 3(d)][/us/pl/112/230/s3/d], Dec. 28, 2012, [126 Stat. 1616][/us/stat/126/1616].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 405][/us/stat/80/405]; [Pub. L. 95–454, title IX][/us/pl/95/454/tIX], § 906(a)(6), Oct. 13, 1978, [92 Stat. 1225][/us/stat/92/1225]; [Pub. L. 112–230][/us/pl/112/230], § 3(d), Dec. 28, 2012, [126 Stat. 1616][/us/stat/126/1616].)
 
 <table>
 
@@ -108,9 +108,9 @@ June 11, 1960, Pub. L. 86–507, § 1(1), 74 Stat. 200.  </td>
 [/us/usc/t5/s1508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs1508
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F405
-[/us/pl/95/454/s906/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs906%2Fa%2F6
+[/us/pl/95/454/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtIX
 [/us/stat/92/1225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1225
-[/us/pl/112/230/s3/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F230%2Fs3%2Fd
+[/us/pl/112/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F230
 [/us/stat/126/1616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1616
 [/us/pl/112/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F230
 [/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454

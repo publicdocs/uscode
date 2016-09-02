@@ -107,11 +107,11 @@
 
         A spouse of a disabled or deceased member of the Armed Forces may not receive more than 1 permanent appointment under this section.
 
-(Added [Pub. L. 112–239, div. A, title V, § 566(a)][/us/pl/112/239/s566/a], Jan. 2, 2013, [126 Stat. 1749][/us/stat/126/1749].)
+(Added [Pub. L. 112–239, div. A, title V][/us/pl/112/239/dA/tV], § 566(a), Jan. 2, 2013, [126 Stat. 1749][/us/stat/126/1749].)
 
  __Regulations__ 
 
-[Pub. L. 112–239, div. A, title V, § 566(b)][/us/pl/112/239/s566/b], Jan. 2, 2013, [126 Stat. 1751][/us/stat/126/1751], provided that: 
+[Pub. L. 112–239, div. A, title V][/us/pl/112/239/dA/tV], § 566(b), Jan. 2, 2013, [126 Stat. 1751][/us/stat/126/1751], provided that: 
 
 > “Not later than 180 after the date of the enactment of this Act \[Jan. 2, 2013\], the Director of the Office of Personnel Management shall amend section 315.612 of title 5, Code of Federal Regulations (relating to noncompetitive appointment of certain military spouses), in accordance with the amendment made by subsection (a) \[enacting this section\] and promulgate or amend any other regulations necessary to carry out the amendment made by subsection (a).”
 
@@ -126,9 +126,9 @@
 [/us/usc/t10/s101/d/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101%2Fd%2F5
 [/us/usc/t10/s10101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs10101
 [/us/usc/t5/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs105
-[/us/pl/112/239/s566/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs566%2Fa
+[/us/pl/112/239/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtV
 [/us/stat/126/1749]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1749
-[/us/pl/112/239/s566/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs566%2Fb
+[/us/pl/112/239/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtV
 [/us/stat/126/1751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1751
 
 

@@ -29,11 +29,11 @@
 
         Individuals with respect to whom authority under paragraph (2) may be exercised include individuals who are moved without a break in service of more than 3 days from employment in nonappropriated fund instrumentalities of the Department of Defense or the Coast Guard described in section 2105(c) to employment in the Department of Defense or the Coast Guard, respectively, that is not described in section 2105(c).
 
-(Added [Pub. L. 95–454, title VIII, § 801(a)(1)][/us/pl/95/454/s801/a/1], Oct. 13, 1978, [92 Stat. 1220][/us/stat/92/1220]; amended [Pub. L. 101–508, title VII, § 7202(f)][/us/pl/101/508/s7202/f], Nov. 5, 1990, [104 Stat. 1388–336][/us/stat/104/1388-336]; [Pub. L. 108–411, title III, § 301(a)(6)][/us/pl/108/411/s301/a/6], Oct. 30, 2004, [118 Stat. 2317][/us/stat/118/2317].)
+(Added [Pub. L. 95–454, title VIII][/us/pl/95/454/tVIII], § 801(a)(1), Oct. 13, 1978, [92 Stat. 1220][/us/stat/92/1220]; amended [Pub. L. 101–508, title VII][/us/pl/101/508/tVII], § 7202(f), Nov. 5, 1990, [104 Stat. 1388–336][/us/stat/104/1388-336]; [Pub. L. 108–411, title III][/us/pl/108/411/tIII], § 301(a)(6), Oct. 30, 2004, [118 Stat. 2317][/us/stat/118/2317].)
 
  __Prior Provisions__ 
 
-    A prior section 5365, added [Pub. L. 91–34, § 1(a)][/us/pl/91/34/s1/a], June 30, 1969, [83 Stat. 41][/us/stat/83/41]; amended [Pub. L. 94–183, § 2(20)][/us/pl/94/183/s2/20], Dec. 31, 1975, [89 Stat. 1058][/us/stat/89/1058], which related to the police force of National Zoological Park, was renumbered [section 5375 of this title][/us/usc/t5/s5375] by [Pub. L. 95–454, title VIII, § 801(a)(3)(A)(ii)][/us/pl/95/454/s801/a/3/A/ii], Oct. 13, 1978, [92 Stat. 1221][/us/stat/92/1221].
+    A prior section 5365, added [Pub. L. 91–34][/us/pl/91/34], § 1(a), June 30, 1969, [83 Stat. 41][/us/stat/83/41]; amended [Pub. L. 94–183][/us/pl/94/183], § 2(20), Dec. 31, 1975, [89 Stat. 1058][/us/stat/89/1058], which related to the police force of National Zoological Park, was renumbered [section 5375 of this title][/us/usc/t5/s5375] by [Pub. L. 95–454, title VIII][/us/pl/95/454/tVIII], § 801(a)(3)(A)(ii), Oct. 13, 1978, [92 Stat. 1221][/us/stat/92/1221].
 
  __Amendments__ 
 
@@ -60,18 +60,18 @@
 ----------
 ----------
 
-[/us/pl/95/454/s801/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs801%2Fa%2F1
+[/us/pl/95/454/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtVIII
 [/us/stat/92/1220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1220
-[/us/pl/101/508/s7202/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs7202%2Ff
+[/us/pl/101/508/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtVII
 [/us/stat/104/1388-336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-336
-[/us/pl/108/411/s301/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F411%2Fs301%2Fa%2F6
+[/us/pl/108/411/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F411%2FtIII
 [/us/stat/118/2317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2317
-[/us/pl/91/34/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F34%2Fs1%2Fa
+[/us/pl/91/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F34
 [/us/stat/83/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F41
-[/us/pl/94/183/s2/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F183%2Fs2%2F20
+[/us/pl/94/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F183
 [/us/stat/89/1058]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F1058
 [/us/usc/t5/s5375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5375
-[/us/pl/95/454/s801/a/3/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs801%2Fa%2F3%2FA%2Fii
+[/us/pl/95/454/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtVIII
 [/us/stat/92/1221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1221
 [/us/pl/108/411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F411
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508

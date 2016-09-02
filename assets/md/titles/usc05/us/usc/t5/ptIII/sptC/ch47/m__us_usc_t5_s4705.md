@@ -17,11 +17,11 @@
 
     The Office of Personnel Management shall prescribe regulations to carry out the purpose of this chapter.
 
-(Added [Pub. L. 95–454, title VI, § 601(a)][/us/pl/95/454/s601/a], Oct. 13, 1978, [92 Stat. 1188][/us/stat/92/1188], § 4706; renumbered § 4705, [Pub. L. 105–362, title XIII, § 1302(b)(2)(B)(i)][/us/pl/105/362/s1302/b/2/B/i], Nov. 10, 1998, [112 Stat. 3293][/us/stat/112/3293].)
+(Added [Pub. L. 95–454, title VI][/us/pl/95/454/tVI], § 601(a), Oct. 13, 1978, [92 Stat. 1188][/us/stat/92/1188], § 4706; renumbered § 4705, [Pub. L. 105–362, title XIII][/us/pl/105/362/tXIII], § 1302(b)(2)(B)(i), Nov. 10, 1998, [112 Stat. 3293][/us/stat/112/3293].)
 
  __Prior Provisions__ 
 
-    A prior section 4705, added [Pub. L. 95–454, title VI, § 601(a)][/us/pl/95/454/s601/a], Oct. 13, 1978, [92 Stat. 1188][/us/stat/92/1188], required annual report on research programs and demonstration projects, prior to repeal by [Pub. L. 105–362, title XIII, § 1302(b)(2)(B)(i)][/us/pl/105/362/s1302/b/2/B/i], Nov. 10, 1998, [112 Stat. 3293][/us/stat/112/3293].
+    A prior section 4705, added [Pub. L. 95–454, title VI][/us/pl/95/454/tVI], § 601(a), Oct. 13, 1978, [92 Stat. 1188][/us/stat/92/1188], required annual report on research programs and demonstration projects, prior to repeal by [Pub. L. 105–362, title XIII][/us/pl/105/362/tXIII], § 1302(b)(2)(B)(i), Nov. 10, 1998, [112 Stat. 3293][/us/stat/112/3293].
 
 ----------
 
@@ -30,13 +30,13 @@
 ----------
 ----------
 
-[/us/pl/95/454/s601/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs601%2Fa
+[/us/pl/95/454/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtVI
 [/us/stat/92/1188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1188
-[/us/pl/105/362/s1302/b/2/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362%2Fs1302%2Fb%2F2%2FB%2Fi
+[/us/pl/105/362/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362%2FtXIII
 [/us/stat/112/3293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3293
-[/us/pl/95/454/s601/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs601%2Fa
+[/us/pl/95/454/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtVI
 [/us/stat/92/1188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1188
-[/us/pl/105/362/s1302/b/2/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362%2Fs1302%2Fb%2F2%2FB%2Fi
+[/us/pl/105/362/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362%2FtXIII
 [/us/stat/112/3293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3293
 
 

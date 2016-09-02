@@ -19,7 +19,7 @@
 
     (b) A cash award under this subchapter is in addition to the regular pay of the recipient. Acceptance of a cash award under this subchapter constitutes an agreement that the use by the Government of an idea, method, or device for which the award is made does not form the basis of a further claim of any nature against the Government by the employee, his heirs, or assigns.
 
-(Added [Pub. L. 97–35, title XVII, § 1703(a)][/us/pl/97/35/s1703/a], Aug. 13, 1981, [95 Stat. 755][/us/stat/95/755].)
+(Added [Pub. L. 97–35, title XVII][/us/pl/97/35/tXVII], § 1703(a), Aug. 13, 1981, [95 Stat. 755][/us/stat/95/755].)
 
  __Effective Date__ 
 
@@ -27,7 +27,7 @@
 
  __Authority To Make Awards__ 
 
-[Pub. L. 102–487, § 1(c)][/us/pl/102/487/s1/c], Oct. 24, 1992, [106 Stat. 3134][/us/stat/106/3134], provided that: 
+[Pub. L. 102–487][/us/pl/102/487], § 1(c), Oct. 24, 1992, [106 Stat. 3134][/us/stat/106/3134], provided that: 
 
 > “Awards may be made under subchapter II of chapter 45 of title 5, United States Code, on and after the date of the enactment of this Act \[Oct. 24, 1992\].”
 
@@ -38,11 +38,11 @@
 ----------
 ----------
 
-[/us/pl/97/35/s1703/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs1703%2Fa
+[/us/pl/97/35/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXVII
 [/us/stat/95/755]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F755
 [/us/pl/97/35/s1703/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs1703%2Fc
 [/us/usc/t5/s4501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs4501
-[/us/pl/102/487/s1/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F487%2Fs1%2Fc
+[/us/pl/102/487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F487
 [/us/stat/106/3134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3134
 
 

@@ -85,7 +85,7 @@ Aug. 23, 1912, ch. 350, § 5 (so much as relates to removal), 37 Stat. 414.  <
 
     The words “civil officer, draughtsman, copyist, messenger, assistant messenger, mechanic, watchman, laborer, or other employee” are omitted as obsolete language and “individual” is substituted therefor. The words “in the civil service” are added to preserve the application of former section 46 to civilian employees. The words “or subordinate bureaus or offices thereof” are omitted as surplusage. The words “and at the rate of pay usual and proper for the services” are omitted as surplusage since all pay rates are governed by statute.
 
-    All after the 75th words of [section 4 of the Act of Aug. 5, 1882][/us/act/1882-08-05/s4], as amended by [section 7(b) of the Act of Sept. 23, 1950][/us/act/1950-09-23/s7/b], except the 255th through 316th words, are omitted as executed. The 255th through 296th words are scheduled for repeal as superseded (see Table II–b), and the 297th through 316th words are codified in section 5501. The [Act of Aug. 15, 1876, ch. 287, § 5][/us/act/1876-08-15/ch287/s5], [19 Stat. 169][/us/stat/19/169], cited as authority for former section 46 was repealed by [section 7(a) of the Act of Sept. 23, 1950][/us/act/1950-09-23/s7/a].
+    All after the 75th words of [section 4 of the Act of Aug. 5, 1882][/us/act/1882-08-05/s4], as amended by [section 7(b) of the Act of Sept. 23, 1950][/us/act/1950-09-23/s7/b], except the 255th through 316th words, are omitted as executed. The 255th through 296th words are scheduled for repeal as superseded (see Table II–b), and the 297th through 316th words are codified in section 5501. The [Act of Aug. 15, 1876, ch. 287][/us/act/1876-08-15/ch287], § 5, [19 Stat. 169][/us/stat/19/169], cited as authority for former section 46 was repealed by [section 7(a) of the Act of Sept. 23, 1950][/us/act/1950-09-23/s7/a].
 
     In the last sentence, the word “removed” is substituted for “summarily removed” because of the provisions of the Lloyd-LaFollette Act, [37 Stat. 555][/us/stat/37/555], as amended, and the Veterans’ Preference Act of 1944, [58 Stat. 387][/us/stat/58/387], as amended, which are carried into this title.
 
@@ -102,7 +102,7 @@ Aug. 23, 1912, ch. 350, § 5 (so much as relates to removal), 37 Stat. 414.  <
 [/us/stat/80/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F415
 [/us/act/1882-08-05/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1882-08-05%2Fs4
 [/us/act/1950-09-23/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-23%2Fs7%2Fb
-[/us/act/1876-08-15/ch287/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1876-08-15%2Fch287%2Fs5
+[/us/act/1876-08-15/ch287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1876-08-15%2Fch287
 [/us/stat/19/169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F19%2F169
 [/us/act/1950-09-23/s7/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-23%2Fs7%2Fa
 [/us/stat/37/555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F37%2F555

@@ -19,7 +19,7 @@
 
     (b) A Federal employee whose claim for compensation under subsection (a) of this section is denied is entitled to a fair hearing under regulations prescribed by the Secretary. A final determination by the Secretary with respect to entitlement to compensation under this section is subject to review by the courts in the same manner and to the same extent as is provided by [section 405(g) of title 42][/us/usc/t42/s405/g].
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 587][/us/stat/80/587]; [Pub. L. 90–83, § 1(87)][/us/pl/90/83/s1/87], Sept. 11, 1967, [81 Stat. 218][/us/stat/81/218]; [Pub. L. 94–566, title I, § 116(e)(2)][/us/pl/94/566/s116/e/2], Oct. 20, 1976, [90 Stat. 2673][/us/stat/90/2673].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 587][/us/stat/80/587]; [Pub. L. 90–83][/us/pl/90/83], § 1(87), Sept. 11, 1967, [81 Stat. 218][/us/stat/81/218]; [Pub. L. 94–566, title I][/us/pl/94/566/tI], § 116(e)(2), Oct. 20, 1976, [90 Stat. 2673][/us/stat/90/2673].)
 
 <table>
 
@@ -147,9 +147,9 @@ Sept. 13, 1960, Pub. L. 86–778, § 542(a)(1), 74 Stat. 985.  </td>
 
  __Amendments__ 
 
-    1976—Subsecs. (b), (c). [Pub. L. 94–566, § 116(e)(2)][/us/pl/94/566/s116/e/2], redesignated subsec. (c) as (b) and substituted “subsection (a)” for “subsection (a) or (b)”. Former subsec. (b), which made special provision for Federal employees whose Federal service and Federal wages were assigned to the Virgin Islands, was struck out.
+    1976—Subsecs. (b), (c). [Pub. L. 94–566][/us/pl/94/566], § 116(e)(2), redesignated subsec. (c) as (b) and substituted “subsection (a)” for “subsection (a) or (b)”. Former subsec. (b), which made special provision for Federal employees whose Federal service and Federal wages were assigned to the Virgin Islands, was struck out.
 
-    Subsec. (d). [Pub. L. 94–566, § 116(e)(2)(A)][/us/pl/94/566/s116/e/2/A], struck out subsec. (d) which authorized the Secretary to use the personnel and facilities of the agency in the Virgin Islands cooperating with the United States Employment Service.
+    Subsec. (d). [Pub. L. 94–566][/us/pl/94/566], § 116(e)(2)(A), struck out subsec. (d) which authorized the Secretary to use the personnel and facilities of the agency in the Virgin Islands cooperating with the United States Employment Service.
 
  __Effective Date of 1976 Amendment__ 
 
@@ -166,14 +166,14 @@ Sept. 13, 1960, Pub. L. 86–778, § 542(a)(1), 74 Stat. 985.  </td>
 [/us/usc/t42/s405/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs405%2Fg
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F587
-[/us/pl/90/83/s1/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83%2Fs1%2F87
+[/us/pl/90/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83
 [/us/stat/81/218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F218
-[/us/pl/94/566/s116/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F566%2Fs116%2Fe%2F2
+[/us/pl/94/566/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F566%2FtI
 [/us/stat/90/2673]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2673
 [/us/usc/t5/s8503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8503
 [/us/stat/74/986]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F986
-[/us/pl/94/566/s116/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F566%2Fs116%2Fe%2F2
-[/us/pl/94/566/s116/e/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F566%2Fs116%2Fe%2F2%2FA
+[/us/pl/94/566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F566
+[/us/pl/94/566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F566
 [/us/pl/94/566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F566
 [/us/usc/t26/s3304/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs3304%2Fa
 [/us/pl/94/566/s116/f/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F566%2Fs116%2Ff%2F3

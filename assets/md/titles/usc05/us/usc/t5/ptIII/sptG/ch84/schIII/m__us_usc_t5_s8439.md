@@ -65,29 +65,29 @@
 
         (2) Prior to enrollment in the Thrift Savings Fund, or as soon as practicable thereafter, an individual who is automatically enrolled pursuant to section 8432(b)(2) shall receive the risk acknowledgment information described under paragraph (1).
 
-(Added [Pub. L. 99–335, title I, § 101(a)][/us/pl/99/335/s101/a], June 6, 1986, [100 Stat. 555][/us/stat/100/555]; amended [Pub. L. 104–208, div. A, title I, § 101(f)][/us/pl/104/208/s101/f] \[title VI, § 659 \[title I, § 103\]\], Sept. 30, 1996, [110 Stat. 3009–314][/us/stat/110/3009-314], 3009–372, 3009–373; [Pub. L. 104–316, title I, § 103(j)][/us/pl/104/316/s103/j], Oct. 19, 1996, [110 Stat. 3829][/us/stat/110/3829]; [Pub. L. 106–65, div. A, title VI, § 661(a)(5)][/us/pl/106/65/s661/a/5], Oct. 5, 1999, [113 Stat. 672][/us/stat/113/672]; [Pub. L. 106–361, § 2(b)(4)][/us/pl/106/361/s2/b/4], (5), Oct. 27, 2000, [114 Stat. 1401][/us/stat/114/1401]; [Pub. L. 108–469, § 1(d)(3)][/us/pl/108/469/s1/d/3], Dec. 21, 2004, [118 Stat. 3892][/us/stat/118/3892]; [Pub. L. 111–31, div. B, title I, § 106(a)][/us/pl/111/31/s106/a], June 22, 2009, [123 Stat. 1855][/us/stat/123/1855]; [Pub. L. 113–255, § 2(b)][/us/pl/113/255/s2/b], Dec. 18, 2014, [128 Stat. 2920][/us/stat/128/2920].)
+(Added [Pub. L. 99–335, title I][/us/pl/99/335/tI], § 101(a), June 6, 1986, [100 Stat. 555][/us/stat/100/555]; amended [Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(f) \[title VI, § 659 \[title I, § 103\]\], Sept. 30, 1996, [110 Stat. 3009–314][/us/stat/110/3009-314], 3009–372, 3009–373; [Pub. L. 104–316, title I][/us/pl/104/316/tI], § 103(j), Oct. 19, 1996, [110 Stat. 3829][/us/stat/110/3829]; [Pub. L. 106–65, div. A, title VI][/us/pl/106/65/dA/tVI], § 661(a)(5), Oct. 5, 1999, [113 Stat. 672][/us/stat/113/672]; [Pub. L. 106–361][/us/pl/106/361], § 2(b)(4), (5), Oct. 27, 2000, [114 Stat. 1401][/us/stat/114/1401]; [Pub. L. 108–469][/us/pl/108/469], § 1(d)(3), Dec. 21, 2004, [118 Stat. 3892][/us/stat/118/3892]; [Pub. L. 111–31, div. B, title I][/us/pl/111/31/dB/tI], § 106(a), June 22, 2009, [123 Stat. 1855][/us/stat/123/1855]; [Pub. L. 113–255][/us/pl/113/255], § 2(b), Dec. 18, 2014, [128 Stat. 2920][/us/stat/128/2920].)
 
  __Amendments__ 
 
     2014—Subsec. (d). [Pub. L. 113–255][/us/pl/113/255] designated existing provisions as par. (1) and added par. (2).
 
-    2009—Subsec. (d). [Pub. L. 111–31, § 106(a)(2)][/us/pl/111/31/s106/a/2], substituted “any such fund or option” for “either such Fund”.
+    2009—Subsec. (d). [Pub. L. 111–31][/us/pl/111/31], § 106(a)(2), substituted “any such fund or option” for “either such Fund”.
 
-    [Pub. L. 111–31, § 106(a)(1)][/us/pl/111/31/s106/a/1], which directed substitution of “any investment fund or option under this chapter, other than the Government Securities Investment Fund,” for “the matter after ‘who elects to invest in’ and before ‘shall sign an acknowledgment’ ”, was executed by making the substitution for “the Common Stock Index Investment Fund, the Fixed Income Investment Fund, the International Stock Index Investment Fund, or the Small Capitalization Stock Index Investment Fund, defined in paragraphs (1), (3), (5), and (10), respectively, of [section 8438(a) of this title][/us/usc/t5/s8438/a]”, before “shall sign an acknowledgement”, to reflect the probable intent of Congress.
+    [Pub. L. 111–31][/us/pl/111/31], § 106(a)(1), which directed substitution of “any investment fund or option under this chapter, other than the Government Securities Investment Fund,” for “the matter after ‘who elects to invest in’ and before ‘shall sign an acknowledgment’ ”, was executed by making the substitution for “the Common Stock Index Investment Fund, the Fixed Income Investment Fund, the International Stock Index Investment Fund, or the Small Capitalization Stock Index Investment Fund, defined in paragraphs (1), (3), (5), and (10), respectively, of [section 8438(a) of this title][/us/usc/t5/s8438/a]”, before “shall sign an acknowledgement”, to reflect the probable intent of Congress.
 
     2004—Subsec. (c)(2). [Pub. L. 108–469][/us/pl/108/469] substituted “on a regular basis” for “at least 30 calendar days before the beginning of each election period under [section 8432(b)(1)(A) of this title][/us/usc/t5/s8432/b/1/A]”.
 
-    2000—Subsec. (a)(1). [Pub. L. 106–361, § 2(b)(4)][/us/pl/106/361/s2/b/4], inserted “who makes contributions or” after “for each individual” and substituted “section 8432” for “section 8432(c)(1)”.
+    2000—Subsec. (a)(1). [Pub. L. 106–361][/us/pl/106/361], § 2(b)(4), inserted “who makes contributions or” after “for each individual” and substituted “section 8432” for “section 8432(c)(1)”.
 
-    Subsec. (c)(2). [Pub. L. 106–361, § 2(b)(5)][/us/pl/106/361/s2/b/5], inserted at end “Nothing in this paragraph shall be considered to limit the dissemination of information only to the times required under the preceding sentence.”
+    Subsec. (c)(2). [Pub. L. 106–361][/us/pl/106/361], § 2(b)(5), inserted at end “Nothing in this paragraph shall be considered to limit the dissemination of information only to the times required under the preceding sentence.”
 
-    1999—Subsec. (a)(1). [Pub. L. 106–65, § 661(a)(5)(A)][/us/pl/106/65/s661/a/5/A], in so far as it directed amendment of par. (1) by striking out “under [section 8432(c)(1) of this title][/us/usc/t5/s8432/c/1]”, could not be executed because the words “under [section 8432(c)(1) of this title][/us/usc/t5/s8432/c/1]” did not appear subsequent to amendment by [Pub. L. 106–361, § 2(b)(4)][/us/pl/106/361/s2/b/4]. See 2000 Amendment note above.
+    1999—Subsec. (a)(1). [Pub. L. 106–65][/us/pl/106/65], § 661(a)(5)(A), in so far as it directed amendment of par. (1) by striking out “under [section 8432(c)(1) of this title][/us/usc/t5/s8432/c/1]”, could not be executed because the words “under [section 8432(c)(1) of this title][/us/usc/t5/s8432/c/1]” did not appear subsequent to amendment by [Pub. L. 106–361][/us/pl/106/361], § 2(b)(4). See 2000 Amendment note above.
 
-    [Pub. L. 106–65, § 661(a)(5)(A)][/us/pl/106/65/s661/a/5/A], struck out “under [section 8351 of this title][/us/usc/t5/s8351]” after “Thrift Savings Fund”.
+    [Pub. L. 106–65][/us/pl/106/65], § 661(a)(5)(A), struck out “under [section 8351 of this title][/us/usc/t5/s8351]” after “Thrift Savings Fund”.
 
-    Subsec. (a)(2)(A)(i). [Pub. L. 106–65, § 661(a)(5)(B)][/us/pl/106/65/s661/a/5/B], struck out “under section 8432(a) or 8351 of this title” after “individual”.
+    Subsec. (a)(2)(A)(i). [Pub. L. 106–65][/us/pl/106/65], § 661(a)(5)(B), struck out “under section 8432(a) or 8351 of this title” after “individual”.
 
-    Subsec. (a)(2)(A)(ii). [Pub. L. 106–65, § 661(a)(5)(C)][/us/pl/106/65/s661/a/5/C], struck out “under [section 8432(c) of this title][/us/usc/t5/s8432/c]” after “individual”.
+    Subsec. (a)(2)(A)(ii). [Pub. L. 106–65][/us/pl/106/65], § 661(a)(5)(C), struck out “under [section 8432(c) of this title][/us/usc/t5/s8432/c]” after “individual”.
 
     1996—Subsec. (b)(3). [Pub. L. 104–316][/us/pl/104/316] struck out “and the Comptroller General of the United States” after “to the Board”.
 
@@ -111,7 +111,7 @@
 
  __Reporting Requirements__ 
 
-[Pub. L. 111–31, div. B, title I, § 105][/us/pl/111/31/s105], June 22, 2009, [123 Stat. 1855][/us/stat/123/1855], provided that:
+[Pub. L. 111–31, div. B, title I][/us/pl/111/31/dB/tI], § 105, June 22, 2009, [123 Stat. 1855][/us/stat/123/1855], provided that:
 
 >     “(a)  __Annual Report__  __.—__ 
 
@@ -148,38 +148,38 @@
 [/us/usc/t5/s8437/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8437%2Fd
 [/us/usc/t29/s1023/a/3/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1023%2Fa%2F3%2FD
 [/us/usc/t5/s8438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8438
-[/us/pl/99/335/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2Fs101%2Fa
+[/us/pl/99/335/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2FtI
 [/us/stat/100/555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F555
-[/us/pl/104/208/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Ff
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009-314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-314
-[/us/pl/104/316/s103/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2Fs103%2Fj
+[/us/pl/104/316/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2FtI
 [/us/stat/110/3829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3829
-[/us/pl/106/65/s661/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs661%2Fa%2F5
+[/us/pl/106/65/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtVI
 [/us/stat/113/672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F672
-[/us/pl/106/361/s2/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F361%2Fs2%2Fb%2F4
+[/us/pl/106/361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F361
 [/us/stat/114/1401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1401
-[/us/pl/108/469/s1/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F469%2Fs1%2Fd%2F3
+[/us/pl/108/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F469
 [/us/stat/118/3892]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3892
-[/us/pl/111/31/s106/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31%2Fs106%2Fa
+[/us/pl/111/31/dB/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31%2FdB%2FtI
 [/us/stat/123/1855]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1855
-[/us/pl/113/255/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F255%2Fs2%2Fb
+[/us/pl/113/255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F255
 [/us/stat/128/2920]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2920
 [/us/pl/113/255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F255
-[/us/pl/111/31/s106/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31%2Fs106%2Fa%2F2
-[/us/pl/111/31/s106/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31%2Fs106%2Fa%2F1
+[/us/pl/111/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31
+[/us/pl/111/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31
 [/us/usc/t5/s8438/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8438%2Fa
 [/us/pl/108/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F469
 [/us/usc/t5/s8432/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8432%2Fb%2F1%2FA
-[/us/pl/106/361/s2/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F361%2Fs2%2Fb%2F4
-[/us/pl/106/361/s2/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F361%2Fs2%2Fb%2F5
-[/us/pl/106/65/s661/a/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs661%2Fa%2F5%2FA
+[/us/pl/106/361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F361
+[/us/pl/106/361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F361
+[/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
 [/us/usc/t5/s8432/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8432%2Fc%2F1
 [/us/usc/t5/s8432/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8432%2Fc%2F1
-[/us/pl/106/361/s2/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F361%2Fs2%2Fb%2F4
-[/us/pl/106/65/s661/a/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs661%2Fa%2F5%2FA
+[/us/pl/106/361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F361
+[/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
 [/us/usc/t5/s8351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8351
-[/us/pl/106/65/s661/a/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs661%2Fa%2F5%2FB
-[/us/pl/106/65/s661/a/5/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs661%2Fa%2F5%2FC
+[/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
+[/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
 [/us/usc/t5/s8432/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8432%2Fc
 [/us/pl/104/316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316
 [/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
@@ -197,7 +197,7 @@
 [/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/usc/t5/s8438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8438
-[/us/pl/111/31/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31%2Fs105
+[/us/pl/111/31/dB/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31%2FdB%2FtI
 [/us/stat/123/1855]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1855
 [/us/usc/t5/s8439/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8439%2Fc
 [/us/usc/t5/s8471/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8471%2F3

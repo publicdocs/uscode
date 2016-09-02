@@ -17,7 +17,7 @@
 
  __Amendments__ 
 
-    1979—[Pub. L. 96–54, § 2(a)(42)][/us/pl/96/54/s2/a/42], Aug. 14, 1979, [93 Stat. 383][/us/stat/93/383], inserted “, APPEALS, AND REVIEW” after “GRIEVANCES”.
+    1979—[Pub. L. 96–54][/us/pl/96/54], § 2(a)(42), Aug. 14, 1979, [93 Stat. 383][/us/stat/93/383], inserted “, APPEALS, AND REVIEW” after “GRIEVANCES”.
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/96/54/s2/a/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F54%2Fs2%2Fa%2F42
+[/us/pl/96/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F54
 [/us/stat/93/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F383
 
 

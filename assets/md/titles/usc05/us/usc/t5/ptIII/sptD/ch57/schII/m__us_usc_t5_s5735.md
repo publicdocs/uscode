@@ -29,11 +29,11 @@
 
         (3) accepts the appointment.
 
-(Added [Pub. L. 103–337, div. A, title III, § 345(a)(1)][/us/pl/103/337/s345/a/1], Oct. 5, 1994, [108 Stat. 2723][/us/stat/108/2723].)
+(Added [Pub. L. 103–337, div. A, title III][/us/pl/103/337/dA/tIII], § 345(a)(1), Oct. 5, 1994, [108 Stat. 2723][/us/stat/108/2723].)
 
  __Effective Date__ 
 
-[Pub. L. 103–337, div. A, title III, § 345(b)][/us/pl/103/337/s345/b], Oct. 5, 1994, [108 Stat. 2724][/us/stat/108/2724], provided that: 
+[Pub. L. 103–337, div. A, title III][/us/pl/103/337/dA/tIII], § 345(b), Oct. 5, 1994, [108 Stat. 2724][/us/stat/108/2724], provided that: 
 
 > “The amendments made by subsection (a) \[enacting this section\] shall apply to persons separated from employment with the Department of Defense on or after the date of the enactment of this Act \[Oct. 5, 1994\].”
 
@@ -44,9 +44,9 @@
 ----------
 ----------
 
-[/us/pl/103/337/s345/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs345%2Fa%2F1
+[/us/pl/103/337/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtIII
 [/us/stat/108/2723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2723
-[/us/pl/103/337/s345/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs345%2Fb
+[/us/pl/103/337/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtIII
 [/us/stat/108/2724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2724
 
 

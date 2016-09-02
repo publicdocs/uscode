@@ -19,7 +19,7 @@
 
     (b) The Secretary may pay an individual undergoing vocational rehabilitation under [section 8104 of this title][/us/usc/t5/s8104] additional compensation necessary for his maintenance, but not to exceed $200 a month.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 539][/us/stat/80/539]; [Pub. L. 90–83, § 1(54)][/us/pl/90/83/s1/54], Sept. 11, 1967, [81 Stat. 210][/us/stat/81/210]; [Pub. L. 93–416, § 7][/us/pl/93/416/s7], Sept. 7, 1974, [88 Stat. 1145][/us/stat/88/1145]; [Pub. L. 101–534, § 2][/us/pl/101/534/s2], Nov. 7, 1990, [104 Stat. 2352][/us/stat/104/2352].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 539][/us/stat/80/539]; [Pub. L. 90–83][/us/pl/90/83], § 1(54), Sept. 11, 1967, [81 Stat. 210][/us/stat/81/210]; [Pub. L. 93–416][/us/pl/93/416], § 7, Sept. 7, 1974, [88 Stat. 1145][/us/stat/88/1145]; [Pub. L. 101–534][/us/pl/101/534], § 2, Nov. 7, 1990, [104 Stat. 2352][/us/stat/104/2352].)
 
 <table>
 
@@ -147,13 +147,13 @@ July 4, 1966, Pub. L. 89–488, § 4(a), 80 Stat. 253.  </td>
 
     1990—Subsec. (a). [Pub. L. 101–534][/us/pl/101/534] substituted “$1,500” for “$500”.
 
-    1974—Subsec. (a). [Pub. L. 93–416, § 7(a)][/us/pl/93/416/s7/a], substituted “$500” for “$300”.
+    1974—Subsec. (a). [Pub. L. 93–416][/us/pl/93/416], § 7(a), substituted “$500” for “$300”.
 
-    Subsec. (b). [Pub. L. 93–416, § 7(b)][/us/pl/93/416/s7/b], substituted “$200” for “$100”.
+    Subsec. (b). [Pub. L. 93–416][/us/pl/93/416], § 7(b), substituted “$200” for “$100”.
 
  __Effective Date of 1990 Amendment__ 
 
-[Pub. L. 101–534, § 3][/us/pl/101/534/s3], Nov. 7, 1990, [104 Stat. 2352][/us/stat/104/2352], provided that: 
+[Pub. L. 101–534][/us/pl/101/534], § 3, Nov. 7, 1990, [104 Stat. 2352][/us/stat/104/2352], provided that: 
 
 > “The amendment made by section 2 \[amending this section\] shall take effect October 1, 1990.”
 
@@ -175,17 +175,17 @@ July 4, 1966, Pub. L. 89–488, § 4(a), 80 Stat. 253.  </td>
 [/us/usc/t5/s8104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8104
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/539]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F539
-[/us/pl/90/83/s1/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83%2Fs1%2F54
+[/us/pl/90/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83
 [/us/stat/81/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F210
-[/us/pl/93/416/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F416%2Fs7
+[/us/pl/93/416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F416
 [/us/stat/88/1145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1145
-[/us/pl/101/534/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F534%2Fs2
+[/us/pl/101/534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F534
 [/us/stat/104/2352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2352
 [/us/stat/64/1271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1271
 [/us/pl/101/534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F534
-[/us/pl/93/416/s7/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F416%2Fs7%2Fa
-[/us/pl/93/416/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F416%2Fs7%2Fb
-[/us/pl/101/534/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F534%2Fs3
+[/us/pl/93/416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F416
+[/us/pl/93/416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F416
+[/us/pl/101/534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F534
 [/us/stat/104/2352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2352
 [/us/pl/93/416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F416
 [/us/pl/93/416/s28/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F416%2Fs28%2Fa

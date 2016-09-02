@@ -31,7 +31,7 @@
 
     (e) Any agency may enter into a contract with any person for services as a neutral, or for training in connection with alternative means of dispute resolution. The parties in a dispute resolution proceeding shall agree on compensation for the neutral that is fair and reasonable to the Government.
 
-(Added [Pub. L. 101–552, § 4(b)][/us/pl/101/552/s4/b], Nov. 15, 1990, [104 Stat. 2739][/us/stat/104/2739], § 583; renumbered § 573, [Pub. L. 102–354, § 3(b)(2)][/us/pl/102/354/s3/b/2], Aug. 26, 1992, [106 Stat. 944][/us/stat/106/944]; amended [Pub. L. 104–320, § 7(b)][/us/pl/104/320/s7/b], Oct. 19, 1996, [110 Stat. 3872][/us/stat/110/3872].)
+(Added [Pub. L. 101–552][/us/pl/101/552], § 4(b), Nov. 15, 1990, [104 Stat. 2739][/us/stat/104/2739], § 583; renumbered § 573, [Pub. L. 102–354][/us/pl/102/354], § 3(b)(2), Aug. 26, 1992, [106 Stat. 944][/us/stat/106/944]; amended [Pub. L. 104–320][/us/pl/104/320], § 7(b), Oct. 19, 1996, [110 Stat. 3872][/us/stat/110/3872].)
 
  __Codification__ 
 
@@ -43,9 +43,9 @@
 
  __Amendments__ 
 
-    1996—Subsec. (c). [Pub. L. 104–320, § 7(b)(1)][/us/pl/104/320/s7/b/1], added subsec. (c) and struck out former subsec. (c) which related to power of Administrative Conference of the United States to establish and utilize standards for neutrals and to enter into contracts for services of neutrals.
+    1996—Subsec. (c). [Pub. L. 104–320][/us/pl/104/320], § 7(b)(1), added subsec. (c) and struck out former subsec. (c) which related to power of Administrative Conference of the United States to establish and utilize standards for neutrals and to enter into contracts for services of neutrals.
 
-    Subsec. (e). [Pub. L. 104–320, § 7(b)(2)][/us/pl/104/320/s7/b/2], struck out “on a roster established under subsection (c)(2) or a roster maintained by other public or private organizations, or individual” after “contract with any person”.
+    Subsec. (e). [Pub. L. 104–320][/us/pl/104/320], § 7(b)(2), struck out “on a roster established under subsection (c)(2) or a roster maintained by other public or private organizations, or individual” after “contract with any person”.
 
     1992—[Pub. L. 102–354][/us/pl/102/354] renumbered [section 583 of this title][/us/usc/t5/s583] as this section.
 
@@ -56,16 +56,16 @@
 ----------
 ----------
 
-[/us/pl/101/552/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F552%2Fs4%2Fb
+[/us/pl/101/552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F552
 [/us/stat/104/2739]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2739
-[/us/pl/102/354/s3/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F354%2Fs3%2Fb%2F2
+[/us/pl/102/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F354
 [/us/stat/106/944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F944
-[/us/pl/104/320/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F320%2Fs7%2Fb
+[/us/pl/104/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F320
 [/us/stat/110/3872]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3872
 [/us/usc/t7/s2258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2258
 [/us/usc/t5/s593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs593
-[/us/pl/104/320/s7/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F320%2Fs7%2Fb%2F1
-[/us/pl/104/320/s7/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F320%2Fs7%2Fb%2F2
+[/us/pl/104/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F320
+[/us/pl/104/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F320
 [/us/pl/102/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F354
 [/us/usc/t5/s583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs583
 

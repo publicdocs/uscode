@@ -17,7 +17,7 @@
 
  __Amendments__ 
 
-    1981—[Pub. L. 97–35, title XVII, § 1703(b)(1)][/us/pl/97/35/s1703/b/1], Aug. 13, 1981, [95 Stat. 756][/us/stat/95/756], added heading for subchapter I.
+    1981—[Pub. L. 97–35, title XVII][/us/pl/97/35/tXVII], § 1703(b)(1), Aug. 13, 1981, [95 Stat. 756][/us/stat/95/756], added heading for subchapter I.
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/97/35/s1703/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs1703%2Fb%2F1
+[/us/pl/97/35/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXVII
 [/us/stat/95/756]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F756
 
 

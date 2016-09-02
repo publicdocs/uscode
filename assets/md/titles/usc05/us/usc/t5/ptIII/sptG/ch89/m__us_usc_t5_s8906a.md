@@ -35,11 +35,11 @@
 
         (2) the employing agency of any such temporary employee shall not pay the Government contribution under the provisions of section 8906.
 
-(Added [Pub. L. 100–654, title III, § 301(a)][/us/pl/100/654/s301/a], Nov. 14, 1988, [102 Stat. 3846][/us/stat/102/3846].)
+(Added [Pub. L. 100–654, title III][/us/pl/100/654/tIII], § 301(a), Nov. 14, 1988, [102 Stat. 3846][/us/stat/102/3846].)
 
  __Effective Date__ 
 
-[Pub. L. 100–654, title III, § 301(d)][/us/pl/100/654/s301/d], Nov. 14, 1988, [102 Stat. 3847][/us/stat/102/3847], provided that: 
+[Pub. L. 100–654, title III][/us/pl/100/654/tIII], § 301(d), Nov. 14, 1988, [102 Stat. 3847][/us/stat/102/3847], provided that: 
 
 > “The amendments made by this section \[enacting this section and amending [section 8913 of this title][/us/usc/t5/s8913]\] shall be effective 120 days after the date of enactment of this section \[Nov. 14, 1988\].”
 
@@ -50,9 +50,9 @@
 ----------
 ----------
 
-[/us/pl/100/654/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F654%2Fs301%2Fa
+[/us/pl/100/654/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F654%2FtIII
 [/us/stat/102/3846]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3846
-[/us/pl/100/654/s301/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F654%2Fs301%2Fd
+[/us/pl/100/654/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F654%2FtIII
 [/us/stat/102/3847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3847
 [/us/usc/t5/s8913]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8913
 

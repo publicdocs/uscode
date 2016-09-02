@@ -41,7 +41,7 @@
 
             (B) A contract under this chapter shall include appropriate provisions under which the qualified company involved shall, during each year, make such periodic contributions to the Vision Benefits Administrative Account as necessary to ensure that the reasonable anticipated expenses of the Office in administering this chapter during such year are defrayed.
 
-(Added [Pub. L. 108–496, § 3][/us/pl/108/496/s3], Dec. 23, 2004, [118 Stat. 4009][/us/stat/118/4009].)
+(Added [Pub. L. 108–496][/us/pl/108/496], § 3, Dec. 23, 2004, [118 Stat. 4009][/us/stat/118/4009].)
 
 ----------
 
@@ -50,7 +50,7 @@
 ----------
 ----------
 
-[/us/pl/108/496/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F496%2Fs3
+[/us/pl/108/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F496
 [/us/stat/118/4009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F4009
 
 

@@ -45,11 +45,11 @@
 
                 (ii) an employee appointed by the President, by and with the advice and consent of the Senate, whose position is located within the United States, who determines policies to be pursued by the United States in relations with foreign powers or in the nationwide administration of Federal laws.
 
-(Added [Pub. L. 103–94, § 2(a)][/us/pl/103/94/s2/a], Oct. 6, 1993, [107 Stat. 1003][/us/stat/107/1003].)
+(Added [Pub. L. 103–94][/us/pl/103/94], § 2(a), Oct. 6, 1993, [107 Stat. 1003][/us/stat/107/1003].)
 
  __Prior Provisions__ 
 
-    A prior section 7324, [Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 525][/us/stat/80/525]; [Pub. L. 93–268, § 4(a)][/us/pl/93/268/s4/a], Apr. 17, 1974, [88 Stat. 87][/us/stat/88/87], prohibited Executive agency employees and employees of the District of Columbia from influencing elections or taking part in political campaigns, prior to the general revision of this subchapter by [Pub. L. 103–94][/us/pl/103/94].
+    A prior section 7324, [Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 525][/us/stat/80/525]; [Pub. L. 93–268][/us/pl/93/268], § 4(a), Apr. 17, 1974, [88 Stat. 87][/us/stat/88/87], prohibited Executive agency employees and employees of the District of Columbia from influencing elections or taking part in political campaigns, prior to the general revision of this subchapter by [Pub. L. 103–94][/us/pl/103/94].
 
 ----------
 
@@ -58,11 +58,11 @@
 ----------
 ----------
 
-[/us/pl/103/94/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F94%2Fs2%2Fa
+[/us/pl/103/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F94
 [/us/stat/107/1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1003
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F525
-[/us/pl/93/268/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F268%2Fs4%2Fa
+[/us/pl/93/268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F268
 [/us/stat/88/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F87
 [/us/pl/103/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F94
 

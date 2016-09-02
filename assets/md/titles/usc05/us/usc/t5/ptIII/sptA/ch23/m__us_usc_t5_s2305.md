@@ -17,7 +17,7 @@
 
     If requested by either House of the Congress (or any committee thereof), or if considered necessary by the Comptroller General, the Government Accountability Office shall conduct audits and reviews to assure compliance with the laws, rules, and regulations governing employment in the executive branch and in the competitive service and to assess the effectiveness and soundness of Federal personnel management.
 
-(Added [Pub. L. 95–454, title I, § 101(a)][/us/pl/95/454/s101/a], Oct. 13, 1978, [92 Stat. 1118][/us/stat/92/1118], § 2304; amended [Pub. L. 102–378, § 2(6)][/us/pl/102/378/s2/6], Oct. 2, 1992, [106 Stat. 1346][/us/stat/106/1346]; [Pub. L. 104–66, title II, § 2181(e)][/us/pl/104/66/s2181/e], Dec. 21, 1995, [109 Stat. 732][/us/stat/109/732]; [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814]; renumbered § 2305, [Pub. L. 112–199, title I, § 109(a)(1)][/us/pl/112/199/s109/a/1], Nov. 27, 2012, [126 Stat. 1470][/us/stat/126/1470].)
+(Added [Pub. L. 95–454, title I][/us/pl/95/454/tI], § 101(a), Oct. 13, 1978, [92 Stat. 1118][/us/stat/92/1118], § 2304; amended [Pub. L. 102–378][/us/pl/102/378], § 2(6), Oct. 2, 1992, [106 Stat. 1346][/us/stat/106/1346]; [Pub. L. 104–66, title II][/us/pl/104/66/tII], § 2181(e), Dec. 21, 1995, [109 Stat. 732][/us/stat/109/732]; [Pub. L. 108–271][/us/pl/108/271], § 8(b), July 7, 2004, [118 Stat. 814][/us/stat/118/814]; renumbered § 2305, [Pub. L. 112–199, title I][/us/pl/112/199/tI], § 109(a)(1), Nov. 27, 2012, [126 Stat. 1470][/us/stat/126/1470].)
 
  __Prior Provisions__ 
 
@@ -44,15 +44,15 @@
 ----------
 ----------
 
-[/us/pl/95/454/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs101%2Fa
+[/us/pl/95/454/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtI
 [/us/stat/92/1118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1118
-[/us/pl/102/378/s2/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378%2Fs2%2F6
+[/us/pl/102/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378
 [/us/stat/106/1346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1346
-[/us/pl/104/66/s2181/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs2181%2Fe
+[/us/pl/104/66/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2FtII
 [/us/stat/109/732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F732
-[/us/pl/108/271/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271%2Fs8%2Fb
+[/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/stat/118/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F814
-[/us/pl/112/199/s109/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F199%2Fs109%2Fa%2F1
+[/us/pl/112/199/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F199%2FtI
 [/us/stat/126/1470]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1470
 [/us/usc/t5/s2306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs2306
 [/us/pl/112/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F199

@@ -37,7 +37,7 @@
 
         shall not be treated as appealable under such appeals procedures or grievable under such grievance procedure.
 
-(Added [Pub. L. 95–454, title VIII, § 801(a)(1)][/us/pl/95/454/s801/a/1], Oct. 13, 1978, [92 Stat. 1221][/us/stat/92/1221].)
+(Added [Pub. L. 95–454, title VIII][/us/pl/95/454/tVIII], § 801(a)(1), Oct. 13, 1978, [92 Stat. 1221][/us/stat/92/1221].)
 
 ----------
 
@@ -46,7 +46,7 @@
 ----------
 ----------
 
-[/us/pl/95/454/s801/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs801%2Fa%2F1
+[/us/pl/95/454/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtVIII
 [/us/stat/92/1221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1221
 
 

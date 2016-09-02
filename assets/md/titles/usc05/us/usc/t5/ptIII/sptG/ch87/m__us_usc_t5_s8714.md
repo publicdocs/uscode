@@ -31,7 +31,7 @@
 
         (2) Paragraph (1) of this subsection shall not be construed to exempt any company issuing a policy of insurance under this chapter from the imposition, payment, or collection of a tax, fee, or other monetary payment on the net income or profit accruing to or realized by that company from business conducted under this chapter, if that tax, fee, or payment is applicable to a broad range of business activity.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 598][/us/stat/80/598]; [Pub. L. 95–454, title IX, § 906(a)(2)][/us/pl/95/454/s906/a/2], Oct. 13, 1978, [92 Stat. 1224][/us/stat/92/1224]; [Pub. L. 96–499, title IV, § 405(a)][/us/pl/96/499/s405/a], Dec. 5, 1980, [94 Stat. 2606][/us/stat/94/2606].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 598][/us/stat/80/598]; [Pub. L. 95–454, title IX][/us/pl/95/454/tIX], § 906(a)(2), Oct. 13, 1978, [92 Stat. 1224][/us/stat/92/1224]; [Pub. L. 96–499, title IV][/us/pl/96/499/tIV], § 405(a), Dec. 5, 1980, [94 Stat. 2606][/us/stat/94/2606].)
 
 <table>
 
@@ -109,7 +109,7 @@ Apr. 11, 1958, Pub. L. 85–377, § 1 (less applicability to § 10), 72 Stat
 
  __Effective Date of 1980 Amendment__ 
 
-[Pub. L. 96–499, title IV, § 405(b)][/us/pl/96/499/s405/b], Dec. 5, 1980, [94 Stat. 2607][/us/stat/94/2607], provided that: 
+[Pub. L. 96–499, title IV][/us/pl/96/499/tIV], § 405(b), Dec. 5, 1980, [94 Stat. 2607][/us/stat/94/2607], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[Dec. 5, 1980\], and shall apply with respect to premiums paid on or after such date.”
 
@@ -119,7 +119,7 @@ Apr. 11, 1958, Pub. L. 85–377, § 1 (less applicability to § 10), 72 Stat
 
  __Funding__ 
 
-[Pub. L. 103–409, § 4][/us/pl/103/409/s4], Oct. 25, 1994, [108 Stat. 4232][/us/stat/108/4232], provided that: 
+[Pub. L. 103–409][/us/pl/103/409], § 4, Oct. 25, 1994, [108 Stat. 4232][/us/stat/108/4232], provided that: 
 
 > “Notwithstanding [section 8714(a)(1) of title 5][/us/usc/t5/s8714/a/1], United States Code, the Office of Personnel Management shall retain in the Employees’ Life Insurance Fund such portion of premium payments otherwise due as will, no later than September 30, 1995, permanently reduce the contingency reserve established under the third sentence of section 8712 of such title 5 by an amount equal to the amount by which payments from the Employees’ Life Insurance Fund during the fiscal year ending September 30, 1995, exceed the payments that would have been paid had the amendments made by this Act \[enacting [section 8714d of this title][/us/usc/t5/s8714d]\] not been enacted.”
 
@@ -134,18 +134,18 @@ Apr. 11, 1958, Pub. L. 85–377, § 1 (less applicability to § 10), 72 Stat
 [/us/usc/t5/s8708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8708
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F598
-[/us/pl/95/454/s906/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs906%2Fa%2F2
+[/us/pl/95/454/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtIX
 [/us/stat/92/1224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1224
-[/us/pl/96/499/s405/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F499%2Fs405%2Fa
+[/us/pl/96/499/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F499%2FtIV
 [/us/stat/94/2606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2606
 [/us/pl/96/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F499
 [/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454
-[/us/pl/96/499/s405/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F499%2Fs405%2Fb
+[/us/pl/96/499/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F499%2FtIV
 [/us/stat/94/2607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2607
 [/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454
 [/us/pl/95/454/s907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs907
 [/us/usc/t5/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs1101
-[/us/pl/103/409/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F409%2Fs4
+[/us/pl/103/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F409
 [/us/stat/108/4232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4232
 [/us/usc/t5/s8714/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8714%2Fa%2F1
 [/us/usc/t5/s8714d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8714d

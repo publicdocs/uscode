@@ -17,7 +17,7 @@
 
     Before any regulation is prescribed under this chapter, a copy of the proposed regulation shall be published in the Federal Register and an opportunity provided to interested parties to present written comment and, where practicable, oral comment. Initial regulations shall be prescribed not later than 180 days after the date of the enactment of this chapter.
 
-(Added [Pub. L. 95–437, § 3(a)][/us/pl/95/437/s3/a], Oct. 10, 1978, [92 Stat. 1057][/us/stat/92/1057], § 3396; renumbered § 3406 and amended [Pub. L. 95–454, title IX, § 906(c)(1)(B)][/us/pl/95/454/s906/c/1/B], (2)(C), Oct. 13, 1978, [92 Stat. 1226][/us/stat/92/1226], 1227.)
+(Added [Pub. L. 95–437][/us/pl/95/437], § 3(a), Oct. 10, 1978, [92 Stat. 1057][/us/stat/92/1057], § 3396; renumbered § 3406 and amended [Pub. L. 95–454, title IX][/us/pl/95/454/tIX], § 906(c)(1)(B), (2)(C), Oct. 13, 1978, [92 Stat. 1226][/us/stat/92/1226], 1227.)
 
  __References in Text__ 
 
@@ -25,9 +25,9 @@
 
  __Amendments__ 
 
-    1978—[Pub. L. 95–453, § 901(c)(1)(B)][/us/pl/95/453/s901/c/1/B], renumbered [section 3396 of this title][/us/usc/t5/s3396] as this section.
+    1978—[Pub. L. 95–453][/us/pl/95/453], § 901(c)(1)(B), renumbered [section 3396 of this title][/us/usc/t5/s3396] as this section.
 
-    [Pub. L. 95–454, § 906(c)(2)(C)][/us/pl/95/454/s906/c/2/C], substituted “chapter” for “subchapter” wherever appearing.
+    [Pub. L. 95–454][/us/pl/95/454], § 906(c)(2)(C), substituted “chapter” for “subchapter” wherever appearing.
 
  __Effective Date of 1978 Amendment__ 
 
@@ -40,14 +40,14 @@
 ----------
 ----------
 
-[/us/pl/95/437/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F437%2Fs3%2Fa
+[/us/pl/95/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F437
 [/us/stat/92/1057]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1057
-[/us/pl/95/454/s906/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs906%2Fc%2F1%2FB
+[/us/pl/95/454/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtIX
 [/us/stat/92/1226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1226
 [/us/pl/95/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F437
-[/us/pl/95/453/s901/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F453%2Fs901%2Fc%2F1%2FB
+[/us/pl/95/453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F453
 [/us/usc/t5/s3396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3396
-[/us/pl/95/454/s906/c/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs906%2Fc%2F2%2FC
+[/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454
 [/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454
 [/us/pl/95/454/s907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs907
 [/us/usc/t5/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs1101

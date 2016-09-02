@@ -17,7 +17,7 @@
 
     It is the policy of the Congress that employees should be encouraged to exercise fully, freely, and without fear of penalty or reprisal, and to the extent not expressly prohibited by law, their right to participate or to refrain from participating in the political processes of the Nation.
 
-(Added [Pub. L. 103–94, § 2(a)][/us/pl/103/94/s2/a], Oct. 6, 1993, [107 Stat. 1001][/us/stat/107/1001].)
+(Added [Pub. L. 103–94][/us/pl/103/94], § 2(a), Oct. 6, 1993, [107 Stat. 1001][/us/stat/107/1001].)
 
  __Prior Provisions__ 
 
@@ -25,7 +25,7 @@
 
  __Effective Date; Savings Provision__ 
 
-[Pub. L. 103–94, § 12][/us/pl/103/94/s12], Oct. 6, 1993, [107 Stat. 1011][/us/stat/107/1011], provided that:
+[Pub. L. 103–94][/us/pl/103/94], § 12, Oct. 6, 1993, [107 Stat. 1011][/us/stat/107/1011], provided that:
 
 >     “(a) The amendments made by this Act \[enacting sections 5520a and 7321 to 7326 of this title and [section 610 of Title 18][/us/usc/t18/s610], Crimes and Criminal Procedure, amending sections 1216, 2302, 3302 and 3303 of this title, sections 602 and 603 of Title 18, [section 410 of Title 39][/us/usc/t39/s410], Postal Service, and sections 1973d and 9904 of Title 42, The Public Health and Welfare, and omitting former sections 7321 to 7328 of this title\] shall take effect 120 days after the date of the enactment of this Act \[Oct. 6, 1993\], except that the authority to prescribe regulations granted under [section 7325 of title 5][/us/usc/t5/s7325], United States Code (as added by section 2 of this Act), shall take effect on the date of the enactment of this Act.
 
@@ -72,12 +72,12 @@
 ----------
 ----------
 
-[/us/pl/103/94/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F94%2Fs2%2Fa
+[/us/pl/103/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F94
 [/us/stat/107/1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1001
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F525
 [/us/pl/103/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F94
-[/us/pl/103/94/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F94%2Fs12
+[/us/pl/103/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F94
 [/us/stat/107/1011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1011
 [/us/usc/t18/s610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs610
 [/us/usc/t39/s410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs410

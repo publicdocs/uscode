@@ -59,7 +59,7 @@
 
     (c) This section does not apply to a justice or judge, except to the extent provided by [section 456 of title 28][/us/usc/t28/s456].
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 498][/us/stat/80/498]; [Pub. L. 91–114, § 1][/us/pl/91/114/s1], Nov. 10, 1969, [83 Stat. 190][/us/stat/83/190]; [Pub. L. 94–22, § 3][/us/pl/94/22/s3], May 19, 1975, [89 Stat. 84][/us/stat/89/84]; [Pub. L. 96–54, § 2(a)(36)][/us/pl/96/54/s2/a/36], Aug. 14, 1979, [93 Stat. 383][/us/stat/93/383]; [Pub. L. 96–346, § 1][/us/pl/96/346/s1], Sept. 10, 1980, [94 Stat. 1148][/us/stat/94/1148]; [Pub. L. 99–234, title I, § 102][/us/pl/99/234/s102], Jan. 2, 1986, [99 Stat. 1756][/us/stat/99/1756]; [Pub. L. 102–378, § 2(47)][/us/pl/102/378/s2/47], Oct. 2, 1992, [106 Stat. 1353][/us/stat/106/1353].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 498][/us/stat/80/498]; [Pub. L. 91–114][/us/pl/91/114], § 1, Nov. 10, 1969, [83 Stat. 190][/us/stat/83/190]; [Pub. L. 94–22][/us/pl/94/22], § 3, May 19, 1975, [89 Stat. 84][/us/stat/89/84]; [Pub. L. 96–54][/us/pl/96/54], § 2(a)(36), Aug. 14, 1979, [93 Stat. 383][/us/stat/93/383]; [Pub. L. 96–346][/us/pl/96/346], § 1, Sept. 10, 1980, [94 Stat. 1148][/us/stat/94/1148]; [Pub. L. 99–234, title I][/us/pl/99/234/tI], § 102, Jan. 2, 1986, [99 Stat. 1756][/us/stat/99/1756]; [Pub. L. 102–378][/us/pl/102/378], § 2(47), Oct. 2, 1992, [106 Stat. 1353][/us/stat/106/1353].)
 
 <table>
 
@@ -167,21 +167,21 @@ Aug. 14, 1961, Pub. L. 87–139, §§ 1, 8(a), 75 Stat. 339, 340.  </td>
 
     1992—[Pub. L. 102–378][/us/pl/102/378] substituted “employees” for “employee” in section catchline.
 
-    1986—Subsec. (a). [Pub. L. 99–234, § 102(a)][/us/pl/99/234/s102/a], amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Under regulations prescribed under [section 5707 of this title][/us/usc/t5/s5707], an employee while traveling on official business away from his designated post of duty, or in the case of an individual described under [section 5703 of this title][/us/usc/t5/s5703], his home or regular place of business, is entitled to (1) a per diem allowance for travel inside the continental United States at a rate not to exceed $50, and (2) a per diem allowance for travel outside the continental United States, that may not exceed the rate established by the President, or his designee, for each locality where travel is to be performed. For travel consuming less than a full day, such rate may be allocated proportionately.”
+    1986—Subsec. (a). [Pub. L. 99–234][/us/pl/99/234], § 102(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Under regulations prescribed under [section 5707 of this title][/us/usc/t5/s5707], an employee while traveling on official business away from his designated post of duty, or in the case of an individual described under [section 5703 of this title][/us/usc/t5/s5703], his home or regular place of business, is entitled to (1) a per diem allowance for travel inside the continental United States at a rate not to exceed $50, and (2) a per diem allowance for travel outside the continental United States, that may not exceed the rate established by the President, or his designee, for each locality where travel is to be performed. For travel consuming less than a full day, such rate may be allocated proportionately.”
 
-    Subsec. (b). [Pub. L. 99–234, § 102(a)][/us/pl/99/234/s102/a], amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Under regulations prescribed under [section 5707 of this title][/us/usc/t5/s5707], an employee who, while traveling on official business away from his designated post of duty or, in the case of an individual described under [section 5703 of this title][/us/usc/t5/s5703], his home or regular place of business, becomes incapacitated by illness or injury not due to his own misconduct, is entitled to the per diem allowance and appropriate transportation expenses to his designated post of duty, or home or regular place of business, as the case may be.”
+    Subsec. (b). [Pub. L. 99–234][/us/pl/99/234], § 102(a), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Under regulations prescribed under [section 5707 of this title][/us/usc/t5/s5707], an employee who, while traveling on official business away from his designated post of duty or, in the case of an individual described under [section 5703 of this title][/us/usc/t5/s5703], his home or regular place of business, becomes incapacitated by illness or injury not due to his own misconduct, is entitled to the per diem allowance and appropriate transportation expenses to his designated post of duty, or home or regular place of business, as the case may be.”
 
-    Subsec. (c). [Pub. L. 99–234, § 102][/us/pl/99/234/s102], redesignated subsec. (e) as (c) and struck out former subsec. (c) which read as follows: “Under regulations prescribed under [section 5707 of this title][/us/usc/t5/s5707], the Administrator of General Services, or his designee, may prescribe conditions under which an employee may be reimbursed for the actual and necessary expenses of official travel when the maximum per diem allowance would be less than these expenses, except that such reimbursement shall not exceed $75 for each day in a travel status within the continental United States when the per diem otherwise allowable is determined to be inadequate (1) due to the unusual circumstances of the travel assignment, or (2) for travel to high rate geographical areas designated as such in regulations prescribed under [section 5707 of this title][/us/usc/t5/s5707].”
+    Subsec. (c). [Pub. L. 99–234][/us/pl/99/234], § 102, redesignated subsec. (e) as (c) and struck out former subsec. (c) which read as follows: “Under regulations prescribed under [section 5707 of this title][/us/usc/t5/s5707], the Administrator of General Services, or his designee, may prescribe conditions under which an employee may be reimbursed for the actual and necessary expenses of official travel when the maximum per diem allowance would be less than these expenses, except that such reimbursement shall not exceed $75 for each day in a travel status within the continental United States when the per diem otherwise allowable is determined to be inadequate (1) due to the unusual circumstances of the travel assignment, or (2) for travel to high rate geographical areas designated as such in regulations prescribed under [section 5707 of this title][/us/usc/t5/s5707].”
 
-    Subsec. (d). [Pub. L. 99–234, § 102(a)][/us/pl/99/234/s102/a], struck out subsec. (d) which read as follows: “Under regulations prescribed under [section 5707 of this title][/us/usc/t5/s5707], for travel outside the continental United States, the Administrator of General Services or his designee, may prescribe conditions under which an employee may be reimbursed for the actual and necessary expenses of official travel when the per diem allowance would be less than these expenses, except that such reimbursement shall not exceed $33 for each day in a travel status outside the continental United States plus the locality per diem rate prescribed for such travel.”
+    Subsec. (d). [Pub. L. 99–234][/us/pl/99/234], § 102(a), struck out subsec. (d) which read as follows: “Under regulations prescribed under [section 5707 of this title][/us/usc/t5/s5707], for travel outside the continental United States, the Administrator of General Services or his designee, may prescribe conditions under which an employee may be reimbursed for the actual and necessary expenses of official travel when the per diem allowance would be less than these expenses, except that such reimbursement shall not exceed $33 for each day in a travel status outside the continental United States plus the locality per diem rate prescribed for such travel.”
 
-    Subsec. (e). [Pub. L. 99–234, § 102(b)][/us/pl/99/234/s102/b], redesignated subsec. (e) as (c).
+    Subsec. (e). [Pub. L. 99–234][/us/pl/99/234], § 102(b), redesignated subsec. (e) as (c).
 
-    1980—Subsec. (a). [Pub. L. 96–346, § 1(1)][/us/pl/96/346/s1/1], increased to $50 from $35 the maximum per diem allowance for travel inside the continental United States.
+    1980—Subsec. (a). [Pub. L. 96–346][/us/pl/96/346], § 1(1), increased to $50 from $35 the maximum per diem allowance for travel inside the continental United States.
 
-    Subsec. (c). [Pub. L. 96–346, § 1(2)][/us/pl/96/346/s1/2], increased to $75 from $50 the maximum reimbursement for actual and necessary expenses for travel within the continental United States.
+    Subsec. (c). [Pub. L. 96–346][/us/pl/96/346], § 1(2), increased to $75 from $50 the maximum reimbursement for actual and necessary expenses for travel within the continental United States.
 
-    Subsec. (d). [Pub. L. 96–346, § 1(3)][/us/pl/96/346/s1/3], increased to $33 from $21 the maximum reimbursement for travel outside the continental United States.
+    Subsec. (d). [Pub. L. 96–346][/us/pl/96/346], § 1(3), increased to $33 from $21 the maximum reimbursement for travel outside the continental United States.
 
     1979—Subsec. (c). [Pub. L. 96–54][/us/pl/96/54] substituted “(1)” for “(A)” and “(2)” for “(B)”.
 
@@ -213,7 +213,7 @@ Aug. 14, 1961, Pub. L. 87–139, §§ 1, 8(a), 75 Stat. 339, 340.  </td>
 
  __Retention of Travel Promotional Items__ 
 
-[Pub. L. 107–107, div. A, title XI, § 1116][/us/pl/107/107/s1116], Dec. 28, 2001, [115 Stat. 1241][/us/stat/115/1241], provided that:
+[Pub. L. 107–107, div. A, title XI][/us/pl/107/107/dA/tXI], § 1116, Dec. 28, 2001, [115 Stat. 1241][/us/stat/115/1241], provided that:
 
 >     “(a)  __Definition__  __.—__ 
 
@@ -251,7 +251,7 @@ Aug. 14, 1961, Pub. L. 87–139, §§ 1, 8(a), 75 Stat. 339, 340.  </td>
 
  __Cost Savings for Official Travel__ 
 
-    [Pub. L. 103–355, title VI, § 6008][/us/pl/103/355/s6008], Oct. 13, 1994, [108 Stat. 3367][/us/stat/108/3367], related to maximizing practicable cost savings for official travel through use of frequent traveler programs, prior to repeal by [Pub. L. 107–107, div. A, title XI, § 1116(e)][/us/pl/107/107/s1116/e], Dec. 28, 2001, [115 Stat. 1241][/us/stat/115/1241].
+    [Pub. L. 103–355, title VI][/us/pl/103/355/tVI], § 6008, Oct. 13, 1994, [108 Stat. 3367][/us/stat/108/3367], related to maximizing practicable cost savings for official travel through use of frequent traveler programs, prior to repeal by [Pub. L. 107–107, div. A, title XI][/us/pl/107/107/dA/tXI], § 1116(e), Dec. 28, 2001, [115 Stat. 1241][/us/stat/115/1241].
 
  __Reports to Congress of Per Diem and Mileage Allowance Payments for Fiscal Years 1979__  __Through __  __1981;__  __Rules and Regulations__ 
 
@@ -288,37 +288,37 @@ By the authority vested in me as President by the Constitution and laws of the U
 [/us/usc/t28/s456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs456
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F498
-[/us/pl/91/114/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F114%2Fs1
+[/us/pl/91/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F114
 [/us/stat/83/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F190
-[/us/pl/94/22/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F22%2Fs3
+[/us/pl/94/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F22
 [/us/stat/89/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F84
-[/us/pl/96/54/s2/a/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F54%2Fs2%2Fa%2F36
+[/us/pl/96/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F54
 [/us/stat/93/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F383
-[/us/pl/96/346/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F346%2Fs1
+[/us/pl/96/346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F346
 [/us/stat/94/1148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1148
-[/us/pl/99/234/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F234%2Fs102
+[/us/pl/99/234/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F234%2FtI
 [/us/stat/99/1756]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1756
-[/us/pl/102/378/s2/47]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378%2Fs2%2F47
+[/us/pl/102/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378
 [/us/stat/106/1353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1353
 [/us/usc/t5/s5707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5707
 [/us/usc/t5/s5707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5707
 [/us/usc/t5/s840]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs840
 [/us/pl/102/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378
-[/us/pl/99/234/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F234%2Fs102%2Fa
+[/us/pl/99/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F234
 [/us/usc/t5/s5707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5707
 [/us/usc/t5/s5703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5703
-[/us/pl/99/234/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F234%2Fs102%2Fa
+[/us/pl/99/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F234
 [/us/usc/t5/s5707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5707
 [/us/usc/t5/s5703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5703
-[/us/pl/99/234/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F234%2Fs102
+[/us/pl/99/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F234
 [/us/usc/t5/s5707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5707
 [/us/usc/t5/s5707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5707
-[/us/pl/99/234/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F234%2Fs102%2Fa
+[/us/pl/99/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F234
 [/us/usc/t5/s5707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5707
-[/us/pl/99/234/s102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F234%2Fs102%2Fb
-[/us/pl/96/346/s1/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F346%2Fs1%2F1
-[/us/pl/96/346/s1/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F346%2Fs1%2F2
-[/us/pl/96/346/s1/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F346%2Fs1%2F3
+[/us/pl/99/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F234
+[/us/pl/96/346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F346
+[/us/pl/96/346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F346
+[/us/pl/96/346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F346
 [/us/pl/96/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F54
 [/us/pl/94/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F22
 [/us/pl/94/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F22
@@ -334,16 +334,16 @@ By the authority vested in me as President by the Constitution and laws of the U
 [/us/usc/t5/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs305
 [/us/usc/t3/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs301
 [/us/usc/t3/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs301
-[/us/pl/107/107/s1116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs1116
+[/us/pl/107/107/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtXI
 [/us/stat/115/1241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1241
 [/us/usc/t5/s5701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5701
 [/us/usc/t31/s1353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1353
 [/us/usc/t31/s1353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1353
 [/us/usc/t31/s1353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1353
 [/us/pl/103/355/s6008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs6008
-[/us/pl/103/355/s6008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs6008
+[/us/pl/103/355/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2FtVI
 [/us/stat/108/3367]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3367
-[/us/pl/107/107/s1116/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs1116%2Fe
+[/us/pl/107/107/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtXI
 [/us/stat/115/1241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1241
 [/us/pl/96/346/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F346%2Fs3
 [/us/pl/99/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F234

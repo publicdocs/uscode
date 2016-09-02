@@ -345,9 +345,9 @@ Amendments  </td>
 
 </table>
 
-    2012—[Pub. L. 112–141, div. F, title I, § 100121(a)(3)][/us/pl/112/141/s100121/a/3], July 6, 2012, [126 Stat. 910][/us/stat/126/910], added item 8336a.
+    2012—[Pub. L. 112–141, div. F, title I][/us/pl/112/141/dF/tI], § 100121(a)(3), July 6, 2012, [126 Stat. 910][/us/stat/126/910], added item 8336a.
 
-    1986—[Pub. L. 99–335, title II][/us/pl/99/335], §§ 201(b)(2), 204(b)(1), 205(b), 206(a)(2), June 6, 1986, [100 Stat. 591–594][/us/stat/100/591-594], added items 8343a, 8349, 8350, and 8351.
+    1986—[Pub. L. 99–335, title II][/us/pl/99/335/tII], §§ 201(b)(2), 204(b)(1), 205(b), 206(a)(2), June 6, 1986, [100 Stat. 591–594][/us/stat/100/591-594], added items 8343a, 8349, 8350, and 8351.
 
 ----------
 
@@ -356,9 +356,9 @@ Amendments  </td>
 ----------
 ----------
 
-[/us/pl/112/141/s100121/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs100121%2Fa%2F3
+[/us/pl/112/141/dF/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdF%2FtI
 [/us/stat/126/910]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F910
-[/us/pl/99/335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335
+[/us/pl/99/335/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2FtII
 [/us/stat/100/591-594]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F591-594
 
 

@@ -17,7 +17,7 @@
 
     The Office of Personnel Management may, from time to time, by regulation adjust the maximum amount for the cost of uniforms and the maximum allowance for uniforms under section 5901.
 
-(Added [Pub. L. 90–83, § 1(40)(A)][/us/pl/90/83/s1/40/A], Sept. 11, 1967, [81 Stat. 206][/us/stat/81/206]; amended [Pub. L. 101–509, title V, § 529][/us/pl/101/509/s529] \[title II, § 202(b)\], Nov. 5, 1990, [104 Stat. 1427][/us/stat/104/1427], 1456.)
+(Added [Pub. L. 90–83][/us/pl/90/83], § 1(40)(A), Sept. 11, 1967, [81 Stat. 206][/us/stat/81/206]; amended [Pub. L. 101–509, title V][/us/pl/101/509/tV], § 529 \[title II, § 202(b)\], Nov. 5, 1990, [104 Stat. 1427][/us/stat/104/1427], 1456.)
 
 <table>
 
@@ -90,9 +90,9 @@ July 18, 1966, Pub. L. 89–504, § 407(b), 80 Stat. 299.  </td>
 ----------
 ----------
 
-[/us/pl/90/83/s1/40/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83%2Fs1%2F40%2FA
+[/us/pl/90/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83
 [/us/stat/81/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F206
-[/us/pl/101/509/s529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2Fs529
+[/us/pl/101/509/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2FtV
 [/us/stat/104/1427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1427
 [/us/usc/t5/s5901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5901
 [/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509

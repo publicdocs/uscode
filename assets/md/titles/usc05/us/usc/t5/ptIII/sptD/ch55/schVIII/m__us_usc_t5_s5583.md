@@ -25,7 +25,7 @@
 
         (2) accounts of employees of Government corporations or mixed ownership Government corporations may be paid by the corporations.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 496][/us/stat/80/496]; [Pub. L. 96–70, title III, § 3302(e)(7)][/us/pl/96/70/s3302/e/7], Sept. 27, 1979, [93 Stat. 498][/us/stat/93/498]; [Pub. L. 104–316, title II, § 202(b)][/us/pl/104/316/s202/b], Oct. 19, 1996, [110 Stat. 3842][/us/stat/110/3842].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 496][/us/stat/80/496]; [Pub. L. 96–70, title III][/us/pl/96/70/tIII], § 3302(e)(7), Sept. 27, 1979, [93 Stat. 498][/us/stat/93/498]; [Pub. L. 104–316, title II][/us/pl/104/316/tII], § 202(b), Oct. 19, 1996, [110 Stat. 3842][/us/stat/110/3842].)
 
 <table>
 
@@ -81,9 +81,9 @@ Apr. 30, 1954, ch. 177, § 1, 68 Stat. 64.  </td>
 
  __Amendments__ 
 
-    1996—Subsec. (a). [Pub. L. 104–316, § 202(b)(1)][/us/pl/104/316/s202/b/1], substituted “Director of the Office of Personnel Management” for “Comptroller General of the United States”.
+    1996—Subsec. (a). [Pub. L. 104–316][/us/pl/104/316], § 202(b)(1), substituted “Director of the Office of Personnel Management” for “Comptroller General of the United States”.
 
-    Subsec. (b). [Pub. L. 104–316, § 202(b)(2)][/us/pl/104/316/s202/b/2], substituted “The Director may by regulation prescribe the method for settlement of accounts payable under subsection (a) of this section.” for “Except as the Comptroller General may by regulation otherwise authorize or direct, accounts not payable under subsection (a) of this section are payable on settlement of the General Accounting Office.”
+    Subsec. (b). [Pub. L. 104–316][/us/pl/104/316], § 202(b)(2), substituted “The Director may by regulation prescribe the method for settlement of accounts payable under subsection (a) of this section.” for “Except as the Comptroller General may by regulation otherwise authorize or direct, accounts not payable under subsection (a) of this section are payable on settlement of the General Accounting Office.”
 
     1979—Subsec. (b). [Pub. L. 96–70][/us/pl/96/70] struck out par. (2) providing that accounts of the employees of the Canal Zone Government be paid by the Canal Zone Government, and redesignated par. (3) as (2).
 
@@ -101,12 +101,12 @@ Apr. 30, 1954, ch. 177, § 1, 68 Stat. 64.  </td>
 [/us/usc/t5/s5582/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5582%2Fb
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F496
-[/us/pl/96/70/s3302/e/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2Fs3302%2Fe%2F7
+[/us/pl/96/70/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2FtIII
 [/us/stat/93/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F498
-[/us/pl/104/316/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2Fs202%2Fb
+[/us/pl/104/316/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2FtII
 [/us/stat/110/3842]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3842
-[/us/pl/104/316/s202/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2Fs202%2Fb%2F1
-[/us/pl/104/316/s202/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2Fs202%2Fb%2F2
+[/us/pl/104/316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316
+[/us/pl/104/316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316
 [/us/pl/96/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70
 [/us/pl/96/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70
 [/us/pl/96/70/s3304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2Fs3304

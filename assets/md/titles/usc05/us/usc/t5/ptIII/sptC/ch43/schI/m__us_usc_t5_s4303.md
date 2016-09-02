@@ -83,7 +83,7 @@
 
         (3) the reduction in grade or removal of an employee in the excepted service who has not completed 1 year of current continuous employment in the same or similar positions.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 440][/us/stat/80/440]; [Pub. L. 95–454, title II, § 203(a)][/us/pl/95/454/s203/a], Oct. 13, 1978, [92 Stat. 1133][/us/stat/92/1133]; [Pub. L. 101–376, § 2(b)][/us/pl/101/376/s2/b], Aug. 17, 1990, [104 Stat. 462][/us/stat/104/462].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 440][/us/stat/80/440]; [Pub. L. 95–454, title II][/us/pl/95/454/tII], § 203(a), Oct. 13, 1978, [92 Stat. 1133][/us/stat/92/1133]; [Pub. L. 101–376][/us/pl/101/376], § 2(b), Aug. 17, 1990, [104 Stat. 462][/us/stat/104/462].)
 
 <table>
 
@@ -143,11 +143,11 @@ Sept. 30, 1950, ch. 1123, § 5, 64 Stat. 1098.  </td>
 
  __Effective Date of 1990 Amendment__ 
 
-[Pub. L. 101–376, § 2(c)][/us/pl/101/376/s2/c], Aug. 17, 1990, [104 Stat. 462][/us/stat/104/462], provided that: 
+[Pub. L. 101–376][/us/pl/101/376], § 2(c), Aug. 17, 1990, [104 Stat. 462][/us/stat/104/462], provided that: 
 
 > “The amendments made by this section \[amending this section and [section 7511 of this title][/us/usc/t5/s7511]\] shall apply with respect to any personnel action taking effect on or after the effective date of this Act \[see below\].”
 
-[Pub. L. 101–376, § 4][/us/pl/101/376/s4], Aug. 17, 1990, [104 Stat. 463][/us/stat/104/463], provided that: 
+[Pub. L. 101–376][/us/pl/101/376], § 4, Aug. 17, 1990, [104 Stat. 463][/us/stat/104/463], provided that: 
 
 > “This Act and the amendments made by this Act \[amending this section, sections 7511 and 7701 of this title, and enacting provisions set out as notes under this section and [section 7501 of this title][/us/usc/t5/s7501]\] shall become effective on the date of the enactment of this Act \[Aug. 17, 1990\], and, except as provided in section 2(c) \[set out above\], shall apply with respect to any appeal or other proceeding brought on or after such date.”
 
@@ -165,17 +165,17 @@ Sept. 30, 1950, ch. 1123, § 5, 64 Stat. 1098.  </td>
 [/us/usc/t5/s3321/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3321%2Fa%2F2
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F440
-[/us/pl/95/454/s203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs203%2Fa
+[/us/pl/95/454/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtII
 [/us/stat/92/1133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1133
-[/us/pl/101/376/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F376%2Fs2%2Fb
+[/us/pl/101/376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F376
 [/us/stat/104/462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F462
 [/us/pl/101/376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F376
 [/us/usc/t5/s7701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs7701
 [/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454
-[/us/pl/101/376/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F376%2Fs2%2Fc
+[/us/pl/101/376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F376
 [/us/stat/104/462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F462
 [/us/usc/t5/s7511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs7511
-[/us/pl/101/376/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F376%2Fs4
+[/us/pl/101/376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F376
 [/us/stat/104/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F463
 [/us/usc/t5/s7501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs7501
 [/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454

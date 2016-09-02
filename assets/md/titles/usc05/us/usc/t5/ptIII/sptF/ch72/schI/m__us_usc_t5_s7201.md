@@ -59,7 +59,7 @@
 
     (e) Not later than January 31 of each year, the Office shall prepare and transmit to each House of the Congress a report on the activities of the Office and of Executive agencies under subsection (c) of this section, including the affirmative action plans submitted under section 717 of the Civil Rights Act of 1964 ([42 U.S.C. 2000e–16][/us/usc/t42/s2000e–16]), the personnel data file maintained by the Office of Personnel Management, and any other data necessary to evaluate the effectiveness of the program for each category of civil service employment and for each minority group designation, for the preceding fiscal year, together with recommendations for administrative or legislative action the Office considers appropriate.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 523][/us/stat/80/523], § 7151; renumbered § 7201 and amended [Pub. L. 95–454, title III, § 310][/us/pl/95/454/s310], title VII, § 703(a)(1), Oct. 13, 1978, [92 Stat. 1152][/us/stat/92/1152], 1216.)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 523][/us/stat/80/523], § 7151; renumbered § 7201 and amended [Pub. L. 95–454, title III][/us/pl/95/454/tIII], § 310, title VII, § 703(a)(1), Oct. 13, 1978, [92 Stat. 1152][/us/stat/92/1152], 1216.)
 
 <table>
 
@@ -119,11 +119,11 @@ July 2, 1964, Pub. L. 88–352, § 701(b) (2d proviso), 78 Stat. 254.  </td>
 
  __Amendments__ 
 
-    1978—[Pub. L. 95–454, § 703(a)(1)][/us/pl/95/454/s703/a/1], renumbered [section 7151 of this title][/us/usc/t5/s7151] as this section.
+    1978—[Pub. L. 95–454][/us/pl/95/454], § 703(a)(1), renumbered [section 7151 of this title][/us/usc/t5/s7151] as this section.
 
-    [Pub. L. 95–454, § 310(1)][/us/pl/95/454/s310/1], substituted “Antidiscrimination policy; minority recruitment program” for “Policy” in section catchline.
+    [Pub. L. 95–454][/us/pl/95/454], § 310(1), substituted “Antidiscrimination policy; minority recruitment program” for “Policy” in section catchline.
 
-    Subsecs. (a) to (e). [Pub. L. 95–454, § 310(2)][/us/pl/95/454/s310/2]–(4), added subsec. (a), designated existing provisions as subsec. (b), and added subsecs. (c) to (e).
+    Subsecs. (a) to (e). [Pub. L. 95–454][/us/pl/95/454], § 310(2)–(4), added subsec. (a), designated existing provisions as subsec. (b), and added subsecs. (c) to (e).
 
  __Effective Date of 1978 Amendment__ 
 
@@ -135,13 +135,13 @@ July 2, 1964, Pub. L. 88–352, § 701(b) (2d proviso), 78 Stat. 254.  </td>
 
  __Workplace Policies Prohibiting Discrimination and Sexual Harassment__ 
 
-[Pub. L. 110–161, div. D, title VII, § 716][/us/pl/110/161/s716], Dec. 26, 2007, [121 Stat. 2023][/us/stat/121/2023], provided that: 
+[Pub. L. 110–161, div. D, title VII][/us/pl/110/161/dD/tVII], § 716, Dec. 26, 2007, [121 Stat. 2023][/us/stat/121/2023], provided that: 
 
 > “Hereafter, no department, agency, or instrumentality of the United States receiving appropriated funds under this or any other Act shall obligate or expend any such funds, unless such department, agency, or instrumentality has in place, and will continue to administer in good faith, a written policy designed to ensure that all of its workplaces are free from discrimination and sexual harassment and that all of its workplaces are not in violation of title VII of the Civil Rights Act of 1964 ([Public Law 88–352][/us/pl/88/352], [78 Stat. 241][/us/stat/78/241]) \[[42 U.S.C. 2000e][/us/usc/t42/s2000e] et seq.\], the Age Discrimination in Employment Act of 1967 ([Public Law 90–202][/us/pl/90/202], [81 Stat. 602][/us/stat/81/602]) \[[29 U.S.C. 621][/us/usc/t29/s621] et seq.\], and the Rehabilitation Act of 1973 ([Public Law 93–112][/us/pl/93/112], [87 Stat. 355][/us/stat/87/355]) \[[29 U.S.C. 701][/us/usc/t29/s701] et seq.\].”
 
  __Discrimination Prohibited in Employment of Civilian Personnel at Facilities Operated by the Department of Defense in Foreign Countries__ 
 
-[Pub. L. 92–129, title I, § 106][/us/pl/92/129/s106], Sept. 28, 1971, [85 Stat. 355][/us/stat/85/355], provided that: 
+[Pub. L. 92–129, title I][/us/pl/92/129/tI], § 106, Sept. 28, 1971, [85 Stat. 355][/us/stat/85/355], provided that: 
 
 > “Unless prohibited by treaty, no person shall be discriminated against by the Department of Defense or by any officer or employee thereof, in the employment of civilian personnel at any facility or installation operated by the Department of Defense in any foreign country because such person is a citizen of the United States or is a dependent of a member of the Armed Forces of the United States. As used in this section, the term ‘facility or installation operated by the Department of Defense’ shall include, but shall not be limited to, any officer’s club, non-commissioned officers’ club, post exchange, or commissary store.”
 
@@ -156,20 +156,20 @@ July 2, 1964, Pub. L. 88–352, § 701(b) (2d proviso), 78 Stat. 254.  </td>
 [/us/usc/t42/s2000e–16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2000e%E2%80%9316
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F523
-[/us/pl/95/454/s310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs310
+[/us/pl/95/454/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtIII
 [/us/stat/92/1152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1152
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
 [/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454
-[/us/pl/95/454/s703/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs703%2Fa%2F1
+[/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454
 [/us/usc/t5/s7151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs7151
-[/us/pl/95/454/s310/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs310%2F1
-[/us/pl/95/454/s310/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs310%2F2
+[/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454
+[/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454
 [/us/pl/95/454/s310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs310
 [/us/pl/95/454/s907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs907
 [/us/usc/t5/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs1101
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113
-[/us/pl/110/161/s716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs716
+[/us/pl/110/161/dD/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2FdD%2FtVII
 [/us/stat/121/2023]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2023
 [/us/pl/88/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F352
 [/us/stat/78/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F241
@@ -180,7 +180,7 @@ July 2, 1964, Pub. L. 88–352, § 701(b) (2d proviso), 78 Stat. 254.  </td>
 [/us/pl/93/112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112
 [/us/stat/87/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F355
 [/us/usc/t29/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs701
-[/us/pl/92/129/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F129%2Fs106
+[/us/pl/92/129/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F129%2FtI
 [/us/stat/85/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F355
 
 

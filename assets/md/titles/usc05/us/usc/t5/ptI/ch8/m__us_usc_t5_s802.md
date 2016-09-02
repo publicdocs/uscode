@@ -71,7 +71,7 @@
 
         (2) with full recognition of the constitutional right of either House to change the rules (so far as relating to the procedure of that House) at any time, in the same manner, and to the same extent as in the case of any other rule of that House.
 
-(Added [Pub. L. 104–121, title II, § 251][/us/pl/104/121/s251], Mar. 29, 1996, [110 Stat. 871][/us/stat/110/871].)
+(Added [Pub. L. 104–121, title II][/us/pl/104/121/tII], § 251, Mar. 29, 1996, [110 Stat. 871][/us/stat/110/871].)
 
 ----------
 
@@ -80,7 +80,7 @@
 ----------
 ----------
 
-[/us/pl/104/121/s251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F121%2Fs251
+[/us/pl/104/121/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F121%2FtII
 [/us/stat/110/871]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F871
 
 

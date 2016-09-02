@@ -59,27 +59,27 @@
 
         (2) the term “officer or employee” means an individual holding an appointive or elective position in the executive, legislative, or judicial branch of Government, other than a Member of Congress.
 
-(Added [Pub. L. 101–194, title III, § 303(a)][/us/pl/101/194/s303/a], Nov. 30, 1989, [103 Stat. 1746][/us/stat/103/1746]; amended [Pub. L. 101–280, § 4(d)][/us/pl/101/280/s4/d], May 4, 1990, [104 Stat. 158][/us/stat/104/158]; [Pub. L. 107–347, title II, § 209(g)(1)(C)][/us/pl/107/347/s209/g/1/C], Dec. 17, 2002, [116 Stat. 2932][/us/stat/116/2932].)
+(Added [Pub. L. 101–194, title III][/us/pl/101/194/tIII], § 303(a), Nov. 30, 1989, [103 Stat. 1746][/us/stat/103/1746]; amended [Pub. L. 101–280][/us/pl/101/280], § 4(d), May 4, 1990, [104 Stat. 158][/us/stat/104/158]; [Pub. L. 107–347, title II][/us/pl/107/347/tII], § 209(g)(1)(C), Dec. 17, 2002, [116 Stat. 2932][/us/stat/116/2932].)
 
  __References in Text__ 
 
-    The Ethics in Government Act of 1978, referred to in subsec. (d)(1)(E), is [Pub. L. 95–521][/us/pl/95/521], Oct. 26, 1978, [92 Stat. 1824][/us/stat/92/1824], as amended. Title I of the Act, which was classified principally to chapter 18 (§ 701 et seq.) of Title 2, The Congress, was amended generally by [Pub. L. 101–194, title II, § 202][/us/pl/101/194/s202], Nov. 30, 1989, [103 Stat. 1724][/us/stat/103/1724], and as so amended, is set out in the Appendix to this title. For complete classification of this Act to the Code, see Short Title note set out under [section 101 of Pub. L. 95–521][/us/pl/95/521/s101] in the Appendix to this title and Tables.
+    The Ethics in Government Act of 1978, referred to in subsec. (d)(1)(E), is [Pub. L. 95–521][/us/pl/95/521], Oct. 26, 1978, [92 Stat. 1824][/us/stat/92/1824], as amended. Title I of the Act, which was classified principally to chapter 18 (§ 701 et seq.) of Title 2, The Congress, was amended generally by [Pub. L. 101–194, title II][/us/pl/101/194/tII], § 202, Nov. 30, 1989, [103 Stat. 1724][/us/stat/103/1724], and as so amended, is set out in the Appendix to this title. For complete classification of this Act to the Code, see Short Title note set out under [section 101 of Pub. L. 95–521][/us/pl/95/521/s101] in the Appendix to this title and Tables.
 
  __Amendments__ 
 
     2002—Subsec. (b)(4). [Pub. L. 107–347][/us/pl/107/347] added par. (4).
 
-    1990—Subsec. (a). [Pub. L. 101–280, § 4(d)(1)(A)][/us/pl/101/280/s4/d/1/A], substituted “branch” for “branches” in introductory provisions.
+    1990—Subsec. (a). [Pub. L. 101–280][/us/pl/101/280], § 4(d)(1)(A), substituted “branch” for “branches” in introductory provisions.
 
-    Subsec. (a)(1). [Pub. L. 101–280, § 4(d)(1)(B)][/us/pl/101/280/s4/d/1/B], substituted “by, the” for “by the” and “entity” for “agency”.
+    Subsec. (a)(1). [Pub. L. 101–280][/us/pl/101/280], § 4(d)(1)(B), substituted “by, the” for “by the” and “entity” for “agency”.
 
-    Subsec. (c). [Pub. L. 101–280, § 4(d)(2)][/us/pl/101/280/s4/d/2], substituted “A Member of Congress or an officer or employee” for “An employee”.
+    Subsec. (c). [Pub. L. 101–280][/us/pl/101/280], § 4(d)(2), substituted “A Member of Congress or an officer or employee” for “An employee”.
 
-    Subsec. (d)(1)(B). [Pub. L. 101–280, § 4(d)(3)(A)(i)][/us/pl/101/280/s4/d/3/A/i], substituted “officers,” for “officers”.
+    Subsec. (d)(1)(B). [Pub. L. 101–280][/us/pl/101/280], § 4(d)(3)(A)(i), substituted “officers,” for “officers”.
 
-    Subsec. (d)(1)(E). [Pub. L. 101–280, § 4(d)(3)(A)(ii)][/us/pl/101/280/s4/d/3/A/ii], amended subpar. (E) generally. Prior to amendment, subpar. (E) read as follows: “the ethics committee with which the officer or employee is required to file financial disclosure forms, for all legislative branch officers and employees other than those specified in subparagraphs (A) and (B), except that such authority may be delegated; and”.
+    Subsec. (d)(1)(E). [Pub. L. 101–280][/us/pl/101/280], § 4(d)(3)(A)(ii), amended subpar. (E) generally. Prior to amendment, subpar. (E) read as follows: “the ethics committee with which the officer or employee is required to file financial disclosure forms, for all legislative branch officers and employees other than those specified in subparagraphs (A) and (B), except that such authority may be delegated; and”.
 
-    Subsec. (d)(2). [Pub. L. 101–280, § 4(d)(3)(B)][/us/pl/101/280/s4/d/3/B], substituted “Government,” for “Government”.
+    Subsec. (d)(2). [Pub. L. 101–280][/us/pl/101/280], § 4(d)(3)(B), substituted “Government,” for “Government”.
 
  __Change of Name__ 
 
@@ -91,7 +91,7 @@
 
  __Limitation on Acceptance of Honorary Club Memberships__ 
 
-[Pub. L. 110–402, § 2][/us/pl/110/402/s2], Oct. 13, 2008, [122 Stat. 4255][/us/stat/122/4255], provided that:
+[Pub. L. 110–402][/us/pl/110/402], § 2, Oct. 13, 2008, [122 Stat. 4255][/us/stat/122/4255], provided that:
 
 >     “(a)  __Definitions__  __.—__ 
 
@@ -116,28 +116,28 @@
 ----------
 ----------
 
-[/us/pl/101/194/s303/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194%2Fs303%2Fa
+[/us/pl/101/194/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194%2FtIII
 [/us/stat/103/1746]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1746
-[/us/pl/101/280/s4/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280%2Fs4%2Fd
+[/us/pl/101/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280
 [/us/stat/104/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F158
-[/us/pl/107/347/s209/g/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347%2Fs209%2Fg%2F1%2FC
+[/us/pl/107/347/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347%2FtII
 [/us/stat/116/2932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2932
 [/us/pl/95/521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521
 [/us/stat/92/1824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1824
-[/us/pl/101/194/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194%2Fs202
+[/us/pl/101/194/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194%2FtII
 [/us/stat/103/1724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1724
 [/us/pl/95/521/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521%2Fs101
 [/us/pl/107/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347
-[/us/pl/101/280/s4/d/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280%2Fs4%2Fd%2F1%2FA
-[/us/pl/101/280/s4/d/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280%2Fs4%2Fd%2F1%2FB
-[/us/pl/101/280/s4/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280%2Fs4%2Fd%2F2
-[/us/pl/101/280/s4/d/3/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280%2Fs4%2Fd%2F3%2FA%2Fi
-[/us/pl/101/280/s4/d/3/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280%2Fs4%2Fd%2F3%2FA%2Fii
-[/us/pl/101/280/s4/d/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280%2Fs4%2Fd%2F3%2FB
+[/us/pl/101/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280
+[/us/pl/101/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280
+[/us/pl/101/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280
+[/us/pl/101/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280
+[/us/pl/101/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280
+[/us/pl/101/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280
 [/us/pl/107/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347
 [/us/pl/107/347/s402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347%2Fs402%2Fa
 [/us/usc/t44/s3601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3601
-[/us/pl/110/402/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F402%2Fs2
+[/us/pl/110/402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F402
 [/us/stat/122/4255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4255
 
 

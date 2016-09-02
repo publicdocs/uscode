@@ -59,7 +59,7 @@
 
         (4) Notwithstanding section 8114(e)(1), overtime pay for a firefighter subject to this section for hours in a regular tour of duty shall be included in any computation of pay under section 8114.
 
-(Added [Pub. L. 105–277, div. A, § 101(h)][/us/pl/105/277/s101/h] \[title VI, § 628(a)(2)\], Oct. 21, 1998, [112 Stat. 2681–480][/us/stat/112/2681-480], 2681–519; amended [Pub. L. 106–554, § 1(a)(3)][/us/pl/106/554/s1/a/3] \[title VI, § 641(a)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–169.)
+(Added [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(h) \[title VI, § 628(a)(2)\], Oct. 21, 1998, [112 Stat. 2681–480][/us/stat/112/2681-480], 2681–519; amended [Pub. L. 106–554][/us/pl/106/554], § 1(a)(3) \[title VI, § 641(a)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–169.)
 
  __References in Text__ 
 
@@ -71,7 +71,7 @@
 
  __Effective Date of 2000 Amendment__ 
 
-[Pub. L. 106–554, § 1(a)(3)][/us/pl/106/554/s1/a/3] \[title VI, § 641(b)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–169, provided that: 
+[Pub. L. 106–554][/us/pl/106/554], § 1(a)(3) \[title VI, § 641(b)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–169, provided that: 
 
 > “The amendment in subsection (a) \[amending this section\] shall be effective as if it had been enacted as part of the Federal Firefighters Overtime Pay Reform Act of 1998 \[[Pub. L. 105–277][/us/pl/105/277], div A, § 101(h) \[title VI, § 628\]\] ([112 Stat. 2681–519][/us/stat/112/2681-519]).”
 
@@ -81,13 +81,13 @@
 
  __Regulations__ 
 
-[Pub. L. 105–277, div. A, § 101(h)][/us/pl/105/277/s101/h] \[title VI, § 628(f)\], Oct. 21, 1998, [112 Stat. 2681–480][/us/stat/112/2681-480], 2681–521, provided that: 
+[Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(h) \[title VI, § 628(f)\], Oct. 21, 1998, [112 Stat. 2681–480][/us/stat/112/2681-480], 2681–521, provided that: 
 
 > “Under regulations prescribed by the Office of Personnel Management, a firefighter subject to [section 5545b of title 5][/us/usc/t5/s5545b], United States Code, as added by this section, whose regular tours of duty average 60 hours or less per workweek and do not include a basic 40-hour workweek, shall, upon implementation of this section, be granted an increase in basic pay equal to 2 step-increases of the applicable General Schedule grade, and such increase shall not be an equivalent increase in pay. If such increase results in a change to a longer waiting period for the firefighter’s next step increase, the firefighter shall be credited with an additional year of service for the purpose of such waiting period. If such increase results in a rate of basic pay which is above the maximum rate of the applicable grade, such resulting pay rate shall be treated as a retained rate of basic pay in accordance with [section 5363 of title 5][/us/usc/t5/s5363], United States Code.”
 
  __Eligibility for Pay Increase__ 
 
-[Pub. L. 106–31, title III, § 3032][/us/pl/106/31/s3032], May 21, 1999, [113 Stat. 104][/us/stat/113/104], provided that:
+[Pub. L. 106–31, title III][/us/pl/106/31/tIII], § 3032, May 21, 1999, [113 Stat. 104][/us/stat/113/104], provided that:
 
 >     “(a)
 
@@ -115,7 +115,7 @@
 
  __No Reduction in Regular Pay__ 
 
-[Pub. L. 105–277, div. A, § 101(h)][/us/pl/105/277/s101/h] \[title VI, § 628(g)\], Oct. 21, 1998, [112 Stat. 2681–480][/us/stat/112/2681-480], 2681–521, provided that: 
+[Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(h) \[title VI, § 628(g)\], Oct. 21, 1998, [112 Stat. 2681–480][/us/stat/112/2681-480], 2681–521, provided that: 
 
 > “Under regulations prescribed by the Office of Personnel Management, the regular pay (over the established work scheduling cycle) of a firefighter subject to [section 5545b of title 5][/us/usc/t5/s5545b], United States Code, as added by this section, shall not be reduced as a result of the implementation of this section.”
 
@@ -126,28 +126,28 @@
 ----------
 ----------
 
-[/us/pl/105/277/s101/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fh
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-480
-[/us/pl/106/554/s1/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F3
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 [/us/usc/t29/s207/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs207%2Fk
 [/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
-[/us/pl/106/554/s1/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F3
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/stat/112/2681-519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-519
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/usc/t5/s4109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs4109
-[/us/pl/105/277/s101/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fh
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-480
 [/us/usc/t5/s5545b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5545b
 [/us/usc/t5/s5363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5363
-[/us/pl/106/31/s3032]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F31%2Fs3032
+[/us/pl/106/31/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F31%2FtIII
 [/us/stat/113/104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F104
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/usc/t5/s5545b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5545b
 [/us/usc/t5/s5545b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5545b
-[/us/pl/105/277/s101/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fh
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-480
 [/us/usc/t5/s5545b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5545b
 

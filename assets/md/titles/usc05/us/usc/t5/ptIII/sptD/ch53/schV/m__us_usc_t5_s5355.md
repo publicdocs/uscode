@@ -17,7 +17,7 @@
 
     This subchapter does not limit the authority conferred on the Secretary of Veterans Affairs by chapter 73 of title 38.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 472][/us/stat/80/472]; [Pub. L. 102–54, § 13(b)(3)][/us/pl/102/54/s13/b/3], June 13, 1991, [105 Stat. 274][/us/stat/105/274].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 472][/us/stat/80/472]; [Pub. L. 102–54][/us/pl/102/54], § 13(b)(3), June 13, 1991, [105 Stat. 274][/us/stat/105/274].)
 
 <table>
 
@@ -114,7 +114,7 @@ Sept. 2, 1958, Pub. L. 85–857, § 13(m), 72 Stat. 1265.  </td>
 
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F472
-[/us/pl/102/54/s13/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54%2Fs13%2Fb%2F3
+[/us/pl/102/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54
 [/us/stat/105/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F274
 [/us/pl/102/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54
 

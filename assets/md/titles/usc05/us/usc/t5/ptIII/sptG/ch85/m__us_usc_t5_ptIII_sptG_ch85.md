@@ -155,9 +155,9 @@ SUBCHAPTER II—EX-SERVICEMEN  </td>
 
  __Amendments__ 
 
-    1992—[Pub. L. 102–378, § 2(73)][/us/pl/102/378/s2/73], Oct. 2, 1992, [106 Stat. 1355][/us/stat/106/1355], added item 8509.
+    1992—[Pub. L. 102–378][/us/pl/102/378], § 2(73), Oct. 2, 1992, [106 Stat. 1355][/us/stat/106/1355], added item 8509.
 
-    1975—[Pub. L. 94–183, § 2(42)][/us/pl/94/183/s2/42], Dec. 31, 1975, [89 Stat. 1059][/us/stat/89/1059], substituted “Repealed” for “Accrued leave” in item 8524.
+    1975—[Pub. L. 94–183][/us/pl/94/183], § 2(42), Dec. 31, 1975, [89 Stat. 1059][/us/stat/89/1059], substituted “Repealed” for “Accrued leave” in item 8524.
 
 ----------
 
@@ -166,9 +166,9 @@ SUBCHAPTER II—EX-SERVICEMEN  </td>
 ----------
 ----------
 
-[/us/pl/102/378/s2/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378%2Fs2%2F73
+[/us/pl/102/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378
 [/us/stat/106/1355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1355
-[/us/pl/94/183/s2/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F183%2Fs2%2F42
+[/us/pl/94/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F183
 [/us/stat/89/1059]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F1059
 
 

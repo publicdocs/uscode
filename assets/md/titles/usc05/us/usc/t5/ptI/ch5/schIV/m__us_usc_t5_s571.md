@@ -59,7 +59,7 @@
 
     (12) “roster” means a list of persons qualified to provide services as neutrals.
 
-(Added [Pub. L. 101–552, § 4(b)][/us/pl/101/552/s4/b], Nov. 15, 1990, [104 Stat. 2738][/us/stat/104/2738], § 581; renumbered § 571 and amended [Pub. L. 102–354][/us/pl/102/354], §§ 3(b)(2), 5(b)(1), (2), Aug. 26, 1992, [106 Stat. 944][/us/stat/106/944], 946; [Pub. L. 104–320, § 2][/us/pl/104/320/s2], Oct. 19, 1996, [110 Stat. 3870][/us/stat/110/3870].)
+(Added [Pub. L. 101–552][/us/pl/101/552], § 4(b), Nov. 15, 1990, [104 Stat. 2738][/us/stat/104/2738], § 581; renumbered § 571 and amended [Pub. L. 102–354][/us/pl/102/354], §§ 3(b)(2), 5(b)(1), (2), Aug. 26, 1992, [106 Stat. 944][/us/stat/106/944], 946; [Pub. L. 104–320][/us/pl/104/320], § 2, Oct. 19, 1996, [110 Stat. 3870][/us/stat/110/3870].)
 
  __Codification__ 
 
@@ -71,35 +71,35 @@
 
  __Amendments__ 
 
-    1996—Par. (3). [Pub. L. 104–320, § 2(1)][/us/pl/104/320/s2/1], struck out “, in lieu of an adjudication as defined in [section 551(7) of this title][/us/usc/t5/s551/7],” after “any procedure that is used”, struck out “settlement negotiations,” after “but not limited to,” and substituted “arbitration, and use of ombuds” for “and arbitration”.
+    1996—Par. (3). [Pub. L. 104–320][/us/pl/104/320], § 2(1), struck out “, in lieu of an adjudication as defined in [section 551(7) of this title][/us/usc/t5/s551/7],” after “any procedure that is used”, struck out “settlement negotiations,” after “but not limited to,” and substituted “arbitration, and use of ombuds” for “and arbitration”.
 
-    Par. (8). [Pub. L. 104–320, § 2(2)][/us/pl/104/320/s2/2], substituted “decision;” for “decision,” at end of subpar. (B), and struck out closing provisions which read as follows: “except that such term shall not include any matter specified under section 2302 or 7121(c) of this title;”.
+    Par. (8). [Pub. L. 104–320][/us/pl/104/320], § 2(2), substituted “decision;” for “decision,” at end of subpar. (B), and struck out closing provisions which read as follows: “except that such term shall not include any matter specified under section 2302 or 7121(c) of this title;”.
 
-    1992—[Pub. L. 102–354, § 3(b)(2)][/us/pl/102/354/s3/b/2], renumbered [section 581 of this title][/us/usc/t5/s581] as this section.
+    1992—[Pub. L. 102–354][/us/pl/102/354], § 3(b)(2), renumbered [section 581 of this title][/us/usc/t5/s581] as this section.
 
-    Par. (3). [Pub. L. 102–354, § 5(b)(1)][/us/pl/102/354/s5/b/1], inserted comma after “including”.
+    Par. (3). [Pub. L. 102–354][/us/pl/102/354], § 5(b)(1), inserted comma after “including”.
 
-    Par. (8). [Pub. L. 102–354, § 5(b)(2)][/us/pl/102/354/s5/b/2], amended par. (8) generally. Prior to amendment, par. (8) read as follows: “ ‘issue in controversy’ means an issue which is material to a decision concerning an administrative program of an agency, and with which there is disagreement between the agency and persons who would be substantially affected by the decision but shall not extend to matters specified under the provisions of sections 2302 and 7121(c) of title 5;”.
+    Par. (8). [Pub. L. 102–354][/us/pl/102/354], § 5(b)(2), amended par. (8) generally. Prior to amendment, par. (8) read as follows: “ ‘issue in controversy’ means an issue which is material to a decision concerning an administrative program of an agency, and with which there is disagreement between the agency and persons who would be substantially affected by the decision but shall not extend to matters specified under the provisions of sections 2302 and 7121(c) of title 5;”.
 
  __Termination Date; Savings Provision__ 
 
-    [Pub. L. 101–552, § 11][/us/pl/101/552/s11], Nov. 15, 1990, [104 Stat. 2747][/us/stat/104/2747], as amended by [Pub. L. 104–106, div. D, title XLIII, § 4321(i)(5)][/us/pl/104/106/s4321/i/5], Feb. 10, 1996, [110 Stat. 676][/us/stat/110/676], which provided that the authority of agencies to use dispute resolution proceedings under this Act \[see Short Title note below\] was to terminate on Oct. 1, 1995, except with respect to pending proceedings, was repealed by [Pub. L. 104–320, § 9][/us/pl/104/320/s9], Oct. 19, 1996, [110 Stat. 3872][/us/stat/110/3872].
+    [Pub. L. 101–552][/us/pl/101/552], § 11, Nov. 15, 1990, [104 Stat. 2747][/us/stat/104/2747], as amended by [Pub. L. 104–106, div. D, title XLIII][/us/pl/104/106/dD/tXLIII], § 4321(i)(5), Feb. 10, 1996, [110 Stat. 676][/us/stat/110/676], which provided that the authority of agencies to use dispute resolution proceedings under this Act \[see Short Title note below\] was to terminate on Oct. 1, 1995, except with respect to pending proceedings, was repealed by [Pub. L. 104–320][/us/pl/104/320], § 9, Oct. 19, 1996, [110 Stat. 3872][/us/stat/110/3872].
 
  __Short Title of 1996 Amendment__ 
 
-[Pub. L. 104–320, § 1][/us/pl/104/320/s1], Oct. 19, 1996, [110 Stat. 3870][/us/stat/110/3870], provided that: 
+[Pub. L. 104–320][/us/pl/104/320], § 1, Oct. 19, 1996, [110 Stat. 3870][/us/stat/110/3870], provided that: 
 
 > “This Act \[enacting sections 570a and 584 of this title, amending this section, sections 569, 573 to 575, 580, 581, and 583 of this title, [section 2304 of Title 10][/us/usc/t10/s2304], Armed Forces, [section 1491 of Title 28][/us/usc/t28/s1491], Crimes and Criminal Procedure, [section 173 of Title 29][/us/usc/t29/s173], Labor, [section 3556 of Title 31][/us/usc/t31/s3556], Money and Finance, and sections 253 and 605 of Title 41, Public Contracts, repealing [section 582 of this title][/us/usc/t5/s582], enacting provisions set out as notes under [section 563 of this title][/us/usc/t5/s563], [section 1491 of Title 28][/us/usc/t28/s1491], and [section 3556 of Title 31][/us/usc/t31/s3556], amending provisions set out as notes under this section, and repealing provisions set out as notes under this section and [section 561 of this title][/us/usc/t5/s561]\] may be cited as the ‘Administrative Dispute Resolution Act of 1996’.”
 
  __Short Title__ 
 
-[Pub. L. 101–552, § 1][/us/pl/101/552/s1], Nov. 15, 1990, [104 Stat. 2736][/us/stat/104/2736], provided that: 
+[Pub. L. 101–552][/us/pl/101/552], § 1, Nov. 15, 1990, [104 Stat. 2736][/us/stat/104/2736], provided that: 
 
 > “This Act \[enacting this subchapter, amending [section 556 of this title][/us/usc/t5/s556], [section 10 of Title 9][/us/usc/t9/s10], Arbitration, [section 2672 of Title 28][/us/usc/t28/s2672], Judiciary and Judicial Procedure, [section 173 of Title 29][/us/usc/t29/s173], Labor, [section 3711 of Title 31][/us/usc/t31/s3711], Money and Finance, and sections 605 and 607 of Title 41, Public Contracts, and enacting provisions set out as notes under this section\] may be cited as the ‘Administrative Dispute Resolution Act’.”
 
  __Congressional Findings__ 
 
-[Pub. L. 101–552, § 2][/us/pl/101/552/s2], Nov. 15, 1990, [104 Stat. 2736][/us/stat/104/2736], provided that: 
+[Pub. L. 101–552][/us/pl/101/552], § 2, Nov. 15, 1990, [104 Stat. 2736][/us/stat/104/2736], provided that: 
 
 > “The Congress finds that—
 
@@ -121,7 +121,7 @@
 
  __Promotion of Alternative Means of Dispute Resolution__ 
 
-[Pub. L. 101–552, § 3][/us/pl/101/552/s3], Nov. 15, 1990, [104 Stat. 2736][/us/stat/104/2736], as amended by [Pub. L. 104–320, § 4(a)][/us/pl/104/320/s4/a], Oct. 19, 1996, [110 Stat. 3871][/us/stat/110/3871], provided that:
+[Pub. L. 101–552][/us/pl/101/552], § 3, Nov. 15, 1990, [104 Stat. 2736][/us/stat/104/2736], as amended by [Pub. L. 104–320][/us/pl/104/320], § 4(a), Oct. 19, 1996, [110 Stat. 3871][/us/stat/110/3871], provided that:
 
 >     “(a)  __Promulgation of Agency Policy__  __.—__ 
 
@@ -171,7 +171,7 @@
 
  __Use of Nonattorneys__ 
 
-[Pub. L. 101–552, § 9][/us/pl/101/552/s9], Nov. 15, 1990, [104 Stat. 2747][/us/stat/104/2747], provided that:
+[Pub. L. 101–552][/us/pl/101/552], § 9, Nov. 15, 1990, [104 Stat. 2747][/us/stat/104/2747], provided that:
 
 >     “(a)  __Representation of Parties__  __.—__ 
 
@@ -201,7 +201,7 @@
 
  __Definitions__ 
 
-[Pub. L. 101–552, § 10][/us/pl/101/552/s10], Nov. 15, 1990, [104 Stat. 2747][/us/stat/104/2747], as amended by [Pub. L. 102–354, § 5(b)(6)][/us/pl/102/354/s5/b/6], Aug. 26, 1992, [106 Stat. 946][/us/stat/106/946], provided that: 
+[Pub. L. 101–552][/us/pl/101/552], § 10, Nov. 15, 1990, [104 Stat. 2747][/us/stat/104/2747], as amended by [Pub. L. 102–354][/us/pl/102/354], § 5(b)(6), Aug. 26, 1992, [106 Stat. 946][/us/stat/106/946], provided that: 
 
 > “As used in this Act \[see Short Title note above\], the terms ‘agency’, ‘administrative program’, and ‘alternative means of dispute resolution’ have the meanings given such terms in [section 571 of title 5][/us/usc/t5/s571], United States Code (enacted as [section 581 of title 5][/us/usc/t5/s581], United States Code, by section 4(b) of this Act, and redesignated as section 571 of such title by section 3(b) of the Administrative Procedure Technical Amendments Act of 1991 \[[Pub. L. 102–354][/us/pl/102/354]\]).”
 
@@ -215,28 +215,28 @@
 [/us/usc/t5/s551/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs551%2F1
 [/us/usc/t5/s551/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs551%2F3
 [/us/usc/t5/s551/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs551%2F2
-[/us/pl/101/552/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F552%2Fs4%2Fb
+[/us/pl/101/552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F552
 [/us/stat/104/2738]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2738
 [/us/pl/102/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F354
 [/us/stat/106/944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F944
-[/us/pl/104/320/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F320%2Fs2
+[/us/pl/104/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F320
 [/us/stat/110/3870]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3870
 [/us/usc/t7/s2256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2256
 [/us/usc/t5/s591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs591
-[/us/pl/104/320/s2/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F320%2Fs2%2F1
+[/us/pl/104/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F320
 [/us/usc/t5/s551/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs551%2F7
-[/us/pl/104/320/s2/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F320%2Fs2%2F2
-[/us/pl/102/354/s3/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F354%2Fs3%2Fb%2F2
+[/us/pl/104/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F320
+[/us/pl/102/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F354
 [/us/usc/t5/s581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs581
-[/us/pl/102/354/s5/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F354%2Fs5%2Fb%2F1
-[/us/pl/102/354/s5/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F354%2Fs5%2Fb%2F2
-[/us/pl/101/552/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F552%2Fs11
+[/us/pl/102/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F354
+[/us/pl/102/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F354
+[/us/pl/101/552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F552
 [/us/stat/104/2747]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2747
-[/us/pl/104/106/s4321/i/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs4321%2Fi%2F5
+[/us/pl/104/106/dD/tXLIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdD%2FtXLIII
 [/us/stat/110/676]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F676
-[/us/pl/104/320/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F320%2Fs9
+[/us/pl/104/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F320
 [/us/stat/110/3872]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3872
-[/us/pl/104/320/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F320%2Fs1
+[/us/pl/104/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F320
 [/us/stat/110/3870]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3870
 [/us/usc/t10/s2304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2304
 [/us/usc/t28/s1491]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1491
@@ -247,27 +247,27 @@
 [/us/usc/t28/s1491]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1491
 [/us/usc/t31/s3556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3556
 [/us/usc/t5/s561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs561
-[/us/pl/101/552/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F552%2Fs1
+[/us/pl/101/552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F552
 [/us/stat/104/2736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2736
 [/us/usc/t5/s556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs556
 [/us/usc/t9/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft9%2Fs10
 [/us/usc/t28/s2672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2672
 [/us/usc/t29/s173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs173
 [/us/usc/t31/s3711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3711
-[/us/pl/101/552/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F552%2Fs2
+[/us/pl/101/552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F552
 [/us/stat/104/2736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2736
-[/us/pl/101/552/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F552%2Fs3
+[/us/pl/101/552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F552
 [/us/stat/104/2736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2736
-[/us/pl/104/320/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F320%2Fs4%2Fa
+[/us/pl/104/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F320
 [/us/stat/110/3871]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3871
 [/us/usc/t5/s573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs573
 [/us/usc/t41/s405/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs405%2Fa
 [/us/usc/t41/s1121/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs1121%2Fa
-[/us/pl/101/552/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F552%2Fs9
+[/us/pl/101/552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F552
 [/us/stat/104/2747]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2747
-[/us/pl/101/552/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F552%2Fs10
+[/us/pl/101/552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F552
 [/us/stat/104/2747]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2747
-[/us/pl/102/354/s5/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F354%2Fs5%2Fb%2F6
+[/us/pl/102/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F354
 [/us/stat/106/946]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F946
 [/us/usc/t5/s571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs571
 [/us/usc/t5/s581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs581

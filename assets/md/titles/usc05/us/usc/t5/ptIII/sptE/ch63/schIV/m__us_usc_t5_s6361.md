@@ -29,7 +29,7 @@
 
     (6) “medical emergency” means a medical condition of an employee or a family member of such employee that is likely to require the prolonged absence of such employee from duty and to result in a substantial loss of income to such employee because of the unavailability of paid leave (disregarding any advanced leave).
 
-(Added [Pub. L. 100–566, § 2(a)][/us/pl/100/566/s2/a], Oct. 31, 1988, [102 Stat. 2839][/us/stat/102/2839]; amended [Pub. L. 103–103, § 3(a)][/us/pl/103/103/s3/a], Oct. 8, 1993, [107 Stat. 1022][/us/stat/107/1022].)
+(Added [Pub. L. 100–566][/us/pl/100/566], § 2(a), Oct. 31, 1988, [102 Stat. 2839][/us/stat/102/2839]; amended [Pub. L. 103–103][/us/pl/103/103], § 3(a), Oct. 8, 1993, [107 Stat. 1022][/us/stat/107/1022].)
 
  __Amendments__ 
 
@@ -41,7 +41,7 @@
 
  __Leave Bank for Judicial Branch Employees of Federal Government in Reserves Who Were Activated During Persian Gulf War__ 
 
-[Pub. L. 102–58, § 3][/us/pl/102/58/s3], June 18, 1991, [105 Stat. 299][/us/stat/105/299], provided that:
+[Pub. L. 102–58][/us/pl/102/58], § 3, June 18, 1991, [105 Stat. 299][/us/stat/105/299], provided that:
 
 >     “(a)  __Judicial Branch Employees__  __.—__ 
 
@@ -63,7 +63,7 @@
 
  __Leave Bank for Federal Civilian Employees in Reserves Who Were Activated During Persian Gulf War__ 
 
-[Pub. L. 102–25, title III, § 361][/us/pl/102/25/s361], Apr. 6, 1991, [105 Stat. 92][/us/stat/105/92], as amended by [Pub. L. 102–484, div. A, title X, § 1054(c)(1)][/us/pl/102/484/s1054/c/1], Oct. 23, 1992, [106 Stat. 2502][/us/stat/106/2502], provided that:
+[Pub. L. 102–25, title III][/us/pl/102/25/tIII], § 361, Apr. 6, 1991, [105 Stat. 92][/us/stat/105/92], as amended by [Pub. L. 102–484, div. A, title X][/us/pl/102/484/dA/tX], § 1054(c)(1), Oct. 23, 1992, [106 Stat. 2502][/us/stat/106/2502], provided that:
 
 >     “(a)  __Civil Service Employees__  __.—__ 
 
@@ -94,20 +94,20 @@
 ----------
 ----------
 
-[/us/pl/100/566/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F566%2Fs2%2Fa
+[/us/pl/100/566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F566
 [/us/stat/102/2839]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2839
-[/us/pl/103/103/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F103%2Fs3%2Fa
+[/us/pl/103/103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F103
 [/us/stat/107/1022]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1022
 [/us/pl/103/103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F103
 [/us/pl/103/103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F103
 [/us/pl/103/103/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F103%2Fs6
 [/us/usc/t5/s6331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs6331
-[/us/pl/102/58/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F58%2Fs3
+[/us/pl/102/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F58
 [/us/stat/105/299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F299
 [/us/usc/t5/s6301/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs6301%2F2
-[/us/pl/102/25/s361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25%2Fs361
+[/us/pl/102/25/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25%2FtIII
 [/us/stat/105/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F92
-[/us/pl/102/484/s1054/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs1054%2Fc%2F1
+[/us/pl/102/484/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtX
 [/us/stat/106/2502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2502
 [/us/usc/t5/s6361/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs6361%2F1
 [/us/usc/t38/s7423/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7423%2Fe

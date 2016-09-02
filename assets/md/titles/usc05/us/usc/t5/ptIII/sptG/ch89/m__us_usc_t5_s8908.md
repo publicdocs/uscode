@@ -23,7 +23,7 @@
 
     (d) A surviving child whose survivor annuity under section 8341(e) or 8443(b) was terminated and is later restored under paragraph (4) of section 8341(e) or the last sentence of section 8443(b) may, under regulations prescribed by the Office, enroll in a health benefits plan described by section 8903 or 8903a if such surviving child was covered by any such plan immediately before such annuity was terminated.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 605][/us/stat/80/605]; [Pub. L. 94–342, § 1(a)][/us/pl/94/342/s1/a], July 6, 1976, [90 Stat. 808][/us/stat/90/808]; [Pub. L. 95–454, title IX, § 906(a)(2)][/us/pl/95/454/s906/a/2], Oct. 13, 1978, [92 Stat. 1224][/us/stat/92/1224]; [Pub. L. 99–53][/us/pl/99/53], §§ 2(a), 3(a)(1), (2)(A), June 17, 1985, [99 Stat. 94][/us/stat/99/94], 95; [Pub. L. 104–208, div. A, title I, § 101(f)][/us/pl/104/208/s101/f] \[title VI, § 633(a)(3)\], Sept. 30, 1996, [110 Stat. 3009–314][/us/stat/110/3009-314], 3009–363.)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 605][/us/stat/80/605]; [Pub. L. 94–342][/us/pl/94/342], § 1(a), July 6, 1976, [90 Stat. 808][/us/stat/90/808]; [Pub. L. 95–454, title IX][/us/pl/95/454/tIX], § 906(a)(2), Oct. 13, 1978, [92 Stat. 1224][/us/stat/92/1224]; [Pub. L. 99–53][/us/pl/99/53], §§ 2(a), 3(a)(1), (2)(A), June 17, 1985, [99 Stat. 94][/us/stat/99/94], 95; [Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(f) \[title VI, § 633(a)(3)\], Sept. 30, 1996, [110 Stat. 3009–314][/us/stat/110/3009-314], 3009–363.)
 
 <table>
 
@@ -93,11 +93,11 @@ Mar. 17, 1964, Pub. L. 88–284, § 1 (less (1)–(13)), 78 Stat. 165.  </td>
 
     1996—Subsec. (d). [Pub. L. 104–208][/us/pl/104/208] added subsec. (d).
 
-    1985—[Pub. L. 99–53, § 3(a)(2)(A)][/us/pl/99/53/s3/a/2/A], inserted “or disability” after “and survivor” in section catchline.
+    1985—[Pub. L. 99–53][/us/pl/99/53], § 3(a)(2)(A), inserted “or disability” after “and survivor” in section catchline.
 
-    Subsec. (b). [Pub. L. 99–53, § 2(a)][/us/pl/99/53/s2/a], inserted reference to [section 8903a of this title][/us/usc/t5/s8903a].
+    Subsec. (b). [Pub. L. 99–53][/us/pl/99/53], § 2(a), inserted reference to [section 8903a of this title][/us/usc/t5/s8903a].
 
-    Subsec. (c). [Pub. L. 99–53, § 3(a)(1)][/us/pl/99/53/s3/a/1], added subsec. (c).
+    Subsec. (c). [Pub. L. 99–53][/us/pl/99/53], § 3(a)(1), added subsec. (c).
 
     1978—Subsec. (b). [Pub. L. 95–454][/us/pl/95/454] substituted “Office of Personnel Management” for “Civil Service Commission”.
 
@@ -113,7 +113,7 @@ Mar. 17, 1964, Pub. L. 88–284, § 1 (less (1)–(13)), 78 Stat. 165.  </td>
 
  __Effective Date of 1976 Amendment__ 
 
-[Pub. L. 94–342, § 2][/us/pl/94/342/s2], July 6, 1976, [90 Stat. 808][/us/stat/90/808], provided that: 
+[Pub. L. 94–342][/us/pl/94/342], § 2, July 6, 1976, [90 Stat. 808][/us/stat/90/808], provided that: 
 
 > “The amendments made by the first section of this Act \[amending this section\] shall take effect on October 1, 1976, or on the date of the enactment of this Act \[July 6, 1976\], whichever date is later. Such amendments shall apply with respect to individuals whose survivor annuities are restored before, on, or after such date.”
 
@@ -131,19 +131,19 @@ Mar. 17, 1964, Pub. L. 88–284, § 1 (less (1)–(13)), 78 Stat. 165.  </td>
 [/us/usc/t5/s8337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8337
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F605
-[/us/pl/94/342/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F342%2Fs1%2Fa
+[/us/pl/94/342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F342
 [/us/stat/90/808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F808
-[/us/pl/95/454/s906/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs906%2Fa%2F2
+[/us/pl/95/454/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtIX
 [/us/stat/92/1224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1224
 [/us/pl/99/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F53
 [/us/stat/99/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F94
-[/us/pl/104/208/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Ff
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009-314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-314
 [/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
-[/us/pl/99/53/s3/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F53%2Fs3%2Fa%2F2%2FA
-[/us/pl/99/53/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F53%2Fs2%2Fa
+[/us/pl/99/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F53
+[/us/pl/99/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F53
 [/us/usc/t5/s8903a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8903a
-[/us/pl/99/53/s3/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F53%2Fs3%2Fa%2F1
+[/us/pl/99/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F53
 [/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454
 [/us/pl/94/342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F342
 [/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
@@ -152,7 +152,7 @@ Mar. 17, 1964, Pub. L. 88–284, § 1 (less (1)–(13)), 78 Stat. 165.  </td>
 [/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454
 [/us/pl/95/454/s907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs907
 [/us/usc/t5/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs1101
-[/us/pl/94/342/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F342%2Fs2
+[/us/pl/94/342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F342
 [/us/stat/90/808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F808
 [/us/usc/t5/s8337/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8337%2Fe
 [/us/usc/t5/s8337/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8337%2Fe

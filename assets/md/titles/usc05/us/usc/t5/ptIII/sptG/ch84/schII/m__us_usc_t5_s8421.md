@@ -79,7 +79,7 @@
 
     (c) An amount under this section shall, for purposes of section 8467, be treated in the same way as an amount computed under section 8415.
 
-(Added [Pub. L. 99–335, title I, § 101(a)][/us/pl/99/335/s101/a], June 6, 1986, [100 Stat. 533][/us/stat/100/533]; amended [Pub. L. 101–194, title V, § 506(b)(10)][/us/pl/101/194/s506/b/10], Nov. 30, 1989, [103 Stat. 1759][/us/stat/103/1759]; [Pub. L. 102–378, § 2(65)][/us/pl/102/378/s2/65], Oct. 2, 1992, [106 Stat. 1354][/us/stat/106/1354]; [Pub. L. 107–296, title XIII, § 1321(a)(5)(B)][/us/pl/107/296/s1321/a/5/B], Nov. 25, 2002, [116 Stat. 2297][/us/stat/116/2297].)
+(Added [Pub. L. 99–335, title I][/us/pl/99/335/tI], § 101(a), June 6, 1986, [100 Stat. 533][/us/stat/100/533]; amended [Pub. L. 101–194, title V][/us/pl/101/194/tV], § 506(b)(10), Nov. 30, 1989, [103 Stat. 1759][/us/stat/103/1759]; [Pub. L. 102–378][/us/pl/102/378], § 2(65), Oct. 2, 1992, [106 Stat. 1354][/us/stat/106/1354]; [Pub. L. 107–296, title XIII][/us/pl/107/296/tXIII], § 1321(a)(5)(B), Nov. 25, 2002, [116 Stat. 2297][/us/stat/116/2297].)
 
  __References in Text__ 
 
@@ -108,13 +108,13 @@
 ----------
 ----------
 
-[/us/pl/99/335/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2Fs101%2Fa
+[/us/pl/99/335/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2FtI
 [/us/stat/100/533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F533
-[/us/pl/101/194/s506/b/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194%2Fs506%2Fb%2F10
+[/us/pl/101/194/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194%2FtV
 [/us/stat/103/1759]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1759
-[/us/pl/102/378/s2/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378%2Fs2%2F65
+[/us/pl/102/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378
 [/us/stat/106/1354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1354
-[/us/pl/107/296/s1321/a/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1321%2Fa%2F5%2FB
+[/us/pl/107/296/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXIII
 [/us/stat/116/2297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2297
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620

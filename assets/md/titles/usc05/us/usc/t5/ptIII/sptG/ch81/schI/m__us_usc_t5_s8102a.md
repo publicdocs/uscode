@@ -91,7 +91,7 @@
 
         (2) The term “employee” has the meaning provided in [section 8101 of this title][/us/usc/t5/s8101], but also includes a nonappropriated fund instrumentality employee, as defined in [section 1587(a)(1) of title 10][/us/usc/t10/s1587/a/1].
 
-(Added [Pub. L. 110–181, div. A, title XI, § 1105(a)][/us/pl/110/181/s1105/a], Jan. 28, 2008, [122 Stat. 347][/us/stat/122/347]; amended [Pub. L. 112–81, div. A, title XI, § 1121(a)(1)][/us/pl/112/81/s1121/a/1], (b), Dec. 31, 2011, [125 Stat. 1616][/us/stat/125/1616].)
+(Added [Pub. L. 110–181, div. A, title XI][/us/pl/110/181/dA/tXI], § 1105(a), Jan. 28, 2008, [122 Stat. 347][/us/stat/122/347]; amended [Pub. L. 112–81, div. A, title XI][/us/pl/112/81/dA/tXI], § 1121(a)(1), (b), Dec. 31, 2011, [125 Stat. 1616][/us/stat/125/1616].)
 
  __References in Text__ 
 
@@ -105,13 +105,13 @@
 
  __Amendments__ 
 
-    2011—Subsec. (d)(4). [Pub. L. 112–81, § 1121(a)(1)][/us/pl/112/81/s1121/a/1], substituted “A person covered by this section may designate another person to receive an amount payable under this section.” for “Beginning on the date of the enactment of this paragraph, a person covered by this section may designate another person to receive not more than 50 percent of the amount payable under this section.” and struck out “up to the maximum of 50 percent” after “increments”.
+    2011—Subsec. (d)(4). [Pub. L. 112–81][/us/pl/112/81], § 1121(a)(1), substituted “A person covered by this section may designate another person to receive an amount payable under this section.” for “Beginning on the date of the enactment of this paragraph, a person covered by this section may designate another person to receive not more than 50 percent of the amount payable under this section.” and struck out “up to the maximum of 50 percent” after “increments”.
 
-    Subsec. (d)(6). [Pub. L. 112–81, § 1121(b)][/us/pl/112/81/s1121/b], added par. (6).
+    Subsec. (d)(6). [Pub. L. 112–81][/us/pl/112/81], § 1121(b), added par. (6).
 
  __Effective Date of 2011 Amendment__ 
 
-[Pub. L. 112–81, div. A, title XI, § 1121(a)(2)][/us/pl/112/81/s1121/a/2], Dec. 31, 2011, [125 Stat. 1616][/us/stat/125/1616], provided that: 
+[Pub. L. 112–81, div. A, title XI][/us/pl/112/81/dA/tXI], § 1121(a)(2), Dec. 31, 2011, [125 Stat. 1616][/us/stat/125/1616], provided that: 
 
 > “The amendments made by this subsection \[amending this section\] shall take effect on the date of enactment of this Act \[Dec. 31, 2011\] and apply to the payment of a death gratuity based on any death occurring on or after that date.”
 
@@ -125,18 +125,18 @@
 [/us/usc/t10/s1482a/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1482a%2Fc
 [/us/usc/t5/s8101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8101
 [/us/usc/t10/s1587/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1587%2Fa%2F1
-[/us/pl/110/181/s1105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1105%2Fa
+[/us/pl/110/181/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtXI
 [/us/stat/122/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F347
-[/us/pl/112/81/s1121/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1121%2Fa%2F1
+[/us/pl/112/81/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtXI
 [/us/stat/125/1616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1616
 [/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
 [/us/usc/t22/s3973]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3973
 [/us/pl/109/234/s1603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F234%2Fs1603
 [/us/stat/120/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F443
 [/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
-[/us/pl/112/81/s1121/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1121%2Fa%2F1
-[/us/pl/112/81/s1121/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1121%2Fb
-[/us/pl/112/81/s1121/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1121%2Fa%2F2
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtXI
 [/us/stat/125/1616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1616
 
 

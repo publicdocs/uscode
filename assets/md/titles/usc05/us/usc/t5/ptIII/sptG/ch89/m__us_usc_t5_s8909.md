@@ -55,7 +55,7 @@
 
     (g) The fund described in subsection (a) is available to pay costs that the Office incurs for activities associated with implementation of the demonstration project under [section 1108 of title 10][/us/usc/t10/s1108].
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 605][/us/stat/80/605]; [Pub. L. 95–454, title IX, § 906(a)(2)][/us/pl/95/454/s906/a/2], (3), Oct. 13, 1978, [92 Stat. 1224][/us/stat/92/1224]; [Pub. L. 98–615, § 3(6)][/us/pl/98/615/s3/6], Nov. 8, 1984, [98 Stat. 3204][/us/stat/98/3204]; [Pub. L. 99–53, § 2(e)][/us/pl/99/53/s2/e], (f), June 17, 1985, [99 Stat. 94][/us/stat/99/94]; [Pub. L. 99–251, title I, § 101][/us/pl/99/251/s101], Feb. 27, 1986, [100 Stat. 14][/us/stat/100/14]; [Pub. L. 100–654, title II, § 202(a)][/us/pl/100/654/s202/a], Nov. 14, 1988, [102 Stat. 3845][/us/stat/102/3845]; [Pub. L. 101–508, title VII, § 7002(b)][/us/pl/101/508/s7002/b], (c), Nov. 5, 1990, [104 Stat. 1388–330][/us/stat/104/1388-330]; [Pub. L. 105–261, div. A, title VII, § 721(b)(4)][/us/pl/105/261/s721/b/4], Oct. 17, 1998, [112 Stat. 2065][/us/stat/112/2065]; [Pub. L. 105–266, § 6(b)(1)][/us/pl/105/266/s6/b/1], Oct. 19, 1998, [112 Stat. 2369][/us/stat/112/2369].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 605][/us/stat/80/605]; [Pub. L. 95–454, title IX][/us/pl/95/454/tIX], § 906(a)(2), (3), Oct. 13, 1978, [92 Stat. 1224][/us/stat/92/1224]; [Pub. L. 98–615][/us/pl/98/615], § 3(6), Nov. 8, 1984, [98 Stat. 3204][/us/stat/98/3204]; [Pub. L. 99–53][/us/pl/99/53], § 2(e), (f), June 17, 1985, [99 Stat. 94][/us/stat/99/94]; [Pub. L. 99–251, title I][/us/pl/99/251/tI], § 101, Feb. 27, 1986, [100 Stat. 14][/us/stat/100/14]; [Pub. L. 100–654, title II][/us/pl/100/654/tII], § 202(a), Nov. 14, 1988, [102 Stat. 3845][/us/stat/102/3845]; [Pub. L. 101–508, title VII][/us/pl/101/508/tVII], § 7002(b), (c), Nov. 5, 1990, [104 Stat. 1388–330][/us/stat/104/1388-330]; [Pub. L. 105–261, div. A, title VII][/us/pl/105/261/dA/tVII], § 721(b)(4), Oct. 17, 1998, [112 Stat. 2065][/us/stat/112/2065]; [Pub. L. 105–266][/us/pl/105/266], § 6(b)(1), Oct. 19, 1998, [112 Stat. 2369][/us/stat/112/2369].)
 
 <table>
 
@@ -149,21 +149,21 @@ Sept. 23, 1959, Pub. L. 86–382, § 9(b), 73 Stat. 715.  </td>
 
     Subsec. (g). [Pub. L. 105–261][/us/pl/105/261] added subsec. (g).
 
-    1990—Subsec. (a). [Pub. L. 101–508, § 7002(b)][/us/pl/101/508/s7002/b], inserted at end “Payments from the Fund to a plan participating in a letter-of-credit arrangement under this chapter shall, in connection with any payment or reimbursement to be made by such plan for a health service or supply, be made, to the maximum extent practicable, on a checks-presented basis (as defined under regulations of the Department of the Treasury).”
+    1990—Subsec. (a). [Pub. L. 101–508][/us/pl/101/508], § 7002(b), inserted at end “Payments from the Fund to a plan participating in a letter-of-credit arrangement under this chapter shall, in connection with any payment or reimbursement to be made by such plan for a health service or supply, be made, to the maximum extent practicable, on a checks-presented basis (as defined under regulations of the Department of the Treasury).”
 
-    Subsec. (f). [Pub. L. 101–508, § 7002(c)][/us/pl/101/508/s7002/c], added subsec. (f).
+    Subsec. (f). [Pub. L. 101–508][/us/pl/101/508], § 7002(c), added subsec. (f).
 
     1988—Subsec. (d). [Pub. L. 100–654][/us/pl/100/654] substituted “former spouse, or person having continued coverage under [section 8905a of this title][/us/usc/t5/s8905a]” for “or former spouse” in two places.
 
     1986—Subsec. (b). [Pub. L. 99–251][/us/pl/99/251] substituted “enrollees” for “employees” in last sentence.
 
-    1985—Subsec. (d). [Pub. L. 99–53, § 2(e)][/us/pl/99/53/s2/e], substituted “section 8903(3) or 8903a” for “section 8903(3)” and inserted provision directing that if the successor organization is an organization described in [section 8901(8)(B) of this title][/us/usc/t5/s8901/8/B], any transferred employee, annuitant, or former spouse may not remain enrolled in the plan after the end of the contract term in which the merger occurs unless the individual is a full member of such organization (as determined under [section 8903a(d) of this title][/us/usc/t5/s8903a/d]).
+    1985—Subsec. (d). [Pub. L. 99–53][/us/pl/99/53], § 2(e), substituted “section 8903(3) or 8903a” for “section 8903(3)” and inserted provision directing that if the successor organization is an organization described in [section 8901(8)(B) of this title][/us/usc/t5/s8901/8/B], any transferred employee, annuitant, or former spouse may not remain enrolled in the plan after the end of the contract term in which the merger occurs unless the individual is a full member of such organization (as determined under [section 8903a(d) of this title][/us/usc/t5/s8903a/d]).
 
-    Subsec. (e). [Pub. L. 99–53, § 2(f)][/us/pl/99/53/s2/f], inserted “or 8903a” before “of this title”.
+    Subsec. (e). [Pub. L. 99–53][/us/pl/99/53], § 2(f), inserted “or 8903a” before “of this title”.
 
-    1984—Subsecs. (a), (b). [Pub. L. 98–615, § 3(6)(A)][/us/pl/98/615/s3/6/A], substituted “enrollees” for “employees, annuitants,” in provisions preceding par. (1).
+    1984—Subsecs. (a), (b). [Pub. L. 98–615][/us/pl/98/615], § 3(6)(A), substituted “enrollees” for “employees, annuitants,” in provisions preceding par. (1).
 
-    Subsec. (d). [Pub. L. 98–615, § 3(6)(B)][/us/pl/98/615/s3/6/B], substituted “Each employee, annuitant, or former spouse” for “Each employee or annuitant”.
+    Subsec. (d). [Pub. L. 98–615][/us/pl/98/615], § 3(6)(B), substituted “Each employee, annuitant, or former spouse” for “Each employee or annuitant”.
 
     1978—Subsecs. (a), (b). [Pub. L. 95–454][/us/pl/95/454] substituted “Office of Personnel Management” for “Civil Service Commission” and “Office” for “Commission” wherever appearing.
 
@@ -185,7 +185,7 @@ Sept. 23, 1959, Pub. L. 86–382, § 9(b), 73 Stat. 715.  </td>
 
  __Disposal of Amounts Remaining as of__  __October 19, 1998__  __, in Contingency Reserve of Discontinued Plan__ 
 
-[Pub. L. 105–266, § 6(b)(2)][/us/pl/105/266/s6/b/2], Oct. 19, 1998, [112 Stat. 2369][/us/stat/112/2369], provided that: 
+[Pub. L. 105–266][/us/pl/105/266], § 6(b)(2), Oct. 19, 1998, [112 Stat. 2369][/us/stat/112/2369], provided that: 
 
 > “In the case of any amounts remaining as of the date of the enactment of this Act \[Oct. 19, 1998\] in the contingency reserve of a discontinued plan, such amounts shall be disposed of in accordance with [section 8909(e) of title 5][/us/usc/t5/s8909/e], United States Code, as amended by this subsection, by—
 
@@ -195,7 +195,7 @@ Sept. 23, 1959, Pub. L. 86–382, § 9(b), 73 Stat. 715.  </td>
 
  __Amounts To Be Refunded From Carriers’ Special Reserves__ 
 
-[Pub. L. 99–272, title XV, § 15202(a)][/us/pl/99/272/s15202/a], Apr. 7, 1986, [100 Stat. 333][/us/stat/100/333], provided that:
+[Pub. L. 99–272, title XV][/us/pl/99/272/tXV], § 15202(a), Apr. 7, 1986, [100 Stat. 333][/us/stat/100/333], provided that:
 
 >     “(1)
 
@@ -233,7 +233,7 @@ Sept. 23, 1959, Pub. L. 86–382, § 9(b), 73 Stat. 715.  </td>
 
  __Restrictions Relating to Amounts Refunded to Employees Health Benefits Fund From Carriers’ Special Reserves__ 
 
-[Pub. L. 99–251, title I, § 112][/us/pl/99/251/s112], Feb. 27, 1986, [100 Stat. 19][/us/stat/100/19], provided that:
+[Pub. L. 99–251, title I][/us/pl/99/251/tI], § 112, Feb. 27, 1986, [100 Stat. 19][/us/stat/100/19], provided that:
 
 >     “(a)  __Prohibited Transfers__  __.—__ 
 
@@ -278,35 +278,35 @@ Sept. 23, 1959, Pub. L. 86–382, § 9(b), 73 Stat. 715.  </td>
 [/us/usc/t10/s1108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1108
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F605
-[/us/pl/95/454/s906/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs906%2Fa%2F2
+[/us/pl/95/454/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtIX
 [/us/stat/92/1224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1224
-[/us/pl/98/615/s3/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F615%2Fs3%2F6
+[/us/pl/98/615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F615
 [/us/stat/98/3204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3204
-[/us/pl/99/53/s2/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F53%2Fs2%2Fe
+[/us/pl/99/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F53
 [/us/stat/99/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F94
-[/us/pl/99/251/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F251%2Fs101
+[/us/pl/99/251/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F251%2FtI
 [/us/stat/100/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F14
-[/us/pl/100/654/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F654%2Fs202%2Fa
+[/us/pl/100/654/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F654%2FtII
 [/us/stat/102/3845]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3845
-[/us/pl/101/508/s7002/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs7002%2Fb
+[/us/pl/101/508/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtVII
 [/us/stat/104/1388-330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-330
-[/us/pl/105/261/s721/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs721%2Fb%2F4
+[/us/pl/105/261/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdA%2FtVII
 [/us/stat/112/2065]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2065
-[/us/pl/105/266/s6/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F266%2Fs6%2Fb%2F1
+[/us/pl/105/266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F266
 [/us/stat/112/2369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2369
 [/us/pl/105/266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F266
 [/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
-[/us/pl/101/508/s7002/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs7002%2Fb
-[/us/pl/101/508/s7002/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs7002%2Fc
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/pl/100/654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F654
 [/us/usc/t5/s8905a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8905a
 [/us/pl/99/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F251
-[/us/pl/99/53/s2/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F53%2Fs2%2Fe
+[/us/pl/99/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F53
 [/us/usc/t5/s8901/8/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8901%2F8%2FB
 [/us/usc/t5/s8903a/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8903a%2Fd
-[/us/pl/99/53/s2/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F53%2Fs2%2Ff
-[/us/pl/98/615/s3/6/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F615%2Fs3%2F6%2FA
-[/us/pl/98/615/s3/6/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F615%2Fs3%2F6%2FB
+[/us/pl/99/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F53
+[/us/pl/98/615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F615
+[/us/pl/98/615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F615
 [/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/pl/101/508/s7002/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs7002%2Fg
@@ -320,17 +320,17 @@ Sept. 23, 1959, Pub. L. 86–382, § 9(b), 73 Stat. 715.  </td>
 [/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454
 [/us/pl/95/454/s907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs907
 [/us/usc/t5/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs1101
-[/us/pl/105/266/s6/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F266%2Fs6%2Fb%2F2
+[/us/pl/105/266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F266
 [/us/stat/112/2369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2369
 [/us/usc/t5/s8909/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8909%2Fe
-[/us/pl/99/272/s15202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs15202%2Fa
+[/us/pl/99/272/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2FtXV
 [/us/stat/100/333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F333
 [/us/usc/t5/s8909/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8909%2Fa
 [/us/usc/t5/s8901/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8901%2F3
 [/us/usc/t5/s8906/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8906%2Fb
 [/us/pl/99/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F251
 [/us/usc/t5/s8901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8901
-[/us/pl/99/251/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F251%2Fs112
+[/us/pl/99/251/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F251%2FtI
 [/us/stat/100/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F19
 [/us/usc/t5/s8906/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8906%2Fb
 [/us/usc/t5/s8909/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8909%2Fa

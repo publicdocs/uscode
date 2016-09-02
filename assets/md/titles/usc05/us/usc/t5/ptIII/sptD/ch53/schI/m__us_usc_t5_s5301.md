@@ -25,7 +25,7 @@
 
     (4) any existing pay disparities between Federal and non-Federal employees should be completely eliminated.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 458][/us/stat/80/458]; [Pub. L. 91–656, § 2(a)][/us/pl/91/656/s2/a], Jan. 8, 1971, [84 Stat. 1946][/us/stat/84/1946]; [Pub. L. 96–465, title II, § 2314(c)(1)][/us/pl/96/465/s2314/c/1], Oct. 17, 1980, [94 Stat. 2167][/us/stat/94/2167]; [Pub. L. 101–509, title V, § 529][/us/pl/101/509/s529] \[title I, § 101(a)(1)\], Nov. 5, 1990, [104 Stat. 1427][/us/stat/104/1427], 1429.)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 458][/us/stat/80/458]; [Pub. L. 91–656][/us/pl/91/656], § 2(a), Jan. 8, 1971, [84 Stat. 1946][/us/stat/84/1946]; [Pub. L. 96–465, title II][/us/pl/96/465/tII], § 2314(c)(1), Oct. 17, 1980, [94 Stat. 2167][/us/stat/94/2167]; [Pub. L. 101–509, title V][/us/pl/101/509/tV], § 529 \[title I, § 101(a)(1)\], Nov. 5, 1990, [104 Stat. 1427][/us/stat/104/1427], 1429.)
 
 <table>
 
@@ -125,19 +125,19 @@ Section 529 \[title III, § 305\] of [Pub. L. 101–509][/us/pl/101/509] provi
 
  __Short Title of 2000 Amendment__ 
 
-[Pub. L. 106–554, § 1(a)(4)][/us/pl/106/554/s1/a/4] \[div. B, title IX, § 901\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–303, provided that: 
+[Pub. L. 106–554][/us/pl/106/554], § 1(a)(4) \[div. B, title IX, § 901\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–303, provided that: 
 
 > “This title \[enacting provisions set out as notes under sections 5304 and 5305 of this title and [section 204 of Title 3][/us/usc/t3/s204], The President, and amending provisions set out as a note under [section 5305 of this title][/us/usc/t5/s5305]\] may be cited as the ‘Law Enforcement Pay Equity Act of 2000’.”
 
  __Short Title of 1993 Amendment__ 
 
-[Pub. L. 103–89, § 1][/us/pl/103/89/s1], Sept. 30, 1993, [107 Stat. 981][/us/stat/107/981], provided that: 
+[Pub. L. 103–89][/us/pl/103/89], § 1, Sept. 30, 1993, [107 Stat. 981][/us/stat/107/981], provided that: 
 
 > “This Act \[amending sections 3372, 4501, 4502, 5302, 5332, 5334 to 5336, 5361 to 5363, 5410, 5948, and 8473 of this title, sections 1602, 1732, and 1733 of Title 10, Armed Forces, and [section 731 of Title 31][/us/usc/t31/s731], Money and Finance, repealing sections 4302a and 5401 to 5410 of this title, enacting provisions set out as notes under sections 3372, 5335, 5401, and 5410 of this title, and amending provisions set out as a note under [section 5304 of this title][/us/usc/t5/s5304]\] may be cited as the ‘Performance Management and Recognition System Termination Act’.”
 
  __Short Title of 1990 Amendment; Rules of Construction__ 
 
-[Pub. L. 101–509, title V, § 529][/us/pl/101/509/s529] \[§ 1\], Nov. 5, 1990, [104 Stat. 1427][/us/stat/104/1427], provided that:
+[Pub. L. 101–509, title V][/us/pl/101/509/tV], § 529 \[§ 1\], Nov. 5, 1990, [104 Stat. 1427][/us/stat/104/1427], provided that:
 
 >     “(a)  __Short Title__  __.—__ 
 
@@ -149,19 +149,19 @@ Section 529 \[title III, § 305\] of [Pub. L. 101–509][/us/pl/101/509] provi
 
 >         “(2) Except as otherwise expressly provided, any reference (actual or implicit) in any provision of this Act outside of FEPCA to ‘this Act’ (or to any title, section, or other designated provision of ‘this Act’), and any reference made in any provision of law outside of this Act to the ‘Treasury, Postal Service and General Government Appropriations Act, 1991’ \[[Pub. L. 101–509][/us/pl/101/509]\] (or to any title, section, or other designated provision of such Act), shall be construed disregarding the provisions of FEPCA.”
 
-[Pub. L. 101–509, title V, § 529][/us/pl/101/509/s529] \[title III, § 306\], Nov. 5, 1990, [104 Stat. 1427][/us/stat/104/1427], 1464, provided that: 
+[Pub. L. 101–509, title V][/us/pl/101/509/tV], § 529 \[title III, § 306\], Nov. 5, 1990, [104 Stat. 1427][/us/stat/104/1427], 1464, provided that: 
 
 > “Notwithstanding section 1(b) \[section 529 \[§ 1(b)\] of [Pub. L. 101–509][/us/pl/101/509], set out above\], a reference in any of the preceding provisions of this title \[section 529 \[title III, §§ 301–305\] of [Pub. L. 101–509][/us/pl/101/509], enacting [section 237 of Title 42][/us/usc/t42/s237], The Public Health and Welfare, amending [section 212 of Title 42][/us/usc/t42/s212], and enacting provisions set out as notes under this section, [section 5304 of this title][/us/usc/t5/s5304], and [section 212 of Title 42][/us/usc/t42/s212]\] to ‘this Act’ \[[section 529 of Pub. L. 101–509][/us/pl/101/509/s529]\] (other than a reference in section 301) \[section 529 \[title III, § 301\] of [Pub. L. 101–509][/us/pl/101/509], set out below\] shall not be considered to include any provision of title IV \[section 529 \[title IV, §§ 401–412\] of [Pub. L. 101–509][/us/pl/101/509], enacting sections 4521 to 4523 of this title, amending sections 5541, 5542, 5547, 8335, and 8425 of this title, enacting provisions set out as notes under sections 4521, 5305, 5541, and 8335 of this title, and amending provisions set out as a note under [section 5541 of this title][/us/usc/t5/s5541]\].”
 
  __Short Title__ 
 
-[Pub. L. 91–656, § 1][/us/pl/91/656/s1], Jan. 8, 1971, [84 Stat. 1946][/us/stat/84/1946], provided that: 
+[Pub. L. 91–656][/us/pl/91/656], § 1, Jan. 8, 1971, [84 Stat. 1946][/us/stat/84/1946], provided that: 
 
 > “This Act \[enacting sections 5305 to 5308 and 5947 of this title, amending this section, sections 5108 and 5942 of this title, and [section 410 of Title 39][/us/usc/t39/s410], Postal Service, repealing [section 5302 of this title][/us/usc/t5/s5302], and enacting provisions set out as notes under sections 5303 and 5942 of this title, [section 60a of Title 2][/us/usc/t2/s60a], The Congress, and [section 410 of Title 39][/us/usc/t39/s410]\] may be cited as the ‘Federal Pay Comparability Act of 1970’.”
 
  __Pay-for-Performance Labor-Management Committee__ 
 
-[Pub. L. 101–509, title V, § 529][/us/pl/101/509/s529] \[title I, § 111\], Nov. 5, 1990, [104 Stat. 1453][/us/stat/104/1453], provided that:
+[Pub. L. 101–509, title V][/us/pl/101/509/tV], § 529 \[title I, § 111\], Nov. 5, 1990, [104 Stat. 1453][/us/stat/104/1453], provided that:
 
 >     “(a)  __Policy__  __.—__ 
 
@@ -223,13 +223,13 @@ Section 529 \[title III, § 305\] of [Pub. L. 101–509][/us/pl/101/509] provi
 
  __Budget Act Compliance__ 
 
-[Pub. L. 101–509, title V, § 529][/us/pl/101/509/s529] \[title III, § 301\], Nov. 5, 1990, [104 Stat. 1461][/us/stat/104/1461], provided that: 
+[Pub. L. 101–509, title V][/us/pl/101/509/tV], § 529 \[title III, § 301\], Nov. 5, 1990, [104 Stat. 1461][/us/stat/104/1461], provided that: 
 
 > “For purposes of the Congressional Budget Act of 1974 \[titles I through IX, of [Pub. L. 93–344][/us/pl/93/344], July 12, 1974, [88 Stat. 297][/us/stat/88/297], see Tables for classification\], any authority to make payments under this Act or any amendment made by this Act \[see Short Title of 1990 Amendment note above\] shall be effective only to the extent provided for in advance in appropriation Acts.”
 
  __Pay Rates for Current Employees__ 
 
-[Pub. L. 101–509, title V, § 529][/us/pl/101/509/s529] \[title III, § 303\], Nov. 5, 1990, [104 Stat. 1463][/us/stat/104/1463], provided that: 
+[Pub. L. 101–509, title V][/us/pl/101/509/tV], § 529 \[title III, § 303\], Nov. 5, 1990, [104 Stat. 1463][/us/stat/104/1463], provided that: 
 
 > “Nothing in this Act or in any amendment made by this Act \[see Short Title of 1990 Amendment note above\] shall have the effect of diminishing the rate of basic pay payable to any individual employed by the United States on the date of the enactment of this Act \[Nov. 5, 1990\] to a rate below the rate payable to such individual on such date, so long as that individual continues in such position without a break in service.”
 
@@ -278,11 +278,11 @@ Section 529 \[title III, § 305\] of [Pub. L. 101–509][/us/pl/101/509] provi
 
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F458
-[/us/pl/91/656/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F656%2Fs2%2Fa
+[/us/pl/91/656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F656
 [/us/stat/84/1946]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1946
-[/us/pl/96/465/s2314/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs2314%2Fc%2F1
+[/us/pl/96/465/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtII
 [/us/stat/94/2167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2167
-[/us/pl/101/509/s529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2Fs529
+[/us/pl/101/509/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2FtV
 [/us/stat/104/1427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1427
 [/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509
 [/us/pl/96/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465
@@ -294,19 +294,19 @@ Section 529 \[title III, § 305\] of [Pub. L. 101–509][/us/pl/101/509] provi
 [/us/pl/96/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465
 [/us/pl/96/465/s2403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs2403
 [/us/usc/t22/s3901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3901
-[/us/pl/106/554/s1/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F4
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 [/us/usc/t3/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs204
 [/us/usc/t5/s5305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5305
-[/us/pl/103/89/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F89%2Fs1
+[/us/pl/103/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F89
 [/us/stat/107/981]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F981
 [/us/usc/t31/s731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs731
 [/us/usc/t5/s5304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5304
-[/us/pl/101/509/s529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2Fs529
+[/us/pl/101/509/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2FtV
 [/us/stat/104/1427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1427
 [/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509
 [/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509
-[/us/pl/101/509/s529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2Fs529
+[/us/pl/101/509/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2FtV
 [/us/stat/104/1427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1427
 [/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509
 [/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509
@@ -318,19 +318,19 @@ Section 529 \[title III, § 305\] of [Pub. L. 101–509][/us/pl/101/509] provi
 [/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509
 [/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509
 [/us/usc/t5/s5541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5541
-[/us/pl/91/656/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F656%2Fs1
+[/us/pl/91/656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F656
 [/us/stat/84/1946]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1946
 [/us/usc/t39/s410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs410
 [/us/usc/t5/s5302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5302
 [/us/usc/t2/s60a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs60a
 [/us/usc/t39/s410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs410
-[/us/pl/101/509/s529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2Fs529
+[/us/pl/101/509/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2FtV
 [/us/stat/104/1453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1453
-[/us/pl/101/509/s529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2Fs529
+[/us/pl/101/509/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2FtV
 [/us/stat/104/1461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1461
 [/us/pl/93/344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F344
 [/us/stat/88/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F297
-[/us/pl/101/509/s529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2Fs529
+[/us/pl/101/509/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2FtV
 [/us/stat/104/1463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1463
 [/us/pl/101/509/s529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2Fs529
 [/us/usc/t5/s5303/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5303%2Fg

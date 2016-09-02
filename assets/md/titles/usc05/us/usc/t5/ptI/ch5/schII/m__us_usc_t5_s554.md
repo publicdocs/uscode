@@ -69,7 +69,7 @@
 
     (e) The agency, with like effect as in the case of other orders, and in its sound discretion, may issue a declaratory order to terminate a controversy or remove uncertainty.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 384][/us/stat/80/384]; [Pub. L. 95–251, § 2(a)(1)][/us/pl/95/251/s2/a/1], Mar. 27, 1978, [92 Stat. 183][/us/stat/92/183].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 384][/us/stat/80/384]; [Pub. L. 95–251][/us/pl/95/251], § 2(a)(1), Mar. 27, 1978, [92 Stat. 183][/us/stat/92/183].)
 
 <table>
 
@@ -154,7 +154,7 @@ June 11, 1946, ch. 324, § 5, 60 Stat. 239.  </td>
 [/us/usc/t5/s557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs557
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F384
-[/us/pl/95/251/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F251%2Fs2%2Fa%2F1
+[/us/pl/95/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F251
 [/us/stat/92/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F183
 [/us/usc/t7/s2246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2246
 [/us/pl/95/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F251

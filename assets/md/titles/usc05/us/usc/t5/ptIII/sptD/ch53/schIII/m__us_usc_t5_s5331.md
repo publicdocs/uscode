@@ -19,7 +19,7 @@
 
     (b) This subchapter applies to employees and positions to which chapter 51 applies, other than Senior Executive Service positions, positions in the Federal Bureau of Investigation and Drug Enforcement Administration Senior Executive Service, and positions to which section 5376 applies.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 467][/us/stat/80/467]; [Pub. L. 95–454, title IV, § 408(b)(2)][/us/pl/95/454/s408/b/2], Oct. 13, 1978, [92 Stat. 1173][/us/stat/92/1173]; [Pub. L. 100–325, § 2(h)(3)][/us/pl/100/325/s2/h/3], May 30, 1988, [102 Stat. 582][/us/stat/102/582]; [Pub. L. 101–509, title V, § 529][/us/pl/101/509/s529] \[title I, § 102(c)\], Nov. 5, 1990, [104 Stat. 1427][/us/stat/104/1427], 1444.)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 467][/us/stat/80/467]; [Pub. L. 95–454, title IV][/us/pl/95/454/tIV], § 408(b)(2), Oct. 13, 1978, [92 Stat. 1173][/us/stat/92/1173]; [Pub. L. 100–325][/us/pl/100/325], § 2(h)(3), May 30, 1988, [102 Stat. 582][/us/stat/102/582]; [Pub. L. 101–509, title V][/us/pl/101/509/tV], § 529 \[title I, § 102(c)\], Nov. 5, 1990, [104 Stat. 1427][/us/stat/104/1427], 1444.)
 
  __Historical and Revision Notes__ 
 
@@ -55,11 +55,11 @@
 [/us/usc/t5/s5102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5102
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F467
-[/us/pl/95/454/s408/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs408%2Fb%2F2
+[/us/pl/95/454/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtIV
 [/us/stat/92/1173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1173
-[/us/pl/100/325/s2/h/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F325%2Fs2%2Fh%2F3
+[/us/pl/100/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F325
 [/us/stat/102/582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F582
-[/us/pl/101/509/s529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2Fs529
+[/us/pl/101/509/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2FtV
 [/us/stat/104/1427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1427
 [/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509
 [/us/pl/100/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F325

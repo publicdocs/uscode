@@ -27,7 +27,7 @@
 
     (c) The Office of Personnel Management may prescribe regulations for the administration of this section.
 
-(Added [Pub. L. 103–329, title VI, § 629(a)(1)][/us/pl/103/329/s629/a/1], Sept. 30, 1994, [108 Stat. 2423][/us/stat/108/2423]; amended [Pub. L. 106–56, § 1(b)][/us/pl/106/56/s1/b], Sept. 24, 1999, [113 Stat. 407][/us/stat/113/407].)
+(Added [Pub. L. 103–329, title VI][/us/pl/103/329/tVI], § 629(a)(1), Sept. 30, 1994, [108 Stat. 2423][/us/stat/108/2423]; amended [Pub. L. 106–56][/us/pl/106/56], § 1(b), Sept. 24, 1999, [113 Stat. 407][/us/stat/113/407].)
 
  __Codification__ 
 
@@ -44,9 +44,9 @@
 ----------
 ----------
 
-[/us/pl/103/329/s629/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F329%2Fs629%2Fa%2F1
+[/us/pl/103/329/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F329%2FtVI
 [/us/stat/108/2423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2423
-[/us/pl/106/56/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F56%2Fs1%2Fb
+[/us/pl/106/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F56
 [/us/stat/113/407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F407
 [/us/usc/t5/s6328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs6328
 [/us/pl/106/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F56

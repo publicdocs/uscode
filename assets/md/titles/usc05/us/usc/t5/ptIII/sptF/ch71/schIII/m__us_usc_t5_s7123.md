@@ -31,7 +31,7 @@
 
     (d) The Authority may, upon issuance of a complaint as provided in [section 7118 of this title][/us/usc/t5/s7118] charging that any person has engaged in or is engaging in an unfair labor practice, petition any United States district court within any district in which the unfair labor practice in question is alleged to have occurred or in which such person resides or transacts business for appropriate temporary relief (including a restraining order). Upon the filing of the petition, the court shall cause notice thereof to be served upon the person, and thereupon shall have jurisdiction to grant any temporary relief (including a temporary restraining order) it considers just and proper. A court shall not grant any temporary relief under this section if it would interfere with the ability of the agency to carry out its essential functions or if the Authority fails to establish probable cause that an unfair labor practice is being committed.
 
-(Added [Pub. L. 95–454, title VII, § 701][/us/pl/95/454/s701], Oct. 13, 1978, [92 Stat. 1213][/us/stat/92/1213].)
+(Added [Pub. L. 95–454, title VII][/us/pl/95/454/tVII], § 701, Oct. 13, 1978, [92 Stat. 1213][/us/stat/92/1213].)
 
  __Partial Suspension of Federal Service Labor-Management Relations__ 
 
@@ -51,7 +51,7 @@
 [/us/usc/t5/s706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs706
 [/us/usc/t28/s1254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1254
 [/us/usc/t5/s7118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs7118
-[/us/pl/95/454/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs701
+[/us/pl/95/454/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtVII
 [/us/stat/92/1213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1213
 [/us/usc/t5/s7103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs7103
 

@@ -39,7 +39,7 @@
 
     (d) For the purpose of this section, an individual shall be considered a full member of an organization if such individual is eligible to exercise all rights and privileges incident to full membership in such organization (determined without regard to the right to hold elected office).
 
-(Added [Pub. L. 99–53, § 1(b)(1)][/us/pl/99/53/s1/b/1], June 17, 1985, [99 Stat. 93][/us/stat/99/93].)
+(Added [Pub. L. 99–53][/us/pl/99/53], § 1(b)(1), June 17, 1985, [99 Stat. 93][/us/stat/99/93].)
 
 ----------
 
@@ -52,7 +52,7 @@
 [/us/usc/t5/s8901/8/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8901%2F8%2FB
 [/us/usc/t5/s8904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8904
 [/us/usc/t5/s8903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8903
-[/us/pl/99/53/s1/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F53%2Fs1%2Fb%2F1
+[/us/pl/99/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F53
 [/us/stat/99/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F93
 
 

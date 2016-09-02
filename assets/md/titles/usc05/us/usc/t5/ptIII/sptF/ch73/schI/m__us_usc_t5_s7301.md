@@ -71,13 +71,13 @@ R.S. § 1753 (last 16 words).  </td>
 
  __Short Title of 1993 Amendment__ 
 
-[Pub. L. 103–94, § 1][/us/pl/103/94/s1], Oct. 6, 1993, [107 Stat. 1001][/us/stat/107/1001], provided: 
+[Pub. L. 103–94][/us/pl/103/94], § 1, Oct. 6, 1993, [107 Stat. 1001][/us/stat/107/1001], provided: 
 
 > “That this Act \[enacting sections 5520a and 7321 to 7326 of this title and [section 610 of Title 18][/us/usc/t18/s610], Crimes and Criminal Procedure, amending sections 1216, 2302, 3302 and 3303 of this title, sections 602 and 603 of Title 18, [section 410 of Title 39][/us/usc/t39/s410], Postal Service, and sections 1973d and 9904 of Title 42, The Public Health and Welfare, omitting former sections 7321 to 7328 of this title, and enacting provisions set out as notes under [section 7321 of this title][/us/usc/t5/s7321] and [section 410 of Title 39][/us/usc/t39/s410]\] may be cited as the ‘Hatch Act Reform Amendments of 1993’.”
 
  __Short Title of 1986 Amendment__ 
 
-[Pub. L. 99–570, title VI, § 6001][/us/pl/99/570/s6001], Oct. 27, 1986, [100 Stat. 3207–157][/us/stat/100/3207-157], provided that: 
+[Pub. L. 99–570, title VI][/us/pl/99/570/tVI], § 6001, Oct. 27, 1986, [100 Stat. 3207–157][/us/stat/100/3207-157], provided that: 
 
 > “This title \[enacting sections 7361 to 7363 and 7904 of this title, amending sections 290dd–1 and 290ee–1 of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under [section 7361 of this title][/us/usc/t5/s7361] and [section 801 of Title 21][/us/usc/t21/s801], Food and Drugs\] may be cited as the ‘Federal Employee Substance Abuse Education and Treatment Act of 1986’.”
 
@@ -87,7 +87,7 @@ R.S. § 1753 (last 16 words).  </td>
 
  __Continuation of Random Drug Testing Program for Certain Department of Defense Employees__ 
 
-[Pub. L. 105–261, div. A, title XI, § 1108][/us/pl/105/261/s1108], Oct. 17, 1998, [112 Stat. 2142][/us/stat/112/2142], provided that:
+[Pub. L. 105–261, div. A, title XI][/us/pl/105/261/dA/tXI], § 1108, Oct. 17, 1998, [112 Stat. 2142][/us/stat/112/2142], provided that:
 
 >     “(a)  __Continuation of Existing Program__  __.—__ 
 
@@ -107,21 +107,21 @@ R.S. § 1753 (last 16 words).  </td>
 
  __Annual Certification of Drug-Free Workplace Plan Administrators__ 
 
-[Pub. L. 106–58, title VI, § 624][/us/pl/106/58/s624], Sept. 29, 1999, [113 Stat. 471][/us/stat/113/471], provided that: 
+[Pub. L. 106–58, title VI][/us/pl/106/58/tVI], § 624, Sept. 29, 1999, [113 Stat. 471][/us/stat/113/471], provided that: 
 
 > “Notwithstanding any provision of law, the President, or his designee, must certify to Congress, annually, that no person or persons with direct or indirect responsibility for administering the Executive Office of the President’s Drug-Free Workplace Plan are themselves subject to a program of individual random drug testing.”
 
 Similar provisions were contained in the following prior appropriations acts:
 
-    [Pub. L. 105–277, div. A, § 101(h)][/us/pl/105/277/s101/h] \[title VI, § 634\], Oct. 21, 1998, [112 Stat. 2681–480][/us/stat/112/2681-480], 2681–524.
+    [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(h) \[title VI, § 634\], Oct. 21, 1998, [112 Stat. 2681–480][/us/stat/112/2681-480], 2681–524.
 
-    [Pub. L. 105–61, title VI, § 621][/us/pl/105/61/s621], Oct. 10, 1997, [111 Stat. 1313][/us/stat/111/1313].
+    [Pub. L. 105–61, title VI][/us/pl/105/61/tVI], § 621, Oct. 10, 1997, [111 Stat. 1313][/us/stat/111/1313].
 
-    [Pub. L. 104–208, div. A, title I, § 101(f)][/us/pl/104/208/s101/f] \[title VI, § 623\], Sept. 30, 1996, [110 Stat. 3009–314][/us/stat/110/3009-314], 3009–358.
+    [Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(f) \[title VI, § 623\], Sept. 30, 1996, [110 Stat. 3009–314][/us/stat/110/3009-314], 3009–358.
 
-    [Pub. L. 104–52, title VI, § 624][/us/pl/104/52/s624], Nov. 19, 1995, [109 Stat. 502][/us/stat/109/502].
+    [Pub. L. 104–52, title VI][/us/pl/104/52/tVI], § 624, Nov. 19, 1995, [109 Stat. 502][/us/stat/109/502].
 
-    [Pub. L. 103–329, title VI, § 638][/us/pl/103/329/s638], Sept. 30, 1994, [108 Stat. 2432][/us/stat/108/2432].
+    [Pub. L. 103–329, title VI][/us/pl/103/329/tVI], § 638, Sept. 30, 1994, [108 Stat. 2432][/us/stat/108/2432].
 
  __Designation of Director of the Bureau of the Budget as Member of Federal Labor Relations Council__ 
 
@@ -133,15 +133,15 @@ Similar provisions were contained in the following prior appropriations acts:
 
  __Display in Federal Buildings of Code of Ethics for Government Service__ 
 
-    [Pub. L. 96–303][/us/pl/96/303], July 3, 1980, [94 Stat. 855][/us/stat/94/855], which provided that each agency, under regulations prescribed by Administrator of General Services Administration, display in appropriate areas of Federal buildings copies of the Code of Ethics for Government Service, authorized publication and distribution of such Code, and set forth text of the Code of Ethics for Government Service, was repealed by [Pub. L. 104–179, § 4(a)][/us/pl/104/179/s4/a], Aug. 6, 1996, [110 Stat. 1566][/us/stat/110/1566].
+    [Pub. L. 96–303][/us/pl/96/303], July 3, 1980, [94 Stat. 855][/us/stat/94/855], which provided that each agency, under regulations prescribed by Administrator of General Services Administration, display in appropriate areas of Federal buildings copies of the Code of Ethics for Government Service, authorized publication and distribution of such Code, and set forth text of the Code of Ethics for Government Service, was repealed by [Pub. L. 104–179][/us/pl/104/179], § 4(a), Aug. 6, 1996, [110 Stat. 1566][/us/stat/110/1566].
 
  __Agency Acceptance of Donations for Federal Employees__ 
 
-    [Pub. L. 102–368, title XI, § 901][/us/pl/102/368/s901], Sept. 23, 1992, [106 Stat. 1156][/us/stat/106/1156], effective through Sept. 30, 1993, authorized Federal agencies to accept gifts of property, money, or anything else of value from non-Federal sources for extraordinary and unanticipated expenses incurred by agency employees in their personal capacity within areas designated as disaster areas pursuant to President’s declaration of a disaster resulting from Hurricane Andrew, Typhoon Omar, and Hurricane Iniki, directed agencies to establish written procedures to implement this program, and authorized agencies to accept gifts designated for individual employees.
+    [Pub. L. 102–368, title XI][/us/pl/102/368/tXI], § 901, Sept. 23, 1992, [106 Stat. 1156][/us/stat/106/1156], effective through Sept. 30, 1993, authorized Federal agencies to accept gifts of property, money, or anything else of value from non-Federal sources for extraordinary and unanticipated expenses incurred by agency employees in their personal capacity within areas designated as disaster areas pursuant to President’s declaration of a disaster resulting from Hurricane Andrew, Typhoon Omar, and Hurricane Iniki, directed agencies to establish written procedures to implement this program, and authorized agencies to accept gifts designated for individual employees.
 
  __Restriction on Availability of Funds To Administer or Implement Drug Testing__ 
 
-[Pub. L. 100–71, title V, § 503][/us/pl/100/71/s503], July 11, 1987, [101 Stat. 468][/us/stat/101/468], as amended by [Pub. L. 102–54, § 13(b)(6)][/us/pl/102/54/s13/b/6], June 13, 1991, [105 Stat. 274][/us/stat/105/274], provided:
+[Pub. L. 100–71, title V][/us/pl/100/71/tV], § 503, July 11, 1987, [101 Stat. 468][/us/stat/101/468], as amended by [Pub. L. 102–54][/us/pl/102/54], § 13(b)(6), June 13, 1991, [105 Stat. 274][/us/stat/105/274], provided:
 
 >     “(a)
 
@@ -265,7 +265,7 @@ Similar provisions were contained in the following prior appropriations acts:
 
  __Limitation on Gratuities at Naval Shipbuilding Ceremonies__ 
 
-[Pub. L. 99–145, title XIV, § 1461][/us/pl/99/145/s1461], Nov. 8, 1985, [99 Stat. 765][/us/stat/99/765], provided that:
+[Pub. L. 99–145, title XIV][/us/pl/99/145/tXIV], § 1461, Nov. 8, 1985, [99 Stat. 765][/us/stat/99/765], provided that:
 
 >     “(a)  __General Rule__  __.—__ 
 
@@ -902,46 +902,46 @@ Section 1. Ethics Pledge. Every appointee in every executive agency appointed on
 
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F524
-[/us/pl/103/94/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F94%2Fs1
+[/us/pl/103/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F94
 [/us/stat/107/1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1001
 [/us/usc/t18/s610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs610
 [/us/usc/t39/s410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs410
 [/us/usc/t5/s7321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs7321
 [/us/usc/t39/s410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs410
-[/us/pl/99/570/s6001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs6001
+[/us/pl/99/570/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2FtVI
 [/us/stat/100/3207-157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3207-157
 [/us/usc/t5/s7361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs7361
 [/us/usc/t21/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs801
 [/us/usc/t42/s5195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5195
-[/us/pl/105/261/s1108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs1108
+[/us/pl/105/261/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdA%2FtXI
 [/us/stat/112/2142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2142
-[/us/pl/106/58/s624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F58%2Fs624
+[/us/pl/106/58/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F58%2FtVI
 [/us/stat/113/471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F471
-[/us/pl/105/277/s101/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fh
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-480
-[/us/pl/105/61/s621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F61%2Fs621
+[/us/pl/105/61/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F61%2FtVI
 [/us/stat/111/1313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1313
-[/us/pl/104/208/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Ff
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009-314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-314
-[/us/pl/104/52/s624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F52%2Fs624
+[/us/pl/104/52/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F52%2FtVI
 [/us/stat/109/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F502
-[/us/pl/103/329/s638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F329%2Fs638
+[/us/pl/103/329/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F329%2FtVI
 [/us/stat/108/2432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2432
 [/us/pl/96/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F303
 [/us/stat/94/855]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F855
-[/us/pl/104/179/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F179%2Fs4%2Fa
+[/us/pl/104/179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F179
 [/us/stat/110/1566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1566
-[/us/pl/102/368/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F368%2Fs901
+[/us/pl/102/368/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F368%2FtXI
 [/us/stat/106/1156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1156
-[/us/pl/100/71/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F71%2Fs503
+[/us/pl/100/71/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F71%2FtV
 [/us/stat/101/468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F468
-[/us/pl/102/54/s13/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54%2Fs13%2Fb%2F6
+[/us/pl/102/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54
 [/us/stat/105/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F274
 [/us/usc/t29/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs701
 [/us/usc/t5/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs101
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113
-[/us/pl/99/145/s1461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs1461
+[/us/pl/99/145/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2FtXIV
 [/us/stat/99/765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F765
 [/us/usc/t5/s3301/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3301%2F2
 [/us/usc/t5/s7301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs7301

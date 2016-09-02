@@ -41,7 +41,7 @@
 
         (C) any rule of agency organization, procedure, or practice that does not substantially affect the rights or obligations of non-agency parties.
 
-(Added [Pub. L. 104–121, title II, § 251][/us/pl/104/121/s251], Mar. 29, 1996, [110 Stat. 873][/us/stat/110/873].)
+(Added [Pub. L. 104–121, title II][/us/pl/104/121/tII], § 251, Mar. 29, 1996, [110 Stat. 873][/us/stat/110/873].)
 
  __References in Text__ 
 
@@ -54,7 +54,7 @@
 ----------
 ----------
 
-[/us/pl/104/121/s251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F121%2Fs251
+[/us/pl/104/121/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F121%2FtII
 [/us/stat/110/873]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F873
 [/us/pl/104/104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104
 [/us/stat/110/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F56

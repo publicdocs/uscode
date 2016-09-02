@@ -27,7 +27,7 @@
 
     (5) an employee of a Member of Congress if the pay of the employee is paid by the Secretary of the Senate or the Chief Administrative Officer of the House of Representatives;
 
-    \[(6) Repealed. [Pub. L. 90–83, § 1(5)(A)][/us/pl/90/83/s1/5/A], Sept. 11, 1967, [81 Stat. 196][/us/stat/81/196].\]
+    \[(6) Repealed. [Pub. L. 90–83][/us/pl/90/83], § 1(5)(A), Sept. 11, 1967, [81 Stat. 196][/us/stat/81/196].\]
 
     (7) the Architect of the Capitol and an employee of the Architect of the Capitol;
 
@@ -35,7 +35,7 @@
 
     (9) an employee of the Office of Congressional Accessibility Services.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 409][/us/stat/80/409]; [Pub. L. 90–83, § 1(5)][/us/pl/90/83/s1/5], Sept. 11, 1967, [81 Stat. 196][/us/stat/81/196]; [Pub. L. 91–510, title IV, § 442(a)][/us/pl/91/510/s442/a], Oct. 26, 1970, [84 Stat. 1191][/us/stat/84/1191]; [Pub. L. 104–186, title II, § 215(1)][/us/pl/104/186/s215/1], Aug. 20, 1996, [110 Stat. 1745][/us/stat/110/1745]; [Pub. L. 110–437, title IV, § 422(c)][/us/pl/110/437/s422/c], Oct. 20, 2008, [122 Stat. 4997][/us/stat/122/4997]; [Pub. L. 111–145, § 7(a)][/us/pl/111/145/s7/a], Mar. 4, 2010, [124 Stat. 55][/us/stat/124/55].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 409][/us/stat/80/409]; [Pub. L. 90–83][/us/pl/90/83], § 1(5), Sept. 11, 1967, [81 Stat. 196][/us/stat/81/196]; [Pub. L. 91–510, title IV][/us/pl/91/510/tIV], § 442(a), Oct. 26, 1970, [84 Stat. 1191][/us/stat/84/1191]; [Pub. L. 104–186, title II][/us/pl/104/186/tII], § 215(1), Aug. 20, 1996, [110 Stat. 1745][/us/stat/110/1745]; [Pub. L. 110–437, title IV][/us/pl/110/437/tIV], § 422(c), Oct. 20, 2008, [122 Stat. 4997][/us/stat/122/4997]; [Pub. L. 111–145][/us/pl/111/145], § 7(a), Mar. 4, 2010, [124 Stat. 55][/us/stat/124/55].)
 
  __Historical and Revision Notes__ 
 
@@ -119,7 +119,7 @@ Sept. 26, 1966, Pub. L. 89–604, § 1(a), 80 Stat. 846.  </td>
 
  __Effective Date of 2010 Amendment__ 
 
-[Pub. L. 111–145, § 7(d)][/us/pl/111/145/s7/d], Mar. 4, 2010, [124 Stat. 56][/us/stat/124/56], provided that: 
+[Pub. L. 111–145][/us/pl/111/145], § 7(d), Mar. 4, 2010, [124 Stat. 56][/us/stat/124/56], provided that: 
 
 > “The amendments made by this section \[amending this section and sections 5515, 5531, 5533, and 5537 of this title\] shall take effect as though enacted as part of section 1018 of the Legislative Branch Appropriations Act, 2003 ([2 U.S.C. 1907][/us/usc/t2/s1907]).”
 
@@ -138,25 +138,25 @@ Sept. 26, 1966, Pub. L. 89–604, § 1(a), 80 Stat. 846.  </td>
 ----------
 ----------
 
-[/us/pl/90/83/s1/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83%2Fs1%2F5%2FA
+[/us/pl/90/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83
 [/us/stat/81/196]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F196
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F409
-[/us/pl/90/83/s1/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83%2Fs1%2F5
+[/us/pl/90/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83
 [/us/stat/81/196]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F196
-[/us/pl/91/510/s442/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F510%2Fs442%2Fa
+[/us/pl/91/510/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F510%2FtIV
 [/us/stat/84/1191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1191
-[/us/pl/104/186/s215/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2Fs215%2F1
+[/us/pl/104/186/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2FtII
 [/us/stat/110/1745]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1745
-[/us/pl/110/437/s422/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F437%2Fs422%2Fc
+[/us/pl/110/437/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F437%2FtIV
 [/us/stat/122/4997]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4997
-[/us/pl/111/145/s7/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F145%2Fs7%2Fa
+[/us/pl/111/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F145
 [/us/stat/124/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F55
 [/us/usc/t2/s126–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs126%E2%80%931
 [/us/pl/111/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F145
 [/us/pl/110/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F437
 [/us/pl/104/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186
-[/us/pl/111/145/s7/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F145%2Fs7%2Fd
+[/us/pl/111/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F145
 [/us/stat/124/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F56
 [/us/usc/t2/s1907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1907
 [/us/pl/110/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F437

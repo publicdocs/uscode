@@ -59,7 +59,7 @@
 
             (B) the authority granted to the Office of Personnel Management under this section shall be exercised by the Director of the Congressional Budget Office.
 
-(Added [Pub. L. 95–454, title III, § 301(a)][/us/pl/95/454/s301/a], Oct. 13, 1978, [92 Stat. 1144][/us/stat/92/1144]; amended [Pub. L. 97–258, § 3(a)(5)][/us/pl/97/258/s3/a/5], Sept. 13, 1982, [96 Stat. 1063][/us/stat/96/1063]; [Pub. L. 97–437][/us/pl/97/437], Jan. 8, 1983, [96 Stat. 2285][/us/stat/96/2285]; [Pub. L. 107–296, title XIII, § 1314(b)][/us/pl/107/296/s1314/b], Nov. 25, 2002, [116 Stat. 2296][/us/stat/116/2296]; [Pub. L. 107–347, title II, § 209(g)(1)(A)][/us/pl/107/347/s209/g/1/A], Dec. 17, 2002, [116 Stat. 2931][/us/stat/116/2931]; [Pub. L. 111–68, div. A, title I, § 1303(a)][/us/pl/111/68/s1303/a], Oct. 1, 2009, [123 Stat. 2034][/us/stat/123/2034]; [Pub. L. 113–76, div. I, title I, § 1201(a)][/us/pl/113/76/s1201/a], Jan. 17, 2014, [128 Stat. 426][/us/stat/128/426].)
+(Added [Pub. L. 95–454, title III][/us/pl/95/454/tIII], § 301(a), Oct. 13, 1978, [92 Stat. 1144][/us/stat/92/1144]; amended [Pub. L. 97–258][/us/pl/97/258], § 3(a)(5), Sept. 13, 1982, [96 Stat. 1063][/us/stat/96/1063]; [Pub. L. 97–437][/us/pl/97/437], Jan. 8, 1983, [96 Stat. 2285][/us/stat/96/2285]; [Pub. L. 107–296, title XIII][/us/pl/107/296/tXIII], § 1314(b), Nov. 25, 2002, [116 Stat. 2296][/us/stat/116/2296]; [Pub. L. 107–347, title II][/us/pl/107/347/tII], § 209(g)(1)(A), Dec. 17, 2002, [116 Stat. 2931][/us/stat/116/2931]; [Pub. L. 111–68, div. A, title I][/us/pl/111/68/dA/tI], § 1303(a), Oct. 1, 2009, [123 Stat. 2034][/us/stat/123/2034]; [Pub. L. 113–76, div. I, title I][/us/pl/113/76/dI/tI], § 1201(a), Jan. 17, 2014, [128 Stat. 426][/us/stat/128/426].)
 
  __References in Text__ 
 
@@ -75,15 +75,15 @@
 
     Subsec. (d). [Pub. L. 107–347][/us/pl/107/347] added subsec. (d).
 
-    1983—Subsec. (c)(1). [Pub. L. 97–437, § 1(1)][/us/pl/97/437/s1/1], substituted “(c)(1) Except as provided in par. (2), any” for “(c) Any”.
+    1983—Subsec. (c)(1). [Pub. L. 97–437][/us/pl/97/437], § 1(1), substituted “(c)(1) Except as provided in par. (2), any” for “(c) Any”.
 
-    Subsec. (c)(2). [Pub. L. 97–437, § 1(2)][/us/pl/97/437/s1/2], added par. (2).
+    Subsec. (c)(2). [Pub. L. 97–437][/us/pl/97/437], § 1(2), added par. (2).
 
     1982—Subsec. (b). [Pub. L. 97–258][/us/pl/97/258] substituted “[section 1342 of title 31][/us/usc/t31/s1342]” for “section 3679(b) of the Revised Statutes ([31 U.S.C. 665(b)][/us/usc/t31/s665/b])”.
 
  __Effective Date of 2014 Amendment__ 
 
-[Pub. L. 113–76, div. I, title I, § 1201(b)][/us/pl/113/76/s1201/b], Jan. 17, 2014, [128 Stat. 426][/us/stat/128/426], provided that: 
+[Pub. L. 113–76, div. I, title I][/us/pl/113/76/dI/tI], § 1201(b), Jan. 17, 2014, [128 Stat. 426][/us/stat/128/426], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply with respect to fiscal year 2014 and each succeeding fiscal year.”
 
@@ -110,31 +110,31 @@
 [/us/usc/t26/s7423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs7423
 [/us/usc/t26/s6103/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6103%2Fb
 [/us/usc/t31/s1342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1342
-[/us/pl/95/454/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs301%2Fa
+[/us/pl/95/454/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtIII
 [/us/stat/92/1144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1144
-[/us/pl/97/258/s3/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs3%2Fa%2F5
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1063]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1063
 [/us/pl/97/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F437
 [/us/stat/96/2285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2285
-[/us/pl/107/296/s1314/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1314%2Fb
+[/us/pl/107/296/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXIII
 [/us/stat/116/2296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2296
-[/us/pl/107/347/s209/g/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347%2Fs209%2Fg%2F1%2FA
+[/us/pl/107/347/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347%2FtII
 [/us/stat/116/2931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2931
-[/us/pl/111/68/s1303/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F68%2Fs1303%2Fa
+[/us/pl/111/68/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F68%2FdA%2FtI
 [/us/stat/123/2034]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2034
-[/us/pl/113/76/s1201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs1201%2Fa
+[/us/pl/113/76/dI/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2FdI%2FtI
 [/us/stat/128/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F426
 [/us/usc/t2/s603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs603
 [/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
 [/us/pl/111/68]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F68
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/pl/107/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347
-[/us/pl/97/437/s1/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F437%2Fs1%2F1
-[/us/pl/97/437/s1/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F437%2Fs1%2F2
+[/us/pl/97/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F437
+[/us/pl/97/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F437
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/usc/t31/s1342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1342
 [/us/usc/t31/s665/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs665%2Fb
-[/us/pl/113/76/s1201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs1201%2Fb
+[/us/pl/113/76/dI/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2FdI%2FtI
 [/us/stat/128/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F426
 [/us/pl/107/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347
 [/us/pl/107/347/s402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347%2Fs402%2Fa

@@ -15,9 +15,9 @@
 
 # Title 5—GOVERNMENT ORGANIZATION AND EMPLOYEES
 
-This title was enacted by [Pub. L. 89–554, § 1][/us/pl/89/554/s1], Sept. 6, 1966, [80 Stat. 378][/us/stat/80/378]
+This title was enacted by [Pub. L. 89–554][/us/pl/89/554], § 1, Sept. 6, 1966, [80 Stat. 378][/us/stat/80/378]
 
-Current through 114-115not95
+Current through 114-115
 
 <table>
 
@@ -65,7 +65,7 @@ Current through 114-115not95
 
  __Amendments__ 
 
-    1979—[Pub. L. 96–54, § 2(a)(1)][/us/pl/96/54/s2/a/1], Aug. 14, 1979, [93 Stat. 381][/us/stat/93/381], substituted “Civil Service Functions and Responsibilities” for “The United States Civil Service Commission” in item for part II.
+    1979—[Pub. L. 96–54][/us/pl/96/54], § 2(a)(1), Aug. 14, 1979, [93 Stat. 381][/us/stat/93/381], substituted “Civil Service Functions and Responsibilities” for “The United States Civil Service Commission” in item for part II.
 
 <table>
 
@@ -16753,75 +16753,75 @@ Elim.  </td>
 
  __Enacting Clause__ 
 
-[Pub. L. 89–554, § 1][/us/pl/89/554/s1], Sept. 6, 1966, [80 Stat. 378][/us/stat/80/378], provided in part: 
+[Pub. L. 89–554][/us/pl/89/554], § 1, Sept. 6, 1966, [80 Stat. 378][/us/stat/80/378], provided in part: 
 
 > “That the laws relating to the organization of the Government of the United States and to its civilian officers and employees, generally, are revised, codified, and enacted as title 5 of the United States Code, entitled ‘Government Organization and Employees’, and may be cited as ‘5 U.S.C., §    ’.”
 
  __Legislative Purpose: Inconsistent Provisions__ 
 
-[Pub. L. 89–554, § 7(a)][/us/pl/89/554/s7/a], Sept. 6, 1966, [80 Stat. 631][/us/stat/80/631], provided that: 
+[Pub. L. 89–554][/us/pl/89/554], § 7(a), Sept. 6, 1966, [80 Stat. 631][/us/stat/80/631], provided that: 
 
 > “The legislative purpose in enacting sections 1–6 of this Act is to restate, without substantive change, the laws replaced by those sections on the effective date of this Act \[Sept. 6, 1966\]. Laws effective after June 30, 1965, that are inconsistent with this Act are considered as superseding it to the extent of the inconsistency.”
 
  __References to Other Laws__ 
 
-[Pub. L. 89–554, § 7(b)][/us/pl/89/554/s7/b], Sept. 6, 1966, [80 Stat. 631][/us/stat/80/631], provided that: 
+[Pub. L. 89–554][/us/pl/89/554], § 7(b), Sept. 6, 1966, [80 Stat. 631][/us/stat/80/631], provided that: 
 
 > “A reference to a law replaced by sections 1–6 of this Act, including a reference in a regulation, order, or other law, is deemed to refer to the corresponding provision enacted by this Act.”
 
  __Outstanding Orders, Rules and Regulations__ 
 
-[Pub. L. 89–554, § 7(c)][/us/pl/89/554/s7/c], Sept. 6, 1966, [80 Stat. 631][/us/stat/80/631], provided that: 
+[Pub. L. 89–554][/us/pl/89/554], § 7(c), Sept. 6, 1966, [80 Stat. 631][/us/stat/80/631], provided that: 
 
 > “An order, rule, or regulation in effect under a law replaced by sections 1–6 of this Act continues in effect under the corresponding provision enacted by this Act until repealed, amended, or superseded.”
 
  __Savings Provision__ 
 
-[Pub. L. 89–554, § 7(d)][/us/pl/89/554/s7/d], Sept. 6, 1966, [80 Stat. 631][/us/stat/80/631], provided that: 
+[Pub. L. 89–554][/us/pl/89/554], § 7(d), Sept. 6, 1966, [80 Stat. 631][/us/stat/80/631], provided that: 
 
 > “An action taken or an offense committed under a law replaced by sections 1–6 of this Act is deemed to have been taken or committed under the corresponding provision enacted by this Act.”
 
  __Legislative Construction__ 
 
-[Pub. L. 89–554, § 7(e)][/us/pl/89/554/s7/e], Sept. 6, 1966, [80 Stat. 631][/us/stat/80/631], provided that: 
+[Pub. L. 89–554][/us/pl/89/554], § 7(e), Sept. 6, 1966, [80 Stat. 631][/us/stat/80/631], provided that: 
 
 > “An inference of a legislative construction is not to be drawn by reason of the location in the United States Code of a provision enacted by this Act or by reason of the caption or catchline thereof.”
 
  __Pay, Allowances, Compensation, or Annuity__ 
 
-[Pub. L. 89–554, § 7(f)][/us/pl/89/554/s7/f], Sept. 6, 1966, [80 Stat. 631][/us/stat/80/631], provided that: 
+[Pub. L. 89–554][/us/pl/89/554], § 7(f), Sept. 6, 1966, [80 Stat. 631][/us/stat/80/631], provided that: 
 
 > “The enactment of this Act does not increase or decrease the pay, allowances, compensation, or annuity of any person.”
 
  __Separability__ 
 
-[Pub. L. 89–554, § 7(g)][/us/pl/89/554/s7/g], Sept. 6, 1966, [80 Stat. 631][/us/stat/80/631], provided that: 
+[Pub. L. 89–554][/us/pl/89/554], § 7(g), Sept. 6, 1966, [80 Stat. 631][/us/stat/80/631], provided that: 
 
 > “If a provision enacted by this Act is held invalid, all valid provisions that are separable from the invalid provision remain in effect. If a provision of this Act is held invalid in one or more of its applications, the provision remains in effect in all valid applications that are severable from the invalid application or applications.”
 
  __Applicability to Commissioned Officers of Public Health Service and Coast and Geodetic Survey__ 
 
-[Pub. L. 89–554, § 7(h)][/us/pl/89/554/s7/h], Sept. 6, 1966, [80 Stat. 632][/us/stat/80/632], provided that: 
+[Pub. L. 89–554][/us/pl/89/554], § 7(h), Sept. 6, 1966, [80 Stat. 632][/us/stat/80/632], provided that: 
 
 > “Sections 1–6 of this Act shall be construed to apply to commissioned officers of the Public Health Service and commissioned officers of the Coast and Geodetic Survey \[now the National Oceanic and Atmospheric Administration\] to the same extent that the laws replaced by those sections applied to these officers immediately before the date of enactment of this Act \[Sept. 6, 1966\].”
 
  __Repeals__ 
 
-    [Pub. L. 89–554, § 8(a)][/us/pl/89/554/s8/a], Sept. 6, 1966, [80 Stat. 632][/us/stat/80/632], repealed the sections or parts thereof of the Revised Statutes or Statutes at Large codified in this title, except with respect to rights and duties that matured, penalties that were incurred, and proceedings that were begun, before Sept. 6, 1966, and except as provided by [section 7 of Pub. L. 89–554][/us/pl/89/554/s7].
+    [Pub. L. 89–554][/us/pl/89/554], § 8(a), Sept. 6, 1966, [80 Stat. 632][/us/stat/80/632], repealed the sections or parts thereof of the Revised Statutes or Statutes at Large codified in this title, except with respect to rights and duties that matured, penalties that were incurred, and proceedings that were begun, before Sept. 6, 1966, and except as provided by [section 7 of Pub. L. 89–554][/us/pl/89/554/s7].
 
-[Pub. L. 89–554, § 8(c)][/us/pl/89/554/s8/c], Sept. 6, 1966, [80 Stat. 632][/us/stat/80/632], provided that: 
+[Pub. L. 89–554][/us/pl/89/554], § 8(c), Sept. 6, 1966, [80 Stat. 632][/us/stat/80/632], provided that: 
 
 > “The repeal of a law by this Act may not be construed as a legislative inference that the provision was or was not in effect before its repeal.”
 
  __Continuation of Right to Deferred Annuity__ 
 
-[Pub. L. 89–554, § 8(b)][/us/pl/89/554/s8/b], Sept. 6, 1966, [80 Stat. 632][/us/stat/80/632], provided that: 
+[Pub. L. 89–554][/us/pl/89/554], § 8(b), Sept. 6, 1966, [80 Stat. 632][/us/stat/80/632], provided that: 
 
 > “The right to a deferred annuity on satisfaction of the conditions attached thereto is continued notwithstanding the repeal of the law conferring the right.”
 
  __Interagency Personnel Rotations__ 
 
-[Pub. L. 112–239, div. A, title XI, § 1107][/us/pl/112/239/s1107], Jan. 2, 2013, [126 Stat. 1974][/us/stat/126/1974], provided that:
+[Pub. L. 112–239, div. A, title XI][/us/pl/112/239/dA/tXI], § 1107, Jan. 2, 2013, [126 Stat. 1974][/us/stat/126/1974], provided that:
 
 >     “(a) __Finding and Purpose.—__ 
 
@@ -16953,7 +16953,7 @@ Elim.  </td>
 
  __Improvement of United States Code by__  __[__  __Pub. L. 90–83__  __][/us/pl/90/83]__  __; Legislative Purpose; Inconsistent Provisions; Corresponding Provisions; Savings and Separability of Provisions__ 
 
-[Pub. L. 90–83, § 9(a)][/us/pl/90/83/s9/a]–(g), Sept. 11, 1967, [81 Stat. 222][/us/stat/81/222], provided that:
+[Pub. L. 90–83][/us/pl/90/83], § 9(a)–(g), Sept. 11, 1967, [81 Stat. 222][/us/stat/81/222], provided that:
 
 >     “(a) The legislative purpose in enacting sections 1–8 of this Act is to restate, without substantive change, the laws replaced by those sections on the effective date of this Act. Laws effective after February 21, 1967, that are inconsistent with this Act are considered as superseding it to the extent of the inconsistency.
 
@@ -16976,41 +16976,41 @@ Elim.  </td>
 ----------
 ----------
 
-[/us/pl/89/554/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs1
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F378
-[/us/pl/96/54/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F54%2Fs2%2Fa%2F1
+[/us/pl/96/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F54
 [/us/stat/93/381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F381
-[/us/pl/89/554/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs1
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F378
-[/us/pl/89/554/s7/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs7%2Fa
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F631
-[/us/pl/89/554/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs7%2Fb
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F631
-[/us/pl/89/554/s7/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs7%2Fc
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F631
-[/us/pl/89/554/s7/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs7%2Fd
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F631
-[/us/pl/89/554/s7/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs7%2Fe
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F631
-[/us/pl/89/554/s7/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs7%2Ff
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F631
-[/us/pl/89/554/s7/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs7%2Fg
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F631
-[/us/pl/89/554/s7/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs7%2Fh
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F632
-[/us/pl/89/554/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs8%2Fa
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F632
 [/us/pl/89/554/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs7
-[/us/pl/89/554/s8/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs8%2Fc
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F632
-[/us/pl/89/554/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs8%2Fb
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F632
-[/us/pl/112/239/s1107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1107
+[/us/pl/112/239/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtXI
 [/us/stat/126/1974]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1974
 [/us/usc/t5/s2301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs2301%2Fb
 [/us/usc/t50/s401a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs401a%2F4
 [/us/pl/90/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83
-[/us/pl/90/83/s9/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83%2Fs9%2Fa
+[/us/pl/90/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83
 [/us/stat/81/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F222
 
 

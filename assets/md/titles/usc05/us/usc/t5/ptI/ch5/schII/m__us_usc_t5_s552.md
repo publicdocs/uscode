@@ -113,7 +113,7 @@
 
             (C) Notwithstanding any other provision of law, the defendant shall serve an answer or otherwise plead to any complaint made under this subsection within thirty days after service upon the defendant of the pleading in which such complaint is made, unless the court otherwise directs for good cause shown.
 
-            \[(D) Repealed. [Pub. L. 98–620, title IV, § 402(2)][/us/pl/98/620/s402/2], Nov. 8, 1984, [98 Stat. 3357][/us/stat/98/3357].\]
+            \[(D) Repealed. [Pub. L. 98–620, title IV][/us/pl/98/620/tIV], § 402(2), Nov. 8, 1984, [98 Stat. 3357][/us/stat/98/3357].\]
 
             (E)
 
@@ -419,7 +419,7 @@
 
     (l) FOIA Public Liaisons shall report to the agency Chief FOIA Officer and shall serve as supervisory officials to whom a requester under this section can raise concerns about the service the requester has received from the FOIA Requester Center, following an initial response from the FOIA Requester Center Staff. FOIA Public Liaisons shall be responsible for assisting in reducing delays, increasing transparency and understanding of the status of requests, and assisting in the resolution of disputes.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 383][/us/stat/80/383]; [Pub. L. 90–23, § 1][/us/pl/90/23/s1], June 5, 1967, [81 Stat. 54][/us/stat/81/54]; [Pub. L. 93–502][/us/pl/93/502], §§ 1–3, Nov. 21, 1974, [88 Stat. 1561–1564][/us/stat/88/1561-1564]; [Pub. L. 94–409, § 5(b)][/us/pl/94/409/s5/b], Sept. 13, 1976, [90 Stat. 1247][/us/stat/90/1247]; [Pub. L. 95–454, title IX, § 906(a)(10)][/us/pl/95/454/s906/a/10], Oct. 13, 1978, [92 Stat. 1225][/us/stat/92/1225]; [Pub. L. 98–620, title IV, § 402(2)][/us/pl/98/620/s402/2], Nov. 8, 1984, [98 Stat. 3357][/us/stat/98/3357]; [Pub. L. 99–570, title I][/us/pl/99/570], §§ 1802, 1803, Oct. 27, 1986, [100 Stat. 3207–48][/us/stat/100/3207-48], 3207–49; [Pub. L. 104–231][/us/pl/104/231], §§ 3–11, Oct. 2, 1996, [110 Stat. 3049–3054][/us/stat/110/3049-3054]; [Pub. L. 107–306, title III, § 312][/us/pl/107/306/s312], Nov. 27, 2002, [116 Stat. 2390][/us/stat/116/2390]; [Pub. L. 110–175][/us/pl/110/175], §§ 3, 4(a), 5, 6(a)(1), (b)(1), 7(a), 8–10(a), 12, Dec. 31, 2007, [121 Stat. 2525–2530][/us/stat/121/2525-2530]; [Pub. L. 111–83, title V, § 564(b)][/us/pl/111/83/s564/b], Oct. 28, 2009, [123 Stat. 2184][/us/stat/123/2184].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 383][/us/stat/80/383]; [Pub. L. 90–23][/us/pl/90/23], § 1, June 5, 1967, [81 Stat. 54][/us/stat/81/54]; [Pub. L. 93–502][/us/pl/93/502], §§ 1–3, Nov. 21, 1974, [88 Stat. 1561–1564][/us/stat/88/1561-1564]; [Pub. L. 94–409][/us/pl/94/409], § 5(b), Sept. 13, 1976, [90 Stat. 1247][/us/stat/90/1247]; [Pub. L. 95–454, title IX][/us/pl/95/454/tIX], § 906(a)(10), Oct. 13, 1978, [92 Stat. 1225][/us/stat/92/1225]; [Pub. L. 98–620, title IV][/us/pl/98/620/tIV], § 402(2), Nov. 8, 1984, [98 Stat. 3357][/us/stat/98/3357]; [Pub. L. 99–570, title I][/us/pl/99/570/tI], §§ 1802, 1803, Oct. 27, 1986, [100 Stat. 3207–48][/us/stat/100/3207-48], 3207–49; [Pub. L. 104–231][/us/pl/104/231], §§ 3–11, Oct. 2, 1996, [110 Stat. 3049–3054][/us/stat/110/3049-3054]; [Pub. L. 107–306, title III][/us/pl/107/306/tIII], § 312, Nov. 27, 2002, [116 Stat. 2390][/us/stat/116/2390]; [Pub. L. 110–175][/us/pl/110/175], §§ 3, 4(a), 5, 6(a)(1), (b)(1), 7(a), 8–10(a), 12, Dec. 31, 2007, [121 Stat. 2525–2530][/us/stat/121/2525-2530]; [Pub. L. 111–83, title V][/us/pl/111/83/tV], § 564(b), Oct. 28, 2009, [123 Stat. 2184][/us/stat/123/2184].)
 
 <table>
 
@@ -513,63 +513,63 @@ June 11, 1946, ch. 324, § 3, 60 Stat. 238.  </td>
 
     2009—Subsec. (b)(3). [Pub. L. 111–83][/us/pl/111/83] added par. (3) and struck out former par. (3), which read as follows: “specifically exempted from disclosure by statute (other than [section 552b of this title][/us/usc/t5/s552b]), provided that such statute (A) requires that the matters be withheld from the public in such a manner as to leave no discretion on the issue, or (B) establishes particular criteria for withholding or refers to particular types of matters to be withheld;”.
 
-    2007—Subsec. (a)(4)(A)(ii). [Pub. L. 110–175, § 3][/us/pl/110/175/s3], inserted concluding provisions.
+    2007—Subsec. (a)(4)(A)(ii). [Pub. L. 110–175][/us/pl/110/175], § 3, inserted concluding provisions.
 
-    Subsec. (a)(4)(A)(viii). [Pub. L. 110–175, § 6(b)(1)(A)][/us/pl/110/175/s6/b/1/A], added cl. (viii).
+    Subsec. (a)(4)(A)(viii). [Pub. L. 110–175][/us/pl/110/175], § 6(b)(1)(A), added cl. (viii).
 
-    Subsec. (a)(4)(E). [Pub. L. 110–175, § 4(a)][/us/pl/110/175/s4/a], designated existing provisions as cl. (i) and added cl. (ii).
+    Subsec. (a)(4)(E). [Pub. L. 110–175][/us/pl/110/175], § 4(a), designated existing provisions as cl. (i) and added cl. (ii).
 
-    Subsec. (a)(4)(F). [Pub. L. 110–175, § 5][/us/pl/110/175/s5], designated existing provisions as cl. (i) and added cls. (ii) and (iii).
+    Subsec. (a)(4)(F). [Pub. L. 110–175][/us/pl/110/175], § 5, designated existing provisions as cl. (i) and added cls. (ii) and (iii).
 
-    Subsec. (a)(6)(A). [Pub. L. 110–175, § 6(a)(1)][/us/pl/110/175/s6/a/1], inserted concluding provisions.
+    Subsec. (a)(6)(A). [Pub. L. 110–175][/us/pl/110/175], § 6(a)(1), inserted concluding provisions.
 
-    Subsec. (a)(6)(B)(ii). [Pub. L. 110–175, § 6(b)(1)(B)][/us/pl/110/175/s6/b/1/B], inserted after the first sentence “To aid the requester, each agency shall make available its FOIA Public Liaison, who shall assist in the resolution of any disputes between the requester and the agency.”
+    Subsec. (a)(6)(B)(ii). [Pub. L. 110–175][/us/pl/110/175], § 6(b)(1)(B), inserted after the first sentence “To aid the requester, each agency shall make available its FOIA Public Liaison, who shall assist in the resolution of any disputes between the requester and the agency.”
 
-    Subsec. (a)(7). [Pub. L. 110–175, § 7(a)][/us/pl/110/175/s7/a], added par. (7).
+    Subsec. (a)(7). [Pub. L. 110–175][/us/pl/110/175], § 7(a), added par. (7).
 
-    Subsec. (b). [Pub. L. 110–175, § 12][/us/pl/110/175/s12], in concluding provisions, inserted “, and the exemption under which the deletion is made,” after “The amount of information deleted” in second sentence and after “the amount of the information deleted” in third sentence.
+    Subsec. (b). [Pub. L. 110–175][/us/pl/110/175], § 12, in concluding provisions, inserted “, and the exemption under which the deletion is made,” after “The amount of information deleted” in second sentence and after “the amount of the information deleted” in third sentence.
 
-    Subsec. (e)(1)(B)(ii). [Pub. L. 110–175, § 8(a)(1)][/us/pl/110/175/s8/a/1], inserted “the number of occasions on which each statute was relied upon,” after “subsection (b)(3),”.
+    Subsec. (e)(1)(B)(ii). [Pub. L. 110–175][/us/pl/110/175], § 8(a)(1), inserted “the number of occasions on which each statute was relied upon,” after “subsection (b)(3),”.
 
-    Subsec. (e)(1)(C). [Pub. L. 110–175, § 8(a)(2)][/us/pl/110/175/s8/a/2], inserted “and average” after “median”.
+    Subsec. (e)(1)(C). [Pub. L. 110–175][/us/pl/110/175], § 8(a)(2), inserted “and average” after “median”.
 
-    Subsec. (e)(1)(E). [Pub. L. 110–175, § 8(a)(3)][/us/pl/110/175/s8/a/3], inserted before semicolon “, based on the date on which the requests were received by the agency”.
+    Subsec. (e)(1)(E). [Pub. L. 110–175][/us/pl/110/175], § 8(a)(3), inserted before semicolon “, based on the date on which the requests were received by the agency”.
 
-    Subsec. (e)(1)(F) to (O). [Pub. L. 110–175, § 8(a)(4)][/us/pl/110/175/s8/a/4], (5), added subpars. (F) to (M) and redesignated former subpars. (F) and (G) as (N) and (O), respectively.
+    Subsec. (e)(1)(F) to (O). [Pub. L. 110–175][/us/pl/110/175], § 8(a)(4), (5), added subpars. (F) to (M) and redesignated former subpars. (F) and (G) as (N) and (O), respectively.
 
-    Subsec. (e)(2). [Pub. L. 110–175, § 8(b)(2)][/us/pl/110/175/s8/b/2], added par. (2). Former par. (2) redesignated (3).
+    Subsec. (e)(2). [Pub. L. 110–175][/us/pl/110/175], § 8(b)(2), added par. (2). Former par. (2) redesignated (3).
 
-    Subsec. (e)(3). [Pub. L. 110–175, § 8(b)(1)][/us/pl/110/175/s8/b/1], (c), redesignated par. (2) as (3) and inserted at end “In addition, each agency shall make the raw statistical data used in its reports available electronically to the public upon request.” Former par. (3) redesignated (4).
+    Subsec. (e)(3). [Pub. L. 110–175][/us/pl/110/175], § 8(b)(1), (c), redesignated par. (2) as (3) and inserted at end “In addition, each agency shall make the raw statistical data used in its reports available electronically to the public upon request.” Former par. (3) redesignated (4).
 
-    Subsec. (e)(4) to (6). [Pub. L. 110–175, § 8(b)(1)][/us/pl/110/175/s8/b/1], redesignated pars. (3) to (5) as (4) to (6), respectively.
+    Subsec. (e)(4) to (6). [Pub. L. 110–175][/us/pl/110/175], § 8(b)(1), redesignated pars. (3) to (5) as (4) to (6), respectively.
 
-    Subsec. (f)(2). [Pub. L. 110–175, § 9][/us/pl/110/175/s9], added par. (2) and struck out former par. (2) which read as follows: “ ‘record’ and any other term used in this section in reference to information includes any information that would be an agency record subject to the requirements of this section when maintained by an agency in any format, including an electronic format.”
+    Subsec. (f)(2). [Pub. L. 110–175][/us/pl/110/175], § 9, added par. (2) and struck out former par. (2) which read as follows: “ ‘record’ and any other term used in this section in reference to information includes any information that would be an agency record subject to the requirements of this section when maintained by an agency in any format, including an electronic format.”
 
-    Subsecs. (h) to (l). [Pub. L. 110–175, § 10(a)][/us/pl/110/175/s10/a], added subsecs. (h) to (l).
+    Subsecs. (h) to (l). [Pub. L. 110–175][/us/pl/110/175], § 10(a), added subsecs. (h) to (l).
 
-    2002—Subsec. (a)(3)(A). [Pub. L. 107–306, § 312(1)][/us/pl/107/306/s312/1], inserted “and except as provided in subparagraph (E),” after “of this subsection,”.
+    2002—Subsec. (a)(3)(A). [Pub. L. 107–306][/us/pl/107/306], § 312(1), inserted “and except as provided in subparagraph (E),” after “of this subsection,”.
 
-    Subsec. (a)(3)(E). [Pub. L. 107–306, § 312(2)][/us/pl/107/306/s312/2], added subpar. (E).
+    Subsec. (a)(3)(E). [Pub. L. 107–306][/us/pl/107/306], § 312(2), added subpar. (E).
 
-    1996—Subsec. (a)(2). [Pub. L. 104–231, § 4(4)][/us/pl/104/231/s4/4], (5), in first sentence struck out “and” at end of subpar. (B) and inserted subpars. (D) and (E).
+    1996—Subsec. (a)(2). [Pub. L. 104–231][/us/pl/104/231], § 4(4), (5), in first sentence struck out “and” at end of subpar. (B) and inserted subpars. (D) and (E).
 
-    [Pub. L. 104–231, § 4(7)][/us/pl/104/231/s4/7], inserted after first sentence “For records created on or after November 1, 1996, within one year after such date, each agency shall make such records available, including by computer telecommunications or, if computer telecommunications means have not been established by the agency, by other electronic means.”
+    [Pub. L. 104–231][/us/pl/104/231], § 4(7), inserted after first sentence “For records created on or after November 1, 1996, within one year after such date, each agency shall make such records available, including by computer telecommunications or, if computer telecommunications means have not been established by the agency, by other electronic means.”
 
-    [Pub. L. 104–231, § 4(1)][/us/pl/104/231/s4/1], in second sentence substituted “staff manual, instruction, or copies of records referred to in subparagraph (D)” for “or staff manual or instruction”.
+    [Pub. L. 104–231][/us/pl/104/231], § 4(1), in second sentence substituted “staff manual, instruction, or copies of records referred to in subparagraph (D)” for “or staff manual or instruction”.
 
-    [Pub. L. 104–231, § 4(2)][/us/pl/104/231/s4/2], inserted before period at end of third sentence “, and the extent of such deletion shall be indicated on the portion of the record which is made available or published, unless including that indication would harm an interest protected by the exemption in subsection (b) under which the deletion is made”.
+    [Pub. L. 104–231][/us/pl/104/231], § 4(2), inserted before period at end of third sentence “, and the extent of such deletion shall be indicated on the portion of the record which is made available or published, unless including that indication would harm an interest protected by the exemption in subsection (b) under which the deletion is made”.
 
-    [Pub. L. 104–231, § 4(3)][/us/pl/104/231/s4/3], inserted after third sentence “If technically feasible, the extent of the deletion shall be indicated at the place in the record where the deletion was made.”
+    [Pub. L. 104–231][/us/pl/104/231], § 4(3), inserted after third sentence “If technically feasible, the extent of the deletion shall be indicated at the place in the record where the deletion was made.”
 
-    [Pub. L. 104–231, § 4(6)][/us/pl/104/231/s4/6], which directed the insertion of the following new sentence after the fifth sentence “Each agency shall make the index referred to in subparagraph (E) available by computer telecommunications by December 31, 1999.”, was executed by making the insertion after the sixth sentence, to reflect the probable intent of Congress and the addition of a new sentence by [section 4(3) of Pub. L. 104–231][/us/pl/104/231/s4/3].
+    [Pub. L. 104–231][/us/pl/104/231], § 4(6), which directed the insertion of the following new sentence after the fifth sentence “Each agency shall make the index referred to in subparagraph (E) available by computer telecommunications by December 31, 1999.”, was executed by making the insertion after the sixth sentence, to reflect the probable intent of Congress and the addition of a new sentence by [section 4(3) of Pub. L. 104–231][/us/pl/104/231/s4/3].
 
-    Subsec. (a)(3). [Pub. L. 104–231, § 5][/us/pl/104/231/s5], inserted subpar. (A) designation after “(3)”, redesignated subpars. (A) and (B) as cls. (i) and (ii), respectively, and added subpars. (B) to (D).
+    Subsec. (a)(3). [Pub. L. 104–231][/us/pl/104/231], § 5, inserted subpar. (A) designation after “(3)”, redesignated subpars. (A) and (B) as cls. (i) and (ii), respectively, and added subpars. (B) to (D).
 
-    Subsec. (a)(4)(B). [Pub. L. 104–231, § 6][/us/pl/104/231/s6], inserted at end “In addition to any other matters to which a court accords substantial weight, a court shall accord substantial weight to an affidavit of an agency concerning the agency’s determination as to technical feasibility under paragraph (2)(C) and subsection (b) and reproducibility under paragraph (3)(B).”
+    Subsec. (a)(4)(B). [Pub. L. 104–231][/us/pl/104/231], § 6, inserted at end “In addition to any other matters to which a court accords substantial weight, a court shall accord substantial weight to an affidavit of an agency concerning the agency’s determination as to technical feasibility under paragraph (2)(C) and subsection (b) and reproducibility under paragraph (3)(B).”
 
-    Subsec. (a)(6)(A)(i). [Pub. L. 104–231, § 8(b)][/us/pl/104/231/s8/b], substituted “20 days” for “ten days”.
+    Subsec. (a)(6)(A)(i). [Pub. L. 104–231][/us/pl/104/231], § 8(b), substituted “20 days” for “ten days”.
 
-    Subsec. (a)(6)(B). [Pub. L. 104–231, § 7(b)][/us/pl/104/231/s7/b], amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “In unusual circumstances as specified in this subparagraph, the time limits prescribed in either clause (i) or clause (ii) of subparagraph (A) may be extended by written notice to the person making such request setting forth the reasons for such extension and the date on which a determination is expected to be dispatched. No such notice shall specify a date that would result in an extension for more than ten working days. As used in this subparagraph, ‘unusual circumstances’ means, but only to the extent reasonably necessary to the proper processing of the particular request—
+    Subsec. (a)(6)(B). [Pub. L. 104–231][/us/pl/104/231], § 7(b), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “In unusual circumstances as specified in this subparagraph, the time limits prescribed in either clause (i) or clause (ii) of subparagraph (A) may be extended by written notice to the person making such request setting forth the reasons for such extension and the date on which a determination is expected to be dispatched. No such notice shall specify a date that would result in an extension for more than ten working days. As used in this subparagraph, ‘unusual circumstances’ means, but only to the extent reasonably necessary to the proper processing of the particular request—
 
     “(i) the need to search for and collect the requested records from field facilities or other establishments that are separate from the office processing the request;
 
@@ -577,25 +577,25 @@ June 11, 1946, ch. 324, § 3, 60 Stat. 238.  </td>
 
     “(iii) the need for consultation, which shall be conducted with all practicable speed, with another agency having a substantial interest in the determination of the request or among two or more components of the agency having substantial subject-matter interest therein.”
 
-    Subsec. (a)(6)(C). [Pub. L. 104–231, § 7(c)][/us/pl/104/231/s7/c], designated existing provisions as cl. (i) and added cls. (ii) and (iii).
+    Subsec. (a)(6)(C). [Pub. L. 104–231][/us/pl/104/231], § 7(c), designated existing provisions as cl. (i) and added cls. (ii) and (iii).
 
-    Subsec. (a)(6)(D). [Pub. L. 104–231, § 7(a)][/us/pl/104/231/s7/a], added subpar. (D).
+    Subsec. (a)(6)(D). [Pub. L. 104–231][/us/pl/104/231], § 7(a), added subpar. (D).
 
-    Subsec. (a)(6)(E), (F). [Pub. L. 104–231, § 8(a)][/us/pl/104/231/s8/a], (c), added subpars. (E) and (F).
+    Subsec. (a)(6)(E), (F). [Pub. L. 104–231][/us/pl/104/231], § 8(a), (c), added subpars. (E) and (F).
 
-    Subsec. (b). [Pub. L. 104–231, § 9][/us/pl/104/231/s9], inserted at end of closing provisions “The amount of information deleted shall be indicated on the released portion of the record, unless including that indication would harm an interest protected by the exemption in this subsection under which the deletion is made. If technically feasible, the amount of the information deleted shall be indicated at the place in the record where such deletion is made.”
+    Subsec. (b). [Pub. L. 104–231][/us/pl/104/231], § 9, inserted at end of closing provisions “The amount of information deleted shall be indicated on the released portion of the record, unless including that indication would harm an interest protected by the exemption in this subsection under which the deletion is made. If technically feasible, the amount of the information deleted shall be indicated at the place in the record where such deletion is made.”
 
-    Subsec. (e). [Pub. L. 104–231, § 10][/us/pl/104/231/s10], amended subsec. (e) generally, revising and restating provisions relating to reports to Congress.
+    Subsec. (e). [Pub. L. 104–231][/us/pl/104/231], § 10, amended subsec. (e) generally, revising and restating provisions relating to reports to Congress.
 
-    Subsec. (f). [Pub. L. 104–231, § 3][/us/pl/104/231/s3], amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: “For purposes of this section, the term ‘agency’ as defined in [section 551(1) of this title][/us/usc/t5/s551/1] includes any executive department, military department, Government corporation, Government controlled corporation, or other establishment in the executive branch of the Government (including the Executive Office of the President), or any independent regulatory agency.”
+    Subsec. (f). [Pub. L. 104–231][/us/pl/104/231], § 3, amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: “For purposes of this section, the term ‘agency’ as defined in [section 551(1) of this title][/us/usc/t5/s551/1] includes any executive department, military department, Government corporation, Government controlled corporation, or other establishment in the executive branch of the Government (including the Executive Office of the President), or any independent regulatory agency.”
 
-    Subsec. (g). [Pub. L. 104–231, § 11][/us/pl/104/231/s11], added subsec. (g).
+    Subsec. (g). [Pub. L. 104–231][/us/pl/104/231], § 11, added subsec. (g).
 
-    1986—Subsec. (a)(4)(A). [Pub. L. 99–570, § 1803][/us/pl/99/570/s1803], amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “In order to carry out the provisions of this section, each agency shall promulgate regulations, pursuant to notice and receipt of public comment, specifying a uniform schedule of fees applicable to all constituent units of such agency. Such fees shall be limited to reasonable standard charges for document search and duplication and provide for recovery of only the direct costs of such search and duplication. Documents shall be furnished without charge or at a reduced charge where the agency determines that waiver or reduction of the fee is in the public interest because furnishing the information can be considered as primarily benefiting the general public.”
+    1986—Subsec. (a)(4)(A). [Pub. L. 99–570][/us/pl/99/570], § 1803, amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “In order to carry out the provisions of this section, each agency shall promulgate regulations, pursuant to notice and receipt of public comment, specifying a uniform schedule of fees applicable to all constituent units of such agency. Such fees shall be limited to reasonable standard charges for document search and duplication and provide for recovery of only the direct costs of such search and duplication. Documents shall be furnished without charge or at a reduced charge where the agency determines that waiver or reduction of the fee is in the public interest because furnishing the information can be considered as primarily benefiting the general public.”
 
-    Subsec. (b)(7). [Pub. L. 99–570, § 1802(a)][/us/pl/99/570/s1802/a], amended par. (7) generally. Prior to amendment, par. (7) read as follows: “investigatory records compiled for law enforcement purposes, but only to the extent that the production of such records would (A) interfere with enforcement proceedings, (B) deprive a person of a right to a fair trial or an impartial adjudication, (C) constitute an unwarranted invasion of personal privacy, (D) disclose the identity of a confidential source and, in the case of a record compiled by a criminal law enforcement authority in the course of a criminal investigation, or by an agency conducting a lawful national security intelligence investigation, confidential information furnished only by the confidential source, (E) disclose investigative techniques and procedures, or (F) endanger the life or physical safety of law enforcement personnel;”.
+    Subsec. (b)(7). [Pub. L. 99–570][/us/pl/99/570], § 1802(a), amended par. (7) generally. Prior to amendment, par. (7) read as follows: “investigatory records compiled for law enforcement purposes, but only to the extent that the production of such records would (A) interfere with enforcement proceedings, (B) deprive a person of a right to a fair trial or an impartial adjudication, (C) constitute an unwarranted invasion of personal privacy, (D) disclose the identity of a confidential source and, in the case of a record compiled by a criminal law enforcement authority in the course of a criminal investigation, or by an agency conducting a lawful national security intelligence investigation, confidential information furnished only by the confidential source, (E) disclose investigative techniques and procedures, or (F) endanger the life or physical safety of law enforcement personnel;”.
 
-    Subsecs. (c) to (f). [Pub. L. 99–570, § 1802(b)][/us/pl/99/570/s1802/b], added subsec. (c) and redesignated former subsecs. (c) to (e) as (d) to (f), respectively.
+    Subsecs. (c) to (f). [Pub. L. 99–570][/us/pl/99/570], § 1802(b), added subsec. (c) and redesignated former subsecs. (c) to (e) as (d) to (f), respectively.
 
     1984—Subsec. (a)(4)(D). [Pub. L. 98–620][/us/pl/98/620] repealed subpar. (D) which provided for precedence on the docket and expeditious disposition of district court proceedings authorized by subsec. (a).
 
@@ -603,21 +603,21 @@ June 11, 1946, ch. 324, § 3, 60 Stat. 238.  </td>
 
     1976—Subsec. (b)(3). [Pub. L. 94–409][/us/pl/94/409] inserted provision excluding [section 552b of this title][/us/usc/t5/s552b] from applicability of exemption from disclosure and provision setting forth conditions for statute specifically exempting disclosure.
 
-    1974—Subsec. (a)(2). [Pub. L. 93–502, § 1(a)][/us/pl/93/502/s1/a], substituted provisions relating to maintenance and availability of current indexes, for provisions relating to maintenance and availability of a current index, and inserted provisions relating to publication and distribution of copies of indexes or supplements thereto.
+    1974—Subsec. (a)(2). [Pub. L. 93–502][/us/pl/93/502], § 1(a), substituted provisions relating to maintenance and availability of current indexes, for provisions relating to maintenance and availability of a current index, and inserted provisions relating to publication and distribution of copies of indexes or supplements thereto.
 
-    Subsec. (a)(3). [Pub. L. 93–502, § 1(b)(1)][/us/pl/93/502/s1/b/1], substituted provisions requiring requests to reasonably describe records for provisions requiring requests, for identifiable records, and struck out provisions setting forth procedures to enjoin agencies from withholding the requested records and ordering their production.
+    Subsec. (a)(3). [Pub. L. 93–502][/us/pl/93/502], § 1(b)(1), substituted provisions requiring requests to reasonably describe records for provisions requiring requests, for identifiable records, and struck out provisions setting forth procedures to enjoin agencies from withholding the requested records and ordering their production.
 
-    Subsec. (a)(4), (5). [Pub. L. 93–502, § 1(b)(2)][/us/pl/93/502/s1/b/2], added par. (4) and redesignated former par. (4) as (5).
+    Subsec. (a)(4), (5). [Pub. L. 93–502][/us/pl/93/502], § 1(b)(2), added par. (4) and redesignated former par. (4) as (5).
 
-    Subsec. (a)(6). [Pub. L. 93–502, § 1(c)][/us/pl/93/502/s1/c], added par. (6).
+    Subsec. (a)(6). [Pub. L. 93–502][/us/pl/93/502], § 1(c), added par. (6).
 
-    Subsec. (b)(1). [Pub. L. 93–502, § 2(a)][/us/pl/93/502/s2/a], designated existing provisions as cl. (A), substituted “authorized under criteria established by an” for “required by”, and added cl. (B).
+    Subsec. (b)(1). [Pub. L. 93–502][/us/pl/93/502], § 2(a), designated existing provisions as cl. (A), substituted “authorized under criteria established by an” for “required by”, and added cl. (B).
 
-    Subsec. (b)(7). [Pub. L. 93–502, § 2(b)][/us/pl/93/502/s2/b], substituted provisions relating to exemption for investigatory records compiled for law enforcement purposes, for provisions relating to exemption for investigatory files compiled for law enforcement purposes.
+    Subsec. (b)(7). [Pub. L. 93–502][/us/pl/93/502], § 2(b), substituted provisions relating to exemption for investigatory records compiled for law enforcement purposes, for provisions relating to exemption for investigatory files compiled for law enforcement purposes.
 
-    Subsec. (b), foll. par. (9). [Pub. L. 93–502, § 2(c)][/us/pl/93/502/s2/c], inserted provision relating to availability of segregable portion of records.
+    Subsec. (b), foll. par. (9). [Pub. L. 93–502][/us/pl/93/502], § 2(c), inserted provision relating to availability of segregable portion of records.
 
-    Subsecs. (d), (e). [Pub. L. 93–502, § 3][/us/pl/93/502/s3], added subsecs. (d) and (e).
+    Subsecs. (d), (e). [Pub. L. 93–502][/us/pl/93/502], § 3, added subsecs. (d) and (e).
 
     1967—Subsec. (a). [Pub. L. 90–23][/us/pl/90/23] substituted introductory statement requiring every agency to make available to the public certain information for former introductory provision excepting from disclosure (1) any function of the United States requiring secrecy in the public interest or (2) any matter relating to internal management of an agency, covered in subsec. (b)(1) and (2) of this section.
 
@@ -641,25 +641,25 @@ June 11, 1946, ch. 324, § 3, 60 Stat. 238.  </td>
 
  __Effective Date of 2007 Amendment__ 
 
-[Pub. L. 110–175, § 6(a)(2)][/us/pl/110/175/s6/a/2], Dec. 31, 2007, [121 Stat. 2526][/us/stat/121/2526], provided that: 
+[Pub. L. 110–175][/us/pl/110/175], § 6(a)(2), Dec. 31, 2007, [121 Stat. 2526][/us/stat/121/2526], provided that: 
 
 > “The amendment made by this subsection \[amending this section\] shall take effect 1 year after the date of enactment of this Act \[Dec. 31, 2007\].”
 
-[Pub. L. 110–175, § 6(b)(2)][/us/pl/110/175/s6/b/2], Dec. 31, 2007, [121 Stat. 2526][/us/stat/121/2526], provided that: 
+[Pub. L. 110–175][/us/pl/110/175], § 6(b)(2), Dec. 31, 2007, [121 Stat. 2526][/us/stat/121/2526], provided that: 
 
 > “The amendment made by this subsection \[amending this section\] shall take effect 1 year after the date of enactment of this Act \[Dec. 31, 2007\] and apply to requests for information under [section 552 of title 5][/us/usc/t5/s552], United States Code, filed on or after that effective date.”
 
-[Pub. L. 110–175, § 7(b)][/us/pl/110/175/s7/b], Dec. 31, 2007, [121 Stat. 2527][/us/stat/121/2527], provided that: 
+[Pub. L. 110–175][/us/pl/110/175], § 7(b), Dec. 31, 2007, [121 Stat. 2527][/us/stat/121/2527], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall take effect 1 year after the date of enactment of this Act \[Dec. 31, 2007\] and apply to requests for information under [section 552 of title 5][/us/usc/t5/s552], United States Code, filed on or after that effective date.”
 
-[Pub. L. 110–175, § 10(b)][/us/pl/110/175/s10/b], Dec. 31, 2007, [121 Stat. 2530][/us/stat/121/2530], provided that: 
+[Pub. L. 110–175][/us/pl/110/175], § 10(b), Dec. 31, 2007, [121 Stat. 2530][/us/stat/121/2530], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall take effect on the date of enactment of this Act \[Dec. 31, 2007\].”
 
  __Effective Date of 1996 Amendment__ 
 
-[Pub. L. 104–231, § 12][/us/pl/104/231/s12], Oct. 2, 1996, [110 Stat. 3054][/us/stat/110/3054], provided that:
+[Pub. L. 104–231][/us/pl/104/231], § 12, Oct. 2, 1996, [110 Stat. 3054][/us/stat/110/3054], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -671,7 +671,7 @@ June 11, 1946, ch. 324, § 3, 60 Stat. 238.  </td>
 
  __Effective Date of 1986 Amendment__ 
 
-[Pub. L. 99–570, title I, § 1804][/us/pl/99/570/s1804], Oct. 27, 1986, [100 Stat. 3207–50][/us/stat/100/3207-50], provided that:
+[Pub. L. 99–570, title I][/us/pl/99/570/tI], § 1804, Oct. 27, 1986, [100 Stat. 3207–50][/us/stat/100/3207-50], provided that:
 
 >     “(a) The amendments made by section 1802 \[amending this section\] shall be effective on the date of enactment of this Act \[Oct. 27, 1986\], and shall apply with respect to any requests for records, whether or not the request was made prior to such date, and shall apply to any civil action pending on such date.
 
@@ -695,25 +695,25 @@ June 11, 1946, ch. 324, § 3, 60 Stat. 238.  </td>
 
  __Effective Date of 1974 Amendment__ 
 
-[Pub. L. 93–502, § 4][/us/pl/93/502/s4], Nov. 21, 1974, [88 Stat. 1564][/us/stat/88/1564], provided that: 
+[Pub. L. 93–502][/us/pl/93/502], § 4, Nov. 21, 1974, [88 Stat. 1564][/us/stat/88/1564], provided that: 
 
 > “The amendments made by this Act \[amending this section\] shall take effect on the ninetieth day beginning after the date of enactment of this Act \[Nov. 21, 1974\].”
 
  __Effective Date of 1967 Amendment__ 
 
-[Pub. L. 90–23, § 4][/us/pl/90/23/s4], June 5, 1967, [81 Stat. 56][/us/stat/81/56], provided that: 
+[Pub. L. 90–23][/us/pl/90/23], § 4, June 5, 1967, [81 Stat. 56][/us/stat/81/56], provided that: 
 
 > “This Act \[amending this section\] shall be effective July 4, 1967, or on the date of enactment \[June 5, 1967\], whichever is later.”
 
  __Short Title of 1996 Amendment__ 
 
-[Pub. L. 104–231, § 1][/us/pl/104/231/s1], Oct. 2, 1996, [110 Stat. 3048][/us/stat/110/3048], provided that: 
+[Pub. L. 104–231][/us/pl/104/231], § 1, Oct. 2, 1996, [110 Stat. 3048][/us/stat/110/3048], provided that: 
 
 > “This Act \[amending this section and enacting provisions set out as notes under this section\] may be cited as the ‘Electronic Freedom of Information Act Amendments of 1996’.”
 
  __Short Title of 1986 Amendment__ 
 
-[Pub. L. 99–570, title I, § 1801][/us/pl/99/570/s1801], Oct. 27, 1986, [100 Stat. 3207–48][/us/stat/100/3207-48], provided that: 
+[Pub. L. 99–570, title I][/us/pl/99/570/tI], § 1801, Oct. 27, 1986, [100 Stat. 3207–48][/us/stat/100/3207-48], provided that: 
 
 > “This subtitle \[subtitle N (§§ 1801–1804) of title I of [Pub. L. 99–570][/us/pl/99/570], amending this section and enacting provisions set out as a note under this section\] may be cited as the ‘Freedom of Information Reform Act of 1986’.”
 
@@ -723,7 +723,7 @@ June 11, 1946, ch. 324, § 3, 60 Stat. 238.  </td>
 
  __Protected National Security Documents__ 
 
-[Pub. L. 111–83, title V, § 565][/us/pl/111/83/s565], Oct. 28, 2009, [123 Stat. 2184][/us/stat/123/2184], provided that:
+[Pub. L. 111–83, title V][/us/pl/111/83/tV], § 565, Oct. 28, 2009, [123 Stat. 2184][/us/stat/123/2184], provided that:
 
 >     “(a)  __Short Title__  __.—__ 
 
@@ -785,7 +785,7 @@ June 11, 1946, ch. 324, § 3, 60 Stat. 238.  </td>
 
  __Findings__ 
 
-[Pub. L. 110–175, § 2][/us/pl/110/175/s2], Dec. 31, 2007, [121 Stat. 2524][/us/stat/121/2524], provided that: 
+[Pub. L. 110–175][/us/pl/110/175], § 2, Dec. 31, 2007, [121 Stat. 2524][/us/stat/121/2524], provided that: 
 
 > “Congress finds that—
 
@@ -811,13 +811,13 @@ June 11, 1946, ch. 324, § 3, 60 Stat. 238.  </td>
 
  __Limitation on Amounts Obligated or Expended From Claims and Judgment Fund__ 
 
-[Pub. L. 110–175, § 4(b)][/us/pl/110/175/s4/b], Dec. 31, 2007, [121 Stat. 2525][/us/stat/121/2525], provided that: 
+[Pub. L. 110–175][/us/pl/110/175], § 4(b), Dec. 31, 2007, [121 Stat. 2525][/us/stat/121/2525], provided that: 
 
 > “Notwithstanding [section 1304 of title 31][/us/usc/t31/s1304], United States Code, no amounts may be obligated or expended from the Claims and Judgment Fund of the United States Treasury to pay the costs resulting from fees assessed under [section 552(a)(4)(E) of title 5][/us/usc/t5/s552/a/4/E], United States Code. Any such amounts shall be paid only from funds annually appropriated for any authorized purpose for the Federal agency against which a claim or judgment has been rendered.”
 
  __Nondisclosure of Certain Products of Commercial Satellite Operations__ 
 
-[Pub. L. 108–375, div. A, title IX, § 914][/us/pl/108/375/s914], Oct. 28, 2004, [118 Stat. 2029][/us/stat/118/2029], provided that:
+[Pub. L. 108–375, div. A, title IX][/us/pl/108/375/dA/tIX], § 914, Oct. 28, 2004, [118 Stat. 2029][/us/stat/118/2029], provided that:
 
 >     “(a)  __Mandatory Disclosure Requirements Inapplicable__  __.—__ 
 
@@ -855,13 +855,13 @@ June 11, 1946, ch. 324, § 3, 60 Stat. 238.  </td>
 
  __Disclosure of Arson, Explosive, or Firearm Records__ 
 
-[Pub. L. 108–7, div. J, title VI, § 644][/us/pl/108/7/s644], Feb. 20, 2003, [117 Stat. 473][/us/stat/117/473], provided that: 
+[Pub. L. 108–7, div. J, title VI][/us/pl/108/7/dJ/tVI], § 644, Feb. 20, 2003, [117 Stat. 473][/us/stat/117/473], provided that: 
 
 > “No funds appropriated under this Act or any other Act with respect to any fiscal year shall be available to take any action based upon any provision of [5 U.S.C. 552][/us/usc/t5/s552] with respect to records collected or maintained pursuant to [18 U.S.C. 846(b)][/us/usc/t18/s846/b], 923(g)(3) or 923(g)(7), or provided by Federal, State, local, or foreign law enforcement agencies in connection with arson or explosives incidents or the tracing of a firearm, except that such records may continue to be disclosed to the extent and in the manner that records so collected, maintained, or obtained have been disclosed under [5 U.S.C. 552][/us/usc/t5/s552] prior to the date of the enactment of this Act \[Feb. 20, 2003\].”
 
  __Disclosure of Information on Japanese Imperial Government__ 
 
-[Pub. L. 106–567, title VIII][/us/pl/106/567], Dec. 27, 2000, [114 Stat. 2864][/us/stat/114/2864], as amended by [Pub. L. 108–199, div. H, § 163][/us/pl/108/199/s163], Jan. 23, 2004, [118 Stat. 452][/us/stat/118/452]; [Pub. L. 109–5, § 1][/us/pl/109/5/s1], Mar. 25, 2005, [119 Stat. 19][/us/stat/119/19], provided that:
+[Pub. L. 106–567, title VIII][/us/pl/106/567/tVIII], Dec. 27, 2000, [114 Stat. 2864][/us/stat/114/2864], as amended by [Pub. L. 108–199, div. H][/us/pl/108/199/dH], § 163, Jan. 23, 2004, [118 Stat. 452][/us/stat/118/452]; [Pub. L. 109–5][/us/pl/109/5], § 1, Mar. 25, 2005, [119 Stat. 19][/us/stat/119/19], provided that:
 
 > “SEC. 801. __SHORT TITLE.__ 
 
@@ -979,7 +979,7 @@ June 11, 1946, ch. 324, § 3, 60 Stat. 238.  </td>
 
  __Nazi War Crimes Disclosure__ 
 
-[Pub. L. 105–246][/us/pl/105/246], Oct. 8, 1998, [112 Stat. 1859][/us/stat/112/1859], as amended by [Pub. L. 106–567, § 802(b)(2)][/us/pl/106/567/s802/b/2], Dec. 27, 2000, [114 Stat. 2865][/us/stat/114/2865], provided that:
+[Pub. L. 105–246][/us/pl/105/246], Oct. 8, 1998, [112 Stat. 1859][/us/stat/112/1859], as amended by [Pub. L. 106–567][/us/pl/106/567], § 802(b)(2), Dec. 27, 2000, [114 Stat. 2865][/us/stat/114/2865], provided that:
 
 > “SECTION 1. __SHORT TITLE.__ 
 
@@ -1153,7 +1153,7 @@ June 11, 1946, ch. 324, § 3, 60 Stat. 238.  </td>
 
  __Freedom of Information Act Exemption for Certain Open Skies Treaty Data__ 
 
-[Pub. L. 103–236, title V, § 533][/us/pl/103/236/s533], Apr. 30, 1994, [108 Stat. 480][/us/stat/108/480], provided that:
+[Pub. L. 103–236, title V][/us/pl/103/236/tV], § 533, Apr. 30, 1994, [108 Stat. 480][/us/stat/108/480], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -1467,31 +1467,31 @@ The Freedom of Information Act should be administered with a clear presumption: 
 ----------
 
 [/us/usc/t50/s401a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs401a%2F4
-[/us/pl/98/620/s402/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2Fs402%2F2
+[/us/pl/98/620/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2FtIV
 [/us/stat/98/3357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3357
 [/us/usc/t5/s552b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552b
 [/us/usc/t5/s551/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs551%2F1
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F383
-[/us/pl/90/23/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F23%2Fs1
+[/us/pl/90/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F23
 [/us/stat/81/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F54
 [/us/pl/93/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F502
 [/us/stat/88/1561-1564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1561-1564
-[/us/pl/94/409/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F409%2Fs5%2Fb
+[/us/pl/94/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F409
 [/us/stat/90/1247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1247
-[/us/pl/95/454/s906/a/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs906%2Fa%2F10
+[/us/pl/95/454/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtIX
 [/us/stat/92/1225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1225
-[/us/pl/98/620/s402/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2Fs402%2F2
+[/us/pl/98/620/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2FtIV
 [/us/stat/98/3357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3357
-[/us/pl/99/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570
+[/us/pl/99/570/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2FtI
 [/us/stat/100/3207-48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3207-48
 [/us/pl/104/231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F231
 [/us/stat/110/3049-3054]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3049-3054
-[/us/pl/107/306/s312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306%2Fs312
+[/us/pl/107/306/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306%2FtIII
 [/us/stat/116/2390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2390
 [/us/pl/110/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F175
 [/us/stat/121/2525-2530]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2525-2530
-[/us/pl/111/83/s564/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F83%2Fs564%2Fb
+[/us/pl/111/83/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F83%2FtV
 [/us/stat/123/2184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2184
 [/us/pl/90/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F23
 [/us/usc/t5/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552
@@ -1508,59 +1508,59 @@ The Freedom of Information Act should be administered with a clear presumption: 
 [/us/usc/t7/s2243]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2243
 [/us/pl/111/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F83
 [/us/usc/t5/s552b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552b
-[/us/pl/110/175/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F175%2Fs3
-[/us/pl/110/175/s6/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F175%2Fs6%2Fb%2F1%2FA
-[/us/pl/110/175/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F175%2Fs4%2Fa
-[/us/pl/110/175/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F175%2Fs5
-[/us/pl/110/175/s6/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F175%2Fs6%2Fa%2F1
-[/us/pl/110/175/s6/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F175%2Fs6%2Fb%2F1%2FB
-[/us/pl/110/175/s7/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F175%2Fs7%2Fa
-[/us/pl/110/175/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F175%2Fs12
-[/us/pl/110/175/s8/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F175%2Fs8%2Fa%2F1
-[/us/pl/110/175/s8/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F175%2Fs8%2Fa%2F2
-[/us/pl/110/175/s8/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F175%2Fs8%2Fa%2F3
-[/us/pl/110/175/s8/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F175%2Fs8%2Fa%2F4
-[/us/pl/110/175/s8/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F175%2Fs8%2Fb%2F2
-[/us/pl/110/175/s8/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F175%2Fs8%2Fb%2F1
-[/us/pl/110/175/s8/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F175%2Fs8%2Fb%2F1
-[/us/pl/110/175/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F175%2Fs9
-[/us/pl/110/175/s10/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F175%2Fs10%2Fa
-[/us/pl/107/306/s312/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306%2Fs312%2F1
-[/us/pl/107/306/s312/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306%2Fs312%2F2
-[/us/pl/104/231/s4/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F231%2Fs4%2F4
-[/us/pl/104/231/s4/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F231%2Fs4%2F7
-[/us/pl/104/231/s4/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F231%2Fs4%2F1
-[/us/pl/104/231/s4/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F231%2Fs4%2F2
+[/us/pl/110/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F175
+[/us/pl/110/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F175
+[/us/pl/110/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F175
+[/us/pl/110/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F175
+[/us/pl/110/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F175
+[/us/pl/110/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F175
+[/us/pl/110/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F175
+[/us/pl/110/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F175
+[/us/pl/110/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F175
+[/us/pl/110/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F175
+[/us/pl/110/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F175
+[/us/pl/110/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F175
+[/us/pl/110/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F175
+[/us/pl/110/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F175
+[/us/pl/110/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F175
+[/us/pl/110/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F175
+[/us/pl/110/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F175
+[/us/pl/107/306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306
+[/us/pl/107/306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306
+[/us/pl/104/231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F231
+[/us/pl/104/231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F231
+[/us/pl/104/231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F231
+[/us/pl/104/231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F231
+[/us/pl/104/231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F231
+[/us/pl/104/231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F231
 [/us/pl/104/231/s4/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F231%2Fs4%2F3
-[/us/pl/104/231/s4/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F231%2Fs4%2F6
-[/us/pl/104/231/s4/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F231%2Fs4%2F3
-[/us/pl/104/231/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F231%2Fs5
-[/us/pl/104/231/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F231%2Fs6
-[/us/pl/104/231/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F231%2Fs8%2Fb
-[/us/pl/104/231/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F231%2Fs7%2Fb
-[/us/pl/104/231/s7/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F231%2Fs7%2Fc
-[/us/pl/104/231/s7/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F231%2Fs7%2Fa
-[/us/pl/104/231/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F231%2Fs8%2Fa
-[/us/pl/104/231/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F231%2Fs9
-[/us/pl/104/231/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F231%2Fs10
-[/us/pl/104/231/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F231%2Fs3
+[/us/pl/104/231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F231
+[/us/pl/104/231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F231
+[/us/pl/104/231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F231
+[/us/pl/104/231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F231
+[/us/pl/104/231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F231
+[/us/pl/104/231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F231
+[/us/pl/104/231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F231
+[/us/pl/104/231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F231
+[/us/pl/104/231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F231
+[/us/pl/104/231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F231
 [/us/usc/t5/s551/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs551%2F1
-[/us/pl/104/231/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F231%2Fs11
-[/us/pl/99/570/s1803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs1803
-[/us/pl/99/570/s1802/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs1802%2Fa
-[/us/pl/99/570/s1802/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs1802%2Fb
+[/us/pl/104/231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F231
+[/us/pl/99/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570
+[/us/pl/99/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570
+[/us/pl/99/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570
 [/us/pl/98/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620
 [/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454
 [/us/pl/94/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F409
 [/us/usc/t5/s552b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552b
-[/us/pl/93/502/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F502%2Fs1%2Fa
-[/us/pl/93/502/s1/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F502%2Fs1%2Fb%2F1
-[/us/pl/93/502/s1/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F502%2Fs1%2Fb%2F2
-[/us/pl/93/502/s1/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F502%2Fs1%2Fc
-[/us/pl/93/502/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F502%2Fs2%2Fa
-[/us/pl/93/502/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F502%2Fs2%2Fb
-[/us/pl/93/502/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F502%2Fs2%2Fc
-[/us/pl/93/502/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F502%2Fs3
+[/us/pl/93/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F502
+[/us/pl/93/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F502
+[/us/pl/93/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F502
+[/us/pl/93/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F502
+[/us/pl/93/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F502
+[/us/pl/93/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F502
+[/us/pl/93/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F502
+[/us/pl/93/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F502
 [/us/pl/90/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F23
 [/us/pl/90/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F23
 [/us/pl/90/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F23
@@ -1568,19 +1568,19 @@ The Freedom of Information Act should be administered with a clear presumption: 
 [/us/pl/90/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F23
 [/us/pl/90/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F23
 [/us/pl/90/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F23
-[/us/pl/110/175/s6/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F175%2Fs6%2Fa%2F2
+[/us/pl/110/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F175
 [/us/stat/121/2526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2526
-[/us/pl/110/175/s6/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F175%2Fs6%2Fb%2F2
+[/us/pl/110/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F175
 [/us/stat/121/2526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2526
 [/us/usc/t5/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552
-[/us/pl/110/175/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F175%2Fs7%2Fb
+[/us/pl/110/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F175
 [/us/stat/121/2527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2527
 [/us/usc/t5/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552
-[/us/pl/110/175/s10/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F175%2Fs10%2Fb
+[/us/pl/110/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F175
 [/us/stat/121/2530]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2530
-[/us/pl/104/231/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F231%2Fs12
+[/us/pl/104/231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F231
 [/us/stat/110/3054]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3054
-[/us/pl/99/570/s1804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs1804
+[/us/pl/99/570/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2FtI
 [/us/stat/100/3207-50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3207-50
 [/us/pl/98/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620
 [/us/pl/98/620/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2Fs403
@@ -1591,43 +1591,43 @@ The Freedom of Information Act should be administered with a clear presumption: 
 [/us/pl/94/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F409
 [/us/pl/94/409/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F409%2Fs6
 [/us/usc/t5/s552b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552b
-[/us/pl/93/502/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F502%2Fs4
+[/us/pl/93/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F502
 [/us/stat/88/1564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1564
-[/us/pl/90/23/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F23%2Fs4
+[/us/pl/90/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F23
 [/us/stat/81/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F56
-[/us/pl/104/231/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F231%2Fs1
+[/us/pl/104/231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F231
 [/us/stat/110/3048]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3048
-[/us/pl/99/570/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs1801
+[/us/pl/99/570/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2FtI
 [/us/stat/100/3207-48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3207-48
 [/us/pl/99/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570
-[/us/pl/111/83/s565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F83%2Fs565
+[/us/pl/111/83/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F83%2FtV
 [/us/stat/123/2184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2184
 [/us/usc/t5/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552
-[/us/pl/110/175/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F175%2Fs2
+[/us/pl/110/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F175
 [/us/stat/121/2524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2524
 [/us/pl/89/487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F487
 [/us/usc/t5/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552
-[/us/pl/110/175/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F175%2Fs4%2Fb
+[/us/pl/110/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F175
 [/us/stat/121/2525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2525
 [/us/usc/t31/s1304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1304
 [/us/usc/t5/s552/a/4/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552%2Fa%2F4%2FE
-[/us/pl/108/375/s914]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs914
+[/us/pl/108/375/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtIX
 [/us/stat/118/2029]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2029
 [/us/usc/t5/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552
 [/us/usc/t15/s5601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs5601
 [/us/usc/t51/s60101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft51%2Fs60101
 [/us/usc/t15/s5602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs5602
 [/us/usc/t51/s60101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft51%2Fs60101
-[/us/pl/108/7/s644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs644
+[/us/pl/108/7/dJ/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2FdJ%2FtVI
 [/us/stat/117/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F473
 [/us/usc/t5/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552
 [/us/usc/t18/s846/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs846%2Fb
 [/us/usc/t5/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552
-[/us/pl/106/567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F567
+[/us/pl/106/567/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F567%2FtVIII
 [/us/stat/114/2864]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2864
-[/us/pl/108/199/s163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2Fs163
+[/us/pl/108/199/dH]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2FdH
 [/us/stat/118/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F452
-[/us/pl/109/5/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F5%2Fs1
+[/us/pl/109/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F5
 [/us/stat/119/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F19
 [/us/usc/t5/s551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs551
 [/us/pl/105/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F246
@@ -1637,7 +1637,7 @@ The Freedom of Information Act should be administered with a clear presumption: 
 [/us/usc/t5/s552/a/6/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552%2Fa%2F6%2FE
 [/us/pl/105/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F246
 [/us/stat/112/1859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1859
-[/us/pl/106/567/s802/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F567%2Fs802%2Fb%2F2
+[/us/pl/106/567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F567
 [/us/stat/114/2865]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2865
 [/us/usc/t5/s551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs551
 [/us/pl/106/567/s802/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F567%2Fs802%2Fb%2F1
@@ -1647,7 +1647,7 @@ The Freedom of Information Act should be administered with a clear presumption: 
 [/us/usc/t5/s552/a/6/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552%2Fa%2F6%2FE
 [/us/pl/104/231/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F231%2Fs2
 [/us/usc/t5/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552
-[/us/pl/103/236/s533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs533
+[/us/pl/103/236/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtV
 [/us/stat/108/480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F480
 [/us/usc/t5/s552/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552%2Fb%2F3
 [/us/usc/t5/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552

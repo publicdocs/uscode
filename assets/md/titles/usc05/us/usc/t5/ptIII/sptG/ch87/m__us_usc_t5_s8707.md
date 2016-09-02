@@ -31,7 +31,7 @@
 
     (d) If an agency fails to withhold the proper amount of life insurance deductions from an individual’s salary, compensation, or retirement annuity, the collection of unpaid deductions may be waived by the agency if, in the judgment of the agency, the individual is without fault and recovery would be against equity and good conscience. However, if the agency so waives the collection of unpaid deductions, the agency shall submit an amount equal to the sum of the uncollected deductions and related agency contributions required under [section 8708 of this title][/us/usc/t5/s8708] to the Office for deposit to the Employees’ Life Insurance Fund.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 595][/us/stat/80/595]; [Pub. L. 90–206, title IV, § 402][/us/pl/90/206/s402], Dec. 16, 1967, [81 Stat. 647][/us/stat/81/647]; [Pub. L. 95–454, title IX, § 906(a)(2)][/us/pl/95/454/s906/a/2], (3), Oct. 13, 1978, [92 Stat. 1224][/us/stat/92/1224]; [Pub. L. 96–427, § 4(a)][/us/pl/96/427/s4/a], Oct. 10, 1980, [94 Stat. 1833][/us/stat/94/1833]; [Pub. L. 105–311, § 6(1)][/us/pl/105/311/s6/1], Oct. 30, 1998, [112 Stat. 2951][/us/stat/112/2951].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 595][/us/stat/80/595]; [Pub. L. 90–206, title IV][/us/pl/90/206/tIV], § 402, Dec. 16, 1967, [81 Stat. 647][/us/stat/81/647]; [Pub. L. 95–454, title IX][/us/pl/95/454/tIX], § 906(a)(2), (3), Oct. 13, 1978, [92 Stat. 1224][/us/stat/92/1224]; [Pub. L. 96–427][/us/pl/96/427], § 4(a), Oct. 10, 1980, [94 Stat. 1833][/us/stat/94/1833]; [Pub. L. 105–311][/us/pl/105/311], § 6(1), Oct. 30, 1998, [112 Stat. 2951][/us/stat/112/2951].)
 
 <table>
 
@@ -85,11 +85,11 @@ Sept. 23, 1959, Pub. L. 86–377, § 4(b), 73 Stat. 701.  </td>
 
  __Amendments__ 
 
-    1998—Subsec. (a). [Pub. L. 105–311, § 6(1)(A)][/us/pl/105/311/s6/1/A], substituted “Subject to subsection (c)(2), during” for “During”.
+    1998—Subsec. (a). [Pub. L. 105–311][/us/pl/105/311], § 6(1)(A), substituted “Subject to subsection (c)(2), during” for “During”.
 
-    Subsec. (b)(1). [Pub. L. 105–311, § 6(1)(B)][/us/pl/105/311/s6/1/B], substituted “Subject to subsection (c)(2), whenever” for “Whenever”.
+    Subsec. (b)(1). [Pub. L. 105–311][/us/pl/105/311], § 6(1)(B), substituted “Subject to subsection (c)(2), whenever” for “Whenever”.
 
-    Subsec. (c). [Pub. L. 105–311, § 6(1)(C)][/us/pl/105/311/s6/1/C], designated existing provisions as par. (1) and added par. (2).
+    Subsec. (c). [Pub. L. 105–311][/us/pl/105/311], § 6(1)(C), designated existing provisions as par. (1) and added par. (2).
 
     1980—Subsec. (a). [Pub. L. 96–427][/us/pl/96/427] designated first sentence of existing section as subsec. (a) and substituted “a policy purchased” for “a policy of insurance purchased” and “the employee’s pay a share of the cost” for “the pay of the employee his share of the cost”.
 
@@ -136,17 +136,17 @@ Sept. 23, 1959, Pub. L. 86–377, § 4(b), 73 Stat. 701.  </td>
 [/us/usc/t5/s8708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8708
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/595]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F595
-[/us/pl/90/206/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F206%2Fs402
+[/us/pl/90/206/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F206%2FtIV
 [/us/stat/81/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F647
-[/us/pl/95/454/s906/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs906%2Fa%2F2
+[/us/pl/95/454/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtIX
 [/us/stat/92/1224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1224
-[/us/pl/96/427/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F427%2Fs4%2Fa
+[/us/pl/96/427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F427
 [/us/stat/94/1833]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1833
-[/us/pl/105/311/s6/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F311%2Fs6%2F1
+[/us/pl/105/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F311
 [/us/stat/112/2951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2951
-[/us/pl/105/311/s6/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F311%2Fs6%2F1%2FA
-[/us/pl/105/311/s6/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F311%2Fs6%2F1%2FB
-[/us/pl/105/311/s6/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F311%2Fs6%2F1%2FC
+[/us/pl/105/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F311
+[/us/pl/105/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F311
+[/us/pl/105/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F311
 [/us/pl/96/427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F427
 [/us/pl/96/427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F427
 [/us/pl/96/427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F427

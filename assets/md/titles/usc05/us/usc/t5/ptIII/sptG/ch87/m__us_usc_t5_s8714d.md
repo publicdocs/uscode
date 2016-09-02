@@ -73,11 +73,11 @@
 
         (6) The regulations shall include provisions to address the question of how to apply section 8706(b)(3)(B) in the case of an electing individual who has attained 65 years of age.
 
-(Added [Pub. L. 103–409, § 2(a)][/us/pl/103/409/s2/a], Oct. 25, 1994, [108 Stat. 4230][/us/stat/108/4230].)
+(Added [Pub. L. 103–409][/us/pl/103/409], § 2(a), Oct. 25, 1994, [108 Stat. 4230][/us/stat/108/4230].)
 
  __Effective Date of 1994 Amendment__ 
 
-[Pub. L. 103–409, § 3(a)][/us/pl/103/409/s3/a], Oct. 25, 1994, [108 Stat. 4232][/us/stat/108/4232], provided that: 
+[Pub. L. 103–409][/us/pl/103/409], § 3(a), Oct. 25, 1994, [108 Stat. 4232][/us/stat/108/4232], provided that: 
 
 > “The amendments made by section 2 \[enacting this section\] shall take effect 9 months after the date of the enactment of this Act \[Oct. 25, 1994\].”
 
@@ -88,9 +88,9 @@
 ----------
 ----------
 
-[/us/pl/103/409/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F409%2Fs2%2Fa
+[/us/pl/103/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F409
 [/us/stat/108/4230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4230
-[/us/pl/103/409/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F409%2Fs3%2Fa
+[/us/pl/103/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F409
 [/us/stat/108/4232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4232
 
 

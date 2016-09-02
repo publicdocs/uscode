@@ -291,7 +291,7 @@
 
         (2) An audit under this subsection may be conducted by the Secretary of Labor, by contract with a qualified non-governmental organization, or in cooperation with the Comptroller General of the United States, as the Secretary considers appropriate.
 
-(Added [Pub. L. 99–335, title I, § 101(a)][/us/pl/99/335/s101/a], June 6, 1986, [100 Stat. 582][/us/stat/100/582]; amended [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 99–556, title I][/us/pl/99/556], §§ 112, 114(b), Oct. 27, 1986, [100 Stat. 3133][/us/stat/100/3133]; [Pub. L. 100–238, title I, § 133(a)][/us/pl/100/238/s133/a], (c), Jan. 8, 1988, [101 Stat. 1760][/us/stat/101/1760], 1762; [Pub. L. 100–366, § 3(a)][/us/pl/100/366/s3/a], July 13, 1988, [102 Stat. 826][/us/stat/102/826]; [Pub. L. 101–335, § 8][/us/pl/101/335/s8], July 17, 1990, [104 Stat. 325][/us/stat/104/325]; [Pub. L. 111–31, div. B, title I, § 106(b)][/us/pl/111/31/s106/b], June 22, 2009, [123 Stat. 1855][/us/stat/123/1855]; [Pub. L. 113–255, § 3][/us/pl/113/255/s3], Dec. 18, 2014, [128 Stat. 2921][/us/stat/128/2921].)
+(Added [Pub. L. 99–335, title I][/us/pl/99/335/tI], § 101(a), June 6, 1986, [100 Stat. 582][/us/stat/100/582]; amended [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 99–556, title I][/us/pl/99/556/tI], §§ 112, 114(b), Oct. 27, 1986, [100 Stat. 3133][/us/stat/100/3133]; [Pub. L. 100–238, title I][/us/pl/100/238/tI], § 133(a), (c), Jan. 8, 1988, [101 Stat. 1760][/us/stat/101/1760], 1762; [Pub. L. 100–366][/us/pl/100/366], § 3(a), July 13, 1988, [102 Stat. 826][/us/stat/102/826]; [Pub. L. 101–335][/us/pl/101/335], § 8, July 17, 1990, [104 Stat. 325][/us/stat/104/325]; [Pub. L. 111–31, div. B, title I][/us/pl/111/31/dB/tI], § 106(b), June 22, 2009, [123 Stat. 1855][/us/stat/123/1855]; [Pub. L. 113–255][/us/pl/113/255], § 3, Dec. 18, 2014, [128 Stat. 2921][/us/stat/128/2921].)
 
  __References in Text__ 
 
@@ -305,21 +305,21 @@
 
  __Amendments__ 
 
-    2014—Subsec. (e)(1)(C)(ii)(II). [Pub. L. 113–255, § 3(1)][/us/pl/113/255/s3/1], inserted “or beneficiary” after “participant” and “or option” after “fund”.
+    2014—Subsec. (e)(1)(C)(ii)(II). [Pub. L. 113–255][/us/pl/113/255], § 3(1), inserted “or beneficiary” after “participant” and “or option” after “fund”.
 
-    Subsec. (e)(1)(C)(ii)(III). [Pub. L. 113–255, § 3(2)][/us/pl/113/255/s3/2], inserted “or beneficiary” after “participant” and “or beneficiaries’ ” after “participants’ ”.
+    Subsec. (e)(1)(C)(ii)(III). [Pub. L. 113–255][/us/pl/113/255], § 3(2), inserted “or beneficiary” after “participant” and “or beneficiaries’ ” after “participants’ ”.
 
     2009—Subsec. (e)(1)(C). [Pub. L. 111–31][/us/pl/111/31] designated existing provisions as cl. (i) and added cl. (ii).
 
     1990—[Pub. L. 101–335][/us/pl/101/335] repealed [section 133(c) of Pub. L. 100–238][/us/pl/100/238/s133/c]. See Effective Date of 1988 Amendment note below.
 
-    1988—Subsec. (e)(1)(A). [Pub. L. 100–238, § 133(a)(1)][/us/pl/100/238/s133/a/1], inserted “, except as provided in paragraphs (3) and (4) of this subsection”.
+    1988—Subsec. (e)(1)(A). [Pub. L. 100–238][/us/pl/100/238], § 133(a)(1), inserted “, except as provided in paragraphs (3) and (4) of this subsection”.
 
-    Subsec. (e)(1)(B). [Pub. L. 100–238, § 133(a)(2)][/us/pl/100/238/s133/a/2], substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
+    Subsec. (e)(1)(B). [Pub. L. 100–238][/us/pl/100/238], § 133(a)(2), substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 
-    Subsec. (e)(1)(D). [Pub. L. 100–238, § 133(a)(3)][/us/pl/100/238/s133/a/3], inserted “only” in introductory provisions.
+    Subsec. (e)(1)(D). [Pub. L. 100–238][/us/pl/100/238], § 133(a)(3), inserted “only” in introductory provisions.
 
-    Subsec. (e)(2), (3). [Pub. L. 100–238, § 133(a)(5)][/us/pl/100/238/s133/a/5], added pars. (2) and (3) and struck out former pars. (2) and (3) which read as follows:
+    Subsec. (e)(2), (3). [Pub. L. 100–238][/us/pl/100/238], § 133(a)(5), added pars. (2) and (3) and struck out former pars. (2) and (3) which read as follows:
 
     “(2) A civil action may be brought in the district courts of the United States—
 
@@ -345,33 +345,33 @@
 
     “(B) 3 years after the earliest date on which the plaintiff had actual knowledge of the breach or violation, except that, in the case of fraud or concealment, such action may be commenced not later than 6 years after the date of discovery of such breach or violation.”
 
-    Subsec. (e)(3)(C)(ii). [Pub. L. 100–366, § 3(a)(1)][/us/pl/100/366/s3/a/1], substituted “28, provided that” for “28, if” and “shall be exclusive of” for “is exclusive of”.
+    Subsec. (e)(3)(C)(ii). [Pub. L. 100–366][/us/pl/100/366], § 3(a)(1), substituted “28, provided that” for “28, if” and “shall be exclusive of” for “is exclusive of”.
 
-    Subsec. (e)(4) to (8). [Pub. L. 100–238, § 133(a)(4)][/us/pl/100/238/s133/a/4], (5), added pars. (4) to (6) and redesignated former pars. (4) and (5) as (7) and (8), respectively.
+    Subsec. (e)(4) to (8). [Pub. L. 100–238][/us/pl/100/238], § 133(a)(4), (5), added pars. (4) to (6) and redesignated former pars. (4) and (5) as (7) and (8), respectively.
 
-    Subsec. (e)(5). [Pub. L. 100–366, § 3(a)(2)][/us/pl/100/366/s3/a/2], substituted “paragraph (3)” for “paragraphs (3) and (4)”.
+    Subsec. (e)(5). [Pub. L. 100–366][/us/pl/100/366], § 3(a)(2), substituted “paragraph (3)” for “paragraphs (3) and (4)”.
 
-    1986—Subsec. (c)(3)(E). [Pub. L. 99–556, § 112][/us/pl/99/556/s112], added subpar. (E).
+    1986—Subsec. (c)(3)(E). [Pub. L. 99–556][/us/pl/99/556], § 112, added subpar. (E).
 
     Subsec. (e)(1)(B). [Pub. L. 99–514][/us/pl/99/514] substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 
-    Subsec. (e)(1)(E)(i). [Pub. L. 99–556, § 114(b)][/us/pl/99/556/s114/b], substituted “Secretary of Labor (or the Board under section 114 of the Federal Employees’ Retirement System Technical Corrections Act of 1986)” for “Board”.
+    Subsec. (e)(1)(E)(i). [Pub. L. 99–556][/us/pl/99/556], § 114(b), substituted “Secretary of Labor (or the Board under section 114 of the Federal Employees’ Retirement System Technical Corrections Act of 1986)” for “Board”.
 
  __Effective Date of 1988 Amendments__ 
 
-[Pub. L. 100–366, § 3(b)][/us/pl/100/366/s3/b], July 13, 1988, [102 Stat. 826][/us/stat/102/826], provided that: 
+[Pub. L. 100–366][/us/pl/100/366], § 3(b), July 13, 1988, [102 Stat. 826][/us/stat/102/826], provided that: 
 
 > “[Section 8477(e) of title 5][/us/usc/t5/s8477/e], United States Code, as amended by subsection (a), shall apply to any civil action or proceeding arising from any act or omission occurring on or after October 1, 1986.”
 
-[Pub. L. 100–238, title I, § 133(b)][/us/pl/100/238/s133/b], Jan. 8, 1988, [101 Stat. 1762][/us/stat/101/1762], provided that: 
+[Pub. L. 100–238, title I][/us/pl/100/238/tI], § 133(b), Jan. 8, 1988, [101 Stat. 1762][/us/stat/101/1762], provided that: 
 
 > “The provisions of section 8477(e)(1), (2), (3), (4), (5), and (6) of title 5, United States Code (as amended by subsection (a) of this section), shall apply to any civil action or proceeding arising from any act or omission occurring on or after October 1, 1986.”
 
-    [Pub. L. 100–238, title I, § 133(c)][/us/pl/100/238/s133/c], Jan. 8, 1988, [101 Stat. 1762][/us/stat/101/1762], which provided that the provisions of subsection (a) (and the amendments to [section 8477(e) of title 5][/us/usc/t5/s8477/e] contained therein) and subsection (b) of this section were to be repealed effective on Dec. 31, 1990, and that on and after Dec. 31, 1990, the provisions of [section 8477(e) of title 5][/us/usc/t5/s8477/e] were to be in effect as such provisions were in effect on Jan. 7, 1988, was repealed by [Pub. L. 101–335, § 8][/us/pl/101/335/s8], July 17, 1990, [104 Stat. 325][/us/stat/104/325].
+    [Pub. L. 100–238, title I][/us/pl/100/238/tI], § 133(c), Jan. 8, 1988, [101 Stat. 1762][/us/stat/101/1762], which provided that the provisions of subsection (a) (and the amendments to [section 8477(e) of title 5][/us/usc/t5/s8477/e] contained therein) and subsection (b) of this section were to be repealed effective on Dec. 31, 1990, and that on and after Dec. 31, 1990, the provisions of [section 8477(e) of title 5][/us/usc/t5/s8477/e] were to be in effect as such provisions were in effect on Jan. 7, 1988, was repealed by [Pub. L. 101–335][/us/pl/101/335], § 8, July 17, 1990, [104 Stat. 325][/us/stat/104/325].
 
  __Interim Exemption Procedures__ 
 
-[Pub. L. 99–556, title I, § 111][/us/pl/99/556/s111], Oct. 27, 1986, [100 Stat. 3133][/us/stat/100/3133], provided that:
+[Pub. L. 99–556, title I][/us/pl/99/556/tI], § 111, Oct. 27, 1986, [100 Stat. 3133][/us/stat/100/3133], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -383,7 +383,7 @@
 
  __Allocation of Fiduciary Responsibilities__ 
 
-[Pub. L. 99–556, title I, § 114(a)][/us/pl/99/556/s114/a], Oct. 27, 1986, [100 Stat. 3133][/us/stat/100/3133], provided that:
+[Pub. L. 99–556, title I][/us/pl/99/556/tI], § 114(a), Oct. 27, 1986, [100 Stat. 3133][/us/stat/100/3133], provided that:
 
 >     “(1) Subject to paragraph (2), until such time as final regulations under subparagraph (E) of [section 8477(e)(1) of title 5][/us/usc/t5/s8477/e/1], United States Code, become effective, a fiduciary (as defined by [section 8477(a)(3) of title 5][/us/usc/t5/s8477/a/3], United States Code) may, in accordance with procedures established by the Federal Retirement Thrift Investment Board, make any allocation of fiduciary responsibilities.
 
@@ -403,58 +403,58 @@
 [/us/usc/t28/s518/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs518%2Fa
 [/us/usc/t28/s2677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2677
 [/us/usc/t28/s2672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2672
-[/us/pl/99/335/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2Fs101%2Fa
+[/us/pl/99/335/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2FtI
 [/us/stat/100/582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F582
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
-[/us/pl/99/556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F556
+[/us/pl/99/556/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F556%2FtI
 [/us/stat/100/3133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3133
-[/us/pl/100/238/s133/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F238%2Fs133%2Fa
+[/us/pl/100/238/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F238%2FtI
 [/us/stat/101/1760]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1760
-[/us/pl/100/366/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F366%2Fs3%2Fa
+[/us/pl/100/366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F366
 [/us/stat/102/826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F826
-[/us/pl/101/335/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F335%2Fs8
+[/us/pl/101/335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F335
 [/us/stat/104/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F325
-[/us/pl/111/31/s106/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31%2Fs106%2Fb
+[/us/pl/111/31/dB/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31%2FdB%2FtI
 [/us/stat/123/1855]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1855
-[/us/pl/113/255/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F255%2Fs3
+[/us/pl/113/255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F255
 [/us/stat/128/2921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2921
 [/us/usc/t15/s78f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78f
 [/us/usc/t29/s1108/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1108%2Fa
 [/us/pl/99/556/s114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F556%2Fs114
-[/us/pl/113/255/s3/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F255%2Fs3%2F1
-[/us/pl/113/255/s3/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F255%2Fs3%2F2
+[/us/pl/113/255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F255
+[/us/pl/113/255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F255
 [/us/pl/111/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31
 [/us/pl/101/335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F335
 [/us/pl/100/238/s133/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F238%2Fs133%2Fc
-[/us/pl/100/238/s133/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F238%2Fs133%2Fa%2F1
-[/us/pl/100/238/s133/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F238%2Fs133%2Fa%2F2
-[/us/pl/100/238/s133/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F238%2Fs133%2Fa%2F3
-[/us/pl/100/238/s133/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F238%2Fs133%2Fa%2F5
+[/us/pl/100/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F238
+[/us/pl/100/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F238
+[/us/pl/100/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F238
+[/us/pl/100/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F238
 [/us/usc/t5/s8472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8472
-[/us/pl/100/366/s3/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F366%2Fs3%2Fa%2F1
-[/us/pl/100/238/s133/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F238%2Fs133%2Fa%2F4
-[/us/pl/100/366/s3/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F366%2Fs3%2Fa%2F2
-[/us/pl/99/556/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F556%2Fs112
+[/us/pl/100/366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F366
+[/us/pl/100/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F238
+[/us/pl/100/366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F366
+[/us/pl/99/556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F556
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
-[/us/pl/99/556/s114/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F556%2Fs114%2Fb
-[/us/pl/100/366/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F366%2Fs3%2Fb
+[/us/pl/99/556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F556
+[/us/pl/100/366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F366
 [/us/stat/102/826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F826
 [/us/usc/t5/s8477/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8477%2Fe
-[/us/pl/100/238/s133/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F238%2Fs133%2Fb
+[/us/pl/100/238/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F238%2FtI
 [/us/stat/101/1762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1762
-[/us/pl/100/238/s133/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F238%2Fs133%2Fc
+[/us/pl/100/238/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F238%2FtI
 [/us/stat/101/1762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1762
 [/us/usc/t5/s8477/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8477%2Fe
 [/us/usc/t5/s8477/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8477%2Fe
-[/us/pl/101/335/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F335%2Fs8
+[/us/pl/101/335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F335
 [/us/stat/104/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F325
-[/us/pl/99/556/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F556%2Fs111
+[/us/pl/99/556/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F556%2FtI
 [/us/stat/100/3133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3133
 [/us/usc/t5/s8477/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8477%2Fc%2F3
 [/us/usc/t29/s1108/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1108%2Fa
 [/us/usc/t5/s8477/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8477%2Fc%2F3
-[/us/pl/99/556/s114/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F556%2Fs114%2Fa
+[/us/pl/99/556/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F556%2FtI
 [/us/stat/100/3133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3133
 [/us/usc/t5/s8477/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8477%2Fe%2F1
 [/us/usc/t5/s8477/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8477%2Fa%2F3

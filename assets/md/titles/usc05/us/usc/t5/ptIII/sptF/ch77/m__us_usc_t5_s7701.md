@@ -129,7 +129,7 @@
 
     (k) The Board may prescribe regulations to carry out the purpose of this section.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 530][/us/stat/80/530]; [Pub. L. 95–454, title II, § 205][/us/pl/95/454/s205], Oct. 13, 1978, [92 Stat. 1138][/us/stat/92/1138]; [Pub. L. 96–54, § 2(a)(45)][/us/pl/96/54/s2/a/45], Aug. 14, 1979, [93 Stat. 384][/us/stat/93/384]; [Pub. L. 99–386, title II, § 208][/us/pl/99/386/s208], Aug. 22, 1986, [100 Stat. 824][/us/stat/100/824]; [Pub. L. 101–12, § 6][/us/pl/101/12/s6], Apr. 10, 1989, [103 Stat. 33][/us/stat/103/33]; [Pub. L. 101–194, title V, § 506(b)(6)][/us/pl/101/194/s506/b/6], Nov. 30, 1989, [103 Stat. 1758][/us/stat/103/1758]; [Pub. L. 101–280, § 6(d)(2)][/us/pl/101/280/s6/d/2], May 4, 1990, [104 Stat. 160][/us/stat/104/160]; [Pub. L. 101–376, § 3][/us/pl/101/376/s3], Aug. 17, 1990, [104 Stat. 462][/us/stat/104/462]; [Pub. L. 102–175, § 5][/us/pl/102/175/s5], Dec. 2, 1991, [105 Stat. 1223][/us/stat/105/1223]; [Pub. L. 102–378, § 2(56)][/us/pl/102/378/s2/56], Oct. 2, 1992, [106 Stat. 1354][/us/stat/106/1354]; [Pub. L. 107–296, title XIII, § 1321(a)(3)][/us/pl/107/296/s1321/a/3], Nov. 25, 2002, [116 Stat. 2297][/us/stat/116/2297].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 530][/us/stat/80/530]; [Pub. L. 95–454, title II][/us/pl/95/454/tII], § 205, Oct. 13, 1978, [92 Stat. 1138][/us/stat/92/1138]; [Pub. L. 96–54][/us/pl/96/54], § 2(a)(45), Aug. 14, 1979, [93 Stat. 384][/us/stat/93/384]; [Pub. L. 99–386, title II][/us/pl/99/386/tII], § 208, Aug. 22, 1986, [100 Stat. 824][/us/stat/100/824]; [Pub. L. 101–12][/us/pl/101/12], § 6, Apr. 10, 1989, [103 Stat. 33][/us/stat/103/33]; [Pub. L. 101–194, title V][/us/pl/101/194/tV], § 506(b)(6), Nov. 30, 1989, [103 Stat. 1758][/us/stat/103/1758]; [Pub. L. 101–280][/us/pl/101/280], § 6(d)(2), May 4, 1990, [104 Stat. 160][/us/stat/104/160]; [Pub. L. 101–376][/us/pl/101/376], § 3, Aug. 17, 1990, [104 Stat. 462][/us/stat/104/462]; [Pub. L. 102–175][/us/pl/102/175], § 5, Dec. 2, 1991, [105 Stat. 1223][/us/stat/105/1223]; [Pub. L. 102–378][/us/pl/102/378], § 2(56), Oct. 2, 1992, [106 Stat. 1354][/us/stat/106/1354]; [Pub. L. 107–296, title XIII][/us/pl/107/296/tXIII], § 1321(a)(3), Nov. 25, 2002, [116 Stat. 2297][/us/stat/116/2297].)
 
 <table>
 
@@ -217,11 +217,11 @@ June 22, 1948, ch. 604, 62 Stat. 575.  </td>
 
     1986—Subsec. (i)(2). [Pub. L. 99–386][/us/pl/99/386] substituted “fiscal” for “calendar”.
 
-    1979—Subsec. (e)(1). [Pub. L. 96–54, § 2(a)(45)(A)][/us/pl/96/54/s2/a/45/A], substituted “administrative” for “administration”.
+    1979—Subsec. (e)(1). [Pub. L. 96–54][/us/pl/96/54], § 2(a)(45)(A), substituted “administrative” for “administration”.
 
-    Subsec. (g)(1). [Pub. L. 96–54, § 2(a)(45)(B)][/us/pl/96/54/s2/a/45/B], substituted “(as the case may be)” for “, as the case may be,”.
+    Subsec. (g)(1). [Pub. L. 96–54][/us/pl/96/54], § 2(a)(45)(B), substituted “(as the case may be)” for “, as the case may be,”.
 
-    Subsec. (h). [Pub. L. 96–54, § 2(a)(45)(C)][/us/pl/96/54/s2/a/45/C], substituted “subsection (e)” for “subsection (d)”.
+    Subsec. (h). [Pub. L. 96–54][/us/pl/96/54], § 2(a)(45)(C), substituted “subsection (e)” for “subsection (d)”.
 
     1978—[Pub. L. 95–454][/us/pl/95/454] substituted “Appellate procedures” for “Appeals of preference eligibles” in section catchline, and in text substituted provisions relating to procedures applicable with respect to the Merit Systems Protection Board for an employee or applicant for employment, for provisions relating to appeals of preference eligible employees.
 
@@ -273,25 +273,25 @@ June 22, 1948, ch. 604, 62 Stat. 575.  </td>
 [/us/usc/t42/s2000e–5/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2000e%E2%80%935%2Fk
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/530]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F530
-[/us/pl/95/454/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs205
+[/us/pl/95/454/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtII
 [/us/stat/92/1138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1138
-[/us/pl/96/54/s2/a/45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F54%2Fs2%2Fa%2F45
+[/us/pl/96/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F54
 [/us/stat/93/384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F384
-[/us/pl/99/386/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F386%2Fs208
+[/us/pl/99/386/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F386%2FtII
 [/us/stat/100/824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F824
-[/us/pl/101/12/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F12%2Fs6
+[/us/pl/101/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F12
 [/us/stat/103/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F33
-[/us/pl/101/194/s506/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194%2Fs506%2Fb%2F6
+[/us/pl/101/194/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194%2FtV
 [/us/stat/103/1758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1758
-[/us/pl/101/280/s6/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280%2Fs6%2Fd%2F2
+[/us/pl/101/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280
 [/us/stat/104/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F160
-[/us/pl/101/376/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F376%2Fs3
+[/us/pl/101/376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F376
 [/us/stat/104/462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F462
-[/us/pl/102/175/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F175%2Fs5
+[/us/pl/102/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F175
 [/us/stat/105/1223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1223
-[/us/pl/102/378/s2/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378%2Fs2%2F56
+[/us/pl/102/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378
 [/us/stat/106/1354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1354
-[/us/pl/107/296/s1321/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1321%2Fa%2F3
+[/us/pl/107/296/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXIII
 [/us/stat/116/2297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2297
 [/us/usc/t5/s7511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs7511
 [/us/usc/t5/s7512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs7512
@@ -306,9 +306,9 @@ June 22, 1948, ch. 604, 62 Stat. 575.  </td>
 [/us/pl/101/194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194
 [/us/pl/101/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280
 [/us/pl/99/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F386
-[/us/pl/96/54/s2/a/45/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F54%2Fs2%2Fa%2F45%2FA
-[/us/pl/96/54/s2/a/45/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F54%2Fs2%2Fa%2F45%2FB
-[/us/pl/96/54/s2/a/45/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F54%2Fs2%2Fa%2F45%2FC
+[/us/pl/96/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F54
+[/us/pl/96/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F54
+[/us/pl/96/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F54
 [/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/pl/107/296/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs4

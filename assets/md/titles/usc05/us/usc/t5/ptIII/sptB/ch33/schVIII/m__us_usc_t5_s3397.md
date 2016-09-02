@@ -17,13 +17,13 @@
 
     The Office of Personnel Management shall prescribe regulations to carry out the purpose of this subchapter.
 
-(Added [Pub. L. 95–454, title IV, § 403(a)][/us/pl/95/454/s403/a], Oct. 13, 1978, [92 Stat. 1164][/us/stat/92/1164].)
+(Added [Pub. L. 95–454, title IV][/us/pl/95/454/tIV], § 403(a), Oct. 13, 1978, [92 Stat. 1164][/us/stat/92/1164].)
 
  __Prior Provisions__ 
 
-    A prior section 3397, added [Pub. L. 95–437, § 3(a)][/us/pl/95/437/s3/a], Oct. 10, 1978, [92 Stat. 1058][/us/stat/92/1058], which related to reports, was renumbered as [section 3407 of this title][/us/usc/t5/s3407] by [Pub. L. 95–454, title IX, § 906(c)(1)(B)][/us/pl/95/454/s906/c/1/B], Oct. 13, 1978, [92 Stat. 1226][/us/stat/92/1226].
+    A prior section 3397, added [Pub. L. 95–437][/us/pl/95/437], § 3(a), Oct. 10, 1978, [92 Stat. 1058][/us/stat/92/1058], which related to reports, was renumbered as [section 3407 of this title][/us/usc/t5/s3407] by [Pub. L. 95–454, title IX][/us/pl/95/454/tIX], § 906(c)(1)(B), Oct. 13, 1978, [92 Stat. 1226][/us/stat/92/1226].
 
-    A prior section 3398, added [Pub. L. 95–437, § 3(a)][/us/pl/95/437/s3/a], Oct. 10, 1978, [92 Stat. 1058][/us/stat/92/1058], which related to representation by employee organizations of employees employed on a part-time career employment basis, was renumbered as [section 3408 of this title][/us/usc/t5/s3408] by [Pub. L. 95–454, title IX, § 906(c)(1)(B)][/us/pl/95/454/s906/c/1/B], Oct. 13, 1978, [92 Stat. 1226][/us/stat/92/1226].
+    A prior section 3398, added [Pub. L. 95–437][/us/pl/95/437], § 3(a), Oct. 10, 1978, [92 Stat. 1058][/us/stat/92/1058], which related to representation by employee organizations of employees employed on a part-time career employment basis, was renumbered as [section 3408 of this title][/us/usc/t5/s3408] by [Pub. L. 95–454, title IX][/us/pl/95/454/tIX], § 906(c)(1)(B), Oct. 13, 1978, [92 Stat. 1226][/us/stat/92/1226].
 
 ----------
 
@@ -32,17 +32,17 @@
 ----------
 ----------
 
-[/us/pl/95/454/s403/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs403%2Fa
+[/us/pl/95/454/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtIV
 [/us/stat/92/1164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1164
-[/us/pl/95/437/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F437%2Fs3%2Fa
+[/us/pl/95/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F437
 [/us/stat/92/1058]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1058
 [/us/usc/t5/s3407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3407
-[/us/pl/95/454/s906/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs906%2Fc%2F1%2FB
+[/us/pl/95/454/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtIX
 [/us/stat/92/1226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1226
-[/us/pl/95/437/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F437%2Fs3%2Fa
+[/us/pl/95/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F437
 [/us/stat/92/1058]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1058
 [/us/usc/t5/s3408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3408
-[/us/pl/95/454/s906/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs906%2Fc%2F1%2FB
+[/us/pl/95/454/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtIX
 [/us/stat/92/1226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1226
 
 

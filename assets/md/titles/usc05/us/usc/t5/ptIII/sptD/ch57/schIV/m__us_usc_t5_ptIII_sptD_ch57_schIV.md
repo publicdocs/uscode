@@ -17,7 +17,7 @@
 
  __Amendments__ 
 
-    1970—[Pub. L. 91–563, § 4(a)][/us/pl/91/563/s4/a], Dec. 19, 1970, [84 Stat. 1477][/us/stat/84/1477], added heading of Subchapter IV.
+    1970—[Pub. L. 91–563][/us/pl/91/563], § 4(a), Dec. 19, 1970, [84 Stat. 1477][/us/stat/84/1477], added heading of Subchapter IV.
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/91/563/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F563%2Fs4%2Fa
+[/us/pl/91/563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F563
 [/us/stat/84/1477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1477
 
 

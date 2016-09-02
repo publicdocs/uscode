@@ -19,7 +19,7 @@
 
     (b) As used in other Acts of Congress, “unclassified civil service” or “unclassified service” means the “excepted service”.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 408][/us/stat/80/408]; [Pub. L. 95–454, title IV, § 401(c)][/us/pl/95/454/s401/c], Oct. 13, 1978, [92 Stat. 1154][/us/stat/92/1154].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 408][/us/stat/80/408]; [Pub. L. 95–454, title IV][/us/pl/95/454/tIV], § 401(c), Oct. 13, 1978, [92 Stat. 1154][/us/stat/92/1154].)
 
  __Historical and Revision Notes__ 
 
@@ -42,7 +42,7 @@
 
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F408
-[/us/pl/95/454/s401/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs401%2Fc
+[/us/pl/95/454/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtIV
 [/us/stat/92/1154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1154
 [/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454
 [/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454

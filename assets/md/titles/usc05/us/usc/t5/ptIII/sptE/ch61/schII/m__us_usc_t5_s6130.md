@@ -23,7 +23,7 @@
 
     (b) An agency may not participate in a flexible or compressed schedule program under a collective bargaining agreement which contains premium pay provisions which are inconsistent with the provisions of section 6123 or 6128 of this title, as applicable.
 
-(Added [Pub. L. 97–221, § 2(a)(2)][/us/pl/97/221/s2/a/2], July 23, 1982, [96 Stat. 231][/us/stat/96/231].)
+(Added [Pub. L. 97–221][/us/pl/97/221], § 2(a)(2), July 23, 1982, [96 Stat. 231][/us/stat/96/231].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/97/221/s2/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F221%2Fs2%2Fa%2F2
+[/us/pl/97/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F221
 [/us/stat/96/231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F231
 
 

@@ -27,7 +27,7 @@
 
     (c) An election under this section shall be made, in writing, in such form and manner as the Merit Systems Protection Board shall by regulation prescribe. The election shall be effective as of the date on which it is received, and the administrative proceeding to which it relates shall terminate immediately upon the receipt of such election.
 
-(Added [Pub. L. 105–339, § 3(a)][/us/pl/105/339/s3/a], Oct. 31, 1998, [112 Stat. 3184][/us/stat/112/3184]; amended [Pub. L. 108–454, title VIII, § 804(b)][/us/pl/108/454/s804/b], Dec. 10, 2004, [118 Stat. 3626][/us/stat/118/3626].)
+(Added [Pub. L. 105–339][/us/pl/105/339], § 3(a), Oct. 31, 1998, [112 Stat. 3184][/us/stat/112/3184]; amended [Pub. L. 108–454, title VIII][/us/pl/108/454/tVIII], § 804(b), Dec. 10, 2004, [118 Stat. 3626][/us/stat/118/3626].)
 
  __Amendments__ 
 
@@ -40,9 +40,9 @@
 ----------
 ----------
 
-[/us/pl/105/339/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F339%2Fs3%2Fa
+[/us/pl/105/339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F339
 [/us/stat/112/3184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3184
-[/us/pl/108/454/s804/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F454%2Fs804%2Fb
+[/us/pl/108/454/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F454%2FtVIII
 [/us/stat/118/3626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3626
 [/us/pl/108/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F454
 

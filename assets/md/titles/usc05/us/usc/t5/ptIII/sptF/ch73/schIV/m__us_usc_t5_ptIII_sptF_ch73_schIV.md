@@ -17,7 +17,7 @@
 
  __Amendments__ 
 
-    1967—[Pub. L. 90–83, § 1(45)(A)][/us/pl/90/83/s1/45/A], Sept. 11, 1967, [81 Stat. 208][/us/stat/81/208], substituted “FOREIGN GIFTS AND DECORATIONS” for “FOREIGN DECORATIONS” in subchapter heading.
+    1967—[Pub. L. 90–83][/us/pl/90/83], § 1(45)(A), Sept. 11, 1967, [81 Stat. 208][/us/stat/81/208], substituted “FOREIGN GIFTS AND DECORATIONS” for “FOREIGN DECORATIONS” in subchapter heading.
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/90/83/s1/45/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83%2Fs1%2F45%2FA
+[/us/pl/90/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83
 [/us/stat/81/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F208
 
 

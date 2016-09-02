@@ -19,7 +19,7 @@
 
     (b) For the purpose of this section, the term “police forces of the Bureau of Engraving and Printing and the United States Mint” means the employees of the Department of the Treasury who are appointed, under the authority of the Secretary of the Treasury, as police officers for the protection of the Bureau of Engraving and Printing and the United States Mint buildings and property.
 
-(Added [Pub. L. 101–509, title V, § 529][/us/pl/101/509/s529] \[title I, § 109(a)(1)(A)\], Nov. 5, 1990, [104 Stat. 1427][/us/stat/104/1427], 1451; amended [Pub. L. 104–52, title V, § 521][/us/pl/104/52/s521], Nov. 19, 1995, [109 Stat. 494][/us/stat/109/494]; [Pub. L. 105–61, title I, § 121][/us/pl/105/61/s121], Oct. 10, 1997, [111 Stat. 1289][/us/stat/111/1289].)
+(Added [Pub. L. 101–509, title V][/us/pl/101/509/tV], § 529 \[title I, § 109(a)(1)(A)\], Nov. 5, 1990, [104 Stat. 1427][/us/stat/104/1427], 1451; amended [Pub. L. 104–52, title V][/us/pl/104/52/tV], § 521, Nov. 19, 1995, [109 Stat. 494][/us/stat/109/494]; [Pub. L. 105–61, title I][/us/pl/105/61/tI], § 121, Oct. 10, 1997, [111 Stat. 1289][/us/stat/111/1289].)
 
  __References in Text__ 
 
@@ -33,7 +33,7 @@
 
  __Effective Date; Conversion and Savings Provisions__ 
 
-[Pub. L. 101–509, title V, § 529][/us/pl/101/509/s529] \[title I, § 109(c)\], Nov. 5, 1990, [104 Stat. 1427][/us/stat/104/1427], 1452, provided that:
+[Pub. L. 101–509, title V][/us/pl/101/509/tV], § 529 \[title I, § 109(c)\], Nov. 5, 1990, [104 Stat. 1427][/us/stat/104/1427], 1452, provided that:
 
 >     “(1) This section and the amendments made by this section \[enacting this section, amending [section 5102 of this title][/us/usc/t5/s5102], and enacting provisions set out as a note below\] shall become effective on the first day of the first applicable pay period beginning on or after the 30th day following the date of enactment of this Act \[Nov. 5, 1990\].
 
@@ -69,7 +69,7 @@
 
  __Special Pay Rates Not Affected__ 
 
-[Pub. L. 101–509, title V, § 529][/us/pl/101/509/s529] \[title I, § 109(b)\], Nov. 5, 1990, [104 Stat. 1427][/us/stat/104/1427], 1451, as amended by [Pub. L. 102–378, § 3(1)][/us/pl/102/378/s3/1], Oct. 2, 1992, [106 Stat. 1355][/us/stat/106/1355], provided that: 
+[Pub. L. 101–509, title V][/us/pl/101/509/tV], § 529 \[title I, § 109(b)\], Nov. 5, 1990, [104 Stat. 1427][/us/stat/104/1427], 1451, as amended by [Pub. L. 102–378][/us/pl/102/378], § 3(1), Oct. 2, 1992, [106 Stat. 1355][/us/stat/106/1355], provided that: 
 
 > “Nothing in this section or in any amendment made by this section \[enacting this section, amending [section 5102 of this title][/us/usc/t5/s5102], and enacting provisions set out as a note above\] shall—
 
@@ -86,22 +86,22 @@
 ----------
 ----------
 
-[/us/pl/101/509/s529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2Fs529
+[/us/pl/101/509/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2FtV
 [/us/stat/104/1427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1427
-[/us/pl/104/52/s521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F52%2Fs521
+[/us/pl/104/52/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F52%2FtV
 [/us/stat/109/494]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F494
-[/us/pl/105/61/s121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F61%2Fs121
+[/us/pl/105/61/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F61%2FtI
 [/us/stat/111/1289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1289
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
 [/us/pl/105/61]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F61
 [/us/pl/104/52]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F52
-[/us/pl/101/509/s529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2Fs529
+[/us/pl/101/509/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2FtV
 [/us/stat/104/1427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1427
 [/us/usc/t5/s5102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5102
 [/us/usc/t5/s5303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5303
-[/us/pl/101/509/s529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2Fs529
+[/us/pl/101/509/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2FtV
 [/us/stat/104/1427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1427
-[/us/pl/102/378/s3/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378%2Fs3%2F1
+[/us/pl/102/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378
 [/us/stat/106/1355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1355
 [/us/usc/t5/s5102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5102
 [/us/usc/t5/s5303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5303

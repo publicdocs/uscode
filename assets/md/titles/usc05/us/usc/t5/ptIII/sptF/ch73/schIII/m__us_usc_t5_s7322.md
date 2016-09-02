@@ -41,7 +41,7 @@
 
         (D) includes the provision of personal services for any political purpose.
 
-(Added [Pub. L. 103–94, § 2(a)][/us/pl/103/94/s2/a], Oct. 6, 1993, [107 Stat. 1001][/us/stat/107/1001]; amended [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814]; [Pub. L. 112–230, § 3(e)][/us/pl/112/230/s3/e], Dec. 28, 2012, [126 Stat. 1617][/us/stat/126/1617].)
+(Added [Pub. L. 103–94][/us/pl/103/94], § 2(a), Oct. 6, 1993, [107 Stat. 1001][/us/stat/107/1001]; amended [Pub. L. 108–271][/us/pl/108/271], § 8(b), July 7, 2004, [118 Stat. 814][/us/stat/118/814]; [Pub. L. 112–230][/us/pl/112/230], § 3(e), Dec. 28, 2012, [126 Stat. 1617][/us/stat/126/1617].)
 
  __Prior Provisions__ 
 
@@ -49,9 +49,9 @@
 
  __Amendments__ 
 
-    2012—Par. (1). [Pub. L. 112–230, § 3(e)(4)][/us/pl/112/230/s3/e/4], substituted “services or an individual employed or holding office in the government of the District of Columbia;” for “services;” in concluding provisions.
+    2012—Par. (1). [Pub. L. 112–230][/us/pl/112/230], § 3(e)(4), substituted “services or an individual employed or holding office in the government of the District of Columbia;” for “services;” in concluding provisions.
 
-    [Pub. L. 112–230, § 3(e)(1)][/us/pl/112/230/s3/e/1]–(3), inserted “or” at end of subpar. (A), struck out “or” at end of subpar. (B), and struck out subpar. (C) which read as follows: “the government of the District of Columbia, other than the Mayor or a member of the City Council or the Recorder of Deeds;”.
+    [Pub. L. 112–230][/us/pl/112/230], § 3(e)(1)–(3), inserted “or” at end of subpar. (A), struck out “or” at end of subpar. (B), and struck out subpar. (C) which read as follows: “the government of the District of Columbia, other than the Mayor or a member of the City Council or the Recorder of Deeds;”.
 
     2004—Par. (1)(A). [Pub. L. 108–271][/us/pl/108/271] substituted “Government Accountability Office” for “General Accounting Office”.
 
@@ -66,17 +66,17 @@
 ----------
 ----------
 
-[/us/pl/103/94/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F94%2Fs2%2Fa
+[/us/pl/103/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F94
 [/us/stat/107/1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1001
-[/us/pl/108/271/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271%2Fs8%2Fb
+[/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/stat/118/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F814
-[/us/pl/112/230/s3/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F230%2Fs3%2Fe
+[/us/pl/112/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F230
 [/us/stat/126/1617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1617
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F525
 [/us/pl/103/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F94
-[/us/pl/112/230/s3/e/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F230%2Fs3%2Fe%2F4
-[/us/pl/112/230/s3/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F230%2Fs3%2Fe%2F1
+[/us/pl/112/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F230
+[/us/pl/112/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F230
 [/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/pl/112/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F230
 [/us/pl/112/230/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F230%2Fs5%2Fa

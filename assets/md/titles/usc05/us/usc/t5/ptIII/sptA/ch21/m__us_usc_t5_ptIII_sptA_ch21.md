@@ -115,13 +115,13 @@
 
  __Amendments__ 
 
-    2011—[Pub. L. 112–56, title II, § 235(a)(2)(B)][/us/pl/112/56/s235/a/2/B], Nov. 21, 2011, [125 Stat. 723][/us/stat/125/723], added item 2108a.
+    2011—[Pub. L. 112–56, title II][/us/pl/112/56/tII], § 235(a)(2)(B), Nov. 21, 2011, [125 Stat. 723][/us/stat/125/723], added item 2108a.
 
-    1980—[Pub. L. 96–347, § 1(d)][/us/pl/96/347/s1/d], Sept. 12, 1980, [94 Stat. 1150][/us/stat/94/1150], substituted “controller; Secretary” for “controller” in item 2109.
+    1980—[Pub. L. 96–347][/us/pl/96/347], § 1(d), Sept. 12, 1980, [94 Stat. 1150][/us/stat/94/1150], substituted “controller; Secretary” for “controller” in item 2109.
 
-    1978—[Pub. L. 95–454, title IV, § 401(e)][/us/pl/95/454/s401/e], Oct. 13, 1978, [92 Stat. 1154][/us/stat/92/1154], added item 2101a.
+    1978—[Pub. L. 95–454, title IV][/us/pl/95/454/tIV], § 401(e), Oct. 13, 1978, [92 Stat. 1154][/us/stat/92/1154], added item 2101a.
 
-    1972—[Pub. L. 92–297, § 1(b)][/us/pl/92/297/s1/b], May 16, 1972, [86 Stat. 141][/us/stat/86/141], added item 2109.
+    1972—[Pub. L. 92–297][/us/pl/92/297], § 1(b), May 16, 1972, [86 Stat. 141][/us/stat/86/141], added item 2109.
 
 ----------
 
@@ -130,13 +130,13 @@
 ----------
 ----------
 
-[/us/pl/112/56/s235/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F56%2Fs235%2Fa%2F2%2FB
+[/us/pl/112/56/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F56%2FtII
 [/us/stat/125/723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F723
-[/us/pl/96/347/s1/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F347%2Fs1%2Fd
+[/us/pl/96/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F347
 [/us/stat/94/1150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1150
-[/us/pl/95/454/s401/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs401%2Fe
+[/us/pl/95/454/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtIV
 [/us/stat/92/1154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1154
-[/us/pl/92/297/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F297%2Fs1%2Fb
+[/us/pl/92/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F297
 [/us/stat/86/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F141
 
 

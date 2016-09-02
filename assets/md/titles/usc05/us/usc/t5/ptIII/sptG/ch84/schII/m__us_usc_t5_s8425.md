@@ -29,45 +29,45 @@
 
     (e) The President, by Executive order, may exempt an employee (other than a member of the Capitol Police or Supreme Court Police) from automatic separation under this section if the President determines the public interest so requires.
 
-(Added [Pub. L. 99–335, title I, § 101(a)][/us/pl/99/335/s101/a], June 6, 1986, [100 Stat. 540][/us/stat/100/540]; amended [Pub. L. 101–428, § 3(b)(1)(A)][/us/pl/101/428/s3/b/1/A], (2), Oct. 15, 1990, [104 Stat. 929][/us/stat/104/929], 930; [Pub. L. 101–509, title V, § 529][/us/pl/101/509/s529] \[title IV, § 409(b)\], Nov. 5, 1990, [104 Stat. 1427][/us/stat/104/1427], 1468; [Pub. L. 102–378, § 2(67)][/us/pl/102/378/s2/67], Oct. 2, 1992, [106 Stat. 1354][/us/stat/106/1354]; [Pub. L. 103–283, title III, § 307(b)(1)][/us/pl/103/283/s307/b/1], July 22, 1994, [108 Stat. 1441][/us/stat/108/1441]; [Pub. L. 105–261, div. C, title XXXI, § 3154(k)][/us/pl/105/261/s3154/k], Oct. 17, 1998, [112 Stat. 2256][/us/stat/112/2256]; [Pub. L. 106–553, § 1(a)(2)][/us/pl/106/553/s1/a/2] \[title III, § 308(c)(5)\], Dec. 21, 2000, [114 Stat. 2762][/us/stat/114/2762], 2762A–87; [Pub. L. 107–27, § 2(b)][/us/pl/107/27/s2/b], Aug. 20, 2001, [115 Stat. 207][/us/stat/115/207]; [Pub. L. 108–176, title II, § 226(a)(3)(B)][/us/pl/108/176/s226/a/3/B], Dec. 12, 2003, [117 Stat. 2529][/us/stat/117/2529]; [Pub. L. 108–447, div. B, title I, § 112(b)][/us/pl/108/447/s112/b], Dec. 8, 2004, [118 Stat. 2868][/us/stat/118/2868]; [Pub. L. 108–458, title II, § 2005(b)][/us/pl/108/458/s2005/b], Dec. 17, 2004, [118 Stat. 3704][/us/stat/118/3704]; [Pub. L. 110–161, div. E, title V, § 535(b)(6)][/us/pl/110/161/s535/b/6], Dec. 26, 2007, [121 Stat. 2076][/us/stat/121/2076]; [Pub. L. 111–259, title IV, § 444(b)][/us/pl/111/259/s444/b], Oct. 7, 2010, [124 Stat. 2733][/us/stat/124/2733].)
+(Added [Pub. L. 99–335, title I][/us/pl/99/335/tI], § 101(a), June 6, 1986, [100 Stat. 540][/us/stat/100/540]; amended [Pub. L. 101–428][/us/pl/101/428], § 3(b)(1)(A), (2), Oct. 15, 1990, [104 Stat. 929][/us/stat/104/929], 930; [Pub. L. 101–509, title V][/us/pl/101/509/tV], § 529 \[title IV, § 409(b)\], Nov. 5, 1990, [104 Stat. 1427][/us/stat/104/1427], 1468; [Pub. L. 102–378][/us/pl/102/378], § 2(67), Oct. 2, 1992, [106 Stat. 1354][/us/stat/106/1354]; [Pub. L. 103–283, title III][/us/pl/103/283/tIII], § 307(b)(1), July 22, 1994, [108 Stat. 1441][/us/stat/108/1441]; [Pub. L. 105–261, div. C, title XXXI][/us/pl/105/261/dC/tXXXI], § 3154(k), Oct. 17, 1998, [112 Stat. 2256][/us/stat/112/2256]; [Pub. L. 106–553][/us/pl/106/553], § 1(a)(2) \[title III, § 308(c)(5)\], Dec. 21, 2000, [114 Stat. 2762][/us/stat/114/2762], 2762A–87; [Pub. L. 107–27][/us/pl/107/27], § 2(b), Aug. 20, 2001, [115 Stat. 207][/us/stat/115/207]; [Pub. L. 108–176, title II][/us/pl/108/176/tII], § 226(a)(3)(B), Dec. 12, 2003, [117 Stat. 2529][/us/stat/117/2529]; [Pub. L. 108–447, div. B, title I][/us/pl/108/447/dB/tI], § 112(b), Dec. 8, 2004, [118 Stat. 2868][/us/stat/118/2868]; [Pub. L. 108–458, title II][/us/pl/108/458/tII], § 2005(b), Dec. 17, 2004, [118 Stat. 3704][/us/stat/118/3704]; [Pub. L. 110–161, div. E, title V][/us/pl/110/161/dE/tV], § 535(b)(6), Dec. 26, 2007, [121 Stat. 2076][/us/stat/121/2076]; [Pub. L. 111–259, title IV][/us/pl/111/259/tIV], § 444(b), Oct. 7, 2010, [124 Stat. 2733][/us/stat/124/2733].)
 
  __Amendments__ 
 
-    2010—Subsec. (b)(2). [Pub. L. 111–259, § 444(b)(2)][/us/pl/111/259/s444/b/2], struck out par. (2) added by [section 2005(b)(2) of Pub. L. 108–458][/us/pl/108/458/s2005/b/2] which read as follows: “In the case of employees of the Federal Bureau of Investigation, the second sentence of paragraph (1) shall be applied by substituting ‘65 years of age’ for ‘60 years of age’. The Federal Bureau of Investigation may not grant more than 50 exemptions in any fiscal year in accordance with the preceding sentence, and the authority to grant such exemptions shall cease to be available after September 30, 2007.”
+    2010—Subsec. (b)(2). [Pub. L. 111–259][/us/pl/111/259], § 444(b)(2), struck out par. (2) added by [section 2005(b)(2) of Pub. L. 108–458][/us/pl/108/458/s2005/b/2] which read as follows: “In the case of employees of the Federal Bureau of Investigation, the second sentence of paragraph (1) shall be applied by substituting ‘65 years of age’ for ‘60 years of age’. The Federal Bureau of Investigation may not grant more than 50 exemptions in any fiscal year in accordance with the preceding sentence, and the authority to grant such exemptions shall cease to be available after September 30, 2007.”
 
-    [Pub. L. 111–259, § 444(b)(1)][/us/pl/111/259/s444/b/1], amended par. (2) relating to employees of the Federal Bureau of Investigation and providing that authority to grant exemptions shall cease to be available after Dec. 31, 2009, by substituting “2011” for “2009”.
+    [Pub. L. 111–259][/us/pl/111/259], § 444(b)(1), amended par. (2) relating to employees of the Federal Bureau of Investigation and providing that authority to grant exemptions shall cease to be available after Dec. 31, 2009, by substituting “2011” for “2009”.
 
     2007—Subsec. (b)(1). [Pub. L. 110–161][/us/pl/110/161] substituted “nuclear materials courier, or customs and border protection officer who” for “or nuclear materials courier who” and “nuclear materials courier, or customs and border protection officer” for “or nuclear materials courier,”.
 
-    2004—Subsec. (b). [Pub. L. 108–447, § 112(b)(1)][/us/pl/108/447/s112/b/1], and [Pub. L. 108–458, § 2005(b)(1)][/us/pl/108/458/s2005/b/1], amended subsec. (b) identically, designating existing provisions as par. (1).
+    2004—Subsec. (b). [Pub. L. 108–447][/us/pl/108/447], § 112(b)(1), and [Pub. L. 108–458][/us/pl/108/458], § 2005(b)(1), amended subsec. (b) identically, designating existing provisions as par. (1).
 
-    Subsec. (b)(2). [Pub. L. 108–458, § 2005(b)(2)][/us/pl/108/458/s2005/b/2], added par. (2) relating to employees of the Federal Bureau of Investigation, limiting number of exemptions to 50 per fiscal year, and providing that authority to grant such exemptions shall cease to be available after Sept. 30, 2007.
+    Subsec. (b)(2). [Pub. L. 108–458][/us/pl/108/458], § 2005(b)(2), added par. (2) relating to employees of the Federal Bureau of Investigation, limiting number of exemptions to 50 per fiscal year, and providing that authority to grant such exemptions shall cease to be available after Sept. 30, 2007.
 
-    [Pub. L. 108–447, § 112(b)(2)][/us/pl/108/447/s112/b/2], added par. (2) relating to employees of the Federal Bureau of Investigation and providing that authority to grant exemptions shall cease to be available after Dec. 31, 2009.
+    [Pub. L. 108–447][/us/pl/108/447], § 112(b)(2), added par. (2) relating to employees of the Federal Bureau of Investigation and providing that authority to grant exemptions shall cease to be available after Dec. 31, 2009.
 
     2003—Subsec. (a). [Pub. L. 108–176][/us/pl/108/176] inserted at end “For purposes of this subsection, the term ‘air traffic controller’ or ‘controller’ has the meaning given to it under section 8401(35)(A).”
 
     2001—Subsec. (b). [Pub. L. 107–27][/us/pl/107/27] struck out first sentence which read “A firefighter who is otherwise eligible for immediate retirement under section 8412(d) shall be separated from the service on the last day of the month in which such firefighter becomes 55 years of age or completes 20 years of service if then over that age.” and, in second sentence, inserted “, firefighter,” after “law enforcement officer” in two places and substituted “courier, as the case may be, becomes 57 years of age” for “courier becomes 57 years of age”.
 
-    2000—Subsec. (d). [Pub. L. 106–553, § 1(a)(2)][/us/pl/106/553/s1/a/2] \[title III, § 308(c)(5)(A)\], added subsec. (d). Former subsec. (d) redesignated (e).
+    2000—Subsec. (d). [Pub. L. 106–553][/us/pl/106/553], § 1(a)(2) \[title III, § 308(c)(5)(A)\], added subsec. (d). Former subsec. (d) redesignated (e).
 
-    Subsec. (e). [Pub. L. 106–553, § 1(a)(2)][/us/pl/106/553/s1/a/2] \[title III, § 308(c)(5)\], redesignated subsec. (d) as (e) and substituted “Police or Supreme Court Police)” for “Police)”.
+    Subsec. (e). [Pub. L. 106–553][/us/pl/106/553], § 1(a)(2) \[title III, § 308(c)(5)\], redesignated subsec. (d) as (e) and substituted “Police or Supreme Court Police)” for “Police)”.
 
     1998—Subsec. (b). [Pub. L. 105–261][/us/pl/105/261], in second sentence, inserted “or nuclear materials courier” after “law enforcement officer” in two places.
 
-    1994—Subsec. (b). [Pub. L. 103–283, § 307(b)(1)(A)][/us/pl/103/283/s307/b/1/A], struck out “member of the Capitol Police or” before “firefighter who is” and “member or” before “firefighter becomes” in first sentence.
+    1994—Subsec. (b). [Pub. L. 103–283][/us/pl/103/283], § 307(b)(1)(A), struck out “member of the Capitol Police or” before “firefighter who is” and “member or” before “firefighter becomes” in first sentence.
 
-    Subsecs. (c), (d). [Pub. L. 103–283, § 307(b)(1)(B)][/us/pl/103/283/s307/b/1/B], (C), added subsec. (c) and redesignated former subsec. (c) as (d).
+    Subsecs. (c), (d). [Pub. L. 103–283][/us/pl/103/283], § 307(b)(1)(B), (C), added subsec. (c) and redesignated former subsec. (c) as (d).
 
     1992—Subsec. (b). [Pub. L. 102–378][/us/pl/102/378] amended first sentence generally and, in second sentence, substituted “becomes” for “become”. Prior to amendment, first sentence read as follows: “A law enforcement officer, member of the Capitol Police, or firefighter who is otherwise eligible for immediate retirement under section 8412(d) shall be separated from the service on the last day of the month in which that law enforcement officer, member of the Capitol Police, or firefighter becomes 55 years of age or completes 20 years of service if then over that age.”
 
-    1990—Subsec. (b). [Pub. L. 101–509, § 529][/us/pl/101/509/s529] \[title IV, § 409(b)(1)\], which directed the amendment of subsec. (b) by striking out “law enforcement officer or” wherever appearing in first sentence, could not be executed because of a prior amendment by [Pub. L. 101–428, § 3(b)(1)(A)][/us/pl/101/428/s3/b/1/A], see below.
+    1990—Subsec. (b). [Pub. L. 101–509][/us/pl/101/509], § 529 \[title IV, § 409(b)(1)\], which directed the amendment of subsec. (b) by striking out “law enforcement officer or” wherever appearing in first sentence, could not be executed because of a prior amendment by [Pub. L. 101–428][/us/pl/101/428], § 3(b)(1)(A), see below.
 
-    [Pub. L. 101–509, § 529][/us/pl/101/509/s529] \[title IV, § 409(b)(2)\], inserted after first sentence “A law enforcement officer who is otherwise eligible for immediate retirement under section 8412(d) shall be separated from the service on the last day of the month in which that law enforcement officer become 57 years of age or completes 20 years of service if then over that age.”
+    [Pub. L. 101–509][/us/pl/101/509], § 529 \[title IV, § 409(b)(2)\], inserted after first sentence “A law enforcement officer who is otherwise eligible for immediate retirement under section 8412(d) shall be separated from the service on the last day of the month in which that law enforcement officer become 57 years of age or completes 20 years of service if then over that age.”
 
-    [Pub. L. 101–428, § 3(b)(1)(A)][/us/pl/101/428/s3/b/1/A], substituted “officer, member of the Capitol Police, or” for “officer or” in two places.
+    [Pub. L. 101–428][/us/pl/101/428], § 3(b)(1)(A), substituted “officer, member of the Capitol Police, or” for “officer or” in two places.
 
-    Subsec. (c). [Pub. L. 101–428, § 3(b)(2)][/us/pl/101/428/s3/b/2], inserted “(other than a member of the Capitol Police)” after “employee”.
+    Subsec. (c). [Pub. L. 101–428][/us/pl/101/428], § 3(b)(2), inserted “(other than a member of the Capitol Police)” after “employee”.
 
  __Effective Date of 2007 Amendment; Transition Rules__ 
 
@@ -91,7 +91,7 @@
 
  __Exception to Automatic Separation of Members of Capitol Police__ 
 
-[Pub. L. 101–428, § 3(b)(1)(B)][/us/pl/101/428/s3/b/1/B], Oct. 15, 1990, [104 Stat. 929][/us/stat/104/929], provided that: 
+[Pub. L. 101–428][/us/pl/101/428], § 3(b)(1)(B), Oct. 15, 1990, [104 Stat. 929][/us/stat/104/929], provided that: 
 
 > “Nothing in [section 8425(b) of title 5][/us/usc/t5/s8425/b], United States Code, as amended by subparagraph (A), shall require the automatic separation of any member of the Capitol Police before the end of the 2-year period beginning on the date of enactment of this Act \[Oct. 15, 1990\].”
 
@@ -102,53 +102,53 @@
 ----------
 ----------
 
-[/us/pl/99/335/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2Fs101%2Fa
+[/us/pl/99/335/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2FtI
 [/us/stat/100/540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F540
-[/us/pl/101/428/s3/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F428%2Fs3%2Fb%2F1%2FA
+[/us/pl/101/428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F428
 [/us/stat/104/929]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F929
-[/us/pl/101/509/s529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2Fs529
+[/us/pl/101/509/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2FtV
 [/us/stat/104/1427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1427
-[/us/pl/102/378/s2/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378%2Fs2%2F67
+[/us/pl/102/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378
 [/us/stat/106/1354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1354
-[/us/pl/103/283/s307/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F283%2Fs307%2Fb%2F1
+[/us/pl/103/283/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F283%2FtIII
 [/us/stat/108/1441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1441
-[/us/pl/105/261/s3154/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs3154%2Fk
+[/us/pl/105/261/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdC%2FtXXXI
 [/us/stat/112/2256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2256
-[/us/pl/106/553/s1/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F553%2Fs1%2Fa%2F2
+[/us/pl/106/553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F553
 [/us/stat/114/2762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2762
-[/us/pl/107/27/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F27%2Fs2%2Fb
+[/us/pl/107/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F27
 [/us/stat/115/207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F207
-[/us/pl/108/176/s226/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs226%2Fa%2F3%2FB
+[/us/pl/108/176/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2FtII
 [/us/stat/117/2529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2529
-[/us/pl/108/447/s112/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs112%2Fb
+[/us/pl/108/447/dB/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdB%2FtI
 [/us/stat/118/2868]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2868
-[/us/pl/108/458/s2005/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs2005%2Fb
+[/us/pl/108/458/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtII
 [/us/stat/118/3704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3704
-[/us/pl/110/161/s535/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs535%2Fb%2F6
+[/us/pl/110/161/dE/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2FdE%2FtV
 [/us/stat/121/2076]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2076
-[/us/pl/111/259/s444/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs444%2Fb
+[/us/pl/111/259/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2FtIV
 [/us/stat/124/2733]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2733
-[/us/pl/111/259/s444/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs444%2Fb%2F2
+[/us/pl/111/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259
 [/us/pl/108/458/s2005/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs2005%2Fb%2F2
-[/us/pl/111/259/s444/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs444%2Fb%2F1
+[/us/pl/111/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259
 [/us/pl/110/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161
-[/us/pl/108/447/s112/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs112%2Fb%2F1
-[/us/pl/108/458/s2005/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs2005%2Fb%2F1
-[/us/pl/108/458/s2005/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs2005%2Fb%2F2
-[/us/pl/108/447/s112/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs112%2Fb%2F2
+[/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
+[/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
 [/us/pl/108/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176
 [/us/pl/107/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F27
-[/us/pl/106/553/s1/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F553%2Fs1%2Fa%2F2
-[/us/pl/106/553/s1/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F553%2Fs1%2Fa%2F2
+[/us/pl/106/553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F553
+[/us/pl/106/553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F553
 [/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
-[/us/pl/103/283/s307/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F283%2Fs307%2Fb%2F1%2FA
-[/us/pl/103/283/s307/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F283%2Fs307%2Fb%2F1%2FB
+[/us/pl/103/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F283
+[/us/pl/103/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F283
 [/us/pl/102/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378
-[/us/pl/101/509/s529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2Fs529
-[/us/pl/101/428/s3/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F428%2Fs3%2Fb%2F1%2FA
-[/us/pl/101/509/s529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2Fs529
-[/us/pl/101/428/s3/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F428%2Fs3%2Fb%2F1%2FA
-[/us/pl/101/428/s3/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F428%2Fs3%2Fb%2F2
+[/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509
+[/us/pl/101/428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F428
+[/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509
+[/us/pl/101/428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F428
+[/us/pl/101/428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F428
 [/us/pl/110/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161
 [/us/pl/110/161/s535/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs535%2Fe
 [/us/usc/t5/s3307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3307
@@ -164,7 +164,7 @@
 [/us/pl/102/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378
 [/us/pl/102/378/s9/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378%2Fs9%2Fb%2F6
 [/us/usc/t5/s6303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs6303
-[/us/pl/101/428/s3/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F428%2Fs3%2Fb%2F1%2FB
+[/us/pl/101/428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F428
 [/us/stat/104/929]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F929
 [/us/usc/t5/s8425/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8425%2Fb
 

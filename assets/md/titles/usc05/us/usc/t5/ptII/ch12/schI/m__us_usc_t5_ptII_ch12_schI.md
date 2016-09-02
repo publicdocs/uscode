@@ -17,7 +17,7 @@
 
  __Amendments__ 
 
-    1989—[Pub. L. 101–12, § 3(b)(4)][/us/pl/101/12/s3/b/4], Apr. 10, 1989, [103 Stat. 31][/us/stat/103/31], inserted subchapter heading.
+    1989—[Pub. L. 101–12][/us/pl/101/12], § 3(b)(4), Apr. 10, 1989, [103 Stat. 31][/us/stat/103/31], inserted subchapter heading.
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/101/12/s3/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F12%2Fs3%2Fb%2F4
+[/us/pl/101/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F12
 [/us/stat/103/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F31
 
 

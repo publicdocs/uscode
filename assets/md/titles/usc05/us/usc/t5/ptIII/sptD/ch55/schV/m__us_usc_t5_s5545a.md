@@ -143,7 +143,7 @@
 
             (C) paragraph (2)(B) of such subsection shall be applied by substituting for “Office of Personnel Management” the following: “Office of Personnel Management or the Secretary of State (to the extent that matters exclusively within the jurisdiction of the Secretary are concerned)”.
 
-(Added [Pub. L. 103–329, title VI, § 633(b)(1)][/us/pl/103/329/s633/b/1], Sept. 30, 1994, [108 Stat. 2425][/us/stat/108/2425]; amended [Pub. L. 104–19, title I][/us/pl/104/19], §§ 901, 902(a), July 27, 1995, [109 Stat. 230][/us/stat/109/230]; [Pub. L. 104–208, div. A, title I, § 101(f)][/us/pl/104/208/s101/f] \[title VI, § 659 \[title II, § 206(b)(2)\]\], Sept. 30, 1996, [110 Stat. 3009–314][/us/stat/110/3009-314], 3009–372, 3009–378; [Pub. L. 105–277, div. A, § 101(b)][/us/pl/105/277/s101/b] \[title IV, § 407(a), (c)(1)\], div. G, subdiv. B, title XXIII, § 2316(a), (c)(1), Oct. 21, 1998, [112 Stat. 2681–50][/us/stat/112/2681-50], 2681–101, 2681–102, 2681–828.)
+(Added [Pub. L. 103–329, title VI][/us/pl/103/329/tVI], § 633(b)(1), Sept. 30, 1994, [108 Stat. 2425][/us/stat/108/2425]; amended [Pub. L. 104–19, title I][/us/pl/104/19/tI], §§ 901, 902(a), July 27, 1995, [109 Stat. 230][/us/stat/109/230]; [Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(f) \[title VI, § 659 \[title II, § 206(b)(2)\]\], Sept. 30, 1996, [110 Stat. 3009–314][/us/stat/110/3009-314], 3009–372, 3009–378; [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(b) \[title IV, § 407(a), (c)(1)\], div. G, subdiv. B, title XXIII, § 2316(a), (c)(1), Oct. 21, 1998, [112 Stat. 2681–50][/us/stat/112/2681-50], 2681–101, 2681–102, 2681–828.)
 
  __References in Text__ 
 
@@ -153,19 +153,19 @@
 
  __Amendments__ 
 
-    1998—Subsec. (a)(2). [Pub. L. 105–277, § 101(b)][/us/pl/105/277/s101/b] \[title IV, § 407(c)(1)\] and § 2316(c)(1), amended subsec. (a)(2) identically, substituting “[Public Law 99–399][/us/pl/99/399], subject to subsection (k))” for “[Public Law 99–399][/us/pl/99/399])” in introductory provisions.
+    1998—Subsec. (a)(2). [Pub. L. 105–277][/us/pl/105/277], § 101(b) \[title IV, § 407(c)(1)\] and § 2316(c)(1), amended subsec. (a)(2) identically, substituting “[Public Law 99–399][/us/pl/99/399], subject to subsection (k))” for “[Public Law 99–399][/us/pl/99/399])” in introductory provisions.
 
-    Subsec. (k). [Pub. L. 105–277, § 101(b)][/us/pl/105/277/s101/b] \[title IV, § 407(a)\] and § 2316(a), amended section identically, adding subsec. (k).
+    Subsec. (k). [Pub. L. 105–277][/us/pl/105/277], § 101(b) \[title IV, § 407(a)\] and § 2316(a), amended section identically, adding subsec. (k).
 
     1996—Subsec. (h)(2)(A). [Pub. L. 104–208][/us/pl/104/208] struck out “8431,” after “8331(3),”.
 
-    1995—Subsec. (a)(2). [Pub. L. 104–19, § 901(1)(A)][/us/pl/104/19/s901/1/A], inserted “who” before “is required to” in introductory provisions.
+    1995—Subsec. (a)(2). [Pub. L. 104–19][/us/pl/104/19], § 901(1)(A), inserted “who” before “is required to” in introductory provisions.
 
-    Subsec. (a)(2)(E)(v). [Pub. L. 104–19, § 901(1)(B)][/us/pl/104/19/s901/1/B], inserted “and” at end.
+    Subsec. (a)(2)(E)(v). [Pub. L. 104–19][/us/pl/104/19], § 901(1)(B), inserted “and” at end.
 
-    Subsec. (i). [Pub. L. 104–19, § 902(a)][/us/pl/104/19/s902/a], added subsec. (i).
+    Subsec. (i). [Pub. L. 104–19][/us/pl/104/19], § 902(a), added subsec. (i).
 
-    Subsec. (j). [Pub. L. 104–19, § 901(2)][/us/pl/104/19/s901/2], added subsec. (j).
+    Subsec. (j). [Pub. L. 104–19][/us/pl/104/19], § 901(2), added subsec. (j).
 
  __Effective Date of 1998 Amendment__ 
 
@@ -173,19 +173,19 @@
 
  __Effective Date of 1996 Amendment__ 
 
-[Pub. L. 104–208, div. A, title I, § 101(f)][/us/pl/104/208/s101/f] \[title VI, § 659 \[title II, § 207\]\], Sept. 30, 1996, [110 Stat. 3009–314][/us/stat/110/3009-314], 3009–378, provided that: 
+[Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(f) \[title VI, § 659 \[title II, § 207\]\], Sept. 30, 1996, [110 Stat. 3009–314][/us/stat/110/3009-314], 3009–378, provided that: 
 
 > “This title \[title II (§§ 201–207) of section 659 of [section 101(f) of Pub. L. 104–208][/us/pl/104/208/s101/f], amending this section and sections 8351, 8401, 8433, 8435, and 8440a to 8440c of this title, repealing [section 8431 of this title][/us/usc/t5/s8431], enacting provisions set out as notes under sections 8401 and 8433 of this title, and amending provisions set out as a note under [section 5343 of this title][/us/usc/t5/s5343]\] shall take effect on the date of the enactment of this Act \[Sept. 30, 1996\] and withdrawals and elections as provided under the amendments made by this title shall be made at the earliest practicable date as determined by the Executive Director in regulations.”
 
  __Effective Date of 1995 Amendment__ 
 
-[Pub. L. 104–19, title I, § 902(b)][/us/pl/104/19/s902/b], July 27, 1995, [109 Stat. 230][/us/stat/109/230], provided that: 
+[Pub. L. 104–19, title I][/us/pl/104/19/tI], § 902(b), July 27, 1995, [109 Stat. 230][/us/stat/109/230], provided that: 
 
 > “The amendment made by subsection (a) of this section \[amending this section\] shall take effect on the first day of the first applicable pay period which begins on or after the 30th day following the date of enactment of this Act \[July 27, 1995\].”
 
  __Effective Date__ 
 
-[Pub. L. 103–329, title VI, § 633(e)][/us/pl/103/329/s633/e], Sept. 30, 1994, [108 Stat. 2428][/us/stat/108/2428], provided that: 
+[Pub. L. 103–329, title VI][/us/pl/103/329/tVI], § 633(e), Sept. 30, 1994, [108 Stat. 2428][/us/stat/108/2428], provided that: 
 
 > “The amendments made by this section \[enacting this section and amending sections 5542 and 5547 of this title and [section 213 of Title 29][/us/usc/t29/s213], Labor\] shall take effect on the first day of the first applicable pay period which begins on or after the later of October 1, 1994, or the 30th day following the date of enactment of this Act \[Sept. 30, 1994\], except that:
 
@@ -195,7 +195,7 @@
 
  __Implementation__ 
 
-[Pub. L. 105–277, div. A, § 101(b)][/us/pl/105/277/s101/b] \[title IV, § 407(b)\], div. G, subdiv. B, title XXIII, § 2316(b), Oct. 21, 1998, [112 Stat. 2681–50][/us/stat/112/2681-50], 2681–102, 2681–828, provided that: 
+[Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(b) \[title IV, § 407(b)\], div. G, subdiv. B, title XXIII, § 2316(b), Oct. 21, 1998, [112 Stat. 2681–50][/us/stat/112/2681-50], 2681–102, 2681–828, provided that: 
 
 > “Not later than the date on which the amendments made by this section \[amending this section and [section 5542 of this title][/us/usc/t5/s5542]\] take effect \[see Effective Date of 1998 Amendment note set out above\], each special agent of the Diplomatic Security Service who satisfies the requirements of subsection (k)(1) of [section 5545a of title 5][/us/usc/t5/s5545a], United States Code, as amended by this section, and the appropriate supervisory officer, to be designated by the Secretary of State, shall make an initial certification to the Secretary of State that the special agent is expected to meet the requirements of subsection (d) of such section 5545a. The Secretary of State may prescribe procedures necessary to administer this subsection.”
 
@@ -205,7 +205,7 @@
 
  __Certification of Criminal Investigators__ 
 
-[Pub. L. 103–329, title VI, § 633(f)][/us/pl/103/329/s633/f], Sept. 30, 1994, [108 Stat. 2428][/us/stat/108/2428], provided that: 
+[Pub. L. 103–329, title VI][/us/pl/103/329/tVI], § 633(f), Sept. 30, 1994, [108 Stat. 2428][/us/stat/108/2428], provided that: 
 
 > “Not later than the effective date of this section \[see Effective Date note above\], each criminal investigator under [section 5545a of title 5][/us/usc/t5/s5545a], United States Code, as added by this section, and the appropriate supervisory officer, to be designated by the head of the agency, shall make an initial certification to the head of the agency that the criminal investigator is expected to meet the requirements of subsection (d) of such section 5545a. The head of a law enforcement agency may prescribe procedures necessary to administer this paragraph.”
 
@@ -221,46 +221,46 @@
 [/us/usc/t5/s5542/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5542%2Fd
 [/us/usc/t29/s213/a/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs213%2Fa%2F16
 [/us/pl/99/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F399
-[/us/pl/103/329/s633/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F329%2Fs633%2Fb%2F1
+[/us/pl/103/329/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F329%2FtVI
 [/us/stat/108/2425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2425
-[/us/pl/104/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F19
+[/us/pl/104/19/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F19%2FtI
 [/us/stat/109/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F230
-[/us/pl/104/208/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Ff
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009-314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-314
-[/us/pl/105/277/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fb
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-50
 [/us/pl/99/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F399
 [/us/pl/99/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F399
 [/us/stat/100/858]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F858
 [/us/usc/t22/s4801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4801
-[/us/pl/105/277/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fb
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/pl/99/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F399
 [/us/pl/99/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F399
-[/us/pl/105/277/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fb
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
-[/us/pl/104/19/s901/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F19%2Fs901%2F1%2FA
-[/us/pl/104/19/s901/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F19%2Fs901%2F1%2FB
-[/us/pl/104/19/s902/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F19%2Fs902%2Fa
-[/us/pl/104/19/s901/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F19%2Fs901%2F2
+[/us/pl/104/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F19
+[/us/pl/104/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F19
+[/us/pl/104/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F19
+[/us/pl/104/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F19
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/pl/105/277/s2316/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs2316%2Fd
 [/us/usc/t5/s5542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5542
-[/us/pl/104/208/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Ff
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009-314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-314
 [/us/pl/104/208/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Ff
 [/us/usc/t5/s8431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8431
 [/us/usc/t5/s5343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5343
-[/us/pl/104/19/s902/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F19%2Fs902%2Fb
+[/us/pl/104/19/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F19%2FtI
 [/us/stat/109/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F230
-[/us/pl/103/329/s633/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F329%2Fs633%2Fe
+[/us/pl/103/329/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F329%2FtVI
 [/us/stat/108/2428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2428
 [/us/usc/t29/s213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs213
-[/us/pl/105/277/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fb
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-50
 [/us/usc/t5/s5542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5542
 [/us/usc/t5/s5545a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5545a
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
-[/us/pl/103/329/s633/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F329%2Fs633%2Ff
+[/us/pl/103/329/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F329%2FtVI
 [/us/stat/108/2428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2428
 [/us/usc/t5/s5545a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5545a
 

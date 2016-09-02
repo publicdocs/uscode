@@ -21,7 +21,7 @@
 
     (2) the action of an examiner, a board of examiners, and other employees concerning the execution of the provisions of this title that relate to the administration of the competitive service.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 401][/us/stat/80/401]; [Pub. L. 95–454, title IX, § 906(a)(4)][/us/pl/95/454/s906/a/4], (11), Oct. 13, 1978, [92 Stat. 1225][/us/stat/92/1225].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 401][/us/stat/80/401]; [Pub. L. 95–454, title IX][/us/pl/95/454/tIX], § 906(a)(4), (11), Oct. 13, 1978, [92 Stat. 1225][/us/stat/92/1225].)
 
 <table>
 
@@ -93,7 +93,7 @@ In paragraph (2), the words “in respect to the execution of this act” are ch
 [/us/usc/t5/s1302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs1302%2Fa
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F401
-[/us/pl/95/454/s906/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs906%2Fa%2F4
+[/us/pl/95/454/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtIX
 [/us/stat/92/1225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1225
 [/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454
 [/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454

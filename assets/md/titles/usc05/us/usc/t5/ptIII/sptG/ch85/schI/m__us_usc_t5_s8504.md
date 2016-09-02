@@ -21,7 +21,7 @@
 
     (2) if his last official station in Federal service, before filing his first claim, was outside the United States, his Federal service and Federal wages shall be assigned to the State where he resides at the time he files his first claim.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 588][/us/stat/80/588]; [Pub. L. 90–83, § 1(88)][/us/pl/90/83/s1/88], Sept. 11, 1967, [81 Stat. 218][/us/stat/81/218]; [Pub. L. 94–566, title I, § 116(e)(3)][/us/pl/94/566/s116/e/3], Oct. 20, 1976, [90 Stat. 2673][/us/stat/90/2673].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 588][/us/stat/80/588]; [Pub. L. 90–83][/us/pl/90/83], § 1(88), Sept. 11, 1967, [81 Stat. 218][/us/stat/81/218]; [Pub. L. 94–566, title I][/us/pl/94/566/tI], § 116(e)(3), Oct. 20, 1976, [90 Stat. 2673][/us/stat/90/2673].)
 
 <table>
 
@@ -158,9 +158,9 @@ Sept. 13, 1960, Pub. L. 86–778, § 542(a)(2), 74 Stat. 985.  </td>
 
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F588
-[/us/pl/90/83/s1/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83%2Fs1%2F88
+[/us/pl/90/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83
 [/us/stat/81/218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F218
-[/us/pl/94/566/s116/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F566%2Fs116%2Fe%2F3
+[/us/pl/94/566/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F566%2FtI
 [/us/stat/90/2673]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2673
 [/us/usc/t5/s8504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8504
 [/us/act/1960-09-13/s542/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1960-09-13%2Fs542%2Fb%2F2

@@ -53,7 +53,7 @@
 
         whichever occurs first. On the death of the surviving wife or husband, or former wife or husband, or termination of the annuity of a child, the annuity of any other child or children shall be recomputed and paid as though the wife or husband, former wife or husband, or child had not survived the annuitant, employee, or Member. If the annuity of a child under this subchapter terminates under subparagraph (E) because of marriage, then, if such marriage ends, such annuity shall resume on the first day of the month in which it ends, but only if any lump sum paid is returned to the Fund, and that individual is not otherwise ineligible for such annuity.
 
-(Added [Pub. L. 99–335, title I, § 101(a)][/us/pl/99/335/s101/a], June 6, 1986, [100 Stat. 563][/us/stat/100/563]; amended [Pub. L. 99–556, title I, § 117(a)][/us/pl/99/556/s117/a], Oct. 27, 1986, [100 Stat. 3134][/us/stat/100/3134]; [Pub. L. 104–208, div. A, title I, § 101(f)][/us/pl/104/208/s101/f] \[title VI, § 633(a)(2)\], Sept. 30, 1996, [110 Stat. 3009–314][/us/stat/110/3009-314], 3009–363.)
+(Added [Pub. L. 99–335, title I][/us/pl/99/335/tI], § 101(a), June 6, 1986, [100 Stat. 563][/us/stat/100/563]; amended [Pub. L. 99–556, title I][/us/pl/99/556/tI], § 117(a), Oct. 27, 1986, [100 Stat. 3134][/us/stat/100/3134]; [Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(f) \[title VI, § 633(a)(2)\], Sept. 30, 1996, [110 Stat. 3009–314][/us/stat/110/3009-314], 3009–363.)
 
  __References in Text__ 
 
@@ -76,11 +76,11 @@
 ----------
 ----------
 
-[/us/pl/99/335/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2Fs101%2Fa
+[/us/pl/99/335/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2FtI
 [/us/stat/100/563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F563
-[/us/pl/99/556/s117/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F556%2Fs117%2Fa
+[/us/pl/99/556/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F556%2FtI
 [/us/stat/100/3134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3134
-[/us/pl/104/208/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Ff
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009-314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-314
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620

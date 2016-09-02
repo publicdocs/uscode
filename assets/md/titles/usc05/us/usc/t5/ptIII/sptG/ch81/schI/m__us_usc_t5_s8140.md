@@ -35,7 +35,7 @@
 
     (g) For purposes of this section, the term “applicant for membership” includes a student enrolled, during a semester or other enrollment term, in a course which is part of Reserve Officers’ Training Corps instruction at an educational institution.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 550][/us/stat/80/550]; [Pub. L. 100–456, div. A, title VI, § 633(b)][/us/pl/100/456/s633/b], Sept. 29, 1988, [102 Stat. 1986][/us/stat/102/1986]; [Pub. L. 105–261, div. A, title VI, § 655(a)][/us/pl/105/261/s655/a]–(c), Oct. 17, 1998, [112 Stat. 2053][/us/stat/112/2053].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 550][/us/stat/80/550]; [Pub. L. 100–456, div. A, title VI][/us/pl/100/456/dA/tVI], § 633(b), Sept. 29, 1988, [102 Stat. 1986][/us/stat/102/1986]; [Pub. L. 105–261, div. A, title VI][/us/pl/105/261/dA/tVI], § 655(a)–(c), Oct. 17, 1998, [112 Stat. 2053][/us/stat/112/2053].)
 
 <table>
 
@@ -95,23 +95,23 @@ Oct. 13, 1964, Pub. L. 88–647, § 302, 78 Stat. 1073.  </td>
 
  __Amendments__ 
 
-    1998—Subsec. (a). [Pub. L. 105–261, § 655(c)][/us/pl/105/261/s655/c], inserted “, or an illness contracted,” after “death incurred” in introductory provisions.
+    1998—Subsec. (a). [Pub. L. 105–261][/us/pl/105/261], § 655(c), inserted “, or an illness contracted,” after “death incurred” in introductory provisions.
 
-    Subsec. (a)(2). [Pub. L. 105–261, § 655(a)][/us/pl/105/261/s655/a], amended par. (2) generally. Prior to amendment, par. (2) read as follows: “while performing authorized travel to or from, or while attending, training or a practice cruise under chapter 103 of title 10.”
+    Subsec. (a)(2). [Pub. L. 105–261][/us/pl/105/261], § 655(a), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “while performing authorized travel to or from, or while attending, training or a practice cruise under chapter 103 of title 10.”
 
-    Subsec. (b). [Pub. L. 105–261, § 655(b)][/us/pl/105/261/s655/b], amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “For the purpose of this section, an injury is incurred in line of duty only if it is the proximate result of the performance of military training by the member concerned, or of his travel to or from that training, during the periods specified by subsection (a)(2) of this section. A member or applicant for membership who contracts a disease or illness which is the proximate result of the performance of training during the periods specified by subsection (a)(2) of this section is considered for the purpose of this section to have been injured in line of duty during that period. Subject to review by the Secretary of Labor, the Secretary of the military department concerned, under regulations prescribed by him, shall determine whether or not an injury, disease, or illness was incurred or contracted in line of duty and was the proximate result of the performance of military training by the member concerned or of his travel to or from that military training.”
+    Subsec. (b). [Pub. L. 105–261][/us/pl/105/261], § 655(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “For the purpose of this section, an injury is incurred in line of duty only if it is the proximate result of the performance of military training by the member concerned, or of his travel to or from that training, during the periods specified by subsection (a)(2) of this section. A member or applicant for membership who contracts a disease or illness which is the proximate result of the performance of training during the periods specified by subsection (a)(2) of this section is considered for the purpose of this section to have been injured in line of duty during that period. Subject to review by the Secretary of Labor, the Secretary of the military department concerned, under regulations prescribed by him, shall determine whether or not an injury, disease, or illness was incurred or contracted in line of duty and was the proximate result of the performance of military training by the member concerned or of his travel to or from that military training.”
 
-    1988—Subsec. (a). [Pub. L. 100–456, § 633(b)(1)(A)][/us/pl/100/456/s633/b/1/A], substituted “who suffers an injury, disability, or death” for “who suffers disability or death from an injury” in introductory provisions.
+    1988—Subsec. (a). [Pub. L. 100–456][/us/pl/100/456], § 633(b)(1)(A), substituted “who suffers an injury, disability, or death” for “who suffers disability or death from an injury” in introductory provisions.
 
-    Subsec. (a)(2). [Pub. L. 100–456, § 633(b)(1)(B)][/us/pl/100/456/s633/b/1/B], struck out “field” before “training”.
+    Subsec. (a)(2). [Pub. L. 100–456][/us/pl/100/456], § 633(b)(1)(B), struck out “field” before “training”.
 
-    Subsec. (f). [Pub. L. 100–456, § 633(b)(2)][/us/pl/100/456/s633/b/2], substituted “by a military department in a facility of a military department” for “while attending field training or a practice cruise under chapter 103 of title 10”.
+    Subsec. (f). [Pub. L. 100–456][/us/pl/100/456], § 633(b)(2), substituted “by a military department in a facility of a military department” for “while attending field training or a practice cruise under chapter 103 of title 10”.
 
-    Subsec. (g). [Pub. L. 100–456, § 633(b)(3)][/us/pl/100/456/s633/b/3], added subsec. (g).
+    Subsec. (g). [Pub. L. 100–456][/us/pl/100/456], § 633(b)(3), added subsec. (g).
 
  __Effective Date of 1998 Amendment__ 
 
-[Pub. L. 105–261, div. A, title VI, § 655(d)][/us/pl/105/261/s655/d], Oct. 17, 1998, [112 Stat. 2053][/us/stat/112/2053], provided that: 
+[Pub. L. 105–261, div. A, title VI][/us/pl/105/261/dA/tVI], § 655(d), Oct. 17, 1998, [112 Stat. 2053][/us/stat/112/2053], provided that: 
 
 > “The amendments made by subsections (a) and (b) \[amending this section\] shall take effect on the date of the enactment of this Act \[Oct. 17, 1998\] and apply with respect to injuries, illnesses, disabilities, and deaths incurred or contracted on or after that date.”
 
@@ -121,7 +121,7 @@ Oct. 13, 1964, Pub. L. 88–647, § 302, 78 Stat. 1073.  </td>
 
  __Different Coverage for Reserve Officer Training Corps Members__ 
 
-[Pub. L. 97–306, title I, § 113(c)][/us/pl/97/306/s113/c], Oct. 14, 1982, [96 Stat. 1432][/us/stat/96/1432], provided that: 
+[Pub. L. 97–306, title I][/us/pl/97/306/tI], § 113(c), Oct. 14, 1982, [96 Stat. 1432][/us/stat/96/1432], provided that: 
 
 > “Notwithstanding [section 8140 of title 5][/us/usc/t5/s8140], United States Code, subchapter I of chapter 81 of such title does not apply in the case of a disability suffered by a member of the Reserve Officers’ Training Corps of the Army, Navy, or Air Force that is compensable under chapter 11 of title 38, United States Code, or a death suffered by such a member for which dependency and indemnity compensation is payable under chapter 13 of such title \[section 401 et seq. of Title 38\].”
 
@@ -136,23 +136,23 @@ Oct. 13, 1964, Pub. L. 88–647, § 302, 78 Stat. 1073.  </td>
 
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F550
-[/us/pl/100/456/s633/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2Fs633%2Fb
+[/us/pl/100/456/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2FdA%2FtVI
 [/us/stat/102/1986]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1986
-[/us/pl/105/261/s655/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs655%2Fa
+[/us/pl/105/261/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdA%2FtVI
 [/us/stat/112/2053]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2053
-[/us/pl/105/261/s655/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs655%2Fc
-[/us/pl/105/261/s655/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs655%2Fa
-[/us/pl/105/261/s655/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs655%2Fb
-[/us/pl/100/456/s633/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2Fs633%2Fb%2F1%2FA
-[/us/pl/100/456/s633/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2Fs633%2Fb%2F1%2FB
-[/us/pl/100/456/s633/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2Fs633%2Fb%2F2
-[/us/pl/100/456/s633/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2Fs633%2Fb%2F3
-[/us/pl/105/261/s655/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs655%2Fd
+[/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
+[/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
+[/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
+[/us/pl/100/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456
+[/us/pl/100/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456
+[/us/pl/100/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456
+[/us/pl/100/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456
+[/us/pl/105/261/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdA%2FtVI
 [/us/stat/112/2053]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2053
 [/us/pl/100/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456
 [/us/pl/100/456/s633/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2Fs633%2Fe
 [/us/usc/t10/s2109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2109
-[/us/pl/97/306/s113/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F306%2Fs113%2Fc
+[/us/pl/97/306/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F306%2FtI
 [/us/stat/96/1432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1432
 [/us/usc/t5/s8140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8140
 [/us/pl/97/306/s113/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F306%2Fs113%2Fd

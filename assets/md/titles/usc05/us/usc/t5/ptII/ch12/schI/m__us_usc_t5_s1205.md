@@ -17,7 +17,7 @@
 
     Notwithstanding any other provision of law or any rule, regulation or policy directive, any member of the Board, or any employee of the Board designated by the Board, may transmit to the Congress on the request of any committee or subcommittee thereof, by report, testimony, or otherwise, information and views on functions, responsibilities, or other matters relating to the Board, without review, clearance, or approval by any other administrative authority.
 
-(Added [Pub. L. 95–454, title II, § 202(a)][/us/pl/95/454/s202/a], Oct. 13, 1978, [92 Stat. 1131][/us/stat/92/1131], § 1209(a); renumbered § 1205 and amended [Pub. L. 101–12, § 3(a)(9)][/us/pl/101/12/s3/a/9], Apr. 10, 1989, [103 Stat. 18][/us/stat/103/18].)
+(Added [Pub. L. 95–454, title II][/us/pl/95/454/tII], § 202(a), Oct. 13, 1978, [92 Stat. 1131][/us/stat/92/1131], § 1209(a); renumbered § 1205 and amended [Pub. L. 101–12][/us/pl/101/12], § 3(a)(9), Apr. 10, 1989, [103 Stat. 18][/us/stat/103/18].)
 
  __Prior Provisions__ 
 
@@ -38,9 +38,9 @@
 ----------
 ----------
 
-[/us/pl/95/454/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs202%2Fa
+[/us/pl/95/454/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtII
 [/us/stat/92/1131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1131
-[/us/pl/101/12/s3/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F12%2Fs3%2Fa%2F9
+[/us/pl/101/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F12
 [/us/stat/103/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F18
 [/us/usc/t5/s1204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs1204
 [/us/pl/101/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F12

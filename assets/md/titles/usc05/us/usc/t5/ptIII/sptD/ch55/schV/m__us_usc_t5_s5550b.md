@@ -19,7 +19,7 @@
 
     (b) An employee who has any hours treated as hours of work or employment for purposes of calculating compensatory time under subsection (a), shall not be entitled to payment for any such hours that are unused as compensatory time.
 
-(Added [Pub. L. 108–411, title II, § 203(a)][/us/pl/108/411/s203/a], Oct. 30, 2004, [118 Stat. 2313][/us/stat/118/2313]; amended [Pub. L. 110–181, div. A, title XI, § 1111(a)][/us/pl/110/181/s1111/a], Jan. 28, 2008, [122 Stat. 360][/us/stat/122/360].)
+(Added [Pub. L. 108–411, title II][/us/pl/108/411/tII], § 203(a), Oct. 30, 2004, [118 Stat. 2313][/us/stat/118/2313]; amended [Pub. L. 110–181, div. A, title XI][/us/pl/110/181/dA/tXI], § 1111(a), Jan. 28, 2008, [122 Stat. 360][/us/stat/122/360].)
 
  __Amendments__ 
 
@@ -31,7 +31,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 108–411, title II, § 203(c)][/us/pl/108/411/s203/c], Oct. 30, 2004, [118 Stat. 2313][/us/stat/118/2313], provided that: 
+[Pub. L. 108–411, title II][/us/pl/108/411/tII], § 203(c), Oct. 30, 2004, [118 Stat. 2313][/us/stat/118/2313], provided that: 
 
 > “The amendments made by this section \[enacting this section\] shall take effect on the earlier of—
 
@@ -41,7 +41,7 @@
 
  __Compensatory Time Off for Travel for Department of Justice Attorneys__ 
 
-[Pub. L. 109–425, § 1][/us/pl/109/425/s1], Dec. 20, 2006, [120 Stat. 2910][/us/stat/120/2910], provided that:
+[Pub. L. 109–425][/us/pl/109/425], § 1, Dec. 20, 2006, [120 Stat. 2910][/us/stat/120/2910], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -58,18 +58,18 @@
 ----------
 ----------
 
-[/us/pl/108/411/s203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F411%2Fs203%2Fa
+[/us/pl/108/411/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F411%2FtII
 [/us/stat/118/2313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2313
-[/us/pl/110/181/s1111/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1111%2Fa
+[/us/pl/110/181/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtXI
 [/us/stat/122/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F360
 [/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
 [/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
 [/us/pl/110/181/s1111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1111
 [/us/pl/110/181/s1111/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1111%2Fc
 [/us/usc/t5/s5541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5541
-[/us/pl/108/411/s203/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F411%2Fs203%2Fc
+[/us/pl/108/411/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F411%2FtII
 [/us/stat/118/2313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2313
-[/us/pl/109/425/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F425%2Fs1
+[/us/pl/109/425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F425
 [/us/stat/120/2910]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2910
 [/us/usc/t5/s5550b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5550b
 [/us/pl/106/113/s1000/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F1

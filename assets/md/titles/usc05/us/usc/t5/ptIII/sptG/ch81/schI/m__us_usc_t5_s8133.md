@@ -75,7 +75,7 @@
 
     (f) Notwithstanding any funeral and burial expenses paid under section 8134, there shall be paid a sum of $200 to the personal representative of a deceased employee within the meaning of [section 8101(1) of this title][/us/usc/t5/s8101/1] for reimbursement of the costs of termination of the decedent’s status as an employee of the United States.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 547][/us/stat/80/547]; [Pub. L. 90–83, § 1(62)][/us/pl/90/83/s1/62], Sept. 11, 1967, [81 Stat. 211][/us/stat/81/211]; [Pub. L. 93–416][/us/pl/93/416], §§ 16(a), 17, 18, Sept. 7, 1974, [88 Stat. 1147][/us/stat/88/1147], 1149; [Pub. L. 101–303, § 3(1)][/us/pl/101/303/s3/1], May 29, 1990, [104 Stat. 251][/us/stat/104/251].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 547][/us/stat/80/547]; [Pub. L. 90–83][/us/pl/90/83], § 1(62), Sept. 11, 1967, [81 Stat. 211][/us/stat/81/211]; [Pub. L. 93–416][/us/pl/93/416], §§ 16(a), 17, 18, Sept. 7, 1974, [88 Stat. 1147][/us/stat/88/1147], 1149; [Pub. L. 101–303][/us/pl/101/303], § 3(1), May 29, 1990, [104 Stat. 251][/us/stat/104/251].)
 
 <table>
 
@@ -255,17 +255,17 @@ July 4, 1966, Pub. L. 89–488, § 3(c), 80 Stat. 252.  </td>
 
     1990—Subsec. (b)(1). [Pub. L. 101–303][/us/pl/101/303] substituted “age 55” for “age 60”.
 
-    1974—Subsec. (a)(1). [Pub. L. 93–416, § 16(a)][/us/pl/93/416/s16/a], substituted “50” for “45”.
+    1974—Subsec. (a)(1). [Pub. L. 93–416][/us/pl/93/416], § 16(a), substituted “50” for “45”.
 
-    Subsec. (a)(2). [Pub. L. 93–416, § 16(a)][/us/pl/93/416/s16/a], substituted “45” for “40”.
+    Subsec. (a)(2). [Pub. L. 93–416][/us/pl/93/416], § 16(a), substituted “45” for “40”.
 
-    Subsec. (a)(3). [Pub. L. 93–416, § 16(a)][/us/pl/93/416/s16/a], substituted “40” for “35”.
+    Subsec. (a)(3). [Pub. L. 93–416][/us/pl/93/416], § 16(a), substituted “40” for “35”.
 
-    Subsec. (b). [Pub. L. 93–416, § 16(a)][/us/pl/93/416/s16/a], inserted “before reaching age 60” after “remarries” in par. (1), struck out par. (2) referring to widower who dies, remarries or becomes capable of self-support, redesignated pars. (3) and (4) as (2) and (3), respectively, changed the reference in closing paragraph from paragraph (3) of this subsection to paragraph (2) of this subsection, and inserted provision for election by widower or widow of benefits derived from more than one husband or wife.
+    Subsec. (b). [Pub. L. 93–416][/us/pl/93/416], § 16(a), inserted “before reaching age 60” after “remarries” in par. (1), struck out par. (2) referring to widower who dies, remarries or becomes capable of self-support, redesignated pars. (3) and (4) as (2) and (3), respectively, changed the reference in closing paragraph from paragraph (3) of this subsection to paragraph (2) of this subsection, and inserted provision for election by widower or widow of benefits derived from more than one husband or wife.
 
-    Subsec. (e)(1). [Pub. L. 93–416, § 17][/us/pl/93/416/s17], inserted “, except for increases authorized by [section 8146a of this title][/us/usc/t5/s8146a]” before “; or”.
+    Subsec. (e)(1). [Pub. L. 93–416][/us/pl/93/416], § 17, inserted “, except for increases authorized by [section 8146a of this title][/us/usc/t5/s8146a]” before “; or”.
 
-    Subsec. (f). [Pub. L. 93–416, § 18][/us/pl/93/416/s18], added subsec. (f).
+    Subsec. (f). [Pub. L. 93–416][/us/pl/93/416], § 18, added subsec. (f).
 
  __Effective Date of 1974 Amendment__ 
 
@@ -275,7 +275,7 @@ July 4, 1966, Pub. L. 89–488, § 3(c), 80 Stat. 252.  </td>
 
  __Gratuity for Death of Civilian Employee From Injury Sustained in Line of Duty__ 
 
-[Pub. L. 104–208, div. A, title I, § 101(f)][/us/pl/104/208/s101/f] \[title VI, § 651\], Sept. 30, 1996, [110 Stat. 3009–314][/us/stat/110/3009-314], 3009–368, provided that: 
+[Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(f) \[title VI, § 651\], Sept. 30, 1996, [110 Stat. 3009–314][/us/stat/110/3009-314], 3009–368, provided that: 
 
 > “Notwithstanding [section 8116 of title 5][/us/usc/t5/s8116], United States Code, and in addition to any payment made under [5 U.S.C. 8101][/us/usc/t5/s8101] et seq., beginning in fiscal year 1997 and thereafter, the head of any department or agency is authorized to pay from appropriations made available to the department or agency a death gratuity to the personal representative (as that term is defined by applicable law) of a civilian employee of that department or agency whose death resulted from an injury sustained in the line of duty on or after August 2, 1990: Provided, That payments made pursuant to this section, in combination with the payments made pursuant to sections 8133(f) and 8134(a) of such title 5 and [section 312 of Public Law 103–332][/us/pl/103/332/s312] ([108 Stat. 2537][/us/stat/108/2537]) \[[5 U.S.C. 8134][/us/usc/t5/s8134] note\], may not exceed a total of $10,000 per employee.”
 
@@ -296,30 +296,30 @@ July 4, 1966, Pub. L. 89–488, § 3(c), 80 Stat. 252.  </td>
 [/us/usc/t5/s8101/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8101%2F1
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F547
-[/us/pl/90/83/s1/62]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83%2Fs1%2F62
+[/us/pl/90/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83
 [/us/stat/81/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F211
 [/us/pl/93/416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F416
 [/us/stat/88/1147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1147
-[/us/pl/101/303/s3/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F303%2Fs3%2F1
+[/us/pl/101/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F303
 [/us/stat/104/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F251
 [/us/stat/64/1271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1271
 [/us/usc/t5/s8101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8101
 [/us/usc/t5/s8114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8114
 [/us/pl/101/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F303
-[/us/pl/93/416/s16/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F416%2Fs16%2Fa
-[/us/pl/93/416/s16/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F416%2Fs16%2Fa
-[/us/pl/93/416/s16/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F416%2Fs16%2Fa
-[/us/pl/93/416/s16/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F416%2Fs16%2Fa
-[/us/pl/93/416/s17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F416%2Fs17
+[/us/pl/93/416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F416
+[/us/pl/93/416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F416
+[/us/pl/93/416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F416
+[/us/pl/93/416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F416
+[/us/pl/93/416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F416
 [/us/usc/t5/s8146a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8146a
-[/us/pl/93/416/s18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F416%2Fs18
+[/us/pl/93/416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F416
 [/us/pl/93/416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F416
 [/us/pl/93/416/s28/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F416%2Fs28%2Fa
 [/us/usc/t5/s8101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8101
 [/us/pl/93/416/s18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F416%2Fs18
 [/us/pl/93/416/s28/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F416%2Fs28%2Fa
 [/us/usc/t5/s8101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8101
-[/us/pl/104/208/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Ff
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009-314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-314
 [/us/usc/t5/s8116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8116
 [/us/usc/t5/s8101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8101

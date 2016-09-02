@@ -41,7 +41,7 @@
 
         (2) A career appointee is entitled to appeal to the Merit Systems Protection Board under [section 7701 of this title][/us/usc/t5/s7701] any determination by the agency that the appointee is not qualified for a position for which the appointee applies under paragraph (1) of this subsection.
 
-(Added [Pub. L. 95–454, title IV, § 404(b)][/us/pl/95/454/s404/b], Oct. 13, 1978, [92 Stat. 1166][/us/stat/92/1166]; amended [Pub. L. 97–35, title XVII, § 1704(b)][/us/pl/97/35/s1704/b], Aug. 13, 1981, [95 Stat. 757][/us/stat/95/757]; [Pub. L. 98–615, title III, § 303(a)][/us/pl/98/615/s303/a], Nov. 8, 1984, [98 Stat. 3217][/us/stat/98/3217]; [Pub. L. 101–194, title V, § 506(b)(4)][/us/pl/101/194/s506/b/4], Nov. 30, 1989, [103 Stat. 1758][/us/stat/103/1758]; [Pub. L. 107–296, title XIII, § 1321(a)(2)(B)][/us/pl/107/296/s1321/a/2/B], Nov. 25, 2002, [116 Stat. 2297][/us/stat/116/2297].)
+(Added [Pub. L. 95–454, title IV][/us/pl/95/454/tIV], § 404(b), Oct. 13, 1978, [92 Stat. 1166][/us/stat/92/1166]; amended [Pub. L. 97–35, title XVII][/us/pl/97/35/tXVII], § 1704(b), Aug. 13, 1981, [95 Stat. 757][/us/stat/95/757]; [Pub. L. 98–615, title III][/us/pl/98/615/tIII], § 303(a), Nov. 8, 1984, [98 Stat. 3217][/us/stat/98/3217]; [Pub. L. 101–194, title V][/us/pl/101/194/tV], § 506(b)(4), Nov. 30, 1989, [103 Stat. 1758][/us/stat/103/1758]; [Pub. L. 107–296, title XIII][/us/pl/107/296/tXIII], § 1321(a)(2)(B), Nov. 25, 2002, [116 Stat. 2297][/us/stat/116/2297].)
 
  __Amendments__ 
 
@@ -57,7 +57,7 @@
 
     Amendment by [Pub. L. 107–296][/us/pl/107/296] effective 60 days after Nov. 25, 2002, see [section 4 of Pub. L. 107–296][/us/pl/107/296/s4], set out as an Effective Date note under [section 101 of Title 6][/us/usc/t6/s101], Domestic Security.
 
-[Pub. L. 107–296, title XIII, § 1321(c)][/us/pl/107/296/s1321/c], Nov. 25, 2002, [116 Stat. 2297][/us/stat/116/2297], provided that: 
+[Pub. L. 107–296, title XIII][/us/pl/107/296/tXIII], § 1321(c), Nov. 25, 2002, [116 Stat. 2297][/us/stat/116/2297], provided that: 
 
 > “The amendment made by subsection (a)(2)(B) \[amending this section\] shall not apply with respect to an individual who, before the effective date of this section \[see note above\], leaves the Senior Executive Service for failure to be recertified as a senior executive under [section 3393a of title 5][/us/usc/t5/s3393a], United States Code.”
 
@@ -85,15 +85,15 @@
 [/us/usc/t5/s3393/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3393%2Fd
 [/us/usc/t5/s3595/b/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3595%2Fb%2F3%2FB
 [/us/usc/t5/s7701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs7701
-[/us/pl/95/454/s404/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs404%2Fb
+[/us/pl/95/454/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtIV
 [/us/stat/92/1166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1166
-[/us/pl/97/35/s1704/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs1704%2Fb
+[/us/pl/97/35/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXVII
 [/us/stat/95/757]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F757
-[/us/pl/98/615/s303/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F615%2Fs303%2Fa
+[/us/pl/98/615/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F615%2FtIII
 [/us/stat/98/3217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3217
-[/us/pl/101/194/s506/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194%2Fs506%2Fb%2F4
+[/us/pl/101/194/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194%2FtV
 [/us/stat/103/1758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1758
-[/us/pl/107/296/s1321/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1321%2Fa%2F2%2FB
+[/us/pl/107/296/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXIII
 [/us/stat/116/2297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2297
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/pl/101/194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194
@@ -102,7 +102,7 @@
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/pl/107/296/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs4
 [/us/usc/t6/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs101
-[/us/pl/107/296/s1321/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1321%2Fc
+[/us/pl/107/296/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXIII
 [/us/stat/116/2297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2297
 [/us/usc/t5/s3393a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3393a
 [/us/pl/101/194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194

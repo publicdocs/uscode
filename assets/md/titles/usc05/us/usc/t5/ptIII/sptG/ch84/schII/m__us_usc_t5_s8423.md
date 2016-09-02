@@ -101,13 +101,13 @@
 
     (c) Under regulations prescribed by the Office, the head of an agency may request reconsideration of any amount determined to be payable with respect to such agency under subsection (a) or (b). Any such request shall be referred to the Board of Actuaries of the Civil Service Retirement System. The Board of Actuaries shall review the computations of the Office and may make any adjustment with respect to any such amount which the Board determines appropriate. A determination by the Board of Actuaries under this subsection shall be final.
 
-(Added [Pub. L. 99–335, title I, § 101(a)][/us/pl/99/335/s101/a], June 6, 1986, [100 Stat. 537][/us/stat/100/537]; amended [Pub. L. 102–378, § 2(66)][/us/pl/102/378/s2/66], Oct. 2, 1992, [106 Stat. 1354][/us/stat/106/1354]; [Pub. L. 102–496, title VIII, § 803(c)][/us/pl/102/496/s803/c], Oct. 24, 1992, [106 Stat. 3253][/us/stat/106/3253]; [Pub. L. 104–186, title II, § 215(15)][/us/pl/104/186/s215/15], Aug. 20, 1996, [110 Stat. 1746][/us/stat/110/1746]; [Pub. L. 105–261, div. C, title XXXI, § 3154(j)][/us/pl/105/261/s3154/j], Oct. 17, 1998, [112 Stat. 2256][/us/stat/112/2256]; [Pub. L. 106–553, § 1(a)(2)][/us/pl/106/553/s1/a/2] \[title III, § 308(c)(4)\], Dec. 21, 2000, [114 Stat. 2762][/us/stat/114/2762], 2762A–87; [Pub. L. 109–435, title VI, § 604(b)][/us/pl/109/435/s604/b], Dec. 20, 2006, [120 Stat. 3241][/us/stat/120/3241]; [Pub. L. 110–161, div. E, title V, § 535(b)(5)][/us/pl/110/161/s535/b/5], Dec. 26, 2007, [121 Stat. 2076][/us/stat/121/2076]; [Pub. L. 113–67, div. A, title IV, § 401(c)][/us/pl/113/67/s401/c], Dec. 26, 2013, [127 Stat. 1184][/us/stat/127/1184].)
+(Added [Pub. L. 99–335, title I][/us/pl/99/335/tI], § 101(a), June 6, 1986, [100 Stat. 537][/us/stat/100/537]; amended [Pub. L. 102–378][/us/pl/102/378], § 2(66), Oct. 2, 1992, [106 Stat. 1354][/us/stat/106/1354]; [Pub. L. 102–496, title VIII][/us/pl/102/496/tVIII], § 803(c), Oct. 24, 1992, [106 Stat. 3253][/us/stat/106/3253]; [Pub. L. 104–186, title II][/us/pl/104/186/tII], § 215(15), Aug. 20, 1996, [110 Stat. 1746][/us/stat/110/1746]; [Pub. L. 105–261, div. C, title XXXI][/us/pl/105/261/dC/tXXXI], § 3154(j), Oct. 17, 1998, [112 Stat. 2256][/us/stat/112/2256]; [Pub. L. 106–553][/us/pl/106/553], § 1(a)(2) \[title III, § 308(c)(4)\], Dec. 21, 2000, [114 Stat. 2762][/us/stat/114/2762], 2762A–87; [Pub. L. 109–435, title VI][/us/pl/109/435/tVI], § 604(b), Dec. 20, 2006, [120 Stat. 3241][/us/stat/120/3241]; [Pub. L. 110–161, div. E, title V][/us/pl/110/161/dE/tV], § 535(b)(5), Dec. 26, 2007, [121 Stat. 2076][/us/stat/121/2076]; [Pub. L. 113–67, div. A, title IV][/us/pl/113/67/dA/tIV], § 401(c), Dec. 26, 2013, [127 Stat. 1184][/us/stat/127/1184].)
 
  __References in Text__ 
 
     Sections 302 and 303 of the Central Intelligence Agency Retirement Act, referred to in subsec. (a)(1)(B)(i), are classified to sections 2152 and 2153, respectively, of Title 50, War and National Defense.
 
-    Section 401(b) of the Bipartisan Budget Act of 2013, referred to in subsec. (a)(2)(B)(i), is [section 401(b) of div. A of Pub. L. 113–67][/us/pl/113/67/s401/b], which amended [section 8422 of this title][/us/usc/t5/s8422].
+    Section 401(b) of the Bipartisan Budget Act of 2013, referred to in subsec. (a)(2)(B)(i), is [section 401(b) of div. A of Pub. L. 113–67][/us/pl/113/67/dA/s401/b], which amended [section 8422 of this title][/us/usc/t5/s8422].
 
  __Amendments__ 
 
@@ -154,25 +154,25 @@
 ----------
 ----------
 
-[/us/pl/99/335/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2Fs101%2Fa
+[/us/pl/99/335/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2FtI
 [/us/stat/100/537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F537
-[/us/pl/102/378/s2/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378%2Fs2%2F66
+[/us/pl/102/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378
 [/us/stat/106/1354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1354
-[/us/pl/102/496/s803/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F496%2Fs803%2Fc
+[/us/pl/102/496/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F496%2FtVIII
 [/us/stat/106/3253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3253
-[/us/pl/104/186/s215/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2Fs215%2F15
+[/us/pl/104/186/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2FtII
 [/us/stat/110/1746]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1746
-[/us/pl/105/261/s3154/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs3154%2Fj
+[/us/pl/105/261/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdC%2FtXXXI
 [/us/stat/112/2256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2256
-[/us/pl/106/553/s1/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F553%2Fs1%2Fa%2F2
+[/us/pl/106/553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F553
 [/us/stat/114/2762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2762
-[/us/pl/109/435/s604/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2Fs604%2Fb
+[/us/pl/109/435/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2FtVI
 [/us/stat/120/3241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3241
-[/us/pl/110/161/s535/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs535%2Fb%2F5
+[/us/pl/110/161/dE/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2FdE%2FtV
 [/us/stat/121/2076]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2076
-[/us/pl/113/67/s401/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs401%2Fc
+[/us/pl/113/67/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2FdA%2FtIV
 [/us/stat/127/1184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1184
-[/us/pl/113/67/s401/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs401%2Fb
+[/us/pl/113/67/dA/s401/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2FdA%2Fs401%2Fb
 [/us/usc/t5/s8422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8422
 [/us/pl/113/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67
 [/us/pl/110/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161

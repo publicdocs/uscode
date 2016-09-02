@@ -49,7 +49,7 @@
 
     (h) The Office of Personnel Management shall provide such clerical and professional personnel as the Chairman of the Committee considers appropriate and necessary to carry out its functions under this subchapter. Such personnel shall be responsible to the Chairman of the Committee.
 
-(Added [Pub. L. 92–392, § 1(a)][/us/pl/92/392/s1/a], Aug. 19, 1972, [86 Stat. 571][/us/stat/86/571]; amended [Pub. L. 95–454, title IX, § 906(a)(1)][/us/pl/95/454/s906/a/1], (2), Oct. 13, 1978, [92 Stat. 1224][/us/stat/92/1224]; [Pub. L. 96–54, § 2(a)(15)][/us/pl/96/54/s2/a/15], Aug. 14, 1979, [93 Stat. 382][/us/stat/93/382]; [Pub. L. 102–378, § 2(30)][/us/pl/102/378/s2/30], Oct. 2, 1992, [106 Stat. 1350][/us/stat/106/1350]; [Pub. L. 104–66, title II, § 2181(d)][/us/pl/104/66/s2181/d], Dec. 21, 1995, [109 Stat. 732][/us/stat/109/732].)
+(Added [Pub. L. 92–392][/us/pl/92/392], § 1(a), Aug. 19, 1972, [86 Stat. 571][/us/stat/86/571]; amended [Pub. L. 95–454, title IX][/us/pl/95/454/tIX], § 906(a)(1), (2), Oct. 13, 1978, [92 Stat. 1224][/us/stat/92/1224]; [Pub. L. 96–54][/us/pl/96/54], § 2(a)(15), Aug. 14, 1979, [93 Stat. 382][/us/stat/93/382]; [Pub. L. 102–378][/us/pl/102/378], § 2(30), Oct. 2, 1992, [106 Stat. 1350][/us/stat/106/1350]; [Pub. L. 104–66, title II][/us/pl/104/66/tII], § 2181(d), Dec. 21, 1995, [109 Stat. 732][/us/stat/109/732].)
 
  __Amendments__ 
 
@@ -80,15 +80,15 @@
 ----------
 ----------
 
-[/us/pl/92/392/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F392%2Fs1%2Fa
+[/us/pl/92/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F392
 [/us/stat/86/571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F571
-[/us/pl/95/454/s906/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs906%2Fa%2F1
+[/us/pl/95/454/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtIX
 [/us/stat/92/1224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1224
-[/us/pl/96/54/s2/a/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F54%2Fs2%2Fa%2F15
+[/us/pl/96/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F54
 [/us/stat/93/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F382
-[/us/pl/102/378/s2/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378%2Fs2%2F30
+[/us/pl/102/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378
 [/us/stat/106/1350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1350
-[/us/pl/104/66/s2181/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs2181%2Fd
+[/us/pl/104/66/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2FtII
 [/us/stat/109/732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F732
 [/us/pl/104/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66
 [/us/pl/102/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378

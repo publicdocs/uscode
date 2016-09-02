@@ -17,7 +17,7 @@
 
     A recording clock may not be used to record time of an employee of an Executive department in the District of Columbia, except that the Bureau of Engraving and Printing may use such recording clocks.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 516][/us/stat/80/516]; [Pub. L. 97–221, § 6(a)][/us/pl/97/221/s6/a], July 23, 1982, [96 Stat. 234][/us/stat/96/234].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 516][/us/stat/80/516]; [Pub. L. 97–221][/us/pl/97/221], § 6(a), July 23, 1982, [96 Stat. 234][/us/stat/96/234].)
 
 <table>
 
@@ -75,7 +75,7 @@ Feb. 24, 1899, ch. 187, § 1 (14th par. on p. 864), 30 Stat. 864.  </td>
 
  __Effective Date of 1982 Amendment__ 
 
-[Pub. L. 97–221, § 6(b)][/us/pl/97/221/s6/b], July 23, 1982, [96 Stat. 234][/us/stat/96/234], provided that: 
+[Pub. L. 97–221][/us/pl/97/221], § 6(b), July 23, 1982, [96 Stat. 234][/us/stat/96/234], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall take effect October 1, 1982. Section 5 of this Act \[set out in the Termination Date of 1982 Amendment note under [section 6101 of this title][/us/usc/t5/s6101]\] shall not apply to the amendment made by this section.”
 
@@ -88,10 +88,10 @@ Feb. 24, 1899, ch. 187, § 1 (14th par. on p. 864), 30 Stat. 864.  </td>
 
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F516
-[/us/pl/97/221/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F221%2Fs6%2Fa
+[/us/pl/97/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F221
 [/us/stat/96/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F234
 [/us/pl/97/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F221
-[/us/pl/97/221/s6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F221%2Fs6%2Fb
+[/us/pl/97/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F221
 [/us/stat/96/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F234
 [/us/usc/t5/s6101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs6101
 

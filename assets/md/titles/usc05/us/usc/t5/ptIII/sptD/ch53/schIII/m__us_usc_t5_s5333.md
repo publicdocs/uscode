@@ -17,7 +17,7 @@
 
     New appointments shall be made at the minimum rate of the appropriate grade. However, under regulations prescribed by the Office of Personnel Management which provide for such considerations as the existing pay or unusually high or unique qualifications of the candidate, or a special need of the Government for his services, the head of an agency may appoint, with the approval of the Office in each specific case, an individual to a position at such a rate above the minimum rate of the appropriate grade as the Office may authorize for this purpose. The approval of the Office in each specific case is not required with respect to an appointment made by the Librarian of Congress.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 467][/us/stat/80/467]; [Pub. L. 90–83, § 1(19)][/us/pl/90/83/s1/19], Sept. 11, 1967, [81 Stat. 199][/us/stat/81/199]; [Pub. L. 95–454, title IX, § 906(a)(2)][/us/pl/95/454/s906/a/2], (3), Oct. 13, 1978, [92 Stat. 1224][/us/stat/92/1224]; [Pub. L. 96–54, § 2(a)(26)(A)][/us/pl/96/54/s2/a/26/A], Aug. 14, 1979, [93 Stat. 382][/us/stat/93/382]; [Pub. L. 101–509, title V, § 529][/us/pl/101/509/s529] \[title I, § 106, title II, § 211(b)(1)\], Nov. 5, 1990, [104 Stat. 1427][/us/stat/104/1427], 1449, 1461.)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 467][/us/stat/80/467]; [Pub. L. 90–83][/us/pl/90/83], § 1(19), Sept. 11, 1967, [81 Stat. 199][/us/stat/81/199]; [Pub. L. 95–454, title IX][/us/pl/95/454/tIX], § 906(a)(2), (3), Oct. 13, 1978, [92 Stat. 1224][/us/stat/92/1224]; [Pub. L. 96–54][/us/pl/96/54], § 2(a)(26)(A), Aug. 14, 1979, [93 Stat. 382][/us/stat/93/382]; [Pub. L. 101–509, title V][/us/pl/101/509/tV], § 529 \[title I, § 106, title II, § 211(b)(1)\], Nov. 5, 1990, [104 Stat. 1427][/us/stat/104/1427], 1449, 1461.)
 
 <table>
 
@@ -200,13 +200,13 @@ July 18, 1966, Pub. L. 89–504, § 103, 80 Stat. 289.  </td>
 
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F467
-[/us/pl/90/83/s1/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83%2Fs1%2F19
+[/us/pl/90/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83
 [/us/stat/81/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F199
-[/us/pl/95/454/s906/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs906%2Fa%2F2
+[/us/pl/95/454/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtIX
 [/us/stat/92/1224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1224
-[/us/pl/96/54/s2/a/26/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F54%2Fs2%2Fa%2F26%2FA
+[/us/pl/96/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F54
 [/us/stat/93/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F382
-[/us/pl/101/509/s529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2Fs529
+[/us/pl/101/509/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2FtV
 [/us/stat/104/1427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1427
 [/us/act/1962-10-11/s603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1962-10-11%2Fs603
 [/us/pl/87/793]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F793

@@ -31,7 +31,7 @@
 
         (2) the vote on final passage shall be on the resolution of the other House.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 398][/us/stat/80/398]; [Pub. L. 95–17, § 2][/us/pl/95/17/s2], Apr. 6, 1977, [91 Stat. 34][/us/stat/91/34]; [Pub. L. 98–614, § 3(d)][/us/pl/98/614/s3/d], (e)(1), (2), Nov. 8, 1984, [98 Stat. 3193][/us/stat/98/3193].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 398][/us/stat/80/398]; [Pub. L. 95–17][/us/pl/95/17], § 2, Apr. 6, 1977, [91 Stat. 34][/us/stat/91/34]; [Pub. L. 98–614][/us/pl/98/614], § 3(d), (e)(1), (2), Nov. 8, 1984, [98 Stat. 3193][/us/stat/98/3193].)
 
 <table>
 
@@ -83,13 +83,13 @@ June 20, 1949, ch. 226, § 205, 63 Stat. 207.  </td>
 
  __Amendments__ 
 
-    1984—[Pub. L. 98–614, § 3(e)(2)][/us/pl/98/614/s3/e/2], substituted “passage” for “disapproval” in section catchline.
+    1984—[Pub. L. 98–614][/us/pl/98/614], § 3(e)(2), substituted “passage” for “disapproval” in section catchline.
 
-    Subsec. (b). [Pub. L. 98–614, § 3(d)(1)][/us/pl/98/614/s3/d/1], substituted “passed or rejected” for “agreed to or disagreed to”.
+    Subsec. (b). [Pub. L. 98–614][/us/pl/98/614], § 3(d)(1), substituted “passed or rejected” for “agreed to or disagreed to”.
 
-    Subsec. (c). [Pub. L. 98–614, § 3(d)(2)][/us/pl/98/614/s3/d/2], substituted “final passage” for “final approval”.
+    Subsec. (c). [Pub. L. 98–614][/us/pl/98/614], § 3(d)(2), substituted “final passage” for “final approval”.
 
-    Subsec. (e). [Pub. L. 98–614, § 3(e)(1)][/us/pl/98/614/s3/e/1], added subsec. (e).
+    Subsec. (e). [Pub. L. 98–614][/us/pl/98/614], § 3(e)(1), added subsec. (e).
 
     1977—[Pub. L. 95–17][/us/pl/95/17] inserted “; vote on final disapproval” after “debate” in section catchline.
 
@@ -110,14 +110,14 @@ June 20, 1949, ch. 226, § 205, 63 Stat. 207.  </td>
 
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F398
-[/us/pl/95/17/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F17%2Fs2
+[/us/pl/95/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F17
 [/us/stat/91/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F34
-[/us/pl/98/614/s3/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F614%2Fs3%2Fd
+[/us/pl/98/614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F614
 [/us/stat/98/3193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3193
-[/us/pl/98/614/s3/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F614%2Fs3%2Fe%2F2
-[/us/pl/98/614/s3/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F614%2Fs3%2Fd%2F1
-[/us/pl/98/614/s3/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F614%2Fs3%2Fd%2F2
-[/us/pl/98/614/s3/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F614%2Fs3%2Fe%2F1
+[/us/pl/98/614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F614
+[/us/pl/98/614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F614
+[/us/pl/98/614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F614
+[/us/pl/98/614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F614
 [/us/pl/95/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F17
 [/us/pl/95/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F17
 [/us/pl/95/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F17

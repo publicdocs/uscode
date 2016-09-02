@@ -17,7 +17,7 @@
 
     A member of a uniformed service who has performed active service and who is on terminal leave pending separation from, or release from active duty in, that service under honorable conditions may accept a civilian office or position in the Government of the United States, its territories or possessions, or the government of the District of Columbia, and he is entitled to receive the pay of that office or position in addition to pay and allowances from the uniformed service for the unexpired portion of the terminal leave. Such a member also is entitled to accrue annual leave with pay in the manner specified in [section 6303(a) of this title][/us/usc/t5/s6303/a] for a retired member of a uniformed service.
 
-(Added [Pub. L. 90–83, § 1(22)][/us/pl/90/83/s1/22], Sept. 11, 1967, [81 Stat. 199][/us/stat/81/199]; amended [Pub. L. 109–364, div. A, title XI, § 1101][/us/pl/109/364/s1101], Oct. 17, 2006, [120 Stat. 2407][/us/stat/120/2407].)
+(Added [Pub. L. 90–83][/us/pl/90/83], § 1(22), Sept. 11, 1967, [81 Stat. 199][/us/stat/81/199]; amended [Pub. L. 109–364, div. A, title XI][/us/pl/109/364/dA/tXI], § 1101, Oct. 17, 2006, [120 Stat. 2407][/us/stat/120/2407].)
 
  __Historical and Revision Notes__ 
 
@@ -43,9 +43,9 @@
 ----------
 
 [/us/usc/t5/s6303/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs6303%2Fa
-[/us/pl/90/83/s1/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83%2Fs1%2F22
+[/us/pl/90/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83
 [/us/stat/81/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F199
-[/us/pl/109/364/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs1101
+[/us/pl/109/364/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtXI
 [/us/stat/120/2407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2407
 [/us/usc/t5/s61a–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs61a%E2%80%931
 [/us/act/1945-11-21/ch489]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-11-21%2Fch489

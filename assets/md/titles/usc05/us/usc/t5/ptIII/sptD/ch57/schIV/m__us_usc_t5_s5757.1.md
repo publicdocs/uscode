@@ -25,7 +25,7 @@
 
     (b) The authority under subsection (a) may not be exercised on behalf of any employee occupying or seeking to qualify for appointment to any position that is excepted from the competitive service because of the confidential, policy-determining, policy-making, or policy-advocating character of the position.
 
-(Added [Pub. L. 107–107, div. A, title XI, § 1112(a)][/us/pl/107/107/s1112/a], Dec. 28, 2001, [115 Stat. 1238][/us/stat/115/1238].)
+(Added [Pub. L. 107–107, div. A, title XI][/us/pl/107/107/dA/tXI], § 1112(a), Dec. 28, 2001, [115 Stat. 1238][/us/stat/115/1238].)
 
 ----------
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/107/107/s1112/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs1112%2Fa
+[/us/pl/107/107/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtXI
 [/us/stat/115/1238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1238
 
 

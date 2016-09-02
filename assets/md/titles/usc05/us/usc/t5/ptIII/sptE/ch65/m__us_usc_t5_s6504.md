@@ -91,7 +91,7 @@
 
     Not later than 120 days after the date of the enactment of this chapter, the Director of the Office of Management and Budget shall issue policy guidance requiring each executive agency when purchasing computer systems, to purchase computer systems that enable and support telework, unless the head of the agency determines that there is a mission-specific reason not to do so.
 
-(Added [Pub. L. 111–292, § 2(a)][/us/pl/111/292/s2/a], Dec. 9, 2010, [124 Stat. 3167][/us/stat/124/3167].)
+(Added [Pub. L. 111–292][/us/pl/111/292], § 2(a), Dec. 9, 2010, [124 Stat. 3167][/us/stat/124/3167].)
 
  __References in Text__ 
 
@@ -104,7 +104,7 @@
 ----------
 ----------
 
-[/us/pl/111/292/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F292%2Fs2%2Fa
+[/us/pl/111/292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F292
 [/us/stat/124/3167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3167
 [/us/pl/111/292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F292
 

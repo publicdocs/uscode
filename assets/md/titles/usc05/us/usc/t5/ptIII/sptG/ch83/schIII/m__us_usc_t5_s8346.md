@@ -19,7 +19,7 @@
 
     (b) Recovery of payments under this subchapter may not be made from an individual when, in the judgment of the Office of Personnel Management, the individual is without fault and recovery would be against equity and good conscience. Withholding or recovery of money mentioned by this subchapter on account of a certification or payment made by a former employee of the United States in the discharge of his official duties may be made only if the head of the agency on behalf of which the certification or payment was made certifies to the Office that the certification or payment involved fraud on the part of the former employee.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 583][/us/stat/80/583]; [Pub. L. 94–166, § 2][/us/pl/94/166/s2], Dec. 23, 1975, [89 Stat. 1002][/us/stat/89/1002]; [Pub. L. 95–366, § 1(b)][/us/pl/95/366/s1/b], Sept. 15, 1978, [92 Stat. 600][/us/stat/92/600]; [Pub. L. 95–454, title IX, § 906(a)(2)][/us/pl/95/454/s906/a/2], (3), Oct. 13, 1978, [92 Stat. 1224][/us/stat/92/1224].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 583][/us/stat/80/583]; [Pub. L. 94–166][/us/pl/94/166], § 2, Dec. 23, 1975, [89 Stat. 1002][/us/stat/89/1002]; [Pub. L. 95–366][/us/pl/95/366], § 1(b), Sept. 15, 1978, [92 Stat. 600][/us/stat/92/600]; [Pub. L. 95–454, title IX][/us/pl/95/454/tIX], § 906(a)(2), (3), Oct. 13, 1978, [92 Stat. 1224][/us/stat/92/1224].)
 
 <table>
 
@@ -95,11 +95,11 @@ July 31, 1956, ch. 804, § 401 “Sec. 15”, 70 Stat. 758.  </td>
 [/us/usc/t5/s8345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8345
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F583
-[/us/pl/94/166/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F166%2Fs2
+[/us/pl/94/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F166
 [/us/stat/89/1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F1002
-[/us/pl/95/366/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F366%2Fs1%2Fb
+[/us/pl/95/366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F366
 [/us/stat/92/600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F600
-[/us/pl/95/454/s906/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs906%2Fa%2F2
+[/us/pl/95/454/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtIX
 [/us/stat/92/1224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1224
 [/us/pl/95/366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F366
 [/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454

@@ -25,7 +25,7 @@
 
     (c) The Secretary of Defense shall prescribe regulations necessary for the implementation of [section 5735 of this title][/us/usc/t5/s5735].
 
-(Added [Pub. L. 104–201, div. A, title XVII, § 1722][/us/pl/104/201/s1722], Sept. 23, 1996, [110 Stat. 2758][/us/stat/110/2758].)
+(Added [Pub. L. 104–201, div. A, title XVII][/us/pl/104/201/dA/tXVII], § 1722, Sept. 23, 1996, [110 Stat. 2758][/us/stat/110/2758].)
 
  __Effective Date__ 
 
@@ -40,7 +40,7 @@
 
 [/us/usc/t5/s5724b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5724b
 [/us/usc/t5/s5735]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5735
-[/us/pl/104/201/s1722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1722
+[/us/pl/104/201/dA/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtXVII
 [/us/stat/110/2758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2758
 [/us/pl/104/201/s1725/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1725%2Fa
 [/us/usc/t5/s5722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5722

@@ -47,7 +47,7 @@
 
     (e) Pay may not be paid, by reason of any exercise of authority under this section, at a rate in excess of the rate of basic pay payable for level V of the Executive Schedule.
 
-(Added [Pub. L. 91–656, § 3(a)][/us/pl/91/656/s3/a], Jan. 8, 1971, [84 Stat. 1949][/us/stat/84/1949]; amended [Pub. L. 101–509, title V, § 529][/us/pl/101/509/s529] \[title I, § 101(a)(1)\], Nov. 5, 1990, [104 Stat. 1427][/us/stat/104/1427], 1437; [Pub. L. 102–378, § 2(27)][/us/pl/102/378/s2/27], Oct. 2, 1992, [106 Stat. 1350][/us/stat/106/1350]; [Pub. L. 104–186, title II, § 215(3)][/us/pl/104/186/s215/3], Aug. 20, 1996, [110 Stat. 1745][/us/stat/110/1745].)
+(Added [Pub. L. 91–656][/us/pl/91/656], § 3(a), Jan. 8, 1971, [84 Stat. 1949][/us/stat/84/1949]; amended [Pub. L. 101–509, title V][/us/pl/101/509/tV], § 529 \[title I, § 101(a)(1)\], Nov. 5, 1990, [104 Stat. 1427][/us/stat/104/1427], 1437; [Pub. L. 102–378][/us/pl/102/378], § 2(27), Oct. 2, 1992, [106 Stat. 1350][/us/stat/106/1350]; [Pub. L. 104–186, title II][/us/pl/104/186/tII], § 215(3), Aug. 20, 1996, [110 Stat. 1745][/us/stat/110/1745].)
 
  __References in Text__ 
 
@@ -77,13 +77,13 @@
 ----------
 
 [/us/usc/t16/s590h/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs590h%2Fb
-[/us/pl/91/656/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F656%2Fs3%2Fa
+[/us/pl/91/656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F656
 [/us/stat/84/1949]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1949
-[/us/pl/101/509/s529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2Fs529
+[/us/pl/101/509/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2FtV
 [/us/stat/104/1427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1427
-[/us/pl/102/378/s2/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378%2Fs2%2F27
+[/us/pl/102/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378
 [/us/stat/106/1350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1350
-[/us/pl/104/186/s215/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2Fs215%2F3
+[/us/pl/104/186/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2FtII
 [/us/stat/110/1745]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1745
 [/us/usc/t40/s166b–3a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs166b%E2%80%933a
 [/us/usc/t2/s1848]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1848

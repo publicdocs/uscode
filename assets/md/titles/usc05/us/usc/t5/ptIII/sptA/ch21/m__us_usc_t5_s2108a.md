@@ -47,7 +47,7 @@
 
     Subsections (a) and (b) shall apply with respect to determining whether an individual is a preference eligible under section 2108(3) for purposes of making an appointment in the competitive service.
 
-(Added [Pub. L. 112–56, title II, § 235(a)(1)][/us/pl/112/56/s235/a/1], Nov. 21, 2011, [125 Stat. 722][/us/stat/125/722].)
+(Added [Pub. L. 112–56, title II][/us/pl/112/56/tII], § 235(a)(1), Nov. 21, 2011, [125 Stat. 722][/us/stat/125/722].)
 
 ----------
 
@@ -56,7 +56,7 @@
 ----------
 ----------
 
-[/us/pl/112/56/s235/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F56%2Fs235%2Fa%2F1
+[/us/pl/112/56/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F56%2FtII
 [/us/stat/125/722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F722
 
 

@@ -31,7 +31,7 @@
 
     (c) For purposes of this section, the term “base closure law” has the meaning given such term in [section 101(a)(17) of title 10][/us/usc/t10/s101/a/17].
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 424][/us/stat/80/424]; [Pub. L. 104–106, div. A, title X, § 1033(a)][/us/pl/104/106/s1033/a], Feb. 10, 1996, [110 Stat. 429][/us/stat/110/429]; [Pub. L. 109–163, div. A, title X, § 1056(a)(4)][/us/pl/109/163/s1056/a/4], Jan. 6, 2006, [119 Stat. 3439][/us/stat/119/3439].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 424][/us/stat/80/424]; [Pub. L. 104–106, div. A, title X][/us/pl/104/106/dA/tX], § 1033(a), Feb. 10, 1996, [110 Stat. 429][/us/stat/110/429]; [Pub. L. 109–163, div. A, title X][/us/pl/109/163/dA/tX], § 1056(a)(4), Jan. 6, 2006, [119 Stat. 3439][/us/stat/119/3439].)
 
 <table>
 
@@ -87,7 +87,7 @@ May 28, 1896, ch. 252, § 3, 29 Stat. 179.  </td>
 
     The word “detail” is coextensive with and is substituted for “alter the distribution”. The word “clerks” is omitted as included in “employees”. The words “as he may find it necessary and proper to do” and “from time to time” are omitted as surplusage.
 
-    This section was part of title IV of the Revised Statutes. The [Act of July 26, 1947, ch. 343, § 201(d)][/us/act/1947-07-26/ch343/s201/d], as added [Aug. 10, 1949, ch. 412, § 4][/us/act/1949-08-10/ch412/s4], [63 Stat. 579][/us/stat/63/579] (former [5 U.S.C. 171–1][/us/usc/t5/s171–1]), which provides “Except to the extent inconsistent with the provisions of this Act \[National Security Act of 1947\], the provisions of title IV of the Revised Statutes as now or hereafter amended shall be applicable to the Department of Defense” is omitted from this title but is not repealed.
+    This section was part of title IV of the Revised Statutes. The [Act of July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], § 201(d), as added [Aug. 10, 1949, ch. 412][/us/act/1949-08-10/ch412], § 4, [63 Stat. 579][/us/stat/63/579] (former [5 U.S.C. 171–1][/us/usc/t5/s171–1]), which provides “Except to the extent inconsistent with the provisions of this Act \[National Security Act of 1947\], the provisions of title IV of the Revised Statutes as now or hereafter amended shall be applicable to the Department of Defense” is omitted from this title but is not repealed.
 
     Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
@@ -97,11 +97,11 @@ May 28, 1896, ch. 252, § 3, 29 Stat. 179.  </td>
 
     1996—Subsec. (b). [Pub. L. 104–106][/us/pl/104/106] designated existing provisions as par. (1) and added par. (2).
 
-    Subsec. (c). [Pub. L. 104–106, § 1033(a)(2)][/us/pl/104/106/s1033/a/2], added subsec. (c).
+    Subsec. (c). [Pub. L. 104–106][/us/pl/104/106], § 1033(a)(2), added subsec. (c).
 
  __Effective Date of 1996 Amendment__ 
 
-[Pub. L. 104–106, div. A, title X, § 1033(b)][/us/pl/104/106/s1033/b], Feb. 10, 1996, [110 Stat. 430][/us/stat/110/430], provided that: 
+[Pub. L. 104–106, div. A, title X][/us/pl/104/106/dA/tX], § 1033(b), Feb. 10, 1996, [110 Stat. 430][/us/stat/110/430], provided that: 
 
 > “The amendments made by subsection (a) \[amending this section\] apply to details made before the date of the enactment of this Act \[Feb. 10, 1996\] but still in effect on that date and details made on or after that date.”
 
@@ -119,20 +119,20 @@ May 28, 1896, ch. 252, § 3, 29 Stat. 179.  </td>
 [/us/usc/t10/s101/a/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101%2Fa%2F17
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F424
-[/us/pl/104/106/s1033/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1033%2Fa
+[/us/pl/104/106/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtX
 [/us/stat/110/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F429
-[/us/pl/109/163/s1056/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs1056%2Fa%2F4
+[/us/pl/109/163/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtX
 [/us/stat/119/3439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3439
 [/us/stat/63/578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F578
 [/us/stat/63/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F591
-[/us/act/1947-07-26/ch343/s201/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343%2Fs201%2Fd
-[/us/act/1949-08-10/ch412/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-10%2Fch412%2Fs4
+[/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
+[/us/act/1949-08-10/ch412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-10%2Fch412
 [/us/stat/63/579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F579
 [/us/usc/t5/s171–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs171%E2%80%931
 [/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
 [/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
-[/us/pl/104/106/s1033/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1033%2Fa%2F2
-[/us/pl/104/106/s1033/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1033%2Fb
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
+[/us/pl/104/106/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtX
 [/us/stat/110/430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F430
 [/us/pl/103/333/s515/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F333%2Fs515%2F3
 [/us/usc/t31/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1301

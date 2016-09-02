@@ -45,7 +45,7 @@
 
         (2) may request such information or assistance as may be necessary for carrying out the duties and responsibilities provided by this chapter from any Federal, State, or local governmental entity.
 
-(Added [Pub. L. 107–296, title XIII, § 1302(a)][/us/pl/107/296/s1302/a], Nov. 25, 2002, [116 Stat. 2288][/us/stat/116/2288].)
+(Added [Pub. L. 107–296, title XIII][/us/pl/107/296/tXIII], § 1302(a), Nov. 25, 2002, [116 Stat. 2288][/us/stat/116/2288].)
 
 ----------
 
@@ -54,7 +54,7 @@
 ----------
 ----------
 
-[/us/pl/107/296/s1302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1302%2Fa
+[/us/pl/107/296/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXIII
 [/us/stat/116/2288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2288
 
 

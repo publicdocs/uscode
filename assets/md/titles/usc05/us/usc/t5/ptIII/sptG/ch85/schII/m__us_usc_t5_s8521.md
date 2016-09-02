@@ -47,7 +47,7 @@
 
     (b) The provisions of subchapter I of this chapter, subject to the modifications made by this subchapter, apply to individuals who have had Federal service as defined by subsection (a) of this section.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 590][/us/stat/80/590]; [Pub. L. 90–83, § 1(89)][/us/pl/90/83/s1/89], Sept. 11, 1967, [81 Stat. 218][/us/stat/81/218]; [Pub. L. 94–566, title I, § 116(e)(4)][/us/pl/94/566/s116/e/4], Oct. 20, 1976, [90 Stat. 2673][/us/stat/90/2673]; [Pub. L. 96–215, § 4(b)][/us/pl/96/215/s4/b], Mar. 25, 1980, [94 Stat. 124][/us/stat/94/124]; [Pub. L. 96–364, title IV, § 415(a)][/us/pl/96/364/s415/a], Sept. 26, 1980, [94 Stat. 1310][/us/stat/94/1310]; [Pub. L. 97–35, title XXIV, § 2405(a)][/us/pl/97/35/s2405/a], Aug. 13, 1981, [95 Stat. 876][/us/stat/95/876]; [Pub. L. 97–362, title II, § 201(a)][/us/pl/97/362/s201/a], (b), Oct. 25, 1982, [96 Stat. 1732][/us/stat/96/1732]; [Pub. L. 102–164, title III, § 301(a)][/us/pl/102/164/s301/a], (b), Nov. 15, 1991, [105 Stat. 1059][/us/stat/105/1059]; [Pub. L. 110–317, § 7][/us/pl/110/317/s7], Aug. 29, 2008, [122 Stat. 3529][/us/stat/122/3529]; [Pub. L. 114–92, div. A, title V, § 513(a)][/us/pl/114/92/s513/a], Nov. 25, 2015, [129 Stat. 809][/us/stat/129/809].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 590][/us/stat/80/590]; [Pub. L. 90–83][/us/pl/90/83], § 1(89), Sept. 11, 1967, [81 Stat. 218][/us/stat/81/218]; [Pub. L. 94–566, title I][/us/pl/94/566/tI], § 116(e)(4), Oct. 20, 1976, [90 Stat. 2673][/us/stat/90/2673]; [Pub. L. 96–215][/us/pl/96/215], § 4(b), Mar. 25, 1980, [94 Stat. 124][/us/stat/94/124]; [Pub. L. 96–364, title IV][/us/pl/96/364/tIV], § 415(a), Sept. 26, 1980, [94 Stat. 1310][/us/stat/94/1310]; [Pub. L. 97–35, title XXIV][/us/pl/97/35/tXXIV], § 2405(a), Aug. 13, 1981, [95 Stat. 876][/us/stat/95/876]; [Pub. L. 97–362, title II][/us/pl/97/362/tII], § 201(a), (b), Oct. 25, 1982, [96 Stat. 1732][/us/stat/96/1732]; [Pub. L. 102–164, title III][/us/pl/102/164/tIII], § 301(a), (b), Nov. 15, 1991, [105 Stat. 1059][/us/stat/105/1059]; [Pub. L. 110–317][/us/pl/110/317], § 7, Aug. 29, 2008, [122 Stat. 3529][/us/stat/122/3529]; [Pub. L. 114–92, div. A, title V][/us/pl/114/92/dA/tV], § 513(a), Nov. 25, 2015, [129 Stat. 809][/us/stat/129/809].)
 
 <table>
 
@@ -123,17 +123,17 @@ Aug. 28, 1958, Pub. L. 85–848, § 3 “Sec. 1511(a)–(c)”, 72 Stat. 1088.
 
     2008—Subsec. (a)(1)(B)(ii)(III). [Pub. L. 110–317][/us/pl/110/317] substituted “hardship (including pursuant to a sole survivorship discharge, as that term is defined in [section 1174(i) of title 10][/us/usc/t10/s1174/i]),” for “hardship,”.
 
-    1991—Subsec. (a)(1). [Pub. L. 102–164, § 301(b)][/us/pl/102/164/s301/b], substituted “90 days” for “180 days” in introductory provisions.
+    1991—Subsec. (a)(1). [Pub. L. 102–164][/us/pl/102/164], § 301(b), substituted “90 days” for “180 days” in introductory provisions.
 
-    Subsec. (c). [Pub. L. 102–164, § 301(a)][/us/pl/102/164/s301/a], struck out subsec. (c) which read as follows:
+    Subsec. (c). [Pub. L. 102–164][/us/pl/102/164], § 301(a), struck out subsec. (c) which read as follows:
 
     “(1) An individual shall not be entitled to compensation under this subchapter for any week before the fifth week beginning after the week in which the individual was discharged or released.
 
     “(2) The aggregate amount of compensation payable on the basis of Federal service (as defined in subsection (a)) to any individual with respect to any benefit year shall not exceed 13 times the individual’s weekly benefit amount for total unemployment.”
 
-    1982—Subsec. (a)(1). [Pub. L. 97–362, § 201(a)][/us/pl/97/362/s201/a], substituted provision that “Federal service” means active service (not including active duty in a reserve status unless for a continuous period of 180 days or more) in the armed forces or the Commissioned Corps of the National Oceanic and Atmospheric Administration if with respect to that service the individual was discharged or released under honorable conditions (and, if an officer, did not resign for the good of the service), and the individual was discharged or released after completing his first full term of active service which the individual initially agreed to serve, or the individual was discharged or released before completing such term of active service for the convenience of the Government under an early release program, because of medical disqualification, pregnancy, parenthood, or any service-incurred injury or disability, because of hardship, or because of personality disorders or inaptitude but only if the service was continuous for 365 days or more, for provision that “Federal service” meant active service, including active duty for training purposes, in the armed forces or the Commissioned Corps of the National Oceanic and Atmospheric Administration which either began after January 31, 1955, or terminated after October 27, 1958, if that service was continuous for 365 days or more, or was terminated earlier because of an actual service-incurred injury or disability, and with respect to that service, the individual was discharged or released under honorable conditions, did not resign or voluntarily leave the service, and was not released or discharged for cause as defined by the Department of Defense.
+    1982—Subsec. (a)(1). [Pub. L. 97–362][/us/pl/97/362], § 201(a), substituted provision that “Federal service” means active service (not including active duty in a reserve status unless for a continuous period of 180 days or more) in the armed forces or the Commissioned Corps of the National Oceanic and Atmospheric Administration if with respect to that service the individual was discharged or released under honorable conditions (and, if an officer, did not resign for the good of the service), and the individual was discharged or released after completing his first full term of active service which the individual initially agreed to serve, or the individual was discharged or released before completing such term of active service for the convenience of the Government under an early release program, because of medical disqualification, pregnancy, parenthood, or any service-incurred injury or disability, because of hardship, or because of personality disorders or inaptitude but only if the service was continuous for 365 days or more, for provision that “Federal service” meant active service, including active duty for training purposes, in the armed forces or the Commissioned Corps of the National Oceanic and Atmospheric Administration which either began after January 31, 1955, or terminated after October 27, 1958, if that service was continuous for 365 days or more, or was terminated earlier because of an actual service-incurred injury or disability, and with respect to that service, the individual was discharged or released under honorable conditions, did not resign or voluntarily leave the service, and was not released or discharged for cause as defined by the Department of Defense.
 
-    Subsec. (c). [Pub. L. 97–362, § 201(b)][/us/pl/97/362/s201/b], added subsec. (c).
+    Subsec. (c). [Pub. L. 97–362][/us/pl/97/362], § 201(b), added subsec. (c).
 
     1981—Subsec. (a)(1)(B). [Pub. L. 97–35][/us/pl/97/35] substituted “honorable conditions;” for “conditions other than dishonorable; and” in cl. (i), and “did not resign or voluntarily leave the service; and” for “was not given a bad conduct discharge, or, if an officer, did not resign for the good of the service;” in cl. (ii), and added cl. (iii).
 
@@ -145,7 +145,7 @@ Aug. 28, 1958, Pub. L. 85–848, § 3 “Sec. 1511(a)–(c)”, 72 Stat. 1088.
 
  __Effective Date of 2015 Amendment__ 
 
-[Pub. L. 114–92, div. A, title V, § 513(b)][/us/pl/114/92/s513/b], Nov. 25, 2015, [129 Stat. 809][/us/stat/129/809], provided that: 
+[Pub. L. 114–92, div. A, title V][/us/pl/114/92/dA/tV], § 513(b), Nov. 25, 2015, [129 Stat. 809][/us/stat/129/809], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[Nov. 25, 2015\], and shall apply with respect to periods of Federal service commencing on or after that date.”
 
@@ -155,13 +155,13 @@ Aug. 28, 1958, Pub. L. 85–848, § 3 “Sec. 1511(a)–(c)”, 72 Stat. 1088.
 
  __Effective Date of 1991 Amendment__ 
 
-[Pub. L. 102–164, title III, § 301(c)][/us/pl/102/164/s301/c], Nov. 15, 1991, [105 Stat. 1059][/us/stat/105/1059], provided that: 
+[Pub. L. 102–164, title III][/us/pl/102/164/tIII], § 301(c), Nov. 15, 1991, [105 Stat. 1059][/us/stat/105/1059], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall apply to weeks of unemployment beginning on or after the date of the enactment of this Act \[Nov. 15, 1991\].”
 
  __Effective Date of 1982 Amendment; Transitional Rule__ 
 
-[Pub. L. 97–362, title II, § 201(c)][/us/pl/97/362/s201/c], Oct. 25, 1982, [96 Stat. 1732][/us/stat/96/1732], provided that:
+[Pub. L. 97–362, title II][/us/pl/97/362/tII], § 201(c), Oct. 25, 1982, [96 Stat. 1732][/us/stat/96/1732], provided that:
 
 >     “(1) __In general.—__ 
 
@@ -173,13 +173,13 @@ Aug. 28, 1958, Pub. L. 85–848, § 3 “Sec. 1511(a)–(c)”, 72 Stat. 1088.
 
  __Effective Date of 1981 Amendment__ 
 
-[Pub. L. 97–35, title XXIV, § 2405(b)][/us/pl/97/35/s2405/b], Aug. 13, 1981, [95 Stat. 876][/us/stat/95/876], provided that: 
+[Pub. L. 97–35, title XXIV][/us/pl/97/35/tXXIV], § 2405(b), Aug. 13, 1981, [95 Stat. 876][/us/stat/95/876], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply with respect to terminations of service on or after July 1, 1981, but only in the case of weeks of unemployment beginning after the date of the enactment of this Act \[Aug. 13, 1981\].”
 
  __Effective Date of 1980 Amendments__ 
 
-[Pub. L. 96–364, title IV, § 415(b)][/us/pl/96/364/s415/b], Sept. 26, 1980, [94 Stat. 1310][/us/stat/94/1310], provided that: 
+[Pub. L. 96–364, title IV][/us/pl/96/364/tIV], § 415(b), Sept. 26, 1980, [94 Stat. 1310][/us/stat/94/1310], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply with respect to determinations of Federal service in the case of individuals filing claims for unemployment compensation on or after October 1, 1980.”
 
@@ -203,23 +203,23 @@ Aug. 28, 1958, Pub. L. 85–848, § 3 “Sec. 1511(a)–(c)”, 72 Stat. 1088.
 [/us/usc/t10/s1174/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1174%2Fi
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F590
-[/us/pl/90/83/s1/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83%2Fs1%2F89
+[/us/pl/90/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83
 [/us/stat/81/218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F218
-[/us/pl/94/566/s116/e/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F566%2Fs116%2Fe%2F4
+[/us/pl/94/566/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F566%2FtI
 [/us/stat/90/2673]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2673
-[/us/pl/96/215/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F215%2Fs4%2Fb
+[/us/pl/96/215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F215
 [/us/stat/94/124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F124
-[/us/pl/96/364/s415/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364%2Fs415%2Fa
+[/us/pl/96/364/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364%2FtIV
 [/us/stat/94/1310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1310
-[/us/pl/97/35/s2405/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2405%2Fa
+[/us/pl/97/35/tXXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXXIV
 [/us/stat/95/876]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F876
-[/us/pl/97/362/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F362%2Fs201%2Fa
+[/us/pl/97/362/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F362%2FtII
 [/us/stat/96/1732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1732
-[/us/pl/102/164/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F164%2Fs301%2Fa
+[/us/pl/102/164/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F164%2FtIII
 [/us/stat/105/1059]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1059
-[/us/pl/110/317/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F317%2Fs7
+[/us/pl/110/317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F317
 [/us/stat/122/3529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3529
-[/us/pl/114/92/s513/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs513%2Fa
+[/us/pl/114/92/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtV
 [/us/stat/129/809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F809
 [/us/usc/t5/s8521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8521
 [/us/usc/t42/s1301/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1301%2Fa%2F1
@@ -230,26 +230,26 @@ Aug. 28, 1958, Pub. L. 85–848, § 3 “Sec. 1511(a)–(c)”, 72 Stat. 1088.
 [/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
 [/us/pl/110/317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F317
 [/us/usc/t10/s1174/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1174%2Fi
-[/us/pl/102/164/s301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F164%2Fs301%2Fb
-[/us/pl/102/164/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F164%2Fs301%2Fa
-[/us/pl/97/362/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F362%2Fs201%2Fa
-[/us/pl/97/362/s201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F362%2Fs201%2Fb
+[/us/pl/102/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F164
+[/us/pl/102/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F164
+[/us/pl/97/362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F362
+[/us/pl/97/362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F362
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/pl/96/215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F215
 [/us/pl/96/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364
 [/us/pl/94/566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F566
-[/us/pl/114/92/s513/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs513%2Fb
+[/us/pl/114/92/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtV
 [/us/stat/129/809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F809
 [/us/pl/110/317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F317
 [/us/pl/110/317/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F317%2Fs10
 [/us/usc/t5/s2108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs2108
-[/us/pl/102/164/s301/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F164%2Fs301%2Fc
+[/us/pl/102/164/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F164%2FtIII
 [/us/stat/105/1059]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1059
-[/us/pl/97/362/s201/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F362%2Fs201%2Fc
+[/us/pl/97/362/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F362%2FtII
 [/us/stat/96/1732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1732
-[/us/pl/97/35/s2405/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2405%2Fb
+[/us/pl/97/35/tXXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXXIV
 [/us/stat/95/876]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F876
-[/us/pl/96/364/s415/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364%2Fs415%2Fb
+[/us/pl/96/364/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364%2FtIV
 [/us/stat/94/1310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1310
 [/us/pl/96/215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F215
 [/us/pl/96/215/s4/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F215%2Fs4%2Fc

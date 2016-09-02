@@ -17,7 +17,7 @@
 
     In addition to the positions listed in sections 5315 and 5316 of this title, the President, from time to time, may place in levels IV and V of the Executive Schedule positions held by not to exceed 34 individuals when he considers that action necessary to reflect changes in organization, management responsibilities, or workload in an Executive agency. Such an action with respect to a position to which appointment is made by the President by and with the advice and consent of the Senate is effective only at the time of a new appointment to the position. Notice of each action taken under this section shall be published in the Federal Register, except when the President determines that the publication would be contrary to the interest of national security. The President may not take action under this section with respect to a position the pay for which is fixed at a specific rate by this subchapter or by statute enacted after August 14, 1964.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 467][/us/stat/80/467]; [Pub. L. 89–670, § 10(d)(6)][/us/pl/89/670/s10/d/6], Oct. 15, 1966, [80 Stat. 948][/us/stat/80/948]; [Pub. L. 90–83, § 1(17)][/us/pl/90/83/s1/17], Sept. 11, 1967, [81 Stat. 199][/us/stat/81/199].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 467][/us/stat/80/467]; [Pub. L. 89–670][/us/pl/89/670], § 10(d)(6), Oct. 15, 1966, [80 Stat. 948][/us/stat/80/948]; [Pub. L. 90–83][/us/pl/90/83], § 1(17), Sept. 11, 1967, [81 Stat. 199][/us/stat/81/199].)
 
 <table>
 
@@ -174,9 +174,9 @@ Aug. 14, 1964, Pub. L. 88–426, § 303(f), 78 Stat. 421.  </td>
 
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F467
-[/us/pl/89/670/s10/d/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F670%2Fs10%2Fd%2F6
+[/us/pl/89/670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F670
 [/us/stat/80/948]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F948
-[/us/pl/90/83/s1/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83%2Fs1%2F17
+[/us/pl/90/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83
 [/us/stat/81/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F199
 [/us/usc/t5/s5317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5317
 [/us/pl/89/670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F670

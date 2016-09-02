@@ -35,11 +35,11 @@
 
         (6) The provisions of section 8351(b)(7)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title shall apply with respect to a judge who has elected to contribute to the Thrift Savings Fund under this section.
 
-(Added [Pub. L. 102–82, § 5(a)(1)][/us/pl/102/82/s5/a/1], Aug. 6, 1991, [105 Stat. 376][/us/stat/105/376], § 8440c; renumbered § 8440d, [Pub. L. 102–198, § 7(c)(4)(A)][/us/pl/102/198/s7/c/4/A], Dec. 9, 1991, [105 Stat. 1625][/us/stat/105/1625], as amended by [Pub. L. 102–378, § 5(d)(1)][/us/pl/102/378/s5/d/1], Oct. 2, 1992, [106 Stat. 1358][/us/stat/106/1358]; amended [Pub. L. 103–226, § 9(h)][/us/pl/103/226/s9/h], Mar. 30, 1994, [108 Stat. 121][/us/stat/108/121]; [Pub. L. 105–368, title V, § 512(b)(1)(A)][/us/pl/105/368/s512/b/1/A], (2)(A), Nov. 11, 1998, [112 Stat. 3342][/us/stat/112/3342]; [Pub. L. 106–361, § 2(b)(6)][/us/pl/106/361/s2/b/6], Oct. 27, 2000, [114 Stat. 1401][/us/stat/114/1401]; [Pub. L. 106–554, § 1(a)(4)][/us/pl/106/554/s1/a/4] \[div. B, title I, § 138(a)(5)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–233; [Pub. L. 108–469, § 1(d)(7)][/us/pl/108/469/s1/d/7], Dec. 21, 2004, [118 Stat. 3892][/us/stat/118/3892].)
+(Added [Pub. L. 102–82][/us/pl/102/82], § 5(a)(1), Aug. 6, 1991, [105 Stat. 376][/us/stat/105/376], § 8440c; renumbered § 8440d, [Pub. L. 102–198][/us/pl/102/198], § 7(c)(4)(A), Dec. 9, 1991, [105 Stat. 1625][/us/stat/105/1625], as amended by [Pub. L. 102–378][/us/pl/102/378], § 5(d)(1), Oct. 2, 1992, [106 Stat. 1358][/us/stat/106/1358]; amended [Pub. L. 103–226][/us/pl/103/226], § 9(h), Mar. 30, 1994, [108 Stat. 121][/us/stat/108/121]; [Pub. L. 105–368, title V][/us/pl/105/368/tV], § 512(b)(1)(A), (2)(A), Nov. 11, 1998, [112 Stat. 3342][/us/stat/112/3342]; [Pub. L. 106–361][/us/pl/106/361], § 2(b)(6), Oct. 27, 2000, [114 Stat. 1401][/us/stat/114/1401]; [Pub. L. 106–554][/us/pl/106/554], § 1(a)(4) \[div. B, title I, § 138(a)(5)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–233; [Pub. L. 108–469][/us/pl/108/469], § 1(d)(7), Dec. 21, 2004, [118 Stat. 3892][/us/stat/118/3892].)
 
  __References in Text__ 
 
-    [Section 8351(b)(7) of this title][/us/usc/t5/s8351/b/7], referred to in subsec. (b)(6), was redesignated [section 8351(b)(5) of this title][/us/usc/t5/s8351/b/5] by [Pub. L. 103–226, § 9(a)(3)][/us/pl/103/226/s9/a/3], Mar. 30, 1994, [108 Stat. 119][/us/stat/108/119].
+    [Section 8351(b)(7) of this title][/us/usc/t5/s8351/b/7], referred to in subsec. (b)(6), was redesignated [section 8351(b)(5) of this title][/us/usc/t5/s8351/b/5] by [Pub. L. 103–226][/us/pl/103/226], § 9(a)(3), Mar. 30, 1994, [108 Stat. 119][/us/stat/108/119].
 
  __Amendments__ 
 
@@ -49,9 +49,9 @@
 
     Subsec. (b)(2). [Pub. L. 106–554][/us/pl/106/554] amended first sentence generally. Prior to amendment, first sentence read as follows: “The amount contributed by a judge may not exceed 5 percent of the amount of the judge’s basic pay.”
 
-    1998—[Pub. L. 105–368, § 512(b)(2)(A)][/us/pl/105/368/s512/b/2/A], substituted “Judges of the United States Court of Appeals for Veterans Claims” for “Judges of the United States Court of Veterans Appeals” in section catchline.
+    1998—[Pub. L. 105–368][/us/pl/105/368], § 512(b)(2)(A), substituted “Judges of the United States Court of Appeals for Veterans Claims” for “Judges of the United States Court of Veterans Appeals” in section catchline.
 
-    Subsecs. (a)(1), (b)(5). [Pub. L. 105–368, § 512(b)(1)(A)][/us/pl/105/368/s512/b/1/A], substituted “Court of Appeals for Veterans Claims” for “Court of Veterans Appeals”.
+    Subsecs. (a)(1), (b)(5). [Pub. L. 105–368][/us/pl/105/368], § 512(b)(1)(A), substituted “Court of Appeals for Veterans Claims” for “Court of Veterans Appeals”.
 
     1994—Subsec. (b)(5). [Pub. L. 103–226][/us/pl/103/226] substituted “[Section 8433(b) of this title][/us/usc/t5/s8433/b] applies” for “A transfer shall be made as provided in [section 8433(d) of this title][/us/usc/t5/s8433/d]”.
 
@@ -77,7 +77,7 @@
 
  __First Election__ 
 
-[Section 5(b) of Pub. L. 102–82][/us/pl/102/82/s5/b], as amended by [Pub. L. 102–198, § 7(c)(4)(C)][/us/pl/102/198/s7/c/4/C], Dec. 9, 1991, [105 Stat. 1625][/us/stat/105/1625], provided that: 
+[Section 5(b) of Pub. L. 102–82][/us/pl/102/82/s5/b], as amended by [Pub. L. 102–198][/us/pl/102/198], § 7(c)(4)(C), Dec. 9, 1991, [105 Stat. 1625][/us/stat/105/1625], provided that: 
 
 > “A judge of the United States Court of Veterans Appeals on the date of the enactment of this Act \[Aug. 6, 1991\] may make an election under [section 8440d(a) of title 5][/us/usc/t5/s8440d/a], United States Code, within 60 days after the date of the enactment of this Act.”
 
@@ -95,31 +95,31 @@
 [/us/usc/t38/s7296/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7296%2Fb
 [/us/usc/t5/s8433/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8433%2Fb
 [/us/usc/t38/s7296/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7296%2Fb
-[/us/pl/102/82/s5/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F82%2Fs5%2Fa%2F1
+[/us/pl/102/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F82
 [/us/stat/105/376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F376
-[/us/pl/102/198/s7/c/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F198%2Fs7%2Fc%2F4%2FA
+[/us/pl/102/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F198
 [/us/stat/105/1625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1625
-[/us/pl/102/378/s5/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378%2Fs5%2Fd%2F1
+[/us/pl/102/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378
 [/us/stat/106/1358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1358
-[/us/pl/103/226/s9/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F226%2Fs9%2Fh
+[/us/pl/103/226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F226
 [/us/stat/108/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F121
-[/us/pl/105/368/s512/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2Fs512%2Fb%2F1%2FA
+[/us/pl/105/368/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2FtV
 [/us/stat/112/3342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3342
-[/us/pl/106/361/s2/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F361%2Fs2%2Fb%2F6
+[/us/pl/106/361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F361
 [/us/stat/114/1401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1401
-[/us/pl/106/554/s1/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F4
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/108/469/s1/d/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F469%2Fs1%2Fd%2F7
+[/us/pl/108/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F469
 [/us/stat/118/3892]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3892
 [/us/usc/t5/s8351/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8351%2Fb%2F7
 [/us/usc/t5/s8351/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8351%2Fb%2F5
-[/us/pl/103/226/s9/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F226%2Fs9%2Fa%2F3
+[/us/pl/103/226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F226
 [/us/stat/108/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F119
 [/us/pl/108/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F469
 [/us/pl/106/361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F361
 [/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
-[/us/pl/105/368/s512/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2Fs512%2Fb%2F2%2FA
-[/us/pl/105/368/s512/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2Fs512%2Fb%2F1%2FA
+[/us/pl/105/368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368
+[/us/pl/105/368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368
 [/us/pl/103/226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F226
 [/us/usc/t5/s8433/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8433%2Fb
 [/us/usc/t5/s8433/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8433%2Fd
@@ -141,7 +141,7 @@
 [/us/pl/102/378/s9/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378%2Fs9%2Fb%2F2
 [/us/usc/t5/s6303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs6303
 [/us/pl/102/82/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F82%2Fs5%2Fb
-[/us/pl/102/198/s7/c/4/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F198%2Fs7%2Fc%2F4%2FC
+[/us/pl/102/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F198
 [/us/stat/105/1625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1625
 [/us/usc/t5/s8440d/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8440d%2Fa
 

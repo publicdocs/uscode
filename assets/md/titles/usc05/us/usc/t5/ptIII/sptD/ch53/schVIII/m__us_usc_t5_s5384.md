@@ -43,7 +43,7 @@
 
     (d) The Office of Personnel Management may issue guidance to agencies concerning the proportion of Senior Executive Service salary expenses that may be appropriately applied to payment of performance awards and the distribution of awards.
 
-(Added [Pub. L. 95–454, title IV, § 407(a)][/us/pl/95/454/s407/a], Oct. 13, 1978, [92 Stat. 1172][/us/stat/92/1172]; amended [Pub. L. 98–615, title III, § 302][/us/pl/98/615/s302], Nov. 8, 1984, [98 Stat. 3217][/us/stat/98/3217]; [Pub. L. 101–136, title VI, § 625(a)][/us/pl/101/136/s625/a], Nov. 3, 1989, [103 Stat. 822][/us/stat/103/822]; [Pub. L. 105–277, div. A, § 101(h)][/us/pl/105/277/s101/h] \[title VI, § 632(a)\], Oct. 21, 1998, [112 Stat. 2681–480][/us/stat/112/2681-480], 2681–523.)
+(Added [Pub. L. 95–454, title IV][/us/pl/95/454/tIV], § 407(a), Oct. 13, 1978, [92 Stat. 1172][/us/stat/92/1172]; amended [Pub. L. 98–615, title III][/us/pl/98/615/tIII], § 302, Nov. 8, 1984, [98 Stat. 3217][/us/stat/98/3217]; [Pub. L. 101–136, title VI][/us/pl/101/136/tVI], § 625(a), Nov. 3, 1989, [103 Stat. 822][/us/stat/103/822]; [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(h) \[title VI, § 632(a)\], Oct. 21, 1998, [112 Stat. 2681–480][/us/stat/112/2681-480], 2681–523.)
 
  __Amendments__ 
 
@@ -51,13 +51,13 @@
 
     1989—Subsec. (c). [Pub. L. 101–136][/us/pl/101/136] designated existing provisions as par. (1) and added par. (2).
 
-    1984—Subsec. (b)(2). [Pub. L. 98–615, § 302(1)][/us/pl/98/615/s302/1], substituted “but may not be less than 5 percent nor more than 20 percent” for “but may not exceed 20 percent”.
+    1984—Subsec. (b)(2). [Pub. L. 98–615][/us/pl/98/615], § 302(1), substituted “but may not be less than 5 percent nor more than 20 percent” for “but may not exceed 20 percent”.
 
-    Subsec. (b)(3). [Pub. L. 98–615, § 302(2)][/us/pl/98/615/s302/2], substituted provisions limiting the aggregate amount of performance awards paid under this section by an agency during any fiscal year to the greater of 3 percent of the aggregate basic pay of career appointees in that agency during the preceding fiscal year or 15 percent of the average of the annual rates of basic pay of such appointees during such fiscal year for provisions limiting the number of career appointees paid performance awards under this section during any fiscal year to 50 percent of the number of Senior Executive Service positions in such agency, except for an agency having less than 4 such positions.
+    Subsec. (b)(3). [Pub. L. 98–615][/us/pl/98/615], § 302(2), substituted provisions limiting the aggregate amount of performance awards paid under this section by an agency during any fiscal year to the greater of 3 percent of the aggregate basic pay of career appointees in that agency during the preceding fiscal year or 15 percent of the average of the annual rates of basic pay of such appointees during such fiscal year for provisions limiting the number of career appointees paid performance awards under this section during any fiscal year to 50 percent of the number of Senior Executive Service positions in such agency, except for an agency having less than 4 such positions.
 
  __Effective Date of 1998 Amendment__ 
 
-[Pub. L. 105–277, div. A, § 101(h)][/us/pl/105/277/s101/h] \[title VI, § 632(b)\], Oct. 21, 1998, [112 Stat. 2681–480][/us/stat/112/2681-480], 2681–523, provided that: 
+[Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(h) \[title VI, § 632(b)\], Oct. 21, 1998, [112 Stat. 2681–480][/us/stat/112/2681-480], 2681–523, provided that: 
 
 > “The amendments made by this section \[amending this section\] shall take effect on October 1, 1998, or the date of enactment of this Act \[Oct. 21, 1998\], whichever is later.”
 
@@ -67,7 +67,7 @@
 
  __Limitation on Number of Performance Awards for Career Appointees__ 
 
-Section 306(c) of S. 2939, Ninety-seventh Congress, 2nd Session, as reported Sept. 22, 1982, and incorporated by reference in [Pub. L. 97–276, § 101(e)][/us/pl/97/276/s101/e], Oct. 2, 1982, [96 Stat. 1189][/us/stat/96/1189], to be effective as if enacted into law, provided that: 
+Section 306(c) of S. 2939, Ninety-seventh Congress, 2nd Session, as reported Sept. 22, 1982, and incorporated by reference in [Pub. L. 97–276][/us/pl/97/276], § 101(e), Oct. 2, 1982, [96 Stat. 1189][/us/stat/96/1189], to be effective as if enacted into law, provided that: 
 
 > “None of the funds appropriated by this Act or any other Act shall be used by any agency to pay performance awards in fiscal year 1983 under [section 5384 of title 5][/us/usc/t5/s5384], United States Code, or any comparable personnel system established on or after October 13, 1978, to more than 20 per centum of the number of Senior Executive Service or comparable personnel system positions in such agency: Provided, That an agency with less than five Senior Executive Service employees or equivalent positions may grant one such performance award.”
 
@@ -75,11 +75,11 @@ Similar provisions were contained in the following acts:
 
     [Pub. L. 97–51][/us/pl/97/51], §§ 101(c), 124, Oct. 1, 1981, [95 Stat. 959][/us/stat/95/959], 965.
 
-    [Pub. L. 96–536, § 101(c)][/us/pl/96/536/s101/c], Dec. 16, 1980, [94 Stat. 3167][/us/stat/94/3167].
+    [Pub. L. 96–536][/us/pl/96/536], § 101(c), Dec. 16, 1980, [94 Stat. 3167][/us/stat/94/3167].
 
-    [Pub. L. 96–369, § 101(c)][/us/pl/96/369/s101/c], Oct. 1, 1980, [94 Stat. 1352][/us/stat/94/1352].
+    [Pub. L. 96–369][/us/pl/96/369], § 101(c), Oct. 1, 1980, [94 Stat. 1352][/us/stat/94/1352].
 
-    [Pub. L. 96–304, title III, § 303][/us/pl/96/304/s303], July 8, 1980, [94 Stat. 927][/us/stat/94/927].
+    [Pub. L. 96–304, title III][/us/pl/96/304/tIII], § 303, July 8, 1980, [94 Stat. 927][/us/stat/94/927].
 
 ----------
 
@@ -91,33 +91,33 @@ Similar provisions were contained in the following acts:
 [/us/usc/t5/s5382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5382
 [/us/usc/t5/s4507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs4507
 [/us/usc/t5/s4314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs4314
-[/us/pl/95/454/s407/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs407%2Fa
+[/us/pl/95/454/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtIV
 [/us/stat/92/1172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1172
-[/us/pl/98/615/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F615%2Fs302
+[/us/pl/98/615/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F615%2FtIII
 [/us/stat/98/3217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3217
-[/us/pl/101/136/s625/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F136%2Fs625%2Fa
+[/us/pl/101/136/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F136%2FtVI
 [/us/stat/103/822]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F822
-[/us/pl/105/277/s101/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fh
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-480
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/pl/101/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F136
-[/us/pl/98/615/s302/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F615%2Fs302%2F1
-[/us/pl/98/615/s302/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F615%2Fs302%2F2
-[/us/pl/105/277/s101/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fh
+[/us/pl/98/615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F615
+[/us/pl/98/615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F615
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-480
 [/us/pl/98/615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F615
 [/us/pl/98/615/s307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F615%2Fs307
 [/us/usc/t5/s3393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3393
-[/us/pl/97/276/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F276%2Fs101%2Fe
+[/us/pl/97/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F276
 [/us/stat/96/1189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1189
 [/us/usc/t5/s5384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5384
 [/us/pl/97/51]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F51
 [/us/stat/95/959]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F959
-[/us/pl/96/536/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F536%2Fs101%2Fc
+[/us/pl/96/536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F536
 [/us/stat/94/3167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3167
-[/us/pl/96/369/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F369%2Fs101%2Fc
+[/us/pl/96/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F369
 [/us/stat/94/1352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1352
-[/us/pl/96/304/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F304%2Fs303
+[/us/pl/96/304/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F304%2FtIII
 [/us/stat/94/927]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F927
 
 

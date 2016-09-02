@@ -27,7 +27,7 @@
 
     (b) The Office of Personnel Management, in consultation with the Director of the Selective Service System, shall prescribe regulations to carry out this section. Such regulations shall include provisions prescribing procedures for the adjudication of determinations of whether a failure to register was knowing and willful. Such procedures shall require that such a determination may not be made if the individual concerned shows by a preponderance of the evidence that the failure to register was neither knowing nor willful. Such procedures may provide that determinations of eligibility under the requirements of this section shall be adjudicated by the Executive agency making the appointment for which the eligibility is determined.
 
-(Added [Pub. L. 99–145, title XVI, § 1622(a)(1)][/us/pl/99/145/s1622/a/1], Nov. 8, 1985, [99 Stat. 777][/us/stat/99/777]; amended [Pub. L. 100–180, div. A, title XII, § 1249][/us/pl/100/180/s1249], Dec. 4, 1987, [101 Stat. 1167][/us/stat/101/1167].)
+(Added [Pub. L. 99–145, title XVI][/us/pl/99/145/tXVI], § 1622(a)(1), Nov. 8, 1985, [99 Stat. 777][/us/stat/99/777]; amended [Pub. L. 100–180, div. A, title XII][/us/pl/100/180/dA/tXII], § 1249, Dec. 4, 1987, [101 Stat. 1167][/us/stat/101/1167].)
 
  __References in Text__ 
 
@@ -44,9 +44,9 @@
 ----------
 ----------
 
-[/us/pl/99/145/s1622/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs1622%2Fa%2F1
+[/us/pl/99/145/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2FtXVI
 [/us/stat/99/777]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F777
-[/us/pl/100/180/s1249]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs1249
+[/us/pl/100/180/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2FdA%2FtXII
 [/us/stat/101/1167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1167
 [/us/usc/t50/s3802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3802
 [/us/pl/100/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180

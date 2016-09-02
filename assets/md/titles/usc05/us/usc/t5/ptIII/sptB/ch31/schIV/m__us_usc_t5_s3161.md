@@ -109,7 +109,7 @@
 
             (C) Chapter 11 of title 18, relating to conflicts of interest.
 
-(Added [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title XI, § 1101(a)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–308.)
+(Added [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title XI, § 1101(a)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–308.)
 
 ----------
 
@@ -123,7 +123,7 @@
 [/us/usc/t5/s5304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5304
 [/us/usc/t5/s3109/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3109%2Fb
 [/us/usc/t31/s1342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1342
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
 
 

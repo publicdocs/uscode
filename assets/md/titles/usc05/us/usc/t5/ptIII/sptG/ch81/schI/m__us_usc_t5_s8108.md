@@ -23,7 +23,7 @@
 
     In such a case, compensation for disability continuing after the scheduled period starts on expiration of that period as reduced under this section.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 538][/us/stat/80/538]; [Pub. L. 90–83, § 1(51)][/us/pl/90/83/s1/51], Sept. 11, 1967, [81 Stat. 210][/us/stat/81/210].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 538][/us/stat/80/538]; [Pub. L. 90–83][/us/pl/90/83], § 1(51), Sept. 11, 1967, [81 Stat. 210][/us/stat/81/210].)
 
 <table>
 
@@ -139,7 +139,7 @@ July 4, 1966, Pub. L. 89–488, § 2(c), 80 Stat. 252.  </td>
 [/us/usc/t5/s8107/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8107%2Fc
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F538
-[/us/pl/90/83/s1/51]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83%2Fs1%2F51
+[/us/pl/90/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83
 [/us/stat/81/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F210
 [/us/pl/90/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83
 [/us/pl/90/83/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83%2Fs7

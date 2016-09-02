@@ -33,7 +33,7 @@
 
     and to have been on that occasion not an employee as defined in section 8101(1), and to have sustained on that occasion a personal injury for which the United States would be required under subchapter I of this chapter to pay compensation if he had been on that occasion such an employee engaged in the performance of his duty. No person otherwise eligible to receive a benefit under this subchapter because of the disability or death of an eligible officer shall be barred from the receipt of such benefit because the person apprehended or attempted to be apprehended by such officer was then sought for the commission of a crime against a sovereignty other than the United States.
 
-(Added [Pub. L. 90–291, § 1(a)][/us/pl/90/291/s1/a], Apr. 19, 1968, [82 Stat. 98][/us/stat/82/98]; amended [Pub. L. 90–623, § 1(20)][/us/pl/90/623/s1/20], Oct. 22, 1968, [82 Stat. 1313][/us/stat/82/1313].)
+(Added [Pub. L. 90–291][/us/pl/90/291], § 1(a), Apr. 19, 1968, [82 Stat. 98][/us/stat/82/98]; amended [Pub. L. 90–623][/us/pl/90/623], § 1(20), Oct. 22, 1968, [82 Stat. 1313][/us/stat/82/1313].)
 
  __Amendments__ 
 
@@ -56,9 +56,9 @@
 ----------
 ----------
 
-[/us/pl/90/291/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F291%2Fs1%2Fa
+[/us/pl/90/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F291
 [/us/stat/82/98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F98
-[/us/pl/90/623/s1/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F623%2Fs1%2F20
+[/us/pl/90/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F623
 [/us/stat/82/1313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1313
 [/us/pl/90/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F623
 [/us/pl/90/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F623

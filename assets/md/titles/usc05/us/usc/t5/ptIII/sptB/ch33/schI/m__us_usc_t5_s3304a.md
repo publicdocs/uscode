@@ -33,15 +33,15 @@
 
     (d) The Office of Personnel Management may prescribe regulations necessary for the administration of this section.
 
-(Added [Pub. L. 90–105, § 1(a)][/us/pl/90/105/s1/a], Oct. 11, 1967, [81 Stat. 273][/us/stat/81/273]; amended [Pub. L. 91–375, § 6(c)(6)][/us/pl/91/375/s6/c/6], Aug. 12, 1970, [84 Stat. 776][/us/stat/84/776]; [Pub. L. 95–454, title IX, § 906(a)(2)][/us/pl/95/454/s906/a/2], (3), Oct. 13, 1978, [92 Stat. 1224][/us/stat/92/1224]; [Pub. L. 101–509, title V, § 529][/us/pl/101/509/s529] \[title I, § 101(b)(9)(B)\], Nov. 5, 1990, [104 Stat. 1427][/us/stat/104/1427], 1441.)
+(Added [Pub. L. 90–105][/us/pl/90/105], § 1(a), Oct. 11, 1967, [81 Stat. 273][/us/stat/81/273]; amended [Pub. L. 91–375][/us/pl/91/375], § 6(c)(6), Aug. 12, 1970, [84 Stat. 776][/us/stat/84/776]; [Pub. L. 95–454, title IX][/us/pl/95/454/tIX], § 906(a)(2), (3), Oct. 13, 1978, [92 Stat. 1224][/us/stat/92/1224]; [Pub. L. 101–509, title V][/us/pl/101/509/tV], § 529 \[title I, § 101(b)(9)(B)\], Nov. 5, 1990, [104 Stat. 1427][/us/stat/104/1427], 1441.)
 
  __Amendments__ 
 
     1990—Subsec. (a). [Pub. L. 101–509][/us/pl/101/509], which directed the substitution of “in a position classified above GS–15 pursuant to section 5108)” for “in GS–16, 17, or 18)”, was executed by making the substitution for “in GS–16, GS–17, or GS–18)”, as the probable intent of Congress.
 
-    1978—Subsec. (a). [Pub. L. 95–454, § 906(a)(2)][/us/pl/95/454/s906/a/2], (3), substituted “Office of Personnel Management” and “Office” for “Civil Service Commission” and “Commission”, respectively, wherever appearing.
+    1978—Subsec. (a). [Pub. L. 95–454][/us/pl/95/454], § 906(a)(2), (3), substituted “Office of Personnel Management” and “Office” for “Civil Service Commission” and “Commission”, respectively, wherever appearing.
 
-    Subsec. (d). [Pub. L. 95–454, § 906(a)(2)][/us/pl/95/454/s906/a/2], substituted “Office of Personnel Management” for “Civil Service Commission”.
+    Subsec. (d). [Pub. L. 95–454][/us/pl/95/454], § 906(a)(2), substituted “Office of Personnel Management” for “Civil Service Commission”.
 
     1970—Subsec. (a). [Pub. L. 91–375][/us/pl/91/375] struck out “, in the postal field service,” after “limited appointment” in introductory parenthetical text.
 
@@ -59,7 +59,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 90–105, § 4][/us/pl/90/105/s4], Oct. 11, 1967, [81 Stat. 274][/us/stat/81/274], provided that:
+[Pub. L. 90–105][/us/pl/90/105], § 4, Oct. 11, 1967, [81 Stat. 274][/us/stat/81/274], provided that:
 
 >     “(a) This section and section 3 of this Act \[amending provisions set out as a note under [section 3101 of this title][/us/usc/t5/s3101]\] shall become effective on the date of enactment of this Act \[Oct. 11, 1967\].
 
@@ -74,17 +74,17 @@
 ----------
 ----------
 
-[/us/pl/90/105/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F105%2Fs1%2Fa
+[/us/pl/90/105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F105
 [/us/stat/81/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F273
-[/us/pl/91/375/s6/c/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375%2Fs6%2Fc%2F6
+[/us/pl/91/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375
 [/us/stat/84/776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F776
-[/us/pl/95/454/s906/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs906%2Fa%2F2
+[/us/pl/95/454/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtIX
 [/us/stat/92/1224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1224
-[/us/pl/101/509/s529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2Fs529
+[/us/pl/101/509/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2FtV
 [/us/stat/104/1427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1427
 [/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509
-[/us/pl/95/454/s906/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs906%2Fa%2F2
-[/us/pl/95/454/s906/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs906%2Fa%2F2
+[/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454
+[/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454
 [/us/pl/91/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375
 [/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509
 [/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509
@@ -95,7 +95,7 @@
 [/us/pl/91/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375
 [/us/pl/91/375/s15/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375%2Fs15%2Fa
 [/us/usc/t39/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs101
-[/us/pl/90/105/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F105%2Fs4
+[/us/pl/90/105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F105
 [/us/stat/81/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F274
 [/us/usc/t5/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3101
 [/us/usc/t5/s3304a/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3304a%2Fb

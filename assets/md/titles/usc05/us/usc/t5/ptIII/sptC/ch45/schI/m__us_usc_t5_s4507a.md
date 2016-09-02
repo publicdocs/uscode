@@ -27,7 +27,7 @@
 
     (c) The recommendations shall be made, reviewed, and awarded under the same terms and conditions (to the extent determined by the Office of Personnel Management) that apply to rank awards for members of the Senior Executive Service under section 4507.
 
-(Added [Pub. L. 107–67, title VI, § 641(a)][/us/pl/107/67/s641/a], Nov. 12, 2001, [115 Stat. 554][/us/stat/115/554].)
+(Added [Pub. L. 107–67, title VI][/us/pl/107/67/tVI], § 641(a), Nov. 12, 2001, [115 Stat. 554][/us/stat/115/554].)
 
  __References in Text__ 
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/pl/107/67/s641/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F67%2Fs641%2Fa
+[/us/pl/107/67/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F67%2FtVI
 [/us/stat/115/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F554
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
 [/us/pl/107/67/s641/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F67%2Fs641%2Fd

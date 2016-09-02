@@ -17,7 +17,7 @@
 
     The Office of Personnel Management is an independent establishment in the executive branch. The Office shall have an official seal, which shall be judicially noticed, and shall have its principal office in the District of Columbia, and may have field offices in other appropriate locations.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 398][/us/stat/80/398]; [Pub. L. 95–454, title II, § 201(a)][/us/pl/95/454/s201/a], Oct. 13, 1978, [92 Stat. 1119][/us/stat/92/1119].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 398][/us/stat/80/398]; [Pub. L. 95–454, title II][/us/pl/95/454/tII], § 201(a), Oct. 13, 1978, [92 Stat. 1119][/us/stat/92/1119].)
 
 <table>
 
@@ -75,31 +75,31 @@ Jan. 16, 1883, ch. 27, § 1 (1st par.), 22 Stat. 403.  </td>
 
  __Effective Date of 1978 Amendment__ 
 
-[Pub. L. 95–454, title IX, § 907][/us/pl/95/454/s907], Oct. 13, 1978, [92 Stat. 1227][/us/stat/92/1227], provided that: 
+[Pub. L. 95–454, title IX][/us/pl/95/454/tIX], § 907, Oct. 13, 1978, [92 Stat. 1227][/us/stat/92/1227], provided that: 
 
 > “Except as otherwise expressly provided in this Act, the provisions of this Act \[see Tables for classification\] shall take effect 90 days after the date of the enactment of this Act \[Oct. 13, 1978\].”
 
  __Short Title of 1992 Amendment__ 
 
-[Pub. L. 102–378, § 1(a)][/us/pl/102/378/s1/a], Oct. 2, 1992, [106 Stat. 1346][/us/stat/106/1346], provided that: 
+[Pub. L. 102–378][/us/pl/102/378], § 1(a), Oct. 2, 1992, [106 Stat. 1346][/us/stat/106/1346], provided that: 
 
 > “This Act \[see Tables for classification\] may be cited as the ‘Technical and Miscellaneous Civil Service Amendments Act of 1992’.”
 
  __Short Title of 1984 Amendment__ 
 
-[Pub. L. 98–224, § 1][/us/pl/98/224/s1], Mar. 2, 1984, [98 Stat. 47][/us/stat/98/47], provided that: 
+[Pub. L. 98–224][/us/pl/98/224], § 1, Mar. 2, 1984, [98 Stat. 47][/us/stat/98/47], provided that: 
 
 > “This Act \[amending sections 1304, 3323, 4108, 4109, 7104, and 7122 of this title\] may be cited as the ‘Civil Service Miscellaneous Amendments Act of 1983’.”
 
  __Short Title of 1978 Amendment__ 
 
-[Pub. L. 95–454, § 1][/us/pl/95/454/s1], Oct. 13, 1978, [92 Stat. 1111][/us/stat/92/1111], provided that: 
+[Pub. L. 95–454][/us/pl/95/454], § 1, Oct. 13, 1978, [92 Stat. 1111][/us/stat/92/1111], provided that: 
 
 > “This Act \[see Tables for classification\] may be cited as the ‘Civil Service Reform Act of 1978’.”
 
  __Savings Provision__ 
 
-[Pub. L. 95–454, title IX, § 902][/us/pl/95/454/s902], Oct. 13, 1978, [92 Stat. 1223][/us/stat/92/1223], provided that:
+[Pub. L. 95–454, title IX][/us/pl/95/454/tIX], § 902, Oct. 13, 1978, [92 Stat. 1223][/us/stat/92/1223], provided that:
 
 >     “(a) Except as otherwise provided in this Act \[see Tables for classification\], all executive orders, rules, and regulations affecting the Federal service shall continue in effect, according to their terms, until modified, terminated, superseded, or repealed by the President, the Office of Personnel Management, the Merit Systems Protection Board, the Equal Employment Opportunity Commission, or the Federal Labor Relations Authority with respect to matters within their respective jurisdictions.
 
@@ -109,7 +109,7 @@ Jan. 16, 1883, ch. 27, § 1 (1st par.), 22 Stat. 403.  </td>
 
  __Transmittal of Record Relating to Presidentially Appointed Positions to Presidential Candidates__ 
 
-[Pub. L. 108–458, title VIII, § 8403(b)][/us/pl/108/458/s8403/b], Dec. 17, 2004, [118 Stat. 3870][/us/stat/118/3870], as amended by [Pub. L. 111–283, § 2(c)(2)][/us/pl/111/283/s2/c/2], Oct. 15, 2010, [124 Stat. 3048][/us/stat/124/3048], provided that:
+[Pub. L. 108–458, title VIII][/us/pl/108/458/tVIII], § 8403(b), Dec. 17, 2004, [118 Stat. 3870][/us/stat/118/3870], as amended by [Pub. L. 111–283][/us/pl/111/283], § 2(c)(2), Oct. 15, 2010, [124 Stat. 3048][/us/stat/124/3048], provided that:
 
 >     “(1)  __Definition__  __.—__ 
 
@@ -141,7 +141,7 @@ Jan. 16, 1883, ch. 27, § 1 (1st par.), 22 Stat. 403.  </td>
 
  __Transfer to Office of Personnel Management of Personnel Investigative Functions and Related Personnel of the Department of Defense__ 
 
-[Pub. L. 108–136, div. A, title IX, § 906][/us/pl/108/136/s906], Nov. 24, 2003, [117 Stat. 1561][/us/stat/117/1561], provided that:
+[Pub. L. 108–136, div. A, title IX][/us/pl/108/136/dA/tIX], § 906, Nov. 24, 2003, [117 Stat. 1561][/us/stat/117/1561], provided that:
 
 >     “(a)  __Transfer of Functions__  __.—__ 
 
@@ -215,7 +215,7 @@ Jan. 16, 1883, ch. 27, § 1 (1st par.), 22 Stat. 403.  </td>
 
  __Federal Flexible Benefits Plan Administrative Costs__ 
 
-[Pub. L. 108–136, div. A, title XI, § 1127][/us/pl/108/136/s1127], Nov. 24, 2003, [117 Stat. 1640][/us/stat/117/1640], provided that:
+[Pub. L. 108–136, div. A, title XI][/us/pl/108/136/dA/tXI], § 1127, Nov. 24, 2003, [117 Stat. 1640][/us/stat/117/1640], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -233,17 +233,17 @@ Jan. 16, 1883, ch. 27, § 1 (1st par.), 22 Stat. 403.  </td>
 
  __Combined Federal Campaign Brochure List and General Designation Option for International Agencies__ 
 
-[Pub. L. 102–393, title V, § 532][/us/pl/102/393/s532], Oct. 6, 1992, [106 Stat. 1763][/us/stat/106/1763], provided that: 
+[Pub. L. 102–393, title V][/us/pl/102/393/tV], § 532, Oct. 6, 1992, [106 Stat. 1763][/us/stat/106/1763], provided that: 
 
 > “Notwithstanding any other provision of law, beginning October 1, 1992, and thereafter, no funds made available to the Office of Personnel Management may be used to prepare, promulgate, or implement any rules or regulations relating to the Combined Federal Campaign unless such rules or regulations include a Combined Federal Campaign brochure list and general designation option solely for international agencies, which list (listed by Federation in the case of affiliated agencies) and option shall include only those international agencies that elect in their annual application to be included under such list and option rather than under the national agencies list and option: Provided, That such limitation on the use of funds shall not apply to any activities related to the 1992 Combined Federal Campaign.”
 
  __Report on Productivity of Federal Workforce; Deadline__ 
 
-    [Pub. L. 101–509, title V, § 535][/us/pl/101/509/s535], Nov. 5, 1990, [104 Stat. 1470][/us/stat/104/1470], directed Office of Personnel Management to review and report to Congress, not later than 24 months after Nov. 5, 1990, on the productivity of the Federal workforce, such report to include recommendations with regard to (1) how productivity within the Federal workforce can be increased, the delivery of Government services improved, and the payroll costs of Government controlled through improved organization, training, advanced technology, and modern management practices, (2) the size, structure, and composition of the Federal workforce, (3) criteria for use by departments and agencies to determine the level of personnel necessary to accomplish their functions and goals, and (4) changes in Federal law, regulations, and administrative practices to promote economy, productivity, effectiveness, and managerial accountability within the Federal workforce.
+    [Pub. L. 101–509, title V][/us/pl/101/509/tV], § 535, Nov. 5, 1990, [104 Stat. 1470][/us/stat/104/1470], directed Office of Personnel Management to review and report to Congress, not later than 24 months after Nov. 5, 1990, on the productivity of the Federal workforce, such report to include recommendations with regard to (1) how productivity within the Federal workforce can be increased, the delivery of Government services improved, and the payroll costs of Government controlled through improved organization, training, advanced technology, and modern management practices, (2) the size, structure, and composition of the Federal workforce, (3) criteria for use by departments and agencies to determine the level of personnel necessary to accomplish their functions and goals, and (4) changes in Federal law, regulations, and administrative practices to promote economy, productivity, effectiveness, and managerial accountability within the Federal workforce.
 
  __Funds for Preparation, Promulgation, or Implementation of Regulations Relating to Combined Federal Campaign; Eligibility Criteria__ 
 
-[Pub. L. 100–202, § 101(m)][/us/pl/100/202/s101/m] \[title VI, § 618\], Dec. 22, 1987, [101 Stat. 1329–390][/us/stat/101/1329-390], 1329–423, provided that:
+[Pub. L. 100–202][/us/pl/100/202], § 101(m) \[title VI, § 618\], Dec. 22, 1987, [101 Stat. 1329–390][/us/stat/101/1329-390], 1329–423, provided that:
 
 >     “(a) None of the funds appropriated by this Act, or any other Act in this or any fiscal year hereafter, may be used in preparing, promulgating, or implementing any regulations relating to the Combined Federal Campaign if such regulations are not in conformance with subsection (b).
 
@@ -385,7 +385,7 @@ Jan. 16, 1883, ch. 27, § 1 (1st par.), 22 Stat. 403.  </td>
 
  __Civil Service Reform Act of 1978 Findings and Statement of Purpose__ 
 
-[Pub. L. 95–454, § 3][/us/pl/95/454/s3], Oct. 13, 1978, [92 Stat. 1112][/us/stat/92/1112], provided that: 
+[Pub. L. 95–454][/us/pl/95/454], § 3, Oct. 13, 1978, [92 Stat. 1112][/us/stat/92/1112], provided that: 
 
 > “It is the policy of the United States that—
 
@@ -411,7 +411,7 @@ Jan. 16, 1883, ch. 27, § 1 (1st par.), 22 Stat. 403.  </td>
 
  __Powers of President Unaffected Except by Express Provisions__ 
 
-[Pub. L. 95–454, title IX, § 904][/us/pl/95/454/s904], Oct. 13, 1978, [92 Stat. 1224][/us/stat/92/1224], provided that:
+[Pub. L. 95–454, title IX][/us/pl/95/454/tIX], § 904, Oct. 13, 1978, [92 Stat. 1224][/us/stat/92/1224], provided that:
 
 >     “Except as otherwise expressly provided in this Act \[see Tables for classification\], no provision of this Act shall be construed to—
 
@@ -421,7 +421,7 @@ Jan. 16, 1883, ch. 27, § 1 (1st par.), 22 Stat. 403.  </td>
 
  __Reorganization Plans No. 1 and 2 of 1978 Superseded by Civil Service Reform Act of 1978__ 
 
-[Pub. L. 95–454, title IX, § 905][/us/pl/95/454/s905], Oct. 13, 1978, [92 Stat. 1224][/us/stat/92/1224], provided that: 
+[Pub. L. 95–454, title IX][/us/pl/95/454/tIX], § 905, Oct. 13, 1978, [92 Stat. 1224][/us/stat/92/1224], provided that: 
 
 > “Any provision in either Reorganization Plan Numbered 1 \[set out in the Appendix to this title\] or 2 \[set out below\] of 1978 inconsistent with any provision in this Act \[see Tables for classification\] is hereby superseded.”
 
@@ -1208,44 +1208,44 @@ Jan. 16, 1883, ch. 27, § 1 (1st par.), 22 Stat. 403.  </td>
 
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F398
-[/us/pl/95/454/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs201%2Fa
+[/us/pl/95/454/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtII
 [/us/stat/92/1119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1119
 [/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454
-[/us/pl/95/454/s907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs907
+[/us/pl/95/454/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtIX
 [/us/stat/92/1227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1227
-[/us/pl/102/378/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378%2Fs1%2Fa
+[/us/pl/102/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378
 [/us/stat/106/1346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1346
-[/us/pl/98/224/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F224%2Fs1
+[/us/pl/98/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F224
 [/us/stat/98/47]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F47
-[/us/pl/95/454/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs1
+[/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454
 [/us/stat/92/1111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1111
-[/us/pl/95/454/s902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs902
+[/us/pl/95/454/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtIX
 [/us/stat/92/1223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1223
-[/us/pl/108/458/s8403/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs8403%2Fb
+[/us/pl/108/458/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtVIII
 [/us/stat/118/3870]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3870
-[/us/pl/111/283/s2/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F283%2Fs2%2Fc%2F2
+[/us/pl/111/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F283
 [/us/stat/124/3048]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3048
 [/us/usc/t26/s9002/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs9002%2F6
 [/us/pl/88/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F277
 [/us/usc/t3/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs102
-[/us/pl/108/136/s906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs906
+[/us/pl/108/136/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtIX
 [/us/stat/117/1561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1561
 [/us/usc/t5/s3503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3503
 [/us/usc/t5/s5362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5362
-[/us/pl/108/136/s1127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1127
+[/us/pl/108/136/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtXI
 [/us/stat/117/1640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1640
-[/us/pl/102/393/s532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F393%2Fs532
+[/us/pl/102/393/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F393%2FtV
 [/us/stat/106/1763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1763
-[/us/pl/101/509/s535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2Fs535
+[/us/pl/101/509/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2FtV
 [/us/stat/104/1470]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1470
-[/us/pl/100/202/s101/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202%2Fs101%2Fm
+[/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
 [/us/stat/101/1329-390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1329-390
 [/us/usc/t26/s501/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs501%2Fc%2F3
-[/us/pl/95/454/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs3
+[/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454
 [/us/stat/92/1112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1112
-[/us/pl/95/454/s904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs904
+[/us/pl/95/454/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtIX
 [/us/stat/92/1224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1224
-[/us/pl/95/454/s905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs905
+[/us/pl/95/454/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtIX
 [/us/stat/92/1224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1224
 [/us/stat/92/3783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3783
 [/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313

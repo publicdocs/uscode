@@ -33,7 +33,7 @@
 
         (6) information describing any other related activities under [section 7904 of this title][/us/usc/t5/s7904], and any other matter which the Office considers appropriate.
 
-(Added [Pub. L. 99–570, title VI, § 6002(a)(1)][/us/pl/99/570/s6002/a/1], Oct. 27, 1986, [100 Stat. 3207–158][/us/stat/100/3207-158].)
+(Added [Pub. L. 99–570, title VI][/us/pl/99/570/tVI], § 6002(a)(1), Oct. 27, 1986, [100 Stat. 3207–158][/us/stat/100/3207-158].)
 
  __References in Text__ 
 
@@ -51,7 +51,7 @@
 ----------
 
 [/us/usc/t5/s7904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs7904
-[/us/pl/99/570/s6002/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs6002%2Fa%2F1
+[/us/pl/99/570/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2FtVI
 [/us/stat/100/3207-158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3207-158
 [/us/pl/99/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003

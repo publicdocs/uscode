@@ -31,7 +31,7 @@
 
     The Secretary may waive paragraphs (3)–(6) of this section for reasonable cause shown.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 543][/us/stat/80/543]; [Pub. L. 93–416, § 13][/us/pl/93/416/s13], Sept. 7, 1974, [88 Stat. 1147][/us/stat/88/1147].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 543][/us/stat/80/543]; [Pub. L. 93–416][/us/pl/93/416], § 13, Sept. 7, 1974, [88 Stat. 1147][/us/stat/88/1147].)
 
 <table>
 
@@ -119,7 +119,7 @@ Sept. 7, 1916, ch. 458, § 19, 39 Stat. 746.  </td>
 [/us/usc/t5/s8122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8122
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F543
-[/us/pl/93/416/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F416%2Fs13
+[/us/pl/93/416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F416
 [/us/stat/88/1147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1147
 [/us/stat/64/1271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1271
 [/us/pl/93/416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F416

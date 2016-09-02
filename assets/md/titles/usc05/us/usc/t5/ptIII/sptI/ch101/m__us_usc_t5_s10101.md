@@ -27,7 +27,7 @@
 
     (5) the term “Surge Capacity Force” refers to the Surge Capacity Force, described under section 624 of the Post-Katrina Emergency Management Reform Act of 2006.
 
-(Added [Pub. L. 109–295, title VI, § 621(a)][/us/pl/109/295/s621/a], Oct. 4, 2006, [120 Stat. 1411][/us/stat/120/1411].)
+(Added [Pub. L. 109–295, title VI][/us/pl/109/295/tVI], § 621(a), Oct. 4, 2006, [120 Stat. 1411][/us/stat/120/1411].)
 
  __References in Text__ 
 
@@ -46,7 +46,7 @@
 ----------
 ----------
 
-[/us/pl/109/295/s621/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs621%2Fa
+[/us/pl/109/295/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2FtVI
 [/us/stat/120/1411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1411
 [/us/usc/t6/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs701
 [/us/usc/t6/s711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs711

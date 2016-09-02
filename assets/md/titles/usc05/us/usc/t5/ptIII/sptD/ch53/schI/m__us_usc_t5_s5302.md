@@ -43,7 +43,7 @@
 
     (9) the term “General Schedule position” means any position to which subchapter III applies.
 
-(Added [Pub. L. 101–509, title V, § 529][/us/pl/101/509/s529] \[title I, § 101(a)(1)\], Nov. 5, 1990, [104 Stat. 1427][/us/stat/104/1427], 1429; amended [Pub. L. 102–378, § 2(25)][/us/pl/102/378/s2/25], Oct. 2, 1992, [106 Stat. 1348][/us/stat/106/1348]; [Pub. L. 103–89, § 3(b)(1)(E)][/us/pl/103/89/s3/b/1/E], Sept. 30, 1993, [107 Stat. 981][/us/stat/107/981]; [Pub. L. 108–411, title III, § 301(a)(1)][/us/pl/108/411/s301/a/1], Oct. 30, 2004, [118 Stat. 2313][/us/stat/118/2313].)
+(Added [Pub. L. 101–509, title V][/us/pl/101/509/tV], § 529 \[title I, § 101(a)(1)\], Nov. 5, 1990, [104 Stat. 1427][/us/stat/104/1427], 1429; amended [Pub. L. 102–378][/us/pl/102/378], § 2(25), Oct. 2, 1992, [106 Stat. 1348][/us/stat/106/1348]; [Pub. L. 103–89][/us/pl/103/89], § 3(b)(1)(E), Sept. 30, 1993, [107 Stat. 981][/us/stat/107/981]; [Pub. L. 108–411, title III][/us/pl/108/411/tIII], § 301(a)(1), Oct. 30, 2004, [118 Stat. 2313][/us/stat/118/2313].)
 
  __References in Text__ 
 
@@ -51,7 +51,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 5302, [Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 458][/us/stat/80/458], provided for annual reports on pay comparability, prior to repeal by [Pub. L. 91–656, § 2(b)(1)][/us/pl/91/656/s2/b/1], Jan. 8, 1971, [84 Stat. 1946][/us/stat/84/1946].
+    A prior section 5302, [Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 458][/us/stat/80/458], provided for annual reports on pay comparability, prior to repeal by [Pub. L. 91–656][/us/pl/91/656], § 2(b)(1), Jan. 8, 1971, [84 Stat. 1946][/us/stat/84/1946].
 
  __Amendments__ 
 
@@ -61,13 +61,13 @@
 
     “(B) in the case of an employee receiving a retained rate of basic pay under section 5363, the rate of basic pay payable under such section; and”.
 
-    1993—Par. (8). [Pub. L. 103–89, § 3(b)(1)(E)(i)][/us/pl/103/89/s3/b/1/E/i], redesignated subpar. (C) as (B) and struck out former subpar. (B) which read as follows: “in the case of an employee covered by the performance management and recognition system, the rates of basic pay under chapter 54; and”.
+    1993—Par. (8). [Pub. L. 103–89][/us/pl/103/89], § 3(b)(1)(E)(i), redesignated subpar. (C) as (B) and struck out former subpar. (B) which read as follows: “in the case of an employee covered by the performance management and recognition system, the rates of basic pay under chapter 54; and”.
 
-    Par. (9). [Pub. L. 103–89, § 3(b)(1)(E)(ii)][/us/pl/103/89/s3/b/1/E/ii], substituted “applies” for “applies (including any position under the performance management and recognition system)”.
+    Par. (9). [Pub. L. 103–89][/us/pl/103/89], § 3(b)(1)(E)(ii), substituted “applies” for “applies (including any position under the performance management and recognition system)”.
 
-    1992—Par. (1)(C). [Pub. L. 102–378, § 2(25)(A)][/us/pl/102/378/s2/25/A], amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “chapter 73 of title 38, relating to the Veterans Health Services and Research Administration;”.
+    1992—Par. (1)(C). [Pub. L. 102–378][/us/pl/102/378], § 2(25)(A), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “chapter 73 of title 38, relating to the Veterans Health Services and Research Administration;”.
 
-    Par. (8)(C). [Pub. L. 102–378, § 2(25)(B)][/us/pl/102/378/s2/25/B], added subpar. (C).
+    Par. (8)(C). [Pub. L. 102–378][/us/pl/102/378], § 2(25)(B), added subpar. (C).
 
  __Effective Date of 2004 Amendment__ 
 
@@ -93,24 +93,24 @@
 ----------
 
 [/us/usc/t38/s7451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7451
-[/us/pl/101/509/s529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2Fs529
+[/us/pl/101/509/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2FtV
 [/us/stat/104/1427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1427
-[/us/pl/102/378/s2/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378%2Fs2%2F25
+[/us/pl/102/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378
 [/us/stat/106/1348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1348
-[/us/pl/103/89/s3/b/1/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F89%2Fs3%2Fb%2F1%2FE
+[/us/pl/103/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F89
 [/us/stat/107/981]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F981
-[/us/pl/108/411/s301/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F411%2Fs301%2Fa%2F1
+[/us/pl/108/411/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F411%2FtIII
 [/us/stat/118/2313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2313
 [/us/usc/t22/s3963]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3963
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F458
-[/us/pl/91/656/s2/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F656%2Fs2%2Fb%2F1
+[/us/pl/91/656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F656
 [/us/stat/84/1946]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1946
 [/us/pl/108/411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F411
-[/us/pl/103/89/s3/b/1/E/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F89%2Fs3%2Fb%2F1%2FE%2Fi
-[/us/pl/103/89/s3/b/1/E/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F89%2Fs3%2Fb%2F1%2FE%2Fii
-[/us/pl/102/378/s2/25/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378%2Fs2%2F25%2FA
-[/us/pl/102/378/s2/25/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378%2Fs2%2F25%2FB
+[/us/pl/103/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F89
+[/us/pl/103/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F89
+[/us/pl/102/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378
+[/us/pl/102/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378
 [/us/pl/108/411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F411
 [/us/pl/108/411/s301/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F411%2Fs301%2Fd
 [/us/usc/t5/s5363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5363

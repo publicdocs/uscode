@@ -447,7 +447,7 @@
 
         (3) Locality-based comparability payments authorized under section 5304 shall be applicable to the basic pay for all ranks under this section, except locality-based comparability payments may not be paid at a rate which, when added to the rate of basic pay otherwise payable to the member, would cause the total to exceed the rate of basic pay payable for level IV of the Executive Schedule.
 
-(Added [Pub. L. 111–282, § 2(a)][/us/pl/111/282/s2/a], Oct. 15, 2010, [124 Stat. 3034][/us/stat/124/3034].)
+(Added [Pub. L. 111–282][/us/pl/111/282], § 2(a), Oct. 15, 2010, [124 Stat. 3034][/us/stat/124/3034].)
 
  __References in Text__ 
 
@@ -462,7 +462,7 @@
 ----------
 ----------
 
-[/us/pl/111/282/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F282%2Fs2%2Fa
+[/us/pl/111/282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F282
 [/us/stat/124/3034]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3034
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
 

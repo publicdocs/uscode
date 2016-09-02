@@ -39,7 +39,7 @@
 
         (4) the position has not been held open pending the retirement of the retired member.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 423][/us/stat/80/423]; [Pub. L. 96–54, § 2(a)(14)][/us/pl/96/54/s2/a/14], Aug. 14, 1979, [93 Stat. 382][/us/stat/93/382]; [Pub. L. 101–509, title V, § 529][/us/pl/101/509/s529] \[title I, § 101(b)(3)(A)\], Nov. 5, 1990, [104 Stat. 1427][/us/stat/104/1427], 1439.)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 423][/us/stat/80/423]; [Pub. L. 96–54][/us/pl/96/54], § 2(a)(14), Aug. 14, 1979, [93 Stat. 382][/us/stat/93/382]; [Pub. L. 101–509, title V][/us/pl/101/509/tV], § 529 \[title I, § 101(b)(3)(A)\], Nov. 5, 1990, [104 Stat. 1427][/us/stat/104/1427], 1439.)
 
 <table>
 
@@ -117,7 +117,7 @@ Aug. 19, 1964, Pub. L. 88–448, § 204, 78 Stat. 487.  </td>
 
  __Suspension of Section__ 
 
-[Pub. L. 101–510, div. A, title XII, § 1206(f)][/us/pl/101/510/s1206/f], Nov. 5, 1990, [104 Stat. 1661][/us/stat/104/1661], provided that: 
+[Pub. L. 101–510, div. A, title XII][/us/pl/101/510/dA/tXII], § 1206(f), Nov. 5, 1990, [104 Stat. 1661][/us/stat/104/1661], provided that: 
 
 > “[Section 3326 of title 5][/us/usc/t5/s3326], United States Code, shall not be in effect for the period beginning on the date of the enactment of this Act \[Nov. 5, 1990\] and ending two years after such date.”
 
@@ -140,13 +140,13 @@ Aug. 19, 1964, Pub. L. 88–448, § 204, 78 Stat. 487.  </td>
 [/us/usc/t5/s5305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5305
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F423
-[/us/pl/96/54/s2/a/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F54%2Fs2%2Fa%2F14
+[/us/pl/96/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F54
 [/us/stat/93/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F382
-[/us/pl/101/509/s529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2Fs529
+[/us/pl/101/509/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2FtV
 [/us/stat/104/1427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1427
 [/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509
 [/us/pl/96/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F54
-[/us/pl/101/510/s1206/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1206%2Ff
+[/us/pl/101/510/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtXII
 [/us/stat/104/1661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1661
 [/us/usc/t5/s3326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3326
 [/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509

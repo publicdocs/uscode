@@ -43,21 +43,21 @@
 
     (c) Appropriations of a Federal agency are available to pay expenses under [section 5742 of this title][/us/usc/t5/s5742] with respect to a Federal or State or local government employee assigned under this subchapter.
 
-(Added [Pub. L. 91–648, title IV, § 402(a)][/us/pl/91/648/s402/a], Jan. 5, 1971, [84 Stat. 1924][/us/stat/84/1924]; amended [Pub. L. 95–454, title VI, § 603(b)][/us/pl/95/454/s603/b], (e), Oct. 13, 1978, [92 Stat. 1190][/us/stat/92/1190], 1191; [Pub. L. 104–201, div. A, title XVII, § 1723(a)(1)(A)][/us/pl/104/201/s1723/a/1/A], Sept. 23, 1996, [110 Stat. 2758][/us/stat/110/2758].)
+(Added [Pub. L. 91–648, title IV][/us/pl/91/648/tIV], § 402(a), Jan. 5, 1971, [84 Stat. 1924][/us/stat/84/1924]; amended [Pub. L. 95–454, title VI][/us/pl/95/454/tVI], § 603(b), (e), Oct. 13, 1978, [92 Stat. 1190][/us/stat/92/1190], 1191; [Pub. L. 104–201, div. A, title XVII][/us/pl/104/201/dA/tXVII], § 1723(a)(1)(A), Sept. 23, 1996, [110 Stat. 2758][/us/stat/110/2758].)
 
  __Amendments__ 
 
-    1996—Subsec. (a)(3). [Pub. L. 104–201, § 1723(a)(1)(A)(i)][/us/pl/104/201/s1723/a/1/A/i], substituted “section 5724a(a)” for “section 5724a(a)(1)”.
+    1996—Subsec. (a)(3). [Pub. L. 104–201][/us/pl/104/201], § 1723(a)(1)(A)(i), substituted “section 5724a(a)” for “section 5724a(a)(1)”.
 
-    Subsec. (a)(4). [Pub. L. 104–201, § 1723(a)(1)(A)(ii)][/us/pl/104/201/s1723/a/1/A/ii], substituted “section 5724a(c)” for “section 5724a(a)(3)”.
+    Subsec. (a)(4). [Pub. L. 104–201][/us/pl/104/201], § 1723(a)(1)(A)(ii), substituted “section 5724a(c)” for “section 5724a(a)(3)”.
 
-    Subsec. (a)(5). [Pub. L. 104–201, § 1723(a)(1)(A)(iii)][/us/pl/104/201/s1723/a/1/A/iii], substituted “section 5724a(g)” for “section 5724a(b)”.
+    Subsec. (a)(5). [Pub. L. 104–201][/us/pl/104/201], § 1723(a)(1)(A)(iii), substituted “section 5724a(g)” for “section 5724a(b)”.
 
-    1978—Subsec. (a). [Pub. L. 95–454, § 603(b)][/us/pl/95/454/s603/b], (e), substituted “a Federal agency” for “an executive agency” in introductory text, substituted “Federal” for “executive” in cl. (1), added cl. (5), and redesignated former cl. (5) as (6).
+    1978—Subsec. (a). [Pub. L. 95–454][/us/pl/95/454], § 603(b), (e), substituted “a Federal agency” for “an executive agency” in introductory text, substituted “Federal” for “executive” in cl. (1), added cl. (5), and redesignated former cl. (5) as (6).
 
-    Subsec. (b). [Pub. L. 95–454, § 603(b)][/us/pl/95/454/s603/b], substituted “the Federal” for “the executive”.
+    Subsec. (b). [Pub. L. 95–454][/us/pl/95/454], § 603(b), substituted “the Federal” for “the executive”.
 
-    Subsec. (c). [Pub. L. 95–454, § 603(b)][/us/pl/95/454/s603/b], substituted “a Federal agency” for “an executive agency”.
+    Subsec. (c). [Pub. L. 95–454][/us/pl/95/454], § 603(b), substituted “a Federal agency” for “an executive agency”.
 
  __Effective Date of 1996 Amendment__ 
 
@@ -80,18 +80,18 @@
 [/us/usc/t5/s5724a/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5724a%2Fg
 [/us/usc/t5/s5726/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5726%2Fc
 [/us/usc/t5/s5742]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5742
-[/us/pl/91/648/s402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F648%2Fs402%2Fa
+[/us/pl/91/648/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F648%2FtIV
 [/us/stat/84/1924]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1924
-[/us/pl/95/454/s603/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs603%2Fb
+[/us/pl/95/454/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtVI
 [/us/stat/92/1190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1190
-[/us/pl/104/201/s1723/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1723%2Fa%2F1%2FA
+[/us/pl/104/201/dA/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtXVII
 [/us/stat/110/2758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2758
-[/us/pl/104/201/s1723/a/1/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1723%2Fa%2F1%2FA%2Fi
-[/us/pl/104/201/s1723/a/1/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1723%2Fa%2F1%2FA%2Fii
-[/us/pl/104/201/s1723/a/1/A/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1723%2Fa%2F1%2FA%2Fiii
-[/us/pl/95/454/s603/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs603%2Fb
-[/us/pl/95/454/s603/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs603%2Fb
-[/us/pl/95/454/s603/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs603%2Fb
+[/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
+[/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
+[/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
+[/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454
+[/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454
+[/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454
 [/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
 [/us/pl/104/201/s1725/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1725%2Fa
 [/us/usc/t5/s5722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5722

@@ -35,7 +35,7 @@
 
     (c) The Office of Personnel Management may prescribe regulations for the administration of this section.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 522][/us/stat/80/522]; [Pub. L. 91–563, § 1(a)][/us/pl/91/563/s1/a], Dec. 19, 1970, [84 Stat. 1476][/us/stat/84/1476]; [Pub. L. 94–310, § 1][/us/pl/94/310/s1], June 15, 1976, [90 Stat. 687][/us/stat/90/687]; [Pub. L. 95–454, title IX, § 906(a)(2)][/us/pl/95/454/s906/a/2], Oct. 13, 1978, [92 Stat. 1224][/us/stat/92/1224]; [Pub. L. 96–70, title I, § 1251][/us/pl/96/70/s1251], Sept. 27, 1979, [93 Stat. 476][/us/stat/93/476]; [Pub. L. 104–186, title II, § 215(10)][/us/pl/104/186/s215/10], Aug. 20, 1996, [110 Stat. 1746][/us/stat/110/1746]; [Pub. L. 104–201, div. C, title XXXV, § 3548(a)(8)][/us/pl/104/201/s3548/a/8], Sept. 23, 1996, [110 Stat. 2869][/us/stat/110/2869].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 522][/us/stat/80/522]; [Pub. L. 91–563][/us/pl/91/563], § 1(a), Dec. 19, 1970, [84 Stat. 1476][/us/stat/84/1476]; [Pub. L. 94–310][/us/pl/94/310], § 1, June 15, 1976, [90 Stat. 687][/us/stat/90/687]; [Pub. L. 95–454, title IX][/us/pl/95/454/tIX], § 906(a)(2), Oct. 13, 1978, [92 Stat. 1224][/us/stat/92/1224]; [Pub. L. 96–70, title I][/us/pl/96/70/tI], § 1251, Sept. 27, 1979, [93 Stat. 476][/us/stat/93/476]; [Pub. L. 104–186, title II][/us/pl/104/186/tII], § 215(10), Aug. 20, 1996, [110 Stat. 1746][/us/stat/110/1746]; [Pub. L. 104–201, div. C, title XXXV][/us/pl/104/201/dC/tXXXV], § 3548(a)(8), Sept. 23, 1996, [110 Stat. 2869][/us/stat/110/2869].)
 
 <table>
 
@@ -132,17 +132,17 @@ June 29, 1940, ch. 446, § 1, 54 Stat. 689.  </td>
 [/us/usc/t5/s2105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs2105
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F522
-[/us/pl/91/563/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F563%2Fs1%2Fa
+[/us/pl/91/563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F563
 [/us/stat/84/1476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1476
-[/us/pl/94/310/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F310%2Fs1
+[/us/pl/94/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F310
 [/us/stat/90/687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F687
-[/us/pl/95/454/s906/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs906%2Fa%2F2
+[/us/pl/95/454/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtIX
 [/us/stat/92/1224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1224
-[/us/pl/96/70/s1251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2Fs1251
+[/us/pl/96/70/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2FtI
 [/us/stat/93/476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F476
-[/us/pl/104/186/s215/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2Fs215%2F10
+[/us/pl/104/186/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2FtII
 [/us/stat/110/1746]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1746
-[/us/pl/104/201/s3548/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs3548%2Fa%2F8
+[/us/pl/104/201/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdC%2FtXXXV
 [/us/stat/110/2869]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2869
 [/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
 [/us/pl/104/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186

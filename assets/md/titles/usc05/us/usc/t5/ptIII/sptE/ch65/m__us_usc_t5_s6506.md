@@ -121,7 +121,7 @@
 
             (C) use that relevant information for other purposes related to the strategic management of human capital.
 
-(Added [Pub. L. 111–292, § 2(a)][/us/pl/111/292/s2/a], Dec. 9, 2010, [124 Stat. 3169][/us/stat/124/3169].)
+(Added [Pub. L. 111–292][/us/pl/111/292], § 2(a), Dec. 9, 2010, [124 Stat. 3169][/us/stat/124/3169].)
 
  __References in Text__ 
 
@@ -134,7 +134,7 @@
 ----------
 ----------
 
-[/us/pl/111/292/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F292%2Fs2%2Fa
+[/us/pl/111/292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F292
 [/us/stat/124/3169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3169
 [/us/pl/111/292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F292
 

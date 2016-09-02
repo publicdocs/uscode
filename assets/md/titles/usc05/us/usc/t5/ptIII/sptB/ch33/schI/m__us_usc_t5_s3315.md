@@ -19,7 +19,7 @@
 
     (b) The Office may declare a preference eligible who has been separated or furloughed without pay under [section 7512 of this title][/us/usc/t5/s7512] to be entitled to the benefits of subsection (a) of this section.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 420][/us/stat/80/420]; [Pub. L. 96–54, § 2(a)(14)][/us/pl/96/54/s2/a/14], (15), Aug. 14, 1979, [93 Stat. 382][/us/stat/93/382].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 420][/us/stat/80/420]; [Pub. L. 96–54][/us/pl/96/54], § 2(a)(14), (15), Aug. 14, 1979, [93 Stat. 382][/us/stat/93/382].)
 
 <table>
 
@@ -89,9 +89,9 @@ June 27, 1944, ch. 287, § 14 (2d proviso), 58 Stat. 391.  </td>
 
  __Amendments__ 
 
-    1979—Subsec. (a). [Pub. L. 96–54, § 2(a)(14)][/us/pl/96/54/s2/a/14], substituted “Office of Personnel Management” for “Civil Service Commission”.
+    1979—Subsec. (a). [Pub. L. 96–54][/us/pl/96/54], § 2(a)(14), substituted “Office of Personnel Management” for “Civil Service Commission”.
 
-    Subsec. (b). [Pub. L. 96–54, § 2(a)(15)][/us/pl/96/54/s2/a/15], substituted “Office” for “Commission”.
+    Subsec. (b). [Pub. L. 96–54][/us/pl/96/54], § 2(a)(15), substituted “Office” for “Commission”.
 
  __Effective Date of 1979 Amendment__ 
 
@@ -108,10 +108,10 @@ June 27, 1944, ch. 287, § 14 (2d proviso), 58 Stat. 391.  </td>
 [/us/usc/t5/s7512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs7512
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F420
-[/us/pl/96/54/s2/a/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F54%2Fs2%2Fa%2F14
+[/us/pl/96/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F54
 [/us/stat/93/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F382
-[/us/pl/96/54/s2/a/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F54%2Fs2%2Fa%2F14
-[/us/pl/96/54/s2/a/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F54%2Fs2%2Fa%2F15
+[/us/pl/96/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F54
+[/us/pl/96/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F54
 [/us/pl/96/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F54
 [/us/pl/96/54/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F54%2Fs2%2Fb
 [/us/usc/t5/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs305

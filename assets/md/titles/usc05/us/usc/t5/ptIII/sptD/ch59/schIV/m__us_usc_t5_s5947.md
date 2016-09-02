@@ -27,7 +27,7 @@
 
     (c) The quarters or subsistence, or both, or allowance in place thereof, may be furnished or paid only under regulations prescribed by the Secretary of the Army.
 
-(Added [Pub. L. 91–656, § 7(a)][/us/pl/91/656/s7/a], Jan. 8, 1971, [84 Stat. 1954][/us/stat/84/1954].)
+(Added [Pub. L. 91–656][/us/pl/91/656], § 7(a), Jan. 8, 1971, [84 Stat. 1954][/us/stat/84/1954].)
 
 ----------
 
@@ -37,7 +37,7 @@
 ----------
 
 [/us/usc/t5/s5536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5536
-[/us/pl/91/656/s7/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F656%2Fs7%2Fa
+[/us/pl/91/656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F656
 [/us/stat/84/1954]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1954
 
 

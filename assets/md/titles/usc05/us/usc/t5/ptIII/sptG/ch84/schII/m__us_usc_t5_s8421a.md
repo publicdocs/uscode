@@ -57,7 +57,7 @@
 
     (c) The Office shall prescribe regulations under which this section shall be applied in the case of a reemployed annuitant.
 
-(Added [Pub. L. 99–335, title I, § 101(a)][/us/pl/99/335/s101/a], June 6, 1986, [100 Stat. 535][/us/stat/100/535]; amended [Pub. L. 99–556, title I, § 121][/us/pl/99/556/s121], Oct. 27, 1986, [100 Stat. 3134][/us/stat/100/3134]; [Pub. L. 106–394, § 3(a)][/us/pl/106/394/s3/a], Oct. 30, 2000, [114 Stat. 1630][/us/stat/114/1630].)
+(Added [Pub. L. 99–335, title I][/us/pl/99/335/tI], § 101(a), June 6, 1986, [100 Stat. 535][/us/stat/100/535]; amended [Pub. L. 99–556, title I][/us/pl/99/556/tI], § 121, Oct. 27, 1986, [100 Stat. 3134][/us/stat/100/3134]; [Pub. L. 106–394][/us/pl/106/394], § 3(a), Oct. 30, 2000, [114 Stat. 1630][/us/stat/114/1630].)
 
  __References in Text__ 
 
@@ -71,7 +71,7 @@
 
  __Effective Date of 2000 Amendment__ 
 
-[Pub. L. 106–394, § 3(b)][/us/pl/106/394/s3/b], Oct. 30, 2000, [114 Stat. 1630][/us/stat/114/1630], provided that: 
+[Pub. L. 106–394][/us/pl/106/394], § 3(b), Oct. 30, 2000, [114 Stat. 1630][/us/stat/114/1630], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply with respect to reductions required to be made in calendar years beginning after the date of the enactment of this Act \[Oct. 30, 2000\].”
 
@@ -82,16 +82,16 @@
 ----------
 ----------
 
-[/us/pl/99/335/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2Fs101%2Fa
+[/us/pl/99/335/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2FtI
 [/us/stat/100/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F535
-[/us/pl/99/556/s121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F556%2Fs121
+[/us/pl/99/556/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F556%2FtI
 [/us/stat/100/3134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3134
-[/us/pl/106/394/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F394%2Fs3%2Fa
+[/us/pl/106/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F394
 [/us/stat/114/1630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1630
 [/us/usc/t42/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs403
 [/us/pl/106/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F394
 [/us/pl/99/556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F556
-[/us/pl/106/394/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F394%2Fs3%2Fb
+[/us/pl/106/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F394
 [/us/stat/114/1630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1630
 
 

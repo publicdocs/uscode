@@ -111,7 +111,7 @@
 
     (i) An annuitant whose annuity is insufficient to cover the withholdings required for enrollment in a particular health benefits plan may enroll (or remain enrolled) in such plan, notwithstanding any other provision of this section, if the annuitant elects, under conditions prescribed by regulations of the Office, to pay currently into the Employees Health Benefits Fund, through the retirement system that administers the annuitant’s health benefits enrollment, an amount equal to the withholdings that would otherwise be required under this section.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 604][/us/stat/80/604]; [Pub. L. 90–83, § 1(96)][/us/pl/90/83/s1/96], Sept. 11, 1967, [81 Stat. 219][/us/stat/81/219]; [Pub. L. 91–418, § 1(a)][/us/pl/91/418/s1/a], Sept. 25, 1970, [84 Stat. 869][/us/stat/84/869]; [Pub. L. 93–246, § 1][/us/pl/93/246/s1], Jan. 31, 1974, [88 Stat. 3][/us/stat/88/3]; [Pub. L. 94–310, § 3(a)][/us/pl/94/310/s3/a], June 15, 1976, [90 Stat. 687][/us/stat/90/687]; [Pub. L. 95–437, § 4(c)(2)(A)][/us/pl/95/437/s4/c/2/A], Oct. 10, 1978, [92 Stat. 1059][/us/stat/92/1059]; [Pub. L. 95–454, title IX, § 906(a)(15)][/us/pl/95/454/s906/a/15], (c)(2)(F), Oct. 13, 1978, [92 Stat. 1226][/us/stat/92/1226], 1227; [Pub. L. 96–54, § 2(a)(53)][/us/pl/96/54/s2/a/53], Aug. 14, 1979, [93 Stat. 384][/us/stat/93/384]; [Pub. L. 99–272, title XV, § 15202(b)][/us/pl/99/272/s15202/b], Apr. 7, 1986, [100 Stat. 334][/us/stat/100/334]; [Pub. L. 101–239, title IV, § 4003(a)][/us/pl/101/239/s4003/a], Dec. 19, 1989, [103 Stat. 2135][/us/stat/103/2135]; [Pub. L. 101–303, § 1(a)][/us/pl/101/303/s1/a], (b), May 29, 1990, [104 Stat. 250][/us/stat/104/250]; [Pub. L. 101–508, title VII, § 7102(a)][/us/pl/101/508/s7102/a], (b), Nov. 5, 1990, [104 Stat. 1388–333][/us/stat/104/1388-333]; [Pub. L. 102–378, § 2(78)][/us/pl/102/378/s2/78], Oct. 2, 1992, [106 Stat. 1355][/us/stat/106/1355]; [Pub. L. 104–186, title II, § 215(19)][/us/pl/104/186/s215/19], Aug. 20, 1996, [110 Stat. 1747][/us/stat/110/1747]; [Pub. L. 104–208, div. A, title I, § 101(f)][/us/pl/104/208/s101/f] \[title IV, § 422\], Sept. 30, 1996, [110 Stat. 3009–314][/us/stat/110/3009-314], 3009–343; [Pub. L. 105–33, title VII, § 7002(a)][/us/pl/105/33/s7002/a], Aug. 5, 1997, [111 Stat. 662][/us/stat/111/662]; [Pub. L. 105–261, div. A, title VII, § 721(b)(2)][/us/pl/105/261/s721/b/2], (3), Oct. 17, 1998, [112 Stat. 2065][/us/stat/112/2065]; [Pub. L. 107–107, div. A, title V, § 519(a)][/us/pl/107/107/s519/a], (b), Dec. 28, 2001, [115 Stat. 1096][/us/stat/115/1096]; [Pub. L. 108–375, div. A, title XI, § 1101(b)][/us/pl/108/375/s1101/b], Oct. 28, 2004, [118 Stat. 2072][/us/stat/118/2072]; [Pub. L. 109–435, title VIII, § 803(a)(1)(A)][/us/pl/109/435/s803/a/1/A], Dec. 20, 2006, [120 Stat. 3251][/us/stat/120/3251]; [Pub. L. 113–67, div. A, title VII, § 706(c)][/us/pl/113/67/s706/c], Dec. 26, 2013, [127 Stat. 1194][/us/stat/127/1194].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 604][/us/stat/80/604]; [Pub. L. 90–83][/us/pl/90/83], § 1(96), Sept. 11, 1967, [81 Stat. 219][/us/stat/81/219]; [Pub. L. 91–418][/us/pl/91/418], § 1(a), Sept. 25, 1970, [84 Stat. 869][/us/stat/84/869]; [Pub. L. 93–246][/us/pl/93/246], § 1, Jan. 31, 1974, [88 Stat. 3][/us/stat/88/3]; [Pub. L. 94–310][/us/pl/94/310], § 3(a), June 15, 1976, [90 Stat. 687][/us/stat/90/687]; [Pub. L. 95–437][/us/pl/95/437], § 4(c)(2)(A), Oct. 10, 1978, [92 Stat. 1059][/us/stat/92/1059]; [Pub. L. 95–454, title IX][/us/pl/95/454/tIX], § 906(a)(15), (c)(2)(F), Oct. 13, 1978, [92 Stat. 1226][/us/stat/92/1226], 1227; [Pub. L. 96–54][/us/pl/96/54], § 2(a)(53), Aug. 14, 1979, [93 Stat. 384][/us/stat/93/384]; [Pub. L. 99–272, title XV][/us/pl/99/272/tXV], § 15202(b), Apr. 7, 1986, [100 Stat. 334][/us/stat/100/334]; [Pub. L. 101–239, title IV][/us/pl/101/239/tIV], § 4003(a), Dec. 19, 1989, [103 Stat. 2135][/us/stat/103/2135]; [Pub. L. 101–303][/us/pl/101/303], § 1(a), (b), May 29, 1990, [104 Stat. 250][/us/stat/104/250]; [Pub. L. 101–508, title VII][/us/pl/101/508/tVII], § 7102(a), (b), Nov. 5, 1990, [104 Stat. 1388–333][/us/stat/104/1388-333]; [Pub. L. 102–378][/us/pl/102/378], § 2(78), Oct. 2, 1992, [106 Stat. 1355][/us/stat/106/1355]; [Pub. L. 104–186, title II][/us/pl/104/186/tII], § 215(19), Aug. 20, 1996, [110 Stat. 1747][/us/stat/110/1747]; [Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(f) \[title IV, § 422\], Sept. 30, 1996, [110 Stat. 3009–314][/us/stat/110/3009-314], 3009–343; [Pub. L. 105–33, title VII][/us/pl/105/33/tVII], § 7002(a), Aug. 5, 1997, [111 Stat. 662][/us/stat/111/662]; [Pub. L. 105–261, div. A, title VII][/us/pl/105/261/dA/tVII], § 721(b)(2), (3), Oct. 17, 1998, [112 Stat. 2065][/us/stat/112/2065]; [Pub. L. 107–107, div. A, title V][/us/pl/107/107/dA/tV], § 519(a), (b), Dec. 28, 2001, [115 Stat. 1096][/us/stat/115/1096]; [Pub. L. 108–375, div. A, title XI][/us/pl/108/375/dA/tXI], § 1101(b), Oct. 28, 2004, [118 Stat. 2072][/us/stat/118/2072]; [Pub. L. 109–435, title VIII][/us/pl/109/435/tVIII], § 803(a)(1)(A), Dec. 20, 2006, [120 Stat. 3251][/us/stat/120/3251]; [Pub. L. 113–67, div. A, title VII][/us/pl/113/67/dA/tVII], § 706(c), Dec. 26, 2013, [127 Stat. 1194][/us/stat/127/1194].)
 
 <table>
 
@@ -253,17 +253,17 @@ July 18, 1966, Pub. L. 89–504, §§ 406(b), 602, 80 Stat. 298, 303.  </td>
 
     2004—Subsec. (e)(3)(C). [Pub. L. 108–375][/us/pl/108/375] substituted “24 months” for “18 months”.
 
-    2001—Subsec. (e)(3). [Pub. L. 107–107, § 519(a)][/us/pl/107/107/s519/a], added par. (3).
+    2001—Subsec. (e)(3). [Pub. L. 107–107][/us/pl/107/107], § 519(a), added par. (3).
 
-    Subsec. (f). [Pub. L. 107–107, § 519(b)][/us/pl/107/107/s519/b], amended introductory provisions generally. Prior to amendment, introductory provisions read as follows: “The Government contributions for health benefits for an employee shall be paid—”.
+    Subsec. (f). [Pub. L. 107–107][/us/pl/107/107], § 519(b), amended introductory provisions generally. Prior to amendment, introductory provisions read as follows: “The Government contributions for health benefits for an employee shall be paid—”.
 
-    1998—Subsec. (b)(1). [Pub. L. 105–261, § 721(b)(2)(A)][/us/pl/105/261/s721/b/2/A], substituted “paragraphs (2), (3), and (4)” for “paragraphs (2) and (3)”.
+    1998—Subsec. (b)(1). [Pub. L. 105–261][/us/pl/105/261], § 721(b)(2)(A), substituted “paragraphs (2), (3), and (4)” for “paragraphs (2) and (3)”.
 
-    Subsec. (b)(4). [Pub. L. 105–261, § 721(b)(2)(B)][/us/pl/105/261/s721/b/2/B], added par. (4).
+    Subsec. (b)(4). [Pub. L. 105–261][/us/pl/105/261], § 721(b)(2)(B), added par. (4).
 
-    Subsec. (g)(1). [Pub. L. 105–261, § 721(b)(3)(A)][/us/pl/105/261/s721/b/3/A], substituted “paragraphs (2) and (3)” for “paragraph (2)”.
+    Subsec. (g)(1). [Pub. L. 105–261][/us/pl/105/261], § 721(b)(3)(A), substituted “paragraphs (2) and (3)” for “paragraph (2)”.
 
-    Subsec. (g)(3). [Pub. L. 105–261, § 721(b)(3)(B)][/us/pl/105/261/s721/b/3/B], added par. (3).
+    Subsec. (g)(3). [Pub. L. 105–261][/us/pl/105/261], § 721(b)(3)(B), added par. (3).
 
     1997—Subsec. (a). [Pub. L. 105–33][/us/pl/105/33] added subsec. (a) and struck out former subsec. (a) which read as follows: “The Office of Personnel Management shall determine the average of the subscription charges in effect on the beginning date of each contract year with respect to self alone or self and family enrollments under this chapter, as applicable, for the highest level of benefits offered by—
 
@@ -281,17 +281,17 @@ July 18, 1966, Pub. L. 89–504, §§ 406(b), 602, 80 Stat. 298, 303.  </td>
 
     Subsec. (f)(3). [Pub. L. 104–186][/us/pl/104/186] substituted “Chief Administrative Officer of the House of Representatives, from the applicable accounts of the House of Representatives” for “Clerk of the House of Representatives, from the contingent fund of the House”.
 
-    1992—Subsec. (b)(3). [Pub. L. 102–378, § 2(78)(A)][/us/pl/102/378/s2/78/A], inserted period after “Office)”.
+    1992—Subsec. (b)(3). [Pub. L. 102–378][/us/pl/102/378], § 2(78)(A), inserted period after “Office)”.
 
-    Subsec. (c). [Pub. L. 102–378, § 2(78)(B)][/us/pl/102/378/s2/78/B], substituted “and (except” for “and except”.
+    Subsec. (c). [Pub. L. 102–378][/us/pl/102/378], § 2(78)(B), substituted “and (except” for “and except”.
 
-    1990—Subsec. (c). [Pub. L. 101–303, § 1(b)(1)][/us/pl/101/303/s1/b/1], inserted “except as provided in subsection (i) of this section)” after “enrolled employee and”.
+    1990—Subsec. (c). [Pub. L. 101–303][/us/pl/101/303], § 1(b)(1), inserted “except as provided in subsection (i) of this section)” after “enrolled employee and”.
 
-    Subsec. (d). [Pub. L. 101–303, § 1(b)(2)][/us/pl/101/303/s1/b/2], inserted “(except as provided in subsection (i) of this section)” after “enrolled employee and”.
+    Subsec. (d). [Pub. L. 101–303][/us/pl/101/303], § 1(b)(2), inserted “(except as provided in subsection (i) of this section)” after “enrolled employee and”.
 
     Subsec. (g)(2). [Pub. L. 101–508][/us/pl/101/508] designated existing provisions as subpar. (A), substituted “July 1, 1971,” for “October 1, 1986,” in two places, and added subpar. (B).
 
-    Subsec. (i). [Pub. L. 101–303, § 1(a)][/us/pl/101/303/s1/a], added subsec. (i).
+    Subsec. (i). [Pub. L. 101–303][/us/pl/101/303], § 1(a), added subsec. (i).
 
     1989—Subsec. (g)(2). [Pub. L. 101–239][/us/pl/101/239] inserted “or for a survivor of such an individual or of an individual who died on or after October 1, 1986, while employed by the United States Postal Service,” after “1986,”.
 
@@ -299,27 +299,27 @@ July 18, 1966, Pub. L. 89–504, §§ 406(b), 602, 80 Stat. 298, 303.  </td>
 
     1979—Subsec. (b)(1). [Pub. L. 96–54][/us/pl/96/54] substituted provisions setting forth adjustment amount of the Government contribution of equal to 60 percent of the average subscription charge under subsec. (a) and determinations respecting the commencement date of the adjustment, for provisions setting forth adjustment amounts of the Government contribution of equal to 50 percent of the average subscription charge under subsec. (a) for applicable pay periods beginning in 1974, and equal to 60 percent for pay periods beginning in 1975 and after, and determinations respecting the commencement date of the adjustment.
 
-    1978—Subsec. (a). [Pub. L. 95–454, § 906(a)(15)][/us/pl/95/454/s906/a/15], substituted “Office of Personnel Management” for “Commission” in introductory material, and “Office” for “Commission” in cls. (3) and (4).
+    1978—Subsec. (a). [Pub. L. 95–454][/us/pl/95/454], § 906(a)(15), substituted “Office of Personnel Management” for “Commission” in introductory material, and “Office” for “Commission” in cls. (3) and (4).
 
-    Subsec. (b)(1). [Pub. L. 95–437, § 4(c)(2)(A)(i)][/us/pl/95/437/s4/c/2/A/i], substituted “paragraphs (2) and (3)” for “paragraph (2)”.
+    Subsec. (b)(1). [Pub. L. 95–437][/us/pl/95/437], § 4(c)(2)(A)(i), substituted “paragraphs (2) and (3)” for “paragraph (2)”.
 
-    Subsec. (b)(3). [Pub. L. 95–454, § 906(a)(15)][/us/pl/95/454/s906/a/15], (c)(2)(F), substituted “Office” for “Commission”, and “3401” for “3391”.
+    Subsec. (b)(3). [Pub. L. 95–454][/us/pl/95/454], § 906(a)(15), (c)(2)(F), substituted “Office” for “Commission”, and “3401” for “3391”.
 
-    [Pub. L. 95–437, § 4(c)(2)(A)(ii)][/us/pl/95/437/s4/c/2/A/ii], added par. (3).
+    [Pub. L. 95–437][/us/pl/95/437], § 4(c)(2)(A)(ii), added par. (3).
 
-    Subsecs. (e)(1), (h). [Pub. L. 95–454, § 906(a)(15)][/us/pl/95/454/s906/a/15], substituted “Office” for “Commission”.
+    Subsecs. (e)(1), (h). [Pub. L. 95–454][/us/pl/95/454], § 906(a)(15), substituted “Office” for “Commission”.
 
     1976—Subsec. (g). [Pub. L. 94–310][/us/pl/94/310] provided for payment of Government contributions from annual appropriations which may be made available until expended.
 
-    1974—Subsec. (a). [Pub. L. 93–246, § 1(a)][/us/pl/93/246/s1/a], struck out introductory text “Except as provided by subsection (b) of this section, the biweekly Government contribution for health benefits for employees or annuitants enrolled in health benefits plans under this chapter shall be adjusted”, now incorporated in subsec. (b)(1) of this section, required Commission determination of average of subscription charges, and reenacted remainder of existing provisions, substituting “beginning date of each contract year” for “beginning date of the adjustment”.
+    1974—Subsec. (a). [Pub. L. 93–246][/us/pl/93/246], § 1(a), struck out introductory text “Except as provided by subsection (b) of this section, the biweekly Government contribution for health benefits for employees or annuitants enrolled in health benefits plans under this chapter shall be adjusted”, now incorporated in subsec. (b)(1) of this section, required Commission determination of average of subscription charges, and reenacted remainder of existing provisions, substituting “beginning date of each contract year” for “beginning date of the adjustment”.
 
-    Subsec. (b)(1). [Pub. L. 93–246, § 1(a)][/us/pl/93/246/s1/a], incorporated introductory text of former subsec. (a) reading “Except as provided by subsection (b) of this section, the biweekly Government contribution for health benefits for employees or annuitants enrolled in health benefits plans under this chapter shall be adjusted”, as initial text of provisions designated as subsec. (b)(1), substituted provision for amount of biweekly Government contribution equal to 50 percent of average subscription charge for applicable pay periods commencing in 1974 and 60 percent for applicable pay periods commencing in 1975, and annually thereafter, for former subsec. (a) provision for an amount equal to 40 percent of average of subscription charges and former subsec. (b) provision for 50 percent of subscription charge where the biweekly subscription charge was less than twice the Government contribution.
+    Subsec. (b)(1). [Pub. L. 93–246][/us/pl/93/246], § 1(a), incorporated introductory text of former subsec. (a) reading “Except as provided by subsection (b) of this section, the biweekly Government contribution for health benefits for employees or annuitants enrolled in health benefits plans under this chapter shall be adjusted”, as initial text of provisions designated as subsec. (b)(1), substituted provision for amount of biweekly Government contribution equal to 50 percent of average subscription charge for applicable pay periods commencing in 1974 and 60 percent for applicable pay periods commencing in 1975, and annually thereafter, for former subsec. (a) provision for an amount equal to 40 percent of average of subscription charges and former subsec. (b) provision for 50 percent of subscription charge where the biweekly subscription charge was less than twice the Government contribution.
 
-    Subsec. (b)(2). [Pub. L. 93–246, § 1(a)][/us/pl/93/246/s1/a], added par. (2).
+    Subsec. (b)(2). [Pub. L. 93–246][/us/pl/93/246], § 1(a), added par. (2).
 
-    Subsec. (c). [Pub. L. 93–246, § 1(b)][/us/pl/93/246/s1/b], struck out reference to subsec. (a).
+    Subsec. (c). [Pub. L. 93–246][/us/pl/93/246], § 1(b), struck out reference to subsec. (a).
 
-    Subsec. (g). [Pub. L. 93–246, § 1(c)][/us/pl/93/246/s1/c], substituted “by this section” for “by subsection (a) of this section”.
+    Subsec. (g). [Pub. L. 93–246][/us/pl/93/246], § 1(c), substituted “by this section” for “by subsection (a) of this section”.
 
     1970—Subsec. (a). [Pub. L. 91–418][/us/pl/91/418], in increasing the Government contribution to the cost of health benefits insurance, substituted provision for adjustment of such contribution, beginning on the first day of the first pay period of each year, to an amount equal to 40 percent of the adjustment, with respect to self alone or self and family enrollments, as applicable, for the highest level of benefits offered by the service benefit plan, the indemnity benefit plan, the two employee organization plans, and the two comprehensive medical plans, for prior provision for a contribution, in addition to requirement of subsec. (c) of this section, of $1.62 if the enrollment is for self or $3.94 if the enrollment is for self and family.
 
@@ -333,29 +333,29 @@ July 18, 1966, Pub. L. 89–504, §§ 406(b), 602, 80 Stat. 298, 303.  </td>
 
  __Effective Date of 2001 Amendment__ 
 
-[Pub. L. 107–107, div. A, title V, § 519(c)][/us/pl/107/107/s519/c], Dec. 28, 2001, [115 Stat. 1096][/us/stat/115/1096], provided that: 
+[Pub. L. 107–107, div. A, title V][/us/pl/107/107/dA/tV], § 519(c), Dec. 28, 2001, [115 Stat. 1096][/us/stat/115/1096], provided that: 
 
 > “The amendments made by this section \[amending this section\] apply with respect to employees called to active duty on or after December 8, 1995, and an agency may make retroactive payments to such employees for premiums paid on or after such date.”
 
  __Effective Date of 1997 Amendment__ 
 
-[Pub. L. 105–33, title VII, § 7002(b)][/us/pl/105/33/s7002/b], Aug. 5, 1997, [111 Stat. 662][/us/stat/111/662], provided that: 
+[Pub. L. 105–33, title VII][/us/pl/105/33/tVII], § 7002(b), Aug. 5, 1997, [111 Stat. 662][/us/stat/111/662], provided that: 
 
 > “This section \[amending this section\] shall take effect on the first day of the contract year that begins in 1999. Nothing in this subsection shall prevent the Office of Personnel Management from taking any action, before such first day, which it considers necessary in order to ensure the timely implementation of this section.”
 
  __Effective Date of 1990 Amendments__ 
 
-[Pub. L. 101–508, title VII, § 7102(c)][/us/pl/101/508/s7102/c], Nov. 5, 1990, [104 Stat. 1388–333][/us/stat/104/1388-333], provided that: 
+[Pub. L. 101–508, title VII][/us/pl/101/508/tVII], § 7102(c), Nov. 5, 1990, [104 Stat. 1388–333][/us/stat/104/1388-333], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall take effect on October 1, 1990, and shall apply with respect to amounts payable for periods beginning on or after that date.”
 
-[Pub. L. 101–303, § 1(c)][/us/pl/101/303/s1/c], May 29, 1990, [104 Stat. 250][/us/stat/104/250], provided that: 
+[Pub. L. 101–303][/us/pl/101/303], § 1(c), May 29, 1990, [104 Stat. 250][/us/stat/104/250], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall take effect on the date of enactment of this Act \[May 29, 1990\]. Any annuitant whose enrollment was terminated at any time before such date on account of such annuitant’s annuity being insufficient to cover the amount of the required withholdings may, under regulations prescribed by the Office of Personnel Management, be prospectively reinstated in any available health benefits plan upon application of the annuitant.”
 
  __Effective Date of 1989 Amendment__ 
 
-[Pub. L. 101–239, title IV, § 4003(b)][/us/pl/101/239/s4003/b], Dec. 19, 1989, [103 Stat. 2135][/us/stat/103/2135], provided that: 
+[Pub. L. 101–239, title IV][/us/pl/101/239/tIV], § 4003(b), Dec. 19, 1989, [103 Stat. 2135][/us/stat/103/2135], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall take effect on October 1, 1989, and shall apply with respect to amounts payable for periods beginning on or after that date.”
 
@@ -373,23 +373,23 @@ July 18, 1966, Pub. L. 89–504, §§ 406(b), 602, 80 Stat. 298, 303.  </td>
 
  __Effective Date of 1974 Amendment__ 
 
-[Pub. L. 93–246, § 4(a)][/us/pl/93/246/s4/a], Jan. 31, 1974, [88 Stat. 4][/us/stat/88/4], provided that: 
+[Pub. L. 93–246][/us/pl/93/246], § 4(a), Jan. 31, 1974, [88 Stat. 4][/us/stat/88/4], provided that: 
 
 > “The first section of this Act \[amending this section\] shall take effect on the first day of the first applicable pay period which begins on or after January 1, 1974.”
 
-[Pub. L. 93–246, § 4(d)][/us/pl/93/246/s4/d], Jan. 31, 1974, [88 Stat. 4][/us/stat/88/4], provided that: 
+[Pub. L. 93–246][/us/pl/93/246], § 4(d), Jan. 31, 1974, [88 Stat. 4][/us/stat/88/4], provided that: 
 
 > “The determination of the average of subscription charges and the adjustment of the Government contributions for 1973, under [section 8906 of title 5][/us/usc/t5/s8906], United States Code, as amended by the first section of this Act \[amending this section\], shall take effect on the first day of the first applicable pay period which begins on or after the thirtieth day following the date of enactment of this Act \[Jan. 31, 1974\].”
 
  __Effective Date of 1970 Amendment__ 
 
-[Pub. L. 91–418, § 1(b)][/us/pl/91/418/s1/b], Sept. 25, 1970, [84 Stat. 869][/us/stat/84/869], provided that: 
+[Pub. L. 91–418][/us/pl/91/418], § 1(b), Sept. 25, 1970, [84 Stat. 869][/us/stat/84/869], provided that: 
 
 > “The amendment made by subsection (a) of this section \[amending this section\] shall become effective at the beginning of the first applicable pay period which commences after December 31, 1970.”
 
  __Payments by Postal Service Relating to Corrected Calculations for Past Health Benefits__ 
 
-[Pub. L. 103–66, title XI, § 11101(b)][/us/pl/103/66/s11101/b], Aug. 10, 1993, [107 Stat. 413][/us/stat/107/413], provided that: 
+[Pub. L. 103–66, title XI][/us/pl/103/66/tXI], § 11101(b), Aug. 10, 1993, [107 Stat. 413][/us/stat/107/413], provided that: 
 
 > “In addition to any other payments required under [section 8906(g)(2) of title 5][/us/usc/t5/s8906/g/2], United States Code, or any other provision of law, the United States Postal Service shall pay into the Employees Health Benefits Fund a total of $348,000,000, of which—
 
@@ -401,7 +401,7 @@ July 18, 1966, Pub. L. 89–504, §§ 406(b), 602, 80 Stat. 298, 303.  </td>
 
  __Computation of Government Contributions to Federal Employees Health Benefits Program for 1990 Through 1993__ 
 
-[Pub. L. 101–76][/us/pl/101/76], Aug. 11, 1989, [103 Stat. 556][/us/stat/103/556], as amended by [Pub. L. 101–508, title VII, § 7002(e)][/us/pl/101/508/s7002/e], Nov. 5, 1990, [104 Stat. 1388–330][/us/stat/104/1388-330]; [Pub. L. 103–66, title XI, § 11005][/us/pl/103/66/s11005], Aug. 10, 1993, [107 Stat. 412][/us/stat/107/412], provided: 
+[Pub. L. 101–76][/us/pl/101/76], Aug. 11, 1989, [103 Stat. 556][/us/stat/103/556], as amended by [Pub. L. 101–508, title VII][/us/pl/101/508/tVII], § 7002(e), Nov. 5, 1990, [104 Stat. 1388–330][/us/stat/104/1388-330]; [Pub. L. 103–66, title XI][/us/pl/103/66/tXI], § 11005, Aug. 10, 1993, [107 Stat. 412][/us/stat/107/412], provided: 
 
 >     “That 
 
@@ -433,17 +433,17 @@ July 18, 1966, Pub. L. 89–504, §§ 406(b), 602, 80 Stat. 298, 303.  </td>
 
  __Contributions by United States Postal Service to Employees Health Benefits Fund__ 
 
-    [Pub. L. 100–203, title VI, § 6003][/us/pl/100/203/s6003], Dec. 22, 1987, [101 Stat. 1330–277][/us/stat/101/1330-277], directed Postal Service to pay $160,000,000 in fiscal year 1988 and $270,000,000 in fiscal year 1989 into Employee Health Benefits Fund in addition to any amount deposited into Fund pursuant to this section in each such fiscal year.
+    [Pub. L. 100–203, title VI][/us/pl/100/203/tVI], § 6003, Dec. 22, 1987, [101 Stat. 1330–277][/us/stat/101/1330-277], directed Postal Service to pay $160,000,000 in fiscal year 1988 and $270,000,000 in fiscal year 1989 into Employee Health Benefits Fund in addition to any amount deposited into Fund pursuant to this section in each such fiscal year.
 
  __Employees Serving on Part-Time Career Employment Basis on__  __October 10, 1978__ 
 
-[Pub. L. 95–437, § 4(c)(2)(B)][/us/pl/95/437/s4/c/2/B], Oct. 10, 1978, [92 Stat. 1059][/us/stat/92/1059], provided that: 
+[Pub. L. 95–437][/us/pl/95/437], § 4(c)(2)(B), Oct. 10, 1978, [92 Stat. 1059][/us/stat/92/1059], provided that: 
 
 > “The amendments made by subparagraph (A) \[amending subsec. (b)(1) and (3) of this section\] shall not apply with respect to any employee serving in a position on a part-time career employment basis on the date of the enactment of this Act \[Oct. 10, 1978\] for such period as the employee continues to serve without a break in service in that or any other position on such part-time basis.”
 
  __Calculation and Payment by Government of Contributions to Contingency Reserves of All Health Benefit Plans__ 
 
-    [Pub. L. 97–346, § 4][/us/pl/97/346/s4], Oct. 15, 1982, [96 Stat. 1650][/us/stat/96/1650], directed Office of Personnel Management to determine amount by which Government contribution under [5 U.S.C. 8906(b)][/us/usc/t5/s8906/b] for the 1983 contract year was less than the Government contribution which would have been determined under such section for such contract year if Government contribution had been calculated by using the two employee organization plans which in 1981 satisfied the standard set forth in [5 U.S.C. 8906(a)(3)][/us/usc/t5/s8906/a/3] directed Government to pay amount of difference thus determined to contingency reserves of all health benefits plans for contract year 1983 in proportion to estimated number of individuals enrolled in such plans during 1983, and directed such payments be paid by appropriate agencies (including Postal Service and Postal Rate Commission) from appropriations referred to in [5 U.S.C. 8906(f)][/us/usc/t5/s8906/f] and (g) in same manner as if such payments were Government contributions, and in amounts determined appropriate by Office of Personnel Management.
+    [Pub. L. 97–346][/us/pl/97/346], § 4, Oct. 15, 1982, [96 Stat. 1650][/us/stat/96/1650], directed Office of Personnel Management to determine amount by which Government contribution under [5 U.S.C. 8906(b)][/us/usc/t5/s8906/b] for the 1983 contract year was less than the Government contribution which would have been determined under such section for such contract year if Government contribution had been calculated by using the two employee organization plans which in 1981 satisfied the standard set forth in [5 U.S.C. 8906(a)(3)][/us/usc/t5/s8906/a/3] directed Government to pay amount of difference thus determined to contingency reserves of all health benefits plans for contract year 1983 in proportion to estimated number of individuals enrolled in such plans during 1983, and directed such payments be paid by appropriate agencies (including Postal Service and Postal Rate Commission) from appropriations referred to in [5 U.S.C. 8906(f)][/us/usc/t5/s8906/f] and (g) in same manner as if such payments were Government contributions, and in amounts determined appropriate by Office of Personnel Management.
 
  __Election of Health Benefits During Period of Service as Officer or Employee of an Employee Organization; Contributions Into Employees Health Benefits Fund; Non-Election; Regulations__ 
 
@@ -464,45 +464,45 @@ July 18, 1966, Pub. L. 89–504, §§ 406(b), 602, 80 Stat. 298, 303.  </td>
 [/us/usc/t10/s1108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1108
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F604
-[/us/pl/90/83/s1/96]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83%2Fs1%2F96
+[/us/pl/90/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83
 [/us/stat/81/219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F219
-[/us/pl/91/418/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F418%2Fs1%2Fa
+[/us/pl/91/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F418
 [/us/stat/84/869]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F869
-[/us/pl/93/246/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F246%2Fs1
+[/us/pl/93/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F246
 [/us/stat/88/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F3
-[/us/pl/94/310/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F310%2Fs3%2Fa
+[/us/pl/94/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F310
 [/us/stat/90/687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F687
-[/us/pl/95/437/s4/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F437%2Fs4%2Fc%2F2%2FA
+[/us/pl/95/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F437
 [/us/stat/92/1059]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1059
-[/us/pl/95/454/s906/a/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs906%2Fa%2F15
+[/us/pl/95/454/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtIX
 [/us/stat/92/1226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1226
-[/us/pl/96/54/s2/a/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F54%2Fs2%2Fa%2F53
+[/us/pl/96/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F54
 [/us/stat/93/384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F384
-[/us/pl/99/272/s15202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs15202%2Fb
+[/us/pl/99/272/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2FtXV
 [/us/stat/100/334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F334
-[/us/pl/101/239/s4003/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs4003%2Fa
+[/us/pl/101/239/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtIV
 [/us/stat/103/2135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2135
-[/us/pl/101/303/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F303%2Fs1%2Fa
+[/us/pl/101/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F303
 [/us/stat/104/250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F250
-[/us/pl/101/508/s7102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs7102%2Fa
+[/us/pl/101/508/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtVII
 [/us/stat/104/1388-333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-333
-[/us/pl/102/378/s2/78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378%2Fs2%2F78
+[/us/pl/102/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378
 [/us/stat/106/1355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1355
-[/us/pl/104/186/s215/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2Fs215%2F19
+[/us/pl/104/186/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2FtII
 [/us/stat/110/1747]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1747
-[/us/pl/104/208/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Ff
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009-314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-314
-[/us/pl/105/33/s7002/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs7002%2Fa
+[/us/pl/105/33/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2FtVII
 [/us/stat/111/662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F662
-[/us/pl/105/261/s721/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs721%2Fb%2F2
+[/us/pl/105/261/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdA%2FtVII
 [/us/stat/112/2065]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2065
-[/us/pl/107/107/s519/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs519%2Fa
+[/us/pl/107/107/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtV
 [/us/stat/115/1096]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1096
-[/us/pl/108/375/s1101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs1101%2Fb
+[/us/pl/108/375/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtXI
 [/us/stat/118/2072]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2072
-[/us/pl/109/435/s803/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2Fs803%2Fa%2F1%2FA
+[/us/pl/109/435/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2FtVIII
 [/us/stat/120/3251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3251
-[/us/pl/113/67/s706/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs706%2Fc
+[/us/pl/113/67/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2FdA%2FtVII
 [/us/stat/127/1194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1194
 [/us/usc/t5/s8901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8901
 [/us/usc/t5/s8901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8901
@@ -510,36 +510,36 @@ July 18, 1966, Pub. L. 89–504, §§ 406(b), 602, 80 Stat. 298, 303.  </td>
 [/us/pl/113/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67
 [/us/pl/109/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435
 [/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
-[/us/pl/107/107/s519/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs519%2Fa
-[/us/pl/107/107/s519/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs519%2Fb
-[/us/pl/105/261/s721/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs721%2Fb%2F2%2FA
-[/us/pl/105/261/s721/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs721%2Fb%2F2%2FB
-[/us/pl/105/261/s721/b/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs721%2Fb%2F3%2FA
-[/us/pl/105/261/s721/b/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs721%2Fb%2F3%2FB
+[/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
+[/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
+[/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
+[/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
+[/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
+[/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
 [/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
 [/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
 [/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/pl/104/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186
-[/us/pl/102/378/s2/78/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378%2Fs2%2F78%2FA
-[/us/pl/102/378/s2/78/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378%2Fs2%2F78%2FB
-[/us/pl/101/303/s1/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F303%2Fs1%2Fb%2F1
-[/us/pl/101/303/s1/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F303%2Fs1%2Fb%2F2
+[/us/pl/102/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378
+[/us/pl/102/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378
+[/us/pl/101/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F303
+[/us/pl/101/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F303
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
-[/us/pl/101/303/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F303%2Fs1%2Fa
+[/us/pl/101/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F303
 [/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
 [/us/pl/99/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272
 [/us/pl/96/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F54
-[/us/pl/95/454/s906/a/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs906%2Fa%2F15
-[/us/pl/95/437/s4/c/2/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F437%2Fs4%2Fc%2F2%2FA%2Fi
-[/us/pl/95/454/s906/a/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs906%2Fa%2F15
-[/us/pl/95/437/s4/c/2/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F437%2Fs4%2Fc%2F2%2FA%2Fii
-[/us/pl/95/454/s906/a/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs906%2Fa%2F15
+[/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454
+[/us/pl/95/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F437
+[/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454
+[/us/pl/95/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F437
+[/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454
 [/us/pl/94/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F310
-[/us/pl/93/246/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F246%2Fs1%2Fa
-[/us/pl/93/246/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F246%2Fs1%2Fa
-[/us/pl/93/246/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F246%2Fs1%2Fa
-[/us/pl/93/246/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F246%2Fs1%2Fb
-[/us/pl/93/246/s1/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F246%2Fs1%2Fc
+[/us/pl/93/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F246
+[/us/pl/93/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F246
+[/us/pl/93/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F246
+[/us/pl/93/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F246
+[/us/pl/93/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F246
 [/us/pl/91/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F418
 [/us/pl/109/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435
 [/us/pl/109/435/s805/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2Fs805%2Fa
@@ -547,15 +547,15 @@ July 18, 1966, Pub. L. 89–504, §§ 406(b), 602, 80 Stat. 298, 303.  </td>
 [/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
 [/us/pl/108/375/s1101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs1101%2Fc
 [/us/usc/t5/s8905a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8905a
-[/us/pl/107/107/s519/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs519%2Fc
+[/us/pl/107/107/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtV
 [/us/stat/115/1096]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1096
-[/us/pl/105/33/s7002/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs7002%2Fb
+[/us/pl/105/33/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2FtVII
 [/us/stat/111/662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F662
-[/us/pl/101/508/s7102/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs7102%2Fc
+[/us/pl/101/508/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtVII
 [/us/stat/104/1388-333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-333
-[/us/pl/101/303/s1/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F303%2Fs1%2Fc
+[/us/pl/101/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F303
 [/us/stat/104/250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F250
-[/us/pl/101/239/s4003/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs4003%2Fb
+[/us/pl/101/239/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtIV
 [/us/stat/103/2135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2135
 [/us/pl/96/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F54
 [/us/pl/96/54/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F54%2Fs2%2Fb
@@ -566,28 +566,28 @@ July 18, 1966, Pub. L. 89–504, §§ 406(b), 602, 80 Stat. 298, 303.  </td>
 [/us/pl/94/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F310
 [/us/pl/94/310/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F310%2Fs4
 [/us/usc/t2/s4503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4503
-[/us/pl/93/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F246%2Fs4%2Fa
+[/us/pl/93/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F246
 [/us/stat/88/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F4
-[/us/pl/93/246/s4/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F246%2Fs4%2Fd
+[/us/pl/93/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F246
 [/us/stat/88/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F4
 [/us/usc/t5/s8906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8906
-[/us/pl/91/418/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F418%2Fs1%2Fb
+[/us/pl/91/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F418
 [/us/stat/84/869]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F869
-[/us/pl/103/66/s11101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs11101%2Fb
+[/us/pl/103/66/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2FtXI
 [/us/stat/107/413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F413
 [/us/usc/t5/s8906/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8906%2Fg%2F2
 [/us/pl/101/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F76
 [/us/stat/103/556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F556
-[/us/pl/101/508/s7002/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs7002%2Fe
+[/us/pl/101/508/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtVII
 [/us/stat/104/1388-330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-330
-[/us/pl/103/66/s11005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs11005
+[/us/pl/103/66/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2FtXI
 [/us/stat/107/412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F412
 [/us/usc/t5/s8906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8906
-[/us/pl/100/203/s6003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs6003
+[/us/pl/100/203/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtVI
 [/us/stat/101/1330-277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-277
-[/us/pl/95/437/s4/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F437%2Fs4%2Fc%2F2%2FB
+[/us/pl/95/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F437
 [/us/stat/92/1059]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1059
-[/us/pl/97/346/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F346%2Fs4
+[/us/pl/97/346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F346
 [/us/stat/96/1650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1650
 [/us/usc/t5/s8906/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8906%2Fb
 [/us/usc/t5/s8906/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8906%2Fa%2F3

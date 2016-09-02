@@ -27,7 +27,7 @@
 
     (b) This subchapter applies to a volunteer in service to America who receives either a living allowance or a stipend under part A of subchapter VIII of chapter 34 of title 42, with respect to that service and training, to the same extent as enrollees of the Job Corps under subsection (a) of this section. However, for the purpose of the computation described in subsection (a)(1) of this section, the monthly pay of a volunteer is deemed that received at the minimum rate for GS–5 of the General Schedule under [section 5332 of title 5][/us/usc/t5/s5332], United States Code.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 553][/us/stat/80/553]; [Pub. L. 90–83, § 1(65)][/us/pl/90/83/s1/65], Sept. 11, 1967, [81 Stat. 212][/us/stat/81/212]; [Pub. L. 90–623, § 1(19)][/us/pl/90/623/s1/19], Oct. 22, 1968, [82 Stat. 1313][/us/stat/82/1313]; [Pub. L. 93–416, § 8(b)][/us/pl/93/416/s8/b], Sept. 7, 1974, [88 Stat. 1145][/us/stat/88/1145]; [Pub. L. 103–82, title III, § 384][/us/pl/103/82/s384], Sept. 21, 1993, [107 Stat. 915][/us/stat/107/915].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 553][/us/stat/80/553]; [Pub. L. 90–83][/us/pl/90/83], § 1(65), Sept. 11, 1967, [81 Stat. 212][/us/stat/81/212]; [Pub. L. 90–623][/us/pl/90/623], § 1(19), Oct. 22, 1968, [82 Stat. 1313][/us/stat/82/1313]; [Pub. L. 93–416][/us/pl/93/416], § 8(b), Sept. 7, 1974, [88 Stat. 1145][/us/stat/88/1145]; [Pub. L. 103–82, title III][/us/pl/103/82/tIII], § 384, Sept. 21, 1993, [107 Stat. 915][/us/stat/107/915].)
 
 <table>
 
@@ -187,7 +187,7 @@ Nov. 8, 1966, Pub. L. 89–794, § 801 “Sec. 804(b) (as applicable to § 1
 
  __References in Text__ 
 
-    Part A of subchapter VIII of chapter 34 of title 42, referred to in subsec. (b), is part A of title VIII of [Pub. L. 88–452][/us/pl/88/452], Aug. 20, 1964, [73 Stat. 508][/us/stat/73/508], as amended, known as the Economic Opportunity Act of 1964. Part A of title VIII of that Act, as added by [Pub. L. 90–222, title I, § 110][/us/pl/90/222/s110], Dec. 23, 1967, [81 Stat. 722][/us/stat/81/722], was classified generally to part A (§ 2992 et seq.) of subchapter VIII of chapter 34 of Title 42, The Public Health and Welfare, prior to its repeal by [Pub. L. 93–113, title VI, § 603][/us/pl/93/113/s603], Oct. 1, 1973, [87 Stat. 417][/us/stat/87/417]. See sections 4951 et seq. and 5055 of Title 42.
+    Part A of subchapter VIII of chapter 34 of title 42, referred to in subsec. (b), is part A of title VIII of [Pub. L. 88–452][/us/pl/88/452], Aug. 20, 1964, [73 Stat. 508][/us/stat/73/508], as amended, known as the Economic Opportunity Act of 1964. Part A of title VIII of that Act, as added by [Pub. L. 90–222, title I][/us/pl/90/222/tI], § 110, Dec. 23, 1967, [81 Stat. 722][/us/stat/81/722], was classified generally to part A (§ 2992 et seq.) of subchapter VIII of chapter 34 of Title 42, The Public Health and Welfare, prior to its repeal by [Pub. L. 93–113, title VI][/us/pl/93/113/tVI], § 603, Oct. 1, 1973, [87 Stat. 417][/us/stat/87/417]. See sections 4951 et seq. and 5055 of Title 42.
 
  __Amendments__ 
 
@@ -220,13 +220,13 @@ Nov. 8, 1966, Pub. L. 89–794, § 801 “Sec. 804(b) (as applicable to § 1
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F553
-[/us/pl/90/83/s1/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83%2Fs1%2F65
+[/us/pl/90/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83
 [/us/stat/81/212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F212
-[/us/pl/90/623/s1/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F623%2Fs1%2F19
+[/us/pl/90/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F623
 [/us/stat/82/1313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1313
-[/us/pl/93/416/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F416%2Fs8%2Fb
+[/us/pl/93/416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F416
 [/us/stat/88/1145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1145
-[/us/pl/103/82/s384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs384
+[/us/pl/103/82/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2FtIII
 [/us/stat/107/915]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F915
 [/us/usc/t5/s1071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs1071
 [/us/usc/t1/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft1%2Fs1
@@ -234,9 +234,9 @@ Nov. 8, 1966, Pub. L. 89–794, § 801 “Sec. 804(b) (as applicable to § 1
 [/us/usc/t42/s2712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2712
 [/us/pl/88/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F452
 [/us/stat/73/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F508
-[/us/pl/90/222/s110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F222%2Fs110
+[/us/pl/90/222/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F222%2FtI
 [/us/stat/81/722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F722
-[/us/pl/93/113/s603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F113%2Fs603
+[/us/pl/93/113/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F113%2FtVI
 [/us/stat/87/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F417
 [/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332

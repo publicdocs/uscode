@@ -105,7 +105,7 @@
 
             (C) the position is at the same grade or equivalent level as the position from which the individual was separated under [section 709(e)(1) of title 32][/us/usc/t32/s709/e/1] or [section 10216 of title 10][/us/usc/t10/s10216].
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 572][/us/stat/80/572]; [Pub. L. 90–83, § 1(76)][/us/pl/90/83/s1/76], Sept. 11, 1967, [81 Stat. 214][/us/stat/81/214]; [Pub. L. 95–454, title IX, § 906(a)(2)][/us/pl/95/454/s906/a/2], (3), Oct. 13, 1978, [92 Stat. 1224][/us/stat/92/1224]; [Pub. L. 96–499, title IV, § 403(a)][/us/pl/96/499/s403/a], Dec. 5, 1980, [94 Stat. 2605][/us/stat/94/2605]; [Pub. L. 97–253, title III, § 302(a)][/us/pl/97/253/s302/a], Sept. 8, 1982, [96 Stat. 792][/us/stat/96/792]; [Pub. L. 98–94, title XII, § 1256(c)][/us/pl/98/94/s1256/c], Sept. 24, 1983, [97 Stat. 701][/us/stat/97/701]; [Pub. L. 100–238, title I, § 124(a)(1)(A)][/us/pl/100/238/s124/a/1/A], Jan. 8, 1988, [101 Stat. 1755][/us/stat/101/1755]; [Pub. L. 101–189, div. A, title XIII, § 1304(b)(2)][/us/pl/101/189/s1304/b/2], Nov. 29, 1989, [103 Stat. 1577][/us/stat/103/1577]; [Pub. L. 101–428, § 2(d)(1)][/us/pl/101/428/s2/d/1], Oct. 15, 1990, [104 Stat. 929][/us/stat/104/929]; [Pub. L. 102–378, § 2(61)][/us/pl/102/378/s2/61], Oct. 2, 1992, [106 Stat. 1354][/us/stat/106/1354]; [Pub. L. 103–337, div. A, title IX, § 924(d)(1)(A)][/us/pl/103/337/s924/d/1/A], Oct. 5, 1994, [108 Stat. 2832][/us/stat/108/2832]; [Pub. L. 105–61, title V, § 516(a)(2)][/us/pl/105/61/s516/a/2], Oct. 10, 1997, [111 Stat. 1306][/us/stat/111/1306]; [Pub. L. 106–65, div. A, title V, § 522(d)][/us/pl/106/65/s522/d], Oct. 5, 1999, [113 Stat. 597][/us/stat/113/597]; [Pub. L. 106–553, § 1(a)(2)][/us/pl/106/553/s1/a/2] \[title III, § 308(h)(1)\], Dec. 21, 2000, [114 Stat. 2762][/us/stat/114/2762], 2762A–88.)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 572][/us/stat/80/572]; [Pub. L. 90–83][/us/pl/90/83], § 1(76), Sept. 11, 1967, [81 Stat. 214][/us/stat/81/214]; [Pub. L. 95–454, title IX][/us/pl/95/454/tIX], § 906(a)(2), (3), Oct. 13, 1978, [92 Stat. 1224][/us/stat/92/1224]; [Pub. L. 96–499, title IV][/us/pl/96/499/tIV], § 403(a), Dec. 5, 1980, [94 Stat. 2605][/us/stat/94/2605]; [Pub. L. 97–253, title III][/us/pl/97/253/tIII], § 302(a), Sept. 8, 1982, [96 Stat. 792][/us/stat/96/792]; [Pub. L. 98–94, title XII][/us/pl/98/94/tXII], § 1256(c), Sept. 24, 1983, [97 Stat. 701][/us/stat/97/701]; [Pub. L. 100–238, title I][/us/pl/100/238/tI], § 124(a)(1)(A), Jan. 8, 1988, [101 Stat. 1755][/us/stat/101/1755]; [Pub. L. 101–189, div. A, title XIII][/us/pl/101/189/dA/tXIII], § 1304(b)(2), Nov. 29, 1989, [103 Stat. 1577][/us/stat/103/1577]; [Pub. L. 101–428][/us/pl/101/428], § 2(d)(1), Oct. 15, 1990, [104 Stat. 929][/us/stat/104/929]; [Pub. L. 102–378][/us/pl/102/378], § 2(61), Oct. 2, 1992, [106 Stat. 1354][/us/stat/106/1354]; [Pub. L. 103–337, div. A, title IX][/us/pl/103/337/dA/tIX], § 924(d)(1)(A), Oct. 5, 1994, [108 Stat. 2832][/us/stat/108/2832]; [Pub. L. 105–61, title V][/us/pl/105/61/tV], § 516(a)(2), Oct. 10, 1997, [111 Stat. 1306][/us/stat/111/1306]; [Pub. L. 106–65, div. A, title V][/us/pl/106/65/dA/tV], § 522(d), Oct. 5, 1999, [113 Stat. 597][/us/stat/113/597]; [Pub. L. 106–553][/us/pl/106/553], § 1(a)(2) \[title III, § 308(h)(1)\], Dec. 21, 2000, [114 Stat. 2762][/us/stat/114/2762], 2762A–88.)
 
 <table>
 
@@ -177,11 +177,11 @@ Oct. 4, 1961, Pub. L. 87–350, § 4(a), 75 Stat. 771.  </td>
 
     2000—Subsec. (a). [Pub. L. 106–553][/us/pl/106/553] substituted “8339(a) through (e), (n), (q), (r), or (s)” for “8339(a)–(e), (n), (q), or (r)” in last sentence.
 
-    1999—Subsec. (h)(1). [Pub. L. 106–65, § 522(d)(1)][/us/pl/106/65/s522/d/1], inserted “or [section 10216 of title 10][/us/usc/t10/s10216]” after “title 32” and substituted “title 32 or [section 10216 of title 10][/us/usc/t10/s10216], respectively, to be a member of the Selected Reserve.” for “such title to be a member of the National Guard and to hold a specified military grade.”
+    1999—Subsec. (h)(1). [Pub. L. 106–65][/us/pl/106/65], § 522(d)(1), inserted “or [section 10216 of title 10][/us/usc/t10/s10216]” after “title 32” and substituted “title 32 or [section 10216 of title 10][/us/usc/t10/s10216], respectively, to be a member of the Selected Reserve.” for “such title to be a member of the National Guard and to hold a specified military grade.”
 
-    Subsec. (h)(2)(A)(i). [Pub. L. 106–65, § 522(d)(2)][/us/pl/106/65/s522/d/2], inserted “or [section 10216 of title 10][/us/usc/t10/s10216]” after “title 32” and substituted “Selected Reserve” for “National Guard or from holding the military grade required for such employment”.
+    Subsec. (h)(2)(A)(i). [Pub. L. 106–65][/us/pl/106/65], § 522(d)(2), inserted “or [section 10216 of title 10][/us/usc/t10/s10216]” after “title 32” and substituted “Selected Reserve” for “National Guard or from holding the military grade required for such employment”.
 
-    Subsec. (h)(3)(C). [Pub. L. 106–65, § 522(d)(3)][/us/pl/106/65/s522/d/3], inserted “or [section 10216 of title 10][/us/usc/t10/s10216]” after “title 32”.
+    Subsec. (h)(3)(C). [Pub. L. 106–65][/us/pl/106/65], § 522(d)(3), inserted “or [section 10216 of title 10][/us/usc/t10/s10216]” after “title 32”.
 
     1997—Subsec. (a). [Pub. L. 105–61][/us/pl/105/61] substituted “(q), or (r)” for “or (q)”.
 
@@ -205,9 +205,9 @@ Oct. 4, 1961, Pub. L. 87–350, § 4(a), 75 Stat. 771.  </td>
 
     1983—Subsec. (a). [Pub. L. 98–94][/us/pl/98/94] inserted provision that a judge of the United States Court of Military Appeals who completes 5 years of civilian service and who is found by the Office to be disabled for useful and efficient service as a judge of such court or who is removed for mental or physical disability under [section 867(a)(2) of title 10][/us/usc/t10/s867/a/2] shall be retired on the judge’s own application or upon such removal.
 
-    1982—Subsec. (d). [Pub. L. 97–253, § 302(a)(1)][/us/pl/97/253/s302/a/1], (2), substituted “180 days” for “1 year” in provision relating to restoration of an annuitant to an earning capacity fairly comparable to the current rate of pay of the position occupied at the time of retirement, and “any calendar year” for “each of 2 succeeding calendar years”.
+    1982—Subsec. (d). [Pub. L. 97–253][/us/pl/97/253], § 302(a)(1), (2), substituted “180 days” for “1 year” in provision relating to restoration of an annuitant to an earning capacity fairly comparable to the current rate of pay of the position occupied at the time of retirement, and “any calendar year” for “each of 2 succeeding calendar years”.
 
-    Subsec. (h). [Pub. L. 97–253, § 302(a)(3)][/us/pl/97/253/s302/a/3], added subsec. (h).
+    Subsec. (h). [Pub. L. 97–253][/us/pl/97/253], § 302(a)(3), added subsec. (h).
 
     1980—Subsec. (a). [Pub. L. 96–499][/us/pl/96/499] provided that an employee was to be considered disabled only if the employee were found by the Office of Personnel Management to be unable to render useful and efficient service in the employee’s position and was not qualified for reassignment to a vacant position in the agency at the same grade or level and provided that an employee in the Postal Service was to be considered not qualified for such reassignment if such reassignment were to a position in a different craft or were inconsistent with the terms of the appropriate collective bargaining agreement.
 
@@ -235,7 +235,7 @@ Oct. 4, 1961, Pub. L. 87–350, § 4(a), 75 Stat. 771.  </td>
 
  __Effective Date of 1982 Amendment__ 
 
-[Section 302(c) of Pub. L. 97–253][/us/pl/97/253/s302/c], as amended by [Pub. L. 97–346, § 3(i)][/us/pl/97/346/s3/i], Oct. 15, 1982, [96 Stat. 1649][/us/stat/96/1649], provided that:
+[Section 302(c) of Pub. L. 97–253][/us/pl/97/253/s302/c], as amended by [Pub. L. 97–346][/us/pl/97/346], § 3(i), Oct. 15, 1982, [96 Stat. 1649][/us/stat/96/1649], provided that:
 
 >     “(1) Except as provided in paragraphs (2) and (3), the amendments made by subsections (a) and (b) \[amending this section and [section 8347 of this title][/us/usc/t5/s8347]\] shall take effective October 1, 1982.
 
@@ -270,41 +270,41 @@ Oct. 4, 1961, Pub. L. 87–350, § 4(a), 75 Stat. 771.  </td>
 [/us/usc/t10/s10216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs10216
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F572
-[/us/pl/90/83/s1/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83%2Fs1%2F76
+[/us/pl/90/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83
 [/us/stat/81/214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F214
-[/us/pl/95/454/s906/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs906%2Fa%2F2
+[/us/pl/95/454/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtIX
 [/us/stat/92/1224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1224
-[/us/pl/96/499/s403/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F499%2Fs403%2Fa
+[/us/pl/96/499/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F499%2FtIV
 [/us/stat/94/2605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2605
-[/us/pl/97/253/s302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F253%2Fs302%2Fa
+[/us/pl/97/253/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F253%2FtIII
 [/us/stat/96/792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F792
-[/us/pl/98/94/s1256/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94%2Fs1256%2Fc
+[/us/pl/98/94/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94%2FtXII
 [/us/stat/97/701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F701
-[/us/pl/100/238/s124/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F238%2Fs124%2Fa%2F1%2FA
+[/us/pl/100/238/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F238%2FtI
 [/us/stat/101/1755]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1755
-[/us/pl/101/189/s1304/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs1304%2Fb%2F2
+[/us/pl/101/189/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdA%2FtXIII
 [/us/stat/103/1577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1577
-[/us/pl/101/428/s2/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F428%2Fs2%2Fd%2F1
+[/us/pl/101/428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F428
 [/us/stat/104/929]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F929
-[/us/pl/102/378/s2/61]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378%2Fs2%2F61
+[/us/pl/102/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378
 [/us/stat/106/1354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1354
-[/us/pl/103/337/s924/d/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs924%2Fd%2F1%2FA
+[/us/pl/103/337/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtIX
 [/us/stat/108/2832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2832
-[/us/pl/105/61/s516/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F61%2Fs516%2Fa%2F2
+[/us/pl/105/61/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F61%2FtV
 [/us/stat/111/1306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1306
-[/us/pl/106/65/s522/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs522%2Fd
+[/us/pl/106/65/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtV
 [/us/stat/113/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F597
-[/us/pl/106/553/s1/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F553%2Fs1%2Fa%2F2
+[/us/pl/106/553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F553
 [/us/stat/114/2762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2762
 [/us/act/1930-05-29/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-05-29%2Fs6
 [/us/usc/t5/s8337/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8337%2Fe
 [/us/pl/106/553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F553
-[/us/pl/106/65/s522/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs522%2Fd%2F1
+[/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
 [/us/usc/t10/s10216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs10216
 [/us/usc/t10/s10216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs10216
-[/us/pl/106/65/s522/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs522%2Fd%2F2
+[/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
 [/us/usc/t10/s10216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs10216
-[/us/pl/106/65/s522/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs522%2Fd%2F3
+[/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
 [/us/usc/t10/s10216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs10216
 [/us/pl/105/61]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F61
 [/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
@@ -319,8 +319,8 @@ Oct. 4, 1961, Pub. L. 87–350, § 4(a), 75 Stat. 771.  </td>
 [/us/usc/t5/s8135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8135
 [/us/pl/98/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94
 [/us/usc/t10/s867/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs867%2Fa%2F2
-[/us/pl/97/253/s302/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F253%2Fs302%2Fa%2F1
-[/us/pl/97/253/s302/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F253%2Fs302%2Fa%2F3
+[/us/pl/97/253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F253
+[/us/pl/97/253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F253
 [/us/pl/96/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F499
 [/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454
 [/us/pl/106/553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F553
@@ -334,7 +334,7 @@ Oct. 4, 1961, Pub. L. 87–350, § 4(a), 75 Stat. 771.  </td>
 [/us/usc/t5/s8457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8457
 [/us/usc/t5/s8456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8456
 [/us/pl/97/253/s302/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F253%2Fs302%2Fc
-[/us/pl/97/346/s3/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F346%2Fs3%2Fi
+[/us/pl/97/346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F346
 [/us/stat/96/1649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1649
 [/us/usc/t5/s8347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8347
 [/us/usc/t5/s8337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8337

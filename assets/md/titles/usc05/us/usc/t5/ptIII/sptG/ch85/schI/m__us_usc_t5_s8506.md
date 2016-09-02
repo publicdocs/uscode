@@ -31,7 +31,7 @@
 
     (b) The agency administering the unemployment compensation law of a State shall furnish the Secretary such information as he considers necessary or appropriate in carrying out this subchapter. The information is deemed the report required by the Secretary for the purpose of [section 503(a)(6) of title 42][/us/usc/t42/s503/a/6].
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 589][/us/stat/80/589]; [Pub. L. 94–566, title III, § 313(a)][/us/pl/94/566/s313/a], Oct. 20, 1976, [90 Stat. 2680][/us/stat/90/2680].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 589][/us/stat/80/589]; [Pub. L. 94–566, title III][/us/pl/94/566/tIII], § 313(a), Oct. 20, 1976, [90 Stat. 2680][/us/stat/90/2680].)
 
 <table>
 
@@ -119,7 +119,7 @@ Sept. 13, 1960, Pub. L. 86–778, § 531(f), 74 Stat. 984.  </td>
 
  __Effective Date of 1976 Amendment__ 
 
-[Pub. L. 94–566, title III, § 313(b)][/us/pl/94/566/s313/b], Oct. 20, 1976, [90 Stat. 2680][/us/stat/90/2680], provided that: 
+[Pub. L. 94–566, title III][/us/pl/94/566/tIII], § 313(b), Oct. 20, 1976, [90 Stat. 2680][/us/stat/90/2680], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply with respect to findings made after the date of the enactment of this Act \[Oct. 20, 1976\].”
 
@@ -133,10 +133,10 @@ Sept. 13, 1960, Pub. L. 86–778, § 531(f), 74 Stat. 984.  </td>
 [/us/usc/t42/s503/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs503%2Fa%2F6
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F589
-[/us/pl/94/566/s313/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F566%2Fs313%2Fa
+[/us/pl/94/566/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F566%2FtIII
 [/us/stat/90/2680]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2680
 [/us/pl/94/566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F566
-[/us/pl/94/566/s313/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F566%2Fs313%2Fb
+[/us/pl/94/566/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F566%2FtIII
 [/us/stat/90/2680]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2680
 
 

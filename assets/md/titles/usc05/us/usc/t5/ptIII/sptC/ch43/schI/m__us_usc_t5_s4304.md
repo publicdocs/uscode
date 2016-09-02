@@ -25,7 +25,7 @@
 
         (3) If the Office determines that a system does not meet the requirements of this subchapter (including regulations prescribed under section 4305), the Office shall direct the agency to implement an appropriate system or to correct operations under the system, and any such agency shall take any action so required.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 440][/us/stat/80/440]; [Pub. L. 95–454, title II, § 203(a)][/us/pl/95/454/s203/a], Oct. 13, 1978, [92 Stat. 1134][/us/stat/92/1134].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 440][/us/stat/80/440]; [Pub. L. 95–454, title II][/us/pl/95/454/tII], § 203(a), Oct. 13, 1978, [92 Stat. 1134][/us/stat/92/1134].)
 
 <table>
 
@@ -94,7 +94,7 @@ Sept. 30, 1950, ch. 1123, § 6, 64 Stat. 1099.  </td>
 
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F440
-[/us/pl/95/454/s203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs203%2Fa
+[/us/pl/95/454/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtII
 [/us/stat/92/1134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1134
 [/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454
 [/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454

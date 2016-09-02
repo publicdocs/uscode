@@ -63,7 +63,7 @@
 
     (d) An employee entitled to a cost-of-living allowance under [section 5924 of this title][/us/usc/t5/s5924] may not be paid an allowance under subsection (a) of this section based on living costs substantially higher than in the District of Columbia.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 512][/us/stat/80/512]; [Pub. L. 111–84, div. A, title XIX, § 1912(b)][/us/pl/111/84/s1912/b], Oct. 28, 2009, [123 Stat. 2620][/us/stat/123/2620].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 512][/us/stat/80/512]; [Pub. L. 111–84, div. A, title XIX][/us/pl/111/84/dA/tXIX], § 1912(b), Oct. 28, 2009, [123 Stat. 2620][/us/stat/123/2620].)
 
 <table>
 
@@ -147,9 +147,9 @@ June 30, 1948, ch. 775, § 104, 62 Stat. 1205.  </td>
 
  __Amendments__ 
 
-    2009—Subsec. (a). [Pub. L. 111–84, § 1912(b)(1)][/us/pl/111/84/s1912/b/1], inserted at end “Notwithstanding any preceding provision of this subsection, the cost-of-living allowance rate based on paragraph (1) shall be the cost-of-living allowance rate in effect on the date of enactment of the Non-Foreign Area Retirement Equity Assurance Act of 2009, except as adjusted under subsection (c).”
+    2009—Subsec. (a). [Pub. L. 111–84][/us/pl/111/84], § 1912(b)(1), inserted at end “Notwithstanding any preceding provision of this subsection, the cost-of-living allowance rate based on paragraph (1) shall be the cost-of-living allowance rate in effect on the date of enactment of the Non-Foreign Area Retirement Equity Assurance Act of 2009, except as adjusted under subsection (c).”
 
-    Subsecs. (b) to (d). [Pub. L. 111–84, § 1912(b)(2)][/us/pl/111/84/s1912/b/2], (3), added subsecs. (b) and (c) and redesignated former subsec. (b) as (d).
+    Subsecs. (b) to (d). [Pub. L. 111–84][/us/pl/111/84], § 1912(b)(2), (3), added subsecs. (b) and (c) and redesignated former subsec. (b) as (d).
 
  __Effective Date of 2009 Amendment__ 
 
@@ -157,7 +157,7 @@ June 30, 1948, ch. 775, § 104, 62 Stat. 1205.  </td>
 
  __Prohibition of Reduction of Allowance; Study and Report on Adjusting Calculation of Geographic Factors__ 
 
-[Pub. L. 102–141, title IV, § 1][/us/pl/102/141/s1], Oct. 28, 1991, [105 Stat. 861][/us/stat/105/861], as amended by [Pub. L. 103–329, title V, § 532][/us/pl/103/329/s532], Sept. 30, 1994, [108 Stat. 2413][/us/stat/108/2413]; [Pub. L. 104–52, title IV, § 5][/us/pl/104/52/s5], Nov. 19, 1995, [109 Stat. 490][/us/stat/109/490]; [Pub. L. 105–61, title V, § 515][/us/pl/105/61/s515], Oct. 10, 1997, [111 Stat. 1306][/us/stat/111/1306], provided that: 
+[Pub. L. 102–141, title IV][/us/pl/102/141/tIV], § 1, Oct. 28, 1991, [105 Stat. 861][/us/stat/105/861], as amended by [Pub. L. 103–329, title V][/us/pl/103/329/tV], § 532, Sept. 30, 1994, [108 Stat. 2413][/us/stat/108/2413]; [Pub. L. 104–52, title IV][/us/pl/104/52/tIV], § 5, Nov. 19, 1995, [109 Stat. 490][/us/stat/109/490]; [Pub. L. 105–61, title V][/us/pl/105/61/tV], § 515, Oct. 10, 1997, [111 Stat. 1306][/us/stat/111/1306], provided that: 
 
 > “The allowances provided to employees at rates set under [section 5941 of title 5][/us/usc/t5/s5941], United States Code, and Executive Order Numbered 10000 \[set out below\] as in effect on the date of the enactment of this Act \[Oct. 28, 1991\] may not be reduced during the period beginning on the date of the enactment of this Act through December 31, 2000: Provided, That no later than March 1, 2000, the Office of Personnel Management shall conduct a study and submit a report to the Congress proposing appropriate changes in the method of fixing compensation for affected employees, including any necessary legislative changes. Such study shall include—
 
@@ -283,7 +283,7 @@ Sec. 109. Additional Living Cost Compensation. No executive department, independ
 [/us/usc/t5/s5924]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5924
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F512
-[/us/pl/111/84/s1912/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs1912%2Fb
+[/us/pl/111/84/dA/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtXIX
 [/us/stat/123/2620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2620
 [/us/pl/86/707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F707
 [/us/stat/74/800-802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F800-802
@@ -291,18 +291,18 @@ Sec. 109. Additional Living Cost Compensation. No executive department, independ
 [/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
 [/us/pl/111/84/s1914]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs1914
 [/us/usc/t5/s5304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5304
-[/us/pl/111/84/s1912/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs1912%2Fb%2F1
-[/us/pl/111/84/s1912/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs1912%2Fb%2F2
+[/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
+[/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
 [/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
 [/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
 [/us/usc/t5/s5304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5304
-[/us/pl/102/141/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F141%2Fs1
+[/us/pl/102/141/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F141%2FtIV
 [/us/stat/105/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F861
-[/us/pl/103/329/s532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F329%2Fs532
+[/us/pl/103/329/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F329%2FtV
 [/us/stat/108/2413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2413
-[/us/pl/104/52/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F52%2Fs5
+[/us/pl/104/52/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F52%2FtIV
 [/us/stat/109/490]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F490
-[/us/pl/105/61/s515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F61%2Fs515
+[/us/pl/105/61/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F61%2FtV
 [/us/stat/111/1306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1306
 [/us/usc/t5/s5941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5941
 [/us/stat/60/1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F1002

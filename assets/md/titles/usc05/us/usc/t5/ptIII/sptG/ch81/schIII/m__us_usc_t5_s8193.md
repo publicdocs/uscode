@@ -61,7 +61,7 @@
 
     There are authorized to be appropriated such sums as may be necessary to carry out this subchapter.
 
-(Added [Pub. L. 90–291, § 1(a)][/us/pl/90/291/s1/a], Apr. 19, 1968, [82 Stat. 99][/us/stat/82/99]; amended [Pub. L. 94–183, § 2(31)][/us/pl/94/183/s2/31], Dec. 31, 1975, [89 Stat. 1058][/us/stat/89/1058].)
+(Added [Pub. L. 90–291][/us/pl/90/291], § 1(a), Apr. 19, 1968, [82 Stat. 99][/us/stat/82/99]; amended [Pub. L. 94–183][/us/pl/94/183], § 2(31), Dec. 31, 1975, [89 Stat. 1058][/us/stat/89/1058].)
 
  __Amendments__ 
 
@@ -78,9 +78,9 @@
 ----------
 ----------
 
-[/us/pl/90/291/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F291%2Fs1%2Fa
+[/us/pl/90/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F291
 [/us/stat/82/99]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F99
-[/us/pl/94/183/s2/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F183%2Fs2%2F31
+[/us/pl/94/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F183
 [/us/stat/89/1058]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F1058
 [/us/pl/94/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F183
 [/us/pl/90/291/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F291%2Fs2

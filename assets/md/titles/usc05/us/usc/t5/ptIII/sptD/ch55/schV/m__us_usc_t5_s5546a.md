@@ -69,21 +69,21 @@
 
         (2) The Administrator and the Secretary may prescribe such rules as he determines are necessary to carry out the provisions of this section.
 
-(Added [Pub. L. 97–276, § 151(c)(1)][/us/pl/97/276/s151/c/1], (d), Oct. 2, 1982, [96 Stat. 1200][/us/stat/96/1200], 1201; amended [Pub. L. 97–377, title I, § 145(a)][/us/pl/97/377/s145/a], formerly § 145, Dec. 21, 1982, [96 Stat. 1917][/us/stat/96/1917], renumbered [Pub. L. 98–78, title III, § 320(1)][/us/pl/98/78/s320/1], Aug. 15, 1983, [97 Stat. 473][/us/stat/97/473]; [Pub. L. 98–525, title XV, § 1537(c)(1)][/us/pl/98/525/s1537/c/1]–(6)(A), Oct. 19, 1984, [98 Stat. 2635][/us/stat/98/2635], 2636.)
+(Added [Pub. L. 97–276][/us/pl/97/276], § 151(c)(1), (d), Oct. 2, 1982, [96 Stat. 1200][/us/stat/96/1200], 1201; amended [Pub. L. 97–377, title I][/us/pl/97/377/tI], § 145(a), formerly § 145, Dec. 21, 1982, [96 Stat. 1917][/us/stat/96/1917], renumbered [Pub. L. 98–78, title III][/us/pl/98/78/tIII], § 320(1), Aug. 15, 1983, [97 Stat. 473][/us/stat/97/473]; [Pub. L. 98–525, title XV][/us/pl/98/525/tXV], § 1537(c)(1)–(6)(A), Oct. 19, 1984, [98 Stat. 2635][/us/stat/98/2635], 2636.)
 
  __Amendments__ 
 
-    1984—[Pub. L. 98–525, § 1537(c)(6)(A)][/us/pl/98/525/s1537/c/6/A], inserted “and the Department of Defense” in section catchline.
+    1984—[Pub. L. 98–525][/us/pl/98/525], § 1537(c)(6)(A), inserted “and the Department of Defense” in section catchline.
 
-    Subsec. (a). [Pub. L. 98–525, § 1537(c)(1)(A)][/us/pl/98/525/s1537/c/1/A], inserted “and the Secretary of Defense (hereafter in this section referred to as the ‘Secretary’)” in provisions preceding par. (1).
+    Subsec. (a). [Pub. L. 98–525][/us/pl/98/525], § 1537(c)(1)(A), inserted “and the Secretary of Defense (hereafter in this section referred to as the ‘Secretary’)” in provisions preceding par. (1).
 
-    Subsec. (a)(1). [Pub. L. 98–525, § 1537(c)(1)(B)][/us/pl/98/525/s1537/c/1/B], inserted “or the Department of Defense” in provisions preceding subpar. (A) and “or the Secretary” in provisions following subpar. (C).
+    Subsec. (a)(1). [Pub. L. 98–525][/us/pl/98/525], § 1537(c)(1)(B), inserted “or the Department of Defense” in provisions preceding subpar. (A) and “or the Secretary” in provisions following subpar. (C).
 
-    Subsec. (a)(2). [Pub. L. 98–525, § 1537(c)(1)(C)][/us/pl/98/525/s1537/c/1/C], inserted “or the Department of Defense” and “or the Secretary”.
+    Subsec. (a)(2). [Pub. L. 98–525][/us/pl/98/525], § 1537(c)(1)(C), inserted “or the Department of Defense” and “or the Secretary”.
 
-    Subsecs. (c)(1), (d), (e)(1), (f)(1). [Pub. L. 98–525, § 1537(c)(2)][/us/pl/98/525/s1537/c/2]–(5)(A), inserted “or the Secretary” after “Administrator” wherever appearing, and “or the Department of Defense” after “Administration” wherever appearing.
+    Subsecs. (c)(1), (d), (e)(1), (f)(1). [Pub. L. 98–525][/us/pl/98/525], § 1537(c)(2)–(5)(A), inserted “or the Secretary” after “Administrator” wherever appearing, and “or the Department of Defense” after “Administration” wherever appearing.
 
-    Subsec. (f)(2). [Pub. L. 98–525, § 1537(c)(5)(B)][/us/pl/98/525/s1537/c/5/B], inserted “and the Secretary”.
+    Subsec. (f)(2). [Pub. L. 98–525][/us/pl/98/525], § 1537(c)(5)(B), inserted “and the Secretary”.
 
     1982—Subsec. (a)(3). [Pub. L. 97–377][/us/pl/97/377] added par. (3).
 
@@ -93,13 +93,13 @@
 
  __Effective Date of 1982 Amendment__ 
 
-[Pub. L. 97–377, title I, § 145(b)][/us/pl/97/377/s145/b], as added by [Pub. L. 98–78, title III, § 320(2)][/us/pl/98/78/s320/2], Aug. 15, 1983, [97 Stat. 473][/us/stat/97/473], provided that: 
+[Pub. L. 97–377, title I][/us/pl/97/377/tI], § 145(b), as added by [Pub. L. 98–78, title III][/us/pl/98/78/tIII], § 320(2), Aug. 15, 1983, [97 Stat. 473][/us/stat/97/473], provided that: 
 
 > “The amendment made by subsection (a) of this section \[amending this section\] shall be effective as of 5 o’clock ante meridian eastern daylight time, August 3, 1981.”
 
  __Effective Date__ 
 
-[Pub. L. 97–276, § 151(h)(1)][/us/pl/97/276/s151/h/1], Oct. 2, 1982, [96 Stat. 1202][/us/stat/96/1202], provided that:
+[Pub. L. 97–276][/us/pl/97/276], § 151(h)(1), Oct. 2, 1982, [96 Stat. 1202][/us/stat/96/1202], provided that:
 
 >     “(1) The amendments made by subsections 152 \[151\] (b), (c), (e), and (g) of this joint resolution \[enacting subsecs. (a) and (b) of this section and amending sections 5532, 5547, and 8344 of this title\] shall take effect at 5 o’clock ante meridian eastern daylight time, August 3, 1981.
 
@@ -112,28 +112,28 @@
 ----------
 ----------
 
-[/us/pl/97/276/s151/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F276%2Fs151%2Fc%2F1
+[/us/pl/97/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F276
 [/us/stat/96/1200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1200
-[/us/pl/97/377/s145/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F377%2Fs145%2Fa
+[/us/pl/97/377/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F377%2FtI
 [/us/stat/96/1917]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1917
-[/us/pl/98/78/s320/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F78%2Fs320%2F1
+[/us/pl/98/78/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F78%2FtIII
 [/us/stat/97/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F473
-[/us/pl/98/525/s1537/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs1537%2Fc%2F1
+[/us/pl/98/525/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2FtXV
 [/us/stat/98/2635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2635
-[/us/pl/98/525/s1537/c/6/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs1537%2Fc%2F6%2FA
-[/us/pl/98/525/s1537/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs1537%2Fc%2F1%2FA
-[/us/pl/98/525/s1537/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs1537%2Fc%2F1%2FB
-[/us/pl/98/525/s1537/c/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs1537%2Fc%2F1%2FC
-[/us/pl/98/525/s1537/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs1537%2Fc%2F2
-[/us/pl/98/525/s1537/c/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs1537%2Fc%2F5%2FB
+[/us/pl/98/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525
+[/us/pl/98/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525
+[/us/pl/98/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525
+[/us/pl/98/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525
+[/us/pl/98/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525
+[/us/pl/98/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525
 [/us/pl/97/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F377
 [/us/pl/98/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525
 [/us/pl/98/525/s1537/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs1537%2Ff
 [/us/usc/t5/s4109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs4109
-[/us/pl/97/377/s145/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F377%2Fs145%2Fb
-[/us/pl/98/78/s320/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F78%2Fs320%2F2
+[/us/pl/97/377/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F377%2FtI
+[/us/pl/98/78/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F78%2FtIII
 [/us/stat/97/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F473
-[/us/pl/97/276/s151/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F276%2Fs151%2Fh%2F1
+[/us/pl/97/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F276
 [/us/stat/96/1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1202
 [/us/usc/t5/s4109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs4109
 

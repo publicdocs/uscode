@@ -27,7 +27,7 @@
 
     (f) The Secretary of Defense may grant a cash award under subsection (b) of this section without regard to the requirements for certification and approval provided in that subsection.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 442][/us/stat/80/442]; [Pub. L. 95–454, title V, § 503(b)][/us/pl/95/454/s503/b], (c), Oct. 13, 1978, [92 Stat. 1183][/us/stat/92/1183]; [Pub. L. 97–35, title XVII, § 1703(b)(2)][/us/pl/97/35/s1703/b/2], Aug. 13, 1981, [95 Stat. 756][/us/stat/95/756]; [Pub. L. 101–509, title V, § 529][/us/pl/101/509/s529] \[title II, § 201\], Nov. 5, 1990, [104 Stat. 1427][/us/stat/104/1427], 1455; [Pub. L. 103–89, § 3(b)(1)(D)][/us/pl/103/89/s3/b/1/D], Sept. 30, 1993, [107 Stat. 981][/us/stat/107/981]; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title XI, § 1132\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–318.)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 442][/us/stat/80/442]; [Pub. L. 95–454, title V][/us/pl/95/454/tV], § 503(b), (c), Oct. 13, 1978, [92 Stat. 1183][/us/stat/92/1183]; [Pub. L. 97–35, title XVII][/us/pl/97/35/tXVII], § 1703(b)(2), Aug. 13, 1981, [95 Stat. 756][/us/stat/95/756]; [Pub. L. 101–509, title V][/us/pl/101/509/tV], § 529 \[title II, § 201\], Nov. 5, 1990, [104 Stat. 1427][/us/stat/104/1427], 1455; [Pub. L. 103–89][/us/pl/103/89], § 3(b)(1)(D), Sept. 30, 1993, [107 Stat. 981][/us/stat/107/981]; [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title XI, § 1132\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–318.)
 
 <table>
 
@@ -91,9 +91,9 @@ Sept. 1, 1954, ch. 1208, § 304(d), (e), (g), 68 Stat. 1113.  </td>
 
     1981—Subsecs. (a), (c). [Pub. L. 97–35][/us/pl/97/35] substituted “subchapter” for “chapter”.
 
-    1978—Subsec. (a). [Pub. L. 95–454, § 503(b)][/us/pl/95/454/s503/b], substituted “$10,000” for “$5,000”.
+    1978—Subsec. (a). [Pub. L. 95–454][/us/pl/95/454], § 503(b), substituted “$10,000” for “$5,000”.
 
-    Subsec. (b). [Pub. L. 95–454, § 503(c)][/us/pl/95/454/s503/c], substituted “Office of Personnel Management” for “Civil Service Commission”, “$10,000” for “$5,000”, and “Office” for “Commission”.
+    Subsec. (b). [Pub. L. 95–454][/us/pl/95/454], § 503(c), substituted “Office of Personnel Management” for “Civil Service Commission”, “$10,000” for “$5,000”, and “Office” for “Commission”.
 
  __Effective Date of 1993 Amendment__ 
 
@@ -109,7 +109,7 @@ Sept. 1, 1954, ch. 1208, § 304(d), (e), (g), 68 Stat. 1113.  </td>
 
  __Effective Date of 1978 Amendment__ 
 
-    [Pub. L. 95–454, title V, § 504(a)][/us/pl/95/454/s504/a], Oct. 13, 1978, [92 Stat. 1184][/us/stat/92/1184], provided that amendment by [Pub. L. 95–454][/us/pl/95/454] was effective on first day of first applicable pay period which began on or after Oct. 1, 1981, except it could take effect with respect to any category or categories of positions before such day to extent prescribed by Director of Office of Personnel Management.
+    [Pub. L. 95–454, title V][/us/pl/95/454/tV], § 504(a), Oct. 13, 1978, [92 Stat. 1184][/us/stat/92/1184], provided that amendment by [Pub. L. 95–454][/us/pl/95/454] was effective on first day of first applicable pay period which began on or after Oct. 1, 1981, except it could take effect with respect to any category or categories of positions before such day to extent prescribed by Director of Office of Personnel Management.
 
  __Delegation of Functions__ 
 
@@ -126,22 +126,22 @@ Sept. 1, 1954, ch. 1208, § 304(d), (e), (g), 68 Stat. 1113.  </td>
 [/us/usc/t5/s4504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs4504
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/442]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F442
-[/us/pl/95/454/s503/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs503%2Fb
+[/us/pl/95/454/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtV
 [/us/stat/92/1183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1183
-[/us/pl/97/35/s1703/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs1703%2Fb%2F2
+[/us/pl/97/35/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXVII
 [/us/stat/95/756]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F756
-[/us/pl/101/509/s529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2Fs529
+[/us/pl/101/509/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2FtV
 [/us/stat/104/1427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1427
-[/us/pl/103/89/s3/b/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F89%2Fs3%2Fb%2F1%2FD
+[/us/pl/103/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F89
 [/us/stat/107/981]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F981
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
 [/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/pl/103/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F89
 [/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
-[/us/pl/95/454/s503/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs503%2Fb
-[/us/pl/95/454/s503/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs503%2Fc
+[/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454
+[/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454
 [/us/pl/103/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F89
 [/us/pl/103/89/s3/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F89%2Fs3%2Fc
 [/us/usc/t5/s3372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3372
@@ -151,7 +151,7 @@ Sept. 1, 1954, ch. 1208, § 304(d), (e), (g), 68 Stat. 1113.  </td>
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/pl/97/35/s1703/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs1703%2Fc
 [/us/usc/t5/s4501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs4501
-[/us/pl/95/454/s504/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs504%2Fa
+[/us/pl/95/454/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtV
 [/us/stat/92/1184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1184
 [/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454
 [/us/usc/t3/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs301

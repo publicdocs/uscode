@@ -71,7 +71,7 @@
 
         (2) may be substituted retroactively for any period of leave without pay, or used to liquidate an indebtedness for any period of advanced leave, which began on or after a date fixed by the employing agency of the employee as the beginning of the medical emergency involved.
 
-(Added [Pub. L. 100–566, § 2(a)][/us/pl/100/566/s2/a], Oct. 31, 1988, [102 Stat. 2834][/us/stat/102/2834]; amended [Pub. L. 110–181, div. A, title XVI, § 1675(a)][/us/pl/110/181/s1675/a], Jan. 28, 2008, [122 Stat. 484][/us/stat/122/484].)
+(Added [Pub. L. 100–566][/us/pl/100/566], § 2(a), Oct. 31, 1988, [102 Stat. 2834][/us/stat/102/2834]; amended [Pub. L. 110–181, div. A, title XVI][/us/pl/110/181/dA/tXVI], § 1675(a), Jan. 28, 2008, [122 Stat. 484][/us/stat/122/484].)
 
  __Amendments__ 
 
@@ -79,7 +79,7 @@
 
  __Effective Date of 2008 Amendment__ 
 
-[Pub. L. 110–181, div. A, title XVI, § 1675(b)][/us/pl/110/181/s1675/b], Jan. 28, 2008, [122 Stat. 484][/us/stat/122/484], provided that: 
+[Pub. L. 110–181, div. A, title XVI][/us/pl/110/181/dA/tXVI], § 1675(b), Jan. 28, 2008, [122 Stat. 484][/us/stat/122/484], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[Jan. 28, 2008\], except that, in the case of a leave recipient who is undergoing medical treatment on such date of enactment, [section 6333(b)(2)(B) of title 5][/us/usc/t5/s6333/b/2/B], United States Code (as amended by this section) shall be applied as if it had been amended by inserting ‘or the date of the enactment of this subsection \[probably should be “paragraph”\], whichever is later’ after ‘the start of such treatment’.”
 
@@ -91,12 +91,12 @@
 ----------
 
 [/us/usc/t10/s1413a/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1413a%2Fe
-[/us/pl/100/566/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F566%2Fs2%2Fa
+[/us/pl/100/566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F566
 [/us/stat/102/2834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2834
-[/us/pl/110/181/s1675/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1675%2Fa
+[/us/pl/110/181/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtXVI
 [/us/stat/122/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F484
 [/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
-[/us/pl/110/181/s1675/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1675%2Fb
+[/us/pl/110/181/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtXVI
 [/us/stat/122/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F484
 [/us/usc/t5/s6333/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs6333%2Fb%2F2%2FB
 

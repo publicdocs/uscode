@@ -35,7 +35,7 @@
 
     Payment for services provided by the Conference pursuant to paragraph (4) shall be credited to the operating account for the Conference and shall remain available until expended.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 390][/us/stat/80/390], § 574; [Pub. L. 101–422, § 2][/us/pl/101/422/s2], Oct. 12, 1990, [104 Stat. 910][/us/stat/104/910]; renumbered § 594, [Pub. L. 102–354, § 2(2)][/us/pl/102/354/s2/2], Aug. 26, 1992, [106 Stat. 944][/us/stat/106/944]; [Pub. L. 102–403][/us/pl/102/403], Oct. 9, 1992, [106 Stat. 1968][/us/stat/106/1968]; [Pub. L. 108–401, § 2(b)(1)][/us/pl/108/401/s2/b/1], Oct. 30, 2004, [118 Stat. 2255][/us/stat/118/2255].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 390][/us/stat/80/390], § 574; [Pub. L. 101–422][/us/pl/101/422], § 2, Oct. 12, 1990, [104 Stat. 910][/us/stat/104/910]; renumbered § 594, [Pub. L. 102–354][/us/pl/102/354], § 2(2), Aug. 26, 1992, [106 Stat. 944][/us/stat/106/944]; [Pub. L. 102–403][/us/pl/102/403], Oct. 9, 1992, [106 Stat. 1968][/us/stat/106/1968]; [Pub. L. 108–401][/us/pl/108/401], § 2(b)(1), Oct. 30, 2004, [118 Stat. 2255][/us/stat/118/2255].)
 
 <table>
 
@@ -114,13 +114,13 @@ Aug. 30, 1964, Pub. L. 88–499, § 5, 78 Stat. 616.  </td>
 
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F390
-[/us/pl/101/422/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F422%2Fs2
+[/us/pl/101/422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F422
 [/us/stat/104/910]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F910
-[/us/pl/102/354/s2/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F354%2Fs2%2F2
+[/us/pl/102/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F354
 [/us/stat/106/944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F944
 [/us/pl/102/403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F403
 [/us/stat/106/1968]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1968
-[/us/pl/108/401/s2/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F401%2Fs2%2Fb%2F1
+[/us/pl/108/401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F401
 [/us/stat/118/2255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2255
 [/us/pl/108/401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F401
 [/us/pl/102/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F354

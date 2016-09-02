@@ -187,19 +187,19 @@
 
  __Amendments__ 
 
-    2006—[Pub. L. 109–435, title VIII, § 803(a)(2)][/us/pl/109/435/s803/a/2], Dec. 20, 2006, [120 Stat. 3252][/us/stat/120/3252], added item 8909a.
+    2006—[Pub. L. 109–435, title VIII][/us/pl/109/435/tVIII], § 803(a)(2), Dec. 20, 2006, [120 Stat. 3252][/us/stat/120/3252], added item 8909a.
 
-    1998—[Pub. L. 105–266, § 6(a)(2)][/us/pl/105/266/s6/a/2], Oct. 19, 1998, [112 Stat. 2369][/us/stat/112/2369], added item 8903b.
+    1998—[Pub. L. 105–266][/us/pl/105/266], § 6(a)(2), Oct. 19, 1998, [112 Stat. 2369][/us/stat/112/2369], added item 8903b.
 
-    1988—[Pub. L. 100–654, title I, § 101(b)][/us/pl/100/654/s101/b], title II, § 201(a)(2), title III, § 301(b), Nov. 14, 1988, [102 Stat. 3841][/us/stat/102/3841], 3845, 3846, added items 8902a, 8905a, and 8906a.
+    1988—[Pub. L. 100–654, title I][/us/pl/100/654/tI], § 101(b), title II, § 201(a)(2), title III, § 301(b), Nov. 14, 1988, [102 Stat. 3841][/us/stat/102/3841], 3845, 3846, added items 8902a, 8905a, and 8906a.
 
-    [Pub. L. 100–238, title I, § 108(a)(3)(B)][/us/pl/100/238/s108/a/3/B], Jan. 8, 1988, [101 Stat. 1748][/us/stat/101/1748], added item 8914.
+    [Pub. L. 100–238, title I][/us/pl/100/238/tI], § 108(a)(3)(B), Jan. 8, 1988, [101 Stat. 1748][/us/stat/101/1748], added item 8914.
 
     1985—[Pub. L. 99–53][/us/pl/99/53], §§ 1(b)(2), 3(a)(2)(B), June 17, 1985, [99 Stat. 94][/us/stat/99/94], 95, added item 8903a and inserted “or disability” after “and survivor” in item 8908.
 
-    1984—[Pub. L. 98–615, § 3(8)][/us/pl/98/615/s3/8], Nov. 8, 1984, [98 Stat. 3204][/us/stat/98/3204], substituted “Information to individuals eligible to enroll” for “Information to employees” in item 8907.
+    1984—[Pub. L. 98–615][/us/pl/98/615], § 3(8), Nov. 8, 1984, [98 Stat. 3204][/us/stat/98/3204], substituted “Information to individuals eligible to enroll” for “Information to employees” in item 8907.
 
-    1976—[Pub. L. 94–342, § 1(b)][/us/pl/94/342/s1/b], July 6, 1976, [90 Stat. 808][/us/stat/90/808], substituted “employees and survivor annuitants” for “employee” in item 8908.
+    1976—[Pub. L. 94–342][/us/pl/94/342], § 1(b), July 6, 1976, [90 Stat. 808][/us/stat/90/808], substituted “employees and survivor annuitants” for “employee” in item 8908.
 
 ----------
 
@@ -208,19 +208,19 @@
 ----------
 ----------
 
-[/us/pl/109/435/s803/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2Fs803%2Fa%2F2
+[/us/pl/109/435/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2FtVIII
 [/us/stat/120/3252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3252
-[/us/pl/105/266/s6/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F266%2Fs6%2Fa%2F2
+[/us/pl/105/266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F266
 [/us/stat/112/2369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2369
-[/us/pl/100/654/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F654%2Fs101%2Fb
+[/us/pl/100/654/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F654%2FtI
 [/us/stat/102/3841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3841
-[/us/pl/100/238/s108/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F238%2Fs108%2Fa%2F3%2FB
+[/us/pl/100/238/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F238%2FtI
 [/us/stat/101/1748]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1748
 [/us/pl/99/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F53
 [/us/stat/99/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F94
-[/us/pl/98/615/s3/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F615%2Fs3%2F8
+[/us/pl/98/615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F615
 [/us/stat/98/3204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3204
-[/us/pl/94/342/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F342%2Fs1%2Fb
+[/us/pl/94/342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F342
 [/us/stat/90/808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F808
 
 

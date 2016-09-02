@@ -251,27 +251,27 @@ SUBCHAPTER IV—TEMPORARY ORGANIZATIONS ESTABLISHED BY LAW OR EXECUTIVE ORDER  <
 
  __Amendments__ 
 
-    2011—[Pub. L. 112–81, div. A, title XI, § 1109(b)][/us/pl/112/81/s1109/b], Dec. 31, 2011, [125 Stat. 1615][/us/stat/125/1615], added item 3111a.
+    2011—[Pub. L. 112–81, div. A, title XI][/us/pl/112/81/dA/tXI], § 1109(b), Dec. 31, 2011, [125 Stat. 1615][/us/stat/125/1615], added item 3111a.
 
-    2010—[Pub. L. 111–203, title IX, § 929G(b)][/us/pl/111/203/s929G/b], July 21, 2010, [124 Stat. 1856][/us/stat/124/1856], added item 3114 and struck out former item 3114 “Appointment of accountants, economists, and examiners by the Securities and Exchange Commission”.
+    2010—[Pub. L. 111–203, title IX][/us/pl/111/203/tIX], § 929G(b), July 21, 2010, [124 Stat. 1856][/us/stat/124/1856], added item 3114 and struck out former item 3114 “Appointment of accountants, economists, and examiners by the Securities and Exchange Commission”.
 
-    2003—[Pub. L. 108–44, § 2(b)][/us/pl/108/44/s2/b], July 3, 2003, [117 Stat. 843][/us/stat/117/843], added item 3114.
+    2003—[Pub. L. 108–44][/us/pl/108/44], § 2(b), July 3, 2003, [117 Stat. 843][/us/stat/117/843], added item 3114.
 
-    2000—[Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title XI, § 1101(b)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–310, added subchapter IV heading and item 3161.
+    2000—[Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title XI, § 1101(b)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–310, added subchapter IV heading and item 3161.
 
-    1997—[Pub. L. 105–61, title VI, § 638(b)][/us/pl/105/61/s638/b], Oct. 10, 1997, [111 Stat. 1317][/us/stat/111/1317], added item 3113.
+    1997—[Pub. L. 105–61, title VI][/us/pl/105/61/tVI], § 638(b), Oct. 10, 1997, [111 Stat. 1317][/us/stat/111/1317], added item 3113.
 
-    1995—[Pub. L. 104–66, title II, § 2181(a)(2)][/us/pl/104/66/s2181/a/2], Dec. 21, 1995, [109 Stat. 732][/us/stat/109/732], struck out item 3135 “Biennial report”.
+    1995—[Pub. L. 104–66, title II][/us/pl/104/66/tII], § 2181(a)(2), Dec. 21, 1995, [109 Stat. 732][/us/stat/109/732], struck out item 3135 “Biennial report”.
 
-    1988—[Pub. L. 100–325, § 1(b)][/us/pl/100/325/s1/b], May 30, 1988, [102 Stat. 581][/us/stat/102/581], added subchapter III heading and items 3151 and 3152.
+    1988—[Pub. L. 100–325][/us/pl/100/325], § 1(b), May 30, 1988, [102 Stat. 581][/us/stat/102/581], added subchapter III heading and items 3151 and 3152.
 
-    1980—[Pub. L. 96–523, § 1(b)][/us/pl/96/523/s1/b], Dec. 12, 1980, [94 Stat. 3040][/us/stat/94/3040], substituted “personal assistants for handicapped employees, including blind and” for “reading assistants for blind employees and interpreting assistants for” in item 3102.
+    1980—[Pub. L. 96–523][/us/pl/96/523], § 1(b), Dec. 12, 1980, [94 Stat. 3040][/us/stat/94/3040], substituted “personal assistants for handicapped employees, including blind and” for “reading assistants for blind employees and interpreting assistants for” in item 3102.
 
-    1978—[Pub. L. 95–454, title III][/us/pl/95/454], §§ 301(b), 302(b)(1), 307(b)(3), title IV, § 402(c), Oct. 13, 1978, [92 Stat. 1145][/us/stat/92/1145], 1146, 1148, 1160, added heading for subchapter I, substituted “reading assistants for blind employees and interpreting assistants for deaf employees” for “readers for blind employees” in item 3102, and added items 3111, 3112, heading for subchapter II, and items 3131 to 3136.
+    1978—[Pub. L. 95–454, title III][/us/pl/95/454/tIII], §§ 301(b), 302(b)(1), 307(b)(3), title IV, § 402(c), Oct. 13, 1978, [92 Stat. 1145][/us/stat/92/1145], 1146, 1148, 1160, added heading for subchapter I, substituted “reading assistants for blind employees and interpreting assistants for deaf employees” for “readers for blind employees” in item 3102, and added items 3111, 3112, heading for subchapter II, and items 3131 to 3136.
 
-    [Pub. L. 95–251, § 2(c)(2)][/us/pl/95/251/s2/c/2], Mar. 27, 1978, [92 Stat. 184][/us/stat/92/184], substituted “administrative law judges” for “hearing examiners” in item 3105.
+    [Pub. L. 95–251][/us/pl/95/251], § 2(c)(2), Mar. 27, 1978, [92 Stat. 184][/us/stat/92/184], substituted “administrative law judges” for “hearing examiners” in item 3105.
 
-    1967—[Pub. L. 90–206, title II, § 221(b)][/us/pl/90/206/s221/b], Dec. 16, 1967, [81 Stat. 640][/us/stat/81/640], added item 3110.
+    1967—[Pub. L. 90–206, title II][/us/pl/90/206/tII], § 221(b), Dec. 16, 1967, [81 Stat. 640][/us/stat/81/640], added item 3110.
 
 ----------
 
@@ -280,27 +280,27 @@ SUBCHAPTER IV—TEMPORARY ORGANIZATIONS ESTABLISHED BY LAW OR EXECUTIVE ORDER  <
 ----------
 ----------
 
-[/us/pl/112/81/s1109/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1109%2Fb
+[/us/pl/112/81/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtXI
 [/us/stat/125/1615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1615
-[/us/pl/111/203/s929G/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs929G%2Fb
+[/us/pl/111/203/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIX
 [/us/stat/124/1856]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1856
-[/us/pl/108/44/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F44%2Fs2%2Fb
+[/us/pl/108/44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F44
 [/us/stat/117/843]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F843
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/105/61/s638/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F61%2Fs638%2Fb
+[/us/pl/105/61/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F61%2FtVI
 [/us/stat/111/1317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1317
-[/us/pl/104/66/s2181/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs2181%2Fa%2F2
+[/us/pl/104/66/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2FtII
 [/us/stat/109/732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F732
-[/us/pl/100/325/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F325%2Fs1%2Fb
+[/us/pl/100/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F325
 [/us/stat/102/581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F581
-[/us/pl/96/523/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F523%2Fs1%2Fb
+[/us/pl/96/523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F523
 [/us/stat/94/3040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3040
-[/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454
+[/us/pl/95/454/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtIII
 [/us/stat/92/1145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1145
-[/us/pl/95/251/s2/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F251%2Fs2%2Fc%2F2
+[/us/pl/95/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F251
 [/us/stat/92/184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F184
-[/us/pl/90/206/s221/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F206%2Fs221%2Fb
+[/us/pl/90/206/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F206%2FtII
 [/us/stat/81/640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F640
 
 

@@ -17,7 +17,7 @@
 
     Funds appropriated to the Office of Personnel Management for the purpose of this chapter may be allocated by the Office to any agency conducting demonstration projects or assisting the Office in conducting such projects. Funds so allocated shall remain available for such period as may be specified in appropriation Acts. No contract shall be entered into under this chapter unless the contract has been provided for in advance in appropriation Acts.
 
-(Added [Pub. L. 95–454, title VI, § 601(a)][/us/pl/95/454/s601/a], Oct. 13, 1978, [92 Stat. 1188][/us/stat/92/1188].)
+(Added [Pub. L. 95–454, title VI][/us/pl/95/454/tVI], § 601(a), Oct. 13, 1978, [92 Stat. 1188][/us/stat/92/1188].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/95/454/s601/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs601%2Fa
+[/us/pl/95/454/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtVI
 [/us/stat/92/1188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1188
 
 

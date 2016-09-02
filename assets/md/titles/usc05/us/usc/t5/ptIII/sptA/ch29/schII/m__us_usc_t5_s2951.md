@@ -33,7 +33,7 @@
 
     (2) the Office keep records of these actions.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 412][/us/stat/80/412]; [Pub. L. 95–454, title IX, § 906(a)(2)][/us/pl/95/454/s906/a/2], (3), (16), Oct. 13, 1978, [92 Stat. 1224][/us/stat/92/1224], 1226.)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 412][/us/stat/80/412]; [Pub. L. 95–454, title IX][/us/pl/95/454/tIX], § 906(a)(2), (3), (16), Oct. 13, 1978, [92 Stat. 1224][/us/stat/92/1224], 1226.)
 
 <table>
 
@@ -91,7 +91,7 @@ Jan. 16, 1883, ch. 27, § 2(2)8 (less last sentence), 22 Stat. 404.  </td>
 
  __Amendments__ 
 
-    1978—[Pub. L. 95–454, § 906(a)(16)][/us/pl/95/454/s906/a/16], substituted “Office of Personnel Management” for “Civil Service Commission” in section catchline.
+    1978—[Pub. L. 95–454][/us/pl/95/454], § 906(a)(16), substituted “Office of Personnel Management” for “Civil Service Commission” in section catchline.
 
     Pars. (1), (2). [Pub. L. 95–454][/us/pl/95/454] substituted “Office of Personnel Management” for “Civil Service Commission” and “Office” for “Commission”.
 
@@ -108,9 +108,9 @@ Jan. 16, 1883, ch. 27, § 2(2)8 (less last sentence), 22 Stat. 404.  </td>
 
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F412
-[/us/pl/95/454/s906/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs906%2Fa%2F2
+[/us/pl/95/454/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtIX
 [/us/stat/92/1224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1224
-[/us/pl/95/454/s906/a/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs906%2Fa%2F16
+[/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454
 [/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454
 [/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454
 [/us/pl/95/454/s907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs907

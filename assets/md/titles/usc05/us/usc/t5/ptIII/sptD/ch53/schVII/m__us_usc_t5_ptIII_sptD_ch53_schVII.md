@@ -17,7 +17,7 @@
 
  __Amendments__ 
 
-    1978—[Pub. L. 95–454, title VIII, § 801(a)(3)(A)(i)][/us/pl/95/454/s801/a/3/A/i], Oct. 13, 1978, [92 Stat. 1221][/us/stat/92/1221], redesignated former subchapter VI as VII.
+    1978—[Pub. L. 95–454, title VIII][/us/pl/95/454/tVIII], § 801(a)(3)(A)(i), Oct. 13, 1978, [92 Stat. 1221][/us/stat/92/1221], redesignated former subchapter VI as VII.
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/95/454/s801/a/3/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs801%2Fa%2F3%2FA%2Fi
+[/us/pl/95/454/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtVIII
 [/us/stat/92/1221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1221
 
 

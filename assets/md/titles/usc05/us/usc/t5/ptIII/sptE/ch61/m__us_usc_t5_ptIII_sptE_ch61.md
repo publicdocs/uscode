@@ -203,9 +203,9 @@ SUBCHAPTER II—FLEXIBLE AND COMPRESSED WORK SCHEDULES  </td>
 
  __Amendments__ 
 
-    1982—[Pub. L. 97–221, § 2(b)][/us/pl/97/221/s2/b], July 23, 1982, [96 Stat. 233][/us/stat/96/233], inserted “SUBCHAPTER I—GENERAL PROVISIONS” before item 6101 and inserted “SUBCHAPTER II—FLEXIBLE AND COMPRESSED WORK SCHEDULES” and items 6120 to 6133 after item 6106.
+    1982—[Pub. L. 97–221][/us/pl/97/221], § 2(b), July 23, 1982, [96 Stat. 233][/us/stat/96/233], inserted “SUBCHAPTER I—GENERAL PROVISIONS” before item 6101 and inserted “SUBCHAPTER II—FLEXIBLE AND COMPRESSED WORK SCHEDULES” and items 6120 to 6133 after item 6106.
 
-    1972—[Pub. L. 92–392, § 7(b)][/us/pl/92/392/s7/b], Aug. 19, 1972, [86 Stat. 573][/us/stat/86/573], struck out item 6102 “Eight-hour day; 40-hour work week; wage-board employees”.
+    1972—[Pub. L. 92–392][/us/pl/92/392], § 7(b), Aug. 19, 1972, [86 Stat. 573][/us/stat/86/573], struck out item 6102 “Eight-hour day; 40-hour work week; wage-board employees”.
 
 ----------
 
@@ -214,9 +214,9 @@ SUBCHAPTER II—FLEXIBLE AND COMPRESSED WORK SCHEDULES  </td>
 ----------
 ----------
 
-[/us/pl/97/221/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F221%2Fs2%2Fb
+[/us/pl/97/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F221
 [/us/stat/96/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F233
-[/us/pl/92/392/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F392%2Fs7%2Fb
+[/us/pl/92/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F392
 [/us/stat/86/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F573
 
 

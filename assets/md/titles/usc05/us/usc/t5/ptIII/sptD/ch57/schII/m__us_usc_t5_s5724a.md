@@ -103,7 +103,7 @@
 
     (h) Payments for subsistence expenses, including amounts in lieu of per diem or actual subsistence expenses or a combination thereof, authorized under this section may not exceed the maximum payment allowed under regulations which implement [section 5702 of this title][/us/usc/t5/s5702].
 
-(Added [Pub. L. 90–83, § 1(37)(A)][/us/pl/90/83/s1/37/A], Sept. 11, 1967, [81 Stat. 204][/us/stat/81/204]; amended [Pub. L. 96–70, title I, § 1231(d)][/us/pl/96/70/s1231/d], Sept. 27, 1979, [93 Stat. 470][/us/stat/93/470]; [Pub. L. 98–151, § 118(a)(5)][/us/pl/98/151/s118/a/5], (6), Nov. 14, 1983, [97 Stat. 977][/us/stat/97/977], 978; [Pub. L. 99–234, title I, § 105][/us/pl/99/234/s105], Jan. 2, 1986, [99 Stat. 1758][/us/stat/99/1758]; [Pub. L. 100–202, § 101(m)][/us/pl/100/202/s101/m] \[title VI, § 628(a)(1)\], Dec. 22, 1987, [101 Stat. 1329–390][/us/stat/101/1329-390], 1329–430; [Pub. L. 101–510, div. A, title XII, § 1206(c)][/us/pl/101/510/s1206/c], Nov. 5, 1990, [104 Stat. 1661][/us/stat/104/1661]; [Pub. L. 104–201, div. A, title XVII][/us/pl/104/201], §§ 1711–1713(a), 1714, 1718, Sept. 23, 1996, [110 Stat. 2753–2755][/us/stat/110/2753-2755], 2757; [Pub. L. 105–85, div. C, title XXXV, § 3550(c)(2)][/us/pl/105/85/s3550/c/2], Nov. 18, 1997, [111 Stat. 2074][/us/stat/111/2074]; [Pub. L. 105–264][/us/pl/105/264], §§ 6(5), 7, Oct. 19, 1998, [112 Stat. 2356][/us/stat/112/2356], 2357.)
+(Added [Pub. L. 90–83][/us/pl/90/83], § 1(37)(A), Sept. 11, 1967, [81 Stat. 204][/us/stat/81/204]; amended [Pub. L. 96–70, title I][/us/pl/96/70/tI], § 1231(d), Sept. 27, 1979, [93 Stat. 470][/us/stat/93/470]; [Pub. L. 98–151][/us/pl/98/151], § 118(a)(5), (6), Nov. 14, 1983, [97 Stat. 977][/us/stat/97/977], 978; [Pub. L. 99–234, title I][/us/pl/99/234/tI], § 105, Jan. 2, 1986, [99 Stat. 1758][/us/stat/99/1758]; [Pub. L. 100–202][/us/pl/100/202], § 101(m) \[title VI, § 628(a)(1)\], Dec. 22, 1987, [101 Stat. 1329–390][/us/stat/101/1329-390], 1329–430; [Pub. L. 101–510, div. A, title XII][/us/pl/101/510/dA/tXII], § 1206(c), Nov. 5, 1990, [104 Stat. 1661][/us/stat/104/1661]; [Pub. L. 104–201, div. A, title XVII][/us/pl/104/201/dA/tXVII], §§ 1711–1713(a), 1714, 1718, Sept. 23, 1996, [110 Stat. 2753–2755][/us/stat/110/2753-2755], 2757; [Pub. L. 105–85, div. C, title XXXV][/us/pl/105/85/dC/tXXXV], § 3550(c)(2), Nov. 18, 1997, [111 Stat. 2074][/us/stat/111/2074]; [Pub. L. 105–264][/us/pl/105/264], §§ 6(5), 7, Oct. 19, 1998, [112 Stat. 2356][/us/stat/112/2356], 2357.)
 
 <table>
 
@@ -193,61 +193,61 @@ July 21, 1966, Pub. L. 89–516, § 2 “Sec. 27”, 80 Stat. 325.  </td>
 
  __Amendments__ 
 
-    1998—Subsec. (a). [Pub. L. 105–264, § 7(1)][/us/pl/105/264/s7/1], substituted “Under regulations prescribed under section 5738, an agency shall pay” for “An agency shall pay”.
+    1998—Subsec. (a). [Pub. L. 105–264][/us/pl/105/264], § 7(1), substituted “Under regulations prescribed under section 5738, an agency shall pay” for “An agency shall pay”.
 
-    Subsec. (b)(1). [Pub. L. 105–264, § 7(2)][/us/pl/105/264/s7/2], substituted “Under regulations prescribed under section 5738, an agency may pay” for “An agency may pay” in introductory provisions.
+    Subsec. (b)(1). [Pub. L. 105–264][/us/pl/105/264], § 7(2), substituted “Under regulations prescribed under section 5738, an agency may pay” for “An agency may pay” in introductory provisions.
 
-    Subsec. (b)(1)(B)(ii). [Pub. L. 105–264, § 7(3)][/us/pl/105/264/s7/3], amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “an amount for subsistence expenses.”
+    Subsec. (b)(1)(B)(ii). [Pub. L. 105–264][/us/pl/105/264], § 7(3), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “an amount for subsistence expenses.”
 
-    Subsec. (c)(1). [Pub. L. 105–264, § 7(2)][/us/pl/105/264/s7/2], substituted “Under regulations prescribed under section 5738, an agency may pay” for “An agency may pay” in introductory provisions.
+    Subsec. (c)(1). [Pub. L. 105–264][/us/pl/105/264], § 7(2), substituted “Under regulations prescribed under section 5738, an agency may pay” for “An agency may pay” in introductory provisions.
 
-    Subsec. (c)(1)(B). [Pub. L. 105–264, § 7(4)][/us/pl/105/264/s7/4], substituted “an amount for subsistence expenses, that may not exceed a maximum amount determined by the Administrator of General Services,” for “an amount for subsistence expenses”.
+    Subsec. (c)(1)(B). [Pub. L. 105–264][/us/pl/105/264], § 7(4), substituted “an amount for subsistence expenses, that may not exceed a maximum amount determined by the Administrator of General Services,” for “an amount for subsistence expenses”.
 
-    Subsec. (d)(1), (2). [Pub. L. 105–264, § 7(1)][/us/pl/105/264/s7/1], substituted “Under regulations prescribed under section 5738, an agency shall pay” for “An agency shall pay”.
+    Subsec. (d)(1), (2). [Pub. L. 105–264][/us/pl/105/264], § 7(1), substituted “Under regulations prescribed under section 5738, an agency shall pay” for “An agency shall pay”.
 
-    Subsec. (d)(2)(A). [Pub. L. 105–264, § 7(5)][/us/pl/105/264/s7/5], substituted “of the sale” for “for the sale”.
+    Subsec. (d)(2)(A). [Pub. L. 105–264][/us/pl/105/264], § 7(5), substituted “of the sale” for “for the sale”.
 
-    Subsec. (d)(2)(B). [Pub. L. 105–264, § 7(6)][/us/pl/105/264/s7/6], substituted “of the purchase” for “for the purchase”.
+    Subsec. (d)(2)(B). [Pub. L. 105–264][/us/pl/105/264], § 7(6), substituted “of the purchase” for “for the purchase”.
 
-    Subsec. (d)(8). [Pub. L. 105–264, § 7(2)][/us/pl/105/264/s7/2], (7), substituted “Under regulations prescribed under section 5738, an agency may pay” for “An agency may pay” and “paragraph (1) or (2)” for “paragraph (2) or (3)”.
+    Subsec. (d)(8). [Pub. L. 105–264][/us/pl/105/264], § 7(2), (7), substituted “Under regulations prescribed under section 5738, an agency may pay” for “An agency may pay” and “paragraph (1) or (2)” for “paragraph (2) or (3)”.
 
-    Subsec. (e). [Pub. L. 105–264, § 7(2)][/us/pl/105/264/s7/2], substituted “Under regulations prescribed under section 5738, an agency may pay” for “An agency may pay”.
+    Subsec. (e). [Pub. L. 105–264][/us/pl/105/264], § 7(2), substituted “Under regulations prescribed under section 5738, an agency may pay” for “An agency may pay”.
 
-    Subsec. (f)(1). [Pub. L. 105–264, § 7(8)][/us/pl/105/264/s7/8], substituted “Under regulations prescribed under section 5738 and subject to paragraph (2),” for “Subject to paragraph (2),” in introductory provisions.
+    Subsec. (f)(1). [Pub. L. 105–264][/us/pl/105/264], § 7(8), substituted “Under regulations prescribed under section 5738 and subject to paragraph (2),” for “Subject to paragraph (2),” in introductory provisions.
 
-    Subsec. (i). [Pub. L. 105–264, § 7(9)][/us/pl/105/264/s7/9], struck out subsec. (i) which read as follows: “Subsections (a), (b), and (c) shall be implemented under regulations issued under [section 5738 of this title][/us/usc/t5/s5738].”
+    Subsec. (i). [Pub. L. 105–264][/us/pl/105/264], § 7(9), struck out subsec. (i) which read as follows: “Subsections (a), (b), and (c) shall be implemented under regulations issued under [section 5738 of this title][/us/usc/t5/s5738].”
 
-    Subsec. (j). [Pub. L. 105–264, § 6(5)][/us/pl/105/264/s6/5], struck out subsec. (j) which read as follows: “For purposes of subsections (c), (d), and (e), the term ‘United States’ includes the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, the territories and possessions of the United States, and the areas and installations in the Republic of Panama that are made available to the United States pursuant to the Panama Canal Treaty of 1977 and related agreements (as described in section 3(a) of the Panama Canal Act of 1979 ([22 U.S.C. 3602(a)][/us/usc/t22/s3602/a])).”
+    Subsec. (j). [Pub. L. 105–264][/us/pl/105/264], § 6(5), struck out subsec. (j) which read as follows: “For purposes of subsections (c), (d), and (e), the term ‘United States’ includes the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, the territories and possessions of the United States, and the areas and installations in the Republic of Panama that are made available to the United States pursuant to the Panama Canal Treaty of 1977 and related agreements (as described in section 3(a) of the Panama Canal Act of 1979 ([22 U.S.C. 3602(a)][/us/usc/t22/s3602/a])).”
 
     1997—Subsec. (j). [Pub. L. 105–85][/us/pl/105/85], which directed the amendment of subsec. (j) by inserting “and” after “Northern Mariana Islands,” and by substituting “United States.” for “United States, and the areas and installations in the Republic of Panama that are made available to the United States pursuant to the Panama Canal Treaty of 1977 and related agreements (as described in section 3(a) of the Panama Canal Act of 1979 ([22 U.S.C. 3602(a)][/us/usc/t22/s3602/a])).”, effective Jan. 1, 1999, could not be executed because subsec. (j) did not appear subsequent to amendment by [Pub. L. 105–264][/us/pl/105/264]. See 1998 Amendment note above.
 
-    1996—[Pub. L. 104–201, § 1711][/us/pl/104/201/s1711], amended section generally, substituting subsecs. (a) and (b) for former subsecs. (a) to (c) which made funds available to pay certain expenses of employees for whom Government pays travel and transportation expenses under [section 5724(a) of this title][/us/usc/t5/s5724/a], provided for entitlement to certain amounts of basic pay to such employees, and provided for payment of expenses of certain former employees.
+    1996—[Pub. L. 104–201][/us/pl/104/201], § 1711, amended section generally, substituting subsecs. (a) and (b) for former subsecs. (a) to (c) which made funds available to pay certain expenses of employees for whom Government pays travel and transportation expenses under [section 5724(a) of this title][/us/usc/t5/s5724/a], provided for entitlement to certain amounts of basic pay to such employees, and provided for payment of expenses of certain former employees.
 
-    Subsec. (c). [Pub. L. 104–201, § 1712][/us/pl/104/201/s1712], added subsec. (c).
+    Subsec. (c). [Pub. L. 104–201][/us/pl/104/201], § 1712, added subsec. (c).
 
-    Subsec. (d). [Pub. L. 104–201, § 1713(a)][/us/pl/104/201/s1713/a], added subsec. (d).
+    Subsec. (d). [Pub. L. 104–201][/us/pl/104/201], § 1713(a), added subsec. (d).
 
-    Subsec. (d)(8). [Pub. L. 104–201, § 1714(1)][/us/pl/104/201/s1714/1], added par. (8).
+    Subsec. (d)(8). [Pub. L. 104–201][/us/pl/104/201], § 1714(1), added par. (8).
 
-    Subsec. (e). [Pub. L. 104–201, § 1714(2)][/us/pl/104/201/s1714/2], added subsec. (e).
+    Subsec. (e). [Pub. L. 104–201][/us/pl/104/201], § 1714(2), added subsec. (e).
 
-    Subsecs. (f) to (j). [Pub. L. 104–201, § 1718][/us/pl/104/201/s1718], added subsecs. (f) to (j).
+    Subsecs. (f) to (j). [Pub. L. 104–201][/us/pl/104/201], § 1718, added subsecs. (f) to (j).
 
     1990—Subsec. (a)(2). [Pub. L. 101–510][/us/pl/101/510] struck out “continental” before “United States” in second sentence.
 
     1987—Subsec. (a)(4)(A). [Pub. L. 100–202][/us/pl/100/202] inserted provisions authorizing reimbursement of expenses of selling residence of employee at official station from which employee was transferred when assigned to duty outside United States, its territories or possessions, Puerto Rico, or parts of Panama, provisions authorizing reimbursement of expenses of purchasing residence at new official station in United States, its territories or possessions, Puerto Rico, or parts of Panama, and provisions disallowing reimbursement of expenses in connection with transfers from a post of duty located outside the United States, its territories or possessions, Puerto Rico, or parts of Panama, for any transaction that occurs prior to official notification that employee’s return to the United States would be to official station other than official station from which employee was transferred.
 
-    1986—Subsec. (a)(1). [Pub. L. 99–234, § 105(1)][/us/pl/99/234/s105/1], (2), substituted “allowance or” for “allowance instead of” and “maximum payment permitted under regulations which implement [section 5702 of this title][/us/usc/t5/s5702]” for “maximum per diem rates prescribed by or under [section 5702 of this title][/us/usc/t5/s5702]”.
+    1986—Subsec. (a)(1). [Pub. L. 99–234][/us/pl/99/234], § 105(1), (2), substituted “allowance or” for “allowance instead of” and “maximum payment permitted under regulations which implement [section 5702 of this title][/us/usc/t5/s5702]” for “maximum per diem rates prescribed by or under [section 5702 of this title][/us/usc/t5/s5702]”.
 
-    Subsec. (a)(2). [Pub. L. 99–234, § 105(1)][/us/pl/99/234/s105/1], (2), substituted “allowance or” for “allowance instead of” and “maximum payment permitted under regulations which implement [section 5702 of this title][/us/usc/t5/s5702]” for “maximum per diem rates prescribed by or under [section 5702 of this title][/us/usc/t5/s5702]”.
+    Subsec. (a)(2). [Pub. L. 99–234][/us/pl/99/234], § 105(1), (2), substituted “allowance or” for “allowance instead of” and “maximum payment permitted under regulations which implement [section 5702 of this title][/us/usc/t5/s5702]” for “maximum per diem rates prescribed by or under [section 5702 of this title][/us/usc/t5/s5702]”.
 
-    Subsec. (a)(3). [Pub. L. 99–234, § 105(2)][/us/pl/99/234/s105/2], (3), substituted “maximum payment permitted under regulations which implement [section 5702 of this title][/us/usc/t5/s5702]” for “maximum per diem rates prescribed by or under [section 5702 of this title][/us/usc/t5/s5702]” and “daily rates and amounts” for “average daily rates”.
+    Subsec. (a)(3). [Pub. L. 99–234][/us/pl/99/234], § 105(2), (3), substituted “maximum payment permitted under regulations which implement [section 5702 of this title][/us/usc/t5/s5702]” for “maximum per diem rates prescribed by or under [section 5702 of this title][/us/usc/t5/s5702]” and “daily rates and amounts” for “average daily rates”.
 
-    1983—Subsec. (a)(3). [Pub. L. 98–151, § 118(a)(5)(A)][/us/pl/98/151/s118/a/5/A], in first sentence substituted “60 days” for “30 days”.
+    1983—Subsec. (a)(3). [Pub. L. 98–151][/us/pl/98/151], § 118(a)(5)(A), in first sentence substituted “60 days” for “30 days”.
 
-    [Pub. L. 98–151, § 118(a)(5)(B)][/us/pl/98/151/s118/a/5/B], substituted provisions authorizing extension for an additional 60 days if agency head or designee determines existence of compelling reasons for continued occupancy, for provisions authorizing extension for an additional 30 days if the employee moves to or from Alaska, Hawaii, the territories or possessions, etc., and struck out provisions relating to additional limitations on daily rates for reimbursement for subsistence expenses.
+    [Pub. L. 98–151][/us/pl/98/151], § 118(a)(5)(B), substituted provisions authorizing extension for an additional 60 days if agency head or designee determines existence of compelling reasons for continued occupancy, for provisions authorizing extension for an additional 30 days if the employee moves to or from Alaska, Hawaii, the territories or possessions, etc., and struck out provisions relating to additional limitations on daily rates for reimbursement for subsistence expenses.
 
-    Subsec. (a)(4). [Pub. L. 98–151, § 118(a)(6)][/us/pl/98/151/s118/a/6], redesignated existing provisions as subpar. (A) and added subpar. (B).
+    Subsec. (a)(4). [Pub. L. 98–151][/us/pl/98/151], § 118(a)(6), redesignated existing provisions as subpar. (A) and added subpar. (B).
 
     1979—Subsec. (a)(3), (4). [Pub. L. 96–70][/us/pl/96/70] substituted in pars. (3) and (4) “areas and installations in the Republic of Panama made available to the United States pursuant to the Panama Canal Treaty of 1977 and related agreements (as described in section 3(a) of the Panama Canal Act of 1979)” for “Canal Zone” wherever appearing.
 
@@ -261,7 +261,7 @@ July 21, 1966, Pub. L. 89–516, § 2 “Sec. 27”, 80 Stat. 325.  </td>
 
  __Effective Date of 1987 Amendment__ 
 
-[Pub. L. 100–202, § 101(m)][/us/pl/100/202/s101/m] \[title VI, § 628(a)(2)\], Dec. 22, 1987, [101 Stat. 1329–390][/us/stat/101/1329-390], 1329–431, provided that: 
+[Pub. L. 100–202][/us/pl/100/202], § 101(m) \[title VI, § 628(a)(2)\], Dec. 22, 1987, [101 Stat. 1329–390][/us/stat/101/1329-390], 1329–431, provided that: 
 
 > “The amendments made by paragraph (2) \[probably means par. (1) which amended this section\] shall be applicable with respect to any employee transferred to or from a post of duty on or after 60 days after the date of enactment of this section \[Dec. 22, 1987\].”
 
@@ -279,7 +279,7 @@ July 21, 1966, Pub. L. 89–516, § 2 “Sec. 27”, 80 Stat. 325.  </td>
 
  __Extension of Payment of Relocation Expenses to Puerto Rico, Northern Mariana Islands, and Territories and Possessions of the United States__ 
 
-[Pub. L. 105–277, div. A, § 101(b)][/us/pl/105/277/s101/b] \[title I, § 125\], Oct. 21, 1998, [112 Stat. 2681–50][/us/stat/112/2681-50], 2681–74, provided that: 
+[Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(b) \[title I, § 125\], Oct. 21, 1998, [112 Stat. 2681–50][/us/stat/112/2681-50], 2681–74, provided that: 
 
 > “Effective with the enactment of this Act \[Oct. 21, 1998\], and in any fiscal year hereafter, the Attorney General and the Secretary of the Treasury may, for their respective agencies, extend the payment of relocation expenses listed in [section 5724a(b)(1) of Title 5][/us/usc/t5/s5724a/b/1] of the United States Code to include the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, and the territories and possessions of the United States.”
 
@@ -296,21 +296,21 @@ July 21, 1966, Pub. L. 89–516, § 2 “Sec. 27”, 80 Stat. 325.  </td>
 
 [/us/usc/t5/s5724/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5724%2Fa
 [/us/usc/t5/s5702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5702
-[/us/pl/90/83/s1/37/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83%2Fs1%2F37%2FA
+[/us/pl/90/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83
 [/us/stat/81/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F204
-[/us/pl/96/70/s1231/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2Fs1231%2Fd
+[/us/pl/96/70/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2FtI
 [/us/stat/93/470]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F470
-[/us/pl/98/151/s118/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F151%2Fs118%2Fa%2F5
+[/us/pl/98/151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F151
 [/us/stat/97/977]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F977
-[/us/pl/99/234/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F234%2Fs105
+[/us/pl/99/234/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F234%2FtI
 [/us/stat/99/1758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1758
-[/us/pl/100/202/s101/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202%2Fs101%2Fm
+[/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
 [/us/stat/101/1329-390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1329-390
-[/us/pl/101/510/s1206/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1206%2Fc
+[/us/pl/101/510/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtXII
 [/us/stat/104/1661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1661
-[/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
+[/us/pl/104/201/dA/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtXVII
 [/us/stat/110/2753-2755]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2753-2755
-[/us/pl/105/85/s3550/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs3550%2Fc%2F2
+[/us/pl/105/85/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdC%2FtXXXV
 [/us/stat/111/2074]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2074
 [/us/pl/105/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F264
 [/us/stat/112/2356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2356
@@ -323,45 +323,45 @@ July 21, 1966, Pub. L. 89–516, § 2 “Sec. 27”, 80 Stat. 325.  </td>
 [/us/usc/t5/s5721/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5721%2F3
 [/us/usc/t5/s5724/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5724%2Fa
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
-[/us/pl/105/264/s7/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F264%2Fs7%2F1
-[/us/pl/105/264/s7/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F264%2Fs7%2F2
-[/us/pl/105/264/s7/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F264%2Fs7%2F3
-[/us/pl/105/264/s7/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F264%2Fs7%2F2
-[/us/pl/105/264/s7/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F264%2Fs7%2F4
-[/us/pl/105/264/s7/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F264%2Fs7%2F1
-[/us/pl/105/264/s7/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F264%2Fs7%2F5
-[/us/pl/105/264/s7/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F264%2Fs7%2F6
-[/us/pl/105/264/s7/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F264%2Fs7%2F2
-[/us/pl/105/264/s7/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F264%2Fs7%2F2
-[/us/pl/105/264/s7/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F264%2Fs7%2F8
-[/us/pl/105/264/s7/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F264%2Fs7%2F9
+[/us/pl/105/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F264
+[/us/pl/105/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F264
+[/us/pl/105/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F264
+[/us/pl/105/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F264
+[/us/pl/105/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F264
+[/us/pl/105/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F264
+[/us/pl/105/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F264
+[/us/pl/105/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F264
+[/us/pl/105/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F264
+[/us/pl/105/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F264
+[/us/pl/105/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F264
+[/us/pl/105/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F264
 [/us/usc/t5/s5738]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5738
-[/us/pl/105/264/s6/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F264%2Fs6%2F5
+[/us/pl/105/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F264
 [/us/usc/t22/s3602/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3602%2Fa
 [/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
 [/us/usc/t22/s3602/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3602%2Fa
 [/us/pl/105/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F264
-[/us/pl/104/201/s1711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1711
+[/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
 [/us/usc/t5/s5724/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5724%2Fa
-[/us/pl/104/201/s1712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1712
-[/us/pl/104/201/s1713/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1713%2Fa
-[/us/pl/104/201/s1714/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1714%2F1
-[/us/pl/104/201/s1714/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1714%2F2
-[/us/pl/104/201/s1718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1718
+[/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
+[/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
+[/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
+[/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
+[/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
 [/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
 [/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
-[/us/pl/99/234/s105/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F234%2Fs105%2F1
+[/us/pl/99/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F234
 [/us/usc/t5/s5702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5702
 [/us/usc/t5/s5702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5702
-[/us/pl/99/234/s105/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F234%2Fs105%2F1
+[/us/pl/99/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F234
 [/us/usc/t5/s5702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5702
 [/us/usc/t5/s5702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5702
-[/us/pl/99/234/s105/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F234%2Fs105%2F2
+[/us/pl/99/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F234
 [/us/usc/t5/s5702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5702
 [/us/usc/t5/s5702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5702
-[/us/pl/98/151/s118/a/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F151%2Fs118%2Fa%2F5%2FA
-[/us/pl/98/151/s118/a/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F151%2Fs118%2Fa%2F5%2FB
-[/us/pl/98/151/s118/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F151%2Fs118%2Fa%2F6
+[/us/pl/98/151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F151
+[/us/pl/98/151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F151
+[/us/pl/98/151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F151
 [/us/pl/96/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70
 [/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
 [/us/pl/105/85/s3550/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs3550%2Fc%2F3
@@ -369,7 +369,7 @@ July 21, 1966, Pub. L. 89–516, § 2 “Sec. 27”, 80 Stat. 325.  </td>
 [/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
 [/us/pl/104/201/s1725/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1725%2Fa
 [/us/usc/t5/s5722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5722
-[/us/pl/100/202/s101/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202%2Fs101%2Fm
+[/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
 [/us/stat/101/1329-390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1329-390
 [/us/pl/99/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F234
 [/us/pl/99/234/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F234%2Fs301%2Fa
@@ -381,7 +381,7 @@ July 21, 1966, Pub. L. 89–516, § 2 “Sec. 27”, 80 Stat. 325.  </td>
 [/us/pl/96/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70
 [/us/pl/96/70/s3304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2Fs3304
 [/us/usc/t22/s3601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3601
-[/us/pl/105/277/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fb
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-50
 [/us/usc/t5/s5724a/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5724a%2Fb%2F1
 [/us/pl/98/151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F151

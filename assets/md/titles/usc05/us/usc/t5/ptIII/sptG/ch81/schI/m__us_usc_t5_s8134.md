@@ -153,7 +153,7 @@ Sept. 13, 1960, Pub. L. 86–767, § 103, 74 Stat. 906.  </td>
 
  __Burial Allowance__ 
 
-[Pub. L. 112–87, title III, § 310][/us/pl/112/87/s310], Jan. 3, 2012, [125 Stat. 1885][/us/stat/125/1885], provided that:
+[Pub. L. 112–87, title III][/us/pl/112/87/tIII], § 310, Jan. 3, 2012, [125 Stat. 1885][/us/stat/125/1885], provided that:
 
 >     “(a) __Authorization to Provide.—__ 
 
@@ -203,7 +203,7 @@ Sept. 13, 1960, Pub. L. 86–767, § 103, 74 Stat. 906.  </td>
 
  __Availability of Department of the Interior and Related Agencies Appropriations To Reimburse Representatives of Employees Killed in Line of Duty__ 
 
-[Pub. L. 103–332, title III, § 312][/us/pl/103/332/s312], Sept. 30, 1994, [108 Stat. 2537][/us/stat/108/2537], provided that: 
+[Pub. L. 103–332, title III][/us/pl/103/332/tIII], § 312, Sept. 30, 1994, [108 Stat. 2537][/us/stat/108/2537], provided that: 
 
 > “Notwithstanding any other provision of law in fiscal year 1995 and thereafter, appropriations made available to any department or agency in a Department of the Interior and Related Agencies Appropriations Act shall be available to that department or agency to reimburse the representative (as that term is defined by applicable law) of employees killed in the line of duty after January 1, 1994, and in subsequent fiscal years, for burial costs and related out-of-pocket expenses: Provided, That the amount of such reimbursement may exceed the $800 limitation in [5 U.S.C. 8134(a)][/us/usc/t5/s8134/a]: Provided further, That funds provided pursuant to this authority may not exceed $10,000 per employee.”
 
@@ -217,12 +217,12 @@ Sept. 13, 1960, Pub. L. 86–767, § 103, 74 Stat. 906.  </td>
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/548]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F548
 [/us/stat/64/1271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1271
-[/us/pl/112/87/s310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F87%2Fs310
+[/us/pl/112/87/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F87%2FtIII
 [/us/stat/125/1885]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1885
 [/us/pl/112/87/s310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F87%2Fs310
 [/us/pl/112/87/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F87%2Fs2
 [/us/usc/t50/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3003
-[/us/pl/103/332/s312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F332%2Fs312
+[/us/pl/103/332/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F332%2FtIII
 [/us/stat/108/2537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2537
 [/us/usc/t5/s8134/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8134%2Fa
 

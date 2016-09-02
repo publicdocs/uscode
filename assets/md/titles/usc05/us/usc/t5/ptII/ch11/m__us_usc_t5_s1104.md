@@ -35,7 +35,7 @@
 
     (c) If the Office makes a written finding, on the basis of information obtained under the program established under subsection (b)(2) of this section or otherwise, that any action taken by an agency pursuant to authority delegated under subsection (a)(2) of this section is contrary to any law, rule, or regulation, or is contrary to any standard established under subsection (b)(1) of this section, the agency involved shall take any corrective action the Office may require.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 399][/us/stat/80/399]; [Pub. L. 90–83, § 1(2)][/us/pl/90/83/s1/2], Sept. 11, 1967, [81 Stat. 195][/us/stat/81/195]; [Pub. L. 95–454, title II, § 201(a)][/us/pl/95/454/s201/a], Oct. 13, 1978, [92 Stat. 1120][/us/stat/92/1120]; [Pub. L. 104–52, title IV, § 1][/us/pl/104/52/s1], Nov. 19, 1995, [109 Stat. 489][/us/stat/109/489].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 399][/us/stat/80/399]; [Pub. L. 90–83][/us/pl/90/83], § 1(2), Sept. 11, 1967, [81 Stat. 195][/us/stat/81/195]; [Pub. L. 95–454, title II][/us/pl/95/454/tII], § 201(a), Oct. 13, 1978, [92 Stat. 1120][/us/stat/92/1120]; [Pub. L. 104–52, title IV][/us/pl/104/52/tIV], § 1, Nov. 19, 1995, [109 Stat. 489][/us/stat/109/489].)
 
 <table>
 
@@ -111,7 +111,7 @@ Sept. 28, 1959, Pub. L. 86–382, § 14(a) (1st sentence, less 10th through 24
 
     Subsection (a)(1) is added on authority of the words “to secure accuracy, uniformity, and justice in all their proceedings” in the first sentence of former section 635, which is carried into section 1105. The function in this paragraph was transferred from the chief examiner to the Chairman of the United States Civil Service Commission by 1949 Reorg. Plan No. 5, § 2(a)(2).
 
-    In subsection (a)(4), the words “requests for appropriations” are substituted for “budget estimates” on authority of the [Act of Sept. 12, 1950, ch. 946, § 102(f)][/us/act/1950-09-12/ch946/s102/f], [64 Stat. 833][/us/stat/64/833]; [31 U.S.C. 22][/us/usc/t31/s22].
+    In subsection (a)(4), the words “requests for appropriations” are substituted for “budget estimates” on authority of the [Act of Sept. 12, 1950, ch. 946][/us/act/1950-09-12/ch946], § 102(f), [64 Stat. 833][/us/stat/64/833]; [31 U.S.C. 22][/us/usc/t31/s22].
 
     In subsection (b)(2), the word “prescription” is substituted for “promulgation” and the words “now vested in the Commission” are omitted as surplusage.
 
@@ -119,7 +119,7 @@ Sept. 28, 1959, Pub. L. 86–382, § 14(a) (1st sentence, less 10th through 24
 
     In subsection (b)(5), the words “civil service” are substituted for “Federal service”.
 
-    In subsection (b)(7), the words “submission of requests for appropriations” are substituted for “revision and submission . . . of budget estimates” on authority of the [Act of Sept. 12, 1950, ch. 946, § 102(f)][/us/act/1950-09-12/ch946/s102/f], [64 Stat. 833][/us/stat/64/833]; [31 U.S.C. 22][/us/usc/t31/s22].
+    In subsection (b)(7), the words “submission of requests for appropriations” are substituted for “revision and submission . . . of budget estimates” on authority of the [Act of Sept. 12, 1950, ch. 946][/us/act/1950-09-12/ch946], § 102(f), [64 Stat. 833][/us/stat/64/833]; [31 U.S.C. 22][/us/usc/t31/s22].
 
     Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
@@ -187,11 +187,11 @@ Source (Statutes at Large)  </td>
 
  __Amendments__ 
 
-    1995—Subsec. (a). [Pub. L. 104–52, § 1(1)(B)][/us/pl/104/52/s1/1/B], struck out closing provisions which read as follows: “except that the Director may not delegate authority for competitive examinations with respect to positions that have requirements which are common to agencies in the Federal Government, other than in exceptional cases in which the interests of economy and efficiency require such delegation and in which such delegation will not weaken the application of the merit system principles.”
+    1995—Subsec. (a). [Pub. L. 104–52][/us/pl/104/52], § 1(1)(B), struck out closing provisions which read as follows: “except that the Director may not delegate authority for competitive examinations with respect to positions that have requirements which are common to agencies in the Federal Government, other than in exceptional cases in which the interests of economy and efficiency require such delegation and in which such delegation will not weaken the application of the merit system principles.”
 
-    Subsec. (a)(2). [Pub. L. 104–52, § 1(1)(A)][/us/pl/104/52/s1/1/A], inserted “, the cost of which examinations shall be reimbursed by payments from the agencies employing such judges to the revolving fund established under section 1304(e)” after “title” and substituted period for semicolon at end.
+    Subsec. (a)(2). [Pub. L. 104–52][/us/pl/104/52], § 1(1)(A), inserted “, the cost of which examinations shall be reimbursed by payments from the agencies employing such judges to the revolving fund established under section 1304(e)” after “title” and substituted period for semicolon at end.
 
-    Subsec. (b)(4). [Pub. L. 104–52, § 1(2)][/us/pl/104/52/s1/2], added par. (4).
+    Subsec. (b)(4). [Pub. L. 104–52][/us/pl/104/52], § 1(2), added par. (4).
 
     1978—[Pub. L. 95–454][/us/pl/95/454] substituted “Delegation of authority for personnel management” for “Functions of Chairman” in section catchline, and in text provisions relating to the delegation of authority for personnel management for provisions relating to functions of the Chairman of the United States Civil Service Commission.
 
@@ -209,22 +209,22 @@ Source (Statutes at Large)  </td>
 [/us/usc/t5/s3105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3105
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F399
-[/us/pl/90/83/s1/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83%2Fs1%2F2
+[/us/pl/90/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83
 [/us/stat/81/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F195
-[/us/pl/95/454/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs201%2Fa
+[/us/pl/95/454/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtII
 [/us/stat/92/1120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1120
-[/us/pl/104/52/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F52%2Fs1
+[/us/pl/104/52/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F52%2FtIV
 [/us/stat/109/489]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F489
-[/us/act/1950-09-12/ch946/s102/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-12%2Fch946%2Fs102%2Ff
+[/us/act/1950-09-12/ch946]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-12%2Fch946
 [/us/stat/64/833]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F833
 [/us/usc/t31/s22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs22
-[/us/act/1950-09-12/ch946/s102/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-12%2Fch946%2Fs102%2Ff
+[/us/act/1950-09-12/ch946]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-12%2Fch946
 [/us/stat/64/833]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F833
 [/us/usc/t31/s22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs22
 [/us/usc/t5/s8713/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8713%2Fa
-[/us/pl/104/52/s1/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F52%2Fs1%2F1%2FB
-[/us/pl/104/52/s1/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F52%2Fs1%2F1%2FA
-[/us/pl/104/52/s1/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F52%2Fs1%2F2
+[/us/pl/104/52]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F52
+[/us/pl/104/52]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F52
+[/us/pl/104/52]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F52
 [/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454
 [/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454
 [/us/pl/95/454/s907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs907

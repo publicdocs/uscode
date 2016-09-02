@@ -17,7 +17,7 @@
 
     Employing agencies may pay candidates for Senior Executive Service positions travel expenses incurred incident to preemployment interviews requested by the employing agency.
 
-(Added [Pub. L. 95–454, title IV, § 409(b)][/us/pl/95/454/s409/b], Oct. 13, 1978, [92 Stat. 1173][/us/stat/92/1173].)
+(Added [Pub. L. 95–454, title IV][/us/pl/95/454/tIV], § 409(b), Oct. 13, 1978, [92 Stat. 1173][/us/stat/92/1173].)
 
  __Effective Date__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/95/454/s409/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs409%2Fb
+[/us/pl/95/454/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtIV
 [/us/stat/92/1173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1173
 [/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454
 [/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454

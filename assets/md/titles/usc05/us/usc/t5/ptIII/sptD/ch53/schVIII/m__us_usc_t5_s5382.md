@@ -21,7 +21,7 @@
 
     (c) No employee may suffer a reduction in pay by reason of transfer from an agency with an applicable maximum rate of pay prescribed under subsection (b) to an agency with an applicable maximum rate of pay prescribed under subsection (a).
 
-(Added [Pub. L. 95–454, title IV, § 407(a)][/us/pl/95/454/s407/a], Oct. 13, 1978, [92 Stat. 1171][/us/stat/92/1171]; amended [Pub. L. 101–509, title V, § 529][/us/pl/101/509/s529] \[title I, § 101(b)(4)(B), (6)(A), (9)(I)\], Nov. 5, 1990, [104 Stat. 1427][/us/stat/104/1427], 1439, 1440, 1442; [Pub. L. 108–136, div. A, title XI, § 1125(a)(2)][/us/pl/108/136/s1125/a/2], Nov. 24, 2003, [117 Stat. 1638][/us/stat/117/1638].)
+(Added [Pub. L. 95–454, title IV][/us/pl/95/454/tIV], § 407(a), Oct. 13, 1978, [92 Stat. 1171][/us/stat/92/1171]; amended [Pub. L. 101–509, title V][/us/pl/101/509/tV], § 529 \[title I, § 101(b)(4)(B), (6)(A), (9)(I)\], Nov. 5, 1990, [104 Stat. 1427][/us/stat/104/1427], 1439, 1440, 1442; [Pub. L. 108–136, div. A, title XI][/us/pl/108/136/dA/tXI], § 1125(a)(2), Nov. 24, 2003, [117 Stat. 1638][/us/stat/117/1638].)
 
  __References in Text__ 
 
@@ -41,9 +41,9 @@
 
     “(d) The rates of basic pay that are established and adjusted under this section shall be printed in the Federal Register and shall supersede any prior rates of basic pay for the Senior Executive Service.”
 
-    1990—Subsec. (b). [Pub. L. 101–509, § 529][/us/pl/101/509/s529] \[title I, § 101(b)(6)(A), (9)(I)\], substituted “under section 5376” for “for GS–16 of the General Schedule” and “5306(e)” for “5308”.
+    1990—Subsec. (b). [Pub. L. 101–509][/us/pl/101/509], § 529 \[title I, § 101(b)(6)(A), (9)(I)\], substituted “under section 5376” for “for GS–16 of the General Schedule” and “5306(e)” for “5308”.
 
-    Subsec. (c). [Pub. L. 101–509, § 529][/us/pl/101/509/s529] \[title I, § 101(b)(4)(B)\], substituted “5303” for “5305” and struck out at end “The adjusted rates of basic pay for the Senior Executive Service shall be included in the report transmitted to the Congress by the President under section 5305(a)(3) or (c)(1) of this title.”
+    Subsec. (c). [Pub. L. 101–509][/us/pl/101/509], § 529 \[title I, § 101(b)(4)(B)\], substituted “5303” for “5305” and struck out at end “The adjusted rates of basic pay for the Senior Executive Service shall be included in the report transmitted to the Congress by the President under section 5305(a)(3) or (c)(1) of this title.”
 
  __Effective Date of 2003 Amendment__ 
 
@@ -70,18 +70,18 @@
 ----------
 ----------
 
-[/us/pl/95/454/s407/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs407%2Fa
+[/us/pl/95/454/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtIV
 [/us/stat/92/1171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1171
-[/us/pl/101/509/s529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2Fs529
+[/us/pl/101/509/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2FtV
 [/us/stat/104/1427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1427
-[/us/pl/108/136/s1125/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1125%2Fa%2F2
+[/us/pl/108/136/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtXI
 [/us/stat/117/1638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1638
 [/us/usc/t5/s5314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5314
 [/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
 [/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
 [/us/usc/t5/s5303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5303
-[/us/pl/101/509/s529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2Fs529
-[/us/pl/101/509/s529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2Fs529
+[/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509
+[/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509
 [/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
 [/us/pl/108/136/s1125/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1125%2Fc
 [/us/usc/t5/s5304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5304

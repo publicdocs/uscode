@@ -17,7 +17,7 @@
 
     The travel of an employee shall be by the most expeditious means of transportation practicable and shall be commensurate with the nature and purpose of the duties of the employee requiring such travel.
 
-(Added [Pub. L. 90–206, title II, § 222(c)(1)][/us/pl/90/206/s222/c/1], Dec. 16, 1967, [81 Stat. 641][/us/stat/81/641].)
+(Added [Pub. L. 90–206, title II][/us/pl/90/206/tII], § 222(c)(1), Dec. 16, 1967, [81 Stat. 641][/us/stat/81/641].)
 
  __Effective Date__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/90/206/s222/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F206%2Fs222%2Fc%2F1
+[/us/pl/90/206/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F206%2FtII
 [/us/stat/81/641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F641
 [/us/pl/90/206/s220/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F206%2Fs220%2Fa%2F4
 [/us/usc/t5/s5542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5542

@@ -31,7 +31,7 @@
 
     (g) be signed by and contain the address of the individual giving the notice.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 543][/us/stat/80/543]; [Pub. L. 93–416, § 12(a)][/us/pl/93/416/s12/a], Sept. 7, 1974, [88 Stat. 1146][/us/stat/88/1146].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 543][/us/stat/80/543]; [Pub. L. 93–416][/us/pl/93/416], § 12(a), Sept. 7, 1974, [88 Stat. 1146][/us/stat/88/1146].)
 
 <table>
 
@@ -135,7 +135,7 @@ Sept. 7, 1916, ch. 458, § 17, 39 Stat. 746.  </td>
 [/us/usc/t5/s8133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8133
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F543
-[/us/pl/93/416/s12/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F416%2Fs12%2Fa
+[/us/pl/93/416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F416
 [/us/stat/88/1146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1146
 [/us/stat/64/1271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1271
 [/us/pl/93/416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F416

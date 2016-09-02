@@ -43,7 +43,7 @@
 
     (d) When an employee in a missing status is continued in that status under [section 5565 of this title][/us/usc/t5/s5565], he continues to be entitled to have pay and allowances credited under subsection (a) of this section.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 490][/us/stat/80/490]; [Pub. L. 93–181, § 7(a)][/us/pl/93/181/s7/a], Dec. 14, 1973, [87 Stat. 707][/us/stat/87/707]; [Pub. L. 96–54, § 2(a)(33)][/us/pl/96/54/s2/a/33], Aug. 14, 1979, [93 Stat. 383][/us/stat/93/383].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 490][/us/stat/80/490]; [Pub. L. 93–181][/us/pl/93/181], § 7(a), Dec. 14, 1973, [87 Stat. 707][/us/stat/87/707]; [Pub. L. 96–54][/us/pl/96/54], § 2(a)(33), Aug. 14, 1979, [93 Stat. 383][/us/stat/93/383].)
 
 <table>
 
@@ -231,7 +231,7 @@ Aug. 14, 1964, Pub. L. 88–428, § 1(5)(B), 78 Stat. 437.  </td>
 
  __Former Employees or Their Beneficiaries__ 
 
-[Pub. L. 93–181, § 7(b)][/us/pl/93/181/s7/b], Dec. 14, 1973, [87 Stat. 707][/us/stat/87/707], provided that: 
+[Pub. L. 93–181][/us/pl/93/181], § 7(b), Dec. 14, 1973, [87 Stat. 707][/us/stat/87/707], provided that: 
 
 > “The amendment made by subsection (a) of this section \[amending subsec. (a) of this section\] shall apply to former employees or their beneficiaries.”
 
@@ -248,16 +248,16 @@ Aug. 14, 1964, Pub. L. 88–428, § 1(5)(B), 78 Stat. 437.  </td>
 [/us/usc/t5/s5565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5565
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/490]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F490
-[/us/pl/93/181/s7/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F181%2Fs7%2Fa
+[/us/pl/93/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F181
 [/us/stat/87/707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F707
-[/us/pl/96/54/s2/a/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F54%2Fs2%2Fa%2F33
+[/us/pl/96/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F54
 [/us/stat/93/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F383
 [/us/pl/96/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F54
 [/us/pl/93/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F181
 [/us/pl/96/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F54
 [/us/pl/96/54/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F54%2Fs2%2Fb
 [/us/usc/t5/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs305
-[/us/pl/93/181/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F181%2Fs7%2Fb
+[/us/pl/93/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F181
 [/us/stat/87/707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F707
 
 

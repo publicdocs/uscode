@@ -19,7 +19,7 @@
 
     (b) The Office shall, as appropriate, provide for coordinated enrollment, promotion, and education efforts as appropriate in consultation with each qualified company. The information under this subsection shall include information relating to the dental benefits available under chapter 89, including the advantages and disadvantages of obtaining additional coverage under this chapter.
 
-(Added [Pub. L. 108–496, § 2][/us/pl/108/496/s2], Dec. 23, 2004, [118 Stat. 4006][/us/stat/118/4006].)
+(Added [Pub. L. 108–496][/us/pl/108/496], § 2, Dec. 23, 2004, [118 Stat. 4006][/us/stat/118/4006].)
 
 ----------
 
@@ -28,7 +28,7 @@
 ----------
 ----------
 
-[/us/pl/108/496/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F496%2Fs2
+[/us/pl/108/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F496
 [/us/stat/118/4006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F4006
 
 

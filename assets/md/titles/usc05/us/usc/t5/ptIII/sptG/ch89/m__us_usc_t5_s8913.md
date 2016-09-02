@@ -33,7 +33,7 @@
 
     (d) The Secretary of Agriculture shall prescribe regulations to effect the application and operation of this chapter to an individual named by [section 8901(1)(H) of this title][/us/usc/t5/s8901/1/H].
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 607][/us/stat/80/607]; [Pub. L. 95–437, § 4(c)(1)][/us/pl/95/437/s4/c/1], Oct. 10, 1978, [92 Stat. 1058][/us/stat/92/1058]; [Pub. L. 95–454, title IX, § 906(a)(2)][/us/pl/95/454/s906/a/2], (3), (c)(2)(F), (H), Oct. 13, 1978, [92 Stat. 1224][/us/stat/92/1224], 1227; [Pub. L. 98–615, § 3(7)][/us/pl/98/615/s3/7], Nov. 8, 1984, [98 Stat. 3204][/us/stat/98/3204]; [Pub. L. 99–53, § 2(a)][/us/pl/99/53/s2/a], June 17, 1985, [99 Stat. 94][/us/stat/99/94]; [Pub. L. 100–654, title III, § 301(c)][/us/pl/100/654/s301/c], Nov. 14, 1988, [102 Stat. 3846][/us/stat/102/3846].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 607][/us/stat/80/607]; [Pub. L. 95–437][/us/pl/95/437], § 4(c)(1), Oct. 10, 1978, [92 Stat. 1058][/us/stat/92/1058]; [Pub. L. 95–454, title IX][/us/pl/95/454/tIX], § 906(a)(2), (3), (c)(2)(F), (H), Oct. 13, 1978, [92 Stat. 1224][/us/stat/92/1224], 1227; [Pub. L. 98–615][/us/pl/98/615], § 3(7), Nov. 8, 1984, [98 Stat. 3204][/us/stat/98/3204]; [Pub. L. 99–53][/us/pl/99/53], § 2(a), June 17, 1985, [99 Stat. 94][/us/stat/99/94]; [Pub. L. 100–654, title III][/us/pl/100/654/tIII], § 301(c), Nov. 14, 1988, [102 Stat. 3846][/us/stat/102/3846].)
 
 <table>
 
@@ -157,15 +157,15 @@ July 1, 1960, Pub. L. 86–568, § 115(d) “(f) (2d sentence)”, 74 Stat. 30
 
     1985—Subsec. (b). [Pub. L. 99–53][/us/pl/99/53] inserted reference to [section 8903a of this title][/us/usc/t5/s8903a].
 
-    1984—Subsec. (c). [Pub. L. 98–615, § 3(7)][/us/pl/98/615/s3/7], substituted “employees, annuitants, members of their families, and former spouses” for “employees and annuitants and members of their families”, and “in which an annuitant or former spouse” for “in which an annuitant”.
+    1984—Subsec. (c). [Pub. L. 98–615][/us/pl/98/615], § 3(7), substituted “employees, annuitants, members of their families, and former spouses” for “employees and annuitants and members of their families”, and “in which an annuitant or former spouse” for “in which an annuitant”.
 
-    1978—Subsecs. (a), (b). [Pub. L. 95–454, § 906(a)(2)][/us/pl/95/454/s906/a/2], (3), substituted “Office of Personnel Management” for “Civil Service Commission” and “Office” for “Commission” wherever appearing.
+    1978—Subsecs. (a), (b). [Pub. L. 95–454][/us/pl/95/454], § 906(a)(2), (3), substituted “Office of Personnel Management” for “Civil Service Commission” and “Office” for “Commission” wherever appearing.
 
-    Subsec. (b)(3). [Pub. L. 95–454, § 906(c)(2)(F)][/us/pl/95/454/s906/c/2/F], (H), substituted “3401” for “3391”.
+    Subsec. (b)(3). [Pub. L. 95–454][/us/pl/95/454], § 906(c)(2)(F), (H), substituted “3401” for “3391”.
 
     [Pub. L. 95–437][/us/pl/95/437] added par. (3).
 
-    Subsec. (c). [Pub. L. 95–454, § 906(a)(3)][/us/pl/95/454/s906/a/3], substituted “Office” for “Commission”.
+    Subsec. (c). [Pub. L. 95–454][/us/pl/95/454], § 906(a)(3), substituted “Office” for “Commission”.
 
  __Effective Date of 1988 Amendment__ 
 
@@ -192,26 +192,26 @@ July 1, 1960, Pub. L. 86–568, § 115(d) “(f) (2d sentence)”, 74 Stat. 30
 [/us/usc/t5/s8901/1/H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8901%2F1%2FH
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F607
-[/us/pl/95/437/s4/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F437%2Fs4%2Fc%2F1
+[/us/pl/95/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F437
 [/us/stat/92/1058]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1058
-[/us/pl/95/454/s906/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs906%2Fa%2F2
+[/us/pl/95/454/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtIX
 [/us/stat/92/1224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1224
-[/us/pl/98/615/s3/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F615%2Fs3%2F7
+[/us/pl/98/615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F615
 [/us/stat/98/3204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3204
-[/us/pl/99/53/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F53%2Fs2%2Fa
+[/us/pl/99/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F53
 [/us/stat/99/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F94
-[/us/pl/100/654/s301/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F654%2Fs301%2Fc
+[/us/pl/100/654/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F654%2FtIII
 [/us/stat/102/3846]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3846
 [/us/usc/t31/s1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1501
 [/us/stat/69/521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F521
 [/us/pl/100/654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F654
 [/us/pl/99/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F53
 [/us/usc/t5/s8903a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8903a
-[/us/pl/98/615/s3/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F615%2Fs3%2F7
-[/us/pl/95/454/s906/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs906%2Fa%2F2
-[/us/pl/95/454/s906/c/2/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs906%2Fc%2F2%2FF
+[/us/pl/98/615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F615
+[/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454
+[/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454
 [/us/pl/95/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F437
-[/us/pl/95/454/s906/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs906%2Fa%2F3
+[/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454
 [/us/pl/100/654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F654
 [/us/pl/100/654/s301/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F654%2Fs301%2Fd
 [/us/usc/t5/s8906a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8906a

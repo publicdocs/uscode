@@ -19,7 +19,7 @@
 
     (b) The annual leave, sick leave, and home leave to the credit of a nonappropriated fund employee of the Department of Defense or the Coast Guard described in section 2105(c) who moves without a break in service of more than 3 days to a position in the Department of Defense or the Coast Guard, respectively, that is subject to this subchapter shall be transferred to the employee’s credit. The annual leave, sick leave, and home leave to the credit of an employee of the Department of Defense or the Coast Guard who is subject to this subchapter and who moves without a break in service of more than 3 days to a position under a nonappropriated fund instrumentality of the Department of Defense or the Coast Guard, respectively, described in section 2105(c), shall be transferred to the employee’s credit under the nonappropriated fund instrumentality. The Secretary of Defense or the Secretary of Homeland Security, as appropriate, may provide for a transfer of funds in an amount equal to the value of the transferred annual leave to compensate the gaining entity for the cost of a transfer of annual leave under this subsection.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 521][/us/stat/80/521]; [Pub. L. 95–454, title IX, § 906(a)(2)][/us/pl/95/454/s906/a/2], Oct. 13, 1978, [92 Stat. 1224][/us/stat/92/1224]; [Pub. L. 101–508, title VII, § 7202(h)][/us/pl/101/508/s7202/h], Nov. 5, 1990, [104 Stat. 1388–336][/us/stat/104/1388-336]; [Pub. L. 109–241, title IX, § 902(a)(3)][/us/pl/109/241/s902/a/3], July 11, 2006, [120 Stat. 566][/us/stat/120/566].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 521][/us/stat/80/521]; [Pub. L. 95–454, title IX][/us/pl/95/454/tIX], § 906(a)(2), Oct. 13, 1978, [92 Stat. 1224][/us/stat/92/1224]; [Pub. L. 101–508, title VII][/us/pl/101/508/tVII], § 7202(h), Nov. 5, 1990, [104 Stat. 1388–336][/us/stat/104/1388-336]; [Pub. L. 109–241, title IX][/us/pl/109/241/tIX], § 902(a)(3), July 11, 2006, [120 Stat. 566][/us/stat/120/566].)
 
 <table>
 
@@ -125,7 +125,7 @@ Aug. 21, 1964, Pub. L. 88–471, § 6(d), 78 Stat. 583.  </td>
 
  __Election of Leave or Lump-Sum Payment for Certain Employees__ 
 
-    [Pub. L. 102–484, div. A, title X, § 1077][/us/pl/102/484/s1077], Oct. 23, 1992, [106 Stat. 2512][/us/stat/106/2512], authorized an employee referred to in [section 6308(b) of this title][/us/usc/t5/s6308/b], who made an employment move described in such subsection after Dec. 31, 1986, and before Apr. 16, 1991, to elect to repay the lump-sum payment received based on such employment move in lieu of annual leave and have the annual leave recredited to the employee’s leave account, or to keep the lump-sum payment in lieu of that annual leave.
+    [Pub. L. 102–484, div. A, title X][/us/pl/102/484/dA/tX], § 1077, Oct. 23, 1992, [106 Stat. 2512][/us/stat/106/2512], authorized an employee referred to in [section 6308(b) of this title][/us/usc/t5/s6308/b], who made an employment move described in such subsection after Dec. 31, 1986, and before Apr. 16, 1991, to elect to repay the lump-sum payment received based on such employment move in lieu of annual leave and have the annual leave recredited to the employee’s leave account, or to keep the lump-sum payment in lieu of that annual leave.
 
 ----------
 
@@ -136,11 +136,11 @@ Aug. 21, 1964, Pub. L. 88–471, § 6(d), 78 Stat. 583.  </td>
 
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F521
-[/us/pl/95/454/s906/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs906%2Fa%2F2
+[/us/pl/95/454/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtIX
 [/us/stat/92/1224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1224
-[/us/pl/101/508/s7202/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs7202%2Fh
+[/us/pl/101/508/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtVII
 [/us/stat/104/1388-336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-336
-[/us/pl/109/241/s902/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241%2Fs902%2Fa%2F3
+[/us/pl/109/241/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241%2FtIX
 [/us/stat/120/566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F566
 [/us/pl/109/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
@@ -153,7 +153,7 @@ Aug. 21, 1964, Pub. L. 88–471, § 6(d), 78 Stat. 583.  </td>
 [/us/pl/95/454/s907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs907
 [/us/usc/t5/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs1101
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
-[/us/pl/102/484/s1077]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs1077
+[/us/pl/102/484/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtX
 [/us/stat/106/2512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2512
 [/us/usc/t5/s6308/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs6308%2Fb
 

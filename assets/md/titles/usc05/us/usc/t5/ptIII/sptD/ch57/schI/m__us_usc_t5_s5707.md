@@ -61,7 +61,7 @@
 
     (c) The Administrator of General Services shall periodically, but at least every 2 years, submit to the Director of the Office of Management and Budget an analysis of estimated total agency payments for such items as travel and transportation of people, average costs and duration of trips, and purposes of official travel; and of estimated total agency payments for employee relocation. This analysis shall be based on a sampling survey of agencies each of which spent more than $5,000,000 during the previous fiscal year on travel and transportation payments, including payments for employee relocation. Agencies shall provide to the Administrator the necessary information in a format prescribed by the Administrator and approved by the Director.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 500][/us/stat/80/500]; [Pub. L. 94–22, § 6(a)][/us/pl/94/22/s6/a], May 19, 1975, [89 Stat. 85][/us/stat/89/85]; [Pub. L. 99–234, title I, § 104][/us/pl/99/234/s104], Jan. 2, 1986, [99 Stat. 1758][/us/stat/99/1758]; [Pub. L. 101–391, § 5(a)(1)][/us/pl/101/391/s5/a/1], Sept. 25, 1990, [104 Stat. 750][/us/stat/104/750]; [Pub. L. 103–329, title VI, § 634(b)][/us/pl/103/329/s634/b], (c), Sept. 30, 1994, [108 Stat. 2429][/us/stat/108/2429], 2430; [Pub. L. 104–201, div. A, title XVI, § 1614(a)(1)][/us/pl/104/201/s1614/a/1], Sept. 23, 1996, [110 Stat. 2739][/us/stat/110/2739]; [Pub. L. 104–316, title I, § 103(e)][/us/pl/104/316/s103/e], Oct. 19, 1996, [110 Stat. 3829][/us/stat/110/3829]; [Pub. L. 113–291, div. A, title IX, § 915(b)][/us/pl/113/291/s915/b], Dec. 19, 2014, [128 Stat. 3475][/us/stat/128/3475].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 500][/us/stat/80/500]; [Pub. L. 94–22][/us/pl/94/22], § 6(a), May 19, 1975, [89 Stat. 85][/us/stat/89/85]; [Pub. L. 99–234, title I][/us/pl/99/234/tI], § 104, Jan. 2, 1986, [99 Stat. 1758][/us/stat/99/1758]; [Pub. L. 101–391][/us/pl/101/391], § 5(a)(1), Sept. 25, 1990, [104 Stat. 750][/us/stat/104/750]; [Pub. L. 103–329, title VI][/us/pl/103/329/tVI], § 634(b), (c), Sept. 30, 1994, [108 Stat. 2429][/us/stat/108/2429], 2430; [Pub. L. 104–201, div. A, title XVI][/us/pl/104/201/dA/tXVI], § 1614(a)(1), Sept. 23, 1996, [110 Stat. 2739][/us/stat/110/2739]; [Pub. L. 104–316, title I][/us/pl/104/316/tI], § 103(e), Oct. 19, 1996, [110 Stat. 3829][/us/stat/110/3829]; [Pub. L. 113–291, div. A, title IX][/us/pl/113/291/dA/tIX], § 915(b), Dec. 19, 2014, [128 Stat. 3475][/us/stat/128/3475].)
 
 <table>
 
@@ -115,17 +115,17 @@ June 9, 1949, ch. 185, § 7, 63 Stat. 167.  </td>
 
  __Amendments__ 
 
-    2014—Subsec. (b)(1)(A). [Pub. L. 113–291, § 915(b)(1)][/us/pl/113/291/s915/b/1], amended subpar. (A) generally. Prior to amendment, text read as follows: “The Administrator of General Services, in consultation with the Secretary of Transportation, the Secretary of Defense, and representatives of organizations of employees of the Government, shall conduct periodic investigations of the cost of travel and the operation of privately owned vehicles to employees while engaged on official business, and shall report the results of such investigations to Congress at least once a year.”
+    2014—Subsec. (b)(1)(A). [Pub. L. 113–291][/us/pl/113/291], § 915(b)(1), amended subpar. (A) generally. Prior to amendment, text read as follows: “The Administrator of General Services, in consultation with the Secretary of Transportation, the Secretary of Defense, and representatives of organizations of employees of the Government, shall conduct periodic investigations of the cost of travel and the operation of privately owned vehicles to employees while engaged on official business, and shall report the results of such investigations to Congress at least once a year.”
 
-    Subsec. (b)(2)(A)(i). [Pub. L. 113–291, § 915(b)(2)][/us/pl/113/291/s915/b/2], amended cl. (i) generally. Prior to amendment, text read as follows: “shall prescribe a mileage reimbursement rate which reflects the current costs as determined by the Administrator of operating privately owned automobiles, and which shall not exceed, as provided in [section 5704(a)(1) of this title][/us/usc/t5/s5704/a/1], the single standard mileage rate established by the Internal Revenue Service, and”.
+    Subsec. (b)(2)(A)(i). [Pub. L. 113–291][/us/pl/113/291], § 915(b)(2), amended cl. (i) generally. Prior to amendment, text read as follows: “shall prescribe a mileage reimbursement rate which reflects the current costs as determined by the Administrator of operating privately owned automobiles, and which shall not exceed, as provided in [section 5704(a)(1) of this title][/us/usc/t5/s5704/a/1], the single standard mileage rate established by the Internal Revenue Service, and”.
 
     1996—Subsec. (b)(1)(A). [Pub. L. 104–316][/us/pl/104/316] struck out “the Comptroller General of the United States,” after “in consultation with”.
 
     Subsec. (d). [Pub. L. 104–201][/us/pl/104/201] struck out subsec. (d) which provided that agencies ensure that their approved accommodation percentages be not less than specified percentages for fiscal years beginning 4 and 5 years after Sept. 25, 1990, and that their percentages be not less than 90 percent for fiscal years beginning 6 years after Sept. 25, 1990, and thereafter.
 
-    1994—Subsec. (b). [Pub. L. 103–329, § 634(b)][/us/pl/103/329/s634/b], amended subsec. (b) generally, revising and restructuring text.
+    1994—Subsec. (b). [Pub. L. 103–329][/us/pl/103/329], § 634(b), amended subsec. (b) generally, revising and restructuring text.
 
-    Subsec. (c). [Pub. L. 103–329, § 634(c)][/us/pl/103/329/s634/c], redesignated par. (1) as entire subsec. and struck out par. (2) which read as follows: “The requirements of paragraph (1) of this subsection shall expire upon the Administrator’s submission of the analysis that includes the fiscal year that ends September 30, 1991.”
+    Subsec. (c). [Pub. L. 103–329][/us/pl/103/329], § 634(c), redesignated par. (1) as entire subsec. and struck out par. (2) which read as follows: “The requirements of paragraph (1) of this subsection shall expire upon the Administrator’s submission of the analysis that includes the fiscal year that ends September 30, 1991.”
 
     1990—Subsec. (d). [Pub. L. 101–391][/us/pl/101/391] added subsec. (d).
 
@@ -141,7 +141,7 @@ June 9, 1949, ch. 185, § 7, 63 Stat. 167.  </td>
 
  __Regulations; Time for Issuance__ 
 
-    [Pub. L. 94–22, § 6(b)][/us/pl/94/22/s6/b], May 19, 1975, [89 Stat. 86][/us/stat/89/86], provided that regulations required under the first sentence of subsec. (b)(2) of this section, as amended by subsec. (a) of [section 6 of Pub. L. 94–22][/us/pl/94/22/s6], were to be issued no later than 30 days after May 19, 1975.
+    [Pub. L. 94–22][/us/pl/94/22], § 6(b), May 19, 1975, [89 Stat. 86][/us/stat/89/86], provided that regulations required under the first sentence of subsec. (b)(2) of this section, as amended by subsec. (a) of [section 6 of Pub. L. 94–22][/us/pl/94/22/s6], were to be issued no later than 30 days after May 19, 1975.
 
  __Termination of Reporting Requirements__ 
 
@@ -149,7 +149,7 @@ June 9, 1949, ch. 185, § 7, 63 Stat. 167.  </td>
 
  __Reports Regarding Foreign Travel__ 
 
-[Pub. L. 105–277, div. G][/us/pl/105/277], subdiv. B, title XXV, § 2505, Oct. 21, 1998, [112 Stat. 2681–837][/us/stat/112/2681-837], as amended by [Pub. L. 106–113, div. B, § 1000(a)(7)][/us/pl/106/113/s1000/a/7] \[div. A, title VII, § 707\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–461; [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814], provided that:
+[Pub. L. 105–277, div. G][/us/pl/105/277/dG], subdiv. B, title XXV, § 2505, Oct. 21, 1998, [112 Stat. 2681–837][/us/stat/112/2681-837], as amended by [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(7) \[div. A, title VII, § 707\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–461; [Pub. L. 108–271][/us/pl/108/271], § 8(b), July 7, 2004, [118 Stat. 814][/us/stat/118/814], provided that:
 
 >     “(a)  __Prohibition__  __.—__ 
 
@@ -223,13 +223,13 @@ June 9, 1949, ch. 185, § 7, 63 Stat. 167.  </td>
 
  __Reporting of Employee Relocation Expenses__ 
 
-[Pub. L. 105–61, title VI, § 635][/us/pl/105/61/s635], Oct. 10, 1997, [111 Stat. 1316][/us/stat/111/1316], provided that: 
+[Pub. L. 105–61, title VI][/us/pl/105/61/tVI], § 635, Oct. 10, 1997, [111 Stat. 1316][/us/stat/111/1316], provided that: 
 
 > “No later than 30 days after the enactment of this Act \[Oct. 10, 1997\], the Director of the Office of Management and Budget shall require all Federal departments and agencies to report total obligations for the expenses of employee relocation. All obligations incident to employee relocation authorized under either chapter 57 of title 5, United States Code, or section 901 of the Foreign Service Act of 1980 ([22 U.S.C. 4081][/us/usc/t22/s4081]; [Public Law 96–465][/us/pl/96/465]), shall be included. Such information for the past, current, and budget years shall be included in the agency budget submission to the President. The Director of the Office of Management and Budget shall prepare a table presenting obligations for the expenses of employee relocation for all departments and agencies, and such table shall be transmitted to Congress each year as part of the President’s annual budget.”
 
  __GAO Audit of Agency Compliance__ 
 
-    [Pub. L. 101–391, § 5(b)][/us/pl/101/391/s5/b], Sept. 25, 1990, [104 Stat. 751][/us/stat/104/751], which provided that not later than 6 months after the last day of the first fiscal year during which lodging expenses were subject to the requirements of former subsec. (d) of this section, and not later than 6 months after the last day of every fiscal year thereafter, the Comptroller General was to conduct an audit of the compliance of agencies with the requirements of such subsection, and was to submit a report to Congress describing the results of such audit, was repealed by [Pub. L. 104–201, div. A, title XVI, § 1614(a)(2)][/us/pl/104/201/s1614/a/2], Sept. 23, 1996, [110 Stat. 2739][/us/stat/110/2739], and [Pub. L. 104–316, title I, § 103(f)][/us/pl/104/316/s103/f], Oct. 19, 1996, [110 Stat. 3829][/us/stat/110/3829].
+    [Pub. L. 101–391][/us/pl/101/391], § 5(b), Sept. 25, 1990, [104 Stat. 751][/us/stat/104/751], which provided that not later than 6 months after the last day of the first fiscal year during which lodging expenses were subject to the requirements of former subsec. (d) of this section, and not later than 6 months after the last day of every fiscal year thereafter, the Comptroller General was to conduct an audit of the compliance of agencies with the requirements of such subsection, and was to submit a report to Congress describing the results of such audit, was repealed by [Pub. L. 104–201, div. A, title XVI][/us/pl/104/201/dA/tXVI], § 1614(a)(2), Sept. 23, 1996, [110 Stat. 2739][/us/stat/110/2739], and [Pub. L. 104–316, title I][/us/pl/104/316/tI], § 103(f), Oct. 19, 1996, [110 Stat. 3829][/us/stat/110/3829].
 
 ----------
 
@@ -241,27 +241,27 @@ June 9, 1949, ch. 185, § 7, 63 Stat. 167.  </td>
 [/us/usc/t5/s5704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5704
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F500
-[/us/pl/94/22/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F22%2Fs6%2Fa
+[/us/pl/94/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F22
 [/us/stat/89/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F85
-[/us/pl/99/234/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F234%2Fs104
+[/us/pl/99/234/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F234%2FtI
 [/us/stat/99/1758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1758
-[/us/pl/101/391/s5/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F391%2Fs5%2Fa%2F1
+[/us/pl/101/391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F391
 [/us/stat/104/750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F750
-[/us/pl/103/329/s634/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F329%2Fs634%2Fb
+[/us/pl/103/329/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F329%2FtVI
 [/us/stat/108/2429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2429
-[/us/pl/104/201/s1614/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1614%2Fa%2F1
+[/us/pl/104/201/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtXVI
 [/us/stat/110/2739]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2739
-[/us/pl/104/316/s103/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2Fs103%2Fe
+[/us/pl/104/316/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2FtI
 [/us/stat/110/3829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3829
-[/us/pl/113/291/s915/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs915%2Fb
+[/us/pl/113/291/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtIX
 [/us/stat/128/3475]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3475
-[/us/pl/113/291/s915/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs915%2Fb%2F1
-[/us/pl/113/291/s915/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs915%2Fb%2F2
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/usc/t5/s5704/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5704%2Fa%2F1
 [/us/pl/104/316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316
 [/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
-[/us/pl/103/329/s634/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F329%2Fs634%2Fb
-[/us/pl/103/329/s634/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F329%2Fs634%2Fc
+[/us/pl/103/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F329
+[/us/pl/103/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F329
 [/us/pl/101/391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F391
 [/us/pl/99/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F234
 [/us/pl/99/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F234
@@ -269,27 +269,27 @@ June 9, 1949, ch. 185, § 7, 63 Stat. 167.  </td>
 [/us/pl/99/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F234
 [/us/pl/99/234/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F234%2Fs301%2Fa
 [/us/usc/t5/s5701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5701
-[/us/pl/94/22/s6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F22%2Fs6%2Fb
+[/us/pl/94/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F22
 [/us/stat/89/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F86
 [/us/pl/94/22/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F22%2Fs6
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113
-[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277/dG]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdG
 [/us/stat/112/2681-837]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-837
-[/us/pl/106/113/s1000/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F7
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
-[/us/pl/108/271/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271%2Fs8%2Fb
+[/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/stat/118/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F814
 [/us/usc/t5/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs105
-[/us/pl/105/61/s635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F61%2Fs635
+[/us/pl/105/61/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F61%2FtVI
 [/us/stat/111/1316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1316
 [/us/usc/t22/s4081]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4081
 [/us/pl/96/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465
-[/us/pl/101/391/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F391%2Fs5%2Fb
+[/us/pl/101/391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F391
 [/us/stat/104/751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F751
-[/us/pl/104/201/s1614/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1614%2Fa%2F2
+[/us/pl/104/201/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtXVI
 [/us/stat/110/2739]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2739
-[/us/pl/104/316/s103/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2Fs103%2Ff
+[/us/pl/104/316/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2FtI
 [/us/stat/110/3829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3829
 
 

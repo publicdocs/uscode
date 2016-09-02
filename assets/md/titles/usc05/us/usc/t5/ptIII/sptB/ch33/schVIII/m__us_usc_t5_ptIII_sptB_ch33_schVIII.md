@@ -17,7 +17,7 @@
 
  __Prior Provisions__ 
 
-    A prior subchapter VIII, added [Pub. L. 95–437, § 3(a)][/us/pl/95/437/s3/a], Oct. 10, 1978, [92 Stat. 1056][/us/stat/92/1056], which related to part-time career employment opportunities, was redesignated as chapter 34 of this title by [Pub. L. 95–454, title IX, § 906(c)(1)(A)][/us/pl/95/454/s906/c/1/A], Oct. 13, 1978, [92 Stat. 1226][/us/stat/92/1226].
+    A prior subchapter VIII, added [Pub. L. 95–437][/us/pl/95/437], § 3(a), Oct. 10, 1978, [92 Stat. 1056][/us/stat/92/1056], which related to part-time career employment opportunities, was redesignated as chapter 34 of this title by [Pub. L. 95–454, title IX][/us/pl/95/454/tIX], § 906(c)(1)(A), Oct. 13, 1978, [92 Stat. 1226][/us/stat/92/1226].
 
 ----------
 
@@ -26,9 +26,9 @@
 ----------
 ----------
 
-[/us/pl/95/437/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F437%2Fs3%2Fa
+[/us/pl/95/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F437
 [/us/stat/92/1056]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1056
-[/us/pl/95/454/s906/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs906%2Fc%2F1%2FA
+[/us/pl/95/454/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtIX
 [/us/stat/92/1226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1226
 
 

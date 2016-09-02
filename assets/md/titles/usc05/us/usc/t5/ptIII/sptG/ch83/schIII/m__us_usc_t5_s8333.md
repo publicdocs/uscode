@@ -21,7 +21,7 @@
 
     (c) A Member or his survivor is eligible for an annuity under this subchapter only if the amounts named by [section 8334 of this title][/us/usc/t5/s8334] have been deducted or deposited with respect to his last 5 years of civilian service, or, in the case of a survivor annuity under section 8341(d) or (e)(1) of this title, with respect to his total service.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 569][/us/stat/80/569]; [Pub. L. 91–93, title II, § 201(b)][/us/pl/91/93/s201/b], Oct. 20, 1969, [83 Stat. 138][/us/stat/83/138]; [Pub. L. 94–183, § 2(34)][/us/pl/94/183/s2/34], Dec. 31, 1975, [89 Stat. 1058][/us/stat/89/1058].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 569][/us/stat/80/569]; [Pub. L. 91–93, title II][/us/pl/91/93/tII], § 201(b), Oct. 20, 1969, [83 Stat. 138][/us/stat/83/138]; [Pub. L. 94–183][/us/pl/94/183], § 2(34), Dec. 31, 1975, [89 Stat. 1058][/us/stat/89/1058].)
 
 <table>
 
@@ -111,9 +111,9 @@ Aug. 27, 1958, Pub. L. 85–772, § 1(a), 72 Stat. 930.  </td>
 [/us/usc/t5/s8334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8334
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F569
-[/us/pl/91/93/s201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F93%2Fs201%2Fb
+[/us/pl/91/93/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F93%2FtII
 [/us/stat/83/138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F138
-[/us/pl/94/183/s2/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F183%2Fs2%2F34
+[/us/pl/94/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F183
 [/us/stat/89/1058]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F1058
 [/us/pl/94/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F183
 [/us/pl/91/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F93

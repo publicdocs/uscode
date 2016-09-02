@@ -97,17 +97,17 @@
 
         Each master contract under this chapter shall include such provisions as may be necessary to ensure that, once an individual becomes duly enrolled, long-term care insurance coverage obtained by such individual pursuant to that enrollment shall not be terminated due to any change in status (such as separation from Government service or the uniformed services) or ceasing to meet the requirements for being considered a qualified relative (whether as a result of dissolution of marriage or otherwise).
 
-(Added [Pub. L. 106–265, title I, § 1002(a)][/us/pl/106/265/s1002/a], Sept. 19, 2000, [114 Stat. 764][/us/stat/114/764]; amended [Pub. L. 111–350, § 5(a)(18)][/us/pl/111/350/s5/a/18], Jan. 4, 2011, [124 Stat. 3842][/us/stat/124/3842].)
+(Added [Pub. L. 106–265, title I][/us/pl/106/265/tI], § 1002(a), Sept. 19, 2000, [114 Stat. 764][/us/stat/114/764]; amended [Pub. L. 111–350][/us/pl/111/350], § 5(a)(18), Jan. 4, 2011, [124 Stat. 3842][/us/stat/124/3842].)
 
  __Amendments__ 
 
-    2011—Subsec. (a). [Pub. L. 111–350, § 5(a)(18)(A)][/us/pl/111/350/s5/a/18/A], substituted “section 6101(b) to (d) of title 41” for “[section 5 of title 41][/us/usc/t41/s5]”.
+    2011—Subsec. (a). [Pub. L. 111–350][/us/pl/111/350], § 5(a)(18)(A), substituted “section 6101(b) to (d) of title 41” for “[section 5 of title 41][/us/usc/t41/s5]”.
 
-    Subsec. (c)(3). [Pub. L. 111–350, § 5(a)(18)(B)][/us/pl/111/350/s5/a/18/B], substituted “chapter 71 of title 41” for “the Contract Disputes Act of 1978” in introductory provisions.
+    Subsec. (c)(3). [Pub. L. 111–350][/us/pl/111/350], § 5(a)(18)(B), substituted “chapter 71 of title 41” for “the Contract Disputes Act of 1978” in introductory provisions.
 
-    Subsec. (c)(3)(A). [Pub. L. 111–350, § 5(a)(18)(C)][/us/pl/111/350/s5/a/18/C], struck out “(after appropriate arrangements, as described in section 8(c) of such Act)” after “specify in writing”.
+    Subsec. (c)(3)(A). [Pub. L. 111–350][/us/pl/111/350], § 5(a)(18)(C), struck out “(after appropriate arrangements, as described in section 8(c) of such Act)” after “specify in writing”.
 
-    Subsec. (c)(3)(B). [Pub. L. 111–350, § 5(a)(18)(D)][/us/pl/111/350/s5/a/18/D], substituted “[section 7104(b)(1) of title 41][/us/usc/t41/s7104/b/1]” for “section 10(a)(1) of such Act”.
+    Subsec. (c)(3)(B). [Pub. L. 111–350][/us/pl/111/350], § 5(a)(18)(D), substituted “[section 7104(b)(1) of title 41][/us/usc/t41/s7104/b/1]” for “section 10(a)(1) of such Act”.
 
  __Change of Name__ 
 
@@ -123,15 +123,15 @@
 ----------
 
 [/us/usc/t41/s7104/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs7104%2Fb%2F1
-[/us/pl/106/265/s1002/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F265%2Fs1002%2Fa
+[/us/pl/106/265/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F265%2FtI
 [/us/stat/114/764]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F764
-[/us/pl/111/350/s5/a/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs5%2Fa%2F18
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3842]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3842
-[/us/pl/111/350/s5/a/18/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs5%2Fa%2F18%2FA
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/usc/t41/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs5
-[/us/pl/111/350/s5/a/18/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs5%2Fa%2F18%2FB
-[/us/pl/111/350/s5/a/18/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs5%2Fa%2F18%2FC
-[/us/pl/111/350/s5/a/18/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs5%2Fa%2F18%2FD
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/usc/t41/s7104/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs7104%2Fb%2F1
 
 

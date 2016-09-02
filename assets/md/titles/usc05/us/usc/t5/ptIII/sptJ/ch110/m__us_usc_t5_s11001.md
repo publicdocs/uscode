@@ -105,7 +105,7 @@
 
         (4) the term “enhanced personnel security program” means a program implemented by an agency at the direction of the Director of National Intelligence under subsection (a); and  <sup>\[2\]</sup>  <sup><sup> 2 So in original. The “; and” probably should be a period. </sup></sup> 
 
-(Added [Pub. L. 114–113, div. M, title III, § 306(a)(1)][/us/pl/114/113/s306/a/1], Dec. 18, 2015, [129 Stat. 2914][/us/stat/129/2914].)
+(Added [Pub. L. 114–113, div. M, title III][/us/pl/114/113/dM/tIII], § 306(a)(1), Dec. 18, 2015, [129 Stat. 2914][/us/stat/129/2914].)
 
  __References in Text__ 
 
@@ -113,7 +113,7 @@
 
  __Resolution of Backlog of Overdue Periodic Reinvestigations__ 
 
-[Pub. L. 114–113, div. M, title III, § 306(b)][/us/pl/114/113/s306/b], Dec. 18, 2015, [129 Stat. 2916][/us/stat/129/2916], provided that:
+[Pub. L. 114–113, div. M, title III][/us/pl/114/113/dM/tIII], § 306(b), Dec. 18, 2015, [129 Stat. 2916][/us/stat/129/2916], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -151,10 +151,10 @@
 [/us/usc/t50/s3341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3341
 [/us/usc/t50/s3341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3341
 [/us/usc/t15/s1681a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1681a
-[/us/pl/114/113/s306/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs306%2Fa%2F1
+[/us/pl/114/113/dM/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdM%2FtIII
 [/us/stat/129/2914]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2914
 [/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
-[/us/pl/114/113/s306/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs306%2Fb
+[/us/pl/114/113/dM/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdM%2FtIII
 [/us/stat/129/2916]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2916
 [/us/usc/t50/s3341/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3341%2Fa%2F7
 

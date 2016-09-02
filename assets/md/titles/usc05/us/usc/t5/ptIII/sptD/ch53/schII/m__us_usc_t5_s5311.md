@@ -17,7 +17,7 @@
 
     The Executive Schedule, which is divided into five pay levels, is the basic pay schedule for positions, other than Senior Executive Service positions and positions in the Federal Bureau of Investigation and Drug Enforcement Administration Senior Executive Service, to which this subchapter applies.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 459][/us/stat/80/459]; [Pub. L. 95–454, title IV][/us/pl/95/454], §§ 408(b)(1), 414(b)(1), Oct. 13, 1978, [92 Stat. 1173][/us/stat/92/1173], 1178; [Pub. L. 96–54, § 2(a)(24)][/us/pl/96/54/s2/a/24], Aug. 14, 1979, [93 Stat. 382][/us/stat/93/382]; [Pub. L. 100–325, § 2(h)(1)][/us/pl/100/325/s2/h/1], (2), May 30, 1988, [102 Stat. 582][/us/stat/102/582]; [Pub. L. 101–509, title V, § 529][/us/pl/101/509/s529] \[title I, § 104(c)\], Nov. 5, 1990, [104 Stat. 1427][/us/stat/104/1427], 1447.)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 459][/us/stat/80/459]; [Pub. L. 95–454, title IV][/us/pl/95/454/tIV], §§ 408(b)(1), 414(b)(1), Oct. 13, 1978, [92 Stat. 1173][/us/stat/92/1173], 1178; [Pub. L. 96–54][/us/pl/96/54], § 2(a)(24), Aug. 14, 1979, [93 Stat. 382][/us/stat/93/382]; [Pub. L. 100–325][/us/pl/100/325], § 2(h)(1), (2), May 30, 1988, [102 Stat. 582][/us/stat/102/582]; [Pub. L. 101–509, title V][/us/pl/101/509/tV], § 529 \[title I, § 104(c)\], Nov. 5, 1990, [104 Stat. 1427][/us/stat/104/1427], 1447.)
 
 <table>
 
@@ -83,15 +83,15 @@ Aug. 14, 1964, Pub. L. 88–426, § 302, 78 Stat. 415.  </td>
 
     but does not include any Senior Executive Service position (as defined in [section 3132(a) of this title][/us/usc/t5/s3132/a]) or any position in the Federal Bureau of Investigation and Drug Enforcement Administration Senior Executive Service.”
 
-    1988—Subsec. (a). [Pub. L. 100–325, § 2(h)(1)][/us/pl/100/325/s2/h/1], inserted reference to positions in Federal Bureau of Investigation and Drug Enforcement Administration Senior Executive Service.
+    1988—Subsec. (a). [Pub. L. 100–325][/us/pl/100/325], § 2(h)(1), inserted reference to positions in Federal Bureau of Investigation and Drug Enforcement Administration Senior Executive Service.
 
-    Subsec. (b)(2). [Pub. L. 100–325, § 2(h)(2)][/us/pl/100/325/s2/h/2], substituted “(as defined in [section 3132(a) of this title][/us/usc/t5/s3132/a]) or any position in the Federal Bureau of Investigation and Drug Enforcement Administration Senior Executive Service” for “, as defined in [section 3132(a) of this title][/us/usc/t5/s3132/a]” in concluding provision.
+    Subsec. (b)(2). [Pub. L. 100–325][/us/pl/100/325], § 2(h)(2), substituted “(as defined in [section 3132(a) of this title][/us/usc/t5/s3132/a]) or any position in the Federal Bureau of Investigation and Drug Enforcement Administration Senior Executive Service” for “, as defined in [section 3132(a) of this title][/us/usc/t5/s3132/a]” in concluding provision.
 
     1979—Subsec. (b)(1). [Pub. L. 96–54][/us/pl/96/54] inserted “of the Office of Personnel Management” after “Director”.
 
-    1978—[Pub. L. 95–454, § 408(b)(1)][/us/pl/95/454/s408/b/1], inserted reference to Senior Executive Service positions.
+    1978—[Pub. L. 95–454][/us/pl/95/454], § 408(b)(1), inserted reference to Senior Executive Service positions.
 
-    [Pub. L. 95–454, § 414(b)(1)][/us/pl/95/454/s414/b/1], designated existing provisions as subsec. (a) and added subsec. (b).
+    [Pub. L. 95–454][/us/pl/95/454], § 414(b)(1), designated existing provisions as subsec. (a) and added subsec. (b).
 
  __Effective Date of 1990 Amendment__ 
 
@@ -118,25 +118,25 @@ Aug. 14, 1964, Pub. L. 88–426, § 302, 78 Stat. 415.  </td>
 
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F459
-[/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454
+[/us/pl/95/454/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtIV
 [/us/stat/92/1173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1173
-[/us/pl/96/54/s2/a/24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F54%2Fs2%2Fa%2F24
+[/us/pl/96/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F54
 [/us/stat/93/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F382
-[/us/pl/100/325/s2/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F325%2Fs2%2Fh%2F1
+[/us/pl/100/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F325
 [/us/stat/102/582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F582
-[/us/pl/101/509/s529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2Fs529
+[/us/pl/101/509/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2FtV
 [/us/stat/104/1427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1427
 [/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509
 [/us/usc/t5/s5316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5316
 [/us/usc/t5/s5316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5316
 [/us/usc/t5/s3132/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3132%2Fa
-[/us/pl/100/325/s2/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F325%2Fs2%2Fh%2F1
-[/us/pl/100/325/s2/h/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F325%2Fs2%2Fh%2F2
+[/us/pl/100/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F325
+[/us/pl/100/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F325
 [/us/usc/t5/s3132/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3132%2Fa
 [/us/usc/t5/s3132/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3132%2Fa
 [/us/pl/96/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F54
-[/us/pl/95/454/s408/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs408%2Fb%2F1
-[/us/pl/95/454/s414/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs414%2Fb%2F1
+[/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454
+[/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454
 [/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509
 [/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509
 [/us/usc/t5/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5301

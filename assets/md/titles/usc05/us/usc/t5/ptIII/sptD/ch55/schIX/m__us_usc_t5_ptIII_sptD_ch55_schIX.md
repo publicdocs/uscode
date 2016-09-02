@@ -11,37 +11,22 @@
 ----------
 ----------
 
-[Previous](./../../../../../../..//us/usc/t5/ptIII/sptD/ch55/schVIII/m__us_usc_t5_s5584.md) | [Next](./../../../../../../..//us/usc/t5/ptIII/sptD/ch55/schIX/m__us_usc_t5_s5595.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2FptIII%2FsptD%2Fch55%2FschIX)
+[Previous](./../../../../../../..//us/usc/t5/ptIII/sptD/ch55/schVIII/m__us_usc_t5_s5584.md) | [Next](./../../../../../../..//us/usc/t5/ptIII/sptD/ch55/schIX/m__us_usc_t5_s5591...5594.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2FptIII%2FsptD%2Fch55%2FschIX)
 
 ##### SUBCHAPTER IX—SEVERANCE PAY AND BACK PAY
 
  __Amendments__ 
 
-    1967—[Pub. L. 90–83, § 1(34)(A)][/us/pl/90/83/s1/34/A], Sept. 11, 1967, [81 Stat. 201][/us/stat/81/201], inserted “SEVERANCE PAY AND” before “BACK PAY” in subchapter heading.
-
-\[§§ 5591 to 5594. __Repealed.__  __[__  __Pub. L. 90–83, § 1(34)(B)__  __][/us/pl/90/83/s1/34/B]__  __,__  __Sept. 11, 1967__  __,__  __[__  __81 Stat. 201__  __][/us/stat/81/201]__  __\]__ 
-
- __Historical and Revision Notes__ 
-
-    This section deletes sections 5591, 5592, 5593, and 5594 of title 5, United States Code, to reflect the repeal of the source statutes of those sections by the act of March 30, 1966, [Public Law 89–380][/us/pl/89/380], section 5, [80 Stat. 95][/us/stat/80/95].
-
-    \[Sections, [Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 496][/us/stat/80/496], 497, related to back pay for individuals or preference eligibles reinstated or restored, and are covered by [section 5596 of this title][/us/usc/t5/s5596].\]
+    1967—[Pub. L. 90–83][/us/pl/90/83], § 1(34)(A), Sept. 11, 1967, [81 Stat. 201][/us/stat/81/201], inserted “SEVERANCE PAY AND” before “BACK PAY” in subchapter heading.
 
 ----------
 
-[Previous](./../../../../../../..//us/usc/t5/ptIII/sptD/ch55/schVIII/m__us_usc_t5_s5584.md) | [Next](./../../../../../../..//us/usc/t5/ptIII/sptD/ch55/schIX/m__us_usc_t5_s5595.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2FptIII%2FsptD%2Fch55%2FschIX)
+[Previous](./../../../../../../..//us/usc/t5/ptIII/sptD/ch55/schVIII/m__us_usc_t5_s5584.md) | [Next](./../../../../../../..//us/usc/t5/ptIII/sptD/ch55/schIX/m__us_usc_t5_s5591...5594.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2FptIII%2FsptD%2Fch55%2FschIX)
 
 ----------
 ----------
 
-[/us/pl/90/83/s1/34/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83%2Fs1%2F34%2FA
+[/us/pl/90/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83
 [/us/stat/81/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F201
-[/us/pl/90/83/s1/34/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83%2Fs1%2F34%2FB
-[/us/stat/81/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F201
-[/us/pl/89/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F380
-[/us/stat/80/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F95
-[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
-[/us/stat/80/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F496
-[/us/usc/t5/s5596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5596
 
 

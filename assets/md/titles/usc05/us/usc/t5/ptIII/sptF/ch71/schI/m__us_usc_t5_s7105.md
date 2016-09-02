@@ -87,7 +87,7 @@
 
     (i) In the exercise of the functions of the Authority under this title, the Authority may request from the Director of the Office of Personnel Management an advisory opinion concerning the proper interpretation of rules, regulations, or policy directives issued by the Office of Personnel Management in connection with any matter before the Authority.
 
-(Added [Pub. L. 95–454, title VII, § 701][/us/pl/95/454/s701], Oct. 13, 1978, [92 Stat. 1196][/us/stat/92/1196].)
+(Added [Pub. L. 95–454, title VII][/us/pl/95/454/tVII], § 701, Oct. 13, 1978, [92 Stat. 1196][/us/stat/92/1196].)
 
  __Partial Suspension of Federal Service Labor-Management Relations__ 
 
@@ -112,7 +112,7 @@
 [/us/usc/t5/s7118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs7118
 [/us/usc/t5/s7132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs7132
 [/us/usc/t28/s518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs518
-[/us/pl/95/454/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs701
+[/us/pl/95/454/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtVII
 [/us/stat/92/1196]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1196
 [/us/usc/t5/s7103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs7103
 

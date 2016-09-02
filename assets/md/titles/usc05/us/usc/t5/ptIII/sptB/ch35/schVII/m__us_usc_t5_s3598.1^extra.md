@@ -43,7 +43,7 @@
 
     An individual may not be reemployed under this section for more than 180 days in connection with any particular emergency unless, in the judgment of the Director, the public interest so requires.
 
-(Added [Pub. L. 108–458, title II, § 2004(a)][/us/pl/108/458/s2004/a], Dec. 17, 2004, [118 Stat. 3703][/us/stat/118/3703].)
+(Added [Pub. L. 108–458, title II][/us/pl/108/458/tII], § 2004(a), Dec. 17, 2004, [118 Stat. 3703][/us/stat/118/3703].)
 
 ----------
 
@@ -52,7 +52,7 @@
 ----------
 ----------
 
-[/us/pl/108/458/s2004/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs2004%2Fa
+[/us/pl/108/458/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtII
 [/us/stat/118/3703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3703
 
 

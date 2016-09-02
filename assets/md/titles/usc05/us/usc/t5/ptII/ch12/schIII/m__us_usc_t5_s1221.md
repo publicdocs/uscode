@@ -89,33 +89,33 @@
 
     (j) In determining the appealability of any case involving an allegation made by an individual under the provisions of this chapter, neither the status of an individual under any retirement system established under a Federal statute nor any election made by such individual under any such system may be taken into account.
 
-(Added [Pub. L. 101–12, § 3(a)(13)][/us/pl/101/12/s3/a/13], Apr. 10, 1989, [103 Stat. 29][/us/stat/103/29]; amended [Pub. L. 103–424][/us/pl/103/424], §§ 4, 8(b), Oct. 29, 1994, [108 Stat. 4363][/us/stat/108/4363], 4365; [Pub. L. 112–199, title I][/us/pl/112/199], §§ 101(b)(1)(A), (2)(A), 104(c)(2), 107(b), 114(b), Nov. 27, 2012, [126 Stat. 1465][/us/stat/126/1465], 1468, 1469, 1472.)
+(Added [Pub. L. 101–12][/us/pl/101/12], § 3(a)(13), Apr. 10, 1989, [103 Stat. 29][/us/stat/103/29]; amended [Pub. L. 103–424][/us/pl/103/424], §§ 4, 8(b), Oct. 29, 1994, [108 Stat. 4363][/us/stat/108/4363], 4365; [Pub. L. 112–199, title I][/us/pl/112/199/tI], §§ 101(b)(1)(A), (2)(A), 104(c)(2), 107(b), 114(b), Nov. 27, 2012, [126 Stat. 1465][/us/stat/126/1465], 1468, 1469, 1472.)
 
  __Amendments__ 
 
-    2012—Subsec. (a). [Pub. L. 112–199, § 101(b)(1)(A)][/us/pl/112/199/s101/b/1/A], inserted “or section 2302(b)(9)(A)(i), (B), (C), or (D)” after “section 2302(b)(8)”.
+    2012—Subsec. (a). [Pub. L. 112–199][/us/pl/112/199], § 101(b)(1)(A), inserted “or section 2302(b)(9)(A)(i), (B), (C), or (D)” after “section 2302(b)(8)”.
 
-    Subsec. (e)(1). [Pub. L. 112–199, § 101(b)(1)(A)][/us/pl/112/199/s101/b/1/A], (2)(A), inserted “or section 2302(b)(9)(A)(i), (B), (C), or (D)” after “section 2302(b)(8)” in two places and inserted “or protected activity” after “disclosure” wherever appearing.
+    Subsec. (e)(1). [Pub. L. 112–199][/us/pl/112/199], § 101(b)(1)(A), (2)(A), inserted “or section 2302(b)(9)(A)(i), (B), (C), or (D)” after “section 2302(b)(8)” in two places and inserted “or protected activity” after “disclosure” wherever appearing.
 
-    Subsec. (e)(2). [Pub. L. 112–199, § 114(b)][/us/pl/112/199/s114/b], inserted “, after a finding that a protected disclosure was a contributing factor,” after “ordered if”.
+    Subsec. (e)(2). [Pub. L. 112–199][/us/pl/112/199], § 114(b), inserted “, after a finding that a protected disclosure was a contributing factor,” after “ordered if”.
 
-    Subsec. (g)(1)(A)(ii). [Pub. L. 112–199, § 107(b)][/us/pl/112/199/s107/b], substituted “any other reasonable and foreseeable consequential damages, and compensatory damages (including interest, reasonable expert witness fees, and costs).” for “and any other reasonable and foreseeable consequential changes.”
+    Subsec. (g)(1)(A)(ii). [Pub. L. 112–199][/us/pl/112/199], § 107(b), substituted “any other reasonable and foreseeable consequential damages, and compensatory damages (including interest, reasonable expert witness fees, and costs).” for “and any other reasonable and foreseeable consequential changes.”
 
-    Subsec. (g)(4). [Pub. L. 112–199, § 104(c)(2)][/us/pl/112/199/s104/c/2], added par. (4).
+    Subsec. (g)(4). [Pub. L. 112–199][/us/pl/112/199], § 104(c)(2), added par. (4).
 
-    Subsec. (i). [Pub. L. 112–199, § 101(b)(1)(A)][/us/pl/112/199/s101/b/1/A], inserted “or section 2302(b)(9)(A)(i), (B), (C), or (D)” after “section 2302(b)(8)”.
+    Subsec. (i). [Pub. L. 112–199][/us/pl/112/199], § 101(b)(1)(A), inserted “or section 2302(b)(9)(A)(i), (B), (C), or (D)” after “section 2302(b)(8)”.
 
-    1994—Subsec. (d)(1). [Pub. L. 103–424, § 4(a)][/us/pl/103/424/s4/a], added par. (1) and struck out former par. (1) which read as follows: “At the request of an employee, former employee, or applicant for employment seeking corrective action under subsection (a), the Board may issue a subpoena for the attendance and testimony of any person or the production of documentary or other evidence from any person if the Board finds that such subpoena is necessary for the development of relevant evidence.”
+    1994—Subsec. (d)(1). [Pub. L. 103–424][/us/pl/103/424], § 4(a), added par. (1) and struck out former par. (1) which read as follows: “At the request of an employee, former employee, or applicant for employment seeking corrective action under subsection (a), the Board may issue a subpoena for the attendance and testimony of any person or the production of documentary or other evidence from any person if the Board finds that such subpoena is necessary for the development of relevant evidence.”
 
-    Subsec. (e)(1). [Pub. L. 103–424, § 4(b)][/us/pl/103/424/s4/b], which directed the amendment of section 1221(e)(1), without specifying the Code title to be amended, by inserting at end “The employee may demonstrate that the disclosure was a contributing factor in the personnel action through circumstantial evidence, such as evidence that—
+    Subsec. (e)(1). [Pub. L. 103–424][/us/pl/103/424], § 4(b), which directed the amendment of section 1221(e)(1), without specifying the Code title to be amended, by inserting at end “The employee may demonstrate that the disclosure was a contributing factor in the personnel action through circumstantial evidence, such as evidence that—
 
     “(A) the official taking the personnel action knew of the disclosure; and
 
     “(B) the personnel action occurred within a period of time such that a reasonable person could conclude that the disclosure was a contributing factor in the personnel action.”, was executed to subsec. (e)(1) of this section to reflect the probable intent of Congress.
 
-    Subsec. (f)(3). [Pub. L. 103–424, § 4(c)][/us/pl/103/424/s4/c], added par. (3).
+    Subsec. (f)(3). [Pub. L. 103–424][/us/pl/103/424], § 4(c), added par. (3).
 
-    Subsec. (g). [Pub. L. 103–424, § 8(b)][/us/pl/103/424/s8/b], added par. (1) and redesignated former pars. (1) and (2) as (2) and (3), respectively.
+    Subsec. (g). [Pub. L. 103–424][/us/pl/103/424], § 8(b), added par. (1) and redesignated former pars. (1) and (2) as (2) and (3), respectively.
 
  __Effective Date of 2012 Amendment__ 
 
@@ -132,22 +132,22 @@
 ----------
 ----------
 
-[/us/pl/101/12/s3/a/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F12%2Fs3%2Fa%2F13
+[/us/pl/101/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F12
 [/us/stat/103/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F29
 [/us/pl/103/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F424
 [/us/stat/108/4363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4363
-[/us/pl/112/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F199
+[/us/pl/112/199/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F199%2FtI
 [/us/stat/126/1465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1465
-[/us/pl/112/199/s101/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F199%2Fs101%2Fb%2F1%2FA
-[/us/pl/112/199/s101/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F199%2Fs101%2Fb%2F1%2FA
-[/us/pl/112/199/s114/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F199%2Fs114%2Fb
-[/us/pl/112/199/s107/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F199%2Fs107%2Fb
-[/us/pl/112/199/s104/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F199%2Fs104%2Fc%2F2
-[/us/pl/112/199/s101/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F199%2Fs101%2Fb%2F1%2FA
-[/us/pl/103/424/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F424%2Fs4%2Fa
-[/us/pl/103/424/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F424%2Fs4%2Fb
-[/us/pl/103/424/s4/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F424%2Fs4%2Fc
-[/us/pl/103/424/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F424%2Fs8%2Fb
+[/us/pl/112/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F199
+[/us/pl/112/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F199
+[/us/pl/112/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F199
+[/us/pl/112/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F199
+[/us/pl/112/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F199
+[/us/pl/112/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F199
+[/us/pl/103/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F424
+[/us/pl/103/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F424
+[/us/pl/103/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F424
+[/us/pl/103/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F424
 [/us/pl/112/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F199
 [/us/pl/112/199/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F199%2Fs202
 [/us/usc/t5/s1204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs1204

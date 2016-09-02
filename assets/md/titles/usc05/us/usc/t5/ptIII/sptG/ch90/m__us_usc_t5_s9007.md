@@ -17,7 +17,7 @@
 
     The district courts of the United States have original jurisdiction of a civil action or claim described in paragraph (1) or (2) of section 9003(c), after such administrative remedies as required under such paragraph (1) or (2) (as applicable) have been exhausted, but only to the extent judicial review is not precluded by any dispute resolution or other remedy under this chapter.
 
-(Added [Pub. L. 106–265, title I, § 1002(a)][/us/pl/106/265/s1002/a], Sept. 19, 2000, [114 Stat. 768][/us/stat/114/768].)
+(Added [Pub. L. 106–265, title I][/us/pl/106/265/tI], § 1002(a), Sept. 19, 2000, [114 Stat. 768][/us/stat/114/768].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/106/265/s1002/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F265%2Fs1002%2Fa
+[/us/pl/106/265/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F265%2FtI
 [/us/stat/114/768]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F768
 
 

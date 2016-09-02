@@ -53,7 +53,7 @@
 
             (B) Not later than 6 months before the date on which this subsection is scheduled to cease to be effective, the Office shall submit a report to Congress in which it shall evaluate the operation of this subsection and make recommendations as to whether or not this subsection should be continued beyond such date.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 520][/us/stat/80/520]; [Pub. L. 103–329, title VI, § 629(b)(1)][/us/pl/103/329/s629/b/1], Sept. 30, 1994, [108 Stat. 2423][/us/stat/108/2423]; [Pub. L. 103–388, § 2][/us/pl/103/388/s2], Oct. 22, 1994, [108 Stat. 4079][/us/stat/108/4079].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 520][/us/stat/80/520]; [Pub. L. 103–329, title VI][/us/pl/103/329/tVI], § 629(b)(1), Sept. 30, 1994, [108 Stat. 2423][/us/stat/108/2423]; [Pub. L. 103–388][/us/pl/103/388], § 2, Oct. 22, 1994, [108 Stat. 4079][/us/stat/108/4079].)
 
 <table>
 
@@ -115,15 +115,15 @@ Aug. 21, 1964, Pub. L. 88–471, § 6(b), (c), 78 Stat. 583.  </td>
 
  __Amendments__ 
 
-    1994—Subsec. (c). [Pub. L. 103–329, § 629(b)(1)(B)][/us/pl/103/329/s629/b/1/B], added subsec. (c). Former subsec. (c) redesignated (d).
+    1994—Subsec. (c). [Pub. L. 103–329][/us/pl/103/329], § 629(b)(1)(B), added subsec. (c). Former subsec. (c) redesignated (d).
 
     Subsec. (d). [Pub. L. 103–388][/us/pl/103/388] added subsec. (d) relating to use of sick leave for purposes relating to family member.
 
-    [Pub. L. 103–329, § 629(b)(1)(A)][/us/pl/103/329/s629/b/1/A], (C), redesignated subsec. (c) as (d) and inserted “or for purposes relating to the adoption of a child,” after “ailment,”.
+    [Pub. L. 103–329][/us/pl/103/329], § 629(b)(1)(A), (C), redesignated subsec. (c) as (d) and inserted “or for purposes relating to the adoption of a child,” after “ailment,”.
 
  __Regulations__ 
 
-[Pub. L. 103–329, title VI, § 629(b)(3)][/us/pl/103/329/s629/b/3], Sept. 30, 1994, [108 Stat. 2423][/us/stat/108/2423], provided that:
+[Pub. L. 103–329, title VI][/us/pl/103/329/tVI], § 629(b)(3), Sept. 30, 1994, [108 Stat. 2423][/us/stat/108/2423], provided that:
 
 >     “(3)
 
@@ -143,7 +143,7 @@ Aug. 21, 1964, Pub. L. 88–471, § 6(b), (c), 78 Stat. 583.  </td>
 
  __Adoptions During Fiscal Year 1991__ 
 
-    [Pub. L. 101–509, title V, § 536][/us/pl/101/509/s536], Nov. 5, 1990, [104 Stat. 1470][/us/stat/104/1470], for fiscal year 1991, authorized sick leave provided by [section 6307 of this title][/us/usc/t5/s6307] to be approved for purposes related to the adoption of a child.
+    [Pub. L. 101–509, title V][/us/pl/101/509/tV], § 536, Nov. 5, 1990, [104 Stat. 1470][/us/stat/104/1470], for fiscal year 1991, authorized sick leave provided by [section 6307 of this title][/us/usc/t5/s6307] to be approved for purposes related to the adoption of a child.
 
 ----------
 
@@ -154,18 +154,18 @@ Aug. 21, 1964, Pub. L. 88–471, § 6(b), (c), 78 Stat. 583.  </td>
 
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F520
-[/us/pl/103/329/s629/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F329%2Fs629%2Fb%2F1
+[/us/pl/103/329/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F329%2FtVI
 [/us/stat/108/2423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2423
-[/us/pl/103/388/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F388%2Fs2
+[/us/pl/103/388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F388
 [/us/stat/108/4079]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4079
 [/us/pl/103/388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F388
-[/us/pl/103/329/s629/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F329%2Fs629%2Fb%2F1%2FB
+[/us/pl/103/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F329
 [/us/pl/103/388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F388
-[/us/pl/103/329/s629/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F329%2Fs629%2Fb%2F1%2FA
-[/us/pl/103/329/s629/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F329%2Fs629%2Fb%2F3
+[/us/pl/103/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F329
+[/us/pl/103/329/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F329%2FtVI
 [/us/stat/108/2423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2423
 [/us/usc/t5/s6301/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs6301%2F2
-[/us/pl/101/509/s536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2Fs536
+[/us/pl/101/509/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2FtV
 [/us/stat/104/1470]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1470
 [/us/usc/t5/s6307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs6307
 

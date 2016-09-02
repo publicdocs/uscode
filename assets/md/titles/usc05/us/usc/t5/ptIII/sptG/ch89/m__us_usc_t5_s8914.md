@@ -17,7 +17,7 @@
 
     Any provision of law outside of this chapter which provides coverage or any other benefit under this chapter to any individuals who (based on their being employed by an entity other than the Government) would not otherwise be eligible for any such coverage or benefit shall not apply with respect to any individual appointed, transferred, or otherwise commencing that type of employment on or after October 1, 1988.
 
-(Added [Pub. L. 100–238, title I, § 108(a)(3)(A)][/us/pl/100/238/s108/a/3/A], Jan. 8, 1988, [101 Stat. 1747][/us/stat/101/1747].)
+(Added [Pub. L. 100–238, title I][/us/pl/100/238/tI], § 108(a)(3)(A), Jan. 8, 1988, [101 Stat. 1747][/us/stat/101/1747].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/100/238/s108/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F238%2Fs108%2Fa%2F3%2FA
+[/us/pl/100/238/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F238%2FtI
 [/us/stat/101/1747]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1747
 
 

@@ -59,7 +59,7 @@
 
         It does not include benefits, refunds, or interest payable under subchapter III of chapter 83 of this title applicable to the service of the deceased employee, or amounts the disposition of which is otherwise expressly prescribed by Federal statute.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 495][/us/stat/80/495]; [Pub. L. 96–54, § 2(a)(34)][/us/pl/96/54/s2/a/34], Aug. 14, 1979, [93 Stat. 383][/us/stat/93/383].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 495][/us/stat/80/495]; [Pub. L. 96–54][/us/pl/96/54], § 2(a)(34), Aug. 14, 1979, [93 Stat. 383][/us/stat/93/383].)
 
 <table>
 
@@ -224,7 +224,7 @@ Aug. 3, 1950, ch. 518, § 4, 64 Stat. 396.  </td>
 [/us/usc/t2/s36a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs36a
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F495
-[/us/pl/96/54/s2/a/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F54%2Fs2%2Fa%2F34
+[/us/pl/96/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F54
 [/us/stat/93/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F383
 [/us/act/1950-08-03/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-03%2Fs7
 [/us/stat/70/659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F659

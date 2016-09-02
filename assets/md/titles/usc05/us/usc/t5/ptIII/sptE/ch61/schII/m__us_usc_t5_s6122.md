@@ -35,7 +35,7 @@
 
         (3) exclude from such program any employee or group of employees.
 
-(Added [Pub. L. 97–221, § 2(a)(2)][/us/pl/97/221/s2/a/2], July 23, 1982, [96 Stat. 228][/us/stat/96/228].)
+(Added [Pub. L. 97–221][/us/pl/97/221], § 2(a)(2), July 23, 1982, [96 Stat. 228][/us/stat/96/228].)
 
 ----------
 
@@ -46,7 +46,7 @@
 
 [/us/usc/t5/s6101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs6101
 [/us/usc/t5/s6130/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs6130%2Fa
-[/us/pl/97/221/s2/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F221%2Fs2%2Fa%2F2
+[/us/pl/97/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F221
 [/us/stat/96/228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F228
 
 

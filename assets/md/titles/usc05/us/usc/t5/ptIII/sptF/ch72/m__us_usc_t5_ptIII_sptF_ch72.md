@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t5/ptIII/sptF/ch71/schIV/m__us_usc_t5_s7135.md) | [Next](./../../../../../..//us/usc/t5/ptIII/sptF/ch72/schI/m__us_usc_t5_ptIII_sptF_ch72_schI.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2FptIII%2FsptF%2Fch72)
+[Previous](./../../../../../..//us/usc/t5/ptIII/sptF/ch71/schIV/m__us_usc_t5_s7151...7154.md) | [Next](./../../../../../..//us/usc/t5/ptIII/sptF/ch72/schI/m__us_usc_t5_ptIII_sptF_ch72_schI.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2FptIII%2FsptF%2Fch72)
 
 #### CHAPTER 72—ANTIDISCRIMINATION; RIGHT TO PETITION CONGRESS
 
@@ -83,16 +83,16 @@ SUBCHAPTER II—EMPLOYEES’ RIGHT TO PETITION CONGRESS  </td>
 
  __Amendments__ 
 
-    1978—[Pub. L. 95–454, title VII, § 703(a)(2)][/us/pl/95/454/s703/a/2], Oct. 13, 1978, [92 Stat. 1217][/us/stat/92/1217], struck out heading “SUBCHAPTER II—ANTIDISCRIMINATION IN EMPLOYMENT” and substituted therefor a chapter heading “CHAPTER 72—ANTIDISCRIMINATION; RIGHT TO PETITION CONGRESS” together with the analysis of chapter 72 containing subchapters I, consisting of items 7201 to 7204, and subchapter II, consisting of item 7211.
+    1978—[Pub. L. 95–454, title VII][/us/pl/95/454/tVII], § 703(a)(2), Oct. 13, 1978, [92 Stat. 1217][/us/stat/92/1217], struck out heading “SUBCHAPTER II—ANTIDISCRIMINATION IN EMPLOYMENT” and substituted therefor a chapter heading “CHAPTER 72—ANTIDISCRIMINATION; RIGHT TO PETITION CONGRESS” together with the analysis of chapter 72 containing subchapters I, consisting of items 7201 to 7204, and subchapter II, consisting of item 7211.
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t5/ptIII/sptF/ch71/schIV/m__us_usc_t5_s7135.md) | [Next](./../../../../../..//us/usc/t5/ptIII/sptF/ch72/schI/m__us_usc_t5_ptIII_sptF_ch72_schI.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2FptIII%2FsptF%2Fch72)
+[Previous](./../../../../../..//us/usc/t5/ptIII/sptF/ch71/schIV/m__us_usc_t5_s7151...7154.md) | [Next](./../../../../../..//us/usc/t5/ptIII/sptF/ch72/schI/m__us_usc_t5_ptIII_sptF_ch72_schI.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2FptIII%2FsptF%2Fch72)
 
 ----------
 ----------
 
-[/us/pl/95/454/s703/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs703%2Fa%2F2
+[/us/pl/95/454/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtVII
 [/us/stat/92/1217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1217
 
 

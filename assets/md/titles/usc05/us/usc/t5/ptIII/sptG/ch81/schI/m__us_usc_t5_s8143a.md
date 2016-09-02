@@ -27,7 +27,7 @@
 
     (2) in computing compensation for disability or death, the monthly pay of a member is deemed his actual pay or that received at the minimum rate for GS–6, whichever is greater.
 
-(Added [Pub. L. 90–83, § 1(66)(A)][/us/pl/90/83/s1/66/A], Sept. 11, 1967, [81 Stat. 212][/us/stat/81/212].)
+(Added [Pub. L. 90–83][/us/pl/90/83], § 1(66)(A), Sept. 11, 1967, [81 Stat. 212][/us/stat/81/212].)
 
 <table>
 
@@ -86,7 +86,7 @@ Nov. 8, 1965, Pub. L. 89–329, § 515(b), 79 Stat. 1257.  </td>
 ----------
 ----------
 
-[/us/pl/90/83/s1/66/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83%2Fs1%2F66%2FA
+[/us/pl/90/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83
 [/us/stat/81/212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F212
 [/us/usc/t20/s1102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1102
 [/us/usc/t20/s1141/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1141%2Ff

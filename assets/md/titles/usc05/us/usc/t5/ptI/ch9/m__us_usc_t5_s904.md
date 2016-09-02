@@ -29,7 +29,7 @@
 
     A reorganization plan transmitted by the President containing provisions authorized by paragraph (2) of this section may provide that the head of an agency be an individual or a commission or board with more than one member. In the case of an appointment of the head of such an agency, the term of office may not be fixed at more than four years, the pay may not be at a rate in excess of that found by the President to be applicable to comparable officers in the executive branch, and if the appointment is not to a position in the competitive service, it shall be by the President, by and with the advice and consent of the Senate. Any reorganization plan transmitted by the President containing provisions required by paragraph (4) of this section shall provide for the transfer of unexpended balances only if such balances are used for the purposes for which the appropriation was originally made.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 395][/us/stat/80/395]; [Pub. L. 92–179, § 3][/us/pl/92/179/s3], Dec. 10, 1971, [85 Stat. 575][/us/stat/85/575]; [Pub. L. 95–17, § 2][/us/pl/95/17/s2], Apr. 6, 1977, [91 Stat. 31][/us/stat/91/31]; [Pub. L. 98–614, § 5(b)][/us/pl/98/614/s5/b], Nov. 8, 1984, [98 Stat. 3194][/us/stat/98/3194].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 395][/us/stat/80/395]; [Pub. L. 92–179][/us/pl/92/179], § 3, Dec. 10, 1971, [85 Stat. 575][/us/stat/85/575]; [Pub. L. 95–17][/us/pl/95/17], § 2, Apr. 6, 1977, [91 Stat. 31][/us/stat/91/31]; [Pub. L. 98–614][/us/pl/98/614], § 5(b), Nov. 8, 1984, [98 Stat. 3194][/us/stat/98/3194].)
 
 <table>
 
@@ -101,11 +101,11 @@ June 20, 1949, ch. 226, § 4, 63 Stat. 204.  </td>
 [/us/usc/t5/s903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs903
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F395
-[/us/pl/92/179/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F179%2Fs3
+[/us/pl/92/179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F179
 [/us/stat/85/575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F575
-[/us/pl/95/17/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F17%2Fs2
+[/us/pl/95/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F17
 [/us/stat/91/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F31
-[/us/pl/98/614/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F614%2Fs5%2Fb
+[/us/pl/98/614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F614
 [/us/stat/98/3194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3194
 [/us/pl/98/614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F614
 [/us/pl/95/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F17

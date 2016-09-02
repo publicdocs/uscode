@@ -49,7 +49,7 @@
 
     On request of the Office, agencies shall furnish such information and reports as the Office may require in order to carry out this section.
 
-(Added [Pub. L. 107–347, title II, § 209(c)(1)][/us/pl/107/347/s209/c/1], Dec. 17, 2002, [116 Stat. 2929][/us/stat/116/2929].)
+(Added [Pub. L. 107–347, title II][/us/pl/107/347/tII], § 209(c)(1), Dec. 17, 2002, [116 Stat. 2929][/us/stat/116/2929].)
 
  __Change of Name__ 
 
@@ -64,7 +64,7 @@
 ----------
 ----------
 
-[/us/pl/107/347/s209/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347%2Fs209%2Fc%2F1
+[/us/pl/107/347/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347%2FtII
 [/us/stat/116/2929]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2929
 
 

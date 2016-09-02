@@ -27,7 +27,7 @@
 
     (b) A Postal Service employee is not entitled to compensation or continuation of pay for the first 3 days of temporary disability, except as provided under paragraph (3) of subsection (a). A Postal Service employee may use annual leave, sick leave, or leave without pay during that 3-day period, except that if the disability exceeds 14 days or is followed by permanent disability, the employee may have their sick leave or annual leave reinstated or receive pay for the time spent on leave without pay under this section.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 543][/us/stat/80/543]; [Pub. L. 93–416, § 10][/us/pl/93/416/s10], Sept. 7, 1974, [88 Stat. 1145][/us/stat/88/1145]; [Pub. L. 109–435, title IX, § 901(a)][/us/pl/109/435/s901/a], Dec. 20, 2006, [120 Stat. 3253][/us/stat/120/3253].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 543][/us/stat/80/543]; [Pub. L. 93–416][/us/pl/93/416], § 10, Sept. 7, 1974, [88 Stat. 1145][/us/stat/88/1145]; [Pub. L. 109–435, title IX][/us/pl/109/435/tIX], § 901(a), Dec. 20, 2006, [120 Stat. 3253][/us/stat/120/3253].)
 
 <table>
 
@@ -112,9 +112,9 @@ Oct. 14, 1949, ch. 691, § 101(a), 63 Stat. 854.  </td>
 
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F543
-[/us/pl/93/416/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F416%2Fs10
+[/us/pl/93/416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F416
 [/us/stat/88/1145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1145
-[/us/pl/109/435/s901/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2Fs901%2Fa
+[/us/pl/109/435/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2FtIX
 [/us/stat/120/3253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3253
 [/us/pl/109/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435
 [/us/pl/93/416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F416

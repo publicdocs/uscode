@@ -19,7 +19,7 @@
 
     (b) The Office shall hold an examination for a position to which an appointment has been made within the preceding 3 years, on the application of an individual who qualifies as a preference eligible under section 2108(3)(C)–(G) of this title. The examination shall be held during the quarter following the application.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 418][/us/stat/80/418]; [Pub. L. 90–83, § 1(8)][/us/pl/90/83/s1/8], Sept. 11, 1967, [81 Stat. 197][/us/stat/81/197]; [Pub. L. 96–54, § 2(a)(14)][/us/pl/96/54/s2/a/14], (15), Aug. 14, 1979, [93 Stat. 382][/us/stat/93/382].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 418][/us/stat/80/418]; [Pub. L. 90–83][/us/pl/90/83], § 1(8), Sept. 11, 1967, [81 Stat. 197][/us/stat/81/197]; [Pub. L. 96–54][/us/pl/96/54], § 2(a)(14), (15), Aug. 14, 1979, [93 Stat. 382][/us/stat/93/382].)
 
 <table>
 
@@ -103,9 +103,9 @@ Dec. 27, 1950, ch. 1151, § 2(b), 64 Stat. 1117.  </td>
 
  __Amendments__ 
 
-    1979—Subsec. (a). [Pub. L. 96–54, § 2(a)(14)][/us/pl/96/54/s2/a/14], substituted “Office of Personnel Management” for “Civil Service Commission”.
+    1979—Subsec. (a). [Pub. L. 96–54][/us/pl/96/54], § 2(a)(14), substituted “Office of Personnel Management” for “Civil Service Commission”.
 
-    Subsec. (b). [Pub. L. 96–54, § 2(a)(15)][/us/pl/96/54/s2/a/15], substituted “Office” for “Commission”.
+    Subsec. (b). [Pub. L. 96–54][/us/pl/96/54], § 2(a)(15), substituted “Office” for “Commission”.
 
  __Effective Date of 1979 Amendment__ 
 
@@ -120,13 +120,13 @@ Dec. 27, 1950, ch. 1151, § 2(b), 64 Stat. 1117.  </td>
 
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F418
-[/us/pl/90/83/s1/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83%2Fs1%2F8
+[/us/pl/90/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83
 [/us/stat/81/197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F197
-[/us/pl/96/54/s2/a/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F54%2Fs2%2Fa%2F14
+[/us/pl/96/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F54
 [/us/stat/93/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F382
 [/us/usc/t5/s2108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs2108
-[/us/pl/96/54/s2/a/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F54%2Fs2%2Fa%2F14
-[/us/pl/96/54/s2/a/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F54%2Fs2%2Fa%2F15
+[/us/pl/96/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F54
+[/us/pl/96/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F54
 [/us/pl/96/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F54
 [/us/pl/96/54/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F54%2Fs2%2Fb
 [/us/usc/t5/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs305

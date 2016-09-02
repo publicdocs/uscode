@@ -67,7 +67,7 @@
 
             (F) section 631 or 631a of title 31, District of Columbia Code.
 
-            \[(G) Repealed. [Pub. L. 96–70, title III, § 3302(e)(8)][/us/pl/96/70/s3302/e/8], Sept. 27, 1979, [93 Stat. 498][/us/stat/93/498].\]
+            \[(G) Repealed. [Pub. L. 96–70, title III][/us/pl/96/70/tIII], § 3302(e)(8), Sept. 27, 1979, [93 Stat. 498][/us/stat/93/498].\]
 
     (e)
 
@@ -75,7 +75,7 @@
 
         (2) Subsection (c) of this section does not apply to pay received by a teacher of the public schools of the District of Columbia for employment in a position during the summer vacation period.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 483][/us/stat/80/483]; [Pub. L. 90–57, § 105(h)][/us/pl/90/57/s105/h], July 28, 1967, [81 Stat. 143][/us/stat/81/143]; [Pub. L. 90–206, title II, § 214][/us/pl/90/206/s214](o), Dec. 16, 1967. [81 Stat. 637][/us/stat/81/637]; [Pub. L. 91–510, title IV, § 477(d)][/us/pl/91/510/s477/d], Oct. 26, 1970, [84 Stat. 1195][/us/stat/84/1195]; [Pub. L. 93–140, § 23][/us/pl/93/140/s23], Oct. 26, 1973, [87 Stat. 508][/us/stat/87/508]; [Pub. L. 93–145, § 101][/us/pl/93/145/s101], Nov. 1, 1973, [87 Stat. 532][/us/stat/87/532]; [Pub. L. 94–183, § 2(21)][/us/pl/94/183/s2/21], Dec. 31, 1975, [89 Stat. 1058][/us/stat/89/1058]; [Pub. L. 94–440, title I, § 103][/us/pl/94/440/s103], Oct. 1, 1976, [90 Stat. 1443][/us/stat/90/1443]; [Pub. L. 95–454, title IX, § 906(a)(2)][/us/pl/95/454/s906/a/2], Oct. 13, 1978, [92 Stat. 1224][/us/stat/92/1224]; [Pub. L. 96–70, title III, § 3302(e)(8)][/us/pl/96/70/s3302/e/8], Sept. 27, 1979, [93 Stat. 498][/us/stat/93/498]; [Pub. L. 104–186, title II, § 215(7)][/us/pl/104/186/s215/7], Aug. 20, 1996, [110 Stat. 1745][/us/stat/110/1745]; [Pub. L. 111–145, § 7(b)(2)][/us/pl/111/145/s7/b/2], Mar. 4, 2010, [124 Stat. 55][/us/stat/124/55].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 483][/us/stat/80/483]; [Pub. L. 90–57][/us/pl/90/57], § 105(h), July 28, 1967, [81 Stat. 143][/us/stat/81/143]; [Pub. L. 90–206, title II][/us/pl/90/206/tII], § 214(o), Dec. 16, 1967. [81 Stat. 637][/us/stat/81/637]; [Pub. L. 91–510, title IV][/us/pl/91/510/tIV], § 477(d), Oct. 26, 1970, [84 Stat. 1195][/us/stat/84/1195]; [Pub. L. 93–140][/us/pl/93/140], § 23, Oct. 26, 1973, [87 Stat. 508][/us/stat/87/508]; [Pub. L. 93–145][/us/pl/93/145], § 101, Nov. 1, 1973, [87 Stat. 532][/us/stat/87/532]; [Pub. L. 94–183][/us/pl/94/183], § 2(21), Dec. 31, 1975, [89 Stat. 1058][/us/stat/89/1058]; [Pub. L. 94–440, title I][/us/pl/94/440/tI], § 103, Oct. 1, 1976, [90 Stat. 1443][/us/stat/90/1443]; [Pub. L. 95–454, title IX][/us/pl/95/454/tIX], § 906(a)(2), Oct. 13, 1978, [92 Stat. 1224][/us/stat/92/1224]; [Pub. L. 96–70, title III][/us/pl/96/70/tIII], § 3302(e)(8), Sept. 27, 1979, [93 Stat. 498][/us/stat/93/498]; [Pub. L. 104–186, title II][/us/pl/104/186/tII], § 215(7), Aug. 20, 1996, [110 Stat. 1745][/us/stat/110/1745]; [Pub. L. 111–145][/us/pl/111/145], § 7(b)(2), Mar. 4, 2010, [124 Stat. 55][/us/stat/124/55].)
 
 <table>
 
@@ -137,15 +137,15 @@ Aug. 19, 1964, Pub. L. 88–448, § 301 (less (e)), 78 Stat. 488.  </td>
 
  __References in Text__ 
 
-    Sections 174j–1, 174j–3, 174j–4, 174j–5, 174j–6, 174j–7, and 174k of title 40, referred to in subsec. (e)(1), were transferred to sections 2042, 2043, 2044, 2045, 2046, 2047, and 2041, respectively, of Title 2, The Congress. [Section 174j–2 of title 40][/us/usc/t40/s174j–2] was repealed by [Pub. L. 107–217, § 6(b)][/us/pl/107/217/s6/b], Aug. 21, 2002, [116 Stat. 1304][/us/stat/116/1304].
+    Sections 174j–1, 174j–3, 174j–4, 174j–5, 174j–6, 174j–7, and 174k of title 40, referred to in subsec. (e)(1), were transferred to sections 2042, 2043, 2044, 2045, 2046, 2047, and 2041, respectively, of Title 2, The Congress. [Section 174j–2 of title 40][/us/usc/t40/s174j–2] was repealed by [Pub. L. 107–217][/us/pl/107/217], § 6(b), Aug. 21, 2002, [116 Stat. 1304][/us/stat/116/1304].
 
  __Amendments__ 
 
-    2010—Subsec. (c)(1). [Pub. L. 111–145, § 7(b)(2)(A)(i)][/us/pl/111/145/s7/b/2/A/i], substituted “, the Chief Administrative Officer of the House of Representatives, or the Chief of the Capitol Police” for “or the Chief Administrative Officer of the House of Representatives”.
+    2010—Subsec. (c)(1). [Pub. L. 111–145][/us/pl/111/145], § 7(b)(2)(A)(i), substituted “, the Chief Administrative Officer of the House of Representatives, or the Chief of the Capitol Police” for “or the Chief Administrative Officer of the House of Representatives”.
 
-    Subsec. (c)(2). [Pub. L. 111–145, § 7(b)(2)(A)(ii)][/us/pl/111/145/s7/b/2/A/ii], inserted “or the Chief of the Capitol Police” after “House of Representatives”.
+    Subsec. (c)(2). [Pub. L. 111–145][/us/pl/111/145], § 7(b)(2)(A)(ii), inserted “or the Chief of the Capitol Police” after “House of Representatives”.
 
-    Subsec. (d)(5)(A). [Pub. L. 111–145, § 7(b)(2)(B)][/us/pl/111/145/s7/b/2/B], substituted “, the Chief Administrative Officer of the House of Representatives, or the Chief of the Capitol Police” for “or the Chief Administrative Officer of the House of Representatives”.
+    Subsec. (d)(5)(A). [Pub. L. 111–145][/us/pl/111/145], § 7(b)(2)(B), substituted “, the Chief Administrative Officer of the House of Representatives, or the Chief of the Capitol Police” for “or the Chief Administrative Officer of the House of Representatives”.
 
     1996—Subsecs. (c)(1), (2), (d)(5)(A). [Pub. L. 104–186][/us/pl/104/186] substituted “Chief Administrative Officer” for “Clerk”.
 
@@ -287,41 +287,41 @@ Aug. 19, 1964, Pub. L. 88–448, § 301 (less (e)), 78 Stat. 488.  </td>
 [/us/usc/t15/s327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs327
 [/us/usc/t20/s907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs907
 [/us/usc/t33/s873]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs873
-[/us/pl/96/70/s3302/e/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2Fs3302%2Fe%2F8
+[/us/pl/96/70/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2FtIII
 [/us/stat/93/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F498
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/483]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F483
-[/us/pl/90/57/s105/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F57%2Fs105%2Fh
+[/us/pl/90/57]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F57
 [/us/stat/81/143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F143
-[/us/pl/90/206/s214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F206%2Fs214
+[/us/pl/90/206/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F206%2FtII
 [/us/stat/81/637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F637
-[/us/pl/91/510/s477/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F510%2Fs477%2Fd
+[/us/pl/91/510/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F510%2FtIV
 [/us/stat/84/1195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1195
-[/us/pl/93/140/s23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F140%2Fs23
+[/us/pl/93/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F140
 [/us/stat/87/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F508
-[/us/pl/93/145/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F145%2Fs101
+[/us/pl/93/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F145
 [/us/stat/87/532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F532
-[/us/pl/94/183/s2/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F183%2Fs2%2F21
+[/us/pl/94/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F183
 [/us/stat/89/1058]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F1058
-[/us/pl/94/440/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F440%2Fs103
+[/us/pl/94/440/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F440%2FtI
 [/us/stat/90/1443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1443
-[/us/pl/95/454/s906/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs906%2Fa%2F2
+[/us/pl/95/454/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtIX
 [/us/stat/92/1224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1224
-[/us/pl/96/70/s3302/e/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2Fs3302%2Fe%2F8
+[/us/pl/96/70/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2FtIII
 [/us/stat/93/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F498
-[/us/pl/104/186/s215/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2Fs215%2F7
+[/us/pl/104/186/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2FtII
 [/us/stat/110/1745]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1745
-[/us/pl/111/145/s7/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F145%2Fs7%2Fb%2F2
+[/us/pl/111/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F145
 [/us/stat/124/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F55
 [/us/usc/t20/s907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs907
 [/us/usc/t5/s3105/d/7/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3105%2Fd%2F7%2FF
 [/us/usc/t5/s2358/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs2358%2Fb
 [/us/usc/t40/s174j–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs174j%E2%80%932
-[/us/pl/107/217/s6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs6%2Fb
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1304
-[/us/pl/111/145/s7/b/2/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F145%2Fs7%2Fb%2F2%2FA%2Fi
-[/us/pl/111/145/s7/b/2/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F145%2Fs7%2Fb%2F2%2FA%2Fii
-[/us/pl/111/145/s7/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F145%2Fs7%2Fb%2F2%2FB
+[/us/pl/111/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F145
+[/us/pl/111/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F145
+[/us/pl/111/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F145
 [/us/pl/104/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186
 [/us/pl/96/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70
 [/us/usc/t2/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs102

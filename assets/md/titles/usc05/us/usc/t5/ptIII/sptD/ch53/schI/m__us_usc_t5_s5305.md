@@ -65,7 +65,7 @@
 
     (j) A rate determined under a schedule of special rates established under this section shall be considered to be part of basic pay for purposes of subchapter III of chapter 83, chapter 84, chapter 87, subchapter V of chapter 55, and section 5941, and for such other purposes as may be expressly provided for by law or as the Office of Personnel Management may by regulation prescribe.
 
-(Added [Pub. L. 91–656, § 3(a)][/us/pl/91/656/s3/a], Jan. 8, 1971, [84 Stat. 1946][/us/stat/84/1946]; amended [Pub. L. 94–82, title II, § 202(c)][/us/pl/94/82/s202/c], Aug. 9, 1975, [89 Stat. 420][/us/stat/89/420]; [Pub. L. 101–509, title V, § 529][/us/pl/101/509/s529] \[title I, § 101(a)(1)\], Nov. 5, 1990, [104 Stat. 1427][/us/stat/104/1427], 1436; [Pub. L. 108–411, title III, § 301(a)(2)][/us/pl/108/411/s301/a/2], Oct. 30, 2004, [118 Stat. 2313][/us/stat/118/2313].)
+(Added [Pub. L. 91–656][/us/pl/91/656], § 3(a), Jan. 8, 1971, [84 Stat. 1946][/us/stat/84/1946]; amended [Pub. L. 94–82, title II][/us/pl/94/82/tII], § 202(c), Aug. 9, 1975, [89 Stat. 420][/us/stat/89/420]; [Pub. L. 101–509, title V][/us/pl/101/509/tV], § 529 \[title I, § 101(a)(1)\], Nov. 5, 1990, [104 Stat. 1427][/us/stat/104/1427], 1436; [Pub. L. 108–411, title III][/us/pl/108/411/tIII], § 301(a)(2), Oct. 30, 2004, [118 Stat. 2313][/us/stat/118/2313].)
 
  __References in Text__ 
 
@@ -75,27 +75,27 @@
 
  __Amendments__ 
 
-    2004—Subsec. (a). [Pub. L. 108–411, § 301(a)(2)(A)][/us/pl/108/411/s301/a/2/A], added subsec. (a) and struck out former subsec. (a) relating to the President’s authority to establish higher minimum rates of basic pay for specified individuals where the Government’s recruitment or retention efforts are, or are likely to become, significantly handicapped.
+    2004—Subsec. (a). [Pub. L. 108–411][/us/pl/108/411], § 301(a)(2)(A), added subsec. (a) and struck out former subsec. (a) relating to the President’s authority to establish higher minimum rates of basic pay for specified individuals where the Government’s recruitment or retention efforts are, or are likely to become, significantly handicapped.
 
-    Subsec. (b)(4). [Pub. L. 108–411, § 301(a)(2)(B)][/us/pl/108/411/s301/a/2/B], added par. (4) and struck out former par. (4) which read as follows: “any other circumstances which the President (or an agency duly authorized or designated by the President in accordance with the last sentence of subsection (a)) considers appropriate.”
+    Subsec. (b)(4). [Pub. L. 108–411][/us/pl/108/411], § 301(a)(2)(B), added par. (4) and struck out former par. (4) which read as follows: “any other circumstances which the President (or an agency duly authorized or designated by the President in accordance with the last sentence of subsection (a)) considers appropriate.”
 
-    Subsec. (d). [Pub. L. 108–411, § 301(a)(2)(C)][/us/pl/108/411/s301/a/2/C], substituted “Office of Personnel Management” for “President” and “(or by such other agency as the President may designate under the last sentence of subsection (a)(1))” for “or by such agency as he may designate”.
+    Subsec. (d). [Pub. L. 108–411][/us/pl/108/411], § 301(a)(2)(C), substituted “Office of Personnel Management” for “President” and “(or by such other agency as the President may designate under the last sentence of subsection (a)(1))” for “or by such agency as he may designate”.
 
-    Subsec. (e). [Pub. L. 108–411, § 301(a)(2)(D)][/us/pl/108/411/s301/a/2/D], substituted “rate of pay” for “rate of basic pay”.
+    Subsec. (e). [Pub. L. 108–411][/us/pl/108/411], § 301(a)(2)(D), substituted “rate of pay” for “rate of basic pay”.
 
-    Subsec. (f). [Pub. L. 108–411, § 301(a)(2)(E)][/us/pl/108/411/s301/a/2/E], added subsec. (f) and struck out former subsec. (f) which read as follows: “The rate of basic pay established under this section and received by an individual immediately before a statutory increase, which becomes effective prior to, on, or after the date of enactment of the statute, in the pay schedule applicable to such individual of any pay system specified in subsection (c) of this section, shall be initially adjusted, effective on the effective date of the statutory increase, under conversion rules prescribed by the President or by such agency as the President may designate.”
+    Subsec. (f). [Pub. L. 108–411][/us/pl/108/411], § 301(a)(2)(E), added subsec. (f) and struck out former subsec. (f) which read as follows: “The rate of basic pay established under this section and received by an individual immediately before a statutory increase, which becomes effective prior to, on, or after the date of enactment of the statute, in the pay schedule applicable to such individual of any pay system specified in subsection (c) of this section, shall be initially adjusted, effective on the effective date of the statutory increase, under conversion rules prescribed by the President or by such agency as the President may designate.”
 
-    Subsec. (g)(1). [Pub. L. 108–411, § 301(a)(2)(F)][/us/pl/108/411/s301/a/2/F], substituted “pay” for “basic pay” and “Office of Personnel Management (or such other agency as the President may under the last sentence of subsection (a)(1) designate)” for “President (or his designated agency)”.
+    Subsec. (g)(1). [Pub. L. 108–411][/us/pl/108/411], § 301(a)(2)(F), substituted “pay” for “basic pay” and “Office of Personnel Management (or such other agency as the President may under the last sentence of subsection (a)(1) designate)” for “President (or his designated agency)”.
 
-    Subsec. (h). [Pub. L. 108–411, § 301(a)(2)(G)][/us/pl/108/411/s301/a/2/G], added subsec. (h) and struck out former subsec. (h) which read as follows “The rate of basic pay payable to an individual under this section may not, at any time, be less than the rate which would then be payable to such individual (taking comparability payments under section 5304 into account) if this section had never been enacted.”
+    Subsec. (h). [Pub. L. 108–411][/us/pl/108/411], § 301(a)(2)(G), added subsec. (h) and struck out former subsec. (h) which read as follows “The rate of basic pay payable to an individual under this section may not, at any time, be less than the rate which would then be payable to such individual (taking comparability payments under section 5304 into account) if this section had never been enacted.”
 
-    Subsecs. (i), (j). [Pub. L. 108–411, § 301(a)(2)(H)][/us/pl/108/411/s301/a/2/H], added subsecs. (i) and (j).
+    Subsecs. (i), (j). [Pub. L. 108–411][/us/pl/108/411], § 301(a)(2)(H), added subsecs. (i) and (j).
 
     1990—[Pub. L. 101–509][/us/pl/101/509] amended section generally, substituting provisions authorizing President to make special pay increases whenever recruitment or retention efforts are handicapped for provisions requiring annual pay reports and adjustments, authorizing alternative plan in years of emergency or when economic conditions affect the general welfare, and setting forth procedure where Congressional committee disapproves such alternative plan.
 
-    1975—Subsec. (a)(3). [Pub. L. 94–82, § 202(c)(1)][/us/pl/94/82/s202/c/1], inserted provision relating to specification in the report to the Congress of the overall percentage of the adjustment in the rates of pay under the General Schedule and under other statutory pay systems.
+    1975—Subsec. (a)(3). [Pub. L. 94–82][/us/pl/94/82], § 202(c)(1), inserted provision relating to specification in the report to the Congress of the overall percentage of the adjustment in the rates of pay under the General Schedule and under other statutory pay systems.
 
-    Subsec. (c)(1). [Pub. L. 94–82, § 202(c)(2)][/us/pl/94/82/s202/c/2], inserted provision relating to specification in the report to the Congress of the overall percentage of the adjustment in the rates of pay under the General Schedule and under other statutory pay systems.
+    Subsec. (c)(1). [Pub. L. 94–82][/us/pl/94/82], § 202(c)(2), inserted provision relating to specification in the report to the Congress of the overall percentage of the adjustment in the rates of pay under the General Schedule and under other statutory pay systems.
 
  __Effective Date of 2004 Amendment__ 
 
@@ -111,7 +111,7 @@
 
  __Staffing Differentials__ 
 
-[Pub. L. 101–509, title V, § 529][/us/pl/101/509/s529] \[title II, § 209\], Nov. 5, 1990, [104 Stat. 1427][/us/stat/104/1427], 1460, as amended by [Pub. L. 102–378, § 3(3)][/us/pl/102/378/s3/3], Oct. 2, 1992, [106 Stat. 1355][/us/stat/106/1355], provided that:
+[Pub. L. 101–509, title V][/us/pl/101/509/tV], § 529 \[title II, § 209\], Nov. 5, 1990, [104 Stat. 1427][/us/stat/104/1427], 1460, as amended by [Pub. L. 102–378][/us/pl/102/378], § 3(3), Oct. 2, 1992, [106 Stat. 1355][/us/stat/106/1355], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -135,7 +135,7 @@
 
  __Federal Law Enforcement Pay Reform__ 
 
-[Pub. L. 106–554, § 1(a)(4)][/us/pl/106/554/s1/a/4] \[div. B, title IX, § 907(a)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–309, provided that: 
+[Pub. L. 106–554][/us/pl/106/554], § 1(a)(4) \[div. B, title IX, § 907(a)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–309, provided that: 
 
 > “Beginning on the effective date of this Act \[see section 1(a)(4) \[div. B, title IX, § 909\] of [Pub. L. 106–554][/us/pl/106/554], set out in a Conversion to New Salary Schedule note under [section 3056A of Title 18][/us/usc/t18/s3056A], Crimes and Criminal Procedure\]—
 
@@ -143,7 +143,7 @@
 
 >     “(2) no special rates of pay or special pay adjustments shall be applicable to members of the United States Park Police pursuant to section 405 of the Federal Law Enforcement Pay Reform Act of 1990 \[section 529 \[title IV, § 405\] of [Pub. L. 101–509][/us/pl/101/509], set out in a note below\].”
 
-[Pub. L. 101–509, title V, § 529][/us/pl/101/509/s529] \[title IV, §§ 401–407\], Nov. 5, 1990, [104 Stat. 1427][/us/stat/104/1427], 1465, as amended by [Pub. L. 102–378, § 3(5)][/us/pl/102/378/s3/5]–(9), Oct. 2, 1992, [106 Stat. 1356][/us/stat/106/1356]; [Pub. L. 103–123, title VI, § 628][/us/pl/103/123/s628], Oct. 28, 1993, [107 Stat. 1266][/us/stat/107/1266]; [Pub. L. 103–178, title III, § 303(a)][/us/pl/103/178/s303/a], Dec. 3, 1993, [107 Stat. 2034][/us/stat/107/2034]; [Pub. L. 105–61, title I, § 118(e)][/us/pl/105/61/s118/e], Oct. 10, 1997, [111 Stat. 1288][/us/stat/111/1288]; [Pub. L. 106–554, § 1(a)(4)][/us/pl/106/554/s1/a/4] \[div. B, title IX, § 907(b)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–309; [Pub. L. 108–411, title I, § 101(b)][/us/pl/108/411/s101/b], title III, § 301(b), Oct. 30, 2004, [118 Stat. 2309][/us/stat/118/2309], 2317, provided that:
+[Pub. L. 101–509, title V][/us/pl/101/509/tV], § 529 \[title IV, §§ 401–407\], Nov. 5, 1990, [104 Stat. 1427][/us/stat/104/1427], 1465, as amended by [Pub. L. 102–378][/us/pl/102/378], § 3(5)–(9), Oct. 2, 1992, [106 Stat. 1356][/us/stat/106/1356]; [Pub. L. 103–123, title VI][/us/pl/103/123/tVI], § 628, Oct. 28, 1993, [107 Stat. 1266][/us/stat/107/1266]; [Pub. L. 103–178, title III][/us/pl/103/178/tIII], § 303(a), Dec. 3, 1993, [107 Stat. 2034][/us/stat/107/2034]; [Pub. L. 105–61, title I][/us/pl/105/61/tI], § 118(e), Oct. 10, 1997, [111 Stat. 1288][/us/stat/111/1288]; [Pub. L. 106–554][/us/pl/106/554], § 1(a)(4) \[div. B, title IX, § 907(b)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–309; [Pub. L. 108–411, title I][/us/pl/108/411/tI], § 101(b), title III, § 301(b), Oct. 30, 2004, [118 Stat. 2309][/us/stat/118/2309], 2317, provided that:
 
 > “SEC. 401. __SHORT TITLE.__ 
 
@@ -599,7 +599,7 @@
 
  __Reporting Requirement__ 
 
-[Pub. L. 101–509, title V, § 529][/us/pl/101/509/s529] \[title IV, § 412\], Nov. 5, 1990, [104 Stat. 1427][/us/stat/104/1427], 1469, provided that: 
+[Pub. L. 101–509, title V][/us/pl/101/509/tV], § 529 \[title IV, § 412\], Nov. 5, 1990, [104 Stat. 1427][/us/stat/104/1427], 1469, provided that: 
 
 > “Not later than January 1, 1993, the Office of Personnel Management, in consultation with Federal law enforcement agencies and law enforcement employee groups, shall submit to Congress, in writing, a plan to establish a separate pay and classification system for law enforcement officers and specifications for legislation to implement such plan.”
 
@@ -610,26 +610,26 @@
 ----------
 ----------
 
-[/us/pl/91/656/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F656%2Fs3%2Fa
+[/us/pl/91/656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F656
 [/us/stat/84/1946]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1946
-[/us/pl/94/82/s202/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F82%2Fs202%2Fc
+[/us/pl/94/82/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F82%2FtII
 [/us/stat/89/420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F420
-[/us/pl/101/509/s529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2Fs529
+[/us/pl/101/509/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2FtV
 [/us/stat/104/1427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1427
-[/us/pl/108/411/s301/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F411%2Fs301%2Fa%2F2
+[/us/pl/108/411/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F411%2FtIII
 [/us/stat/118/2313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2313
 [/us/usc/t5/s5315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5315
-[/us/pl/108/411/s301/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F411%2Fs301%2Fa%2F2%2FA
-[/us/pl/108/411/s301/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F411%2Fs301%2Fa%2F2%2FB
-[/us/pl/108/411/s301/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F411%2Fs301%2Fa%2F2%2FC
-[/us/pl/108/411/s301/a/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F411%2Fs301%2Fa%2F2%2FD
-[/us/pl/108/411/s301/a/2/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F411%2Fs301%2Fa%2F2%2FE
-[/us/pl/108/411/s301/a/2/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F411%2Fs301%2Fa%2F2%2FF
-[/us/pl/108/411/s301/a/2/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F411%2Fs301%2Fa%2F2%2FG
-[/us/pl/108/411/s301/a/2/H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F411%2Fs301%2Fa%2F2%2FH
+[/us/pl/108/411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F411
+[/us/pl/108/411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F411
+[/us/pl/108/411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F411
+[/us/pl/108/411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F411
+[/us/pl/108/411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F411
+[/us/pl/108/411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F411
+[/us/pl/108/411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F411
+[/us/pl/108/411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F411
 [/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509
-[/us/pl/94/82/s202/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F82%2Fs202%2Fc%2F1
-[/us/pl/94/82/s202/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F82%2Fs202%2Fc%2F2
+[/us/pl/94/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F82
+[/us/pl/94/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F82
 [/us/pl/108/411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F411
 [/us/pl/108/411/s301/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F411%2Fs301%2Fd
 [/us/usc/t5/s5363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5363
@@ -637,32 +637,32 @@
 [/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509
 [/us/usc/t5/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5301
 [/us/usc/t5/s4505a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs4505a
-[/us/pl/101/509/s529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2Fs529
+[/us/pl/101/509/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2FtV
 [/us/stat/104/1427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1427
-[/us/pl/102/378/s3/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378%2Fs3%2F3
+[/us/pl/102/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378
 [/us/stat/106/1355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1355
 [/us/usc/t5/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5301
 [/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509
 [/us/usc/t5/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5301
-[/us/pl/106/554/s1/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F4
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 [/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/usc/t18/s3056A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3056A
 [/us/usc/t5/s5305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5305
 [/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509
-[/us/pl/101/509/s529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2Fs529
+[/us/pl/101/509/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2FtV
 [/us/stat/104/1427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1427
-[/us/pl/102/378/s3/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378%2Fs3%2F5
+[/us/pl/102/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378
 [/us/stat/106/1356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1356
-[/us/pl/103/123/s628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F123%2Fs628
+[/us/pl/103/123/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F123%2FtVI
 [/us/stat/107/1266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1266
-[/us/pl/103/178/s303/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F178%2Fs303%2Fa
+[/us/pl/103/178/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F178%2FtIII
 [/us/stat/107/2034]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2034
-[/us/pl/105/61/s118/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F61%2Fs118%2Fe
+[/us/pl/105/61/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F61%2FtI
 [/us/stat/111/1288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1288
-[/us/pl/106/554/s1/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F4
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/108/411/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F411%2Fs101%2Fb
+[/us/pl/108/411/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F411%2FtI
 [/us/stat/118/2309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2309
 [/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509
 [/us/usc/t5/s5541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5541
@@ -686,7 +686,7 @@
 [/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509
 [/us/pl/102/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378
 [/us/usc/t5/s6303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs6303
-[/us/pl/101/509/s529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2Fs529
+[/us/pl/101/509/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2FtV
 [/us/stat/104/1427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1427
 
 

@@ -27,7 +27,7 @@
 
         (3) principal provisions of the plan affecting the enrollee and any eligible family members.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 605][/us/stat/80/605]; [Pub. L. 95–454, title IX, § 906(a)(2)][/us/pl/95/454/s906/a/2], (3), Oct. 13, 1978, [92 Stat. 1224][/us/stat/92/1224]; [Pub. L. 98–615, § 3(5)][/us/pl/98/615/s3/5], Nov. 8, 1984, [98 Stat. 3204][/us/stat/98/3204]; [Pub. L. 99–53, § 2(d)][/us/pl/99/53/s2/d], June 17, 1985, [99 Stat. 94][/us/stat/99/94].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 605][/us/stat/80/605]; [Pub. L. 95–454, title IX][/us/pl/95/454/tIX], § 906(a)(2), (3), Oct. 13, 1978, [92 Stat. 1224][/us/stat/92/1224]; [Pub. L. 98–615][/us/pl/98/615], § 3(5), Nov. 8, 1984, [98 Stat. 3204][/us/stat/98/3204]; [Pub. L. 99–53][/us/pl/99/53], § 2(d), June 17, 1985, [99 Stat. 94][/us/stat/99/94].)
 
 <table>
 
@@ -81,15 +81,15 @@ Sept. 28, 1959, Pub. L. 86–382, § 10(d), 73 Stat. 715.  </td>
 
     1985—Subsec. (a). [Pub. L. 99–53][/us/pl/99/53] inserted reference to [section 8903a of this title][/us/usc/t5/s8903a].
 
-    1984—[Pub. L. 98–615, § 3(5)(C)][/us/pl/98/615/s3/5/C], substituted “individuals eligible to enroll” for “employees” in section catchline.
+    1984—[Pub. L. 98–615][/us/pl/98/615], § 3(5)(C), substituted “individuals eligible to enroll” for “employees” in section catchline.
 
-    Subsec. (a). [Pub. L. 98–615, § 3(5)(A)][/us/pl/98/615/s3/5/A], substituted “individual” for “employee” in two places.
+    Subsec. (a). [Pub. L. 98–615][/us/pl/98/615], § 3(5)(A), substituted “individual” for “employee” in two places.
 
-    Subsec. (b). [Pub. L. 98–615, § 3(5)(B)(i)][/us/pl/98/615/s3/5/B/i], substituted “enrollee” for “employee enrolled” in provisions preceding par. (1).
+    Subsec. (b). [Pub. L. 98–615][/us/pl/98/615], § 3(5)(B)(i), substituted “enrollee” for “employee enrolled” in provisions preceding par. (1).
 
-    Subsec. (b)(1). [Pub. L. 98–615, § 3(5)(B)(ii)][/us/pl/98/615/s3/5/B/ii], substituted “enrollee or the enrollee and any eligible family members” for “employee or the employee and members of his family”.
+    Subsec. (b)(1). [Pub. L. 98–615][/us/pl/98/615], § 3(5)(B)(ii), substituted “enrollee or the enrollee and any eligible family members” for “employee or the employee and members of his family”.
 
-    Subsec. (b)(3). [Pub. L. 98–615, § 3(5)(B)(iii)][/us/pl/98/615/s3/5/B/iii], substituted “the enrollee and any eligible family members” for “the employee or members of his family”.
+    Subsec. (b)(3). [Pub. L. 98–615][/us/pl/98/615], § 3(5)(B)(iii), substituted “the enrollee and any eligible family members” for “the employee or members of his family”.
 
     1978—Subsec. (a). [Pub. L. 95–454][/us/pl/95/454] substituted “Office of Personnel Management” and “Office” for “Civil Service Commission” and “Commission”, respectively.
 
@@ -110,19 +110,19 @@ Sept. 28, 1959, Pub. L. 86–382, § 10(d), 73 Stat. 715.  </td>
 
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F605
-[/us/pl/95/454/s906/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs906%2Fa%2F2
+[/us/pl/95/454/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtIX
 [/us/stat/92/1224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1224
-[/us/pl/98/615/s3/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F615%2Fs3%2F5
+[/us/pl/98/615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F615
 [/us/stat/98/3204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3204
-[/us/pl/99/53/s2/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F53%2Fs2%2Fd
+[/us/pl/99/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F53
 [/us/stat/99/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F94
 [/us/pl/99/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F53
 [/us/usc/t5/s8903a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8903a
-[/us/pl/98/615/s3/5/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F615%2Fs3%2F5%2FC
-[/us/pl/98/615/s3/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F615%2Fs3%2F5%2FA
-[/us/pl/98/615/s3/5/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F615%2Fs3%2F5%2FB%2Fi
-[/us/pl/98/615/s3/5/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F615%2Fs3%2F5%2FB%2Fii
-[/us/pl/98/615/s3/5/B/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F615%2Fs3%2F5%2FB%2Fiii
+[/us/pl/98/615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F615
+[/us/pl/98/615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F615
+[/us/pl/98/615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F615
+[/us/pl/98/615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F615
+[/us/pl/98/615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F615
 [/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454
 [/us/pl/98/615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F615
 [/us/pl/98/615/s4/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F615%2Fs4%2Fa%2F2

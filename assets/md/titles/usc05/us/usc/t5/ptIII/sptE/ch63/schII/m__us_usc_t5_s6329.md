@@ -35,17 +35,17 @@
 
         (3) the term “veteran” has the meaning given such term in section 101(2) of such title.
 
-(Added [Pub. L. 114–75, § 2(a)][/us/pl/114/75/s2/a], Nov. 5, 2015, [129 Stat. 640][/us/stat/129/640].)
+(Added [Pub. L. 114–75][/us/pl/114/75], § 2(a), Nov. 5, 2015, [129 Stat. 640][/us/stat/129/640].)
 
  __Effective Date__ 
 
-[Pub. L. 114–75, § 2(c)][/us/pl/114/75/s2/c], Nov. 5, 2015, [129 Stat. 641][/us/stat/129/641], provided that: 
+[Pub. L. 114–75][/us/pl/114/75], § 2(c), Nov. 5, 2015, [129 Stat. 641][/us/stat/129/641], provided that: 
 
 > “The amendments made by subsection (a) \[enacting this section\] shall apply with respect to any employee (as that term is defined in [section 6329(d)(1) of title 5][/us/usc/t5/s6329/d/1], United States Code, as added by subsection (a)) hired on or after the date that is 1 year after the date of enactment of this Act \[Nov. 5, 2015\].”
 
  __Regulations__ 
 
-[Pub. L. 114–75, § 2(d)][/us/pl/114/75/s2/d], Nov. 5, 2015, [129 Stat. 641][/us/stat/129/641], provided that: 
+[Pub. L. 114–75][/us/pl/114/75], § 2(d), Nov. 5, 2015, [129 Stat. 641][/us/stat/129/641], provided that: 
 
 > “Not later than 9 months after the date of enactment of this Act \[Nov. 5, 2015\]—
 
@@ -61,12 +61,12 @@
 ----------
 
 [/us/usc/t38/s101/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs101%2F16
-[/us/pl/114/75/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F75%2Fs2%2Fa
+[/us/pl/114/75]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F75
 [/us/stat/129/640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F640
-[/us/pl/114/75/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F75%2Fs2%2Fc
+[/us/pl/114/75]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F75
 [/us/stat/129/641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F641
 [/us/usc/t5/s6329/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs6329%2Fd%2F1
-[/us/pl/114/75/s2/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F75%2Fs2%2Fd
+[/us/pl/114/75]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F75
 [/us/stat/129/641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F641
 
 

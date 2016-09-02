@@ -17,7 +17,7 @@
 
     An employee serving intermittently in the Government service as an expert or consultant and paid on a daily when-actually-employed basis, or serving without pay or at $1 a year, may be allowed travel or transportation expenses, under this subchapter, while away from his home or regular place of business and at the place of employment or service.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 499][/us/stat/80/499]; [Pub. L. 91–114, § 2][/us/pl/91/114/s2], Nov. 10, 1969, [83 Stat. 190][/us/stat/83/190]; [Pub. L. 94–22, § 4][/us/pl/94/22/s4], May 19, 1975, [89 Stat. 85][/us/stat/89/85].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 499][/us/stat/80/499]; [Pub. L. 91–114][/us/pl/91/114], § 2, Nov. 10, 1969, [83 Stat. 190][/us/stat/83/190]; [Pub. L. 94–22][/us/pl/94/22], § 4, May 19, 1975, [89 Stat. 85][/us/stat/89/85].)
 
 <table>
 
@@ -124,9 +124,9 @@ Aug. 14, 1961, Pub. L. 87–139, §§ 2, 8(b), 75 Stat. 339, 340.  </td>
 
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F499
-[/us/pl/91/114/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F114%2Fs2
+[/us/pl/91/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F114
 [/us/stat/83/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F190
-[/us/pl/94/22/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F22%2Fs4
+[/us/pl/94/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F22
 [/us/stat/89/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F85
 [/us/act/1946-08-02/ch744/s18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-02%2Fch744%2Fs18
 [/us/stat/60/811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F811

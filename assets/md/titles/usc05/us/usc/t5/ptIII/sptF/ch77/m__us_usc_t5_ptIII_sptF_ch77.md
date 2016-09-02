@@ -51,7 +51,7 @@
 
  __Amendments__ 
 
-    1978—[Pub. L. 95–454, title II, § 205][/us/pl/95/454/s205], Oct. 13, 1978, [92 Stat. 1138][/us/stat/92/1138], substituted “Appellate procedures” for “Appeals of preference eligibles” in item 7701, and added items 7702 and 7703.
+    1978—[Pub. L. 95–454, title II][/us/pl/95/454/tII], § 205, Oct. 13, 1978, [92 Stat. 1138][/us/stat/92/1138], substituted “Appellate procedures” for “Appeals of preference eligibles” in item 7701, and added items 7702 and 7703.
 
 ----------
 
@@ -60,7 +60,7 @@
 ----------
 ----------
 
-[/us/pl/95/454/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs205
+[/us/pl/95/454/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtII
 [/us/stat/92/1138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1138
 
 

@@ -17,7 +17,7 @@
 
     For the purpose of this subchapter, “agency”, “Senior Executive Service position”, “senior executive”, “career appointee”, “limited term appointee”, “limited emergency appointee”, “noncareer appointee”, and “general position” have the meanings set forth in [section 3132(a) of this title][/us/usc/t5/s3132/a].
 
-(Added [Pub. L. 95–454, title IV, § 404(b)][/us/pl/95/454/s404/b], Oct. 13, 1978, [92 Stat. 1165][/us/stat/92/1165].)
+(Added [Pub. L. 95–454, title IV][/us/pl/95/454/tIV], § 404(b), Oct. 13, 1978, [92 Stat. 1165][/us/stat/92/1165].)
 
  __Effective Date__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t5/s3132/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3132%2Fa
-[/us/pl/95/454/s404/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs404%2Fb
+[/us/pl/95/454/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtIV
 [/us/stat/92/1165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1165
 [/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454
 [/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454

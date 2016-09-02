@@ -29,7 +29,7 @@
 
     (c) This section shall not apply to members of the United States Secret Service Uniformed Division who are covered under chapter 84 for the purpose of retirement benefits.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 522][/us/stat/80/522]; [Pub. L. 90–623, § 1(18)][/us/pl/90/623/s1/18], Oct. 22, 1968, [82 Stat. 1313][/us/stat/82/1313]; [Pub. L. 94–183, § 2(28)][/us/pl/94/183/s2/28], (29), Dec. 31, 1975, [89 Stat. 1058][/us/stat/89/1058]; [Pub. L. 111–282, § 2(c)][/us/pl/111/282/s2/c], Oct. 15, 2010, [124 Stat. 3038][/us/stat/124/3038].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 522][/us/stat/80/522]; [Pub. L. 90–623][/us/pl/90/623], § 1(18), Oct. 22, 1968, [82 Stat. 1313][/us/stat/82/1313]; [Pub. L. 94–183][/us/pl/94/183], § 2(28), (29), Dec. 31, 1975, [89 Stat. 1058][/us/stat/89/1058]; [Pub. L. 111–282][/us/pl/111/282], § 2(c), Oct. 15, 2010, [124 Stat. 3038][/us/stat/124/3038].)
 
 <table>
 
@@ -85,11 +85,11 @@ Aug. 21, 1964, Pub. L. 88–471, § 5, 78 Stat. 583.  </td>
 
  __Amendments__ 
 
-    2010—Subsec. (a). [Pub. L. 111–282, § 2(c)(1)][/us/pl/111/282/s2/c/1], substituted “United States Secret Service Uniformed Division” for “Executive Protective Service force”.
+    2010—Subsec. (a). [Pub. L. 111–282][/us/pl/111/282], § 2(c)(1), substituted “United States Secret Service Uniformed Division” for “Executive Protective Service force”.
 
-    Subsec. (b)(3). [Pub. L. 111–282, § 2(c)(2)][/us/pl/111/282/s2/c/2], substituted “Homeland Security for the United States Secret Service Uniformed Division” for “the Treasury for the Executive Protective Service force”.
+    Subsec. (b)(3). [Pub. L. 111–282][/us/pl/111/282], § 2(c)(2), substituted “Homeland Security for the United States Secret Service Uniformed Division” for “the Treasury for the Executive Protective Service force”.
 
-    Subsec. (c). [Pub. L. 111–282, § 2(c)(3)][/us/pl/111/282/s2/c/3], added subsec. (c).
+    Subsec. (c). [Pub. L. 111–282][/us/pl/111/282], § 2(c)(3), added subsec. (c).
 
     1975—Subsecs. (a), (b)(3). [Pub. L. 94–183][/us/pl/94/183] substituted “Executive Protective Service” for “White House Police”.
 
@@ -105,7 +105,7 @@ Aug. 21, 1964, Pub. L. 88–471, § 5, 78 Stat. 583.  </td>
 
  __Transfer of Functions__ 
 
-    District of Columbia Council, as established by Reorg. Plan No. 3 of 1967, abolished as of noon Jan. 2, 1975, by [Pub. L. 93–198, title VII, § 711][/us/pl/93/198/s711], Dec. 24, 1973, [87 Stat. 818][/us/stat/87/818], and replaced by Council of District of Columbia, as provided by [section 401 of Pub. L. 93–198][/us/pl/93/198/s401].
+    District of Columbia Council, as established by Reorg. Plan No. 3 of 1967, abolished as of noon Jan. 2, 1975, by [Pub. L. 93–198, title VII][/us/pl/93/198/tVII], § 711, Dec. 24, 1973, [87 Stat. 818][/us/stat/87/818], and replaced by Council of District of Columbia, as provided by [section 401 of Pub. L. 93–198][/us/pl/93/198/s401].
 
 ----------
 
@@ -116,15 +116,15 @@ Aug. 21, 1964, Pub. L. 88–471, § 5, 78 Stat. 583.  </td>
 
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F522
-[/us/pl/90/623/s1/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F623%2Fs1%2F18
+[/us/pl/90/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F623
 [/us/stat/82/1313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1313
-[/us/pl/94/183/s2/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F183%2Fs2%2F28
+[/us/pl/94/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F183
 [/us/stat/89/1058]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F1058
-[/us/pl/111/282/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F282%2Fs2%2Fc
+[/us/pl/111/282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F282
 [/us/stat/124/3038]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3038
-[/us/pl/111/282/s2/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F282%2Fs2%2Fc%2F1
-[/us/pl/111/282/s2/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F282%2Fs2%2Fc%2F2
-[/us/pl/111/282/s2/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F282%2Fs2%2Fc%2F3
+[/us/pl/111/282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F282
+[/us/pl/111/282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F282
+[/us/pl/111/282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F282
 [/us/pl/94/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F183
 [/us/pl/90/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F623
 [/us/pl/111/282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F282
@@ -133,7 +133,7 @@ Aug. 21, 1964, Pub. L. 88–471, § 5, 78 Stat. 583.  </td>
 [/us/pl/90/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F623
 [/us/pl/90/623/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F623%2Fs6
 [/us/usc/t5/s5334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5334
-[/us/pl/93/198/s711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F198%2Fs711
+[/us/pl/93/198/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F198%2FtVII
 [/us/stat/87/818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F818
 [/us/pl/93/198/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F198%2Fs401
 

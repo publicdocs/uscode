@@ -37,7 +37,7 @@
 
         (2) assigns to the United States any right he may have to share in money or other property received in satisfaction of the liability of the Panama Canal Company.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 546][/us/stat/80/546]; [Pub. L. 90–83, § 1(60)][/us/pl/90/83/s1/60], Sept. 11, 1967, [81 Stat. 211][/us/stat/81/211].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 546][/us/stat/80/546]; [Pub. L. 90–83][/us/pl/90/83], § 1(60), Sept. 11, 1967, [81 Stat. 211][/us/stat/81/211].)
 
 <table>
 
@@ -125,7 +125,7 @@ Sept. 7, 1916, ch. 458, § 41, 39 Stat. 750.  </td>
 
 </table>
 
-    In subsection (d), the first 45 words of [section 41 of the Act of Sept. 7, 1916][/us/act/1916-09-07/s41], are omitted as executed. The words “Panama Canal Company” are substituted for “Panama Railroad Company” on authority of the [Act of Sept. 26, 1950, ch. 1049, § 2(a)][/us/act/1950-09-26/ch1049/s2/a] (2), [64 Stat. 1038][/us/stat/64/1038].
+    In subsection (d), the first 45 words of [section 41 of the Act of Sept. 7, 1916][/us/act/1916-09-07/s41], are omitted as executed. The words “Panama Canal Company” are substituted for “Panama Railroad Company” on authority of the [Act of Sept. 26, 1950, ch. 1049][/us/act/1950-09-26/ch1049], § 2(a) (2), [64 Stat. 1038][/us/stat/64/1038].
 
     Administration of this subchapter was transferred to the Secretary of Labor by section 1 of 1950 Reorg. Plan. No. 19, [64 Stat. 1271][/us/stat/64/1271] (see section 8145).
 
@@ -192,10 +192,10 @@ July 4, 1966, Pub. L. 89–488, § 10(a), 80 Stat. 255.  </td>
 
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F546
-[/us/pl/90/83/s1/60]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83%2Fs1%2F60
+[/us/pl/90/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83
 [/us/stat/81/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F211
 [/us/act/1916-09-07/s41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-09-07%2Fs41
-[/us/act/1950-09-26/ch1049/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-26%2Fch1049%2Fs2%2Fa
+[/us/act/1950-09-26/ch1049]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-26%2Fch1049
 [/us/stat/64/1038]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1038
 [/us/stat/64/1271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1271
 [/us/usc/t22/s3602/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3602%2Fb

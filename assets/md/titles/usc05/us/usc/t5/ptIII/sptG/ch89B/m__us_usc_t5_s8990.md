@@ -27,7 +27,7 @@
 
     (c) The Office shall conduct periodic reviews of plans under this chapter, including a comparison of the vision benefits available under chapter 89, to ensure the competitiveness of plans under this chapter. The Office shall cooperate with the Government Accountability Office to provide periodic evaluations of the program.
 
-(Added [Pub. L. 108–496, § 3][/us/pl/108/496/s3], Dec. 23, 2004, [118 Stat. 4010][/us/stat/118/4010].)
+(Added [Pub. L. 108–496][/us/pl/108/496], § 3, Dec. 23, 2004, [118 Stat. 4010][/us/stat/118/4010].)
 
 ----------
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/108/496/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F496%2Fs3
+[/us/pl/108/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F496
 [/us/stat/118/4010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F4010
 
 

@@ -19,7 +19,7 @@
 
     (b) The provisions of subsection (a) shall not apply to any employee whose disability is a result of an assault which occurs during an assassination or attempted assassination of a Federal official described under section 351(a) or 1751(a) of title 18, and was sustained in the performance of duty.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 540][/us/stat/80/540]; [Pub. L. 90–83, § 1(55)][/us/pl/90/83/s1/55], Sept. 11, 1967, [81 Stat. 210][/us/stat/81/210]; [Pub. L. 100–566, § 5][/us/pl/100/566/s5], Oct. 31, 1988, [102 Stat. 2845][/us/stat/102/2845].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 540][/us/stat/80/540]; [Pub. L. 90–83][/us/pl/90/83], § 1(55), Sept. 11, 1967, [81 Stat. 210][/us/stat/81/210]; [Pub. L. 100–566][/us/pl/100/566], § 5, Oct. 31, 1988, [102 Stat. 2845][/us/stat/102/2845].)
 
 <table>
 
@@ -159,9 +159,9 @@ July 4, 1966, Pub. L. 89–488, § 3(b), 80 Stat. 252.  </td>
 [/us/usc/t5/s8111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8111
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F540
-[/us/pl/90/83/s1/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83%2Fs1%2F55
+[/us/pl/90/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83
 [/us/stat/81/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F210
-[/us/pl/100/566/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F566%2Fs5
+[/us/pl/100/566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F566
 [/us/stat/102/2845]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2845
 [/us/pl/100/566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F566
 [/us/pl/90/83/s1/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83%2Fs1%2F55

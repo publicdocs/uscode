@@ -121,7 +121,7 @@
 
             (B) “45 days” in subsection (b) shall be deemed to read “90 days”.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 519][/us/stat/80/519]; [Pub. L. 93–181, § 3][/us/pl/93/181/s3], Dec. 14, 1973, [87 Stat. 705][/us/stat/87/705]; [Pub. L. 95–454, title IV, § 410][/us/pl/95/454/s410], title IX, § 906(a)(2), (3), Oct. 13, 1978, [92 Stat. 1173][/us/stat/92/1173], 1224; [Pub. L. 96–54, § 2(a)(39)][/us/pl/96/54/s2/a/39], Aug. 14, 1979, [93 Stat. 383][/us/stat/93/383]; [Pub. L. 96–465, title II, § 2312(b)][/us/pl/96/465/s2312/b], Oct. 17, 1980, [94 Stat. 2166][/us/stat/94/2166]; [Pub. L. 97–89, title VIII, § 802][/us/pl/97/89/s802], Dec. 4, 1981, [95 Stat. 1161][/us/stat/95/1161]; [Pub. L. 100–325, § 2(k)][/us/pl/100/325/s2/k], May 30, 1988, [102 Stat. 582][/us/stat/102/582]; [Pub. L. 102–378, § 2(53)][/us/pl/102/378/s2/53], Oct. 2, 1992, [106 Stat. 1354][/us/stat/106/1354]; [Pub. L. 102–484, div. D, title XLIV, § 4434][/us/pl/102/484/s4434], Oct. 23, 1992, [106 Stat. 2722][/us/stat/106/2722]; [Pub. L. 103–337, div. A, title III, § 341(c)][/us/pl/103/337/s341/c], div. B, title XXVIII, § 2816(a), Oct. 5, 1994, [108 Stat. 2720][/us/stat/108/2720], 3056; [Pub. L. 103–356, title II, § 201(a)][/us/pl/103/356/s201/a], Oct. 13, 1994, [108 Stat. 3411][/us/stat/108/3411]; [Pub. L. 105–261, div. A, title XI, § 1105][/us/pl/105/261/s1105], Oct. 17, 1998, [112 Stat. 2142][/us/stat/112/2142]; [Pub. L. 106–65, div. A, title XI, § 1103(a)][/us/pl/106/65/s1103/a], Oct. 5, 1999, [113 Stat. 776][/us/stat/113/776]; [Pub. L. 110–181, div. A, title XI, § 1112][/us/pl/110/181/s1112], Jan. 28, 2008, [122 Stat. 360][/us/stat/122/360]; [Pub. L. 111–68, div. A, title I, § 1404(1)][/us/pl/111/68/s1404/1]–(3), Oct. 1, 2009, [123 Stat. 2038][/us/stat/123/2038]; [Pub. L. 111–282, § 2(b)][/us/pl/111/282/s2/b], Oct. 15, 2010, [124 Stat. 3038][/us/stat/124/3038].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 519][/us/stat/80/519]; [Pub. L. 93–181][/us/pl/93/181], § 3, Dec. 14, 1973, [87 Stat. 705][/us/stat/87/705]; [Pub. L. 95–454, title IV][/us/pl/95/454/tIV], § 410, title IX, § 906(a)(2), (3), Oct. 13, 1978, [92 Stat. 1173][/us/stat/92/1173], 1224; [Pub. L. 96–54][/us/pl/96/54], § 2(a)(39), Aug. 14, 1979, [93 Stat. 383][/us/stat/93/383]; [Pub. L. 96–465, title II][/us/pl/96/465/tII], § 2312(b), Oct. 17, 1980, [94 Stat. 2166][/us/stat/94/2166]; [Pub. L. 97–89, title VIII][/us/pl/97/89/tVIII], § 802, Dec. 4, 1981, [95 Stat. 1161][/us/stat/95/1161]; [Pub. L. 100–325][/us/pl/100/325], § 2(k), May 30, 1988, [102 Stat. 582][/us/stat/102/582]; [Pub. L. 102–378][/us/pl/102/378], § 2(53), Oct. 2, 1992, [106 Stat. 1354][/us/stat/106/1354]; [Pub. L. 102–484, div. D, title XLIV][/us/pl/102/484/dD/tXLIV], § 4434, Oct. 23, 1992, [106 Stat. 2722][/us/stat/106/2722]; [Pub. L. 103–337, div. A, title III][/us/pl/103/337/dA/tIII], § 341(c), div. B, title XXVIII, § 2816(a), Oct. 5, 1994, [108 Stat. 2720][/us/stat/108/2720], 3056; [Pub. L. 103–356, title II][/us/pl/103/356/tII], § 201(a), Oct. 13, 1994, [108 Stat. 3411][/us/stat/108/3411]; [Pub. L. 105–261, div. A, title XI][/us/pl/105/261/dA/tXI], § 1105, Oct. 17, 1998, [112 Stat. 2142][/us/stat/112/2142]; [Pub. L. 106–65, div. A, title XI][/us/pl/106/65/dA/tXI], § 1103(a), Oct. 5, 1999, [113 Stat. 776][/us/stat/113/776]; [Pub. L. 110–181, div. A, title XI][/us/pl/110/181/dA/tXI], § 1112, Jan. 28, 2008, [122 Stat. 360][/us/stat/122/360]; [Pub. L. 111–68, div. A, title I][/us/pl/111/68/dA/tI], § 1404(1)–(3), Oct. 1, 2009, [123 Stat. 2038][/us/stat/123/2038]; [Pub. L. 111–282][/us/pl/111/282], § 2(b), Oct. 15, 2010, [124 Stat. 3038][/us/stat/124/3038].)
 
 <table>
 
@@ -251,11 +251,11 @@ July 2, 1953, ch. 178, § 3(c), 67 Stat. 137.  </td>
 
  __Amendments__ 
 
-    2010—Subsec. (f)(1)(F). [Pub. L. 111–282, § 2(b)(1)][/us/pl/111/282/s2/b/1], which directed amendment of subpar. (F) by striking “or” after the semicolon, could not be executed because the word “or” did not appear.
+    2010—Subsec. (f)(1)(F). [Pub. L. 111–282][/us/pl/111/282], § 2(b)(1), which directed amendment of subpar. (F) by striking “or” after the semicolon, could not be executed because the word “or” did not appear.
 
-    Subsec. (f)(1)(G). [Pub. L. 111–282, § 2(b)(2)][/us/pl/111/282/s2/b/2], which directed substitution of “; or” for the period, could not be executed because there was no period.
+    Subsec. (f)(1)(G). [Pub. L. 111–282][/us/pl/111/282], § 2(b)(2), which directed substitution of “; or” for the period, could not be executed because there was no period.
 
-    Subsec. (f)(1)(H). [Pub. L. 111–282, § 2(b)(3)][/us/pl/111/282/s2/b/3], added subpar. (H) relating to a position in the United States Secret Service Uniformed Division.
+    Subsec. (f)(1)(H). [Pub. L. 111–282][/us/pl/111/282], § 2(b)(3), added subpar. (H) relating to a position in the United States Secret Service Uniformed Division.
 
     2009—Subsec. (f)(1)(H). [Pub. L. 111–68][/us/pl/111/68] added subpar. (H).
 
@@ -265,9 +265,9 @@ July 2, 1953, ch. 178, § 3(c), 67 Stat. 137.  </td>
 
     1998—Subsec. (d)(3)(A). [Pub. L. 105–261][/us/pl/105/261] inserted “the closure of an installation of the Department of Defense in the Republic of Panama in accordance with the Panama Canal Treaty of 1977,” after “2687 note) during any period,”.
 
-    1994—Subsec. (d)(3). [Pub. L. 103–337, § 2816(a)][/us/pl/103/337/s2816/a], designated existing provisions as subpar. (A), substituted “closure of, and any realignment with respect to,” for “closure of”, and added subpar. (B).
+    1994—Subsec. (d)(3). [Pub. L. 103–337][/us/pl/103/337], § 2816(a), designated existing provisions as subpar. (A), substituted “closure of, and any realignment with respect to,” for “closure of”, and added subpar. (B).
 
-    [Pub. L. 103–337, § 341(c)][/us/pl/103/337/s341/c], substituted “the closure of an installation of the Department of Defense pursuant to the Defense Base Closure and Realignment Act of 1990 (part A of title XXIX of [Public Law 101–510][/us/pl/101/510]; [10 U.S.C. 2687][/us/usc/t10/s2687] note) during any period, and the closure of any other installation” for “the closure of an installation”.
+    [Pub. L. 103–337][/us/pl/103/337], § 341(c), substituted “the closure of an installation of the Department of Defense pursuant to the Defense Base Closure and Realignment Act of 1990 (part A of title XXIX of [Public Law 101–510][/us/pl/101/510]; [10 U.S.C. 2687][/us/usc/t10/s2687] note) during any period, and the closure of any other installation” for “the closure of an installation”.
 
     Subsec. (f). [Pub. L. 103–356][/us/pl/103/356] amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: “Annual leave accrued shall not be subject to the limitation on accumulation otherwise imposed by this section if such leave is accrued by an individual while serving in a position in—
 
@@ -291,21 +291,21 @@ July 2, 1953, ch. 178, § 3(c), 67 Stat. 137.  </td>
 
     Subsec. (g). [Pub. L. 97–89][/us/pl/97/89] struck out subsec. (g). Provisions formerly set out in subsec. (g), relating to annual leave accrued by members of the Senior Foreign service, were incorporated in subsec. (f).
 
-    1980—Subsec. (a). [Pub. L. 96–465, § 2312(b)(1)][/us/pl/96/465/s2312/b/1], inserted reference to subsec. (g).
+    1980—Subsec. (a). [Pub. L. 96–465][/us/pl/96/465], § 2312(b)(1), inserted reference to subsec. (g).
 
-    Subsec. (g). [Pub. L. 96–465, § 2312(b)(2)][/us/pl/96/465/s2312/b/2], added subsec. (g).
+    Subsec. (g). [Pub. L. 96–465][/us/pl/96/465], § 2312(b)(2), added subsec. (g).
 
     1979—Subsec. (e). [Pub. L. 96–54][/us/pl/96/54] substituted “rate of basic pay” for “salary rate”.
 
-    1978—Subsec. (a). [Pub. L. 95–454, § 410(1)][/us/pl/95/454/s410/1], inserted reference to subsec. (f).
+    1978—Subsec. (a). [Pub. L. 95–454][/us/pl/95/454], § 410(1), inserted reference to subsec. (f).
 
-    Subsec. (d)(2). [Pub. L. 95–454, § 906(a)(2)][/us/pl/95/454/s906/a/2], (3), substituted “Office of Personnel Management” and “Office” for “Civil Service Commission” and “Commission”, respectively.
+    Subsec. (d)(2). [Pub. L. 95–454][/us/pl/95/454], § 906(a)(2), (3), substituted “Office of Personnel Management” and “Office” for “Civil Service Commission” and “Commission”, respectively.
 
-    Subsec. (f). [Pub. L. 95–454, § 410(2)][/us/pl/95/454/s410/2], added subsec. (f).
+    Subsec. (f). [Pub. L. 95–454][/us/pl/95/454], § 410(2), added subsec. (f).
 
-    1973—Subsec. (a). [Pub. L. 93–181, § 3(1)][/us/pl/93/181/s3/1], substituted “subsections (b), (d), and (e) of this section” for “subsection (b) of this section”.
+    1973—Subsec. (a). [Pub. L. 93–181][/us/pl/93/181], § 3(1), substituted “subsections (b), (d), and (e) of this section” for “subsection (b) of this section”.
 
-    Subsecs. (d), (e). [Pub. L. 93–181, § 3(2)][/us/pl/93/181/s3/2], added subsecs. (d) and (e).
+    Subsecs. (d), (e). [Pub. L. 93–181][/us/pl/93/181], § 3(2), added subsecs. (d) and (e).
 
  __Effective Date of 2010 Amendment__ 
 
@@ -313,15 +313,15 @@ July 2, 1953, ch. 178, § 3(c), 67 Stat. 137.  </td>
 
  __Effective Date of 2009 Amendment__ 
 
-[Pub. L. 111–68, div. A, title I, § 1404(4)][/us/pl/111/68/s1404/4], Oct. 1, 2009, [123 Stat. 2038][/us/stat/123/2038], provided that: 
+[Pub. L. 111–68, div. A, title I][/us/pl/111/68/dA/tI], § 1404(4), Oct. 1, 2009, [123 Stat. 2038][/us/stat/123/2038], provided that: 
 
 > “The amendments made by subsection (a) \[probably means pars. (1) to (3), which amended this section\] shall apply with respect to annual leave accrued during pay periods beginning after the date of the enactment of this Act \[Oct. 1, 2009\].”
 
  __Effective Date of 1994 Amendments__ 
 
-    [Pub. L. 103–356, title II, § 201(a)][/us/pl/103/356/s201/a], Oct. 13, 1994, [108 Stat. 3411][/us/stat/108/3411], provided that the amendment made by that section is effective on the first day of the first applicable pay period beginning after Oct. 13, 1994.
+    [Pub. L. 103–356, title II][/us/pl/103/356/tII], § 201(a), Oct. 13, 1994, [108 Stat. 3411][/us/stat/108/3411], provided that the amendment made by that section is effective on the first day of the first applicable pay period beginning after Oct. 13, 1994.
 
-[Pub. L. 103–337, div. B, title XXVIII, § 2816(b)][/us/pl/103/337/s2816/b], Oct. 5, 1994, [108 Stat. 3056][/us/stat/108/3056], provided that: 
+[Pub. L. 103–337, div. B, title XXVIII][/us/pl/103/337/dB/tXXVIII], § 2816(b), Oct. 5, 1994, [108 Stat. 3056][/us/stat/108/3056], provided that: 
 
 > “The amendments made by subsection (a) \[amending this section\] shall apply only with respect to the restoration of annual leave of employees at military installations undergoing realignment if such leave is lost by operation of [section 6304 of title 5][/us/usc/t5/s6304], United States Code, on or after the date of the enactment of this Act \[Oct. 5, 1994\].”
 
@@ -345,7 +345,7 @@ July 2, 1953, ch. 178, § 3(c), 67 Stat. 137.  </td>
 
  __Restoration of Annual Leave for Certain Department of Defense Employees__ 
 
-[Pub. L. 108–136, div. A, title XI, § 1114][/us/pl/108/136/s1114], Nov. 24, 2003, [117 Stat. 1635][/us/stat/117/1635], provided that:
+[Pub. L. 108–136, div. A, title XI][/us/pl/108/136/dA/tXI], § 1114, Nov. 24, 2003, [117 Stat. 1635][/us/stat/117/1635], provided that:
 
 >     “(a)  __Restoration of Annual Leave__  __.—__ 
 
@@ -369,15 +369,15 @@ July 2, 1953, ch. 178, § 3(c), 67 Stat. 137.  </td>
 
  __Use of Excess Leave__ 
 
-[Pub. L. 103–356, title II, § 201(b)][/us/pl/103/356/s201/b], Oct. 13, 1994, [108 Stat. 3411][/us/stat/108/3411], provided that: 
+[Pub. L. 103–356, title II][/us/pl/103/356/tII], § 201(b), Oct. 13, 1994, [108 Stat. 3411][/us/stat/108/3411], provided that: 
 
 > “Notwithstanding the amendment made by subsection (a) \[amending this section\], in the case of an employee who, on the effective date of subsection (a) \[see Effective Date of 1994 Amendments note above\], is subject to subsection (f) of [section 6304 of title 5][/us/usc/t5/s6304], United States Code, and who has to such employee’s credit annual leave in excess of the maximum accumulation otherwise permitted by subsection (a) or (b) of section 6304 (determined applying the amendment made by subsection (a)), such excess annual leave shall remain to the credit of the employee and be subject to reduction, in the same manner as provided in subsection (c) of section 6304.”
 
  __Lump-Sum Payment for Accrued Annual Leave to Former Employees__ 
 
-    [Pub. L. 93–181, § 5][/us/pl/93/181/s5], Dec. 14, 1973, [87 Stat. 706][/us/stat/87/706], provided that where former employees (other than former employees of Post Office Department or United States Postal Service) had accrued annual leave after June 30, 1960, but had not been on the rolls on Dec. 14, 1973, and where annual leave thus accrued had been lost because of administrative error, such accrued annual leave was subject to credit and liquidation by lump-sum payment but only if a claim therefor was filed within three years after Dec. 14, 1973, with agency by which the employees had been employed when lump-sum payment provision of [section 5551 of this title][/us/usc/t5/s5551] had last become applicable to them.
+    [Pub. L. 93–181][/us/pl/93/181], § 5, Dec. 14, 1973, [87 Stat. 706][/us/stat/87/706], provided that where former employees (other than former employees of Post Office Department or United States Postal Service) had accrued annual leave after June 30, 1960, but had not been on the rolls on Dec. 14, 1973, and where annual leave thus accrued had been lost because of administrative error, such accrued annual leave was subject to credit and liquidation by lump-sum payment but only if a claim therefor was filed within three years after Dec. 14, 1973, with agency by which the employees had been employed when lump-sum payment provision of [section 5551 of this title][/us/usc/t5/s5551] had last become applicable to them.
 
-    [Pub. L. 93–181, § 6][/us/pl/93/181/s6], Dec. 14, 1973, [87 Stat. 706][/us/stat/87/706], provided that where former employees of Post Office Department or United States Postal Service with prior civilian service with Post Office Department or other Federal agency had accrued annual leave after June 30, 1960, and before July 1, 1971, but had not on the rolls on Dec. 14, 1973, and where annual leave thus accrued had been lost because of administrative error, such accrued annual leave was subject to credit and liquidation by lump-sum payment, but only if a claim therefor was filed within three years after Dec. 14, 1973, with Postal Service, at salary rate in effect on date these employees had been employed when lump-sum payment provision of [section 5551 of this title][/us/usc/t5/s5551] or comparable provisions of regulations of Postal Service had last become applicable to them. With respect to present employees of Postal Service who had prior Federal civilian service with Post Office Department or other Federal agency, annual leave which had accrued after June 30, 1960, and before July 1, 1971, but, because of administrative error had been lost, was subject to credit and liquidation by lump-sum payment only if a claim therefor was filed within three years of Dec. 14, 1973, with Postal Service, at salary rate in effect on Dec. 14, 1973.
+    [Pub. L. 93–181][/us/pl/93/181], § 6, Dec. 14, 1973, [87 Stat. 706][/us/stat/87/706], provided that where former employees of Post Office Department or United States Postal Service with prior civilian service with Post Office Department or other Federal agency had accrued annual leave after June 30, 1960, and before July 1, 1971, but had not on the rolls on Dec. 14, 1973, and where annual leave thus accrued had been lost because of administrative error, such accrued annual leave was subject to credit and liquidation by lump-sum payment, but only if a claim therefor was filed within three years after Dec. 14, 1973, with Postal Service, at salary rate in effect on date these employees had been employed when lump-sum payment provision of [section 5551 of this title][/us/usc/t5/s5551] or comparable provisions of regulations of Postal Service had last become applicable to them. With respect to present employees of Postal Service who had prior Federal civilian service with Post Office Department or other Federal agency, annual leave which had accrued after June 30, 1960, and before July 1, 1971, but, because of administrative error had been lost, was subject to credit and liquidation by lump-sum payment only if a claim therefor was filed within three years of Dec. 14, 1973, with Postal Service, at salary rate in effect on Dec. 14, 1973.
 
 ----------
 
@@ -397,49 +397,49 @@ July 2, 1953, ch. 178, § 3(c), 67 Stat. 137.  </td>
 [/us/usc/t10/s1607/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1607%2Fa
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F519
-[/us/pl/93/181/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F181%2Fs3
+[/us/pl/93/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F181
 [/us/stat/87/705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F705
-[/us/pl/95/454/s410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs410
+[/us/pl/95/454/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtIV
 [/us/stat/92/1173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1173
-[/us/pl/96/54/s2/a/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F54%2Fs2%2Fa%2F39
+[/us/pl/96/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F54
 [/us/stat/93/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F383
-[/us/pl/96/465/s2312/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs2312%2Fb
+[/us/pl/96/465/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtII
 [/us/stat/94/2166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2166
-[/us/pl/97/89/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F89%2Fs802
+[/us/pl/97/89/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F89%2FtVIII
 [/us/stat/95/1161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1161
-[/us/pl/100/325/s2/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F325%2Fs2%2Fk
+[/us/pl/100/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F325
 [/us/stat/102/582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F582
-[/us/pl/102/378/s2/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378%2Fs2%2F53
+[/us/pl/102/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378
 [/us/stat/106/1354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1354
-[/us/pl/102/484/s4434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs4434
+[/us/pl/102/484/dD/tXLIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdD%2FtXLIV
 [/us/stat/106/2722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2722
-[/us/pl/103/337/s341/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs341%2Fc
+[/us/pl/103/337/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtIII
 [/us/stat/108/2720]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2720
-[/us/pl/103/356/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F356%2Fs201%2Fa
+[/us/pl/103/356/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F356%2FtII
 [/us/stat/108/3411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3411
-[/us/pl/105/261/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs1105
+[/us/pl/105/261/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdA%2FtXI
 [/us/stat/112/2142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2142
-[/us/pl/106/65/s1103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs1103%2Fa
+[/us/pl/106/65/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtXI
 [/us/stat/113/776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F776
-[/us/pl/110/181/s1112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1112
+[/us/pl/110/181/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtXI
 [/us/stat/122/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F360
-[/us/pl/111/68/s1404/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F68%2Fs1404%2F1
+[/us/pl/111/68/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F68%2FdA%2FtI
 [/us/stat/123/2038]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2038
-[/us/pl/111/282/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F282%2Fs2%2Fb
+[/us/pl/111/282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F282
 [/us/stat/124/3038]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3038
 [/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
 [/us/stat/104/1808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1808
 [/us/usc/t10/s2687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2687
 [/us/usc/t26/s112/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs112%2Fc%2F2
-[/us/pl/111/282/s2/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F282%2Fs2%2Fb%2F1
-[/us/pl/111/282/s2/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F282%2Fs2%2Fb%2F2
-[/us/pl/111/282/s2/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F282%2Fs2%2Fb%2F3
+[/us/pl/111/282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F282
+[/us/pl/111/282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F282
+[/us/pl/111/282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F282
 [/us/pl/111/68]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F68
 [/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
 [/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
 [/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
-[/us/pl/103/337/s2816/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs2816%2Fa
-[/us/pl/103/337/s341/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs341%2Fc
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
 [/us/usc/t10/s2687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2687
 [/us/pl/103/356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F356
@@ -448,22 +448,22 @@ July 2, 1953, ch. 178, § 3(c), 67 Stat. 137.  </td>
 [/us/pl/100/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F325
 [/us/pl/97/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F89
 [/us/pl/97/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F89
-[/us/pl/96/465/s2312/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs2312%2Fb%2F1
-[/us/pl/96/465/s2312/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs2312%2Fb%2F2
+[/us/pl/96/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465
+[/us/pl/96/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465
 [/us/pl/96/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F54
-[/us/pl/95/454/s410/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs410%2F1
-[/us/pl/95/454/s906/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs906%2Fa%2F2
-[/us/pl/95/454/s410/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs410%2F2
-[/us/pl/93/181/s3/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F181%2Fs3%2F1
-[/us/pl/93/181/s3/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F181%2Fs3%2F2
+[/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454
+[/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454
+[/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454
+[/us/pl/93/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F181
+[/us/pl/93/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F181
 [/us/pl/111/282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F282
 [/us/pl/111/282/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F282%2Fs5
 [/us/usc/t5/s5102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5102
-[/us/pl/111/68/s1404/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F68%2Fs1404%2F4
+[/us/pl/111/68/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F68%2FdA%2FtI
 [/us/stat/123/2038]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2038
-[/us/pl/103/356/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F356%2Fs201%2Fa
+[/us/pl/103/356/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F356%2FtII
 [/us/stat/108/3411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3411
-[/us/pl/103/337/s2816/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs2816%2Fb
+[/us/pl/103/337/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdB%2FtXXVIII
 [/us/stat/108/3056]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3056
 [/us/usc/t5/s6304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs6304
 [/us/pl/97/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F89
@@ -482,7 +482,7 @@ July 2, 1953, ch. 178, § 3(c), 67 Stat. 137.  </td>
 [/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454
 [/us/pl/95/454/s907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs907
 [/us/usc/t5/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs1101
-[/us/pl/108/136/s1114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1114
+[/us/pl/108/136/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtXI
 [/us/stat/117/1635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1635
 [/us/usc/t5/s6304/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs6304%2Fd%2F3
 [/us/usc/t5/s6304/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs6304%2Fd%2F3
@@ -491,13 +491,13 @@ July 2, 1953, ch. 178, § 3(c), 67 Stat. 137.  </td>
 [/us/usc/t5/s6304/d/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs6304%2Fd%2F3%2FA
 [/us/usc/t5/s5551/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5551%2Fc
 [/us/usc/t5/s6304/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs6304%2Fd%2F3
-[/us/pl/103/356/s201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F356%2Fs201%2Fb
+[/us/pl/103/356/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F356%2FtII
 [/us/stat/108/3411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3411
 [/us/usc/t5/s6304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs6304
-[/us/pl/93/181/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F181%2Fs5
+[/us/pl/93/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F181
 [/us/stat/87/706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F706
 [/us/usc/t5/s5551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5551
-[/us/pl/93/181/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F181%2Fs6
+[/us/pl/93/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F181
 [/us/stat/87/706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F706
 [/us/usc/t5/s5551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5551
 

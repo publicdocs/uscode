@@ -17,7 +17,7 @@
 
     The head of an agency, without regard to section 6101(b) to (d) of title 41, may make agreements or other arrangements for the training of employees of the agency by, in, or through non-Government facilities under this chapter.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 434][/us/stat/80/434]; [Pub. L. 103–226, § 2(a)(3)][/us/pl/103/226/s2/a/3], Mar. 30, 1994, [108 Stat. 111][/us/stat/108/111]; [Pub. L. 111–350, § 5(a)(7)][/us/pl/111/350/s5/a/7], Jan. 4, 2011, [124 Stat. 3841][/us/stat/124/3841].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 434][/us/stat/80/434]; [Pub. L. 103–226][/us/pl/103/226], § 2(a)(3), Mar. 30, 1994, [108 Stat. 111][/us/stat/108/111]; [Pub. L. 111–350][/us/pl/111/350], § 5(a)(7), Jan. 4, 2011, [124 Stat. 3841][/us/stat/124/3841].)
 
 <table>
 
@@ -96,9 +96,9 @@ July 7, 1958, Pub. L. 85–507, § 9, 72 Stat. 331.  </td>
 
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F434
-[/us/pl/103/226/s2/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F226%2Fs2%2Fa%2F3
+[/us/pl/103/226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F226
 [/us/stat/108/111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F111
-[/us/pl/111/350/s5/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs5%2Fa%2F7
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3841
 [/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/usc/t41/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs5

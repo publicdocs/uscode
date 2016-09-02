@@ -31,7 +31,7 @@
 
     (7) The term “State” includes the District of Columbia.
 
-(Added [Pub. L. 108–496, § 2][/us/pl/108/496/s2], Dec. 23, 2004, [118 Stat. 4001][/us/stat/118/4001]; amended [Pub. L. 109–356, title I, § 117(a)(1)][/us/pl/109/356/s117/a/1], Oct. 16, 2006, [120 Stat. 2027][/us/stat/120/2027].)
+(Added [Pub. L. 108–496][/us/pl/108/496], § 2, Dec. 23, 2004, [118 Stat. 4001][/us/stat/118/4001]; amended [Pub. L. 109–356, title I][/us/pl/109/356/tI], § 117(a)(1), Oct. 16, 2006, [120 Stat. 2027][/us/stat/120/2027].)
 
  __Amendments__ 
 
@@ -39,7 +39,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 108–496, § 7][/us/pl/108/496/s7], Dec. 23, 2004, [118 Stat. 4011][/us/stat/118/4011], provided that: 
+[Pub. L. 108–496][/us/pl/108/496], § 7, Dec. 23, 2004, [118 Stat. 4011][/us/stat/118/4011], provided that: 
 
 > “The amendments made by this Act \[enacting this chapter and chapter 89B of this title, amending [section 1005 of Title 39][/us/usc/t39/s1005], Postal Service, and enacting provisions set out as a note under [section 101 of this title][/us/usc/t5/s101]\] shall take effect on the date of enactment of this Act \[Dec. 23, 2004\] and shall apply to contracts that take effect with respect to the calendar year 2006.”
 
@@ -50,12 +50,12 @@
 ----------
 ----------
 
-[/us/pl/108/496/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F496%2Fs2
+[/us/pl/108/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F496
 [/us/stat/118/4001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F4001
-[/us/pl/109/356/s117/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F356%2Fs117%2Fa%2F1
+[/us/pl/109/356/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F356%2FtI
 [/us/stat/120/2027]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2027
 [/us/pl/109/356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F356
-[/us/pl/108/496/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F496%2Fs7
+[/us/pl/108/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F496
 [/us/stat/118/4011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F4011
 [/us/usc/t39/s1005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs1005
 [/us/usc/t5/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs101

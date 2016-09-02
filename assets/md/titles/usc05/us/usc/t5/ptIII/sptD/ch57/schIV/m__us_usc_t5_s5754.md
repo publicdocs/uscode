@@ -115,7 +115,7 @@
 
     (h) The Office may prescribe regulations to carry out this section.
 
-(Added [Pub. L. 108–411, title I, § 101(a)(1)][/us/pl/108/411/s101/a/1], Oct. 30, 2004, [118 Stat. 2307][/us/stat/118/2307].)
+(Added [Pub. L. 108–411, title I][/us/pl/108/411/tI], § 101(a)(1), Oct. 30, 2004, [118 Stat. 2307][/us/stat/118/2307].)
 
  __References in Text__ 
 
@@ -123,7 +123,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 5754, added [Pub. L. 101–509, title V, § 529][/us/pl/101/509/s529] \[title II, § 208(a)\], Nov. 5, 1990, [104 Stat. 1427][/us/stat/104/1427], 1459, which related to retention allowances, was repealed by [Pub. L. 108–411, title I, § 101(a)(1)][/us/pl/108/411/s101/a/1], Oct. 30, 2004, [118 Stat. 2305][/us/stat/118/2305].
+    A prior section 5754, added [Pub. L. 101–509, title V][/us/pl/101/509/tV], § 529 \[title II, § 208(a)\], Nov. 5, 1990, [104 Stat. 1427][/us/stat/104/1427], 1459, which related to retention allowances, was repealed by [Pub. L. 108–411, title I][/us/pl/108/411/tI], § 101(a)(1), Oct. 30, 2004, [118 Stat. 2305][/us/stat/118/2305].
 
  __Effective Date__ 
 
@@ -136,12 +136,12 @@
 ----------
 ----------
 
-[/us/pl/108/411/s101/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F411%2Fs101%2Fa%2F1
+[/us/pl/108/411/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F411%2FtI
 [/us/stat/118/2307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2307
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
-[/us/pl/101/509/s529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2Fs529
+[/us/pl/101/509/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2FtV
 [/us/stat/104/1427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1427
-[/us/pl/108/411/s101/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F411%2Fs101%2Fa%2F1
+[/us/pl/108/411/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F411%2FtI
 [/us/stat/118/2305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2305
 [/us/pl/108/411/s101/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F411%2Fs101%2Fd
 [/us/usc/t5/s5753]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5753

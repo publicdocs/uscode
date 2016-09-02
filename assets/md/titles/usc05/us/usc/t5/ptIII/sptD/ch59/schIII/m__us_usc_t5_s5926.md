@@ -27,7 +27,7 @@
 
     (b) Compensatory time earned under this section shall be for use only while the employee is assigned to the post where it is earned. Any such compensatory time not used at the time the employee is reassigned to another post shall be forfeited.
 
-(Added [Pub. L. 95–426, title IV, § 411(a)][/us/pl/95/426/s411/a], Oct. 7, 1978, [92 Stat. 980][/us/stat/92/980].)
+(Added [Pub. L. 95–426, title IV][/us/pl/95/426/tIV], § 411(a), Oct. 7, 1978, [92 Stat. 980][/us/stat/92/980].)
 
 ----------
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/95/426/s411/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F426%2Fs411%2Fa
+[/us/pl/95/426/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F426%2FtIV
 [/us/stat/92/980]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F980
 
 

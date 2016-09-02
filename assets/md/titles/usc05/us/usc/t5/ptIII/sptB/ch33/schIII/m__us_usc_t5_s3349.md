@@ -43,11 +43,11 @@
 
         (6) the Office of Personnel Management.
 
-(Added [Pub. L. 105–277, div. C, title I, § 151(b)][/us/pl/105/277/s151/b], Oct. 21, 1998, [112 Stat. 2681–614][/us/stat/112/2681-614]; amended [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814].)
+(Added [Pub. L. 105–277, div. C, title I][/us/pl/105/277/dC/tI], § 151(b), Oct. 21, 1998, [112 Stat. 2681–614][/us/stat/112/2681-614]; amended [Pub. L. 108–271][/us/pl/108/271], § 8(b), July 7, 2004, [118 Stat. 814][/us/stat/118/814].)
 
  __Prior Provisions__ 
 
-    A prior section 3349, [Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 426][/us/stat/80/426], provided for restrictions relating to details to fill vacancies, prior to repeal by [Pub. L. 105–277, div. C, title I, § 151(b)][/us/pl/105/277/s151/b], (d)(1), Oct. 21, 1998, [112 Stat. 2681–611][/us/stat/112/2681-611], 2681–616, effective 30 days after Oct. 21, 1998. See [section 3347 of this title][/us/usc/t5/s3347].
+    A prior section 3349, [Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 426][/us/stat/80/426], provided for restrictions relating to details to fill vacancies, prior to repeal by [Pub. L. 105–277, div. C, title I][/us/pl/105/277/dC/tI], § 151(b), (d)(1), Oct. 21, 1998, [112 Stat. 2681–611][/us/stat/112/2681-611], 2681–616, effective 30 days after Oct. 21, 1998. See [section 3347 of this title][/us/usc/t5/s3347].
 
  __Amendments__ 
 
@@ -70,13 +70,13 @@
 ----------
 ----------
 
-[/us/pl/105/277/s151/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs151%2Fb
+[/us/pl/105/277/dC/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdC%2FtI
 [/us/stat/112/2681-614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-614
-[/us/pl/108/271/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271%2Fs8%2Fb
+[/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/stat/118/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F814
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F426
-[/us/pl/105/277/s151/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs151%2Fb
+[/us/pl/105/277/dC/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdC%2FtI
 [/us/stat/112/2681-611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-611
 [/us/usc/t5/s3347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3347
 [/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
