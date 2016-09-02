@@ -275,11 +275,11 @@
 
                     (II) subject to subparagraphs (B) and (C), to the extent practicable, the national average market price received for the marketing year, as determined by the Secretary;
 
-                (ii) 15 percent of amount of any direct payments made to the producer under sections 1103 and 1303 of the Food, Conservation, and Energy Act of 2008 \[[7 U.S.C. 8713][/us/usc/t7/s8713], 8753\] or successor sections;
+                (ii) 15 percent of amount of any direct payments made to the producer under sections 1103 and 1303  <sup>\[4\]</sup>  <sup><sup> 4 See References in Text note below. </sup></sup>  of the Food, Conservation, and Energy Act of 2008 \[[7 U.S.C. 8713][/us/usc/t7/s8713], 8753\] or successor sections;
 
-                (iii) the total amount of any counter-cyclical payments made to the producer under sections 1104 and 1304 of the Food, Conservation, and Energy Act of 2008 \[[7 U.S.C. 8714][/us/usc/t7/s8714], 8754\] or successor sections or of any average crop revenue election payments made to the producer under section 1105 of that Act \[[7 U.S.C. 8715][/us/usc/t7/s8715]\];
+                (iii) the total amount of any counter-cyclical payments made to the producer under sections 1104 and 1304 4 of the Food, Conservation, and Energy Act of 2008 \[[7 U.S.C. 8714][/us/usc/t7/s8714], 8754\] or successor sections or of any average crop revenue election payments made to the producer under section 1105 4 of that Act \[[7 U.S.C. 8715][/us/usc/t7/s8715]\];
 
-                (iv) the total amount of any loan deficiency payments, marketing loan gains, and marketing certificate gains made to the producer under subtitles B and C of the Food, Conservation, and Energy Act of 2008  <sup>\[4\]</sup>  <sup><sup> 4 See References in Text note below. </sup></sup>  or successor subtitles;
+                (iv) the total amount of any loan deficiency payments, marketing loan gains, and marketing certificate gains made to the producer under subtitles B and C of the Food, Conservation, and Energy Act of 2008 4 or successor subtitles;
 
                 (v) the amount of payments for prevented planting on a farm;
 
@@ -445,17 +445,11 @@
 
             (A) __Eligible losses__ 
 
-                (i) __In general__ 
+            An eligible livestock producer may receive assistance under this subsection only for grazing losses for covered livestock that occur on land that—
 
-                An eligible livestock producer may receive assistance under this subsection only for grazing losses for covered livestock that occur on land that—
+                (i) is native or improved pastureland with permanent vegetative cover; or
 
-                    (I) is native or improved pastureland with permanent vegetative cover; or
-
-                    (II) is planted to a crop planted specifically for the purpose of providing grazing for covered livestock.
-
-                (ii) __Exclusions__ 
-
-                    An eligible livestock producer may not receive assistance under this subsection for grazing losses that occur on land used for haying or grazing under the conservation reserve program established under subchapter B of chapter 1 of subtitle D of title XII of the Food Security Act of 1985 ([16 U.S.C. 3831][/us/usc/t16/s3831] et seq.).
+                (ii) is planted to a crop planted specifically for the purpose of providing grazing for covered livestock.
 
             (B) __Monthly payment rate__ 
 
@@ -825,15 +819,19 @@
 
         In implementing any other program which makes disaster assistance payments (except for indemnities made under the Federal Crop Insurance Act ([7 U.S.C. 1501][/us/usc/t7/s1501] et seq.))  <sup>\[7\]</sup>  <sup><sup> 7 So in original. Second closing parenthesis probably should not appear. </sup></sup>  and [section 7333 of title 7][/us/usc/t7/s7333]), the Secretary shall prevent duplicative payments with respect to the same loss for which a person receives a payment under subsections (b), (c), (d), (e), or (f).
 
-([Pub. L. 93–618, title IX, § 901][/us/pl/93/618/s901], as added [Pub. L. 110–234, title XV, § 15101(a)][/us/pl/110/234/s15101/a], May 22, 2008, [122 Stat. 1484][/us/stat/122/1484], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XV, § 15101(a), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2246; amended [Pub. L. 110–398, § 2(b)][/us/pl/110/398/s2/b], Oct. 13, 2008, [122 Stat. 4218][/us/stat/122/4218]; [Pub. L. 111–5, div. A, title I, § 102(b)][/us/pl/111/5/s102/b], Feb. 17, 2009, [123 Stat. 123][/us/stat/123/123]; [Pub. L. 111–80, title VII, § 745(b)][/us/pl/111/80/s745/b], Oct. 21, 2009, [123 Stat. 2130][/us/stat/123/2130].)
+([Pub. L. 93–618, title IX, § 901][/us/pl/93/618/s901], as added [Pub. L. 110–234, title XV, § 15101(a)][/us/pl/110/234/s15101/a], May 22, 2008, [122 Stat. 1484][/us/stat/122/1484], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XV, § 15101(a), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2246; amended [Pub. L. 110–398, § 2(b)][/us/pl/110/398/s2/b], Oct. 13, 2008, [122 Stat. 4218][/us/stat/122/4218]; [Pub. L. 111–5, div. A, title I, § 102(b)][/us/pl/111/5/s102/b], Feb. 17, 2009, [123 Stat. 123][/us/stat/123/123]; [Pub. L. 111–80, title VII, § 745(b)][/us/pl/111/80/s745/b], Oct. 21, 2009, [123 Stat. 2130][/us/stat/123/2130]; [Pub. L. 113–79, title XI, § 11028(d)][/us/pl/113/79/s11028/d], Feb. 7, 2014, [128 Stat. 978][/us/stat/128/978].)
 
  __References in Text__ 
 
     The Federal Crop Insurance Act, referred to in subsecs. (a)(1), (11), (b)(2)(C)(i), (4)(A)(i)(I), (B)(iii), (d)(5)(A)(i), (D)(ii), (g)(1)(A), (5)(B), (7)(A)(ii)(I), and (j), is subtitle A of title V of [act Feb. 16, 1938, ch. 30][/us/act/1938-02-16/ch30], [52 Stat. 72][/us/stat/52/72], which is classified generally to subchapter I (§ 1501 et seq.) of chapter 36 of Title 7, Agriculture. For complete classification of this Act to the Code, see [section 1501 of Title 7][/us/usc/t7/s1501] and Tables.
 
-    The Food, Conservation, and Energy Act of 2008, referred to in subsecs. (b)(4)(A)(iv), (f)(4)(A), and (h)(1), is [Pub. L. 110–246][/us/pl/110/246], June 18, 2008, [122 Stat. 1651][/us/stat/122/1651]. Subtitles B and C of the Act probably mean subtitles B and C of title I of the Act, which are classified generally to subchapters II (§ 8731 et seq.) and III (§ 8751 et seq.), respectively, of chapter 113 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under [section 8701 of Title 7][/us/usc/t7/s8701] and Tables.
+    Sections 1103 and 1303 of the Food, Conservation, and Energy Act of 2008, referred to in subsec. (b)(4)(A)(ii), were repealed by [Pub. L. 113–79, title I, § 1101][/us/pl/113/79/s1101], Feb. 7, 2014, [128 Stat. 658][/us/stat/128/658].
 
-    The Food Security Act of 1985, referred to in subsec. (d)(3)(A)(ii), is [Pub. L. 99–198][/us/pl/99/198], Dec. 23, 1985, [99 Stat. 1354][/us/stat/99/1354]. Subchapter B of chapter 1 of subtitle D of title XII of the Act is classified generally to subpart B (§ 3831 et seq.) of part I of subchapter IV of chapter 58 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under [section 1281 of Title 7][/us/usc/t7/s1281], Agriculture, and Tables.
+    Sections 1104 and 1304 of the Food, Conservation, and Energy Act of 2008, referred to in subsec. (b)(4)(A)(iii), were repealed by [Pub. L. 113–79, title I, § 1102(a)][/us/pl/113/79/s1102/a], Feb. 7, 2014, [128 Stat. 658][/us/stat/128/658].
+
+    Section 1105 of the Food, Conservation, and Energy Act of 2008, referred to in subsec. (b)(4)(A)(iii), was repealed by [Pub. L. 113–79, title I, § 1103(a)][/us/pl/113/79/s1103/a], Feb. 7, 2014, [128 Stat. 658][/us/stat/128/658].
+
+    The Food, Conservation, and Energy Act of 2008, referred to in subsecs. (b)(4)(A)(iv), (f)(4)(A), and (h)(1), is [Pub. L. 110–246][/us/pl/110/246], June 18, 2008, [122 Stat. 1651][/us/stat/122/1651]. Subtitles B and C of the Act probably mean subtitles B and C of title I of the Act, which are classified generally to subchapters II (§ 8731 et seq.) and III (§ 8751 et seq.), respectively, of chapter 113 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under [section 8701 of Title 7][/us/usc/t7/s8701] and Tables.
 
     The date of enactment of this subchapter, referred to in subsecs. (d)(5)(C) and (g)(4)(A), was in the original “the date of enactment of this subtitle”, and was translated as meaning the date of enactment of title IX of [Pub. L. 93–618][/us/pl/93/618], as added by [Pub. L. 110–246][/us/pl/110/246], which was approved June 18, 2008, to reflect the probable intent of Congress.
 
@@ -846,6 +844,8 @@
     [Pub. L. 110–234][/us/pl/110/234] and [Pub. L. 110–246][/us/pl/110/246] enacted identical sections. [Pub. L. 110–234][/us/pl/110/234] was repealed by [section 4(a) of Pub. L. 110–246][/us/pl/110/246/s4/a].
 
  __Amendments__ 
+
+    2014—Subsec. (d)(3)(A). [Pub. L. 113–79][/us/pl/113/79] struck out cl. (i) designation and heading, redesignated subcls. (I) and (II) as cls. (i) and (ii), respectively, and struck out former cl. (ii). Text read as follows: “An eligible livestock producer may not receive assistance under this subsection for grazing losses that occur on land used for haying or grazing under the conservation reserve program established under subchapter B of chapter 1 of subtitle D of title XII of the Food Security Act of 1985 ([16 U.S.C. 3831][/us/usc/t16/s3831] et seq.).”
 
     2009—Subsec. (g)(7). [Pub. L. 111–5][/us/pl/111/5] added par. (7).
 
@@ -959,7 +959,6 @@
 [/us/usc/t7/s8714]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8714
 [/us/usc/t7/s8715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8715
 [/us/usc/t7/s1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1501
-[/us/usc/t16/s3831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3831
 [/us/usc/t7/s1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1501
 [/us/usc/t7/s1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1501
 [/us/usc/t7/s1308/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1308%2Fa
@@ -984,15 +983,20 @@
 [/us/stat/123/123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F123
 [/us/pl/111/80/s745/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F80%2Fs745%2Fb
 [/us/stat/123/2130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2130
+[/us/pl/113/79/s11028/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs11028%2Fd
+[/us/stat/128/978]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F978
 [/us/act/1938-02-16/ch30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-02-16%2Fch30
 [/us/stat/52/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F72
 [/us/usc/t7/s1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1501
+[/us/pl/113/79/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs1101
+[/us/stat/128/658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F658
+[/us/pl/113/79/s1102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs1102%2Fa
+[/us/stat/128/658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F658
+[/us/pl/113/79/s1103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs1103%2Fa
+[/us/stat/128/658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F658
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1651
 [/us/usc/t7/s8701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8701
-[/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
-[/us/stat/99/1354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1354
-[/us/usc/t7/s1281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1281
 [/us/pl/93/618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/99/198/s1001/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1001%2Fa
@@ -1005,6 +1009,8 @@
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/usc/t16/s3831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3831
 [/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
 [/us/pl/111/80/s745/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F80%2Fs745%2Fb%2F1
 [/us/pl/111/80/s745/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F80%2Fs745%2Fb%2F2

@@ -51,7 +51,7 @@
 
             (A) __In general__ 
 
-                Notwithstanding any other provision of this part, an agricultural commodity producer shall not be eligible for assistance under this part in any year in which the average adjusted gross income (as defined in [section 1308–3a(a) of title 7][/us/usc/t7/s1308–3a/a]) of the producer exceeds the level set forth in subparagraph (A) or (B) of [section 1308–3a(b)(1) of title 7][/us/usc/t7/s1308–3a/b/1], whichever is applicable.
+                Notwithstanding any other provision of this part, an agricultural commodity producer shall not be eligible for assistance under this part in any year in which the average adjusted gross income (as defined in [section 1308–3a(a) of title 7][/us/usc/t7/s1308–3a/a]) of the producer exceeds the level set forth in subparagraph (A) or (B) of section 1308–3a(b)(1)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of title 7, whichever is applicable.
 
             (B) __Demonstration of compliance__ 
 
@@ -159,6 +159,10 @@
 
     For reversion, beginning on Jan. 1, 2014, to provisions in effect on Feb. 13, 2011, with certain exceptions and subject to [section 233(b) of Pub. L. 112–40][/us/pl/112/40/s233/b], see Codification and Effective and Termination Dates of 2011 Revival notes below.
 
+ __References in Text__ 
+
+    [Section 1308–3a of title 7][/us/usc/t7/s1308–3a], referred to in subsec. (a)(2)(A), was amended by [Pub. L. 113–79, title I, § 1605(a)][/us/pl/113/79/s1605/a]–(e), Feb. 7, 2014, [128 Stat. 707][/us/stat/128/707], 708, and, as so amended, provisions which formerly appeared in subpars. (A) and (B) of subsec. (b)(1) of section 1308–3a were struck out.
+
  __Codification__ 
 
     [Section 1893 of Pub. L. 111–5][/us/pl/111/5/s1893], which provided for Feb. 13, 2011, termination of amendment by [Pub. L. 111–5][/us/pl/111/5], was repealed by [Pub. L. 112–40, title II, § 201(a)][/us/pl/112/40/s201/a], Oct. 21, 2011, [125 Stat. 403][/us/stat/125/403], and the provisions of this section, as amended by [Pub. L. 111–5][/us/pl/111/5] and as in effect on Feb. 12, 2011, were temporarily revived, effective Oct. 21, 2011, until Jan. 1, 2014, by [Pub. L. 112–40][/us/pl/112/40], §§ 201(b), (c), 233. See 2009 and 2011 Amendment notes, Effective and Termination Dates of 2009 Amendment notes, and Effective and Termination Dates of 2011 Revival note below.
@@ -198,7 +202,6 @@
 
 [/us/usc/t19/s2401b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2401b
 [/us/usc/t7/s1308–3a/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1308%E2%80%933a%2Fa
-[/us/usc/t7/s1308–3a/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1308%E2%80%933a%2Fb%2F1
 [/us/usc/t7/s1308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1308
 [/us/usc/t19/s2401b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2401b
 [/us/pl/93/618/s296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs296
@@ -211,6 +214,9 @@
 [/us/pl/112/40/s201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40%2Fs201%2Fb
 [/us/stat/125/403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F403
 [/us/pl/112/40/s233/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40%2Fs233%2Fb
+[/us/usc/t7/s1308–3a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1308%E2%80%933a
+[/us/pl/113/79/s1605/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs1605%2Fa
+[/us/stat/128/707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F707
 [/us/pl/111/5/s1893]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs1893
 [/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
 [/us/pl/112/40/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40%2Fs201%2Fa

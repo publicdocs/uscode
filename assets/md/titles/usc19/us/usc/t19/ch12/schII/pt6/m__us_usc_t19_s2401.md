@@ -65,7 +65,7 @@
 
         (B) in the case of an agricultural commodity with respect to which the Secretary does not designate a marketing year, a calendar year.
 
-([Pub. L. 93–618, title II, § 291][/us/pl/93/618/s291], as added [Pub. L. 107–210, div. A, title I, § 141(a)][/us/pl/107/210/s141/a], Aug. 6, 2002, [116 Stat. 946][/us/stat/116/946]; amended [Pub. L. 109–280, title XIV, § 1635(f)(4)][/us/pl/109/280/s1635/f/4], Aug. 17, 2006, [120 Stat. 1171][/us/stat/120/1171]; [Pub. L. 110–234, title I, § 1603(g)(6)][/us/pl/110/234/s1603/g/6], May 22, 2008, [122 Stat. 1012][/us/stat/122/1012]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title I, § 1603(g)(6), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1740; [Pub. L. 111–5, div. B, title I, § 1881][/us/pl/111/5/s1881], Feb. 17, 2009, [123 Stat. 414][/us/stat/123/414]; [Pub. L. 112–40, title II, § 201(b)][/us/pl/112/40/s201/b], (c), Oct. 21, 2011, [125 Stat. 403][/us/stat/125/403].)
+([Pub. L. 93–618, title II, § 291][/us/pl/93/618/s291], as added [Pub. L. 107–210, div. A, title I, § 141(a)][/us/pl/107/210/s141/a], Aug. 6, 2002, [116 Stat. 946][/us/stat/116/946]; amended [Pub. L. 109–280, title XIV, § 1635(f)(4)][/us/pl/109/280/s1635/f/4], Aug. 17, 2006, [120 Stat. 1171][/us/stat/120/1171]; [Pub. L. 110–234, title I, § 1603(g)(6)][/us/pl/110/234/s1603/g/6], May 22, 2008, [122 Stat. 1012][/us/stat/122/1012]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title I, § 1603(g)(6), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1740; [Pub. L. 111–5, div. B, title I, § 1881][/us/pl/111/5/s1881], Feb. 17, 2009, [123 Stat. 414][/us/stat/123/414]; [Pub. L. 112–40, title II, § 201(b)][/us/pl/112/40/s201/b], (c), Oct. 21, 2011, [125 Stat. 403][/us/stat/125/403]; [Pub. L. 113–79, title I, § 1609(b)(1)][/us/pl/113/79/s1609/b/1], Feb. 7, 2014, [128 Stat. 709][/us/stat/128/709].)
 
  __Reversion to Provisions in Effect on__  __February 13, 2011__ 
 
@@ -79,17 +79,23 @@
 
  __Amendments__ 
 
+    2014—Par. (2). [Pub. L. 113–79, § 1609(b)(1)][/us/pl/113/79/s1609/b/1], amended language inserted by [Pub. L. 110–246, § 1603(g)(6)][/us/pl/110/246/s1603/g/6]. See 2008 Amendment note below.
+
     2011—[Pub. L. 112–40][/us/pl/112/40], §§ 201(b), (c), 233, temporarily revived the provisions of this section, as in effect on Feb. 12, 2011. See Codification note above and 2009 Amendment and Effective and Termination Dates of 2011 Revival notes below.
 
     2009—Par. (1). [Pub. L. 111–5][/us/pl/111/5], §§ 1881(1), 1893, temporarily amended par. (1) generally. Prior to amendment, text read as follows: “The term ‘agricultural commodity’ means any agricultural commodity (including livestock) in its raw or natural state.” See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
 
-    Par. (2). [Pub. L. 111–5][/us/pl/111/5], §§ 1881(2), 1893, temporarily amended par. (2) generally. Prior to amendment, text read as follows: “The term ‘agricultural commodity producer’ has the same meaning as the term ‘person’ as prescribed by regulations promulgated under [section 1308(e) of title 7][/us/usc/t7/s1308/e] (before the amendment made by section 1703(a) of the Food, Conservation, and Energy Act of 2008).” See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
+    Par. (2). [Pub. L. 111–5][/us/pl/111/5], §§ 1881(2), 1893, temporarily amended par. (2) generally. Prior to amendment, text read as follows: “The term ‘agricultural commodity producer’ has the same meaning as the term ‘person’ as prescribed by regulations promulgated under [section 1308(e) of title 7][/us/usc/t7/s1308/e] (before the amendment made by section 1603(a) of the Food, Conservation, and Energy Act of 2008).” See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
 
     Par. (7). [Pub. L. 111–5][/us/pl/111/5], §§ 1881(3), 1893, temporarily added par. (7). See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
 
-    2008—Par. (2). [Pub. L. 110–246, § 1603(g)(6)][/us/pl/110/246/s1603/g/6], inserted “(before the amendment made by section 1703(a) of the Food, Conservation, and Energy Act of 2008)” before period at end.
+    2008—Par. (2). [Pub. L. 110–246, § 1603(g)(6)][/us/pl/110/246/s1603/g/6], as amended by [Pub. L. 113–79, § 1609(b)(1)][/us/pl/113/79/s1609/b/1], inserted “(before the amendment made by section 1603(a) of the Food, Conservation, and Energy Act of 2008)” before period at end.
 
     2006—Par. (2). [Pub. L. 109–280][/us/pl/109/280] substituted “1308(e)” for “1308(5)”.
+
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by [Pub. L. 113–79][/us/pl/113/79] effective as if included in [Pub. L. 110–246][/us/pl/110/246], see [section 1609(b)(2) of Pub. L. 113–79][/us/pl/113/79/s1609/b/2], set out as a note under [section 1471g of Title 7][/us/usc/t7/s1471g], Agriculture.
 
  __Effective and Termination Dates of 2011 Revival__ 
 
@@ -140,6 +146,8 @@
 [/us/stat/123/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F414
 [/us/pl/112/40/s201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40%2Fs201%2Fb
 [/us/stat/125/403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F403
+[/us/pl/113/79/s1609/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs1609%2Fb%2F1
+[/us/stat/128/709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F709
 [/us/pl/112/40/s233/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40%2Fs233%2Fb
 [/us/pl/111/5/s1893]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs1893
 [/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
@@ -151,13 +159,20 @@
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/113/79/s1609/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs1609%2Fb%2F1
+[/us/pl/110/246/s1603/g/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs1603%2Fg%2F6
 [/us/pl/112/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40
 [/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
 [/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
 [/us/usc/t7/s1308/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1308%2Fe
 [/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
 [/us/pl/110/246/s1603/g/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs1603%2Fg%2F6
+[/us/pl/113/79/s1609/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs1609%2Fb%2F1
 [/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/113/79/s1609/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs1609%2Fb%2F2
+[/us/usc/t7/s1471g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1471g
 [/us/pl/112/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40
 [/us/usc/t19/s2271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2271
 [/us/pl/112/40/s233/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40%2Fs233%2Fb

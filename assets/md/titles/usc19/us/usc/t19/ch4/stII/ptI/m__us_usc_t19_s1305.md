@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t19/ch4/stII/ptI/m__us_usc_t19_s1304.md) | [Next](./../../../../../..//us/usc/t19/ch4/stII/ptI/m__us_usc_t19_s1306.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1305)
+[Previous](./../../../../../..//us/usc/t19/ch4/stII/ptI/m__us_usc_t19_s1304a.md) | [Next](./../../../../../..//us/usc/t19/ch4/stII/ptI/m__us_usc_t19_s1306.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1305)
 
 ## § 1305. Immoral articles; importation prohibited
 
@@ -143,7 +143,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t19/ch4/stII/ptI/m__us_usc_t19_s1304.md) | [Next](./../../../../../..//us/usc/t19/ch4/stII/ptI/m__us_usc_t19_s1306.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1305)
+[Previous](./../../../../../..//us/usc/t19/ch4/stII/ptI/m__us_usc_t19_s1304a.md) | [Next](./../../../../../..//us/usc/t19/ch4/stII/ptI/m__us_usc_t19_s1306.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1305)
 
 ----------
 ----------

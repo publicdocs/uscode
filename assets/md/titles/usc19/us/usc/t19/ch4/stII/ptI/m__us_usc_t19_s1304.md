@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t19/ch4/stII/ptI/m__us_usc_t19_s1303.md) | [Next](./../../../../../..//us/usc/t19/ch4/stII/ptI/m__us_usc_t19_s1305.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1304)
+[Previous](./../../../../../..//us/usc/t19/ch4/stII/ptI/m__us_usc_t19_s1303.md) | [Next](./../../../../../..//us/usc/t19/ch4/stII/ptI/m__us_usc_t19_s1304a.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1304)
 
 ## § 1304. Marking of imported articles and containers
 
@@ -309,7 +309,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t19/ch4/stII/ptI/m__us_usc_t19_s1303.md) | [Next](./../../../../../..//us/usc/t19/ch4/stII/ptI/m__us_usc_t19_s1305.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1304)
+[Previous](./../../../../../..//us/usc/t19/ch4/stII/ptI/m__us_usc_t19_s1303.md) | [Next](./../../../../../..//us/usc/t19/ch4/stII/ptI/m__us_usc_t19_s1304a.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1304)
 
 ----------
 ----------
