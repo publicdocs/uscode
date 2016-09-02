@@ -43,15 +43,15 @@
 
          any person other than a United States person, who—
 
-            (A) acts in the United States as an officer or employee of a foreign power, or as a member of a foreign power as defined in subsection (a)(4) of this section;
+            (A) acts in the United States as an officer or employee of a foreign power, or as a member of a foreign power as defined in subsection (a)(4) of this section, irrespective of whether the person is inside the United States;
 
-            (B) acts for or on behalf of a foreign power which engages in clandestine intelligence activities in the United States contrary to the interests of the United States, when the circumstances of such person’s presence in the United States indicate that such person may engage in such activities in the United States, or when such person knowingly aids or abets any person in the conduct of such activities or knowingly conspires with any person to engage in such activities;
+            (B) acts for or on behalf of a foreign power which engages in clandestine intelligence activities in the United States contrary to the interests of the United States, when the circumstances indicate that such person may engage in such activities, or when such person knowingly aids or abets any person in the conduct of such activities or knowingly conspires with any person to engage in such activities;
 
             (C) engages in international terrorism or activities in preparation therefore;
 
             (D) engages in the international proliferation of weapons of mass destruction, or activities in preparation therefor; or
 
-            (E) engages in the international proliferation of weapons of mass destruction, or activities in preparation therefor for or on behalf of a foreign power; or
+            (E) engages in the international proliferation of weapons of mass destruction, or activities in preparation therefor, for or on behalf of a foreign power, or knowingly aids or abets any person in the conduct of such proliferation or activities in preparation therefor, or knowingly conspires with any person to engage in such proliferation or activities in preparation therefor; or
 
         (2)
 
@@ -161,13 +161,19 @@
 
         (4) any weapon that is designed, intended, or has the capability to release radiation or radioactivity causing death, illness, or serious bodily injury to a significant number of persons.
 
-([Pub. L. 95–511, title I, § 101][/us/pl/95/511/s101], Oct. 25, 1978, [92 Stat. 1783][/us/stat/92/1783]; [Pub. L. 106–120, title VI, § 601][/us/pl/106/120/s601], Dec. 3, 1999, [113 Stat. 1619][/us/stat/113/1619]; [Pub. L. 107–56, title X, § 1003][/us/pl/107/56/s1003], Oct. 26, 2001, [115 Stat. 392][/us/stat/115/392]; [Pub. L. 107–108, title III, § 314(a)(1)][/us/pl/107/108/s314/a/1], (c)(2), Dec. 28, 2001, [115 Stat. 1402][/us/stat/115/1402], 1403; [Pub. L. 108–458, title VI, § 6001(a)][/us/pl/108/458/s6001/a], Dec. 17, 2004, [118 Stat. 3742][/us/stat/118/3742]; [Pub. L. 109–177, title V, § 506(a)(5)][/us/pl/109/177/s506/a/5], Mar. 9, 2006, [120 Stat. 248][/us/stat/120/248]; [Pub. L. 110–261, title I, § 110(a)][/us/pl/110/261/s110/a], July 10, 2008, [122 Stat. 2465][/us/stat/122/2465]; [Pub. L. 111–259, title VIII, § 801(1)][/us/pl/111/259/s801/1], Oct. 7, 2010, [124 Stat. 2746][/us/stat/124/2746].)
+([Pub. L. 95–511, title I, § 101][/us/pl/95/511/s101], Oct. 25, 1978, [92 Stat. 1783][/us/stat/92/1783]; [Pub. L. 106–120, title VI, § 601][/us/pl/106/120/s601], Dec. 3, 1999, [113 Stat. 1619][/us/stat/113/1619]; [Pub. L. 107–56, title X, § 1003][/us/pl/107/56/s1003], Oct. 26, 2001, [115 Stat. 392][/us/stat/115/392]; [Pub. L. 107–108, title III, § 314(a)(1)][/us/pl/107/108/s314/a/1], (c)(2), Dec. 28, 2001, [115 Stat. 1402][/us/stat/115/1402], 1403; [Pub. L. 108–458, title VI, § 6001(a)][/us/pl/108/458/s6001/a], Dec. 17, 2004, [118 Stat. 3742][/us/stat/118/3742]; [Pub. L. 109–177, title V, § 506(a)(5)][/us/pl/109/177/s506/a/5], Mar. 9, 2006, [120 Stat. 248][/us/stat/120/248]; [Pub. L. 110–261, title I, § 110(a)][/us/pl/110/261/s110/a], July 10, 2008, [122 Stat. 2465][/us/stat/122/2465]; [Pub. L. 111–259, title VIII, § 801(1)][/us/pl/111/259/s801/1], Oct. 7, 2010, [124 Stat. 2746][/us/stat/124/2746]; [Pub. L. 114–23, title VII][/us/pl/114/23], §§ 702, 703, June 2, 2015, [129 Stat. 300][/us/stat/129/300].)
 
  __Amendment of Section__ 
 
     For termination of amendment by [Pub. L. 108–458][/us/pl/108/458], see Termination Date of 2004 Amendment note below.
 
  __Amendments__ 
+
+    2015—Subsec. (b)(1)(A). [Pub. L. 114–23, § 702(1)][/us/pl/114/23/s702/1], inserted “, irrespective of whether the person is inside the United States” before semicolon at end.
+
+    Subsec. (b)(1)(B). [Pub. L. 114–23, § 702(2)][/us/pl/114/23/s702/2], struck out “of such person’s presence in the United States” after “circumstances” and substituted “may engage in such activities” for “may engage in such activities in the United States”.
+
+    Subsec. (b)(1)(E). [Pub. L. 114–23, § 703][/us/pl/114/23/s703], added subpar. (E) and struck out former subpar. (E) which read as follows: “engages in the international proliferation of weapons of mass destruction, or activities in preparation therefor for or on behalf of a foreign power; or”.
 
     2010—Subsecs. (a)(7) to (p). [Pub. L. 111–259][/us/pl/111/259] realigned margins.
 
@@ -197,15 +203,17 @@
 
  __Termination Date of 2004 Amendment__ 
 
-[Pub. L. 108–458, title VI, § 6001(b)][/us/pl/108/458/s6001/b], Dec. 17, 2004, [118 Stat. 3742][/us/stat/118/3742], as amended by [Pub. L. 109–177, title I, § 103][/us/pl/109/177/s103], Mar. 9, 2006, [120 Stat. 195][/us/stat/120/195]; [Pub. L. 111–118, div. B, § 1004(b)][/us/pl/111/118/s1004/b], Dec. 19, 2009, [123 Stat. 3470][/us/stat/123/3470]; [Pub. L. 111–141, § 1(b)][/us/pl/111/141/s1/b], Feb. 27, 2010, [124 Stat. 37][/us/stat/124/37]; [Pub. L. 112–3, § 2(b)][/us/pl/112/3/s2/b], Feb. 25, 2011, [125 Stat. 5][/us/stat/125/5]; [Pub. L. 112–14, § 2(b)][/us/pl/112/14/s2/b], May 26, 2011, [125 Stat. 216][/us/stat/125/216], provided that:
+[Pub. L. 108–458, title VI, § 6001(b)][/us/pl/108/458/s6001/b], Dec. 17, 2004, [118 Stat. 3742][/us/stat/118/3742], as amended by [Pub. L. 109–177, title I, § 103][/us/pl/109/177/s103], Mar. 9, 2006, [120 Stat. 195][/us/stat/120/195]; [Pub. L. 111–118, div. B, § 1004(b)][/us/pl/111/118/s1004/b], Dec. 19, 2009, [123 Stat. 3470][/us/stat/123/3470]; [Pub. L. 111–141, § 1(b)][/us/pl/111/141/s1/b], Feb. 27, 2010, [124 Stat. 37][/us/stat/124/37]; [Pub. L. 112–3, § 2(b)][/us/pl/112/3/s2/b], Feb. 25, 2011, [125 Stat. 5][/us/stat/125/5]; [Pub. L. 112–14, § 2(b)][/us/pl/112/14/s2/b], May 26, 2011, [125 Stat. 216][/us/stat/125/216]; [Pub. L. 114–23, title VII, § 705(b)][/us/pl/114/23/s705/b], June 2, 2015, [129 Stat. 300][/us/stat/129/300], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
->     Except as provided in paragraph (2), the amendment made by subsection (a) \[amending this section\] shall cease to have effect on June 1, 2015.
+>     Except as provided in paragraph (2), the amendment made by subsection (a) \[amending this section\] shall cease to have effect on December 15, 2019.
 
 >     “(2)  __Exception__  __.—__ 
 
 >     With respect to any particular foreign intelligence investigation that began before the date on which the provisions referred to in paragraph (1) cease to have effect, or with respect to any particular offense or potential offense that began or occurred before the date on which the provisions cease to have effect, such provisions shall continue in effect.”
+
+    \[[Pub. L. 114–23, § 705(b)][/us/pl/114/23/s705/b], which delayed the June 1, 2015, termination of the amendment made by [section 6001(a) of Pub. L. 108–458][/us/pl/108/458/s6001/a] by substituting “December 15, 2019” for “June 1, 2015” in [section 6001(b)(1) of Pub. L. 108–458][/us/pl/108/458/s6001/b/1], set out above, was given effect in this section to reflect the probable intent of Congress, notwithstanding that [Pub. L. 114–23][/us/pl/114/23] was enacted on June 2, 2015.\]
 
  __Effective Date of 2001 Amendment__ 
 
@@ -214,6 +222,12 @@
  __Effective Date; Exception__ 
 
     [Pub. L. 95–511, title VII, § 701][/us/pl/95/511/s701], formerly title III, § 301, Oct. 25, 1978, [92 Stat. 1798][/us/stat/92/1798], as renumbered title IV, § 401, and amended by [Pub. L. 103–359, title VIII, § 807(a)(1)][/us/pl/103/359/s807/a/1], (2), Oct. 14, 1994, [108 Stat. 3443][/us/stat/108/3443]; renumbered title VI, § 601, and amended [Pub. L. 105–272, title VI][/us/pl/105/272], §§ 601(1), 603(a), Oct. 20, 1998, [112 Stat. 2404][/us/stat/112/2404], 2412; renumbered title VII, § 701, [Pub. L. 108–458, title VI, § 6002(a)(1)][/us/pl/108/458/s6002/a/1], Dec. 17, 2004, [118 Stat. 3743][/us/stat/118/3743], which provided that the provisions of this Act \[enacting this chapter, amending sections 2511, 2518, and 2519 of Title 18, Crimes and Criminal Procedure, and enacting provisions set out as a note below\] (other than titles III, IV, and V \[enacting subchapters II, III, and IV, respectively, of this chapter\]) and the amendments made hereby shall become effective upon the date of enactment of this Act \[Oct. 25, 1978\], except that any electronic surveillance approved by the Attorney General to gather foreign intelligence information shall not be deemed unlawful for failure to follow the procedures of this Act, if that surveillance is terminated or an order approving that surveillance is obtained under title I of this Act \[enacting this subchapter\] within ninety days following the designation of the first judge pursuant to section 103 of this Act \[[section 1803 of this title][/us/usc/t50/s1803]\], was repealed by [Pub. L. 110–261, title I, § 101(a)(1)][/us/pl/110/261/s101/a/1], July 10, 2008, [122 Stat. 2437][/us/stat/122/2437].
+
+ __Short Title of 2015 Amendment__ 
+
+[Pub. L. 114–23, § 1(a)][/us/pl/114/23/s1/a], June 2, 2015, [129 Stat. 268][/us/stat/129/268], provided that: 
+
+> “This Act \[see Tables for classification\] may be cited as the ‘Uniting and Strengthening America by Fulfilling Rights and Ensuring Effective Discipline Over Monitoring Act of 2015’ or the ‘USA FREEDOM Act of 2015’.”
 
  __Short Title of 2012 Amendment__ 
 
@@ -424,7 +438,12 @@
 [/us/stat/122/2465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2465
 [/us/pl/111/259/s801/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs801%2F1
 [/us/stat/124/2746]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2746
+[/us/pl/114/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23
+[/us/stat/129/300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F300
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
+[/us/pl/114/23/s702/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23%2Fs702%2F1
+[/us/pl/114/23/s702/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23%2Fs702%2F2
+[/us/pl/114/23/s703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23%2Fs703
 [/us/pl/111/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259
 [/us/pl/110/261/s110/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F261%2Fs110%2Fa%2F1
 [/us/pl/110/261/s110/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F261%2Fs110%2Fa%2F2
@@ -452,6 +471,12 @@
 [/us/stat/125/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F5
 [/us/pl/112/14/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F14%2Fs2%2Fb
 [/us/stat/125/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F216
+[/us/pl/114/23/s705/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23%2Fs705%2Fb
+[/us/stat/129/300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F300
+[/us/pl/114/23/s705/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23%2Fs705%2Fb
+[/us/pl/108/458/s6001/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs6001%2Fa
+[/us/pl/108/458/s6001/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs6001%2Fb%2F1
+[/us/pl/114/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23
 [/us/pl/107/108/s314/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F108%2Fs314%2Fc
 [/us/stat/115/1402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1402
 [/us/pl/107/108/s314/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F108%2Fs314%2Fc%2F2
@@ -467,6 +492,8 @@
 [/us/usc/t50/s1803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1803
 [/us/pl/110/261/s101/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F261%2Fs101%2Fa%2F1
 [/us/stat/122/2437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2437
+[/us/pl/114/23/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23%2Fs1%2Fa
+[/us/stat/129/268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F268
 [/us/pl/112/238/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F238%2Fs1
 [/us/stat/126/1631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1631
 [/us/usc/t50/s1881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1881

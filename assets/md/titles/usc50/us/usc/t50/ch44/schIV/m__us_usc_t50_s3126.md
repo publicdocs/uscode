@@ -69,9 +69,9 @@
 
  __Amendments__ 
 
-    2014—[Pub. L. 113–126, § 703(a)][/us/pl/113/126/s703/a], made technical amendment to directory language of [Pub. L. 112–277, § 506][/us/pl/112/277/s506]. See 2013 Amendment note below.
+    2014—[Pub. L. 113–126][/us/pl/113/126] made technical amendments to directory language of [Pub. L. 112–277, § 506][/us/pl/112/277/s506]. See 2013 Amendment note below.
 
-    2013—Par. (5). [Pub. L. 112–277, § 506][/us/pl/112/277/s506], as amended by [Pub. L. 113–126, § 703(a)][/us/pl/113/126/s703/a], amended par. (5) generally. Prior to amendment, par. (5) read as follows: “The term ‘intelligence agency’ means the Central Intelligence Agency, a foreign intelligence component of the Department of Defense, or the foreign counterintelligence or foreign counterterrorism components of the Federal Bureau of Investigation.”
+    2013—Par. (5). [Pub. L. 112–277, § 506][/us/pl/112/277/s506], as amended by [Pub. L. 113–126][/us/pl/113/126], amended par. (5) generally. Prior to amendment, par. (5) read as follows: “The term ‘intelligence agency’ means the Central Intelligence Agency, a foreign intelligence component of the Department of Defense, or the foreign counterintelligence or foreign counterterrorism components of the Federal Bureau of Investigation.”
 
     1999—Par. (4)(A). [Pub. L. 106–120][/us/pl/106/120] substituted “a present or retired officer or employee” for “an officer or employee” and “a present or retired member” for “a member”.
 
@@ -108,10 +108,10 @@
 [/us/stat/128/1422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1422
 [/us/usc/t50/s426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs426
 [/us/usc/t50/s3125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3125
-[/us/pl/113/126/s703/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126%2Fs703%2Fa
+[/us/pl/113/126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126
 [/us/pl/112/277/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F277%2Fs506
 [/us/pl/112/277/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F277%2Fs506
-[/us/pl/113/126/s703/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126%2Fs703%2Fa
+[/us/pl/113/126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126
 [/us/pl/106/120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F120
 [/us/pl/113/126/s703/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126%2Fs703%2Fb
 [/us/stat/128/1423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1423

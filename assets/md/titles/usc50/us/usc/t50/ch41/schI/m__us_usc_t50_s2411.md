@@ -121,7 +121,7 @@
 
  __Amendments__ 
 
-    Subsec. (h)(1) to (3). [Pub. L. 113–291, § 3117][/us/pl/113/291/s3117], added par. (1) and redesignated former pars. (1) and (2) as (2) and (3), respectively.
+    Subsec. (h)(1) to (3). [Pub. L. 113–291][/us/pl/113/291] added par. (1) and redesignated former pars. (1) and (2) as (2) and (3), respectively.
 
 ----------
 
@@ -141,6 +141,6 @@
 [/us/stat/127/1050]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1050
 [/us/pl/113/291/s3117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3117
 [/us/stat/128/3889]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3889
-[/us/pl/113/291/s3117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3117
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 
 

@@ -87,10 +87,6 @@
 
 ([Pub. L. 113–126, title III, § 325][/us/pl/113/126/s325], July 7, 2014, [128 Stat. 1402][/us/stat/128/1402].)
 
- __References in Text__ 
-
-    Section 941 of the National Defense Authorization Act for Fiscal Year 2013, referred to in subsec. (e), is [section 941 of Pub. L. 112–239][/us/pl/112/239/s941], Jan. 2, 2013, [126 Stat. 1889][/us/stat/126/1889], which is set out as a note under [section 2224 of Title 10][/us/usc/t10/s2224], Armed Forces.
-
  __Definitions__ 
 
     For definitions of “intelligence community” and “congressional intelligence committees”, referred to in text, see [section 2 of Pub. L. 113–126][/us/pl/113/126/s2], set out as a note under [section 3003 of this title][/us/usc/t50/s3003].
@@ -106,9 +102,6 @@
 [/us/usc/t10/s2224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2224
 [/us/pl/113/126/s325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126%2Fs325
 [/us/stat/128/1402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1402
-[/us/pl/112/239/s941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs941
-[/us/stat/126/1889]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1889
-[/us/usc/t10/s2224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2224
 [/us/pl/113/126/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126%2Fs2
 [/us/usc/t50/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3003
 

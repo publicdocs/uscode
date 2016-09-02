@@ -53,7 +53,7 @@
 
     Subsec. (b)(1). [Pub. L. 113–126, § 202(a)(2)][/us/pl/113/126/s202/a/2], substituted “intelligence activities” for “Agency activities”.
 
- __Application__ 
+ __Application of__  __2014__  __Amendment__ 
 
 [Pub. L. 113–126, title II, § 202(b)][/us/pl/113/126/s202/b], July 7, 2014, [128 Stat. 1394][/us/stat/128/1394], provided that: 
 

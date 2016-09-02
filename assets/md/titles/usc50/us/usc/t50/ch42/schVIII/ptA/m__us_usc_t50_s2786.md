@@ -167,7 +167,7 @@
 
  __References in Text__ 
 
-    [Section 3542 of title 44][/us/usc/t44/s3542], referred to in subsec. (f)(5)(A), was repealed by [Pub. L. 113–283, § 2(a)][/us/pl/113/283/s2/a], Dec. 18, 2014, [128 Stat. 3073][/us/stat/128/3073]. Provisions defining “national security system” are now contained in [section 3552 of title 44][/us/usc/t44/s3552], as enacted by [Pub. L. 113–283][/us/pl/113/283].
+    [Section 3542(b) of title 44][/us/usc/t44/s3542/b], referred to in subsec. (f)(5)(A), was repealed by [Pub. L. 113–283, § 2(a)][/us/pl/113/283/s2/a], Dec. 18, 2014, [128 Stat. 3073][/us/stat/128/3073]. Provisions defining “national security system” are now contained in [section 3552 of title 44][/us/usc/t44/s3552], as enacted by [Pub. L. 113–283][/us/pl/113/283].
 
  __Amendments__ 
 
@@ -189,7 +189,7 @@
 [/us/stat/127/1053]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1053
 [/us/pl/113/291/s3142/s]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3142%2Fs
 [/us/stat/128/3901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3901
-[/us/usc/t44/s3542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3542
+[/us/usc/t44/s3542/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3542%2Fb
 [/us/pl/113/283/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F283%2Fs2%2Fa
 [/us/stat/128/3073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3073
 [/us/usc/t44/s3552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3552

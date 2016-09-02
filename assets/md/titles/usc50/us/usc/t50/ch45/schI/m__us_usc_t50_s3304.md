@@ -91,7 +91,7 @@
 
 >     “(2)  __Intelligence community__  __.—__ 
 
->     The term ‘intelligence community’ has the same meaning given that term in section 3(4) of the National Security Act of 1947 ([50 U.S.C. 3003(4)][/us/usc/t50/s3003/4]).”
+>     The term ‘intelligence community’ has the same meaning given that term in section 3(4) of the National Security Act of 1947 ([50 U.S.C. 401a(4)][/us/usc/t50/s401a/4] \[now [50 U.S.C. 3003(4)][/us/usc/t50/s3003/4]\]) .”
 
 ----------
 
@@ -116,6 +116,7 @@
 [/us/pl/103/359/s604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F359%2Fs604
 [/us/stat/108/3433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3433
 [/us/usc/t50/s3302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3302
+[/us/usc/t50/s401a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs401a%2F4
 [/us/usc/t50/s3003/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3003%2F4
 
 

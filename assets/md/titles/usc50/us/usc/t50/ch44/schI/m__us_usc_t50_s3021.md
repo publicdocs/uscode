@@ -183,7 +183,7 @@
 
  __Amendments__ 
 
-    2014—Subsec. (a)(5) to (8). [Pub. L. 113–126][/us/pl/113/126] substituted “; and” for semicolon at end of par. (5), redesignated par. (8) as (6) and struck out “the Chairman of the Munitions Board, and the Chairman of the Research and Development Board,” after “military departments,”, and struck out former pars. (6) and (7) which read follows:
+    2014—Subsec. (a)(5) to (8). [Pub. L. 113–126][/us/pl/113/126] substituted “; and” for semicolon at end of par. (5), redesignated par. (8) as (6) and struck out “the Chairman of the Munitions Board, and the Chairman of the Research and Development Board,” after “military departments,”, and struck out former pars. (6) and (7) which read as follows:
 
     “(6) the Director for Mutual Security;
 

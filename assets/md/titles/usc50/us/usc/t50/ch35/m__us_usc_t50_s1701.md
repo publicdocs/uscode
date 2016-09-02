@@ -4933,6 +4933,8 @@ Provisions relating to the exercise of Presidential authorities to declare natio
 
     Continuations of national emergency declared by Ex. Ord. No. 12938 were contained in the following:
 
+    Notice of President of the United States, dated Nov. 7, 2014, 79 F.R. 67035.
+
     Notice of President of the United States, dated Nov. 7, 2013, 78 F.R. 67289.
 
     Notice of President of the United States, dated Nov. 1, 2012, 77 F.R. 66513.
@@ -5102,6 +5104,8 @@ Provisions relating to the exercise of Presidential authorities to declare natio
     Ex. Ord. No. 12170, Nov. 14, 1979, 44 F.R. 65729.
 
     Continuations of national emergency declared by Ex. Ord. No. 12170 were contained in the following:
+
+    Notice of President of the United States, dated Nov. 12, 2014, 79 F.R. 68091.
 
     Notice of President of the United States, dated Nov. 12, 2013, 78 F.R. 68323.
 
@@ -5676,6 +5680,8 @@ Provisions relating to the exercise of Presidential authorities to declare natio
     Ex. Ord. No. 13661, Mar. 16, 2014, 79 F.R. 15535.
 
     Ex. Ord. No. 13662, Mar. 20, 2014, 79 F.R. 16169.
+
+    Ex. Ord. No. 13685, Dec. 19, 2014, 79 F.R. 77357.
 
  __Western Balkans__ 
 

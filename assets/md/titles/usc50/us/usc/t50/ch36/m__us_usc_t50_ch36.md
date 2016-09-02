@@ -315,7 +315,7 @@ SUBCHAPTER IV—ACCESS TO CERTAIN BUSINESS RECORDS FOR FOREIGN INTELLIGENCE PURP
 
     <td> 
 
-SUBCHAPTER V—REPORTING REQUIREMENT  </td>
+SUBCHAPTER V—OVERSIGHT  </td>
 
   </tr>
 
@@ -324,6 +324,30 @@ SUBCHAPTER V—REPORTING REQUIREMENT  </td>
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs1871" data-uslm-ref="/us/usc/t50/s1871">1871.</a>  </td>
 
     <td> Semiannual report of the Attorney General.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs1872" data-uslm-ref="/us/usc/t50/s1872">1872.</a>  </td>
+
+    <td> Declassification of significant decisions, orders, and opinions.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs1873" data-uslm-ref="/us/usc/t50/s1873">1873.</a>  </td>
+
+    <td> Annual reports.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs1874" data-uslm-ref="/us/usc/t50/s1874">1874.</a>  </td>
+
+    <td> Public reporting by persons subject to orders.  </td>
 
   </tr>
 

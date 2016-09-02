@@ -45,7 +45,7 @@
 
  __Amendments__ 
 
-    2014—Subsec. (b). [Pub. L. 113–291, § 3142(k)(1)][/us/pl/113/291/s3142/k/1], amended heading in original act which, for purposes of codification, resulted in no change in text.substituted “Significant atomic energy defense intelligence losses” for “Significant atomic energy defense intelligence losses” in heading requiring no change in text.
+    2014—Subsec. (b). [Pub. L. 113–291, § 3142(k)(1)][/us/pl/113/291/s3142/k/1], reenacted heading without change.
 
     Subsec. (e)(2). [Pub. L. 113–291, § 3142(k)(2)][/us/pl/113/291/s3142/k/2], made technical amendment to reference in original act which appears in text as reference to [section 3091 of this title][/us/usc/t50/s3091].
 

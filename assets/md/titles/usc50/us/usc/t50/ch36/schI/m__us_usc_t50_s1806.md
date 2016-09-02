@@ -59,7 +59,7 @@
 
     (j) __Notification of emergency employment of electronic surveillance; contents; postponement, suspension or elimination__ 
 
-    If an emergency employment of electronic surveillance is authorized under [section 1805(e) of this title][/us/usc/t50/s1805/e] and a subsequent order approving the surveillance is not obtained, the judge shall cause to be served on any United States person named in the application and on such other United States persons subject to electronic surveillance as the judge may determine in his discretion it is in the interest of justice to serve, notice of—
+    If an emergency employment of electronic surveillance is authorized under subsection (e) or (f) of [section 1805 of this title][/us/usc/t50/s1805] and a subsequent order approving the surveillance is not obtained, the judge shall cause to be served on any United States person named in the application and on such other United States persons subject to electronic surveillance as the judge may determine in his discretion it is in the interest of justice to serve, notice of—
 
         (1) the fact of the application;
 
@@ -83,7 +83,7 @@
 
         (2) Coordination authorized under paragraph (1) shall not preclude the certification required by section 1804(a)(7)(B)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title or the entry of an order under [section 1805 of this title][/us/usc/t50/s1805].
 
-([Pub. L. 95–511, title I, § 106][/us/pl/95/511/s106], Oct. 25, 1978, [92 Stat. 1793][/us/stat/92/1793]; [Pub. L. 107–56, title V, § 504(a)][/us/pl/107/56/s504/a], Oct. 26, 2001, [115 Stat. 364][/us/stat/115/364]; [Pub. L. 107–296, title VIII, § 898][/us/pl/107/296/s898], Nov. 25, 2002, [116 Stat. 2258][/us/stat/116/2258]; [Pub. L. 110–261, title I][/us/pl/110/261], §§ 106, 110(b)(1), July 10, 2008, [122 Stat. 2462][/us/stat/122/2462], 2466.)
+([Pub. L. 95–511, title I, § 106][/us/pl/95/511/s106], Oct. 25, 1978, [92 Stat. 1793][/us/stat/92/1793]; [Pub. L. 107–56, title V, § 504(a)][/us/pl/107/56/s504/a], Oct. 26, 2001, [115 Stat. 364][/us/stat/115/364]; [Pub. L. 107–296, title VIII, § 898][/us/pl/107/296/s898], Nov. 25, 2002, [116 Stat. 2258][/us/stat/116/2258]; [Pub. L. 110–261, title I][/us/pl/110/261], §§ 106, 110(b)(1), July 10, 2008, [122 Stat. 2462][/us/stat/122/2462], 2466; [Pub. L. 114–23, title VII, § 701(b)][/us/pl/114/23/s701/b], June 2, 2015, [129 Stat. 299][/us/stat/129/299].)
 
  __References in Text__ 
 
@@ -92,6 +92,8 @@
     [Section 1804(a)(7)(B) of this title][/us/usc/t50/s1804/a/7/B], referred to in subsec. (k)(2), was redesignated [section 1804(a)(6)(B) of this title][/us/usc/t50/s1804/a/6/B] by [Pub. L. 110–261, title I, § 104(1)(B)][/us/pl/110/261/s104/1/B], July 10, 2008, [122 Stat. 2461][/us/stat/122/2461].
 
  __Amendments__ 
+
+    2015—Subsec. (j). [Pub. L. 114–23][/us/pl/114/23] substituted “subsection (e) or (f) of [section 1805 of this title][/us/usc/t50/s1805]” for “[section 1805(e) of this title][/us/usc/t50/s1805/e]”.
 
     2008—Subsec. (i). [Pub. L. 110–261, § 106][/us/pl/110/261/s106], substituted “communication” for “radio communication”.
 
@@ -130,7 +132,7 @@
 ----------
 ----------
 
-[/us/usc/t50/s1805/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1805%2Fe
+[/us/usc/t50/s1805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1805
 [/us/usc/t50/s1805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1805
 [/us/pl/95/511/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F511%2Fs106
 [/us/stat/92/1793]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1793
@@ -140,6 +142,8 @@
 [/us/stat/116/2258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2258
 [/us/pl/110/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F261
 [/us/stat/122/2462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2462
+[/us/pl/114/23/s701/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23%2Fs701%2Fb
+[/us/stat/129/299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F299
 [/us/pl/95/511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F511
 [/us/stat/92/1783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1783
 [/us/usc/t50/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1801
@@ -147,6 +151,9 @@
 [/us/usc/t50/s1804/a/6/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1804%2Fa%2F6%2FB
 [/us/pl/110/261/s104/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F261%2Fs104%2F1%2FB
 [/us/stat/122/2461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2461
+[/us/pl/114/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23
+[/us/usc/t50/s1805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1805
+[/us/usc/t50/s1805/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1805%2Fe
 [/us/pl/110/261/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F261%2Fs106
 [/us/pl/110/261/s110/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F261%2Fs110%2Fb%2F1
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296

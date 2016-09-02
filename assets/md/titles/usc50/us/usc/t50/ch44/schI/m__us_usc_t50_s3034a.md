@@ -15,7 +15,7 @@
 
 ## § 3034a. Functional Managers for the intelligence community
 
-    (a) __Functional managers authorized__ 
+    (a) __Functional Managers authorized__ 
 
         The Director of National Intelligence may establish within the intelligence community one or more positions of manager of an intelligence function. Any position so established may be known as the “Functional Manager” of the intelligence function concerned.
 

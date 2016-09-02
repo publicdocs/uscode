@@ -53,7 +53,7 @@
 
     This chapter, referred to in text, was in the original “this title”, meaning title XVIII of [Pub. L. 110–53][/us/pl/110/53], which enacted this chapter, amended [section 3021 of this title][/us/usc/t50/s3021] and sections 5952 and 5963 of Title 22, Foreign Relations and Intercourse, and amended provisions set out as notes under sections 2551 and 5952 of Title 22. For complete classification of title XVIII to the Code, see Tables.
 
-    Section 1501 of the National Defense Authorization Act for Fiscal Year 1997, referred to in par. (1)(A), was formerly set out as a note under [section 2362 of this title][/us/usc/t50/s2362], prior to repeal by [Pub. L. 113–291, div. A, title XIII, § 1351(5)][/us/pl/113/291/s1351/5], Dec. 19, 2014, [128 Stat. 3607][/us/stat/128/3607].
+    Section 1501(b) of the National Defense Authorization Act for Fiscal Year 1997, referred to in par. (1)(A), is [section 1501(b) of Pub. L. 104–201][/us/pl/104/201/s1501/b], which was set out as a note under [section 2362 of this title][/us/usc/t50/s2362], prior to repeal by [Pub. L. 113–291, div. A, title XIII, § 1351(5)][/us/pl/113/291/s1351/5], Dec. 19, 2014, [128 Stat. 3607][/us/stat/128/3607].
 
     Section 3101(a)(2) of the Bob Stump National Defense Authorization Act for Fiscal Year 2003 ([Public Law 107–314][/us/pl/107/314]), referred to in par. (1)(B), is not classified to the Code.
 
@@ -75,6 +75,7 @@
 [/us/stat/121/491]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F491
 [/us/pl/110/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53
 [/us/usc/t50/s3021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3021
+[/us/pl/104/201/s1501/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1501%2Fb
 [/us/usc/t50/s2362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2362
 [/us/pl/113/291/s1351/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1351%2F5
 [/us/stat/128/3607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3607

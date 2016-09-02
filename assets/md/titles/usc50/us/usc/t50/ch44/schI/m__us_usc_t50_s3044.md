@@ -71,11 +71,11 @@
 
  __Amendments__ 
 
-    2014—Subsec. (a)(2). [Pub. L. 113–293, § 304(1)][/us/pl/113/293/s304/1], substituted “usage, including—” for “usage; and” and added subpars. (A) to (D).
+    2014—Subsec. (a)(2). [Pub. L. 113–293, § 304(1)][/us/pl/113/293/s304/1], substituted “usage, including—” for “usage; and” in introductory provisions and added subpars. (A) to (D).
 
     Subsec. (b)(1). [Pub. L. 113–293, § 304(2)(A)][/us/pl/113/293/s304/2/A], substituted semicolon at end for “; and”.
 
-    Subsec. (b)(2). [Pub. L. 113–293, § 304(2)(B)][/us/pl/113/293/s304/2/B], substituted “usage, including—” for “usage.” and added subpars. (A) to (D).
+    Subsec. (b)(2). [Pub. L. 113–293, § 304(2)(B)][/us/pl/113/293/s304/2/B], substituted “usage, including—” for “usage.” in introductory provisions and added subpars. (A) to (D).
 
     Subsec. (b)(3). [Pub. L. 113–293, § 304(2)(C)][/us/pl/113/293/s304/2/C], added par. (3).
 

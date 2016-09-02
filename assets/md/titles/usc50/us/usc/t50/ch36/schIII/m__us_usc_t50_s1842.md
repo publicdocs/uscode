@@ -33,9 +33,11 @@
 
     Each application under this section shall require the approval of the Attorney General, or a designated attorney for the Government, and shall include—
 
-        (1) the identity of the Federal officer seeking to use the pen register or trap and trace device covered by the application; and
+        (1) the identity of the Federal officer seeking to use the pen register or trap and trace device covered by the application;
 
-        (2) a certification by the applicant that the information likely to be obtained is foreign intelligence information not concerning a United States person or is relevant to an ongoing investigation to protect against international terrorism or clandestine intelligence activities, provided that such investigation of a United States person is not conducted solely upon the basis of activities protected by the first amendment to the Constitution.
+        (2) a certification by the applicant that the information likely to be obtained is foreign intelligence information not concerning a United States person or is relevant to an ongoing investigation to protect against international terrorism or clandestine intelligence activities, provided that such investigation of a United States person is not conducted solely upon the basis of activities protected by the first amendment to the Constitution; and
+
+        (3) a specific selection term to be used as the basis for the use of the pen register or trap and trace device.
 
     (d) __Ex parte judicial order of approval__ 
 
@@ -119,7 +121,17 @@
 
         Unless otherwise ordered by the judge, the results of a pen register or trap and trace device shall be furnished at reasonable intervals during regular business hours for the duration of the order to the authorized Government official or officials.
 
-([Pub. L. 95–511, title IV, § 402][/us/pl/95/511/s402], as added [Pub. L. 105–272, title VI, § 601(2)][/us/pl/105/272/s601/2], Oct. 20, 1998, [112 Stat. 2405][/us/stat/112/2405]; amended [Pub. L. 107–56, title II, § 214(a)][/us/pl/107/56/s214/a], Oct. 26, 2001, [115 Stat. 286][/us/stat/115/286]; [Pub. L. 107–108, title III, § 314(a)(5)][/us/pl/107/108/s314/a/5], Dec. 28, 2001, [115 Stat. 1402][/us/stat/115/1402]; [Pub. L. 108–458, title I, § 1071(e)][/us/pl/108/458/s1071/e], Dec. 17, 2004, [118 Stat. 3691][/us/stat/118/3691]; [Pub. L. 109–177, title I][/us/pl/109/177], §§ 105(c), 128(a), Mar. 9, 2006, [120 Stat. 195][/us/stat/120/195], 228; [Pub. L. 111–259, title VIII, § 806(a)(2)][/us/pl/111/259/s806/a/2], Oct. 7, 2010, [124 Stat. 2748][/us/stat/124/2748].)
+    (h) __Privacy procedures__ 
+
+        (1) __In general__ 
+
+            The Attorney General shall ensure that appropriate policies and procedures are in place to safeguard nonpublicly available information concerning United States persons that is collected through the use of a pen register or trap and trace device installed under this section. Such policies and procedures shall, to the maximum extent practicable and consistent with the need to protect national security, include privacy protections that apply to the collection, retention, and use of information concerning United States persons.
+
+        (2) __Rule of construction__ 
+
+            Nothing in this subsection limits the authority of the court established under [section 1803(a) of this title][/us/usc/t50/s1803/a] or of the Attorney General to impose additional privacy or minimization procedures with regard to the installation or use of a pen register or trap and trace device.
+
+([Pub. L. 95–511, title IV, § 402][/us/pl/95/511/s402], as added [Pub. L. 105–272, title VI, § 601(2)][/us/pl/105/272/s601/2], Oct. 20, 1998, [112 Stat. 2405][/us/stat/112/2405]; amended [Pub. L. 107–56, title II, § 214(a)][/us/pl/107/56/s214/a], Oct. 26, 2001, [115 Stat. 286][/us/stat/115/286]; [Pub. L. 107–108, title III, § 314(a)(5)][/us/pl/107/108/s314/a/5], Dec. 28, 2001, [115 Stat. 1402][/us/stat/115/1402]; [Pub. L. 108–458, title I, § 1071(e)][/us/pl/108/458/s1071/e], Dec. 17, 2004, [118 Stat. 3691][/us/stat/118/3691]; [Pub. L. 109–177, title I][/us/pl/109/177], §§ 105(c), 128(a), Mar. 9, 2006, [120 Stat. 195][/us/stat/120/195], 228; [Pub. L. 111–259, title VIII, § 806(a)(2)][/us/pl/111/259/s806/a/2], Oct. 7, 2010, [124 Stat. 2748][/us/stat/124/2748]; [Pub. L. 114–23, title II][/us/pl/114/23], §§ 201(a), 202(a), June 2, 2015, [129 Stat. 277][/us/stat/129/277].)
 
  __References in Text__ 
 
@@ -128,6 +140,10 @@
     [Section 1805(b)(2)(C) of this title][/us/usc/t50/s1805/b/2/C], referred to in subsec. (d)(2)(B)(ii)(II), was redesignated [section 1805(c)(2)(C) of this title][/us/usc/t50/s1805/c/2/C] by [Pub. L. 106–567, title VI, § 602(b)(1)][/us/pl/106/567/s602/b/1], Dec. 27, 2000, [114 Stat. 2851][/us/stat/114/2851].
 
  __Amendments__ 
+
+    2015—Subsec. (c)(3). [Pub. L. 114–23, § 201(a)][/us/pl/114/23/s201/a], added par. (3).
+
+    Subsec. (h). [Pub. L. 114–23, § 202(a)][/us/pl/114/23/s202/a], added subsec. (h).
 
     2010—Subsec. (d)(2)(B)(ii)(II). [Pub. L. 111–259][/us/pl/111/259] made technical amendment to directory language of [Pub. L. 108–458][/us/pl/108/458]. See 2004 Amendment note below.
 
@@ -183,6 +199,7 @@
 ----------
 
 [/us/usc/t50/s1803/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1803%2Fa
+[/us/usc/t50/s1803/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1803%2Fa
 [/us/pl/95/511/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F511%2Fs402
 [/us/pl/105/272/s601/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F272%2Fs601%2F2
 [/us/stat/112/2405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2405
@@ -196,11 +213,15 @@
 [/us/stat/120/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F195
 [/us/pl/111/259/s806/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs806%2Fa%2F2
 [/us/stat/124/2748]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2748
+[/us/pl/114/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23
+[/us/stat/129/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F277
 [/us/usc/t50/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3001
 [/us/usc/t50/s1805/b/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1805%2Fb%2F2%2FC
 [/us/usc/t50/s1805/c/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1805%2Fc%2F2%2FC
 [/us/pl/106/567/s602/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F567%2Fs602%2Fb%2F1
 [/us/stat/114/2851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2851
+[/us/pl/114/23/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23%2Fs201%2Fa
+[/us/pl/114/23/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23%2Fs202%2Fa
 [/us/pl/111/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
 [/us/pl/109/177/s128/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs128%2Fa%2F1

@@ -95,7 +95,7 @@
 
  __Amendments__ 
 
-    2014—Subsec. (a)(1)(A). [Pub. L. 113–291, § 3115(1)][/us/pl/113/291/s3115/1], inserted at end “In addition to the requirement under subparagraph (B), the cost and schedule baseline of a nuclear stockpile life extension project established under this subparagraph shall be the cost and schedule as described in the first Selected Acquisition Report submitted under section 42172537(a) of this title for the project.”
+    2014—Subsec. (a)(1)(A). [Pub. L. 113–291, § 3115(1)][/us/pl/113/291/s3115/1], inserted at end “In addition to the requirement under subparagraph (B), the cost and schedule baseline of a nuclear stockpile life extension project established under this subparagraph shall be the cost and schedule as described in the first Selected Acquisition Report submitted under [section 2537(a) of this title][/us/usc/t50/s2537/a] for the project.”
 
     Subsec. (b)(2). [Pub. L. 113–291, § 3115(2)][/us/pl/113/291/s3115/2], substituted “150” for “200”.
 
@@ -123,6 +123,7 @@
 [/us/pl/113/291/s3115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3115
 [/us/stat/128/3888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3888
 [/us/pl/113/291/s3115/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3115%2F1
+[/us/usc/t50/s2537/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2537%2Fa
 [/us/pl/113/291/s3115/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3115%2F2
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/pl/113/66/s3146/h/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3146%2Fh%2F4%2FA

@@ -81,7 +81,7 @@
 
         The term “access determination” means the determination regarding whether an employee—
 
-            (A) is eligible for access to classified information in accordance with Executive Order 12968 (60 Fed. Reg. 40245; relating to access to classified information), or any successor thereto, and Executive Order 10865 (25 Fed. Reg. 1583; relating to safeguarding classified information with industry), or any successor thereto; and
+            (A) is eligible for access to classified information in accordance with Executive Order 12968 (60 Fed. Reg. 40245; relating to access to classified information), or any successor thereto, and Executive Order 10865 (25 Fed. Reg. 1583; relating to safeguarding classified information with  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be “within”. </sup></sup>  industry), or any successor thereto; and
 
             (B) possesses a need to know under such an Order.
 
@@ -369,7 +369,7 @@
 
 [Pub. L. 113–126, title VI, § 602(e)][/us/pl/113/126/s602/e], July 7, 2014, [128 Stat. 1419][/us/stat/128/1419], provided that: 
 
-> “Nothing in section 3001 of the Intelligence Reform and Terrorism Prevention Act of 2004 ([50 U.S.C. 3341][/us/usc/t50/s3341]), as amended by this title, shall be construed to require the repeal or replacement of agency appeal procedures implementing Executive Order 12968 (60 Fed. Reg. 40245; relating to access to classified information) \[[50 U.S.C. 3161][/us/usc/t50/s3161] note\], or any successor thereto, and Executive Order 10865 (25 Fed. Reg. 1583; relating to safeguarding classified information with industry) \[[50 U.S.C. 3161][/us/usc/t50/s3161] note\], or any successor thereto, that meet the requirements of paragraph (7) of section 3001(b) of such Act \[[50 U.S.C. 3341(b)(7)][/us/usc/t50/s3341/b/7]\], as added by this section.”
+> “Nothing in section 3001 of the Intelligence Reform and Terrorism Prevention Act of 2004 ([50 U.S.C. 3341][/us/usc/t50/s3341]), as amended by this title, shall be construed to require the repeal or replacement of agency appeal procedures implementing Executive Order 12968 (60 Fed. Reg. 40245; relating to access to classified information) \[[50 U.S.C. 3161][/us/usc/t50/s3161] note\], or any successor thereto, and Executive Order 10865 (25 Fed. Reg. 1583; relating to safeguarding classified information with\[in\] industry) \[[50 U.S.C. 3161][/us/usc/t50/s3161] note\], or any successor thereto, that meet the requirements of paragraph (7) of section 3001(b) of such Act \[[50 U.S.C. 3341(b)(7)][/us/usc/t50/s3341/b/7]\], as added by this section.”
 
  __Required Elements of Policies and Procedures__ 
 

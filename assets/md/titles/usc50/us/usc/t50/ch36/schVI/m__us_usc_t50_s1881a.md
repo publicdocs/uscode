@@ -319,6 +319,16 @@
 
                 In support of an order under this subsection, the Court shall provide, simultaneously with the order, for the record a written statement of the reasons for the order.
 
+            (D) __Limitation on use of information__ 
+
+                (i) __In general__ 
+
+                    Except as provided in clause (ii), if the Court orders a correction of a deficiency in a certification or procedures under subparagraph (B), no information obtained or evidence derived pursuant to the part of the certification or procedures that has been identified by the Court as deficient concerning any United States person shall be received in evidence or otherwise disclosed in any trial, hearing, or other proceeding in or before any court, grand jury, department, office, agency, regulatory body, legislative committee, or other authority of the United States, a State, or political subdivision thereof, and no information concerning any United States person acquired pursuant to such part of such certification or procedures shall subsequently be used or disclosed in any other manner by Federal officers or employees without the consent of the United States person, except with the approval of the Attorney General if the information indicates a threat of death or serious bodily harm to any person.
+
+                (ii) __Exception__ 
+
+                    If the Government corrects any deficiency identified by the order of the Court under subparagraph (B), the Court may permit the use or disclosure of information obtained before the date of the correction under such minimization procedures as the Court may approve for purposes of this clause.
+
         (4) __Appeal__ 
 
             (A) __Appeal to the Court of Review__ 
@@ -453,7 +463,7 @@
 
                     (II) the Committees on the Judiciary of the House of Representatives and the Senate.
 
-([Pub. L. 95–511, title VII, § 702][/us/pl/95/511/s702], as added [Pub. L. 110–261, title I, § 101(a)(2)][/us/pl/110/261/s101/a/2], July 10, 2008, [122 Stat. 2438][/us/stat/122/2438].)
+([Pub. L. 95–511, title VII, § 702][/us/pl/95/511/s702], as added [Pub. L. 110–261, title I, § 101(a)(2)][/us/pl/110/261/s101/a/2], July 10, 2008, [122 Stat. 2438][/us/stat/122/2438]; amended [Pub. L. 114–23, title III, § 301][/us/pl/114/23/s301], June 2, 2015, [129 Stat. 278][/us/stat/129/278].)
 
  __Repeal of Section__ 
 
@@ -464,6 +474,10 @@
     This chapter, referred to in subsecs. (f)(1)(B) and (g)(2)(A)(iii), was in the original “this Act”, meaning [Pub. L. 95–511][/us/pl/95/511], Oct. 25, 1978, [92 Stat. 1783][/us/stat/92/1783], which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of this title][/us/usc/t50/s1801] and Tables.
 
     Senate Resolution 400 of the 94th Congress, referred to in subsec. (l), was agreed to May 19, 1976, and was subsequently amended by both Senate resolution and public law. The Resolution, which established the Senate Select Committee on Intelligence, is not classified to the Code.
+
+ __Amendments__ 
+
+    2015—Subsec. (i)(3)(D). [Pub. L. 114–23][/us/pl/114/23] added subpar. (D).
 
  __Effective Date of Repeal__ 
 
@@ -485,6 +499,8 @@
 [/us/pl/95/511/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F511%2Fs702
 [/us/pl/110/261/s101/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F261%2Fs101%2Fa%2F2
 [/us/stat/122/2438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2438
+[/us/pl/114/23/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23%2Fs301
+[/us/stat/129/278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F278
 [/us/pl/110/261/s403/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F261%2Fs403%2Fb%2F1
 [/us/stat/122/2474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2474
 [/us/pl/112/238/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F238%2Fs2%2Fa%2F1
@@ -494,6 +510,7 @@
 [/us/pl/95/511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F511
 [/us/stat/92/1783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1783
 [/us/usc/t50/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1801
+[/us/pl/114/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23
 [/us/pl/110/261/s403/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F261%2Fs403%2Fb%2F1
 [/us/stat/122/2474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2474
 [/us/pl/112/238/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F238%2Fs2%2Fa%2F1

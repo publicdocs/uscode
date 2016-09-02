@@ -13,7 +13,11 @@
 
 [Previous](./../../../../..//us/usc/t50/ch36/schIV/m__us_usc_t50_s1863.md) | [Next](./../../../../..//us/usc/t50/ch36/schV/m__us_usc_t50_s1871.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fch36%2FschV)
 
-### SUBCHAPTER V—REPORTING REQUIREMENT
+### SUBCHAPTER V—OVERSIGHT
+
+ __Amendments__ 
+
+    2015—[Pub. L. 114–23, title IV, § 402(a)(1)][/us/pl/114/23/s402/a/1], June 2, 2015, [129 Stat. 281][/us/stat/129/281], substituted “OVERSIGHT” for “REPORTING REQUIREMENT” in heading.
 
 ----------
 
@@ -22,5 +26,7 @@
 ----------
 ----------
 
+[/us/pl/114/23/s402/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23%2Fs402%2Fa%2F1
+[/us/stat/129/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F281
 
 

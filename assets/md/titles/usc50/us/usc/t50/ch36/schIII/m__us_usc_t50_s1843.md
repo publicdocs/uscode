@@ -45,9 +45,15 @@
 
         (2) In the event that an application for an order applied for under subsection (a)(2) of this section is denied, or in any other case where the installation and use of a pen register or trap and trace device under this section is terminated and no order under [section 1842 of this title][/us/usc/t50/s1842] is issued approving the installation and use of the pen register or trap and trace device, as the case may be, no information obtained or evidence derived from the use of the pen register or trap and trace device, as the case may be, shall be received in evidence or otherwise disclosed in any trial, hearing, or other proceeding in or before any court, grand jury, department, office, agency, regulatory body, legislative committee, or other authority of the United States, a State, or political subdivision thereof, and no information concerning any United States person acquired from the use of the pen register or trap and trace device, as the case may be, shall subsequently be used or disclosed in any other manner by Federal officers or employees without the consent of such person, except with the approval of the Attorney General if the information indicates a threat of death or serious bodily harm to any person.
 
-([Pub. L. 95–511, title IV, § 403][/us/pl/95/511/s403], as added [Pub. L. 105–272, title VI, § 601(2)][/us/pl/105/272/s601/2], Oct. 20, 1998, [112 Stat. 2407][/us/stat/112/2407]; amended [Pub. L. 107–56, title II, § 214(b)][/us/pl/107/56/s214/b], Oct. 26, 2001, [115 Stat. 287][/us/stat/115/287]; [Pub. L. 110–261, title I, § 108][/us/pl/110/261/s108], July 10, 2008, [122 Stat. 2464][/us/stat/122/2464].)
+    (d) __Privacy procedures__ 
+
+        Information collected through the use of a pen register or trap and trace device installed under this section shall be subject to the policies and procedures required under [section 1842(h) of this title][/us/usc/t50/s1842/h].
+
+([Pub. L. 95–511, title IV, § 403][/us/pl/95/511/s403], as added [Pub. L. 105–272, title VI, § 601(2)][/us/pl/105/272/s601/2], Oct. 20, 1998, [112 Stat. 2407][/us/stat/112/2407]; amended [Pub. L. 107–56, title II, § 214(b)][/us/pl/107/56/s214/b], Oct. 26, 2001, [115 Stat. 287][/us/stat/115/287]; [Pub. L. 110–261, title I, § 108][/us/pl/110/261/s108], July 10, 2008, [122 Stat. 2464][/us/stat/122/2464]; [Pub. L. 114–23, title II, § 202(b)][/us/pl/114/23/s202/b], June 2, 2015, [129 Stat. 278][/us/stat/129/278].)
 
  __Amendments__ 
+
+    2015—Subsec. (d). [Pub. L. 114–23][/us/pl/114/23] added subsec. (d).
 
     2008—Subsecs. (a)(2), (c)(1)(C). [Pub. L. 110–261][/us/pl/110/261] substituted “7 days” for “48 hours”.
 
@@ -72,6 +78,7 @@
 [/us/usc/t50/s1842]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1842
 [/us/usc/t50/s1842]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1842
 [/us/usc/t50/s1842]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1842
+[/us/usc/t50/s1842/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1842%2Fh
 [/us/pl/95/511/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F511%2Fs403
 [/us/pl/105/272/s601/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F272%2Fs601%2F2
 [/us/stat/112/2407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2407
@@ -79,6 +86,9 @@
 [/us/stat/115/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F287
 [/us/pl/110/261/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F261%2Fs108
 [/us/stat/122/2464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2464
+[/us/pl/114/23/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23%2Fs202%2Fb
+[/us/stat/129/278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F278
+[/us/pl/114/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23
 [/us/pl/110/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F261
 [/us/pl/107/56/s214/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs214%2Fb%2F1
 [/us/pl/107/56/s214/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs214%2Fb%2F2

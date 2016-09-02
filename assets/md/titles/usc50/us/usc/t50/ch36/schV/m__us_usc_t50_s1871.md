@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t50/ch36/schV/m__us_usc_t50_ch36_schV.md) | [Next](./../../../../..//us/usc/t50/ch36/schVI/m__us_usc_t50_ch36_schVI.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1871)
+[Previous](./../../../../..//us/usc/t50/ch36/schV/m__us_usc_t50_ch36_schV.md) | [Next](./../../../../..//us/usc/t50/ch36/schV/m__us_usc_t50_s1872.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1871)
 
 ## § 1871. Semiannual report of the Attorney General
 
@@ -51,7 +51,7 @@
 
     The Attorney General shall submit to the committees of Congress referred to in subsection (a)—
 
-        (1) a copy of any decision, order, or opinion issued by the Foreign Intelligence Surveillance Court or the Foreign Intelligence Surveillance Court of Review that includes significant construction or interpretation of any provision of this chapter, and any pleadings, applications, or memoranda of law associated with such decision, order, or opinion, not later than 45 days after such decision, order, or opinion is issued; and
+        (1) not later than 45 days after the date on which the Foreign Intelligence Surveillance Court or the Foreign Intelligence Surveillance Court of Review issues a decision, order, or opinion, including any denial or modification of an application under this chapter, that includes significant construction or interpretation of any provision of law or results in a change of application of any provision of this chapter or a novel application of any provision of this chapter, a copy of such decision, order, or opinion and any pleadings, applications, or memoranda of law associated with such decision, order, or opinion; and
 
         (2) a copy of each such decision, order, or opinion, and any pleadings, applications, or memoranda of law associated with such decision, order, or opinion, that was issued during the 5-year period ending on July 10, 2008, and not previously submitted in a report under subsection (a).
 
@@ -71,7 +71,7 @@
 
             The term “Foreign Intelligence Surveillance Court of Review” means the court established under [section 1803(b) of this title][/us/usc/t50/s1803/b].
 
-([Pub. L. 95–511, title VI, § 601][/us/pl/95/511/s601], as added [Pub. L. 108–458, title VI, § 6002(a)(2)][/us/pl/108/458/s6002/a/2], Dec. 17, 2004, [118 Stat. 3743][/us/stat/118/3743]; amended [Pub. L. 110–261, title I][/us/pl/110/261], §§ 101(c)(2), 103, title IV, § 403(b)(2)(B), July 10, 2008, [122 Stat. 2459][/us/stat/122/2459], 2460, 2474.)
+([Pub. L. 95–511, title VI, § 601][/us/pl/95/511/s601], as added [Pub. L. 108–458, title VI, § 6002(a)(2)][/us/pl/108/458/s6002/a/2], Dec. 17, 2004, [118 Stat. 3743][/us/stat/118/3743]; amended [Pub. L. 110–261, title I][/us/pl/110/261], §§ 101(c)(2), 103, title IV, § 403(b)(2)(B), July 10, 2008, [122 Stat. 2459][/us/stat/122/2459], 2460, 2474; [Pub. L. 114–23, title VI, § 604][/us/pl/114/23/s604], June 2, 2015, [129 Stat. 297][/us/stat/129/297].)
 
  __Amendment of Subsection (a)(1)__ 
 
@@ -87,6 +87,8 @@
 
  __Amendments__ 
 
+    2015—Subsec. (c)(1). [Pub. L. 114–23][/us/pl/114/23] amended par. (1) generally. Prior to amendment, par. (1) read as follows: “a copy of any decision, order, or opinion issued by the Foreign Intelligence Surveillance Court or the Foreign Intelligence Surveillance Court of Review that includes significant construction or interpretation of any provision of this chapter, and any pleadings, applications, or memoranda of law associated with such decision, order, or opinion, not later than 45 days after such decision, order, or opinion is issued; and”.
+
     2008—Subsec. (a)(1)(E), (F). [Pub. L. 110–261, § 101(c)(2)][/us/pl/110/261/s101/c/2], added subpars. (E) and (F).
 
     Subsec. (a)(5). [Pub. L. 110–261, § 103(a)][/us/pl/110/261/s103/a], substituted “, orders,” for “(not including orders)”.
@@ -101,7 +103,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t50/ch36/schV/m__us_usc_t50_ch36_schV.md) | [Next](./../../../../..//us/usc/t50/ch36/schVI/m__us_usc_t50_ch36_schVI.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1871)
+[Previous](./../../../../..//us/usc/t50/ch36/schV/m__us_usc_t50_ch36_schV.md) | [Next](./../../../../..//us/usc/t50/ch36/schV/m__us_usc_t50_s1872.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1871)
 
 ----------
 ----------
@@ -120,6 +122,8 @@
 [/us/stat/118/3743]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3743
 [/us/pl/110/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F261
 [/us/stat/122/2459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2459
+[/us/pl/114/23/s604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23%2Fs604
+[/us/stat/129/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F297
 [/us/pl/110/261/s403/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F261%2Fs403%2Fb%2F2
 [/us/stat/122/2474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2474
 [/us/pl/112/238/s2/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F238%2Fs2%2Fa%2F2
@@ -132,6 +136,7 @@
 [/us/pl/95/511/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F511%2Fs601
 [/us/usc/t50/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1801
 [/us/pl/110/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F261
+[/us/pl/114/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23
 [/us/pl/110/261/s101/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F261%2Fs101%2Fc%2F2
 [/us/pl/110/261/s103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F261%2Fs103%2Fa
 [/us/pl/110/261/s103/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F261%2Fs103%2Fb

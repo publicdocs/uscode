@@ -21,7 +21,7 @@
 
  __References in Text__ 
 
-    This Act, referred to in text, is div. D of [Pub. L. 113–235][/us/pl/113/235], known as the Energy and Water Development and Related Agencies Appropriations Act, 2015. For complete classification of this Act to the Code, see Tables.
+    This Act, referred to in text, is div. D of [Pub. L. 113–235][/us/pl/113/235], Dec. 16, 2014, [128 Stat. 2303][/us/stat/128/2303], known as the Energy and Water Development and Related Agencies Appropriations Act, 2015. For complete classification of this Act to the Code, see Tables.
 
  __Codification__ 
 
@@ -37,5 +37,6 @@
 [/us/pl/113/235/s311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs311
 [/us/stat/128/2326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2326
 [/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
+[/us/stat/128/2303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2303
 
 

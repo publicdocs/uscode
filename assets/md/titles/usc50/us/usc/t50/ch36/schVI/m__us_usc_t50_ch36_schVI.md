@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t50/ch36/schV/m__us_usc_t50_s1871.md) | [Next](./../../../../..//us/usc/t50/ch36/schVI/m__us_usc_t50_s1881.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fch36%2FschVI)
+[Previous](./../../../../..//us/usc/t50/ch36/schV/m__us_usc_t50_s1874.md) | [Next](./../../../../..//us/usc/t50/ch36/schVI/m__us_usc_t50_s1881.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fch36%2FschVI)
 
 ### SUBCHAPTER VI—ADDITIONAL PROCEDURES REGARDING CERTAIN PERSONS OUTSIDE THE UNITED STATES
 
 ----------
 
-[Previous](./../../../../..//us/usc/t50/ch36/schV/m__us_usc_t50_s1871.md) | [Next](./../../../../..//us/usc/t50/ch36/schVI/m__us_usc_t50_s1881.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fch36%2FschVI)
+[Previous](./../../../../..//us/usc/t50/ch36/schV/m__us_usc_t50_s1874.md) | [Next](./../../../../..//us/usc/t50/ch36/schVI/m__us_usc_t50_s1881.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fch36%2FschVI)
 
 ----------
 ----------

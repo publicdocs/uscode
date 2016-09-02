@@ -21,7 +21,7 @@
 
         (1) __Agency__ 
 
-            The term “agency” means an executive department or independent establishment, as defined under sections 101 and 104 of title 5, United States Code, that contains an intelligence community element, except the Federal Bureau of Investigation.
+            The term “agency” means an executive department or independent establishment, as defined under sections 101 and 104 of title 5, that contains an intelligence community element, except the Federal Bureau of Investigation.
 
         (2) __Covered intelligence community element__ 
 

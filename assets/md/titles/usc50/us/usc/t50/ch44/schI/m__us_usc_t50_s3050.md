@@ -57,7 +57,7 @@
 
  __References in Text__ 
 
-    The General Schedule, referred to in subsec. (b)(2), is set out under [section 5332 of Title 5][/us/usc/t5/s5332], Government Organization and Employees.
+    The General Schedule, referred to in subsec. (b)(2)(A), is set out under [section 5332 of Title 5][/us/usc/t5/s5332], Government Organization and Employees.
 
  __Codification__ 
 
@@ -65,13 +65,19 @@
 
  __Amendments__ 
 
-    2014—[Pub. L. 113–126, § 329(a)(1)][/us/pl/113/126/s329/a/1], (c)(2)(A)–(C), substituted “Annual report on hiring and retention of minority employees” for “Additional annual reports from the Director of National Intelligence” in section catchline, struck out subsec. (a) designation and heading “Annual report on hiring and retention of minority employees”, redesignated pars. (1) to (5) of former subsec. (a) as subsecs. (a) to (e), respectively, and struck out former subsec. (b) which related to annual report on threat of attack on the United States using weapons of mass destruction.
+    2014—[Pub. L. 113–126, § 329(c)(2)(A)][/us/pl/113/126/s329/c/2/A], substituted “Annual report on hiring and retention of minority employees” for “Additional annual reports from the Director of National Intelligence” in section catchline.
 
-    Subsec. (b). [Pub. L. 113–126, § 329(c)(2)(D)][/us/pl/113/126/s329/c/2/D], redesignated subpars. (A) to (C) of former subsec. (a)(2) as pars. (1) to (3), respectively, of subsec. (b), substituted “subparagraphs (A) and (B)” for “clauses (i) and (ii)” in introductory provisions of par. (2), and redesignated cls. (i) and (ii) of former subpar. (B) as subpars. (A) and (B), respectively, of par. (2).
+    Subsec. (a). [Pub. L. 113–126, § 329(c)(2)(B)][/us/pl/113/126/s329/c/2/B], (C), struck out subsec. (a) designation and heading “Annual report on hiring and retention of minority employees” and redesignated par. (1) as subsec. (a). Former pars. (2) to (5) redesignated subsecs. (b) to (e), respectively.
 
-    Subsec. (d). [Pub. L. 113–126, § 329(c)(2)(E)][/us/pl/113/126/s329/c/2/E], substituted “this section” for “this subsection”.
+    Subsec. (b). [Pub. L. 113–126, § 329(c)(2)(C)][/us/pl/113/126/s329/c/2/C], (D), redesignated subsec. (a)(2) as (b), redesignated subsec. (a)(2), subpars. (A) to (C) as subsec. (b), pars. (1) to (3), respectively, and in par. (2) substituted “subparagraphs (A) and (B)” for “clauses (i) and (ii)” in introductory provisions and redesignated cls. (i) and (ii) as subpars. (A) and (B), respectively.
 
-    Subsec. (e). [Pub. L. 113–126, § 329(c)(2)(F)][/us/pl/113/126/s329/c/2/F], in introductory provisions, substituted “this section” for “this subsection,” and redesignated subpars. (A) to (C) of former subsec. (a)(5) as pars. (1) to (3), respectively, of subsec. (e).
+    [Pub. L. 113–126, § 329(a)(1)][/us/pl/113/126/s329/a/1], struck out subsec. (b) which related to annual report on threat of attack on the United States using weapons of mass destruction.
+
+    Subsec. (c). [Pub. L. 113–126, § 329(c)(2)(C)][/us/pl/113/126/s329/c/2/C], redesignated subsec. (a)(3) as (c).
+
+    Subsec. (d). [Pub. L. 113–126, § 329(c)(2)(C)][/us/pl/113/126/s329/c/2/C], (E), redesignated subsec. (a)(4) as (d) and substituted “section” for “subsection”.
+
+    Subsec. (e). [Pub. L. 113–126, § 329(c)(2)(C)][/us/pl/113/126/s329/c/2/C], (F), redesignated subsec. (a)(5) as (e), substituted “section” for “subsection,” in introductory provisions, and redesignated subsec. (a)(5), subpars. (A) and (B) as subsec. (e), pars. (1) and (2), respectively.
 
     2013—[Pub. L. 112–277][/us/pl/112/277] redesignated subsecs. (b) and (c) as (a) and (b), respectively, struck out former subsec. (a) which required annual reports on the safety and security of Russian nuclear facilities and nuclear military forces, and struck out subsec. (d) which defined the term “congressional leadership”.
 
@@ -203,10 +209,13 @@
 [/us/stat/128/1405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1405
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
 [/us/usc/t50/s404i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs404i
+[/us/pl/113/126/s329/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126%2Fs329%2Fc%2F2%2FA
+[/us/pl/113/126/s329/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126%2Fs329%2Fc%2F2%2FB
+[/us/pl/113/126/s329/c/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126%2Fs329%2Fc%2F2%2FC
 [/us/pl/113/126/s329/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126%2Fs329%2Fa%2F1
-[/us/pl/113/126/s329/c/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126%2Fs329%2Fc%2F2%2FD
-[/us/pl/113/126/s329/c/2/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126%2Fs329%2Fc%2F2%2FE
-[/us/pl/113/126/s329/c/2/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126%2Fs329%2Fc%2F2%2FF
+[/us/pl/113/126/s329/c/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126%2Fs329%2Fc%2F2%2FC
+[/us/pl/113/126/s329/c/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126%2Fs329%2Fc%2F2%2FC
+[/us/pl/113/126/s329/c/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126%2Fs329%2Fc%2F2%2FC
 [/us/pl/112/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F277
 [/us/pl/108/458/s1071/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs1071%2Fa%2F7
 [/us/pl/108/458/s1071/a/1/N]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs1071%2Fa%2F1%2FN

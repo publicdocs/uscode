@@ -2841,7 +2841,7 @@ Sec. 3.6. Processing Requests and Reviews. Notwithstanding section 4.1(i) of thi
 
                               Barack Obama.
 
-    \[Reference to the National Security Staff deemed to be a reference to the National Security Council Staff, see Ex. Ord. No. 13657, set out as a note under [section 3021 of this title][/us/usc/t50/s3021].\]
+    \[Reference to the National Security Staff deemed to be a reference to the National Security Council staff, see Ex. Ord. No. 13657, set out as a note under [section 3021 of this title][/us/usc/t50/s3021].\]
 
  __Implementation of the Executive Order, “Classified National Security Information”__ 
 
