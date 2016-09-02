@@ -37,7 +37,7 @@
 
  __Improvement of Intelligence Capabilities; Directorate of Intelligence; Intelligence Career Service__ 
 
-[Pub. L. 108–458, title II][/us/pl/108/458], §§ 2001–2003, Dec. 17, 2004, [118 Stat. 3700][/us/stat/118/3700], 3702, as amended by [Pub. L. 111–259, title VIII, § 806(b)(1)][/us/pl/111/259/s806/b/1], Oct. 7, 2010, [124 Stat. 2748][/us/stat/124/2748], provided that:
+[Pub. L. 108–458, title II][/us/pl/108/458], §§ 2001–2003, Dec. 17, 2004, [118 Stat. 3700][/us/stat/118/3700], 3702, as amended by [Pub. L. 111–259, title VIII, § 806(b)(1)][/us/pl/111/259/s806/b/1], Oct. 7, 2010, [124 Stat. 2748][/us/stat/124/2748]; [Pub. L. 114–113, div. M, title VII, § 701(b)][/us/pl/114/113/s701/b], Dec. 18, 2015, [129 Stat. 2929][/us/stat/129/2929], provided that:
 
 > “SEC. 2001. __IMPROVEMENT OF INTELLIGENCE CAPABILITIES OF THE FEDERAL BUREAU OF INVESTIGATION.__ 
 
@@ -109,9 +109,7 @@
 
 >         “(2) The Director shall include in each annual program review of the Federal Bureau of Investigation that is submitted to Congress a report on the progress made by each field office of the Bureau during the period covered by such review in addressing Bureau and national program priorities.
 
->         “(3) Not later than 180 days after the date of the enactment of this Act, and every 12 months thereafter, the Director shall submit to Congress a report assessing the qualifications, status, and roles of analysts at Bureau headquarters and in the field offices of the Bureau.
-
->         “(4) Not later than 180 days after the date of the enactment of this Act, and every 12 months thereafter, the Director shall submit to Congress a report on the progress of the Bureau in implementing information-sharing principles.
+>         “(3) Not later than 180 days after the date of the enactment of this Act, and every 12 months thereafter, the Director shall submit to Congress a report on the progress of the Bureau in implementing information-sharing principles.
 
 > “SEC. 2002. __DIRECTORATE OF INTELLIGENCE OF THE FEDERAL BUREAU OF INVESTIGATION.__ 
 
@@ -280,6 +278,8 @@
 [/us/stat/118/3700]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3700
 [/us/pl/111/259/s806/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs806%2Fb%2F1
 [/us/stat/124/2748]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2748
+[/us/pl/114/113/s701/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs701%2Fb
+[/us/stat/129/2929]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2929
 [/us/usc/t50/s403–5b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs403%E2%80%935b
 [/us/usc/t50/s3040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3040
 [/us/usc/t5/s5315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5315
