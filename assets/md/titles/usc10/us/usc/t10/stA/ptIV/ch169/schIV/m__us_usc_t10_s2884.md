@@ -87,7 +87,7 @@
 
     (c)  __Annual Report on Privatization Projects__  __.—__ 
 
-    The Secretary of Defense shall submit to the congressional defense committees a semi-annual report containing on  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “an”. </sup></sup>  evaluation of the status of oversight and accountability measures under [section 2885 of this title][/us/usc/t10/s2885] for military housing privatization projects. To the extent each Secretary concerned has the right to attain the information described in this subsection, each report shall include, at a minimum, the following:
+    The Secretary of Defense shall submit to the congressional defense committees a semi-annual report containing an evaluation of the status of oversight and accountability measures under [section 2885 of this title][/us/usc/t10/s2885] for military housing privatization projects. To the extent each Secretary concerned has the right to attain the information described in this subsection, each report shall include, at a minimum, the following:
 
         (1) An assessment of the backlog of maintenance and repair at each military housing privatization project where a significant backlog exists, including an estimation of the cost of eliminating the maintenance and repair backlog.
 
@@ -101,9 +101,11 @@
 
         (6) An assessment of cost assessed to members of the armed forces for utilities compared to utility rates in the local area.
 
-(Added [Pub. L. 104–106, div. B, title XXVIII, § 2801(a)(1)][/us/pl/104/106/s2801/a/1], Feb. 10, 1996, [110 Stat. 550][/us/stat/110/550]; amended [Pub. L. 108–136, div. B, title XXVIII, § 2807][/us/pl/108/136/s2807], Nov. 24, 2003, [117 Stat. 1722][/us/stat/117/1722]; [Pub. L. 108–375, div. B, title XXVIII, § 2806][/us/pl/108/375/s2806], Oct. 28, 2004, [118 Stat. 2122][/us/stat/118/2122]; [Pub. L. 109–163, div. B, title XXVIII, § 2806(c)][/us/pl/109/163/s2806/c], Jan. 6, 2006, [119 Stat. 3507][/us/stat/119/3507]; [Pub. L. 110–417, div. B, title XXVIII, § 2805(b)][/us/pl/110/417/s2805/b], (f), Oct. 14, 2008, [122 Stat. 4723][/us/stat/122/4723], 4724; [Pub. L. 111–383, div. A, title X, § 1075(h)(6)][/us/pl/111/383/s1075/h/6], div. B, title XXVIII, § 2803(g), Jan. 7, 2011, [124 Stat. 4377][/us/stat/124/4377], 4459; [Pub. L. 112–239, div. B, title XXVIII, § 2803(b)][/us/pl/112/239/s2803/b], Jan. 2, 2013, [126 Stat. 2148][/us/stat/126/2148]; [Pub. L. 113–66, div. B, title XXVIII, § 2806][/us/pl/113/66/s2806], Dec. 26, 2013, [127 Stat. 1008][/us/stat/127/1008].)
+(Added [Pub. L. 104–106, div. B, title XXVIII, § 2801(a)(1)][/us/pl/104/106/s2801/a/1], Feb. 10, 1996, [110 Stat. 550][/us/stat/110/550]; amended [Pub. L. 108–136, div. B, title XXVIII, § 2807][/us/pl/108/136/s2807], Nov. 24, 2003, [117 Stat. 1722][/us/stat/117/1722]; [Pub. L. 108–375, div. B, title XXVIII, § 2806][/us/pl/108/375/s2806], Oct. 28, 2004, [118 Stat. 2122][/us/stat/118/2122]; [Pub. L. 109–163, div. B, title XXVIII, § 2806(c)][/us/pl/109/163/s2806/c], Jan. 6, 2006, [119 Stat. 3507][/us/stat/119/3507]; [Pub. L. 110–417, div. B, title XXVIII, § 2805(b)][/us/pl/110/417/s2805/b], (f), Oct. 14, 2008, [122 Stat. 4723][/us/stat/122/4723], 4724; [Pub. L. 111–383, div. A, title X, § 1075(h)(6)][/us/pl/111/383/s1075/h/6], div. B, title XXVIII, § 2803(g), Jan. 7, 2011, [124 Stat. 4377][/us/stat/124/4377], 4459; [Pub. L. 112–239, div. B, title XXVIII, § 2803(b)][/us/pl/112/239/s2803/b], Jan. 2, 2013, [126 Stat. 2148][/us/stat/126/2148]; [Pub. L. 113–66, div. B, title XXVIII, § 2806][/us/pl/113/66/s2806], Dec. 26, 2013, [127 Stat. 1008][/us/stat/127/1008]; [Pub. L. 113–291, div. A, title X, § 1071(f)(26)][/us/pl/113/291/s1071/f/26], Dec. 19, 2014, [128 Stat. 3511][/us/stat/128/3511].)
 
  __Amendments__ 
+
+    2014—Subsec. (c). [Pub. L. 113–291][/us/pl/113/291] substituted “an evaluation” for “on evaluation” in introductory provisions.
 
     2013—Subsecs. (b), (c). [Pub. L. 112–239][/us/pl/112/239] added subsecs. (b) and (c) and struck out former subsec. (b) which required the Secretary of Defense to provide annual reports to Congress.
 
@@ -173,6 +175,9 @@
 [/us/stat/126/2148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2148
 [/us/pl/113/66/s2806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs2806
 [/us/stat/127/1008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1008
+[/us/pl/113/291/s1071/f/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Ff%2F26
+[/us/stat/128/3511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3511
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/pl/111/383/s2803/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs2803%2Fg

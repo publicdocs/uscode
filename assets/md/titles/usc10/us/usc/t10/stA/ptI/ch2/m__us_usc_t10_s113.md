@@ -17,7 +17,7 @@
 
     (a) There is a Secretary of Defense, who is the head of the Department of Defense, appointed from civilian life by the President, by and with the advice and consent of the Senate. A person may not be appointed as Secretary of Defense within seven years after relief from active duty as a commissioned officer of a regular component of an armed force.
 
-    (b) The Secretary is the principal assistant to the President in all matters relating to the Department of Defense. Subject to the direction of the President and to this title and section 2 of the National Security Act of 1947 ([50 U.S.C. 401][/us/usc/t50/s401]), <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  he has authority, direction, and control over the Department of Defense.
+    (b) The Secretary is the principal assistant to the President in all matters relating to the Department of Defense. Subject to the direction of the President and to this title and section 2 of the National Security Act of 1947 ([50 U.S.C. 3002][/us/usc/t50/s3002]) he has authority, direction, and control over the Department of Defense.
 
     (c)
 
@@ -47,7 +47,7 @@
 
             (C) the justification for those military missions and that force structure.
 
-        (2) In preparing the matter referred to in paragraph (1), the Secretary shall take into consideration the content of the annual national security strategy report of the President under section 108 of the National Security Act of 1947 ([50 U.S.C. 404a][/us/usc/t50/s404a]) 1 for the fiscal year concerned.
+        (2) In preparing the matter referred to in paragraph (1), the Secretary shall take into consideration the content of the annual national security strategy report of the President under section 108 of the National Security Act of 1947 ([50 U.S.C. 3043][/us/usc/t50/s3043]) for the fiscal year concerned.
 
     (f) When a vacancy occurs in an office within the Department of Defense and the office is to be filled by a person appointed from civilian life by the President, by and with the advice and consent of the Senate, the Secretary of Defense shall inform the President of the qualifications needed by a person serving in that office to carry out effectively the duties and responsibilities of that office.
 
@@ -139,7 +139,7 @@
 
         (2) What the President has identified on the basis of those objectives as the date, or the set of conditions, that defines the endpoint of the operation.
 
-(Added [Pub. L. 87–651, title II, § 202][/us/pl/87/651/s202], Sept. 7, 1962, [76 Stat. 517][/us/stat/76/517], § 133; amended [Pub. L. 96–513, title V, § 511(3)][/us/pl/96/513/s511/3], Dec. 12, 1980, [94 Stat. 2920][/us/stat/94/2920]; [Pub. L. 97–252, title XI, § 1105][/us/pl/97/252/s1105], Sept. 8, 1982, [96 Stat. 739][/us/stat/96/739]; [Pub. L. 97–295, § 1(1)][/us/pl/97/295/s1/1], Oct. 12, 1982, [96 Stat. 1287][/us/stat/96/1287]; renumbered § 113 and amended [Pub. L. 99–433, title I][/us/pl/99/433], §§ 101(a)(2), 102, 110(b)(2), (d)(2), title III, § 301(b)(2), title VI, § 603(b), Oct. 1, 1986, [100 Stat. 994][/us/stat/100/994], 996, 1002, 1022, 1075; [Pub. L. 100–26, § 7(d)(1)][/us/pl/100/26/s7/d/1], Apr. 21, 1987, [101 Stat. 280][/us/stat/101/280]; [Pub. L. 100–180, div. A, title XII, § 1214][/us/pl/100/180/s1214], Dec. 4, 1987, [101 Stat. 1157][/us/stat/101/1157]; [Pub. L. 100–370, § 1][/us/pl/100/370/s1](o)(1), July 19, 1988, [102 Stat. 850][/us/stat/102/850]; [Pub. L. 100–456, div. A, title VII, § 731][/us/pl/100/456/s731], title XI, § 1101, Sept. 29, 1988, [102 Stat. 2003][/us/stat/102/2003], 2042; [Pub. L. 101–189, div. A, title XVI, § 1622(c)(1)][/us/pl/101/189/s1622/c/1], Nov. 29, 1989, [103 Stat. 1604][/us/stat/103/1604]; [Pub. L. 101–510, div. A, title XIII, § 1322(a)(1)][/us/pl/101/510/s1322/a/1], Nov. 5, 1990, [104 Stat. 1671][/us/stat/104/1671]; [Pub. L. 102–190, div. A, title III, § 341][/us/pl/102/190/s341], Dec. 5, 1991, [105 Stat. 1343][/us/stat/105/1343]; [Pub. L. 103–337, div. A, title X, § 1070(a)(1)][/us/pl/103/337/s1070/a/1], title XVI, § 1671(c)(2), Oct. 5, 1994, [108 Stat. 2855][/us/stat/108/2855], 3014; [Pub. L. 104–106, div. A, title XV][/us/pl/104/106], §§ 1501(a)(8)(B), 1502(a)(3), 1503(a)(1), Feb. 10, 1996, [110 Stat. 495][/us/stat/110/495], 502, 510; [Pub. L. 104–201, div. A, title XII, § 1255(c)][/us/pl/104/201/s1255/c], Sept. 23, 1996, [110 Stat. 2698][/us/stat/110/2698]; [Pub. L. 105–85, div. A, title IX, § 903][/us/pl/105/85/s903], Nov. 18, 1997, [111 Stat. 1854][/us/stat/111/1854]; [Pub. L. 105–261, div. A, title IX, § 915(a)][/us/pl/105/261/s915/a], title XII, § 1212(b), Oct. 17, 1998, [112 Stat. 2101][/us/stat/112/2101], 2152; [Pub. L. 106–65, div. A, title X, § 1067(1)][/us/pl/106/65/s1067/1], Oct. 5, 1999, [113 Stat. 774][/us/stat/113/774]; [Pub. L. 110–181, div. A, title IX, § 903(a)][/us/pl/110/181/s903/a], title XVIII, § 1815(e), Jan. 28, 2008, [122 Stat. 273][/us/stat/122/273], 500; [Pub. L. 111–383, div. A, title V, § 514(b)][/us/pl/111/383/s514/b], Jan. 7, 2011, [124 Stat. 4213][/us/stat/124/4213]; [Pub. L. 112–81, div. A, title IX, § 933(a)][/us/pl/112/81/s933/a], title X, § 1064(1), Dec. 31, 2011, [125 Stat. 1543][/us/stat/125/1543], 1586; [Pub. L. 112–239, div. A, title X, § 1076(f)(1)][/us/pl/112/239/s1076/f/1], Jan. 2, 2013, [126 Stat. 1951][/us/stat/126/1951].)
+(Added [Pub. L. 87–651, title II, § 202][/us/pl/87/651/s202], Sept. 7, 1962, [76 Stat. 517][/us/stat/76/517], § 133; amended [Pub. L. 96–513, title V, § 511(3)][/us/pl/96/513/s511/3], Dec. 12, 1980, [94 Stat. 2920][/us/stat/94/2920]; [Pub. L. 97–252, title XI, § 1105][/us/pl/97/252/s1105], Sept. 8, 1982, [96 Stat. 739][/us/stat/96/739]; [Pub. L. 97–295, § 1(1)][/us/pl/97/295/s1/1], Oct. 12, 1982, [96 Stat. 1287][/us/stat/96/1287]; renumbered § 113 and amended [Pub. L. 99–433, title I][/us/pl/99/433], §§ 101(a)(2), 102, 110(b)(2), (d)(2), title III, § 301(b)(2), title VI, § 603(b), Oct. 1, 1986, [100 Stat. 994][/us/stat/100/994], 996, 1002, 1022, 1075; [Pub. L. 100–26, § 7(d)(1)][/us/pl/100/26/s7/d/1], Apr. 21, 1987, [101 Stat. 280][/us/stat/101/280]; [Pub. L. 100–180, div. A, title XII, § 1214][/us/pl/100/180/s1214], Dec. 4, 1987, [101 Stat. 1157][/us/stat/101/1157]; [Pub. L. 100–370, § 1][/us/pl/100/370/s1](o)(1), July 19, 1988, [102 Stat. 850][/us/stat/102/850]; [Pub. L. 100–456, div. A, title VII, § 731][/us/pl/100/456/s731], title XI, § 1101, Sept. 29, 1988, [102 Stat. 2003][/us/stat/102/2003], 2042; [Pub. L. 101–189, div. A, title XVI, § 1622(c)(1)][/us/pl/101/189/s1622/c/1], Nov. 29, 1989, [103 Stat. 1604][/us/stat/103/1604]; [Pub. L. 101–510, div. A, title XIII, § 1322(a)(1)][/us/pl/101/510/s1322/a/1], Nov. 5, 1990, [104 Stat. 1671][/us/stat/104/1671]; [Pub. L. 102–190, div. A, title III, § 341][/us/pl/102/190/s341], Dec. 5, 1991, [105 Stat. 1343][/us/stat/105/1343]; [Pub. L. 103–337, div. A, title X, § 1070(a)(1)][/us/pl/103/337/s1070/a/1], title XVI, § 1671(c)(2), Oct. 5, 1994, [108 Stat. 2855][/us/stat/108/2855], 3014; [Pub. L. 104–106, div. A, title XV][/us/pl/104/106], §§ 1501(a)(8)(B), 1502(a)(3), 1503(a)(1), Feb. 10, 1996, [110 Stat. 495][/us/stat/110/495], 502, 510; [Pub. L. 104–201, div. A, title XII, § 1255(c)][/us/pl/104/201/s1255/c], Sept. 23, 1996, [110 Stat. 2698][/us/stat/110/2698]; [Pub. L. 105–85, div. A, title IX, § 903][/us/pl/105/85/s903], Nov. 18, 1997, [111 Stat. 1854][/us/stat/111/1854]; [Pub. L. 105–261, div. A, title IX, § 915(a)][/us/pl/105/261/s915/a], title XII, § 1212(b), Oct. 17, 1998, [112 Stat. 2101][/us/stat/112/2101], 2152; [Pub. L. 106–65, div. A, title X, § 1067(1)][/us/pl/106/65/s1067/1], Oct. 5, 1999, [113 Stat. 774][/us/stat/113/774]; [Pub. L. 110–181, div. A, title IX, § 903(a)][/us/pl/110/181/s903/a], title XVIII, § 1815(e), Jan. 28, 2008, [122 Stat. 273][/us/stat/122/273], 500; [Pub. L. 111–383, div. A, title V, § 514(b)][/us/pl/111/383/s514/b], Jan. 7, 2011, [124 Stat. 4213][/us/stat/124/4213]; [Pub. L. 112–81, div. A, title IX, § 933(a)][/us/pl/112/81/s933/a], title X, § 1064(1), Dec. 31, 2011, [125 Stat. 1543][/us/stat/125/1543], 1586; [Pub. L. 112–239, div. A, title X, § 1076(f)(1)][/us/pl/112/239/s1076/f/1], Jan. 2, 2013, [126 Stat. 1951][/us/stat/126/1951]; [Pub. L. 113–291, div. A, title X, § 1071(c)(1)][/us/pl/113/291/s1071/c/1], (2), Dec. 19, 2014, [128 Stat. 3508][/us/stat/128/3508].)
 
 <table>
 
@@ -357,11 +357,11 @@ Oct. 7, 1975, Pub. L. 94–106, § 812, 89 Stat. 540.  </td>
 
     In codifying this provision, the committee also changed the term “United States troops” in the source law to “United States forces” for consistency in usage in title 10 and as being preferable usage. No change in meaning is intended. The committee also changed “overseas” to “outside the United States” and defined “United States” for this purpose to include the territories and possessions of the United States. The committee was concerned that the term “overseas” read literally could include Hawaii or Guam, an interpretation clearly not intended in enacting section 8042. The committee notes that the Senate report referred to above states “For the purposes of this report \[meaning the new DOD annual report\], U.S. forces stationed overseas are considered to be those outside of the United States and its territories.”. The committee extrapolates from this statement that provisions in the report requirement relating to expenditures “overseas” and costs incurred “overseas” are also to be construed as relating to matters outside the United States and its territories and has prepared the codified provision accordingly.
 
- __References in Text__ 
-
-    The National Security Act of 1947, referred to in subsecs. (b) and (e)(2), is [act July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], [61 Stat. 495][/us/stat/61/495], which was formerly classified principally to chapter 15 (§ 401 et seq.) of Title 50, War and National Defense, prior to editorial reclassification in chapter 44 (§ 3001 et seq.) of Title 50. Sections 2 and 108 of the Act are now classified to sections 3002 and 3043, respectively, of Title 50. For complete classification of this Act to the Code, see Tables.
-
  __Amendments__ 
+
+    2014—Subsec. (b). [Pub. L. 113–291, § 1071(c)(1)][/us/pl/113/291/s1071/c/1], substituted “([50 U.S.C. 3002][/us/usc/t50/s3002])” for “([50 U.S.C. 401][/us/usc/t50/s401])”.
+
+    Subsec. (e)(2). [Pub. L. 113–291, § 1071(c)(2)][/us/pl/113/291/s1071/c/2], substituted “([50 U.S.C. 3043][/us/usc/t50/s3043])” for “([50 U.S.C. 404a][/us/usc/t50/s404a])”.
 
     2013—Subsec. (c)(2). [Pub. L. 112–239][/us/pl/112/239] struck out “on” after “Board on”.
 
@@ -469,6 +469,54 @@ Oct. 7, 1975, Pub. L. 94–106, § 812, 89 Stat. 540.  </td>
 
     For order of succession during any period when the Secretary has died, resigned, or is otherwise unable to perform the functions and duties of the office of Secretary, see Ex. Ord. No. 13533, Mar. 1, 2010, 75 F.R. 10163, listed in a table under [section 3345 of Title 5][/us/usc/t5/s3345], Government Organization and Employees.
 
+ __Role of Secretary of Defense in Development of Gender-Neutral Occupational Standards__ 
+
+[Pub. L. 113–291, div. A, title V, § 524(a)][/us/pl/113/291/s524/a], Dec. 19, 2014, [128 Stat. 3361][/us/stat/128/3361], provided that: 
+
+> “The Secretary of Defense shall ensure that the gender-neutral occupational standards being developed by the Secretaries of the military departments pursuant to section 543 of the National Defense Authorization Act for Fiscal Year 1994 ([Public Law 103–160][/us/pl/103/160]; [10 U.S.C. 113][/us/usc/t10/s113] note), as amended by section 523 of the National Defense Authorization Act for Fiscal Year 2014 ([Public Law 113–66][/us/pl/113/66]; [127 Stat. 756][/us/stat/127/756])—
+
+>     “(1) accurately predict performance of actual, regular, and recurring duties of a military occupation; and
+
+>     “(2) are applied equitably to measure individual capabilities.”
+
+ __Female Personal Protection Gear__ 
+
+[Pub. L. 113–291, div. A, title V, § 524(b)][/us/pl/113/291/s524/b], Dec. 19, 2014, [128 Stat. 3362][/us/stat/128/3362], provided that: 
+
+> “The Secretary of Defense shall direct each Secretary of a military department to take immediate steps to ensure that combat equipment distributed to female members of the Armed Forces—
+
+>     “(1) is properly designed and fitted; and
+
+>     “(2) meets required standards for wear and survivability.”
+
+ __Office of Net Assessment__ 
+
+[Pub. L. 113–291, div. A, title IX, § 904][/us/pl/113/291/s904], Dec. 19, 2014, [128 Stat. 3471][/us/stat/128/3471], provided that:
+
+>     “(a)  __Independent Office Required__  __.—__ 
+
+>     The Secretary of Defense shall establish and maintain an independent organization within the Department of Defense to develop and coordinate net assessments of the standing, trends, and future prospects of the military capabilities and potential of the United States in comparison with the military capabilities and potential of other countries or groups of countries, so as to identify emerging or future threats or opportunities for the United States.
+
+>     “(b)  __Direct Report to the Secretary of Defense__  __.—__ 
+
+>     The head of the office established and maintained pursuant to subsection (a) shall report directly to the Secretary of Defense without intervening authority and may communicate views on matters within the responsibility of the office directly to the Secretary without obtaining the approval or concurrence of any other official within the Department of Defense.”
+
+ __Clarification of Policies on Management of Special Use Airspace of Department of Defense__ 
+
+[Pub. L. 113–291, div. A, title X, § 1076][/us/pl/113/291/s1076], Dec. 19, 2014, [128 Stat. 3519][/us/stat/128/3519], provided that:
+
+>     “(a)  __Issuance of Guidance__  __.—__ 
+
+>     Not later than 90 days after the date of the enactment of this Act \[Dec. 19, 2014\], the Secretary of Defense shall issue guidance to clarify the policies of the Department of Defense with respect to—
+
+>         “(1) the appropriate management of special use airspace managed by the Department; and
+
+>         “(2) governing access by non-Department users to such special use airspace.
+
+>     “(b)  __Briefing__  __.—__ 
+
+>     Not later than 120 days after the date of the enactment of this Act, the Secretary shall provide to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a briefing on the status of implementing the guidance issued under subsection (a).”
+
  __Provision of Military Service Records to the Secretary of Veterans Affairs in an Electronic Format__ 
 
 [Pub. L. 113–66, div. A, title V, § 525][/us/pl/113/66/s525], Dec. 26, 2013, [127 Stat. 757][/us/stat/127/757], provided that:
@@ -531,7 +579,7 @@ Oct. 7, 1975, Pub. L. 94–106, § 812, 89 Stat. 540.  </td>
 
  __Prohibition of Retaliation Against Members of the Armed Forces for Reporting a Criminal Offense__ 
 
-[Pub. L. 113–66, div. A, title XVII, § 1709(a)][/us/pl/113/66/s1709/a], (b), Dec. 26, 2013, [127 Stat. 962][/us/stat/127/962], provided that:
+[Pub. L. 113–66, div. A, title XVII, § 1709(a)][/us/pl/113/66/s1709/a], (b), Dec. 26, 2013, [127 Stat. 962][/us/stat/127/962], as amended by [Pub. L. 113–291, div. A, title X, § 1071(g)(5)][/us/pl/113/291/s1071/g/5], Dec. 19, 2014, [128 Stat. 3511][/us/stat/128/3511], provided that:
 
 >     “(a) __Regulations on Prohibition of Retaliation.—__ 
 
@@ -551,7 +599,7 @@ Oct. 7, 1975, Pub. L. 94–106, § 812, 89 Stat. 540.  </td>
 
 >             “(A) taking or threatening to take an adverse personnel action, or withholding or threatening to withhold a favorable personnel action, with respect to a member of the Armed Forces because the member reported a criminal offense; and
 
->             “(B) ostracism and such of \[sic\] acts of maltreatment, as designated by the Secretary of Defense, committed by peers of a member of the Armed Forces or by other persons because the member reported a criminal offense.
+>             “(B) ostracism and such acts of maltreatment, as designated by the Secretary of Defense, committed by peers of a member of the Armed Forces or by other persons because the member reported a criminal offense.
 
 >         “(2)  __Personnel actions__  __.—__ 
 
@@ -689,7 +737,7 @@ Oct. 7, 1975, Pub. L. 94–106, § 812, 89 Stat. 540.  </td>
 
  __Authority to Support Operations and Activities of the Office of Security Cooperation in Iraq__ 
 
-[Pub. L. 112–81, div. A, title XII, § 1215][/us/pl/112/81/s1215], Dec. 31, 2011, [125 Stat. 1631][/us/stat/125/1631], as amended by [Pub. L. 112–239, div. A, title XII, § 1211(a)][/us/pl/112/239/s1211/a]–(c), Jan. 2, 2013, [126 Stat. 1982][/us/stat/126/1982]; [Pub. L. 113–66, div. A, title XII, § 1214(a)][/us/pl/113/66/s1214/a]–(c), Dec. 26, 2013, [127 Stat. 906][/us/stat/127/906], provided that:
+[Pub. L. 112–81, div. A, title XII, § 1215][/us/pl/112/81/s1215], Dec. 31, 2011, [125 Stat. 1631][/us/stat/125/1631], as amended by [Pub. L. 112–239, div. A, title XII, § 1211(a)][/us/pl/112/239/s1211/a]–(c), Jan. 2, 2013, [126 Stat. 1982][/us/stat/126/1982]; [Pub. L. 113–66, div. A, title XII, § 1214(a)][/us/pl/113/66/s1214/a]–(c), Dec. 26, 2013, [127 Stat. 906][/us/stat/127/906]; [Pub. L. 113–291, div. A, title XII, § 1237][/us/pl/113/291/s1237], Dec. 19, 2014, [128 Stat. 3562][/us/stat/128/3562], provided that:
 
 >     “(a)  __Authority__  __.—__ 
 
@@ -705,11 +753,11 @@ Oct. 7, 1975, Pub. L. 94–106, § 812, 89 Stat. 540.  </td>
 
 >     “(c)  __Limitation on Amount__  __.—__ 
 
->     The total amount of funds provided under the authority in subsection (a) in fiscal year 2014 may not exceed $209,000,000.
+>     The total amount of funds provided under the authority in subsection (a) in fiscal year 2015 may not exceed $140,000,000.
 
 >     “(d)  __Source of Funds__  __.—__ 
 
->     Funds for purposes of subsection (a) for fiscal year 2014 shall be derived from amounts available for that fiscal year for operation and maintenance for the Air Force.
+>     Funds for purposes of subsection (a) for fiscal year 2015 shall be derived from amounts available for that fiscal year for operation and maintenance for the Air Force.
 
 >     “(e)  __Coverage of Costs of OSCI in Connection With Sales of Defense Articles or Defense Services to Iraq__  __.—__ 
 
@@ -719,7 +767,7 @@ Oct. 7, 1975, Pub. L. 94–106, § 812, 89 Stat. 540.  </td>
 
 >         “(1)  __In general__  __.—__ 
 
->         During fiscal year 2014, the Secretary of Defense, with the concurrence of the Secretary of State, may authorize the Office of Security Cooperation in Iraq to conduct non-operational training activities in support of Iraqi Ministry of Defense and Counter Terrorism Service personnel in an institutional environment to address capability gaps, integrate processes relating to intelligence, air sovereignty, combined arms, logistics and maintenance, and to manage and integrate defense-related institutions.
+>         During fiscal year 2015, the Secretary of Defense, with the concurrence of the Secretary of State, may authorize the Office of Security Cooperation in Iraq to conduct training activities in support of Iraqi Ministry of Defense and Counter Terrorism Service personnel at a base or facility of the Government of Iraq to address capability gaps, integrate processes relating to intelligence, air sovereignty, combined arms, logistics and maintenance, and to manage and integrate defense-related institutions.
 
 >         “(2)  __Required elements of training__  __.—__ 
 
@@ -979,7 +1027,7 @@ Oct. 7, 1975, Pub. L. 94–106, § 812, 89 Stat. 540.  </td>
 
  __Defense Integrated Military Human Resources System Development and Transition__ 
 
-[Pub. L. 111–84, div. A, title IX, § 932][/us/pl/111/84/s932], Oct. 28, 2009, [123 Stat. 2433][/us/stat/123/2433], provided that:
+[Pub. L. 111–84, div. A, title IX, § 932][/us/pl/111/84/s932], Oct. 28, 2009, [123 Stat. 2433][/us/stat/123/2433], as amended by [Pub. L. 113–291, div. A, title IX, § 901(n)(1)][/us/pl/113/291/s901/n/1], Dec. 19, 2014, [128 Stat. 3469][/us/stat/128/3469], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -1052,6 +1100,8 @@ Oct. 7, 1975, Pub. L. 94–106, § 812, 89 Stat. 540.  </td>
 >     “(f)  __Report__  __.—__ 
 
 >     Not later than March 1, 2010, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on actions taken pursuant to this section.”
+
+    \[After Feb. 1, 2017, any reference to the Deputy Chief Management Officer of the Department of Defense deemed to refer to the Under Secretary of Defense for Business Management and Information, see [section 901(n) of Pub. L. 113–291][/us/pl/113/291/s901/n], set out as a note under [section 131 of this title][/us/usc/t10/s131].\]
 
  __Requirement for Common Ground Stations and Payloads for Manned and Unmanned Aerial Vehicle Systems__ 
 
@@ -1333,7 +1383,7 @@ Oct. 7, 1975, Pub. L. 94–106, § 812, 89 Stat. 540.  </td>
 
  __Protection of Certain Individuals__ 
 
-[Pub. L. 110–181, div. A, title X, § 1074][/us/pl/110/181/s1074], Jan. 28, 2008, [122 Stat. 330][/us/stat/122/330], as amended by [Pub. L. 113–66, div. A, title X, § 1084(b)(2)(A)][/us/pl/113/66/s1084/b/2/A], Dec. 26, 2013, [127 Stat. 872][/us/stat/127/872], provided that:
+[Pub. L. 110–181, div. A, title X, § 1074][/us/pl/110/181/s1074], Jan. 28, 2008, [122 Stat. 330][/us/stat/122/330], as amended by [Pub. L. 113–66, div. A, title X, § 1084(b)(2)(A)][/us/pl/113/66/s1084/b/2/A], Dec. 26, 2013, [127 Stat. 872][/us/stat/127/872]; [Pub. L. 113–291, div. A, title X, § 1046][/us/pl/113/291/s1046], Dec. 19, 2014, [128 Stat. 3494][/us/stat/128/3494], provided that:
 
 >     “(a)  __Protection for Department Leadership__  __.—__ 
 
@@ -1351,13 +1401,15 @@ Oct. 7, 1975, Pub. L. 94–106, § 812, 89 Stat. 540.  </td>
 
 >         “(6) Chiefs of the Services.
 
->         “(7) Commanders of combatant commands.
+>         “(7) Chief of the National Guard Bureau.
+
+>         “(8) Commanders of combatant commands.
 
 >     “(b) __Protection for Additional Personnel.—__ 
 
 >         “(1)  __Authority to provide__  __.—__ 
 
->         The Secretary of Defense, under regulations prescribed by the Secretary and in accordance with guidelines approved by the Secretary and the Attorney General, may authorize qualified members of the Armed Forces and qualified civilian employees of the Department of Defense to provide physical protection and personal security within the United States to individuals other than individuals described in paragraphs (1) through (7) of subsection (a) if the Secretary determines that such protection and security are necessary because—
+>         The Secretary of Defense, under regulations prescribed by the Secretary and in accordance with guidelines approved by the Secretary and the Attorney General, may authorize qualified members of the Armed Forces and qualified civilian employees of the Department of Defense to provide physical protection and personal security within the United States to individuals other than individuals described in paragraphs (1) through (8) of subsection (a) if the Secretary determines that such protection and security are necessary because—
 
 >             “(A) there is an imminent and credible threat to the safety of the individual for whom protection is to be provided; or
 
@@ -2999,7 +3051,7 @@ Oct. 7, 1975, Pub. L. 94–106, § 812, 89 Stat. 540.  </td>
 
  __Annual Report on Military and Security Developments Involving the People’s Republic of China__ 
 
-[Pub. L. 106–65, div. A, title XII, § 1202][/us/pl/106/65/s1202], Oct. 5, 1999, [113 Stat. 781][/us/stat/113/781], as amended by [Pub. L. 107–107, div. A, title XII, § 1221][/us/pl/107/107/s1221], Dec. 28, 2001, [115 Stat. 1252][/us/stat/115/1252]; [Pub. L. 110–181, div. A, title XII, § 1263][/us/pl/110/181/s1263], Jan. 28, 2008, [122 Stat. 407][/us/stat/122/407]; [Pub. L. 111–84, div. A, title XII, § 1246(a)][/us/pl/111/84/s1246/a]–(c), Oct. 28, 2009, [123 Stat. 2544][/us/stat/123/2544], 2545; [Pub. L. 112–81, div. A, title X, § 1066(e)(1)][/us/pl/112/81/s1066/e/1], title XII, § 1238(a), Dec. 31, 2011, [125 Stat. 1589][/us/stat/125/1589], 1642; [Pub. L. 112–239, div. A, title XII, § 1271][/us/pl/112/239/s1271], Jan. 2, 2013, [126 Stat. 2022][/us/stat/126/2022]; [Pub. L. 113–66, div. A, title XII, § 1242][/us/pl/113/66/s1242], Dec. 26, 2013, [127 Stat. 920][/us/stat/127/920], provided that:
+[Pub. L. 106–65, div. A, title XII, § 1202][/us/pl/106/65/s1202], Oct. 5, 1999, [113 Stat. 781][/us/stat/113/781], as amended by [Pub. L. 107–107, div. A, title XII, § 1221][/us/pl/107/107/s1221], Dec. 28, 2001, [115 Stat. 1252][/us/stat/115/1252]; [Pub. L. 110–181, div. A, title XII, § 1263][/us/pl/110/181/s1263], Jan. 28, 2008, [122 Stat. 407][/us/stat/122/407]; [Pub. L. 111–84, div. A, title XII, § 1246(a)][/us/pl/111/84/s1246/a]–(c), Oct. 28, 2009, [123 Stat. 2544][/us/stat/123/2544], 2545; [Pub. L. 112–81, div. A, title X, § 1066(e)(1)][/us/pl/112/81/s1066/e/1], title XII, § 1238(a), Dec. 31, 2011, [125 Stat. 1589][/us/stat/125/1589], 1642; [Pub. L. 112–239, div. A, title XII, § 1271][/us/pl/112/239/s1271], Jan. 2, 2013, [126 Stat. 2022][/us/stat/126/2022]; [Pub. L. 113–66, div. A, title XII, § 1242][/us/pl/113/66/s1242], Dec. 26, 2013, [127 Stat. 920][/us/stat/127/920]; [Pub. L. 113–291, div. A, title XII, § 1252(a)][/us/pl/113/291/s1252/a], Dec. 19, 2014, [128 Stat. 3571][/us/stat/128/3571], provided that:
 
 >     “(a)  __Annual Report__  __.—__ 
 
@@ -3035,7 +3087,7 @@ Oct. 7, 1975, Pub. L. 94–106, § 812, 89 Stat. 540.  </td>
 
 >         “(13) A description of China’s command, control, communications, computers, intelligence, surveillance, and reconnaissance modernization program and its applications for China’s precision guided weapons.
 
->         “(14) A description of the roles and activities of the People’s Liberation Army Navy and those of China’s paramilitary and maritime law enforcement vessels, including their response to United States naval activities.
+>         “(14) A description of the roles and activities of the People’s Liberation Army Navy and those of China’s paramilitary and maritime law enforcement vessels, including their capabilities, organizational affiliations, roles within China’s overall maritime strategy, activities affecting United States allies and partners, and responses to United States naval activities.
 
 >         “(15) In consultation with the Secretary of Energy and the Secretary of State, developments regarding United States-China engagement and cooperation on security matters.
 
@@ -3098,6 +3150,12 @@ Oct. 7, 1975, Pub. L. 94–106, § 812, 89 Stat. 540.  </td>
 >             “(B) an assessment of the ability of the People’s Liberation Army to assimilate such sales or transfers, mass produce new equipment, or develop doctrine for use; and
 
 >             “(C) the potential threat of developments related to such effects on the security interests of the United States and its friends and allies in Asia.”
+
+\[[Pub. L. 113–291, div. A, title XII, § 1252(b)][/us/pl/113/291/s1252/b], Dec. 19, 2014, [128 Stat. 3571][/us/stat/128/3571], provided that: 
+
+> “The amendment made by this section \[amending [section 1202 of Pub. L. 106–65][/us/pl/106/65/s1202], set out above\] takes effect on the date of the enactment of this Act \[Dec. 19, 2014\] and applies with respect to reports required to be submitted under subsection (a) of section 1202 of the National Defense Authorization Act for Fiscal Year 2000 \[[Pub. L. 106–65][/us/pl/106/65]\] on or after that date.”
+
+\]
 
 \[[Pub. L. 112–81, div. A, title XII, § 1238(b)][/us/pl/112/81/s1238/b], Dec. 31, 2011, [125 Stat. 1642][/us/stat/125/1642], provided that: 
 
@@ -4319,7 +4377,7 @@ Similar provisions were contained in the following prior appropriation acts:
 
  __Initial Report to Congress__ 
 
-    [Pub. L. 99–433, title IV, § 406(g)][/us/pl/99/433/s406/g], Oct. 1, 1986, [100 Stat. 1034][/us/stat/100/1034], required that the first report submitted by the Secretary of Defense under subsec. (c) of this section after Oct. 1, 1986, would contain as much of the information required by [section 667 of this title][/us/usc/t10/s667] as had been available to the Secretary at the time of its preparation.
+    [Pub. L. 99–433, title IV, § 406(g)][/us/pl/99/433/s406/g], Oct. 1, 1986, [100 Stat. 1034][/us/stat/100/1034], required that the first report submitted by the Secretary of Defense under subsec. (c) of this section after Oct. 1, 1986, would contain as much of the information required by former [section 667 of this title][/us/usc/t10/s667] as had been available to the Secretary at the time of its preparation.
 
  __Security at Military Bases Abroad__ 
 
@@ -4488,8 +4546,8 @@ Similar provisions were contained in the following prior appropriation acts:
 ----------
 ----------
 
-[/us/usc/t50/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs401
-[/us/usc/t50/s404a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs404a
+[/us/usc/t50/s3002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3002
+[/us/usc/t50/s3043]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3043
 [/us/usc/t10/s221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs221
 [/us/usc/t31/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105
 [/us/usc/t31/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105
@@ -4538,6 +4596,8 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/stat/125/1543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1543
 [/us/pl/112/239/s1076/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1076%2Ff%2F1
 [/us/stat/126/1951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1951
+[/us/pl/113/291/s1071/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Fc%2F1
+[/us/stat/128/3508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3508
 [/us/usc/t5/s171a/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs171a%2Fa
 [/us/usc/t50/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs401
 [/us/usc/t5/s171a/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs171a%2Fb
@@ -4549,8 +4609,12 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/stat/101/1329-69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1329-69
 [/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
 [/us/usc/t10/s113/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs113%2Fk
-[/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
-[/us/stat/61/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F495
+[/us/pl/113/291/s1071/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Fc%2F1
+[/us/usc/t50/s3002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3002
+[/us/usc/t50/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs401
+[/us/pl/113/291/s1071/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Fc%2F2
+[/us/usc/t50/s3043]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3043
+[/us/usc/t50/s404a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs404a
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
 [/us/pl/112/81/s1064/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1064%2F1%2FA
@@ -4607,6 +4671,18 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/usc/t3/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs301
 [/us/usc/t42/s5195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5195
 [/us/usc/t5/s3345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3345
+[/us/pl/113/291/s524/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs524%2Fa
+[/us/stat/128/3361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3361
+[/us/pl/103/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160
+[/us/usc/t10/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs113
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
+[/us/stat/127/756]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F756
+[/us/pl/113/291/s524/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs524%2Fb
+[/us/stat/128/3362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3362
+[/us/pl/113/291/s904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs904
+[/us/stat/128/3471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3471
+[/us/pl/113/291/s1076]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1076
+[/us/stat/128/3519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3519
 [/us/pl/113/66/s525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs525
 [/us/stat/127/757]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F757
 [/us/pl/104/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191
@@ -4615,6 +4691,8 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/stat/127/880]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F880
 [/us/pl/113/66/s1709/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1709%2Fa
 [/us/stat/127/962]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F962
+[/us/pl/113/291/s1071/g/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Fg%2F5
+[/us/stat/128/3511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3511
 [/us/usc/t10/s892]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs892
 [/us/pl/113/66/s1732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1732
 [/us/stat/127/975]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F975
@@ -4634,6 +4712,8 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/stat/126/1982]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1982
 [/us/pl/113/66/s1214/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1214%2Fa
 [/us/stat/127/906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F906
+[/us/pl/113/291/s1237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1237
+[/us/stat/128/3562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3562
 [/us/usc/t22/s2751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2751
 [/us/pl/111/383/s124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs124
 [/us/stat/124/4159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4159
@@ -4661,6 +4741,10 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/stat/123/2404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2404
 [/us/pl/111/84/s932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs932
 [/us/stat/123/2433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2433
+[/us/pl/113/291/s901/n/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs901%2Fn%2F1
+[/us/stat/128/3469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3469
+[/us/pl/113/291/s901/n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs901%2Fn
+[/us/usc/t10/s131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs131
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4382
 [/us/usc/t10/s2320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2320
@@ -4690,6 +4774,8 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/stat/122/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F330
 [/us/pl/113/66/s1084/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1084%2Fb%2F2%2FA
 [/us/stat/127/872]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F872
+[/us/pl/113/291/s1046]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1046
+[/us/stat/128/3494]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3494
 [/us/usc/t18/s1385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1385
 [/us/pl/110/181/s1208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1208
 [/us/stat/122/367]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F367
@@ -4883,9 +4969,15 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/stat/126/2022]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2022
 [/us/pl/113/66/s1242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1242
 [/us/stat/127/920]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F920
+[/us/pl/113/291/s1252/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1252%2Fa
+[/us/stat/128/3571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3571
 [/us/pl/96/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F8
 [/us/usc/t22/s3301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3301
 [/us/usc/t10/s168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs168
+[/us/pl/113/291/s1252/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1252%2Fb
+[/us/stat/128/3571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3571
+[/us/pl/106/65/s1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs1202
+[/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
 [/us/pl/112/81/s1238/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1238%2Fb
 [/us/stat/125/1642]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1642
 [/us/pl/106/65/s1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs1202

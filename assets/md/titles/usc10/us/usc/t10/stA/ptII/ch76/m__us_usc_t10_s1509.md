@@ -13,7 +13,7 @@
 
 [Previous](./../../../../../..//us/usc/t10/stA/ptII/ch76/m__us_usc_t10_s1508.md) | [Next](./../../../../../..//us/usc/t10/stA/ptII/ch76/m__us_usc_t10_s1510.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1509)
 
-## § 1509. Program to resolve preenactment missing person cases
+## § 1509. Program to resolve missing person cases
 
     (a)  __Program Required; Covered Conflicts__  __.—__ 
 
@@ -31,31 +31,33 @@
 
         (6) Such other conflicts in which members of the armed forces served as the Secretary of Defense may designate.
 
-    (b)  __Implementation Process__  __.—__ 
+    (b)  __Implementation__  __.—__ 
 
-        (1) The Secretary of Defense shall implement the program within the Department of Defense POW/MIA accounting community.
+        (1) The Secretary of Defense shall implement the program within the Department of Defense through the designated Agency Director.
 
         (2)
 
-         For purposes of paragraph (1), the term “POW/MIA accounting community” means:
+            (A) The Secretary shall assign or detail to the designated Defense Agency on a full-time basis a senior medical examiner from the personnel of the Armed Forces Medical Examiner System. The primary duties of the medical examiner so assigned or detailed shall include the identification of remains in support of the function of the designated Agency Director to account for unaccounted for persons covered by subsection (a).
 
-            (A) The Defense Prisoner of War/Missing Personnel Office (DPMO).
+            (B) In carrying out functions under this chapter, the medical examiner so assigned or detailed shall report to the designated Agency Director.
 
-            (B) The Joint POW/MIA Accounting Command (JPAC).
+            (C)
 
-            (C) The Armed Forces DNA Identification Laboratory (AFDIL).
+             The medical examiner so assigned or detailed shall—
 
-            (D) The Life Sciences Equipment Laboratory of the Air Force (LSEL).
+                (i) exercise scientific identification authority;
 
-            (E) The casualty and mortuary affairs offices of the military departments.
+                (ii) establish identification and laboratory policy consistent with the Armed Forces Medical Examiner System; and
 
-            (F) Any other element of the Department of Defense whose mission (as designated by the Secretary of Defense) involves the accounting for and recovery of members of the armed forces who are missing in action, prisoners of war, or unaccounted for.
+                (iii) advise the designated Agency Director on forensic science disciplines.
+
+            (D) Nothing in this chapter shall be interpreted as affecting the authority of the Armed Forces Medical Examiner under [section 1471 of this title][/us/usc/t10/s1471].
 
     (c)  __Treatment as Missing Persons__  __.—__ 
 
     Each unaccounted for person covered by subsection (a) shall be considered to be a missing person for purposes of the applicability of other provisions of this chapter to the person.
 
-    (d)  __Establishment of Personnel Files__  __.—__ 
+    (d)  __Establishment of Personnel Files; Centralized Database__  __.—__ 
 
         (1)
 
@@ -68,6 +70,8 @@
         (2) The Secretary of Defense shall ensure that each file established under this subsection contains all relevant information pertaining to a person covered by subsection (a) and is readily accessible to all elements of the department, the combatant commands, and the armed forces involved in the effort to account for the person.
 
         (3) Each file established under this subsection shall be handled in accordance with, and subject to the provisions of, [section 1506 of this title][/us/usc/t10/s1506] in the same manner as applies to the file of a missing person otherwise subject to such section.
+
+        (4) The Secretary of Defense shall establish and maintain a single centralized database and case management system containing information on all missing persons for whom a file has been established under this subsection. The database and case management system shall be accessible to all elements of the Department of Defense involved in the search, recovery, identification, and communications phases of the program established by this section.
 
     (e)  __Review of Status Requirements__  __.—__ 
 
@@ -91,13 +95,33 @@
 
     (f)  __Coordination Requirements__  __.—__ 
 
-        (1) In establishing and carrying out the program, the Secretary of Defense shall coordinate with the Secretaries of the military departments, the Chairman of the Joint Chiefs of Staff, and the commanders of the combatant commands.
+        (1) In carrying out the program, the designated Agency Director shall ensure coordination with the Secretaries of the military departments, the Chairman of the Joint Chiefs of Staff, and the commanders of the combatant commands.
 
-        (2) In carrying out the program, the Secretary of Defense shall establish close coordination with the Department of State, the Central Intelligence Agency, and the National Security Council to enhance the ability of the Department of Defense POW/MIA accounting community to account for persons covered by subsection (a).
+        (2) In carrying out the program, the Secretary of Defense shall establish close coordination with the Department of State, the Central Intelligence Agency, and the National Security Council staff to enhance the ability of the Department of Defense to account for persons covered by subsection (a).
 
-(Added [Pub. L. 104–106, div. A, title V, § 569(b)(1)][/us/pl/104/106/s569/b/1], Feb. 10, 1996, [110 Stat. 348][/us/stat/110/348]; amended [Pub. L. 104–201, div. A, title V, § 578(f)(1)][/us/pl/104/201/s578/f/1], (2)(A), Sept. 23, 1996, [110 Stat. 2537][/us/stat/110/2537]; [Pub. L. 105–85, div. A, title V, § 599(e)][/us/pl/105/85/s599/e], Nov. 18, 1997, [111 Stat. 1769][/us/stat/111/1769]; [Pub. L. 106–65, div. A, title X, § 1066(a)(14)][/us/pl/106/65/s1066/a/14], Oct. 5, 1999, [113 Stat. 771][/us/stat/113/771]; [Pub. L. 111–84, div. A, title V, § 541(a)][/us/pl/111/84/s541/a], Oct. 28, 2009, [123 Stat. 2296][/us/stat/123/2296].)
+        (3) In carrying out the program, the designated Agency Director shall coordinate all external communications and events associated with the program.
+
+(Added [Pub. L. 104–106, div. A, title V, § 569(b)(1)][/us/pl/104/106/s569/b/1], Feb. 10, 1996, [110 Stat. 348][/us/stat/110/348]; amended [Pub. L. 104–201, div. A, title V, § 578(f)(1)][/us/pl/104/201/s578/f/1], (2)(A), Sept. 23, 1996, [110 Stat. 2537][/us/stat/110/2537]; [Pub. L. 105–85, div. A, title V, § 599(e)][/us/pl/105/85/s599/e], Nov. 18, 1997, [111 Stat. 1769][/us/stat/111/1769]; [Pub. L. 106–65, div. A, title X, § 1066(a)(14)][/us/pl/106/65/s1066/a/14], Oct. 5, 1999, [113 Stat. 771][/us/stat/113/771]; [Pub. L. 111–84, div. A, title V, § 541(a)][/us/pl/111/84/s541/a], Oct. 28, 2009, [123 Stat. 2296][/us/stat/123/2296]; [Pub. L. 113–291, div. A, title IX, § 916(d)][/us/pl/113/291/s916/d], (f)(1), Dec. 19, 2014, [128 Stat. 3478][/us/stat/128/3478], 3479.)
 
  __Amendments__ 
+
+    2014—[Pub. L. 113–291, § 916(f)(1)][/us/pl/113/291/s916/f/1], substituted “Program to resolve missing person cases” for “Program to resolve preenactment missing person cases” in section catchline.
+
+    Subsec. (b). [Pub. L. 113–291, § 916(d)(1)(A)][/us/pl/113/291/s916/d/1/A], struck out “Process” after “Implementation” in heading.
+
+    Subsec. (b)(1). [Pub. L. 113–291, § 916(d)(1)(B)][/us/pl/113/291/s916/d/1/B], substituted “through the designated Agency Director” for “POW/MIA accounting community”.
+
+    Subsec. (b)(2). [Pub. L. 113–291, § 916(d)(1)(C)][/us/pl/113/291/s916/d/1/C], added par. (2) and struck out former par. (2) which defined “POW/MIA accounting community”.
+
+    Subsec. (d). [Pub. L. 113–291, § 916(d)(2)(A)][/us/pl/113/291/s916/d/2/A], inserted “; Centralized Database” after “Files” in heading.
+
+    Subsec. (d)(4). [Pub. L. 113–291, § 916(d)(2)(B)][/us/pl/113/291/s916/d/2/B], added par. (4).
+
+    Subsec. (f)(1). [Pub. L. 113–291, § 916(d)(3)(A)][/us/pl/113/291/s916/d/3/A], substituted “In carrying out the program, the designated Agency Director shall ensure coordination” for “In establishing and carrying out the program, the Secretary of Defense shall coordinate”
+
+    Subsec. (f)(2). [Pub. L. 113–291, § 916(d)(3)(B)][/us/pl/113/291/s916/d/3/B], inserted “staff” after “National Security Council” and struck out “POW/MIA accounting community” after “Department of Defense”.
+
+    Subsec. (f)(3). [Pub. L. 113–291, § 916(d)(3)(C)][/us/pl/113/291/s916/d/3/C], added par. (3).
 
     2009—[Pub. L. 111–84][/us/pl/111/84] amended section generally. Prior to amendment, section consisted of subsecs. (a) to (d) relating to review of status of missing person cases arising before enactment of this chapter.
 
@@ -145,6 +169,7 @@
 [/us/usc/t10/s1513/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1513%2F1
 [/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
 [/us/usc/t10/s1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1501
+[/us/usc/t10/s1471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1471
 [/us/usc/t10/s1506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1506
 [/us/usc/t10/s1505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1505
 [/us/usc/t10/s1504/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1504%2Fg
@@ -158,6 +183,17 @@
 [/us/stat/113/771]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F771
 [/us/pl/111/84/s541/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs541%2Fa
 [/us/stat/123/2296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2296
+[/us/pl/113/291/s916/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs916%2Fd
+[/us/stat/128/3478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3478
+[/us/pl/113/291/s916/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs916%2Ff%2F1
+[/us/pl/113/291/s916/d/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs916%2Fd%2F1%2FA
+[/us/pl/113/291/s916/d/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs916%2Fd%2F1%2FB
+[/us/pl/113/291/s916/d/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs916%2Fd%2F1%2FC
+[/us/pl/113/291/s916/d/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs916%2Fd%2F2%2FA
+[/us/pl/113/291/s916/d/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs916%2Fd%2F2%2FB
+[/us/pl/113/291/s916/d/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs916%2Fd%2F3%2FA
+[/us/pl/113/291/s916/d/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs916%2Fd%2F3%2FB
+[/us/pl/113/291/s916/d/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs916%2Fd%2F3%2FC
 [/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
 [/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
 [/us/pl/105/85/s599/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs599%2Fe%2F1

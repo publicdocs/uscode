@@ -57,9 +57,11 @@
 
         (2) action on the sentence of a court-martial for purposes of clemency.
 
-    (g) In this section, the term “military record” means a document or other record that pertains to (1) an individual member or former member of the armed forces, or (2) at the discretion of the Secretary of the military department concerned, any other military matter affecting a member or former member of the armed forces, an employee or former employee of that military department, or a dependent or current or former spouse of any such person. Such term does not include records pertaining to civilian employment matters (such as matters covered by title 5 and chapters 81, 83, 87, 108, 373, 605, 607, 643, and 873 of this title).
+    (g) Any medical advisory opinion issued to a board established under subsection (a)(1) with respect to a member or former member of the armed forces who was diagnosed while serving in the armed forces as experiencing a mental health disorder shall include the opinion of a clinical psychologist or psychiatrist if the request for correction of records concerned relates to a mental health disorder.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 116][/us/stat/70A/116]; [Pub. L. 86–533, § 1(4)][/us/pl/86/533/s1/4], June 29, 1960, [74 Stat. 246][/us/stat/74/246]; [Pub. L. 96–513, title V, § 511(60)][/us/pl/96/513/s511/60], Dec. 12, 1980, [94 Stat. 2925][/us/stat/94/2925]; [Pub. L. 98–209, § 11(a)][/us/pl/98/209/s11/a], Dec. 6, 1983, [97 Stat. 1407][/us/stat/97/1407]; [Pub. L. 100–456, div. A, title XII, § 1233(a)][/us/pl/100/456/s1233/a], Sept. 29, 1988, [102 Stat. 2057][/us/stat/102/2057]; [Pub. L. 101–189, div. A, title V, § 514][/us/pl/101/189/s514], title XVI, § 1621(a)(2), Nov. 29, 1989, [103 Stat. 1441][/us/stat/103/1441], 1603; [Pub. L. 102–484, div. A, title X, § 1052(19)][/us/pl/102/484/s1052/19], Oct. 23, 1992, [106 Stat. 2500][/us/stat/106/2500]; [Pub. L. 105–261, div. A, title V, § 545(a)][/us/pl/105/261/s545/a], (b), Oct. 17, 1998, [112 Stat. 2022][/us/stat/112/2022]; [Pub. L. 107–296, title XVII, § 1704(b)(1)][/us/pl/107/296/s1704/b/1], Nov. 25, 2002, [116 Stat. 2314][/us/stat/116/2314]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title V, § 592(a), (b), Oct. 14, 2008, [122 Stat. 4474][/us/stat/122/4474], 4475.)
+    (h) In this section, the term “military record” means a document or other record that pertains to (1) an individual member or former member of the armed forces, or (2) at the discretion of the Secretary of the military department concerned, any other military matter affecting a member or former member of the armed forces, an employee or former employee of that military department, or a dependent or current or former spouse of any such person. Such term does not include records pertaining to civilian employment matters (such as matters covered by title 5 and chapters 81, 83, 87, 108, 373, 605, 607, 643, and 873 of this title).
+
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 116][/us/stat/70A/116]; [Pub. L. 86–533, § 1(4)][/us/pl/86/533/s1/4], June 29, 1960, [74 Stat. 246][/us/stat/74/246]; [Pub. L. 96–513, title V, § 511(60)][/us/pl/96/513/s511/60], Dec. 12, 1980, [94 Stat. 2925][/us/stat/94/2925]; [Pub. L. 98–209, § 11(a)][/us/pl/98/209/s11/a], Dec. 6, 1983, [97 Stat. 1407][/us/stat/97/1407]; [Pub. L. 100–456, div. A, title XII, § 1233(a)][/us/pl/100/456/s1233/a], Sept. 29, 1988, [102 Stat. 2057][/us/stat/102/2057]; [Pub. L. 101–189, div. A, title V, § 514][/us/pl/101/189/s514], title XVI, § 1621(a)(2), Nov. 29, 1989, [103 Stat. 1441][/us/stat/103/1441], 1603; [Pub. L. 102–484, div. A, title X, § 1052(19)][/us/pl/102/484/s1052/19], Oct. 23, 1992, [106 Stat. 2500][/us/stat/106/2500]; [Pub. L. 105–261, div. A, title V, § 545(a)][/us/pl/105/261/s545/a], (b), Oct. 17, 1998, [112 Stat. 2022][/us/stat/112/2022]; [Pub. L. 107–296, title XVII, § 1704(b)(1)][/us/pl/107/296/s1704/b/1], Nov. 25, 2002, [116 Stat. 2314][/us/stat/116/2314]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title V, § 592(a), (b), Oct. 14, 2008, [122 Stat. 4474][/us/stat/122/4474], 4475; [Pub. L. 113–291, div. A, title V, § 521(a)][/us/pl/113/291/s521/a], Dec. 19, 2014, [128 Stat. 3360][/us/stat/128/3360].)
 
 <table>
 
@@ -263,6 +265,8 @@ In subsection (a), the words “and approved by the Secretary of Defense” are 
 
  __Amendments__ 
 
+    2014—Subsecs. (g), (h). [Pub. L. 113–291][/us/pl/113/291] added subsec. (g) and redesignated former subsec. (g) as (h).
+
     2008—Subsec. (c). [Pub. L. 110–417][/us/pl/110/417] designated existing provisions as pars. (1) to (3), redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, of par. (2), and added par. (4).
 
     2002—Subsec. (a)(1). [Pub. L. 107–296][/us/pl/107/296] substituted “Secretary of Homeland Security” for “Secretary of Transportation”.
@@ -341,11 +345,14 @@ In subsection (a), the words “and approved by the Secretary of Defense” are 
 [/us/stat/116/2314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2314
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4474
+[/us/pl/113/291/s521/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs521%2Fa
+[/us/stat/128/3360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3360
 [/us/usc/t10/s101/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101%2F27
 [/us/act/1950-05-05/ch169/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-05-05%2Fch169%2Fs1
 [/us/stat/64/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F107
 [/us/act/1956-08-10/ch1041/s53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041%2Fs53
 [/us/stat/70A/641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F641
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/pl/105/261/s545/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs545%2Fa

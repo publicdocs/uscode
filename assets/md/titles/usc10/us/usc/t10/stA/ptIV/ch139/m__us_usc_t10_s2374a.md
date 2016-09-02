@@ -25,7 +25,7 @@
 
     (c)  __Limitations__  __.—__ 
 
-        (1) The total amount made available for award of cash prizes in a fiscal year may not exceed $10,000,000.
+        (1) No prize competition may result in the award of a cash prize of more than $10,000,000.
 
         (2) No prize competition may result in the award of more than $1,000,000 in cash prizes without the approval of the Under Secretary of Defense for Acquisition, Technology, and Logistics.
 
@@ -33,15 +33,19 @@
 
     A program under subsection (a) may be carried out in conjunction with or in addition to the exercise of any other authority of an official referred to in that subsection to acquire, support, or stimulate basic, advanced and applied research, technology development, or prototype projects.
 
-    (e) __Annual Report.—__ 
+    (e)  __Acceptance of Funds__  __.—__ 
+
+    In addition to such sums as may be appropriated or otherwise made available to the Secretary to award prizes under this section, the Secretary may accept funds from other departments and agencies of the Federal Government, and from State and local governments, to award prizes under this section.
+
+    (f) __Biennial Report.—__ 
 
         (1)  __In general__  __.—__ 
 
-        Not later than March 1 of each year, the Secretary shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report on the activities carried out during the preceding fiscal year under the authority in subsection (a).
+        Not later than March 1 of every other year, the Secretary shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report on the activities carried out during the preceding two fiscal years under the authority in subsection (a).
 
         (2)  __Information included__  __.—__ 
 
-        The report for a fiscal year under this subsection shall include, for each program under subsection (a), the following:
+        The report for a period of two fiscal years under this subsection shall include, for each program under subsection (a), the following:
 
             (A) A description of the proposed goals of the competitions established under the program, including the areas of research, technology development, or prototype development to be promoted by such competitions and the relationship of such areas to the military missions of the Department of Defense.
 
@@ -59,13 +63,27 @@
 
         For each program under subsection (a), the authority to obligate or expend funds under that program is suspended as of the date specified in paragraph (1) if the Secretary does not, by that date, submit a report that includes, for that program, all the information required by paragraph (2). As of the date on which the Secretary does submit a report that includes, for that program, all the information required by paragraph (2), the suspension is lifted.
 
-    (f)  __Period of Authority__  __.—__ 
+    (g)  __Period of Authority__  __.—__ 
 
     The authority to award prizes under subsection (a) shall terminate at the end of September 30, 2018.
 
-(Added [Pub. L. 106–65, div. A, title II, § 244(a)][/us/pl/106/65/s244/a], Oct. 5, 1999, [113 Stat. 552][/us/stat/113/552]; amended [Pub. L. 107–314, div. A, title II, § 248(a)][/us/pl/107/314/s248/a], Dec. 2, 2002, [116 Stat. 2502][/us/stat/116/2502]; [Pub. L. 108–136, div. A, title X, § 1031(a)(20)][/us/pl/108/136/s1031/a/20], Nov. 24, 2003, [117 Stat. 1598][/us/stat/117/1598]; [Pub. L. 109–163, div. A, title II, § 257][/us/pl/109/163/s257], Jan. 6, 2006, [119 Stat. 3184][/us/stat/119/3184]; [Pub. L. 109–364, div. A, title II, § 212][/us/pl/109/364/s212], Oct. 17, 2006, [120 Stat. 2119][/us/stat/120/2119]; [Pub. L. 111–84, div. A, title II, § 253][/us/pl/111/84/s253], Oct. 28, 2009, [123 Stat. 2243][/us/stat/123/2243]; [Pub. L. 111–383, div. A, title IX, § 901(j)(4)][/us/pl/111/383/s901/j/4], Jan. 7, 2011, [124 Stat. 4324][/us/stat/124/4324]; [Pub. L. 113–66, div. A, title II, § 263][/us/pl/113/66/s263], Dec. 26, 2013, [127 Stat. 726][/us/stat/127/726].)
+(Added [Pub. L. 106–65, div. A, title II, § 244(a)][/us/pl/106/65/s244/a], Oct. 5, 1999, [113 Stat. 552][/us/stat/113/552]; amended [Pub. L. 107–314, div. A, title II, § 248(a)][/us/pl/107/314/s248/a], Dec. 2, 2002, [116 Stat. 2502][/us/stat/116/2502]; [Pub. L. 108–136, div. A, title X, § 1031(a)(20)][/us/pl/108/136/s1031/a/20], Nov. 24, 2003, [117 Stat. 1598][/us/stat/117/1598]; [Pub. L. 109–163, div. A, title II, § 257][/us/pl/109/163/s257], Jan. 6, 2006, [119 Stat. 3184][/us/stat/119/3184]; [Pub. L. 109–364, div. A, title II, § 212][/us/pl/109/364/s212], Oct. 17, 2006, [120 Stat. 2119][/us/stat/120/2119]; [Pub. L. 111–84, div. A, title II, § 253][/us/pl/111/84/s253], Oct. 28, 2009, [123 Stat. 2243][/us/stat/123/2243]; [Pub. L. 111–383, div. A, title IX, § 901(j)(4)][/us/pl/111/383/s901/j/4], Jan. 7, 2011, [124 Stat. 4324][/us/stat/124/4324]; [Pub. L. 113–66, div. A, title II, § 263][/us/pl/113/66/s263], Dec. 26, 2013, [127 Stat. 726][/us/stat/127/726]; [Pub. L. 113–291, div. A, title II, § 211][/us/pl/113/291/s211], Dec. 19, 2014, [128 Stat. 3324][/us/stat/128/3324].)
 
  __Amendments__ 
+
+    2014—Subsec. (c)(1). [Pub. L. 113–291, § 211(a)][/us/pl/113/291/s211/a], substituted “No prize competition may result in the award of a cash prize of more than $10,000,000.” for “The total amount made available for award of cash prizes in a fiscal year may not exceed $10,000,000.”
+
+    Subsec. (e). [Pub. L. 113–291, § 211(b)(2)][/us/pl/113/291/s211/b/2], added subsec. (e). Former subsec. (e) redesignated (f).
+
+    Subsec. (f). [Pub. L. 113–291, § 211(c)(3)][/us/pl/113/291/s211/c/3], substituted “Biennial” for “Annual” in heading.
+
+    [Pub. L. 113–291, § 211(b)(1)][/us/pl/113/291/s211/b/1], redesignated subsec. (e) as (f). Former subsec. (f) redesignated (g).
+
+    Subsec. (f)(1). [Pub. L. 113–291, § 211(c)(1)][/us/pl/113/291/s211/c/1], substituted “every other year” for “each year” and “two fiscal years” for “fiscal year”.
+
+    Subsec. (f)(2). [Pub. L. 113–291, § 211(c)(2)][/us/pl/113/291/s211/c/2], substituted “a period of two fiscal years” for “a fiscal year” in introductory provisions.
+
+    Subsec. (g). [Pub. L. 113–291, § 211(b)(1)][/us/pl/113/291/s211/b/1], redesignated subsec. (f) as (g).
 
     2013—Subsec. (f). [Pub. L. 113–66][/us/pl/113/66] substituted “September 30, 2018” for “September 30, 2013”.
 
@@ -122,6 +140,15 @@
 [/us/stat/124/4324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4324
 [/us/pl/113/66/s263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs263
 [/us/stat/127/726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F726
+[/us/pl/113/291/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs211
+[/us/stat/128/3324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3324
+[/us/pl/113/291/s211/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs211%2Fa
+[/us/pl/113/291/s211/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs211%2Fb%2F2
+[/us/pl/113/291/s211/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs211%2Fc%2F3
+[/us/pl/113/291/s211/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs211%2Fb%2F1
+[/us/pl/113/291/s211/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs211%2Fc%2F1
+[/us/pl/113/291/s211/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs211%2Fc%2F2
+[/us/pl/113/291/s211/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs211%2Fb%2F1
 [/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
 [/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84

@@ -69,7 +69,7 @@
 
  __Requirements for Senior Department of Defense Officials Seeking Employment With Defense Contractors__ 
 
-[Pub. L. 110–181, div. A, title VIII, § 847][/us/pl/110/181/s847], Jan. 28, 2008, [122 Stat. 243][/us/stat/122/243], provided that:
+[Pub. L. 110–181, div. A, title VIII, § 847][/us/pl/110/181/s847], Jan. 28, 2008, [122 Stat. 243][/us/stat/122/243], as amended by [Pub. L. 113–291, div. A, title VIII, § 855][/us/pl/113/291/s855], title X, § 1071(b)(2)(C), Dec. 19, 2014, [128 Stat. 3460][/us/stat/128/3460], 3506, provided that:
 
 >     “(a) __Requirement to Seek and Obtain Written Opinion.—__ 
 
@@ -91,13 +91,13 @@
 
 >         “(5)  __Administrative actions__  __.—__ 
 
->         In the event that an official or former official of the Department of Defense described in subsection (c), or a Department of Defense contractor, knowingly fails to comply with the requirements of this subsection, the Secretary of Defense may take any of the administrative actions set forth in section 27(e) of the Office of Federal Procurement Policy Act (\[former\] [41 U.S.C. 423(e)][/us/usc/t41/s423/e]) \[now [41 U.S.C. 2105][/us/usc/t41/s2105]\] that the Secretary of Defense determines to be appropriate.
+>         In the event that an official or former official of the Department of Defense described in subsection (c), or a Department of Defense contractor, knowingly fails to comply with the requirements of this subsection, the Secretary of Defense may take any of the administrative actions set forth in [section 2105 of title 41][/us/usc/t41/s2105], United States Code\[,\] that the Secretary of Defense determines to be appropriate.
 
 >     “(b) __Recordkeeping Requirement.—__ 
 
 >         “(1)  __Database__  __.—__ 
 
->         Each request for a written opinion made pursuant to this section, and each written opinion provided pursuant to such a request, shall be retained by the Department of Defense in a central database or repository for not less than five years beginning on the date on which the written opinion was provided.
+>         Each request for a written opinion made pursuant to this section, and each written opinion provided pursuant to such a request, shall be retained by the Department of Defense in a central database or repository maintained by the General Counsel of the Department for not less than five years beginning on the date on which the written opinion was provided.
 
 >         “(2)  __Inspector general review__  __.—__ 
 
@@ -109,7 +109,7 @@
 
 >         “(1)
 
->          participated personally and substantially in an acquisition as defined in section 4(16) of the Office of Federal Procurement Policy Act \[now [41 U.S.C. 131][/us/usc/t41/s131]\] with a value in excess of $10,000,000 and serves or served—
+>          participated personally and substantially in an acquisition as defined in [section 131 of title 41][/us/usc/t41/s131], United States Code\[,\] with a value in excess of $10,000,000 and serves or served—
 
 >             “(A) in an Executive Schedule position under subchapter II of chapter 53 of title 5, United States Code;
 
@@ -123,7 +123,7 @@
 
 >     In this section, the term ‘post-employment restrictions’ includes—
 
->         “(1) section 27 of the Office of Federal Procurement Policy Act (\[former\] [41 U.S.C. 423][/us/usc/t41/s423]) \[now [41 U.S.C. 2101][/us/usc/t41/s2101] et seq.\];
+>         “(1) chapter 21 of title 41, United States Code;
 
 >         “(2) [section 207 of title 18][/us/usc/t18/s207], United States Code; and
 
@@ -169,12 +169,11 @@
 [/us/stat/122/45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F45
 [/us/pl/110/181/s847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs847
 [/us/stat/122/243]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F243
-[/us/usc/t41/s423/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs423%2Fe
+[/us/pl/113/291/s855]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs855
+[/us/stat/128/3460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3460
 [/us/usc/t41/s2105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs2105
 [/us/usc/t41/s131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs131
 [/us/usc/t37/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs201
-[/us/usc/t41/s423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs423
-[/us/usc/t41/s2101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs2101
 [/us/usc/t18/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs207
 [/us/pl/109/364/s820]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs820
 [/us/stat/120/2330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2330

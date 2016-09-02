@@ -17,7 +17,7 @@
 
     (a)  __Attendance Authorized__  __.—__ 
 
-    The Secretary of the Navy may authorize the Naval Academy to permit students, officers, and other representatives of a foreign country to attend the Naval Academy for periods of not more than two weeks if the Secretary determines that the attendance of such persons contributes significantly to the development of foreign language, cross cultural interactions and understanding, and cultural immersion of midshipmen.
+    The Secretary of the Navy may authorize the Naval Academy to permit students, officers, and other representatives of a foreign country to attend the Naval Academy for periods of not more than four weeks if the Secretary determines that the attendance of such persons contributes significantly to the development of foreign language, cross cultural interactions and understanding, and cultural immersion of midshipmen.
 
     (b)  __Costs and Expenses__  __.—__ 
 
@@ -33,7 +33,11 @@
 
         (2) Expenditures from appropriated funds in support of activities under this section may not exceed $40,000 during any fiscal year.
 
-(Added [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title V, § 541(b)(1), Oct. 14, 2008, [122 Stat. 4455][/us/stat/122/4455].)
+(Added [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title V, § 541(b)(1), Oct. 14, 2008, [122 Stat. 4455][/us/stat/122/4455]; amended [Pub. L. 113–291, div. A, title V, § 553(b)][/us/pl/113/291/s553/b], Dec. 19, 2014, [128 Stat. 3377][/us/stat/128/3377].)
+
+ __Amendments__ 
+
+    2014—Subsec. (a). [Pub. L. 113–291][/us/pl/113/291] substituted “four weeks” for “two weeks”.
 
 ----------
 
@@ -44,5 +48,8 @@
 
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4455
+[/us/pl/113/291/s553/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs553%2Fb
+[/us/stat/128/3377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3377
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 
 

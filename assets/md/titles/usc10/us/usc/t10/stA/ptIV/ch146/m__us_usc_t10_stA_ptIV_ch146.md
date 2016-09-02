@@ -49,9 +49,9 @@
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2462" data-uslm-ref="/us/usc/t10/s2462">2462.</a>  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2462" data-uslm-ref="/us/usc/t10/s2462">2462.</a>  </td>
 
-    <td> Reports on public-private competition.  </td>
+    <td> Repealed.]  </td>
 
   </tr>
 
@@ -171,6 +171,8 @@
 
  __Amendments__ 
 
+    2014—[Pub. L. 113–291, div. A, title X, § 1060(a)(2)(B)][/us/pl/113/291/s1060/a/2/B], Dec. 19, 2014, [128 Stat. 3502][/us/stat/128/3502], struck out item 2462 “Reports on public-private competition”.
+
     2013—[Pub. L. 112–239, div. A, title III, § 322(b)(2)(B)][/us/pl/112/239/s322/b/2/B], Jan. 2, 2013, [126 Stat. 1695][/us/stat/126/1695], substituted “Core logistics capabilities” for “Core depot-level maintenance and repair capabilities” in item 2464.
 
     2011—[Pub. L. 112–81, div. A, title III, § 327(b)][/us/pl/112/81/s327/b], Dec. 31, 2011, [125 Stat. 1368][/us/stat/125/1368], substituted “Core depot-level maintenance and repair capabilities” for “Core logistics capabilities” in item 2464.
@@ -218,6 +220,8 @@
 ----------
 ----------
 
+[/us/pl/113/291/s1060/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1060%2Fa%2F2%2FB
+[/us/stat/128/3502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3502
 [/us/pl/112/239/s322/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs322%2Fb%2F2%2FB
 [/us/stat/126/1695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1695
 [/us/pl/112/81/s327/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs327%2Fb

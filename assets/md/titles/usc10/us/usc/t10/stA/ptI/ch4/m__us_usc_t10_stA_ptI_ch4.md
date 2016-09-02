@@ -137,33 +137,9 @@
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs138a" data-uslm-ref="/us/usc/t10/s138a">138a.</a>  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs138a" data-uslm-ref="/us/usc/t10/s138a">138a</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs138d" data-uslm-ref="/us/usc/t10/s138d">138d.</a>  </td>
 
-    <td> Assistant Secretary of Defense for Logistics and Materiel Readiness.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs138b" data-uslm-ref="/us/usc/t10/s138b">138b.</a>  </td>
-
-    <td> Assistant Secretary of Defense for Research and Engineering.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs138c" data-uslm-ref="/us/usc/t10/s138c">138c.</a>  </td>
-
-    <td> Assistant Secretary of Defense for Operational Energy Plans and Programs.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs138d" data-uslm-ref="/us/usc/t10/s138d">138d.</a>  </td>
-
-    <td> Assistant Secretary of Defense for Nuclear, Chemical, and Biological Defense Programs.  </td>
+    <td> Repealed.]  </td>
 
   </tr>
 
@@ -233,9 +209,9 @@
 
   <tr>
 
-    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs142" data-uslm-ref="/us/usc/t10/s142">142.</a>  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs142" data-uslm-ref="/us/usc/t10/s142">142.</a>  </td>
 
-    <td>  Renumbered.]  </td>
+    <td> Chief Information Officer.  </td>
 
   </tr>
 
@@ -257,7 +233,17 @@
 
 </table>
 
+ __Amendment of Analysis__ 
+
+[Pub. L. 113–291, div. A, title IX, § 901][/us/pl/113/291/s901](l)(1)(A), Dec. 19, 2014, [128 Stat. 3468][/us/stat/128/3468], provided that, effective on Feb. 1, 2017, the item relating to section 132a is amended to read as follows: 
+
+> “132a. Under Secretary of Defense for Business Management and Information.”
+
  __Amendments__ 
+
+    2014—[Pub. L. 113–291, div. A, title IX, § 901][/us/pl/113/291/s901](l)(1)(B), (C), Dec. 19, 2014, [128 Stat. 3468][/us/stat/128/3468], added item 142 and struck out items 138a “Assistant Secretary of Defense for Logistics and Materiel Readiness”, 138b “Assistant Secretary of Defense for Research and Engineering”, 138c “Assistant Secretary of Defense for Operational Energy Plans and Programs”, and 138d “Assistant Secretary of Defense for Nuclear, Chemical, and Biological Defense Programs”.
+
+    [Pub. L. 113–291, div. A, title IX, § 901][/us/pl/113/291/s901](l)(1)(A), Dec. 19, 2014, [128 Stat. 3468][/us/stat/128/3468], substituted “Under Secretary of Defense for Business Management and Information” for “Deputy Chief Management Officer” in item 132a.
 
     2013—[Pub. L. 112–239, div. A, title X, § 1076(f)(2)][/us/pl/112/239/s1076/f/2], Jan. 2, 2013, [126 Stat. 1952][/us/stat/126/1952], struck out item 133b “Deputy Under Secretary of Defense for Logistics and Materiel Readiness”.
 
@@ -323,6 +309,10 @@
 
     1972—[Pub. L. 92–596, § 4(3)][/us/pl/92/596/s4/3], Oct. 27, 1972, [86 Stat. 1318][/us/stat/86/1318], substituted “Deputy Secretaries” for “Deputy Secretary” in item 134.
 
+ __Effective Date of 2014 Amendment__ 
+
+    [Pub. L. 113–291, div. A, title IX, § 901][/us/pl/113/291/s901](l)(1), Dec. 19, 2014, [128 Stat. 3468][/us/stat/128/3468], provided that the amendment made by section 901(l)(1) is effective on the effective date specified in section 901(a)(1), which is on Feb. 1, 2017.
+
 ----------
 
 [Previous](./../../../../../..//us/usc/t10/stA/ptI/ch3/m__us_usc_t10_s130f.md) | [Next](./../../../../../..//us/usc/t10/stA/ptI/ch4/m__us_usc_t10_s131.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2FstA%2FptI%2Fch4)
@@ -330,6 +320,12 @@
 ----------
 ----------
 
+[/us/pl/113/291/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs901
+[/us/stat/128/3468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3468
+[/us/pl/113/291/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs901
+[/us/stat/128/3468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3468
+[/us/pl/113/291/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs901
+[/us/stat/128/3468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3468
 [/us/pl/112/239/s1076/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1076%2Ff%2F2
 [/us/stat/126/1952]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1952
 [/us/pl/111/383/s901/k/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs901%2Fk%2F2%2FA
@@ -402,5 +398,7 @@
 [/us/stat/87/612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F612
 [/us/pl/92/596/s4/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F596%2Fs4%2F3
 [/us/stat/86/1318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1318
+[/us/pl/113/291/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs901
+[/us/stat/128/3468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3468
 
 

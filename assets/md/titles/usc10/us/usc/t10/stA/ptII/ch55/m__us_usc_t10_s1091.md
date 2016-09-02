@@ -93,6 +93,38 @@
 
 > “The amendments made by this section \[enacting this section, amending [section 201 of Title 37][/us/usc/t37/s201], Pay and Allowances of the Uniformed Services, and repealing sections 4022 and 9022 of this title and [section 421 of Title 37][/us/usc/t37/s421]\] shall take effect on October 1, 1983. Any contract of employment entered into under the authority of section 4022 or 9022 of title 10, United States Code, before the effective date of this section and which is in effect on such date shall remain in effect in accordance with the terms of such contract.”
 
+ __Acquisition Strategy for Health Care Professional Staffing Services__ 
+
+[Pub. L. 113–291, div. A, title VII, § 725][/us/pl/113/291/s725], Dec. 19, 2014, [128 Stat. 3418][/us/stat/128/3418], provided that:
+
+>     “(a) __Acquisition Strategy.—__ 
+
+>         “(1)  __In general__  __.—__ 
+
+>         The Secretary of Defense shall develop and carry out an acquisition strategy with respect to entering into contracts for the services of health care professional staff at military medical treatment facilities.
+
+>         “(2)  __Elements__  __.—__ 
+
+>         The acquisition strategy under paragraph (1) shall include the following:
+
+>             “(A) Identification of the responsibilities of the military departments and elements of the Department of Defense in carrying out such strategy.
+
+>             “(B) Methods to analyze, using reliable and detailed data covering the entire Department, the amount of funds expended on contracts for the services of health care professional staff.
+
+>             “(C) Methods to identify opportunities to consolidate requirements for such services and reduce cost.
+
+>             “(D) Methods to measure cost savings that are realized by using such contracts instead of purchased care.
+
+>             “(E) Metrics to determine the effectiveness of such strategy.
+
+>             “(F) Metrics to evaluate the success of the strategy in achieving its objectives, including metrics to assess the effects of the strategy on the timeliness of beneficiary access to professional health care services in military medical treatment facilities.
+
+>             “(G) Such other matters as the Secretary considers appropriate.
+
+>     “(b)  __Report__  __.—__ 
+
+>     Not later than 180 days after the date of the enactment of this Act \[Dec. 19, 2014\], the Secretary shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the status of implementing the acquisition strategy under paragraph (1) of subsection (a), including how each element under subparagraphs (A) through (G) of paragraph (2) of such subsection is being carried out.”
+
  __Test of Alternative Process for Conducting Medical Screenings for Enlistment Qualification__ 
 
     [Pub. L. 105–261, div. A, title VII, § 733(b)][/us/pl/105/261/s733/b], Oct. 17, 1998, [112 Stat. 2072][/us/stat/112/2072], as amended by [Pub. L. 106–65, div. A, title X, § 1067(3)][/us/pl/106/65/s1067/3], Oct. 5, 1999, [113 Stat. 774][/us/stat/113/774], directed the Secretary of Defense to conduct a test to determine whether an alternative to the system used by the Department of Defense of employing fee-basis physicians for determining the medical qualifications for enlistment of applicants for military service would reduce the number of disqualifying medical conditions detected during the initial entry training of such applicants, and whether an alternative system would meet or exceed the cost, responsiveness, and timeliness standards of the system in use or achieve any savings or cost avoidance, and to submit to committees of Congress a report on the results and findings of the test not later than Mar. 1, 2000.
@@ -165,6 +197,8 @@
 [/us/stat/97/650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F650
 [/us/usc/t37/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs201
 [/us/usc/t37/s421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs421
+[/us/pl/113/291/s725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs725
+[/us/stat/128/3418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3418
 [/us/pl/105/261/s733/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs733%2Fb
 [/us/stat/112/2072]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2072
 [/us/pl/106/65/s1067/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs1067%2F3

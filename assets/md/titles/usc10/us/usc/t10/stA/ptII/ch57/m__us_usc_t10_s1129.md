@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stA/ptII/ch57/m__us_usc_t10_s1128.md) | [Next](./../../../../../..//us/usc/t10/stA/ptII/ch57/m__us_usc_t10_s1130.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1129)
+[Previous](./../../../../../..//us/usc/t10/stA/ptII/ch57/m__us_usc_t10_s1128.md) | [Next](./../../../../../..//us/usc/t10/stA/ptII/ch57/m__us_usc_t10_s1129a.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1129)
 
 ## § 1129. Purple Heart: members killed or wounded in action by friendly fire
 
@@ -57,7 +57,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stA/ptII/ch57/m__us_usc_t10_s1128.md) | [Next](./../../../../../..//us/usc/t10/stA/ptII/ch57/m__us_usc_t10_s1130.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1129)
+[Previous](./../../../../../..//us/usc/t10/stA/ptII/ch57/m__us_usc_t10_s1128.md) | [Next](./../../../../../..//us/usc/t10/stA/ptII/ch57/m__us_usc_t10_s1129a.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1129)
 
 ----------
 ----------

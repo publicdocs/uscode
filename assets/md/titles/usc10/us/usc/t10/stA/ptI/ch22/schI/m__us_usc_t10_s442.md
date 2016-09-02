@@ -45,7 +45,7 @@
 
     (d)  __National Missions__  __.—__ 
 
-    The National Geospatial-Intelligence Agency also has national missions as specified in section 110(a) of the National Security Act of 1947 ([50 U.S.C. 404e(a)][/us/usc/t50/s404e/a]). <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup> 
+    The National Geospatial-Intelligence Agency also has national missions as specified in section 110(a) of the National Security Act of 1947 ([50 U.S.C. 3045(a)][/us/usc/t50/s3045/a]).
 
     (e)  __Systems__  __.—__ 
 
@@ -55,13 +55,11 @@
 
         (2) any other department or agency of the United States.
 
-(Added [Pub. L. 104–201, div. A, title XI, § 1112(a)(2)][/us/pl/104/201/s1112/a/2], Sept. 23, 1996, [110 Stat. 2678][/us/stat/110/2678]; amended [Pub. L. 108–136, div. A, title IX, § 921(c)(1)][/us/pl/108/136/s921/c/1], (d)(2)(A), (f), Nov. 24, 2003, [117 Stat. 1568][/us/stat/117/1568], 1570; [Pub. L. 111–259, title IV, § 432][/us/pl/111/259/s432], Oct. 7, 2010, [124 Stat. 2732][/us/stat/124/2732].)
-
- __References in Text__ 
-
-    The National Security Act of 1947, referred to in subsec. (d), is [act July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], [61 Stat. 495][/us/stat/61/495], which was formerly classified principally to chapter 15 (§ 401 et seq.) of Title 50, War and National Defense, prior to editorial reclassification in chapter 44 (§ 3001 et seq.) of Title 50. Section 110 of the Act is now classified to [section 3045 of Title 50][/us/usc/t50/s3045]. For complete classification of this Act to the Code, see Tables.
+(Added [Pub. L. 104–201, div. A, title XI, § 1112(a)(2)][/us/pl/104/201/s1112/a/2], Sept. 23, 1996, [110 Stat. 2678][/us/stat/110/2678]; amended [Pub. L. 108–136, div. A, title IX, § 921(c)(1)][/us/pl/108/136/s921/c/1], (d)(2)(A), (f), Nov. 24, 2003, [117 Stat. 1568][/us/stat/117/1568], 1570; [Pub. L. 111–259, title IV, § 432][/us/pl/111/259/s432], Oct. 7, 2010, [124 Stat. 2732][/us/stat/124/2732]; [Pub. L. 113–291, div. A, title X, § 1071(c)(6)][/us/pl/113/291/s1071/c/6], Dec. 19, 2014, [128 Stat. 3509][/us/stat/128/3509].)
 
  __Amendments__ 
+
+    2014—Subsec. (d). [Pub. L. 113–291][/us/pl/113/291] substituted “([50 U.S.C. 3045(a)][/us/usc/t50/s3045/a])” for “([50 U.S.C. 404e(a)][/us/usc/t50/s404e/a])”.
 
     2010—Subsec. (a)(2). [Pub. L. 111–259, § 432(2)][/us/pl/111/259/s432/2], added par. (2). Former par. (2) redesignated (3).
 
@@ -84,16 +82,18 @@
 ----------
 ----------
 
-[/us/usc/t50/s404e/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs404e%2Fa
+[/us/usc/t50/s3045/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3045%2Fa
 [/us/pl/104/201/s1112/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1112%2Fa%2F2
 [/us/stat/110/2678]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2678
 [/us/pl/108/136/s921/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs921%2Fc%2F1
 [/us/stat/117/1568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1568
 [/us/pl/111/259/s432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs432
 [/us/stat/124/2732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2732
-[/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
-[/us/stat/61/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F495
-[/us/usc/t50/s3045]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3045
+[/us/pl/113/291/s1071/c/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Fc%2F6
+[/us/stat/128/3509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3509
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/usc/t50/s3045/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3045%2Fa
+[/us/usc/t50/s404e/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs404e%2Fa
 [/us/pl/111/259/s432/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs432%2F2
 [/us/pl/111/259/s432/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs432%2F1
 [/us/pl/108/136/s921/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs921%2Fc%2F1%2FA

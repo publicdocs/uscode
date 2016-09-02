@@ -33,11 +33,11 @@
 
     The Director of the Missile Defense Agency shall include in the performance criteria prescribed for planned development phases of the ballistic missile defense system and its elements a description of the intended effectiveness of each such phase against foreign adversary capabilities.
 
-    (d)  __Testing Progress__  __.—__ 
+(Added [Pub. L. 108–136, div. A, title II, § 223(a)(1)][/us/pl/108/136/s223/a/1], Nov. 24, 2003, [117 Stat. 1420][/us/stat/117/1420]; amended [Pub. L. 113–291, div. A, title X, § 1060(a)(1)][/us/pl/113/291/s1060/a/1], Dec. 19, 2014, [128 Stat. 3502][/us/stat/128/3502].)
 
-    The Director of Operational Test and Evaluation shall make available for review by the congressional defense committees the developmental and operational test plans established to assess the effectiveness of the ballistic missile defense system and its elements with respect to the performance criteria described in subsection (c).
+ __Amendments__ 
 
-(Added [Pub. L. 108–136, div. A, title II, § 223(a)(1)][/us/pl/108/136/s223/a/1], Nov. 24, 2003, [117 Stat. 1420][/us/stat/117/1420].)
+    2014—Subsec. (d). [Pub. L. 113–291][/us/pl/113/291] struck out subsec. (d). Prior to amendment, text read as follows: “The Director of Operational Test and Evaluation shall make available for review by the congressional defense committees the developmental and operational test plans established to assess the effectiveness of the ballistic missile defense system and its elements with respect to the performance criteria described in subsection (c).”
 
  __Implementation of Requirement for Availability of Test Plans__ 
 
@@ -54,6 +54,9 @@
 [/us/usc/t10/s221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs221
 [/us/pl/108/136/s223/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs223%2Fa%2F1
 [/us/stat/117/1420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1420
+[/us/pl/113/291/s1060/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1060%2Fa%2F1
+[/us/stat/128/3502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3502
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/pl/108/136/s223/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs223%2Fb
 [/us/stat/117/1420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1420
 

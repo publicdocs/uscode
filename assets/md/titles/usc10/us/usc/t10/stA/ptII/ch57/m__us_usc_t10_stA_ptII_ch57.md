@@ -97,6 +97,14 @@
 
   <tr>
 
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1129a" data-uslm-ref="/us/usc/t10/s1129a">1129a.</a>  </td>
+
+    <td> Purple Heart: members killed or wounded in attacks by foreign terrorist organizations.  </td>
+
+  </tr>
+
+  <tr>
+
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1130" data-uslm-ref="/us/usc/t10/s1130">1130.</a>  </td>
 
     <td> Consideration of proposals for decorations not previously submitted in timely fashion: procedures for review.  </td>
@@ -154,6 +162,8 @@
 </table>
 
  __Amendments__ 
+
+    2014—[Pub. L. 113–291, div. A, title V, § 571(a)(1)(B)][/us/pl/113/291/s571/a/1/B], Dec. 19, 2014, [128 Stat. 3387][/us/stat/128/3387], added item 1129a.
 
     2013—[Pub. L. 113–66, div. A, title V, § 563(a)(2)][/us/pl/113/66/s563/a/2], Dec. 26, 2013, [127 Stat. 767][/us/stat/127/767], added item 1134a.
 
@@ -414,6 +424,8 @@
 ----------
 ----------
 
+[/us/pl/113/291/s571/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs571%2Fa%2F1%2FB
+[/us/stat/128/3387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3387
 [/us/pl/113/66/s563/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs563%2Fa%2F2
 [/us/stat/127/767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F767
 [/us/pl/111/383/s571/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs571%2Fb

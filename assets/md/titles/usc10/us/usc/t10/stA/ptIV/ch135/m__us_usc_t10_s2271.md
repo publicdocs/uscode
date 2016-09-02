@@ -37,9 +37,53 @@
 
     A prior section 2271, [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 123][/us/stat/70A/123], related to competitions for designs of aircraft, aircraft parts, and aeronautical accessories, prior to repeal by [Pub. L. 103–160, div. A, title VIII, § 821(a)(1)][/us/pl/103/160/s821/a/1], Nov. 30, 1993, [107 Stat. 1704][/us/stat/107/1704].
 
+ __Satellite Communications Responsibilities of Executive Agent for Space__ 
+
+[Pub. L. 113–291, div. A, title XVI, § 1603][/us/pl/113/291/s1603], Dec. 19, 2014, [128 Stat. 3622][/us/stat/128/3622], provided that: 
+
+> “The Secretary of Defense shall, not later than 180 days after the date of the enactment of this Act \[Dec. 19, 2014\], revise Department of Defense directives and guidance to require the Department of Defense Executive Agent for Space to ensure that in developing space strategies, architectures, and programs for satellite communications, the Executive Agent shall—
+
+>     “(1) conduct strategic planning to ensure the Department of Defense is effectively and efficiently meeting the satellite communications requirements of the military departments and commanders of the combatant commands;
+
+>     “(2) coordinate with the secretaries of the military departments, the commanders of the combatant commands, and the heads of Defense Agencies to eliminate duplication of effort and to ensure that resources are used to achieve the maximum effort in related satellite communication science and technology; research, development, test and evaluation; production; and operations and sustainment;
+
+>     “(3) coordinate with the Under Secretary of Defense for Acquisition, Technology, and Logistics and the Chief Information Officer of the Department to ensure that effective and efficient acquisition approaches are being used to acquire military and commercial satellite communications for the Department, including space, ground, and user terminal integration; and
+
+>     “(4) coordinate with the chairman of the Joint Requirements Oversight Council to develop a process to identify the current and projected satellite communications requirements of the Department.”
+
+ __Prohibition on Contracting With Russian Suppliers of Rocket Engines for the Evolved Expendable Launch Vehicle Program__ 
+
+[Pub. L. 113–291, div. A, title XVI, § 1608][/us/pl/113/291/s1608], Dec. 19, 2014, [128 Stat. 3626][/us/stat/128/3626], provided that:
+
+>     “(a)  __In General__  __.—__ 
+
+>     Except as provided by subsections (b) and (c), beginning on the date of the enactment of this Act \[Dec. 19, 2014\], the Secretary of Defense may not award or renew a contract for the procurement of property or services for space launch activities under the evolved expendable launch vehicle program if such contract carries out such space launch activities using rocket engines designed or manufactured in the Russian Federation.
+
+>     “(b)  __Waiver__  __.—__ 
+
+>     The Secretary may waive the prohibition under subsection (a) with respect to a contract for the procurement of property or services for space launch activities if the Secretary determines, and certifies to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] not later than 30 days before the waiver takes effect, that—
+
+>         “(1) the waiver is necessary for the national security interests of the United States; and
+
+>         “(2) the space launch services and capabilities covered by the contract could not be obtained at a fair and reasonable price without the use of rocket engines designed or manufactured in the Russian Federation.
+
+>     “(c) __Exception.—__ 
+
+>         “(1)  __In general__  __.—__ 
+
+>         The prohibition in subsection (a) shall not apply to either—
+
+>             “(A) the placement of orders or the exercise of options under the contract numbered FA8811–13–C–0003 and awarded on December 18, 2013; or
+
+>             “(B) subject to paragraph (2), a contract awarded for the procurement of property or services for space launch activities that includes the use of rocket engines designed or manufactured in the Russian Federation that prior to February 1, 2014, were either fully paid for by the contractor or covered by a legally binding commitment of the contractor to fully pay for such rocket engines.
+
+>         “(2)  __Certification__  __.—__ 
+
+>         The Secretary may not award or renew a contract for the procurement of property or services for space launch activities described in paragraph (1)(B) unless the Secretary, upon the advice of the General Counsel of the Department of Defense, certifies to the congressional defense committees that the offeror has provided to the Secretary sufficient documentation to conclusively demonstrate that prior to February 1, 2014, the offeror had either fully paid for the rocket engines described in such paragraph or made a legally binding commitment to fully pay for such rocket engines.”
+
  __Integrated Space Architectures__ 
 
-[Pub. L. 111–383, div. A, title IX, § 911][/us/pl/111/383/s911], Jan. 7, 2011, [124 Stat. 4328][/us/stat/124/4328], provided that: 
+[Pub. L. 111–383, div. A, title IX, § 911][/us/pl/111/383/s911], Jan. 7, 2011, [124 Stat. 4328][/us/stat/124/4328], as amended by [Pub. L. 113–291, div. A, title X, § 1071(d)(1)(A)][/us/pl/113/291/s1071/d/1/A], Dec. 19, 2014, [128 Stat. 3509][/us/stat/128/3509], provided that: 
 
 > “The Secretary of Defense and the Director of National Intelligence shall develop an integrated process for national security space architecture planning, development, coordination, and analysis that—
 
@@ -47,13 +91,13 @@
 
 >     “(2) provides mid-term to long-term recommendations to guide space-related defense and intelligence acquisitions, requirements, and investment decisions;
 
->     “(3) is independent of, but coordinated with, the space architecture planning, development, coordination, and analysis activities of each military department and each element of the intelligence community (as defined in section 3(4) of the National Security Act of 1947 ([50 U.S.C. 401a(4)][/us/usc/t50/s401a/4]) \[now [50 U.S.C. 3003(4)][/us/usc/t50/s3003/4]\]); and
+>     “(3) is independent of, but coordinated with, the space architecture planning, development, coordination, and analysis activities of each military department and each element of the intelligence community (as defined in section 3(4) of the National Security Act of 1947 ([50 U.S.C. 3003(4)][/us/usc/t50/s3003/4])); and
 
 >     “(4) makes use of, to the maximum extent practicable, joint duty assignment (as defined in [section 668 of title 10][/us/usc/t10/s668], United States Code) positions.”
 
  __Space Protection Strategy__ 
 
-[Pub. L. 110–181, div. A, title IX, § 911(a)][/us/pl/110/181/s911/a]–(f), Jan. 28, 2008, [122 Stat. 279][/us/stat/122/279], 280, as amended by [Pub. L. 113–66, div. A, title IX, § 912(c)][/us/pl/113/66/s912/c], Dec. 26, 2013, [127 Stat. 824][/us/stat/127/824], provided that:
+[Pub. L. 110–181, div. A, title IX, § 911(a)][/us/pl/110/181/s911/a]–(f), Jan. 28, 2008, [122 Stat. 279][/us/stat/122/279], 280, as amended by [Pub. L. 113–66, div. A, title IX, § 912(c)][/us/pl/113/66/s912/c], Dec. 26, 2013, [127 Stat. 824][/us/stat/127/824]; [Pub. L. 113–291, div. A, title X, § 1071(d)(1)(B)][/us/pl/113/291/s1071/d/1/B], title XVI, § 1606(e), Dec. 19, 2014, [128 Stat. 3509][/us/stat/128/3509], 3625, provided that:
 
 >     “(a)  __Sense of Congress__  __.—__ 
 
@@ -101,13 +145,15 @@
 
 >         “(3) Fiscal years 2020 through 2025.
 
+>         “(4) Fiscal years 2026 through 2030.
+
 >     “(e)  __Definitions__  __.—__ 
 
 >     In this section—
 
 >         “(1) the term ‘capabilities’ means space, airborne, and ground systems and capabilities for space situational awareness and for space systems protection; and
 
->         “(2) the term ‘intelligence community’ has the meaning given such term in section 3(4) of the National Security Act of 1947 ([50 U.S.C. 401a(4)][/us/usc/t50/s401a/4]) \[now 50 U.S.C 3003(4)\].
+>         “(2) the term ‘intelligence community’ has the meaning given such term in section 3(4) of the National Security Act of 1947 ([50 U.S.C. 3003(4)][/us/usc/t50/s3003/4]).
 
 >     “(f) __Report; Biennial Update.—__ 
 
@@ -194,16 +240,23 @@
 [/us/stat/70A/123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F123
 [/us/pl/103/160/s821/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs821%2Fa%2F1
 [/us/stat/107/1704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1704
+[/us/pl/113/291/s1603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1603
+[/us/stat/128/3622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3622
+[/us/pl/113/291/s1608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1608
+[/us/stat/128/3626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3626
 [/us/pl/111/383/s911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs911
 [/us/stat/124/4328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4328
-[/us/usc/t50/s401a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs401a%2F4
+[/us/pl/113/291/s1071/d/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Fd%2F1%2FA
+[/us/stat/128/3509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3509
 [/us/usc/t50/s3003/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3003%2F4
 [/us/usc/t10/s668]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs668
 [/us/pl/110/181/s911/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs911%2Fa
 [/us/stat/122/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F279
 [/us/pl/113/66/s912/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs912%2Fc
 [/us/stat/127/824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F824
-[/us/usc/t50/s401a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs401a%2F4
+[/us/pl/113/291/s1071/d/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Fd%2F1%2FB
+[/us/stat/128/3509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3509
+[/us/usc/t50/s3003/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3003%2F4
 [/us/pl/110/181/s1065]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1065
 [/us/stat/122/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F324
 [/us/pl/109/163/s911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs911

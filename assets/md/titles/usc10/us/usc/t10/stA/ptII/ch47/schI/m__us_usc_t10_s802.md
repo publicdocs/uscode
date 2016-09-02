@@ -251,9 +251,11 @@ For information regarding constitutionality of certain provisions of section 1 (
 
  __Effective Date of 2013 Amendment__ 
 
-[Pub. L. 113–66, div. A, title XVII, § 1702(d)(1)][/us/pl/113/66/s1702/d/1], Dec. 26, 2013, [127 Stat. 958][/us/stat/127/958], provided that: 
+[Pub. L. 113–66, div. A, title XVII, § 1702(d)(1)][/us/pl/113/66/s1702/d/1], Dec. 26, 2013, [127 Stat. 958][/us/stat/127/958], as amended by [Pub. L. 113–291, div. A, title V, § 531(g)(1)][/us/pl/113/291/s531/g/1], Dec. 19, 2014, [128 Stat. 3365][/us/stat/128/3365], provided that: 
 
-> “The amendments made by subsections (a) and (c)(3) \[amending this section and sections 832, 834, 838, 847, and 948b of this title\] shall take effect one year after the date of the enactment of this Act \[Dec. 26, 2013\] and shall apply with respect to offenses committed under chapter 47 of title 10, United States Code (the Uniform Code of Military Justice), on or after that effective date.”
+> “The amendments made by subsections (a) and (c)(3) \[amending this section and sections 832, 834, 838, 847, and 948b of this title\] shall take effect on the later of December 26, 2014, or the date of the enactment of the Carl Levin and Howard P. ‘Buck’ McKeon National Defense Authorization Act for Fiscal Year 2015 \[Dec. 19, 2014\] and shall apply with respect to preliminary hearings conducted on or after that effective date.”
+
+    \[[Pub. L. 113–291, div. A, title V, § 531(g)(1)][/us/pl/113/291/s531/g/1], Dec. 19, 2014, [128 Stat. 3365][/us/stat/128/3365], provided that the amendment by section 531(g)(1) to [section 1702(d)(1) of Pub. L. 113–66][/us/pl/113/66/s1702/d/1], set out above, is effective as of Dec. 26, 2013, and as if included in [section 1702(d)(1) of Pub. L. 113–66][/us/pl/113/66/s1702/d/1], as enacted.\]”
 
  __Effective Date of 1986 Amendment__ 
 
@@ -394,6 +396,12 @@ For information regarding constitutionality of certain provisions of section 1 (
 [/us/pl/86/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F70
 [/us/pl/113/66/s1702/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1702%2Fd%2F1
 [/us/stat/127/958]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F958
+[/us/pl/113/291/s531/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs531%2Fg%2F1
+[/us/stat/128/3365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3365
+[/us/pl/113/291/s531/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs531%2Fg%2F1
+[/us/stat/128/3365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3365
+[/us/pl/113/66/s1702/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1702%2Fd%2F1
+[/us/pl/113/66/s1702/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1702%2Fd%2F1
 [/us/pl/99/661/s804/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs804%2Fe
 [/us/stat/100/3908]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3908
 [/us/usc/t10/s803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs803

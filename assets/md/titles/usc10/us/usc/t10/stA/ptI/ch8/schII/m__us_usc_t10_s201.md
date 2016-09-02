@@ -21,7 +21,7 @@
 
     (b)  __Concurrence in Appointment__  __.—__ 
 
-        (1) In the event of a vacancy in a position referred to in paragraph (2), before appointing an individual to fill the vacancy or recommending to the President an individual to be nominated to fill the vacancy, the Secretary of Defense shall obtain the concurrence of the Director of National Intelligence as provided in section 106(b) of the National Security Act of 1947 ([50 U.S.C. 403–6(b)][/us/usc/t50/s403–6/b]). <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup> 
+        (1) In the event of a vacancy in a position referred to in paragraph (2), before appointing an individual to fill the vacancy or recommending to the President an individual to be nominated to fill the vacancy, the Secretary of Defense shall obtain the concurrence of the Director of National Intelligence as provided in section 106(b) of the National Security Act of 1947 ([50 U.S.C. 3041(b)][/us/usc/t50/s3041/b]).
 
         (2)
 
@@ -47,17 +47,15 @@
 
             (C) The Director of the National Geospatial-Intelligence Agency.
 
-(Added [Pub. L. 102–190, div. A, title IX, § 922(a)(2)][/us/pl/102/190/s922/a/2], Dec. 5, 1991, [105 Stat. 1453][/us/stat/105/1453]; amended [Pub. L. 104–201, div. A, title XI, § 1103(a)][/us/pl/104/201/s1103/a], Sept. 23, 1996, [110 Stat. 2676][/us/stat/110/2676]; [Pub. L. 108–136, div. A, title IX, § 921(d)(4)][/us/pl/108/136/s921/d/4], Nov. 24, 2003, [117 Stat. 1569][/us/stat/117/1569]; [Pub. L. 110–181, div. A, title IX, § 931(a)(4)][/us/pl/110/181/s931/a/4], (5), (c)(2), Jan. 28, 2008, [122 Stat. 285][/us/stat/122/285]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title IX, § 932(a)(3)–(5), Oct. 14, 2008, [122 Stat. 4576][/us/stat/122/4576]; [Pub. L. 111–84, div. A, title X, § 1073(c)(10)][/us/pl/111/84/s1073/c/10], Oct. 28, 2009, [123 Stat. 2475][/us/stat/123/2475].)
-
- __References in Text__ 
-
-    The National Security Act of 1947, referred to in subsec. (b)(1), is [act July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], [61 Stat. 495][/us/stat/61/495], which was formerly classified principally to chapter 15 (§ 401 et seq.) of Title 50, War and National Defense, prior to editorial reclassification in chapter 44 (§ 3001 et seq.) of Title 50. Section 106 of the Act is now classified to [section 3041 of Title 50][/us/usc/t50/s3041]. For complete classification of this Act to the Code, see Tables.
+(Added [Pub. L. 102–190, div. A, title IX, § 922(a)(2)][/us/pl/102/190/s922/a/2], Dec. 5, 1991, [105 Stat. 1453][/us/stat/105/1453]; amended [Pub. L. 104–201, div. A, title XI, § 1103(a)][/us/pl/104/201/s1103/a], Sept. 23, 1996, [110 Stat. 2676][/us/stat/110/2676]; [Pub. L. 108–136, div. A, title IX, § 921(d)(4)][/us/pl/108/136/s921/d/4], Nov. 24, 2003, [117 Stat. 1569][/us/stat/117/1569]; [Pub. L. 110–181, div. A, title IX, § 931(a)(4)][/us/pl/110/181/s931/a/4], (5), (c)(2), Jan. 28, 2008, [122 Stat. 285][/us/stat/122/285]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title IX, § 932(a)(3)–(5), Oct. 14, 2008, [122 Stat. 4576][/us/stat/122/4576]; [Pub. L. 111–84, div. A, title X, § 1073(c)(10)][/us/pl/111/84/s1073/c/10], Oct. 28, 2009, [123 Stat. 2475][/us/stat/123/2475]; [Pub. L. 113–291, div. A, title X, § 1071(c)(4)][/us/pl/113/291/s1071/c/4], Dec. 19, 2014, [128 Stat. 3508][/us/stat/128/3508].)
 
  __Prior Provisions__ 
 
     A prior section 201 was renumbered [section 202 of this title][/us/usc/t10/s202] and subsequently repealed.
 
  __Amendments__ 
+
+    2014—Subsec. (b)(1). [Pub. L. 113–291][/us/pl/113/291] substituted “([50 U.S.C. 3041(b)][/us/usc/t50/s3041/b])” for “([50 U.S.C. 403–6(b)][/us/usc/t50/s403–6/b])”.
 
     2009—Subsecs. (a), (b)(1), (c)(1). [Pub. L. 111–84][/us/pl/111/84] repealed [Pub. L. 110–417, § 932(a)(3)][/us/pl/110/417/s932/a/3]–(5). See 2008 Amendment notes below.
 
@@ -110,7 +108,7 @@
 ----------
 ----------
 
-[/us/usc/t50/s403–6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs403%E2%80%936%2Fb
+[/us/usc/t50/s3041/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3041%2Fb
 [/us/pl/102/190/s922/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs922%2Fa%2F2
 [/us/stat/105/1453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1453
 [/us/pl/104/201/s1103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1103%2Fa
@@ -123,10 +121,12 @@
 [/us/stat/122/4576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4576
 [/us/pl/111/84/s1073/c/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs1073%2Fc%2F10
 [/us/stat/123/2475]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2475
-[/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
-[/us/stat/61/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F495
-[/us/usc/t50/s3041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3041
+[/us/pl/113/291/s1071/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Fc%2F4
+[/us/stat/128/3508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3508
 [/us/usc/t10/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs202
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/usc/t50/s3041/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3041%2Fb
+[/us/usc/t50/s403–6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs403%E2%80%936%2Fb
 [/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
 [/us/pl/110/417/s932/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs932%2Fa%2F3
 [/us/pl/110/181/s931/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs931%2Fa%2F4

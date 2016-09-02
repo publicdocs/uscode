@@ -45,9 +45,9 @@
 
             (C) Each release from active duty under subparagraph (B) shall be thoroughly documented.
 
-        (3) The requirements in paragraph (1) shall expire on the date that is five years after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2010.
+        (3) The requirements in paragraph (1) shall expire on October 28, 2014.
 
-(Added [Pub. L. 85–56, title XXII, § 2201(31)(A)][/us/pl/85/56/s2201/31/A], June 17, 1957, [71 Stat. 160][/us/stat/71/160]; amended [Pub. L. 87–651, title I, § 107(c)][/us/pl/87/651/s107/c], Sept. 7, 1962, [76 Stat. 508][/us/stat/76/508]; [Pub. L. 101–189, div. A, title XVI, § 1621(a)(1)][/us/pl/101/189/s1621/a/1], (4), Nov. 29, 1989, [103 Stat. 1602][/us/stat/103/1602], 1603; [Pub. L. 111–84, div. A, title V, § 511][/us/pl/111/84/s511], Oct. 28, 2009, [123 Stat. 2280][/us/stat/123/2280].)
+(Added [Pub. L. 85–56, title XXII, § 2201(31)(A)][/us/pl/85/56/s2201/31/A], June 17, 1957, [71 Stat. 160][/us/stat/71/160]; amended [Pub. L. 87–651, title I, § 107(c)][/us/pl/87/651/s107/c], Sept. 7, 1962, [76 Stat. 508][/us/stat/76/508]; [Pub. L. 101–189, div. A, title XVI, § 1621(a)(1)][/us/pl/101/189/s1621/a/1], (4), Nov. 29, 1989, [103 Stat. 1602][/us/stat/103/1602], 1603; [Pub. L. 111–84, div. A, title V, § 511][/us/pl/111/84/s511], Oct. 28, 2009, [123 Stat. 2280][/us/stat/123/2280]; [Pub. L. 113–291, div. A, title X, § 1071(e)(1)][/us/pl/113/291/s1071/e/1], Dec. 19, 2014, [128 Stat. 3509][/us/stat/128/3509].)
 
  __Historical and Revision Notes__ 
 
@@ -55,11 +55,9 @@
 
     Sections 1218 and 1219 are restated, without substantive change, to conform to the style adopted for title 10.
 
- __References in Text__ 
-
-    The date of the enactment of the National Defense Authorization Act for Fiscal Year 2010, referred to in subsec. (d)(3), is the date of enactment of [Pub. L. 111–84][/us/pl/111/84], which was approved Oct. 28, 2009.
-
  __Amendments__ 
+
+    2014—Subsec. (d)(3). [Pub. L. 113–291][/us/pl/113/291] substituted “on October 28, 2014” for “on the date that is five years after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2010”.
 
     2009—Subsec. (d). [Pub. L. 111–84][/us/pl/111/84] added subsec. (d).
 
@@ -89,7 +87,9 @@
 [/us/stat/103/1602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1602
 [/us/pl/111/84/s511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs511
 [/us/stat/123/2280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2280
-[/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
+[/us/pl/113/291/s1071/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Fe%2F1
+[/us/stat/128/3509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3509
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
 [/us/pl/101/189/s1621/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs1621%2Fa%2F1
 [/us/pl/101/189/s1621/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs1621%2Fa%2F4

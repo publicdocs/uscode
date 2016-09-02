@@ -201,6 +201,44 @@
 
     1991—Subsec. (d)(3). [Pub. L. 102–190][/us/pl/102/190] inserted “provide” before “a comprehensive”.
 
+ __Centralized Database of Information on Military Technician Positions__ 
+
+[Pub. L. 113–291, div. A, title V, § 513][/us/pl/113/291/s513], Dec. 19, 2014, [128 Stat. 3359][/us/stat/128/3359], provided that:
+
+>     “(a)  __Centralized Database Required__  __.—__ 
+
+>     The Secretary of Defense shall establish and maintain a centralized database of information on military technician positions that will contain and set forth current information on all military technician positions of the Armed Forces.
+
+>     “(b) __Elements.—__ 
+
+>         “(1)  __Identification of positions__  __.—__ 
+
+>         The database required by subsection (a) shall identify each military technician position, whether dual-status or non-dual status.
+
+>         “(2)  __Additional details__  __.—__ 
+
+>         For each military technician position identified pursuant to paragraph (1), the database required by subsection (a) shall include the following:
+
+>             “(A) A description of the functions of the position.
+
+>             “(B) A statement of the military necessity for the position.
+
+>             “(C)
+
+>              A statement of whether the position is—
+
+>                 “(i) a general administration, clerical, or office service occupation; or
+
+>                 “(ii) directly related to the maintenance of military readiness.
+
+>     “(c)  __Consultation__  __.—__ 
+
+>     The Secretary of Defense shall establish the database required by subsection (a) in consultation with the Secretaries of the military departments.
+
+>     “(d)  __Implementation Report__  __.—__ 
+
+>     Not later than September 1, 2015, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report describing the progress made in establishing the database required by subsection (a).”
+
  __Assessment of Structure and Mix of Active and Reserve Forces__ 
 
     [Pub. L. 102–190, div. A, title IV, § 402][/us/pl/102/190/s402], Dec. 5, 1991, [105 Stat. 1349][/us/stat/105/1349], as amended by [Pub. L. 102–484, div. A, title V, § 513(b)][/us/pl/102/484/s513/b], Oct. 23, 1992, [106 Stat. 2406][/us/stat/106/2406], required Secretary of Defense to submit to Congress a report containing an assessment of alternatives relating to structure and mix of active and reserve forces appropriate for carrying out assigned missions in mid- to late-1990s and an evaluation and recommendations of Secretary and Chairman of Joint Chiefs of Staff as to mix or mixes of reserve and active forces considered acceptable to carry out expected future missions, and further provided for matters to be included in report and evaluation, commencement of assessment, submission of interim and final reports, and funding for assessment.
@@ -256,6 +294,8 @@
 [/us/pl/104/106/s1061/d/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1061%2Fd%2F5
 [/us/pl/104/106/s513/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs513%2Fe
 [/us/pl/102/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190
+[/us/pl/113/291/s513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs513
+[/us/stat/128/3359]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3359
 [/us/pl/102/190/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs402
 [/us/stat/105/1349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1349
 [/us/pl/102/484/s513/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs513%2Fb

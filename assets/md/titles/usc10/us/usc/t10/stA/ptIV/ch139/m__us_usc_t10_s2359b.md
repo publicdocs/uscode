@@ -145,7 +145,7 @@
 
             (A)  __Nondevelopmental item__  __.—__ 
 
-            The term “nondevelopmental item” has the meaning given that term in section 4  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of the Office of Federal Procurement Policy Act ([41 U.S.C. 403][/us/usc/t41/s403]).
+            The term “nondevelopmental item” has the meaning given that term in [section 110 of title 41][/us/usc/t41/s110].
 
             (B)  __Covered acquisition program__  __.—__ 
 
@@ -159,15 +159,15 @@
 
         The authority to carry out the pilot program under this subsection shall terminate on January 7, 2016.
 
-(Added [Pub. L. 107–314, div. A, title II, § 243(a)][/us/pl/107/314/s243/a], Dec. 2, 2002, [116 Stat. 2495][/us/stat/116/2495]; amended [Pub. L. 109–364, div. A, title II, § 213(b)][/us/pl/109/364/s213/b], (d)–(g), Oct. 17, 2006, [120 Stat. 2121–2123][/us/stat/120/2121-2123]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title VIII, § 821, Oct. 14, 2008, [122 Stat. 4531][/us/stat/122/4531]; [Pub. L. 111–383, div. A, title VIII, § 827][/us/pl/111/383/s827], Jan. 7, 2011, [124 Stat. 4270][/us/stat/124/4270]; [Pub. L. 112–239, div. A, title X, § 1076(e)(3)][/us/pl/112/239/s1076/e/3], Jan. 2, 2013, [126 Stat. 1951][/us/stat/126/1951]; [Pub. L. 113–66, div. A, title X, § 1091(a)(10)][/us/pl/113/66/s1091/a/10], Dec. 26, 2013, [127 Stat. 876][/us/stat/127/876].)
+(Added [Pub. L. 107–314, div. A, title II, § 243(a)][/us/pl/107/314/s243/a], Dec. 2, 2002, [116 Stat. 2495][/us/stat/116/2495]; amended [Pub. L. 109–364, div. A, title II, § 213(b)][/us/pl/109/364/s213/b], (d)–(g), Oct. 17, 2006, [120 Stat. 2121–2123][/us/stat/120/2121-2123]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title VIII, § 821, Oct. 14, 2008, [122 Stat. 4531][/us/stat/122/4531]; [Pub. L. 111–383, div. A, title VIII, § 827][/us/pl/111/383/s827], Jan. 7, 2011, [124 Stat. 4270][/us/stat/124/4270]; [Pub. L. 112–239, div. A, title X, § 1076(e)(3)][/us/pl/112/239/s1076/e/3], Jan. 2, 2013, [126 Stat. 1951][/us/stat/126/1951]; [Pub. L. 113–66, div. A, title X, § 1091(a)(10)][/us/pl/113/66/s1091/a/10], Dec. 26, 2013, [127 Stat. 876][/us/stat/127/876]; [Pub. L. 113–291, div. A, title X, § 1071(a)(6)][/us/pl/113/291/s1071/a/6], Dec. 19, 2014, [128 Stat. 3504][/us/stat/128/3504].)
 
  __References in Text__ 
-
-    Section 4 of the Office of Federal Procurement Policy Act, referred to in subsec. (k)(4)(A), is [section 4 of Pub. L. 93–400][/us/pl/93/400/s4], which was classified to section 403 of former Title 41, Public Contracts, and was repealed and the provisions thereof restated in sections 102, 103, 105, 107 to 116, 131 to 134, and 1301 of Title 41, Public Contracts, by [Pub. L. 111–350][/us/pl/111/350], §§ 3, 7(b), Jan. 4, 2011, [124 Stat. 3677][/us/stat/124/3677], 3855. For disposition of sections of former Title 41, see Disposition Table preceding [section 101 of Title 41][/us/usc/t41/s101].
 
     The Small Business Act, referred to in subsec. (k)(4)(B), is [Pub. L. 85–536, § 2][/us/pl/85/536/s2](1 et seq.), July 18, 1958, [72 Stat. 384][/us/stat/72/384], which is classified generally to chapter 14A (§ 631 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 631 of Title 15][/us/usc/t15/s631] and Tables.
 
  __Amendments__ 
+
+    2014—Subsec. (k)(4)(A). [Pub. L. 113–291][/us/pl/113/291] substituted “[section 110 of title 41][/us/usc/t41/s110]” for “section 4 of the Office of Federal Procurement Policy Act ([41 U.S.C. 403][/us/usc/t41/s403])”.
 
     2013—Subsec. (k)(4)(B). [Pub. L. 113–66][/us/pl/113/66] inserted period at end.
 
@@ -211,7 +211,7 @@
 [/us/usc/t10/s2433/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2433%2Fd
 [/us/usc/t10/s2433/e/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2433%2Fe%2F2%2FA
 [/us/usc/t10/s2302/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2302%2F5
-[/us/usc/t41/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs403
+[/us/usc/t41/s110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs110
 [/us/usc/t15/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs631
 [/us/pl/107/314/s243/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs243%2Fa
 [/us/stat/116/2495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2495
@@ -225,13 +225,14 @@
 [/us/stat/126/1951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1951
 [/us/pl/113/66/s1091/a/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1091%2Fa%2F10
 [/us/stat/127/876]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F876
-[/us/pl/93/400/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F400%2Fs4
-[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
-[/us/stat/124/3677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3677
-[/us/usc/t41/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs101
+[/us/pl/113/291/s1071/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Fa%2F6
+[/us/stat/128/3504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3504
 [/us/pl/85/536/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F536%2Fs2
 [/us/stat/72/384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F384
 [/us/usc/t15/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs631
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/usc/t41/s110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs110
+[/us/usc/t41/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs403
 [/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383

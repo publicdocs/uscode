@@ -91,7 +91,7 @@
 
                 (i) not to have been covered by paragraph (1); and
 
-                (ii) not to have been subject to the requirements of [section 1079(j)(1) of this title][/us/usc/t10/s1079/j/1], whether through the operation of such section or subsection (g) of this section.
+                (ii) not to have been subject to the requirements of [section 1079(i)(1) of this title][/us/usc/t10/s1079/i/1], whether through the operation of such section or subsection (g) of this section.
 
             (B)
 
@@ -107,7 +107,7 @@
 
     (f) The provisions of [section 1079(h) of this title][/us/usc/t10/s1079/h] shall apply to payments for services by an individual health-care professional (or other noninstitutional health-care provider) under a plan contracted for under subsection (a).
 
-    (g) [Section 1079(j) of this title][/us/usc/t10/s1079/j] shall apply to a plan contracted for under this section, except that no person eligible for health benefits under this section may be denied benefits under this section with respect to care or treatment for any service-connected disability which is compensable under chapter 11 of title 38 solely on the basis that such person is entitled to care or treatment for such disability in facilities of the Department of Veterans Affairs.
+    (g) [Section 1079(i) of this title][/us/usc/t10/s1079/i] shall apply to a plan contracted for under this section, except that no person eligible for health benefits under this section may be denied benefits under this section with respect to care or treatment for any service-connected disability which is compensable under chapter 11 of title 38 solely on the basis that such person is entitled to care or treatment for such disability in facilities of the Department of Veterans Affairs.
 
     (h)
 
@@ -119,7 +119,7 @@
 
         (4) The Secretary of Defense may require each hospital the Secretary approves for payment under this subsection to provide evidence that it has sources of revenue to cover unbilled costs.
 
-(Added [Pub. L. 89–614, § 2(7)][/us/pl/89/614/s2/7], Sept. 30, 1966, [80 Stat. 865][/us/stat/80/865]; amended [Pub. L. 95–485, title VIII, § 806(a)(2)][/us/pl/95/485/s806/a/2], Oct. 20, 1978, [92 Stat. 1622][/us/stat/92/1622]; [Pub. L. 96–173, § 1][/us/pl/96/173/s1], Dec. 29, 1979, [93 Stat. 1287][/us/stat/93/1287]; [Pub. L. 96–513, title V][/us/pl/96/513], §§ 501(14), 511(36), (39), Dec. 12, 1980, [94 Stat. 2908][/us/stat/94/2908], 2923; [Pub. L. 97–86, title IX, § 906(a)(2)][/us/pl/97/86/s906/a/2], Dec. 1, 1981, [95 Stat. 1117][/us/stat/95/1117]; [Pub. L. 97–252, title X, § 1004(c)][/us/pl/97/252/s1004/c], Sept. 8, 1982, [96 Stat. 737][/us/stat/96/737]; [Pub. L. 98–94, title IX, § 931(b)][/us/pl/98/94/s931/b], Sept. 24, 1983, [97 Stat. 649][/us/stat/97/649]; [Pub. L. 98–525, title VI, § 632(a)(2)][/us/pl/98/525/s632/a/2], Oct. 19, 1984, [98 Stat. 2543][/us/stat/98/2543]; [Pub. L. 98–557, § 19(13)][/us/pl/98/557/s19/13], Oct. 30, 1984, [98 Stat. 2870][/us/stat/98/2870]; [Pub. L. 99–145, title VI, § 652(b)][/us/pl/99/145/s652/b], Nov. 8, 1985, [99 Stat. 657][/us/stat/99/657]; [Pub. L. 99–661, div. A, title VI, § 604(f)(1)(C)][/us/pl/99/661/s604/f/1/C], Nov. 14, 1986, [100 Stat. 3877][/us/stat/100/3877]; [Pub. L. 100–180, div. A, title VII, § 721(b)][/us/pl/100/180/s721/b], Dec. 4, 1987, [101 Stat. 1115][/us/stat/101/1115]; [Pub. L. 100–456, div. A, title VI, § 646(b)][/us/pl/100/456/s646/b], Sept. 29, 1988, [102 Stat. 1989][/us/stat/102/1989]; [Pub. L. 101–189, div. A, title VII, § 731(c)(2)][/us/pl/101/189/s731/c/2], title XVI, § 1621(a)(3), Nov. 29, 1989, [103 Stat. 1482][/us/stat/103/1482], 1603; [Pub. L. 101–510, div. A, title VII, § 712(b)][/us/pl/101/510/s712/b], Nov. 5, 1990, [104 Stat. 1583][/us/stat/104/1583]; [Pub. L. 102–190, div. A, title VII, § 704(a)][/us/pl/102/190/s704/a], (b)(1), Dec. 5, 1991, [105 Stat. 1401][/us/stat/105/1401]; [Pub. L. 102–484, div. A, title VII][/us/pl/102/484], §§ 703(a), 705(a), Oct. 23, 1992, [106 Stat. 2432][/us/stat/106/2432]; [Pub. L. 103–35, title II, § 203(b)(2)][/us/pl/103/35/s203/b/2], May 31, 1993, [107 Stat. 102][/us/stat/107/102]; [Pub. L. 103–160, div. A, title VII, § 716(b)(2)][/us/pl/103/160/s716/b/2], Nov. 30, 1993, [107 Stat. 1693][/us/stat/107/1693]; [Pub. L. 103–337, div. A, title VII, § 711][/us/pl/103/337/s711], Oct. 5, 1994, [108 Stat. 2801][/us/stat/108/2801]; [Pub. L. 104–106, div. A, title VII, § 732][/us/pl/104/106/s732], Feb. 10, 1996, [110 Stat. 381][/us/stat/110/381]; [Pub. L. 104–201, div. A, title VII, § 734(a)(2)][/us/pl/104/201/s734/a/2], (b)(2), Sept. 23, 1996, [110 Stat. 2598][/us/stat/110/2598]; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title VII, §§ 712(a)(1), 759\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–176, 1654A–200; [Pub. L. 108–173, title IX, § 900(e)(4)(A)][/us/pl/108/173/s900/e/4/A], Dec. 8, 2003, [117 Stat. 2373][/us/stat/117/2373]; [Pub. L. 109–364, div. A, title VII, § 704(b)][/us/pl/109/364/s704/b], Oct. 17, 2006, [120 Stat. 2280][/us/stat/120/2280]; [Pub. L. 110–181, div. A, title VII, § 701(b)][/us/pl/110/181/s701/b], Jan. 28, 2008, [122 Stat. 187][/us/stat/122/187]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title VII, § 701(b), Oct. 14, 2008, [122 Stat. 4498][/us/stat/122/4498]; [Pub. L. 111–84, div. A, title VII][/us/pl/111/84], §§ 706, 709, Oct. 28, 2009, [123 Stat. 2375][/us/stat/123/2375], 2378; [Pub. L. 111–383, div. A, title VII, § 701(b)][/us/pl/111/383/s701/b], Jan. 7, 2011, [124 Stat. 4244][/us/stat/124/4244]; [Pub. L. 112–239, div. A, title X, § 1076(f)(11)][/us/pl/112/239/s1076/f/11], Jan. 2, 2013, [126 Stat. 1952][/us/stat/126/1952].)
+(Added [Pub. L. 89–614, § 2(7)][/us/pl/89/614/s2/7], Sept. 30, 1966, [80 Stat. 865][/us/stat/80/865]; amended [Pub. L. 95–485, title VIII, § 806(a)(2)][/us/pl/95/485/s806/a/2], Oct. 20, 1978, [92 Stat. 1622][/us/stat/92/1622]; [Pub. L. 96–173, § 1][/us/pl/96/173/s1], Dec. 29, 1979, [93 Stat. 1287][/us/stat/93/1287]; [Pub. L. 96–513, title V][/us/pl/96/513], §§ 501(14), 511(36), (39), Dec. 12, 1980, [94 Stat. 2908][/us/stat/94/2908], 2923; [Pub. L. 97–86, title IX, § 906(a)(2)][/us/pl/97/86/s906/a/2], Dec. 1, 1981, [95 Stat. 1117][/us/stat/95/1117]; [Pub. L. 97–252, title X, § 1004(c)][/us/pl/97/252/s1004/c], Sept. 8, 1982, [96 Stat. 737][/us/stat/96/737]; [Pub. L. 98–94, title IX, § 931(b)][/us/pl/98/94/s931/b], Sept. 24, 1983, [97 Stat. 649][/us/stat/97/649]; [Pub. L. 98–525, title VI, § 632(a)(2)][/us/pl/98/525/s632/a/2], Oct. 19, 1984, [98 Stat. 2543][/us/stat/98/2543]; [Pub. L. 98–557, § 19(13)][/us/pl/98/557/s19/13], Oct. 30, 1984, [98 Stat. 2870][/us/stat/98/2870]; [Pub. L. 99–145, title VI, § 652(b)][/us/pl/99/145/s652/b], Nov. 8, 1985, [99 Stat. 657][/us/stat/99/657]; [Pub. L. 99–661, div. A, title VI, § 604(f)(1)(C)][/us/pl/99/661/s604/f/1/C], Nov. 14, 1986, [100 Stat. 3877][/us/stat/100/3877]; [Pub. L. 100–180, div. A, title VII, § 721(b)][/us/pl/100/180/s721/b], Dec. 4, 1987, [101 Stat. 1115][/us/stat/101/1115]; [Pub. L. 100–456, div. A, title VI, § 646(b)][/us/pl/100/456/s646/b], Sept. 29, 1988, [102 Stat. 1989][/us/stat/102/1989]; [Pub. L. 101–189, div. A, title VII, § 731(c)(2)][/us/pl/101/189/s731/c/2], title XVI, § 1621(a)(3), Nov. 29, 1989, [103 Stat. 1482][/us/stat/103/1482], 1603; [Pub. L. 101–510, div. A, title VII, § 712(b)][/us/pl/101/510/s712/b], Nov. 5, 1990, [104 Stat. 1583][/us/stat/104/1583]; [Pub. L. 102–190, div. A, title VII, § 704(a)][/us/pl/102/190/s704/a], (b)(1), Dec. 5, 1991, [105 Stat. 1401][/us/stat/105/1401]; [Pub. L. 102–484, div. A, title VII][/us/pl/102/484], §§ 703(a), 705(a), Oct. 23, 1992, [106 Stat. 2432][/us/stat/106/2432]; [Pub. L. 103–35, title II, § 203(b)(2)][/us/pl/103/35/s203/b/2], May 31, 1993, [107 Stat. 102][/us/stat/107/102]; [Pub. L. 103–160, div. A, title VII, § 716(b)(2)][/us/pl/103/160/s716/b/2], Nov. 30, 1993, [107 Stat. 1693][/us/stat/107/1693]; [Pub. L. 103–337, div. A, title VII, § 711][/us/pl/103/337/s711], Oct. 5, 1994, [108 Stat. 2801][/us/stat/108/2801]; [Pub. L. 104–106, div. A, title VII, § 732][/us/pl/104/106/s732], Feb. 10, 1996, [110 Stat. 381][/us/stat/110/381]; [Pub. L. 104–201, div. A, title VII, § 734(a)(2)][/us/pl/104/201/s734/a/2], (b)(2), Sept. 23, 1996, [110 Stat. 2598][/us/stat/110/2598]; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title VII, §§ 712(a)(1), 759\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–176, 1654A–200; [Pub. L. 108–173, title IX, § 900(e)(4)(A)][/us/pl/108/173/s900/e/4/A], Dec. 8, 2003, [117 Stat. 2373][/us/stat/117/2373]; [Pub. L. 109–364, div. A, title VII, § 704(b)][/us/pl/109/364/s704/b], Oct. 17, 2006, [120 Stat. 2280][/us/stat/120/2280]; [Pub. L. 110–181, div. A, title VII, § 701(b)][/us/pl/110/181/s701/b], Jan. 28, 2008, [122 Stat. 187][/us/stat/122/187]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title VII, § 701(b), Oct. 14, 2008, [122 Stat. 4498][/us/stat/122/4498]; [Pub. L. 111–84, div. A, title VII][/us/pl/111/84], §§ 706, 709, Oct. 28, 2009, [123 Stat. 2375][/us/stat/123/2375], 2378; [Pub. L. 111–383, div. A, title VII, § 701(b)][/us/pl/111/383/s701/b], Jan. 7, 2011, [124 Stat. 4244][/us/stat/124/4244]; [Pub. L. 112–239, div. A, title X, § 1076(f)(11)][/us/pl/112/239/s1076/f/11], Jan. 2, 2013, [126 Stat. 1952][/us/stat/126/1952]; [Pub. L. 113–291, div. A, title VII, § 703(c)(2)][/us/pl/113/291/s703/c/2], Dec. 19, 2014, [128 Stat. 3412][/us/stat/128/3412].)
 
  __References in Text__ 
 
@@ -130,6 +130,10 @@
     A prior section 1086, [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 88][/us/stat/70A/88], authorized the mailing of official post cards, ballots, voting instructions, and envelopes, free of postage, prior to repeal by [Pub. L. 85–861, § 36(B)(5)][/us/pl/85/861/s36/B/5], Sept. 2, 1958, [72 Stat. 1570][/us/stat/72/1570], as superseded by the Federal Voting Assistance Act of 1955 which is classified to subchapter I–D (§ 1973cc et seq.) of chapter 20 of Title 42, The Public Health and Welfare.
 
  __Amendments__ 
+
+    2014—Subsec. (d)(4)(A)(ii). [Pub. L. 113–291, § 703(c)(2)(A)][/us/pl/113/291/s703/c/2/A], substituted “section 1079(i)(1)” for “section 1079(j)(1)”.
+
+    Subsec. (g). [Pub. L. 113–291, § 703(c)(2)(B)][/us/pl/113/291/s703/c/2/B], substituted “Section 1079(i)” for “Section 1079(j)”.
 
     2013—Subsec. (b)(1). [Pub. L. 112–239][/us/pl/112/239] substituted “paragraph (2)” for “clause (2)”.
 
@@ -347,10 +351,10 @@ Similar provisions were contained in the following prior authorization acts:
 [/us/usc/t42/s426–1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs426%E2%80%931%2Fa
 [/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/usc/t10/s1095/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1095%2Fh%2F1
-[/us/usc/t10/s1079/j/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1079%2Fj%2F1
+[/us/usc/t10/s1079/i/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1079%2Fi%2F1
 [/us/usc/t10/s1080]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1080
 [/us/usc/t10/s1079/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1079%2Fh
-[/us/usc/t10/s1079/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1079%2Fj
+[/us/usc/t10/s1079/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1079%2Fi
 [/us/pl/89/614/s2/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F614%2Fs2%2F7
 [/us/stat/80/865]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F865
 [/us/pl/95/485/s806/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F485%2Fs806%2Fa%2F2
@@ -411,6 +415,8 @@ Similar provisions were contained in the following prior authorization acts:
 [/us/stat/124/4244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4244
 [/us/pl/112/239/s1076/f/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1076%2Ff%2F11
 [/us/stat/126/1952]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1952
+[/us/pl/113/291/s703/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs703%2Fc%2F2
+[/us/stat/128/3412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3412
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
 [/us/usc/t42/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1305
@@ -418,6 +424,8 @@ Similar provisions were contained in the following prior authorization acts:
 [/us/stat/70A/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F88
 [/us/pl/85/861/s36/B/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs36%2FB%2F5
 [/us/stat/72/1570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1570
+[/us/pl/113/291/s703/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs703%2Fc%2F2%2FA
+[/us/pl/113/291/s703/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs703%2Fc%2F2%2FB
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
 [/us/pl/111/84/s709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs709

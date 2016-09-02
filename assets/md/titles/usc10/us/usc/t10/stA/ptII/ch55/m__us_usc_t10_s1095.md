@@ -77,7 +77,7 @@
 
     (k)
 
-        (1) To improve the administration of this section and sections 1079(j)(1) and 1086(d) of this title, the Secretary of Defense, in consultation with the other administering Secretaries, may prescribe regulations providing for the collection of information regarding insurance, medical service, or health plans of third-party payers held by covered beneficiaries.
+        (1) To improve the administration of this section and sections 1079(j)(1)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  and 1086(d) of this title, the Secretary of Defense, in consultation with the other administering Secretaries, may prescribe regulations providing for the collection of information regarding insurance, medical service, or health plans of third-party payers held by covered beneficiaries.
 
         (2) The collection of information under regulations prescribed under paragraph (1) shall be conducted in the same manner as is provided in section 1862(b)(5) of the Social Security Act ([42 U.S.C. 1395y(b)(5)][/us/usc/t42/s1395y/b/5]). The Secretary may provide for obtaining from the Commissioner of Social Security employment information comparable to the information provided to the Administrator of the Centers for Medicare & Medicaid Services pursuant to such section. Such regulations may require the mandatory disclosure of Social Security account numbers for all covered beneficiaries.
 
@@ -85,7 +85,7 @@
 
         (4) The Secretary may provide for contacting employers of covered beneficiaries to obtain group health plan information comparable to the information authorized to be obtained under section 1862(b)(5)(C) of the Social Security Act ([42 U.S.C. 1395y(b)(5)(C)][/us/usc/t42/s1395y/b/5/C]). Notwithstanding clause (iii) of such section, clause (ii) of such section regarding the imposition of civil money penalties shall apply to the collection of information under this paragraph.
 
-        (5) Information obtained under this subsection may not be disclosed for any purpose other than to carry out the purpose of this section and sections 1079(j)(1) and 1086(d) of this title.
+        (5) Information obtained under this subsection may not be disclosed for any purpose other than to carry out the purpose of this section and sections 1079(j)(1) 1 and 1086(d) of this title.
 
 (Added [Pub. L. 99–272, title II, § 2001(a)(1)][/us/pl/99/272/s2001/a/1], Apr. 7, 1986, [100 Stat. 100][/us/stat/100/100]; amended [Pub. L. 101–189, div. A, title VII, § 727(a)][/us/pl/101/189/s727/a], title XVI, § 1622(e)(5), Nov. 29, 1989, [103 Stat. 1480][/us/stat/103/1480], 1605; [Pub. L. 101–510, div. A, title VII, § 713(a)][/us/pl/101/510/s713/a]–(d)(2), Nov. 5, 1990, [104 Stat. 1583][/us/stat/104/1583], 1584; [Pub. L. 102–25, title VII, § 701(j)(8)][/us/pl/102/25/s701/j/8], Apr. 6, 1991, [105 Stat. 116][/us/stat/105/116]; [Pub. L. 102–190, div. A, title VII, § 714][/us/pl/102/190/s714], Dec. 5, 1991, [105 Stat. 1403][/us/stat/105/1403]; [Pub. L. 103–160, div. A, title VII, § 713][/us/pl/103/160/s713], Nov. 30, 1993, [107 Stat. 1689][/us/stat/107/1689]; [Pub. L. 103–337, div. A, title VII, § 714(b)][/us/pl/103/337/s714/b], title X, § 1070(b)(6), Oct. 5, 1994, [108 Stat. 2802][/us/stat/108/2802], 2857; [Pub. L. 104–106, div. A, title VII, § 734][/us/pl/104/106/s734], Feb. 10, 1996, [110 Stat. 381][/us/stat/110/381]; [Pub. L. 104–201, div. A, title VII, § 735(a)][/us/pl/104/201/s735/a], (b), Sept. 23, 1996, [110 Stat. 2598][/us/stat/110/2598]; [Pub. L. 106–65, div. A, title VII, § 716(c)(1)][/us/pl/106/65/s716/c/1], Oct. 5, 1999, [113 Stat. 691][/us/stat/113/691]; [Pub. L. 107–314, div. A, title X, § 1041(a)(5)][/us/pl/107/314/s1041/a/5], Dec. 2, 2002, [116 Stat. 2645][/us/stat/116/2645]; [Pub. L. 108–173, title IX, § 900(e)(4)(B)][/us/pl/108/173/s900/e/4/B], Dec. 8, 2003, [117 Stat. 2373][/us/stat/117/2373].)
 
@@ -94,6 +94,8 @@
     The Social Security Act, referred to in subsec. (d), is [act Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], [49 Stat. 620][/us/stat/49/620], as amended. Titles XVIII and XIX of the Social Security Act are classified generally to subchapters XVIII (§ 1395 et seq.) and XIX (§ 1396 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42][/us/usc/t42/s1305] and Tables.
 
     [Public Law 87–693][/us/pl/87/693], referred to in subsec. (i)(2), is [Pub. L. 87–693][/us/pl/87/693], Sept. 25, 1962, [76 Stat. 593][/us/stat/76/593], which is classified generally to chapter 32 (§ 2651 et seq.) of Title 42. For complete classification of this Act to the Code, see Tables.
+
+    [Section 1079(j) of this title][/us/usc/t10/s1079/j], referred to in subsec. (k)(1), (5), was redesignated [section 1079(i) of this title][/us/usc/t10/s1079/i] by [Pub. L. 113–291, div. A, title VII, § 703(a)(3)][/us/pl/113/291/s703/a/3], Dec. 19, 2014, [128 Stat. 3411][/us/stat/128/3411].
 
  __Codification__ 
 
@@ -294,6 +296,10 @@
 [/us/pl/87/693]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F693
 [/us/pl/87/693]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F693
 [/us/stat/76/593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F593
+[/us/usc/t10/s1079/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1079%2Fj
+[/us/usc/t10/s1079/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1079%2Fi
+[/us/pl/113/291/s703/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs703%2Fa%2F3
+[/us/stat/128/3411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3411
 [/us/usc/t10/s1095a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1095a
 [/us/pl/108/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173
 [/us/pl/107/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314

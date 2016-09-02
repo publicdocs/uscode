@@ -149,6 +149,110 @@
 
     Amendment by [Pub. L. 107–296][/us/pl/107/296] effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see [section 1704(g) of Pub. L. 107–296][/us/pl/107/296/s1704/g], set out as a note under [section 101 of this title][/us/usc/t10/s101].
 
+ __Enhancement of Information Provided to Members of the Armed Forces and Veterans Regarding Use of Post-9/11 Educational Assistance and Federal Financial Aid Through Transition Assistance Program__ 
+
+[Pub. L. 113–291, div. A, title V, § 557][/us/pl/113/291/s557], Dec. 19, 2014, [128 Stat. 3381][/us/stat/128/3381], provided that:
+
+>     “(a) __Additional Information Required.—__ 
+
+>         “(1)  __In general__  __.—__ 
+
+>         Not later than one year after the date of the enactment of this Act \[Dec. 19, 2014\], the Secretary of Defense shall enhance the higher education component of the Transition Assistance Program (TAP) of the Department of Defense by providing additional information that is more complete and accurate than the information provided as of the day before the date of the enactment of this Act to individuals who apply for educational assistance under chapter 30 or 33 of title 38, United States Code, to pursue a program of education at an institution of higher learning.
+
+>         “(2)  __Elements__  __.—__ 
+
+>         The additional information required by paragraph (1) shall include the following:
+
+>             “(A)
+
+>              Information provided by the Secretary of Education that is publically available and addresses—
+
+>                 “(i) to the extent practicable, differences between types of institutions of higher learning in such matters as tuition and fees, admission requirements, accreditation, transferability of credits, credit for qualifying military training, time required to complete a degree, and retention and job placement rates; and
+
+>                 “(ii) how Federal educational assistance provided under title IV of the Higher Education Act of 1965 ([20 U.S.C. 1070][/us/usc/t20/s1070] et seq.; \[42 U.S. C. 2751 et seq.\]) may be used in conjunction with educational assistance provided under chapters 30 and 33 of title 38, United States Code.
+
+>             “(B) Information about the Postsecondary Education Complaint System of the Department of Defense, the Department of Veterans Affairs, the Department of Education, and the Consumer Financial Protection Bureau.
+
+>             “(C) Information about the GI Bill Comparison Tool of the Department of Veterans Affairs.
+
+>             “(D) Information about each of the Principles of Excellence established by the Secretary of Defense, the Secretary of Veterans Affairs, and the Secretary of Education pursuant to Executive Order 13607 of April 27, 2012 (77 Fed. Reg. 25861), including how to recognize whether an institution of higher learning may be violating any of such principles.
+
+>             “(E) Information to enable individuals described in paragraph (1) to develop a post-secondary education plan appropriate and compatible with their educational goals.
+
+>             “(F) Such other information as the Secretary of Education considers appropriate.
+
+>         “(3)  __Consultation__  __.—__ 
+
+>         In carrying out this subsection, the Secretary of Defense shall consult with the Secretary of Veterans Affairs, the Secretary of Education, and the Director of the Consumer Financial Protection Bureau.
+
+>     “(b)  __Availability of Higher Education Component Online__  __.—__ 
+
+>     Not later than one year after the date of the enactment of this Act, the Secretary of Defense shall ensure that the higher education component of the Transition Assistance Program is available to members of the Armed Forces on an Internet website of the Department of Defense so that members have an option to complete such component electronically and remotely.
+
+>     “(c)  __Definitions__  __.—__ 
+
+>     In this section:
+
+>         “(1) The term ‘institution of higher learning’ has the meaning given such term in [section 3452 of title 38][/us/usc/t38/s3452], United States Code.
+
+>         “(2)
+
+>          The term ‘types of institutions of higher learning’ means the following:
+
+>             “(A) An educational institution described in section 101(a) of the Higher Education Act of 1965 ([20 U.S.C. 1001(a)][/us/usc/t20/s1001/a]).
+
+>             “(B) An educational institution described in subsection (b) or (c) of section 102 of such Act ([20 U.S.C. 1002][/us/usc/t20/s1002]).”
+
+ __Procedures for Provision of Certain Information to State Veterans Agencies to Facilitate the Transition of Members of the Armed Forces From Military Service to Civilian Life__ 
+
+[Pub. L. 113–291, div. A, title V, § 558][/us/pl/113/291/s558], Dec. 19, 2014, [128 Stat. 3382][/us/stat/128/3382], provided that:
+
+>     “(a)  __Procedures Required__  __.—__ 
+
+>     The Secretary of Defense shall develop procedures to share the information described in subsection (b) regarding members of the Armed Forces who are being separated from the Armed Forces with State veterans agencies in electronic data format as a means of facilitating the transition of such members from military service to civilian life.
+
+>     “(b)  __Covered Information__  __.—__ 
+
+>     The information to be shared with State veterans agencies regarding a member shall include the following:
+
+>         “(1) Military service and separation data.
+
+>         “(2) A personal email address.
+
+>         “(3) A personal telephone number.
+
+>         “(4) A mailing address.
+
+>     “(c)  __Consent__  __.—__ 
+
+>     The procedures developed pursuant to subsection (a) shall require the consent of a member of the Armed Forces before any information described in subsection (b) regarding the member is shared with a State veterans agency.
+
+>     “(d)  __Use of Information__  __.—__ 
+
+>     The Secretary of Defense shall ensure that the information shared with State veterans agencies in accordance with the procedures developed pursuant to subsection (a) is only shared by such agencies with county government veterans service offices for such purposes as the Secretary shall specify for the administration and delivery of benefits.
+
+>     “(e) __Report.—__ 
+
+>         “(1)  __In general__  __.—__ 
+
+>         Not later than one year after the date of the enactment of this Act \[Dec. 19, 2014\], the Secretary of Defense shall submit to the Committees on Armed Services and Veterans’ Affairs of the Senate and the House of Representatives a report on the progress made by the Secretary—
+
+>             “(A) in developing the procedures required by subsection (a); and
+
+>             “(B) in sharing information with State veterans agencies as described in such subsection.
+
+>         “(2)  __Contents__  __.—__ 
+
+>         The report required by paragraph (1) shall include the following:
+
+>             “(A) A description of the procedures developed to share information with State veterans agencies.
+
+>             “(B) A description of the sharing activities carried out by the Secretary in accordance with such procedures.
+
+>             “(C) The number of members of the Armed Force who gave their consent for the sharing of information with State veterans agencies.
+
+>             “(D) Such recommendations as the Secretary may have for legislative or administrative action to improve the sharing of information as described in subsection (a).”
+
  __Deadline for Implementation__ 
 
 [Pub. L. 113–66, div. A, title V, § 521(b)][/us/pl/113/66/s521/b], Dec. 26, 2013, [127 Stat. 755][/us/stat/127/755], provided that: 
@@ -321,6 +425,14 @@
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/pl/107/296/s1704/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1704%2Fg
 [/us/usc/t10/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101
+[/us/pl/113/291/s557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs557
+[/us/stat/128/3381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3381
+[/us/usc/t20/s1070]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1070
+[/us/usc/t38/s3452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3452
+[/us/usc/t20/s1001/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001%2Fa
+[/us/usc/t20/s1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1002
+[/us/pl/113/291/s558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs558
+[/us/stat/128/3382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3382
 [/us/pl/113/66/s521/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs521%2Fb
 [/us/stat/127/755]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F755
 [/us/usc/t10/s1144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1144

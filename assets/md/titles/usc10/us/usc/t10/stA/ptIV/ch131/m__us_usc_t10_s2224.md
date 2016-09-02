@@ -83,6 +83,32 @@
 
     Amendment by [Pub. L. 106–398][/us/pl/106/398] effective 30 days after Oct. 30, 2000, see section 1 \[\[div. A\], title X, § 1065\] of [Pub. L. 106–398][/us/pl/106/398], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], formerly set out as an Effective Date note under former [section 3531 of Title 44][/us/usc/t44/s3531], Public Printing and Documents.
 
+ __Notification of Foreign Threats to Information Technology Systems Impacting National Security__ 
+
+[Pub. L. 113–291, div. A, title X, § 1078][/us/pl/113/291/s1078], Dec. 19, 2014, [128 Stat. 3520][/us/stat/128/3520], provided that:
+
+>     “(a) __Notification Required.—__ 
+
+>         “(1)  __In general__  __.—__ 
+
+>         Not later than 30 days after the Secretary of Defense determines, through the use of open source information or the use of existing authorities (including section 806 of the National Defense Authorization Act for Fiscal Year 2011 ([Public Law 111–383][/us/pl/111/383]; [124 Stat. 4260][/us/stat/124/4260]; [10 U.S.C. 2304][/us/usc/t10/s2304] note)), that there is evidence of a national security threat described in paragraph (2), the Secretary shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a notification of such threat.
+
+>         “(2)  __National security threat__  __.—__ 
+
+>         A national security threat described in this paragraph is a threat to an information technology or telecommunications component or network by an agent of a foreign power in which the compromise of such technology, component, or network poses a significant risk to the programs and operations of the Department of Defense, as determined by the Secretary of Defense.
+
+>         “(3)  __Form__  __.—__ 
+
+>         A notification under this subsection shall be submitted in classified form.
+
+>     “(b)  __Action Plan Required__  __.—__ 
+
+>     In the event that a notification is submitted pursuant to subsection (a), the Secretary shall work with the head of any department or agency affected by the national security threat to develop a plan of action for responding to the concerns leading to the notification.
+
+>     “(c)  __Agent of a Foreign Power__  __.—__ 
+
+>     In this section, the term ‘agent of a foreign power’ has the meaning given such term in section 101(b) of the Foreign Intelligence Surveillance Act of 1978 ([50 U.S.C. 1801(b)][/us/usc/t50/s1801/b]).”
+
  __Authorities, Capabilities, and Oversight of the United States Cyber Command__ 
 
 [Pub. L. 113–66, div. A, title IX, § 932][/us/pl/113/66/s932], Dec. 26, 2013, [127 Stat. 829][/us/stat/127/829], provided that:
@@ -611,6 +637,12 @@
 [/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
 [/us/usc/t44/s3531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3531
+[/us/pl/113/291/s1078]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1078
+[/us/stat/128/3520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3520
+[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
+[/us/stat/124/4260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4260
+[/us/usc/t10/s2304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2304
+[/us/usc/t50/s1801/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1801%2Fb
 [/us/pl/113/66/s932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs932
 [/us/stat/127/829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F829
 [/us/pl/113/66/s937]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs937

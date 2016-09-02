@@ -149,9 +149,15 @@
 
     2006—Subsec. (e). [Pub. L. 109–364, § 2852][/us/pl/109/364/s2852], added subsec. (e).
 
+ __Business Case Analysis of any Plan To Design, Refurbish, or Construct a Biofuel Refinery__ 
+
+[Pub. L. 113–291, div. A, title III, § 314][/us/pl/113/291/s314], Dec. 19, 2014, [128 Stat. 3338][/us/stat/128/3338], provided that: 
+
+> “Not later than 30 days before entering into a contract for the planning, design, refurbishing, or construction of a biofuel refinery, or of any other facility or infrastructure used to refine biofuels, the Secretary of Defense or the Secretary of the military department concerned shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a business case analysis for such planning, design, refurbishing, or construction.”
+
  __Guidance on Financing for Renewable Energy Projects__ 
 
-[Pub. L. 112–239, div. B, title XXVIII, § 2824][/us/pl/112/239/s2824], Jan. 2, 2013, [126 Stat. 2153][/us/stat/126/2153], provided that:
+[Pub. L. 112–239, div. B, title XXVIII, § 2824][/us/pl/112/239/s2824], Jan. 2, 2013, [126 Stat. 2153][/us/stat/126/2153], as amended by [Pub. L. 113–291, div. A, title IX, § 901(n)(2)][/us/pl/113/291/s901/n/2], Dec. 19, 2014, [128 Stat. 3469][/us/stat/128/3469], provided that:
 
 >     “(a)  __Guidance on Use of Available Financing Approaches__  __.—__ 
 
@@ -177,7 +183,7 @@
 
 >     “(d)  __Consultation__  __.—__ 
 
->     The Secretary of Defense shall issue the guidance under subsections (a) and (b) and develop the communications process under subsection (c) in consultation with the Under Secretary of Defense for Acquisition, Technology, and Logistics and the Deputy Under Secretary of Defense for Installations and Environment. The Secretary of Defense shall also issue the guidance under subsection (b) in consultation with the Secretaries of the military departments.”
+>     The Secretary of Defense shall issue the guidance under subsections (a) and (b) and develop the communications process under subsection (c) in consultation with the Under Secretary of Defense for Acquisition, Technology, and Logistics and the Assistant Secretary of Defense for Energy, Installations, and Environment. The Secretary of Defense shall also issue the guidance under subsection (b) in consultation with the Secretaries of the military departments.”
 
  __Energy-Efficient Technologies in Contracts for Logistics Support of Contingency Operations__ 
 
@@ -593,8 +599,12 @@
 [/us/pl/111/84/s2842/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs2842%2Fa
 [/us/usc/t42/s15852/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15852%2Fb
 [/us/pl/109/364/s2852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs2852
+[/us/pl/113/291/s314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs314
+[/us/stat/128/3338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3338
 [/us/pl/112/239/s2824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs2824
 [/us/stat/126/2153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2153
+[/us/pl/113/291/s901/n/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs901%2Fn%2F2
+[/us/stat/128/3469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3469
 [/us/pl/112/81/s315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs315
 [/us/stat/125/1357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1357
 [/us/usc/t10/s2911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2911

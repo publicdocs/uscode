@@ -17,15 +17,15 @@
 
     (a)  __Authority__  __.—__ 
 
-    The Secretary of Defense may provide administrative services and support for the performance of duties by a liaison officer of another nation involved in a military operation with the United States while the liaison officer is assigned temporarily as follows:
+    Subject to subsection (d), the Secretary of Defense may provide administrative services and support for the performance of duties by a liaison officer of another nation while the liaison officer is assigned temporarily as follows:
 
-        (1) To the headquarters of a combatant command, component command, or subordinate operational command of the United States in connection with the planning for, or conduct of, a military operation.
+        (1) To the headquarters of a combatant command, component command, or subordinate operational command of the United States.
 
-        (2) To the headquarters of the combatant command assigned by the Secretary of Defense the mission of joint warfighting experimentation and joint forces training.
+        (2) To the Joint Staff.
 
     (b)  __Travel, Subsistence, and Medical Care Expenses__  __.—__ 
 
-        (1) The Secretary may pay the expenses specified in paragraph (2) of a liaison officer of a developing country in connection with the assignment of that officer to the headquarters of a combatant command as described in subsection (a), if the assignment is requested by the commander of the combatant command.
+        (1) The Secretary may pay the expenses specified in paragraph (2) of a liaison officer of a developing country in connection with the assignment of that officer as described in subsection (a), if the assignment is requested by the commander of the combatant command or by the Chairman of the Joint Chiefs of Staff, as appropriate.
 
         (2)
 
@@ -45,19 +45,51 @@
 
                 (iii) medical care is not otherwise available to the liaison officer pursuant to any treaty or other international agreement.
 
-        (3) The Secretary may pay the mission-related travel expenses of a liaison officer described in subsection (a) if such travel is in support of the national interests of the United States and the commander of the headquarters to which the liaison officer is temporarily assigned directs round-trip travel from the assigned headquarters to one or more locations.
+        (3)
+
+         The Secretary may pay the mission-related travel expenses of a liaison officer described in subsection (a) if such travel meets each of the following conditions:
+
+            (A) The travel is in support of the national interests of the United States.
+
+            (B) The commander of the relevant combatant command or the Chairman of the Joint Chiefs of Staff, as applicable, directs round-trip travel from the assigned location to one or more travel locations.
 
     (c)  __Reimbursement__  __.—__ 
 
-    To the extent that the Secretary determines appropriate, the Secretary may provide the services and support authorized by subsection (a) and the expenses authorized by subsection (b) with or without reimbursement from (or on behalf of) the recipients.
+    The Secretary may provide the services and support authorized by subsection (a) and the expenses authorized by subsection (b) with or without reimbursement from (or on behalf of) the recipients. The terms of reimbursement shall be specified in the appropriate agreement used to assign the liaison officer to a combatant command or to the Joint Staff.
 
-    (d)  __Definition__  __.—__ 
+    (d)  __Limitation and Oversight__  __.—__ 
 
-    In this section, the term “administrative services and support” includes base or installation support services, office space, utilities, copying services, fire and police protection, and computer support.
+        (1) The amount of unreimbursed support for any liaison officer supported under subsection (b)(1) in any fiscal year may not exceed $200,000 (in fiscal year 2014 constant dollars).
 
-(Added [Pub. L. 107–314, div. A, title XII, § 1201(a)(1)][/us/pl/107/314/s1201/a/1], Dec. 2, 2002, [116 Stat. 2662][/us/stat/116/2662]; amended [Pub. L. 109–13, div. A, title I, § 1010][/us/pl/109/13/s1010], May 11, 2005, [119 Stat. 244][/us/stat/119/244]; [Pub. L. 109–163, div. A, title XII, § 1205][/us/pl/109/163/s1205], Jan. 6, 2006, [119 Stat. 3456][/us/stat/119/3456]; [Pub. L. 110–181, div. A, title XII, § 1203(a)][/us/pl/110/181/s1203/a]–(e)(1), Jan. 28, 2008, [122 Stat. 364][/us/stat/122/364], 365; [Pub. L. 111–84, div. A, title XII, § 1205(a)][/us/pl/111/84/s1205/a], Oct. 28, 2009, [123 Stat. 2514][/us/stat/123/2514].)
+        (2) The Chairman of the Joint Chiefs of Staff shall be responsible for implementing the authority under this section.
+
+    (e)  __Secretary of State Coordination__  __.—__ 
+
+    The authority of the Secretary of Defense to provide administrative services and support under subsection (a) for the performance of duties by a liaison officer of another nation may be exercised only with respect to a liaison officer of another nation whose assignment as described in that subsection is accepted by the Secretary of Defense with the coordination of the Secretary of State.
+
+    (f)  __Definition__  __.—__ 
+
+    In this section, the term “administrative services and support” includes base or installation support services, office space, utilities, copying services, fire and police protection, training programs conducted to familiarize, orient, or certify liaison personnel regarding unique aspects of the assignments of the liaison personnel, and computer support.
+
+(Added [Pub. L. 107–314, div. A, title XII, § 1201(a)(1)][/us/pl/107/314/s1201/a/1], Dec. 2, 2002, [116 Stat. 2662][/us/stat/116/2662]; amended [Pub. L. 109–13, div. A, title I, § 1010][/us/pl/109/13/s1010], May 11, 2005, [119 Stat. 244][/us/stat/119/244]; [Pub. L. 109–163, div. A, title XII, § 1205][/us/pl/109/163/s1205], Jan. 6, 2006, [119 Stat. 3456][/us/stat/119/3456]; [Pub. L. 110–181, div. A, title XII, § 1203(a)][/us/pl/110/181/s1203/a]–(e)(1), Jan. 28, 2008, [122 Stat. 364][/us/stat/122/364], 365; [Pub. L. 111–84, div. A, title XII, § 1205(a)][/us/pl/111/84/s1205/a], Oct. 28, 2009, [123 Stat. 2514][/us/stat/123/2514]; [Pub. L. 113–291, div. A, title XII, § 1203][/us/pl/113/291/s1203], Dec. 19, 2014, [128 Stat. 3530][/us/stat/128/3530].)
 
  __Amendments__ 
+
+    2014—Subsec. (a). [Pub. L. 113–291, § 1203(a)(1)][/us/pl/113/291/s1203/a/1], in introductory provisions, substituted “Subject to subsection (d), the Secretary of Defense” for “The Secretary of Defense” and struck out “involved in a military operation with the United States” after “another nation”.
+
+    Subsec. (a)(1). [Pub. L. 113–291, § 1203(a)(2)][/us/pl/113/291/s1203/a/2], struck out “in connection with the planning for, or conduct of, a military operation” before period at end.
+
+    Subsec. (a)(2). [Pub. L. 113–291, § 1203(a)(3)][/us/pl/113/291/s1203/a/3], substituted “To the Joint Staff.” for “To the headquarters of the combatant command assigned by the Secretary of Defense the mission of joint warfighting experimentation and joint forces training.”
+
+    Subsec. (b)(1). [Pub. L. 113–291, § 1203(b)(1)][/us/pl/113/291/s1203/b/1], struck out “to the headquarters of a combatant command” after “that officer” and inserted “or by the Chairman of the Joint Chiefs of Staff, as appropriate” before period at end.
+
+    Subsec. (b)(3). [Pub. L. 113–291, § 1203(b)(2)][/us/pl/113/291/s1203/b/2], substituted “if such travel meets each of the following conditions:” for “if such travel is in support of the national interests of the United States and the commander of the headquarters to which the liaison officer is temporarily assigned directs round-trip travel from the assigned headquarters to one or more locations.” and added subpars. (A) and (B).
+
+    Subsec. (c). [Pub. L. 113–291, § 1203(c)][/us/pl/113/291/s1203/c], substituted “The” for “To the extent that the Secretary determines appropriate, the” and inserted at end “The terms of reimbursement shall be specified in the appropriate agreement used to assign the liaison officer to a combatant command or to the Joint Staff.”
+
+    Subsecs. (d), (e). [Pub. L. 113–291, § 1203(d)(2)][/us/pl/113/291/s1203/d/2], (e), added subsecs. (d) and (e). Former subsec. (d) redesignated (f).
+
+    Subsec. (f). [Pub. L. 113–291, § 1203(d)(1)][/us/pl/113/291/s1203/d/1], (f), redesignated subsec. (d) as (f) and inserted “training programs conducted to familiarize, orient, or certify liaison personnel regarding unique aspects of the assignments of the liaison personnel,” after “police protection,”.
 
     2009—Subsec. (a). [Pub. L. 111–84][/us/pl/111/84] substituted “assigned temporarily as follows:” for “assigned temporarily”, designated remainder of existing provisions as par. (1) and realigned margins, substituted “To the headquarters” for “to the headquarters”, and added par. (2).
 
@@ -106,6 +138,16 @@
 [/us/stat/122/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F364
 [/us/pl/111/84/s1205/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs1205%2Fa
 [/us/stat/123/2514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2514
+[/us/pl/113/291/s1203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1203
+[/us/stat/128/3530]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3530
+[/us/pl/113/291/s1203/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1203%2Fa%2F1
+[/us/pl/113/291/s1203/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1203%2Fa%2F2
+[/us/pl/113/291/s1203/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1203%2Fa%2F3
+[/us/pl/113/291/s1203/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1203%2Fb%2F1
+[/us/pl/113/291/s1203/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1203%2Fb%2F2
+[/us/pl/113/291/s1203/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1203%2Fc
+[/us/pl/113/291/s1203/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1203%2Fd%2F2
+[/us/pl/113/291/s1203/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1203%2Fd%2F1
 [/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
 [/us/pl/110/181/s1203/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1203%2Fe%2F1
 [/us/pl/110/181/s1203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1203%2Fa

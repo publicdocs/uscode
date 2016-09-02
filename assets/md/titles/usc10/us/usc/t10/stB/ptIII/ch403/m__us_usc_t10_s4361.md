@@ -93,6 +93,12 @@
 
 (Added [Pub. L. 109–364, div. A, title V, § 532(a)(1)][/us/pl/109/364/s532/a/1], Oct. 17, 2006, [120 Stat. 2200][/us/stat/120/2200].)
 
+ __Applicability of Sexual Assault Prevention and Response and Related Military Justice Enhancements to Military Service Academies__ 
+
+[Pub. L. 113–291, div. A, title V, § 552(a)][/us/pl/113/291/s552/a], Dec. 19, 2014, [128 Stat. 3377][/us/stat/128/3377], provided that: 
+
+> “The Secretary of the military department concerned shall ensure that the provisions of title XVII of the National Defense Authorization Act for Fiscal Year 2014 ([Public Law 113–66][/us/pl/113/66]; [127 Stat. 950][/us/stat/127/950]) \[see Tables for classification\], including amendments made by that title, and the provisions of subtitle D \[subtitle D (§§ 531–547) of title V of div. A of [Pub. L. 113–291][/us/pl/113/291], see Tables for classification\], including amendments made by such subtitle, apply to the United States Military Academy, the Naval Academy, and the Air Force Academy, as applicable.”
+
  __Prevention of Sexual Assault at Military Service Academies__ 
 
 [Pub. L. 113–66, div. A, title XVII, § 1746][/us/pl/113/66/s1746], Dec. 26, 2013, [127 Stat. 983][/us/stat/127/983], provided that: 
@@ -130,6 +136,11 @@
 
 [/us/pl/109/364/s532/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs532%2Fa%2F1
 [/us/stat/120/2200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2200
+[/us/pl/113/291/s552/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs552%2Fa
+[/us/stat/128/3377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3377
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
+[/us/stat/127/950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F950
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/pl/113/66/s1746]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1746
 [/us/stat/127/983]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F983
 [/us/pl/109/364/s532/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs532%2Fb

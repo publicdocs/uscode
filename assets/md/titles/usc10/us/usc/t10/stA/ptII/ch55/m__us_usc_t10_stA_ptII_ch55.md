@@ -177,6 +177,14 @@
 
   <tr>
 
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1074n" data-uslm-ref="/us/usc/t10/s1074n">1074n.</a>  </td>
+
+    <td> Annual mental health assessments for members of the armed forces.  </td>
+
+  </tr>
+
+  <tr>
+
     <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1075" data-uslm-ref="/us/usc/t10/s1075">1075.</a>  </td>
 
     <td> Repealed.]  </td>
@@ -284,6 +292,14 @@
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1079b" data-uslm-ref="/us/usc/t10/s1079b">1079b.</a>  </td>
 
     <td> Procedures for charging fees for care provided to civilians; retention and use of fees collected.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1079c" data-uslm-ref="/us/usc/t10/s1079c">1079c.</a>  </td>
+
+    <td> Provisional coverage for emerging services and supplies.  </td>
 
   </tr>
 
@@ -545,6 +561,14 @@
 
   <tr>
 
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1097d" data-uslm-ref="/us/usc/t10/s1097d">1097d.</a>  </td>
+
+    <td> TRICARE program: notice of change to benefits.  </td>
+
+  </tr>
+
+  <tr>
+
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1098" data-uslm-ref="/us/usc/t10/s1098">1098.</a>  </td>
 
     <td> Incentives for participation in cost-effective health care plans.  </td>
@@ -675,6 +699,8 @@
 
  __Amendments__ 
 
+    2014—[Pub. L. 113–291, div. A, title VII][/us/pl/113/291], §§ 701(a)(2), 704(b), 711(b), Dec. 19, 2014, [128 Stat. 3408][/us/stat/128/3408], 3413, 3414, added items 1074n, 1079c, and 1097d.
+
     2011—[Pub. L. 112–81, div. A, title VII][/us/pl/112/81], §§ 702(a)(2), 704(b), 711(a)(2), Dec. 31, 2011, [125 Stat. 1471][/us/stat/125/1471], 1473, 1476, added items 1074m, 1078b, and 1090a.
 
     [Pub. L. 111–383, div. A, title VII, § 702(a)(2)][/us/pl/111/383/s702/a/2], Jan. 7, 2011, [124 Stat. 4245][/us/stat/124/4245], added item 1110b.
@@ -756,6 +782,8 @@
 ----------
 ----------
 
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/stat/128/3408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3408
 [/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
 [/us/stat/125/1471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1471
 [/us/pl/111/383/s702/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs702%2Fa%2F2

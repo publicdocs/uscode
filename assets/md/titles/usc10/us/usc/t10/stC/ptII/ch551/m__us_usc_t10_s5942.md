@@ -15,13 +15,17 @@
 
 ## § 5942. Aviation commands: eligibility
 
-    (a) To be eligible to command an aircraft carrier or an aircraft tender, an officer must be an officer in the line of the Navy who is designated as a naval aviator or naval flight officer and who is otherwise qualified.
+    (a)
+
+        (1) To be eligible to command an aircraft carrier or an aircraft tender, an officer must be an officer in the line of the Navy who is designated as a naval aviator or naval flight officer and who is otherwise qualified.
+
+        (2) Paragraph (1) does not apply to command of a nuclear-powered aircraft carrier that has been inactivated for the purpose of permanent decommissioning and disposal.
 
     (b) To be eligible to command a naval aviation school, a naval air station, or a naval aviation unit organized for flight tactical purposes, an officer must be an officer in the line of the Navy designated as a naval aviator or naval flight officer.
 
     (c) To be eligible to command a Marine Corps aviation school, a Marine Corps air station, or a Marine Corps aviation unit organized for flight tactical purposes, an officer must be an officer of the Marine Corps designated as a naval aviator or naval flight officer.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 371][/us/stat/70A/371]; [Pub. L. 91–198, § 1(1)][/us/pl/91/198/s1/1], Feb. 26, 1970, [84 Stat. 15][/us/stat/84/15].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 371][/us/stat/70A/371]; [Pub. L. 91–198, § 1(1)][/us/pl/91/198/s1/1], Feb. 26, 1970, [84 Stat. 15][/us/stat/84/15]; [Pub. L. 113–291, div. A, title V, § 507][/us/pl/113/291/s507], Dec. 19, 2014, [128 Stat. 3357][/us/stat/128/3357].)
 
 <table>
 
@@ -103,6 +107,8 @@ June 24, 1926, ch. 668, § 3 (7th par.), 44 Stat. 767.  </td>
 
  __Amendments__ 
 
+    2014—Subsec. (a). [Pub. L. 113–291][/us/pl/113/291] designated existing provisions as par. (1) and added par. (2).
+
     1970—Subsec. (a). [Pub. L. 91–198][/us/pl/91/198] substituted “naval flight officer” for “naval aviation observer”.
 
     Subsecs. (b), (c). [Pub. L. 91–198][/us/pl/91/198] inserted “or naval flight officer” after “naval aviator”.
@@ -118,10 +124,13 @@ June 24, 1926, ch. 668, § 3 (7th par.), 44 Stat. 767.  </td>
 [/us/stat/70A/371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F371
 [/us/pl/91/198/s1/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F198%2Fs1%2F1
 [/us/stat/84/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F15
+[/us/pl/113/291/s507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs507
+[/us/stat/128/3357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3357
 [/us/act/1921-07-12/ch44/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1921-07-12%2Fch44%2Fs8
 [/us/usc/t34/s734]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft34%2Fs734
 [/us/act/1926-06-24/ch668/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-06-24%2Fch668%2Fs3
 [/us/usc/t34/s735]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft34%2Fs735
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/pl/91/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F198
 [/us/pl/91/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F198
 

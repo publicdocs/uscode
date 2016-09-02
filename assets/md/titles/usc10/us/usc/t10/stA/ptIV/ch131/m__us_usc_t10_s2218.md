@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stA/ptIV/ch131/m__us_usc_t10_s2217.md) | [Next](./../../../../../..//us/usc/t10/stA/ptIV/ch131/m__us_usc_t10_s2219.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2218)
+[Previous](./../../../../../..//us/usc/t10/stA/ptIV/ch131/m__us_usc_t10_s2217.md) | [Next](./../../../../../..//us/usc/t10/stA/ptIV/ch131/m__us_usc_t10_s2218a.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2218)
 
 ## § 2218. National Defense Sealift Fund
 
@@ -237,7 +237,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stA/ptIV/ch131/m__us_usc_t10_s2217.md) | [Next](./../../../../../..//us/usc/t10/stA/ptIV/ch131/m__us_usc_t10_s2219.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2218)
+[Previous](./../../../../../..//us/usc/t10/stA/ptIV/ch131/m__us_usc_t10_s2217.md) | [Next](./../../../../../..//us/usc/t10/stA/ptIV/ch131/m__us_usc_t10_s2218a.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2218)
 
 ----------
 ----------

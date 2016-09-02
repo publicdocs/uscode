@@ -55,21 +55,21 @@
 
     (f)  __Inapplicability of Advertising Requirement__  __.—__ 
 
-    Section 3709  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of the Revised Statutes ([41 U.S.C. 5][/us/usc/t41/s5]) does not apply to sales of service craft and boats described in subsection (a).
+    [Section 6101 of title 41][/us/usc/t41/s6101] does not apply to sales of service craft and boats described in subsection (a).
 
     (g)  __Regulations__  __.—__ 
 
     The Secretary of the Navy shall prescribe regulations for the purposes of this section.
 
-(Added [Pub. L. 108–375, div. A, title X, § 1012(a)(1)][/us/pl/108/375/s1012/a/1], Oct. 28, 2004, [118 Stat. 2039][/us/stat/118/2039].)
-
- __References in Text__ 
-
-    Section 3709 of the Revised Statutes, referred to in subsec. (f), was classified to section 5 of former Title 41, Public Contracts, and was repealed and restated as [section 6101 of Title 41][/us/usc/t41/s6101], Public Contracts, by [Pub. L. 111–350][/us/pl/111/350], §§ 3, 7(b), Jan. 4, 2011, [124 Stat. 3677][/us/stat/124/3677], 3855. For disposition of sections of former Title 41, see Disposition Table preceding [section 101 of Title 41][/us/usc/t41/s101].
+(Added [Pub. L. 108–375, div. A, title X, § 1012(a)(1)][/us/pl/108/375/s1012/a/1], Oct. 28, 2004, [118 Stat. 2039][/us/stat/118/2039]; amended [Pub. L. 113–291, div. A, title X, § 1071(a)(12)][/us/pl/113/291/s1071/a/12], Dec. 19, 2014, [128 Stat. 3505][/us/stat/128/3505].)
 
  __Prior Provisions__ 
 
     A prior section 7312, added [Pub. L. 100–180, div. A, title XI, § 1102(a)(1)][/us/pl/100/180/s1102/a/1], Dec. 4, 1987, [101 Stat. 1145][/us/stat/101/1145]; amended [Pub. L. 100–456, div. A, title XII, § 1223][/us/pl/100/456/s1223], Sept. 29, 1988, [102 Stat. 2054][/us/stat/102/2054]; [Pub. L. 101–189, div. A, title XVI, § 1612][/us/pl/101/189/s1612], Nov. 29, 1989, [103 Stat. 1601][/us/stat/103/1601], related to progress payments under certain contracts for repair or maintenance of naval vessels, prior to repeal by [Pub. L. 103–355, title II, § 2001(j)(1)][/us/pl/103/355/s2001/j/1], title X, § 10001, Oct. 13, 1994, [108 Stat. 3303][/us/stat/108/3303], 3404, effective Oct. 13, 1994, except as otherwise provided. See [section 2307(g) of this title][/us/usc/t10/s2307/g].
+
+ __Amendments__ 
+
+    2014—Subsec. (f). [Pub. L. 113–291][/us/pl/113/291] substituted “[Section 6101 of title 41][/us/usc/t41/s6101]” for “Section 3709 of the Revised Statutes ([41 U.S.C. 5][/us/usc/t41/s5])”.
 
  __Effective Date__ 
 
@@ -85,13 +85,11 @@
 ----------
 
 [/us/usc/t40/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs503
-[/us/usc/t41/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs5
+[/us/usc/t41/s6101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs6101
 [/us/pl/108/375/s1012/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs1012%2Fa%2F1
 [/us/stat/118/2039]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2039
-[/us/usc/t41/s6101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs6101
-[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
-[/us/stat/124/3677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3677
-[/us/usc/t41/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs101
+[/us/pl/113/291/s1071/a/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Fa%2F12
+[/us/stat/128/3505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3505
 [/us/pl/100/180/s1102/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs1102%2Fa%2F1
 [/us/stat/101/1145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1145
 [/us/pl/100/456/s1223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2Fs1223
@@ -101,6 +99,9 @@
 [/us/pl/103/355/s2001/j/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs2001%2Fj%2F1
 [/us/stat/108/3303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3303
 [/us/usc/t10/s2307/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2307%2Fg
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/usc/t41/s6101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs6101
+[/us/usc/t41/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs5
 [/us/pl/108/375/s1012/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs1012%2Fb
 [/us/stat/118/2040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2040
 [/us/usc/t10/s7312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs7312

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stA/ptII/ch55/m__us_usc_t10_s1079b.md) | [Next](./../../../../../..//us/usc/t10/stA/ptII/ch55/m__us_usc_t10_s1081.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1080)
+[Previous](./../../../../../..//us/usc/t10/stA/ptII/ch55/m__us_usc_t10_s1079c.md) | [Next](./../../../../../..//us/usc/t10/stA/ptII/ch55/m__us_usc_t10_s1081.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1080)
 
 ## § 1080. Contracts for medical care for spouses and children: election of facilities
 
@@ -103,7 +103,7 @@ June 7, 1956, ch. 374, § 201(c), 70 Stat. 252.  </td>
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stA/ptII/ch55/m__us_usc_t10_s1079b.md) | [Next](./../../../../../..//us/usc/t10/stA/ptII/ch55/m__us_usc_t10_s1081.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1080)
+[Previous](./../../../../../..//us/usc/t10/stA/ptII/ch55/m__us_usc_t10_s1079c.md) | [Next](./../../../../../..//us/usc/t10/stA/ptII/ch55/m__us_usc_t10_s1081.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1080)
 
 ----------
 ----------

@@ -19,7 +19,7 @@
 
         (1)
 
-         The Secretary of Defense (and the Secretary of Homeland Security in the case of the Coast Guard when it is not operating as a service in the Navy) shall issue regulations to provide that, subject to such limitations as may be specified in such regulations, the following individuals may accept gifts from nonprofit organizations, private parties, and other sources outside the Department of Defense or the Department of Homeland Security:
+         The Secretary of Defense (and the Secretary of Homeland Security in the case of the Coast Guard when it is not operating as a service in the Navy) shall prescribe regulations to provide that, subject to such limitations as may be specified in such regulations, the following individuals may accept gifts from nonprofit organizations, private parties, and other sources outside the Department of Defense or the Department of Homeland Security:
 
             (A) A member of the armed forces described in subsection (b).
 
@@ -53,19 +53,21 @@
 
     (d)  __Gifts From Certain Sources Prohibited__  __.—__ 
 
-    The regulations issued under subsection (a) may not authorize the acceptance of a gift from a foreign government or international organization or their agents.
+    The regulations prescribed under subsection (a) may not authorize the acceptance of a gift from a foreign government or international organization or their agents.
 
     (e)  __Application of Certain Regulations__  __.—__ 
 
-    To the extent provided in the regulations issued under subsection (a) to implement subsection (b)(2), the regulations shall apply to the acceptance of gifts received after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2012 for injuries or illnesses incurred on or after September 11, 2001.
+    To the extent provided in the regulations issued under subsection (a) to implement subsection (b)(2), the regulations shall apply to the acceptance of gifts received after December 31, 2011, for injuries or illnesses incurred on or after September 11, 2001.
 
-(Added [Pub. L. 111–383, div. A, title V, § 591(a)][/us/pl/111/383/s591/a], Jan. 7, 2011, [124 Stat. 4231][/us/stat/124/4231]; amended [Pub. L. 112–81, div. A, title V, § 543][/us/pl/112/81/s543], Dec. 31, 2011, [125 Stat. 1411][/us/stat/125/1411]; [Pub. L. 112–239, div. A, title X, § 1076(f)(32)][/us/pl/112/239/s1076/f/32], Jan. 2, 2013, [126 Stat. 1954][/us/stat/126/1954].)
-
- __References in Text__ 
-
-    The date of the enactment of the National Defense Authorization Act for Fiscal Year 2012, referred to in subsec. (e), is the date of enactment of [Pub. L. 112–81][/us/pl/112/81], which was approved Dec. 31, 2011.
+(Added [Pub. L. 111–383, div. A, title V, § 591(a)][/us/pl/111/383/s591/a], Jan. 7, 2011, [124 Stat. 4231][/us/stat/124/4231]; amended [Pub. L. 112–81, div. A, title V, § 543][/us/pl/112/81/s543], Dec. 31, 2011, [125 Stat. 1411][/us/stat/125/1411]; [Pub. L. 112–239, div. A, title X, § 1076(f)(32)][/us/pl/112/239/s1076/f/32], Jan. 2, 2013, [126 Stat. 1954][/us/stat/126/1954]; [Pub. L. 113–291, div. A, title X, § 1071(e)(4)][/us/pl/113/291/s1071/e/4], (f)(19), Dec. 19, 2014, [128 Stat. 3510][/us/stat/128/3510], 3511.)
 
  __Amendments__ 
+
+    2014—Subsec. (a)(1). [Pub. L. 113–291, § 1071(f)(19)(A)][/us/pl/113/291/s1071/f/19/A], substituted “prescribe” for “issue”.
+
+    Subsec. (d). [Pub. L. 113–291, § 1071(f)(19)(B)][/us/pl/113/291/s1071/f/19/B], substituted “prescribed” for “issued”.
+
+    Subsec. (e). [Pub. L. 113–291, § 1071(e)(4)][/us/pl/113/291/s1071/e/4], substituted “after December 31, 2011,” for “after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2012”.
 
     2013—Subsec. (a)(1). [Pub. L. 112–239][/us/pl/112/239] inserted “when it is not operating as a service in the Navy” after “Coast Guard” in introductory provisions.
 
@@ -89,7 +91,11 @@
 [/us/stat/125/1411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1411
 [/us/pl/112/239/s1076/f/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1076%2Ff%2F32
 [/us/stat/126/1954]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1954
-[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/113/291/s1071/e/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Fe%2F4
+[/us/stat/128/3510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3510
+[/us/pl/113/291/s1071/f/19/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Ff%2F19%2FA
+[/us/pl/113/291/s1071/f/19/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Ff%2F19%2FB
+[/us/pl/113/291/s1071/e/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Fe%2F4
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/pl/112/81/s543/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs543%2F1
 [/us/pl/112/81/s543/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs543%2F2

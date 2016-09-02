@@ -43,7 +43,19 @@
 
             (A) in the case of an employee of the Department of Defense, the employee shall enter into a written agreement to continue in the employment of the department for the period of obligated service determined under paragraph (2); and
 
-            (B) in the case of a person not an employee of the Department of Defense, the person shall enter into a written agreement to accept and continue employment in the Department of Defense for the period of obligated service determined under paragraph (2).
+            (B)
+
+             in the case of a person not an employee of the Department of Defense, the person shall enter into a written agreement to accept and continue employment for the period of obligated service determined under paragraph (2)—
+
+                (i) with the Department; or
+
+                (ii)
+
+                 with a public or private entity or organization outside of the Department if the Secretary—
+
+                    (I) is unable to find an appropriate position for the person within the Department; and
+
+                    (II) determines that employment of the person with such entity or organization for the purpose of such obligated service would provide a benefit to the Department.
 
         (2) For the purposes of this subsection, the period of obligated service for a recipient of financial assistance under this section shall be the period determined by the Secretary of Defense as being appropriate to obtain adequate service in exchange for such financial assistance. The period of service required of a recipient may not be less than the total period of pursuit of a degree that is covered by such financial assistance. The period of obligated service is in addition to any other period for which the recipient is obligated to serve in the civil service of the United States.
 
@@ -93,13 +105,15 @@
 
     In this section, the term “institution of higher education” has the meaning given such term in section 101 of the Higher Education Act of 1965 ([20 U.S.C. 1001][/us/usc/t20/s1001]).
 
-(Added [Pub. L. 109–163, div. A, title XI, § 1104(d)(1)][/us/pl/109/163/s1104/d/1], Jan. 6, 2006, [119 Stat. 3449][/us/stat/119/3449]; amended [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title X, § 1061(a)(5), Oct. 14, 2008, [122 Stat. 4612][/us/stat/122/4612]; [Pub. L. 111–84, div. A, title XI, § 1102(a)][/us/pl/111/84/s1102/a]–(d)(1), Oct. 28, 2009, [123 Stat. 2484][/us/stat/123/2484], 2485; [Pub. L. 113–66, div. A, title XI, § 1105(a)(1)][/us/pl/113/66/s1105/a/1], Dec. 26, 2013, [127 Stat. 886][/us/stat/127/886].)
+(Added [Pub. L. 109–163, div. A, title XI, § 1104(d)(1)][/us/pl/109/163/s1104/d/1], Jan. 6, 2006, [119 Stat. 3449][/us/stat/119/3449]; amended [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title X, § 1061(a)(5), Oct. 14, 2008, [122 Stat. 4612][/us/stat/122/4612]; [Pub. L. 111–84, div. A, title XI, § 1102(a)][/us/pl/111/84/s1102/a]–(d)(1), Oct. 28, 2009, [123 Stat. 2484][/us/stat/123/2484], 2485; [Pub. L. 113–66, div. A, title XI, § 1105(a)(1)][/us/pl/113/66/s1105/a/1], Dec. 26, 2013, [127 Stat. 886][/us/stat/127/886]; [Pub. L. 113–291, div. A, title II, § 215][/us/pl/113/291/s215], Dec. 19, 2014, [128 Stat. 3327][/us/stat/128/3327].)
 
  __Codification__ 
 
     Section, as added by [Pub. L. 109–163][/us/pl/109/163], consists of text of [Pub. L. 108–375, div. A, title XI, § 1105][/us/pl/108/375/s1105], Oct. 28, 2004, [118 Stat. 2074][/us/stat/118/2074]; [Pub. L. 109–163, div. A, title X, § 1056(d)][/us/pl/109/163/s1056/d], title XI, § 1104(a)–(c), Jan. 6, 2006, [119 Stat. 3440][/us/stat/119/3440], 3448, 3449; [Pub. L. 111–383, div. A, title X, § 1075(h)(5)][/us/pl/111/383/s1075/h/5], Jan. 7, 2011, [124 Stat. 4377][/us/stat/124/4377], which was formerly set out as a note under [section 2192 of this title][/us/usc/t10/s2192], and was repealed by [Pub. L. 109–163, div. A, title XI, § 1104(e)(1)][/us/pl/109/163/s1104/e/1], Jan. 6, 2006, [119 Stat. 3450][/us/stat/119/3450].
 
  __Amendments__ 
+
+    2014—Subsec. (c)(1)(B). [Pub. L. 113–291][/us/pl/113/291] amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “in the case of a person not an employee of the Department of Defense, the person shall enter into a written agreement to accept and continue employment in the Department of Defense for the period of obligated service determined under paragraph (2).”
 
     2013—Subsec. (b)(2). [Pub. L. 113–66][/us/pl/113/66] substituted “an amount determined by the Secretary of Defense” for “the amount determined by the Secretary of Defense as being necessary to pay all educational expenses incurred by that person, including tuition, fees, cost of books, laboratory expenses, equipment expenses, and expenses of room and board”.
 
@@ -137,6 +151,8 @@
 [/us/stat/123/2484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2484
 [/us/pl/113/66/s1105/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1105%2Fa%2F1
 [/us/stat/127/886]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F886
+[/us/pl/113/291/s215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs215
+[/us/stat/128/3327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3327
 [/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
 [/us/pl/108/375/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs1105
 [/us/stat/118/2074]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2074
@@ -147,6 +163,7 @@
 [/us/usc/t10/s2192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2192
 [/us/pl/109/163/s1104/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs1104%2Fe%2F1
 [/us/stat/119/3450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3450
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/pl/111/84/s1102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs1102%2Fb
 [/us/pl/111/84/s1102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs1102%2Fa

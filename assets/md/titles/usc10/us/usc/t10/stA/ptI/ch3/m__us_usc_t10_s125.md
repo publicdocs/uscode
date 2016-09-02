@@ -15,13 +15,13 @@
 
 ## § 125. Functions, powers, and duties: transfer, reassignment, consolidation, or abolition
 
-    (a) Subject to section 2 of the National Security Act of 1947 ([50 U.S.C. 401][/us/usc/t50/s401]), <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  the Secretary of Defense shall take appropriate action (including the transfer, reassignment, consolidation, or abolition of any function, power, or duty) to provide more effective, efficient, and economical administration and operation, and to eliminate duplication, in the Department of Defense. However, except as provided by subsections (b) and (c), a function, power, or duty vested in the Department of Defense, or an officer, official, or agency thereof, by law may not be substantially transferred, reassigned, consolidated, or abolished.
+    (a) Subject to section 2 of the National Security Act of 1947 ([50 U.S.C. 3002][/us/usc/t50/s3002]), the Secretary of Defense shall take appropriate action (including the transfer, reassignment, consolidation, or abolition of any function, power, or duty) to provide more effective, efficient, and economical administration and operation, and to eliminate duplication, in the Department of Defense. However, except as provided by subsections (b) and (c), a function, power, or duty vested in the Department of Defense, or an officer, official, or agency thereof, by law may not be substantially transferred, reassigned, consolidated, or abolished.
 
     (b) Notwithstanding subsection (a), if the President determines it to be necessary because of hostilities or an imminent threat of hostilities, any function, power, or duty vested by law in the Department of Defense, or an officer, official, or agency thereof, including one assigned to the Army, Navy, Air Force, or Marine Corps by section 3062(b), 5062, 5063, or 8062(c) of this title, may be transferred, reassigned, or consolidated. The transfer, reassignment, or consolidation remains in effect until the President determines that hostilities have terminated or that there is no longer an imminent threat of hostilities, as the case may be.
 
     (c) Notwithstanding subsection (a), the Secretary of Defense may assign or reassign the development and operational use of new weapons or weapons systems to one or more of the military departments or one or more of the armed forces.
 
-(Added [Pub. L. 87–651, title II, § 201(a)][/us/pl/87/651/s201/a], Sept. 7, 1962, [76 Stat. 515][/us/stat/76/515]; amended [Pub. L. 89–501, title IV, § 401][/us/pl/89/501/s401], July 13, 1966, [80 Stat. 278][/us/stat/80/278]; [Pub. L. 98–525, title XIV, § 1405(1)][/us/pl/98/525/s1405/1], Oct. 19, 1984, [98 Stat. 2621][/us/stat/98/2621]; [Pub. L. 99–433, title I, § 103][/us/pl/99/433/s103], title III, § 301(b)(1), title V, § 514(c)(1), Oct. 1, 1986, [100 Stat. 996][/us/stat/100/996], 1022, 1055; [Pub. L. 101–510, div. A, title XIII, § 1301(3)][/us/pl/101/510/s1301/3], Nov. 5, 1990, [104 Stat. 1668][/us/stat/104/1668].)
+(Added [Pub. L. 87–651, title II, § 201(a)][/us/pl/87/651/s201/a], Sept. 7, 1962, [76 Stat. 515][/us/stat/76/515]; amended [Pub. L. 89–501, title IV, § 401][/us/pl/89/501/s401], July 13, 1966, [80 Stat. 278][/us/stat/80/278]; [Pub. L. 98–525, title XIV, § 1405(1)][/us/pl/98/525/s1405/1], Oct. 19, 1984, [98 Stat. 2621][/us/stat/98/2621]; [Pub. L. 99–433, title I, § 103][/us/pl/99/433/s103], title III, § 301(b)(1), title V, § 514(c)(1), Oct. 1, 1986, [100 Stat. 996][/us/stat/100/996], 1022, 1055; [Pub. L. 101–510, div. A, title XIII, § 1301(3)][/us/pl/101/510/s1301/3], Nov. 5, 1990, [104 Stat. 1668][/us/stat/104/1668]; [Pub. L. 113–291, div. A, title X, § 1071(c)(1)][/us/pl/113/291/s1071/c/1], Dec. 19, 2014, [128 Stat. 3508][/us/stat/128/3508].)
 
 <table>
 
@@ -109,11 +109,9 @@ July 26, 1947, ch. 343, § 308(a) (as applicable to § 202(c)(1), (5), (6)),
 
     In subsection (d), the following substitutions are made: “In subsection (a) (1)” for “within the meaning of paragraph (1) hereof”; and “considers” for “deems”. The words “advantageous to the Government in terms of” are omitted as surplusage.
 
- __References in Text__ 
-
-    The National Security Act of 1947, referred to in subsec. (a), is [act July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], [61 Stat. 495][/us/stat/61/495], which was formerly classified principally to chapter 15 (§ 401 et seq.) of Title 50, War and National Defense, prior to editorial reclassification in chapter 44 (§ 3001 et seq.) of Title 50. Section 2 of the Act is now classified to [section 3002 of Title 50][/us/usc/t50/s3002]. For complete classification of this Act to the Code, see Tables.
-
  __Amendments__ 
+
+    2014—Subsec. (a). [Pub. L. 113–291][/us/pl/113/291] substituted “([50 U.S.C. 3002][/us/usc/t50/s3002])” for “([50 U.S.C. 401][/us/usc/t50/s401])”.
 
     1990—Subsec. (c). [Pub. L. 101–510][/us/pl/101/510] struck out at end “However, notwithstanding any other provision of this title or any other law, the Secretary of Defense shall not direct or approve a plan to initiate or effect a substantial reduction or elimination of a major weapons system until the Secretary of Defense has reported all the pertinent details of the proposed action to the Congress of the United States while the Congress is in session.”
 
@@ -148,7 +146,7 @@ July 26, 1947, ch. 343, § 308(a) (as applicable to § 202(c)(1), (5), (6)),
 ----------
 ----------
 
-[/us/usc/t50/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs401
+[/us/usc/t50/s3002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3002
 [/us/pl/87/651/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F651%2Fs201%2Fa
 [/us/stat/76/515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F515
 [/us/pl/89/501/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F501%2Fs401
@@ -159,9 +157,11 @@ July 26, 1947, ch. 343, § 308(a) (as applicable to § 202(c)(1), (5), (6)),
 [/us/stat/100/996]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F996
 [/us/pl/101/510/s1301/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1301%2F3
 [/us/stat/104/1668]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1668
-[/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
-[/us/stat/61/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F495
+[/us/pl/113/291/s1071/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Fc%2F1
+[/us/stat/128/3508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3508
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/usc/t50/s3002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3002
+[/us/usc/t50/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs401
 [/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
 [/us/pl/99/433/s103/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2Fs103%2F1
 [/us/pl/99/433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433

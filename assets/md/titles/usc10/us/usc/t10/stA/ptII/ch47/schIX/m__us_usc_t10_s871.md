@@ -147,7 +147,7 @@ May 5, 1950, ch. 169, § 1 (Art. 71), 64 Stat. 131.  </td>
 
  __Effective Date of 2013 Amendment__ 
 
-    Amendment by [Pub. L. 113–66][/us/pl/113/66] effective 180 days after Dec. 26, 2013, and applicable with respect to offenses committed under this chapter on or after that effective date, see [section 1702(d)(2) of Pub. L. 113–66][/us/pl/113/66/s1702/d/2], set out as a note under [section 860 of this title][/us/usc/t10/s860].
+    Amendment by [Pub. L. 113–66][/us/pl/113/66] effective 180 days after Dec. 26, 2013, and applicable with respect to offenses committed under this chapter on or after that effective date, with provision with respect to the findings and sentence of a court-martial that includes both a conviction for an offense committed before the effective date and a conviction for an offense committed on or after that effective date, see [section 1702(d)(2) of Pub. L. 113–66][/us/pl/113/66/s1702/d/2], set out as a note under [section 860 of this title][/us/usc/t10/s860].
 
  __Effective Date of 1983 Amendment__ 
 

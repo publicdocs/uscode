@@ -25,9 +25,9 @@
 
         (1) The Secretary of the Navy may not announce or implement any proposal to name a vessel of the Navy until 30 days after the date on which the Secretary submits to the Committees on Armed Services of the Senate and the House of Representatives a report setting forth such proposal.
 
-        (2) Each report under this subsection shall describe the justification for the proposal covered by such report in accordance with the standards referred to in section 1024(a) of the National Defense Authorization Act for Fiscal Year 2013.
+        (2) Each report under this subsection shall describe the justification for the proposal covered by such report in accordance with the standards referred to in section 1018(a) of the National Defense Authorization Act for Fiscal Year 2013.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 448][/us/stat/70A/448]; [Pub. L. 112–239, div. A, title X, § 1018(b)][/us/pl/112/239/s1018/b], Jan. 2, 2013, [126 Stat. 1910][/us/stat/126/1910].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 448][/us/stat/70A/448]; [Pub. L. 112–239, div. A, title X, § 1018(b)][/us/pl/112/239/s1018/b], Jan. 2, 2013, [126 Stat. 1910][/us/stat/126/1910]; [Pub. L. 113–291, div. A, title X, § 1071(f)(27)][/us/pl/113/291/s1071/f/27], Dec. 19, 2014, [128 Stat. 3511][/us/stat/128/3511].)
 
 <table>
 
@@ -113,9 +113,11 @@ R.S. 1533.  </td>
 
  __References in Text__ 
 
-    Section 1024(a) of the National Defense Authorization Act for Fiscal Year 2013, referred to in subsec. (d)(2), is [section 1024(a) of Pub. L. 112–239][/us/pl/112/239/s1024/a], which is set out as a note under [section 801 of this title][/us/usc/t10/s801].
+    Section 1018(a) of the National Defense Authorization Act for Fiscal Year 2013, referred to in subsec. (d)(2), is [section 1018(a) of Pub. L. 112–239][/us/pl/112/239/s1018/a], which is set out as a note below.
 
  __Amendments__ 
+
+    2014—Subsec. (d)(2). [Pub. L. 113–291][/us/pl/113/291] substituted “section 1018(a)” for “section 1024(a)”.
 
     2013—Subsec. (d). [Pub. L. 112–239][/us/pl/112/239] added subsec. (d).
 
@@ -148,8 +150,10 @@ R.S. 1533.  </td>
 [/us/stat/70A/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F448
 [/us/pl/112/239/s1018/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1018%2Fb
 [/us/stat/126/1910]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1910
-[/us/pl/112/239/s1024/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1024%2Fa
-[/us/usc/t10/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs801
+[/us/pl/113/291/s1071/f/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Ff%2F27
+[/us/stat/128/3511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3511
+[/us/pl/112/239/s1018/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1018%2Fa
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/pl/112/239/s1018/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1018%2Fc
 [/us/stat/126/1911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1911

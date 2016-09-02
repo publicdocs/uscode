@@ -977,61 +977,41 @@ Sept. 3, 1954, ch. 1257, § 102(6), 68 Stat. 1150.  </td>
 
  __Coordination of Certain Sections of an Act With Other Provisions of That Act__ 
 
-[Pub. L. 113–66, div. A, title X, § 1091(f)][/us/pl/113/66/s1091/f], Dec. 26, 2013, [127 Stat. 877][/us/stat/127/877], provided that: 
+[Pub. L. 113–291, div. A, title X, § 1071(k)][/us/pl/113/291/s1071/k], Dec. 19, 2014, [128 Stat. 3512][/us/stat/128/3512], provided that: 
 
-> “For purposes of applying amendments made by provisions of this Act other than this section \[see Tables for classification\], the amendments made by this section shall be treated as having been enacted immediately before any amendment made by other provisions of this Act.”
+> “For purposes of applying amendments made by provisions of this Act other than this section \[see Tables for classification\], the amendments made by this section shall be treated as having been enacted immediately before any such amendments by other provisions of this Act.
 
-[Pub. L. 112–239, div. A, title X, § 1076(m)][/us/pl/112/239/s1076/m], Jan. 2, 2013, [126 Stat. 1956][/us/stat/126/1956], provided that: 
+>     [Pub. L. 113–66, div. A, title X, § 1091(f)][/us/pl/113/66/s1091/f], Dec. 26, 2013, [127 Stat. 877][/us/stat/127/877], provided that: “For purposes of applying amendments made by provisions of this Act other than this section \[see Tables for classification\], the amendments made by this section shall be treated as having been enacted immediately before any amendment made by other provisions of this Act.”
 
-> “For purposes of applying amendments made by provisions of this Act other than this section \[see Tables for classification\], the amendments made by this section shall be treated as having been enacted immediately before any amendment made by other provisions of this Act.”
+>     [Pub. L. 112–239, div. A, title X, § 1076(m)][/us/pl/112/239/s1076/m], Jan. 2, 2013, [126 Stat. 1956][/us/stat/126/1956], provided that: “For purposes of applying amendments made by provisions of this Act other than this section \[see Tables for classification\], the amendments made by this section shall be treated as having been enacted immediately before any amendment made by other provisions of this Act.”
 
-[Pub. L. 109–364, div. A, title X, § 1071(i)][/us/pl/109/364/s1071/i], Oct. 17, 2006, [120 Stat. 2403][/us/stat/120/2403], provided that: 
+>     [Pub. L. 109–364, div. A, title X, § 1071(i)][/us/pl/109/364/s1071/i], Oct. 17, 2006, [120 Stat. 2403][/us/stat/120/2403], provided that: “For purposes of applying amendments made by provisions of this Act other than provisions of this section \[see Tables for classification\], this section shall be treated as having been enacted immediately before the other provisions of this Act.”
 
-> “For purposes of applying amendments made by provisions of this Act other than provisions of this section \[see Tables for classification\], this section shall be treated as having been enacted immediately before the other provisions of this Act.”
+>     [Pub. L. 107–107, div. A, title X, § 1048(j)][/us/pl/107/107/s1048/j], Dec. 28, 2001, [115 Stat. 1230][/us/stat/115/1230], provided that: “For purposes of applying amendments made by provisions of this Act other than provisions of this section \[see Tables for classification\], this section shall be treated as having been enacted immediately before the other provisions of this Act.”
 
-[Pub. L. 107–107, div. A, title X, § 1048(j)][/us/pl/107/107/s1048/j], Dec. 28, 2001, [115 Stat. 1230][/us/stat/115/1230], provided that: 
+>     [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title X, § 1087(h)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–294, provided that: “For purposes of applying amendments made by provisions of this Act other than provisions of this section \[section 1087 of H.R. 5408, as enacted by [section 1 of Pub. L. 106–398][/us/pl/106/398/s1], see Tables for classification\], this section shall be treated as having been enacted immediately before the other provisions of this Act.”
 
-> “For purposes of applying amendments made by provisions of this Act other than provisions of this section \[see Tables for classification\], this section shall be treated as having been enacted immediately before the other provisions of this Act.”
+>     [Pub. L. 106–65, div. A, title X, § 1066(e)][/us/pl/106/65/s1066/e], Oct. 5, 1999, [113 Stat. 773][/us/stat/113/773], provided that: “For purposes of applying amendments made by provisions of this Act other than provisions of this section \[see Tables for classification\], this section shall be treated as having been enacted immediately before the other provisions of this Act.”
 
-[Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title X, § 1087(h)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–294, provided that: 
+>     [Pub. L. 105–261, div. A, title X, § 1069(e)][/us/pl/105/261/s1069/e], Oct. 17, 1998, [112 Stat. 2137][/us/stat/112/2137], provided that: “For purposes of applying amendments made by provisions of this Act other than provisions of this section \[see Tables for classification\], this section shall be treated as having been enacted immediately before the other provisions of this Act.”
 
-> “For purposes of applying amendments made by provisions of this Act other than provisions of this section \[section 1087 of H.R. 5408, as enacted by [section 1 of Pub. L. 106–398][/us/pl/106/398/s1], see Tables for classification\], this section shall be treated as having been enacted immediately before the other provisions of this Act.”
+>     [Pub. L. 105–85, div. A, title X, § 1073(i)][/us/pl/105/85/s1073/i], Nov. 18, 1997, [111 Stat. 1907][/us/stat/111/1907], provided that: “For purposes of applying amendments made by provisions of this Act other than provisions of this section \[see Tables for classification\], this section shall be treated as having been enacted immediately before the other provisions of this Act.”
 
-[Pub. L. 106–65, div. A, title X, § 1066(e)][/us/pl/106/65/s1066/e], Oct. 5, 1999, [113 Stat. 773][/us/stat/113/773], provided that: 
+>     [Pub. L. 104–201, div. A, title X, § 1074(e)][/us/pl/104/201/s1074/e], Sept. 23, 1996, [110 Stat. 2661][/us/stat/110/2661], provided that: “For purposes of applying amendments made by provisions of this Act other than provisions of this section \[see Tables for classification\], this section shall be treated as having been enacted immediately before the other provisions of this Act.”
 
-> “For purposes of applying amendments made by provisions of this Act other than provisions of this section \[see Tables for classification\], this section shall be treated as having been enacted immediately before the other provisions of this Act.”
+>     [Pub. L. 104–106, div. A, title XV, § 1506][/us/pl/104/106/s1506], Feb. 10, 1996, [110 Stat. 515][/us/stat/110/515], provided that: “For purposes of applying amendments made by provisions of this Act other than provisions of this title \[see Tables for classification\], this title shall be treated as having been enacted immediately before the other provisions of this Act.”
 
-[Pub. L. 105–261, div. A, title X, § 1069(e)][/us/pl/105/261/s1069/e], Oct. 17, 1998, [112 Stat. 2137][/us/stat/112/2137], provided that: 
+>     [Pub. L. 103–337, div. A, title X, § 1070(h)][/us/pl/103/337/s1070/h], Oct. 5, 1994, [108 Stat. 2859][/us/stat/108/2859], provided that: “For purposes of applying amendments made by provisions of this Act other than this section \[see Tables for classification\], this section shall be treated as having been enacted immediately before the other provisions of this Act.”
 
-> “For purposes of applying amendments made by provisions of this Act other than provisions of this section \[see Tables for classification\], this section shall be treated as having been enacted immediately before the other provisions of this Act.”
+>     [Pub. L. 103–160, div. A, title XI, § 1182(h)][/us/pl/103/160/s1182/h], Nov. 30, 1993, [107 Stat. 1774][/us/stat/107/1774], provided that: “For purposes of applying the amendments made by provisions of this Act other than this section \[see Tables for classification\], this section shall be treated as having been enacted immediately before the other provisions of this Act.”
 
-[Pub. L. 105–85, div. A, title X, § 1073(i)][/us/pl/105/85/s1073/i], Nov. 18, 1997, [111 Stat. 1907][/us/stat/111/1907], provided that: 
-
-> “For purposes of applying amendments made by provisions of this Act other than provisions of this section \[see Tables for classification\], this section shall be treated as having been enacted immediately before the other provisions of this Act.”
-
-[Pub. L. 104–201, div. A, title X, § 1074(e)][/us/pl/104/201/s1074/e], Sept. 23, 1996, [110 Stat. 2661][/us/stat/110/2661], provided that: 
-
-> “For purposes of applying amendments made by provisions of this Act other than provisions of this section \[see Tables for classification\], this section shall be treated as having been enacted immediately before the other provisions of this Act.”
-
-[Pub. L. 104–106, div. A, title XV, § 1506][/us/pl/104/106/s1506], Feb. 10, 1996, [110 Stat. 515][/us/stat/110/515], provided that: 
-
-> “For purposes of applying amendments made by provisions of this Act other than provisions of this title \[see Tables for classification\], this title shall be treated as having been enacted immediately before the other provisions of this Act.”
-
-[Pub. L. 103–337, div. A, title X, § 1070(h)][/us/pl/103/337/s1070/h], Oct. 5, 1994, [108 Stat. 2859][/us/stat/108/2859], provided that: 
-
-> “For purposes of applying amendments made by provisions of this Act other than this section \[see Tables for classification\], this section shall be treated as having been enacted immediately before the other provisions of this Act.”
-
-[Pub. L. 103–160, div. A, title XI, § 1182(h)][/us/pl/103/160/s1182/h], Nov. 30, 1993, [107 Stat. 1774][/us/stat/107/1774], provided that: 
-
-> “For purposes of applying the amendments made by provisions of this Act other than this section \[see Tables for classification\], this section shall be treated as having been enacted immediately before the other provisions of this Act.”
-
-[Pub. L. 102–484, div. A, title X, § 1055][/us/pl/102/484/s1055], Oct. 23, 1992, [106 Stat. 2503][/us/stat/106/2503], provided that: 
-
-> “For purposes of applying the amendments made by provisions of this Act other than sections 1052, 1053, and 1054 \[see Tables for classification\], those sections shall be treated as having been enacted immediately before the other provisions of this Act.”
+>     [Pub. L. 102–484, div. A, title X, § 1055][/us/pl/102/484/s1055], Oct. 23, 1992, [106 Stat. 2503][/us/stat/106/2503], provided that: “For purposes of applying the amendments made by provisions of this Act other than sections 1052, 1053, and 1054 \[see Tables for classification\], those sections shall be treated as having been enacted immediately before the other provisions of this Act.”
 
  __Congressional Defense Committees Defined__ 
 
 The following provisions provided that the term “congressional defense committees” for purposes of the Acts in which they were contained has the meaning given that term in subsec. (a)(16) of this section:
+
+    [Pub. L. 113–291, § 3][/us/pl/113/291/s3], Dec. 19, 2014, [128 Stat. 3312][/us/stat/128/3312].
 
     [Pub. L. 113–66, § 3][/us/pl/113/66/s3], Dec. 26, 2013, [127 Stat. 689][/us/stat/127/689].
 
@@ -1399,6 +1379,8 @@ The following provisions provided that the term “congressional defense committ
 [/us/stat/94/2955]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2955
 [/us/usc/t33/s3071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs3071
 [/us/usc/t42/s213a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs213a
+[/us/pl/113/291/s1071/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Fk
+[/us/stat/128/3512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3512
 [/us/pl/113/66/s1091/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1091%2Ff
 [/us/stat/127/877]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F877
 [/us/pl/112/239/s1076/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1076%2Fm
@@ -1426,6 +1408,8 @@ The following provisions provided that the term “congressional defense committ
 [/us/stat/107/1774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1774
 [/us/pl/102/484/s1055]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs1055
 [/us/stat/106/2503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2503
+[/us/pl/113/291/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3
+[/us/stat/128/3312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3312
 [/us/pl/113/66/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3
 [/us/stat/127/689]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F689
 [/us/pl/112/239/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3

@@ -371,7 +371,7 @@
 
 >     A commercial air operator contracting with the Department of Defense under the pilot program referred to in subsection (a) shall be eligible to receive Government-provided insurance pursuant to chapter 443 of title 49, United States Code, if commercial insurance is unavailable on reasonable terms and conditions.”
 
-[Pub. L. 110–181, div. A, title X, § 1081][/us/pl/110/181/s1081], Jan. 28, 2008, [122 Stat. 335][/us/stat/122/335], as amended by [Pub. L. 111–84, div. A, title X, § 1081][/us/pl/111/84/s1081], Oct. 28, 2009, [123 Stat. 2481][/us/stat/123/2481], provided that:
+[Pub. L. 110–181, div. A, title X, § 1081][/us/pl/110/181/s1081], Jan. 28, 2008, [122 Stat. 335][/us/stat/122/335], as amended by [Pub. L. 111–84, div. A, title X, § 1081][/us/pl/111/84/s1081], Oct. 28, 2009, [123 Stat. 2481][/us/stat/123/2481]; [Pub. L. 113–291, div. A, title X, § 1061][/us/pl/113/291/s1061], Dec. 19, 2014, [128 Stat. 3503][/us/stat/128/3503], provided that:
 
 >     “(a)  __Pilot Program Required__  __.—__ 
 
@@ -413,15 +413,7 @@
 
 >         “(2) an assessment of the impact of outsourcing air refueling on the Air Force’s flying hour program and aircrew training; and
 
->         “(3) any other data that the Secretary determines is appropriate for evaluating the performance of the commercial air refueling providers participating in the pilot program.
-
->     “(d)  __Comptroller General Review__  __.—__ 
-
->     The Comptroller General shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\]—
-
->         “(1) an annual review of the conduct of the pilot program under this section and any recommendations of the Comptroller General for improving the program; and
-
->         “(2) not later than 90 days after the completion of the pilot program, a final assessment of the results of the pilot program and the recommendations of the Comptroller General for whether the Secretary of the Air Force should continue to utilize fee-for-service air refueling.”
+>         “(3) any other data that the Secretary determines is appropriate for evaluating the performance of the commercial air refueling providers participating in the pilot program.”
 
  __Inapplicability of Subsection (a)(1)(E) to Best-Value Source Selection Pilot Program__ 
 
@@ -515,7 +507,7 @@
 
 >     “(c)  __Exemption for Pilot Program__  __.—__ 
 
->     [Section 2462(a) of title 10][/us/usc/t10/s2462/a], United States Code, does not apply to the procurement of information technology services under the pilot program.
+>     \[Former\] [Section 2462(a) of title 10][/us/usc/t10/s2462/a], United States Code, does not apply to the procurement of information technology services under the pilot program.
 
 >     “(d)  __Duration of Pilot Program__  __.—__ 
 
@@ -915,6 +907,8 @@
 [/us/stat/122/335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F335
 [/us/pl/111/84/s1081]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs1081
 [/us/stat/123/2481]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2481
+[/us/pl/113/291/s1061]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1061
+[/us/stat/128/3503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3503
 [/us/pl/109/163/s341/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs341%2Fe
 [/us/stat/119/3199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3199
 [/us/pl/109/364/s1071/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs1071%2Fe%2F1

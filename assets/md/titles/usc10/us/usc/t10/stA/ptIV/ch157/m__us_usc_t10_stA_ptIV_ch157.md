@@ -147,7 +147,7 @@
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2642" data-uslm-ref="/us/usc/t10/s2642">2642.</a>  </td>
 
-    <td> Transportation services provided to certain other agencies: use of Department of Defense reimbursement rates. <sup>[1]</sup>  <sup><sup> 1 So in original. Does not conform to section catchline. </sup></sup>   </td>
+    <td> Transportation services provided to certain non-Department of Defense agencies and entities: use of Department of Defense reimbursement rate.  </td>
 
   </tr>
 
@@ -227,6 +227,10 @@
 
  __Amendments__ 
 
+    2014—[Pub. L. 113–291, div. A, title X, § 1071(f)(21)][/us/pl/113/291/s1071/f/21], Dec. 19, 2014, [128 Stat. 3511][/us/stat/128/3511], which directed substitution of “rate” for “rates” in item 2642, could not be executed because the word “rates” does not appear after the amendment by [Pub. L. 113–291, § 1044(c)(2)][/us/pl/113/291/s1044/c/2]. See below.
+
+    [Pub. L. 113–291, div. A, title X, § 1044(c)(2)][/us/pl/113/291/s1044/c/2], Dec. 19, 2014, [128 Stat. 3494][/us/stat/128/3494], amended item 2642 generally, substituting “Transportation services provided to certain non-Department of Defense agencies and entities: use of Department of Defense reimbursement rate” for “Transportation services provided to certain other agencies: use of Department of Defense reimbursement rates”.
+
     2013—[Pub. L. 113–66, div. A, title VI, § 621(g)(2)][/us/pl/113/66/s621/g/2], title X, § 1073(c), Dec. 26, 2013, [127 Stat. 784][/us/stat/127/784], 870, struck out item 2634 “Motor vehicles: transportation or storage for members on change of permanent station or extended deployment”, added item 2642, and struck out former item 2642 “Airlift services provided to certain other agencies: use of Department of Defense reimbursement rate”.
 
     [Pub. L. 112–239, div. A, title VI, § 622(b)][/us/pl/112/239/s622/b], Jan. 2, 2013, [126 Stat. 1781][/us/stat/126/1781], substituted in item 2641b “Space-available travel on Department of Defense aircraft: program authorized and eligible recipients.” for “Space-available travel on Department of Defense aircraft: retired members residing in Commonwealths and possessions of the United States for certain health care services.”
@@ -284,6 +288,11 @@
 ----------
 ----------
 
+[/us/pl/113/291/s1071/f/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Ff%2F21
+[/us/stat/128/3511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3511
+[/us/pl/113/291/s1044/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1044%2Fc%2F2
+[/us/pl/113/291/s1044/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1044%2Fc%2F2
+[/us/stat/128/3494]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3494
 [/us/pl/113/66/s621/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs621%2Fg%2F2
 [/us/stat/127/784]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F784
 [/us/pl/112/239/s622/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs622%2Fb

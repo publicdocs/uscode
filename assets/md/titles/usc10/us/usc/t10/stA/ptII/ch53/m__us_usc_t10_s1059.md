@@ -51,7 +51,7 @@
 
         (3) If there is no spouse or former spouse who is (or but for subsection (g) would be) eligible under paragraph (1), such compensation shall be paid to the dependent children of the individual described in subsection (b).
 
-        (4) For purposes of this subsection, an individual’s status as a “dependent child” shall be determined as of the date on which the individual described in subsection (b) is convicted of the dependent-abuse offense or, in a case described in subsection (b)(2), as of the date on which the individual described in subsection (b) is separated from active duty.
+        (4) For purposes of this subsection, an individual’s status as a “dependent child” shall be determined as of the date on which the individual described in subsection (b) is convicted of the dependent-abuse offense or, in a case described in subsection (b)(2), as of the date on which the separation action is initiated by a commander of the individual described in subsection (b).
 
     (e)  __Commencement and Duration of Payment__  __.—__ 
 
@@ -139,9 +139,11 @@
 
         (3) The authority of the Secretary concerned under paragraph (1) may not be delegated.
 
-(Added [Pub. L. 103–160, div. A, title V, § 554(a)(1)][/us/pl/103/160/s554/a/1], Nov. 30, 1993, [107 Stat. 1663][/us/stat/107/1663], § 1058; renumbered § 1059 and amended [Pub. L. 103–337, div. A, title V, § 535(a)][/us/pl/103/337/s535/a]–(c)(1), title X, § 1070(a)(5)(A), Oct. 5, 1994, [108 Stat. 2762][/us/stat/108/2762], 2763, 2855; [Pub. L. 104–106, div. A, title VI, § 636(a)][/us/pl/104/106/s636/a], (b), title XV, § 1503(a)(8), Feb. 10, 1996, [110 Stat. 367][/us/stat/110/367], 511; [Pub. L. 105–261, div. A, title V, § 570(a)][/us/pl/105/261/s570/a], (b), Oct. 17, 1998, [112 Stat. 2032][/us/stat/112/2032]; [Pub. L. 107–296, title XVII, § 1704(b)(1)][/us/pl/107/296/s1704/b/1], Nov. 25, 2002, [116 Stat. 2314][/us/stat/116/2314]; [Pub. L. 108–136, div. A, title V][/us/pl/108/136], §§ 572(a), (b)(1), (c), 573(a), 574, Nov. 24, 2003, [117 Stat. 1484–1486][/us/stat/117/1484-1486]; [Pub. L. 112–239, div. A, title V, § 564(a)][/us/pl/112/239/s564/a], Jan. 2, 2013, [126 Stat. 1748][/us/stat/126/1748].)
+(Added [Pub. L. 103–160, div. A, title V, § 554(a)(1)][/us/pl/103/160/s554/a/1], Nov. 30, 1993, [107 Stat. 1663][/us/stat/107/1663], § 1058; renumbered § 1059 and amended [Pub. L. 103–337, div. A, title V, § 535(a)][/us/pl/103/337/s535/a]–(c)(1), title X, § 1070(a)(5)(A), Oct. 5, 1994, [108 Stat. 2762][/us/stat/108/2762], 2763, 2855; [Pub. L. 104–106, div. A, title VI, § 636(a)][/us/pl/104/106/s636/a], (b), title XV, § 1503(a)(8), Feb. 10, 1996, [110 Stat. 367][/us/stat/110/367], 511; [Pub. L. 105–261, div. A, title V, § 570(a)][/us/pl/105/261/s570/a], (b), Oct. 17, 1998, [112 Stat. 2032][/us/stat/112/2032]; [Pub. L. 107–296, title XVII, § 1704(b)(1)][/us/pl/107/296/s1704/b/1], Nov. 25, 2002, [116 Stat. 2314][/us/stat/116/2314]; [Pub. L. 108–136, div. A, title V][/us/pl/108/136], §§ 572(a), (b)(1), (c), 573(a), 574, Nov. 24, 2003, [117 Stat. 1484–1486][/us/stat/117/1484-1486]; [Pub. L. 112–239, div. A, title V, § 564(a)][/us/pl/112/239/s564/a], Jan. 2, 2013, [126 Stat. 1748][/us/stat/126/1748]; [Pub. L. 113–291, div. A, title VI, § 621][/us/pl/113/291/s621], Dec. 19, 2014, [128 Stat. 3401][/us/stat/128/3401].)
 
  __Amendments__ 
+
+    2014—Subsec. (d)(4). [Pub. L. 113–291][/us/pl/113/291] substituted “as of the date on which the separation action is initiated by a commander of the individual described in subsection (b)” for “as of the date on which the individual described in subsection (b) is separated from active duty”.
 
     2013—Subsec. (f)(4). [Pub. L. 112–239, § 564(a)(1)][/us/pl/112/239/s564/a/1], added par. (4).
 
@@ -278,6 +280,9 @@
 [/us/stat/117/1484-1486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1484-1486
 [/us/pl/112/239/s564/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs564%2Fa
 [/us/stat/126/1748]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1748
+[/us/pl/113/291/s621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs621
+[/us/stat/128/3401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3401
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/pl/112/239/s564/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs564%2Fa%2F1
 [/us/pl/112/239/s564/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs564%2Fa%2F2
 [/us/pl/108/136/s574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs574

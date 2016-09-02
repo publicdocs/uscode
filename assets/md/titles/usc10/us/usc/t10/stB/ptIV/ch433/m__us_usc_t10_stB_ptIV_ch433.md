@@ -35,7 +35,7 @@
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs4532" data-uslm-ref="/us/usc/t10/s4532">4532.</a>  </td>
 
-    <td> Factories and arsenals: manufacture at; abolition of.  </td>
+    <td> Factories and arsenals: manufacture at.  </td>
 
   </tr>
 
@@ -107,6 +107,8 @@
 
  __Amendments__ 
 
+    2014—[Pub. L. 113–291, div. A, title III, § 323(b)][/us/pl/113/291/s323/b], Dec. 19, 2014, [128 Stat. 3343][/us/stat/128/3343], added item 4532 and struck out former item 4532 “Factories and arsenals: manufacture at; abolition of”.
+
     2004—[Pub. L. 108–375, div. A, title III, § 353(b)][/us/pl/108/375/s353/b], Oct. 28, 2004, [118 Stat. 1861][/us/stat/118/1861], added item 4544.
 
     2000—[Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title III, § 342(b)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–65, added item 4541.
@@ -126,6 +128,8 @@
 ----------
 ----------
 
+[/us/pl/113/291/s323/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs323%2Fb
+[/us/stat/128/3343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3343
 [/us/pl/108/375/s353/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs353%2Fb
 [/us/stat/118/1861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1861
 [/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1

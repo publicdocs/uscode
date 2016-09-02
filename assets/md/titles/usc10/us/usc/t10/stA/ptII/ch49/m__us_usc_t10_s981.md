@@ -19,7 +19,15 @@
 
     (b) Not more than 300 enlisted members may be assigned to duty at any time as enlisted aides for officers of the Army, Navy, Air Force, and Marine Corps.
 
-(Added [Pub. L. 98–525, title XIV, § 1401(c)(1)][/us/pl/98/525/s1401/c/1], Oct. 19, 1984, [98 Stat. 2615][/us/stat/98/2615].)
+    (c)
+
+     Not later than March 1 of each year, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report—
+
+        (1) specifying the number of enlisted aides authorized and allocated for general officers and flag officers of the Army, Navy, Air Force, Marine Corps, and joint pool as of September 30 of the previous year; and
+
+        (2) justifying, on a billet-by-billet basis, the authorization and assignment of each enlisted aide to each general officer and flag officer position.
+
+(Added [Pub. L. 98–525, title XIV, § 1401(c)(1)][/us/pl/98/525/s1401/c/1], Oct. 19, 1984, [98 Stat. 2615][/us/stat/98/2615]; amended [Pub. L. 113–291, div. A, title V, § 504(a)][/us/pl/113/291/s504/a], Dec. 19, 2014, [128 Stat. 3355][/us/stat/128/3355].)
 
  __Prior Provisions__ 
 
@@ -49,6 +57,10 @@ Provisions similar to those in subsec. (b) of this section were contained in the
 
     [Pub. L. 93–437, title VIII, § 848][/us/pl/93/437/s848], Oct. 8, 1974, [88 Stat. 1232][/us/stat/88/1232].
 
+ __Amendments__ 
+
+    2014—Subsec. (c). [Pub. L. 113–291][/us/pl/113/291] added subsec. (c).
+
  __Effective Date__ 
 
     Section effective Oct. 1, 1985, see [section 1404 of Pub. L. 98–525][/us/pl/98/525/s1404], set out as a note under [section 520b of this title][/us/usc/t10/s520b].
@@ -66,6 +78,8 @@ Provisions similar to those in subsec. (b) of this section were contained in the
 
 [/us/pl/98/525/s1401/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs1401%2Fc%2F1
 [/us/stat/98/2615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2615
+[/us/pl/113/291/s504/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs504%2Fa
+[/us/stat/128/3355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3355
 [/us/pl/94/106/s820/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F106%2Fs820%2Fa
 [/us/stat/89/544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F544
 [/us/pl/98/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525
@@ -91,6 +105,7 @@ Provisions similar to those in subsec. (b) of this section were contained in the
 [/us/stat/90/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F175
 [/us/pl/93/437/s848]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F437%2Fs848
 [/us/stat/88/1232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1232
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/pl/98/525/s1404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs1404
 [/us/usc/t10/s520b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs520b
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542

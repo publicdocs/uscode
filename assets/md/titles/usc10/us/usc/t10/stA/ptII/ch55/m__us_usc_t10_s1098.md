@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stA/ptII/ch55/m__us_usc_t10_s1097c.md) | [Next](./../../../../../..//us/usc/t10/stA/ptII/ch55/m__us_usc_t10_s1099.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1098)
+[Previous](./../../../../../..//us/usc/t10/stA/ptII/ch55/m__us_usc_t10_s1097d.md) | [Next](./../../../../../..//us/usc/t10/stA/ptII/ch55/m__us_usc_t10_s1099.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1098)
 
 ## § 1098. Incentives for participation in cost-effective health care plans
 
@@ -55,7 +55,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stA/ptII/ch55/m__us_usc_t10_s1097c.md) | [Next](./../../../../../..//us/usc/t10/stA/ptII/ch55/m__us_usc_t10_s1099.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1098)
+[Previous](./../../../../../..//us/usc/t10/stA/ptII/ch55/m__us_usc_t10_s1097d.md) | [Next](./../../../../../..//us/usc/t10/stA/ptII/ch55/m__us_usc_t10_s1099.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1098)
 
 ----------
 ----------

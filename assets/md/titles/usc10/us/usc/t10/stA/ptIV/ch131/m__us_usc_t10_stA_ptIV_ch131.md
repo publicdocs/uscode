@@ -177,6 +177,14 @@
 
   <tr>
 
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2218a" data-uslm-ref="/us/usc/t10/s2218a">2218a.</a>  </td>
+
+    <td> National Sea-Based Deterrence Fund.  </td>
+
+  </tr>
+
+  <tr>
+
     <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2219" data-uslm-ref="/us/usc/t10/s2219">2219.</a>  </td>
 
     <td> Renumbered.]  </td>
@@ -291,6 +299,8 @@
 
  __Amendments__ 
 
+    2014—[Pub. L. 113–291, div. A, title X, § 1022(a)(2)][/us/pl/113/291/s1022/a/2], Dec. 19, 2014, [128 Stat. 3487][/us/stat/128/3487], added item 2218a.
+
     2011—[Pub. L. 112–81, div. A, title VIII, § 846(a)(2)][/us/pl/112/81/s846/a/2], Dec. 31, 2011, [125 Stat. 1517][/us/stat/125/1517], added item 2216a.
 
     [Pub. L. 111–383, div. A, title VIII, § 805(a)(2)][/us/pl/111/383/s805/a/2], Jan. 7, 2011, [124 Stat. 4259][/us/stat/124/4259], added item 2223a.
@@ -382,6 +392,8 @@
 ----------
 ----------
 
+[/us/pl/113/291/s1022/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1022%2Fa%2F2
+[/us/stat/128/3487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3487
 [/us/pl/112/81/s846/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs846%2Fa%2F2
 [/us/stat/125/1517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1517
 [/us/pl/111/383/s805/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs805%2Fa%2F2

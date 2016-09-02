@@ -17,7 +17,7 @@
 
     (a)  __Authority__  __.—__ 
 
-    The Secretary of Defense, subject to the provisions of this subchapter, may authorize the conduct of those commercial activities necessary to provide security for authorized intelligence collection activities abroad undertaken by the Department of Defense. No commercial activity may be initiated pursuant to this subchapter after December 31, 2015.
+    The Secretary of Defense, subject to the provisions of this subchapter, may authorize the conduct of those commercial activities necessary to provide security for authorized intelligence collection activities abroad undertaken by the Department of Defense. No commercial activity may be initiated pursuant to this subchapter after December 31, 2017.
 
     (b)  __Interagency Coordination and Support__  __.—__ 
 
@@ -47,9 +47,11 @@
 
         (2) The term “intelligence collection activities” means the collection of foreign intelligence and counterintelligence information.
 
-(Added [Pub. L. 102–88, title V, § 504(a)(2)][/us/pl/102/88/s504/a/2], Aug. 14, 1991, [105 Stat. 437][/us/stat/105/437]; amended [Pub. L. 104–93, title V, § 503][/us/pl/104/93/s503], Jan. 6, 1996, [109 Stat. 973][/us/stat/109/973]; [Pub. L. 105–272, title V, § 501][/us/pl/105/272/s501], Oct. 20, 1998, [112 Stat. 2404][/us/stat/112/2404]; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title X, § 1077\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–282; [Pub. L. 107–314, div. A, title X, § 1053][/us/pl/107/314/s1053], Dec. 2, 2002, [116 Stat. 2649][/us/stat/116/2649]; [Pub. L. 108–375, div. A, title IX, § 921][/us/pl/108/375/s921], Oct. 28, 2004, [118 Stat. 2029][/us/stat/118/2029]; [Pub. L. 109–364, div. A, title IX, § 931][/us/pl/109/364/s931], Oct. 17, 2006, [120 Stat. 2362][/us/stat/120/2362]; [Pub. L. 110–181, div. A, title IX, § 931(b)(1)][/us/pl/110/181/s931/b/1], Jan. 28, 2008, [122 Stat. 285][/us/stat/122/285]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title IX, § 932(a)(7), Oct. 14, 2008, [122 Stat. 4576][/us/stat/122/4576]; [Pub. L. 111–84, div. A, title X, § 1073(c)(10)][/us/pl/111/84/s1073/c/10], Oct. 28, 2009, [123 Stat. 2475][/us/stat/123/2475]; [Pub. L. 111–383, div. A, title IX, § 921][/us/pl/111/383/s921], Jan. 7, 2011, [124 Stat. 4330][/us/stat/124/4330].)
+(Added [Pub. L. 102–88, title V, § 504(a)(2)][/us/pl/102/88/s504/a/2], Aug. 14, 1991, [105 Stat. 437][/us/stat/105/437]; amended [Pub. L. 104–93, title V, § 503][/us/pl/104/93/s503], Jan. 6, 1996, [109 Stat. 973][/us/stat/109/973]; [Pub. L. 105–272, title V, § 501][/us/pl/105/272/s501], Oct. 20, 1998, [112 Stat. 2404][/us/stat/112/2404]; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title X, § 1077\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–282; [Pub. L. 107–314, div. A, title X, § 1053][/us/pl/107/314/s1053], Dec. 2, 2002, [116 Stat. 2649][/us/stat/116/2649]; [Pub. L. 108–375, div. A, title IX, § 921][/us/pl/108/375/s921], Oct. 28, 2004, [118 Stat. 2029][/us/stat/118/2029]; [Pub. L. 109–364, div. A, title IX, § 931][/us/pl/109/364/s931], Oct. 17, 2006, [120 Stat. 2362][/us/stat/120/2362]; [Pub. L. 110–181, div. A, title IX, § 931(b)(1)][/us/pl/110/181/s931/b/1], Jan. 28, 2008, [122 Stat. 285][/us/stat/122/285]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title IX, § 932(a)(7), Oct. 14, 2008, [122 Stat. 4576][/us/stat/122/4576]; [Pub. L. 111–84, div. A, title X, § 1073(c)(10)][/us/pl/111/84/s1073/c/10], Oct. 28, 2009, [123 Stat. 2475][/us/stat/123/2475]; [Pub. L. 111–383, div. A, title IX, § 921][/us/pl/111/383/s921], Jan. 7, 2011, [124 Stat. 4330][/us/stat/124/4330]; [Pub. L. 113–291, div. A, title XVI, § 1623][/us/pl/113/291/s1623], Dec. 19, 2014, [128 Stat. 3632][/us/stat/128/3632].)
 
  __Amendments__ 
+
+    2014—Subsec. (a). [Pub. L. 113–291][/us/pl/113/291] substituted “December 31, 2017” for “December 31, 2015”.
 
     2011—Subsec. (a). [Pub. L. 111–383][/us/pl/111/383] substituted “December 31, 2015” for “December 31, 2010”.
 
@@ -114,6 +116,9 @@
 [/us/stat/123/2475]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2475
 [/us/pl/111/383/s921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs921
 [/us/stat/124/4330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4330
+[/us/pl/113/291/s1623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1623
+[/us/stat/128/3632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3632
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
 [/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
 [/us/pl/110/417/s932/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs932%2Fa%2F7

@@ -225,7 +225,7 @@ Feb. 19, 1948, ch. 65, § 4(c); added Oct. 31, 1951, ch. 652 (as applicable to
 
  __Additional Access to Contractor and Subcontractor Records in the United States Central Command Theater of Operations__ 
 
-[Pub. L. 112–81, div. A, title VIII, § 842][/us/pl/112/81/s842], Dec. 31, 2011, [125 Stat. 1513][/us/stat/125/1513], provided that:
+[Pub. L. 112–81, div. A, title VIII, § 842][/us/pl/112/81/s842], Dec. 31, 2011, [125 Stat. 1513][/us/stat/125/1513], as amended by [Pub. L. 113–291, div. A, title VIII, § 842(c)(2)][/us/pl/113/291/s842/c/2], Dec. 19, 2014, [128 Stat. 3456][/us/stat/128/3456], provided that:
 
 >     “(a) __Department of Defense Contracts, Grants, and Cooperative Agreements.—__ 
 
@@ -269,7 +269,7 @@ Feb. 19, 1948, ch. 65, § 4(c); added Oct. 31, 1951, ch. 652 (as applicable to
 
 >         “(1)  __In general__  __.—__ 
 
->         The clause described by subsection (a)(2) shall not be required in any contract, grant, or cooperative agreement that is awarded after the date that is three years after the date of the enactment of this Act \[Dec. 31, 2011\].
+>         The clause described by subsection (a)(2) shall not be required in any contract, grant, or cooperative agreement that is awarded after the date that is three years after the date of the enactment of the Carl Levin and Howard P. ‘Buck’ McKeon National Defense Authorization Act for Fiscal Year 2015 \[Dec. 19, 2014\].
 
 >         “(2)  __Continuing effect of clauses included before sunset__  __.—__ 
 
@@ -336,6 +336,8 @@ Feb. 19, 1948, ch. 65, § 4(c); added Oct. 31, 1951, ch. 652 (as applicable to
 [/us/stat/126/1844]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1844
 [/us/pl/112/81/s842]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs842
 [/us/stat/125/1513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1513
+[/us/pl/113/291/s842/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs842%2Fc%2F2
+[/us/stat/128/3456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3456
 [/us/usc/t10/s101/a/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101%2Fa%2F13
 [/us/usc/t22/s2393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2393
 [/us/pl/89/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F607

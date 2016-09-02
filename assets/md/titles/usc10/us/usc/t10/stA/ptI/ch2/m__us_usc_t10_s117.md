@@ -19,7 +19,7 @@
 
     The Secretary of Defense shall establish a comprehensive readiness reporting system for the Department of Defense. The readiness reporting system shall measure in an objective, accurate, and timely manner the capability of the armed forces to carry out—
 
-        (1) the National Security Strategy prescribed by the President in the most recent annual national security strategy report under section 108 of the National Security Act of 1947 ([50 U.S.C. 404a][/us/usc/t50/s404a]);  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup> 
+        (1) the National Security Strategy prescribed by the President in the most recent annual national security strategy report under section 108 of the National Security Act of 1947 ([50 U.S.C. 3043][/us/usc/t50/s3043]);
 
         (2) the defense planning guidance provided by the Secretary of Defense pursuant to [section 113(g) of this title][/us/usc/t10/s113/g]; and
 
@@ -75,17 +75,15 @@
 
     The Secretary shall prescribe regulations to carry out this section. In those regulations, the Secretary shall prescribe the units that are subject to reporting in the readiness reporting system, what type of equipment is subject to such reporting, and the elements of the training establishment and of defense infrastructure that are subject to such reporting.
 
-(Added [Pub. L. 105–261, div. A, title III, § 373(a)(1)][/us/pl/105/261/s373/a/1], Oct. 17, 1998, [112 Stat. 1990][/us/stat/112/1990]; amended [Pub. L. 106–65, div. A, title III, § 361(d)(1)][/us/pl/106/65/s361/d/1], title X, § 1067(1), Oct. 5, 1999, [113 Stat. 575][/us/stat/113/575], 774; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title III, § 371\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–80; [Pub. L. 108–136, div. A, title X, § 1031(a)(1)][/us/pl/108/136/s1031/a/1], Nov. 24, 2003, [117 Stat. 1595][/us/stat/117/1595]; [Pub. L. 112–239, div. A, title VIII, § 845(a)][/us/pl/112/239/s845/a], Jan. 2, 2013, [126 Stat. 1848][/us/stat/126/1848].)
-
- __References in Text__ 
-
-    The National Security Act of 1947, referred to in subsec. (a)(1), is [act July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], [61 Stat. 495][/us/stat/61/495], which was formerly classified principally to chapter 15 (§ 401 et seq.) of Title 50, War and National Defense, prior to editorial reclassification in chapter 44 (§ 3001 et seq.) of Title 50. Section 108 of the Act is now classified to [section 3043 of Title 50][/us/usc/t50/s3043]. For complete classification of this Act to the Code, see Tables.
+(Added [Pub. L. 105–261, div. A, title III, § 373(a)(1)][/us/pl/105/261/s373/a/1], Oct. 17, 1998, [112 Stat. 1990][/us/stat/112/1990]; amended [Pub. L. 106–65, div. A, title III, § 361(d)(1)][/us/pl/106/65/s361/d/1], title X, § 1067(1), Oct. 5, 1999, [113 Stat. 575][/us/stat/113/575], 774; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title III, § 371\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–80; [Pub. L. 108–136, div. A, title X, § 1031(a)(1)][/us/pl/108/136/s1031/a/1], Nov. 24, 2003, [117 Stat. 1595][/us/stat/117/1595]; [Pub. L. 112–239, div. A, title VIII, § 845(a)][/us/pl/112/239/s845/a], Jan. 2, 2013, [126 Stat. 1848][/us/stat/126/1848]; [Pub. L. 113–291, div. A, title X, § 1071(c)(2)][/us/pl/113/291/s1071/c/2], Dec. 19, 2014, [128 Stat. 3508][/us/stat/128/3508].)
 
  __Prior Provisions__ 
 
     A prior section 117, added [Pub. L. 97–295, § 1(2)(A)][/us/pl/97/295/s1/2/A], Oct. 12, 1982, [96 Stat. 1287][/us/stat/96/1287], § 133a; renumbered § 117 and amended [Pub. L. 99–433, title I][/us/pl/99/433], §§ 101(a)(2), 110(d)(3), Oct. 1, 1986, [100 Stat. 994][/us/stat/100/994], 1002, required annual report on North Atlantic Treaty Organization readiness, prior to repeal by [Pub. L. 101–510, div. A, title XIII, § 1301(1)][/us/pl/101/510/s1301/1], Nov. 5, 1990, [104 Stat. 1668][/us/stat/104/1668].
 
  __Amendments__ 
+
+    2014—Subsec. (a)(1). [Pub. L. 113–291][/us/pl/113/291] substituted “([50 U.S.C. 3043][/us/usc/t50/s3043])” for “([50 U.S.C. 404a][/us/usc/t50/s404a])”.
 
     2013—Subsec. (c)(8). [Pub. L. 112–239][/us/pl/112/239] added par. (8).
 
@@ -122,7 +120,7 @@
 ----------
 ----------
 
-[/us/usc/t50/s404a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs404a
+[/us/usc/t50/s3043]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3043
 [/us/usc/t10/s113/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs113%2Fg
 [/us/pl/105/261/s373/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs373%2Fa%2F1
 [/us/stat/112/1990]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1990
@@ -134,15 +132,17 @@
 [/us/stat/117/1595]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1595
 [/us/pl/112/239/s845/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs845%2Fa
 [/us/stat/126/1848]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1848
-[/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
-[/us/stat/61/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F495
-[/us/usc/t50/s3043]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3043
+[/us/pl/113/291/s1071/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Fc%2F2
+[/us/stat/128/3508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3508
 [/us/pl/97/295/s1/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295%2Fs1%2F2%2FA
 [/us/stat/96/1287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1287
 [/us/pl/99/433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433
 [/us/stat/100/994]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F994
 [/us/pl/101/510/s1301/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1301%2F1
 [/us/stat/104/1668]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1668
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/usc/t50/s3043]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3043
+[/us/usc/t50/s404a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs404a
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
 [/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398

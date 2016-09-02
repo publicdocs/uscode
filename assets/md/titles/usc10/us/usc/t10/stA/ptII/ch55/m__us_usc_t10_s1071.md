@@ -103,6 +103,80 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 
 > “That this Act \[enacting sections 1086 and 1087 of this title, amending this section and sections 1072 to 1074, 1076 to 1079, 1082, and 1084 of this title, and enacting provisions set out as a note under this section\] may be cited as the ‘Military Medical Benefits Amendments of 1966’.”
 
+ __Provision of Information to Members of the Armed Forces on Privacy Rights Relating to Receipt of Mental Health Services__ 
+
+[Pub. L. 113–291, div. A, title V, § 523][/us/pl/113/291/s523], Dec. 19, 2014, [128 Stat. 3361][/us/stat/128/3361], provided that:
+
+>     “(a)  __Provision of Information Required__  __.—__ 
+
+>     The Secretaries of the military departments shall ensure that the information described in subsection (b) is provided—
+
+>         “(1) to each officer candidate during initial training;
+
+>         “(2) to each recruit during basic training; and
+
+>         “(3) to other members of the Armed Forces at such times as the Secretary of Defense considers appropriate.
+
+>     “(b)  __Required Information__  __.—__ 
+
+>     The information required to be provided under subsection (a) shall include information on the applicability of the Department of Defense Instruction on Privacy of Individually Identifiable Health Information in DoD Health Care Programs and other regulations regarding privacy prescribed pursuant to the Health Insurance Portability and Accountability Act of 1996 ([Public Law 104–191][/us/pl/104/191]) to records regarding a member of the Armed Forces seeking and receiving mental health services.”
+
+ __Improved Consistency in Data Collection and Reporting in Armed Forces Suicide Prevention Efforts__ 
+
+[Pub. L. 113–291, div. A, title V, § 567][/us/pl/113/291/s567], Dec. 19, 2014, [128 Stat. 3385][/us/stat/128/3385], provided that:
+
+>     “(a) __Policy for Standard Suicide Data Collection, Reporting, and Assessment.—__ 
+
+>         “(1)  __Policy required__  __.—__ 
+
+>         The Secretary of Defense shall prescribe a policy for the development of a standard method for collecting, reporting, and assessing information regarding—
+
+>             “(A) any suicide or attempted suicide involving a member of the Armed Forces, including reserve components thereof; and
+
+>             “(B) any death that is reported as a suicide involving a dependent of a member of the Armed Forces.
+
+>         “(2)  __Purpose of policy__  __.—__ 
+
+>         The purpose of the policy required by this subsection is to improve the consistency and comprehensiveness of—
+
+>             “(A) the suicide prevention policy developed pursuant to section 582 of the National Defense Authorization Act for Fiscal Year 2013 ([Public Law 112–239][/us/pl/112/239]; [10 U.S.C. 1071][/us/usc/t10/s1071] note); and
+
+>             “(B) the suicide prevention and resilience program for the National Guard and Reserves established pursuant to [section 10219 of title 10][/us/usc/t10/s10219], United States Code.
+
+>         “(3)  __Consultation__  __.—__ 
+
+>         The Secretary of Defense shall develop the policy required by this subsection in consultation with the Secretaries of the military departments and the Chief of the National Guard Bureau.
+
+>     “(b) __Submission and Implementation of Policy.—__ 
+
+>         “(1)  __Submission__  __.—__ 
+
+>         Not later than 180 days after the date of the enactment of this Act \[Dec. 19, 2014\], the Secretary of Defense shall submit the policy developed under subsection (a) to the Committees on Armed Services of the Senate and the House of Representatives.
+
+>         “(2)  __Implementation__  __.—__ 
+
+>         The Secretaries of the military departments shall implement the policy developed under subsection (a) not later than 180 days after the date of the submittal of the policy under paragraph (1).
+
+>     “(c)  __Dependent Defined__  __.—__ 
+
+>     In this section, the term ‘dependent’, with respect to a member of the Armed Forces, means a person described in [section 1072(2) of title 10][/us/usc/t10/s1072/2], United States Code, except that, in the case of a parent or parent-in-law of the member, the income requirements of subparagraph (E) of such section do not apply.”
+
+ __Antimicrobial Stewardship Program at Medical Facilities of the Department of Defense__ 
+
+[Pub. L. 113–291, div. A, title VII, § 727][/us/pl/113/291/s727], Dec. 19, 2014, [128 Stat. 3420][/us/stat/128/3420], provided that:
+
+>     “(a)  __In General__  __.—__ 
+
+>     Not later than one year after the date of the enactment of this Act \[Dec. 19, 2014\], the Secretary of Defense shall carry out an antimicrobial stewardship program at medical facilities of the Department of Defense.
+
+>     “(b)  __Collection and Analysis of Data__  __.—__ 
+
+>     In carrying out the antimicrobial stewardship program required by subsection (a), the Secretary shall develop a consistent manner in which to collect and analyze data on antibiotic usage, health issues related to antibiotic usage, and antimicrobial resistance trends at medical facilities of the Department.
+
+>     “(c)  __Plan__  __.—__ 
+
+>     Not later than 180 days after the date of the enactment of this Act, the Secretary shall submit to the Committees on Armed Services of the House of Representatives and the Senate a plan for carrying out the antimicrobial stewardship program required by subsection (a).”
+
  __Comprehensive Policy on Improvements to Care and Transition of Members of the Armed Forces With Urotrauma__ 
 
 [Pub. L. 113–66, div. A, title VII, § 703][/us/pl/113/66/s703], Dec. 26, 2013, [127 Stat. 791][/us/stat/127/791], provided that:
@@ -1085,7 +1159,7 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 
  __Wounded Warrior Health Care Improvements__ 
 
-[Pub. L. 110–181, div. A, title XVI][/us/pl/110/181], §§ 1602, 1603, 1611–1614, 1616, 1618, 1621–1623, 1631, 1635, 1644, 1648, 1651, 1662, 1671, 1672, 1676, Jan. 28, 2008, [122 Stat. 431–443][/us/stat/122/431-443], 447, 450–455, 458, 460, 467, 473, 476, 479, 481, 484, as amended by [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title II, § 252, title VII, §§ 722, 724, title X, § 1061(b)(13), Oct. 14, 2008, [122 Stat. 4400][/us/stat/122/4400], 4508, 4509, 4613; [Pub. L. 111–84, div. A, title VI, § 632(h)][/us/pl/111/84/s632/h], Oct. 28, 2009, [123 Stat. 2362][/us/stat/123/2362]; [Pub. L. 112–56, title II, § 231][/us/pl/112/56/s231], Nov. 21, 2011, [125 Stat. 719][/us/stat/125/719]; [Pub. L. 112–81, div. A, title VI, § 631(f)(4)(B)][/us/pl/112/81/s631/f/4/B], title VII, § 707, Dec. 31, 2011, [125 Stat. 1465][/us/stat/125/1465], 1474; [Pub. L. 112–239, div. A, title X, § 1076(a)(9)][/us/pl/112/239/s1076/a/9], Jan. 2, 2013, [126 Stat. 1948][/us/stat/126/1948]; [Pub. L. 113–175, title I, § 105][/us/pl/113/175/s105], Sept. 26, 2014, [128 Stat. 1903][/us/stat/128/1903], provided that:
+[Pub. L. 110–181, div. A, title XVI][/us/pl/110/181], §§ 1602, 1603, 1611–1614, 1616, 1618, 1621–1623, 1631, 1635, 1644, 1648, 1651, 1662, 1671, 1672, 1676, Jan. 28, 2008, [122 Stat. 431–443][/us/stat/122/431-443], 447, 450–455, 458, 460, 467, 473, 476, 479, 481, 484, as amended by [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title II, § 252, title VII, §§ 722, 724, title X, § 1061(b)(13), Oct. 14, 2008, [122 Stat. 4400][/us/stat/122/4400], 4508, 4509, 4613; [Pub. L. 111–84, div. A, title VI, § 632(h)][/us/pl/111/84/s632/h], Oct. 28, 2009, [123 Stat. 2362][/us/stat/123/2362]; [Pub. L. 112–56, title II, § 231][/us/pl/112/56/s231], Nov. 21, 2011, [125 Stat. 719][/us/stat/125/719]; [Pub. L. 112–81, div. A, title VI, § 631(f)(4)(B)][/us/pl/112/81/s631/f/4/B], title VII, § 707, Dec. 31, 2011, [125 Stat. 1465][/us/stat/125/1465], 1474; [Pub. L. 112–239, div. A, title X, § 1076(a)(9)][/us/pl/112/239/s1076/a/9], Jan. 2, 2013, [126 Stat. 1948][/us/stat/126/1948]; [Pub. L. 113–175, title I, § 105][/us/pl/113/175/s105], Sept. 26, 2014, [128 Stat. 1903][/us/stat/128/1903]; [Pub. L. 113–291, div. A, title V, § 591][/us/pl/113/291/s591], title VII, § 724, Dec. 19, 2014, [128 Stat. 3394][/us/stat/128/3394], 3418, provided that:
 
 > “SEC. 1602. __GENERAL DEFINITIONS.__ 
 
@@ -1985,7 +2059,7 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 
 >         “(2)  __Sunset__  __.—__ 
 
->         The Secretary of Veterans Affairs may not provide benefits to a member of the Armed Forces under this subsection after December 31, 2014, if the Secretary has not provided benefits to the member under this subsection before that date.
+>         The Secretary of Veterans Affairs may not provide benefits to a member of the Armed Forces under this subsection after December 31, 2015, if the Secretary has not provided benefits to the member under this subsection before that date.
 
 >     “(c) __Rehabilitative Equipment for Members of the Armed Forces.—__ 
 
@@ -2337,7 +2411,7 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 
 >     “(a)  __Required Inspections of Facilities__  __.—__ 
 
->     All quarters of the United States and housing facilities under the jurisdiction of the Armed Forces that are occupied by recovering service members shall be inspected on a semiannual basis for the first two years after the enactment of this Act \[Jan. 28, 2008\] and annually thereafter by the inspectors general of the regional medical commands.
+>     All quarters of the United States and housing facilities under the jurisdiction of the Armed Forces that are occupied by recovering service members shall be inspected at least once every two years by the inspectors general of the regional medical commands.
 
 >     “(b)  __Inspector General Reports__  __.—__ 
 
@@ -3073,6 +3147,17 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 [/us/usc/t50/s460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs460
 [/us/pl/89/614/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F614%2Fs1
 [/us/stat/80/862]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F862
+[/us/pl/113/291/s523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs523
+[/us/stat/128/3361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3361
+[/us/pl/104/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191
+[/us/pl/113/291/s567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs567
+[/us/stat/128/3385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3385
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/usc/t10/s1071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1071
+[/us/usc/t10/s10219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs10219
+[/us/usc/t10/s1072/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1072%2F2
+[/us/pl/113/291/s727]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs727
+[/us/stat/128/3420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3420
 [/us/pl/113/66/s703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs703
 [/us/stat/127/791]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F791
 [/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
@@ -3137,6 +3222,8 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 [/us/stat/126/1948]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1948
 [/us/pl/113/175/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F175%2Fs105
 [/us/stat/128/1903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1903
+[/us/pl/113/291/s591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs591
+[/us/stat/128/3394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3394
 [/us/usc/t37/s481h/b/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs481h%2Fb%2F3%2FB
 [/us/usc/t10/s1072/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1072%2F7
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417

@@ -23,15 +23,31 @@
 
     (d)
 
-        (1) The Secretary concerned shall prescribe regulations for the administration of this section. Such regulations shall require that when the Secretary concerned submits a list of regular warrant officers to a selection board convened under [section 573(c) of this title][/us/usc/t10/s573/c] to consider regular warrant officers for selection for retirement under this section, the list shall include each warrant officer on the active-duty list in the same grade or same grade and competitive category whose position on the active-duty list is between that of the most junior regular warrant officer in that grade whose name is submitted to the board and that of the most senior regular warrant officer in that grade whose name is submitted to the board.
+        (1) The Secretary concerned shall prescribe regulations for the administration of this section.
 
-        (2) Such regulations shall establish procedures to exclude from consideration by the board any warrant officer who has been approved for voluntary retirement, or who is to be mandatorily retired under any other provision of law, during the fiscal year in which the board is convened or during the following fiscal year. An officer not considered by a selection board convened under [section 573(c) of this title][/us/usc/t10/s573/c] under such regulations because the officer has been approved for voluntary retirement shall be retired on the date approved for the retirement of such officer as of the convening date of such selection board unless the Secretary concerned approves a modification of such date in order to prevent a personal hardship for the officer or for other humanitarian reasons.
+        (2)
 
-    (e) The Secretary concerned may defer for not more than 90 days the retirement of an officer otherwise approved for early retirement under this section in order to prevent a personal hardship to the officer or for other humanitarian reasons. Any such deferral shall be made on a case-by-case basis considering the circumstances of the case of the particular officer concerned. The authority of the Secretary to grant such a deferral may not be delegated.
+         Such regulations shall require that when the Secretary concerned submits a list of regular warrant officers to a selection board convened under [section 573(c) of this title][/us/usc/t10/s573/c] to consider regular warrant officers for selection for retirement under this section, the list shall include—
 
-(Added [Pub. L. 102–190, div. A, title XI, § 1112(a)][/us/pl/102/190/s1112/a], Dec. 5, 1991, [105 Stat. 1500][/us/stat/105/1500]; amended [Pub. L. 102–484, div. A, title X, § 1052(5)][/us/pl/102/484/s1052/5], Oct. 23, 1992, [106 Stat. 2499][/us/stat/106/2499]; [Pub. L. 103–337, div. A, title V, § 541(b)(6)][/us/pl/103/337/s541/b/6], Oct. 5, 1994, [108 Stat. 2765][/us/stat/108/2765]; [Pub. L. 104–106, div. A, title V, § 504(a)][/us/pl/104/106/s504/a], Feb. 10, 1996, [110 Stat. 295][/us/stat/110/295].)
+            (A) the name of each warrant officer on the active-duty list in the same grade or same grade and competitive category whose position on the active-duty list is between that of the most junior regular warrant officer in that grade whose name is submitted to the board and that of the most senior regular warrant officer in that grade whose name is submitted to the board; or
+
+            (B) with respect to a group of warrant officers designated under subparagraph (A) who are in a particular grade and competitive category, only those warrant officers in that grade and competitive category who are also in a particular year group or specialty, or any combination thereof determined by the Secretary concerned.
+
+        (3) Such regulations shall establish procedures to exclude from consideration by the board any warrant officer who has been approved for voluntary retirement, or who is to be mandatorily retired under any other provision of law, during the fiscal year in which the board is convened or during the following fiscal year. An officer not considered by a selection board convened under [section 573(c) of this title][/us/usc/t10/s573/c] under such regulations because the officer has been approved for voluntary retirement shall be retired on the date approved for the retirement of such officer as of the convening date of such selection board unless the Secretary concerned approves a modification of such date in order to prevent a personal hardship for the officer or for other humanitarian reasons.
+
+    (e)
+
+        (1) The Secretary concerned may defer for not more than three months the retirement of an officer otherwise approved for early retirement under this section in order to prevent a personal hardship to the officer or for other humanitarian reasons. Any such deferral shall be made on a case-by-case basis considering the circumstances of the case of the particular officer concerned. The authority of the Secretary to grant such a deferral may not be delegated.
+
+        (2) An officer recommended for early retirement under this section, if approved for deferral under paragraph (1), shall be retired on the date requested by the officer, and approved by the Secretary concerned, which date shall be not later than the first day of the tenth calendar month beginning after the month in which the Secretary concerned approves the report of the board which recommended the officer for early retirement.
+
+(Added [Pub. L. 102–190, div. A, title XI, § 1112(a)][/us/pl/102/190/s1112/a], Dec. 5, 1991, [105 Stat. 1500][/us/stat/105/1500]; amended [Pub. L. 102–484, div. A, title X, § 1052(5)][/us/pl/102/484/s1052/5], Oct. 23, 1992, [106 Stat. 2499][/us/stat/106/2499]; [Pub. L. 103–337, div. A, title V, § 541(b)(6)][/us/pl/103/337/s541/b/6], Oct. 5, 1994, [108 Stat. 2765][/us/stat/108/2765]; [Pub. L. 104–106, div. A, title V, § 504(a)][/us/pl/104/106/s504/a], Feb. 10, 1996, [110 Stat. 295][/us/stat/110/295]; [Pub. L. 113–291, div. A, title V][/us/pl/113/291], §§ 501, 502(a), Dec. 19, 2014, [128 Stat. 3353][/us/stat/128/3353].)
 
  __Amendments__ 
+
+    2014—Subsec. (d). [Pub. L. 113–291, § 501][/us/pl/113/291/s501], redesignated second sentence of par. (1) as (2) and former par. (2) as (3), and in par. (2), substituted “the list shall include—” for “the list shall include each”, inserted “(A) the name of each” before “warrant officer on the active-duty list”, substituted semicolon for period at end, and added subpar. (B).
+
+    Subsec. (e). [Pub. L. 113–291, § 502(a)][/us/pl/113/291/s502/a], designated existing provisions as par. (1), substituted “three months” for “90 days”, and added par. (2).
 
     1996—Subsec. (e). [Pub. L. 104–106][/us/pl/104/106] added subsec. (e).
 
@@ -61,6 +77,10 @@
 [/us/stat/108/2765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2765
 [/us/pl/104/106/s504/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs504%2Fa
 [/us/stat/110/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F295
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/stat/128/3353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3353
+[/us/pl/113/291/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs501
+[/us/pl/113/291/s502/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs502%2Fa
 [/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
 [/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484

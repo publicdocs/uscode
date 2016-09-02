@@ -85,7 +85,7 @@
 
  __Future Availability of TRICARE Prime Throughout the United States__ 
 
-[Pub. L. 112–239, div. A, title VII, § 732][/us/pl/112/239/s732], Jan. 2, 2013, [126 Stat. 1816][/us/stat/126/1816], as amended by [Pub. L. 113–66, div. A, title VII, § 701][/us/pl/113/66/s701], Dec. 26, 2013, [127 Stat. 789][/us/stat/127/789], provided that:
+[Pub. L. 112–239, div. A, title VII, § 732][/us/pl/112/239/s732], Jan. 2, 2013, [126 Stat. 1816][/us/stat/126/1816], as amended by [Pub. L. 113–66, div. A, title VII, § 701][/us/pl/113/66/s701], Dec. 26, 2013, [127 Stat. 789][/us/stat/127/789]; [Pub. L. 113–291, div. A, title VII, § 723][/us/pl/113/291/s723], Dec. 19, 2014, [128 Stat. 3417][/us/stat/128/3417], provided that:
 
 >     “(a) __Report Required.—__ 
 
@@ -109,7 +109,37 @@
 
 >             “(F) Any other matter the Secretary considers appropriate.
 
->     “(b) __Access to TRICARE Prime.—__ 
+>     “(b) __Additional Report.—__ 
+
+>         “(1)  __Report required__  __.—__ 
+
+>         Not later than 180 days after the date of the enactment of the Carl Levin and Howard P. ‘Buck’ McKeon National Defense Authorization Act for Fiscal Year 2015 \[Dec. 19, 2014\], the Secretary shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on the status of reducing the availability of TRICARE Prime in regions described in subsection (d)(1)(B).
+
+>         “(2)  __Matters included__  __.—__ 
+
+>         The report under paragraph (1) shall include the following:
+
+>             “(A)
+
+>              A description of the implementation of the transition for affected eligible beneficiaries under the TRICARE program who no longer have access to TRICARE Prime under TRICARE managed care contracts as of the date of the report, including—
+
+>                 “(i) the number of eligible beneficiaries who have transitioned from TRICARE Prime to the TRICARE Standard option of the TRICARE program since October 1, 2013;
+
+>                 “(ii) the number of eligible beneficiaries who transferred their TRICARE Prime enrollment to a more distant available Prime service area to remain in TRICARE Prime, by State;
+
+>                 “(iii) the number of eligible beneficiaries who were eligible to transfer to a more distant available Prime service area, but chose to use TRICARE Standard;
+
+>                 “(iv) the number of eligible beneficiaries who elected to return to TRICARE Prime pursuant to subsection (c)(1); and
+
+>                 “(v) the number of affected eligible beneficiaries who, as of the date of the report, changed residences to remain eligible for TRICARE Prime in a new region.
+
+>             “(B) An estimate of the increased annual costs per affected eligible beneficiary incurred by such beneficiary for health care under the TRICARE program.
+
+>             “(C) A description of the efforts of the Department to assess the impact on access to health care and beneficiary satisfaction for affected eligible beneficiaries.
+
+>             “(D) A description of the estimated cost savings realized by reducing the availability of TRICARE Prime in regions described in subsection (d)(1)(B).
+
+>     “(c) __Access to TRICARE Prime.—__ 
 
 >         “(1)  __One-time election__  __.—__ 
 
@@ -123,7 +153,7 @@
 
 >         An affected eligible beneficiary may not make the one-time election under paragraph (1) if, at the time of such election, the beneficiary does not reside—
 
->             “(A) in a ZIP code that is in a region described in subsection (c)(1)(B); and
+>             “(A) in a ZIP code that is in a region described in subsection (d)(1)(B); and
 
 >             “(B) within 100 miles of a military medical treatment facility.
 
@@ -131,7 +161,7 @@
 
 >         In continuing enrollment in TRICARE Prime pursuant to paragraph (1), the Secretary may determine whether to maintain a TRICARE network of providers in an area that is between 40 and 100 miles of a military medical treatment facility.
 
->     “(c)  __Definitions__  __.—__ 
+>     “(d)  __Definitions__  __.—__ 
 
 >     In this section:
 
@@ -148,6 +178,8 @@
 >         “(3) The term ‘TRICARE program’ has the meaning given that term in [section 1072(7) of title 10][/us/usc/t10/s1072/7], United States Code.
 
 >         “(4) The term ‘TRICARE Standard’ means the fee-for-service option of the TRICARE Program.”
+
+    \[[Pub. L. 113–291, div. A, title VII, § 723(b)][/us/pl/113/291/s723/b], Dec. 19, 2014, [128 Stat. 3418][/us/stat/128/3418], which directed amendment of (b)(3)(A) of [section 723 of Pub. L. 112–239][/us/pl/112/239/s723], set out above, by substituting “subsection (d)(1)(B)” for “subsection (c)(1)(B)”, was executed by making the substitution in subsec. (c)(3)(A) of [Pub. L. 112–239][/us/pl/112/239], to reflect the probable intent of Congress and the prior amendment by [section 723(a)(1) of Pub. L. 113–291][/us/pl/113/291/s723/a/1].\]
 
 ----------
 
@@ -180,6 +212,13 @@
 [/us/stat/126/1816]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1816
 [/us/pl/113/66/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs701
 [/us/stat/127/789]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F789
+[/us/pl/113/291/s723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs723
+[/us/stat/128/3417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3417
 [/us/usc/t10/s1072/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1072%2F7
+[/us/pl/113/291/s723/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs723%2Fb
+[/us/stat/128/3418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3418
+[/us/pl/112/239/s723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs723
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/113/291/s723/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs723%2Fa%2F1
 
 

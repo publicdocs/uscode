@@ -35,7 +35,7 @@
 
              expires 180 days after the expiration of the period for bringing an action on that claim in the United States Court of Federal Claims under [section 7104(b) of title 41][/us/usc/t41/s7104/b] if, within that 180-day period—
 
-                (i) no appeal on the claim is commenced at the Armed Services Board of Contract Appeals under section 7 of such Act; and
+                (i) no appeal on the claim is commenced at the Armed Services Board of Contract Appeals under section 7104(a) of such title; and
 
                 (ii) no action on the claim is commenced in a court of the United States; or
 
@@ -45,19 +45,19 @@
 
                 (i) in the case of a settlement of the claim, 180 days after the date of the settlement; or
 
-                (ii) in the case of a judgment rendered on the claim in an appeal to the Armed Services Board of Contract Appeals under section 7  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of the Contract Disputes Act of 1978 or an action in a court of the United States, 180 days after the date on which the judgment becomes final and not appealable.
+                (ii) in the case of a judgment rendered on the claim in an appeal to the Armed Services Board of Contract Appeals under [section 7104(a) of title 41][/us/usc/t41/s7104/a] or an action in a court of the United States, 180 days after the date on which the judgment becomes final and not appealable.
 
         (2) While available under this section, an amount may be obligated or expended only for a purpose described in subsection (a).
 
         (3) Upon the expiration of the period of availability of an amount under paragraph (1), the amount shall be covered into the Treasury as miscellaneous receipts.
 
-(Added [Pub. L. 105–85, div. A, title VIII, § 831(a)][/us/pl/105/85/s831/a], Nov. 18, 1997, [111 Stat. 1841][/us/stat/111/1841]; amended [Pub. L. 108–136, div. A, title X, § 1031(a)(21)][/us/pl/108/136/s1031/a/21], Nov. 24, 2003, [117 Stat. 1598][/us/stat/117/1598]; [Pub. L. 111–350, § 5(b)(32)][/us/pl/111/350/s5/b/32], Jan. 4, 2011, [124 Stat. 3845][/us/stat/124/3845]; [Pub. L. 112–81, div. A, title X, § 1061(15)][/us/pl/112/81/s1061/15], Dec. 31, 2011, [125 Stat. 1583][/us/stat/125/1583].)
-
- __References in Text__ 
-
-    Section 7 of the Contract Disputes Act of 1978, referred to in subsec. (b)(1)(B)(ii), means [section 7 of Pub. L. 95–563][/us/pl/95/563/s7], which was classified to section 606 of former Title 41, Public Contracts, and was repealed and restated as [section 7104(a) of Title 41][/us/usc/t41/s7104/a], Public Contracts, by [Pub. L. 111–350][/us/pl/111/350], §§ 3, 7(b), Jan. 4, 2011, [124 Stat. 3677][/us/stat/124/3677], 3855. For disposition of sections of former Title 41, see Disposition Table preceding [section 101 of Title 41][/us/usc/t41/s101].
+(Added [Pub. L. 105–85, div. A, title VIII, § 831(a)][/us/pl/105/85/s831/a], Nov. 18, 1997, [111 Stat. 1841][/us/stat/111/1841]; amended [Pub. L. 108–136, div. A, title X, § 1031(a)(21)][/us/pl/108/136/s1031/a/21], Nov. 24, 2003, [117 Stat. 1598][/us/stat/117/1598]; [Pub. L. 111–350, § 5(b)(32)][/us/pl/111/350/s5/b/32], Jan. 4, 2011, [124 Stat. 3845][/us/stat/124/3845]; [Pub. L. 112–81, div. A, title X, § 1061(15)][/us/pl/112/81/s1061/15], Dec. 31, 2011, [125 Stat. 1583][/us/stat/125/1583]; [Pub. L. 113–291, div. A, title X, § 1071(a)(8)][/us/pl/113/291/s1071/a/8], Dec. 19, 2014, [128 Stat. 3504][/us/stat/128/3504].)
 
  __Amendments__ 
+
+    2014—Subsec. (b)(1)(A)(i). [Pub. L. 113–291, § 1071(a)(8)(A)][/us/pl/113/291/s1071/a/8/A], substituted “section 7104(a) of such title” for “section 7 of such Act”.
+
+    Subsec. (b)(1)(B)(ii). [Pub. L. 113–291, § 1071(a)(8)(B)][/us/pl/113/291/s1071/a/8/B], substituted “[section 7104(a) of title 41][/us/usc/t41/s7104/a]” for “section 7 of the Contract Disputes Act of 1978”.
 
     2011—Subsec. (a). [Pub. L. 111–350, § 5(b)(32)(A)][/us/pl/111/350/s5/b/32/A], substituted “chapter 71 of title 41” for “the Contract Disputes Act of 1978 ([41 U.S.C. 601][/us/usc/t41/s601] et seq.)” in introductory provisions.
 
@@ -86,6 +86,7 @@
 
 [/us/usc/t41/s7104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs7104%2Fa
 [/us/usc/t41/s7104/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs7104%2Fb
+[/us/usc/t41/s7104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs7104%2Fa
 [/us/pl/105/85/s831/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs831%2Fa
 [/us/stat/111/1841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1841
 [/us/pl/108/136/s1031/a/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1031%2Fa%2F21
@@ -94,11 +95,11 @@
 [/us/stat/124/3845]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3845
 [/us/pl/112/81/s1061/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1061%2F15
 [/us/stat/125/1583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1583
-[/us/pl/95/563/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F563%2Fs7
+[/us/pl/113/291/s1071/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Fa%2F8
+[/us/stat/128/3504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3504
+[/us/pl/113/291/s1071/a/8/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Fa%2F8%2FA
+[/us/pl/113/291/s1071/a/8/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Fa%2F8%2FB
 [/us/usc/t41/s7104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs7104%2Fa
-[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
-[/us/stat/124/3677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3677
-[/us/usc/t41/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs101
 [/us/pl/111/350/s5/b/32/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs5%2Fb%2F32%2FA
 [/us/usc/t41/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs601
 [/us/pl/111/350/s5/b/32/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs5%2Fb%2F32%2FB

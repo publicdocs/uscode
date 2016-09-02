@@ -137,9 +137,103 @@ July 26, 1947, ch. 343, § 203(b)(2), (3); added Aug. 6, 1958, Pub. L. 85–59
 
     For effective date and applicability of amendment by [Pub. L. 103–355][/us/pl/103/355], see [section 10001 of Pub. L. 103–355][/us/pl/103/355/s10001], set out as a note under [section 2302 of this title][/us/usc/t10/s2302].
 
+ __Pilot Program on Assignment to Defense Advanced Research Projects Agency of Private Sector Personnel With Critical Research and Development Expertise__ 
+
+[Pub. L. 113–291, div. A, title II, § 232][/us/pl/113/291/s232], Dec. 19, 2014, [128 Stat. 3332][/us/stat/128/3332], provided that:
+
+>     “(a)  __Pilot Program Authorized__  __.—__ 
+
+>     In accordance with the provisions of this section, the Director of the Defense Advanced Research Projects Agency may carry out a pilot program to assess the feasibility and advisability of temporarily assigning covered individuals with significant technical expertise in research and development areas of critical importance to defense missions to the Defense Advanced Research Projects Agency to lead research or development projects of the Agency.
+
+>     “(b) __Assignment of Covered Individuals.—__ 
+
+>         “(1)  __Number of individuals assigned__  __.—__ 
+
+>         Under the pilot program, the Director may assign covered individuals to the Agency as described in subsection (a), but may not have more than five covered individuals so assigned at any given time.
+
+>         “(2) __Period of assignment.—__ 
+
+>             “(A) Except as provided in subparagraph (B), the Director may, under the pilot program, assign a covered individual described in subsection (a) to lead research and development projects of the Agency for a period of not more than two years.
+
+>             “(B) The Director may extend the assignment of a covered individual for one additional period of not more than two years as the Director considers appropriate.
+
+>         “(3) __Application of certain provisions of law.—__ 
+
+>             “(A) Except as otherwise provided in this section, the Director shall carry out the pilot program in accordance with the provisions of subchapter VI of chapter 33 of title 5, United States Code, except that, for purposes of the pilot program, the term ‘other organization’, as used in such subchapter, shall be deemed to include a covered entity.
+
+>             “(B)
+
+>              A covered individual employed by a covered entity who is assigned to the Agency under the pilot program is deemed to be an employee of the Department of Defense for purposes of the following provisions of law:
+
+>                 “(i) Chapter 73 of title 5, United States Code.
+
+>                 “(ii) Sections 201, 203, 205, 207, 208, 209, 603, 606, 607, 643, 654, 1905, and 1913 of title 18, United States Code.
+
+>                 “(iii) Sections 1343, 1344, and 1349(b) of title 31, United States Code.
+
+>                 “(iv) Chapter 171 of title 28, United States Code (commonly known as the ‘Federal Tort Claims Act’), and any other Federal tort liability statute.
+
+>                 “(v) The Ethics in Government Act of 1978 (5 U.S.C. App.).
+
+>                 “(vi) Section 1043 of the Internal Revenue Code of 1986 \[[26 U.S.C. 1043][/us/usc/t26/s1043]\].
+
+>                 “(vii) Chapter 21 of title 41, United States Code.
+
+>         “(4)  __Pay and supervision__  __.—__ 
+
+>         A covered individual employed by a covered entity who is assigned to the Agency under the pilot program—
+
+>             “(A) may continue to receive pay and benefits from such covered entity with or without reimbursement by the Agency;
+
+>             “(B) is not entitled to pay from the Agency; and
+
+>             “(C) shall be subject to supervision by the Director in all duties performed for the Agency under the pilot program.
+
+>     “(c) __Conflicts of Interest.—__ 
+
+>         “(1)  __Practices and procedures required__  __.—__ 
+
+>         The Director shall develop practices and procedures to manage conflicts of interest and the appearance of conflicts of interest that could arise through assignments under the pilot program.
+
+>         “(2)  __Elements__  __.—__ 
+
+>         The practices and procedures required by paragraph (1) shall include, at a minimum, the requirement that each covered individual assigned to the Agency under the pilot program shall sign an agreement that provides for the following:
+
+>             “(A) The nondisclosure of any trade secrets or other nonpublic or proprietary information which is of commercial value to the covered entity from which such covered individual is assigned.
+
+>             “(B)
+
+>              The assignment of rights to intellectual property developed in the course of any research or development project under the pilot program—
+
+>                 “(i) to the Agency and its contracting partners in accordance with applicable provisions of law regarding intellectual property rights; and
+
+>                 “(ii) not to the covered individual or the covered entity from which such covered individual is assigned.
+
+>             “(C) Such additional measures as the Director considers necessary to carry out the program in accordance with Federal law.
+
+>     “(d)  __Prohibition on Charges by Covered Entities__  __.—__ 
+
+>     A covered entity may not charge the Federal Government, as direct or indirect costs under a Federal contract, the costs of pay or benefits paid by the covered entity to a covered individual assigned to the Agency under the pilot program.
+
+>     “(e)  __Annual Report__  __.—__ 
+
+>     Not later than the first October 31 after the first fiscal year in which the Director carries out the pilot program and each October 31 thereafter that immediately follows a fiscal year in which the Director carries out the pilot program, the Director shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the activities carried out under the pilot program during the most recently completed fiscal year.
+
+>     “(f)  __Termination of Authority__  __.—__ 
+
+>     The authority provided in this section shall expire on September 30, 2025, except that any covered individual assigned to the Agency under the pilot program shall continue in such assignment until the terms of such assignment have been satisfied.
+
+>     “(g)  __Definitions__  __.—__ 
+
+>     In this section:
+
+>         “(1) The term ‘covered individual’ means any individual who is employed by a covered entity.
+
+>         “(2) The term ‘covered entity’ means any non-Federal, nongovernmental entity that, as of the date on which a covered individual employed by the entity is assigned to the Agency under the pilot program, is a nontraditional defense contractor (as defined in [section 2302 of title 10][/us/usc/t10/s2302], United States Code).”
+
  __Temporary Authorities for Certain Positions at Department of Defense Research and Engineering Facilities__ 
 
-[Pub. L. 113–66, div. A, title XI, § 1107][/us/pl/113/66/s1107], Dec. 26, 2013, [127 Stat. 887][/us/stat/127/887], provided that:
+[Pub. L. 113–66, div. A, title XI, § 1107][/us/pl/113/66/s1107], Dec. 26, 2013, [127 Stat. 887][/us/stat/127/887], as amended by [Pub. L. 113–291, div. A, title XI, § 1105][/us/pl/113/291/s1105], Dec. 19, 2014, [128 Stat. 3526][/us/stat/128/3526], provided that:
 
 >     “(a) __Authority To Make Direct Appointments.—__ 
 
@@ -150,6 +244,10 @@ July 26, 1947, ch. 343, § 203(b)(2), (3); added Aug. 6, 1958, Pub. L. 85–59
 >         “(2)  __Veteran candidates for similar positions at research and engineering facilities__  __.—__ 
 
 >         The director of any STRL may appoint qualified veteran candidates to positions described in paragraph (2) of subsection (b) as an employee at a laboratory, agency, or organization specified in that paragraph without regard to the provisions of subchapter I of chapter 33 of title 5, United States Code.
+
+>         “(3)  __Students enrolled in scientific and engineering programs__  __.—__ 
+
+>         The director of any STRL may appoint qualified candidates enrolled in a program of undergraduate or graduate instruction leading to a bachelor’s or an advanced degree in a scientific, technical, engineering or mathematical course of study at an institution of higher education (as that term is defined in section \[sic\] 101 and 102 of the Higher Education Act of 1965 ([20 U.S.C. 1001][/us/usc/t20/s1001]\[, 1002\])) to positions described in paragraph (3) of subsection (b) as an employee in a laboratory described in that paragraph without regard to the provisions of subchapter I of chapter 33 of title 5, United States Code (other than sections 3303 and 3328 of such title).
 
 >     “(b) __Covered Positions.—__ 
 
@@ -165,6 +263,10 @@ July 26, 1947, ch. 343, § 203(b)(2), (3); added Aug. 6, 1958, Pub. L. 85–59
 
 >             “(B) Any other Department of Defense research and engineering agency or organization designated by the Secretary for purposes of subsection (a)(2).
 
+>         “(3)  __Candidates enrolled in scientific and engineering programs__  __.—__ 
+
+>         The positions described in this paragraph are scientific and engineering positions that may be temporary or term in any laboratory designated by section 1105(a) of the National Defense Authorization Act for Fiscal Year 2010 ([Public Law 111–84][/us/pl/111/84]; [123 Stat. 2486][/us/stat/123/2486]; [10 U.S.C. 2358][/us/usc/t10/s2358] note) as a Department of Defense science and technology reinvention laboratory.
+
 >     “(c)  __Limitation on Number of Appointments Allowable in a Calendar Year__  __.—__ 
 
 >     The authority under subsection (a) may not, in any calendar year and with respect to any laboratory, agency, or organization described in subsection (b), be exercised with respect to a number of candidates greater than the following:
@@ -172,6 +274,8 @@ July 26, 1947, ch. 343, § 203(b)(2), (3); added Aug. 6, 1958, Pub. L. 85–59
 >         “(1) In the case of a laboratory described in subsection (b)(1), with respect to appointment authority under subsection (a)(1), the number equal to 3 percent of the total number of scientific and engineering positions in such laboratory that are filled as of the close of the fiscal year last ending before the start of such calendar year.
 
 >         “(2) In the case of a laboratory, agency, or organization described in subsection (b)(2), with respect to appointment authority under subsection (a)(2), the number equal to 1 percent of the total number of scientific, technical, engineering, mathematics, and technician positions in such laboratory, agency, or organization that are filled as of the close of the fiscal year last ending before the start of such calendar year.
+
+>         “(3) In the case of a laboratory described in subsection (b)(3), with respect to appointment authority under subsection (a)(3), the number equal to 3 percent of the total number of scientific and engineering positions in such laboratory that are filled as of the close of the fiscal year last ending before the start of such calendar year.
 
 >     “(d)  __Definitions__  __.—__ 
 
@@ -389,7 +493,7 @@ July 26, 1947, ch. 343, § 203(b)(2), (3); added Aug. 6, 1958, Pub. L. 85–59
 
  __Pilot Program To Include Technology Protection Features During Research and Development of Defense Systems__ 
 
-[Pub. L. 111–383, div. A, title II, § 243][/us/pl/111/383/s243], Jan. 7, 2011, [124 Stat. 4178][/us/stat/124/4178], as amended by [Pub. L. 112–81, div. A, title II, § 252][/us/pl/112/81/s252], Dec. 31, 2011, [125 Stat. 1347][/us/stat/125/1347]; [Pub. L. 113–66, div. A, title II, § 264][/us/pl/113/66/s264], Dec. 26, 2013, [127 Stat. 726][/us/stat/127/726], provided that:
+[Pub. L. 111–383, div. A, title II, § 243][/us/pl/111/383/s243], Jan. 7, 2011, [124 Stat. 4178][/us/stat/124/4178], as amended by [Pub. L. 112–81, div. A, title II, § 252][/us/pl/112/81/s252], Dec. 31, 2011, [125 Stat. 1347][/us/stat/125/1347]; [Pub. L. 113–66, div. A, title II, § 264][/us/pl/113/66/s264], Dec. 26, 2013, [127 Stat. 726][/us/stat/127/726]; [Pub. L. 113–291, div. A, title II, § 231][/us/pl/113/291/s231], Dec. 19, 2014, [128 Stat. 3332][/us/stat/128/3332], provided that:
 
 >     “(a)  __Pilot Program__  __.—__ 
 
@@ -403,7 +507,7 @@ July 26, 1947, ch. 343, § 203(b)(2), (3); added Aug. 6, 1958, Pub. L. 85–59
 
 >         “(2) for the design and incorporation of exportability features into the system,
 
->         shall include a cost-sharing provision that requires the contractor to bear at least one-half of the cost of such activities.
+>         shall include a cost-sharing provision that requires the contractor to bear half of the cost of such activities, or such other portion of such cost as the Secretary considers appropriate upon showing of good cause.
 
 >     “(c)  __Annual Reports__  __.—__ 
 
@@ -741,7 +845,7 @@ July 26, 1947, ch. 343, § 203(b)(2), (3); added Aug. 6, 1958, Pub. L. 85–59
 
  __Research and Development of Defense Biomedical Countermeasures__ 
 
-[Pub. L. 108–136, div. A, title XVI, § 1601][/us/pl/108/136/s1601], Nov. 24, 2003, [117 Stat. 1680][/us/stat/117/1680], as amended by [Pub. L. 112–81, div. A, title X, § 1062(g)(3)][/us/pl/112/81/s1062/g/3], Dec. 31, 2011, [125 Stat. 1585][/us/stat/125/1585], provided that:
+[Pub. L. 108–136, div. A, title XVI, § 1601][/us/pl/108/136/s1601], Nov. 24, 2003, [117 Stat. 1680][/us/stat/117/1680], as amended by [Pub. L. 112–81, div. A, title X, § 1062(g)(3)][/us/pl/112/81/s1062/g/3], Dec. 31, 2011, [125 Stat. 1585][/us/stat/125/1585]; [Pub. L. 113–291, div. A, title X, § 1071(b)(5)(B)][/us/pl/113/291/s1071/b/5/B], Dec. 19, 2014, [128 Stat. 3507][/us/stat/128/3507], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -759,7 +863,7 @@ July 26, 1947, ch. 343, § 203(b)(2), (3); added Aug. 6, 1958, Pub. L. 85–59
 
 >          For any procurement of property or services for use (as determined by the Secretary) in performing, administering, or supporting biomedical countermeasures research and development, the Secretary may, when appropriate, use streamlined acquisition procedures and other expedited procurement procedures authorized in—
 
->             “(A) section 32A of the Office of Federal Procurement Policy Act, as added by section 1443 of this Act \[now [41 U.S.C. 1903][/us/usc/t41/s1903]\]; and
+>             “(A) [section 1903 of title 41][/us/usc/t41/s1903], United States Code; and
 
 >             “(B) [section 2371 of title 10][/us/usc/t10/s2371], United States Code, and section 845 of the National Defense Authorization Act for Fiscal Year 1994 ([Public Law 103–160][/us/pl/103/160]; [10 U.S.C. 2371][/us/usc/t10/s2371] note).
 
@@ -769,7 +873,7 @@ July 26, 1947, ch. 343, § 203(b)(2), (3); added Aug. 6, 1958, Pub. L. 85–59
 
 >             “(A) Chapter 37 of title 40, United States Code (relating to contract work hours and safety standards).
 
->             “(B) Subsections (a) and (b) of section 7 of the Anti-Kickback Act of 1986 (\[former\] [41 U.S.C. 57(a)][/us/usc/t41/s57/a] and (b)) \[now [41 U.S.C. 8703(a)][/us/usc/t41/s8703/a]\].
+>             “(B) [Section 8703(a) of title 41][/us/usc/t41/s8703/a], United States Code.
 
 >             “(C) [Section 2313 of title 10][/us/usc/t10/s2313], United States Code (relating to the examination of contractor records).
 
@@ -1121,7 +1225,7 @@ July 26, 1947, ch. 343, § 203(b)(2), (3); added Aug. 6, 1958, Pub. L. 85–59
 
  __Defense Laboratories Personnel Demonstration Projects__ 
 
-[Pub. L. 111–84, div. A, title XI, § 1105][/us/pl/111/84/s1105], Oct. 28, 2009, [123 Stat. 2486][/us/stat/123/2486], provided that:
+[Pub. L. 111–84, div. A, title XI, § 1105][/us/pl/111/84/s1105], Oct. 28, 2009, [123 Stat. 2486][/us/stat/123/2486], as amended by [Pub. L. 113–291, div. A, title XI, § 1103][/us/pl/113/291/s1103], Dec. 19, 2014, [128 Stat. 3525][/us/stat/128/3525], provided that:
 
 >     “(a)  __Designation of Laboratories__  __.—__ 
 
@@ -1160,6 +1264,10 @@ July 26, 1947, ch. 343, § 203(b)(2), (3); added Aug. 6, 1958, Pub. L. 85–59
 >         “(16) The Space and Naval Warfare Systems Center, Atlantic.
 
 >         “(17) The laboratories within the Army Research Development and Engineering Command.
+
+>         “(18) The Army Research Institute for the Behavioral and Social Sciences.
+
+>         “(19) The Space and Missile Defense Command Technical Center.
 
 >     “(b)  __Conversion Procedures__  __.—__ 
 
@@ -1370,8 +1478,18 @@ Similar provisions were contained in the following prior authorization acts:
 [/us/pl/103/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355
 [/us/pl/103/355/s10001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs10001
 [/us/usc/t10/s2302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2302
+[/us/pl/113/291/s232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs232
+[/us/stat/128/3332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3332
+[/us/usc/t26/s1043]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1043
+[/us/usc/t10/s2302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2302
 [/us/pl/113/66/s1107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1107
 [/us/stat/127/887]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F887
+[/us/pl/113/291/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1105
+[/us/stat/128/3526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3526
+[/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001
+[/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
+[/us/stat/123/2486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2486
+[/us/usc/t10/s2358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2358
 [/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
 [/us/stat/123/2486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2486
 [/us/usc/t10/s2358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2358
@@ -1395,6 +1513,8 @@ Similar provisions were contained in the following prior authorization acts:
 [/us/stat/125/1347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1347
 [/us/pl/113/66/s264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs264
 [/us/stat/127/726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F726
+[/us/pl/113/291/s231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs231
+[/us/stat/128/3332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3332
 [/us/usc/t10/s2302/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2302%2F5
 [/us/pl/111/383/s1078]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1078
 [/us/stat/124/4380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4380
@@ -1434,11 +1554,12 @@ Similar provisions were contained in the following prior authorization acts:
 [/us/stat/117/1680]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1680
 [/us/pl/112/81/s1062/g/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1062%2Fg%2F3
 [/us/stat/125/1585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1585
+[/us/pl/113/291/s1071/b/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Fb%2F5%2FB
+[/us/stat/128/3507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3507
 [/us/usc/t41/s1903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs1903
 [/us/usc/t10/s2371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2371
 [/us/pl/103/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160
 [/us/usc/t10/s2371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2371
-[/us/usc/t41/s57/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs57%2Fa
 [/us/usc/t41/s8703/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs8703%2Fa
 [/us/usc/t10/s2313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2313
 [/us/usc/t10/s2801/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2801%2Fc
@@ -1512,6 +1633,8 @@ Similar provisions were contained in the following prior authorization acts:
 [/us/stat/126/1950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1950
 [/us/pl/111/84/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs1105
 [/us/stat/123/2486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2486
+[/us/pl/113/291/s1103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1103
+[/us/stat/128/3525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3525
 [/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/stat/108/2721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2721
 [/us/usc/t5/s4703/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs4703%2Ff

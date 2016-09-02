@@ -23,7 +23,7 @@
 
          Supplying, equipping, and supporting the force structure of the armed forces that is necessary to achieve—
 
-            (A) the objectives set forth in the national security strategy report submitted to Congress by the President pursuant to section 108 of the National Security Act of 1947 ([50 U.S.C. 404a][/us/usc/t50/s404a]);  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup> 
+            (A) the objectives set forth in the national security strategy report submitted to Congress by the President pursuant to section 108 of the National Security Act of 1947 ([50 U.S.C. 3043][/us/usc/t50/s3043]);
 
             (B) the policy guidance of the Secretary of Defense provided pursuant to [section 113(g) of this title][/us/usc/t10/s113/g]; and
 
@@ -57,11 +57,7 @@
 
         (3) Reducing Federal Government barriers to the use of commercial products, processes, and standards.
 
-(Added [Pub. L. 102–484, div. D, title XLII, § 4211][/us/pl/102/484/s4211], Oct. 23, 1992, [106 Stat. 2662][/us/stat/106/2662]; amended [Pub. L. 103–35, title II, § 201(c)(7)][/us/pl/103/35/s201/c/7], May 31, 1993, [107 Stat. 98][/us/stat/107/98]; [Pub. L. 103–160, div. A, title XI, § 1182(a)(10)][/us/pl/103/160/s1182/a/10], title XIII, § 1313, Nov. 30, 1993, [107 Stat. 1771][/us/stat/107/1771], 1786; [Pub. L. 104–106, div. A, title X, § 1081(a)][/us/pl/104/106/s1081/a], Feb. 10, 1996, [110 Stat. 452][/us/stat/110/452]; [Pub. L. 104–201, div. A, title VIII, § 829(a)][/us/pl/104/201/s829/a], Sept. 23, 1996, [110 Stat. 2612][/us/stat/110/2612]; [Pub. L. 111–23, title III, § 303(a)][/us/pl/111/23/s303/a], May 22, 2009, [123 Stat. 1731][/us/stat/123/1731]; [Pub. L. 111–383, div. A, title VIII, § 895(b)][/us/pl/111/383/s895/b], Jan. 7, 2011, [124 Stat. 4314][/us/stat/124/4314]; [Pub. L. 112–239, div. A, title XVI, § 1603(a)(1)][/us/pl/112/239/s1603/a/1], Jan. 2, 2013, [126 Stat. 2062][/us/stat/126/2062].)
-
- __References in Text__ 
-
-    The National Security Act of 1947, referred to in subsec. (a)(1)(A), is [act July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], [61 Stat. 495][/us/stat/61/495], which was formerly classified principally to chapter 15 (§ 401 et seq.) of Title 50, War and National Defense, prior to editorial reclassification in chapter 44 (§ 3001 et seq.) of Title 50. Section 108 of the Act is now classified to [section 3043 of Title 50][/us/usc/t50/s3043]. For complete classification of this Act to the Code, see Tables.
+(Added [Pub. L. 102–484, div. D, title XLII, § 4211][/us/pl/102/484/s4211], Oct. 23, 1992, [106 Stat. 2662][/us/stat/106/2662]; amended [Pub. L. 103–35, title II, § 201(c)(7)][/us/pl/103/35/s201/c/7], May 31, 1993, [107 Stat. 98][/us/stat/107/98]; [Pub. L. 103–160, div. A, title XI, § 1182(a)(10)][/us/pl/103/160/s1182/a/10], title XIII, § 1313, Nov. 30, 1993, [107 Stat. 1771][/us/stat/107/1771], 1786; [Pub. L. 104–106, div. A, title X, § 1081(a)][/us/pl/104/106/s1081/a], Feb. 10, 1996, [110 Stat. 452][/us/stat/110/452]; [Pub. L. 104–201, div. A, title VIII, § 829(a)][/us/pl/104/201/s829/a], Sept. 23, 1996, [110 Stat. 2612][/us/stat/110/2612]; [Pub. L. 111–23, title III, § 303(a)][/us/pl/111/23/s303/a], May 22, 2009, [123 Stat. 1731][/us/stat/123/1731]; [Pub. L. 111–383, div. A, title VIII, § 895(b)][/us/pl/111/383/s895/b], Jan. 7, 2011, [124 Stat. 4314][/us/stat/124/4314]; [Pub. L. 112–239, div. A, title XVI, § 1603(a)(1)][/us/pl/112/239/s1603/a/1], Jan. 2, 2013, [126 Stat. 2062][/us/stat/126/2062]; [Pub. L. 113–291, div. A, title X, § 1071(c)(2)][/us/pl/113/291/s1071/c/2], Dec. 19, 2014, [128 Stat. 3508][/us/stat/128/3508].)
 
  __Prior Provisions__ 
 
@@ -70,6 +66,8 @@
     Another prior section 2501 was renumbered [section 2533 of this title][/us/usc/t10/s2533].
 
  __Amendments__ 
+
+    2014—Subsec. (a)(1)(A). [Pub. L. 113–291][/us/pl/113/291] substituted “([50 U.S.C. 3043][/us/usc/t50/s3043])” for “([50 U.S.C. 404a][/us/usc/t50/s404a])”.
 
     2013—[Pub. L. 112–239, § 1603(a)(1)(A)][/us/pl/112/239/s1603/a/1/A], substituted “strategy for” for “objectives concerning” in section catchline.
 
@@ -175,7 +173,7 @@
 
  __Essential Items Identification and Domestic Production Capabilities Improvement Program__ 
 
-[Pub. L. 108–136, div. A, title VIII][/us/pl/108/136], subtitle B, part I, Nov. 24, 2003, [117 Stat. 1542][/us/stat/117/1542], as amended by [Pub. L. 109–364, div. A, title VIII, § 841][/us/pl/109/364/s841], Oct. 17, 2006, [120 Stat. 2335][/us/stat/120/2335]; [Pub. L. 111–84, div. A, title VIII, § 846][/us/pl/111/84/s846], Oct. 28, 2009, [123 Stat. 2420][/us/stat/123/2420]; [Pub. L. 112–81, div. A, title X, § 1062(g)(2)][/us/pl/112/81/s1062/g/2], Dec. 31, 2011, [125 Stat. 1585][/us/stat/125/1585], provided that:
+[Pub. L. 108–136, div. A, title VIII][/us/pl/108/136], subtitle B, part I, Nov. 24, 2003, [117 Stat. 1542][/us/stat/117/1542], as amended by [Pub. L. 109–364, div. A, title VIII, § 841][/us/pl/109/364/s841], Oct. 17, 2006, [120 Stat. 2335][/us/stat/120/2335]; [Pub. L. 111–84, div. A, title VIII, § 846][/us/pl/111/84/s846], Oct. 28, 2009, [123 Stat. 2420][/us/stat/123/2420]; [Pub. L. 112–81, div. A, title X, § 1062(g)(2)][/us/pl/112/81/s1062/g/2], Dec. 31, 2011, [125 Stat. 1585][/us/stat/125/1585]; [Pub. L. 113–291, div. A, title X, § 1071(b)(5)(A)][/us/pl/113/291/s1071/b/5/A], (d)(1)(C), Dec. 19, 2014, [128 Stat. 3506][/us/stat/128/3506], 3509, provided that:
 
 > “SEC. 811. __CONSISTENCY WITH UNITED STATES OBLIGATIONS UNDER INTERNATIONAL AGREEMENTS.__ 
 
@@ -209,7 +207,7 @@
 
 >             “(D) The dollar value of the contract.
 
->         “(2) The Federal Procurement Data System described in section 6(d)(4)(A) of the Office of Federal Procurement Policy Act (\[former\] [41 U.S.C. 405(d)(4)(A)][/us/usc/t41/s405/d/4/A]) \[now [41 U.S.C. 1122(a)(4)(A)][/us/usc/t41/s1122/a/4/A]\], or any successor system, shall collect from contracts described in paragraph (1) the information specified in that paragraph.
+>         “(2) The Federal Procurement Data System described in [section 1122(a)(4)(A) of title 41][/us/usc/t41/s1122/a/4/A], United States Code, or any successor system, shall collect from contracts described in paragraph (1) the information specified in that paragraph.
 
 >         “(3) Information obtained in the implementation of this section is subject to the same limitations on disclosure, and penalties for violation of such limitations, as is provided under [section 2507 of title 10][/us/usc/t10/s2507], United States Code. Such information also shall be exempt from release under [section 552 of title 5][/us/usc/t5/s552], United States Code.
 
@@ -223,7 +221,7 @@
 
 >     “(e)  __Applicability__  __.—__ 
 
->     This section shall not apply to acquisitions made by an agency, or component thereof, that is an element of the intelligence community as set forth in or designated under section 3(4) of the National Security Act of 1947 ([50 U.S.C. 401a(4)][/us/usc/t50/s401a/4]) \[now [50 U.S.C. 3003(4)][/us/usc/t50/s3003/4]\].
+>     This section shall not apply to acquisitions made by an agency, or component thereof, that is an element of the intelligence community as set forth in or designated under section 3(4) of the National Security Act of 1947 ([50 U.S.C. 3003(4)][/us/usc/t50/s3003/4]).
 
 > “\[SEC. 813. Repealed. [Pub. L. 111–84, div. A, title VIII, § 846][/us/pl/111/84/s846], Oct. 28, 2009, [123 Stat. 2420][/us/stat/123/2420].\]
 
@@ -708,7 +706,7 @@
 ----------
 ----------
 
-[/us/usc/t50/s404a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs404a
+[/us/usc/t50/s3043]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3043
 [/us/usc/t10/s113/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs113%2Fg
 [/us/usc/t10/s221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs221
 [/us/pl/102/484/s4211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs4211
@@ -727,13 +725,15 @@
 [/us/stat/124/4314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4314
 [/us/pl/112/239/s1603/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1603%2Fa%2F1
 [/us/stat/126/2062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2062
-[/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
-[/us/stat/61/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F495
-[/us/usc/t50/s3043]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3043
+[/us/pl/113/291/s1071/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Fc%2F2
+[/us/stat/128/3508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3508
 [/us/pl/100/456/s821/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2Fs821%2Fb%2F1%2FB
 [/us/stat/102/2014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2014
 [/us/pl/102/484/s4202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs4202%2Fa
 [/us/usc/t10/s2533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2533
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/usc/t50/s3043]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3043
+[/us/usc/t50/s404a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs404a
 [/us/pl/112/239/s1603/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1603%2Fa%2F1%2FA
 [/us/pl/112/239/s1603/a/1/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1603%2Fa%2F1%2FB%2Fi
 [/us/pl/112/239/s1603/a/1/B/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1603%2Fa%2F1%2FB%2Fiii
@@ -766,16 +766,16 @@
 [/us/stat/123/2420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2420
 [/us/pl/112/81/s1062/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1062%2Fg%2F2
 [/us/stat/125/1585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1585
+[/us/pl/113/291/s1071/b/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Fb%2F5%2FA
+[/us/stat/128/3506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3506
 [/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
 [/us/usc/t10/s2436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2436
 [/us/usc/t10/s2501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2501
-[/us/usc/t41/s405/d/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs405%2Fd%2F4%2FA
 [/us/usc/t41/s1122/a/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs1122%2Fa%2F4%2FA
 [/us/usc/t10/s2507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2507
 [/us/usc/t5/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552
 [/us/pl/112/81/s1062/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1062%2Fg%2F2
 [/us/stat/125/1585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1585
-[/us/usc/t50/s401a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs401a%2F4
 [/us/usc/t50/s3003/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3003%2F4
 [/us/pl/111/84/s846]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs846
 [/us/stat/123/2420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2420

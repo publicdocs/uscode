@@ -17,7 +17,19 @@
 
     (a)  __Consideration for Continuation__  __.—__ 
 
-        (1) A reserve officer of the Army, Navy, Air Force, or Marine Corps who is required to be removed from the reserve active-status list under section 14505, 14506, or 14507 of this title may, subject to the needs of the service and to [section 14509 of this title][/us/usc/t10/s14509], be considered for continuation on the reserve active-status list under regulations prescribed by the Secretary of Defense.
+        (1)
+
+            (A) A reserve officer of the Army, Navy, Air Force, or Marine Corps described in subparagraph (B) who is required to be removed from the reserve active-status list under [section 14504 of this title][/us/usc/t10/s14504], or a reserve officer of the Army, Navy, Air Force, or Marine Corps who is required to be removed from the reserve active-status list under section 14505, 14506, or 14507 of this title, may be considered for continuation on the reserve active-status list under regulations prescribed by the Secretary of Defense.
+
+            (B)
+
+             A reserve officer covered by this subparagraph is a reserve officer of the Army, Air Force, or Marine Corps who holds the grade of first lieutenant, or a reserve officer of the Navy who holds the grade of lieutenant (junior grade), and who—
+
+                (i) is a health professions officer; or
+
+                (ii) is actively pursuing an undergraduate program of education leading to a baccalaureate degree.
+
+            (C) The consideration of a reserve officer for continuation on the reserve active-status list pursuant to this paragraph is subject to the needs of the service and to [section 14509 of this title][/us/usc/t10/s14509].
 
         (2) A reserve officer who holds the grade of captain in the Army, Air Force, or Marine Corps or the grade of lieutenant in the Navy and who is subject to separation under [section 14513 of this title][/us/usc/t10/s14513] may not be continued on the reserve active-status list under this subsection for a period which extends beyond the last day of the month in which the officer completes 20 years of commissioned service.
 
@@ -31,13 +43,25 @@
 
         (7) Each officer who is continued on the reserve active-status list under this section, who is not subsequently promoted or continued on the active-status list, and whose name is not on a list of officers recommended for promotion to the next higher grade shall (unless sooner separated under another provision of law) be separated in accordance with section 14513 or 14514 of this title, as appropriate, upon the expiration of the period for which the officer was continued on the reserve active-status list.
 
-    (b)  __Regulations__  __.—__ 
+    (b)  __Continuation of Health Professions Officers__  __.—__ 
+
+        (1) Notwithstanding subsection (a)(6), a health professions officer obligated to a period of service incurred under [section 16201 of this title][/us/usc/t10/s16201] who is required to be removed from the reserve active-status list under section 14504, 14505, 14506, or 14507 of this title and who has not completed a service obligation incurred under [section 16201 of this title][/us/usc/t10/s16201] shall be retained on the reserve active-status list until the completion of such service obligation and then discharged, unless sooner retired or discharged under another provision of law.
+
+        (2) The Secretary concerned may waive the applicability of paragraph (1) to any officer if the Secretary determines that completion of the service obligation of that officer is not in the best interest of the service.
+
+        (3) A health professions officer who is continued on the reserve active-status list under this subsection who is subsequently promoted or whose name is on a list of officers recommended for promotion to the next higher grade is not required to be discharged or retired upon completion of the officer’s service obligation. Such officer may continue on the reserve active-status list as other officers of the same grade unless separated under another provision of law.
+
+    (c)  __Regulations__  __.—__ 
 
     The Secretary of Defense shall prescribe regulations for the administration of this section.
 
-(Added [Pub. L. 103–337, div. A, title XVI, § 1611][/us/pl/103/337/s1611], Oct. 5, 1994, [108 Stat. 2954][/us/stat/108/2954]; amended [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title V, § 522\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–108; [Pub. L. 108–136, div. A, title V, § 511(a)][/us/pl/108/136/s511/a], Nov. 24, 2003, [117 Stat. 1459][/us/stat/117/1459].)
+(Added [Pub. L. 103–337, div. A, title XVI, § 1611][/us/pl/103/337/s1611], Oct. 5, 1994, [108 Stat. 2954][/us/stat/108/2954]; amended [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title V, § 522\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–108; [Pub. L. 108–136, div. A, title V, § 511(a)][/us/pl/108/136/s511/a], Nov. 24, 2003, [117 Stat. 1459][/us/stat/117/1459]; [Pub. L. 113–291, div. A, title V, § 511][/us/pl/113/291/s511], Dec. 19, 2014, [128 Stat. 3357][/us/stat/128/3357].)
 
  __Amendments__ 
+
+    2014—Subsec. (a)(1). [Pub. L. 113–291, § 511(a)][/us/pl/113/291/s511/a], designated existing provisions as subpar. (A), substituted “A reserve officer of the Army, Navy, Air Force, or Marine Corps described in subparagraph (B) who is required to be removed from the reserve active-status list under [section 14504 of this title][/us/usc/t10/s14504], or a reserve officer of” for “A reserve officer of” and “of this title, may” for “of this title may, subject to the needs of the service and to [section 14509 of this title][/us/usc/t10/s14509],”, and added subpars. (B) and (C).
+
+    Subsecs. (b), (c). [Pub. L. 113–291, § 511(b)][/us/pl/113/291/s511/b], added subsec. (b) and redesignated former subsec. (b) as (c).
 
     2003—Subsec. (a)(1). [Pub. L. 108–136, § 511(a)(1)(A)][/us/pl/108/136/s511/a/1/A], substituted “under regulations prescribed by the Secretary of Defense” for “by a selection board convened under [section 14101(b) of this title][/us/usc/t10/s14101/b]”.
 
@@ -62,17 +86,26 @@
 ----------
 ----------
 
+[/us/usc/t10/s14504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs14504
 [/us/usc/t10/s14509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs14509
 [/us/usc/t10/s14513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs14513
 [/us/usc/t10/s14513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs14513
 [/us/usc/t10/s14514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs14514
 [/us/usc/t10/s14514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs14514
+[/us/usc/t10/s16201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs16201
+[/us/usc/t10/s16201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs16201
 [/us/pl/103/337/s1611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1611
 [/us/stat/108/2954]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2954
 [/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
 [/us/pl/108/136/s511/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs511%2Fa
 [/us/stat/117/1459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1459
+[/us/pl/113/291/s511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs511
+[/us/stat/128/3357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3357
+[/us/pl/113/291/s511/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs511%2Fa
+[/us/usc/t10/s14504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs14504
+[/us/usc/t10/s14509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs14509
+[/us/pl/113/291/s511/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs511%2Fb
 [/us/pl/108/136/s511/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs511%2Fa%2F1%2FA
 [/us/usc/t10/s14101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs14101%2Fb
 [/us/pl/108/136/s511/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs511%2Fa%2F1%2FB

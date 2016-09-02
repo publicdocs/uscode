@@ -429,6 +429,68 @@ Dec. 21, 1979, Pub. L. 96–154, § 767, 93 Stat. 1163.  </td>
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply only with respect to appropriations for fiscal years beginning after September 30, 1984.”
 
+ __Pilot Program for Acquisition of Commercial Satellite Communication Services__ 
+
+[Pub. L. 113–291, div. A, title XVI, § 1605][/us/pl/113/291/s1605], Dec. 19, 2014, [128 Stat. 3623][/us/stat/128/3623], provided that:
+
+>     “(a) __Pilot Program.—__ 
+
+>         “(1)  __In general__  __.—__ 
+
+>         The Secretary of Defense may develop and carry out a pilot program to determine the feasibility and advisability of expanding the use of working capital funds by the Secretary to effectively and efficiently acquire commercial satellite communications services to meet the requirements of the military departments, Defense Agencies, and combatant commanders.
+
+>         “(2)  __Funding__  __.—__ 
+
+>         Of the funds authorized to be appropriated for any of fiscal years 2015 through 2020 for the Department of Defense for the acquisition of satellite communications, not more than $50,000,000 may be obligated or expended for such pilot program during such a fiscal year.
+
+>         “(3)  __Certain authorities__  __.—__ 
+
+>         In carrying out the pilot program under paragraph (1), the Secretary may not use the authorities provided in sections 2208(k) and 2210(b) of title 10, United States Code.
+
+>     “(b)  __Goals__  __.—__ 
+
+>     In developing and carrying out the pilot program under subsection (a)(1), the Secretary shall ensure that the pilot program—
+
+>         “(1) provides a cost-effective and strategic method to acquire commercial satellite communications services;
+
+>         “(2) incentivizes private-sector participation and investment in technologies to meet future requirements of the Department of Defense with respect to commercial satellite communications services;
+
+>         “(3) takes into account the potential for a surge or other change in the demand of the Department for commercial satellite communications services in response to global or regional events; and
+
+>         “(4) ensures the ability of the Secretary to control and account for the cost of programs and work performed under the pilot program.
+
+>     “(c)  __Duration__  __.—__ 
+
+>     The pilot program under subsection (a)(1) shall terminate on October 1, 2020.
+
+>     “(d) __Reports.—__ 
+
+>         “(1)  __Initial report__  __.—__ 
+
+>         Not later than 90 days after the date of the enactment of this Act \[Dec. 19, 2014\], the Secretary shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report that includes—
+
+>             “(A) a plan and schedule to carry out the pilot program under subsection (a)(1); or
+
+>             “(B) if the Secretary finds that carrying out the pilot program authorized under subsection (a)(1) is not an appropriate method to effectively and efficiently acquire commercial satellite communications services, a description of how the Secretary will achieve the goals described in subsection (b) without carrying out such pilot program.
+
+>         “(2)  __Final report__  __.—__ 
+
+>         Not later than December 1, 2020, the Secretary shall submit to the congressional defense committees a report on the pilot program under subsection (a)(1). The report shall include—
+
+>             “(A) an assessment of expanding the use of working capital funds to effectively and efficiently acquire commercial satellite communications services to meet the requirements of the military departments, Defense Agencies, and combatant commanders; and
+
+>             “(B)
+
+>              a description of—
+
+>                 “(i) any contract entered into under the pilot program, the funding used under such contract, and the efficiencies realized under such contract;
+
+>                 “(ii) the advantages and challenges of using working capital funds as described in subparagraph (A);
+
+>                 “(iii) any additional authorities the Secretary determines necessary to acquire commercial satellite communications services as described in subsection (a)(1); and
+
+>                 “(iv) any recommendations of the Secretary with respect to improving or extending the pilot program.”
+
  __Advance Billing for Fiscal Year 2006__ 
 
 [Pub. L. 109–234, title I, § 1206][/us/pl/109/234/s1206], June 15, 2006, [120 Stat. 430][/us/stat/120/430], provided in part that: 
@@ -545,6 +607,8 @@ Dec. 21, 1979, Pub. L. 96–154, § 767, 93 Stat. 1163.  </td>
 [/us/stat/112/2340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2340
 [/us/pl/98/94/s1204/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94%2Fs1204%2Fb
 [/us/stat/97/683]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F683
+[/us/pl/113/291/s1605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1605
+[/us/stat/128/3623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3623
 [/us/pl/109/234/s1206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F234%2Fs1206
 [/us/stat/120/430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F430
 [/us/usc/t10/s2208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2208

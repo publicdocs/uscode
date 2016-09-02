@@ -13,21 +13,49 @@
 
 [Previous](./../../../../../..//us/usc/t10/stA/ptIII/ch101/m__us_usc_t10_s2014.md) | [Next](./../../../../../..//us/usc/t10/stA/ptIII/ch101/m__us_usc_t10_s2016.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2015)
 
-## § 2015. Payment of expenses to obtain professional credentials
+## § 2015. Program to assist members in obtaining professional credentials
 
-    (a)  __Authority__  __.—__ 
+    (a)  __Program Required__  __.—__ 
 
-    The Secretary of Defense and the Secretary of Homeland Security, with respect to the Coast Guard when it is not operating as a service in the Navy, may pay for—
+    The Secretary of Defense and the Secretary of Homeland Security, with respect to the Coast Guard when it is not operating as a service in the Navy, shall carry out a program to enable members of the armed forces to obtain, while serving in the armed forces, professional credentials related to military training and skills that—
 
-        (1) expenses for members of the armed forces to obtain professional credentials, including expenses for professional accreditation, State-imposed and professional licenses, and professional certification; and
+        (1) are acquired during service in the armed forces incident to the performance of their military duties; and
 
-        (2) examinations to obtain such credentials.
+        (2) translate into civilian occupations.
 
-    (b)  __Limitation__  __.—__ 
+    (b)  __Payment of Expenses__  __.—__ 
 
-    The authority under subsection (a) may not be used to pay the expenses of a member to obtain professional credentials that are a prerequisite for appointment in the armed forces.
+        (1) Under the program required by this section, the Secretary of Defense and the Secretary of Homeland Security, with respect to the Coast Guard when it is not operating as a service in the Navy, shall provide for the payment of expenses of members for professional accreditation, Federal occupational licenses, State-imposed and professional licenses, professional certification, and related expenses.
 
-(Added [Pub. L. 109–163, div. A, title V, § 538(a)][/us/pl/109/163/s538/a], Jan. 6, 2006, [119 Stat. 3250][/us/stat/119/3250].)
+        (2) The authority under paragraph (1) may not be used to pay the expenses of a member to obtain professional credentials that are a prerequisite for appointment in the armed forces.
+
+    (c)  __Regulations__  __.—__ 
+
+        (1) The Secretary of Defense and the Secretary of Homeland Security shall prescribe regulations to carry out this section.
+
+        (2) The regulations shall apply uniformly to the armed forces to the extent practicable.
+
+        (3)
+
+         The regulations shall include the following:
+
+            (A) Requirements for eligibility for participation in the program under this section.
+
+            (B) A description of the professional credentials and occupations covered by the program.
+
+            (C) Mechanisms for oversight of the payment of expenses and the provision of other benefits under the program.
+
+            (D) Such other matters in connection with the payment of expenses and the provision of other benefits under the program as the Secretaries consider appropriate.
+
+    (d)  __Expenses Defined__  __.—__ 
+
+    In this section, the term “expenses” means expenses for class room instruction, hands-on training (and associated materials), manuals, study guides and materials, text books, processing fees, and test fees and related fees.
+
+(Added [Pub. L. 109–163, div. A, title V, § 538(a)][/us/pl/109/163/s538/a], Jan. 6, 2006, [119 Stat. 3250][/us/stat/119/3250];amended [Pub. L. 113–291, div. A, title V, § 551(a)][/us/pl/113/291/s551/a], Dec. 19, 2014, [128 Stat. 3376][/us/stat/128/3376].)
+
+ __Amendments__ 
+
+    2014—[Pub. L. 113–291][/us/pl/113/291] amended section generally, substituting provision relating to program to assist members in obtaining professional credentials for provision which related to payment of expenses to obtain professional credentials.
 
  __Enhancement of Mechanisms To Correlate Skills and Training for Military Occupational Specialties With Skills and Training Required for Civilian Certifications and Licenses__ 
 
@@ -122,6 +150,9 @@
 
 [/us/pl/109/163/s538/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs538%2Fa
 [/us/stat/119/3250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3250
+[/us/pl/113/291/s551/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs551%2Fa
+[/us/stat/128/3376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3376
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/pl/113/66/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs542
 [/us/stat/127/762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F762
 [/us/pl/112/81/s558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs558

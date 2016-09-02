@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stA/ptII/ch76/m__us_usc_t10_s1501.md) | [Next](./../../../../../..//us/usc/t10/stA/ptII/ch76/m__us_usc_t10_s1503.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1502)
+[Previous](./../../../../../..//us/usc/t10/stA/ptII/ch76/m__us_usc_t10_s1501a.md) | [Next](./../../../../../..//us/usc/t10/stA/ptII/ch76/m__us_usc_t10_s1503.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1502)
 
 ## § 1502. Missing persons: initial report
 
@@ -47,7 +47,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stA/ptII/ch76/m__us_usc_t10_s1501.md) | [Next](./../../../../../..//us/usc/t10/stA/ptII/ch76/m__us_usc_t10_s1503.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1502)
+[Previous](./../../../../../..//us/usc/t10/stA/ptII/ch76/m__us_usc_t10_s1501a.md) | [Next](./../../../../../..//us/usc/t10/stA/ptII/ch76/m__us_usc_t10_s1503.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1502)
 
 ----------
 ----------

@@ -25,7 +25,7 @@
 
         (2)
 
-            (A) Except as provided in subparagraph (B), a submittal under paragraph (1) shall be made in writing within 20 days after the accused has been give  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should read “given”. </sup></sup>  an authenticated record of trial under section 949o(c) of this title.
+            (A) Except as provided in subparagraph (B), a submittal under paragraph (1) shall be made in writing within 20 days after the accused has been given an authenticated record of trial under section 949o(c) of this title.
 
             (B) If the accused shows that additional time is required for the accused to make a submittal under paragraph (1), the convening authority may, for good cause, extend the applicable period under subparagraph (A) for not more than an additional 20 days.
 
@@ -79,11 +79,15 @@
 
         (3) A rehearing may be ordered by the convening authority if the convening authority disapproves the findings and sentence and states the reasons for disapproval of the findings. If the convening authority disapproves the finding and sentence and does not order a rehearing, the convening authority shall dismiss the charges. A rehearing as to the findings may not be ordered by the convening authority when there is a lack of sufficient evidence in the record to support the findings. A rehearing as to the sentence may be ordered by the convening authority if the convening authority disapproves the sentence.
 
-(Added [Pub. L. 111–84, div. A, title XVIII, § 1802][/us/pl/111/84/s1802], Oct. 28, 2009, [123 Stat. 2599][/us/stat/123/2599].)
+(Added [Pub. L. 111–84, div. A, title XVIII, § 1802][/us/pl/111/84/s1802], Oct. 28, 2009, [123 Stat. 2599][/us/stat/123/2599]; amended [Pub. L. 113–291, div. A, title X, § 1071(f)(10)][/us/pl/113/291/s1071/f/10], Dec. 19, 2014, [128 Stat. 3510][/us/stat/128/3510].)
 
  __Prior Provisions__ 
 
     A prior section 950b, added [Pub. L. 109–366, § 3(a)(1)][/us/pl/109/366/s3/a/1], Oct. 17, 2006, [120 Stat. 2618][/us/stat/120/2618], related to review by the convening authority, prior to the general amendment of this chapter by [Pub. L. 111–84][/us/pl/111/84].
+
+ __Amendments__ 
+
+    2014—Subsec. (b)(2)(A). [Pub. L. 113–291][/us/pl/113/291] substituted “given” for “give”.
 
 ----------
 
@@ -94,8 +98,11 @@
 
 [/us/pl/111/84/s1802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs1802
 [/us/stat/123/2599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2599
+[/us/pl/113/291/s1071/f/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Ff%2F10
+[/us/stat/128/3510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3510
 [/us/pl/109/366/s3/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F366%2Fs3%2Fa%2F1
 [/us/stat/120/2618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2618
 [/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 
 

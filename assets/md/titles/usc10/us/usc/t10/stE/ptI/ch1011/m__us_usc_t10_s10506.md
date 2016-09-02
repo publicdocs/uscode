@@ -21,11 +21,11 @@
 
          In addition to the Chief and Vice Chief of the National Guard Bureau, there shall be assigned to the National Guard Bureau—
 
-            (A) two general officers selected by the Secretary of the Army from officers of the Army National Guard of the United States who have been nominated by their respective Governors or, in the case of the District of Columbia, the commanding general of the District of Columbia National Guard, the senior of whom shall be appointed in accordance with paragraph (3), shall hold the grade of lieutenant general while so serving, and shall serve as Director, Army National Guard, with the other serving as Deputy Director, Army National Guard; and
+            (A) two general officers selected by the Secretary of the Army (after consultation with the Chief of the National Guard Bureau) from officers of the Army National Guard of the United States who have been nominated by their respective Governors or, in the case of the District of Columbia, the commanding general of the District of Columbia National Guard, the senior of whom shall be appointed in accordance with paragraph (3), shall hold the grade of lieutenant general while so serving, and shall serve as Director, Army National Guard, with the other serving as Deputy Director, Army National Guard; and
 
-            (B) two general officers selected by the Secretary of the Air Force from officers of the Air National Guard of the United States who have been nominated by their respective Governors or, in the case of the District of Columbia, the commanding general of the District of Columbia National Guard, the senior of whom shall be appointed in accordance with paragraph (3), shall hold the grade of lieutenant general while so serving, and shall serve as Director, Air National Guard, with the other serving as Deputy Director, Air National Guard.
+            (B) two general officers selected by the Secretary of the Air Force (after consultation with the Chief of the National Guard Bureau) from officers of the Air National Guard of the United States who have been nominated by their respective Governors or, in the case of the District of Columbia, the commanding general of the District of Columbia National Guard, the senior of whom shall be appointed in accordance with paragraph (3), shall hold the grade of lieutenant general while so serving, and shall serve as Director, Air National Guard, with the other serving as Deputy Director, Air National Guard.
 
-        (2) The officers so selected shall assist the Chief of the National Guard Bureau in carrying out the functions of the National Guard Bureau as they relate to their respective branches.
+        (2) The Director and Deputy Director, Army National Guard, and the Director and Deputy Director, Air National Guard, shall assist the Chief of the National Guard Bureau in carrying out the functions of the National Guard Bureau as they relate to their respective branches.
 
         (3)
 
@@ -41,25 +41,23 @@
 
             (C) An officer on active duty for service as the Director, Army National Guard, or the Director, Air National Guard, shall be counted for purposes of the grade limitations under sections 525 and 526 of this title.
 
-            (D)
-
-             Until December 31, 2006, the Secretary of Defense may waive clause (ii) of subparagraph (B) with respect to the appointment of an officer as Director, Army National Guard, or as Director, Air National Guard, if the Secretary of the military department concerned requests the waiver and, in the judgment of the Secretary of Defense—
-
-                (i) the officer is qualified for service in the position; and
-
-                (ii) the waiver is necessary for the good of the service.
-
-                Any such waiver shall be made on a case-by-case basis.
-
-            (E) The Director, Army National Guard, and the Director, Air National Guard, are appointed for a period of four years, but may be removed for cause at any time. An officer serving as either Director may be reappointed for one additional four-year period.
+            (D) The Director, Army National Guard, and the Director, Air National Guard, are appointed for a period of four years, but may be removed for cause at any time. An officer serving as either Director may be reappointed for one additional four-year period.
 
     (b)  __Other Officers__  __.—__ 
 
     There are in the National Guard Bureau a legal counsel, a comptroller, and an inspector general, each of whom shall be appointed by the Chief of the National Guard Bureau. They shall perform such duties as the Chief may prescribe.
 
-(Added [Pub. L. 103–337, div. A, title IX, § 904(a)][/us/pl/103/337/s904/a], Oct. 5, 1994, [108 Stat. 2827][/us/stat/108/2827]; amended [Pub. L. 106–65, div. A, title V, § 554(f)][/us/pl/106/65/s554/f], Oct. 5, 1999, [113 Stat. 617][/us/stat/113/617]; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title V, § 507(e)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–105; [Pub. L. 107–314, div. A, title V, § 501(a)][/us/pl/107/314/s501/a], Dec. 2, 2002, [116 Stat. 2529][/us/stat/116/2529]; [Pub. L. 108–375, div. A, title V][/us/pl/108/375], §§ 508(b)(4), 536(a), Oct. 28, 2004, [118 Stat. 1877][/us/stat/118/1877], 1901; [Pub. L. 112–81, div. A, title V, § 511(c)(2)][/us/pl/112/81/s511/c/2], Dec. 31, 2011, [125 Stat. 1393][/us/stat/125/1393].)
+(Added [Pub. L. 103–337, div. A, title IX, § 904(a)][/us/pl/103/337/s904/a], Oct. 5, 1994, [108 Stat. 2827][/us/stat/108/2827]; amended [Pub. L. 106–65, div. A, title V, § 554(f)][/us/pl/106/65/s554/f], Oct. 5, 1999, [113 Stat. 617][/us/stat/113/617]; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title V, § 507(e)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–105; [Pub. L. 107–314, div. A, title V, § 501(a)][/us/pl/107/314/s501/a], Dec. 2, 2002, [116 Stat. 2529][/us/stat/116/2529]; [Pub. L. 108–375, div. A, title V][/us/pl/108/375], §§ 508(b)(4), 536(a), Oct. 28, 2004, [118 Stat. 1877][/us/stat/118/1877], 1901; [Pub. L. 112–81, div. A, title V, § 511(c)(2)][/us/pl/112/81/s511/c/2], Dec. 31, 2011, [125 Stat. 1393][/us/stat/125/1393]; [Pub. L. 113–291, div. A, title V, § 512(a)][/us/pl/113/291/s512/a]–(c), Dec. 19, 2014, [128 Stat. 3358][/us/stat/128/3358].)
 
  __Amendments__ 
+
+    2014—Subsec. (a)(1)(A). [Pub. L. 113–291, § 512(a)(1)][/us/pl/113/291/s512/a/1], inserted “(after consultation with the Chief of the National Guard Bureau)” after “selected by the Secretary of the Army”.
+
+    Subsec. (a)(1)(B). [Pub. L. 113–291, § 512(a)(2)][/us/pl/113/291/s512/a/2], inserted “(after consultation with the Chief of the National Guard Bureau)” after “selected by the Secretary of the Air Force”.
+
+    Subsec. (a)(2). [Pub. L. 113–291, § 512(b)][/us/pl/113/291/s512/b], substituted “The Director and Deputy Director, Army National Guard, and the Director and Deputy Director, Air National Guard,” for “The officers so selected”.
+
+    Subsec. (a)(3)(D), (E). [Pub. L. 113–291, § 512(c)][/us/pl/113/291/s512/c], redesignated subpar. (E) as (D) and struck out former subpar. (D). Prior to amendment, subpar. (D) related to waiver of subsec. (a)(3)(B)(ii) with respect to the appointment of an officer as Director, Army National Guard, or as Director, Air National Guard.
 
     2011—Subsec. (a)(1). [Pub. L. 112–81][/us/pl/112/81] substituted “Chief and Vice Chief” for “Chief of the National Guard Bureau and the Director of the Joint Staff”.
 
@@ -74,6 +72,12 @@
     Subsec. (a)(3). [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title V, § 507(e)(2)\], added par. (3).
 
     1999—Subsec. (a)(1)(A), (B). [Pub. L. 106–65][/us/pl/106/65] inserted “or, if appointed to that position in accordance with [section 12505(a)(2) of this title][/us/usc/t10/s12505/a/2], the grade of lieutenant general,” after “major general”.
+
+ __Effective Date of 2014 Amendment__ 
+
+[Pub. L. 113–291, div. A, title V, § 512(d)][/us/pl/113/291/s512/d], Dec. 19, 2014, [128 Stat. 3358][/us/stat/128/3358], provided that: 
+
+> “The amendments made by subsection (a) \[amending this section\] shall apply with respect to assignments to the National Guard Bureau under [section 10506 of title 10][/us/usc/t10/s10506], United States Code, that occur after the date of the enactment of this Act \[Dec. 19, 2014\].”
 
  __Effective Date of 1999 Amendment; Applicability to Incumbents__ 
 
@@ -98,6 +102,12 @@
 [/us/stat/118/1877]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1877
 [/us/pl/112/81/s511/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs511%2Fc%2F2
 [/us/stat/125/1393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1393
+[/us/pl/113/291/s512/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs512%2Fa
+[/us/stat/128/3358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3358
+[/us/pl/113/291/s512/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs512%2Fa%2F1
+[/us/pl/113/291/s512/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs512%2Fa%2F2
+[/us/pl/113/291/s512/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs512%2Fb
+[/us/pl/113/291/s512/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs512%2Fc
 [/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
 [/us/pl/108/375/s508/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs508%2Fb%2F4
 [/us/pl/108/375/s536/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs536%2Fa
@@ -107,6 +117,9 @@
 [/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
 [/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
 [/us/usc/t10/s12505/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs12505%2Fa%2F2
+[/us/pl/113/291/s512/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs512%2Fd
+[/us/stat/128/3358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3358
+[/us/usc/t10/s10506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs10506
 [/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
 [/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
 [/us/usc/t10/s3038]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs3038

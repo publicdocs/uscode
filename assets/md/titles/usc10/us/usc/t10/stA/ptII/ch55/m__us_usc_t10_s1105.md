@@ -25,7 +25,7 @@
 
     (c)  __Waiver of Nonemergency Health Care Restriction__  __.—__ 
 
-    Under the specialized treatment facility program, the Secretary may waive, with regard to the provision of a particular service, the 40-mile radius restriction set forth in [section 1079(a)(7) of this title][/us/usc/t10/s1079/a/7] if the Secretary determines that the use of a different geographical area restriction will result in a more cost-effective provision of the service.
+    Under the specialized treatment facility program, the Secretary may waive, with regard to the provision of a particular service, the 40-mile radius restriction set forth in [section 1079(a)(6) of this title][/us/usc/t10/s1079/a/6] if the Secretary determines that the use of a different geographical area restriction will result in a more cost-effective provision of the service.
 
     (d)  __Civilian Facility Service Area__  __.—__ 
 
@@ -53,9 +53,11 @@
 
     In this section, the term “covered beneficiary” means a person covered under section 1079 or 1086 of this title.
 
-(Added [Pub. L. 102–190, div. A, title VII, § 715(a)][/us/pl/102/190/s715/a], Dec. 5, 1991, [105 Stat. 1403][/us/stat/105/1403]; amended [Pub. L. 103–160, div. A, title VII, § 716(a)(1)][/us/pl/103/160/s716/a/1], Nov. 30, 1993, [107 Stat. 1691][/us/stat/107/1691]; [Pub. L. 104–106, div. A, title VII, § 706][/us/pl/104/106/s706], Feb. 10, 1996, [110 Stat. 373][/us/stat/110/373].)
+(Added [Pub. L. 102–190, div. A, title VII, § 715(a)][/us/pl/102/190/s715/a], Dec. 5, 1991, [105 Stat. 1403][/us/stat/105/1403]; amended [Pub. L. 103–160, div. A, title VII, § 716(a)(1)][/us/pl/103/160/s716/a/1], Nov. 30, 1993, [107 Stat. 1691][/us/stat/107/1691]; [Pub. L. 104–106, div. A, title VII, § 706][/us/pl/104/106/s706], Feb. 10, 1996, [110 Stat. 373][/us/stat/110/373]; [Pub. L. 113–291, div. A, title VII, § 703(c)(3)][/us/pl/113/291/s703/c/3], Dec. 19, 2014, [128 Stat. 3412][/us/stat/128/3412].)
 
  __Amendments__ 
+
+    2014—Subsec. (c). [Pub. L. 113–291][/us/pl/113/291] substituted “section 1079(a)(6)” for “section 1079(a)(7)”.
 
     1996—Subsec. (h). [Pub. L. 104–106][/us/pl/104/106] struck out subsec. (h) which read as follows: “Expiration of Program.—The Secretary may not carry out the specialized treatment facility program authorized by this section after September 30, 1995.”
 
@@ -68,13 +70,16 @@
 ----------
 ----------
 
-[/us/usc/t10/s1079/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1079%2Fa%2F7
+[/us/usc/t10/s1079/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1079%2Fa%2F6
 [/us/pl/102/190/s715/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs715%2Fa
 [/us/stat/105/1403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1403
 [/us/pl/103/160/s716/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs716%2Fa%2F1
 [/us/stat/107/1691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1691
 [/us/pl/104/106/s706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs706
 [/us/stat/110/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F373
+[/us/pl/113/291/s703/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs703%2Fc%2F3
+[/us/stat/128/3412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3412
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
 [/us/pl/103/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160
 

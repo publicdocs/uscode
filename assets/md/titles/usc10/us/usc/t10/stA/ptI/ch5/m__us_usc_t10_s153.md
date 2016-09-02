@@ -91,7 +91,7 @@
 
              Each National Military Strategy (or update) submitted under this paragraph shall describe how the military will achieve the objectives of the United States as articulated in—
 
-                (i) the most recent National Security Strategy prescribed by the President pursuant to section 108 of the National Security Act of 1947 ([50 U.S.C. 404a][/us/usc/t50/s404a]);  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup> 
+                (i) the most recent National Security Strategy prescribed by the President pursuant to section 108 of the National Security Act of 1947 ([50 U.S.C. 3043][/us/usc/t50/s3043]);
 
                 (ii) the most recent annual report of the Secretary of Defense submitted to the President and Congress pursuant to [section 113 of this title][/us/usc/t10/s113];
 
@@ -199,19 +199,19 @@
 
             (D) A description of the funding proposed in the President’s budget for the next fiscal year, and for the subsequent fiscal years covered by the most recent future-years defense program, to address each deficiency in readiness identified during the joint readiness review conducted under [section 117 of this title][/us/usc/t10/s117] for the first quarter of the current fiscal year.
 
-(Added [Pub. L. 99–433, title II, § 201][/us/pl/99/433/s201], Oct. 1, 1986, [100 Stat. 1007][/us/stat/100/1007]; amended [Pub. L. 106–65, div. A, title X, § 1033][/us/pl/106/65/s1033], Oct. 5, 1999, [113 Stat. 751][/us/stat/113/751]; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title IX, § 905\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–226; [Pub. L. 107–107, div. A, title IX, § 921(b)][/us/pl/107/107/s921/b], Dec. 28, 2001, [115 Stat. 1198][/us/stat/115/1198]; [Pub. L. 107–314, div. A, title X, § 1062(a)(1)][/us/pl/107/314/s1062/a/1], Dec. 2, 2002, [116 Stat. 2649][/us/stat/116/2649]; [Pub. L. 108–136, div. A, title IX, § 903][/us/pl/108/136/s903], title X, § 1043(b)(2), Nov. 24, 2003, [117 Stat. 1558][/us/stat/117/1558], 1610; [Pub. L. 112–81, div. A, title VIII, § 820(b)][/us/pl/112/81/s820/b], title IX, § 941, Dec. 31, 2011, [125 Stat. 1501][/us/stat/125/1501], 1548; [Pub. L. 112–239, div. A, title VIII, § 845(b)][/us/pl/112/239/s845/b], title IX, §§ 951(a), 952, Jan. 2, 2013, [126 Stat. 1848][/us/stat/126/1848], 1891, 1892; [Pub. L. 113–66, div. A, title IX, § 905][/us/pl/113/66/s905], Dec. 26, 2013, [127 Stat. 817][/us/stat/127/817].)
-
- __References in Text__ 
-
-    The National Security Act of 1947, referred to in subsec. (b)(1)(C)(i), is [act July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], [61 Stat. 495][/us/stat/61/495], which was formerly classified principally to chapter 15 (§ 401 et seq.) of Title 50, War and National Defense, prior to editorial reclassification in chapter 44 (§ 3001 et seq.) of Title 50. Section 108 of the Act is now classified to [section 3043 of Title 50][/us/usc/t50/s3043]. For complete classification of this Act to the Code, see Tables.
+(Added [Pub. L. 99–433, title II, § 201][/us/pl/99/433/s201], Oct. 1, 1986, [100 Stat. 1007][/us/stat/100/1007]; amended [Pub. L. 106–65, div. A, title X, § 1033][/us/pl/106/65/s1033], Oct. 5, 1999, [113 Stat. 751][/us/stat/113/751]; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title IX, § 905\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–226; [Pub. L. 107–107, div. A, title IX, § 921(b)][/us/pl/107/107/s921/b], Dec. 28, 2001, [115 Stat. 1198][/us/stat/115/1198]; [Pub. L. 107–314, div. A, title X, § 1062(a)(1)][/us/pl/107/314/s1062/a/1], Dec. 2, 2002, [116 Stat. 2649][/us/stat/116/2649]; [Pub. L. 108–136, div. A, title IX, § 903][/us/pl/108/136/s903], title X, § 1043(b)(2), Nov. 24, 2003, [117 Stat. 1558][/us/stat/117/1558], 1610; [Pub. L. 112–81, div. A, title VIII, § 820(b)][/us/pl/112/81/s820/b], title IX, § 941, Dec. 31, 2011, [125 Stat. 1501][/us/stat/125/1501], 1548; [Pub. L. 112–239, div. A, title VIII, § 845(b)][/us/pl/112/239/s845/b], title IX, §§ 951(a), 952, Jan. 2, 2013, [126 Stat. 1848][/us/stat/126/1848], 1891, 1892; [Pub. L. 113–66, div. A, title IX, § 905][/us/pl/113/66/s905], Dec. 26, 2013, [127 Stat. 817][/us/stat/127/817]; [Pub. L. 113–291, div. A, title X, § 1071(c)(2)][/us/pl/113/291/s1071/c/2], (g)(3), Dec. 19, 2014, [128 Stat. 3508][/us/stat/128/3508], 3511.)
 
  __Amendments__ 
+
+    2014—Subsec. (a)(5). [Pub. L. 113–291, § 1071(g)(3)][/us/pl/113/291/s1071/g/3], amended [Pub. L. 113–66, § 905(b)][/us/pl/113/66/s905/b]. See 2013 Amendment note below.
+
+    Subsec. (b)(1)(C)(i). [Pub. L. 113–291, § 1071(c)(2)][/us/pl/113/291/s1071/c/2], substituted “([50 U.S.C. 3043][/us/usc/t50/s3043])” for “([50 U.S.C. 404a][/us/usc/t50/s404a])”.
 
     2013—Subsec. (a)(3)(F). [Pub. L. 112–239, § 845(b)][/us/pl/112/239/s845/b], added subpar. (F).
 
     Subsec. (a)(4)(F), (G). [Pub. L. 112–239, § 951(a)][/us/pl/112/239/s951/a], added subpars. (F) and (G) and struck out former subpar. (F) which read as follows: “Assessing military requirements for defense acquisition programs.”
 
-    Subsec. (a)(5). [Pub. L. 113–66, § 905(b)][/us/pl/113/66/s905/b], which directed substitution of “Joint force development activities” for “Doctrine, training, and education” in heading, was executed by making the substitution for “Doctrine, Training, and Education” to reflect the probable intent of Congress.
+    Subsec. (a)(5). [Pub. L. 113–66, § 905(b)][/us/pl/113/66/s905/b], as amended by [Pub. L. 113–291, § 1071(g)(3)][/us/pl/113/291/s1071/g/3], which directed substitution of “Joint force development activities” for “Doctrine, Training, and education” in heading, was executed by making the substitution for “Doctrine, Training, and Education” to reflect the probable intent of Congress.
 
     Subsec. (a)(5)(B). [Pub. L. 113–66, § 905(a)(1)][/us/pl/113/66/s905/a/1], inserted “and technical standards, and executing actions,” after “policies”.
 
@@ -263,6 +263,10 @@
 
     1999—Subsecs. (c), (d). [Pub. L. 106–65][/us/pl/106/65] added subsecs. (c) and (d).
 
+ __Effective Date of 2014 Amendment__ 
+
+    [Pub. L. 113–291, div. A, title X, § 1071(g)][/us/pl/113/291/s1071/g], Dec. 19, 2014, [128 Stat. 3511][/us/stat/128/3511], provided that the amendment made by section 1071(g)(3) is effective as of Dec. 26, 2013, and as if included in [Pub. L. 113–66][/us/pl/113/66] as enacted.
+
  __Common Measurement of Operations Tempo and Personnel Tempo__ 
 
 [Pub. L. 105–85, div. A, title III, § 326][/us/pl/105/85/s326], Nov. 18, 1997, [111 Stat. 1679][/us/stat/111/1679], provided that:
@@ -296,7 +300,7 @@
 
 [/us/usc/t10/s163/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs163%2Fb%2F2
 [/us/usc/t10/s166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs166
-[/us/usc/t50/s404a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs404a
+[/us/usc/t50/s3043]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3043
 [/us/usc/t10/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs113
 [/us/usc/t10/s118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs118
 [/us/usc/t10/s221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs221
@@ -322,12 +326,17 @@
 [/us/stat/126/1848]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1848
 [/us/pl/113/66/s905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs905
 [/us/stat/127/817]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F817
-[/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
-[/us/stat/61/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F495
+[/us/pl/113/291/s1071/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Fc%2F2
+[/us/stat/128/3508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3508
+[/us/pl/113/291/s1071/g/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Fg%2F3
+[/us/pl/113/66/s905/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs905%2Fb
+[/us/pl/113/291/s1071/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Fc%2F2
 [/us/usc/t50/s3043]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3043
+[/us/usc/t50/s404a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs404a
 [/us/pl/112/239/s845/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs845%2Fb
 [/us/pl/112/239/s951/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs951%2Fa
 [/us/pl/113/66/s905/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs905%2Fb
+[/us/pl/113/291/s1071/g/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Fg%2F3
 [/us/pl/113/66/s905/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs905%2Fa%2F1
 [/us/pl/113/66/s905/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs905%2Fa%2F2
 [/us/pl/113/66/s905/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs905%2Fa%2F3
@@ -349,6 +358,9 @@
 [/us/usc/t31/s1105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105%2Fa
 [/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
 [/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
+[/us/pl/113/291/s1071/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Fg
+[/us/stat/128/3511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3511
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/pl/105/85/s326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs326
 [/us/stat/111/1679]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1679
 [/us/pl/103/160/s376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs376

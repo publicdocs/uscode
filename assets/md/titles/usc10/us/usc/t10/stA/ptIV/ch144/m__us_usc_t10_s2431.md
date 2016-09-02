@@ -105,6 +105,106 @@
 
     Amendment by [Pub. L. 96–513][/us/pl/96/513] effective Dec. 12, 1980, see [section 701(b)(3) of Pub. L. 96–513][/us/pl/96/513/s701/b/3], set out as a note under [section 101 of this title][/us/usc/t10/s101].
 
+ __Testing and Assessment of Missile Defense Systems Prior to Production and Deployment__ 
+
+[Pub. L. 113–291, div. A, title XVI, § 1662][/us/pl/113/291/s1662], Dec. 19, 2014, [128 Stat. 3657][/us/stat/128/3657], provided that:
+
+>     “(a)  __Sense of Congress__  __.—__ 
+
+>     It is the sense of Congress that—
+
+>         “(1) it is a high priority of the United States that the ballistic missile defense system should work in an operationally effective and cost-effective manner;
+
+>         “(2) prior to making final production decisions for such systems, and prior to the operational deployment of such systems, the United States should conduct operationally realistic intercept flight testing that should create sufficiently challenging operational conditions to establish confidence that such systems will work in an operationally effective and cost-effective manner when needed; and
+
+>         “(3) in order to achieve these objectives, and to avoid post-production and post-deployment problems, it is essential for the Department of Defense to follow a ‘fly before you buy’ approach to adequately test and assess the elements of the ballistic missile defense system before final production decisions or operational deployment.
+
+>     “(b)  __Successful Testing Required Prior to Final Production or Operational Deployment__  __.—__ 
+
+>     The Secretary of Defense may not make a final production decision for, or operationally deploy, a covered system unless—
+
+>         “(1)
+
+>          the Secretary ensures that—
+
+>             “(A) sufficient and operationally realistic testing of the covered system is conducted to assess the performance of the covered system in order to inform a final production decision or an operational deployment decision; and
+
+>             “(B)
+
+>              the results of such testing have demonstrated a high probability that the covered system—
+
+>                 “(i) will work in an operationally effective manner; and
+
+>                 “(ii) has the ability to accomplish the intended mission of the covered system;
+
+>         “(2) the Director of Operational Test and Evaluation has carried out subsection (c) with respect to such covered system; and
+
+>         “(3) the Commander of the United States Strategic Command has carried out subsection (d) with respect to such covered system.
+
+>     “(c)  __Assessment by Director of Operational Test and Evaluation__  __.—__ 
+
+>     The Director of Operational Test and Evaluation shall—
+
+>         “(1) provide to the Secretary the assessment of the Director, based on the available test data, of the sufficiency, adequacy, and results of the testing of each covered system, including an assessment of whether the covered system will be sufficiently effective, suitable, and survivable when needed; and
+
+>         “(2) submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a written summary of such assessment.
+
+>     “(d)  __Assessment by Commander of United States Strategic Command__  __.—__ 
+
+>     The Commander of the United States Strategic Command shall—
+
+>         “(1) provide to the Secretary a military utility assessment of the operational utility of each covered system; and
+
+>         “(2) not later than 30 days after providing such assessment to the Secretary, submit to the congressional defense committees a written summary of such assessment.
+
+>     “(e)  __Rule of Construction__  __.—__ 
+
+>     Nothing in this section shall be construed to alter, modify, or otherwise affect a determination of the Secretary with respect to the participation of the Missile Defense Agency in the Joint Capabilities Integration Development System or the acquisition reporting process under the Department of Defense Directive 5000 series.
+
+>     “(f)  __Covered System__  __.—__ 
+
+>     In this section, the term ‘covered system’ means a new or substantially upgraded interceptor or weapon system of the ballistic missile defense system, other than the re-designed exo-atmospheric kill vehicle covered by the acquisition plan developed under section 1663 \[set out below\].”
+
+ __Acquisition Plan for Re-designed Exo-Atmospheric Kill Vehicle__ 
+
+[Pub. L. 113–291, div. A, title XVI, § 1663][/us/pl/113/291/s1663], Dec. 19, 2014, [128 Stat. 3658][/us/stat/128/3658], provided that:
+
+>     “(a)  __Sense of Congress__  __.—__ 
+
+>     It is the sense of Congress that—
+
+>         “(1) the existing models of the exo-atmospheric kill vehicle of the ground-based midcourse defense system are prototype designs that were developed and deployed without using traditional acquisition practices in order to provide an initial defensive capability for an emerging ballistic missile threat;
+
+>         “(2) consequently, while the deployed models of the exo-atmospheric kill vehicle have demonstrated an initial level of capability against a limited threat, such models do not have the degree of reliability, robustness, cost effectiveness, and performance that are desirable;
+
+>         “(3) the exo-atmospheric kill vehicle for the ground-based midcourse defense system needs to be re-designed to substantially improve the performance and reliability of such kill vehicles; and
+
+>         “(4) the Secretary of Defense should follow a robust and rigorous acquisition plan for the design, development, and testing of the re-designed exo-atmospheric kill vehicle.
+
+>     “(b)  __Acquisition Plan Required__  __.—__ 
+
+>     The Secretary of Defense shall develop an acquisition plan for the re-design of the exo-atmospheric kill vehicle of the ground-based midcourse defense system that includes rigorous elements for system engineering, design, integration, development, testing, and evaluation.
+
+>     “(c)  __Objectives__  __.—__ 
+
+>     The objectives of the acquisition plan under subsection (b) shall be to ensure that the re-designed exo-atmospheric kill vehicle is operationally effective, reliable, producible, cost effective, maintainable, and testable.
+
+>     “(d)  __Approval of Acquisition Plan Required__  __.—__ 
+
+>     The acquisition plan under subsection (b) shall be subject to approval by the Under Secretary of Defense for Acquisition, Technology, and Logistics.
+
+>     “(e)  __Testing Required__  __.—__ 
+
+>     Prior to operational deployment of the re-designed exo-atmospheric kill vehicle, the Secretary shall ensure that the re-designed kill vehicle has demonstrated, through successful, operationally realistic flight testing—
+
+>         “(1) a high probability of working in an operationally effective manner; and
+
+>         “(2) the ability to accomplish the intended mission of the re-designed kill vehicle, including against more complex emerging ballistic missile threats.
+
+>     “(f)  __Report Required__  __.—__ 
+
+>     Not later than 60 days after the date on which the Under Secretary of Defense for Acquisition, Technology, and Logistics approves the acquisition plan under subsection (d), the Director of the Missile Defense Agency shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report describing the acquisition plan and the manner in which the plan will meet the objectives described in subsection (c).”
+
  __Additional Missile Defense Radar for the Protection of the United States Homeland__ 
 
 [Pub. L. 113–66, div. A, title II, § 235][/us/pl/113/66/s235], Dec. 26, 2013, [127 Stat. 714][/us/stat/127/714], provided that:
@@ -1234,6 +1334,10 @@ Similar provisions were contained in the following prior acts:
 [/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
 [/us/pl/96/513/s701/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs701%2Fb%2F3
 [/us/usc/t10/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101
+[/us/pl/113/291/s1662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1662
+[/us/stat/128/3657]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3657
+[/us/pl/113/291/s1663]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1663
+[/us/stat/128/3658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3658
 [/us/pl/113/66/s235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs235
 [/us/stat/127/714]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F714
 [/us/pl/113/66/s237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs237

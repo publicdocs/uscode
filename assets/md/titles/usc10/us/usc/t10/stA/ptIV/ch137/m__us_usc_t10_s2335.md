@@ -45,13 +45,27 @@
 
         (2)  __Political information__  __.—__ 
 
-        The term “political information” means information relating to political spending, including any payment consisting of a contribution, expenditure, independent expenditure, or disbursement for an electioneering communication that is made by the contractor, any of its partners, officers, directors or employees, or any of its affiliates or subsidiaries to a candidate or on behalf of a candidate for election for Federal office, to a political committee, to a political party, to a third party entity with the intention or reasonable expectation that it would use the payment to make independent expenditures or electioneering communications, or that is otherwise made with respect to any election for Federal office, party affiliation, and voting history. Each of the terms “contribution”, “expenditure”, “independent expenditure”, “candidate”, “election”, “electioneering communication”, and “Federal office” has the meaning given the term in the Federal Campaign  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be preceded by “Election”. </sup></sup>  Act of 1971 ([2 U.S.C. 431][/us/usc/t2/s431] et seq.).1
+        The term “political information” means information relating to political spending, including any payment consisting of a contribution, expenditure, independent expenditure, or disbursement for an electioneering communication that is made by the contractor, any of its partners, officers, directors or employees, or any of its affiliates or subsidiaries to a candidate or on behalf of a candidate for election for Federal office, to a political committee, to a political party, to a third party entity with the intention or reasonable expectation that it would use the payment to make independent expenditures or electioneering communications, or that is otherwise made with respect to any election for Federal office, party affiliation, and voting history.
 
-(Added [Pub. L. 112–81, div. A, title VIII, § 823(a)][/us/pl/112/81/s823/a], Dec. 31, 2011, [125 Stat. 1502][/us/stat/125/1502].)
+        (3)  __Other terms__  __.—__ 
+
+        Each of the terms “contribution”, “expenditure”, “independent expenditure”, “candidate”, “election”, “electioneering communication”, and “Federal office” has the meaning given that term in the Federal Election Campaign Act of 1971 ([2 U.S.C. 431][/us/usc/t2/s431] et seq.).1
+
+(Added [Pub. L. 112–81, div. A, title VIII, § 823(a)][/us/pl/112/81/s823/a], Dec. 31, 2011, [125 Stat. 1502][/us/stat/125/1502]; amended [Pub. L. 113–291, div. A, title X, § 1071(f)(17)][/us/pl/113/291/s1071/f/17], Dec. 19, 2014, [128 Stat. 3511][/us/stat/128/3511].)
 
  __References in Text__ 
 
-    The Federal Election Campaign Act of 1971, referred to in subsecs. (c)(1) and (d)(2), is [Pub. L. 92–225][/us/pl/92/225], Feb. 7, 1972, [86 Stat. 3][/us/stat/86/3], which was formerly classified principally to chapter 14 (§ 431 et seq.) of Title 2, The Congress, prior to editorial reclassification and renumbering in Title 52, Voting and Elections, and is now classified principally to chapter 301 (§ 30101 et seq.) of Title 52. For complete classification of this Act to the Code, see Tables.
+    The Federal Election Campaign Act of 1971, referred to in subsecs. (c)(1) and (d)(3), is [Pub. L. 92–225][/us/pl/92/225], Feb. 7, 1972, [86 Stat. 3][/us/stat/86/3], which was formerly classified principally to chapter 14 (§ 431 et seq.) of Title 2, The Congress, prior to editorial reclassification and renumbering in Title 52, Voting and Elections, and is now classified principally to chapter 301 (§ 30101 et seq.) of Title 52. For complete classification of this Act to the Code, see Tables.
+
+ __Amendments__ 
+
+    2014—Subsec. (d)(2). [Pub. L. 113–291, § 1071(f)(17)(A)][/us/pl/113/291/s1071/f/17/A], redesignated last sentence as par. (3).
+
+    Subsec. (d)(3). [Pub. L. 113–291, § 1071(f)(17)(B)(ii)][/us/pl/113/291/s1071/f/17/B/ii], (iii), substituted “that term” for “the term” and “Federal Election Campaign” for “Federal Campaign”.
+
+    [Pub. L. 113–291, § 1071(f)(17)(B)(i)][/us/pl/113/291/s1071/f/17/B/i], which directed amendment of par. (3) by inserting “Other terms.—” before “each of”, was executed by making the insertion before “Each of” to reflect the probable intent of Congress.
+
+    [Pub. L. 113–291, § 1071(f)(17)(A)][/us/pl/113/291/s1071/f/17/A], redesignated last sentence of par. (2) as (3).
 
 ----------
 
@@ -65,7 +79,13 @@
 [/us/usc/t2/s431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs431
 [/us/pl/112/81/s823/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs823%2Fa
 [/us/stat/125/1502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1502
+[/us/pl/113/291/s1071/f/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Ff%2F17
+[/us/stat/128/3511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3511
 [/us/pl/92/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F225
 [/us/stat/86/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F3
+[/us/pl/113/291/s1071/f/17/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Ff%2F17%2FA
+[/us/pl/113/291/s1071/f/17/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Ff%2F17%2FB%2Fii
+[/us/pl/113/291/s1071/f/17/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Ff%2F17%2FB%2Fi
+[/us/pl/113/291/s1071/f/17/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Ff%2F17%2FA
 
 

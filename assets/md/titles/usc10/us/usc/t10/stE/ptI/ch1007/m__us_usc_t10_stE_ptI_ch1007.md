@@ -27,7 +27,7 @@
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs10201" data-uslm-ref="/us/usc/t10/s10201">10201.</a>  </td>
 
-    <td> Assistant Secretary of Defense for Reserve Affairs.  </td>
+    <td> Assistant Secretary of Defense for Manpower and Reserve Affairs.  </td>
 
   </tr>
 
@@ -179,6 +179,8 @@
 
  __Amendments__ 
 
+    2014—[Pub. L. 113–291, div. A, title IX, § 902(b)(2)][/us/pl/113/291/s902/b/2], Dec. 19, 2014, [128 Stat. 3470][/us/stat/128/3470], added item 10201 and struck out former item 10201 “Assistant Secretary of Defense for Reserve Affairs”.
+
     2013—[Pub. L. 112–239, div. A, title V, § 581(a)(2)][/us/pl/112/239/s581/a/2], Jan. 2, 2013, [126 Stat. 1765][/us/stat/126/1765], added item 10219.
 
     2006—[Pub. L. 109–163, div. A, title VII, § 732(c)][/us/pl/109/163/s732/c], Jan. 6, 2006, [119 Stat. 3352][/us/stat/119/3352], struck out “periodic” before “physical” in item 10206.
@@ -196,6 +198,8 @@
 ----------
 ----------
 
+[/us/pl/113/291/s902/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs902%2Fb%2F2
+[/us/stat/128/3470]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3470
 [/us/pl/112/239/s581/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs581%2Fa%2F2
 [/us/stat/126/1765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1765
 [/us/pl/109/163/s732/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs732%2Fc

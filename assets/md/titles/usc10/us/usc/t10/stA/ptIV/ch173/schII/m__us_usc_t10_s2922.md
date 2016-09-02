@@ -151,6 +151,26 @@ In subsection (c), the words “A contract under this section” are substituted
 
     Amendment by [Pub. L. 97–214][/us/pl/97/214] effective Oct. 1, 1982, and applicable to military construction projects, and to construction and acquisition of military family housing authorized before, on, or after such date, see [section 12(a) of Pub. L. 97–214][/us/pl/97/214/s12/a], set out as an Effective Date note under [section 2801 of this title][/us/usc/t10/s2801].
 
+ __Notice of Purchase of Drop-in Fuel__ 
+
+[Pub. L. 113–291, div. A, title III, § 316(c)][/us/pl/113/291/s316/c], (d), Dec. 19, 2014, [128 Stat. 3339][/us/stat/128/3339], 3340, provided that:
+
+>     “(c)  __Notice of Purchase Required__  __.—__ 
+
+>     If the Secretary of Defense intends to purchase a drop-in fuel intended for operational use with a fully burdened cost in excess of 10 percent more than the fully burdened cost of a traditional fuel available for the same purpose, the Secretary shall provide notice of such intended purchase to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] by not later than 30 days before the date on which such purchase is intended to be made.
+
+>     “(d)  __Definitions__  __.—__ 
+
+>     In this section \[this note\]:
+
+>         “(1) The term ‘drop-in fuel’ means a neat or blended liquid hydrocarbon fuel designed as a direct replacement for a traditional fuel with comparable performance characteristics and compatible with existing infrastructure and equipment.
+
+>         “(2) The term ‘traditional fuel’ means a liquid hydrocarbon fuel derived or refined from petroleum.
+
+>         “(3) The term ‘operational purposes’ means for the purposes of conducting military operations, including training, exercises, large scale demonstrations, and moving and sustaining military forces and military platforms. The term does not include research, development, testing, evaluation, fuel certification, or other demonstrations.
+
+>         “(4) The term ‘fully burdened cost’ means the commodity price of the fuel plus the total cost of all personnel and assets required to move and, when necessary, protect the fuel from the point at which the fuel is received from the commercial supplier to the point of use.”
+
  __Purchases of Gasohol as Fuel for Motor Vehicles__ 
 
     [Pub. L. 96–107, title VIII, § 815][/us/pl/96/107/s815], Nov. 9, 1979, [93 Stat. 817][/us/stat/93/817], which had authorized the Secretary of Defense to buy domestically produced alcohol and gasohol for use as fuel in Department of Defense motor vehicles, was repealed and reenacted as section 2398 (now 2922c) of this title by [Pub. L. 97–295][/us/pl/97/295], §§ 1(29)(A), 6(b), Oct. 12, 1982, [96 Stat. 1293][/us/stat/96/1293], 1315.
@@ -204,6 +224,8 @@ In subsection (c), the words “A contract under this section” are substituted
 [/us/pl/97/214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F214
 [/us/pl/97/214/s12/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F214%2Fs12%2Fa
 [/us/usc/t10/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2801
+[/us/pl/113/291/s316/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs316%2Fc
+[/us/stat/128/3339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3339
 [/us/pl/96/107/s815]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F107%2Fs815
 [/us/stat/93/817]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F817
 [/us/pl/97/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295

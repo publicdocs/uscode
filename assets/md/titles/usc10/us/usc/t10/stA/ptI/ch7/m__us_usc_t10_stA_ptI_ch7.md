@@ -153,9 +153,9 @@
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs186" data-uslm-ref="/us/usc/t10/s186">186.</a>  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs186" data-uslm-ref="/us/usc/t10/s186">186.</a>  </td>
 
-    <td> Defense Business System Management Committee.  </td>
+    <td> Repealed.]  </td>
 
   </tr>
 
@@ -179,13 +179,15 @@
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs189" data-uslm-ref="/us/usc/t10/s189">189.</a>  </td>
 
-    <td> Communications Security Review and Advisory Board  <sup>[1]</sup>  <sup><sup> 1 So in original. Probably should be followed by a period. </sup></sup>   </td>
+    <td> Communications Security Review and Advisory Board.  </td>
 
   </tr>
 
 </table>
 
  __Amendments__ 
+
+    2014—[Pub. L. 113–291, div. A, title IX, § 901][/us/pl/113/291/s901](l)(2), title X, § 1071(f)(3), Dec. 19, 2014, [128 Stat. 3468][/us/stat/128/3468], 3510, struck out item 186 “Defense Business System Management Committee” and inserted period at end of item 189.
 
     2013—[Pub. L. 113–66, div. A, title II, § 261(b)][/us/pl/113/66/s261/b], title X, § 1052(a)(2), Dec. 26, 2013, [127 Stat. 725][/us/stat/127/725], 861, added items 171a and 189.
 
@@ -226,6 +228,8 @@
 ----------
 ----------
 
+[/us/pl/113/291/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs901
+[/us/stat/128/3468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3468
 [/us/pl/113/66/s261/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs261%2Fb
 [/us/stat/127/725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F725
 [/us/pl/112/239/s1040/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1040%2Fb

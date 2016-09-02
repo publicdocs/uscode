@@ -19,7 +19,7 @@
 
         (1) The Secretary of Defense may provide to civilian personnel described in subsection (d) allowances and benefits comparable to those provided by the Secretary of State to officers and employees of the Foreign Service under paragraphs (2), (3), (4), (5), (6), (7), (8), and (13) of section 901 and sections 705 and 903 of the Foreign Service Act of 1980 ([22 U.S.C. 4081(2)][/us/usc/t22/s4081/2], (3), (4), (5), (6), (7), (8), and (13), 4025, 4083) and under [section 5924(4) of title 5][/us/usc/t5/s5924/4].
 
-        (2) The Secretary may also provide to any such civilian personnel special retirement accrual benefits in the same manner provided for certain officers and employees of the Central Intelligence Agency in section 303 of the Central Intelligence Agency Retirement Act ([50 U.S.C. 2153][/us/usc/t50/s2153]) and in section 18 of the Central Intelligence Agency Act of 1949 ([50 U.S.C. 403r][/us/usc/t50/s403r]). <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup> 
+        (2) The Secretary may also provide to any such civilian personnel special retirement accrual benefits in the same manner provided for certain officers and employees of the Central Intelligence Agency in section 303 of the Central Intelligence Agency Retirement Act ([50 U.S.C. 2153][/us/usc/t50/s2153]) and in section 18 of the Central Intelligence Agency Act of 1949 ([50 U.S.C. 3518][/us/usc/t50/s3518]).
 
     (b) The authority of the Secretary of Defense to make payments under subsection (a) is effective for any fiscal year only to the extent that appropriated funds are available for such purpose.
 
@@ -41,13 +41,11 @@
 
         (3) are designated by the Secretary of Defense for the purposes of subsection (a).
 
-(Added [Pub. L. 98–215, title V, § 501(a)][/us/pl/98/215/s501/a], Dec. 9, 1983, [97 Stat. 1478][/us/stat/97/1478], § 192; renumbered § 1605 and amended [Pub. L. 99–145, title XIII, § 1302(a)(1)][/us/pl/99/145/s1302/a/1], Nov. 8, 1985, [99 Stat. 737][/us/stat/99/737]; [Pub. L. 99–335, title V, § 507(b)][/us/pl/99/335/s507/b], June 6, 1986, [100 Stat. 628][/us/stat/100/628]; [Pub. L. 99–569, title V, § 501][/us/pl/99/569/s501], Oct. 27, 1986, [100 Stat. 3198][/us/stat/100/3198]; [Pub. L. 101–193, title V, § 505(a)][/us/pl/101/193/s505/a], Nov. 30, 1989, [103 Stat. 1709][/us/stat/103/1709]; [Pub. L. 102–496, title VIII, § 803(d)][/us/pl/102/496/s803/d], Oct. 24, 1992, [106 Stat. 3253][/us/stat/106/3253]; [Pub. L. 103–160, div. A, title XI, § 1182(a)(3)][/us/pl/103/160/s1182/a/3], Nov. 30, 1993, [107 Stat. 1771][/us/stat/107/1771]; [Pub. L. 104–93, title V, § 502(a)][/us/pl/104/93/s502/a], Jan. 6, 1996, [109 Stat. 972][/us/stat/109/972]; [Pub. L. 104–201, div. A, title XVI, § 1633(c)(1)][/us/pl/104/201/s1633/c/1], Sept. 23, 1996, [110 Stat. 2751][/us/stat/110/2751]; [Pub. L. 106–65, div. A, title X, § 1067(1)][/us/pl/106/65/s1067/1], Oct. 5, 1999, [113 Stat. 774][/us/stat/113/774].)
-
- __References in Text__ 
-
-    The Central Intelligence Agency Act of 1949, referred to in subsec. (a)(2), is [act June 20, 1949, ch. 227][/us/act/1949-06-20/ch227], [63 Stat. 208][/us/stat/63/208], which was formerly classified generally to section 403a et seq. of Title 50, War and National Defense, prior to editorial reclassification in Title 50, and is now classified generally to chapter 46 (§ 3501 et seq.) of Title 50. Section 18 of the Act is now classified to [section 3518 of Title 50][/us/usc/t50/s3518]. For complete classification of this Act to the Code, see Tables.
+(Added [Pub. L. 98–215, title V, § 501(a)][/us/pl/98/215/s501/a], Dec. 9, 1983, [97 Stat. 1478][/us/stat/97/1478], § 192; renumbered § 1605 and amended [Pub. L. 99–145, title XIII, § 1302(a)(1)][/us/pl/99/145/s1302/a/1], Nov. 8, 1985, [99 Stat. 737][/us/stat/99/737]; [Pub. L. 99–335, title V, § 507(b)][/us/pl/99/335/s507/b], June 6, 1986, [100 Stat. 628][/us/stat/100/628]; [Pub. L. 99–569, title V, § 501][/us/pl/99/569/s501], Oct. 27, 1986, [100 Stat. 3198][/us/stat/100/3198]; [Pub. L. 101–193, title V, § 505(a)][/us/pl/101/193/s505/a], Nov. 30, 1989, [103 Stat. 1709][/us/stat/103/1709]; [Pub. L. 102–496, title VIII, § 803(d)][/us/pl/102/496/s803/d], Oct. 24, 1992, [106 Stat. 3253][/us/stat/106/3253]; [Pub. L. 103–160, div. A, title XI, § 1182(a)(3)][/us/pl/103/160/s1182/a/3], Nov. 30, 1993, [107 Stat. 1771][/us/stat/107/1771]; [Pub. L. 104–93, title V, § 502(a)][/us/pl/104/93/s502/a], Jan. 6, 1996, [109 Stat. 972][/us/stat/109/972]; [Pub. L. 104–201, div. A, title XVI, § 1633(c)(1)][/us/pl/104/201/s1633/c/1], Sept. 23, 1996, [110 Stat. 2751][/us/stat/110/2751]; [Pub. L. 106–65, div. A, title X, § 1067(1)][/us/pl/106/65/s1067/1], Oct. 5, 1999, [113 Stat. 774][/us/stat/113/774]; [Pub. L. 113–291, div. A, title X, § 1071(c)(11)][/us/pl/113/291/s1071/c/11], Dec. 19, 2014, [128 Stat. 3509][/us/stat/128/3509].)
 
  __Amendments__ 
+
+    2014—Subsec. (a)(2). [Pub. L. 113–291][/us/pl/113/291] substituted “([50 U.S.C. 3518][/us/usc/t50/s3518])” for “([50 U.S.C. 403r][/us/usc/t50/s403r])”.
 
     1999—Subsec. (c)(2). [Pub. L. 106–65][/us/pl/106/65] substituted “Committee on Armed Services” for “Committee on National Security”.
 
@@ -97,7 +95,7 @@
 [/us/usc/t22/s4081/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4081%2F2
 [/us/usc/t5/s5924/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5924%2F4
 [/us/usc/t50/s2153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2153
-[/us/usc/t50/s403r]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs403r
+[/us/usc/t50/s3518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3518
 [/us/pl/98/215/s501/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F215%2Fs501%2Fa
 [/us/stat/97/1478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1478
 [/us/pl/99/145/s1302/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs1302%2Fa%2F1
@@ -118,9 +116,11 @@
 [/us/stat/110/2751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2751
 [/us/pl/106/65/s1067/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs1067%2F1
 [/us/stat/113/774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F774
-[/us/act/1949-06-20/ch227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-06-20%2Fch227
-[/us/stat/63/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F208
+[/us/pl/113/291/s1071/c/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Fc%2F11
+[/us/stat/128/3509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3509
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/usc/t50/s3518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3518
+[/us/usc/t50/s403r]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs403r
 [/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
 [/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
 [/us/pl/104/93/s502/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F93%2Fs502%2Fa%2F1

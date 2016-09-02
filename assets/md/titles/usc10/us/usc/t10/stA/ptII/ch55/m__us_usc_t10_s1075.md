@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stA/ptII/ch55/m__us_usc_t10_s1074m.md) | [Next](./../../../../../..//us/usc/t10/stA/ptII/ch55/m__us_usc_t10_s1076.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1075)
+[Previous](./../../../../../..//us/usc/t10/stA/ptII/ch55/m__us_usc_t10_s1074n.md) | [Next](./../../../../../..//us/usc/t10/stA/ptII/ch55/m__us_usc_t10_s1076.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1075)
 
 ## \[§ 1075. Repealed. [Pub. L. 108–375, div. A, title VI, § 607(a)(1)][/us/pl/108/375/s607/a/1], Oct. 28, 2004, [118 Stat. 1946][/us/stat/118/1946]\]
 
@@ -21,7 +21,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stA/ptII/ch55/m__us_usc_t10_s1074m.md) | [Next](./../../../../../..//us/usc/t10/stA/ptII/ch55/m__us_usc_t10_s1076.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1075)
+[Previous](./../../../../../..//us/usc/t10/stA/ptII/ch55/m__us_usc_t10_s1074n.md) | [Next](./../../../../../..//us/usc/t10/stA/ptII/ch55/m__us_usc_t10_s1076.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1075)
 
 ----------
 ----------

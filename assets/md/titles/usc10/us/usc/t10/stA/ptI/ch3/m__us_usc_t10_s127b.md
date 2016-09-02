@@ -45,7 +45,7 @@
 
             (B) The Secretary of Defense shall prescribe policies and procedures for making rewards in the manner described in subparagraph (A), which shall include guidance for the accountability of funds used for making rewards in that manner. The policies and procedures shall not take effect until 30 days after the date on which the Secretary submits the policies and procedures to the congressional defense committees. Rewards may not be made in the manner described in subparagraph (A) except under policies and procedures that have taken effect.
 
-            (C) Rewards may not be made in the manner described in subparagraph (A) after September 30, 2014.
+            (C) Rewards may not be made in the manner described in subparagraph (A) after September 30, 2015.
 
             (D)
 
@@ -109,9 +109,11 @@
 
     A determination by the Secretary under this section is final and conclusive and is not subject to judicial review.
 
-(Added [Pub. L. 107–314, div. A, title X, § 1065(a)][/us/pl/107/314/s1065/a], Dec. 2, 2002, [116 Stat. 2655][/us/stat/116/2655]; amended [Pub. L. 109–163, div. A, title X, § 1056(c)(2)][/us/pl/109/163/s1056/c/2], Jan. 6, 2006, [119 Stat. 3439][/us/stat/119/3439]; [Pub. L. 109–364, div. A, title XIV, § 1401][/us/pl/109/364/s1401], Oct. 17, 2006, [120 Stat. 2433][/us/stat/120/2433]; [Pub. L. 110–181, div. A, title X, § 1033][/us/pl/110/181/s1033], Jan. 28, 2008, [122 Stat. 307][/us/stat/122/307]; [Pub. L. 111–84, div. A, title X, § 1071][/us/pl/111/84/s1071], Oct. 28, 2009, [123 Stat. 2470][/us/stat/123/2470]; [Pub. L. 111–383, div. A, title X, § 1031][/us/pl/111/383/s1031], Jan. 7, 2011, [124 Stat. 4351][/us/stat/124/4351]; [Pub. L. 112–81, div. A, title X][/us/pl/112/81], §§ 1033, 1064(3), Dec. 31, 2011, [125 Stat. 1572][/us/stat/125/1572], 1587; [Pub. L. 112–239, div. A, title X, § 1021(a)][/us/pl/112/239/s1021/a], Jan. 2, 2013, [126 Stat. 1911][/us/stat/126/1911].)
+(Added [Pub. L. 107–314, div. A, title X, § 1065(a)][/us/pl/107/314/s1065/a], Dec. 2, 2002, [116 Stat. 2655][/us/stat/116/2655]; amended [Pub. L. 109–163, div. A, title X, § 1056(c)(2)][/us/pl/109/163/s1056/c/2], Jan. 6, 2006, [119 Stat. 3439][/us/stat/119/3439]; [Pub. L. 109–364, div. A, title XIV, § 1401][/us/pl/109/364/s1401], Oct. 17, 2006, [120 Stat. 2433][/us/stat/120/2433]; [Pub. L. 110–181, div. A, title X, § 1033][/us/pl/110/181/s1033], Jan. 28, 2008, [122 Stat. 307][/us/stat/122/307]; [Pub. L. 111–84, div. A, title X, § 1071][/us/pl/111/84/s1071], Oct. 28, 2009, [123 Stat. 2470][/us/stat/123/2470]; [Pub. L. 111–383, div. A, title X, § 1031][/us/pl/111/383/s1031], Jan. 7, 2011, [124 Stat. 4351][/us/stat/124/4351]; [Pub. L. 112–81, div. A, title X][/us/pl/112/81], §§ 1033, 1064(3), Dec. 31, 2011, [125 Stat. 1572][/us/stat/125/1572], 1587; [Pub. L. 112–239, div. A, title X, § 1021(a)][/us/pl/112/239/s1021/a], Jan. 2, 2013, [126 Stat. 1911][/us/stat/126/1911]; [Pub. L. 113–291, div. A, title X, § 1031][/us/pl/113/291/s1031], Dec. 19, 2014, [128 Stat. 3491][/us/stat/128/3491].)
 
  __Amendments__ 
+
+    2014—Subsec. (c)(3)(C). [Pub. L. 113–291][/us/pl/113/291] substituted “September 30, 2015” for “September 30, 2014”.
 
     2013—Subsec. (c)(3)(C). [Pub. L. 112–239][/us/pl/112/239] substituted “September 30, 2014” for “September 30, 2013”.
 
@@ -172,6 +174,9 @@
 [/us/stat/125/1572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1572
 [/us/pl/112/239/s1021/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1021%2Fa
 [/us/stat/126/1911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1911
+[/us/pl/113/291/s1031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1031
+[/us/stat/128/3491]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3491
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/pl/112/81/s1033/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1033%2F1
 [/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383

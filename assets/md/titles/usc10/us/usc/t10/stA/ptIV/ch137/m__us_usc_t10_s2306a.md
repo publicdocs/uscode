@@ -105,7 +105,7 @@
 
             (A) The exception in paragraph (1)(B) does not apply to cost or pricing data on noncommercial modifications of a commercial item that are expected to cost, in the aggregate, more than the amount specified in subsection (a)(1)(A)(i), as adjusted from time to time under subsection (a)(7), or 5 percent of the total price of the contract (at the time of contract award), whichever is greater.
 
-            (B) In this paragraph, the term “noncommercial modification”, with respect to a commercial item, means a modification of such item that is not a modification described in section 4(12)(C)(i)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of the Office of Federal Procurement Policy Act ([41 U.S.C. 403(12)(C)(i)][/us/usc/t41/s403/12/C/i]).
+            (B) In this paragraph, the term “noncommercial modification”, with respect to a commercial item, means a modification of such item that is not a modification described in [section 103(3)(A) of title 41][/us/usc/t41/s103/3/A].
 
             (C)
 
@@ -229,11 +229,9 @@
 
         The term “commercial item” has the meaning provided such term in [section 103 of title 41][/us/usc/t41/s103].
 
-(Added [Pub. L. 99–500, § 101(c)][/us/pl/99/500/s101/c] \[title X, § 952(a)\], Oct. 18, 1986, [100 Stat. 1783–82][/us/stat/100/1783-82], 1783–166, and [Pub. L. 99–591, § 101(c)][/us/pl/99/591/s101/c] \[title X, § 952(a)\], Oct. 30, 1986, [100 Stat. 3341–82][/us/stat/100/3341-82], 3341–166; [Pub. L. 99–661, div. A, title IX][/us/pl/99/661], formerly title IV, § 952(a), Nov. 14, 1986, [100 Stat. 3945][/us/stat/100/3945], renumbered title IX, [Pub. L. 100–26, § 3(5)][/us/pl/100/26/s3/5], Apr. 21, 1987, [101 Stat. 273][/us/stat/101/273]; amended [Pub. L. 100–180, div. A, title VIII, § 804(a)][/us/pl/100/180/s804/a], (b), Dec. 4, 1987, [101 Stat. 1125][/us/stat/101/1125]; [Pub. L. 101–510, div. A, title VIII, § 803(a)(1)][/us/pl/101/510/s803/a/1], (d), Nov. 5, 1990, [104 Stat. 1589][/us/stat/104/1589], 1590; [Pub. L. 102–25, title VII, § 701(b)][/us/pl/102/25/s701/b], (f)(8), Apr. 6, 1991, [105 Stat. 113][/us/stat/105/113], 115; [Pub. L. 102–190, div. A, title VIII, § 804(a)][/us/pl/102/190/s804/a]–(c)(1), title X, § 1061(a)(9), Dec. 5, 1991, [105 Stat. 1415][/us/stat/105/1415], 1416, 1472; [Pub. L. 103–355, title I][/us/pl/103/355], §§ 1201–1209, Oct. 13, 1994, [108 Stat. 3273–3277][/us/stat/108/3273-3277]; [Pub. L. 104–106, div. D, title XLII, § 4201(a)][/us/pl/104/106/s4201/a], title XLIII, § 4321(a)(2), (b)(7), Feb. 10, 1996, [110 Stat. 649][/us/stat/110/649], 671, 672; [Pub. L. 104–201, div. A, title X, § 1074(a)(12)][/us/pl/104/201/s1074/a/12], Sept. 23, 1996, [110 Stat. 2659][/us/stat/110/2659]; [Pub. L. 105–85, div. A, title X, § 1073(a)(46)][/us/pl/105/85/s1073/a/46], Nov. 18, 1997, [111 Stat. 1902][/us/stat/111/1902]; [Pub. L. 105–261, div. A, title VIII][/us/pl/105/261], §§ 805(a), 808(a), Oct. 17, 1998, [112 Stat. 2083][/us/stat/112/2083], 2085; [Pub. L. 108–375, div. A, title VIII, § 818(a)][/us/pl/108/375/s818/a], Oct. 28, 2004, [118 Stat. 2015][/us/stat/118/2015]; [Pub. L. 110–181, div. A, title VIII, § 814][/us/pl/110/181/s814], Jan. 28, 2008, [122 Stat. 222][/us/stat/122/222]; [Pub. L. 111–350, § 5(b)(15)][/us/pl/111/350/s5/b/15], Jan. 4, 2011, [124 Stat. 3843][/us/stat/124/3843].)
+(Added [Pub. L. 99–500, § 101(c)][/us/pl/99/500/s101/c] \[title X, § 952(a)\], Oct. 18, 1986, [100 Stat. 1783–82][/us/stat/100/1783-82], 1783–166, and [Pub. L. 99–591, § 101(c)][/us/pl/99/591/s101/c] \[title X, § 952(a)\], Oct. 30, 1986, [100 Stat. 3341–82][/us/stat/100/3341-82], 3341–166; [Pub. L. 99–661, div. A, title IX][/us/pl/99/661], formerly title IV, § 952(a), Nov. 14, 1986, [100 Stat. 3945][/us/stat/100/3945], renumbered title IX, [Pub. L. 100–26, § 3(5)][/us/pl/100/26/s3/5], Apr. 21, 1987, [101 Stat. 273][/us/stat/101/273]; amended [Pub. L. 100–180, div. A, title VIII, § 804(a)][/us/pl/100/180/s804/a], (b), Dec. 4, 1987, [101 Stat. 1125][/us/stat/101/1125]; [Pub. L. 101–510, div. A, title VIII, § 803(a)(1)][/us/pl/101/510/s803/a/1], (d), Nov. 5, 1990, [104 Stat. 1589][/us/stat/104/1589], 1590; [Pub. L. 102–25, title VII, § 701(b)][/us/pl/102/25/s701/b], (f)(8), Apr. 6, 1991, [105 Stat. 113][/us/stat/105/113], 115; [Pub. L. 102–190, div. A, title VIII, § 804(a)][/us/pl/102/190/s804/a]–(c)(1), title X, § 1061(a)(9), Dec. 5, 1991, [105 Stat. 1415][/us/stat/105/1415], 1416, 1472; [Pub. L. 103–355, title I][/us/pl/103/355], §§ 1201–1209, Oct. 13, 1994, [108 Stat. 3273–3277][/us/stat/108/3273-3277]; [Pub. L. 104–106, div. D, title XLII, § 4201(a)][/us/pl/104/106/s4201/a], title XLIII, § 4321(a)(2), (b)(7), Feb. 10, 1996, [110 Stat. 649][/us/stat/110/649], 671, 672; [Pub. L. 104–201, div. A, title X, § 1074(a)(12)][/us/pl/104/201/s1074/a/12], Sept. 23, 1996, [110 Stat. 2659][/us/stat/110/2659]; [Pub. L. 105–85, div. A, title X, § 1073(a)(46)][/us/pl/105/85/s1073/a/46], Nov. 18, 1997, [111 Stat. 1902][/us/stat/111/1902]; [Pub. L. 105–261, div. A, title VIII][/us/pl/105/261], §§ 805(a), 808(a), Oct. 17, 1998, [112 Stat. 2083][/us/stat/112/2083], 2085; [Pub. L. 108–375, div. A, title VIII, § 818(a)][/us/pl/108/375/s818/a], Oct. 28, 2004, [118 Stat. 2015][/us/stat/118/2015]; [Pub. L. 110–181, div. A, title VIII, § 814][/us/pl/110/181/s814], Jan. 28, 2008, [122 Stat. 222][/us/stat/122/222]; [Pub. L. 111–350, § 5(b)(15)][/us/pl/111/350/s5/b/15], Jan. 4, 2011, [124 Stat. 3843][/us/stat/124/3843]; [Pub. L. 113–291, div. A, title X, § 1071(a)(3)][/us/pl/113/291/s1071/a/3], Dec. 19, 2014, [128 Stat. 3504][/us/stat/128/3504].)
 
  __References in Text__ 
-
-    Section 4(12)(C)(i) of the Office of Federal Procurement Policy Act, referred to in subsec. (b)(3)(B), means [section 4(12)(C)(i) of Pub. L. 93–400][/us/pl/93/400/s4/12/C/i], which was classified to section 403(12)(C)(i) of former Title 41, Public Contracts, and was repealed and restated as [section 103(3)(A) of Title 41][/us/usc/t41/s103/3/A], Public Contracts, by [Pub. L. 111–350][/us/pl/111/350], §§ 3, 7(b), Jan. 4, 2011, [124 Stat. 3677][/us/stat/124/3677], 3855.
 
     Section 6621 of the Internal Revenue Code of 1986, referred to in subsec. (f)(1)(A)(ii), is classified to [section 6621 of Title 26][/us/usc/t26/s6621], Internal Revenue Code.
 
@@ -244,6 +242,8 @@
     [Pub. L. 99–500][/us/pl/99/500], [Pub. L. 99–591][/us/pl/99/591], and [Pub. L. 99–661][/us/pl/99/661] added identical sections.
 
  __Amendments__ 
+
+    2014—Subsec. (b)(3)(B). [Pub. L. 113–291][/us/pl/113/291] substituted “[section 103(3)(A) of title 41][/us/usc/t41/s103/3/A]” for “section 4(12)(C)(i) of the Office of Federal Procurement Policy Act ([41 U.S.C. 403(12)(C)(i)][/us/usc/t41/s403/12/C/i])”.
 
     2011—Subsec. (h)(3). [Pub. L. 111–350][/us/pl/111/350] substituted “[section 103 of title 41][/us/usc/t41/s103]” for “section 4(12) of the Office of Federal Procurement Policy Act ([41 U.S.C. 403(12)][/us/usc/t41/s403/12])”.
 
@@ -513,7 +513,7 @@
 
  __Grants of Exceptions to Cost or Pricing Data Certification Requirements and Waivers of Cost Accounting Standards__ 
 
-[Pub. L. 107–314, div. A, title VIII, § 817][/us/pl/107/314/s817], Dec. 2, 2002, [116 Stat. 2610][/us/stat/116/2610], as amended by [Pub. L. 112–81, div. A, title VIII, § 809(a)][/us/pl/112/81/s809/a], Dec. 31, 2011, [125 Stat. 1490][/us/stat/125/1490], provided that:
+[Pub. L. 107–314, div. A, title VIII, § 817][/us/pl/107/314/s817], Dec. 2, 2002, [116 Stat. 2610][/us/stat/116/2610], as amended by [Pub. L. 112–81, div. A, title VIII, § 809(a)][/us/pl/112/81/s809/a], Dec. 31, 2011, [125 Stat. 1490][/us/stat/125/1490]; [Pub. L. 113–291, div. A, title X, § 1071(b)(7)][/us/pl/113/291/s1071/b/7], Dec. 19, 2014, [128 Stat. 3507][/us/stat/128/3507], provided that:
 
 >     “(a)  __Guidance for Exceptions in Exceptional Circumstances__  __.—__ 
 
@@ -557,13 +557,13 @@
 
 >             “(A) An exception pursuant to [section 2306a(b)(1)(C) of title 10][/us/usc/t10/s2306a/b/1/C], United States Code, relating to submission of certified cost and pricing data.
 
->             “(B) A waiver pursuant to section 26(f)(5)(B) of the Office of Federal Procurement Policy Act (\[former\] [41 U.S.C. 422(f)(5)(B)][/us/usc/t41/s422/f/5/B]) \[now [41 U.S.C. 1502(b)(3)(B)][/us/usc/t41/s1502/b/3/B]\], relating to the applicability of cost accounting standards to contracts and subcontracts.
+>             “(B) A waiver pursuant to [section 1502(b)(3)(B) of title 41][/us/usc/t41/s1502/b/3/B], United States Code, relating to the applicability of cost accounting standards to contracts and subcontracts.
 
 >         “(2) The term ‘commercial item exception’ means an exception pursuant to [section 2306a(b)(1)(B) of title 10][/us/usc/t10/s2306a/b/1/B], United States Code, relating to submission of certified cost and pricing data.”
 
  __Defense Commercial Pricing Management Improvement__ 
 
-[Pub. L. 105–261, div. A, title VIII, § 803][/us/pl/105/261/s803], Oct. 17, 1998, [112 Stat. 2081][/us/stat/112/2081], as amended by [Pub. L. 106–65, div. A, title X, § 1067(3)][/us/pl/106/65/s1067/3], Oct. 5, 1999, [113 Stat. 774][/us/stat/113/774]; [Pub. L. 107–314, div. A, title VIII, § 823][/us/pl/107/314/s823], Dec. 2, 2002, [116 Stat. 2615][/us/stat/116/2615]; [Pub. L. 109–364, div. A, title VIII, § 819][/us/pl/109/364/s819], Oct. 17, 2006, [120 Stat. 2330][/us/stat/120/2330], provided that:
+[Pub. L. 105–261, div. A, title VIII, § 803][/us/pl/105/261/s803], Oct. 17, 1998, [112 Stat. 2081][/us/stat/112/2081], as amended by [Pub. L. 106–65, div. A, title X, § 1067(3)][/us/pl/106/65/s1067/3], Oct. 5, 1999, [113 Stat. 774][/us/stat/113/774]; [Pub. L. 107–314, div. A, title VIII, § 823][/us/pl/107/314/s823], Dec. 2, 2002, [116 Stat. 2615][/us/stat/116/2615]; [Pub. L. 109–364, div. A, title VIII, § 819][/us/pl/109/364/s819], Oct. 17, 2006, [120 Stat. 2330][/us/stat/120/2330]; [Pub. L. 113–291, div. A, title X, § 1071(b)(9)][/us/pl/113/291/s1071/b/9], Dec. 19, 2014, [128 Stat. 3507][/us/stat/128/3507], provided that:
 
 >     “(a)  __Modification of Pricing Regulations for Certain Commercial Items Exempt From Cost or Pricing Data Certification Requirements__  __.—__ 
 
@@ -611,7 +611,7 @@
 
 >     “(d)  __Exempt Commercial Items Defined__  __.—__ 
 
->     For the purposes of this section, the term ‘exempt commercial item’ means a commercial item that is exempt under subsection (b)(1)(B) of [section 2306a of title 10][/us/usc/t10/s2306a], United States Code, or subsection (b)(1)(B) of section 304A of the Federal Property and Administrative Services Act of 1949 (\[former\] [41 U.S.C. 254b][/us/usc/t41/s254b]) \[now [41 U.S.C. 3503(a)(2)][/us/usc/t41/s3503/a/2]\], from the requirements for submission of certified cost or pricing data under that section.”
+>     For the purposes of this section, the term ‘exempt commercial item’ means a commercial item that is exempt under subsection (b)(1)(B) of [section 2306a of title 10][/us/usc/t10/s2306a], United States Code, or [section 3503(a)(2) of title 41][/us/usc/t41/s3503/a/2], United States Code, from the requirements for submission of certified cost or pricing data under that section.”
 
  __Review by Inspector General__ 
 
@@ -624,7 +624,7 @@
 ----------
 ----------
 
-[/us/usc/t41/s403/12/C/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs403%2F12%2FC%2Fi
+[/us/usc/t41/s103/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs103%2F3%2FA
 [/us/usc/t5/s552/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552%2Fb
 [/us/usc/t10/s2313/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2313%2Fa%2F2
 [/us/usc/t41/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs103
@@ -660,16 +660,17 @@
 [/us/stat/122/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F222
 [/us/pl/111/350/s5/b/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs5%2Fb%2F15
 [/us/stat/124/3843]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3843
-[/us/pl/93/400/s4/12/C/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F400%2Fs4%2F12%2FC%2Fi
-[/us/usc/t41/s103/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs103%2F3%2FA
-[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
-[/us/stat/124/3677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3677
+[/us/pl/113/291/s1071/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Fa%2F3
+[/us/stat/128/3504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3504
 [/us/usc/t26/s6621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6621
 [/us/pl/99/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591
 [/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
 [/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
 [/us/pl/99/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591
 [/us/pl/99/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/usc/t41/s103/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs103%2F3%2FA
+[/us/usc/t41/s403/12/C/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs403%2F12%2FC%2Fi
 [/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/usc/t41/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs103
 [/us/usc/t41/s403/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs403%2F12
@@ -776,9 +777,10 @@
 [/us/stat/116/2610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2610
 [/us/pl/112/81/s809/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs809%2Fa
 [/us/stat/125/1490]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1490
+[/us/pl/113/291/s1071/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Fb%2F7
+[/us/stat/128/3507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3507
 [/us/usc/t10/s2304a/d/3/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2304a%2Fd%2F3%2FD
 [/us/usc/t10/s2306a/b/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2306a%2Fb%2F1%2FC
-[/us/usc/t41/s422/f/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs422%2Ff%2F5%2FB
 [/us/usc/t41/s1502/b/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs1502%2Fb%2F3%2FB
 [/us/usc/t10/s2306a/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2306a%2Fb%2F1%2FB
 [/us/pl/105/261/s803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs803
@@ -789,12 +791,13 @@
 [/us/stat/116/2615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2615
 [/us/pl/109/364/s819]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs819
 [/us/stat/120/2330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2330
+[/us/pl/113/291/s1071/b/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Fb%2F9
+[/us/stat/128/3507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3507
 [/us/usc/t41/s405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs405
 [/us/usc/t41/s1121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs1121
 [/us/usc/t41/s403/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs403%2F12
 [/us/usc/t41/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs103
 [/us/usc/t10/s2306a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2306a
-[/us/usc/t41/s254b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs254b
 [/us/usc/t41/s3503/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs3503%2Fa%2F2
 [/us/pl/101/510/s803/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs803%2Fb
 [/us/stat/104/1590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1590

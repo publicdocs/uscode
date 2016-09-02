@@ -413,7 +413,7 @@
 
 >     This section does not apply to the transfer of Oil Shale Reserve Numbered 2 under section 3405.”
 
-[Pub. L. 104–106, div. C, title XXXIV][/us/pl/104/106], subtitle B, Feb. 10, 1996, [110 Stat. 631][/us/stat/110/631], as amended by [Pub. L. 106–65, div. A, title X, § 1067(6)][/us/pl/106/65/s1067/6], Oct. 5, 1999, [113 Stat. 774][/us/stat/113/774], provided that:
+[Pub. L. 104–106, div. C, title XXXIV][/us/pl/104/106], subtitle B, Feb. 10, 1996, [110 Stat. 631][/us/stat/110/631], as amended by [Pub. L. 106–65, div. A, title X, § 1067(6)][/us/pl/106/65/s1067/6], Oct. 5, 1999, [113 Stat. 774][/us/stat/113/774]; [Pub. L. 113–291, div. A, title X, § 1071(b)(12)][/us/pl/113/291/s1071/b/12], Dec. 19, 2014, [128 Stat. 3507][/us/stat/128/3507], provided that:
 
 > “SEC. 3411. __DEFINITIONS.__ 
 
@@ -513,7 +513,7 @@
 
 >     “(k)  __Acquisition of Services__  __.—__ 
 
->     The Secretary may enter into contracts for the acquisition of services required under this section under the authority of paragraph (7) of section 303(c) of the Federal Property and Administrative Services Act of 1949 (\[former\] [41 U.S.C. 253(c)][/us/usc/t41/s253/c]) \[see [41 U.S.C. 3304(a)(7)][/us/usc/t41/s3304/a/7]\], except that the notification required under subparagraph (B) of such paragraph \[now [41 U.S.C. 3304(a)(7)(B)][/us/usc/t41/s3304/a/7/B]\] for each contract shall be submitted to Congress not less than 7 days before the award of the contract.
+>     The Secretary may enter into contracts for the acquisition of services required under this section under the authority of paragraph (7) of [section 3304(a) of title 41][/us/usc/t41/s3304/a], United States Code, except that the notification required under subparagraph (B) of such paragraph for each contract shall be submitted to Congress not less than 7 days before the award of the contract.
 
 > “SEC. 3413. __EFFECT OF SALE OF RESERVE.__ 
 
@@ -672,10 +672,10 @@
 [/us/stat/110/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F631
 [/us/pl/106/65/s1067/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs1067%2F6
 [/us/stat/113/774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F774
+[/us/pl/113/291/s1071/b/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Fb%2F12
+[/us/stat/128/3507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3507
 [/us/usc/t10/s7420/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs7420%2F2
-[/us/usc/t41/s253/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs253%2Fc
-[/us/usc/t41/s3304/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs3304%2Fa%2F7
-[/us/usc/t41/s3304/a/7/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs3304%2Fa%2F7%2FB
+[/us/usc/t41/s3304/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs3304%2Fa
 [/us/usc/t30/s181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs181
 [/us/usc/t43/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1701
 

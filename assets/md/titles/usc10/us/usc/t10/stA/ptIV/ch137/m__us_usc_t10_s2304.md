@@ -761,6 +761,36 @@ In subsection (a), the words “The Secretary of Defense is hereby directed that
 
 > “The amendments made by this section \[amending this section and [section 2305 of this title][/us/usc/t10/s2305]\] do not supersede or affect the provisions of section 8(a) of the Small Business Act ([15 U.S.C. 637(a)][/us/usc/t15/s637/a]).”
 
+ __Matters Relating to Reverse Auctions__ 
+
+[Pub. L. 113–291, div. A, title VIII, § 824][/us/pl/113/291/s824], Dec. 19, 2014, [128 Stat. 3436][/us/stat/128/3436], provided that:
+
+>     “(a)  __In General__  __.—__ 
+
+>     Not later than 180 days after the date of the enactment of this Act \[Dec. 19, 2014\], the Secretary of Defense shall clarify regulations on reverse auctions, as necessary, to ensure that—
+
+>         “(1) single bid contracts may not be entered into resulting from reverse auctions unless compliant with existing Federal regulations and Department of Defense memoranda providing guidance on single bid offers;
+
+>         “(2) all reverse auctions provide offerors with the ability to submit revised bids throughout the course of the auction;
+
+>         “(3)
+
+>          if a reverse auction is conducted by a third party—
+
+>             “(A) inherently governmental functions are not performed by private contractors, including by the third party; and
+
+>             “(B) past performance or financial responsibility information created by the third party is made available to offerors; and
+
+>         “(4) reverse auctions resulting in design-build military construction contracts specifically authorized in law are prohibited.
+
+>     “(b)  __Training__  __.—__ 
+
+>     Not later than 180 days after the date of the enactment of this Act, the President of the Defense Acquisition University shall establish comprehensive training available for contract specialists in the Department of Defense on the use of reverse auctions.
+
+>     “(c)  __Design-Build Defined__  __.—__ 
+
+>     In this section, the term ‘design-build’ means procedures used for the selection of a contractor on the basis of price and other evaluation criteria to perform, in accordance with the provisions of a firm fixed-price contract, both the design and construction of a facility using performance specifications supplied by the Secretary of Defense.”
+
  __Review and Justification of Pass-Through Contracts__ 
 
 [Pub. L. 112–239, div. A, title VIII, § 802][/us/pl/112/239/s802], Jan. 2, 2013, [126 Stat. 1824][/us/stat/126/1824], provided that: 
@@ -1013,7 +1043,7 @@ In subsection (a), the words “The Secretary of Defense is hereby directed that
 
  __Plan for Restricting Government-Unique Contract Clauses on Commercial Contracts__ 
 
-[Pub. L. 110–181, div. A, title VIII, § 821][/us/pl/110/181/s821], Jan. 28, 2008, [122 Stat. 226][/us/stat/122/226], provided that:
+[Pub. L. 110–181, div. A, title VIII, § 821][/us/pl/110/181/s821], Jan. 28, 2008, [122 Stat. 226][/us/stat/122/226], as amended by [Pub. L. 113–291, div. A, title X, § 1071(b)(2)(B)][/us/pl/113/291/s1071/b/2/B], Dec. 19, 2014, [128 Stat. 3506][/us/stat/128/3506], provided that:
 
 >     “(a)  __Plan__  __.—__ 
 
@@ -1029,7 +1059,7 @@ In subsection (a), the words “The Secretary of Defense is hereby directed that
 
 >         “(1) The term ‘commercial contract’ means a contract awarded by the Federal Government for the procurement of a commercial item.
 
->         “(2) The term ‘commercial item’ has the meaning provided by section 4(12) of the Office of Federal Procurement Policy Act (\[former\] [41 U.S.C. 403(12)][/us/usc/t41/s403/12]) \[see [41 U.S.C. 103][/us/usc/t41/s103]\].”
+>         “(2) The term ‘commercial item’ has the meaning provided by [section 103 of title 41][/us/usc/t41/s103], United States Code.”
 
  __Telephone Services for Military Personnel Serving In Combat Zones__ 
 
@@ -1113,7 +1143,7 @@ In subsection (a), the words “The Secretary of Defense is hereby directed that
 
 >         “(2) The Department of Energy.”
 
-[Pub. L. 110–181, div. A, title VIII, § 801][/us/pl/110/181/s801], Jan. 28, 2008, [122 Stat. 202][/us/stat/122/202], as amended by [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title VIII, § 804(d), Oct. 14, 2008, [122 Stat. 4519][/us/stat/122/4519]; [Pub. L. 111–84, div. A, title VIII, § 806][/us/pl/111/84/s806], Oct. 28, 2009, [123 Stat. 2404][/us/stat/123/2404]; [Pub. L. 112–81, div. A, title VIII, § 817][/us/pl/112/81/s817], Dec. 31, 2011, [125 Stat. 1493][/us/stat/125/1493]; [Pub. L. 112–239, div. A, title VIII][/us/pl/112/239], §§ 801, 805, Jan. 2, 2013, [126 Stat. 1824][/us/stat/126/1824], 1826, provided that:
+[Pub. L. 110–181, div. A, title VIII, § 801][/us/pl/110/181/s801], Jan. 28, 2008, [122 Stat. 202][/us/stat/122/202], as amended by [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title VIII, § 804(d), Oct. 14, 2008, [122 Stat. 4519][/us/stat/122/4519]; [Pub. L. 111–84, div. A, title VIII, § 806][/us/pl/111/84/s806], Oct. 28, 2009, [123 Stat. 2404][/us/stat/123/2404]; [Pub. L. 112–81, div. A, title VIII, § 817][/us/pl/112/81/s817], Dec. 31, 2011, [125 Stat. 1493][/us/stat/125/1493]; [Pub. L. 112–239, div. A, title VIII][/us/pl/112/239], §§ 801, 805, Jan. 2, 2013, [126 Stat. 1824][/us/stat/126/1824], 1826; [Pub. L. 113–291, div. A, title X, § 1071(d)(1)(B)][/us/pl/113/291/s1071/d/1/B], Dec. 19, 2014, [128 Stat. 3509][/us/stat/128/3509], provided that:
 
 >     “(a) __Inspectors General Reviews and Determinations.—__ 
 
@@ -1181,7 +1211,7 @@ In subsection (a), the words “The Secretary of Defense is hereby directed that
 
 >         “(3)  __Treatment of procurements under joint programs with intelligence community__  __.—__ 
 
->         For purposes of this subsection, a contract entered into by a non-defense agency that is an element of the intelligence community (as defined in section 3(4) of the National Security Act of 1947 ([50 U.S.C. 401a(4)][/us/usc/t50/s401a/4]) \[now [50 U.S.C. 3003(4)][/us/usc/t50/s3003/4]\]) for the performance of a joint program conducted to meet the needs of the Department of Defense and the non-defense agency shall not be considered a procurement of property or services for the Department of Defense through a non-defense agency.
+>         For purposes of this subsection, a contract entered into by a non-defense agency that is an element of the intelligence community (as defined in section 3(4) of the National Security Act of 1947 ([50 U.S.C. 3003(4)][/us/usc/t50/s3003/4])) for the performance of a joint program conducted to meet the needs of the Department of Defense and the non-defense agency shall not be considered a procurement of property or services for the Department of Defense through a non-defense agency.
 
 >     “(c) __Guidance on Interagency Contracting.—__ 
 
@@ -1737,7 +1767,7 @@ In subsection (a), the words “The Secretary of Defense is hereby directed that
 
  __Requirements Relating to Micro-Purchases__ 
 
-[Pub. L. 105–85, div. A, title VIII, § 848][/us/pl/105/85/s848], Nov. 18, 1997, [111 Stat. 1846][/us/stat/111/1846], provided that:
+[Pub. L. 105–85, div. A, title VIII, § 848][/us/pl/105/85/s848], Nov. 18, 1997, [111 Stat. 1846][/us/stat/111/1846], as amended by [Pub. L. 113–291, div. A, title X, § 1071(b)(10)][/us/pl/113/291/s1071/b/10], Dec. 19, 2014, [128 Stat. 3507][/us/stat/128/3507], provided that:
 
 >     “(a)  __Requirement__  __.—__ 
 
@@ -1769,19 +1799,13 @@ In subsection (a), the words “The Secretary of Defense is hereby directed that
 
 >     In this section:
 
->         “(1) The term ‘micro-purchase threshold’ has the meaning provided in section 32 of the Office of Federal Procurement Policy Act (\[former\] [41 U.S.C. 428][/us/usc/t41/s428]) \[now [41 U.S.C. 1902][/us/usc/t41/s1902]\].
+>         “(1) The term ‘micro-purchase threshold’ has the meaning provided in [section 1902 of title 41][/us/usc/t41/s1902], United States Code.
 
 >         “(2) The term ‘streamlined micro-purchase procedures’ means procedures providing for the use of the Government-wide commercial purchase card or any other method for carrying out micro-purchases that the Secretary of Defense prescribes in the regulations implementing this subsection.”
 
  __Termination of Authority To Issue Solicitations for Purchases of Commercial Items in Excess of Simplified Acquisition Threshold__ 
 
-[Pub. L. 104–106, div. D, title XLII, § 4202(e)][/us/pl/104/106/s4202/e], Feb. 10, 1996, [110 Stat. 654][/us/stat/110/654], as amended by [Pub. L. 106–65, div. A, title VIII, § 806(a)][/us/pl/106/65/s806/a], Oct. 5, 1999, [113 Stat. 705][/us/stat/113/705]; [Pub. L. 107–107, div. A, title VIII, § 823][/us/pl/107/107/s823], Dec. 28, 2001, [115 Stat. 1183][/us/stat/115/1183]; [Pub. L. 107–314, div. A, title VIII, § 812(a)][/us/pl/107/314/s812/a], Dec. 2, 2002, [116 Stat. 2609][/us/stat/116/2609]; [Pub. L. 108–136, div. A, title XIV, § 1443(b)][/us/pl/108/136/s1443/b], Nov. 24, 2003, [117 Stat. 1676][/us/stat/117/1676]; [Pub. L. 108–375, div. A, title VIII, § 817][/us/pl/108/375/s817], Oct. 28, 2004, [118 Stat. 2015][/us/stat/118/2015]; [Pub. L. 110–181, div. A, title VIII, § 822(a)][/us/pl/110/181/s822/a], Jan. 28, 2008, [122 Stat. 226][/us/stat/122/226]; [Pub. L. 111–84, div. A, title VIII, § 816][/us/pl/111/84/s816], Oct. 28, 2009, [123 Stat. 2408][/us/stat/123/2408]; [Pub. L. 112–239, div. A, title VIII, § 822][/us/pl/112/239/s822], Jan. 2, 2013, [126 Stat. 1830][/us/stat/126/1830]; [Pub. L. 113–66, div. A, title X, § 1091(b)(4)][/us/pl/113/66/s1091/b/4], Dec. 26, 2013, [127 Stat. 876][/us/stat/127/876], provided that: 
-
-> “The authority to issue solicitations for purchases of commercial items in excess of the simplified acquisition threshold pursuant to the special simplified procedures authorized by [section 2304(g)(1) of title 10][/us/usc/t10/s2304/g/1], United States Code, [section 3305(a) of title 41][/us/usc/t41/s3305/a], United States Code, and [section 1901(a) of title 41][/us/usc/t41/s1901/a], United States Code, shall expire January 1, 2015. Contracts may be awarded pursuant to solicitations that have been issued before such authority expires, notwithstanding the expiration of such authority.”
-
-    \[[Pub. L. 113–66, div. A, title X, § 1091(b)][/us/pl/113/66/s1091/b], Dec. 26, 2013, [127 Stat. 876][/us/stat/127/876], provided in part that the amendment made by section 1091(b)(4) is effective as of Jan. 2, 2013, and as if included in [Pub. L. 112–239][/us/pl/112/239] as enacted.\]
-
-    \[[Pub. L. 112–239, div. A, title VIII, § 822(a)][/us/pl/112/239/s822/a], Jan. 2, 2013, [126 Stat. 1830][/us/stat/126/1830], provided that amendment to [section 4202(e) of Pub. L. 104–106][/us/pl/104/106/s4202/e], set out above, by section 822(a) is effective as of Jan. 1, 2012.\]
+    [Pub. L. 104–106, div. D, title XLII, § 4202(e)][/us/pl/104/106/s4202/e], Feb. 10, 1996, [110 Stat. 654][/us/stat/110/654], as amended by [Pub. L. 106–65, div. A, title VIII, § 806(a)][/us/pl/106/65/s806/a], Oct. 5, 1999, [113 Stat. 705][/us/stat/113/705]; [Pub. L. 107–107, div. A, title VIII, § 823][/us/pl/107/107/s823], Dec. 28, 2001, [115 Stat. 1183][/us/stat/115/1183]; [Pub. L. 107–314, div. A, title VIII, § 812(a)][/us/pl/107/314/s812/a], Dec. 2, 2002, [116 Stat. 2609][/us/stat/116/2609]; [Pub. L. 108–136, div. A, title XIV, § 1443(b)][/us/pl/108/136/s1443/b], Nov. 24, 2003, [117 Stat. 1676][/us/stat/117/1676]; [Pub. L. 108–375, div. A, title VIII, § 817][/us/pl/108/375/s817], Oct. 28, 2004, [118 Stat. 2015][/us/stat/118/2015]; [Pub. L. 110–181, div. A, title VIII, § 822(a)][/us/pl/110/181/s822/a], Jan. 28, 2008, [122 Stat. 226][/us/stat/122/226]; [Pub. L. 111–84, div. A, title VIII, § 816][/us/pl/111/84/s816], Oct. 28, 2009, [123 Stat. 2408][/us/stat/123/2408]; [Pub. L. 112–239, div. A, title VIII, § 822][/us/pl/112/239/s822], Jan. 2, 2013, [126 Stat. 1830][/us/stat/126/1830]; [Pub. L. 113–66, div. A, title X, § 1091(b)(4)][/us/pl/113/66/s1091/b/4], Dec. 26, 2013, [127 Stat. 876][/us/stat/127/876], which related to termination of authority to issue solicitations for purchases of commercial items in excess of simplified acquisition threshold, was repealed by [Pub. L. 113–291, div. A, title VIII, § 815][/us/pl/113/291/s815], Dec. 19, 2014, [128 Stat. 3430][/us/stat/128/3430].
 
  __References in Other Laws to GS–16, 17, or 18 Pay Rates__ 
 
@@ -1863,7 +1887,7 @@ In subsection (a), the words “The Secretary of Defense is hereby directed that
 
  __Contracting Out Performance of Department of Defense Supply and Service Functions__ 
 
-    [Pub. L. 99–661, div. A, title XII, § 1223][/us/pl/99/661/s1223], Nov. 14, 1986, [100 Stat. 3977][/us/stat/100/3977], which required Secretary to contract for Department of Defense supplies and services from private sector after a cost comparison demonstrates lower cost than Department of Defense can provide, and to ensure that overhead costs considered are realistic and fair, was repealed and restated in [section 2462 of this title][/us/usc/t10/s2462] by [Pub. L. 100–370, § 2(a)(1)][/us/pl/100/370/s2/a/1], (c)(3), July 19, 1988, [102 Stat. 853][/us/stat/102/853], 854.
+    [Pub. L. 99–661, div. A, title XII, § 1223][/us/pl/99/661/s1223], Nov. 14, 1986, [100 Stat. 3977][/us/stat/100/3977], which required Secretary to contract for Department of Defense supplies and services from private sector after a cost comparison demonstrates lower cost than Department of Defense can provide, and to ensure that overhead costs considered are realistic and fair, was repealed and restated in former [section 2462 of this title][/us/usc/t10/s2462] by [Pub. L. 100–370, § 2(a)(1)][/us/pl/100/370/s2/a/1], (c)(3), July 19, 1988, [102 Stat. 853][/us/stat/102/853], 854.
 
  __Reports on Savings or Costs From Increased Use of Civilian Personnel__ 
 
@@ -2262,6 +2286,8 @@ In subsection (a), the words “The Secretary of Defense is hereby directed that
 [/us/stat/98/1192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1192
 [/us/usc/t10/s2305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2305
 [/us/usc/t15/s637/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs637%2Fa
+[/us/pl/113/291/s824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs824
+[/us/stat/128/3436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3436
 [/us/pl/112/239/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs802
 [/us/stat/126/1824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1824
 [/us/pl/111/383/s806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs806
@@ -2289,7 +2315,8 @@ In subsection (a), the words “The Secretary of Defense is hereby directed that
 [/us/usc/t10/s2500/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2500%2F1
 [/us/pl/110/181/s821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs821
 [/us/stat/122/226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F226
-[/us/usc/t41/s403/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs403%2F12
+[/us/pl/113/291/s1071/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Fb%2F2%2FB
+[/us/stat/128/3506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3506
 [/us/usc/t41/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs103
 [/us/pl/110/181/s885]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs885
 [/us/stat/122/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F265
@@ -2316,9 +2343,10 @@ In subsection (a), the words “The Secretary of Defense is hereby directed that
 [/us/stat/125/1493]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1493
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/stat/126/1824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1824
+[/us/pl/113/291/s1071/d/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Fd%2F1%2FB
+[/us/stat/128/3509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3509
 [/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
 [/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
-[/us/usc/t50/s401a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs401a%2F4
 [/us/usc/t50/s3003/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3003%2F4
 [/us/usc/t10/s2302/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2302%2F7
 [/us/usc/t31/s1535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1535
@@ -2381,7 +2409,8 @@ In subsection (a), the words “The Secretary of Defense is hereby directed that
 [/us/usc/t31/s3718/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3718%2Fd
 [/us/pl/105/85/s848]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs848
 [/us/stat/111/1846]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1846
-[/us/usc/t41/s428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs428
+[/us/pl/113/291/s1071/b/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Fb%2F10
+[/us/stat/128/3507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3507
 [/us/usc/t41/s1902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs1902
 [/us/pl/104/106/s4202/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs4202%2Fe
 [/us/stat/110/654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F654
@@ -2403,15 +2432,8 @@ In subsection (a), the words “The Secretary of Defense is hereby directed that
 [/us/stat/126/1830]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1830
 [/us/pl/113/66/s1091/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1091%2Fb%2F4
 [/us/stat/127/876]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F876
-[/us/usc/t10/s2304/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2304%2Fg%2F1
-[/us/usc/t41/s3305/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs3305%2Fa
-[/us/usc/t41/s1901/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs1901%2Fa
-[/us/pl/113/66/s1091/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1091%2Fb
-[/us/stat/127/876]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F876
-[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
-[/us/pl/112/239/s822/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs822%2Fa
-[/us/stat/126/1830]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1830
-[/us/pl/104/106/s4202/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs4202%2Fe
+[/us/pl/113/291/s815]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs815
+[/us/stat/128/3430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3430
 [/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509
 [/us/usc/t5/s5376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5376
 [/us/pl/100/180/s1111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs1111

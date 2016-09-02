@@ -25,7 +25,7 @@
 
             (A)
 
-             A member of the uniformed services or dependent—
+             A member or former member of the uniformed services or dependent—
 
                 (i) who is receiving outpatient medical care at a military medical treatment facility; and
 
@@ -33,7 +33,7 @@
 
             (B)
 
-             A member of the uniformed services or dependent—
+             A member or former member of the uniformed services or dependent—
 
                 (i) who is a family member of an infant receiving inpatient medical care at a military medical treatment facility;
 
@@ -41,13 +41,19 @@
 
                 (iii) whom the Secretary determines is unable to purchase food and beverages while at such facility by virtue of providing such care to the infant.
 
-            (C) A member of the uniformed services or dependent whom the Secretary determines is under similar circumstances as a member or dependent described in subparagraph (A) or (B).
+            (C) A member or former member of the uniformed services or dependent whom the Secretary determines is under similar circumstances as a member, former member, or dependent described in subparagraph (A) or (B).
 
     (b)  __Regulations__  __.—__ 
 
     The Secretary shall ensure that regulations prescribed under this section are consistent with generally accepted practices in private medical treatment facilities.
 
-(Added [Pub. L. 112–81, div. A, title VII, § 704(a)][/us/pl/112/81/s704/a], Dec. 31, 2011, [125 Stat. 1472][/us/stat/125/1472].)
+(Added [Pub. L. 112–81, div. A, title VII, § 704(a)][/us/pl/112/81/s704/a], Dec. 31, 2011, [125 Stat. 1472][/us/stat/125/1472]; amended [Pub. L. 113–291, div. A, title VII, § 705][/us/pl/113/291/s705], Dec. 19, 2014, [128 Stat. 3413][/us/stat/128/3413].)
+
+ __Amendments__ 
+
+    2014—Subsec. (a)(2). [Pub. L. 113–291, § 705(1)][/us/pl/113/291/s705/1], substituted “A member or former member” for “A member” wherever appearing.
+
+    Subsec. (a)(2)(C). [Pub. L. 113–291, § 705(2)][/us/pl/113/291/s705/2], substituted “member, former member, or dependent” for “member or dependent”.
 
  __Effective Date__ 
 
@@ -64,6 +70,10 @@
 
 [/us/pl/112/81/s704/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs704%2Fa
 [/us/stat/125/1472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1472
+[/us/pl/113/291/s705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs705
+[/us/stat/128/3413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3413
+[/us/pl/113/291/s705/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs705%2F1
+[/us/pl/113/291/s705/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs705%2F2
 [/us/pl/112/81/s704/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs704%2Fc
 [/us/stat/125/1473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1473
 

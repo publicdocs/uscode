@@ -281,6 +281,10 @@
 
             (B) whether the election is being made pursuant to a written agreement previously entered into voluntarily by such person as a part of, or incident to, a proceeding of divorce, dissolution, or annulment and (if so) whether such voluntary written agreement has been incorporated in, or ratified or approved by, a court order.
 
+        (6)  __Special needs trusts for sole benefit of certain dependent children__  __.—__ 
+
+        A person who has established a supplemental or special needs trust under subparagraph (A) or (C) of section 1917(d)(4) of the Social Security Act ([42 U.S.C. 1396p(d)(4)][/us/usc/t42/s1396p/d/4]) for the sole benefit of a dependent child considered disabled under section 1614(a)(3) of that Act ([42 U.S.C. 1382c(a)(3)][/us/usc/t42/s1382c/a/3]) who is incapable of self-support because of mental or physical incapacity may elect to provide an annuity to that supplemental or special needs trust.
+
     (c)  __Persons on Temporary Disability Retired List__  __.—__ 
 
     The application of the Plan to a person whose name is on the temporary disability retired list terminates when his name is removed from that list and he is no longer entitled to disability retired pay.
@@ -307,11 +311,11 @@
 
             (A)  __Annuity when no eligible surviving spouse__  __.—__ 
 
-            In the case of a member described in paragraph (1), the Secretary concerned shall pay an annuity under this subchapter to the member’s dependent children under [section 1450(a)(2) of this title][/us/usc/t10/s1450/a/2] as applicable.
+            In the case of a member described in paragraph (1), the Secretary concerned shall pay an annuity under this subchapter to the member’s dependent children under subsection (a)(2) or (a)(4) of [section 1450 of this title][/us/usc/t10/s1450] as applicable.
 
             (B)  __Optional annuity when there is an eligible surviving spouse__  __.—__ 
 
-            In the case of a member described in paragraph (1) who dies after October 7, 2001, and for whom there is a surviving spouse eligible for an annuity under paragraph (1), the Secretary may pay an annuity under this subchapter to the member’s dependent children under [section 1450(a)(3) of this title][/us/usc/t10/s1450/a/3], if applicable, instead of paying an annuity to the surviving spouse under paragraph (1), if the Secretary concerned, in consultation with the surviving spouse, determines it appropriate to provide an annuity for the dependent children under this paragraph instead of an annuity for the surviving spouse under paragraph (1).
+            In the case of a member described in paragraph (1) who dies after October 7, 2001, and for whom there is a surviving spouse eligible for an annuity under paragraph (1), the Secretary may pay an annuity under this subchapter to the member’s dependent children under subsection (a)(3) or (a)(4) of [section 1450 of this title][/us/usc/t10/s1450], if applicable, instead of paying an annuity to the surviving spouse under paragraph (1), if the Secretary concerned, in consultation with the surviving spouse, determines it appropriate to provide an annuity for the dependent children under this paragraph instead of an annuity for the surviving spouse under paragraph (1).
 
         (3)  __Mandatory former spouse annuity__  __.—__ 
 
@@ -365,7 +369,7 @@
 
         (2)  __Dependent child annuity__  __.—__ 
 
-        The Secretary concerned shall pay an annuity under this subchapter to the dependent child of a person described in paragraph (1) if there is no surviving spouse or if the person’s surviving spouse subsequently dies.
+        The Secretary concerned shall pay an annuity under this subchapter to the dependent child, or to a special needs trust pursuant to [section 1450(a)(4) of this title][/us/usc/t10/s1450/a/4], of a person described in paragraph (1) if there is no surviving spouse or if the person’s surviving spouse subsequently dies.
 
         (3)  __Mandatory former spouse annuity__  __.—__ 
 
@@ -411,9 +415,17 @@
 
         A payment received under this subsection by the Secretary of Defense shall be deposited into the Department of Defense Military Retirement Fund. Any other payment received under this subsection shall be deposited in the Treasury as miscellaneous receipts.
 
-(Added [Pub. L. 92–425, § 1(3)][/us/pl/92/425/s1/3], Sept. 21, 1972, [86 Stat. 707][/us/stat/86/707]; amended [Pub. L. 94–496, § 1(2)][/us/pl/94/496/s1/2], Oct. 14, 1976, [90 Stat. 2375][/us/stat/90/2375]; [Pub. L. 95–397, title II, § 202][/us/pl/95/397/s202], Sept. 30, 1978, [92 Stat. 844][/us/stat/92/844]; [Pub. L. 97–252, title X, § 1003(b)][/us/pl/97/252/s1003/b], Sept. 8, 1982, [96 Stat. 735][/us/stat/96/735]; [Pub. L. 97–295, § 1(18)][/us/pl/97/295/s1/18], Oct. 12, 1982, [96 Stat. 1290][/us/stat/96/1290]; [Pub. L. 98–94, title IX, § 941(a)(1)][/us/pl/98/94/s941/a/1], (2), (c)(2), Sept. 24, 1983, [97 Stat. 652][/us/stat/97/652], 653; [Pub. L. 99–145, title V, § 513(b)][/us/pl/99/145/s513/b], title VII, §§ 712(a), 713(a), 715, 716(a), 719(3), (8)(A), 721(a), Nov. 8, 1985, [99 Stat. 628][/us/stat/99/628], 670, 671, 673–676; [Pub. L. 99–661, div. A, title VI][/us/pl/99/661], §§ 641(b)(1), 642(a), title XIII, § 1343(a)(8)(B), Nov. 14, 1986, [100 Stat. 3885][/us/stat/100/3885], 3886, 3992; [Pub. L. 101–189, div. A, title XIV, § 1407(a)(2)][/us/pl/101/189/s1407/a/2], (3), Nov. 29, 1989, [103 Stat. 1588][/us/stat/103/1588]; [Pub. L. 103–337, div. A, title VI, § 638][/us/pl/103/337/s638], title XVI, § 1671(d)(2), Oct. 5, 1994, [108 Stat. 2791][/us/stat/108/2791], 3015; [Pub. L. 104–201, div. A, title VI, § 634][/us/pl/104/201/s634], Sept. 23, 1996, [110 Stat. 2553][/us/stat/110/2553]; [Pub. L. 105–85, div. A, title X, § 1073(a)(27)][/us/pl/105/85/s1073/a/27], Nov. 18, 1997, [111 Stat. 1901][/us/stat/111/1901]; [Pub. L. 105–261, div. A, title VI, § 643(a)][/us/pl/105/261/s643/a], Oct. 17, 1998, [112 Stat. 2047][/us/stat/112/2047]; [Pub. L. 106–65, div. A, title X, § 1066(a)(12)][/us/pl/106/65/s1066/a/12], Oct. 5, 1999, [113 Stat. 771][/us/stat/113/771]; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title VI, § 655(a)–(c)(3), title X, § 1087(a)(10)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–165, 1654A–166, 1654A–290; [Pub. L. 107–107, div. A, title VI, § 642(a)][/us/pl/107/107/s642/a], (c)(1), Dec. 28, 2001, [115 Stat. 1151][/us/stat/115/1151], 1152; [Pub. L. 108–136, div. A, title VI][/us/pl/108/136], §§ 644(a), (b), 645(a), (b)(1), (c), Nov. 24, 2003, [117 Stat. 1517–1519][/us/stat/117/1517-1519]; [Pub. L. 108–375, div. A, title X, § 1084(d)(10)][/us/pl/108/375/s1084/d/10], Oct. 28, 2004, [118 Stat. 2061][/us/stat/118/2061]; [Pub. L. 109–364, div. A, title VI][/us/pl/109/364], §§ 643(a), 644(a), title X, § 1071(a)(8), Oct. 17, 2006, [120 Stat. 2260][/us/stat/120/2260], 2261, 2398.)
+(Added [Pub. L. 92–425, § 1(3)][/us/pl/92/425/s1/3], Sept. 21, 1972, [86 Stat. 707][/us/stat/86/707]; amended [Pub. L. 94–496, § 1(2)][/us/pl/94/496/s1/2], Oct. 14, 1976, [90 Stat. 2375][/us/stat/90/2375]; [Pub. L. 95–397, title II, § 202][/us/pl/95/397/s202], Sept. 30, 1978, [92 Stat. 844][/us/stat/92/844]; [Pub. L. 97–252, title X, § 1003(b)][/us/pl/97/252/s1003/b], Sept. 8, 1982, [96 Stat. 735][/us/stat/96/735]; [Pub. L. 97–295, § 1(18)][/us/pl/97/295/s1/18], Oct. 12, 1982, [96 Stat. 1290][/us/stat/96/1290]; [Pub. L. 98–94, title IX, § 941(a)(1)][/us/pl/98/94/s941/a/1], (2), (c)(2), Sept. 24, 1983, [97 Stat. 652][/us/stat/97/652], 653; [Pub. L. 99–145, title V, § 513(b)][/us/pl/99/145/s513/b], title VII, §§ 712(a), 713(a), 715, 716(a), 719(3), (8)(A), 721(a), Nov. 8, 1985, [99 Stat. 628][/us/stat/99/628], 670, 671, 673–676; [Pub. L. 99–661, div. A, title VI][/us/pl/99/661], §§ 641(b)(1), 642(a), title XIII, § 1343(a)(8)(B), Nov. 14, 1986, [100 Stat. 3885][/us/stat/100/3885], 3886, 3992; [Pub. L. 101–189, div. A, title XIV, § 1407(a)(2)][/us/pl/101/189/s1407/a/2], (3), Nov. 29, 1989, [103 Stat. 1588][/us/stat/103/1588]; [Pub. L. 103–337, div. A, title VI, § 638][/us/pl/103/337/s638], title XVI, § 1671(d)(2), Oct. 5, 1994, [108 Stat. 2791][/us/stat/108/2791], 3015; [Pub. L. 104–201, div. A, title VI, § 634][/us/pl/104/201/s634], Sept. 23, 1996, [110 Stat. 2553][/us/stat/110/2553]; [Pub. L. 105–85, div. A, title X, § 1073(a)(27)][/us/pl/105/85/s1073/a/27], Nov. 18, 1997, [111 Stat. 1901][/us/stat/111/1901]; [Pub. L. 105–261, div. A, title VI, § 643(a)][/us/pl/105/261/s643/a], Oct. 17, 1998, [112 Stat. 2047][/us/stat/112/2047]; [Pub. L. 106–65, div. A, title X, § 1066(a)(12)][/us/pl/106/65/s1066/a/12], Oct. 5, 1999, [113 Stat. 771][/us/stat/113/771]; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title VI, § 655(a)–(c)(3), title X, § 1087(a)(10)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–165, 1654A–166, 1654A–290; [Pub. L. 107–107, div. A, title VI, § 642(a)][/us/pl/107/107/s642/a], (c)(1), Dec. 28, 2001, [115 Stat. 1151][/us/stat/115/1151], 1152; [Pub. L. 108–136, div. A, title VI][/us/pl/108/136], §§ 644(a), (b), 645(a), (b)(1), (c), Nov. 24, 2003, [117 Stat. 1517–1519][/us/stat/117/1517-1519]; [Pub. L. 108–375, div. A, title X, § 1084(d)(10)][/us/pl/108/375/s1084/d/10], Oct. 28, 2004, [118 Stat. 2061][/us/stat/118/2061]; [Pub. L. 109–364, div. A, title VI][/us/pl/109/364], §§ 643(a), 644(a), title X, § 1071(a)(8), Oct. 17, 2006, [120 Stat. 2260][/us/stat/120/2260], 2261, 2398; [Pub. L. 113–291, div. A, title VI, § 624(a)(2)(B)][/us/pl/113/291/s624/a/2/B], Dec. 19, 2014, [128 Stat. 3403][/us/stat/128/3403].)
 
  __Amendments__ 
+
+    2014—Subsec. (b)(6). [Pub. L. 113–291, § 624(a)(2)(B)(i)][/us/pl/113/291/s624/a/2/B/i], added par. (6).
+
+    Subsec. (d)(2)(A). [Pub. L. 113–291, § 624(a)(2)(B)(ii)(I)][/us/pl/113/291/s624/a/2/B/ii/I], substituted “subsection (a)(2) or (a)(4) of section 1450” for “section 1450(a)(2)”.
+
+    Subsec. (d)(2)(B). [Pub. L. 113–291, § 624(a)(2)(B)(ii)(II)][/us/pl/113/291/s624/a/2/B/ii/II], substituted “subsection (a)(3) or (a)(4) of section 1450” for “section 1450(a)(3)”.
+
+    Subsec. (f)(2). [Pub. L. 113–291, § 624(a)(2)(B)(iii)][/us/pl/113/291/s624/a/2/B/iii], inserted “, or to a special needs trust pursuant to [section 1450(a)(4) of this title][/us/usc/t10/s1450/a/4],” after “dependent child”.
 
     2006—Subsec. (b)(1)(E). [Pub. L. 109–364, § 643(a)(1)][/us/pl/109/364/s643/a/1], inserted “or under subparagraph (G) of this paragraph” before period at end.
 
@@ -1068,8 +1080,10 @@
 [/us/usc/t10/s1452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1452
 [/us/usc/t10/s1450/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1450%2Ff
 [/us/usc/t10/s1450/f/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1450%2Ff%2F3%2FB
-[/us/usc/t10/s1450/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1450%2Fa%2F2
-[/us/usc/t10/s1450/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1450%2Fa%2F3
+[/us/usc/t42/s1396p/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396p%2Fd%2F4
+[/us/usc/t42/s1382c/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1382c%2Fa%2F3
+[/us/usc/t10/s1450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1450
+[/us/usc/t10/s1450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1450
 [/us/usc/t10/s1450/f/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1450%2Ff%2F3
 [/us/usc/t10/s1451/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1451%2Fc
 [/us/usc/t10/s1072/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1072%2F2
@@ -1077,6 +1091,7 @@
 [/us/usc/t10/s1452/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1452%2Fc
 [/us/usc/t10/s12731/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs12731%2Fd
 [/us/usc/t10/s12731/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs12731%2Fd
+[/us/usc/t10/s1450/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1450%2Fa%2F4
 [/us/usc/t10/s1450/f/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1450%2Ff%2F3
 [/us/usc/t10/s1451/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1451%2Fc
 [/us/usc/t10/s1452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1452
@@ -1118,6 +1133,13 @@
 [/us/stat/118/2061]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2061
 [/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
 [/us/stat/120/2260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2260
+[/us/pl/113/291/s624/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs624%2Fa%2F2%2FB
+[/us/stat/128/3403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3403
+[/us/pl/113/291/s624/a/2/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs624%2Fa%2F2%2FB%2Fi
+[/us/pl/113/291/s624/a/2/B/ii/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs624%2Fa%2F2%2FB%2Fii%2FI
+[/us/pl/113/291/s624/a/2/B/ii/II]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs624%2Fa%2F2%2FB%2Fii%2FII
+[/us/pl/113/291/s624/a/2/B/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs624%2Fa%2F2%2FB%2Fiii
+[/us/usc/t10/s1450/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1450%2Fa%2F4
 [/us/pl/109/364/s643/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs643%2Fa%2F1
 [/us/pl/109/364/s643/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs643%2Fa%2F2
 [/us/pl/109/364/s644/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs644%2Fa

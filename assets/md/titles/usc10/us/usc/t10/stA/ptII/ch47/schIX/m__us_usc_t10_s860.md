@@ -43,17 +43,17 @@
 
         (3)
 
-            (A) Action on the findings of a court-martial by the convening authority or by another person authorized to act under this section is not required.
+            (A) Action on the findings of a court-martial by the convening authority or by another person authorized to act under this section is not required and may be taken only with respect to a qualifying offense.
 
             (B)
 
              If the convening authority or another person authorized to act under this section acts on the findings of a court-martial, the convening authority or other person—
 
-                (i) may not dismiss any charge or specification, other than a charge or specification for a qualifying offense, by setting aside a finding of guilty thereto; or
+                (i) may not dismiss any charge or specification by setting aside a finding of guilty thereto, but may take such action with respect to a qualifying offense; or
 
-                (ii) may not change a finding of guilty to a charge or specification, other than a charge or specification for a qualifying offense, to a finding of guilty to an offense that is a lesser included offense of the offense stated in the charge or specification.
+                (ii) may not change a finding of guilty to a charge or specification to a finding of guilty to an offense that is a lesser included offense of the offense stated in the charge or specification, but may take such action with respect to a qualifying offense.
 
-            (C) If the convening authority or another person authorized to act under this section acts on the findings to dismiss or change any charge or specification for an offense (other than a qualifying offense), the convening authority or other person shall provide, at that same time, a written explanation of the reasons for such action. The written explanation shall be made a part of the record of the trial and action thereon.
+            (C) If the convening authority or another person authorized to act under this section acts on the findings to dismiss or change any charge or specification for an offense, the convening authority or other person shall provide, at that same time, a written explanation of the reasons for such action. The written explanation shall be made a part of the record of the trial and action thereon.
 
             (D)
 
@@ -87,7 +87,7 @@
 
                 (i) If a mandatory minimum sentence of a dishonorable discharge applies to an offense for which the accused has been convicted, the convening authority or another person authorized to act under this section may commute the dishonorable discharge to a bad conduct discharge pursuant to the terms of the pre-trial agreement.
 
-                (ii) Except as provided in clause (i), if a mandatory minimum sentence applies to an offense for which the accused has been convicted, the convening authority or another person authorized to act under this section may not disapprove, otherwise commute, or suspend the mandatory minimum sentence in whole or in part, unless authorized to do so under subparagraph (B).
+                (ii) Except as provided in clause (i), if a mandatory minimum sentence applies pursuant to [section 856(b) of this title][/us/usc/t10/s856/b] (article 56(b)) to an offense for which the accused has been convicted, the convening authority or another person authorized to act under this section may not disapprove, otherwise commute, or suspend the mandatory minimum sentence in whole or in part, unless authorized to do so under subparagraph (B).
 
     (d)
 
@@ -99,9 +99,9 @@
 
              Except as provided in subparagraph (B), the submission of matters under paragraph (1) shall be made within 10 days after the later of—
 
-                (i) the date on which the victim has been given an authenticated record of trial in accordance with [section 854(e) of this title][/us/usc/t10/s854/e] (article 54(e)); and
+                (i) the date on which the victim has been given an authenticated record of trial in accordance with [section 854(e) of this title][/us/usc/t10/s854/e] (article 54(e)), if applicable; and
 
-                (ii) if applicable, the date on which the victim has been given the recommendation of the staff judge advocate or legal officer under subsection (e).
+                (ii) the date on which the victim has been given the recommendation of the staff judge advocate or legal officer under subsection (e).
 
             (B) In the case of a summary court-martial, the submission of matters under paragraph (1) shall be made within seven days after the date on which the sentence is announced.
 
@@ -109,7 +109,7 @@
 
         (4) A victim may waive the right under this subsection to make a submission to the convening authority or other person taking action under this section. Such a waiver shall be made in writing and may not be revoked. For the purposes of subsection (c)(2), the time within which a victim may make a submission under this subsection shall be deemed to have expired upon the submission of such waiver to the convening authority or such other person.
 
-        (5) In this section, the term “victim” means a person who has suffered a direct physical, emotional, or pecuniary loss as a result of a commission of an offense under this chapter (the Uniform Code of Military Justice) and on which the convening authority or other person authorized to take action under this section is taking action under this section.
+        (5) In this section, the term “victim” means a person who has suffered a direct physical, emotional, or pecuniary harm as a result of a commission of an offense under this chapter (the Uniform Code of Military Justice) and on which the convening authority or other person authorized to take action under this section is taking action under this section.
 
     (e) Before acting under this section on any general court-martial case or any special court-martial case that includes a bad-conduct discharge, the convening authority or another person authorized to act under this section shall obtain and consider the written recommendation of his staff judge advocate or legal officer. The convening authority or other person taking action under this section shall refer the record of trial to his staff judge advocate or legal officer, and the staff judge advocate or legal officer shall use such record in the preparation of his recommendation. The recommendation of the staff judge advocate or legal officer shall include such matters as the President may prescribe by regulation and shall be served on the accused, who may submit any matter in response under subsection (b). Failure to object in the response to the recommendation or to any matter attached to the recommendation waives the right to object thereto.
 
@@ -129,7 +129,7 @@
 
         (3) A rehearing may be ordered by the convening authority or another person authorized to act under this section if he disapproves the findings and sentence and states the reasons for disapproval of the findings. If such person disapproves the findings and sentence and does not order a rehearing, he shall dismiss the charges. A rehearing as to the findings may not be ordered where there is a lack of sufficient evidence in the record to support the findings. A rehearing as to the sentence may be ordered if the convening authority or other person taking action under this subsection disapproves the sentence.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 57][/us/stat/70A/57]; [Pub. L. 98–209, § 5(a)(1)][/us/pl/98/209/s5/a/1], Dec. 6, 1983, [97 Stat. 1395][/us/stat/97/1395]; [Pub. L. 99–661, div. A, title VIII, § 806(a)][/us/pl/99/661/s806/a]–(c), Nov. 14, 1986, [100 Stat. 3908][/us/stat/100/3908], 3909; [Pub. L. 104–106, div. A, title XI, § 1132][/us/pl/104/106/s1132], Feb. 10, 1996, [110 Stat. 464][/us/stat/110/464]; [Pub. L. 113–66, div. A, title XVII][/us/pl/113/66], §§ 1702(b), (c)(1), 1706, Dec. 26, 2013, [127 Stat. 955–957][/us/stat/127/955-957], 960.)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 57][/us/stat/70A/57]; [Pub. L. 98–209, § 5(a)(1)][/us/pl/98/209/s5/a/1], Dec. 6, 1983, [97 Stat. 1395][/us/stat/97/1395]; [Pub. L. 99–661, div. A, title VIII, § 806(a)][/us/pl/99/661/s806/a]–(c), Nov. 14, 1986, [100 Stat. 3908][/us/stat/100/3908], 3909; [Pub. L. 104–106, div. A, title XI, § 1132][/us/pl/104/106/s1132], Feb. 10, 1996, [110 Stat. 464][/us/stat/110/464]; [Pub. L. 113–66, div. A, title XVII][/us/pl/113/66], §§ 1702(b), (c)(1), 1706, Dec. 26, 2013, [127 Stat. 955–957][/us/stat/127/955-957], 960; [Pub. L. 113–291, div. A, title V, § 531(a)(1)][/us/pl/113/291/s531/a/1]–(3), (5), Dec. 19, 2014, [128 Stat. 3362][/us/stat/128/3362], 3363.)
 
 <table>
 
@@ -179,6 +179,22 @@ May 5, 1950, ch. 169, § 1 (Art. 60), 64 Stat. 127.  </td>
 
  __Amendments__ 
 
+    2014—Subsec. (c)(3)(A). [Pub. L. 113–291, § 531(a)(1)(A)][/us/pl/113/291/s531/a/1/A], inserted “and may be taken only with respect to a qualifying offense” after “is not required”.
+
+    Subsec. (c)(3)(B)(i). [Pub. L. 113–291, § 531(a)(1)(B)][/us/pl/113/291/s531/a/1/B], struck out “, other than a charge or specification for a qualifying offense,” after “specification” and inserted “, but may take such action with respect to a qualifying offense” before semicolon.
+
+    Subsec. (c)(3)(B)(ii). [Pub. L. 113–291, § 531(a)(1)(C)][/us/pl/113/291/s531/a/1/C], struck out “, other than a charge or specification for a qualifying offense,” after “to a charge or specification” and inserted “, but may take such action with respect to a qualifying offense” before period.
+
+    Subsec. (c)(3)(C). [Pub. L. 113–291, § 531(a)(2)][/us/pl/113/291/s531/a/2], struck out “(other than a qualifying offense)” after “offense”.
+
+    Subsec. (c)(4)(C)(ii). [Pub. L. 113–291, § 531(a)(5)][/us/pl/113/291/s531/a/5], inserted “pursuant to [section 856(b) of this title][/us/usc/t10/s856/b] (article 56(b))” after “applies”.
+
+    Subsec. (d)(2)(A)(i). [Pub. L. 113–291, § 531(a)(3)(A)(i)][/us/pl/113/291/s531/a/3/A/i], inserted “, if applicable” before semicolon.
+
+    Subsec. (d)(2)(A)(ii). [Pub. L. 113–291, § 531(a)(3)(A)(ii)][/us/pl/113/291/s531/a/3/A/ii], struck out “if applicable,” before “the date”.
+
+    Subsec. (d)(5). [Pub. L. 113–291, § 531(a)(3)(B)][/us/pl/113/291/s531/a/3/B], substituted “harm” for “loss”.
+
     2013—Subsec. (b)(1). [Pub. L. 113–66, § 1706(c)][/us/pl/113/66/s1706/c], substituted “subsection (e)” for “subsection (d)”.
 
     Subsec. (b)(2). [Pub. L. 113–66, § 1702(c)(1)(A)][/us/pl/113/66/s1702/c/1/A], substituted “or another person authorized to act under this section” for “or other person taking action under this section”.
@@ -219,9 +235,17 @@ May 5, 1950, ch. 169, § 1 (Art. 60), 64 Stat. 127.  </td>
 
  __Effective Date of 2013 Amendment__ 
 
-[Pub. L. 113–66, div. A, title XVII, § 1702(d)(2)][/us/pl/113/66/s1702/d/2], Dec. 26, 2013, [127 Stat. 958][/us/stat/127/958], provided that: 
+[Pub. L. 113–66, div. A, title XVII, § 1702(d)(2)][/us/pl/113/66/s1702/d/2], Dec. 26, 2013, [127 Stat. 958][/us/stat/127/958], as amended by [Pub. L. 113–291, div. A, title V, § 531(g)(2)(A)][/us/pl/113/291/s531/g/2/A], Dec. 19, 2014, [128 Stat. 3365][/us/stat/128/3365], provided that:
 
-> “The amendments made by subsection (b) and paragraphs (1) and (2) of subsection (c) \[amending this section and [section 871 of this title][/us/usc/t10/s871]\] shall take effect 180 days after the date of the enactment of this Act \[Dec. 26, 2013\] and shall apply with respect to offenses committed under chapter 47 of title 10, United States Code (the Uniform Code of Military Justice), on or after that effective date.”
+>      “(A) Except as provided in subparagraph (B), the amendments made by subsection (b) and paragraphs (1) and (2) of subsection (c) \[amending this section and [section 871 of this title][/us/usc/t10/s871]\] shall take effect 180 days after the date of the enactment of this Act \[Dec. 26, 2013\] and shall apply with respect to offenses committed under chapter 47 of title 10, United States Code (the Uniform Code of Military Justice), on or after that effective date.
+
+>     “(B) With respect to the findings and sentence of a court-martial that includes both a conviction for an offense committed before the effective date specified in subparagraph (A) and a conviction for an offense committed on or after that effective date, the convening authority shall have the same authority to take action on such findings and sentence as was in effect on the day before such effective date, except with respect to a mandatory minimum sentence under [section 856(b) of title 10][/us/usc/t10/s856/b], United States Code (article 56(b) of the Uniform Code of Military Justice).”
+
+\[[Pub. L. 113–291, div. A, title V, § 531(g)(2)(B)][/us/pl/113/291/s531/g/2/B], [128 Stat. 3366][/us/stat/128/3366], provided that: 
+
+> “The amendments made by subparagraph (A) \[amending [section 1702(d)(2) of Pub. L. 113–66][/us/pl/113/66/s1702/d/2], set out above\] shall not apply to the findings and sentence of a court-martial with respect to which the convening authority has taken action before the date that is 30 days after the date of the enactment of this Act \[Dec. 19, 2014\].”
+
+\]
 
  __Effective Date of 1986 Amendment__ 
 
@@ -243,6 +267,7 @@ May 5, 1950, ch. 169, § 1 (Art. 60), 64 Stat. 127.  </td>
 ----------
 
 [/us/usc/t10/s920]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs920
+[/us/usc/t10/s856/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs856%2Fb
 [/us/usc/t10/s854/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs854%2Fe
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/57]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F57
@@ -254,6 +279,17 @@ May 5, 1950, ch. 169, § 1 (Art. 60), 64 Stat. 127.  </td>
 [/us/stat/110/464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F464
 [/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/stat/127/955-957]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F955-957
+[/us/pl/113/291/s531/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs531%2Fa%2F1
+[/us/stat/128/3362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3362
+[/us/pl/113/291/s531/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs531%2Fa%2F1%2FA
+[/us/pl/113/291/s531/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs531%2Fa%2F1%2FB
+[/us/pl/113/291/s531/a/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs531%2Fa%2F1%2FC
+[/us/pl/113/291/s531/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs531%2Fa%2F2
+[/us/pl/113/291/s531/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs531%2Fa%2F5
+[/us/usc/t10/s856/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs856%2Fb
+[/us/pl/113/291/s531/a/3/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs531%2Fa%2F3%2FA%2Fi
+[/us/pl/113/291/s531/a/3/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs531%2Fa%2F3%2FA%2Fii
+[/us/pl/113/291/s531/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs531%2Fa%2F3%2FB
 [/us/pl/113/66/s1706/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1706%2Fc
 [/us/pl/113/66/s1702/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1702%2Fc%2F1%2FA
 [/us/pl/113/66/s1706/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1706%2Fb
@@ -273,7 +309,13 @@ May 5, 1950, ch. 169, § 1 (Art. 60), 64 Stat. 127.  </td>
 [/us/pl/98/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F209
 [/us/pl/113/66/s1702/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1702%2Fd%2F2
 [/us/stat/127/958]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F958
+[/us/pl/113/291/s531/g/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs531%2Fg%2F2%2FA
+[/us/stat/128/3365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3365
 [/us/usc/t10/s871]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs871
+[/us/usc/t10/s856/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs856%2Fb
+[/us/pl/113/291/s531/g/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs531%2Fg%2F2%2FB
+[/us/stat/128/3366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3366
+[/us/pl/113/66/s1702/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1702%2Fd%2F2
 [/us/pl/99/661/s806/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs806%2Fc
 [/us/stat/100/3909]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3909
 [/us/pl/99/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661

@@ -25,7 +25,7 @@
 
             (A)
 
-             the defense business system program is in compliance with the enterprise architecture developed under subsection (c) and appropriate business process re-engineering efforts have been undertaken to ensure that—
+             the defense business system program is in compliance with the enterprise architecture developed under subsection (c) and appropriate business process re-engineering efforts, including business process mapping, have been undertaken to ensure that—
 
                 (i) the business process supported by the defense business system program is or will be as streamlined and efficient as practicable; and
 
@@ -33,11 +33,9 @@
 
             (B) the defense business system program is necessary to achieve a critical national security capability or address a critical requirement in an area such as safety or security; or
 
-            (C) the defense business system program is necessary to prevent a significant adverse effect on a project that is needed to achieve an essential capability, taking into consideration the alternative solutions for preventing such adverse effect;
+            (C) the defense business system program is necessary to prevent a significant adverse effect on a project that is needed to achieve an essential capability, taking into consideration the alternative solutions for preventing such adverse effect; and
 
-        (2) the covered defense business system program has been reviewed and certified by the investment review board established under subsection (g); and
-
-        (3) the certification of the investment review board under paragraph (2) has been approved by the Defense Business Systems Management Committee established by [section 186 of this title][/us/usc/t10/s186].
+        (2) the covered defense business system program has been reviewed and certified by the investment review board established under subsection (g).
 
     (b)  __Obligation of Funds in Violation of Requirements__  __.—__ 
 
@@ -47,7 +45,7 @@
 
         (1)
 
-         The Secretary of Defense, acting through the Defense Business Systems Management Committee, shall develop—
+         The Secretary of Defense, acting through the investment review board established under subsection (g), shall develop—
 
             (A) an enterprise architecture, known as the defense business enterprise architecture, to cover all defense business systems, and the functions and activities supported by defense business systems, which shall be sufficiently defined to effectively guide, constrain, and permit implementation of interoperable defense business system solutions and consistent with the policies and procedures established by the Director of the Office of Management and Budget; and
 
@@ -129,7 +127,7 @@
 
     (g)  __Defense Business System Investment Review__  __.—__ 
 
-        (1) The Secretary of Defense shall require the Deputy Chief Management Officer of the Department of Defense, not later than March 15, 2012, to establish an investment review board and investment management process, consistent with [section 11312 of title 40][/us/usc/t40/s11312], to review and certify the planning, design, acquisition, development, deployment, operation, maintenance, modernization, and project cost benefits and risks of covered defense business systems programs. The investment review board and investment management process so established shall specifically address the requirements of subsection (a).
+        (1) The Secretary of Defense shall require the Deputy Chief Management Officer of the Department of Defense to establish an investment review board and investment management process, consistent with [section 11312 of title 40][/us/usc/t40/s11312], to review and certify the planning, design, acquisition, development, deployment, operation, maintenance, modernization, and project cost benefits and risks of covered defense business systems programs. The investment review board and investment management process so established shall specifically address the requirements of subsection (a).
 
         (2)
 
@@ -141,7 +139,7 @@
 
             (C)
 
-             Representation on each investment review board by appropriate officials from among the Office of the Secretary of Defense, the armed forces, the combatant commands, the Joint Chiefs of Staff, and the Defense Agencies, including representation from each of the following:
+             Representation on the investment review board by appropriate officials from among the Office of the Secretary of Defense, the armed forces, the combatant commands, the Joint Chiefs of Staff, and the Defense Agencies, including representation from each of the following:
 
                 (i) The appropriate pre-certification authority for the defense business system under review.
 
@@ -153,11 +151,9 @@
 
             (E) Use of procedures for making certifications in accordance with the requirements of subsection (a).
 
-            (F) Use of procedures for ensuring consistency with the guidance issued by the Secretary of Defense and the Defense Business Systems Management Committee, as required by [section 186(c) of this title][/us/usc/t10/s186/c], and incorporation of common decision criteria, including standards, requirements, and priorities that result in the integration of defense business systems.
+            (F) Use of procedures for ensuring consistency with the guidance issued by the Secretary of Defense and incorporation of common decision criteria, including standards, requirements, and priorities that result in the integration of defense business systems.
 
-        (3)
-
-            (A)  <sup>\[1\]</sup>  <sup><sup> 1 So in original. No subpar. (B) has been enacted. </sup></sup>  The investment management process required by paragraph (1) shall include requirements for the military departments and the Defense Agencies to make available to the Deputy Chief Management Officer such information on covered defense business system programs and other business functions as the Deputy Chief Management Officer shall require for the review of defense business system programs under the process. Such information shall be made available to the Deputy Chief Management Officer through existing data sources or in a standardized format established by the Deputy Chief Management Officer for purposes of this paragraph.
+        (3) The investment management process required by paragraph (1) shall include requirements for the military departments and the Defense Agencies to make available to the Deputy Chief Management Officer such information on covered defense business system programs and other business functions as the Deputy Chief Management Officer shall require for the review of defense business system programs under the process. Such information shall be made available to the Deputy Chief Management Officer through existing data sources or in a standardized format established by the Deputy Chief Management Officer for purposes of this paragraph.
 
     (h)  __Budget Information__  __.—__ 
 
@@ -201,7 +197,17 @@
 
     In this section:
 
-        (1) The term “defense business system” means an information system, other than a national security system, operated by, for, or on behalf of the Department of Defense, including financial systems, mixed systems, financial data feeder systems, and information technology and information assurance infrastructure, used to support business activities, such as acquisition, financial management, logistics, strategic planning and budgeting, installations and environment, and human resource management.
+        (1)
+
+            (A) The term “defense business system” means an information system operated by, for, or on behalf of the Department of Defense, including financial systems, mixed systems, financial data feeder systems, and information technology and information assurance infrastructure, used to support business activities, such as acquisition, financial management, logistics, strategic planning and budgeting, installations and environment, and human resource management.
+
+            (B)
+
+             The term does not include—
+
+                (i) a national security system; or
+
+                (ii) an information system used exclusively by and within the defense commissary system or the exchange system or other instrumentality of the Department of Defense conducted for the morale, welfare, and recreation of members of the armed forces using nonappropriated funds.
 
         (2) The term “covered defense business system program” means any defense business system program that is expected to have a total cost in excess of $1,000,000 over the period of the current future-years defense program submitted to Congress under [section 221 of this title][/us/usc/t10/s221].
 
@@ -209,9 +215,21 @@
 
         (4) The terms “information system” and “information technology” have the meanings given those terms in [section 11101 of title 40][/us/usc/t40/s11101].
 
-        (5) The term “national security system” has the meaning given that term in section 3552(b)(5)  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be “3552(b)(6)”. </sup></sup>  of title 44.
+        (5) The term “national security system” has the meaning given that term in section 3552(b)(5)  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “3552(b)(6)”. </sup></sup>  of title 44.
 
-(Added [Pub. L. 108–375, div. A, title III, § 332(a)(1)][/us/pl/108/375/s332/a/1], Oct. 28, 2004, [118 Stat. 1851][/us/stat/118/1851]; amended [Pub. L. 109–364, div. A, title IX, § 906(a)][/us/pl/109/364/s906/a], Oct. 17, 2006, [120 Stat. 2354][/us/stat/120/2354]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title III, § 351, Oct. 14, 2008, [122 Stat. 4425][/us/stat/122/4425]; [Pub. L. 111–84, div. A, title X, § 1072(a)][/us/pl/111/84/s1072/a], Oct. 28, 2009, [123 Stat. 2470][/us/stat/123/2470]; [Pub. L. 111–383, div. A, title X, § 1075(b)(29)][/us/pl/111/383/s1075/b/29], Jan. 7, 2011, [124 Stat. 4370][/us/stat/124/4370]; [Pub. L. 112–81, div. A, title IX, § 901][/us/pl/112/81/s901], Dec. 31, 2011, [125 Stat. 1527][/us/stat/125/1527]; [Pub. L. 112–239, div. A, title IX, § 906][/us/pl/112/239/s906], Jan. 2, 2013, [126 Stat. 1869][/us/stat/126/1869]; [Pub. L. 113–66, div. A, title IX, § 901][/us/pl/113/66/s901], Dec. 26, 2013, [127 Stat. 815][/us/stat/127/815]; [Pub. L. 113–283, § 2(e)(5)(A)][/us/pl/113/283/s2/e/5/A], Dec. 18, 2014, [128 Stat. 3087][/us/stat/128/3087].)
+        (6) The term “business process mapping” means a procedure in which the steps in a business process are clarified and documented in both written form and in a flow chart.
+
+(Added [Pub. L. 108–375, div. A, title III, § 332(a)(1)][/us/pl/108/375/s332/a/1], Oct. 28, 2004, [118 Stat. 1851][/us/stat/118/1851]; amended [Pub. L. 109–364, div. A, title IX, § 906(a)][/us/pl/109/364/s906/a], Oct. 17, 2006, [120 Stat. 2354][/us/stat/120/2354]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title III, § 351, Oct. 14, 2008, [122 Stat. 4425][/us/stat/122/4425]; [Pub. L. 111–84, div. A, title X, § 1072(a)][/us/pl/111/84/s1072/a], Oct. 28, 2009, [123 Stat. 2470][/us/stat/123/2470]; [Pub. L. 111–383, div. A, title X, § 1075(b)(29)][/us/pl/111/383/s1075/b/29], Jan. 7, 2011, [124 Stat. 4370][/us/stat/124/4370]; [Pub. L. 112–81, div. A, title IX, § 901][/us/pl/112/81/s901], Dec. 31, 2011, [125 Stat. 1527][/us/stat/125/1527]; [Pub. L. 112–239, div. A, title IX, § 906][/us/pl/112/239/s906], Jan. 2, 2013, [126 Stat. 1869][/us/stat/126/1869]; [Pub. L. 113–66, div. A, title IX, § 901][/us/pl/113/66/s901], Dec. 26, 2013, [127 Stat. 815][/us/stat/127/815]; [Pub. L. 113–283, § 2(e)(5)(A)][/us/pl/113/283/s2/e/5/A], Dec. 18, 2014, [128 Stat. 3087][/us/stat/128/3087]; [Pub. L. 113–291, div. A, title VIII, § 803][/us/pl/113/291/s803], title IX, § 901(d), (k)(3), title X, § 1071(f)(16), Dec. 19, 2014, [128 Stat. 3427][/us/stat/128/3427], 3463, 3468, 3511.)
+
+ __Amendment of Section__ 
+
+    [Pub. L. 113–291, div. A, title IX, § 901(k)(3)][/us/pl/113/291/s901/k/3], Dec. 19, 2014, [128 Stat. 3468][/us/stat/128/3468], provided that, effective Feb. 1, 2017, [section 2222 of this title][/us/usc/t10/s2222] is amended—
+
+    (1) in subsections (c)(2)(E), (f)(1)(D), (f)(1)(E), (f)(2)(E), and (g)(1), by striking “the Deputy Chief Management Officer of the Department of Defense” and inserting “the Under Secretary of Defense for Business Management and Information” wherever appearing; and
+
+    (2) in subsection (g)(3)(A), by striking “Deputy Chief Management Officer” the first place appearing and inserting “Under Secretary of Defense for Business Management and Information” and by striking “Deputy Chief Management Officer” the second, third, and fourth places appearing and inserting “Under Secretary”.
+
+    See 2014 Amendment notes below.
 
  __Prior Provisions__ 
 
@@ -219,7 +237,35 @@
 
  __Amendments__ 
 
-    2014—Subsec. (j)(5). [Pub. L. 113–283][/us/pl/113/283] substituted “section 3552(b)(5)” for “section 3542(b)(2)”.
+    2014—Subsec. (a). [Pub. L. 113–291, § 901(d)(1)][/us/pl/113/291/s901/d/1], inserted “and” at end of par. (1), substituted period for “; and” at end of par. (2), and struck out par. (3) which read as follows: “the certification of the investment review board under paragraph (2) has been approved by the Defense Business Systems Management Committee established by [section 186 of this title][/us/usc/t10/s186].”.
+
+    Subsec. (a)(1)(A). [Pub. L. 113–291, § 803(b)(1)][/us/pl/113/291/s803/b/1], inserted “, including business process mapping,” after “re-engineering efforts”.
+
+    Subsec. (c)(1). [Pub. L. 113–291, § 901(d)(2)][/us/pl/113/291/s901/d/2], substituted “investment review board established under subsection (g)” for “Defense Business Systems Management Committee” in introductory provisions.
+
+    Subsec. (c)(2)(E). [Pub. L. 113–291, § 901(k)(3)(A)][/us/pl/113/291/s901/k/3/A], substituted “the Under Secretary of Defense for Business Management and Information” for “The Deputy Chief Management Officer of the Department of Defense”.
+
+    Subsec. (f)(1)(D), (E). [Pub. L. 113–291, § 901(k)(3)(A)][/us/pl/113/291/s901/k/3/A], substituted “the Under Secretary of Defense for Business Management and Information” for “The Deputy Chief Management Officer of the Department of Defense”.
+
+    Subsec. (f)(2)(E). [Pub. L. 113–291, § 901(k)(3)(A)][/us/pl/113/291/s901/k/3/A], substituted “the Under Secretary of Defense for Business Management and Information” for “The Deputy Chief Management Officer of the Department of Defense”.
+
+    Subsec. (g)(1). [Pub. L. 113–291, § 901(k)(3)(A)][/us/pl/113/291/s901/k/3/A], substituted “the Under Secretary of Defense for Business Management and Information” for “The Deputy Chief Management Officer of the Department of Defense”.
+
+    [Pub. L. 113–291, § 901(d)(3)(A)][/us/pl/113/291/s901/d/3/A], struck out “, not later than March 15, 2012,” after “Department of Defense”.
+
+    Subsec. (g)(2)(C). [Pub. L. 113–291, § 901(d)(3)(B)][/us/pl/113/291/s901/d/3/B], substituted “the investment review” for “each investment review” in introductory provisions.
+
+    Subsec. (g)(2)(F). [Pub. L. 113–291, § 901(d)(3)(C)][/us/pl/113/291/s901/d/3/C], struck out “and the Defense Business Systems Management Committee, as required by [section 186(c) of this title][/us/usc/t10/s186/c],” after “Secretary of Defense”.
+
+    Subsec. (g)(3). [Pub. L. 113–291, § 1071(f)(16)][/us/pl/113/291/s1071/f/16], struck out “(A)” after “(3)”.
+
+    [Pub. L. 113–291, § 901(k)(3)(B)][/us/pl/113/291/s901/k/3/B], which directed substitution of “Under Secretary of Defense for Business Management and Information” for “Deputy Chief Management Officer” first time appearing and “Under Secretary” for “Deputy Chief Management Officer” in three places in subsec. (g)(3)(A), was executed by making the substitution in subsec. (g)(3), to reflect the probable intent of Congress and the amendment by [section 1071(f)(16) of Pub. L. 113–291][/us/pl/113/291/s1071/f/16]. See above.
+
+    Subsec. (j)(1). [Pub. L. 113–291, § 803(a)][/us/pl/113/291/s803/a], designated existing provisions as subpar. (A), struck out “, other than a national security system,” after “information system”, and added subpar. (B).
+
+    Subsec. (j)(5). [Pub. L. 113–283][/us/pl/113/283] substituted “section 3552(b)(5)” for “section 3542(b)(2)”.
+
+    Subsec. (j)(6). [Pub. L. 113–291, § 803(b)(2)][/us/pl/113/291/s803/b/2], added par. (6).
 
     2013—Subsec. (e)(1). [Pub. L. 113–66, § 901(1)][/us/pl/113/66/s901/1], substituted “target defense business systems computing environment described in subsection (d)(3)” for “defense business enterprise architecture”.
 
@@ -245,6 +291,16 @@
 
     2006—Subsec. (j)(6). [Pub. L. 109–364][/us/pl/109/364] substituted “in [section 3542(b)(2) of title 44][/us/usc/t44/s3542/b/2]” for “in [section 2315 of this title][/us/usc/t10/s2315]”.
 
+ __Effective Date of 2014 Amendment__ 
+
+    [Pub. L. 113–291, div. A, title IX, § 901(k)(3)][/us/pl/113/291/s901/k/3], Dec. 19, 2014, [128 Stat. 3468][/us/stat/128/3468], provided that the amendment made by section 901(k)(3) is effective on the effective date specified in [section 901(a)(1) of Pub. L. 113–291][/us/pl/113/291/s901/a/1], which is Feb. 1, 2017.
+
+ __Deadline for Establishment of Investment Review Board and Investment Management Process__ 
+
+[Pub. L. 113–291, div. A, title IX, § 901(e)][/us/pl/113/291/s901/e], Dec. 19, 2014, [128 Stat. 3464][/us/stat/128/3464], provided that: 
+
+> “The investment review board and investment management process required by [section 2222(g) of title 10][/us/usc/t10/s2222/g], United States Code, as amended by subsection (d)(3), shall be established not later than March 15, 2015.”
+
  __Audit of Department of Defense Fiscal Year 2018 Financial Statements__ 
 
 [Pub. L. 113–66, div. A, title X, § 1003(a)][/us/pl/113/66/s1003/a], Dec. 26, 2013, [127 Stat. 842][/us/stat/127/842], provided that: 
@@ -253,7 +309,7 @@
 
  __Review of Obligation and Expenditure Thresholds__ 
 
-[Pub. L. 111–383, div. A, title VIII, § 882][/us/pl/111/383/s882], Jan. 7, 2011, [124 Stat. 4308][/us/stat/124/4308], provided that:
+[Pub. L. 111–383, div. A, title VIII, § 882][/us/pl/111/383/s882], Jan. 7, 2011, [124 Stat. 4308][/us/stat/124/4308], as amended by [Pub. L. 113–291, div. A, title IX, § 901(n)(1)][/us/pl/113/291/s901/n/1], Dec. 19, 2014, [128 Stat. 3469][/us/stat/128/3469], provided that:
 
 >     “(a)  __Process Review__  __.—__ 
 
@@ -272,6 +328,8 @@
 >     “(c)  __Report__  __.—__ 
 
 >     The Deputy Chief Management Officer of the Department of Defense shall include a report on the results of the review under this section in the next update of the strategic management plan transmitted to the Committees on Armed Services of the Senate and the House of Representatives under section 904(d) of the National Defense Authorization Act for Fiscal Year 2008 ([Public Law 110–181][/us/pl/110/181]; [122 Stat. 275][/us/stat/122/275]; 10 U.S.C. note prec. 2201) after the completion of the review.”
+
+    \[Any reference to the “Deputy Chief Management Officer of the Department of Defense” deemed to refer to the “Under Secretary of Defense for Business Management and Information”, effective Feb. 1, 2017, see [section 901(n) of Pub. L. 113–291][/us/pl/113/291/s901/n], set out as a note under [section 131 of this title][/us/usc/t10/s131].\]
 
  __Audit Readiness of Financial Statements of the Department of Defense__ 
 
@@ -299,7 +357,7 @@
 
 >             “(iii) a description of the plan of the military department for meeting the alternative deadline.”
 
-[Pub. L. 112–81, div. A, title X, § 1003][/us/pl/112/81/s1003], Dec. 31, 2011, [125 Stat. 1555][/us/stat/125/1555], provided that:
+[Pub. L. 112–81, div. A, title X, § 1003][/us/pl/112/81/s1003], Dec. 31, 2011, [125 Stat. 1555][/us/stat/125/1555], as amended by [Pub. L. 113–291, div. A, title IX, § 901(n)(1)][/us/pl/113/291/s901/n/1], Dec. 19, 2014, [128 Stat. 3469][/us/stat/128/3469], provided that:
 
 >     “(a) __Planning Requirement.—__ 
 
@@ -339,7 +397,9 @@
 
 >             “(D) provide timeframes for implementation of such measures.”
 
-[Pub. L. 111–383, div. A, title VIII, § 881][/us/pl/111/383/s881], Jan. 7, 2011, [124 Stat. 4306][/us/stat/124/4306], provided that:
+    \[Any reference to the “Deputy Chief Management Officer of the Department of Defense” deemed to refer to the “Under Secretary of Defense for Business Management and Information”, effective Feb. 1, 2017, see [section 901(n) of Pub. L. 113–291][/us/pl/113/291/s901/n], set out as a note under [section 131 of this title][/us/usc/t10/s131].\]
+
+[Pub. L. 111–383, div. A, title VIII, § 881][/us/pl/111/383/s881], Jan. 7, 2011, [124 Stat. 4306][/us/stat/124/4306], as amended by [Pub. L. 113–291, div. A, title IX, § 901(n)(1)][/us/pl/113/291/s901/n/1], Dec. 19, 2014, [128 Stat. 3469][/us/stat/128/3469], provided that:
 
 >     “(a) __Interim Milestones.—__ 
 
@@ -430,6 +490,8 @@
 >                 “(ii) would contribute to the achievement of Department of Defense goals to prepare auditable financial statements; and
 
 >             “(B) a recommendation on whether such option should be adopted, a schedule for implementing the option if adoption is recommended, or a reason for not recommending the option if adoption is not recommended.”
+
+    \[Any reference to the “Deputy Chief Management Officer of the Department of Defense” deemed to refer to the “Under Secretary of Defense for Business Management and Information”, effective Feb. 1, 2017, see [section 901(n) of Pub. L. 113–291][/us/pl/113/291/s901/n], set out as a note under [section 131 of this title][/us/usc/t10/s131].\]
 
 [Pub. L. 111–84, div. A, title X, § 1003][/us/pl/111/84/s1003], Oct. 28, 2009, [123 Stat. 2439][/us/stat/123/2439], as amended by [Pub. L. 112–239, div. A, title X, § 1005(a)][/us/pl/112/239/s1005/a], Jan. 2, 2013, [126 Stat. 1904][/us/stat/126/1904]; [Pub. L. 113–66, div. A, title X, § 1003(b)][/us/pl/113/66/s1003/b], Dec. 26, 2013, [127 Stat. 842][/us/stat/127/842], provided that:
 
@@ -741,10 +803,8 @@
 ----------
 
 [/us/usc/t10/s221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs221
-[/us/usc/t10/s186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs186
 [/us/usc/t31/s1341/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1341%2Fa%2F1%2FA
 [/us/usc/t40/s11312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs11312
-[/us/usc/t10/s186/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs186%2Fc
 [/us/usc/t31/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4569
@@ -770,13 +830,35 @@
 [/us/stat/127/815]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F815
 [/us/pl/113/283/s2/e/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F283%2Fs2%2Fe%2F5%2FA
 [/us/stat/128/3087]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3087
+[/us/pl/113/291/s803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs803
+[/us/stat/128/3427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3427
+[/us/pl/113/291/s901/k/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs901%2Fk%2F3
+[/us/stat/128/3468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3468
+[/us/usc/t10/s2222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2222
 [/us/pl/105/85/s1008/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs1008%2Fa%2F1
 [/us/stat/111/1870]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1870
 [/us/pl/107/107/s1009/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs1009%2Fb%2F1
 [/us/stat/115/1208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1208
 [/us/pl/107/314/s1004/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs1004%2Fh%2F1
 [/us/stat/116/2631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2631
+[/us/pl/113/291/s901/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs901%2Fd%2F1
+[/us/usc/t10/s186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs186
+[/us/pl/113/291/s803/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs803%2Fb%2F1
+[/us/pl/113/291/s901/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs901%2Fd%2F2
+[/us/pl/113/291/s901/k/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs901%2Fk%2F3%2FA
+[/us/pl/113/291/s901/k/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs901%2Fk%2F3%2FA
+[/us/pl/113/291/s901/k/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs901%2Fk%2F3%2FA
+[/us/pl/113/291/s901/k/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs901%2Fk%2F3%2FA
+[/us/pl/113/291/s901/d/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs901%2Fd%2F3%2FA
+[/us/pl/113/291/s901/d/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs901%2Fd%2F3%2FB
+[/us/pl/113/291/s901/d/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs901%2Fd%2F3%2FC
+[/us/usc/t10/s186/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs186%2Fc
+[/us/pl/113/291/s1071/f/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Ff%2F16
+[/us/pl/113/291/s901/k/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs901%2Fk%2F3%2FB
+[/us/pl/113/291/s1071/f/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Ff%2F16
+[/us/pl/113/291/s803/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs803%2Fa
 [/us/pl/113/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F283
+[/us/pl/113/291/s803/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs803%2Fb%2F2
 [/us/pl/113/66/s901/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs901%2F1
 [/us/pl/113/66/s901/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs901%2F2
 [/us/pl/113/66/s901/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs901%2F3
@@ -791,14 +873,24 @@
 [/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
 [/us/usc/t44/s3542/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3542%2Fb%2F2
 [/us/usc/t10/s2315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2315
+[/us/pl/113/291/s901/k/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs901%2Fk%2F3
+[/us/stat/128/3468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3468
+[/us/pl/113/291/s901/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs901%2Fa%2F1
+[/us/pl/113/291/s901/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs901%2Fe
+[/us/stat/128/3464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3464
+[/us/usc/t10/s2222/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2222%2Fg
 [/us/pl/113/66/s1003/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1003%2Fa
 [/us/stat/127/842]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F842
 [/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
 [/us/usc/t10/s2222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2222
 [/us/pl/111/383/s882]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs882
 [/us/stat/124/4308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4308
+[/us/pl/113/291/s901/n/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs901%2Fn%2F1
+[/us/stat/128/3469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3469
 [/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
 [/us/stat/122/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F275
+[/us/pl/113/291/s901/n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs901%2Fn
+[/us/usc/t10/s131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs131
 [/us/pl/112/239/s1005/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1005%2Fb
 [/us/stat/126/1904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1904
 [/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
@@ -806,6 +898,8 @@
 [/us/usc/t10/s2222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2222
 [/us/pl/112/81/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1003
 [/us/stat/125/1555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1555
+[/us/pl/113/291/s901/n/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs901%2Fn%2F1
+[/us/stat/128/3469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3469
 [/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
 [/us/stat/123/2440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2440
 [/us/usc/t10/s2222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2222
@@ -818,8 +912,12 @@
 [/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
 [/us/stat/121/4306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F4306
 [/us/usc/t10/s2222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2222
+[/us/pl/113/291/s901/n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs901%2Fn
+[/us/usc/t10/s131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs131
 [/us/pl/111/383/s881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs881
 [/us/stat/124/4306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4306
+[/us/pl/113/291/s901/n/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs901%2Fn%2F1
+[/us/stat/128/3469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3469
 [/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
 [/us/stat/123/2439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2439
 [/us/usc/t10/s2222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2222
@@ -838,6 +936,8 @@
 [/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
 [/us/stat/123/2439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2439
 [/us/usc/t10/s2222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2222
+[/us/pl/113/291/s901/n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs901%2Fn
+[/us/usc/t10/s131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs131
 [/us/pl/111/84/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs1003
 [/us/stat/123/2439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2439
 [/us/pl/112/239/s1005/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1005%2Fa

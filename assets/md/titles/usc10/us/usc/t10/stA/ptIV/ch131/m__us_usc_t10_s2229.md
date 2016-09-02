@@ -19,7 +19,7 @@
 
         (1)  __In general__  __.—__ 
 
-        The Secretary of Defense shall maintain a strategic policy on the programs of the Department of Defense for prepositioned materiel and equipment. Such policy shall take into account national security threats, strategic mobility, service requirements, and the requirements of the combatant commands, and shall address how the Department’s prepositioning programs, both ground and afloat, align with national defense strategies and departmental priorities.
+        The Secretary of Defense shall maintain a strategic policy on the programs of the Department of Defense for prepositioned materiel and equipment. Such policy shall take into account national security threats, strategic mobility, service requirements, support for crisis response elements, and the requirements of the combatant commands, and shall address how the Department’s prepositioning programs, both ground and afloat, align with national defense strategies and departmental priorities.
 
         (2)  __Elements__  __.—__ 
 
@@ -61,9 +61,11 @@
 
         (3) A certification under this subsection shall be in an unclassified form but may have a classified annex.
 
-(Added [Pub. L. 109–364, div. A, title III, § 351(a)][/us/pl/109/364/s351/a], Oct. 17, 2006, [120 Stat. 2160][/us/stat/120/2160]; amended [Pub. L. 112–81, div. A, title III, § 341(a)][/us/pl/112/81/s341/a], Dec. 31, 2011, [125 Stat. 1369][/us/stat/125/1369]; [Pub. L. 113–66, div. A, title III, § 321(a)][/us/pl/113/66/s321/a], Dec. 26, 2013, [127 Stat. 730][/us/stat/127/730].)
+(Added [Pub. L. 109–364, div. A, title III, § 351(a)][/us/pl/109/364/s351/a], Oct. 17, 2006, [120 Stat. 2160][/us/stat/120/2160]; amended [Pub. L. 112–81, div. A, title III, § 341(a)][/us/pl/112/81/s341/a], Dec. 31, 2011, [125 Stat. 1369][/us/stat/125/1369]; [Pub. L. 113–66, div. A, title III, § 321(a)][/us/pl/113/66/s321/a], Dec. 26, 2013, [127 Stat. 730][/us/stat/127/730]; [Pub. L. 113–291, div. A, title III, § 322][/us/pl/113/291/s322], Dec. 19, 2014, [128 Stat. 3343][/us/stat/128/3343].)
 
  __Amendments__ 
+
+    2014—Subsec. (a)(1). [Pub. L. 113–291][/us/pl/113/291] inserted “support for crisis response elements,” after “service requirements,”.
 
     2013—Subsec. (a). [Pub. L. 113–66][/us/pl/113/66] amended subsec. (a) generally. Prior to amendment, text read as follows: “The Secretary of Defense shall maintain a strategic policy on the programs of the Department of Defense for the prepositioning of materiel and equipment. Such policy shall take into account national security threats, strategic mobility, service requirements, and the requirements of the combatant commands.”
 
@@ -71,7 +73,7 @@
 
  __Implementation Plan and Report__ 
 
-[Pub. L. 113–66, div. A, title III, § 321(b)][/us/pl/113/66/s321/b], (c), Dec. 26, 2013, [127 Stat. 731][/us/stat/127/731], 732, provided that:
+[Pub. L. 113–66, div. A, title III, § 321(b)][/us/pl/113/66/s321/b], (c), Dec. 26, 2013, [127 Stat. 731][/us/stat/127/731], 732, as amended by [Pub. L. 113–291, div. A, title III, § 324][/us/pl/113/291/s324], Dec. 19, 2014, [128 Stat. 3343][/us/stat/128/3343], provided that:
 
 >     “(b) __Implementation Plan.—__ 
 
@@ -99,7 +101,13 @@
 
 >     “(c)  __Comptroller General Report__  __.—__ 
 
->     Not later than 180 days after the date of the enactment of this Act, and annually thereafter, the Comptroller General of the United States shall review the implementation plan submitted under subsection (b) and the prepositioning strategic policy required under [section 2229(a) of title 10][/us/usc/t10/s2229/a], United States Code, as amended by subsection (a), and submit to the congressional defense committees a report describing the findings of such review and including any additional information relating to the propositioning strategic policy and plan that the Comptroller General determines appropriate.”
+>         “(1) __Initial report.—__ 
+
+>         Not later than 180 days after the date of the enactment of this Act, the Comptroller General of the United States shall review the implementation plan submitted under subsection (b) and the prepositioning strategic policy required under [section 2229(a) of title 10][/us/usc/t10/s2229/a], United States Code, as amended by subsection (a), and submit to the congressional defense committees a report describing the findings of such review and including any additional information relating to the propositioning strategic policy and plan that the Comptroller General determines appropriate.
+
+>         “(2) __Progress reports.—__ 
+
+>         Not later than one year after submitting the report required under paragraph (1), and annually thereafter for two years, the Comptroller General shall submit to the congressional defense committees a report assessing the progress of the Department of Defense in implementing its strategic policy and plan for its prepositioned stocks and including any additional information related to the Department’s management of its prepositioned stocks that the Comptroller General determines appropriate.”
 
  __Deadline for Establishment of Policy__ 
 
@@ -151,10 +159,15 @@
 [/us/stat/125/1369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1369
 [/us/pl/113/66/s321/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs321%2Fa
 [/us/stat/127/730]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F730
+[/us/pl/113/291/s322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs322
+[/us/stat/128/3343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3343
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
 [/us/pl/113/66/s321/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs321%2Fb
 [/us/stat/127/731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F731
+[/us/pl/113/291/s324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs324
+[/us/stat/128/3343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3343
 [/us/usc/t10/s2229/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2229%2Fa
 [/us/usc/t10/s2229/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2229%2Fa
 [/us/pl/109/364/s351/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs351%2Fc

@@ -53,35 +53,7 @@
 
     The Secretary of Defense shall prescribe regulations to carry out this section.
 
-    (h)  __Annual Report__  __.—__ 
-
-        (1)
-
-         Not later than 90 days after the end of each fiscal year, the Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report on the use by the Department of Defense during such fiscal year of—
-
-            (A) cooperative agreements authorized under [section 2358 of this title][/us/usc/t10/s2358] that contain a clause under subsection (d); and
-
-            (B) transactions authorized by subsection (a).
-
-        (2)
-
-         The report shall include, with respect to the cooperative agreements and other transactions covered by the report, the following:
-
-            (A) The technology areas in which research projects were conducted under such agreements or other transactions.
-
-            (B) The extent of the cost-sharing among Federal Government and non-Federal sources.
-
-            (C)
-
-             The extent to which the use of the cooperative agreements and other transactions—
-
-                (i) has contributed to a broadening of the technology and industrial base available for meeting Department of Defense needs; and
-
-                (ii) has fostered within the technology and industrial base new relationships and practices that support the national security of the United States.
-
-            (D) The total amount of payments, if any, that were received by the Federal Government during the fiscal year covered by the report pursuant to a clause described in subsection (d) that was included in the cooperative agreements and other transactions, and the amount of such payments, if any, that were credited to each account established under subsection (f).
-
-        (3) No report is required under this subsection for a fiscal year after fiscal year 2006.
+    \[(h) Repealed. [Pub. L. 113–291, div. A, title X, § 1071(f)(20)][/us/pl/113/291/s1071/f/20], Dec. 19, 2014, [128 Stat. 3511][/us/stat/128/3511]\]
 
     (i)  __Protection of Certain Information From Disclosure__  __.—__ 
 
@@ -101,9 +73,11 @@
 
                 (iii) Technical information submitted on a confidential basis.
 
-(Added [Pub. L. 101–189, div. A, title II, § 251(a)(1)][/us/pl/101/189/s251/a/1], Nov. 29, 1989, [103 Stat. 1403][/us/stat/103/1403]; amended [Pub. L. 101–510, div. A, title XIV, § 1484(k)(9)][/us/pl/101/510/s1484/k/9], Nov. 5, 1990, [104 Stat. 1719][/us/stat/104/1719]; [Pub. L. 102–190, div. A, title VIII, § 826][/us/pl/102/190/s826], Dec. 5, 1991, [105 Stat. 1442][/us/stat/105/1442]; [Pub. L. 102–484, div. A, title II, § 217][/us/pl/102/484/s217], Oct. 23, 1992, [106 Stat. 2352][/us/stat/106/2352]; [Pub. L. 103–35, title II, § 201(c)(4)][/us/pl/103/35/s201/c/4], May 31, 1993, [107 Stat. 98][/us/stat/107/98]; [Pub. L. 103–160, div. A, title VIII, § 827(b)][/us/pl/103/160/s827/b], title XI, § 1182(a)(6), Nov. 30, 1993, [107 Stat. 1712][/us/stat/107/1712], 1771; [Pub. L. 103–355, title I, § 1301(b)][/us/pl/103/355/s1301/b], Oct. 13, 1994, [108 Stat. 3285][/us/stat/108/3285]; [Pub. L. 104–106, div. A, title XV, § 1502(a)(1)][/us/pl/104/106/s1502/a/1], Feb. 10, 1996, [110 Stat. 502][/us/stat/110/502]; [Pub. L. 104–201, div. A, title II, § 267(a)][/us/pl/104/201/s267/a]–(c)(1)(A), title X, § 1073(e)(1)(B), Sept. 23, 1996, [110 Stat. 2467][/us/stat/110/2467], 2468, 2658; [Pub. L. 105–85, div. A, title VIII, § 832][/us/pl/105/85/s832], Nov. 18, 1997, [111 Stat. 1842][/us/stat/111/1842]; [Pub. L. 105–261, div. A, title VIII, § 817][/us/pl/105/261/s817], Oct. 17, 1998, [112 Stat. 2089][/us/stat/112/2089]; [Pub. L. 106–65, div. A, title X, § 1067(1)][/us/pl/106/65/s1067/1], Oct. 5, 1999, [113 Stat. 774][/us/stat/113/774]; [Pub. L. 108–136, div. A, title X, § 1031(a)(19)][/us/pl/108/136/s1031/a/19], Nov. 24, 2003, [117 Stat. 1597][/us/stat/117/1597].)
+(Added [Pub. L. 101–189, div. A, title II, § 251(a)(1)][/us/pl/101/189/s251/a/1], Nov. 29, 1989, [103 Stat. 1403][/us/stat/103/1403]; amended [Pub. L. 101–510, div. A, title XIV, § 1484(k)(9)][/us/pl/101/510/s1484/k/9], Nov. 5, 1990, [104 Stat. 1719][/us/stat/104/1719]; [Pub. L. 102–190, div. A, title VIII, § 826][/us/pl/102/190/s826], Dec. 5, 1991, [105 Stat. 1442][/us/stat/105/1442]; [Pub. L. 102–484, div. A, title II, § 217][/us/pl/102/484/s217], Oct. 23, 1992, [106 Stat. 2352][/us/stat/106/2352]; [Pub. L. 103–35, title II, § 201(c)(4)][/us/pl/103/35/s201/c/4], May 31, 1993, [107 Stat. 98][/us/stat/107/98]; [Pub. L. 103–160, div. A, title VIII, § 827(b)][/us/pl/103/160/s827/b], title XI, § 1182(a)(6), Nov. 30, 1993, [107 Stat. 1712][/us/stat/107/1712], 1771; [Pub. L. 103–355, title I, § 1301(b)][/us/pl/103/355/s1301/b], Oct. 13, 1994, [108 Stat. 3285][/us/stat/108/3285]; [Pub. L. 104–106, div. A, title XV, § 1502(a)(1)][/us/pl/104/106/s1502/a/1], Feb. 10, 1996, [110 Stat. 502][/us/stat/110/502]; [Pub. L. 104–201, div. A, title II, § 267(a)][/us/pl/104/201/s267/a]–(c)(1)(A), title X, § 1073(e)(1)(B), Sept. 23, 1996, [110 Stat. 2467][/us/stat/110/2467], 2468, 2658; [Pub. L. 105–85, div. A, title VIII, § 832][/us/pl/105/85/s832], Nov. 18, 1997, [111 Stat. 1842][/us/stat/111/1842]; [Pub. L. 105–261, div. A, title VIII, § 817][/us/pl/105/261/s817], Oct. 17, 1998, [112 Stat. 2089][/us/stat/112/2089]; [Pub. L. 106–65, div. A, title X, § 1067(1)][/us/pl/106/65/s1067/1], Oct. 5, 1999, [113 Stat. 774][/us/stat/113/774]; [Pub. L. 108–136, div. A, title X, § 1031(a)(19)][/us/pl/108/136/s1031/a/19], Nov. 24, 2003, [117 Stat. 1597][/us/stat/117/1597]; [Pub. L. 113–291, div. A, title X, § 1071(f)(20)][/us/pl/113/291/s1071/f/20], Dec. 19, 2014, [128 Stat. 3511][/us/stat/128/3511].)
 
  __Amendments__ 
+
+    2014—Subsec. (h). [Pub. L. 113–291][/us/pl/113/291] struck out subsec. (h) which related to annual report on use of certain cooperative agreements and transactions.
 
     2003—Subsec. (h)(3). [Pub. L. 108–136][/us/pl/108/136] added par. (3).
 
@@ -187,11 +161,11 @@
 
  __Authority of Defense Advanced Research Projects Agency To Carry Out Certain Prototype Projects__ 
 
-[Pub. L. 103–160, div. A, title VIII, § 845][/us/pl/103/160/s845], Nov. 30, 1993, [107 Stat. 1721][/us/stat/107/1721], as amended by [Pub. L. 104–201, div. A, title VIII, § 804][/us/pl/104/201/s804], title X, § 1073(e)(1)(D), (2)(A), Sept. 23, 1996, [110 Stat. 2605][/us/stat/110/2605], 2658; [Pub. L. 105–261, div. A, title II, § 241][/us/pl/105/261/s241], Oct. 17, 1998, [112 Stat. 1954][/us/stat/112/1954]; [Pub. L. 106–65, div. A, title VIII, § 801][/us/pl/106/65/s801], title X, § 1066(d)(6), Oct. 5, 1999, [113 Stat. 700][/us/stat/113/700], 773; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title VIII, §§ 803, 804(a)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–205, 1654A–206; [Pub. L. 107–107, div. A, title VIII, § 822][/us/pl/107/107/s822], title X, § 1048(i)(2), Dec. 28, 2001, [115 Stat. 1182][/us/stat/115/1182], 1229; [Pub. L. 108–136, div. A, title VIII, § 847][/us/pl/108/136/s847], Nov. 24, 2003, [117 Stat. 1554][/us/stat/117/1554]; [Pub. L. 109–163, div. A, title VIII, § 823][/us/pl/109/163/s823], Jan. 6, 2006, [119 Stat. 3387][/us/stat/119/3387]; [Pub. L. 109–364, div. A, title VIII, § 855][/us/pl/109/364/s855], Oct. 17, 2006, [120 Stat. 2347][/us/stat/120/2347]; [Pub. L. 110–181, div. A, title VIII, § 823][/us/pl/110/181/s823], title X, § 1063(h), Jan. 28, 2008, [122 Stat. 226][/us/stat/122/226], 324; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title VIII, § 824, Oct. 14, 2008, [122 Stat. 4533][/us/stat/122/4533]; [Pub. L. 111–383, div. A, title VIII][/us/pl/111/383], §§ 826, 866(g)(2), Jan. 7, 2011, [124 Stat. 4270][/us/stat/124/4270], 4298; [Pub. L. 112–239, div. A, title VIII, § 863][/us/pl/112/239/s863], Jan. 2, 2013, [126 Stat. 1860][/us/stat/126/1860], provided that:
+[Pub. L. 103–160, div. A, title VIII, § 845][/us/pl/103/160/s845], Nov. 30, 1993, [107 Stat. 1721][/us/stat/107/1721], as amended by [Pub. L. 104–201, div. A, title VIII, § 804][/us/pl/104/201/s804], title X, § 1073(e)(1)(D), (2)(A), Sept. 23, 1996, [110 Stat. 2605][/us/stat/110/2605], 2658; [Pub. L. 105–261, div. A, title II, § 241][/us/pl/105/261/s241], Oct. 17, 1998, [112 Stat. 1954][/us/stat/112/1954]; [Pub. L. 106–65, div. A, title VIII, § 801][/us/pl/106/65/s801], title X, § 1066(d)(6), Oct. 5, 1999, [113 Stat. 700][/us/stat/113/700], 773; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title VIII, §§ 803, 804(a)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–205, 1654A–206; [Pub. L. 107–107, div. A, title VIII, § 822][/us/pl/107/107/s822], title X, § 1048(i)(2), Dec. 28, 2001, [115 Stat. 1182][/us/stat/115/1182], 1229; [Pub. L. 108–136, div. A, title VIII, § 847][/us/pl/108/136/s847], Nov. 24, 2003, [117 Stat. 1554][/us/stat/117/1554]; [Pub. L. 109–163, div. A, title VIII, § 823][/us/pl/109/163/s823], Jan. 6, 2006, [119 Stat. 3387][/us/stat/119/3387]; [Pub. L. 109–364, div. A, title VIII, § 855][/us/pl/109/364/s855], Oct. 17, 2006, [120 Stat. 2347][/us/stat/120/2347]; [Pub. L. 110–181, div. A, title VIII, § 823][/us/pl/110/181/s823], title X, § 1063(h), Jan. 28, 2008, [122 Stat. 226][/us/stat/122/226], 324; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title VIII, § 824, Oct. 14, 2008, [122 Stat. 4533][/us/stat/122/4533]; [Pub. L. 111–383, div. A, title VIII][/us/pl/111/383], §§ 826, 866(g)(2), Jan. 7, 2011, [124 Stat. 4270][/us/stat/124/4270], 4298; [Pub. L. 112–239, div. A, title VIII, § 863][/us/pl/112/239/s863], Jan. 2, 2013, [126 Stat. 1860][/us/stat/126/1860]; [Pub. L. 113–291, div. A, title VIII, § 812][/us/pl/113/291/s812], title X, § 1071(b)(13), Dec. 19, 2014, [128 Stat. 3429][/us/stat/128/3429], 3507, provided that:
 
 >     “(a)  __Authority__  __.—__ 
 
->         (1) Subject to paragraph (2), the Director of the Defense Advanced Research Projects Agency, the Secretary of a military department, or any other official designated by the Secretary of Defense may, under the authority of [section 2371 of title 10][/us/usc/t10/s2371], United States Code, carry out prototype projects that are directly relevant to weapons or weapon systems proposed to be acquired or developed by the Department of Defense, or to improvement of weapons or weapon systems in use by the Armed Forces.
+>         (1) Subject to paragraph (2), the Director of the Defense Advanced Research Projects Agency, the Secretary of a military department, or any other official designated by the Secretary of Defense may, under the authority of [section 2371 of title 10][/us/usc/t10/s2371], United States Code, carry out prototype projects that are directly relevant to enhancing the mission effectiveness of military personnel and the supporting platforms, systems, components, or materials proposed to be acquired or developed by the Department of Defense, or to improvement of platforms, systems, components, or materials in use by the Armed Forces.
 
 >         “(2)
 
@@ -199,7 +173,7 @@
 
 >             “(A)
 
->              may be exercised for a prototype project that is expected to cost the Department of Defense in excess of $20,000,000 but not in excess of $100,000,000 (including all options) only upon a written determination by the senior procurement executive for the agency (as designated for the purpose of section 16(c) of the Office of Federal Procurement Policy Act \[former\] ([41 U.S.C. 414(c)][/us/usc/t41/s414/c]) \[now [41 U.S.C. 1702(c)][/us/usc/t41/s1702/c]\] or, for the Defense Advanced Research Projects Agency or the Missile Defense Agency, the director of the agency that—
+>              may be exercised for a prototype project that is expected to cost the Department of Defense in excess of $20,000,000 but not in excess of $100,000,000 (including all options) only upon a written determination by the senior procurement executive for the agency (as designated for the purpose of [section 1702(c) of title 41][/us/usc/t41/s1702/c], United States Code, \[sic\]\[)\] or, for the Defense Advanced Research Projects Agency or the Missile Defense Agency, the director of the agency that—
 
 >                 “(i) the requirements of subsection (d) will be met; and
 
@@ -253,11 +227,11 @@
 
 >             “(B)
 
->              no nontraditional defense contractor is participating to a significant extent in the prototype project, but at least one of the following circumstances exists:
+>              no nontraditional defense contractor or small business is participating to a significant extent in the prototype project, but at least one of the following circumstances exists:
 
 >                 “(i) At least one third of the total cost of the prototype project is to be paid out of funds provided by parties to the transaction other than the Federal Government.
 
->                 “(ii) The senior procurement executive for the agency (as designated for the purposes of section 16(3) of the Office of Federal Procurement Policy Act (\[former\] [41 U.S.C. 414(3)][/us/usc/t41/s414/3])) \[see [41 U.S.C. 1702(c)][/us/usc/t41/s1702/c]\] determines in writing that exceptional circumstances justify the use of a transaction that provides for innovative business arrangements or structures that would not be feasible or appropriate under a contract.
+>                 “(ii) The senior procurement executive for the agency (as designated for the purposes of [section 1702(c) of title 41][/us/usc/t41/s1702/c], United States Code) determines in writing that exceptional circumstances justify the use of a transaction that provides for innovative business arrangements or structures that would not be feasible or appropriate under a contract.
 
 >         “(2)
 
@@ -279,7 +253,7 @@
 
 >          Under the pilot program—
 
->             “(A) a qualifying contract for the procurement of such an item or process, or a qualifying subcontract under a contract for the procurement of such an item or process, may be treated as a contract or subcontract, respectively, for the procurement of commercial items, as defined in section 4(12) of the Office of Federal Procurement Policy Act (\[former\] [41 U.S.C. 403(12)][/us/usc/t41/s403/12]) \[see [41 U.S.C. 103][/us/usc/t41/s103]\]; and
+>             “(A) a qualifying contract for the procurement of such an item or process, or a qualifying subcontract under a contract for the procurement of such an item or process, may be treated as a contract or subcontract, respectively, for the procurement of commercial items, as defined in [section 103 of title 41][/us/usc/t41/s103], United States Code; and
 
 >             “(B) the item or process may be treated as an item or process, respectively, that is developed in part with Federal funds and in part at private expense for the purposes of [section 2320 of title 10][/us/usc/t10/s2320], United States Code.
 
@@ -299,9 +273,13 @@
 
 >         “(4) The authority to conduct a pilot program under this subsection shall terminate on September 30, 2010. The termination of the authority shall not affect the validity of contracts or subcontracts that are awarded or modified during the period of the pilot program, without regard to whether the contracts or subcontracts are performed during the period.
 
->     “(f)  __Nontraditional Defense Contractor Defined__  __.—__ 
+>     “(f)  __Definitions__  __.—__ 
 
->     In this section, the term ‘nontraditional defense contractor’ has the meaning provided by [section 2302(9) of title 10][/us/usc/t10/s2302/9], United States Code.
+>     In this section:
+
+>         “(1) The term ‘nontraditional defense contractor’ has the meaning provided by [section 2302(9) of title 10][/us/usc/t10/s2302/9], United States Code.
+
+>         “(2) The term ‘small business’ means a small business concern as defined under section 3 of the Small Business Act ([15 U.S.C. 632][/us/usc/t15/s632]).
 
 >     “(g)  __Follow-On Production Contracts__  __.—__ 
 
@@ -321,7 +299,7 @@
 
 >     “(h)  __Applicability of Procurement Ethics Requirements__  __.—__ 
 
->     An agreement entered into under the authority of this section shall be treated as a Federal agency procurement for the purposes of section 27 of the Office of Federal Procurement Policy Act (\[former\] [41 U.S.C. 423][/us/usc/t41/s423]) \[now [41 U.S.C. 2101][/us/usc/t41/s2101] et seq.\].
+>     An agreement entered into under the authority of this section shall be treated as a Federal agency procurement for the purposes of chapter 21 of title 41, United States Code.
 
 >     “(i)  __Period of Authority__  __.—__ 
 
@@ -337,7 +315,8 @@
 [/us/usc/t10/s2358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2358
 [/us/usc/t31/s3324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3324
 [/us/usc/t10/s2358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2358
-[/us/usc/t10/s2358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2358
+[/us/pl/113/291/s1071/f/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Ff%2F20
+[/us/stat/128/3511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3511
 [/us/usc/t5/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552
 [/us/usc/t10/s2358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2358
 [/us/pl/101/189/s251/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs251%2Fa%2F1
@@ -366,6 +345,9 @@
 [/us/stat/113/774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F774
 [/us/pl/108/136/s1031/a/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1031%2Fa%2F19
 [/us/stat/117/1597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1597
+[/us/pl/113/291/s1071/f/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Ff%2F20
+[/us/stat/128/3511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3511
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
 [/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
 [/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
@@ -439,19 +421,17 @@
 [/us/stat/124/4270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4270
 [/us/pl/112/239/s863]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs863
 [/us/stat/126/1860]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1860
+[/us/pl/113/291/s812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs812
+[/us/stat/128/3429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3429
 [/us/usc/t10/s2371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2371
-[/us/usc/t41/s414/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs414%2Fc
 [/us/usc/t41/s1702/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs1702%2Fc
 [/us/usc/t10/s2371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2371
-[/us/usc/t41/s414/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs414%2F3
 [/us/usc/t41/s1702/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs1702%2Fc
 [/us/usc/t10/s2371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2371
-[/us/usc/t41/s403/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs403%2F12
 [/us/usc/t41/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs103
 [/us/usc/t10/s2320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2320
 [/us/usc/t10/s2302/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2302%2F9
+[/us/usc/t15/s632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs632
 [/us/usc/t10/s2304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2304
-[/us/usc/t41/s423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs423
-[/us/usc/t41/s2101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs2101
 
 

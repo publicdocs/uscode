@@ -135,7 +135,7 @@ May 5, 1950, ch. 169, § 1 (Art. 47), 64 Stat. 123.  </td>
 
  __Effective Date of 2013 Amendment__ 
 
-    Amendment by [Pub. L. 113–66][/us/pl/113/66] effective one year after Dec. 26, 2013, and applicable with respect to offenses committed under this chapter on or after that effective date, see [section 1702(d)(1) of Pub. L. 113–66][/us/pl/113/66/s1702/d/1], set out as a note under [section 802 of this title][/us/usc/t10/s802].
+    Amendment by [Pub. L. 113–66][/us/pl/113/66] effective on the later of Dec. 26, 2014, or the date of the enactment of the Carl Levin and Howard P. “Buck” McKeon National Defense Authorization Act for Fiscal Year 2015 (Dec. 19, 2014) and applicable with respect to preliminary hearings conducted on or after that effective date, see [section 1702(d)(1) of Pub. L. 113–66][/us/pl/113/66/s1702/d/1], set out as a note under [section 802 of this title][/us/usc/t10/s802].
 
  __Effective Date of 2011 Amendment__ 
 

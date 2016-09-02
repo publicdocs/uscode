@@ -359,11 +359,33 @@ Sept. 20, 1968, Pub. L. 90–500, § 404, 82 Stat. 851.  </td>
 
  __Procurement of Photovoltaic Devices__ 
 
-[Pub. L. 111–383, div. A, title VIII, § 846][/us/pl/111/383/s846], Jan. 7, 2011, [124 Stat. 4285][/us/stat/124/4285], provided that:
+[Pub. L. 113–291, div. A, title VIII, § 858][/us/pl/113/291/s858], Dec. 19, 2014, [128 Stat. 3460][/us/stat/128/3460], provided that:
 
 >     “(a)  __Contract Requirement__  __.—__ 
 
->     The Secretary of Defense shall ensure that each contract described in subsection (b) awarded by the Department of Defense includes a provision requiring the photovoltaic devices provided under the contract to comply with the Buy American Act (\[former\] [41 U.S.C. 10a][/us/usc/t41/s10a] et seq.) \[see [41 U.S.C. 8301][/us/usc/t41/s8301] et seq.\], subject to the exceptions to that Act provided in the Trade Agreements Act of 1979 ([19 U.S.C. 2501][/us/usc/t19/s2501] et seq.) or otherwise provided by law.
+>     The Secretary of Defense shall ensure that each covered contract includes a provision requiring that any photovoltaic device installed under the contract be manufactured in the United States substantially all from articles, materials, or supplies mined, produced, or manufactured in the United States, unless the head of the department or independent establishment concerned determines, on a case-by-case basis, that the inclusion of such requirement is inconsistent with the public interest or involves unreasonable costs, subject to exceptions provided in the Trade Agreements Act of 1979 ([19 U.S.C. 2501][/us/usc/t19/s2501] et seq.) or otherwise provided by law.
+
+>     “(b)  __Definitions__  __.—__ 
+
+>     In this section:
+
+>         “(1)  __Covered contract__  __.—__ 
+
+>         The term ‘covered contract’ means a contract awarded by the Department of Defense that provides for a photovoltaic device to be—
+
+>             “(A) installed inside the United States on Department of Defense property or in a facility owned by the Department of Defense; or
+
+>             “(B) reserved for the exclusive use of the Department of Defense in the United States for the full economic life of the device.
+
+>         “(2)  __Photovoltaic device__  __.—__ 
+
+>         The term ‘photovoltaic device’ means a device that converts light directly into electricity through a solid-state, semiconductor process.”
+
+[Pub. L. 111–383, div. A, title VIII, § 846][/us/pl/111/383/s846], Jan. 7, 2011, [124 Stat. 4285][/us/stat/124/4285], as amended by [Pub. L. 113–291, div. A, title X, § 1071(b)(1)(A)][/us/pl/113/291/s1071/b/1/A], Dec. 19, 2014, [128 Stat. 3505][/us/stat/128/3505], provided that:
+
+>     “(a)  __Contract Requirement__  __.—__ 
+
+>     The Secretary of Defense shall ensure that each contract described in subsection (b) awarded by the Department of Defense includes a provision requiring the photovoltaic devices provided under the contract to comply with chapter 83 of title 41, United States Code, subject to the exceptions to that chapter provided in the Trade Agreements Act of 1979 ([19 U.S.C. 2501][/us/usc/t19/s2501] et seq.) or otherwise provided by law.
 
 >     “(b)  __Contracts Described__  __.—__ 
 
@@ -508,10 +530,13 @@ Sept. 20, 1968, Pub. L. 90–500, § 404, 82 Stat. 851.  </td>
 [/us/pl/101/510/s835/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs835%2Fb
 [/us/stat/104/1615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1615
 [/us/pl/101/510/s835/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs835%2Fa
+[/us/pl/113/291/s858]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs858
+[/us/stat/128/3460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3460
+[/us/usc/t19/s2501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2501
 [/us/pl/111/383/s846]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs846
 [/us/stat/124/4285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4285
-[/us/usc/t41/s10a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs10a
-[/us/usc/t41/s8301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs8301
+[/us/pl/113/291/s1071/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Fb%2F1%2FA
+[/us/stat/128/3505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3505
 [/us/usc/t19/s2501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2501
 [/us/pl/108/136/s821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs821
 [/us/stat/117/1546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1546

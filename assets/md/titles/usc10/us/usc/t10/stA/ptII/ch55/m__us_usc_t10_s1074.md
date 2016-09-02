@@ -723,7 +723,7 @@ June 7, 1956, ch. 374, §§ 102(a)(3) (as applicable to § 301(b)), 301(a), 
 
 >             “(C) The Assistant Secretary of Defense for Health Affairs.
 
->             “(D) The Assistant Secretary of Defense for Reserve Affairs.
+>             “(D) The Assistant Secretary of Defense for Reserve Affairs \[now Assistant Secretary of Defense for Manpower and Reserve Affairs\].
 
 >             “(E) The Surgeon General of each of the Army, the Navy, and the Air Force.
 

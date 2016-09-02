@@ -113,7 +113,7 @@
 
         (1)  __Required reduction in retired pay__  __.—__ 
 
-        The retired pay of a person who has elected to provide an annuity to a person designated by him under [section 1450(a)(4) of this title][/us/usc/t10/s1450/a/4] shall be reduced as follows:
+        The retired pay of a person who has elected to provide an annuity to a person designated by him under section 1450(a)(4)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title shall be reduced as follows:
 
             (A)  __Standard annuity__  __.—__ 
 
@@ -129,7 +129,7 @@
 
         (3)  __Duration of reduction__  __.—__ 
 
-        The reduction in retired pay prescribed by this subsection shall continue during the lifetime of the person designated under [section 1450(a)(4) of this title][/us/usc/t10/s1450/a/4] or until the person receiving retired pay changes his election under [section 1450(f) of this title][/us/usc/t10/s1450/f].
+        The reduction in retired pay prescribed by this subsection shall continue during the lifetime of the person designated under section 1450(a)(4) 1 of this title or until the person receiving retired pay changes his election under [section 1450(f) of this title][/us/usc/t10/s1450/f].
 
         (4)  __Rule for computation__  __.—__ 
 
@@ -256,6 +256,8 @@
 (Added [Pub. L. 92–425, § 1(3)][/us/pl/92/425/s1/3], Sept. 21, 1972, [86 Stat. 710][/us/stat/86/710]; amended [Pub. L. 94–496, § 1(4)][/us/pl/94/496/s1/4], (5), Oct. 14, 1976, [90 Stat. 2375][/us/stat/90/2375]; [Pub. L. 95–397, title II, § 205][/us/pl/95/397/s205], Sept. 30, 1978, [92 Stat. 847][/us/stat/92/847]; [Pub. L. 96–402, § 4][/us/pl/96/402/s4], Oct. 9, 1980, [94 Stat. 1706][/us/stat/94/1706]; [Pub. L. 97–22, § 11(a)(3)][/us/pl/97/22/s11/a/3], (5), July 10, 1981, [95 Stat. 137][/us/stat/95/137]; [Pub. L. 99–145, title VII][/us/pl/99/145], §§ 714(a), 719(7), (8), 723(b)(2), Nov. 8, 1985, [99 Stat. 672][/us/stat/99/672], 675–677; [Pub. L. 99–348, title III, § 301(a)(3)][/us/pl/99/348/s301/a/3], July 1, 1986, [100 Stat. 702][/us/stat/100/702]; [Pub. L. 99–661, div. A, title XIII, § 1343(a)(8)(E)][/us/pl/99/661/s1343/a/8/E], Nov. 14, 1986, [100 Stat. 3992][/us/stat/100/3992]; [Pub. L. 100–224, § 3(b)][/us/pl/100/224/s3/b], Dec. 30, 1987, [101 Stat. 1537][/us/stat/101/1537]; [Pub. L. 101–189, div. A, title XIV][/us/pl/101/189], §§ 1402(a)–(c), 1407(a)(9), title XVI, § 1621(a)(1), Nov. 29, 1989, [103 Stat. 1577][/us/stat/103/1577], 1578, 1589, 1602; [Pub. L. 101–510, div. A, title XIV, § 1484][/us/pl/101/510/s1484](l)(4)(C)(ii), Nov. 5, 1990, [104 Stat. 1720][/us/stat/104/1720]; [Pub. L. 103–337, div. A, title VI, § 637(a)][/us/pl/103/337/s637/a], Oct. 5, 1994, [108 Stat. 2790][/us/stat/108/2790]; [Pub. L. 104–201, div. A, title VI][/us/pl/104/201], §§ 634, 635(a), Sept. 23, 1996, [110 Stat. 2572][/us/stat/110/2572], 2579; [Pub. L. 105–85, div. A, title X, § 1073(a)(29)][/us/pl/105/85/s1073/a/29], Nov. 18, 1997, [111 Stat. 1901][/us/stat/111/1901]; [Pub. L. 105–261, div. A, title VI, § 641][/us/pl/105/261/s641], Oct. 17, 1998, [112 Stat. 2045][/us/stat/112/2045]; [Pub. L. 106–65, div. A, title VI, § 643(a)(2)][/us/pl/106/65/s643/a/2], Oct. 5, 1999, [113 Stat. 663][/us/stat/113/663]; [Pub. L. 109–364, div. A, title VI, § 643(b)][/us/pl/109/364/s643/b], Oct. 17, 2006, [120 Stat. 2260][/us/stat/120/2260]; [Pub. L. 112–239, div. A, title VI, § 641(a)][/us/pl/112/239/s641/a], Jan. 2, 2013, [126 Stat. 1782][/us/stat/126/1782].)
 
  __References in Text__ 
+
+    [Section 1450(a)(4) of this title][/us/usc/t10/s1450/a/4], referred to in subsec. (c)(1), (3), was redesignated [section 1450(a)(5) of this title][/us/usc/t10/s1450/a/5] by [Pub. L. 113–291, div. A, title VI, § 624(a)(1)(A)][/us/pl/113/291/s624/a/1/A], Dec. 19, 2014, [128 Stat. 3403][/us/stat/128/3403].
 
     [Section 631(b) of Public Law 104–106][/us/pl/104/106/s631/b] ([110 Stat. 364][/us/stat/110/364]), referred to in subsec. (h)(2)(A), was set out as a note under [section 1401a of this title][/us/usc/t10/s1401a] prior to repeal by [Pub. L. 104–201, div. A, title VI, § 631(b)][/us/pl/104/201/s631/b], Sept. 23, 1996, [110 Stat. 2549][/us/stat/110/2549].
 
@@ -426,8 +428,6 @@
 [/us/usc/t10/s1448/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1448%2Fb%2F1
 [/us/usc/t10/s1450/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1450%2Ff
 [/us/usc/t10/s1448/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1448%2Fa%2F2%2FB
-[/us/usc/t10/s1450/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1450%2Fa%2F4
-[/us/usc/t10/s1450/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1450%2Fa%2F4
 [/us/usc/t10/s1450/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1450%2Ff
 [/us/usc/t10/s1409/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1409%2Fb%2F2
 [/us/usc/t10/s1448/b/1/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1448%2Fb%2F1%2FG
@@ -478,6 +478,10 @@
 [/us/stat/120/2260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2260
 [/us/pl/112/239/s641/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs641%2Fa
 [/us/stat/126/1782]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1782
+[/us/usc/t10/s1450/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1450%2Fa%2F4
+[/us/usc/t10/s1450/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1450%2Fa%2F5
+[/us/pl/113/291/s624/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs624%2Fa%2F1%2FA
+[/us/stat/128/3403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3403
 [/us/pl/104/106/s631/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs631%2Fb
 [/us/stat/110/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F364
 [/us/usc/t10/s1401a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1401a

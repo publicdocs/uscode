@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stA/ptI/ch18/m__us_usc_t10_s382.md) | [Next](./../../../../../..//us/usc/t10/stA/ptI/ch20/m__us_usc_t10_s401.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2FstA%2FptI%2Fch20)
+[Previous](./../../../../../..//us/usc/t10/stA/ptI/ch19/m__us_usc_t10_s392.md) | [Next](./../../../../../..//us/usc/t10/stA/ptI/ch20/m__us_usc_t10_s401.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2FstA%2FptI%2Fch20)
 
 #### CHAPTER 20—HUMANITARIAN AND OTHER ASSISTANCE
 
@@ -131,7 +131,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stA/ptI/ch18/m__us_usc_t10_s382.md) | [Next](./../../../../../..//us/usc/t10/stA/ptI/ch20/m__us_usc_t10_s401.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2FstA%2FptI%2Fch20)
+[Previous](./../../../../../..//us/usc/t10/stA/ptI/ch19/m__us_usc_t10_s392.md) | [Next](./../../../../../..//us/usc/t10/stA/ptI/ch20/m__us_usc_t10_s401.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2FstA%2FptI%2Fch20)
 
 ----------
 ----------

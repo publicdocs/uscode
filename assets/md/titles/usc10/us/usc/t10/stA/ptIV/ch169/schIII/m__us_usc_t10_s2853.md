@@ -33,7 +33,7 @@
 
          in the case of a cost increase or a reduction in the scope of work—
 
-            (A) the Secretary concerned notifies the appropriate committees of Congress in writing of the cost increase or reduction in scope, the reasons therefor, a certification that the mission requirement identified in the justification data provided to Congress can be  <sup>\[1\]</sup>  <sup><sup> 1 So in original. The word “be” probably should not appear. </sup></sup>  still be met with the reduced scope, and a description of the funds proposed to be used to finance any increased costs; and
+            (A) the Secretary concerned notifies the appropriate committees of Congress in writing of the cost increase or reduction in scope, the reasons therefor, a certification that the mission requirement identified in the justification data provided to Congress can still be met with the reduced scope, and a description of the funds proposed to be used to finance any increased costs; and
 
             (B) a period of 21 days has elapsed after the date on which the notification is received by the committees or, if over sooner, a period of 14 days has elapsed after the date on which a copy of the notification is provided in an electronic medium pursuant to [section 480 of this title][/us/usc/t10/s480]; or
 
@@ -49,9 +49,11 @@
 
     (e) Notwithstanding the authority under subsections (a) through (d), the Secretary concerned shall ensure compliance of contracts for military construction projects and for the construction, improvement, and acquisition of military family housing projects with [section 1341 of title 31][/us/usc/t31/s1341] (commonly referred to as the “Anti-Deficiency Act”).
 
-(Added [Pub. L. 97–214, § 2(a)][/us/pl/97/214/s2/a], July 12, 1982, [96 Stat. 164][/us/stat/96/164]; amended [Pub. L. 98–407, title VIII, § 807][/us/pl/98/407/s807], Aug. 28, 1984, [98 Stat. 1521][/us/stat/98/1521]; [Pub. L. 100–26, § 7(f)(2)][/us/pl/100/26/s7/f/2], Apr. 21, 1987, [101 Stat. 281][/us/stat/101/281]; [Pub. L. 100–180, div. B][/us/pl/100/180], subdiv. 3, title I, §§ 2312, 2313, Dec. 4, 1987, [101 Stat. 1217][/us/stat/101/1217], 1218; [Pub. L. 101–189, div. B, title XXVIII, § 2808][/us/pl/101/189/s2808], Nov. 29, 1989, [103 Stat. 1648][/us/stat/103/1648]; [Pub. L. 104–106, div. B, title XXVIII, § 2817][/us/pl/104/106/s2817], Feb. 10, 1996, [110 Stat. 553][/us/stat/110/553]; [Pub. L. 107–107, div. B, title XXVIII, § 2802][/us/pl/107/107/s2802], Dec. 28, 2001, [115 Stat. 1305][/us/stat/115/1305]; [Pub. L. 108–375, div. B, title XXVIII, § 2803][/us/pl/108/375/s2803], Oct. 28, 2004, [118 Stat. 2121][/us/stat/118/2121]; [Pub. L. 109–163, div. B, title XXVIII, § 2804(a)][/us/pl/109/163/s2804/a]–(c)(1), Jan. 6, 2006, [119 Stat. 3506][/us/stat/119/3506]; [Pub. L. 109–364, div. B, title XXVIII, § 2806][/us/pl/109/364/s2806], Oct. 17, 2006, [120 Stat. 2468][/us/stat/120/2468]; [Pub. L. 111–84, div. B, title XXVIII, § 2803][/us/pl/111/84/s2803], Oct. 28, 2009, [123 Stat. 2661][/us/stat/123/2661]; [Pub. L. 112–81, div. B, title XXVIII, § 2802(c)(2)][/us/pl/112/81/s2802/c/2], Dec. 31, 2011, [125 Stat. 1685][/us/stat/125/1685]; [Pub. L. 112–239, div. B, title XXVIII, § 2801][/us/pl/112/239/s2801], Jan. 2, 2013, [126 Stat. 2146][/us/stat/126/2146].)
+(Added [Pub. L. 97–214, § 2(a)][/us/pl/97/214/s2/a], July 12, 1982, [96 Stat. 164][/us/stat/96/164]; amended [Pub. L. 98–407, title VIII, § 807][/us/pl/98/407/s807], Aug. 28, 1984, [98 Stat. 1521][/us/stat/98/1521]; [Pub. L. 100–26, § 7(f)(2)][/us/pl/100/26/s7/f/2], Apr. 21, 1987, [101 Stat. 281][/us/stat/101/281]; [Pub. L. 100–180, div. B][/us/pl/100/180], subdiv. 3, title I, §§ 2312, 2313, Dec. 4, 1987, [101 Stat. 1217][/us/stat/101/1217], 1218; [Pub. L. 101–189, div. B, title XXVIII, § 2808][/us/pl/101/189/s2808], Nov. 29, 1989, [103 Stat. 1648][/us/stat/103/1648]; [Pub. L. 104–106, div. B, title XXVIII, § 2817][/us/pl/104/106/s2817], Feb. 10, 1996, [110 Stat. 553][/us/stat/110/553]; [Pub. L. 107–107, div. B, title XXVIII, § 2802][/us/pl/107/107/s2802], Dec. 28, 2001, [115 Stat. 1305][/us/stat/115/1305]; [Pub. L. 108–375, div. B, title XXVIII, § 2803][/us/pl/108/375/s2803], Oct. 28, 2004, [118 Stat. 2121][/us/stat/118/2121]; [Pub. L. 109–163, div. B, title XXVIII, § 2804(a)][/us/pl/109/163/s2804/a]–(c)(1), Jan. 6, 2006, [119 Stat. 3506][/us/stat/119/3506]; [Pub. L. 109–364, div. B, title XXVIII, § 2806][/us/pl/109/364/s2806], Oct. 17, 2006, [120 Stat. 2468][/us/stat/120/2468]; [Pub. L. 111–84, div. B, title XXVIII, § 2803][/us/pl/111/84/s2803], Oct. 28, 2009, [123 Stat. 2661][/us/stat/123/2661]; [Pub. L. 112–81, div. B, title XXVIII, § 2802(c)(2)][/us/pl/112/81/s2802/c/2], Dec. 31, 2011, [125 Stat. 1685][/us/stat/125/1685]; [Pub. L. 112–239, div. B, title XXVIII, § 2801][/us/pl/112/239/s2801], Jan. 2, 2013, [126 Stat. 2146][/us/stat/126/2146]; [Pub. L. 113–291, div. A, title X, § 1071(f)(24)][/us/pl/113/291/s1071/f/24], Dec. 19, 2014, [128 Stat. 3511][/us/stat/128/3511].)
 
  __Amendments__ 
+
+    2014—Subsec. (c)(1)(A). [Pub. L. 113–291][/us/pl/113/291] substituted “can still be” for “can be still be”.
 
     2013—Subsec. (a). [Pub. L. 112–239, § 2801(1)][/us/pl/112/239/s2801/1], substituted “was authorized” for “was approved originally”.
 
@@ -150,6 +152,9 @@
 [/us/stat/125/1685]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1685
 [/us/pl/112/239/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs2801
 [/us/stat/126/2146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2146
+[/us/pl/113/291/s1071/f/24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Ff%2F24
+[/us/stat/128/3511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3511
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/pl/112/239/s2801/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs2801%2F1
 [/us/pl/112/239/s2801/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs2801%2F2%2FA
 [/us/pl/112/239/s2801/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs2801%2F2%2FB

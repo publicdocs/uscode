@@ -49,9 +49,9 @@
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs9513" data-uslm-ref="/us/usc/t10/s9513">9513.</a>  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs9513" data-uslm-ref="/us/usc/t10/s9513">9513.</a>  </td>
 
-    <td> Use of military installations by Civil Reserve Air Fleet contractors.  </td>
+    <td> Repealed.]  </td>
 
   </tr>
 
@@ -68,6 +68,14 @@
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs9515" data-uslm-ref="/us/usc/t10/s9515">9515.</a>  </td>
 
     <td> Charter air transportation services: minimum annual purchase amount for carriers participating in Civil Reserve Air Fleet.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs9516" data-uslm-ref="/us/usc/t10/s9516">9516.</a>  </td>
+
+    <td> Airlift service.  </td>
 
   </tr>
 
@@ -92,6 +100,8 @@
     Prior section 9507, [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 575][/us/stat/70A/575], related to sale of ordnance and ordnance stores to designers, prior to repeal by [Pub. L. 103–160, div. A, title VIII, § 822(b)(3)][/us/pl/103/160/s822/b/3], Nov. 30, 1993, [107 Stat. 1706][/us/stat/107/1706].
 
  __Amendments__ 
+
+    2014—[Pub. L. 113–291, div. A, title X][/us/pl/113/291], §§ 1042(b), 1045(b), Dec. 19, 2014, [128 Stat. 3493][/us/stat/128/3493], 3494, struck out item 9513 “Use of military installations by Civil Reserve Air Fleet contractors” and added item 9516.
 
     2011—[Pub. L. 112–81, div. A, title III, § 366(b)][/us/pl/112/81/s366/b], Dec. 31, 2011, [125 Stat. 1381][/us/stat/125/1381], added item 9511a.
 
@@ -146,6 +156,8 @@
 [/us/stat/70A/575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F575
 [/us/pl/103/160/s822/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs822%2Fb%2F3
 [/us/stat/107/1706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1706
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/stat/128/3493]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3493
 [/us/pl/112/81/s366/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs366%2Fb
 [/us/stat/125/1381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1381
 [/us/pl/111/84/s1073/a/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs1073%2Fa%2F32

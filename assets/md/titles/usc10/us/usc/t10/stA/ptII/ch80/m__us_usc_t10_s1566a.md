@@ -17,7 +17,7 @@
 
     (a)  __Designation of Offices on Military Installations as Voter Assistance Offices__  __.—__ 
 
-    Not later than 180 days after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2010 and under regulations prescribed by the Secretary of Defense under subsection (f), the Secretaries of the military departments shall designate offices on installations under their jurisdiction to provide absent uniformed services voters, particularly those individuals described in subsection (b), and their family members with the following:
+    Under regulations prescribed by the Secretary of Defense under subsection (f), the Secretaries of the military departments shall designate offices on installations under their jurisdiction, or at such installations as the Secretary of the military department concerned shall determine are best located to provide access to voter assistance services for all covered individuals in a particular location, to provide absent uniformed services voters, particularly those individuals described in subsection (b), and their family members with the following:
 
         (1) Information on voter registration procedures and absentee ballot procedures (including the official post card form prescribed under section 101 of the Uniformed and Overseas Citizens Absentee Voting Act ([42 U.S.C. 1973ff][/us/usc/t42/s1973ff])). <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup> 
 
@@ -65,7 +65,9 @@
 
     (f)  __Regulations__  __.—__ 
 
-    The Secretary of Defense shall prescribe regulations relating to the administration of the requirements of this section. The regulations shall be prescribed before the regularly scheduled general election for Federal office held in November 2010, and shall be implemented for such general election for Federal office and for each succeeding election for Federal office.
+        (1) The Secretary of Defense shall prescribe regulations relating to the administration of the requirements of this section. The regulations shall be prescribed before the regularly scheduled general election for Federal office held in November 2010, and shall be implemented for such general election for Federal office and for each succeeding election for Federal office.
+
+        (2) The Secretary of a military department shall provide the Committees on Armed Services of the Senate and the House of Representatives with notice of any decision by the Secretary to close a voter assistance office that was designated on an installation before the date of the enactment of this paragraph. The notice shall include the rational for the closure, the timing of the closure, the number of covered individuals supported by the office, and the plan for providing the assistance available under subsection (a) to covered individuals after the closure of the office.
 
     (g)  __Definitions__  __.—__ 
 
@@ -77,17 +79,21 @@
 
         (3) The term “Presidential designee” means the official designated by the President under section 101(a) of the Uniformed and Overseas Citizens Absentee Voting Act ([42 U.S.C. 1973ff(a)][/us/usc/t42/s1973ff/a]).1
 
-(Added [Pub. L. 111–84, div. A, title V, § 583(b)(1)][/us/pl/111/84/s583/b/1], Oct. 28, 2009, [123 Stat. 2328][/us/stat/123/2328]; amended [Pub. L. 111–383, div. A, title X, § 1075(b)(21)][/us/pl/111/383/s1075/b/21], Jan. 7, 2011, [124 Stat. 4370][/us/stat/124/4370].)
+(Added [Pub. L. 111–84, div. A, title V, § 583(b)(1)][/us/pl/111/84/s583/b/1], Oct. 28, 2009, [123 Stat. 2328][/us/stat/123/2328]; amended [Pub. L. 111–383, div. A, title X, § 1075(b)(21)][/us/pl/111/383/s1075/b/21], Jan. 7, 2011, [124 Stat. 4370][/us/stat/124/4370]; [Pub. L. 113–291, div. A, title V, § 592][/us/pl/113/291/s592], title X, § 1071(e)(2), Dec. 19, 2014, [128 Stat. 3395][/us/stat/128/3395], 3509.)
 
  __References in Text__ 
-
-    The date of the enactment of the National Defense Authorization Act for Fiscal Year 2010, referred to in subsec. (a), is the date of enactment of [Pub. L. 111–84][/us/pl/111/84], which was approved Oct. 28, 2009.
 
     The Uniformed and Overseas Citizens Absentee Voting Act, referred to in text, is [Pub. L. 99–410][/us/pl/99/410], Aug. 28, 1986, [100 Stat. 924][/us/stat/100/924], which was formerly classified principally to subchapter I–G (§ 1973ff et seq.) of chapter 20 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering in Title 52, Voting and Elections, and is now classified principally to chapter 203 (§ 20301 et seq.) of Title 52. Sections 101 and 107 of the Act are now classified to sections 20301 and 20310, respectively, of Title 52. For complete classification of this Act to the Code, see Tables.
 
     The National Voter Registration Act of 1993, referred to in subsec. (e), is [Pub. L. 103–31][/us/pl/103/31], May 20, 1993, [107 Stat. 77][/us/stat/107/77], which was formerly classified principally to subchapter I–H (§ 1973gg et seq.) of chapter 20 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering in Title 52, Voting and Elections, and is now classified principally to chapter 205 (§ 20501 et seq.) of Title 52. Section 7 of the Act is now classified to [section 20506 of Title 52][/us/usc/t52/s20506]. For complete classification of this Act to the Code, see Tables.
 
  __Amendments__ 
+
+    2014—Subsec. (a). [Pub. L. 113–291, § 1071(e)(2)][/us/pl/113/291/s1071/e/2], which directed substitution of “Under” for “Not later than 180 days after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2010 and under” in introductory provisions, could not be executed because of the prior amendment by [Pub. L. 113–291, § 592(a)(1)][/us/pl/113/291/s592/a/1]. See below.
+
+    [Pub. L. 113–291, § 592(a)][/us/pl/113/291/s592/a], in introductory provisions, substituted “Under” for “Not later than 180 days after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2010 and under” and inserted “, or at such installations as the Secretary of the military department concerned shall determine are best located to provide access to voter assistance services for all covered individuals in a particular location,” after “their jurisdiction”.
+
+    Subsec. (f). [Pub. L. 113–291, § 592(b)][/us/pl/113/291/s592/b], designated existing provisions as par. (1) and added par. (2).
 
     2011—Subsec. (a)(1). [Pub. L. 111–383][/us/pl/111/383] inserted closing parenthesis before period at end.
 
@@ -108,12 +114,17 @@
 [/us/stat/123/2328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2328
 [/us/pl/111/383/s1075/b/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1075%2Fb%2F21
 [/us/stat/124/4370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4370
-[/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
+[/us/pl/113/291/s592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs592
+[/us/stat/128/3395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3395
 [/us/pl/99/410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F410
 [/us/stat/100/924]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F924
 [/us/pl/103/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F31
 [/us/stat/107/77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F77
 [/us/usc/t52/s20506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs20506
+[/us/pl/113/291/s1071/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Fe%2F2
+[/us/pl/113/291/s592/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs592%2Fa%2F1
+[/us/pl/113/291/s592/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs592%2Fa
+[/us/pl/113/291/s592/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs592%2Fb
 [/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
 
 

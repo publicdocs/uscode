@@ -205,7 +205,7 @@
 
 [Pub. L. 109–364, div. A, title V, § 519(e)][/us/pl/109/364/s519/e], Oct. 17, 2006, [120 Stat. 2191][/us/stat/120/2191], provided that: 
 
-> “The amendments made by this section \[amending this section and sections 667 and 668 of this title\] shall take effect on October 1, 2007.”
+> “The amendments made by this section \[amending this section and former section 667 and [section 668 of this title][/us/usc/t10/s668]\] shall take effect on October 1, 2007.”
 
  __Retroactive Joint Service Credit for Duty in Certain Joint Task Forces__ 
 
@@ -290,6 +290,7 @@
 [/us/pl/100/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180
 [/us/pl/109/364/s519/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs519%2Fe
 [/us/stat/120/2191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2191
+[/us/usc/t10/s668]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs668
 [/us/pl/107/107/s523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs523
 [/us/stat/115/1097]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1097
 [/us/pl/103/160/s932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs932

@@ -21,7 +21,7 @@
 
         (1) the specification alleges an offense under this chapter;
 
-        (2) the specification is warranted by the evidence indicated in the report of a preliminary hearing under [section 832 of this title][/us/usc/t10/s832] (article 32); and
+        (2) the specification is warranted by the evidence indicated in the report of a preliminary hearing under [section 832 of this title][/us/usc/t10/s832] (article 32) (if there is such a report); and
 
         (3) a court-martial would have jurisdiction over the accused and the offense.
 
@@ -37,7 +37,7 @@
 
     (c) If the charges or specifications are not formally correct or do not conform to the substance of the evidence contained in the report of the investigating officer, formal corrections, and such changes in the charges and specifications as are needed to make them conform to the evidence, may be made.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 49][/us/stat/70A/49]; [Pub. L. 98–209, § 4][/us/pl/98/209/s4], Dec. 6, 1983, [97 Stat. 1395][/us/stat/97/1395]; [Pub. L. 113–66, div. A, title XVII, § 1702(c)(3)(B)][/us/pl/113/66/s1702/c/3/B], Dec. 26, 2013, [127 Stat. 957][/us/stat/127/957].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 49][/us/stat/70A/49]; [Pub. L. 98–209, § 4][/us/pl/98/209/s4], Dec. 6, 1983, [97 Stat. 1395][/us/stat/97/1395]; [Pub. L. 113–66, div. A, title XVII, § 1702(c)(3)(B)][/us/pl/113/66/s1702/c/3/B], Dec. 26, 2013, [127 Stat. 957][/us/stat/127/957]; [Pub. L. 113–291, div. A, title V, § 531(a)(4)(B)][/us/pl/113/291/s531/a/4/B], Dec. 19, 2014, [128 Stat. 3363][/us/stat/128/3363].)
 
 <table>
 
@@ -91,6 +91,8 @@ May 5, 1950, ch. 169, § 1 (Art. 34), 64 Stat. 119.  </td>
 
  __Amendments__ 
 
+    2014—Subsec. (a)(2). [Pub. L. 113–291][/us/pl/113/291] inserted “(if there is such a report)” after “(article 32)”.
+
     2013—Subsec. (a)(2). [Pub. L. 113–66][/us/pl/113/66] substituted “a preliminary hearing under [section 832 of this title][/us/usc/t10/s832] (article 32)” for “investigation under [section 832 of this title][/us/usc/t10/s832] (article 32) (if there is such a report)”.
 
     1983—Subsec. (a). [Pub. L. 98–209, § 4(a)][/us/pl/98/209/s4/a], substituted “judge advocate” for “judge advocate or legal officer”, and provisions that the convening authority may not refer a specification under a charge to a general court-martial for trial unless he has been advised in writing by the staff judge advocate that the specification alleges an offense under this chapter, the specification is warranted by the evidence indicated in the report of investigation under [section 832 of this title][/us/usc/t10/s832] (article 32) (if there is such a report), and a court-martial would have jurisdiction over the accused and the offense, for provision that the convening authority could not refer a charge to a general court-martial for trial unless he found that the charge alleged an offense under this chapter and was warranted by evidence indicated in the report of investigation.
@@ -99,7 +101,7 @@ May 5, 1950, ch. 169, § 1 (Art. 34), 64 Stat. 119.  </td>
 
  __Effective Date of 2013 Amendment__ 
 
-    Amendment by [Pub. L. 113–66][/us/pl/113/66] effective one year after Dec. 26, 2013, and applicable with respect to offenses committed under this chapter on or after that effective date, see [section 1702(d)(1) of Pub. L. 113–66][/us/pl/113/66/s1702/d/1], set out as a note under [section 802 of this title][/us/usc/t10/s802].
+    Amendment by [Pub. L. 113–66][/us/pl/113/66] effective on the later of Dec. 26, 2014, or the date of the enactment of the Carl Levin and Howard P. “Buck” McKeon National Defense Authorization Act for Fiscal Year 2015 (Dec. 19, 2014) and applicable with respect to preliminary hearings conducted on or after that effective date, see [section 1702(d)(1) of Pub. L. 113–66][/us/pl/113/66/s1702/d/1], set out as a note under [section 802 of this title][/us/usc/t10/s802].
 
  __Effective Date of 1983 Amendment__ 
 
@@ -107,7 +109,7 @@ May 5, 1950, ch. 169, § 1 (Art. 34), 64 Stat. 119.  </td>
 
  __Review of Decisions Not To Refer Charges of Certain Sex-Related Offenses for Trial by Court-Martial__ 
 
-[Pub. L. 113–66, div. A, title XVII, § 1744][/us/pl/113/66/s1744], Dec. 26, 2013, [127 Stat. 980][/us/stat/127/980], provided that:
+[Pub. L. 113–66, div. A, title XVII, § 1744][/us/pl/113/66/s1744], Dec. 26, 2013, [127 Stat. 980][/us/stat/127/980], as amended by [Pub. L. 113–291, div. A, title V, § 541][/us/pl/113/291/s541], Dec. 19, 2014, [128 Stat. 3371][/us/stat/128/3371], provided that:
 
 >     “(a) __Review Required.—__ 
 
@@ -133,9 +135,21 @@ May 5, 1950, ch. 169, § 1 (Art. 34), 64 Stat. 119.  </td>
 
 >         “(3) An attempt to commit an offense specified in paragraph (1) or (2) as punishable under section 880 of such title (article 80 of the Uniform Code of Military Justice).
 
->     “(c)  __Review of Cases Not Referred to Court-martial Following Staff Judge Advocate Recommendation of Referral for Trial__  __.—__ 
+>     “(c) __Review of Certain Cases Not Referred to Court-martial.—__ 
 
->     In any case where a staff judge advocate, pursuant to [section 834 of title 10][/us/usc/t10/s834], United States Code (article 34 of the Uniform Code of Military Justice), recommends that charges of a sex-related offense be referred for trial by court-martial and the convening authority decides not to refer any charges to a court-martial, the convening authority shall forward the case file to the Secretary of the military department concerned for review as a superior authorized to exercise general court-martial convening authority.
+>         “(1)  __Cases not referred following staff judge advocate recommendation for referral for trial__  __.—__ 
+
+>         In any case where a staff judge advocate, pursuant to [section 834 of title 10][/us/usc/t10/s834], United States Code (article 34 of the Uniform Code of Military Justice), recommends that charges of a sex-related offense be referred for trial by court-martial and the convening authority decides not to refer any charges to a court-martial, the convening authority shall forward the case file to the Secretary of the military department concerned for review as a superior authorized to exercise general court-martial convening authority.
+
+>         “(2) __Cases not referred by convening authority upon request for review by chief prosecutor.—__ 
+
+>             “(A)  __In general__  __.—__ 
+
+>             In any case where a convening authority decides not to refer a charge of a sex-related offense to trial by court-martial, the Secretary of the military department concerned shall review the decision as a superior authority authorized to exercise general court-martial convening authority if the chief prosecutor of the Armed Force concerned, in response to a request by the detailed counsel for the Government, requests review of the decision by the Secretary.
+
+>             “(B)  __Chief prosecutor defined__  __.—__ 
+
+>             In this paragraph, the term ‘chief prosecutor’ means the chief prosecutor or equivalent position of an Armed Force, or, if an Armed Force does not have a chief prosecutor or equivalent position, such other trial counsel as shall be designated by the Judge Advocate General of that Armed Force, or in the case of the Marine Corps, the Staff Judge Advocate to the Commandant of the Marine Corps.
 
 >     “(d)  __Review of Cases Not Referred to Court-martial Following Staff Judge Advocate Recommendation Not to Refer for Trial__  __.—__ 
 
@@ -181,6 +195,9 @@ May 5, 1950, ch. 169, § 1 (Art. 34), 64 Stat. 119.  </td>
 [/us/stat/97/1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1395
 [/us/pl/113/66/s1702/c/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1702%2Fc%2F3%2FB
 [/us/stat/127/957]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F957
+[/us/pl/113/291/s531/a/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs531%2Fa%2F4%2FB
+[/us/stat/128/3363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3363
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/usc/t10/s832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs832
 [/us/usc/t10/s832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs832
@@ -195,6 +212,8 @@ May 5, 1950, ch. 169, § 1 (Art. 34), 64 Stat. 119.  </td>
 [/us/usc/t10/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs801
 [/us/pl/113/66/s1744]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1744
 [/us/stat/127/980]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F980
+[/us/pl/113/291/s541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs541
+[/us/stat/128/3371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3371
 [/us/usc/t10/s920]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs920
 [/us/usc/t10/s834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs834
 [/us/usc/t10/s834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs834

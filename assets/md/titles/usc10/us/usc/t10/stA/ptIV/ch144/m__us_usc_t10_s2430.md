@@ -31,19 +31,17 @@
 
         (1) The estimated level of resources required to fulfill the relevant joint military requirement, as determined by the Joint Requirements Oversight Council pursuant to [section 181 of this title][/us/usc/t10/s181].
 
-        (2) The cost estimate referred to in section 2366a(a)(4)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title.
+        (2) The cost estimate referred to in [section 2366a(a)(6) of this title][/us/usc/t10/s2366a/a/6].
 
         (3) The cost estimate referred to in [section 2366b(a)(1)(C) of this title][/us/usc/t10/s2366b/a/1/C].
 
         (4) The cost estimate within a baseline description as required by [section 2435 of this title][/us/usc/t10/s2435].
 
-(Added [Pub. L. 100–26, § 7(b)(2)(A)][/us/pl/100/26/s7/b/2/A], Apr. 21, 1987, [101 Stat. 279][/us/stat/101/279]; amended [Pub. L. 102–484, div. A, title VIII, § 817(b)][/us/pl/102/484/s817/b], Oct. 23, 1992, [106 Stat. 2455][/us/stat/106/2455]; [Pub. L. 104–106, div. A, title XV, § 1502(a)(1)][/us/pl/104/106/s1502/a/1], Feb. 10, 1996, [110 Stat. 502][/us/stat/110/502]; [Pub. L. 106–65, div. A, title X, § 1067(1)][/us/pl/106/65/s1067/1], Oct. 5, 1999, [113 Stat. 774][/us/stat/113/774]; [Pub. L. 111–23, title II, § 206(b)][/us/pl/111/23/s206/b], May 22, 2009, [123 Stat. 1728][/us/stat/123/1728].)
-
- __References in Text__ 
-
-    [Section 2366a(a)(4) of this title][/us/usc/t10/s2366a/a/4], referred to in subsec. (c)(2), was redesignated [section 2366a(a)(7) of this title][/us/usc/t10/s2366a/a/7] by [Pub. L. 112–81, div. A, title VIII, § 801(a)(1)(B)][/us/pl/112/81/s801/a/1/B], Dec. 31, 2011, [125 Stat. 1482][/us/stat/125/1482].
+(Added [Pub. L. 100–26, § 7(b)(2)(A)][/us/pl/100/26/s7/b/2/A], Apr. 21, 1987, [101 Stat. 279][/us/stat/101/279]; amended [Pub. L. 102–484, div. A, title VIII, § 817(b)][/us/pl/102/484/s817/b], Oct. 23, 1992, [106 Stat. 2455][/us/stat/106/2455]; [Pub. L. 104–106, div. A, title XV, § 1502(a)(1)][/us/pl/104/106/s1502/a/1], Feb. 10, 1996, [110 Stat. 502][/us/stat/110/502]; [Pub. L. 106–65, div. A, title X, § 1067(1)][/us/pl/106/65/s1067/1], Oct. 5, 1999, [113 Stat. 774][/us/stat/113/774]; [Pub. L. 111–23, title II, § 206(b)][/us/pl/111/23/s206/b], May 22, 2009, [123 Stat. 1728][/us/stat/123/1728]; [Pub. L. 113–291, div. A, title X, § 1071(f)(18)][/us/pl/113/291/s1071/f/18], Dec. 19, 2014, [128 Stat. 3511][/us/stat/128/3511].)
 
  __Amendments__ 
+
+    2014—Subsec. (c)(2). [Pub. L. 113–291][/us/pl/113/291] substituted “section 2366a(a)(6)” for “section 2366a(a)(4)”.
 
     2009—Subsec. (a)(2). [Pub. L. 111–23, § 206(b)(1)][/us/pl/111/23/s206/b/1], inserted “, including all planned increments or spirals,” after “an eventual total expenditure for procurement”.
 
@@ -54,6 +52,26 @@
     1996—Subsec. (b). [Pub. L. 104–106][/us/pl/104/106] substituted “Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives” for “Committees on Armed Services of the Senate and House of Representatives”.
 
     1992—[Pub. L. 102–484][/us/pl/102/484] designated existing provisions as subsec. (a), in par. (2) substituted “$300,000,000” for “$200,000,000”, “1990” for “1980” in two places, and “$1,800,000,000” for “$1,000,000,000”, and added subsec. (b).
+
+ __Improving Analytic Support to Systems Acquisition and Allocation of Acquisition, Intelligence, Surveillance and Reconnaissance Assets__ 
+
+[Pub. L. 113–291, div. A, title X, § 1058][/us/pl/113/291/s1058], Dec. 19, 2014, [128 Stat. 3501][/us/stat/128/3501], provided that:
+
+>     “(a)  __Guidance__  __.—__ 
+
+>     Not later than 120 days after the date of the enactment of this Act \[Dec. 19, 2014\], the Secretary of Defense shall review and issue or revise guidance to components of the Department of Defense to improve the application of operations research and systems analysis to—
+
+>         “(1) the requirements process for acquisition of major defense acquisition programs and major automated information systems; and
+
+>         “(2) the allocation of intelligence, surveillance, and reconnaissance systems to the combatant commands.
+
+>     “(b)  __Briefing of Congress__  __.—__ 
+
+>     Not later than 180 days after the date of the enactment of this Act, the Secretary of Defense shall brief—
+
+>         “(1) the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] on any guidance issued or revised under subsection (a); and
+
+>         “(2) the Select Committee on Intelligence of the Senate and the Permanent Select Committee on Intelligence of the House of Representatives on any guidance issued or revised under subsection (a)(2) relevant to intelligence.”
 
  __Limitation on use of Cost-Type Contracts__ 
 
@@ -1055,6 +1073,7 @@
 ----------
 
 [/us/usc/t10/s181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs181
+[/us/usc/t10/s2366a/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2366a%2Fa%2F6
 [/us/usc/t10/s2366b/a/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2366b%2Fa%2F1%2FC
 [/us/usc/t10/s2435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2435
 [/us/pl/100/26/s7/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26%2Fs7%2Fb%2F2%2FA
@@ -1067,15 +1086,16 @@
 [/us/stat/113/774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F774
 [/us/pl/111/23/s206/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F23%2Fs206%2Fb
 [/us/stat/123/1728]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1728
-[/us/usc/t10/s2366a/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2366a%2Fa%2F4
-[/us/usc/t10/s2366a/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2366a%2Fa%2F7
-[/us/pl/112/81/s801/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs801%2Fa%2F1%2FB
-[/us/stat/125/1482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1482
+[/us/pl/113/291/s1071/f/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Ff%2F18
+[/us/stat/128/3511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3511
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/pl/111/23/s206/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F23%2Fs206%2Fb%2F1
 [/us/pl/111/23/s206/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F23%2Fs206%2Fb%2F2
 [/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
 [/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
 [/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
+[/us/pl/113/291/s1058]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1058
+[/us/stat/128/3501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3501
 [/us/pl/112/239/s811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs811
 [/us/stat/126/1828]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1828
 [/us/usc/t10/s2430/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2430%2Fa

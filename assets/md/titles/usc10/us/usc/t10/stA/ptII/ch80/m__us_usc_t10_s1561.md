@@ -77,6 +77,104 @@
 
 > “This Act \[enacting [section 1561a of this title][/us/usc/t10/s1561a]\] may be cited as the ‘Armed Forces Domestic Security Act’.”
 
+ __Required Consideration of Certain Elements of Command Climate in Performance Appraisals of Commanding Officers__ 
+
+[Pub. L. 113–291, div. A, title V, § 508][/us/pl/113/291/s508], Dec. 19, 2014, [128 Stat. 3357][/us/stat/128/3357], provided that: 
+
+> “The Secretary of a military department shall ensure that the performance appraisal of a commanding officer in an Armed Force under the jurisdiction of that Secretary indicates the extent to which the commanding officer has or has not established a command climate in which—
+
+>     “(1) allegations of sexual assault are properly managed and fairly evaluated; and
+
+>     “(2) a victim of criminal activity, including sexual assault, can report the criminal activity without fear of retaliation, including ostracism and group pressure from other members of the command.”
+
+ __Requirements Relating to Sexual Assault Forensic Examiners for the Armed Forces__ 
+
+[Pub. L. 113–291, div. A, title V, § 539(a)][/us/pl/113/291/s539/a], (b), Dec. 19, 2014, [128 Stat. 3370][/us/stat/128/3370], provided that:
+
+>     “(a) __Personnel Eligible for Assignment.—__ 
+
+>         “(1)  __Specified personnel__  __.—__ 
+
+>         Except as provided in paragraph (2), an individual who may be assigned to duty as a Sexual Assault Forensic Examiner (SAFE) for the Armed Forces is limited to members of the Armed Forces and civilian employees of the Department of Defense who are also one of the following:
+
+>             “(A) A physician.
+
+>             “(B) A nurse practitioner.
+
+>             “(C) A nurse midwife.
+
+>             “(D) A physician assistant.
+
+>             “(E) A registered nurse.
+
+>         “(2)  __Independent duty corpsmen__  __.—__ 
+
+>         An independent duty corpsman or equivalent may be assigned to duty as a Sexual Assault Forensic Examiner for the Armed Forces if the assignment of an individual specified in paragraph (1) is impracticable.
+
+>     “(b) __Training and Certification.—__ 
+
+>         “(1)  __In general__  __.—__ 
+
+>         The Secretary of Defense shall establish and maintain, and update when appropriate, a training and certification program for Sexual Assault Forensic Examiners. The training and certification programs shall apply uniformly to all Sexual Assault Forensic Examiners under the jurisdiction of the Secretaries of the military departments.
+
+>         “(2)  __Elements__  __.—__ 
+
+>         Each training and certification program under this subsection shall include training in sexual assault forensic examinations by qualified personnel who possess—
+
+>             “(A) a Sexual Assault Nurse Examiner—Adult/Adolescent (SANE–A) certification or equivalent certification; or
+
+>             “(B) training and clinical or forensic experience in sexual assault forensic examinations similar to that required for a certification described in subparagraph (A).
+
+>         “(3)  __Nature of training__  __.—__ 
+
+>         The training provided under each training and certification program under this subsection shall incorporate and reflect current best practices and standards on sexual assault forensic examinations.
+
+>         “(4)  __Applicability of training requirements__  __.—__ 
+
+>         Effective beginning one year after the date of the enactment of this Act \[Dec. 19, 2014\], an individual may not be assigned to duty as a Sexual Assault Forensic Examiner for the Armed Forces unless the individual has completed, by the date of such assignment, all training required under the training and certification program under this subsection.”
+
+ __Defense Advisory Committee on Investigation, Prosecution, and Defense of Sexual Assault in the Armed Forces__ 
+
+[Pub. L. 113–291, div. A, title V, § 546(a)][/us/pl/113/291/s546/a]–(e), Dec. 19, 2014, [128 Stat. 3374][/us/stat/128/3374], 3375, provided that:
+
+>     “(a) __Establishment Required.—__ 
+
+>         “(1)  __In general__  __.—__ 
+
+>         The Secretary of Defense shall establish and maintain within the Department of Defense an advisory committee to be known as the ‘Defense Advisory Committee on Investigation, Prosecution, and Defense of Sexual Assault in the Armed Forces’ (in this section referred to as the ‘Advisory Committee’).
+
+>         “(2)  __Deadline for establishment__  __.—__ 
+
+>         The Secretary shall establish the Advisory Committee not later than 30 days before the termination date of the independent panel established by the Secretary under section 576(a)(2) of the National Defense Authorization Act for Fiscal Year 2013 ([Public Law 112–239][/us/pl/112/239]; [126 Stat. 1758][/us/stat/126/1758]), known as the ‘judicial proceedings panel’.
+
+>     “(b)  __Membership__  __.—__ 
+
+>     The Advisory Committee shall consist of not more than 20 members, to be appointed by the Secretary of Defense, who have experience with the investigation, prosecution, and defense of allegations of sexual assault offenses. Members of the Advisory Committee may include Federal and State prosecutors, judges, law professors, and private attorneys. Members of the Armed Forces serving on active duty may not serve as a member of the Advisory Committee.
+
+>     “(c) __Duties.—__ 
+
+>         “(1)  __In general__  __.—__ 
+
+>         The Advisory Committee shall advise the Secretary of Defense on the investigation, prosecution, and defense of allegations of rape, forcible sodomy, sexual assault, and other sexual misconduct involving members of the Armed Forces.
+
+>         “(2)  __Basis for provision of advice__  __.—__ 
+
+>         For purposes of providing advice to the Secretary pursuant to this subsection, the Advisory Committee shall review, on an ongoing basis, cases involving allegations of sexual misconduct described in paragraph (1).
+
+>     “(d)  __Annual Reports__  __.—__ 
+
+>     Not later than March 30 each year, the Advisory Committee shall submit to the Secretary of Defense and the Committees on Armed Services of the Senate and the House of Representatives a report describing the results of the activities of the Advisory Committee pursuant to this section during the preceding year.
+
+>     “(e) __Termination.—__ 
+
+>         “(1)  __In general__  __.—__ 
+
+>         Except as provided in paragraph (2), the Advisory Committee shall terminate on the date that is five years after the date of the establishment of the Advisory Committee pursuant to subsection (a).
+
+>         “(2)  __Continuation__  __.—__ 
+
+>         The Secretary of Defense may continue the Advisory Committee after the termination date applicable under paragraph (1) if the Secretary determines that continuation of the Advisory Committee after that date is advisable and appropriate. If the Secretary determines to continue the Advisory Committee after that date, the Secretary shall submit to the President and the congressional committees specified in subsection (d) a report describing the reasons for that determination and specifying the new termination date for the Advisory Committee.”
+
  __Improved Climate Assessments and Dissemination of Results__ 
 
 [Pub. L. 113–66, div. A, title V, § 587][/us/pl/113/66/s587], Dec. 26, 2013, [127 Stat. 778][/us/stat/127/778], provided that:
@@ -93,21 +191,17 @@
 
 >     The failure of a commander to conduct the required command climate assessments shall be noted in the commander’s performance evaluation.”
 
- __Availability of Sexual Assault Nurse Examiners at Military Medical Treatment Facilities__ 
+ __Availability of Sexual Assault Forensic Examiners at Military Medical Treatment Facilities__ 
 
-[Pub. L. 113–66, div. A, title XVII, § 1725(b)][/us/pl/113/66/s1725/b], Dec. 26, 2013, [127 Stat. 971][/us/stat/127/971], provided that:
+[Pub. L. 113–66, div. A, title XVII, § 1725(b)][/us/pl/113/66/s1725/b], Dec. 26, 2013, [127 Stat. 971][/us/stat/127/971], as amended by [Pub. L. 113–291, div. A, title V, § 539(d)(1)][/us/pl/113/291/s539/d/1], Dec. 19, 2014, [128 Stat. 3371][/us/stat/128/3371], provided that:
 
 >     “(1)  __Facilities with full-time emergency department__  __.—__ 
 
->     The Secretary of a military department shall require the assignment of at least one full-time sexual assault nurse examiner to each military medical treatment facility under the jurisdiction of that Secretary in which an emergency department operates 24 hours per day. The Secretary may assign additional sexual assault nurse examiners based on the demographics of the patients who utilize the military medical treatment facility.
+>     The Secretary of a military department shall require the assignment of at least one full-time Sexual Assault Forensic Examiner to each military medical treatment facility under the jurisdiction of that Secretary in which an emergency department operates 24 hours per day. The Secretary may assign additional Sexual Assault Forensic Examiners based on the demographics of the patients who utilize the military medical treatment facility.
 
 >     “(2)  __Other facilities__  __.—__ 
 
->     In the case of a military medical treatment facility not covered by paragraph (1), the Secretary of the military department concerned shall require that a sexual assault nurse examiner be made available to a patient of the facility, consistent with the Department of Justice National Protocol for Sexual Assault Medical Forensic Examinations, Adult/Adolescent, when a determination is made regarding the patient’s need for the services of a sexual assault nurse examiner.
-
->     “(3)  __Qualifications__  __.—__ 
-
->     A sexual assault nurse examiner assigned under paragraph (1) or made available under paragraph (2) shall meet such training and certification requirements as are prescribed by the Secretary of Defense.”
+>     In the case of a military medical treatment facility not covered by paragraph (1), the Secretary of the military department concerned shall require that a Sexual Assault Forensic Examiner be made available to a patient of the facility, consistent with the Department of Justice National Protocol for Sexual Assault Medical Forensic Examinations, Adult/Adolescent, when a determination is made regarding the patient’s need for the services of a Sexual Assault Forensic Examiner.”
 
  __Commanding Officer Action on Reports on Sexual Offenses Involving Members of the Armed Forces__ 
 
@@ -483,7 +577,7 @@
 
  __Department of Defense Policy and Procedures on Retention and Access to Evidence and Records Relating to Sexual Assaults Involving Members of the Armed Forces__ 
 
-[Pub. L. 112–81, div. A, title V, § 586(a)][/us/pl/112/81/s586/a]–(d), Dec. 31, 2011, [125 Stat. 1434][/us/stat/125/1434], 1435, provided that:
+[Pub. L. 112–81, div. A, title V, § 586(a)][/us/pl/112/81/s586/a]–(d), (f), Dec. 31, 2011, [125 Stat. 1434][/us/stat/125/1434], 1435, as amended by [Pub. L. 113–291, div. A, title V, § 538][/us/pl/113/291/s538], Dec. 19, 2014, [128 Stat. 3369][/us/stat/128/3369], provided that:
 
 >     “(a)  __Comprehensive Policy on Retention and Access to Records__  __.—__ 
 
@@ -527,7 +621,11 @@
 
 >     “(d)  __Uniform Application to Military Departments__  __.—__ 
 
->     The Secretary of Defense shall ensure that, to the maximum extent practicable, the policy developed under subsection (a) is implemented uniformly by the military departments.”
+>     The Secretary of Defense shall ensure that, to the maximum extent practicable, the policy developed under subsection (a) is implemented uniformly by the military departments.
+
+>     “(f)  __Return of Personal Property Upon Completion of Related Proceedings__  __.—__ 
+
+>     Notwithstanding subsection (c)(4)(A), personal property retained as evidence in connection with an incident of sexual assault involving a member of the Armed Forces may be returned to the rightful owner of such property after the conclusion of all legal, adverse action, and administrative proceedings related to such incident.”
 
  __Improved Sexual Assault Prevention and Response in the Armed Forces__ 
 
@@ -589,7 +687,7 @@
 
 >     The Secretary of Defense shall direct the Secretaries of the military departments to verify and track the compliance of commanding officers in conducting organizational climate assessments, as required by subsection (a)(3).”
 
-[Pub. L. 111–383, div. A, title XVI][/us/pl/111/383], Jan. 7, 2011, [124 Stat. 4429][/us/stat/124/4429], as amended by [Pub. L. 112–81, div. A, title V, § 583][/us/pl/112/81/s583], Dec. 31, 2011, [125 Stat. 1432][/us/stat/125/1432]; [Pub. L. 112–239, div. A, title V, § 575(a)][/us/pl/112/239/s575/a], (b), Jan. 2, 2013, [126 Stat. 1757][/us/stat/126/1757], 1758; [Pub. L. 113–66, div. A, title XVII][/us/pl/113/66], §§ 1725(a), 1726, Dec. 26, 2013, [127 Stat. 971][/us/stat/127/971], 972, provided that:
+[Pub. L. 111–383, div. A, title XVI][/us/pl/111/383], Jan. 7, 2011, [124 Stat. 4429][/us/stat/124/4429], as amended by [Pub. L. 112–81, div. A, title V, § 583][/us/pl/112/81/s583], Dec. 31, 2011, [125 Stat. 1432][/us/stat/125/1432]; [Pub. L. 112–239, div. A, title V, § 575(a)][/us/pl/112/239/s575/a], (b), Jan. 2, 2013, [126 Stat. 1757][/us/stat/126/1757], 1758; [Pub. L. 113–66, div. A, title XVII][/us/pl/113/66], §§ 1725(a), 1726, Dec. 26, 2013, [127 Stat. 971][/us/stat/127/971], 972; [Pub. L. 113–291, div. A, title V, § 542(a)][/us/pl/113/291/s542/a], (b), title X, § 1071(i), Dec. 19, 2014, [128 Stat. 3372][/us/stat/128/3372], 3373, 3512, provided that:
 
 > “SEC. 1601. __DEFINITION OF DEPARTMENT OF DEFENSE SEXUAL ASSAULT PREVENTION AND RESPONSE PROGRAM AND OTHER DEFINITIONS.__ 
 
@@ -807,7 +905,7 @@
 
 >         “(5) The number of substantiated sexual assault cases in which the victim is a deployed member of the Armed Forces and the assailant is a foreign national, and the policies, procedures, and processes implemented by the Secretary concerned to monitor the investigative processes and disposition of such cases and any actions taken to eliminate any gaps in investigating and adjudicating such cases.
 
->         “(6) A description of the implementation of the accessibility plan implemented pursuant to section 596(b) of such Act \[probably means section 596(b) of the National Defense Authorization Act for Fiscal Year 2006, [Pub. L. 109–163][/us/pl/109/163], set out below\], including a description of the steps taken during that year to ensure that trained personnel, appropriate supplies, and transportation resources are accessible to deployed units in order to provide an appropriate and timely response in any case of reported sexual assault in a deployed unit, location, or environment.
+>         “(6) A description of the implementation of the accessibility plan implemented pursuant to section 596(b) of the National Defense Authorization Act for Fiscal Year 2006 ([Public Law 109–163][/us/pl/109/163]; [10 U.S.C. 1561][/us/usc/t10/s1561] note), including a description of the steps taken during that year to ensure that trained personnel, appropriate supplies, and transportation resources are accessible to deployed units in order to provide an appropriate and timely response in any case of reported sexual assault in a deployed unit, location, or environment.
 
 >         “(7) The number of applications submitted under [section 673 of title 10][/us/usc/t10/s673], United States Code, during the year covered by the report for a permanent change of station or unit transfer for members of the Armed Forces on active duty who are the victim of a sexual assault or related offense, the number of applications denied, and, for each application denied, a description of the reasons why the application was denied.
 
@@ -817,6 +915,20 @@
 
 >         “(10) An analysis of the specific factors that may have contributed to sexual assault during the year covered by the report, an assessment of the role of such factors in contributing to sexual assaults during that year, and recommendations for mechanisms to eliminate or reduce the incidence of such factors or their contributions to sexual assaults.
 
+>         “(11)
+
+>          An analysis of the disposition of the most serious offenses occurring during sexual assaults committed by members of the Armed Force during the year covered by the report, as identified in unrestricted reports of sexual assault by any members of the Armed Forces, including the numbers of reports identifying offenses that were disposed of by each of the following:
+
+>             “(A) Conviction by court-martial, including a separate statement of the most serious charge preferred and the most serious charge for which convicted.
+
+>             “(B) Acquittal of all charges at court-martial.
+
+>             “(C) Non-judicial punishment under [section 815 of title 10][/us/usc/t10/s815], United States Code (article 15 of the Uniform Code of Military Justice).
+
+>             “(D) Administrative action, including by each type of administrative action imposed.
+
+>             “(E) Dismissal of all charges, including by reason for dismissal and by stage of proceedings in which dismissal occurred.
+
 >     “(c)  __Consistent Definition of Substantiated__  __.—__ 
 
 >     Not later than December 31, 2011, the Secretary of Defense shall establish a consistent definition of ‘substantiated’ for purposes of paragraphs (1), (2), (3), and (5) of subsection (b) and provide synopses for those cases for the preparation of reports under this section.
@@ -825,9 +937,11 @@
 
 >     Not later than April 30 of each year in which the Secretary of Defense receives reports under subsection (a), the Secretary of Defense shall forward the reports to the Committees on Armed Services of the Senate and House of Representatives, together with—
 
->         “(1) the results of assessments conducted under the evaluation plan required by section 1602(c); and
+>         “(1) the results of assessments conducted under the evaluation plan required by section 1602(c);
 
->         “(2) such assessments on the reports as the Secretary of Defense considers appropriate.
+>         “(2) an assessment of the information submitted to the Secretary pursuant to subsection (b)(11); and
+
+>         “(3) such other assessments on the reports as the Secretary of Defense considers appropriate.
 
 >     “(e) __Repeal of Superseded Reporting Requirement.—__ 
 
@@ -890,6 +1004,12 @@
 >     “(f)  __Submission of Results__  __.—__ 
 
 >     The Secretary of Defense shall submit the results of the evaluations required by this section to the Committees on Armed Services of the Senate and House of Representatives.”
+
+\[[Pub. L. 113–291, div. A, title V, § 542(c)][/us/pl/113/291/s542/c], Dec. 19, 2014, [128 Stat. 3373][/us/stat/128/3373], provided that: 
+
+> “The amendments made by this section \[amending [section 1631 of Pub. L. 111–383][/us/pl/111/383/s1631], set out above\] shall take effect on the date of the enactment of this Act \[Dec. 19, 2014\] and apply beginning with the report regarding sexual assaults involving members of the Armed Forces required to be submitted by March 1, 2015, under section 1631 of the Ike Skelton National Defense Authorization Act for Fiscal Year 2011 \[[Pub. L. 111–383][/us/pl/111/383]\].”
+
+\]
 
 \[[Pub. L. 112–239, div. A, title V, § 575(c)][/us/pl/112/239/s575/c], Jan. 2, 2013, [126 Stat. 1758][/us/stat/126/1758]. provided that: 
 
@@ -1167,10 +1287,20 @@
 [/us/pl/107/311/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F311%2Fs1
 [/us/stat/116/2455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2455
 [/us/usc/t10/s1561a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1561a
+[/us/pl/113/291/s508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs508
+[/us/stat/128/3357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3357
+[/us/pl/113/291/s539/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs539%2Fa
+[/us/stat/128/3370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3370
+[/us/pl/113/291/s546/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs546%2Fa
+[/us/stat/128/3374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3374
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/stat/126/1758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1758
 [/us/pl/113/66/s587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs587
 [/us/stat/127/778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F778
 [/us/pl/113/66/s1725/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1725%2Fb
 [/us/stat/127/971]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F971
+[/us/pl/113/291/s539/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs539%2Fd%2F1
+[/us/stat/128/3371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3371
 [/us/pl/113/66/s1742]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1742
 [/us/stat/127/979]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F979
 [/us/pl/113/66/s1743]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1743
@@ -1213,6 +1343,8 @@
 [/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
 [/us/pl/112/81/s586/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs586%2Fa
 [/us/stat/125/1434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1434
+[/us/pl/113/291/s538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs538
+[/us/stat/128/3369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3369
 [/us/usc/t5/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552
 [/us/usc/t5/s552a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552a
 [/us/pl/112/239/s572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs572
@@ -1235,6 +1367,8 @@
 [/us/stat/126/1757]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1757
 [/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/stat/127/971]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F971
+[/us/pl/113/291/s542/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs542%2Fa
+[/us/stat/128/3372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3372
 [/us/usc/t10/s1072]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1072
 [/us/usc/t10/s101/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101%2Fa%2F6
 [/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
@@ -1249,11 +1383,17 @@
 [/us/usc/t10/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs113
 [/us/usc/t10/s815]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs815
 [/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/usc/t10/s1561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1561
 [/us/usc/t10/s673]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs673
+[/us/usc/t10/s815]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs815
 [/us/pl/108/375/s577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs577
 [/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
 [/us/usc/t10/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs113
 [/us/usc/t10/s832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs832
+[/us/pl/113/291/s542/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs542%2Fc
+[/us/stat/128/3373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3373
+[/us/pl/111/383/s1631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1631
+[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
 [/us/pl/112/239/s575/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs575%2Fc
 [/us/stat/126/1758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1758
 [/us/pl/111/383/s1631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1631

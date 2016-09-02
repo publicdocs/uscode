@@ -31,7 +31,7 @@
 
         (6) In the case of a purchase by the Department of Defense, that the use of such a contract will promote the national security of the United States.
 
-        (7) In the case of a contract in an amount equal to or greater than $500,000,000, that the conditions required by subparagraphs (C) through (F) of paragraph (1) of subsection (i) will be met, in accordance with the Secretary’s certification and determination under such subsection, by such contract.
+        (7) In the case of a contract in an amount equal to or greater than $500,000,000, that the conditions required by subparagraphs (C) through (F) of subsection (i)(3) will be met, in accordance with the Secretary’s certification and determination under such subsection, by such contract.
 
     (b)  __Regulations__  __.—__ 
 
@@ -99,13 +99,23 @@
 
     (i)  __Defense Acquisitions Specifically Authorized by Law__  __.—__ 
 
-        (1)
+        (1) In the case of the Department of Defense, a multiyear contract in an amount equal to or greater than $500,000,000 may not be entered into under this section unless the contract is specifically authorized by law in an Act other than an appropriations Act.
 
-         A multiyear contract may not be entered into for any fiscal year under this section for a defense acquisition program that has been specifically authorized by law to be carried out using multiyear contract authority unless the Secretary of Defense certifies in writing by no later than March 1 of the year in which the Secretary requests legislative authority to enter into such contract that each of the following conditions is satisfied:
+        (2)
+
+         In submitting a request for a specific authorization by law to carry out a defense acquisition program using multiyear contract authority under this section, the Secretary of Defense shall include in the request the following:
+
+            (A) A report containing preliminary findings of the agency head required in paragraphs (1) through (6) of subsection (a), together with the basis for such findings.
+
+            (B) Confirmation that the preliminary findings of the agency head under subparagraph (A) were made after the completion of a cost analysis performed by the Director of Cost Assessment and Program Evaluation for the purpose of [section 2334(e)(1) of this title][/us/usc/t10/s2334/e/1], and that the analysis supports those preliminary findings.
+
+        (3)
+
+         A multiyear contract may not be entered into under this section for a defense acquisition program that has been specifically authorized by law to be carried out using multiyear contract authority unless the Secretary of Defense certifies in writing, not later than 30 days before entry into the contract, that each of the following conditions is satisfied:
 
             (A) The Secretary has determined that each of the requirements in paragraphs (1) through (6) of subsection (a) will be met by such contract and has provided the basis for such determination to the congressional defense committees.
 
-            (B) The Secretary’s determination under subparagraph (A) was made after the completion of a cost analysis performed by the Director of Cost Assessment and Program Analysis and such analysis supports the findings.
+            (B) The Secretary’s determination under subparagraph (A) was made after completion of a cost analysis conducted on the basis of [section 2334(e)(2) of this title][/us/usc/t10/s2334/e/2], and the analysis supports the determination.
 
             (C) The system being acquired pursuant to such contract has not been determined to have experienced cost growth in excess of the critical cost growth threshold pursuant to [section 2433(d) of this title][/us/usc/t10/s2433/d] within 5 years prior to the date the Secretary anticipates such contract (or a contract for advance procurement entered into consistent with the authorization for such contract) will be awarded.
 
@@ -117,21 +127,17 @@
 
             (G) The proposed multiyear contract provides for production at not less than minimum economic rates given the existing tooling and facilities.
 
-        (2) If for any fiscal year a multiyear contract to be entered into under this section is authorized by law for a particular procurement program and that authorization is subject to certain conditions established by law (including a condition as to cost savings to be achieved under the multiyear contract in comparison to specified other contracts) and if it appears (after negotiations with contractors) that such savings cannot be achieved, but that substantial savings could nevertheless be achieved through the use of a multiyear contract rather than specified other contracts, the President may submit to Congress a request for relief from the specified cost savings that must be achieved through multiyear contracting for that program. Any such request by the President shall include details about the request for a multiyear contract, including details about the negotiated contract terms and conditions.
+        (4) If for any fiscal year a multiyear contract to be entered into under this section is authorized by law for a particular procurement program and that authorization is subject to certain conditions established by law (including a condition as to cost savings to be achieved under the multiyear contract in comparison to specified other contracts) and if it appears (after negotiations with contractors) that such savings cannot be achieved, but that substantial savings could nevertheless be achieved through the use of a multiyear contract rather than specified other contracts, the President may submit to Congress a request for relief from the specified cost savings that must be achieved through multiyear contracting for that program. Any such request by the President shall include details about the request for a multiyear contract, including details about the negotiated contract terms and conditions.
 
-        (3) In the case of the Department of Defense, a multiyear contract in an amount equal to or greater than $500,000,000 may not be entered into for any fiscal year under this section unless the contract is specifically authorized by law in an Act other than an appropriations Act.
+        (5)
 
-        (4)
+            (A) The Secretary may obligate funds for procurement of an end item under a multiyear contract for the purchase of property only for procurement of a complete and usable end item.
 
-            (A) The Secretary of Defense may obligate funds for procurement of an end item under a multiyear contract for the purchase of property only for procurement of a complete and usable end item.
+            (B) The Secretary may obligate funds appropriated for any fiscal year for advance procurement under a contract for the purchase of property only for the procurement of those long-lead items necessary in order to meet a planned delivery schedule for complete major end items that are programmed under the contract to be acquired with funds appropriated for a subsequent fiscal year (including an economic order quantity of such long-lead items when authorized by law).
 
-            (B) The Secretary of Defense may obligate funds appropriated for any fiscal year for advance procurement under a contract for the purchase of property only for the procurement of those long-lead items necessary in order to meet a planned delivery schedule for complete major end items that are programmed under the contract to be acquired with funds appropriated for a subsequent fiscal year (including an economic order quantity of such long-lead items when authorized by law).
+        (6) The Secretary may make the certification under paragraph (3) notwithstanding the fact that one or more of the conditions of such certification are not met, if the Secretary determines that, due to exceptional circumstances, proceeding with a multiyear contract under this section is in the best interest of the Department of Defense and the Secretary provides the basis for such determination with the certification.
 
-        (5) The Secretary may make the certification under paragraph (1) notwithstanding the fact that one or more of the conditions of such certification are not met if the Secretary determines that, due to exceptional circumstances, proceeding with a multiyear contract under this section is in the best interest of the Department of Defense and the Secretary provides the basis for such determination with the certification.
-
-        (6) The Secretary of Defense may not delegate the authority to make the certification under paragraph (1) or the determination under paragraph (5) to an official below the level of Under Secretary of Defense for Acquisition, Technology, and Logistics.
-
-        (7) The Secretary of Defense shall send a notification containing the findings of the agency head under subsection (a), and the basis for such findings, 30 days prior to the award of a multiyear contract for a defense acquisition program that has been specifically authorized by law.
+        (7) The Secretary may not delegate the authority to make the certification under paragraph (3) or the determination under paragraph (6) to an official below the level of Under Secretary of Defense for Acquisition, Technology, and Logistics.
 
     (j)  __Defense Contract Options for Varying Quantities__  __.—__ 
 
@@ -215,9 +221,13 @@
 
     Any request for increased funding for the procurement of a major system under a multiyear contract authorized under this section shall be accompanied by an explanation of how the request for increased funding affects the determinations made by the Secretary under subsection (i).
 
-(Added [Pub. L. 103–355, title I, § 1022(a)(1)][/us/pl/103/355/s1022/a/1], Oct. 13, 1994, [108 Stat. 3257][/us/stat/108/3257]; amended [Pub. L. 104–106, div. A, title XV, § 1502(a)(10)][/us/pl/104/106/s1502/a/10], div. E, title LVI, § 5601(b), Feb. 10, 1996, [110 Stat. 503][/us/stat/110/503], 699; [Pub. L. 105–85, div. A, title VIII, § 806(a)(1)][/us/pl/105/85/s806/a/1], (b)(1), (c), title X, § 1073(a)(47), (48)(A), Nov. 18, 1997, [111 Stat. 1834][/us/stat/111/1834], 1835, 1903; [Pub. L. 106–65, div. A, title VIII, § 809][/us/pl/106/65/s809], title X, § 1067(1), Oct. 5, 1999, [113 Stat. 705][/us/stat/113/705], 774; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title VIII, §§ 802(c), 806\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–205, 1654A–207; [Pub. L. 107–296, title XVII, § 1704(b)(1)][/us/pl/107/296/s1704/b/1], Nov. 25, 2002, [116 Stat. 2314][/us/stat/116/2314]; [Pub. L. 107–314, div. A, title VIII, § 820(a)][/us/pl/107/314/s820/a], Dec. 2, 2002, [116 Stat. 2613][/us/stat/116/2613]; [Pub. L. 108–136, div. A, title X, § 1043(b)(10)][/us/pl/108/136/s1043/b/10], Nov. 24, 2003, [117 Stat. 1611][/us/stat/117/1611]; [Pub. L. 108–375, div. A, title VIII, § 814(a)][/us/pl/108/375/s814/a], title X, § 1084(b)(2), Oct. 28, 2004, [118 Stat. 2014][/us/stat/118/2014], 2060; [Pub. L. 110–181, div. A, title VIII, § 811(a)][/us/pl/110/181/s811/a], Jan. 28, 2008, [122 Stat. 217][/us/stat/122/217]; [Pub. L. 111–23, title I, § 101(d)(2)][/us/pl/111/23/s101/d/2], May 22, 2009, [123 Stat. 1709][/us/stat/123/1709].)
+(Added [Pub. L. 103–355, title I, § 1022(a)(1)][/us/pl/103/355/s1022/a/1], Oct. 13, 1994, [108 Stat. 3257][/us/stat/108/3257]; amended [Pub. L. 104–106, div. A, title XV, § 1502(a)(10)][/us/pl/104/106/s1502/a/10], div. E, title LVI, § 5601(b), Feb. 10, 1996, [110 Stat. 503][/us/stat/110/503], 699; [Pub. L. 105–85, div. A, title VIII, § 806(a)(1)][/us/pl/105/85/s806/a/1], (b)(1), (c), title X, § 1073(a)(47), (48)(A), Nov. 18, 1997, [111 Stat. 1834][/us/stat/111/1834], 1835, 1903; [Pub. L. 106–65, div. A, title VIII, § 809][/us/pl/106/65/s809], title X, § 1067(1), Oct. 5, 1999, [113 Stat. 705][/us/stat/113/705], 774; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title VIII, §§ 802(c), 806\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–205, 1654A–207; [Pub. L. 107–296, title XVII, § 1704(b)(1)][/us/pl/107/296/s1704/b/1], Nov. 25, 2002, [116 Stat. 2314][/us/stat/116/2314]; [Pub. L. 107–314, div. A, title VIII, § 820(a)][/us/pl/107/314/s820/a], Dec. 2, 2002, [116 Stat. 2613][/us/stat/116/2613]; [Pub. L. 108–136, div. A, title X, § 1043(b)(10)][/us/pl/108/136/s1043/b/10], Nov. 24, 2003, [117 Stat. 1611][/us/stat/117/1611]; [Pub. L. 108–375, div. A, title VIII, § 814(a)][/us/pl/108/375/s814/a], title X, § 1084(b)(2), Oct. 28, 2004, [118 Stat. 2014][/us/stat/118/2014], 2060; [Pub. L. 110–181, div. A, title VIII, § 811(a)][/us/pl/110/181/s811/a], Jan. 28, 2008, [122 Stat. 217][/us/stat/122/217]; [Pub. L. 111–23, title I, § 101(d)(2)][/us/pl/111/23/s101/d/2], May 22, 2009, [123 Stat. 1709][/us/stat/123/1709]; [Pub. L. 113–291, div. A, title VIII, § 816(a)][/us/pl/113/291/s816/a], (b), Dec. 19, 2014, [128 Stat. 3430][/us/stat/128/3430], 3432.)
 
  __Amendments__ 
+
+    2014—Subsec. (a)(7). [Pub. L. 113–291, § 816(b)][/us/pl/113/291/s816/b], substituted “subparagraphs (C) through (F) of subsection (i)(3)” for “subparagraphs (C) through (F) of paragraph (1) of subsection (i)”.
+
+    Subsec. (i). [Pub. L. 113–291, § 816(a)][/us/pl/113/291/s816/a], amended subsec. (i) generally. Prior to amendment, subsec. (i) related to defense acquisitions specifically authorized by law.
 
     2009—Subsec. (i)(1)(B). [Pub. L. 111–23][/us/pl/111/23] substituted “Director of Cost Assessment and Program Analysis” for “Cost Analysis Improvement Group of the Department of Defense”.
 
@@ -280,6 +290,12 @@
     1996—Subsec. (g). [Pub. L. 104–106, § 1502(a)(10)][/us/pl/104/106/s1502/a/10], substituted “the Committee on Armed Services and the Committee on Appropriations of the Senate and the Committee on National Security and the Committee on Appropriations of the” for “the Committees on Armed Services and on Appropriations of the Senate and”.
 
     Subsecs. (k), (l). [Pub. L. 104–106, § 5601(b)][/us/pl/104/106/s5601/b], redesignated subsec. (l) as (k) and struck out former subsec. (k) which read as follows: “Inapplicability to Automatic Data Processing Contracts.—This section does not apply to contracts for the purchase of property to which section 111 of the Federal Property and Administrative Services Act of 1949 ([40 U.S.C. 759][/us/usc/t40/s759]) applies.”
+
+ __Effective Date of 2014 Amendment__ 
+
+[Pub. L. 113–291, div. A, title VIII, § 816(c)][/us/pl/113/291/s816/c], Dec. 19, 2014, [128 Stat. 3432][/us/stat/128/3432], provided that: 
+
+> “The amendments made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[Dec. 19, 2014\], and shall apply with respect to requests for specific authorization by law to carry out defense acquisition programs using multiyear contract authority that are made on or after that date.”
 
  __Effective Date of 2008 Amendment__ 
 
@@ -396,6 +412,8 @@ Similar provisions were contained in the following appropriation acts:
 ----------
 ----------
 
+[/us/usc/t10/s2334/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2334%2Fe%2F1
+[/us/usc/t10/s2334/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2334%2Fe%2F2
 [/us/usc/t10/s2433/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2433%2Fd
 [/us/usc/t31/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105
 [/us/pl/103/355/s1022/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs1022%2Fa%2F1
@@ -420,6 +438,10 @@ Similar provisions were contained in the following appropriation acts:
 [/us/stat/122/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F217
 [/us/pl/111/23/s101/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F23%2Fs101%2Fd%2F2
 [/us/stat/123/1709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1709
+[/us/pl/113/291/s816/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs816%2Fa
+[/us/stat/128/3430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3430
+[/us/pl/113/291/s816/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs816%2Fb
+[/us/pl/113/291/s816/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs816%2Fa
 [/us/pl/111/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F23
 [/us/pl/110/181/s811/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs811%2Fa%2F1
 [/us/pl/110/181/s811/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs811%2Fa%2F2
@@ -451,6 +473,8 @@ Similar provisions were contained in the following appropriation acts:
 [/us/pl/104/106/s1502/a/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1502%2Fa%2F10
 [/us/pl/104/106/s5601/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs5601%2Fb
 [/us/usc/t40/s759]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs759
+[/us/pl/113/291/s816/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs816%2Fc
+[/us/stat/128/3432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3432
 [/us/pl/110/181/s811/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs811%2Fb
 [/us/stat/122/219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F219
 [/us/pl/107/314/s820/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs820%2Fb

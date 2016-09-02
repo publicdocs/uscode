@@ -121,21 +121,25 @@
 
  __Update of Policy Guidance on Authority for Assignment of Civilian Employees of the Department of Defense as Advisors to Foreign Ministries of Defense__ 
 
+[Pub. L. 113–291, div. A, title X, § 1047(b)][/us/pl/113/291/s1047/b], Dec. 19, 2014, [128 Stat. 3495][/us/stat/128/3495], provided that: 
+
+> “The Under Secretary of Defense for Policy shall issue an update of the policy of the Department of Defense for assignment of civilian employees of the Department as advisors to foreign ministries of defense and regional organizations under the authority in section 1081 of the National Defense Authorization Act for Fiscal Year 2012 ([Public Law 112–81][/us/pl/112/81]; [125 Stat. 1599][/us/stat/125/1599]; [10 U.S.C. 168][/us/usc/t10/s168] note), as amended by this section.”
+
 [Pub. L. 113–66, div. A, title X, § 1094(a)(2)][/us/pl/113/66/s1094/a/2], Dec. 26, 2013, [127 Stat. 878][/us/stat/127/878], provided that: 
 
 > “The Under Secretary of Defense for Policy shall issue an update of the policy of the Department of Defense for assignment of civilian employees of the Department as advisors to foreign ministries of defense under the authority in section 1081 of the National Defense Authorization Act for Fiscal Year 2012 \[[section 1081 of Pub. L. 112–81][/us/pl/112/81/s1081], set out below\], as amended by this section.”
 
- __Authority for Assignment of Civilian Employees of the Department of Defense as Advisors to Foreign Ministries of Defense__ 
+ __Authority for Assignment of Civilian Employees of the Department of Defense as Advisors to Foreign Ministries of Defense and Regional Organizations__ 
 
-[Pub. L. 112–81, div. A, title X, § 1081][/us/pl/112/81/s1081], Dec. 31, 2011, [125 Stat. 1599][/us/stat/125/1599], as amended by [Pub. L. 113–66, div. A, title X, § 1094(a)(1)][/us/pl/113/66/s1094/a/1], (3)–(5), Dec. 26, 2013, [127 Stat. 878][/us/stat/127/878], provided that:
+[Pub. L. 112–81, div. A, title X, § 1081][/us/pl/112/81/s1081], Dec. 31, 2011, [125 Stat. 1599][/us/stat/125/1599], as amended by [Pub. L. 113–66, div. A, title X, § 1094(a)(1)][/us/pl/113/66/s1094/a/1], (3)–(5), Dec. 26, 2013, [127 Stat. 878][/us/stat/127/878]; [Pub. L. 113–291, div. A, title X, § 1047(a)][/us/pl/113/291/s1047/a], (c), Dec. 19, 2014, [128 Stat. 3494][/us/stat/128/3494], 3495, provided that:
 
 >     “(a)  __Authority__  __.—__ 
 
->     The Secretary of Defense may, with the concurrence of the Secretary of State, carry out a program to assign civilian employees of the Department of Defense as advisors to the ministries of defense (or security agencies serving a similar defense function) of foreign countries in order to—
+>     The Secretary of Defense may, with the concurrence of the Secretary of State, carry out a program to assign civilian employees of the Department of Defense as advisors to the ministries of defense (or security agencies serving a similar defense function) of foreign countries or regional organizations with security missions in order to—
 
->         “(1) provide institutional, ministerial-level advice, and other training to personnel of the ministry to which assigned in support of stabilization or post-conflict activities; or
+>         “(1) provide institutional, ministerial-level advice, and other training to personnel of the ministry or regional organization to which assigned in support of stabilization or post-conflict activities; or
 
->         “(2) assist such ministry in building core institutional capacity, competencies, and capabilities to manage defense-related processes.
+>         “(2) assist such ministry or regional organization in building core institutional capacity, competencies, and capabilities to manage defense-related processes.
 
 >     “(b) __Termination of Authority.—__ 
 
@@ -147,11 +151,23 @@
 
 >         Any assignment of a civilian employee under subsection (a) before the date specified in paragraph (1) may continue after that date, but only using funds available for a fiscal year ending on or before that date.
 
->     “(c)  __Annual Report__  __.—__ 
+>     “(c)  __Congressional Notice__  __.—__ 
+
+>     Not later than 15 days before assigning a civilian employee of the Department of Defense as an advisor to a regional organization with a security mission under subsection (a), the Secretary shall submit to the Committees on Armed Services and Foreign Relations of the Senate and the Committees on Armed Services and Foreign Affairs of the House of Representatives a notification of such assignment. Such a notification shall include each of the following:
+
+>         “(1) A statement of the intent of the Secretary to assign the employee as an advisor to the regional organization.
+
+>         “(2) The name of the regional organization and the location and duration of the assignment.
+
+>         “(3) A description of the assignment, including a description of the training or assistance proposed to be provided to the regional organization, the justification for the assignment, a description of the unique capabilities the employee can provide to the regional organization, and a description of how the assignment serves the national security interests of the United States.
+
+>         “(4) Any other information relating to the assignment that the Secretary of Defense considers appropriate.
+
+>     “(d)  __Annual Report__  __.—__ 
 
 >     Not later than December 30 each year through 2017, the Secretary of Defense shall submit to the Committees on Armed Services and Foreign Relations of the Senate and the Committees on Armed Services and Foreign Affairs of the House of Representatives a report on activities under the program under subsection (a) during the preceding fiscal year. Each report shall include, for the fiscal year covered by such report, the following:
 
->         “(1) A list of the defense ministries to which civilian employees were assigned under the program.
+>         “(1) A list of the defense ministries and regional organizations with security missions to which civilian employees were assigned under the program.
 
 >         “(2) A statement of the number of such employees so assigned.
 
@@ -159,15 +175,15 @@
 
 >         “(4) A brief description of the activities carried out by such employees pursuant to such assignments.
 
->         “(5) A description of the criteria used to select the defense ministries identified in paragraph (1) and the civilian employees so assigned.
+>         “(5) A description of the criteria used to select the defense ministries and regional organizations with security missions identified in paragraph (1) and the civilian employees so assigned.
 
 >         “(6) A statement of the cost of each such assignment.
 
 >         “(7) Recommendations, if any, about changes to the authority, including an assessment of whether expanding the program authority to include assignments to bilateral, regional, or multilateral international security organizations would advance the national security interests of the United States.
 
->     “(d)  __Comptroller General Report__  __.—__ 
+>     “(e)  __Comptroller General Report__  __.—__ 
 
->     Not later than December 31, 2014, the Comptroller General of the United States shall submit to the committees of Congress specified in subsection (c) a report setting forth an assessment of the effectiveness of the advisory services provided by civilian employees assigned under the program under subsection (a) as of the date of the report in meeting the purposes of the program.”
+>     Not later than December 31, 2014, the Comptroller General of the United States shall submit to the committees of Congress specified in subsection (d) a report setting forth an assessment of the effectiveness of the advisory services provided by civilian employees assigned under the program under subsection (a) as of the date of the report in meeting the purposes of the program.”
 
     \[[Pub. L. 113–66, div. A, title X, § 1094(a)(3)][/us/pl/113/66/s1094/a/3]–(5), Dec. 26, 2013, [127 Stat. 878][/us/stat/127/878], which directed amendment of “such section” by striking “2014” and inserting “2017” in subsec. (c), by striking “carried out such by such” and inserting “carried out by such” in subsec. (c)(4), and by striking “December 30, 2013” and inserting “December 31, 2014” in subsec. (d), was executed to [section 1081 of Pub. L. 112–81][/us/pl/112/81/s1081], set out above, to reflect the probable intent of Congress.\]
 
@@ -361,6 +377,11 @@
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4622
 [/us/usc/t10/s168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs168
+[/us/pl/113/291/s1047/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1047%2Fb
+[/us/stat/128/3495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3495
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/stat/125/1599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1599
+[/us/usc/t10/s168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs168
 [/us/pl/113/66/s1094/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1094%2Fa%2F2
 [/us/stat/127/878]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F878
 [/us/pl/112/81/s1081]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1081
@@ -368,6 +389,8 @@
 [/us/stat/125/1599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1599
 [/us/pl/113/66/s1094/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1094%2Fa%2F1
 [/us/stat/127/878]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F878
+[/us/pl/113/291/s1047/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1047%2Fa
+[/us/stat/128/3494]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3494
 [/us/pl/113/66/s1094/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1094%2Fa%2F3
 [/us/stat/127/878]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F878
 [/us/pl/112/81/s1081]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1081

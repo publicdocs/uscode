@@ -27,15 +27,17 @@
 
         (3) the authority provided by this subsection may not be used to acquire items or services for the principal benefit of the United States.
 
-    (c) Any funds expended under the authority of subsection (a) shall be reported to the Select Committee on Intelligence of the Senate and the Permanent Select Committee on Intelligence of the House of Representatives pursuant to the provisions of title V of the National Security Act of 1947 ([50 U.S.C. 413][/us/usc/t50/s413] et seq.). <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  Funds expended under the authority of subsection (b) shall be reported pursuant to procedures jointly agreed upon by such committees and the Secretary of Defense.
+    (c) Any funds expended under the authority of subsection (a) shall be reported to the Select Committee on Intelligence of the Senate and the Permanent Select Committee on Intelligence of the House of Representatives pursuant to the provisions of title V of the National Security Act of 1947 ([50 U.S.C. 3091][/us/usc/t50/s3091] et seq.). Funds expended under the authority of subsection (b) shall be reported pursuant to procedures jointly agreed upon by such committees and the Secretary of Defense.
 
-(Added [Pub. L. 96–450, title IV, § 401(a)][/us/pl/96/450/s401/a], Oct. 14, 1980, [94 Stat. 1977][/us/stat/94/1977], § 140a; amended [Pub. L. 97–258, § 3(b)(2)][/us/pl/97/258/s3/b/2], Sept. 13, 1982, [96 Stat. 1063][/us/stat/96/1063]; renumbered § 128 and amended [Pub. L. 99–433, title I][/us/pl/99/433], §§ 101(a)(3), 110(d)(5), Oct. 1, 1986, [100 Stat. 994][/us/stat/100/994], 1002; renumbered § 421, [Pub. L. 100–26, § 9(a)(2)][/us/pl/100/26/s9/a/2], Apr. 21, 1987, [101 Stat. 287][/us/stat/101/287]; [Pub. L. 100–453, title VII, § 701(a)][/us/pl/100/453/s701/a], Sept. 29, 1988, [102 Stat. 1911][/us/stat/102/1911]; [Pub. L. 101–189, div. A, title XVI, § 1622(c)(3)][/us/pl/101/189/s1622/c/3], Nov. 29, 1989, [103 Stat. 1604][/us/stat/103/1604].)
+(Added [Pub. L. 96–450, title IV, § 401(a)][/us/pl/96/450/s401/a], Oct. 14, 1980, [94 Stat. 1977][/us/stat/94/1977], § 140a; amended [Pub. L. 97–258, § 3(b)(2)][/us/pl/97/258/s3/b/2], Sept. 13, 1982, [96 Stat. 1063][/us/stat/96/1063]; renumbered § 128 and amended [Pub. L. 99–433, title I][/us/pl/99/433], §§ 101(a)(3), 110(d)(5), Oct. 1, 1986, [100 Stat. 994][/us/stat/100/994], 1002; renumbered § 421, [Pub. L. 100–26, § 9(a)(2)][/us/pl/100/26/s9/a/2], Apr. 21, 1987, [101 Stat. 287][/us/stat/101/287]; [Pub. L. 100–453, title VII, § 701(a)][/us/pl/100/453/s701/a], Sept. 29, 1988, [102 Stat. 1911][/us/stat/102/1911]; [Pub. L. 101–189, div. A, title XVI, § 1622(c)(3)][/us/pl/101/189/s1622/c/3], Nov. 29, 1989, [103 Stat. 1604][/us/stat/103/1604]; [Pub. L. 113–291, div. A, title X, § 1071(c)(3)][/us/pl/113/291/s1071/c/3], Dec. 19, 2014, [128 Stat. 3508][/us/stat/128/3508].)
 
  __References in Text__ 
 
-    The National Security Act of 1947, referred to in subsec. (c), is [act July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], [61 Stat. 495][/us/stat/61/495], which was formerly classified principally to chapter 15 (§ 401 et seq.) of Title 50, War and National Defense, prior to editorial reclassification in chapter 44 (§ 3001 et seq.) of Title 50. Title V of the Act is now classified generally to subchapter III (§ 3091 et seq.) of chapter 44 of Title 50. For complete classification of this Act to the Code, see Tables.
+    The National Security Act of 1947, referred to in subsec. (c), is [act July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], [61 Stat. 495][/us/stat/61/495]. Title V of the Act is classified generally to subchapter III (§ 3091 et seq.) of chapter 44 of Title 50. For complete classification of this Act to the Code, see Tables.
 
  __Amendments__ 
+
+    2014—Subsec. (c). [Pub. L. 113–291][/us/pl/113/291] substituted “([50 U.S.C. 3091][/us/usc/t50/s3091] et seq.)” for “([50 U.S.C. 413][/us/usc/t50/s413] et seq.)”.
 
     1989—Subsec. (c). [Pub. L. 101–189][/us/pl/101/189] substituted “House of Representatives pursuant to the provisions of title V of the National Security Act of 1947 ([50 U.S.C. 413][/us/usc/t50/s413] et seq.). Funds” for “House pursuant to the provisions of title V of the National Security Act of 1947, as amended, and funds”.
 
@@ -58,7 +60,7 @@
 ----------
 ----------
 
-[/us/usc/t50/s413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs413
+[/us/usc/t50/s3091]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3091
 [/us/pl/96/450/s401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F450%2Fs401%2Fa
 [/us/stat/94/1977]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1977
 [/us/pl/97/258/s3/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs3%2Fb%2F2
@@ -71,8 +73,13 @@
 [/us/stat/102/1911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1911
 [/us/pl/101/189/s1622/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs1622%2Fc%2F3
 [/us/stat/103/1604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1604
+[/us/pl/113/291/s1071/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Fc%2F3
+[/us/stat/128/3508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3508
 [/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
 [/us/stat/61/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F495
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/usc/t50/s3091]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3091
+[/us/usc/t50/s413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs413
 [/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
 [/us/usc/t50/s413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs413
 [/us/pl/100/453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F453

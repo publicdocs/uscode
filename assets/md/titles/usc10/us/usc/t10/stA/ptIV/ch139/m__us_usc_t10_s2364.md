@@ -33,27 +33,27 @@
 
         (3) that the managers of such facilities have broad latitude to choose research and development projects;
 
-        (4) that technology position papers prepared by Defense research facilities are readily available to all combatant commands and to contractors who submit bids or proposals for Department of Defense contracts; and
+        (4) that technology position and issue papers prepared by Defense research facilities are readily available to all components of the Department of Defense and to contractors who submit bids or proposals for Department of Defense contracts; and
 
-        (5) that, in order to promote increased consideration of technological issues early in the development process, any position paper prepared by a Defense research facility on a technological issue relating to a major weapon system, and any technological assessment made by such facility in the case of such component, is made a part of the records considered for the purpose of making acquisition program decisions.
+        (5) that, in order to promote increased consideration of technological issues early in the development process, any technological assessment made by a Defense research facility shall be provided to the Defense Technical Information Center repository to support acquisition decisions.
 
     (c)  __Definitions__  __.—__ 
 
-    In this section:
+    In this section, the term “Defense research facility” means a Department of Defense facility which performs or contracts for the performance of—
 
-        (1)
+        (1) basic research; or
 
-         The term “Defense research facility” means a Department of Defense facility which performs or contracts for the performance of—
+        (2) applied research known as exploratory development.
 
-            (A) basic research; or
-
-            (B) applied research known as exploratory development.
-
-        (2) The term “acquisition program decision” has the meaning prescribed by the Secretary of Defense in regulations.”
-
-(Added [Pub. L. 99–661, div. A, title II, § 234(c)(1)][/us/pl/99/661/s234/c/1], Nov. 14, 1986, [100 Stat. 3848][/us/stat/100/3848]; amended [Pub. L. 100–26][/us/pl/100/26], §§ 3(1)(A), 7(a)(9), Apr. 21, 1987, [101 Stat. 273][/us/stat/101/273], 278; [Pub. L. 100–180, div. A, title XII, § 1231(10)(A)][/us/pl/100/180/s1231/10/A], (B), Dec. 4, 1987, [101 Stat. 1160][/us/stat/101/1160]; [Pub. L. 104–106, div. A, title VIII, § 805][/us/pl/104/106/s805], Feb. 10, 1996, [110 Stat. 390][/us/stat/110/390].)
+(Added [Pub. L. 99–661, div. A, title II, § 234(c)(1)][/us/pl/99/661/s234/c/1], Nov. 14, 1986, [100 Stat. 3848][/us/stat/100/3848]; amended [Pub. L. 100–26][/us/pl/100/26], §§ 3(1)(A), 7(a)(9), Apr. 21, 1987, [101 Stat. 273][/us/stat/101/273], 278; [Pub. L. 100–180, div. A, title XII, § 1231(10)(A)][/us/pl/100/180/s1231/10/A], (B), Dec. 4, 1987, [101 Stat. 1160][/us/stat/101/1160]; [Pub. L. 104–106, div. A, title VIII, § 805][/us/pl/104/106/s805], Feb. 10, 1996, [110 Stat. 390][/us/stat/110/390]; [Pub. L. 113–291, div. A, title II, § 213][/us/pl/113/291/s213], Dec. 19, 2014, [128 Stat. 3325][/us/stat/128/3325].)
 
  __Amendments__ 
+
+    2014—Subsec. (b)(4). [Pub. L. 113–291, § 213(1)(A)][/us/pl/113/291/s213/1/A], inserted “and issue” after “technology position” and substituted “components of the Department of Defense” for “combatant commands”.
+
+    Subsec. (b)(5). [Pub. L. 113–291, § 213(1)(B)][/us/pl/113/291/s213/1/B], substituted “any technological assessment made by a Defense research facility shall be provided to the Defense Technical Information Center repository to support acquisition decisions.” for “any position paper prepared by a Defense research facility on a technological issue relating to a major weapon system, and any technological assessment made by such facility in the case of such component, is made a part of the records considered for the purpose of making acquisition program decisions.”
+
+    Subsec. (c). [Pub. L. 113–291, § 213(2)][/us/pl/113/291/s213/2], substituted “this section,” for “this section:” and “the term” for “The term”, struck out par. (1) designation and par. (2), redesignated subpars. (A) and (B) of former par. (1) as pars. (1) and (2), respectively, and realigned margins. Prior to amendment, former par. (2) read as follows: “The term ‘acquisition program decision’ has the meaning prescribed by the Secretary of Defense in regulations.”
 
     1996—Subsec. (b)(5). [Pub. L. 104–106, § 805(1)][/us/pl/104/106/s805/1], substituted “acquisition program” for “milestone O, milestone I, and milestone II”.
 
@@ -134,6 +134,11 @@
 [/us/stat/101/1160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1160
 [/us/pl/104/106/s805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs805
 [/us/stat/110/390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F390
+[/us/pl/113/291/s213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs213
+[/us/stat/128/3325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3325
+[/us/pl/113/291/s213/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs213%2F1%2FA
+[/us/pl/113/291/s213/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs213%2F1%2FB
+[/us/pl/113/291/s213/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs213%2F2
 [/us/pl/104/106/s805/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs805%2F1
 [/us/pl/104/106/s805/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs805%2F2
 [/us/pl/100/26/s3/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26%2Fs3%2F1%2FA

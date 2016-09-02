@@ -19,7 +19,7 @@
 
         (1)  __Standard annuity__  __.—__ 
 
-        In the case of a standard annuity provided to a beneficiary under [section 1450(a) of this title][/us/usc/t10/s1450/a] (other than under section 1450(a)(4)), the monthly annuity payable to the beneficiary shall be determined as follows:
+        In the case of a standard annuity provided to a beneficiary under [section 1450(a) of this title][/us/usc/t10/s1450/a] (other than under section 1450(a)(4)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup> ), the monthly annuity payable to the beneficiary shall be determined as follows:
 
             (A)  __Beneficiary under 62 years of age__  __.—__ 
 
@@ -47,7 +47,7 @@
 
         (2)  __Reserve-component annuity__  __.—__ 
 
-        In the case of a reserve-component annuity provided to a beneficiary under [section 1450(a) of this title][/us/usc/t10/s1450/a] (other than under section 1450(a)(4)), the monthly annuity payable to the beneficiary shall be determined as follows:
+        In the case of a reserve-component annuity provided to a beneficiary under [section 1450(a) of this title][/us/usc/t10/s1450/a] (other than under section 1450(a)(4) 1), the monthly annuity payable to the beneficiary shall be determined as follows:
 
             (A)  __Beneficiary under 62 years of age__  __.—__ 
 
@@ -75,11 +75,11 @@
 
         (1)  __Standard annuity__  __.—__ 
 
-        In the case of a standard annuity provided to a beneficiary under [section 1450(a)(4) of this title][/us/usc/t10/s1450/a/4], the monthly annuity payable to the beneficiary shall be the amount equal to 55 percent of the retired pay of the person who elected to provide the annuity after the reduction in that pay in accordance with [section 1452(c) of this title][/us/usc/t10/s1452/c].
+        In the case of a standard annuity provided to a beneficiary under section 1450(a)(4) 1 of this title, the monthly annuity payable to the beneficiary shall be the amount equal to 55 percent of the retired pay of the person who elected to provide the annuity after the reduction in that pay in accordance with [section 1452(c) of this title][/us/usc/t10/s1452/c].
 
         (2)  __Reserve-component annuity__  __.—__ 
 
-        In the case of a reserve-component annuity provided to a beneficiary under [section 1450(a)(4) of this title][/us/usc/t10/s1450/a/4], the monthly annuity payable to the beneficiary shall be the amount equal to a percentage of the retired pay of the person who elected to provide the annuity after the reduction in such pay in accordance with [section 1452(c) of this title][/us/usc/t10/s1452/c] that—
+        In the case of a reserve-component annuity provided to a beneficiary under section 1450(a)(4) 1 of this title, the monthly annuity payable to the beneficiary shall be the amount equal to a percentage of the retired pay of the person who elected to provide the annuity after the reduction in such pay in accordance with [section 1452(c) of this title][/us/usc/t10/s1452/c] that—
 
             (A) is less than 55 percent; and
 
@@ -277,6 +277,8 @@
 
  __References in Text__ 
 
+    [Section 1450(a)(4) of this title][/us/usc/t10/s1450/a/4], referred to in subsecs. (a)(1), (2) and (b)(1), (2), was redesignated [section 1450(a)(5) of this title][/us/usc/t10/s1450/a/5] by [Pub. L. 113–291, div. A, title VI, § 624(a)(1)(A)][/us/pl/113/291/s624/a/1/A], Dec. 19, 2014, [128 Stat. 3403][/us/stat/128/3403].
+
     The Social Security Act, referred to in subsec. (e)(3)(A), (4)(A), is [act Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], [49 Stat. 620][/us/stat/49/620], as amended. Title II of the Social Security Act is classified generally to subchapter II (§ 401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42][/us/usc/t42/s1305] and Tables.
 
     Section 6413(c) of the Internal Revenue Code of 1986, referred to in subsec. (e)(4)(B)(ii), is classified to [section 6413(c) of Title 26][/us/usc/t26/s6413/c], Internal Revenue Code.
@@ -460,9 +462,7 @@
 
 [/us/usc/t10/s1450/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1450%2Fa
 [/us/usc/t10/s1450/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1450%2Fa
-[/us/usc/t10/s1450/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1450%2Fa%2F4
 [/us/usc/t10/s1452/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1452%2Fc
-[/us/usc/t10/s1450/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1450%2Fa%2F4
 [/us/usc/t10/s1452/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1452%2Fc
 [/us/usc/t10/s1448/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1448%2Fe
 [/us/usc/t10/s1448/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1448%2Fd
@@ -529,6 +529,10 @@
 [/us/stat/116/2650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2650
 [/us/pl/108/375/s644/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs644%2Fa
 [/us/stat/118/1960]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1960
+[/us/usc/t10/s1450/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1450%2Fa%2F4
+[/us/usc/t10/s1450/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1450%2Fa%2F5
+[/us/pl/113/291/s624/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs624%2Fa%2F1%2FA
+[/us/stat/128/3403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3403
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
 [/us/usc/t42/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1305

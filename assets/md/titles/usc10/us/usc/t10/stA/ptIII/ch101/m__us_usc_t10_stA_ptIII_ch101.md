@@ -163,7 +163,7 @@
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2015" data-uslm-ref="/us/usc/t10/s2015">2015.</a>  </td>
 
-    <td> Payment of expenses to obtain professional credentials.  </td>
+    <td> Program to assist members in obtaining professional credentials.  </td>
 
   </tr>
 
@@ -178,6 +178,8 @@
 </table>
 
  __Amendments__ 
+
+    2014—[Pub. L. 113–291, div. A, title V, § 551(b)][/us/pl/113/291/s551/b], Dec. 19, 2014, [128 Stat. 3377][/us/stat/128/3377], substituted “Program to assist members in obtaining professional credentials” for “Payment of expenses to obtain professional credentials” in item 2015.
 
     2013—[Pub. L. 113–66, div. A, title V, § 541(b)][/us/pl/113/66/s541/b], Dec. 26, 2013, [127 Stat. 762][/us/stat/127/762], added item 2006a.
 
@@ -294,6 +296,8 @@
 ----------
 ----------
 
+[/us/pl/113/291/s551/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs551%2Fb
+[/us/stat/128/3377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3377
 [/us/pl/113/66/s541/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs541%2Fb
 [/us/stat/127/762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F762
 [/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84

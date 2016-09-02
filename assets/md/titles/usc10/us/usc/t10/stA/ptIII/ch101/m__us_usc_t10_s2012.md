@@ -145,7 +145,7 @@
 
 [Pub. L. 104–106, div. A, title V, § 574][/us/pl/104/106/s574], Feb. 10, 1996, [110 Stat. 356][/us/stat/110/356], provided that: 
 
-> “No funds may be obligated or expended after the date of the enactment of this Act \[Feb. 10, 1996\] (1) for the office that as of the date of the enactment of this Act is designated, within the Office of the Assistant Secretary of Defense for Reserve Affairs, as the Office of Civil-Military Programs, or (2) for any other entity within the Office of the Secretary of Defense that has an exclusive or principal mission of providing centralized direction for activities under [section 2012 of title 10][/us/usc/t10/s2012], United States Code, as added by section 572.”
+> “No funds may be obligated or expended after the date of the enactment of this Act \[Feb. 10, 1996\] (1) for the office that as of the date of the enactment of this Act is designated, within the Office of the Assistant Secretary of Defense for Reserve Affairs \[now Assistant Secretary of Defense for Manpower and Reserve Affairs\], as the Office of Civil-Military Programs, or (2) for any other entity within the Office of the Secretary of Defense that has an exclusive or principal mission of providing centralized direction for activities under [section 2012 of title 10][/us/usc/t10/s2012], United States Code, as added by section 572.”
 
 ----------
 

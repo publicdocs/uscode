@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stA/ptI/ch4/m__us_usc_t10_s137a.md) | [Next](./../../../../../..//us/usc/t10/stA/ptI/ch4/m__us_usc_t10_s138a.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs138)
+[Previous](./../../../../../..//us/usc/t10/stA/ptI/ch4/m__us_usc_t10_s137a.md) | [Next](./../../../../../..//us/usc/t10/stA/ptI/ch4/m__us_usc_t10_s138c.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs138)
 
 ## § 138. Assistant Secretaries of Defense
 
@@ -25,7 +25,7 @@
 
         (1) The Assistant Secretaries shall perform such duties and exercise such powers as the Secretary of Defense may prescribe.
 
-        (2) One of the Assistant Secretaries is the Assistant Secretary of Defense for Reserve Affairs. He shall have as his principal duty the overall supervision of reserve component affairs of the Department of Defense.
+        (2) One of the Assistant Secretaries is the Assistant Secretary of Defense for Manpower and Reserve Affairs. In addition to any duties and powers prescribed under paragraph (1), the Assistant Secretary of Defense for Manpower and Reserve Affairs shall have as the principal duty of such Assistant Secretary the overall supervision of manpower and reserve affairs of the Department of Defense.
 
         (3) One of the Assistant Secretaries is the Assistant Secretary of Defense for Homeland Defense. He shall have as his principal duty the overall supervision of the homeland defense activities of the Department of Defense.
 
@@ -35,13 +35,41 @@
 
         (6) One of the Assistant Secretaries is the Assistant Secretary of Defense for Acquisition. The Assistant Secretary of Defense for Acquisition is the principal adviser to the Secretary of Defense and the Under Secretary of Defense for Acquisition, Technology, and Logistics on matters relating to acquisition.
 
-        (7) One of the Assistant Secretaries is the Assistant Secretary of Defense for Logistics and Materiel Readiness. In addition to any duties and powers prescribed under paragraph (1), the Assistant Secretary of Defense for Logistics and Materiel Readiness shall have the duties specified in [section 138a of this title][/us/usc/t10/s138a].
+        (7)
 
-        (8) One of the Assistant Secretaries is the Assistant Secretary of Defense for Research and Engineering. In addition to any duties and powers prescribed under paragraph (1), the Assistant Secretary of Defense for Research and Engineering shall have the duties specified in [section 138b of this title][/us/usc/t10/s138b].
+         One of the Assistant Secretaries is the Assistant Secretary of Defense for Logistics and Materiel Readiness, who shall be appointed from among persons with an extensive background in the sustainment of major weapons systems and combat support equipment. The Assistant Secretary is the principal adviser to the Secretary and the Under Secretary of Defense for Acquisition, Technology, and Logistics on logistics and materiel readiness in the Department of Defense and is the principal logistics official within the senior management of the Department of Defense. The Assistant Secretary shall perform such duties relating to logistics and materiel readiness as the Under Secretary of Defense for Acquisition, Technology, and Logistics may assign, including—
 
-        (9) One of the Assistant Secretaries is the Assistant Secretary of Defense for Operational Energy Plans and Programs. In addition to any duties and powers prescribed under paragraph (1), the Assistant Secretary of Defense for Operational Energy Plans and Programs shall have the duties specified in [section 138c of this title][/us/usc/t10/s138c].
+            (A) prescribing, by authority of the Secretary of Defense, policies and procedures for the conduct of logistics, maintenance, materiel readiness, and sustainment support in the Department of Defense;
 
-        (10) One of the Assistant Secretaries is the Assistant Secretary of Defense for Nuclear, Chemical, and Biological Defense Programs. In addition to any duties and powers prescribed under paragraph (1), the Assistant Secretary of Defense for Nuclear, Chemical, and Biological Defense Programs shall have the duties specified in [section 138d of this title][/us/usc/t10/s138d].
+            (B) advising and assisting the Secretary of Defense, the Deputy Secretary of Defense, and the Under Secretary of Defense for Acquisition, Technology, and Logistics providing guidance to and consulting with the Secretaries of the military departments, with respect to logistics, maintenance, materiel readiness, and sustainment support in the Department of Defense; and
+
+            (C) monitoring and reviewing all logistics, maintenance, materiel readiness, and sustainment support programs in the Department of Defense.
+
+        (8)
+
+         One of the Assistant Secretaries is the Assistant Secretary of Defense for Research and Engineering. Except as otherwise prescribed by the Secretary of Defense, the Assistant Secretary of Defense for Research and Engineering shall perform such duties relating to research and engineering as the Under Secretary of Defense for Acquisition, Technology, and Logistics may prescribe. The Assistant Secretary, in consultation with the Deputy Assistant Secretary of Defense for Developmental Test and Evaluation, shall—
+
+            (A) periodically review and assess the technological maturity and integration risk of critical technologies of the major defense acquisition programs of the Department of Defense and report on the findings of such reviews and assessments to the Under Secretary of Defense for Acquisition, Technology, and Logistics; and
+
+            (B) submit to the Secretary of Defense and to the congressional defense committees by March 1 of each year a report on the technological maturity and integration risk of critical technologies of the major defense acquisition programs of the Department of Defense.
+
+        (9)
+
+         One of the Assistant Secretaries is the Assistant Secretary of Defense for Energy, Installations, and Environment. The Assistant Secretary—
+
+            (A) is the principal advisor to the Secretary of Defense and the Under Secretary of Defense for Acquisition, Technology, and Logistics on matters relating to energy, installations, and environment; and
+
+            (B) is the principal advisor to the Secretary of Defense and the Deputy Secretary of Defense regarding operational energy plans and programs.
+
+        (10)
+
+         One of the Assistant Secretaries is the Assistant Secretary of Defense for Nuclear, Chemical, and Biological Defense Programs. The Assistant Secretary may communicate views on issues within the responsibility of the Assistant Secretary directly to the Secretary of Defense and the Deputy Secretary of Defense without obtaining the approval or concurrence of any other official within the Department of Defense. The Assistant Secretary shall—
+
+            (A) advise the Secretary of Defense on nuclear energy, nuclear weapons, and chemical and biological defense;
+
+            (B) serve as the Staff Director of the Nuclear Weapons Council established by [section 179 of this title][/us/usc/t10/s179]; and
+
+            (C) perform such additional duties as the Secretary may prescribe.
 
     (c)
 
@@ -53,7 +81,11 @@
 
     (d) The Assistant Secretaries take precedence in the Department of Defense after the Secretary of Defense, the Deputy Secretary of Defense, the Secretaries of the military departments, the Under Secretaries of Defense, the Deputy Chief Management Officer of the Department of Defense, the officials serving in positions specified in [section 131(b)(4) of this title][/us/usc/t10/s131/b/4], and the Principal Deputy Under Secretaries of Defense. The Assistant Secretaries take precedence among themselves in the order prescribed by the Secretary of Defense.
 
-(Added [Pub. L. 87–651, title II, § 202][/us/pl/87/651/s202], Sept. 7, 1962, [76 Stat. 518][/us/stat/76/518], § 136; amended [Pub. L. 90–168, § 2(1)][/us/pl/90/168/s2/1], (2), Dec. 1, 1967, [81 Stat. 521][/us/stat/81/521]; [Pub. L. 91–121, title IV, § 404(a)][/us/pl/91/121/s404/a], Nov. 19, 1969, [83 Stat. 207][/us/stat/83/207]; [Pub. L. 92–215, § 1][/us/pl/92/215/s1], Dec. 22, 1971, [85 Stat. 777][/us/stat/85/777]; [Pub. L. 92–596, § 4(2)][/us/pl/92/596/s4/2], Oct. 27, 1972, [86 Stat. 1318][/us/stat/86/1318]; [Pub. L. 95–140, § 3(a)][/us/pl/95/140/s3/a], Oct. 21, 1977, [91 Stat. 1173][/us/stat/91/1173]; [Pub. L. 96–107, title VIII, § 820(a)][/us/pl/96/107/s820/a], Nov. 9, 1979, [93 Stat. 819][/us/stat/93/819]; [Pub. L. 98–94, title XII, § 1212(a)][/us/pl/98/94/s1212/a], Sept. 24, 1983, [97 Stat. 686][/us/stat/97/686]; [Pub. L. 99–433, title I][/us/pl/99/433], §§ 106, 110(d)(9), Oct. 1, 1986, [100 Stat. 997][/us/stat/100/997], 1003; [Pub. L. 99–500, § 101(c)][/us/pl/99/500/s101/c] \[title IX, § 9115(a)\], Oct. 18, 1986, [100 Stat. 1783–82][/us/stat/100/1783-82], 1783–122, and [Pub. L. 99–591, § 101(c)][/us/pl/99/591/s101/c] \[title IX, § 9115(a)\], Oct. 30, 1986, [100 Stat. 3341–82][/us/stat/100/3341-82], 3341–122; [Pub. L. 99–661, div. A, title XIII, § 1311(a)][/us/pl/99/661/s1311/a], Nov. 14, 1986, [100 Stat. 3983][/us/stat/100/3983]; [Pub. L. 100–180, div. A, title XII, § 1211(a)(1)][/us/pl/100/180/s1211/a/1], Dec. 4, 1987, [101 Stat. 1154][/us/stat/101/1154]; [Pub. L. 100–453, title VII, § 702][/us/pl/100/453/s702], Sept. 29, 1988, [102 Stat. 1912][/us/stat/102/1912]; [Pub. L. 100–456, div. A, title VII, § 701][/us/pl/100/456/s701], Sept. 29, 1988, [102 Stat. 1992][/us/stat/102/1992]; renumbered § 138 and amended [Pub. L. 103–160, div. A, title IX][/us/pl/103/160], §§ 901(a)(1), (c), 903(c)(1), 905, Nov. 30, 1993, [107 Stat. 1726][/us/stat/107/1726], 1727, 1729; [Pub. L. 103–337, div. A, title IX][/us/pl/103/337], §§ 901(a), 903(b)(2), Oct. 5, 1994, [108 Stat. 2822][/us/stat/108/2822], 2823; [Pub. L. 104–106, div. A, title IX][/us/pl/104/106], §§ 902(a), 903(b), (e)(2), Feb. 10, 1996, [110 Stat. 401][/us/stat/110/401], 402; [Pub. L. 104–201, div. A, title IX, § 901][/us/pl/104/201/s901], Sept. 23, 1996, [110 Stat. 2617][/us/stat/110/2617]; [Pub. L. 105–261, div. A, title IX][/us/pl/105/261], §§ 901(a), 902, Oct. 17, 1998, [112 Stat. 2091][/us/stat/112/2091]; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title IX, § 901\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–223; [Pub. L. 107–107, div. A, title IX, § 901(c)(1)][/us/pl/107/107/s901/c/1], Dec. 28, 2001, [115 Stat. 1194][/us/stat/115/1194]; [Pub. L. 107–314, div. A, title IX, § 902(a)][/us/pl/107/314/s902/a], (c), (d), Dec. 2, 2002, [116 Stat. 2620][/us/stat/116/2620], 2621; [Pub. L. 109–364, div. A, title IX, § 901(a)][/us/pl/109/364/s901/a], Oct. 17, 2006, [120 Stat. 2350][/us/stat/120/2350]; [Pub. L. 111–84, div. A, title IX, § 906(b)(2)][/us/pl/111/84/s906/b/2], Oct. 28, 2009, [123 Stat. 2426][/us/stat/123/2426]; [Pub. L. 111–383, div. A, title IX, § 901(b)(4)][/us/pl/111/383/s901/b/4], Jan. 7, 2011, [124 Stat. 4319][/us/stat/124/4319]; [Pub. L. 112–81, div. A, title III, § 314(a)][/us/pl/112/81/s314/a], Dec. 31, 2011, [125 Stat. 1357][/us/stat/125/1357]; [Pub. L. 112–166, § 2(c)(1)(A)][/us/pl/112/166/s2/c/1/A], Aug. 10, 2012, [126 Stat. 1283][/us/stat/126/1283]; [Pub. L. 112–239, div. A, title X, § 1076(f)(3)][/us/pl/112/239/s1076/f/3], Jan. 2, 2013, [126 Stat. 1952][/us/stat/126/1952].)
+(Added [Pub. L. 87–651, title II, § 202][/us/pl/87/651/s202], Sept. 7, 1962, [76 Stat. 518][/us/stat/76/518], § 136; amended [Pub. L. 90–168, § 2(1)][/us/pl/90/168/s2/1], (2), Dec. 1, 1967, [81 Stat. 521][/us/stat/81/521]; [Pub. L. 91–121, title IV, § 404(a)][/us/pl/91/121/s404/a], Nov. 19, 1969, [83 Stat. 207][/us/stat/83/207]; [Pub. L. 92–215, § 1][/us/pl/92/215/s1], Dec. 22, 1971, [85 Stat. 777][/us/stat/85/777]; [Pub. L. 92–596, § 4(2)][/us/pl/92/596/s4/2], Oct. 27, 1972, [86 Stat. 1318][/us/stat/86/1318]; [Pub. L. 95–140, § 3(a)][/us/pl/95/140/s3/a], Oct. 21, 1977, [91 Stat. 1173][/us/stat/91/1173]; [Pub. L. 96–107, title VIII, § 820(a)][/us/pl/96/107/s820/a], Nov. 9, 1979, [93 Stat. 819][/us/stat/93/819]; [Pub. L. 98–94, title XII, § 1212(a)][/us/pl/98/94/s1212/a], Sept. 24, 1983, [97 Stat. 686][/us/stat/97/686]; [Pub. L. 99–433, title I][/us/pl/99/433], §§ 106, 110(d)(9), Oct. 1, 1986, [100 Stat. 997][/us/stat/100/997], 1003; [Pub. L. 99–500, § 101(c)][/us/pl/99/500/s101/c] \[title IX, § 9115(a)\], Oct. 18, 1986, [100 Stat. 1783–82][/us/stat/100/1783-82], 1783–122, and [Pub. L. 99–591, § 101(c)][/us/pl/99/591/s101/c] \[title IX, § 9115(a)\], Oct. 30, 1986, [100 Stat. 3341–82][/us/stat/100/3341-82], 3341–122; [Pub. L. 99–661, div. A, title XIII, § 1311(a)][/us/pl/99/661/s1311/a], Nov. 14, 1986, [100 Stat. 3983][/us/stat/100/3983]; [Pub. L. 100–180, div. A, title XII, § 1211(a)(1)][/us/pl/100/180/s1211/a/1], Dec. 4, 1987, [101 Stat. 1154][/us/stat/101/1154]; [Pub. L. 100–453, title VII, § 702][/us/pl/100/453/s702], Sept. 29, 1988, [102 Stat. 1912][/us/stat/102/1912]; [Pub. L. 100–456, div. A, title VII, § 701][/us/pl/100/456/s701], Sept. 29, 1988, [102 Stat. 1992][/us/stat/102/1992]; renumbered § 138 and amended [Pub. L. 103–160, div. A, title IX][/us/pl/103/160], §§ 901(a)(1), (c), 903(c)(1), 905, Nov. 30, 1993, [107 Stat. 1726][/us/stat/107/1726], 1727, 1729; [Pub. L. 103–337, div. A, title IX][/us/pl/103/337], §§ 901(a), 903(b)(2), Oct. 5, 1994, [108 Stat. 2822][/us/stat/108/2822], 2823; [Pub. L. 104–106, div. A, title IX][/us/pl/104/106], §§ 902(a), 903(b), (e)(2), Feb. 10, 1996, [110 Stat. 401][/us/stat/110/401], 402; [Pub. L. 104–201, div. A, title IX, § 901][/us/pl/104/201/s901], Sept. 23, 1996, [110 Stat. 2617][/us/stat/110/2617]; [Pub. L. 105–261, div. A, title IX][/us/pl/105/261], §§ 901(a), 902, Oct. 17, 1998, [112 Stat. 2091][/us/stat/112/2091]; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title IX, § 901\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–223; [Pub. L. 107–107, div. A, title IX, § 901(c)(1)][/us/pl/107/107/s901/c/1], Dec. 28, 2001, [115 Stat. 1194][/us/stat/115/1194]; [Pub. L. 107–314, div. A, title IX, § 902(a)][/us/pl/107/314/s902/a], (c), (d), Dec. 2, 2002, [116 Stat. 2620][/us/stat/116/2620], 2621; [Pub. L. 109–364, div. A, title IX, § 901(a)][/us/pl/109/364/s901/a], Oct. 17, 2006, [120 Stat. 2350][/us/stat/120/2350]; [Pub. L. 111–84, div. A, title IX, § 906(b)(2)][/us/pl/111/84/s906/b/2], Oct. 28, 2009, [123 Stat. 2426][/us/stat/123/2426]; [Pub. L. 111–383, div. A, title IX, § 901(b)(4)][/us/pl/111/383/s901/b/4], Jan. 7, 2011, [124 Stat. 4319][/us/stat/124/4319]; [Pub. L. 112–81, div. A, title III, § 314(a)][/us/pl/112/81/s314/a], Dec. 31, 2011, [125 Stat. 1357][/us/stat/125/1357]; [Pub. L. 112–166, § 2(c)(1)(A)][/us/pl/112/166/s2/c/1/A], Aug. 10, 2012, [126 Stat. 1283][/us/stat/126/1283]; [Pub. L. 112–239, div. A, title X, § 1076(f)(3)][/us/pl/112/239/s1076/f/3], Jan. 2, 2013, [126 Stat. 1952][/us/stat/126/1952]; [Pub. L. 113–291, div. A, title IX][/us/pl/113/291], §§ 901(f), (h)(1)–(3), (j)(2)(D), 902(a)(2), Dec. 19, 2014, [128 Stat. 3464][/us/stat/128/3464], 3466, 3467, 3469.)
+
+ __Amendment of Subsection (d)__ 
+
+    [Pub. L. 113–291, div. A, title IX, § 901(j)(2)][/us/pl/113/291/s901/j/2], Dec. 19, 2014, [128 Stat. 3467][/us/stat/128/3467], provided that, effective Feb. 1, 2017, subsection (d) of this section is amended by striking “the Deputy Chief Management Officer of the Department of Defense,”.
 
 <table>
 
@@ -177,6 +209,12 @@ July 26, 1947, ch. 343, § 401; added Aug. 10, 1949, ch. 412, § 11 (1st 2 p
 
  __Codification__ 
 
+    The text of section 138a(b) and (c) of this title, which was transferred to subsec. (b)(7) of this section and amended by [Pub. L. 113–291, § 901(h)(1)(C)][/us/pl/113/291/s901/h/1/C]–(E), was based on [Pub. L. 106–65, div. A, title IX, § 911(b)(1)][/us/pl/106/65/s911/b/1], Oct. 5, 1999, [113 Stat. 718][/us/stat/113/718], § 133b; renumbered § 138a and amended [Pub. L. 111–84, div. A, title IX, § 906(b)(1)][/us/pl/111/84/s906/b/1], (c)(2)(D), Oct. 28, 2009, [123 Stat. 2426][/us/stat/123/2426], 2427; [Pub. L. 111–383, div. A, title IX, § 901(b)(5)][/us/pl/111/383/s901/b/5], Jan. 7, 2011, [124 Stat. 4319][/us/stat/124/4319].
+
+    The text of [section 138b of this title][/us/usc/t10/s138b], which was transferred to subsec. (b)(8) of this section and amended by [Pub. L. 113–291, § 901(h)(2)][/us/pl/113/291/s901/h/2], was based on [Pub. L. 87–651, title II, § 202][/us/pl/87/651/s202], Sept. 7, 1962, [76 Stat. 518][/us/stat/76/518], § 135; amended [Pub. L. 92–596, § 4(2)][/us/pl/92/596/s4/2], Oct. 27, 1972, [86 Stat. 1318][/us/stat/86/1318]; [Pub. L. 95–140, § 2(a)][/us/pl/95/140/s2/a], Oct. 21, 1977, [91 Stat. 1172][/us/stat/91/1172]; [Pub. L. 99–348, title V, § 501(b)(1)][/us/pl/99/348/s501/b/1], (2), (e)(1), July 1, 1986, [100 Stat. 707][/us/stat/100/707], 708; [Pub. L. 99–433, title I, § 105][/us/pl/99/433/s105], Oct. 1, 1986, [100 Stat. 997][/us/stat/100/997]; [Pub. L. 99–500, § 101(c)][/us/pl/99/500/s101/c] \[title X, § 903(b)(1)\], Oct. 18, 1986, [100 Stat. 1783–82][/us/stat/100/1783-82], 1783–132, and [Pub. L. 99–591, § 101(c)][/us/pl/99/591/s101/c] \[title X, § 903(b)(1)\], Oct. 30, 1986, [100 Stat. 3341–82][/us/stat/100/3341-82], 3341–132; [Pub. L. 99–661, div. A, title IX][/us/pl/99/661], formerly title IV, § 903(b)(1), Nov. 14, 1986, [100 Stat. 3911][/us/stat/100/3911], renumbered title IX, [Pub. L. 100–26, § 3(5)][/us/pl/100/26/s3/5], Apr. 21, 1987, [101 Stat. 273][/us/stat/101/273]; renumbered § 137 and amended [Pub. L. 103–160, div. A, title IX][/us/pl/103/160], §§ 901(a)(1), 904(d)(1), Nov. 30, 1993, [107 Stat. 1726][/us/stat/107/1726], 1728; [Pub. L. 104–106, div. A, title IX, § 903(c)(3)][/us/pl/104/106/s903/c/3], Feb. 10, 1996, [110 Stat. 402][/us/stat/110/402]; [Pub. L. 104–201, div. A, title IX, § 901][/us/pl/104/201/s901], Sept. 23, 1996, [110 Stat. 2617][/us/stat/110/2617]; [Pub. L. 106–65, div. A, title IX, § 911(d)(1)][/us/pl/106/65/s911/d/1], Oct. 5, 1999, [113 Stat. 719][/us/stat/113/719]; renumbered § 139a, [Pub. L. 107–314, div. A, title IX, § 901(a)(1)][/us/pl/107/314/s901/a/1], Dec. 2, 2002, [116 Stat. 2619][/us/stat/116/2619]; [Pub. L. 111–23, title I, § 104(a)(1)][/us/pl/111/23/s104/a/1], May 22, 2009, [123 Stat. 1717][/us/stat/123/1717]; renumbered § 138b and amended [Pub. L. 111–383, div. A, title IX, § 901(b)(6)][/us/pl/111/383/s901/b/6], (k)(1)(B), Jan. 7, 2011, [124 Stat. 4319][/us/stat/124/4319], 4325; [Pub. L. 112–239, div. A, title IX, § 904(e)(1)][/us/pl/112/239/s904/e/1], Jan. 2, 2013, [126 Stat. 1867][/us/stat/126/1867].
+
+    The text of [section 138d of this title][/us/usc/t10/s138d], which was transferred to subsec. (b)(10) of this section and amended by [Pub. L. 113–291, § 901(h)(3)][/us/pl/113/291/s901/h/3], was based on [Pub. L. 100–180, div. A, title XII, § 1245(a)(1)][/us/pl/100/180/s1245/a/1], Dec. 4, 1987, [101 Stat. 1165][/us/stat/101/1165], § 141; renumbered § 142, [Pub. L. 103–160, div. A, title IX, § 901(a)(1)][/us/pl/103/160/s901/a/1], Nov. 30, 1993, [107 Stat. 1726][/us/stat/107/1726]; amended [Pub. L. 104–106, div. A, title IX][/us/pl/104/106], §§ 903(c)(4), 904(a)(1), Feb. 10, 1996, [110 Stat. 402][/us/stat/110/402], 403; [Pub. L. 104–201, div. A, title IX, § 901][/us/pl/104/201/s901], Sept. 23, 1996, [110 Stat. 2617][/us/stat/110/2617]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title IX, § 905, Oct. 14, 2008, [122 Stat. 4568][/us/stat/122/4568]; renumbered § 138d and amended [Pub. L. 111–383, div. A, title IX, § 901(b)(8)][/us/pl/111/383/s901/b/8], (k)(1)(D), Jan. 7, 2011, [124 Stat. 4320][/us/stat/124/4320], 4325.
+
     [Pub. L. 99–591][/us/pl/99/591] is a corrected version of [Pub. L. 99–500][/us/pl/99/500].
 
  __Prior Provisions__ 
@@ -206,6 +244,28 @@ Another prior section 138 was renumbered by [Pub. L. 99–433][/us/pl/99/433] as
     Section 138(i) was renumbered successively as section 114(i) and [section 114(d) of this title][/us/usc/t10/s114/d].
 
  __Amendments__ 
+
+    2014—Subsec. (b)(2). [Pub. L. 113–291, § 902(a)(2)][/us/pl/113/291/s902/a/2], amended par. (2) generally. Prior to amendment, par. (2) read as follows: “One of the Assistant Secretaries is the Assistant Secretary of Defense for Reserve Affairs. He shall have as his principal duty the overall supervision of reserve component affairs of the Department of Defense.”
+
+    Subsec. (b)(7). [Pub. L. 113–291, § 901(h)(1)(D)][/us/pl/113/291/s901/h/1/D], (E), transferred [section 138a(c) of this title][/us/usc/t10/s138a/c] to subsec. (b)(7) of this section, inserted it at end, and redesignated pars. (1) to (3) as subpars. (A) to (C), respectively.
+
+    [Pub. L. 113–291, § 901(h)(1)(C)][/us/pl/113/291/s901/h/1/C], transferred [section 138a(b) of this title][/us/usc/t10/s138a/b] to subsec. (b)(7) of this section and inserted it after first sentence.
+
+    [Pub. L. 113–291, § 901(h)(1)(A)][/us/pl/113/291/s901/h/1/A], (B), in first sentence, inserted “, who shall be appointed from among persons with an extensive background in the sustainment of major weapons systems and combat support equipment” after “Readiness” and struck out second sentence which read as follows: “In addition to any duties and powers prescribed under paragraph (1), the Assistant Secretary of Defense for Logistics and Materiel Readiness shall have the duties specified in [section 138a of this title][/us/usc/t10/s138a].”
+
+    Subsec. (b)(8). [Pub. L. 113–291, § 901(h)(2)(C)][/us/pl/113/291/s901/h/2/C]–(E), transferred section 138b(b)(1) and (2) of this title to subsec. (b)(8) of this section, inserted it at end, realigned margins, redesignated pars. (1) and (2) as subpars. (A) and (B), respectively, in subpar. (A), struck out “The Assistant Secretary of Defense for Research and Engineering, in consultation with the Director of Developmental Test and Evaluation, shall” before “periodically review” and substituted “; and” for period at end, and, in subpar. (B), struck out “The Assistant Secretary, in consultation with the Deputy Assistant Secretary of Defense for Developmental Test and Evaluation, shall” before “submit”.
+
+    [Pub. L. 113–291, § 901(h)(2)(B)][/us/pl/113/291/s901/h/2/B], inserted “The Assistant Secretary, in consultation with the Deputy Assistant Secretary of Defense for Developmental Test and Evaluation, shall—” after “Logistics may prescribe.”.
+
+    [Pub. L. 113–291, § 901(h)(2)(A)][/us/pl/113/291/s901/h/2/A], inserted text of [section 138b(a) of this title][/us/usc/t10/s138b/a] after first sentence of subsec. (b)(8) of this section and struck out at end: “In addition to any duties and powers prescribed under paragraph (1), the Assistant Secretary of Defense for Research and Engineering shall have the duties specified in [section 138b of this title][/us/usc/t10/s138b].”
+
+    Subsec. (b)(9). [Pub. L. 113–291, § 901(f)][/us/pl/113/291/s901/f], amended par. (9) generally. Prior to amendment, par. (9) read as follows: “One of the Assistant Secretaries is the Assistant Secretary of Defense for Operational Energy Plans and Programs. In addition to any duties and powers prescribed under paragraph (1), the Assistant Secretary of Defense for Operational Energy Plans and Programs shall have the duties specified in [section 138c of this title][/us/usc/t10/s138c].”
+
+    Subsec. (b)(10). [Pub. L. 113–291, § 901(h)(3)(B)][/us/pl/113/291/s901/h/3/B], transferred [section 138d(a) of this title][/us/usc/t10/s138d/a] to subsec. (b)(10) of this section, inserted it at end, struck out “of Defense for Nuclear, Chemical, and Biological Defense Programs” before “shall—”, and redesignated pars. (1) to (3) as subpars. (A) to (C), respectively.
+
+    [Pub. L. 113–291, § 901(h)(3)(A)][/us/pl/113/291/s901/h/3/A], inserted text of section 138d(b) after first sentence of subsec. (b)(10) of this section and struck out at end: “In addition to any duties and powers prescribed under paragraph (1), the Assistant Secretary of Defense for Nuclear, Chemical, and Biological Defense Programs shall have the duties specified in [section 138d of this title][/us/usc/t10/s138d].”
+
+    Subsec. (d). [Pub. L. 113–291, § 901(j)(2)(D)][/us/pl/113/291/s901/j/2/D], struck out “the Deputy Chief Management Officer of the Department of Defense,” before “the officials serving”.
 
     2013—Subsec. (c)(3). [Pub. L. 112–239][/us/pl/112/239] transferred subsec. (c)(3), relating to responsibilities of the Assistant Secretary of Defense for Operational Energy Plans and Programs regarding alternative fuel, to [section 138c(c)(3) of this title][/us/usc/t10/s138c/c/3].
 
@@ -327,6 +387,10 @@ Another prior section 138 was renumbered by [Pub. L. 99–433][/us/pl/99/433] as
 
     Subsec. (f). [Pub. L. 90–168, § 2(2)][/us/pl/90/168/s2/2], added subsec. (f).
 
+ __Effective Date of 2014 Amendment__ 
+
+    [Pub. L. 113–291, div. A, title IX, § 901(j)(2)][/us/pl/113/291/s901/j/2], Dec. 19, 2014, [128 Stat. 3467][/us/stat/128/3467], provided that the amendment by section 901(j)(2)(D) is effective on the effective date specified in [section 901(a)(1) of Pub. L. 113–291][/us/pl/113/291/s901/a/1], which is Feb. 1, 2017.
+
  __Effective Date of 2012 Amendment__ 
 
     Amendment by [Pub. L. 112–166][/us/pl/112/166] effective 60 days after Aug. 10, 2012, and applicable to appointments made on and after that effective date, including any nomination pending in the Senate on that date, see [section 6(a) of Pub. L. 112–166][/us/pl/112/166/s6/a], set out as a note under [section 113 of Title 6][/us/usc/t6/s113], Domestic Security.
@@ -352,6 +416,12 @@ Another prior section 138 was renumbered by [Pub. L. 99–433][/us/pl/99/433] as
 [Pub. L. 90–168, § 1][/us/pl/90/168/s1], Dec. 1, 1967, [81 Stat. 521][/us/stat/81/521], provided: 
 
 > “That this Act \[amending this section, sections 175, 262, 264, 268, 269, 270, 511 \[now 12103\], 3014, 5034, 8014, and 8850 of this title, [section 502 of Title 32][/us/usc/t32/s502], National Guard, and [section 404 of Title 37][/us/usc/t37/s404], Pay and Allowances of the Uniformed Services, enacting sections 3021 \[now 10302\], 3038, 8021 \[now 10305\], and 8038 of this title, enacting provisions set out as notes under this section and [section 8212 of this title][/us/usc/t10/s8212], and amending provisions set out as a note under [section 113 of this title][/us/usc/t10/s113]\] may be cited as the ‘Reserve Forces Bill of Rights and Vitalization Act’.”
+
+ __Redesignation of Assistant Secretary of Defense for Manpower and Reserve Affairs__ 
+
+[Pub. L. 113–291, div. A, title IX, § 902(a)(1)][/us/pl/113/291/s902/a/1], Dec. 19, 2014, [128 Stat. 3469][/us/stat/128/3469], provided that: 
+
+> “The position of Assistant Secretary of Defense for Reserve Affairs is hereby redesignated as the Assistant Secretary of Defense for Manpower and Reserve Affairs. The individual serving in that position on the day before the date of the enactment of this Act \[Dec. 19, 2014\] may continue in office after that date without further appointment.”
 
  __Decrease in Number of Assistant Secretaries of Defense__ 
 
@@ -417,18 +487,21 @@ Another prior section 138 was renumbered by [Pub. L. 99–433][/us/pl/99/433] as
 
     [Pub. L. 100–180, div. A, title XIII, § 1311][/us/pl/100/180/s1311], Dec. 4, 1987, [101 Stat. 1174][/us/stat/101/1174], provided that until Jan. 20, 1989, the number of Assistant Secretaries of Defense authorized under subsec. (a) of this section and the number of positions at level IV of the Executive Schedule are each increased by one (to a total of 12).
 
+\[§§ 138a, 138b. __Repealed.__  __[__  __Pub. L. 113–291, div. A, title IX, § 901(h)(4)__  __][/us/pl/113/291/s901/h/4]__  __,__  __Dec. 19, 2014__  __,__  __[__  __128 Stat. 3467__  __][/us/stat/128/3467]__  __\]__ 
+
+    Section 138a, added [Pub. L. 106–65, div. A, title IX, § 911(b)(1)][/us/pl/106/65/s911/b/1], Oct. 5, 1999, [113 Stat. 718][/us/stat/113/718], § 133b; renumbered § 138a and amended [Pub. L. 111–84, div. A, title IX, § 906(b)(1)][/us/pl/111/84/s906/b/1], (c)(2)(D), Oct. 28, 2009, [123 Stat. 2426][/us/stat/123/2426], 2427; [Pub. L. 111–383, div. A, title IX, § 901(b)(5)][/us/pl/111/383/s901/b/5], Jan. 7, 2011, [124 Stat. 4319][/us/stat/124/4319]; [Pub. L. 113–291, div. A, title IX, § 901(h)(1)(C)][/us/pl/113/291/s901/h/1/C], (D), Dec. 19, 2014, [128 Stat. 3466][/us/stat/128/3466], related to Assistant Secretary of Defense for Logistics and Materiel Readiness.
+
+    Section 138b, added [Pub. L. 87–651, title II, § 202][/us/pl/87/651/s202], Sept. 7, 1962, [76 Stat. 518][/us/stat/76/518], § 135; amended [Pub. L. 92–596, § 4(2)][/us/pl/92/596/s4/2], Oct. 27, 1972, [86 Stat. 1318][/us/stat/86/1318]; [Pub. L. 95–140, § 2(a)][/us/pl/95/140/s2/a], Oct. 21, 1977, [91 Stat. 1172][/us/stat/91/1172]; [Pub. L. 99–348, title V, § 501(b)(1)][/us/pl/99/348/s501/b/1], (2), (e)(1), July 1, 1986, [100 Stat. 707][/us/stat/100/707], 708; [Pub. L. 99–433, title I, § 105][/us/pl/99/433/s105], Oct. 1, 1986, [100 Stat. 997][/us/stat/100/997]; [Pub. L. 99–500, § 101(c)][/us/pl/99/500/s101/c] \[title X, § 903(b)(1)\], Oct. 18, 1986, [100 Stat. 1783–82][/us/stat/100/1783-82], 1783–132, and [Pub. L. 99–591, § 101(c)][/us/pl/99/591/s101/c] \[title X, § 903(b)(1)\], Oct. 30, 1986, [100 Stat. 3341–82][/us/stat/100/3341-82], 3341–132; [Pub. L. 99–661, div. A, title IX][/us/pl/99/661], formerly title IV, § 903(b)(1), Nov. 14, 1986, [100 Stat. 3911][/us/stat/100/3911], renumbered title IX, [Pub. L. 100–26, § 3(5)][/us/pl/100/26/s3/5], Apr. 21, 1987, [101 Stat. 273][/us/stat/101/273]; renumbered § 137 and amended [Pub. L. 103–160, div. A, title IX][/us/pl/103/160], §§ 901(a)(1), 904(d)(1), Nov. 30, 1993, [107 Stat. 1726][/us/stat/107/1726], 1728; [Pub. L. 104–106, div. A, title IX, § 903(c)(3)][/us/pl/104/106/s903/c/3], Feb. 10, 1996, [110 Stat. 402][/us/stat/110/402]; [Pub. L. 104–201, div. A, title IX, § 901][/us/pl/104/201/s901], Sept. 23, 1996, [110 Stat. 2617][/us/stat/110/2617]; [Pub. L. 106–65, div. A, title IX, § 911(d)(1)][/us/pl/106/65/s911/d/1], Oct. 5, 1999, [113 Stat. 719][/us/stat/113/719]; renumbered § 139a, [Pub. L. 107–314, div. A, title IX, § 901(a)(1)][/us/pl/107/314/s901/a/1], Dec. 2, 2002, [116 Stat. 2619][/us/stat/116/2619]; [Pub. L. 111–23, title I, § 104(a)(1)][/us/pl/111/23/s104/a/1], May 22, 2009, [123 Stat. 1717][/us/stat/123/1717]; renumbered § 138b and amended [Pub. L. 111–383, div. A, title IX, § 901(b)(6)][/us/pl/111/383/s901/b/6], (k)(1)(B), Jan. 7, 2011, [124 Stat. 4319][/us/stat/124/4319], 4325; [Pub. L. 112–239, div. A, title IX, § 904(e)(1)][/us/pl/112/239/s904/e/1], Jan. 2, 2013, [126 Stat. 1867][/us/stat/126/1867]; [Pub. L. 113–291, div. A, title IX, § 901(h)(2)(C)][/us/pl/113/291/s901/h/2/C], Dec. 19, 2014, [128 Stat. 3466][/us/stat/128/3466], related to Assistant Secretary of Defense for Research and Engineering.
+
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stA/ptI/ch4/m__us_usc_t10_s137a.md) | [Next](./../../../../../..//us/usc/t10/stA/ptI/ch4/m__us_usc_t10_s138a.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs138)
+[Previous](./../../../../../..//us/usc/t10/stA/ptI/ch4/m__us_usc_t10_s137a.md) | [Next](./../../../../../..//us/usc/t10/stA/ptI/ch4/m__us_usc_t10_s138c.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs138)
 
 ----------
 ----------
 
 [/us/usc/t10/s167/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs167%2Fj
-[/us/usc/t10/s138a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs138a
-[/us/usc/t10/s138b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs138b
-[/us/usc/t10/s138c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs138c
-[/us/usc/t10/s138d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs138d
+[/us/usc/t10/s179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs179
 [/us/usc/t10/s131/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs131%2Fb%2F4
 [/us/pl/87/651/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F651%2Fs202
 [/us/stat/76/518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F518
@@ -488,9 +561,70 @@ Another prior section 138 was renumbered by [Pub. L. 99–433][/us/pl/99/433] as
 [/us/stat/126/1283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1283
 [/us/pl/112/239/s1076/f/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1076%2Ff%2F3
 [/us/stat/126/1952]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1952
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/stat/128/3464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3464
+[/us/pl/113/291/s901/j/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs901%2Fj%2F2
+[/us/stat/128/3467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3467
 [/us/usc/t5/s172/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs172%2Fb
 [/us/usc/t5/s171c–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs171c%E2%80%932
 [/us/usc/t5/s171c/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs171c%2Fc
+[/us/pl/113/291/s901/h/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs901%2Fh%2F1%2FC
+[/us/pl/106/65/s911/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs911%2Fb%2F1
+[/us/stat/113/718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F718
+[/us/pl/111/84/s906/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs906%2Fb%2F1
+[/us/stat/123/2426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2426
+[/us/pl/111/383/s901/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs901%2Fb%2F5
+[/us/stat/124/4319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4319
+[/us/usc/t10/s138b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs138b
+[/us/pl/113/291/s901/h/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs901%2Fh%2F2
+[/us/pl/87/651/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F651%2Fs202
+[/us/stat/76/518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F518
+[/us/pl/92/596/s4/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F596%2Fs4%2F2
+[/us/stat/86/1318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1318
+[/us/pl/95/140/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F140%2Fs2%2Fa
+[/us/stat/91/1172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1172
+[/us/pl/99/348/s501/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F348%2Fs501%2Fb%2F1
+[/us/stat/100/707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F707
+[/us/pl/99/433/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2Fs105
+[/us/stat/100/997]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F997
+[/us/pl/99/500/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500%2Fs101%2Fc
+[/us/stat/100/1783-82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1783-82
+[/us/pl/99/591/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591%2Fs101%2Fc
+[/us/stat/100/3341-82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3341-82
+[/us/pl/99/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661
+[/us/stat/100/3911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3911
+[/us/pl/100/26/s3/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26%2Fs3%2F5
+[/us/stat/101/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F273
+[/us/pl/103/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160
+[/us/stat/107/1726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1726
+[/us/pl/104/106/s903/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs903%2Fc%2F3
+[/us/stat/110/402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F402
+[/us/pl/104/201/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs901
+[/us/stat/110/2617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2617
+[/us/pl/106/65/s911/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs911%2Fd%2F1
+[/us/stat/113/719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F719
+[/us/pl/107/314/s901/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs901%2Fa%2F1
+[/us/stat/116/2619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2619
+[/us/pl/111/23/s104/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F23%2Fs104%2Fa%2F1
+[/us/stat/123/1717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1717
+[/us/pl/111/383/s901/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs901%2Fb%2F6
+[/us/stat/124/4319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4319
+[/us/pl/112/239/s904/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs904%2Fe%2F1
+[/us/stat/126/1867]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1867
+[/us/usc/t10/s138d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs138d
+[/us/pl/113/291/s901/h/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs901%2Fh%2F3
+[/us/pl/100/180/s1245/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs1245%2Fa%2F1
+[/us/stat/101/1165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1165
+[/us/pl/103/160/s901/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs901%2Fa%2F1
+[/us/stat/107/1726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1726
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
+[/us/stat/110/402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F402
+[/us/pl/104/201/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs901
+[/us/stat/110/2617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2617
+[/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
+[/us/stat/122/4568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4568
+[/us/pl/111/383/s901/b/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs901%2Fb%2F8
+[/us/stat/124/4320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4320
 [/us/pl/99/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591
 [/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
 [/us/usc/t10/s139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs139
@@ -505,6 +639,25 @@ Another prior section 138 was renumbered by [Pub. L. 99–433][/us/pl/99/433] as
 [/us/usc/t10/s114/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs114%2Fc
 [/us/usc/t10/s113/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs113%2Fi
 [/us/usc/t10/s114/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs114%2Fd
+[/us/pl/113/291/s902/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs902%2Fa%2F2
+[/us/pl/113/291/s901/h/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs901%2Fh%2F1%2FD
+[/us/usc/t10/s138a/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs138a%2Fc
+[/us/pl/113/291/s901/h/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs901%2Fh%2F1%2FC
+[/us/usc/t10/s138a/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs138a%2Fb
+[/us/pl/113/291/s901/h/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs901%2Fh%2F1%2FA
+[/us/usc/t10/s138a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs138a
+[/us/pl/113/291/s901/h/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs901%2Fh%2F2%2FC
+[/us/pl/113/291/s901/h/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs901%2Fh%2F2%2FB
+[/us/pl/113/291/s901/h/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs901%2Fh%2F2%2FA
+[/us/usc/t10/s138b/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs138b%2Fa
+[/us/usc/t10/s138b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs138b
+[/us/pl/113/291/s901/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs901%2Ff
+[/us/usc/t10/s138c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs138c
+[/us/pl/113/291/s901/h/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs901%2Fh%2F3%2FB
+[/us/usc/t10/s138d/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs138d%2Fa
+[/us/pl/113/291/s901/h/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs901%2Fh%2F3%2FA
+[/us/usc/t10/s138d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs138d
+[/us/pl/113/291/s901/j/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs901%2Fj%2F2%2FD
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/usc/t10/s138c/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs138c%2Fc%2F3
 [/us/pl/112/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F166
@@ -571,6 +724,9 @@ Another prior section 138 was renumbered by [Pub. L. 99–433][/us/pl/99/433] as
 [/us/pl/91/121/s404/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F121%2Fs404%2Fa%2F2
 [/us/pl/90/168/s2/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F168%2Fs2%2F1
 [/us/pl/90/168/s2/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F168%2Fs2%2F2
+[/us/pl/113/291/s901/j/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs901%2Fj%2F2
+[/us/stat/128/3467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3467
+[/us/pl/113/291/s901/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs901%2Fa%2F1
 [/us/pl/112/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F166
 [/us/pl/112/166/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F166%2Fs6%2Fa
 [/us/usc/t6/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs113
@@ -588,11 +744,59 @@ Another prior section 138 was renumbered by [Pub. L. 99–433][/us/pl/99/433] as
 [/us/usc/t37/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs404
 [/us/usc/t10/s8212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs8212
 [/us/usc/t10/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs113
+[/us/pl/113/291/s902/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs902%2Fa%2F1
+[/us/stat/128/3469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3469
 [/us/pl/112/166/s2/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F166%2Fs2%2Fc%2F1%2FB
 [/us/stat/126/1283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1283
 [/us/pl/100/180/s1211/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs1211%2Fa%2F2
 [/us/stat/101/1154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1154
 [/us/pl/100/180/s1311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs1311
 [/us/stat/101/1174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1174
+[/us/pl/113/291/s901/h/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs901%2Fh%2F4
+[/us/stat/128/3467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3467
+[/us/pl/106/65/s911/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs911%2Fb%2F1
+[/us/stat/113/718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F718
+[/us/pl/111/84/s906/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs906%2Fb%2F1
+[/us/stat/123/2426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2426
+[/us/pl/111/383/s901/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs901%2Fb%2F5
+[/us/stat/124/4319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4319
+[/us/pl/113/291/s901/h/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs901%2Fh%2F1%2FC
+[/us/stat/128/3466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3466
+[/us/pl/87/651/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F651%2Fs202
+[/us/stat/76/518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F518
+[/us/pl/92/596/s4/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F596%2Fs4%2F2
+[/us/stat/86/1318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1318
+[/us/pl/95/140/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F140%2Fs2%2Fa
+[/us/stat/91/1172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1172
+[/us/pl/99/348/s501/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F348%2Fs501%2Fb%2F1
+[/us/stat/100/707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F707
+[/us/pl/99/433/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2Fs105
+[/us/stat/100/997]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F997
+[/us/pl/99/500/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500%2Fs101%2Fc
+[/us/stat/100/1783-82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1783-82
+[/us/pl/99/591/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591%2Fs101%2Fc
+[/us/stat/100/3341-82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3341-82
+[/us/pl/99/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661
+[/us/stat/100/3911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3911
+[/us/pl/100/26/s3/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26%2Fs3%2F5
+[/us/stat/101/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F273
+[/us/pl/103/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160
+[/us/stat/107/1726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1726
+[/us/pl/104/106/s903/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs903%2Fc%2F3
+[/us/stat/110/402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F402
+[/us/pl/104/201/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs901
+[/us/stat/110/2617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2617
+[/us/pl/106/65/s911/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs911%2Fd%2F1
+[/us/stat/113/719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F719
+[/us/pl/107/314/s901/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs901%2Fa%2F1
+[/us/stat/116/2619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2619
+[/us/pl/111/23/s104/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F23%2Fs104%2Fa%2F1
+[/us/stat/123/1717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1717
+[/us/pl/111/383/s901/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs901%2Fb%2F6
+[/us/stat/124/4319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4319
+[/us/pl/112/239/s904/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs904%2Fe%2F1
+[/us/stat/126/1867]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1867
+[/us/pl/113/291/s901/h/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs901%2Fh%2F2%2FC
+[/us/stat/128/3466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3466
 
 

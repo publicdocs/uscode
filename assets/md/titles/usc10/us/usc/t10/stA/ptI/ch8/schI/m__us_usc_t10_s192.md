@@ -55,7 +55,11 @@
 
         (2) Notwithstanding the results of any periodic review under subsection (c) with regard to the Defense Business Transformation Agency, the Secretary of Defense shall designate that the Director of the Agency shall report directly to the Deputy Chief Management Officer of the Department of Defense.
 
-(Added [Pub. L. 99–433, title III, § 301(a)(2)][/us/pl/99/433/s301/a/2], Oct. 1, 1986, [100 Stat. 1020][/us/stat/100/1020]; amended [Pub. L. 105–261, div. A, title III, § 361(a)][/us/pl/105/261/s361/a], Oct. 17, 1998, [112 Stat. 1984][/us/stat/112/1984]; [Pub. L. 106–65, div. A, title X, § 1066(a)(3)][/us/pl/106/65/s1066/a/3], Oct. 5, 1999, [113 Stat. 770][/us/stat/113/770]; [Pub. L. 109–163, div. A, title III, § 371][/us/pl/109/163/s371], Jan. 6, 2006, [119 Stat. 3209][/us/stat/119/3209]; [Pub. L. 110–181, div. A, title IX][/us/pl/110/181], §§ 904(c), 931(a)(1), Jan. 28, 2008, [122 Stat. 274][/us/stat/122/274], 285.)
+(Added [Pub. L. 99–433, title III, § 301(a)(2)][/us/pl/99/433/s301/a/2], Oct. 1, 1986, [100 Stat. 1020][/us/stat/100/1020]; amended [Pub. L. 105–261, div. A, title III, § 361(a)][/us/pl/105/261/s361/a], Oct. 17, 1998, [112 Stat. 1984][/us/stat/112/1984]; [Pub. L. 106–65, div. A, title X, § 1066(a)(3)][/us/pl/106/65/s1066/a/3], Oct. 5, 1999, [113 Stat. 770][/us/stat/113/770]; [Pub. L. 109–163, div. A, title III, § 371][/us/pl/109/163/s371], Jan. 6, 2006, [119 Stat. 3209][/us/stat/119/3209]; [Pub. L. 110–181, div. A, title IX][/us/pl/110/181], §§ 904(c), 931(a)(1), Jan. 28, 2008, [122 Stat. 274][/us/stat/122/274], 285; [Pub. L. 113–291, div. A, title IX, § 901(n)(1)][/us/pl/113/291/s901/n/1], Dec. 19, 2014, [128 Stat. 3469][/us/stat/128/3469].)
+
+ __Amendment of Subsection (e)(2)__ 
+
+    [Pub. L. 113–291, div. A, title IX, § 901(n)(1)][/us/pl/113/291/s901/n/1], Dec. 19, 2014, [128 Stat. 3469][/us/stat/128/3469], provided that, effective after Feb. 1, 2017, any reference to the Deputy Chief Management Officer of the Department of Defense shall be deemed to refer to the Under Secretary of Defense for Business Management and Information. See Change of Name note below.
 
  __Prior Provisions__ 
 
@@ -72,6 +76,10 @@
     1999—Subsec. (d). [Pub. L. 106–65][/us/pl/106/65] substituted “October 17, 1998” for “the date of the enactment of this subsection”.
 
     1998—Subsec. (d). [Pub. L. 105–261][/us/pl/105/261] added subsec. (d).
+
+ __Change of Name__ 
+
+    “Under Secretary of Defense for Business Management and Information” substituted for “Deputy Chief Management Officer of the Department of Defense” in subsec. (e)(2) after Feb. 1, 2017, on authority of [section 901(n)(1) of Pub. L. 113–291][/us/pl/113/291/s901/n/1], set out as a note under [section 131 of this title][/us/usc/t10/s131].
 
  __First Review of Defense Agencies by Secretary of Defense__ 
 
@@ -96,6 +104,10 @@
 [/us/stat/119/3209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3209
 [/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
 [/us/stat/122/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F274
+[/us/pl/113/291/s901/n/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs901%2Fn%2F1
+[/us/stat/128/3469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3469
+[/us/pl/113/291/s901/n/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs901%2Fn%2F1
+[/us/stat/128/3469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3469
 [/us/pl/98/215/s501/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F215%2Fs501%2Fa
 [/us/stat/97/1478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1478
 [/us/usc/t10/s1605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1605
@@ -107,6 +119,8 @@
 [/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
 [/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
 [/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
+[/us/pl/113/291/s901/n/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs901%2Fn%2F1
+[/us/usc/t10/s131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs131
 [/us/pl/99/433/s304/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2Fs304%2Fa
 [/us/stat/100/1024]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1024
 [/us/pl/99/433/s303/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2Fs303%2Fe

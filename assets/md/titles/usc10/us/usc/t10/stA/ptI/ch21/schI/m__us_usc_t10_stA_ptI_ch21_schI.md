@@ -95,6 +95,14 @@
 
   </tr>
 
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs430" data-uslm-ref="/us/usc/t10/s430">430.</a>  </td>
+
+    <td> Tactical Exploitation of National Capabilities Executive Agent. <sup>[1]</sup>  <sup><sup> 1 Editorially supplied. Section 430 added by <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fpl%2F113%2F291" data-uslm-ref="/us/pl/113/291">Pub. L. 113–291</a> without corresponding amendment of subchapter analysis. </sup></sup>   </td>
+
+  </tr>
+
 </table>
 
  __Amendments__ 

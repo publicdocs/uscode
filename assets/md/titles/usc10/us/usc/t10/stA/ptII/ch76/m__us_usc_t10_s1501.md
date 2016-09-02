@@ -11,43 +11,41 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stA/ptII/ch76/m__us_usc_t10_stA_ptII_ch76.md) | [Next](./../../../../../..//us/usc/t10/stA/ptII/ch76/m__us_usc_t10_s1502.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1501)
+[Previous](./../../../../../..//us/usc/t10/stA/ptII/ch76/m__us_usc_t10_stA_ptII_ch76.md) | [Next](./../../../../../..//us/usc/t10/stA/ptII/ch76/m__us_usc_t10_s1501a.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1501)
 
 ## § 1501. System for accounting for missing persons
 
-    (a)  __Responsibility for Missing Personnel__  __.—__ 
+    (a)  __Responsibility for Missing Persons__  __.—__ 
 
         (1)
 
-         The Secretary of Defense shall designate within the Office of the Secretary of Defense an official as the Deputy Assistant Secretary of Defense for Prisoner of War/Missing Personnel Affairs to have responsibility for Department of Defense matters relating to missing persons. Subject to the authority, direction, and control of the Secretary of Defense, the responsibilities of the official designated under this paragraph shall include—
+            (A) The Secretary of Defense shall designate a single organization within the Department of Defense to have responsibility for Department matters relating to missing persons, including accounting for missing persons and persons whose remains have not been recovered from the conflict in which they were lost.
 
-            (A) policy, control, and oversight within the Department of Defense of the entire process for investigation and recovery related to missing persons (including matters related to search, rescue, escape, and evasion);
+            (B) The organization designated under this paragraph shall be a Defense Agency or other entity of the Department of Defense outside the military departments and is referred to in this chapter as the “designated Defense Agency”.
 
-            (B) policy, control, and oversight of the program established under [section 1509 of this title][/us/usc/t10/s1509], as well as the accounting for missing persons (including locating, recovering, and identifying missing persons or their remains after hostilities have ceased);
+            (C) The head of the organization designated under this paragraph is referred to in this chapter as the “designated Agency Director”.
 
-            (C) coordination for the Department of Defense with other departments and agencies of the United States on all matters concerning missing persons; and
+        (2)
 
-            (D) the dissemination of appropriate information on the status of missing persons to authorized family members.
+         Subject to the authority, direction, and control of the Secretary of Defense, the responsibilities of the designated Agency Director shall include the following:
 
-        (2) The official designated under paragraph (1) shall also serve as the Director, Defense Prisoner of War/Missing Personnel Office, as established under paragraph (6)(A), exercising authority, direction, and control over that activity.
+            (A) Policy, control, and oversight within the Department of Defense of the entire process for investigation and recovery related to missing persons, including matters related to search, rescue, escape, and evasion.
 
-        (3) In carrying out the responsibilities established under this subsection, the official designated under paragraph (1) and (2) shall be responsible for the coordination for such purposes within the Department of Defense among the military departments, the Joint Staff, and the commanders of the combatant commands.
+            (B) Policy, control, and oversight of the program established under [section 1509 of this title][/us/usc/t10/s1509].
 
-        (4) The designated official shall establish policies, which shall apply uniformly throughout the Department of Defense, for personnel recovery (including search, rescue, escape, and evasion) and for personnel accounting (including locating, recovering, and identifying missing persons or their remains after hostilities have ceased).
+            (C) Responsibility for accounting for missing persons, including locating, recovering, and identifying missing persons or their remains after hostilities have ceased.
 
-        (5) The designated official shall establish procedures to be followed by Department of Defense boards of inquiry, and by officials reviewing the reports of such boards, under this chapter.
+            (D) Coordination for the Department of Defense with other departments and agencies of the United States on all matters concerning missing persons.
 
-        (6)
+            (E) Dissemination of appropriate information on the status of missing persons to authorized family members.
 
-            (A) The Secretary of Defense shall establish an activity to account for personnel who are missing or whose remains have not been recovered from the conflict in which they were lost. This activity shall be known as the Defense Prisoner of War/Missing Personnel Office. The Secretary of Defense shall ensure that the activity is provided sufficient military and civilian personnel, and sufficient funding, to enable the activity to fully perform the complete range of missions of the activity. The Secretary shall ensure that Department of Defense programming, planning, and budgeting procedures are structured so as to ensure compliance with the preceding sentence for each fiscal year.
+            (F) Establishment of a means for communication between officials of the designated Defense Agency and family members of missing persons, veterans service organizations, concerned citizens, and the public on the Department’s efforts to account for missing persons, including a readily available means for communication of their views and recommendations to the designated Agency Director.
 
-            (B)
+        (3) In carrying out the responsibilities established under this subsection, the designated Agency Director shall be responsible for the coordination for such purposes within the Department of Defense among the military departments, the Joint Staff, and the commanders of the combatant commands.
 
-                (i) For any fiscal year, the number of military and civilian personnel, whether temporary or permanent, assigned or detailed activity may not be less than the number requested in the President’s budget for fiscal year 2003, unless a level below such number is expressly required by law.
+        (4) The designated Agency Director shall establish policies, which shall apply uniformly throughout the Department of Defense, for personnel recovery (including search, rescue, escape, and evasion) and for personnel accounting (including locating, recovering, and identifying missing persons or their remains after hostilities have ceased).
 
-                (ii) If for any reason the number of military and civilian personnel assigned or detailed activity should fall below the required level under clause (i), the Secretary of Defense shall promptly notify the Committees on Armed Services of the Senate and House of Representatives of the number of personnel so assigned or detailed and of the Secretary’s plan to restore the staffing level of the activity to at least the required minimum number under clause (i). The Secretary shall publish such notice and plan in the Federal Register.
-
-            (C) For any fiscal year, the level of funding allocated to the activity within the Department of Defense may not be below the level requested for such purposes in the President’s budget for fiscal year 2003, unless such a level of funding is expressly required by law.
+        (5) The designated Agency Director shall establish procedures to be followed by Department of Defense boards of inquiry, and by officials reviewing the reports of such boards, under this chapter.
 
     (b)  __Uniform DoD Procedures__  __.—__ 
 
@@ -97,9 +95,11 @@
 
     In this chapter, the term “Secretary concerned” includes, in the case of a civilian officer or employee of the Department of Defense or an employee of a contractor of the Department of Defense, the Secretary of the military department or head of the element of the Department of Defense employing the officer or employee or contracting with the contractor, as the case may be.
 
-(Added [Pub. L. 104–106, div. A, title V, § 569(b)(1)][/us/pl/104/106/s569/b/1], Feb. 10, 1996, [110 Stat. 336][/us/stat/110/336]; amended [Pub. L. 104–201, div. A, title V, § 578(a)(1)][/us/pl/104/201/s578/a/1], Sept. 23, 1996, [110 Stat. 2536][/us/stat/110/2536]; [Pub. L. 105–85, div. A, title V, § 599(a)(1)][/us/pl/105/85/s599/a/1], Nov. 18, 1997, [111 Stat. 1766][/us/stat/111/1766]; [Pub. L. 106–65, div. A, title X, § 1066(a)(13)][/us/pl/106/65/s1066/a/13], Oct. 5, 1999, [113 Stat. 771][/us/stat/113/771]; [Pub. L. 107–314, div. A, title V, § 551][/us/pl/107/314/s551], Dec. 2, 2002, [116 Stat. 2551][/us/stat/116/2551]; [Pub. L. 108–375, div. A, title V, § 582(a)][/us/pl/108/375/s582/a], Oct. 28, 2004, [118 Stat. 1928][/us/stat/118/1928]; [Pub. L. 111–383, div. A, title IX, § 901(g)][/us/pl/111/383/s901/g], Jan. 7, 2011, [124 Stat. 4322][/us/stat/124/4322]; [Pub. L. 113–66, div. A, title V, § 581(a)][/us/pl/113/66/s581/a], Dec. 26, 2013, [127 Stat. 773][/us/stat/127/773].)
+(Added [Pub. L. 104–106, div. A, title V, § 569(b)(1)][/us/pl/104/106/s569/b/1], Feb. 10, 1996, [110 Stat. 336][/us/stat/110/336]; amended [Pub. L. 104–201, div. A, title V, § 578(a)(1)][/us/pl/104/201/s578/a/1], Sept. 23, 1996, [110 Stat. 2536][/us/stat/110/2536]; [Pub. L. 105–85, div. A, title V, § 599(a)(1)][/us/pl/105/85/s599/a/1], Nov. 18, 1997, [111 Stat. 1766][/us/stat/111/1766]; [Pub. L. 106–65, div. A, title X, § 1066(a)(13)][/us/pl/106/65/s1066/a/13], Oct. 5, 1999, [113 Stat. 771][/us/stat/113/771]; [Pub. L. 107–314, div. A, title V, § 551][/us/pl/107/314/s551], Dec. 2, 2002, [116 Stat. 2551][/us/stat/116/2551]; [Pub. L. 108–375, div. A, title V, § 582(a)][/us/pl/108/375/s582/a], Oct. 28, 2004, [118 Stat. 1928][/us/stat/118/1928]; [Pub. L. 111–383, div. A, title IX, § 901(g)][/us/pl/111/383/s901/g], Jan. 7, 2011, [124 Stat. 4322][/us/stat/124/4322]; [Pub. L. 113–66, div. A, title V, § 581(a)][/us/pl/113/66/s581/a], Dec. 26, 2013, [127 Stat. 773][/us/stat/127/773]; [Pub. L. 113–291, div. A, title IX, § 916(a)][/us/pl/113/291/s916/a], Dec. 19, 2014, [128 Stat. 3476][/us/stat/128/3476].)
 
  __Amendments__ 
+
+    2014—Subsec. (a). [Pub. L. 113–291][/us/pl/113/291] amended subsec. (a) generally. Prior to amendment, subsec. (a) related to responsibility for missing personnel, consisting of pars. (1) to (6).
 
     2013—Subsec. (a)(1)(D). [Pub. L. 113–66][/us/pl/113/66] added subpar. (D).
 
@@ -191,7 +191,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stA/ptII/ch76/m__us_usc_t10_stA_ptII_ch76.md) | [Next](./../../../../../..//us/usc/t10/stA/ptII/ch76/m__us_usc_t10_s1502.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1501)
+[Previous](./../../../../../..//us/usc/t10/stA/ptII/ch76/m__us_usc_t10_stA_ptII_ch76.md) | [Next](./../../../../../..//us/usc/t10/stA/ptII/ch76/m__us_usc_t10_s1501a.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1501)
 
 ----------
 ----------
@@ -215,6 +215,9 @@
 [/us/stat/124/4322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4322
 [/us/pl/113/66/s581/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs581%2Fa
 [/us/stat/127/773]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F773
+[/us/pl/113/291/s916/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs916%2Fa
+[/us/stat/128/3476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3476
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/pl/111/383/s901/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs901%2Fg%2F1
 [/us/pl/111/383/s901/g/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs901%2Fg%2F2%2FA

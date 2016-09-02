@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../../..//us/usc/t10/stA/ptIV/ch134/schI/m__us_usc_t10_s2249c.md) | [Next](./../../../../../../..//us/usc/t10/stA/ptIV/ch134/schII/m__us_usc_t10_stA_ptIV_ch134_schII.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2249d)
+[Previous](./../../../../../../..//us/usc/t10/stA/ptIV/ch134/schI/m__us_usc_t10_s2249c.md) | [Next](./../../../../../../..//us/usc/t10/stA/ptIV/ch134/schI/m__us_usc_t10_s2249e.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2249d)
 
 ## § 2249d. Distribution to certain foreign personnel of education and training materials and information technology to enhance military interoperability with the armed forces
 
@@ -97,7 +97,7 @@
 
 ----------
 
-[Previous](./../../../../../../..//us/usc/t10/stA/ptIV/ch134/schI/m__us_usc_t10_s2249c.md) | [Next](./../../../../../../..//us/usc/t10/stA/ptIV/ch134/schII/m__us_usc_t10_stA_ptIV_ch134_schII.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2249d)
+[Previous](./../../../../../../..//us/usc/t10/stA/ptIV/ch134/schI/m__us_usc_t10_s2249c.md) | [Next](./../../../../../../..//us/usc/t10/stA/ptIV/ch134/schI/m__us_usc_t10_s2249e.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2249d)
 
 ----------
 ----------

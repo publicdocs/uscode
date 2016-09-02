@@ -227,7 +227,7 @@
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs130e" data-uslm-ref="/us/usc/t10/s130e">130e.</a>  </td>
 
-    <td> Treatment under Freedom of Information Act of critical infrastructure security information.  </td>
+    <td> Treatment under Freedom of Information Act of certain critical infrastructure security information. <sup>[1]</sup>  <sup><sup> 1 So in original. Does not conform to section catchline. </sup></sup>   </td>
 
   </tr>
 
@@ -235,13 +235,15 @@
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs130f" data-uslm-ref="/us/usc/t10/s130f">130f.</a>  </td>
 
-    <td> Congressional notification regarding sensitive military operations. <sup>[1]</sup>  <sup><sup> 1 So in original. Does not conform to section catchline. </sup></sup>   </td>
+    <td> Congressional notification of sensitive military operations.  </td>
 
   </tr>
 
 </table>
 
  __Amendments__ 
+
+    2014—[Pub. L. 113–291, div. A, title X, § 1071(f)(2)][/us/pl/113/291/s1071/f/2], Dec. 19, 2014, [128 Stat. 3510][/us/stat/128/3510], substituted “Treatment under Freedom of Information Act of certain critical infrastructure security information” for “Treatment under Freedom of Information Act of critical infrastructure security information” in item 130e and “Congressional notification of sensitive military operations” for “Congressional notification regarding sensitive military operations” in item 130f.
 
     2013—[Pub. L. 113–66, div. A, title X][/us/pl/113/66], §§ 1041(a)(2), 1091(a)(2), Dec. 26, 2013, [127 Stat. 857][/us/stat/127/857], 875, added item 130f and substituted “Treatment under Freedom of Information Act of critical infrastructure security information” for “Treatment under Freedom of Information Act of certain critical infrastructure security information” in item 130e.
 
@@ -300,6 +302,8 @@
 ----------
 ----------
 
+[/us/pl/113/291/s1071/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Ff%2F2
+[/us/stat/128/3510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3510
 [/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/stat/127/857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F857
 [/us/pl/112/81/s802/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs802%2Fa%2F2

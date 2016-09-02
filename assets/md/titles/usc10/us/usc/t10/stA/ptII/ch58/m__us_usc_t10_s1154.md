@@ -33,7 +33,7 @@
 
                 (i) at least 30 percent of the students enrolled in the school are from families with incomes below 185 percent of poverty level (as defined by the Office of Management and Budget and revised at least annually in accordance with section 9(b)(1) of the Richard B. Russell National School Lunch Act ([42 U.S.C. 1758(b)(1)][/us/usc/t42/s1758/b/1]) applicable to a family of the size involved; or
 
-                (ii) at least 13 percent of the students enrolled in the school qualify for assistance under part B of the Individuals with Disabilities Education Act (20 U.S.C.1411  <sup>\[1\]</sup>  <sup><sup> 1 So in original. </sup></sup>  et seq.); or
+                (ii) at least 13 percent of the students enrolled in the school qualify for assistance under part B of the Individuals with Disabilities Education Act ([20 U.S.C. 1411][/us/usc/t20/s1411] et seq.); or
 
             (B) a Bureau-funded school as defined in section 1141(3) of the Education Amendments of 1978 ([25 U.S.C. 2021(3)][/us/usc/t25/s2021/3]).
 
@@ -261,7 +261,7 @@
 
     The total amount obligated by the Secretary under the Program for any fiscal year may not exceed $15,000,000.
 
-(Added [Pub. L. 112–239, div. A, title V, § 541(b)(1)][/us/pl/112/239/s541/b/1], Jan. 2, 2013, [126 Stat. 1729][/us/stat/126/1729].)
+(Added [Pub. L. 112–239, div. A, title V, § 541(b)(1)][/us/pl/112/239/s541/b/1], Jan. 2, 2013, [126 Stat. 1729][/us/stat/126/1729]; amended [Pub. L. 113–291, div. A, title X, § 1071(f)(14)][/us/pl/113/291/s1071/f/14], Dec. 19, 2014, [128 Stat. 3510][/us/stat/128/3510].)
 
  __References in Text__ 
 
@@ -274,6 +274,10 @@
     The Elementary and Secondary Education Act of 1965, referred to in subsec. (b)(2)(A)(i), is [Pub. L. 89–10][/us/pl/89/10], Apr. 11, 1965, [79 Stat. 27][/us/stat/79/27]. Part A of title I of the Act is classified generally to part A (§ 6311 et seq.) of subchapter I of chapter 70 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under [section 6301 of Title 20][/us/usc/t20/s6301] and Tables.
 
     The Higher Education Act of 1965, referred to in subsec. (e)(4), is [Pub. L. 89–329][/us/pl/89/329], Nov. 8, 1965, [79 Stat. 1219][/us/stat/79/1219]. Title IV of the Act is classified generally to subchapter IV (§ 1070 et seq.) of chapter 28 of Title 20 and part C (§ 2751 et seq.) of subchapter I of chapter 34 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 20][/us/usc/t20/s1001] and Tables.
+
+ __Amendments__ 
+
+    2014—Subsec. (a)(2)(A)(ii). [Pub. L. 113–291][/us/pl/113/291] substituted “[20 U.S.C. 1411][/us/usc/t20/s1411]” for “20 U.S.C.1411”.
 
  __Transfer of Functions for Troops-to-Teachers Program__ 
 
@@ -314,6 +318,7 @@
 
 [/us/usc/t20/s7221i/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7221i%2F1
 [/us/usc/t42/s1758/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1758%2Fb%2F1
+[/us/usc/t20/s1411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1411
 [/us/usc/t25/s2021/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2021%2F3
 [/us/usc/t42/s1751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1751
 [/us/usc/t42/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs601
@@ -325,6 +330,8 @@
 [/us/usc/t37/s373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs373
 [/us/pl/112/239/s541/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs541%2Fb%2F1
 [/us/stat/126/1729]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1729
+[/us/pl/113/291/s1071/f/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Ff%2F14
+[/us/stat/128/3510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3510
 [/us/pl/91/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230
 [/us/stat/84/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F175
 [/us/usc/t20/s1400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1400
@@ -340,6 +347,8 @@
 [/us/pl/89/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329
 [/us/stat/79/1219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1219
 [/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/usc/t20/s1411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1411
 [/us/pl/112/239/s541/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs541%2Fa
 [/us/stat/126/1728]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1728
 [/us/usc/t20/s6671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6671

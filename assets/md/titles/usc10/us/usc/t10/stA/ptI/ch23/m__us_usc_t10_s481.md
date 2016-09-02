@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stA/ptI/ch23/m__us_usc_t10_s480.md) | [Next](./../../../../../..//us/usc/t10/stA/ptI/ch23/m__us_usc_t10_s482.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs481)
+[Previous](./../../../../../..//us/usc/t10/stA/ptI/ch23/m__us_usc_t10_s480.md) | [Next](./../../../../../..//us/usc/t10/stA/ptI/ch23/m__us_usc_t10_s481a.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs481)
 
 ## § 481. Racial and ethnic issues; gender issues: surveys
 
@@ -161,7 +161,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stA/ptI/ch23/m__us_usc_t10_s480.md) | [Next](./../../../../../..//us/usc/t10/stA/ptI/ch23/m__us_usc_t10_s482.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs481)
+[Previous](./../../../../../..//us/usc/t10/stA/ptI/ch23/m__us_usc_t10_s480.md) | [Next](./../../../../../..//us/usc/t10/stA/ptI/ch23/m__us_usc_t10_s481a.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs481)
 
 ----------
 ----------

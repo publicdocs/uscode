@@ -31,7 +31,11 @@
 
         The dependent children in equal shares if the person to whom [section 1448 of this title][/us/usc/t10/s1448] applies (with the concurrence of the person’s spouse, if required under [section 1448(a)(3) of this title][/us/usc/t10/s1448/a/3]) elected to provide an annuity for dependent children but not for the spouse or former spouse.
 
-        (4)  __Natural person designated under “insurable interest” coverage__  __.—__ 
+        (4)  __Special needs trusts for sole benefit of certain dependent children__  __.—__ 
+
+        Notwithstanding subsection (i), a supplemental or special needs trust established under subparagraph (A) or (C) of section 1917(d)(4) of the Social Security Act ([42 U.S.C. 1396p(d)(4)][/us/usc/t42/s1396p/d/4]) for the sole benefit of a dependent child considered disabled under section 1614(a)(3) of that Act ([42 U.S.C. 1382c(a)(3)][/us/usc/t42/s1382c/a/3]) who is incapable of self-support because of mental or physical incapacity.
+
+        (5)  __Natural person designated under “insurable interest” coverage__  __.—__ 
 
         The natural person designated under [section 1448(b)(1) of this title][/us/usc/t10/s1448/b/1], unless the election to provide an annuity to the natural person has been changed as provided in subsection (f).
 
@@ -179,7 +183,7 @@
 
     (i)  __Annuities Exempt From Certain Legal Process__  __.—__ 
 
-    Except as provided in subsection (l)(3)(B), an annuity under this section is not assignable or subject to execution, levy, attachment, garnishment, or other legal process.
+    Except as provided in subsection (a)(4) or (l)(3)(B), an annuity under this section is not assignable or subject to execution, levy, attachment, garnishment, or other legal process.
 
     (j) __Effective Date of Reserve-Component Annuities.—__ 
 
@@ -317,9 +321,13 @@
 
         This subsection shall only apply with respect to the month beginning on October 1, 2008, and subsequent months through the month ending on September 30, 2017. Effective on October 1, 2017, the authority provided by this subsection shall terminate. No special survivor indemnity allowance may be paid to any person by reason of this subsection for any period before October 1, 2008, or beginning on or after October 1, 2017.
 
-(Added [Pub. L. 92–425, § 1(3)][/us/pl/92/425/s1/3], Sept. 21, 1972, [86 Stat. 708][/us/stat/86/708]; amended [Pub. L. 94–496, § 1(3)][/us/pl/94/496/s1/3], (4), Oct. 14, 1976, [90 Stat. 2375][/us/stat/90/2375]; [Pub. L. 95–397, title II][/us/pl/95/397], §§ 203, 207(b), (c), Sept. 30, 1978, [92 Stat. 845][/us/stat/92/845], 848; [Pub. L. 97–22, § 11(a)(3)][/us/pl/97/22/s11/a/3], July 10, 1981, [95 Stat. 137][/us/stat/95/137]; [Pub. L. 97–252, title X, § 1003(c)][/us/pl/97/252/s1003/c], (d), Sept. 8, 1982, [96 Stat. 736][/us/stat/96/736]; [Pub. L. 98–94, title IX, § 941(a)(3)][/us/pl/98/94/s941/a/3], (c)(3), Sept. 24, 1983, [97 Stat. 653][/us/stat/97/653]; [Pub. L. 98–525, title VI][/us/pl/98/525], §§ 642(b), 644, Oct. 19, 1984, [98 Stat. 2546][/us/stat/98/2546], 2548; [Pub. L. 99–145, title VII][/us/pl/99/145], §§ 713(b), 717, 718, 719(4)–(6), (8)(A), 722, 723(a), (b)(1), title XIII, § 1303(a)(11), Nov. 8, 1985, [99 Stat. 672][/us/stat/99/672], 674–677, 739; [Pub. L. 99–661, div. A, title VI][/us/pl/99/661], §§ 641(a), (b)(2), (3), 643(a), title XIII, § 1343(a)(8)(C), Nov. 14, 1986, [100 Stat. 3885][/us/stat/100/3885], 3886, 3992; [Pub. L. 100–26, § 3(3)][/us/pl/100/26/s3/3], Apr. 21, 1987, [101 Stat. 273][/us/stat/101/273]; [Pub. L. 100–180, div. A, title VI, § 636(a)][/us/pl/100/180/s636/a], Dec. 4, 1987, [101 Stat. 1106][/us/stat/101/1106]; [Pub. L. 100–224, § 5(b)(1)][/us/pl/100/224/s5/b/1], Dec. 30, 1987, [101 Stat. 1538][/us/stat/101/1538]; [Pub. L. 101–189, div. A, title XIV, § 1407(a)(2)][/us/pl/101/189/s1407/a/2]–(4), title XVI, § 1621(a)(1), Nov. 29, 1989, [103 Stat. 1588][/us/stat/103/1588], 1602; [Pub. L. 103–337, div. A, title X, § 1070(e)(3)][/us/pl/103/337/s1070/e/3], Oct. 5, 1994, [108 Stat. 2859][/us/stat/108/2859]; [Pub. L. 104–201, div. A, title VI, § 634][/us/pl/104/201/s634], Sept. 23, 1996, [110 Stat. 2561][/us/stat/110/2561]; [Pub. L. 105–85, div. A, title VI, § 642(a)][/us/pl/105/85/s642/a], Nov. 18, 1997, [111 Stat. 1799][/us/stat/111/1799]; [Pub. L. 105–261, div. A, title VI, § 643(b)][/us/pl/105/261/s643/b], Oct. 17, 1998, [112 Stat. 2048][/us/stat/112/2048]; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title VI, § 655(c)(4)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–166; [Pub. L. 110–181, div. A, title VI][/us/pl/110/181], §§ 643(a), 644, Jan. 28, 2008, [122 Stat. 157][/us/stat/122/157], 158; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title VI, § 631(a), Oct. 14, 2008, [122 Stat. 4492][/us/stat/122/4492]; [Pub. L. 111–31, div. B, title II, § 201][/us/pl/111/31/s201], June 22, 2009, [123 Stat. 1857][/us/stat/123/1857]; [Pub. L. 112–239, div. A, title VI, § 641(b)][/us/pl/112/239/s641/b], Jan. 2, 2013, [126 Stat. 1783][/us/stat/126/1783].)
+(Added [Pub. L. 92–425, § 1(3)][/us/pl/92/425/s1/3], Sept. 21, 1972, [86 Stat. 708][/us/stat/86/708]; amended [Pub. L. 94–496, § 1(3)][/us/pl/94/496/s1/3], (4), Oct. 14, 1976, [90 Stat. 2375][/us/stat/90/2375]; [Pub. L. 95–397, title II][/us/pl/95/397], §§ 203, 207(b), (c), Sept. 30, 1978, [92 Stat. 845][/us/stat/92/845], 848; [Pub. L. 97–22, § 11(a)(3)][/us/pl/97/22/s11/a/3], July 10, 1981, [95 Stat. 137][/us/stat/95/137]; [Pub. L. 97–252, title X, § 1003(c)][/us/pl/97/252/s1003/c], (d), Sept. 8, 1982, [96 Stat. 736][/us/stat/96/736]; [Pub. L. 98–94, title IX, § 941(a)(3)][/us/pl/98/94/s941/a/3], (c)(3), Sept. 24, 1983, [97 Stat. 653][/us/stat/97/653]; [Pub. L. 98–525, title VI][/us/pl/98/525], §§ 642(b), 644, Oct. 19, 1984, [98 Stat. 2546][/us/stat/98/2546], 2548; [Pub. L. 99–145, title VII][/us/pl/99/145], §§ 713(b), 717, 718, 719(4)–(6), (8)(A), 722, 723(a), (b)(1), title XIII, § 1303(a)(11), Nov. 8, 1985, [99 Stat. 672][/us/stat/99/672], 674–677, 739; [Pub. L. 99–661, div. A, title VI][/us/pl/99/661], §§ 641(a), (b)(2), (3), 643(a), title XIII, § 1343(a)(8)(C), Nov. 14, 1986, [100 Stat. 3885][/us/stat/100/3885], 3886, 3992; [Pub. L. 100–26, § 3(3)][/us/pl/100/26/s3/3], Apr. 21, 1987, [101 Stat. 273][/us/stat/101/273]; [Pub. L. 100–180, div. A, title VI, § 636(a)][/us/pl/100/180/s636/a], Dec. 4, 1987, [101 Stat. 1106][/us/stat/101/1106]; [Pub. L. 100–224, § 5(b)(1)][/us/pl/100/224/s5/b/1], Dec. 30, 1987, [101 Stat. 1538][/us/stat/101/1538]; [Pub. L. 101–189, div. A, title XIV, § 1407(a)(2)][/us/pl/101/189/s1407/a/2]–(4), title XVI, § 1621(a)(1), Nov. 29, 1989, [103 Stat. 1588][/us/stat/103/1588], 1602; [Pub. L. 103–337, div. A, title X, § 1070(e)(3)][/us/pl/103/337/s1070/e/3], Oct. 5, 1994, [108 Stat. 2859][/us/stat/108/2859]; [Pub. L. 104–201, div. A, title VI, § 634][/us/pl/104/201/s634], Sept. 23, 1996, [110 Stat. 2561][/us/stat/110/2561]; [Pub. L. 105–85, div. A, title VI, § 642(a)][/us/pl/105/85/s642/a], Nov. 18, 1997, [111 Stat. 1799][/us/stat/111/1799]; [Pub. L. 105–261, div. A, title VI, § 643(b)][/us/pl/105/261/s643/b], Oct. 17, 1998, [112 Stat. 2048][/us/stat/112/2048]; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title VI, § 655(c)(4)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–166; [Pub. L. 110–181, div. A, title VI][/us/pl/110/181], §§ 643(a), 644, Jan. 28, 2008, [122 Stat. 157][/us/stat/122/157], 158; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title VI, § 631(a), Oct. 14, 2008, [122 Stat. 4492][/us/stat/122/4492]; [Pub. L. 111–31, div. B, title II, § 201][/us/pl/111/31/s201], June 22, 2009, [123 Stat. 1857][/us/stat/123/1857]; [Pub. L. 112–239, div. A, title VI, § 641(b)][/us/pl/112/239/s641/b], Jan. 2, 2013, [126 Stat. 1783][/us/stat/126/1783]; [Pub. L. 113–291, div. A, title VI, § 624(a)(1)][/us/pl/113/291/s624/a/1], (2)(A), Dec. 19, 2014, [128 Stat. 3403][/us/stat/128/3403].)
 
  __Amendments__ 
+
+    2014—Subsec. (a)(4), (5). [Pub. L. 113–291, § 624(a)(1)][/us/pl/113/291/s624/a/1], added par. (4) and redesignated former par. (4) as (5).
+
+    Subsec. (i). [Pub. L. 113–291, § 624(a)(2)(A)][/us/pl/113/291/s624/a/2/A], inserted “(a)(4) or” after “subsection”.
 
     2013—Subsec. (d). [Pub. L. 112–239][/us/pl/112/239] inserted “or chapter 84 of such title” after “chapter 83 of title 5”, “or 8416(a)” after “8339(j)”, and “or 8442(a)” after “8341(b)”.
 
@@ -574,6 +582,8 @@
 [/us/usc/t10/s1451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1451
 [/us/usc/t10/s1448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1448
 [/us/usc/t10/s1448/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1448%2Fa%2F3
+[/us/usc/t42/s1396p/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396p%2Fd%2F4
+[/us/usc/t42/s1382c/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1382c%2Fa%2F3
 [/us/usc/t10/s1448/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1448%2Fb%2F1
 [/us/usc/t10/s1448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1448
 [/us/usc/t38/s1311/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1311%2Fa
@@ -646,6 +656,10 @@
 [/us/stat/123/1857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1857
 [/us/pl/112/239/s641/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs641%2Fb
 [/us/stat/126/1783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1783
+[/us/pl/113/291/s624/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs624%2Fa%2F1
+[/us/stat/128/3403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3403
+[/us/pl/113/291/s624/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs624%2Fa%2F1
+[/us/pl/113/291/s624/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs624%2Fa%2F2%2FA
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/pl/111/31/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31%2Fs201%2Fa
 [/us/pl/111/31/s201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31%2Fs201%2Fb

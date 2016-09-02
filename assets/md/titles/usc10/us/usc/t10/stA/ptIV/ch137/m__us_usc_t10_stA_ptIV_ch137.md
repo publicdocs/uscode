@@ -441,9 +441,9 @@
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2336" data-uslm-ref="/us/usc/t10/s2336">2336.</a>  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2336" data-uslm-ref="/us/usc/t10/s2336">2336.</a>  </td>
 
-    <td> Intergovernmental support agreements with State and local governments.  </td>
+    <td> Repealed.]  </td>
 
   </tr>
 
@@ -458,6 +458,8 @@
 </table>
 
  __Amendments__ 
+
+    2014—[Pub. L. 113–291, div. A, title III, § 351(c)(1)][/us/pl/113/291/s351/c/1], Dec. 19, 2014, [128 Stat. 3347][/us/stat/128/3347], struck out item 2336 “Intergovernmental support agreements with State and local governments”.
 
     2013—[Pub. L. 112–239, div. A, title III, § 331(b)][/us/pl/112/239/s331/b], title VIII, § 823(a)(2), Jan. 2, 2013, [126 Stat. 1697][/us/stat/126/1697], 1832, added items 2336 and 2337.
 
@@ -528,6 +530,8 @@
 ----------
 ----------
 
+[/us/pl/113/291/s351/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs351%2Fc%2F1
+[/us/stat/128/3347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3347
 [/us/pl/112/239/s331/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs331%2Fb
 [/us/stat/126/1697]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1697
 [/us/pl/112/81/s805/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs805%2Fb

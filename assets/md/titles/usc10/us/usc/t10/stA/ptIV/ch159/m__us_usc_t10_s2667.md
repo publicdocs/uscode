@@ -135,13 +135,13 @@
 
             (D) At least 50 percent of the proceeds deposited in the special account established for the Secretary concerned shall be available for activities described in subparagraph (C) only at the military installation or Defense Agency location where the proceeds were derived.
 
-            (E) If the proceeds deposited in the special account established for the Secretary concerned are derived from activities associated with a military museum described in [section 489(a) of this title][/us/usc/t10/s489/a], the proceeds shall be available for activities described in subparagraph (C) only at that museum.
+            (E) If the proceeds deposited in the special account established for the Secretary concerned are derived from activities associated with a military museum described in section 489(a)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title, the proceeds shall be available for activities described in subparagraph (C) only at that museum.
 
         (2) Payments for utilities and services furnished lessees pursuant to leases entered into under this section shall be credited to the appropriation account or working capital fund from which the cost of furnishing the utilities and services was paid.
 
         (3) Money rentals received by the United States directly from a lease under this section for agricultural or grazing purposes of lands under the control of the Secretary concerned (other than lands acquired by the United States for flood control or navigation purposes or any related purpose, including the development of hydroelectric power) may be retained and spent by the Secretary concerned in such amounts as the Secretary considers necessary to cover the administrative expenses of leasing for such purposes and to cover the financing of multiple-land use management programs at any installation under the jurisdiction of the Secretary.
 
-        (4) Money rentals received by the United States from a lease under subsection (g) at a military installation approved for closure or realignment under a base closure law before January 1, 2005, shall be deposited into the account established under section 2906(a)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of the Defense Base Closure and Realignment Act of 1990 (part A of title XXIX of [Public Law 101–510][/us/pl/101/510]; [10 U.S.C. 2687][/us/usc/t10/s2687] note).
+        (4) Money rentals received by the United States from a lease under subsection (g) at a military installation approved for closure or realignment under a base closure law before January 1, 2005, shall be deposited into the account established under section 2906(a) 1 of the Defense Base Closure and Realignment Act of 1990 (part A of title XXIX of [Public Law 101–510][/us/pl/101/510]; [10 U.S.C. 2687][/us/usc/t10/s2687] note).
 
         (5) Money rentals received by the United States from a lease under subsection (g) at a military installation approved for closure or realignment under a base closure law on or after January 1, 2005, shall be deposited into the account established under section 2906A(a) 1 of the Defense Base Closure and Realignment Act of 1990 (part A of title XXIX of [Public Law 101–510][/us/pl/101/510]; [10 U.S.C. 2687][/us/usc/t10/s2687] note).
 
@@ -199,6 +199,18 @@
 
             (C) The lessee is required to maintain the ship in a good state of repair, readiness, and efficient operating condition, conform to all applicable regulatory requirements, and assume full responsibility for the safety of the ship, its crew, and scientific personnel aboard.
 
+        (4)
+
+            (A)
+
+             Paragraph (1) does not apply to a renewal, extension, or succeeding lease by the Secretary concerned with a financial institution selected in accordance with the Department of Defense Financial Management Regulation providing for the selection of financial institutions to operate on military installations if each of the following applies:
+
+                (i) The on-base financial institution was selected before the date of the enactment of this paragraph or competitive procedures are used for the selection of any new financial institutions.
+
+                (ii) A current and binding operating agreement is in place between the installation commander and the selected on-base financial institution.
+
+            (B) The renewal, extension, or succeeding lease shall terminate upon the termination of the operating agreement described in subparagraph (A)(ii) associated with that lease.
+
     (i)  __Definitions__  __.—__ 
 
     In this section:
@@ -223,7 +235,7 @@
 
     This section does not apply to oil, mineral, or phosphate lands.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 150][/us/stat/70A/150]; [Pub. L. 94–107, title VI, § 607(7)][/us/pl/94/107/s607/7], Oct. 7, 1975, [89 Stat. 566][/us/stat/89/566]; [Pub. L. 94–412, title V, § 501(b)][/us/pl/94/412/s501/b], Sept. 14, 1976, [90 Stat. 1258][/us/stat/90/1258]; [Pub. L. 96–513, title V, § 511(92)][/us/pl/96/513/s511/92], Dec. 12, 1980, [94 Stat. 2928][/us/stat/94/2928]; [Pub. L. 97–295, § 1(34)][/us/pl/97/295/s1/34], Oct. 12, 1982, [96 Stat. 1296][/us/stat/96/1296]; [Pub. L. 97–321, title VIII, § 803][/us/pl/97/321/s803], Oct. 15, 1982, [96 Stat. 1572][/us/stat/96/1572]; [Pub. L. 101–510, div. B, title XXVIII, § 2806][/us/pl/101/510/s2806], Nov. 5, 1990, [104 Stat. 1787][/us/stat/104/1787]; [Pub. L. 102–190, div. B, title XXVIII, § 2862][/us/pl/102/190/s2862], Dec. 5, 1991, [105 Stat. 1559][/us/stat/105/1559]; [Pub. L. 102–484, div. B, title XXVIII, § 2851][/us/pl/102/484/s2851], Oct. 23, 1992, [106 Stat. 2625][/us/stat/106/2625]; [Pub. L. 103–160, div. B, title XXIX, § 2906][/us/pl/103/160/s2906], Nov. 30, 1993, [107 Stat. 1920][/us/stat/107/1920]; [Pub. L. 104–106, div. A, title XV, § 1502(a)(1)][/us/pl/104/106/s1502/a/1], div. B, title XXVIII, §§ 2831(a), 2832, 2833, Feb. 10, 1996, [110 Stat. 502][/us/stat/110/502], 558, 559; [Pub. L. 105–85, div. A, title III, § 361(b)(2)][/us/pl/105/85/s361/b/2], title X, § 1061(a)–(c)(1), Nov. 18, 1997, [111 Stat. 1701][/us/stat/111/1701], 1891; [Pub. L. 105–261, div. B, title XXVIII, § 2821][/us/pl/105/261/s2821], Oct. 17, 1998, [112 Stat. 2208][/us/stat/112/2208]; [Pub. L. 106–65, div. A, title X, § 1067(1)][/us/pl/106/65/s1067/1], Oct. 5, 1999, [113 Stat. 774][/us/stat/113/774]; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[div. B, title XXVIII, § 2812(a)–(e)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–416 to 1654A–418; [Pub. L. 107–107, div. A, title X, § 1013][/us/pl/107/107/s1013], Dec. 28, 2001, [115 Stat. 1212][/us/stat/115/1212]; [Pub. L. 107–217, § 3(b)(12)][/us/pl/107/217/s3/b/12], Aug. 21, 2002, [116 Stat. 1296][/us/stat/116/1296]; [Pub. L. 107–314, div. A, title X, § 1041(a)(18)][/us/pl/107/314/s1041/a/18], Dec. 2, 2002, [116 Stat. 2645][/us/stat/116/2645]; [Pub. L. 108–136, div. A, title X, § 1043(b)(15)][/us/pl/108/136/s1043/b/15], (c)(3), Nov. 24, 2003, [117 Stat. 1611][/us/stat/117/1611], 1612; [Pub. L. 108–178, § 4(b)(4)][/us/pl/108/178/s4/b/4], Dec. 15, 2003, [117 Stat. 2641][/us/stat/117/2641]; [Pub. L. 109–364, div. A, title VI, § 662][/us/pl/109/364/s662], div. B, title XXVIII, § 2831, Oct. 17, 2006, [120 Stat. 2263][/us/stat/120/2263], 2480; [Pub. L. 110–181, div. A, title X, § 1063(c)(13)][/us/pl/110/181/s1063/c/13], div. B, title XXVIII, § 2823, Jan. 28, 2008, [122 Stat. 323][/us/stat/122/323], 544; [Pub. L. 110–417, div. B, title XXVIII][/us/pl/110/417], §§ 2812(a)–(d), (f)(1), 2831, Oct. 14, 2008, [122 Stat. 4725][/us/stat/122/4725], 4726, 4728, 4732; [Pub. L. 111–84, div. A, title X, § 1073(a)(26)][/us/pl/111/84/s1073/a/26], Oct. 28, 2009, [123 Stat. 2474][/us/stat/123/2474]; [Pub. L. 111–350, § 5(b)(44)][/us/pl/111/350/s5/b/44], Jan. 4, 2011, [124 Stat. 3846][/us/stat/124/3846]; [Pub. L. 111–383, div. A, title X, § 1075(b)(41)][/us/pl/111/383/s1075/b/41], div. B, title XXVIII, §§ 2811(g)–2813(a), Jan. 7, 2011, [124 Stat. 4371][/us/stat/124/4371], 4463; [Pub. L. 112–239, div. B, title XXVII, § 2712(c)(2)][/us/pl/112/239/s2712/c/2], Jan. 2, 2013, [126 Stat. 2145][/us/stat/126/2145]; [Pub. L. 113–66, div. B, title XXVIII, § 2812][/us/pl/113/66/s2812], Dec. 26, 2013, [127 Stat. 1014][/us/stat/127/1014].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 150][/us/stat/70A/150]; [Pub. L. 94–107, title VI, § 607(7)][/us/pl/94/107/s607/7], Oct. 7, 1975, [89 Stat. 566][/us/stat/89/566]; [Pub. L. 94–412, title V, § 501(b)][/us/pl/94/412/s501/b], Sept. 14, 1976, [90 Stat. 1258][/us/stat/90/1258]; [Pub. L. 96–513, title V, § 511(92)][/us/pl/96/513/s511/92], Dec. 12, 1980, [94 Stat. 2928][/us/stat/94/2928]; [Pub. L. 97–295, § 1(34)][/us/pl/97/295/s1/34], Oct. 12, 1982, [96 Stat. 1296][/us/stat/96/1296]; [Pub. L. 97–321, title VIII, § 803][/us/pl/97/321/s803], Oct. 15, 1982, [96 Stat. 1572][/us/stat/96/1572]; [Pub. L. 101–510, div. B, title XXVIII, § 2806][/us/pl/101/510/s2806], Nov. 5, 1990, [104 Stat. 1787][/us/stat/104/1787]; [Pub. L. 102–190, div. B, title XXVIII, § 2862][/us/pl/102/190/s2862], Dec. 5, 1991, [105 Stat. 1559][/us/stat/105/1559]; [Pub. L. 102–484, div. B, title XXVIII, § 2851][/us/pl/102/484/s2851], Oct. 23, 1992, [106 Stat. 2625][/us/stat/106/2625]; [Pub. L. 103–160, div. B, title XXIX, § 2906][/us/pl/103/160/s2906], Nov. 30, 1993, [107 Stat. 1920][/us/stat/107/1920]; [Pub. L. 104–106, div. A, title XV, § 1502(a)(1)][/us/pl/104/106/s1502/a/1], div. B, title XXVIII, §§ 2831(a), 2832, 2833, Feb. 10, 1996, [110 Stat. 502][/us/stat/110/502], 558, 559; [Pub. L. 105–85, div. A, title III, § 361(b)(2)][/us/pl/105/85/s361/b/2], title X, § 1061(a)–(c)(1), Nov. 18, 1997, [111 Stat. 1701][/us/stat/111/1701], 1891; [Pub. L. 105–261, div. B, title XXVIII, § 2821][/us/pl/105/261/s2821], Oct. 17, 1998, [112 Stat. 2208][/us/stat/112/2208]; [Pub. L. 106–65, div. A, title X, § 1067(1)][/us/pl/106/65/s1067/1], Oct. 5, 1999, [113 Stat. 774][/us/stat/113/774]; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[div. B, title XXVIII, § 2812(a)–(e)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–416 to 1654A–418; [Pub. L. 107–107, div. A, title X, § 1013][/us/pl/107/107/s1013], Dec. 28, 2001, [115 Stat. 1212][/us/stat/115/1212]; [Pub. L. 107–217, § 3(b)(12)][/us/pl/107/217/s3/b/12], Aug. 21, 2002, [116 Stat. 1296][/us/stat/116/1296]; [Pub. L. 107–314, div. A, title X, § 1041(a)(18)][/us/pl/107/314/s1041/a/18], Dec. 2, 2002, [116 Stat. 2645][/us/stat/116/2645]; [Pub. L. 108–136, div. A, title X, § 1043(b)(15)][/us/pl/108/136/s1043/b/15], (c)(3), Nov. 24, 2003, [117 Stat. 1611][/us/stat/117/1611], 1612; [Pub. L. 108–178, § 4(b)(4)][/us/pl/108/178/s4/b/4], Dec. 15, 2003, [117 Stat. 2641][/us/stat/117/2641]; [Pub. L. 109–364, div. A, title VI, § 662][/us/pl/109/364/s662], div. B, title XXVIII, § 2831, Oct. 17, 2006, [120 Stat. 2263][/us/stat/120/2263], 2480; [Pub. L. 110–181, div. A, title X, § 1063(c)(13)][/us/pl/110/181/s1063/c/13], div. B, title XXVIII, § 2823, Jan. 28, 2008, [122 Stat. 323][/us/stat/122/323], 544; [Pub. L. 110–417, div. B, title XXVIII][/us/pl/110/417], §§ 2812(a)–(d), (f)(1), 2831, Oct. 14, 2008, [122 Stat. 4725][/us/stat/122/4725], 4726, 4728, 4732; [Pub. L. 111–84, div. A, title X, § 1073(a)(26)][/us/pl/111/84/s1073/a/26], Oct. 28, 2009, [123 Stat. 2474][/us/stat/123/2474]; [Pub. L. 111–350, § 5(b)(44)][/us/pl/111/350/s5/b/44], Jan. 4, 2011, [124 Stat. 3846][/us/stat/124/3846]; [Pub. L. 111–383, div. A, title X, § 1075(b)(41)][/us/pl/111/383/s1075/b/41], div. B, title XXVIII, §§ 2811(g)–2813(a), Jan. 7, 2011, [124 Stat. 4371][/us/stat/124/4371], 4463; [Pub. L. 112–239, div. B, title XXVII, § 2712(c)(2)][/us/pl/112/239/s2712/c/2], Jan. 2, 2013, [126 Stat. 2145][/us/stat/126/2145]; [Pub. L. 113–66, div. B, title XXVIII, § 2812][/us/pl/113/66/s2812], Dec. 26, 2013, [127 Stat. 1014][/us/stat/127/1014]; [Pub. L. 113–291, div. B, title XXVIII, § 2811][/us/pl/113/291/s2811], Dec. 19, 2014, [128 Stat. 3700][/us/stat/128/3700].)
 
 <table>
 
@@ -411,11 +423,17 @@ In subsection (a)(3), the words “excess property, as defined by [section 472 o
 
  __References in Text__ 
 
+    [Section 489 of this title][/us/usc/t10/s489], referred to in subsec. (e)(1)(E), was repealed by [Pub. L. 113–291, div. A, title III, § 331(a)][/us/pl/113/291/s331/a], Dec. 19, 2014, [128 Stat. 3344][/us/stat/128/3344].
+
     Sections 2906 and 2906A of the Defense Base Closure and Realignment Act of 1990, referred to in subsec. (e)(4), (5), which established, respectively, the Department of Defense Base Closure Account 1990 and the Department of Defense Base Closure Account 2005, were repealed by [Pub. L. 112–239, div. B, title XXVII, § 2711(a)][/us/pl/112/239/s2711/a], Jan. 2, 2013, [126 Stat. 2140][/us/stat/126/2140]. A new section 2906, establishing the Department of Defense Base Closure Account, was enacted by [section 2711(a) of Pub. L. 112–239][/us/pl/112/239/s2711/a].
 
     The National Environmental Policy Act of 1969, referred to in subsec. (g)(4)(A), is [Pub. L. 91–190][/us/pl/91/190], Jan. 1, 1970, [83 Stat. 852][/us/stat/83/852], which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42][/us/usc/t42/s4321] and Tables.
 
+    The date of the enactment of this paragraph, referred to in subsec. (h)(4)(A)(i), is the date of enactment of [Pub. L. 113–291][/us/pl/113/291], which was approved Dec. 19, 2014.
+
  __Amendments__ 
+
+    2014—Subsec. (h)(4). [Pub. L. 113–291][/us/pl/113/291] added par. (4).
 
     2013—Subsec. (e)(1)(C)(vi). [Pub. L. 113–66, § 2812(a)][/us/pl/113/66/s2812/a], added cl. (vi).
 
@@ -694,7 +712,6 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/usc/t40/s1302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs1302
 [/us/usc/t10/s2668]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2668
 [/us/usc/t10/s2668]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2668
-[/us/usc/t10/s489/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs489%2Fa
 [/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
 [/us/usc/t10/s2687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2687
 [/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
@@ -758,14 +775,21 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/stat/126/2145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2145
 [/us/pl/113/66/s2812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs2812
 [/us/stat/127/1014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1014
+[/us/pl/113/291/s2811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs2811
+[/us/stat/128/3700]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3700
 [/us/usc/t40/s472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs472
 [/us/stat/58/765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F765
+[/us/usc/t10/s489]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs489
+[/us/pl/113/291/s331/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs331%2Fa
+[/us/stat/128/3344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3344
 [/us/pl/112/239/s2711/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs2711%2Fa
 [/us/stat/126/2140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2140
 [/us/pl/112/239/s2711/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs2711%2Fa
 [/us/pl/91/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F190
 [/us/stat/83/852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F852
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/pl/113/66/s2812/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs2812%2Fa
 [/us/pl/113/66/s2812/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs2812%2Fb
 [/us/pl/113/66/s2812/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs2812%2Fb

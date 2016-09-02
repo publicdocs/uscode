@@ -33,11 +33,11 @@
 
                 (ii) Maiming in violation of [section 924 of this title][/us/usc/t10/s924] (article 124).
 
-                (iii) Sodomy in violation of [section 925 of this title][/us/usc/t10/s925] (article 125).
+                (iii) Forcible sodomy in violation of [section 925 of this title][/us/usc/t10/s925] (article 125).
 
                 (iv) Aggravated assault or assault consummated by a battery in violation of [section 928 of this title][/us/usc/t10/s928] (article 128).
 
-                (v) Kidnaping, assault with intent to commit murder, voluntary manslaughter, rape, or sodomy, or indecent acts in violation of [section 934 of this title][/us/usc/t10/s934] (article 134).
+                (v) Kidnaping, assault with intent to commit murder, voluntary manslaughter, rape, or forcible sodomy, or indecent acts in violation of [section 934 of this title][/us/usc/t10/s934] (article 134).
 
             (C) In subparagraph (A), the term “child abuse offense” includes an act that involves abuse of a person who has not attained the age of 18 years and would constitute an offense under chapter 110 or 117 of title 18 or under section 1591 of that title.
 
@@ -81,7 +81,7 @@
 
             (B) allege the same acts or omissions that were alleged in the dismissed charges or specifications (or allege acts or omissions that were included in the dismissed charges or specifications).
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 51][/us/stat/70A/51]; [Pub. L. 99–661, div. A, title VIII, § 805(a)][/us/pl/99/661/s805/a], (b), Nov. 14, 1986, [100 Stat. 3908][/us/stat/100/3908]; [Pub. L. 108–136, div. A, title V, § 551][/us/pl/108/136/s551], Nov. 24, 2003, [117 Stat. 1481][/us/stat/117/1481]; [Pub. L. 109–163, div. A, title V][/us/pl/109/163], §§ 552(e), 553, Jan. 6, 2006, [119 Stat. 3263][/us/stat/119/3263], 3264; [Pub. L. 109–364, div. A, title X, § 1071(a)(4)][/us/pl/109/364/s1071/a/4], Oct. 17, 2006, [120 Stat. 2398][/us/stat/120/2398]; [Pub. L. 111–383, div. A, title X, § 1075(b)(14)][/us/pl/111/383/s1075/b/14], Jan. 7, 2011, [124 Stat. 4369][/us/stat/124/4369]; [Pub. L. 112–81, div. A, title V, § 541(d)(1)][/us/pl/112/81/s541/d/1], Dec. 31, 2011, [125 Stat. 1410][/us/stat/125/1410]; [Pub. L. 112–239, div. A, title X, § 1076(f)(8)][/us/pl/112/239/s1076/f/8], Jan. 2, 2013, [126 Stat. 1952][/us/stat/126/1952]; [Pub. L. 113–66, div. A, title XVII, § 1703(a)][/us/pl/113/66/s1703/a], (b), Dec. 26, 2013, [127 Stat. 958][/us/stat/127/958].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 51][/us/stat/70A/51]; [Pub. L. 99–661, div. A, title VIII, § 805(a)][/us/pl/99/661/s805/a], (b), Nov. 14, 1986, [100 Stat. 3908][/us/stat/100/3908]; [Pub. L. 108–136, div. A, title V, § 551][/us/pl/108/136/s551], Nov. 24, 2003, [117 Stat. 1481][/us/stat/117/1481]; [Pub. L. 109–163, div. A, title V][/us/pl/109/163], §§ 552(e), 553, Jan. 6, 2006, [119 Stat. 3263][/us/stat/119/3263], 3264; [Pub. L. 109–364, div. A, title X, § 1071(a)(4)][/us/pl/109/364/s1071/a/4], Oct. 17, 2006, [120 Stat. 2398][/us/stat/120/2398]; [Pub. L. 111–383, div. A, title X, § 1075(b)(14)][/us/pl/111/383/s1075/b/14], Jan. 7, 2011, [124 Stat. 4369][/us/stat/124/4369]; [Pub. L. 112–81, div. A, title V, § 541(d)(1)][/us/pl/112/81/s541/d/1], Dec. 31, 2011, [125 Stat. 1410][/us/stat/125/1410]; [Pub. L. 112–239, div. A, title X, § 1076(f)(8)][/us/pl/112/239/s1076/f/8], Jan. 2, 2013, [126 Stat. 1952][/us/stat/126/1952]; [Pub. L. 113–66, div. A, title XVII, § 1703(a)][/us/pl/113/66/s1703/a], (b), Dec. 26, 2013, [127 Stat. 958][/us/stat/127/958]; [Pub. L. 113–291, div. A, title V, § 531(d)(2)(A)][/us/pl/113/291/s531/d/2/A], Dec. 19, 2014, [128 Stat. 3364][/us/stat/128/3364].)
 
 <table>
 
@@ -197,6 +197,10 @@ May 5, 1950, ch. 169, § 1 (Art. 43), 64 Stat. 121.  </td>
 
  __Amendments__ 
 
+    2014—Subsec. (b)(2)(B)(iii). [Pub. L. 113–291, § 531(d)(2)(A)(i)][/us/pl/113/291/s531/d/2/A/i], substituted “Forcible sodomy” for “Sodomy”.
+
+    Subsec. (b)(2)(B)(v). [Pub. L. 113–291, § 531(d)(2)(A)(ii)][/us/pl/113/291/s531/d/2/A/ii], substituted “forcible sodomy” for “sodomy”.
+
     2013—Subsec. (a). [Pub. L. 113–66, § 1703(a)][/us/pl/113/66/s1703/a], substituted “rape or sexual assault, or rape or sexual assault of a child” for “rape, or rape of a child”.
 
     Subsec. (b)(2)(B)(i). [Pub. L. 113–66, § 1703(b)][/us/pl/113/66/s1703/b], inserted “, unless the offense is covered by subsection (a)” before period at end.
@@ -293,6 +297,10 @@ May 5, 1950, ch. 169, § 1 (Art. 43), 64 Stat. 121.  </td>
 [/us/stat/126/1952]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1952
 [/us/pl/113/66/s1703/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1703%2Fa
 [/us/stat/127/958]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F958
+[/us/pl/113/291/s531/d/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs531%2Fd%2F2%2FA
+[/us/stat/128/3364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3364
+[/us/pl/113/291/s531/d/2/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs531%2Fd%2F2%2FA%2Fi
+[/us/pl/113/291/s531/d/2/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs531%2Fd%2F2%2FA%2Fii
 [/us/pl/113/66/s1703/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1703%2Fa
 [/us/pl/113/66/s1703/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1703%2Fb
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239

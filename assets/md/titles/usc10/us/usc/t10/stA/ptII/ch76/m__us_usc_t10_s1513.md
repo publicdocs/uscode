@@ -25,7 +25,7 @@
 
         (B) a civilian employee of the Department of Defense or an employee of a contractor of the Department of Defense who serves in direct support of, or accompanies, the armed forces in the field under orders and who is in a missing status.
 
-        Such term includes an unaccounted for person described in subsection (a) of [section 1509 of this title][/us/usc/t10/s1509] who is required by subsection (b) of such section to be considered a missing person.
+        Such term includes an unaccounted for person described in subsection (a) of [section 1509 of this title][/us/usc/t10/s1509] who is required by subsection (c) of such section to be considered a missing person.
 
     (2)
 
@@ -79,9 +79,11 @@
 
     (9) The term “survival, evasion, resistance, and escape debriefing” means an interview conducted with a person described in [section 1501(c) of this title][/us/usc/t10/s1501/c] who is returned to United States control in order to record the person’s experiences while surviving, evading, resisting interrogation or exploitation, or escaping.
 
-(Added [Pub. L. 104–106, div. A, title V, § 569(b)(1)][/us/pl/104/106/s569/b/1], Feb. 10, 1996, [110 Stat. 350][/us/stat/110/350]; amended [Pub. L. 104–201, div. A, title V, § 578(a)(4)][/us/pl/104/201/s578/a/4], (b)(3), Sept. 23, 1996, [110 Stat. 2536][/us/stat/110/2536]; [Pub. L. 105–85, div. A, title V, § 599(a)(4)][/us/pl/105/85/s599/a/4], (b)(2), Nov. 18, 1997, [111 Stat. 1768][/us/stat/111/1768]; [Pub. L. 106–65, div. A, title X, § 1066(a)(15)][/us/pl/106/65/s1066/a/15], Oct. 5, 1999, [113 Stat. 771][/us/stat/113/771]; [Pub. L. 111–84, div. A, title V, § 541(c)][/us/pl/111/84/s541/c], Oct. 28, 2009, [123 Stat. 2298][/us/stat/123/2298]; [Pub. L. 113–66, div. A, title V, § 582(b)][/us/pl/113/66/s582/b], Dec. 26, 2013, [127 Stat. 776][/us/stat/127/776].)
+(Added [Pub. L. 104–106, div. A, title V, § 569(b)(1)][/us/pl/104/106/s569/b/1], Feb. 10, 1996, [110 Stat. 350][/us/stat/110/350]; amended [Pub. L. 104–201, div. A, title V, § 578(a)(4)][/us/pl/104/201/s578/a/4], (b)(3), Sept. 23, 1996, [110 Stat. 2536][/us/stat/110/2536]; [Pub. L. 105–85, div. A, title V, § 599(a)(4)][/us/pl/105/85/s599/a/4], (b)(2), Nov. 18, 1997, [111 Stat. 1768][/us/stat/111/1768]; [Pub. L. 106–65, div. A, title X, § 1066(a)(15)][/us/pl/106/65/s1066/a/15], Oct. 5, 1999, [113 Stat. 771][/us/stat/113/771]; [Pub. L. 111–84, div. A, title V, § 541(c)][/us/pl/111/84/s541/c], Oct. 28, 2009, [123 Stat. 2298][/us/stat/123/2298]; [Pub. L. 113–66, div. A, title V, § 582(b)][/us/pl/113/66/s582/b], Dec. 26, 2013, [127 Stat. 776][/us/stat/127/776]; [Pub. L. 113–291, div. A, title X, § 1071(f)(15)][/us/pl/113/291/s1071/f/15], Dec. 19, 2014, [128 Stat. 3510][/us/stat/128/3510].)
 
  __Amendments__ 
+
+    2014—Par. (1). [Pub. L. 113–291][/us/pl/113/291] substituted “subsection (c)” for “subsection (b)” in concluding provisions.
 
     2013—Par. (9). [Pub. L. 113–66][/us/pl/113/66] added par. (9).
 
@@ -124,6 +126,9 @@
 [/us/stat/123/2298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2298
 [/us/pl/113/66/s582/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs582%2Fb
 [/us/stat/127/776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F776
+[/us/pl/113/291/s1071/f/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Ff%2F15
+[/us/stat/128/3510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3510
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
 [/us/usc/t10/s1509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1509

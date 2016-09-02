@@ -17,7 +17,7 @@
 
     In this chapter:
 
-    (1) The term “acquisition” has the meaning provided in section 4(16)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of the Office of Federal Procurement Policy Act ([41 U.S.C. 403(16)][/us/usc/t41/s403/16]).
+    (1) The term “acquisition” has the meaning provided in [section 131 of title 41][/us/usc/t41/s131].
 
     (2) The term “defense acquisition system” means the workforce engaged in carrying out the acquisition of property and services for the Department of Defense; the management structure responsible for directing and overseeing the acquisition of property and services for the Department of Defense; and the statutory, regulatory, and policy framework that guides the acquisition of property and services for the Department of Defense.
 
@@ -25,15 +25,15 @@
 
     (4) The term “acquisition workforce” has the meaning provided in [section 101(a)(18) of this title][/us/usc/t10/s101/a/18].
 
-(Added [Pub. L. 111–383, div. A, title VIII, § 861(a)][/us/pl/111/383/s861/a], Jan. 7, 2011, [124 Stat. 4288][/us/stat/124/4288].)
-
- __References in Text__ 
-
-    Section 4(16) of the Office of Federal Procurement Policy Act, referred to in par. (1), means [section 4(16) of Pub. L. 93–400][/us/pl/93/400/s4/16], which was classified to section 403(16) of former Title 41, Public Contracts, and was repealed and restated as [section 131 of Title 41][/us/usc/t41/s131], Public Contracts, by [Pub. L. 111–350][/us/pl/111/350], §§ 3, 7(b), Jan. 4, 2011, [124 Stat. 3677][/us/stat/124/3677], 3855. For disposition of sections of former Title 41, see Disposition Table preceding [section 101 of Title 41][/us/usc/t41/s101].
+(Added [Pub. L. 111–383, div. A, title VIII, § 861(a)][/us/pl/111/383/s861/a], Jan. 7, 2011, [124 Stat. 4288][/us/stat/124/4288]; amended [Pub. L. 113–291, div. A, title X, § 1071(a)(11)][/us/pl/113/291/s1071/a/11], Dec. 19, 2014, [128 Stat. 3505][/us/stat/128/3505].)
 
  __Prior Provisions__ 
 
     A prior section 2545 was renumbered [section 2555 of this title][/us/usc/t10/s2555].
+
+ __Amendments__ 
+
+    2014—Par. (1). [Pub. L. 113–291][/us/pl/113/291] substituted “[section 131 of title 41][/us/usc/t41/s131]” for “section 4(16) of the Office of Federal Procurement Policy Act ([41 U.S.C. 403(16)][/us/usc/t41/s403/16])”.
 
  __Short Title of 2011 Amendment__ 
 
@@ -48,16 +48,16 @@
 ----------
 ----------
 
-[/us/usc/t41/s403/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs403%2F16
+[/us/usc/t41/s131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs131
 [/us/usc/t10/s101/a/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101%2Fa%2F18
 [/us/pl/111/383/s861/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs861%2Fa
 [/us/stat/124/4288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4288
-[/us/pl/93/400/s4/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F400%2Fs4%2F16
-[/us/usc/t41/s131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs131
-[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
-[/us/stat/124/3677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3677
-[/us/usc/t41/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs101
+[/us/pl/113/291/s1071/a/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Fa%2F11
+[/us/stat/128/3505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3505
 [/us/usc/t10/s2555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2555
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/usc/t41/s131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs131
+[/us/usc/t41/s403/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs403%2F16
 [/us/pl/111/383/s860]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs860
 [/us/stat/124/4287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4287
 [/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383

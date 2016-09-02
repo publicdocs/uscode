@@ -75,6 +75,78 @@
 
     Amendment by [Pub. L. 103–337][/us/pl/103/337] applicable only to members of the Coast Guard who are separated after Sept. 30, 1994, see [section 542(e) of Pub. L. 103–337][/us/pl/103/337/s542/e], set out as a note under [section 1141 of this title][/us/usc/t10/s1141].
 
+ __Pilot Program to Assist Members of the Armed Forces in Obtaining Post-Service Employment__ 
+
+[Pub. L. 113–291, div. A, title V, § 555][/us/pl/113/291/s555], Dec. 19, 2014, [128 Stat. 3379][/us/stat/128/3379], provided that:
+
+>     “(a)  __Program Authorized__  __.—__ 
+
+>     The Secretary of Defense may conduct the program described in subsection (c) to enhance the efforts of the Department of Defense to provide job placement assistance and related employment services to eligible members of the Armed Forces described in subsection (b) for the purposes of—
+
+>         “(1) assisting such members in obtaining post-service employment; and
+
+>         “(2) reducing the amount of ‘Unemployment Compensation for Ex-Servicemembers’ that the Secretary of Defense and the Secretary of the Department in which the Coast Guard is operating pays into the Unemployment Trust Fund.
+
+>     “(b)  __Eligible Members__  __.—__ 
+
+>     Employment services provided under the program are limited to members of the Armed Forces, including members of the reserve components, who are being separated from the Armed Forces or released from active duty.
+
+>     “(c) __Evaluation of Use of Civilian Employment Staffing Agencies.—__ 
+
+>         “(1)  __Program described__  __.—__ 
+
+>         The Secretary of Defense may execute a program to evaluate the feasibility and cost-effectiveness of utilizing the services of civilian employment staffing agencies to assist eligible members of the Armed Forces in obtaining post-service employment.
+
+>         “(2)  __Program management__  __.—__ 
+
+>         To manage the program authorized by this subsection, the Secretary of Defense may select a civilian organization (in this section referred to as the ‘program manager’) whose principal members have experience—
+
+>             “(A) administering pay-for-performance programs; and
+
+>             “(B) within the employment staffing industry.
+
+>         “(3)  __Exclusion__  __.—__ 
+
+>         The program manager may not be a staffing agency.
+
+>     “(d)  __Eligible Civilian Employment Staffing Agencies__  __.—__ 
+
+>     In consultation with the program manager if utilized under subsection (c)(2), the Secretary of Defense shall establish the eligibility requirements to be used for the selection of civilian employment staffing agencies to participate in the program. In establishing the eligibility requirements for the selection of the civilian employment staffing agencies, the Secretary of Defense shall also take into account civilian employment staffing agencies that are willing to work and consult with State and county Veterans Affairs offices and State National Guard offices, when appropriate.
+
+>     “(e)  __Payment of Staffing Agency Fees__  __.—__ 
+
+>     To encourage employers to employ an eligible member of the Armed Forces under the program if executed under this section, the Secretary of Defense shall pay a participating civilian employment staffing agency a portion of its agency fee (not to exceed 50 percent above the member’s hourly wage). Payment of the agency fee will only be made after the member has been employed and paid by the private sector and the hours worked have been verified by the Secretary. The staffing agency shall be paid on a weekly basis only for hours the member worked, but not to exceed a total of 800 hours.
+
+>     “(f)  __Oversight Requirements__  __.—__ 
+
+>     In conducting the program, the Secretary of Defense shall establish—
+
+>         “(1) program monitoring standards; and
+
+>         “(2) reporting requirements, including the hourly wage for each eligible member of the Armed Forces obtaining employment under the program, the numbers of hours worked during the month, and the number of members who remained employed with the same employer after completing the first 800 hours of employment.
+
+>     “(g)  __Source and Limitation on Program Obligations__  __.—__ 
+
+>     Of the amounts authorized to be appropriated to the Secretary of Defense for operation and maintenance for each fiscal year during which the program under this section is authorized, not more than $35,000,000 may be used to carry out the program.
+
+>     “(h) __Reporting Requirements.—__ 
+
+>         “(1)  __Report required__  __.—__ 
+
+>         If the Secretary of Defense executes the program under this section, the Secretary shall submit to the appropriate congressional committees a report describing the results of the program, particularly whether the program achieved the purposes specified in subsection (a). The report shall be submitted not later than January 15, 2019.
+
+>         “(2)  __Comparison with other programs__  __.—__ 
+
+>         The report shall include a comparison of the results of the program conducted under this section and the results of other employment assistant programs utilized by the Department of Defense. The comparison shall include the number of members of the Armed Forces obtaining employment through each program and the cost to the Department per member.
+
+>         “(3)  __Appropriate congressional committees defined__  __.—__ 
+
+>         In this section, the term ‘appropriate congressional committees’ means the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\], the Committee on Transportation and Infrastructure of the House of Representatives, and the Committee on Commerce, Science, and Transportation of the Senate.
+
+>     “(i)  __Duration of Authority__  __.—__ 
+
+>     The authority of the Secretary of Defense to carry out programs under this section expires on September 30, 2018.”
+
  __Department of Defense Pilot Program on Work Experience for Members of the Armed Forces on Terminal Leave__ 
 
 [Pub. L. 112–56, title II, § 236][/us/pl/112/56/s236], Nov. 21, 2011, [125 Stat. 724][/us/stat/125/724], provided that:
@@ -667,6 +739,8 @@
 [/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/pl/103/337/s542/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs542%2Fe
 [/us/usc/t10/s1141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1141
+[/us/pl/113/291/s555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs555
+[/us/stat/128/3379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3379
 [/us/pl/112/56/s236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F56%2Fs236
 [/us/stat/125/724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F724
 [/us/pl/103/160/s1337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs1337

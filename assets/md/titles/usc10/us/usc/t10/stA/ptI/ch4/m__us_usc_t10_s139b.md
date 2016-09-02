@@ -157,11 +157,19 @@
 
         The chief developmental tester and the lead developmental test and evaluation organization for a major defense acquisition program shall promptly transmit to the Deputy Assistant Secretary of Defense for Developmental Test and Evaluation any records or data relating to the program that are requested by the Deputy Assistant Secretary, as provided in subsection (a)(6).
 
-    (d)  __Annual Report__  __.—__ 
+    (d)  __Annual and Biennial Reports__  __.—__ 
 
-        (1)  __In general__  __.—__ 
+        (1)  __Annual report by deputy assistant secretary of defense for developmental test and evaluation__  __.—__ 
 
-        Not later than March 31 each year, beginning in 2010, the Deputy Assistant Secretary of Defense for Developmental Test and Evaluation and the Deputy Assistant Secretary of Defense for Systems Engineering shall each submit to the congressional defense committees a report on the activities undertaken pursuant to subsections (a) and (b) during the preceding year. Each report shall include a section on activities relating to the major defense acquisition programs which shall set forth, at a minimum, the following:
+        Not later than March 31 of each year, the Deputy Assistant Secretary of Defense for Developmental Test and Evaluation shall submit to the congressional defense committees a report on the activities undertaken pursuant to subsection (a) during the preceding year.
+
+        (2)  __Biennial report by deputy assistant secretary of defense for systems engineering__  __.—__ 
+
+        Not later than March 31 of every other year, the Deputy Assistant Secretary of Defense for Systems Engineering shall submit to the congressional defense committees a report on the activities undertaken pursuant to subsection (b) during the preceding two-year period.
+
+        (3)  __Contents__  __.—__ 
+
+        Each report submitted under paragraph (1) or (2) shall include a section on activities relating to the major defense acquisition programs which shall set forth, at a minimum, the following:
 
             (A) A discussion of the extent to which the major defense acquisition programs are fulfilling the objectives of their systems engineering master plans and developmental test and evaluation plans.
 
@@ -171,7 +179,7 @@
 
             (D) Any comments on such report that the Secretary of Defense considers appropriate.
 
-        (2)  __Additional requirements for report by deputy assistant secretary of defense for developmental test and evaluation__  __.—__ 
+        (4)  __Additional requirements for report by deputy assistant secretary of defense for developmental test and evaluation__  __.—__ 
 
         With respect to the report required under paragraph (1) by the Deputy Assistant Secretary of Defense for Developmental Test and Evaluation, the report shall include—
 
@@ -193,11 +201,11 @@
 
     In this section, the term “major defense acquisition program” has the meaning given that term in [section 2430 of this title][/us/usc/t10/s2430].
 
-(Added [Pub. L. 111–23, title I, § 102(a)(1)][/us/pl/111/23/s102/a/1], May 22, 2009, [123 Stat. 1710][/us/stat/123/1710], § 139d; renumbered § 139b and amended [Pub. L. 111–383, div. A, title IX, § 901(e)][/us/pl/111/383/s901/e], (f), (k)(1)(E), title X, § 1075(b)(6), Jan. 7, 2011, [124 Stat. 4321][/us/stat/124/4321], 4322, 4325, 4369; [Pub. L. 112–81, div. A, title VIII, § 835(b)][/us/pl/112/81/s835/b], Dec. 31, 2011, [125 Stat. 1507][/us/stat/125/1507]; [Pub. L. 112–239, div. A, title IX, § 904(a)][/us/pl/112/239/s904/a]–(d), (f), (g), title X, § 1076(f)(5), Jan. 2, 2013, [126 Stat. 1866][/us/stat/126/1866], 1867, 1952.)
+(Added [Pub. L. 111–23, title I, § 102(a)(1)][/us/pl/111/23/s102/a/1], May 22, 2009, [123 Stat. 1710][/us/stat/123/1710], § 139d; renumbered § 139b and amended [Pub. L. 111–383, div. A, title IX, § 901(e)][/us/pl/111/383/s901/e], (f), (k)(1)(E), title X, § 1075(b)(6), Jan. 7, 2011, [124 Stat. 4321][/us/stat/124/4321], 4322, 4325, 4369; [Pub. L. 112–81, div. A, title VIII, § 835(b)][/us/pl/112/81/s835/b], Dec. 31, 2011, [125 Stat. 1507][/us/stat/125/1507]; [Pub. L. 112–239, div. A, title IX, § 904(a)][/us/pl/112/239/s904/a]–(d), (f), (g), title X, § 1076(f)(5), Jan. 2, 2013, [126 Stat. 1866][/us/stat/126/1866], 1867, 1952; [Pub. L. 113–291, div. A, title II, § 221(a)][/us/pl/113/291/s221/a], Dec. 19, 2014, [128 Stat. 3330][/us/stat/128/3330].)
 
  __References in Text__ 
 
-    Section 103 of the Weapon Systems Acquisition Reform Act of 2009, referred to in subsec. (d), is [section 103 of Pub. L. 111–23][/us/pl/111/23/s103], which was redesignated as [section 2438 of this title][/us/usc/t10/s2438].
+    Section 103 of the Weapon Systems Acquisition Reform Act of 2009, referred to in subsec. (e), is [section 103 of Pub. L. 111–23][/us/pl/111/23/s103], which was redesignated as [section 2438 of this title][/us/usc/t10/s2438].
 
  __Prior Provisions__ 
 
@@ -206,6 +214,8 @@
     Another prior section 139b was renumbered [section 2433 of this title][/us/usc/t10/s2433].
 
  __Amendments__ 
+
+    Subsec. (d). [Pub. L. 113–291][/us/pl/113/291] substituted “Annual and Biennial Reports” for “Annual Report” in heading, added pars. (1) and (2), redesignated former pars. (1) and (2) as (3) and (4), respectively, and in par. (3), substituted “Contents.— Each report submitted under paragraph (1) or (2)” for “In general.—Not later than March 31 each year, beginning in 2010, the Deputy Assistant Secretary of Defense for Developmental Test and Evaluation and the Deputy Assistant Secretary of Defense for Systems Engineering shall each submit to the congressional defense committees a report on the activities undertaken pursuant to subsections (a) and (b) during the preceding year. Each report”.
 
     2013—Subsec. (a)(3). [Pub. L. 112–239, § 904(a)][/us/pl/112/239/s904/a], substituted “to the Under Secretary. The Deputy Assistant Secretary may communicate views on matters within the responsibility of the Deputy Assistant Secretary directly to the Under Secretary without obtaining the approval or concurrence of any other official within the Department of Defense” for “to the Under Secretary”.
 
@@ -259,6 +269,12 @@
 
     Subsecs. (c) to (f). [Pub. L. 112–81][/us/pl/112/81] added subsec. (c) and redesignated former subsecs. (c) to (e) as (d) to (f), respectively.
 
+ __Effective Date of 2014 Amendment__ 
+
+[Pub. L. 113–291, div. A, title II, § 221(b)][/us/pl/113/291/s221/b], Dec. 19, 2014, [128 Stat. 3330][/us/stat/128/3330], provided that: 
+
+> “The amendments made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[Dec. 19, 2014\] and the first report submitted under paragraph (2) of section 139b(d) of such title, as added by subsection (a)(3), shall be submitted not later than March 31, 2015.”
+
  __Effective Date of 2011 Amendment__ 
 
     Amendment by [Pub. L. 111–383][/us/pl/111/383] effective Jan. 1, 2011, see [section 901(p) of Pub. L. 111–383][/us/pl/111/383/s901/p], set out as a note under [section 131 of this title][/us/usc/t10/s131].
@@ -284,10 +300,13 @@
 [/us/stat/125/1507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1507
 [/us/pl/112/239/s904/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs904%2Fa
 [/us/stat/126/1866]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1866
+[/us/pl/113/291/s221/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs221%2Fa
+[/us/stat/128/3330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3330
 [/us/pl/111/23/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F23%2Fs103
 [/us/usc/t10/s2438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2438
 [/us/usc/t10/s138c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs138c
 [/us/usc/t10/s2433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2433
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/pl/112/239/s904/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs904%2Fa
 [/us/pl/112/239/s904/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs904%2Fb%2F1
 [/us/pl/112/239/s904/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs904%2Fb%2F2
@@ -319,6 +338,8 @@
 [/us/pl/111/383/s901/e/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs901%2Fe%2F4%2FB
 [/us/pl/111/383/s901/e/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs901%2Fe%2F4%2FB
 [/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/113/291/s221/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs221%2Fb
+[/us/stat/128/3330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3330
 [/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
 [/us/pl/111/383/s901/p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs901%2Fp
 [/us/usc/t10/s131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs131

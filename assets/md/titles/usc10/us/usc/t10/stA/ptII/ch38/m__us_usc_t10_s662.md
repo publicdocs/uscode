@@ -15,21 +15,17 @@
 
 ## § 662. Promotion policy objectives for joint officers
 
-    (a)  __Qualifications__  __.—__ 
-
     The Secretary of Defense shall ensure that the qualifications of officers assigned to joint duty assignments are such that—
 
-        (1) officers who are serving on, or have served on, the Joint Staff are expected, as a group, to be promoted to the next higher grade at a rate not less than the rate for officers of the same armed force in the same grade and competitive category who are serving on, or have served on, the headquarters staff of their armed force; and
+    (1) officers who are serving on, or have served on, the Joint Staff are expected, as a group, to be promoted to the next higher grade at a rate not less than the rate for officers of the same armed force in the same grade and competitive category who are serving on, or have served on, the headquarters staff of their armed force; and
 
-        (2) officers in the grade of major (or in the case of the Navy, lieutenant commander) or above who have been designated as a joint qualified officer are expected, as a group, to be promoted to the next higher grade at a rate not less than the rate for all officers of the same armed force in the same grade and competitive category.
+    (2) officers in the grade of major (or in the case of the Navy, lieutenant commander) or above who have been designated as a joint qualified officer are expected, as a group, to be promoted to the next higher grade at a rate not less than the rate for all officers of the same armed force in the same grade and competitive category.
 
-    (b)  __Annual Report__  __.—__ 
-
-    Not later than January 1 of each year, the Secretary of Defense shall submit to Congress a report on the promotion rates during the preceding fiscal year of officers who are serving in, or have served in, joint duty assignments or on the Joint Staff, and officers who have been designated as a joint qualified officer in the grades of major (or in the case of the Navy, lieutenant commander) through colonel (or in the case of the Navy, captain), especially with respect to the record of officer selection boards in meeting the objectives of paragraphs (1) and (2) of subsection (a). If such promotion rates fail to meet such objectives for any fiscal year, the Secretary shall include in the report for that fiscal year information on such failure and on what action the Secretary has taken or plans to take to prevent further failures.
-
-(Added [Pub. L. 99–433, title IV, § 401(a)][/us/pl/99/433/s401/a], Oct. 1, 1986, [100 Stat. 1026][/us/stat/100/1026]; amended [Pub. L. 100–456, div. A, title V, § 513][/us/pl/100/456/s513], Sept. 29, 1988, [102 Stat. 1969][/us/stat/102/1969]; [Pub. L. 101–510, div. A, title XIII, § 1311(3)][/us/pl/101/510/s1311/3], Nov. 5, 1990, [104 Stat. 1669][/us/stat/104/1669]; [Pub. L. 104–201, div. A, title V, § 510][/us/pl/104/201/s510], Sept. 23, 1996, [110 Stat. 2514][/us/stat/110/2514]; [Pub. L. 107–107, div. A, title V, § 521(b)][/us/pl/107/107/s521/b], Dec. 28, 2001, [115 Stat. 1097][/us/stat/115/1097]; [Pub. L. 107–314, div. A, title X, § 1062(a)(4)][/us/pl/107/314/s1062/a/4], Dec. 2, 2002, [116 Stat. 2650][/us/stat/116/2650]; [Pub. L. 108–375, div. A, title V, § 535][/us/pl/108/375/s535], Oct. 28, 2004, [118 Stat. 1901][/us/stat/118/1901]; [Pub. L. 109–364, div. A, title V, § 517][/us/pl/109/364/s517], Oct. 17, 2006, [120 Stat. 2190][/us/stat/120/2190]; [Pub. L. 110–181, div. A, title X, § 1063(a)(3)][/us/pl/110/181/s1063/a/3], Jan. 28, 2008, [122 Stat. 321][/us/stat/122/321]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title V, § 523, Oct. 14, 2008, [122 Stat. 4446][/us/stat/122/4446]; [Pub. L. 111–84, div. A, title X, § 1073(c)(2)][/us/pl/111/84/s1073/c/2], Oct. 28, 2009, [123 Stat. 2474][/us/stat/123/2474].)
+(Added [Pub. L. 99–433, title IV, § 401(a)][/us/pl/99/433/s401/a], Oct. 1, 1986, [100 Stat. 1026][/us/stat/100/1026]; amended [Pub. L. 100–456, div. A, title V, § 513][/us/pl/100/456/s513], Sept. 29, 1988, [102 Stat. 1969][/us/stat/102/1969]; [Pub. L. 101–510, div. A, title XIII, § 1311(3)][/us/pl/101/510/s1311/3], Nov. 5, 1990, [104 Stat. 1669][/us/stat/104/1669]; [Pub. L. 104–201, div. A, title V, § 510][/us/pl/104/201/s510], Sept. 23, 1996, [110 Stat. 2514][/us/stat/110/2514]; [Pub. L. 107–107, div. A, title V, § 521(b)][/us/pl/107/107/s521/b], Dec. 28, 2001, [115 Stat. 1097][/us/stat/115/1097]; [Pub. L. 107–314, div. A, title X, § 1062(a)(4)][/us/pl/107/314/s1062/a/4], Dec. 2, 2002, [116 Stat. 2650][/us/stat/116/2650]; [Pub. L. 108–375, div. A, title V, § 535][/us/pl/108/375/s535], Oct. 28, 2004, [118 Stat. 1901][/us/stat/118/1901]; [Pub. L. 109–364, div. A, title V, § 517][/us/pl/109/364/s517], Oct. 17, 2006, [120 Stat. 2190][/us/stat/120/2190]; [Pub. L. 110–181, div. A, title X, § 1063(a)(3)][/us/pl/110/181/s1063/a/3], Jan. 28, 2008, [122 Stat. 321][/us/stat/122/321]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title V, § 523, Oct. 14, 2008, [122 Stat. 4446][/us/stat/122/4446]; [Pub. L. 111–84, div. A, title X, § 1073(c)(2)][/us/pl/111/84/s1073/c/2], Oct. 28, 2009, [123 Stat. 2474][/us/stat/123/2474]; [Pub. L. 113–291, div. A, title V, § 505(a)(2)][/us/pl/113/291/s505/a/2], Dec. 19, 2014, [128 Stat. 3356][/us/stat/128/3356].)
 
  __Amendments__ 
+
+    2014—[Pub. L. 113–291][/us/pl/113/291] struck out subsec. (a) designation and heading “Qualifications.—” and struck out subsec. (b) which related to annual report.
 
     2009—Subsec. (a)(2). [Pub. L. 111–84][/us/pl/111/84] made technical amendment to directory language of [Pub. L. 110–417, § 523(1)][/us/pl/110/417/s523/1]. See 2008 Amendment note below.
 
@@ -98,6 +94,9 @@
 [/us/stat/122/4446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4446
 [/us/pl/111/84/s1073/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs1073%2Fc%2F2
 [/us/stat/123/2474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2474
+[/us/pl/113/291/s505/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs505%2Fa%2F2
+[/us/stat/128/3356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3356
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
 [/us/pl/110/417/s523/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs523%2F1
 [/us/pl/110/417/s523/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs523%2F1

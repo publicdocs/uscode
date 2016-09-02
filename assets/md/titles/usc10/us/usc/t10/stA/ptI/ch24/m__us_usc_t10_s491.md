@@ -39,9 +39,9 @@
 
         (2) ensure that the report required under [section 494(a)(2)(A) of this title][/us/usc/t10/s494/a/2/A] is transmitted to Congress, if so required under such section; and
 
-        (3) transmit to the congressional defense committees a report providing the high-, medium-, and low- confidence assessments of the intelligence community (as defined in section 3(4) of the National Security Act of 1947 ([50 U.S.C. 401a(4)][/us/usc/t50/s401a/4])) as to whether the United States will have significant warning of a strategic surprise or breakout caused by foreign nuclear weapons developments.
+        (3) transmit to the congressional defense committees a report providing the high-, medium-, and low- confidence assessments of the intelligence community (as defined in section 3(4) of the National Security Act of 1947 ([50 U.S.C. 3003(4)][/us/usc/t50/s3003/4])) as to whether the United States will have significant warning of a strategic surprise or breakout caused by foreign nuclear weapons developments.
 
-(Added [Pub. L. 112–81, div. A, title X, § 1046(b)(1)][/us/pl/112/81/s1046/b/1], Dec. 31, 2011, [125 Stat. 1579][/us/stat/125/1579]; amended [Pub. L. 112–239, div. A, title X][/us/pl/112/239], §§ 1031(a), 1032, Jan. 2, 2013, [126 Stat. 1917][/us/stat/126/1917], 1919; [Pub. L. 113–66, div. A, title X, § 1052(b)][/us/pl/113/66/s1052/b], Dec. 26, 2013, [127 Stat. 861][/us/stat/127/861].)
+(Added [Pub. L. 112–81, div. A, title X, § 1046(b)(1)][/us/pl/112/81/s1046/b/1], Dec. 31, 2011, [125 Stat. 1579][/us/stat/125/1579]; amended [Pub. L. 112–239, div. A, title X][/us/pl/112/239], §§ 1031(a), 1032, Jan. 2, 2013, [126 Stat. 1917][/us/stat/126/1917], 1919; [Pub. L. 113–66, div. A, title X, § 1052(b)][/us/pl/113/66/s1052/b], Dec. 26, 2013, [127 Stat. 861][/us/stat/127/861]; [Pub. L. 113–291, div. A, title X, § 1071(c)(10)][/us/pl/113/291/s1071/c/10], Dec. 19, 2014, [128 Stat. 3509][/us/stat/128/3509].)
 
  __Codification__ 
 
@@ -49,9 +49,11 @@
 
  __References in Text__ 
 
-    Section 1043(a)(1) of the National Defense Authorization Act for Fiscal Year 2012, referred to in subsec. (d)(1), is [section 1043(a)(1) of title X of Pub. L. 112–81][/us/pl/112/81/s1043/a/1], div. A, Dec. 31, 2011, [125 Stat. 1579][/us/stat/125/1579], which is not classified to the Code.
+    Section 1043(a)(1) of the National Defense Authorization Act for Fiscal Year 2012, referred to in subsec. (c)(1), is [section 1043(a)(1) of title X of Pub. L. 112–81][/us/pl/112/81/s1043/a/1], div. A, Dec. 31, 2011, [125 Stat. 1579][/us/stat/125/1579], which is not classified to the Code.
 
  __Amendments__ 
+
+    2014—Subsec. (c)(3). [Pub. L. 113–291][/us/pl/113/291] substituted “([50 U.S.C. 3003(4)][/us/usc/t50/s3003/4])” for “([50 U.S.C. 401a(4)][/us/usc/t50/s401a/4])”.
 
     2013—[Pub. L. 112–239, § 1031(a)(2)(A)][/us/pl/112/239/s1031/a/2/A]–(D), inserted “weapons” after “Nuclear” in section catchline, substituted “nuclear weapons employment strategy” for “nuclear employment strategy” in two places in introductory provisions and “to the nuclear weapons employment strategy, plans, and options of” for “to nuclear employment strategy of” in par. (1), and added par. (4).
 
@@ -72,6 +74,28 @@
     Subsec. (d). [Pub. L. 113–66, § 1052(b)(2)][/us/pl/113/66/s1052/b/2], redesignated subsec. (d) as (c).
 
     [Pub. L. 112–239, § 1032(b)][/us/pl/112/239/s1032/b], added subsec. (d).
+
+ __Statement of Policy on the Nuclear Triad__ 
+
+[Pub. L. 113–291, div. A, title XVI, § 1652][/us/pl/113/291/s1652], Dec. 19, 2014, [128 Stat. 3654][/us/stat/128/3654], provided that: 
+
+> “It is the policy of the United States—
+
+>     “(1)
+
+>      to operate, sustain, and modernize or replace the triad of strategic nuclear delivery systems consisting of—
+
+>         “(A) heavy bombers equipped with nuclear gravity bombs and air-launched nuclear cruise missiles;
+
+>         “(B) land-based intercontinental ballistic missiles equipped with nuclear warheads that are capable of carrying multiple independently targetable reentry vehicles; and
+
+>         “(C) ballistic missile submarines equipped with submarine launched ballistic missiles and multiple nuclear warheads;
+
+>     “(2) to operate, sustain, and modernize or replace a capability to forward-deploy nuclear weapons and dual-capable fighter-bomber aircraft;
+
+>     “(3) to deter potential adversaries and assure allies and partners of the United States through strong and long-term commitment to the nuclear deterrent of the United States and the personnel, systems, and infrastructure that comprise such deterrent; and
+
+>     “(4) to ensure that the members of the Armed Forces who operate the nuclear deterrent of the United States have the training, resources, and national support required to execute the critical national security mission of the members.”
 
  __Delegation of Reporting Functions Specified in__  __[__  __Section 491 of Title 10__  __][/us/usc/t10/s491]__  __, United States Code__ 
 
@@ -95,16 +119,21 @@
 [/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
 [/us/stat/125/1576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1576
 [/us/usc/t10/s494/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs494%2Fa%2F2%2FA
-[/us/usc/t50/s401a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs401a%2F4
+[/us/usc/t50/s3003/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3003%2F4
 [/us/pl/112/81/s1046/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1046%2Fb%2F1
 [/us/stat/125/1579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1579
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/stat/126/1917]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1917
 [/us/pl/113/66/s1052/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1052%2Fb
 [/us/stat/127/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F861
+[/us/pl/113/291/s1071/c/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Fc%2F10
+[/us/stat/128/3509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3509
 [/us/pl/112/239/s1031/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1031%2Fa%2F1
 [/us/pl/112/81/s1043/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1043%2Fa%2F1
 [/us/stat/125/1579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1579
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/usc/t50/s3003/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3003%2F4
+[/us/usc/t50/s401a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs401a%2F4
 [/us/pl/112/239/s1031/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1031%2Fa%2F2%2FA
 [/us/pl/112/239/s1032/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1032%2Fa
 [/us/pl/112/239/s1031/a/2/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1031%2Fa%2F2%2FE
@@ -113,6 +142,8 @@
 [/us/pl/112/239/s1031/a/2/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1031%2Fa%2F2%2FF
 [/us/pl/113/66/s1052/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1052%2Fb%2F2
 [/us/pl/112/239/s1032/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1032%2Fb
+[/us/pl/113/291/s1652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1652
+[/us/stat/128/3654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3654
 [/us/usc/t10/s491]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs491
 [/us/usc/t3/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs301
 [/us/usc/t10/s491]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs491

@@ -223,7 +223,7 @@
 
 >         “(1)  __Appointment__  __.—__ 
 
->         The Secretary of Defense shall appoint an advisory board to analyze the Yellow Ribbon Reintegration Program and report on areas of success and areas for necessary improvements. The advisory board shall include the Director of the Army National Guard, the Director of the Air National Guard, Chiefs of the Army Reserve, Marine Corps Reserve, Navy Reserve, and Air Force Reserve, the Assistant Secretary of Defense for Reserve Affairs, an Adjutant General on a rotational basis as determined by the Chief of the National Guard Bureau, and any other Department of Defense, Federal Government agency, or outside organization as determined by the Secretary of Defense. The members of the advisory board may designate representatives in their stead.
+>         The Secretary of Defense shall appoint an advisory board to analyze the Yellow Ribbon Reintegration Program and report on areas of success and areas for necessary improvements. The advisory board shall include the Director of the Army National Guard, the Director of the Air National Guard, Chiefs of the Army Reserve, Marine Corps Reserve, Navy Reserve, and Air Force Reserve, the Assistant Secretary of Defense for Reserve Affairs \[now Assistant Secretary of Defense for Manpower and Reserve Affairs\], an Adjutant General on a rotational basis as determined by the Chief of the National Guard Bureau, and any other Department of Defense, Federal Government agency, or outside organization as determined by the Secretary of Defense. The members of the advisory board may designate representatives in their stead.
 
 >         “(2)  __Schedule__  __.—__ 
 

@@ -131,11 +131,11 @@
 
     1990—[Pub. L. 101–510, div. A, title IX, § 911(b)(1)][/us/pl/101/510/s911/b/1], (2), Nov. 5, 1990, [104 Stat. 1626][/us/stat/104/1626], substituted “DEPARTMENT OF DEFENSE SCHOOLS” for “GRANTING OF ADVANCED DEGREES AT DEPARTMENT OF DEFENSE SCHOOLS” as chapter heading and added item 2162.
 
- __Asia-Pacific Center for Security Studies: Reimbursement Waiver for Personnel of Foreign Nations__ 
+ __Daniel K. Inouye Asia-Pacific Center for Security Studies: Reimbursement Waiver for Personnel of Foreign Nations__ 
 
-[Pub. L. 107–248, title VIII, § 8073][/us/pl/107/248/s8073], Oct. 23, 2002, [116 Stat. 1553][/us/stat/116/1553], provided that: 
+[Pub. L. 107–248, title VIII, § 8073][/us/pl/107/248/s8073], Oct. 23, 2002, [116 Stat. 1553][/us/stat/116/1553], as amended by [Pub. L. 113–291, div. B, title XXVIII, § 2861(c)][/us/pl/113/291/s2861/c], Dec. 19, 2014, [128 Stat. 3716][/us/stat/128/3716], provided that: 
 
-> “During the current fiscal year and hereafter, the Secretary of Defense may waive reimbursement of the cost of conferences, seminars, courses of instruction, or similar educational activities of the Asia-Pacific Center for Security Studies for military officers and civilian officials of foreign nations if the Secretary determines that attendance by such personnel, without reimbursement, is in the national security interest of the United States: Provided, That costs for which reimbursement is waived pursuant to this section shall be paid from appropriations available for the Asia-Pacific Center.”
+> “During the current fiscal year and hereafter, the Secretary of Defense may waive reimbursement of the cost of conferences, seminars, courses of instruction, or similar educational activities of the Daniel K. Inouye Asia-Pacific Center for Security Studies for military officers and civilian officials of foreign nations if the Secretary determines that attendance by such personnel, without reimbursement, is in the national security interest of the United States: Provided, That costs for which reimbursement is waived pursuant to this section shall be paid from appropriations available for the Asia-Pacific Center.”
 
 Similar provisions were contained in the following prior appropriation acts:
 
@@ -226,6 +226,8 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/stat/104/1626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1626
 [/us/pl/107/248/s8073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F248%2Fs8073
 [/us/stat/116/1553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1553
+[/us/pl/113/291/s2861/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs2861%2Fc
+[/us/stat/128/3716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3716
 [/us/pl/107/117/s8081]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F117%2Fs8081
 [/us/stat/115/2265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2265
 [/us/pl/106/259/s8080]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F259%2Fs8080

@@ -123,7 +123,7 @@ July 26, 1947, ch. 343, § 201(a) (less last 10 words), (b); restated Aug. 10,
 
  __Streamlining of Department of Defense Management Headquarters__ 
 
-[Pub. L. 113–66, div. A, title IX, § 904][/us/pl/113/66/s904], Dec. 26, 2013, [127 Stat. 816][/us/stat/127/816], provided that:
+[Pub. L. 113–66, div. A, title IX, § 904][/us/pl/113/66/s904], Dec. 26, 2013, [127 Stat. 816][/us/stat/127/816], as amended by [Pub. L. 113–291, div. A, title IX, § 905(e)][/us/pl/113/291/s905/e], Dec. 19, 2014, [128 Stat. 3472][/us/stat/128/3472], provided that:
 
 >     “(a)  __Plan Required__  __.—__ 
 
@@ -175,17 +175,21 @@ July 26, 1947, ch. 343, § 201(a) (less last 10 words), (b); restated Aug. 10,
 
 >         “(2)  __Status report__  __.—__ 
 
->         The Secretary shall include with the Department of Defense materials submitted to Congress with the budget of the President for each of fiscal years 2016 through 2024 (as submitted to Congress pursuant to [section 1105 of title 31][/us/usc/t31/s1105], United States Code) a report describing the implementation of the plan required by subsection (a) during the preceding fiscal year and any modifications to the plan required due to changing circumstances. Each such report shall include the following:
+>         The Secretary shall include with the Department of Defense materials submitted to Congress with the budget of the President for each of fiscal years 2017 through 2024 (as submitted to Congress pursuant to [section 1105 of title 31][/us/usc/t31/s1105], United States Code) a report describing the implementation of the plan required by subsection (a) during the preceding fiscal year and any modifications to the plan required due to changing circumstances. Each such report shall include the following:
 
 >             “(A) A summary of savings achieved for each covered organization in the fiscal year covered by such report.
 
->             “(B) A description of the savings through changes or reductions in staffing and services provided by military personnel, civilian personnel, and contractor personnel in the fiscal year covered by such report.
+>             “(B) A description of the savings through changes, consolidations, or reductions in staffing and services provided by military personnel, civilian personnel, and contractor personnel in the fiscal year covered by such report.
 
->             “(C) A description of the savings through changes or reductions in management, functions, and programs and offices in the fiscal year covered by such report.
+>             “(C) A description of the savings through changes, consolidations, or reductions in management, functions, and programs and offices, or other associated cost drivers, including a discussion of how the changes, consolidations, or reductions were prioritized, in the fiscal year covered by such report.
 
 >             “(D) In any case in which savings under the plan fall short of the objective of the plan for the fiscal year covered by such report, an explanation of the reasons for the shortfall.
 
->             “(E) A description of any modifications to the plan made during the fiscal year covered by such report, and an explanation of the reasons for such modifications.”
+>             “(E) A description of any modifications to the plan made during the fiscal year covered by such report, and an explanation of the reasons for such modifications, including the risks of, and capabilities gained or lost by implementing, such modifications.
+
+>             “(F) A description of how the plan supports or affects current Department of Defense strategic guidance, policy, and mission requirements, including the quadrennial defense review, the Unified Command Plan, and the strategic choices and management review.
+
+>             “(G) A description of the associated costs specifically addressed by the savings.”
 
  __Military Activities in Cyberspace__ 
 
@@ -492,6 +496,8 @@ July 26, 1947, ch. 343, § 201(a) (less last 10 words), (b); restated Aug. 10,
 [/us/usc/t10/s441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs441
 [/us/pl/113/66/s904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs904
 [/us/stat/127/816]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F816
+[/us/pl/113/291/s905/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs905%2Fe
+[/us/stat/128/3472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3472
 [/us/usc/t31/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105
 [/us/pl/112/81/s954]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs954
 [/us/stat/125/1551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1551

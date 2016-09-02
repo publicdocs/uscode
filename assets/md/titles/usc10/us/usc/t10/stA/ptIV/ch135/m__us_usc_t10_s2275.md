@@ -51,9 +51,9 @@
 
     (d)  __Submittal of Reports__  __.—__ 
 
-        (1) In the case of a major satellite acquisition program initiated before the date of the enactment of the National Defense Authorization Act for Fiscal Year 2013, the Under Secretary shall submit the report required by subsection (a) with respect to the program not later than one year after such date of enactment.
+        (1) In the case of a major satellite acquisition program initiated before January 2, 2013, the Under Secretary shall submit the report required by subsection (a) with respect to the program not later than one year after such date of enactment. <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup> 
 
-        (2) In the case of a major satellite acquisition program initiated on or after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2013, the Under Secretary shall submit the report required by subsection (a) with respect to the program at the time of the Milestone B approval of the program.
+        (2) In the case of a major satellite acquisition program initiated on or after January 2, 2013, the Under Secretary shall submit the report required by subsection (a) with respect to the program at the time of the Milestone B approval of the program.
 
     (e)  __Notification to Congress of Non-integrated Acquisition and Capability Delivery Schedules__  __.—__ 
 
@@ -105,15 +105,21 @@
 
         The term “non-integrated program” means a program with respect to which the schedules for the acquisition and the delivery of the capabilities of the segments for the program, or a related program that is necessary for the operational capability of the program, provide for the acquisition or the delivery of the capabilities of at least two of the three segments for the program or related program more than one year apart.
 
-(Added [Pub. L. 112–239, div. A, title IX, § 911(a)][/us/pl/112/239/s911/a], Jan. 2, 2013, [126 Stat. 1870][/us/stat/126/1870].)
+(Added [Pub. L. 112–239, div. A, title IX, § 911(a)][/us/pl/112/239/s911/a], Jan. 2, 2013, [126 Stat. 1870][/us/stat/126/1870]; amended [Pub. L. 113–291, div. A, title X, § 1071(e)(3)][/us/pl/113/291/s1071/e/3], Dec. 19, 2014, [128 Stat. 3509][/us/stat/128/3509].)
 
  __References in Text__ 
 
-    The date of the enactment of the National Defense Authorization Act for Fiscal Year 2013, referred to in subsec. (d), is the date of the enactment of [Pub. L. 112–239][/us/pl/112/239], which was approved Jan. 2, 2013.
+    Such date of enactment, referred to in subsec. (d), probably means the date of the enactment of [Pub. L. 112–239][/us/pl/112/239], which was approved Jan. 2, 2013.
 
  __Prior Provisions__ 
 
     A prior section 2275, [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 126][/us/stat/70A/126], which related to award of contracts and review of decisions, was repealed by [Pub. L. 103–160, div. A, title VIII, § 821(a)(1)][/us/pl/103/160/s821/a/1], Nov. 30, 1993, [107 Stat. 1704][/us/stat/107/1704].
+
+ __Amendments__ 
+
+    2014—Subsec. (d)(1). [Pub. L. 113–291, § 1071(e)(3)(A)][/us/pl/113/291/s1071/e/3/A], substituted “before January 2, 2013” for “before the date of the enactment of the National Defense Authorization Act for Fiscal Year 2013”.
+
+    Subsec. (d)(2). [Pub. L. 113–291, § 1071(e)(3)(B)][/us/pl/113/291/s1071/e/3/B], substituted “on or after January 2, 2013” for “on or after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2013”
 
 ----------
 
@@ -127,10 +133,14 @@
 [/us/usc/t10/s2366/e/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2366%2Fe%2F7
 [/us/pl/112/239/s911/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs911%2Fa
 [/us/stat/126/1870]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1870
+[/us/pl/113/291/s1071/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Fe%2F3
+[/us/stat/128/3509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3509
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F126
 [/us/pl/103/160/s821/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs821%2Fa%2F1
 [/us/stat/107/1704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1704
+[/us/pl/113/291/s1071/e/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Fe%2F3%2FA
+[/us/pl/113/291/s1071/e/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Fe%2F3%2FB
 
 

@@ -39,6 +39,18 @@
 
     Secretary of Defense to establish uniform system of valuation described in subsec. (a)(3) of this section not later than 180 days after Dec. 5, 1991, see [section 347(c) of Pub. L. 102–190][/us/pl/102/190/s347/c], set out as a note under [section 2721 of this title][/us/usc/t10/s2721].
 
+ __Management of Conventional Ammunition Inventory__ 
+
+[Pub. L. 113–291, div. A, title III, § 352(a)][/us/pl/113/291/s352/a], (b), Dec. 19, 2014, [128 Stat. 3347][/us/stat/128/3347], provided that:
+
+>     “(a)  __Consolidation of Data__  __.—__ 
+
+>     Not later than 240 days after the date of the enactment of this Act \[Dec. 19, 2014\], the Under Secretary of Defense for Acquisition, Technology, and Logistics shall issue Department-wide guidance designating an authoritative source of data for conventional ammunition. Not later than 10 days after issuing the guidance required by this subsection, the Under Secretary shall notify the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] on what source of data has been designated under this subsection.
+
+>     “(b)  __Annual Report__  __.—__ 
+
+>     The Secretary of the Army shall include in the appropriate annual ammunition inventory reports, as determined by the Secretary, information on all available ammunition for use during the redistribution process, including any ammunition that was unclaimed and categorized for disposal by another military service during a year before the year during which the report is submitted.”
+
  __Improvement of Inventory Management Practices__ 
 
 [Pub. L. 111–84, div. A, title III, § 328][/us/pl/111/84/s328], Oct. 28, 2009, [123 Stat. 2255][/us/stat/123/2255], provided that:
@@ -245,6 +257,8 @@
 [/us/pl/102/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190
 [/us/pl/102/190/s347/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs347%2Fc
 [/us/usc/t10/s2721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2721
+[/us/pl/113/291/s352/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs352%2Fa
+[/us/stat/128/3347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3347
 [/us/pl/111/84/s328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs328
 [/us/stat/123/2255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2255
 [/us/pl/106/65/s363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs363

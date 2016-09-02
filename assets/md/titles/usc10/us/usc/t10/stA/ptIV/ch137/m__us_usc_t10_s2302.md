@@ -73,7 +73,7 @@
 
     (6) The term “Federal Acquisition Regulation” means the Federal Acquisition Regulation issued pursuant to [section 1303(a)(1) of title 41][/us/usc/t41/s1303/a/1].
 
-    (7) The term “simplified acquisition threshold” has the meaning provided that term in [section 134 of title 41][/us/usc/t41/s134], except that, in the case of any contract to be awarded and performed, or purchase to be made, outside the United States in support of a contingency operation or a humanitarian or peacekeeping operation, the term means an amount equal to two times the amount specified for that term in section 4  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of such Act.
+    (7) The term “simplified acquisition threshold” has the meaning provided that term in [section 134 of title 41][/us/usc/t41/s134], except that, in the case of any contract to be awarded and performed, or purchase to be made, outside the United States in support of a contingency operation or a humanitarian or peacekeeping operation, the term means an amount equal to two times the amount specified for that term in such section.
 
     (8) The term “humanitarian or peacekeeping operation” means a military operation in support of the provision of humanitarian or foreign disaster assistance or in support of a peacekeeping operation under chapter VI or VII of the Charter of the United Nations. The term does not include routine training, force rotation, or stationing.
 
@@ -81,11 +81,11 @@
 
      The term “nontraditional defense contractor”, with respect to a procurement or with respect to a transaction authorized under [section 2371(a) of this title][/us/usc/t10/s2371/a], means an entity that is not currently performing and has not performed, for at least the one-year period preceding the solicitation of sources by the Department of Defense for the procurement or transaction, any of the following for the Department of Defense:
 
-        (A) Any contract or subcontract that is subject to full coverage under the cost accounting standards prescribed pursuant to section 26 1 of the Office of Federal Procurement Policy Act ([41 U.S.C. 422][/us/usc/t41/s422]) and the regulations implementing such section.1
+        (A) Any contract or subcontract that is subject to full coverage under the cost accounting standards prescribed pursuant to chapter 15 of title 41 and the regulations implementing such chapter.
 
         (B) Any other contract in excess of $500,000 under which the contractor is required to submit certified cost or pricing data under [section 2306a of this title][/us/usc/t10/s2306a].
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 127][/us/stat/70A/127]; [Pub. L. 85–568, title III, § 301(b)][/us/pl/85/568/s301/b], July 29, 1958, [72 Stat. 432][/us/stat/72/432]; [Pub. L. 85–861, § 1][/us/pl/85/861/s1](43A), Sept. 2, 1958, [72 Stat. 1457][/us/stat/72/1457]; [Pub. L. 96–513, title V, § 511(74)][/us/pl/96/513/s511/74], Dec. 12, 1980, [94 Stat. 2926][/us/stat/94/2926]; [Pub. L. 98–369, div. B, title VII, § 2722(a)][/us/pl/98/369/s2722/a], July 18, 1984, [98 Stat. 1186][/us/stat/98/1186]; [Pub. L. 98–525, title XII, § 1211][/us/pl/98/525/s1211], Oct. 19, 1984, [98 Stat. 2589][/us/stat/98/2589]; [Pub. L. 98–577, title V, § 504(b)(3)][/us/pl/98/577/s504/b/3], Oct. 30, 1984, [98 Stat. 3087][/us/stat/98/3087]; [Pub. L. 99–661, div. A, title XIII, § 1343(a)(13)][/us/pl/99/661/s1343/a/13], Nov. 14, 1986, [100 Stat. 3993][/us/stat/100/3993]; [Pub. L. 100–26, § 7(k)(2)][/us/pl/100/26/s7/k/2], Apr. 21, 1987, [101 Stat. 284][/us/stat/101/284]; [Pub. L. 101–189, div. A, title VIII, § 853(b)(1)][/us/pl/101/189/s853/b/1], Nov. 29, 1989, [103 Stat. 1518][/us/stat/103/1518]; [Pub. L. 102–25, title VII, § 701(d)(1)][/us/pl/102/25/s701/d/1], Apr. 6, 1991, [105 Stat. 113][/us/stat/105/113]; [Pub. L. 102–190, div. A, title VIII, § 805][/us/pl/102/190/s805], Dec. 5, 1991, [105 Stat. 1417][/us/stat/105/1417]; [Pub. L. 103–355, title I, § 1502][/us/pl/103/355/s1502], Oct. 13, 1994, [108 Stat. 3296][/us/stat/108/3296]; [Pub. L. 104–106, div. D, title XLIII, § 4321(b)(3)][/us/pl/104/106/s4321/b/3], Feb. 10, 1996, [110 Stat. 672][/us/stat/110/672]; [Pub. L. 104–201, div. A, title VIII][/us/pl/104/201], §§ 805(a)(1), 807(a), Sept. 23, 1996, [110 Stat. 2605][/us/stat/110/2605], 2606; [Pub. L. 105–85, div. A, title VIII, § 803(b)][/us/pl/105/85/s803/b], Nov. 18, 1997, [111 Stat. 1832][/us/stat/111/1832]; [Pub. L. 107–217, § 3(b)(2)][/us/pl/107/217/s3/b/2], Aug. 21, 2002, [116 Stat. 1295][/us/stat/116/1295]; [Pub. L. 107–296, title XVII, § 1704(b)(1)][/us/pl/107/296/s1704/b/1], Nov. 25, 2002, [116 Stat. 2314][/us/stat/116/2314]; [Pub. L. 111–350, § 5(b)(8)][/us/pl/111/350/s5/b/8], Jan. 4, 2011, [124 Stat. 3842][/us/stat/124/3842]; [Pub. L. 111–383, div. A, title VIII, § 866(g)(1)][/us/pl/111/383/s866/g/1], Jan. 7, 2011, [124 Stat. 4298][/us/stat/124/4298].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 127][/us/stat/70A/127]; [Pub. L. 85–568, title III, § 301(b)][/us/pl/85/568/s301/b], July 29, 1958, [72 Stat. 432][/us/stat/72/432]; [Pub. L. 85–861, § 1][/us/pl/85/861/s1](43A), Sept. 2, 1958, [72 Stat. 1457][/us/stat/72/1457]; [Pub. L. 96–513, title V, § 511(74)][/us/pl/96/513/s511/74], Dec. 12, 1980, [94 Stat. 2926][/us/stat/94/2926]; [Pub. L. 98–369, div. B, title VII, § 2722(a)][/us/pl/98/369/s2722/a], July 18, 1984, [98 Stat. 1186][/us/stat/98/1186]; [Pub. L. 98–525, title XII, § 1211][/us/pl/98/525/s1211], Oct. 19, 1984, [98 Stat. 2589][/us/stat/98/2589]; [Pub. L. 98–577, title V, § 504(b)(3)][/us/pl/98/577/s504/b/3], Oct. 30, 1984, [98 Stat. 3087][/us/stat/98/3087]; [Pub. L. 99–661, div. A, title XIII, § 1343(a)(13)][/us/pl/99/661/s1343/a/13], Nov. 14, 1986, [100 Stat. 3993][/us/stat/100/3993]; [Pub. L. 100–26, § 7(k)(2)][/us/pl/100/26/s7/k/2], Apr. 21, 1987, [101 Stat. 284][/us/stat/101/284]; [Pub. L. 101–189, div. A, title VIII, § 853(b)(1)][/us/pl/101/189/s853/b/1], Nov. 29, 1989, [103 Stat. 1518][/us/stat/103/1518]; [Pub. L. 102–25, title VII, § 701(d)(1)][/us/pl/102/25/s701/d/1], Apr. 6, 1991, [105 Stat. 113][/us/stat/105/113]; [Pub. L. 102–190, div. A, title VIII, § 805][/us/pl/102/190/s805], Dec. 5, 1991, [105 Stat. 1417][/us/stat/105/1417]; [Pub. L. 103–355, title I, § 1502][/us/pl/103/355/s1502], Oct. 13, 1994, [108 Stat. 3296][/us/stat/108/3296]; [Pub. L. 104–106, div. D, title XLIII, § 4321(b)(3)][/us/pl/104/106/s4321/b/3], Feb. 10, 1996, [110 Stat. 672][/us/stat/110/672]; [Pub. L. 104–201, div. A, title VIII][/us/pl/104/201], §§ 805(a)(1), 807(a), Sept. 23, 1996, [110 Stat. 2605][/us/stat/110/2605], 2606; [Pub. L. 105–85, div. A, title VIII, § 803(b)][/us/pl/105/85/s803/b], Nov. 18, 1997, [111 Stat. 1832][/us/stat/111/1832]; [Pub. L. 107–217, § 3(b)(2)][/us/pl/107/217/s3/b/2], Aug. 21, 2002, [116 Stat. 1295][/us/stat/116/1295]; [Pub. L. 107–296, title XVII, § 1704(b)(1)][/us/pl/107/296/s1704/b/1], Nov. 25, 2002, [116 Stat. 2314][/us/stat/116/2314]; [Pub. L. 111–350, § 5(b)(8)][/us/pl/111/350/s5/b/8], Jan. 4, 2011, [124 Stat. 3842][/us/stat/124/3842]; [Pub. L. 111–383, div. A, title VIII, § 866(g)(1)][/us/pl/111/383/s866/g/1], Jan. 7, 2011, [124 Stat. 4298][/us/stat/124/4298]; [Pub. L. 113–291, div. A, title X, § 1071(a)(2)][/us/pl/113/291/s1071/a/2], Dec. 19, 2014, [128 Stat. 3504][/us/stat/128/3504].)
 
 <table>
 
@@ -189,13 +189,11 @@ Source (Statutes at Large)  </td>
 
     The amendments reflect section 1(44) of the bill \[amending [section 2305 of Title 10][/us/usc/t10/s2305]\].
 
- __References in Text__ 
-
-    Section 4 of such Act, referred to in par. (7), means [section 4 of Pub. L. 93–400][/us/pl/93/400/s4], which was classified to section 403 of former Title 41, Public Contracts, and was repealed and the provisions thereof restated in sections 102, 103, 105, 107 to 116, 131 to 134, and 1301 of Title 41, Public Contracts, by [Pub. L. 111–350][/us/pl/111/350], §§ 3, 7(b), Jan. 4, 2011, [124 Stat. 3677][/us/stat/124/3677], 3855. For disposition of sections of former Title 41, see Disposition Table preceding [section 101 of Title 41][/us/usc/t41/s101].
-
-    Section 26 of the Office of Federal Procurement Policy Act and such section, referred to in par. (9)(A), means [section 26 of Pub. L. 93–400][/us/pl/93/400/s26], which was classified to section 422 of former Title 41, Public Contracts, and was repealed and restated as chapter 15 (§ 1501 et seq.) of Title 41, Public Contracts, by [Pub. L. 111–350][/us/pl/111/350], §§ 3, 7(b), Jan. 4, 2011, [124 Stat. 3677][/us/stat/124/3677], 3855. For disposition of sections of former Title 41, see Disposition Table preceding [section 101 of Title 41][/us/usc/t41/s101].
-
  __Amendments__ 
+
+    2014—Par. (7). [Pub. L. 113–291, § 1071(a)(2)(A)][/us/pl/113/291/s1071/a/2/A], substituted “such section” for “section 4 of such Act”.
+
+    Par. (9)(A). [Pub. L. 113–291, § 1071(a)(2)(B)][/us/pl/113/291/s1071/a/2/B], substituted “chapter 15 of title 41” for “section 26 of the Office of Federal Procurement Policy Act ([41 U.S.C. 422][/us/usc/t41/s422])” and “such chapter” for “such section”.
 
     2011—Par. (3). [Pub. L. 111–350, § 5(b)(8)(A)][/us/pl/111/350/s5/b/8/A], substituted “chapter 1 of title 41” for “section 4 of the Office of Federal Procurement Policy Act ([41 U.S.C. 403][/us/usc/t41/s403])” in introductory provisions.
 
@@ -341,155 +339,375 @@ Source (Statutes at Large)  </td>
 
  __Prohibition on Contracting With the Enemy__ 
 
-[Pub. L. 113–66, div. A, title VIII, § 831][/us/pl/113/66/s831], Dec. 26, 2013, [127 Stat. 810][/us/stat/127/810], provided that:
+[Pub. L. 113–291, div. A, title VIII][/us/pl/113/291], subtitle E, Dec. 19, 2014, [128 Stat. 3450][/us/stat/128/3450], provided that:
 
->     “(a) __Authority To Terminate or Void Contracts, Grants, and Cooperative Agreements and To Restrict Future Award.—__ 
+> “SEC. 841. __PROHIBITION ON PROVIDING FUNDS TO THE ENEMY.__ 
 
->         “(1)  __Identification of persons and entities__  __.—__ 
+>     “(a)  __Identification of Persons and Entities__  __.—__ 
 
->         The Secretary of Defense shall establish in each covered combatant command a program to identify persons or entities, within the area of responsibility of such covered combatant command, that—
+>     The Secretary of Defense shall, in conjunction with the Director of National Intelligence and in consultation with the Secretary of State, establish in each covered combatant command a program to identify persons and entities within the area of responsibility of such command that—
 
->             “(A) provide funds received under a contract, grant, or cooperative agreement of the Department of Defense directly or indirectly to a covered person or entity; or
+>         “(1) provide funds, including goods and services, received under a covered contract, grant, or cooperative agreement of an executive agency directly or indirectly to a covered person or entity; or
 
->             “(B) fail to exercise due diligence to ensure that none of the funds received under a contract, grant, or cooperative agreement of the Department of Defense are provided directly or indirectly to a covered person or entity.
+>         “(2) fail to exercise due diligence to ensure that none of the funds, including goods and services, received under a covered contract, grant, or cooperative agreement of an executive agency are provided directly or indirectly to a covered person or entity.
 
->         “(2)  __Notice of persons or entities identified__  __.—__ 
+>     “(b) __Notice of Identified Persons and Entities.—__ 
 
->         Upon the identification of a person or entity as meeting subparagraph (A) or (B) of paragraph (1), the commander of the combatant command concerned, and any deputies of the commander specified by the commander for purposes of this section, shall be notified in writing of such identification of such person or entity.
+>         “(1)  __Notice__  __.—__ 
 
->         “(3)  __Responsive actions__  __.—__ 
+>         Upon the identification of a person or entity as being described by subsection (a), the head of the executive agency concerned (or the designee of such head) and the commander of the covered combatant command concerned (or the specified deputies of the commander) shall be notified, in writing, of such identification of the person or entity.
 
->         Upon receipt of a notice under paragraph (2), the commander of the combatant command concerned may, in consultation with the Under Secretary of Defense for Policy, the Under Secretary of Defense for Acquisition, Technology, and Logistics, and the appropriate Chief of Mission, notify the heads of appropriate contracting activities, in writing, of such identification and request that the heads of such contracting activities exercise the authorities provided pursuant to paragraph (4) and the Department of Defense Supplement to the Federal Acquisition Regulation, as revised, with respect to any contract, grant, or cooperative agreement that provides funding directly or indirectly to the person or entity covered by the notice.
+>         “(2)  __Responsive actions__  __.—__ 
 
->         “(4)  __Authorities__  __.—__ 
+>         Upon receipt of a notice under paragraph (1), the head of the executive agency concerned (or the designee of such head) and the commander of the covered combatant command concerned (or the specified deputies of the commander) may notify the heads of contracting activities, or other appropriate officials of the agency or command, in writing of such identification.
 
->         Not later than 30 days after the date of the enactment of this Act \[Dec. 26, 2013\], the Secretary of Defense shall revise the Department of Defense Supplement to the Federal Acquisition Regulation to authorize the head of a contracting activity in each covered combatant command, pursuant to a request from the commander of a covered combatant command under paragraph (3)—
+>         “(3)  __Making of notifications__  __.—__ 
 
->             “(A) to prohibit, limit, or otherwise place restrictions on the award of any Department of Defense contract, grant, or cooperative agreement to a person or entity identified pursuant to paragraph (1)(A);
+>         Any written notification pursuant to this subsection shall be made in accordance with procedures established to implement the revisions of regulations required by this section.
 
->             “(B) to terminate for default any Department contract, grant, or cooperative agreement awarded to a person or entity identified pursuant to paragraph (1)(B); or
+>     “(c)  __Authority to Terminate or Void Contracts, Grants, and Cooperative Agreements and to Restrict Future Award__  __.—__ 
 
->             “(C) to void in whole or in part any Department contract, grant, or cooperative agreement awarded to a person or entity identified pursuant to paragraph (1)(A).
+>     Not later than 270 days after the date of the enactment of this Act \[Dec. 19, 2014\], the Federal Acquisition Regulation, the Defense Federal Acquisition Regulation Supplement, and the Uniform Administrative Requirements, Cost Principles, and Audit Requirements for Federal Awards shall be revised to provide that, upon notice from the head of an executive agency (or the designee of such head) or the commander of a covered combatant command (or the specified deputies of the commander) pursuant to subsection (b), the head of contracting activity of an executive agency, or other appropriate official, may do the following:
 
->     “(b) __Contract Clause.—__ 
+>         “(1) Restrict the award of contracts, grants, or cooperative agreements of the executive agency concerned upon a written determination by the head of contracting activity or other appropriate official that the contract, grant, or cooperative agreement would provide funds received under such contract, grant, or cooperative agreement directly or indirectly to a covered person or entity.
+
+>         “(2) Terminate for default any contract, grant, or cooperative agreement of the executive agency concerned upon a written determination by the head of contracting activity or other appropriate official that the contractor, or the recipient of the grant or cooperative agreement, has failed to exercise due diligence to ensure that none of the funds received under the contract, grant, or cooperative agreement are provided directly or indirectly to a covered person or entity.
+
+>         “(3) Void in whole or in part any contract, grant, or cooperative agreement of the executive agency concerned upon a written determination by the head of contracting activity or other appropriate official that the contract, grant, or cooperative agreement provides funds directly or indirectly to a covered person or entity.
+
+>     “(d) __Clause.—__ 
 
 >         “(1)  __In general__  __.—__ 
 
->         Not later than 30 days after the date of the enactment of this Act \[Dec. 26, 2013\], the Department of Defense Supplement to the Federal Acquisition Regulation shall be revised to require that—
+>         Not later than 270 days after the date of the enactment of this Act, the Federal Acquisition Regulation, the Defense Federal Acquisition Regulation Supplement, and the Uniform Administrative Requirements, Cost Principles, and Audit Requirements for Federal Awards shall be revised to require that—
 
->             “(A) the clause described in paragraph (2) shall be included in each covered contract, grant, and cooperative agreement of the Department of Defense that is awarded on or after the date of the enactment of this Act; and
+>             “(A) the clause described in paragraph (2) shall be included in each covered contract, grant, and cooperative agreement of an executive agency that is awarded on or after the date that is 270 days after the date of the enactment of this Act; and
 
->             “(B) to the maximum extent practicable, each covered contract, grant, and cooperative agreement of the Department of Defense that is awarded before the date of the enactment of this Act shall be modified to include the clause described in paragraph (2).
+>             “(B) to the maximum extent practicable, each covered contract, grant, and cooperative agreement of an executive agency that is awarded before the date of the enactment of this Act shall be modified to include the clause described in paragraph (2).
 
 >         “(2)  __Clause described__  __.—__ 
 
 >         The clause described in this paragraph is a clause that—
 
->             “(A) requires the contractor, or the recipient of the grant or cooperative agreement, to exercise due diligence to ensure that none of the funds received under the contract, grant, or cooperative agreement are provided directly or indirectly to a covered person or entity; and
+>             “(A) requires the contractor, or the recipient of the grant or cooperative agreement, to exercise due diligence to ensure that none of the funds, including goods and services, received under the contract, grant, or cooperative agreement are provided directly or indirectly to a covered person or entity; and
 
->             “(B) notifies the contractor, or the recipient of the grant or cooperative agreement, of the authority of the head of the contracting activity to terminate or void the contract, grant, or cooperative agreement, in whole or in part.
+>             “(B) notifies the contractor, or the recipient of the grant or cooperative agreement, of the authority of the head of contracting activity, or other appropriate official, to terminate or void the contract, grant, or cooperative agreement, in whole or in part, as provided in subsection (c).
 
->         “(3)  __Covered contract, grant, or cooperative agreement__  __.—__ 
+>         “(3)  __Treatment as void__  __.—__ 
 
->         In this subsection, the term ‘covered contract, grant, or cooperative agreement’ means a contract, grant, or cooperative agreement with an estimated value in excess of $50,000.
-
->         “(4)  __Treatment as void__  __.—__ 
-
->         For purposes of subsection (a)(4) and the exercise under subsection (a)(3) of the authorities in the Department of Defense Supplement to the Federal Acquisition Regulation pursuant to this subsection:
+>         For purposes of this section:
 
 >             “(A) A contract, grant, or cooperative agreement that is void is unenforceable as contrary to public policy.
 
 >             “(B) A contract, grant, or cooperative agreement that is void in part is unenforceable as contrary to public policy with regard to a segregable task or effort under the contract, grant, or cooperative agreement.
 
->     “(c)  __Requirements Following Contract Actions__  __.—__ 
+>         “(4)  __Public comment__  __.—__ 
 
->     Not later than 30 days after the date of the enactment of this Act \[Dec. 26, 2013\], the Department of Defense Supplement to the Federal Acquisition Regulation shall be revised as follows:
+>         The President shall ensure that the process for revising regulations required by paragraph (1) shall include an opportunity for public comment, including an opportunity for comment on standards of due diligence required by this section.
 
->         “(1) To require that any head of contracting activity taking an action pursuant to subsection (a)(3) or (a)(4) to terminate, void, or restrict a contract, grant, or cooperative agreement notify in writing the contractor or recipient of the grant or cooperative agreement, as applicable, of the action.
+>     “(e)  __Requirements Following Contract Actions__  __.—__ 
 
->         “(2) To permit, in such manner as the Department of Defense Supplement to the Federal Acquisition Regulation as so revised shall provide, the contractor or recipient of a grant or cooperative agreement subject to an action taken pursuant to subsection (a)(3) or (a)(4) to terminate or void the contract, grant, or cooperative agreement, as the case may be, an opportunity to challenge the action by requesting administrative review within 30 days after receipt of notice of the action.
+>     Not later than 270 days after the date of the enactment of this Act, the Federal Acquisition Regulation, the Defense Federal Acquisition Regulation Supplement, and the Uniform Administrative Requirements, Cost Principles, and Audit Requirements for Federal Awards shall be revised as follows:
 
->     “(d)  __Annual Review__  __.—__ 
+>         “(1) To require that any head of contracting activity, or other appropriate official, taking an action under subsection (c) to terminate, void, or restrict a contract, grant, or cooperative agreement notify in writing the contractor or recipient of the grant or cooperative agreement, as applicable, of the action.
 
->     The commanders of the covered combatant commands shall, on an annual basis, review the lists of persons and entities previously identified pursuant to subsection (a)(1) in order to determine whether or not such persons and entities continue to warrant identification pursuant to that subsection. If a commander determines pursuant to such a review that a person or entity no longer warrants identification pursuant to subsection (a)(1), the commander shall notify the heads of contracting activities of the Department of Defense in writing of such determination.
+>         “(2) To permit the contractor or recipient of a grant or cooperative agreement subject to an action taken under subsection (c) to terminate or void the contract, grant, or cooperative agreement, as the case may be, an opportunity to challenge the action by requesting an administrative review of the action under the procedures of the executive agency concerned not later than 30 days after receipt of notice of the action.
 
->     “(e)  __Protection of Classified Information__  __.—__ 
+>     “(f) __Annual Review; Protection of Classified Information.—__ 
 
->     Classified information relied upon to make an identification pursuant to subsection (a)(1) may not be disclosed to a contractor or a recipient of a grant or cooperative agreement with respect to which an action is taken pursuant to subsection (a)(3) or (a)(4) or to their representatives, in the absence of a protective order issued by a court of competent jurisdiction established under Article I or Article III of the Constitution of the United States that specifically addresses the conditions upon which such classified information may be so disclosed.
+>         “(1)  __Annual review__  __.—__ 
 
->     “(f) __Delegation.—__ 
+>         The Secretary of Defense, in conjunction with the Director of National Intelligence and in consultation with the Secretary of State shall, on an annual basis, review the lists of persons and entities previously covered by a notice under subsection (b) as having been identified as described by subsection (a) in order to determine whether or not such persons and entities continue to warrant identification as described by subsection (a). If a determination is made pursuant to such a review that a person or entity no longer warrants identification as described by subsection (a), the Secretary of Defense shall notify the head of the executive agency concerned (or the designee of such head) and the commander of the covered combatant command concerned (or the specified deputies of the commander) in writing of such determination.
 
->         “(1)  __Responsibilities relating to identification and review__  __.—__ 
+>         “(2)  __Protection of classified information__  __.—__ 
 
->         The commander of a covered combatant command may delegate the responsibilities in subsection (a)(3) to any deputies of the commander specified by the commander pursuant to that subsection. The commander may delegate any responsibilities under subsection (d) to the deputy commander of the combatant command. Any delegation of responsibilities under this paragraph shall be made in writing.
+>         Classified information relied upon to make an identification in accordance with subsection (a) may not be disclosed to a contractor or a recipient of a grant or cooperative agreement with respect to which an action is taken pursuant to the authority provided in subsection (c), or to their representatives, in the absence of a protective order issued by a court of competent jurisdiction established under Article I or Article III of the Constitution of the United States that specifically addresses the conditions upon which such classified information may be so disclosed.
 
->         “(2)  __Nondelegation of responsibility for contract actions__  __.—__ 
+>     “(g) __Delegation of Certain Responsibilities.—__ 
 
->         The authority provided by subsections (a)(3) and (a)(4) to terminate, void, or restrict contracts, grants, and cooperative agreements may not be delegated below the level of head of contracting activity.
+>         “(1)  __Combatant command responsibilities__  __.—__ 
 
->     “(g)  __Inclusion of Information on Contract Actions in FAPIIS__  __.—__ 
+>         The commander of a covered combatant command may delegate the responsibilities in this section to any deputies of the commander specified by the commander for purposes of this section. Any delegation of responsibilities under this paragraph shall be made in writing.
 
->     Upon the termination, voiding, or restriction of a contract, grant, or cooperative agreement pursuant to subsection (a)(3) or (a)(4), the head of contracting activity concerned shall provide for the inclusion in the Federal Awardee Performance and Integrity Information System (FAPIIS), or other formal system of records on contractors or entities, of appropriate information on the termination, voiding, or restriction of the contract, grant, or cooperative agreement.
+>         “(2)  __Nondelegation of responsibility for certain actions__  __.—__ 
 
->     “(h) __Reports.—__ 
+>         The authority provided by subsection (c) to terminate, void, or restrict contracts, grants, and cooperative agreements, in whole or in part, may not be delegated below the level of head of contracting activity, or equivalent official for purposes of grants or cooperative agreements.
+
+>     “(h) __Additional Responsibilities of Executive Agencies.—__ 
+
+>         “(1)  __Sharing of information on supporters of the enemy__  __.—__ 
+
+>         The Secretary of Defense shall, in consultation with the Director of the Office of Management and Budget, carry out a program through which agency components may provide information to heads of executive agencies (or the designees of such heads) and the commanders of the covered combatant commands (or the specified deputies of the commanders) relating to persons or entities who may be providing funds, including goods and services, received under contracts, grants, or cooperative agreements of the executive agencies directly or indirectly to a covered person or entity. The program shall be designed to facilitate and encourage the sharing of risk and threat information between executive agencies and the covered combatant commands.
+
+>         “(2)  __Inclusion of information on contract actions in fapiis and other systems__  __.—__ 
+
+>         Upon the termination, voiding, or restriction of a contract, grant, or cooperative agreement of an executive agency under subsection (c), the head of contracting activity of the executive agency shall provide for the inclusion in the Federal Awardee Performance and Integrity Information System (FAPIIS), or other formal system of records on contractors or entities, of appropriate information on the termination, voiding, or restriction, as the case may be, of the contract, grant, or cooperative agreement.
+
+>         “(3)  __Reports__  __.—__ 
+
+>         The head of contracting activity that receives a notice pursuant to subsection (b) shall submit to the head of the executive agency concerned (or the designee of such head) and the commander of the covered combatant command concerned (or specified deputies) a report on the action, if any, taken by the head of contracting activity pursuant to subsection (c), including a determination not to terminate, void, or restrict the contract, grant, or cooperative agreement as otherwise authorized by subsection (c).
+
+>     “(i) __Reports.—__ 
 
 >         “(1)  __In general__  __.—__ 
 
->         Not later than March 1 each year through 2019, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the use of the authorities in this section in the preceding calendar year, including the following:
+>         Not later than March 1 of 2016, 2017, and 2018, the Director of the Office of Management and Budget shall submit to the appropriate committees of Congress a report on the use of the authorities in this section in the preceding calendar year, including the following:
 
 >             “(A)
 
->              For each instance in which a contract, grant, or cooperative agreement was terminated or voided, or entry into contracts, grants, and cooperative agreements was restricted, pursuant to subsection (a)(3) or (a)(4), the following:
+>              For each instance in which an executive agency exercised the authority to terminate, void, or restrict a contract, grant, and cooperative agreement pursuant to subsection (c), based on a notification under subsection (b), the following:
 
->                 “(i) An explanation of the basis for the action taken.
+>                 “(i) The executive agency taking such action.
 
->                 “(ii) The value of the contract, grant, or cooperative agreement terminated or voided.
+>                 “(ii) An explanation of the basis for the action taken.
 
->                 “(iii) The value of all contracts, grants, or cooperative agreements of the Department of Defense in force with the person or entity concerned at the time the contract, grant, or cooperative agreement was terminated or voided.
+>                 “(iii) The value of the contract, grant, or cooperative agreement voided or terminated.
 
->                 “(iv) Information on how the goods or services covered by the terminated or voided contract, grant, or cooperative agreement were otherwise obtained by the commander of the combatant command concerned.
+>                 “(iv) The value of all contracts, grants, or cooperative agreements of the executive agency in force with the person or entity concerned at the time the contract, grant, or cooperative agreement was terminated or voided.
 
->             “(B) For each instance in which a contract, grant, or cooperative agreement of a person or entity identified pursuant to subsection (a)(1) was not terminated or voided pursuant to subsection (a)(3) or (a)(4), or the future award of contracts, grants, and cooperative agreements to such person or entity was not restricted pursuant to subsection (a)(3) or (a)(4), an explanation why such action was not taken.
+>             “(B)
+
+>              For each instance in which an executive agency did not exercise the authority to terminate, void, or restrict a contract, grant, and cooperative agreement pursuant to subsection (c), based on a notification under subsection (b), the following:
+
+>                 “(i) The executive agency concerned.
+
+>                 “(ii) An explanation of the basis for not taking the action.
 
 >         “(2)  __Form__  __.—__ 
 
+>         Any report under this subsection may, at the election of the Director—
+
+>             “(A) be submitted in unclassified form, but with a classified annex; or
+
+>             “(B) be submitted in classified form.
+
+>     “(j)  __Inapplicability to Certain Contracts, Grants, and Cooperative Agreements__  __.—__ 
+
+>     The provisions of this section do not apply to contracts, grants, and cooperative agreements that are performed entirely inside the United States.
+
+>     “(k)  __National Security Exception__  __.—__ 
+
+>     Nothing in this section shall apply to the authorized intelligence or law enforcement activities of the United States Government.
+
+>     “(l)  __Construction With Other Authorities__  __.—__ 
+
+>     Except as provided in subsection (m), the authorities in this section shall be in addition to, and not to the exclusion of, any other authorities available to executive agencies to implement policies and purposes similar to those set forth in this section.
+
+>     “(m)  __Coordination With Current Authorities__  __.—__ 
+
+>         “(1)  __Repeal of superseded authority related to centcom__  __.—__ 
+
+>         \[Repealed [section 841 of Pub. L. 112–81][/us/pl/112/81/s841], effective 270 days after Dec. 19, 2014. See below.\]
+
+>         “(2)  __Repeal of superseded authority related to department of defense__  __.—__ 
+
+>         \[Repealed [section 831 of Pub. L. 113–66][/us/pl/113/66/s831], effective 270 days after Dec. 19, 2014. See below.\]
+
+>         “(3)  __Use of superseded authorities in implementation of requirements__  __.—__ 
+
+>         In providing for the implementation of the requirements of this section by the Department of Defense, the Secretary of Defense may use and modify for that purpose the regulations and procedures established for purposes of the implementation of the requirements of section 841 of the National Defense Authorization Act for Fiscal Year 2012 \[[Pub. L. 112–81][/us/pl/112/81]\] and section 831 of the National Defense Authorization Act for Fiscal Year 2014 \[[Pub. L. 113–66][/us/pl/113/66]\].
+
+>     “(n)  __Sunset__  __.—__ 
+
+>     The provisions of this section shall cease to be effective on December 31, 2019.
+
+> “SEC. 842. __ADDITIONAL ACCESS TO RECORDS.__ 
+
+>     “(a) __Contracts, Grants, and Cooperative Agreements.—__ 
+
+>         “(1)  __In general__  __.—__ 
+
+>         Not later than 270 days after the date of the enactment of this Act \[Dec. 19, 2014\], applicable regulations shall be revised to provide that, except as provided under subsection (c)(1), the clause described in paragraph (2) may, as appropriate, be included in each covered contract, grant, and cooperative agreement of an executive agency that is awarded on or after the date of the enactment of this Act.
+
+>         “(2)  __Clause__  __.—__ 
+
+>         The clause described in this paragraph is a clause authorizing the head of the executive agency concerned, upon a written determination pursuant to paragraph (3), to examine any records of the contractor, the recipient of a grant or cooperative agreement, or any subcontractor or subgrantee under such contract, grant, or cooperative agreement to the extent necessary to ensure that funds, including goods and services, available under the contract, grant, or cooperative agreement are not provided directly or indirectly to a covered person or entity.
+
+>         “(3)  __Written determination__  __.—__ 
+
+>         The authority to examine records pursuant to the contract clause described in paragraph (2) may be exercised only upon a written determination by the contracting officer, or comparable official responsible for a grant or cooperative agreement, upon a finding by the commander of a covered combatant command (or the specified deputies of the commander) or the head of an executive agency (or the designee of such head) that there is reason to believe that funds, including goods and services, available under the contract, grant, or cooperative agreement concerned may have been provided directly or indirectly to a covered person or entity.
+
+>         “(4)  __Flowdown__  __.—__ 
+
+>         A clause described in paragraph (2) may also be included in any subcontract or subgrant under a covered contract, grant, or cooperative agreement if the subcontract or subgrant has an estimated value in excess of $50,000.
+
+>     “(b) __Reports.—__ 
+
+>         “(1)  __In general__  __.—__ 
+
+>         Not later than March 1 of 2016, 2017, and 2018, the Director of the Office of Management and Budget shall submit to the appropriate committees of Congress a report on the use of the authority provided by this section in the preceding calendar year.
+
+>         “(2)  __Elements__  __.—__ 
+
+>         Each report under this subsection shall identify, for the calendar year covered by such report, each instance in which an executive agency exercised the authority provided under this section to examine records, explain the basis for the action taken, and summarize the results of any examination of records so undertaken.
+
+>         “(3)  __Form__  __.—__ 
+
 >         Any report under this subsection may be submitted in classified form.
 
->     “(i)  __Other Definitions__  __.—__ 
+>     “(c) __Relationship to Existing Authorities Applicable to CENTCOM.—__ 
 
->     In this section:
+>         “(1)  __Applicability__  __.—__ 
 
->         “(1) The term ‘covered combatant command’ means United States Central Command, United States European Command, United States Africa Command, United States Southern Command, or United States Pacific Command.
+>         This section shall not apply to contracts, grants, or cooperative agreements covered under section 842 of the National Defense Authorization Act for Fiscal Year 2012 ([Public Law 112–81][/us/pl/112/81]; [125 Stat. 1513][/us/stat/125/1513]; [10 U.S.C. 2313][/us/usc/t10/s2313] note).
 
->         “(2) The term ‘head of contracting activity’ has the meaning given that term in subpart 601 of part 1 of the Federal Acquisition Regulation.
+>         “(2)  __Extension of current authorities applicable to centcom__  __.—__ 
 
->         “(3) The term ‘covered person or entity’ means a person or entity that is actively opposing United States or coalition forces involved in a contingency operation in which members of the armed forces are actively engaged in hostilities.
+>         \[Amended [section 842(d)(1) of Pub. L. 112–81][/us/pl/112/81/s842/d/1], set out as a note under [section 2313 of this title][/us/usc/t10/s2313]\]
 
->     “(j)  __Sunset__  __.—__ 
+> “SEC. 843. __DEFINITIONS.__ 
 
->     The provisions of this section shall cease to be effective on December 31, 2018.”
+> “In this subtitle:
+
+>     “(1)  __Appropriate committees of congress__  __.—__ 
+
+>     The term ‘appropriate committees of Congress’ means—
+
+>         “(A) the Committee on Armed Services, the Committee on Homeland Security and Governmental Affairs, the Committee on Foreign Relations, and the Committee on Appropriations of the Senate; and
+
+>         “(B) the Committee on Armed Services, the Committee on Oversight and Government Reform, the Committee on Foreign Affairs, and the Committee on Appropriations of the House of Representatives.
+
+>     “(2)  __Contingency operation__  __.—__ 
+
+>     The term ‘contingency operation’ has the meaning given that term in [section 101(a)(13) of title 10][/us/usc/t10/s101/a/13], United States Code.
+
+>     “(3)  __Contract__  __.—__ 
+
+>     The term ‘contract’ includes a contract for commercial items but is not limited to a contract for commercial items.
+
+>     “(4)  __Covered combatant command__  __.—__ 
+
+>     The term ‘covered combatant command’ means the following:
+
+>         “(A) The United States Africa Command.
+
+>         “(B) The United States Central Command.
+
+>         “(C) The United States European Command.
+
+>         “(D) The United States Pacific Command.
+
+>         “(E) The United States Southern Command.
+
+>         “(F) The United States Transportation Command.
+
+>     “(5)  __Covered contract, grant, or cooperative agreement defined__  __.—__ 
+
+>     The term ‘covered contract, grant, or cooperative agreement’ means a contract, grant, or cooperative agreement with an estimated value in excess of $50,000 that is performed outside the United States, including its possessions and territories, in support of a contingency operation in which members of the Armed Forces are actively engaged in hostilities.
+
+>     “(6)  __Covered person or entity__  __.—__ 
+
+>     The term ‘covered person or entity’ means a person or entity that is actively opposing United States or coalition forces involved in a contingency operation in which members of the Armed Forces are actively engaged in hostilities.
+
+>     “(7)  __Executive agency__  __.—__ 
+
+>     The term ‘executive agency’ has the meaning given that term in [section 133 of title 41][/us/usc/t41/s133], United States Code.
+
+>     “(8)  __Head of contracting activity__  __.—__ 
+
+>     The term ‘head of contracting activity’ has the meaning described in section 1.601 of the Federal Acquisition Regulation.
+
+>     “(9)  __Uniform administrative requirements, cost principles, and audit requirements for federal awards__  __.—__ 
+
+>     The term ‘Uniform Administrative Requirements, Cost Principles, and Audit Requirements for Federal Awards’ means the guidance issued by the Office of Management and Budget in part 200 of chapter II of title 2 of the Code of Federal Regulations.”
+
+    [Pub. L. 113–66, div. A, title VIII, § 831][/us/pl/113/66/s831], Dec. 26, 2013, [127 Stat. 810][/us/stat/127/810], related to prohibition on contracting with the enemy, prior to repeal by [Pub. L. 113–291, div. A, title VIII, § 841(m)(2)][/us/pl/113/291/s841/m/2], Dec. 19, 2014, [128 Stat. 3454][/us/stat/128/3454], effective 270 days after Dec. 19, 2014.
+
+    [Pub. L. 112–81, div. A, title VIII, § 841][/us/pl/112/81/s841], Dec. 31, 2011, [125 Stat. 1510][/us/stat/125/1510], related to prohibition on contracting with the enemy in the United States Central Command theater of operations, prior to repeal by [Pub. L. 113–291, div. A, title VIII, § 841(m)(1)][/us/pl/113/291/s841/m/1], Dec. 19, 2014, [128 Stat. 3454][/us/stat/128/3454], effective 270 days after Dec. 19, 2014.
+
+ __Rapid Acquisition and Deployment Procedures for United States Special Operations Command__ 
+
+[Pub. L. 113–291, div. A, title VIII, § 851][/us/pl/113/291/s851], Dec. 19, 2014, [128 Stat. 3457][/us/stat/128/3457], provided that:
+
+>     “(a)  __Authority to Establish Procedures__  __.—__ 
+
+>     The Secretary may prescribe procedures for the rapid acquisition and deployment of items for the United States Special Operations Command that are currently under development by the Department of Defense or available from the commercial sector and are—
+
+>         “(1) urgently needed to react to an enemy threat or to respond to significant and urgent safety situations;
+
+>         “(2) needed to avoid significant risk of loss of life or mission failure; or
+
+>         “(3) needed to avoid collateral damage risk where the absence of collateral damage is a requirement for mission success.
+
+>     “(b)  __Issues to Be Addressed__  __.—__ 
+
+>     The procedures prescribed under subsection (a) shall include the following:
+
+>         “(1)
+
+>          A process for streamlined communication between the Commander of the United States Special Operations Command and the acquisition and research and development communities, including—
+
+>             “(A) a process for the Commander to communicate needs to the acquisition community and the research and development community; and
+
+>             “(B) a process for the acquisition community and the research and development community to propose items that meet the needs communicated by the Commander.
+
+>         “(2)
+
+>          Procedures for demonstrating, rapidly acquiring, and deploying items proposed pursuant to paragraph (1)(B), including—
+
+>             “(A) a process for demonstrating performance and evaluating for current operational purposes the existing capability of an item;
+
+>             “(B) a process for developing an acquisition and funding strategy for the deployment of an item; and
+
+>             “(C) a process for making deployment determinations based on information obtained pursuant to subparagraphs (A) and (B).
+
+>     “(c) __Testing Requirement.—__ 
+
+>         “(1)  __In general__  __.—__ 
+
+>         The process for demonstrating performance and evaluating for current operational purposes the existing capability of an item prescribed under subsection (b)(2)(A) shall include—
+
+>             “(A) an operational assessment in accordance with expedited procedures prescribed by the Director of Operational Testing and Evaluation; and
+
+>             “(B) a requirement to provide information to the deployment decision-making authority about any deficiency of the item in meeting the original requirements for the item (as stated in an operational requirements document or similar document).
+
+>         “(2)  __Deficiency not a determining factor__  __.—__ 
+
+>         The process may not include a requirement for any deficiency of an item to be the determining factor in deciding whether to deploy the item.
+
+>         “(3)  __Additional requirement in case of deficiency__  __.—__ 
+
+>         In the case of any deficiency of an item, a decision to deploy the item may be made only if the Commander of the United States Special Operations Command determines that, for reasons of national security, the deficiency of the item is acceptable.
+
+>     “(d)  __Limitation__  __.—__ 
+
+>     The quantity of items of a system procured using the procedures prescribed pursuant to this section may not exceed the number established for low-rate initial production for the system. Any such items shall be counted for purposes of the number of items of the system that may be procured through low-rate initial production.
+
+>     “(e)  __Annual Funding Limitation__  __.—__ 
+
+>     Of the funds available to the Commander of the United States Special Operations Command in any given fiscal year, not more than $50,000,000 may be used to procure items under this section.
+
+>     “(f)  __Relationship to Other Rapid Acquisition Authority__  __.—__ 
+
+>     The Commander of the United States Special Operations Command may not use the authority under this section at the same time the Commander uses the authority under section 806 of the Bob Stump National Defense Authorization Act for Fiscal Year 2003 ([Public Law 107–314][/us/pl/107/314]; [10 U.S.C. 2302][/us/usc/t10/s2302] note).
+
+>     “(g) __Congressional Notifications.—__ 
+
+>         “(1)  __Notification before procedures go into effect__  __.—__ 
+
+>         The Secretary of Defense shall notify the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] at least 30 days before the procedures prescribed pursuant to this section are made effective.
+
+>         “(2)  __Notification after use of procedures__  __.—__ 
+
+>         The Secretary of Defense shall notify the congressional defense committees not later than 48 hours after each use of the procedures prescribed pursuant to this section.”
+
+ __Consideration of Corrosion Control in Preliminary Design Review__ 
+
+[Pub. L. 113–291, div. A, title VIII, § 852][/us/pl/113/291/s852], Dec. 19, 2014, [128 Stat. 3458][/us/stat/128/3458], provided that: 
+
+> “The Under Secretary of Defense for Acquisition, Technology, and Logistics shall ensure that Department of Defense Instruction 5000.02 and other applicable guidance require full consideration, during preliminary design review for a product, of metals, materials, and technologies that effectively prevent or control corrosion over the life cycle of the product.”
 
  __Equipment Disposal__ 
 
-[Pub. L. 113–66, div. A, title XV, § 1531(d)][/us/pl/113/66/s1531/d], Dec. 26, 2013, [127 Stat. 938][/us/stat/127/938], provided that:
+[Pub. L. 113–66, div. A, title XV, § 1531(d)][/us/pl/113/66/s1531/d], Dec. 26, 2013, [127 Stat. 938][/us/stat/127/938], as amended by [Pub. L. 113–291, div. A, title XV, § 1532(d)][/us/pl/113/291/s1532/d], Dec. 19, 2014, [128 Stat. 3614][/us/stat/128/3614], provided that:
 
 >     “(1)  __Acceptance of certain equipment__  __.—__ 
 
->     The Secretary of Defense may accept equipment procured using funds authorized under prior Acts that was transferred to the security forces of Afghanistan and returned by such forces to the United States if the Secretary provides written notification to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] of the Secretary’s intention to accept such equipment.
+>     The Secretary of Defense may accept equipment procured using funds authorized under this Act \[see Tables for classification\] or prior Acts that was transferred to the security forces of Afghanistan and returned by such forces to the United States if the Secretary provides written notification to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] of the Secretary’s intention to accept such equipment.
 
 >     “(2)  __Treatment as department of defense stocks__  __.—__ 
 
->     The equipment described in paragraph (1), and equipment not yet transferred to the security forces of Afghanistan that is determined by the Commander, Combined Security Transition Command-Afghanistan (or the Commander’s designee) to no longer be required for transfer to such forces, may be treated as stocks of the Department of Defense upon notification to the congressional defense committees of such treatment.
-
->     “(3) __Reports.—__ 
-
->         “(A)  __Initial report__  __.—__ 
-
->         Not later than 60 days after the date of the enactment of this Act \[Dec. 26, 2013\], the Secretary of Defense shall submit to the congressional defense committees a report that details all equipment that was transferred to the security forces of Afghanistan and returned by such forces to the United States, including type of equipment and reason for its return.
-
->         “(B)  __Subsequent reports__  __.—__ 
-
->         Not later than 30 days after the end of the first two fiscal year quarters of fiscal year 2014, and not later than 30 days after the end of each fiscal half-year thereafter, the Secretary shall submit to the congressional defense committees a report on the equipment accepted under paragraph (1) during such fiscal year quarter or half-year, as the case may be. Each report shall include, for the period covered by such report, a list of all equipment accepted under paragraph (1) that was treated as the stocks of the Department pursuant to paragraph (2).”
+>     The equipment described in paragraph (1), and equipment not yet transferred to the security forces of Afghanistan that is determined by the Commander, Combined Security Transition Command-Afghanistan (or the Commander’s designee) to no longer be required for transfer to such forces, may be treated as stocks of the Department of Defense upon notification to the congressional defense committees of such treatment.”
 
  __Department of Defense Policy on Contractor Profits__ 
 
@@ -791,7 +1009,7 @@ Source (Statutes at Large)  </td>
 
  __Detection and Avoidance of Counterfeit Electronic Parts__ 
 
-[Pub. L. 112–81, div. A, title VIII, § 818(a)][/us/pl/112/81/s818/a]–(g), Dec. 31, 2011, [125 Stat. 1493–1496][/us/stat/125/1493-1496], as amended by [Pub. L. 112–239, div. A, title VIII, § 833][/us/pl/112/239/s833], Jan. 2, 2013, [126 Stat. 1844][/us/stat/126/1844], provided that:
+[Pub. L. 112–81, div. A, title VIII, § 818(a)][/us/pl/112/81/s818/a]–(g), Dec. 31, 2011, [125 Stat. 1493–1496][/us/stat/125/1493-1496], as amended by [Pub. L. 112–239, div. A, title VIII, § 833][/us/pl/112/239/s833], Jan. 2, 2013, [126 Stat. 1844][/us/stat/126/1844]; [Pub. L. 113–291, div. A, title VIII, § 817][/us/pl/113/291/s817], Dec. 19, 2014, [128 Stat. 3432][/us/stat/128/3432], provided that:
 
 >     “(a)  __Assessment of Department of Defense Policies and Systems__  __.—__ 
 
@@ -839,15 +1057,17 @@ Source (Statutes at Large)  </td>
 
 >             “(A)
 
->              require that, whenever possible, the Department and Department contractors and subcontractors at all tiers—
+>              require that the Department and Department contractors and subcontractors at all tiers—
 
->                 “(i) obtain electronic parts that are in production or currently available in stock from the original manufacturers of the parts or their authorized dealers, or from trusted suppliers who obtain such parts exclusively from the original manufacturers of the parts or their authorized dealers; and
+>                 “(i) obtain electronic parts that are in production or currently available in stock from the original manufacturers of the parts or their authorized dealers, or from suppliers identified as trusted suppliers in accordance with regulations issued pursuant to subparagraph (C) or (D) who obtain such parts exclusively from the original manufacturers of the parts or their authorized dealers;
 
->                 “(ii) obtain electronic parts that are not in production or currently available in stock from trusted suppliers;
+>                 “(ii) obtain electronic parts that are not in production or currently available in stock from suppliers identified as trusted suppliers in accordance with regulations issued pursuant to subparagraph (C) or (D); and
 
->             “(B) establish requirements for notification of the Department, and inspection, testing, and authentication of electronic parts that the Department or a Department contractor or subcontractor obtains from any source other than a source described in subparagraph (A);
+>                 “(iii) obtain electronic parts from alternate suppliers if such parts are not available from original manufacturers, their authorized dealers, or suppliers identified as trusted suppliers in accordance with regulations prescribed pursuant to subparagraph (C) or (D);
 
->             “(C) establish qualification requirements, consistent with the requirements of [section 2319 of title 10][/us/usc/t10/s2319], United States Code, pursuant to which the Department may identify trusted suppliers that have appropriate policies and procedures in place to detect and avoid counterfeit electronic parts and suspect counterfeit electronic parts; and
+>             “(B) establish requirements for notification of the Department, and for inspection, testing, and authentication of electronic parts that the Department or a Department contractor or subcontractor obtains from any source other than a source described in clause (i) or (ii) of subparagraph (A), if obtaining the electronic parts in accordance with such clauses is not possible;
+
+>             “(C) establish qualification requirements, consistent with the requirements of [section 2319 of title 10][/us/usc/t10/s2319], United States Code, pursuant to which the Department may identify as trusted suppliers those that have appropriate policies and procedures in place to detect and avoid counterfeit electronic parts and suspect counterfeit electronic parts; and
 
 >             “(D)
 
@@ -926,88 +1146,6 @@ Source (Statutes at Large)  </td>
 >         “(3)  __Lanham act defined__  __.—__ 
 
 >         In this subsection, the term ‘Lanham Act’ means the Act entitled ‘An Act to provide for the registration and protection of trademarks used in commerce, to carry out the provisions of certain international conventions, and for other purposes’, approved July 5, 1946 (commonly referred to as the ‘Trademark Act of 1946’ or the ‘Lanham Act’) \[[15 U.S.C. 1051][/us/usc/t15/s1051] et seq.\].”
-
- __Prohibition on Contracting With the Enemy in the United States Central Command Theater of Operations__ 
-
-[Pub. L. 112–81, div. A, title VIII, § 841][/us/pl/112/81/s841], Dec. 31, 2011, [125 Stat. 1510][/us/stat/125/1510], provided that:
-
->     “(a) __Prohibition.—__ 
-
->         “(1)  __In general__  __.—__ 
-
->         Not later than 30 days after the date of the enactment of this Act \[Dec. 31, 2011\], the Secretary of Defense shall revise the Department of Defense Supplement to the Federal Acquisition Regulation to authorize the head of a contracting activity, pursuant to a request from the Commander of the United States Central Command under subsection (c)(2)—
-
->             “(A) to restrict the award of Department of Defense contracts, grants, or cooperative agreements that the head of the contracting activity determines in writing would provide funding directly or indirectly to a person or entity that has been identified by the Commander of the United States Central Command as actively supporting an insurgency or otherwise actively opposing United States or coalition forces in a contingency operation in the United States Central Command theater of operations;
-
->             “(B) to terminate for default any Department contract, grant, or cooperative agreement upon a written determination by the head of the contracting activity that the contractor, or the recipient of the grant or cooperative agreement, has failed to exercise due diligence to ensure that none of the funds received under the contract, grant, or cooperative agreement are provided directly or indirectly to a person or entity who is actively supporting an insurgency or otherwise actively opposing United States or coalition forces in a contingency operation in the United States Central Command theater of operations; or
-
->             “(C) to void in whole or in part any Department contract, grant, or cooperative agreement upon a written determination by the head of the contracting activity that the contract, grant, or cooperative agreement provides funding directly or indirectly to a person or entity that has been identified by the Commander of the United States Central Command as actively supporting an insurgency or otherwise actively opposing United States or coalition forces in a contingency operation in the United States Central Command theater of operations.
-
->         “(2)  __Treatment as void__  __.—__ 
-
->         For purposes of this section:
-
->             “(A) A contract, grant, or cooperative agreement that is void is unenforceable as contrary to public policy.
-
->             “(B) A contract, grant, or cooperative agreement that is void in part is unenforceable as contrary to public policy with regard to a segregable task or effort under the contract, grant, or cooperative agreement.
-
->     “(b) __Contract Clause.—__ 
-
->         “(1)  __In general__  __.—__ 
-
->         Not later than 30 days after the date of the enactment of this Act \[Dec. 31, 2011\], the Secretary shall revise the Department of Defense Supplement to the Federal Acquisition Regulation to require that—
-
->             “(A) the clause described in paragraph (2) shall be included in each covered contract, grant, and cooperative agreement of the Department that is awarded on or after the date of the enactment of this Act; and
-
->             “(B) to the maximum extent practicable, each covered contract, grant, and cooperative agreement of the Department that is awarded before the date of the enactment of this Act shall be modified to include the clause described in paragraph (2).
-
->         “(2)  __Clause described__  __.—__ 
-
->         The clause described in this paragraph is a clause that—
-
->             “(A) requires the contractor, or the recipient of the grant or cooperative agreement, to exercise due diligence to ensure that none of the funds received under the contract, grant, or cooperative agreement are provided directly or indirectly to a person or entity who is actively supporting an insurgency or otherwise actively opposing United States or coalition forces in a contingency operation; and
-
->             “(B) notifies the contractor, or the recipient of the grant or cooperative agreement, of the authority of the head of the contracting activity to terminate or void the contract, grant, or cooperative agreement, in whole or in part, as provided in subsection (a).
-
->         “(3)  __Covered contract, grant, or cooperative agreement__  __.—__ 
-
->         In this subsection, the term ‘covered contract, grant, or cooperative agreement’ means a contract, grant, or cooperative agreement with an estimated value in excess of $100,000 that will be performed in the United States Central Command theater of operations.
-
->     “(c) __Identification of Contracts With Supporters of the Enemy.—__ 
-
->         “(1)  __In general__  __.—__ 
-
->         Not later than 30 days after the date of the enactment of this Act \[Dec. 31, 2011\], the Secretary, acting through the Commander of the United States Central Command, shall establish a program to use available intelligence to review persons and entities who receive United States funds through contracts, grants, and cooperative agreements performed in the United States Central Command theater of operations and identify any such persons and entities who are actively supporting an insurgency or otherwise actively opposing United States or coalition forces in a contingency operation.
-
->         “(2)  __Notice to contracting activities__  __.—__ 
-
->         If the Commander of the United States Central Command, acting pursuant to the program required by paragraph (1), identifies a person or entity as actively supporting an insurgency or otherwise actively opposing United States or coalition forces in a contingency operation, the Commander may notify the head of a contracting activity in writing of such identification and request that the head of the contracting activity exercise the authority provided in subsection (a) with regard to any contracts, grants, or cooperative agreements that provide funding directly or indirectly to the person or entity.
-
->         “(3)  __Protection of classified information__  __.—__ 
-
->         Classified information relied upon by the Commander of the United States Central Command to make an identification in accordance with this subsection may not be disclosed to a contractor or a recipient of a grant or cooperative agreement with respect to which an action is taken pursuant to the authority provided in subsection (a), or to their representatives, in the absence of a protective order issued by a court of competent jurisdiction established under Article III of the Constitution of the United States that specifically addresses the conditions upon which such classified information may be so disclosed.
-
->     “(d) __Nondelegation of Responsibilities.—__ 
-
->         “(1)  __Contract actions__  __.—__ 
-
->         The authority provided by subsection (a) to restrict, terminate, or void contracts, grants, and cooperative agreements may not be delegated below the level of the head of a contracting activity.
-
->         “(2)  __Identification of support of enemy__  __.—__ 
-
->         The authority to make an identification under subsection (c)(1) may not be delegated below the level of the Commander of the United States Central Command.
-
->     “(e)  __Reports__  __.—__ 
-
->     Not later than March 1 of each of 2013, 2014, and 2015, the Secretary shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the use of the authority provided by this section in the preceding calendar year. Each report shall identify, for the calendar year covered by such report, each instance in which the Department of Defense exercised the authority to restrict, terminate, or void contracts, grants, and cooperative agreements pursuant to subsection (a) and explain the basis for the action taken. Any report under this subsection may be submitted in classified form.
-
->     “(f)  __Other Definition__  __.—__ 
-
->     In this section, the term ‘contingency operation’ has the meaning given that term in [section 101(a)(13) of title 10][/us/usc/t10/s101/a/13], United States Code.
-
->     “(g)  __Sunset__  __.—__ 
-
->     The authority to restrict, terminate, or void contracts, grants, and cooperative agreements pursuant to subsection (a) shall cease to be effective on the date that is three years after the date of the enactment of this Act \[Dec. 31, 2011\].”
 
  __Reach-Back Contracting Authority for Operation Enduring Freedom and Operation New Dawn__ 
 
@@ -1235,7 +1373,7 @@ Source (Statutes at Large)  </td>
 
  __Pilot Program on Acquisition of Military Purpose Nondevelopmental Items__ 
 
-[Pub. L. 111–383, div. A, title VIII, § 866(a)][/us/pl/111/383/s866/a]–(f), Jan. 7, 2011, [124 Stat. 4296–4298][/us/stat/124/4296-4298], as amended by [Pub. L. 113–66, div. A, title VIII, § 814][/us/pl/113/66/s814], Dec. 26, 2013, [127 Stat. 808][/us/stat/127/808], provided that:
+[Pub. L. 111–383, div. A, title VIII, § 866(a)][/us/pl/111/383/s866/a]–(f), Jan. 7, 2011, [124 Stat. 4296–4298][/us/stat/124/4296-4298], as amended by [Pub. L. 113–66, div. A, title VIII, § 814][/us/pl/113/66/s814], Dec. 26, 2013, [127 Stat. 808][/us/stat/127/808]; [Pub. L. 113–291, div. A, title X, § 1071(b)(1)(B)][/us/pl/113/291/s1071/b/1/B], Dec. 19, 2014, [128 Stat. 3505][/us/stat/128/3505], provided that:
 
 >     “(a) __Pilot Program Authorized.—__ 
 
@@ -1267,7 +1405,7 @@ Source (Statutes at Large)  </td>
 
 >          shall be—
 
->             “(A) exempt from the requirement to submit certified cost or pricing data under [section 2306a of title 10][/us/usc/t10/s2306a], United States Code, and the cost accounting standards under section 26 of the Office of Federal Procurement Policy Act (\[former\] [41 U.S.C. 422][/us/usc/t41/s422]) \[now [41 U.S.C. 1501][/us/usc/t41/s1501] et seq.\]; and
+>             “(A) exempt from the requirement to submit certified cost or pricing data under [section 2306a of title 10][/us/usc/t10/s2306a], United States Code, and the cost accounting standards under chapter 15 of title 41, United States Code; and
 
 >             “(B) subject to the requirement to provide data other than certified cost or pricing data for the purpose of price reasonableness determinations, as provided in [section 2306a(d) of title 10][/us/usc/t10/s2306a/d], United States Code.
 
@@ -1317,7 +1455,7 @@ Source (Statutes at Large)  </td>
 
 >          The term ‘nondevelopmental item’—
 
->             “(A) has the meaning given that term in section 4(13) of the Office of Federal Procurement Policy Act (\[former\] [41 U.S.C. 403(13)][/us/usc/t41/s403/13]) \[see [41 U.S.C. 110][/us/usc/t41/s110]\]; and
+>             “(A) has the meaning given that term in [section 110 of title 41][/us/usc/t41/s110], United States Code; and
 
 >             “(B) also includes previously developed items of supply that require modifications other than those customarily available in the commercial marketplace if such modifications are consistent with the requirement in subsection (b)(3)(A).
 
@@ -1337,7 +1475,7 @@ Source (Statutes at Large)  </td>
 
  __Contractor Business Systems__ 
 
-[Pub. L. 111–383, div. A, title VIII, § 893][/us/pl/111/383/s893], Jan. 7, 2011, [124 Stat. 4311][/us/stat/124/4311], as amended by [Pub. L. 112–81, div. A, title VIII, § 816][/us/pl/112/81/s816], Dec. 31, 2011, [125 Stat. 1493][/us/stat/125/1493], provided that:
+[Pub. L. 111–383, div. A, title VIII, § 893][/us/pl/111/383/s893], Jan. 7, 2011, [124 Stat. 4311][/us/stat/124/4311], as amended by [Pub. L. 112–81, div. A, title VIII, § 816][/us/pl/112/81/s816], Dec. 31, 2011, [125 Stat. 1493][/us/stat/125/1493]; [Pub. L. 113–291, div. A, title X, § 1071(b)(1)(C)][/us/pl/113/291/s1071/b/1/C], Dec. 19, 2014, [128 Stat. 3505][/us/stat/128/3505], provided that:
 
 >     “(a)  __Improvement Program__  __.—__ 
 
@@ -1387,7 +1525,7 @@ Source (Statutes at Large)  </td>
 
 >         “(1) The term ‘contractor business system’ means an accounting system, estimating system, purchasing system, earned value management system, material management and accounting system, or property management system of a contractor.
 
->         “(2) The term ‘covered contractor’ means a contractor that is subject to the cost accounting standards under section 26 of the Office of Federal Procurement Policy Act (\[former\] [41 U.S.C. 422][/us/usc/t41/s422]) \[now [41 U.S.C. 1501][/us/usc/t41/s1501] et seq.\].
+>         “(2) The term ‘covered contractor’ means a contractor that is subject to the cost accounting standards under chapter 15 of title 41, United States Code.
 
 >         “(3) The term ‘covered contract’ means a contract that is subject to the cost accounting standards promulgated pursuant to [section 1502 of title 41][/us/usc/t41/s1502], United States Code, that could be affected if the data produced by a contractor business system has a significant deficiency.
 
@@ -1413,15 +1551,15 @@ Source (Statutes at Large)  </td>
 
  __Contract Authority for Advanced Component Development or Prototype Units__ 
 
-[Pub. L. 111–84, div. A, title VIII, § 819][/us/pl/111/84/s819], Oct. 28, 2009, [123 Stat. 2409][/us/stat/123/2409], provided that:
+[Pub. L. 111–84, div. A, title VIII, § 819][/us/pl/111/84/s819], Oct. 28, 2009, [123 Stat. 2409][/us/stat/123/2409], as amended by [Pub. L. 113–291, div. A, title VIII, § 811][/us/pl/113/291/s811], Dec. 19, 2014, [128 Stat. 3428][/us/stat/128/3428], provided that:
 
 >     “(a)  __Authority__  __.—__ 
 
 >     A contract initially awarded from the competitive selection of a proposal resulting from a general solicitation referred to in [section 2302(2)(B) of title 10][/us/usc/t10/s2302/2/B], United States Code, may contain a contract line item or contract option for—
 
->         “(1) the provision of advanced component development or prototype of technology developed under the contract; or
+>         “(1) the provision of advanced component development, prototype, or initial production of technology developed under the contract; or
 
->         “(2) the delivery of initial or additional prototype items if the item or a prototype thereof is created as the result of work performed under the contract.
+>         “(2) the delivery of initial or additional items if the item or a prototype thereof is created as the result of work performed under the contract.
 
 >     “(b) __Limitations.—__ 
 
@@ -1441,9 +1579,13 @@ Source (Statutes at Large)  </td>
 
 >             “(B) $20,000,000.
 
->         “(4)  __Termination of authority__  __.—__ 
+>         “(4)  __Applicability__  __.—__ 
 
->         A military department or defense agency may not exercise a contract line item or contract option pursuant to the authority provided in subsection (a) after September 30, 2014.
+>         The authority provided in subsection (a) applies only to the Secretary of Defense, the Secretary of the Army, the Secretary of the Navy, and the Secretary of the Air Force.
+
+>         “(5)  __Termination of authority__  __.—__ 
+
+>         A military department or defense agency may not exercise a contract line item or contract option pursuant to the authority provided in subsection (a) after September 30, 2019.
 
 >     “(c)  __Report__  __.—__ 
 
@@ -1849,7 +1991,7 @@ Source (Statutes at Large)  </td>
 
 > “Beginning not later than 270 days after the date of the enactment of this Act \[Oct. 14, 2008\], the Secretary of Defense shall make publicly available a numerical accounting of alleged offenses described in [section 861(b)(6) of Public Law 110–181][/us/pl/110/181/s861/b/6] \[set out below\] that have been reported under that section that occurred after the date of the enactment of this Act. The information shall be updated no less frequently than semi-annually.”
 
-[Pub. L. 110–181, div. A, title VIII][/us/pl/110/181], subtitle F, Jan. 28, 2008, [122 Stat. 253][/us/stat/122/253], as amended by [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title VIII, §§ 853, 854(a), (d), Oct. 14, 2008, [122 Stat. 4544][/us/stat/122/4544], 4545; [Pub. L. 111–84, div. A, title VIII, § 813(a)][/us/pl/111/84/s813/a]–(c), Oct. 28, 2009, [123 Stat. 2406][/us/stat/123/2406], 2407; [Pub. L. 111–383, div. A, title VIII][/us/pl/111/383], §§ 831(a), 832(a), (c), 835, title X, § 1075(d)(9), Jan. 7, 2011, [124 Stat. 4273][/us/stat/124/4273], 4275, 4276, 4279, 4373; [Pub. L. 112–81, div. A, title VIII, § 844(c)][/us/pl/112/81/s844/c], Dec. 31, 2011, [125 Stat. 1515][/us/stat/125/1515]; [Pub. L. 112–239, div. A, title VIII, § 847][/us/pl/112/239/s847], Jan. 2, 2013, [126 Stat. 1850][/us/stat/126/1850], provided that:
+[Pub. L. 110–181, div. A, title VIII][/us/pl/110/181], subtitle F, Jan. 28, 2008, [122 Stat. 253][/us/stat/122/253], as amended by [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title VIII, §§ 853, 854(a), (d), Oct. 14, 2008, [122 Stat. 4544][/us/stat/122/4544], 4545; [Pub. L. 111–84, div. A, title VIII, § 813(a)][/us/pl/111/84/s813/a]–(c), Oct. 28, 2009, [123 Stat. 2406][/us/stat/123/2406], 2407; [Pub. L. 111–383, div. A, title VIII][/us/pl/111/383], §§ 831(a), 832(a), (c), 835, title X, § 1075(d)(9), Jan. 7, 2011, [124 Stat. 4273][/us/stat/124/4273], 4275, 4276, 4279, 4373; [Pub. L. 112–81, div. A, title VIII, § 844(c)][/us/pl/112/81/s844/c], Dec. 31, 2011, [125 Stat. 1515][/us/stat/125/1515]; [Pub. L. 112–239, div. A, title VIII, § 847][/us/pl/112/239/s847], Jan. 2, 2013, [126 Stat. 1850][/us/stat/126/1850]; [Pub. L. 113–291, div. A, title X, § 1071(b)(2)(D)][/us/pl/113/291/s1071/b/2/D], Dec. 19, 2014, [128 Stat. 3506][/us/stat/128/3506], provided that:
 
 > “SEC. 861. __MEMORANDUM OF UNDERSTANDING ON MATTERS RELATING TO CONTRACTING.__ 
 
@@ -1993,7 +2135,7 @@ Source (Statutes at Large)  </td>
 
 >         “(1)  __Requirement under far__  __.—__ 
 
->         Not later than 180 days after the date of the enactment of this Act \[Jan. 28, 2008\], the Federal Acquisition Regulation issued in accordance with section 25 of the Office of Federal Procurement Policy Act (\[former\] [41 U.S.C. 421][/us/usc/t41/s421]) \[see [41 U.S.C. 1303][/us/usc/t41/s1303]\] shall be revised to require the insertion into each covered contract (or, in the case of a task order, the contract under which the task order is issued) of a contract clause addressing the selection, training, equipping, and conduct of personnel performing private security functions under such contract.
+>         Not later than 180 days after the date of the enactment of this Act \[Jan. 28, 2008\], the Federal Acquisition Regulation issued in accordance with [section 1303 of title 41][/us/usc/t41/s1303], United States Code\[,\] shall be revised to require the insertion into each covered contract (or, in the case of a task order, the contract under which the task order is issued) of a contract clause addressing the selection, training, equipping, and conduct of personnel performing private security functions under such contract.
 
 >         “(2)  __Clause requirement__  __.—__ 
 
@@ -2069,7 +2211,7 @@ Source (Statutes at Large)  </td>
 
 >     The failure of a contractor under a covered contract to comply with the requirements of the regulations prescribed under subsection (a) or the contract clause inserted in a covered contract pursuant to subsection (b), as determined by the contracting officer for the covered contract—
 
->         “(1) shall be included in appropriate databases of past performance and considered in any responsibility determination or evaluation of the past performance of the contractor for the purpose of a contract award decision, as provided in section 6(j) of the Office of Federal Procurement Policy Act (\[former\] [41 U.S.C. 405(j)][/us/usc/t41/s405/j] \[now [41 U.S.C. 1126][/us/usc/t41/s1126]\]);
+>         “(1) shall be included in appropriate databases of past performance and considered in any responsibility determination or evaluation of the past performance of the contractor for the purpose of a contract award decision, as provided in [section 1126 of title 41][/us/usc/t41/s1126], United States Code;
 
 >         “(2)
 
@@ -2655,7 +2797,7 @@ Source (Statutes at Large)  </td>
 
  __Limitation on Contracts for the Acquisition of Certain Services__ 
 
-[Pub. L. 109–364, div. A, title VIII, § 832][/us/pl/109/364/s832], Oct. 17, 2006, [120 Stat. 2331][/us/stat/120/2331], as amended by [Pub. L. 110–181, div. A, title VIII, § 883][/us/pl/110/181/s883], Jan. 28, 2008, [122 Stat. 264][/us/stat/122/264]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title X, § 1061(b)(5), Oct. 14, 2008, [122 Stat. 4613][/us/stat/122/4613], provided that:
+[Pub. L. 109–364, div. A, title VIII, § 832][/us/pl/109/364/s832], Oct. 17, 2006, [120 Stat. 2331][/us/stat/120/2331], as amended by [Pub. L. 110–181, div. A, title VIII, § 883][/us/pl/110/181/s883], Jan. 28, 2008, [122 Stat. 264][/us/stat/122/264]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title X, § 1061(b)(5), Oct. 14, 2008, [122 Stat. 4613][/us/stat/122/4613]; [Pub. L. 113–291, div. A, title X, § 1071(b)(3)(A)][/us/pl/113/291/s1071/b/3/A], Dec. 19, 2014, [128 Stat. 3506][/us/stat/128/3506], provided that:
 
 >     “(a)  __Limitation__  __.—__ 
 
@@ -2695,7 +2837,7 @@ Source (Statutes at Large)  </td>
 
 >         “(2) The term ‘service contract’ means any contract entered into by the Department of Defense the principal purpose of which is to furnish services in the United States through the use of service employees.
 
->         “(3) The term ‘service employees’ has the meaning provided in section 8(b) of the Service Contract Act of 1965 (\[former\] [41 U.S.C. 357(b)][/us/usc/t41/s357/b]) \[now [41 U.S.C. 6701(3)][/us/usc/t41/s6701/3]\].
+>         “(3) The term ‘service employees’ has the meaning provided in [section 6701(3) of title 41][/us/usc/t41/s6701/3], United States Code.
 
 >     “(e)  __Effect on Existing Contracts__  __.—__ 
 
@@ -3567,7 +3709,7 @@ Source (Statutes at Large)  </td>
 
  __Elimination of Use of Class I Ozone-Depleting Substances in Certain Military Procurement Contracts__ 
 
-[Pub. L. 102–484, div. A, title III, § 326][/us/pl/102/484/s326], Oct. 23, 1992, [106 Stat. 2368][/us/stat/106/2368], as amended by [Pub. L. 104–106, div. A, title XV][/us/pl/104/106], §§ 1502(c)(2)(A), 1504(c)(1), Feb. 10, 1996, [110 Stat. 506][/us/stat/110/506], 514; [Pub. L. 106–65, div. A, title X, § 1067(8)][/us/pl/106/65/s1067/8], Oct. 5, 1999, [113 Stat. 774][/us/stat/113/774], provided that:
+[Pub. L. 102–484, div. A, title III, § 326][/us/pl/102/484/s326], Oct. 23, 1992, [106 Stat. 2368][/us/stat/106/2368], as amended by [Pub. L. 104–106, div. A, title XV][/us/pl/104/106], §§ 1502(c)(2)(A), 1504(c)(1), Feb. 10, 1996, [110 Stat. 506][/us/stat/110/506], 514; [Pub. L. 106–65, div. A, title X, § 1067(8)][/us/pl/106/65/s1067/8], Oct. 5, 1999, [113 Stat. 774][/us/stat/113/774]; [Pub. L. 113–291, div. A, title X, § 1071(b)(14)][/us/pl/113/291/s1071/b/14], Dec. 19, 2014, [128 Stat. 3508][/us/stat/128/3508], provided that:
 
 >     “(a)  __Elimination of Use of Class I Ozone-Depleting Substances__  __.—__ 
 
@@ -3623,11 +3765,11 @@ Source (Statutes at Large)  </td>
 
 >         “(1) The term ‘class I ozone-depleting substance’ means any substance listed under section 602(a) of the Clean Air Act ([42 U.S.C. 7671a(a)][/us/usc/t42/s7671a/a]).
 
->         “(2) The term ‘Federal Acquisition Regulation’ means the single Government-wide procurement regulation issued under section 25(c) of the Office of Federal Procurement Policy Act (\[former\] [41 U.S.C. 421(c)][/us/usc/t41/s421/c]) \[now [41 U.S.C. 1303(a)][/us/usc/t41/s1303/a]\].”
+>         “(2) The term ‘Federal Acquisition Regulation’ means the single Government-wide procurement regulation issued under [section 1303(a) of title 41][/us/usc/t41/s1303/a], United States Code.”
 
  __Payment Protections for Subcontractors and Suppliers__ 
 
-[Pub. L. 102–190, div. A, title VIII, § 806][/us/pl/102/190/s806], Dec. 5, 1991, [105 Stat. 1417][/us/stat/105/1417], as amended by [Pub. L. 102–484, div. A, title X, § 1053(5)][/us/pl/102/484/s1053/5], Oct. 23, 1992, [106 Stat. 2502][/us/stat/106/2502]; [Pub. L. 103–355, title II, § 2091][/us/pl/103/355/s2091], title VIII, § 8105(k), Oct. 13, 1994, [108 Stat. 3306][/us/stat/108/3306], 3393, provided that:
+[Pub. L. 102–190, div. A, title VIII, § 806][/us/pl/102/190/s806], Dec. 5, 1991, [105 Stat. 1417][/us/stat/105/1417], as amended by [Pub. L. 102–484, div. A, title X, § 1053(5)][/us/pl/102/484/s1053/5], Oct. 23, 1992, [106 Stat. 2502][/us/stat/106/2502]; [Pub. L. 103–355, title II, § 2091][/us/pl/103/355/s2091], title VIII, § 8105(k), Oct. 13, 1994, [108 Stat. 3306][/us/stat/108/3306], 3393; [Pub. L. 113–291, div. A, title X, § 1071(b)(15)][/us/pl/113/291/s1071/b/15], Dec. 19, 2014, [128 Stat. 3508][/us/stat/128/3508], provided that:
 
 >     “(a)  __Regulations__  __.—__ 
 
@@ -3705,11 +3847,11 @@ Source (Statutes at Large)  </td>
 
 >     “(b)  __Inapplicability to Certain Contracts__  __.—__ 
 
->     Regulations prescribed under this section shall not apply to a contract for the acquisition of commercial items (as defined in section 4(12) of the Office of Federal Procurement Policy Act \[see [41 U.S.C. 103][/us/usc/t41/s103]\]).
+>     Regulations prescribed under this section shall not apply to a contract for the acquisition of commercial items (as defined in [section 103 of title 41][/us/usc/t41/s103], United States Code).
 
 >     “(c)  __Government-Wide Applicability__  __.—__ 
 
->     The Federal Acquisition Regulatory Council (established by section 25(a) of the Office of Federal Procurement Policy Act) \[now [41 U.S.C. 1302(a)][/us/usc/t41/s1302/a]\] shall modify the Federal Acquisition Regulation (issued pursuant to section 25(c)(1) of the Office of Federal Procurement Policy Act (\[former\] [41 U.S.C. 421(c)(1)][/us/usc/t41/s421/c/1])\[)\] \[now [41 U.S.C. 1303(a)(1)][/us/usc/t41/s1303/a/1]\] to apply Government-wide the requirements that the Secretary is required under subsection (a) to prescribe in regulations applicable with respect to the Department of Defense contracts.
+>     The Federal Acquisition Regulatory Council (established by [section 1302(a) of title 41][/us/usc/t41/s1302/a], United States Code) shall modify the Federal Acquisition Regulation (issued pursuant to section 1303(a)(1) of such title 41\[)\] to apply Government-wide the requirements that the Secretary is required under subsection (a) to prescribe in regulations applicable with respect to the Department of Defense contracts.
 
 >     “(d)  __Assistance to Small Business Concerns__  __.—__ 
 
@@ -3805,7 +3947,7 @@ Source (Statutes at Large)  </td>
 
     [Pub. L. 102–484, div. A, title VIII, § 807(a)][/us/pl/102/484/s807/a], Oct. 23, 1992, [106 Stat. 2448][/us/stat/106/2448], directed the Secretary of Defense, within 15 days after Oct. 23, 1992, to publish in the Department of Defense Supplement to the Federal Acquisition Regulation the Department of Defense policy for the pilot Mentor-Protege Program and the regulations, directives, and administrative guidance pertaining to such program as such policy, regulations, directives, and administrative guidance had existed on Dec. 6, 1991, and directed that proposed modifications to that policy and any amendments proposed in order to implement any of the amendments made by this section, amending [Pub. L. 101–510, § 831][/us/pl/101/510/s831], set out below, were to be published in final form within 120 days after Oct. 23, 1992.
 
-[Pub. L. 101–510, div. A, title VIII, § 831][/us/pl/101/510/s831], Nov. 5, 1990, [104 Stat. 1607][/us/stat/104/1607], as amended by [Pub. L. 102–25, title VII, § 704(c)][/us/pl/102/25/s704/c], Apr. 6, 1991, [105 Stat. 119][/us/stat/105/119]; [Pub. L. 102–172, title VIII, § 8064A][/us/pl/102/172/s8064A], Nov. 26, 1991, [105 Stat. 1186][/us/stat/105/1186]; [Pub. L. 102–190, div. A, title VIII, § 814(b)][/us/pl/102/190/s814/b], Dec. 5, 1991, [105 Stat. 1425][/us/stat/105/1425]; [Pub. L. 102–484, div. A, title VIII][/us/pl/102/484], §§ 801(h)(4), 807(b)(1), title X, § 1054(d), Oct. 23, 1992, [106 Stat. 2445][/us/stat/106/2445], 2448, 2503; [Pub. L. 103–160, div. A, title VIII, § 813(b)(1)][/us/pl/103/160/s813/b/1], (c), Nov. 30, 1993, [107 Stat. 1703][/us/stat/107/1703]; [Pub. L. 104–106, div. A, title VIII, § 824][/us/pl/104/106/s824], Feb. 10, 1996, [110 Stat. 399][/us/stat/110/399]; [Pub. L. 104–201, div. A, title VIII, § 802][/us/pl/104/201/s802], Sept. 23, 1996, [110 Stat. 2604][/us/stat/110/2604]; [Pub. L. 105–85, div. A, title VIII, § 821(a)][/us/pl/105/85/s821/a], title X, § 1073(c)(6), Nov. 18, 1997, [111 Stat. 1840][/us/stat/111/1840], 1904; [Pub. L. 106–65, div. A, title VIII, § 811(a)][/us/pl/106/65/s811/a]–(d)(1), (e), Oct. 5, 1999, [113 Stat. 706][/us/stat/113/706], 707, 709; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title VIII, § 807\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–208; [Pub. L. 107–107, div. A, title VIII, § 812][/us/pl/107/107/s812], Dec. 28, 2001, [115 Stat. 1181][/us/stat/115/1181]; [Pub. L. 108–375, div. A, title VIII][/us/pl/108/375], §§ 841(a), (b), 842, Oct. 28, 2004, [118 Stat. 2018][/us/stat/118/2018], 2019; [Pub. L. 112–10, div. A, title VIII, § 8016][/us/pl/112/10/s8016], Apr. 15, 2011, [125 Stat. 60][/us/stat/125/60]; [Pub. L. 112–81, div. A, title VIII, § 867][/us/pl/112/81/s867], title X, § 1062(n), Dec. 31, 2011, [125 Stat. 1526][/us/stat/125/1526], 1586; [Pub. L. 112–239, div. A, title X, § 1076(a)(17)][/us/pl/112/239/s1076/a/17], Jan. 2, 2013, [126 Stat. 1948][/us/stat/126/1948], provided that:
+[Pub. L. 101–510, div. A, title VIII, § 831][/us/pl/101/510/s831], Nov. 5, 1990, [104 Stat. 1607][/us/stat/104/1607], as amended by [Pub. L. 102–25, title VII, § 704(c)][/us/pl/102/25/s704/c], Apr. 6, 1991, [105 Stat. 119][/us/stat/105/119]; [Pub. L. 102–172, title VIII, § 8064A][/us/pl/102/172/s8064A], Nov. 26, 1991, [105 Stat. 1186][/us/stat/105/1186]; [Pub. L. 102–190, div. A, title VIII, § 814(b)][/us/pl/102/190/s814/b], Dec. 5, 1991, [105 Stat. 1425][/us/stat/105/1425]; [Pub. L. 102–484, div. A, title VIII][/us/pl/102/484], §§ 801(h)(4), 807(b)(1), title X, § 1054(d), Oct. 23, 1992, [106 Stat. 2445][/us/stat/106/2445], 2448, 2503; [Pub. L. 103–160, div. A, title VIII, § 813(b)(1)][/us/pl/103/160/s813/b/1], (c), Nov. 30, 1993, [107 Stat. 1703][/us/stat/107/1703]; [Pub. L. 104–106, div. A, title VIII, § 824][/us/pl/104/106/s824], Feb. 10, 1996, [110 Stat. 399][/us/stat/110/399]; [Pub. L. 104–201, div. A, title VIII, § 802][/us/pl/104/201/s802], Sept. 23, 1996, [110 Stat. 2604][/us/stat/110/2604]; [Pub. L. 105–85, div. A, title VIII, § 821(a)][/us/pl/105/85/s821/a], title X, § 1073(c)(6), Nov. 18, 1997, [111 Stat. 1840][/us/stat/111/1840], 1904; [Pub. L. 106–65, div. A, title VIII, § 811(a)][/us/pl/106/65/s811/a]–(d)(1), (e), Oct. 5, 1999, [113 Stat. 706][/us/stat/113/706], 707, 709; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title VIII, § 807\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–208; [Pub. L. 107–107, div. A, title VIII, § 812][/us/pl/107/107/s812], Dec. 28, 2001, [115 Stat. 1181][/us/stat/115/1181]; [Pub. L. 108–375, div. A, title VIII][/us/pl/108/375], §§ 841(a), (b), 842, Oct. 28, 2004, [118 Stat. 2018][/us/stat/118/2018], 2019; [Pub. L. 112–10, div. A, title VIII, § 8016][/us/pl/112/10/s8016], Apr. 15, 2011, [125 Stat. 60][/us/stat/125/60]; [Pub. L. 112–81, div. A, title VIII, § 867][/us/pl/112/81/s867], title X, § 1062(n), Dec. 31, 2011, [125 Stat. 1526][/us/stat/125/1526], 1586; [Pub. L. 112–239, div. A, title X, § 1076(a)(17)][/us/pl/112/239/s1076/a/17], Jan. 2, 2013, [126 Stat. 1948][/us/stat/126/1948]; [Pub. L. 113–291, div. A, title X, § 1071(b)(16)][/us/pl/113/291/s1071/b/16], Dec. 19, 2014, [128 Stat. 3508][/us/stat/128/3508], provided that:
 
 >     “(a)  __Establishment of Pilot Program__  __.—__ 
 
@@ -3977,9 +4119,7 @@ Source (Statutes at Large)  </td>
 
 >             “(D) pays not less than the minimum wage prescribed pursuant to section 6 of the Fair Labor Standards Act ([29 U.S.C. 206][/us/usc/t29/s206]) to those employees who are severely disabled individuals.
 
->         “(8) The term ‘severely disabled individual’ means an individual who has a physical or mental disability which constitutes a substantial handicap to employment and which, in accordance with criteria prescribed by the Committee for the Purchase From the Blind and Other Severely Handicapped established by the first section of the Act of June 25, 1938 (\[former\] [41 U.S.C. 46][/us/usc/t41/s46] \[now [41 U.S.C. 8502][/us/usc/t41/s8502]\]; popularly known as the ‘Wagner-O’Day Act’) \[now known as the “Javits-Wagner-O’Day Act”; now [41 U.S.C. 8501][/us/usc/t41/s8501] et seq.\], is of such a nature that the individual is otherwise prevented from engaging in normal competitive employment.”
-
-    \[Amendment by [Pub. L. 112–81, § 1062(n)(2)][/us/pl/112/81/s1062/n/2], to [section 831 of Pub. L. 101–510][/us/pl/101/510/s831], set out above, was executed to reflect the probable intent of Congress, notwithstanding an error in the directory language.\]
+>         “(8) The term ‘severely disabled individual’ means an individual who has a physical or mental disability which constitutes a substantial handicap to employment and which, in accordance with criteria prescribed by the Committee for the Purchase From the Blind and Other Severely Handicapped established by [section 8502 of title 41][/us/usc/t41/s8502], United States Code, is of such a nature that the individual is otherwise prevented from engaging in normal competitive employment.”
 
 \[[Pub. L. 106–65, div. A, title VIII, § 811(f)][/us/pl/106/65/s811/f], Oct. 5, 1999, [113 Stat. 709][/us/stat/113/709], provided that:
 
@@ -4190,7 +4330,6 @@ Source (Statutes at Large)  </td>
 [/us/usc/t41/s1303/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs1303%2Fa%2F1
 [/us/usc/t41/s134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs134
 [/us/usc/t10/s2371/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2371%2Fa
-[/us/usc/t41/s422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs422
 [/us/usc/t10/s2306a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2306a
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F127
@@ -4232,16 +4371,13 @@ Source (Statutes at Large)  </td>
 [/us/stat/124/3842]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3842
 [/us/pl/111/383/s866/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs866%2Fg%2F1
 [/us/stat/124/4298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4298
+[/us/pl/113/291/s1071/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Fa%2F2
+[/us/stat/128/3504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3504
 [/us/stat/64/1280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1280
 [/us/usc/t10/s2305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2305
-[/us/pl/93/400/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F400%2Fs4
-[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
-[/us/stat/124/3677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3677
-[/us/usc/t41/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs101
-[/us/pl/93/400/s26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F400%2Fs26
-[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
-[/us/stat/124/3677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3677
-[/us/usc/t41/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs101
+[/us/pl/113/291/s1071/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Fa%2F2%2FA
+[/us/pl/113/291/s1071/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Fa%2F2%2FB
+[/us/usc/t41/s422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs422
 [/us/pl/111/350/s5/b/8/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs5%2Fb%2F8%2FA
 [/us/usc/t41/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs403
 [/us/pl/111/350/s5/b/8/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs5%2Fb%2F8%2FB
@@ -4314,10 +4450,37 @@ Source (Statutes at Large)  </td>
 [/us/pl/98/525/s1201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs1201
 [/us/stat/98/2588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2588
 [/us/usc/t10/s2304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2304
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/stat/128/3450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3450
+[/us/pl/112/81/s841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs841
+[/us/pl/113/66/s831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs831
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/stat/125/1513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1513
+[/us/usc/t10/s2313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2313
+[/us/pl/112/81/s842/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs842%2Fd%2F1
+[/us/usc/t10/s2313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2313
+[/us/usc/t10/s101/a/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101%2Fa%2F13
+[/us/usc/t41/s133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs133
 [/us/pl/113/66/s831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs831
 [/us/stat/127/810]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F810
+[/us/pl/113/291/s841/m/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs841%2Fm%2F2
+[/us/stat/128/3454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3454
+[/us/pl/112/81/s841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs841
+[/us/stat/125/1510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1510
+[/us/pl/113/291/s841/m/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs841%2Fm%2F1
+[/us/stat/128/3454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3454
+[/us/pl/113/291/s851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs851
+[/us/stat/128/3457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3457
+[/us/pl/107/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314
+[/us/usc/t10/s2302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2302
+[/us/pl/113/291/s852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs852
+[/us/stat/128/3458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3458
 [/us/pl/113/66/s1531/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1531%2Fd
 [/us/stat/127/938]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F938
+[/us/pl/113/291/s1532/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1532%2Fd
+[/us/stat/128/3614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3614
 [/us/pl/112/239/s804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs804
 [/us/stat/126/1826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1826
 [/us/pl/112/239/s829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs829
@@ -4352,15 +4515,14 @@ Source (Statutes at Large)  </td>
 [/us/stat/125/1493-1496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1493-1496
 [/us/pl/112/239/s833]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs833
 [/us/stat/126/1844]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1844
+[/us/pl/113/291/s817]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs817
+[/us/stat/128/3432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3432
 [/us/usc/t10/s2319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2319
 [/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
 [/us/stat/124/4311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4311
 [/us/usc/t10/s2302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2302
 [/us/usc/t15/s1124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1124
 [/us/usc/t15/s1051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1051
-[/us/pl/112/81/s841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs841
-[/us/stat/125/1510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1510
-[/us/usc/t10/s101/a/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101%2Fa%2F13
 [/us/pl/112/81/s843]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs843
 [/us/stat/125/1514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1514
 [/us/usc/t41/s1903/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs1903%2Fb
@@ -4381,19 +4543,18 @@ Source (Statutes at Large)  </td>
 [/us/stat/124/4296-4298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4296-4298
 [/us/pl/113/66/s814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs814
 [/us/stat/127/808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F808
+[/us/pl/113/291/s1071/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Fb%2F1%2FB
+[/us/stat/128/3505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3505
 [/us/usc/t10/s2306a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2306a
-[/us/usc/t41/s422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs422
-[/us/usc/t41/s1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs1501
 [/us/usc/t10/s2306a/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2306a%2Fd
-[/us/usc/t41/s403/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs403%2F13
 [/us/usc/t41/s110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs110
 [/us/usc/t10/s2302/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2302%2F9
 [/us/pl/111/383/s893]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs893
 [/us/stat/124/4311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4311
 [/us/pl/112/81/s816]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs816
 [/us/stat/125/1493]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1493
-[/us/usc/t41/s422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs422
-[/us/usc/t41/s1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs1501
+[/us/pl/113/291/s1071/b/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Fb%2F1%2FC
+[/us/stat/128/3505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3505
 [/us/usc/t41/s1502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs1502
 [/us/pl/111/84/s805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs805
 [/us/stat/123/2403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2403
@@ -4401,6 +4562,8 @@ Source (Statutes at Large)  </td>
 [/us/stat/126/1832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1832
 [/us/pl/111/84/s819]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs819
 [/us/stat/123/2409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2409
+[/us/pl/113/291/s811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs811
+[/us/stat/128/3428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3428
 [/us/usc/t10/s2302/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2302%2F2%2FB
 [/us/pl/111/84/s1062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs1062
 [/us/stat/123/2468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2468
@@ -4464,11 +4627,11 @@ Source (Statutes at Large)  </td>
 [/us/stat/125/1515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1515
 [/us/pl/112/239/s847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs847
 [/us/stat/126/1850]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1850
+[/us/pl/113/291/s1071/b/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Fb%2F2%2FD
+[/us/stat/128/3506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3506
 [/us/usc/t10/s802/a/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs802%2Fa%2F10
 [/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
-[/us/usc/t41/s421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs421
 [/us/usc/t41/s1303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs1303
-[/us/usc/t41/s405/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs405%2Fj
 [/us/usc/t41/s1126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs1126
 [/us/pl/110/181/s886]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs886
 [/us/stat/122/266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F266
@@ -4520,7 +4683,8 @@ Source (Statutes at Large)  </td>
 [/us/stat/122/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F264
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4613
-[/us/usc/t41/s357/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs357%2Fb
+[/us/pl/113/291/s1071/b/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Fb%2F3%2FA
+[/us/stat/128/3506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3506
 [/us/usc/t41/s6701/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs6701%2F3
 [/us/pl/109/163/s806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs806
 [/us/stat/119/3373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3373
@@ -4659,8 +4823,9 @@ Source (Statutes at Large)  </td>
 [/us/stat/110/506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F506
 [/us/pl/106/65/s1067/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs1067%2F8
 [/us/stat/113/774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F774
+[/us/pl/113/291/s1071/b/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Fb%2F14
+[/us/stat/128/3508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3508
 [/us/usc/t42/s7671a/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7671a%2Fa
-[/us/usc/t41/s421/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs421%2Fc
 [/us/usc/t41/s1303/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs1303%2Fa
 [/us/pl/102/190/s806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs806
 [/us/stat/105/1417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1417
@@ -4668,11 +4833,11 @@ Source (Statutes at Large)  </td>
 [/us/stat/106/2502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2502
 [/us/pl/103/355/s2091]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs2091
 [/us/stat/108/3306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3306
+[/us/pl/113/291/s1071/b/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Fb%2F15
+[/us/stat/128/3508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3508
 [/us/usc/t5/s552/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552%2Fb%2F1
 [/us/usc/t41/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs103
 [/us/usc/t41/s1302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs1302%2Fa
-[/us/usc/t41/s421/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs421%2Fc%2F1
-[/us/usc/t41/s1303/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs1303%2Fa%2F1
 [/us/usc/t15/s644/k/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs644%2Fk%2F5
 [/us/usc/t31/s3903/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3903%2Fb
 [/us/usc/t40/s270a–270d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs270a%E2%80%93270d
@@ -4721,6 +4886,8 @@ Source (Statutes at Large)  </td>
 [/us/stat/125/1526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1526
 [/us/pl/112/239/s1076/a/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1076%2Fa%2F17
 [/us/stat/126/1948]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1948
+[/us/pl/113/291/s1071/b/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Fb%2F16
+[/us/stat/128/3508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3508
 [/us/usc/t15/s648]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs648
 [/us/usc/t15/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs631
 [/us/usc/t15/s637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs637
@@ -4737,11 +4904,7 @@ Source (Statutes at Large)  </td>
 [/us/usc/t10/s2323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2323
 [/us/usc/t15/s637/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs637%2Fd
 [/us/usc/t29/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs206
-[/us/usc/t41/s46]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs46
 [/us/usc/t41/s8502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs8502
-[/us/usc/t41/s8501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs8501
-[/us/pl/112/81/s1062/n/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1062%2Fn%2F2
-[/us/pl/101/510/s831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs831
 [/us/pl/106/65/s811/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs811%2Ff
 [/us/stat/113/709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F709
 [/us/pl/101/510/s831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs831

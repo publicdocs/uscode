@@ -177,7 +177,15 @@
 
   <tr>
 
-    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2679" data-uslm-ref="/us/usc/t10/s2679">2679</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2680" data-uslm-ref="/us/usc/t10/s2680">2680.</a>  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2679" data-uslm-ref="/us/usc/t10/s2679">2679.</a>  </td>
+
+    <td> Installation-support services: intergovernmental support agreements.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2680" data-uslm-ref="/us/usc/t10/s2680">2680.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -361,7 +369,9 @@
 
  __Amendments__ 
 
-    [Pub. L. 111–383, div. A, title III, § 341(b)][/us/pl/111/383/s341/b], div. B, title XXVIII, § 2814(c), Jan. 7, 2011, [124 Stat. 4190][/us/stat/124/4190], 4464, struck out item 2680 “Leases: land for special operations activities” and added item 2697.
+    2014—[Pub. L. 113–291, div. A, title III, § 351(c)(2)][/us/pl/113/291/s351/c/2], Dec. 19, 2014, [128 Stat. 3347][/us/stat/128/3347], added item 2679.
+
+    2011—[Pub. L. 111–383, div. A, title III, § 341(b)][/us/pl/111/383/s341/b], div. B, title XXVIII, § 2814(c), Jan. 7, 2011, [124 Stat. 4190][/us/stat/124/4190], 4464, struck out item 2680 “Leases: land for special operations activities” and added item 2697.
 
     2009—[Pub. L. 111–84, div. B, title XXVIII, § 2822(a)(2)][/us/pl/111/84/s2822/a/2], Oct. 28, 2009, [123 Stat. 2666][/us/stat/123/2666], added item 2687a.
 
@@ -458,6 +468,8 @@
 ----------
 ----------
 
+[/us/pl/113/291/s351/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs351%2Fc%2F2
+[/us/stat/128/3347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3347
 [/us/pl/111/383/s341/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs341%2Fb
 [/us/stat/124/4190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4190
 [/us/pl/111/84/s2822/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs2822%2Fa%2F2

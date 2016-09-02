@@ -65,6 +65,32 @@
 
     2001—Subsecs. (d) to (g). [Pub. L. 107–107][/us/pl/107/107] added subsecs. (d) to (g).
 
+ __Improved Data Collection Related to Efforts to Reduce Underemployment of Spouses of Members of the Armed Forces and Close the Wage gap Between Military Spouses and Their Civilian Counterparts__ 
+
+[Pub. L. 113–291, div. A, title V, § 568][/us/pl/113/291/s568], Dec. 19, 2014, [128 Stat. 3386][/us/stat/128/3386], provided that:
+
+>     “(a)  __Data Collection Efforts__  __.—__ 
+
+>     In addition to monitoring the number of spouses of members of the Armed Forces who obtain employment through military spouse employment programs, the Secretary of Defense shall collect data to evaluate the effectiveness of military spouse employment programs—
+
+>         “(1) in addressing the underemployment of military spouses;
+
+>         “(2) in matching military spouses’ education and experience to available employment positions; and
+
+>         “(3) in closing the wage gap between military spouses and their civilian counterparts.
+
+>     “(b)  __Report Required__  __.—__ 
+
+>     Not later than one year after the date of the enactment of this Act \[Dec. 19, 2014\], the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report evaluating the progress of military spouse employment programs—
+
+>         “(1) in reducing military spouse unemployment and underemployment; and
+
+>         “(2) in reducing the wage gap between military spouses and their civilian counterparts.
+
+>     “(c)  __Military Spouse Employment Programs Defined__  __.—__ 
+
+>     In this section, the term ‘military spouse employment programs’ means the Military Spouse Employment Partnership (MSEP).”
+
  __Pilot Program To Secure Internships for Military Spouses With Federal Agencies__ 
 
 [Pub. L. 111–84, div. A, title V, § 564][/us/pl/111/84/s564], Oct. 28, 2009, [123 Stat. 2308][/us/stat/123/2308], provided that:
@@ -136,6 +162,8 @@
 [/us/pl/107/107/s571/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs571%2Fc
 [/us/stat/115/1121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1121
 [/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
+[/us/pl/113/291/s568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs568
+[/us/stat/128/3386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3386
 [/us/pl/111/84/s564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs564
 [/us/stat/123/2308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2308
 [/us/pl/104/106/s568/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs568%2Fd

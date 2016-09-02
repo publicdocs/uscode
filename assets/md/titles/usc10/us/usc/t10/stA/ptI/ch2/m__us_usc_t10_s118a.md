@@ -25,7 +25,7 @@
 
     Each quadrennial quality of life review shall be conducted so as—
 
-        (1) to assess quality of life priorities and issues consistent with the most recent National Security Strategy prescribed by the President pursuant to section 108 of the National Security Act of 1947 ([50 U.S.C. 404a][/us/usc/t50/s404a]);  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup> 
+        (1) to assess quality of life priorities and issues consistent with the most recent National Security Strategy prescribed by the President pursuant to section 108 of the National Security Act of 1947 ([50 U.S.C. 3043][/us/usc/t50/s3043]);
 
         (2) to identify actions that are needed in order to provide members of the armed forces with the quality of life reasonably necessary to encourage the successful execution of the full range of missions that the members are called on to perform under the national security strategy; and
 
@@ -75,11 +75,11 @@
 
         (2) The report shall be submitted in the year following the year in which the review is conducted, but not later than the date on which the President submits the budget for the next fiscal year to Congress under [section 1105(a) of title 31][/us/usc/t31/s1105/a].
 
-(Added [Pub. L. 107–314, div. A, title V, § 581(a)(1)][/us/pl/107/314/s581/a/1], Dec. 2, 2002, [116 Stat. 2559][/us/stat/116/2559].)
+(Added [Pub. L. 107–314, div. A, title V, § 581(a)(1)][/us/pl/107/314/s581/a/1], Dec. 2, 2002, [116 Stat. 2559][/us/stat/116/2559]; amended [Pub. L. 113–291, div. A, title X, § 1071(c)(2)][/us/pl/113/291/s1071/c/2], Dec. 19, 2014, [128 Stat. 3508][/us/stat/128/3508].)
 
- __References in Text__ 
+ __Amendments__ 
 
-    The National Security Act of 1947, referred to in subsec. (b)(1), is [act July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], [61 Stat. 495][/us/stat/61/495], which was formerly classified principally to chapter 15 (§ 401 et seq.) of Title 50, War and National Defense, prior to editorial reclassification in chapter 44 (§ 3001 et seq.) of Title 50. Section 108 of the Act is now classified to [section 3043 of Title 50][/us/usc/t50/s3043]. For complete classification of this Act to the Code, see Tables.
+    2014—Subsec. (b)(1). [Pub. L. 113–291][/us/pl/113/291] substituted “([50 U.S.C. 3043][/us/usc/t50/s3043])” for “([50 U.S.C. 404a][/us/usc/t50/s404a])”.
 
  __First Quadrennial Quality of Life Review__ 
 
@@ -92,13 +92,15 @@
 ----------
 ----------
 
-[/us/usc/t50/s404a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs404a
+[/us/usc/t50/s3043]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3043
 [/us/usc/t31/s1105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105%2Fa
 [/us/pl/107/314/s581/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs581%2Fa%2F1
 [/us/stat/116/2559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2559
-[/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
-[/us/stat/61/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F495
+[/us/pl/113/291/s1071/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Fc%2F2
+[/us/stat/128/3508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3508
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/usc/t50/s3043]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3043
+[/us/usc/t50/s404a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs404a
 [/us/pl/107/314/s581/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs581%2Fb
 [/us/stat/116/2561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2561
 

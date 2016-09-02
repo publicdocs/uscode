@@ -437,11 +437,11 @@
 
         If the officer is retired under section 211(a) of such Act, the retired pay base is the basic pay of the highest grade held by the officer and in which, in the case of a temporary promotion to such grade, the officer has performed active duty for not less than six months.
 
-    (i) __Special Rule for Former Chairmen and Vice Chairmen of the JCS, Chiefs of Service, Commanders of Combatant Commands, and Senior Enlisted Members.—__ 
+    (i) __Special Rule for Former Chairmen and Vice Chairmen of the JCS, Chiefs of Service, Chief of the National Guard Bureau, Commanders of Combatant Commands, and Senior Enlisted Members.—__ 
 
         (1)  __In general__  __.—__ 
 
-        For the purposes of subsections (b) through (e), in determining the rate of basic pay to apply in the determination of the retired pay base of a member who has served as Chairman or Vice Chairman of the Joint Chiefs of Staff, as a Chief of Service, as a commander of a unified or specified combatant command (as defined in [section 161(c) of this title][/us/usc/t10/s161/c]), or as the senior enlisted member of an armed force, the highest rate of basic pay applicable to the member while serving in that position shall be used, if that rate is higher than the rate otherwise authorized by this section.
+        For the purposes of subsections (b) through (e), in determining the rate of basic pay to apply in the determination of the retired pay base of a member who has served as Chairman or Vice Chairman of the Joint Chiefs of Staff, as a Chief of Service, as Chief of the National Guard Bureau, as a commander of a unified or specified combatant command (as defined in [section 161(c) of this title][/us/usc/t10/s161/c]), or as the senior enlisted member of an armed force or the senior enlisted advisor to the Chairman of the Joint Chiefs of Staff or the Chief of the National Guard Bureau, the highest rate of basic pay applicable to the member while serving in that position shall be used, if that rate is higher than the rate otherwise authorized by this section.
 
         (2)  __Exception for members reduced in grade or who do not serve satisfactorily__  __.—__ 
 
@@ -483,15 +483,19 @@
 
                 (v) Master Chief Petty Officer of the Coast Guard.
 
-                (vi) Senior Enlisted Advisor to the Chairman of the Joint Chiefs of Staff.
-
-(Added [Pub. L. 99–348, title I, § 104(b)][/us/pl/99/348/s104/b], July 1, 1986, [100 Stat. 686][/us/stat/100/686]; amended [Pub. L. 100–180, div. A, title V, § 512(d)(2)][/us/pl/100/180/s512/d/2], title XIII, § 1314(b)(6), Dec. 4, 1987, [101 Stat. 1090][/us/stat/101/1090], 1175; [Pub. L. 100–456, div. A, title XII, § 1233(c)][/us/pl/100/456/s1233/c], Sept. 29, 1988, [102 Stat. 2057][/us/stat/102/2057]; [Pub. L. 102–190, div. A, title XI, § 1131(7)][/us/pl/102/190/s1131/7], Dec. 5, 1991, [105 Stat. 1506][/us/stat/105/1506]; [Pub. L. 103–337, div. A, title XVI, § 1662(j)(4)][/us/pl/103/337/s1662/j/4], Oct. 5, 1994, [108 Stat. 3004][/us/stat/108/3004]; [Pub. L. 105–85, div. A, title X, § 1073(a)(23)][/us/pl/105/85/s1073/a/23], Nov. 18, 1997, [111 Stat. 1901][/us/stat/111/1901]; [Pub. L. 105–261, div. A, title VI, § 646][/us/pl/105/261/s646], Oct. 17, 1998, [112 Stat. 2050][/us/stat/112/2050]; [Pub. L. 106–65, div. A, title X, § 1066(a)(11)][/us/pl/106/65/s1066/a/11], Oct. 5, 1999, [113 Stat. 771][/us/stat/113/771]; [Pub. L. 107–372, title II, § 272(a)][/us/pl/107/372/s272/a], Dec. 19, 2002, [116 Stat. 3094][/us/stat/116/3094]; [Pub. L. 108–136, div. A, title VI, § 643(a)][/us/pl/108/136/s643/a], (b), Nov. 24, 2003, [117 Stat. 1517][/us/stat/117/1517]; [Pub. L. 108–375, div. A, title X, § 1084(d)(9)][/us/pl/108/375/s1084/d/9], Oct. 28, 2004, [118 Stat. 2061][/us/stat/118/2061]; [Pub. L. 109–163, div. A, title V, § 509(d)(1)(B)][/us/pl/109/163/s509/d/1/B], title VI, § 685(d), Jan. 6, 2006, [119 Stat. 3231][/us/stat/119/3231], 3325; [Pub. L. 109–364, div. A, title V, § 502(d)(2)][/us/pl/109/364/s502/d/2], title X, § 1071(a)(7), Oct. 17, 2006, [120 Stat. 2178][/us/stat/120/2178], 2398; [Pub. L. 111–84, div. A, title VI, § 643(d)(1)][/us/pl/111/84/s643/d/1], Oct. 28, 2009, [123 Stat. 2367][/us/stat/123/2367].)
+(Added [Pub. L. 99–348, title I, § 104(b)][/us/pl/99/348/s104/b], July 1, 1986, [100 Stat. 686][/us/stat/100/686]; amended [Pub. L. 100–180, div. A, title V, § 512(d)(2)][/us/pl/100/180/s512/d/2], title XIII, § 1314(b)(6), Dec. 4, 1987, [101 Stat. 1090][/us/stat/101/1090], 1175; [Pub. L. 100–456, div. A, title XII, § 1233(c)][/us/pl/100/456/s1233/c], Sept. 29, 1988, [102 Stat. 2057][/us/stat/102/2057]; [Pub. L. 102–190, div. A, title XI, § 1131(7)][/us/pl/102/190/s1131/7], Dec. 5, 1991, [105 Stat. 1506][/us/stat/105/1506]; [Pub. L. 103–337, div. A, title XVI, § 1662(j)(4)][/us/pl/103/337/s1662/j/4], Oct. 5, 1994, [108 Stat. 3004][/us/stat/108/3004]; [Pub. L. 105–85, div. A, title X, § 1073(a)(23)][/us/pl/105/85/s1073/a/23], Nov. 18, 1997, [111 Stat. 1901][/us/stat/111/1901]; [Pub. L. 105–261, div. A, title VI, § 646][/us/pl/105/261/s646], Oct. 17, 1998, [112 Stat. 2050][/us/stat/112/2050]; [Pub. L. 106–65, div. A, title X, § 1066(a)(11)][/us/pl/106/65/s1066/a/11], Oct. 5, 1999, [113 Stat. 771][/us/stat/113/771]; [Pub. L. 107–372, title II, § 272(a)][/us/pl/107/372/s272/a], Dec. 19, 2002, [116 Stat. 3094][/us/stat/116/3094]; [Pub. L. 108–136, div. A, title VI, § 643(a)][/us/pl/108/136/s643/a], (b), Nov. 24, 2003, [117 Stat. 1517][/us/stat/117/1517]; [Pub. L. 108–375, div. A, title X, § 1084(d)(9)][/us/pl/108/375/s1084/d/9], Oct. 28, 2004, [118 Stat. 2061][/us/stat/118/2061]; [Pub. L. 109–163, div. A, title V, § 509(d)(1)(B)][/us/pl/109/163/s509/d/1/B], title VI, § 685(d), Jan. 6, 2006, [119 Stat. 3231][/us/stat/119/3231], 3325; [Pub. L. 109–364, div. A, title V, § 502(d)(2)][/us/pl/109/364/s502/d/2], title X, § 1071(a)(7), Oct. 17, 2006, [120 Stat. 2178][/us/stat/120/2178], 2398; [Pub. L. 111–84, div. A, title VI, § 643(d)(1)][/us/pl/111/84/s643/d/1], Oct. 28, 2009, [123 Stat. 2367][/us/stat/123/2367]; [Pub. L. 113–291, div. A, title VI, § 603(d)][/us/pl/113/291/s603/d], Dec. 19, 2014, [128 Stat. 3398][/us/stat/128/3398].)
 
  __Prior Provisions__ 
 
     A prior section 1406 was renumbered [section 12738 of this title][/us/usc/t10/s12738].
 
  __Amendments__ 
+
+    2014—Subsec. (i). [Pub. L. 113–291, § 603(d)(1)][/us/pl/113/291/s603/d/1], inserted “Chief of the National Guard Bureau,” after “Chiefs of Service,” in heading.
+
+    Subsec. (i)(1). [Pub. L. 113–291, § 603(d)(2)][/us/pl/113/291/s603/d/2], inserted “as Chief of the National Guard Bureau,” after “Chief of Service,” and “or the senior enlisted advisor to the Chairman of the Joint Chiefs of Staff or the Chief of the National Guard Bureau” after“of an armed force”.
+
+    Subsec. (i)(3)(B)(vi). [Pub. L. 113–291, § 603(d)(3)][/us/pl/113/291/s603/d/3], struck out cl. (vi) which read as follows: “Senior Enlisted Advisor to the Chairman of the Joint Chiefs of Staff.”
 
     2009—Subsec. (b)(2). [Pub. L. 111–84][/us/pl/111/84] inserted “(or, in the case of a person entitled to retired pay by reason of an election under [section 12741(a) of this title][/us/usc/t10/s12741/a], at rates applicable on the date the person completes the service required under such section 12741(a))” after “when retired pay is granted”.
 
@@ -528,6 +532,12 @@
     1987—Subsec. (d). [Pub. L. 100–180, § 512(d)(2)][/us/pl/100/180/s512/d/2], inserted “or 6334” after “6151” in text, and inserted item relating to section 6334 at end of table.
 
     Subsec. (i). [Pub. L. 100–180, § 1314(b)(6)][/us/pl/100/180/s1314/b/6], inserted “and Vice Chairmen” after “Chairmen” in heading and inserted “or Vice Chairman” after “Chairman” in par. (1).
+
+ __Effective Date of 2014 Amendment__ 
+
+[Pub. L. 113–291, div. A, title VI, § 603(e)][/us/pl/113/291/s603/e], Dec. 19, 2014, [128 Stat. 3398][/us/stat/128/3398], provided that: 
+
+> “This section \[amending this section and sections 210 and 414 of Title 37, Pay and Allowances of Uniformed Services, enacting provision set out as a note under [section 203 of Title 37][/us/usc/t37/s203], and amending provisions set out as a note under [section 205 of Title 37][/us/usc/t37/s205]\] and the amendments made by this section shall take effect on the date of the enactment of this Act \[Dec. 19, 2014\], and shall apply with respect to months of service that begin on or after that date.
 
  __Effective Date of 2003 Amendment__ 
 
@@ -603,7 +613,12 @@
 [/us/stat/120/2178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2178
 [/us/pl/111/84/s643/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs643%2Fd%2F1
 [/us/stat/123/2367]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2367
+[/us/pl/113/291/s603/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs603%2Fd
+[/us/stat/128/3398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3398
 [/us/usc/t10/s12738]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs12738
+[/us/pl/113/291/s603/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs603%2Fd%2F1
+[/us/pl/113/291/s603/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs603%2Fd%2F2
+[/us/pl/113/291/s603/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs603%2Fd%2F3
 [/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
 [/us/usc/t10/s12741/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs12741%2Fa
 [/us/pl/109/364/s502/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs502%2Fd%2F2
@@ -626,6 +641,10 @@
 [/us/pl/100/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456
 [/us/pl/100/180/s512/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs512%2Fd%2F2
 [/us/pl/100/180/s1314/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs1314%2Fb%2F6
+[/us/pl/113/291/s603/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs603%2Fe
+[/us/stat/128/3398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3398
+[/us/usc/t37/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs203
+[/us/usc/t37/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs205
 [/us/pl/108/136/s643/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs643%2Fc
 [/us/stat/117/1517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1517
 [/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337

@@ -103,7 +103,7 @@
 
             (D) Conduct such other functions as the Under Secretary of Defense for Acquisition, Technology, and Logistics shall specify.
 
-        (5) The Panel shall report to and receive direction from the Assistant Secretary of Defense for Research and Engineering on manufacturing technology issues of multi-service concern and application.
+        (5) The Panel shall report to and receive direction from one or more individuals designated by the Under Secretary of Defense for Acquisition, Technology, and Logistics for purposes of this paragraph on manufacturing technology issues of multi-service concern and application.
 
         (6) The administrative expenses of the Panel shall be borne by each military department and Defense Agency with manufacturing technology programs in such manner as the Panel shall provide.
 
@@ -119,11 +119,11 @@
 
         (2) The Secretary shall include in the plan mechanisms for assessing the effectiveness of the program under the plan.
 
-        (3) The Secretary shall update the plan on a biennial basis.
+        (3) The Secretary shall update the plan not less frequently than once every four years.
 
         (4) Each plan, and each update to the plan, shall cover a period of five fiscal years.
 
-(Added [Pub. L. 103–160, div. A, title VIII, § 801(a)(1)][/us/pl/103/160/s801/a/1], Nov. 30, 1993, [107 Stat. 1700][/us/stat/107/1700], § 2525; amended [Pub. L. 103–337, div. A, title II, § 256(a)(1)][/us/pl/103/337/s256/a/1], Oct. 5, 1994, [108 Stat. 2704][/us/stat/108/2704]; [Pub. L. 104–106, div. A, title II, § 276(a)][/us/pl/104/106/s276/a], title X, § 1081(e), title XV, § 1503(a)(28), Feb. 10, 1996, [110 Stat. 241][/us/stat/110/241], 454, 512; [Pub. L. 105–85, div. A, title II, § 211(a)][/us/pl/105/85/s211/a], (b), Nov. 18, 1997, [111 Stat. 1657][/us/stat/111/1657]; [Pub. L. 105–261, div. A, title II, § 213][/us/pl/105/261/s213], Oct. 17, 1998, [112 Stat. 1947][/us/stat/112/1947]; [Pub. L. 106–65, div. A, title II, § 216][/us/pl/106/65/s216], Oct. 5, 1999, [113 Stat. 543][/us/stat/113/543]; renumbered § 2521, [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title III, § 344(c)(1)(A)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–71; [Pub. L. 107–107, div. A, title X, § 1048(b)(2)][/us/pl/107/107/s1048/b/2], Dec. 28, 2001, [115 Stat. 1225][/us/stat/115/1225]; [Pub. L. 107–314, div. A, title II, § 213][/us/pl/107/314/s213], Dec. 2, 2002, [116 Stat. 2481][/us/stat/116/2481]; [Pub. L. 108–136, div. A, title X, § 1031(a)(24)][/us/pl/108/136/s1031/a/24], Nov. 24, 2003, [117 Stat. 1598][/us/stat/117/1598]; [Pub. L. 110–181, div. A, title II, § 238(a)][/us/pl/110/181/s238/a], Jan. 28, 2008, [122 Stat. 48][/us/stat/122/48]; [Pub. L. 111–84, div. A, title II, § 212][/us/pl/111/84/s212], Oct. 28, 2009, [123 Stat. 2225][/us/stat/123/2225]; [Pub. L. 112–239, div. A, title X, § 1076(c)(2)(A)(i)][/us/pl/112/239/s1076/c/2/A/i], Jan. 2, 2013, [126 Stat. 1949][/us/stat/126/1949].)
+(Added [Pub. L. 103–160, div. A, title VIII, § 801(a)(1)][/us/pl/103/160/s801/a/1], Nov. 30, 1993, [107 Stat. 1700][/us/stat/107/1700], § 2525; amended [Pub. L. 103–337, div. A, title II, § 256(a)(1)][/us/pl/103/337/s256/a/1], Oct. 5, 1994, [108 Stat. 2704][/us/stat/108/2704]; [Pub. L. 104–106, div. A, title II, § 276(a)][/us/pl/104/106/s276/a], title X, § 1081(e), title XV, § 1503(a)(28), Feb. 10, 1996, [110 Stat. 241][/us/stat/110/241], 454, 512; [Pub. L. 105–85, div. A, title II, § 211(a)][/us/pl/105/85/s211/a], (b), Nov. 18, 1997, [111 Stat. 1657][/us/stat/111/1657]; [Pub. L. 105–261, div. A, title II, § 213][/us/pl/105/261/s213], Oct. 17, 1998, [112 Stat. 1947][/us/stat/112/1947]; [Pub. L. 106–65, div. A, title II, § 216][/us/pl/106/65/s216], Oct. 5, 1999, [113 Stat. 543][/us/stat/113/543]; renumbered § 2521, [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title III, § 344(c)(1)(A)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–71; [Pub. L. 107–107, div. A, title X, § 1048(b)(2)][/us/pl/107/107/s1048/b/2], Dec. 28, 2001, [115 Stat. 1225][/us/stat/115/1225]; [Pub. L. 107–314, div. A, title II, § 213][/us/pl/107/314/s213], Dec. 2, 2002, [116 Stat. 2481][/us/stat/116/2481]; [Pub. L. 108–136, div. A, title X, § 1031(a)(24)][/us/pl/108/136/s1031/a/24], Nov. 24, 2003, [117 Stat. 1598][/us/stat/117/1598]; [Pub. L. 110–181, div. A, title II, § 238(a)][/us/pl/110/181/s238/a], Jan. 28, 2008, [122 Stat. 48][/us/stat/122/48]; [Pub. L. 111–84, div. A, title II, § 212][/us/pl/111/84/s212], Oct. 28, 2009, [123 Stat. 2225][/us/stat/123/2225]; [Pub. L. 112–239, div. A, title X, § 1076(c)(2)(A)(i)][/us/pl/112/239/s1076/c/2/A/i], Jan. 2, 2013, [126 Stat. 1949][/us/stat/126/1949]; [Pub. L. 113–291, div. A, title II, § 212][/us/pl/113/291/s212], Dec. 19, 2014, [128 Stat. 3325][/us/stat/128/3325].)
 
  __Prior Provisions__ 
 
@@ -134,6 +134,10 @@
     Another prior section 2521 was renumbered [section 2540 of this title][/us/usc/t10/s2540] and subsequently repealed.
 
  __Amendments__ 
+
+    2014—Subsec. (e)(5). [Pub. L. 113–291, § 212(a)][/us/pl/113/291/s212/a], substituted “one or more individuals designated by the Under Secretary of Defense for Acquisition, Technology, and Logistics for purposes of this paragraph” for “the Assistant Secretary of Defense for Research and Engineering”.
+
+    Subsec. (f)(3). [Pub. L. 113–291, § 212(b)][/us/pl/113/291/s212/b], substituted “not less frequently than once every four years” for “on a biennial basis”.
 
     2013—Subsec. (e)(5). [Pub. L. 112–239][/us/pl/112/239] substituted “Assistant Secretary of Defense for Research and Engineering” for “Director of Defense Research and Engineering”.
 
@@ -412,6 +416,8 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/stat/123/2225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2225
 [/us/pl/112/239/s1076/c/2/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1076%2Fc%2F2%2FA%2Fi
 [/us/stat/126/1949]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1949
+[/us/pl/113/291/s212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs212
+[/us/stat/128/3325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3325
 [/us/pl/102/484/s4231/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs4231%2Fa
 [/us/stat/106/2686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2686
 [/us/pl/104/106/s1081/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1081%2Ff
@@ -420,6 +426,8 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/stat/105/1426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1426
 [/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
 [/us/usc/t10/s2540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2540
+[/us/pl/113/291/s212/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs212%2Fa
+[/us/pl/113/291/s212/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs212%2Fb
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
 [/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181

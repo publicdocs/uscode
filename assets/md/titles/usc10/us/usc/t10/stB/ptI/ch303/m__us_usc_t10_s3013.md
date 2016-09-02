@@ -97,6 +97,28 @@
 
     1986—Subsec. (a)(2). [Pub. L. 99–661][/us/pl/99/661] substituted “five years” for “10 years”.
 
+ __Pilot Program for the Human Terrain System__ 
+
+[Pub. L. 113–291, div. A, title X, § 1075][/us/pl/113/291/s1075], Dec. 19, 2014, [128 Stat. 3519][/us/stat/128/3519], provided that:
+
+>     “(a)  __Pilot Program Required__  __.—__ 
+
+>     The Secretary of the Army may carry out a pilot program under which the Secretary utilizes Human Terrain System assets in the United States Pacific Command area of responsibility to support phase 0 shaping operations and the theater security cooperation plans of the Commander of the United States Pacific Command.
+
+>     “(b) __Reports.—__ 
+
+>         “(1)  __Initial report__  __.—__ 
+
+>         Not later than one year after the date of the enactment of this Act \[Dec. 19, 2014\], the Secretary of the Army shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the status of the pilot program under this section. Such report shall include the independent analysis and recommendations of the Commander of the United States Pacific Command regarding the effectiveness of the program and how it could be improved.
+
+>         “(2)  __Final report__  __.—__ 
+
+>         Not later than December 1, 2016, the Secretary of the Army shall submit to the congressional defense committees a final report on the pilot program. Such report shall include an analysis of the comparative value of human terrain information relative to other analytic tools and techniques, recommendations regarding expanding the program to include other combatant commands, and any improvements to the program and necessary resources that would enable expanding the program.
+
+>     “(c)  __Termination__  __.—__ 
+
+>     The authority to carry out a pilot program under this section shall terminate on September 30, 2016.”
+
  __Expansion of First Sergeants Barracks Initiative__ 
 
 [Pub. L. 111–84, div. B, title XXVIII, § 2807][/us/pl/111/84/s2807], Oct. 28, 2009, [123 Stat. 2663][/us/stat/123/2663], provided that:
@@ -252,6 +274,8 @@
 [/us/usc/t10/s3014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs3014
 [/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
 [/us/pl/99/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661
+[/us/pl/113/291/s1075]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1075
+[/us/stat/128/3519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3519
 [/us/pl/111/84/s2807]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs2807
 [/us/stat/123/2663]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2663
 [/us/pl/111/84/s2825]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs2825

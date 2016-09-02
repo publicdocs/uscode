@@ -23,11 +23,11 @@
 
         (2)
 
-         There shall be a course of instruction, designated and certified by the Secretary of Defense with the advice and assistance of the Chairman of the Joint Chiefs of Staff as Phase II instruction, consisting of a joint professional military education curriculum taught in residence at—
+         There shall be a course of instruction, designated and certified by the Secretary of Defense with the advice and assistance of the Chairman of the Joint Chiefs of Staff as Phase II instruction, consisting of—
 
-            (A) the Joint Forces Staff College; or
+            (A) a joint professional military education curriculum taught in residence at the Joint Forces Staff College or a senior level service school that has been designated and certified by the Secretary of Defense as a joint professional military education institution; or
 
-            (B) a senior level service school that has been designated and certified by the Secretary of Defense as a joint professional military education institution.
+            (B) a senior level service course of at least ten months that has been designated and certified by the Secretary of Defense as a joint professional military education course.
 
         (3) There shall be a course of instruction, designated and certified by the Secretary of Defense with the advice and assistance of the Chairman of the Joint Chiefs of Staff as the Capstone course, for officers selected for promotion to the grade of brigadier general or, in the case of the Navy, rear admiral (lower half) and offered in accordance with [section 2153 of this title][/us/usc/t10/s2153].
 
@@ -35,9 +35,15 @@
 
     The Secretary shall require the sequencing of joint professional military education so that the standard sequence of assignments for such education requires an officer to complete Phase I instruction before proceeding to Phase II instruction, as provided in [section 2155(a) of this title][/us/usc/t10/s2155/a].
 
-(Added [Pub. L. 108–375, div. A, title V, § 532(a)(2)][/us/pl/108/375/s532/a/2], Oct. 28, 2004, [118 Stat. 1898][/us/stat/118/1898]; amended [Pub. L. 112–81, div. A, title V, § 552(a)(1)][/us/pl/112/81/s552/a/1], Dec. 31, 2011, [125 Stat. 1412][/us/stat/125/1412].)
+(Added [Pub. L. 108–375, div. A, title V, § 532(a)(2)][/us/pl/108/375/s532/a/2], Oct. 28, 2004, [118 Stat. 1898][/us/stat/118/1898]; amended [Pub. L. 112–81, div. A, title V, § 552(a)(1)][/us/pl/112/81/s552/a/1], Dec. 31, 2011, [125 Stat. 1412][/us/stat/125/1412]; [Pub. L. 113–291, div. A, title V, § 506][/us/pl/113/291/s506], Dec. 19, 2014, [128 Stat. 3356][/us/stat/128/3356].)
 
  __Amendments__ 
+
+    2014—Subsec. (a)(2). [Pub. L. 113–291][/us/pl/113/291] substituted “consisting of—” for “consisting of a joint professional military education curriculum taught in residence at—” in introductory provisions, added subpars. (A) and (B), and struck out former subpars. (A) and (B) which read as follows:
+
+    “(A) the Joint Forces Staff College; or
+
+    “(B) a senior level service school that has been designated and certified by the Secretary of Defense as a joint professional military education institution.”
 
     2011—Subsec. (a)(1). [Pub. L. 112–81][/us/pl/112/81] inserted “or at a joint intermediate level school” before period at end.
 
@@ -55,6 +61,9 @@
 [/us/stat/118/1898]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1898
 [/us/pl/112/81/s552/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs552%2Fa%2F1
 [/us/stat/125/1412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1412
+[/us/pl/113/291/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs506
+[/us/stat/128/3356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3356
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
 
 

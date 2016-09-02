@@ -101,6 +101,8 @@
 
             (P) 1 Costs of compensation of contractor and subcontractor employees for a fiscal year, regardless of the contract funding source, to the extent that such compensation exceeds $487,000 per year, adjusted annually to reflect the change in the Employment Cost Index for all workers, as calculated by the Bureau of Labor Statistics, except that the head of an executive agency may establish one or more narrowly targeted exceptions for scientists, engineers, or other specialists upon a determination that such exceptions are needed to ensure that the executive agency has continued access to needed skills and capabilities.
 
+            (Q) Costs incurred by a contractor in connection with a congressional investigation or inquiry into an issue that is the subject matter of a proceeding resulting in a disposition as described in subsection (k)(2).
+
         (2)
 
             (A) The Secretary of Defense may provide in a military banking contract that the provisions of paragraphs (1)(M) and (1)(N) shall not apply to costs incurred under the contract by the contractor for payment of mandated foreign national severance pay. The Secretary may include such a provision in a military banking contract only if the Secretary determines, with respect to that contract, that the contractor has taken (or has established plans to take) appropriate actions within the contractor’s control to minimize the amount and number of incidents of the payment of severance pay by the contractor to employees under the contract who are foreign nationals.
@@ -305,7 +307,7 @@
 
         (6) The term “fiscal year” means a fiscal year established by a contractor for accounting purposes.
 
-(Added [Pub. L. 99–145, title IX, § 911(a)(1)][/us/pl/99/145/s911/a/1], Nov. 8, 1985, [99 Stat. 682][/us/stat/99/682]; amended [Pub. L. 99–190, § 101(b)][/us/pl/99/190/s101/b] \[title VIII, § 8112(a)\], Dec. 19, 1985, [99 Stat. 1185][/us/stat/99/1185], 1223; [Pub. L. 100–26, § 7(k)(3)][/us/pl/100/26/s7/k/3], Apr. 21, 1987, [101 Stat. 284][/us/stat/101/284]; [Pub. L. 100–180, div. A, title VIII, § 805(a)][/us/pl/100/180/s805/a], Dec. 4, 1987, [101 Stat. 1126][/us/stat/101/1126]; [Pub. L. 100–370, § 1(f)(2)(A)][/us/pl/100/370/s1/f/2/A], (3)(A), July 19, 1988, [102 Stat. 846][/us/stat/102/846]; [Pub. L. 100–456, div. A, title III, § 322(a)][/us/pl/100/456/s322/a], title VIII, §§ 826(a), 832(a), Sept. 29, 1988, [102 Stat. 1952][/us/stat/102/1952], 2022, 2023; [Pub. L. 100–463, title VIII, § 8105(a)][/us/pl/100/463/s8105/a], Oct. 1, 1988, [102 Stat. 2270–36][/us/stat/102/2270-36]; [Pub. L. 100–526, title I, § 106(a)(2)][/us/pl/100/526/s106/a/2], Oct. 24, 1988, [102 Stat. 2625][/us/stat/102/2625]; [Pub. L. 100–700, § 8(b)][/us/pl/100/700/s8/b], Nov. 19, 1988, [102 Stat. 4636][/us/stat/102/4636]; [Pub. L. 101–189, div. A, title III, § 311(a)(1)][/us/pl/101/189/s311/a/1], title VIII, § 853(a)(1), (b)(3), Nov. 29, 1989, [103 Stat. 1411][/us/stat/103/1411], 1518; [Pub. L. 101–510, div. A, title XIII, § 1301(10)][/us/pl/101/510/s1301/10], Nov. 5, 1990, [104 Stat. 1668][/us/stat/104/1668]; [Pub. L. 102–190, div. A, title III, § 346(a)][/us/pl/102/190/s346/a], Dec. 5, 1991, [105 Stat. 1346][/us/stat/105/1346]; [Pub. L. 102–484, div. A, title VIII, § 818(a)][/us/pl/102/484/s818/a], title X, § 1052(26), title XIII, § 1352(b), Oct. 23, 1992, [106 Stat. 2457][/us/stat/106/2457], 2500, 2559; [Pub. L. 103–355, title II, § 2101(a)][/us/pl/103/355/s2101/a]–(d), Oct. 13, 1994, [108 Stat. 3306–3308][/us/stat/108/3306-3308]; [Pub. L. 104–106, div. D, title XLIII, § 4321(a)(5)][/us/pl/104/106/s4321/a/5], (b)(9), Feb. 10, 1996, [110 Stat. 671][/us/stat/110/671], 672; [Pub. L. 105–85, div. A, title VIII, § 808(a)][/us/pl/105/85/s808/a], Nov. 18, 1997, [111 Stat. 1836][/us/stat/111/1836]; [Pub. L. 105–261, div. A, title VIII, § 804(a)][/us/pl/105/261/s804/a], Oct. 17, 1998, [112 Stat. 2083][/us/stat/112/2083]; [Pub. L. 111–350, § 5(b)(19)][/us/pl/111/350/s5/b/19], Jan. 4, 2011, [124 Stat. 3844][/us/stat/124/3844]; [Pub. L. 112–81, div. A, title VIII, § 803(a)][/us/pl/112/81/s803/a], (b), Dec. 31, 2011, [125 Stat. 1485][/us/stat/125/1485]; [Pub. L. 112–239, div. A, title VIII, § 827(g)][/us/pl/112/239/s827/g], Jan. 2, 2013, [126 Stat. 1836][/us/stat/126/1836]; [Pub. L. 113–66, div. A, title VIII, § 811(a)][/us/pl/113/66/s811/a], Dec. 26, 2013, [127 Stat. 806][/us/stat/127/806]; [Pub. L. 113–67, div. A, title VII, § 702(a)(2)][/us/pl/113/67/s702/a/2], Dec. 26, 2013, [127 Stat. 1189][/us/stat/127/1189].)
+(Added [Pub. L. 99–145, title IX, § 911(a)(1)][/us/pl/99/145/s911/a/1], Nov. 8, 1985, [99 Stat. 682][/us/stat/99/682]; amended [Pub. L. 99–190, § 101(b)][/us/pl/99/190/s101/b] \[title VIII, § 8112(a)\], Dec. 19, 1985, [99 Stat. 1185][/us/stat/99/1185], 1223; [Pub. L. 100–26, § 7(k)(3)][/us/pl/100/26/s7/k/3], Apr. 21, 1987, [101 Stat. 284][/us/stat/101/284]; [Pub. L. 100–180, div. A, title VIII, § 805(a)][/us/pl/100/180/s805/a], Dec. 4, 1987, [101 Stat. 1126][/us/stat/101/1126]; [Pub. L. 100–370, § 1(f)(2)(A)][/us/pl/100/370/s1/f/2/A], (3)(A), July 19, 1988, [102 Stat. 846][/us/stat/102/846]; [Pub. L. 100–456, div. A, title III, § 322(a)][/us/pl/100/456/s322/a], title VIII, §§ 826(a), 832(a), Sept. 29, 1988, [102 Stat. 1952][/us/stat/102/1952], 2022, 2023; [Pub. L. 100–463, title VIII, § 8105(a)][/us/pl/100/463/s8105/a], Oct. 1, 1988, [102 Stat. 2270–36][/us/stat/102/2270-36]; [Pub. L. 100–526, title I, § 106(a)(2)][/us/pl/100/526/s106/a/2], Oct. 24, 1988, [102 Stat. 2625][/us/stat/102/2625]; [Pub. L. 100–700, § 8(b)][/us/pl/100/700/s8/b], Nov. 19, 1988, [102 Stat. 4636][/us/stat/102/4636]; [Pub. L. 101–189, div. A, title III, § 311(a)(1)][/us/pl/101/189/s311/a/1], title VIII, § 853(a)(1), (b)(3), Nov. 29, 1989, [103 Stat. 1411][/us/stat/103/1411], 1518; [Pub. L. 101–510, div. A, title XIII, § 1301(10)][/us/pl/101/510/s1301/10], Nov. 5, 1990, [104 Stat. 1668][/us/stat/104/1668]; [Pub. L. 102–190, div. A, title III, § 346(a)][/us/pl/102/190/s346/a], Dec. 5, 1991, [105 Stat. 1346][/us/stat/105/1346]; [Pub. L. 102–484, div. A, title VIII, § 818(a)][/us/pl/102/484/s818/a], title X, § 1052(26), title XIII, § 1352(b), Oct. 23, 1992, [106 Stat. 2457][/us/stat/106/2457], 2500, 2559; [Pub. L. 103–355, title II, § 2101(a)][/us/pl/103/355/s2101/a]–(d), Oct. 13, 1994, [108 Stat. 3306–3308][/us/stat/108/3306-3308]; [Pub. L. 104–106, div. D, title XLIII, § 4321(a)(5)][/us/pl/104/106/s4321/a/5], (b)(9), Feb. 10, 1996, [110 Stat. 671][/us/stat/110/671], 672; [Pub. L. 105–85, div. A, title VIII, § 808(a)][/us/pl/105/85/s808/a], Nov. 18, 1997, [111 Stat. 1836][/us/stat/111/1836]; [Pub. L. 105–261, div. A, title VIII, § 804(a)][/us/pl/105/261/s804/a], Oct. 17, 1998, [112 Stat. 2083][/us/stat/112/2083]; [Pub. L. 111–350, § 5(b)(19)][/us/pl/111/350/s5/b/19], Jan. 4, 2011, [124 Stat. 3844][/us/stat/124/3844]; [Pub. L. 112–81, div. A, title VIII, § 803(a)][/us/pl/112/81/s803/a], (b), Dec. 31, 2011, [125 Stat. 1485][/us/stat/125/1485]; [Pub. L. 112–239, div. A, title VIII, § 827(g)][/us/pl/112/239/s827/g], Jan. 2, 2013, [126 Stat. 1836][/us/stat/126/1836]; [Pub. L. 113–66, div. A, title VIII, § 811(a)][/us/pl/113/66/s811/a], Dec. 26, 2013, [127 Stat. 806][/us/stat/127/806]; [Pub. L. 113–67, div. A, title VII, § 702(a)(2)][/us/pl/113/67/s702/a/2], Dec. 26, 2013, [127 Stat. 1189][/us/stat/127/1189]; [Pub. L. 113–291, div. A, title VIII, § 857][/us/pl/113/291/s857], Dec. 19, 2014, [128 Stat. 3460][/us/stat/128/3460].)
 
  __Historical and Revision Notes__ 
 
@@ -324,6 +326,8 @@
     Another [section 2324 of this title][/us/usc/t10/s2324] was contained in chapter 138 and was renumbered [section 2344 of this title][/us/usc/t10/s2344].
 
  __Amendments__ 
+
+    2014—Subsec. (e)(1)(Q). [Pub. L. 113–291][/us/pl/113/291] added subpar. (Q).
 
     2013—Subsec. (e)(1)(P). [Pub. L. 113–66][/us/pl/113/66] and [Pub. L. 113–67][/us/pl/113/67] amended subpar. (P) generally. Prior to amendment, subpar. (P) read as follows: “Costs of compensation of any contractor employee for a fiscal year, regardless of the contract funding source, to the extent that such compensation exceeds the benchmark compensation amount determined applicable for the fiscal year by the Administrator for Federal Procurement Policy under [section 1127 of title 41][/us/usc/t41/s1127], except that the Secretary of Defense may establish one or more narrowly targeted exceptions for scientists and engineers upon a determination that such exceptions are needed to ensure that the Department of Defense has continued access to needed skills and capabilities.”
 
@@ -669,7 +673,7 @@
 
  __Report and Regulations on Excessive Pass-Through Charges__ 
 
-[Pub. L. 109–364, div. A, title VIII, § 852][/us/pl/109/364/s852], Oct. 17, 2006, [120 Stat. 2340][/us/stat/120/2340], provided that:
+[Pub. L. 109–364, div. A, title VIII, § 852][/us/pl/109/364/s852], Oct. 17, 2006, [120 Stat. 2340][/us/stat/120/2340], as amended by [Pub. L. 113–291, div. A, title X, § 1071(b)(3)(B)][/us/pl/113/291/s1071/b/3/B], Dec. 19, 2014, [128 Stat. 3506][/us/stat/128/3506], provided that:
 
 >     “(a) __Comptroller General Report on Excessive Pass-Through Charges.—__ 
 
@@ -703,7 +707,7 @@
 
 >                 “(i) awarded on the basis of adequate price competition; or
 
->                 “(ii) for the acquisition of a commercial item, as defined in section 4(12) of the Office of Federal Procurement Policy Act (\[former\] [41 U.S.C. 403(12)][/us/usc/t41/s403/12]) \[see [41 U.S.C. 103][/us/usc/t41/s103]\]; and
+>                 “(ii) for the acquisition of a commercial item, as defined in [section 103 of title 41][/us/usc/t41/s103], United States Code; and
 
 >             “(B) may include such additional exceptions as the Secretary determines to be necessary in the interest of the national defense.
 
@@ -882,6 +886,8 @@
 [/us/stat/127/806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F806
 [/us/pl/113/67/s702/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs702%2Fa%2F2
 [/us/stat/127/1189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1189
+[/us/pl/113/291/s857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs857
+[/us/stat/128/3460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3460
 [/us/usc/t10/s2399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2399
 [/us/pl/97/295/s1/29/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295%2Fs1%2F29%2FA
 [/us/stat/96/1293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1293
@@ -899,6 +905,7 @@
 [/us/stat/124/3855]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3855
 [/us/usc/t10/s2324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2324
 [/us/usc/t10/s2344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2344
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/pl/113/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67
 [/us/usc/t41/s1127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs1127
@@ -1103,7 +1110,8 @@
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 [/us/pl/109/364/s852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs852
 [/us/stat/120/2340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2340
-[/us/usc/t41/s403/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs403%2F12
+[/us/pl/113/291/s1071/b/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Fb%2F3%2FB
+[/us/stat/128/3506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3506
 [/us/usc/t41/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs103
 [/us/pl/112/239/s827/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs827%2Fh
 [/us/stat/126/1836]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1836

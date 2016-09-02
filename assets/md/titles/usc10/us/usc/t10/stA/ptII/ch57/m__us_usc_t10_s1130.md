@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stA/ptII/ch57/m__us_usc_t10_s1129.md) | [Next](./../../../../../..//us/usc/t10/stA/ptII/ch57/m__us_usc_t10_s1131.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1130)
+[Previous](./../../../../../..//us/usc/t10/stA/ptII/ch57/m__us_usc_t10_s1129a.md) | [Next](./../../../../../..//us/usc/t10/stA/ptII/ch57/m__us_usc_t10_s1131.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1130)
 
 ## § 1130. Consideration of proposals for decorations not previously submitted in timely fashion: procedures for review
 
@@ -199,7 +199,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stA/ptII/ch57/m__us_usc_t10_s1129.md) | [Next](./../../../../../..//us/usc/t10/stA/ptII/ch57/m__us_usc_t10_s1131.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1130)
+[Previous](./../../../../../..//us/usc/t10/stA/ptII/ch57/m__us_usc_t10_s1129a.md) | [Next](./../../../../../..//us/usc/t10/stA/ptII/ch57/m__us_usc_t10_s1131.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1130)
 
 ----------
 ----------

@@ -27,9 +27,9 @@
 
          The term of a judge shall expire as follows:
 
-            (A) In the case of a judge who is appointed after March 31 and before October 1 of any year, the term shall expire on September 30 of the year in which the fifteenth anniversary of the appointment occurs.
+            (A) In the case of a judge who is appointed after January 31 and before July 31 of any year, the term shall expire on July 31 of the year in which the fifteenth anniversary of the appointment occurs.
 
-            (B) In the case of a judge who is appointed after September 30 of any year and before April 1 of the following year, the term shall expire fifteen years after such September 30.
+            (B) In the case of a judge who is appointed after July 31 of any year and before February 1 of the following year, the term shall expire fifteen years after such July 31.
 
         (3) Not more than three of the judges of the court may be appointed from the same political party, and no person may be appointed to be a judge of the court unless the person is a member of the bar of a Federal court or the highest court of a State.
 
@@ -109,9 +109,13 @@
 
     A vacancy on the court does not impair the right of the remaining judges to exercise the powers of the court.
 
-(Added [Pub. L. 101–189, div. A, title XIII, § 1301(c)][/us/pl/101/189/s1301/c], Nov. 29, 1989, [103 Stat. 1570][/us/stat/103/1570]; amended [Pub. L. 101–510, div. A, title V, § 541(f)][/us/pl/101/510/s541/f], Nov. 5, 1990, [104 Stat. 1565][/us/stat/104/1565]; [Pub. L. 102–190, div. A, title X, § 1061(b)(1)(A)][/us/pl/102/190/s1061/b/1/A], (B), (2), Dec. 5, 1991, [105 Stat. 1474][/us/stat/105/1474]; [Pub. L. 103–337, div. A, title IX, § 924(c)(1)][/us/pl/103/337/s924/c/1], Oct. 5, 1994, [108 Stat. 2831][/us/stat/108/2831]; [Pub. L. 104–106, div. A, title XV, § 1502(a)(2)][/us/pl/104/106/s1502/a/2], Feb. 10, 1996, [110 Stat. 502][/us/stat/110/502]; [Pub. L. 106–65, div. A, title X, § 1067(1)][/us/pl/106/65/s1067/1], Oct. 5, 1999, [113 Stat. 774][/us/stat/113/774]; [Pub. L. 113–66, div. A, title V, § 531(a)][/us/pl/113/66/s531/a], Dec. 26, 2013, [127 Stat. 759][/us/stat/127/759].)
+(Added [Pub. L. 101–189, div. A, title XIII, § 1301(c)][/us/pl/101/189/s1301/c], Nov. 29, 1989, [103 Stat. 1570][/us/stat/103/1570]; amended [Pub. L. 101–510, div. A, title V, § 541(f)][/us/pl/101/510/s541/f], Nov. 5, 1990, [104 Stat. 1565][/us/stat/104/1565]; [Pub. L. 102–190, div. A, title X, § 1061(b)(1)(A)][/us/pl/102/190/s1061/b/1/A], (B), (2), Dec. 5, 1991, [105 Stat. 1474][/us/stat/105/1474]; [Pub. L. 103–337, div. A, title IX, § 924(c)(1)][/us/pl/103/337/s924/c/1], Oct. 5, 1994, [108 Stat. 2831][/us/stat/108/2831]; [Pub. L. 104–106, div. A, title XV, § 1502(a)(2)][/us/pl/104/106/s1502/a/2], Feb. 10, 1996, [110 Stat. 502][/us/stat/110/502]; [Pub. L. 106–65, div. A, title X, § 1067(1)][/us/pl/106/65/s1067/1], Oct. 5, 1999, [113 Stat. 774][/us/stat/113/774]; [Pub. L. 113–66, div. A, title V, § 531(a)][/us/pl/113/66/s531/a], Dec. 26, 2013, [127 Stat. 759][/us/stat/127/759]; [Pub. L. 113–291, div. A, title V, § 540(a)][/us/pl/113/291/s540/a], Dec. 19, 2014, [128 Stat. 3371][/us/stat/128/3371].)
 
  __Amendments__ 
+
+    2014—Subsec. (b)(2)(A). [Pub. L. 113–291, § 540(a)(1)][/us/pl/113/291/s540/a/1], substituted “January 31” for “March 31”, “July 31 of any year” for “October 1 of any year”, and “July 31 of the year” for “September 30 of the year”.
+
+    Subsec. (b)(2)(B). [Pub. L. 113–291, § 540(a)(2)][/us/pl/113/291/s540/a/2], substituted “July 31” for “September 30” in two places and “February 1” for “April 1”.
 
     2013—Subsec. (b)(4). [Pub. L. 113–66][/us/pl/113/66] amended par. (4) generally. Prior to amendment, par. (4) read as follows: “For purposes of appointment of judges to the court, a person retired from the armed forces after 20 or more years of active service (whether or not such person is on the retired list) shall not be considered to be in civilian life.”
 
@@ -152,6 +156,12 @@
 [Pub. L. 104–201, div. A, title X, § 1074(c)(2)][/us/pl/104/201/s1074/c/2], Sept. 23, 1996, [110 Stat. 2660][/us/stat/110/2660], provided that: 
 
 > “The authority provided under [section 942(f) of title 10][/us/usc/t10/s942/f], United States Code, shall be effective as if section 1142 of the National Defense Authorization Act for Fiscal Year 1996 ([Public Law 104–106][/us/pl/104/106]; [110 Stat. 467][/us/stat/110/467]) \[repealing [section 1301(i) of Pub. L. 101–189][/us/pl/101/189/s1301/i], set out below\] had been enacted on September 29, 1995.”
+
+ __Saving Provision__ 
+
+[Pub. L. 113–291, div. A, title V, § 540(b)][/us/pl/113/291/s540/b], Dec. 19, 2014, [128 Stat. 3371][/us/stat/128/3371], provided that: 
+
+> “No person who is serving as a judge of the court on the date of the enactment of this Act \[Dec. 19, 2014\], and no survivor of any such person, shall be deprived of any annuity provided by [section 945 of title 10][/us/usc/t10/s945], United States Code, by the operation of the amendments made by subsection (a) \[amending this section\].”
 
  __Transitional Provisions__ 
 
@@ -223,6 +233,10 @@
 [/us/stat/113/774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F774
 [/us/pl/113/66/s531/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs531%2Fa
 [/us/stat/127/759]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F759
+[/us/pl/113/291/s540/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs540%2Fa
+[/us/stat/128/3371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3371
+[/us/pl/113/291/s540/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs540%2Fa%2F1
+[/us/pl/113/291/s540/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs540%2Fa%2F2
 [/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
 [/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
@@ -245,6 +259,9 @@
 [/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
 [/us/stat/110/467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F467
 [/us/pl/101/189/s1301/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs1301%2Fi
+[/us/pl/113/291/s540/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs540%2Fb
+[/us/stat/128/3371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3371
+[/us/usc/t10/s945]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs945
 [/us/pl/101/189/s1301/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs1301%2Fd
 [/us/stat/103/1574-1576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1574-1576
 [/us/pl/104/106/s1142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1142

@@ -77,7 +77,7 @@
 
     (d)  __Solicitation to State Number of Offerors To Be Selected for Phase Two Requests for Competitive Proposals__  __.—__ 
 
-    A solicitation issued pursuant to the procedures described in subsection (c) shall state the maximum number of offerors that are to be selected to submit competitive proposals pursuant to subsection (c)(4). The maximum number specified in the solicitation shall not exceed 5 unless the agency determines with respect to an individual solicitation that a specified number greater than 5 is in the Government’s interest and is consistent with the purposes and objectives of the two-phase selection process.
+    A solicitation issued pursuant to the procedures described in subsection (c) shall state the maximum number of offerors that are to be selected to submit competitive proposals pursuant to subsection (c)(4). If the contract value exceeds $4,000,000, the maximum number specified in the solicitation shall not exceed 5 unless the head of the contracting activity, delegable to a level no lower than the senior contracting official within the contracting activity, approves the contracting officer’s justification with respect to an individual solicitation that a number greater than 5 is in the Federal Government’s interest. The contracting officer shall provide written documentation of how a maximum number exceeding 5 is consistent with the purposes and objectives of the two-phase selection procedures.
 
     (e)  __Requirement for Guidance and Regulations__  __.—__ 
 
@@ -99,13 +99,15 @@
 
         (4) Not later than March 1, 2008, the Secretary of Defense shall submit to the congressional defense committees a report evaluating the usefulness of the authority provided by this subsection in expediting the design and construction of military construction projects. The authority provided by this subsection expires September 30, 2008, except that, if the report required by this paragraph is not submitted by March 1, 2008, the authority shall expire on that date.
 
-(Added [Pub. L. 104–106, div. D, title XLI, § 4105(a)(1)][/us/pl/104/106/s4105/a/1], Feb. 10, 1996, [110 Stat. 645][/us/stat/110/645]; amended [Pub. L. 105–85, div. A, title X, § 1073(a)(44)][/us/pl/105/85/s1073/a/44], Nov. 18, 1997, [111 Stat. 1902][/us/stat/111/1902]; [Pub. L. 107–217, § 3(b)(4)][/us/pl/107/217/s3/b/4], Aug. 21, 2002, [116 Stat. 1295][/us/stat/116/1295]; [Pub. L. 108–178, § 4(b)(3)][/us/pl/108/178/s4/b/3], Dec. 15, 2003, [117 Stat. 2641][/us/stat/117/2641]; [Pub. L. 108–375, div. B, title XXVIII, § 2807][/us/pl/108/375/s2807], Oct. 28, 2004, [118 Stat. 2123][/us/stat/118/2123]; [Pub. L. 109–163, div. B, title XXVIII, § 2807][/us/pl/109/163/s2807], Jan. 6, 2006, [119 Stat. 3508][/us/stat/119/3508].)
+(Added [Pub. L. 104–106, div. D, title XLI, § 4105(a)(1)][/us/pl/104/106/s4105/a/1], Feb. 10, 1996, [110 Stat. 645][/us/stat/110/645]; amended [Pub. L. 105–85, div. A, title X, § 1073(a)(44)][/us/pl/105/85/s1073/a/44], Nov. 18, 1997, [111 Stat. 1902][/us/stat/111/1902]; [Pub. L. 107–217, § 3(b)(4)][/us/pl/107/217/s3/b/4], Aug. 21, 2002, [116 Stat. 1295][/us/stat/116/1295]; [Pub. L. 108–178, § 4(b)(3)][/us/pl/108/178/s4/b/3], Dec. 15, 2003, [117 Stat. 2641][/us/stat/117/2641]; [Pub. L. 108–375, div. B, title XXVIII, § 2807][/us/pl/108/375/s2807], Oct. 28, 2004, [118 Stat. 2123][/us/stat/118/2123]; [Pub. L. 109–163, div. B, title XXVIII, § 2807][/us/pl/109/163/s2807], Jan. 6, 2006, [119 Stat. 3508][/us/stat/119/3508]; [Pub. L. 113–291, div. A, title VIII, § 814][/us/pl/113/291/s814], Dec. 19, 2014, [128 Stat. 3430][/us/stat/128/3430].)
 
  __Prior Provisions__ 
 
     A prior section 2305a was renumbered [section 2438 of this title][/us/usc/t10/s2438].
 
  __Amendments__ 
+
+    2014—Subsec. (d). [Pub. L. 113–291][/us/pl/113/291] substituted “If the contract value exceeds $4,000,000, the maximum number specified in the solicitation shall not exceed 5 unless the head of the contracting activity, delegable to a level no lower than the senior contracting official within the contracting activity, approves the contracting officer’s justification with respect to an individual solicitation that a number greater than 5 is in the Federal Government’s interest. The contracting officer shall provide written documentation of how a maximum number exceeding 5 is consistent with the purposes and objectives of the two-phase selection procedures.” for “The maximum number specified in the solicitation shall not exceed 5 unless the agency determines with respect to an individual solicitation that a specified number greater than 5 is in the Government’s interest and is consistent with the purposes and objectives of the two-phase selection process.”
 
     2006—Subsec. (f)(2). [Pub. L. 109–163, § 2807(a)][/us/pl/109/163/s2807/a], amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Any military construction contract that provides for an accelerated design effort, as authorized by paragraph (1), shall include as a condition of the contract that the liability of the United States in a termination for convenience may not exceed the actual costs incurred as of the termination date.”
 
@@ -150,7 +152,10 @@
 [/us/stat/118/2123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2123
 [/us/pl/109/163/s2807]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs2807
 [/us/stat/119/3508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3508
+[/us/pl/113/291/s814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs814
+[/us/stat/128/3430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3430
 [/us/usc/t10/s2438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2438
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/pl/109/163/s2807/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs2807%2Fa
 [/us/pl/109/163/s2807/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs2807%2Fb
 [/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375

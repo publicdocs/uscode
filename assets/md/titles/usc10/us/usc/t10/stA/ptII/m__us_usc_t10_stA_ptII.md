@@ -557,7 +557,7 @@
 
  __Enhanced Protections for Prospective Members and New Members of the Armed Forces During Entry-Level Processing and Training__ 
 
-[Pub. L. 113–66, div. A, title XVII, § 1741][/us/pl/113/66/s1741], Dec. 26, 2013, [127 Stat. 977][/us/stat/127/977], provided that:
+[Pub. L. 113–66, div. A, title XVII, § 1741][/us/pl/113/66/s1741], Dec. 26, 2013, [127 Stat. 977][/us/stat/127/977], as amended by [Pub. L. 113–291, div. A, title V, § 531(e)][/us/pl/113/291/s531/e], Dec. 19, 2014, [128 Stat. 3364][/us/stat/128/3364], provided that:
 
 >     “(a) __Defining Inappropriate and Prohibited Relationships, Communication, Conduct, and Contact Between Certain Members.—__ 
 
@@ -625,7 +625,7 @@
 
 >         “(1) The term ‘entry-level processing or training’, with respect to a member of the Armed Forces, means the period beginning on the date on which the member became a member of the Armed Forces and ending on the date on which the member physically arrives at that member’s first duty assignment following completion of initial entry training (or its equivalent), as defined by the Secretary of the military department concerned or the Secretary of the Department in which the Coast Guard is operating.
 
->         “(2) The term ‘prospective member of the Armed Forces’ means a person who has had a face-to-face meeting with a member of the Armed Forces assigned or attached to duty described in subsection (a)(3)(A) regarding becoming a member of the Armed Forces, regardless of whether the person eventually becomes a member of the Armed Forces.
+>         “(2) The term ‘prospective member of the Armed Forces’ means a person who is pursuing or has recently pursued becoming a member of the Armed Forces and who has had a face-to-face meeting with a member of the Armed Forces assigned or attached to duty described in subsection (a)(3)(A) regarding becoming a member of the Armed Forces, regardless of whether the person eventually becomes a member of the Armed Forces.
 
 >     “(f)  __Regulations__  __.—__ 
 
@@ -697,6 +697,8 @@
 [/us/stat/72/1443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1443
 [/us/pl/113/66/s1741]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1741
 [/us/stat/127/977]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F977
+[/us/pl/113/291/s531/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs531%2Fe
+[/us/stat/128/3364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3364
 [/us/usc/t10/s815]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs815
 
 

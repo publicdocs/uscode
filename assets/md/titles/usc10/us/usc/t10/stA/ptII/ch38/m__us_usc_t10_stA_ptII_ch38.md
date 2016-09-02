@@ -73,9 +73,9 @@
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs667" data-uslm-ref="/us/usc/t10/s667">667.</a>  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs667" data-uslm-ref="/us/usc/t10/s667">667.</a>  </td>
 
-    <td> Annual report to Congress.  </td>
+    <td> Repealed.]  </td>
 
   </tr>
 
@@ -91,6 +91,8 @@
 
  __Amendments__ 
 
+    2014—[Pub. L. 113–291, div. A, title V, § 505(b)][/us/pl/113/291/s505/b], Dec. 19, 2014, [128 Stat. 3356][/us/stat/128/3356], struck out item 667 “Annual report to Congress”.
+
     2008—[Pub. L. 110–417][/us/pl/110/417], \[div. A\], title V, § 522(a)(3), (c)(3), Oct. 14, 2008, [122 Stat. 4445][/us/stat/122/4445], added items 661 and 665 and struck out former items 661 “Management policies for officers who are joint qualified” and 665 “Procedures for monitoring careers of joint officers”.
 
     2006—[Pub. L. 109–364, div. A, title V, § 516(e)(2)][/us/pl/109/364/s516/e/2], Oct. 17, 2006, [120 Stat. 2189][/us/stat/120/2189], substituted “officers who are joint qualified” for “joint specialty officers” in item 661.
@@ -104,6 +106,8 @@
 ----------
 ----------
 
+[/us/pl/113/291/s505/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs505%2Fb
+[/us/stat/128/3356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3356
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4445
 [/us/pl/109/364/s516/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs516%2Fe%2F2

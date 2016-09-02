@@ -55,6 +55,14 @@
 
 (Added [Pub. L. 110–181, div. A, title IX, § 941(a)][/us/pl/110/181/s941/a], Jan. 28, 2008, [122 Stat. 286][/us/stat/122/286].)
 
+ __Repeal of Section__ 
+
+    [Pub. L. 113–291, div. A, title X, § 1072(b)(1)][/us/pl/113/291/s1072/b/1], (c), Dec. 19, 2014, [128 Stat. 3516][/us/stat/128/3516], 3517, provided that, effective Oct. 1, 2015, this section is repealed.
+
+ __Effective Date of Repeal__ 
+
+    Repeal of section effective Oct. 1, 2015, see [section 1072(c) of Pub. L. 113–291][/us/pl/113/291/s1072/c], set out as an Effective Date of 2014 Amendment note under [section 118 of this title][/us/usc/t10/s118].
+
  __Inclusion of Assessment of Joint Military Training and Force Allocations in Quadrennial Defense Review and National Military Strategy__ 
 
 [Pub. L. 112–81, div. A, title III, § 348][/us/pl/112/81/s348], Dec. 31, 2011, [125 Stat. 1375][/us/stat/125/1375], provided that: 
@@ -88,6 +96,10 @@
 [/us/usc/t31/s1105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105%2Fa
 [/us/pl/110/181/s941/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs941%2Fa
 [/us/stat/122/286]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F286
+[/us/pl/113/291/s1072/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1072%2Fb%2F1
+[/us/stat/128/3516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3516
+[/us/pl/113/291/s1072/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1072%2Fc
+[/us/usc/t10/s118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs118
 [/us/pl/112/81/s348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs348
 [/us/stat/125/1375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1375
 [/us/usc/t10/s153/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs153%2Fb

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../../..//us/usc/t10/stA/ptIV/ch173/schIII/m__us_usc_t10_s2924.md) | [Next](./../../../../../../..//us/usc/t10/stB/m__us_usc_t10_stB.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2925)
+[Previous](./../../../../../../..//us/usc/t10/stA/ptIV/ch173/schIII/m__us_usc_t10_s2924.md) | [Next](./../../../../../../..//us/usc/t10/stA/ptIV/ch173/schIII/m__us_usc_t10_s2926.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2925)
 
 ## § 2925. Annual Department of Defense energy management reports
 
@@ -45,7 +45,7 @@
 
     (b)  __Annual Report Related to Operational Energy__  __.—__ 
 
-        (1) Simultaneous with the annual report required by subsection (a), the Secretary of Defense, acting through the Assistant Secretary of Defense for Operational Energy Plans and Programs, shall submit to the congressional defense committees a report on operational energy management and the implementation of the operational energy strategy established pursuant to [section 138c of this title][/us/usc/t10/s138c].
+        (1) Simultaneous with the annual report required by subsection (a), the Secretary of Defense, acting through the Assistant Secretary of Defense for Energy, Installations, and Environment, shall submit to the congressional defense committees a report on operational energy management and the implementation of the operational energy strategy established pursuant to section 138c  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title.
 
         (2)
 
@@ -73,7 +73,7 @@
 
         (3) If a report under this subsection is submitted in a classified form, the Secretary shall concurrently submit to the congressional defense committees an unclassified version of the information required by this subsection.
 
-(Added [Pub. L. 109–364, div. B, title XXVIII, § 2851(a)(1)][/us/pl/109/364/s2851/a/1], Oct. 17, 2006, [120 Stat. 2493][/us/stat/120/2493]; amended [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title III, § 331(a), (b)(1), div. B, title XXVIII, § 2832, Oct. 14, 2008, [122 Stat. 4419][/us/stat/122/4419], 4420, 4732; [Pub. L. 111–84, div. A, title III, § 332(a)][/us/pl/111/84/s332/a], Oct. 28, 2009, [123 Stat. 2257][/us/stat/123/2257]; [Pub. L. 111–383, div. B, title XXVIII, § 2832(c)(1)][/us/pl/111/383/s2832/c/1], Jan. 7, 2011, [124 Stat. 4469][/us/stat/124/4469]; [Pub. L. 112–81, div. A, title III][/us/pl/112/81], §§ 314(b), 342, div. B, title XXVIII, §§ 2821(b)(4), 2822(d), 2824(b), 2826, Dec. 31, 2011, [125 Stat. 1357][/us/stat/125/1357], 1370, 1691–1694; [Pub. L. 112–239, div. A, title X, § 1076(c)(3)][/us/pl/112/239/s1076/c/3], (d)(6), Jan. 2, 2013, [126 Stat. 1950][/us/stat/126/1950], 1951.)
+(Added [Pub. L. 109–364, div. B, title XXVIII, § 2851(a)(1)][/us/pl/109/364/s2851/a/1], Oct. 17, 2006, [120 Stat. 2493][/us/stat/120/2493]; amended [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title III, § 331(a), (b)(1), div. B, title XXVIII, § 2832, Oct. 14, 2008, [122 Stat. 4419][/us/stat/122/4419], 4420, 4732; [Pub. L. 111–84, div. A, title III, § 332(a)][/us/pl/111/84/s332/a], Oct. 28, 2009, [123 Stat. 2257][/us/stat/123/2257]; [Pub. L. 111–383, div. B, title XXVIII, § 2832(c)(1)][/us/pl/111/383/s2832/c/1], Jan. 7, 2011, [124 Stat. 4469][/us/stat/124/4469]; [Pub. L. 112–81, div. A, title III][/us/pl/112/81], §§ 314(b), 342, div. B, title XXVIII, §§ 2821(b)(4), 2822(d), 2824(b), 2826, Dec. 31, 2011, [125 Stat. 1357][/us/stat/125/1357], 1370, 1691–1694; [Pub. L. 112–239, div. A, title X, § 1076(c)(3)][/us/pl/112/239/s1076/c/3], (d)(6), Jan. 2, 2013, [126 Stat. 1950][/us/stat/126/1950], 1951; [Pub. L. 113–291, div. A, title IX, § 901(k)(4)][/us/pl/113/291/s901/k/4], Dec. 19, 2014, [128 Stat. 3468][/us/stat/128/3468].)
 
  __References in Text__ 
 
@@ -81,7 +81,11 @@
 
     The Energy Independence and Security Act of 2007, referred to in subsec. (a)(1), (9), is [Pub. L. 110–140][/us/pl/110/140], Dec. 19, 2007, [121 Stat. 1492][/us/stat/121/1492], which enacted chapter 152 of Title 42, The Public Health and Welfare, and enacted and amended numerous other sections and notes in the Code. Section 433 of the Act amended sections 6832 and 6834 of Title 42 and enacted provisions set out as a note under [section 6834 of Title 42][/us/usc/t42/s6834]. For complete classification of this Act to the Code, see Short Title note set out under [section 17001 of Title 42][/us/usc/t42/s17001] and Tables.
 
+    [Section 138c of this title][/us/usc/t10/s138c], referred to in subsec. (b)(1), was repealed by [Pub. L. 113–291, div. A, title IX, § 901(g)(2)][/us/pl/113/291/s901/g/2], Dec. 19, 2014, [128 Stat. 3466][/us/stat/128/3466].
+
  __Amendments__ 
+
+    2014—Subsec. (b)(1). [Pub. L. 113–291][/us/pl/113/291] substituted “Energy, Installations, and Environment” for “Operational Energy Plans and Programs”.
 
     2013—Subsec. (a)(1). [Pub. L. 112–239, § 1076(d)(6)(A)][/us/pl/112/239/s1076/d/6/A], substituted “section 553” for “section 533”.
 
@@ -129,7 +133,7 @@
 
 ----------
 
-[Previous](./../../../../../../..//us/usc/t10/stA/ptIV/ch173/schIII/m__us_usc_t10_s2924.md) | [Next](./../../../../../../..//us/usc/t10/stB/m__us_usc_t10_stB.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2925)
+[Previous](./../../../../../../..//us/usc/t10/stA/ptIV/ch173/schIII/m__us_usc_t10_s2924.md) | [Next](./../../../../../../..//us/usc/t10/stA/ptIV/ch173/schIII/m__us_usc_t10_s2926.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2925)
 
 ----------
 ----------
@@ -143,7 +147,6 @@
 [/us/usc/t10/s2913]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2913
 [/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
 [/us/stat/121/1612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1612
-[/us/usc/t10/s138c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs138c
 [/us/usc/t31/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105
 [/us/pl/109/364/s2851/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs2851%2Fa%2F1
 [/us/stat/120/2493]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2493
@@ -157,6 +160,8 @@
 [/us/stat/125/1357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1357
 [/us/pl/112/239/s1076/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1076%2Fc%2F3
 [/us/stat/126/1950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1950
+[/us/pl/113/291/s901/k/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs901%2Fk%2F4
+[/us/stat/128/3468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3468
 [/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
 [/us/stat/119/594]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F594
 [/us/usc/t42/s15801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15801
@@ -164,6 +169,10 @@
 [/us/stat/121/1492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1492
 [/us/usc/t42/s6834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6834
 [/us/usc/t42/s17001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs17001
+[/us/usc/t10/s138c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs138c
+[/us/pl/113/291/s901/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs901%2Fg%2F2
+[/us/stat/128/3466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3466
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/pl/112/239/s1076/d/6/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1076%2Fd%2F6%2FA
 [/us/pl/112/239/s1076/c/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1076%2Fc%2F3%2FA
 [/us/pl/112/239/s1076/c/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1076%2Fc%2F3%2FB

@@ -31,7 +31,7 @@
 
         (4)
 
-            (A) If an agreement under paragraph (3) provides for a utility to pay in advance the financing costs for the design or implementation of a program referred to in that paragraph and for such advance payment to be repayed by the United States, the cost of such advance payment may be recovered by the utility under terms that are not less favorable than the terms applicable to the most favored customer of the utility.
+            (A) If an agreement under paragraph (3) provides for a utility to pay in advance the financing costs for the design or implementation of a program referred to in that paragraph and for such advance payment to be repaid by the United States, the cost of such advance payment may be recovered by the utility under terms that are not less favorable than the terms applicable to the most favored customer of the utility.
 
             (B) Subject to the availability of appropriations, a repayment of an advance payment under subparagraph (A) shall be made from funds available to a military department for the purchase of utility services.
 
@@ -65,9 +65,11 @@
 
         (2) When a decision is made to carry out a project under paragraph (1), the Secretary of Defense shall notify the appropriate committees of Congress of that decision. Such project may be carried out only after the end of the 21-day period beginning on the date the notification is received by such committees or, if earlier, the end of the 14-day period beginning on the date on which a copy of the notification is provided in an electronic medium pursuant to [section 480 of this title][/us/usc/t10/s480].
 
-(Added [Pub. L. 103–160, div. B, title XXVIII, § 2803(a)][/us/pl/103/160/s2803/a], Nov. 30, 1993, [107 Stat. 1884][/us/stat/107/1884]; amended [Pub. L. 104–106, div. A, title XV, § 1502(a)(27)][/us/pl/104/106/s1502/a/27], Feb. 10, 1996, [110 Stat. 506][/us/stat/110/506]; [Pub. L. 105–85, div. B, title XXVIII, § 2804(b)][/us/pl/105/85/s2804/b], Nov. 18, 1997, [111 Stat. 1991][/us/stat/111/1991]; [Pub. L. 108–136, div. A, title X, § 1031(a)(48)][/us/pl/108/136/s1031/a/48], Nov. 24, 2003, [117 Stat. 1602][/us/stat/117/1602]; [Pub. L. 109–364, div. B, title XXVIII, § 2851(d)][/us/pl/109/364/s2851/d], Oct. 17, 2006, [120 Stat. 2495][/us/stat/120/2495].)
+(Added [Pub. L. 103–160, div. B, title XXVIII, § 2803(a)][/us/pl/103/160/s2803/a], Nov. 30, 1993, [107 Stat. 1884][/us/stat/107/1884]; amended [Pub. L. 104–106, div. A, title XV, § 1502(a)(27)][/us/pl/104/106/s1502/a/27], Feb. 10, 1996, [110 Stat. 506][/us/stat/110/506]; [Pub. L. 105–85, div. B, title XXVIII, § 2804(b)][/us/pl/105/85/s2804/b], Nov. 18, 1997, [111 Stat. 1991][/us/stat/111/1991]; [Pub. L. 108–136, div. A, title X, § 1031(a)(48)][/us/pl/108/136/s1031/a/48], Nov. 24, 2003, [117 Stat. 1602][/us/stat/117/1602]; [Pub. L. 109–364, div. B, title XXVIII, § 2851(d)][/us/pl/109/364/s2851/d], Oct. 17, 2006, [120 Stat. 2495][/us/stat/120/2495]; [Pub. L. 113–291, div. A, title X, § 1071(f)(25)][/us/pl/113/291/s1071/f/25], Dec. 19, 2014, [128 Stat. 3511][/us/stat/128/3511].)
 
  __Amendments__ 
+
+    2014—Subsec. (a)(4)(A). [Pub. L. 113–291][/us/pl/113/291] substituted “repaid” for “repayed”.
 
     2006—Subsec. (b). [Pub. L. 109–364][/us/pl/109/364] reenacted heading without change and amended text generally. Prior to amendment, text read as follows:
 
@@ -102,6 +104,9 @@
 [/us/stat/117/1602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1602
 [/us/pl/109/364/s2851/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs2851%2Fd
 [/us/stat/120/2495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2495
+[/us/pl/113/291/s1071/f/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Ff%2F25
+[/us/stat/128/3511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3511
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
 [/us/usc/t10/s2865/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2865%2Fb%2F3
 [/us/usc/t10/s2865/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2865%2Fb%2F2

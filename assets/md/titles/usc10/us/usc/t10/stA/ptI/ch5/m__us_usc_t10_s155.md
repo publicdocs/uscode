@@ -41,7 +41,7 @@
 
     (d)  __Operation of Joint Staff__  __.—__ 
 
-    The Secretary of Defense shall ensure that the Joint Staff is independently organized and operated so that the Joint Staff supports the Chairman of the Joint Chiefs of Staff in meeting the congressional purpose set forth in the last clause of section 2 of the National Security Act of 1947 ([50 U.S.C. 401][/us/usc/t50/s401])  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  to provide—
+    The Secretary of Defense shall ensure that the Joint Staff is independently organized and operated so that the Joint Staff supports the Chairman of the Joint Chiefs of Staff in meeting the congressional purpose set forth in the last clause of section 2 of the National Security Act of 1947 ([50 U.S.C. 3002][/us/usc/t50/s3002]) to provide—
 
         (1) for the unified strategic direction of the combatant forces;
 
@@ -75,13 +75,11 @@
 
         (2) The Joint Staff does not include members of the armed forces or civilian employees assigned or detailed to permanent duty in a military department.
 
-(Added [Pub. L. 99–433, title II, § 201][/us/pl/99/433/s201], Oct. 1, 1986, [100 Stat. 1009][/us/stat/100/1009]; amended [Pub. L. 100–180, div. A, title XIII, § 1314(b)(2)][/us/pl/100/180/s1314/b/2], Dec. 4, 1987, [101 Stat. 1175][/us/stat/101/1175]; [Pub. L. 101–510, div. A, title IX, § 902][/us/pl/101/510/s902], Nov. 5, 1990, [104 Stat. 1620][/us/stat/104/1620]; [Pub. L. 102–484, div. A, title IX, § 911(b)(2)][/us/pl/102/484/s911/b/2], Oct. 23, 1992, [106 Stat. 2473][/us/stat/106/2473]; [Pub. L. 103–35, title II, § 202(a)(8)][/us/pl/103/35/s202/a/8], May 31, 1993, [107 Stat. 101][/us/stat/107/101].)
-
- __References in Text__ 
-
-    The National Security Act of 1947, referred to in subsec. (d), is [act July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], [61 Stat. 495][/us/stat/61/495], which was formerly classified principally to chapter 15 (§ 401 et seq.) of Title 50, War and National Defense, prior to editorial reclassification in chapter 44 (§ 3001 et seq.) of Title 50. Section 2 of the Act is now classified to [section 3002 of Title 50][/us/usc/t50/s3002]. For complete classification of this Act to the Code, see Tables.
+(Added [Pub. L. 99–433, title II, § 201][/us/pl/99/433/s201], Oct. 1, 1986, [100 Stat. 1009][/us/stat/100/1009]; amended [Pub. L. 100–180, div. A, title XIII, § 1314(b)(2)][/us/pl/100/180/s1314/b/2], Dec. 4, 1987, [101 Stat. 1175][/us/stat/101/1175]; [Pub. L. 101–510, div. A, title IX, § 902][/us/pl/101/510/s902], Nov. 5, 1990, [104 Stat. 1620][/us/stat/104/1620]; [Pub. L. 102–484, div. A, title IX, § 911(b)(2)][/us/pl/102/484/s911/b/2], Oct. 23, 1992, [106 Stat. 2473][/us/stat/106/2473]; [Pub. L. 103–35, title II, § 202(a)(8)][/us/pl/103/35/s202/a/8], May 31, 1993, [107 Stat. 101][/us/stat/107/101]; [Pub. L. 113–291, div. A, title X, § 1071(c)(1)][/us/pl/113/291/s1071/c/1], Dec. 19, 2014, [128 Stat. 3508][/us/stat/128/3508].)
 
  __Amendments__ 
+
+    2014—Subsec. (d). [Pub. L. 113–291][/us/pl/113/291] substituted “([50 U.S.C. 3002][/us/usc/t50/s3002])” for “([50 U.S.C. 401][/us/usc/t50/s401])” in introductory provisions.
 
     1993—Subsec. (a)(1). [Pub. L. 103–35][/us/pl/103/35] made technical amendment to directory language of [Pub. L. 102–484][/us/pl/102/484]. See 1992 Amendment note below.
 
@@ -138,7 +136,7 @@
 ----------
 ----------
 
-[/us/usc/t50/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs401
+[/us/usc/t50/s3002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3002
 [/us/pl/99/433/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2Fs201
 [/us/stat/100/1009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1009
 [/us/pl/100/180/s1314/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs1314%2Fb%2F2
@@ -149,9 +147,11 @@
 [/us/stat/106/2473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2473
 [/us/pl/103/35/s202/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F35%2Fs202%2Fa%2F8
 [/us/stat/107/101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F101
-[/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
-[/us/stat/61/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F495
+[/us/pl/113/291/s1071/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Fc%2F1
+[/us/stat/128/3508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3508
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/usc/t50/s3002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3002
+[/us/usc/t50/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs401
 [/us/pl/103/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F35
 [/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
 [/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484

@@ -15,7 +15,19 @@
 
 ## § 849. Art. 49. Depositions
 
-    (a) At any time after charges have been signed as provided in [section 830 of this title][/us/usc/t10/s830] (article 30), any party may take oral or written depositions unless the military judge or court-martial without a military judge hearing the case or, if the case is not being heard, an authority competent to convene a court-martial for the trial of those charges forbids it for good cause. If a deposition is to be taken before charges are referred for trial, such an authority may designate commissioned officers to represent the prosecution and the defense and may authorize those officers to take the deposition of any witness.
+    (a)
+
+        (1)
+
+         At any time after charges have been signed as provided in [section 830 of this title][/us/usc/t10/s830] (article 30), oral or written depositions may be ordered as follows:
+
+            (A) Before referral of such charges for trial, by the convening authority who has such charges for disposition.
+
+            (B) After referral of such charges for trial, by the convening authority or the military judge hearing the case.
+
+        (2) An authority authorized to order a deposition under paragraph (1) may order the deposition at the request of any party, but only if the party demonstrates that, due to exceptional circumstances, it is in the interest of justice that the testimony of the prospective witness be taken and preserved for use at a preliminary hearing under [section 832 of this title][/us/usc/t10/s832] (article 32) or a court-martial.
+
+        (3) If a deposition is to be taken before charges are referred for trial, the authority under paragraph (1)(A) may designate commissioned officers as counsel for the Government and counsel for the accused, and may authorize those officers to take the deposition of any witness.
 
     (b) The party at whose instance a deposition is to be taken shall give to every other party reasonable written notice of the time and place for taking the deposition.
 
@@ -35,7 +47,7 @@
 
     (f) Subject to subsection (d), a deposition may be read in evidence or, in the case of audiotape, videotape, or similar material, may be played in evidence in any case in which the death penalty is authorized but is not mandatory, whenever the convening authority directs that the case be treated as not capital, and in such a case a sentence of death may not be adjudged by the court-martial.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 53][/us/stat/70A/53]; [Pub. L. 90–632, § 2(20)][/us/pl/90/632/s2/20], Oct. 24, 1968, [82 Stat. 1340][/us/stat/82/1340]; [Pub. L. 98–209, § 6(b)][/us/pl/98/209/s6/b], Dec. 6, 1983, [97 Stat. 1400][/us/stat/97/1400]; [Pub. L. 109–163, div. A, title X, § 1057(a)(3)][/us/pl/109/163/s1057/a/3], Jan. 6, 2006, [119 Stat. 3440][/us/stat/119/3440].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 53][/us/stat/70A/53]; [Pub. L. 90–632, § 2(20)][/us/pl/90/632/s2/20], Oct. 24, 1968, [82 Stat. 1340][/us/stat/82/1340]; [Pub. L. 98–209, § 6(b)][/us/pl/98/209/s6/b], Dec. 6, 1983, [97 Stat. 1400][/us/stat/97/1400]; [Pub. L. 109–163, div. A, title X, § 1057(a)(3)][/us/pl/109/163/s1057/a/3], Jan. 6, 2006, [119 Stat. 3440][/us/stat/119/3440]; [Pub. L. 113–291, div. A, title V, § 532][/us/pl/113/291/s532], Dec. 19, 2014, [128 Stat. 3366][/us/stat/128/3366].)
 
 <table>
 
@@ -151,6 +163,8 @@ May 5, 1950, ch. 169, § 1 (Art. 49), 64 Stat. 123.  </td>
 
  __Amendments__ 
 
+    2014—Subsec. (a). [Pub. L. 113–291][/us/pl/113/291] amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “At any time after charges have been signed as provided in [section 830 of this title][/us/usc/t10/s830] (article 30), any party may take oral or written depositions unless the military judge or court-martial without a military judge hearing the case or, if the case is not being heard, an authority competent to convene a court-martial for the trial of those charges forbids it for good cause. If a deposition is to be taken before charges are referred for trial, such an authority may designate commissioned officers to represent the prosecution and the defense and may authorize those officers to take the deposition of any witness.”
+
     2006—Subsec. (d)(1). [Pub. L. 109–163][/us/pl/109/163] struck out “Territory,” after “State,”.
 
     1983—Subsecs. (d), (f). [Pub. L. 98–209][/us/pl/98/209] inserted “or, in the case of audiotape, videotape, or similar material, may be played in evidence” after “read in evidence”.
@@ -173,6 +187,7 @@ May 5, 1950, ch. 169, § 1 (Art. 49), 64 Stat. 123.  </td>
 ----------
 
 [/us/usc/t10/s830]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs830
+[/us/usc/t10/s832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs832
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F53
 [/us/pl/90/632/s2/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F632%2Fs2%2F20
@@ -181,6 +196,10 @@ May 5, 1950, ch. 169, § 1 (Art. 49), 64 Stat. 123.  </td>
 [/us/stat/97/1400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1400
 [/us/pl/109/163/s1057/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs1057%2Fa%2F3
 [/us/stat/119/3440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3440
+[/us/pl/113/291/s532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs532
+[/us/stat/128/3366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3366
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/usc/t10/s830]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs830
 [/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
 [/us/pl/98/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F209
 [/us/pl/90/632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F632

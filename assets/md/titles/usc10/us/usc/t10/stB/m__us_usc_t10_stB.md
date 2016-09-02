@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t10/stA/ptIV/ch173/schIII/m__us_usc_t10_s2925.md) | [Next](./../../../..//us/usc/t10/stB/ptI/m__us_usc_t10_stB_ptI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2FstB)
+[Previous](./../../../..//us/usc/t10/stA/ptIV/ch173/schIII/m__us_usc_t10_s2926.md) | [Next](./../../../..//us/usc/t10/stB/ptI/m__us_usc_t10_stB_ptI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2FstB)
 
 ## Subtitle B—Army
 
@@ -551,7 +551,7 @@ PART IV—SERVICE, SUPPLY, AND PROCUREMENT  </td>
 
 ----------
 
-[Previous](./../../../..//us/usc/t10/stA/ptIV/ch173/schIII/m__us_usc_t10_s2925.md) | [Next](./../../../..//us/usc/t10/stB/ptI/m__us_usc_t10_stB_ptI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2FstB)
+[Previous](./../../../..//us/usc/t10/stA/ptIV/ch173/schIII/m__us_usc_t10_s2926.md) | [Next](./../../../..//us/usc/t10/stB/ptI/m__us_usc_t10_stB_ptI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2FstB)
 
 ----------
 ----------

@@ -47,6 +47,48 @@
 
     [Pub. L. 111–84, div. A, title X, § 1073(c)][/us/pl/111/84/s1073/c], Oct. 28, 2009, [123 Stat. 2474][/us/stat/123/2474], provided that the amendment made by section 1073(c)(10) is effective as of Oct. 14, 2008, and as if included in [Pub. L. 110–417][/us/pl/110/417] as enacted.
 
+ __Rocket Propulsion System Development Program__ 
+
+[Pub. L. 113–291, div. A, title XVI, § 1604][/us/pl/113/291/s1604], Dec. 19, 2014, [128 Stat. 3623][/us/stat/128/3623], provided that:
+
+>     “(a) __Development.—__ 
+
+>         “(1)  __In general__  __.—__ 
+
+>         The Secretary of Defense shall develop a next-generation rocket propulsion system that enables the effective, efficient, and expedient transition from the use of non-allied space launch engines to a domestic alternative for national security space launches.
+
+>         “(2)  __Requirements__  __.—__ 
+
+>         The system developed under paragraph (1) shall—
+
+>             “(A) be made in the United States;
+
+>             “(B) meet the requirements of the national security space community;
+
+>             “(C) be developed by not later than 2019;
+
+>             “(D) be developed using full and open competition; and
+
+>             “(E) be available for purchase by all space launch providers of the United States.
+
+>     “(b)  __Report__  __.—__ 
+
+>     Not later than 180 days after the date of the enactment of this Act \[Dec. 19, 2014\], the Secretary shall submit to the appropriate congressional committees a report that includes—
+
+>         “(1) a plan to carry out the development of the rocket propulsion system under subsection (a), including an analysis of the benefits of using public-private partnerships;
+
+>         “(2) the requirements of the program to develop such system; and
+
+>         “(3) the estimated cost of such system.
+
+>     “(c)  __Appropriate Congressional Committees Defined__  __.—__ 
+
+>     In this section, the term ‘appropriate congressional committees’ means the following:
+
+>         “(1) The congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\].
+
+>         “(2) The Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate.”
+
 ----------
 
 [Previous](./../../../../../..//us/usc/t10/stA/ptIV/ch135/m__us_usc_t10_s2272.md) | [Next](./../../../../../..//us/usc/t10/stA/ptIV/ch135/m__us_usc_t10_s2273a.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2273)
@@ -79,5 +121,7 @@
 [/us/pl/111/84/s1073/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs1073%2Fc
 [/us/stat/123/2474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2474
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
+[/us/pl/113/291/s1604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1604
+[/us/stat/128/3623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3623
 
 

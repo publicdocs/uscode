@@ -145,7 +145,13 @@
 
 </table>
 
+ __Amendment of Analysis__ 
+
+    [Pub. L. 113–291, div. A, title X, § 1072(a)(2)][/us/pl/113/291/s1072/a/2], (b)(2), (c), Dec. 19, 2014, [128 Stat. 3516][/us/stat/128/3516], 3517, provided that, effective Oct. 1, 2015, this analysis is amended by substituting “Defense Strategy Review” for “Quadrennial defense review” in item 118 and by striking the item relating to section 118b. See 2014 Amendment note below.
+
  __Amendments__ 
+
+    2014—[Pub. L. 113–291, div. A, title X, § 1072(a)(2)][/us/pl/113/291/s1072/a/2], (b)(2), Dec. 19, 2014, [128 Stat. 3516][/us/stat/128/3516], 3517, substituted “Defense Strategy Review” for “Quadrennial defense review” in item 118 and struck out item 118b “Quadrennial roles and missions review”.
 
     2011—[Pub. L. 112–81, div. A, title IX, § 935(a)(2)][/us/pl/112/81/s935/a/2], Dec. 31, 2011, [125 Stat. 1545][/us/stat/125/1545], substituted “Biennial strategic workforce plan” for “Annual strategic workforce plan” in item 115b.
 
@@ -180,6 +186,10 @@
 ----------
 ----------
 
+[/us/pl/113/291/s1072/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1072%2Fa%2F2
+[/us/stat/128/3516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3516
+[/us/pl/113/291/s1072/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1072%2Fa%2F2
+[/us/stat/128/3516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3516
 [/us/pl/112/81/s935/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs935%2Fa%2F2
 [/us/stat/125/1545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1545
 [/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84

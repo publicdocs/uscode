@@ -187,7 +187,7 @@
 
 >     “(b)
 
->         (1) The Secretary of Defense, acting through the Assistant Secretary of Defense for Reserve Affairs, shall conduct a study to evaluate the feasibility of allocating equipment to units of reserve components based on a measure of effectiveness of such units. The study should consider the effects of allocating equipment by comparing units with similar deployment times and similar capabilities in terms of training and equipment rather than by comparing all reserve component units with each other. The study should be integrated with an evaluation of the system for measuring unit effectiveness to be implemented in accordance with subsection (a).
+>         (1) The Secretary of Defense, acting through the Assistant Secretary of Defense for Reserve Affairs \[now Assistant Secretary of Defense for Manpower and Reserve Affairs\], shall conduct a study to evaluate the feasibility of allocating equipment to units of reserve components based on a measure of effectiveness of such units. The study should consider the effects of allocating equipment by comparing units with similar deployment times and similar capabilities in terms of training and equipment rather than by comparing all reserve component units with each other. The study should be integrated with an evaluation of the system for measuring unit effectiveness to be implemented in accordance with subsection (a).
 
 >         “(2) As part of the report under subsection (a)(2), the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives a report on the study carried out under paragraph (1).
 
@@ -197,7 +197,7 @@
 
 >         (1)
 
->             (A) The Secretary of Defense, acting through the Assistant Secretary of Defense for Reserve Affairs, shall conduct a study of the benefits of a longer training program for certain units of the reserve components and shall conduct a test of such a program. The test program should begin at the earliest realistic date.
+>             (A) The Secretary of Defense, acting through the Assistant Secretary of Defense for Reserve Affairs \[now Assistant Secretary of Defense for Manpower and Reserve Affairs\], shall conduct a study of the benefits of a longer training program for certain units of the reserve components and shall conduct a test of such a program. The test program should begin at the earliest realistic date.
 
 >             “(B) In developing training programs for the reserve components, the Secretary shall give increased attention to innovative training technologies, techniques, and schedules that recognize the limitations on time and the geographic dispersion of the reserve components.
 

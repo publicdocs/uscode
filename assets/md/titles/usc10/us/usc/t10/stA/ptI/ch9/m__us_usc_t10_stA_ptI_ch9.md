@@ -167,9 +167,19 @@
 
   </tr>
 
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs238" data-uslm-ref="/us/usc/t10/s238">238.</a>  </td>
+
+    <td> Cyber mission forces: program elements.  </td>
+
+  </tr>
+
 </table>
 
  __Amendments__ 
+
+    2014—[Pub. L. 113–291, div. A, title XVI, § 1631(a)(2)][/us/pl/113/291/s1631/a/2], Dec. 19, 2014, [128 Stat. 3638][/us/stat/128/3638], added item 238.
 
     2013—[Pub. L. 113–66, div. A, title I, § 141(b)][/us/pl/113/66/s141/b], title VII, § 721(b), title X, § 1091(a)(4), Dec. 26, 2013, [127 Stat. 697][/us/stat/127/697], 799, 875, added items 236 and 237 and inserted a period at end of item 231.
 
@@ -216,6 +226,8 @@
 ----------
 ----------
 
+[/us/pl/113/291/s1631/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1631%2Fa%2F2
+[/us/stat/128/3638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3638
 [/us/pl/113/66/s141/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs141%2Fb
 [/us/stat/127/697]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F697
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239

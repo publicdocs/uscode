@@ -115,7 +115,7 @@
 
     (g)  __Intelligence and Special Activities__  __.—__ 
 
-    This section does not constitute authority to conduct any activity which, if carried out as an intelligence activity by the Department of Defense, would require a notice to the Select Committee on Intelligence of the Senate and the Permanent Select Committee on Intelligence of the House of Representatives under title V of the National Security Act of 1947 ([50 U.S.C. 413][/us/usc/t50/s413] et seq.). <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup> 
+    This section does not constitute authority to conduct any activity which, if carried out as an intelligence activity by the Department of Defense, would require a notice to the Select Committee on Intelligence of the Senate and the Permanent Select Committee on Intelligence of the House of Representatives under title V of the National Security Act of 1947 ([50 U.S.C. 3091][/us/usc/t50/s3091] et seq.).
 
     (h)  __Regulations__  __.—__ 
 
@@ -165,11 +165,11 @@
 
         (2) Before the budget proposal for a military department for any fiscal year is submitted to the Secretary of Defense, the Secretary of that military department shall consult with the commander of the special operations command concerning funding for special operations forces in the military personnel budget for a reserve component in that military department. If the commander of that command does not concur in the recommended level of funding with respect to reserve component special operations units, the Secretary shall include with the budget proposal submitted to the Secretary of Defense the views of the commander of that command.
 
-(Added [Pub. L. 99–500, § 101(c)][/us/pl/99/500/s101/c] \[title IX, § 9115(b)(1)\], Oct. 18, 1986, [100 Stat. 1783–82][/us/stat/100/1783-82], 1783–122, and [Pub. L. 99–591, § 101(c)][/us/pl/99/591/s101/c] \[title IX, § 9115(b)(1)\], Oct. 30, 1986, [100 Stat. 3341–82][/us/stat/100/3341-82], 3341–122; [Pub. L. 99–661, div. A, title XIII, § 1311(b)(1)][/us/pl/99/661/s1311/b/1], Nov. 14, 1986, [100 Stat. 3983][/us/stat/100/3983]; amended [Pub. L. 100–180, div. A, title XII, § 1211(d)][/us/pl/100/180/s1211/d], Dec. 4, 1987, [101 Stat. 1156][/us/stat/101/1156]; [Pub. L. 100–456, div. A, title VII, § 712][/us/pl/100/456/s712], Sept. 29, 1988, [102 Stat. 1997][/us/stat/102/1997]; [Pub. L. 102–88, title VI, § 602(c)(3)][/us/pl/102/88/s602/c/3], Aug. 14, 1991, [105 Stat. 444][/us/stat/105/444]; [Pub. L. 103–337, div. A, title IX, § 925][/us/pl/103/337/s925], Oct. 5, 1994, [108 Stat. 2832][/us/stat/108/2832]; [Pub. L. 110–181, div. A, title VIII, § 810][/us/pl/110/181/s810], Jan. 28, 2008, [122 Stat. 217][/us/stat/122/217]; [Pub. L. 112–81, div. A, title X, § 1086(1)][/us/pl/112/81/s1086/1], Dec. 31, 2011, [125 Stat. 1603][/us/stat/125/1603]; [Pub. L. 113–66, div. A, title IX, § 903][/us/pl/113/66/s903], Dec. 26, 2013, [127 Stat. 816][/us/stat/127/816].)
+(Added [Pub. L. 99–500, § 101(c)][/us/pl/99/500/s101/c] \[title IX, § 9115(b)(1)\], Oct. 18, 1986, [100 Stat. 1783–82][/us/stat/100/1783-82], 1783–122, and [Pub. L. 99–591, § 101(c)][/us/pl/99/591/s101/c] \[title IX, § 9115(b)(1)\], Oct. 30, 1986, [100 Stat. 3341–82][/us/stat/100/3341-82], 3341–122; [Pub. L. 99–661, div. A, title XIII, § 1311(b)(1)][/us/pl/99/661/s1311/b/1], Nov. 14, 1986, [100 Stat. 3983][/us/stat/100/3983]; amended [Pub. L. 100–180, div. A, title XII, § 1211(d)][/us/pl/100/180/s1211/d], Dec. 4, 1987, [101 Stat. 1156][/us/stat/101/1156]; [Pub. L. 100–456, div. A, title VII, § 712][/us/pl/100/456/s712], Sept. 29, 1988, [102 Stat. 1997][/us/stat/102/1997]; [Pub. L. 102–88, title VI, § 602(c)(3)][/us/pl/102/88/s602/c/3], Aug. 14, 1991, [105 Stat. 444][/us/stat/105/444]; [Pub. L. 103–337, div. A, title IX, § 925][/us/pl/103/337/s925], Oct. 5, 1994, [108 Stat. 2832][/us/stat/108/2832]; [Pub. L. 110–181, div. A, title VIII, § 810][/us/pl/110/181/s810], Jan. 28, 2008, [122 Stat. 217][/us/stat/122/217]; [Pub. L. 112–81, div. A, title X, § 1086(1)][/us/pl/112/81/s1086/1], Dec. 31, 2011, [125 Stat. 1603][/us/stat/125/1603]; [Pub. L. 113–66, div. A, title IX, § 903][/us/pl/113/66/s903], Dec. 26, 2013, [127 Stat. 816][/us/stat/127/816]; [Pub. L. 113–291, div. A, title X, § 1071(c)(3)][/us/pl/113/291/s1071/c/3], Dec. 19, 2014, [128 Stat. 3508][/us/stat/128/3508].)
 
  __References in Text__ 
 
-    The National Security Act of 1947, referred to in subsec. (g), is [act July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], [61 Stat. 495][/us/stat/61/495], which was formerly classified principally to chapter 15 (§ 401 et seq.) of Title 50, War and National Defense, prior to editorial reclassification in chapter 44 (§ 3001 et seq.) of Title 50. Title V of the Act is now classified generally to subchapter III (§ 3091 et seq.) of chapter 44 of Title 50. For complete classification of this Act to the Code, see Tables.
+    The National Security Act of 1947, referred to in subsec. (g), is [act July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], [61 Stat. 495][/us/stat/61/495]. Title V of the Act is classified generally to subchapter III (§ 3091 et seq.) of chapter 44 of Title 50. For complete classification of this Act to the Code, see Tables.
 
  __Codification__ 
 
@@ -178,6 +178,8 @@
     [Pub. L. 99–661][/us/pl/99/661] and [Pub. L. 99–500][/us/pl/99/500] added identical sections.
 
  __Amendments__ 
+
+    2014—Subsec. (g). [Pub. L. 113–291][/us/pl/113/291] substituted “([50 U.S.C. 3091][/us/usc/t50/s3091] et seq.)” for “([50 U.S.C. 413][/us/usc/t50/s413] et seq.)”.
 
     2013—Subsec. (e)(4)(C)(ii). [Pub. L. 113–66][/us/pl/113/66] inserted “responsible to the commander for rapidly delivering acquisition solutions to meet validated special operations-peculiar requirements, subordinate to the Defense Acquisition Executive in matters of acquisition, subject to the same oversight as the service acquisition executives, and” after “shall be”.
 
@@ -343,7 +345,7 @@
 [/us/usc/t10/s161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs161
 [/us/usc/t10/s164/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs164%2Fc
 [/us/usc/t10/s166/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs166%2Fb
-[/us/usc/t50/s413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs413
+[/us/usc/t50/s3091]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3091
 [/us/pl/99/500/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500%2Fs101%2Fc
 [/us/stat/100/1783-82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1783-82
 [/us/pl/99/591/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591%2Fs101%2Fc
@@ -364,12 +366,17 @@
 [/us/stat/125/1603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1603
 [/us/pl/113/66/s903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs903
 [/us/stat/127/816]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F816
+[/us/pl/113/291/s1071/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Fc%2F3
+[/us/stat/128/3508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3508
 [/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
 [/us/stat/61/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F495
 [/us/pl/99/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591
 [/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
 [/us/pl/99/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661
 [/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/usc/t50/s3091]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3091
+[/us/usc/t50/s413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs413
 [/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
 [/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181

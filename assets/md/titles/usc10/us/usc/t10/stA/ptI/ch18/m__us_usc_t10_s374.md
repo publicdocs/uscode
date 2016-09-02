@@ -249,19 +249,19 @@ Similar provisions were contained in the following prior appropriation acts:
 
     [Pub. L. 103–335, title VIII, § 8154(a)][/us/pl/103/335/s8154/a], Sept. 30, 1994, [108 Stat. 2658][/us/stat/108/2658].
 
- __Additional Support for Counter-Drug Activities__ 
+ __Additional Support for Counter-drug Activities and Activities to Counter Transnational Organized Crime__ 
 
-[Pub. L. 101–510, div. A, title X, § 1004][/us/pl/101/510/s1004], Nov. 5, 1990, [104 Stat. 1629][/us/stat/104/1629], as amended by [Pub. L. 102–190, div. A, title X, § 1088(a)][/us/pl/102/190/s1088/a], Dec. 5, 1991, [105 Stat. 1484][/us/stat/105/1484]; [Pub. L. 102–484, div. A, title X, § 1041(a)][/us/pl/102/484/s1041/a]–(d)(1), Oct. 23, 1992, [106 Stat. 2491][/us/stat/106/2491]; [Pub. L. 103–160, div. A, title XI, § 1121(a)][/us/pl/103/160/s1121/a], (b), Nov. 30, 1993, [107 Stat. 1753][/us/stat/107/1753]; [Pub. L. 103–337, div. A, title X, § 1011(a)][/us/pl/103/337/s1011/a], Oct. 5, 1994, [108 Stat. 2836][/us/stat/108/2836]; [Pub. L. 105–261, div. A, title X, § 1021][/us/pl/105/261/s1021], Oct. 17, 1998, [112 Stat. 2120][/us/stat/112/2120]; [Pub. L. 107–107, div. A, title X, § 1021][/us/pl/107/107/s1021], Dec. 28, 2001, [115 Stat. 1212][/us/stat/115/1212]; [Pub. L. 109–364, div. A, title X, § 1021][/us/pl/109/364/s1021], Oct. 17, 2006, [120 Stat. 2382][/us/stat/120/2382]; [Pub. L. 111–383, div. A, title X, § 1015(a)][/us/pl/111/383/s1015/a], Jan. 7, 2011, [124 Stat. 4347][/us/stat/124/4347]; [Pub. L. 112–81, div. A, title X, § 1005][/us/pl/112/81/s1005], Dec. 31, 2011, [125 Stat. 1556][/us/stat/125/1556], provided that:
+[Pub. L. 101–510, div. A, title X, § 1004][/us/pl/101/510/s1004], Nov. 5, 1990, [104 Stat. 1629][/us/stat/104/1629], as amended by [Pub. L. 102–190, div. A, title X, § 1088(a)][/us/pl/102/190/s1088/a], Dec. 5, 1991, [105 Stat. 1484][/us/stat/105/1484]; [Pub. L. 102–484, div. A, title X, § 1041(a)][/us/pl/102/484/s1041/a]–(d)(1), Oct. 23, 1992, [106 Stat. 2491][/us/stat/106/2491]; [Pub. L. 103–160, div. A, title XI, § 1121(a)][/us/pl/103/160/s1121/a], (b), Nov. 30, 1993, [107 Stat. 1753][/us/stat/107/1753]; [Pub. L. 103–337, div. A, title X, § 1011(a)][/us/pl/103/337/s1011/a], Oct. 5, 1994, [108 Stat. 2836][/us/stat/108/2836]; [Pub. L. 105–261, div. A, title X, § 1021][/us/pl/105/261/s1021], Oct. 17, 1998, [112 Stat. 2120][/us/stat/112/2120]; [Pub. L. 107–107, div. A, title X, § 1021][/us/pl/107/107/s1021], Dec. 28, 2001, [115 Stat. 1212][/us/stat/115/1212]; [Pub. L. 109–364, div. A, title X, § 1021][/us/pl/109/364/s1021], Oct. 17, 2006, [120 Stat. 2382][/us/stat/120/2382]; [Pub. L. 111–383, div. A, title X, § 1015(a)][/us/pl/111/383/s1015/a], Jan. 7, 2011, [124 Stat. 4347][/us/stat/124/4347]; [Pub. L. 112–81, div. A, title X, § 1005][/us/pl/112/81/s1005], Dec. 31, 2011, [125 Stat. 1556][/us/stat/125/1556]; [Pub. L. 113–291, div. A, title X, § 1012][/us/pl/113/291/s1012], Dec. 19, 2014, [128 Stat. 3483][/us/stat/128/3483], provided that:
 
 >     “(a)  __Support to Other Agencies__  __.—__ 
 
->     During fiscal years 2012 through 2014, the Secretary of Defense may provide support for the counter-drug activities of any other department or agency of the Federal Government or of any State, local, tribal, or foreign law enforcement agency for any of the purposes set forth in subsection (b) if such support is requested—
+>     During fiscal years 2012 through 2017, the Secretary of Defense may provide support for the counter-drug activities or activities to counter transnational organized crime of any other department or agency of the Federal Government or of any State, local, tribal, or foreign law enforcement agency for any of the purposes set forth in subsection (b) if such support is requested—
 
->         “(1) by the official who has responsibility for the counter-drug activities of the department or agency of the Federal Government, in the case of support for other departments or agencies of the Federal Government;
+>         “(1) by the official who has responsibility for the counter-drug activities or activities to counter transnational organized crime of the department or agency of the Federal Government, in the case of support for other departments or agencies of the Federal Government;
 
 >         “(2) by the appropriate official of a State, local, or tribal government, in the case of support for State, local, or tribal law enforcement agencies; or
 
->         “(3) by an appropriate official of a department or agency of the Federal Government that has counter-drug responsibilities, in the case of support for foreign law enforcement agencies.
+>         “(3) by an appropriate official of a department or agency of the Federal Government that has counter-drug responsibilities or responsibilities for countering transnational organized crime, in the case of support for foreign law enforcement agencies.
 
 >     “(b)  __Types of Support__  __.—__ 
 
@@ -283,11 +283,11 @@ Similar provisions were contained in the following prior appropriation acts:
 
 >             “(B) upgrading such equipment to ensure the compatibility of that equipment with equipment used by the Department of Defense.
 
->         “(3) The transportation of personnel of the United States and foreign countries (including per diem expenses associated with such transportation), and the transportation of supplies and equipment, for the purpose of facilitating counter-drug activities within or outside the United States.
+>         “(3) The transportation of personnel of the United States and foreign countries (including per diem expenses associated with such transportation), and the transportation of supplies and equipment, for the purpose of facilitating counter-drug activities or activities to counter transnational organized crime within or outside the United States.
 
->         “(4) The establishment (including an unspecified minor military construction project) and operation of bases of operations or training facilities for the purpose of facilitating counter-drug activities of the Department of Defense or any Federal, State, local, or tribal law enforcement agency within or outside the United States or for the purpose of facilitating counter-drug activities of a foreign law enforcement agency outside the United States.
+>         “(4) The establishment (including an unspecified minor military construction project) and operation of bases of operations or training facilities for the purpose of facilitating counter-drug activities or activities to counter transnational organized crime of the Department of Defense or any Federal, State, local, or tribal law enforcement agency within or outside the United States or for the purpose of facilitating counter-drug activities or activities to counter transnational organized crime of a foreign law enforcement agency outside the United States.
 
->         “(5) Counter-drug related training of law enforcement personnel of the Federal Government, of State, local, and tribal governments, and of foreign countries, including associated support expenses for trainees and the provision of materials necessary to carry out such training.
+>         “(5) Counter-drug or counter-transnational organized crime related training of law enforcement personnel of the Federal Government, of State, local, and tribal governments, and of foreign countries, including associated support expenses for trainees and the provision of materials necessary to carry out such training.
 
 >         “(6)
 
@@ -323,7 +323,7 @@ Similar provisions were contained in the following prior appropriation acts:
 
 >     “(g)  __Relationship to Other Laws__  __.—__ 
 
->         (1) The authority provided in this section for the support of counter-drug activities by the Department of Defense is in addition to, and except as provided in paragraph (2), not subject to the requirements of chapter 18 of title 10, United States Code.
+>         (1) The authority provided in this section for the support of counter-drug activities or activities to counter transnational organized crime by the Department of Defense is in addition to, and except as provided in paragraph (2), not subject to the requirements of chapter 18 of title 10, United States Code.
 
 >         “(2) Support under this section shall be subject to the provisions of section 375 and, except as provided in subsection (e), [section 376 of title 10][/us/usc/t10/s376], United States Code.
 
@@ -337,7 +337,7 @@ Similar provisions were contained in the following prior appropriation acts:
 
 >             “(A) is intended for the construction, modification, or repair of any facility for the purposes set forth in subsection (b)(4); and
 
->             “(B) has an estimated cost of more than $500,000.
+>             “(B) has an estimated cost of more than $250,000.
 
 >         “(3) This subsection may not be construed as an authorization for the use of funds for any military construction project that would exceed the approved cost limitations of an unspecified minor military construction project under [section 2805(a)(2) of title 10][/us/usc/t10/s2805/a/2], United States Code.
 
@@ -349,7 +349,11 @@ Similar provisions were contained in the following prior appropriation acts:
 
 >         “(2) The term ‘tribal government’ means the governing body of an Indian tribe, the status of whose land is ‘Indian country’ as defined in [section 1151 of title 18][/us/usc/t18/s1151], United States Code, or held in trust by the United States for the benefit of the Indian tribe.
 
->         “(3) The term ‘tribal law enforcement agency’ means the law enforcement agency of a tribal government.”
+>         “(3) The term ‘tribal law enforcement agency’ means the law enforcement agency of a tribal government.
+
+>     “(j) __Definition of Transnational Organized Crime.—__ 
+
+>     In this section, the term ‘transnational organized crime’ means self-perpetuating associations of individuals who operate transnationally for the purpose of obtaining power, influence, monetary, or commercial gains, wholly or in part by illegal means, while protecting their activities through a pattern of corruption or violence or through a transnational organization structure and the exploitation of transnational commerce or communication mechanisms.”
 
 \[[Pub. L. 111–383, div. A, title X, § 1015(b)][/us/pl/111/383/s1015/b], Jan. 7, 2011, [124 Stat. 4348][/us/stat/124/4348], provided that: 
 
@@ -524,6 +528,8 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/stat/124/4347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4347
 [/us/pl/112/81/s1005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1005
 [/us/stat/125/1556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1556
+[/us/pl/113/291/s1012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1012
+[/us/stat/128/3483]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3483
 [/us/usc/t10/s376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs376
 [/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
 [/us/stat/103/1564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1564

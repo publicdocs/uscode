@@ -33,25 +33,21 @@
 
  __Improvements to Department of Defense Domestic Violence Programs__ 
 
-[Pub. L. 111–383, div. A, title V, § 543][/us/pl/111/383/s543], Jan. 7, 2011, [124 Stat. 4218][/us/stat/124/4218], provided that:
+[Pub. L. 111–383, div. A, title V, § 543][/us/pl/111/383/s543], Jan. 7, 2011, [124 Stat. 4218][/us/stat/124/4218], as amended by [Pub. L. 113–291, div. A, title V, § 544(b)][/us/pl/113/291/s544/b], Dec. 19, 2014, [128 Stat. 3374][/us/stat/128/3374], provided that:
 
 >     “(a)  __Implementation of Outstanding Comptroller General Recommendations__  __.—__ 
 
 >     Consistent with the recommendations contained in the report of the Comptroller General of the United States titled ‘Status of Implementation of GAO’s 2006 Recommendations on the Department of Defense’s Domestic Violence Program’ (GAO–10–577R), the Secretary of Defense shall complete, not later than one year after the date of enactment of this Act \[Jan. 7, 2011\], implementation of actions to address the following recommendations:
 
->         “(1)  __Defense incident-based reporting system__  __.—__ 
-
->         The Secretary of Defense shall develop a comprehensive management plan to address deficiencies in the data captured in the Defense Incident-Based Reporting System to ensure the system can provide an accurate count of domestic violence incidents, and any consequent disciplinary action, that are reported throughout the Department of Defense.
-
->         “(2)  __Adequate personnel__  __.—__ 
+>         “(1)  __Adequate personnel__  __.—__ 
 
 >         The Secretary of Defense shall develop a plan to ensure that adequate personnel are available to implement recommendations made by the Defense Task Force on Domestic Violence.
 
->         “(3)  __Domestic violence training data for chaplains__  __.—__ 
+>         “(2)  __Domestic violence training data for chaplains__  __.—__ 
 
 >         The Secretary of Defense shall develop a plan to collect domestic violence training data for chaplains.
 
->         “(4)  __Oversight framework__  __.—__ 
+>         “(3)  __Oversight framework__  __.—__ 
 
 >         The Secretary of Defense shall develop an oversight framework for Department of Defense domestic violence programs, to include oversight of implementation of recommendations made by the Defense Task Force on Domestic Violence, including budgeting, communication initiatives, and policy compliance.
 
@@ -150,6 +146,8 @@
 [/us/stat/113/643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F643
 [/us/pl/111/383/s543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs543
 [/us/stat/124/4218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4218
+[/us/pl/113/291/s544/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs544%2Fb
+[/us/stat/128/3374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3374
 [/us/pl/108/136/s575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs575
 [/us/stat/117/1486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1486
 [/us/pl/106/65/s591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs591

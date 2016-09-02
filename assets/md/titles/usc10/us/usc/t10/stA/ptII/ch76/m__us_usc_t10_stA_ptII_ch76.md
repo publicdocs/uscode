@@ -33,6 +33,14 @@
 
   <tr>
 
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1501a" data-uslm-ref="/us/usc/t10/s1501a">1501a.</a>  </td>
+
+    <td> Public-private partnerships; other forms of support.  </td>
+
+  </tr>
+
+  <tr>
+
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1502" data-uslm-ref="/us/usc/t10/s1502">1502.</a>  </td>
 
     <td> Missing persons: initial report.  </td>
@@ -91,7 +99,7 @@
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1509" data-uslm-ref="/us/usc/t10/s1509">1509.</a>  </td>
 
-    <td> Program to resolve preenactment missing person cases.  </td>
+    <td> Program to resolve missing person cases.  </td>
 
   </tr>
 
@@ -131,6 +139,8 @@
 
  __Amendments__ 
 
+    2014—[Pub. L. 113–291, div. A, title IX, § 916(f)(2)][/us/pl/113/291/s916/f/2], Dec. 19, 2014, [128 Stat. 3479][/us/stat/128/3479], added item 1501a and substituted “Program to resolve missing person cases” for “Program to resolve preenactment missing person cases” in item 1509.
+
     2009—[Pub. L. 111–84, div. A, title V, § 541(b)][/us/pl/111/84/s541/b], Oct. 28, 2009, [123 Stat. 2298][/us/stat/123/2298], substituted “Program to resolve preenactment missing person cases” for “Preenactment cases” in item 1509.
 
     1996—[Pub. L. 104–201, div. A, title V, § 578(f)(2)(B)][/us/pl/104/201/s578/f/2/B], Sept. 23, 1996, [110 Stat. 2537][/us/stat/110/2537], struck out “, special interest” after “Preenactment” in item 1509.
@@ -142,6 +152,8 @@
 ----------
 ----------
 
+[/us/pl/113/291/s916/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs916%2Ff%2F2
+[/us/stat/128/3479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3479
 [/us/pl/111/84/s541/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs541%2Fb
 [/us/stat/123/2298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2298
 [/us/pl/104/201/s578/f/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs578%2Ff%2F2%2FB

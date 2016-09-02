@@ -143,11 +143,11 @@
 
             (B) a member of the armed forces who is serving in the grade of colonel or, in the case of the Navy, captain, or in a higher grade.
 
-        (3) The program manager shall report to the Deputy Under Secretary of Defense for Installations and Environment.
+        (3) The program manager shall report to the Assistant Secretary of Defense for Energy, Installations, and Environment.
 
         (4) The program manager may establish an independent advisory and review panel that may include representatives of the National Academy of Sciences, nongovernmental organizations with expertise regarding unexploded ordnance, discarded military munitions, or munitions constituents, the Environmental Protection Agency, States (as defined in section 2710 1 of this title), and tribal governments. If established, the panel shall report annually to Congress on progress made by the Department of Defense to address unexploded ordnance, discarded military munitions, or munitions constituents at defense sites and make such recommendations as the panel considers appropriate.
 
-(Added [Pub. L. 99–499, title II, § 211(a)(1)(B)][/us/pl/99/499/s211/a/1/B], Oct. 17, 1986, [100 Stat. 1719][/us/stat/100/1719]; amended [Pub. L. 101–510, div. A, title XIV, § 1481(i)(1)][/us/pl/101/510/s1481/i/1], Nov. 5, 1990, [104 Stat. 1708][/us/stat/104/1708]; [Pub. L. 102–190, div. A, title III, § 336(a)][/us/pl/102/190/s336/a], Dec. 5, 1991, [105 Stat. 1342][/us/stat/105/1342]; [Pub. L. 102–484, div. A, title III, § 331(b)][/us/pl/102/484/s331/b], title X, § 1052(35), Oct. 23, 1992, [106 Stat. 2373][/us/stat/106/2373], 2501; [Pub. L. 103–35, title II, § 201(d)(6)][/us/pl/103/35/s201/d/6], May 31, 1993, [107 Stat. 99][/us/stat/107/99]; [Pub. L. 103–337, div. A, title III][/us/pl/103/337], §§ 322, 323, Oct. 5, 1994, [108 Stat. 2711][/us/stat/108/2711]; [Pub. L. 104–106, div. A, title III, § 321(a)(1)][/us/pl/104/106/s321/a/1], title XV, § 1504(a)(1), div. D, title XLIII, § 4321(b)(22), Feb. 10, 1996, [110 Stat. 251][/us/stat/110/251], 513, 673; [Pub. L. 104–201, div. A, title III, § 329][/us/pl/104/201/s329], Sept. 23, 1996, [110 Stat. 2483][/us/stat/110/2483]; [Pub. L. 107–107, div. A, title III, § 314][/us/pl/107/107/s314], Dec. 28, 2001, [115 Stat. 1053][/us/stat/115/1053]; [Pub. L. 107–217, § 3(b)(17)][/us/pl/107/217/s3/b/17], Aug. 21, 2002, [116 Stat. 1296][/us/stat/116/1296]; [Pub. L. 107–314, div. A, title III][/us/pl/107/314], §§ 311, 312, 313(c)(2), div. B, title XXVIII, § 2812(c), Dec. 2, 2002, [116 Stat. 2506][/us/stat/116/2506], 2508, 2709; [Pub. L. 108–375, div. A, title X, § 1084(d)(24)][/us/pl/108/375/s1084/d/24], Oct. 28, 2004, [118 Stat. 2062][/us/stat/118/2062]; [Pub. L. 109–163, div. A, title III, § 312(a)][/us/pl/109/163/s312/a], Jan. 6, 2006, [119 Stat. 3190][/us/stat/119/3190]; [Pub. L. 109–284, § 2][/us/pl/109/284/s2], Sept. 27, 2006, [120 Stat. 1211][/us/stat/120/1211]; [Pub. L. 109–364, div. A, title III][/us/pl/109/364], §§ 311, 312, Oct. 17, 2006, [120 Stat. 2137][/us/stat/120/2137]; [Pub. L. 111–84, div. A, title X, § 1073(a)(28)][/us/pl/111/84/s1073/a/28], Oct. 28, 2009, [123 Stat. 2474][/us/stat/123/2474]; [Pub. L. 111–383, div. A, title X, § 1075(b)(46)(B)][/us/pl/111/383/s1075/b/46/B], Jan. 7, 2011, [124 Stat. 4371][/us/stat/124/4371]; [Pub. L. 112–239, div. B, title XXVII, § 2711(c)(4)(A)][/us/pl/112/239/s2711/c/4/A], Jan. 2, 2013, [126 Stat. 2144][/us/stat/126/2144].)
+(Added [Pub. L. 99–499, title II, § 211(a)(1)(B)][/us/pl/99/499/s211/a/1/B], Oct. 17, 1986, [100 Stat. 1719][/us/stat/100/1719]; amended [Pub. L. 101–510, div. A, title XIV, § 1481(i)(1)][/us/pl/101/510/s1481/i/1], Nov. 5, 1990, [104 Stat. 1708][/us/stat/104/1708]; [Pub. L. 102–190, div. A, title III, § 336(a)][/us/pl/102/190/s336/a], Dec. 5, 1991, [105 Stat. 1342][/us/stat/105/1342]; [Pub. L. 102–484, div. A, title III, § 331(b)][/us/pl/102/484/s331/b], title X, § 1052(35), Oct. 23, 1992, [106 Stat. 2373][/us/stat/106/2373], 2501; [Pub. L. 103–35, title II, § 201(d)(6)][/us/pl/103/35/s201/d/6], May 31, 1993, [107 Stat. 99][/us/stat/107/99]; [Pub. L. 103–337, div. A, title III][/us/pl/103/337], §§ 322, 323, Oct. 5, 1994, [108 Stat. 2711][/us/stat/108/2711]; [Pub. L. 104–106, div. A, title III, § 321(a)(1)][/us/pl/104/106/s321/a/1], title XV, § 1504(a)(1), div. D, title XLIII, § 4321(b)(22), Feb. 10, 1996, [110 Stat. 251][/us/stat/110/251], 513, 673; [Pub. L. 104–201, div. A, title III, § 329][/us/pl/104/201/s329], Sept. 23, 1996, [110 Stat. 2483][/us/stat/110/2483]; [Pub. L. 107–107, div. A, title III, § 314][/us/pl/107/107/s314], Dec. 28, 2001, [115 Stat. 1053][/us/stat/115/1053]; [Pub. L. 107–217, § 3(b)(17)][/us/pl/107/217/s3/b/17], Aug. 21, 2002, [116 Stat. 1296][/us/stat/116/1296]; [Pub. L. 107–314, div. A, title III][/us/pl/107/314], §§ 311, 312, 313(c)(2), div. B, title XXVIII, § 2812(c), Dec. 2, 2002, [116 Stat. 2506][/us/stat/116/2506], 2508, 2709; [Pub. L. 108–375, div. A, title X, § 1084(d)(24)][/us/pl/108/375/s1084/d/24], Oct. 28, 2004, [118 Stat. 2062][/us/stat/118/2062]; [Pub. L. 109–163, div. A, title III, § 312(a)][/us/pl/109/163/s312/a], Jan. 6, 2006, [119 Stat. 3190][/us/stat/119/3190]; [Pub. L. 109–284, § 2][/us/pl/109/284/s2], Sept. 27, 2006, [120 Stat. 1211][/us/stat/120/1211]; [Pub. L. 109–364, div. A, title III][/us/pl/109/364], §§ 311, 312, Oct. 17, 2006, [120 Stat. 2137][/us/stat/120/2137]; [Pub. L. 111–84, div. A, title X, § 1073(a)(28)][/us/pl/111/84/s1073/a/28], Oct. 28, 2009, [123 Stat. 2474][/us/stat/123/2474]; [Pub. L. 111–383, div. A, title X, § 1075(b)(46)(B)][/us/pl/111/383/s1075/b/46/B], Jan. 7, 2011, [124 Stat. 4371][/us/stat/124/4371]; [Pub. L. 112–239, div. B, title XXVII, § 2711(c)(4)(A)][/us/pl/112/239/s2711/c/4/A], Jan. 2, 2013, [126 Stat. 2144][/us/stat/126/2144]; [Pub. L. 113–291, div. A, title IX, § 901(n)(2)][/us/pl/113/291/s901/n/2], Dec. 19, 2014, [128 Stat. 3469][/us/stat/128/3469].)
 
  __References in Text__ 
 
@@ -239,6 +239,10 @@
 
     1990—Subsecs. (f), (g). [Pub. L. 101–510][/us/pl/101/510] added subsecs. (f) and (g).
 
+ __Change of Name__ 
+
+    “Assistant Secretary of Defense for Energy, Installations, and Environment” substituted for “Deputy Under Secretary of Defense for Installations and Environment” in subsec. (k)(3) on authority of [section 901(n)(2) of Pub. L. 113–291][/us/pl/113/291/s901/n/2], set out as a note under [section 131 of this title][/us/usc/t10/s131].
+
  __Effective Date of 2013 Amendment__ 
 
 [Pub. L. 112–239, div. B, title XXVII, § 2711(d)][/us/pl/112/239/s2711/d], Jan. 2, 2013, [126 Stat. 2144][/us/stat/126/2144], provided that: 
@@ -257,7 +261,7 @@
 
  __Prohibition on Disposing of Waste in Open-Air Burn Pits__ 
 
-[Pub. L. 111–84, div. A, title III, § 317][/us/pl/111/84/s317], Oct. 28, 2009, [123 Stat. 2249][/us/stat/123/2249], as amended by [Pub. L. 112–81, div. A, title III, § 316][/us/pl/112/81/s316], Dec. 31, 2011, [125 Stat. 1358][/us/stat/125/1358]; [Pub. L. 113–66, div. A, title III, § 314][/us/pl/113/66/s314], Dec. 26, 2013, [127 Stat. 729][/us/stat/127/729], provided that:
+[Pub. L. 111–84, div. A, title III, § 317][/us/pl/111/84/s317], Oct. 28, 2009, [123 Stat. 2249][/us/stat/123/2249], as amended by [Pub. L. 112–81, div. A, title III, § 316][/us/pl/112/81/s316], Dec. 31, 2011, [125 Stat. 1358][/us/stat/125/1358]; [Pub. L. 113–66, div. A, title III, § 314][/us/pl/113/66/s314], Dec. 26, 2013, [127 Stat. 729][/us/stat/127/729]; [Pub. L. 113–291, div. A, title X, § 1071(g)(1)][/us/pl/113/291/s1071/g/1], Dec. 19, 2014, [128 Stat. 3511][/us/stat/128/3511], provided that:
 
 >     “(a) __Regulations.—__ 
 
@@ -344,8 +348,6 @@
 >             “(P) any item containing any of the materials referred to in a preceding paragraph; and
 
 >             “(Q) other waste as designated by the Secretary.”
-
-    \[[Pub. L. 113–66, div. A, title III, § 314][/us/pl/113/66/s314], Dec. 26, 2013, [127 Stat. 729][/us/stat/127/729], which directed amendment of [section 317(c)(2) of Pub. L. 111–84][/us/pl/111/84/s317/c/2], set out above, was executed to [section 317(d)(2) of Pub. L. 111–84][/us/pl/111/84/s317/d/2], to reflect the probable intent of Congress.\]
 
  __Purpose of__  __[__  __Pub. L. 109–284__  __][/us/pl/109/284]__ 
 
@@ -1208,6 +1210,8 @@
 [/us/stat/124/4371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4371
 [/us/pl/112/239/s2711/c/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs2711%2Fc%2F4%2FA
 [/us/stat/126/2144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2144
+[/us/pl/113/291/s901/n/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs901%2Fn%2F2
+[/us/stat/128/3469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3469
 [/us/usc/t10/s2710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2710
 [/us/pl/101/165/s9038]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F165%2Fs9038
 [/us/stat/103/1137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1137
@@ -1267,6 +1271,8 @@
 [/us/pl/102/484/s331/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs331%2Fb
 [/us/pl/102/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190
 [/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
+[/us/pl/113/291/s901/n/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs901%2Fn%2F2
+[/us/usc/t10/s131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs131
 [/us/pl/112/239/s2711/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs2711%2Fd
 [/us/stat/126/2144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2144
 [/us/usc/t10/s2687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2687
@@ -1283,12 +1289,10 @@
 [/us/stat/125/1358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1358
 [/us/pl/113/66/s314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs314
 [/us/stat/127/729]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F729
+[/us/pl/113/291/s1071/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Fg%2F1
+[/us/stat/128/3511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3511
 [/us/usc/t10/s101/a/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101%2Fa%2F13
 [/us/usc/t42/s6903/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6903%2F5
-[/us/pl/113/66/s314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs314
-[/us/stat/127/729]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F729
-[/us/pl/111/84/s317/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs317%2Fc%2F2
-[/us/pl/111/84/s317/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs317%2Fd%2F2
 [/us/pl/109/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F284
 [/us/pl/109/284/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F284%2Fs1
 [/us/stat/120/1211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1211

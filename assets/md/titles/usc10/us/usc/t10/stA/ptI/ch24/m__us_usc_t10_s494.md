@@ -129,7 +129,7 @@
 
         (1)  __Certification__  __.—__ 
 
-        During any year in which the President recommends to reduce the number of nuclear weapons in the active and inactive stockpiles of the United States by a number that is greater than a de minimis reduction, the President shall certify in writing to the congressional defense committees whether such reductions will cause the number of nuclear weapons in such stockpiles to be fewer than the high-confidence assessment of the intelligence community (as defined in section 3(4) of the National Security Act of 1947 ([50 U.S.C. 401a(4)][/us/usc/t50/s401a/4])) with respect to the number of nuclear weapons in the active and inactive stockpiles of the Russian Federation.
+        During any year in which the President recommends to reduce the number of nuclear weapons in the active and inactive stockpiles of the United States by a number that is greater than a de minimis reduction, the President shall certify in writing to the congressional defense committees whether such reductions will cause the number of nuclear weapons in such stockpiles to be fewer than the high-confidence assessment of the intelligence community (as defined in section 3(4) of the National Security Act of 1947 ([50 U.S.C. 3003(4)][/us/usc/t50/s3003/4])) with respect to the number of nuclear weapons in the active and inactive stockpiles of the Russian Federation.
 
         (2)  __Notification__  __.—__ 
 
@@ -147,7 +147,7 @@
 
         On the date on which the President transmits to the congressional defense committees a report by the Commander of the United States Strategic Command under paragraph (2), the President may transmit to such committees a report by the President with respect to whether the recommended reductions covered by the report of the Commander will impact the deterrence or extended deterrence capabilities of the United States.
 
-(Added and amended [Pub. L. 112–239, div. A, title X][/us/pl/112/239], §§ 1033(b)(1), (2)(B), 1034, Jan. 2, 2013, [126 Stat. 1920–1922][/us/stat/126/1920-1922]; [Pub. L. 113–66, div. A, title X, § 1091(a)(7)][/us/pl/113/66/s1091/a/7], Dec. 26, 2013, [127 Stat. 875][/us/stat/127/875].)
+(Added and amended [Pub. L. 112–239, div. A, title X][/us/pl/112/239], §§ 1033(b)(1), (2)(B), 1034, Jan. 2, 2013, [126 Stat. 1920–1922][/us/stat/126/1920-1922]; [Pub. L. 113–66, div. A, title X, § 1091(a)(7)][/us/pl/113/66/s1091/a/7], Dec. 26, 2013, [127 Stat. 875][/us/stat/127/875]; [Pub. L. 113–291, div. A, title X, § 1071(c)(10)][/us/pl/113/291/s1071/c/10], Dec. 19, 2014, [128 Stat. 3509][/us/stat/128/3509].)
 
  __References in Text__ 
 
@@ -158,6 +158,8 @@
     The text of this section is based on [Pub. L. 112–81, div. A, title X, § 1045][/us/pl/112/81/s1045], Dec. 31, 2011, [125 Stat. 1577][/us/stat/125/1577]; [Pub. L. 112–239, div. A, title X, § 1076(a)(19)][/us/pl/112/239/s1076/a/19], Jan. 2, 2013, [126 Stat. 1949][/us/stat/126/1949]. [Section 1045 of Pub. L. 112–81][/us/pl/112/81/s1045], formerly classified to [section 2523b of Title 50][/us/usc/t50/s2523b], War and National Defense, was transferred to this section by [Pub. L. 112–239, § 1033(b)(1)(A)][/us/pl/112/239/s1033/b/1/A]–(C).
 
  __Amendments__ 
+
+    2014—Subsec. (d)(1). [Pub. L. 113–291][/us/pl/113/291] substituted “([50 U.S.C. 3003(4)][/us/usc/t50/s3003/4])” for “([50 U.S.C. 401a(4)][/us/usc/t50/s401a/4])”.
 
     2013—[Pub. L. 112–239, § 1033(b)(2)(B)][/us/pl/112/239/s1033/b/2/B], made technical amendments to conform section enumerator and catchline to the style of this title. See Codification note above.
 
@@ -172,6 +174,22 @@
 [Pub. L. 112–239, div. A, title X, § 1033(b)(4)][/us/pl/112/239/s1033/b/4], Jan. 2, 2013, [126 Stat. 1922][/us/stat/126/1922], provided that: 
 
 > “The amendment made by paragraph (1)(D) \[amending this section\] shall take effect on October 1, 2012.”
+
+ __Retention of Missile Silos__ 
+
+[Pub. L. 113–291, div. A, title XVI, § 1644][/us/pl/113/291/s1644], Dec. 19, 2014, [128 Stat. 3651][/us/stat/128/3651], provided that:
+
+>     “(a)  __Requirement__  __.—__ 
+
+>     During the period in which the New START Treaty (as defined in [section 494(a)(2)(D) of title 10][/us/usc/t10/s494/a/2/D], United States Code) is in effect, the Secretary of Defense shall preserve each intercontinental ballistic missile silo that contains a deployed missile as of the date of the enactment of this Act \[Dec. 19, 2014\] in, at minimum, a warm status that enables such silo to—
+
+>         “(1) remain a fully functioning element of the interconnected and redundant command and control system of the missile field; and
+
+>         “(2) be made fully operational with a deployed missile.
+
+>     “(b)  __Rule of Construction__  __.—__ 
+
+>     Nothing in subsection (b) shall be construed to prohibit the Secretary of Defense from temporarily placing an intercontinental ballistic missile silo offline to perform maintenance activities.”
 
  __Implementation of New START Treaty__ 
 
@@ -223,11 +241,13 @@
 [/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
 [/us/stat/123/2549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2549
 [/us/usc/t10/s221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs221
-[/us/usc/t50/s401a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs401a%2F4
+[/us/usc/t50/s3003/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3003%2F4
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/stat/126/1920-1922]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1920-1922
 [/us/pl/113/66/s1091/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1091%2Fa%2F7
 [/us/stat/127/875]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F875
+[/us/pl/113/291/s1071/c/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Fc%2F10
+[/us/stat/128/3509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3509
 [/us/pl/111/84/s1251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs1251
 [/us/usc/t50/s2523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2523
 [/us/pl/112/81/s1045]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1045
@@ -237,12 +257,18 @@
 [/us/pl/112/81/s1045]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1045
 [/us/usc/t50/s2523b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2523b
 [/us/pl/112/239/s1033/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1033%2Fb%2F1%2FA
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/usc/t50/s3003/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3003%2F4
+[/us/usc/t50/s401a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs401a%2F4
 [/us/pl/112/239/s1033/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1033%2Fb%2F2%2FB
 [/us/pl/112/239/s1033/b/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1033%2Fb%2F1%2FD
 [/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/pl/112/239/s1034]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1034
 [/us/pl/112/239/s1033/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1033%2Fb%2F4
 [/us/stat/126/1922]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1922
+[/us/pl/113/291/s1644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1644
+[/us/stat/128/3651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3651
+[/us/usc/t10/s494/a/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs494%2Fa%2F2%2FD
 [/us/pl/113/66/s1056/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1056%2Fa%2F2
 [/us/stat/127/862-864]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F862-864
 [/us/usc/t10/s221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs221

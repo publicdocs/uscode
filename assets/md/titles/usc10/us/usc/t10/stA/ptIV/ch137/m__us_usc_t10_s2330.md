@@ -215,7 +215,7 @@
 
  __Procurement of Commercial Services__ 
 
-[Pub. L. 110–181, div. A, title VIII, § 805][/us/pl/110/181/s805], Jan. 28, 2008, [122 Stat. 212][/us/stat/122/212], as amended by [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title X, § 1061(b)(4), Oct. 14, 2008, [122 Stat. 4613][/us/stat/122/4613], provided that:
+[Pub. L. 110–181, div. A, title VIII, § 805][/us/pl/110/181/s805], Jan. 28, 2008, [122 Stat. 212][/us/stat/122/212], as amended by [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title X, § 1061(b)(4), Oct. 14, 2008, [122 Stat. 4613][/us/stat/122/4613]; [Pub. L. 113–291, div. A, title X, § 1071(b)(2)(A)][/us/pl/113/291/s1071/b/2/A], Dec. 19, 2014, [128 Stat. 3506][/us/stat/128/3506], provided that:
 
 >     “(a)  __Regulations Required__  __.—__ 
 
@@ -241,7 +241,7 @@
 
 >         The regulations modified pursuant to subsection (a) shall ensure that procedures applicable to time-and-materials contracts and labor-hour contracts for commercial item acquisitions may be used only for the following:
 
->             “(A) Services procured for support of a commercial item, as described in section 4(12)(E) of the Office of Federal Procurement Policy Act (\[former\] [41 U.S.C. 403(12)(E)][/us/usc/t41/s403/12/E]) \[now [41 U.S.C. 103(5)][/us/usc/t41/s103/5]\].
+>             “(A) Services procured for support of a commercial item, as described in [section 103(5) of title 41][/us/usc/t41/s103/5], United States Code.
 
 >             “(B) Emergency repair services.
 
@@ -249,7 +249,7 @@
 
 >              Any other commercial services only to the extent that the head of the agency concerned approves a determination in writing by the contracting officer that—
 
->                 “(i) the services to be acquired are commercial services as defined in section 4(12)(F) of the Office of Federal Procurement Policy Act (\[former\] [41 U.S.C. 403(12)(F)][/us/usc/t41/s403/12/F]) \[now [41 U.S.C. 103(6)][/us/usc/t41/s103/6]\];
+>                 “(i) the services to be acquired are commercial services as defined in [section 103(6) of title 41][/us/usc/t41/s103/6], United States Code;
 
 >                 “(ii) if the services to be acquired are subject to subsection (b), the offeror of the services has submitted sufficient information in accordance with that subsection;
 
@@ -359,7 +359,7 @@
 
  __Procurement Program Review Structure; Comptroller General Review__ 
 
-[Pub. L. 107–107, div. A, title VIII, § 801(d)][/us/pl/107/107/s801/d]–(f), Dec. 28, 2001, [115 Stat. 1177][/us/stat/115/1177], provided that:
+[Pub. L. 107–107, div. A, title VIII, § 801(d)][/us/pl/107/107/s801/d]–(f), Dec. 28, 2001, [115 Stat. 1177][/us/stat/115/1177], as amended by [Pub. L. 113–291, div. A, title X, § 1071(b)(8)][/us/pl/113/291/s1071/b/8], Dec. 19, 2014, [128 Stat. 3507][/us/stat/128/3507], provided that:
 
 >     “(d)  __Requirement for Program Review Structure__  __.—__ 
 
@@ -383,7 +383,7 @@
 
 >     In this section:
 
->         “(1) The term ‘senior procurement executive’ means the official designated as the senior procurement executive under section 16(3) of the Office of Federal Procurement Policy Act (\[former\] [41 U.S.C. 414(3)][/us/usc/t41/s414/3]) \[see [41 U.S.C. 1702(c)][/us/usc/t41/s1702/c]\].
+>         “(1) The term ‘senior procurement executive’ means the official designated as the senior procurement executive under [section 1702(c) of title 41][/us/usc/t41/s1702/c], United States Code.
 
 >         “(2) The term ‘performance-based’, with respect to a contract or a task order means that the contract or task order, respectively, includes the use of performance work statements that set forth contract requirements in clear, specific, and objective terms with measurable outcomes.”
 
@@ -518,10 +518,10 @@
 [/us/stat/122/212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F212
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4613
+[/us/pl/113/291/s1071/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Fb%2F2%2FA
+[/us/stat/128/3506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3506
 [/us/usc/t10/s2306a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2306a
-[/us/usc/t41/s403/12/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs403%2F12%2FE
 [/us/usc/t41/s103/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs103%2F5
-[/us/usc/t41/s403/12/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs403%2F12%2FF
 [/us/usc/t41/s103/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs103%2F6
 [/us/pl/110/181/s808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs808
 [/us/stat/122/215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F215
@@ -538,8 +538,9 @@
 [/us/usc/t10/s2330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2330
 [/us/pl/107/107/s801/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs801%2Fd
 [/us/stat/115/1177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1177
+[/us/pl/113/291/s1071/b/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Fb%2F8
+[/us/stat/128/3507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3507
 [/us/usc/t10/s2330a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2330a
-[/us/usc/t41/s414/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs414%2F3
 [/us/usc/t41/s1702/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs1702%2Fc
 [/us/pl/107/107/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs802
 [/us/stat/115/1178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1178

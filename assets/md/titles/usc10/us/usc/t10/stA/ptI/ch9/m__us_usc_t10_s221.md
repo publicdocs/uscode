@@ -47,6 +47,18 @@
 
     Subsecs. (b)(2)(A), (c). [Pub. L. 101–510, § 1402(a)(2)(A)][/us/pl/101/510/s1402/a/2/A], substituted “multiyear” for “five-year”.
 
+ __Reporting of Balances Carried Forward by the Department of Defense at the End of Each Fiscal Year__ 
+
+[Pub. L. 113–291, div. A, title X, § 1003][/us/pl/113/291/s1003], Dec. 19, 2014, [128 Stat. 3482][/us/stat/128/3482], provided that: 
+
+> “Not later March 1 of each year, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\], and make publicly available on the Internet website of the Department of Defense, the following information:
+
+>     “(1) The total dollar amount, by account, of all balances carried forward by the Department of Defense at the end of the fiscal year preceding the fiscal year during which such information is submitted.
+
+>     “(2) The total dollar amount, by account, of all unobligated balances carried forward by the Department of Defense at the end of the fiscal year preceding the fiscal year during which such information is submitted.
+
+>     “(3) The total dollar amount, by account, of any balances (both obligated and unobligated) that have been carried forward by the Department of Defense for five years or more as of the end of the fiscal year preceding the fiscal year during which such information is submitted.”
+
  __Budget Documentation Requirement__ 
 
 [Pub. L. 113–66, div. A, title II, § 213(c)][/us/pl/113/66/s213/c], Dec. 26, 2013, [127 Stat. 704][/us/stat/127/704], provided that: 
@@ -211,7 +223,7 @@
 
 >     “(c)  __Major Range and Test Facility Base Defined__  __.—__ 
 
->     In this section, the term ‘Major Range and Test Facility Base’ has the meaning given that term in [section 196(h) of title 10][/us/usc/t10/s196/h], United States Code.”
+>     In this section, the term ‘Major Range and Test Facility Base’ has the meaning given that term in section 196(h) \[now 196(i)\] of title 10, United States Code.”
 
  __Military Munitions Response Program and Installation Restoration Program__ 
 
@@ -244,6 +256,8 @@
  __Display of Annual Budget Requirements for Air Sovereignty Alert Mission__ 
 
     [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title III, § 354, Oct. 14, 2008, [122 Stat. 4426][/us/stat/122/4426], which required the Secretary of Defense to submit to the President a display of annual budget requirements for the Air Sovereignty Alert Mission of the Air Force, was repealed by [Pub. L. 113–188, title IV, § 401(a)][/us/pl/113/188/s401/a], Nov. 26, 2014, [128 Stat. 2019][/us/stat/128/2019].
+
+    \[[Pub. L. 113–291, div. A, title X, § 1060(b)][/us/pl/113/291/s1060/b], Dec. 19, 2014, [128 Stat. 3502][/us/stat/128/3502], which directed repeal of [section 354 of Pub. L. 110–417][/us/pl/110/417/s354], formerly set out above, could not be executed because of the prior repeal by [Pub. L. 113–188, title IV, § 401(a)][/us/pl/113/188/s401/a], Nov. 26, 2014, [128 Stat. 2019][/us/stat/128/2019].\]
 
  __Requirement for Separate Display of Budgets for Afghanistan and Iraq__ 
 
@@ -573,6 +587,8 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/pl/101/510/s1402/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1402%2Fa%2F3%2FA
 [/us/pl/101/510/s1402/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1402%2Fa%2F1
 [/us/pl/101/510/s1402/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1402%2Fa%2F2%2FA
+[/us/pl/113/291/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1003
+[/us/stat/128/3482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3482
 [/us/pl/113/66/s213/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs213%2Fc
 [/us/stat/127/704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F704
 [/us/usc/t31/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105
@@ -607,7 +623,6 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/pl/111/84/s220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs220
 [/us/stat/123/2229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2229
 [/us/usc/t31/s1105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105%2Fa
-[/us/usc/t10/s196/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs196%2Fh
 [/us/pl/111/84/s318/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs318%2Fb
 [/us/stat/123/2250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2250
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
@@ -617,6 +632,11 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/stat/122/4386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4386
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4426
+[/us/pl/113/188/s401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F188%2Fs401%2Fa
+[/us/stat/128/2019]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2019
+[/us/pl/113/291/s1060/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1060%2Fb
+[/us/stat/128/3502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3502
+[/us/pl/110/417/s354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs354
 [/us/pl/113/188/s401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F188%2Fs401%2Fa
 [/us/stat/128/2019]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2019
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417

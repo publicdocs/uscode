@@ -39,7 +39,7 @@
 
                 (ii) all other test and evaluation facilities and resources within and outside of the Department of Defense, other than budgets and expenditures for activities described in section 139(i)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title.
 
-            (B) To review proposed significant changes to the test and evaluation facilities and resources of the Major Range and Test Facility Base before they are implemented by the Secretaries of the military departments or the heads of the Defense Agencies with test and evaluation responsibilities and advise the Secretary of Defense and the Under Secretary of Acquisition, Technology, and Logistics of the impact of such changes on the adequacy of such test and evaluation facilities and resources to meet the test and evaluation requirements of the Department.
+            (B) To review proposed significant changes to the test and evaluation facilities and resources of the Major Range and Test Facility Base, including with respect to the expansion, divestment, consolidation, or curtailment of activities, before they are implemented by the Secretaries of the military departments or the heads of the Defense Agencies with test and evaluation responsibilities and advise the Secretary of Defense and the Under Secretary of Acquisition, Technology, and Logistics of the impact of such changes on the adequacy of such test and evaluation facilities and resources to meet the test and evaluation requirements of the Department.
 
             (C) To complete and maintain the strategic plan required by subsection (d).
 
@@ -65,9 +65,11 @@
 
             (D) An assessment of the current state of the test and evaluation facilities and resources of the Department.
 
-            (E) An itemization of acquisitions, upgrades, and improvements necessary to ensure that the test and evaluation facilities and resources of the Department are adequate to meet such requirements and satisfy such performance measures.
+            (E) An assessment of plans and business case analyses supporting any significant modification of the test and evaluation facilities and resources of the Department projected, proposed, or recommended by the Secretary of a military department or the head of a Defense Agency for such period, including with respect to the expansion, divestment, consolidation, or curtailment of activities.
 
-            (F) An assessment of the budgetary resources necessary to implement such acquisitions, upgrades, and improvements.
+            (F) An itemization of acquisitions, upgrades, and improvements necessary to ensure that the test and evaluation facilities and resources of the Department are adequate to meet such requirements and satisfy such performance measures.
+
+            (G) An assessment of the budgetary resources necessary to implement such acquisitions, upgrades, and improvements.
 
         (3) Upon completing a strategic plan under paragraph (1), the Director shall submit to the Secretary of Defense a report on that plan. The report shall include the plan and a description of the review on which the plan is based.
 
@@ -75,7 +77,7 @@
 
     (e)  __Certification of Budgets__  __.—__ 
 
-        (1) The Secretary of Defense, acting through the Under Secretary of Defense (Comptroller), shall require that the Secretary of each military department and the head of each Defense Agency with test and evaluation responsibilities transmit such Secretary’s or Defense Agency head’s proposed budget for test and evaluation activities for a fiscal year to the Director of the Center for review under paragraph (2) before submitting such proposed budget to the Under Secretary of Defense (Comptroller).
+        (1) The Secretary of Defense, acting through the Under Secretary of Defense (Comptroller), shall require that the Secretary of each military department and the head of each Defense Agency with test and evaluation responsibilities transmit such Secretary’s or Defense Agency head’s proposed budget for test and evaluation activities for a fiscal year and for the period covered by the future-years defense program submitted to Congress under [section 221 of this title][/us/usc/t10/s221] for that fiscal year to the Director of the Center for review under paragraph (2) before submitting such proposed budget to the Under Secretary of Defense (Comptroller).
 
         (2)
 
@@ -91,25 +93,45 @@
 
             (B) Any additional comments that the Secretary considers appropriate regarding the inadequacy of the proposed budgets.
 
-    (f)  __Supervision of Director by Under Secretary__  __.—__ 
+    (f)  __Approval of Certain Modifications__  __.—__ 
+
+        (1)
+
+         The Secretary of a military department or the head of a Defense Agency with test and evaluation responsibilities may not implement a projected, proposed, or recommended significant modification of the test and evaluation facilities and resources of the Department, including with respect to the expansion, divestment, consolidation, or curtailment of activities, until—
+
+            (A) the Secretary or the head, as the case may be, submits to the Director a business case analysis for such modification; and
+
+            (B) the Director reviews such analysis and approves such modification.
+
+        (2) The Director shall submit to the Secretary of Defense an annual report containing the comments of the Director with respect to each business case analysis reviewed under paragraph (1)(B) during the year covered by the report.
+
+    (g)  __Supervision of Director by Under Secretary__  __.—__ 
 
     The Director of the Center shall be subject to the supervision of the Under Secretary of Defense for Acquisition, Technology, and Logistics. The Director shall report directly to the Under Secretary, without the interposition of any other supervising official.
 
-    (g)  __Administrative Support of Center__  __.—__ 
+    (h)  __Administrative Support of Center__  __.—__ 
 
     The Secretary of Defense shall provide the Director with administrative support adequate for carrying out the Director’s responsibilities under this section. The Secretary shall provide the support out of the headquarters activities of the Department or any other activities that the Secretary considers appropriate.
 
-    (h)  __Definition__  __.—__ 
+    (i)  __Definition__  __.—__ 
 
     In this section, the term “Major Range and Test Facility Base” means the test and evaluation facilities and resources that are designated by the Secretary of Defense as facilities and resources comprising the Major Range and Test Facility Base.
 
-(Added [Pub. L. 107–314, div. A, title II, § 231(a)(1)][/us/pl/107/314/s231/a/1], Dec. 2, 2002, [116 Stat. 2487][/us/stat/116/2487]; amended [Pub. L. 108–136, div. A, title II, § 212][/us/pl/108/136/s212], Nov. 24, 2003, [117 Stat. 1416][/us/stat/117/1416]; [Pub. L. 109–163, div. A, title II, § 258(a)][/us/pl/109/163/s258/a], title IX, § 902, Jan. 6, 2006, [119 Stat. 3185][/us/stat/119/3185], 3397; [Pub. L. 111–84, div. A, title II, § 251][/us/pl/111/84/s251], Oct. 28, 2009, [123 Stat. 2241][/us/stat/123/2241].)
+(Added [Pub. L. 107–314, div. A, title II, § 231(a)(1)][/us/pl/107/314/s231/a/1], Dec. 2, 2002, [116 Stat. 2487][/us/stat/116/2487]; amended [Pub. L. 108–136, div. A, title II, § 212][/us/pl/108/136/s212], Nov. 24, 2003, [117 Stat. 1416][/us/stat/117/1416]; [Pub. L. 109–163, div. A, title II, § 258(a)][/us/pl/109/163/s258/a], title IX, § 902, Jan. 6, 2006, [119 Stat. 3185][/us/stat/119/3185], 3397; [Pub. L. 111–84, div. A, title II, § 251][/us/pl/111/84/s251], Oct. 28, 2009, [123 Stat. 2241][/us/stat/123/2241]; [Pub. L. 113–291, div. A, title II, § 214][/us/pl/113/291/s214], Dec. 19, 2014, [128 Stat. 3326][/us/stat/128/3326].)
 
  __References in Text__ 
 
     [Section 139(i) of this title][/us/usc/t10/s139/i], referred to in subsec. (c)(1)(A)(ii), was redesignated as [section 139(j) of this title][/us/usc/t10/s139/j] by [Pub. L. 110–181, title II, § 221][/us/pl/110/181/s221], Jan. 28, 2008, [122 Stat. 37][/us/stat/122/37].
 
  __Amendments__ 
+
+    2014—Subsec. (c)(1)(B). [Pub. L. 113–291, § 214(a)][/us/pl/113/291/s214/a], inserted “, including with respect to the expansion, divestment, consolidation, or curtailment of activities,” after “Base”.
+
+    Subsec. (d)(2)(E) to (G). [Pub. L. 113–291, § 214(b)][/us/pl/113/291/s214/b], added subpar. (E) and redesignated former subpars. (E) and (F) as (F) and (G), respectively.
+
+    Subsec. (e)(1). [Pub. L. 113–291, § 214(c)][/us/pl/113/291/s214/c], inserted “and for the period covered by the future-years defense program submitted to Congress under [section 221 of this title][/us/usc/t10/s221] for that fiscal year” after “activities for a fiscal year”.
+
+    Subsecs. (f) to (i). [Pub. L. 113–291, § 214(d)][/us/pl/113/291/s214/d], added subsec. (f) and redesignated former subsecs. (f) to (h) as (g) to (i), respectively.
 
     2009—Subsec. (c). [Pub. L. 111–84][/us/pl/111/84] inserted par. (1) designation before “The Director”, redesignated former par. (1) as subpar. (A) and former subpars. (A) and (B) as cl. (i) and (ii), respectively, of subpar. (A), added subpar. (B), redesignated former pars. (2) to (4) as subpars. (C) to (E), respectively, and added par. (2).
 
@@ -137,6 +159,7 @@
 ----------
 
 [/us/usc/t10/s191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs191
+[/us/usc/t10/s221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs221
 [/us/pl/107/314/s231/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs231%2Fa%2F1
 [/us/stat/116/2487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2487
 [/us/pl/108/136/s212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs212
@@ -145,10 +168,17 @@
 [/us/stat/119/3185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3185
 [/us/pl/111/84/s251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs251
 [/us/stat/123/2241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2241
+[/us/pl/113/291/s214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs214
+[/us/stat/128/3326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3326
 [/us/usc/t10/s139/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs139%2Fi
 [/us/usc/t10/s139/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs139%2Fj
 [/us/pl/110/181/s221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs221
 [/us/stat/122/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F37
+[/us/pl/113/291/s214/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs214%2Fa
+[/us/pl/113/291/s214/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs214%2Fb
+[/us/pl/113/291/s214/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs214%2Fc
+[/us/usc/t10/s221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs221
+[/us/pl/113/291/s214/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs214%2Fd
 [/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
 [/us/pl/109/163/s902/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs902%2Fa
 [/us/pl/109/163/s902/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs902%2Fb

@@ -15,9 +15,9 @@
 
 ## § 2314. Laws inapplicable to agencies named in [section 2303 of this title][/us/usc/t10/s2303]
 
-    Sections 6101(b)–(d) and 6304 of title 41 do not apply to the procurement or sale of property or services by the agencies named in [section 2303 of this title][/us/usc/t10/s2303].
+    Sections 6101 and 6304 of title 41 do not apply to the procurement or sale of property or services by the agencies named in [section 2303 of this title][/us/usc/t10/s2303].
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 133][/us/stat/70A/133]; [Pub. L. 96–513, title V, § 511(78)][/us/pl/96/513/s511/78], Dec. 12, 1980, [94 Stat. 2927][/us/stat/94/2927]; [Pub. L. 103–160, div. A, title VIII, § 822(b)(2)][/us/pl/103/160/s822/b/2], Nov. 30, 1993, [107 Stat. 1706][/us/stat/107/1706]; [Pub. L. 111–350, § 5(b)(16)][/us/pl/111/350/s5/b/16], Jan. 4, 2011, [124 Stat. 3843][/us/stat/124/3843].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 133][/us/stat/70A/133]; [Pub. L. 96–513, title V, § 511(78)][/us/pl/96/513/s511/78], Dec. 12, 1980, [94 Stat. 2927][/us/stat/94/2927]; [Pub. L. 103–160, div. A, title VIII, § 822(b)(2)][/us/pl/103/160/s822/b/2], Nov. 30, 1993, [107 Stat. 1706][/us/stat/107/1706]; [Pub. L. 111–350, § 5(b)(16)][/us/pl/111/350/s5/b/16], Jan. 4, 2011, [124 Stat. 3843][/us/stat/124/3843]; [Pub. L. 113–291, div. A, title X, § 1071(a)(4)][/us/pl/113/291/s1071/a/4], Dec. 19, 2014, [128 Stat. 3504][/us/stat/128/3504].)
 
 <table>
 
@@ -65,6 +65,8 @@ Feb. 19, 1948, ch. 65, § 11(b), 62 Stat. 25.  </td>
 
  __Amendments__ 
 
+    2014—[Pub. L. 113–291][/us/pl/113/291] substituted “Sections 6101” for “Sections 6101(b)–(d)”.
+
     2011—[Pub. L. 111–350][/us/pl/111/350] substituted “Sections 6101(b)–(d) and 6304 of title 41” for “Sections 3709 and 3735 of the Revised Statutes ([41 U.S.C. 5][/us/usc/t41/s5] and 13)”.
 
     1993—[Pub. L. 103–160][/us/pl/103/160] inserted “or sale” after “procurement”.
@@ -92,6 +94,9 @@ Feb. 19, 1948, ch. 65, § 11(b), 62 Stat. 25.  </td>
 [/us/stat/107/1706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1706
 [/us/pl/111/350/s5/b/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs5%2Fb%2F16
 [/us/stat/124/3843]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3843
+[/us/pl/113/291/s1071/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Fa%2F4
+[/us/stat/128/3504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3504
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/usc/t41/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs5
 [/us/pl/103/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160

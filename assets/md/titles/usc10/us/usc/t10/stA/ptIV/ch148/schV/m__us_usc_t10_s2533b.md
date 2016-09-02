@@ -65,11 +65,11 @@
 
     (h)  __Applicability to Acquisitions of Commercial Items__  __.—__ 
 
-        (1) Except as provided in paragraphs (2) and (3), this section applies to acquisitions of commercial items, notwithstanding sections 34 and 35  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of the Office of Federal Procurement Policy Act ([41 U.S.C. 430][/us/usc/t41/s430] and 431).
+        (1) Except as provided in paragraphs (2) and (3), this section applies to acquisitions of commercial items, notwithstanding sections 1906 and 1907 of title 41.
 
         (2)
 
-         This section does not apply to contracts or subcontracts for the acquisition of commercially available off-the-shelf items, as defined in section 35(c) 1 of the Office of Federal Procurement Policy Act ([41 U.S.C. 431(c)][/us/usc/t41/s431/c]), other than—
+         This section does not apply to contracts or subcontracts for the acquisition of commercially available off-the-shelf items, as defined in [section 104 of title 41][/us/usc/t41/s104], other than—
 
             (A) contracts or subcontracts for the acquisition of specialty metals, including mill products, such as bar, billet, slab, wire, plate and sheet, that have not been incorporated into end items, subsystems, assemblies, or components;
 
@@ -163,9 +163,9 @@
 
         (1) The term “United States” includes possessions of the United States.
 
-        (2) The term “component” has the meaning provided in section 4 1 of the Office of Federal Procurement Policy Act ([41 U.S.C. 403][/us/usc/t41/s403]).
+        (2) The term “component” has the meaning provided in [section 105 of title 41][/us/usc/t41/s105].
 
-        (3) The term “acquisition” has the meaning provided in section 4 1 of the Office of Federal Procurement Policy Act ([41 U.S.C. 403][/us/usc/t41/s403]).
+        (3) The term “acquisition” has the meaning provided in [section 131 of title 41][/us/usc/t41/s131].
 
         (4)
 
@@ -175,7 +175,7 @@
 
             (B) a finished component assembled into an end item delivered to the Department of Defense.
 
-        (5) The term “commercially available off-the-shelf”, has the meaning provided in section 35(c) 1 of the Office of Federal Procurement Policy Act ([41 U.S.C. 431(c)][/us/usc/t41/s431/c]).
+        (5) The term “commercially available off-the-shelf”, has the meaning provided in [section 104 of title 41][/us/usc/t41/s104].
 
         (6) The term “assemblies” means items forming a portion of a system or subsystem that can be provisioned and replaced as an entity and which incorporates multiple, replaceable parts.
 
@@ -187,17 +187,19 @@
 
         (10) The term “subcontract” includes a subcontract at any tier.
 
-(Added [Pub. L. 109–364, div. A, title VIII, § 842(a)(1)][/us/pl/109/364/s842/a/1], Oct. 17, 2006, [120 Stat. 2335][/us/stat/120/2335]; amended [Pub. L. 110–181, div. A, title VIII, § 804(a)][/us/pl/110/181/s804/a]–(f), Jan. 28, 2008, [122 Stat. 208–211][/us/stat/122/208-211]; [Pub. L. 111–350, § 5(b)(39)][/us/pl/111/350/s5/b/39], Jan. 4, 2011, [124 Stat. 3845][/us/stat/124/3845]; [Pub. L. 111–383, div. A, title X, § 1075(f)(2)][/us/pl/111/383/s1075/f/2], Jan. 7, 2011, [124 Stat. 4376][/us/stat/124/4376].)
-
- __References in Text__ 
-
-    Section 34 of the Office of Federal Procurement Policy Act, referred to in subsec. (h)(1), means [section 34 of Pub. L. 93–400][/us/pl/93/400/s34], which was classified to section 430 of former Title 41, Public Contracts, and was repealed and restated in [section 1906 of Title 41][/us/usc/t41/s1906], Public Contracts, by [Pub. L. 111–350][/us/pl/111/350], §§ 3, 7(b), Jan. 4, 2011, [124 Stat. 3677][/us/stat/124/3677], 3855. For disposition of sections of former Title 41, see Disposition Table preceding [section 101 of Title 41][/us/usc/t41/s101].
-
-    Section 35 of the Office of Federal Procurement Policy Act, referred to in subsec. (h)(1), (2) and (m)(5), means [section 35 of Pub. L. 93–400][/us/pl/93/400/s35], which was classified to section 431 of former Title 41, Public Contracts. Subsecs. (a) and (b) of such section 35 were repealed and restated as [section 1907 of Title 41][/us/usc/t41/s1907], Public Contracts, and subsec. (c) of such section 35 was repealed and restated as [section 104 of Title 41][/us/usc/t41/s104], by [Pub. L. 111–350][/us/pl/111/350], §§ 3, 7(b), Jan. 4, 2011, [124 Stat. 3677][/us/stat/124/3677], 3855. For disposition of sections of former Title 41, see Disposition Table preceding [section 101 of Title 41][/us/usc/t41/s101].
-
-    Section 4 of the Office of Federal Procurement Policy Act, referred to in subsec. (m)(2), (3), means [section 4 of Pub. L. 93–400][/us/pl/93/400/s4], which was classified to section 403 of former Title 41, Public Contracts, and was repealed and the provisions thereof restated in sections 102, 103, 105, 107 to 116, 131 to 134, and 1301 of Title 41, Public Contracts, by [Pub. L. 111–350][/us/pl/111/350], §§ 3, 7(b), Jan. 4, 2011, [124 Stat. 3677][/us/stat/124/3677], 3855. For disposition of sections of former Title 41, see Disposition Table preceding [section 101 of Title 41][/us/usc/t41/s101].
+(Added [Pub. L. 109–364, div. A, title VIII, § 842(a)(1)][/us/pl/109/364/s842/a/1], Oct. 17, 2006, [120 Stat. 2335][/us/stat/120/2335]; amended [Pub. L. 110–181, div. A, title VIII, § 804(a)][/us/pl/110/181/s804/a]–(f), Jan. 28, 2008, [122 Stat. 208–211][/us/stat/122/208-211]; [Pub. L. 111–350, § 5(b)(39)][/us/pl/111/350/s5/b/39], Jan. 4, 2011, [124 Stat. 3845][/us/stat/124/3845]; [Pub. L. 111–383, div. A, title X, § 1075(f)(2)][/us/pl/111/383/s1075/f/2], Jan. 7, 2011, [124 Stat. 4376][/us/stat/124/4376]; [Pub. L. 113–291, div. A, title X, § 1071(a)(10)][/us/pl/113/291/s1071/a/10], Dec. 19, 2014, [128 Stat. 3505][/us/stat/128/3505].)
 
  __Amendments__ 
+
+    2014—Subsec. (h)(1). [Pub. L. 113–291, § 1071(a)(10)(A)(i)][/us/pl/113/291/s1071/a/10/A/i], substituted “sections 1906 and 1907 of title 41” for “sections 34 and 35 of the Office of Federal Procurement Policy Act ([41 U.S.C. 430][/us/usc/t41/s430] and 431)”.
+
+    Subsec. (h)(2). [Pub. L. 113–291, § 1071(a)(10)(A)(ii)][/us/pl/113/291/s1071/a/10/A/ii], substituted “[section 104 of title 41][/us/usc/t41/s104]” for “section 35(c) of the Office of Federal Procurement Policy Act ([41 U.S.C. 431(c)][/us/usc/t41/s431/c])” in introductory provisions.
+
+    Subsec. (m)(2). [Pub. L. 113–291, § 1071(a)(10)(B)(i)][/us/pl/113/291/s1071/a/10/B/i], substituted “[section 105 of title 41][/us/usc/t41/s105]” for “section 4 of the Office of Federal Procurement Policy Act ([41 U.S.C. 403][/us/usc/t41/s403])”.
+
+    Subsec. (m)(3). [Pub. L. 113–291, § 1071(a)(10)(B)(ii)][/us/pl/113/291/s1071/a/10/B/ii], substituted “[section 131 of title 41][/us/usc/t41/s131]” for “section 4 of the Office of Federal Procurement Policy Act ([41 U.S.C. 403][/us/usc/t41/s403])”.
+
+    Subsec. (m)(5). [Pub. L. 113–291, § 1071(a)(10)(B)(iii)][/us/pl/113/291/s1071/a/10/B/iii], substituted “[section 104 of title 41][/us/usc/t41/s104]” for “section 35(c) of the Office of Federal Procurement Policy Act ([41 U.S.C. 431(c)][/us/usc/t41/s431/c])”.
 
     2011—Subsec. (a)(2). [Pub. L. 111–383, § 1075(f)(2)(A)][/us/pl/111/383/s1075/f/2/A], made technical amendment to directory language of [Pub. L. 110–181, § 804(a)(3)][/us/pl/110/181/s804/a/3]. See 2008 Amendment note below.
 
@@ -331,11 +333,10 @@
 [/us/usc/t10/s2457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2457
 [/us/usc/t10/s2304/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2304%2Fg
 [/us/usc/t10/s187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs187
-[/us/usc/t41/s430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs430
-[/us/usc/t41/s431/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs431%2Fc
-[/us/usc/t41/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs403
-[/us/usc/t41/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs403
-[/us/usc/t41/s431/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs431%2Fc
+[/us/usc/t41/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs104
+[/us/usc/t41/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs105
+[/us/usc/t41/s131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs131
+[/us/usc/t41/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs104
 [/us/pl/109/364/s842/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs842%2Fa%2F1
 [/us/stat/120/2335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2335
 [/us/pl/110/181/s804/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs804%2Fa
@@ -344,21 +345,22 @@
 [/us/stat/124/3845]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3845
 [/us/pl/111/383/s1075/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1075%2Ff%2F2
 [/us/stat/124/4376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4376
-[/us/pl/93/400/s34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F400%2Fs34
-[/us/usc/t41/s1906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs1906
-[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
-[/us/stat/124/3677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3677
-[/us/usc/t41/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs101
-[/us/pl/93/400/s35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F400%2Fs35
-[/us/usc/t41/s1907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs1907
+[/us/pl/113/291/s1071/a/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Fa%2F10
+[/us/stat/128/3505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3505
+[/us/pl/113/291/s1071/a/10/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Fa%2F10%2FA%2Fi
+[/us/usc/t41/s430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs430
+[/us/pl/113/291/s1071/a/10/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Fa%2F10%2FA%2Fii
 [/us/usc/t41/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs104
-[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
-[/us/stat/124/3677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3677
-[/us/usc/t41/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs101
-[/us/pl/93/400/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F400%2Fs4
-[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
-[/us/stat/124/3677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3677
-[/us/usc/t41/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs101
+[/us/usc/t41/s431/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs431%2Fc
+[/us/pl/113/291/s1071/a/10/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Fa%2F10%2FB%2Fi
+[/us/usc/t41/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs105
+[/us/usc/t41/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs403
+[/us/pl/113/291/s1071/a/10/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Fa%2F10%2FB%2Fii
+[/us/usc/t41/s131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs131
+[/us/usc/t41/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs403
+[/us/pl/113/291/s1071/a/10/B/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Fa%2F10%2FB%2Fiii
+[/us/usc/t41/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs104
+[/us/usc/t41/s431/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs431%2Fc
 [/us/pl/111/383/s1075/f/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1075%2Ff%2F2%2FA
 [/us/pl/110/181/s804/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs804%2Fa%2F3
 [/us/pl/111/350/s5/b/39/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs5%2Fb%2F39%2FA

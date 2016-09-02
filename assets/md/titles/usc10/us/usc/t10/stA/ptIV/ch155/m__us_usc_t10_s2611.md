@@ -25,7 +25,7 @@
 
             (A) The George C. Marshall European Center for Security Studies.
 
-            (B) The Asia-Pacific Center for Security Studies.
+            (B) The Daniel K. Inouye Asia-Pacific Center for Security Studies.
 
             (C) The William J. Perry Center for Hemispheric Defense Studies.
 
@@ -65,9 +65,11 @@
 
     In this section, the term “gift or donation” means any gift or donation of funds, materials (including research materials), real or personal property, or services (including lecture services and faculty services).
 
-(Added [Pub. L. 106–65, div. A, title IX, § 915(a)][/us/pl/106/65/s915/a], Oct. 5, 1999, [113 Stat. 721][/us/stat/113/721]; amended [Pub. L. 107–314, div. A, title X, § 1041(a)(17)][/us/pl/107/314/s1041/a/17], Dec. 2, 2002, [116 Stat. 2645][/us/stat/116/2645]; [Pub. L. 108–136, div. A, title IX, § 931(a)][/us/pl/108/136/s931/a], (b)(1), (c), Nov. 24, 2003, [117 Stat. 1580][/us/stat/117/1580], 1581; [Pub. L. 108–375, div. A, title X, § 1084(f)(2)][/us/pl/108/375/s1084/f/2], Oct. 28, 2004, [118 Stat. 2064][/us/stat/118/2064]; [Pub. L. 109–163, div. A, title IX, § 903(a)(1)][/us/pl/109/163/s903/a/1], Jan. 6, 2006, [119 Stat. 3397][/us/stat/119/3397]; [Pub. L. 112–239, div. B, title XXVIII, § 2854(b)(2)][/us/pl/112/239/s2854/b/2], Jan. 2, 2013, [126 Stat. 2162][/us/stat/126/2162].)
+(Added [Pub. L. 106–65, div. A, title IX, § 915(a)][/us/pl/106/65/s915/a], Oct. 5, 1999, [113 Stat. 721][/us/stat/113/721]; amended [Pub. L. 107–314, div. A, title X, § 1041(a)(17)][/us/pl/107/314/s1041/a/17], Dec. 2, 2002, [116 Stat. 2645][/us/stat/116/2645]; [Pub. L. 108–136, div. A, title IX, § 931(a)][/us/pl/108/136/s931/a], (b)(1), (c), Nov. 24, 2003, [117 Stat. 1580][/us/stat/117/1580], 1581; [Pub. L. 108–375, div. A, title X, § 1084(f)(2)][/us/pl/108/375/s1084/f/2], Oct. 28, 2004, [118 Stat. 2064][/us/stat/118/2064]; [Pub. L. 109–163, div. A, title IX, § 903(a)(1)][/us/pl/109/163/s903/a/1], Jan. 6, 2006, [119 Stat. 3397][/us/stat/119/3397]; [Pub. L. 112–239, div. B, title XXVIII, § 2854(b)(2)][/us/pl/112/239/s2854/b/2], Jan. 2, 2013, [126 Stat. 2162][/us/stat/126/2162]; [Pub. L. 113–291, div. B, title XXVIII, § 2861(b)(2)][/us/pl/113/291/s2861/b/2], Dec. 19, 2014, [128 Stat. 3716][/us/stat/128/3716].)
 
  __Amendments__ 
+
+    2014—Subsec. (a)(2)(B). [Pub. L. 113–291][/us/pl/113/291] substituted “Daniel K. Inouye Asia-Pacific Center for Security Studies” for “Asia-Pacific Center for Security Studies”.
 
     2013—Subsec. (a)(2)(C). [Pub. L. 112–239][/us/pl/112/239] substituted “William J. Perry Center for Hemispheric Defense Studies” for “Center for Hemispheric Defense Studies”.
 
@@ -112,6 +114,9 @@
 [/us/stat/119/3397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3397
 [/us/pl/112/239/s2854/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs2854%2Fb%2F2
 [/us/stat/126/2162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2162
+[/us/pl/113/291/s2861/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs2861%2Fb%2F2
+[/us/stat/128/3716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3716
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
 [/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375

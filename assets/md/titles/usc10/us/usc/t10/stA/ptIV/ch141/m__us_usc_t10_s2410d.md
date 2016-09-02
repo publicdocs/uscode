@@ -77,13 +77,13 @@
 
  __Contract Participation by Agencies for the Blind or Other Severely Handicapped__ 
 
-[Pub. L. 108–87, title VIII, § 8025][/us/pl/108/87/s8025], Sept. 30, 2003, [117 Stat. 1077][/us/stat/117/1077], provided that:
+[Pub. L. 108–87, title VIII, § 8025][/us/pl/108/87/s8025], Sept. 30, 2003, [117 Stat. 1077][/us/stat/117/1077], as amended by [Pub. L. 113–291, div. A, title X, § 1071(b)(6)][/us/pl/113/291/s1071/b/6], Dec. 19, 2014, [128 Stat. 3507][/us/stat/128/3507], provided that:
 
 >     “(a) Of the funds for the procurement of supplies or services appropriated by this Act \[see Tables for classification\] and hereafter, qualified nonprofit agencies for the blind or other severely handicapped shall be afforded the maximum practicable opportunity to participate as subcontractors and suppliers in the performance of contracts let by the Department of Defense.
 
 >     “(b) During the current fiscal year and hereafter, a business concern which has negotiated with a military service or defense agency a subcontracting plan for the participation by small business concerns pursuant to section 8(d) of the Small Business Act ([15 U.S.C. 637(d)][/us/usc/t15/s637/d]) shall be given credit toward meeting that subcontracting goal for any purchases made from qualified nonprofit agencies for the blind or other severely handicapped.
 
->     “(c) For the purpose of this section, the phrase ‘qualified nonprofit agency for the blind or other severely handicapped’ means a nonprofit agency for the blind or other severely handicapped that has been approved by the Committee for the Purchase from the Blind and Other Severely Handicapped under the Javits-Wagner-O’Day Act (\[former\] [41 U.S.C. 46–48][/us/usc/t41/s46–48]\[c\]) \[now [41 U.S.C. 8501][/us/usc/t41/s8501] et seq.\].”
+>     “(c) For the purpose of this section, the phrase ‘qualified nonprofit agency for the blind or other severely handicapped’ means a nonprofit agency for the blind or other severely handicapped that has been approved by the Committee for the Purchase from the Blind and Other Severely Handicapped under chapter 85 of title 41, United States Code.”
 
 Similar provisions were contained in the following prior appropriation acts:
 
@@ -164,9 +164,9 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/stat/106/2450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2450
 [/us/pl/108/87/s8025]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F87%2Fs8025
 [/us/stat/117/1077]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1077
+[/us/pl/113/291/s1071/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Fb%2F6
+[/us/stat/128/3507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3507
 [/us/usc/t15/s637/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs637%2Fd
-[/us/usc/t41/s46–48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs46%E2%80%9348
-[/us/usc/t41/s8501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs8501
 [/us/pl/107/248/s8025]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F248%2Fs8025
 [/us/stat/116/1542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1542
 [/us/pl/107/117/s8028]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F117%2Fs8028

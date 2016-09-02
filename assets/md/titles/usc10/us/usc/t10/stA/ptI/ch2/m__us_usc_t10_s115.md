@@ -141,7 +141,7 @@
 
         (8) Members of reserve components on active duty for training or full-time National Guard duty for training.
 
-        (9) Members of the Selected Reserve of the Ready Reserve on active duty to support programs described in section 1203(b) of the Cooperative Threat Reduction Act of 1993 ([22 U.S.C. 5952(b)][/us/usc/t22/s5952/b]).
+        (9) Members of the Selected Reserve of the Ready Reserve on active duty to support programs described in section 1203(b) of the Cooperative Threat Reduction Act of 1993 ([22 U.S.C. 5952(b)][/us/usc/t22/s5952/b]). <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup> 
 
         (10) Members of the National Guard on active duty or full-time National Guard duty for the purpose of carrying out drug interdiction and counter-drug activities under [section 112 of title 32][/us/usc/t32/s112].
 
@@ -152,6 +152,10 @@
         (13) Members of the National Guard on full-time National Guard duty involuntarily and performing homeland defense activities under chapter 9 of title 32.
 
 (Added [Pub. L. 101–510, div. A, title XIV, § 1483(a)][/us/pl/101/510/s1483/a], Nov. 5, 1990, [104 Stat. 1710][/us/stat/104/1710]; amended [Pub. L. 102–190, div. A, title III, § 312(a)][/us/pl/102/190/s312/a], Dec. 5, 1991, [105 Stat. 1335][/us/stat/105/1335]; [Pub. L. 104–106, div. A, title IV][/us/pl/104/106], §§ 401(c), 415, title V, § 513(a)(1), title X, § 1061(c), title XV, § 1501(c)(3), Feb. 10, 1996, [110 Stat. 286][/us/stat/110/286], 288, 305, 442, 498; [Pub. L. 105–85, div. A, title IV, § 413(b)][/us/pl/105/85/s413/b], title V, § 522(i)(1), Nov. 18, 1997, [111 Stat. 1720][/us/stat/111/1720], 1736; [Pub. L. 106–65, div. A, title IV, § 415][/us/pl/106/65/s415], Oct. 5, 1999, [113 Stat. 587][/us/stat/113/587]; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title IV, § 422\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–96; [Pub. L. 107–107, div. A, title IV][/us/pl/107/107], §§ 421(a), 422, Dec. 28, 2001, [115 Stat. 1076][/us/stat/115/1076], 1077; [Pub. L. 107–314, div. A, title IV, § 403][/us/pl/107/314/s403], Dec. 2, 2002, [116 Stat. 2525][/us/stat/116/2525]; [Pub. L. 108–136, div. A, title IV, § 403(a)][/us/pl/108/136/s403/a], (b), Nov. 24, 2003, [117 Stat. 1450][/us/stat/117/1450], 1451; [Pub. L. 108–375, div. A, title IV, § 416(a)][/us/pl/108/375/s416/a]–(d), title V, § 512(b), Oct. 28, 2004, [118 Stat. 1866][/us/stat/118/1866], 1867, 1880; [Pub. L. 109–364, div. A, title X, § 1071(a)(1)][/us/pl/109/364/s1071/a/1], (g)(1)(A), Oct. 17, 2006, [120 Stat. 2398][/us/stat/120/2398], 2402; [Pub. L. 110–181, div. A, title IV][/us/pl/110/181], §§ 416(b), 417, Jan. 28, 2008, [122 Stat. 91][/us/stat/122/91], 92; [Pub. L. 111–84, div. A, title IV, § 418][/us/pl/111/84/s418], Oct. 28, 2009, [123 Stat. 2268][/us/stat/123/2268].)
+
+ __References in Text__ 
+
+    Section 1203 of the Cooperative Threat Reduction Act of 1993, referred to in subsec. (i)(9), is [section 1203 of Pub. L. 103–160][/us/pl/103/160/s1203], div. A, title XII, which was classified to [section 5952 of Title 22][/us/usc/t22/s5952], Foreign Relations and Intercourse, and was repealed by [Pub. L. 113–291, div. A, title XIII, § 1351(3)][/us/pl/113/291/s1351/3], Dec. 19, 2014, [128 Stat. 3607][/us/stat/128/3607].
 
  __Prior Provisions__ 
 
@@ -467,6 +471,10 @@
 [/us/stat/122/91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F91
 [/us/pl/111/84/s418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs418
 [/us/stat/123/2268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2268
+[/us/pl/103/160/s1203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs1203
+[/us/usc/t22/s5952]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs5952
+[/us/pl/113/291/s1351/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1351%2F3
+[/us/stat/128/3607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3607
 [/us/pl/93/155/s803/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F155%2Fs803%2Fa
 [/us/stat/87/612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F612
 [/us/pl/94/361/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F361%2Fs302

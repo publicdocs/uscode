@@ -17,7 +17,7 @@
 
     (a)
 
-     In determining under [section 8302 of title 41][/us/usc/t41/s8302] whether application of such Act is inconsistent with the public interest, the Secretary of Defense shall consider the following:
+     In determining under [section 8302 of title 41][/us/usc/t41/s8302] whether application of chapter 83 of such title is inconsistent with the public interest, the Secretary of Defense shall consider the following:
 
         (1) The bids or proposals of small business firms in the United States which have offered to furnish American goods.
 
@@ -53,13 +53,15 @@
 
         (2) an end product that is manufactured in the United States but which includes components mined, produced, or manufactured outside the United States the aggregate cost of which exceeds the aggregate cost of the components of such end product that are mined, produced, or manufactured in the United States.
 
-(Added [Pub. L. 100–370, § 3(a)(1)][/us/pl/100/370/s3/a/1], July 19, 1988, [102 Stat. 855][/us/stat/102/855], § 2501; renumbered § 2506, [Pub. L. 100–456, div. A, title VIII, § 821(b)(1)(A)][/us/pl/100/456/s821/b/1/A], Sept. 29, 1988, [102 Stat. 2014][/us/stat/102/2014]; renumbered § 2533, [Pub. L. 102–484, div. D, title XLII, § 4202(a)][/us/pl/102/484/s4202/a], Oct. 23, 1992, [106 Stat. 2659][/us/stat/106/2659]; amended [Pub. L. 103–337, div. A, title VIII, § 812(a)][/us/pl/103/337/s812/a], (b)(1), Oct. 5, 1994, [108 Stat. 2815][/us/stat/108/2815], 2816; [Pub. L. 104–106, div. D, title XLIII, § 4321(b)(20)][/us/pl/104/106/s4321/b/20], Feb. 10, 1996, [110 Stat. 673][/us/stat/110/673]; [Pub. L. 105–85, div. A, title X, § 1073(a)(54)][/us/pl/105/85/s1073/a/54], Nov. 18, 1997, [111 Stat. 1903][/us/stat/111/1903]; [Pub. L. 111–350, § 5(b)(37)][/us/pl/111/350/s5/b/37], Jan. 4, 2011, [124 Stat. 3845][/us/stat/124/3845].)
+(Added [Pub. L. 100–370, § 3(a)(1)][/us/pl/100/370/s3/a/1], July 19, 1988, [102 Stat. 855][/us/stat/102/855], § 2501; renumbered § 2506, [Pub. L. 100–456, div. A, title VIII, § 821(b)(1)(A)][/us/pl/100/456/s821/b/1/A], Sept. 29, 1988, [102 Stat. 2014][/us/stat/102/2014]; renumbered § 2533, [Pub. L. 102–484, div. D, title XLII, § 4202(a)][/us/pl/102/484/s4202/a], Oct. 23, 1992, [106 Stat. 2659][/us/stat/106/2659]; amended [Pub. L. 103–337, div. A, title VIII, § 812(a)][/us/pl/103/337/s812/a], (b)(1), Oct. 5, 1994, [108 Stat. 2815][/us/stat/108/2815], 2816; [Pub. L. 104–106, div. D, title XLIII, § 4321(b)(20)][/us/pl/104/106/s4321/b/20], Feb. 10, 1996, [110 Stat. 673][/us/stat/110/673]; [Pub. L. 105–85, div. A, title X, § 1073(a)(54)][/us/pl/105/85/s1073/a/54], Nov. 18, 1997, [111 Stat. 1903][/us/stat/111/1903]; [Pub. L. 111–350, § 5(b)(37)][/us/pl/111/350/s5/b/37], Jan. 4, 2011, [124 Stat. 3845][/us/stat/124/3845]; [Pub. L. 113–291, div. A, title X, § 1071(a)(9)][/us/pl/113/291/s1071/a/9], Dec. 19, 2014, [128 Stat. 3505][/us/stat/128/3505].)
 
  __Historical and Revision Notes__ 
 
     Section is based on [Pub. L. 93–365, title VII, § 707][/us/pl/93/365/s707], Aug. 5, 1974, [88 Stat. 406][/us/stat/88/406].
 
  __Amendments__ 
+
+    2014—Subsec. (a). [Pub. L. 113–291][/us/pl/113/291] substituted “chapter 83 of such title” for “such Act” in introductory provisions.
 
     2011—[Pub. L. 111–350, § 5(b)(37)(A)][/us/pl/111/350/s5/b/37/A], substituted “chapter 83 of title 41” for “the Buy American Act” in section catchline.
 
@@ -115,8 +117,11 @@
 [/us/stat/111/1903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1903
 [/us/pl/111/350/s5/b/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs5%2Fb%2F37
 [/us/stat/124/3845]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3845
+[/us/pl/113/291/s1071/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Fa%2F9
+[/us/stat/128/3505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3505
 [/us/pl/93/365/s707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F365%2Fs707
 [/us/stat/88/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F406
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/pl/111/350/s5/b/37/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs5%2Fb%2F37%2FA
 [/us/pl/111/350/s5/b/37/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs5%2Fb%2F37%2FB
 [/us/usc/t41/s8302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs8302

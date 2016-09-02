@@ -45,6 +45,108 @@
 
 (Added [Pub. L. 111–383, div. A, title VIII, § 805(a)(1)][/us/pl/111/383/s805/a/1], Jan. 7, 2011, [124 Stat. 4259][/us/stat/124/4259].)
 
+ __Modular Open Systems Approaches in Acquisition Programs__ 
+
+[Pub. L. 113–291, div. A, title VIII, § 801][/us/pl/113/291/s801], Dec. 19, 2014, [128 Stat. 3425][/us/stat/128/3425], provided that:
+
+>     “(a)  __Plan for Modular Open Systems Approach Through Development and Adoption of Standards and Architectures__  __.—__ 
+
+>     Not later than January 1, 2016, the Under Secretary of Defense for Acquisition, Technology, and Logistics shall submit a report to the Committees on Armed Services of the Senate and the House of Representatives detailing a plan to develop standards and define architectures necessary to enable open systems approaches in the key mission areas of the Department of Defense with respect to which the Under Secretary determines that such standards and architectures would be feasible and cost effective.
+
+>     “(b) __Consideration of Modular Open Systems Approaches.—__ 
+
+>         “(1) __Review of acquisition guidance.—__ 
+
+>         The Under Secretary of Defense for Acquisition, Technology, and Logistics shall review current acquisition guidance, and modify such guidance as necessary, to—
+
+>             “(A) ensure that acquisition programs include open systems approaches in the product design and acquisition of information technology systems to the maximum extent practicable; and
+
+>             “(B) for any information technology system not using an open systems approach, ensure that written justification is provided in the contract file for the system detailing why an open systems approach was not used.
+
+>         “(2)  __Elements__  __.—__ 
+
+>         The review required in paragraph (1) shall—
+
+>             “(A)
+
+>              consider whether the guidance includes appropriate exceptions for the acquisition of—
+
+>                 “(i) commercial items; and
+
+>                 “(ii) solutions addressing urgent operational needs;
+
+>             “(B) determine the extent to which open systems approaches should be addressed in analysis of alternatives, acquisition strategies, system engineering plans, and life cycle sustainment plans; and
+
+>             “(C) ensure that increments of acquisition programs consider the extent to which the increment will implement open systems approaches as a whole.
+
+>         “(3)  __Deadline for review__  __.—__ 
+
+>         The review required in this subsection shall be completed no later than 180 days after the date of the enactment of this Act \[Dec. 19, 2014\].
+
+>     “(c) __Treatment of Ongoing and Legacy Programs.—__ 
+
+>         “(1)  __Report requirement__  __.—__ 
+
+>         Not later than one year after the date of the enactment of this Act, the Under Secretary of Defense for Acquisition, Technology, and Logistics shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report covering the matters specified in paragraph (2).
+
+>         “(2)  __Matters covered__  __.—__ 
+
+>         Subject to paragraph (3), the report required in this subsection shall—
+
+>             “(A) identify all information technology systems that are in development, production, or deployed status as of the date of the enactment of this Act, that are or were major defense acquisition programs or major automated information systems, and that are not using an open systems approach;
+
+>             “(B) identify gaps in standards and architectures necessary to enable open systems approaches in the key mission areas of the Department of Defense, as determined pursuant to the plan submitted under subsection (a); and
+
+>             “(C) outline a process for potential conversion to an open systems approach for each information technology system identified under subparagraph (A).
+
+>         “(3)  __Limitations__  __.—__ 
+
+>         The report required in this subsection shall not include information technology systems—
+
+>             “(A) having a planned increment before fiscal year 2021 that will result in conversion to an open systems approach; and
+
+>             “(B) that will be in operation for fewer than 15 years after the date of the enactment of this Act.
+
+>     “(d)  __Definitions__  __.—__ 
+
+>     In this section:
+
+>         “(1)  __Information technology__  __.—__ 
+
+>         The term ‘information technology’ has the meaning given the term in [section 11101(6) of title 40][/us/usc/t40/s11101/6], United States Code.
+
+>         “(2)  __Open systems approach__  __.—__ 
+
+>         The term ‘open systems approach’ means, with respect to an information technology system, an integrated business and technical strategy that—
+
+>             “(A) employs a modular design and uses widely supported and consensus-based standards for key interfaces;
+
+>             “(B) is subjected to successful validation and verification tests to ensure key interfaces comply with widely supported and consensus-based standards; and
+
+>             “(C)
+
+>              uses a system architecture that allows components to be added, modified, replaced, removed, or supported by different vendors throughout the lifecycle of the system to afford opportunities for enhanced competition and innovation while yielding—
+
+>                 “(i) significant cost and schedule savings; and
+
+>                 “(ii) increased interoperability.”
+
+ __Operational Metrics for Joint Information Environment and Supporting Activities__ 
+
+[Pub. L. 113–291, div. A, title VIII, § 854][/us/pl/113/291/s854], Dec. 19, 2014, [128 Stat. 3459][/us/stat/128/3459], provided that:
+
+>     “(a)  __Guidance__  __.—__ 
+
+>     Not later than 180 days after the date of the enactment of this Act \[Dec. 19, 2014\], the Secretary of Defense, acting through the Chief Information Officer of the Department of Defense, shall issue guidance for measuring the operational effectiveness and efficiency of the Joint Information Environment within the military departments, Defense Agencies, and combatant commands. The guidance shall include a definition of specific metrics for data collection, and a requirement for each military department, Defense Agency, and combatant command to regularly collect and assess data on such operational effectiveness and efficiency and report the results to such Chief Information Officer on a regular basis.
+
+>     “(b)  __Baseline Architecture__  __.—__ 
+
+>     The Chief Information Officer of the Department of Defense shall identify a baseline architecture for the Joint Information Environment by identifying and reporting to the Secretary of Defense any information technology programs or other investments that support that architecture.
+
+>     “(c)  __Joint Information Environment Defined__  __.—__ 
+
+>     In this section, the term ‘Joint Information Environment’ means the initiative of the Department of Defense to modernize the information technology networks and systems within the Department.”
+
  __Supervision of the Acquisition of Cloud Computing Capabilities__ 
 
 [Pub. L. 113–66, div. A, title IX, § 938][/us/pl/113/66/s938], Dec. 26, 2013, [127 Stat. 835][/us/stat/127/835], provided that:
@@ -202,6 +304,11 @@
 
 [/us/pl/111/383/s805/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs805%2Fa%2F1
 [/us/stat/124/4259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4259
+[/us/pl/113/291/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs801
+[/us/stat/128/3425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3425
+[/us/usc/t40/s11101/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs11101%2F6
+[/us/pl/113/291/s854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs854
+[/us/stat/128/3459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3459
 [/us/pl/113/66/s938]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs938
 [/us/stat/127/835]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F835
 [/us/usc/t50/s3024]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3024

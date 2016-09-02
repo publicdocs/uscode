@@ -213,9 +213,9 @@
 
  __Application of Exception to Seafood Products__ 
 
-[Pub. L. 108–287, title VIII, § 8118][/us/pl/108/287/s8118], Aug. 5, 2004, [118 Stat. 998][/us/stat/118/998], provided that: 
+[Pub. L. 108–287, title VIII, § 8118][/us/pl/108/287/s8118], Aug. 5, 2004, [118 Stat. 998][/us/stat/118/998], as amended by [Pub. L. 113–291, div. A, title X, § 1071(b)(4)][/us/pl/113/291/s1071/b/4], Dec. 19, 2014, [128 Stat. 3506][/us/stat/128/3506], provided that: 
 
-> “Notwithstanding any other provision of law, [section 2533a(f) of title 10][/us/usc/t10/s2533a/f], United States Code, shall hereafter not apply to any fish, shellfish, or seafood product. This section applies to contracts and subcontracts for the procurement of commercial items notwithstanding section 34 of the Office of Federal Procurement Policy Act (\[former\] [41 U.S.C. 430][/us/usc/t41/s430]) \[now [41 U.S.C. 1906][/us/usc/t41/s1906]\].”
+> “Notwithstanding any other provision of law, [section 2533a(f) of title 10][/us/usc/t10/s2533a/f], United States Code, shall hereafter not apply to any fish, shellfish, or seafood product. This section applies to contracts and subcontracts for the procurement of commercial items notwithstanding [section 1906 of title 41][/us/usc/t41/s1906], United States Code.”
 
 ----------
 
@@ -283,8 +283,9 @@
 [/us/usc/t10/s2533a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2533a
 [/us/pl/108/287/s8118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F287%2Fs8118
 [/us/stat/118/998]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F998
+[/us/pl/113/291/s1071/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Fb%2F4
+[/us/stat/128/3506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3506
 [/us/usc/t10/s2533a/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2533a%2Ff
-[/us/usc/t41/s430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs430
 [/us/usc/t41/s1906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs1906
 
 

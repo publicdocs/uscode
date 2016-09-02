@@ -33,7 +33,7 @@
 
         (1)
 
-         monitor the overall communications security, cryptographic modernization, and key management efforts of the Department, including activities under major defense acquisition programs (as defined in section 139c  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Section 139c no longer contains language referring to “major defense acquisition program”. See [section 2430(a) of this title][/us/usc/t10/s2430/a]. </sup></sup>  of this title), by—
+         monitor the overall communications security, cryptographic modernization, and key management efforts of the Department, including activities under major defense acquisition programs (as defined in [section 2430(a) of this title][/us/usc/t10/s2430/a]), by—
 
             (A) requiring each Chief Information Officer of each military department to report the communications security activities of the military department to the Board;
 
@@ -53,7 +53,11 @@
 
     The Board shall not include the consideration of programs funded under the National Intelligence Program (as defined in section 3(6) of the National Security Act of 1947 ([50 U.S.C. 3003(6)][/us/usc/t50/s3003/6])) in carrying out this section.
 
-(Added [Pub. L. 113–66, div. A, title II, § 261(a)][/us/pl/113/66/s261/a], Dec. 26, 2013, [127 Stat. 724][/us/stat/127/724].)
+(Added [Pub. L. 113–66, div. A, title II, § 261(a)][/us/pl/113/66/s261/a], Dec. 26, 2013, [127 Stat. 724][/us/stat/127/724]; amended [Pub. L. 113–291, div. A, title X, § 1071(f)(4)][/us/pl/113/291/s1071/f/4], Dec. 19, 2014, [128 Stat. 3510][/us/stat/128/3510].)
+
+ __Amendments__ 
+
+    2014—Subsec. (c)(1). [Pub. L. 113–291][/us/pl/113/291] substituted “2430(a)” for “139c” in introductory provisions.
 
 ----------
 
@@ -66,5 +70,8 @@
 [/us/usc/t50/s3003/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3003%2F6
 [/us/pl/113/66/s261/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs261%2Fa
 [/us/stat/127/724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F724
+[/us/pl/113/291/s1071/f/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Ff%2F4
+[/us/stat/128/3510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3510
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 
 

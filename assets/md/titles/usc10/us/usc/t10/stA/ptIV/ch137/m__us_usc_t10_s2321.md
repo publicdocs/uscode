@@ -93,7 +93,7 @@
 
         (1) Except as provided in paragraph (2), in the case of a challenge to a use or release restriction that is asserted with respect to technical data of a contractor or subcontractor under a contract for commercial items, the contracting officer shall presume that the contractor or subcontractor has justified the restriction on the basis that the item was developed exclusively at private expense, whether or not the contractor or subcontractor submits a justification in response to the notice provided pursuant to subsection (d)(3). In such a case, the challenge to the use or release restriction may be sustained only if information provided by the Department of Defense demonstrates that the item was not developed exclusively at private expense.
 
-        (2) In the case of a challenge to a use or release restriction that is asserted with respect to technical data of a contractor or subcontractor (other than technical data for a commercially available off-the-shelf item as defined in section 35(c)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of the Office of Federal Procurement Policy Act ([41 U.S.C. 431(c)][/us/usc/t41/s431/c])) for a major system or a subsystem or component thereof on the basis that the major system, subsystem or component was developed exclusively at private expense, the challenge to the use or release restriction shall be sustained unless information provided by the contractor or subcontractor demonstrates that the item was developed exclusively at private expense.
+        (2) In the case of a challenge to a use or release restriction that is asserted with respect to technical data of a contractor or subcontractor (other than technical data for a commercially available off-the-shelf item as defined in [section 104 of title 41][/us/usc/t41/s104]) for a major system or a subsystem or component thereof on the basis that the major system, subsystem or component was developed exclusively at private expense, the challenge to the use or release restriction shall be sustained unless information provided by the contractor or subcontractor demonstrates that the item was developed exclusively at private expense.
 
     (g)  __Decision by Contracting Officer__  __.—__ 
 
@@ -131,11 +131,7 @@
 
         (2) to release or disclose such technical data to persons outside the Government or permit the use of such technical data by persons outside the Government.
 
-(Added [Pub. L. 98–525, title XII, § 1216(a)][/us/pl/98/525/s1216/a], Oct. 19, 1984, [98 Stat. 2597][/us/stat/98/2597]; amended [Pub. L. 99–500][/us/pl/99/500] § 101(c) \[title X, § 953(b)\], Oct. 18, 1986, [100 Stat. 1783–82][/us/stat/100/1783-82], 1783–171, and [Pub. L. 99–591, § 101(c)][/us/pl/99/591/s101/c] \[title X, § 953(b)\], Oct. 30, 1986, [100 Stat. 3341–82][/us/stat/100/3341-82], 3341–171; [Pub. L. 99–661, div. A, title IX][/us/pl/99/661], formerly title IV, § 953(b), Nov. 14, 1986, [100 Stat. 3951][/us/stat/100/3951], renumbered title IX, [Pub. L. 100–26, § 3(5)][/us/pl/100/26/s3/5], Apr. 21, 1987, [101 Stat. 273][/us/stat/101/273], [Pub. L. 100–26, § 7(a)(5)][/us/pl/100/26/s7/a/5], Apr. 21, 1987, [101 Stat. 276][/us/stat/101/276]; [Pub. L. 100–180, div. A, title XII, § 1231(6)][/us/pl/100/180/s1231/6], Dec. 4, 1987, [101 Stat. 1160][/us/stat/101/1160]; [Pub. L. 103–35, title II, § 201(g)(4)][/us/pl/103/35/s201/g/4], May 31, 1993, [107 Stat. 100][/us/stat/107/100]; [Pub. L. 103–355, title VIII, § 8106(b)][/us/pl/103/355/s8106/b], Oct. 13, 1994, [108 Stat. 3393][/us/stat/108/3393]; [Pub. L. 109–364, div. A, title VIII, § 802(b)][/us/pl/109/364/s802/b], Oct. 17, 2006, [120 Stat. 2313][/us/stat/120/2313]; [Pub. L. 110–181, div. A, title VIII, § 815(a)(2)][/us/pl/110/181/s815/a/2], Jan. 28, 2008, [122 Stat. 223][/us/stat/122/223]; [Pub. L. 111–350, § 5(b)(18)][/us/pl/111/350/s5/b/18], Jan. 4, 2011, [124 Stat. 3844][/us/stat/124/3844]; [Pub. L. 111–383, div. A, title VIII, § 824(c)][/us/pl/111/383/s824/c], Jan. 7, 2011, [124 Stat. 4269][/us/stat/124/4269]; [Pub. L. 112–81, div. A, title VIII, § 815(b)][/us/pl/112/81/s815/b], Dec. 31, 2011, [125 Stat. 1492][/us/stat/125/1492].)
-
- __References in Text__ 
-
-    Section 35(c) of the Office of Federal Procurement Policy Act, referred to in subsec. (f)(2), means [section 35(c) of Pub. L. 93–400][/us/pl/93/400/s35/c], which was classified to section 431(c) of former Title 41, Public Contracts, and was repealed and restated as [section 104 of Title 41][/us/usc/t41/s104], Public Contracts, by [Pub. L. 111–350][/us/pl/111/350], §§ 3, 7(b), Jan. 4, 2011, [124 Stat. 3677][/us/stat/124/3677], 3855.
+(Added [Pub. L. 98–525, title XII, § 1216(a)][/us/pl/98/525/s1216/a], Oct. 19, 1984, [98 Stat. 2597][/us/stat/98/2597]; amended [Pub. L. 99–500][/us/pl/99/500] § 101(c) \[title X, § 953(b)\], Oct. 18, 1986, [100 Stat. 1783–82][/us/stat/100/1783-82], 1783–171, and [Pub. L. 99–591, § 101(c)][/us/pl/99/591/s101/c] \[title X, § 953(b)\], Oct. 30, 1986, [100 Stat. 3341–82][/us/stat/100/3341-82], 3341–171; [Pub. L. 99–661, div. A, title IX][/us/pl/99/661], formerly title IV, § 953(b), Nov. 14, 1986, [100 Stat. 3951][/us/stat/100/3951], renumbered title IX, [Pub. L. 100–26, § 3(5)][/us/pl/100/26/s3/5], Apr. 21, 1987, [101 Stat. 273][/us/stat/101/273], [Pub. L. 100–26, § 7(a)(5)][/us/pl/100/26/s7/a/5], Apr. 21, 1987, [101 Stat. 276][/us/stat/101/276]; [Pub. L. 100–180, div. A, title XII, § 1231(6)][/us/pl/100/180/s1231/6], Dec. 4, 1987, [101 Stat. 1160][/us/stat/101/1160]; [Pub. L. 103–35, title II, § 201(g)(4)][/us/pl/103/35/s201/g/4], May 31, 1993, [107 Stat. 100][/us/stat/107/100]; [Pub. L. 103–355, title VIII, § 8106(b)][/us/pl/103/355/s8106/b], Oct. 13, 1994, [108 Stat. 3393][/us/stat/108/3393]; [Pub. L. 109–364, div. A, title VIII, § 802(b)][/us/pl/109/364/s802/b], Oct. 17, 2006, [120 Stat. 2313][/us/stat/120/2313]; [Pub. L. 110–181, div. A, title VIII, § 815(a)(2)][/us/pl/110/181/s815/a/2], Jan. 28, 2008, [122 Stat. 223][/us/stat/122/223]; [Pub. L. 111–350, § 5(b)(18)][/us/pl/111/350/s5/b/18], Jan. 4, 2011, [124 Stat. 3844][/us/stat/124/3844]; [Pub. L. 111–383, div. A, title VIII, § 824(c)][/us/pl/111/383/s824/c], Jan. 7, 2011, [124 Stat. 4269][/us/stat/124/4269]; [Pub. L. 112–81, div. A, title VIII, § 815(b)][/us/pl/112/81/s815/b], Dec. 31, 2011, [125 Stat. 1492][/us/stat/125/1492]; [Pub. L. 113–291, div. A, title X, § 1071(a)(5)][/us/pl/113/291/s1071/a/5], Dec. 19, 2014, [128 Stat. 3504][/us/stat/128/3504].)
 
  __Codification__ 
 
@@ -144,6 +140,8 @@
     Another [section 2321 of this title][/us/usc/t10/s2321] was contained in chapter 138 and was renumbered [section 2341 of this title][/us/usc/t10/s2341].
 
  __Amendments__ 
+
+    2014—Subsec. (f)(2). [Pub. L. 113–291][/us/pl/113/291] substituted “[section 104 of title 41][/us/usc/t41/s104]” for “section 35(c) of the Office of Federal Procurement Policy Act ([41 U.S.C. 431(c)][/us/usc/t41/s431/c])”.
 
     2011—Subsec. (d)(2)(A). [Pub. L. 112–81, § 815(b)(1)(A)][/us/pl/112/81/s815/b/1/A], substituted “A challenge to a use or release restriction asserted by the contractor in accordance with applicable regulations may not be made under paragraph (1) after the end of the six-year period” for “Except as provided in subparagraph (C), a challenge to an asserted use or release restriction may not be made under paragraph (1) after the end of the three-year period” in introductory provisions.
 
@@ -254,7 +252,7 @@
 ----------
 ----------
 
-[/us/usc/t41/s431/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs431%2Fc
+[/us/usc/t41/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs104
 [/us/usc/t28/s2412/d/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2412%2Fd%2F2%2FA
 [/us/usc/t28/s2412/d/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2412%2Fd%2F2%2FA
 [/us/pl/98/525/s1216/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs1216%2Fa
@@ -285,14 +283,15 @@
 [/us/stat/124/4269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4269
 [/us/pl/112/81/s815/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs815%2Fb
 [/us/stat/125/1492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1492
-[/us/pl/93/400/s35/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F400%2Fs35%2Fc
-[/us/usc/t41/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs104
-[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
-[/us/stat/124/3677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3677
+[/us/pl/113/291/s1071/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Fa%2F5
+[/us/stat/128/3504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3504
 [/us/pl/99/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591
 [/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
 [/us/usc/t10/s2321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2321
 [/us/usc/t10/s2341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2341
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/usc/t41/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs104
+[/us/usc/t41/s431/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs431%2Fc
 [/us/pl/112/81/s815/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs815%2Fb%2F1%2FA
 [/us/pl/111/383/s824/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs824%2Fc%2F1
 [/us/pl/112/81/s815/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs815%2Fb%2F1%2FB

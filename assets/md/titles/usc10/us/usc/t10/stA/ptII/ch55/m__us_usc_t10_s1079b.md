@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stA/ptII/ch55/m__us_usc_t10_s1079a.md) | [Next](./../../../../../..//us/usc/t10/stA/ptII/ch55/m__us_usc_t10_s1080.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1079b)
+[Previous](./../../../../../..//us/usc/t10/stA/ptII/ch55/m__us_usc_t10_s1079a.md) | [Next](./../../../../../..//us/usc/t10/stA/ptII/ch55/m__us_usc_t10_s1079c.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1079b)
 
 ## § 1079b. Procedures for charging fees for care provided to civilians; retention and use of fees collected
 
@@ -37,7 +37,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stA/ptII/ch55/m__us_usc_t10_s1079a.md) | [Next](./../../../../../..//us/usc/t10/stA/ptII/ch55/m__us_usc_t10_s1080.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1079b)
+[Previous](./../../../../../..//us/usc/t10/stA/ptII/ch55/m__us_usc_t10_s1079a.md) | [Next](./../../../../../..//us/usc/t10/stA/ptII/ch55/m__us_usc_t10_s1079c.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1079b)
 
 ----------
 ----------

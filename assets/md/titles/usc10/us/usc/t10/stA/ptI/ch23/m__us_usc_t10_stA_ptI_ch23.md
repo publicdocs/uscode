@@ -41,6 +41,14 @@
 
   <tr>
 
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs481a" data-uslm-ref="/us/usc/t10/s481a">481a.</a>  </td>
+
+    <td> Workplace and gender relations issues: surveys of Department of Defense civilian employees.  </td>
+
+  </tr>
+
+  <tr>
+
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs482" data-uslm-ref="/us/usc/t10/s482">482.</a>  </td>
 
     <td> Quarterly reports: personnel and unit readiness.  </td>
@@ -89,15 +97,7 @@
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs489" data-uslm-ref="/us/usc/t10/s489">489.</a>  </td>
-
-    <td> Annual report on Department of Defense operation and financial support for military museums.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs490" data-uslm-ref="/us/usc/t10/s490">490</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs491" data-uslm-ref="/us/usc/t10/s491">491.</a>  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs489" data-uslm-ref="/us/usc/t10/s489">489</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs491" data-uslm-ref="/us/usc/t10/s491">491.</a>  </td>
 
     <td> Repealed or Renumbered.]  </td>
 
@@ -106,6 +106,8 @@
 </table>
 
  __Amendments__ 
+
+    2014—[Pub. L. 113–291, div. A, title III, § 331(b)][/us/pl/113/291/s331/b], title X, § 1073(a)(2), Dec. 19, 2014, [128 Stat. 3344][/us/stat/128/3344], 3518, added item 481a and struck out item 489 “Annual report on Department of Defense operation and financial support for military museums”.
 
     2013—[Pub. L. 113–66, div. A, title X][/us/pl/113/66], §§ 1042(a)(2), 1072(b)(2), 1084(a)(1)(B), Dec. 26, 2013, [127 Stat. 857][/us/stat/127/857], 869, 871, added item 485, substituted “Management of electromagnetic spectrum” for “Management of electromagnetic spectrum: biennial strategic plan” in item 488, and struck out item 483 “Reports on transfers from high-priority readiness appropriations”.
 
@@ -144,6 +146,8 @@
 ----------
 ----------
 
+[/us/pl/113/291/s331/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs331%2Fb
+[/us/stat/128/3344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3344
 [/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/stat/127/857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F857
 [/us/pl/112/239/s939/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs939%2Fc

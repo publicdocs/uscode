@@ -51,7 +51,43 @@
 
         (4) In the case of a military construction project excluded pursuant to paragraph (3)(C) whose cost will exceed the cost specified in subsection (b) of [section 2805 of this title][/us/usc/t10/s2805] for certain unspecified minor military construction projects, the congressional notification requirements and waiting period specified in paragraph (2) of such subsection shall apply.
 
-(Added [Pub. L. 97–214, § 2(a)][/us/pl/97/214/s2/a], July 12, 1982, [96 Stat. 154][/us/stat/96/154]; amended [Pub. L. 110–181, div. B, title XXVIII, § 2802(a)][/us/pl/110/181/s2802/a], Jan. 28, 2008, [122 Stat. 539][/us/stat/122/539]; [Pub. L. 110–417, div. B, title XXVIII, § 2801(b)][/us/pl/110/417/s2801/b], Oct. 14, 2008, [122 Stat. 4719][/us/stat/122/4719]; [Pub. L. 113–66, div. B, title XXVIII, § 2807(c)][/us/pl/113/66/s2807/c], Dec. 26, 2013, [127 Stat. 1012][/us/stat/127/1012].)
+    (e)
+
+        (1)
+
+         If a construction project, land acquisition, or defense access road project described in paragraph (2) will be carried out pursuant to a provision of law other than a Military Construction Authorization Act, the Secretary concerned shall—
+
+            (A) comply with the congressional notification requirement contained in the provision of law under which the construction project, land acquisition, or defense access road project will be carried out; or
+
+            (B) in the absence of such a congressional notification requirement, submit to the congressional defense committees, in an electronic medium pursuant to [section 480 of this title][/us/usc/t10/s480], a report describing the construction project, land acquisition, or defense access road project at least 15 days before commencing the construction project, land acquisition, or defense access road project.
+
+        (2)
+
+         Except as provided in paragraph (3), a construction project, land acquisition, or defense access road project subject to the notification requirement imposed by paragraph (1) is a construction project, land acquisition, or defense access road project that—
+
+            (A) is not specifically authorized in a Military Construction Authorization Act;
+
+            (B) will be carried out by a military department, Defense Agency, or Department of Defense Field Activity; and
+
+            (C) will be located on a military installation.
+
+        (3) This subsection does not apply to a construction project, land acquisition, or defense access road project described in paragraph (2) whose cost is less than or equal to the threshold amount specified in [section 2805(b) of this title][/us/usc/t10/s2805/b].
+
+(Added [Pub. L. 97–214, § 2(a)][/us/pl/97/214/s2/a], July 12, 1982, [96 Stat. 154][/us/stat/96/154]; amended [Pub. L. 110–181, div. B, title XXVIII, § 2802(a)][/us/pl/110/181/s2802/a], Jan. 28, 2008, [122 Stat. 539][/us/stat/122/539]; [Pub. L. 110–417, div. B, title XXVIII, § 2801(b)][/us/pl/110/417/s2801/b], Oct. 14, 2008, [122 Stat. 4719][/us/stat/122/4719]; [Pub. L. 113–66, div. B, title XXVIII, § 2807(c)][/us/pl/113/66/s2807/c], Dec. 26, 2013, [127 Stat. 1012][/us/stat/127/1012]; [Pub. L. 113–291, div. B, title XXVIII][/us/pl/113/291], §§ 2801, 2803(b), Dec. 19, 2014, [128 Stat. 3695][/us/stat/128/3695], 3697.)
+
+ __Amendment of Subsection (d)__ 
+
+[Pub. L. 113–291, div. B, title XXVIII, § 2803(b)][/us/pl/113/291/s2803/b], (d), Dec. 19, 2014, [128 Stat. 3697][/us/stat/128/3697], provided that, effective on the later of Sept. 30, 2016, or the date of the enactment of an Act authorizing funds for military construction for fiscal year 2017, subsection (d) of this section is amended as follows:
+
+    (1) in paragraph (1), by striking “payment-in-kind contributions” and inserting “payments-in-kind or in-kind contributions”;
+
+    (2) by striking paragraph (3) and inserting the following:
+
+    “(3) This subsection does not apply to a military construction project covered by one of the exceptions in [section 2687a(f)(4) of this title][/us/usc/t10/s2687a/f/4].”; and
+
+    (3) in paragraph (4), by striking “paragraph (3)(C)” and inserting “paragraph (3), by reference to [section 2687a(f)(4)(D) of this title][/us/usc/t10/s2687a/f/4/D],”.
+
+    See 2014 Amendment notes below.
 
  __References in Text__ 
 
@@ -59,11 +95,23 @@
 
  __Amendments__ 
 
+    2014—Subsec. (d)(1). [Pub. L. 113–291, § 2803(b)(1)][/us/pl/113/291/s2803/b/1], substituted “payments-in-kind or in-kind contributions” for “payment-in-kind contributions”.
+
+    Subsec. (d)(3). [Pub. L. 113–291, § 2803(b)(2)][/us/pl/113/291/s2803/b/2], added par. (3) and struck out former par. (3) which described certain military construction projects to which subsec. (d) did not apply.
+
+    Subsec. (d)(4). [Pub. L. 113–291, § 2803(b)(3)][/us/pl/113/291/s2803/b/3], substituted “paragraph (3), by reference to [section 2687a(f)(4)(D) of this title][/us/usc/t10/s2687a/f/4/D],” for “paragraph (3)(C)”.
+
+    Subsec. (e). [Pub. L. 113–291, § 2801][/us/pl/113/291/s2801], added subsec. (e).
+
     2013—Subsec. (d). [Pub. L. 113–66][/us/pl/113/66] added subsec. (d).
 
     2008—Subsec. (a). [Pub. L. 110–181][/us/pl/110/181] inserted “, land acquisitions, and defense access road projects (as described under [section 210 of title 23][/us/usc/t23/s210])” after “military construction projects”.
 
     Subsec. (c). [Pub. L. 110–417][/us/pl/110/417] added subsec. (c).
+
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by [section 2803(b) of Pub. L. 113–291][/us/pl/113/291/s2803/b] effective on the later of Sept. 30, 2016, or the date of the enactment of an Act authorizing funds for military construction for fiscal year 2017, see [section 2803(d) of Pub. L. 113–291][/us/pl/113/291/s2803/d], set out as a note under [section 2687a of this title][/us/usc/t10/s2687a].
 
  __Effective Date__ 
 
@@ -228,6 +276,8 @@
 [/us/usc/t10/s2687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2687
 [/us/usc/t10/s2805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2805
 [/us/usc/t10/s2805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2805
+[/us/usc/t10/s480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs480
+[/us/usc/t10/s2805/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2805%2Fb
 [/us/pl/97/214/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F214%2Fs2%2Fa
 [/us/stat/96/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F154
 [/us/pl/110/181/s2802/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs2802%2Fa
@@ -236,11 +286,25 @@
 [/us/stat/122/4719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4719
 [/us/pl/113/66/s2807/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs2807%2Fc
 [/us/stat/127/1012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1012
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/stat/128/3695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3695
+[/us/pl/113/291/s2803/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs2803%2Fb
+[/us/stat/128/3697]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3697
+[/us/usc/t10/s2687a/f/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2687a%2Ff%2F4
+[/us/usc/t10/s2687a/f/4/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2687a%2Ff%2F4%2FD
 [/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
+[/us/pl/113/291/s2803/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs2803%2Fb%2F1
+[/us/pl/113/291/s2803/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs2803%2Fb%2F2
+[/us/pl/113/291/s2803/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs2803%2Fb%2F3
+[/us/usc/t10/s2687a/f/4/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2687a%2Ff%2F4%2FD
+[/us/pl/113/291/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs2801
 [/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
 [/us/usc/t23/s210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs210
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
+[/us/pl/113/291/s2803/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs2803%2Fb
+[/us/pl/113/291/s2803/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs2803%2Fd
+[/us/usc/t10/s2687a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2687a
 [/us/pl/97/214/s12/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F214%2Fs12%2Fa
 [/us/usc/t10/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2801
 [/us/pl/111/383/s2852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs2852

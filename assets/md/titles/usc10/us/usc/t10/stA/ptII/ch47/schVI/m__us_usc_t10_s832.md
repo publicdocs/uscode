@@ -17,7 +17,7 @@
 
     (a)  __Preliminary Hearing Required__  __.—__ 
 
-        (1) No charge or specification may be referred to a general court-martial for trial until completion of a preliminary hearing.
+        (1) No charge or specification may be referred to a general court-martial for trial until completion of a preliminary hearing, unless such hearing is waived by the accused.
 
         (2)
 
@@ -77,7 +77,7 @@
 
         (2) is named in one of the specifications.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 48][/us/stat/70A/48]; [Pub. L. 97–81, § 4(a)][/us/pl/97/81/s4/a], Nov. 20, 1981, [95 Stat. 1088][/us/stat/95/1088]; [Pub. L. 104–106, div. A, title XI, § 1131][/us/pl/104/106/s1131], Feb. 10, 1996, [110 Stat. 464][/us/stat/110/464]; [Pub. L. 113–66, div. A, title XVII, § 1702(a)(1)][/us/pl/113/66/s1702/a/1], Dec. 26, 2013, [127 Stat. 954][/us/stat/127/954].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 48][/us/stat/70A/48]; [Pub. L. 97–81, § 4(a)][/us/pl/97/81/s4/a], Nov. 20, 1981, [95 Stat. 1088][/us/stat/95/1088]; [Pub. L. 104–106, div. A, title XI, § 1131][/us/pl/104/106/s1131], Feb. 10, 1996, [110 Stat. 464][/us/stat/110/464]; [Pub. L. 113–66, div. A, title XVII, § 1702(a)(1)][/us/pl/113/66/s1702/a/1], Dec. 26, 2013, [127 Stat. 954][/us/stat/127/954]; [Pub. L. 113–291, div. A, title V, § 531(a)(4)(A)][/us/pl/113/291/s531/a/4/A], Dec. 19, 2014, [128 Stat. 3363][/us/stat/128/3363].)
 
 <table>
 
@@ -165,6 +165,8 @@ May 5, 1950, ch. 169, § 1 (Art. 32), 64 Stat. 118.  </td>
 
  __Amendments__ 
 
+    2014—Subsec. (a)(1). [Pub. L. 113–291][/us/pl/113/291] inserted “, unless such hearing is waived by the accused” after “preliminary hearing”.
+
     2013—[Pub. L. 113–66][/us/pl/113/66] substituted “Preliminary hearing” for “Investigation” in section catchline and amended text generally. Prior to amendment, section provided that no charge or specification may be referred to general court-martial for trial until thorough and impartial investigation of all the matters had been made.
 
     1996—Subsecs. (d), (e). [Pub. L. 104–106][/us/pl/104/106] added subsec. (d) and redesignated former subsec. (d) as (e).
@@ -173,7 +175,7 @@ May 5, 1950, ch. 169, § 1 (Art. 32), 64 Stat. 118.  </td>
 
  __Effective Date of 2013 Amendment__ 
 
-    Amendment by [Pub. L. 113–66][/us/pl/113/66] effective one year after Dec. 26, 2013, and applicable with respect to offenses committed under this chapter on or after that effective date, see [section 1702(d)(1) of Pub. L. 113–66][/us/pl/113/66/s1702/d/1], set out as a note under [section 802 of this title][/us/usc/t10/s802].
+    Amendment by [Pub. L. 113–66][/us/pl/113/66] effective on the later of Dec. 26, 2014, or the date of the enactment of the Carl Levin and Howard P. “Buck” McKeon National Defense Authorization Act for Fiscal Year 2015 (Dec. 19, 2014) and applicable with respect to preliminary hearings conducted on or after that effective date, see [section 1702(d)(1) of Pub. L. 113–66][/us/pl/113/66/s1702/d/1], set out as a note under [section 802 of this title][/us/usc/t10/s802].
 
  __Effective Date of 1981 Amendment__ 
 
@@ -197,6 +199,9 @@ May 5, 1950, ch. 169, § 1 (Art. 32), 64 Stat. 118.  </td>
 [/us/stat/110/464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F464
 [/us/pl/113/66/s1702/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1702%2Fa%2F1
 [/us/stat/127/954]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F954
+[/us/pl/113/291/s531/a/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs531%2Fa%2F4%2FA
+[/us/stat/128/3363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3363
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
 [/us/pl/97/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F81

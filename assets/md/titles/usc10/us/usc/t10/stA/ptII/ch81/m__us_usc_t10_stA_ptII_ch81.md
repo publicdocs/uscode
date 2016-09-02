@@ -457,7 +457,7 @@
 
 >         “(7)  __Consideration for senior management, functional, and technical workforce__  __.—__ 
 
->         Any participant in the program who, as determined by the Secretary, demonstrates outstanding performance shall be afforded priority in consideration for selection into the appropriate element of the senior management, functional, and technical workforce of the Department of Defense (as defined in section 115b(f) \[now 115b(g)\] of title 10, United States Code).”
+>         Any participant in the program who, as determined by the Secretary, demonstrates outstanding performance shall be afforded priority in consideration for selection into the appropriate element of the senior management, functional, and technical workforce of the Department of Defense (as defined in [section 115b(f) of title 10][/us/usc/t10/s115b/f], United States Code) \[see [10 U.S.C. 115b(h)][/us/usc/t10/s115b/h]\].”
 
  __Direct Hire Authority at Personnel Demonstration Laboratories for Certain Candidates__ 
 
@@ -619,6 +619,8 @@
 [/us/pl/111/84/s1112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs1112
 [/us/stat/123/2496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2496
 [/us/usc/t5/s4703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs4703
+[/us/usc/t10/s115b/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs115b%2Ff
+[/us/usc/t10/s115b/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs115b%2Fh
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4618
 [/us/pl/111/383/s1101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1101%2Fa

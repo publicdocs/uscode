@@ -39,11 +39,11 @@
 
  __Proof of Concept Commercialization Pilot Program__ 
 
-[Pub. L. 113–66, div. A, title XVI, § 1603][/us/pl/113/66/s1603], Dec. 26, 2013, [127 Stat. 944][/us/stat/127/944], provided that:
+[Pub. L. 113–66, div. A, title XVI, § 1603][/us/pl/113/66/s1603], Dec. 26, 2013, [127 Stat. 944][/us/stat/127/944], as amended by [Pub. L. 113–291, div. A, title VIII, § 818][/us/pl/113/291/s818], Dec. 19, 2014, [128 Stat. 3432][/us/stat/128/3432], provided that:
 
 >     “(a)  __Pilot Program__  __.—__ 
 
->     The Secretary of Defense, acting through the Assistant Secretary of Defense for Research and Engineering, may establish and implement a pilot program, to be known as the ‘Proof of Concept Commercialization Pilot Program’, in accordance with this section.
+>     The Secretary of Defense, acting through the Assistant Secretary of Defense for Research and Engineering and the Secretary of each military department, may establish and implement a pilot program, to be known as the ‘Proof of Concept Commercialization Pilot Program’, in accordance with this section.
 
 >     “(b)  __Purpose__  __.—__ 
 
@@ -69,7 +69,7 @@
 
 >              oversee the use of the funds through—
 
->                 “(i) a rigorous, diverse review board comprised of experts in translational and proof of concept research, including industry, start-up, venture capital, technical, financial, and business experts and university technology transfer officials;
+>                 “(i) rigorous review of commercialization potential or military utility of technologies, including through use of outside expertise;
 
 >                 “(ii) technology validation milestones focused on market feasibility;
 
@@ -103,7 +103,7 @@
 
 >             “(B) __Limitations.—__ 
 
->                 “(i) The amount of an award may not exceed $500,000 a year.
+>                 “(i) The amount of an award may not exceed $1,000,000 a year.
 
 >                 “(ii) Funds from an award may not be used for basic research, or to fund the acquisition of research equipment or supplies unrelated to commercialization activities.
 
@@ -111,7 +111,7 @@
 
 >     Not later than one year after the establishment of the pilot program, the Secretary shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] and to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report evaluating the effectiveness of the activities of the pilot program. The report shall include—
 
->         “(1) a detailed description of the pilot program, including incentives and activities undertaken by review board experts;
+>         “(1) a detailed description of the pilot program;
 
 >         “(2) an accounting of the funds used in the pilot program;
 
@@ -125,13 +125,13 @@
 
 >     In this section, the term ‘qualifying institution’ means a nonprofit institution, as defined in section 4(3) of the Stevenson-Wydler Technology Innovation Act of 1980 ([15 U.S.C. 3703(3)][/us/usc/t15/s3703/3]), or a Federal laboratory, as defined in section 4(4) of the Stevenson-Wydler Technology Innovation Act of 1980 ([15 U.S.C. 3703(4)][/us/usc/t15/s3703/4]).
 
->     “(f)  __Limitation__  __.—__ 
+>     “(f)  __Limitation and Use of Funds__  __.—__ 
 
->     Not more than $5,000,000 may be obligated or expended to conduct the pilot program under this section.
+>     Not more than $5,000,000 may be obligated or expended to conduct the pilot program under this section. The Secretary of a military department may use basic research funds, or other funds considered appropriate by the Secretary, to conduct the pilot program within the military department concerned.
 
 >     “(g)  __Termination__  __.—__ 
 
->     The pilot program conducted under this section shall terminate on September 30, 2018.”
+>     The pilot program conducted under this section shall terminate on September 30, 2019.”
 
  __Defense Research and Development Rapid Innovation Program__ 
 
@@ -188,6 +188,8 @@
 [/us/stat/104/1671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1671
 [/us/pl/113/66/s1603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1603
 [/us/stat/127/944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F944
+[/us/pl/113/291/s818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs818
+[/us/stat/128/3432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3432
 [/us/usc/t15/s3703/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3703%2F3
 [/us/usc/t15/s3703/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3703%2F4
 [/us/pl/111/383/s1073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1073

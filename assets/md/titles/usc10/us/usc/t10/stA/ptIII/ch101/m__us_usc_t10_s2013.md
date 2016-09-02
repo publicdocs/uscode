@@ -17,7 +17,7 @@
 
     (a)  __Authority To Enter Into Agreements__  __.—__ 
 
-        (1) The Secretary concerned, without regard to section 6101(b)–(d) of title 41, may make agreements or other arrangements for the training of members of the uniformed services under the jurisdiction of that Secretary by, in, or through non-Government facilities.
+        (1) The Secretary concerned, without regard to [section 6101 of title 41][/us/usc/t41/s6101], may make agreements or other arrangements for the training of members of the uniformed services under the jurisdiction of that Secretary by, in, or through non-Government facilities.
 
         (2)
 
@@ -61,9 +61,11 @@
 
     The expenses of training do not include membership fees except to the extent that the fee is a necessary cost directly related to the training itself or that payment of the fee is a condition precedent to undergoing the training.
 
-(Added [Pub. L. 104–201, div. A, title III, § 362(a)(1)][/us/pl/104/201/s362/a/1], Sept. 23, 1996, [110 Stat. 2491][/us/stat/110/2491]; amended [Pub. L. 111–350, § 5(b)(2)][/us/pl/111/350/s5/b/2], Jan. 4, 2011, [124 Stat. 3842][/us/stat/124/3842]; [Pub. L. 112–81, div. A, title VI, § 631(f)(4)(A)][/us/pl/112/81/s631/f/4/A], Dec. 31, 2011, [125 Stat. 1465][/us/stat/125/1465]; [Pub. L. 112–239, div. A, title X, § 1076(a)(9)][/us/pl/112/239/s1076/a/9], Jan. 2, 2013, [126 Stat. 1948][/us/stat/126/1948].)
+(Added [Pub. L. 104–201, div. A, title III, § 362(a)(1)][/us/pl/104/201/s362/a/1], Sept. 23, 1996, [110 Stat. 2491][/us/stat/110/2491]; amended [Pub. L. 111–350, § 5(b)(2)][/us/pl/111/350/s5/b/2], Jan. 4, 2011, [124 Stat. 3842][/us/stat/124/3842]; [Pub. L. 112–81, div. A, title VI, § 631(f)(4)(A)][/us/pl/112/81/s631/f/4/A], Dec. 31, 2011, [125 Stat. 1465][/us/stat/125/1465]; [Pub. L. 112–239, div. A, title X, § 1076(a)(9)][/us/pl/112/239/s1076/a/9], Jan. 2, 2013, [126 Stat. 1948][/us/stat/126/1948]; [Pub. L. 113–291, div. A, title X, § 1071(a)(1)][/us/pl/113/291/s1071/a/1], Dec. 19, 2014, [128 Stat. 3504][/us/stat/128/3504].)
 
  __Amendments__ 
+
+    2014—Subsec. (a)(1). [Pub. L. 113–291][/us/pl/113/291] substituted “[section 6101 of title 41][/us/usc/t41/s6101]” for “section 6101(b)–(d) of title 41”.
 
     2013—Subsec. (b)(2)(A), (B). [Pub. L. 112–239, § 1076(a)(9)][/us/pl/112/239/s1076/a/9], made technical amendment to directory language of [Pub. L. 112–81, § 631(f)(4)(A)][/us/pl/112/81/s631/f/4/A]. See 2011 Amendment note below.
 
@@ -88,6 +90,7 @@
 ----------
 ----------
 
+[/us/usc/t41/s6101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs6101
 [/us/usc/t31/s3324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3324
 [/us/pl/104/201/s362/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs362%2Fa%2F1
 [/us/stat/110/2491]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2491
@@ -97,6 +100,10 @@
 [/us/stat/125/1465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1465
 [/us/pl/112/239/s1076/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1076%2Fa%2F9
 [/us/stat/126/1948]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1948
+[/us/pl/113/291/s1071/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Fa%2F1
+[/us/stat/128/3504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3504
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/usc/t41/s6101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs6101
 [/us/pl/112/239/s1076/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1076%2Fa%2F9
 [/us/pl/112/81/s631/f/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs631%2Ff%2F4%2FA
 [/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350

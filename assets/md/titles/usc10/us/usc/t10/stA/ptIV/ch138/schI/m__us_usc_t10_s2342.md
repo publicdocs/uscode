@@ -77,6 +77,84 @@
 
     Amendment by [Pub. L. 103–337][/us/pl/103/337] applicable with regard to any acquisition or transfer of logistic support, supplies, and services under authority of this subchapter that is initiated after Oct. 5, 1994, see [section 1317(j) of Pub. L. 103–337][/us/pl/103/337/s1317/j], set out as a note under [section 2341 of this title][/us/usc/t10/s2341].
 
+ __Cross Servicing Agreements for Loan of Personnel Protection and Personnel Survivability Equipment in Coalition Operations__ 
+
+[Pub. L. 113–291, div. A, title XII, § 1207][/us/pl/113/291/s1207], Dec. 19, 2014, [128 Stat. 3539][/us/stat/128/3539], provided that:
+
+>     “(a)  __In General__  __.—__ 
+
+>     The Secretary of Defense may, with the concurrence of the Secretary of State, enter into an arrangement, under an agreement concluded pursuant to [section 2342 of title 10][/us/usc/t10/s2342], United States Code, under which the United States agrees to loan personnel protection and personnel survivability equipment for the use of such equipment by military forces of a nation participating in the following:
+
+>         “(1) A coalition operation with the United States as part of a contingency operation.
+
+>         “(2) A coalition operation with the United States as part of a peacekeeping operation under the Charter of the United Nations or another international agreement.
+
+>         “(3) Training of such forces in connection with the deployment of such forces to be deployed to an operation described in paragraph (1) or (2).
+
+>     “(b) __Limitations.—__ 
+
+>         “(1)  __Loan only of equipment for which u.s. forces have no unfulfilled requirements__  __.—__ 
+
+>         Equipment may be loaned to the military forces of a nation under the authority of this section only upon a determination by the Secretary of Defense that the United States forces in the coalition operation concerned have no unfulfilled requirements for such equipment.
+
+>         “(2)  __Scope of use of loaned equipment__  __.—__ 
+
+>         Equipment loaned to the military forces of a nation under the authority of this section may be used by those forces only for personnel protection or to aid in the personnel survivability of those forces and only in—
+
+>             “(A) a coalition operation with the United States described in paragraph (1) or (2) of subsection (a); or
+
+>             “(B) training described in paragraph (3) of subsection (a).
+
+>         “(3)  __Duration of use of loaned equipment__  __.—__ 
+
+>         Equipment loaned to the military forces of a nation under the authority of this section may be used by the military forces of that nation not longer than the duration of that country’s participation in the coalition operation concerned.
+
+>         “(4)  __Notice and wait on loan of equipment for training__  __.—__ 
+
+>         Equipment may not be loaned under subsection (a) in connection with training described in paragraph (3) of that subsection until 15 days after the date on which the Secretary of Defense submits to the appropriate committees of Congress written notice on the loan of such equipment for such purpose.
+
+>     “(c) __Waiver of Reimbursement in Case of Loss of Equipment in Combat.—__ 
+
+>         “(1)  __In general__  __.—__ 
+
+>         In the case of equipment loaned under the authority of this section that is damaged or destroyed as a result of combat operations during coalition operations while held by forces to which loaned under this section, the Secretary of Defense may, with respect to such equipment, waive any other requirement under applicable law for—
+
+>             “(A) reimbursement;
+
+>             “(B) replacement-in-kind; or
+
+>             “(C) exchange of supplies or services of an equal value.
+
+>         “(2)  __Basis for waiver__  __.—__ 
+
+>         Any waiver under this subsection may be made only if the Secretary determines that the waiver is in the national security interest of the United States.
+
+>         “(3)  __Waiver on a case-by-case basis__  __.—__ 
+
+>         Any waiver under this subsection may be made only on a case-by-case basis.
+
+>     “(d)  __Reports to Congress__  __.—__ 
+
+>     If the authority provided under this section is exercised during a fiscal year, the Secretary of Defense shall, in coordination with the Secretary of State, submit to the appropriate committees of Congress a report on the exercise of such authority by not later than October 30 of the year in which such fiscal year ends. Each report on the exercise of such authority shall specify the recipient country of the equipment loaned, the type of equipment loaned, and the duration of the loan of such equipment.
+
+>     “(e)  __Definitions__  __.—__ 
+
+>     In this section:
+
+>         “(1)
+
+>          The term ‘appropriate committees of Congress’ means—
+
+>             “(A) the Committee on Armed Services and the Committee on Foreign Relations of the Senate; and
+
+>             “(B) the Committee on Armed Services and the Committee on Foreign Affairs of the House of Representatives.
+
+>         “(2) The term ‘personnel protection and personnel survivability equipment’ means items enumerated in categories I, II, III, VII, X, XI, and XIII of the United States Munitions List under section 38(a)(1) of the Arms Export Control Act ([22 U.S.C. 2778(a)(1)][/us/usc/t22/s2778/a/1]\[)\] that the Secretary of Defense designates as available for loan under this section.
+
+>     “(f)  __Expiration of Authority__  __.—__ 
+
+>     The authority in subsection (a) shall expire on September 30, 2019.”
+
 ----------
 
 [Previous](./../../../../../../..//us/usc/t10/stA/ptIV/ch138/schI/m__us_usc_t10_s2341.md) | [Next](./../../../../../../..//us/usc/t10/stA/ptIV/ch138/schI/m__us_usc_t10_s2343.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2342)
@@ -120,5 +198,9 @@
 [/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/pl/103/337/s1317/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1317%2Fj
 [/us/usc/t10/s2341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2341
+[/us/pl/113/291/s1207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1207
+[/us/stat/128/3539]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3539
+[/us/usc/t10/s2342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2342
+[/us/usc/t22/s2778/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2778%2Fa%2F1
 
 

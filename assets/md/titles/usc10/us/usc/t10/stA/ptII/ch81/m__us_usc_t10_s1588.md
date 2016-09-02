@@ -53,6 +53,8 @@
 
         (9) Voluntary services to facilitate accounting for missing persons.
 
+        (10) Voluntary legal support services provided by law students through internship and externship programs approved by the Secretary concerned.
+
     (b)  __Requirements and Limitations__  __.—__ 
 
         (1) The Secretary concerned shall notify the person of the scope of the services accepted.
@@ -125,9 +127,11 @@
 
         (4) The Secretary of Defense and, with respect to the Coast Guard when it is not operating as a service in the Navy, the Secretary of Homeland Security shall prescribe regulations to carry out this subsection.
 
-(Added [Pub. L. 98–94, title XII, § 1266(a)][/us/pl/98/94/s1266/a], Sept. 24, 1983, [97 Stat. 704][/us/stat/97/704]; amended [Pub. L. 99–145, title XVI, § 1624(a)][/us/pl/99/145/s1624/a], Nov. 8, 1985, [99 Stat. 778][/us/stat/99/778]; [Pub. L. 99–661, div. A, title XIII, § 1355][/us/pl/99/661/s1355], Nov. 14, 1986, [100 Stat. 3996][/us/stat/100/3996]; [Pub. L. 100–26, § 3(9)][/us/pl/100/26/s3/9], Apr. 21, 1987, [101 Stat. 274][/us/stat/101/274]; [Pub. L. 101–189, div. A, title XVI, § 1634][/us/pl/101/189/s1634], Nov. 29, 1989, [103 Stat. 1608][/us/stat/103/1608]; [Pub. L. 102–190, div. A, title III, § 345][/us/pl/102/190/s345], Dec. 5, 1991, [105 Stat. 1346][/us/stat/105/1346]; [Pub. L. 103–337, div. A, title X, § 1061(a)][/us/pl/103/337/s1061/a], Oct. 5, 1994, [108 Stat. 2845][/us/stat/108/2845]; [Pub. L. 104–201, div. A, title X, § 1074(a)(8)][/us/pl/104/201/s1074/a/8], Sept. 23, 1996, [110 Stat. 2659][/us/stat/110/2659]; [Pub. L. 106–65, div. A, title III, § 371(a)][/us/pl/106/65/s371/a], title V, § 578(f), Oct. 5, 1999, [113 Stat. 579][/us/stat/113/579], 627; [Pub. L. 107–107, div. A, title V, § 583][/us/pl/107/107/s583], Dec. 28, 2001, [115 Stat. 1125][/us/stat/115/1125]; [Pub. L. 107–296, title XVII, § 1704(b)(1)][/us/pl/107/296/s1704/b/1], Nov. 25, 2002, [116 Stat. 2314][/us/stat/116/2314]; [Pub. L. 107–314, div. A, title V, § 553][/us/pl/107/314/s553], title X, § 1064(b), Dec. 2, 2002, [116 Stat. 2552][/us/stat/116/2552], 2654; [Pub. L. 108–375, div. A, title V, § 516][/us/pl/108/375/s516], title X, § 1081, Oct. 28, 2004, [118 Stat. 1884][/us/stat/118/1884], 2059; [Pub. L. 110–181, div. A, title X, § 1063(a)(9)][/us/pl/110/181/s1063/a/9], Jan. 28, 2008, [122 Stat. 322][/us/stat/122/322]; [Pub. L. 112–239, div. A, title V, § 587(b)][/us/pl/112/239/s587/b], Jan. 2, 2013, [126 Stat. 1768][/us/stat/126/1768].)
+(Added [Pub. L. 98–94, title XII, § 1266(a)][/us/pl/98/94/s1266/a], Sept. 24, 1983, [97 Stat. 704][/us/stat/97/704]; amended [Pub. L. 99–145, title XVI, § 1624(a)][/us/pl/99/145/s1624/a], Nov. 8, 1985, [99 Stat. 778][/us/stat/99/778]; [Pub. L. 99–661, div. A, title XIII, § 1355][/us/pl/99/661/s1355], Nov. 14, 1986, [100 Stat. 3996][/us/stat/100/3996]; [Pub. L. 100–26, § 3(9)][/us/pl/100/26/s3/9], Apr. 21, 1987, [101 Stat. 274][/us/stat/101/274]; [Pub. L. 101–189, div. A, title XVI, § 1634][/us/pl/101/189/s1634], Nov. 29, 1989, [103 Stat. 1608][/us/stat/103/1608]; [Pub. L. 102–190, div. A, title III, § 345][/us/pl/102/190/s345], Dec. 5, 1991, [105 Stat. 1346][/us/stat/105/1346]; [Pub. L. 103–337, div. A, title X, § 1061(a)][/us/pl/103/337/s1061/a], Oct. 5, 1994, [108 Stat. 2845][/us/stat/108/2845]; [Pub. L. 104–201, div. A, title X, § 1074(a)(8)][/us/pl/104/201/s1074/a/8], Sept. 23, 1996, [110 Stat. 2659][/us/stat/110/2659]; [Pub. L. 106–65, div. A, title III, § 371(a)][/us/pl/106/65/s371/a], title V, § 578(f), Oct. 5, 1999, [113 Stat. 579][/us/stat/113/579], 627; [Pub. L. 107–107, div. A, title V, § 583][/us/pl/107/107/s583], Dec. 28, 2001, [115 Stat. 1125][/us/stat/115/1125]; [Pub. L. 107–296, title XVII, § 1704(b)(1)][/us/pl/107/296/s1704/b/1], Nov. 25, 2002, [116 Stat. 2314][/us/stat/116/2314]; [Pub. L. 107–314, div. A, title V, § 553][/us/pl/107/314/s553], title X, § 1064(b), Dec. 2, 2002, [116 Stat. 2552][/us/stat/116/2552], 2654; [Pub. L. 108–375, div. A, title V, § 516][/us/pl/108/375/s516], title X, § 1081, Oct. 28, 2004, [118 Stat. 1884][/us/stat/118/1884], 2059; [Pub. L. 110–181, div. A, title X, § 1063(a)(9)][/us/pl/110/181/s1063/a/9], Jan. 28, 2008, [122 Stat. 322][/us/stat/122/322]; [Pub. L. 112–239, div. A, title V, § 587(b)][/us/pl/112/239/s587/b], Jan. 2, 2013, [126 Stat. 1768][/us/stat/126/1768]; [Pub. L. 113–291, div. A, title X, § 1043][/us/pl/113/291/s1043], Dec. 19, 2014, [128 Stat. 3493][/us/stat/128/3493].)
 
  __Amendments__ 
+
+    2014—Subsec. (a)(10). [Pub. L. 113–291][/us/pl/113/291] added par. (10).
 
     2013—Subsec. (a)(9). [Pub. L. 112–239][/us/pl/112/239] added par. (9).
 
@@ -244,6 +248,9 @@
 [/us/stat/122/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F322
 [/us/pl/112/239/s587/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs587%2Fb
 [/us/stat/126/1768]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1768
+[/us/pl/113/291/s1043]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1043
+[/us/stat/128/3493]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3493
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
 [/us/stat/41/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F525

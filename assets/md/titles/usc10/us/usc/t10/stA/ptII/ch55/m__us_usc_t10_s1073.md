@@ -171,7 +171,7 @@ June 7, 1956, ch. 374, § 102(b), 70 Stat. 251.  </td>
 
  __Surveys on Continued Viability of TRICARE Standard and TRICARE Extra__ 
 
-[Pub. L. 110–181, div. A, title VII, § 711][/us/pl/110/181/s711], Jan. 28, 2008, [122 Stat. 190][/us/stat/122/190], as amended by [Pub. L. 112–81, div. A, title VII, § 721][/us/pl/112/81/s721], Dec. 31, 2011, [125 Stat. 1478][/us/stat/125/1478], provided that:
+[Pub. L. 110–181, div. A, title VII, § 711][/us/pl/110/181/s711], Jan. 28, 2008, [122 Stat. 190][/us/stat/122/190], as amended by [Pub. L. 112–81, div. A, title VII, § 721][/us/pl/112/81/s721], Dec. 31, 2011, [125 Stat. 1478][/us/stat/125/1478]; [Pub. L. 113–291, div. A, title VII, § 712][/us/pl/113/291/s712], Dec. 19, 2014, [128 Stat. 3414][/us/stat/128/3414], provided that:
 
 >     “(a) __Requirement for Surveys.—__ 
 
@@ -243,7 +243,7 @@ June 7, 1956, ch. 374, § 102(b), 70 Stat. 251.  </td>
 
 >         “(2)  __Reports__  __.—__ 
 
->         The Comptroller General shall submit to the Committees on Armed Services of the Senate and the House of Representatives on a biennial basis a report on the results of the review under paragraph (1). Each report shall include the following:
+>         The Comptroller General shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on the results of the review under paragraph (1) during 2017 and 2020. Each report shall include the following:
 
 >             “(A) An analysis of the adequacy of the surveys under subsection (a).
 
@@ -575,11 +575,11 @@ June 7, 1956, ch. 374, § 102(b), 70 Stat. 251.  </td>
 
     [Pub. L. 107–107, div. A, title VII, § 735(e)][/us/pl/107/107/s735/e], Dec. 28, 2001, [115 Stat. 1172][/us/stat/115/1172], directed the Secretary of Defense to submit to committees of Congress, not later than Mar. 1, 2002, a report on the Secretary’s plans for implementing [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title VII, § 721\], as amended, set out below.
 
-[Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title VII, § 721\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–184, as amended by [Pub. L. 107–107, div. A, title VII, § 735(a)][/us/pl/107/107/s735/a]–(d), Dec. 28, 2001, [115 Stat. 1171][/us/stat/115/1171], 1172, provided that:
+[Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title VII, § 721\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–184, as amended by [Pub. L. 107–107, div. A, title VII, § 735(a)][/us/pl/107/107/s735/a]–(d), Dec. 28, 2001, [115 Stat. 1171][/us/stat/115/1171], 1172; [Pub. L. 113–291, div. A, title VII, § 703(b)][/us/pl/113/291/s703/b], Dec. 19, 2014, [128 Stat. 3411][/us/stat/128/3411], provided that:
 
 >     “(a)  __Waiver of Nonavailability Statement or Preauthorization__  __.—__ 
 
->     In the case of a covered beneficiary under TRICARE Standard pursuant to chapter 55 of title 10, United States Code, the Secretary of Defense may not require with regard to authorized health care services (other than mental health services) under such chapter that the beneficiary—
+>     In the case of a covered beneficiary under TRICARE Standard pursuant to chapter 55 of title 10, United States Code, the Secretary of Defense may not require with regard to authorized health care services under such chapter that the beneficiary—
 
 >         “(1) obtain a nonavailability statement or preauthorization from a military medical treatment facility in order to receive the services from a civilian provider; or
 
@@ -853,7 +853,7 @@ June 7, 1956, ch. 374, § 102(b), 70 Stat. 251.  </td>
 
  __Inclusion of Certain Designated Providers in Uniformed Services Health Care Delivery System__ 
 
-[Pub. L. 104–201, div. A, title VII][/us/pl/104/201], subtitle C, Sept. 23, 1996, [110 Stat. 2592][/us/stat/110/2592], as amended by [Pub. L. 104–208, div. A, title I, § 101(b)][/us/pl/104/208/s101/b] \[title VIII, § 8131(a)\], Sept. 30, 1996, [110 Stat. 3009–71][/us/stat/110/3009-71], 3009–117; [Pub. L. 105–85, div. A, title VII][/us/pl/105/85], §§ 721–723, Nov. 18, 1997, [111 Stat. 1809][/us/stat/111/1809], 1810; [Pub. L. 106–65, div. A, title VII, § 707][/us/pl/106/65/s707], Oct. 5, 1999, [113 Stat. 684][/us/stat/113/684]; [Pub. L. 107–296, title XVII, § 1704(e)(2)][/us/pl/107/296/s1704/e/2], Nov. 25, 2002, [116 Stat. 2315][/us/stat/116/2315]; [Pub. L. 108–136, div. A, title VII, § 714][/us/pl/108/136/s714], Nov. 24, 2003, [117 Stat. 1531][/us/stat/117/1531]; [Pub. L. 108–199, div. H, § 109][/us/pl/108/199/s109], Jan. 23, 2004, [118 Stat. 438][/us/stat/118/438]; [Pub. L. 112–81, div. A, title VII, § 708][/us/pl/112/81/s708], Dec. 31, 2011, [125 Stat. 1474][/us/stat/125/1474], provided that:
+[Pub. L. 104–201, div. A, title VII][/us/pl/104/201], subtitle C, Sept. 23, 1996, [110 Stat. 2592][/us/stat/110/2592], as amended by [Pub. L. 104–208, div. A, title I, § 101(b)][/us/pl/104/208/s101/b] \[title VIII, § 8131(a)\], Sept. 30, 1996, [110 Stat. 3009–71][/us/stat/110/3009-71], 3009–117; [Pub. L. 105–85, div. A, title VII][/us/pl/105/85], §§ 721–723, Nov. 18, 1997, [111 Stat. 1809][/us/stat/111/1809], 1810; [Pub. L. 106–65, div. A, title VII, § 707][/us/pl/106/65/s707], Oct. 5, 1999, [113 Stat. 684][/us/stat/113/684]; [Pub. L. 107–296, title XVII, § 1704(e)(2)][/us/pl/107/296/s1704/e/2], Nov. 25, 2002, [116 Stat. 2315][/us/stat/116/2315]; [Pub. L. 108–136, div. A, title VII, § 714][/us/pl/108/136/s714], Nov. 24, 2003, [117 Stat. 1531][/us/stat/117/1531]; [Pub. L. 108–199, div. H, § 109][/us/pl/108/199/s109], Jan. 23, 2004, [118 Stat. 438][/us/stat/118/438]; [Pub. L. 112–81, div. A, title VII, § 708][/us/pl/112/81/s708], Dec. 31, 2011, [125 Stat. 1474][/us/stat/125/1474]; [Pub. L. 113–291, div. A, title X, § 1071(b)(11)][/us/pl/113/291/s1071/b/11], Dec. 19, 2014, [128 Stat. 3507][/us/stat/128/3507], provided that:
 
 > “SEC. 721. __DEFINITIONS.__ 
 
@@ -887,7 +887,7 @@ June 7, 1956, ch. 374, § 102(b), 70 Stat. 251.  </td>
 
 >         (1) After consultation with the other administering Secretaries, the Secretary of Defense shall negotiate and enter into an agreement with each designated provider under which the designated provider will provide health care services in or through managed care plans to covered beneficiaries who enroll with the designated provider.
 
->         “(2) The agreement shall be entered into on a sole source basis. The Federal Acquisition Regulation, except for those requirements regarding competition, issued pursuant to section 25(c) of the Office of Federal Procurement Policy Act (\[former\] [41 U.S.C. 421(c)][/us/usc/t41/s421/c]) \[now [41 U.S.C. 1303(a)][/us/usc/t41/s1303/a]\] shall apply to the agreements as acquisitions of commercial items.
+>         “(2) The agreement shall be entered into on a sole source basis. The Federal Acquisition Regulation, except for those requirements regarding competition, issued pursuant to [section 1303(a) of title 41][/us/usc/t41/s1303/a], United States Code shall apply to the agreements as acquisitions of commercial items.
 
 >         “(3) The implementation of an agreement is subject to availability of funds for such purpose.
 
@@ -1510,6 +1510,8 @@ June 7, 1956, ch. 374, § 102(b), 70 Stat. 251.  </td>
 [/us/stat/122/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F190
 [/us/pl/112/81/s721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs721
 [/us/stat/125/1478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1478
+[/us/pl/113/291/s712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs712
+[/us/stat/128/3414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3414
 [/us/usc/t10/s1073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1073
 [/us/usc/t10/s1072/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1072%2F4
 [/us/usc/t10/s1076d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1076d
@@ -1556,6 +1558,8 @@ June 7, 1956, ch. 374, § 102(b), 70 Stat. 251.  </td>
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
 [/us/pl/107/107/s735/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs735%2Fa
 [/us/stat/115/1171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1171
+[/us/pl/113/291/s703/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs703%2Fb
+[/us/stat/128/3411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3411
 [/us/pl/106/65/s712/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs712%2Fa
 [/us/stat/113/687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F687
 [/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
@@ -1611,9 +1615,10 @@ June 7, 1956, ch. 374, § 102(b), 70 Stat. 251.  </td>
 [/us/stat/118/438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F438
 [/us/pl/112/81/s708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs708
 [/us/stat/125/1474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1474
+[/us/pl/113/291/s1071/b/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Fb%2F11
+[/us/stat/128/3507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3507
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/usc/t42/s248b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs248b
-[/us/usc/t41/s421/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs421%2Fc
 [/us/usc/t41/s1303/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs1303%2Fa
 [/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
 [/us/usc/t42/s248c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs248c

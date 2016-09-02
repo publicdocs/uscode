@@ -89,9 +89,9 @@
 
  __Relationship to Authorities Under National Security Act of 1947__ 
 
-[Pub. L. 107–314, div. A, title IX, § 901(d)][/us/pl/107/314/s901/d], Dec. 2, 2002, [116 Stat. 2620][/us/stat/116/2620], provided that: 
+[Pub. L. 107–314, div. A, title IX, § 901(d)][/us/pl/107/314/s901/d], Dec. 2, 2002, [116 Stat. 2620][/us/stat/116/2620], as amended by [Pub. L. 113–291, div. A, title X, § 1071(d)(2)][/us/pl/113/291/s1071/d/2], Dec. 19, 2014, [128 Stat. 3509][/us/stat/128/3509], provided that: 
 
-> “Nothing in [section 137 of title 10][/us/usc/t10/s137], United States Code, as added by subsection (a), shall supersede or modify the authorities of the Secretary of Defense and the Director of Central Intelligence as established by the National Security Act of 1947 ([50 U.S.C. 401][/us/usc/t50/s401] et seq.) \[now [50 U.S.C. 3001][/us/usc/t50/s3001] et seq.\].”
+> “Nothing in [section 137 of title 10][/us/usc/t10/s137], United States Code, as added by subsection (a), shall supersede or modify the authorities of the Secretary of Defense and the Director of Central Intelligence as established by the National Security Act of 1947 ([50 U.S.C. 3001][/us/usc/t50/s3001] et seq.).”
 
     \[Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director’s capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director’s capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of [Pub. L. 108–458][/us/pl/108/458], set out as a note under [section 3001 of Title 50][/us/usc/t50/s3001], War and National Defense.\]
 
@@ -111,8 +111,9 @@
 [/us/stat/125/1540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1540
 [/us/pl/107/314/s901/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs901%2Fd
 [/us/stat/116/2620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2620
+[/us/pl/113/291/s1071/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Fd%2F2
+[/us/stat/128/3509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3509
 [/us/usc/t10/s137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs137
-[/us/usc/t50/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs401
 [/us/usc/t50/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3001
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
 [/us/usc/t50/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3001

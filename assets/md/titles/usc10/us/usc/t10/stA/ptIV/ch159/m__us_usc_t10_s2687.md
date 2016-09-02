@@ -203,6 +203,44 @@
 
  __Support for Realignment of Military Installations and Relocation of Military Personnel on Guam__ 
 
+[Pub. L. 113–291, div. B, title XXVIII, § 2821][/us/pl/113/291/s2821], Dec. 19, 2014, [128 Stat. 3701][/us/stat/128/3701], provided that:
+
+>     “(a) __Limitation Based on Cost Estimates.—__ 
+
+>         “(1)  __Limitation amount__  __.—__ 
+
+>         Pursuant to the Supplemental Environmental Impact Statement for the ‘Guam and Commonwealth of the Northern Mariana Islands Military Relocation (2012 Roadmap Adjustments)’, the total amount obligated or expended from funds appropriated or otherwise made available for military construction for implementation of the Record of Decision for the relocation of Marine Corps forces to Guam associated with such Supplemental Environmental Impact Statement may not exceed $8,725,000,000, subject to such adjustment as may be made under paragraph (2).
+
+>         “(2)  __Adjustment of limitation amount__  __.—__ 
+
+>         The Secretary of the Navy may adjust the amount specified in paragraph (1) by the following:
+
+>             “(A) The amounts of increases or decreases in costs attributable to economic inflation after September 30, 2014.
+
+>             “(B) The amounts of increases or decreases in costs attributable to compliance with changes in Federal, Guam or Commonwealth of the Northern Mariana Islands, or local laws enacted after September 30, 2014.
+
+>         “(3)  __Written notice of adjustment__  __.—__ 
+
+>         At the same time that the budget for a fiscal year is submitted to Congress under [section 1105(a) of title 31][/us/usc/t31/s1105/a], United States Code, the Secretary of the Navy shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] written notice of any adjustment to the amount specified in paragraph (1) made by the Secretary during the preceding fiscal year pursuant to the authority provided by paragraph (2).
+
+>     “(b) __Restriction on Development of Public Infrastructure.—__ 
+
+>         “(1)  __Restriction__  __.—__ 
+
+>         If the Secretary of Defense determines that any grant, cooperative agreement, transfer of funds to another Federal agency, or supplement of funds available under Federal programs administered by agencies other than the Department of Defense will result in the development (including repair, replacement, renovation, conversion, improvement, expansion, acquisition, or construction) of public infrastructure on Guam, the Secretary of Defense may not carry out such grant, transfer, cooperative agreement, or supplemental funding unless such grant, transfer, cooperative agreement, or supplemental funding—
+
+>             “(A) is specifically authorized by law; and
+
+>             “(B) will be used to carry out a public infrastructure project included in the report prepared by the Secretary of Defense under section 2822(d)(2) of the Military Construction Authorization Act for Fiscal Year 2014 (division B of [Public Law 113–66][/us/pl/113/66]; [127 Stat. 1017][/us/stat/127/1017]), as in effect on the day before the date of the enactment of this Act \[Dec. 19, 2014\].
+
+>         “(2)  __Public infrastructure defined__  __.—__ 
+
+>         In this subsection, the term ‘public infrastructure’ means any utility, method of transportation, item of equipment, or facility under the control of a public entity or State or local government that is used by, or constructed for the benefit of, the general public.
+
+>     “(c)  __Repeal of Superseded Law__  __.—__ 
+
+>     Section 2822 of the Military Construction Authorization Act for Fiscal Year 2014 (division B of [Public Law 113–66][/us/pl/113/66]; [127 Stat. 1016][/us/stat/127/1016]) is repealed. The repeal of such section does not affect the validity of the amendment made by subsection (f) of such section or the responsibilities of the Economic Adjustment Committee and the Secretary of Defense under subsection (d) of such section, as in effect on the day before the date of the enactment of this Act.”
+
 [Pub. L. 112–81, div. B, title XXVIII, § 2841][/us/pl/112/81/s2841], Dec. 31, 2011, [125 Stat. 1696][/us/stat/125/1696], provided that:
 
 >     “(a)  __Management of Workforce Health Care__  __.—__ 
@@ -1083,7 +1121,7 @@
 
  __Defense Base Closure and Realignment Commission__ 
 
-[Pub. L. 101–510, div. B, title XXIX][/us/pl/101/510], part A, Nov. 5, 1990, [104 Stat. 1808][/us/stat/104/1808], as amended by [Pub. L. 102–190, div. A, title III, § 344(b)(1)][/us/pl/102/190/s344/b/1], div. B, title XXVIII, §§ 2821(a)–(h)(1), 2827(a)(1), (2), Dec. 5, 1991, [105 Stat. 1345][/us/stat/105/1345], 1544–1546, 1551; [Pub. L. 102–484, div. A, title X, § 1054(b)][/us/pl/102/484/s1054/b], div. B, title XXVIII, §§ 2821(b), 2823, Oct. 23, 1992, [106 Stat. 2502][/us/stat/106/2502], 2607, 2608; [Pub. L. 103–160, div. B, title XXIX][/us/pl/103/160], §§ 2902(b), 2903(b), 2904(b), 2905(b), 2907(b), 2908(b), 2918(c), 2921(b), (c), 2923, 2926, 2930(a), Nov. 30, 1993, [107 Stat. 1911][/us/stat/107/1911], 1914, 1916, 1918, 1921, 1923, 1928–1930, 1932, 1935; [Pub. L. 103–337, div. A, title X, § 1070(b)(15)][/us/pl/103/337/s1070/b/15], (d)(2), div. B, title XXVIII, §§ 2811, 2812(b), 2813(c)(2), (d)(2), (e)(2), Oct. 5, 1994, [108 Stat. 2857][/us/stat/108/2857], 2858, 3053–3056; [Pub. L. 103–421, § 2(a)][/us/pl/103/421/s2/a]–(c), (f)(2), Oct. 25, 1994, [108 Stat. 4346–4352][/us/stat/108/4346-4352], 4354; [Pub. L. 104–106, div. A, title XV][/us/pl/104/106], §§ 1502(d), 1504(a)(9), 1505(e)(1), div. B, title XXVIII, §§ 2831(b)(2), 2835, 2836, 2837(a), 2838, 2839(b), 2840(b), Feb. 10, 1996, [110 Stat. 508][/us/stat/110/508], 513, 514, 558, 560, 561, 564, 565; [Pub. L. 104–201, div. B, title XXVIII][/us/pl/104/201], §§ 2812(b), 2813(b), Sept. 23, 1996, [110 Stat. 2789][/us/stat/110/2789]; [Pub. L. 105–85, div. A, title X, § 1073(d)(4)(B)][/us/pl/105/85/s1073/d/4/B], div. B, title XXVIII, § 2821(b), Nov. 18, 1997, [111 Stat. 1905][/us/stat/111/1905], 1997; [Pub. L. 106–65, div. A, title X, § 1067(10)][/us/pl/106/65/s1067/10], div. B, title XVIII, §§ 2821(a), 2822, Oct. 5, 1999, [113 Stat. 774][/us/stat/113/774], 853, 856; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title X, § 1087(g)(2), div. B, title XXVIII, § 2821(a)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–293, 1654A–419; [Pub. L. 107–107, div. A, title X, § 1048(d)(2)][/us/pl/107/107/s1048/d/2], div. B, title XXVIII, § 2821(b), title XXX, §§ 3001–3007, Dec. 28, 2001, [115 Stat. 1227][/us/stat/115/1227], 1312, 1342–1351; [Pub. L. 107–314, div. A, title X, § 1062(f)(4)][/us/pl/107/314/s1062/f/4], (m)(1)–(3), div. B, title XXVIII, §§ 2814(b), 2854, Dec. 2, 2002, [116 Stat. 2651][/us/stat/116/2651], 2652, 2710, 2728; [Pub. L. 108–136, div. A, title VI, § 655(b)][/us/pl/108/136/s655/b], div. B, title XXVIII, §§ 2805(d)(2), 2821, Nov. 24, 2003, [117 Stat. 1523][/us/stat/117/1523], 1721, 1726; [Pub. L. 108–375, div. A, title X, § 1084(i)][/us/pl/108/375/s1084/i], div. B, title XXVIII, §§ 2831–2834, Oct. 28, 2004, [118 Stat. 2064][/us/stat/118/2064], 2132–2134; [Pub. L. 109–163, div. B, title XXVIII, § 2831][/us/pl/109/163/s2831], Jan. 6, 2006, [119 Stat. 3518][/us/stat/119/3518]; [Pub. L. 110–181, div. B, title XXVII, § 2704(a)][/us/pl/110/181/s2704/a], Jan. 28, 2008, [122 Stat. 532][/us/stat/122/532]; [Pub. L. 110–417, div. B, title XXVII][/us/pl/110/417], §§ 2711, 2712(a)(1)(A), (b), Oct. 14, 2008, [122 Stat. 4715][/us/stat/122/4715], 4716; [Pub. L. 111–84, div. B, title XXVII, § 2715(a)][/us/pl/111/84/s2715/a], Oct. 28, 2009, [123 Stat. 2658][/us/stat/123/2658]; [Pub. L. 112–239, div. B, title XXVII, § 2711(a)][/us/pl/112/239/s2711/a], (c)(2), (3)(A), Jan. 2, 2013, [126 Stat. 2140][/us/stat/126/2140], 2143, provided that:
+[Pub. L. 101–510, div. B, title XXIX][/us/pl/101/510], part A, Nov. 5, 1990, [104 Stat. 1808][/us/stat/104/1808], as amended by [Pub. L. 102–190, div. A, title III, § 344(b)(1)][/us/pl/102/190/s344/b/1], div. B, title XXVIII, §§ 2821(a)–(h)(1), 2827(a)(1), (2), Dec. 5, 1991, [105 Stat. 1345][/us/stat/105/1345], 1544–1546, 1551; [Pub. L. 102–484, div. A, title X, § 1054(b)][/us/pl/102/484/s1054/b], div. B, title XXVIII, §§ 2821(b), 2823, Oct. 23, 1992, [106 Stat. 2502][/us/stat/106/2502], 2607, 2608; [Pub. L. 103–160, div. B, title XXIX][/us/pl/103/160], §§ 2902(b), 2903(b), 2904(b), 2905(b), 2907(b), 2908(b), 2918(c), 2921(b), (c), 2923, 2926, 2930(a), Nov. 30, 1993, [107 Stat. 1911][/us/stat/107/1911], 1914, 1916, 1918, 1921, 1923, 1928–1930, 1932, 1935; [Pub. L. 103–337, div. A, title X, § 1070(b)(15)][/us/pl/103/337/s1070/b/15], (d)(2), div. B, title XXVIII, §§ 2811, 2812(b), 2813(c)(2), (d)(2), (e)(2), Oct. 5, 1994, [108 Stat. 2857][/us/stat/108/2857], 2858, 3053–3056; [Pub. L. 103–421, § 2(a)][/us/pl/103/421/s2/a]–(c), (f)(2), Oct. 25, 1994, [108 Stat. 4346–4352][/us/stat/108/4346-4352], 4354; [Pub. L. 104–106, div. A, title XV][/us/pl/104/106], §§ 1502(d), 1504(a)(9), 1505(e)(1), div. B, title XXVIII, §§ 2831(b)(2), 2835, 2836, 2837(a), 2838, 2839(b), 2840(b), Feb. 10, 1996, [110 Stat. 508][/us/stat/110/508], 513, 514, 558, 560, 561, 564, 565; [Pub. L. 104–201, div. B, title XXVIII][/us/pl/104/201], §§ 2812(b), 2813(b), Sept. 23, 1996, [110 Stat. 2789][/us/stat/110/2789]; [Pub. L. 105–85, div. A, title X, § 1073(d)(4)(B)][/us/pl/105/85/s1073/d/4/B], div. B, title XXVIII, § 2821(b), Nov. 18, 1997, [111 Stat. 1905][/us/stat/111/1905], 1997; [Pub. L. 106–65, div. A, title X, § 1067(10)][/us/pl/106/65/s1067/10], div. B, title XVIII, §§ 2821(a), 2822, Oct. 5, 1999, [113 Stat. 774][/us/stat/113/774], 853, 856; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title X, § 1087(g)(2), div. B, title XXVIII, § 2821(a)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–293, 1654A–419; [Pub. L. 107–107, div. A, title X, § 1048(d)(2)][/us/pl/107/107/s1048/d/2], div. B, title XXVIII, § 2821(b), title XXX, §§ 3001–3007, Dec. 28, 2001, [115 Stat. 1227][/us/stat/115/1227], 1312, 1342–1351; [Pub. L. 107–314, div. A, title X, § 1062(f)(4)][/us/pl/107/314/s1062/f/4], (m)(1)–(3), div. B, title XXVIII, §§ 2814(b), 2854, Dec. 2, 2002, [116 Stat. 2651][/us/stat/116/2651], 2652, 2710, 2728; [Pub. L. 108–136, div. A, title VI, § 655(b)][/us/pl/108/136/s655/b], div. B, title XXVIII, §§ 2805(d)(2), 2821, Nov. 24, 2003, [117 Stat. 1523][/us/stat/117/1523], 1721, 1726; [Pub. L. 108–375, div. A, title X, § 1084(i)][/us/pl/108/375/s1084/i], div. B, title XXVIII, §§ 2831–2834, Oct. 28, 2004, [118 Stat. 2064][/us/stat/118/2064], 2132–2134; [Pub. L. 109–163, div. B, title XXVIII, § 2831][/us/pl/109/163/s2831], Jan. 6, 2006, [119 Stat. 3518][/us/stat/119/3518]; [Pub. L. 110–181, div. B, title XXVII, § 2704(a)][/us/pl/110/181/s2704/a], Jan. 28, 2008, [122 Stat. 532][/us/stat/122/532]; [Pub. L. 110–417, div. B, title XXVII][/us/pl/110/417], §§ 2711, 2712(a)(1)(A), (b), Oct. 14, 2008, [122 Stat. 4715][/us/stat/122/4715], 4716; [Pub. L. 111–84, div. B, title XXVII, § 2715(a)][/us/pl/111/84/s2715/a], Oct. 28, 2009, [123 Stat. 2658][/us/stat/123/2658]; [Pub. L. 112–239, div. B, title XXVII, § 2711(a)][/us/pl/112/239/s2711/a], (c)(2), (3)(A), Jan. 2, 2013, [126 Stat. 2140][/us/stat/126/2140], 2143; [Pub. L. 113–291, div. B, title XXVII, § 2721][/us/pl/113/291/s2721], Dec. 19, 2014, [128 Stat. 3693][/us/stat/128/3693], provided that:
 
 > “SEC. 2901. __SHORT TITLE AND PURPOSE__ 
 
@@ -2001,7 +2039,21 @@
 
 >         “(6) Section 330 of the National Defense Authorization Act for Fiscal Year 1993 ([Public Law 102–484][/us/pl/102/484]; [10 U.S.C. 2687][/us/usc/t10/s2687] note) shall not apply to any transfer under this subsection to persons or entities described in subsection (a)(2) of such section 330, except in the case of releases or threatened releases not disclosed pursuant to paragraph (4).
 
->     “\[(f) Repealed. [Pub. L. 108–136, div. B, title XXVIII, § 2805(d)(2)][/us/pl/108/136/s2805/d/2], Nov. 24, 2003, [117 Stat. 1721][/us/stat/117/1721].\]
+>     “(f)  __Report on Designation of Property as Excess Instead of Surplus__  __.—__ 
+
+>         (1) Not later than 180 days after the date on which real property located at a military installation closed or realigned under this part is declared excess, but not surplus, the Secretary of Defense shall submit to the congressional defense committees a report identifying the property and including the information required by paragraph (2). The Secretary shall update the report every 180 days thereafter until the property is either declared surplus or transferred to another Federal agency.
+
+>         “(2)
+
+>          Each report under paragraph (1) shall include the following elements:
+
+>             “(A) The reason for the excess designation.
+
+>             “(B) The nature of the contemplated transfer.
+
+>             “(C) The proposed timeline for the transfer.
+
+>             “(D) Any impediments to completing the Federal agency screening process.
 
 >     “(g)  __Acquisition of Manufactured Housing__  __.—__ 
 
@@ -2207,7 +2259,13 @@
 
     “(8) The term ‘date of approval’, with respect to a closure or realignment of an installation, means the date on which the authority of Congress to disapprove a recommendation of closure or realignment, as the case may be, of such installation under this part expires.
 
-    “(9) The term ‘redevelopment authority’, in the case of an installation to be closed or realigned under this part, means any entity (including an entity established by a State or local government) recognized by the Secretary of Defense as the entity responsible for developing the redevelopment plan with respect to the installation or for directing the implementation of such plan.
+    “(9)(A) The term ‘redevelopment authority’, in the case of an installation to be closed or realigned under this part, means any entity (including an entity established by a State or local government) recognized by the Secretary of Defense as the entity responsible for developing the redevelopment plan with respect to the installation or for directing the implementation of such plan.
+
+    “(B) If no redevelopment authority referred to in subparagraph (A) exists with respect to a military installation, the term shall include the following:
+
+    “(i) The local government in whose jurisdiction the military installation is wholly located.
+
+    “(ii) A local government agency or State government agency designated by the chief executive officer of the State in which the military installation is located under subparagraph (B) of section 2905(b)(3) for the purpose of the consultation required by subparagraph (A) of such section.
 
     “(10) The term ‘redevelopment plan’ in the case of an installation to be closed or realigned under this part, means a plan that—
 
@@ -3283,6 +3341,13 @@ Similar provisions for specified fiscal years were contained in the following ap
 [/us/usc/t10/s2687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2687
 [/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
 [/us/usc/t10/s2687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2687
+[/us/pl/113/291/s2821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs2821
+[/us/stat/128/3701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3701
+[/us/usc/t31/s1105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105%2Fa
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
+[/us/stat/127/1017]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1017
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
+[/us/stat/127/1016]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1016
 [/us/pl/112/81/s2841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs2841
 [/us/stat/125/1696]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1696
 [/us/usc/t8/s1101/a/15/H/ii/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101%2Fa%2F15%2FH%2Fii%2Fb
@@ -3524,6 +3589,8 @@ Similar provisions for specified fiscal years were contained in the following ap
 [/us/stat/123/2658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2658
 [/us/pl/112/239/s2711/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs2711%2Fa
 [/us/stat/126/2140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2140
+[/us/pl/113/291/s2721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs2721
+[/us/stat/128/3693]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3693
 [/us/usc/t5/s5315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5315
 [/us/usc/t5/s5314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5314
 [/us/usc/t5/s5311/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5311%2Fb
@@ -3553,8 +3620,6 @@ Similar provisions for specified fiscal years were contained in the following ap
 [/us/usc/t42/s6901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6901
 [/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
 [/us/usc/t10/s2687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2687
-[/us/pl/108/136/s2805/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs2805%2Fd%2F2
-[/us/stat/117/1721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1721
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/usc/t10/s2701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2701
 [/us/usc/t31/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105

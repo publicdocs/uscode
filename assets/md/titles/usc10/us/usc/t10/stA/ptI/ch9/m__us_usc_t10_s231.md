@@ -25,7 +25,7 @@
 
     (b)  __Annual Naval Vessel Construction Plan__  __.—__ 
 
-        (1) The annual naval vessel construction plan developed for a fiscal year for purposes of subsection (a)(1) shall be designed so that the naval vessel force provided for under that plan supports the national security strategy of the United States as set forth in the most recent national security strategy report of the President under section 108 of the National Security Act of 1947 ([50 U.S.C. 404a][/us/usc/t50/s404a]), <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  except that, if at the time such plan is submitted with the defense budget materials for that fiscal year, a national security strategy report required under such section 108 has not been submitted to Congress as required by paragraph (2) or paragraph (3), if applicable, of subsection (a) of such section, then such annual plan shall be designed so that the naval vessel force provided for under that plan supports the ship force structure recommended in the report of the most recent quadrennial defense review.
+        (1) The annual naval vessel construction plan developed for a fiscal year for purposes of subsection (a)(1) shall be designed so that the naval vessel force provided for under that plan supports the national security strategy of the United States as set forth in the most recent national security strategy report of the President under section 108 of the National Security Act of 1947 ([50 U.S.C. 3043][/us/usc/t50/s3043]), except that, if at the time such plan is submitted with the defense budget materials for that fiscal year, a national security strategy report required under such section 108 has not been submitted to Congress as required by paragraph (2) or paragraph (3), if applicable, of subsection (a) of such section, then such annual plan shall be designed so that the naval vessel force provided for under that plan supports the ship force structure recommended in the report of the most recent quadrennial defense review.
 
         (2)
 
@@ -63,13 +63,15 @@
 
         (3) The term “quadrennial defense review” means the review of the defense programs and policies of the United States that is carried out every four years under [section 118 of this title][/us/usc/t10/s118].
 
-(Added [Pub. L. 107–314, div. A, title X, § 1022(a)(1)][/us/pl/107/314/s1022/a/1], Dec. 2, 2002, [116 Stat. 2639][/us/stat/116/2639]; amended [Pub. L. 111–383, div. A, title X, § 1023(a)][/us/pl/111/383/s1023/a], Jan. 7, 2011, [124 Stat. 4349][/us/stat/124/4349]; [Pub. L. 112–81, div. A, title X, § 1011(a)][/us/pl/112/81/s1011/a], Dec. 31, 2011, [125 Stat. 1558][/us/stat/125/1558]; [Pub. L. 112–239, div. A, title X, § 1014(a)][/us/pl/112/239/s1014/a], Jan. 2, 2013, [126 Stat. 1908][/us/stat/126/1908]; [Pub. L. 113–66, div. A, title X, § 1021][/us/pl/113/66/s1021], Dec. 26, 2013, [127 Stat. 844][/us/stat/127/844].)
+        (4) The term “combatant and support vessel” means any commissioned ship built or armed for naval combat or any naval ship designed to provide support to combatant ships and other naval operations. Such term does not include patrol coastal ships, non-commissioned combatant craft specifically designed for combat roles, or ships that are designated for potential mobilization.
 
- __References in Text__ 
-
-    The National Security Act of 1947, referred to in subsec. (b)(1), is [act July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], [61 Stat. 495][/us/stat/61/495], which was formerly classified principally to chapter 15 (§ 401 et seq.) of Title 50, War and National Defense, prior to editorial reclassification in chapter 44 (§ 3001 et seq.) of Title 50. Section 108 of the Act is now classified to [section 3043 of Title 50][/us/usc/t50/s3043]. For complete classification of this Act to the Code, see Tables.
+(Added [Pub. L. 107–314, div. A, title X, § 1022(a)(1)][/us/pl/107/314/s1022/a/1], Dec. 2, 2002, [116 Stat. 2639][/us/stat/116/2639]; amended [Pub. L. 111–383, div. A, title X, § 1023(a)][/us/pl/111/383/s1023/a], Jan. 7, 2011, [124 Stat. 4349][/us/stat/124/4349]; [Pub. L. 112–81, div. A, title X, § 1011(a)][/us/pl/112/81/s1011/a], Dec. 31, 2011, [125 Stat. 1558][/us/stat/125/1558]; [Pub. L. 112–239, div. A, title X, § 1014(a)][/us/pl/112/239/s1014/a], Jan. 2, 2013, [126 Stat. 1908][/us/stat/126/1908]; [Pub. L. 113–66, div. A, title X, § 1021][/us/pl/113/66/s1021], Dec. 26, 2013, [127 Stat. 844][/us/stat/127/844]; [Pub. L. 113–291, div. A, title X][/us/pl/113/291], §§ 1021, 1071(c)(2), Dec. 19, 2014, [128 Stat. 3486][/us/stat/128/3486], 3508.)
 
  __Amendments__ 
+
+    2014—Subsec. (b)(1). [Pub. L. 113–291, § 1071(c)(2)][/us/pl/113/291/s1071/c/2], substituted “([50 U.S.C. 3043][/us/usc/t50/s3043])” for “([50 U.S.C. 404a][/us/usc/t50/s404a])”.
+
+    Subsec. (f)(4). [Pub. L. 113–291, § 1021][/us/pl/113/291/s1021], added par. (4).
 
     2013—Subsec. (b)(1). [Pub. L. 113–66, § 1021(a)(1)][/us/pl/113/66/s1021/a/1], substituted “shall be designed” for “should be designed” in two places and “supports” for “is capable of supporting” in two places.
 
@@ -93,7 +95,7 @@
 ----------
 
 [/us/usc/t10/s221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs221
-[/us/usc/t50/s404a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs404a
+[/us/usc/t50/s3043]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3043
 [/us/usc/t10/s179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs179
 [/us/usc/t10/s221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs221
 [/us/usc/t31/s1105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105%2Fa
@@ -108,9 +110,12 @@
 [/us/stat/126/1908]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1908
 [/us/pl/113/66/s1021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1021
 [/us/stat/127/844]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F844
-[/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
-[/us/stat/61/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F495
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/stat/128/3486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3486
+[/us/pl/113/291/s1071/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Fc%2F2
 [/us/usc/t50/s3043]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3043
+[/us/usc/t50/s404a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs404a
+[/us/pl/113/291/s1021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1021
 [/us/pl/113/66/s1021/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1021%2Fa%2F1
 [/us/pl/113/66/s1021/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1021%2Fa%2F2%2FA
 [/us/pl/113/66/s1021/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1021%2Fa%2F2%2FB
