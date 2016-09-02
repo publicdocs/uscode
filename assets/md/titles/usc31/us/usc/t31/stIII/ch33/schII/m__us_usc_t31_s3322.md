@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t31/stIII/ch33/schII/m__us_usc_t31_s3321.md) | [Next](./../../../../../..//us/usc/t31/stIII/ch33/schII/m__us_usc_t31_s3323.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3322)
+[Previous](./../../../../../..//us/usc/t31/stIII/ch33/schII/m__us_usc_t31_s6.md) | [Next](./../../../../../..//us/usc/t31/stIII/ch33/schII/m__us_usc_t31_s3323.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3322)
 
 ## § 3322. Disbursing officials
 
@@ -163,7 +163,7 @@ June 1, 1942, ch. 320(related to disbursing officers), 56 Stat. 306.  </td>
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t31/stIII/ch33/schII/m__us_usc_t31_s3321.md) | [Next](./../../../../../..//us/usc/t31/stIII/ch33/schII/m__us_usc_t31_s3323.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3322)
+[Previous](./../../../../../..//us/usc/t31/stIII/ch33/schII/m__us_usc_t31_s6.md) | [Next](./../../../../../..//us/usc/t31/stIII/ch33/schII/m__us_usc_t31_s3323.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3322)
 
 ----------
 ----------

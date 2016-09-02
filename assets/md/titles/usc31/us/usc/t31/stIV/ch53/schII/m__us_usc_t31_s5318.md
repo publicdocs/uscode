@@ -97,7 +97,7 @@
 
     (f)  __Written and Signed Statement Required__  __.—__ 
 
-    No person shall qualify for an exemption under subsection (a)(5)  <sup>\[2\]</sup>  <sup><sup> 2 See References in Text note below. </sup></sup>  unless the relevant financial institution or nonfinancial trade or business prepares and maintains a statement which—
+    No person shall qualify for an exemption under subsection (a)(5) 1 unless the relevant financial institution or nonfinancial trade or business prepares and maintains a statement which—
 
         (1) describes in detail the reasons why such person is qualified for such exemption; and
 
