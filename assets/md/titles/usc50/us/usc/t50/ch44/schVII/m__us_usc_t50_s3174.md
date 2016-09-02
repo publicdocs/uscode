@@ -35,7 +35,7 @@
 
  __Codification__ 
 
-    Section was formerly classified to section 441c of chapter 15 of this title prior to editorial reclassification and renumbering in chapter 44 of this title.
+    Section was formerly classified to [section 441c of this title][/us/usc/t50/s441c] prior to editorial reclassification and renumbering as this section.
 
 ----------
 
@@ -70,5 +70,6 @@
 [/us/stat/107/972]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F972
 [/us/pl/103/306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F306
 [/us/stat/108/1649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1649
+[/us/usc/t50/s441c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs441c
 
 

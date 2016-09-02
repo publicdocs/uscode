@@ -25,7 +25,7 @@
 
  __Codification__ 
 
-    Section was formerly classified to section 401 of chapter 15 of this title prior to editorial reclassification and renumbering in chapter 44 of this title.
+    Section was formerly classified to [section 401 of this title][/us/usc/t50/s401] prior to editorial reclassification and renumbering as this section.
 
  __Amendments__ 
 
@@ -48,6 +48,7 @@
 [/us/stat/72/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F514
 [/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
 [/us/stat/61/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F495
+[/us/usc/t50/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs401
 [/us/pl/85/599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F599
 
 

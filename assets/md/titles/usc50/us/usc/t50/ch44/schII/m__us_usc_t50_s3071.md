@@ -115,7 +115,7 @@
 
  __Codification__ 
 
-    Section was formerly classified to section 409a of chapter 15 of this title prior to editorial reclassification and renumbering in chapter 44 of this title.
+    Section was formerly classified to [section 409a of this title][/us/usc/t50/s409a] prior to editorial reclassification and renumbering as this section.
 
  __Prior Provisions__ 
 
@@ -147,6 +147,7 @@
 [/us/stat/116/2402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2402
 [/us/pl/103/226/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F226%2Fs4%2Fa
 [/us/usc/t5/s8331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8331
+[/us/usc/t50/s409a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs409a
 [/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
 [/us/stat/61/507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F507
 [/us/act/1949-04-02/ch47/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-04-02%2Fch47%2Fs2

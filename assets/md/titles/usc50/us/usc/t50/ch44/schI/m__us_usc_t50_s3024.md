@@ -621,7 +621,7 @@
 
  __Codification__ 
 
-    Section was formerly classified to section 403–1 of chapter 15 of this title prior to editorial reclassification and renumbering in chapter 44 of this title.
+    Section was formerly classified to [section 403–1 of this title][/us/usc/t50/s403–1] prior to editorial reclassification and renumbering as this section.
 
     In subsec. (q)(4)(B), “[section 109 of title 41][/us/usc/t41/s109]” substituted for “section 4(9) of the Federal Property and Administrative Services Act of 1949 ([41 U.S.C. 403(9)][/us/usc/t41/s403/9])” on authority of [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
 
@@ -892,6 +892,7 @@
 [/us/stat/63/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F208
 [/us/usc/t50/s3126/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3126%2F1
 [/us/pl/112/277/s310/a/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F277%2Fs310%2Fa%2F4%2FB
+[/us/usc/t50/s403–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs403%E2%80%931
 [/us/usc/t41/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs109
 [/us/usc/t41/s403/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs403%2F9
 [/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc

@@ -19,7 +19,7 @@
 
  __Codification__ 
 
-    Section was formerly classified to section 441g–2 of chapter 15 of this title and repealed prior to editorial reclassification and renumbering in chapter 44 of this title.
+    Section was formerly classified to [section 441g–2 of this title][/us/usc/t50/s441g–2] and repealed prior to editorial reclassification and renumbering as this section.
 
  __Savings Provision__ 
 
@@ -41,6 +41,7 @@
 [/us/stat/118/3679]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3679
 [/us/pl/111/259/s804/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs804%2F8
 [/us/stat/124/2747]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2747
+[/us/usc/t50/s441g–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs441g%E2%80%932
 [/us/pl/111/259/s313/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs313%2Fb%2F2
 [/us/stat/124/2666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2666
 [/us/usc/t50/s3023]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3023

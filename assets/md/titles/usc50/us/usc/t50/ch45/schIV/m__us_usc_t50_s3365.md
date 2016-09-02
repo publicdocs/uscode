@@ -45,7 +45,7 @@
 
  __Codification__ 
 
-    Section was formerly classified to section 403–5d of chapter 15 of this title prior to editorial reclassification and renumbering in chapter 45 of this title.
+    Section was formerly classified to [section 403–5d of this title][/us/usc/t50/s403–5d] prior to editorial reclassification and renumbering as this section.
 
  __Amendments__ 
 
@@ -71,6 +71,7 @@
 [/us/stat/115/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F281
 [/us/pl/107/296/s897/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs897%2Fa
 [/us/stat/116/2257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2257
+[/us/usc/t50/s403–5d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs403%E2%80%935d
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
 [/us/usc/t50/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3001

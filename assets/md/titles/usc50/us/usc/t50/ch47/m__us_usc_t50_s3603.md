@@ -19,7 +19,7 @@
 
  __Codification__ 
 
-    Section was formerly classified in a note under section 402 of chapter 15 of this title and repealed prior to editorial reclassification in chapter 47 of this title.
+    Section was formerly classified in a note under [section 402 of this title][/us/usc/t50/s402] and repealed prior to editorial reclassification as this section.
 
  __Effective Date of Repeal__ 
 
@@ -44,6 +44,7 @@
 [/us/stat/80/878]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F878
 [/us/pl/91/187/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F187%2Fs2
 [/us/stat/83/850]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F850
+[/us/usc/t50/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs402
 [/us/pl/104/201/s1635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1635
 [/us/usc/t10/s1593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1593
 

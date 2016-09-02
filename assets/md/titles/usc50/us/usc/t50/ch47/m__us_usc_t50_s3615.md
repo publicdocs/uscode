@@ -19,7 +19,7 @@
 
  __Codification__ 
 
-    Section was formerly classified in a note under section 402 of chapter 15 of this title and repealed prior to editorial reclassification in chapter 47 of this title.
+    Section was formerly classified in a note under [section 402 of this title][/us/usc/t50/s402] and repealed prior to editorial reclassification as this section.
 
     Another [section 17 of Pub. L. 86–36][/us/pl/86/36/s17] was renumbered section 18 and is classified to [section 3616 of this title][/us/usc/t50/s3616].
 
@@ -35,6 +35,7 @@
 [/us/pl/86/36/s17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F36%2Fs17
 [/us/pl/102/88/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F88%2Fs503
 [/us/stat/105/436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F436
+[/us/usc/t50/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs402
 [/us/pl/86/36/s17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F36%2Fs17
 [/us/usc/t50/s3616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3616
 

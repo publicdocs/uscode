@@ -91,7 +91,7 @@
 
  __Codification__ 
 
-    Section was formerly classified in a note under section 402 of chapter 15 of this title prior to editorial reclassification in chapter 47 of this title.
+    Section was formerly classified in a note under [section 402 of this title][/us/usc/t50/s402] prior to editorial reclassification as this section.
 
  __Amendments__ 
 
@@ -116,6 +116,7 @@
 [/us/stat/94/1978]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1978
 [/us/pl/97/89/s602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F89%2Fs602
 [/us/stat/95/1154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1154
+[/us/usc/t50/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs402
 [/us/pl/97/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F89
 [/us/pl/97/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F89
 [/us/pl/97/89/s806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F89%2Fs806

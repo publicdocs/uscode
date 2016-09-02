@@ -75,7 +75,7 @@
 
  __Codification__ 
 
-    Section was formerly classified to section 435a of chapter 15 of this title prior to editorial reclassification and renumbering in chapter 45 of this title.
+    Section was formerly classified to [section 435a of this title][/us/usc/t50/s435a] prior to editorial reclassification and renumbering as this section.
 
  __Change of Name__ 
 
@@ -92,6 +92,7 @@
 
 [/us/pl/106/567/s309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F567%2Fs309
 [/us/stat/114/2840]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2840
+[/us/usc/t50/s435a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs435a
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
 [/us/usc/t50/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3001
 

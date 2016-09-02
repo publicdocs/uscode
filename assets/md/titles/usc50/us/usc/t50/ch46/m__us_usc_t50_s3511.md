@@ -41,7 +41,7 @@
 
  __Codification__ 
 
-    Section was formerly classified to section 403k of chapter 15 of this title prior to editorial reclassification and renumbering in chapter 46 of this title.
+    Section was formerly classified to [section 403k of this title][/us/usc/t50/s403k] prior to editorial reclassification and renumbering as this section.
 
     In subsec. (b)(3), “[section 3973 of title 22][/us/usc/t22/s3973]” substituted for “[section 14 of the Act of August 1, 1956][/us/act/1956-08-01/s14] ([22 U.S.C. 2679a][/us/usc/t22/s2679a])” on authority of section 2401(c) of the Foreign Service Act of 1980 ([22 U.S.C. 4172(c)][/us/usc/t22/s4172/c]), section 2205(10) of which repealed section 14 of the 1956 Act ([22 U.S.C. 2679a][/us/usc/t22/s2679a]).
 
@@ -56,6 +56,7 @@
 [/us/act/1949-06-20/ch227/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-06-20%2Fch227%2Fs11
 [/us/pl/96/450/s403/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F450%2Fs403%2Fa
 [/us/stat/94/1978]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1978
+[/us/usc/t50/s403k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs403k
 [/us/usc/t22/s3973]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3973
 [/us/act/1956-08-01/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-01%2Fs14
 [/us/usc/t22/s2679a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2679a

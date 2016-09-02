@@ -11,23 +11,16 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t50/ch14/m__us_usc_t50_s342.md) | [Next](./../../../..//us/usc/t50/ch15/schI/m__us_usc_t50_ch15_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fch15)
+[Previous](./../../../..//us/usc/t50/ch14/m__us_usc_t50_s342.md) | [Next](./../../../..//us/usc/t50/ch15/m__us_usc_t50_s401.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fch15)
 
 ## CHAPTER 15—TRANSFERRED
 
-§§ 401, 401a. __Transferred__ 
-
- __Codification__ 
-
-    Sections 401 and 401a, comprising sections 2 and 3, respectively, of the National Security Act of 1947, [act July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], were editorially reclassified as sections 3002 and 3003, respectively, of chapter 44 of this title.
-
 ----------
 
-[Previous](./../../../..//us/usc/t50/ch14/m__us_usc_t50_s342.md) | [Next](./../../../..//us/usc/t50/ch15/schI/m__us_usc_t50_ch15_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fch15)
+[Previous](./../../../..//us/usc/t50/ch14/m__us_usc_t50_s342.md) | [Next](./../../../..//us/usc/t50/ch15/m__us_usc_t50_s401.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fch15)
 
 ----------
 ----------
 
-[/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
 
 

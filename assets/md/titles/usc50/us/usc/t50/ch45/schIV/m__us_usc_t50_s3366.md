@@ -21,11 +21,11 @@
 
  __References in Text__ 
 
-    Subsection (a), referred to in text, is subsec. (a) of [section 402 of Pub. L. 111–259][/us/pl/111/259/s402], title IV, Oct. 7, 2010, [124 Stat. 2708][/us/stat/124/2708], which amended section 403–1 of chapter 15 of this title prior to editorial reclassification and renumbering as section 3024 in chapter 44 of this title.
+    Subsection (a), referred to in text, is subsec. (a) of [section 402 of Pub. L. 111–259][/us/pl/111/259/s402], title IV, Oct. 7, 2010, [124 Stat. 2708][/us/stat/124/2708], which amended [section 403–1 of this title][/us/usc/t50/s403–1] prior to editorial reclassification and renumbering as [section 3024 of this title][/us/usc/t50/s3024].
 
  __Codification__ 
 
-    Section was formerly classified as a note under section 403–1 of chapter 15 of this title prior to editorial reclassification in chapter 45 of this title.
+    Section was formerly classified as a note under [section 403–1 of this title][/us/usc/t50/s403–1] prior to editorial reclassification as this section.
 
 ----------
 
@@ -39,5 +39,8 @@
 [/us/stat/124/2709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2709
 [/us/pl/111/259/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs402
 [/us/stat/124/2708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2708
+[/us/usc/t50/s403–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs403%E2%80%931
+[/us/usc/t50/s3024]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3024
+[/us/usc/t50/s403–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs403%E2%80%931
 
 

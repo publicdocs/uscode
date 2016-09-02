@@ -11,23 +11,16 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t50/ch15/schVII–A/ptA/m__us_usc_t50_ch15_schVII–A_ptA.md) | [Next](./../../../../../..//us/usc/t50/ch15/schVII–A/ptC/m__us_usc_t50_ch15_schVII–A_ptC.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fch15%2FschVII%E2%80%93A%2FptB)
+[Previous](./../../../../../..//us/usc/t50/ch15/schVII–A/ptA/m__us_usc_t50_s441g–2.md) | [Next](./../../../../../..//us/usc/t50/ch15/schVII–A/ptB/m__us_usc_t50_s441j.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fch15%2FschVII%E2%80%93A%2FptB)
 
 #### Part B—Foreign Languages Program
 
-§§ 441j to 441j–4. __Transferred__ 
-
- __Codification__ 
-
-    Sections 441j to 441j–4, comprising sections 1011 to 1015, respectively, of the National Security Act of 1947, [act July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], were editorially reclassified as sections 3201 to 3205, respectively, of chapter 44 of this title.
-
 ----------
 
-[Previous](./../../../../../..//us/usc/t50/ch15/schVII–A/ptA/m__us_usc_t50_ch15_schVII–A_ptA.md) | [Next](./../../../../../..//us/usc/t50/ch15/schVII–A/ptC/m__us_usc_t50_ch15_schVII–A_ptC.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fch15%2FschVII%E2%80%93A%2FptB)
+[Previous](./../../../../../..//us/usc/t50/ch15/schVII–A/ptA/m__us_usc_t50_s441g–2.md) | [Next](./../../../../../..//us/usc/t50/ch15/schVII–A/ptB/m__us_usc_t50_s441j.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fch15%2FschVII%E2%80%93A%2FptB)
 
 ----------
 ----------
 
-[/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
 
 

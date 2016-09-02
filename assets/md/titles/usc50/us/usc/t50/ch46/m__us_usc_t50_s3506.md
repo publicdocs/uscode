@@ -69,7 +69,7 @@
 
  __Codification__ 
 
-    Section was formerly classified to section 403f of chapter 15 of this title prior to editorial reclassification and renumbering in chapter 46 of this title. Some section numbers of this title referenced in amendment notes below reflect the classification of such sections prior to their editorial reclassification.
+    Section was formerly classified to [section 403f of this title][/us/usc/t50/s403f] prior to editorial reclassification and renumbering as this section. Some section numbers of this title referenced in amendment notes below reflect the classification of such sections prior to their editorial reclassification.
 
  __Prior Provisions__ 
 
@@ -206,6 +206,7 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/stat/124/2727]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2727
 [/us/pl/97/258/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs5%2Fb
 [/us/stat/96/1084]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1084
+[/us/usc/t50/s403f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs403f
 [/us/usc/t50/s3505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3505
 [/us/pl/111/259/s802/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs802%2F1
 [/us/usc/t50/s403–4a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs403%E2%80%934a

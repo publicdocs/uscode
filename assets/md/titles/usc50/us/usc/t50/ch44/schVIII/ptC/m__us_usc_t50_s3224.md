@@ -93,7 +93,7 @@
 
  __Codification__ 
 
-    Section was formerly classified to section 441p of chapter 15 of this title prior to editorial reclassification and renumbering in chapter 44 of this title.
+    Section was formerly classified to [section 441p of this title][/us/usc/t50/s441p] prior to editorial reclassification and renumbering as this section.
 
  __Amendments__ 
 
@@ -119,6 +119,7 @@
 [/us/stat/124/2665]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2665
 [/us/pl/112/18/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F18%2Fs304
 [/us/stat/125/226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F226
+[/us/usc/t50/s441p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs441p
 [/us/pl/112/18/s304/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F18%2Fs304%2F1
 [/us/pl/112/18/s304/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F18%2Fs304%2F2
 [/us/pl/112/18/s304/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F18%2Fs304%2F2

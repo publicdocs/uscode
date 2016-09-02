@@ -11,23 +11,16 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t50/ch15/schVII–A/ptC/m__us_usc_t50_ch15_schVII–A_ptC.md) | [Next](./../../../../..//us/usc/t50/ch16/m__us_usc_t50_ch16.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fch15%2FschVIII)
+[Previous](./../../../../..//us/usc/t50/ch15/schVII–A/ptC/m__us_usc_t50_s441p.md) | [Next](./../../../../..//us/usc/t50/ch15/schVIII/m__us_usc_t50_s442.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fch15%2FschVIII)
 
 ### SUBCHAPTER VIII—ADDITIONAL MISCELLANEOUS PROVISIONS
 
-§§ 442 to 442b. __Transferred__ 
-
- __Codification__ 
-
-    Sections 442 to 442b, comprising sections 1101 to 1103, respectively, of the National Security Act of 1947, [act July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], were editorially reclassified as sections 3231 to 3233, respectively, of chapter 44 of this title.
-
 ----------
 
-[Previous](./../../../../..//us/usc/t50/ch15/schVII–A/ptC/m__us_usc_t50_ch15_schVII–A_ptC.md) | [Next](./../../../../..//us/usc/t50/ch16/m__us_usc_t50_ch16.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fch15%2FschVIII)
+[Previous](./../../../../..//us/usc/t50/ch15/schVII–A/ptC/m__us_usc_t50_s441p.md) | [Next](./../../../../..//us/usc/t50/ch15/schVIII/m__us_usc_t50_s442.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fch15%2FschVIII)
 
 ----------
 ----------
 
-[/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
 
 

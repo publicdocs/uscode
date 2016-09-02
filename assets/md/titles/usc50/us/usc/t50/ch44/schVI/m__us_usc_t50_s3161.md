@@ -39,7 +39,7 @@
 
  __Codification__ 
 
-    Section was formerly classified to section 435 of chapter 15 of this title prior to editorial reclassification and renumbering in chapter 44 of this title.
+    Section was formerly classified to [section 435 of this title][/us/usc/t50/s435] prior to editorial reclassification and renumbering as this section.
 
  __Amendments__ 
 
@@ -2988,6 +2988,7 @@ Sec. 3.6. Processing Requests and Reviews. Notwithstanding section 4.1(i) of thi
 [/us/stat/113/1611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1611
 [/us/pl/107/306/s353/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306%2Fs353%2Fb%2F2%2FB
 [/us/stat/116/2402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2402
+[/us/usc/t50/s435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs435
 [/us/pl/107/306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306
 [/us/pl/106/120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F120
 [/us/pl/106/120/s305/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F120%2Fs305%2Fc

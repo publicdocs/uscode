@@ -19,7 +19,7 @@
 
  __Codification__ 
 
-    Section was formerly classified to section 404d of chapter 15 of this title and repealed prior to editorial reclassification and renumbering in chapter 44 of this title.
+    Section was formerly classified to [section 404d of this title][/us/usc/t50/s404d] and repealed prior to editorial reclassification and renumbering as this section.
 
 ----------
 
@@ -39,5 +39,6 @@
 [/us/stat/113/775]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F775
 [/us/pl/107/306/s811/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306%2Fs811%2Fb%2F1%2FB
 [/us/stat/116/2422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2422
+[/us/usc/t50/s404d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs404d
 
 

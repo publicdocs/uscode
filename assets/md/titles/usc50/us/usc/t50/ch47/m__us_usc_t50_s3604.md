@@ -21,7 +21,7 @@
 
  __Codification__ 
 
-    Section was formerly classified in a note under section 402 of chapter 15 of this title prior to editorial reclassification in chapter 47 of this title.
+    Section was formerly classified in a note under [section 402 of this title][/us/usc/t50/s402] prior to editorial reclassification as this section.
 
     In text, “[section 5941 of title 5][/us/usc/t5/s5941]” substituted for “section 207 of the Independent Offices Appropriation Act, 1949, as amended ([5 U.S.C. 118h][/us/usc/t5/s118h])” on authority of [Pub. L. 89–554, § 7(b)][/us/pl/89/554/s7/b], Sept. 6, 1966, [80 Stat. 631][/us/stat/80/631]. [Section 1 of Pub. L. 89–554][/us/pl/89/554/s1] enacted Title 5, Government Organization and Employees.
 
@@ -41,6 +41,7 @@
 [/us/usc/t5/s5941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5941
 [/us/pl/86/36/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F36%2Fs5
 [/us/stat/73/63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F63
+[/us/usc/t50/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs402
 [/us/usc/t5/s5941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5941
 [/us/usc/t5/s118h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs118h
 [/us/pl/89/554/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs7%2Fb

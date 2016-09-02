@@ -19,7 +19,7 @@
 
  __Codification__ 
 
-    Section was formerly classified to section 404i–1 of chapter 15 of this title and repealed prior to editorial reclassification and renumbering in chapter 44 of this title.
+    Section was formerly classified to [section 404i–1 of this title][/us/usc/t50/s404i–1] and repealed prior to editorial reclassification and renumbering as this section.
 
  __Correcting Long-Standing Material Weaknesses__ 
 
@@ -145,6 +145,7 @@
 [/us/stat/117/1570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1570
 [/us/pl/108/458/s1071/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs1071%2Fa%2F4
 [/us/stat/118/3690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3690
+[/us/usc/t50/s404i–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs404i%E2%80%931
 [/us/pl/111/259/s368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs368
 [/us/stat/124/2705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2705
 [/us/pl/111/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259

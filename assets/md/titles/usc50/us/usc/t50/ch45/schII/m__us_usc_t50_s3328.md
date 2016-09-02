@@ -21,7 +21,7 @@
 
  __Codification__ 
 
-    Section was formerly classified to section 407 of chapter 15 of this title prior to editorial reclassification and renumbering in chapter 45 of this title.
+    Section was formerly classified to [section 407 of this title][/us/usc/t50/s407] prior to editorial reclassification and renumbering as this section.
 
 ----------
 
@@ -32,5 +32,6 @@
 
 [/us/pl/85/766]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F766
 [/us/stat/72/884]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F884
+[/us/usc/t50/s407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs407
 
 

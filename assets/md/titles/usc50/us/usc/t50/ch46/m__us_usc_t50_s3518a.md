@@ -21,7 +21,7 @@
 
  __Codification__ 
 
-    Section was formerly classified to section 403r–1 of chapter 15 of this title prior to editorial reclassification and renumbering in chapter 46 of this title.
+    Section was formerly classified to [section 403r–1 of this title][/us/usc/t50/s403r–1] prior to editorial reclassification and renumbering as this section.
 
     Section was enacted as part of the Intelligence Authorization Act, Fiscal Year 1990, and not as part of the Central Intelligence Agency Act of 1949 which comprises this chapter.
 
@@ -42,6 +42,7 @@
 [/us/stat/103/1704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1704
 [/us/pl/103/178/s204/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F178%2Fs204%2Fa
 [/us/stat/107/2033]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2033
+[/us/usc/t50/s403r–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs403r%E2%80%931
 [/us/pl/103/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F178
 [/us/usc/t50/s2153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2153
 

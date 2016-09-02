@@ -109,7 +109,7 @@
 
  __Codification__ 
 
-    Section was formerly classified to section 415a–10 of chapter 15 of this title prior to editorial reclassification and renumbering in chapter 44 of this title.
+    Section was formerly classified to [section 415a–10 of this title][/us/usc/t50/s415a–10] prior to editorial reclassification and renumbering as this section.
 
  __Initial Audit__ 
 
@@ -127,6 +127,7 @@
 [/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
 [/us/pl/111/259/s367/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs367%2Fa%2F1%2FA
 [/us/stat/124/2703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2703
+[/us/usc/t50/s415a–10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs415a%E2%80%9310
 [/us/pl/111/259/s367/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs367%2Fa%2F1%2FB
 [/us/stat/124/2704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2704
 [/us/usc/t50/s3104/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3104%2Fa%2F1

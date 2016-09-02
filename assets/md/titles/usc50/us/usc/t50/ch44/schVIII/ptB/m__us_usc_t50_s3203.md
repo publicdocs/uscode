@@ -81,7 +81,7 @@
 
  __Codification__ 
 
-    Section was formerly classified to section 441j–2 of chapter 15 of this title prior to editorial reclassification and renumbering in chapter 44 of this title.
+    Section was formerly classified to [section 441j–2 of this title][/us/usc/t50/s441j–2] prior to editorial reclassification and renumbering as this section.
 
 ----------
 
@@ -102,5 +102,6 @@
 [/us/pl/105/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F19
 [/us/stat/111/218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F218
 [/us/usc/t42/s14501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs14501
+[/us/usc/t50/s441j–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs441j%E2%80%932
 
 

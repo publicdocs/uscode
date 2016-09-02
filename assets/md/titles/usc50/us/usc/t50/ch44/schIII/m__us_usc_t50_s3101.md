@@ -207,7 +207,7 @@
 
  __Codification__ 
 
-    Section was formerly classified to section 415a–7 of chapter 15 of this title prior to editorial reclassification and renumbering in chapter 44 of this title.
+    Section was formerly classified to [section 415a–7 of this title][/us/usc/t50/s415a–7] prior to editorial reclassification and renumbering as this section.
 
  __Applicability Date of Quarterly Reports__ 
 
@@ -240,6 +240,7 @@
 [/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
 [/us/pl/111/259/s323/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs323%2Fa%2F1
 [/us/stat/124/2674]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2674
+[/us/usc/t50/s415a–7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs415a%E2%80%937
 [/us/pl/111/259/s323/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs323%2Fa%2F2
 [/us/stat/124/2678]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2678
 [/us/usc/t50/s3101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3101%2Fb

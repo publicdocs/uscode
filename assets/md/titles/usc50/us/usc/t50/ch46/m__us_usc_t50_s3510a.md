@@ -21,7 +21,7 @@
 
  __Codification__ 
 
-    Section was formerly classified as a note under section 403j of chapter 15 of this title prior to editorial reclassification in chapter 46 of this title.
+    Section was formerly classified as a note under [section 403j of this title][/us/usc/t50/s403j] prior to editorial reclassification as this section.
 
     Section was enacted as part of the Department of Defense Appropriations Act, 1994, and not as part of the Central Intelligence Agency Act of 1949 which comprises this chapter.
 
@@ -52,6 +52,7 @@ Provisions similar to those in this section were contained in the following prio
 
 [/us/pl/103/139/s8104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F139%2Fs8104
 [/us/stat/107/1463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1463
+[/us/usc/t50/s403j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs403j
 [/us/pl/102/396/s9030]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F396%2Fs9030
 [/us/stat/106/1907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1907
 [/us/pl/102/172/s8030]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F172%2Fs8030

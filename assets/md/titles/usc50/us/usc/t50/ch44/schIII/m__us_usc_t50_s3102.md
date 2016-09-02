@@ -111,7 +111,7 @@
 
  __Codification__ 
 
-    Section was formerly classified to section 415a–8 of chapter 15 of this title prior to editorial reclassification and renumbering in chapter 44 of this title.
+    Section was formerly classified to [section 415a–8 of this title][/us/usc/t50/s415a–8] prior to editorial reclassification and renumbering as this section.
 
 ----------
 
@@ -130,5 +130,6 @@
 [/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
 [/us/pl/111/259/s324/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs324%2Fa
 [/us/stat/124/2679]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2679
+[/us/usc/t50/s415a–8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs415a%E2%80%938
 
 

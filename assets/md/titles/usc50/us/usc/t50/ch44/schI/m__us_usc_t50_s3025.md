@@ -81,11 +81,11 @@
 
     Section 1091 of the National Security Intelligence Reform Act of 2004, referred to in subsec. (d)(2), is [section 1091 of Pub. L. 108–458][/us/pl/108/458/s1091], which is set out as a note under [section 3001 of this title][/us/usc/t50/s3001].
 
-    Section 3(4) of the National Security Act of 1947, referred to in subsec. (e)(1), was classified to section 401a of chapter 15 of this title prior to editorial reclassification and renumbering in chapter 44 of this title.
+    Section 3 of the National Security Act of 1947, referred to in subsec. (e)(1), was classified to [section 401a of this title][/us/usc/t50/s401a] prior to editorial reclassification and renumbering as [section 3003 of this title][/us/usc/t50/s3003].
 
  __Codification__ 
 
-    Section was formerly classified to section 403–3 of chapter 15 of this title prior to editorial reclassification and renumbering in chapter 44 of this title. Some section numbers of this title referenced in amendment notes below reflect the classification of such sections prior to their editorial reclassification.
+    Section was formerly classified to [section 403–3 of this title][/us/usc/t50/s403–3] prior to editorial reclassification and renumbering as this section. Some section numbers of this title referenced in amendment notes below reflect the classification of such sections prior to their editorial reclassification.
 
  __Prior Provisions__ 
 
@@ -131,6 +131,9 @@
 [/us/stat/118/3638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3638
 [/us/pl/108/458/s1091]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs1091
 [/us/usc/t50/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3001
+[/us/usc/t50/s401a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs401a
+[/us/usc/t50/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3003
+[/us/usc/t50/s403–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs403%E2%80%933
 [/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
 [/us/pl/102/496/s705/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F496%2Fs705%2Fa%2F3
 [/us/stat/106/3190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3190

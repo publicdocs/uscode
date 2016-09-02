@@ -21,7 +21,7 @@
 
  __Codification__ 
 
-    Section was formerly classified as a note under section 403–1 of chapter 15 of this title prior to editorial reclassification in chapter 45 of this title.
+    Section was formerly classified as a note under [section 403–1 of this title][/us/usc/t50/s403–1] prior to editorial reclassification as this section.
 
 ----------
 
@@ -32,5 +32,6 @@
 
 [/us/pl/108/458/s1052/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs1052%2Fb
 [/us/stat/118/3683]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3683
+[/us/usc/t50/s403–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs403%E2%80%931
 
 

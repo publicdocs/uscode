@@ -21,7 +21,7 @@
 
  __Codification__ 
 
-    Section was formerly classified as a note under section 403–1 of chapter 15 of this title prior to editorial reclassification in chapter 45 of this title.
+    Section was formerly classified as a note under [section 403–1 of this title][/us/usc/t50/s403–1] prior to editorial reclassification as this section.
 
  __Transfer of Functions__ 
 
@@ -36,6 +36,7 @@
 
 [/us/pl/103/359/s603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F359%2Fs603
 [/us/stat/108/3433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3433
+[/us/usc/t50/s403–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs403%E2%80%931
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
 [/us/usc/t50/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3001
 

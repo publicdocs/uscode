@@ -21,7 +21,7 @@
 
  __Codification__ 
 
-    Section was formerly classified to section 404h–1 of chapter 15 of this title prior to editorial reclassification and renumbering in chapter 44 of this title. Some section numbers of this title referenced in amendment notes below reflect the classification of such sections prior to their editorial reclassification.
+    Section was formerly classified to [section 404h–1 of this title][/us/usc/t50/s404h–1] prior to editorial reclassification and renumbering as this section. Some section numbers of this title referenced in amendment notes below reflect the classification of such sections prior to their editorial reclassification.
 
  __Amendments__ 
 
@@ -43,6 +43,7 @@
 [/us/stat/125/226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F226
 [/us/pl/112/277/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F277%2Fs303
 [/us/stat/126/2471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2471
+[/us/usc/t50/s404h–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs404h%E2%80%931
 [/us/pl/112/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F277
 [/us/pl/112/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F18
 [/us/usc/t50/s402c/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs402c%2Fg%2F2

@@ -31,7 +31,7 @@
 
  __Codification__ 
 
-    Section was formerly classified to section 403–4b of chapter 15 of this title prior to editorial reclassification and renumbering in chapter 46 of this title.
+    Section was formerly classified to [section 403–4b of this title][/us/usc/t50/s403–4b] prior to editorial reclassification and renumbering as this section.
 
     Section was enacted as part of the Intelligence Reform and Terrorism Prevention Act of 2004, and also as part of the National Security Intelligence Reform Act of 2004, and not as part of the Central Intelligence Agency Act of 1949 which comprises this chapter.
 
@@ -66,6 +66,7 @@
 
 [/us/pl/108/458/s1011/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs1011%2Fc
 [/us/stat/118/3661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3661
+[/us/usc/t50/s403–4b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs403%E2%80%934b
 [/us/usc/t50/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3001
 [/us/pl/108/458/s1097/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs1097%2Fa
 [/us/usc/t50/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3001

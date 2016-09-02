@@ -95,7 +95,7 @@
 
  __Codification__ 
 
-    Section was formerly classified to section 415b of chapter 15 of this title prior to editorial reclassification and renumbering in chapter 44 of this title. Some section numbers of this title referenced in amendment notes below reflect the classification of such sections prior to their editorial reclassification.
+    Section was formerly classified to [section 415b of this title][/us/usc/t50/s415b] prior to editorial reclassification and renumbering as this section. Some section numbers of this title referenced in amendment notes below reflect the classification of such sections prior to their editorial reclassification.
 
  __Amendments__ 
 
@@ -256,6 +256,7 @@ Similar provisions were contained in the following prior acts:
 [/us/usc/t15/s1681u/h/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1681u%2Fh%2F2
 [/us/pl/107/56/s358/g/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs358%2Fg%2F1%2FA
 [/us/pl/108/159/s214/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159%2Fs214%2Fa%2F1
+[/us/usc/t50/s415b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs415b
 [/us/pl/112/277/s310/b/1/A/i/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F277%2Fs310%2Fb%2F1%2FA%2Fi%2FI
 [/us/usc/t50/s423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs423
 [/us/usc/t50/s2366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2366

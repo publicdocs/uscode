@@ -101,7 +101,7 @@
 
  __Codification__ 
 
-    Section was formerly classified to section 403u of chapter 15 of this title prior to editorial reclassification and renumbering in chapter 46 of this title.
+    Section was formerly classified to [section 403u of this title][/us/usc/t50/s403u] prior to editorial reclassification and renumbering as this section.
 
  __Amendments__ 
 
@@ -211,6 +211,7 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/stat/118/3691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3691
 [/us/pl/112/277/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F277%2Fs401
 [/us/stat/126/2475]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2475
+[/us/usc/t50/s403u]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs403u
 [/us/pl/112/277/s401/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F277%2Fs401%2F1%2FA
 [/us/pl/112/277/s401/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F277%2Fs401%2F1%2FB
 [/us/pl/112/277/s401/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F277%2Fs401%2F2%2FA

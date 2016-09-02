@@ -25,7 +25,7 @@
 
  __Codification__ 
 
-    Section was formerly classified to section 403v of chapter 15 of this title prior to editorial reclassification and renumbering in chapter 46 of this title.
+    Section was formerly classified to [section 403v of this title][/us/usc/t50/s403v] prior to editorial reclassification and renumbering as this section.
 
 ----------
 
@@ -37,5 +37,6 @@
 [/us/act/1949-06-20/ch227/s22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-06-20%2Fch227%2Fs22
 [/us/pl/106/567/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F567%2Fs404
 [/us/stat/114/2848]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2848
+[/us/usc/t50/s403v]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs403v
 
 

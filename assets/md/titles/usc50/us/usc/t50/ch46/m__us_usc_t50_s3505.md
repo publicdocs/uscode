@@ -85,7 +85,7 @@
 
  __Codification__ 
 
-    Section was formerly classified to section 403e of chapter 15 of this title prior to editorial reclassification and renumbering in chapter 46 of this title.
+    Section was formerly classified to [section 403e of this title][/us/usc/t50/s403e] prior to editorial reclassification and renumbering as this section.
 
     In subsec. (a)(3)(B), (C), “this subsection” substituted for “this section” as the probable intent of Congress in view of the designation of the existing provisions of this section as subsec. (a) and the addition of subsec. (b) by [Pub. L. 97–89, title V, § 501][/us/pl/97/89/s501], Dec. 4, 1981, [95 Stat. 1152][/us/stat/95/1152].
 
@@ -173,6 +173,7 @@
 [/us/pl/96/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465
 [/us/stat/94/2071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2071
 [/us/usc/t22/s3901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3901
+[/us/usc/t50/s403e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs403e
 [/us/pl/97/89/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F89%2Fs501
 [/us/stat/95/1152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1152
 [/us/usc/t50/s403d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs403d

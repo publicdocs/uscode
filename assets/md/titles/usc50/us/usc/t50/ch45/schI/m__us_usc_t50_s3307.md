@@ -49,7 +49,7 @@
 
  __Codification__ 
 
-    Section was formerly classified to section 413c of chapter 15 of this title prior to editorial reclassification and renumbering in chapter 45 of this title.
+    Section was formerly classified to [section 413c of this title][/us/usc/t50/s413c] prior to editorial reclassification and renumbering as this section.
 
 ----------
 
@@ -61,5 +61,6 @@
 [/us/usc/t50/s3003/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3003%2F4
 [/us/pl/110/181/s1079]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1079
 [/us/stat/122/334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F334
+[/us/usc/t50/s413c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs413c
 
 

@@ -27,7 +27,7 @@
 
  __Codification__ 
 
-    Section was formerly classified to section 403m of chapter 15 of this title prior to editorial reclassification and renumbering in chapter 46 of this title.
+    Section was formerly classified to [section 403m of this title][/us/usc/t50/s403m] prior to editorial reclassification and renumbering as this section.
 
  __Effective Date__ 
 
@@ -43,6 +43,7 @@
 [/us/act/1949-06-20/ch227/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-06-20%2Fch227%2Fs13
 [/us/pl/97/89/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F89%2Fs503
 [/us/stat/95/1153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1153
+[/us/usc/t50/s403m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs403m
 [/us/pl/97/89/s806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F89%2Fs806
 [/us/usc/t10/s1621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1621
 

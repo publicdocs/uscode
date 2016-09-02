@@ -15,7 +15,7 @@
 
 ## § 3074. Authorization of appropriations
 
-    There are authorized to be appropriated such sums as may be necessary and appropriate to carry out the provisions and purposes of this chapter (other than the provisions and purposes of sections 3023, 3025, 3035, 3038 and subchapters III, IV, and V).
+    There are authorized to be appropriated such sums as may be necessary and appropriate to carry out the provisions and purposes of this chapter (other than the provisions and purposes of sections 3023, 3025, 3035, 3038 of this title and subchapters III, IV, and V).
 
 ([July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title III, § 307, [61 Stat. 509][/us/stat/61/509]; [Pub. L. 103–178, title III, § 309][/us/pl/103/178/s309], Dec. 3, 1993, [107 Stat. 2036][/us/stat/107/2036].)
 
@@ -25,11 +25,11 @@
 
  __Codification__ 
 
-    Section was formerly classified to section 411 of chapter 15 of this title prior to editorial reclassification and renumbering in chapter 44 of this title, and to [section 171m of Title 5][/us/usc/t5/s171m] prior to the general revision and enactment of Title 5, Government Organization and Employees, by [Pub. L. 89–554, § 1][/us/pl/89/554/s1], Sept. 6, 1966, [80 Stat. 378][/us/stat/80/378].
+    Section was formerly classified to [section 411 of this title][/us/usc/t50/s411] prior to editorial reclassification and renumbering as this section, and to [section 171m of Title 5][/us/usc/t5/s171m] prior to the general revision and enactment of Title 5, Government Organization and Employees, by [Pub. L. 89–554, § 1][/us/pl/89/554/s1], Sept. 6, 1966, [80 Stat. 378][/us/stat/80/378].
 
  __Amendments__ 
 
-    1993—[Pub. L. 103–178][/us/pl/103/178] substituted “provisions and purposes of this Act (other than the provisions and purposes of sections 102, 103, 104, 105 and titles V, VI, and VII)” for “provisions and purposes of this Act”.
+    1993—[Pub. L. 103–178][/us/pl/103/178] inserted exception relating to sections 3023, 3025, 3035, and 3038 of this title and subchapters III, IV, and V.
 
 ----------
 
@@ -44,6 +44,7 @@
 [/us/stat/107/2036]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2036
 [/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
 [/us/stat/61/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F495
+[/us/usc/t50/s411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs411
 [/us/usc/t5/s171m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs171m
 [/us/pl/89/554/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs1
 [/us/stat/80/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F378

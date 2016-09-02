@@ -71,7 +71,7 @@
 
  __Codification__ 
 
-    Section was formerly classified to section 403–3i of chapter 15 of this title prior to editorial reclassification and renumbering in chapter 44 of this title.
+    Section was formerly classified to [section 403–3i of this title][/us/usc/t50/s403–3i] prior to editorial reclassification and renumbering as this section.
 
 ----------
 
@@ -91,5 +91,6 @@
 [/us/stat/124/2720]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2720
 [/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
 [/us/stat/61/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F495
+[/us/usc/t50/s403–3i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs403%E2%80%933i
 
 

@@ -97,7 +97,7 @@
 
  __Codification__ 
 
-    Section was formerly classified to section 415a–9 of chapter 15 of this title prior to editorial reclassification and renumbering in chapter 44 of this title.
+    Section was formerly classified to [section 415a–9 of this title][/us/usc/t50/s415a–9] prior to editorial reclassification and renumbering as this section.
 
  __Applicability Date__ 
 
@@ -137,6 +137,7 @@ Similar provisions were contained in the following appropriation acts:
 [/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
 [/us/pl/111/259/s325/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs325%2Fa
 [/us/stat/124/2681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2681
+[/us/usc/t50/s415a–9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs415a%E2%80%939
 [/us/pl/111/259/s325/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs325%2Fb
 [/us/stat/124/2683]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2683
 [/us/usc/t50/s3103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3103%2Fa

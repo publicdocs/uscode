@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t50/ch15/schVIII/m__us_usc_t50_ch15_schVIII.md) | [Next](./../../../..//us/usc/t50/ch16/m__us_usc_t50_s454.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fch16)
+[Previous](./../../../..//us/usc/t50/ch15/schVIII/m__us_usc_t50_s442b.md) | [Next](./../../../..//us/usc/t50/ch16/m__us_usc_t50_s454.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fch16)
 
 ## CHAPTER 16—DEFENSE INDUSTRIAL RESERVES
 
@@ -69,7 +69,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t50/ch15/schVIII/m__us_usc_t50_ch15_schVIII.md) | [Next](./../../../..//us/usc/t50/ch16/m__us_usc_t50_s454.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fch16)
+[Previous](./../../../..//us/usc/t50/ch15/schVIII/m__us_usc_t50_s442b.md) | [Next](./../../../..//us/usc/t50/ch16/m__us_usc_t50_s454.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fch16)
 
 ----------
 ----------

@@ -85,7 +85,7 @@
 
  __Codification__ 
 
-    Section was formerly classified to section 403l of chapter 15 of this title prior to editorial reclassification and renumbering in chapter 46 of this title.
+    Section was formerly classified to section 403l of this title prior to editorial reclassification and renumbering as this section.
 
  __Amendments__ 
 

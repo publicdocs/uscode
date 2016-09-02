@@ -129,7 +129,7 @@
 
  __Codification__ 
 
-    Section was formerly classified to section 435c of chapter 15 of this title prior to editorial reclassification and renumbering in chapter 45 of this title.
+    Section was formerly classified to [section 435c of this title][/us/usc/t50/s435c] prior to editorial reclassification and renumbering as this section.
 
 ----------
 
@@ -148,5 +148,6 @@
 [/us/stat/122/328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F328
 [/us/usc/t50/s435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs435
 [/us/usc/t50/s3161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3161
+[/us/usc/t50/s435c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs435c
 
 

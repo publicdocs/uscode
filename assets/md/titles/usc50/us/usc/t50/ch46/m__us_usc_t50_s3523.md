@@ -237,7 +237,7 @@
 
  __Codification__ 
 
-    Section was formerly classified to section 403w of chapter 15 of this title prior to editorial reclassification and renumbering in chapter 46 of this title.
+    Section was formerly classified to [section 403w of this title][/us/usc/t50/s403w] prior to editorial reclassification and renumbering as this section.
 
 ----------
 
@@ -253,5 +253,6 @@
 [/us/pl/108/487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F487
 [/us/pl/108/487/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F487%2Fs801
 [/us/usc/t22/s2656f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2656f
+[/us/usc/t50/s403w]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs403w
 
 

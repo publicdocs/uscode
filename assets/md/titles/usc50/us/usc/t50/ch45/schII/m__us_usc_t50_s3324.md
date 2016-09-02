@@ -35,7 +35,7 @@
 
  __Codification__ 
 
-    Section was formerly classified to section 403–7 of chapter 15 of this title prior to editorial reclassification and renumbering in chapter 45 of this title.
+    Section was formerly classified to [section 403–7 of this title][/us/usc/t50/s403–7] prior to editorial reclassification and renumbering as this section.
 
  __Change of Name__ 
 
@@ -50,6 +50,7 @@
 
 [/us/pl/104/293/s309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F293%2Fs309
 [/us/stat/110/3467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3467
+[/us/usc/t50/s403–7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs403%E2%80%937
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
 [/us/usc/t50/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3001
 

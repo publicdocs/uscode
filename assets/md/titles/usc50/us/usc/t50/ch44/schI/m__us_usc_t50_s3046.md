@@ -19,7 +19,7 @@
 
  __Codification__ 
 
-    Section was formerly classified to section 404f of chapter 15 of this title and repealed prior to editorial reclassification and renumbering in chapter 44 of this title.
+    Section was formerly classified to [section 404f of this title][/us/usc/t50/s404f] and repealed prior to editorial reclassification and renumbering as this section.
 
  __Effective Date of Repeal__ 
 
@@ -41,6 +41,7 @@
 [/us/stat/110/2685]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2685
 [/us/pl/105/107/s303/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F107%2Fs303%2Fb
 [/us/stat/111/2252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2252
+[/us/usc/t50/s404f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs404f
 [/us/usc/t50/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3001
 [/us/pl/108/458/s1097/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs1097%2Fa
 [/us/usc/t50/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3001

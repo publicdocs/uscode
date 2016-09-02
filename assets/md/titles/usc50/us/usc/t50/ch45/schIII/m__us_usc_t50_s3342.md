@@ -37,7 +37,7 @@
 
  __Codification__ 
 
-    Section was formerly classified as a note under section 435b of chapter 15 of this title prior to editorial reclassification in chapter 45 of this title.
+    Section was formerly classified as a note under [section 435b of this title][/us/usc/t50/s435b] prior to editorial reclassification as this section.
 
     Section is comprised of subsec. (c) of [section 7601 of Pub. L. 108–458][/us/pl/108/458/s7601]. Subsec. (a) of section 7601 amended provisions set out as a note under [section 102 of Title 3][/us/usc/t3/s102], The President, subsec. (b) of section 7601 is not classified to the Code, and subsec. (d) of section 7601 is set out as a note under [section 102 of Title 3][/us/usc/t3/s102].
 
@@ -62,6 +62,7 @@
 [/us/pl/108/458/s7601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs7601
 [/us/pl/88/277/s3/h/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F277%2Fs3%2Fh%2F4
 [/us/usc/t3/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs102
+[/us/usc/t50/s435b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs435b
 [/us/pl/108/458/s7601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs7601
 [/us/usc/t3/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs102
 [/us/usc/t3/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs102

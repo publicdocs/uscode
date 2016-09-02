@@ -97,7 +97,7 @@
 
  __Codification__ 
 
-    Section was formerly classified to section 431 of chapter 15 of this title prior to editorial reclassification and renumbering in chapter 44 of this title. Some section numbers of this title referenced in amendment notes below reflect the classification of such sections prior to their editorial reclassification.
+    Section was formerly classified to [section 431 of this title][/us/usc/t50/s431] prior to editorial reclassification and renumbering as this section. Some section numbers of this title referenced in amendment notes below reflect the classification of such sections prior to their editorial reclassification.
 
     The text of former [section 432 of this title][/us/usc/t50/s432], which was transferred to this section and redesignated as subsec. (g) by [Pub. L. 108–136, § 922(b)(2)(B)][/us/pl/108/136/s922/b/2/B], was based on [act July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title VII, § 702, as added [Pub. L. 98–477, § 2(a)][/us/pl/98/477/s2/a], Oct. 15, 1984, [98 Stat. 2211][/us/stat/98/2211].
 
@@ -171,6 +171,7 @@
 [/us/stat/118/3690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3690
 [/us/pl/111/259/s804/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs804%2F6
 [/us/stat/124/2747]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2747
+[/us/usc/t50/s431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs431
 [/us/usc/t50/s432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs432
 [/us/pl/108/136/s922/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs922%2Fb%2F2%2FB
 [/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343

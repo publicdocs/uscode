@@ -21,7 +21,7 @@
 
  __Codification__ 
 
-    Section was formerly classified to section 441 of chapter 15 of this title prior to editorial reclassification and renumbering in chapter 44 of this title.
+    Section was formerly classified to [section 441 of this title][/us/usc/t50/s441] prior to editorial reclassification and renumbering as this section.
 
 ----------
 
@@ -36,5 +36,6 @@
 [/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
 [/us/pl/104/93/s303/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F93%2Fs303%2Fa
 [/us/stat/109/964]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F964
+[/us/usc/t50/s441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs441
 
 

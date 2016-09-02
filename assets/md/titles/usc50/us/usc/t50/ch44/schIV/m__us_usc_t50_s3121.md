@@ -35,7 +35,7 @@
 
  __Codification__ 
 
-    Section was formerly classified to [section 421 of this title][/us/usc/t50/s421] prior to editorial reclassification and renumbering in chapter 44 of this title.
+    Section was formerly classified to [section 421 of this title][/us/usc/t50/s421] prior to editorial reclassification and renumbering as this section.
 
  __Amendments__ 
 

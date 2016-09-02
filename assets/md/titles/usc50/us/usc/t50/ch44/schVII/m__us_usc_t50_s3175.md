@@ -19,7 +19,7 @@
 
  __Codification__ 
 
-    Section was formerly classified to section 441d of chapter 15 of this title and repealed prior to editorial reclassification and renumbering in chapter 44 of this title.
+    Section was formerly classified to [section 441d of this title][/us/usc/t50/s441d] and repealed prior to editorial reclassification and renumbering as this section.
 
 ----------
 
@@ -39,5 +39,6 @@
 [/us/stat/111/2252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2252
 [/us/pl/105/272/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F272%2Fs303
 [/us/stat/112/2400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2400
+[/us/usc/t50/s441d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs441d
 
 

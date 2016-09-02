@@ -21,7 +21,7 @@
 
  __Codification__ 
 
-    Section was formerly classified as a note under section 414 of chapter 15 of this title prior to editorial reclassification in chapter 45 of this title.
+    Section was formerly classified as a note under [section 414 of this title][/us/usc/t50/s414] prior to editorial reclassification as this section.
 
 ----------
 
@@ -32,5 +32,6 @@
 
 [/us/pl/102/172/s8089]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F172%2Fs8089
 [/us/stat/105/1193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1193
+[/us/usc/t50/s414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs414
 
 

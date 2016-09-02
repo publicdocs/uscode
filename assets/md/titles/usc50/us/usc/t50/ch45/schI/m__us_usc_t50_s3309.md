@@ -23,7 +23,7 @@
 
         (B) a list of members of each such advisory committee.
 
-    (2) __Report on reasons for odni exclusion of advisory committee from faca__ 
+    (2) __Report on reasons for ODNI exclusion of advisory committee from FACA__ 
 
         Each report submitted by the Director of National Intelligence in accordance with paragraph (1) shall include the reasons for a determination by the Director under section 4(b)(3) of the Federal Advisory Committee Act (5 U.S.C. App.), as added by subsection (a) of this section, that an advisory committee cannot comply with the requirements of such Act.
 
@@ -35,7 +35,7 @@
 
  __Codification__ 
 
-    Section was formerly classified as a note under section 405 of chapter 15 of this title prior to editorial reclassification in chapter 45 of this title.
+    Section was formerly classified as a note under [section 405 of this title][/us/usc/t50/s405] prior to editorial reclassification as this section.
 
  __Definition__ 
 
@@ -52,6 +52,7 @@
 [/us/stat/124/2725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2725
 [/us/pl/92/463/s4/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463%2Fs4%2Fb%2F3
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770
+[/us/usc/t50/s405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs405
 [/us/pl/111/259/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs2
 [/us/usc/t50/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3003
 

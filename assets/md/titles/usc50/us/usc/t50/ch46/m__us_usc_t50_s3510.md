@@ -35,7 +35,7 @@
 
  __Codification__ 
 
-    Section was formerly classified to section 403j of chapter 15 of this title prior to editorial reclassification and renumbering in chapter 46 of this title.
+    Section was formerly classified to [section 403j of this title][/us/usc/t50/s403j] prior to editorial reclassification and renumbering as this section.
 
     In subsec. (a)(1), “([5 U.S.C. 7901][/us/usc/t5/s7901])” substituted for “([5 U.S.C. 150][/us/usc/t5/s150])” on authority of [Pub. L. 89–554, § 7(b)][/us/pl/89/554/s7/b], Sept. 6, 1966, [80 Stat. 631][/us/stat/80/631], the first section of which enacted Title 5, Government Organization and Employees.
 
@@ -66,6 +66,7 @@
 [/us/stat/36/699]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F699
 [/us/pl/86/249/s17/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F249%2Fs17%2F12
 [/us/stat/73/485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F485
+[/us/usc/t50/s403j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs403j
 [/us/usc/t5/s7901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs7901
 [/us/usc/t5/s150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs150
 [/us/pl/89/554/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs7%2Fb

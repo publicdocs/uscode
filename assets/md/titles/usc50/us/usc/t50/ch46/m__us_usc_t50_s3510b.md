@@ -21,7 +21,7 @@
 
  __Codification__ 
 
-    Section was formerly classified as a note under section 403j of chapter 15 of this title prior to editorial reclassification in chapter 46 of this title.
+    Section was formerly classified as a note under [section 403j of this title][/us/usc/t50/s403j] prior to editorial reclassification as this section.
 
     Section was enacted as part of the Intelligence Authorization Act for Fiscal Year 1987, and not as part of the Central Intelligence Agency Act of 1949 which comprises this chapter.
 
@@ -40,6 +40,7 @@
 [/us/usc/t50/s3614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3614
 [/us/pl/99/569/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F569%2Fs506
 [/us/stat/100/3202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3202
+[/us/usc/t50/s403j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs403j
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
 [/us/usc/t50/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3001
 

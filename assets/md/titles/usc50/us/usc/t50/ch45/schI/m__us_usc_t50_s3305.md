@@ -25,7 +25,7 @@
 
  __Codification__ 
 
-    Section was formerly classified to section 415a–2 of chapter 15 of this title prior to editorial reclassification and renumbering in chapter 45 of this title.
+    Section was formerly classified to [section 415a–2 of this title][/us/usc/t50/s415a–2] prior to editorial reclassification and renumbering as this section.
 
  __Similar Provisions__ 
 
@@ -48,6 +48,7 @@ Provisions similar to those in this section were contained in the following appr
 
 [/us/pl/110/329/s8107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F329%2Fs8107
 [/us/stat/122/3644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3644
+[/us/usc/t50/s415a–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs415a%E2%80%932
 [/us/pl/113/6/s8087]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F6%2Fs8087
 [/us/stat/127/317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F317
 [/us/pl/112/74/s8090]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs8090

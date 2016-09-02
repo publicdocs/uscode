@@ -115,7 +115,7 @@
 
  __Codification__ 
 
-    Section was formerly classified to section 432d of chapter 15 of this title prior to editorial reclassification and renumbering in chapter 44 of this title.
+    Section was formerly classified to [section 432d of this title][/us/usc/t50/s432d] prior to editorial reclassification and renumbering as this section.
 
 ----------
 
@@ -135,5 +135,6 @@
 [/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
 [/us/pl/111/259/s408/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs408%2Fa
 [/us/stat/124/2722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2722
+[/us/usc/t50/s432d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs432d
 
 

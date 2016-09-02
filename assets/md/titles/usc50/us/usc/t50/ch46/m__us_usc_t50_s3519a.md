@@ -93,7 +93,7 @@
 
  __Codification__ 
 
-    Section was formerly classified to section 403x of chapter 15 of this title prior to editorial reclassification and renumbering in chapter 46 of this title, and as a note under [section 403–4 of this title][/us/usc/t50/s403–4] prior to editorial transfer to section 403x.
+    Section was formerly classified to [section 403x of this title][/us/usc/t50/s403x] prior to editorial reclassification and renumbering as this section, and as a note under [section 403–4 of this title][/us/usc/t50/s403–4] prior to editorial transfer to section 403x.
 
     Section was enacted as part of the Central Intelligence Agency Voluntary Separation Pay Act, and not as part of the Central Intelligence Agency Act of 1949 which comprises this chapter.
 
@@ -177,6 +177,7 @@
 [/us/stat/118/3691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3691
 [/us/pl/108/487/s401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F487%2Fs401%2Fa
 [/us/stat/118/3945]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3945
+[/us/usc/t50/s403x]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs403x
 [/us/usc/t50/s403–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs403%E2%80%934
 [/us/pl/108/458/s1071/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs1071%2Fd
 [/us/pl/108/487/s401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F487%2Fs401%2Fa

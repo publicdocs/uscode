@@ -93,7 +93,7 @@
 
  __Codification__ 
 
-    Section was formerly classified to section 415a–1 of chapter 15 of this title prior to editorial reclassification and renumbering in chapter 44 of this title.
+    Section was formerly classified to [section 415a–1 of this title][/us/usc/t50/s415a–1] prior to editorial reclassification and renumbering as this section.
 
  __Amendments__ 
 
@@ -177,6 +177,7 @@
 [/us/stat/124/2669]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2669
 [/us/pl/112/87/s306/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F87%2Fs306%2Fa
 [/us/stat/125/1881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1881
+[/us/usc/t50/s415a–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs415a%E2%80%931
 [/us/pl/112/87/s306/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F87%2Fs306%2Fa%2F1
 [/us/pl/112/87/s505/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F87%2Fs505%2F3
 [/us/pl/112/87/s306/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F87%2Fs306%2Fa%2F2

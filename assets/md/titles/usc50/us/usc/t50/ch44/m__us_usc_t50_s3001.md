@@ -25,7 +25,7 @@
 
  __Codification__ 
 
-    Section was formerly classified as a note under section 401 of chapter 15 of this title prior to editorial reclassification in chapter 44 of this title.
+    Section was formerly classified as a note under [section 401 of this title][/us/usc/t50/s401] prior to editorial reclassification as this section.
 
  __Change of Name__ 
 
@@ -2224,6 +2224,7 @@ Therefore, pursuant to the Constitution and the laws of the United States of Ame
 [/us/stat/61/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F495
 [/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
 [/us/stat/61/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F495
+[/us/usc/t50/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs401
 [/us/pl/108/458/s1081]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs1081
 [/us/stat/118/3696]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3696
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458

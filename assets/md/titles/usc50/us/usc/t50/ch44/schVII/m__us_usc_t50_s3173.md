@@ -21,7 +21,7 @@
 
  __Codification__ 
 
-    Section was formerly classified to section 441b of chapter 15 of this title prior to editorial reclassification and renumbering in chapter 44 of this title.
+    Section was formerly classified to [section 441b of this title][/us/usc/t50/s441b] prior to editorial reclassification and renumbering as this section.
 
  __Amendments__ 
 
@@ -43,6 +43,7 @@
 [/us/stat/109/964]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F964
 [/us/pl/107/306/s353/b/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306%2Fs353%2Fb%2F2%2FC
 [/us/stat/116/2402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2402
+[/us/usc/t50/s441b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs441b
 [/us/pl/107/306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306
 
 

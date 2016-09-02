@@ -41,7 +41,7 @@
 
  __Codification__ 
 
-    Section was formerly classified to section 404g of chapter 15 of this title prior to editorial reclassification and renumbering in chapter 44 of this title, and to [section 404d–1 of this title][/us/usc/t50/s404d–1] prior to renumbering by [Pub. L. 105–107][/us/pl/105/107]. Some section numbers of this title referenced in amendment notes below reflect the classification of such sections prior to their editorial reclassification.
+    Section was formerly classified to [section 404g of this title][/us/usc/t50/s404g] prior to editorial reclassification and renumbering as this section, and to [section 404d–1 of this title][/us/usc/t50/s404d–1] prior to renumbering by [Pub. L. 105–107][/us/pl/105/107]. Some section numbers of this title referenced in amendment notes below reflect the classification of such sections prior to their editorial reclassification.
 
  __Amendments__ 
 
@@ -100,6 +100,7 @@
 [/us/stat/118/3689]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3689
 [/us/pl/111/259/s347/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs347%2Fb
 [/us/stat/124/2698]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2698
+[/us/usc/t50/s404g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs404g
 [/us/usc/t50/s404d–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs404d%E2%80%931
 [/us/pl/105/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F107
 [/us/pl/111/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259

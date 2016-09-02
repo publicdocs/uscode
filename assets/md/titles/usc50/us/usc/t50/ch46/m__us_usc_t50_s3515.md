@@ -63,7 +63,7 @@
 
  __Codification__ 
 
-    Section was formerly classified to section 403o of chapter 15 of this title prior to editorial reclassification and renumbering in chapter 46 of this title.
+    Section was formerly classified to section 403o of this title prior to editorial reclassification and renumbering as this section.
 
     [Pub. L. 98–473, title I, § 140][/us/pl/98/473/s140] and [Pub. L. 98–618, title IV, § 401][/us/pl/98/618/s401], added substantially identical sections 15 to [act June 20, 1949, ch. 227][/us/act/1949-06-20/ch227]. This section is based on the section 15 of [act June 20, 1949, ch. 227][/us/act/1949-06-20/ch227], as added by [Pub. L. 98–618][/us/pl/98/618].
 

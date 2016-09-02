@@ -31,7 +31,7 @@
 
  __Codification__ 
 
-    Section was formerly classified as a note under section 435 of chapter 15 of this title prior to editorial reclassification in chapter 45 of this title.
+    Section was formerly classified as a note under [section 435 of this title][/us/usc/t50/s435] prior to editorial reclassification as this section.
 
 ----------
 
@@ -42,5 +42,6 @@
 
 [/us/pl/104/93/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F93%2Fs306
 [/us/stat/109/966]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F966
+[/us/usc/t50/s435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs435
 
 

@@ -61,7 +61,7 @@
 
  __Codification__ 
 
-    Section was formerly classified to section 409b–1 of chapter 15 of this title prior to editorial reclassification and renumbering in chapter 44 of this title.
+    Section was formerly classified to [section 409b–1 of this title][/us/usc/t50/s409b–1] prior to editorial reclassification and renumbering as this section.
 
     Section was enacted as part of the Intelligence Authorization Act for Fiscal Year 2004, and not as part of the National Security Act of 1947 which comprises this chapter.
 
@@ -79,5 +79,6 @@
 [/us/usc/t50/s3072]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3072
 [/us/pl/108/177/s311/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F177%2Fs311%2Fb
 [/us/stat/117/2605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2605
+[/us/usc/t50/s409b–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs409b%E2%80%931
 
 

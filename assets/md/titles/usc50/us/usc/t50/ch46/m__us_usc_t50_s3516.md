@@ -97,7 +97,7 @@
 
  __Codification__ 
 
-    Section was formerly classified to section 403p of chapter 15 of this title prior to editorial reclassification and renumbering in chapter 46 of this title.
+    Section was formerly classified to [section 403p of this title][/us/usc/t50/s403p] prior to editorial reclassification and renumbering as this section.
 
  __Amendments__ 
 
@@ -165,6 +165,7 @@
 [/us/stat/107/2031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2031
 [/us/pl/108/458/s1071/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs1071%2Fb%2F2%2FB
 [/us/stat/118/3690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3690
+[/us/usc/t50/s403p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs403p
 [/us/pl/108/458/s1071/b/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs1071%2Fb%2F3%2FB
 [/us/pl/108/458/s1071/b/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs1071%2Fb%2F3%2FC
 [/us/pl/108/458/s1071/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs1071%2Fb%2F2%2FB

@@ -27,7 +27,7 @@
 
  __Codification__ 
 
-    Section was formerly classified to section 441j of chapter 15 of this title prior to editorial reclassification and renumbering in chapter 44 of this title.
+    Section was formerly classified to [section 441j of this title][/us/usc/t50/s441j] prior to editorial reclassification and renumbering as this section.
 
  __Pilot Program for Intensive Language Instruction in African Languages__ 
 
@@ -69,6 +69,7 @@
 [/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
 [/us/pl/108/487/s612/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F487%2Fs612%2Fa%2F2
 [/us/stat/118/3955]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3955
+[/us/usc/t50/s441j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs441j
 [/us/pl/111/259/s314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs314
 [/us/stat/124/2666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2666
 [/us/usc/t50/s1903/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1903%2Fa
