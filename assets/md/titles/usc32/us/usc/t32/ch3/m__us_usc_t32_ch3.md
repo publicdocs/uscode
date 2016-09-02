@@ -241,26 +241,6 @@
 
     1958—[Pub. L. 85–861, § 2(8)][/us/pl/85/861/s2/8], Sept. 2, 1958, [72 Stat. 1544][/us/stat/72/1544], added items 309 and 310.
 
- __Removal of Restrictions on the Transfer of Officers Between the Active and Inactive National Guard__ 
-
-[Pub. L. 113–66, div. A, title V, § 512][/us/pl/113/66/s512], Dec. 26, 2013, [127 Stat. 752][/us/stat/127/752], provided that:
-
->     “(a)  __Army National Guard__  __.—__ 
-
->     During the period ending on December 31, 2016, under regulations prescribed by the Secretary of the Army:
-
->         “(1) An officer of the Army National Guard who fills a vacancy in a federally recognized unit of the Army National Guard may be transferred from the active Army National Guard to the inactive Army National Guard.
-
->         “(2) An officer of the Army National Guard transferred to the inactive Army National Guard pursuant to paragraph (1) may be transferred from the inactive Army National Guard to the active Army National Guard to fill a vacancy in a federally recognized unit.
-
->     “(b)  __Air National Guard__  __.—__ 
-
->     During the period ending on December 31, 2016, under regulations prescribed by the Secretary of the Air Force:
-
->         “(1) An officer of the Air National Guard who fills a vacancy in a federally recognized unit of the Air National Guard may be transferred from the active Air National Guard to the inactive Air National Guard.
-
->         “(2) An officer of the Air National Guard transferred to the inactive Air National Guard pursuant to paragraph (1) may be transferred from the inactive Air National Guard to the active Air National Guard to fill a vacancy in a federally recognized unit.”
-
 ----------
 
 [Previous](./../../../..//us/usc/t32/ch1/m__us_usc_t32_s115.md) | [Next](./../../../..//us/usc/t32/ch3/m__us_usc_t32_s301.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft32%2Fch3)
@@ -291,7 +271,5 @@
 [/us/stat/75/808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F808
 [/us/pl/85/861/s2/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs2%2F8
 [/us/stat/72/1544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1544
-[/us/pl/113/66/s512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs512
-[/us/stat/127/752]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F752
 
 
