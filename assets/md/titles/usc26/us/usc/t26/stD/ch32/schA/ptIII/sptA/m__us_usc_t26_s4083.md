@@ -63,7 +63,7 @@
 
     (b) __Commercial aviation__ 
 
-        For purposes of this subpart, the term “commercial aviation” means any use of an aircraft in a business of transporting persons or property for compensation or hire by air, unless properly allocable to any transportation exempt from the taxes imposed by sections 4261 and 4271 by reason of section 4281 or 4282 or by reason of subsection (h) or (i) of section 4261. Such term shall not include the use of any aircraft before October 1, 2015, if tax is imposed under section 4043 with respect to the fuel consumed in such use or if no tax is imposed on such use under section 4043 by reason of subsection (c)(5) thereof.
+        For purposes of this subpart, the term “commercial aviation” means any use of an aircraft in a business of transporting persons or property for compensation or hire by air, unless properly allocable to any transportation exempt from the taxes imposed by sections 4261 and 4271 by reason of section 4281 or 4282 or by reason of subsection (h) or (i) of section 4261. Such term shall not include the use of any aircraft before April 1, 2016, if tax is imposed under section 4043 with respect to the fuel consumed in such use or if no tax is imposed on such use under section 4043 by reason of subsection (c)(5) thereof.
 
     (c) __Certain uses defined as removal__ 
 
@@ -101,9 +101,11 @@
 
                 For additional assessable penalty for the refusal to admit entry or other refusal to permit an action by the Secretary authorized by paragraph (1), see section 6717.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 483][/us/stat/68A/483]; [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 99–514, title XVII, § 1703(a)][/us/pl/99/514/s1703/a], Oct. 22, 1986, [100 Stat. 2776][/us/stat/100/2776]; [Pub. L. 103–66, title XIII, § 13242(a)][/us/pl/103/66/s13242/a], Aug. 10, 1993, [107 Stat. 517][/us/stat/107/517]; [Pub. L. 105–34, title IX, § 902(b)(3)][/us/pl/105/34/s902/b/3], title X, § 1032(a), (e)(4), Aug. 5, 1997, [111 Stat. 873][/us/stat/111/873], 933, 935; [Pub. L. 105–206, title VI, § 6010(h)(1)][/us/pl/105/206/s6010/h/1], July 22, 1998, [112 Stat. 815][/us/stat/112/815]; [Pub. L. 108–357, title III, § 301(c)(8)][/us/pl/108/357/s301/c/8], title VIII, §§ 853(b), 858(a), 859(b)(1), 870(a), Oct. 22, 2004, [118 Stat. 1461][/us/stat/118/1461], 1611, 1617, 1618, 1623; [Pub. L. 109–59, title XI, § 11123(b)][/us/pl/109/59/s11123/b], Aug. 10, 2005, [119 Stat. 1952][/us/stat/119/1952]; [Pub. L. 112–95, title XI, § 1103(b)][/us/pl/112/95/s1103/b], Feb. 14, 2012, [126 Stat. 151][/us/stat/126/151].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 483][/us/stat/68A/483]; [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 99–514, title XVII, § 1703(a)][/us/pl/99/514/s1703/a], Oct. 22, 1986, [100 Stat. 2776][/us/stat/100/2776]; [Pub. L. 103–66, title XIII, § 13242(a)][/us/pl/103/66/s13242/a], Aug. 10, 1993, [107 Stat. 517][/us/stat/107/517]; [Pub. L. 105–34, title IX, § 902(b)(3)][/us/pl/105/34/s902/b/3], title X, § 1032(a), (e)(4), Aug. 5, 1997, [111 Stat. 873][/us/stat/111/873], 933, 935; [Pub. L. 105–206, title VI, § 6010(h)(1)][/us/pl/105/206/s6010/h/1], July 22, 1998, [112 Stat. 815][/us/stat/112/815]; [Pub. L. 108–357, title III, § 301(c)(8)][/us/pl/108/357/s301/c/8], title VIII, §§ 853(b), 858(a), 859(b)(1), 870(a), Oct. 22, 2004, [118 Stat. 1461][/us/stat/118/1461], 1611, 1617, 1618, 1623; [Pub. L. 109–59, title XI, § 11123(b)][/us/pl/109/59/s11123/b], Aug. 10, 2005, [119 Stat. 1952][/us/stat/119/1952]; [Pub. L. 112–95, title XI, § 1103(b)][/us/pl/112/95/s1103/b], Feb. 14, 2012, [126 Stat. 151][/us/stat/126/151]; [Pub. L. 114–55, title II, § 202(c)(1)][/us/pl/114/55/s202/c/1], Sept. 30, 2015, [129 Stat. 525][/us/stat/129/525].)
 
  __Amendments__ 
+
+    2015—Subsec. (b). [Pub. L. 114–55][/us/pl/114/55] substituted “April 1, 2016” for “October 1, 2015”.
 
     2012—Subsec. (b). [Pub. L. 112–95][/us/pl/112/95] inserted at end “Such term shall not include the use of any aircraft before October 1, 2015, if tax is imposed under section 4043 with respect to the fuel consumed in such use or if no tax is imposed on such use under section 4043 by reason of subsection (c)(5) thereof.”
 
@@ -212,6 +214,9 @@
 [/us/stat/119/1952]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1952
 [/us/pl/112/95/s1103/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs1103%2Fb
 [/us/stat/126/151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F151
+[/us/pl/114/55/s202/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F55%2Fs202%2Fc%2F1
+[/us/stat/129/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F525
+[/us/pl/114/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F55
 [/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
 [/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
 [/us/pl/108/357/s301/c/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs301%2Fc%2F8

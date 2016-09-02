@@ -275,7 +275,7 @@
 
  __References in Text__ 
 
-    Section 170(e)(6)(F)(i), referred to in subsec. (e)(3)(A)(iii), was repealed by [Pub. L. 113–295, title II, § 221(a)(28)(B)][/us/pl/113/295/s221/a/28/B], Dec. 19, 2014, [128 Stat. 4041][/us/stat/128/4041].
+    Section 170(e)(6)(F)(i), referred to in subsec. (e)(3)(A)(iii), was repealed by [Pub. L. 113–295, div. A, title II, § 221(a)(28)(B)][/us/pl/113/295/s221/a/28/B], Dec. 19, 2014, [128 Stat. 4041][/us/stat/128/4041].
 
     The date of the enactment of the Economic Growth and Tax Relief Reconciliation Act of 2001, referred to in subsec. (e)(3)(B)(ii)(I), is the date of enactment of [Pub. L. 107–16][/us/pl/107/16], which was approved June 7, 2001.
 

@@ -41,6 +41,10 @@
 
 > “For purposes of applying section 9035(a) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], as amended by subsection (a), expenditures made by an individual after January 29, 1976, and before the date of the enactment of this Act \[May 11, 1976\] shall not be taken into account.”
 
+ __Effective Date__ 
+
+    Section applicable with respect to taxable years beginning after Dec. 31, 1974, see [section 410(c)(1) of Pub. L. 93–443][/us/pl/93/443/s410/c/1], set out as an Effective Date of 1974 Amendment note under [section 30101 of Title 52][/us/usc/t52/s30101], Voting and Elections.
+
 ----------
 
 [Previous](./../../../../..//us/usc/t26/stH/ch96/m__us_usc_t26_s9034.md) | [Next](./../../../../..//us/usc/t26/stH/ch96/m__us_usc_t26_s9036.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs9035)
@@ -62,5 +66,7 @@
 [/us/stat/90/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F499
 [/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
+[/us/pl/93/443/s410/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443%2Fs410%2Fc%2F1
+[/us/usc/t52/s30101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30101
 
 

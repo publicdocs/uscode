@@ -1815,6 +1815,10 @@ The corresponding percentages shall be substituted for
 
  __Short Title of 2015 Amendment__ 
 
+[Pub. L. 114–55, § 1(a)][/us/pl/114/55/s1/a], Sept. 30, 2015, [129 Stat. 522][/us/stat/129/522], provided that: 
+
+> “This Act \[amending sections 4081, 4083, 4261, 4271, and 9502 of this title, sections 106, 41742, 47104, 47107, 47115, 47124, 47141, 48101 to 48103, and 48114 of Title 49, Transportation, [section 50905 of Title 51][/us/usc/t51/s50905], National and Commercial Space Programs, amending provisions set out as a note preceding [section 42301 of Title 49][/us/usc/t49/s42301], and provisions set out as notes under sections 41731 and 47141 of Title 49\] may be cited as the ‘Airport and Airway Extension Act of 2015’.”
+
 [Pub. L. 114–26, § 1][/us/pl/114/26/s1], June 29, 2015, [129 Stat. 319][/us/stat/129/319], provided that: 
 
 > “This Act \[see Tables for classification\] may be cited as the ‘Defending Public Safety Employees’ Retirement Act’.”
@@ -3528,6 +3532,10 @@ The corresponding percentages shall be substituted for
 [/us/stat/78/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F30
 [/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
+[/us/pl/114/55/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F55%2Fs1%2Fa
+[/us/stat/129/522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F522
+[/us/usc/t51/s50905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft51%2Fs50905
+[/us/usc/t49/s42301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs42301
 [/us/pl/114/26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F26%2Fs1
 [/us/stat/129/319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F319
 [/us/pl/114/14/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F14%2Fs1

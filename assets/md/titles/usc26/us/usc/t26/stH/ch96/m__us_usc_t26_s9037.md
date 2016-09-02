@@ -31,6 +31,10 @@
 
     1976—Subsec. (b). [Pub. L. 94–455][/us/pl/94/455] struck out “or his delegate” after “Secretary” in three places.
 
+ __Effective Date__ 
+
+    Section applicable with respect to taxable years beginning after Dec. 31, 1974, see [section 410(c)(1) of Pub. L. 93–443][/us/pl/93/443/s410/c/1], set out as an Effective Date of 1974 Amendment note under [section 30101 of Title 52][/us/usc/t52/s30101], Voting and Elections.
+
 ----------
 
 [Previous](./../../../../..//us/usc/t26/stH/ch96/m__us_usc_t26_s9036.md) | [Next](./../../../../..//us/usc/t26/stH/ch96/m__us_usc_t26_s9038.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs9037)
@@ -46,5 +50,7 @@
 [/us/stat/128/1085]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1085
 [/us/pl/113/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F94
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/93/443/s410/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443%2Fs410%2Fc%2F1
+[/us/usc/t52/s30101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30101
 
 

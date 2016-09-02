@@ -73,6 +73,10 @@
 
     Amendment by [section 306(b)(2) of Pub. L. 94–283][/us/pl/94/283/s306/b/2] effective May 11, 1976, see [section 306(c) of Pub. L. 94–283][/us/pl/94/283/s306/c], set out as a note under [section 9002 of this title][/us/usc/t26/s9002].
 
+ __Effective Date__ 
+
+    Section applicable with respect to taxable years beginning after Dec. 31, 1974, see [section 410(c)(1) of Pub. L. 93–443][/us/pl/93/443/s410/c/1], set out as an Effective Date of 1974 Amendment note under [section 30101 of Title 52][/us/usc/t52/s30101], Voting and Elections.
+
 ----------
 
 [Previous](./../../../../..//us/usc/t26/stH/ch96/m__us_usc_t26_s9032.md) | [Next](./../../../../..//us/usc/t26/stH/ch96/m__us_usc_t26_s9034.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs9033)
@@ -89,5 +93,7 @@
 [/us/pl/94/283/s306/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F283%2Fs306%2Fb%2F2
 [/us/pl/94/283/s306/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F283%2Fs306%2Fc
 [/us/usc/t26/s9002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs9002
+[/us/pl/93/443/s410/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443%2Fs410%2Fc%2F1
+[/us/usc/t52/s30101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30101
 
 

@@ -901,13 +901,11 @@
 
                 (ii) __Approval of suspension of benefits__ 
 
-                    (I) __Timing of action.—__ 
+                    (I) __Timing of action__ 
 
-                    An action challenging a suspension of benefits under this paragraph may only be brought following a final authorization to suspend by the Secretary of the Treasury, in consultation with the Pension Benefit Guaranty Corporation and the Secretary of Labor, under subparagraph (H)(vi).
+                        An action challenging a suspension of benefits under this paragraph may only be brought following a final authorization to suspend by the Secretary of the Treasury, in consultation with the Pension Benefit Guaranty Corporation and the Secretary of Labor, under subparagraph (H)(vi).
 
-                    (II)
-
-                     Standards of review
+                    (II) __Standards of review__ 
 
                         (aa) __In general__ 
 

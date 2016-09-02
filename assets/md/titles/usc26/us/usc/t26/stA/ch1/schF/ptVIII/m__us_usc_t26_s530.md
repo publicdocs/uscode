@@ -233,7 +233,7 @@
 
  __References in Text__ 
 
-    Section 170(e)(6)(F)(i), referred to in subsec. (b)(3)(A)(iii), was repealed by [Pub. L. 113–295, title II, § 221(a)(28)(B)][/us/pl/113/295/s221/a/28/B], Dec. 19, 2014, [128 Stat. 4041][/us/stat/128/4041].
+    Section 170(e)(6)(F)(i), referred to in subsec. (b)(3)(A)(iii), was repealed by [Pub. L. 113–295, div. A, title II, § 221(a)(28)(B)][/us/pl/113/295/s221/a/28/B], Dec. 19, 2014, [128 Stat. 4041][/us/stat/128/4041].
 
     The date of the enactment of this section, referred to in subsec. (d)(4)(B)(iv), is the date of enactment of [Pub. L. 105–34][/us/pl/105/34], which enacted this section and was approved Aug. 5, 1997.
 
