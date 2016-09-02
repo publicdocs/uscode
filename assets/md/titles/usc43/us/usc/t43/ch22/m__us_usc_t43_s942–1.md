@@ -29,8 +29,6 @@
 
     [Section 10762 of title 49][/us/usc/t49/s10762], referred to in text, was omitted in the general amendment of subtitle IV of Title 49, Transportation, by [Pub. L. 104–88, title I, § 102(a)][/us/pl/104/88/s102/a], Dec. 29, 1995, [109 Stat. 804][/us/stat/109/804]. Previously, “[section 10762 of title 49][/us/usc/t49/s10762]” was substituted in text for “section 6 of an Act to regulate commerce as amended on March second, eighteen hundred and eighty-nine \[[49 U.S.C. 6][/us/usc/t49/s6]\]” on authority of [Pub. L. 95–473, § 3(b)][/us/pl/95/473/s3/b], Oct. 17, 1978, [92 Stat. 1466][/us/stat/92/1466], the first section of which enacted subtitle IV of Title 49.
 
- __Codification__ 
-
     Section was formerly classified to [section 411 of Title 48][/us/usc/t48/s411], Territories and Insular Possessions.
 
  __Short Title__ 

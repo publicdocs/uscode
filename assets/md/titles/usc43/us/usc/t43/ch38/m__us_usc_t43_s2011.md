@@ -29,10 +29,6 @@
 
 ([Pub. L. 95–617, title V, § 511][/us/pl/95/617/s511], Nov. 9, 1978, [92 Stat. 3163][/us/stat/92/3163]; [Pub. L. 98–620, title IV, § 402(45)][/us/pl/98/620/s402/45], Nov. 8, 1984, [98 Stat. 3360][/us/stat/98/3360].)
 
- __References in Text__ 
-
-    The date this chapter becomes effective, referred to in subsec. (c), means the date of enactment of title V of [Pub. L. 95–617][/us/pl/95/617], which was approved Nov. 9, 1978.
-
  __Amendments__ 
 
     1984—Subsec. (c). [Pub. L. 98–620][/us/pl/98/620] struck out provision that any such proceeding had to be assigned for hearing at the earliest possible date and had to be expedited by the court.
@@ -58,7 +54,6 @@
 [/us/stat/92/3163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3163
 [/us/pl/98/620/s402/45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2Fs402%2F45
 [/us/stat/98/3360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3360
-[/us/pl/95/617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F617
 [/us/pl/98/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620
 [/us/pl/98/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620
 [/us/pl/98/620/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2Fs403

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t43/ch12/schI/m__us_usc_t43_s373f.md) | [Next](./../../../../..//us/usc/t43/ch12/schI/m__us_usc_t43_s375.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs374)
+[Previous](./../../../../..//us/usc/t43/ch12/schI/m__us_usc_t43_s373e.md) | [Next](./../../../../..//us/usc/t43/ch12/schI/m__us_usc_t43_s375.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs374)
 
 ## § 374. Sale of lands acquired in connection with irrigation project
 
@@ -29,7 +29,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t43/ch12/schI/m__us_usc_t43_s373f.md) | [Next](./../../../../..//us/usc/t43/ch12/schI/m__us_usc_t43_s375.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs374)
+[Previous](./../../../../..//us/usc/t43/ch12/schI/m__us_usc_t43_s373e.md) | [Next](./../../../../..//us/usc/t43/ch12/schI/m__us_usc_t43_s375.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs374)
 
 ----------
 ----------
