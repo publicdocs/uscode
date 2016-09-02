@@ -101,7 +101,7 @@
 
         (1)  __Establishment and funding__  __.—__ 
 
-        Notwithstanding the apportionment formula set forth in section 402(c)(2), $2,500,000 of the total amount available for apportionment to the States for highway safety programs under subsection  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “section”. </sup></sup>  402(c) in each fiscal year ending before October 1, 2015, and $198,087 of the total amount available for apportionment to the States for highway safety programs under section 402(c) in the period beginning on October 1, 2015, and ending on October 29, 2015, shall be available for expenditure by the Secretary, acting through the Administrator of the National Highway Traffic Safety Administration, for a cooperative research and evaluation program to research and evaluate priority highway safety countermeasures.
+        Notwithstanding the apportionment formula set forth in section 402(c)(2), $2,500,000 of the total amount available for apportionment to the States for highway safety programs under subsection  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “section”. </sup></sup>  402(c) in each fiscal year ending before October 1, 2015, and $348,361 of the total amount available for apportionment to the States for highway safety programs under section 402(c) in the period beginning on October 1, 2015, and ending on November 20, 2015, shall be available for expenditure by the Secretary, acting through the Administrator of the National Highway Traffic Safety Administration, for a cooperative research and evaluation program to research and evaluate priority highway safety countermeasures.
 
         (2)  __Administration__  __.—__ 
 
@@ -149,7 +149,7 @@
 
             The term “legal limit” means a blood alcohol concentration of 0.08 percent or greater (as set forth in section 163(a)) or such other percentage limitation as may be established by applicable Federal, State, or local law.
 
-(Added [Pub. L. 89–564, title I, § 101][/us/pl/89/564/s101], Sept. 9, 1966, [80 Stat. 733][/us/stat/80/733]; amended [Pub. L. 93–87, title II][/us/pl/93/87], §§ 208(a), 220–222, 226(a), Aug. 13, 1973, [87 Stat. 286][/us/stat/87/286], 291, 292; [Pub. L. 102–240, title II, § 2003][/us/pl/102/240/s2003], Dec. 18, 1991, [105 Stat. 2071][/us/stat/105/2071]; [Pub. L. 105–178, title II, § 2002(a)][/us/pl/105/178/s2002/a], (b)(1), June 9, 1998, [112 Stat. 325][/us/stat/112/325]; [Pub. L. 109–59, title II][/us/pl/109/59], §§ 2003(a), (b), 2013(e), Aug. 10, 2005, [119 Stat. 1522][/us/stat/119/1522], 1540; [Pub. L. 112–141, div. C, title I, § 31103][/us/pl/112/141/s31103], July 6, 2012, [126 Stat. 739][/us/stat/126/739]; [Pub. L. 113–159, title I, § 1101(b)][/us/pl/113/159/s1101/b], Aug. 8, 2014, [128 Stat. 1843][/us/stat/128/1843]; [Pub. L. 114–21, title I, § 1101(b)][/us/pl/114/21/s1101/b], May 29, 2015, [129 Stat. 221][/us/stat/129/221]; [Pub. L. 114–41, title I, § 1101(b)][/us/pl/114/41/s1101/b], July 31, 2015, [129 Stat. 448][/us/stat/129/448].)
+(Added [Pub. L. 89–564, title I, § 101][/us/pl/89/564/s101], Sept. 9, 1966, [80 Stat. 733][/us/stat/80/733]; amended [Pub. L. 93–87, title II][/us/pl/93/87], §§ 208(a), 220–222, 226(a), Aug. 13, 1973, [87 Stat. 286][/us/stat/87/286], 291, 292; [Pub. L. 102–240, title II, § 2003][/us/pl/102/240/s2003], Dec. 18, 1991, [105 Stat. 2071][/us/stat/105/2071]; [Pub. L. 105–178, title II, § 2002(a)][/us/pl/105/178/s2002/a], (b)(1), June 9, 1998, [112 Stat. 325][/us/stat/112/325]; [Pub. L. 109–59, title II][/us/pl/109/59], §§ 2003(a), (b), 2013(e), Aug. 10, 2005, [119 Stat. 1522][/us/stat/119/1522], 1540; [Pub. L. 112–141, div. C, title I, § 31103][/us/pl/112/141/s31103], July 6, 2012, [126 Stat. 739][/us/stat/126/739]; [Pub. L. 113–159, title I, § 1101(b)][/us/pl/113/159/s1101/b], Aug. 8, 2014, [128 Stat. 1843][/us/stat/128/1843]; [Pub. L. 114–21, title I, § 1101(b)][/us/pl/114/21/s1101/b], May 29, 2015, [129 Stat. 221][/us/stat/129/221]; [Pub. L. 114–41, title I, § 1101(b)][/us/pl/114/41/s1101/b], July 31, 2015, [129 Stat. 448][/us/stat/129/448]; [Pub. L. 114–73, title I, § 1101(b)][/us/pl/114/73/s1101/b], Oct. 29, 2015, [129 Stat. 571][/us/stat/129/571].)
 
  __References in Text__ 
 
@@ -157,7 +157,9 @@
 
  __Amendments__ 
 
-    2015—Subsec. (f)(1). [Pub. L. 114–41][/us/pl/114/41] substituted “each fiscal year ending before October 1, 2015, and $198,087 of the total amount available for apportionment to the States for highway safety programs under section 402(c) in the period beginning on October 1, 2015, and ending on October 29, 2015,” for “each fiscal year ending before October 1, 2014, and $2,082,192 of the total amount available for apportionment to the States for highway safety programs under section 402(c) in the period beginning on October 1, 2014, and ending on July 31, 2015,”.
+    2015—Subsec. (f)(1). [Pub. L. 114–73][/us/pl/114/73] substituted “and $348,361 of the total amount available for apportionment to the States for highway safety programs under section 402(c) in the period beginning on October 1, 2015, and ending on November 20, 2015,” for “and $198,087 of the total amount available for apportionment to the States for highway safety programs under section 402(c) in the period beginning on October 1, 2015, and ending on October 29, 2015,”.
+
+    [Pub. L. 114–41][/us/pl/114/41] substituted “each fiscal year ending before October 1, 2015, and $198,087 of the total amount available for apportionment to the States for highway safety programs under section 402(c) in the period beginning on October 1, 2015, and ending on October 29, 2015,” for “each fiscal year ending before October 1, 2014, and $2,082,192 of the total amount available for apportionment to the States for highway safety programs under section 402(c) in the period beginning on October 1, 2014, and ending on July 31, 2015,”.
 
     [Pub. L. 114–21][/us/pl/114/21] substituted “and $2,082,192 of the total amount available for apportionment to the States for highway safety programs under section 402(c) in the period beginning on October 1, 2014, and ending on July 31, 2015,” for “and $1,664,384 of the total amount available for apportionment to the States for highway safety programs under section 402(c) in the period beginning on October 1, 2014, and ending on May 31, 2015,”.
 
@@ -473,9 +475,12 @@
 [/us/stat/129/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F221
 [/us/pl/114/41/s1101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F41%2Fs1101%2Fb
 [/us/stat/129/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F448
+[/us/pl/114/73/s1101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F73%2Fs1101%2Fb
+[/us/stat/129/571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F571
 [/us/pl/96/480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F480
 [/us/stat/94/2311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2311
 [/us/usc/t15/s3701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3701
+[/us/pl/114/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F73
 [/us/pl/114/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F41
 [/us/pl/114/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F21
 [/us/pl/113/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F159

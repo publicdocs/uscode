@@ -529,11 +529,11 @@
 
 >         “(1)  __Development__  __.—__ 
 
->         The Secretary \[of Transportation\] shall develop a nationwide programmatic agreement governing the review of activities that support the deployment of intelligent transportation infrastructure and systems in accordance with section 106 of the National Historic Preservation Act ([16 U.S.C. 470f][/us/usc/t16/s470f]) \[see [54 U.S.C. 306108][/us/usc/t54/s306108]\] and the regulations of the Advisory Council on Historic Preservation.
+>         The Secretary \[of Transportation\] shall develop a nationwide programmatic agreement governing the review of activities that support the deployment of intelligent transportation infrastructure and systems in accordance with section 106 of the National Historic Preservation Act (\[former\] [16 U.S.C. 470f][/us/usc/t16/s470f]) \[see [54 U.S.C. 306108][/us/usc/t54/s306108]\] and the regulations of the Advisory Council on Historic Preservation.
 
 >         “(2)  __Consultation__  __.—__ 
 
->         The Secretary shall develop the agreement under paragraph (1) in consultation with the National Conference of State Historic Preservation Officers and the Advisory Council on Historic Preservation established under title II of the National Historic Preservation Act ([26 U.S.C. 470i][/us/usc/t26/s470i] et seq.) and after soliciting the views of other interested parties.
+>         The Secretary shall develop the agreement under paragraph (1) in consultation with the National Conference of State Historic Preservation Officers and the Advisory Council on Historic Preservation established under title II of the National Historic Preservation Act (26 \[sic\] U.S.C. 470i et seq. \[former [16 U.S.C. 470i][/us/usc/t16/s470i] et seq., see [54 U.S.C. 304101][/us/usc/t54/s304101] et seq.\]) and after soliciting the views of other interested parties.
 
 >     “(c)  __Intelligent Transportation Infrastructure and Systems Defined__  __.—__ 
 
@@ -583,7 +583,8 @@
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
 [/us/usc/t16/s470f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs470f
 [/us/usc/t54/s306108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs306108
-[/us/usc/t26/s470i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs470i
+[/us/usc/t16/s470i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs470i
+[/us/usc/t54/s304101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs304101
 [/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
 [/us/usc/t23/s513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs513
 
