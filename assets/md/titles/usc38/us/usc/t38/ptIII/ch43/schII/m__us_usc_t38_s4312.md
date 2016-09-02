@@ -41,7 +41,7 @@
 
          performed by a member of a uniformed service who is—
 
-            (A) ordered to or retained on active duty under section 688, 12301(a), 12301(g), 12302, 12304, or 12305 of title 10 or under section 331, 332, 359, 360, 367, or 712 of title 14;
+            (A) ordered to or retained on active duty under section 688, 12301(a), 12301(g), 12302, 12304, 12304a, 12304b, or 12305 of title 10 or under section 331, 332, 359, 360, 367, or 712 of title 14;
 
             (B) ordered to or retained on active duty (other than for training) under any provision of law because of a war or national emergency declared by the President or the Congress, as determined by the Secretary concerned;
 
@@ -131,13 +131,15 @@
 
     (h) In any determination of a person’s entitlement to protection under this chapter, the timing, frequency, and duration of the person’s training or service, or the nature of such training or service (including voluntary service) in the uniformed services, shall not be a basis for denying protection of this chapter if the service does not exceed the limitations set forth in subsection (c) and the notice requirements established in subsection (a)(1) and the notification requirements established in subsection (e) are met.
 
-(Added [Pub. L. 103–353, § 2(a)][/us/pl/103/353/s2/a], Oct. 13, 1994, [108 Stat. 3153][/us/stat/108/3153]; amended [Pub. L. 104–275, title III, § 311(4)][/us/pl/104/275/s311/4], Oct. 9, 1996, [110 Stat. 3334][/us/stat/110/3334]; [Pub. L. 112–81, div. A, title V, § 575][/us/pl/112/81/s575], Dec. 31, 2011, [125 Stat. 1428][/us/stat/125/1428].)
+(Added [Pub. L. 103–353, § 2(a)][/us/pl/103/353/s2/a], Oct. 13, 1994, [108 Stat. 3153][/us/stat/108/3153]; amended [Pub. L. 104–275, title III, § 311(4)][/us/pl/104/275/s311/4], Oct. 9, 1996, [110 Stat. 3334][/us/stat/110/3334]; [Pub. L. 112–81, div. A, title V, § 575][/us/pl/112/81/s575], Dec. 31, 2011, [125 Stat. 1428][/us/stat/125/1428]; [Pub. L. 114–92, div. A, title V, § 562][/us/pl/114/92/s562], Nov. 25, 2015, [129 Stat. 829][/us/stat/129/829].)
 
  __Prior Provisions__ 
 
     A prior section 4312 was renumbered [section 7612 of this title][/us/usc/t38/s7612].
 
  __Amendments__ 
+
+    2015—Subsec. (c)(4)(A). [Pub. L. 114–92][/us/pl/114/92] inserted “12304a, 12304b,” after “12304,”.
 
     2011—Subsec. (c)(4)(F). [Pub. L. 112–81][/us/pl/112/81] added subpar. (F).
 
@@ -180,7 +182,10 @@
 [/us/stat/110/3334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3334
 [/us/pl/112/81/s575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs575
 [/us/stat/125/1428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1428
+[/us/pl/114/92/s562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs562
+[/us/stat/129/829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F829
 [/us/usc/t38/s7612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7612
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
 [/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
 [/us/pl/104/275/s311/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275%2Fs311%2F4%2FA
 [/us/pl/104/275/s311/4/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275%2Fs311%2F4%2FB%2Fi

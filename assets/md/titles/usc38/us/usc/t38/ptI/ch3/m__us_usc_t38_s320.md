@@ -31,7 +31,7 @@
 
         (1) The Deputy Secretary of Veterans Affairs and the Under Secretary of Defense shall determine the size and structure of the Committee, as well as the administrative and procedural guidelines for the operation of the Committee.
 
-        (2) The two Departments shall supply appropriate staff and resources to provide administrative support and services. Support for such purposes shall be provided at a level sufficient for the efficient operation of the Committee, including a subordinate Health Executive Committee, a subordinate Benefits Executive Committee, and such other committees or working groups as considered necessary by the Deputy Secretary and Under Secretary.
+        (2) The two Departments shall supply appropriate staff and resources to provide administrative support and services. Support for such purposes shall be provided at a level sufficient for the efficient operation of the Committee, including a subordinate Health Executive Committee, a subordinate Benefits Executive Committee, a subordinate Job Training and Post-Service Placement Executive Committee, and such other committees or working groups as considered necessary by the Deputy Secretary and Under Secretary.
 
     (c)  __Recommendations__  __.—__ 
 
@@ -45,7 +45,7 @@
 
         (1) Review existing policies, procedures, and practices relating to the coordination and sharing of resources between the two Departments.
 
-        (2) Identify changes in policies, procedures, and practices that, in the judgment of the Committee, would promote mutually beneficial coordination, use, or exchange of use of services and resources of the two Departments, with the goal of improving the quality, efficiency and effectiveness of the delivery of benefits and services to veterans, service members, military retirees, and their families through an enhanced Department of Veterans Affairs and Department of Defense partnership.
+        (2) Identify changes in policies, procedures, and practices that, in the judgment of the Committee, would promote mutually beneficial coordination, use, or exchange of use of services and resources of the two Departments, with the goal of improving the quality, efficiency and effectiveness of the delivery of benefits and services to veterans, service members, military retirees, and their families through an enhanced Department of Veterans Affairs and Department of Defense partnership, including with respect to job training and post-service placement.
 
         (3) Identify and assess further opportunities for the coordination and collaboration between the Departments that, in the judgment of the Committee, would not adversely affect the range of services, the quality of care, or the established priorities for benefits provided by either Department.
 
@@ -53,7 +53,23 @@
 
         (5) Review the implementation of activities designed to promote the coordination and sharing of resources between the Departments.
 
-(Added [Pub. L. 108–136, div. A, title V, § 583(a)(1)][/us/pl/108/136/s583/a/1], Nov. 24, 2003, [117 Stat. 1490][/us/stat/117/1490].)
+    (e)  __Job Training and Post-Service Placement Executive Committee__  __.—__ 
+
+    The Job Training and Post-Service Placement Executive Committee described in subsection (b)(2) shall—
+
+        (1) review existing policies, procedures, and practices of the Departments (including the military departments) with respect to job training and post-service placement programs; and
+
+        (2) identify changes to such policies, procedures, and practices to improve job training and post-service placement.
+
+(Added [Pub. L. 108–136, div. A, title V, § 583(a)(1)][/us/pl/108/136/s583/a/1], Nov. 24, 2003, [117 Stat. 1490][/us/stat/117/1490]; amended [Pub. L. 114–92, div. A, title V, § 561][/us/pl/114/92/s561], Nov. 25, 2015, [129 Stat. 828][/us/stat/129/828].)
+
+ __Amendments__ 
+
+    2015—Subsec. (b)(2). [Pub. L. 114–92, § 561(1)][/us/pl/114/92/s561/1], inserted “a subordinate Job Training and Post-Service Placement Executive Committee,” before “such other committees”.
+
+    Subsec. (d)(2). [Pub. L. 114–92, § 561(3)][/us/pl/114/92/s561/3], inserted “, including with respect to job training and post-service placement” before period at end.
+
+    Subsec. (e). [Pub. L. 114–92, § 561(2)][/us/pl/114/92/s561/2], added subsec. (e).
 
  __Effective Date__ 
 
@@ -83,6 +99,11 @@
 [/us/usc/t38/s8111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs8111
 [/us/pl/108/136/s583/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs583%2Fa%2F1
 [/us/stat/117/1490]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1490
+[/us/pl/114/92/s561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs561
+[/us/stat/129/828]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F828
+[/us/pl/114/92/s561/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs561%2F1
+[/us/pl/114/92/s561/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs561%2F3
+[/us/pl/114/92/s561/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs561%2F2
 [/us/pl/108/136/s583/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs583%2Fd%2F2
 [/us/stat/117/1492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1492
 [/us/usc/t38/s8111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs8111

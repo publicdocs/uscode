@@ -135,7 +135,7 @@
 
  __Center of Excellence in the Mitigation, Treatment, and Rehabilitation of Traumatic Extremity Injuries and Amputations__ 
 
-[Pub. L. 110–417][/us/pl/110/417], \[div. A\], title VII, § 723, Oct. 14, 2008, [122 Stat. 4508][/us/stat/122/4508], provided that:
+[Pub. L. 110–417][/us/pl/110/417], \[div. A\], title VII, § 723, Oct. 14, 2008, [122 Stat. 4508][/us/stat/122/4508], as amended by [Pub. L. 114–92, div. A, title X, § 1079(d)(2)][/us/pl/114/92/s1079/d/2], Nov. 25, 2015, [129 Stat. 999][/us/stat/129/999], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -153,21 +153,7 @@
 
 >         “(2) To conduct research to develop scientific information aimed at saving injured extremities, avoiding amputations, and preserving and restoring the function of injured extremities. Such research shall address military medical needs and include the full range of scientific inquiry encompassing basic, translational, and clinical research.
 
->         “(3) To carry out such other activities to improve and enhance the efforts of the Department of Defense and the Department of Veterans Affairs for the mitigation, treatment, and rehabilitation of traumatic extremity injuries and amputations as the Secretary of Defense and the Secretary of Veterans Affairs consider appropriate.
-
->     “(d) __Reports.—__ 
-
->         “(1)  __In general__  __.—__ 
-
->         Not later than one year after the date of the enactment of this Act \[Oct. 14, 2008\], and annually thereafter, the Secretary of Defense and the Secretary of Veterans Affairs shall jointly submit to Congress a report on the activities of the center.
-
->         “(2)  __Elements__  __.—__ 
-
->         Each report under this subsection shall include the following:
-
->             “(A) In the case of the first report under this subsection, a description of the implementation of the requirements of this Act.
-
->             “(B) A description and assessment of the activities of the center during the one-year period ending on the date of such report, including an assessment of the role of such activities in improving and enhancing the efforts of the Department of Defense and the Department of Veterans Affairs for the mitigation, treatment, and rehabilitation of traumatic extremity injuries and amputations.”
+>         “(3) To carry out such other activities to improve and enhance the efforts of the Department of Defense and the Department of Veterans Affairs for the mitigation, treatment, and rehabilitation of traumatic extremity injuries and amputations as the Secretary of Defense and the Secretary of Veterans Affairs consider appropriate.”
 
  __Designation of Centers__ 
 
@@ -187,6 +173,8 @@
 [/us/stat/118/2383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2383
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4508
+[/us/pl/114/92/s1079/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1079%2Fd%2F2
+[/us/stat/129/999]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F999
 [/us/pl/108/422/s302/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F422%2Fs302%2Fb
 [/us/stat/118/2385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2385
 [/us/usc/t38/s7327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7327

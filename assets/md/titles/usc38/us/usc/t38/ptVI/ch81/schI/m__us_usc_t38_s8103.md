@@ -115,6 +115,18 @@
 
 >     “(2) Any super construction project (as defined in [section 8103(e)(3) of title 38][/us/usc/t38/s8103/e/3], United States Code, as added by subsection (a)) that is authorized on or after the date of the enactment of this Act \[Sept. 30, 2015\].”
 
+ __Designation of Construction Agent for Certain Construction Projects by Department of Veterans Affairs__ 
+
+[Pub. L. 114–92, div. A, title X, § 1096][/us/pl/114/92/s1096], Nov. 25, 2015, [129 Stat. 1020][/us/stat/129/1020], provided that:
+
+>     “(a)  __In General__  __.—__ 
+
+>     The Secretary of Veterans Affairs shall seek to enter into an agreement subject to subsections (b), (c), and (e) of [section 1535 of title 31][/us/usc/t31/s1535], United States Code, with the Army Corps of Engineers or another entity of the Federal Government to serve, on a reimbursable basis, as the construction agent for the construction, alteration, or acquisition of any medical facility of the Department of Veterans Affairs specifically authorized by Congress after the date of the enactment of this Act \[Nov. 25, 2015\] that involves a total expenditure of more than $100,000,000, excluding any acquisition by exchange.
+
+>     “(b)  __Agreement__  __.—__ 
+
+>     Under the agreement entered into under subsection (a), the construction agent shall provide design, procurement, and construction management services for the construction, alteration, and acquisition of medical facilities of the Department.”
+
  __Development of Medical-Facility Modular Components__ 
 
     [Pub. L. 99–166, title III, § 304][/us/pl/99/166/s304], Dec. 3, 1985, [99 Stat. 956][/us/stat/99/956], directed Administrator of Veterans’ Affairs, not later than one year after Dec. 3, 1985, to develop a modular approach to planning and design of an appropriate Veterans’ Administration medical facility for furnishing of hospital care.
@@ -154,6 +166,9 @@
 [/us/pl/114/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F19
 [/us/stat/129/215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F215
 [/us/usc/t38/s8103/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs8103%2Fe%2F3
+[/us/pl/114/92/s1096]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1096
+[/us/stat/129/1020]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1020
+[/us/usc/t31/s1535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1535
 [/us/pl/99/166/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F166%2Fs304
 [/us/stat/99/956]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F956
 

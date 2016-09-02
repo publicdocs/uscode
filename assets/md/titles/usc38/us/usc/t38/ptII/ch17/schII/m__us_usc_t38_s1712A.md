@@ -343,7 +343,7 @@
 
  __Pilot Program on Community Outreach__ 
 
-[Pub. L. 114–2, § 5][/us/pl/114/2/s5], Feb. 12, 2015, [129 Stat. 34][/us/stat/129/34], provided that:
+[Pub. L. 114–2, § 5][/us/pl/114/2/s5], Feb. 12, 2015, [129 Stat. 34][/us/stat/129/34], as amended by [Pub. L. 114–92, div. A, title V, § 563(a)][/us/pl/114/92/s563/a], Nov. 25, 2015, [129 Stat. 829][/us/stat/129/829], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -389,9 +389,11 @@
 
 >             “(B) establishes a veteran transition advisory group to facilitate outreach activities;
 
->             “(C) includes the participation of appropriate community organizations, State and local governments, colleges and universities, chambers of commerce and other local business organizations, and organizations that provide legal aid or advice; and
+>             “(C) includes the participation of appropriate community organizations, State and local governments, colleges and universities, chambers of commerce and other local business organizations, and organizations that provide legal aid or advice;
 
->             “(D) coordinates with the Veterans Integrated Service Network regarding the Veterans Integrated Service Network carrying out an annual mental health summit to assess the status of veteran mental health care in the community and to develop new or innovative means to provide mental health services to veterans.
+>             “(D) coordinates with the Veterans Integrated Service Network regarding the Veterans Integrated Service Network carrying out an annual mental health summit to assess the status of veteran mental health care in the community and to develop new or innovative means to provide mental health services to veterans; and
+
+>             “(E) conducts outreach to individuals transitioning from serving on active duty in the Armed Forces who are participating in the Transition Assistance Program of the Department of Defense or other similar transition programs to inform such individuals of the community oriented veteran peer support network under paragraph (1) and other support programs and opportunities that are available to such individuals.
 
 >     “(d) __Reports.—__ 
 
@@ -403,9 +405,17 @@
 
 >             “(B) recommendations on implementing peer support networks throughout the Department;
 
->             “(C) whether the mental health resources made available under the pilot program for members of the reserve components of the Armed Forces is effective; and
+>             “(C) whether the mental health resources made available under the pilot program for members of the reserve components of the Armed Forces is effective;
 
->             “(D) a full description of the activities and effectiveness of community outreach coordinating teams under the pilot program, including partnerships that have been established with appropriate entities.
+>             “(D) a full description of the activities and effectiveness of community outreach coordinating teams under the pilot program, including partnerships that have been established with appropriate entities; and
+
+>             “(E)
+
+>              the number of veterans who—
+
+>                 “(i) received outreach from the Department of Veterans Affairs while serving on active duty as a member of the Armed Forces; and
+
+>                 “(ii) participated in a peer support program under the pilot program for veterans transitioning from serving on active duty.
 
 >         “(2)  __Final report__  __.—__ 
 
@@ -418,6 +428,8 @@
 >     “(f)  __Termination__  __.—__ 
 
 >     The authority of the Secretary to carry out the pilot program under subsection (a) shall terminate on the date that is 3 years after the date on which the pilot program commences.”
+
+    \[[Pub. L. 114–92, div. A, title V, § 563(a)][/us/pl/114/92/s563/a], Nov. 25, 2015, [129 Stat. 829][/us/stat/129/829], which directed amendment of section “5(c)(5)” of [Pub. L. 114–2][/us/pl/114/2], was executed to section (5)(c)(2) of [Pub. L. 114–2][/us/pl/114/2], set out above, to reflect the probable intent of Congress.\]
 
  __Participation of Members of the Armed Forces in Peer Support Counseling Programs of the Department of Veterans Affairs__ 
 
@@ -1537,6 +1549,12 @@
 [/us/usc/t38/s1720F/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1720F%2Fi
 [/us/pl/114/2/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F2%2Fs5
 [/us/stat/129/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F34
+[/us/pl/114/92/s563/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs563%2Fa
+[/us/stat/129/829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F829
+[/us/pl/114/92/s563/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs563%2Fa
+[/us/stat/129/829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F829
+[/us/pl/114/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F2
+[/us/pl/114/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F2
 [/us/pl/112/239/s724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs724
 [/us/stat/126/1805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1805
 [/us/usc/t38/s1720F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1720F

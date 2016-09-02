@@ -31,9 +31,21 @@
 
     (c) Pension, compensation, or retirement pay on account of any person’s own service shall not be paid to such person for any period for which such person receives active service pay.
 
-([Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1230][/us/stat/72/1230], § 3104; [Pub. L. 86–495, § 1][/us/pl/86/495/s1], June 8, 1960, [74 Stat. 163][/us/stat/74/163]; [Pub. L. 88–664, § 9][/us/pl/88/664/s9], Oct. 13, 1964, [78 Stat. 1096][/us/stat/78/1096]; [Pub. L. 91–376, § 6][/us/pl/91/376/s6], Aug. 12, 1970, [84 Stat. 790][/us/stat/84/790]; [Pub. L. 95–588, title III, § 304][/us/pl/95/588/s304], Nov. 4, 1978, [92 Stat. 2507][/us/stat/92/2507]; [Pub. L. 96–385, title V, § 503(a)][/us/pl/96/385/s503/a], Oct. 7, 1980, [94 Stat. 1534][/us/stat/94/1534]; [Pub. L. 99–576, title VII, § 701(71)][/us/pl/99/576/s701/71], Oct. 28, 1986, [100 Stat. 3297][/us/stat/100/3297]; renumbered § 5304 and amended [Pub. L. 102–40, title IV, § 402(b)(1)][/us/pl/102/40/s402/b/1], (d)(1), May 7, 1991, [105 Stat. 238][/us/stat/105/238], 239; [Pub. L. 102–83][/us/pl/102/83], §§ 4(a)(1), 5(c)(1), Aug. 6, 1991, [105 Stat. 403][/us/stat/105/403], 406; [Pub. L. 108–454, title III, § 308(a)][/us/pl/108/454/s308/a], Dec. 10, 2004, [118 Stat. 3614][/us/stat/118/3614].)
+([Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1230][/us/stat/72/1230], § 3104; [Pub. L. 86–495, § 1][/us/pl/86/495/s1], June 8, 1960, [74 Stat. 163][/us/stat/74/163]; [Pub. L. 88–664, § 9][/us/pl/88/664/s9], Oct. 13, 1964, [78 Stat. 1096][/us/stat/78/1096]; [Pub. L. 91–376, § 6][/us/pl/91/376/s6], Aug. 12, 1970, [84 Stat. 790][/us/stat/84/790]; [Pub. L. 95–588, title III, § 304][/us/pl/95/588/s304], Nov. 4, 1978, [92 Stat. 2507][/us/stat/92/2507]; [Pub. L. 96–385, title V, § 503(a)][/us/pl/96/385/s503/a], Oct. 7, 1980, [94 Stat. 1534][/us/stat/94/1534]; [Pub. L. 99–576, title VII, § 701(71)][/us/pl/99/576/s701/71], Oct. 28, 1986, [100 Stat. 3297][/us/stat/100/3297]; renumbered § 5304 and amended [Pub. L. 102–40, title IV, § 402(b)(1)][/us/pl/102/40/s402/b/1], (d)(1), May 7, 1991, [105 Stat. 238][/us/stat/105/238], 239; [Pub. L. 102–83][/us/pl/102/83], §§ 4(a)(1), 5(c)(1), Aug. 6, 1991, [105 Stat. 403][/us/stat/105/403], 406; [Pub. L. 108–454, title III, § 308(a)][/us/pl/108/454/s308/a], Dec. 10, 2004, [118 Stat. 3614][/us/stat/118/3614]; [Pub. L. 114–92, div. A, title VI, § 633(b)][/us/pl/114/92/s633/b], Nov. 25, 2015, [129 Stat. 850][/us/stat/129/850].)
+
+ __Amendment of Section__ 
+
+    [Pub. L. 114–92, div. A, title VI][/us/pl/114/92], §§ 633(b), 635, Nov. 25, 2015, [129 Stat. 850][/us/stat/129/850], 851, provided that, effective Jan. 1, 2018, with certain implementation requirements, this section is amended by adding at the end the following new subsection:
+
+    (d)(1) Other than amounts payable under section 1413a or 1414 of title 10, the amount of pension and compensation benefits payable to a person under this title shall be reduced by the amount of any lump sum payment made to such person under [section 1415 of title 10][/us/usc/t10/s1415].
+
+    (2) The Secretary shall collect any reduction under paragraph (1) from amounts otherwise payable to the person under this title, including pension and compensation payable under this title, before any pension and compensation payments under this title may be paid to the person.
+
+    See 2015 Amendment note below.
 
  __Amendments__ 
+
+    2015—Subsec. (d). [Pub. L. 114–92][/us/pl/114/92] added subsec. (d).
 
     2004—Subsec. (a)(1). [Pub. L. 108–454][/us/pl/108/454] inserted “as provided in [section 1414 of title 10][/us/usc/t10/s1414] or” after “Except”.
 
@@ -64,6 +76,10 @@
     1964—Subsec. (a). [Pub. L. 88–664][/us/pl/88/664] inserted “or concurrently to any person based on the service of any other person” after “own service”.
 
     1960—Subsec. (b)(2). [Pub. L. 86–495][/us/pl/86/495] substituted provisions prohibiting the payment or furnishing of benefits other than insurance to or on account of any child by reason of the death of more than one parent in the same parental line, and permitting the child to elect one or more times to receive benefits by reason of the death of any one of such parents, for provisions which prohibited the payment of dependency and indemnity compensation to or on account of a child by reason of the death of another parent where the child receives or there is paid by the Veterans’ Administration on account of a child dependency and indemnity compensation, or death compensation, by reason of the death of a parent.
+
+ __Effective Date of 2015 Amendment; Implementation__ 
+
+    Amendment by [Pub. L. 114–92][/us/pl/114/92] effective Jan. 1, 2018, with certain implementation requirements, see [section 635 of Pub. L. 114–92][/us/pl/114/92/s635], set out as a note under [section 8432 of Title 5][/us/usc/t5/s8432], Government Organization and Employees.
 
  __Effective Date of 1980 Amendment__ 
 
@@ -118,6 +134,12 @@
 [/us/stat/105/403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F403
 [/us/pl/108/454/s308/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F454%2Fs308%2Fa
 [/us/stat/118/3614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3614
+[/us/pl/114/92/s633/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs633%2Fb
+[/us/stat/129/850]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F850
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/stat/129/850]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F850
+[/us/usc/t10/s1415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1415
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
 [/us/pl/108/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F454
 [/us/usc/t10/s1414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1414
 [/us/pl/102/40/s402/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs402%2Fb%2F1
@@ -136,6 +158,9 @@
 [/us/pl/91/376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F376
 [/us/pl/88/664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F664
 [/us/pl/86/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F495
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/pl/114/92/s635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs635
+[/us/usc/t5/s8432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8432
 [/us/pl/96/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F385
 [/us/pl/96/385/s601/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F385%2Fs601%2Fb
 [/us/usc/t38/s1114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1114

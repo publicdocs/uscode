@@ -27,6 +27,22 @@
 
     Provisions similar to those in this section were contained in [section 219 of this title][/us/usc/t38/s219] prior to repeal by [Pub. L. 102–83, § 2(a)][/us/pl/102/83/s2/a].
 
+ __Submittal of Information to Secretary of Veterans Affairs Relating to Exposure to Airborne Hazards and Open Burn Pits__ 
+
+[Pub. L. 114–92, div. A, title VII, § 728][/us/pl/114/92/s728], Nov. 25, 2015, [129 Stat. 873][/us/stat/129/873], provided that:
+
+>     “(a)  __In General__  __.—__ 
+
+>     Not later than 180 days after the date of the enactment of this Act \[Nov. 25, 2015\], and periodically thereafter, the Secretary of Defense shall submit to the Secretary of Veterans Affairs such information in the possession of the Secretary of Defense as the Secretary of Veterans Affairs considers necessary to supplement and support—
+
+>         “(1) the development of information to be included in the Airborne Hazards and Open Burn Pit Registry established by the Department of Veterans Affairs under section 201 of the Dignified Burial and Other Veterans’ Benefits Improvement Act of 2012 ([Public Law 112–260][/us/pl/112/260]; [38 U.S.C. 527][/us/usc/t38/s527] note); and
+
+>         “(2) research and development activities conducted by the Department of Veterans Affairs to explore the potential health risks of exposure by members of the Armed Forces to environmental factors in Iraq and Afghanistan, in particular the connection of such exposure to respiratory illnesses such as chronic cough, chronic obstructive pulmonary disease, constrictive bronchiolitis, and pulmonary fibrosis.
+
+>     “(b)  __Inclusion of Certain Information__  __.—__ 
+
+>     The Secretary of Defense shall include in the information submitted to the Secretary of Veterans Affairs under subsection (a) information on any research and surveillance efforts conducted by the Department of Defense to evaluate the incidence and prevalence of respiratory illnesses among members of the Armed Forces who were exposed to open burn pits while deployed overseas.”
+
  __Establishment of Open Burn Pit Registry__ 
 
 [Pub. L. 112–260, title II, § 201][/us/pl/112/260/s201], Jan. 10, 2013, [126 Stat. 2422][/us/stat/126/2422], provided that:
@@ -342,6 +358,10 @@
 [/us/stat/105/391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F391
 [/us/usc/t38/s219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs219
 [/us/pl/102/83/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs2%2Fa
+[/us/pl/114/92/s728]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs728
+[/us/stat/129/873]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F873
+[/us/pl/112/260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F260
+[/us/usc/t38/s527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs527
 [/us/pl/112/260/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F260%2Fs201
 [/us/stat/126/2422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2422
 [/us/pl/102/585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F585

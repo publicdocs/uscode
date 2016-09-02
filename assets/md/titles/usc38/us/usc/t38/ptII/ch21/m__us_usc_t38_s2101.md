@@ -221,7 +221,7 @@
 
  __Pilot Program to Rehabilitate and Modify Homes of Disabled and Low-Income Veterans__ 
 
-[Pub. L. 113–291, div. A, title X, § 1079][/us/pl/113/291/s1079], Dec. 19, 2014, [128 Stat. 3521][/us/stat/128/3521], provided that:
+[Pub. L. 113–291, div. A, title X, § 1079][/us/pl/113/291/s1079], Dec. 19, 2014, [128 Stat. 3521][/us/stat/128/3521], as amended by [Pub. L. 114–92, div. A, title X, § 1081(b)(4)][/us/pl/114/92/s1081/b/4], Nov. 25, 2015, [129 Stat. 1001][/us/stat/129/1001], provided that:
 
 >     “(a)  __Definitions__  __.—__ 
 
@@ -229,7 +229,7 @@
 
 >         “(1)  __Disabled__  __.—__ 
 
->         The term ‘disabled’ means an individual with a disability, as defined by [section 12102 of title 42][/us/usc/t42/s12102], United States Code.
+>         The term ‘disabled’ means an individual with a disability, as defined by section 3 of the Americans with Disabilities Act of 1990 ([42 U.S.C. 12102][/us/usc/t42/s12102]).
 
 >         “(2)  __Eligible veteran__  __.—__ 
 
@@ -502,6 +502,8 @@
 [/us/usc/t38/s1114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1114
 [/us/pl/113/291/s1079]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1079
 [/us/stat/128/3521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3521
+[/us/pl/114/92/s1081/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1081%2Fb%2F4
+[/us/stat/129/1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1001
 [/us/usc/t42/s12102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12102
 [/us/usc/t26/s501/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs501%2Fc%2F3
 [/us/usc/t26/s501/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs501%2Fa
