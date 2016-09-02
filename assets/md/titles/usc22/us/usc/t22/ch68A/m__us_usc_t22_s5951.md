@@ -51,9 +51,7 @@
 
  __Congressional Notification__ 
 
-[Pub. L. 113–66, div. A, title XII, § 1246(c)(3)][/us/pl/113/66/s1246/c/3], Dec. 26, 2013, [127 Stat. 924][/us/stat/127/924], as amended by [Pub. L. 113–291, div. A, title XII, § 1243(3)][/us/pl/113/291/s1243/3], Dec. 19, 2014, [128 Stat. 3564][/us/stat/128/3564], provided that: 
-
-> “If the Secretary of Defense intends to provide the Russian Federation with any sensitive missile defense information that the Secretary determines will not compromise United States national security, the Secretary shall notify the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] and the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives of the Secretary’s intent to provide such information not less than 7 days prior to the provision of such information, including an explanation of the reasons for providing the information and the reasons why providing the information will not compromise United States national security.”
+    [Pub. L. 113–66, div. A, title XII, § 1246(c)(3)][/us/pl/113/66/s1246/c/3], Dec. 26, 2013, [127 Stat. 924][/us/stat/127/924], as amended by [Pub. L. 113–291, div. A, title XII, § 1243(3)][/us/pl/113/291/s1243/3], Dec. 19, 2014, [128 Stat. 3564][/us/stat/128/3564], which required that the Secretary of Defense notify certain congressional committees of the Secretary’s intent to provide the Russian Federation with any sensitive missile defense information not less than 7 days prior to the provision of such information, including an explanation of the reasons for providing the information and the reasons why providing the information would not compromise United States national security, was repealed by [Pub. L. 114–92, div. A, title XVI, § 1671(b)(1)][/us/pl/114/92/s1671/b/1], Nov. 25, 2015, [129 Stat. 1130][/us/stat/129/1130].
 
  __Briefings to Congressional Committees__ 
 
@@ -61,19 +59,11 @@
 
 > “Prior to signing an executive agreement with the Russian Federation relating to ballistic missile defense, the President, or the President’s designee, shall brief the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] and the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives on the objectives and contents of the executive agreement.”
 
-[Pub. L. 112–239, div. A, title XII, § 1282][/us/pl/112/239/s1282], Jan. 2, 2013, [126 Stat. 2034][/us/stat/126/2034], provided that:
+ __Sense of Congress on Agreements Between the United States and the Russian Federation on Nuclear Arms, Missile Defense Systems, and Long-Range Conventional Strike Systems__ 
 
->     “(a)  __Briefings__  __.—__ 
+[Pub. L. 112–239, div. A, title XII, § 1282][/us/pl/112/239/s1282], Jan. 2, 2013, [126 Stat. 2034][/us/stat/126/2034], as amended by [Pub. L. 114–92, div. A, title X, § 1076(c)][/us/pl/114/92/s1076/c], Nov. 25, 2015, [129 Stat. 998][/us/stat/129/998], provided that: 
 
->     Not later than 60 days after the date of the enactment of this Act \[Jan. 2, 2013\], and not less than twice each year thereafter, the President, or the President’s designee, shall brief the Committee on Foreign Relations and the Committee on Armed Services of the Senate on the dialogue between the United States and the Russian Federation on issues related to limits or controls on nuclear arms, missile defense systems, or long-range conventional strike systems.
-
->     “(b)  __Sense of Congress on Certain Agreements__  __.—__ 
-
->     It is the sense of Congress that any agreement between the United States and the Russian Federation related to nuclear arms, missile defense systems, or long-range conventional strike systems obligating the United States to reduce or limit the Armed Forces or armaments of the United States in any militarily significant manner may be made only pursuant to the treaty-making power of the President as set forth in Article II, section 2, clause 2 of the Constitution of the United States.
-
->     “(c)  __Rule of Construction__  __.—__ 
-
->     Nothing in this section shall be construed to be inconsistent with or to interfere with the practices, precedents, or oversight of the House of Representatives.”
+> “It is the sense of Congress that any agreement between the United States and the Russian Federation related to nuclear arms, missile defense systems, or long-range conventional strike systems obligating the United States to reduce or limit the Armed Forces or armaments of the United States in any militarily significant manner may be made only pursuant to the treaty-making power of the President as set forth in Article II, section 2, clause 2 of the Constitution of the United States.”
 
  __Sharing of Classified United States Ballistic Missile Defense Information With the Russian Federation__ 
 
@@ -490,10 +480,14 @@ Similar provisions were contained in the following prior authorization acts:
 [/us/stat/127/924]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F924
 [/us/pl/113/291/s1243/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1243%2F3
 [/us/stat/128/3564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3564
+[/us/pl/114/92/s1671/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1671%2Fb%2F1
+[/us/stat/129/1130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1130
 [/us/pl/113/66/s1251/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1251%2Fb
 [/us/stat/127/926]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F926
 [/us/pl/112/239/s1282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1282
 [/us/stat/126/2034]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2034
+[/us/pl/114/92/s1076/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1076%2Fc
+[/us/stat/129/998]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F998
 [/us/pl/112/81/s1244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1244
 [/us/stat/125/1646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1646
 [/us/pl/108/136/s3622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3622

@@ -135,6 +135,26 @@
 
     Amendment by [Pub. L. 103–236][/us/pl/103/236] applicable with respect to officials, offices, and bureaus of Department of State when executive orders, regulations, or departmental directives implementing the amendments by sections 161 and 162 of [Pub. L. 103–236][/us/pl/103/236] become effective, or 90 days after Apr. 30, 1994, whichever comes earlier, see [section 161(b) of Pub. L. 103–236][/us/pl/103/236/s161/b], as amended, set out as a note under [section 2651a of this title][/us/usc/t22/s2651a].
 
+ __Congressional Notification and Briefing Requirement on Ordered Evacuations of United States Embassies and Consulates Involving Support Provided by the Department of Defense__ 
+
+[Pub. L. 114–92, div. A, title X, § 1091][/us/pl/114/92/s1091], Nov. 25, 2015, [129 Stat. 1018][/us/stat/129/1018], provided that:
+
+>     “(a)  __Notification Requirement__  __.—__ 
+
+>     The Secretary of Defense and the Secretary of State shall provide notification to the appropriate congressional committees as soon as practicable upon the initiation of an ordered evacuation of a United States embassy or consulate involving support provided by the Department of Defense.
+
+>     “(b)  __Briefing Requirement__  __.—__ 
+
+>     The Secretary of Defense and the Secretary of State shall provide a briefing to the appropriate congressional committees not later than 15 days after the initiation of an ordered evacuation of a United States embassy or consulate involving support provided by the Department of Defense.
+
+>     “(c)  __Appropriate Congressional Committees Defined__  __.—__ 
+
+>     In this section, the term ‘appropriate congressional committees’ means—
+
+>         “(1) the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\]; and
+
+>         “(2) the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives.”
+
  __Personnel Security Program for Embassies in High Intelligence Threat Countries__ 
 
 [Pub. L. 100–204, title I, § 155][/us/pl/100/204/s155], Dec. 22, 1987, [101 Stat. 1353][/us/stat/101/1353], provided that:
@@ -214,6 +234,8 @@
 [/us/pl/103/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236
 [/us/pl/103/236/s161/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs161%2Fb
 [/us/usc/t22/s2651a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2651a
+[/us/pl/114/92/s1091]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1091
+[/us/stat/129/1018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1018
 [/us/pl/100/204/s155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2Fs155
 [/us/stat/101/1353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1353
 [/us/usc/t22/s2370/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2370%2Ff

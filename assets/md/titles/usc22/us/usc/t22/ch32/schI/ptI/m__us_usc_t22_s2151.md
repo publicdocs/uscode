@@ -503,6 +503,62 @@
 
     Any reference in this chapter to the agency primarily responsible for administering this subchapter, or to the Administrator of such agency, deemed reference to the United States Agency for International Development or to the Administrator of that agency, as appropriate, see section 1–200(a) of Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under [section 2381 of this title][/us/usc/t22/s2381].
 
+ __Support to the Government of Jordan and the Government of Lebanon for Border Security Operations__ 
+
+[Pub. L. 114–92, div. A, title XII, § 1226][/us/pl/114/92/s1226], Nov. 25, 2015, [129 Stat. 1056][/us/stat/129/1056], provided that:
+
+>     “(a) __Authority to Provide Support.—__ 
+
+>         “(1)  __In general__  __.—__ 
+
+>         The Secretary of Defense, with the concurrence of the Secretary of State, is authorized to provide support on a reimbursement basis to the Government of Jordan and the Government of Lebanon for purposes of supporting and enhancing efforts of the armed forces of Jordan and the armed forces of Lebanon to increase security and sustain increased security along the border of Jordan and the border of Lebanon with Syria and Iraq, as applicable.
+
+>         “(2)  __Frequency__  __.—__ 
+
+>         Support may be provided under this subsection on a quarterly basis.
+
+>     “(b)  __Funds Available for Support__  __.—__ 
+
+>     The following amounts made be used to provide support under the authority of subsection (a):
+
+>         “(1) Amounts authorized to be appropriated for fiscal year 2016 and available for reimbursement of certain coalition nations for support provided to United States military operations pursuant to section 1233 of the National Defense Authorization Act for fiscal year 2008 ([Public Law 110–181][/us/pl/110/181]; [122 Stat. 393][/us/stat/122/393]).
+
+>         “(2) Amounts authorized to be appropriated for fiscal year 2016 for the Counterterrorism Partnerships Fund pursuant to section 1534 of the Carl Levin and Howard P. “Buck” McKeon National Defense Authorization Act for fiscal year 2015 ([Public Law 113–291][/us/pl/113/291]; [128 Stat. 3616][/us/stat/128/3616]).
+
+>     “(c) __Limitations.—__ 
+
+>         “(1)  __Limitation on amount__  __.—__ 
+
+>         The total amount of support provided under the authority of subsection (a) may not exceed $150,000,000 for any country specified in subsection (a) in any fiscal year.
+
+>         “(2)  __Support to the government of lebanon__  __.—__ 
+
+>         Support provided under the authority of subsection (a) to the Government of Lebanon may be used only for the armed forces of Lebanon, and may not be used for or to reimburse Hezbollah or any forces other than the armed forces of Lebanon.
+
+>         “(3)  __Prohibition on contractual obligations__  __.—__ 
+
+>         The Secretary of Defense may not enter into any contractual obligation to provide support under the authority of subsection (a).
+
+>         “(4)  __Determination required__  __.—__ 
+
+>         The Secretary of Defense may not provide support to a country specified in subsection (a) if the Secretary determines that the government of such country fails to increase security and sustain increased security along the border of Jordan and the border of Lebanon with Syria and Iraq, as applicable.
+
+>     “(d)  __Notice Before Exercise__  __.—__ 
+
+>     Not later than 15 days before providing support under the authority of subsection (a), the Secretary of Defense shall submit to the specified congressional committees a report setting forth a full description of the support to be provided, including the amount of support to be provided, and the timeline for the provision of such support.
+
+>     “(e)  __Specified Congressional Committees__  __.—__ 
+
+>     In the section, the term ‘specified congressional committees’ means—
+
+>         “(1) the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\]; and
+
+>         “(2) the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives.
+
+>     “(f)  __Expiration of Authority__  __.—__ 
+
+>     No support may be provided under the authority of subsection (a) after December 31, 2018.”
+
  __Girls Count__ 
 
 [Pub. L. 114–24][/us/pl/114/24], June 12, 2015, [129 Stat. 314][/us/stat/129/314], provided that:
@@ -3525,6 +3581,12 @@ Sec. 2. National Action Plan. A National Action Plan shall be created pursuant t
 [/us/usc/t22/s1922]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1922
 [/us/usc/t22/s1783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1783
 [/us/usc/t22/s2381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2381
+[/us/pl/114/92/s1226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1226
+[/us/stat/129/1056]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1056
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/stat/122/393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F393
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/stat/128/3616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3616
 [/us/pl/114/24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F24
 [/us/stat/129/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F314
 [/us/usc/t22/s2394/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2394%2Fb

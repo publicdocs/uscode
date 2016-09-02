@@ -59,9 +59,19 @@
 
         Each report required by this section shall include a discussion of each significant issue described in subsection (a)(6) that was contained in a previous report issued under this section during 1995, or after December 31, 1995, until the question or concern has been resolved and such resolution has been reported in detail to the appropriate committees of Congress (as defined in section 1102(1) of the Arms Control, Non-Proliferation, and Security Assistance Act of 1999).
 
-    (e) __Congressional briefing__ 
+    (e) __Annual report__ 
 
-        Not later than May 15 of each year, the President shall provide to the appropriate congressional committees a briefing on the most-recent report required by this section.
+        (1) __In general__ 
+
+            Not later than June 15 of each year described in paragraph (2), the Director of National Intelligence shall submit to the appropriate congressional committees a report that contains a detailed assessment, consistent with the provision of classified information and intelligence sources and methods, of the adherence of other nations to obligations undertaken in all arms control, nonproliferation, and disarmament agreements or commitments to which the United States is a party, including information of cases in which any such nation has behaved inconsistently with respect to its obligations undertaken in such agreements or commitments.
+
+        (2) __Covered year__ 
+
+            A year described in this paragraph is a year in which the President fails to submit the report required by subsection (a) by not later than April 15 of such year.
+
+        (3) __Form__ 
+
+            The report required by this subsection shall be submitted in unclassified form, but may contain a classified annex if necessary.
 
     (f) __Appropriate congressional committees defined__ 
 
@@ -71,13 +81,15 @@
 
         (2) the Committee on Foreign Affairs, the Committee on Armed Services, and the Permanent Select Committee on Intelligence of the House of Representatives.
 
-([Pub. L. 87–297, title IV, § 403][/us/pl/87/297/s403], formerly § 51, as added and amended [Pub. L. 103–236, title VII, § 717(a)(3)][/us/pl/103/236/s717/a/3], title VIII, § 828(a), Apr. 30, 1994, [108 Stat. 498][/us/stat/108/498], 520; renumbered § 403 and amended, [Pub. L. 105–277, div. G][/us/pl/105/277], subdiv. A, title XII, § 1223(15), (21), Oct. 21, 1998, [112 Stat. 2681–771][/us/stat/112/2681-771], 2681–772; [Pub. L. 106–113, div. B, § 1000(a)(7)][/us/pl/106/113/s1000/a/7] \[div. B, title XI, § 1113\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–487; [Pub. L. 107–228, div. B, title XI, § 1103][/us/pl/107/228/s1103], Sept. 30, 2002, [116 Stat. 1426][/us/stat/116/1426]; [Pub. L. 113–66, div. A, title XII, § 1247][/us/pl/113/66/s1247], Dec. 26, 2013, [127 Stat. 924][/us/stat/127/924].)
+([Pub. L. 87–297, title IV, § 403][/us/pl/87/297/s403], formerly § 51, as added and amended [Pub. L. 103–236, title VII, § 717(a)(3)][/us/pl/103/236/s717/a/3], title VIII, § 828(a), Apr. 30, 1994, [108 Stat. 498][/us/stat/108/498], 520; renumbered § 403 and amended, [Pub. L. 105–277, div. G][/us/pl/105/277], subdiv. A, title XII, § 1223(15), (21), Oct. 21, 1998, [112 Stat. 2681–771][/us/stat/112/2681-771], 2681–772; [Pub. L. 106–113, div. B, § 1000(a)(7)][/us/pl/106/113/s1000/a/7] \[div. B, title XI, § 1113\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–487; [Pub. L. 107–228, div. B, title XI, § 1103][/us/pl/107/228/s1103], Sept. 30, 2002, [116 Stat. 1426][/us/stat/116/1426]; [Pub. L. 113–66, div. A, title XII, § 1247][/us/pl/113/66/s1247], Dec. 26, 2013, [127 Stat. 924][/us/stat/127/924]; [Pub. L. 114–92, div. A, title XII, § 1272][/us/pl/114/92/s1272], Nov. 25, 2015, [129 Stat. 1076][/us/stat/129/1076].)
 
  __References in Text__ 
 
     Section 1102(1) of the Arms Control, Non-Proliferation, and Security Assistance Act of 1999, referred to in subsec. (d), is section 1000(a)(7) \[div. B, title XI, § 1102(1)\] of [Pub. L. 106–113][/us/pl/106/113], which is set out as a note under [section 2652c of this title][/us/usc/t22/s2652c].
 
  __Amendments__ 
+
+    2015—Subsec. (e). [Pub. L. 114–92][/us/pl/114/92] amended subsec. (e) generally. Prior to amendment, text read as follows: “Not later than May 15 of each year, the President shall provide to the appropriate congressional committees a briefing on the most-recent report required by this section.”
 
     2013—Subsec. (a). [Pub. L. 113–66, § 1247(a)(1)][/us/pl/113/66/s1247/a/1], substituted “the appropriate congressional committees” for “the Speaker of the House of Representatives and to the chairman of the Committee on Foreign Relations of the Senate” in introductory provisions.
 
@@ -278,8 +290,11 @@
 [/us/stat/116/1426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1426
 [/us/pl/113/66/s1247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1247
 [/us/stat/127/924]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F924
+[/us/pl/114/92/s1272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1272
+[/us/stat/129/1076]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1076
 [/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
 [/us/usc/t22/s2652c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2652c
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
 [/us/pl/113/66/s1247/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1247%2Fa%2F1
 [/us/pl/113/66/s1247/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1247%2Fa%2F2
 [/us/pl/113/66/s1247/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1247%2Fb%2F2

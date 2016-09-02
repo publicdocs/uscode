@@ -295,6 +295,60 @@
 
     Committee on International Relations of House of Representatives changed to Committee on Foreign Affairs of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
+ __Plan Required to Promote Security of Afghan Women and Girls__ 
+
+[Pub. L. 114–92, div. A, title XV, § 1531(c)(2)][/us/pl/114/92/s1531/c/2], Nov. 25, 2015, [129 Stat. 1089][/us/stat/129/1089], provided that:
+
+>     “(A)  __In general__  __.—__ 
+
+>     The Secretary of Defense, with the concurrence of the Secretary of State, shall support, to the extent practicable, the efforts of the Government of Afghanistan to promote the security of Afghan women and girls during and after the security transition process through the development and implementation by the Government of Afghanistan of an Afghan-led plan that should include the elements described in this paragraph.
+
+>     “(B)  __Training__  __.—__ 
+
+>     The Secretary of Defense, with the concurrence of the Secretary of State and working with the NATO-led Resolute Support mission, should encourage the Government of Afghanistan to develop—
+
+>         “(i) measures for the evaluation of the effectiveness of existing training for Afghan National Security Forces on this issue;
+
+>         “(ii) a plan to increase the number of female security officers specifically trained to address cases of gender-based violence, including ensuring the Afghan National Police’s Family Response Units have the necessary resources and are available to women across Afghanistan;
+
+>         “(iii) mechanisms to enhance the capacity for units of National Police’s Family Response Units to fulfill their mandate as well as indicators measuring the operational effectiveness of these units;
+
+>         “(iv) a plan to address the development of accountability mechanisms for Afghanistan National Army and Afghanistan National Police personnel who violate codes of conduct related to the human rights of women and girls, including female members of the Afghan National Security Forces; and
+
+>         “(v) a plan to develop training for the Afghanistan National Army and the Afghanistan National Police to increase awareness and responsiveness among Afghanistan National Army and Afghanistan National Police personnel regarding the unique security challenges women confront when serving in those forces.
+
+>     “(C)  __Enrollment and treatment__  __.—__ 
+
+>     The Secretary of Defense, with the concurrence of the Secretary of State and in cooperation with the Afghan Ministries of Defense and Interior, shall seek to assist the Government of Afghanistan in including as part of the plan developed under subparagraph (A) the development and implementation of a plan to increase the number of female members of the Afghanistan National Army and the Afghanistan National Police and to promote their equal treatment, including through such steps as providing appropriate equipment, modifying facilities, and ensuring literacy and gender awareness training for recruits.
+
+>     “(D) __Allocation of funds.—__ 
+
+>         “(i)  __In general__  __.—__ 
+
+>         Of the funds available to the Department of Defense for the Afghan Security Forces Fund for fiscal year 2016, it is the goal that $25,000,000, but in no event less than $10,000,000, shall be used for—
+
+>             “(I) the recruitment, integration, retention, training, and treatment of women in the Afghan National Security Forces; and
+
+>             “(II) the recruitment, training, and contracting of female security personnel for future elections.
+
+>         “(ii)  __Types of programs and activities__  __.—__ 
+
+>         Such programs and activities may include—
+
+>             “(I) efforts to recruit women into the Afghan National Security Forces, including the special operations forces;
+
+>             “(II) programs and activities of the Afghan Ministry of Defense Directorate of Human Rights and Gender Integration and the Afghan Ministry of Interior Office of Human Rights, Gender and Child Rights;
+
+>             “(III) development and dissemination of gender and human rights educational and training materials and programs within the Afghan Ministry of Defense and the Afghan Ministry of Interior;
+
+>             “(IV) efforts to address harassment and violence against women within the Afghan National Security Forces;
+
+>             “(V) improvements to infrastructure that address the requirements of women serving in the Afghan National Security Forces, including appropriate equipment for female security and police forces, and transportation for policewomen to their station;
+
+>             “(VI) support for Afghanistan National Police Family Response Units; and
+
+>             “(VII) security provisions for high-profile female police and army officers.”
+
  __Authority To Establish a Program To Develop and Carry Out Infrastructure Projects in Afghanistan__ 
 
 [Pub. L. 111–383, div. A, title XII, § 1217][/us/pl/111/383/s1217], Jan. 7, 2011, [124 Stat. 4393][/us/stat/124/4393], as amended by [Pub. L. 112–81, div. A, title XII, § 1217][/us/pl/112/81/s1217], Dec. 31, 2011, [125 Stat. 1632][/us/stat/125/1632]; [Pub. L. 112–239, div. A, title XII, § 1219][/us/pl/112/239/s1219], Jan. 2, 2013, [126 Stat. 1991][/us/stat/126/1991]; [Pub. L. 113–66, div. A, title XII, § 1215(a)][/us/pl/113/66/s1215/a], Dec. 26, 2013, [127 Stat. 907][/us/stat/127/907], provided that:
@@ -532,6 +586,8 @@
 [/us/pl/108/458/s7104/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs7104%2Ff%2F2
 [/us/pl/108/458/s7104/k/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs7104%2Fk%2F2
 [/us/pl/108/458/s7104/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs7104%2Fg
+[/us/pl/114/92/s1531/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1531%2Fc%2F2
+[/us/stat/129/1089]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1089
 [/us/pl/111/383/s1217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1217
 [/us/stat/124/4393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4393
 [/us/pl/112/81/s1217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1217

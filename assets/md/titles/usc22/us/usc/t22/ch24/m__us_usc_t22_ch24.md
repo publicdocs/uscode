@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t22/ch23/m__us_usc_t22_s1732.md) | [Next](./../../../..//us/usc/t22/ch24/schI/m__us_usc_t22_ch24_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fch24)
+[Previous](./../../../..//us/usc/t22/ch23/m__us_usc_t22_s1733.md) | [Next](./../../../..//us/usc/t22/ch24/schI/m__us_usc_t22_ch24_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fch24)
 
 ## CHAPTER 24—MUTUAL SECURITY PROGRAM
 
@@ -339,7 +339,7 @@ SUBCHAPTER IV—CONTINGENCY FUND  </td>
 
 ----------
 
-[Previous](./../../../..//us/usc/t22/ch23/m__us_usc_t22_s1732.md) | [Next](./../../../..//us/usc/t22/ch24/schI/m__us_usc_t22_ch24_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fch24)
+[Previous](./../../../..//us/usc/t22/ch23/m__us_usc_t22_s1733.md) | [Next](./../../../..//us/usc/t22/ch24/schI/m__us_usc_t22_ch24_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fch24)
 
 ----------
 ----------

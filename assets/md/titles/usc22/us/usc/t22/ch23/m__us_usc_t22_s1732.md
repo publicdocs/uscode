@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t22/ch23/m__us_usc_t22_s1731.md) | [Next](./../../../..//us/usc/t22/ch24/m__us_usc_t22_ch24.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1732)
+[Previous](./../../../..//us/usc/t22/ch23/m__us_usc_t22_s1731.md) | [Next](./../../../..//us/usc/t22/ch23/m__us_usc_t22_s1733.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1732)
 
 ## § 1732. Release of citizens imprisoned by foreign governments
 
@@ -35,7 +35,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t22/ch23/m__us_usc_t22_s1731.md) | [Next](./../../../..//us/usc/t22/ch24/m__us_usc_t22_ch24.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1732)
+[Previous](./../../../..//us/usc/t22/ch23/m__us_usc_t22_s1731.md) | [Next](./../../../..//us/usc/t22/ch23/m__us_usc_t22_s1733.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1732)
 
 ----------
 ----------
