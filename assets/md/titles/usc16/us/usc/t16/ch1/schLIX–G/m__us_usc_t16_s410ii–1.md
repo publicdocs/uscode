@@ -27,321 +27,481 @@
 
           <tr>
 
-            <td colspan="2"> Name:  </td>
+            <td> 
 
-            <td> Acres  </td>
+        Name  </td>
 
-  </tr>
+            <td> 
 
-          <tr>
-
-            <td> Allentown  </td>
-
-            <td> 380    </td>
+        Acres  </td>
 
   </tr>
 
           <tr>
 
-            <td> Andrews Ranch  </td>
+            <td> 
 
-            <td> 950    </td>
+        Allentown  </td>
 
-  </tr>
+            <td> 
 
-          <tr>
-
-            <td> Bee Burrow  </td>
-
-            <td> 480    </td>
+        380  </td>
 
   </tr>
 
           <tr>
 
-            <td> Bisa’ani  </td>
+            <td> 
 
-            <td> 131    </td>
+        Andrews Ranch  </td>
 
-  </tr>
+            <td> 
 
-          <tr>
-
-            <td> Casa del Rio  </td>
-
-            <td> 40    </td>
+        950  </td>
 
   </tr>
 
           <tr>
 
-            <td> Casamero  </td>
+            <td> 
 
-            <td> 160    </td>
+        Bee Burrow  </td>
 
-  </tr>
+            <td> 
 
-          <tr>
-
-            <td> Chimney Rock  </td>
-
-            <td> 3,160    </td>
+        480  </td>
 
   </tr>
 
           <tr>
 
-            <td> Coolidge  </td>
+            <td> 
 
-            <td> 450    </td>
+        Bisa’ani  </td>
 
-  </tr>
+            <td> 
 
-          <tr>
-
-            <td> Dalton Pass  </td>
-
-            <td> 135    </td>
+        131  </td>
 
   </tr>
 
           <tr>
 
-            <td> Dittert  </td>
+            <td> 
 
-            <td> 480    </td>
+        Casa del Rio  </td>
 
-  </tr>
+            <td> 
 
-          <tr>
-
-            <td> Great Bend  </td>
-
-            <td> 26    </td>
+        40  </td>
 
   </tr>
 
           <tr>
 
-            <td> Greenlee Ruin  </td>
+            <td> 
 
-            <td> 60    </td>
+        Casamero  </td>
 
-  </tr>
+            <td> 
 
-          <tr>
-
-            <td> Grey Hill Spring  </td>
-
-            <td> 23    </td>
+        160  </td>
 
   </tr>
 
           <tr>
 
-            <td> Guadalupe  </td>
+            <td> 
 
-            <td> 115    </td>
+        Chimney Rock  </td>
 
-  </tr>
+            <td> 
 
-          <tr>
-
-            <td> Halfway House  </td>
-
-            <td> 40    </td>
+        3,160  </td>
 
   </tr>
 
           <tr>
 
-            <td> Haystack  </td>
+            <td> 
 
-            <td> 565    </td>
+        Coolidge  </td>
 
-  </tr>
+            <td> 
 
-          <tr>
-
-            <td> Hogback  </td>
-
-            <td> 453    </td>
+        450  </td>
 
   </tr>
 
           <tr>
 
-            <td> Indian Creek  </td>
+            <td> 
 
-            <td> 100    </td>
+        Dalton Pass  </td>
 
-  </tr>
+            <td> 
 
-          <tr>
-
-            <td> Jaquez  </td>
-
-            <td> 66    </td>
+        135  </td>
 
   </tr>
 
           <tr>
 
-            <td> Kin Nizhoni  </td>
+            <td> 
 
-            <td> 726    </td>
+        Dittert  </td>
 
-  </tr>
+            <td> 
 
-          <tr>
-
-            <td> Lake Valley  </td>
-
-            <td> 30    </td>
+        480  </td>
 
   </tr>
 
           <tr>
 
-            <td> Manuelito-Atsee Nitsaa  </td>
+            <td> 
 
-            <td> 60    </td>
+        Great Bend  </td>
 
-  </tr>
+            <td> 
 
-          <tr>
-
-            <td> Manuelito-Kin Hochoi  </td>
-
-            <td> 116    </td>
+        26  </td>
 
   </tr>
 
           <tr>
 
-            <td> Morris 41  </td>
+            <td> 
 
-            <td> 85    </td>
+        Greenlee Ruin  </td>
 
-  </tr>
+            <td> 
 
-          <tr>
-
-            <td> Muddy Water  </td>
-
-            <td> 1,090    </td>
+        60  </td>
 
   </tr>
 
           <tr>
 
-            <td> Navajo Springs  </td>
+            <td> 
 
-            <td> 260    </td>
+        Grey Hill Spring  </td>
 
-  </tr>
+            <td> 
 
-          <tr>
-
-            <td> Newcomb  </td>
-
-            <td> 50    </td>
+        23  </td>
 
   </tr>
 
           <tr>
 
-            <td> Peach Springs  </td>
+            <td> 
 
-            <td> 1,046    </td>
+        Guadalupe  </td>
 
-  </tr>
+            <td> 
 
-          <tr>
-
-            <td> Pierre’s Site  </td>
-
-            <td> 440    </td>
+        115  </td>
 
   </tr>
 
           <tr>
 
-            <td> Raton Well  </td>
+            <td> 
 
-            <td> 23    </td>
+        Halfway House  </td>
 
-  </tr>
+            <td> 
 
-          <tr>
-
-            <td> Salmon Ruin  </td>
-
-            <td> 5    </td>
+        40  </td>
 
   </tr>
 
           <tr>
 
-            <td> San Mateo  </td>
+            <td> 
 
-            <td> 61    </td>
+        Haystack  </td>
 
-  </tr>
+            <td> 
 
-          <tr>
-
-            <td> Sanostee  </td>
-
-            <td> 1,565    </td>
+        565  </td>
 
   </tr>
 
           <tr>
 
-            <td> Section 8  </td>
+            <td> 
 
-            <td> 10    </td>
+        Hogback  </td>
 
-  </tr>
+            <td> 
 
-          <tr>
-
-            <td> Skunk Springs/Crumbled House  </td>
-
-            <td> 533    </td>
+        453  </td>
 
   </tr>
 
           <tr>
 
-            <td> Standing Rock  </td>
+            <td> 
 
-            <td> 348    </td>
+        Indian Creek  </td>
 
-  </tr>
+            <td> 
 
-          <tr>
-
-            <td> Toh-la-kai  </td>
-
-            <td> 10    </td>
+        100  </td>
 
   </tr>
 
           <tr>
 
-            <td> Twin Angeles  </td>
+            <td> 
 
-            <td> 40    </td>
+        Jaquez  </td>
+
+            <td> 
+
+        66  </td>
 
   </tr>
 
           <tr>
 
-            <td> Upper Kin Klizhin  </td>
+            <td> 
 
-            <td> 60.  </td>
+        Kin Nizhoni  </td>
+
+            <td> 
+
+        726  </td>
+
+  </tr>
+
+          <tr>
+
+            <td> 
+
+        Lake Valley  </td>
+
+            <td> 
+
+        30  </td>
+
+  </tr>
+
+          <tr>
+
+            <td> 
+
+        Manuelito-Atsee Nitsaa  </td>
+
+            <td> 
+
+        60  </td>
+
+  </tr>
+
+          <tr>
+
+            <td> 
+
+        Manuelito-Kin Hochoi  </td>
+
+            <td> 
+
+        116  </td>
+
+  </tr>
+
+          <tr>
+
+            <td> 
+
+        Morris 41  </td>
+
+            <td> 
+
+        85  </td>
+
+  </tr>
+
+          <tr>
+
+            <td> 
+
+        Muddy Water  </td>
+
+            <td> 
+
+        1,090  </td>
+
+  </tr>
+
+          <tr>
+
+            <td> 
+
+        Navajo Springs  </td>
+
+            <td> 
+
+        260  </td>
+
+  </tr>
+
+          <tr>
+
+            <td> 
+
+        Newcomb  </td>
+
+            <td> 
+
+        50  </td>
+
+  </tr>
+
+          <tr>
+
+            <td> 
+
+        Peach Springs  </td>
+
+            <td> 
+
+        1,046  </td>
+
+  </tr>
+
+          <tr>
+
+            <td> 
+
+        Pierre’s Site  </td>
+
+            <td> 
+
+        440  </td>
+
+  </tr>
+
+          <tr>
+
+            <td> 
+
+        Raton Well  </td>
+
+            <td> 
+
+        23  </td>
+
+  </tr>
+
+          <tr>
+
+            <td> 
+
+        Salmon Ruin  </td>
+
+            <td> 
+
+        5  </td>
+
+  </tr>
+
+          <tr>
+
+            <td> 
+
+        San Mateo  </td>
+
+            <td> 
+
+        61  </td>
+
+  </tr>
+
+          <tr>
+
+            <td> 
+
+        Sanostee  </td>
+
+            <td> 
+
+        1,565  </td>
+
+  </tr>
+
+          <tr>
+
+            <td> 
+
+        Section 8  </td>
+
+            <td> 
+
+        10  </td>
+
+  </tr>
+
+          <tr>
+
+            <td> 
+
+        Skunk Springs/Crumbled House  </td>
+
+            <td> 
+
+        533  </td>
+
+  </tr>
+
+          <tr>
+
+            <td> 
+
+        Standing Rock  </td>
+
+            <td> 
+
+        348  </td>
+
+  </tr>
+
+          <tr>
+
+            <td> 
+
+        Toh-la-kai  </td>
+
+            <td> 
+
+        10  </td>
+
+  </tr>
+
+          <tr>
+
+            <td> 
+
+        Twin Angeles  </td>
+
+            <td> 
+
+        40  </td>
+
+  </tr>
+
+          <tr>
+
+            <td> 
+
+        Upper Kin Klizhin  </td>
+
+            <td> 
+
+        60.  </td>
 
   </tr>
 

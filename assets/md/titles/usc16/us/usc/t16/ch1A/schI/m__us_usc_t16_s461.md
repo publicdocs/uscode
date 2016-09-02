@@ -131,7 +131,7 @@ Brown v. Board of Education National Historic Site, Kansas.—Pub. L. 102–525,
 
     <td> 
 
-Carl Sandburg Home National Historic Site, North Carolina.—Pub. L. 90–592, Oct. 17, 1968, 82 Stat. 1968; Pub. L. 110–229, title III, § 311, May 8, 2008, 122 Stat. 769.  </td>
+Carl Sandburg Home National Historic Site, North Carolina.—Pub. L. 90–592, Oct. 17, 1968, 82 Stat. 1154; Pub. L. 110–229, title III, § 311, May 8, 2008, 122 Stat. 769.  </td>
 
   </tr>
 
@@ -547,7 +547,7 @@ Mary McLeod Bethune Council House National Historic Site, District of Columbia.�
 
     <td> 
 
-Minidoka National Historic Site, Idaho.—Pub. L. 110–229, title III, § 313, May 8, 2008, 122 Stat. 770.  </td>
+Minidoka National Historic Site, Idaho.—Pub. L. 110–229, title III, § 313, May 8, 2008, 122 Stat. 770; Pub. L. 113–171, § 1, Sept. 26, 2014, 128 Stat. 1895.  </td>
 
   </tr>
 

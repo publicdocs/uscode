@@ -65,6 +65,12 @@
 
     Office of Commissioner of District of Columbia, as established by Reorg. Plan No. 3 of 1967, abolished as of noon Jan. 2, 1975, by [Pub. L. 93–198, title VII, § 711][/us/pl/93/198/s711], Dec. 24, 1973, [87 Stat. 818][/us/stat/87/818], and replaced by office of Mayor of District of Columbia by [section 421 of Pub. L. 93–198][/us/pl/93/198/s421]. Accordingly, “Mayor” substituted in subsec. (b)(2) for “Commissioner” in two places.
 
+ __Chesapeake and Ohio Canal National Historical Park Commission__ 
+
+[Pub. L. 113–178, § 1][/us/pl/113/178/s1], Sept. 26, 2014, [128 Stat. 1912][/us/stat/128/1912], provided that: 
+
+> “The Chesapeake and Ohio Canal National Historical Park Commission (referred to in this Act \[enacting this note\] as the ‘Commission’) is authorized in accordance with the provisions of section 6 of the Chesapeake and Ohio Canal Development Act ([16 U.S.C. 410y–4][/us/usc/t16/s410y–4]), except that the Commission shall terminate 10 years after the date of enactment of this Act \[Sept. 26, 2014\].”
+
 ----------
 
 [Previous](./../../../../..//us/usc/t16/ch1/schLVI/m__us_usc_t16_s410y–3.md) | [Next](./../../../../..//us/usc/t16/ch1/schLVI/m__us_usc_t16_s410y–5.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs410y%E2%80%934)
@@ -89,5 +95,8 @@
 [/us/pl/93/198/s711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F198%2Fs711
 [/us/stat/87/818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F818
 [/us/pl/93/198/s421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F198%2Fs421
+[/us/pl/113/178/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F178%2Fs1
+[/us/stat/128/1912]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1912
+[/us/usc/t16/s410y–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs410y%E2%80%934
 
 

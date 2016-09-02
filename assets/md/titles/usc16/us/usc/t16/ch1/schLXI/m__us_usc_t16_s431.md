@@ -311,7 +311,7 @@ Chaco Canyon National Monument, New Mexico [Monument abolished and funds made av
 
     <td> 
 
-Channel Islands National Monument, California [Monument abolished and incorporated in Channel Islands National Park, see section 410ff of this title].—Proc. No. 2281, Apr. 26, 1938, 52 Stat. 1541; Proc. No. 2825, Feb. 9, 1949, 63 Stat. 1258.  </td>
+Channel Islands National Monument, California [Monument abolished and incorporated in Channel Islands National Park, see section 410ff of this title].—Proc. No. 2281, Apr. 26, 1938, 52 Stat. 1541; Proc. No. 2825, Feb. 9, 1949, 63 Stat. 1258; Pub. L. 93–477, title IV, § 401, Oct. 26, 1974, 88 Stat. 1447.  </td>
 
   </tr>
 
@@ -775,7 +775,7 @@ Meriwether Lewis National Monument, Tennessee [Monument included in Natchez Trac
 
     <td> 
 
-Minidoka Internment National Monument, Idaho [Monument abolished and lands incorporated in Minidoka Historic Site by Pub. L. 110–229, title III, § 313, May 8, 2008, 122 Stat. 770].—Proc. No. 7395, Jan. 17, 2001, 66 F.R. 7347.  </td>
+Minidoka Internment National Monument, Idaho [Monument abolished and lands incorporated in Minidoka Historic Site by Pub. L. 110–229, title III, § 313, May 8, 2008, 122 Stat. 770].—Proc. No. 7395, Jan. 17, 2001, 66 F.R. 7347; Pub. L. 113–171, § 1, Sept. 26, 2014, 128 Stat. 1895.  </td>
 
   </tr>
 
