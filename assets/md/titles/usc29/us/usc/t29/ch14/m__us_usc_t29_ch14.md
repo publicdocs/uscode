@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 621.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs621" data-uslm-ref="/us/usc/t29/s621">621.</a>  </td>
 
     <td> Congressional statement of findings and purpose.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 622.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs622" data-uslm-ref="/us/usc/t29/s622">622.</a>  </td>
 
     <td> Education and research program; recommendation to Congress.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 623.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs623" data-uslm-ref="/us/usc/t29/s623">623.</a>  </td>
 
     <td> Prohibition of age discrimination.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 624.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs624" data-uslm-ref="/us/usc/t29/s624">624.</a>  </td>
 
     <td> Study by Secretary of Labor; reports to President and Congress; scope of study; implementation of study; transmittal date of reports.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 625.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs625" data-uslm-ref="/us/usc/t29/s625">625.</a>  </td>
 
     <td> Administration.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 626.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs626" data-uslm-ref="/us/usc/t29/s626">626.</a>  </td>
 
     <td> Recordkeeping, investigation, and enforcement.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 627.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs627" data-uslm-ref="/us/usc/t29/s627">627.</a>  </td>
 
     <td> Notices to be posted.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 628.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs628" data-uslm-ref="/us/usc/t29/s628">628.</a>  </td>
 
     <td> Rules and regulations; exemptions.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 629.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs629" data-uslm-ref="/us/usc/t29/s629">629.</a>  </td>
 
     <td> Criminal penalties.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 630.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs630" data-uslm-ref="/us/usc/t29/s630">630.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 631.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs631" data-uslm-ref="/us/usc/t29/s631">631.</a>  </td>
 
     <td> Age limits.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 632.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs632" data-uslm-ref="/us/usc/t29/s632">632.</a>  </td>
 
     <td> Omitted.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 633.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs633" data-uslm-ref="/us/usc/t29/s633">633.</a>  </td>
 
     <td> Federal-State relationship.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 633a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs633a" data-uslm-ref="/us/usc/t29/s633a">633a.</a>  </td>
 
     <td> Nondiscrimination on account of age in Federal Government employment.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 634.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs634" data-uslm-ref="/us/usc/t29/s634">634.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 

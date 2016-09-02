@@ -129,7 +129,7 @@
 
  __References in Text__ 
 
-    Executive Order 12356, referred to in subsec. (b)(2)(B), was Ex. Ord. No. 12356, Apr. 2, 1982, 47 F.R. 14874, 15557, which was formerly set out as a note under [section 435 of Title 50][/us/usc/t50/s435], War and National Defense, and was revoked by Ex. Ord. No. 12958, § 6.1(d), Apr. 17, 1995, 60 F.R. 19843, prior to [section 435 of Title 50][/us/usc/t50/s435] being reclassified and renumbered as [section 3161 of Title 50][/us/usc/t50/s3161]. For provisions relating to special access programs, see section 4.3 of Ex. Ord. No. 13526.
+    Executive Order 12356, referred to in subsec. (b)(2)(B), was Ex. Ord. No. 12356, Apr. 2, 1982, 47 F.R. 14874, 15557, which was formerly set out as a note under [section 435 of Title 50][/us/usc/t50/s435], War and National Defense, was revoked by Ex. Ord. No. 12958, § 6.1(d), Apr. 17, 1995, 60 F.R. 19843, and was reclassified as a note under [section 3161 of this title][/us/usc/t29/s3161]. For provisions relating to special access programs, see section 4.3 of Ex. Ord. No. 13526.
 
  __Amendments__ 
 
@@ -160,8 +160,7 @@
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4575
 [/us/usc/t50/s435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs435
-[/us/usc/t50/s435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs435
-[/us/usc/t50/s3161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3161
+[/us/usc/t29/s3161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3161
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
 [/us/pl/103/359]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F359

@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 2501.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs2501" data-uslm-ref="/us/usc/t29/s2501">2501.</a>  </td>
 
     <td> Findings; statement of purpose.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 2502.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs2502" data-uslm-ref="/us/usc/t29/s2502">2502.</a>  </td>
 
     <td> Outreach to employers and labor unions.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 2503.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs2503" data-uslm-ref="/us/usc/t29/s2503">2503.</a>  </td>
 
     <td> Technical assistance.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 2504.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs2504" data-uslm-ref="/us/usc/t29/s2504">2504.</a>  </td>
 
     <td> Competitive grants.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 2505.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs2505" data-uslm-ref="/us/usc/t29/s2505">2505.</a>  </td>
 
     <td> Applications.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 2506.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs2506" data-uslm-ref="/us/usc/t29/s2506">2506.</a>  </td>
 
     <td> Liaison role of Department of Labor.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 2507.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs2507" data-uslm-ref="/us/usc/t29/s2507">2507.</a>  </td>
 
     <td> Study of barriers to participation of women in apprenticeable occupations and nontraditional occupations.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 2508.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs2508" data-uslm-ref="/us/usc/t29/s2508">2508.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 2509.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs2509" data-uslm-ref="/us/usc/t29/s2509">2509.</a>  </td>
 
     <td> Technical assistance program authorization.  </td>
 

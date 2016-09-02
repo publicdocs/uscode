@@ -33,7 +33,7 @@ SUBCHAPTER I—WORKFORCE INVESTMENT DEFINITIONS  </td>
 
   <tr>
 
-    <td> 2801.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs2801" data-uslm-ref="/us/usc/t29/s2801">2801.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER II—STATEWIDE AND LOCAL WORKFORCE INVESTMENT SYSTEMS  </td>
 
   <tr>
 
-    <td> 2811.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs2811" data-uslm-ref="/us/usc/t29/s2811">2811.</a>  </td>
 
     <td> Purpose.  </td>
 
@@ -65,7 +65,7 @@ Part A—State Provisions  </td>
 
   <tr>
 
-    <td> 2821.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs2821" data-uslm-ref="/us/usc/t29/s2821">2821.</a>  </td>
 
     <td> State workforce investment boards.  </td>
 
@@ -73,7 +73,7 @@ Part A—State Provisions  </td>
 
   <tr>
 
-    <td> 2822.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs2822" data-uslm-ref="/us/usc/t29/s2822">2822.</a>  </td>
 
     <td> State plan.  </td>
 
@@ -89,7 +89,7 @@ Part B—Local Provisions  </td>
 
   <tr>
 
-    <td> 2831.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs2831" data-uslm-ref="/us/usc/t29/s2831">2831.</a>  </td>
 
     <td> Local workforce investment areas.  </td>
 
@@ -97,7 +97,7 @@ Part B—Local Provisions  </td>
 
   <tr>
 
-    <td> 2832.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs2832" data-uslm-ref="/us/usc/t29/s2832">2832.</a>  </td>
 
     <td> Local workforce investment boards.  </td>
 
@@ -105,7 +105,7 @@ Part B—Local Provisions  </td>
 
   <tr>
 
-    <td> 2833.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs2833" data-uslm-ref="/us/usc/t29/s2833">2833.</a>  </td>
 
     <td> Local plan.  </td>
 
@@ -121,7 +121,7 @@ Part C—Workforce Investment Activities Providers  </td>
 
   <tr>
 
-    <td> 2841.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs2841" data-uslm-ref="/us/usc/t29/s2841">2841.</a>  </td>
 
     <td> Establishment of one-stop delivery systems.  </td>
 
@@ -129,7 +129,7 @@ Part C—Workforce Investment Activities Providers  </td>
 
   <tr>
 
-    <td> 2842.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs2842" data-uslm-ref="/us/usc/t29/s2842">2842.</a>  </td>
 
     <td> Identification of eligible providers of training services.  </td>
 
@@ -137,7 +137,7 @@ Part C—Workforce Investment Activities Providers  </td>
 
   <tr>
 
-    <td> 2843.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs2843" data-uslm-ref="/us/usc/t29/s2843">2843.</a>  </td>
 
     <td> Identification of eligible providers of youth activities.  </td>
 
@@ -153,7 +153,7 @@ Part D—Youth Activities  </td>
 
   <tr>
 
-    <td> 2851.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs2851" data-uslm-ref="/us/usc/t29/s2851">2851.</a>  </td>
 
     <td> General authorization.  </td>
 
@@ -161,7 +161,7 @@ Part D—Youth Activities  </td>
 
   <tr>
 
-    <td> 2852.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs2852" data-uslm-ref="/us/usc/t29/s2852">2852.</a>  </td>
 
     <td> State allotments.  </td>
 
@@ -169,7 +169,7 @@ Part D—Youth Activities  </td>
 
   <tr>
 
-    <td> 2853.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs2853" data-uslm-ref="/us/usc/t29/s2853">2853.</a>  </td>
 
     <td> Within State allocations.  </td>
 
@@ -177,7 +177,7 @@ Part D—Youth Activities  </td>
 
   <tr>
 
-    <td> 2854.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs2854" data-uslm-ref="/us/usc/t29/s2854">2854.</a>  </td>
 
     <td> Use of funds for youth activities.  </td>
 
@@ -193,7 +193,7 @@ Part E—Adult and Dislocated Worker Employment and Training Activities  </td>
 
   <tr>
 
-    <td> 2861.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs2861" data-uslm-ref="/us/usc/t29/s2861">2861.</a>  </td>
 
     <td> General authorization.  </td>
 
@@ -201,7 +201,7 @@ Part E—Adult and Dislocated Worker Employment and Training Activities  </td>
 
   <tr>
 
-    <td> 2862.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs2862" data-uslm-ref="/us/usc/t29/s2862">2862.</a>  </td>
 
     <td> State allotments.  </td>
 
@@ -209,7 +209,7 @@ Part E—Adult and Dislocated Worker Employment and Training Activities  </td>
 
   <tr>
 
-    <td> 2863.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs2863" data-uslm-ref="/us/usc/t29/s2863">2863.</a>  </td>
 
     <td> Within State allocations.  </td>
 
@@ -217,7 +217,7 @@ Part E—Adult and Dislocated Worker Employment and Training Activities  </td>
 
   <tr>
 
-    <td> 2864.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs2864" data-uslm-ref="/us/usc/t29/s2864">2864.</a>  </td>
 
     <td> Use of funds for employment and training activities.  </td>
 
@@ -233,7 +233,7 @@ Part F—General Provisions  </td>
 
   <tr>
 
-    <td> 2871.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs2871" data-uslm-ref="/us/usc/t29/s2871">2871.</a>  </td>
 
     <td> Performance accountability system.  </td>
 
@@ -241,7 +241,7 @@ Part F—General Provisions  </td>
 
   <tr>
 
-    <td> 2872.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs2872" data-uslm-ref="/us/usc/t29/s2872">2872.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -257,7 +257,7 @@ SUBCHAPTER III—JOB CORPS  </td>
 
   <tr>
 
-    <td> 2881.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs2881" data-uslm-ref="/us/usc/t29/s2881">2881.</a>  </td>
 
     <td> Purposes.  </td>
 
@@ -265,7 +265,7 @@ SUBCHAPTER III—JOB CORPS  </td>
 
   <tr>
 
-    <td> 2882.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs2882" data-uslm-ref="/us/usc/t29/s2882">2882.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -273,7 +273,7 @@ SUBCHAPTER III—JOB CORPS  </td>
 
   <tr>
 
-    <td> 2883.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs2883" data-uslm-ref="/us/usc/t29/s2883">2883.</a>  </td>
 
     <td> Establishment.  </td>
 
@@ -281,7 +281,7 @@ SUBCHAPTER III—JOB CORPS  </td>
 
   <tr>
 
-    <td> 2883a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs2883a" data-uslm-ref="/us/usc/t29/s2883a">2883a.</a>  </td>
 
     <td> Office of Job Corps.  </td>
 
@@ -289,7 +289,7 @@ SUBCHAPTER III—JOB CORPS  </td>
 
   <tr>
 
-    <td> 2883b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs2883b" data-uslm-ref="/us/usc/t29/s2883b">2883b.</a>  </td>
 
     <td> Transfer of administration of Job Corps program to Employment and Training Administration.  </td>
 
@@ -297,7 +297,7 @@ SUBCHAPTER III—JOB CORPS  </td>
 
   <tr>
 
-    <td> 2884.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs2884" data-uslm-ref="/us/usc/t29/s2884">2884.</a>  </td>
 
     <td> Individuals eligible for the Job Corps.  </td>
 
@@ -305,7 +305,7 @@ SUBCHAPTER III—JOB CORPS  </td>
 
   <tr>
 
-    <td> 2885.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs2885" data-uslm-ref="/us/usc/t29/s2885">2885.</a>  </td>
 
     <td> Recruitment, screening, selection, and assignment of enrollees.  </td>
 
@@ -313,7 +313,7 @@ SUBCHAPTER III—JOB CORPS  </td>
 
   <tr>
 
-    <td> 2886.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs2886" data-uslm-ref="/us/usc/t29/s2886">2886.</a>  </td>
 
     <td> Enrollment.  </td>
 
@@ -321,7 +321,7 @@ SUBCHAPTER III—JOB CORPS  </td>
 
   <tr>
 
-    <td> 2887.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs2887" data-uslm-ref="/us/usc/t29/s2887">2887.</a>  </td>
 
     <td> Job Corps centers.  </td>
 
@@ -329,7 +329,7 @@ SUBCHAPTER III—JOB CORPS  </td>
 
   <tr>
 
-    <td> 2888.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs2888" data-uslm-ref="/us/usc/t29/s2888">2888.</a>  </td>
 
     <td> Program activities.  </td>
 
@@ -337,7 +337,7 @@ SUBCHAPTER III—JOB CORPS  </td>
 
   <tr>
 
-    <td> 2889.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs2889" data-uslm-ref="/us/usc/t29/s2889">2889.</a>  </td>
 
     <td> Counseling and job placement.  </td>
 
@@ -345,7 +345,7 @@ SUBCHAPTER III—JOB CORPS  </td>
 
   <tr>
 
-    <td> 2890.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs2890" data-uslm-ref="/us/usc/t29/s2890">2890.</a>  </td>
 
     <td> Support.  </td>
 
@@ -353,7 +353,7 @@ SUBCHAPTER III—JOB CORPS  </td>
 
   <tr>
 
-    <td> 2891.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs2891" data-uslm-ref="/us/usc/t29/s2891">2891.</a>  </td>
 
     <td> Operating plan.  </td>
 
@@ -361,7 +361,7 @@ SUBCHAPTER III—JOB CORPS  </td>
 
   <tr>
 
-    <td> 2892.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs2892" data-uslm-ref="/us/usc/t29/s2892">2892.</a>  </td>
 
     <td> Standards of conduct.  </td>
 
@@ -369,7 +369,7 @@ SUBCHAPTER III—JOB CORPS  </td>
 
   <tr>
 
-    <td> 2893.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs2893" data-uslm-ref="/us/usc/t29/s2893">2893.</a>  </td>
 
     <td> Community participation.  </td>
 
@@ -377,7 +377,7 @@ SUBCHAPTER III—JOB CORPS  </td>
 
   <tr>
 
-    <td> 2894.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs2894" data-uslm-ref="/us/usc/t29/s2894">2894.</a>  </td>
 
     <td> Industry councils.  </td>
 
@@ -385,7 +385,7 @@ SUBCHAPTER III—JOB CORPS  </td>
 
   <tr>
 
-    <td> 2895.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs2895" data-uslm-ref="/us/usc/t29/s2895">2895.</a>  </td>
 
     <td> Advisory committees.  </td>
 
@@ -393,7 +393,7 @@ SUBCHAPTER III—JOB CORPS  </td>
 
   <tr>
 
-    <td> 2896.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs2896" data-uslm-ref="/us/usc/t29/s2896">2896.</a>  </td>
 
     <td> Experimental, research, and demonstration projects.  </td>
 
@@ -401,7 +401,7 @@ SUBCHAPTER III—JOB CORPS  </td>
 
   <tr>
 
-    <td> 2897.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs2897" data-uslm-ref="/us/usc/t29/s2897">2897.</a>  </td>
 
     <td> Application of provisions of Federal law.  </td>
 
@@ -409,7 +409,7 @@ SUBCHAPTER III—JOB CORPS  </td>
 
   <tr>
 
-    <td> 2898.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs2898" data-uslm-ref="/us/usc/t29/s2898">2898.</a>  </td>
 
     <td> Special provisions.  </td>
 
@@ -417,7 +417,7 @@ SUBCHAPTER III—JOB CORPS  </td>
 
   <tr>
 
-    <td> 2899.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs2899" data-uslm-ref="/us/usc/t29/s2899">2899.</a>  </td>
 
     <td> Management information.  </td>
 
@@ -425,7 +425,7 @@ SUBCHAPTER III—JOB CORPS  </td>
 
   <tr>
 
-    <td> 2900.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs2900" data-uslm-ref="/us/usc/t29/s2900">2900.</a>  </td>
 
     <td> General provisions.  </td>
 
@@ -433,7 +433,7 @@ SUBCHAPTER III—JOB CORPS  </td>
 
   <tr>
 
-    <td> 2901.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs2901" data-uslm-ref="/us/usc/t29/s2901">2901.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -449,7 +449,7 @@ SUBCHAPTER IV—NATIONAL PROGRAMS  </td>
 
   <tr>
 
-    <td> 2911.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs2911" data-uslm-ref="/us/usc/t29/s2911">2911.</a>  </td>
 
     <td> Native American programs.  </td>
 
@@ -457,7 +457,7 @@ SUBCHAPTER IV—NATIONAL PROGRAMS  </td>
 
   <tr>
 
-    <td> 2912.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs2912" data-uslm-ref="/us/usc/t29/s2912">2912.</a>  </td>
 
     <td> Migrant and seasonal farmworker programs.  </td>
 
@@ -465,7 +465,7 @@ SUBCHAPTER IV—NATIONAL PROGRAMS  </td>
 
   <tr>
 
-    <td> 2913.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs2913" data-uslm-ref="/us/usc/t29/s2913">2913.</a>  </td>
 
     <td> Veterans’ workforce investment programs.  </td>
 
@@ -473,7 +473,7 @@ SUBCHAPTER IV—NATIONAL PROGRAMS  </td>
 
   <tr>
 
-    <td> 2914.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs2914" data-uslm-ref="/us/usc/t29/s2914">2914.</a>  </td>
 
     <td> Youth opportunity grants.  </td>
 
@@ -481,7 +481,7 @@ SUBCHAPTER IV—NATIONAL PROGRAMS  </td>
 
   <tr>
 
-    <td> 2915.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs2915" data-uslm-ref="/us/usc/t29/s2915">2915.</a>  </td>
 
     <td> Technical assistance.  </td>
 
@@ -489,7 +489,7 @@ SUBCHAPTER IV—NATIONAL PROGRAMS  </td>
 
   <tr>
 
-    <td> 2916.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs2916" data-uslm-ref="/us/usc/t29/s2916">2916.</a>  </td>
 
     <td> Demonstration, pilot, multiservice, research, and multistate projects.  </td>
 
@@ -497,7 +497,7 @@ SUBCHAPTER IV—NATIONAL PROGRAMS  </td>
 
   <tr>
 
-    <td> 2916a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs2916a" data-uslm-ref="/us/usc/t29/s2916a">2916a.</a>  </td>
 
     <td> Job training grants.  </td>
 
@@ -505,7 +505,7 @@ SUBCHAPTER IV—NATIONAL PROGRAMS  </td>
 
   <tr>
 
-    <td> 2917.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs2917" data-uslm-ref="/us/usc/t29/s2917">2917.</a>  </td>
 
     <td> Evaluations.  </td>
 
@@ -513,7 +513,7 @@ SUBCHAPTER IV—NATIONAL PROGRAMS  </td>
 
   <tr>
 
-    <td> 2918.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs2918" data-uslm-ref="/us/usc/t29/s2918">2918.</a>  </td>
 
     <td> National emergency grants.  </td>
 
@@ -521,7 +521,7 @@ SUBCHAPTER IV—NATIONAL PROGRAMS  </td>
 
   <tr>
 
-    <td> 2918a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs2918a" data-uslm-ref="/us/usc/t29/s2918a">2918a.</a>  </td>
 
     <td> YouthBuild program.  </td>
 
@@ -529,7 +529,7 @@ SUBCHAPTER IV—NATIONAL PROGRAMS  </td>
 
   <tr>
 
-    <td> 2918b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs2918b" data-uslm-ref="/us/usc/t29/s2918b">2918b.</a>  </td>
 
     <td> Re-enrollment in alternative school by high-school dropout.  </td>
 
@@ -537,7 +537,7 @@ SUBCHAPTER IV—NATIONAL PROGRAMS  </td>
 
   <tr>
 
-    <td> 2919.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs2919" data-uslm-ref="/us/usc/t29/s2919">2919.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -545,7 +545,7 @@ SUBCHAPTER IV—NATIONAL PROGRAMS  </td>
 
   <tr>
 
-    <td> 2920.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs2920" data-uslm-ref="/us/usc/t29/s2920">2920.</a>  </td>
 
     <td> Educational assistance and training.  </td>
 
@@ -561,7 +561,7 @@ SUBCHAPTER V—ADMINISTRATION  </td>
 
   <tr>
 
-    <td> 2931.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs2931" data-uslm-ref="/us/usc/t29/s2931">2931.</a>  </td>
 
     <td> Requirements and restrictions.  </td>
 
@@ -569,7 +569,7 @@ SUBCHAPTER V—ADMINISTRATION  </td>
 
   <tr>
 
-    <td> 2932.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs2932" data-uslm-ref="/us/usc/t29/s2932">2932.</a>  </td>
 
     <td> Prompt allocation of funds.  </td>
 
@@ -577,7 +577,7 @@ SUBCHAPTER V—ADMINISTRATION  </td>
 
   <tr>
 
-    <td> 2933.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs2933" data-uslm-ref="/us/usc/t29/s2933">2933.</a>  </td>
 
     <td> Monitoring.  </td>
 
@@ -585,7 +585,7 @@ SUBCHAPTER V—ADMINISTRATION  </td>
 
   <tr>
 
-    <td> 2934.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs2934" data-uslm-ref="/us/usc/t29/s2934">2934.</a>  </td>
 
     <td> Fiscal controls; sanctions.  </td>
 
@@ -593,7 +593,7 @@ SUBCHAPTER V—ADMINISTRATION  </td>
 
   <tr>
 
-    <td> 2935.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs2935" data-uslm-ref="/us/usc/t29/s2935">2935.</a>  </td>
 
     <td> Reports; recordkeeping; investigations.  </td>
 
@@ -601,7 +601,7 @@ SUBCHAPTER V—ADMINISTRATION  </td>
 
   <tr>
 
-    <td> 2936.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs2936" data-uslm-ref="/us/usc/t29/s2936">2936.</a>  </td>
 
     <td> Administrative adjudication.  </td>
 
@@ -609,7 +609,7 @@ SUBCHAPTER V—ADMINISTRATION  </td>
 
   <tr>
 
-    <td> 2937.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs2937" data-uslm-ref="/us/usc/t29/s2937">2937.</a>  </td>
 
     <td> Judicial review.  </td>
 
@@ -617,7 +617,7 @@ SUBCHAPTER V—ADMINISTRATION  </td>
 
   <tr>
 
-    <td> 2938.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs2938" data-uslm-ref="/us/usc/t29/s2938">2938.</a>  </td>
 
     <td> Nondiscrimination.  </td>
 
@@ -625,7 +625,7 @@ SUBCHAPTER V—ADMINISTRATION  </td>
 
   <tr>
 
-    <td> 2939.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs2939" data-uslm-ref="/us/usc/t29/s2939">2939.</a>  </td>
 
     <td> Administrative provisions.  </td>
 
@@ -633,7 +633,7 @@ SUBCHAPTER V—ADMINISTRATION  </td>
 
   <tr>
 
-    <td> 2940.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs2940" data-uslm-ref="/us/usc/t29/s2940">2940.</a>  </td>
 
     <td> References.  </td>
 
@@ -641,7 +641,7 @@ SUBCHAPTER V—ADMINISTRATION  </td>
 
   <tr>
 
-    <td> 2941.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs2941" data-uslm-ref="/us/usc/t29/s2941">2941.</a>  </td>
 
     <td> State legislative authority.  </td>
 
@@ -649,7 +649,7 @@ SUBCHAPTER V—ADMINISTRATION  </td>
 
   <tr>
 
-    <td> 2942.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs2942" data-uslm-ref="/us/usc/t29/s2942">2942.</a>  </td>
 
     <td> Workforce flexibility plans.  </td>
 
@@ -657,7 +657,7 @@ SUBCHAPTER V—ADMINISTRATION  </td>
 
   <tr>
 
-    <td> 2943.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs2943" data-uslm-ref="/us/usc/t29/s2943">2943.</a>  </td>
 
     <td> Transfer of Federal equity in State employment security real property to the States.  </td>
 
@@ -665,7 +665,7 @@ SUBCHAPTER V—ADMINISTRATION  </td>
 
   <tr>
 
-    <td> 2944.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs2944" data-uslm-ref="/us/usc/t29/s2944">2944.</a>  </td>
 
     <td> Continuation of State activities and policies.  </td>
 
@@ -673,7 +673,7 @@ SUBCHAPTER V—ADMINISTRATION  </td>
 
   <tr>
 
-    <td> 2945.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs2945" data-uslm-ref="/us/usc/t29/s2945">2945.</a>  </td>
 
     <td> General program requirements.  </td>
 

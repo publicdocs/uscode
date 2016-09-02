@@ -41,7 +41,7 @@ Subtitle A—General Provisions  </td>
 
   <tr>
 
-    <td> 1001.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1001" data-uslm-ref="/us/usc/t29/s1001">1001.</a>  </td>
 
     <td> Congressional findings and declaration of policy.  </td>
 
@@ -49,7 +49,7 @@ Subtitle A—General Provisions  </td>
 
   <tr>
 
-    <td> 1001a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1001a" data-uslm-ref="/us/usc/t29/s1001a">1001a.</a>  </td>
 
     <td> Additional Congressional findings and declaration of policy.  </td>
 
@@ -57,7 +57,7 @@ Subtitle A—General Provisions  </td>
 
   <tr>
 
-    <td> 1001b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1001b" data-uslm-ref="/us/usc/t29/s1001b">1001b.</a>  </td>
 
     <td> Findings and declaration of policy.  </td>
 
@@ -65,7 +65,7 @@ Subtitle A—General Provisions  </td>
 
   <tr>
 
-    <td> 1002.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1002" data-uslm-ref="/us/usc/t29/s1002">1002.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -73,7 +73,7 @@ Subtitle A—General Provisions  </td>
 
   <tr>
 
-    <td> 1003.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1003" data-uslm-ref="/us/usc/t29/s1003">1003.</a>  </td>
 
     <td> Coverage.  </td>
 
@@ -97,7 +97,7 @@ part 1—reporting and disclosure  </td>
 
   <tr>
 
-    <td> 1021.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1021" data-uslm-ref="/us/usc/t29/s1021">1021.</a>  </td>
 
     <td> Duty of disclosure and reporting.  </td>
 
@@ -105,7 +105,7 @@ part 1—reporting and disclosure  </td>
 
   <tr>
 
-    <td> 1022.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1022" data-uslm-ref="/us/usc/t29/s1022">1022.</a>  </td>
 
     <td> Summary plan description.  </td>
 
@@ -113,7 +113,7 @@ part 1—reporting and disclosure  </td>
 
   <tr>
 
-    <td> 1023.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1023" data-uslm-ref="/us/usc/t29/s1023">1023.</a>  </td>
 
     <td> Annual reports.  </td>
 
@@ -121,7 +121,7 @@ part 1—reporting and disclosure  </td>
 
   <tr>
 
-    <td> 1024.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1024" data-uslm-ref="/us/usc/t29/s1024">1024.</a>  </td>
 
     <td> Filing with Secretary and furnishing information to participants and certain employers.  </td>
 
@@ -129,7 +129,7 @@ part 1—reporting and disclosure  </td>
 
   <tr>
 
-    <td> 1025.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1025" data-uslm-ref="/us/usc/t29/s1025">1025.</a>  </td>
 
     <td> Reporting of participant’s benefit rights.  </td>
 
@@ -137,7 +137,7 @@ part 1—reporting and disclosure  </td>
 
   <tr>
 
-    <td> 1026.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1026" data-uslm-ref="/us/usc/t29/s1026">1026.</a>  </td>
 
     <td> Reports made public information.  </td>
 
@@ -145,7 +145,7 @@ part 1—reporting and disclosure  </td>
 
   <tr>
 
-    <td> 1027.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1027" data-uslm-ref="/us/usc/t29/s1027">1027.</a>  </td>
 
     <td> Retention of records.  </td>
 
@@ -153,7 +153,7 @@ part 1—reporting and disclosure  </td>
 
   <tr>
 
-    <td> 1028.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1028" data-uslm-ref="/us/usc/t29/s1028">1028.</a>  </td>
 
     <td> Reliance on administrative interpretations.  </td>
 
@@ -161,7 +161,7 @@ part 1—reporting and disclosure  </td>
 
   <tr>
 
-    <td> 1029.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1029" data-uslm-ref="/us/usc/t29/s1029">1029.</a>  </td>
 
     <td> Forms.  </td>
 
@@ -169,7 +169,7 @@ part 1—reporting and disclosure  </td>
 
   <tr>
 
-    <td> 1030.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1030" data-uslm-ref="/us/usc/t29/s1030">1030.</a>  </td>
 
     <td> Alternative methods of compliance.  </td>
 
@@ -177,7 +177,7 @@ part 1—reporting and disclosure  </td>
 
   <tr>
 
-    <td> 1031.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1031" data-uslm-ref="/us/usc/t29/s1031">1031.</a>  </td>
 
     <td> Repeal and effective date.  </td>
 
@@ -193,7 +193,7 @@ part 2—participation and vesting  </td>
 
   <tr>
 
-    <td> 1051.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1051" data-uslm-ref="/us/usc/t29/s1051">1051.</a>  </td>
 
     <td> Coverage.  </td>
 
@@ -201,7 +201,7 @@ part 2—participation and vesting  </td>
 
   <tr>
 
-    <td> 1052.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1052" data-uslm-ref="/us/usc/t29/s1052">1052.</a>  </td>
 
     <td> Minimum participation standards.  </td>
 
@@ -209,7 +209,7 @@ part 2—participation and vesting  </td>
 
   <tr>
 
-    <td> 1053.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1053" data-uslm-ref="/us/usc/t29/s1053">1053.</a>  </td>
 
     <td> Minimum vesting standards.  </td>
 
@@ -217,7 +217,7 @@ part 2—participation and vesting  </td>
 
   <tr>
 
-    <td> 1054.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1054" data-uslm-ref="/us/usc/t29/s1054">1054.</a>  </td>
 
     <td> Benefit accrual requirements.  </td>
 
@@ -225,7 +225,7 @@ part 2—participation and vesting  </td>
 
   <tr>
 
-    <td> 1055.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1055" data-uslm-ref="/us/usc/t29/s1055">1055.</a>  </td>
 
     <td> Requirement of joint and survivor annuity and preretirement survivor annuity.  </td>
 
@@ -233,7 +233,7 @@ part 2—participation and vesting  </td>
 
   <tr>
 
-    <td> 1056.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1056" data-uslm-ref="/us/usc/t29/s1056">1056.</a>  </td>
 
     <td> Form and payment of benefits.  </td>
 
@@ -241,7 +241,7 @@ part 2—participation and vesting  </td>
 
   <tr>
 
-    <td> 1057.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1057" data-uslm-ref="/us/usc/t29/s1057">1057.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -249,7 +249,7 @@ part 2—participation and vesting  </td>
 
   <tr>
 
-    <td> 1058.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1058" data-uslm-ref="/us/usc/t29/s1058">1058.</a>  </td>
 
     <td> Mergers and consolidations of plans or transfers of plan assets.  </td>
 
@@ -257,7 +257,7 @@ part 2—participation and vesting  </td>
 
   <tr>
 
-    <td> 1059.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1059" data-uslm-ref="/us/usc/t29/s1059">1059.</a>  </td>
 
     <td> Recordkeeping and reporting requirements.  </td>
 
@@ -265,7 +265,7 @@ part 2—participation and vesting  </td>
 
   <tr>
 
-    <td> 1060.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1060" data-uslm-ref="/us/usc/t29/s1060">1060.</a>  </td>
 
     <td> Multiple employer plans and other special rules.  </td>
 
@@ -273,7 +273,7 @@ part 2—participation and vesting  </td>
 
   <tr>
 
-    <td> 1061.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1061" data-uslm-ref="/us/usc/t29/s1061">1061.</a>  </td>
 
     <td> Effective dates.  </td>
 
@@ -289,7 +289,7 @@ part 3—funding  </td>
 
   <tr>
 
-    <td> 1081.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1081" data-uslm-ref="/us/usc/t29/s1081">1081.</a>  </td>
 
     <td> Coverage.  </td>
 
@@ -297,7 +297,7 @@ part 3—funding  </td>
 
   <tr>
 
-    <td> 1082.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1082" data-uslm-ref="/us/usc/t29/s1082">1082.</a>  </td>
 
     <td> Minimum funding standards.  </td>
 
@@ -305,7 +305,7 @@ part 3—funding  </td>
 
   <tr>
 
-    <td> 1083.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1083" data-uslm-ref="/us/usc/t29/s1083">1083.</a>  </td>
 
     <td> Minimum funding standards for single-employer defined benefit pension plans.  </td>
 
@@ -313,7 +313,7 @@ part 3—funding  </td>
 
   <tr>
 
-    <td> 1084.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1084" data-uslm-ref="/us/usc/t29/s1084">1084.</a>  </td>
 
     <td> Minimum funding standards for multiemployer plans.  </td>
 
@@ -321,7 +321,7 @@ part 3—funding  </td>
 
   <tr>
 
-    <td> 1085.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1085" data-uslm-ref="/us/usc/t29/s1085">1085.</a>  </td>
 
     <td> Additional funding rules for multiemployer plans in endangered status or critical status.  </td>
 
@@ -329,7 +329,9 @@ part 3—funding  </td>
 
   <tr>
 
-    <td> 1085a, 1085b, 1086. Repealed.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1085a" data-uslm-ref="/us/usc/t29/s1085a">1085a</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1085b" data-uslm-ref="/us/usc/t29/s1085b">1085b</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1086" data-uslm-ref="/us/usc/t29/s1086">1086.</a>  </td>
+
+    <td> Repealed.  </td>
 
   </tr>
 
@@ -343,7 +345,7 @@ part 4—fiduciary responsibility  </td>
 
   <tr>
 
-    <td> 1101.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1101" data-uslm-ref="/us/usc/t29/s1101">1101.</a>  </td>
 
     <td> Coverage.  </td>
 
@@ -351,7 +353,7 @@ part 4—fiduciary responsibility  </td>
 
   <tr>
 
-    <td> 1102.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1102" data-uslm-ref="/us/usc/t29/s1102">1102.</a>  </td>
 
     <td> Establishment of plan.  </td>
 
@@ -359,7 +361,7 @@ part 4—fiduciary responsibility  </td>
 
   <tr>
 
-    <td> 1103.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1103" data-uslm-ref="/us/usc/t29/s1103">1103.</a>  </td>
 
     <td> Establishment of trust.  </td>
 
@@ -367,7 +369,7 @@ part 4—fiduciary responsibility  </td>
 
   <tr>
 
-    <td> 1104.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1104" data-uslm-ref="/us/usc/t29/s1104">1104.</a>  </td>
 
     <td> Fiduciary duties.  </td>
 
@@ -375,7 +377,7 @@ part 4—fiduciary responsibility  </td>
 
   <tr>
 
-    <td> 1105.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1105" data-uslm-ref="/us/usc/t29/s1105">1105.</a>  </td>
 
     <td> Liability for breach of co-fiduciary.  </td>
 
@@ -383,7 +385,7 @@ part 4—fiduciary responsibility  </td>
 
   <tr>
 
-    <td> 1106.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1106" data-uslm-ref="/us/usc/t29/s1106">1106.</a>  </td>
 
     <td> Prohibited transactions.  </td>
 
@@ -391,7 +393,7 @@ part 4—fiduciary responsibility  </td>
 
   <tr>
 
-    <td> 1107.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1107" data-uslm-ref="/us/usc/t29/s1107">1107.</a>  </td>
 
     <td> Limitation with respect to acquisition and holding of employer securities and employer real property by certain plans.  </td>
 
@@ -399,7 +401,7 @@ part 4—fiduciary responsibility  </td>
 
   <tr>
 
-    <td> 1108.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1108" data-uslm-ref="/us/usc/t29/s1108">1108.</a>  </td>
 
     <td> Exemptions from prohibited transactions.  </td>
 
@@ -407,7 +409,7 @@ part 4—fiduciary responsibility  </td>
 
   <tr>
 
-    <td> 1109.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1109" data-uslm-ref="/us/usc/t29/s1109">1109.</a>  </td>
 
     <td> Liability for breach of fiduciary duty.  </td>
 
@@ -415,7 +417,7 @@ part 4—fiduciary responsibility  </td>
 
   <tr>
 
-    <td> 1110.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1110" data-uslm-ref="/us/usc/t29/s1110">1110.</a>  </td>
 
     <td> Exculpatory provisions; insurance.  </td>
 
@@ -423,7 +425,7 @@ part 4—fiduciary responsibility  </td>
 
   <tr>
 
-    <td> 1111.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1111" data-uslm-ref="/us/usc/t29/s1111">1111.</a>  </td>
 
     <td> Persons prohibited from holding certain positions.  </td>
 
@@ -431,7 +433,7 @@ part 4—fiduciary responsibility  </td>
 
   <tr>
 
-    <td> 1112.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1112" data-uslm-ref="/us/usc/t29/s1112">1112.</a>  </td>
 
     <td> Bonding.  </td>
 
@@ -439,7 +441,7 @@ part 4—fiduciary responsibility  </td>
 
   <tr>
 
-    <td> 1113.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1113" data-uslm-ref="/us/usc/t29/s1113">1113.</a>  </td>
 
     <td> Limitation of actions.  </td>
 
@@ -447,7 +449,7 @@ part 4—fiduciary responsibility  </td>
 
   <tr>
 
-    <td> 1114.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1114" data-uslm-ref="/us/usc/t29/s1114">1114.</a>  </td>
 
     <td> Effective date.  </td>
 
@@ -463,7 +465,7 @@ part 5—administration and enforcement  </td>
 
   <tr>
 
-    <td> 1131.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1131" data-uslm-ref="/us/usc/t29/s1131">1131.</a>  </td>
 
     <td> Criminal penalties.  </td>
 
@@ -471,7 +473,7 @@ part 5—administration and enforcement  </td>
 
   <tr>
 
-    <td> 1132.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1132" data-uslm-ref="/us/usc/t29/s1132">1132.</a>  </td>
 
     <td> Civil enforcement.  </td>
 
@@ -479,7 +481,7 @@ part 5—administration and enforcement  </td>
 
   <tr>
 
-    <td> 1133.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1133" data-uslm-ref="/us/usc/t29/s1133">1133.</a>  </td>
 
     <td> Claims procedure.  </td>
 
@@ -487,7 +489,7 @@ part 5—administration and enforcement  </td>
 
   <tr>
 
-    <td> 1134.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1134" data-uslm-ref="/us/usc/t29/s1134">1134.</a>  </td>
 
     <td> Investigative authority.  </td>
 
@@ -495,7 +497,7 @@ part 5—administration and enforcement  </td>
 
   <tr>
 
-    <td> 1135.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1135" data-uslm-ref="/us/usc/t29/s1135">1135.</a>  </td>
 
     <td> Regulations.  </td>
 
@@ -503,7 +505,7 @@ part 5—administration and enforcement  </td>
 
   <tr>
 
-    <td> 1136.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1136" data-uslm-ref="/us/usc/t29/s1136">1136.</a>  </td>
 
     <td> Coordination and responsibility of agencies enforcing this subchapter and related Federal laws.  </td>
 
@@ -511,7 +513,7 @@ part 5—administration and enforcement  </td>
 
   <tr>
 
-    <td> 1137.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1137" data-uslm-ref="/us/usc/t29/s1137">1137.</a>  </td>
 
     <td> Administration.  </td>
 
@@ -519,7 +521,7 @@ part 5—administration and enforcement  </td>
 
   <tr>
 
-    <td> 1138.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1138" data-uslm-ref="/us/usc/t29/s1138">1138.</a>  </td>
 
     <td> Appropriations.  </td>
 
@@ -527,7 +529,7 @@ part 5—administration and enforcement  </td>
 
   <tr>
 
-    <td> 1139.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1139" data-uslm-ref="/us/usc/t29/s1139">1139.</a>  </td>
 
     <td> Separability.  </td>
 
@@ -535,7 +537,7 @@ part 5—administration and enforcement  </td>
 
   <tr>
 
-    <td> 1140.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1140" data-uslm-ref="/us/usc/t29/s1140">1140.</a>  </td>
 
     <td> Interference with protected rights.  </td>
 
@@ -543,7 +545,7 @@ part 5—administration and enforcement  </td>
 
   <tr>
 
-    <td> 1141.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1141" data-uslm-ref="/us/usc/t29/s1141">1141.</a>  </td>
 
     <td> Coercive interference.  </td>
 
@@ -551,7 +553,7 @@ part 5—administration and enforcement  </td>
 
   <tr>
 
-    <td> 1142.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1142" data-uslm-ref="/us/usc/t29/s1142">1142.</a>  </td>
 
     <td> Advisory Council on Employee Welfare and Pension Benefit Plans.  </td>
 
@@ -559,7 +561,7 @@ part 5—administration and enforcement  </td>
 
   <tr>
 
-    <td> 1143.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1143" data-uslm-ref="/us/usc/t29/s1143">1143.</a>  </td>
 
     <td> Research, studies, and reports.  </td>
 
@@ -567,7 +569,7 @@ part 5—administration and enforcement  </td>
 
   <tr>
 
-    <td> 1143a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1143a" data-uslm-ref="/us/usc/t29/s1143a">1143a.</a>  </td>
 
     <td> Studies by Comptroller General.  </td>
 
@@ -575,7 +577,7 @@ part 5—administration and enforcement  </td>
 
   <tr>
 
-    <td> 1144.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1144" data-uslm-ref="/us/usc/t29/s1144">1144.</a>  </td>
 
     <td> Other laws.  </td>
 
@@ -583,7 +585,7 @@ part 5—administration and enforcement  </td>
 
   <tr>
 
-    <td> 1144a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1144a" data-uslm-ref="/us/usc/t29/s1144a">1144a.</a>  </td>
 
     <td> Clarification of church welfare plan status under State insurance law.  </td>
 
@@ -591,7 +593,7 @@ part 5—administration and enforcement  </td>
 
   <tr>
 
-    <td> 1145.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1145" data-uslm-ref="/us/usc/t29/s1145">1145.</a>  </td>
 
     <td> Delinquent contributions.  </td>
 
@@ -599,7 +601,7 @@ part 5—administration and enforcement  </td>
 
   <tr>
 
-    <td> 1146.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1146" data-uslm-ref="/us/usc/t29/s1146">1146.</a>  </td>
 
     <td> Outreach to promote retirement income savings.  </td>
 
@@ -607,7 +609,7 @@ part 5—administration and enforcement  </td>
 
   <tr>
 
-    <td> 1147.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1147" data-uslm-ref="/us/usc/t29/s1147">1147.</a>  </td>
 
     <td> National Summit on Retirement Savings.  </td>
 
@@ -615,7 +617,7 @@ part 5—administration and enforcement  </td>
 
   <tr>
 
-    <td> 1148.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1148" data-uslm-ref="/us/usc/t29/s1148">1148.</a>  </td>
 
     <td> Authority to postpone certain deadlines by reason of Presidentially declared disaster or terroristic or military actions.  </td>
 
@@ -623,7 +625,7 @@ part 5—administration and enforcement  </td>
 
   <tr>
 
-    <td> 1149.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1149" data-uslm-ref="/us/usc/t29/s1149">1149.</a>  </td>
 
     <td> Prohibition on false statements and representations.  </td>
 
@@ -631,7 +633,7 @@ part 5—administration and enforcement  </td>
 
   <tr>
 
-    <td> 1150.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1150" data-uslm-ref="/us/usc/t29/s1150">1150.</a>  </td>
 
     <td> Applicability of State law to combat fraud and abuse.  </td>
 
@@ -639,7 +641,7 @@ part 5—administration and enforcement  </td>
 
   <tr>
 
-    <td> 1151.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1151" data-uslm-ref="/us/usc/t29/s1151">1151.</a>  </td>
 
     <td> Administrative summary cease and desist orders and summary seizure orders against multiple employer welfare arrangements in financially hazardous condition.  </td>
 
@@ -655,7 +657,7 @@ part 6—continuation coverage and additional standards for group health plans  
 
   <tr>
 
-    <td> 1161.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1161" data-uslm-ref="/us/usc/t29/s1161">1161.</a>  </td>
 
     <td> Plans must provide continuation coverage to certain individuals.  </td>
 
@@ -663,7 +665,7 @@ part 6—continuation coverage and additional standards for group health plans  
 
   <tr>
 
-    <td> 1162.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1162" data-uslm-ref="/us/usc/t29/s1162">1162.</a>  </td>
 
     <td> Continuation coverage.  </td>
 
@@ -671,7 +673,7 @@ part 6—continuation coverage and additional standards for group health plans  
 
   <tr>
 
-    <td> 1163.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1163" data-uslm-ref="/us/usc/t29/s1163">1163.</a>  </td>
 
     <td> Qualifying event.  </td>
 
@@ -679,7 +681,7 @@ part 6—continuation coverage and additional standards for group health plans  
 
   <tr>
 
-    <td> 1164.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1164" data-uslm-ref="/us/usc/t29/s1164">1164.</a>  </td>
 
     <td> Applicable premium.  </td>
 
@@ -687,7 +689,7 @@ part 6—continuation coverage and additional standards for group health plans  
 
   <tr>
 
-    <td> 1165.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1165" data-uslm-ref="/us/usc/t29/s1165">1165.</a>  </td>
 
     <td> Election.  </td>
 
@@ -695,7 +697,7 @@ part 6—continuation coverage and additional standards for group health plans  
 
   <tr>
 
-    <td> 1166.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1166" data-uslm-ref="/us/usc/t29/s1166">1166.</a>  </td>
 
     <td> Notice requirements.  </td>
 
@@ -703,7 +705,7 @@ part 6—continuation coverage and additional standards for group health plans  
 
   <tr>
 
-    <td> 1167.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1167" data-uslm-ref="/us/usc/t29/s1167">1167.</a>  </td>
 
     <td> Definitions and special rules.  </td>
 
@@ -711,7 +713,7 @@ part 6—continuation coverage and additional standards for group health plans  
 
   <tr>
 
-    <td> 1168.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1168" data-uslm-ref="/us/usc/t29/s1168">1168.</a>  </td>
 
     <td> Regulations.  </td>
 
@@ -719,7 +721,7 @@ part 6—continuation coverage and additional standards for group health plans  
 
   <tr>
 
-    <td> 1169.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1169" data-uslm-ref="/us/usc/t29/s1169">1169.</a>  </td>
 
     <td> Additional standards for group health plans.  </td>
 
@@ -743,7 +745,7 @@ Subpart A—Requirements Relating to Portability, Access, and Renewability  </td
 
   <tr>
 
-    <td> 1181.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1181" data-uslm-ref="/us/usc/t29/s1181">1181.</a>  </td>
 
     <td> Increased portability through limitation on preexisting condition exclusions.  </td>
 
@@ -751,7 +753,7 @@ Subpart A—Requirements Relating to Portability, Access, and Renewability  </td
 
   <tr>
 
-    <td> 1182.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1182" data-uslm-ref="/us/usc/t29/s1182">1182.</a>  </td>
 
     <td> Prohibiting discrimination against individual participants and beneficiaries based on health status.  </td>
 
@@ -759,7 +761,7 @@ Subpart A—Requirements Relating to Portability, Access, and Renewability  </td
 
   <tr>
 
-    <td> 1183.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1183" data-uslm-ref="/us/usc/t29/s1183">1183.</a>  </td>
 
     <td> Guaranteed renewability in multiemployer plans and multiple employer welfare arrangements.  </td>
 
@@ -775,7 +777,7 @@ Subpart B—Other Requirements  </td>
 
   <tr>
 
-    <td> 1185.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1185" data-uslm-ref="/us/usc/t29/s1185">1185.</a>  </td>
 
     <td> Standards relating to benefits for mothers and newborns.  </td>
 
@@ -783,7 +785,7 @@ Subpart B—Other Requirements  </td>
 
   <tr>
 
-    <td> 1185a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1185a" data-uslm-ref="/us/usc/t29/s1185a">1185a.</a>  </td>
 
     <td> Parity in mental health and substance use disorder benefits.  </td>
 
@@ -791,7 +793,7 @@ Subpart B—Other Requirements  </td>
 
   <tr>
 
-    <td> 1185b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1185b" data-uslm-ref="/us/usc/t29/s1185b">1185b.</a>  </td>
 
     <td> Required coverage for reconstructive surgery following mastectomies.  </td>
 
@@ -799,7 +801,7 @@ Subpart B—Other Requirements  </td>
 
   <tr>
 
-    <td> 1185c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1185c" data-uslm-ref="/us/usc/t29/s1185c">1185c.</a>  </td>
 
     <td> Coverage of dependent students on medically necessary leave of absence.  </td>
 
@@ -807,7 +809,7 @@ Subpart B—Other Requirements  </td>
 
   <tr>
 
-    <td> 1185d.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1185d" data-uslm-ref="/us/usc/t29/s1185d">1185d.</a>  </td>
 
     <td> Additional market reforms.  </td>
 
@@ -823,7 +825,7 @@ Subpart C—General Provisions  </td>
 
   <tr>
 
-    <td> 1191.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1191" data-uslm-ref="/us/usc/t29/s1191">1191.</a>  </td>
 
     <td> Preemption; State flexibility; construction.  </td>
 
@@ -831,7 +833,7 @@ Subpart C—General Provisions  </td>
 
   <tr>
 
-    <td> 1191a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1191a" data-uslm-ref="/us/usc/t29/s1191a">1191a.</a>  </td>
 
     <td> Special rules relating to group health plans.  </td>
 
@@ -839,7 +841,7 @@ Subpart C—General Provisions  </td>
 
   <tr>
 
-    <td> 1191b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1191b" data-uslm-ref="/us/usc/t29/s1191b">1191b.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -847,7 +849,7 @@ Subpart C—General Provisions  </td>
 
   <tr>
 
-    <td> 1191c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1191c" data-uslm-ref="/us/usc/t29/s1191c">1191c.</a>  </td>
 
     <td> Regulations.  </td>
 
@@ -871,7 +873,7 @@ Subtitle A—Jurisdiction, Administration, and Enforcement  </td>
 
   <tr>
 
-    <td> 1201.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1201" data-uslm-ref="/us/usc/t29/s1201">1201.</a>  </td>
 
     <td> Procedures in connection with the issuance of certain determination letters by the Secretary of the Treasury covering qualifications under Internal Revenue Code.  </td>
 
@@ -879,7 +881,7 @@ Subtitle A—Jurisdiction, Administration, and Enforcement  </td>
 
   <tr>
 
-    <td> 1202.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1202" data-uslm-ref="/us/usc/t29/s1202">1202.</a>  </td>
 
     <td> Procedures with respect to continued compliance with Internal Revenue requirements relating to participation, vesting, and funding standards.  </td>
 
@@ -887,7 +889,7 @@ Subtitle A—Jurisdiction, Administration, and Enforcement  </td>
 
   <tr>
 
-    <td> 1202a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1202a" data-uslm-ref="/us/usc/t29/s1202a">1202a.</a>  </td>
 
     <td> Employee plans compliance resolution system.  </td>
 
@@ -895,7 +897,7 @@ Subtitle A—Jurisdiction, Administration, and Enforcement  </td>
 
   <tr>
 
-    <td> 1203.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1203" data-uslm-ref="/us/usc/t29/s1203">1203.</a>  </td>
 
     <td> Procedures in connection with prohibited transactions.  </td>
 
@@ -903,7 +905,7 @@ Subtitle A—Jurisdiction, Administration, and Enforcement  </td>
 
   <tr>
 
-    <td> 1204.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1204" data-uslm-ref="/us/usc/t29/s1204">1204.</a>  </td>
 
     <td> Coordination between the Department of the Treasury and the Department of Labor.  </td>
 
@@ -927,7 +929,7 @@ part 1—joint pension, profit-sharing, and employee stock ownership plan task f
 
   <tr>
 
-    <td> 1221.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1221" data-uslm-ref="/us/usc/t29/s1221">1221.</a>  </td>
 
     <td> Establishment.  </td>
 
@@ -935,7 +937,7 @@ part 1—joint pension, profit-sharing, and employee stock ownership plan task f
 
   <tr>
 
-    <td> 1222.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1222" data-uslm-ref="/us/usc/t29/s1222">1222.</a>  </td>
 
     <td> Duties.  </td>
 
@@ -951,7 +953,7 @@ part 2—other studies  </td>
 
   <tr>
 
-    <td> 1231.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1231" data-uslm-ref="/us/usc/t29/s1231">1231.</a>  </td>
 
     <td> Congressional study.  </td>
 
@@ -959,7 +961,7 @@ part 2—other studies  </td>
 
   <tr>
 
-    <td> 1232.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1232" data-uslm-ref="/us/usc/t29/s1232">1232.</a>  </td>
 
     <td> Protection for employees under Federal procurement, construction, and research contracts and grants.  </td>
 
@@ -975,7 +977,7 @@ Subtitle C—Enrollment of Actuaries  </td>
 
   <tr>
 
-    <td> 1241.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1241" data-uslm-ref="/us/usc/t29/s1241">1241.</a>  </td>
 
     <td> Joint Board for the Enrollment of Actuaries.  </td>
 
@@ -983,7 +985,7 @@ Subtitle C—Enrollment of Actuaries  </td>
 
   <tr>
 
-    <td> 1242.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1242" data-uslm-ref="/us/usc/t29/s1242">1242.</a>  </td>
 
     <td> Enrollment by Board; standards and qualifications; suspension or termination of enrollment.  </td>
 
@@ -1007,7 +1009,7 @@ Subtitle A—Pension Benefit Guaranty Corporation  </td>
 
   <tr>
 
-    <td> 1301.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1301" data-uslm-ref="/us/usc/t29/s1301">1301.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -1015,7 +1017,7 @@ Subtitle A—Pension Benefit Guaranty Corporation  </td>
 
   <tr>
 
-    <td> 1302.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1302" data-uslm-ref="/us/usc/t29/s1302">1302.</a>  </td>
 
     <td> Pension Benefit Guaranty Corporation.  </td>
 
@@ -1023,7 +1025,7 @@ Subtitle A—Pension Benefit Guaranty Corporation  </td>
 
   <tr>
 
-    <td> 1303.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1303" data-uslm-ref="/us/usc/t29/s1303">1303.</a>  </td>
 
     <td> Operation of corporation.  </td>
 
@@ -1031,7 +1033,7 @@ Subtitle A—Pension Benefit Guaranty Corporation  </td>
 
   <tr>
 
-    <td> 1304.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1304" data-uslm-ref="/us/usc/t29/s1304">1304.</a>  </td>
 
     <td> Participant and Plan Sponsor Advocate.  </td>
 
@@ -1039,7 +1041,7 @@ Subtitle A—Pension Benefit Guaranty Corporation  </td>
 
   <tr>
 
-    <td> 1305.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1305" data-uslm-ref="/us/usc/t29/s1305">1305.</a>  </td>
 
     <td> Pension benefit guaranty funds.  </td>
 
@@ -1047,7 +1049,7 @@ Subtitle A—Pension Benefit Guaranty Corporation  </td>
 
   <tr>
 
-    <td> 1306.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1306" data-uslm-ref="/us/usc/t29/s1306">1306.</a>  </td>
 
     <td> Premium rates.  </td>
 
@@ -1055,7 +1057,7 @@ Subtitle A—Pension Benefit Guaranty Corporation  </td>
 
   <tr>
 
-    <td> 1307.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1307" data-uslm-ref="/us/usc/t29/s1307">1307.</a>  </td>
 
     <td> Payment of premiums.  </td>
 
@@ -1063,7 +1065,7 @@ Subtitle A—Pension Benefit Guaranty Corporation  </td>
 
   <tr>
 
-    <td> 1308.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1308" data-uslm-ref="/us/usc/t29/s1308">1308.</a>  </td>
 
     <td> Annual report by the corporation.  </td>
 
@@ -1071,7 +1073,7 @@ Subtitle A—Pension Benefit Guaranty Corporation  </td>
 
   <tr>
 
-    <td> 1309.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1309" data-uslm-ref="/us/usc/t29/s1309">1309.</a>  </td>
 
     <td> Portability assistance.  </td>
 
@@ -1079,7 +1081,7 @@ Subtitle A—Pension Benefit Guaranty Corporation  </td>
 
   <tr>
 
-    <td> 1310.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1310" data-uslm-ref="/us/usc/t29/s1310">1310.</a>  </td>
 
     <td> Authority to require certain information.  </td>
 
@@ -1087,7 +1089,7 @@ Subtitle A—Pension Benefit Guaranty Corporation  </td>
 
   <tr>
 
-    <td> 1311.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1311" data-uslm-ref="/us/usc/t29/s1311">1311.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -1103,7 +1105,7 @@ Subtitle B—Coverage  </td>
 
   <tr>
 
-    <td> 1321.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1321" data-uslm-ref="/us/usc/t29/s1321">1321.</a>  </td>
 
     <td> Coverage.  </td>
 
@@ -1111,7 +1113,7 @@ Subtitle B—Coverage  </td>
 
   <tr>
 
-    <td> 1322.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1322" data-uslm-ref="/us/usc/t29/s1322">1322.</a>  </td>
 
     <td> Single-employer plan benefits guaranteed.  </td>
 
@@ -1119,7 +1121,7 @@ Subtitle B—Coverage  </td>
 
   <tr>
 
-    <td> 1322a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1322a" data-uslm-ref="/us/usc/t29/s1322a">1322a.</a>  </td>
 
     <td> Multiemployer plan benefits guaranteed.  </td>
 
@@ -1127,7 +1129,7 @@ Subtitle B—Coverage  </td>
 
   <tr>
 
-    <td> 1322b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1322b" data-uslm-ref="/us/usc/t29/s1322b">1322b.</a>  </td>
 
     <td> Aggregate limit on benefits guaranteed; criteria applicable.  </td>
 
@@ -1135,7 +1137,7 @@ Subtitle B—Coverage  </td>
 
   <tr>
 
-    <td> 1323.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1323" data-uslm-ref="/us/usc/t29/s1323">1323.</a>  </td>
 
     <td> Plan fiduciaries.  </td>
 
@@ -1151,7 +1153,7 @@ Subtitle C—Terminations  </td>
 
   <tr>
 
-    <td> 1341.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1341" data-uslm-ref="/us/usc/t29/s1341">1341.</a>  </td>
 
     <td> Termination of single-employer plans.  </td>
 
@@ -1159,7 +1161,7 @@ Subtitle C—Terminations  </td>
 
   <tr>
 
-    <td> 1341a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1341a" data-uslm-ref="/us/usc/t29/s1341a">1341a.</a>  </td>
 
     <td> Termination of multiemployer plans.  </td>
 
@@ -1167,7 +1169,7 @@ Subtitle C—Terminations  </td>
 
   <tr>
 
-    <td> 1342.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1342" data-uslm-ref="/us/usc/t29/s1342">1342.</a>  </td>
 
     <td> Institution of termination proceedings by the corporation.  </td>
 
@@ -1175,7 +1177,7 @@ Subtitle C—Terminations  </td>
 
   <tr>
 
-    <td> 1343.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1343" data-uslm-ref="/us/usc/t29/s1343">1343.</a>  </td>
 
     <td> Reportable events.  </td>
 
@@ -1183,7 +1185,7 @@ Subtitle C—Terminations  </td>
 
   <tr>
 
-    <td> 1344.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1344" data-uslm-ref="/us/usc/t29/s1344">1344.</a>  </td>
 
     <td> Allocation of assets.  </td>
 
@@ -1191,7 +1193,7 @@ Subtitle C—Terminations  </td>
 
   <tr>
 
-    <td> 1345.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1345" data-uslm-ref="/us/usc/t29/s1345">1345.</a>  </td>
 
     <td> Recapture of payments.  </td>
 
@@ -1199,7 +1201,7 @@ Subtitle C—Terminations  </td>
 
   <tr>
 
-    <td> 1346.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1346" data-uslm-ref="/us/usc/t29/s1346">1346.</a>  </td>
 
     <td> Reports to trustee.  </td>
 
@@ -1207,7 +1209,7 @@ Subtitle C—Terminations  </td>
 
   <tr>
 
-    <td> 1347.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1347" data-uslm-ref="/us/usc/t29/s1347">1347.</a>  </td>
 
     <td> Restoration of plans.  </td>
 
@@ -1215,7 +1217,7 @@ Subtitle C—Terminations  </td>
 
   <tr>
 
-    <td> 1348.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1348" data-uslm-ref="/us/usc/t29/s1348">1348.</a>  </td>
 
     <td> Termination date.  </td>
 
@@ -1223,7 +1225,7 @@ Subtitle C—Terminations  </td>
 
   <tr>
 
-    <td> 1349.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1349" data-uslm-ref="/us/usc/t29/s1349">1349.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -1231,7 +1233,7 @@ Subtitle C—Terminations  </td>
 
   <tr>
 
-    <td> 1350.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1350" data-uslm-ref="/us/usc/t29/s1350">1350.</a>  </td>
 
     <td> Missing participants.  </td>
 
@@ -1247,7 +1249,7 @@ Subtitle D—Liability  </td>
 
   <tr>
 
-    <td> 1361.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1361" data-uslm-ref="/us/usc/t29/s1361">1361.</a>  </td>
 
     <td> Amounts payable by corporation.  </td>
 
@@ -1255,7 +1257,7 @@ Subtitle D—Liability  </td>
 
   <tr>
 
-    <td> 1362.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1362" data-uslm-ref="/us/usc/t29/s1362">1362.</a>  </td>
 
     <td> Liability for termination of single-employer plans under a distress termination or a termination by corporation.  </td>
 
@@ -1263,7 +1265,7 @@ Subtitle D—Liability  </td>
 
   <tr>
 
-    <td> 1363.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1363" data-uslm-ref="/us/usc/t29/s1363">1363.</a>  </td>
 
     <td> Liability of substantial employer for withdrawal from single-employer plans under multiple controlled groups.  </td>
 
@@ -1271,7 +1273,7 @@ Subtitle D—Liability  </td>
 
   <tr>
 
-    <td> 1364.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1364" data-uslm-ref="/us/usc/t29/s1364">1364.</a>  </td>
 
     <td> Liability on termination of single-employer plans under multiple controlled groups.  </td>
 
@@ -1279,7 +1281,7 @@ Subtitle D—Liability  </td>
 
   <tr>
 
-    <td> 1365.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1365" data-uslm-ref="/us/usc/t29/s1365">1365.</a>  </td>
 
     <td> Annual report of plan administrator.  </td>
 
@@ -1287,7 +1289,7 @@ Subtitle D—Liability  </td>
 
   <tr>
 
-    <td> 1366.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1366" data-uslm-ref="/us/usc/t29/s1366">1366.</a>  </td>
 
     <td> Annual notification to substantial employers.  </td>
 
@@ -1295,7 +1297,7 @@ Subtitle D—Liability  </td>
 
   <tr>
 
-    <td> 1367.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1367" data-uslm-ref="/us/usc/t29/s1367">1367.</a>  </td>
 
     <td> Recovery of liability for plan termination.  </td>
 
@@ -1303,7 +1305,7 @@ Subtitle D—Liability  </td>
 
   <tr>
 
-    <td> 1368.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1368" data-uslm-ref="/us/usc/t29/s1368">1368.</a>  </td>
 
     <td> Lien for liability.  </td>
 
@@ -1311,7 +1313,7 @@ Subtitle D—Liability  </td>
 
   <tr>
 
-    <td> 1369.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1369" data-uslm-ref="/us/usc/t29/s1369">1369.</a>  </td>
 
     <td> Treatment of transactions to evade liability; effect of corporate reorganization.  </td>
 
@@ -1319,7 +1321,7 @@ Subtitle D—Liability  </td>
 
   <tr>
 
-    <td> 1370.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1370" data-uslm-ref="/us/usc/t29/s1370">1370.</a>  </td>
 
     <td> Enforcement authority relating to terminations of single-employer plans.  </td>
 
@@ -1327,7 +1329,7 @@ Subtitle D—Liability  </td>
 
   <tr>
 
-    <td> 1371.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1371" data-uslm-ref="/us/usc/t29/s1371">1371.</a>  </td>
 
     <td> Penalty for failure to timely provide required information.  </td>
 
@@ -1351,7 +1353,7 @@ part 1—employer withdrawals  </td>
 
   <tr>
 
-    <td> 1381.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1381" data-uslm-ref="/us/usc/t29/s1381">1381.</a>  </td>
 
     <td> Withdrawal liability established; criteria and definitions.  </td>
 
@@ -1359,7 +1361,7 @@ part 1—employer withdrawals  </td>
 
   <tr>
 
-    <td> 1382.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1382" data-uslm-ref="/us/usc/t29/s1382">1382.</a>  </td>
 
     <td> Determination and collection of liability; notification of employer.  </td>
 
@@ -1367,7 +1369,7 @@ part 1—employer withdrawals  </td>
 
   <tr>
 
-    <td> 1383.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1383" data-uslm-ref="/us/usc/t29/s1383">1383.</a>  </td>
 
     <td> Complete withdrawal.  </td>
 
@@ -1375,7 +1377,7 @@ part 1—employer withdrawals  </td>
 
   <tr>
 
-    <td> 1384.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1384" data-uslm-ref="/us/usc/t29/s1384">1384.</a>  </td>
 
     <td> Sale of assets.  </td>
 
@@ -1383,7 +1385,7 @@ part 1—employer withdrawals  </td>
 
   <tr>
 
-    <td> 1385.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1385" data-uslm-ref="/us/usc/t29/s1385">1385.</a>  </td>
 
     <td> Partial withdrawals.  </td>
 
@@ -1391,7 +1393,7 @@ part 1—employer withdrawals  </td>
 
   <tr>
 
-    <td> 1386.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1386" data-uslm-ref="/us/usc/t29/s1386">1386.</a>  </td>
 
     <td> Adjustment for partial withdrawal; determination of amount; reduction for partial withdrawal liability; procedures applicable.  </td>
 
@@ -1399,7 +1401,7 @@ part 1—employer withdrawals  </td>
 
   <tr>
 
-    <td> 1387.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1387" data-uslm-ref="/us/usc/t29/s1387">1387.</a>  </td>
 
     <td> Reduction or waiver of complete withdrawal liability; procedures and standards applicable.  </td>
 
@@ -1407,7 +1409,7 @@ part 1—employer withdrawals  </td>
 
   <tr>
 
-    <td> 1388.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1388" data-uslm-ref="/us/usc/t29/s1388">1388.</a>  </td>
 
     <td> Reduction of partial withdrawal liability.  </td>
 
@@ -1415,7 +1417,7 @@ part 1—employer withdrawals  </td>
 
   <tr>
 
-    <td> 1389.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1389" data-uslm-ref="/us/usc/t29/s1389">1389.</a>  </td>
 
     <td> De minimis rule.  </td>
 
@@ -1423,7 +1425,7 @@ part 1—employer withdrawals  </td>
 
   <tr>
 
-    <td> 1390.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1390" data-uslm-ref="/us/usc/t29/s1390">1390.</a>  </td>
 
     <td> Nonapplicability of withdrawal liability for certain temporary contribution obligation periods; exception.  </td>
 
@@ -1431,7 +1433,7 @@ part 1—employer withdrawals  </td>
 
   <tr>
 
-    <td> 1391.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1391" data-uslm-ref="/us/usc/t29/s1391">1391.</a>  </td>
 
     <td> Methods for computing withdrawal liability.  </td>
 
@@ -1439,7 +1441,7 @@ part 1—employer withdrawals  </td>
 
   <tr>
 
-    <td> 1392.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1392" data-uslm-ref="/us/usc/t29/s1392">1392.</a>  </td>
 
     <td> Obligation to contribute.  </td>
 
@@ -1447,7 +1449,7 @@ part 1—employer withdrawals  </td>
 
   <tr>
 
-    <td> 1393.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1393" data-uslm-ref="/us/usc/t29/s1393">1393.</a>  </td>
 
     <td> Actuarial assumptions.  </td>
 
@@ -1455,7 +1457,7 @@ part 1—employer withdrawals  </td>
 
   <tr>
 
-    <td> 1394.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1394" data-uslm-ref="/us/usc/t29/s1394">1394.</a>  </td>
 
     <td> Application of plan amendments; exception.  </td>
 
@@ -1463,7 +1465,7 @@ part 1—employer withdrawals  </td>
 
   <tr>
 
-    <td> 1395.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1395" data-uslm-ref="/us/usc/t29/s1395">1395.</a>  </td>
 
     <td> Plan notification to corporation of potentially significant withdrawals.  </td>
 
@@ -1471,7 +1473,7 @@ part 1—employer withdrawals  </td>
 
   <tr>
 
-    <td> 1396.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1396" data-uslm-ref="/us/usc/t29/s1396">1396.</a>  </td>
 
     <td> Special rules for plans under <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs404%2Fc" data-uslm-ref="/us/usc/t26/s404/c">section 404(c) of title 26</a>.  </td>
 
@@ -1479,7 +1481,7 @@ part 1—employer withdrawals  </td>
 
   <tr>
 
-    <td> 1397.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1397" data-uslm-ref="/us/usc/t29/s1397">1397.</a>  </td>
 
     <td> Application of part in case of certain pre-1980 withdrawals; adjustment of covered plan.  </td>
 
@@ -1487,7 +1489,7 @@ part 1—employer withdrawals  </td>
 
   <tr>
 
-    <td> 1398.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1398" data-uslm-ref="/us/usc/t29/s1398">1398.</a>  </td>
 
     <td> Withdrawal not to occur because of change in business form or suspension of contributions during labor dispute.  </td>
 
@@ -1495,7 +1497,7 @@ part 1—employer withdrawals  </td>
 
   <tr>
 
-    <td> 1399.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1399" data-uslm-ref="/us/usc/t29/s1399">1399.</a>  </td>
 
     <td> Notice, collection, etc., of withdrawal liability.  </td>
 
@@ -1503,7 +1505,7 @@ part 1—employer withdrawals  </td>
 
   <tr>
 
-    <td> 1400.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1400" data-uslm-ref="/us/usc/t29/s1400">1400.</a>  </td>
 
     <td> Approval of amendments.  </td>
 
@@ -1511,7 +1513,7 @@ part 1—employer withdrawals  </td>
 
   <tr>
 
-    <td> 1401.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1401" data-uslm-ref="/us/usc/t29/s1401">1401.</a>  </td>
 
     <td> Resolution of disputes.  </td>
 
@@ -1519,7 +1521,7 @@ part 1—employer withdrawals  </td>
 
   <tr>
 
-    <td> 1402.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1402" data-uslm-ref="/us/usc/t29/s1402">1402.</a>  </td>
 
     <td> Reimbursements for uncollectible withdrawal liability.  </td>
 
@@ -1527,7 +1529,7 @@ part 1—employer withdrawals  </td>
 
   <tr>
 
-    <td> 1403.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1403" data-uslm-ref="/us/usc/t29/s1403">1403.</a>  </td>
 
     <td> Withdrawal liability payment fund.  </td>
 
@@ -1535,7 +1537,7 @@ part 1—employer withdrawals  </td>
 
   <tr>
 
-    <td> 1404.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1404" data-uslm-ref="/us/usc/t29/s1404">1404.</a>  </td>
 
     <td> Alternative method of withdrawal liability payments.  </td>
 
@@ -1543,7 +1545,7 @@ part 1—employer withdrawals  </td>
 
   <tr>
 
-    <td> 1405.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1405" data-uslm-ref="/us/usc/t29/s1405">1405.</a>  </td>
 
     <td> Limitation on withdrawal liability.  </td>
 
@@ -1559,7 +1561,7 @@ part 2—merger or transfer of plan assets or liabilities  </td>
 
   <tr>
 
-    <td> 1411.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1411" data-uslm-ref="/us/usc/t29/s1411">1411.</a>  </td>
 
     <td> Mergers and transfers between multiemployer plans.  </td>
 
@@ -1567,7 +1569,7 @@ part 2—merger or transfer of plan assets or liabilities  </td>
 
   <tr>
 
-    <td> 1412.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1412" data-uslm-ref="/us/usc/t29/s1412">1412.</a>  </td>
 
     <td> Transfers between a multiemployer plan and a single-employer plan.  </td>
 
@@ -1575,7 +1577,7 @@ part 2—merger or transfer of plan assets or liabilities  </td>
 
   <tr>
 
-    <td> 1413.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1413" data-uslm-ref="/us/usc/t29/s1413">1413.</a>  </td>
 
     <td> Partition.  </td>
 
@@ -1583,7 +1585,7 @@ part 2—merger or transfer of plan assets or liabilities  </td>
 
   <tr>
 
-    <td> 1414.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1414" data-uslm-ref="/us/usc/t29/s1414">1414.</a>  </td>
 
     <td> Asset transfer rules.  </td>
 
@@ -1591,7 +1593,7 @@ part 2—merger or transfer of plan assets or liabilities  </td>
 
   <tr>
 
-    <td> 1415.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1415" data-uslm-ref="/us/usc/t29/s1415">1415.</a>  </td>
 
     <td> Transfers pursuant to change in bargaining representative.  </td>
 
@@ -1607,7 +1609,7 @@ part 3—reorganization; minimum contribution requirement for multiemployer plan
 
   <tr>
 
-    <td> 1421.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1421" data-uslm-ref="/us/usc/t29/s1421">1421.</a>  </td>
 
     <td> Reorganization status.  </td>
 
@@ -1615,7 +1617,7 @@ part 3—reorganization; minimum contribution requirement for multiemployer plan
 
   <tr>
 
-    <td> 1422.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1422" data-uslm-ref="/us/usc/t29/s1422">1422.</a>  </td>
 
     <td> Notice of reorganization and funding requirements.  </td>
 
@@ -1623,7 +1625,7 @@ part 3—reorganization; minimum contribution requirement for multiemployer plan
 
   <tr>
 
-    <td> 1423.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1423" data-uslm-ref="/us/usc/t29/s1423">1423.</a>  </td>
 
     <td> Minimum contribution requirement.  </td>
 
@@ -1631,7 +1633,7 @@ part 3—reorganization; minimum contribution requirement for multiemployer plan
 
   <tr>
 
-    <td> 1424.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1424" data-uslm-ref="/us/usc/t29/s1424">1424.</a>  </td>
 
     <td> Overburden credit against minimum contribution requirement.  </td>
 
@@ -1639,7 +1641,7 @@ part 3—reorganization; minimum contribution requirement for multiemployer plan
 
   <tr>
 
-    <td> 1425.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1425" data-uslm-ref="/us/usc/t29/s1425">1425.</a>  </td>
 
     <td> Adjustments in accrued benefits.  </td>
 
@@ -1647,7 +1649,7 @@ part 3—reorganization; minimum contribution requirement for multiemployer plan
 
   <tr>
 
-    <td> 1426.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1426" data-uslm-ref="/us/usc/t29/s1426">1426.</a>  </td>
 
     <td> Insolvent plans.  </td>
 
@@ -1663,7 +1665,7 @@ part 4—financial assistance  </td>
 
   <tr>
 
-    <td> 1431.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1431" data-uslm-ref="/us/usc/t29/s1431">1431.</a>  </td>
 
     <td> Assistance by corporation.  </td>
 
@@ -1679,7 +1681,7 @@ part 5—benefits after termination  </td>
 
   <tr>
 
-    <td> 1441.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1441" data-uslm-ref="/us/usc/t29/s1441">1441.</a>  </td>
 
     <td> Benefits under certain terminated plans.  </td>
 
@@ -1695,7 +1697,7 @@ part 6—enforcement  </td>
 
   <tr>
 
-    <td> 1451.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1451" data-uslm-ref="/us/usc/t29/s1451">1451.</a>  </td>
 
     <td> Civil actions.  </td>
 
@@ -1703,7 +1705,7 @@ part 6—enforcement  </td>
 
   <tr>
 
-    <td> 1452.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1452" data-uslm-ref="/us/usc/t29/s1452">1452.</a>  </td>
 
     <td> Penalty for failure to provide notice.  </td>
 
@@ -1711,7 +1713,7 @@ part 6—enforcement  </td>
 
   <tr>
 
-    <td> 1453.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1453" data-uslm-ref="/us/usc/t29/s1453">1453.</a>  </td>
 
     <td> Election of plan status.  </td>
 
@@ -1727,7 +1729,7 @@ Subtitle F—Transition Rules and Effective Dates  </td>
 
   <tr>
 
-    <td> 1461.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1461" data-uslm-ref="/us/usc/t29/s1461">1461.</a>  </td>
 
     <td> Effective date; special rules.  </td>
 

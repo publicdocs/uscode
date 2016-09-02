@@ -247,7 +247,7 @@
 
  __Applicability of Minimum Wage to American Samoa and the Commonwealth of the Northern Mariana Islands__ 
 
-[Pub. L. 110–28, title VIII, § 8103(a)][/us/pl/110/28/s8103/a], (b), May 25, 2007, [121 Stat. 188][/us/stat/121/188], 189, as amended by [Pub. L. 111–117, div. D, title V, § 520][/us/pl/111/117/s520], Dec. 16, 2009, [123 Stat. 3283][/us/stat/123/3283]; [Pub. L. 111–244, § 2(a)][/us/pl/111/244/s2/a], Sept. 30, 2010, [124 Stat. 2618][/us/stat/124/2618]; [Pub. L. 112–149, § 4(a)][/us/pl/112/149/s4/a], July 26, 2012, [126 Stat. 1145][/us/stat/126/1145], provided that:
+[Pub. L. 110–28, title VIII, § 8103(a)][/us/pl/110/28/s8103/a], (b), May 25, 2007, [121 Stat. 188][/us/stat/121/188], 189, as amended by [Pub. L. 111–117, div. D, title V, § 520][/us/pl/111/117/s520], Dec. 16, 2009, [123 Stat. 3283][/us/stat/123/3283]; [Pub. L. 111–244, § 2(a)][/us/pl/111/244/s2/a], Sept. 30, 2010, [124 Stat. 2618][/us/stat/124/2618]; [Pub. L. 112–149, § 4(a)][/us/pl/112/149/s4/a], July 26, 2012, [126 Stat. 1145][/us/stat/126/1145]; [Pub. L. 113–34, § 2][/us/pl/113/34/s2], Sept. 18, 2013, [127 Stat. 518][/us/stat/127/518], provided that:
 
 >     “(a) __In General.—__ 
 
@@ -263,7 +263,7 @@
 
 >             “(A) $3.55 an hour, beginning on the 60th day after the date of enactment of this Act \[May 25, 2007\]; and
 
->             “(B) increased by $0.50 an hour (or such lesser amount as may be necessary to equal the minimum wage under section 6(a)(1) of such Act), beginning 1 year after the date of enactment of this Act and each year thereafter until the minimum wage applicable to the Commonwealth of the Northern Mariana Islands under this paragraph is equal to the minimum wage set forth in such section, except that, beginning in 2010 and each year thereafter (except 2011 when there shall be no increase), such increase shall occur on September 30; and
+>             “(B) increased by $0.50 an hour (or such lesser amount as may be necessary to equal the minimum wage under section 6(a)(1) of such Act), beginning 1 year after the date of enactment of this Act and each year thereafter until the minimum wage applicable to the Commonwealth of the Northern Mariana Islands under this paragraph is equal to the minimum wage set forth in such section, except that, beginning in 2010 and each year thereafter (except 2011, 2013, and 2015 when there shall be no increase), such increase shall occur on September 30; and
 
 >         “(2)
 
@@ -600,6 +600,8 @@
 [/us/stat/124/2618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2618
 [/us/pl/112/149/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F149%2Fs4%2Fa
 [/us/stat/126/1145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1145
+[/us/pl/113/34/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F34%2Fs2
+[/us/stat/127/518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F518
 [/us/usc/t29/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs206
 [/us/usc/t29/s206/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs206%2Fa%2F1
 [/us/usc/t29/s206/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs206%2Fa%2F1

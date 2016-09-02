@@ -33,7 +33,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 141.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs141" data-uslm-ref="/us/usc/t29/s141">141.</a>  </td>
 
     <td> Short title; Congressional declaration of purpose and policy.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 142.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs142" data-uslm-ref="/us/usc/t29/s142">142.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 143.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs143" data-uslm-ref="/us/usc/t29/s143">143.</a>  </td>
 
     <td> Saving provisions.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 144.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs144" data-uslm-ref="/us/usc/t29/s144">144.</a>  </td>
 
     <td> Separability.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER II—NATIONAL LABOR RELATIONS  </td>
 
   <tr>
 
-    <td> 151.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs151" data-uslm-ref="/us/usc/t29/s151">151.</a>  </td>
 
     <td> Findings and declaration of policy.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER II—NATIONAL LABOR RELATIONS  </td>
 
   <tr>
 
-    <td> 152.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs152" data-uslm-ref="/us/usc/t29/s152">152.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER II—NATIONAL LABOR RELATIONS  </td>
 
   <tr>
 
-    <td> 153.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs153" data-uslm-ref="/us/usc/t29/s153">153.</a>  </td>
 
     <td> National Labor Relations Board.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER II—NATIONAL LABOR RELATIONS  </td>
 
   <tr>
 
-    <td> 154.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs154" data-uslm-ref="/us/usc/t29/s154">154.</a>  </td>
 
     <td> National Labor Relations Board; eligibility for reappointment; officers and employees; payment of expenses.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER II—NATIONAL LABOR RELATIONS  </td>
 
   <tr>
 
-    <td> 155.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs155" data-uslm-ref="/us/usc/t29/s155">155.</a>  </td>
 
     <td> National Labor Relations Board; principal office, conducting inquiries throughout country; participation in decisions or inquiries conducted by member.  </td>
 
@@ -113,7 +113,7 @@ SUBCHAPTER II—NATIONAL LABOR RELATIONS  </td>
 
   <tr>
 
-    <td> 156.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs156" data-uslm-ref="/us/usc/t29/s156">156.</a>  </td>
 
     <td> Rules and regulations.  </td>
 
@@ -121,7 +121,7 @@ SUBCHAPTER II—NATIONAL LABOR RELATIONS  </td>
 
   <tr>
 
-    <td> 157.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs157" data-uslm-ref="/us/usc/t29/s157">157.</a>  </td>
 
     <td> Right of employees as to organization, collective bargaining, etc.  </td>
 
@@ -129,7 +129,7 @@ SUBCHAPTER II—NATIONAL LABOR RELATIONS  </td>
 
   <tr>
 
-    <td> 158.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs158" data-uslm-ref="/us/usc/t29/s158">158.</a>  </td>
 
     <td> Unfair labor practices.  </td>
 
@@ -137,7 +137,7 @@ SUBCHAPTER II—NATIONAL LABOR RELATIONS  </td>
 
   <tr>
 
-    <td> 158a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs158a" data-uslm-ref="/us/usc/t29/s158a">158a.</a>  </td>
 
     <td> Providing facilities for operations of Federal Credit Unions.  </td>
 
@@ -145,7 +145,7 @@ SUBCHAPTER II—NATIONAL LABOR RELATIONS  </td>
 
   <tr>
 
-    <td> 159.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs159" data-uslm-ref="/us/usc/t29/s159">159.</a>  </td>
 
     <td> Representatives and elections.  </td>
 
@@ -153,7 +153,7 @@ SUBCHAPTER II—NATIONAL LABOR RELATIONS  </td>
 
   <tr>
 
-    <td> 160.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs160" data-uslm-ref="/us/usc/t29/s160">160.</a>  </td>
 
     <td> Prevention of unfair labor practices.  </td>
 
@@ -161,7 +161,7 @@ SUBCHAPTER II—NATIONAL LABOR RELATIONS  </td>
 
   <tr>
 
-    <td> 161.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs161" data-uslm-ref="/us/usc/t29/s161">161.</a>  </td>
 
     <td> Investigatory powers of Board.  </td>
 
@@ -169,7 +169,7 @@ SUBCHAPTER II—NATIONAL LABOR RELATIONS  </td>
 
   <tr>
 
-    <td> 162.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs162" data-uslm-ref="/us/usc/t29/s162">162.</a>  </td>
 
     <td> Offenses and penalties.  </td>
 
@@ -177,7 +177,7 @@ SUBCHAPTER II—NATIONAL LABOR RELATIONS  </td>
 
   <tr>
 
-    <td> 163.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs163" data-uslm-ref="/us/usc/t29/s163">163.</a>  </td>
 
     <td> Right to strike preserved.  </td>
 
@@ -185,7 +185,7 @@ SUBCHAPTER II—NATIONAL LABOR RELATIONS  </td>
 
   <tr>
 
-    <td> 164.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs164" data-uslm-ref="/us/usc/t29/s164">164.</a>  </td>
 
     <td> Construction of provisions.  </td>
 
@@ -193,7 +193,7 @@ SUBCHAPTER II—NATIONAL LABOR RELATIONS  </td>
 
   <tr>
 
-    <td> 165.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs165" data-uslm-ref="/us/usc/t29/s165">165.</a>  </td>
 
     <td> Conflict of laws.  </td>
 
@@ -201,7 +201,7 @@ SUBCHAPTER II—NATIONAL LABOR RELATIONS  </td>
 
   <tr>
 
-    <td> 166.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs166" data-uslm-ref="/us/usc/t29/s166">166.</a>  </td>
 
     <td> Separability.  </td>
 
@@ -209,7 +209,7 @@ SUBCHAPTER II—NATIONAL LABOR RELATIONS  </td>
 
   <tr>
 
-    <td> 167.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs167" data-uslm-ref="/us/usc/t29/s167">167.</a>  </td>
 
     <td> Short title of subchapter.  </td>
 
@@ -217,7 +217,7 @@ SUBCHAPTER II—NATIONAL LABOR RELATIONS  </td>
 
   <tr>
 
-    <td> 168.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs168" data-uslm-ref="/us/usc/t29/s168">168.</a>  </td>
 
     <td> Validation of certificates and other Board actions.  </td>
 
@@ -225,7 +225,7 @@ SUBCHAPTER II—NATIONAL LABOR RELATIONS  </td>
 
   <tr>
 
-    <td> 169.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs169" data-uslm-ref="/us/usc/t29/s169">169.</a>  </td>
 
     <td> Employees with religious convictions; payment of dues and fees.  </td>
 
@@ -241,7 +241,7 @@ SUBCHAPTER III—CONCILIATION OF LABOR DISPUTES; NATIONAL EMERGENCIES  </td>
 
   <tr>
 
-    <td> 171.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs171" data-uslm-ref="/us/usc/t29/s171">171.</a>  </td>
 
     <td> Declaration of purpose and policy.  </td>
 
@@ -249,7 +249,7 @@ SUBCHAPTER III—CONCILIATION OF LABOR DISPUTES; NATIONAL EMERGENCIES  </td>
 
   <tr>
 
-    <td> 172.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs172" data-uslm-ref="/us/usc/t29/s172">172.</a>  </td>
 
     <td> Federal Mediation and Conciliation Service.  </td>
 
@@ -257,7 +257,7 @@ SUBCHAPTER III—CONCILIATION OF LABOR DISPUTES; NATIONAL EMERGENCIES  </td>
 
   <tr>
 
-    <td> 173.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs173" data-uslm-ref="/us/usc/t29/s173">173.</a>  </td>
 
     <td> Functions of Service.  </td>
 
@@ -265,7 +265,7 @@ SUBCHAPTER III—CONCILIATION OF LABOR DISPUTES; NATIONAL EMERGENCIES  </td>
 
   <tr>
 
-    <td> 174.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs174" data-uslm-ref="/us/usc/t29/s174">174.</a>  </td>
 
     <td> Co-equal obligations of employees, their representatives, and management to minimize labor disputes.  </td>
 
@@ -273,7 +273,7 @@ SUBCHAPTER III—CONCILIATION OF LABOR DISPUTES; NATIONAL EMERGENCIES  </td>
 
   <tr>
 
-    <td> 175.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs175" data-uslm-ref="/us/usc/t29/s175">175.</a>  </td>
 
     <td> National Labor-Management Panel; creation and composition; appointment, tenure, and compensation; duties.  </td>
 
@@ -281,7 +281,7 @@ SUBCHAPTER III—CONCILIATION OF LABOR DISPUTES; NATIONAL EMERGENCIES  </td>
 
   <tr>
 
-    <td> 175a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs175a" data-uslm-ref="/us/usc/t29/s175a">175a.</a>  </td>
 
     <td> Assistance to plant, area, and industrywide labor management committees.  </td>
 
@@ -289,7 +289,7 @@ SUBCHAPTER III—CONCILIATION OF LABOR DISPUTES; NATIONAL EMERGENCIES  </td>
 
   <tr>
 
-    <td> 176.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs176" data-uslm-ref="/us/usc/t29/s176">176.</a>  </td>
 
     <td> National emergencies; appointment of board of inquiry by President; report; contents; filing with Service.  </td>
 
@@ -297,7 +297,7 @@ SUBCHAPTER III—CONCILIATION OF LABOR DISPUTES; NATIONAL EMERGENCIES  </td>
 
   <tr>
 
-    <td> 177.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs177" data-uslm-ref="/us/usc/t29/s177">177.</a>  </td>
 
     <td> Board of inquiry.  </td>
 
@@ -305,7 +305,7 @@ SUBCHAPTER III—CONCILIATION OF LABOR DISPUTES; NATIONAL EMERGENCIES  </td>
 
   <tr>
 
-    <td> 178.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs178" data-uslm-ref="/us/usc/t29/s178">178.</a>  </td>
 
     <td> Injunctions during national emergency.  </td>
 
@@ -313,7 +313,7 @@ SUBCHAPTER III—CONCILIATION OF LABOR DISPUTES; NATIONAL EMERGENCIES  </td>
 
   <tr>
 
-    <td> 179.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs179" data-uslm-ref="/us/usc/t29/s179">179.</a>  </td>
 
     <td> Injunctions during national emergency; adjustment efforts by parties during injunction period.  </td>
 
@@ -321,7 +321,7 @@ SUBCHAPTER III—CONCILIATION OF LABOR DISPUTES; NATIONAL EMERGENCIES  </td>
 
   <tr>
 
-    <td> 180.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs180" data-uslm-ref="/us/usc/t29/s180">180.</a>  </td>
 
     <td> Discharge of injunction upon certification of results of election or settlement; report to Congress.  </td>
 
@@ -329,7 +329,7 @@ SUBCHAPTER III—CONCILIATION OF LABOR DISPUTES; NATIONAL EMERGENCIES  </td>
 
   <tr>
 
-    <td> 181.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs181" data-uslm-ref="/us/usc/t29/s181">181.</a>  </td>
 
     <td> Compilation of collective bargaining agreements, etc.; use of data.  </td>
 
@@ -337,7 +337,7 @@ SUBCHAPTER III—CONCILIATION OF LABOR DISPUTES; NATIONAL EMERGENCIES  </td>
 
   <tr>
 
-    <td> 182.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs182" data-uslm-ref="/us/usc/t29/s182">182.</a>  </td>
 
     <td> Exemption of Railway Labor Act from subchapter.  </td>
 
@@ -345,7 +345,7 @@ SUBCHAPTER III—CONCILIATION OF LABOR DISPUTES; NATIONAL EMERGENCIES  </td>
 
   <tr>
 
-    <td> 183.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs183" data-uslm-ref="/us/usc/t29/s183">183.</a>  </td>
 
     <td> Conciliation of labor disputes in the health care industry.  </td>
 
@@ -361,7 +361,7 @@ SUBCHAPTER IV—LIABILITIES OF AND RESTRICTIONS ON LABOR AND MANAGEMENT  </td>
 
   <tr>
 
-    <td> 185.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs185" data-uslm-ref="/us/usc/t29/s185">185.</a>  </td>
 
     <td> Suits by and against labor organizations.  </td>
 
@@ -369,7 +369,7 @@ SUBCHAPTER IV—LIABILITIES OF AND RESTRICTIONS ON LABOR AND MANAGEMENT  </td>
 
   <tr>
 
-    <td> 186.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs186" data-uslm-ref="/us/usc/t29/s186">186.</a>  </td>
 
     <td> Restrictions on financial transactions.  </td>
 
@@ -377,7 +377,7 @@ SUBCHAPTER IV—LIABILITIES OF AND RESTRICTIONS ON LABOR AND MANAGEMENT  </td>
 
   <tr>
 
-    <td> 187.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs187" data-uslm-ref="/us/usc/t29/s187">187.</a>  </td>
 
     <td> Unlawful activities or conduct; right to sue; jurisdiction; limitations; damages.  </td>
 
@@ -385,7 +385,7 @@ SUBCHAPTER IV—LIABILITIES OF AND RESTRICTIONS ON LABOR AND MANAGEMENT  </td>
 
   <tr>
 
-    <td> 188.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs188" data-uslm-ref="/us/usc/t29/s188">188.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -401,7 +401,7 @@ SUBCHAPTER V—CONGRESSIONAL JOINT COMMITTEE ON LABOR-MANAGEMENT RELATIONS  </td
 
   <tr>
 
-    <td> 191 to 197.   </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs191" data-uslm-ref="/us/usc/t29/s191">191</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs197" data-uslm-ref="/us/usc/t29/s197">197.</a>  </td>
 
     <td> Omitted.  </td>
 

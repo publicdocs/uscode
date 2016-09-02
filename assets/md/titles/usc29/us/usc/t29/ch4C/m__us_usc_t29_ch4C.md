@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 50.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs50" data-uslm-ref="/us/usc/t29/s50">50.</a>  </td>
 
     <td> Promotion of labor standards of apprenticeship.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 50a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs50a" data-uslm-ref="/us/usc/t29/s50a">50a.</a>  </td>
 
     <td> Publication of information; national advisory committees.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 50b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs50b" data-uslm-ref="/us/usc/t29/s50b">50b.</a>  </td>
 
     <td> Appointment of employees.  </td>
 

@@ -503,7 +503,7 @@
 
     By virtue of the authority vested in me by the Constitution and statutes as President of the United States it is ordered that Executive Order 9301 of February 9, 1943 \[8 F.R. 1825\] (formerly set out as note under this section), establishing a minimum wartime workweek of forty-eight hours, be, and it is hereby, revoked.
 
-                              Harry S Truman.
+                              Harry S. Truman.
 
  __Definition of “Administrator”__ 
 

@@ -33,7 +33,7 @@ GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 701.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs701" data-uslm-ref="/us/usc/t29/s701">701.</a>  </td>
 
     <td> Findings; purpose; policy.  </td>
 
@@ -41,7 +41,7 @@ GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 702.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs702" data-uslm-ref="/us/usc/t29/s702">702.</a>  </td>
 
     <td> Rehabilitation Services Administration.  </td>
 
@@ -49,7 +49,7 @@ GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 703.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs703" data-uslm-ref="/us/usc/t29/s703">703.</a>  </td>
 
     <td> Advance funding.  </td>
 
@@ -57,7 +57,7 @@ GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 704.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs704" data-uslm-ref="/us/usc/t29/s704">704.</a>  </td>
 
     <td> Joint funding.  </td>
 
@@ -65,7 +65,7 @@ GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 705.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs705" data-uslm-ref="/us/usc/t29/s705">705.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -73,7 +73,7 @@ GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 706.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs706" data-uslm-ref="/us/usc/t29/s706">706.</a>  </td>
 
     <td> Allotment percentage.  </td>
 
@@ -81,7 +81,7 @@ GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 707.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs707" data-uslm-ref="/us/usc/t29/s707">707.</a>  </td>
 
     <td> Nonduplication.  </td>
 
@@ -89,7 +89,7 @@ GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 708.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs708" data-uslm-ref="/us/usc/t29/s708">708.</a>  </td>
 
     <td> Application of other laws.  </td>
 
@@ -97,7 +97,7 @@ GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 709.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs709" data-uslm-ref="/us/usc/t29/s709">709.</a>  </td>
 
     <td> Administration.  </td>
 
@@ -105,7 +105,7 @@ GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 710.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs710" data-uslm-ref="/us/usc/t29/s710">710.</a>  </td>
 
     <td> Reports.  </td>
 
@@ -113,7 +113,7 @@ GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 711.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs711" data-uslm-ref="/us/usc/t29/s711">711.</a>  </td>
 
     <td> Evaluation.  </td>
 
@@ -121,7 +121,7 @@ GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 712.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs712" data-uslm-ref="/us/usc/t29/s712">712.</a>  </td>
 
     <td> Information clearinghouse.  </td>
 
@@ -129,7 +129,7 @@ GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 713.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs713" data-uslm-ref="/us/usc/t29/s713">713.</a>  </td>
 
     <td> Transfer of funds.  </td>
 
@@ -137,7 +137,7 @@ GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 714.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs714" data-uslm-ref="/us/usc/t29/s714">714.</a>  </td>
 
     <td> State administration.  </td>
 
@@ -145,7 +145,7 @@ GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 715.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs715" data-uslm-ref="/us/usc/t29/s715">715.</a>  </td>
 
     <td> Review of applications.  </td>
 
@@ -153,7 +153,7 @@ GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 716.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs716" data-uslm-ref="/us/usc/t29/s716">716.</a>  </td>
 
     <td> Carryover.  </td>
 
@@ -161,7 +161,7 @@ GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 717.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs717" data-uslm-ref="/us/usc/t29/s717">717.</a>  </td>
 
     <td> Client assistance information.  </td>
 
@@ -169,7 +169,7 @@ GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 718.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs718" data-uslm-ref="/us/usc/t29/s718">718.</a>  </td>
 
     <td> Traditionally underserved populations.  </td>
 
@@ -193,7 +193,7 @@ Part A—General Provisions  </td>
 
   <tr>
 
-    <td> 720.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs720" data-uslm-ref="/us/usc/t29/s720">720.</a>  </td>
 
     <td> Declaration of policy; authorization of appropriations.  </td>
 
@@ -201,7 +201,7 @@ Part A—General Provisions  </td>
 
   <tr>
 
-    <td> 721.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs721" data-uslm-ref="/us/usc/t29/s721">721.</a>  </td>
 
     <td> State plans.  </td>
 
@@ -209,7 +209,7 @@ Part A—General Provisions  </td>
 
   <tr>
 
-    <td> 722.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs722" data-uslm-ref="/us/usc/t29/s722">722.</a>  </td>
 
     <td> Eligibility and individualized plan for employment.  </td>
 
@@ -217,7 +217,7 @@ Part A—General Provisions  </td>
 
   <tr>
 
-    <td> 723.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs723" data-uslm-ref="/us/usc/t29/s723">723.</a>  </td>
 
     <td> Vocational rehabilitation services.  </td>
 
@@ -225,7 +225,7 @@ Part A—General Provisions  </td>
 
   <tr>
 
-    <td> 724.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs724" data-uslm-ref="/us/usc/t29/s724">724.</a>  </td>
 
     <td> Non-Federal share for establishment of program or construction.  </td>
 
@@ -233,7 +233,7 @@ Part A—General Provisions  </td>
 
   <tr>
 
-    <td> 725.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs725" data-uslm-ref="/us/usc/t29/s725">725.</a>  </td>
 
     <td> State Rehabilitation Council.  </td>
 
@@ -241,7 +241,7 @@ Part A—General Provisions  </td>
 
   <tr>
 
-    <td> 726.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs726" data-uslm-ref="/us/usc/t29/s726">726.</a>  </td>
 
     <td> Evaluation standards and performance indicators.  </td>
 
@@ -249,7 +249,7 @@ Part A—General Provisions  </td>
 
   <tr>
 
-    <td> 727.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs727" data-uslm-ref="/us/usc/t29/s727">727.</a>  </td>
 
     <td> Monitoring and review.  </td>
 
@@ -257,7 +257,7 @@ Part A—General Provisions  </td>
 
   <tr>
 
-    <td> 728.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs728" data-uslm-ref="/us/usc/t29/s728">728.</a>  </td>
 
     <td> Expenditure of certain amounts.  </td>
 
@@ -265,7 +265,7 @@ Part A—General Provisions  </td>
 
   <tr>
 
-    <td> 728a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs728a" data-uslm-ref="/us/usc/t29/s728a">728a.</a>  </td>
 
     <td> Training of employers with respect to Americans with Disabilities Act of 1990.  </td>
 
@@ -281,7 +281,7 @@ Part B—Basic Vocational Rehabilitation Services  </td>
 
   <tr>
 
-    <td> 730.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs730" data-uslm-ref="/us/usc/t29/s730">730.</a>  </td>
 
     <td> State allotments.  </td>
 
@@ -289,7 +289,7 @@ Part B—Basic Vocational Rehabilitation Services  </td>
 
   <tr>
 
-    <td> 731.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs731" data-uslm-ref="/us/usc/t29/s731">731.</a>  </td>
 
     <td> Payments to States.  </td>
 
@@ -297,7 +297,7 @@ Part B—Basic Vocational Rehabilitation Services  </td>
 
   <tr>
 
-    <td> 732.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs732" data-uslm-ref="/us/usc/t29/s732">732.</a>  </td>
 
     <td> Client assistance program.  </td>
 
@@ -313,7 +313,7 @@ Part C—American Indian Vocational Rehabilitation Services  </td>
 
   <tr>
 
-    <td> 741.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs741" data-uslm-ref="/us/usc/t29/s741">741.</a>  </td>
 
     <td> Vocational rehabilitation services grants.  </td>
 
@@ -329,7 +329,7 @@ Part D—Vocational Rehabilitation Services Client Information  </td>
 
   <tr>
 
-    <td> 751.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs751" data-uslm-ref="/us/usc/t29/s751">751.</a>  </td>
 
     <td> Data sharing.  </td>
 
@@ -345,7 +345,7 @@ SUBCHAPTER II—RESEARCH AND TRAINING  </td>
 
   <tr>
 
-    <td> 760.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs760" data-uslm-ref="/us/usc/t29/s760">760.</a>  </td>
 
     <td> Declaration of purpose.  </td>
 
@@ -353,7 +353,7 @@ SUBCHAPTER II—RESEARCH AND TRAINING  </td>
 
   <tr>
 
-    <td> 761.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs761" data-uslm-ref="/us/usc/t29/s761">761.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -361,7 +361,7 @@ SUBCHAPTER II—RESEARCH AND TRAINING  </td>
 
   <tr>
 
-    <td> 762.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs762" data-uslm-ref="/us/usc/t29/s762">762.</a>  </td>
 
     <td> National Institute on Disability and Rehabilitation Research.  </td>
 
@@ -369,7 +369,7 @@ SUBCHAPTER II—RESEARCH AND TRAINING  </td>
 
   <tr>
 
-    <td> 762a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs762a" data-uslm-ref="/us/usc/t29/s762a">762a.</a>  </td>
 
     <td> Research and demonstration projects.  </td>
 
@@ -377,7 +377,7 @@ SUBCHAPTER II—RESEARCH AND TRAINING  </td>
 
   <tr>
 
-    <td> 763.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs763" data-uslm-ref="/us/usc/t29/s763">763.</a>  </td>
 
     <td> Interagency Committee.  </td>
 
@@ -385,7 +385,7 @@ SUBCHAPTER II—RESEARCH AND TRAINING  </td>
 
   <tr>
 
-    <td> 764.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs764" data-uslm-ref="/us/usc/t29/s764">764.</a>  </td>
 
     <td> Research and other covered activities.  </td>
 
@@ -393,7 +393,7 @@ SUBCHAPTER II—RESEARCH AND TRAINING  </td>
 
   <tr>
 
-    <td> 765.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs765" data-uslm-ref="/us/usc/t29/s765">765.</a>  </td>
 
     <td> Rehabilitation Research Advisory Council.  </td>
 
@@ -409,7 +409,7 @@ SUBCHAPTER III—PROFESSIONAL DEVELOPMENT AND SPECIAL PROJECTS AND DEMONSTRATION
 
   <tr>
 
-    <td> 771.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs771" data-uslm-ref="/us/usc/t29/s771">771.</a>  </td>
 
     <td> Declaration of purpose and competitive basis of grants and contracts.  </td>
 
@@ -417,7 +417,7 @@ SUBCHAPTER III—PROFESSIONAL DEVELOPMENT AND SPECIAL PROJECTS AND DEMONSTRATION
 
   <tr>
 
-    <td> 772.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs772" data-uslm-ref="/us/usc/t29/s772">772.</a>  </td>
 
     <td> Training.  </td>
 
@@ -425,7 +425,7 @@ SUBCHAPTER III—PROFESSIONAL DEVELOPMENT AND SPECIAL PROJECTS AND DEMONSTRATION
 
   <tr>
 
-    <td> 773.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs773" data-uslm-ref="/us/usc/t29/s773">773.</a>  </td>
 
     <td> Demonstration and training programs.  </td>
 
@@ -433,7 +433,7 @@ SUBCHAPTER III—PROFESSIONAL DEVELOPMENT AND SPECIAL PROJECTS AND DEMONSTRATION
 
   <tr>
 
-    <td> 774.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs774" data-uslm-ref="/us/usc/t29/s774">774.</a>  </td>
 
     <td> Migrant and seasonal farmworkers.  </td>
 
@@ -441,7 +441,7 @@ SUBCHAPTER III—PROFESSIONAL DEVELOPMENT AND SPECIAL PROJECTS AND DEMONSTRATION
 
   <tr>
 
-    <td> 775.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs775" data-uslm-ref="/us/usc/t29/s775">775.</a>  </td>
 
     <td> Recreational programs.  </td>
 
@@ -449,7 +449,7 @@ SUBCHAPTER III—PROFESSIONAL DEVELOPMENT AND SPECIAL PROJECTS AND DEMONSTRATION
 
   <tr>
 
-    <td> 776.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs776" data-uslm-ref="/us/usc/t29/s776">776.</a>  </td>
 
     <td> Measuring of project outcomes and performance.  </td>
 
@@ -465,7 +465,7 @@ SUBCHAPTER IV—NATIONAL COUNCIL ON DISABILITY  </td>
 
   <tr>
 
-    <td> 780.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs780" data-uslm-ref="/us/usc/t29/s780">780.</a>  </td>
 
     <td> Establishment of National Council on Disability.  </td>
 
@@ -473,7 +473,7 @@ SUBCHAPTER IV—NATIONAL COUNCIL ON DISABILITY  </td>
 
   <tr>
 
-    <td> 780a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs780a" data-uslm-ref="/us/usc/t29/s780a">780a.</a>  </td>
 
     <td> Independent status of National Council on the Handicapped.  </td>
 
@@ -481,7 +481,7 @@ SUBCHAPTER IV—NATIONAL COUNCIL ON DISABILITY  </td>
 
   <tr>
 
-    <td> 781.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs781" data-uslm-ref="/us/usc/t29/s781">781.</a>  </td>
 
     <td> Duties of National Council.  </td>
 
@@ -489,7 +489,7 @@ SUBCHAPTER IV—NATIONAL COUNCIL ON DISABILITY  </td>
 
   <tr>
 
-    <td> 782.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs782" data-uslm-ref="/us/usc/t29/s782">782.</a>  </td>
 
     <td> Compensation of National Council members.  </td>
 
@@ -497,7 +497,7 @@ SUBCHAPTER IV—NATIONAL COUNCIL ON DISABILITY  </td>
 
   <tr>
 
-    <td> 783.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs783" data-uslm-ref="/us/usc/t29/s783">783.</a>  </td>
 
     <td> Staff of National Council.  </td>
 
@@ -505,7 +505,7 @@ SUBCHAPTER IV—NATIONAL COUNCIL ON DISABILITY  </td>
 
   <tr>
 
-    <td> 784.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs784" data-uslm-ref="/us/usc/t29/s784">784.</a>  </td>
 
     <td> Administrative powers of National Council.  </td>
 
@@ -513,7 +513,7 @@ SUBCHAPTER IV—NATIONAL COUNCIL ON DISABILITY  </td>
 
   <tr>
 
-    <td> 785.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs785" data-uslm-ref="/us/usc/t29/s785">785.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -529,7 +529,7 @@ SUBCHAPTER V—RIGHTS AND ADVOCACY  </td>
 
   <tr>
 
-    <td> 790.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs790" data-uslm-ref="/us/usc/t29/s790">790.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -537,7 +537,7 @@ SUBCHAPTER V—RIGHTS AND ADVOCACY  </td>
 
   <tr>
 
-    <td> 791.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs791" data-uslm-ref="/us/usc/t29/s791">791.</a>  </td>
 
     <td> Employment of individuals with disabilities.  </td>
 
@@ -545,7 +545,7 @@ SUBCHAPTER V—RIGHTS AND ADVOCACY  </td>
 
   <tr>
 
-    <td> 792.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs792" data-uslm-ref="/us/usc/t29/s792">792.</a>  </td>
 
     <td> Architectural and Transportation Barriers Compliance Board.  </td>
 
@@ -553,7 +553,7 @@ SUBCHAPTER V—RIGHTS AND ADVOCACY  </td>
 
   <tr>
 
-    <td> 793.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs793" data-uslm-ref="/us/usc/t29/s793">793.</a>  </td>
 
     <td> Employment under Federal contracts.  </td>
 
@@ -561,7 +561,7 @@ SUBCHAPTER V—RIGHTS AND ADVOCACY  </td>
 
   <tr>
 
-    <td> 794.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs794" data-uslm-ref="/us/usc/t29/s794">794.</a>  </td>
 
     <td> Nondiscrimination under Federal grants and programs.  </td>
 
@@ -569,7 +569,7 @@ SUBCHAPTER V—RIGHTS AND ADVOCACY  </td>
 
   <tr>
 
-    <td> 794a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs794a" data-uslm-ref="/us/usc/t29/s794a">794a.</a>  </td>
 
     <td> Remedies and attorney fees.  </td>
 
@@ -577,7 +577,7 @@ SUBCHAPTER V—RIGHTS AND ADVOCACY  </td>
 
   <tr>
 
-    <td> 794b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs794b" data-uslm-ref="/us/usc/t29/s794b">794b.</a>  </td>
 
     <td> Removal of architectural, transportation, or communication barriers; technical and financial assistance; compensation of experts or consultants; authorization of appropriations.  </td>
 
@@ -585,7 +585,7 @@ SUBCHAPTER V—RIGHTS AND ADVOCACY  </td>
 
   <tr>
 
-    <td> 794c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs794c" data-uslm-ref="/us/usc/t29/s794c">794c.</a>  </td>
 
     <td> Interagency Disability Coordinating Council.  </td>
 
@@ -593,7 +593,7 @@ SUBCHAPTER V—RIGHTS AND ADVOCACY  </td>
 
   <tr>
 
-    <td> 794d.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs794d" data-uslm-ref="/us/usc/t29/s794d">794d.</a>  </td>
 
     <td> Electronic and information technology.  </td>
 
@@ -601,7 +601,7 @@ SUBCHAPTER V—RIGHTS AND ADVOCACY  </td>
 
   <tr>
 
-    <td> 794e.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs794e" data-uslm-ref="/us/usc/t29/s794e">794e.</a>  </td>
 
     <td> Protection and advocacy of individual rights.  </td>
 
@@ -609,7 +609,7 @@ SUBCHAPTER V—RIGHTS AND ADVOCACY  </td>
 
   <tr>
 
-    <td> 794f.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs794f" data-uslm-ref="/us/usc/t29/s794f">794f.</a>  </td>
 
     <td> Establishment of standards for accessible medical diagnostic equipment.  </td>
 
@@ -633,7 +633,7 @@ Part A—Projects With Industry  </td>
 
   <tr>
 
-    <td> 795.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs795" data-uslm-ref="/us/usc/t29/s795">795.</a>  </td>
 
     <td> Projects With Industry.  </td>
 
@@ -641,7 +641,7 @@ Part A—Projects With Industry  </td>
 
   <tr>
 
-    <td> 795a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs795a" data-uslm-ref="/us/usc/t29/s795a">795a.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -657,7 +657,7 @@ Part B—Supported Employment Services for Individuals With the Most Significant
 
   <tr>
 
-    <td> 795g.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs795g" data-uslm-ref="/us/usc/t29/s795g">795g.</a>  </td>
 
     <td> Purpose.  </td>
 
@@ -665,7 +665,7 @@ Part B—Supported Employment Services for Individuals With the Most Significant
 
   <tr>
 
-    <td> 795h.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs795h" data-uslm-ref="/us/usc/t29/s795h">795h.</a>  </td>
 
     <td> Allotments.  </td>
 
@@ -673,7 +673,7 @@ Part B—Supported Employment Services for Individuals With the Most Significant
 
   <tr>
 
-    <td> 795i.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs795i" data-uslm-ref="/us/usc/t29/s795i">795i.</a>  </td>
 
     <td> Availability of services.  </td>
 
@@ -681,7 +681,7 @@ Part B—Supported Employment Services for Individuals With the Most Significant
 
   <tr>
 
-    <td> 795j.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs795j" data-uslm-ref="/us/usc/t29/s795j">795j.</a>  </td>
 
     <td> Eligibility.  </td>
 
@@ -689,7 +689,7 @@ Part B—Supported Employment Services for Individuals With the Most Significant
 
   <tr>
 
-    <td> 795k.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs795k" data-uslm-ref="/us/usc/t29/s795k">795k.</a>  </td>
 
     <td> State plan.  </td>
 
@@ -697,7 +697,7 @@ Part B—Supported Employment Services for Individuals With the Most Significant
 
   <tr>
 
-    <td> 795l.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs795" data-uslm-ref="/us/usc/t29/s795">795</a>l.  </td>
 
     <td> Restriction.  </td>
 
@@ -705,7 +705,7 @@ Part B—Supported Employment Services for Individuals With the Most Significant
 
   <tr>
 
-    <td> 795m.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs795m" data-uslm-ref="/us/usc/t29/s795m">795m.</a>  </td>
 
     <td> Savings provision.  </td>
 
@@ -713,7 +713,7 @@ Part B—Supported Employment Services for Individuals With the Most Significant
 
   <tr>
 
-    <td> 795n.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs795n" data-uslm-ref="/us/usc/t29/s795n">795n.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -745,7 +745,7 @@ subpart 1—general provisions  </td>
 
   <tr>
 
-    <td> 796.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs796" data-uslm-ref="/us/usc/t29/s796">796.</a>  </td>
 
     <td> Purpose.  </td>
 
@@ -753,7 +753,7 @@ subpart 1—general provisions  </td>
 
   <tr>
 
-    <td> 796a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs796a" data-uslm-ref="/us/usc/t29/s796a">796a.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -761,7 +761,7 @@ subpart 1—general provisions  </td>
 
   <tr>
 
-    <td> 796b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs796b" data-uslm-ref="/us/usc/t29/s796b">796b.</a>  </td>
 
     <td> Eligibility for receipt of services.  </td>
 
@@ -769,7 +769,7 @@ subpart 1—general provisions  </td>
 
   <tr>
 
-    <td> 796c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs796c" data-uslm-ref="/us/usc/t29/s796c">796c.</a>  </td>
 
     <td> State plan.  </td>
 
@@ -777,7 +777,7 @@ subpart 1—general provisions  </td>
 
   <tr>
 
-    <td> 796d.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs796d" data-uslm-ref="/us/usc/t29/s796d">796d.</a>  </td>
 
     <td> Statewide Independent Living Council.  </td>
 
@@ -785,7 +785,7 @@ subpart 1—general provisions  </td>
 
   <tr>
 
-    <td> 796d–1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs796d%E2%80%931" data-uslm-ref="/us/usc/t29/s796d–1">796d–1.</a>  </td>
 
     <td> Responsibilities of Commissioner.  </td>
 
@@ -801,7 +801,7 @@ subpart 2—independent living services  </td>
 
   <tr>
 
-    <td> 796e.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs796e" data-uslm-ref="/us/usc/t29/s796e">796e.</a>  </td>
 
     <td> Allotments.  </td>
 
@@ -809,7 +809,7 @@ subpart 2—independent living services  </td>
 
   <tr>
 
-    <td> 796e–1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs796e%E2%80%931" data-uslm-ref="/us/usc/t29/s796e–1">796e–1.</a>  </td>
 
     <td> Payments to States from allotments.  </td>
 
@@ -817,7 +817,7 @@ subpart 2—independent living services  </td>
 
   <tr>
 
-    <td> 796e–2.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs796e%E2%80%932" data-uslm-ref="/us/usc/t29/s796e–2">796e–2.</a>  </td>
 
     <td> Authorized uses of funds.  </td>
 
@@ -825,7 +825,7 @@ subpart 2—independent living services  </td>
 
   <tr>
 
-    <td> 796e–3.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs796e%E2%80%933" data-uslm-ref="/us/usc/t29/s796e–3">796e–3.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -841,7 +841,7 @@ subpart 3—centers for independent living  </td>
 
   <tr>
 
-    <td> 796f.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs796f" data-uslm-ref="/us/usc/t29/s796f">796f.</a>  </td>
 
     <td> Program authorization.  </td>
 
@@ -849,7 +849,7 @@ subpart 3—centers for independent living  </td>
 
   <tr>
 
-    <td> 796f–1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs796f%E2%80%931" data-uslm-ref="/us/usc/t29/s796f–1">796f–1.</a>  </td>
 
     <td> Grants to centers for independent living in States in which Federal funding exceeds State funding.  </td>
 
@@ -857,7 +857,7 @@ subpart 3—centers for independent living  </td>
 
   <tr>
 
-    <td> 796f–2.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs796f%E2%80%932" data-uslm-ref="/us/usc/t29/s796f–2">796f–2.</a>  </td>
 
     <td> Grants to centers for independent living in States in which State funding equals or exceeds Federal funding.  </td>
 
@@ -865,7 +865,7 @@ subpart 3—centers for independent living  </td>
 
   <tr>
 
-    <td> 796f–3.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs796f%E2%80%933" data-uslm-ref="/us/usc/t29/s796f–3">796f–3.</a>  </td>
 
     <td> Centers operated by State agencies.  </td>
 
@@ -873,7 +873,7 @@ subpart 3—centers for independent living  </td>
 
   <tr>
 
-    <td> 796f–4.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs796f%E2%80%934" data-uslm-ref="/us/usc/t29/s796f–4">796f–4.</a>  </td>
 
     <td> Standards and assurances for centers for independent living.  </td>
 
@@ -881,7 +881,7 @@ subpart 3—centers for independent living  </td>
 
   <tr>
 
-    <td> 796f–5.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs796f%E2%80%935" data-uslm-ref="/us/usc/t29/s796f–5">796f–5.</a>  </td>
 
     <td> “Eligible agency” defined.  </td>
 
@@ -889,7 +889,7 @@ subpart 3—centers for independent living  </td>
 
   <tr>
 
-    <td> 796f–6.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs796f%E2%80%936" data-uslm-ref="/us/usc/t29/s796f–6">796f–6.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -905,7 +905,7 @@ Part B—Independent Living Services for Older Individuals Who Are Blind  </td>
 
   <tr>
 
-    <td> 796j.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs796j" data-uslm-ref="/us/usc/t29/s796j">796j.</a>  </td>
 
     <td> “Older individual who is blind” defined.  </td>
 
@@ -913,7 +913,7 @@ Part B—Independent Living Services for Older Individuals Who Are Blind  </td>
 
   <tr>
 
-    <td> 796k.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs796k" data-uslm-ref="/us/usc/t29/s796k">796k.</a>  </td>
 
     <td> Program of grants.  </td>
 
@@ -921,7 +921,7 @@ Part B—Independent Living Services for Older Individuals Who Are Blind  </td>
 
   <tr>
 
-    <td> 796l.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs796" data-uslm-ref="/us/usc/t29/s796">796</a>l.  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -937,7 +937,7 @@ SUBCHAPTER VIII—SPECIAL DEMONSTRATIONS AND TRAINING PROJECTS  </td>
 
   <tr>
 
-    <td> 797 to 797b.   </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs797" data-uslm-ref="/us/usc/t29/s797">797</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs797b" data-uslm-ref="/us/usc/t29/s797b">797b.</a>  </td>
 
     <td> Repealed.  </td>
 

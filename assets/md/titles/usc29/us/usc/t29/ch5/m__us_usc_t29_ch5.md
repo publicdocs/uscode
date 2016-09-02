@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 51.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs51" data-uslm-ref="/us/usc/t29/s51">51.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 52.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs52" data-uslm-ref="/us/usc/t29/s52">52.</a>  </td>
 
     <td> Statutory restriction of injunctive relief.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 53.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs53" data-uslm-ref="/us/usc/t29/s53">53.</a>  </td>
 
     <td> “Person” or “persons” defined.  </td>
 

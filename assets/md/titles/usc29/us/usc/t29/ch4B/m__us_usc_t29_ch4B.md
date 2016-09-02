@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 49.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs49" data-uslm-ref="/us/usc/t29/s49">49.</a>  </td>
 
     <td> United States Employment Service established.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 49a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs49a" data-uslm-ref="/us/usc/t29/s49a">49a.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 49b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs49b" data-uslm-ref="/us/usc/t29/s49b">49b.</a>  </td>
 
     <td> Duties of Secretary.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 49c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs49c" data-uslm-ref="/us/usc/t29/s49c">49c.</a>  </td>
 
     <td> Acceptance by States; creation of State agencies.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 49c–1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs49c%E2%80%931" data-uslm-ref="/us/usc/t29/s49c–1">49c–1.</a>  </td>
 
     <td> Transfer to States of property used by United States Employment Service.  </td>
 
@@ -65,15 +65,15 @@
 
   <tr>
 
-    <td> 49c–2 to 49c–5. Omitted, Repealed, or   </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs49c%E2%80%932" data-uslm-ref="/us/usc/t29/s49c–2">49c–2</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs49c%E2%80%935" data-uslm-ref="/us/usc/t29/s49c–5">49c–5.</a>  </td>
 
-    <td> Transferred.  </td>
+    <td> Omitted, Repealed, or Transferred.  </td>
 
   </tr>
 
   <tr>
 
-    <td> 49d.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs49d" data-uslm-ref="/us/usc/t29/s49d">49d.</a>  </td>
 
     <td> Appropriations; certification for payment to States.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 49d–1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs49d%E2%80%931" data-uslm-ref="/us/usc/t29/s49d–1">49d–1.</a>  </td>
 
     <td> Omitted.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 49e.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs49e" data-uslm-ref="/us/usc/t29/s49e">49e.</a>  </td>
 
     <td> Allotment of funds.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 49f.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs49f" data-uslm-ref="/us/usc/t29/s49f">49f.</a>  </td>
 
     <td> Percentage disposition of allotted funds.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 49g.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs49g" data-uslm-ref="/us/usc/t29/s49g">49g.</a>  </td>
 
     <td> State plans.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 49h.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs49h" data-uslm-ref="/us/usc/t29/s49h">49h.</a>  </td>
 
     <td> Fiscal controls and accounting procedures.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 49i.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs49i" data-uslm-ref="/us/usc/t29/s49i">49i.</a>  </td>
 
     <td> Recordkeeping and accountability.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 49j.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs49j" data-uslm-ref="/us/usc/t29/s49j">49j.</a>  </td>
 
     <td> Notice of strikes and lockouts to applicants.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 49k.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs49k" data-uslm-ref="/us/usc/t29/s49k">49k.</a>  </td>
 
     <td> Rules and regulations.  </td>
 
@@ -145,7 +145,7 @@
 
   <tr>
 
-    <td> 49l.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs49" data-uslm-ref="/us/usc/t29/s49">49</a>l.  </td>
 
     <td> Miscellaneous operating authorities.  </td>
 
@@ -153,7 +153,7 @@
 
   <tr>
 
-    <td> 49l–1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs49" data-uslm-ref="/us/usc/t29/s49">49</a>l–1.  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -161,7 +161,7 @@
 
   <tr>
 
-    <td> 49l–2.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs49" data-uslm-ref="/us/usc/t29/s49">49</a>l–2.  </td>
 
     <td> Employment statistics.  </td>
 
@@ -169,7 +169,7 @@
 
   <tr>
 
-    <td> 49m, 49n.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs49m" data-uslm-ref="/us/usc/t29/s49m">49m</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs49n" data-uslm-ref="/us/usc/t29/s49n">49n.</a>  </td>
 
     <td> Omitted.  </td>
 

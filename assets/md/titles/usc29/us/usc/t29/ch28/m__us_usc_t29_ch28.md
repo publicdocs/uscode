@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 2601.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs2601" data-uslm-ref="/us/usc/t29/s2601">2601.</a>  </td>
 
     <td> Findings and purposes.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—GENERAL REQUIREMENTS FOR LEAVE  </td>
 
   <tr>
 
-    <td> 2611.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs2611" data-uslm-ref="/us/usc/t29/s2611">2611.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—GENERAL REQUIREMENTS FOR LEAVE  </td>
 
   <tr>
 
-    <td> 2612.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs2612" data-uslm-ref="/us/usc/t29/s2612">2612.</a>  </td>
 
     <td> Leave requirement.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER I—GENERAL REQUIREMENTS FOR LEAVE  </td>
 
   <tr>
 
-    <td> 2613.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs2613" data-uslm-ref="/us/usc/t29/s2613">2613.</a>  </td>
 
     <td> Certification.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER I—GENERAL REQUIREMENTS FOR LEAVE  </td>
 
   <tr>
 
-    <td> 2614.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs2614" data-uslm-ref="/us/usc/t29/s2614">2614.</a>  </td>
 
     <td> Employment and benefits protection.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER I—GENERAL REQUIREMENTS FOR LEAVE  </td>
 
   <tr>
 
-    <td> 2615.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs2615" data-uslm-ref="/us/usc/t29/s2615">2615.</a>  </td>
 
     <td> Prohibited acts.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER I—GENERAL REQUIREMENTS FOR LEAVE  </td>
 
   <tr>
 
-    <td> 2616.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs2616" data-uslm-ref="/us/usc/t29/s2616">2616.</a>  </td>
 
     <td> Investigative authority.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER I—GENERAL REQUIREMENTS FOR LEAVE  </td>
 
   <tr>
 
-    <td> 2617.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs2617" data-uslm-ref="/us/usc/t29/s2617">2617.</a>  </td>
 
     <td> Enforcement.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER I—GENERAL REQUIREMENTS FOR LEAVE  </td>
 
   <tr>
 
-    <td> 2618.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs2618" data-uslm-ref="/us/usc/t29/s2618">2618.</a>  </td>
 
     <td> Special rules concerning employees of local educational agencies.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER I—GENERAL REQUIREMENTS FOR LEAVE  </td>
 
   <tr>
 
-    <td> 2619.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs2619" data-uslm-ref="/us/usc/t29/s2619">2619.</a>  </td>
 
     <td> Notice.  </td>
 
@@ -121,7 +121,7 @@ SUBCHAPTER II—COMMISSION ON LEAVE  </td>
 
   <tr>
 
-    <td> 2631.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs2631" data-uslm-ref="/us/usc/t29/s2631">2631.</a>  </td>
 
     <td> Establishment.  </td>
 
@@ -129,7 +129,7 @@ SUBCHAPTER II—COMMISSION ON LEAVE  </td>
 
   <tr>
 
-    <td> 2632.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs2632" data-uslm-ref="/us/usc/t29/s2632">2632.</a>  </td>
 
     <td> Duties.  </td>
 
@@ -137,7 +137,7 @@ SUBCHAPTER II—COMMISSION ON LEAVE  </td>
 
   <tr>
 
-    <td> 2633.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs2633" data-uslm-ref="/us/usc/t29/s2633">2633.</a>  </td>
 
     <td> Membership.  </td>
 
@@ -145,7 +145,7 @@ SUBCHAPTER II—COMMISSION ON LEAVE  </td>
 
   <tr>
 
-    <td> 2634.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs2634" data-uslm-ref="/us/usc/t29/s2634">2634.</a>  </td>
 
     <td> Compensation.  </td>
 
@@ -153,7 +153,7 @@ SUBCHAPTER II—COMMISSION ON LEAVE  </td>
 
   <tr>
 
-    <td> 2635.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs2635" data-uslm-ref="/us/usc/t29/s2635">2635.</a>  </td>
 
     <td> Powers.  </td>
 
@@ -161,7 +161,7 @@ SUBCHAPTER II—COMMISSION ON LEAVE  </td>
 
   <tr>
 
-    <td> 2636.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs2636" data-uslm-ref="/us/usc/t29/s2636">2636.</a>  </td>
 
     <td> Termination.  </td>
 
@@ -177,7 +177,7 @@ SUBCHAPTER III—MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 2651.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs2651" data-uslm-ref="/us/usc/t29/s2651">2651.</a>  </td>
 
     <td> Effect on other laws.  </td>
 
@@ -185,7 +185,7 @@ SUBCHAPTER III—MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 2652.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs2652" data-uslm-ref="/us/usc/t29/s2652">2652.</a>  </td>
 
     <td> Effect on existing employment benefits.  </td>
 
@@ -193,7 +193,7 @@ SUBCHAPTER III—MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 2653.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs2653" data-uslm-ref="/us/usc/t29/s2653">2653.</a>  </td>
 
     <td> Encouragement of more generous leave policies.  </td>
 
@@ -201,7 +201,7 @@ SUBCHAPTER III—MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 2654.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs2654" data-uslm-ref="/us/usc/t29/s2654">2654.</a>  </td>
 
     <td> Regulations.  </td>
 

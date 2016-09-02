@@ -31,351 +31,351 @@ Title 29—LABOR
 
   <tr>
 
-    <td> 1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fch1" data-uslm-ref="/us/usc/t29/ch1">1.</a>  </td>
 
     <td> Labor Statistics  </td>
 
-    <td> 1  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1" data-uslm-ref="/us/usc/t29/s1">1</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 2.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fch2" data-uslm-ref="/us/usc/t29/ch2">2.</a>  </td>
 
     <td> Women’s Bureau  </td>
 
-    <td> 11  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs11" data-uslm-ref="/us/usc/t29/s11">11</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 2A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fch2A" data-uslm-ref="/us/usc/t29/ch2A">2A.</a>  </td>
 
     <td> Children’s Bureau [Transferred]  </td>
 
-    <td> 18  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs18" data-uslm-ref="/us/usc/t29/s18">18</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 3.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fch3" data-uslm-ref="/us/usc/t29/ch3">3.</a>  </td>
 
     <td> National Trade Unions [Repealed]  </td>
 
-    <td> 21  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs21" data-uslm-ref="/us/usc/t29/s21">21</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 4.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fch4" data-uslm-ref="/us/usc/t29/ch4">4.</a>  </td>
 
     <td> Vocational Rehabilitation of Persons Injured in Industry [Repealed or Omitted]  </td>
 
-    <td> 31  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs31" data-uslm-ref="/us/usc/t29/s31">31</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 4A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fch4A" data-uslm-ref="/us/usc/t29/ch4A">4A.</a>  </td>
 
     <td> Employment Stabilization [Omitted or Repealed]  </td>
 
-    <td> 48  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs48" data-uslm-ref="/us/usc/t29/s48">48</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 4B.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fch4B" data-uslm-ref="/us/usc/t29/ch4B">4B.</a>  </td>
 
     <td> Federal Employment Service  </td>
 
-    <td> 49  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs49" data-uslm-ref="/us/usc/t29/s49">49</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 4C.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fch4C" data-uslm-ref="/us/usc/t29/ch4C">4C.</a>  </td>
 
     <td> Apprentice Labor  </td>
 
-    <td> 50  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs50" data-uslm-ref="/us/usc/t29/s50">50</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 5.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fch5" data-uslm-ref="/us/usc/t29/ch5">5.</a>  </td>
 
     <td> Labor Disputes; Mediation and Injunctive Relief  </td>
 
-    <td> 51  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs51" data-uslm-ref="/us/usc/t29/s51">51</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 6.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fch6" data-uslm-ref="/us/usc/t29/ch6">6.</a>  </td>
 
     <td> Jurisdiction of Courts in Matters Affecting Employer and Employee  </td>
 
-    <td> 101  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs101" data-uslm-ref="/us/usc/t29/s101">101</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 7.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fch7" data-uslm-ref="/us/usc/t29/ch7">7.</a>  </td>
 
     <td> Labor-Management Relations  </td>
 
-    <td> 141  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs141" data-uslm-ref="/us/usc/t29/s141">141</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 8.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fch8" data-uslm-ref="/us/usc/t29/ch8">8.</a>  </td>
 
     <td> Fair Labor Standards  </td>
 
-    <td> 201  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs201" data-uslm-ref="/us/usc/t29/s201">201</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 9.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fch9" data-uslm-ref="/us/usc/t29/ch9">9.</a>  </td>
 
     <td> Portal-to-Portal Pay  </td>
 
-    <td> 251  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs251" data-uslm-ref="/us/usc/t29/s251">251</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 10.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fch10" data-uslm-ref="/us/usc/t29/ch10">10.</a>  </td>
 
     <td> Disclosure of Welfare and Pension Plans [Repealed]  </td>
 
-    <td> 301  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs301" data-uslm-ref="/us/usc/t29/s301">301</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 11.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fch11" data-uslm-ref="/us/usc/t29/ch11">11.</a>  </td>
 
     <td> Labor-Management Reporting and Disclosure Procedure  </td>
 
-    <td> 401  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs401" data-uslm-ref="/us/usc/t29/s401">401</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 12.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fch12" data-uslm-ref="/us/usc/t29/ch12">12.</a>  </td>
 
     <td> Department of Labor  </td>
 
-    <td> 551  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs551" data-uslm-ref="/us/usc/t29/s551">551</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 13.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fch13" data-uslm-ref="/us/usc/t29/ch13">13.</a>  </td>
 
     <td> Exemplary Rehabilitation Certificates [Repealed]  </td>
 
-    <td> 601  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs601" data-uslm-ref="/us/usc/t29/s601">601</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 14.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fch14" data-uslm-ref="/us/usc/t29/ch14">14.</a>  </td>
 
     <td> Age Discrimination in Employment  </td>
 
-    <td> 621  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs621" data-uslm-ref="/us/usc/t29/s621">621</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 15.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fch15" data-uslm-ref="/us/usc/t29/ch15">15.</a>  </td>
 
     <td> Occupational Safety and Health  </td>
 
-    <td> 651  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs651" data-uslm-ref="/us/usc/t29/s651">651</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 16.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fch16" data-uslm-ref="/us/usc/t29/ch16">16.</a>  </td>
 
     <td> Vocational Rehabilitation and Other Rehabilitation Services  </td>
 
-    <td> 701  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs701" data-uslm-ref="/us/usc/t29/s701">701</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 17.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fch17" data-uslm-ref="/us/usc/t29/ch17">17.</a>  </td>
 
     <td> Comprehensive Employment and Training Programs [Repealed]  </td>
 
-    <td> 801  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs801" data-uslm-ref="/us/usc/t29/s801">801</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 18.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fch18" data-uslm-ref="/us/usc/t29/ch18">18.</a>  </td>
 
     <td> Employee Retirement Income Security Program  </td>
 
-    <td> 1001  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1001" data-uslm-ref="/us/usc/t29/s1001">1001</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 19.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fch19" data-uslm-ref="/us/usc/t29/ch19">19.</a>  </td>
 
     <td> Job Training Partnership [Repealed, Transferred, or Omitted]  </td>
 
-    <td> 1501  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1501" data-uslm-ref="/us/usc/t29/s1501">1501</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 20.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fch20" data-uslm-ref="/us/usc/t29/ch20">20.</a>  </td>
 
     <td> Migrant and Seasonal Agricultural Worker Protection  </td>
 
-    <td> 1801  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1801" data-uslm-ref="/us/usc/t29/s1801">1801</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 21.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fch21" data-uslm-ref="/us/usc/t29/ch21">21.</a>  </td>
 
     <td> Helen Keller National Center for Youths and Adults Who Are Deaf-Blind  </td>
 
-    <td> 1901  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1901" data-uslm-ref="/us/usc/t29/s1901">1901</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 22.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fch22" data-uslm-ref="/us/usc/t29/ch22">22.</a>  </td>
 
     <td> Employee Polygraph Protection  </td>
 
-    <td> 2001  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs2001" data-uslm-ref="/us/usc/t29/s2001">2001</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 23.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fch23" data-uslm-ref="/us/usc/t29/ch23">23.</a>  </td>
 
     <td> Worker Adjustment and Retraining Notification  </td>
 
-    <td> 2101  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs2101" data-uslm-ref="/us/usc/t29/s2101">2101</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 24.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fch24" data-uslm-ref="/us/usc/t29/ch24">24.</a>  </td>
 
     <td> Technology Related Assistance for Individuals With Disabilities [Repealed]  </td>
 
-    <td> 2201  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs2201" data-uslm-ref="/us/usc/t29/s2201">2201</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 25.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fch25" data-uslm-ref="/us/usc/t29/ch25">25.</a>  </td>
 
     <td> Displaced Homemakers Self-Suffi­ciency Assistance [Repealed]  </td>
 
-    <td> 2301  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs2301" data-uslm-ref="/us/usc/t29/s2301">2301</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 26.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fch26" data-uslm-ref="/us/usc/t29/ch26">26.</a>  </td>
 
     <td> National Center for the Workplace [Repealed]  </td>
 
-    <td> 2401  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs2401" data-uslm-ref="/us/usc/t29/s2401">2401</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 27.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fch27" data-uslm-ref="/us/usc/t29/ch27">27.</a>  </td>
 
     <td> Women in Apprenticeship and Non­traditional Occupations  </td>
 
-    <td> 2501  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs2501" data-uslm-ref="/us/usc/t29/s2501">2501</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 28.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fch28" data-uslm-ref="/us/usc/t29/ch28">28.</a>  </td>
 
     <td> Family and Medical Leave  </td>
 
-    <td> 2601  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs2601" data-uslm-ref="/us/usc/t29/s2601">2601</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 29.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fch29" data-uslm-ref="/us/usc/t29/ch29">29.</a>  </td>
 
     <td> Workers Technology Skill Development  </td>
 
-    <td> 2701  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs2701" data-uslm-ref="/us/usc/t29/s2701">2701</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 30.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fch30" data-uslm-ref="/us/usc/t29/ch30">30.</a>  </td>
 
     <td> Workforce Investment Systems  </td>
 
-    <td> 2801  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs2801" data-uslm-ref="/us/usc/t29/s2801">2801</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 31.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fch31" data-uslm-ref="/us/usc/t29/ch31">31.</a>  </td>
 
     <td> Assistive Technology for Individuals With Disabilities  </td>
 
-    <td> 3001  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs3001" data-uslm-ref="/us/usc/t29/s3001">3001</a>  </td>
 
   </tr>
 

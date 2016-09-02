@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 2001.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs2001" data-uslm-ref="/us/usc/t29/s2001">2001.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 2002.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs2002" data-uslm-ref="/us/usc/t29/s2002">2002.</a>  </td>
 
     <td> Prohibitions on lie detector use.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 2003.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs2003" data-uslm-ref="/us/usc/t29/s2003">2003.</a>  </td>
 
     <td> Notice of protection.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 2004.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs2004" data-uslm-ref="/us/usc/t29/s2004">2004.</a>  </td>
 
     <td> Authority of Secretary.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 2005.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs2005" data-uslm-ref="/us/usc/t29/s2005">2005.</a>  </td>
 
     <td> Enforcement provisions.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 2006.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs2006" data-uslm-ref="/us/usc/t29/s2006">2006.</a>  </td>
 
     <td> Exemptions.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 2007.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs2007" data-uslm-ref="/us/usc/t29/s2007">2007.</a>  </td>
 
     <td> Restrictions on use of exemptions.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 2008.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs2008" data-uslm-ref="/us/usc/t29/s2008">2008.</a>  </td>
 
     <td> Disclosure of information.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 2009.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs2009" data-uslm-ref="/us/usc/t29/s2009">2009.</a>  </td>
 
     <td> Effect on other law and agreements.  </td>
 

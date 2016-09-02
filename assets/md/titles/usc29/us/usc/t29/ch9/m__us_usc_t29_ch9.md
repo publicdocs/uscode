@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 251.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs251" data-uslm-ref="/us/usc/t29/s251">251.</a>  </td>
 
     <td> Congressional findings and declaration of policy.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 252.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs252" data-uslm-ref="/us/usc/t29/s252">252.</a>  </td>
 
     <td> Relief from certain existing claims under the Fair Labor Standards Act of 1938, as amended, the Walsh-Healey Act, and the Bacon-Davis Act.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 253.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs253" data-uslm-ref="/us/usc/t29/s253">253.</a>  </td>
 
     <td> Compromise and waiver.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 254.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs254" data-uslm-ref="/us/usc/t29/s254">254.</a>  </td>
 
     <td> Relief from liability and punishment under the Fair Labor Standards Act of 1938, the Walsh-Healey Act, and the Bacon-Davis Act for failure to pay minimum wage or overtime compensation.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 255.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs255" data-uslm-ref="/us/usc/t29/s255">255.</a>  </td>
 
     <td> Statute of limitations.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 256.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs256" data-uslm-ref="/us/usc/t29/s256">256.</a>  </td>
 
     <td> Determination of commencement of future actions.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 257.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs257" data-uslm-ref="/us/usc/t29/s257">257.</a>  </td>
 
     <td> Pending collective and representative actions.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 258.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs258" data-uslm-ref="/us/usc/t29/s258">258.</a>  </td>
 
     <td> Reliance on past administrative rulings, etc.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 259.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs259" data-uslm-ref="/us/usc/t29/s259">259.</a>  </td>
 
     <td> Reliance in future on administrative rulings, etc.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 260.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs260" data-uslm-ref="/us/usc/t29/s260">260.</a>  </td>
 
     <td> Liquidated damages.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 261.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs261" data-uslm-ref="/us/usc/t29/s261">261.</a>  </td>
 
     <td> Applicability of “area of production” regulations.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 262.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs262" data-uslm-ref="/us/usc/t29/s262">262.</a>  </td>
 
     <td> Definitions.  </td>
 

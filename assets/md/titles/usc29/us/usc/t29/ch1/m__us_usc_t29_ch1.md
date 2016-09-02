@@ -33,7 +33,7 @@ SUBCHAPTER I—BUREAU OF LABOR STATISTICS  </td>
 
   <tr>
 
-    <td> 1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1" data-uslm-ref="/us/usc/t29/s1">1.</a>  </td>
 
     <td> Design and duties of bureau generally.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—BUREAU OF LABOR STATISTICS  </td>
 
   <tr>
 
-    <td> 2.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs2" data-uslm-ref="/us/usc/t29/s2">2.</a>  </td>
 
     <td> Collection, collation, and reports of labor statistics.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—BUREAU OF LABOR STATISTICS  </td>
 
   <tr>
 
-    <td> 2a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs2a" data-uslm-ref="/us/usc/t29/s2a">2a.</a>  </td>
 
     <td> Omitted.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER I—BUREAU OF LABOR STATISTICS  </td>
 
   <tr>
 
-    <td> 2b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs2b" data-uslm-ref="/us/usc/t29/s2b">2b.</a>  </td>
 
     <td> Studies of productivity and labor costs in industries.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER I—BUREAU OF LABOR STATISTICS  </td>
 
   <tr>
 
-    <td> 3.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs3" data-uslm-ref="/us/usc/t29/s3">3.</a>  </td>
 
     <td> Commissioner; appointment and tenure of office; compensation.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER I—BUREAU OF LABOR STATISTICS  </td>
 
   <tr>
 
-    <td> 4.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs4" data-uslm-ref="/us/usc/t29/s4">4.</a>  </td>
 
     <td> Duties of Commissioner in general.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER I—BUREAU OF LABOR STATISTICS  </td>
 
   <tr>
 
-    <td> 5.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs5" data-uslm-ref="/us/usc/t29/s5">5.</a>  </td>
 
     <td> Bulletin as to labor conditions.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER I—BUREAU OF LABOR STATISTICS  </td>
 
   <tr>
 
-    <td> 6.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs6" data-uslm-ref="/us/usc/t29/s6">6.</a>  </td>
 
     <td> Annual and special reports to President and Congress.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER I—BUREAU OF LABOR STATISTICS  </td>
 
   <tr>
 
-    <td> 7.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs7" data-uslm-ref="/us/usc/t29/s7">7.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER I—BUREAU OF LABOR STATISTICS  </td>
 
   <tr>
 
-    <td> 8.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs8" data-uslm-ref="/us/usc/t29/s8">8.</a>  </td>
 
     <td> Unemployment data relating to Americans of Spanish origin or descent.  </td>
 
@@ -121,7 +121,7 @@ SUBCHAPTER II—SPECIAL STATISTICS  </td>
 
   <tr>
 
-    <td> 9.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs9" data-uslm-ref="/us/usc/t29/s9">9.</a>  </td>
 
     <td> Authorization of special studies, compilations, and transcripts on request; cost.  </td>
 
@@ -129,7 +129,7 @@ SUBCHAPTER II—SPECIAL STATISTICS  </td>
 
   <tr>
 
-    <td> 9a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs9a" data-uslm-ref="/us/usc/t29/s9a">9a.</a>  </td>
 
     <td> Credit of receipts.  </td>
 
@@ -137,7 +137,7 @@ SUBCHAPTER II—SPECIAL STATISTICS  </td>
 
   <tr>
 
-    <td> 9b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs9b" data-uslm-ref="/us/usc/t29/s9b">9b.</a>  </td>
 
     <td> Rules and regulations.  </td>
 

@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 11.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs11" data-uslm-ref="/us/usc/t29/s11">11.</a>  </td>
 
     <td> Bureau established.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 12.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs12" data-uslm-ref="/us/usc/t29/s12">12.</a>  </td>
 
     <td> Director of bureau; appointment.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 13.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs13" data-uslm-ref="/us/usc/t29/s13">13.</a>  </td>
 
     <td> Powers and duties of bureau.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 14.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs14" data-uslm-ref="/us/usc/t29/s14">14.</a>  </td>
 
     <td> Assistant director of bureau; appointment; duties.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 15, 16.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs15" data-uslm-ref="/us/usc/t29/s15">15</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs16" data-uslm-ref="/us/usc/t29/s16">16.</a>  </td>
 
     <td> Repealed.  </td>
 
