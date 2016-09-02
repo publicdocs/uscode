@@ -51,7 +51,7 @@
 
     (c) __Implementation activities__ 
 
-    In carrying out the functions specified in subsection (b) of this section, the Secretary, acting through the Director  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be followed by a comma. </sup></sup>  may, among other things—
+    In carrying out the functions specified in subsection (b), the Secretary, acting through the Director  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be followed by a comma. </sup></sup>  may, among other things—
 
         (1) construct physical standards;
 

@@ -29,7 +29,7 @@
 
     (b) __Minimum requirements for standards and guidelines__ 
 
-    The standards and guidelines required by subsection (a) of this section shall include, at a minimum—
+    The standards and guidelines required by subsection (a) shall include, at a minimum—
 
         (1)
 
@@ -45,7 +45,7 @@
 
     (c) __Development of standards and guidelines__ 
 
-    In developing standards and guidelines required by subsections (a) and (b) of this section, the Institute shall—
+    In developing standards and guidelines required by subsections (a) and (b), the Institute shall—
 
         (1)
 
@@ -61,11 +61,11 @@
 
          submit to the Director of the Office of Management and Budget for promulgation under [section 11331 of title 40][/us/usc/t40/s11331]—
 
-            (A) standards, as required under subsection (b)(1)(A) of this section, no later than 12 months after November 25, 2002; and
+            (A) standards, as required under subsection (b)(1)(A), no later than 12 months after November 25, 2002; and
 
-            (B) minimum information security requirements for each category, as required under subsection (b)(1)(C) of this section, no later than 36 months after November 25, 2002;
+            (B) minimum information security requirements for each category, as required under subsection (b)(1)(C), no later than 36 months after November 25, 2002;
 
-        (4) issue guidelines as required under subsection (b)(1)(B) of this section, no later than 18 months after November 25, 2002;
+        (4) issue guidelines as required under subsection (b)(1)(B), no later than 18 months after November 25, 2002;
 
         (5) ensure that such standards and guidelines do not require specific technological solutions or products, including any specific hardware or software security solutions;
 
@@ -77,13 +77,13 @@
 
     The Institute shall—
 
-        (1) submit standards developed pursuant to subsection (a) of this section, along with recommendations as to the extent to which these should be made compulsory and binding, to the Director of the Office of Management and Budget for promulgation under [section 11331 of title 40][/us/usc/t40/s11331];
+        (1) submit standards developed pursuant to subsection (a), along with recommendations as to the extent to which these should be made compulsory and binding, to the Director of the Office of Management and Budget for promulgation under [section 11331 of title 40][/us/usc/t40/s11331];
 
         (2)
 
          provide assistance to agencies regarding—
 
-            (A) compliance with the standards and guidelines developed under subsection (a) of this section;
+            (A) compliance with the standards and guidelines developed under subsection (a);
 
             (B) detecting and handling information security incidents; and
 
@@ -99,7 +99,7 @@
 
         (7) periodically assess the effectiveness of standards and guidelines developed under this section and undertake revisions as appropriate;
 
-        (8) solicit and consider the recommendations of the Information Security and Privacy Advisory Board, established by [section 278g–4 of this title][/us/usc/t15/s278g–4], regarding standards and guidelines developed under subsection (a) of this section and submit such recommendations to the Director of the Office of Management and Budget with such standards submitted to the Director; and
+        (8) solicit and consider the recommendations of the Information Security and Privacy Advisory Board, established by [section 278g–4 of this title][/us/usc/t15/s278g–4], regarding standards and guidelines developed under subsection (a) and submit such recommendations to the Director of the Office of Management and Budget with such standards submitted to the Director; and
 
         (9) prepare an annual public report on activities undertaken in the previous year, and planned for the coming year, to carry out responsibilities under this section.
 

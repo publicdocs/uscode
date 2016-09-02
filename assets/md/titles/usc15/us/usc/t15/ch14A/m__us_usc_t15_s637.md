@@ -361,7 +361,7 @@
 
                 (ii) The head of the contracting agency for which the contract is being performed certifies that termination of the contract would severely impair attainment of the agency’s program objectives or missions;
 
-                (iii) Ownership and control of the concern that is performing the contract will pass to another small business concern that is a program participant, but only if the acquiring firm would otherwise be eligible to receive the award directly pursuant to subsection (a) of this section;
+                (iii) Ownership and control of the concern that is performing the contract will pass to another small business concern that is a program participant, but only if the acquiring firm would otherwise be eligible to receive the award directly pursuant to subsection (a);
 
                 (iv) The individuals upon whom eligibility was based are no longer able to exercise control of the concern due to incapacity or death; or
 
@@ -759,7 +759,7 @@
 
         (1)
 
-         Except as provided in subsection (g) of this section—
+         Except as provided in subsection (g)—
 
             (A)
 
@@ -769,11 +769,11 @@
 
                 (ii) place an order, expected to exceed $25,000, under a basic agreement, basic ordering agreement, or similar arrangement,
 
-                shall publish a notice described in subsection (f) of this section;
+                shall publish a notice described in subsection (f);
 
             (B)
 
-             an executive agency intending to solicit bids or proposals for a contract for property or services shall post, for a period of not less than ten days, in a public place at the contracting office issuing the solicitation a notice of solicitation described in subsection (f) of this section—
+             an executive agency intending to solicit bids or proposals for a contract for property or services shall post, for a period of not less than ten days, in a public place at the contracting office issuing the solicitation a notice of solicitation described in subsection (f)—
 
                 (i) in the case of an executive agency other than the Department of Defense, if the contract is for a price expected to exceed $10,000, but not to exceed $25,000; and
 
@@ -811,7 +811,7 @@
 
     (f) __Contents of notice__ 
 
-    Each notice of solicitation required by subparagraph (A) or (B) of subsection (e)(1) of this section shall include—
+    Each notice of solicitation required by subparagraph (A) or (B) of subsection (e)(1) shall include—
 
         (1) an accurate description of the property or services to be contracted for, which description (A) shall not be unnecessarily restrictive of competition, and (B) shall include, as appropriate, the agency nomenclature, National Stock Number or other part number, and a brief description of the item’s form, fit, or function, physical dimensions, predominant material of manufacture, or similar information that will assist a prospective contractor to make an informed business judgment as to whether a copy of the solicitation should be requested;
 
@@ -841,7 +841,7 @@
 
         (1)
 
-         A notice is not required under subsection (e)(1) of this section if—
+         A notice is not required under subsection (e)(1) if—
 
             (A)
 
@@ -869,9 +869,9 @@
 
             (G) the procurement is for the services of an expert for use in any litigation or dispute (including preparation for any foreseeable litigation or dispute) that involves or could involve the Federal Government in any trial, hearing, or proceeding before any court, administrative tribunal, or agency, or in any part of an alternative dispute resolution process, whether or not the expert is expected to testify.
 
-        (2) The requirements of subsection (a)(1)(A) of this section do not apply to any procurement under conditions described in paragraph (2), (3), (4), (5), or (7) of [section 3304(a) of title 41][/us/usc/t41/s3304/a] or paragraph (2), (3), (4), (5), or (7) of [section 2304(c) of title 10][/us/usc/t10/s2304/c].
+        (2) The requirements of subsection (a)(1)(A) do not apply to any procurement under conditions described in paragraph (2), (3), (4), (5), or (7) of [section 3304(a) of title 41][/us/usc/t41/s3304/a] or paragraph (2), (3), (4), (5), or (7) of [section 2304(c) of title 10][/us/usc/t10/s2304/c].
 
-        (3) The requirements of subsection (a)(1)(A) of this section shall not apply in the case of any procurement for which the head of the executive agency makes a determination in writing, after consultation with the Administrator for Federal Procurement Policy and the Administrator of the Small Business Administration, that it is not appropriate or reasonable to publish a notice before issuing a solicitation.
+        (3) The requirements of subsection (a)(1)(A) shall not apply in the case of any procurement for which the head of the executive agency makes a determination in writing, after consultation with the Administrator for Federal Procurement Policy and the Administrator of the Small Business Administration, that it is not appropriate or reasonable to publish a notice before issuing a solicitation.
 
     (h) __Award of contracts; procedures other than competitive ones; exceptions__ 
 
@@ -895,7 +895,7 @@
 
     (i) __Availability; complete solicitation package; fees__ 
 
-        An executive agency shall make available to any business concern, or the authorized representative of such concern, the complete solicitation package for any on-going procurement announced pursuant to a notice under subsection (e) of this section. An executive agency may require the payment of a fee, not exceeding the actual cost of duplication, for a copy of such package.
+        An executive agency shall make available to any business concern, or the authorized representative of such concern, the complete solicitation package for any on-going procurement announced pursuant to a notice under subsection (e). An executive agency may require the payment of a fee, not exceeding the actual cost of duplication, for a copy of such package.
 
     (j) __“Executive agency” defined__ 
 
@@ -907,7 +907,7 @@
 
         Notices of subcontracting opportunities may be submitted for publication on the appropriate Federal Web site (as determined by the Administrator) by—
 
-            (A) a business concern awarded a contract by an executive agency subject to subsection (e)(1)(C) of this section; and
+            (A) a business concern awarded a contract by an executive agency subject to subsection (e)(1)(C); and
 
             (B) a business concern that is a subcontractor or supplier (at any tier) to such contractor having a subcontracting opportunity in excess of $10,000.
 
@@ -915,7 +915,7 @@
 
         The notice of a subcontracting opportunity shall include—
 
-            (A) a description of the business opportunity that is comparable to the description specified in paragraphs (1), (2), (3), and (4) of subsection (f) of this section; and
+            (A) a description of the business opportunity that is comparable to the description specified in paragraphs (1), (2), (3), and (4) of subsection (f); and
 
             (B) the due date for receipt of offers.
 
@@ -1397,9 +1397,9 @@
 
     Subsec. (a)(14). [Pub. L. 99–500][/us/pl/99/500] and [Pub. L. 99–591, § 101(c)][/us/pl/99/591/s101/c] \[§ 921(c)(1)\], [Pub. L. 99–661, § 921(c)(1)][/us/pl/99/661/s921/c/1], amended subsec. (a) identically, adding par. (14).
 
-    Subsec. (e)(1). [Pub. L. 99–500][/us/pl/99/500] and [Pub. L. 99–591, § 101(c)][/us/pl/99/591/s101/c] \[§ 921(a)\], [Pub. L. 99–661, § 921(a)][/us/pl/99/661/s921/a], amended par. (1) identically, in subpar. (A) substituting “$25,000” for “$10,000” in cls. (i) and (ii), adding cl. (iii), and in provision following cl. (iii) substituting “subsection (f) of this section” for “subsection (b) of this section”, adding subpar. (B), and redesignating former subpar. (B) as (C).
+    Subsec. (e)(1). [Pub. L. 99–500][/us/pl/99/500] and [Pub. L. 99–591, § 101(c)][/us/pl/99/591/s101/c] \[§ 921(a)\], [Pub. L. 99–661, § 921(a)][/us/pl/99/661/s921/a], amended par. (1) identically, in subpar. (A) substituting “$25,000” for “$10,000” in cls. (i) and (ii), adding cl. (iii), and in provision following cl. (iii) substituting “subsection (f) of this section” for “subsection (b)”, adding subpar. (B), and redesignating former subpar. (B) as (C).
 
-    Subsec. (f). [Pub. L. 99–500][/us/pl/99/500] and [Pub. L. 99–591, § 101(c)][/us/pl/99/591/s101/c] \[§ 922(d)\], [Pub. L. 99–661, § 922(d)][/us/pl/99/661/s922/d], amended subsec. (f) identically, substituting “subparagraph (A) or (B) of subsection (e)(1) of this section” for “subsection (e)(1)(A) of this section” in provisions preceding par. (1).
+    Subsec. (f). [Pub. L. 99–500][/us/pl/99/500] and [Pub. L. 99–591, § 101(c)][/us/pl/99/591/s101/c] \[§ 922(d)\], [Pub. L. 99–661, § 922(d)][/us/pl/99/661/s922/d], amended subsec. (f) identically, substituting “subparagraph (A) or (B) of subsection (e)(1)” for “subsection (e)(1)(A)” in provisions preceding par. (1).
 
     1984—Subsec. (b)(1)(A). [Pub. L. 98–362, § 5(a)(2)][/us/pl/98/362/s5/a/2], which inserted provisions at end of subpar. (A) relating to providing of assistance through cooperation of cosponsors, and provisions respecting activities of the Administration related to furnishing of assistance by cosponsors, was repealed effective Oct. 1, 1994, by [Pub. L. 98–362, § 7(b)][/us/pl/98/362/s7/b], as amended, and effective Sept. 30, 2003, by [Pub. L. 103–403, § 401(a)][/us/pl/103/403/s401/a], as amended. See Effective and Termination Dates of 1984 Amendments notes below.
 

@@ -17,13 +17,13 @@
 
     (a) __Establishment__ 
 
-        The Administration may establish a Premier Certified Lenders Program for certified development companies that meet the requirements of subsection (b) of this section.
+        The Administration may establish a Premier Certified Lenders Program for certified development companies that meet the requirements of subsection (b).
 
     (b) __Requirements__ 
 
         (1) __Application__ 
 
-            To be eligible to participate in the Premier Certified Lenders Program established under subsection (a) of this section, a certified development company shall prepare and submit to the Administration an application at such time, in such manner, and containing such information as the Administration may require.
+            To be eligible to participate in the Premier Certified Lenders Program established under subsection (a), a certified development company shall prepare and submit to the Administration an application at such time, in such manner, and containing such information as the Administration may require.
 
         (2) __Designation__ 
 
@@ -39,9 +39,9 @@
 
                 (ii) of properly closing section 504 \[[15 U.S.C. 697a][/us/usc/t15/s697a]\] loans and servicing its loan portfolio;
 
-            (C) if the company agrees to assume and to reimburse the Administration for 10 percent of any loss sustained by the Administration as a result of default by the company in the payment of principal or interest on a debenture issued by such company and guaranteed by the Administration under this section (15 percent in the case of any such loss attributable to a debenture issued by the company during any period for which an election is in effect under subsection (c)(7) of this section for such company); and
+            (C) if the company agrees to assume and to reimburse the Administration for 10 percent of any loss sustained by the Administration as a result of default by the company in the payment of principal or interest on a debenture issued by such company and guaranteed by the Administration under this section (15 percent in the case of any such loss attributable to a debenture issued by the company during any period for which an election is in effect under subsection (c)(7) for such company); and
 
-            (D) the  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be preceded by “if”. </sup></sup>  Administrator determines, with respect to the company, that the loss reserve established in accordance with subsection (c) of this section is sufficient for the company to meet its obligations to protect the Federal Government from risk of loss.
+            (D) the  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be preceded by “if”. </sup></sup>  Administrator determines, with respect to the company, that the loss reserve established in accordance with subsection (c) is sufficient for the company to meet its obligations to protect the Federal Government from risk of loss.
 
         (3) __Applicability of criteria after designation__ 
 
@@ -55,7 +55,7 @@
 
         (2) __Amount__ 
 
-            The amount of each loss reserve established under paragraph (1) shall be 10 percent of the amount of the company’s exposure, as determined under subsection (b)(2)(C) of this section.
+            The amount of each loss reserve established under paragraph (1) shall be 10 percent of the amount of the company’s exposure, as determined under subsection (b)(2)(C).
 
         (3) __Assets__ 
 
@@ -79,7 +79,7 @@
 
         (5) __Replenishment__ 
 
-            If a loss has been sustained by the Administration, any portion of the loss reserve, and other funds provided by the premier company as necessary, may be used to reimburse the Administration for the premier company’s share of the loss as provided in subsection (b)(2)(C) of this section. If the company utilizes the reserve, within 30 days it shall replace an equivalent amount of funds.
+            If a loss has been sustained by the Administration, any portion of the loss reserve, and other funds provided by the premier company as necessary, may be used to reimburse the Administration for the premier company’s share of the loss as provided in subsection (b)(2)(C). If the company utilizes the reserve, within 30 days it shall replace an equivalent amount of funds.
 
         (6) __Disbursements__ 
 
@@ -247,15 +247,15 @@
 
     (f) __Review__ 
 
-        After the issuance and sale of debentures under this section, the Administration, at intervals not greater than 12 months, shall review the financings made by each premier certified lender. The review shall include the lender’s credit decisions and general compliance with the eligibility requirements for each financing approved under the program authorized under this section. The Administration shall consider the findings of the review in carrying out its responsibilities under subsection (g) of this section, but such review shall not affect any outstanding debenture guarantee.
+        After the issuance and sale of debentures under this section, the Administration, at intervals not greater than 12 months, shall review the financings made by each premier certified lender. The review shall include the lender’s credit decisions and general compliance with the eligibility requirements for each financing approved under the program authorized under this section. The Administration shall consider the findings of the review in carrying out its responsibilities under subsection (g), but such review shall not affect any outstanding debenture guarantee.
 
     (g) __Suspension or revocation__ 
 
     The designation of a certified development company as a premier certified lender may be suspended or revoked if the Administration determines that the company—
 
-        (1) has not continued to meet the criteria for eligibility under subsection (b) of this section;
+        (1) has not continued to meet the criteria for eligibility under subsection (b);
 
-        (2) has not established or maintained the loss reserve required under subsection (c) of this section;
+        (2) has not established or maintained the loss reserve required under subsection (c);
 
         (3) is failing to adhere to the Administration’s rules and regulations; or
 
@@ -263,7 +263,7 @@
 
     (h) __Effect of suspension or revocation__ 
 
-        A suspension or revocation under subsection (g) of this section shall not affect any outstanding debenture guarantee.
+        A suspension or revocation under subsection (g) shall not affect any outstanding debenture guarantee.
 
     (i) __Program goals__ 
 
@@ -291,7 +291,7 @@
 
  __Amendments__ 
 
-    2004—Subsec. (b)(2)(C). [Pub. L. 108–232, § 3(b)][/us/pl/108/232/s3/b], inserted “(15 percent in the case of any such loss attributable to a debenture issued by the company during any period for which an election is in effect under subsection (c)(7) of this section for such company)” before “; and”.
+    2004—Subsec. (b)(2)(C). [Pub. L. 108–232, § 3(b)][/us/pl/108/232/s3/b], inserted “(15 percent in the case of any such loss attributable to a debenture issued by the company during any period for which an election is in effect under subsection (c)(7) for such company)” before “; and”.
 
     Subsec. (b)(2)(D). [Pub. L. 108–232, § 3(c)(1)][/us/pl/108/232/s3/c/1], substituted “subsection (c)” for “subsection (c)(2)”.
 

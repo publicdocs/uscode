@@ -17,13 +17,13 @@
 
     (a) __Delegation of authority__ 
 
-        In accordance with this section, the Administration shall delegate to any qualified State or local development company (as defined in [section 697(e) of this title][/us/usc/t15/s697/e]) that meets the eligibility requirements of subsection (b)(1) of this section the authority to foreclose and liquidate, or to otherwise treat in accordance with this section, defaulted loans in its portfolio that are funded with the proceeds of debentures guaranteed by the Administration under [section 697 of this title][/us/usc/t15/s697].
+        In accordance with this section, the Administration shall delegate to any qualified State or local development company (as defined in [section 697(e) of this title][/us/usc/t15/s697/e]) that meets the eligibility requirements of subsection (b)(1) the authority to foreclose and liquidate, or to otherwise treat in accordance with this section, defaulted loans in its portfolio that are funded with the proceeds of debentures guaranteed by the Administration under [section 697 of this title][/us/usc/t15/s697].
 
     (b) __Eligibility for delegation__ 
 
         (1) __Requirements__ 
 
-        A qualified State or local development company shall be eligible for a delegation of authority under subsection (a) of this section if—
+        A qualified State or local development company shall be eligible for a delegation of authority under subsection (a) if—
 
             (A)
 
@@ -51,13 +51,13 @@
 
         (2) __Confirmation__ 
 
-            On request the Administration shall examine the qualifications of any company described in subsection (a) of this section to determine if such company is eligible for the delegation of authority under this section. If the Administration determines that a company is not eligible, the Administration shall provide the company with the reasons for such ineligibility.
+            On request the Administration shall examine the qualifications of any company described in subsection (a) to determine if such company is eligible for the delegation of authority under this section. If the Administration determines that a company is not eligible, the Administration shall provide the company with the reasons for such ineligibility.
 
     (c) __Scope of delegated authority__ 
 
         (1) __In general__ 
 
-        Each qualified State or local development company to which the Administration delegates authority under section  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “subsection”. </sup></sup>  (a) may with respect to any loan described in subsection (a) of this section—
+        Each qualified State or local development company to which the Administration delegates authority under section  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “subsection”. </sup></sup>  (a) may with respect to any loan described in subsection (a)—
 
             (A) perform all liquidation and foreclosure functions, including the purchase in accordance with this subsection of any other indebtedness secured by the property securing the loan, in a reasonable and sound manner according to commercially accepted practices, pursuant to a liquidation plan approved in advance by the Administration under paragraph (2)(A);
 
@@ -159,7 +159,7 @@
 
     The Administration may revoke or suspend a delegation of authority under this section to any qualified State or local development company, if the Administration determines that the company—
 
-        (1) does not meet the requirements of subsection (b)(1) of this section;
+        (1) does not meet the requirements of subsection (b)(1);
 
         (2) has violated any applicable rule or regulation of the Administration or any other applicable law; or
 

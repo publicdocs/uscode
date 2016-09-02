@@ -27,7 +27,7 @@
 
     (b) __Application__ 
 
-    To participate, as a New Markets Venture Capital company, in the program established under this part a company meeting the eligibility requirements set forth in subsection (a) of this section shall submit an application to the Administrator that includes—
+    To participate, as a New Markets Venture Capital company, in the program established under this part a company meeting the eligibility requirements set forth in subsection (a) shall submit an application to the Administrator that includes—
 
         (1) a business plan describing how the company intends to make successful developmental venture capital investments in identified low-income geographic areas;
 
@@ -49,7 +49,7 @@
 
         (1) __In general__ 
 
-            From among companies submitting applications under subsection (b) of this section, the Administrator shall, in accordance with this subsection, conditionally approval  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “approve”. </sup></sup>  companies to participate in the New Markets Venture Capital Program.
+            From among companies submitting applications under subsection (b), the Administrator shall, in accordance with this subsection, conditionally approval  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “approve”. </sup></sup>  companies to participate in the New Markets Venture Capital Program.
 
         (2) __Selection criteria__ 
 
@@ -63,7 +63,7 @@
 
             (D) The extent to which the company will concentrate its activities on serving the geographic areas in which it intends to invest.
 
-            (E) The likelihood that the company will be able to satisfy the conditions under subsection (d) of this section.
+            (E) The likelihood that the company will be able to satisfy the conditions under subsection (d).
 
             (F) The extent to which the activities proposed by the company will expand economic opportunities in the geographic areas in which the company intends to invest.
 
@@ -125,17 +125,17 @@
 
     (e) __Final approval; designation__ 
 
-    The Administrator shall, with respect to each applicant conditionally approved to operate as a New Markets Venture Capital company under subsection (c) of this section, either—
+    The Administrator shall, with respect to each applicant conditionally approved to operate as a New Markets Venture Capital company under subsection (c), either—
 
         (1)
 
          grant final approval to the applicant to operate as a New Markets Venture Capital company under this part and designate the applicant as such a company, if the applicant—
 
-            (A) satisfies the requirements of subsection (d) of this section on or before the expiration of the time period described in that subsection; and
+            (A) satisfies the requirements of subsection (d) on or before the expiration of the time period described in that subsection; and
 
             (B) enters into a participation agreement with the Administrator; or
 
-        (2) if the applicant fails to satisfy the requirements of subsection (d) of this section on or before the expiration of the time period described in that subsection, revoke the conditional approval granted under that subsection.
+        (2) if the applicant fails to satisfy the requirements of subsection (d) on or before the expiration of the time period described in that subsection, revoke the conditional approval granted under that subsection.
 
 ([Pub. L. 85–699, title III, § 354][/us/pl/85/699/s354], as added [Pub. L. 106–554, § 1(a)(8)][/us/pl/106/554/s1/a/8] \[§ 1(b)(3)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–655.)
 

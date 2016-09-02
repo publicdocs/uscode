@@ -23,11 +23,21 @@
 
             (A)  __Credit elsewhere__  __.—__ 
 
-            No financial assistance shall be extended pursuant to this subsection if the applicant can obtain credit elsewhere. No immediate participation may be purchased unless it is shown that a deferred participation is not available; and no direct financing may be made unless it is shown that a participation is not available.
+                (i)  __In general__  __.—__ 
+
+                No financial assistance shall be extended pursuant to this subsection if the applicant can obtain credit elsewhere. No immediate participation may be purchased unless it is shown that a deferred participation is not available; and no direct financing may be made unless it is shown that a participation is not available.
+
+                (ii)  __Liquidity__  __.—__ 
+
+                On and after October 1, 2015, the Administrator may not guarantee a loan under this subsection if the lender determines that the borrower is unable to obtain credit elsewhere solely because the liquidity of the lender depends upon the guaranteed portion of the loan being sold on the secondary market.
 
             (B)  __Background checks__  __.—__ 
 
             Prior to the approval of any loan made pursuant to this subsection, or section 503 of the Small Business Investment Act of 1958 \[[15 U.S.C. 697][/us/usc/t15/s697]\], the Administrator may verify the applicant’s criminal background, or lack thereof, through the best available means, including, if possible, use of the National Crime Information Center computer system at the Federal Bureau of Investigation.
+
+            (C)  __Lending limits of lenders__  __.—__ 
+
+            On and after October 1, 2015, the Administrator may not guarantee a loan under this subsection if the sole purpose for requesting the guarantee is to allow the lender to exceed the legal lending limit of the lender.
 
         (2) __Level of participation in guaranteed loans.—__ 
 
@@ -311,7 +321,7 @@
 
             (A)
 
-             The Administration is empowered to make loans either directly or in cooperation with banks or other financial institutions through agreements to participate on an immediate or deferred (guaranteed) basis to small business concerns eligible for assistance under subsection (j)(10) of this section and [section 637(a) of this title][/us/usc/t15/s637/a]. Such assistance may be provided only if the Administration determines that—
+             The Administration is empowered to make loans either directly or in cooperation with banks or other financial institutions through agreements to participate on an immediate or deferred (guaranteed) basis to small business concerns eligible for assistance under subsection (j)(10) and [section 637(a) of this title][/us/usc/t15/s637/a]. Such assistance may be provided only if the Administration determines that—
 
                 (i) the type and amount of such assistance requested by such concern is not otherwise available on reasonable terms from other sources;
 
@@ -536,6 +546,30 @@
                     (I) purchasing a renewable energy system; or
 
                     (II) carrying out an energy efficiency project for a small business concern.
+
+            (G) __Guarantee fee waiver for veterans.—__ 
+
+                (i)  __Guarantee fee waiver__  __.—__ 
+
+                The Administrator may not collect a guarantee fee described in paragraph (18) in connection with a loan made under this paragraph to a veteran or spouse of a veteran on or after October 1, 2015.
+
+                (ii)  __Exception__  __.—__ 
+
+                If the President’s budget for the upcoming fiscal year, submitted to Congress pursuant to [section 1105(a) of title 31][/us/usc/t31/s1105/a], includes a cost for the program established under this subsection that is above zero, the requirements of clause (i) shall not apply to loans made during such upcoming fiscal year.
+
+                (iii)  __Definition__  __.—__ 
+
+                In this subparagraph, the term “veteran or spouse of a veteran” means—
+
+                    (I) a veteran, as defined in [section 632(q)(4) of this title][/us/usc/t15/s632/q/4];
+
+                    (II) an individual who is eligible to participate in the Transition Assistance Program established under [section 1144 of title 10][/us/usc/t10/s1144];
+
+                    (III) a member of a reserve component of the Armed Forces named in [section 10101 of title 10][/us/usc/t10/s10101];
+
+                    (IV) the spouse of an individual described in subclause (I), (II), or (III); or
+
+                    (V) the surviving spouse (as defined in [section 101 of title 38][/us/usc/t38/s101]) of an individual described in subclause (I), (II), or (III) who died while serving on active duty or as a result of a disability that is service-connected (as defined in such section).
 
         (32) __Loans for energy efficient technologies.—__ 
 
@@ -767,7 +801,7 @@
 
                 (i) the term “essential employee” means an individual who is employed by a small business concern and whose managerial or technical expertise is critical to the successful day-to-day operations of that small business concern;
 
-                (ii) the term “period of military conflict” has the meaning given the term in subsection (n)(1) of this section; and
+                (ii) the term “period of military conflict” has the meaning given the term in subsection (n)(1); and
 
                 (iii)
 
@@ -1103,21 +1137,21 @@
 
         (1) The Administration may further extend the maturity of or renew any loan made pursuant to this section, or any loan transferred to the Administration pursuant to Reorganization Plan Numbered 2 of 1954, or Reorganization Plan Numbered 1 of 1957, for additional periods not to exceed ten years beyond the period stated therein, if such extension or renewal will aid in the orderly liquidation of such loan.
 
-        (2) During any period in which principal and interest charges are suspended on the Federal share of any loan, as provided in subsection (b) of this section, the Administrator shall, upon the request of any person, firm, or corporation having a participation in such loan, purchase such participation, or assume the obligation of the borrower, for the balance of such period, to make principal and interest payments on the non-Federal share of such loan: Provided, That no such payments shall be made by the Administrator in behalf of any borrower unless (i) the Administrator determines that such action is necessary in order to avoid a default, and (ii) the borrower agrees to make payments to the Administration in an aggregate amount equal to the amount paid in its behalf by the Administrator, in such manner and at such times (during or after the term of the loan) as the Administrator shall determine having due regard to the purposes sought to be achieved by this paragraph.
+        (2) During any period in which principal and interest charges are suspended on the Federal share of any loan, as provided in subsection (b), the Administrator shall, upon the request of any person, firm, or corporation having a participation in such loan, purchase such participation, or assume the obligation of the borrower, for the balance of such period, to make principal and interest payments on the non-Federal share of such loan: Provided, That no such payments shall be made by the Administrator in behalf of any borrower unless (i) the Administrator determines that such action is necessary in order to avoid a default, and (ii) the borrower agrees to make payments to the Administration in an aggregate amount equal to the amount paid in its behalf by the Administrator, in such manner and at such times (during or after the term of the loan) as the Administrator shall determine having due regard to the purposes sought to be achieved by this paragraph.
 
         (3)
 
-         With respect to a disaster occurring on or after October 1, 1978, and prior  <sup>\[10\]</sup>  <sup><sup> 10 So in original. Probably should be “prior to”. </sup></sup>  August 13, 1981, on the Administration’s share of loans made pursuant to paragraph (1) of subsection (b) of this section—
+         With respect to a disaster occurring on or after October 1, 1978, and prior  <sup>\[10\]</sup>  <sup><sup> 10 So in original. Probably should be “prior to”. </sup></sup>  August 13, 1981, on the Administration’s share of loans made pursuant to paragraph (1) of subsection (b)—
 
             (A) if the loan proceeds are to repair or replace a primary residence and/or repair or replace damaged or destroyed personal property, the interest rate shall be 3 percent on the first $55,000 of such loan;
 
             (B) if the loan proceeds are to repair or replace property damaged or destroyed and if the applicant is a business concern which is unable to obtain sufficient credit elsewhere, the interest rate shall be as determined by the Administration, but not in excess of 5 percent per annum; and
 
-            (C) if the loan proceeds are to repair or replace property damaged or destroyed and if the applicant is a business concern which is able to obtain sufficient credit elsewhere, the interest rate shall not exceed the current average market yield on outstanding marketable obligations of the United States with remaining periods to maturity comparable to the average maturities of such loans and adjusted to the nearest one-eighth of 1 percent, and an additional amount as determined by the Administration, but not to exceed 1 percent: Provided, That three years after such loan is fully disbursed and every two years thereafter for the term of the loan, if the Administration determines that the borrower is able to obtain a loan from non-Federal sources at reasonable rates and terms for loans of similar purposes and periods of time, the borrower shall, upon request by the Administration, apply for and accept such a loan in sufficient amount to repay the Administration: Provided further, That no loan under subsection (b)(1) of this section shall be made, either directly or in cooperation with banks or other lending institutions through agreements to participate on an immediate or deferred basis, if the total amount outstanding and committed to the borrower under such subsection would exceed $500,000 for each disaster, unless an applicant constitutes a major source of employment in an area suffering a disaster, in which case the Administration, in its discretion, may waive the $500,000 limitation.
+            (C) if the loan proceeds are to repair or replace property damaged or destroyed and if the applicant is a business concern which is able to obtain sufficient credit elsewhere, the interest rate shall not exceed the current average market yield on outstanding marketable obligations of the United States with remaining periods to maturity comparable to the average maturities of such loans and adjusted to the nearest one-eighth of 1 percent, and an additional amount as determined by the Administration, but not to exceed 1 percent: Provided, That three years after such loan is fully disbursed and every two years thereafter for the term of the loan, if the Administration determines that the borrower is able to obtain a loan from non-Federal sources at reasonable rates and terms for loans of similar purposes and periods of time, the borrower shall, upon request by the Administration, apply for and accept such a loan in sufficient amount to repay the Administration: Provided further, That no loan under subsection (b)(1) shall be made, either directly or in cooperation with banks or other lending institutions through agreements to participate on an immediate or deferred basis, if the total amount outstanding and committed to the borrower under such subsection would exceed $500,000 for each disaster, unless an applicant constitutes a major source of employment in an area suffering a disaster, in which case the Administration, in its discretion, may waive the $500,000 limitation.
 
         (4)
 
-         Notwithstanding the provisions of any other law, the interest rate on the Federal share of any loan made under subsection (b) of this section shall be—
+         Notwithstanding the provisions of any other law, the interest rate on the Federal share of any loan made under subsection (b) shall be—
 
             (A) in the case of a homeowner unable to secure credit elsewhere, the rate prescribed by the Administration but not more than one-half the rate determined by the Secretary of the Treasury taking into consideration the current average market yield on outstanding marketable obligations of the United States with remaining periods to maturity comparable to the average maturities of such loans plus an additional charge of not to exceed 1 per centum per annum as determined by the Administrator, and adjusted to the nearest one-eighth of 1 per centum but not to exceed 8 per centum per annum;
 
@@ -1125,11 +1159,11 @@
 
             (C) in the case of a business concern unable to obtain credit elsewhere, not to exceed 8 per centum per annum;
 
-            (D) in the case of a business concern able to obtain credit elsewhere, the rate prescribed by the Administration but not in excess of the rate prevailing in private market for similar loans and not more than the rate prescribed by the Administration as the maximum interest rate for deferred participation (guaranteed) loans under subsection (a) of this section. Loans under this subparagraph shall be limited to a maximum term of three years.
+            (D) in the case of a business concern able to obtain credit elsewhere, the rate prescribed by the Administration but not in excess of the rate prevailing in private market for similar loans and not more than the rate prescribed by the Administration as the maximum interest rate for deferred participation (guaranteed) loans under subsection (a). Loans under this subparagraph shall be limited to a maximum term of three years.
 
         (5)
 
-         Notwithstanding the provisions of any other law, the interest rate on the Federal share of any loan made under subsection (b)(1) and (b)(2) of this section on account of a disaster commencing on or after October 1, 1982, shall be—
+         Notwithstanding the provisions of any other law, the interest rate on the Federal share of any loan made under subsection (b)(1) and (b)(2) on account of a disaster commencing on or after October 1, 1982, shall be—
 
             (A) in the case of a homeowner unable to secure credit elsewhere, the rate prescribed by the Administration but not more than one-half the rate determined by the Secretary of the Treasury taking into consideration the current average market yield on outstanding marketable obligations of the United States with remaining periods to maturity comparable to the average maturities of such loan plus an additional charge of not to exceed 1 per centum per annum as determined by the Administrator, and adjusted to the nearest one-eighth of 1 per centum, but not to exceed 4 per centum per annum;
 
@@ -1137,13 +1171,13 @@
 
             (C) in the case of a business, private nonprofit organization, or other concern, including agricultural cooperatives, unable to obtain credit elsewhere, not to exceed 4 per centum per annum;
 
-            (D) in the case of a business concern able to obtain credit elsewhere, the rate prescribed by the Administration but not in excess of the lowest of (i) the rate prevailing in the private market for similar loans, (ii) the rate prescribed by the Administration as the maximum interest rate for deferred participation (guaranteed) loans under subsection (a) of this section, or (iii) 8 per centum per annum. Loans under this subparagraph shall be limited to a maximum term of 7 years.
+            (D) in the case of a business concern able to obtain credit elsewhere, the rate prescribed by the Administration but not in excess of the lowest of (i) the rate prevailing in the private market for similar loans, (ii) the rate prescribed by the Administration as the maximum interest rate for deferred participation (guaranteed) loans under subsection (a), or (iii) 8 per centum per annum. Loans under this subparagraph shall be limited to a maximum term of 7 years.
 
-        (6) Notwithstanding the provisions of any other law, such loans, subject to the reductions required by subparagraphs (A) and (B) of subsection (b)(1) of this section, shall be in amounts equal to 100 per centum of loss. The interest rates for loans made under subsection (b)(1) and (2) of this section, as determined pursuant to paragraph (5), shall be the rate of interest which is in effect on the date of the disaster commenced: Provided, That no loan under subsection (b)(1) and (2) of this section shall be made, either directly or in cooperation with banks or other lending institutions through agreements to participate on an immediate or deferred (guaranteed) basis, if the total amount outstanding and committed to the borrower under subsection (b) of this section would exceed $500,000 for each disaster unless an applicant constitutes a major source of employment in an area suffering a disaster, in which case the Administration, in its discretion, may waive the $500,000 limitation: Provided further, That the Administration, subject to the reductions required by subparagraphs (A) and (B) of subsection (b)(1) of this section, shall not reduce the amount of eligibility for any homeowner on account of loss of real estate to less than $100,000 for each disaster nor for any homeowner or lessee on account of loss of personal property to less than $20,000 for each disaster, such sums being in addition to any eligible refinancing: Provided further, That the Administration shall not require collateral for loans of $14,000 or less (or such higher amount as the Administrator determines appropriate in the event of a major disaster) which are made under paragraph (1) of subsection (b) of this section. Employees of concerns sharing a common business premises shall be aggregated in determining “major source of employment” status for nonprofit applicants owning such premises.
+        (6) Notwithstanding the provisions of any other law, such loans, subject to the reductions required by subparagraphs (A) and (B) of subsection (b)(1), shall be in amounts equal to 100 per centum of loss. The interest rates for loans made under subsection (b)(1) and (2), as determined pursuant to paragraph (5), shall be the rate of interest which is in effect on the date of the disaster commenced: Provided, That no loan under subsection (b)(1) and (2) shall be made, either directly or in cooperation with banks or other lending institutions through agreements to participate on an immediate or deferred (guaranteed) basis, if the total amount outstanding and committed to the borrower under subsection (b) would exceed $500,000 for each disaster unless an applicant constitutes a major source of employment in an area suffering a disaster, in which case the Administration, in its discretion, may waive the $500,000 limitation: Provided further, That the Administration, subject to the reductions required by subparagraphs (A) and (B) of subsection (b)(1), shall not reduce the amount of eligibility for any homeowner on account of loss of real estate to less than $100,000 for each disaster nor for any homeowner or lessee on account of loss of personal property to less than $20,000 for each disaster, such sums being in addition to any eligible refinancing: Provided further, That the Administration shall not require collateral for loans of $14,000 or less (or such higher amount as the Administrator determines appropriate in the event of a major disaster) which are made under paragraph (1) of subsection (b). Employees of concerns sharing a common business premises shall be aggregated in determining “major source of employment” status for nonprofit applicants owning such premises.
 
         With respect to any loan which is outstanding on April 18, 1984, and which was made on account of a disaster commencing on or after October 1, 1982, the Administrator shall make such change in the interest rate on the balance of such loan as is required herein effective as of April 18, 1984.
 
-        (7) The Administration shall not withhold disaster assistance pursuant to this paragraph to nurseries who are victims of drought disasters. As used in subsection (b)(2) of this section the term “an area affected by a disaster” includes any county, or county contiguous thereto, determined to be a disaster by the President, the Secretary of Agriculture or the Administrator of the Small Business Administration.
+        (7) The Administration shall not withhold disaster assistance pursuant to this paragraph to nurseries who are victims of drought disasters. As used in subsection (b)(2) the term “an area affected by a disaster” includes any county, or county contiguous thereto, determined to be a disaster by the President, the Secretary of Agriculture or the Administrator of the Small Business Administration.
 
     (e) __Funds for small business development centers under__  __[__  __section 648 of this title__  __][/us/usc/t15/s648]__ 
 
@@ -1217,7 +1251,7 @@
 
     (j) __Financial assistance for projects providing technical or management assistance; areas of high concentration of unemployment or low-income; preferences; manner and method of payment; accessible services; program evaluations; establishment of development program; coordination of policies__ 
 
-        (1) The Administration shall provide financial assistance to public or private organizations to pay all or part of the cost of projects designed to provide technical or management assistance to individuals or enterprises eligible for assistance under subsection (i) of this section, paragraph (10) of this subsection; and [section 637(a) of this title][/us/usc/t15/s637/a], with special attention to small businesses located in areas of high concentration of unemployed or low-income individuals, to small businesses eligible to receive contracts pursuant to [section 637(a) of this title][/us/usc/t15/s637/a].
+        (1) The Administration shall provide financial assistance to public or private organizations to pay all or part of the cost of projects designed to provide technical or management assistance to individuals or enterprises eligible for assistance under subsection (i), paragraph (10) of this subsection; and [section 637(a) of this title][/us/usc/t15/s637/a], with special attention to small businesses located in areas of high concentration of unemployed or low-income individuals, to small businesses eligible to receive contracts pursuant to [section 637(a) of this title][/us/usc/t15/s637/a].
 
         (2)
 
@@ -1227,13 +1261,13 @@
 
             (B) the identification and development of new business opportunities;
 
-            (C) the furnishing of centralized services with regard to public services and Federal Government programs including programs authorized under subsection (i) of this section; paragraph (10) of this subsection, and [section 637(a) of this title][/us/usc/t15/s637/a];
+            (C) the furnishing of centralized services with regard to public services and Federal Government programs including programs authorized under subsection (i); paragraph (10) of this subsection, and [section 637(a) of this title][/us/usc/t15/s637/a];
 
             (D) the establishment and strengthening of business service agencies, including trade associations and cooperatives; and
 
             (E) the furnishing of business counseling, management training, and legal and other related services, with special emphasis on the development of management training programs using the resources of the business community, including the development of management training opportunities in existing business, and with emphasis in all cases upon providing management training of sufficient scope and duration to develop entrepreneurial and managerial self-sufficiency on the part of the individuals served.
 
-        (3) The Administration shall encourage the placement of subcontracts by businesses with small business concerns located in areas of high concentration of unemployed or low-income individuals, with small businesses owned by low-income individuals, and with small businesses eligible to receive contracts pursuant to [section 637(a) of this title][/us/usc/t15/s637/a]. The Administration may provide incentives and assistance to such businesses that will aid in the training and upgrading of potential subcontractors or other small business concerns eligible for assistance under subsections (i) and (j) of this section, and [section 637(a) of this title][/us/usc/t15/s637/a].
+        (3) The Administration shall encourage the placement of subcontracts by businesses with small business concerns located in areas of high concentration of unemployed or low-income individuals, with small businesses owned by low-income individuals, and with small businesses eligible to receive contracts pursuant to [section 637(a) of this title][/us/usc/t15/s637/a]. The Administration may provide incentives and assistance to such businesses that will aid in the training and upgrading of potential subcontractors or other small business concerns eligible for assistance under subsections (i) and (j), and [section 637(a) of this title][/us/usc/t15/s637/a].
 
         (4) The Administration shall give preference to projects which promote the ownership, participation in ownership, or management of small businesses owned by low-income individuals and small businesses eligible to receive contracts pursuant to [section 637(a) of this title][/us/usc/t15/s637/a].
 
@@ -1245,7 +1279,7 @@
 
         (8) Repealed. [Pub. L. 101–574, title II, § 242(2)][/us/pl/101/574/s242/2], Nov. 15, 1990, [104 Stat. 2827][/us/stat/104/2827].
 
-        (9) The Administration shall take such steps as may be necessary and appropriate, in coordination and cooperation with the heads of other Federal departments and agencies, to insure that contracts, subcontracts, and deposits made by the Federal Government or with programs aided with Federal funds are placed in such way as to further the purposes of subsections (i) and (j) of this section and [section 637(a) of this title][/us/usc/t15/s637/a].
+        (9) The Administration shall take such steps as may be necessary and appropriate, in coordination and cooperation with the heads of other Federal departments and agencies, to insure that contracts, subcontracts, and deposits made by the Federal Government or with programs aided with Federal funds are placed in such way as to further the purposes of subsections (i) and (j) and [section 637(a) of this title][/us/usc/t15/s637/a].
 
         (10)
 
@@ -1379,7 +1413,7 @@
 
         (11)
 
-            (A) The Associate Administrator for Minority Small Business and Capital Ownership Development shall be responsible for coordinating and formulating policies relating to Federal assistance to small business concerns eligible for assistance under subsection (i) of this section and small business concerns eligible to receive contracts pursuant to [section 637(a) of this title][/us/usc/t15/s637/a].
+            (A) The Associate Administrator for Minority Small Business and Capital Ownership Development shall be responsible for coordinating and formulating policies relating to Federal assistance to small business concerns eligible for assistance under subsection (i) and small business concerns eligible to receive contracts pursuant to [section 637(a) of this title][/us/usc/t15/s637/a].
 
             (B)
 
@@ -1455,7 +1489,7 @@
 
             (A) Contract support pursuant to [section 637(a) of this title][/us/usc/t15/s637/a].
 
-            (B) Financial assistance pursuant to subsection (a)(20) of this section.
+            (B) Financial assistance pursuant to subsection (a)(20).
 
             (C) A maximum of two exemptions from the requirements of section 35(a) 2 of title 41, which exemptions shall apply only to contracts awarded pursuant to [section 637(a) of this title][/us/usc/t15/s637/a] and shall only be used to allow for contingent agreements by a small business concern to acquire the machinery, equipment, facilities, or labor needed to perform such contracts. No exemption shall be made pursuant to this subparagraph if the contract to which it pertains has an anticipated value in excess of $10,000,000. This subparagraph shall cease to be effective on October 1, 1992.
 
@@ -1521,7 +1555,7 @@
 
                 (iii) A compilation and evaluation of those business concerns that have exited the Program during the immediately preceding three fiscal years. Such compilation and evaluation shall detail the number of concerns actively engaged in business operations, those that have ceased or substantially curtailed such operations, including the reasons for such actions, and those concerns that have been acquired by other firms or organizations owned and controlled by other than socially and economically disadvantaged individuals. For those businesses that have continued operations after they exited from the Program, the Administrator shall also separately detail the benefits and costs that have accrued to the economy during the immediately preceding fiscal year due to the operations of such concerns.
 
-                (iv) A listing of all participants in the Program during the preceding fiscal year identifying, by State and by Region, for each firm: the name of the concern, the race or ethnicity, and gender of the disadvantaged owners, the dollar value of all contracts received in the preceding year, the dollar amount of advance payments received by each concern pursuant to contracts awarded under [section 637(a) of this title][/us/usc/t15/s637/a], and a description including (if appropriate) an estimate of the dollar value of all benefits received pursuant to paragraphs (13) and (14) and subsection (a)(20) of this section during such year.
+                (iv) A listing of all participants in the Program during the preceding fiscal year identifying, by State and by Region, for each firm: the name of the concern, the race or ethnicity, and gender of the disadvantaged owners, the dollar value of all contracts received in the preceding year, the dollar amount of advance payments received by each concern pursuant to contracts awarded under [section 637(a) of this title][/us/usc/t15/s637/a], and a description including (if appropriate) an estimate of the dollar value of all benefits received pursuant to paragraphs (13) and (14) and subsection (a)(20) during such year.
 
                 (v) The total dollar value of contracts and options awarded during the preceding fiscal year pursuant to [section 637(a) of this title][/us/usc/t15/s637/a] and such amount expressed as a percentage of total sales of (I) all firms participating in the Program during such year; and (II) of firms in each of the nine years of program participation.
 
@@ -1533,7 +1567,7 @@
 
     (k) __Functions relating to loans and financial assistance for projects providing technical or management assistance to individuals or enterprises eligible for assistance as small business concerns located in urban or rural areas with high proportions of unemployed or low-income individuals, or owned by low-income individuals__ 
 
-    In carrying out its functions under subsections (i) and (j) of this section and [section 637(a) of this title][/us/usc/t15/s637/a], the Administration is authorized—
+    In carrying out its functions under subsections (i) and (j) and [section 637(a) of this title][/us/usc/t15/s637/a], the Administration is authorized—
 
         (1) to utilize, with their consent, the services and facilities of Federal agencies without reimbursement, and, with the consent of any State or political subdivision of a State, accept and utilize the services and facilities of such State or subdivision without reimbursement;
 
@@ -1737,7 +1771,7 @@
 
             (C) __Loan limits__ 
 
-                Notwithstanding subsection (a)(3) of this section, no loan shall be made under this subsection if the total amount outstanding and committed to one intermediary (excluding outstanding grants) from the business loan and investment fund established by this chapter would, as a result of such loan, exceed $750,000 in the first year of such intermediary’s participation in the program, and $5,000,000 in the remaining years of the intermediary’s participation in the program.
+                Notwithstanding subsection (a)(3), no loan shall be made under this subsection if the total amount outstanding and committed to one intermediary (excluding outstanding grants) from the business loan and investment fund established by this chapter would, as a result of such loan, exceed $750,000 in the first year of such intermediary’s participation in the program, and $5,000,000 in the remaining years of the intermediary’s participation in the program.
 
             (D)
 
@@ -2065,15 +2099,15 @@
 
             The term “qualified borrower” means—
 
-                (i) an individual who is an eligible reservist and who received a direct loan under subsection (a) or (b) of this section before being ordered to active duty; or
+                (i) an individual who is an eligible reservist and who received a direct loan under subsection (a) or (b) before being ordered to active duty; or
 
-                (ii) a small business concern that received a direct loan under subsection (a) or (b) of this section before an eligible reservist, who is an essential employee, was ordered to active duty.
+                (ii) a small business concern that received a direct loan under subsection (a) or (b) before an eligible reservist, who is an essential employee, was ordered to active duty.
 
         (2) __Deferral of direct loans__ 
 
             (A) __In general__ 
 
-                The Administration shall, upon written request, defer repayment of principal and interest due on a direct loan made under subsection (a) or (b) of this section, if such loan was incurred by a qualified borrower.
+                The Administration shall, upon written request, defer repayment of principal and interest due on a direct loan made under subsection (a) or (b), if such loan was incurred by a qualified borrower.
 
             (B) __Period of deferral__ 
 
@@ -2087,17 +2121,17 @@
 
         The Administration shall—
 
-            (A) encourage intermediaries participating in the program under subsection (m) of this section to defer repayment of a loan made with proceeds made available under that subsection, if such loan was incurred by a small business concern that is eligible to apply for assistance under subsection (b)(3) of this section; and
+            (A) encourage intermediaries participating in the program under subsection (m) to defer repayment of a loan made with proceeds made available under that subsection, if such loan was incurred by a small business concern that is eligible to apply for assistance under subsection (b)(3); and
 
             (B)
 
              not later than 30 days after August 17, 1999, establish guidelines to—
 
-                (i) encourage lenders and other intermediaries to defer repayment of, or provide other relief relating to, loan guarantees under subsection (a) of this section and financings under [section 697a of this title][/us/usc/t15/s697a] that were incurred by small business concerns that are eligible to apply for assistance under subsection (b)(3) of this section, and loan guarantees provided under subsection (m) of this section if the intermediary provides relief to a small business concern under this paragraph; and
+                (i) encourage lenders and other intermediaries to defer repayment of, or provide other relief relating to, loan guarantees under subsection (a) and financings under [section 697a of this title][/us/usc/t15/s697a] that were incurred by small business concerns that are eligible to apply for assistance under subsection (b)(3), and loan guarantees provided under subsection (m) if the intermediary provides relief to a small business concern under this paragraph; and
 
                 (ii) implement a program to provide for the deferral of repayment or other relief to any intermediary providing relief to a small business borrower under this paragraph.
 
-([Pub. L. 85–536, § 2][/us/pl/85/536/s2]\[7\], July 18, 1958, [72 Stat. 387][/us/stat/72/387]; [Pub. L. 85–699, title VI, § 602(c)][/us/pl/85/699/s602/c], Aug. 21, 1958, [72 Stat. 698][/us/stat/72/698]; [Pub. L. 86–367, § 2][/us/pl/86/367/s2], Sept. 22, 1959, [73 Stat. 647][/us/stat/73/647]; [Pub. L. 87–70, title III, § 305][/us/pl/87/70/s305]\[a\], June 30, 1961, [75 Stat. 167][/us/stat/75/167]; [Pub. L. 87–305, § 9][/us/pl/87/305/s9], Sept. 26, 1961, [75 Stat. 668][/us/stat/75/668]; [Pub. L. 88–264, § 1][/us/pl/88/264/s1], Feb. 5, 1964, [78 Stat. 7][/us/stat/78/7]; [Pub. L. 88–560, title III, § 319][/us/pl/88/560/s319], Sept. 2, 1964, [78 Stat. 794][/us/stat/78/794]; [Pub. L. 89–59, § 1(a)][/us/pl/89/59/s1/a], (b), June 30, 1965, [79 Stat. 206][/us/stat/79/206]; [Pub. L. 89–409, § 3(a)][/us/pl/89/409/s3/a], May 2, 1966, [80 Stat. 133][/us/stat/80/133]; [Pub. L. 89–769, § 7(b)][/us/pl/89/769/s7/b], Nov. 6, 1966, [80 Stat. 1319][/us/stat/80/1319]; [Pub. L. 90–104, title I][/us/pl/90/104], §§ 103, 104, Oct. 11, 1967, [81 Stat. 268][/us/stat/81/268]; [Pub. L. 90–448, title XI, § 1106(a)][/us/pl/90/448/s1106/a], Aug. 1, 1968, [82 Stat. 567][/us/stat/82/567]; [Pub. L. 90–495, § 31][/us/pl/90/495/s31], Aug. 23, 1968, [82 Stat. 835][/us/stat/82/835]; [Pub. L. 91–173, title V, § 504(a)][/us/pl/91/173/s504/a], (b), Dec. 30, 1969, [83 Stat. 802][/us/stat/83/802]; [Pub. L. 91–596, § 28(a)][/us/pl/91/596/s28/a], (b), Dec. 29, 1970, [84 Stat. 1618][/us/stat/84/1618]; [Pub. L. 91–597, § 25(a)][/us/pl/91/597/s25/a], (b), Dec. 29, 1970, [84 Stat. 1633][/us/stat/84/1633], 1634; [Pub. L. 92–385][/us/pl/92/385], §§ 1(a), 2(a), Aug. 16, 1972, [86 Stat. 554][/us/stat/86/554], 555; [Pub. L. 92–500, § 8(a)][/us/pl/92/500/s8/a], Oct. 18, 1972, [86 Stat. 898][/us/stat/86/898]; [Pub. L. 92–595, § 3(b)][/us/pl/92/595/s3/b], Oct. 27, 1972, [86 Stat. 1316][/us/stat/86/1316]; [Pub. L. 93–237][/us/pl/93/237], §§ 2(a), (b), 3(a), 5, 6, Jan. 2, 1974, [87 Stat. 1023][/us/stat/87/1023], 1024; [Pub. L. 93–386][/us/pl/93/386], §§ 2(a)(4), 3(2), 8, 9, 12, Aug. 23, 1974, [88 Stat. 742][/us/stat/88/742], 746, 748, 749; [Pub. L. 94–305, title I][/us/pl/94/305], §§ 108(b), 109, 111, 112(c), (d), 114, June 4, 1976, [90 Stat. 666][/us/stat/90/666], 667; [Pub. L. 95–89, title I, § 101(d)][/us/pl/95/89/s101/d], (e), title III, §§ 301, 302, title IV, §§ 402–405, Aug. 4, 1977, [91 Stat. 553][/us/stat/91/553], 558–560; [Pub. L. 95–315][/us/pl/95/315], §§ 2, 3, July 4, 1978, [92 Stat. 377][/us/stat/92/377], 378; [Pub. L. 95–507, title II][/us/pl/95/507], §§ 204, 205, 231, Oct. 24, 1978, [92 Stat. 1764][/us/stat/92/1764], 1766, 1772; [Pub. L. 95–510, § 104][/us/pl/95/510/s104], Oct. 24, 1978, [92 Stat. 1782][/us/stat/92/1782]; [Pub. L. 96–38, title I, § 101(a)][/us/pl/96/38/s101/a], (b), July 25, 1979, [93 Stat. 118][/us/stat/93/118]; [Pub. L. 96–302, title I][/us/pl/96/302], §§ 119(a), (b), 122–124, title II, § 203, title V, § 505, July 2, 1980, [94 Stat. 840][/us/stat/94/840], 841, 843, 848, 852; [Pub. L. 96–481, title I][/us/pl/96/481], §§ 104, 106(a), 107, 112, Oct. 21, 1980, [94 Stat. 2322][/us/stat/94/2322], 2323; [Pub. L. 97–35, title XIX][/us/pl/97/35], §§ 1902, 1910–1912, 1913(a), (c), 1914, Aug. 13, 1981, [95 Stat. 767][/us/stat/95/767], 778–780; [Pub. L. 98–270, title III][/us/pl/98/270], §§ 301, 304, 308, 309, 311, Apr. 18, 1984, [98 Stat. 159–161][/us/stat/98/159-161]; [Pub. L. 98–395, § 5][/us/pl/98/395/s5], Aug. 21, 1984, [98 Stat. 1368][/us/stat/98/1368]; [Pub. L. 99–272, title XVIII][/us/pl/99/272], §§ 18006(a)(1), (2), 18007, 18013, Apr. 7, 1986, [100 Stat. 366][/us/stat/100/366], 370; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 100–418, title VIII][/us/pl/100/418], §§ 8005, 8007(a), Aug. 23, 1988, [102 Stat. 1557][/us/stat/102/1557], 1559; [Pub. L. 100–533, title III, § 302(a)][/us/pl/100/533/s302/a], Oct. 25, 1988, [102 Stat. 2693][/us/stat/102/2693]; [Pub. L. 100–590, title I][/us/pl/100/590], §§ 102(a), 103, 111(c), 119(a), 120–122, Nov. 3, 1988, [102 Stat. 2992][/us/stat/102/2992], 2995, 2999, 3000; [Pub. L. 100–656, title II][/us/pl/100/656], §§ 201(a), 202, 203, 205, 206, 208, title III, §§ 301–303(a), title IV, § 408, title V, § 505(h), Nov. 15, 1988, [102 Stat. 3856][/us/stat/102/3856], 3858, 3859, 3861, 3862, 3865–3868, 3877, 3887; [Pub. L. 100–707, title I, § 109(f)][/us/pl/100/707/s109/f], Nov. 23, 1988, [102 Stat. 4708][/us/stat/102/4708]; [Pub. L. 101–37][/us/pl/101/37], §§ 4–6(a), 7(a), 8–10(b), June 15, 1989, [103 Stat. 70–73][/us/stat/103/70-73]; [Pub. L. 101–162, title V][/us/pl/101/162], (1), (2), Nov. 21, 1989, [103 Stat. 1024][/us/stat/103/1024], 1025; [Pub. L. 101–574, title II][/us/pl/101/574], §§ 202, 204(a), 206, 242, 245, title III, § 307, Nov. 15, 1990, [104 Stat. 2818–2820][/us/stat/104/2818-2820], 2827, 2830; [Pub. L. 102–140, title VI, § 609(b)][/us/pl/102/140/s609/b], (h), Oct. 28, 1991, [105 Stat. 825][/us/stat/105/825], 827; [Pub. L. 102–191, § 4][/us/pl/102/191/s4], Dec. 5, 1991, [105 Stat. 1591][/us/stat/105/1591]; [Pub. L. 102–366, title I][/us/pl/102/366], §§ 104, 113(a), title II, § 211, Sept. 4, 1992, [106 Stat. 988][/us/stat/106/988], 989, 997; [Pub. L. 102–564, title III, § 307(b)][/us/pl/102/564/s307/b], (c), Oct. 28, 1992, [106 Stat. 4263][/us/stat/106/4263], 4264; [Pub. L. 103–81][/us/pl/103/81], §§ 4, 5(a), 8, Aug. 13, 1993, [107 Stat. 781][/us/stat/107/781], 782; [Pub. L. 103–403, title II][/us/pl/103/403], §§ 201, 202, 204–208(b), 209–211, title VI, §§ 603–605(a), Oct. 22, 1994, [108 Stat. 4180–4183][/us/stat/108/4180-4183], 4202, 4203; [Pub. L. 104–36][/us/pl/104/36], §§ 2–4(a), 5, Oct. 12, 1995, [109 Stat. 295–297][/us/stat/109/295-297]; [Pub. L. 104–208, div. D, title I][/us/pl/104/208], §§ 103(a)–(d), (f), 105, 107, 111, Sept. 30, 1996, [110 Stat. 3009–726][/us/stat/110/3009-726], 3009–727, 3009–731 to 3009–733; [Pub. L. 105–135, title II][/us/pl/105/135], §§ 201, 202(a), 231, title VII, § 706, Dec. 2, 1997, [111 Stat. 2597][/us/stat/111/2597], 2598, 2606, 2637; [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 405(d)(10), (f)(9)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–420, 2681–430; [Pub. L. 106–8, § 3(a)][/us/pl/106/8/s3/a], (c), Apr. 2, 1999, [113 Stat. 13][/us/stat/113/13], 16; [Pub. L. 106–22][/us/pl/106/22], §§ 2, 3, Apr. 27, 1999, [113 Stat. 36][/us/stat/113/36], 37; [Pub. L. 106–24, § 1(a)][/us/pl/106/24/s1/a], Apr. 27, 1999, [113 Stat. 39][/us/stat/113/39]; [Pub. L. 106–50, title IV][/us/pl/106/50], §§ 401(b), 402(a), (b), 403, 404, Aug. 17, 1999, [113 Stat. 244–246][/us/stat/113/244-246]; [Pub. L. 106–554, § 1(a)(9)][/us/pl/106/554/s1/a/9] \[title II, §§ 202–208(a), 210, title VIII, § 802(a)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–681 to 2763A–684, 2763A–702; [Pub. L. 107–100, § 6(a)][/us/pl/107/100/s6/a], Dec. 21, 2001, [115 Stat. 970][/us/stat/115/970]; [Pub. L. 108–447, div. K, title I][/us/pl/108/447], §§ 101(a), 102, 103(a), 107(a), (b), Dec. 8, 2004, [118 Stat. 3442–3446][/us/stat/118/3442-3446]; [Pub. L. 109–163, div. A, title VIII, § 845(a)(2)][/us/pl/109/163/s845/a/2], (c), Jan. 6, 2006, [119 Stat. 3390][/us/stat/119/3390], 3391; [Pub. L. 110–140, title XII][/us/pl/110/140], §§ 1201, 1202, Dec. 19, 2007, [121 Stat. 1764][/us/stat/121/1764], 1765; [Pub. L. 110–186, title II][/us/pl/110/186], §§ 201(a), 203, 204, 208, Feb. 14, 2008, [122 Stat. 627][/us/stat/122/627], 629, 631; [Pub. L. 110–234, title XII][/us/pl/110/234], §§ 12061, 12063(a), (c)(2), 12065, 12066(a), 12068(a), (b)(2), 12070, 12074(a), 12077–12078(b)(1), (c), 12081–12083(a), May 22, 2008, [122 Stat. 1406][/us/stat/122/1406], 1407, 1409–1411, 1414–1418; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XII, §§ 12061, 12063(a), (c)(2), 12065, 12066(a), 12068(a), (b)(2), 12070, 12074(a), 12077–12078(b)(1), (c), 12081–12083(a), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2168, 2169, 2171–2173, 2176–2180; [Pub. L. 111–240, title I][/us/pl/111/240], §§ 1111, 1113, 1131(a), 1133, 1135, 1206(a)–(g), 1401(a), (c)(1), Sept. 27, 2010, [124 Stat. 2507][/us/stat/124/2507], 2508, 2512, 2514, 2520, 2530–2532, 2547, 2549; [Pub. L. 112–74, div. C, title V, § 531][/us/pl/112/74/s531], Dec. 23, 2011, [125 Stat. 922][/us/stat/125/922]; [Pub. L. 112–239, div. A, title XVI, § 1622(c)][/us/pl/112/239/s1622/c], Jan. 2, 2013, [126 Stat. 2069][/us/stat/126/2069]; [Pub. L. 113–128, title V, § 512(cc)][/us/pl/113/128/s512/cc], July 22, 2014, [128 Stat. 1717][/us/stat/128/1717].)
+([Pub. L. 85–536, § 2][/us/pl/85/536/s2]\[7\], July 18, 1958, [72 Stat. 387][/us/stat/72/387]; [Pub. L. 85–699, title VI, § 602(c)][/us/pl/85/699/s602/c], Aug. 21, 1958, [72 Stat. 698][/us/stat/72/698]; [Pub. L. 86–367, § 2][/us/pl/86/367/s2], Sept. 22, 1959, [73 Stat. 647][/us/stat/73/647]; [Pub. L. 87–70, title III, § 305][/us/pl/87/70/s305]\[a\], June 30, 1961, [75 Stat. 167][/us/stat/75/167]; [Pub. L. 87–305, § 9][/us/pl/87/305/s9], Sept. 26, 1961, [75 Stat. 668][/us/stat/75/668]; [Pub. L. 88–264, § 1][/us/pl/88/264/s1], Feb. 5, 1964, [78 Stat. 7][/us/stat/78/7]; [Pub. L. 88–560, title III, § 319][/us/pl/88/560/s319], Sept. 2, 1964, [78 Stat. 794][/us/stat/78/794]; [Pub. L. 89–59, § 1(a)][/us/pl/89/59/s1/a], (b), June 30, 1965, [79 Stat. 206][/us/stat/79/206]; [Pub. L. 89–409, § 3(a)][/us/pl/89/409/s3/a], May 2, 1966, [80 Stat. 133][/us/stat/80/133]; [Pub. L. 89–769, § 7(b)][/us/pl/89/769/s7/b], Nov. 6, 1966, [80 Stat. 1319][/us/stat/80/1319]; [Pub. L. 90–104, title I][/us/pl/90/104], §§ 103, 104, Oct. 11, 1967, [81 Stat. 268][/us/stat/81/268]; [Pub. L. 90–448, title XI, § 1106(a)][/us/pl/90/448/s1106/a], Aug. 1, 1968, [82 Stat. 567][/us/stat/82/567]; [Pub. L. 90–495, § 31][/us/pl/90/495/s31], Aug. 23, 1968, [82 Stat. 835][/us/stat/82/835]; [Pub. L. 91–173, title V, § 504(a)][/us/pl/91/173/s504/a], (b), Dec. 30, 1969, [83 Stat. 802][/us/stat/83/802]; [Pub. L. 91–596, § 28(a)][/us/pl/91/596/s28/a], (b), Dec. 29, 1970, [84 Stat. 1618][/us/stat/84/1618]; [Pub. L. 91–597, § 25(a)][/us/pl/91/597/s25/a], (b), Dec. 29, 1970, [84 Stat. 1633][/us/stat/84/1633], 1634; [Pub. L. 92–385][/us/pl/92/385], §§ 1(a), 2(a), Aug. 16, 1972, [86 Stat. 554][/us/stat/86/554], 555; [Pub. L. 92–500, § 8(a)][/us/pl/92/500/s8/a], Oct. 18, 1972, [86 Stat. 898][/us/stat/86/898]; [Pub. L. 92–595, § 3(b)][/us/pl/92/595/s3/b], Oct. 27, 1972, [86 Stat. 1316][/us/stat/86/1316]; [Pub. L. 93–237][/us/pl/93/237], §§ 2(a), (b), 3(a), 5, 6, Jan. 2, 1974, [87 Stat. 1023][/us/stat/87/1023], 1024; [Pub. L. 93–386][/us/pl/93/386], §§ 2(a)(4), 3(2), 8, 9, 12, Aug. 23, 1974, [88 Stat. 742][/us/stat/88/742], 746, 748, 749; [Pub. L. 94–305, title I][/us/pl/94/305], §§ 108(b), 109, 111, 112(c), (d), 114, June 4, 1976, [90 Stat. 666][/us/stat/90/666], 667; [Pub. L. 95–89, title I, § 101(d)][/us/pl/95/89/s101/d], (e), title III, §§ 301, 302, title IV, §§ 402–405, Aug. 4, 1977, [91 Stat. 553][/us/stat/91/553], 558–560; [Pub. L. 95–315][/us/pl/95/315], §§ 2, 3, July 4, 1978, [92 Stat. 377][/us/stat/92/377], 378; [Pub. L. 95–507, title II][/us/pl/95/507], §§ 204, 205, 231, Oct. 24, 1978, [92 Stat. 1764][/us/stat/92/1764], 1766, 1772; [Pub. L. 95–510, § 104][/us/pl/95/510/s104], Oct. 24, 1978, [92 Stat. 1782][/us/stat/92/1782]; [Pub. L. 96–38, title I, § 101(a)][/us/pl/96/38/s101/a], (b), July 25, 1979, [93 Stat. 118][/us/stat/93/118]; [Pub. L. 96–302, title I][/us/pl/96/302], §§ 119(a), (b), 122–124, title II, § 203, title V, § 505, July 2, 1980, [94 Stat. 840][/us/stat/94/840], 841, 843, 848, 852; [Pub. L. 96–481, title I][/us/pl/96/481], §§ 104, 106(a), 107, 112, Oct. 21, 1980, [94 Stat. 2322][/us/stat/94/2322], 2323; [Pub. L. 97–35, title XIX][/us/pl/97/35], §§ 1902, 1910–1912, 1913(a), (c), 1914, Aug. 13, 1981, [95 Stat. 767][/us/stat/95/767], 778–780; [Pub. L. 98–270, title III][/us/pl/98/270], §§ 301, 304, 308, 309, 311, Apr. 18, 1984, [98 Stat. 159–161][/us/stat/98/159-161]; [Pub. L. 98–395, § 5][/us/pl/98/395/s5], Aug. 21, 1984, [98 Stat. 1368][/us/stat/98/1368]; [Pub. L. 99–272, title XVIII][/us/pl/99/272], §§ 18006(a)(1), (2), 18007, 18013, Apr. 7, 1986, [100 Stat. 366][/us/stat/100/366], 370; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 100–418, title VIII][/us/pl/100/418], §§ 8005, 8007(a), Aug. 23, 1988, [102 Stat. 1557][/us/stat/102/1557], 1559; [Pub. L. 100–533, title III, § 302(a)][/us/pl/100/533/s302/a], Oct. 25, 1988, [102 Stat. 2693][/us/stat/102/2693]; [Pub. L. 100–590, title I][/us/pl/100/590], §§ 102(a), 103, 111(c), 119(a), 120–122, Nov. 3, 1988, [102 Stat. 2992][/us/stat/102/2992], 2995, 2999, 3000; [Pub. L. 100–656, title II][/us/pl/100/656], §§ 201(a), 202, 203, 205, 206, 208, title III, §§ 301–303(a), title IV, § 408, title V, § 505(h), Nov. 15, 1988, [102 Stat. 3856][/us/stat/102/3856], 3858, 3859, 3861, 3862, 3865–3868, 3877, 3887; [Pub. L. 100–707, title I, § 109(f)][/us/pl/100/707/s109/f], Nov. 23, 1988, [102 Stat. 4708][/us/stat/102/4708]; [Pub. L. 101–37][/us/pl/101/37], §§ 4–6(a), 7(a), 8–10(b), June 15, 1989, [103 Stat. 70–73][/us/stat/103/70-73]; [Pub. L. 101–162, title V][/us/pl/101/162], (1), (2), Nov. 21, 1989, [103 Stat. 1024][/us/stat/103/1024], 1025; [Pub. L. 101–574, title II][/us/pl/101/574], §§ 202, 204(a), 206, 242, 245, title III, § 307, Nov. 15, 1990, [104 Stat. 2818–2820][/us/stat/104/2818-2820], 2827, 2830; [Pub. L. 102–140, title VI, § 609(b)][/us/pl/102/140/s609/b], (h), Oct. 28, 1991, [105 Stat. 825][/us/stat/105/825], 827; [Pub. L. 102–191, § 4][/us/pl/102/191/s4], Dec. 5, 1991, [105 Stat. 1591][/us/stat/105/1591]; [Pub. L. 102–366, title I][/us/pl/102/366], §§ 104, 113(a), title II, § 211, Sept. 4, 1992, [106 Stat. 988][/us/stat/106/988], 989, 997; [Pub. L. 102–564, title III, § 307(b)][/us/pl/102/564/s307/b], (c), Oct. 28, 1992, [106 Stat. 4263][/us/stat/106/4263], 4264; [Pub. L. 103–81][/us/pl/103/81], §§ 4, 5(a), 8, Aug. 13, 1993, [107 Stat. 781][/us/stat/107/781], 782; [Pub. L. 103–403, title II][/us/pl/103/403], §§ 201, 202, 204–208(b), 209–211, title VI, §§ 603–605(a), Oct. 22, 1994, [108 Stat. 4180–4183][/us/stat/108/4180-4183], 4202, 4203; [Pub. L. 104–36][/us/pl/104/36], §§ 2–4(a), 5, Oct. 12, 1995, [109 Stat. 295–297][/us/stat/109/295-297]; [Pub. L. 104–208, div. D, title I][/us/pl/104/208], §§ 103(a)–(d), (f), 105, 107, 111, Sept. 30, 1996, [110 Stat. 3009–726][/us/stat/110/3009-726], 3009–727, 3009–731 to 3009–733; [Pub. L. 105–135, title II][/us/pl/105/135], §§ 201, 202(a), 231, title VII, § 706, Dec. 2, 1997, [111 Stat. 2597][/us/stat/111/2597], 2598, 2606, 2637; [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 405(d)(10), (f)(9)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–420, 2681–430; [Pub. L. 106–8, § 3(a)][/us/pl/106/8/s3/a], (c), Apr. 2, 1999, [113 Stat. 13][/us/stat/113/13], 16; [Pub. L. 106–22][/us/pl/106/22], §§ 2, 3, Apr. 27, 1999, [113 Stat. 36][/us/stat/113/36], 37; [Pub. L. 106–24, § 1(a)][/us/pl/106/24/s1/a], Apr. 27, 1999, [113 Stat. 39][/us/stat/113/39]; [Pub. L. 106–50, title IV][/us/pl/106/50], §§ 401(b), 402(a), (b), 403, 404, Aug. 17, 1999, [113 Stat. 244–246][/us/stat/113/244-246]; [Pub. L. 106–554, § 1(a)(9)][/us/pl/106/554/s1/a/9] \[title II, §§ 202–208(a), 210, title VIII, § 802(a)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–681 to 2763A–684, 2763A–702; [Pub. L. 107–100, § 6(a)][/us/pl/107/100/s6/a], Dec. 21, 2001, [115 Stat. 970][/us/stat/115/970]; [Pub. L. 108–447, div. K, title I][/us/pl/108/447], §§ 101(a), 102, 103(a), 107(a), (b), Dec. 8, 2004, [118 Stat. 3442–3446][/us/stat/118/3442-3446]; [Pub. L. 109–163, div. A, title VIII, § 845(a)(2)][/us/pl/109/163/s845/a/2], (c), Jan. 6, 2006, [119 Stat. 3390][/us/stat/119/3390], 3391; [Pub. L. 110–140, title XII][/us/pl/110/140], §§ 1201, 1202, Dec. 19, 2007, [121 Stat. 1764][/us/stat/121/1764], 1765; [Pub. L. 110–186, title II][/us/pl/110/186], §§ 201(a), 203, 204, 208, Feb. 14, 2008, [122 Stat. 627][/us/stat/122/627], 629, 631; [Pub. L. 110–234, title XII][/us/pl/110/234], §§ 12061, 12063(a), (c)(2), 12065, 12066(a), 12068(a), (b)(2), 12070, 12074(a), 12077–12078(b)(1), (c), 12081–12083(a), May 22, 2008, [122 Stat. 1406][/us/stat/122/1406], 1407, 1409–1411, 1414–1418; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XII, §§ 12061, 12063(a), (c)(2), 12065, 12066(a), 12068(a), (b)(2), 12070, 12074(a), 12077–12078(b)(1), (c), 12081–12083(a), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2168, 2169, 2171–2173, 2176–2180; [Pub. L. 111–240, title I][/us/pl/111/240], §§ 1111, 1113, 1131(a), 1133, 1135, 1206(a)–(g), 1401(a), (c)(1), Sept. 27, 2010, [124 Stat. 2507][/us/stat/124/2507], 2508, 2512, 2514, 2520, 2530–2532, 2547, 2549; [Pub. L. 112–74, div. C, title V, § 531][/us/pl/112/74/s531], Dec. 23, 2011, [125 Stat. 922][/us/stat/125/922]; [Pub. L. 112–239, div. A, title XVI, § 1622(c)][/us/pl/112/239/s1622/c], Jan. 2, 2013, [126 Stat. 2069][/us/stat/126/2069]; [Pub. L. 113–128, title V, § 512(cc)][/us/pl/113/128/s512/cc], July 22, 2014, [128 Stat. 1717][/us/stat/128/1717]; [Pub. L. 114–38][/us/pl/114/38], §§ 2, 4(b), July 28, 2015, [129 Stat. 437][/us/stat/129/437], 438.)
 
  __References in Text__ 
 
@@ -2162,6 +2196,12 @@
     Prior similar provisions were contained in section 207 of [act July 30, 1953, ch. 282][/us/act/1953-07-30/ch282], title II, [67 Stat. 235][/us/stat/67/235], as amended by acts [Aug. 9, 1955, ch. 628][/us/act/1955-08-09/ch628], §§ 2, 5, [69 Stat. 547][/us/stat/69/547]; [Feb. 2, 1956, ch. 29][/us/act/1956-02-02/ch29], §§ 2, 3, [70 Stat. 10][/us/stat/70/10]; [Pub. L. 85–335][/us/pl/85/335], Feb. 22, 1958, [72 Stat. 27][/us/stat/72/27], which was previously classified to this section. See Codification note set out under [section 631 of this title][/us/usc/t15/s631].
 
  __Amendments__ 
+
+    2015—Subsec. (a)(1)(A). [Pub. L. 114–38, § 4(b)(1)][/us/pl/114/38/s4/b/1], designated existing provisions as cl. (i), inserted cl. (i) heading, and added cl. (ii)
+
+    Subsec. (a)(1)(C). [Pub. L. 114–38, § 4(b)(2)][/us/pl/114/38/s4/b/2], added subpar. (C).
+
+    Subsec. (a)(31)(G). [Pub. L. 114–38, § 2][/us/pl/114/38/s2], added subpar. (G).
 
     2014—Subsec. (j)(13)(E). [Pub. L. 113–128][/us/pl/113/128] substituted “an institution eligible to provide skills training or upgrading under title I of the Workforce Innovation and Opportunity Act” for “an institution eligible to provide skills training or upgrading under title I of the Workforce Investment Act of 1998”.
 
@@ -2671,7 +2711,7 @@
 
     Subsec. (c)(5)(C). [Pub. L. 100–590, § 120(b)][/us/pl/100/590/s120/b], substituted “business or other concern, including agricultural cooperatives,” for “business concern”.
 
-    Subsec. (c)(6). [Pub. L. 100–590, § 122][/us/pl/100/590/s122], substituted “refinancing: Provided further, That the Administration shall not require collateral for loans of $10,000 or less which are made under paragraph (1) of subsection (b) of this section”. for “refinancing”.
+    Subsec. (c)(6). [Pub. L. 100–590, § 122][/us/pl/100/590/s122], substituted “refinancing: Provided further, That the Administration shall not require collateral for loans of $10,000 or less which are made under paragraph (1) of subsection (b)”. for “refinancing”.
 
     Subsec. (c)(7). [Pub. L. 100–590, § 120(a)][/us/pl/100/590/s120/a], added par. (7).
 
@@ -3747,6 +3787,11 @@
 [/us/usc/t2/s661a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs661a
 [/us/pl/106/8/s3/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F8%2Fs3%2Fc
 [/us/stat/113/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F16
+[/us/usc/t31/s1105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105%2Fa
+[/us/usc/t15/s632/q/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs632%2Fq%2F4
+[/us/usc/t10/s1144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1144
+[/us/usc/t10/s10101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs10101
+[/us/usc/t38/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs101
 [/us/usc/t2/s661a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs661a
 [/us/usc/t2/s661a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs661a
 [/us/usc/t15/s647/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs647%2Fb%2F1
@@ -3979,6 +4024,8 @@
 [/us/stat/126/2069]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2069
 [/us/pl/113/128/s512/cc]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fcc
 [/us/stat/128/1717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1717
+[/us/pl/114/38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F38
+[/us/stat/129/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F437
 [/us/usc/t15/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs631
 [/us/pl/100/418/s8002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs8002
 [/us/stat/102/1553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1553
@@ -4069,6 +4116,9 @@
 [/us/pl/85/335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F335
 [/us/stat/72/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F27
 [/us/usc/t15/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs631
+[/us/pl/114/38/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F38%2Fs4%2Fb%2F1
+[/us/pl/114/38/s4/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F38%2Fs4%2Fb%2F2
+[/us/pl/114/38/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F38%2Fs2
 [/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/pl/112/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74

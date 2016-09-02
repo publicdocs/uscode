@@ -149,7 +149,7 @@
 
     (j) __Contract bundling__ 
 
-    In complying with the statement of congressional policy expressed in subsection (a) of this section, relating to fostering the participation of small business concerns in the contracting opportunities of the Government, each Federal agency, to the maximum extent practicable, shall—
+    In complying with the statement of congressional policy expressed in subsection (a), relating to fostering the participation of small business concerns in the contracting opportunities of the Government, each Federal agency, to the maximum extent practicable, shall—
 
         (1) comply with congressional intent to foster the participation of small business concerns as prime contractors, subcontractors, and suppliers;
 
@@ -304,6 +304,12 @@
 [Pub. L. 96–302, title V, § 507][/us/pl/96/302/s507], July 2, 1980, [94 Stat. 854][/us/stat/94/854], provided that: 
 
 > “This Act \[enacting sections 631a, 631b, 648, and 697 of this title, amending this section, sections 632, 633, 634, 634d, 636, 637, 644, 647, 694–2, 694b, and 694c of this title, [section 5315 of Title 5][/us/usc/t5/s5315], Government Organization and Employees, and sections 1961 and 1964 of Title 7, Agriculture, enacting provisions set out as notes under this section and sections 636, 637, and 648 of this title, and amending provisions set out as a note under this section\] shall take effect October 1, 1980.”
+
+ __Short Title of 2015 Amendment__ 
+
+[Pub. L. 114–38, § 1][/us/pl/114/38/s1], July 28, 2015, [129 Stat. 437][/us/stat/129/437], provided that: 
+
+> “This Act \[amending [section 636 of this title][/us/usc/t15/s636]\] may be cited as the ‘Veterans Entrepreneurship Act of 2015’.”
 
  __Short Title of 2011 Amendment__ 
 
@@ -1411,6 +1417,9 @@ In order to coordinate executive departments’ and agencies’ efforts towards 
 [/us/pl/96/302/s507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F302%2Fs507
 [/us/stat/94/854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F854
 [/us/usc/t5/s5315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5315
+[/us/pl/114/38/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F38%2Fs1
+[/us/stat/129/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F437
+[/us/usc/t15/s636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs636
 [/us/pl/112/81/s5001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs5001
 [/us/stat/125/1822]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1822
 [/us/usc/t15/s638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs638

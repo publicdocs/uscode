@@ -21,7 +21,7 @@
 
     (b) __Collections__ 
 
-    The provisions of subsection (a) of this section shall not be construed—
+    The provisions of subsection (a) shall not be construed—
 
         (1) to invalidate the collection, on or before September 14, 1959, of any net income tax imposed for a taxable year ending on or before such date, or
 

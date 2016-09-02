@@ -17,7 +17,7 @@
 
     (a) __Creation and support of Centers; affiliations; merit review in determining awards; objectives__ 
 
-    The Secretary, through the Director and, if appropriate, through other officials, shall provide assistance for the creation and support of regional centers for the transfer of manufacturing technology (hereafter in this chapter referred to as the “Centers”). Such centers  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be capitalized. </sup></sup>  shall be affiliated with any United States-based nonprofit institution or organization, or group thereof, that applies for and is awarded financial assistance under this section in accordance with the description published by the Secretary in the Federal Register under subsection (c)(2) of this section. Individual awards shall be decided on the basis of merit review. The objective of the Centers is to enhance productivity and technological performance in United States manufacturing through—
+    The Secretary, through the Director and, if appropriate, through other officials, shall provide assistance for the creation and support of regional centers for the transfer of manufacturing technology (hereafter in this chapter referred to as the “Centers”). Such centers  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be capitalized. </sup></sup>  shall be affiliated with any United States-based nonprofit institution or organization, or group thereof, that applies for and is awarded financial assistance under this section in accordance with the description published by the Secretary in the Federal Register under subsection (c)(2). Individual awards shall be decided on the basis of merit review. The objective of the Centers is to enhance productivity and technological performance in United States manufacturing through—
 
         (1) the transfer of manufacturing technology and techniques developed at the Institute to Centers and, through them, to manufacturing companies throughout the United States;
 
@@ -43,7 +43,7 @@
 
     (c) __Duration and amount of support; program descriptions; applications; merit review; evaluations of assistance; applicability of patent law; report; modification of requirements__ 
 
-        (1) The Secretary may provide financial support to any Center created under subsection (a) of this section for a period not to exceed six years. The Secretary may not provide to a Center more than 50 percent of the capital and annual operating and maintenance funds required to create and maintain such Center.
+        (1) The Secretary may provide financial support to any Center created under subsection (a) for a period not to exceed six years. The Secretary may not provide to a Center more than 50 percent of the capital and annual operating and maintenance funds required to create and maintain such Center.
 
         (2)
 

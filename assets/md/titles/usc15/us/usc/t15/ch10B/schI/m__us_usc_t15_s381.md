@@ -25,7 +25,7 @@
 
     (b) __Domestic corporations; persons domiciled in or residents of a State__ 
 
-    The provisions of subsection (a) of this section shall not apply to the imposition of a net income tax by any State, or political subdivision thereof, with respect to—
+    The provisions of subsection (a) shall not apply to the imposition of a net income tax by any State, or political subdivision thereof, with respect to—
 
         (1) any corporation which is incorporated under the laws of such State; or
 
@@ -33,7 +33,7 @@
 
     (c) __Sales or solicitation of orders for sales by independent contractors__ 
 
-        For purposes of subsection (a) of this section, a person shall not be considered to have engaged in business activities within a State during any taxable year merely by reason of sales in such State, or the solicitation of orders for sales in such State, of tangible personal property on behalf of such person by one or more independent contractors, or by reason of the maintenance, of an office in such State by one or more independent contractors whose activities on behalf of such person in such State consist solely of making sales, or soliciting orders for sales, or tangible personal property.
+        For purposes of subsection (a), a person shall not be considered to have engaged in business activities within a State during any taxable year merely by reason of sales in such State, or the solicitation of orders for sales in such State, of tangible personal property on behalf of such person by one or more independent contractors, or by reason of the maintenance, of an office in such State by one or more independent contractors whose activities on behalf of such person in such State consist solely of making sales, or soliciting orders for sales, or tangible personal property.
 
     (d) __Definitions__ 
 

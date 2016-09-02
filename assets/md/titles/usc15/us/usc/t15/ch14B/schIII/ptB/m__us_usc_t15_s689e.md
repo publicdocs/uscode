@@ -39,7 +39,7 @@
 
     (d) __Fees__ 
 
-        The Administrator shall not collect a fee for any guarantee of a trust certificate under this section, but any agent of the Administrator may collect a fee approved by the Administrator for the functions described in subsection (f)(2) of this section.
+        The Administrator shall not collect a fee for any guarantee of a trust certificate under this section, but any agent of the Administrator may collect a fee approved by the Administrator for the functions described in subsection (f)(2).
 
     (e) __Subrogation and ownership rights__ 
 

@@ -27,7 +27,7 @@
 
     (b) __Exempt contracts__ 
 
-    Subsection (a) of this section shall not apply to any contract or subcontract under such contract which—
+    Subsection (a) shall not apply to any contract or subcontract under such contract which—
 
         (1) will be performed entirely outside any State, territory, or possession of the United States, the District of Columbia, or the Commonwealth of Puerto Rico; or
 

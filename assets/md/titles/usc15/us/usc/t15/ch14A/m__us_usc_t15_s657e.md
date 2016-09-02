@@ -67,7 +67,7 @@
 
         (3) have experience working with small business concerns participating in the SBIR and STTR programs;
 
-        (4) contribute information to the national database referred to in subsection (d) of this section; and
+        (4) contribute information to the national database referred to in subsection (d); and
 
         (5) agree to reimburse volunteer mentors for out-of-pocket expenses related to service as a mentor under this section.
 

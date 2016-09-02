@@ -49,7 +49,7 @@
 
         (1) __In general__ 
 
-            The Director is authorized to award grants or cooperative agreements to institutions of higher education to carry out the program established under subsection (a) of this section. No funds made available under this section shall be made available directly to any for-profit partners.
+            The Director is authorized to award grants or cooperative agreements to institutions of higher education to carry out the program established under subsection (a). No funds made available under this section shall be made available directly to any for-profit partners.
 
         (2) __Eligibility__ 
 
@@ -67,7 +67,7 @@
 
         (1) __Management__ 
 
-            The program established under subsection (a) of this section shall be managed by individuals who shall have both expertise in research related to the security of computer systems and knowledge of the vulnerabilities of existing computer systems. The Director shall designate such individuals as program managers.
+            The program established under subsection (a) shall be managed by individuals who shall have both expertise in research related to the security of computer systems and knowledge of the vulnerabilities of existing computer systems. The Director shall designate such individuals as program managers.
 
         (2) __Managers may be employees__ 
 
@@ -93,23 +93,23 @@
 
                 (iv) the nature of the participation by for-profit entities and the extent to which the proposed projects address the concerns of industry; and
 
-                (v) other criteria determined by the Director, based on information specified for inclusion in applications under subsection (c) of this section; and
+                (v) other criteria determined by the Director, based on information specified for inclusion in applications under subsection (c); and
 
             (D) monitoring the progress of research projects supported under the program.
 
         (4) __Reports__ 
 
-            The Director shall report to the Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committee on Science annually on the use and responsibility of individuals on assignment at the Institute under the Intergovernmental Personnel Act of 1970 \[[42 U.S.C. 4701][/us/usc/t42/s4701] et seq.\] who are performing duties under subsection (d) of this section.
+            The Director shall report to the Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committee on Science annually on the use and responsibility of individuals on assignment at the Institute under the Intergovernmental Personnel Act of 1970 \[[42 U.S.C. 4701][/us/usc/t42/s4701] et seq.\] who are performing duties under subsection (d).
 
     (e) __Review of program__ 
 
         (1) __Periodic review__ 
 
-            The Director shall periodically review the portfolio of research awards monitored by each program manager designated in accordance with subsection (d) of this section. In conducting those reviews, the Director shall seek the advice of the Computer System Security 1 and Privacy Advisory Board, established under [section 278g–4 of this title][/us/usc/t15/s278g–4], on the appropriateness of the research goals and on the quality and utility of research projects managed by program managers in accordance with subsection (d) of this section.
+            The Director shall periodically review the portfolio of research awards monitored by each program manager designated in accordance with subsection (d). In conducting those reviews, the Director shall seek the advice of the Computer System Security 1 and Privacy Advisory Board, established under [section 278g–4 of this title][/us/usc/t15/s278g–4], on the appropriateness of the research goals and on the quality and utility of research projects managed by program managers in accordance with subsection (d).
 
         (2) __Comprehensive 5-year review__ 
 
-            The Director shall also contract with the National Research Council for a comprehensive review of the program established under subsection (a) of this section during the 5th year of the program. Such review shall include an assessment of the scientific quality of the research conducted, the relevance of the research results obtained to the goals of the program established under subsection (d)(3)(A) of this section, and the progress of the program in promoting the development of a substantial academic research community working at the leading edge of knowledge in the field. The Director shall submit to Congress a report on the results of the review under this paragraph no later than 6 years after the initiation of the program.
+            The Director shall also contract with the National Research Council for a comprehensive review of the program established under subsection (a) during the 5th year of the program. Such review shall include an assessment of the scientific quality of the research conducted, the relevance of the research results obtained to the goals of the program established under subsection (d)(3)(A), and the progress of the program in promoting the development of a substantial academic research community working at the leading edge of knowledge in the field. The Director shall submit to Congress a report on the results of the review under this paragraph no later than 6 years after the initiation of the program.
 
     (f) __Definitions__ 
 

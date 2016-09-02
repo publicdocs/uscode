@@ -43,7 +43,7 @@
 
     (e) __Small business concerns owned by disadvantaged individuals and by women__  __ <sup>\[__  __1__  __\]</sup> __  __ <sup><sup> __  __1__  __ See 1988 Amendment note below.__  __ </sup></sup> __ 
 
-    The information and data required to be reported pursuant to subsection (a) of this section shall separately detail those portions of such information and data that are relevant to—
+    The information and data required to be reported pursuant to subsection (a) shall separately detail those portions of such information and data that are relevant to—
 
         (1) small business concerns owned and controlled by socially and economically disadvantaged individuals, by gender, as defined pursuant to [section 637(d) of this title][/us/usc/t15/s637/d];
 
