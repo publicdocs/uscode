@@ -99,7 +99,7 @@
 
         (11) “Telephone” means any technology for transmitting live electronic voice communication.
 
-        (12) “Victim” means a “crime victim” as defined in 18 U.S.C. § 3771(e).
+        (12) “Victim” means a “crime victim” as defined in 18 U.S.C. § 3771(e). <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup> 
 
     (c) __Authority of a Justice or Judge of the United States.__ 
 
@@ -175,6 +175,10 @@ The scope of rules 1 and 54 is discussed in C. Wright, Federal Practice and Proc
 
     Changes Made to Proposed Amendment Released for Public Comment. The text was rephrased by the Committee to describe the telephone as a “technology for transmitting electronic voice communication” rather than a “form” of communication.
 
+ __References in Text__ 
+
+    18 U.S.C. § 3771(e), referred to in subd. (b)(12), was redesignated 18 U.S.C. § 3771(e)(2) by [Pub. L. 114–22, title I, § 113(a)(3)(A)][/us/pl/114/22/s113/a/3/A], May 29, 2015, [129 Stat. 240][/us/stat/129/240].
+
 ----------
 
 [Previous](./../../../..//us/usc/t18a/courtRules1/m__us_usc_t18a_courtRules1.md) | [Next](./../../../..//us/usc/t18a/courtRules1/m__us_usc_t18a_courtRules1_rule2.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18a%2FcourtRules1%2Frule1)
@@ -187,5 +191,7 @@ The scope of rules 1 and 54 is discussed in C. Wright, Federal Practice and Proc
 [/us/usc/t18/s576–576d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs576%E2%80%93576d
 [/us/pl/101/650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650
 [/us/usc/t28/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs631
+[/us/pl/114/22/s113/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2Fs113%2Fa%2F3%2FA
+[/us/stat/129/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F240
 
 

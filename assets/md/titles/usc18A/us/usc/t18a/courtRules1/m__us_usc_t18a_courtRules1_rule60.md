@@ -27,7 +27,7 @@
 
         (1) Time for Deciding a Motion. The court must promptly decide any motion asserting a victim’s rights described in these rules.
 
-        (2) Who May Assert the Rights. A victim’s rights described in these rules may be asserted by the victim, the victim’s lawful representative, the attorney for the government, or any other person as authorized by 18 U.S.C. § 3771(d) and (e).
+        (2) Who May Assert the Rights. A victim’s rights described in these rules may be asserted by the victim, the victim’s lawful representative, the attorney for the government, or any other person as authorized by 18 U.S.C. § 3771(d) and (e). <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup> 
 
         (3) Multiple Victims. If the court finds that the number of victims makes it impracticable to accord all of them their rights described in these rules, the court must fashion a reasonable procedure that gives effect to these rights without unduly complicating or prolonging the proceedings.
 
@@ -73,6 +73,10 @@
 
     Other minor changes were made at the suggestion of the Style Consultant to improve clarity.
 
+ __References in Text__ 
+
+    18 U.S.C. § 3771(e), referred to in subd. (b)(2), was redesignated 18 U.S.C. § 3771(e)(2) by [Pub. L. 114–22, title I, § 113(a)(3)(A)][/us/pl/114/22/s113/a/3/A], May 29, 2015, [129 Stat. 240][/us/stat/129/240].
+
 ----------
 
 [Previous](./../../../..//us/usc/t18a/courtRules1/m__us_usc_t18a_courtRules1_rule59.md) | [Next](./../../../..//us/usc/t18a/courtRules1/m__us_usc_t18a_courtRules1_rule61.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18a%2FcourtRules1%2Frule60)
@@ -80,5 +84,7 @@
 ----------
 ----------
 
+[/us/pl/114/22/s113/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2Fs113%2Fa%2F3%2FA
+[/us/stat/129/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F240
 
 
