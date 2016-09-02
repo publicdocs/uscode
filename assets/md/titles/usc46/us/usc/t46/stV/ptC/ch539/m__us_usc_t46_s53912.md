@@ -15,9 +15,9 @@
 
 ## § 53912. Expiration date
 
-    The authority of the Secretary of Transportation to provide insurance and reinsurance under this chapter expires on December 31, 2020.
+    The authority of the Secretary of Transportation to provide insurance and reinsurance under this chapter expires on December 31, 2015.
 
-([Pub. L. 109–304, § 8(c)][/us/pl/109/304/s8/c], Oct. 6, 2006, [120 Stat. 1632][/us/stat/120/1632]; [Pub. L. 110–417, div. C, title XXXV, § 3509][/us/pl/110/417/s3509], Oct. 14, 2008, [122 Stat. 4769][/us/stat/122/4769]; [Pub. L. 113–66, div. C, title XXXV, § 3502][/us/pl/113/66/s3502], Dec. 26, 2013, [127 Stat. 1085][/us/stat/127/1085].)
+([Pub. L. 109–304, § 8(c)][/us/pl/109/304/s8/c], Oct. 6, 2006, [120 Stat. 1632][/us/stat/120/1632]; [Pub. L. 110–417, div. C, title XXXV, § 3509][/us/pl/110/417/s3509], Oct. 14, 2008, [122 Stat. 4769][/us/stat/122/4769].)
 
 <table>
 
@@ -67,8 +67,6 @@ June 29, 1936, ch. 858, title XII, § 1214, as added Sept. 7, 1950, ch. 906, 6
 
  __Amendments__ 
 
-    2013—[Pub. L. 113–66][/us/pl/113/66] substituted “December 31, 2020” for “December 31, 2015”.
-
     2008—[Pub. L. 110–417][/us/pl/110/417] substituted “December 31, 2015.” for “December 31, 2010.”
 
 ----------
@@ -82,9 +80,6 @@ June 29, 1936, ch. 858, title XII, § 1214, as added Sept. 7, 1950, ch. 906, 6
 [/us/stat/120/1632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1632
 [/us/pl/110/417/s3509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs3509
 [/us/stat/122/4769]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4769
-[/us/pl/113/66/s3502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3502
-[/us/stat/127/1085]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1085
-[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 
 

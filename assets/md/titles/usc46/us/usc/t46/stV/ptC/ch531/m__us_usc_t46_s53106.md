@@ -23,7 +23,7 @@
 
             (A) $2,600,000 for each of fiscal years 2006, 2007, and 2008;
 
-            (B) $2,900,000, <sup>\[1\]</sup>  <sup><sup> 1 So in original. The comma probably should not appear. </sup></sup>  for each of fiscal years 2009, 2010, and 2011;
+            (B) $2,900,000, for each of fiscal years 2009, 2010, and 2011;
 
             (C) $3,100,000 for each of fiscal years 2012, 2013, 2014, 2015, 2016, 2017, and 2018;
 
