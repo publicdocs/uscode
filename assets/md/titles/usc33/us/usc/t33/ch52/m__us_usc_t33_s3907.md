@@ -79,15 +79,7 @@
 
                 For purposes of this chapter, a project shall be considered to be publicly sponsored if the obligor can demonstrate, to the satisfaction of the Secretary or the Administrator, as appropriate, that the project applicant has consulted with the affected State, local, or tribal government in which the project is located, or is otherwise affected by the project, and that such government supports the proposed project.
 
-        (5) __Limitation__ 
-
-        No project receiving Federal credit assistance under this chapter may be financed (directly or indirectly), in whole or in part, with proceeds of any obligation—
-
-            (A) the interest on which is exempt from the tax imposed under chapter 1 of title 26; or
-
-            (B) with respect to which credit is allowable under subpart I or J of part IV of subchapter A of chapter 1 of title 26.
-
-        (6) __Use of existing financing mechanisms__ 
+        (5) __Use of existing financing mechanisms__ 
 
             (A) __Notification__ 
 
@@ -101,7 +93,7 @@
 
                 (ii) the financial assistance to be provided by the State infrastructure financing authority will be at rates and terms that are less favorable than the rates and terms for financial assistance provided under this chapter.
 
-        (7) __Operation and maintenance plan__ 
+        (6) __Operation and maintenance plan__ 
 
             (A) __In general__ 
 
@@ -179,7 +171,19 @@
 
         Nothing in this section supersedes the applicability of other requirements of Federal law (including regulations).
 
-([Pub. L. 113–121, title V, § 5028][/us/pl/113/121/s5028], June 10, 2014, [128 Stat. 1335][/us/stat/128/1335].)
+([Pub. L. 113–121, title V, § 5028][/us/pl/113/121/s5028], June 10, 2014, [128 Stat. 1335][/us/stat/128/1335]; [Pub. L. 114–94, div. A, title I, § 1445][/us/pl/114/94/s1445], Dec. 4, 2015, [129 Stat. 1437][/us/stat/129/1437].)
+
+ __Amendments__ 
+
+    2015—Subsec. (a)(5) to (7). [Pub. L. 114–94][/us/pl/114/94] redesignated pars. (6) and (7) as (5) and (6), respectively, and struck out former par. (5). Prior to amendment, text of par. (5) read as follows: “No project receiving Federal credit assistance under this chapter may be financed (directly or indirectly), in whole or in part, with proceeds of any obligation—
+
+    “(A) the interest on which is exempt from the tax imposed under chapter 1 of title 26; or
+
+    “(B) with respect to which credit is allowable under subpart I or J of part IV of subchapter A of chapter 1 of title 26.”
+
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–94][/us/pl/114/94] effective Oct. 1, 2015, see [section 1003 of Pub. L. 114–94][/us/pl/114/94/s1003], set out as a note under [section 5313 of Title 5][/us/usc/t5/s5313], Government Organization and Employees.
 
  __“Secretary” Defined__ 
 
@@ -200,6 +204,12 @@
 [/us/usc/t33/s3905/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs3905%2F8
 [/us/pl/113/121/s5028]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs5028
 [/us/stat/128/1335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1335
+[/us/pl/114/94/s1445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1445
+[/us/stat/129/1437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1437
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
+[/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
 [/us/pl/113/121/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs2
 [/us/usc/t33/s2201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2201
 

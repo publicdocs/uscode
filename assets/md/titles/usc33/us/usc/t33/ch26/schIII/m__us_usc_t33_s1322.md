@@ -613,7 +613,7 @@
 
 >         “(1)  __Matching grants__  __.—__ 
 
->         The Secretary of the Interior may obligate an amount not to exceed the amount made available under [section 4(b)(2) of the Act of August 9, 1950][/us/act/1950-08-09/s4/b/2] ([16 U.S.C. 777c(b)(2)][/us/usc/t16/s777c/b/2], as amended by this Act), to make grants to—
+>         The Secretary of the Interior may obligate an amount not to exceed the amount made available under [section 4(b)(2) of the Act of August 9, 1950][/us/act/1950-08-09/s4/b/2] ([16 U.S.C. 777c(b)(2)][/us/usc/t16/s777c/b/2] \[now [16 U.S.C. 777c(b)(3)][/us/usc/t16/s777c/b/3]\], as amended by this Act), to make grants to—
 
 >             “(A)
 
@@ -795,6 +795,7 @@
 [/us/usc/t16/s777g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs777g
 [/us/act/1950-08-09/s4/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-09%2Fs4%2Fb%2F2
 [/us/usc/t16/s777c/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs777c%2Fb%2F2
+[/us/usc/t16/s777c/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs777c%2Fb%2F3
 [/us/usc/t16/s777a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs777a
 [/us/usc/t16/s777]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs777
 [/us/usc/t16/s777a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs777a

@@ -53,7 +53,7 @@
 
         The report under paragraph (1) shall include—
 
-            (A) an evaluation of the impacts (if any) of the limitation under [section 3907(a)(5) of this title][/us/usc/t33/s3907/a/5] on the ability of eligible entities to finance water infrastructure projects under this chapter;
+            (A) an evaluation of the impacts (if any) of the limitation under section 3907(a)(5)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title on the ability of eligible entities to finance water infrastructure projects under this chapter;
 
             (B)
 
@@ -69,6 +69,10 @@
 
 ([Pub. L. 113–121, title V, § 5034][/us/pl/113/121/s5034], June 10, 2014, [128 Stat. 1343][/us/stat/128/1343].)
 
+ __References in Text__ 
+
+    [Section 3907(a)(5) of this title][/us/usc/t33/s3907/a/5], referred to in subsec. (b)(2)(A), was struck out, and [section 3907(a)(6) of this title][/us/usc/t33/s3907/a/6] was redesignated as 3907(a)(5), by [Pub. L. 114–94, div. A, title I, § 1445][/us/pl/114/94/s1445], Dec. 4, 2015, [129 Stat. 1437][/us/stat/129/1437]. As amended, section 3907(a)(5) no longer relates to limitation.
+
  __“Secretary” Defined__ 
 
     Secretary means the Secretary of the Army, see [section 2 of Pub. L. 113–121][/us/pl/113/121/s2], set out as a note under [section 2201 of this title][/us/usc/t33/s2201].
@@ -80,9 +84,12 @@
 ----------
 ----------
 
-[/us/usc/t33/s3907/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs3907%2Fa%2F5
 [/us/pl/113/121/s5034]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs5034
 [/us/stat/128/1343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1343
+[/us/usc/t33/s3907/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs3907%2Fa%2F5
+[/us/usc/t33/s3907/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs3907%2Fa%2F6
+[/us/pl/114/94/s1445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1445
+[/us/stat/129/1437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1437
 [/us/pl/113/121/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs2
 [/us/usc/t33/s2201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2201
 
