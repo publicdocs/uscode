@@ -15,7 +15,7 @@
 
 ## § 527. Abandonment, destruction, or donation of property
 
-The Administrator of General Services may authorize the abandonment or destruction of property, or the donation of property to a public body, if—
+    The Administrator of General Services may authorize the abandonment or destruction of property, or the donation of property to a public body, if—
 
     (1) the property has no commercial value; or
 

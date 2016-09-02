@@ -15,7 +15,7 @@
 
 ## § 17707. Reports
 
-The Secretary of Defense shall report to the Congress and the President—
+    The Secretary of Defense shall report to the Congress and the President—
 
     (1) in January of each year, the actions taken under this chapter during the preceding 12 months; and
 

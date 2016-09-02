@@ -15,7 +15,7 @@
 
 ## § 8102. Protection of Federal Government buildings in District of Columbia
 
-The Attorney General and the Secretary of the Treasury may prohibit—
+    The Attorney General and the Secretary of the Treasury may prohibit—
 
     (1)
 

@@ -15,7 +15,7 @@
 
 ## § 6301. Definition
 
-In this chapter, the term “specified buildings and grounds” means—
+    In this chapter, the term “specified buildings and grounds” means—
 
     (1) __Smithsonian institution.—__ 
 
@@ -43,9 +43,9 @@ In this chapter, the term “specified buildings and grounds” means—
 
         (C) to the line of the face of the south curb of Constitution Avenue Northwest, between Ninth Street Northwest and Seventh Street Northwest; to the line of the face of the west curb of Seventh Street Northwest, between Constitution Avenue Northwest and Madison Drive Northwest; to the line of the face of the north curb of Madison Drive Northwest, between Seventh Street Northwest and the line of the face of the east side of the east retaining wall of the Ninth Street Expressway Northwest; and to the line of the face of the east side of the east retaining wall of the Ninth Street Expressway Northwest, between Madison Drive Northwest and Constitution Avenue Northwest.
 
-    (3) __John f. kennedy center for the performing arts.—__ 
+    (3) __John f.__ 
 
-    The John F. Kennedy Center for the Performing Arts, which extends to the line of the west face of the west retaining walls and curbs of the Inner Loop Freeway on the east, the north face of the north retaining walls and curbs of the Theodore Roosevelt Bridge approaches on the south, the east face of the east retaining walls and curbs of Rock Creek Parkway on the west, and the south curbs of New Hampshire Avenue and F Street on the north, as generally depicted on the map entitled “Transfer of John F. Kennedy Center for the Performing Arts”, numbered 844/82563 and dated April 20, 1994 (as amended by the map entitled “Transfer of John F. Kennedy Center for the Performing Arts”, numbered 844/82563A and dated May 22, 1997), which shall be on file and available for public inspection in the office of the National Capital Region, National Park Service.
+     kennedy center for the performing arts.—The John F. Kennedy Center for the Performing Arts, which extends to the line of the west face of the west retaining walls and curbs of the Inner Loop Freeway on the east, the north face of the north retaining walls and curbs of the Theodore Roosevelt Bridge approaches on the south, the east face of the east retaining walls and curbs of Rock Creek Parkway on the west, and the south curbs of New Hampshire Avenue and F Street on the north, as generally depicted on the map entitled “Transfer of John F. Kennedy Center for the Performing Arts”, numbered 844/82563 and dated April 20, 1994 (as amended by the map entitled “Transfer of John F. Kennedy Center for the Performing Arts”, numbered 844/82563A and dated May 22, 1997), which shall be on file and available for public inspection in the office of the National Capital Region, National Park Service.
 
 ([Pub. L. 107–217][/us/pl/107/217], Aug. 21, 2002, [116 Stat. 1184][/us/stat/116/1184].)
 

@@ -15,7 +15,7 @@
 
 ## § 6731. Definitions
 
-In this subchapter—
+    In this subchapter—
 
     (1) __Federal triangle development area.—__ 
 

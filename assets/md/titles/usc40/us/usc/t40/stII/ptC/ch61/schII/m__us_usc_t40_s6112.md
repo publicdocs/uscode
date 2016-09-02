@@ -15,7 +15,7 @@
 
 ## § 6112. Supreme Court Building and grounds employees
 
-Employees required to carry out [section 6111(a) of this title][/us/usc/t40/s6111/a] shall be—
+    Employees required to carry out [section 6111(a) of this title][/us/usc/t40/s6111/a] shall be—
 
     (1) appointed by the Architect of the Capitol with the approval of the Chief Justice of the United States;
 

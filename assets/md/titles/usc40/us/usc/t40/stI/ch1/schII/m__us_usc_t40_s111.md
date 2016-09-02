@@ -15,7 +15,7 @@
 
 ## § 111. Application to division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41
 
-In the following provisions, the words “this subtitle” are deemed to refer also to division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41:
+    In the following provisions, the words “this subtitle” are deemed to refer also to division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41:
 
     (1) [Section 101 of this title][/us/usc/t40/s101].
 

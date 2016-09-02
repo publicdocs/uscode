@@ -15,7 +15,7 @@
 
 ## § 11101. Definitions
 
-In this subtitle, the following definitions apply:
+    In this subtitle, the following definitions apply:
 
     (1) __Commercial item.—__ 
 

@@ -15,7 +15,7 @@
 
 ## § 11313. Performance and results-based management
 
-In fulfilling the responsibilities under [section 3506(h) of title 44][/us/usc/t44/s3506/h], the head of an executive agency shall—
+    In fulfilling the responsibilities under [section 3506(h) of title 44][/us/usc/t44/s3506/h], the head of an executive agency shall—
 
     (1) establish goals for improving the efficiency and effectiveness of agency operations and, as appropriate, the delivery of services to the public through the effective use of information technology;
 

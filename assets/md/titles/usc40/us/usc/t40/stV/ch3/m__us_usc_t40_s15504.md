@@ -15,7 +15,7 @@
 
 ## § 15504. Program development criteria
 
-In considering programs and projects to be provided assistance by a Commission under this subtitle, and in establishing a priority ranking of the requests for assistance provided to the Commission, the Commission shall follow procedures that ensure, to the maximum extent practicable, consideration of—
+    In considering programs and projects to be provided assistance by a Commission under this subtitle, and in establishing a priority ranking of the requests for assistance provided to the Commission, the Commission shall follow procedures that ensure, to the maximum extent practicable, consideration of—
 
     (1) the relationship of the project or class of projects to overall regional development;
 

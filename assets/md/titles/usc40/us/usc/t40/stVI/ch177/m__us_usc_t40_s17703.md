@@ -15,7 +15,7 @@
 
 ## § 17703. National defense considerations and qualification of transferee
 
-A transfer under this chapter shall not be made unless the Secretary of Defense determines that—
+    A transfer under this chapter shall not be made unless the Secretary of Defense determines that—
 
     (1) the Federal Government does not need to retain the property involved in the transfer for national defense purposes;
 

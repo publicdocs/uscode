@@ -15,7 +15,7 @@
 
 ## § 521. Policies and methods
 
-Subject to [section 523 of this title][/us/usc/t40/s523], in order to minimize expenditures for property, the Administrator of General Services shall—
+    Subject to [section 523 of this title][/us/usc/t40/s523], in order to minimize expenditures for property, the Administrator of General Services shall—
 
     (1) prescribe policies and methods to promote the maximum use of excess property by executive agencies; and
 

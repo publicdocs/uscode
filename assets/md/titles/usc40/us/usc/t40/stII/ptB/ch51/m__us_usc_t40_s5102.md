@@ -69,7 +69,7 @@
 
  __Definition of United States Capitol Grounds__ 
 
-For provisions directing amendment of this section (or [section 1 of the Act of July 31, 1946][/us/act/1946-07-31/s1], as amended (former [40 U.S.C. 193a][/us/usc/t40/s193a]), which was repealed and reenacted by [Pub. L. 107–217][/us/pl/107/217], §§ 1, 6(b), Aug. 21, 2002, [116 Stat. 1062][/us/stat/116/1062], 1304, as this section) to include within or exclude from the definition of the United States Capitol Grounds certain parcels or areas, see notes set out below and under [section 6101 of this title][/us/usc/t40/s6101].
+    For provisions directing amendment of this section (or [section 1 of the Act of July 31, 1946][/us/act/1946-07-31/s1], as amended (former [40 U.S.C. 193a][/us/usc/t40/s193a]), which was repealed and reenacted by [Pub. L. 107–217][/us/pl/107/217], §§ 1, 6(b), Aug. 21, 2002, [116 Stat. 1062][/us/stat/116/1062], 1304, as this section) to include within or exclude from the definition of the United States Capitol Grounds certain parcels or areas, see notes set out below and under [section 6101 of this title][/us/usc/t40/s6101].
 
 <table>
 
@@ -373,7 +373,9 @@ July 31, 1946, ch. 707, § 1, 60 Stat. 718; Pub. L. 90–108, § 1(a), Oct. 
 
 >                 “(i) __In general.—__ 
 
->                 Jurisdiction over the following parcels is transferred to the Secretary of the Interior:         “(I) That triangle of Federal land, including any contiguous sidewalks and tree space, that is part of the United States Capitol Grounds under the jurisdiction of the Architect of the Capitol bound by D Street, N.W., New Jersey Avenue, N.W., and Louisiana Avenue, N.W., in square W632 in the District of Columbia, as shown on the Map Showing Properties Under Jurisdiction of the Architect of the Capitol, dated November 8, 1994.
+>                 Jurisdiction over the following parcels is transferred to the Secretary of the Interior:
+
+>                          “(I) That triangle of Federal land, including any contiguous sidewalks and tree space, that is part of the United States Capitol Grounds under the jurisdiction of the Architect of the Capitol bound by D Street, N.W., New Jersey Avenue, N.W., and Louisiana Avenue, N.W., in square W632 in the District of Columbia, as shown on the Map Showing Properties Under Jurisdiction of the Architect of the Capitol, dated November 8, 1994.
 
 >                          “(II) That triangle of Federal land, including any contiguous sidewalks and tree space, that is part of the United States Capitol Grounds under the jurisdiction of the Architect of the Capitol bound by C Street, N.W., First Street, N.W., and Louisiana Avenue, N.W., in the District of Columbia, as shown on the Map Showing Properties Under Jurisdiction of the Architect of the Capitol, dated November 8, 1994.
 
@@ -569,7 +571,7 @@ NOW, THEREFORE, in formal compliance with the aforecited provisions of the Addit
 
      4. This order shall become effective immediately.
 
- __HOUSE OFFICE BUILDING COMMISSION__ 
+HOUSE OFFICE BUILDING COMMISSION
 
 <table>
 

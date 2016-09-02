@@ -13,7 +13,7 @@
 
 [Previous](./../../../../..//us/usc/t40/stV/ch3/m__us_usc_t40_s15506.md) | [Next](./../../../../..//us/usc/t40/stV/ch4/schI/m__us_usc_t40_stV_ch4_schI.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2FstV%2Fch4)
 
-### CHAPTER 4 <sup>\[1\]</sup> — <sup><sup> 1 So in original. Probably should be “157”. </sup></sup> ADMINISTRATIVE PROVISIONS
+### CHAPTER 4 <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “157”. </sup></sup> —ADMINISTRATIVE PROVISIONS
 
 <table>
 

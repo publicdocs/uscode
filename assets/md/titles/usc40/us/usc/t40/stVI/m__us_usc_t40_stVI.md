@@ -97,9 +97,15 @@
 
   </tr>
 
-</table>
+  <tr>
 
- __Amendments__ 
+    <td> 
+
+Amendments  </td>
+
+  </tr>
+
+</table>
 
     2008—[Pub. L. 110–234, title XIV, § 14217(a)(1)][/us/pl/110/234/s14217/a/1], May 22, 2008, [122 Stat. 1467][/us/stat/122/1467], and [Pub. L. 110–246, title XIV, § 14217(a)(1)][/us/pl/110/246/s14217/a/1], June 18, 2008, [122 Stat. 2229][/us/stat/122/2229], made identical amendments, redesignating subtitle V of this title as subtitle VI. The amendment by [Pub. L. 110–234][/us/pl/110/234] was repealed by [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], June 18, 2008, [122 Stat. 1664][/us/stat/122/1664].
 

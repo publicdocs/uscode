@@ -13,7 +13,7 @@
 
 [Previous](./../../../../..//us/usc/t40/stI/ch1/schIII/m__us_usc_t40_s126.md) | [Next](./../../../../..//us/usc/t40/stI/ch3/schI/m__us_usc_t40_stI_ch3_schI.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2FstI%2Fch3)
 
-### CHAPTER 3 <sup>\[1\]</sup> — <sup><sup> 1 Another chapter 3 is set out in subtitle V of this title. </sup></sup> ORGANIZATION OF GENERAL SERVICES ADMINISTRATION
+### CHAPTER 3 <sup>\[1\]</sup>  <sup><sup> 1 Another chapter 3 is set out in subtitle V of this title. </sup></sup> —ORGANIZATION OF GENERAL SERVICES ADMINISTRATION
 
 <table>
 

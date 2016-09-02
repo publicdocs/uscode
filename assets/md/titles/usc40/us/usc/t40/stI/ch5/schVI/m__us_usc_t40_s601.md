@@ -15,7 +15,7 @@
 
 ## § 601. Purposes
 
-In order to provide an economical and efficient system for transportation of Federal Government personnel and property consistent with [section 101 of this title][/us/usc/t40/s101], the purposes of this subchapter are—
+    In order to provide an economical and efficient system for transportation of Federal Government personnel and property consistent with [section 101 of this title][/us/usc/t40/s101], the purposes of this subchapter are—
 
     (1) to establish procedures to ensure safe operation of motor vehicles on Government business;
 

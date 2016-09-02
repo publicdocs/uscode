@@ -13,11 +13,11 @@
 
 ~~Previous~~ | [Next](./../../..//us/usc/t40/stI/m__us_usc_t40_stI.md) | [Root of Title](./../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40)
 
-# 
-
-Title 40—PUBLIC BUILDINGS, PROPERTY, AND WORKS
+# Title 40—PUBLIC BUILDINGS, PROPERTY, AND WORKS
 
 This title was enacted by [Pub. L. 107–217, § 1][/us/pl/107/217/s1], Aug. 21, 2002, [116 Stat. 1062][/us/stat/116/1062]
+
+Current through 113–44
 
 <table>
 

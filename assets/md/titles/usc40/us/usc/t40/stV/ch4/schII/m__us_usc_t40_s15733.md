@@ -15,7 +15,7 @@
 
 ## § 15733. Northern Border Regional Commission
 
-The region of the Northern Border Regional Commission shall include the following counties:
+    The region of the Northern Border Regional Commission shall include the following counties:
 
     (1) __Maine.—__ 
 

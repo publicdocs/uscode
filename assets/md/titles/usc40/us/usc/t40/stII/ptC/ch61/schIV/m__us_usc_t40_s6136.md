@@ -15,7 +15,7 @@
 
 ## § 6136. Suspension of prohibitions against use of Supreme Court grounds
 
-To allow the observance of authorized ceremonies in the Supreme Court Building and grounds, the Marshal of the Supreme Court may suspend for those occasions any of the prohibitions contained in this subchapter as may be necessary for the occasion if—
+    To allow the observance of authorized ceremonies in the Supreme Court Building and grounds, the Marshal of the Supreme Court may suspend for those occasions any of the prohibitions contained in this subchapter as may be necessary for the occasion if—
 
     (1) responsible officers have been appointed; and
 

@@ -15,7 +15,7 @@
 
 ## § 6132. Sale of articles, signs, and solicitation in Supreme Court Building and grounds
 
-It is unlawful—
+    It is unlawful—
 
     (1) to offer or expose any article for sale in the Supreme Court Building or grounds;
 

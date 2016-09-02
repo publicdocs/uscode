@@ -15,7 +15,7 @@
 
 ## § 17704. Contents of agreements for transfer
 
-An agreement by which a transfer is made under this chapter shall provide that—
+    An agreement by which a transfer is made under this chapter shall provide that—
 
     (1) subject to regulations of the Federal Communications Commission and of any body or commission established by Alaska to govern and regulate communications services to the public and all applicable statutes, treaties, and conventions, the person to whom the transfer is made shall provide the communication services involved in the transfer without interruption, except those services reserved by the Federal Government in the transfer;
 

@@ -15,7 +15,7 @@
 
 ## § 14304. Recommendations
 
-The Appalachian Regional Commission may make recommendations to the President and to the Governors and appropriate local officials with respect to—
+    The Appalachian Regional Commission may make recommendations to the President and to the Governors and appropriate local officials with respect to—
 
     (1) the expenditure of amounts by federal, state, and local departments and agencies in the Appalachian region in the fields of natural resources, agriculture, education, training, and health and welfare and in other fields related to the purposes of this subtitle; and
 

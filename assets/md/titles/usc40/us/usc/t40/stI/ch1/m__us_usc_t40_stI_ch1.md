@@ -13,7 +13,7 @@
 
 [Previous](./../../../../..//us/usc/t40/stI/m__us_usc_t40_stI.md) | [Next](./../../../../..//us/usc/t40/stI/ch1/schI/m__us_usc_t40_stI_ch1_schI.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2FstI%2Fch1)
 
-### CHAPTER 1 <sup>\[1\]</sup> — <sup><sup> 1 Another chapter 1 is set out in subtitle V of this title. </sup></sup> GENERAL
+### CHAPTER 1 <sup>\[1\]</sup>  <sup><sup> 1 Another chapter 1 is set out in subtitle V of this title. </sup></sup> —GENERAL
 
 <table>
 

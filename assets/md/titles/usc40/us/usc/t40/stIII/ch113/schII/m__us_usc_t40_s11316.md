@@ -15,7 +15,7 @@
 
 ## § 11316. Accountability
 
-The head of each executive agency, in consultation with the Chief Information Officer and the Chief Financial Officer of that executive agency (or, in the case of an executive agency without a chief financial officer, any comparable official), shall establish policies and procedures to ensure that—
+    The head of each executive agency, in consultation with the Chief Information Officer and the Chief Financial Officer of that executive agency (or, in the case of an executive agency without a chief financial officer, any comparable official), shall establish policies and procedures to ensure that—
 
     (1) the accounting, financial, asset management, and other information systems of the executive agency are designed, developed, maintained, and used effectively to provide financial or program performance data for financial statements of the executive agency;
 

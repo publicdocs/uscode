@@ -15,7 +15,7 @@
 
 ## § 15732. Southwest Border Regional Commission
 
-The region of the Southwest Border Regional Commission shall consist of the following political subdivisions:
+    The region of the Southwest Border Regional Commission shall consist of the following political subdivisions:
 
     (1) __Arizona.—__ 
 

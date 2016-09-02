@@ -15,7 +15,7 @@
 
 ## § 8901. Purposes
 
-The purposes of this chapter are—
+    The purposes of this chapter are—
 
     (1) to preserve the integrity of the comprehensive design of the L’Enfant and McMillan plans for the Nation’s Capital;
 

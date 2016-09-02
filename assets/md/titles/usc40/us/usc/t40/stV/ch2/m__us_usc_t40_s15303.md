@@ -15,7 +15,7 @@
 
 ## § 15303. Functions
 
-A Commission shall—
+    A Commission shall—
 
     (1) assess the needs and assets of its region based on available research, demonstration projects, investigations, assessments, and evaluations of the region prepared by Federal, State, and local agencies, universities, local development districts, and other nonprofit groups;
 

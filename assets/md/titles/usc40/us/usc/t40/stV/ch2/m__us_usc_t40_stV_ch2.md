@@ -13,7 +13,7 @@
 
 [Previous](./../../../../..//us/usc/t40/stV/ch1/m__us_usc_t40_s15101.md) | [Next](./../../../../..//us/usc/t40/stV/ch2/m__us_usc_t40_s15301.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2FstV%2Fch2)
 
-### CHAPTER 2 <sup>\[1\]</sup> — <sup><sup> 1 So in original. Probably should be “153”. </sup></sup> REGIONAL COMMISSIONS
+### CHAPTER 2 <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “153”. </sup></sup> —REGIONAL COMMISSIONS
 
 <table>
 

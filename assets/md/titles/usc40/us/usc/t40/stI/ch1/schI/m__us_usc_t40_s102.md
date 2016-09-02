@@ -15,7 +15,7 @@
 
 ## § 102. Definitions
 
-The following definitions apply in chapters 1 through 7 of this title and in division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41:
+    The following definitions apply in chapters 1 through 7 of this title and in division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41:
 
     (1) __Care and handling.—__ 
 

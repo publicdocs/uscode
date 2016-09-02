@@ -15,7 +15,7 @@
 
 ## § 3310. Special rules for leased buildings
 
-For any building to be constructed for lease to, and for predominant use by, the Federal Government, the Administrator of General Services—
+    For any building to be constructed for lease to, and for predominant use by, the Federal Government, the Administrator of General Services—
 
     (1) notwithstanding [section 585(a)(1) of this title][/us/usc/t40/s585/a/1], shall not make any agreement or undertake any commitment which will result in the construction of the building until the Administrator has established detailed specification requirements for the building;
 

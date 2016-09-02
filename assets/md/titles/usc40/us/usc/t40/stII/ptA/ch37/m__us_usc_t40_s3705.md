@@ -15,7 +15,7 @@
 
 ## § 3705. Safety programs
 
-The Secretary of Labor shall—
+    The Secretary of Labor shall—
 
     (1) provide for the establishment and supervision of programs for the education and training of employers and employees in the recognition, avoidance, and prevention of unsafe working conditions in employment covered by this chapter; and
 
