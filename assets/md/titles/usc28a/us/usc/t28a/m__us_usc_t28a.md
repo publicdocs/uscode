@@ -15,7 +15,7 @@
 
 # Title 28—APPENDIXJUDICIAL PERSONNEL FINANCIAL DISCLOSURE REQUIREMENTS
 
-Current through 114-58
+Current through 114-67
 
 <table>
 
