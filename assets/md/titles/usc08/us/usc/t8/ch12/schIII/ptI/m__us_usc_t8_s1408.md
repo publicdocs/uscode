@@ -15,7 +15,7 @@
 
 ## § 1408. Nationals but not citizens of the United States at birth
 
-Unless otherwise provided in [section 1401 of this title][/us/usc/t8/s1401], the following shall be nationals, but not citizens, of the United States at birth:
+    Unless otherwise provided in [section 1401 of this title][/us/usc/t8/s1401], the following shall be nationals, but not citizens, of the United States at birth:
 
     (1) A person born in an outlying possession of the United States on or after the date of formal acquisition of such possession;
 

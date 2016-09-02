@@ -33,7 +33,7 @@ SUBCHAPTER I—ORGANIZATION  </td>
 
   <tr>
 
-    <td> 1551.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft8%2Fs1551" data-uslm-ref="/us/usc/t8/s1551">1551.</a>  </td>
 
     <td> Immigration and Naturalization Service.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—ORGANIZATION  </td>
 
   <tr>
 
-    <td> 1552.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft8%2Fs1552" data-uslm-ref="/us/usc/t8/s1552">1552.</a>  </td>
 
     <td> Commissioner of Immigration and Naturalization; office.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—ORGANIZATION  </td>
 
   <tr>
 
-    <td> 1553.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft8%2Fs1553" data-uslm-ref="/us/usc/t8/s1553">1553.</a>  </td>
 
     <td> Assistant Commissioners and one District Director; compensation and salary grade.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER I—ORGANIZATION  </td>
 
   <tr>
 
-    <td> 1554.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft8%2Fs1554" data-uslm-ref="/us/usc/t8/s1554">1554.</a>  </td>
 
     <td> Special immigrant inspectors at Washington.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER I—ORGANIZATION  </td>
 
   <tr>
 
-    <td> 1555.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft8%2Fs1555" data-uslm-ref="/us/usc/t8/s1555">1555.</a>  </td>
 
     <td> Immigration Service expenses.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER I—ORGANIZATION  </td>
 
   <tr>
 
-    <td> 1556.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft8%2Fs1556" data-uslm-ref="/us/usc/t8/s1556">1556.</a>  </td>
 
     <td> Transferred.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER I—ORGANIZATION  </td>
 
   <tr>
 
-    <td> 1557.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft8%2Fs1557" data-uslm-ref="/us/usc/t8/s1557">1557.</a>  </td>
 
     <td> Prevention of transportation in foreign commerce of alien women and girls under international agreement; Commissioner designated as authority to receive and preserve information.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER II—IMMIGRATION SERVICES AND INFRASTRUCTURE IMPROVEMENTS  </td>
 
   <tr>
 
-    <td> 1571.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft8%2Fs1571" data-uslm-ref="/us/usc/t8/s1571">1571.</a>  </td>
 
     <td> Purposes.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER II—IMMIGRATION SERVICES AND INFRASTRUCTURE IMPROVEMENTS  </td>
 
   <tr>
 
-    <td> 1572.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft8%2Fs1572" data-uslm-ref="/us/usc/t8/s1572">1572.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -113,7 +113,7 @@ SUBCHAPTER II—IMMIGRATION SERVICES AND INFRASTRUCTURE IMPROVEMENTS  </td>
 
   <tr>
 
-    <td> 1573.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft8%2Fs1573" data-uslm-ref="/us/usc/t8/s1573">1573.</a>  </td>
 
     <td> Immigration Services and Infrastructure Improvements Account.  </td>
 
@@ -121,7 +121,7 @@ SUBCHAPTER II—IMMIGRATION SERVICES AND INFRASTRUCTURE IMPROVEMENTS  </td>
 
   <tr>
 
-    <td> 1574.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft8%2Fs1574" data-uslm-ref="/us/usc/t8/s1574">1574.</a>  </td>
 
     <td> Reports to Congress.  </td>
 

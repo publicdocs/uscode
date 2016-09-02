@@ -15,7 +15,7 @@
 
 ## § 1370. Reimbursement of States and localities for emergency ambulance services
 
-Subject to the availability of appropriations, the Attorney General shall fully reimburse States and political subdivisions of States for costs incurred by such a State or subdivision for emergency ambulance services provided to any alien who—
+    Subject to the availability of appropriations, the Attorney General shall fully reimburse States and political subdivisions of States for costs incurred by such a State or subdivision for emergency ambulance services provided to any alien who—
 
     (1) is injured while crossing a land or sea border of the United States without inspection or at any time or place other than as designated by the Attorney General; and
 

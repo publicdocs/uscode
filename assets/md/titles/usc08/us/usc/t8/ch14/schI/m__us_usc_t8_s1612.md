@@ -187,9 +187,13 @@
 
                     (IV) __Declaration required__ 
 
-                        (aa) In general    For purposes of subclauses (I) and (II), the declaration required under this subclause of a qualified alien or victim of trafficking described in either such subclause is a declaration under penalty of perjury stating that the alien or victim has made a good faith effort to pursue United States citizenship, as determined by the Secretary of Homeland Security. The Commissioner of Social Security shall develop criteria as needed, in consultation with the Secretary of Homeland Security, for consideration of such declarations.
+                        (aa) __In general__ 
 
-                        (bb) Exception for children    A qualified alien or victim of trafficking described in subclause (I) or (II) who has not attained age 18 shall not be required to furnish to the Commissioner of Social Security a declaration described in item (aa) as a condition of being eligible for the specified Federal program described in paragraph (3)(A) for an additional 2-year period in accordance with this clause.
+                            For purposes of subclauses (I) and (II), the declaration required under this subclause of a qualified alien or victim of trafficking described in either such subclause is a declaration under penalty of perjury stating that the alien or victim has made a good faith effort to pursue United States citizenship, as determined by the Secretary of Homeland Security. The Commissioner of Social Security shall develop criteria as needed, in consultation with the Secretary of Homeland Security, for consideration of such declarations.
+
+                        (bb) __Exception for children__ 
+
+                            A qualified alien or victim of trafficking described in subclause (I) or (II) who has not attained age 18 shall not be required to furnish to the Commissioner of Social Security a declaration described in item (aa) as a condition of being eligible for the specified Federal program described in paragraph (3)(A) for an additional 2-year period in accordance with this clause.
 
                     (V) __Payment of benefits to aliens whose benefits ceased in prior fiscal years__ 
 

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t8/ch6/schI/m__us_usc_t8_s109a to 109d.md) | [Next](./../../../../..//us/usc/t8/ch6/schI/m__us_usc_t8_s111.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs110)
+[Previous](./../../../../..//us/usc/t8/ch6/schI/m__us_usc_t8_s107.md) | [Next](./../../../../..//us/usc/t8/ch6/schI/m__us_usc_t8_s111.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs110)
 
 ## § 110. Repealed. [June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title IV, § 403(a)(25), [66 Stat. 279][/us/stat/66/279], eff. Dec. 24, 1952
 
@@ -19,7 +19,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t8/ch6/schI/m__us_usc_t8_s109a to 109d.md) | [Next](./../../../../..//us/usc/t8/ch6/schI/m__us_usc_t8_s111.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs110)
+[Previous](./../../../../..//us/usc/t8/ch6/schI/m__us_usc_t8_s107.md) | [Next](./../../../../..//us/usc/t8/ch6/schI/m__us_usc_t8_s111.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs110)
 
 ----------
 ----------

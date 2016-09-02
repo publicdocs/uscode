@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t8/ch6/schIV/m__us_usc_t8_s241 to 246.md) | [Next](./../../../..//us/usc/t8/ch7/m__us_usc_t8_s261.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fch7)
+[Previous](./../../../..//us/usc/t8/ch6/schIV/m__us_usc_t8_ch6_schIV.md) | [Next](./../../../..//us/usc/t8/ch7/m__us_usc_t8_s261.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fch7)
 
 ## CHAPTER 7—EXCLUSION OF CHINESE
 
@@ -21,7 +21,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t8/ch6/schIV/m__us_usc_t8_s241 to 246.md) | [Next](./../../../..//us/usc/t8/ch7/m__us_usc_t8_s261.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fch7)
+[Previous](./../../../..//us/usc/t8/ch6/schIV/m__us_usc_t8_ch6_schIV.md) | [Next](./../../../..//us/usc/t8/ch7/m__us_usc_t8_s261.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fch7)
 
 ----------
 ----------

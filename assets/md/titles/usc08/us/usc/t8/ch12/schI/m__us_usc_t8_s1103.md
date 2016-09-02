@@ -211,7 +211,9 @@
 
 >                 “(ii) __Savings provision.—__ 
 
->                 Nothing in this subparagraph may be construed to—         “(I) create or negate any right of action for a State, local government, or other person or entity affected by this subsection; or
+>                 Nothing in this subparagraph may be construed to—
+
+>                          “(I) create or negate any right of action for a State, local government, or other person or entity affected by this subsection; or
 
 >                          “(II) affect the eminent domain laws of the United States or of any State.
 

@@ -689,13 +689,17 @@ By the authority vested in me as President by the Constitution and the laws of t
 
 >                 “(ii) __Election.—__ 
 
->                 Subject to clause (iii), the Secretary of each such Department—         “(I) shall elect the pilot program (or programs) in which the Department shall participate, and
+>                 Subject to clause (iii), the Secretary of each such Department—
+
+>                          “(I) shall elect the pilot program (or programs) in which the Department shall participate, and
 
 >                          “(II) may limit the election to hiring occurring in certain States (or geographic areas) covered by the program (or programs) and in specified divisions within the Department, so long as all hiring by such divisions and in such locations is covered.
 
 >                 “(iii) __Role of secretary of homeland security.—__ 
 
->                 The Secretary of Homeland Security shall assist and coordinate elections under this subparagraph in such manner as assures that—         “(I) a significant portion of the total hiring within each Department within States covered by a pilot program is covered under such a program, and
+>                 The Secretary of Homeland Security shall assist and coordinate elections under this subparagraph in such manner as assures that—
+
+>                          “(I) a significant portion of the total hiring within each Department within States covered by a pilot program is covered under such a program, and
 
 >                          “(II) there is significant participation by the Federal Executive branch in each of the pilot programs.
 
@@ -827,9 +831,9 @@ By the authority vested in me as President by the Constitution and the laws of t
 
 >             The Secretary of Homeland Security may restrict the number of persons or other entities that may elect to participate in the citizen attestation pilot program under this subsection as the Secretary of Homeland Security determines to be necessary to produce a representative sample of employers and to reduce the potential impact of fraud.
 
->         “(3) __No confirmation required for certain individuals attesting to u.s. citizenship.—__ 
+>         “(3) __No confirmation required for certain individuals attesting to u.__ 
 
->         In the case of a person or other entity hiring (or recruiting or referring) an individual under the citizen attestation pilot program, if the individual attests to United States citizenship (under penalty of perjury on an I–9 or similar form which form states on its face the criminal and other penalties provided under law for a false representation of United States citizenship)—
+>         s. citizenship.—In the case of a person or other entity hiring (or recruiting or referring) an individual under the citizen attestation pilot program, if the individual attests to United States citizenship (under penalty of perjury on an I–9 or similar form which form states on its face the criminal and other penalties provided under law for a false representation of United States citizenship)—
 
 >             “(A) the person or entity may fulfill the requirement to examine documentation contained in subparagraph (A) of section 274A(b)(1) by examining a document specified in either subparagraph (B)(i) or (D) of such section; and
 

@@ -343,13 +343,21 @@
 
 >                 “(i) the petition contains any material misrepresentation in the facts and information alleged in the petition with respect to the commercial enterprises included in such petition;
 
->                 “(ii) all such enterprises, considered together, created full-time jobs for not fewer than 10 United States citizens or aliens lawfully admitted for permanent residence or other immigrants lawfully authorized to be employed in the United States (other than the eligible alien and the alien’s spouse, sons, or daughters), and those jobs exist on the date on which the determination is made, except that—         “(I) this clause shall apply only if the Attorney General made an adverse determination with respect to the eligible alien under paragraph (1)(A)(ii);
+>                 “(ii)
+
+>                  all such enterprises, considered together, created full-time jobs for not fewer than 10 United States citizens or aliens lawfully admitted for permanent residence or other immigrants lawfully authorized to be employed in the United States (other than the eligible alien and the alien’s spouse, sons, or daughters), and those jobs exist on the date on which the determination is made, except that—
+
+>                          “(I) this clause shall apply only if the Attorney General made an adverse determination with respect to the eligible alien under paragraph (1)(A)(ii);
 
 >                          “(II) the provisions of subparagraphs (B) and (C) of paragraph (1) shall apply to a determination under this clause in the same manner as they apply to a determination under paragraph (1)(A)(ii); and
 
 >                          “(III) if the Attorney General determined under paragraph (1)(A)(ii) that any jobs satisfying the requirement of such paragraph were created, the number of those jobs shall be subtracted from the number of jobs otherwise needed to satisfy the requirement of this clause; and
 
->                 “(iii) considering all such enterprises together, on the date on which the determination is made, the eligible alien is in substantial compliance with the capital investment requirement described in section 216A(d)(1)(B) of the Immigration and Nationality Act ([8 U.S.C. 1186b(d)(1)(B)][/us/usc/t8/s1186b/d/1/B]), except that—         “(I) this clause shall apply only if the Attorney General made an adverse determination with respect to the eligible alien under paragraph (1)(A)(iii); and
+>                 “(iii)
+
+>                  considering all such enterprises together, on the date on which the determination is made, the eligible alien is in substantial compliance with the capital investment requirement described in section 216A(d)(1)(B) of the Immigration and Nationality Act ([8 U.S.C. 1186b(d)(1)(B)][/us/usc/t8/s1186b/d/1/B]), except that—
+
+>                          “(I) this clause shall apply only if the Attorney General made an adverse determination with respect to the eligible alien under paragraph (1)(A)(iii); and
 
 >                          “(II) if the Attorney General determined under paragraph (1)(A)(iii) that any capital amount was invested that could be credited towards compliance with the capital investment requirement described in section 216A(d)(1)(B) of the Immigration and Nationality Act ([8 U.S.C. 1186b(d)(1)(B)][/us/usc/t8/s1186b/d/1/B]), such amount shall be subtracted from the amount of capital otherwise needed to satisfy the requirement of this clause.
 

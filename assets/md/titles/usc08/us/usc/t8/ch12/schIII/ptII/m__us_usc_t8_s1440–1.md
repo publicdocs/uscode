@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t8/ch12/schIII/ptII/m__us_usc_t8_s1440.md) | [Next](./../../../../../..//us/usc/t8/ch12/schIII/ptII/m__us_usc_t8_s1440a to 1440d.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1440%E2%80%931)
+[Previous](./../../../../../..//us/usc/t8/ch12/schIII/ptII/m__us_usc_t8_s1440.md) | [Next](./../../../../../..//us/usc/t8/ch12/schIII/ptII/m__us_usc_t8_s1440e.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1440%E2%80%931)
 
 ## § 1440–1. Posthumous citizenship through death while on active-duty service in armed forces during World War I, World War II, the Korean hostilities, the Vietnam hostilities, or in other periods of military hostilities
 
@@ -85,9 +85,15 @@
 
     Amendment by [Pub. L. 108–136][/us/pl/108/136] effective as if enacted Sept. 11, 2001, see [section 1705 of Pub. L. 108–136][/us/pl/108/136/s1705], set out in a note under [section 1439 of this title][/us/usc/t8/s1439].
 
+§§ 1440a to 1440d. __Omitted__ 
+
+ __Codification__ 
+
+    Sections, [act June 30, 1953, ch. 162][/us/act/1953-06-30/ch162], §§ 1–4, [67 Stat. 108–110][/us/stat/67/108-110], which authorized naturalization of persons who served in the Armed Forces after June 29, 1950, and not later than July 1, 1955, were omitted as obsolete, since the provisions of section 1 of act June 30, 1953, required the petition for naturalization to be filed not later than December 31, 1955. See sections 1440 and 1440e of this title.
+
 ----------
 
-[Previous](./../../../../../..//us/usc/t8/ch12/schIII/ptII/m__us_usc_t8_s1440.md) | [Next](./../../../../../..//us/usc/t8/ch12/schIII/ptII/m__us_usc_t8_s1440a to 1440d.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1440%E2%80%931)
+[Previous](./../../../../../..//us/usc/t8/ch12/schIII/ptII/m__us_usc_t8_s1440.md) | [Next](./../../../../../..//us/usc/t8/ch12/schIII/ptII/m__us_usc_t8_s1440e.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1440%E2%80%931)
 
 ----------
 ----------
@@ -111,5 +117,7 @@
 [/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
 [/us/pl/108/136/s1705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1705
 [/us/usc/t8/s1439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1439
+[/us/act/1953-06-30/ch162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-06-30%2Fch162
+[/us/stat/67/108-110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F108-110
 
 

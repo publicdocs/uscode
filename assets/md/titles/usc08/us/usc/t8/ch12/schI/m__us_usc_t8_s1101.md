@@ -147,9 +147,7 @@
 
                     (II) is an integral part of such actual performance,
 
-                    (III)
-
-                        (a) has critical skills and experience with such alien which are not of a general nature and which cannot be performed by other individuals, or (b) in the case of a motion picture or television production, has skills and experience with such alien which are not of a general nature and which are critical either based on a pre-existing longstanding working relationship or, with respect to the specific production, because significant production (including pre- and post-production work) will take place both inside and outside the United States and the continuing participation of the alien is essential to the successful completion of the production, and
+                    (III)    (a) has critical skills and experience with such alien which are not of a general nature and which cannot be performed by other individuals, or (b) in the case of a motion picture or television production, has skills and experience with such alien which are not of a general nature and which are critical either based on a pre-existing longstanding working relationship or, with respect to the specific production, because significant production (including pre- and post-production work) will take place both inside and outside the United States and the continuing participation of the alien is essential to the successful completion of the production, and
 
                     (IV) has a foreign residence which the alien has no intention of abandoning; or
 
@@ -159,9 +157,7 @@
 
              an alien having a foreign residence which the alien has no intention of abandoning who—
 
-                (i)
-
-                    (a) is described in [section 1184(c)(4)(A) of this title][/us/usc/t8/s1184/c/4/A] (relating to athletes), or (b) is described in [section 1184(c)(4)(B) of this title][/us/usc/t8/s1184/c/4/B] (relating to entertainment groups);
+                (i)    (a) is described in [section 1184(c)(4)(A) of this title][/us/usc/t8/s1184/c/4/A] (relating to athletes), or (b) is described in [section 1184(c)(4)(B) of this title][/us/usc/t8/s1184/c/4/B] (relating to entertainment groups);
 
                 (ii)
 
@@ -683,7 +679,7 @@
 
      For the purposes of this chapter—
 
-    No person shall be regarded as, or found to be, a person of good moral character who, during the period for which good moral character is required to be established is, or was—
+        No person shall be regarded as, or found to be, a person of good moral character who, during the period for which good moral character is required to be established is, or was—
 
         (1) a habitual drunkard;
 
@@ -729,7 +725,7 @@
 
  __Amendment of Subsection (a)(15)(H)(i)__ 
 
-For termination of amendment by [section 107(c) of Pub. L. 108–77][/us/pl/108/77/s107/c], see Effective and Termination Dates of 2003 Amendment note below.
+    For termination of amendment by [section 107(c) of Pub. L. 108–77][/us/pl/108/77/s107/c], see Effective and Termination Dates of 2003 Amendment note below.
 
  __References in Text__ 
 
@@ -1423,33 +1419,43 @@ For termination of amendment by [section 107(c) of Pub. L. 108–77][/us/pl/108/
 
 >                 For purposes of calculating the period of continuous physical presence under section 244(a) of the Immigration and Nationality Act \[former [8 U.S.C. 1254(a)][/us/usc/t8/s1254/a]\] (as in effect before the title III–A effective date) or section 240A of such Act \[[8 U.S.C. 1229b][/us/usc/t8/s1229b]\] (as in effect after the title III–A effective date), subparagraph (A) of this paragraph and paragraphs (1) and (2) of section 240A(d) of the Immigration and Nationality Act shall not apply in the case of an alien, regardless of whether the alien is in exclusion or deportation proceedings before the title III–A effective date, who has not been convicted at any time of an aggravated felony (as defined in section 101(a) of the Immigration and Nationality Act \[[8 U.S.C. 1101(a)][/us/usc/t8/s1101/a]\]) and—
 
->                      “(I) was not apprehended after December 19, 1990, at the time of entry, and is—
+>                          “(I)
 
->                     “(aa) a Salvadoran national who first entered the United States on or before September 19, 1990, and who registered for benefits pursuant to the settlement agreement in American Baptist Churches, et al. v. Thornburgh (ABC), 760 F. Supp. 796 (N.D. Cal. 1991) on or before October 31, 1991, or applied for temporary protected status on or before October 31, 1991; or
+>                      was not apprehended after December 19, 1990, at the time of entry, and is—
 
->                     “(bb) a Guatemalan national who first entered the United States on or before October 1, 1990, and who registered for benefits pursuant to such settlement agreement on or before December 31, 1991;         “(II) is a Guatemalan or Salvadoran national who filed an application for asylum with the Immigration and Naturalization Service on or before April 1, 1990;
+>                         “(aa) a Salvadoran national who first entered the United States on or before September 19, 1990, and who registered for benefits pursuant to the settlement agreement in American Baptist Churches, et al. v. Thornburgh (ABC), 760 F. Supp. 796 (N.D. Cal. 1991) on or before October 31, 1991, or applied for temporary protected status on or before October 31, 1991; or
 
->                              “(III) is the spouse or child (as defined in section 101(b)(1) of the Immigration and Nationality Act \[[8 U.S.C. 1101(b)(1)][/us/usc/t8/s1101/b/1]\]) of an individual, at the time a decision is rendered to suspend the deportation, or cancel the removal, of such individual, if the individual has been determined to be described in this clause (excluding this subclause and subclause (IV));
+>                         “(bb) a Guatemalan national who first entered the United States on or before October 1, 1990, and who registered for benefits pursuant to such settlement agreement on or before December 31, 1991;
 
->                              “(IV) is the unmarried son or daughter of an alien parent, at the time a decision is rendered to suspend the deportation, or cancel the removal, of such alien parent, if—
+>                          “(II) is a Guatemalan or Salvadoran national who filed an application for asylum with the Immigration and Naturalization Service on or before April 1, 1990;
 
->                     “(aa) the alien parent has been determined to be described in this clause (excluding this subclause and subclause (III)); and
+>                          “(III) is the spouse or child (as defined in section 101(b)(1) of the Immigration and Nationality Act \[[8 U.S.C. 1101(b)(1)][/us/usc/t8/s1101/b/1]\]) of an individual, at the time a decision is rendered to suspend the deportation, or cancel the removal, of such individual, if the individual has been determined to be described in this clause (excluding this subclause and subclause (IV));
 
->                     “(bb)
+>                          “(IV)
 
->                      in the case of a son or daughter who is 21 years of age or older at the time such decision is rendered, the son or daughter entered the United States on or before October 1, 1990;
+>                      is the unmarried son or daughter of an alien parent, at the time a decision is rendered to suspend the deportation, or cancel the removal, of such alien parent, if—
+
+>                         “(aa) the alien parent has been determined to be described in this clause (excluding this subclause and subclause (III)); and
+
+>                         “(bb) in the case of a son or daughter who is 21 years of age or older at the time such decision is rendered, the son or daughter entered the United States on or before October 1, 1990;
 
 >                          “(V) is an alien who entered the United States on or before December 31, 1990, who filed an application for asylum on or before December 31, 1991, and who, at the time of filing such application, was a national of the Soviet Union, Russia, any republic of the former Soviet Union, Latvia, Estonia, Lithuania, Poland, Czechoslovakia, Romania, Hungary, Bulgaria, Albania, East Germany, Yugoslavia, or any state of the former Yugoslavia; or
 
 >                          “(VI) is an alien who was issued an order to show cause or was in deportation proceedings before April 1, 1997, and who applied for suspension of deportation under section 244(a)(3) of the Immigration and Nationality Act \[former [8 U.S.C. 1254(a)(3)][/us/usc/t8/s1254/a/3]\] (as in effect before the date of the enactment of this Act \[Sept. 30, 1996\]); or
 
->                          “(VII)(aa) was the spouse or child of an alien described in subclause (I), (II), or (V)—
+>                          “(VII)
 
->                         “(AA) at the time at which a decision is rendered to suspend the deportation or cancel the removal of the alien;
+>                         (aa)
 
->                         “(BB) at the time at which the alien filed an application for suspension of deportation or cancellation of removal; or
+>                          was the spouse or child of an alien described in subclause (I), (II), or (V)—
 
->                         “(CC) at the time at which the alien registered for benefits under the settlement agreement in American Baptist Churches, et. al. v. Thornburgh (ABC), applied for temporary protected status, or applied for asylum; and         “(bb) the spouse, child, or child of the spouse has been battered or subjected to extreme cruelty by the alien described in subclause (I), (II), or (V).
+>                             “(AA) at the time at which a decision is rendered to suspend the deportation or cancel the removal of the alien;
+
+>                             “(BB) at the time at which the alien filed an application for suspension of deportation or cancellation of removal; or
+
+>                             “(CC) at the time at which the alien registered for benefits under the settlement agreement in American Baptist Churches, et. al. v. Thornburgh (ABC), applied for temporary protected status, or applied for asylum; and
+
+>                              “(bb) the spouse, child, or child of the spouse has been battered or subjected to extreme cruelty by the alien described in subclause (I), (II), or (V).
 
 >                 “(ii) __Limitation on judicial review.—__ 
 
@@ -2343,7 +2349,11 @@ For termination of amendment by [section 107(c) of Pub. L. 108–77][/us/pl/108/
 
 >                 “(i) was the spouse or child of a principal alien described in subparagraph (A) who had a petition for classification approved pursuant to this section or section 1059 of the National Defense Authorization Act for Fiscal Year 2006 ([Public Law 109–163][/us/pl/109/163]; [8 U.S.C. 1101][/us/usc/t8/s1101] note) which included the alien as an accompanying spouse or child; and
 
->                 “(ii) due to the death of the principal alien—         “(I) such petition was revoked or terminated (or otherwise rendered null); and
+>                 “(ii)
+
+>                  due to the death of the principal alien—
+
+>                          “(I) such petition was revoked or terminated (or otherwise rendered null); and
 
 >                          “(II) such petition would have been approved if the principal alien had survived.
 
@@ -2365,13 +2375,17 @@ For termination of amendment by [section 107(c) of Pub. L. 108–77][/us/pl/108/
 
 >                 “(i) __Fiscal years 2009 through 2013.—__ 
 
->                 If the numerical limitation specified in subparagraph (A) is not reached during a given fiscal year, with respect to fiscal year 2009, 2010, 2011, 2012, or 2013, the numerical limitation specified in such subparagraph for the following fiscal year shall be increased by a number equal to the difference between—         “(I) the numerical limitation specified in subparagraph (A) for the given fiscal year; and
+>                 If the numerical limitation specified in subparagraph (A) is not reached during a given fiscal year, with respect to fiscal year 2009, 2010, 2011, 2012, or 2013, the numerical limitation specified in such subparagraph for the following fiscal year shall be increased by a number equal to the difference between—
+
+>                          “(I) the numerical limitation specified in subparagraph (A) for the given fiscal year; and
 
 >                          “(II) the number of principal aliens provided special immigrant status under this section during the given fiscal year.
 
 >                 “(ii) __Fiscal year 2014.—__ 
 
->                 If the numerical limitation determined under clause (i) is not reached in fiscal year 2013, the total number of principal aliens who may be provided special immigrant status under this subsection for fiscal year 2014 shall be equal to the difference between—         “(I) the numerical limitation determined under clause (i) for fiscal year 2013; and
+>                 If the numerical limitation determined under clause (i) is not reached in fiscal year 2013, the total number of principal aliens who may be provided special immigrant status under this subsection for fiscal year 2014 shall be equal to the difference between—
+
+>                          “(I) the numerical limitation determined under clause (i) for fiscal year 2013; and
 
 >                          “(II) the number of principal aliens provided such status under this section during fiscal year 2013.
 
@@ -2437,11 +2451,19 @@ For termination of amendment by [section 107(c) of Pub. L. 108–77][/us/pl/108/
 
 >             Each report required by subparagraph (A) submitted in a fiscal year shall include the following information for the previous fiscal year:
 
->                 “(i) The number of citizens or nationals of Afghanistan or Iraq who submitted an application for status as a special immigrant pursuant to this section or section 1244 of the Refugee Crisis in Iraq Act of 2007 ([Public Law 110–181][/us/pl/110/181]; [122 Stat. 396][/us/stat/122/396]), disaggregated—         “(I) by the number of principal aliens applying for such status; and
+>                 “(i)
+
+>                  The number of citizens or nationals of Afghanistan or Iraq who submitted an application for status as a special immigrant pursuant to this section or section 1244 of the Refugee Crisis in Iraq Act of 2007 ([Public Law 110–181][/us/pl/110/181]; [122 Stat. 396][/us/stat/122/396]), disaggregated—
+
+>                          “(I) by the number of principal aliens applying for such status; and
 
 >                          “(II) by the number of spouses and children of principal aliens applying for such status.
 
->                 “(ii) The number of applications referred to in clause (i) that—         “(I) were approved; or
+>                 “(ii)
+
+>                  The number of applications referred to in clause (i) that—
+
+>                          “(I) were approved; or
 
 >                          “(II) were denied, including a description of the basis for each denial.
 
@@ -2713,7 +2735,7 @@ For termination of amendment by [section 107(c) of Pub. L. 108–77][/us/pl/108/
 
 >     “(6) regional humanitarian disasters,
 
->         the official shall be admitted to the United States, unless the official is otherwise inadmissible under the immigration laws of the United States.”
+>     the official shall be admitted to the United States, unless the official is otherwise inadmissible under the immigration laws of the United States.”
 
  __Construction of Expedited Deportation Requirements__ 
 

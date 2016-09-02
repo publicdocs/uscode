@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t8/ch6/schI/m__us_usc_t8_s103, 103a.md) | [Next](./../../../../..//us/usc/t8/ch6/schI/m__us_usc_t8_s105.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs104)
+[Previous](./../../../../..//us/usc/t8/ch6/schI/m__us_usc_t8_s102.md) | [Next](./../../../../..//us/usc/t8/ch6/schI/m__us_usc_t8_s105.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs104)
 
 ## § 104. Repealed. [Dec. 17, 1943, ch. 344, § 1][/us/act/1943-12-17/ch344/s1], [57 Stat. 600][/us/stat/57/600]
 
@@ -19,7 +19,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t8/ch6/schI/m__us_usc_t8_s103, 103a.md) | [Next](./../../../../..//us/usc/t8/ch6/schI/m__us_usc_t8_s105.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs104)
+[Previous](./../../../../..//us/usc/t8/ch6/schI/m__us_usc_t8_s102.md) | [Next](./../../../../..//us/usc/t8/ch6/schI/m__us_usc_t8_s105.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs104)
 
 ----------
 ----------

@@ -47,6 +47,20 @@
 
  __Surcharge for Processing Machine-Readable Nonimmigrant Visas__ 
 
+[Pub. L. 113–42, § 2][/us/pl/113/42/s2], Oct. 4, 2013, [127 Stat. 552][/us/stat/127/552], provided that:
+
+>     “(a) __In General.—__ 
+
+>     Notwithstanding any other provision of law, the Secretary of State, not later than January 1, 2014, shall increase the fee or surcharge authorized under section 140(a) of the Foreign Relations Authorization Act, Fiscal Years 1994 and 1995 ([Public Law 103–236][/us/pl/103/236]; [8 U.S.C. 1351][/us/usc/t8/s1351] note) by $1 for processing machine-readable nonimmigrant visas and machine-readable combined border crossing identification cards and nonimmigrant visas.
+
+>     “(b) __Deposit of Amounts.—__ 
+
+>     Notwithstanding section 140(a)(2) of the Foreign Relations Authorization Act, Fiscal Years 1994 and 1995 ([Public Law 103–236][/us/pl/103/236]; [8 U.S.C. 1351][/us/usc/t8/s1351] note), the additional amount collected pursuant \[to\] the fee increase authorized under subsection (a) shall be deposited in the general fund of the Treasury.
+
+>     “(c) __Sunset Provision.—__ 
+
+>     The fee increase authorized under subsection (a) shall terminate on the date that is 2 years after the first date on which such increased fee is collected.”
+
 [Pub. L. 110–457, title II, § 239][/us/pl/110/457/s239], Dec. 23, 2008, [122 Stat. 5085][/us/stat/122/5085], provided that:
 
 >     “(a) __Increase in Fee.—__ 
@@ -174,6 +188,12 @@ Provisions directing the continuing effect for specific periods of authorities p
 [/us/pl/89/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F236
 [/us/pl/89/236/s20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F236%2Fs20
 [/us/usc/t8/s1151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1151
+[/us/pl/113/42/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F42%2Fs2
+[/us/stat/127/552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F552
+[/us/pl/103/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236
+[/us/usc/t8/s1351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1351
+[/us/pl/103/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236
+[/us/usc/t8/s1351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1351
 [/us/pl/110/457/s239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F457%2Fs239
 [/us/stat/122/5085]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F5085
 [/us/pl/103/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236

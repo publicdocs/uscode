@@ -283,7 +283,7 @@
 
  __Amendment of Section__ 
 
-For termination of amendment by [section 107(c) of Pub. L. 108–77][/us/pl/108/77/s107/c], see Effective and Termination Dates of 2003 Amendment note below.
+    For termination of amendment by [section 107(c) of Pub. L. 108–77][/us/pl/108/77/s107/c], see Effective and Termination Dates of 2003 Amendment note below.
 
  __References in Text__ 
 

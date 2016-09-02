@@ -607,11 +607,9 @@
 
              at a public secondary school unless—
 
-                (i)
+                (i) the aggregate period of such status at such a school does not exceed 12 months with respect to any alien, and (ii) the alien demonstrates that the alien has reimbursed the local educational agency that administers the school for the full, unsubsidized per capita cost of providing education at such school for the period of the alien’s attendance.
 
-                 the aggregate period of such status at such a school does not exceed 12 months with respect to any alien, and (ii) the alien demonstrates that the alien has reimbursed the local educational agency that administers the school for the full, unsubsidized per capita cost of providing education at such school for the period of the alien’s attendance.
-
-                    (2) An alien who obtains the status of a nonimmigrant under clause (i) or (iii) of [section 1101(a)(15)(F) of this title][/us/usc/t8/s1101/a/15/F] in order to pursue a course of study at a private elementary or secondary school or in a language training program that is not publicly funded shall be considered to have violated such status, and the alien’s visa under [section 1101(a)(15)(F) of this title][/us/usc/t8/s1101/a/15/F] shall be void, if the alien terminates or abandons such course of study at such a school and undertakes a course of study at a public elementary school, in a publicly funded adult education program, in a publicly funded adult education language training program, or at a public secondary school (unless the requirements of paragraph (1)(B) are met).
+        (2) An alien who obtains the status of a nonimmigrant under clause (i) or (iii) of [section 1101(a)(15)(F) of this title][/us/usc/t8/s1101/a/15/F] in order to pursue a course of study at a private elementary or secondary school or in a language training program that is not publicly funded shall be considered to have violated such status, and the alien’s visa under [section 1101(a)(15)(F) of this title][/us/usc/t8/s1101/a/15/F] shall be void, if the alien terminates or abandons such course of study at such a school and undertakes a course of study at a public elementary school, in a publicly funded adult education program, in a publicly funded adult education language training program, or at a public secondary school (unless the requirements of paragraph (1)(B) are met).
 
     (n) __Increased portability of H–1B status__ 
 
@@ -775,11 +773,11 @@
 
  __Amendment of Section__ 
 
-For termination of amendment by [section 107(c) of Pub. L. 108–78][/us/pl/108/78/s107/c], see Effective and Termination Dates of 2003 Amendment note below.
+    For termination of amendment by [section 107(c) of Pub. L. 108–78][/us/pl/108/78/s107/c], see Effective and Termination Dates of 2003 Amendment note below.
 
-For termination of amendment by [section 107(c) of Pub. L. 108–77][/us/pl/108/77/s107/c], see Effective and Termination Dates of 2003 Amendment note below.
+    For termination of amendment by [section 107(c) of Pub. L. 108–77][/us/pl/108/77/s107/c], see Effective and Termination Dates of 2003 Amendment note below.
 
-For termination of amendment by [section 501(c) of Pub. L. 100–449][/us/pl/100/449/s501/c], see Effective and Termination Dates of 1988 Amendment note below.
+    For termination of amendment by [section 501(c) of Pub. L. 100–449][/us/pl/100/449/s501/c], see Effective and Termination Dates of 1988 Amendment note below.
 
  __References in Text__ 
 
@@ -1281,7 +1279,7 @@ For termination of amendment by [section 501(c) of Pub. L. 100–449][/us/pl/100
 
 >     “(2) is eligible to be granted that status but for application of the per country limitations applicable to immigrants under those paragraphs,
 
->         may apply for, and the Attorney General may grant, an extension of such nonimmigrant status until the alien’s application for adjustment of status has been processed and a decision made thereon.”
+>     may apply for, and the Attorney General may grant, an extension of such nonimmigrant status until the alien’s application for adjustment of status has been processed and a decision made thereon.”
 
  __Special Provisions in Cases of Lengthy Adjudications__ 
 

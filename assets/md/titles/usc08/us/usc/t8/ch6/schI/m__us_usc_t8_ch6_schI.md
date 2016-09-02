@@ -11,16 +11,26 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t8/ch6/m__us_usc_t8_ch6.md) | [Next](./../../../../..//us/usc/t8/ch6/schI/m__us_usc_t8_s100, 101.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fch6%2FschI)
+[Previous](./../../../../..//us/usc/t8/ch6/m__us_usc_t8_ch6.md) | [Next](./../../../../..//us/usc/t8/ch6/schI/m__us_usc_t8_s102.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fch6%2FschI)
 
 ### SUBCHAPTER I—IMMIGRATION AND NATURALIZATION AGENCIES, OFFICERS, AND STATIONS
 
+§§ 100, 101. __Transferred__ 
+
+ __Codification__ 
+
+    Section 100 transferred to [section 1551 of this title][/us/usc/t8/s1551].
+
+    Section 101 transferred to [section 1552 of this title][/us/usc/t8/s1552].
+
 ----------
 
-[Previous](./../../../../..//us/usc/t8/ch6/m__us_usc_t8_ch6.md) | [Next](./../../../../..//us/usc/t8/ch6/schI/m__us_usc_t8_s100, 101.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fch6%2FschI)
+[Previous](./../../../../..//us/usc/t8/ch6/m__us_usc_t8_ch6.md) | [Next](./../../../../..//us/usc/t8/ch6/schI/m__us_usc_t8_s102.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fch6%2FschI)
 
 ----------
 ----------
 
+[/us/usc/t8/s1551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1551
+[/us/usc/t8/s1552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1552
 
 

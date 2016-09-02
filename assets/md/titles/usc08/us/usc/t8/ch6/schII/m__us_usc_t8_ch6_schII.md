@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t8/ch6/schI/m__us_usc_t8_s117, 118.md) | [Next](./../../../../..//us/usc/t8/ch6/schII/m__us_usc_t8_s131.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fch6%2FschII)
+[Previous](./../../../../..//us/usc/t8/ch6/schI/m__us_usc_t8_s114.md) | [Next](./../../../../..//us/usc/t8/ch6/schII/m__us_usc_t8_s131.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fch6%2FschII)
 
 ### SUBCHAPTER II—REGULATION AND RESTRICTION OF IMMIGRATION IN GENERAL
 
 ----------
 
-[Previous](./../../../../..//us/usc/t8/ch6/schI/m__us_usc_t8_s117, 118.md) | [Next](./../../../../..//us/usc/t8/ch6/schII/m__us_usc_t8_s131.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fch6%2FschII)
+[Previous](./../../../../..//us/usc/t8/ch6/schI/m__us_usc_t8_s114.md) | [Next](./../../../../..//us/usc/t8/ch6/schII/m__us_usc_t8_s131.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fch6%2FschII)
 
 ----------
 ----------

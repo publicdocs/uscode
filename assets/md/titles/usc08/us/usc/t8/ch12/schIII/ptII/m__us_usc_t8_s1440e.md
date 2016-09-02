@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t8/ch12/schIII/ptII/m__us_usc_t8_s1440a to 1440d.md) | [Next](./../../../../../..//us/usc/t8/ch12/schIII/ptII/m__us_usc_t8_s1440f.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1440e)
+[Previous](./../../../../../..//us/usc/t8/ch12/schIII/ptII/m__us_usc_t8_s1440–1.md) | [Next](./../../../../../..//us/usc/t8/ch12/schIII/ptII/m__us_usc_t8_s1440f.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1440e)
 
 ## § 1440e. Exemption from naturalization fees for aliens naturalized through service during Vietnam hostilities or other subsequent period of military hostilities; report by clerks of courts to Attorney General
 
@@ -33,7 +33,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t8/ch12/schIII/ptII/m__us_usc_t8_s1440a to 1440d.md) | [Next](./../../../../../..//us/usc/t8/ch12/schIII/ptII/m__us_usc_t8_s1440f.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1440e)
+[Previous](./../../../../../..//us/usc/t8/ch12/schIII/ptII/m__us_usc_t8_s1440–1.md) | [Next](./../../../../../..//us/usc/t8/ch12/schIII/ptII/m__us_usc_t8_s1440f.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1440e)
 
 ----------
 ----------

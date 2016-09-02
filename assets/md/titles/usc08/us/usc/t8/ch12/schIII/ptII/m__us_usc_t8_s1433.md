@@ -19,7 +19,7 @@
 
     A parent who is a citizen of the United States (or, if the citizen parent has died during the preceding 5 years, a citizen grandparent or citizen legal guardian) may apply for naturalization on behalf of a child born outside of the United States who has not acquired citizenship automatically under [section 1431 of this title][/us/usc/t8/s1431]. The Attorney General shall issue a certificate of citizenship to such applicant upon proof, to the satisfaction of the Attorney General, that the following conditions have been fulfilled:
 
-        (1) At least one parent (or, at the time of his or her death, was) is a citizen of the United States, whether by birth or naturalization.
+        (1) At least one parent (or, at the time of his or her death, was) is  <sup>\[1\]</sup>  <sup><sup> 1 So in original. The word “is” probably should appear after “parent”. </sup></sup>  a citizen of the United States, whether by birth or naturalization.
 
         (2)
 

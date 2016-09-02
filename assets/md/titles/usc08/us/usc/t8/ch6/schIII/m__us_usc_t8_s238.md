@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t8/ch6/schIII/m__us_usc_t8_s232 to 237.md) | [Next](./../../../../..//us/usc/t8/ch6/schIII/m__us_usc_t8_s239.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs238)
+[Previous](./../../../../..//us/usc/t8/ch6/schIII/m__us_usc_t8_s228.md) | [Next](./../../../../..//us/usc/t8/ch6/schIII/m__us_usc_t8_s239.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs238)
 
 ## § 238. Transferred
 
@@ -21,7 +21,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t8/ch6/schIII/m__us_usc_t8_s232 to 237.md) | [Next](./../../../../..//us/usc/t8/ch6/schIII/m__us_usc_t8_s239.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs238)
+[Previous](./../../../../..//us/usc/t8/ch6/schIII/m__us_usc_t8_s228.md) | [Next](./../../../../..//us/usc/t8/ch6/schIII/m__us_usc_t8_s239.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs238)
 
 ----------
 ----------

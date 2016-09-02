@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t8/ch12/schII/ptII/m__us_usc_t8_s1182a to 1182c.md) | [Next](./../../../../../..//us/usc/t8/ch12/schII/ptII/m__us_usc_t8_s1182e.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1182d)
+[Previous](./../../../../../..//us/usc/t8/ch12/schII/ptII/m__us_usc_t8_s1182.md) | [Next](./../../../../../..//us/usc/t8/ch12/schII/ptII/m__us_usc_t8_s1182e.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1182d)
 
 ## § 1182d. Denial of visas to confiscators of American property
 
@@ -47,7 +47,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t8/ch12/schII/ptII/m__us_usc_t8_s1182a to 1182c.md) | [Next](./../../../../../..//us/usc/t8/ch12/schII/ptII/m__us_usc_t8_s1182e.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1182d)
+[Previous](./../../../../../..//us/usc/t8/ch12/schII/ptII/m__us_usc_t8_s1182.md) | [Next](./../../../../../..//us/usc/t8/ch12/schII/ptII/m__us_usc_t8_s1182e.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1182d)
 
 ----------
 ----------

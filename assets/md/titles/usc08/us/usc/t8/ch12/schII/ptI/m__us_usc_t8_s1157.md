@@ -143,7 +143,7 @@
 
  __Iraq Refugee Crisis__ 
 
-[Pub. L. 110–181, div. A, title XII][/us/pl/110/181], subtitle C, Jan. 28, 2008, [122 Stat. 395][/us/stat/122/395], as amended by [Pub. L. 110–242, § 1][/us/pl/110/242/s1], June 3, 2008, [122 Stat. 1567][/us/stat/122/1567]; [Pub. L. 111–84, div. A, title VIII, § 813(d)][/us/pl/111/84/s813/d], Oct. 28, 2009, [123 Stat. 2407][/us/stat/123/2407]; [Pub. L. 111–118, div. A, title VIII, § 8120(a)][/us/pl/111/118/s8120/a], Dec. 19, 2009, [123 Stat. 3457][/us/stat/123/3457]; [Pub. L. 111–383, div. A, title X, § 1075(f)(9)][/us/pl/111/383/s1075/f/9], (10), Jan. 7, 2011, [124 Stat. 4376][/us/stat/124/4376], provided that:
+[Pub. L. 110–181, div. A, title XII][/us/pl/110/181], subtitle C, Jan. 28, 2008, [122 Stat. 395][/us/stat/122/395], as amended by [Pub. L. 110–242, § 1][/us/pl/110/242/s1], June 3, 2008, [122 Stat. 1567][/us/stat/122/1567]; [Pub. L. 111–84, div. A, title VIII, § 813(d)][/us/pl/111/84/s813/d], Oct. 28, 2009, [123 Stat. 2407][/us/stat/123/2407]; [Pub. L. 111–118, div. A, title VIII, § 8120(a)][/us/pl/111/118/s8120/a], Dec. 19, 2009, [123 Stat. 3457][/us/stat/123/3457]; [Pub. L. 111–383, div. A, title X, § 1075(f)(9)][/us/pl/111/383/s1075/f/9], (10), Jan. 7, 2011, [124 Stat. 4376][/us/stat/124/4376]; [Pub. L. 113–42, § 1][/us/pl/113/42/s1], Oct. 4, 2013, [127 Stat. 552][/us/stat/127/552], provided that:
 
 > “SEC. 1241. __SHORT TITLE.__ 
 
@@ -294,6 +294,24 @@
 >                 “(i) the numerical limitation specified in paragraph (1) for fiscal year 2012; and
 
 >                 “(ii) the number of principal aliens provided such status under this section during fiscal year 2012.
+
+>             “(C) __Fiscal year 2014.—__ 
+
+>                 “(i) __In general.—__ 
+
+>                 Except as provided in clauses (ii) and (iii), the total number of principal aliens who may be provided special immigrant status under this section during the first 3 months of fiscal year 2014 shall be the sum of—
+
+>                          “(I) the number of aliens described in subsection (b) whose application for special immigrant status under this section is pending on September 30, 2013; and
+
+>                          “(II) 2,000.
+
+>                 “(ii) __Employment period.—__ 
+
+>                 The 1-year period during which the principal alien is required to have been employed by or on behalf of the United States Government in Iraq under subsection (b)(1)(B) shall begin on or after March 20, 2003, and end on or before September 30, 2013.
+
+>                 “(iii) __Application deadline.—__ 
+
+>                 The principal alien seeking special immigrant status under this subparagraph shall apply to the Chief of Mission in accordance with subsection (b)(4) not later than December 31, 2013.
 
 >     “(d) __Visa and Passport Issuance and Fees.—__ 
 
@@ -845,6 +863,8 @@ By the authority vested in me as President by the Constitution and laws of the U
 [/us/stat/123/3457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F3457
 [/us/pl/111/383/s1075/f/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1075%2Ff%2F9
 [/us/stat/124/4376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4376
+[/us/pl/113/42/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F42%2Fs1
+[/us/stat/127/552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F552
 [/us/usc/t8/s1151/b/2/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1151%2Fb%2F2%2FA%2Fi
 [/us/usc/t50/s401a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs401a%2F4
 [/us/usc/t50/s3003/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3003%2F4

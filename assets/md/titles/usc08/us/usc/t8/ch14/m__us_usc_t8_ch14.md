@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1601.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft8%2Fs1601" data-uslm-ref="/us/usc/t8/s1601">1601.</a>  </td>
 
     <td> Statements of national policy concerning welfare and immigration.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—ELIGIBILITY FOR FEDERAL BENEFITS  </td>
 
   <tr>
 
-    <td> 1611.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft8%2Fs1611" data-uslm-ref="/us/usc/t8/s1611">1611.</a>  </td>
 
     <td> Aliens who are not qualified aliens ineligible for Federal public benefits.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—ELIGIBILITY FOR FEDERAL BENEFITS  </td>
 
   <tr>
 
-    <td> 1612.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft8%2Fs1612" data-uslm-ref="/us/usc/t8/s1612">1612.</a>  </td>
 
     <td> Limited eligibility of qualified aliens for certain Federal programs.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER I—ELIGIBILITY FOR FEDERAL BENEFITS  </td>
 
   <tr>
 
-    <td> 1613.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft8%2Fs1613" data-uslm-ref="/us/usc/t8/s1613">1613.</a>  </td>
 
     <td> Five-year limited eligibility of qualified aliens for Federal means-tested public benefit.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER I—ELIGIBILITY FOR FEDERAL BENEFITS  </td>
 
   <tr>
 
-    <td> 1614.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft8%2Fs1614" data-uslm-ref="/us/usc/t8/s1614">1614.</a>  </td>
 
     <td> Notification and information reporting.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER I—ELIGIBILITY FOR FEDERAL BENEFITS  </td>
 
   <tr>
 
-    <td> 1615.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft8%2Fs1615" data-uslm-ref="/us/usc/t8/s1615">1615.</a>  </td>
 
     <td> Requirements relating to provision of benefits based on citizenship, alienage, or immigration status under the Richard B. Russell National School Lunch Act, the Child Nutrition Act of 1966, and certain other Acts.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER II—ELIGIBILITY FOR STATE AND LOCAL PUBLIC BENEFITS PROGRAMS  </td>
 
   <tr>
 
-    <td> 1621.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft8%2Fs1621" data-uslm-ref="/us/usc/t8/s1621">1621.</a>  </td>
 
     <td> Aliens who are not qualified aliens or nonimmigrants ineligible for State and local public benefits.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER II—ELIGIBILITY FOR STATE AND LOCAL PUBLIC BENEFITS PROGRAMS  </td>
 
   <tr>
 
-    <td> 1622.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft8%2Fs1622" data-uslm-ref="/us/usc/t8/s1622">1622.</a>  </td>
 
     <td> State authority to limit eligibility of qualified aliens for State public benefits.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER II—ELIGIBILITY FOR STATE AND LOCAL PUBLIC BENEFITS PROGRAMS  </td>
 
   <tr>
 
-    <td> 1623.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft8%2Fs1623" data-uslm-ref="/us/usc/t8/s1623">1623.</a>  </td>
 
     <td> Limitation on eligibility for preferential treatment of aliens not lawfully present on basis of residence for higher education benefits.  </td>
 
@@ -113,7 +113,7 @@ SUBCHAPTER II—ELIGIBILITY FOR STATE AND LOCAL PUBLIC BENEFITS PROGRAMS  </td>
 
   <tr>
 
-    <td> 1624.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft8%2Fs1624" data-uslm-ref="/us/usc/t8/s1624">1624.</a>  </td>
 
     <td> Authority of States and political subdivisions of States to limit assistance to aliens and to distinguish among classes of aliens in providing general cash public assistance.  </td>
 
@@ -121,7 +121,7 @@ SUBCHAPTER II—ELIGIBILITY FOR STATE AND LOCAL PUBLIC BENEFITS PROGRAMS  </td>
 
   <tr>
 
-    <td> 1625.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft8%2Fs1625" data-uslm-ref="/us/usc/t8/s1625">1625.</a>  </td>
 
     <td> Authorization for verification of eligibility for State and local public benefits.  </td>
 
@@ -137,7 +137,7 @@ SUBCHAPTER III—ATTRIBUTION OF INCOME AND AFFIDAVITS OF SUPPORT  </td>
 
   <tr>
 
-    <td> 1631.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft8%2Fs1631" data-uslm-ref="/us/usc/t8/s1631">1631.</a>  </td>
 
     <td> Federal attribution of sponsor’s income and resources to alien.  </td>
 
@@ -145,7 +145,7 @@ SUBCHAPTER III—ATTRIBUTION OF INCOME AND AFFIDAVITS OF SUPPORT  </td>
 
   <tr>
 
-    <td> 1632.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft8%2Fs1632" data-uslm-ref="/us/usc/t8/s1632">1632.</a>  </td>
 
     <td> Authority for States to provide for attribution of sponsors income and resources to the alien with respect to State programs.  </td>
 
@@ -161,7 +161,7 @@ SUBCHAPTER IV—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1641.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft8%2Fs1641" data-uslm-ref="/us/usc/t8/s1641">1641.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -169,7 +169,7 @@ SUBCHAPTER IV—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1642.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft8%2Fs1642" data-uslm-ref="/us/usc/t8/s1642">1642.</a>  </td>
 
     <td> Verification of eligibility for Federal public benefits.  </td>
 
@@ -177,7 +177,7 @@ SUBCHAPTER IV—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1643.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft8%2Fs1643" data-uslm-ref="/us/usc/t8/s1643">1643.</a>  </td>
 
     <td> Statutory construction.  </td>
 
@@ -185,7 +185,7 @@ SUBCHAPTER IV—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1644.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft8%2Fs1644" data-uslm-ref="/us/usc/t8/s1644">1644.</a>  </td>
 
     <td> Communication between State and local government agencies and Immigration and Naturalization Service.  </td>
 
@@ -193,7 +193,7 @@ SUBCHAPTER IV—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1645.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft8%2Fs1645" data-uslm-ref="/us/usc/t8/s1645">1645.</a>  </td>
 
     <td> Qualifying quarters.  </td>
 
@@ -201,7 +201,7 @@ SUBCHAPTER IV—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1646.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft8%2Fs1646" data-uslm-ref="/us/usc/t8/s1646">1646.</a>  </td>
 
     <td> Derivative eligibility for benefits.  </td>
 

@@ -69,7 +69,7 @@
 
  __Amendment of Section__ 
 
-For repeal of amendment by [section 4 of Pub. L. 110–382][/us/pl/110/382/s4], see Termination Date of 2008 Amendment note below.
+    For repeal of amendment by [section 4 of Pub. L. 110–382][/us/pl/110/382/s4], see Termination Date of 2008 Amendment note below.
 
  __Amendments__ 
 

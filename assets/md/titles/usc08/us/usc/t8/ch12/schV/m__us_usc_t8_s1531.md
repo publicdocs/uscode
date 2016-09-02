@@ -15,7 +15,7 @@
 
 ## § 1531. Definitions
 
-As used in this subchapter—
+    As used in this subchapter—
 
     (1) the term “alien terrorist” means any alien described in [section 1227(a)(4)(B) of this title][/us/usc/t8/s1227/a/4/B];
 

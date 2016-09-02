@@ -573,277 +573,353 @@
 
 > “That this Act may be cited as the ‘Refugee Education Assistance Act of 1980’.
 
- __“Title I—General Provisions__ 
+> “Title I— __General Provisions__ 
 
- __“definitions__ 
+>  __“definitions__ 
 
-    “Sec. 101. As used in this Act—
+> “Sec. 101.
 
-    “(1) The terms ‘elementary school’, ‘local educational agency’, ‘secondary school’, ‘State’, and ‘State educational agency’ have the meanings given such terms under section 9101 of the Elementary and Secondary Education Act of 1965 \[[20 U.S.C. 7801][/us/usc/t20/s7801]\].
+>  As used in this Act—
 
-    “(2) The term ‘elementary or secondary nonpublic schools’ means schools which comply with the compulsory education laws of the State and which are exempt from taxation under section 501(c)(3) of the Internal Revenue Code of 1986 \[[26 U.S.C. 501(c)(3)][/us/usc/t26/s501/c/3]\].
+>     “(1) The terms ‘elementary school’, ‘local educational agency’, ‘secondary school’, ‘State’, and ‘State educational agency’ have the meanings given such terms under section 9101 of the Elementary and Secondary Education Act of 1965 \[[20 U.S.C. 7801][/us/usc/t20/s7801]\].
 
-    “(3) The term ‘eligible participant’ means any alien who—
+>     “(2) The term ‘elementary or secondary nonpublic schools’ means schools which comply with the compulsory education laws of the State and which are exempt from taxation under section 501(c)(3) of the Internal Revenue Code of 1986 \[[26 U.S.C. 501(c)(3)][/us/usc/t26/s501/c/3]\].
 
-    “(A) has been admitted into the United States as a refugee under section 207 of the Immigration and Nationality Act \[[section 1157 of this title][/us/usc/t8/s1157]\];
+>     “(3)
 
-    “(B) has been paroled into the United States as a refugee by the Attorney General pursuant to section 212(d)(5) of such Act \[[section 1182(d)(5) of this title][/us/usc/t8/s1182/d/5]\];
+>      The term ‘eligible participant’ means any alien who—
 
-    “(C) is an applicant for asylum, or has been granted asylum, in the United States; or
+>         “(A) has been admitted into the United States as a refugee under section 207 of the Immigration and Nationality Act \[[section 1157 of this title][/us/usc/t8/s1157]\];
 
-    “(D) has fled from the alien’s country of origin and has, pursuant to an Executive order of the President, been permitted to enter the United States and remain in the United States indefinitely for humanitarian reasons;
+>         “(B) has been paroled into the United States as a refugee by the Attorney General pursuant to section 212(d)(5) of such Act \[[section 1182(d)(5) of this title][/us/usc/t8/s1182/d/5]\];
 
-    but only during the 36-month \[period\] beginning with the first month in which the alien entered the United States (in the case of an alien described in (A), (B), or (D)) or the month in which the alien applied for asylum (in the case of an alien described in subparagraph (C)).
+>         “(C) is an applicant for asylum, or has been granted asylum, in the United States; or
 
-    “(4) The term ‘Secretary’ means the Secretary of Education.
+>         “(D) has fled from the alien’s country of origin and has, pursuant to an Executive order of the President, been permitted to enter the United States and remain in the United States indefinitely for humanitarian reasons;
 
- __“authorizations and allocation of appropriations__ 
+>         but only during the 36-month \[period\] beginning with the first month in which the alien entered the United States (in the case of an alien described in (A), (B), or (D)) or the month in which the alien applied for asylum (in the case of an alien described in subparagraph (C)).
 
-    “Sec. 102. (a) There are authorized to be appropriated for each of the fiscal years 1981, 1982, and 1983, but only in a lump sum for all programs under this Act, subject to allocation in accordance with subsection (b), such sums as may be necessary to make payments to which State educational agencies are entitled under this Act and payments for administration under section 104.
+>     “(4) The term ‘Secretary’ means the Secretary of Education.
 
-    “(b)(1) If the sums appropriated for any fiscal year to make payments to States under this Act are not sufficient to pay in full the sum of the amounts which State educational agencies are entitled to receive under titles II through IV for such year, the allocations to State educational agencies under each of such titles shall be ratably reduced by the same percentage to the extent necessary to bring the aggregate of such allocations within the limits of the amounts so appropriated.
+>  __“authorizations and allocation of appropriations__ 
 
-    “(2) In the event that funds become available for making payments under this Act for any period after allocations have been made under paragraph (1) of this subsection for such period, the amounts reduced under such paragraph shall be increased on the same basis as they were reduced.
+> “Sec. 102.
 
- __“treatment of certain jurisdictions__ 
+>      (a) There are authorized to be appropriated for each of the fiscal years 1981, 1982, and 1983, but only in a lump sum for all programs under this Act, subject to allocation in accordance with subsection (b), such sums as may be necessary to make payments to which State educational agencies are entitled under this Act and payments for administration under section 104.
 
-    “Sec. 103. (a) The jurisdictions to which this section applies are Guam, American Samoa, the Virgin Islands, the Northern Mariana Islands, and the Trust Territory of the Pacific Islands.
+>     “(b)
 
-    “(b)(1) Each jurisdiction to which this section applies shall be entitled to grants for the purposes set forth in sections 201(a), 302, and 402 in amounts equal to amounts determined by the Secretary in accordance with criteria established by the Secretary, except that the aggregate of the amount to which such jurisdictions are so entitled for any period—
+>         (1) If the sums appropriated for any fiscal year to make payments to States under this Act are not sufficient to pay in full the sum of the amounts which State educational agencies are entitled to receive under titles II through IV for such year, the allocations to State educational agencies under each of such titles shall be ratably reduced by the same percentage to the extent necessary to bring the aggregate of such allocations within the limits of the amounts so appropriated.
 
-    “(A) for the purposes set forth in section 201(a), shall not exceed an amount equal to 1 percent of the amount authorized to be appropriated under section 201 for that period;
+>         “(2) In the event that funds become available for making payments under this Act for any period after allocations have been made under paragraph (1) of this subsection for such period, the amounts reduced under such paragraph shall be increased on the same basis as they were reduced.
 
-    “(B) for the purposes set forth in section 302, shall not exceed an amount equal to 1 percent of the aggregate of the amounts to which all States are entitled under section 301 for that period; and
+>  __“treatment of certain jurisdictions__ 
 
-    “(C) for the purposes set forth in section 402, shall not exceed an amount equal to 1 percent of the aggregate of the amounts to which all States are entitled under section 401 for that period.
+> “Sec. 103.
 
-    “(2) If the aggregate of the amounts determined by the Secretary pursuant to paragraph (1) to be so needed for any period exceeds an amount equal to such 1 percent limitation, the entitlement of each such jurisdiction shall be reduced proportionately until such aggregate does not exceed such limitation.
+>      (a) The jurisdictions to which this section applies are Guam, American Samoa, the Virgin Islands, the Northern Mariana Islands, and the Trust Territory of the Pacific Islands.
 
- __“state administrative costs__ 
+>     “(b)
 
-    “Sec. 104. The Secretary is authorized to pay to each State educational agency amounts equal to the amounts expended by it for the proper and efficient administration of its functions under this Act, except that the total of such payments or any period shall not exceed 2 percent of the amount which that State educational agency receives for that period under this Act.
+>         (1)
 
- __“withholding__ 
+>          Each jurisdiction to which this section applies shall be entitled to grants for the purposes set forth in sections 201(a), 302, and 402 in amounts equal to amounts determined by the Secretary in accordance with criteria established by the Secretary, except that the aggregate of the amount to which such jurisdictions are so entitled for any period—
 
-    “Sec. 105. Whenever the Secretary, after reasonable notice and opportunity for a hearing to any State educational agency, finds that there is a failure to meet the requirements of any title of this Act, the Secretary shall notify that agency that further payments will not be made to the agency under such title, or in the discretion of the Secretary, that the State educational agency shall not make further payments under such title to specified local education agencies or other entities (in the case of funds under title IV) whose actions cause or are involved in such failure until the Secretary is satisfied that there is no longer any such failure to comply. Until the Secretary is so satisfied, no further payments shall be made to the State educational agency under such title, or payments by the State educational agency under such title shall be limited to local educational agencies or other entities (in the case of funds under title IV) whose actions did not cause or were not involved in the failure, as the case may be.
+>             “(A) for the purposes set forth in section 201(a), shall not exceed an amount equal to 1 percent of the amount authorized to be appropriated under section 201 for that period;
 
- __“consultation with other agencies__ 
+>             “(B) for the purposes set forth in section 302, shall not exceed an amount equal to 1 percent of the aggregate of the amounts to which all States are entitled under section 301 for that period; and
 
-    “Sec. 106. To the extent that may be appropriate to facilitate the determination of the amount of any reductions under sections 201(b)(2), 301(b)(3), and 401(b)(2), the Secretary shall consult with the heads of other agencies providing assistance to eligible participants in order to secure information concerning the disbursement of funds for educational purposes under programs administered by them and provide, wherever feasible, for coordination among those programs and the programs under titles II through IV of this Act.
+>             “(C) for the purposes set forth in section 402, shall not exceed an amount equal to 1 percent of the aggregate of the amounts to which all States are entitled under section 401 for that period.
 
- __“Title II—General Assistance for Local Educational Agencies__ 
+>         “(2) If the aggregate of the amounts determined by the Secretary pursuant to paragraph (1) to be so needed for any period exceeds an amount equal to such 1 percent limitation, the entitlement of each such jurisdiction shall be reduced proportionately until such aggregate does not exceed such limitation.
 
- __“state entitlements__ 
+>  __“state administrative costs__ 
 
-    “Sec. 201. (a) The Secretary shall, in accordance with the provisions of this title, make grants to State educational agencies for fiscal year 1981, and for each subsequent fiscal year, for the purposes of assisting local educational agencies of that State in providing basic education for eligible participants enrolled in elementary or secondary public schools. Payments made under this title to any State shall be used in accordance with applications approved under section 202 for public educational services for eligible participants enrolled in the elementary and secondary public schools under the jurisdiction of the local educational agencies of that State.
+> “Sec. 104. The Secretary is authorized to pay to each State educational agency amounts equal to the amounts expended by it for the proper and efficient administration of its functions under this Act, except that the total of such payments or any period shall not exceed 2 percent of the amount which that State educational agency receives for that period under this Act.
 
-    “(b)(1) As soon as possible after the date of the enactment of the Consolidated Refugee Education Assistance Act \[Aug. 13, 1981\], the Secretary shall establish a formula (reflecting the availability of the full amount authorized for this title under section 203(b)) by which to determine the amount of the grant which each State educational agency is entitled to receive under this title for any fiscal year. The formula established by the Secretary shall take into account the number of years that an eligible participant assisted under this title has resided within the United States and the relative costs, by grade level, of providing education for elementary and secondary school children. On the basis of the formula the Secretary shall allocate among the State educational agencies, for each fiscal year, the amounts available to carry out this title, subject to such reductions or adjustments as may be required under paragraph (2) or subsection (c). Funds shall be allocated among State educational agencies pursuant to the formula without regard to variations in educational costs among different geographical areas.
+>  __“withholding__ 
 
-    “(2) The amount of the grant to which a State educational agency is otherwise entitled for any fiscal year, as determined under paragraph (1), shall be reduced by the amounts made available for such fiscal year under any other Federal law for expenditure within the State for the same purposes as those for which funds are made available under this title, except that the reduction shall be made only to the extent that (A) such amounts are made available for such purposes specifically because of the refugee, parolee, or asylee status of the individuals to be served by such funds, and (B) such amounts are made available to provide assistance to individuals eligible for services under this title. The amount of the reduction required under this paragraph shall be determined by the Secretary in a manner consistent with subsection (c).
+> “Sec. 105. Whenever the Secretary, after reasonable notice and opportunity for a hearing to any State educational agency, finds that there is a failure to meet the requirements of any title of this Act, the Secretary shall notify that agency that further payments will not be made to the agency under such title, or in the discretion of the Secretary, that the State educational agency shall not make further payments under such title to specified local education agencies or other entities (in the case of funds under title IV) whose actions cause or are involved in such failure until the Secretary is satisfied that there is no longer any such failure to comply. Until the Secretary is so satisfied, no further payments shall be made to the State educational agency under such title, or payments by the State educational agency under such title shall be limited to local educational agencies or other entities (in the case of funds under title IV) whose actions did not cause or were not involved in the failure, as the case may be.
 
-    “(3) For the purpose of this subsection, the term ‘State’ does not include Guam, American Samoa, the Virgin Islands, the Northern Mariana Islands, and the Trust Territory of the Pacific Islands. The entitlements of such jurisdictions shall be determined in the manner specified in section 103, but for purposes of this title and section 105 any payments made under section 103 for the purposes set forth in section 201(a) shall be considered to be payments under this title.
+>  __“consultation with other agencies__ 
 
-    “(c) Determinations by the Secretary under this title for any period with respect to the number of eligible participants and the amount of the reduction under subsection (b)(2) shall be made, whenever actual satisfactory data are not available, on the basis of estimates. No such determination shall operate because of an underestimate or overestimate to deprive any State educational agency of its entitlement to any payment (or the amount thereof) under this title to which such agency would be entitled had such determination been made on the basis of accurate data.
+> “Sec. 106. To the extent that may be appropriate to facilitate the determination of the amount of any reductions under sections 201(b)(2), 301(b)(3), and 401(b)(2), the Secretary shall consult with the heads of other agencies providing assistance to eligible participants in order to secure information concerning the disbursement of funds for educational purposes under programs administered by them and provide, wherever feasible, for coordination among those programs and the programs under titles II through IV of this Act.
 
- __“applications__ 
+> “Title II— __General Assistance for Local Educational Agencies__ 
 
-    “Sec. 202. (a) No State educational agency shall be entitled to any payment under this title for any period unless that agency submits an application to the Secretary at such time, in such manner, and containing or accompanied by such information, as the Secretary may reasonably require. Each such application shall—
+>  __“state entitlements__ 
 
-    “(1) provide that the payments under this title will be used for the purposes set forth in section 201(a);
+> “Sec. 201.
 
-    “(2) provide assurances that such payments will be distributed among local educational agencies within that State in accordance with the formula established by the Secretary under section 201, subject to any reductions in payments for those local educational agencies identified under paragraph (3) to which funds described by section 201(b)(2) are made available for the same purposes under other Federal laws;
+>      (a) The Secretary shall, in accordance with the provisions of this title, make grants to State educational agencies for fiscal year 1981, and for each subsequent fiscal year, for the purposes of assisting local educational agencies of that State in providing basic education for eligible participants enrolled in elementary or secondary public schools. Payments made under this title to any State shall be used in accordance with applications approved under section 202 for public educational services for eligible participants enrolled in the elementary and secondary public schools under the jurisdiction of the local educational agencies of that State.
 
-    “(3) specify the amount of funds described by section 201(b)(2) which are made available under other Federal laws for expenditure within the State for the same purposes as those for which funds are made available under this title and the local educational agencies to which such funds are made available;
+>     “(b)
 
-    “(4) provide assurances that the State educational agency will not finally disapprove in whole or in part any application for funds received under this title without first affording the local educational agency submitting the application for such funds reasonable notice and opportunity for a hearing; and
+>         (1) As soon as possible after the date of the enactment of the Consolidated Refugee Education Assistance Act \[Aug. 13, 1981\], the Secretary shall establish a formula (reflecting the availability of the full amount authorized for this title under section 203(b)) by which to determine the amount of the grant which each State educational agency is entitled to receive under this title for any fiscal year. The formula established by the Secretary shall take into account the number of years that an eligible participant assisted under this title has resided within the United States and the relative costs, by grade level, of providing education for elementary and secondary school children. On the basis of the formula the Secretary shall allocate among the State educational agencies, for each fiscal year, the amounts available to carry out this title, subject to such reductions or adjustments as may be required under paragraph (2) or subsection (c). Funds shall be allocated among State educational agencies pursuant to the formula without regard to variations in educational costs among different geographical areas.
 
-    “(5) provide for making such reports as the Secretary may reasonably require to carry out this title.
+>         “(2) The amount of the grant to which a State educational agency is otherwise entitled for any fiscal year, as determined under paragraph (1), shall be reduced by the amounts made available for such fiscal year under any other Federal law for expenditure within the State for the same purposes as those for which funds are made available under this title, except that the reduction shall be made only to the extent that (A) such amounts are made available for such purposes specifically because of the refugee, parolee, or asylee status of the individuals to be served by such funds, and (B) such amounts are made available to provide assistance to individuals eligible for services under this title. The amount of the reduction required under this paragraph shall be determined by the Secretary in a manner consistent with subsection (c).
 
-    “(b) The Secretary shall approve an application which meets the requirements of subsection (a). The Secretary shall not finally disapprove an application of a State educational agency except after reasonable notice and opportunity for a hearing on the record to such agency.
+>         “(3) For the purpose of this subsection, the term ‘State’ does not include Guam, American Samoa, the Virgin Islands, the Northern Mariana Islands, and the Trust Territory of the Pacific Islands. The entitlements of such jurisdictions shall be determined in the manner specified in section 103, but for purposes of this title and section 105 any payments made under section 103 for the purposes set forth in section 201(a) shall be considered to be payments under this title.
 
- __“payments and authorizations__ 
+>     “(c) Determinations by the Secretary under this title for any period with respect to the number of eligible participants and the amount of the reduction under subsection (b)(2) shall be made, whenever actual satisfactory data are not available, on the basis of estimates. No such determination shall operate because of an underestimate or overestimate to deprive any State educational agency of its entitlement to any payment (or the amount thereof) under this title to which such agency would be entitled had such determination been made on the basis of accurate data.
 
-    “Sec. 203. (a) The Secretary shall pay to each State educational agency having an application approved under section 202 the amount which that State is entitled to receive under this title.
+>  __“applications__ 
 
-    “(b) For fiscal year 1981 and for each subsequent fiscal year, there is authorized to be appropriated, in the manner specified under section 102, to make payments under this title an amount equal to the product of—
+> “Sec. 202.
 
-    “(1) the total number of eligible participants enrolled in elementary or secondary public schools under the jurisdiction of local educational agencies within all the States (other than the jurisdictions to which section 103 is applicable) during the fiscal year for which the determination is made,
+>      (a)
 
-    multiplied by—
+>      No State educational agency shall be entitled to any payment under this title for any period unless that agency submits an application to the Secretary at such time, in such manner, and containing or accompanied by such information, as the Secretary may reasonably require. Each such application shall—
 
-    “(2) $400.
+>         “(1) provide that the payments under this title will be used for the purposes set forth in section 201(a);
 
- __“Title III—Special Impact Assistance for Substantial Increases in Attendance__ 
+>         “(2) provide assurances that such payments will be distributed among local educational agencies within that State in accordance with the formula established by the Secretary under section 201, subject to any reductions in payments for those local educational agencies identified under paragraph (3) to which funds described by section 201(b)(2) are made available for the same purposes under other Federal laws;
 
- __“state entitlements__ 
+>         “(3) specify the amount of funds described by section 201(b)(2) which are made available under other Federal laws for expenditure within the State for the same purposes as those for which funds are made available under this title and the local educational agencies to which such funds are made available;
 
-    “Sec. 301. (a) The Secretary shall, in accordance with the provisions of this title, make payments to State educational agencies for fiscal year 1981, and for each subsequent fiscal year for the purpose set forth in section 302.
+>         “(4) provide assurances that the State educational agency will not finally disapprove in whole or in part any application for funds received under this title without first affording the local educational agency submitting the application for such funds reasonable notice and opportunity for a hearing; and
 
-    “(b)(1) Except as provided in paragraph (3) of this subsection and in subsections (c) and (d) of this section, the amount of the grant to which a State educational agency is entitled under this title for any fiscal year shall be equal to the sum of—
+>         “(5) provide for making such reports as the Secretary may reasonably require to carry out this title.
 
-    “(A) the amount equal to the product of (i) the number of eligible participants enrolled during the period for which the determination is made in elementary or secondary public schools under the jurisdiction of each local educational agency described under paragraph (2) within that State, or in any elementary or secondary nonpublic school within the district served by each such local educational agency, who have been eligible participants less than one year, multiplied by (ii) $700;
+>     “(b) The Secretary shall approve an application which meets the requirements of subsection (a). The Secretary shall not finally disapprove an application of a State educational agency except after reasonable notice and opportunity for a hearing on the record to such agency.
 
-    “(B) the amount equal to the product of (i) the number of eligible participants enrolled during the period for which the determination is made in elementary or secondary public schools under the jurisdiction of each local educational agency described under paragraph (2) within that State, or in any elementary or secondary nonpublic school within the district served by each such local educational agency, who have been eligible participants at least one year but not more than two years, multiplied by (ii) $500; and
+>  __“payments and authorizations__ 
 
-    “(C) the product of (i) the number of eligible participants enrolled during the period for which the determination is made in elementary or secondary public schools under the jurisdiction of each local educational agency described under paragraph (2) within that State, or in any elementary or secondary nonpublic school within the district served by each such local educational agency, who have been eligible participants more than two years but not more than three years, multiplied by (ii) $300.
+> “Sec. 203.
 
-    “(2) The local educational agencies referred to in paragraph (1) are those local educational agencies in which the sum of the number of eligible participants who are enrolled in elementary or secondary public schools under the jurisdiction of such agencies, or in elementary or secondary nonpublic schools within the districts served by such agencies, during the fiscal year for which the payments are to be made under this title, and are receiving supplementary educational services during such period, is equal to—
+>      (a) The Secretary shall pay to each State educational agency having an application approved under section 202 the amount which that State is entitled to receive under this title.
 
-    “(A) at least 500; or
+>     “(b)
 
-    “(B) at least 5 percent of the total number of students enrolled in such public or nonpublic schools during such fiscal year;
+>      For fiscal year 1981 and for each subsequent fiscal year, there is authorized to be appropriated, in the manner specified under section 102, to make payments under this title an amount equal to the product of—
 
-    whichever number is less. Notwithstanding the provisions of this paragraph, the local educational agencies referred to in paragraph (1) shall include local educational agencies eligible to receive assistance by reason of the last sentence of section 3(b) and [section 3(c)(2)(B) of the Act of September 30, 1950][/us/act/1950-09-30/s3/c/2/B] (Public Law 874, Eighty-first Congress) \[formerly [20 U.S.C. 238(b)][/us/usc/t20/s238/b] and (c)(2)(B)\], relating to Federal impact aid, subject to paragraph (5) of this subsection.
+>         “(1) the total number of eligible participants enrolled in elementary or secondary public schools under the jurisdiction of local educational agencies within all the States (other than the jurisdictions to which section 103 is applicable) during the fiscal year for which the determination is made,
 
-    “(3) The amount of the grant to which a State educational agency is otherwise entitled for any fiscal year, as determined under paragraph (1), shall be reduced by the amounts made available under any other Federal law to agencies or other entities for educational, or education-related, services or activities within the State because of the significant concentration of eligible participants. The amount of the reduction required under this paragraph shall be determined by the Secretary in a manner consistent with subsection (c).
+>         multiplied by—
 
-    “(4) For the purpose of this subsection, the term ‘State’ does not include Guam, American Samoa, the Virgin Islands, the Northern Mariana Islands, and the Trust Territory of the Pacific Islands. The entitlements of such jurisdictions shall be determined in the manner specified in section 103, but for purposes of this title and section 105 any payments made under section 103 for the purposes set forth in section 302 shall be considered to be payments under this title.
+>         “(2) $400.
 
-    “(5) The amount of the grant to which a State educational agency is entitled as a result of the last sentence of paragraph (2) shall be limited to eligible participants who meet the requirements of section 101(4).
+> “Title III— __Special Impact Assistance for Substantial Increases in Attendance__ 
 
-    “(c) Determinations by the Secretary under this title for any period with respect to the number of eligible participants and the amount of the reduction under subsection (b)(3) shall be made, whenever actual satisfactory data are not available, on the basis of estimates. No such determination shall operate because of an underestimate or overestimate to deprive any State educational agency of its entitlement to any payment (or the amount thereof) under this title to which such agency would be entitled had such determination been made on the basis of accurate data.
+>  __“state entitlements__ 
 
-    “(d) Whenever the Secretary determines that any amount of a payment made to a State under this title for a fiscal year will not be used by such State for carrying out the purpose for which the payment was made, the Secretary shall make such amount available for carrying out such purpose to one or more other States to the extent the Secretary determines that such other States will be able to use such additional amount for carrying out such purpose. Any amount made available to a State from an appropriation for a fiscal year in accordance with the preceding sentence shall, for purposes of this title, be regarded as part of such State’s payment (as determined under subsection (b)) for such year, but shall remain available until the end of the succeeding fiscal year.
+> “Sec. 301.
 
- __“uses of funds__ 
+>      (a) The Secretary shall, in accordance with the provisions of this title, make payments to State educational agencies for fiscal year 1981, and for each subsequent fiscal year for the purpose set forth in section 302.
 
-    “Sec. 302. (a) Payments made under this title to any State may be used in accordance with applications approved under section 303 for supplementary educational services and costs, as described under subsection (b) of this section, for eligible participants enrolled in the elementary and secondary public schools under the jurisdiction of the local educational agencies of the State described in section 301(b)(2) and in elementary and secondary nonpublic schools of that State within the districts served by such agencies.
+>     “(b)
 
-    “(b) Financial assistance provided under this title shall be available to meet the costs of providing eligible participants supplementary educational services, including but not limited to—
+>         (1)
 
-    “(1) supplementary educational services necessary to enable those children to achieve a satisfactory level of performance, including—
+>          Except as provided in paragraph (3) of this subsection and in subsections (c) and (d) of this section, the amount of the grant to which a State educational agency is entitled under this title for any fiscal year shall be equal to the sum of—
 
-    “(A) English language instruction;
+>             “(A) the amount equal to the product of (i) the number of eligible participants enrolled during the period for which the determination is made in elementary or secondary public schools under the jurisdiction of each local educational agency described under paragraph (2) within that State, or in any elementary or secondary nonpublic school within the district served by each such local educational agency, who have been eligible participants less than one year, multiplied by (ii) $700;
 
-    “(B) other bilingual educational services; and
+>             “(B) the amount equal to the product of (i) the number of eligible participants enrolled during the period for which the determination is made in elementary or secondary public schools under the jurisdiction of each local educational agency described under paragraph (2) within that State, or in any elementary or secondary nonpublic school within the district served by each such local educational agency, who have been eligible participants at least one year but not more than two years, multiplied by (ii) $500; and
 
-    “(C) special materials and supplies;
+>             “(C) the product of (i) the number of eligible participants enrolled during the period for which the determination is made in elementary or secondary public schools under the jurisdiction of each local educational agency described under paragraph (2) within that State, or in any elementary or secondary nonpublic school within the district served by each such local educational agency, who have been eligible participants more than two years but not more than three years, multiplied by (ii) $300.
 
-    “(2) additional basic instructional services which are directly attributable to the presence in the school district of eligible participants, including the costs of providing additional classroom supplies, overhead costs, costs of construction, acquisition or rental of space, costs of transportation, or such other costs as are directly attributable to such additional basis instructional services; and
+>         “(2)
 
-    “(3) special inservice training for personnel who will be providing instruction described in either paragraph (1) or (2) of this subsection.
+>          The local educational agencies referred to in paragraph (1) are those local educational agencies in which the sum of the number of eligible participants who are enrolled in elementary or secondary public schools under the jurisdiction of such agencies, or in elementary or secondary nonpublic schools within the districts served by such agencies, during the fiscal year for which the payments are to be made under this title, and are receiving supplementary educational services during such period, is equal to—
 
- __“applications__ 
+>             “(A) at least 500; or
 
-    “Sec. 303. (a) No State educational agency shall be entitled to any payment under this title for any period unless that agency submits an application to the Secretary at such time, in such manner, and containing or accompanied by such information, as the Secretary may reasonably require. Each such application shall—
+>             “(B) at least 5 percent of the total number of students enrolled in such public or nonpublic schools during such fiscal year;
 
-    “(1) provide that the educational programs, services and activities for which payments under this title are made will be administered by or under the supervision of the agency;
+>             whichever number is less. Notwithstanding the provisions of this paragraph, the local educational agencies referred to in paragraph (1) shall include local educational agencies eligible to receive assistance by reason of the last sentence of section 3(b) and [section 3(c)(2)(B) of the Act of September 30, 1950][/us/act/1950-09-30/s3/c/2/B] (Public Law 874, Eighty-first Congress) \[formerly [20 U.S.C. 238(b)][/us/usc/t20/s238/b] and (c)(2)(B)\], relating to Federal impact aid, subject to paragraph (5) of this subsection.
 
-    “(2) provide assurances that payments under this title will be used for purposes set forth in section 302;
+>         “(3) The amount of the grant to which a State educational agency is otherwise entitled for any fiscal year, as determined under paragraph (1), shall be reduced by the amounts made available under any other Federal law to agencies or other entities for educational, or education-related, services or activities within the State because of the significant concentration of eligible participants. The amount of the reduction required under this paragraph shall be determined by the Secretary in a manner consistent with subsection (c).
 
-    “(3) provide assurances that such payments will be distributed among local educational agencies within that State in accordance with section 301, subject to any reductions in payments for local educational agencies identified under paragraph (5) to take into account the funds described by section 301(b)(3) that are made available for educational, or education-related, services or activities for eligible participants enrolled in elementary or secondary public schools under the jurisdiction of such agencies or elementary or secondary nonpublic schools within the districts served by such agencies;
+>         “(4) For the purpose of this subsection, the term ‘State’ does not include Guam, American Samoa, the Virgin Islands, the Northern Mariana Islands, and the Trust Territory of the Pacific Islands. The entitlements of such jurisdictions shall be determined in the manner specified in section 103, but for purposes of this title and section 105 any payments made under section 103 for the purposes set forth in section 302 shall be considered to be payments under this title.
 
-    “(4) provide assurances that the State educational agency will not finally disapprove in whole or in part any application for funds received under this title without first affording the local educational agency submitting an application for such funds reasonable notice and opportunity for a hearing;
+>         “(5) The amount of the grant to which a State educational agency is entitled as a result of the last sentence of paragraph (2) shall be limited to eligible participants who meet the requirements of section 101(4).
 
-    “(5) specify (A) the amount of funds described by section 301(b)(3) that are made available under other Federal laws to agencies or other entities for educational, or education-related, services or activities within the State because of a significant concentration of eligible participants, and (B) the local educational agencies within whose districts are eligible participants provided services from such funds who are enrolled in elementary or secondary schools under the jurisdiction of such agencies, or in elementary or secondary nonpublic schools served by such agencies;
+>     “(c) Determinations by the Secretary under this title for any period with respect to the number of eligible participants and the amount of the reduction under subsection (b)(3) shall be made, whenever actual satisfactory data are not available, on the basis of estimates. No such determination shall operate because of an underestimate or overestimate to deprive any State educational agency of its entitlement to any payment (or the amount thereof) under this title to which such agency would be entitled had such determination been made on the basis of accurate data.
 
-    “(6) provide for making such reports as the Secretary may reasonably require to perform his functions under this Act; and
+>     “(d) Whenever the Secretary determines that any amount of a payment made to a State under this title for a fiscal year will not be used by such State for carrying out the purpose for which the payment was made, the Secretary shall make such amount available for carrying out such purpose to one or more other States to the extent the Secretary determines that such other States will be able to use such additional amount for carrying out such purpose. Any amount made available to a State from an appropriation for a fiscal year in accordance with the preceding sentence shall, for purposes of this title, be regarded as part of such State’s payment (as determined under subsection (b)) for such year, but shall remain available until the end of the succeeding fiscal year.
 
-    “(7) provide assurances—
+>  __“uses of funds__ 
 
-    “(A) that to the extent consistent with the number of eligible participants enrolled in the elementary or secondary nonpublic schools within the district served by a local educational agency, such agency, after consultation with appropriate officials of such schools, shall provide for the benefit of these children secular, neutral, and non­ideological services, materials, and equipment necessary for the education of such children;
+> “Sec. 302.
 
-    “(B) that the control of funds provided under this paragraph and the title to any materials, equipment, and property repaired, remodeled, or constructed with those funds shall be in a public agency for the uses and purposes provided in this title, and a public agency shall administer such funds and property; and
+>      (a) Payments made under this title to any State may be used in accordance with applications approved under section 303 for supplementary educational services and costs, as described under subsection (b) of this section, for eligible participants enrolled in the elementary and secondary public schools under the jurisdiction of the local educational agencies of the State described in section 301(b)(2) and in elementary and secondary nonpublic schools of that State within the districts served by such agencies.
 
-    “(C) that the provision of services pursuant to this paragraph shall be provided by employees of a public agency or through contract by such public agency with a person, association, agency or corporation who or which, in the provision of such services, is independent of such elementary or secondary nonpublic school and of any religious organization; and such employment or contract shall be under the control and supervision of such public agency, and the funds provided under this paragraph shall not be commingled with State or local funds.
+>     “(b)
 
-    “(b) The Secretary shall approve an application which meets the requirements of subsection (a). The Secretary shall not finally disapprove an application of a State educational agency except after reasonable notice and opportunity for a hearing on the record to such agency.
+>      Financial assistance provided under this title shall be available to meet the costs of providing eligible participants supplementary educational services, including but not limited to—
 
- __“payments__ 
+>         “(1)
 
-    “Sec. 304. (a) The Secretary shall pay to each State educational agency having an application approved under section 303 the amount which that State is entitled to receive under this title.
+>          supplementary educational services necessary to enable those children to achieve a satisfactory level of performance, including—
 
-    “(b) If a State is prohibited by law from providing public educational services for children enrolled in elementary and secondary nonpublic schools, as required by section 303(a)(6), or if the Secretary determines that a local educational agency has substantially failed or is unwilling to provide for the participation on an equitable basis of children enrolled in such schools, the Secretary may waive such requirement and shall arrange for the provision of services to such children through arrangements which shall be subject to the requirements of this Act.
+>             “(A) English language instruction;
 
- __“Title IV—Adult Education Programs__ 
+>             “(B) other bilingual educational services; and
 
- __“state entitlements__ 
+>             “(C) special materials and supplies;
 
-    “Sec. 401. (a) The Secretary shall, in accordance with the provisions of this title, make payments to State educational agencies for fiscal year 1982, and for each subsequent fiscal year for the purposes of providing for the operation of adult education programs as described under section 402 for eligible participants aged 16 or older. Payments made under this title to any State shall be used in accordance with applications approved under section 403.
+>         “(2) additional basic instructional services which are directly attributable to the presence in the school district of eligible participants, including the costs of providing additional classroom supplies, overhead costs, costs of construction, acquisition or rental of space, costs of transportation, or such other costs as are directly attributable to such additional basis instructional services; and
 
-    “(b)(1) Except as provided in subsection (c) of this section, the amount of the grant to which a State educational agency is entitled under this Act, for any fiscal year described in subsection (a), shall be equal to the product of—
+>         “(3) special inservice training for personnel who will be providing instruction described in either paragraph (1) or (2) of this subsection.
 
-    “(A) the number of eligible participants aged 16 or older who are enrolled, during the period for which the determination is made, in programs of instruction referred to in section 402 which are offered within that State, other than any such refugees who are enrolled in elementary or secondary public schools under the jurisdiction of local educational agencies;
+>  __“applications__ 
 
-    multiplied by—
+> “Sec. 303.
 
-    “(B) $300.
+>      (a)
 
-    “(2) The amount of the grant to which a State educational agency is otherwise entitled for any fiscal year, as determined under paragraph (1), shall be reduced by the amounts made available for such fiscal year under any other Federal law for expenditure within the State for the same purposes as those for which funds are made available under this title, except that the reduction shall be made only to the extent that (A) such amounts are made available for such purposes specifically because of the refugee, parolee, or asylee status of the individuals to be served by such funds, and (B) such amounts are made available to provide assistance to individuals eligible for services under this title. The amount of the reduction required under this paragraph shall be determined by the Secretary in a manner consistent with subsection (c).
+>      No State educational agency shall be entitled to any payment under this title for any period unless that agency submits an application to the Secretary at such time, in such manner, and containing or accompanied by such information, as the Secretary may reasonably require. Each such application shall—
 
-    “(3) For the purpose of this subsection, the term ‘State’ does not include Guam, American Samoa, the Virgin Islands, the Northern Mariana Islands, and the Trust Territory of the Pacific Islands. The entitlements of such jurisdictions shall be determined in the manner specified in section 103, but for purposes of this title and section 105 any payments made under section 103 for the purposes set forth in section 402 shall be considered to be payments under this title.
+>         “(1) provide that the educational programs, services and activities for which payments under this title are made will be administered by or under the supervision of the agency;
 
-    “(c) Determinations by the Secretary under this title for any period with respect to the number of eligible participants and the amount of the reduction under subsection (b)(2) shall be made, whenever actual satisfactory data are not available, on the basis of estimates. No such determination shall operate because of an underestimate or overestimate to deprive any State educational agency of its entitlement to any payment (or the amount thereof) under this title to which such agency would be entitled had such determination been made on the basis of accurate data.
+>         “(2) provide assurances that payments under this title will be used for purposes set forth in section 302;
 
- __“use of funds__ 
+>         “(3) provide assurances that such payments will be distributed among local educational agencies within that State in accordance with section 301, subject to any reductions in payments for local educational agencies identified under paragraph (5) to take into account the funds described by section 301(b)(3) that are made available for educational, or education-related, services or activities for eligible participants enrolled in elementary or secondary public schools under the jurisdiction of such agencies or elementary or secondary nonpublic schools within the districts served by such agencies;
 
-    “Sec. 402. (a) Funds made available to State educational agencies under this title shall be used by such agencies to provide for programs of adult education and adult basic education to eligible participants aged 16 or older in need for such services who are not enrolled in elementary or secondary public schools under the jurisdiction of local educational agencies. Such programs may be provided directly by the State educational agency, or such agency may make grants, or enter into contracts, with local educational agencies, and other public or private nonprofit agencies, organizations, or institutions to provide for such programs. Funds available under this title may be used for—
+>         “(4) provide assurances that the State educational agency will not finally disapprove in whole or in part any application for funds received under this title without first affording the local educational agency submitting an application for such funds reasonable notice and opportunity for a hearing;
 
-    “(1) programs of instruction of such adult refugees in basic reading and mathematics, in development and enhancement of necessary skills, and for the promotion of literacy among such refugees;
+>         “(5) specify (A) the amount of funds described by section 301(b)(3) that are made available under other Federal laws to agencies or other entities for educational, or education-related, services or activities within the State because of a significant concentration of eligible participants, and (B) the local educational agencies within whose districts are eligible participants provided services from such funds who are enrolled in elementary or secondary schools under the jurisdiction of such agencies, or in elementary or secondary nonpublic schools served by such agencies;
 
-    “(2) administrative costs of planning and operating such programs of instruction;
+>         “(6) provide for making such reports as the Secretary may reasonably require to perform his functions under this Act; and
 
-    “(3) educational support services which meet the need for such adult refugees, including guidance and counseling with regard to educational, career, and employment opportunities; and
+>         “(7)
 
-    “(4) special projects designed to operate in conjunction with existing Federal and non-Federal programs and activities to develop occupational and related skills for individuals, particularly programs authorized under the Job Training Partnership Act \[[29 U.S.C. 1501][/us/usc/t29/s1501] et seq.\] or title I of the Workforce Investment Act of 1998 \[[29 U.S.C. 2801][/us/usc/t29/s2801] et seq.\] or under the Vocational Education Act of 1963 \[now Carl D. Perkins Career and Technical Education Act of 2006\] \[[20 U.S.C. 2301][/us/usc/t20/s2301] et seq.\].
+>          provide assurances—
 
-    “\[(b) Repealed. [Pub. L. 105–220, title II, § 251(b)(1)][/us/pl/105/220/s251/b/1], Aug. 7, 1998, [112 Stat. 1079][/us/stat/112/1079].\]
+>             “(A) that to the extent consistent with the number of eligible participants enrolled in the elementary or secondary nonpublic schools within the district served by a local educational agency, such agency, after consultation with appropriate officials of such schools, shall provide for the benefit of these children secular, neutral, and non­ideological services, materials, and equipment necessary for the education of such children;
 
-    “(c) The State educational agency shall provide for the use of funds made available under this title in such manner that the maximum number of eligible participants aged 16 or older residing within the State receive education under the programs of instruction described under subsection (a).
+>             “(B) that the control of funds provided under this paragraph and the title to any materials, equipment, and property repaired, remodeled, or constructed with those funds shall be in a public agency for the uses and purposes provided in this title, and a public agency shall administer such funds and property; and
 
- __“applications__ 
+>             “(C) that the provision of services pursuant to this paragraph shall be provided by employees of a public agency or through contract by such public agency with a person, association, agency or corporation who or which, in the provision of such services, is independent of such elementary or secondary nonpublic school and of any religious organization; and such employment or contract shall be under the control and supervision of such public agency, and the funds provided under this paragraph shall not be commingled with State or local funds.
 
-    “Sec. 403. (a) No State educational agency shall be entitled to any payment under this title for any period unless that agency submits an application to the Secretary at such time, in such manner, and containing or accompanied by such information, as the Secretary may reasonably require. Each such application shall—
+>     “(b) The Secretary shall approve an application which meets the requirements of subsection (a). The Secretary shall not finally disapprove an application of a State educational agency except after reasonable notice and opportunity for a hearing on the record to such agency.
 
-    “(1) provide that payments made under this title will be used only for the purposes, and in the manner, set forth in section 402;
+>  __“payments__ 
 
-    “(2) specify the amount of reduction required under section 401(b)(2);
+> “Sec. 304.
 
-    “(3) provide assurances that the State educational agency will not finally disapprove in whole or in part any application for funds received under this title without first affording the entity submitting an application for such funds reasonable notice and opportunity for a hearing; and
+>      (a) The Secretary shall pay to each State educational agency having an application approved under section 303 the amount which that State is entitled to receive under this title.
 
-    “(4) provide for making periodic reports to the Secretary evaluating the effectiveness of the payments made under this title, and such other reports as the Secretary may reasonably require to perform his functions under this Act.
+>     “(b) If a State is prohibited by law from providing public educational services for children enrolled in elementary and secondary nonpublic schools, as required by section 303(a)(6), or if the Secretary determines that a local educational agency has substantially failed or is unwilling to provide for the participation on an equitable basis of children enrolled in such schools, the Secretary may waive such requirement and shall arrange for the provision of services to such children through arrangements which shall be subject to the requirements of this Act.
 
-    “(b) The Secretary shall approve an application which meets the requirements of subsection (a). The Secretary shall not finally disapprove an application of a State educational agency except after reasonable notice and opportunity for a hearing on the record to such agency.
+> “Title IV— __Adult Education Programs__ 
 
- __“Title V—Other Provisions Relating to Cuban and Haitian Entrants__ 
+>  __“state entitlements__ 
 
- __“authorities for other programs and activities__ 
+> “Sec. 401.
 
-    “Sec. 501. (a)(1) The President shall exercise authorities with respect to Cuban and Haitian entrants which are identical to the authorities which are exercised under chapter 2 of title IV of the Immigration and Nationality Act \[[8 U.S.C. 1521][/us/usc/t8/s1521] et seq.\]. The authorizations provided in section 414 of that Act \[[8 U.S.C. 1524][/us/usc/t8/s1524]\] shall be available to carry out this section without regard to the dollar limitation contained in section 414(a)(2).
+>      (a) The Secretary shall, in accordance with the provisions of this title, make payments to State educational agencies for fiscal year 1982, and for each subsequent fiscal year for the purposes of providing for the operation of adult education programs as described under section 402 for eligible participants aged 16 or older. Payments made under this title to any State shall be used in accordance with applications approved under section 403.
 
-    “(2) Any reference in chapter III of title I of the Supplemental Appropriations and Rescission Act, 1980 \[[Pub. L. 96–304][/us/pl/96/304], July 8, 1980, [94 Stat. 857][/us/stat/94/857], 865\], to section 405(c)(2) of the International Security and Development Assistance Act of 1980 or to the International Security Act of 1980 shall be construed to be a reference to paragraph (1) of this subsection.
+>     “(b)
 
-    “(b) In addition, the President may, by regulation, provide that benefits granted under any law of the United States (other than the Immigration and Nationality Act \[[8 U.S.C. 1101][/us/usc/t8/s1101] et seq.\]) with respect to individuals admitted to the United States under section 207(c) of the Immigration and Nationality Act \[[8 U.S.C. 1157(c)][/us/usc/t8/s1157/c]\] shall be granted in the same manner and to the same extent with respect to Cuban and Haitian entrants.
+>         (1)
 
-    “(c)(1)(A) Any Federal agency may, under the direction of the President, provide assistance (in the form of materials, supplies, equipment, work, services, facilities, or otherwise) for the processing, care, maintenance, security, transportation, and initial reception and placement in the United States of Cuban and Haitian entrants. Such assistance shall be provided on such terms and conditions as the President may determine.
+>          Except as provided in subsection (c) of this section, the amount of the grant to which a State educational agency is entitled under this Act, for any fiscal year described in subsection (a), shall be equal to the product of—
 
-    “(B) Funds available to carry out this subsection shall be used to reimburse State and local governments for expenses which they incur for the purposes described in subparagraph (A). Such funds may be used to reimburse Federal agencies for assistance which they provide under subparagraph (A).
+>             “(A) the number of eligible participants aged 16 or older who are enrolled, during the period for which the determination is made, in programs of instruction referred to in section 402 which are offered within that State, other than any such refugees who are enrolled in elementary or secondary public schools under the jurisdiction of local educational agencies;
 
-    “(2) The President may direct the head of any Federal agency to detail personnel of that agency, on either a reimbursable or nonreimbursable basis, for temporary duty with any Federal agency directed to provide supervision and management for purposes of this subsection.
+>             multiplied by—
 
-    “(3) The furnishing of assistance or other exercise of functions under this subsection shall not be considered a major Federal action significantly affecting the quality of the human environment within the meaning of the National Environmental Policy Act of 1969 \[[42 U.S.C. 4321][/us/usc/t42/s4321] et seq.\].
+>             “(B) $300.
 
-    “(4) Funds to carry out this subsection may be available until expended.
+>         “(2) The amount of the grant to which a State educational agency is otherwise entitled for any fiscal year, as determined under paragraph (1), shall be reduced by the amounts made available for such fiscal year under any other Federal law for expenditure within the State for the same purposes as those for which funds are made available under this title, except that the reduction shall be made only to the extent that (A) such amounts are made available for such purposes specifically because of the refugee, parolee, or asylee status of the individuals to be served by such funds, and (B) such amounts are made available to provide assistance to individuals eligible for services under this title. The amount of the reduction required under this paragraph shall be determined by the Secretary in a manner consistent with subsection (c).
 
-    “(5) \[Repealed. [Pub. L. 96–424][/us/pl/96/424], Oct. 10, 1980, [94 Stat. 1820][/us/stat/94/1820].\]
+>         “(3) For the purpose of this subsection, the term ‘State’ does not include Guam, American Samoa, the Virgin Islands, the Northern Mariana Islands, and the Trust Territory of the Pacific Islands. The entitlements of such jurisdictions shall be determined in the manner specified in section 103, but for purposes of this title and section 105 any payments made under section 103 for the purposes set forth in section 402 shall be considered to be payments under this title.
 
-    “(d) The authorities provided in this section are applicable to assistance and services provided with respect to Cuban or Haitian entrants at any time after their arrival in the United States, including periods prior to the enactment of this section.
+>     “(c) Determinations by the Secretary under this title for any period with respect to the number of eligible participants and the amount of the reduction under subsection (b)(2) shall be made, whenever actual satisfactory data are not available, on the basis of estimates. No such determination shall operate because of an underestimate or overestimate to deprive any State educational agency of its entitlement to any payment (or the amount thereof) under this title to which such agency would be entitled had such determination been made on the basis of accurate data.
 
-    “(e) As used in this section, the term ‘Cuban and Haitian entrant’ means—
+>  __“use of funds__ 
 
-    “(1) any individual granted parole status as a Cuban/Haitian Entrant (Status Pending) or granted any other special status subsequently established under the immigration laws for nationals of Cuba or Haiti, regardless of the status of the individual at the time assistance or services are provided; and
+> “Sec. 402.
 
-    “(2) any other national of Cuba or Haiti—
+>      (a)
 
-    “(A) who—
+>      Funds made available to State educational agencies under this title shall be used by such agencies to provide for programs of adult education and adult basic education to eligible participants aged 16 or older in need for such services who are not enrolled in elementary or secondary public schools under the jurisdiction of local educational agencies. Such programs may be provided directly by the State educational agency, or such agency may make grants, or enter into contracts, with local educational agencies, and other public or private nonprofit agencies, organizations, or institutions to provide for such programs. Funds available under this title may be used for—
 
-    “(i) was paroled into the United States and has not acquired any other status under the Immigration and Nationality Act \[[8 U.S.C. 1101][/us/usc/t8/s1101] et seq.\];
+>         “(1) programs of instruction of such adult refugees in basic reading and mathematics, in development and enhancement of necessary skills, and for the promotion of literacy among such refugees;
 
-    “(ii) is the subject of removal proceedings under the Immigration and Nationality Act; or
+>         “(2) administrative costs of planning and operating such programs of instruction;
 
-    “(iii) has an application for asylum pending with the Immigration and Naturalization Service; and
+>         “(3) educational support services which meet the need for such adult refugees, including guidance and counseling with regard to educational, career, and employment opportunities; and
 
-    “(B) with respect to whom a final, nonappealable, and legally enforceable order of removal has not been entered.”
+>         “(4) special projects designed to operate in conjunction with existing Federal and non-Federal programs and activities to develop occupational and related skills for individuals, particularly programs authorized under the Job Training Partnership Act \[[29 U.S.C. 1501][/us/usc/t29/s1501] et seq.\] or title I of the Workforce Investment Act of 1998 \[[29 U.S.C. 2801][/us/usc/t29/s2801] et seq.\] or under the Vocational Education Act of 1963 \[now Carl D. Perkins Career and Technical Education Act of 2006\] \[[20 U.S.C. 2301][/us/usc/t20/s2301] et seq.\].
+
+>     “\[(b) Repealed. [Pub. L. 105–220, title II, § 251(b)(1)][/us/pl/105/220/s251/b/1], Aug. 7, 1998, [112 Stat. 1079][/us/stat/112/1079].\]
+
+>     “(c) The State educational agency shall provide for the use of funds made available under this title in such manner that the maximum number of eligible participants aged 16 or older residing within the State receive education under the programs of instruction described under subsection (a).
+
+>  __“applications__ 
+
+> “Sec. 403.
+
+>      (a)
+
+>      No State educational agency shall be entitled to any payment under this title for any period unless that agency submits an application to the Secretary at such time, in such manner, and containing or accompanied by such information, as the Secretary may reasonably require. Each such application shall—
+
+>         “(1) provide that payments made under this title will be used only for the purposes, and in the manner, set forth in section 402;
+
+>         “(2) specify the amount of reduction required under section 401(b)(2);
+
+>         “(3) provide assurances that the State educational agency will not finally disapprove in whole or in part any application for funds received under this title without first affording the entity submitting an application for such funds reasonable notice and opportunity for a hearing; and
+
+>         “(4) provide for making periodic reports to the Secretary evaluating the effectiveness of the payments made under this title, and such other reports as the Secretary may reasonably require to perform his functions under this Act.
+
+>     “(b) The Secretary shall approve an application which meets the requirements of subsection (a). The Secretary shall not finally disapprove an application of a State educational agency except after reasonable notice and opportunity for a hearing on the record to such agency.
+
+> “Title V— __Other Provisions Relating to Cuban and Haitian Entrants__ 
+
+>  __“authorities for other programs and activities__ 
+
+> “Sec. 501.
+
+>      (a)
+
+>         (1) The President shall exercise authorities with respect to Cuban and Haitian entrants which are identical to the authorities which are exercised under chapter 2 of title IV of the Immigration and Nationality Act \[[8 U.S.C. 1521][/us/usc/t8/s1521] et seq.\]. The authorizations provided in section 414 of that Act \[[8 U.S.C. 1524][/us/usc/t8/s1524]\] shall be available to carry out this section without regard to the dollar limitation contained in section 414(a)(2).
+
+>         “(2) Any reference in chapter III of title I of the Supplemental Appropriations and Rescission Act, 1980 \[[Pub. L. 96–304][/us/pl/96/304], July 8, 1980, [94 Stat. 857][/us/stat/94/857], 865\], to section 405(c)(2) of the International Security and Development Assistance Act of 1980 or to the International Security Act of 1980 shall be construed to be a reference to paragraph (1) of this subsection.
+
+>     “(b) In addition, the President may, by regulation, provide that benefits granted under any law of the United States (other than the Immigration and Nationality Act \[[8 U.S.C. 1101][/us/usc/t8/s1101] et seq.\]) with respect to individuals admitted to the United States under section 207(c) of the Immigration and Nationality Act \[[8 U.S.C. 1157(c)][/us/usc/t8/s1157/c]\] shall be granted in the same manner and to the same extent with respect to Cuban and Haitian entrants.
+
+>     “(c)
+
+>         (1)
+
+>             (A) Any Federal agency may, under the direction of the President, provide assistance (in the form of materials, supplies, equipment, work, services, facilities, or otherwise) for the processing, care, maintenance, security, transportation, and initial reception and placement in the United States of Cuban and Haitian entrants. Such assistance shall be provided on such terms and conditions as the President may determine.
+
+>             “(B) Funds available to carry out this subsection shall be used to reimburse State and local governments for expenses which they incur for the purposes described in subparagraph (A). Such funds may be used to reimburse Federal agencies for assistance which they provide under subparagraph (A).
+
+>         “(2) The President may direct the head of any Federal agency to detail personnel of that agency, on either a reimbursable or nonreimbursable basis, for temporary duty with any Federal agency directed to provide supervision and management for purposes of this subsection.
+
+>         “(3) The furnishing of assistance or other exercise of functions under this subsection shall not be considered a major Federal action significantly affecting the quality of the human environment within the meaning of the National Environmental Policy Act of 1969 \[[42 U.S.C. 4321][/us/usc/t42/s4321] et seq.\].
+
+>         “(4) Funds to carry out this subsection may be available until expended.
+
+>         “(5) __\[Repealed.__  __[__  __Pub. L. 96–424__  __][/us/pl/96/424]__  __,__  __Oct. 10, 1980__  __,__  __[__  __94 Stat. 1820__  __][/us/stat/94/1820]__  __.\]__ 
+
+>     “(d) The authorities provided in this section are applicable to assistance and services provided with respect to Cuban or Haitian entrants at any time after their arrival in the United States, including periods prior to the enactment of this section.
+
+>     “(e)
+
+>      As used in this section, the term ‘Cuban and Haitian entrant’ means—
+
+>         “(1) any individual granted parole status as a Cuban/Haitian Entrant (Status Pending) or granted any other special status subsequently established under the immigration laws for nationals of Cuba or Haiti, regardless of the status of the individual at the time assistance or services are provided; and
+
+>         “(2)
+
+>          any other national of Cuba or Haiti—
+
+>             “(A)
+
+>              who—
+
+>                 “(i) was paroled into the United States and has not acquired any other status under the Immigration and Nationality Act \[[8 U.S.C. 1101][/us/usc/t8/s1101] et seq.\];
+
+>                 “(ii) is the subject of removal proceedings under the Immigration and Nationality Act; or
+
+>                 “(iii) has an application for asylum pending with the Immigration and Naturalization Service; and
+
+>             “(B) with respect to whom a final, nonappealable, and legally enforceable order of removal has not been entered.”
 
     \[[Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 405(f)(5), (g)(2)(B)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–430, 2681–435, which provided that, effective July 1, 2000, [section 402(a)(4) of Pub. L. 96–422][/us/pl/96/422/s402/a/4], set out above, is amended by striking “the Comprehensive Employment and Training Act of 1973” and inserting “the Job Training Partnership Act or”, probably intended to strike “the Job Training Partnership Act or” before “title I of”.\]
 
@@ -885,7 +961,7 @@
 
     Sec. 4. Executive Order No. 12251 of November 15, 1980, is revoked.
 
- __Presidential Determination Authorizing Trans­portation for Certain Unaccompanied Minors, Elderly, and Ill Individuals__ 
+ __Presidential Determination Authorizing Transportation for Certain Unaccompanied Minors, Elderly, and Ill Individuals__ 
 
     Determination of President of the United States, No. 95–10, Dec. 15, 1994, 59 F.R. 65891, provided:
 

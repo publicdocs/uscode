@@ -15,7 +15,7 @@
 
 ## § 1366. Annual report on criminal aliens
 
-Not later than 12 months after September 30, 1996, and annually thereafter, the Attorney General shall submit to the Committees on the Judiciary of the House of Representatives and of the Senate a report detailing—
+    Not later than 12 months after September 30, 1996, and annually thereafter, the Attorney General shall submit to the Committees on the Judiciary of the House of Representatives and of the Senate a report detailing—
 
     (1) the number of illegal aliens incarcerated in Federal and State prisons for having committed felonies, stating the number incarcerated for each type of offense;
 

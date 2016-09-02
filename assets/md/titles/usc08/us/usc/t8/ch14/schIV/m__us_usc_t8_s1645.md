@@ -15,13 +15,13 @@
 
 ## § 1645. Qualifying quarters
 
-For purposes of this chapter, in determining the number of qualifying quarters of coverage under title II of the Social Security Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq.\] an alien shall be credited with—
+    For purposes of this chapter, in determining the number of qualifying quarters of coverage under title II of the Social Security Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq.\] an alien shall be credited with—
 
     (1) all of the qualifying quarters of coverage as defined under title II of the Social Security Act worked by a parent of such alien before the date on which the alien attains age 18, and
 
     (2) all of the qualifying quarters worked by a spouse of such alien during their marriage and the alien remains married to such spouse or such spouse is deceased.
 
-        No such qualifying quarter of coverage that is creditable under title II of the Social Security Act for any period beginning after December 31, 1996, may be credited to an alien under paragraph (1) or (2) if the parent or spouse (as the case may be) of such alien received any Federal means-tested public benefit (as provided under [section 1613 of this title][/us/usc/t8/s1613]) during the period for which such qualifying quarter of coverage is so credited. Notwithstanding [section 6103 of title 26][/us/usc/t26/s6103], the Commissioner of Social Security is authorized to disclose quarters of coverage information concerning an alien and an alien’s spouse or parents to a government agency for the purposes of this chapter.
+    No such qualifying quarter of coverage that is creditable under title II of the Social Security Act for any period beginning after December 31, 1996, may be credited to an alien under paragraph (1) or (2) if the parent or spouse (as the case may be) of such alien received any Federal means-tested public benefit (as provided under [section 1613 of this title][/us/usc/t8/s1613]) during the period for which such qualifying quarter of coverage is so credited. Notwithstanding [section 6103 of title 26][/us/usc/t26/s6103], the Commissioner of Social Security is authorized to disclose quarters of coverage information concerning an alien and an alien’s spouse or parents to a government agency for the purposes of this chapter.
 
 ([Pub. L. 104–193, title IV, § 435][/us/pl/104/193/s435], Aug. 22, 1996, [110 Stat. 2275][/us/stat/110/2275]; [Pub. L. 105–33, title V, § 5573][/us/pl/105/33/s5573], Aug. 5, 1997, [111 Stat. 641][/us/stat/111/641].)
 

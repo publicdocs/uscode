@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t8/ch11/schIII/m__us_usc_t8_s728 to 746.md) | [Next](./../../../../..//us/usc/t8/ch11/schIV/m__us_usc_t8_ch11_schIV.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs747)
+[Previous](./../../../../..//us/usc/t8/ch11/schIII/m__us_usc_t8_s727a.md) | [Next](./../../../../..//us/usc/t8/ch11/schIV/m__us_usc_t8_ch11_schIV.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs747)
 
 ## § 747. Repealed. [June 25, 1948, ch. 645, § 21][/us/act/1948-06-25/ch645/s21], [62 Stat. 862][/us/stat/62/862], eff. Sept. 1, 1948
 
@@ -19,7 +19,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t8/ch11/schIII/m__us_usc_t8_s728 to 746.md) | [Next](./../../../../..//us/usc/t8/ch11/schIV/m__us_usc_t8_ch11_schIV.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs747)
+[Previous](./../../../../..//us/usc/t8/ch11/schIII/m__us_usc_t8_s727a.md) | [Next](./../../../../..//us/usc/t8/ch11/schIV/m__us_usc_t8_ch11_schIV.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs747)
 
 ----------
 ----------

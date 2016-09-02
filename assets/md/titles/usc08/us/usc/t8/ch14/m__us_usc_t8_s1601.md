@@ -15,7 +15,7 @@
 
 ## § 1601. Statements of national policy concerning welfare and immigration
 
-The Congress makes the following statements concerning national policy with respect to welfare and immigration:
+    The Congress makes the following statements concerning national policy with respect to welfare and immigration:
 
     (1) Self-sufficiency has been a basic principle of United States immigration law since this country’s earliest immigration statutes.
 

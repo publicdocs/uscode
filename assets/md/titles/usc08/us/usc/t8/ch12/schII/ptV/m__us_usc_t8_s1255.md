@@ -583,7 +583,9 @@
 
 >     “(a) __Adjustment of Status.—__ 
 
->         “(1) __In general.—The status of any alien described in subsection (b) shall be adjusted by the Attorney General to that of an alien lawfully admitted for permanent residence, if the alien—__ 
+>         “(1) __In general.—__ 
+
+>         The status of any alien described in subsection (b) shall be adjusted by the Attorney General to that of an alien lawfully admitted for permanent residence, if the alien—
 
 >             “(A) applies for such adjustment before April 1, 2000; and
 
@@ -599,9 +601,13 @@
 
 >             In granting waivers under subparagraph (B), the Attorney General shall use standards used in granting consent under subparagraphs (A)(iii) and (C)(ii) of such section 212(a)(9).
 
->         “(3) __Relationship of application to certain orders.—An alien present in the United States who has been ordered excluded, deported, removed, or ordered to depart voluntarily from the United States under any provision of the Immigration and Nationality Act \[__  __[__  __8 U.S.C. 1101__  __][/us/usc/t8/s1101]__  __et seq.\] may, notwithstanding such order, apply for adjustment of status under paragraph (1). Such an alien may not be required, as a condition on submitting or granting such application, to file a separate motion to reopen, reconsider, or vacate such order. If the Attorney General grants the application, the Attorney General shall cancel the order. If the Attorney General makes a final decision to deny the application, the order shall be effective and enforceable to the same extent as if the application had not been made.__ 
+>         “(3) __Relationship of application to certain orders.—__ 
 
->     “(b) __Aliens Eligible for Adjustment of Status.—The benefits provided by subsection (a) shall apply to any alien who is a national of Haiti who—__ 
+>         An alien present in the United States who has been ordered excluded, deported, removed, or ordered to depart voluntarily from the United States under any provision of the Immigration and Nationality Act \[[8 U.S.C. 1101][/us/usc/t8/s1101] et seq.\] may, notwithstanding such order, apply for adjustment of status under paragraph (1). Such an alien may not be required, as a condition on submitting or granting such application, to file a separate motion to reopen, reconsider, or vacate such order. If the Attorney General grants the application, the Attorney General shall cancel the order. If the Attorney General makes a final decision to deny the application, the order shall be effective and enforceable to the same extent as if the application had not been made.
+
+>     “(b) __Aliens Eligible for Adjustment of Status.—__ 
+
+>     The benefits provided by subsection (a) shall apply to any alien who is a national of Haiti who—
 
 >         “(1)
 
@@ -625,7 +631,9 @@
 
 >     “(c) __Stay of Removal.—__ 
 
->         “(1) __In general.—The Attorney General shall provide by regulation for an alien who is subject to a final order of deportation or removal or exclusion to seek a stay of such order based on the filing of an application under subsection (a).__ 
+>         “(1) __In general.—__ 
+
+>         The Attorney General shall provide by regulation for an alien who is subject to a final order of deportation or removal or exclusion to seek a stay of such order based on the filing of an application under subsection (a).
 
 >         “(2) __During certain proceedings.—__ 
 
@@ -675,13 +683,17 @@
 
 >     When an alien is granted the status of having been lawfully admitted for permanent resident pursuant to this section, the Secretary of State shall not be required to reduce the number of immigrant visas authorized to be issued under any provision of the Immigration and Nationality Act \[[8 U.S.C. 1101][/us/usc/t8/s1101] et seq.\].
 
->     “(h) __Application of Immigration and Nationality Act Provisions.—Except as otherwise specifically provided in this title \[section 101(h) \[title IX\] of__  __[__  __Pub. L. 105–277__  __][/us/pl/105/277]__  __, enacting sections 1377 and 1378 of this title and provisions set out as a note under__  __[__  __section 1101 of this title__  __][/us/usc/t8/s1101]__  __\], the definitions contained in the Immigration and Nationality Act \[__  __[__  __8 U.S.C. 1101__  __][/us/usc/t8/s1101]__  __et seq.\] shall apply in the administration of this section. Nothing contained in this title shall be held to repeal, amend, alter, modify, effect, or restrict the powers, duties, functions, or authority of the Attorney General in the administration and enforcement of such Act or any other law relating to immigration, nationality, or naturalization. The fact that an alien may be eligible to be granted the status of having been lawfully admitted for permanent residence under this section shall not preclude the alien from seeking such status under any other provision of law for which the alien may be eligible.__ 
+>     “(h) __Application of Immigration and Nationality Act Provisions.—__ 
+
+>     Except as otherwise specifically provided in this title \[section 101(h) \[title IX\] of [Pub. L. 105–277][/us/pl/105/277], enacting sections 1377 and 1378 of this title and provisions set out as a note under [section 1101 of this title][/us/usc/t8/s1101]\], the definitions contained in the Immigration and Nationality Act \[[8 U.S.C. 1101][/us/usc/t8/s1101] et seq.\] shall apply in the administration of this section. Nothing contained in this title shall be held to repeal, amend, alter, modify, effect, or restrict the powers, duties, functions, or authority of the Attorney General in the administration and enforcement of such Act or any other law relating to immigration, nationality, or naturalization. The fact that an alien may be eligible to be granted the status of having been lawfully admitted for permanent residence under this section shall not preclude the alien from seeking such status under any other provision of law for which the alien may be eligible.
 
 >     “(i) __Adjustment of Status Has No Effect On Eligibility For Welfare and Public Benefits.—__ 
 
 >     No alien whose status has been adjusted in accordance with this section and who was not a qualified alien on the date of enactment of this Act \[Oct. 21, 1998\] may, solely on the basis of such adjusted status, be considered to be a qualified alien under section 431(b) of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 ([8 U.S.C. 1641(b)][/us/usc/t8/s1641/b]), as amended by section 5302 of the Balanced Budget Act of 1997 ([Public Law 105–33][/us/pl/105/33]; [111 Stat. 598][/us/stat/111/598]), for purposes of determining the alien’s eligibility for supplemental security income benefits under title XVI of the Social Security Act ([42 U.S.C. 1381][/us/usc/t42/s1381] et seq.) or medical assistance under title XIX of such Act ([42 U.S.C. 1396][/us/usc/t42/s1396] et seq.).
 
->     “(j) __Period of Applicability.—Subsection (i) shall not apply after__  __October 1, 2003__  __.”__ 
+>     “(j) __Period of Applicability.—__ 
+
+>     Subsection (i) shall not apply after October 1, 2003.”
 
 \[[Pub. L. 109–162, title VIII, § 824(b)][/us/pl/109/162/s824/b], Jan. 5, 2006, [119 Stat. 3063][/us/stat/119/3063], provided that: 
 
@@ -925,15 +937,13 @@
 
 >         The numerical level under section 202(a)(2) of the Immigration and Nationality Act \[[8 U.S.C. 1152(a)(2)][/us/usc/t8/s1152/a/2]\] applicable to natives of the People’s Republic of China in each applicable fiscal year (as defined in paragraph (3)) shall be reduced by 1,000.
 
->         “(2) __Allotment if section 202__ 
+>         “(2) __Allotment if section 202(e) applies.—__ 
 
->             (e) __applies.—__ 
+>         If section 202(e) of the Immigration and Nationality Act is applied to the People’s Republic of China in an applicable fiscal year, in applying such section—
 
->             If section 202(e) of the Immigration and Nationality Act is applied to the People’s Republic of China in an applicable fiscal year, in applying such section—
+>             “(A) 300 immigrant visa numbers shall be deemed to have been previously issued to natives of that foreign state under section 203(b)(3)(A)(i) of such Act \[[8 U.S.C. 1153(b)(3)(A)(i)][/us/usc/t8/s1153/b/3/A/i]\] in that year, and
 
->         “(A) 300 immigrant visa numbers shall be deemed to have been previously issued to natives of that foreign state under section 203(b)(3)(A)(i) of such Act \[[8 U.S.C. 1153(b)(3)(A)(i)][/us/usc/t8/s1153/b/3/A/i]\] in that year, and
-
->         “(B) 700 immigrant visa numbers shall be deemed to have been previously issued to natives of that foreign state under section 203(b)(5) of such Act in that year.
+>             “(B) 700 immigrant visa numbers shall be deemed to have been previously issued to natives of that foreign state under section 203(b)(5) of such Act in that year.
 
 >         “(3) __Applicable fiscal year.—__ 
 

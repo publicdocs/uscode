@@ -11,16 +11,44 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t8/ch2/m__us_usc_t8_s31, 32.md) | [Next](./../../../..//us/usc/t8/ch3/m__us_usc_t8_s41 to 43.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fch3)
+[Previous](./../../../..//us/usc/t8/ch2/m__us_usc_t8_ch2.md) | [Next](./../../../..//us/usc/t8/ch3/m__us_usc_t8_s52.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fch3)
 
 ## CHAPTER 3—CIVIL RIGHTS
 
+§§ 41 to 43. __Transferred__ 
+
+ __Codification__ 
+
+    Sections 41 to 43 transferred to sections 1981 to 1983, respectively, of Title 42, The Public Health and Welfare.
+
+§§ 44, 45. __Repealed.__  __[__  __June 25, 1948, ch. 645, § 21__  __][/us/act/1948-06-25/ch645/s21]__  __,__  __[__  __62 Stat. 862__  __][/us/stat/62/862]__  __, eff.__  __Sept. 1, 1948__ 
+
+    Section 44, [act Mar. 1, 1875, ch. 114, § 4][/us/act/1875-03-01/ch114/s4], [18 Stat. 336][/us/stat/18/336], related to exclusion of jurors on account of race or color. See [section 243 of Title 18][/us/usc/t18/s243], Crimes and Criminal Procedure.
+
+    Section 45, acts [Mar. 1, 1875, ch. 114, § 3][/us/act/1875-03-01/ch114/s3], [18 Stat. 336][/us/stat/18/336]; [May 28, 1896, ch. 252, § 19][/us/act/1896-05-28/ch252/s19], [29 Stat. 184][/us/stat/29/184], related to prosecutions for banning jurors because of race or color. See [section 243 of Title 18][/us/usc/t18/s243].
+
+§§ 46 to 51. __Transferred__ 
+
+ __Codification__ 
+
+    Sections 46 to 51 transferred to sections 1984 to 1987, 1989, and 1990, respectively, of Title 42, The Public Health and Welfare.
+
 ----------
 
-[Previous](./../../../..//us/usc/t8/ch2/m__us_usc_t8_s31, 32.md) | [Next](./../../../..//us/usc/t8/ch3/m__us_usc_t8_s41 to 43.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fch3)
+[Previous](./../../../..//us/usc/t8/ch2/m__us_usc_t8_ch2.md) | [Next](./../../../..//us/usc/t8/ch3/m__us_usc_t8_s52.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fch3)
 
 ----------
 ----------
 
+[/us/act/1948-06-25/ch645/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645%2Fs21
+[/us/stat/62/862]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F862
+[/us/act/1875-03-01/ch114/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1875-03-01%2Fch114%2Fs4
+[/us/stat/18/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F18%2F336
+[/us/usc/t18/s243]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs243
+[/us/act/1875-03-01/ch114/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1875-03-01%2Fch114%2Fs3
+[/us/stat/18/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F18%2F336
+[/us/act/1896-05-28/ch252/s19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1896-05-28%2Fch252%2Fs19
+[/us/stat/29/184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F29%2F184
+[/us/usc/t18/s243]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs243
 
 

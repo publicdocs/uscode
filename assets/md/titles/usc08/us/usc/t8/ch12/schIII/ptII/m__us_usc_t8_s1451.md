@@ -49,7 +49,7 @@
 
 ([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title III, ch. 2, § 340, [66 Stat. 260][/us/stat/66/260]; [Sept. 3, 1954, ch. 1263, § 18][/us/act/1954-09-03/ch1263/s18], [68 Stat. 1232][/us/stat/68/1232]; [Pub. L. 87–301, § 18][/us/pl/87/301/s18], Sept. 26, 1961, [75 Stat. 656][/us/stat/75/656]; [Pub. L. 99–653, § 17][/us/pl/99/653/s17], Nov. 14, 1986, [100 Stat. 3658][/us/stat/100/3658]; [Pub. L. 100–525, § 9(dd)][/us/pl/100/525/s9/dd], Oct. 24, 1988, [102 Stat. 2621][/us/stat/102/2621]; [Pub. L. 101–649, title IV, § 407(d)(18)][/us/pl/101/649/s407/d/18], Nov. 29, 1990, [104 Stat. 5046][/us/stat/104/5046]; [Pub. L. 102–232, title III, § 305(k)][/us/pl/102/232/s305/k], Dec. 12, 1991, [105 Stat. 1750][/us/stat/105/1750]; [Pub. L. 103–416, title I, § 104(b)][/us/pl/103/416/s104/b], (c), Oct. 25, 1994, [108 Stat. 4308][/us/stat/108/4308].)
 
- __References In Text__ 
+ __References in Text__ 
 
     Section 702 of the Nationality Act of 1940, as amended, referred to in subsec. (g), which was classified to [section 1002 of this title][/us/usc/t8/s1002], was repealed by section 403(a)(42) of act June 27, 1952. See [section 1440 of this title][/us/usc/t8/s1440].
 

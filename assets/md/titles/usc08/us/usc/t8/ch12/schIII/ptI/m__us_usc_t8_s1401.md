@@ -15,7 +15,7 @@
 
 ## § 1401. Nationals and citizens of United States at birth
 
-The following shall be nationals and citizens of the United States at birth:
+    The following shall be nationals and citizens of the United States at birth:
 
     (a) a person born in the United States, and subject to the jurisdiction thereof;
 
