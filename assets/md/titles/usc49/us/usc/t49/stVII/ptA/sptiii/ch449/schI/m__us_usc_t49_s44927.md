@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../../../..//us/usc/t49/stVII/ptA/sptiii/ch449/schI/m__us_usc_t49_s44926.md) | [Next](./../../../../../../../..//us/usc/t49/stVII/ptA/sptiii/ch449/schII/m__us_usc_t49_stVII_ptA_sptiii_ch449_schII.md) | [Root of Title](./../../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs44927)
+[Previous](./../../../../../../../..//us/usc/t49/stVII/ptA/sptiii/ch449/schI/m__us_usc_t49_s44926.md) | [Next](./../../../../../../../..//us/usc/t49/stVII/ptA/sptiii/ch449/schI/m__us_usc_t49_s44928.md) | [Root of Title](./../../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs44927)
 
 ## § 44927. Expedited screening for severely injured or disabled members of the Armed Forces and severely injured or disabled veterans
 
@@ -59,7 +59,7 @@
 
 ----------
 
-[Previous](./../../../../../../../..//us/usc/t49/stVII/ptA/sptiii/ch449/schI/m__us_usc_t49_s44926.md) | [Next](./../../../../../../../..//us/usc/t49/stVII/ptA/sptiii/ch449/schII/m__us_usc_t49_stVII_ptA_sptiii_ch449_schII.md) | [Root of Title](./../../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs44927)
+[Previous](./../../../../../../../..//us/usc/t49/stVII/ptA/sptiii/ch449/schI/m__us_usc_t49_s44926.md) | [Next](./../../../../../../../..//us/usc/t49/stVII/ptA/sptiii/ch449/schI/m__us_usc_t49_s44928.md) | [Root of Title](./../../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs44927)
 
 ----------
 ----------

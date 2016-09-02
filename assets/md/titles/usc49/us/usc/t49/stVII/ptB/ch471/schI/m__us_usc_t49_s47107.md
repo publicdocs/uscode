@@ -1415,7 +1415,7 @@ Sept. 3, 1982, Pub. L. 97–248, 96 Stat. 324, § 511(g); added May 4, 1990, P
 
 [Pub. L. 104–264, title VIII, § 805(b)(1)][/us/pl/104/264/s805/b/1], Oct. 9, 1996, [110 Stat. 3273][/us/stat/110/3273], provided that: 
 
-> “Not later than 90 days after the date of the enactment of this Act \[Oct. 9, 1996\], the Secretary, acting through the Administrator, shall revise the policies and procedures established under section 47107(l) of title 49, United States Code, to take into account the amendments made to that section by this title.”
+> “Not later than 90 days after the date of the enactment of this Act \[Oct. 9, 1996\], the Secretary, acting through the Administrator, shall revise the policies and procedures established under section 47107(l) \[now 47107(k)\] of title 49, United States Code, to take into account the amendments made to that section by this title.”
 
  __Format for Reporting__ 
 

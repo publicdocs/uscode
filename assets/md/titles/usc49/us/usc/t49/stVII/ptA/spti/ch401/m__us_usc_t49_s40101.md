@@ -417,6 +417,12 @@ In subsection (c), before clause (1), the word “Administrator” in section 30
 
     Except as otherwise specifically provided, amendment by [Pub. L. 104–264][/us/pl/104/264] applicable only to fiscal years beginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see [section 3 of Pub. L. 104–264][/us/pl/104/264/s3], set out as a note under [section 106 of this title][/us/usc/t49/s106].
 
+ __Short Title of 2014 Amendment__ 
+
+[Pub. L. 113–221, § 1][/us/pl/113/221/s1], Dec. 16, 2014, [128 Stat. 2094][/us/stat/128/2094], provided that: 
+
+> “This Act \[enacting [section 44928 of this title][/us/usc/t49/s44928]\] may be cited as the ‘Honor Flight Act’.”
+
  __Short Title of 2013 Amendment__ 
 
 [Pub. L. 113–27, § 1][/us/pl/113/27/s1], Aug. 9, 2013, [127 Stat. 503][/us/stat/127/503], provided that: 
@@ -3401,6 +3407,9 @@ Sec. 5. Additional Functions of the Senior Policy Committee. In addition to perf
 [/us/pl/104/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264
 [/us/pl/104/264/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2Fs3
 [/us/usc/t49/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs106
+[/us/pl/113/221/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F221%2Fs1
+[/us/stat/128/2094]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2094
+[/us/usc/t49/s44928]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs44928
 [/us/pl/113/27/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F27%2Fs1
 [/us/stat/127/503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F503
 [/us/usc/t49/s44927]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs44927

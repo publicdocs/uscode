@@ -41,33 +41,7 @@
 
             The amount of such costs shall be determined by the Under Secretary and shall not be subject to judicial review. For purposes of subparagraph (A), the term “Federal law enforcement personnel” includes State and local law enforcement officers who are deputized under section 44922.
 
-        (2) __Air carrier fees.—__ 
-
-            (A)  __Authority__  __.—__ 
-
-            In addition to the fee imposed pursuant to paragraph (1), and only to the extent that the Under Secretary estimates that such fee will be insufficient to pay for the costs of providing civil aviation security services described in paragraph (1), the Under Secretary may impose a fee on air carriers and foreign air carriers engaged in air transportation and intrastate air transportation to pay for the difference between any such costs and the amount collected from such fee, as estimated by the Under Secretary at the beginning of each fiscal year. The estimates of the Under Secretary under this subparagraph are not subject to judicial review except for estimates and additional collections made pursuant to the appropriation for Aviation Security in [Public Law 108–334][/us/pl/108/334]: Provided, That such judicial review shall be pursuant to [section 46110 of title 49][/us/usc/t49/s46110], United States Code: Provided further, That such judicial review shall be limited only to additional amounts collected by the Secretary before October 1, 2007.
-
-            (B) __Limitations.—__ 
-
-                (i)  __Overall limit__  __.—__ 
-
-                The amounts of fees collected under this paragraph for each fiscal year may not exceed, in the aggregate, the amounts paid in calendar year 2000 by carriers described in subparagraph (A) for screening passengers and property, as determined by the Under Secretary.
-
-                (ii)  __Per-carrier limit__  __.—__ 
-
-                The amount of fees collected under this paragraph from an air carrier described in subparagraph (A) for each of fiscal years 2002, 2003, and 2004 may not exceed the amount paid in calendar year 2000 by that carrier for screening passengers and property, as determined by the Under Secretary.
-
-                (iii)  __Adjustment of per-carrier limit__  __.—__ 
-
-                For fiscal year 2005 and subsequent fiscal years, the per-carrier limitation under clause (ii) may be determined by the Under Secretary on the basis of market share or any other appropriate measure in lieu of actual screening costs in calendar year 2000.
-
-                (iv)  __Finality of determinations__  __.—__ 
-
-                Determinations of the Under Secretary under this subparagraph are not subject to judicial review except for estimates and additional collections made pursuant to the appropriation for Aviation Security in [Public Law 108–334][/us/pl/108/334]: Provided, That such judicial review shall be pursuant to [section 46110 of title 49][/us/usc/t49/s46110], United States Code: Provided further, That such judicial review shall be limited only to additional amounts collected by the Secretary before October 1, 2007.
-
-            (C)  __Special rule for fiscal year 2002__  __.—__ 
-
-            The amount of fees collected under this paragraph from any carrier for fiscal year 2002 may not exceed the amounts paid by that carrier for screening passengers and property for a period of time in calendar year 2000 proportionate to the period of time in fiscal year 2002 during which fees are collected under this paragraph.
+        \[(2) Repealed. [Pub. L. 113–67, div. A, title VI, § 601(a)(1)][/us/pl/113/67/s601/a/1], Dec. 26, 2013, [127 Stat. 1187][/us/stat/127/1187].\]
 
     (b)  __Schedule of Fees__  __.—__ 
 
@@ -81,7 +55,7 @@
 
         (1)  __In general__  __.—__ 
 
-        Notwithstanding [section 9701 of title 31][/us/usc/t31/s9701] and the procedural requirements of [section 553 of title 5][/us/usc/t5/s553], the Under Secretary shall impose the fee under subsection (a)(1), and may impose a fee under subsection (a)(2), through the publication of notice of such fee in the Federal Register and begin collection of the fee within 60 days of the date of enactment of this Act, or as soon as possible thereafter.
+        Notwithstanding [section 9701 of title 31][/us/usc/t31/s9701] and the procedural requirements of [section 553 of title 5][/us/usc/t5/s553], the Under Secretary shall impose the fee under subsection (a)(1) through the publication of notice of such fee in the Federal Register and begin collection of the fee within 60 days of the date of enactment of this Act, or as soon as possible thereafter.
 
         (2)  __Special rules passenger fees__  __.—__ 
 
@@ -179,16 +153,6 @@
 
 (Added [Pub. L. 107–71, title I, § 118(a)][/us/pl/107/71/s118/a], Nov. 19, 2001, [115 Stat. 625][/us/stat/115/625]; amended [Pub. L. 108–7, div. I, title III, § 351(b)][/us/pl/108/7/s351/b], Feb. 20, 2003, [117 Stat. 420][/us/stat/117/420]; [Pub. L. 108–176, title VI, § 605(b)(1)][/us/pl/108/176/s605/b/1], (2), Dec. 12, 2003, [117 Stat. 2568][/us/stat/117/2568]; [Pub. L. 110–53, title XVI, § 1601][/us/pl/110/53/s1601], Aug. 3, 2007, [121 Stat. 477][/us/stat/121/477]; [Pub. L. 110–161, div. E, title V, § 540][/us/pl/110/161/s540], Dec. 26, 2007, [121 Stat. 2079][/us/stat/121/2079]; [Pub. L. 113–67, div. A, title VI, § 601(a)(1)][/us/pl/113/67/s601/a/1], (2), (b), (c), Dec. 26, 2013, [127 Stat. 1187][/us/stat/127/1187].)
 
- __Amendment of Subsections (a)(2) and (d)(1)__ 
-
-[Pub. L. 113–67, div. A, title VI, § 601(a)][/us/pl/113/67/s601/a], Dec. 26, 2013, [127 Stat. 1187][/us/stat/127/1187], provided that, effective Oct. 1, 2014, this section is amended:
-
-    (1) by repealing subsection (a)(2), and
-
-    (2) in subsection (d)(1), by striking “, and may impose a fee under subsection (a)(2),”.
-
-    See 2013 Amendment notes below.
-
  __References in Text__ 
 
     The date of enactment of this Act, referred to in subsec. (d)(1), probably means the date of enactment of [Pub. L. 107–71][/us/pl/107/71], which enacted this section and which was approved Nov. 19, 2001.
@@ -260,10 +224,8 @@
 ----------
 ----------
 
-[/us/pl/108/334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F334
-[/us/usc/t49/s46110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs46110
-[/us/pl/108/334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F334
-[/us/usc/t49/s46110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs46110
+[/us/pl/113/67/s601/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs601%2Fa%2F1
+[/us/stat/127/1187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1187
 [/us/usc/t31/s9701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs9701
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
 [/us/usc/t26/s4261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs4261
@@ -279,8 +241,6 @@
 [/us/pl/110/161/s540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs540
 [/us/stat/121/2079]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2079
 [/us/pl/113/67/s601/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs601%2Fa%2F1
-[/us/stat/127/1187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1187
-[/us/pl/113/67/s601/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs601%2Fa
 [/us/stat/127/1187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1187
 [/us/pl/107/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71
 [/us/pl/107/71/s118/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs118%2Fa
