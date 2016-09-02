@@ -15,11 +15,13 @@
 
 ## § 87h. Appropriations
 
-    There are hereby authorized to be appropriated such sums as are necessary for standardization and compliance activities, monitoring in foreign ports grain officially inspected and weighed under this chapter, and any other expenses necessary to carry out the provisions of this chapter for each of the fiscal years 1988 through 2015, to the extent that financing is not obtained from fees and sales of samples as provided for in sections 79, 79a, 79b, 87e, and 87f–1 of this title.
+    There are hereby authorized to be appropriated such sums as are necessary for standardization and compliance activities, monitoring in foreign ports grain officially inspected and weighed under this chapter, and any other expenses necessary to carry out the provisions of this chapter for each of the fiscal years 1988 through 2020, to the extent that financing is not obtained from fees and sales of samples as provided for in sections 79, 79a, 79b, 87e, and 87f–1 of this title.
 
-([Aug. 11, 1916, ch. 313][/us/act/1916-08-11/ch313], pt. B, § 19, as added [Pub. L. 90–487, § 1][/us/pl/90/487/s1], Aug. 15, 1968, [82 Stat. 769][/us/stat/82/769]; amended [Pub. L. 94–582, § 21][/us/pl/94/582/s21], Oct. 21, 1976, [90 Stat. 2886][/us/stat/90/2886]; [Pub. L. 95–113, title XVI][/us/pl/95/113], §§ 1602(c), 1604(n), Sept. 29, 1977, [91 Stat. 1025][/us/stat/91/1025], 1029; [Pub. L. 97–35, title I, § 155(4)][/us/pl/97/35/s155/4], Aug. 13, 1981, [95 Stat. 372][/us/stat/95/372]; [Pub. L. 98–469, § 2(3)][/us/pl/98/469/s2/3], Oct. 11, 1984, [98 Stat. 1832][/us/stat/98/1832]; [Pub. L. 100–518, § 2(4)][/us/pl/100/518/s2/4], Oct. 24, 1988, [102 Stat. 2586][/us/stat/102/2586]; [Pub. L. 103–156, § 3][/us/pl/103/156/s3], Nov. 24, 1993, [107 Stat. 1525][/us/stat/107/1525]; [Pub. L. 106–472, title I, § 108][/us/pl/106/472/s108], Nov. 9, 2000, [114 Stat. 2060][/us/stat/114/2060]; [Pub. L. 109–83, § 1(a)][/us/pl/109/83/s1/a], Sept. 30, 2005, [119 Stat. 2053][/us/stat/119/2053].)
+([Aug. 11, 1916, ch. 313][/us/act/1916-08-11/ch313], pt. B, § 19, as added [Pub. L. 90–487, § 1][/us/pl/90/487/s1], Aug. 15, 1968, [82 Stat. 769][/us/stat/82/769]; amended [Pub. L. 94–582, § 21][/us/pl/94/582/s21], Oct. 21, 1976, [90 Stat. 2886][/us/stat/90/2886]; [Pub. L. 95–113, title XVI][/us/pl/95/113], §§ 1602(c), 1604(n), Sept. 29, 1977, [91 Stat. 1025][/us/stat/91/1025], 1029; [Pub. L. 97–35, title I, § 155(4)][/us/pl/97/35/s155/4], Aug. 13, 1981, [95 Stat. 372][/us/stat/95/372]; [Pub. L. 98–469, § 2(3)][/us/pl/98/469/s2/3], Oct. 11, 1984, [98 Stat. 1832][/us/stat/98/1832]; [Pub. L. 100–518, § 2(4)][/us/pl/100/518/s2/4], Oct. 24, 1988, [102 Stat. 2586][/us/stat/102/2586]; [Pub. L. 103–156, § 3][/us/pl/103/156/s3], Nov. 24, 1993, [107 Stat. 1525][/us/stat/107/1525]; [Pub. L. 106–472, title I, § 108][/us/pl/106/472/s108], Nov. 9, 2000, [114 Stat. 2060][/us/stat/114/2060]; [Pub. L. 109–83, § 1(a)][/us/pl/109/83/s1/a], Sept. 30, 2005, [119 Stat. 2053][/us/stat/119/2053]; [Pub. L. 114–54, title III, § 301(f)][/us/pl/114/54/s301/f], Sept. 30, 2015, [129 Stat. 520][/us/stat/129/520].)
 
  __Amendments__ 
+
+    2015—[Pub. L. 114–54][/us/pl/114/54] substituted “2020” for “2015”.
 
     2005—[Pub. L. 109–83][/us/pl/109/83] substituted “2015” for “2005”.
 
@@ -95,6 +97,9 @@
 [/us/stat/114/2060]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2060
 [/us/pl/109/83/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F83%2Fs1%2Fa
 [/us/stat/119/2053]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2053
+[/us/pl/114/54/s301/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F54%2Fs301%2Ff
+[/us/stat/129/520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F520
+[/us/pl/114/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F54
 [/us/pl/109/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F83
 [/us/pl/106/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F472
 [/us/pl/103/156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F156

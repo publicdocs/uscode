@@ -27,7 +27,7 @@
 
  __Livestock Mandatory Reporting__ 
 
-[Pub. L. 106–78, title IX][/us/pl/106/78], Oct. 22, 1999, [113 Stat. 1188][/us/stat/113/1188], as amended by [Pub. L. 108–444, § 1][/us/pl/108/444/s1], Dec. 3, 2004, [118 Stat. 2635][/us/stat/118/2635]; [Pub. L. 109–296, § 1(b)][/us/pl/109/296/s1/b], Oct. 5, 2006, [120 Stat. 1464][/us/stat/120/1464]; [Pub. L. 111–239, § 2(a)(2)][/us/pl/111/239/s2/a/2], Sept. 27, 2010, [124 Stat. 2501][/us/stat/124/2501], provided that:
+[Pub. L. 106–78, title IX][/us/pl/106/78], Oct. 22, 1999, [113 Stat. 1188][/us/stat/113/1188], as amended by [Pub. L. 108–444, § 1][/us/pl/108/444/s1], Dec. 3, 2004, [118 Stat. 2635][/us/stat/118/2635]; [Pub. L. 109–296, § 1(b)][/us/pl/109/296/s1/b], Oct. 5, 2006, [120 Stat. 1464][/us/stat/120/1464]; [Pub. L. 111–239, § 2(a)(2)][/us/pl/111/239/s2/a/2], Sept. 27, 2010, [124 Stat. 2501][/us/stat/124/2501]; [Pub. L. 114–54, title I, § 101(b)][/us/pl/114/54/s101/b], Sept. 30, 2015, [129 Stat. 513][/us/stat/129/513], provided that:
 
 > “SEC. 901. __SHORT TITLE.__ 
 
@@ -183,7 +183,7 @@
 
 > “SEC. 942. __TERMINATION OF AUTHORITY.__ 
 
->     “The authority provided by this title \[enacting sections 198 to 198b and 1635 to 1636h of this title and this note, amending sections 192 and 5712 of this title, repealing [section 229a of this title][/us/usc/t7/s229a], and amending provisions set out as a note under [section 1421 of this title][/us/usc/t7/s1421]\] and the amendments made by this title (other than section 911 of subtitle A \[enacting this subchapter\] and the amendments made by that section) terminate on September 30, 2015.”
+>     “The authority provided by this title \[enacting sections 198 to 198b and 1635 to 1636h of this title and this note, amending sections 192 and 5712 of this title, repealing [section 229a of this title][/us/usc/t7/s229a], and amending provisions set out as a note under [section 1421 of this title][/us/usc/t7/s1421]\] and the amendments made by this title (other than section 911 of subtitle A \[enacting this subchapter\] and the amendments made by that section) terminate\[s\] on September 30, 2020.”
 
 ----------
 
@@ -203,6 +203,8 @@
 [/us/stat/120/1464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1464
 [/us/pl/111/239/s2/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F239%2Fs2%2Fa%2F2
 [/us/stat/124/2501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2501
+[/us/pl/114/54/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F54%2Fs101%2Fb
+[/us/stat/129/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F513
 [/us/usc/t7/s229a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs229a
 [/us/usc/t7/s1421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1421
 [/us/usc/t7/s192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs192

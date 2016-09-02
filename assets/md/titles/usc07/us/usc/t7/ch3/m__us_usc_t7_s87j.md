@@ -33,9 +33,9 @@
 
     (e) __Expiration of Secretary’s authority__ 
 
-        The authority provided to the Secretary for the establishment and maintenance of an advisory committee under this section shall expire on September 30, 2015.
+        The authority provided to the Secretary for the establishment and maintenance of an advisory committee under this section shall expire on September 30, 2020.
 
-([Aug. 11, 1916, ch. 313][/us/act/1916-08-11/ch313], pt. B, § 21, as added [Pub. L. 100–518, § 2(5)][/us/pl/100/518/s2/5], Oct. 24, 1988, [102 Stat. 2586][/us/stat/102/2586]; amended [Pub. L. 103–156][/us/pl/103/156], §§ 13(b)(1), 14(c), Nov. 24, 1993, [107 Stat. 1529][/us/stat/107/1529], 1530; [Pub. L. 103–354, title II, § 293(a)(7)][/us/pl/103/354/s293/a/7], Oct. 13, 1994, [108 Stat. 3237][/us/stat/108/3237]; [Pub. L. 106–472, title I, § 109][/us/pl/106/472/s109], Nov. 9, 2000, [114 Stat. 2060][/us/stat/114/2060]; [Pub. L. 109–83, § 1(a)][/us/pl/109/83/s1/a], Sept. 30, 2005, [119 Stat. 2053][/us/stat/119/2053].)
+([Aug. 11, 1916, ch. 313][/us/act/1916-08-11/ch313], pt. B, § 21, as added [Pub. L. 100–518, § 2(5)][/us/pl/100/518/s2/5], Oct. 24, 1988, [102 Stat. 2586][/us/stat/102/2586]; amended [Pub. L. 103–156][/us/pl/103/156], §§ 13(b)(1), 14(c), Nov. 24, 1993, [107 Stat. 1529][/us/stat/107/1529], 1530; [Pub. L. 103–354, title II, § 293(a)(7)][/us/pl/103/354/s293/a/7], Oct. 13, 1994, [108 Stat. 3237][/us/stat/108/3237]; [Pub. L. 106–472, title I, § 109][/us/pl/106/472/s109], Nov. 9, 2000, [114 Stat. 2060][/us/stat/114/2060]; [Pub. L. 109–83, § 1(a)][/us/pl/109/83/s1/a], Sept. 30, 2005, [119 Stat. 2053][/us/stat/119/2053]; [Pub. L. 114–54, title III, § 301(g)][/us/pl/114/54/s301/g], Sept. 30, 2015, [129 Stat. 520][/us/stat/129/520].)
 
  __References in Text__ 
 
@@ -44,6 +44,8 @@
     The Federal Advisory Committee Act, referred to in subsec. (b), is [Pub. L. 92–463][/us/pl/92/463], Oct. 6, 1972, [86 Stat. 770][/us/stat/86/770], as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
  __Amendments__ 
+
+    2015—Subsec. (e). [Pub. L. 114–54][/us/pl/114/54] substituted “2020” for “2015”.
 
     2005—Subsec. (e). [Pub. L. 109–83][/us/pl/109/83] substituted “2015” for “2005”.
 
@@ -84,9 +86,12 @@
 [/us/stat/114/2060]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2060
 [/us/pl/109/83/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F83%2Fs1%2Fa
 [/us/stat/119/2053]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2053
+[/us/pl/114/54/s301/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F54%2Fs301%2Fg
+[/us/stat/129/520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F520
 [/us/pl/100/518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F518
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770
+[/us/pl/114/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F54
 [/us/pl/109/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F83
 [/us/pl/106/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F472
 [/us/pl/103/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354

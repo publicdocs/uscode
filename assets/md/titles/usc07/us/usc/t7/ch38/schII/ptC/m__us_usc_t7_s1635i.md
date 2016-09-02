@@ -61,11 +61,19 @@
 
         (C) boars or stags.
 
-    (9) __Noncarcass merit premium__ 
+    (9) __Negotiated formula purchase__ 
+
+    The term “negotiated formula purchase” means a swine or pork market formula purchase under which—
+
+        (A) the formula is determined by negotiation on a lot-by-lot basis; and
+
+        (B) the swine are scheduled for delivery to the packer not later than 14 days after the date on which the formula is negotiated and swine are committed to the packer.
+
+    (10) __Noncarcass merit premium__ 
 
         The term “noncarcass merit premium” means an increase in the base price of the swine offered by an individual packer or packing plant, based on any factor other than the characteristics of the carcass, if the actual amount of the premium is known before the sale and delivery of the swine.
 
-    (10) __Other market formula purchase__ 
+    (11) __Other market formula purchase__ 
 
         (A) __In general__ 
 
@@ -75,15 +83,15 @@
 
             The term “other market formula purchase” includes a formula purchase in a case in which the price formula is based on one or more futures or options contracts.
 
-    (11) __Other purchase arrangement__ 
+    (12) __Other purchase arrangement__ 
 
     The term “other purchase arrangement” means a purchase of swine by a packer that—
 
-        (A) is not a negotiated purchase, swine or pork market formula purchase, or other market formula purchase; and
+        (A) is not a negotiated purchase, swine or pork market formula purchase, negotiated formula purchase, or other market formula purchase; and
 
         (B) does not involve packer-owned swine.
 
-    (12) __Packer__ 
+    (13) __Packer__ 
 
     The term “packer” means any person engaged in the business of buying swine in commerce for purposes of slaughter, of manufacturing or preparing meats or meat food products from swine for sale or shipment in commerce, or of marketing meats or meat food products from swine in an unmanufactured form acting as a wholesale broker, dealer, or distributor in commerce, except that—
 
@@ -99,11 +107,11 @@
 
         (C) in the case of a swine processing plant or person that did not slaughter swine during the immediately preceding 5 calendar years, the Secretary shall consider the plant capacity of the processing plant or person in determining whether the processing plant or person should be considered a packer under this part.
 
-    (13) __Packer-owned swine__ 
+    (14) __Packer-owned swine__ 
 
         The term “packer-owned swine” means swine that a packer (including a subsidiary or affiliate of the packer) owns for at least 14 days immediately before slaughter.
 
-    (14) __Packer-sold swine__ 
+    (15) __Packer-sold swine__ 
 
     The term “packer-sold swine” means the swine that are—
 
@@ -111,15 +119,15 @@
 
         (B) sold for slaughter to another packer.
 
-    (15) __Pork__ 
+    (16) __Pork__ 
 
         The term “pork” means the meat of a porcine animal.
 
-    (16) __Pork product__ 
+    (17) __Pork product__ 
 
         The term “pork product” means a product or byproduct produced or processed in whole or in part from pork.
 
-    (17) __Purchase data__ 
+    (18) __Purchase data__ 
 
     The term “purchase data” means all of the applicable data, including weight (if purchased live), for all swine purchased during the applicable reporting period, regardless of the expected delivery date of the swine, reported by—
 
@@ -129,7 +137,7 @@
 
         (C) packer-owned swine.
 
-    (18) __Slaughter data__ 
+    (19) __Slaughter data__ 
 
     The term “slaughter data” means all of the applicable data for all swine slaughtered by a packer during the applicable reporting period, regardless of when the price of the swine was negotiated or otherwise determined, reported by—
 
@@ -139,19 +147,19 @@
 
         (C) packer-owned swine.
 
-    (19) __Sow__ 
+    (20) __Sow__ 
 
         The term “sow” means an adult female swine that has produced one or more litters.
 
-    (20) __Swine__ 
+    (21) __Swine__ 
 
         The term “swine” means a porcine animal raised to be a feeder pig, raised for seedstock, or raised for slaughter.
 
-    (21) __Swine or pork market formula purchase__ 
+    (22) __Swine or pork market formula purchase__ 
 
         The term “swine or pork market formula purchase” means a purchase of swine by a packer in which the pricing mechanism is a formula price based on a market for swine, pork, or a pork product, other than a future or option for swine, pork, or a pork product.
 
-    (22) __Type of purchase__ 
+    (23) __Type of purchase__ 
 
     The term “type of purchase”, with respect to swine, means—
 
@@ -159,13 +167,23 @@
 
         (B) other market formula purchase;
 
-        (C) a swine or pork market formula purchase; and
+        (C) a swine or pork market formula purchase;
 
-        (D) other purchase arrangement.
+        (D) a negotiated formula purchase; and
 
-([Aug. 14, 1946, ch. 966][/us/act/1946-08-14/ch966], title II, § 231, as added [Pub. L. 106–78, title IX, § 911(2)][/us/pl/106/78/s911/2], Oct. 22, 1999, [113 Stat. 1193][/us/stat/113/1193]; amended [Pub. L. 109–296, § 2][/us/pl/109/296/s2], Oct. 5, 2006, [120 Stat. 1464][/us/stat/120/1464].)
+        (E) other purchase arrangement.
+
+([Aug. 14, 1946, ch. 966][/us/act/1946-08-14/ch966], title II, § 231, as added [Pub. L. 106–78, title IX, § 911(2)][/us/pl/106/78/s911/2], Oct. 22, 1999, [113 Stat. 1193][/us/stat/113/1193]; amended [Pub. L. 109–296, § 2][/us/pl/109/296/s2], Oct. 5, 2006, [120 Stat. 1464][/us/stat/120/1464]; [Pub. L. 114–54, title I, § 102(a)][/us/pl/114/54/s102/a], Sept. 30, 2015, [129 Stat. 513][/us/stat/129/513].)
 
  __Amendments__ 
+
+    2015—Pars. (9) to (12). [Pub. L. 114–54, § 102(a)(1)][/us/pl/114/54/s102/a/1], (2), added par. (9) and redesignated former pars. (9) to (11) as (10) to (12), respectively. Former par. (12) redesignated (13).
+
+    Par. (12)(A). [Pub. L. 114–54, § 102(a)(3)][/us/pl/114/54/s102/a/3], inserted “negotiated formula purchase,” after “pork market formula purchase,”.
+
+    Pars. (13) to (23). [Pub. L. 114–54, § 102(a)(1)][/us/pl/114/54/s102/a/1], redesignated pars. (12) to (22) as (13) to (23), respectively.
+
+    Par. (23)(D). [Pub. L. 114–54, § 102(a)(4)][/us/pl/114/54/s102/a/4], added subpar. (D).
 
     2006—Par. (4). [Pub. L. 109–296, § 2(a)][/us/pl/109/296/s2/a], reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The term ‘base market hog’ means a hog for which no discounts are subtracted from and no premiums are added to the base price.”
 
@@ -188,6 +206,12 @@
 [/us/stat/113/1193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1193
 [/us/pl/109/296/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F296%2Fs2
 [/us/stat/120/1464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1464
+[/us/pl/114/54/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F54%2Fs102%2Fa
+[/us/stat/129/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F513
+[/us/pl/114/54/s102/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F54%2Fs102%2Fa%2F1
+[/us/pl/114/54/s102/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F54%2Fs102%2Fa%2F3
+[/us/pl/114/54/s102/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F54%2Fs102%2Fa%2F1
+[/us/pl/114/54/s102/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F54%2Fs102%2Fa%2F4
 [/us/pl/109/296/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F296%2Fs2%2Fa
 [/us/pl/109/296/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F296%2Fs2%2Fb
 [/us/pl/109/296/s2/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F296%2Fs2%2Fc%2F1

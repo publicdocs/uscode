@@ -33,6 +33,12 @@
 
     Amendment by [Pub. L. 90–487][/us/pl/90/487] effective 180 days after Aug. 15, 1968, see [section 2 of Pub. L. 90–487][/us/pl/90/487/s2], set out as a note under [section 78 of this title][/us/usc/t7/s78].
 
+ __Short Title of 2015 Amendment__ 
+
+[Pub. L. 114–54, § 1][/us/pl/114/54/s1], Sept. 30, 2015, [129 Stat. 513][/us/stat/129/513], provided that: 
+
+> “This Act \[amending sections 77, 79, 79a, 79d, 84, 87h, 87j, 1635i, 1635j, and 1636i of this title and sections 583j–2, 583j–3, 583j–5, and 583j–8 of Title 16, Conservation, enacting provisions set out as a note under [section 1635m of this title][/us/usc/t7/s1635m], and amending provisions set out as a note under [section 1635 of this title][/us/usc/t7/s1635]\] may be cited as the ‘Agriculture Reauthorizations Act of 2015’.”
+
  __Short Title of 2000 Amendment__ 
 
 [Pub. L. 106–472, § 1(a)][/us/pl/106/472/s1/a], Nov. 9, 2000, [114 Stat. 2058][/us/stat/114/2058], provided that: 
@@ -96,6 +102,10 @@
 [/us/pl/90/487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F487
 [/us/pl/90/487/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F487%2Fs2
 [/us/usc/t7/s78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs78
+[/us/pl/114/54/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F54%2Fs1
+[/us/stat/129/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F513
+[/us/usc/t7/s1635m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1635m
+[/us/usc/t7/s1635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1635
 [/us/pl/106/472/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F472%2Fs1%2Fa
 [/us/stat/114/2058]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2058
 [/us/usc/t16/s1012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1012

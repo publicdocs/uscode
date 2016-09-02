@@ -151,7 +151,7 @@
 
  __References in Text__ 
 
-    [Section 1308(5) of this title][/us/usc/t7/s1308/5], which required the Secretary to issue regulations defining “person”, referred to in subsec. (b)(3), was redesignated section 1308(e) and amended by [section 1603(b)(1) of Pub. L. 107–171][/us/pl/107/171/s1603/b/1]. Section 1603(a) of the Food, Conservation, and Energy Act of 2008 probably should be a reference to section 1603(b)(1)(C), (3)(A) of that Act, [Pub. L. 110–246][/us/pl/110/246], which subsequently amended [section 1308 of this title][/us/usc/t7/s1308] by striking out subsec. (e) and adding a new subsec. (a)(4) defining “person”.
+    [Section 1308(5) of this title][/us/usc/t7/s1308/5], which required the Secretary to issue regulations defining “person”, referred to in subsec. (b)(3), was redesignated section 1308(e) and amended by [section 1603(b)(1) of Pub. L. 107–171][/us/pl/107/171/s1603/b/1]. Section 1603(a) of the Food, Conservation, and Energy Act of 2008, [Pub. L. 110–246][/us/pl/110/246], subsequently amended the definition of “covered commodity” in section 1308(a)(1). [Section 1603(b) of Pub. L. 110–246][/us/pl/110/246/s1603/b] amended section 1308 by, among other things, striking out subsec. (e) and adding subsec. (a)(4) which defined “person”. The amendments by [section 1603 of Pub. L. 110–246][/us/pl/110/246/s1603] to section 1308 were effective May 22, 2008.
 
  __Codification__ 
 
@@ -263,7 +263,8 @@
 [/us/usc/t7/s1308/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1308%2F5
 [/us/pl/107/171/s1603/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs1603%2Fb%2F1
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
-[/us/usc/t7/s1308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1308
+[/us/pl/110/246/s1603/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs1603%2Fb
+[/us/pl/110/246/s1603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs1603
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234

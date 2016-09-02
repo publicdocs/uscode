@@ -21,7 +21,7 @@
 
     (b) __Duration of licenses; suspension; reinstatement__ 
 
-        All classes of licenses issued under this chapter shall terminate triennially on a date or dates to be fixed by regulation of the Secretary: Provided, That any license shall be suspended automatically when the licensee ceases to be employed by an official agency or by a State agency under a delegation of authority pursuant to this chapter or to operate under the terms of a contract for the conduct of any functions under this chapter: Provided further, That subject to subsection (c) of this section such license shall be reinstated if the licensee is employed by an official agency or by a State agency under a delegation of authority pursuant to this chapter or resumes operation under such a contract within one year of the suspension date and the license has not expired in the interim.
+        All classes of licenses issued under this chapter shall terminate every 5 years on a date or dates to be fixed by regulation of the Secretary: Provided, That any license shall be suspended automatically when the licensee ceases to be employed by an official agency or by a State agency under a delegation of authority pursuant to this chapter or to operate under the terms of a contract for the conduct of any functions under this chapter: Provided further, That subject to subsection (c) of this section such license shall be reinstated if the licensee is employed by an official agency or by a State agency under a delegation of authority pursuant to this chapter or resumes operation under such a contract within one year of the suspension date and the license has not expired in the interim.
 
     (c) __Examination of applicants; reexaminations__ 
 
@@ -43,13 +43,15 @@
 
         The Secretary shall develop and effectuate standards for the recruiting, training, and supervising of official inspection personnel and appropriate work production standards for such personnel, which shall be applicable to the Secretary, all State agencies under delegation of authority pursuant to this chapter, and all official agencies and all persons licensed or authorized to perform functions under this chapter: Provided, That persons licensed or authorized on October 21, 1976, to perform any official function under this chapter, shall be exempted from the uniform recruiting and training provisions of this subsection and regulations or standards issued pursuant thereto if the Secretary determines that such persons are technically and professionally qualified for the duties to which they will be assigned and they agree to complete whatever additional training the Secretary deems necessary.
 
-([Aug. 11, 1916, ch. 313][/us/act/1916-08-11/ch313], pt. B, § 8, [39 Stat. 485][/us/stat/39/485]; [Pub. L. 90–487, § 1][/us/pl/90/487/s1], Aug. 15, 1968, [82 Stat. 764][/us/stat/82/764]; [Pub. L. 94–582, § 10][/us/pl/94/582/s10], Oct. 21, 1976, [90 Stat. 2877][/us/stat/90/2877]; [Pub. L. 95–113, title XVI][/us/pl/95/113], §§ 1604(g), 1606(f), Sept. 29, 1977, [91 Stat. 1028][/us/stat/91/1028], 1030; [Pub. L. 103–156][/us/pl/103/156], §§ 6, 12(g), Nov. 24, 1993, [107 Stat. 1526][/us/stat/107/1526], 1528; [Pub. L. 103–354, title II, § 293(a)(7)][/us/pl/103/354/s293/a/7], (8), Oct. 13, 1994, [108 Stat. 3237][/us/stat/108/3237]; [Pub. L. 106–472, title I, § 106][/us/pl/106/472/s106], Nov. 9, 2000, [114 Stat. 2060][/us/stat/114/2060].)
+([Aug. 11, 1916, ch. 313][/us/act/1916-08-11/ch313], pt. B, § 8, [39 Stat. 485][/us/stat/39/485]; [Pub. L. 90–487, § 1][/us/pl/90/487/s1], Aug. 15, 1968, [82 Stat. 764][/us/stat/82/764]; [Pub. L. 94–582, § 10][/us/pl/94/582/s10], Oct. 21, 1976, [90 Stat. 2877][/us/stat/90/2877]; [Pub. L. 95–113, title XVI][/us/pl/95/113], §§ 1604(g), 1606(f), Sept. 29, 1977, [91 Stat. 1028][/us/stat/91/1028], 1030; [Pub. L. 103–156][/us/pl/103/156], §§ 6, 12(g), Nov. 24, 1993, [107 Stat. 1526][/us/stat/107/1526], 1528; [Pub. L. 103–354, title II, § 293(a)(7)][/us/pl/103/354/s293/a/7], (8), Oct. 13, 1994, [108 Stat. 3237][/us/stat/108/3237]; [Pub. L. 106–472, title I, § 106][/us/pl/106/472/s106], Nov. 9, 2000, [114 Stat. 2060][/us/stat/114/2060]; [Pub. L. 114–54, title III, § 301(e)][/us/pl/114/54/s301/e], Sept. 30, 2015, [129 Stat. 520][/us/stat/129/520].)
 
  __References in Text__ 
 
     The General Schedule, referred to in subsec. (e), is set out under [section 5332 of Title 5][/us/usc/t5/s5332].
 
  __Amendments__ 
+
+    2015—Subsec. (b). [Pub. L. 114–54][/us/pl/114/54] substituted “every 5 years” for “triennially”.
 
     2000—Subsec. (a)(3). [Pub. L. 106–472][/us/pl/106/472] inserted “inspection, weighing,” after “laboratory testing,”.
 
@@ -124,7 +126,10 @@
 [/us/stat/108/3237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3237
 [/us/pl/106/472/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F472%2Fs106
 [/us/stat/114/2060]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2060
+[/us/pl/114/54/s301/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F54%2Fs301%2Fe
+[/us/stat/129/520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F520
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
+[/us/pl/114/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F54
 [/us/pl/106/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F472
 [/us/pl/103/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354
 [/us/pl/103/156/s12/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F156%2Fs12%2Fg

@@ -163,7 +163,13 @@
 
                 (ii) __Price distributions__ 
 
-                    The information published by the Secretary under clause (i) shall include a distribution of net prices in the range between and including the lowest net price and the highest net price reported. The publication shall include a delineation of the number of barrows and gilts at each reported price level or, at the option of the Secretary, the number of barrows and gilts within each of a series of reasonable price bands within the range of prices.
+                The information published by the Secretary under clause (i) shall include—
+
+                    (I) a distribution of net prices in the range between and including the lowest net price and the highest net price reported;
+
+                    (II) a delineation of the number of barrows and gilts at each reported price level or, at the option of the Secretary, the number of barrows and gilts within each of a series of reasonable price bands within the range of prices; and
+
+                    (III) the total number and weighted average price of barrows and gilts purchased through negotiated purchases and negotiated formula purchases.
 
         (2) __Morning report__ 
 
@@ -200,6 +206,10 @@
             (B) __Publication__ 
 
                 The Secretary shall publish the information obtained under this paragraph in the afternoon report as soon as practicable, but not later than 3:00 p.m. Central Time, on each reporting day.
+
+            (C) __Late in the day report information__ 
+
+                The Secretary shall include in the morning report and the afternoon report for the following day any information required to be reported under subparagraph (A) that is obtained after the time of the reporting day specified in that subparagraph.
 
     (d) __Daily reporting; sows and boars__ 
 
@@ -277,9 +287,13 @@
 
             The Secretary shall publish the information obtained under this subsection as soon as practicable, but not later than 5:00 p.m. Central Time, on the first reporting day of each week.
 
-([Aug. 14, 1946, ch. 966][/us/act/1946-08-14/ch966], title II, § 232, as added [Pub. L. 106–78, title IX, § 911(2)][/us/pl/106/78/s911/2], Oct. 22, 1999, [113 Stat. 1195][/us/stat/113/1195]; amended [Pub. L. 109–296][/us/pl/109/296], §§ 3, 4, Oct. 5, 2006, [120 Stat. 1465][/us/stat/120/1465], 1468.)
+([Aug. 14, 1946, ch. 966][/us/act/1946-08-14/ch966], title II, § 232, as added [Pub. L. 106–78, title IX, § 911(2)][/us/pl/106/78/s911/2], Oct. 22, 1999, [113 Stat. 1195][/us/stat/113/1195]; amended [Pub. L. 109–296][/us/pl/109/296], §§ 3, 4, Oct. 5, 2006, [120 Stat. 1465][/us/stat/120/1465], 1468; [Pub. L. 114–54, title I, § 102(b)][/us/pl/114/54/s102/b], Sept. 30, 2015, [129 Stat. 514][/us/stat/129/514].)
 
  __Amendments__ 
+
+    2015—Subsec. (c)(1)(D)(ii). [Pub. L. 114–54, § 102(b)(1)][/us/pl/114/54/s102/b/1], added cl. (ii) and struck out former cl. (ii). Prior to amendment, text read as follows: “The information published by the Secretary under clause (i) shall include a distribution of net prices in the range between and including the lowest net price and the highest net price reported. The publication shall include a delineation of the number of barrows and gilts at each reported price level or, at the option of the Secretary, the number of barrows and gilts within each of a series of reasonable price bands within the range of prices.”
+
+    Subsec. (c)(3)(C). [Pub. L. 114–54, § 102(b)(2)][/us/pl/114/54/s102/b/2], added subpar. (C).
 
     2006—Subsec. (c). [Pub. L. 109–296, § 3][/us/pl/109/296/s3], amended heading and text of subsec. (c) generally. Prior to amendment, text related to daily reporting.
 
@@ -297,6 +311,10 @@
 [/us/stat/113/1195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1195
 [/us/pl/109/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F296
 [/us/stat/120/1465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1465
+[/us/pl/114/54/s102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F54%2Fs102%2Fb
+[/us/stat/129/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F514
+[/us/pl/114/54/s102/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F54%2Fs102%2Fb%2F1
+[/us/pl/114/54/s102/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F54%2Fs102%2Fb%2F2
 [/us/pl/109/296/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F296%2Fs3
 [/us/pl/109/296/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F296%2Fs4
 

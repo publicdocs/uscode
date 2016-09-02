@@ -15,11 +15,13 @@
 
 ## § 79d. Limitation on administrative and supervisory costs
 
-    The total administrative and supervisory costs which may be incurred under this chapter for services performed (excluding standardization, compliance, and foreign monitoring activities) for each of the fiscal years 1989 through 2015 shall not exceed 30 percent of the total costs for such activities carried out by the Secretary for such year.
+    The total administrative and supervisory costs which may be incurred under this chapter for services performed (excluding standardization, compliance, and foreign monitoring activities) for each of the fiscal years 1989 through 2020 shall not exceed 30 percent of the total costs for such activities carried out by the Secretary for such year.
 
-([Aug. 11, 1916, ch. 313][/us/act/1916-08-11/ch313], pt. B, § 7D, as added [Pub. L. 100–518, § 2(3)][/us/pl/100/518/s2/3], Oct. 24, 1988, [102 Stat. 2585][/us/stat/102/2585]; amended [Pub. L. 103–156, § 2][/us/pl/103/156/s2], Nov. 24, 1993, [107 Stat. 1525][/us/stat/107/1525]; [Pub. L. 103–354, title II, § 293(a)(8)][/us/pl/103/354/s293/a/8], Oct. 13, 1994, [108 Stat. 3237][/us/stat/108/3237]; [Pub. L. 106–472, title I, § 105][/us/pl/106/472/s105], Nov. 9, 2000, [114 Stat. 2060][/us/stat/114/2060]; [Pub. L. 109–83, § 1(a)][/us/pl/109/83/s1/a], Sept. 30, 2005, [119 Stat. 2053][/us/stat/119/2053].)
+([Aug. 11, 1916, ch. 313][/us/act/1916-08-11/ch313], pt. B, § 7D, as added [Pub. L. 100–518, § 2(3)][/us/pl/100/518/s2/3], Oct. 24, 1988, [102 Stat. 2585][/us/stat/102/2585]; amended [Pub. L. 103–156, § 2][/us/pl/103/156/s2], Nov. 24, 1993, [107 Stat. 1525][/us/stat/107/1525]; [Pub. L. 103–354, title II, § 293(a)(8)][/us/pl/103/354/s293/a/8], Oct. 13, 1994, [108 Stat. 3237][/us/stat/108/3237]; [Pub. L. 106–472, title I, § 105][/us/pl/106/472/s105], Nov. 9, 2000, [114 Stat. 2060][/us/stat/114/2060]; [Pub. L. 109–83, § 1(a)][/us/pl/109/83/s1/a], Sept. 30, 2005, [119 Stat. 2053][/us/stat/119/2053]; [Pub. L. 114–54, title III, § 301(d)][/us/pl/114/54/s301/d], Sept. 30, 2015, [129 Stat. 520][/us/stat/129/520].)
 
  __Amendments__ 
+
+    2015—[Pub. L. 114–54][/us/pl/114/54] substituted “2020” for “2015”.
 
     2005—[Pub. L. 109–83][/us/pl/109/83] substituted “2015” for “2005”.
 
@@ -73,6 +75,9 @@
 [/us/stat/114/2060]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2060
 [/us/pl/109/83/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F83%2Fs1%2Fa
 [/us/stat/119/2053]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2053
+[/us/pl/114/54/s301/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F54%2Fs301%2Fd
+[/us/stat/129/520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F520
+[/us/pl/114/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F54
 [/us/pl/109/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F83
 [/us/pl/106/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F472
 [/us/pl/103/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354

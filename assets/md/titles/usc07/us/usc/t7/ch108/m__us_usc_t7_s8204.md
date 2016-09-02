@@ -35,7 +35,7 @@
 
  __References in Text__ 
 
-    [Section 1308 of this title][/us/usc/t7/s1308] (before the amendment made by section 1603(a) of the Food, Conservation, and Energy Act of 2008), referred to in subsec. (c)(1), probably means [section 1308 of this title][/us/usc/t7/s1308] before the amendment made by section 1603(b)(3)(A) of that Act, [Pub. L. 110–246][/us/pl/110/246], which struck out provisions in [section 1308 of this title][/us/usc/t7/s1308] relating to issuance of regulations defining the term “person”.
+    [Section 1308 of this title][/us/usc/t7/s1308] (before the amendment made by section 1603(a) of the Food, Conservation, and Energy Act of 2008), referred to in subsec. (c)(1), means [section 1308 of this title][/us/usc/t7/s1308] before the amendment by [section 1603(a) of Pub. L. 110–246][/us/pl/110/246/s1603/a], which amended the definition of “covered commodity” in section 1308(a)(1). [Section 1603(b) of Pub. L. 110–246][/us/pl/110/246/s1603/b] amended section 1308 by, among other things, adding subsec. (a)(4) which defined “person” and striking out subsec. (e) which related to issuance of regulations defining “person”. The amendments by [section 1603 of Pub. L. 110–246][/us/pl/110/246/s1603] to section 1308 were effective May 22, 2008.
 
  __Codification__ 
 
@@ -73,8 +73,9 @@
 [/us/stat/128/709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F709
 [/us/usc/t7/s1308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1308
 [/us/usc/t7/s1308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1308
-[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
-[/us/usc/t7/s1308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1308
+[/us/pl/110/246/s1603/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs1603%2Fa
+[/us/pl/110/246/s1603/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs1603%2Fb
+[/us/pl/110/246/s1603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs1603
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
