@@ -13,39 +13,29 @@
 
 [Previous](./../../../../..//us/usc/t51/stVII/ch701/m__us_usc_t51_s70101.md) | [Next](./../../../../..//us/usc/t51/stVII/ch701/m__us_usc_t51_s70103.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft51%2Fs70102)
 
-## § 70102. Space shuttle use policy
+## § 70102. Space launch system use policy
 
-    (a) __Use Policy.—__ 
+    (a)  __In General__  __.—__ 
 
-        (1) __In general.—__ 
+    The Space Launch System may be used for the following circumstances:
 
-            (A)  __Policy__  __.—__ 
+        (1) Payloads and missions that contribute to extending human presence beyond low-Earth orbit and substantially benefit from the unique capabilities of the Space Launch System.
 
-            It shall be the policy of the United States to use the space shuttle—
+        (2) Other payloads and missions that substantially benefit from the unique capabilities of the Space Launch System.
 
-                (i) for purposes that require a human presence;
+        (3) On a space available basis, Federal Government or educational payloads that are consistent with NASA’s mission for exploration beyond low-Earth orbit.
 
-                (ii) for purposes that require the unique capabilities of the space shuttle; or
+        (4) Compelling circumstances, as determined by the Administrator.
 
-                (iii) when other compelling circumstances exist.
+    (b)  __Agreements With Foreign Entities__  __.—__ 
 
-            (B)  __Definition of compelling circumstances__  __.—__ 
+    The Administrator may plan, negotiate, or implement agreements with foreign entities for the launch of payloads for international collaborative efforts relating to science and technology using the Space Launch System.
 
-            In this paragraph, the term “compelling circumstances” includes, but is not limited to, occasions when the Administrator determines, in consultation with the Secretary of Defense and the Secretary of State, that important national security or foreign policy interests would be served by a shuttle launch.
+    (c)  __Compelling Circumstances__  __.—__ 
 
-        (2)  __Using available cargo space for secondary payloads__  __.—__ 
+    Not later than 30 days after the date the Administrator makes a determination under subsection (a)(4), the Administrator shall transmit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science of the House of Representatives written notification of the Administrator’s intent to select the Space Launch System for a specific mission under that subsection, including justification for the determination.
 
-        The policy stated in paragraph (1) shall not preclude the use of available cargo space, on a space shuttle mission otherwise consistent with the policy described in paragraph (1), for the purpose of carrying secondary payloads (as defined by the Administrator) that do not require a human presence if such payloads are consistent with the requirements of research, development, demonstration, scientific, commercial, and educational programs authorized by the Administrator.
-
-    (b)  __Annual Report__  __.—__ 
-
-    At least annually, the Administrator shall submit to Congress a report certifying that the payloads scheduled to be launched on the space shuttle for the next 4 years are consistent with the policy set forth in subsection (a)(1). For each payload scheduled to be launched from the space shuttle that does not require a human presence, the Administrator shall, in the certified report to Congress, state the specific circumstances that justified the use of the space shuttle. If, during the period between scheduled reports to Congress, any additions are made to the list of certified payloads intended to be launched from the shuttle, the Administrator shall inform Congress of the additions and the reasons therefor within 45 days of the change.
-
-    (c)  __Administration Payloads__  __.—__ 
-
-    The report described in subsection (b) shall also include those Administration payloads designed solely to fly on the space shuttle which have begun the phase C/D of its development cycle.
-
-([Pub. L. 111–314, § 3][/us/pl/111/314/s3], Dec. 18, 2010, [124 Stat. 3427][/us/stat/124/3427].)
+([Pub. L. 111–314, § 3][/us/pl/111/314/s3], Dec. 18, 2010, [124 Stat. 3427][/us/stat/124/3427]; [Pub. L. 114–90, title I, § 117(a)(3)][/us/pl/114/90/s117/a/3], Nov. 25, 2015, [129 Stat. 717][/us/stat/129/717].)
 
 <table>
 
@@ -121,6 +111,10 @@ Pub. L. 101–611, title I, § 112(a), (c), (d), Nov. 16, 1990, 104 Stat. 3198
 
 </table>
 
+ __Amendments__ 
+
+    2015—[Pub. L. 114–90][/us/pl/114/90] amended section generally. Prior to amendment, section related to space shuttle use policy.
+
 ----------
 
 [Previous](./../../../../..//us/usc/t51/stVII/ch701/m__us_usc_t51_s70101.md) | [Next](./../../../../..//us/usc/t51/stVII/ch701/m__us_usc_t51_s70103.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft51%2Fs70102)
@@ -130,5 +124,8 @@ Pub. L. 101–611, title I, § 112(a), (c), (d), Nov. 16, 1990, 104 Stat. 3198
 
 [/us/pl/111/314/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F314%2Fs3
 [/us/stat/124/3427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3427
+[/us/pl/114/90/s117/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F90%2Fs117%2Fa%2F3
+[/us/stat/129/717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F717
+[/us/pl/114/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F90
 
 

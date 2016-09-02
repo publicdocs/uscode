@@ -75,6 +75,20 @@ Source (Statutes at Large)  </td>
 
     Title-wide definitions for the terms “Administration” and “Administrator” are added for clarity and convenience.
 
+ __Short Title of 2015 Amendment__ 
+
+[Pub. L. 114–90, § 1(a)][/us/pl/114/90/s1/a], Nov. 25, 2015, [129 Stat. 704][/us/stat/129/704], provided that: 
+
+> “This Act \[enacting chapter 513 and sections 60126 and 70104 of this title, amending sections 20113, 50131, 50701, 50702, 50901, 50902, 50904 to 50908, 50914, 50915, 50919, 70101 to 70103, and 70907 of this title and sections 18351, 18353, and 18354 of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under this section and sections 20113 and 50918 of this title\] may be cited as the ‘U.S. Commercial Space Launch Competitiveness Act’.”
+
+[Pub. L. 114–90, title I, § 101][/us/pl/114/90/s101], Nov. 25, 2015, [129 Stat. 705][/us/stat/129/705], provided that: 
+
+> “This title \[enacting [section 70104 of this title][/us/usc/t51/s70104], amending sections 20113, 50131, 50901, 50902, 50904 to 50908, 50914, 50915, 50919, 70101 to 70103, and 70907 of this title and sections 18351, 18353, and 18354 of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under sections 20113 and 50918 of this title\] may be cited as the ‘Spurring Private Aerospace Competitiveness and Entrepreneurship Act of 2015’ or ‘SPACE Act of 2015’.”
+
+[Pub. L. 114–90, title IV, § 401][/us/pl/114/90/s401], Nov. 25, 2015, [129 Stat. 720][/us/stat/129/720], provided that: 
+
+> “This title \[enacting chapter 513 of this title\] may be cited as the ‘Space Resource Exploration and Utilization Act of 2015’.”
+
  __Short Title of 2013 Amendment__ 
 
 [Pub. L. 112–273, § 1][/us/pl/112/273/s1], Jan. 14, 2013, [126 Stat. 2454][/us/stat/126/2454], provided that: 
@@ -244,6 +258,13 @@ Source (Statutes at Large)  </td>
 
 [/us/pl/111/314/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F314%2Fs3
 [/us/stat/124/3329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3329
+[/us/pl/114/90/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F90%2Fs1%2Fa
+[/us/stat/129/704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F704
+[/us/pl/114/90/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F90%2Fs101
+[/us/stat/129/705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F705
+[/us/usc/t51/s70104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft51%2Fs70104
+[/us/pl/114/90/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F90%2Fs401
+[/us/stat/129/720]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F720
 [/us/pl/112/273/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F273%2Fs1
 [/us/stat/126/2454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2454
 [/us/usc/t51/s50915]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft51%2Fs50915

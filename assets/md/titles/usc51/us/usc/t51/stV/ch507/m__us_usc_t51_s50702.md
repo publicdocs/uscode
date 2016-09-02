@@ -17,7 +17,7 @@
 
     (a)  __In General__  __.—__ 
 
-    There is established within the Department of Commerce an Office of Space Commercialization.
+    There is established within the Department of Commerce an Office of Space Commerce.
 
     (b)  __Director__  __.—__ 
 
@@ -25,7 +25,17 @@
 
     (c)  __Functions of Office__  __.—__ 
 
-    The Office shall be the principal unit for the coordination of space-related issues, programs, and initiatives within the Department of Commerce.
+    The Office shall be the principal unit for the coordination of space-related issues, programs, and initiatives within the Department of Commerce, including—
+
+        (1) to foster the conditions for the economic growth and technological advancement of the United States space commerce industry;
+
+        (2) to coordinate space commerce policy issues and actions within the Department of Commerce;
+
+        (3) to represent the Department of Commerce in the development of United States policies and in negotiations with foreign countries to promote United States space commerce;
+
+        (4) to promote the advancement of United States geospatial technologies related to space commerce, in cooperation with relevant interagency working groups; and
+
+        (5) to provide support to Federal Government organizations working on Space-Based Positioning Navigation, and Timing policy, including the National Coordination Office for Space-Based Position, <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “Positioning,”. </sup></sup>  Navigation, and Timing.
 
     (d)  __Duties of Director__  __.—__ 
 
@@ -45,7 +55,7 @@
 
         (7) seeking the removal of legal, policy, and institutional impediments to space commerce.
 
-([Pub. L. 111–314, § 3][/us/pl/111/314/s3], Dec. 18, 2010, [124 Stat. 3408][/us/stat/124/3408].)
+([Pub. L. 111–314, § 3][/us/pl/111/314/s3], Dec. 18, 2010, [124 Stat. 3408][/us/stat/124/3408]; [Pub. L. 114–90, title III][/us/pl/114/90], §§ 301(c), 302, Nov. 25, 2015, [129 Stat. 720][/us/stat/129/720].)
 
 <table>
 
@@ -93,6 +103,12 @@ Pub. L. 105–309, § 8, Oct. 30, 1998, 112 Stat. 2937; Pub. L. 107–305, §�
 
 </table>
 
+ __Amendments__ 
+
+    2015—Subsec. (a). [Pub. L. 114–90, § 301(c)][/us/pl/114/90/s301/c], substituted “Space Commerce” for “Space Commercialization”.
+
+    Subsec. (c). [Pub. L. 114–90, § 302][/us/pl/114/90/s302], substituted “Commerce, including—” for “Commerce.” and added pars. (1) to (5).
+
  __Cooperation With Former Soviet Republics__ 
 
 [Pub. L. 102–588, title II, § 218][/us/pl/102/588/s218], Nov. 4, 1992, [106 Stat. 5117][/us/stat/106/5117], provided that:
@@ -131,6 +147,10 @@ Pub. L. 105–309, § 8, Oct. 30, 1998, 112 Stat. 2937; Pub. L. 107–305, §�
 [/us/usc/t5/s5382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5382
 [/us/pl/111/314/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F314%2Fs3
 [/us/stat/124/3408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3408
+[/us/pl/114/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F90
+[/us/stat/129/720]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F720
+[/us/pl/114/90/s301/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F90%2Fs301%2Fc
+[/us/pl/114/90/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F90%2Fs302
 [/us/pl/102/588/s218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F588%2Fs218
 [/us/stat/106/5117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F5117
 

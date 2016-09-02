@@ -39,9 +39,9 @@
 
     (d)  __Single License or Permit__  __.—__ 
 
-    The Secretary of Transportation shall ensure that only 1 license or permit is required from the Department of Transportation to conduct activities involving crew or space flight participants, including launch and reentry, for which a license or permit is required under this chapter. The Secretary shall ensure that all Department of Transportation regulations relevant to the licensed or permitted activity are satisfied.
+    The Secretary of Transportation shall ensure that only 1 license or permit is required from the Department of Transportation to conduct activities involving crew, government astronauts, or space flight participants, including launch and reentry, for which a license or permit is required under this chapter. The Secretary shall ensure that all Department of Transportation regulations relevant to the licensed or permitted activity are satisfied.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1332][/us/stat/108/1332], [§ 70104 of title 49][/us/usc/t49/s70104]; [Pub. L. 105–303, title I, § 102(a)(5)][/us/pl/105/303/s102/a/5], Oct. 28, 1998, [112 Stat. 2847][/us/stat/112/2847]; [Pub. L. 108–492, § 2(c)(3)][/us/pl/108/492/s2/c/3]–(5), Dec. 23, 2004, [118 Stat. 3976][/us/stat/118/3976]; renumbered § 70104 then [§ 50904 of title 51][/us/usc/t51/s50904] and amended [Pub. L. 111–314, § 4(d)(2)][/us/pl/111/314/s4/d/2], (3)(D), (5)(C)–(E), Dec. 18, 2010, [124 Stat. 3440][/us/stat/124/3440], 3441.)
+([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1332][/us/stat/108/1332], [§ 70104 of title 49][/us/usc/t49/s70104]; [Pub. L. 105–303, title I, § 102(a)(5)][/us/pl/105/303/s102/a/5], Oct. 28, 1998, [112 Stat. 2847][/us/stat/112/2847]; [Pub. L. 108–492, § 2(c)(3)][/us/pl/108/492/s2/c/3]–(5), Dec. 23, 2004, [118 Stat. 3976][/us/stat/118/3976]; renumbered § 70104 then [§ 50904 of title 51][/us/usc/t51/s50904] and amended [Pub. L. 111–314, § 4(d)(2)][/us/pl/111/314/s4/d/2], (3)(D), (5)(C)–(E), Dec. 18, 2010, [124 Stat. 3440][/us/stat/124/3440], 3441; [Pub. L. 114–90, title I, § 112(k)][/us/pl/114/90/s112/k], Nov. 25, 2015, [129 Stat. 713][/us/stat/129/713].)
 
 <table>
 
@@ -129,6 +129,8 @@ In subsection (a)(2)–(4), the cross-reference is to section 70102(1) of the re
 
  __Amendments__ 
 
+    2015—Subsec. (d). [Pub. L. 114–90][/us/pl/114/90] substituted “activities involving crew, government astronauts, or space flight participants” for “activities involving crew or space flight participants”.
+
     2010—[Pub. L. 111–314, § 4(d)(2)][/us/pl/111/314/s4/d/2], (3)(D), successively renumbered [section 70104 of title 49][/us/usc/t49/s70104] and [section 70104 of this title][/us/usc/t51/s70104] as this section.
 
     Subsec. (a)(2). [Pub. L. 111–314, § 4(d)(5)(C)][/us/pl/111/314/s4/d/5/C], substituted “section 50902(1)(A) or (B)” for “section 70102(1)(A) or (B)”.
@@ -172,8 +174,11 @@ In subsection (a)(2)–(4), the cross-reference is to section 70102(1) of the re
 [/us/usc/t51/s50904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft51%2Fs50904
 [/us/pl/111/314/s4/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F314%2Fs4%2Fd%2F2
 [/us/stat/124/3440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3440
+[/us/pl/114/90/s112/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F90%2Fs112%2Fk
+[/us/stat/129/713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F713
 [/us/pl/100/657]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F657
 [/us/stat/102/3900]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3900
+[/us/pl/114/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F90
 [/us/pl/111/314/s4/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F314%2Fs4%2Fd%2F2
 [/us/usc/t49/s70104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs70104
 [/us/usc/t51/s70104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft51%2Fs70104

@@ -11,9 +11,9 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t51/stVII/ch701/m__us_usc_t51_s70102.md) | [Next](./../../../../..//us/usc/t51/stVII/ch703/m__us_usc_t51_stVII_ch703.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft51%2Fs70103)
+[Previous](./../../../../..//us/usc/t51/stVII/ch701/m__us_usc_t51_s70102.md) | [Next](./../../../../..//us/usc/t51/stVII/ch701/m__us_usc_t51_s70104.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft51%2Fs70103)
 
-## § 70103. Commercial payloads on space shuttle
+## § 70103. Commercial payloads on space launch system
 
     (a)  __Definitions__  __.—__ 
 
@@ -29,13 +29,13 @@
 
     (b)  __In General__  __.—__ 
 
-    Commercial payloads may not be accepted for launch as primary payloads on the space shuttle unless the Administrator determines that—
+    Commercial payloads may not be accepted for launch as primary payloads on the space launch system unless the Administrator determines that—
 
-        (1) the payload requires the unique capabilities of the space shuttle; or
+        (1) the payload requires the unique capabilities of the space launch system; or
 
-        (2) launching of the payload on the space shuttle is important for either national security or foreign policy purposes.
+        (2) launching of the payload on the space launch system is important for either national security or foreign policy purposes.
 
-([Pub. L. 111–314, § 3][/us/pl/111/314/s3], Dec. 18, 2010, [124 Stat. 3428][/us/stat/124/3428].)
+([Pub. L. 111–314, § 3][/us/pl/111/314/s3], Dec. 18, 2010, [124 Stat. 3428][/us/stat/124/3428]; [Pub. L. 114–90, title I, § 117(a)(4)][/us/pl/114/90/s117/a/4], Nov. 25, 2015, [129 Stat. 718][/us/stat/129/718].)
 
 <table>
 
@@ -101,20 +101,27 @@ Pub. L. 101–611, title II, § 206, Nov. 16, 1990, 104 Stat. 3207; Pub. L. 10
 
     In subsection (a), the words “this section” are substituted for “this title”, meaning title II of [Public Law 101–611][/us/pl/101/611], because title II of [Public Law 101–611][/us/pl/101/611] was previously repealed except for section 201 (a short title provision, classified to [42 U.S.C. 2451][/us/usc/t42/s2451] note, in which neither defined term appears) and sections 203 ([42 U.S.C. 2465c][/us/usc/t42/s2465c]) and 206 ([42 U.S.C. 2465f][/us/usc/t42/s2465f]) of [Public Law 101–611][/us/pl/101/611], which are restated in this section.
 
+ __Amendments__ 
+
+    2015—[Pub. L. 114–90][/us/pl/114/90] substituted “space launch system” for “space shuttle” in section catchline and wherever appearing in text.
+
 ----------
 
-[Previous](./../../../../..//us/usc/t51/stVII/ch701/m__us_usc_t51_s70102.md) | [Next](./../../../../..//us/usc/t51/stVII/ch703/m__us_usc_t51_stVII_ch703.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft51%2Fs70103)
+[Previous](./../../../../..//us/usc/t51/stVII/ch701/m__us_usc_t51_s70102.md) | [Next](./../../../../..//us/usc/t51/stVII/ch701/m__us_usc_t51_s70104.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft51%2Fs70103)
 
 ----------
 ----------
 
 [/us/pl/111/314/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F314%2Fs3
 [/us/stat/124/3428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3428
+[/us/pl/114/90/s117/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F90%2Fs117%2Fa%2F4
+[/us/stat/129/718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F718
 [/us/pl/101/611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F611
 [/us/pl/101/611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F611
 [/us/usc/t42/s2451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2451
 [/us/usc/t42/s2465c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2465c
 [/us/usc/t42/s2465f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2465f
 [/us/pl/101/611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F611
+[/us/pl/114/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F90
 
 

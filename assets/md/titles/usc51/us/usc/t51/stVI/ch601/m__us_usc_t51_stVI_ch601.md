@@ -121,6 +121,14 @@ SUBCHAPTER III—LICENSING OF PRIVATE REMOTE SENSING SPACE SYSTEMS  </td>
 
   <tr>
 
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft51%2Fs60126" data-uslm-ref="/us/usc/t51/s60126">60126.</a>  </td>
+
+    <td> Annual reports.  </td>
+
+  </tr>
+
+  <tr>
+
     <td> 
 
 SUBCHAPTER IV—RESEARCH, DEVELOPMENT, AND DEMONSTRATION  </td>
@@ -255,7 +263,17 @@ SUBCHAPTER VI—PROHIBITION OF COMMERCIALIZATION OF WEATHER SATELLITES  </td>
 
   </tr>
 
+  <tr>
+
+    <td> 
+
+Amendments  </td>
+
+  </tr>
+
 </table>
+
+    2015—[Pub. L. 114–90, title II, § 201(b)][/us/pl/114/90/s201/b], Nov. 25, 2015, [129 Stat. 719][/us/stat/129/719], added item 60126.
 
 ----------
 
@@ -264,5 +282,7 @@ SUBCHAPTER VI—PROHIBITION OF COMMERCIALIZATION OF WEATHER SATELLITES  </td>
 ----------
 ----------
 
+[/us/pl/114/90/s201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F90%2Fs201%2Fb
+[/us/stat/129/719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F719
 
 

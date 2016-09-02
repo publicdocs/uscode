@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t51/stVII/ch701/m__us_usc_t51_s70103.md) | [Next](./../../../../..//us/usc/t51/stVII/ch703/m__us_usc_t51_s70301.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft51%2FstVII%2Fch703)
+[Previous](./../../../../..//us/usc/t51/stVII/ch701/m__us_usc_t51_s70104.md) | [Next](./../../../../..//us/usc/t51/stVII/ch703/m__us_usc_t51_s70301.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft51%2FstVII%2Fch703)
 
 ### CHAPTER 703—SHUTTLE PRICING POLICY FOR COMMERCIAL AND FOREIGN USERS
 
@@ -59,7 +59,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t51/stVII/ch701/m__us_usc_t51_s70103.md) | [Next](./../../../../..//us/usc/t51/stVII/ch703/m__us_usc_t51_s70301.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft51%2FstVII%2Fch703)
+[Previous](./../../../../..//us/usc/t51/stVII/ch701/m__us_usc_t51_s70104.md) | [Next](./../../../../..//us/usc/t51/stVII/ch703/m__us_usc_t51_s70301.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft51%2FstVII%2Fch703)
 
 ----------
 ----------

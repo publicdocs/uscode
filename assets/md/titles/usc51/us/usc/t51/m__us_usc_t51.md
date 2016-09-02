@@ -17,7 +17,7 @@
 
 This title was enacted by [Pub. L. 111–314, § 3][/us/pl/111/314/s3], Dec. 18, 2010, [124 Stat. 3328][/us/stat/124/3328]
 
-Current through 114-86u1
+Current through 114-93not92
 
 <table>
 
@@ -265,7 +265,7 @@ Subtitle V—Programs Targeting Commercial Opportunities  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft51%2FstV%2Fch507" data-uslm-ref="/us/usc/t51/stV/ch507">507.</a>  </td>
 
-    <td> Office of Space Commercialization  </td>
+    <td> Office of Space Commerce  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft51%2Fs50701" data-uslm-ref="/us/usc/t51/s50701">50701</a>  </td>
 
@@ -288,6 +288,16 @@ Subtitle V—Programs Targeting Commercial Opportunities  </td>
     <td> Space Transportation Infrastructure Matching Grants  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft51%2Fs51101" data-uslm-ref="/us/usc/t51/s51101">51101</a>  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft51%2FstV%2Fch513" data-uslm-ref="/us/usc/t51/stV/ch513">513.</a>  </td>
+
+    <td> Space resource commercial exploration and utilization  <sup>[1]</sup>  <sup><sup> 1 So in original. Probably should be “Space Resource Commercial Exploration and Utilization”. </sup></sup>   </td>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft51%2Fs51301" data-uslm-ref="/us/usc/t51/s51301">51301</a>  </td>
 
   </tr>
 
@@ -341,7 +351,7 @@ Subtitle VII—Access to Space  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft51%2FstVII%2Fch701" data-uslm-ref="/us/usc/t51/stVII/ch701">701.</a>  </td>
 
-    <td> Use of Space Shuttle or Alternatives  </td>
+    <td> Use of space launch system or alternatives  <sup>[2]</sup>  <sup><sup> 2 So in original. Probably should be “Use of Space Launch System or Alternatives”. </sup></sup>   </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft51%2Fs70101" data-uslm-ref="/us/usc/t51/s70101">70101</a>  </td>
 
@@ -410,6 +420,8 @@ Subtitle VII—Access to Space  </td>
 </table>
 
  __Amendments__ 
+
+    2015—[Pub. L. 114–90, title I, § 117(b)(1)][/us/pl/114/90/s117/b/1], title III, § 301(a)(2), title IV, § 402(b), Nov. 25, 2015, [129 Stat. 718][/us/stat/129/718], 720, 722, added item 513 and substituted “Commerce” for “Commercialization” in item 507 and “Use of space launch system or alternatives” for “Use of Space Shuttle or Alternatives” in item 701.
 
     2010—[Pub. L. 111–314, § 4(d)(7)][/us/pl/111/314/s4/d/7], Dec. 18, 2010, [124 Stat. 3443][/us/stat/124/3443], added items 509 and 511.
 
@@ -3484,6 +3496,8 @@ Elim.  </td>
 
 [/us/pl/111/314/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F314%2Fs3
 [/us/stat/124/3328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3328
+[/us/pl/114/90/s117/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F90%2Fs117%2Fb%2F1
+[/us/stat/129/718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F718
 [/us/pl/111/314/s4/d/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F314%2Fs4%2Fd%2F7
 [/us/stat/124/3443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3443
 [/us/pl/111/314/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F314%2Fs3

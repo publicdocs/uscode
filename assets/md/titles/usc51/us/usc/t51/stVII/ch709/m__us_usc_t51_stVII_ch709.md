@@ -75,11 +75,15 @@
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft51%2Fs70907" data-uslm-ref="/us/usc/t51/s70907">70907.</a>  </td>
 
-    <td> Maintaining use through at least 2020.  </td>
+    <td> Maintaining use through at least 2024.  </td>
 
   </tr>
 
 </table>
+
+ __Amendments__ 
+
+    2015—[Pub. L. 114–90, title I, § 114(b)(5)(B)][/us/pl/114/90/s114/b/5/B], Nov. 25, 2015, [129 Stat. 716][/us/stat/129/716], substituted “Maintaining use through at least 2024.” for “Maintaining use through at least 2020.” in item 70907.
 
 ----------
 
@@ -88,5 +92,7 @@
 ----------
 ----------
 
+[/us/pl/114/90/s114/b/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F90%2Fs114%2Fb%2F5%2FB
+[/us/stat/129/716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F716
 
 

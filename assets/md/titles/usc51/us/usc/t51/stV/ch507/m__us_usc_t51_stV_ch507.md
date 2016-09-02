@@ -13,7 +13,7 @@
 
 [Previous](./../../../../..//us/usc/t51/stV/ch505/m__us_usc_t51_s50506.md) | [Next](./../../../../..//us/usc/t51/stV/ch507/m__us_usc_t51_s50701.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft51%2FstV%2Fch507)
 
-### CHAPTER 507—OFFICE OF SPACE COMMERCIALIZATION
+### CHAPTER 507—OFFICE OF SPACE COMMERCE
 
 <table>
 
@@ -49,6 +49,10 @@
 
 </table>
 
+ __Amendments__ 
+
+    2015—[Pub. L. 114–90, title III, § 301(a)(1)][/us/pl/114/90/s301/a/1], Nov. 25, 2015, [129 Stat. 720][/us/stat/129/720], substituted “COMMERCE” for “COMMERCIALIZATION” in chapter heading.
+
 ----------
 
 [Previous](./../../../../..//us/usc/t51/stV/ch505/m__us_usc_t51_s50506.md) | [Next](./../../../../..//us/usc/t51/stV/ch507/m__us_usc_t51_s50701.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft51%2FstV%2Fch507)
@@ -56,5 +60,7 @@
 ----------
 ----------
 
+[/us/pl/114/90/s301/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F90%2Fs301%2Fa%2F1
+[/us/stat/129/720]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F720
 
 

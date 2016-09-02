@@ -19,13 +19,29 @@
 
         (1)
 
-         To the extent provided in advance in an appropriation law or to the extent additional legislative authority is enacted providing for paying claims in a compensation plan submitted under subsection (d) of this section, the Secretary of Transportation shall provide for the payment by the United States Government of a successful claim (including reasonable litigation or settlement expenses) of a third party against a licensee or transferee under this chapter, a contractor, subcontractor, or customer of the licensee or transferee, or a contractor or subcontractor of a customer, but not against a space flight participant, resulting from an activity carried out under the license issued or transferred under this chapter for death, bodily injury, or property damage or loss resulting from an activity carried out under the license. However, claims may be paid under this section only to the extent the total amount of successful claims related to one launch or reentry—
+         To the extent provided in advance in an appropriation law or to the extent additional legislative authority is enacted providing for paying claims in a compensation plan submitted under subsection (d) of this section, the Secretary of Transportation shall provide for the payment by the United States Government of a successful claim (including reasonable litigation or settlement expenses) of a third party against a person described in paragraph (3)(A) resulting from an activity carried out under the license issued or transferred under this chapter for death, bodily injury, or property damage or loss resulting from an activity carried out under the license. However, claims may be paid under this section only to the extent the total amount of successful claims related to one launch or reentry—
 
             (A) is more than the amount of insurance or demonstration of financial responsibility required under [section 50914(a)(1)(A) of this title][/us/usc/t51/s50914/a/1/A]; and
 
             (B) is not more than $1,500,000,000 (plus additional amounts necessary to reflect inflation occurring after January 1, 1989) above that insurance or financial responsibility amount.
 
         (2) The Secretary may not provide for paying a part of a claim for which death, bodily injury, or property damage or loss results from willful misconduct by the licensee or transferee. To the extent insurance required under [section 50914(a)(1)(A) of this title][/us/usc/t51/s50914/a/1/A] is not available to cover a successful third party liability claim because of an insurance policy exclusion the Secretary decides is usual for the type of insurance involved, the Secretary may provide for paying the excluded claims without regard to the limitation contained in section 50914(a)(1).
+
+        (3)
+
+            (A)
+
+             A person described in this subparagraph is—
+
+                (i) a licensee or transferee under this chapter;
+
+                (ii) a contractor, subcontractor, or customer of the licensee or transferee;
+
+                (iii) a contractor or subcontractor of a customer; or
+
+                (iv) a space flight participant.
+
+            (B) Clause (iv) of subparagraph (A) ceases to be effective September 30, 2025.
 
     (b)  __Notice, Participation, and Approval__  __.—__ 
 
@@ -113,9 +129,9 @@
 
     (f)  __Application__  __.—__ 
 
-    This section applies to a license issued or transferred under this chapter for which the Secretary receives a complete and valid application not later than December 31, 2016. This section does not apply to permits.
+    This section applies to a license issued or transferred under this chapter for which the Secretary receives a complete and valid application not later than September 30, 2025. This section does not apply to permits.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1338][/us/stat/108/1338], [§ 70113 of title 49][/us/usc/t49/s70113]; [Pub. L. 104–287, § 5(94)][/us/pl/104/287/s5/94], Oct. 11, 1996, [110 Stat. 3398][/us/stat/110/3398]; [Pub. L. 105–303, title I, § 102(a)(13)][/us/pl/105/303/s102/a/13], Oct. 28, 1998, [112 Stat. 2850][/us/stat/112/2850]; [Pub. L. 106–74, title IV, § 433][/us/pl/106/74/s433], Oct. 20, 1999, [113 Stat. 1097][/us/stat/113/1097]; [Pub. L. 106–377, § 1(a)(1)][/us/pl/106/377/s1/a/1] \[title IV, § 429\], Oct. 27, 2000, [114 Stat. 1441][/us/stat/114/1441], 1441A–56; [Pub. L. 106–405][/us/pl/106/405], §§ 5(b), 6(a), Nov. 1, 2000, [114 Stat. 1752][/us/stat/114/1752]; [Pub. L. 108–428, § 1][/us/pl/108/428/s1], Nov. 30, 2004, [118 Stat. 2432][/us/stat/118/2432]; [Pub. L. 108–492, § 2(c)(22)][/us/pl/108/492/s2/c/22], (23), Dec. 23, 2004, [118 Stat. 3981][/us/stat/118/3981]; [Pub. L. 111–125, § 1][/us/pl/111/125/s1], Dec. 28, 2009, [123 Stat. 3486][/us/stat/123/3486]; renumbered § 70113 then [§ 50915 of title 51][/us/usc/t51/s50915] and amended [Pub. L. 111–314, § 4(d)(2)][/us/pl/111/314/s4/d/2], (3)(O), (5)(Q), (R), Dec. 18, 2010, [124 Stat. 3440–3442][/us/stat/124/3440-3442]; [Pub. L. 112–273, § 3][/us/pl/112/273/s3], Jan. 14, 2013, [126 Stat. 2454][/us/stat/126/2454]; [Pub. L. 113–76, § 8][/us/pl/113/76/s8], Jan. 17, 2014, [128 Stat. 7][/us/stat/128/7].)
+([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1338][/us/stat/108/1338], [§ 70113 of title 49][/us/usc/t49/s70113]; [Pub. L. 104–287, § 5(94)][/us/pl/104/287/s5/94], Oct. 11, 1996, [110 Stat. 3398][/us/stat/110/3398]; [Pub. L. 105–303, title I, § 102(a)(13)][/us/pl/105/303/s102/a/13], Oct. 28, 1998, [112 Stat. 2850][/us/stat/112/2850]; [Pub. L. 106–74, title IV, § 433][/us/pl/106/74/s433], Oct. 20, 1999, [113 Stat. 1097][/us/stat/113/1097]; [Pub. L. 106–377, § 1(a)(1)][/us/pl/106/377/s1/a/1] \[title IV, § 429\], Oct. 27, 2000, [114 Stat. 1441][/us/stat/114/1441], 1441A–56; [Pub. L. 106–405][/us/pl/106/405], §§ 5(b), 6(a), Nov. 1, 2000, [114 Stat. 1752][/us/stat/114/1752]; [Pub. L. 108–428, § 1][/us/pl/108/428/s1], Nov. 30, 2004, [118 Stat. 2432][/us/stat/118/2432]; [Pub. L. 108–492, § 2(c)(22)][/us/pl/108/492/s2/c/22], (23), Dec. 23, 2004, [118 Stat. 3981][/us/stat/118/3981]; [Pub. L. 111–125, § 1][/us/pl/111/125/s1], Dec. 28, 2009, [123 Stat. 3486][/us/stat/123/3486]; renumbered § 70113 then [§ 50915 of title 51][/us/usc/t51/s50915] and amended [Pub. L. 111–314, § 4(d)(2)][/us/pl/111/314/s4/d/2], (3)(O), (5)(Q), (R), Dec. 18, 2010, [124 Stat. 3440–3442][/us/stat/124/3440-3442]; [Pub. L. 112–273, § 3][/us/pl/112/273/s3], Jan. 14, 2013, [126 Stat. 2454][/us/stat/126/2454]; [Pub. L. 113–76, § 8][/us/pl/113/76/s8], Jan. 17, 2014, [128 Stat. 7][/us/stat/128/7]; [Pub. L. 114–90, title I][/us/pl/114/90], §§ 102(d), 103(a)(2), Nov. 25, 2015, [129 Stat. 706][/us/stat/129/706].)
 
 <table>
 
@@ -367,6 +383,12 @@ Oct. 30, 1984, Pub. L. 98–575, § 16(b)(5), 98 Stat. 3061; restated Nov. 15,
 
  __Amendments__ 
 
+    2015—Subsec. (a)(1). [Pub. L. 114–90, § 103(a)(2)(A)][/us/pl/114/90/s103/a/2/A], in introductory provisions, substituted “a person described in paragraph (3)(A)” for “a licensee or transferee under this chapter, a contractor, subcontractor, or customer of the licensee or transferee, or a contractor or subcontractor of a customer, but not against a space flight participant,”.
+
+    Subsec. (a)(3). [Pub. L. 114–90, § 103(a)(2)(B)][/us/pl/114/90/s103/a/2/B], added par. (3).
+
+    Subsec. (f). [Pub. L. 114–90, § 102(d)][/us/pl/114/90/s102/d], substituted “September 30, 2025” for “December 31, 2016”.
+
     2014—Subsec. (f). [Pub. L. 113–76][/us/pl/113/76] substituted “December 31, 2016” for “December 31, 2013”.
 
     2013—Subsec. (f). [Pub. L. 112–273][/us/pl/112/273] substituted “December 31, 2013” for “December 31, 2012”.
@@ -438,10 +460,15 @@ Oct. 30, 1984, Pub. L. 98–575, § 16(b)(5), 98 Stat. 3061; restated Nov. 15,
 [/us/stat/126/2454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2454
 [/us/pl/113/76/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs8
 [/us/stat/128/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F7
+[/us/pl/114/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F90
+[/us/stat/129/706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F706
 [/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/act/1994-07-05/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1994-07-05%2Fs1
 [/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1340
+[/us/pl/114/90/s103/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F90%2Fs103%2Fa%2F2%2FA
+[/us/pl/114/90/s103/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F90%2Fs103%2Fa%2F2%2FB
+[/us/pl/114/90/s102/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F90%2Fs102%2Fd
 [/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
 [/us/pl/112/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F273
 [/us/pl/111/314/s4/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F314%2Fs4%2Fd%2F2

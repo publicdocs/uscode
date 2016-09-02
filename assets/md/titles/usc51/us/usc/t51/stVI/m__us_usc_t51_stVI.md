@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t51/stV/ch511/m__us_usc_t51_s51105.md) | [Next](./../../../..//us/usc/t51/stVI/ch601/m__us_usc_t51_stVI_ch601.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft51%2FstVI)
+[Previous](./../../../..//us/usc/t51/stV/ch513/m__us_usc_t51_s51303.md) | [Next](./../../../..//us/usc/t51/stVI/ch601/m__us_usc_t51_stVI_ch601.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft51%2FstVI)
 
 ## Subtitle VI—Earth Observations
 
 ----------
 
-[Previous](./../../../..//us/usc/t51/stV/ch511/m__us_usc_t51_s51105.md) | [Next](./../../../..//us/usc/t51/stVI/ch601/m__us_usc_t51_stVI_ch601.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft51%2FstVI)
+[Previous](./../../../..//us/usc/t51/stV/ch513/m__us_usc_t51_s51303.md) | [Next](./../../../..//us/usc/t51/stVI/ch601/m__us_usc_t51_stVI_ch601.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft51%2FstVI)
 
 ----------
 ----------

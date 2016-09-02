@@ -51,15 +51,25 @@
 
     A launch vehicle, reentry vehicle, or payload that is launched or reentered is not, because of the launch or reentry, an export or import, respectively, for purposes of a law controlling exports or imports, except that payloads launched pursuant to foreign trade zone procedures as provided for under the Foreign Trade Zones Act ([19 U.S.C. 81a–81u][/us/usc/t19/s81a–81u]) shall be considered exports with regard to customs entry.
 
-    (g)  __Nonapplication__  __.—__ 
+    (g) __Nonapplication.—__ 
 
-    This chapter does not apply to—
+        (1)  __In general__  __.—__ 
 
-        (1) a launch, reentry, operation of a launch vehicle or reentry vehicle, operation of a launch site or reentry site, or other space activity the Government carries out for the Government; or
+        This chapter does not apply to—
 
-        (2) planning or policies related to the launch, reentry, operation, or activity.
+            (A) a launch, reentry, operation of a launch vehicle or reentry vehicle, operation of a launch site or reentry site, or other space activity the Government carries out for the Government; or
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1342][/us/stat/108/1342], [§ 70117 of title 49][/us/usc/t49/s70117]; [Pub. L. 104–287, § 5(95)][/us/pl/104/287/s5/95], Oct. 11, 1996, [110 Stat. 3398][/us/stat/110/3398]; [Pub. L. 105–303, title I, § 102(a)(15)][/us/pl/105/303/s102/a/15], Oct. 28, 1998, [112 Stat. 2850][/us/stat/112/2850]; renumbered § 70117 then [§ 50919 of title 51][/us/usc/t51/s50919] and amended [Pub. L. 111–314, § 4(d)(2)][/us/pl/111/314/s4/d/2], (3)(S), (5)(T), Dec. 18, 2010, [124 Stat. 3440–3442][/us/stat/124/3440-3442].)
+            (B) planning or policies related to the launch, reentry, operation, or activity under subparagraph (A).
+
+        (2)  __Rule of construction__  __.—__ 
+
+        The following activities are not space activities the Government carries out for the Government under paragraph (1):
+
+            (A) A government astronaut being carried within a launch vehicle or reentry vehicle under this chapter.
+
+            (B) A government astronaut performing activities directly relating to the launch, reentry, or other operation of the launch vehicle or reentry vehicle under this chapter.
+
+([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1342][/us/stat/108/1342], [§ 70117 of title 49][/us/usc/t49/s70117]; [Pub. L. 104–287, § 5(95)][/us/pl/104/287/s5/95], Oct. 11, 1996, [110 Stat. 3398][/us/stat/110/3398]; [Pub. L. 105–303, title I, § 102(a)(15)][/us/pl/105/303/s102/a/15], Oct. 28, 1998, [112 Stat. 2850][/us/stat/112/2850]; renumbered § 70117 then [§ 50919 of title 51][/us/usc/t51/s50919] and amended [Pub. L. 111–314, § 4(d)(2)][/us/pl/111/314/s4/d/2], (3)(S), (5)(T), Dec. 18, 2010, [124 Stat. 3440–3442][/us/stat/124/3440-3442]; [Pub. L. 114–90, title I, § 112][/us/pl/114/90/s112](o), Nov. 25, 2015, [129 Stat. 713][/us/stat/129/713].)
 
 <table>
 
@@ -213,6 +223,12 @@ Oct. 30, 1984, Pub. L. 98–575, §§ 6(c), 21, 98 Stat. 3058, 3063.  </td>
 
  __Amendments__ 
 
+    2015—Subsec. (g). [Pub. L. 114–90][/us/pl/114/90] amended subsec. (g) generally. Prior to amendment, text read as follows: “This chapter does not apply to—
+
+    “(1) a launch, reentry, operation of a launch vehicle or reentry vehicle, operation of a launch site or reentry site, or other space activity the Government carries out for the Government; or
+
+    “(2) planning or policies related to the launch, reentry, operation, or activity.”
+
     2010—[Pub. L. 111–314, § 4(d)(2)][/us/pl/111/314/s4/d/2], (3)(S), successively renumbered [section 70117 of title 49][/us/usc/t49/s70117] and [section 70117 of this title][/us/usc/t51/s70117] as this section.
 
     Subsec. (b)(2). [Pub. L. 111–314, § 4(d)(5)(T)][/us/pl/111/314/s4/d/5/T], substituted “chapter 601 of this title” for “the Land Remote Sensing Policy Act of 1992 ([15 U.S.C. 5601][/us/usc/t15/s5601] et seq.)”.
@@ -248,6 +264,8 @@ Oct. 30, 1984, Pub. L. 98–575, §§ 6(c), 21, 98 Stat. 3058, 3063.  </td>
 [/us/usc/t51/s50919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft51%2Fs50919
 [/us/pl/111/314/s4/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F314%2Fs4%2Fd%2F2
 [/us/stat/124/3440-3442]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3440-3442
+[/us/pl/114/90/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F90%2Fs112
+[/us/stat/129/713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F713
 [/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/pl/102/555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F555
 [/us/stat/106/4166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4166
@@ -258,6 +276,7 @@ Oct. 30, 1984, Pub. L. 98–575, §§ 6(c), 21, 98 Stat. 3058, 3063.  </td>
 [/us/usc/t47/s609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs609
 [/us/act/1934-06-18/ch590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-18%2Fch590
 [/us/stat/48/998]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F998
+[/us/pl/114/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F90
 [/us/pl/111/314/s4/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F314%2Fs4%2Fd%2F2
 [/us/usc/t49/s70117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs70117
 [/us/usc/t51/s70117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft51%2Fs70117

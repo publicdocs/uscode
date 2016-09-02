@@ -51,9 +51,27 @@
 
             (D) contractors and subcontractors of the customer.
 
+            (E) space flight participants.
+
+        (5) Subparagraph (E) of paragraph (4) ceases to be effective September 30, 2025.
+
     (b)  __Reciprocal Waiver of Claims__  __.—__ 
 
-        (1) A launch or reentry license issued or transferred under this chapter shall contain a provision requiring the licensee or transferee to make a reciprocal waiver of claims with its contractors, subcontractors, and customers, and contractors and subcontractors of the customers, involved in launch services or reentry services under which each party to the waiver agrees to be responsible for property damage or loss it sustains, or for personal injury to, death of, or property damage or loss sustained by its own employees resulting from an activity carried out under the applicable license.
+        (1)
+
+            (A) A launch or reentry license issued or transferred under this chapter shall contain a provision requiring the licensee or transferee to make a reciprocal waiver of claims with applicable parties involved in launch services or reentry services under which each party to the waiver agrees to be responsible for personal injury to, death of, or property damage or loss sustained by it or its own employees resulting from an activity carried out under the applicable license.
+
+            (B)
+
+             In this paragraph, the term “applicable parties” means—
+
+                (i) contractors, subcontractors, and customers of the licensee or transferee;
+
+                (ii) contractors and subcontractors of the customers; and
+
+                (iii) space flight participants.
+
+            (C) Clause (iii) of subparagraph (B) ceases to be effective September 30, 2025.
 
         (2) The Secretary of Transportation shall make, for the Government, executive agencies of the Government involved in launch services or reentry services, and contractors and subcontractors involved in launch services or reentry services, a reciprocal waiver of claims with the licensee or transferee, contractors, subcontractors, crew, space flight participants, and customers of the licensee or transferee, and contractors and subcontractors of the customers, involved in launch services or reentry services under which each party to the waiver agrees to be responsible for property damage or loss it sustains, or for personal injury to, death of, or property damage or loss sustained by its own employees or by space flight participants, resulting from an activity carried out under the applicable license. The waiver applies only to the extent that claims are more than the amount of insurance or demonstration of financial responsibility required under subsection (a)(1)(B) of this section. After consulting with the Administrator and the Secretary of the Air Force, the Secretary of Transportation may waive, for the Government and a department, agency, and instrumentality of the Government, the right to recover damages for damage or loss to Government property to the extent insurance is not available because of a policy exclusion the Secretary of Transportation decides is usual for the type of insurance involved.
 
@@ -75,7 +93,11 @@
 
     The head of a department, agency, or instrumentality of the Government shall collect a payment owed for damage or loss to Government property under its jurisdiction or control resulting from an activity carried out under a launch or reentry license issued or transferred under this chapter. The payment shall be credited to the current applicable appropriation, fund, or account of the department, agency, or instrumentality.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1336][/us/stat/108/1336], [§ 70112 of title 49][/us/usc/t49/s70112]; [Pub. L. 104–287, § 5(74)][/us/pl/104/287/s5/74], (93), Oct. 11, 1996, [110 Stat. 3396][/us/stat/110/3396], 3398; [Pub. L. 105–303, title I, § 102(a)(12)][/us/pl/105/303/s102/a/12], Oct. 28, 1998, [112 Stat. 2850][/us/stat/112/2850]; [Pub. L. 108–492, § 2(c)(21)][/us/pl/108/492/s2/c/21], Dec. 23, 2004, [118 Stat. 3981][/us/stat/118/3981]; renumbered § 70112 then [§ 50914 of title 51][/us/usc/t51/s50914], [Pub. L. 111–314, § 4(d)(2)][/us/pl/111/314/s4/d/2], (3)(N), Dec. 18, 2010, [124 Stat. 3440][/us/stat/124/3440], 3441.)
+    (g)  __Federal Jurisdiction__  __.—__ 
+
+    Any claim by a third party or space flight participant for death, bodily injury, or property damage or loss resulting from an activity carried out under the license shall be the exclusive jurisdiction of the Federal courts.
+
+([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1336][/us/stat/108/1336], [§ 70112 of title 49][/us/usc/t49/s70112]; [Pub. L. 104–287, § 5(74)][/us/pl/104/287/s5/74], (93), Oct. 11, 1996, [110 Stat. 3396][/us/stat/110/3396], 3398; [Pub. L. 105–303, title I, § 102(a)(12)][/us/pl/105/303/s102/a/12], Oct. 28, 1998, [112 Stat. 2850][/us/stat/112/2850]; [Pub. L. 108–492, § 2(c)(21)][/us/pl/108/492/s2/c/21], Dec. 23, 2004, [118 Stat. 3981][/us/stat/118/3981]; renumbered § 70112 then [§ 50914 of title 51][/us/usc/t51/s50914], [Pub. L. 111–314, § 4(d)(2)][/us/pl/111/314/s4/d/2], (3)(N), Dec. 18, 2010, [124 Stat. 3440][/us/stat/124/3440], 3441; [Pub. L. 114–90, title I][/us/pl/114/90], §§ 103(a)(1), 106, 107, Nov. 25, 2015, [129 Stat. 706][/us/stat/129/706], 707.)
 
 <table>
 
@@ -277,6 +299,14 @@ Oct. 30, 1984, Pub. L. 98–575, § 15(c), 98 Stat. 3061; restated Nov. 15, 19
 
  __Amendments__ 
 
+    2015—Subsec. (a)(4)(E). [Pub. L. 114–90, § 103(a)(1)(A)][/us/pl/114/90/s103/a/1/A], added subpar. (E).
+
+    Subsec. (a)(5). [Pub. L. 114–90, § 103(a)(1)(B)][/us/pl/114/90/s103/a/1/B], added par. (5).
+
+    Subsec. (b)(1). [Pub. L. 114–90, § 107][/us/pl/114/90/s107], amended par. (1) generally. Prior to amendment, par. (1) read as follows: “A launch or reentry license issued or transferred under this chapter shall contain a provision requiring the licensee or transferee to make a reciprocal waiver of claims with its contractors, subcontractors, and customers, and contractors and subcontractors of the customers, involved in launch services or reentry services under which each party to the waiver agrees to be responsible for property damage or loss it sustains, or for personal injury to, death of, or property damage or loss sustained by its own employees resulting from an activity carried out under the applicable license.”
+
+    Subsec. (g). [Pub. L. 114–90, § 106][/us/pl/114/90/s106], added subsec. (g).
+
     2010—[Pub. L. 111–314][/us/pl/111/314] successively renumbered [section 70112 of title 49][/us/usc/t49/s70112] and [section 70112 of this title][/us/usc/t51/s70112] as this section.
 
     2004—Subsec. (b)(2). [Pub. L. 108–492][/us/pl/108/492] inserted “crew, space flight participants,” after “transferee, contractors, subcontractors,” and “or by space flight participants,” after “its own employees”.
@@ -330,10 +360,16 @@ Oct. 30, 1984, Pub. L. 98–575, § 15(c), 98 Stat. 3061; restated Nov. 15, 19
 [/us/usc/t51/s50914]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft51%2Fs50914
 [/us/pl/111/314/s4/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F314%2Fs4%2Fd%2F2
 [/us/stat/124/3440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3440
+[/us/pl/114/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F90
+[/us/stat/129/706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F706
 [/us/pl/104/287/s5/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F93
 [/us/act/1994-07-05/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1994-07-05%2Fs1
 [/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1337
+[/us/pl/114/90/s103/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F90%2Fs103%2Fa%2F1%2FA
+[/us/pl/114/90/s103/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F90%2Fs103%2Fa%2F1%2FB
+[/us/pl/114/90/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F90%2Fs107
+[/us/pl/114/90/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F90%2Fs106
 [/us/pl/111/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F314
 [/us/usc/t49/s70112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs70112
 [/us/usc/t51/s70112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft51%2Fs70112

@@ -35,7 +35,7 @@
 
     (d)  __Additional Suspensions__  __.—__ 
 
-        (1) The Secretary may suspend a license when a previous launch or reentry under the license has resulted in a serious or fatal injury (as defined in 49 CFR 830, as in effect on November 10, 2004) to crew or space flight participants and the Secretary has determined that continued operations under the license are likely to cause additional serious or fatal injury (as defined in 49 CFR 830, as in effect on November 10, 2004) to crew or space flight participants.
+        (1) The Secretary may suspend a license when a previous launch or reentry under the license has resulted in a serious or fatal injury (as defined in 49 CFR 830, as in effect on November 10, 2004) to any human being and the Secretary has determined that continued operations under the license are likely to cause additional serious or fatal injury (as defined in 49 CFR 830, as in effect on November 10, 2004) to any human being.
 
         (2)
 
@@ -55,7 +55,7 @@
 
     The Secretary shall notify the licensee in writing of the decision of the Secretary under this section and any action the Secretary takes or proposes to take based on the decision.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1334][/us/stat/108/1334], [§ 70107 of title 49][/us/usc/t49/s70107]; [Pub. L. 108–492, § 2(c)(18)][/us/pl/108/492/s2/c/18], (19), Dec. 23, 2004, [118 Stat. 3980][/us/stat/118/3980]; renumbered § 70107 then [§ 50908 of title 51][/us/usc/t51/s50908] and amended [Pub. L. 111–314, § 4(d)(2)][/us/pl/111/314/s4/d/2], (3)(H), (5)(J), (K), Dec. 18, 2010, [124 Stat. 3440–3442][/us/stat/124/3440-3442].)
+([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1334][/us/stat/108/1334], [§ 70107 of title 49][/us/usc/t49/s70107]; [Pub. L. 108–492, § 2(c)(18)][/us/pl/108/492/s2/c/18], (19), Dec. 23, 2004, [118 Stat. 3980][/us/stat/118/3980]; renumbered § 70107 then [§ 50908 of title 51][/us/usc/t51/s50908] and amended [Pub. L. 111–314, § 4(d)(2)][/us/pl/111/314/s4/d/2], (3)(H), (5)(J), (K), Dec. 18, 2010, [124 Stat. 3440–3442][/us/stat/124/3440-3442]; [Pub. L. 114–90, title I, § 112(n)][/us/pl/114/90/s112/n], Nov. 25, 2015, [129 Stat. 713][/us/stat/129/713].)
 
 <table>
 
@@ -167,6 +167,8 @@ Oct. 30, 1984, Pub. L. 98–575, §§ 7 (last sentence), 10, 98 Stat. 3058, 30
 
  __Amendments__ 
 
+    2015—Subsec. (d)(1). [Pub. L. 114–90][/us/pl/114/90] substituted “to any human being” for “to crew or space flight participants” in two places.
+
     2010—[Pub. L. 111–314, § 4(d)(2)][/us/pl/111/314/s4/d/2], (3)(H), successively renumbered [section 70107 of title 49][/us/usc/t49/s70107] and [section 70107 of this title][/us/usc/t51/s70107] as this section.
 
     Subsec. (b)(2). [Pub. L. 111–314, § 4(d)(5)(J)][/us/pl/111/314/s4/d/5/J], substituted “section 50905(c)” for “section 70105(c)”.
@@ -193,6 +195,9 @@ Oct. 30, 1984, Pub. L. 98–575, §§ 7 (last sentence), 10, 98 Stat. 3058, 30
 [/us/usc/t51/s50908]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft51%2Fs50908
 [/us/pl/111/314/s4/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F314%2Fs4%2Fd%2F2
 [/us/stat/124/3440-3442]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3440-3442
+[/us/pl/114/90/s112/n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F90%2Fs112%2Fn
+[/us/stat/129/713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F713
+[/us/pl/114/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F90
 [/us/pl/111/314/s4/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F314%2Fs4%2Fd%2F2
 [/us/usc/t49/s70107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs70107
 [/us/usc/t51/s70107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft51%2Fs70107

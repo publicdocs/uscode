@@ -17,7 +17,7 @@
 
     (a)  __In General__  __.—__ 
 
-    Except as otherwise provided in this section, the Federal Government shall acquire space transportation services from United States commercial providers whenever such services are required in the course of its activities. To the maximum extent practicable, the Federal Government shall plan missions to accommodate the space transportation services capabilities of United States commercial providers.
+    Except as otherwise provided in this section or in section 70102, the Federal Government shall acquire space transportation services from United States commercial providers whenever such services are required in the course of its activities. To the maximum extent practicable, the Federal Government shall plan missions to accommodate the space transportation services capabilities of United States commercial providers.
 
     (b)  __Exceptions__  __.—__ 
 
@@ -49,7 +49,7 @@
 
     This section shall not be construed to prohibit the Federal Government from acquiring, owning, or maintaining space transportation vehicles solely for historical display purposes.
 
-([Pub. L. 111–314, § 3][/us/pl/111/314/s3], Dec. 18, 2010, [124 Stat. 3399][/us/stat/124/3399].)
+([Pub. L. 111–314, § 3][/us/pl/111/314/s3], Dec. 18, 2010, [124 Stat. 3399][/us/stat/124/3399]; [Pub. L. 114–90, title I, § 117(b)(3)][/us/pl/114/90/s117/b/3], Nov. 25, 2015, [129 Stat. 718][/us/stat/129/718].)
 
 <table>
 
@@ -155,6 +155,10 @@ Pub. L. 105–303, title II, § 201, Oct. 28, 1998, 112 Stat. 2854.  </td>
 
     In subsection (d), the date “October 28, 1998” is substituted for “the date of the enactment of this Act” and for “such date” to reflect the date of enactment of the Commercial Space Act of 1998 ([Public Law 105–303][/us/pl/105/303], [112 Stat. 2843][/us/stat/112/2843]).
 
+ __Amendments__ 
+
+    2015—Subsec. (a). [Pub. L. 114–90][/us/pl/114/90] inserted “or in section 70102” after “in this section”.
+
 ----------
 
 [Previous](./../../../../../..//us/usc/t51/stV/ch501/schIII/m__us_usc_t51_stV_ch501_schIII.md) | [Next](./../../../../../..//us/usc/t51/stV/ch501/schIII/m__us_usc_t51_s50132.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft51%2Fs50131)
@@ -164,7 +168,10 @@ Pub. L. 105–303, title II, § 201, Oct. 28, 1998, 112 Stat. 2854.  </td>
 
 [/us/pl/111/314/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F314%2Fs3
 [/us/stat/124/3399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3399
+[/us/pl/114/90/s117/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F90%2Fs117%2Fb%2F3
+[/us/stat/129/718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F718
 [/us/pl/105/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F303
 [/us/stat/112/2843]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2843
+[/us/pl/114/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F90
 
 

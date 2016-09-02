@@ -103,7 +103,11 @@
 
         (2) if the Administration considers that a claim in excess of $25,000 is meritorious and would otherwise be covered by this subsection, to report the facts and circumstances to Congress for its consideration.
 
-([Pub. L. 111–314, § 3][/us/pl/111/314/s3], Dec. 18, 2010, [124 Stat. 3333][/us/stat/124/3333].)
+    (n)  __Identification of Government Astronauts__  __.—__ 
+
+    For purposes of a license issued or transferred by the Secretary of Transportation under chapter 509 to launch a launch vehicle or to reenter a reentry vehicle carrying a government astronaut (as defined in section 50902), the Administration shall designate a government astronaut in accordance with requirements prescribed by the Administration.
+
+([Pub. L. 111–314, § 3][/us/pl/111/314/s3], Dec. 18, 2010, [124 Stat. 3333][/us/stat/124/3333]; [Pub. L. 114–90, title I, § 112(d)][/us/pl/114/90/s112/d], Nov. 25, 2015, [129 Stat. 712][/us/stat/129/712].)
 
 <table>
 
@@ -169,6 +173,16 @@ Pub. L. 85–568, title II, § 203(c), formerly § 203(b), July 29, 1958, 72
 
     The Federal Property and Administrative Services Act of 1949, referred to in subsec. (c)(4), is [act June 30, 1949, ch. 288][/us/act/1949-06-30/ch288], [63 Stat. 377][/us/stat/63/377]. Title III of the Act was classified generally to subchapter IV (§ 251 et seq.) of chapter 4 of former Title 41, Public Contracts, and was substantially repealed and restated in division C (§ 3101 et seq.) of subtitle I of Title 41, Public Contracts, by [Pub. L. 111–350][/us/pl/111/350], §§ 3, 7(b), Jan. 4, 2011, [124 Stat. 3677][/us/stat/124/3677], 3855. For complete classification of this Act to the Code, see Short Title of 1949 Act note set out under [section 101 of Title 41][/us/usc/t41/s101] and Tables. For disposition of sections of former Title 41, see Disposition Table preceding [section 101 of Title 41][/us/usc/t41/s101].
 
+ __Amendments__ 
+
+    2015—Subsec. (n). [Pub. L. 114–90][/us/pl/114/90] added subsec. (n).
+
+ __Sense of Congress__ 
+
+[Pub. L. 114–90, title I, § 112(b)][/us/pl/114/90/s112/b], Nov. 25, 2015, [129 Stat. 711][/us/stat/129/711], provided that: 
+
+> “The National Aeronautics and Space Administration has a need to fly government astronauts (as defined in [section 50902 of title 51][/us/usc/t51/s50902], United States Code, as amended) within commercial launch vehicles and reentry vehicles under chapter 509 of that title. This need was identified by the Secretary of Transportation and the Administrator of the National Aeronautics and Space Administration due to the intended use of commercial launch vehicles and reentry vehicles developed under the Commercial Crew Development Program, authorized in section 402 of the National Aeronautics and Space Administration Authorization Act of 2010 ([124 Stat. 2820][/us/stat/124/2820]; [Public Law 111–267][/us/pl/111/267]). It is the sense of Congress that the authority delegated to the Administration by the amendment made by subsection (d) of this section \[amending this section\] should be used for that purpose.”
+
  __Purchase of American-Made Equipment and Products__ 
 
 [Pub. L. 106–391, title III, § 319][/us/pl/106/391/s319], Oct. 30, 2000, [114 Stat. 1597][/us/stat/114/1597], provided that:
@@ -223,6 +237,8 @@ Pub. L. 85–568, title II, § 203(c), formerly § 203(b), July 29, 1958, 72
 [/us/usc/t51/s20112/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft51%2Fs20112%2Fa
 [/us/pl/111/314/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F314%2Fs3
 [/us/stat/124/3333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3333
+[/us/pl/114/90/s112/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F90%2Fs112%2Fd
+[/us/stat/129/712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F712
 [/us/pl/89/554/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs7%2Fb
 [/us/stat/80/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F631
 [/us/usc/t40/s8141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs8141
@@ -253,6 +269,12 @@ Pub. L. 85–568, title II, § 203(c), formerly § 203(b), July 29, 1958, 72
 [/us/stat/124/3677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3677
 [/us/usc/t41/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs101
 [/us/usc/t41/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs101
+[/us/pl/114/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F90
+[/us/pl/114/90/s112/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F90%2Fs112%2Fb
+[/us/stat/129/711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F711
+[/us/usc/t51/s50902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft51%2Fs50902
+[/us/stat/124/2820]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2820
+[/us/pl/111/267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F267
 [/us/pl/106/391/s319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F391%2Fs319
 [/us/stat/114/1597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1597
 [/us/pl/106/391/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F391%2Fs321

@@ -47,7 +47,7 @@
 
         (14) the public interest is served by creating a clear legal, regulatory, and safety regime for commercial human space flight; and
 
-        (15) the regulatory standards governing human space flight must evolve as the industry matures so that regulations neither stifle technology development nor expose crew or space flight participants to avoidable risks as the public comes to expect greater safety for crew and space flight participants from the industry.
+        (15) the regulatory standards governing human space flight must evolve as the industry matures so that regulations neither stifle technology development nor expose crew, government astronauts, or space flight participants to avoidable risks as the public comes to expect greater safety for crew, government astronauts, and space flight participants from the industry.
 
     (b)  __Purposes__  __.—__ 
 
@@ -69,7 +69,7 @@
 
         (4) to facilitate the strengthening and expansion of the United States space transportation infrastructure, including the enhancement of United States launch sites and launch-site support facilities, and development of reentry sites, with Government, State, and private sector involvement, to support the full range of United States space-related activities.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1330][/us/stat/108/1330], [§ 70101 of title 49][/us/usc/t49/s70101]; [Pub. L. 105–303, title I, § 102(a)(2)][/us/pl/105/303/s102/a/2], Oct. 28, 1998, [112 Stat. 2846][/us/stat/112/2846]; [Pub. L. 108–492, § 2(a)][/us/pl/108/492/s2/a], Dec. 23, 2004, [118 Stat. 3974][/us/stat/118/3974]; renumbered § 70101 then [§ 50901 of title 51][/us/usc/t51/s50901], [Pub. L. 111–314, § 4(d)(2)][/us/pl/111/314/s4/d/2], (3)(A), Dec. 18, 2010, [124 Stat. 3440][/us/stat/124/3440].)
+([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1330][/us/stat/108/1330], [§ 70101 of title 49][/us/usc/t49/s70101]; [Pub. L. 105–303, title I, § 102(a)(2)][/us/pl/105/303/s102/a/2], Oct. 28, 1998, [112 Stat. 2846][/us/stat/112/2846]; [Pub. L. 108–492, § 2(a)][/us/pl/108/492/s2/a], Dec. 23, 2004, [118 Stat. 3974][/us/stat/118/3974]; renumbered § 70101 then [§ 50901 of title 51][/us/usc/t51/s50901], [Pub. L. 111–314, § 4(d)(2)][/us/pl/111/314/s4/d/2], (3)(A), Dec. 18, 2010, [124 Stat. 3440][/us/stat/124/3440]; [Pub. L. 114–90, title I, § 112(a)][/us/pl/114/90/s112/a], Nov. 25, 2015, [129 Stat. 711][/us/stat/129/711].)
 
 <table>
 
@@ -136,6 +136,8 @@ Oct. 30, 1984, Pub. L. 98–575, §§ 2, 3, 98 Stat. 3055; Nov. 16, 1990, Pub.
     In subsection (b), before clause (1), the word “therefore” is omitted as surplus.
 
  __Amendments__ 
+
+    2015—Subsec. (a)(15). [Pub. L. 114–90][/us/pl/114/90], which directed amendment of section “50901(15)” by inserting “, government astronauts,” after “crew” wherever appearing, was executed by making the insertion in subsec. (a)(15) in two places, to reflect the probable intent of Congress.
 
     2010—[Pub. L. 111–314][/us/pl/111/314] successively renumbered [section 70101 of title 49][/us/usc/t49/s70101] and [section 70101 of this title][/us/usc/t51/s70101] as this section.
 
@@ -214,6 +216,9 @@ Oct. 30, 1984, Pub. L. 98–575, §§ 2, 3, 98 Stat. 3055; Nov. 16, 1990, Pub.
 [/us/usc/t51/s50901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft51%2Fs50901
 [/us/pl/111/314/s4/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F314%2Fs4%2Fd%2F2
 [/us/stat/124/3440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3440
+[/us/pl/114/90/s112/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F90%2Fs112%2Fa
+[/us/stat/129/711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F711
+[/us/pl/114/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F90
 [/us/pl/111/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F314
 [/us/usc/t49/s70101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs70101
 [/us/usc/t51/s70101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft51%2Fs70101

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t51/stV/ch511/m__us_usc_t51_s51104.md) | [Next](./../../../../..//us/usc/t51/stVI/m__us_usc_t51_stVI.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft51%2Fs51105)
+[Previous](./../../../../..//us/usc/t51/stV/ch511/m__us_usc_t51_s51104.md) | [Next](./../../../../..//us/usc/t51/stV/ch513/m__us_usc_t51_stV_ch513.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft51%2Fs51105)
 
 ## § 51105. Authorization of appropriations
 
@@ -71,7 +71,7 @@ Nov. 4, 1992, Pub. L. 102–588, § 505(b) (2d, last sentences), 106 Stat. 512
 
 ----------
 
-[Previous](./../../../../..//us/usc/t51/stV/ch511/m__us_usc_t51_s51104.md) | [Next](./../../../../..//us/usc/t51/stVI/m__us_usc_t51_stVI.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft51%2Fs51105)
+[Previous](./../../../../..//us/usc/t51/stV/ch511/m__us_usc_t51_s51104.md) | [Next](./../../../../..//us/usc/t51/stV/ch513/m__us_usc_t51_stV_ch513.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft51%2Fs51105)
 
 ----------
 ----------
