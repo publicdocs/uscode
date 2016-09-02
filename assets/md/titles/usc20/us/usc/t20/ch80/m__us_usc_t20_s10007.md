@@ -33,7 +33,7 @@
 
         (2) __Program established__ 
 
-            From the total amount reserved under section 10001(c), the Secretary may reserve up to $650,000,000 to establish an Innovation Fund, which shall consist of academic achievement awards that recognize eligible entities that meet the requirements described in subsection (b).
+            From the total amount reserved under [section 10001(c) of this title][/us/usc/t20/s10001/c], the Secretary may reserve up to $650,000,000 to establish an Innovation Fund, which shall consist of academic achievement awards that recognize eligible entities that meet the requirements described in subsection (b).
 
         (3) __Purpose of awards__ 
 
@@ -96,6 +96,7 @@
 ----------
 ----------
 
+[/us/usc/t20/s10001/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs10001%2Fc
 [/us/usc/t20/s6311/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6311%2Fb%2F2
 [/us/pl/111/5/s14007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs14007
 [/us/stat/123/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F284

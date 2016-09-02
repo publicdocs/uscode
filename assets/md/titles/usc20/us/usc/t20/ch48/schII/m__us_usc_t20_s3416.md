@@ -19,6 +19,8 @@
 
 ([Pub. L. 96–88, title II, § 206][/us/pl/96/88/s206], Oct. 17, 1979, [93 Stat. 674][/us/stat/93/674]; [Pub. L. 113–76, div. H, title III, § 307(a)][/us/pl/113/76/s307/a], Jan. 17, 2014, [128 Stat. 399][/us/stat/128/399].)
 
+ __Amendments__ 
+
     2014—[Pub. L. 113–76][/us/pl/113/76] substituted, in section catchline, “Office of Career, Technical, and Adult Education” for “Office of Vocational and Adult Education” and, in text, “Office of Career, Technical, and Adult Education” for “Office of Vocational and Adult Education”, “Assistant Secretary for Career, Technical, and Adult Education” for “Assistant Secretary for Vocational and Adult Education”, and “career, technical, and adult education” for “vocational and adult education” in two places.
 
 ----------
