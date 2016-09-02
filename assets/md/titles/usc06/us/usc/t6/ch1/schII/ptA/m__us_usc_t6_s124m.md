@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t6/ch1/schII/ptA/m__us_usc_t6_s124l.md) | [Next](./../../../../../..//us/usc/t6/ch1/schII/ptB/m__us_usc_t6_ch1_schII_ptB.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs124m)
+[Previous](./../../../../../..//us/usc/t6/ch1/schII/ptA/m__us_usc_t6_s124l.md) | [Next](./../../../../../..//us/usc/t6/ch1/schII/ptA/m__us_usc_t6_s125.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs124m)
 
 ## § 124m. Classified Information Advisory Officer
 
@@ -63,7 +63,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t6/ch1/schII/ptA/m__us_usc_t6_s124l.md) | [Next](./../../../../../..//us/usc/t6/ch1/schII/ptB/m__us_usc_t6_ch1_schII_ptB.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs124m)
+[Previous](./../../../../../..//us/usc/t6/ch1/schII/ptA/m__us_usc_t6_s124l.md) | [Next](./../../../../../..//us/usc/t6/ch1/schII/ptA/m__us_usc_t6_s125.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs124m)
 
 ----------
 ----------
