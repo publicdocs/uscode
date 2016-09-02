@@ -101,7 +101,7 @@
 
         (3) __Increase in levy for certain payments__ 
 
-            Paragraph (1) shall be applied by substituting “100 percent” for “15 percent” in the case of any specified payment due to a vendor of property, goods, or services sold or leased to the Federal Government and by substituting “30 percent” for “15 percent” in the case of any specified payment due to a Medicare provider or supplier under title XVIII of the Social Security Act.
+            Paragraph (1) shall be applied by substituting “100 percent” for “15 percent” in the case of any specified payment due to a vendor of property, goods, or services sold or leased to the Federal Government and by substituting “100 percent” for “15 percent” in the case of any specified payment due to a Medicare provider or supplier under title XVIII of the Social Security Act.
 
     (i) __No levy during pendency of proceedings for refund of divisible tax__ 
 
@@ -221,7 +221,7 @@
 
         (3) For release and notice of release of levy, see section 6343.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 783][/us/stat/68A/783]; [Pub. L. 89–719, title I, § 104(a)][/us/pl/89/719/s104/a], Nov. 2, 1966, [80 Stat. 1135][/us/stat/80/1135]; [Pub. L. 92–178, title II, § 211(a)][/us/pl/92/178/s211/a], Dec. 10, 1971, [85 Stat. 520][/us/stat/85/520]; [Pub. L. 94–455, title XII, § 1209(d)(1)][/us/pl/94/455/s1209/d/1], (2), (4), title XIX, § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1710][/us/stat/90/1710], 1711, 1834; [Pub. L. 97–248, title III, § 349(a)][/us/pl/97/248/s349/a], Sept. 3, 1982, [96 Stat. 639][/us/stat/96/639]; [Pub. L. 98–369, div. A, title VII, § 714][/us/pl/98/369/s714](o), July 18, 1984, [98 Stat. 964][/us/stat/98/964]; [Pub. L. 100–647, title VI, § 6236(a)][/us/pl/100/647/s6236/a], (b), (d), Nov. 10, 1988, [102 Stat. 3737][/us/stat/102/3737], 3739; [Pub. L. 105–34, title X, § 1024(a)][/us/pl/105/34/s1024/a], Aug. 5, 1997, [111 Stat. 923][/us/stat/111/923]; [Pub. L. 105–206, title III][/us/pl/105/206], §§ 3433(a), 3444(a), 3462(b), title VI, § 6010(f), July 22, 1998, [112 Stat. 759][/us/stat/112/759], 762, 765, 814; [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title III, § 313(b)(3)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–642; [Pub. L. 107–147, title IV, § 416(e)(1)][/us/pl/107/147/s416/e/1], Mar. 9, 2002, [116 Stat. 55][/us/stat/116/55]; [Pub. L. 108–357, title VIII, § 887(a)][/us/pl/108/357/s887/a], Oct. 22, 2004, [118 Stat. 1641][/us/stat/118/1641]; [Pub. L. 112–56, title III, § 301(a)][/us/pl/112/56/s301/a], Nov. 21, 2011, [125 Stat. 733][/us/stat/125/733]; [Pub. L. 113–295, div. B, title II, § 209(a)][/us/pl/113/295/s209/a], Dec. 19, 2014, [128 Stat. 4074][/us/stat/128/4074].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 783][/us/stat/68A/783]; [Pub. L. 89–719, title I, § 104(a)][/us/pl/89/719/s104/a], Nov. 2, 1966, [80 Stat. 1135][/us/stat/80/1135]; [Pub. L. 92–178, title II, § 211(a)][/us/pl/92/178/s211/a], Dec. 10, 1971, [85 Stat. 520][/us/stat/85/520]; [Pub. L. 94–455, title XII, § 1209(d)(1)][/us/pl/94/455/s1209/d/1], (2), (4), title XIX, § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1710][/us/stat/90/1710], 1711, 1834; [Pub. L. 97–248, title III, § 349(a)][/us/pl/97/248/s349/a], Sept. 3, 1982, [96 Stat. 639][/us/stat/96/639]; [Pub. L. 98–369, div. A, title VII, § 714][/us/pl/98/369/s714](o), July 18, 1984, [98 Stat. 964][/us/stat/98/964]; [Pub. L. 100–647, title VI, § 6236(a)][/us/pl/100/647/s6236/a], (b), (d), Nov. 10, 1988, [102 Stat. 3737][/us/stat/102/3737], 3739; [Pub. L. 105–34, title X, § 1024(a)][/us/pl/105/34/s1024/a], Aug. 5, 1997, [111 Stat. 923][/us/stat/111/923]; [Pub. L. 105–206, title III][/us/pl/105/206], §§ 3433(a), 3444(a), 3462(b), title VI, § 6010(f), July 22, 1998, [112 Stat. 759][/us/stat/112/759], 762, 765, 814; [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title III, § 313(b)(3)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–642; [Pub. L. 107–147, title IV, § 416(e)(1)][/us/pl/107/147/s416/e/1], Mar. 9, 2002, [116 Stat. 55][/us/stat/116/55]; [Pub. L. 108–357, title VIII, § 887(a)][/us/pl/108/357/s887/a], Oct. 22, 2004, [118 Stat. 1641][/us/stat/118/1641]; [Pub. L. 112–56, title III, § 301(a)][/us/pl/112/56/s301/a], Nov. 21, 2011, [125 Stat. 733][/us/stat/125/733]; [Pub. L. 113–295, div. B, title II, § 209(a)][/us/pl/113/295/s209/a], Dec. 19, 2014, [128 Stat. 4074][/us/stat/128/4074]; [Pub. L. 114–10, title IV, § 413(a)][/us/pl/114/10/s413/a], Apr. 16, 2015, [129 Stat. 162][/us/stat/129/162].)
 
  __References in Text__ 
 
@@ -232,6 +232,8 @@
     The Social Security Act, referred to in subsec. (h)(3), is [act Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], [49 Stat. 620][/us/stat/49/620]. Title XVIII of the Act is classified generally to subchapter XVIII (§ 1395 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42][/us/usc/t42/s1305] and Tables.
 
  __Amendments__ 
+
+    2015—Subsec. (h)(3). [Pub. L. 114–10][/us/pl/114/10] substituted “and by substituting ‘100 percent’ ” for “and by substituting ‘30 percent’ ”.
 
     2014—Subsec. (h)(3). [Pub. L. 113–295][/us/pl/113/295] inserted “and by substituting ‘30 percent’ for ‘15 percent’ in the case of any specified payment due to a Medicare provider or supplier under title XVIII of the Social Security Act” before period at end.
 
@@ -292,6 +294,12 @@
     1971—Subsecs. (d), (e). [Pub. L. 92–178][/us/pl/92/178] added subsec. (d) and redesignated former subsec. (d) as (e).
 
     1966—Subsec. (b). [Pub. L. 89–719][/us/pl/89/719] inserted sentence providing that a levy shall extend only to property possessed and obligations existing at the time thereof.
+
+ __Effective Date of 2015 Amendment__ 
+
+[Pub. L. 114–10, title IV, § 413(b)][/us/pl/114/10/s413/b], Apr. 16, 2015, [129 Stat. 162][/us/stat/129/162], provided that: 
+
+> “The amendment made by this section \[amending this section\] shall apply to payments made after 180 days after the date of the enactment of this Act \[Apr. 16, 2015\].”
 
  __Effective Date of 2014 Amendment__ 
 
@@ -416,6 +424,8 @@
 [/us/stat/125/733]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F733
 [/us/pl/113/295/s209/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs209%2Fa
 [/us/stat/128/4074]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4074
+[/us/pl/114/10/s413/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs413%2Fa
+[/us/stat/129/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F162
 [/us/act/1935-08-29/ch812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-29%2Fch812
 [/us/pl/93/445/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F445%2Fs101
 [/us/stat/88/1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1305
@@ -427,6 +437,7 @@
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
 [/us/usc/t42/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1305
+[/us/pl/114/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10
 [/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/112/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F56
 [/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
@@ -457,6 +468,8 @@
 [/us/pl/94/455/s1209/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1209%2Fd%2F1
 [/us/pl/92/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F178
 [/us/pl/89/719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F719
+[/us/pl/114/10/s413/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs413%2Fb
+[/us/stat/129/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F162
 [/us/pl/113/295/s209/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs209%2Fb
 [/us/stat/128/4074]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4074
 [/us/pl/112/56/s301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F56%2Fs301%2Fb
