@@ -175,7 +175,7 @@
 
         (1) considered a part of the total domestic supply (including carryover) for the purpose of subsection (c) or for the purpose of administering the Food for Peace Act ([7 U.S.C. 1691][/us/usc/t7/s1691] et seq.); and
 
-        (2) subject to any quantitative limitation on exports that may be imposed under [section 2406 of title 50][/us/usc/t50/s2406], Appendix.
+        (2) subject to any quantitative limitation on exports that may be imposed under [section 4606 of title 50][/us/usc/t50/s4606].
 
     (f) __Use of Commodity Credit Corporation__ 
 
@@ -325,7 +325,7 @@
 [/us/usc/t7/s1721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1721
 [/us/usc/t7/s1724/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1724%2Fa%2F3
 [/us/usc/t7/s1691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1691
-[/us/usc/t50/s2406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2406
+[/us/usc/t50/s4606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4606
 [/us/usc/t7/s1691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1691
 [/us/pl/96/494/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F494%2Fs302
 [/us/pl/104/127/s225/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs225%2Fa

@@ -19,7 +19,7 @@
 
     Notwithstanding any other provision of law, if—
 
-        (1) the President or other member of the executive branch of the Federal Government causes the export of any agricultural commodity to any country or area of the world to be suspended or restricted for reasons of national security or foreign policy under the Export Administration Act of 1979 (50 U.S.C. App. 2401 et seq.) or under any other provision of law;
+        (1) the President or other member of the executive branch of the Federal Government causes the export of any agricultural commodity to any country or area of the world to be suspended or restricted for reasons of national security or foreign policy under the Export Administration Act of 1979 (50 U.S.C. App. 2401 et seq.) \[now [50 U.S.C. 4601][/us/usc/t50/s4601] et seq.\] or under any other provision of law;
 
         (2) such suspension or restriction of the export of such agricultural commodity is imposed other than in connection with a suspension or restriction of all exports from the United States to such country or area of the world; and
 
@@ -59,7 +59,7 @@
 
  __References in Text__ 
 
-    The Export Administration Act of 1979, referred to in subsec. (a)(1), is [Pub. L. 96–72][/us/pl/96/72], Sept. 29, 1979, [93 Stat. 503][/us/stat/93/503], as amended, which is classified principally to section 2401 et seq. of the Appendix to Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 2401 of the Appendix to Title 50 and Tables.
+    The Export Administration Act of 1979, referred to in subsec. (a)(1), is [Pub. L. 96–72][/us/pl/96/72], Sept. 29, 1979, [93 Stat. 503][/us/stat/93/503], which was classified principally to section 2401 et seq. of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as chapter 56 (§ 4601 et seq.) of Title 50. For complete classification of this Act to the Code, see Tables.
 
     The Agricultural Act of 1949, referred to in subsec. (b)(1), (2), is [act Oct. 31, 1949, ch. 792][/us/act/1949-10-31/ch792], [63 Stat. 1051][/us/stat/63/1051], as amended, which is classified principally to chapter 35A (§ 1421 et seq.) of this title. Title I of the Act is classified generally to subchapter II (§ 1441 et seq.) of chapter 35A of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1421 of this title][/us/usc/t7/s1421] and Tables.
 
@@ -70,6 +70,7 @@
 ----------
 ----------
 
+[/us/usc/t50/s4601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4601
 [/us/usc/t7/s1441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1441
 [/us/usc/t7/s1421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1421
 [/us/pl/95/501/s411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F501%2Fs411

@@ -19,7 +19,7 @@
 
     (a) __Gasohol feedstock or food security reserves; establishment__ 
 
-        Whenever the President or other member of the executive branch of Government causes the export of any agricultural commodity to any country or area of the world to be suspended or restricted for reasons of national security or foreign policy under the Export Administration Act of 1979 \[50 U.S.C. App. 2401 et seq.\] or any other provision of law and the Secretary of Agriculture determines that such suspension or restriction will result in a surplus supply of such commodity that will adversely affect prices producers receive for the commodity, the Secretary may establish a gasohol feedstock reserve or a food security reserve, or both, of the commodity, as provided in subsections (c) and (d) of this section, if the commodity is suitable for stockpiling in a reserve.
+        Whenever the President or other member of the executive branch of Government causes the export of any agricultural commodity to any country or area of the world to be suspended or restricted for reasons of national security or foreign policy under the Export Administration Act of 1979 \[[50 U.S.C. 4601][/us/usc/t50/s4601] et seq.\] or any other provision of law and the Secretary of Agriculture determines that such suspension or restriction will result in a surplus supply of such commodity that will adversely affect prices producers receive for the commodity, the Secretary may establish a gasohol feedstock reserve or a food security reserve, or both, of the commodity, as provided in subsections (c) and (d) of this section, if the commodity is suitable for stockpiling in a reserve.
 
     (b) __Announcement of intention to establish reserves; contents__ 
 
@@ -67,7 +67,7 @@
 
  __References in Text__ 
 
-    The Export Administration Act of 1979, referred to in subsec. (a), is [Pub. L. 96–72][/us/pl/96/72], Sept. 29, 1979, [93 Stat. 503][/us/stat/93/503], as amended, which is classified principally to section 2401 et seq. of the Appendix to Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 2401 of the Appendix to Title 50 and Tables.
+    The Export Administration Act of 1979, referred to in subsec. (a), is [Pub. L. 96–72][/us/pl/96/72], Sept. 29, 1979, [93 Stat. 503][/us/stat/93/503], which is classified principally to chapter 56 (§ 4601 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Tables.
 
     [Section 1445e of this title][/us/usc/t7/s1445e], referred to in subsec. (c)(2), was amended generally by [Pub. L. 101–624, title XI, § 1123][/us/pl/101/624/s1123], Nov. 28, 1990, [104 Stat. 3503][/us/stat/104/3503], and, as so amended, subsec. (b) of section 1445e does not contain a clause (5).
 
@@ -108,6 +108,7 @@
 ----------
 ----------
 
+[/us/usc/t50/s4601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4601
 [/us/usc/t7/s4005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs4005
 [/us/usc/t7/s1736f–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1736f%E2%80%931
 [/us/pl/96/494/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F494%2Fs208

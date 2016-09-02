@@ -1403,7 +1403,7 @@
 
  __Amendments__ 
 
-    2015—Subsec. (k)(8)(A). [Pub. L. 114–74, § 201(1)][/us/pl/114/74/s201/1], inserted “shall renegotiate the financial terms and conditions of each Standard Reinsurance Agreement—” and cls. (i) and (ii) for “may renegotiate the financial terms and conditions of each Standard Reinsurance Agreement—
+    2015—Subsec. (k)(8)(A). [Pub. L. 114–74, § 201(1)][/us/pl/114/74/s201/1], substituted “shall renegotiate the financial terms and conditions of each Standard Reinsurance Agreement—” and cls. (i) and (ii) for “may renegotiate the financial terms and conditions of each Standard Reinsurance Agreement—
 
     “(i) to be effective for the 2011 reinsurance year beginning July 1, 2010; and
 

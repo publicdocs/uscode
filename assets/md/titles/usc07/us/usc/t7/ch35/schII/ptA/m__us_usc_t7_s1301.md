@@ -177,7 +177,7 @@
 
  __References in Text__ 
 
-    Emergency Price Control Act of 1942, referred to in subsec. (a)(1)(B), was [act Jan. 30, 1942, ch. 26][/us/act/1942-01-30/ch26], [56 Stat. 23][/us/stat/56/23], as amended, which was classified to section 901 et seq. of Title 50, Appendix, War and National Defense, and which terminated June 30, 1947.
+    The Emergency Price Control Act of 1942, referred to in subsec. (a)(1)(B), was [act Jan. 30, 1942, ch. 26][/us/act/1942-01-30/ch26], [56 Stat. 23][/us/stat/56/23], which was classified to section 901 et seq. of the former Appendix to Title 50, War and National Defense, and which terminated June 30, 1947.
 
     For effective date of the Agricultural Act of 1948, referred to in subsec. (a)(1)(E)(i), see Effective Date of 1948 Amendment note set out under [section 624 of this title][/us/usc/t7/s624] with reference to title I of said act, and Effective Date of 1948 Amendment note set out below with reference to titles II and III of said Act.
 

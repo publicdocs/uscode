@@ -21,7 +21,7 @@
 
     (2) not to restrict or limit the export of such commodities and products except under the most compelling circumstances;
 
-    (3) that any prohibition or limitation on the export of such commodities or products should be imposed only in time of a national emergency declared by the President under the Export Administration Act \[50 U.S.C. App. 2401 et seq.\]; and
+    (3) that any prohibition or limitation on the export of such commodities or products should be imposed only in time of a national emergency declared by the President under the Export Administration Act \[[50 U.S.C. 4601][/us/usc/t50/s4601] et seq.\]; and
 
     (4) that contracts for the export of such commodities or products entered into before the imposition of any prohibition or limitation on the export of such commodities or products should not be abrogated.
 
@@ -29,7 +29,7 @@
 
  __References in Text__ 
 
-    The Export Administration Act, referred to in par. (3), probably means the Export Administration Act of 1979, [Pub. L. 96–72][/us/pl/96/72], Sept. 29, 1979, [93 Stat. 503][/us/stat/93/503], as amended, which is classified principally to section 2401 et seq. of the Appendix to Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 2401 of the Appendix to Title 50 and Tables.
+    The Export Administration Act, referred to in par. (3), probably means the Export Administration Act of 1979, [Pub. L. 96–72][/us/pl/96/72], Sept. 29, 1979, [93 Stat. 503][/us/stat/93/503], which is classified principally to chapter 56 (§ 4601 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Tables.
 
  __Codification__ 
 
@@ -70,6 +70,7 @@
 ----------
 ----------
 
+[/us/usc/t50/s4601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4601
 [/us/pl/99/198/s1133/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1133%2Fa
 [/us/stat/99/1489]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1489
 [/us/pl/96/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F72
