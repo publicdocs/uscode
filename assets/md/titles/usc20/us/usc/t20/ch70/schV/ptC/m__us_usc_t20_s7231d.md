@@ -1,0 +1,93 @@
+---
+---
+
+# 20 U.S.C., USLM ref /us/usc/t20/s7231d
+
+* Portions Copyright © 2016 the authors of the https://github.com/publicdocs project.
+  Use of this file is subject to the NOTICE at [https://github.com/publicdocs/uscode/blob/master/NOTICE](https://github.com/publicdocs/uscode/blob/master/NOTICE)
+* See the [Document Metadata](././../../../../../..//README.md) for more information.
+  This file is generated from historical government data; content and/or formatting may be inaccurate and out-of-date and should not be used for official purposes.
+
+----------
+----------
+
+[Previous](./../../../../../..//us/usc/t20/ch70/schV/ptC/m__us_usc_t20_s7231c.md) | [Next](./../../../../../..//us/usc/t20/ch70/schV/ptC/m__us_usc_t20_s7231e.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7231d)
+
+## § 7231d. Applications and requirements
+
+    (a) __Applications__ 
+
+        An eligible local educational agency, or consortium of such agencies, desiring to receive a grant under this part shall submit an application to the Secretary at such time, in such manner, and containing such information and assurances as the Secretary may reasonably require.
+
+    (b) __Information and assurances__ 
+
+    Each application submitted under subsection (a) of this section shall include—
+
+        (1)
+
+         a description of—
+
+            (A) how a grant awarded under this part will be used to promote desegregation, including how the proposed magnet school programs will increase interaction among students of different social, economic, ethnic, and racial backgrounds;
+
+            (B) the manner and extent to which the magnet school program will increase student academic achievement in the instructional area or areas offered by the school;
+
+            (C) how the applicant will continue the magnet school program after assistance under this part is no longer available, and, if applicable, an explanation of why magnet schools established or supported by the applicant with grant funds under this part cannot be continued without the use of grant funds under this part;
+
+            (D)
+
+             how grant funds under this part will be used—
+
+                (i) to improve student academic achievement for all students attending the magnet school programs; and
+
+                (ii) to implement services and activities that are consistent with other programs under this chapter, and other Acts, as appropriate; and
+
+            (E) the criteria to be used in selecting students to attend the proposed magnet school program; and
+
+        (2)
+
+         assurances that the applicant will—
+
+            (A) use grant funds under this part for the purposes specified in [section 7231(b) of this title][/us/usc/t20/s7231/b];
+
+            (B) employ highly qualified teachers in the courses of instruction assisted under this part;
+
+            (C)
+
+             not engage in discrimination based on race, religion, color, national origin, sex, or disability in—
+
+                (i) the hiring, promotion, or assignment of employees of the applicant or other personnel for whom the applicant has any administrative responsibility;
+
+                (ii) the assignment of students to schools, or to courses of instruction within the schools, of such applicant, except to carry out the approved plan; and
+
+                (iii) designing or operating extracurricular activities for students;
+
+            (D) carry out a high-quality education program that will encourage greater parental decisionmaking and involvement; and
+
+            (E) give students residing in the local attendance area of the proposed magnet school program equitable consideration for placement in the program, consistent with desegregation guidelines and the capacity of the applicant to accommodate the students.
+
+    (c) __Special rule__ 
+
+        No grant shall be awarded under this part unless the Assistant Secretary of Education for Civil Rights determines that the assurances described in subsection (b)(2)(C) of this section will be met.
+
+([Pub. L. 89–10, title V, § 5305][/us/pl/89/10/s5305], as added [Pub. L. 107–110, title V, § 501][/us/pl/107/110/s501], Jan. 8, 2002, [115 Stat. 1808][/us/stat/115/1808].)
+
+ __Prior Provisions__ 
+
+    A prior [section 5305 of Pub. L. 89–10][/us/pl/89/10/s5305] was classified to [section 7265 of this title][/us/usc/t20/s7265], prior to the general amendment of this subchapter by [Pub. L. 107–110][/us/pl/107/110].
+
+----------
+
+[Previous](./../../../../../..//us/usc/t20/ch70/schV/ptC/m__us_usc_t20_s7231c.md) | [Next](./../../../../../..//us/usc/t20/ch70/schV/ptC/m__us_usc_t20_s7231e.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7231d)
+
+----------
+----------
+
+[/us/usc/t20/s7231/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7231%2Fb
+[/us/pl/89/10/s5305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs5305
+[/us/pl/107/110/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2Fs501
+[/us/stat/115/1808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1808
+[/us/pl/89/10/s5305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs5305
+[/us/usc/t20/s7265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7265
+[/us/pl/107/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110
+
+

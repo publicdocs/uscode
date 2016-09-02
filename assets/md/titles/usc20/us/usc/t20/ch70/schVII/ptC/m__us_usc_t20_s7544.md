@@ -1,0 +1,167 @@
+---
+---
+
+# 20 U.S.C., USLM ref /us/usc/t20/s7544
+
+* Portions Copyright © 2016 the authors of the https://github.com/publicdocs project.
+  Use of this file is subject to the NOTICE at [https://github.com/publicdocs/uscode/blob/master/NOTICE](https://github.com/publicdocs/uscode/blob/master/NOTICE)
+* See the [Document Metadata](././../../../../../..//README.md) for more information.
+  This file is generated from historical government data; content and/or formatting may be inaccurate and out-of-date and should not be used for official purposes.
+
+----------
+----------
+
+[Previous](./../../../../../..//us/usc/t20/ch70/schVII/ptC/m__us_usc_t20_s7543.md) | [Next](./../../../../../..//us/usc/t20/ch70/schVII/ptC/m__us_usc_t20_s7545.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7544)
+
+## § 7544. Program authorized
+
+    (a) __General authority__ 
+
+        (1) __Grants and contracts__ 
+
+            The Secretary is authorized to make grants to, or enter into contracts with, Alaska Native organizations, educational entities with experience in developing or operating Alaska Native programs or programs of instruction conducted in Alaska Native languages, cultural and community-based organizations with experience in developing or operating programs to benefit Alaska Natives, and consortia of organizations and entities described in this paragraph to carry out programs that meet the purposes of this part.
+
+        (2) __Permissible activities__ 
+
+        Activities provided through programs carried out under this part may include the following:
+
+            (A) The development and implementation of plans, methods, and strategies to improve the education of Alaska Natives.
+
+            (B)
+
+             The development of curricula and educational programs that address the educational needs of Alaska Native students, including the following:
+
+                (i) Curriculum materials that reflect the cultural diversity or the contributions of Alaska Natives.
+
+                (ii) Instructional programs that make use of Native Alaskan languages.
+
+                (iii) Networks that introduce successful programs, materials, and techniques to urban and rural schools.
+
+            (C)
+
+             Professional development activities for educators, including the following:
+
+                (i) Programs to prepare teachers to address the cultural diversity and unique needs of Alaska Native students.
+
+                (ii) In-service programs to improve the ability of teachers to meet the unique needs of Alaska Native students.
+
+                (iii) Recruitment and preparation of teachers who are Alaska Native, reside in communities with high concentrations of Alaska Native students, or are likely to succeed as teachers in isolated, rural communities and engage in cross-cultural instruction in Alaska.
+
+            (D) The development and operation of home instruction programs for Alaska Native preschool children, to ensure the active involvement of parents in their children’s education from the earliest ages.
+
+            (E) Family literacy services.
+
+            (F)
+
+             The development and operation of student enrichment programs in science and mathematics that—
+
+                (i) are designed to prepare Alaska Native students from rural areas, who are preparing to enter secondary school, to excel in science and math;
+
+                (ii) provide appropriate support services to the families of such students that are needed to enable such students to benefit from the programs; and
+
+                (iii) may include activities that recognize and support the unique cultural and educational needs of Alaska Native children, and incorporate appropriately qualified Alaska Native elders and seniors.
+
+            (G) Research and data collection activities to determine the educational status and needs of Alaska Native children and adults.
+
+            (H) Other research and evaluation activities related to programs carried out under this part.
+
+            (I) Remedial and enrichment programs to assist Alaska Native students in performing at a high level on standardized tests.
+
+            (J) Education and training of Alaska Native students enrolled in a degree program that will lead to certification or licensing as teachers.
+
+            (K) Parenting education for parents and caregivers of Alaska Native children to improve parenting and caregiving skills (including skills relating to discipline and cognitive development), including parenting education provided through in-home visitation of new mothers.
+
+            (L) Cultural education programs operated by the Alaska Native Heritage Center and designed to share the Alaska Native culture with students.
+
+            (M) A cultural exchange program operated by the Alaska Humanities Forum and designed to share Alaska Native culture with urban students in a rural setting, which shall be known as the Rose Cultural Exchange Program.
+
+            (N) Activities carried out through Even Start programs carried out under subpart 3 of part B of subchapter I of this chapter and Head Start programs carried out under the Head Start Act \[[42 U.S.C. 9831][/us/usc/t42/s9831] et seq.\], including the training of teachers for programs described in this subparagraph.
+
+            (O) Other early learning and preschool programs.
+
+            (P) Dropout prevention programs operated by the Cook Inlet Tribal Council’s Partners for Success program.
+
+            (Q) An Alaska Initiative for Community Engagement program.
+
+            (R) Career preparation activities to enable Alaska Native children and adults to prepare for meaningful employment, including programs providing tech-prep, mentoring, training, and apprenticeship activities.
+
+            (S) Provision of operational support and purchasing of equipment, to develop regional vocational schools in rural areas of Alaska, including boarding schools, for Alaska Native students in grades 9 through 12, or at higher levels of education, to provide the students with necessary resources to prepare for skilled employment opportunities.
+
+            (T) Other activities, consistent with the purposes of this part, to meet the educational needs of Alaska Native children and adults.
+
+        (3) __Home instruction programs__ 
+
+        Home instruction programs for Alaska Native preschool children carried out under paragraph (2)(D) may include the following:
+
+            (A) Programs for parents and their infants, from the prenatal period of the infant through age 3.
+
+            (B) Preschool programs.
+
+            (C) Training, education, and support for parents in such areas as reading readiness, observation, story telling, and critical thinking.
+
+    (b) __Limitation on administrative costs__ 
+
+        Not more than 5 percent of funds provided to a grantee under this section for any fiscal year may be used for administrative purposes.
+
+    (c) __Priorities__ 
+
+        In awarding grants or contracts to carry out activities described in subsection (a)(2) of this section, except for activities listed in subsection (d)(2) of this section, the Secretary shall give priority to applications from Alaska Native regional nonprofit organizations, or consortia that include at least one Alaska Native regional nonprofit organization.
+
+    (d) __Authorization of appropriations__ 
+
+        (1) __In general__ 
+
+            There are authorized to be appropriated to carry out this section such sums as may be necessary for fiscal year 2002 and each of the 5 succeeding fiscal years.
+
+        (2) __Availability of funds__ 
+
+        Of the funds appropriated and made available under this section for a fiscal year, the Secretary shall make available—
+
+            (A) not less than $1,000,000 to support activities described in subsection (a)(2)(K) of this section;
+
+            (B) not less than $1,000,000 to support activities described in subsection (a)(2)(L) of this section;
+
+            (C) not less than $1,000,000 to support activities described in subsection (a)(2)(M) of this section;
+
+            (D) not less than $2,000,000 to support activities described in subsection (a)(2)(P) of this section; and
+
+            (E) not less than $2,000,000 to support activities described in subsection (a)(2)(Q) of this section.
+
+([Pub. L. 89–10, title VII, § 7304][/us/pl/89/10/s7304], as added [Pub. L. 107–110, title VII, § 701][/us/pl/107/110/s701], Jan. 8, 2002, [115 Stat. 1943][/us/stat/115/1943]; amended [Pub. L. 108–11, title II, § 2504][/us/pl/108/11/s2504], Apr. 16, 2003, [117 Stat. 599][/us/stat/117/599].)
+
+ __References in Text__ 
+
+    The Head Start Act, referred to in subsec. (a)(2)(N), is subchapter B (§ 635 et seq.) of chapter 8 of subtitle A of title VI of [Pub. L. 97–35][/us/pl/97/35], Aug. 13, 1981, [95 Stat. 499][/us/stat/95/499], as amended, which is classified generally to subchapter II (§ 9831 et seq.) of chapter 105 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 9801 of Title 42][/us/usc/t42/s9801] and Tables.
+
+ __Prior Provisions__ 
+
+    A prior section 7544, [Pub. L. 89–10, title VII, § 7304][/us/pl/89/10/s7304], as added [Pub. L. 103–382, title I, § 101][/us/pl/103/382/s101], Oct. 20, 1994, [108 Stat. 3740][/us/stat/108/3740], related to State allocations, prior to the general amendment of this subchapter by [Pub. L. 107–110][/us/pl/107/110]. See [section 6964 of this title][/us/usc/t20/s6964].
+
+ __Amendments__ 
+
+    2003—Subsec. (a)(2)(P). [Pub. L. 108–11][/us/pl/108/11] substituted “operated by” for “such as”.
+
+----------
+
+[Previous](./../../../../../..//us/usc/t20/ch70/schVII/ptC/m__us_usc_t20_s7543.md) | [Next](./../../../../../..//us/usc/t20/ch70/schVII/ptC/m__us_usc_t20_s7545.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7544)
+
+----------
+----------
+
+[/us/usc/t42/s9831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9831
+[/us/pl/89/10/s7304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs7304
+[/us/pl/107/110/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2Fs701
+[/us/stat/115/1943]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1943
+[/us/pl/108/11/s2504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F11%2Fs2504
+[/us/stat/117/599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F599
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
+[/us/stat/95/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F499
+[/us/usc/t42/s9801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9801
+[/us/pl/89/10/s7304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs7304
+[/us/pl/103/382/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs101
+[/us/stat/108/3740]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3740
+[/us/pl/107/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110
+[/us/usc/t20/s6964]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6964
+[/us/pl/108/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F11
+
+
