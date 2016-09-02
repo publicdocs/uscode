@@ -117,7 +117,7 @@
 
 >     “(1)  __In general__  __.—__ 
 
->     Not later than 1 year after the date of the enactment of this Act \[Sept. 24, 2015\], the Federal Trade Commission shall revise the rules prescribed under such section \[meaning [section 102(b) of Pub. L. 93–637][/us/pl/93/637/s102/b]\] to comply with the requirements of paragraph (4) of such section, as added by subsection (a) of this section \[amending this section\].
+>     Not later than 1 year after the date of the enactment of this Act \[Sept. 24, 2015\], the Federal Trade Commission shall revise the rules prescribed under such section \[meaning [section 102(b) of Pub. L. 93–637][/us/pl/93/637/s102/b], which is classified to subsec. (b) of this section\] to comply with the requirements of paragraph (4) of such section, as added by subsection (a) of this section \[amending this section\].
 
 >     “(2)  __Authority to waive requirement for oral presentation__  __.—__ 
 

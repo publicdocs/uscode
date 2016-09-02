@@ -23,7 +23,7 @@
 
  __References in Text__ 
 
-    Public Law 84, Eightieth Congress, referred to in subsec. (b), is [act May 31, 1947, ch. 90][/us/act/1947-05-31/ch90], [61 Stat. 125][/us/stat/61/125], which was classified generally to chapter 17 (§ 1411 et seq.) of Title 22, Foreign Relations and Intercourse, and which was repealed by [act Aug. 26, 1954, ch. 937, title V][/us/act/1954-08-26/ch937/tV], § 542(a)(2), [68 Stat. 861][/us/stat/68/861]. For complete classification of this Act to the Code, see Tables.
+    Public Law 84, Eightieth Congress, referred to in subsec. (b), is [act May 31, 1947, ch. 90][/us/act/1947-05-31/ch90], [61 Stat. 125][/us/stat/61/125], which was classified generally to chapter 17 (§ 1411 et seq.) of Title 22, Foreign Relations and Intercourse, and was repealed by [act Aug. 26, 1954, ch. 937, title V][/us/act/1954-08-26/ch937/tV], § 542(a)(2), [68 Stat. 861][/us/stat/68/861]. For complete classification of this Act to the Code, see Tables.
 
     [Section 6101 of title 41][/us/usc/t41/s6101], referred to in subsec. (b), was in the original a reference to section 3709 of the Revised Statutes, which was classified to section 5 of former Title 41, Public Contracts, and was repealed and restated in [section 6101 of Title 41][/us/usc/t41/s6101], Public Contracts, by [Pub. L. 111–350][/us/pl/111/350], §§ 3, 7(b), Jan. 4, 2011, [124 Stat. 3677][/us/stat/124/3677], 3855.
 

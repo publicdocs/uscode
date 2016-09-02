@@ -183,7 +183,7 @@
 
                 The Office of Hearings and Appeals shall only hear appeals of matters as described in this chapter, the Small Business Investment Act of 1958 ([15 U.S.C. 661][/us/usc/t15/s661] et seq.), and title 13 of the Code of Federal Regulations.
 
-            (C) __Associate administrator__ 
+            (C) __Associate Administrator__ 
 
                 The head of the Office of Hearings and Appeals shall be the Chief Hearing Officer appointed under [section 633(b)(1) of this title][/us/usc/t15/s633/b/1], who shall be responsible to the Administrator.
 
@@ -242,6 +242,8 @@
     The Small Business Investment Act of 1958, referred to in subsecs. (b)(12)(C), (D) and (i)(1)(B) is [Pub. L. 85–699][/us/pl/85/699], Aug. 21, 1958, [72 Stat. 689][/us/stat/72/689], which is classified principally to chapter 14B (§ 661 et seq.) of this title. Title III of the Act is classified generally to subchapter III (§ 681 et seq.) of chapter 14B of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 661 of this title][/us/usc/t15/s661] and Tables.
 
     Subsection (h)(2) of this section, referred to in subsec. (g)(4)(A), was redesignated subsec. (h)(1)(B) by [Pub. L. 104–208, div. D, title II][/us/pl/104/208/dD/tII], § 205(a)(1), (2), Sept. 30, 1996, [110 Stat. 3009–738][/us/stat/110/3009-738].
+
+    The effective date of this subsection, referred to in subsec. (i)(3)(D), probably means the date of enactment of [Pub. L. 114–92][/us/pl/114/92], which added subsec. (i) and which was approved Nov. 25, 2015.
 
  __Codification__ 
 
@@ -483,6 +485,7 @@
 [/us/usc/t15/s661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs661
 [/us/pl/104/208/dD/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdD%2FtII
 [/us/stat/110/3009-738]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-738
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
 [/us/usc/t41/s6101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs6101
 [/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854

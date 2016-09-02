@@ -197,7 +197,7 @@
 
     2015—Subsec. (a)(7). [Pub. L. 114–94][/us/pl/114/94], § 76001(a)(1), added par. (7).
 
-    Subsecs. (b), (c). [Pub. L. 114–94][/us/pl/114/94], § 76001(a)(2), redesignated subsec. (b) relating to securities offered and sold in compliance with Rule 506 of Regulation D as (c).
+    Subsec. (c). [Pub. L. 114–94][/us/pl/114/94], § 76001(a)(2), redesignated subsec. (b) relating to securities offered and sold in compliance with Rule 506 of Regulation D as (c).
 
     Subsecs. (d), (e). [Pub. L. 114–94][/us/pl/114/94], § 76001(a)(3), added subsecs. (d) and (e).
 

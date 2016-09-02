@@ -87,7 +87,7 @@
 
         (1) __Fraud authority__ 
 
-        Consistent with this section, the securities commission (or any agency or office performing like functions) of any State shall retain jurisdiction under the laws of such State to investigate and bring enforcement actions, in connection with securities or securities transactions  <sup>\[2\]</sup>  <sup><sup> 2 So in original. The words “in connection with securities or securities transactions” probably should be part of subpar. (A). </sup></sup> 
+        Consistent with this section, the securities commission (or any agency or office performing like functions) of any State shall retain jurisdiction under the laws of such State to investigate and bring enforcement actions, in connection with securities or securities transactions  <sup>\[2\]</sup>  <sup><sup> 2 So in original. The comma after “enforcement actions” probably should be a hyphen and the words “in connection with securities or securities transactions” probably should be part of subpar. (A). </sup></sup> 
 
             (A)
 
@@ -177,7 +177,7 @@
 
  __Amendments__ 
 
-    2015—Subsec. (b)(4)(E). [Pub. L. 114–94][/us/pl/114/94], § 76001(b)(1), which directed amendment of subsec. (b)(4) by redesignating “the second subparagraph (D)” as (E), was executed by making the redesignation for the subpar. (D) relating to [section 77c(a) of this title][/us/usc/t15/s77c/a] to reflect the probable intent of Congress. Former subpar. (E) redesignated (F)
+    2015—Subsec. (b)(4)(E). [Pub. L. 114–94][/us/pl/114/94], § 76001(b)(1), which directed amendment of subsec. (b)(4) by redesignating “the second subparagraph (D)” as (E), was executed by making the redesignation for the subpar. (D) relating to [section 77c(a) of this title][/us/usc/t15/s77c/a] to reflect the probable intent of Congress. Former subpar. (E) redesignated (F).
 
     Subsec. (b)(4)(F). [Pub. L. 114–94][/us/pl/114/94], § 76001(b)(1), redesignated subpar. (E) as (F).
 

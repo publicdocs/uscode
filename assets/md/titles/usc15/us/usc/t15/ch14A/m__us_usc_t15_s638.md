@@ -1587,7 +1587,7 @@
 
  __Amendments__ 
 
-    2015—Subsec. (mm)(1). [Pub. L. 114–92][/us/pl/114/92] substituted “and until September 30, 2017,” for “, for the 3 fiscal years beginning after December 31, 2011,”.
+    2015—Subsec. (mm)(1). [Pub. L. 114–92][/us/pl/114/92] substituted “and until September 30, 2017,” for “, for the 3 fiscal years beginning after December 31, 2011,” in introductory provisions.
 
     2013—Subsec. (b)(7). [Pub. L. 112–239][/us/pl/112/239], § 1076(a)(20)(A), repealed [Pub. L. 112–81][/us/pl/112/81], § 1067(a)(1). See 2011 Amendment note below.
 

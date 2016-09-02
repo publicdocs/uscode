@@ -203,7 +203,7 @@
 
     “(bb) Alternate job retention goal.—The Administrator may provide financing under this subparagraph to a borrower that does not meet the goals described in item (aa) in an amount that is not more than the product obtained by multiplying the number of employees of the borrower by $65,000.
 
-    “(II) Number of employees.-For purposes of subclause (I), the number of employees of a borrower is equal to the sum of—
+    “(II) Number of employees.—For purposes of subclause (I), the number of employees of a borrower is equal to the sum of—
 
     “(aa) the number of full-time employees of the borrower on the date on which the borrower applies for a loan under this subparagraph; and
 

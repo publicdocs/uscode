@@ -1649,7 +1649,7 @@
 
         (13)
 
-         A Program Participant, if otherwise eligible, shall be qualified to receive the following assistance during the stages of program participation specified in paragraph 12:  <sup>\[13\]</sup>  <sup><sup> 13 So in original. Probably should be paragraph “(12):”. </sup></sup> 
+         A Program Participant, if otherwise eligible, shall be qualified to receive the following assistance during the stages of program participation specified in paragraph 12:  <sup>\[13\]</sup>  <sup><sup> 13 So in original. Probably should be “paragraph (12):”. </sup></sup> 
 
             (A) Contract support pursuant to [section 637(a) of this title][/us/usc/t15/s637/a].
 
@@ -2421,7 +2421,7 @@
 
     Subsec. (d)(8). [Pub. L. 114–88][/us/pl/114/88], § 1101, added par. (8).
 
-    Subsec. (j)(10)(D)(i). [Pub. L. 114–92][/us/pl/114/92], § 865(a)(2), struck out “The Business Opportunity Specialist shall have a Level I Federal Acquisition Certification in Contracting (or any successor certification) or the equivalent Department of Defense certification, except that a Business Opportunity Specialist serving at the time of the date of enactment of the National Defense Authorization Act for Fiscal Year 2013 may continue to serve as a Business Opportunity Specialist for a period of 5 years beginning on that date of enactment without such a certification.” after “to assist such Program Participant.”
+    Subsec. (j)(10)(D)(i). [Pub. L. 114–92][/us/pl/114/92] struck out “The Business Opportunity Specialist shall have a Level I Federal Acquisition Certification in Contracting (or any successor certification) or the equivalent Department of Defense certification, except that a Business Opportunity Specialist serving at the time of the date of enactment of the National Defense Authorization Act for Fiscal Year 2013 may continue to serve as a Business Opportunity Specialist for a period of 5 years beginning on that date of enactment without such a certification.” after “to assist such Program Participant.”
 
     Subsec. (j)(13)(F). [Pub. L. 114–88][/us/pl/114/88], § 2105, designated existing provisions as cl. (i) and added cl. (ii).
 

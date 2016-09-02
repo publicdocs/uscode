@@ -291,7 +291,7 @@
 
  __Terrorism Insurance Program__ 
 
-[Pub. L. 107–297, title I][/us/pl/107/297/tI], Nov. 26, 2002, [116 Stat. 2322][/us/stat/116/2322], as amended by [Pub. L. 109–144][/us/pl/109/144], §§ 2–8, Dec. 22, 2005, [119 Stat. 2660–2662][/us/stat/119/2660-2662]; [Pub. L. 110–160][/us/pl/110/160], §§ 2–5, Dec. 26, 2007, [121 Stat. 1839–1841][/us/stat/121/1839-1841], [Pub. L. 114–1, title I][/us/pl/114/1/tI], §§ 101–106, 107(e), 111, 112, Jan. 12, 2015, [129 Stat. 3–5][/us/stat/129/3-5], 8, 10–12, provided that:
+[Pub. L. 107–297, title I][/us/pl/107/297/tI], Nov. 26, 2002, [116 Stat. 2322][/us/stat/116/2322], as amended by [Pub. L. 109–144][/us/pl/109/144], §§ 2–8, Dec. 22, 2005, [119 Stat. 2660–2662][/us/stat/119/2660-2662]; [Pub. L. 110–160][/us/pl/110/160], §§ 2–5, Dec. 26, 2007, [121 Stat. 1839–1841][/us/stat/121/1839-1841], [Pub. L. 114–1, title I][/us/pl/114/1/tI], §§ 101–106, 107(e), 111, 112, Jan. 12, 2015, [129 Stat. 3–5][/us/stat/129/3-5], 8, 10, 12, provided that:
 
 > “SEC. 101. __CONGRESSIONAL FINDINGS AND PURPOSE.__ 
 

@@ -169,7 +169,7 @@
 
 >     “(1)  __Requirement to include notice on forms s–1 and f–1__  __.—__ 
 
->     Not later than 30 days after the date of enactment of this subsection, the Securities and Exchange Commission shall revise its general instructions on Forms S–1 and F–1 to indicate that a registration statement filed (or submitted for confidential review) by an issuer prior to an initial public offering may omit financial information for historical periods otherwise required by regulation S–X (17 CFR 210.1–01 et seq.) as of the time of filing (or confidential submission) of such registration statement, provided that—
+>     Not later than 30 days after the date of enactment of this subsection \[Dec. 4, 2015\], the Securities and Exchange Commission shall revise its general instructions on Forms S–1 and F–1 to indicate that a registration statement filed (or submitted for confidential review) by an issuer prior to an initial public offering may omit financial information for historical periods otherwise required by regulation S–X (17 CFR 210.1–01 et seq.) as of the time of filing (or confidential submission) of such registration statement, provided that—
 
 >         “(A) the omitted financial information relates to a historical period that the issuer reasonably believes will not be required to be included in the Form S–1 or F–1 at the time of the contemplated offering; and
 

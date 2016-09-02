@@ -63,7 +63,7 @@
 
             In any proceeding instituted pursuant to subsection (b) against any person, the Commission may impose a civil penalty if it finds, on the record after notice and opportunity for hearing, that such penalty is in the public interest, and that such person—
 
-                (i) has willfully violated any provision of the Securities Act of 1933 \[[15 U.S.C. 77a][/us/usc/t15/s77a] et seq.\], the Securities Exchange Act of 1934 \[[15 U.S.C. 78a][/us/usc/t15/s78a] et seq.\], the Investment Advisers Act of 1940 \[[15 U.S.C. 80b–1][/us/usc/t15/s80b–1] et seq.\], or this subchapter, or the rules or regulations thereunder;
+                (i) has willfully violated any provision of the Securities Act of 1933 \[[15 U.S.C. 77a][/us/usc/t15/s77a] et seq.\], the Securities Exchange Act of 1934 \[[15 U.S.C. 78a][/us/usc/t15/s78a] et seq.\], subchapter II of this chapter, or this subchapter, or the rules or regulations thereunder;
 
                 (ii) has willfully aided, abetted, counseled, commanded, induced, or procured such a violation by any other person; or
 
@@ -105,7 +105,7 @@
 
             (C) the extent to which any person was unjustly enriched, taking into account any restitution made to persons injured by such behavior;
 
-            (D) whether such person previously has been found by the Commission, another appropriate regulatory agency, or a self-regulatory organization to have violated the Federal securities laws, State securities laws, or the rules of a self-regulatory organization, has been enjoined by a court of competent jurisdiction from violations of such laws or rules, or has been convicted by a court of competent jurisdiction of violations of such laws or of any felony or misdemeanor described in section 203(e)(2) of the Investment Advisers Act of 1940 \[[15 U.S.C. 80b–3(e)(2)][/us/usc/t15/s80b–3/e/2]\];
+            (D) whether such person previously has been found by the Commission, another appropriate regulatory agency, or a self-regulatory organization to have violated the Federal securities laws, State securities laws, or the rules of a self-regulatory organization, has been enjoined by a court of competent jurisdiction from violations of such laws or rules, or has been convicted by a court of competent jurisdiction of violations of such laws or of any felony or misdemeanor described in [section 80b–3(e)(2) of this title][/us/usc/t15/s80b–3/e/2];
 
             (E) the need to deter such person and other persons from committing such acts or omissions; and
 
@@ -180,8 +180,6 @@
     The Securities Act of 1933, referred to in subsecs. (b)(2), (3) and (d)(1)(A)(i), is [act May 27, 1933, ch. 38, title I][/us/act/1933-05-27/ch38/tI], [48 Stat. 74][/us/stat/48/74], which is classified generally to subchapter I (§ 77a et seq.) of chapter 2A of this title. For complete classification of this Act to the Code, see [section 77a of this title][/us/usc/t15/s77a] and Tables.
 
     The Securities Exchange Act of 1934, referred to in subsecs. (b)(2), (3) and (d)(1)(A)(i), is [act June 6, 1934, ch. 404][/us/act/1934-06-06/ch404], [48 Stat. 881][/us/stat/48/881], which is classified generally to 2B (§ 78a et seq.) of this title. For complete classification of this Act to the Code, see [section 78a of this title][/us/usc/t15/s78a] and Tables.
-
-    The Investment Advisers Act of 1940, referred to in subsec. (d)(1)(A)(i), is title II of [act Aug. 22, 1940, ch. 686][/us/act/1940-08-22/ch686], [54 Stat. 847][/us/stat/54/847], which is classified generally to subchapter II (§ 80b–1 et seq.) of of this chapter. For complete classification of this Act to the Code, see [section 80b–20 of this title][/us/usc/t15/s80b–20] and Tables.
 
  __Amendments__ 
 
@@ -266,7 +264,6 @@
 [/us/usc/t7/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1
 [/us/usc/t15/s77a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs77a
 [/us/usc/t15/s78a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78a
-[/us/usc/t15/s80b–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs80b%E2%80%931
 [/us/usc/t15/s80b–3/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs80b%E2%80%933%2Fe%2F2
 [/us/usc/t15/s80a–39/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs80a%E2%80%9339%2Fa
 [/us/usc/t15/s80a–42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs80a%E2%80%9342
@@ -299,9 +296,6 @@
 [/us/act/1934-06-06/ch404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-06%2Fch404
 [/us/stat/48/881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F881
 [/us/usc/t15/s78a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78a
-[/us/act/1940-08-22/ch686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-08-22%2Fch686
-[/us/stat/54/847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F847
-[/us/usc/t15/s80b–20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs80b%E2%80%9320
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/109/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F291
