@@ -259,7 +259,7 @@ Disabled Veterans’ LIFE Memorial.—Pub. L. 106–348, Oct. 24, 2000, 114 Stat
 
     <td> 
 
-Dwight D. Eisenhower Memorial.—Pub. L. 106–79, title VIII, § 8162, Oct. 25, 1999, 113 Stat. 1274; Pub. L. 107–117, div. A, title VIII, § 8120(a), (b), Jan. 10, 2002, 115 Stat. 2273, 2274; Pub. L. 109–220, May 5, 2006, 120 Stat. 335; Pub. L. 110–229, title III, § 332, May 8, 2008, 122 Stat. 782; Pub. L. 112–74, div. E, title III, Dec. 23, 2011, 125 Stat. 1036; Pub. L. 113–6, div. F, title IV, § 1413, Mar. 26, 2013, 127 Stat. 421.  </td>
+Dwight D. Eisenhower Memorial.—Pub. L. 106–79, title VIII, § 8162, Oct. 25, 1999, 113 Stat. 1274; Pub. L. 107–117, div. A, title VIII, § 8120(a), (b), Jan. 10, 2002, 115 Stat. 2273, 2274; Pub. L. 109–220, May 5, 2006, 120 Stat. 335; Pub. L. 110–229, title III, § 332, May 8, 2008, 122 Stat. 782; Pub. L. 112–74, div. E, title III, Dec. 23, 2011, 125 Stat. 1036; Pub. L. 113–6, div. F, title IV, § 1413, Mar. 26, 2013, 127 Stat. 421; Pub. L. 113–76, div. G, title IV, § 437(a), Jan. 17, 2014, 128 Stat. 347.  </td>
 
   </tr>
 
@@ -347,6 +347,14 @@ National Peace Garden.—Pub. L. 100–63, June 30, 1987, 101 Stat. 379; Pub. L.
 
     <td> 
 
+Peace Corps Memorial.—Pub. L. 113–78, Jan. 24, 2014, 128 Stat. 647.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
 Thomas Paine Memorial.—Pub. L. 102–407, Oct. 13, 1992, 106 Stat. 1991; Pub. L. 102–459, Oct. 23, 1992, 106 Stat. 2268; Pub. L. 103–422, Oct. 25, 1994, 108 Stat. 4356; Pub. L. 106–113, div. B, § 1000(a)(3) [title I, § 142], Nov. 29, 1999, 113 Stat. 1535, 1501A–171.  </td>
 
   </tr>
@@ -396,6 +404,14 @@ Women in Military Service for America Memorial.—Pub. L. 99–500, § 101(h) 
     <td> 
 
 World War II Memorial.—Pub. L. 103–32, May 25, 1993, 107 Stat. 90; Pub. L. 103–422, Oct. 25, 1994, 108 Stat. 4356; Pub. L. 106–58, title VI, § 652, Sept. 29, 1999, 113 Stat. 480; Pub. L. 106–117, title VI, § 601(b), Nov. 30, 1999, 113 Stat. 1578; Pub. L. 107–11, May 28, 2001, 115 Stat. 19.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
+World War II Memorial Prayer Plaque.—Pub. L. 113–123, June 30, 2014, 128 Stat. 1377.  </td>
 
   </tr>
 

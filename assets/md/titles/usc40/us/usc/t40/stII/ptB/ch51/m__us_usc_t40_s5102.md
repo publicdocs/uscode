@@ -149,6 +149,52 @@ July 31, 1946, ch. 707, § 1, 60 Stat. 718; Pub. L. 90–108, § 1(a), Oct. 
 
     Amendment by [Pub. L. 108–7][/us/pl/108/7] applicable to fiscal year 2003 and each fiscal year thereafter, see [section 1016(d) of Pub. L. 108–7][/us/pl/108/7/s1016/d], set out as a note under [section 1961 of Title 2][/us/usc/t2/s1961], The Congress.
 
+ __Authorizing Commercial Activity on Union Square__ 
+
+[Pub. L. 113–76, div. I, title II, § 213][/us/pl/113/76/s213], Jan. 17, 2014, [128 Stat. 436][/us/stat/128/436], provided that:
+
+>     “(a) __Treatment as Part of Capitol Grounds.—__ 
+
+>         “(1)  __In general__  __.—__ 
+
+>         For purposes of chapter 51 of title 40, United States Code, the United States Capitol Grounds shall include Union Square.
+
+>         “(2)  __Union square defined__  __.—__ 
+
+>         In this section, the term ‘Union Square’ means the area for which jurisdiction and control was transferred to the Architect of the Capitol under section 1202 of the Legislative Branch Appropriations Act, 2012 ([Public Law 112–74][/us/pl/112/74]) \[[2 U.S.C. 1811][/us/usc/t2/s1811] note\].
+
+>     “(b) __Continuation of Types of Activity Previously Authorized.—__ 
+
+>         “(1)  __In general__  __.—__ 
+
+>         Notwithstanding any limitations on the use of the United States Capitol Grounds (including [section 5104(c) of title 40][/us/usc/t40/s5104/c], United States Code), the Chief of the United States Capitol Police (hereafter referred to as the ‘Chief’)—
+
+>             “(A) may issue a permit authorizing a person to engage in commercial activity in Union Square if the activity is similar to the types of commercial activity permitted in Union Square prior to the transfer of jurisdiction and control of Union Square to the Architect of the Capitol under section 1202 of the Legislative Branch Appropriations Act, 2012 ([Public Law 112–74][/us/pl/112/74]) \[[2 U.S.C. 1811][/us/usc/t2/s1811] note\]; and
+
+>             “(B) under the terms and conditions of such a permit, may require the person to whom the permit is issued to pay a fee to cover any costs incurred by the Architect of the Capitol as a result of the issuance of the permit, if the fees are similar to the fees collected by the Director of the National Park Service for commercial activity permitted in Union Square prior to such transfer of jurisdiction and control.
+
+>         “(2)  __Regulations__  __.—__ 
+
+>         The Chief shall carry out this section in accordance with such regulations as the Capitol Police Board may promulgate pursuant to the Board’s authority under [section 14 of the Act of July 31, 1946][/us/act/1946-07-31/s14] ([2 U.S.C. 1969][/us/usc/t2/s1969]), except that the Board shall promulgate the regulations in consultation with the Committee on House Administration of the House of Representatives and the Committee on Rules and Administration of the Senate.
+
+>     “(c) __Capitol Trust Account.—__ 
+
+>         “(1)  __Establishment__  __.—__ 
+
+>         There is established in the Treasury of the United States an account for the Architect of the Capitol to be known as the ‘Capitol Trust Account’, consisting of all fees collected by the Chief under subsection (b)(2).
+
+>         “(2)  __Transfer__  __.—__ 
+
+>         Immediately upon receiving any fees collected under subsection (b)(2), the Chief shall transfer the fees to the Capitol Trust Account.
+
+>         “(3)  __Use of funds__  __.—__ 
+
+>         Amounts in the Capitol Trust Account shall be available without fiscal year limitation for such maintenance, improvements, and projects with respect to Union Square as the Architect of the Capitol considers appropriate, subject to the approval of the Committees on Appropriations of the House of Representatives and Senate.
+
+>     “(d)  __Effective Date__  __.—__ 
+
+>     This section shall take effect on the date of the enactment of the Legislative Branch Appropriations Act, 2012 ([Public Law 112–74][/us/pl/112/74]) \[Dec. 23, 2011\].”
+
  __Transfers and Conveyances Affecting Properties in the District of Columbia and General Provisions__ 
 
 [Pub. L. 109–396, title II][/us/pl/109/396], §§ 201, 204, title IV, §§ 401–407, Dec. 15, 2006, [120 Stat. 2713][/us/stat/120/2713], 2715, 2718–2720, provided that:
@@ -656,6 +702,16 @@ HOUSE OFFICE BUILDING COMMISSION
 [/us/pl/108/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7
 [/us/pl/108/7/s1016/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs1016%2Fd
 [/us/usc/t2/s1961]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1961
+[/us/pl/113/76/s213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs213
+[/us/stat/128/436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F436
+[/us/pl/112/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74
+[/us/usc/t2/s1811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1811
+[/us/usc/t40/s5104/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs5104%2Fc
+[/us/pl/112/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74
+[/us/usc/t2/s1811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1811
+[/us/act/1946-07-31/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-31%2Fs14
+[/us/usc/t2/s1969]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1969
+[/us/pl/112/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74
 [/us/pl/109/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F396
 [/us/stat/120/2713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2713
 [/us/pl/106/348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F348
